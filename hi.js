@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Cristiano Ronaldo speaks on his international future after World Cup dream ends with loss to Spain",
+    "desc": "Portugal legend Cristiano Ronaldo has confirmed that he has played in his last FIFA World Cup but stated that he won't be making \"rash decisions\" on whether he has played his last international match for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/cristiano-ronaldo-speaks-on-his-international-future-after-world-cup-dream-ends-with-loss-to-spain-2026-07-07-1047445",
+    "time": "2026-07-07T11:17:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shapoor Zadran, former Afghanistan fast-bowler, passes away one day before 39th birthday",
+    "desc": "Shapoor Zadran, the former Afghanistan fast-bowler who was battling prolonged illness in a hospital in Delhi, passed away aged 38 on Tuesday, July 7. Zadran lived the last few months of his life battling Hemophagocytic...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shapoor-zadran-former-afghanistan-fast-bowler-passes-away-one-day-before-39th-birthday-2026-07-07-1047434",
+    "time": "2026-07-07T10:15:58.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Mohammad Kaif weighs in on Sanju Samson after India's second T20I loss to England",
     "desc": "The Indian team succumbed to a hefty loss against England in the second T20I of the ongoing five-game T20I series between the two sides. The teams met at Old Trafford in Manchester for the clash...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/uefa-slams-fifa-over-controversial-red-card-u-turn-on-usa-star-after-donald-trump-s-intervention-2026-07-06-1047338",
     "time": "2026-07-06T13:12:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jay Shah hails Australia’s seventh T20 World Cup win: ‘Women’s cricket is in golden era’",
-    "desc": "Australia re-established themselves as one of the best cricket teams to have played the sport ever in the world after bagging a record-extending seventh Women’s T20 World Cup title by defeating England on Sunday, July...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jay-shah-hails-australias-seventh-t20-world-cup-win-womens-cricket-is-in-golden-era-2026-07-06-1047305",
-    "time": "2026-07-06T09:30:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "FIFA reverses USA striker Folarin Balogun's red card suspension after Donald Trump's intervention",
-    "desc": "FIFA has reversed the red card suspension of USA striker Folarin Balogun after US President Donald Trump's intervention, news agency AP reported. The move will allow Balogun to play in the USMNT's round of 16...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/fifa-reverses-usa-striker-folarin-baloguns-red-card-suspension-after-donald-trumps-intervention-2026-07-06-1047299",
-    "time": "2026-07-06T09:10:07.000Z"
   }
 ];

@@ -1,6 +1,105 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "ઇંગ્લેન્ડ સામેની સિરીઝ બાદ બદલાઈ જશે ટીમ ઇન્ડિયાના હેડ કોચ ! આ ખેલાડીને મળી શકે છે જવાબદારી",
+    "desc": "ટીમ ઈન્ડિયા આયર્લેન્ડ સામે 0-2થી શ્રેણી હારી ગઈ હતી અને ઈંગ્લેન્ડ સામે પણ તેનું પ્રદર્શન અત્યાર સુધી ખરાબ રહ્યું છે. આ વચ્ચે એક આશ્ચર્યજનક સમાચાર સામે આવ્યા છે. ટીમ ઈન્ડિયાના હેડ કોચ ગૌતમ ગંભીર ઝિમ્બાબ્વે પ્રવાસ પર ટીમ સાથે નહીં હોય.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/team-india-head-coach-will-change-after-england-series-gautam-gambhir-483879 ",
+    "time": "2026-07-07T11:35:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "મને છોકરાઓ કરતાં છોકરીઓ ગમે છે, આ સુપર સ્ટારની પત્નીએ કર્યો ખુલાસો : મારા પતિને 50 અફેર!",
+    "desc": "એકતા કપૂરનો શો હોય અને ધમાલ ના હોય, આજકાલ રિયાલિટી શો 'લોકઅપ ૨' ખૂબ જ ભારે ચર્ચામાં છે. શોમાં સુનીતા આહુજાનો અત્યંત બિન્દાસ અને બેપરવાહ અંદાજ જોવા મળી રહ્યો છે. સુનીતાએ શિલ્પા શિંદેને જડબાતોડ જવાબ આપ્યો છે તો આકાંક્ષા ચમોલાએ ખુલ્લેઆમ સ્વીકાર કર્યો છે કે તેને લગ્ન પહેલાં છોકરીઓ ગમતી હતી અને તેના સંબંધો હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/i-like-girls-more-than-boys-this-superstars-wife-revealed-my-husband-has-had-50-affairs-483859 ",
+    "time": "2026-07-07T10:33:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ક્રિકેટ જગત માટે દુ:ખદ સમાચાર, 39મા જન્મદિવસ પહેલા જ જિંદગીની જંગ હાર્યો આ ક્રિકેટર",
+    "desc": "શાપૂર ઝાદરાનના અકાળે અવસાનથી સમગ્ર ક્રિકેટ જગત ખૂબ જ દુઃખી છે. ભલે તે હવે આપણી વચ્ચે નથી, પરંતુ અફઘાનિસ્તાન ક્રિકેટને આંતરરાષ્ટ્રીય સ્તરે લઈ જવામાં તેનું યોગદાન અને 2015ના વર્લ્ડ કપમાં તેણે અપાવેલી ઐતિહાસિક જીત હંમેશા ક્રિકેટ ચાહકોની યાદોમાં જીવંત રહેશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/afghanistan-cricketer-shapoor-zadran-passes-away-due-to-rare-illness-483869 ",
+    "time": "2026-07-07T10:08:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "આઠમા પગાર પંચ પર મોટા અપડેટ, જો આ 4 ફેરફાર થાય તો 65% સુધી વધી જશે પગાર!",
+    "desc": "આઠમું પગાર પંચ હાલ કર્મચારી સંગઠનો પાસેથી જે સૂચનો મળેલા છે તેના પર મંથન કરી રહ્યું છે. ભલામણો તૈયાર થયા બાદ રિપોર્ટ સરકારને રજૂ કરાશે અને ત્યારબાદ કોઈ નિર્ણય આવી શકશે. પરંતુ જો આ સૂચનો અને ભલામણોની જે કોમન માંગણીઓ છે તેને સ્વીકારાય તો લેવલ 1ના કર્મચારીનો પગાર 65 ટકા સુધી વધી શકે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/8th-pay-commission-latest-update-hra-da-ta-family-unit-calculation-proposals-483865 ",
+    "time": "2026-07-07T09:26:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ડ્રોપ કે આરામ ? BCCIએ સંજુ સેમસન પર તોડ્યું મૌન, ઝિમ્બાબ્વે સિરીઝમાંથી બહાર થવાનું જણાવ્યું કારણ",
+    "desc": "ભારતીય ક્રિકેટમાં આજકાલ સતત બદલાવ થઈ રહ્યા છે. ઝિમ્બાબ્વે શ્રેણી માટે ટીમ ઈન્ડિયાની જાહેરાત થયાને કલાકો વીતી ગયા છે, છતાં સંજુ સેમસનને બહાર કરવાનો મુદ્દો જોર પકડી રહ્યો છે. બધાના મનમાં સવાલ છે કે તેને બહાર કરવામાં આવ્યો છે કે આરામ આપવામાં આવ્યો છે. ત્યારે હવે આ અંગે BCCIએ સ્પષ્ટતા કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/why-sanju-samson-dropped-from-zimbabwe-series-bcci-gave-the-reason-483863 ",
+    "time": "2026-07-07T09:18:57.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "PM મોદીનો ઈન્ડોનેશિયા પ્રવાસ: અસ્ત્રથી EVM સુધી... ભારત-ઇન્ડોનેશિયા વચ્ચે સહકારનો નવો અધ્યાય",
+    "desc": "પીએમ મોદી હાલ ઈન્ડોનેશિયાના પ્રવાસે છે. રણનીતિક રીતે ભારત માટે ઈન્ડોનેશિયા ખુબ મહત્વનું છે. પીએમ મોદીના આ પ્રવાસને ભારતને શું મળવાનું છે એ ખાસ જાણો. પીએમ મોદીને વધુ એક દેશે પોતાના ઉચ્ચ સન્માનથી નવાજ્યા છે. અત્યાર સુધી પીએમ મોદીને કયા કયા પુરસ્કાર મળ્યા એ પણ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/what-will-india-gain-from-pm-modi-visit-to-indonesia-check-details-483858 ",
+    "time": "2026-07-07T09:00:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ફૂટબોલના મહાન ખેલાડીઓ જે ક્યારેય વર્લ્ડ કપની ટ્રોફી ન ઉઠાવી શક્યા: રોનાલ્ડો અને નેમાર પણ આ યાદીમાં સામેલ",
+    "desc": "ફુટબોલ વિશ્વકપ 2026મા 24 કલાકની અંદર બે સ્ટાર ફુટબોલરોનું વિશ્વકપ જીતવાનું સપનું અધૂરુ રહી ગયું. પહેલા નોર્વેએ બ્રાઝિલને હરાવી નેમારનું દિલ તોડ્યું અને હવે સ્પેને પોર્ટુગલને હરાવી ક્રિસ્ટિયાનો રોનાલ્ડોને તેવું દુખ આપ્યું, જેને તે ક્યારેય ભૂલી શકશે નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/after-neymar-ronaldo-dream-shattered-5-football-legends-who-never-won-the-world-cup-483860 ",
+    "time": "2026-07-07T08:51:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "E20 પેટ્રોલ કે એસિડ? જૂની ગાડીઓના આ પાર્ટ્સ ઓગળવા લાગ્યા! ARAI રિપોર્ટમાં સનસનાટીપૂર્ણ ખુલાસો",
+    "desc": "ભારતમાં મળી રહેલા E20 પેટ્રોલે જૂની ગાડીઓના માલિકાને ટેન્શનમાં મૂકી દીધા છે. ARAIનો લેટેસ્ટ રિપોર્ટ કહે છે કે E20 પેટ્રોલના વપરાશથી ગૈર સર્ટિફાઈડ વાહનોના રબર પાર્ટસ ખરાબ થવા અને ઓછી માઈલેજનો ખતરો સામે આવ્યો છે. જાણી લો શું છે આ રિપોર્ટ...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/e20-petrol-or-acid-these-parts-of-old-cars-started-melting-sensational-revelation-in-arai-report-483857 ",
+    "time": "2026-07-07T08:16:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કેતનના મોત પહેલાં જ સિયા-ચેતને કરી લીધા હતા ગાંધર્વ વિવાહ? &amp;#039;સીક્રેટ વેડિંગ&amp;#039;ના ખુલાસાથી સનસનાટી",
+    "desc": "18 જૂનના રોજ પુનાના બિઝનેસમેન કેતન અગ્રવાલની ઐતિહાસિક લોહગઢ કિલ્લા પરથી ધક્કો મારીને હત્યા કરવાના આરોપમાં હાલ મંગેતર સિયા ગોયલ અને ચેતન ચૌધરી જેલમાં છે. જો કે આ કેસમાં હવે એક નવો ખુલાસો થયો છે જે ખુબ ચોંકાવનારો છે. શું સિયા ગોયલ લગ્ન કરી ચૂકી હતી?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/ketan-agarwal-case-update-claim-of-sia-goyal-and-chetan-chaudhary-secret-wedding-483847 ",
+    "time": "2026-07-07T07:52:12.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "વાહનચાલકોના આક્રોશની અસર: E20 પેટ્રોલ વિવાદ બાદ સરકાર E25 બ્લેન્ડિંગ ટાળી શકે છે, માઇલેજ ઘટવાના લાગ્યા આરોપ",
+    "desc": "ઈ20 પેટ્રોલ પર ભારે વિરોધ થઈ રહ્યો છે. લોકો ઓછી માઇલેજ અને ગાડીઓને થતાં નુકસાનને લઈને તેનો વિરોધ કરી રહ્યાં છે. આ વચ્ચે સમાચાર આવી રહ્યાં છે કે સરકાર ઈ20 એટલે કે 25 ટકા ઇથેનોલ મિશ્રિત પેટ્રોલ પર પોતાનો નિર્ણય હાલ ટાળી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/the-e20-petrol-backlash-is-government-planning-a-u-turn-on-e25-blending-amid-mileage-and-engine-failure-claims-483837 ",
+    "time": "2026-07-07T07:37:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "3 કલાક મોડી શરૂ થશે ભારત અને ઇંગ્લેન્ડ વચ્ચેની ત્રીજી T20 મેચ, જાણો ક્યાં જોઈ શકો છો લાઇવ",
+    "desc": "ભારત અને ઇંગ્લેન્ડ વચ્ચેની ત્રીજી T20I મેચ ત્રણ કલાક મોડી શરૂ થશે. પાછલી T20I મેચ સાંજે 7 વાગ્યે શરૂ થઈ હતી, પરંતુ ત્રીજી મેચ રાત્રે 10 વાગ્યે શરૂ થશે. તમે લાઇવ સ્ટ્રીમિંગ ક્યાં જોઈ શકો છો?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/the-third-t20-match-between-india-and-england-will-start-3-hours-late-know-where-you-can-watch-it-live-483839 ",
+    "time": "2026-07-07T07:20:26.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "અમિતાભ બચ્ચનની પોસ્ટ પર ભારે બબાલ: ફ્રાન્સની ફૂટબોલ ટીમ પર આપ્યું વિવાદાસ્પદ નિવેદન!",
     "desc": "દુનિયાભરમાં ફુટબોલ વિશ્વકપ 2026નો માહોલ છવાયેલો છે. ભારતમાં પણ ફુટબોલના ચાહકો ઓછા નથી. અમિતાભ બચ્ચન પણ આ મેગા ઈવેન્ટની મજા માણી રહ્યાં છે. પરંતુ તેમણે ફ્રાન્સ ટીમ પર જે પોસ્ટ કરી છે, તેના કારણે સોશિયલ મીડિયા પર ટ્રોલ કરવામાં આવી રહ્યાં છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -306,15 +405,6 @@ const newsData_gu = [
     "time": "2026-07-05T11:39:26.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "સગાઈના 4 મહિનામાં જ તૂટ્યો સંબંધ ? આકૃતિની પોસ્ટથી મળ્યા સંકેતો! પૃથ્વી શોને કર્યો અનફોલો",
-    "desc": "પૃથ્વી શો અને આકૃતિ અગ્રવાલે આ માર્ચમાં જ ખૂબ જ ધામધૂમથી સગાઈ કરી હતી, ત્યારે બંને વચ્ચેના સંબંધો માત્ર ચાર મહિનામાં આટલા બધા કડવાશભર્યા થઈ જશે, તેની કોઈને કલ્પના પણ નહોતી. આકૃતિ અગ્રવાલની એક સોશિયલ મીડિયા પોસ્ટે ચાહકોને ચોંકાવી દીધા છે, જેનાથી અટકળો શરૂ થઈ છે કે તેમની સગાઈ તૂટી ગઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/prithvi-shaw-and-akriti-agarwal-engagement-breakup-rumours-483672 ",
-    "time": "2026-07-05T11:32:11.000Z"
-  },
-  {
     "cat": "World",
     "title": "ખામેનેઈના જનાજામાં જોવા મળ્યા ત્રણ દીકરા, યુદ્ધ બાદ પહેલીવાર આવ્યા સામે; ક્યાં છે સુપ્રીમ લીડર મોઝતબા?",
     "desc": "ઈરાનના દિવંગત સુપ્રીમ લીડર આયાતુલ્લા અલી ખામેનેઈના અંતિમ સંસ્કારમાં લાખો લોકો ઉમટી પડ્યા છે. આ દરમિયાન એક ભાવુક તસવીરે સમગ્ર દુનિયાનું ધ્યાન ખેંચ્યું છે. ખામેનેઈના ત્રણ દીકરા યુદ્ધ બાદ પહેલીવાર પિતાના તાબૂત પાછળ એકસાથે જોવા મળ્યા છે.",
@@ -331,15 +421,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/post-office-rd-scheme-save-just-rs-100-a-day-and-build-a-guaranteed-fund-of-over-rs-5-lakhs-483657 ",
     "time": "2026-07-05T09:55:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "24 કલાકમાં Mbappeએ મેસ્સીને ફરીથી પછાળ્યો, ગોલ્ડન બૂટની રેસમાં નિકળ્યો આગળ, આ 5 છે દાવેદાર",
-    "desc": "2026 ફિફા વર્લ્ડ કપમાં ગોલ્ડન બૂટ માટેની દોડ વધુને વધુ તીવ્ર બની છે. પેરાગ્વે સામેના નિર્ણાયક ગોલ સાથે કાયલિયન એમબાપ્પેએ લિયોનેલ મેસ્સીના રેકોર્ડની બરાબરી કરી. એર્લિંગ હાલેન્ડ અને હેરી કેન જેવા ખેલાડીઓ પણ દોડમાં છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/mbappe-beats-messi-again-in-24-hours-takes-lead-in-golden-boot-race-these-are-the-5-contenders-483655 ",
-    "time": "2026-07-05T08:57:11.000Z"
   },
   {
     "cat": "Entertainment",
@@ -412,51 +493,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/gold-is-still-cheaper-by-29000-and-silver-by-rs-1-52-lakh-from-all-time-high-ibja-rates-483547 ",
     "time": "2026-07-04T09:10:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "શું E20 પેટ્રોલથી એન્જિનને થાય છે નુકસાન? સરકારે તમામ મૂંઝવણોનો કર્યો અંત, જાણો અપડેટ",
-    "desc": "સોશિયલ મીડિયા પર ઇથેનોલ આધારિત પેટ્રોલ અંગે વિવિધ વીડિયો વાયરલ થઈ રહ્યા છે. કેટલાક લોકો દાવો કરે છે કે કારનું એન્જિન ખરાબ થઈ ગયું છે, જ્યારે કેટલાક દાવો કરે છે કે તેમાં પાણી ભેળવવામાં આવ્યું છે. આનાથી લોકોમાં વ્યાપક મૂંઝવણ ફેલાઈ છે. ચાલો જાણીએ કે સરકારે આ બાબતે શું સ્પષ્ટતા આપી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/does-e20-petrol-damage-the-engine-government-ends-all-confusion-know-the-update-483546 ",
-    "time": "2026-07-04T08:45:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "કેતન અગ્રવાલના એક Video એ આરોપી મંગેતર સિયાની બધી પોલ ખોલી નાખી, કહ્યું- &amp;#039;4 મહિનાથી...&amp;#039;",
-    "desc": "કેતન અગ્રવાલ હત્યાકાંડે સમગ્ર દેશમાં ચકચાર મચાવી છે. 20 વર્ષની મંગેતર સિયા ગોયલે પ્રેમી સાથે મળીને જે રીતે ઠંડે કલેજે હત્યાને અંજામ આપ્યો તે અત્યંત ડરામણું છે. સિયાએ પૂછપરછમાં કેટલાક ચોંકાવનારા દાવા પણ કર્યા હતા પરંતુ હવે કેતનનો એક વીડિયો વાયરલ થઈ રહ્યો છે જે આ દાવાને જરાય સમર્થન આપતો હોય તેવું જણાતું નથી. જાણો શું કહે છે કેતન વીડિયોમાં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/ketan-agarwal-old-video-goes-viral-on-social-media-483542 ",
-    "time": "2026-07-04T08:19:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "સિયા પછી આગરાની રુબી, પતિને ખીર ખવડાવી ઠંડા કલેજે કરી હત્યા, બાથરુમ ખોદી દાટી લાશ, 45 દિવસે આ રીતે ખુલી પોલ",
-    "desc": "દેશમાં વધુ એક ચોંકાવનારી ઘટના બની છે. આગ્રામાં 2 દીકરીની માતાએ પોતાના પતિની ક્રૂરતાપૂર્વક હત્યા કરી હોવાની જાણકારી સામે આવી છે. પતિને ઠંડા કલેજે માર્યા પછી તેની લાશને બાથરુમમાં દાટી દેવામાં આવી હતી. આ સમગ્ર ઘટનાનો ખુલાસો 45 દિવસ પછી નાટ્યાત્મક રીતે થયો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/ruby-sharma-after-siya-goel-agra-ruby-sharma-killed-husband-and-bury-him-in-bathroom-483519 ",
-    "time": "2026-07-04T03:13:21.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "IPO ખુલતા પહેલા જ ગ્રે માર્કેટમાં ધૂમ! મળશે 4620 સુધીનો જબરદસ્ત નફો, જાણો ક્યારે ખુલશે?",
-    "desc": "જો તમે IPO રોકાણમાં રોકાણની તક શોધી રહ્યા છો, તો આ કંપનીનો IPO સારૂ રિટર્ન આપી શકે છે. આ 650 કરોડ રૂપિયાનો ઇશ્યૂ રોકાણકારો માટે 8 જુલાઈના રોજ ખુલશે. નોંધપાત્ર રીતે, સબ્સ્ક્રિપ્શન શરૂ થાય તે પહેલાં જ કંપનીનો IPO ગ્રે માર્કેટમાં મજબૂત પ્રદર્શન કરી રહ્યો છે, અને વર્તમાન GMP સંભવિત મજબૂત લિસ્ટિંગ લાભ સૂચવે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/there-will-be-a-boom-in-the-gray-market-even-before-the-ipo-opens-you-will-get-huge-profits-of-up-to-4620-know-when-it-will-open-483516 ",
-    "time": "2026-07-03T16:51:35.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ફૂટવા જઈ રહ્યો છે AIનો ફુગ્ગો? શેરબજારને લઈને RBIએ આપી મોટી ચેતવણી",
-    "desc": "ભારતીય રિઝર્વ બેંકે AI શેરો અંગે એક મોટી ચેતવણી જાહેર કરી છે. તેમનું કહેવું છે કે વૈશ્વિક બજારમાં વ્યાપક તેજીને બદલે, ફક્ત AI અને સંબંધિત શેરોમાં વધારો જોવા મળ્યો છે, જેના કારણે મોટી અસ્થિરતા જોવા મળી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/crash-prediction-is-the-ai-bubble-about-to-burst-rbi-gives-a-big-warning-about-the-stock-market-483514 ",
-    "time": "2026-07-03T16:11:26.000Z"
   },
   {
     "cat": "Tech",
@@ -567,24 +603,6 @@ const newsData_gu = [
     "time": "2026-07-01T15:48:27.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "સુનિતા આહુજાએ Lock Up 2માં ગોવિંદાના અફેર અંગે કહી દીધું, &amp;quot;પહેલાથી જ ચાલે છે, હીરો છે તેને રોકી ન શકાય...&amp;quot;",
-    "desc": "આ વખતના રિયાલિટી શો લોક અપને જોતા એવું લાગે છે કે આ શો બિગ બોસના રેકોર્ડ તોડી નાખશે. રિયાલીટી શોની શરુઆતથી જ દર્શકોને મસાલેદાર ગોસિપ મળી રહ્યું છે. તાજેતરમાં જ સુનિતા આહુજાએ ગોવિંદાના અફેર અંગે પણ ધડાકો કરી દીધો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/sunita-ahuja-in-lock-up-reality-show-talked-about-govinda-affair-and-his-nature-video-viral-483279 ",
-    "time": "2026-07-01T09:24:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "સ્કુલમાં બાળકો કરશે બોલીવુડ ગીતોનો અભ્યાસ, કારણ કે શિક્ષા વિભાગ અનુસાર ફિલ્મી ગીતો છે લોકગીતો",
-    "desc": "બોલીવુડની 2 ફિલ્મોના 2 ગીતને લોકગીત તરીકે ધોરણ 8 ના પુસ્તકમાં જોડવામાં આવતા હોબાળો મચી ગયો. આ વિવાદ એટલો વધ્યો કે કેટલાક અધિકારીઓને નોકરી ગુમાવવાનો વારો પણ આવ્યો છે. જો તમને આ ઘટના વિશે નથી ખબર તો ચાલો તમને બધું જ જણાવીએ વિસ્તારપૂર્વક.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/odisha-school-book-bollywood-songs-controversy-what-is-nimbooda-song-controversy-and-what-happen-now-483265 ",
-    "time": "2026-07-01T08:37:42.000Z"
-  },
-  {
     "cat": "World",
     "title": "અફઘાનિસ્તાનની પાકિસ્તાનમાં એરસ્ટ્રાઈક, અનેક ISIS ઠેકાણા તબાહ કરી નાખ્યા",
     "desc": "એક બાજુ જ્યાં મિડલ ઈસ્ટમાં ઈરાન અને અમેરિકા, ઈઝરાયેલ-લેબનોન, બીજી બાજુ રશિયા-યુક્રેન વચ્ચે તંગ સ્થિતિ જોવા મળી રહી છે ત્યાં ભારતની પાડોશમાં પણ પાકિસ્તાન અને અફઘાનિસ્તાન વચ્ચે તણાવ જોવા મળી રહ્યો છે. અફઘાનિસ્તાનની તાલિબાન સરકારે પાકિસ્તાનમાં ઘૂસીને એરસ્ટ્રાઈક કરી હોવાનો દાવો કર્યો છે.",
@@ -603,15 +621,6 @@ const newsData_gu = [
     "time": "2026-06-30T17:37:39.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "ભૂલથી પણ ડાઉનલોડ થઈ ગઈ છે APK ફાઈલ? બેંક એકાઉન્ટ ખાલી થતા બચાવવા માટે તરત જ કરો આ 4 કામ",
-    "desc": "સાયબર ગુનેગારો ઇન્વોઇસ અથવા ઇન્વિટેશન હોવાનો ઢોંગ કરીને WhatsApp, Telegram, અથવા SMS દ્વારા APK ફાઇલો મોકલી રહ્યા છે અને મોબાઇલ ફોન પર સોફ્ટવેર ઇન્સ્ટોલ કરે છે. જો તમારી સાથે છેતરપિંડી થઈ હોય, તો તેમને 1930 પર જાણ કરો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/downloaded-apk-file-by-mistake-do-these-4-things-immediately-to-avoid-emptying-your-bank-account-483182 ",
-    "time": "2026-06-30T09:35:08.000Z"
-  },
-  {
     "cat": "World",
     "title": "ડબલ ભૂકંપના મરણતોલ ફટકાથી હચમચી ગયેલા વેનેઝુએલામાં ભારતનું &amp;#039;ઓપરેશન અમિસ્તાદ&amp;#039; ચર્ચામાં",
     "desc": "24 જૂનના રોજ દક્ષિણ અમેરિકી દેશ વેનેઝુએલામાં ઉપરાછાપરી આવેલા શક્તિશાળી ભૂકંપો બાદ સતત આફ્ટરશોક્સ પણ ચાલુ છે. ભૂકંપના આંચકાઓની હારમાળાએ વેનેઝુએલાને મરણતોલ ફટકા માર્યા છે અને ભારે તબાહી મચી ગઈ. અનેક દેશોની જેમ ભારતે પણ માનવીય મદદ હેઠળ રાહત સામગ્રી મોકલવાનો નિર્ણય કર્યો અને ઓપરેશન અમિસ્તાદ શરૂ કરી દીધું. ખાસ જાણો તેના વિશે.",
@@ -619,24 +628,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/explained-india-operation-amistad-in-earthquake-hit-venezuela-indian-army-field-hospital-483179 ",
     "time": "2026-06-30T09:08:52.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ટેલિકોમ કંપનીઓને મોટો ઝટકો! માત્ર 31 દિવસમાં 1.44 કરોડ યૂઝર્સે પોર્ટ કરાવ્યું SIM, જાણો કયા 2 રાજ્યો ટોપ પર",
-    "desc": "TRAIના નવા અહેવાલ મુજબ, ભારતમાં આશરે 14.46 મિલિયનથી વધુ મોબાઇલ વપરાશકર્તાઓએ મે 2026માં તેમનો નંબર બદલ્યા વિના MNP (મોબાઇલ નંબર પોર્ટેબિલિટી) અરજીઓ ફાઇલ કરી હતી. ઉત્તર પ્રદેશ પૂર્વ અને ઉત્તર પ્રદેશ પશ્ચિમમાં દેશમાં સૌથી વધુ સિમ પોર્ટિંગ અરજીઓ કરવામાં આવી રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/big-blow-to-telecom-companies-1-44-crore-users-ported-sim-in-just-31-days-know-which-2-states-are-on-top-483176 ",
-    "time": "2026-06-30T08:40:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "વોટ્સએપનું જબરદસ્ત ફીચર આવ્યું, હવે ફોન નંબર વગર થઈ શકશે ચેટ, પણ ફટાફટ કરવું પડશે આ કામ!",
-    "desc": "વોટ્સએપ વાપરતા હોવ તો તમારા માટે બહુ કામના સમાચાર છે. જે લોકો પ્રાઈવસીને લઈને ખુબ ચિંતા કરતા હતા તેમના માટે આ કામની વાત છે. કારણ કે હવે વોટ્સએપમાં મોબાઈલ નંબર નહીં પરંતુ યૂઝરનેમ દ્વારા વોટ્સએપ વાપરી શકાશે. આ માટે વોટ્સએપે યૂઝરનેમ રિઝર્વ કરવાની સુવિધા પણ શરૂ કરી દીધી છે. વધુ વિગતો ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/whatsapp-game-changing-username-feature-how-to-chat-without-phone-number-know-details-483144 ",
-    "time": "2026-06-30T05:30:34.000Z"
   },
   {
     "cat": "World",
@@ -664,14 +655,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/explainer-7-earthquakes-in-4-days-is-the-world-in-danger-of-a-major-catastrophe-know-483010 ",
     "time": "2026-06-28T17:03:13.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "&amp;#039;આપણે અજાણ્યા નથી, જૂના મિત્રો છીએ...&amp;#039;, PM મોદીએ 1770 સાથે જોડ્યો ભારત-સેશેલ્સનો સંબંધ",
-    "desc": "પીએમ મોદીએ પોતાની સેશેલ્સ યાત્રાના બીજા દિવસે પોતાના 'મહાસાગર વિઝન' પર વાતચીત કરી. જેનો ઉદ્દેશ્ય વિવિધ ક્ષેત્રોમાં સુરક્ષા અને વિકાસ માટે પરસ્પર અને ઓવરઓલ પ્રોગ્રેસ મેળવવાનો છે. આ ઉપરાંત પીએમએ સેશેલ્સની નેશનલ એસેમ્બલીને સંબોધિત કરતી વખતે બન્ને દેશોના ઐતિહાસિક સંબંધો અંગે પણ વાત કરી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/we-are-not-strangers-we-are-old-friends-pm-modi-linked-india-seychelles-relations-to-1770-482987 ",
-    "time": "2026-06-28T12:06:07.000Z"
   }
 ];
