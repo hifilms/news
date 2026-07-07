@@ -1,8 +1,17 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Clash of the underdogs as Xhaka takes on Diaz",
+    "desc": "Switzerland is taking on Colombia in the round of 16 of the ongoing FIFA World Cup 2026. The two sides are meeting at the BC Place Vancouver, and both teams will look to put in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/sui-vs-col-fifa-world-cup-round-of-16-live-clash-of-the-underdogs-as-xhaka-takes-on-diaz-1047493",
+    "time": "2026-07-07T19:57:25.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "England embarrass India to clinch third T20I, register dominant 125-run victory",
-    "desc": "India and England took on each other in the third T20I of the ongoing five-game series between the two sides. The teams met at Trent Bridge in Nottingham on July 7th, and while India hoped...",
+    "desc": "India and England took on each other in the third T20I of the ongoing five-game series. The teams met at Trent Bridge in Nottingham on July 7th, and while India hoped to level the score,...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/england-embarrass-india-to-clinch-third-t20i-register-dominant-125-run-victory-2026-07-08-1047492",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/cristiano-ronaldo-matches-unwanted-record-with-heartbreaking-loss-against-spain-in-fifa-world-cup-2026-2026-07-07-1047474",
     "time": "2026-07-07T14:57:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India vs England 3rd T20I pitch report; here's how surface at Trent Bridge, Nottingham is expected to play",
-    "desc": "India are in unfamiliar territory. The T20 World champions have gone winless in four straight T20Is after lifting the 2026 title at home. Their UK tour has gone from bad to worse, and it might...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-england-3rd-t20i-pitch-report-heres-how-surface-at-trent-bridge-nottingham-is-expected-to-play-2026-07-07-1047470",
-    "time": "2026-07-07T14:17:15.000Z"
   }
 ];

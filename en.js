@@ -1,5 +1,59 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Mariska Hargitay to host show in September",
+    "desc": "Mariska Hargitay will host the upcoming 78th Primetime Emmy Awards ceremony. The prestigious event is scheduled to air on NBC and stream on Peacock. Hargitay, a longtime NBC star, has received multiple Emmy nominations for her acting. She may also be a nominee for her documentary about her mother. The show's broadcast rights rotate among the four major television networks.",
+    "img": "https://static.toiimg.com/photo/msid-132248861,imgsize-163974.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/78th-primetime-emmy-awards-mariska-hargitay-to-host-show-in-september-becomes-first-female-emcee-in-15-years/articleshow/132248835.cms",
+    "time": "2026-07-07T21:33:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Two wins in three races but Ferrari boss plays down F1 title bid",
+    "desc": "Vasseur felt Mercedes, winners of seven of nine grands prix and on pole position in ‌all, still had a small advantage on pure performance even if Ferrari looked ​strong at the start and on race pace.",
+    "img": "https://th-i.thgim.com/public/incoming/7ftfsf/article71195552.ece/alternates/LANDSCAPE_1200/2026-07-05T174901Z_1218350523_UP1EM7518XXRB_RTRMADP_3_MOTOR-F1-BRITAIN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/motorsport/two-wins-in-three-races-but-ferrari-boss-plays-down-f1-title-bid/article71195549.ece",
+    "time": "2026-07-07T21:18:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "4 officials from environment minister Bhupender Yadav's office removed",
+    "desc": "Four officials from Environment Minister Bhupender Yadav's office were removed on July 3. Amar Singh, a private secretary, was removed on administrative grounds. Political appointees Siddharth Yadav and Ayush Saran had their appointments terminated. Shailesh Kumar Singh was prematurely repatriated to his parent cadre. The ministry has not provided specific reasons for these abrupt removals.",
+    "img": "https://static.toiimg.com/photo/msid-132248794,imgsize-67556.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/4-officials-from-environment-minister-bhupender-yadavs-office-removed/articleshow/132248767.cms",
+    "time": "2026-07-07T20:59:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "After govt notice, Meta details child safety steps",
+    "desc": "Meta revealed new child safety measures after an Indian government notice regarding Instagram ads. The company disabled numerous offending accounts and advertisements using advanced artificial intelligence tools. Meta stated its systems detect suspicious off-platform links and other exploitation signals. Globally, over four million accounts were removed last year for suspicious child-related activity. The company continues to invest in technology and work with law enforcement agencies.",
+    "img": "https://static.toiimg.com/photo/msid-132248746,imgsize-53422.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/after-govt-notice-meta-details-child-safety-steps/articleshow/132248749.cms",
+    "time": "2026-07-07T20:35:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lionel Messi scripts history, surpasses Diego Maradona to become all-time assists leader",
+    "desc": "Lionel Messi has officially surpassed Diego Maradona to become the holder of the World Cup assist record. This landmark achievement occurred during Argentina's thrilling comeback against Egypt, where Messi not only registered a vital assist but also scored a pivotal goal. His continual excellence on the world stage enhances his legend in the football realm, adding yet another accolade to his already impressive World Cup legacy.",
+    "img": "https://static.toiimg.com/photo/msid-132248531,imgsize-169814.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/lionel-messi-becomes-fifa-world-cups-all-time-assists-leader-as-argentina-edge-egypt-in-a-thriller/articleshow/132248531.cms",
+    "time": "2026-07-07T19:49:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England thrash India by 125 runs to take unassailable 2-0 lead",
+    "desc": "England secured a commanding 125-run victory over India in the third T20I. Philip Salt's fluent 70 anchored England's imposing total of 201 runs. India's chase faltered dramatically, collapsing to just 76 runs. Josh Tongue and Jofra Archer were instrumental in dismantling the Indian batting lineup. This defeat continues India's challenging tour after previous series losses.",
+    "img": "https://static.toiimg.com/photo/msid-132248560,imgsize-1253291.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/england-thrash-india-by-125-runs-to-take-unassailable-2-0-lead-visitors-suffer-worst-ever-t20i-defeat/articleshow/132248543.cms",
+    "time": "2026-07-07T19:46:40.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Heavy rains trigger flash floods in Doda, damage houses and roads",
     "desc": "Torrential rainfall caused flash floods and mudslides in Thathri town early Tuesday. Several houses were buried under debris, and many vehicles were damaged or washed away. The Doda-Kishtwar highway remains blocked due to landslides, suspending vehicular traffic. Restoration teams are working to clear debris and reopen the arterial road. Authorities are monitoring the situation and assessing the extent of the damage.",
@@ -333,15 +387,6 @@ const newsData_en = [
     "time": "2026-07-07T13:44:05.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Argentina vs. Egypt: Where to watch the 2026 FIFA World Cup match, TV channel, start time, predicted line-ups and more",
-    "desc": "Argentina enter their Round of 16 clash against Egypt under greater scrutiny after surviving a dramatic extra-time battle with Cape Verde. While Lionel Messi continues to inspire the defending champions, questions remain about their defensive stability and overreliance on their captain. Egypt arrive with confidence after making history throughout the tournament and will look to Mohamed Salah, Omar Marmoush and Emam Ashour to exploit Argentina's weaknesses. With a quarterfinal place on the line, the contest promises a fascinating tactical battle between the tournament favorites and fearless underdogs.",
-    "img": "https://static.toiimg.com/photo/msid-132230672,imgsize-121843.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/argentina-vs-egypt-where-to-watch-the-2026-fifa-world-cup-match-tv-channel-start-time-predicted-line-ups-and-more/articleshow/132230657.cms",
-    "time": "2026-07-07T13:35:00.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Hema Malini on how her mother handled film producers in the 1970s",
     "desc": "Bollywood icon and politician Hema Malini has debunked the long-standing belief that she was the highest-paid actress of the 1970s and 1980s. Speaking on a podcast, the \"Dream Girl\" revealed that stars of her generation received mere fractions of the massive paycheques commanded by modern actors, emphasizing that her career choices were never driven by monetary gains. Malini shared that she never placed financial demands on filmmakers, crediting her mother, Jaya Chakravarthy, for managing her career with immense flexibility, often graciously accepting small payment envelopes \"almost like alms (bheeksha)\" to accommodate struggling producers.",
@@ -430,15 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amid-rumours-of-feud-with-sunny-deol-bobby-deol-hema-malini-clarifies-they-are-one-happy-family-says-they-were-upset-with-dharmendras-fake-death-news-hum-log-publicity-nai-karte/articleshow/132238838.cms",
     "time": "2026-07-07T12:43:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PCB grants Pakistan captain NOC to miss Sri Lanka T20Is for The Hundred",
-    "desc": "Pakistan captain Fatima Sana will miss T20Is for The Hundred. She received a No Objection Certificate from the PCB for this opportunity. Sana will lead Pakistan in the ODI series against Sri Lanka. After the ODIs, she will join Birmingham Phoenix in England. This marks a historic achievement for Pakistan women's cricket.",
-    "img": "https://static.toiimg.com/photo/msid-132239391,imgsize-42518.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pcb-grants-pakistan-captain-noc-to-miss-sri-lanka-t20is-for-the-hundred/articleshow/132239351.cms",
-    "time": "2026-07-07T12:25:21.000Z"
   },
   {
     "cat": "Sports",
@@ -549,15 +585,6 @@ const newsData_en = [
     "time": "2026-07-07T10:48:08.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "The app that can stop an e-rickshaw — and why it has exposed a bigger cybersecurity risk",
-    "desc": "Vulnerable e-rickshaw batteries are being remotely disabled using Bluetooth apps. Government agencies have ordered app removals and initiated cybersecurity investigations. Experts state the issue lies in insecure battery system designs, not just specific applications. This vulnerability affects low-cost vehicles prioritizing affordability over digital security. The incidents highlight broader risks for connected transport systems and public safety.",
-    "img": "https://static.toiimg.com/photo/msid-132237433,imgsize-112616.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/explained-the-app-that-can-stop-an-e-rickshaw-and-why-it-has-exposed-a-bigger-cybersecurity-risk/articleshow/132236387.cms",
-    "time": "2026-07-07T10:46:04.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Kunal Kemmu recalls being advised to send gifts, host people to get more work",
     "desc": "Kunal Kemmu candidly discusses the unpredictable nature of acting careers. He admits that long periods without work and creative compromises are common struggles. Actors often face dilemmas between meaningful roles and staying active professionally. Kemmu prefers focusing on his craft over public relations and networking. He believes skill ultimately matters more than popularity for a craftsman.",
@@ -601,15 +628,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-ayatollah-ali-khamenei-funeral-thousands-gather-in-holy-city-of-qom/article71193042.ece",
     "time": "2026-07-07T10:02:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kajal reveals being shaken while shooting for The India Story",
-    "desc": "Kajal Aggarwal reveals sleepless nights and fear after reading 'The India Story' script, which deals with food adulteration. Director Chettan DK stressed the film's importance for public awareness. Kajal also discussed genre-based realism in cinema. The film, releasing July 24, 2026, in Hindi, Telugu and Tamil, is directed by Chettan DK.",
-    "img": "https://static.toiimg.com/photo/msid-132236326,imgsize-167716.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-had-sleepless-nights-kajal-aggarwal-reveals-being-shaken-by-food-adulteration-truths-while-shooting-for-the-india-story/articleshow/132236326.cms",
-    "time": "2026-07-07T09:59:03.000Z"
   },
   {
     "cat": "Sports",
@@ -801,15 +819,6 @@ const newsData_en = [
     "time": "2026-07-07T01:53:09.000Z"
   },
   {
-    "cat": "Business",
-    "title": "'Growth Gems' biz to power Mahindra's next leap",
-    "desc": "Mahindra Group is expanding into fast-growing businesses beyond its core operations. The conglomerate has set ambitious expansion targets across multiple sectors. These \"Growth Gems\" are positioned to benefit from structural economic trends. Mahindra Lifespaces saw profit increase seven-fold, and aerospace built a strong order book. The group plans to double room inventory at Mahindra Holidays by FY30.",
-    "img": "https://static.toiimg.com/photo/msid-132227993,imgsize-1984099.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/growth-gems-biz-to-power-mahindras-next-leap/articleshow/132227995.cms",
-    "time": "2026-07-07T00:12:26.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Praggnaandhaa ends tied third, Gukesh sixth; Alireza wins",
     "desc": "The Indian star began the final day with a loss against Vincent Keymer but then did well to score 6 points out of the last eight games. His other loss came against compatriot D. Gukesh but Praggnanandhaa's main victim was Alireza",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/the-words-that-shook-the-world/article71185658.ece",
     "time": "2026-07-06T07:32:09.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "JD Vance slams Israeli officials who criticised U.S.-Iran deal, deepening rift between allies",
-    "desc": "“Donald J Trump is the only head of state in the entire world who is sympathetic to the nation of Israel at this moment in time,” U.S. Vice President JD Vance said during a news briefing at the White House on Thursday, June 18, 2026",
-    "img": "https://th-i.thgim.com/public/incoming/b74vgj/article71120688.ece/alternates/LANDSCAPE_1200/2026-06-18T170655Z_1511527180_RC2FWLAMT5JZ_RTRMADP_3_USA-TRUMP.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/jd-vance-slams-israeli-officials-who-criticised-us-iran-deal-deepening-rift-between-allies/article71120670.ece",
-    "time": "2026-07-06T07:14:58.000Z"
   }
 ];
