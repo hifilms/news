@@ -1,5 +1,176 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Shreyas joins Dhoni, Rohit in elite India T20I captaincy list despite winless start",
+    "desc": "Shreyas Iyer won his fifth consecutive T20I toss, equaling Rohit Sharma's impressive record. This streak places him among elite Indian captains in the shortest format. However, Iyer's captaincy has not yet yielded a victory for the Indian team. India has faced defeats and a washed-out match since the 2026 T20 World Cup. The team seeks its first win under Iyer's leadership in the ongoing series.",
+    "img": "https://static.toiimg.com/photo/msid-132243630,imgsize-213270.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/shreyas-iyer-joins-ms-dhoni-rohit-sharma-in-elite-india-t20i-captaincy-list-despite-winless-start/articleshow/132243567.cms",
+    "time": "2026-07-07T16:59:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Gujarat-bound Qatari LNG vessel with 4 Indian crew hit in suspected drone attack near Hormuz",
+    "desc": "A Qatar-bound LNG carrier carrying four Indian crew members was struck near the Strait of Hormuz. The vessel sustained damage and its engine room caught fire following the suspected drone attack. All 29 seafarers on board, including the four Indians, were reported safe after the incident. Qatar accused Iran of targeting the vessel, calling it a violation of international law.",
+    "img": "https://static.toiimg.com/photo/msid-132243831,imgsize-49031.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/gujarat-bound-qatari-lng-vessel-with-4-indian-crew-hit-in-suspected-drone-attack-near-hormuz/articleshow/132243831.cms",
+    "time": "2026-07-07T16:59:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'A woman in control of her feminity is..'",
+    "desc": "Shakira, a celebrated artist, inspires many with her enduring career and empowering message. She emphasizes that embracing femininity and sensuality is a source of personal strength. Her global success began with early recordings and continued with international hits. Shakira's consistent relevance highlights her authenticity and connection with audiences worldwide. She remains an influential figure, celebrated for her music and self-assured persona.",
+    "img": "https://static.toiimg.com/photo/msid-132243565,imgsize-260229.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-shakira-a-woman-who-is-in-control-of-her-feminity-sensuality-is-a-woman-that-is-empowered/articleshow/132243436.cms",
+    "time": "2026-07-07T16:42:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tamil Nadu drew lower quantity of rice than its share under Antyodaya Anna  Yojana in five of the last seven years",
+    "desc": "From 2019-20 to 2025-26, it was during the COVID-19 pandemic year (2020-21) that the drawal was almost close to the allocated figure of around 6.99 lakh tonnes, with the off-take being about 98%. In the remaining four years, it varied from around 73% during 2022-23 and 2023-24 to 79% during 2024-25",
+    "img": "https://th-i.thgim.com/public/incoming/42mp9q/article71195029.ece/alternates/LANDSCAPE_1200/GWRIK_11-4-2013_17-36-17_JOHARICE_HINDU_01.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-drew-lower-quantity-of-rice-than-its-share-underantyodayaannayojana-in-five-of-the-last-seven-years/article71193040.ece",
+    "time": "2026-07-07T16:40:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BKTC suspends employee as probe into alleged theft begins, CCTV examined",
+    "desc": "An employee was suspended as an inquiry panel investigates donation handling irregularities. The probe began after social media allegations surfaced regarding offerings at Badrinath Dham. CCTV footage and employee statements will be examined by the four-member committee. Questions arose about CCTV camera replacements, which officials stated was routine. The controversy has also sparked political debate and calls for further investigation.",
+    "img": "https://static.toiimg.com/photo/msid-132243424,imgsize-258219.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/badrinath-donation-row-bktc-suspends-employee-as-probe-into-alleged-theft-begins-cctv-examined/articleshow/132243370.cms",
+    "time": "2026-07-07T16:33:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Will respond after SIT files final report, says Champat Rai",
+    "desc": "In a handwritten letter addressed to the “devotees of Lord Ram”, Champat Rai said several “false narratives” and “baseless allegations” had been circulated against him since the alleged theft came to light on April 10, but he had maintained complete silence",
+    "img": "https://th-i.thgim.com/public/incoming/tf7qwo/article71194175.ece/alternates/LANDSCAPE_1200/PTI06_26_2026_000307A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/ram-temple-donation-row-will-respond-to-all-allegations-after-sit-submits-final-report-says-champat-rai/article71194076.ece",
+    "time": "2026-07-07T16:15:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Wayanad on red alert after three dead in debris slip; Mumbai gets respite after two days",
+    "desc": "The alert was issued at 12.30 p.m. after the landslip at the Kalladi tunnel project site in Wayanad at around 11 a.m. Meanwhile, officials said ten people had died in rain-related incidents across Maharashtra's Palghar since July 1",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/india-weather-today-live-updates-monsoon-rain-mumbai-maharashtra-imd-rain-alert-july-7-2026/article71191976.ece",
+    "time": "2026-07-07T16:03:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Like to sing &amp; dance to Indian songs':  Indonesian president's 'DNA' remark draws praise from PM Modi",
+    "desc": "Indonesian President Prabowo Subianto expressed admiration for Prime Minister Narendra Modi's governance. He acknowledged studying and adapting Indian policies for Indonesia's development. Subianto also praised India's democratic system and election process. Indonesia closely studies India's peaceful transfer of power mechanisms. These remarks were made during Prime Minister Modi's recent three-nation visit.",
+    "img": "https://static.toiimg.com/photo/msid-132242656,imgsize-90704.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/like-to-sing-dance-to-indian-songs-indonesian-presidents-dna-remark-draws-praise-from-pm-modi/articleshow/132242342.cms",
+    "time": "2026-07-07T15:50:30.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India strengthens position as investment destination; FDI rises by 44% to $39 billion in 2025",
+    "desc": "South Asia witnessed a sharp rise in FDI inflows, which climbed from $34 billion to $46 billion, largely driven by India, where inflows expanded to $39 billion, the report noted. At the same time, UNCTAD observed that project-related indicators suggested a more cautious investment environment despite the increase in overall inflows.",
+    "img": "https://static.toiimg.com/photo/msid-132242725,imgsize-780762.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-strengthens-position-as-investment-destination-fdi-rises-by-44-to-39-billion-in-2025/articleshow/132242706.cms",
+    "time": "2026-07-07T15:42:36.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Monsoon rains trigger deadly debris slip in Wayanad |Above the Fold",
+    "desc": "From Kerala to Indonesia, and from Syria to the FIFA World Cup, in this episode, we look at the deadly debris slip in Kerala, Prime Minister Narendra Modi’s visit to Indonesia, explosions in Syria during French President Emmanuel Macron’s trip, the Gujarat High Court’s ruling on the 2008 Ahmedabad blasts case, and more.",
+    "img": "https://th-i.thgim.com/public/news/national/f08mna/article71194691.ece/alternates/LANDSCAPE_1200/JULY%207%20THUMB.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-monsoon-rains-trigger-deadly-debris-slip-in-wayanad-above-the-fold-07072026/article71194702.ece",
+    "time": "2026-07-07T15:29:26.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Wall Street sees mixed performance; Dow rises 0.3%, Nasdaq falls 0.8% as AI stocks slide",
+    "desc": "US stocks traded mixed on Tuesday as technology shares faced pressure. Declines in artificial intelligence and semiconductor stocks weighed on the Nasdaq Composite. The S&P 500 also slipped, while the Dow Jones Industrial Average saw gains. This weakness followed a sharp sell-off in Asian markets, particularly South Korea's Samsung Electronics. Oil prices moved higher after a tanker incident in the Strait of Hormuz.",
+    "img": "https://static.toiimg.com/photo/msid-132242488,imgsize-883492.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-stock-market-today-wall-street-sees-mixed-performance-dow-rises-0-3-nasdaq-falls-0-8-as-ai-stocks-slide/articleshow/132242440.cms",
+    "time": "2026-07-07T15:17:52.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India urges US to reconsider proposed 12.5% tariff over 'forced labour' probe under USTR's Sec 301",
+    "desc": "India has asked the United States to withdraw proposed tariffs on its imports. The nation argues the US lacks adequate evidence for its claims. India's submission highlights a broad approach by the USTR investigation. It states the current framework does not distort trade unfairly. India remains open to dialogue and consultation on specific concerns.",
+    "img": "https://static.toiimg.com/photo/msid-132242123,imgsize-867942.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-urges-us-to-reconsider-proposed-12-5-tariff-over-forced-labour-probe-under-ustrs-sec-301/articleshow/132241671.cms",
+    "time": "2026-07-07T15:00:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Security always a concern': Bangladesh ready to enhance safety for India",
+    "desc": "Bangladesh Cricket Board assures top-level security for India's upcoming tour. The board is prepared to further strengthen its arrangements if required. Formal discussions with the BCCI are yet to begin, but confidence remains high. Recent invitations for future fixtures signal growing optimism for the series. Security remains a top priority for the BCB during the planned visit.",
+    "img": "https://static.toiimg.com/photo/msid-132243063,imgsize-90294.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/security-always-a-concern-bangladesh-ready-to-enhance-safety-measures-for-indias-potential-t20i-tour/articleshow/132242048.cms",
+    "time": "2026-07-07T14:58:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why PM Modi mentioned this number in his Indonesia speech",
+    "desc": "Prime Minister Modi emphasized the number eight during his address to the Indian diaspora in Jakarta. He noted numerical connections between India's Republic Day and President Prabowo's birthday. The number eight holds significant cultural meaning in Indonesia, symbolizing prosperity and good fortune. This visit saw twenty agreements signed, strengthening bilateral cooperation between the nations. India will also assist in conserving the ancient Prambanan Temple, a shared heritage site.",
+    "img": "https://static.toiimg.com/photo/msid-132242088,imgsize-118602.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/the-mystery-of-8-why-pm-modi-mentioned-this-number-in-his-indonesia-speech/articleshow/132237582.cms",
+    "time": "2026-07-07T14:55:31.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India’s hydropower generation sees steepest drop since Feb 2024; piles pressure on grid",
+    "desc": "Data from the India Meteorological Department showed that cumulative rainfall across the country was 38% below normal until July 1, largely due to the development of El Niño conditions over the Pacific Ocean, which affected the southwest monsoon running from June to September.",
+    "img": "https://static.toiimg.com/photo/msid-132242074,imgsize-785036.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/el-nino-impact-indias-hydropower-generation-sees-steepest-drop-since-feb-2024-piles-pressure-on-grid/articleshow/132241997.cms",
+    "time": "2026-07-07T14:53:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salman Khan breaks the internet with swag and ripped muscles in NEW PICS",
+    "desc": "Salman Khan shared rain pictures, teasing his upcoming film 'Maatrubhumi' with a single word caption. His physique and ripped jeans look garnered significant fan appreciation online. Reports about his film facing issues with the CBFC were officially denied by Salman Khan Films. The production house clarified that the film has not yet been submitted for certification. They requested media to refrain from circulating unverified information about the movie.",
+    "img": "https://static.toiimg.com/photo/msid-132242064,imgsize-271247.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-breaks-the-internet-as-he-soaks-in-the-rains-with-swag-displaying-his-ripped-muscles-and-jeans-teases-maatrubhumi-release/articleshow/132241750.cms",
+    "time": "2026-07-07T14:51:42.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India is the only market now that Japanese investors are keen about; Suzuki-backed Next Bharat Ventures announces a new $200 mn fund in India",
+    "desc": "For Japanese investors, Japan’s market is shrinking. China market is no longer an option as it is becoming a closed market now. European markets are getting stale. American market is already too competitive because of its local policies and local organisations. The Southeast Asian market is already capped out. African market is very fast paced, it’s not ready yet. Now the only growth market which Japanese investors look into is India. India is the only priority market for Japanese investors now...",
+    "img": "https://th-i.thgim.com/public/incoming/hvdtaw/article71194498.ece/alternates/LANDSCAPE_1200/IMG_Vipul_Nath_Jindal_MD_2_1_QTD0UN8G.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/india-is-the-only-market-now-that-japanese-investors-are-keen-about-suzuki-backed-next-bharat-ventures-announces-a-new-200-mn-fund-in-india/article71190376.ece",
+    "time": "2026-07-07T14:49:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Heartbreak for Indian chess fans as Vidit falls in Mumbai; Bok seals EWC berth",
+    "desc": "Road to EWC final in Mumbai. Vidit, who had hoped to redeem last year's near miss, said before the final that playing the Mumbai LAN and earning an EWC spot meant \"a lot\" to him.",
+    "img": "https://static.toiimg.com/photo/msid-132242014,imgsize-99728.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/heartbreak-for-indian-chess-fans-as-vidit-gujrathi-falls-in-mumbai-benjamin-bok-seals-esports-world-cup-2026-berth/articleshow/132241620.cms",
+    "time": "2026-07-07T14:47:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "FIFA WORLD CUP 2026",
+    "desc": "We looked at the entire fan journey, from the airport to hotels, transport, the Fan Festival and finally the stadium. Everything had to feel seamless, says Monica Paul, president of the Dallas Sports Commission and executive director of the North Texas FIFA World Cup Organising Committee",
+    "img": "https://th-i.thgim.com/public/incoming/o3lug6/article71194366.ece/alternates/LANDSCAPE_1200/Texas_WCup_Soccer_76_8_.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-how-dallas-has-pulled-off-hosting-nine-games/article71194269.ece",
+    "time": "2026-07-07T14:42:29.000Z"
+  },
+  {
     "cat": "World",
     "title": "French far-right chief Marine Le Pen cleared to run for President but with ankle tag",
     "desc": "A Paris appeals court found Marine Le Pen guilty over the fake jobs scam at the European Parliament but reduced that sentence, banning her from office for 15 months as well as sentencing her to one year to be served with an electronic tag",
@@ -18,6 +189,15 @@ const newsData_en = [
     "time": "2026-07-07T14:08:52.000Z"
   },
   {
+    "cat": "Entertainment",
+    "title": "Vicky plays the perfect ladkiwala at TMKOC fame Shailesh's daughter's wedding: VIDEO",
+    "desc": "Shailesh Lodha's daughter Swara Lodha recently married at Umaid Bhawan Palace in Jodhpur. Bollywood actor Vicky Kaushal attended the grand yet intimate wedding ceremony. Videos showed Vicky interacting warmly with guests and the bride's family. Fans expressed surprise and curiosity about Vicky's presence at the wedding. Shailesh Lodha and Vicky Kaushal share a close and supportive friendship.",
+    "img": "https://static.toiimg.com/photo/msid-132241522,imgsize-287132.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vicky-kaushal-welcomes-baaratis-hugs-the-bride-at-taarak-mehta-ka-ooltah-chashma-fame-shailesh-lodhas-daughters-wedding-netizens-are-surprised-watch-video/articleshow/132241320.cms",
+    "time": "2026-07-07T14:07:30.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "'Bengaluru changed my life': ABD reflects on special bond with RCB fans",
     "desc": "Former South Africa captain AB de Villiers says Bengaluru \"changed my life\" and will always be closest to his heart. Speaking on The Times of India's Bombay Sports Exchange podcast, the RCB legend recalled fulfilling his childhood dream when fans chanted his name, saying he immediately felt at home. De Villiers added he'll always cherish his unique bond with Bengaluru and Indian cricket fans.",
@@ -25,15 +205,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bengaluru-changed-my-life-ab-de-villiers-reflects-on-special-bond-with-rcb-fans/articleshow/132240946.cms",
     "time": "2026-07-07T13:58:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Ritabrata camp of Trinamool Congress gets time till July 10 to submit response to EC notice",
-    "desc": "The EC had last week written to both factions of the Trinamool Congress, led by former West Bengal Chief Minister Mamata Banerjee and Uluberia Purba MLA Ritabrata Banerjee, respectively, seeking responses regarding ‘claims and counterclaims’ made by them",
-    "img": "https://th-i.thgim.com/public/incoming/oo2zfv/article71157423.ece/alternates/LANDSCAPE_1200/20260603415L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/ritabrata-camp-of-trinamool-congress-gets-time-till-july-10-to-submit-response-to-ec-notice/article71193566.ece",
-    "time": "2026-07-07T13:54:58.000Z"
   },
   {
     "cat": "Politics",
@@ -45,6 +216,15 @@ const newsData_en = [
     "time": "2026-07-07T13:44:05.000Z"
   },
   {
+    "cat": "Sports",
+    "title": "Argentina vs. Egypt: Where to watch the 2026 FIFA World Cup match, TV channel, start time, predicted line-ups and more",
+    "desc": "Argentina enter their Round of 16 clash against Egypt under greater scrutiny after surviving a dramatic extra-time battle with Cape Verde. While Lionel Messi continues to inspire the defending champions, questions remain about their defensive stability and overreliance on their captain. Egypt arrive with confidence after making history throughout the tournament and will look to Mohamed Salah, Omar Marmoush and Emam Ashour to exploit Argentina's weaknesses. With a quarterfinal place on the line, the contest promises a fascinating tactical battle between the tournament favorites and fearless underdogs.",
+    "img": "https://static.toiimg.com/photo/msid-132230672,imgsize-121843.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/argentina-vs-egypt-where-to-watch-the-2026-fifa-world-cup-match-tv-channel-start-time-predicted-line-ups-and-more/articleshow/132230657.cms",
+    "time": "2026-07-07T13:35:00.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Hema Malini on how her mother handled film producers in the 1970s",
     "desc": "Bollywood icon and politician Hema Malini has debunked the long-standing belief that she was the highest-paid actress of the 1970s and 1980s. Speaking on a podcast, the \"Dream Girl\" revealed that stars of her generation received mere fractions of the massive paycheques commanded by modern actors, emphasizing that her career choices were never driven by monetary gains. Malini shared that she never placed financial demands on filmmakers, crediting her mother, Jaya Chakravarthy, for managing her career with immense flexibility, often graciously accepting small payment envelopes \"almost like alms (bheeksha)\" to accommodate struggling producers.",
@@ -52,15 +232,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/whatever-little-envelope-they-gave-us-we-accepted-it-almost-like-bheeksha-hema-malini-denies-being-bollywoods-top-paid-actress-and-how-her-mother-handled-film-producers-in-the-1970s/articleshow/132240895.cms",
     "time": "2026-07-07T13:27:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "IMD issues red alert as rain lashes Delhi; Wayanad on red alert after landslip",
-    "desc": "The alert was issued at 12.30 p.m. after the landslip at the Kalladi tunnel project site in Wayanad at around 11 a.m. Meanwhile, officials said ten people had died in rain-related incidents across Maharashtra's Palghar since July 1",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/india-weather-today-live-updates-monsoon-rain-mumbai-maharashtra-imd-rain-alert-july-7-2026/article71191976.ece",
-    "time": "2026-07-07T13:26:44.000Z"
   },
   {
     "cat": "Entertainment",
@@ -72,15 +243,6 @@ const newsData_en = [
     "time": "2026-07-07T13:25:43.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Delhi court rejects Umar Khalid, Sharjeel Imam bail pleas, says bound by Supreme Court order",
-    "desc": "Trial court holds that it has ‘no option’ but to follow the Supreme Court’s January order; defence relies on the top court’s subsequent ruling in Syed Iftikhar Andrabi v. NIA which it said reaffirmed the principle that prolonged incarceration could justify bail",
-    "img": "https://th-i.thgim.com/public/incoming/g2e6qd/article71182533.ece/alternates/LANDSCAPE_1200/doc7d2j62t90awg32fx7st.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Delhi/2020-delhi-riots-case-court-rejects-fresh-bail-pleas-of-umar-khalid-and-sharjeel-imam/article71182544.ece",
-    "time": "2026-07-07T13:21:22.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Single game can't define your greatness': Siraj pens emotional tribute for Ronaldo",
     "desc": "Portugal's FIFA World Cup 2026 campaign concluded with a Round of 16 loss to Spain. Cristiano Ronaldo's illustrious World Cup career ended without the coveted trophy. Indian pacer Mohammed Siraj shared an emotional tribute to his idol on social media. Spain secured a quarterfinal spot with a dramatic late goal in the ninety-first minute. This defeat marked the end of Portugal's tournament and Ronaldo's final World Cup chapter.",
@@ -90,15 +252,6 @@ const newsData_en = [
     "time": "2026-07-07T13:13:26.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kurnool ERO urges voters to collect enumeration forms from nearest Secretariats on July 8",
-    "desc": "Challa Obulesu instructs voters to affix two passport-sized photographs, attach a copy of their Aadhaar card, fill in details regarding their own or their ancestors’ votes from the year 2002, and submit the form to the designated Enumeration BLO (Booth Level Officer) after collecting the form",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/kurnool-ero-urges-voters-to-collect-enumeration-forms-from-nearest-secretariats-on-july-8/article71193374.ece",
-    "time": "2026-07-07T13:08:33.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Stock markets snap four-day rally amid profit booking; Trent tumbles over 12%",
     "desc": "The 50-share NSE Nifty dipped 31.65 points, or 0.13%, to end at 24,398.70. Sensex and Nifty had rallied more than 2% in the last four sessions to hit more than two-month high levels on Monday (July 6, 2026)",
@@ -106,15 +259,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/markets/stock-markets-snap-four-day-rally-amid-profit-booking-trent-tumbles-over-12/article71193434.ece",
     "time": "2026-07-07T13:08:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "POCSO pendency in Tamil Nadu and torturous process further victimise children subjected to sexual abuse",
-    "desc": "A staggering 18,733 POCSO cases are pending in various courts across the 38 districts in Tamil Nadu. The situation is exacerbated by patchy support services for children who opt to go through the procedural justice system",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/y7uici/article71190635.ece/alternates/LANDSCAPE_1200/vbk-stock-pocso-illustration-japremkumar.jfif",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/pocso-pendency-and-torturous-process-further-victimise-children-subjected-to-sexual-abuse/article71190629.ece",
-    "time": "2026-07-07T13:05:35.000Z"
   },
   {
     "cat": "Entertainment",
@@ -252,15 +396,6 @@ const newsData_en = [
     "time": "2026-07-07T11:30:20.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Robert Pattinson compares ‘Twilight Saga’ with ‘The Odyssey’",
-    "desc": "Robert Pattinson recently likened his new character Antinous from The Odyssey to Jacob Black from Twilight, suggesting that viewers might empathize with Antinous's ambitions to persuade Queen Penelope to remarry. The story depicts the epic journey of Odysseus returning from the Trojan War, enriched by a remarkable ensemble including Matt Damon and Anne Hathaway, promising an engaging experience for audiences.",
-    "img": "https://static.toiimg.com/photo/msid-132237335,imgsize-93204.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/robert-pattinson-compares-the-twilight-saga-and-the-odyssey-i-keep-comparing-it-its-kind-of-like-jacob/articleshow/132237263.cms",
-    "time": "2026-07-07T11:30:19.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Report",
     "desc": "Chinese officials are discussing restricting overseas access to advanced artificial intelligence models. These talks involve major technology firms like Alibaba and ByteDance. The government views cutting-edge AI as a strategic national asset amid global competition. Discussions also covered strengthening legal protections for proprietary AI technology. This move follows China's increasing global traction in the AI sector.",
@@ -286,15 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/satluj-actor-kanwaljit-singh-says-where-is-freedom-of-speech-as-the-diljit-dosanjh-film-gets-taken-down-from-ott-i-dont-understand-/articleshow/132238101.cms",
     "time": "2026-07-07T11:14:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Madeira lights up sky as a special tribute for Cristiano Ronaldo despite Portugal’s heartbreaking FIFA World Cup 2026 exit",
-    "desc": "Cristiano Ronaldo’s World Cup dream ended in heartbreak after Portugal suffered a 1-0 defeat to Spain in the Round of 16 of the 2026 FIFA World Cup. The 41-year-old forward played what he had earlier said would be his final match in the tournament, bringing an end to a remarkable 20-year World Cup journey.",
-    "img": "https://static.toiimg.com/photo/msid-132237574,imgsize-62528.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/madeira-lights-up-sky-as-a-special-tribute-for-cristiano-ronaldo-despite-portugals-heartbreaking-fifa-world-cup-2026-exit/articleshow/132237586.cms",
-    "time": "2026-07-07T10:51:08.000Z"
   },
   {
     "cat": "Entertainment",
@@ -423,33 +549,6 @@ const newsData_en = [
     "time": "2026-07-07T09:43:40.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Centre to send Diljit Dosanjh's film to IT Rules committee",
-    "desc": "The government will examine the film Satluj via an Inter-Departmental Committee. This committee considers content grievances from digital platforms and news publishers. The film, based on Jaswant Singh Khalra, was removed from ZEE5 after its release. Authorities cited security concerns and the film's release without CBFC cuts. The committee can recommend various actions, including content deletion or blocking.",
-    "img": "https://static.toiimg.com/photo/msid-132235963,imgsize-107655.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/satluj-removed-from-zee5-centre-to-send-diljit-dosanjhs-film-to-it-rules-committee/articleshow/132235974.cms",
-    "time": "2026-07-07T09:39:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rebel Wilson shares new photos of baby online with Ramona Agruma-Wilson",
-    "desc": "In a heartwarming update, Rebel Wilson revealed charming beach vacation photos featuring her family of four. Posing with her newborn daughter, Rose, and their older daughter alongside her wife, the actress encapsulated precious moments of togetherness. She also shared images of Rose's radiant smile and her wife relaxing under the sun, celebrating the arrival of Rose Estelle, born in May.",
-    "img": "https://static.toiimg.com/photo/msid-132235813,imgsize-111242.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/rebel-wilson-and-ramona-share-first-rare-family-photos-following-daughter-roses-birthawesome-foursome/articleshow/132235643.cms",
-    "time": "2026-07-07T09:27:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bava Lakshmanan details how Rajinikanth extended financial aid",
-    "desc": "Veteran comedian Bava Lakshmanan received one lakh rupees from Rajinikanth. This financial assistance came after his recent amputation due to diabetes complications. Lakshmanan also received housing support from a state minister. Other well-wishers had previously offered help during his health struggles. Rajinikanth's gesture highlights his quiet support for industry colleagues.",
-    "img": "https://static.toiimg.com/photo/msid-132235712,imgsize-106068.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rajinikanth-gave-me-rs-1-lakh-bava-lakshmanan-details-how-dharman-star-extended-financial-aid-amid-amputation-recovery-and-crisis/articleshow/132235687.cms",
-    "time": "2026-07-07T09:24:10.000Z"
-  },
-  {
     "cat": "World",
     "title": "NYC Mayor Zohran Mamdani dines at Chef Regi Mathew’s Kerala restaurant, Chatti, in New York",
     "desc": "The New York City mayor, dined with his wife Rama Duwaji and his parents, filmmaker Mira Nair and scholar Mahmood Mamdani, at Chennai-based Chef Regi Mathew’s restaurant, Chatti, in Manhattan, which showcases Kerala’s toddy shop cuisine",
@@ -495,15 +594,6 @@ const newsData_en = [
     "time": "2026-07-07T08:35:32.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "UP CM Yogi Adityanath calls out Congress, Samajwadi Party with 'chameleon' dig",
-    "desc": "A day after the Ram Mandir Trust accepted the resignation of Champat Rai from the position of general secretary, Yogi accused the rival political parties, Congress and the Samajwadi Party, of \"making a mockery of Hindu faith\" -- the same allegation the opposition has been levelling against the BJP. Yogi futher asked why the anti-NDA bloc remained muted when hectares of land across the nation were \"sold off in the name of the Wakf\".",
-    "img": "https://static.toiimg.com/photo/msid-132234792,imgsize-100525.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ram-temple-theft-row-up-cm-yogi-adityanath-calls-out-congress-samajwadi-party-with-chameleon-dig/articleshow/132234327.cms",
-    "time": "2026-07-07T08:35:14.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Former Afghanistan fast bowler Shapoor Zadran passes away after prolonged illness",
     "desc": "Former Afghanistan fast bowler Shapoor Zadran died in India on Tuesday. He was 38 and had been battling a rare illness for months. Zadran was a pioneer in Afghanistan's cricket journey, playing 80 international matches. He helped the team qualify for major global tournaments during his career. His passing has prompted widespread tributes from the cricket community.",
@@ -540,15 +630,6 @@ const newsData_en = [
     "time": "2026-07-07T08:05:59.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kejriwal seeks written assurance from automakers on E20 fuel; slams Centre's 'misadventure'",
-    "desc": "Addressing a press conference, Kejriwal said he would write to Maruti Suzuki, Toyota Kirloskar and Hero MotoCorp, claiming their public statements on E20 fuel were inconsistent with the guidance provided in their vehicle owner manuals. He also questioned whether the companies would compensate customers if E20 fuel caused damage to vehicle components.",
-    "img": "https://static.toiimg.com/photo/msid-132233912,imgsize-113505.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/kejriwal-seeks-written-assurance-from-automakers-on-e20-fuel-slams-centres-misadventure/articleshow/132233883.cms",
-    "time": "2026-07-07T07:48:48.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "AB de Villiers, Virat Kohli, Jasprit Bumrah are rare: Wiaan Mulder",
     "desc": "South Africa all-rounder Wiaan Mulder believes the future belongs to specialists, saying the physical and technical demands of modern cricket make it increasingly difficult to excel across all three formats. In an exclusive interaction with TimesofIndia. com, the South African all-rounder discusses the evolution of T20 cricket, his reservations about the Impact Player rule, cricket's growth in the USA, and why SA20 has played a key role in the Proteas' recent success.",
@@ -556,33 +637,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/major-league-cricket/ab-de-villiers-virat-kohli-jasprit-bumrah-are-rare-wiaan-mulder-exclusive/articleshow/132232948.cms",
     "time": "2026-07-07T07:23:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Belgium players mimic Donald Trump's dance after win over USA",
-    "desc": "After a convincing victory, Belgium players couldn't resist poking fun at Donald Trump's infamous dance moves. Romelu Lukaku and his teammates celebrated in style, with a social media post cheekily referencing a FIFA ruling that permitted Folarin Balogun to take the field post red card. Belgium has now confidently moved on to the quarter-finals after their stunning defeat of the USA.",
-    "img": "https://static.toiimg.com/photo/msid-132233126,imgsize-1127206.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/belgium-players-mimic-donald-trumps-dance-after-win-over-usa-watch/articleshow/132233126.cms",
-    "time": "2026-07-07T07:19:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Sharma's AI image case: Delhi HC flags 'thin line' between personality rights and defamation",
-    "desc": "The Delhi High Court is examining personality rights in the digital age. Cricketer Abhishek Sharma filed a suit against unauthorised online use of his likeness. The court noted a thin line between defamation and personality rights. Disputes involve AI-altered images and the exploitation of identity. The matter was adjourned for further hearing on July 9.",
-    "img": "https://static.toiimg.com/photo/msid-132233210,imgsize-89000.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/abhishek-sharmas-ai-image-case-delhi-hc-flags-thin-line-between-personality-rights-and-defamation/articleshow/132233200.cms",
-    "time": "2026-07-07T07:08:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Diljit Dosanjh's 'Satluj' released without certification process being completed: Centre",
-    "desc": "Based on the life of human rights activist Jaswant Singh Khalra, Satluj had been at the centre of a prolonged certification dispute before it was released on ZEE5 on Friday under a new title. The streaming platform later withdrew the film from India, saying it would remain unavailable until further notice. According to officials in the information and broadcasting ministry, the film did not have the mandatory certification required for a theatrical release before it was made available online.",
-    "img": "https://static.toiimg.com/photo/msid-132232845,imgsize-107655.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/diljit-dosanjhs-satluj-released-without-certification-process-being-completed-centre/articleshow/132232816.cms",
-    "time": "2026-07-07T07:03:11.000Z"
   },
   {
     "cat": "Sports",
@@ -601,24 +655,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/iim-campus-upi-ai-critical-minerals-pm-modi-heralds-golden-chapter-of-india-indonesia-ties/articleshow/132232312.cms",
     "time": "2026-07-07T06:45:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I want to make request as a father': Neymar's dad pens emotional message",
-    "desc": "Neymar has retired from international football after Brazil's World Cup elimination. His father made an emotional plea for him to continue playing the sport. Neymar confirmed his international career was over following the team's defeat to Norway. He finished as Brazil's all-time leading goalscorer with eighty goals. His father hopes he will continue playing club football.",
-    "img": "https://static.toiimg.com/photo/msid-132232034,imgsize-152216.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/i-want-to-make-request-as-a-father-neymars-dad-pens-emotional-message-after-retirement/articleshow/132232038.cms",
-    "time": "2026-07-07T06:18:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ronaldo's World Cup ends with painful knockout record: Just one goal in 10 matches",
-    "desc": "Cristiano Ronaldo's FIFA World Cup journey concluded after Portugal's loss to Spain. He confirmed that the 2026 tournament would be his final appearance. Ronaldo leaves behind numerous records and international silverware for Portugal. His World Cup knockout round statistics showed only one goal and no assists. The legendary forward expressed sadness but also a clear conscience about his career.",
-    "img": "https://static.toiimg.com/photo/msid-132232005,imgsize-93078.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/cristiano-ronaldos-world-cup-ends-with-painful-knockout-record-just-one-goal-in-10-matches/articleshow/132231977.cms",
-    "time": "2026-07-07T06:10:42.000Z"
   },
   {
     "cat": "World",
@@ -666,15 +702,6 @@ const newsData_en = [
     "time": "2026-07-07T04:43:22.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Decoding the selection call that ended Samson's T20 WC high",
-    "desc": "India's T20I squad overhaul has raised fresh questions after Player of the Tournament Sanju Samson was dropped from the Zimbabwe series despite his World Cup heroics, with selectors prioritising teenage sensation Vaibhav Sooryavanshi. Meanwhile, discussions are underway over whether Gautam Gambhir and the regular support staff will travel to Zimbabwe due to the quick turnaround, while last-minute changes to India's Asian Games squad also remain on the cards.",
-    "img": "https://static.toiimg.com/photo/msid-132230236,imgsize-149024.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/decoding-the-selection-call-that-ended-sanju-samsons-t20-world-cup-high-and-the-road-ahead/articleshow/132230229.cms",
-    "time": "2026-07-07T04:27:24.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Financial services AI dangers highlighted by UK regulator's review",
     "desc": "Regulators globally have begun to focus more keenly ‌on the impact of AI, from cyber and operational risks associated with frontier AI models such as Anthropic’s Mythos to the challenges posed by the agentic systems",
@@ -709,24 +736,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/growth-gems-biz-to-power-mahindras-next-leap/articleshow/132227995.cms",
     "time": "2026-07-07T00:12:26.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Flipkart greenlights cashing out up to 5% of vested stock options",
-    "desc": "Flipkart's board has approved a second employee stock option liquidity event. Eligible employees can now liquidate up to five percent of their vested options. This event is estimated to be around twenty-five million dollars. Payouts to employees are scheduled to be made in August. The company's growth has remained strong despite a challenging macroeconomic environment.",
-    "img": "https://static.toiimg.com/photo/msid-132227929,imgsize-30318.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/flipkart-greenlights-cashing-out-up-to-5-of-vested-stock-options/articleshow/132227914.cms",
-    "time": "2026-07-07T00:02:53.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Saudi Arabia effects deepest crude price cut in 26 years",
-    "desc": "Saudi Arabia significantly reduced crude oil prices, reflecting intense competition among producers. Major Persian Gulf nations are increasing their oil output, restoring pre-war export levels. This move coincides with OPEC+ allies agreeing to further boost production targets for August. Lower oil prices and increased supply will benefit Indian refiners and reduce government subsidy burdens. Reduced energy costs for Indian companies will help control inflation and support consumer spending.",
-    "img": "https://static.toiimg.com/photo/msid-132227885,imgsize-219364.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/saudi-arabia-effects-deepest-crude-price-cut-in-26-years/articleshow/132227896.cms",
-    "time": "2026-07-06T23:55:31.000Z"
   },
   {
     "cat": "Sports",
@@ -835,15 +844,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/the-questionable-health-of-marine-fisheries-in-india/article71185652.ece",
     "time": "2026-07-06T06:01:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Neymar announces international retirement after Brazil’s World Cup exit",
-    "desc": "Brazil's best player for more than a decade, Neymar, had been slowed by injuries in recent years that limited his impact; the country is now entering a period of transition, with the next generation taking over.",
-    "img": "https://th-i.thgim.com/public/incoming/vbk8a/article71187778.ece/alternates/LANDSCAPE_1200/Brazil_Norway_WCup_Soccer_784_7.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/neymar-announces-international-retirement-after-brazils-world-cup-exit/article71187771.ece",
-    "time": "2026-07-06T01:40:23.000Z"
   },
   {
     "cat": "Tech",

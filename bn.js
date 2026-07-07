@@ -1,5 +1,41 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "ভয়ংকর অসুস্থ অভিনেতা রাজেশ শর্মা: ভর্তি হাসপাতালে, কী হয়েছে? উদ্বিগ্ন চলচ্চিত্রমহল",
+    "desc": "পারিবারিক সূত্রে জানা গেছে, ওই সংক্রমণের প্রভাবেই রাজেশের সুগার লেভেল এক ধাক্কায় অনেকটা বেড়ে যায় (shoot up) সঙ্গে তাঁর তীব্র শ্বাসকষ্টের সমস্যাও (breathing trouble) শুরু হয়। সংক্রমণ দ্রুত ছড়িয়ে পড়ে তাঁর পায়ের হাঁটু পর্যন্ত পৌঁছে গিয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/actor-rajesh-sharma-is-critically-unwell-and-hospitalised-in-south-kolkata-hospital-with-high-fever-breathing-trouble-and-infection-in-leg_661440.html ",
+    "time": "2026-07-07T15:46:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ফ্ল্যাট বাংলো রিসর্ট থেকে কেজি কেজি সোনারুপো, দুই রাজ্য মিলিয়ে ৩০০ কোটির বিপুল বেআইনি সম্পত্তি শীর্ষ পুলিসকর্তার",
+    "desc": "তেলঙ্গানার এক শীর্ষ পুলিস কর্মকর্তাকে প্রায় ৩০০ কোটি টাকা মূল্যের অবৈধ সম্পদের মালিক হওয়ার অভিযোগে গ্রেফতার করেছে সেই রাজ্যের দুর্নীতিবিরোধী সংস্থা (এসিবি)। সোমবার সন্ধ্যায় হায়দরাবাদের ইব্রাহিমবাগ এলাকার ভেসেলা মেডোজে অবস্থিত তার বাসা থেকে তাকে গ্রেফতার করা হয়। পরে তাকে এসিবির বিশেষ আদালতে হাজির করার প্রক্রিয়া শুরু হয়।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/top-cops-illegal-assets-flats-golds-money-worth-rs-300-crore-arrested-telangana_661438.html ",
+    "time": "2026-07-07T15:07:22.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "সরকার বদলাতেই বিরাট খবর: এবার সরকারি কর্মীদের বেতন বাড়ছে ১০০ শতাংশ? অবসরপ্রাপ্তদেরও বড় লাভ",
+    "desc": "কমিশনের মূল সুপারিশ পুরোপুরি কার্যকর করতে বছরে বাড়তি প্রায় ১ লক্ষ ৬ হাজার কোটি টাকার প্রয়োজন ছিল, যা অর্থ মন্ত্রণালয়ের জন্য বেশ চিন্তার কারণ হয়ে দাঁড়ায়। এই আর্থিক চাপ সামলাতে পর্যালোচনা কমিটি মূল সুপারিশের কিছু অংশ ছেঁটে বার্ষিক খরচ প্রায় ৯০ হাজার কোটি টাকায় নামিয়ে আনার প্রস্তাব দিয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/regime-change-triggers-pay-hike-bangladesh-officials-ready-for-up-to-142-percent-salary-increase-west-bengal-forms-7th-pay-commission_661437.html ",
+    "time": "2026-07-07T14:55:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "বিশ্বকাপ ২০২৬: শেষ ষোলোর হাইভোল্টেজ ম্যাচে মুখোমুখি আর্জেন্টিনা-ইজিপ্ট; মেসি বনাম সালাহ দ্বৈরথ দেখার অপেক্ষায় ফুটবল বিশ্ব",
+    "desc": "মেসি বনাম সালাহ! বিশ্বকাপ ২০২৬-এর মেগা ফাইট!ডিফেন্ডিং চ্যাম্পিয়ন আর্জেন্টিনা আজ রাতে ফিফা বিশ্বকাপের রাউন্ড অফ ১৬-এর ম্যাচে মুখোমুখি হচ্ছে শক্তিশালী মিশরের। কোয়ার্টার ফাইনালে ওঠার এই মহাযুদ্ধে কে হাসবে শেষ হাসি? লিওনেল মেসি নাকি মোহাম্মদ সালাহ?ভারতে বসে কখন, কোন চ্যানেলে এবং কীভাবে অনলাইনে লাইভ দেখবেন এই ম্যাচ?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/sports/argentina-vs-egypt-fifa-world-cup-2026-round-of-16-live-streaming-india-time_661434.html ",
+    "time": "2026-07-07T14:25:10.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "ফের ভয়ংকর ধ্বংসলীলা প্রকৃতির! ভয়াবহ ধসে চাপা পড়লেন শ্রমিকেরা, মৃতদেহের উপর দিয়ে হু হু করে বইছে কাদাজল",
     "desc": "কেরলের পাহাড়ি জেলা ওয়েনাড়ে আবার বড়সড় বিপর্যয়! ওয়েনাড়ের এক গুরুত্বপূর্ণ টানেল প্রকল্পের কাজ চলছিল। ঠিক কাছেই নামল ধস। আকস্মিক ঘটে যাওয়া এই ধসের ঘটনায় অন্তত সাতজন মাটির নীচে চাপা পড়ে আছেন বলে আশঙ্কা করা হচ্ছে। মেঘভাঙা বৃষ্টির মতো অনবরত বর্ষণের মাঝে ঘটে যাওয়া এই প্রাকৃতিক দুর্যোগে ইতিমধ্যেই অন্তত বহু শ্রমিক গুরুতর জখম হয়েছেন।",
@@ -126,15 +162,6 @@ const newsData_bn = [
     "time": "2026-07-04T12:58:11.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "কাশী বিশ্বনাথ মন্দিরে হাড়হিম ঘটনা: শনিবার সকালে ভরা পুণ্যার্থীদের মধ্যে হঠাত্‍ই চলল গুলি, ছিটকে গেল রক্ত",
-    "desc": "গুলির বিকট শব্দে কেঁপে ওঠে গোটা মন্দির চত্বর। মুহূর্তের মধ্যে পুণ্যার্থীদের মধ্যে হুড়োহুড়ি ও আতঙ্ক ছড়ায়। এদিক ওদিক ছোটাছুটি করতে থাকে সবাই। ভীত হয়ে যায় মন্দিরে ও বাইরে উপস্থিত সব পুণ্যার্থী ও সাধারণ লোকজন। তবে স্বস্তির বিষয়, গুলি সরাসরি কারও গায়ে লাগেনি।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/panic-at-kashi-vishwanath-temple-pac-jawan-carbine-accidentally-fires-3-inured-by-flying-stone-splinters_661052.html ",
-    "time": "2026-07-04T12:16:52.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "মেসি-ম্যাজিক ও মিশরের রূপকথা: কেপ ভার্দেকে উড়িয়ে শেষ ষোলোয় আর্জেন্টিনা, টাইব্রেকারে ইতিহাস সালাহদের",
     "desc": "প্রথম ফুটবলার হিসেবে বিশ্বকাপে ২০ গোল এবং টানা ৮ ম্যাচে স্কোর করার অতিমানবীয় নজির গড়লেন এলএম১০। কেপ ভার্দেকে হারিয়ে শেষ ১৬-য় আর্জেন্টিনা। অন্যদিকে ডালাসে টাইব্রেকারে অস্ট্রেলিয়াকে হারিয়ে ৯২ বছর পর নকআউটে প্রথম জয় পেল সালাহর মিশর। ঘানাকে হারিয়ে শেষ ষোলোয় জায়গা করে নিল কলম্বিয়াও।",
@@ -243,15 +270,6 @@ const newsData_bn = [
     "time": "2026-07-01T07:35:18.000Z"
   },
   {
-    "cat": "World",
-    "title": "'উনি আমারই মতো, উনি ঠিক উঠে পড়েছেন...'! মোদীকে ফোন করতে চেয়ে কেন বললেন ট্রাম্প?",
-    "desc": "সারা পৃথিবী ভেবে নিতে পারে, সাম্প্রতিক ভূরাজনৈতিক কারণে বিস্তর দূরত্ব তৈরি হয়েছে ট্রাম্প-মোদীর মধ্যে। কিন্তু প্রকৃতপক্ষে যে তা নয়, সেটারই প্রমাণ মিলল! কেন, কী জানা গেল? ট্রাম্প মোদীকে এখনও 'কাছের বন্ধু' বলেই নাকি মনে করেন বলে জানা গিয়েছে!",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/trump-wanted-to-call-pm-modi-at-6-am-he-will-be-up-he-is-like-me_660527.html ",
-    "time": "2026-06-30T12:03:37.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "জুবিন ভক্তদের জন্য বিরাট উপহার! পর্দায় আসছে প্রিয় গায়ককে নিয়ে সিনেমা, 'লাভ ইউ জুবিন দা', অভিনয়ে কারা?",
     "desc": "সিঙ্গাপুরের অনুষ্ঠানে গিয়ে, জুবিনের এই না ফেরাটাকে যেন এখনও মেনে নিতে পারেন না কেউই। তাঁকে শ্রদ্ধার্ঘ্য জানিয়ে একাধিক অনুষ্ঠান থেকে শুরু করে স্মৃতিসৌধ.. সবই তৈরি হয়েছে। তবে এবার, জুবিন গর্গকে শ্রদ্ধা জানিয়ে আসছে নতুন মিউজিক্যাল ড্রামা 'লাভ ইউ জুবিন দা'।",
@@ -259,15 +277,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/tollywood-announces-new-musical-drama-love-you-zubeen-da-as-a-grand-tribute-to-zubeen-garg_660523.html ",
     "time": "2026-06-30T11:02:10.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ইরানের হামলার আতঙ্ক! হরমুজ প্রণালীতে ‘অদৃশ্য’ হয়ে যাচ্ছে ভারতমুখী ৬২% বাণিজ্যিক জাহাজ",
-    "desc": "হরমুজ প্রণালীতে নজিরবিহীন ‘ডার্ক ট্রানজিট’! ইরানের নজরদারি এড়াতে ওমান রুটের দিকে ঝুঁকছে পণ্যবাহী জাহাজ। খনিজ তেল ও বাণিজ্যের জন্য হরমুজ প্রণালী ভারতের জন্য অত্যন্ত জরুরি। কিন্তু ইরানের হামলার আশঙ্কায় ভারতমুখী জাহাজগুলো এখন নিজেদের লুকিয়ে বা ‘অদৃশ্য’ করে এই বিপজ্জনক জলপথ পার হতে বাধ্য হচ্ছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/majority-of-india-bound-ships-go-dark-in-hormuz-amid-iran-threat_660500.html ",
-    "time": "2026-06-30T09:06:38.000Z"
   },
   {
     "cat": "Entertainment",
@@ -304,32 +313,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/akanksha-chamola-confirms-divorce-from-gaurav-khanna-two-months-after-dismissing-split-rumours_660310.html ",
     "time": "2026-06-29T06:37:55.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
-    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
-    "time": "2026-06-01T03:50:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
-    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
-    "time": "2026-05-23T05:15:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "পেট্রোল ও ডিজেলের দাম লিটারে ৩ টাকা বাড়ল, জেনে নিন আপনার শহরে জ্বালানির নতুন দাম",
-    "desc": "চার বছর পর পেট্রোল ও ডিজেলের দাম প্রতি লিটারে ₹৩ টাকা করে বাড়ল। এর ফলে কলকাতা ও দিল্লিতে জ্বালানি মহার্ঘ্য হল। Fuel prices hiked by ₹3 per litre after a long wait causing rates to rise in major cities.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-15-2026-000015b-jpg-1778819385461_1778819386210-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-india-fuel-rates-increased-by-3-rupees-per-litre-delhi-kolkata-014-306911.html",
-    "time": "2026-05-15T04:35:17.000Z"
   }
 ];
