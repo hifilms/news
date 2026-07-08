@@ -1,21 +1,165 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Wimbledon 2026",
+    "desc": "The 39-year-old Serbian great finishes on the right side of a five hour and 15-minute slugfest to oust third seed Auger-Aliassime and set up a much-anticipated last-four meeting with World No. 1 and defending champion Sinner",
+    "img": "https://th-i.thgim.com/public/sport/6troth/article71198625.ece/alternates/LANDSCAPE_1200/djoko.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/tennis/wimbledon-2026-of-longevity-and-supreme-fitness-novak-djokovic-all-of-39-keeps-redefining-his-career-graph/article71198444.ece",
+    "time": "2026-07-08T19:02:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Australia women’s cricket team: setting the gold standard",
+    "desc": "For Australia, which has been used to consistent success, a run without a title for three years would have been a bitter pill to swallow; however, its T20 World Cup triumph during the transition phase makes it the team to beat",
+    "img": "https://th-i.thgim.com/public/sport/6a38nq/article71199796.ece/alternates/LANDSCAPE_1200/GettyImages-2285188198.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/australia-womens-cricket-team-setting-the-gold-standard/article71199790.ece",
+    "time": "2026-07-08T18:55:13.000Z"
+  },
+  {
     "cat": "Politics",
-    "title": "'All funds fully and transparently disclosed': TMC calls ED's freezing of Rs 440 crore bank deposits 'politically motivated', alleges misuse of agencies",
+    "title": "Forces shoot dead ‘category A’ LeT terrorist Zakir Ganie in J&amp;K",
+    "desc": "Security forces neutralized Lashkar-e-Taiba terrorist Zakir Ganie in Shopian on Wednesday. This encounter occurred nearly ten months after the last such operation in the region. The joint operation was launched Saturday evening based on specific intelligence inputs. Arms and ammunition were recovered from the encounter site by the Army. Meanwhile, three overground workers were arrested in Anantnag using advanced surveillance technology.",
+    "img": "https://static.toiimg.com/photo/msid-132271395,imgsize-231014.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/forces-shoot-dead-category-a-let-terrorist-zakir-ganie-in-jk/articleshow/132271272.cms",
+    "time": "2026-07-08T18:46:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Omar backs suspension of Indus Water Treaty,  says Centre will respond to Pak war-mongering",
+    "desc": "Jammu and Kashmir Chief Minister Omar Abdullah supports India's suspension of the Indus Water Treaty. He stated the treaty was never in the region's best interest and opposed it from its inception. Abdullah blamed the treaty for the power crisis experienced within Jammu and Kashmir. India suspended the water sharing pact after a significant terror attack last year. The central government will respond to war threats originating from Pakistan.",
+    "img": "https://static.toiimg.com/photo/msid-132271198,imgsize-43656.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/omar-backs-suspension-of-indus-water-treaty-says-centre-will-respond-to-pak-war-mongering/articleshow/132271199.cms",
+    "time": "2026-07-08T18:36:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "GER hits 30%, but pace lags 2035 target",
+    "desc": "India's higher education enrollment grew slowly in 2023-24. The Gross Enrolment Ratio reached thirty percent nationally. This pace challenges the fifty percent target by twenty thirty-five. Enrollment access remains uneven for Scheduled Castes and Tribes. Private institutions lead college expansion across the country.",
+    "img": "https://static.toiimg.com/photo/msid-132271130,imgsize-162494.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ger-hits-30-but-pace-lags-2035-target/articleshow/132271134.cms",
+    "time": "2026-07-08T18:31:55.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Indian national among inmates killed in Sri Lanka’s prison riots",
+    "desc": "The deceased Indian’s name is Unnikrishnan S.; the High Commission of India has not yet issued an official statement on the death, official sources in Colombo confirmed that a note verbale on the incident was sent",
+    "img": "https://th-i.thgim.com/public/incoming/f460rq/article71199621.ece/alternates/LANDSCAPE_1200/2026-07-08T072417Z_767175843_RC2E9MAL4GPW_RTRMADP_3_SRI-LANKA-PRISON-VIOLENCE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/indian-national-among-inmates-killed-in-sri-lankas-prison-riots/article71199078.ece",
+    "time": "2026-07-08T18:25:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Who is Tilly Norwood? AI actress is now getting first feature Misaligned",
+    "desc": "Tilly Norwood made headlines in late 2025 after the AI-generated actress became the face of Hollywood's growing debate over artificial intelligence. Now, months after sparking industry-wide backlash, the virtual performer is set to headline her first feature film, Misaligned. The project has been announced by AI-focused studio Particle 6, which describes the film as a coming-of-age comedy-drama set inside the fictional Tillyverse.",
+    "img": "https://static.toiimg.com/photo/msid-132270844,imgsize-84796.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/who-is-tilly-norwood-the-ai-actress-that-sparked-a-hollywood-backlash-is-now-getting-her-first-feature-film-misaligned/articleshow/132270743.cms",
+    "time": "2026-07-08T18:16:42.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump threatens to strike Iran's civilian infrastructure",
+    "desc": "\"I don't ⁠think it's going to start again. I think it's ​going to go ‌very quickly. They hit a couple of ships, and so we ‌hit them much harder,\" Mr. Trump ​told reporters in Ankara",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-iran-war-live-updates-after-iran-strikes-strait-of-hormuz-donald-trump-netanyahu-mojtaba-lebanon-hezboallah-peace-deal/article71196409.ece",
+    "time": "2026-07-08T17:57:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I'm more technical, more skilled'",
+    "desc": "In an exclusive conversation with Timesofindia.com, Sandhagen discusses how Bautista has evolved since their first meeting, why he dismisses the wrestling narrative, the lessons from his latest title defeat, and why he believes a showdown with Sean O'Malley makes the most sense if he gets past Bautista.",
+    "img": "https://static.toiimg.com/photo/msid-132262422,imgsize-430132.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/mma/news/cory-sandhagen-backs-himself-against-mario-bautista-im-more-technical-more-skilled/articleshow/132262391.cms",
+    "time": "2026-07-08T17:45:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP lost credibility worldwide in wake of Ram Temple embezzlement case, says U.P. Opposition",
+    "desc": "SP claims global investors are withdrawing funds because of a loss of trust in the BJP government; Congress says if PM took credit for Ram Temple construction, he must also accept responsibility for embezzlement allegations",
+    "img": "https://th-i.thgim.com/public/todays-paper/tp-miscellaneous/tp-others/fuo607/article71196106.ece/alternates/LANDSCAPE_1200/Akhilesh_GUJG7HGUJG7H89C.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/donation-theft-at-ram-temple-has-tarnished-indias-image-akhilesh-yadav/article71197160.ece",
+    "time": "2026-07-08T17:40:30.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump's Board of Peace planning pilot humanitarian zone in Gaza, official says",
+    "desc": "On Monday (July 6, 2026), Hamas ⁠said it had dissolved its de facto government in Gaza and signalled it was ready to hand over to NCAG, as it presses Israel to honour other parts ‌of the stalled peace plan",
+    "img": "https://th-i.thgim.com/public/incoming/3ofprj/article71199694.ece/alternates/LANDSCAPE_1200/Board-of-Peace-G1BG0O2CK.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trumps-board-of-peace-planning-pilot-humanitarian-zone-in-gaza-official-says/article71199645.ece",
+    "time": "2026-07-08T17:24:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India, Kyrgyzstan launch 'Manas and Mahabharata' civilizational studies centre",
+    "desc": "An Indian delegation visited Kyrgyzstan for the inauguration of a new civilizational studies center. Trilateral cooperation agreements were signed between academic institutions from both nations. The first Hindi translation of the Kyrgyz epic Manas was also presented at the event. This initiative aims to foster scientific, educational, and cultural cooperation between India and Kyrgyzstan. The center will focus on comparative civilizational studies and intercultural dialogue.",
+    "img": "https://static.toiimg.com/photo/msid-132268930,imgsize-762829.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-kyrgyzstan-launch-manas-and-mahabharata-civilizational-studies-centre/articleshow/132268605.cms",
+    "time": "2026-07-08T17:05:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Calcutta High Court seeks affidavit as State says no decision yet on midday meal contract for ISKCON",
+    "desc": "The announcement to engage ISKCON was made in the State Budget presented by Finance Minister Swapan Dasgupta on June 22, drawing criticism from Opposition parties who claim it is an attempt by BJP government to impose vegetarianism",
+    "img": "https://th-i.thgim.com/public/incoming/i65c2a/article71199636.ece/alternates/LANDSCAPE_1200/IMG_BL_-_MAMATA_BANERJEE_2_1_7RB7CLVA.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/calcutta-high-court-seeks-affidavit-as-state-says-no-decision-yet-on-midday-meal-contract-for-iskcon/article71199011.ece",
+    "time": "2026-07-08T17:00:34.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump says ‘ceasefire is over’, after U.S., Iran exchange strikes",
+    "desc": "U.S. President vows to strike Iran “hard” again, but says he will let negotiators keep talking; IRGC hits Gulf targets after U.S. air strikes follow attacks on three ships using Omani route in the Strait of Hormuz",
+    "img": "https://th-i.thgim.com/public/incoming/mlb375/article71197392.ece/alternates/LANDSCAPE_1200/Turkey_NATO_Summit_848_.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trump-says-iran-ceasefire-over-after-fighting-flares/article71197341.ece",
+    "time": "2026-07-08T16:48:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "R Sai Kishore joins Gloucestershire for final six County matches",
+    "desc": "India left-arm spinner R. Sai Kishore has joined Gloucestershire for the final six matches of the 2026 County Championship season, starting against Worcestershire on August 20. After a successful spell with Surrey in 2025, Kishore said he was excited to test himself in English conditions. Gloucestershire coach Jon Lewis backed the Indian spinner to make a significant impact.",
+    "img": "https://static.toiimg.com/photo/msid-132268305,imgsize-84123.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/r-sai-kishore-joins-gloucestershire-for-final-six-county-championship-matches/articleshow/132268050.cms",
+    "time": "2026-07-08T16:32:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Blame game over waste management in Thiruvananthapuram",
+    "desc": "Mayor alleges that as the BJP has over the past six months of its stint in the Corporation earned a good impression from general public, CPI(M) leaders are attempting to dump waste all around the city and spread fake news. LDF says Mayor is making contradictory statements instead of giving clear answers to questions raised by people, Opposition and media",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/blame-game-over-waste-management-in-thiruvananthapuram/article71198658.ece",
+    "time": "2026-07-08T16:21:19.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Trump’s ceasefire ‘over’ remarks &amp; fresh Strait of Hormuz disruptions: What it means for India",
+    "desc": "Before the conflict, the Strait of Hormuz handled nearly 40% of India's crude oil imports, around 60% of its LNG imports and approximately 90% of its LPG supplies, underlining the country's heavy dependence on the strategic waterway.",
+    "img": "https://static.toiimg.com/photo/msid-132267809,imgsize-787254.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/trumps-ceasefire-over-remarks-fresh-strait-of-hormuz-disruptions-what-it-means-for-india/articleshow/132267234.cms",
+    "time": "2026-07-08T16:14:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'All funds fully &amp; transparently disclosed': TMC calls ED's freezing of Rs 440 crore bank deposits 'politically motivated', alleges misuse of agencies",
     "desc": "The Enforcement Directorate froze Trinamool Congress bank deposits worth Rs 440 crore. This action is part of an ongoing money laundering investigation into financial transactions. The Trinamool Congress stated all financial transactions were fully disclosed to authorities. They called the freeze a politically motivated act by the central government. The agency is probing alleged routing of funds through various service companies.",
     "img": "https://static.toiimg.com/photo/msid-132267839,imgsize-144435.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/all-funds-fully-and-transparently-disclosed-tmc-calls-eds-freezing-of-rs-440-crore-bank-deposits-politically-motivated-alleges-misuse-of-agencies/articleshow/132267313.cms",
     "time": "2026-07-08T16:09:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "no breakthrough in search for five missing persons",
-    "desc": "Satheesan announces an ex gratia of ₹5 lakh to families of those killed. The government will bear the treatment cost of the injured. Heavy rain and inclement weather hamper rescue efforts, slowing the removal of debris and posing challenges to rescuers",
-    "img": "https://th-i.thgim.com/public/incoming/tbifrq/article71199421.ece/alternates/LANDSCAPE_1200/AFP_B9LT3ZR.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/wayanad-debris-slip-no-breakthrough-in-search-for-five-missing-persons/article71199279.ece",
-    "time": "2026-07-08T15:57:34.000Z"
   },
   {
     "cat": "Business",
@@ -25,15 +169,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/us-stocks-today-08-july-2026-oil-jumps-nearly-5-shares-tumble-as-trump-declares-iran-ceasefire-over/articleshow/132267373.cms",
     "time": "2026-07-08T15:56:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Chief Minister Chandrababu Naidu directs tobacco firms to stick to procurement commitments, expedite auction process",
-    "desc": "Expressing displeasure at the slow pace of procurement, he asks the companies to ensure purchases at, or above, the minimum support price of ₹200 per kg fixed by the State government; crisis largely due to farmers cultivating beyond the demand projected through indent allocations, argue companies",
-    "img": "https://th-i.thgim.com/public/incoming/an0vo/article71199379.ece/alternates/LANDSCAPE_1200/20260705345L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/chief-minister-chandrababu-naidu-directs-tobacco-firms-to-stick-to-procurement-commitments-expedite-auction-process/article71198909.ece",
-    "time": "2026-07-08T15:50:13.000Z"
   },
   {
     "cat": "Politics",
@@ -61,24 +196,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/women-power-higher-education-growth-as-female-ger-widens-lead-over-men/articleshow/132267265.cms",
     "time": "2026-07-08T15:35:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Cancer burden is nearly universal, yet highly inequitable in its impact: WHO report",
-    "desc": "The first such survey by the WHO indicates widening inequities in access to prevention, diagnosis, treatment, and supportive care; while 87% of women with breast cancer survive at five years after their diagnosis in high-income countries, only about 42% do so in low-income countries",
-    "img": "https://th-i.thgim.com/public/incoming/z49sw4/article70955569.ece/alternates/LANDSCAPE_1200/AFP_37296TD.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/health/cancer-burden-is-nearly-universal-yet-highly-inequitable-in-its-impact-who-report/article71198758.ece",
-    "time": "2026-07-08T15:22:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Police raid ‘Kallapi’ powder manufacturing units amid rising suicide cases across Kadapa district",
-    "desc": "Kallapi powder is a cheaper alternative to cow dung mixed water, which is used by women to sprinkle at the portico of houses; a total of 19 persons allegedly ended their lives in Kadapa district between January 1, 2025, and July 6, 2026, after consuming the powder, say police",
-    "img": "https://th-i.thgim.com/public/incoming/vkoop2/article71199208.ece/alternates/LANDSCAPE_1200/10215_8_7_2026_19_53_44_1_WHATSAPPIMAGE2026_07_08AT74132PM.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/police-raid-kallapi-powder-manufacturing-units-amid-rising-suicide-cases-across-kadapa-district/article71198803.ece",
-    "time": "2026-07-08T15:19:31.000Z"
   },
   {
     "cat": "Sports",
@@ -118,15 +235,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Political tensions rise over temple hair auction row at Allagadda",
-    "desc": "Former MLA and YSRCP leader Gangula Brijendra Nath Reddy accuses current MLA and TDP leader Bhuma Akhila Priya and her family of allegedly obstructing the transportation of temple hair consignments in order to secure commissions from the contracts",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/political-tensions-rise-over-temple-hair-auction-row-at-allagadda/article71199023.ece",
-    "time": "2026-07-08T15:04:53.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Pests, hygiene scare in pantries: Railway Ministry directs zones to follow strict cleaning protocols",
     "desc": "The Railway Ministry has mandated a new directive for all zonal railways, emphasizing the urgency of strict cleaning and pest control measures for pantry cars. This decision comes in response to ongoing complaints regarding unsanitary conditions and rodent problems. Additionally, there are serious concerns regarding the waste disposal methods employed by catering staff. Inconsistencies in enforcement have been attributed to lapses by certain railway authorities.",
     "img": "https://static.toiimg.com/photo/msid-132266588,imgsize-136500.cms",
@@ -136,12 +244,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Wimbledon 2026",
-    "desc": "The 39-year-old Serbian great finishes on the right side of a five hour and 15-minute slugfest to oust third seed Auger-Aliassime and set up a much-anticipated last-four meeting with World No. 1 and defending champion Sinner",
-    "img": "https://th-i.thgim.com/public/sport/6troth/article71198625.ece/alternates/LANDSCAPE_1200/djoko.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/tennis/wimbledon-2026-of-longevity-and-supreme-fitness-novak-djokovic-all-of-39-keeps-redefining-his-career-graph/article71198444.ece",
-    "time": "2026-07-08T14:48:57.000Z"
+    "title": "Opener ruled out of historic Lord's Test vs England; here's why",
+    "desc": "Head coach Amol Muzumdar said Rawal picked up the injury while playing for India A against England A in Taunton earlier this month. She suffered a cut on her knee during India A's second 50-over match, which required stitches.",
+    "img": "https://static.toiimg.com/photo/msid-132266384,imgsize-416877.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/big-blow-for-india-opener-pratika-rawal-ruled-out-of-historic-lords-test-against-england-heres-why/articleshow/132266325.cms",
+    "time": "2026-07-08T14:39:48.000Z"
   },
   {
     "cat": "Entertainment",
@@ -187,6 +295,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-arjun-kapoor-groove-as-himesh-reshammiya-sings-kitne-armaan-and-its-the-best-thing-on-the-internet-today-dont-miss-the-jhakaas-anil-kapoor-touch-watch-video/articleshow/132265818.cms",
     "time": "2026-07-08T14:17:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Full list for drama, comedy and limited series",
+    "desc": "The 78th Emmy Awards nominations are out, with 'The Pitt', 'Pluribus' and 'Slow Horses' leading the Drama race, and 'The Bear', 'Hacks' and 'Abbott Elementary' battling it out in Comedy. Here's the full list of nominees ahead of the September 14 ceremony, hosted by Mariska Hargitay.",
+    "img": "https://static.toiimg.com/photo/msid-132267439,imgsize-130484.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/78th-emmy-awards-2026-nominations-revealed-noah-wyle-zendaya-the-pitt-pluribus-and-the-bear-lead-the-race/articleshow/132265903.cms",
+    "time": "2026-07-08T14:14:44.000Z"
   },
   {
     "cat": "Business",
@@ -279,15 +396,6 @@ const newsData_en = [
     "time": "2026-07-08T12:37:07.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Chor, chor': Eggs thrown at Mamata Banerjee's rally in West Bengal; watch",
-    "desc": "Eggs were allegedly thrown at Mamata Banerjee's protest march in Kolkata on Wednesday. Clashes broke out between Trinamool Congress and BJP workers during the rally. Police resorted to a baton charge to control the escalating situation and restore order. Mamata Banerjee accused the police of acting as an arm of the BJP organization. The Calcutta High Court had previously allowed the protest march under specific conditions.",
-    "img": "https://static.toiimg.com/photo/msid-132263748,imgsize-643578.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/chor-chor-eggs-thrown-at-mamata-banerjees-rally-in-west-bengal-watch/articleshow/132263568.cms",
-    "time": "2026-07-08T12:34:18.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Truecaller says TRAI’s attempt to regulate it makes ‘no sense’",
     "desc": "The regulator had reportedly sought IT Ministry clearance to forbid the caller ID app from displaying warnings next to numbers reported as spam from 140 and 160 series phone numbers, earmarked for promotional calls and banks",
@@ -342,15 +450,6 @@ const newsData_en = [
     "time": "2026-07-08T12:09:36.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Madras HC grants anticipatory bail to DMK MLA Senthil Balaji in Rs 35 crore bribery case",
-    "desc": "The Madras High Court granted anticipatory bail to DMK MLA Senthil Balaji and his brother. This bail was granted in a case alleging a Rs 35 crore bribe offer. The court directed both petitioners to appear daily before the investigating officer. Arguments presented highlighted the lack of conversation recordings and reliance on call detail records. The court questioned Balaji's specific role in the alleged bribery attempt.",
-    "img": "https://static.toiimg.com/photo/msid-132263097,imgsize-87975.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/madras-hc-grants-anticipatory-bail-to-dmk-mla-senthil-balaji-in-rs-35-crore-bribery-case/articleshow/132263049.cms",
-    "time": "2026-07-08T12:06:52.000Z"
-  },
-  {
     "cat": "World",
     "title": "Marine Le Pen’s political career and the rise of the French far right: Timeline",
     "desc": "The head of the National Rally, Le Pen, 57, gained popularity in recent years by softening the image of the party founded by her late father — who was known for his anti-semitic and racist remarks — and dropping extreme positions, such as exiting the European Union.",
@@ -385,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/whatever-game-was-being-played-to-stop-our-film-it-is-still-going-on-satluj-actor-suvinder-pal-vicky-opens-up-on-ott-removal-of-diljit-dosanjh-starrer/articleshow/132262219.cms",
     "time": "2026-07-08T11:38:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'I am being kept under police watch': Mamata Banerjee accuses cops of acting like 'BJP cadres'",
-    "desc": "Mamata Banerjee alleged police watch as house arrest and accused the administration of failing to ensure a peaceful protest. The Trinamool Congress chief stated that the police acted as BJP cadres, undermining a court order. She claimed participants were attacked despite court permission for the rally over a minor's alleged rape and murder. Banerjee further alleged a complete breakdown of law and order in West Bengal.",
-    "img": "https://static.toiimg.com/photo/msid-132262392,imgsize-143011.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/like-house-arrest-mamata-banerjee-alleges-police-watch-accuses-cops-of-acting-like-bjp-cadres/articleshow/132262097.cms",
-    "time": "2026-07-08T11:37:31.000Z"
   },
   {
     "cat": "Entertainment",
@@ -432,15 +522,6 @@ const newsData_en = [
     "time": "2026-07-08T11:01:02.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "The 9th-century Hindu temple PM Modi visited in Indonesia",
-    "desc": "Prime Minister Narendra Modi and Indonesian President Prabowo Subianto inaugurated a temple restoration project. This initiative highlights India's cultural diplomacy and shared civilizational links between the nations. The project involves restoring smaller temples within the Prambanan complex with Indonesian authorities. Prambanan, a UNESCO World Heritage Site, suffered damage from natural disasters and upheaval. Restoration work continues using traditional and modern techniques for this ancient Hindu temple complex.",
-    "img": "https://static.toiimg.com/photo/msid-132261417,imgsize-1316551.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/all-about-prambanan-the-9th-century-hindu-temple-pm-modi-visited-in-indonesia/articleshow/132261418.cms",
-    "time": "2026-07-08T11:00:00.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Janhvi Kapoor wears Rs 2.5 crore watch studded with 251 diamonds",
     "desc": "Janhvi Kapoor attended her sister Anshula's pre-wedding festivities in a blush pink gown. Her rose gold Patek Philippe watch, valued at nearly Rs 2.5 crore, drew significant attention. The exquisite timepiece features intricate detailing and numerous diamonds and pearls. Janhvi completed her elegant look with striking jewelry and soft makeup. She was recently seen in 'Peddi' and has upcoming films like 'Lag Jaa Gale'.",
@@ -477,24 +558,6 @@ const newsData_en = [
     "time": "2026-07-08T10:37:03.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "After Supreme Court rap over judiciary chapter, Hitler references removed, Congress' stance on Partition revised",
-    "desc": "NCERT has released a revised Class 8 Social Science textbook following a Supreme Court directive. The new edition removes a controversial chapter on the judiciary and alters historical narratives. Revisions include changes to the Congress' stance on the 1947 Partition and the removal of Hitler references. The history chapter now includes Vinayak Damodar Savarkar's demand for Swaraj. This revised book focuses on the judiciary's constitutional role and its structure.",
-    "img": "https://static.toiimg.com/photo/msid-132260925,imgsize-128518.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ncert-textbook-revision-after-supreme-court-rap-over-judiciary-chapter-hitler-references-removed-congress-stance-on-partition-revised/articleshow/132260523.cms",
-    "time": "2026-07-08T10:36:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Chinmayi Sripaada slams trolls over horrific death threats",
-    "desc": "Singer Chinmayi Sripaada condemned online abuse targeting her young children. Her husband, Rahul Ravindran, left social media after reading hateful messages. Trolls allegedly wished death upon their three-year-old twins due to their parents' views. Chinmayi shared screenshots of these disturbing messages as harassment continued. She vowed to wish horror upon anyone who abuses her children.",
-    "img": "https://static.toiimg.com/photo/msid-132260864,imgsize-202256.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/im-going-to-wish-you-horror-chinmayi-sripaada-slams-trolls-over-horrific-death-threats-to-her-3-year-old-twins-amid-rahul-ravindran-quitting-social-media/articleshow/132260786.cms",
-    "time": "2026-07-08T10:35:06.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Are Indians swiping less? Credit card story has grown bigger, user base hasn’t",
     "desc": "India's credit card market has grown significantly over the past decade. However, credit card penetration remains low compared to global benchmarks. Younger consumers and semi-urban areas now show increased credit card ownership. Credit cards now face competition from digital payment methods like UPI. Portfolio quality has improved after pandemic-related challenges.",
@@ -502,15 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/are-indians-swiping-less-credit-card-story-has-grown-bigger-user-base-hasnt/articleshow/132260484.cms",
     "time": "2026-07-08T10:34:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Before Rajkummar's 'Dada' , Sushant tried to secure the rights in 2018 to play",
-    "desc": "Rajkummar Rao will portray Sourav Ganguly in an upcoming biopic titled Dada. Sushant Singh Rajput had previously pursued the rights for this life story. He had initiated talks with the cricketer in 2018 for the project. Ganguly was not ready for a film at that time. The biopic is scheduled for a May 2027 release.",
-    "img": "https://static.toiimg.com/photo/msid-132260793,imgsize-200924.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/before-rajkummar-raos-dada-first-look-sushant-singh-rajput-tried-to-secure-the-rights-in-2018-to-play-sourav-ganguly-on-screen/articleshow/132260770.cms",
-    "time": "2026-07-08T10:32:27.000Z"
   },
   {
     "cat": "Entertainment",
@@ -540,15 +594,6 @@ const newsData_en = [
     "time": "2026-07-08T10:22:40.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "1 in 14 women hit by early menopause in low, middle-income countries: Study",
-    "desc": "Early menopause occurs in about one in fourteen women aged thirty to forty-nine, with a troubling statistic of over fifty-one thousand women studied. The prevalence is notably higher in rural settings and less affluent countries. Fortunately, pursuing higher education and postponing motherhood can significantly reduce the likelihood of this condition, which places added strain on healthcare resources.",
-    "img": "https://static.toiimg.com/photo/msid-132260511,imgsize-98754.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/1-in-14-women-hit-by-early-menopause-in-low-middle-income-countries-study/articleshow/132260402.cms",
-    "time": "2026-07-08T10:22:28.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Egypt lodge complaint with FIFA after Argentina loss, seek referee's removal",
     "desc": "The Egyptian camp was unhappy with several refereeing decisions during the match. These included a goal ruled out after a VAR review and a penalty appeal that was not reviewed in the build-up to Argentina's winning goal.",
@@ -558,17 +603,8 @@ const newsData_en = [
     "time": "2026-07-08T10:20:05.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Modi government continues to turn a blind eye': Rahul Gandhi on fresh UGC-NET leak allegations",
-    "desc": "Rahul Gandhi alleged fresh irregularities in the recent UGC-NET examination. He claimed a PDF circulated before the test matched many Sociology questions. This paper was reportedly sold for ₹2.25 lakh in several northern states. Gandhi criticized the government for ignoring repeated examination paper leaks. Students are denied justice and accountability due to the administration's inaction.",
-    "img": "https://static.toiimg.com/photo/msid-132260438,imgsize-40214.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/modi-government-continues-to-turn-a-blind-eye-rahul-gandhi-on-fresh-ugc-net-leak-allegations/articleshow/132259995.cms",
-    "time": "2026-07-08T10:19:48.000Z"
-  },
-  {
     "cat": "Entertainment",
-    "title": "'Welcome to the Jungle' BO Day 13 [LIVE]: Chases Rs 125 crore domestic milestone",
+    "title": "'Welcome to the Jungle' unlocks new global milestone of Rs 180 crore on Day 13",
     "desc": "Ahmed Khan’s star-studded action-comedy 'Welcome to the Jungle', featuring an ensemble cast led by Akshay Kumar, Suniel Shetty, and Paresh Rawal, continues to draw family audiences into its second week. Despite facing a massive screen crunch due to the wide release of YRF’s high-profile spy-thriller 'Alpha', starring Alia Bhatt, Sharvari, Anil Kapoor, and Bobby Deol, the third installment of the iconic Welcome franchise has successfully held its ground. Having comfortably cruised past the Rs. 100 crore domestic net mark over its second weekend, the film is now pursuing a stable run and netting Rs. 120.66 crore on the domestic front across regular weekdays.",
     "img": "https://static.toiimg.com/photo/msid-132260168,imgsize-134041.cms",
     "src": "indiatimes.com",
@@ -738,24 +774,6 @@ const newsData_en = [
     "time": "2026-07-08T05:04:39.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Exclusive",
-    "desc": "Few cricketers have witnessed the evolution of modern cricket quite like AB de Villiers. From the rise of T20 leagues to the changing aspirations of young cricketers, the South African legend has lived through the sport's biggest transition.",
-    "img": "https://static.toiimg.com/photo/msid-132242545,imgsize-2029357.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/exclusive-at-15-he-should-still-be-immature-ab-de-villiers-on-protecting-vaibhav-sooryavanshi-part-1/articleshow/132242341.cms",
-    "time": "2026-07-08T04:30:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How 19-year-old Niharika became only Indian woman in Asian Games show jumping",
-    "desc": "At just 19, equestrian Niharika Singhania has earned a place in India's show jumping team for the 2026 Asian Games, becoming its only woman rider. After overcoming qualification hurdles and switching horses weeks before the deadline, she is now driven by an unwavering bond with her horses and ambitions that stretch beyond Aichi-Nagoya.",
-    "img": "https://static.toiimg.com/photo/msid-132243371,imgsize-145995.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/overcoming-indian-horse-travel-restrictions-how-19-year-old-niharika-singhania-became-only-indian-woman-in-asian-games-2026-show-jumping/articleshow/132243098.cms",
-    "time": "2026-07-08T03:30:00.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Stock recommendations for July 8, 2026",
     "desc": "Hero MotoCorp, Tata Steel are the top stocks to buy recommended by Mehul Kothari, DVP - Technical Research at Anand Rathi Shares for July 7, 2026. He also recommends buying Nippon India ETF Nifty IT (ITBEES).",
@@ -855,24 +873,6 @@ const newsData_en = [
     "time": "2026-07-07T09:59:02.000Z"
   },
   {
-    "cat": "World",
-    "title": "NYC Mayor Zohran Mamdani dines at Chef Regi Mathew’s Kerala restaurant, Chatti, in New York",
-    "desc": "The New York City mayor, dined with his wife Rama Duwaji and his parents, filmmaker Mira Nair and scholar Mahmood Mamdani, at Chennai-based Chef Regi Mathew’s restaurant, Chatti, in Manhattan, which showcases Kerala’s toddy shop cuisine",
-    "img": "https://th-i.thgim.com/public/life-and-style/cljd2y/article71173572.ece/alternates/LANDSCAPE_1200/FotoJet%2040.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/food/features/nyc-mayor-zohran-mamdani-dines-at-chef-regi-mathews-kerala-restaurant-chatti-in-new-york/article71173340.ece",
-    "time": "2026-07-07T09:20:39.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "PM Narendra Modi receives grand ceremonial welcome in Jakarta",
-    "desc": "The Prime Minister had arrived in Indonesia on July 6, launching the opening segment of his three-nation diplomatic visit with a high-profile ceremonial welcome that featured an escort by an Indonesian Air Force fighter jet and a personal reception by the Indonesian President Prabowo Subianto at the airport",
-    "img": "https://th-i.thgim.com/public/news/national/royrht/article71192206.ece/alternates/LANDSCAPE_1200/Screenshot%202026-07-07%20100220.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/prime-minister-narendra-modi-in-indonesia/article71192169.ece",
-    "time": "2026-07-07T09:11:38.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Integrity of tournament questioned as Trump, FIFA defend actions surrounding Balogun suspension",
     "desc": "Donald Trump said ‘All I did was ask for a review; I didn’t say, you have to do this;’ while FIFA head Gianni Infantino issued a statement saying, ‘FIFA’s judicial bodies are independent; they operate autonomously’",
@@ -882,15 +882,6 @@ const newsData_en = [
     "time": "2026-07-07T06:49:30.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Praggnaandhaa ends tied third, Gukesh sixth; Alireza wins",
-    "desc": "The Indian star began the final day with a loss against Vincent Keymer but then did well to score 6 points out of the last eight games. His other loss came against compatriot D. Gukesh but Praggnanandhaa's main victim was Alireza",
-    "img": "https://th-i.thgim.com/public/incoming/5r2w33/article71190993.ece/alternates/LANDSCAPE_1200/IMG_55297604894_7cb117c0_2_1_S8G4DSDD.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/grand-chess-tour-praggnaandhaa-ends-tied-third-gukesh-sixth-alireza-wins/article71190981.ece",
-    "time": "2026-07-06T20:25:48.000Z"
-  },
-  {
     "cat": "Business",
     "title": "NSE targets to launch ₹30,000 crore IPO in September",
     "desc": "The proposed public issue will be entirely an offer for sale (OFS) of 14.89 crore equity shares, with existing shareholders collectively divesting nearly 6% of the exchange's equity, according to the draft red herring prospectus (DRHP) filed in June",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/nse-targets-to-launch-30000-crore-ipo-in-september/article71190897.ece",
     "time": "2026-07-06T17:50:06.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Manipal Health gets SEBI nod to float ₹8,000 crore IPO",
+    "desc": "Manipal Health Enterprises Ltd. had filed its draft papers with the Securities and Exchange Board of India (SEBI) on March 25; after reviewing the draft papers, Sebi gave its observations on July 3, the update showed",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/manipal-health-gets-sebi-nod-to-float-8000-crore-ipo/article71190768.ece",
+    "time": "2026-07-06T17:41:10.000Z"
   }
 ];

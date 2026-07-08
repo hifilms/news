@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Marquee Bangladesh batter ruled out of ODI series vs Zimbabwe, BCB announces replacement",
+    "desc": "Bangladesh have suffered a major setback in their ongoing ODI series against Zimbabwe after keeper-batter Litton Das has been ruled out of the remainder of the three-match contest due to a hamstring injury. He was...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/marquee-bangladesh-batter-ruled-out-of-odi-series-vs-zimbabwe-bcb-announces-replacement-2026-07-08-1047611",
+    "time": "2026-07-08T18:09:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Who is Arthur Fery? First men's wild card entrant in 25 years to qualify for Wimbledon semis",
+    "desc": "Arthur Fery, who entered as a wildcard participant in Wimbledon 2026, shocked everyone by booking his place in the semi-finals of the competition. On Wednesday, July 8, the 23-year-old defeated ninth seed Flavio Cobolli 6-4,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/who-is-arthur-fery-first-men-s-wild-card-entrant-in-25-years-to-qualify-for-wimbledon-semis-2026-07-08-1047609",
+    "time": "2026-07-08T17:50:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sourav Ganguly set to be inducted into ICC Hall of Fame, thanks ICC, Jay Shah",
+    "desc": "Former India captain Sourav Ganguly is set to be inducted into the ICC Hall of Fame, earning one of cricket's highest individual recognitions on his 54th birthday. With that, the southpaw will become the 12th...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sourav-ganguly-set-to-be-inducted-into-icc-hall-of-fame-thanks-icc-jay-shah-2026-07-08-1047603",
+    "time": "2026-07-08T16:36:44.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Milton Shumba returns after three years as Zimbabwe announce 15-member squad for T20I series vs Bangladesh",
     "desc": "Zimbabwe have announced a 15-member squad for the upcoming three-match T20I series against Bangladesh. The Chevrons have included left-arm fast bowler Newman Nyamhuri and top-order batter Milton Shumba in the mix, while retaining the majority...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/fbi-launches-probe-against-argentina-football-fed-over-money-laundering-amid-fifa-world-cup-2026-2026-07-08-1047577",
     "time": "2026-07-08T12:09:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "For first time in their history! India register massive unwanted record with third T20I loss to England",
-    "desc": "India have hit a record low in their new T20 cycle as the two-time reigning champions suffered another loss on their UK tour. The Men in Blue were shot down for just 76 in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/for-first-time-in-their-history-india-register-massive-unwanted-record-with-third-t20i-loss-to-england-2026-07-08-1047566",
-    "time": "2026-07-08T11:35:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Anil Kumble calls Indian batting \"abject surrender,\" expresses disappointment over recent record T20I loss",
-    "desc": "England's dominant 125-run win over India in the third T20I at Trent Bridge on Tuesday gave the Three Lions a 2-0 lead in the five-match series and drew sharp criticism from former Indian cricketers, with...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/anil-kumble-calls-indian-batting-abject-surrender-expresses-disappointment-over-recent-record-t20i-loss-2026-07-08-1047559",
-    "time": "2026-07-08T10:56:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "New Zealand announce casual contracts for 2026-27 as India tour-bound players added to list",
-    "desc": "Zealand Cricket Board (NZC) has announced the casual contracts for 2026-27, as Finn Allen, Lockie Ferguson, Adam Milne and Tim Seifert have all agreed to join the list. The quartet is set to be available...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-announce-casual-contracts-for-2026-27-as-india-tour-bound-players-added-to-list-2026-07-08-1047553",
-    "time": "2026-07-08T10:21:01.000Z"
   }
 ];
