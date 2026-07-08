@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Milton Shumba returns after three years as Zimbabwe announce 15-member squad for T20I series vs Bangladesh",
+    "desc": "Zimbabwe have announced a 15-member squad for the upcoming three-match T20I series against Bangladesh. The Chevrons have included left-arm fast bowler Newman Nyamhuri and top-order batter Milton Shumba in the mix, while retaining the majority...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/milton-shumba-returns-after-three-years-as-zimbabwe-announce-15-member-squad-for-t20i-series-vs-bangladesh-2026-07-08-1047599",
+    "time": "2026-07-08T15:59:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jofra Archer mocks flat tracks in India after commanding 125-run win in third T20I",
+    "desc": "England fast bowler Jofra Archer feels bowling in English conditions is like a return to \"normal\" after bowling on \"easy wickets and smaller boundaries\" in India, particularly during the IPL. Archer’s remarks came after England crushed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jofra-archer-mocks-flat-tracks-in-india-after-commanding-125-run-win-in-third-t20i-2026-07-08-1047596",
+    "time": "2026-07-08T15:07:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "France to meet Morocco, Argentina's date with Switzerland as World Cup quarterfinals beckon",
+    "desc": "As the greatest sporting event reaches its business end, eight teams proceed to the quarter-finals of the FIFA World Cup and will be in a fierce battle to eventually feature in the top four. Four...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/france-to-meet-morocco-argentinas-date-with-switzerland-as-world-cup-quarterfinals-beckon-2026-07-08-1047594",
+    "time": "2026-07-08T15:00:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Egypt registers official complaint to FIFA demanding expulsion of referee after 3-2 defeat to Argentina",
+    "desc": "FIFA has received a formal complaint from the Egyptian Football Association (EFA) after Egypt demanded an investigation into referee Francois Letexier and his entire officiating team following their 3-2 defeat to Argentina at the FIFA...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/egypt-registers-official-complaint-to-fifa-demanding-expulsion-of-referee-after-3-2-defeat-to-argentina-2026-07-08-1047590",
+    "time": "2026-07-08T14:26:30.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Tammy Beaumont, 2017 World Cup's Player of Tournament, to retire after Lord's Test against India",
     "desc": "Veteran England batter Tammy Beaumont has confirmed that she will be retiring from international cricket after the one-off historic Test match against India at Lord's. Beaumont holds several major records under her belt and will...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-announce-casual-contracts-for-2026-27-as-india-tour-bound-players-added-to-list-2026-07-08-1047553",
     "time": "2026-07-08T10:21:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "AIFF, ISL club committee announce new four-year deal, shares update on OCI players",
-    "desc": "The future of the Indian Super League received formal direction on Tuesday, July 8, after the All India Football Federation (AIFF) and the ISL club managing committee jointly outlined the competition's roadmap for the 2026-27...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/aiff-isl-club-committee-announce-new-four-year-deal-shares-update-on-oci-players-2026-07-08-1047550",
-    "time": "2026-07-08T10:05:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "39-year-olds keep making history as Djokovic follows suit to Messi with epic Wimbledon QF win; Sinner awaits",
-    "desc": "39-year-olds keep making age look silly, as a certain Novak Djokovic followed suit to Lionel Messi, delivering an epic win on the same day that the Argentine legend steered his team into the FIFA World...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/39-year-olds-keep-making-history-as-djokovic-follows-suit-to-messi-with-epic-wimbledon-qf-win-sinner-awaits-2026-07-08-1047540",
-    "time": "2026-07-08T08:20:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Switzerland end 72-year-long wait with win over Colombia on penalties, set World Cup QF with Argentina",
-    "desc": "Switzerland have booked their place in the FIFA World Cup quarterfinals for the first time in 72 years with a stunning win over Colombia in the round of 16 on Wednesday (IST). The Rossocrociati defeated...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/switzerland-end-72-year-long-wait-with-win-over-colombia-on-penalties-set-world-cup-qf-with-argentina-2026-07-08-1047527",
-    "time": "2026-07-08T06:50:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Atrocious’: Shreyas Iyer opens up after India suffer humiliating loss against England in Nottingham",
-    "desc": "The Indian team succumbed to a hefty loss against England in the third T20I of the ongoing five-game T20I series. The two sides met at Trent Bridge in Nottingham for the clash the Men in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-opens-up-after-india-suffer-humiliating-loss-against-england-in-nottingham-2026-07-08-1047495",
-    "time": "2026-07-07T23:22:13.000Z"
   }
 ];
