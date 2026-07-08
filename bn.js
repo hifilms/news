@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "এনকাউন্টার ভুয়ো হলে কী হবে, সুপ্রিম কোর্টের কঠোর নির্দেশিকা বারুইপুরের পর ফের চর্চায়",
+    "desc": "২০১৪ সালে মহারাষ্ট্র সরকারের বিরুদ্ধে একটি মামলায় সুপ্রিম কোর্টের তৎকালীন প্রধান বিচারপতি আর. এম. লোধার নেতৃত্বাধীন বেঞ্চ এনকাউন্টার নিয়ে ১৬ দফার একটি গাইডলাইন জারি করে। যেখানে স্পষ্ট বলা আছে, এনকাউন্টার ভুয়ো প্রমাণিত হলে কী ব্যবস্থা নেওয়া হবে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/baruipur-rape-case-supreme-court-encounter-guidelines-in-fake-encounter_661531.html ",
+    "time": "2026-07-08T10:27:57.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "টানা ৫ দিন ৭ গ্রামে তল্লাশি, অবশেষে খতম হিট লিস্টে থাকা A++ ক্যাটেগরির শীর্ষ লস্কর জঙ্গি জাকির",
     "desc": "এনকাউন্টার জুড়ে দিল বাংলার সঙ্গে কাশ্মীরকে। বাংলায় যেখানে নাবালিকা নির্যাতন ও খুন কাণ্ডে আচমকা ঘটে গেল এনকাউন্টারের ঘটনা, কাশ্মীরে সেখানে বহু খোঁজার পরে নিহত হল সন্ত্রাসবাদী। গত শুক্রবার সোপিয়ান জেলায় এক বাগানে নিরাপত্তাবাহিনীর নজরদারি ক্যামেরায় দেখা গিয়েছিল দুই জঙ্গিকে। তারপর তাদের খোঁজে ৫ দিন ধরে অভিযান চালায় যৌথবাহিনী। গ্রামের পর গ্রাম ঘিরে ফেলা হয়।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -10,7 +19,7 @@ const newsData_bn = [
   },
   {
     "cat": "Entertainment",
-    "title": "ভয়ংকর অসুস্থ অভিনেতা রাজেশ শর্মা: ভর্তি হাসপাতালে, কী হয়েছে? উদ্বিগ্ন চলচ্চিত্রমহল",
+    "title": "গুরুতর অসুস্থ অভিনেতা রাজেশ শর্মা: ভর্তি হাসপাতালে, কী হয়েছে? উদ্বিগ্ন চলচ্চিত্রমহল",
     "desc": "পারিবারিক সূত্রে জানা গেছে, ওই সংক্রমণের প্রভাবেই রাজেশের সুগার লেভেল এক ধাক্কায় অনেকটা বেড়ে যায় (shoot up) সঙ্গে তাঁর তীব্র শ্বাসকষ্টের সমস্যাও (breathing trouble) শুরু হয়। সংক্রমণ দ্রুত ছড়িয়ে পড়ে তাঁর পায়ের হাঁটু পর্যন্ত পৌঁছে গিয়েছে।",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
@@ -306,12 +315,30 @@ const newsData_bn = [
     "time": "2026-06-29T07:40:16.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'বাবা হতে চাই, কিন্তু ওর মা হতে...' সন্তানধারণ নিয়ে সিদ্ধান্তেই সমস্য়া! ভাঙছে গৌরব-আকাঙ্ক্ষার ৯ বছরের সংসার",
-    "desc": "টেলিভিশন দুনিয়ার অন্যতম পরিচিত জুটি গৌরব খান্না এবং আকাঙ্ক্ষা চামোলার সম্পর্ক নিয়ে দীর্ঘদিন ধরেই নানা গুঞ্জন চলছিল। অবশেষে সেই জল্পনাতেই সিলমোহর দিলেন আকাঙ্ক্ষা। কিন্তু দীর্ঘ ৯ বছরের সেই সাজানো সংসারে যে ফাটল ধরেছে, তা হয়তো কেউ কল্পনাও করতে পারেননি।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/akanksha-chamola-confirms-divorce-from-gaurav-khanna-two-months-after-dismissing-split-rumours_660310.html ",
-    "time": "2026-06-29T06:37:55.000Z"
+    "cat": "Business",
+    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
+    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
+    "time": "2026-06-01T03:50:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
+    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
+    "time": "2026-05-23T05:15:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "পেট্রোল ও ডিজেলের দাম লিটারে ৩ টাকা বাড়ল, জেনে নিন আপনার শহরে জ্বালানির নতুন দাম",
+    "desc": "চার বছর পর পেট্রোল ও ডিজেলের দাম প্রতি লিটারে ₹৩ টাকা করে বাড়ল। এর ফলে কলকাতা ও দিল্লিতে জ্বালানি মহার্ঘ্য হল। Fuel prices hiked by ₹3 per litre after a long wait causing rates to rise in major cities.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-15-2026-000015b-jpg-1778819385461_1778819386210-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-india-fuel-rates-increased-by-3-rupees-per-litre-delhi-kolkata-014-306911.html",
+    "time": "2026-05-15T04:35:17.000Z"
   }
 ];

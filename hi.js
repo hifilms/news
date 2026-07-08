@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Anil Kumble calls Indian batting \"abject surrender,\" expresses disappointment over recent record T20I loss",
+    "desc": "England's dominant 125-run win over India in the third T20I at Trent Bridge on Tuesday gave the Three Lions a 2-0 lead in the five-match series and drew sharp criticism from former Indian cricketers, with...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/anil-kumble-calls-indian-batting-abject-surrender-expresses-disappointment-over-recent-record-t20i-loss-2026-07-08-1047559",
+    "time": "2026-07-08T10:56:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "New Zealand announce casual contracts for 2026-27 as India tour-bound players added to list",
+    "desc": "Zealand Cricket Board (NZC) has announced the casual contracts for 2026-27, as Finn Allen, Lockie Ferguson, Adam Milne and Tim Seifert have all agreed to join the list. The quartet is set to be available...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/new-zealand-announce-casual-contracts-for-2026-27-as-india-tour-bound-players-added-to-list-2026-07-08-1047553",
+    "time": "2026-07-08T10:21:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "AIFF, ISL club committee announce new four-year deal, shares update on OCI players",
+    "desc": "The future of the Indian Super League received formal direction on Tuesday, July 8, after the All India Football Federation (AIFF) and the ISL club managing committee jointly outlined the competition's roadmap for the 2026-27...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/aiff-isl-club-committee-announce-new-four-year-deal-shares-update-on-oci-players-2026-07-08-1047550",
+    "time": "2026-07-08T10:05:51.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "39-year-olds keep making history as Djokovic follows suit to Messi with epic Wimbledon QF win; Sinner awaits",
     "desc": "39-year-olds keep making age look silly, as a certain Novak Djokovic followed suit to Lionel Messi, delivering an epic win on the same day that the Argentine legend steered his team into the FIFA World...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/lionel-messi-helps-argentina-pull-off-miraculous-comeback-register-stellar-3-2-win-over-egypt-2026-07-07-1047488",
     "time": "2026-07-07T18:05:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shreyas Iyer joins Virat Kohli, MS Dhoni in unique list with toss win against England in third T20I",
-    "desc": "The third T20I of the ongoing five-game series between India and England kicked off with the two sides taking on each other at Trent Bridge in Nottingham on July 7th. The clash began with India...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-joins-virat-kohli-ms-dhoni-in-unique-list-with-toss-win-against-england-in-third-t20i-2026-07-07-1047486",
-    "time": "2026-07-07T17:13:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lionel Messi becomes first player in World Cup history to set unwanted penalty record after miss against Egypt",
-    "desc": "Lionel Messi has set an all-time unwanted record in FIFA World Cup history after he missed a penalty against Egypt in the round of 16 in Atlanta on Tuesday, July 7. Messi, the all-time top-scorer...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/lionel-messi-becomes-first-player-in-world-cup-history-to-set-unwanted-penalty-record-after-miss-against-egypt-2026-07-07-1047484",
-    "time": "2026-07-07T17:03:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India unveil official kit for Commonwealth Games 2026, Sports Minister Mansukh Mandaviya confident of success",
-    "desc": "India has formally launched their Commonwealth Games 2026 campaign on Tuesday, July 7, in New Delhi with a ceremonial farewell for the national contingent and the introduction of the official team apparel that athletes will...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/india-unveil-official-kit-for-commonwealth-games-2026-sports-minister-mansukh-mandaviya-confident-of-success-2026-07-07-1047482",
-    "time": "2026-07-07T16:04:56.000Z"
   }
 ];
