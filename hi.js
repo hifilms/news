@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Tammy Beaumont, 2017 World Cup's Player of Tournament, to retire after Lord's Test against India",
+    "desc": "Veteran England batter Tammy Beaumont has confirmed that she will be retiring from international cricket after the one-off historic Test match against India at Lord's. Beaumont holds several major records under her belt and will...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/tammy-beaumont-2017-world-cups-player-of-tournament-to-retire-after-lords-test-against-india-2026-07-08-1047583",
+    "time": "2026-07-08T13:07:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pratika Rawal ruled out of India's historic Test against England at Lord's, BCCI names replacement",
+    "desc": "India blow for the Indian women's team, opening batter Pratika Rawal has been ruled out of the upcoming one-off Test against England women at the iconic Lord's, which will mark the first-ever women's Test at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pratika-rawal-ruled-out-of-indias-historic-test-against-england-at-lords-bcci-names-replacement-2026-07-08-1047578",
+    "time": "2026-07-08T12:21:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "FBI launches probe against Argentina Football fed over money laundering amid FIFA World Cup 2026",
+    "desc": "Amidst the FIFA World Cup 2026, the Federal Bureau of Investigation (FBI) has reportedly begun examining financial operations linked to the Argentine Football Association (AFA) in the United States over allegations of possible money laundering. According...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/fbi-launches-probe-against-argentina-football-fed-over-money-laundering-amid-fifa-world-cup-2026-2026-07-08-1047577",
+    "time": "2026-07-08T12:09:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "For first time in their history! India register massive unwanted record with third T20I loss to England",
+    "desc": "India have hit a record low in their new T20 cycle as the two-time reigning champions suffered another loss on their UK tour. The Men in Blue were shot down for just 76 in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/for-first-time-in-their-history-india-register-massive-unwanted-record-with-third-t20i-loss-to-england-2026-07-08-1047566",
+    "time": "2026-07-08T11:35:23.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Anil Kumble calls Indian batting \"abject surrender,\" expresses disappointment over recent record T20I loss",
     "desc": "England's dominant 125-run win over India in the third T20I at Trent Bridge on Tuesday gave the Three Lions a 2-0 lead in the five-match series and drew sharp criticism from former Indian cricketers, with...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-opens-up-after-india-suffer-humiliating-loss-against-england-in-nottingham-2026-07-08-1047495",
     "time": "2026-07-07T23:22:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Team India achieve unwanted record with horrid second innings show against England in Nottingham",
-    "desc": "The Indian team took on England in the third T20I of the ongoing series between the two sides. The teams met at Trent Bridge in Nottingham on July 7th, and the Men in Blue were...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/team-india-achieve-unwanted-record-with-horrid-second-innings-show-against-england-in-nottingham-2026-07-08-1047494",
-    "time": "2026-07-07T22:16:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Switzerland beat Colombia on penalties",
-    "desc": "Switzerland is taking on Colombia in the round of 16 of the ongoing FIFA World Cup 2026. The two sides are meeting at the BC Place Vancouver, and both teams will look to put in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/sui-vs-col-fifa-world-cup-round-of-16-live-clash-of-the-underdogs-as-xhaka-takes-on-diaz-1047493",
-    "time": "2026-07-07T19:57:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England embarrass India to clinch third T20I, register dominant 125-run victory",
-    "desc": "India and England took on each other in the third T20I of the ongoing five-game series. The teams met at Trent Bridge in Nottingham on July 7th, and while India hoped to level the score,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-embarrass-india-to-clinch-third-t20i-register-dominant-125-run-victory-2026-07-08-1047492",
-    "time": "2026-07-07T19:34:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lionel Messi helps Argentina pull off miraculous comeback, register stellar 3-2 win over Egypt",
-    "desc": "Lionel Messi and Argentina overcame their biggest hurdle in Egypt in one of the most dramatic fashions. Registering a 3-2 after coming back from a two-goal deficit, it was Lionel Messi who led the charge...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/lionel-messi-helps-argentina-pull-off-miraculous-comeback-register-stellar-3-2-win-over-egypt-2026-07-07-1047488",
-    "time": "2026-07-07T18:05:18.000Z"
   }
 ];

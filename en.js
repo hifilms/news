@@ -1,5 +1,239 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "CM reviews rescue measures",
+    "desc": "Upon completing his visit to the camp, CM V.D. Satheesan proceeded to the Wayanad Institute of Medical Sciences (WIMS) to meet the survivors who were rescued and admitted to the private healthcare facility on July 8",
+    "img": "https://th-i.thgim.com/public/news/national/q9ikqd/article71198403.ece/alternates/LANDSCAPE_1200/870c1651-5ea6-4551-aeca-54cbddb1b19e.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/wayanad-debris-slide-cm-reviews-rescue-measures/article71198303.ece",
+    "time": "2026-07-08T13:31:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ritabrata camp of Trinamool Congress gets time till July 10 to submit response to EC notice",
+    "desc": "The EC had last week written to both factions of the Trinamool Congress, led by former West Bengal Chief Minister Mamata Banerjee and Uluberia Purba MLA Ritabrata Banerjee, respectively, seeking responses regarding ‘claims and counterclaims’ made by them",
+    "img": "https://th-i.thgim.com/public/incoming/oo2zfv/article71157423.ece/alternates/LANDSCAPE_1200/20260603415L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/ritabrata-camp-of-trinamool-congress-gets-time-till-july-10-to-submit-response-to-ec-notice/article71193566.ece",
+    "time": "2026-07-08T13:25:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kurnool police return 679 recovered mobile phones worth ₹1.36 crore",
+    "desc": "Handing the mobile phones to their owners, SP appeals to the public to immediately report missing phones by submitting their handset’s IMEI details through the Kurnool police website, besides lodging complaints at the nearest police station or on the Central Equipment Identity Register (CEIR) portal",
+    "img": "https://th-i.thgim.com/public/incoming/xbe81l/article71198406.ece/alternates/LANDSCAPE_1200/10215_8_7_2026_18_47_24_1_WHATSAPPIMAGE2026_07_08AT54210PM.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/kurnool-police-return-679-recovered-mobile-phones-worth-136-crore/article71198044.ece",
+    "time": "2026-07-08T13:21:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Don't forgive TMC traitors': Mamata Banerjee's appeal to people after party rebellion",
+    "desc": "Trinamool Congress chief Mamata Banerjee attacked a rival faction and the BJP. She urged people not to forgive party leaders who sided with the opposition. The dispute escalates over control of the party's name and symbol. Both factions are engaged in a legal and political battle. Mamata challenged rebel leaders to directly join the BJP.",
+    "img": "https://static.toiimg.com/photo/msid-132264876,imgsize-222706.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/dont-forgive-tmc-traitors-mamata-banerjees-appeal-to-people-after-party-rebellion/articleshow/132264709.cms",
+    "time": "2026-07-08T13:19:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anchor, actor Maniesh Paul's mother passes away at 77",
+    "desc": "Actor Maniesh Paul mourns his mother Urmil Paul's passing in Delhi. She was 77 years old and died on July 8, 2026. His team confirmed the news through an official statement issued to the public. Maniesh shared a close bond with his mother throughout his life. Fans are requested to keep her soul in their prayers.",
+    "img": "https://static.toiimg.com/photo/msid-132264669,imgsize-256831.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anchor-jug-jugg-jeeyo-actor-maniesh-pauls-mother-passes-away-at-77-team-confirms-with-a-statement-we-request-you-to-please-pray/articleshow/132264671.cms",
+    "time": "2026-07-08T13:04:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A stunning stone window in Tamil Nadu’s Tiruvalanchuzhi showcases Chola-era mastery",
+    "desc": "The exquisitely carved stone window at the Nurai Pillaiyar shrine in Tiruvalanchuzhi, a masterpiece of the later Chola period, continues to inspire awe and stands as one of the finest achievements of south Indian temple architecture",
+    "img": "https://th-i.thgim.com/public/incoming/4mwo67/article71198155.ece/alternates/LANDSCAPE_1200/Stone%20Window%20-%20Thiruvalanchuzhi%202.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/a-stunning-stone-window-in-tiruvalanchuzhi-showcases-chola-era-mastery/article71198096.ece",
+    "time": "2026-07-08T12:59:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Chor, chor': Eggs thrown at Mamata Banerjee's rally in West Bengal; watch",
+    "desc": "Eggs were allegedly thrown at Mamata Banerjee's protest march in Kolkata on Wednesday. Clashes broke out between Trinamool Congress and BJP workers during the rally. Police resorted to a baton charge to control the escalating situation and restore order. Mamata Banerjee accused the police of acting as an arm of the BJP organization. The Calcutta High Court had previously allowed the protest march under specific conditions.",
+    "img": "https://static.toiimg.com/photo/msid-132263748,imgsize-643578.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/chor-chor-eggs-thrown-at-mamata-banerjees-rally-in-west-bengal-watch/articleshow/132263568.cms",
+    "time": "2026-07-08T12:34:18.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Truecaller says TRAI’s attempt to regulate it makes ‘no sense’",
+    "desc": "The regulator had reportedly sought IT Ministry clearance to forbid the caller ID app from displaying warnings next to numbers reported as spam from 140 and 160 series phone numbers, earmarked for promotional calls and banks",
+    "img": "https://th-i.thgim.com/public/news/national/hcnv30/article71197899.ece/alternates/LANDSCAPE_1200/Screenshot%202026-07-08%20165421.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/truecaller-says-trai-attempt-to-regulate-it-makes-no-sense/article71197745.ece",
+    "time": "2026-07-08T12:29:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ahmed Khan confirms 'Welcome 4' and reveals launching son Azaan",
+    "desc": "Director Ahmed Khan has officially announced that Welcome 4 is in the works, following the successful box office performance of Welcome To The Jungle. The talented filmmaker is also involved in various high-profile projects with leading producers. Additionally, his son Azaan is gearing up for his own film debut, thrilling fans who can’t wait to see beloved characters return for another epic adventure.",
+    "img": "https://static.toiimg.com/photo/msid-132263494,imgsize-158804.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-welcome-to-the-jungles-box-office-success-ahmed-khan-confirms-welcome-4-and-reveals-launching-son-azaan-next-film-will-be-welcome-thats-the-next-part/articleshow/132263482.cms",
+    "time": "2026-07-08T12:26:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Deeply saddened': Shah mourns passing of ex-Afghanistan cricketer Zadran",
+    "desc": "Former Afghanistan fast bowler Shapoor Zadran has died aged 38 after battling the rare immune disorder HLH. The Afghanistan Cricket Board and ICC Chairman Jay Shah paid tribute, hailing him as a pioneer of Afghan cricket. Shah remembered Zadran's match-winning heroics in Afghanistan's first-ever World Cup victory in 2015. He played 80 international matches between 2009 and 2020.",
+    "img": "https://static.toiimg.com/photo/msid-132263381,imgsize-89912.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/deeply-saddened-jay-shah-mourns-passing-of-ex-afghanistan-cricketer-shapoor-zadran/articleshow/132262690.cms",
+    "time": "2026-07-08T12:25:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vicky Kaushal recalls watching Rajkumar Hirani's son Vir grow on the sets",
+    "desc": "Vicky Kaushal recently praised Vir Hirani for his impressive acting debut in the latest Rajkumar Hirani series. Reflecting on their earlier interactions, Vicky remembered how Vir assisted on the set of 'Sanju'. The new series 'Pritam & Pedro' has garnered a warm reception from viewers, and Rajkumar Hirani expressed his heartfelt thanks for the audience's overwhelming support. This success highlights the universal appeal of engaging storytelling, irrespective of genre.",
+    "img": "https://static.toiimg.com/photo/msid-132263448,imgsize-77960.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vicky-kaushal-recalls-watching-rajkumar-hiranis-son-vir-grow-on-the-sets-of-sanju-praises-his-performance-in-pritam-pedro-ive-seen-him-clap-in-front-of-me-during-the-shoots/articleshow/132263427.cms",
+    "time": "2026-07-08T12:23:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "South Indian films that were banned or pulled after their release",
+    "desc": "Several South Indian films encountered issues after their release. Vishwaroopam faced a ban in Tamil Nadu for misrepresenting a community. Intinti Annamaya never reached audiences due to internal disputes. Sita Ramam was banned in some Gulf countries over its themes. Annapoorani was removed from Netflix after public and police complaints.",
+    "img": "https://static.toiimg.com/photo/msid-132263345,imgsize-276460.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/from-vishwaroopam-to-annapoorani-5-south-indian-films-that-were-withdrawn-banned-or-pulled-after-their-release/articleshow/132263273.cms",
+    "time": "2026-07-08T12:18:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Quarterfinals, semifinals and final — schedule and timings",
+    "desc": "Who has progressed in the knockouts of the FIFA World Cup? And when are the matches being played? The Trionda has enthralled FIFA fans this time in the USA, Canada, and Mexico. The final of this World Cup will be played on July 20 at 12.30 am I.S.T at the MetLife Stadium in New Jersey.",
+    "img": "https://th-i.thgim.com/public/incoming/he4teh/article71192575.ece/alternates/LANDSCAPE_1200/trophy.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-track-to-quarter-finals-schedule-fixtures-france-morocco-spain-belgium-norway-england-argentina-switzerland/article71188709.ece",
+    "time": "2026-07-08T12:09:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Madras HC grants anticipatory bail to DMK MLA Senthil Balaji in Rs 35 crore bribery case",
+    "desc": "The Madras High Court granted anticipatory bail to DMK MLA Senthil Balaji and his brother. This bail was granted in a case alleging a Rs 35 crore bribe offer. The court directed both petitioners to appear daily before the investigating officer. Arguments presented highlighted the lack of conversation recordings and reliance on call detail records. The court questioned Balaji's specific role in the alleged bribery attempt.",
+    "img": "https://static.toiimg.com/photo/msid-132263097,imgsize-87975.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/madras-hc-grants-anticipatory-bail-to-dmk-mla-senthil-balaji-in-rs-35-crore-bribery-case/articleshow/132263049.cms",
+    "time": "2026-07-08T12:06:52.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Marine Le Pen’s political career and the rise of the French far right: Timeline",
+    "desc": "The head of the National Rally, Le Pen, 57, gained popularity in recent years by softening the image of the party founded by her late father — who was known for his anti-semitic and racist remarks — and dropping extreme positions, such as exiting the European Union.",
+    "img": "https://th-i.thgim.com/public/incoming/xnkyhf/article71197948.ece/alternates/LANDSCAPE_1200/Marine%20Le%20Pen.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/marine-le-pen-political-career-the-rise-of-french-far-right-timeline/article71197272.ece",
+    "time": "2026-07-08T12:05:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Geetika recalls playing Bibi Paramjit Kaur in an emotional note",
+    "desc": "Actress Geetika Vidya Ohlyan shared an emotional note after the film 'Satluj' was removed from streaming. The film, inspired by Jaswant Singh Khalra's life, faced several hurdles before its release. It premiered on ZEE5 but was quickly taken down due to security concerns. Diljit Dosanjh had previously hinted at the film's limited availability. Efforts are underway to restore the film's availability through legal processes.",
+    "img": "https://static.toiimg.com/photo/msid-132262488,imgsize-151143.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/satluj-finds-its-voice-in-some-places-while-remaining-silenced-in-others-geetika-vidya-ohlyan-recalls-playing-bibi-paramjit-kaur-in-an-emotional-note-after-diljit-dosanjh-starrer-satluj-ott-takedown/articleshow/132262488.cms",
+    "time": "2026-07-08T11:57:49.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "The year of the Grand Theft Auto",
+    "desc": "Despite this year going down in history for giving us the hope of a new Grand Theft Auto game, here are some of the games rumoured for 2026, that should also be on your radar",
+    "img": "https://th-i.thgim.com/public/news/cities/bangalore/ekcxpv/article70423144.ece/alternates/LANDSCAPE_1200/videoframe_293.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/gaming-in-2026-the-year-of-the-grand-theft-auto/article70420124.ece",
+    "time": "2026-07-08T11:51:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Whatever game was being played...': 'Satluj' actor Suvinder Pal Vicky",
+    "desc": "'Kohrra' star Suvinder Pal Vicky has opened up about the abrupt and shocking removal of the Diljit Dosanjh-led biographical drama 'Satluj' (formerly 'Punjab '95') from ZEE5, just 48 hours after its digital premiere. In a candid conversation, the veteran actor criticized the ongoing censorship games, stating that blocking historical truths from younger generations is a step backward. Vicky also detailed the extreme acting challenge of simultaneously shooting his acclaimed, empathetic cop role in 'Kohrra' by day while transforming into the brutal, ruthless SSP Surjit Singh Sugga for 'Satluj' at night, capturing the haunting realities of Punjab's militancy era.",
+    "img": "https://static.toiimg.com/photo/msid-132262386,imgsize-119858.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/whatever-game-was-being-played-to-stop-our-film-it-is-still-going-on-satluj-actor-suvinder-pal-vicky-opens-up-on-ott-removal-of-diljit-dosanjh-starrer/articleshow/132262219.cms",
+    "time": "2026-07-08T11:38:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'I am being kept under police watch': Mamata Banerjee accuses cops of acting like 'BJP cadres'",
+    "desc": "Mamata Banerjee alleged police watch as house arrest and accused the administration of failing to ensure a peaceful protest. The Trinamool Congress chief stated that the police acted as BJP cadres, undermining a court order. She claimed participants were attacked despite court permission for the rally over a minor's alleged rape and murder. Banerjee further alleged a complete breakdown of law and order in West Bengal.",
+    "img": "https://static.toiimg.com/photo/msid-132262392,imgsize-143011.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/like-house-arrest-mamata-banerjee-alleges-police-watch-accuses-cops-of-acting-like-bjp-cadres/articleshow/132262097.cms",
+    "time": "2026-07-08T11:37:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sivakarthikeyan gifts luxury electric SUV to 'Thaai Kizhavi' director",
+    "desc": "Actor-producer Sivakarthikeyan gifted director Sivakumar Murugesan a new electric SUV. This gesture celebrated the film Thaai Kizhavi crossing 100 days and earning Rs 100 crore. The director received the luxury vehicle during a special success event. This success has significantly elevated Murugesan's standing in the film industry. Sivakarthikeyan and Murugesan are now collaborating again on the film Seyon.",
+    "img": "https://static.toiimg.com/photo/msid-132262133,imgsize-156568.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sivakarthikeyan-gifts-luxury-electric-suv-to-thaai-kizhavi-director-sivakumar-murugesan-after-rs-100-crore-success/articleshow/132262107.cms",
+    "time": "2026-07-08T11:24:57.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Redone into one incredible open world game",
+    "desc": "From a disastrous launch to finally making it on Playstation 5 Pro and with an excellent port on the Switch 2, Cyberpunk 2077 is a graphical showcase and perhaps one of the best games out there today",
+    "img": "https://th-i.thgim.com/public/news/cities/bangalore/romfna/article70920679.ece/alternates/LANDSCAPE_1200/Cyber77.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/cyberpunk-2077-redone-into-one-incredible-open-world-game/article70920265.ece",
+    "time": "2026-07-08T11:24:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kangana reacts to reports of Siya Goyal's marriage to alleged lover Chetan",
+    "desc": "Kangana Ranaut shared her views on modern relationships and digital culture following the Siya Goyal murder case. She reflected on the impact of dating apps and online interactions on young people. Ranaut urged youth to channel their energies into constructive pursuits and meaningful goals. Meanwhile, investigators revealed the accused studied murder cases to avoid forensic evidence. The alleged murder was reportedly driven by desperation and personal relationship pressures.",
+    "img": "https://static.toiimg.com/photo/msid-132261787,imgsize-170267.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-reacts-to-reports-of-siya-goyals-marriage-to-alleged-lover-chetan-chaudhary-channelise-your-energies-into-a-constructive-path-you-can-avoid-jail-depression/articleshow/132261768.cms",
+    "time": "2026-07-08T11:09:49.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "What every taxpayer should know about ITR filing to avoid scrutiny",
+    "desc": "In the current compliance environment, tax notices are increasingly driven by data inconsistencies rather than intent. A tax notice can not only mean a process of explaining discrepancies but can also put any refund claims on hold till the matter is resolved.",
+    "img": "https://static.toiimg.com/photo/msid-132260625,imgsize-582442.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/income-tax-notices-decoded-what-every-taxpayer-should-know-about-itr-filing-to-avoid-scrutiny/articleshow/132260233.cms",
+    "time": "2026-07-08T11:01:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The 9th-century Hindu temple PM Modi visited in Indonesia",
+    "desc": "Prime Minister Narendra Modi and Indonesian President Prabowo Subianto inaugurated a temple restoration project. This initiative highlights India's cultural diplomacy and shared civilizational links between the nations. The project involves restoring smaller temples within the Prambanan complex with Indonesian authorities. Prambanan, a UNESCO World Heritage Site, suffered damage from natural disasters and upheaval. Restoration work continues using traditional and modern techniques for this ancient Hindu temple complex.",
+    "img": "https://static.toiimg.com/photo/msid-132261417,imgsize-1316551.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/all-about-prambanan-the-9th-century-hindu-temple-pm-modi-visited-in-indonesia/articleshow/132261418.cms",
+    "time": "2026-07-08T11:00:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Janhvi Kapoor wears Rs 2.5 crore watch studded with 251 diamonds",
+    "desc": "Janhvi Kapoor attended her sister Anshula's pre-wedding festivities in a blush pink gown. Her rose gold Patek Philippe watch, valued at nearly Rs 2.5 crore, drew significant attention. The exquisite timepiece features intricate detailing and numerous diamonds and pearls. Janhvi completed her elegant look with striking jewelry and soft makeup. She was recently seen in 'Peddi' and has upcoming films like 'Lag Jaa Gale'.",
+    "img": "https://static.toiimg.com/photo/msid-132261261,imgsize-424416.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/janhvi-kapoor-wears-rs-2-5-crore-studded-with-251-diamonds-and-a-pearl-strap-at-anshula-kapoors-chooda-ceremony-stuns-in-a-pastel-dress/articleshow/132261151.cms",
+    "time": "2026-07-08T10:53:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Satluj' writer Niren Bhatt dismisses 'marketing stunt' claims for Diljit Dosanjh starrer",
+    "desc": "Rejecting speculations of a marketing gimmick, writer Niren Bhatt states that Satluj's removal from Zee5 was a result of government orders over security issues, not an attempt to boost its theatrical release. He stressed the film’s intended cinematic experience and cautioned audiences against pirated versions currently in circulation. Bhatt advocates for patience until an official streaming option becomes available, highlighting the film’s historical inspirations and past certification difficulties.",
+    "img": "https://static.toiimg.com/photo/msid-132261174,imgsize-131912.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/satluj-writer-niren-bhatt-dismisses-marketing-stunt-claims-for-diljit-dosanjh-starrer-we-made-the-film-for-theatres-and-hoped-that-the-film-would-travel-well-through-word-of-mouth-like-main-vaapas-aaunga/articleshow/132261157.cms",
+    "time": "2026-07-08T10:49:24.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "'I can't look at you, I'm sorry': Scaloni's post-match interview goes viral",
     "desc": "Argentina coach Lionel Scaloni broke down in tears after his side's dramatic 3-2 World Cup comeback win over Egypt, walking away from a live TV interview after apologising. Argentina overturned a 2-0 deficit with late goals from Cristian Romero, Lionel Messi and Enzo Fernández. Scaloni later said, \"I cried because I'm too emotional,\" praising his team's fighting spirit.",
@@ -7,24 +241,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/i-cant-look-at-you-im-sorry-argentina-coach-lionel-scalonis-emotional-post-match-interview-goes-viral-after-egypt-win-at-fifa-world-cup-watch/articleshow/132260908.cms",
     "time": "2026-07-08T10:47:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ICU beds shown available, patient turned away: Delhi HC orders surprise hospital audits",
-    "desc": "The court highlighted inconsistencies in the use of the NextGen e-Hospital Management Information System (HMIS), noting that while the patient had not been assigned a Unique Health Identification (UHID) at Jag Pravesh Chandra Hospital, she was assigned one at LNJP Hospital",
-    "img": "https://th-i.thgim.com/public/incoming/vfmd27/article71197320.ece/alternates/LANDSCAPE_1200/LNJP%20HOSPITAL%20DELHI%202025_24_10_3.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Delhi/icu-beds-shown-available-patient-turned-away-delhi-hc-orders-surprise-hospital-audits/article71196814.ece",
-    "time": "2026-07-08T10:43:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Baruipur rape-murder case: One key accused killed in police encounter",
-    "desc": "Violence had erupted on July 5, when the body of the minor girl was recovered from a pond at Surjapur in Baruipur; it was the first police encounter since BJP came to power in West Bengal",
-    "img": "https://th-i.thgim.com/public/incoming/zy4ny/article71196534.ece/alternates/LANDSCAPE_1200/Screenshot%201950.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/baruipur-rape-murder-case-accused-encounter-killing-west-bengal-july-8-2026/article71196511.ece",
-    "time": "2026-07-08T10:37:31.000Z"
   },
   {
     "cat": "Sports",
@@ -97,15 +313,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/news/aiff-isl-teams-bury-the-hatchet-ink-four-year-deal-towards-club-led-model/articleshow/132259983.cms",
     "time": "2026-07-08T10:26:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tamil Nadu drew lower quantity of rice than its share under Antyodaya Anna Yojana in five of last seven years",
-    "desc": "From 2019-20 to 2025-26, it was during the COVID-19 pandemic year (2020-21) that the drawal was almost close to the allocated figure of around 6.99 lakh tonnes, with the off-take being about 98%. In the remaining four years, it varied from around 73% during 2022-23 and 2023-24 to 79% during 2024-25",
-    "img": "https://th-i.thgim.com/public/incoming/42mp9q/article71195029.ece/alternates/LANDSCAPE_1200/GWRIK_11-4-2013_17-36-17_JOHARICE_HINDU_01.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-drew-lower-quantity-of-rice-than-its-share-underantyodayaannayojana-in-five-of-the-last-seven-years/article71193040.ece",
-    "time": "2026-07-08T10:23:21.000Z"
   },
   {
     "cat": "World",
@@ -243,15 +450,6 @@ const newsData_en = [
     "time": "2026-07-08T09:02:42.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kochi employees remain locked out of office as uncertainty looms",
-    "desc": "Labour department officials recorded the attendance of employees who turned up at the office on the day. This arrangement will continue until Friday, when Labour Minister is expected to hold a conciliatory meeting with senior company officials",
-    "img": "https://th-i.thgim.com/public/incoming/pmezki/article71197329.ece/alternates/LANDSCAPE_1200/Corro_Health01.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/us-firm-corrohealth-closure-kochi-employees-remain-locked-out-of-office-as-uncertainty-looms/article71196990.ece",
-    "time": "2026-07-08T08:59:52.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Vijay's co-star Rakshita surprises fans with dramatic transformation",
     "desc": "Actress Rakshita, known for her early 2000s roles, has resurfaced online. A recent viral video showcases her dramatic transformation, surprising many viewers. Fans reminisced about her memorable performances opposite stars like Vijay and Silambarasan. After marrying filmmaker Prem, Rakshita shifted focus to production and filmmaking. Her public appearance has brought her back into the spotlight after a long hiatus.",
@@ -279,15 +477,6 @@ const newsData_en = [
     "time": "2026-07-08T08:54:02.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Yash and Kiara Advani’s chemistry in ‘Tabaahi’ song steals hearts",
-    "desc": "The first song 'Tabaahi' from the film 'Toxic' has been released. Yash and Kiara Advani showcase intense chemistry in the visually rich music video. Vishal Mishra composed and sang the soulful track, which is available in multiple languages. Fans have praised the song's composition and the lead actors' on-screen connection. The action drama 'Toxic' is scheduled for a worldwide release on August 26, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-132258547,imgsize-84326.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/tabaahi-song-from-toxic-out-now-yash-and-kiara-advanis-sizzling-chemistry-with-vishal-mishras-soulful-vocals-impresses-netizens/articleshow/132258500.cms",
-    "time": "2026-07-08T08:53:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Brazil's greatest scorer and football's biggest debate",
     "desc": "Neymar leaves as Brazil's greatest goalscorer, one of the finest footballers the country has produced and perhaps the last great Brazilian superstar whose game was built as much on joy as on efficiency. He never won the trophy that defines footballing immortality, but he gave Brazil moments that will endure for generations.",
@@ -306,24 +495,6 @@ const newsData_en = [
     "time": "2026-07-08T08:50:05.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "BJP councillor R. Sugathan suffers fresh setback as KAAPA advisory board upholds six-month detention",
-    "desc": "While Sugathan’s next legal option is to approach High Court, he will have to continue in prison if he fails to secure relief. In such a scenario, he also faces possibility of losing his position as a councillor in Thiruvananthapuram Corporation",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/bjp-councillor-r-sugathan-suffers-fresh-setback-as-kaapa-advisory-board-upholds-six-month-detention/article71197109.ece",
-    "time": "2026-07-08T08:42:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anurag Kashyap urges netizens to watch ‘Satluj’ from wherever they can",
-    "desc": "In a bold move, Director Anurag Kashyap has lambasted the government's digital ban on 'Satluj', asserting that censorship tends to boost interest in restricted works. He passionately invited audiences to view the film, even if it means seeking pirated copies. The controversial piece, which delves into human rights violations, was pulled from ZEE5 shortly after release, as authorities claimed it lacked proper certification.",
-    "img": "https://static.toiimg.com/photo/msid-132258338,imgsize-133166.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/plz-sab-log-dekho-pirate-karo-par-dekho-anurag-kashyap-urges-netizens-to-watch-leaked-uncut-version-of-diljit-dosanjh-starrer-satluj-after-ott-removal/articleshow/132258226.cms",
-    "time": "2026-07-08T08:38:21.000Z"
-  },
-  {
     "cat": "World",
     "title": "French far-right chief Marine Le Pen cleared to run for President but with ankle tag",
     "desc": "A Paris appeals court found Marine Le Pen guilty over the fake jobs scam at the European Parliament but reduced that sentence, banning her from office for 15 months as well as sentencing her to one year to be served with an electronic tag",
@@ -331,24 +502,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/french-far-right-chief-marine-le-pen-cleared-to-run-for-president-but-with-ankle-tag/article71194169.ece",
     "time": "2026-07-08T08:30:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tribunal awards ₹31.43 lakh compensation to kin of Thane man killed in 2020 road accident",
-    "desc": "In its order on July 8, the MACT directed the owner of a tempo involved in the accident and its insurer to jointly and severally pay the amount to the family of the victim, Rajaram Narayan Mhatre, with 9% interest per annum from the date of the petition",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/maharashtra/tribunal-awards-3143-lakh-compensation-to-kin-of-thane-man-killed-in-2020-road-accident/article71197198.ece",
-    "time": "2026-07-08T08:18:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Satluj' actor Kanwaljit Singh slams shocking OTT removal of Diljit Dosanjh starrer",
-    "desc": "Kanwaljit Singh voiced surprise at the film 'Satluj's' release challenges and subsequent removal. He praised the filmmakers for their unwavering determination despite years of pressure. The actor questioned the reasons behind preventing audiences from viewing the movie. His performance as DGP Bitta received appreciation from Naseeruddin Shah and Shashi Ranjan. The film faced censorship issues for years before its brief streaming release.",
-    "img": "https://static.toiimg.com/photo/msid-132257866,imgsize-50084.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/what-are-you-afraid-of-no-one-retaliates-like-this-after-so-long-satluj-actor-kanwaljit-singh-slams-shocking-ott-removal-of-diljit-dosanjh-starrer/articleshow/132257775.cms",
-    "time": "2026-07-08T08:17:52.000Z"
   },
   {
     "cat": "Sports",
@@ -369,15 +522,6 @@ const newsData_en = [
     "time": "2026-07-08T08:05:21.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Christopher Nolan defends ‘The Odyssey’",
-    "desc": "In a recent statement, director Christopher Nolan elaborates on his unique creative vision for the upcoming film 'The Odyssey'. He argues that incorporating modern English dialogue will foster a stronger emotional bond with the audience. Nolan also highlights his commitment to historical accuracy, carefully crafting props and weapons. Additionally, he has chosen Travis Scott to portray the bard, honoring the essence of oral poetry.",
-    "img": "https://static.toiimg.com/photo/msid-132257459,imgsize-71840.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/christopher-nolan-defends-the-odyssey-modern-day-dialogues-to-me-it-was-a-no-brainer/articleshow/132257269.cms",
-    "time": "2026-07-08T08:01:22.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Messi lifted aloft as Argentina's locker room &amp; Buenos Aires erupt after epic escape",
     "desc": "Argentina achieved a remarkable comeback victory against Egypt in their World Cup match. The team overturned a two-goal deficit in the final thirteen minutes of play. Lionel Messi and his teammates celebrated the intense and emotional win extensively. This incredible revival keeps Argentina's World Cup dream alive for now. The team now prepares for their next quarter-final match against Switzerland.",
@@ -385,42 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/watch-tearful-lionel-messi-lifted-aloft-as-argentinas-locker-room-and-buenos-aires-erupt-after-epic-world-cup-escape/articleshow/132257262.cms",
     "time": "2026-07-08T07:59:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Diljit Dosanjh",
-    "desc": "Diljit Dosanjh is breaking down barriers for Indian artists on the international stage. With his 'Aura World Tour' captivating audiences across North America and Europe through sold-out performances, he is making a mark. However, his film 'Satluj' is facing challenges with censorship in India. Despite these hurdles, Dosanjh remains committed to sharing meaningful narratives and preserves his unique identity while reaching new heights.",
-    "img": "https://static.toiimg.com/photo/msid-132256971,imgsize-199508.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/quote-of-the-day-by-diljit-dosanjh-ill-keep-spreading-love-no-matter-what-they-say-when-punjabs-biggest-global-star-proved-that-love-travels-further-than-criticism-ever-could/articleshow/132256901.cms",
-    "time": "2026-07-08T07:46:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Keerthi Shanthanu's emotional Instagram post for Bhagyaraj",
-    "desc": "Keerthi Shanthanu shared a heartfelt Instagram post remembering her father-in-law, Bhagyaraj. The post featured personal photos and a touching tribute to the filmmaker. Fans responded with comforting messages and acknowledged Bhagyaraj's lasting legacy. Bhagyaraj shared a special bond with Keerthi, treating her like his own daughter. Her tribute reflects the deep love and respect she held for him.",
-    "img": "https://static.toiimg.com/photo/msid-132256840,imgsize-189112.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/miss-you-appa-keerthi-shanthanus-emotional-instagram-post-for-bhagyaraj-touches-hearts/articleshow/132256788.cms",
-    "time": "2026-07-08T07:32:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jayaram breaks silence on 'Twenty:20' trolls",
-    "desc": "Actor Jayaram addressed social media trolling regarding his past remarks about a film's climax shoot. He acknowledged making a mistake due to memory lapses from events fifteen years ago. Jayaram clarified his deep connection to Tamil Nadu through his family background and upbringing. He has also lived in Chennai for over three decades due to his professional career.",
-    "img": "https://static.toiimg.com/photo/msid-132256477,imgsize-208402.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/i-made-mistake-jayaram-breaks-silence-on-twenty20-trolls-clarifies-his-connection-with-tamil-nadu/articleshow/132256344.cms",
-    "time": "2026-07-08T07:15:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Benedict Garrett addresses 'Toxic' teaser criticism",
-    "desc": "Actor Benedict Garrett defended the 'Toxic' teaser, addressing criticism of its content. He questioned societal reactions to screen sexuality versus violence. The film's release date has been moved to August 26. Yash explained the delay to ensure the film's global impact. 'Toxic' is a multilingual action thriller with international ambitions.",
-    "img": "https://static.toiimg.com/photo/msid-132256374,imgsize-312854.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/benedict-garrett-addresses-toxic-teaser-criticism-says-audiences-accept-violence-more-easily-than-sensual-content/articleshow/132256402.cms",
-    "time": "2026-07-08T07:08:48.000Z"
   },
   {
     "cat": "Entertainment",
@@ -468,15 +576,6 @@ const newsData_en = [
     "time": "2026-07-08T06:46:43.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Taylor Swift defeats Kimberly Marasco in copyright lawsuit",
-    "desc": "In a significant win for Taylor Swift, a court has dismissed a copyright infringement lawsuit filed by poet Kimberly Marasco. Judge Aileen Cannon found that Marasco's claims failed to present any protectable expression and highlighted that common themes and phrases do not qualify as copyright violations. Swift's legal representation labeled the lawsuit as unfounded, and while Marasco intends to appeal, the judge's ruling stands firm.",
-    "img": "https://static.toiimg.com/photo/msid-132255853,imgsize-139368.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/taylor-swift-defeats-kimberly-marascos-copyright-lawsuit-as-judge-dismisses-lyric-copying-claims-over-hit-albums/articleshow/132255703.cms",
-    "time": "2026-07-08T06:44:47.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India’s strong stand on US Section 301 probe that proposes 12.5% duties",
     "desc": "According to policymakers and trade experts, the pace of the investigation suggests that the US may replace the existing 10% tariff, which remains in force until July 24, with the proposed forced labour-related tariff. The United States Trade Representative (USTR) has advanced one of its two investigations into America's trading partners, even as the July 24 deadline for the temporary 10% additional tariff draws closer.",
@@ -496,30 +595,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Prabhas shoots high-intensity action sequences for 'Spirit'",
-    "desc": "Filming for Prabhas' action drama 'Spirit' is progressing rapidly in Hyderabad. The team is currently shooting intense action sequences late into the night. Approximately seventy percent of the film's shooting has now been completed. Fans eagerly await official updates regarding the teaser and release plans. Prabhas is expected to appear in a never-before-seen avatar in this film.",
-    "img": "https://static.toiimg.com/photo/msid-132255824,imgsize-146748.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/spirit-prabhas-shoots-high-intensity-action-sequences-as-filming-progresses-for-sandeep-reddy-vangas-directorial/articleshow/132255808.cms",
-    "time": "2026-07-08T06:41:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Remembering the director who created generations of actors",
     "desc": "Discovered by Ebrahim Alkazi and mentored by Adi Marzban, the thespian leaves behind a legacy of actors — Nana Patekar, Ashok Saraf, Neena Kulkarni, Vikram Gokhale, Reema Lagoo and Bharati Achrekar — all shaped by her vision.",
     "img": "https://th-i.thgim.com/public/entertainment/music/7ovdd9/article71193308.ece/alternates/LANDSCAPE_1200/10fr_Vijata-Mehta%20bw.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/theatre/vijaya-mehta-the-woman-who-reshaped-contemporary-marathi-theatre/article71192847.ece",
     "time": "2026-07-08T06:39:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Pawan Kalyan's young fan passes away",
-    "desc": "A young fan named Niranjan, who bravely fought a rare genetic disorder, has sadly passed away. Pawan Kalyan, the actor and politician, recently visited Niranjan and his family at their home. He interacted with the youngster and his parents, offering financial assistance and prayers for recovery. Social media platforms were flooded with tributes from heartbroken fans mourning the loss.",
-    "img": "https://static.toiimg.com/photo/msid-132255771,imgsize-84138.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/pawan-kalyan-fan-who-was-battling-with-rare-genetic-disorder-passes-away-fans-pay-emotional-tributes/articleshow/132255694.cms",
-    "time": "2026-07-08T06:39:34.000Z"
   },
   {
     "cat": "Sports",
@@ -529,15 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/watch-keir-starmer-jonas-gahr-stre-swap-playful-world-cup-jibes-before-england-norway-quarter-final-clash/articleshow/132255146.cms",
     "time": "2026-07-08T06:04:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ronaldo effect? FIFA World Cup ticket prices crash after USA, Portugal exits",
-    "desc": "Ticket prices for the FIFA World Cup 2026 quarterfinals have seen a notable decrease. This decline follows the unexpected eliminations of co-host United States and Portugal from the tournament. Spain's quarterfinal match against Belgium now has significantly lower ticket prices available. France's game against Morocco is currently the least expensive last-eight fixture. Other quarterfinals include Norway versus England and Argentina against Switzerland.",
-    "img": "https://static.toiimg.com/photo/msid-132254715,imgsize-110704.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/ronaldo-effect-fifa-world-cup-ticket-prices-crash-after-usa-portugal-exits/articleshow/132254637.cms",
-    "time": "2026-07-08T05:54:32.000Z"
   },
   {
     "cat": "Sports",
@@ -558,15 +630,6 @@ const newsData_en = [
     "time": "2026-07-08T05:04:39.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'BJP petrol pump': AAP shares 'E20 premium receipt' in dig over ethanol blending",
-    "desc": "The graphic, styled as a fuel station receipt, described the product as \"E20 Premium Receipt\" and claimed the blend contained \"Petrol 80%\" and \"Ethanol 20%\". It also carried lines such as \"Customer Choice 0%\", \"Price Reduction Rs 0.00\", \"Mileage Impact 20-30%\", \"Extra Maintenance Possible\" and concluded with \"TOTAL CHARGED Full petrol price\" and \"TOTAL VALUE Reduced mileage\". Another line read, \"Terms and conditions not explained\".",
-    "img": "https://static.toiimg.com/photo/msid-132254005,imgsize-144404.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bjp-petrol-pump-aap-shares-e20-premium-receipt-in-dig-over-ethanol-blending/articleshow/132253877.cms",
-    "time": "2026-07-08T04:52:54.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Exclusive",
     "desc": "Few cricketers have witnessed the evolution of modern cricket quite like AB de Villiers. From the rise of T20 leagues to the changing aspirations of young cricketers, the South African legend has lived through the sport's biggest transition.",
@@ -576,24 +639,6 @@ const newsData_en = [
     "time": "2026-07-08T04:30:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "How PM Modi restored India's shared heritage across Asia",
-    "desc": "One of the earliest initiatives came in Vietnam, where India signed a Memorandum of Understanding in 2014 to restore the UNESCO-listed Mỹ Sơn Sanctuary. Once the spiritual centre of the ancient Champa Kingdom, the Shaivite temple complex is regarded as one of Southeast Asia's most significant Hindu heritage sites. The Archaeological Survey of India led the conservation work under the bilateral agreement.",
-    "img": "https://static.toiimg.com/photo/msid-132253030,imgsize-80290.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/12-years-of-civilisational-diplomacy-how-pm-modi-restored-indias-shared-heritage-across-asia/articleshow/132252326.cms",
-    "time": "2026-07-08T03:48:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tempers explode as Messi clashes with Egypt coach, staff member sent off",
-    "desc": "Lionel Messi and Egypt's coach Hossam Hassan clashed after Argentina's victory. A member of Egypt's staff received a red card for confronting the Argentine captain. This incident overshadowed Argentina's dramatic 3-2 comeback win in the tournament. Egypt's coach expressed strong dissatisfaction with the match officiating. The confrontation sparked debate regarding FIFA's anti-racism protocols.",
-    "img": "https://static.toiimg.com/photo/msid-132252960,imgsize-152242.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/lionel-messi-clashes-with-egypt-coach-staff-member-sent-off-in-dramatic-world-cup-scenes-watch/articleshow/132252936.cms",
-    "time": "2026-07-08T03:43:38.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "How 19-year-old Niharika became only Indian woman in Asian Games show jumping",
     "desc": "At just 19, equestrian Niharika Singhania has earned a place in India's show jumping team for the 2026 Asian Games, becoming its only woman rider. After overcoming qualification hurdles and switching horses weeks before the deadline, she is now driven by an unwavering bond with her horses and ambitions that stretch beyond Aichi-Nagoya.",
@@ -601,15 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/overcoming-indian-horse-travel-restrictions-how-19-year-old-niharika-singhania-became-only-indian-woman-in-asian-games-2026-show-jumping/articleshow/132243098.cms",
     "time": "2026-07-08T03:30:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I felt I let the team down': Messi admits penalty miss left him devastated",
-    "desc": "Lionel Messi admitted feeling he let his team down after missing a crucial penalty. Argentina faced elimination trailing two goals before a stunning comeback unfolded. Cristian Romero, Messi, and Enzo Fernandez scored within thirteen minutes to secure victory. Messi's late equalizing goal provided immense relief and happiness for the squad. This remarkable fighting spirit propelled Argentina into the World Cup quarter-finals.",
-    "img": "https://static.toiimg.com/photo/msid-132252082,imgsize-155858.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/i-felt-i-let-the-team-down-lionel-messi-admits-penalty-miss-left-him-devastated-against-egypt/articleshow/132252009.cms",
-    "time": "2026-07-08T02:48:18.000Z"
   },
   {
     "cat": "Business",
@@ -639,15 +675,6 @@ const newsData_en = [
     "time": "2026-07-08T02:06:10.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Quarterfinals, semifinals and final — schedule and timings",
-    "desc": "Who has progressed in the knockouts of the FIFA World Cup? And when are the matches being played? The Trionda has enthralled FIFA fans this time in the USA, Canada, and Mexico. The final of this World Cup will be played on July 20 at 12.30 am I.S.T at the MetLife Stadium in New Jersey.",
-    "img": "https://th-i.thgim.com/public/incoming/he4teh/article71192575.ece/alternates/LANDSCAPE_1200/trophy.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-track-to-quarter-finals-schedule-fixtures-france-morocco-spain-belgium-norway-england-argentina-switzerland/article71188709.ece",
-    "time": "2026-07-08T01:52:28.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Oil prices soar 3% as Middle East tensions flare again",
     "desc": "Oil prices rose sharply after United States military strikes targeted Iran. These actions followed attacks on commercial vessels in the Strait of Hormuz. Qatar blamed Iran for striking a liquefied natural gas tanker and an oil supertanker. Maritime security warned of severe threats to ships crossing the Strait. This has reignited fears of further disruptions to vital oil transit routes.",
@@ -673,15 +700,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/us-revokes-iran-oil-waiver-amid-attacks-on-british-tankers-in-strait-of-hormuz/articleshow/132248394.cms",
     "time": "2026-07-07T19:40:46.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Getty Images calls off Shutterstock merger after UK regulator's divestment demand",
-    "desc": "Getty Image has ended its planned $3.7 billion merger with Shutterstock. The UK competition regulator required Shutterstock to sell its editorial business. Getty's board decided this condition was not in the company's best interests. The companies had unveiled the deal in January 2025 to build a visual content powerhouse. Both firms now face increasing pressure from AI image generators.",
-    "img": "https://static.toiimg.com/photo/msid-132246121,imgsize-852022.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/getty-images-calls-off-shutterstock-merger-after-uk-regulators-divestment-demand/articleshow/132245108.cms",
-    "time": "2026-07-07T18:35:05.000Z"
   },
   {
     "cat": "Sports",
@@ -810,15 +828,6 @@ const newsData_en = [
     "time": "2026-07-07T05:21:37.000Z"
   },
   {
-    "cat": "World",
-    "title": "Hamas dissolves its government in Gaza to transfer power to UN-backed committee",
-    "desc": "At a news conference on July 6, Ismail al-Thawabta, general director of the Hamas-run Government Media Office, said “only technical and professional staff” would remain in their positions to run the Palestinian enclave’s day-to-day affairs",
-    "img": "https://th-i.thgim.com/public/incoming/9ycu3v/article71190148.ece/alternates/LANDSCAPE_1200/2026-07-04T144554Z_970264774_RC207MAUE8E3_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/hamas-dissolves-its-government-in-gaza-to-transfer-power-to-un-backed-committee/article71189994.ece",
-    "time": "2026-07-07T02:09:06.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Praggnaandhaa ends tied third, Gukesh sixth; Alireza wins",
     "desc": "The Indian star began the final day with a loss against Vincent Keymer but then did well to score 6 points out of the last eight games. His other loss came against compatriot D. Gukesh but Praggnanandhaa's main victim was Alireza",
@@ -855,15 +864,6 @@ const newsData_en = [
     "time": "2026-07-06T17:30:26.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Brackets and teams",
-    "desc": "This year's FIFA World Cup started off with 48 teams, the most in the competition's history. In the group stage, 12 groups made of four teams each played 72 matches, bringing down the number of qualifying teams to 32. Follow teams and their journey through the subsequent stages until the final match for the trophy.",
-    "img": "https://th-i.thgim.com/public/incoming/m2opxe/article71092170.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-06-12%20at%209.01.07%20AM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/infographics/2026-07-06/fifa-world-cup-2026-knockout-bracket-schedule-qualified-and-eliminated-teams/index.html",
-    "time": "2026-07-06T12:44:01.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Diljit Dosanjh unsurprised by ‘Satluj’ removal from Zee5, says was ‘bound to happen’",
     "desc": "‘I am thankful that what we wanted to say and the way we wanted to say, it has been conveyed. It is your film and you can watch it the way you want to,’ he said",
@@ -871,15 +871,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/diljit-dosanjh-unsurprised-by-satluj-removal-from-zee5-says-was-bound-to-happen/article71188607.ece",
     "time": "2026-07-06T09:58:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Satluj’ movie review: The anatomy of state violence",
-    "desc": "Diljit Dosanjh shines as a solitary lamp whose conviction outlasts the darkest night in this moving tribute to social activist Jaswant Singh Khalra, where director Honey Trehan examines the rhetoric around the dehumanisation of citizens",
-    "img": "https://th-i.thgim.com/public/food/pcsr5k/article71182692.ece/alternates/LANDSCAPE_1200/Diljit%20Dosanjh%20in%20%E2%80%98Sutluj%E2%80%99",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/satluj-movie-review-the-anatomy-of-state-violencediljit-dosanjh-panjab-95-honey-trehan/article71182649.ece",
-    "time": "2026-07-06T09:56:15.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/why-are-there-concerns-over-whatsapp-usernames-explained/article71183713.ece",
     "time": "2026-07-05T07:12:36.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Why tanks still matter in modern warfare",
+    "desc": "Drones, missiles and precision-guided weapons have transformed the modern battlefield, but military experts argue they cannot achieve the ultimate objective of war – controlling territory. Saurabh Trivedi examines why tanks and ground forces remain indispensable despite the rapid evolution of warfare, drawing on lessons from Ukraine and insights from senior Army officers",
+    "img": "https://th-i.thgim.com/public/incoming/x8se8r/article71182906.ece/alternates/LANDSCAPE_1200/6744_26_6_2026_18_25_44_1_ZORAWAR.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/why-tanks-still-matter-in-modern-warfare/article71182897.ece",
+    "time": "2026-07-04T18:09:39.000Z"
   }
 ];
