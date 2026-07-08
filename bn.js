@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "টানা ৫ দিন ৭ গ্রামে তল্লাশি, অবশেষে খতম হিট লিস্টে থাকা A++ ক্যাটেগরির শীর্ষ লস্কর জঙ্গি জাকির",
+    "desc": "এনকাউন্টার জুড়ে দিল বাংলার সঙ্গে কাশ্মীরকে। বাংলায় যেখানে নাবালিকা নির্যাতন ও খুন কাণ্ডে আচমকা ঘটে গেল এনকাউন্টারের ঘটনা, কাশ্মীরে সেখানে বহু খোঁজার পরে নিহত হল সন্ত্রাসবাদী। গত শুক্রবার সোপিয়ান জেলায় এক বাগানে নিরাপত্তাবাহিনীর নজরদারি ক্যামেরায় দেখা গিয়েছিল দুই জঙ্গিকে। তারপর তাদের খোঁজে ৫ দিন ধরে অভিযান চালায় যৌথবাহিনী। গ্রামের পর গ্রাম ঘিরে ফেলা হয়।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/jk-encounter-lashkar-e-taiba-terrorist-killed-after-5-days-of-search-in-shopian_661498.html ",
+    "time": "2026-07-08T07:46:25.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "ভয়ংকর অসুস্থ অভিনেতা রাজেশ শর্মা: ভর্তি হাসপাতালে, কী হয়েছে? উদ্বিগ্ন চলচ্চিত্রমহল",
     "desc": "পারিবারিক সূত্রে জানা গেছে, ওই সংক্রমণের প্রভাবেই রাজেশের সুগার লেভেল এক ধাক্কায় অনেকটা বেড়ে যায় (shoot up) সঙ্গে তাঁর তীব্র শ্বাসকষ্টের সমস্যাও (breathing trouble) শুরু হয়। সংক্রমণ দ্রুত ছড়িয়ে পড়ে তাঁর পায়ের হাঁটু পর্যন্ত পৌঁছে গিয়েছে।",
@@ -142,15 +151,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/sports/fifa-world-cup-2026-golden-boot-race-top-scorers-list-messi-mbappe_661064.html ",
     "time": "2026-07-04T16:11:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "রাজ্যে সম্পুর্ণ নিষিদ্ধ হল সব ধরনের নেশার দ্রব্য ও এনার্জি ড্রিংকস: সরকারের বড় ঘোষণায় তোলপাড়",
-    "desc": "বিধানসভায় স্কুলপড়ুয়াদের ওপর এনার্জি ড্রিংকের কুপ্রভাব নিয়ে প্রশ্ন তোলেন বিজেপি বিধায়ক বিক্রম পাচপুটে। তাঁর সেই উদ্বেগকে মান্যতা দিয়ে মহারাষ্ট্রের খাদ্য ও ঔষধ প্রশাসন (FDA) মন্ত্রী নরহরি জিরওয়াল এই নিষেধাজ্ঞার কথা ঘোষণা করেন। তিনি জানান, স্কুলপড়ুয়াদের মধ্যে এই ধরণের এনার্জি ড্রিংক পানের প্রবণতা যেভাবে বাড়ছে, তা অত্যন্ত উদ্বেগজনক।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/school-zone-ban-maharashtra-bans-sale-of-sting-energy-drink-within-500-meters-of-schools_661055.html ",
-    "time": "2026-07-04T13:11:11.000Z"
   },
   {
     "cat": "Sports",
@@ -313,32 +313,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/akanksha-chamola-confirms-divorce-from-gaurav-khanna-two-months-after-dismissing-split-rumours_660310.html ",
     "time": "2026-06-29T06:37:55.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
-    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
-    "time": "2026-06-01T03:50:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
-    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
-    "time": "2026-05-23T05:15:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "পেট্রোল ও ডিজেলের দাম লিটারে ৩ টাকা বাড়ল, জেনে নিন আপনার শহরে জ্বালানির নতুন দাম",
-    "desc": "চার বছর পর পেট্রোল ও ডিজেলের দাম প্রতি লিটারে ₹৩ টাকা করে বাড়ল। এর ফলে কলকাতা ও দিল্লিতে জ্বালানি মহার্ঘ্য হল। Fuel prices hiked by ₹3 per litre after a long wait causing rates to rise in major cities.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-15-2026-000015b-jpg-1778819385461_1778819386210-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-india-fuel-rates-increased-by-3-rupees-per-litre-delhi-kolkata-014-306911.html",
-    "time": "2026-05-15T04:35:17.000Z"
   }
 ];

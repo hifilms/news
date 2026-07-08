@@ -1,6 +1,42 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "EPFO 2.01: 34 કરોડ નોકરિયાતો માટે સોથી મોટી ખુશખબર, હવે વ્યાજથી લઈને ક્લેમ સુધી બધું જ બદલાયું! 9 નિયમ બદલાયા",
+    "desc": "જો તમે પણ નોકરી કરો છો અને તમારો પીએફ કપાય છે, તો આ સમાચાર તમારા માટે સૌથી મહત્વના છે! EPFO એ આખી સિસ્ટમ બદલી નાખી છે અને EPFO 2.01 એટલે કે CITES પ્રોજેક્ટ અમલી બનાવી દીધો છે. હવે તમારે પીએફના વ્યાજ માટે નવેમ્બર સુધી રાહ નહીં જોવી પડે, ૧૫ જુલાઈ સુધીમાં જ વ્યાજ ખાતામાં આવી જશે. એટલું જ નહીં, નોકરી બદલશો તો પીએફ ટ્રાન્સફર કરવા માટે કોઈ ફોર્મ પણ નહીં ભરવું પડે, બધું જ ઓટોમેટિક થઈ જશે! આ અહેવાલમાં જુઓ તમારા પીએફ ખાતાને અસર કરતા ૯ મોટા ફેરફારો..",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/epfo-2-01-the-biggest-good-news-for-34-crore-employees-now-everything-has-changed-from-interest-to-claims-9-rules-have-been-changed-483965 ",
+    "time": "2026-07-08T08:01:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "TMKOC સેટ પર તોડફોડ! &amp;#039;ગોકુલધામ સોસાયટી&amp;#039;ની આ હાલતથી ચાહકો ચિંતિત, જાણો શું છે આખો મામલો",
+    "desc": "લોકપ્રિય ટીવી શો \"તારક મહેતા કા ઉલ્ટા ચશ્મા\" વર્ષોથી સમાચારમાં છે. નિર્માતા અસિત મોદીના શોએ દર્શકોને મંત્રમુગ્ધ કર્યા છે. હવે ગોકુલધામ સોસાયટીમાં તોડફોડ થતી દર્શાવતો એક વીડિયો સોશિયલ મીડિયા પર વાયરલ થઈ રહ્યો છે. ચાહકો હવે ચિંતિત છે. ચાલો જાણીએ કે આખો મામલો શું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/vandalism-on-tmkoc-set-fans-are-worried-about-this-situation-of-gokuldham-society-know-what-the-whole-matter-is-483964 ",
+    "time": "2026-07-08T07:51:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "રામ મંદિરમાં કેટલું દાન આવ્યું? સોનું, ચાંદી અને કરોડોની રોકડના આંકડા જોઈ ચોંકી જશો!",
+    "desc": "રામ જન્મભૂમિ તીર્થ ક્ષેત્ર ટ્રસ્ટની નાણાકીય સ્થિતિ અને સોના-ચાંદીના દાનના રેકોર્ડ હવે જાહેર થયા છે. SITના પ્રારંભિક અહેવાલ અને ટ્રસ્ટના ઉપલબ્ધ નાણાકીય નિવેદનો અનુસાર, 31 માર્ચ, 2026 સુધીમાં ટ્રસ્ટને હજારો કરોડ રૂપિયાનું ભંડોળ પ્રાપ્ત થયું હતું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/how-much-donation-was-received-in-the-ram-temple-you-will-be-shocked-to-see-the-figures-of-gold-silver-and-crores-of-cash-483961 ",
+    "time": "2026-07-08T07:33:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Welcome To The Jungle ફિલ્મ ફક્ત 125 કરોડમાં બની, ડાયરેક્ટર અહેમદ ખાને જણાવ્યું કેવી રીતે બચાવ્યા કરોડો રુપિયા",
+    "desc": "અક્ષય કુમારની ફિલ્મ વેલકમ ટુ ધ જંગલ ફિલ્મે રિલીઝ પહેલા જ તેના બજેટ જેટલી કમાણી કરી લીધી છે. આ ફિલ્મ કમાણીની દ્રષ્ટિએ પહેલાથી જ હીટ થઈ ચુકી છે. આ વાત ફિલ્મના ડાયરેક્ટર અહેમદ ખાને જણાવી છે. અને સાથે જ જણાવ્યું કે તેણે કેવી રીતે 32 કલાકારો સાથે પણ 125 કરોડમાં જ ફિલ્મ પુરી કરી લીધી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/welcome-to-the-jungle-movie-bugdet-was-125-crore-director-ahmed-khan-explain-how-he-saved-extra-cost-483952 ",
+    "time": "2026-07-08T06:14:37.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "બંગાળના બરુઈપુર રેપ-મર્ડર કેસનો આરોપી એન્કાઉન્ટરમાં માર્યો ગયો",
     "desc": "પશ્ચિમ બંગાળના બરુઈપુરના રેપ એન્ડ મર્ડર કેસના મુખ્ય આરોપીઓમાંથી એક પ્રભાસ મંડળનું પોલીસ એન્કાઉન્ટરમાં મોત થયું છે. મળતી માહિતી મુજબ રાતે લગભગ 12 વાગે પ્રભાસ મંડળને પોલીસ ક્રાઈમ સીન રીક્રિએશન માટે લઈ જઈ રહી હતી.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -459,15 +495,6 @@ const newsData_gu = [
     "time": "2026-07-05T06:20:16.000Z"
   },
   {
-    "cat": "Business",
-    "title": "NPS ધારકોની મોજ! હવે પેન્શનની સાથે મળશે હેલ્થ ઈશ્યોરેંસ, સરકાર લાવ રહી છે નવી યોજના",
-    "desc": "NPS રોકાણકારો માટે એક મહત્વપૂર્ણ સમાચાર છે. પેન્શન ફંડ રેગ્યુલેટરી એન્ડ ડેવલપમેન્ટ ઓથોરિટી (PFRDA) આગામી 60-70 દિવસમાં \"NPS સ્વાસ્થ્ય\" યોજના શરૂ કરી રહી છે, જે પેન્શન બચત સાથે ટોપ-અપ આરોગ્ય વીમો પણ ઓફર કરે છે. આદિત્ય બિરલા હેલ્થ ઇન્શ્યોરન્સ શરૂ થશે, જેમાં અન્ય વીમા કંપનીઓ પછીથી જોડાશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/nps-holders-are-excited-now-you-will-get-health-insurance-along-with-pension-the-government-is-bringing-a-new-scheme-483573 ",
-    "time": "2026-07-04T12:27:29.000Z"
-  },
-  {
     "cat": "World",
     "title": "અયાતુલ્લા ખામેનેઈની દફનવિધિમાં 4 મહિનાનો વિલંબ કેમ ? જાણો ક્યાં રાખવામાં આવ્યો હતો મૃતદેહ",
     "desc": "ઈરાનના પૂર્વ સર્વોચ્ચ લીડર અયાતુલ્લા ખામેનેઈની દફનવિધિ તેમના અવસાનના ચાર મહિના પછી થવાની છે. અમેરિકા અને ઇઝરાયલ સાથે યુદ્ધ જેવા તણાવ વચ્ચે દફનવિધિમાં આટલો લાંબો વિલંબ કેમ થયો ? આ પાછળના કારણો શું છે, તેના વિશે આ લેખમાં જાણીશું.",
@@ -558,15 +585,6 @@ const newsData_gu = [
     "time": "2026-07-02T14:01:54.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "રાઝ ફિલ્મની કાળજું કંપાવે તેવી ચીસ સામાન્ય ન હતી, વિક્રમ ભટ્ટે અસલી ભૂતનો અવાજ ક્રિએટ કરી ફિલ્મમાં યુઝ કર્યો",
-    "desc": "વિક્રમ ભટ્ટ તેની હોરર ફિલ્મો માટે ફેમસ છે. આ ફિલ્મોમાં સૌથી વધુ હીટ થઈ હતી 2002 માં આવેલી રાઝ ફિલ્મ. રાઝ ફિલ્મમાં એક ચીસ વારંવાર સંભળાય છે. આ ચીસ નોર્મલ નથી. જે ચીસ સાંભળી હાથ પગ ઠંડા થઈ જાય છે તે ચીસ અસલી ભૂતનો અવાજ છે. શું છે આ ચીસની હકીકત ચાલો તમને જણાવીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/heart-wrenching-screams-of-film-raaz-is-inspired-by-real-life-paranormal-experience-said-vikram-bhatt-here-are-details-483366 ",
-    "time": "2026-07-02T07:17:32.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "ભારતની 5 સૌથી સુરક્ષિત કાર, કિંમત માત્ર  ₹5.50 લાખથી શરૂ, જાણો ફીચર્સ",
     "desc": "જો નવી કાર ખરીદવાનો પ્લાન બનાવી રહ્યાં છો તો માત્ર ફીચર્સ અને માઇલેજ નહીં, તેની સેફ્ટી પણ જરૂર જુઓ. ભારતમાં ઘણી કારોને Bharat NCAP અને Global NCAP માં 5-સ્ટાર રેટિંગ હાસિલ કર્યું છે. જાણો કઈ કાર તમારા બજેટ અને સુરક્ષા બંને માટે સૌથી સારી સાબિત થઈ શકે છે.",
@@ -574,15 +592,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/top-5-star-safety-rated-cars-in-india-starting-from-5-50-lakh-483362 ",
     "time": "2026-07-02T06:53:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "શા માટે આકાંક્ષા રિયાલિટી શોમાં કરી રહી છે ન કરવાની વાતો ? કપલના નજીકના મિત્રે કરી દીધો ખુલાસો",
-    "desc": "આકાંક્ષા ચમોલા રિયાલિટી શો લોકઅપમાં ડિવોર્સ સહિતની વાતો ઓડિયન્સનું અટેન્શન મેળવવા માટે કરી રહી હોય તેવું બને. આ વાત અમે નહીં પરંતુ આકાંક્ષા ચમોલા અને ગૌરવ ખન્નાના નજીકના મિત્રએ એક પોડકાસ્ટ દરમિયાન કરી છે. આકાંક્ષા ચમોલા વિશે આ ખુલાસો કોણે કર્યો અને તેણે વધુમાં શું કહ્યું ચાલો તમને પણ જણાવીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/akanksha-is-talking-about-divorce-and-child-to-get-public-attention-said-close-friend-actor-anuj-sachdeva-483360 ",
-    "time": "2026-07-02T06:23:02.000Z"
   },
   {
     "cat": "Tech",

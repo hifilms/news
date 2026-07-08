@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "39-year-olds keep making history as Djokovic follows suit to Messi with epic Wimbledon QF win; Sinner awaits",
+    "desc": "39-year-olds keep making age look silly, as a certain Novak Djokovic followed suit to Lionel Messi, delivering an epic win on the same day that the Argentine legend steered his team into the FIFA World...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/39-year-olds-keep-making-history-as-djokovic-follows-suit-to-messi-with-epic-wimbledon-qf-win-sinner-awaits-2026-07-08-1047540",
+    "time": "2026-07-08T08:20:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Switzerland end 72-year-long wait with win over Colombia on penalties, set World Cup QF with Argentina",
+    "desc": "Switzerland have booked their place in the FIFA World Cup quarterfinals for the first time in 72 years with a stunning win over Colombia in the round of 16 on Wednesday (IST). The Rossocrociati defeated...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/switzerland-end-72-year-long-wait-with-win-over-colombia-on-penalties-set-world-cup-qf-with-argentina-2026-07-08-1047527",
+    "time": "2026-07-08T06:50:54.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "‘Atrocious’: Shreyas Iyer opens up after India suffer humiliating loss against England in Nottingham",
     "desc": "The Indian team succumbed to a hefty loss against England in the third T20I of the ongoing five-game T20I series. The two sides met at Trent Bridge in Nottingham for the clash the Men in...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/india-unveil-official-kit-for-commonwealth-games-2026-sports-minister-mansukh-mandaviya-confident-of-success-2026-07-07-1047482",
     "time": "2026-07-07T16:04:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England register mammoth 175-run victory in Nottingham",
-    "desc": "India are in choppy waters in T20Is. The two-time reigning T20 World Champions are yet to win a single match in the format after bagging the 2026 title. They have gone winless in four straight...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-3rd-t20i-live-cricket-score-india-vs-england-trent-bridge-nottingham-latest-match-updates-scorecard-teams-playing-xis-2026-07-07-1047479",
-    "time": "2026-07-07T15:43:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Argentina defeat Egypt, register thrilling 3-2 victory",
-    "desc": "The round of 16 stage of the ongoing FIFA World Cup 2026 sees defending champions Argentina taking on Egypt. The two sides will meet at the Atlanta Stadium, and both sides will hope to put...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/arg-vs-egy-fifa-world-cup-round-of-16-live-lionel-messi-in-action-as-argentina-look-to-qf-berth-1047478",
-    "time": "2026-07-07T15:42:27.000Z"
   }
 ];
