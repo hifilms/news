@@ -1,7 +1,25 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Clash of the underdogs as Xhaka takes on Diaz",
+    "title": "‘Atrocious’: Shreyas Iyer opens up after India suffer humiliating loss against England in Nottingham",
+    "desc": "The Indian team succumbed to a hefty loss against England in the third T20I of the ongoing five-game T20I series. The two sides met at Trent Bridge in Nottingham for the clash the Men in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-opens-up-after-india-suffer-humiliating-loss-against-england-in-nottingham-2026-07-08-1047495",
+    "time": "2026-07-07T23:22:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Team India achieve unwanted record with horrid second innings show against England in Nottingham",
+    "desc": "The Indian team took on England in the third T20I of the ongoing series between the two sides. The teams met at Trent Bridge in Nottingham on July 7th, and the Men in Blue were...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/team-india-achieve-unwanted-record-with-horrid-second-innings-show-against-england-in-nottingham-2026-07-08-1047494",
+    "time": "2026-07-07T22:16:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Switzerland beat Colombia on penalties",
     "desc": "Switzerland is taking on Colombia in the round of 16 of the ongoing FIFA World Cup 2026. The two sides are meeting at the BC Place Vancouver, and both teams will look to put in...",
     "img": "",
     "src": "indiatvnews.com",
@@ -55,7 +73,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "India look to chase down 202 to level series in Nottingham",
+    "title": "England register mammoth 175-run victory in Nottingham",
     "desc": "India are in choppy waters in T20Is. The two-time reigning T20 World Champions are yet to win a single match in the format after bagging the 2026 title. They have gone winless in four straight...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/arg-vs-egy-fifa-world-cup-round-of-16-live-lionel-messi-in-action-as-argentina-look-to-qf-berth-1047478",
     "time": "2026-07-07T15:42:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India to have VVS Laxman as coach for Zimbabwe tour, Asian Games in latest move by BCCI",
-    "desc": "India will be splitting coaching duties between regular head coach Gautam Gambhir and Centre of Excellence head VVS Laxman for the upcoming international assignments as an action-packed schedule awaits the Men in Blue. India will...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-to-have-vvs-laxman-as-coach-for-zimbabwe-tour-asian-games-in-latest-move-by-bcci-2026-07-07-1047476",
-    "time": "2026-07-07T15:26:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cristiano Ronaldo matches unwanted record with heartbreaking loss against Spain in FIFA World Cup 2026",
-    "desc": "The journey of Portugal and Cristiano Ronaldo ended in the FIFA World Cup 2026. The side took on Spain in the round of 16 stage of the tournament in Dallas, and with Spain registering a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/cristiano-ronaldo-matches-unwanted-record-with-heartbreaking-loss-against-spain-in-fifa-world-cup-2026-2026-07-07-1047474",
-    "time": "2026-07-07T14:57:43.000Z"
   }
 ];
