@@ -1,5 +1,68 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "ED freezes Rs 440 crore in three TMC accounts in laundering case",
+    "desc": "The Enforcement Directorate has frozen TMC bank accounts holding Rs 440 crore. These funds are linked to an alleged Rs 160 crore money laundering investigation. The money was reportedly used to purchase an aircraft and a helicopter. These assets were then rented back to the TMC for party use. The agency is probing dubious transactions and potential personal asset creation.",
+    "img": "https://static.toiimg.com/photo/msid-132272452,imgsize-36470.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ed-freezes-rs-440cr-in-three-tmc-accounts-in-laundering-case/articleshow/132272454.cms",
+    "time": "2026-07-08T21:27:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Justin Bieber to perform at FIFA World Cup Final Halftime Show",
+    "desc": "Justin Bieber will join Madonna, Shakira, and BTS for the World Cup halftime show. Afrobeats star Burna Boy and conductor Gustavo Dudamel will also perform. This eleven-minute performance is curated by Chris Martin of Coldplay. The show supports the FIFA Global Citizen Education Fund initiative. Characters from Sesame Street will also appear during the event.",
+    "img": "https://static.toiimg.com/photo/msid-132272449,imgsize-88998.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/world-cup-final-halftime-show-justin-bieber-joins-madonna-shakira-and-bts-in-starry-lineup-to-help-raise-usd-100-million-towards-childrens-access-education-and-football/articleshow/132272435.cms",
+    "time": "2026-07-08T21:26:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Another paper leak? UGC-NET under lens",
+    "desc": "The National Testing Agency faces new allegations of a paper leak for the UGC-NET exam. This follows recent issues with the NEET-UG exam and errors in other NET papers. Education ministry seeks details on a circulated PDF allegedly linked to the sociology paper. Opposition leader Rahul Gandhi highlighted these serious allegations on social media. The controversy adds to existing concerns about high-stakes examination integrity.",
+    "img": "https://static.toiimg.com/photo/msid-132272446,imgsize-30886.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/another-paper-leak-ugc-net-under-lens/articleshow/132272447.cms",
+    "time": "2026-07-08T21:20:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hrithik Roshan to sell 6.33L Cult.fit shares in Rs 950 cr IPO",
+    "desc": "Hrithik Roshan is set to partially monetise his investment in fitness and lifestyle platform Cult. fit by selling 6.33 lakh equity shares through the company's proposed initial public offering (IPO). Cult. fit's IPO comprises a fresh issue of equity shares worth up to Rs 950 crore, along with an offer-for-sale of up to 17.86 crore equity shares by existing shareholders, including Hrithik Roshan and several early investors.",
+    "img": "https://static.toiimg.com/photo/msid-132272441,imgsize-77436.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hrithik-roshan-to-sell-6-33-lakh-cult-fit-shares-as-company-files-ipo-with-rs-950-crore-fresh-issue/articleshow/132272211.cms",
+    "time": "2026-07-08T21:19:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "No fruit in fruit candy, no cocoa in chocolate: FSSAI cracks down on misleading labels",
+    "desc": "Food regulators have issued notices to several companies for misleading product labels. Kubera Foods faced scrutiny for claiming \"100% Natural\" on buns with preservatives. Ferns N Petals was cited for marketing chocolate with vegetable fat instead of cocoa butter. Lotte India received notices for \"100% Vegetarian\" claims and missing nutritional information. These actions aim to ensure consumers receive accurate information about food products.",
+    "img": "https://static.toiimg.com/photo/msid-132272430,imgsize-28766.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-fruit-in-fruit-candy-no-cocoa-in-chocolate-fssai-cracks-down-on-misleading-labels/articleshow/132272431.cms",
+    "time": "2026-07-08T21:06:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Elon Musk takes a swipe at Tom Holland, calls him a 'cuck'",
+    "desc": "Elon Musk has once again found himself at the centre of controversy after insulting historian Tom Holland over his praise for Christopher Nolan's upcoming film The Odyssey. The billionaire's post quickly sparked confusion online, with many initially believing he was referring to actor Tom Holland, who stars in the film.",
+    "img": "https://static.toiimg.com/photo/msid-132272174,imgsize-70962.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/elon-musk-takes-a-swipe-at-tom-holland-calls-him-a-cuck-over-the-odyssey-sparks-confusion-over-the-spider-man-actor/articleshow/132272035.cms",
+    "time": "2026-07-08T19:34:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Thirumavalavan",
+    "desc": "“There is a necessity to build a national anti-BJP front — both the TVK and DMK should be a part of it. This is my point of view...but many would say that I am confusing everyone”, Mr. Thirumavalavan said",
+    "img": "https://th-i.thgim.com/public/incoming/vdxsh/article71199818.ece/alternates/LANDSCAPE_1200/2.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/there-is-a-need-to-build-a-national-front-against-bjp-thirumavalavan/article71199202.ece",
+    "time": "2026-07-08T19:23:44.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Wimbledon 2026",
     "desc": "The 39-year-old Serbian great finishes on the right side of a five hour and 15-minute slugfest to oust third seed Auger-Aliassime and set up a much-anticipated last-four meeting with World No. 1 and defending champion Sinner",
@@ -63,15 +126,6 @@ const newsData_en = [
     "time": "2026-07-08T18:16:42.000Z"
   },
   {
-    "cat": "World",
-    "title": "Trump threatens to strike Iran's civilian infrastructure",
-    "desc": "\"I don't ⁠think it's going to start again. I think it's ​going to go ‌very quickly. They hit a couple of ships, and so we ‌hit them much harder,\" Mr. Trump ​told reporters in Ankara",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-iran-war-live-updates-after-iran-strikes-strait-of-hormuz-donald-trump-netanyahu-mojtaba-lebanon-hezboallah-peace-deal/article71196409.ece",
-    "time": "2026-07-08T17:57:12.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'I'm more technical, more skilled'",
     "desc": "In an exclusive conversation with Timesofindia.com, Sandhagen discusses how Bautista has evolved since their first meeting, why he dismisses the wrestling narrative, the lessons from his latest title defeat, and why he believes a showdown with Sean O'Malley makes the most sense if he gets past Bautista.",
@@ -133,15 +187,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/r-sai-kishore-joins-gloucestershire-for-final-six-county-championship-matches/articleshow/132268050.cms",
     "time": "2026-07-08T16:32:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Blame game over waste management in Thiruvananthapuram",
-    "desc": "Mayor alleges that as the BJP has over the past six months of its stint in the Corporation earned a good impression from general public, CPI(M) leaders are attempting to dump waste all around the city and spread fake news. LDF says Mayor is making contradictory statements instead of giving clear answers to questions raised by people, Opposition and media",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/blame-game-over-waste-management-in-thiruvananthapuram/article71198658.ece",
-    "time": "2026-07-08T16:21:19.000Z"
   },
   {
     "cat": "Business",
@@ -234,15 +279,6 @@ const newsData_en = [
     "time": "2026-07-08T15:08:16.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Pests, hygiene scare in pantries: Railway Ministry directs zones to follow strict cleaning protocols",
-    "desc": "The Railway Ministry has mandated a new directive for all zonal railways, emphasizing the urgency of strict cleaning and pest control measures for pantry cars. This decision comes in response to ongoing complaints regarding unsanitary conditions and rodent problems. Additionally, there are serious concerns regarding the waste disposal methods employed by catering staff. Inconsistencies in enforcement have been attributed to lapses by certain railway authorities.",
-    "img": "https://static.toiimg.com/photo/msid-132266588,imgsize-136500.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pests-hygiene-scare-in-pantries-railway-ministry-directs-zones-to-follow-strict-cleaning-protocols/articleshow/132266510.cms",
-    "time": "2026-07-08T14:53:11.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Opener ruled out of historic Lord's Test vs England; here's why",
     "desc": "Head coach Amol Muzumdar said Rawal picked up the injury while playing for India A against England A in Taunton earlier this month. She suffered a cut on her knee during India A's second 50-over match, which required stitches.",
@@ -268,15 +304,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/how-indias-silver-import-restrictions-have-created-shortages-white-metal-trading-at-significant-premium-to-global-prices/articleshow/132266207.cms",
     "time": "2026-07-08T14:33:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Asked to stay away for a few days': Gopal Rao denies being removed from Ram Temple trust",
-    "desc": "Gopal Rao stated he was asked to temporarily stay away from trust meetings. Champat Rai and Anil Mishra resigned from the trust taking moral responsibility. Most allegations against Rao are false, except for donation theft claims. Donations are safe and verifiable, with police handling theft arrests. An SIT continues its investigation into alleged donation misappropriation.",
-    "img": "https://static.toiimg.com/photo/msid-132266224,imgsize-113487.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/asked-to-stay-away-for-a-few-days-gopal-rao-denies-being-removed-from-ram-temple-trust/articleshow/132265791.cms",
-    "time": "2026-07-08T14:28:03.000Z"
   },
   {
     "cat": "Sports",
@@ -313,15 +340,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/bot-calls-ai-chat-generated-rs-5520-crore-loans-in-fy26-sanjiv-bajaj/articleshow/132265816.cms",
     "time": "2026-07-08T14:05:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Railways orders probe into unauthorised decoration of 1AC coupe, suspends chief ticket inspector",
-    "desc": "Railways ordered a departmental inquiry after an unauthorized decorator entered a First AC coach. The decorator was hired by passengers to decorate a private coupe for a celebration. Preliminary findings show the decorator gained access at Jalna before passengers boarded. The on-duty chief ticket inspector has been suspended pending the inquiry's outcome. The investigation will assess security breaches and prevent future unauthorized access.",
-    "img": "https://static.toiimg.com/photo/msid-132265800,imgsize-127143.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/railways-orders-probe-into-unauthorised-decoration-of-1ac-coupe-suspends-chief-ticket-inspector/articleshow/132265802.cms",
-    "time": "2026-07-08T14:04:57.000Z"
   },
   {
     "cat": "Entertainment",
@@ -367,15 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/us-iran-war-impact-imf-lowers-indias-gdp-growth-forecast-marginally-still-tags-it-among-fastest-growing-economies/articleshow/132264840.cms",
     "time": "2026-07-08T13:28:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Don't forgive TMC traitors': Mamata Banerjee's appeal to people after party rebellion",
-    "desc": "Trinamool Congress chief Mamata Banerjee attacked a rival faction and the BJP. She urged people not to forgive party leaders who sided with the opposition. The dispute escalates over control of the party's name and symbol. Both factions are engaged in a legal and political battle. Mamata challenged rebel leaders to directly join the BJP.",
-    "img": "https://static.toiimg.com/photo/msid-132264876,imgsize-222706.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dont-forgive-tmc-traitors-mamata-banerjees-appeal-to-people-after-party-rebellion/articleshow/132264709.cms",
-    "time": "2026-07-08T13:19:20.000Z"
   },
   {
     "cat": "Entertainment",
@@ -477,24 +486,6 @@ const newsData_en = [
     "time": "2026-07-08T11:51:23.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Whatever game was being played...': 'Satluj' actor Suvinder Pal Vicky",
-    "desc": "'Kohrra' star Suvinder Pal Vicky has opened up about the abrupt and shocking removal of the Diljit Dosanjh-led biographical drama 'Satluj' (formerly 'Punjab '95') from ZEE5, just 48 hours after its digital premiere. In a candid conversation, the veteran actor criticized the ongoing censorship games, stating that blocking historical truths from younger generations is a step backward. Vicky also detailed the extreme acting challenge of simultaneously shooting his acclaimed, empathetic cop role in 'Kohrra' by day while transforming into the brutal, ruthless SSP Surjit Singh Sugga for 'Satluj' at night, capturing the haunting realities of Punjab's militancy era.",
-    "img": "https://static.toiimg.com/photo/msid-132262386,imgsize-119858.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/whatever-game-was-being-played-to-stop-our-film-it-is-still-going-on-satluj-actor-suvinder-pal-vicky-opens-up-on-ott-removal-of-diljit-dosanjh-starrer/articleshow/132262219.cms",
-    "time": "2026-07-08T11:38:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sivakarthikeyan gifts luxury electric SUV to 'Thaai Kizhavi' director",
-    "desc": "Actor-producer Sivakarthikeyan gifted director Sivakumar Murugesan a new electric SUV. This gesture celebrated the film Thaai Kizhavi crossing 100 days and earning Rs 100 crore. The director received the luxury vehicle during a special success event. This success has significantly elevated Murugesan's standing in the film industry. Sivakarthikeyan and Murugesan are now collaborating again on the film Seyon.",
-    "img": "https://static.toiimg.com/photo/msid-132262133,imgsize-156568.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sivakarthikeyan-gifts-luxury-electric-suv-to-thaai-kizhavi-director-sivakumar-murugesan-after-rs-100-crore-success/articleshow/132262107.cms",
-    "time": "2026-07-08T11:24:57.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Redone into one incredible open world game",
     "desc": "From a disastrous launch to finally making it on Playstation 5 Pro and with an excellent port on the Switch 2, Cyberpunk 2077 is a graphical showcase and perhaps one of the best games out there today",
@@ -529,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/janhvi-kapoor-wears-rs-2-5-crore-studded-with-251-diamonds-and-a-pearl-strap-at-anshula-kapoors-chooda-ceremony-stuns-in-a-pastel-dress/articleshow/132261151.cms",
     "time": "2026-07-08T10:53:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Satluj' writer Niren Bhatt dismisses 'marketing stunt' claims for Diljit Dosanjh starrer",
-    "desc": "Rejecting speculations of a marketing gimmick, writer Niren Bhatt states that Satluj's removal from Zee5 was a result of government orders over security issues, not an attempt to boost its theatrical release. He stressed the film’s intended cinematic experience and cautioned audiences against pirated versions currently in circulation. Bhatt advocates for patience until an official streaming option becomes available, highlighting the film’s historical inspirations and past certification difficulties.",
-    "img": "https://static.toiimg.com/photo/msid-132261174,imgsize-131912.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/satluj-writer-niren-bhatt-dismisses-marketing-stunt-claims-for-diljit-dosanjh-starrer-we-made-the-film-for-theatres-and-hoped-that-the-film-would-travel-well-through-word-of-mouth-like-main-vaapas-aaunga/articleshow/132261157.cms",
-    "time": "2026-07-08T10:49:24.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/manipal-health-gets-sebi-nod-to-float-8000-crore-ipo/article71190768.ece",
     "time": "2026-07-06T17:41:10.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "SEBI said to ease short stocks by nearly doubling those eligible for borrowing",
+    "desc": "The changes are aimed at boosting the cash equities market and drawing investors away from the country’s far larger derivatives market, which has seen explosive growth but carries far larger risks for retail investors in particular",
+    "img": "https://th-i.thgim.com/public/incoming/nnd69s/article71190864.ece/alternates/LANDSCAPE_1200/2026-06-19T133903Z_1714139935_RC2LJDA498KS_RTRMADP_3_INDIA-REGULATIONS-MARKETS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/sebi-said-to-ease-short-stocks-by-nearly-doubling-those-eligible-for-borrowing/article71190860.ece",
+    "time": "2026-07-06T17:30:26.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "The real crisis in India’s fisheries",
+    "desc": "Official claims that most of India’s marine fish stocks are sustainable should not distract from the continuing degradation of the country’s inshore fishing grounds; stronger governance of coastal waters and better management of mechanised trawling are essential for truly sustainable fisheries",
+    "img": "https://th-i.thgim.com/public/news/national/7h7ssu/article71186647.ece/alternates/LANDSCAPE_1200/iStock-2254567928.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/the-questionable-health-of-marine-fisheries-in-india/article71185652.ece",
+    "time": "2026-07-06T06:01:26.000Z"
   }
 ];
