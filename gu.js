@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "ભાજપે ત્રણેય બળવાખોર TMC નેતાઓને આપી રાજ્યસભાની ટિકિટ, થોડા કલાકો પહેલા જ જોડાયા હતા પાર્ટીમાં",
+    "desc": "તાજેતરમાં રાજ્યસભા સાંસદ પદેથી રાજીનામું આપનારા તૃણમૂલ કોંગ્રેસના સુખેન્દુ રોય, સુષ્મિતા દેવ અને પ્રકાશ ચિક બરૈક આજે ભાજપમાં જોડાયા છે. તેમના જોડાતાની સાથે જ પાર્ટીએ બંગાળમાં ખાલી પડેલી ત્રણ રાજ્યસભા બેઠકો માટે આ ત્રણેય નેતાઓને રાજ્યસભાની ટિકિટ આપી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/bjp-gives-rajyasabha-tickets-to-rebel-tmc-leaders-sukhendu-sushmita-dev-prakash-chik-baraik-484107 ",
+    "time": "2026-07-09T17:40:49.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "20 ઓવરમાં 417 રન, 47 સિક્સ અને 22 ફોર... T20માં રનનો વરસાદ, તૂટી ગયા બધા રેકોર્ડ",
     "desc": "ઇંગ્લેન્ડની ડમ્બલટન ક્રિકેટ ક્લબે એક ટી20 મેચમાં 2 વિકેટે 417 રન બનાવીને ઇતિહાસ રચ્યો હતો. આ વિસ્ફોટક ઇનિંગમાં 22 ચોગ્ગા અને 47 છગ્ગા આવ્યા હતા. આ ઇનિંગ દરમિયાન એક બેટ્સમેને માત્ર 55 બોલમાં 206 રન ફટકાર્યા હતા.",
@@ -511,15 +520,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/big-decision-by-22-countries-causes-big-explosion-in-crude-oil-prices-slip-below-70-doller-know-483726 ",
     "time": "2026-07-06T04:30:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ચેટથી ખુલ્યો ₹2 કરોડના રામ મંદિર દાન ચોરીનો ભેદ! ચંપત રાયનો નજીકનો જ નીકળ્યો માસ્ટરમાઇન્ડ",
-    "desc": "અયોધ્યા રામ મંદિરના દાન ચોરીની તપાસ કરી રહેલી પોલીસે એક મહત્વપૂર્ણ સફળતા મેળવી છે. એક ચેટમાં બે કરોડ રૂપિયાના દાનની ચોરીનો ખુલાસો થયો છે. ચંપત રાયનો નજીકનો સાથી ટીનુ યાદવ આ સમગ્ર કેસ પાછળનો મુખ્ય સૂત્રધાર તરીકે ઉભરી આવ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/chat-reveals-the-secret-behind-the-theft-of-rs-2-crore-ram-temple-donation-mastermind-turns-out-to-be-a-close-friend-of-champat-rai-483723 ",
-    "time": "2026-07-06T03:23:47.000Z"
   },
   {
     "cat": "Entertainment",

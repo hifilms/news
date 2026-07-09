@@ -1,5 +1,77 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Gambhir’s fumbling and bungling India",
+    "desc": "Of all the failures that have liberally dotted the coach’s brief tenure, the most chastening will be the 2-0 rout in Ireland, followed closely by 76 all out against England in Nottingham; several of India’s methods in the last couple of years have been steeped in madness that is all too visible",
+    "img": "https://th-i.thgim.com/public/incoming/awfh16/article71203901.ece/alternates/LANDSCAPE_1200/PTI06_05_2026_000043B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/gambhirsfumbling-and-bungling-india/article71203867.ece",
+    "time": "2026-07-09T19:04:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Landslide hits Vaishno Devi track at Himkoti; battery car service suspended",
+    "desc": "Intense rainfall caused a landslide near Himkoti on the new pilgrimage track. This incident prompted the temporary suspension of the battery car service on the route. The old yatra route remained unaffected, and devotees continued their journey on the traditional path. Shrine board authorities are working to clear the debris and monitor the area. Yatris are advised to follow official advisories and check travel updates.",
+    "img": "https://static.toiimg.com/photo/msid-132297045,imgsize-150895.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/landslide-hits-vaishno-devi-track-at-himkoti-battery-car-service-suspended/articleshow/132297059.cms",
+    "time": "2026-07-09T18:58:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Farooq invites BJP, casts wide net for J&amp;K statehood protest",
+    "desc": "The National Conference has invited various political parties for a protest. This demonstration is scheduled for July 20 at Jantar Mantar in New Delhi. The protest aims to demand the restoration of statehood for Jammu and Kashmir. Invitations have been extended to leaders from across the political spectrum. The event coincides with the opening day of Parliament's monsoon session.",
+    "img": "https://static.toiimg.com/photo/msid-132296990,imgsize-102274.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/farooq-invites-bjp-casts-wide-net-for-jk-statehood-protest/articleshow/132296994.cms",
+    "time": "2026-07-09T18:54:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Army chief visits forward areas along LoC in Poonch-Rajouri",
+    "desc": "Army chief General Dhiraj Seth visited forward areas along the Line of Control. He reviewed the region's security situation and counter-infiltration grid. General Seth also assessed operational preparedness and combat readiness of troops. He interacted with soldiers deployed at forward posts to boost morale. The visit occurred amid heightened security for the ongoing Amarnath Yatra.",
+    "img": "https://static.toiimg.com/photo/msid-132296890,imgsize-347392.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/army-chief-visits-forward-areas-along-loc-in-poonch-rajouri/articleshow/132296902.cms",
+    "time": "2026-07-09T18:48:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "J&amp;K orders screening of books with ‘anti-national’ content, opposition slams move",
+    "desc": "J&K authorities are reviewing books in educational institutions for objectionable content. This action follows the withdrawal of books describing Kashmir as occupied territory. Political leaders have criticized the review as an attempt to control historical narratives. Schools must submit compliance reports by July nineteenth confirming book reviews. A legal group has also sought an inquiry into these controversial books.",
+    "img": "https://static.toiimg.com/photo/msid-132296806,imgsize-28356.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jk-orders-screening-of-books-with-anti-national-content-opposition-slams-move/articleshow/132296797.cms",
+    "time": "2026-07-09T18:44:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tihar food 'too spicy, oily, deep-fried': US mercenary Matthew Aaron VanDyk seeks chicken, fish, olive oil in court plea",
+    "desc": "Matthew Aaron VanDyke, arrested by NIA, seeks court permission to prepare his own meals. He claims jail food is too oily and spicy, causing health issues. VanDyke has reportedly lost significant weight since May 6. He requests specific cooking items and food supplies for his dietary needs. The court has issued notices to jail authorities and the NIA for their response.",
+    "img": "https://static.toiimg.com/photo/msid-132295709,imgsize-135895.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tihar-food-too-spicy-oily-deep-fried-us-mercenary-seeks-chicken-fish-olive-oil-in-court-plea/articleshow/132295462.cms",
+    "time": "2026-07-09T17:59:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Union Minister calls Diljit an 'impostor' amid Satluj's OTT removal",
+    "desc": "The controversy over Diljit Dosanjh's film Satluj has taken a fresh political turn. Union Minister Ravneet Singh Bittu has called the actor-singer an \"impostor\" while denying allegations that the Centre had anything to do with the film being taken down from Zee5. Speaking in Ludhiana, Bittu said the government has no control over OTT platforms and dismissed claims that political pressure led to the film's removal.",
+    "img": "https://static.toiimg.com/photo/msid-132295017,imgsize-69054.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/union-minister-ravneet-singh-bittu-calls-diljit-dosanjh-an-impostor-amid-satluj-row-says-government-has-no-control-over-ott-platforms/articleshow/132294891.cms",
+    "time": "2026-07-09T17:30:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Patient collapses and dies after waiting in queue at Neyyattinkara hospital; Health Minister orders inquiry",
+    "desc": "The patient, Rajeshkumar of Koottapana, Neyyattinkara had come to the hospital around 6.30 p.m. complaining of chest pain, but the security staff allegedly did not permit him to see the doctor without an OP ticket",
+    "img": "https://th-i.thgim.com/public/incoming/9j0v3x/article71203785.ece/alternates/LANDSCAPE_1200/IMG_80692_21_2_2024_12_2_2_1_LJG51A4S.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/patient-collapses-and-dies-after-waiting-in-queue-at-neyyattinkara-hospital-health-minister-orders-inquiry/article71203747.ece",
+    "time": "2026-07-09T17:18:31.000Z"
+  },
+  {
     "cat": "World",
     "title": "India, Australia strike deal on uranium exports, deepen ties across nuclear and maritime sectors",
     "desc": "The agreement on civil nuclear energy to facilitate the commercial supply of uranium from Australia to India to fuel New Delhi's nuclear power projects came nearly 12 years after the two countries inked a historic civil nuclear cooperation pact",
@@ -7,6 +79,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/eye-on-indo-pacific-india-and-australia-deepen-ties-across-nuclear-maritime-and-mineral-sectors/article71202208.ece",
     "time": "2026-07-09T17:12:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Five goals, one red card: England vs Mexico at Estadio Azteca breaks TV records",
+    "desc": "England secured a quarter-final spot after a thrilling 3-2 victory against Mexico. This dramatic match became Mexico's most-watched FIFA World Cup game of the 21st century. The high-octane encounter also set new audience records in the United States. England will now face Norway in their next World Cup quarter-final match. The winner advances to face either Argentina or Switzerland in the semi-finals.",
+    "img": "https://static.toiimg.com/photo/msid-132294487,imgsize-254874.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/five-goals-one-red-card-england-vs-mexico-round-of-16-at-estadio-azteca-breaks-tv-records/articleshow/132294485.cms",
+    "time": "2026-07-09T17:09:43.000Z"
   },
   {
     "cat": "World",
@@ -25,6 +106,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/west-bengal/three-former-tmc-mps-including-sushmita-dev-join-bjp/article71202380.ece",
     "time": "2026-07-09T17:00:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Akshay Kumar expresses concern over Rajesh Sharma's health, prays for his recovery",
+    "desc": "Veteran actor Rajesh Sharma was hospitalized after a suspected insect bite on a film set. He experienced severe pain and a high fever after the incident occurred. Akshay Kumar expressed concern and wished him a speedy recovery on social media. The All Indian Cine Workers Association has demanded a thorough investigation into the matter. They are seeking clarity on the production house's safety protocols and medical assistance.",
+    "img": "https://static.toiimg.com/photo/msid-132294240,imgsize-262154.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-expresses-concern-as-rajesh-sharma-rushed-to-the-hospital-after-insect-bite-on-the-set-of-prabhas-starrer-fauzi-prays-for-his-recovery/articleshow/132294225.cms",
+    "time": "2026-07-09T17:00:13.000Z"
   },
   {
     "cat": "Politics",
@@ -108,15 +198,6 @@ const newsData_en = [
     "time": "2026-07-09T16:01:54.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "CISF intensifies operations against illegal coal mining",
-    "desc": "In the past four days, officials have recovered over 428 metric tonne of coal transported illegally in Jharkhand and West Bengal; the enforcement drive covered several vulnerable mining belts and coal transportation corridors in both States",
-    "img": "https://th-i.thgim.com/public/incoming/ji2qc/article71033910.ece/alternates/LANDSCAPE_1200/IMG_FILE_PHOTO__A_genera_2_1_AVD6T4BO.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/cisf-intensifies-operations-against-illegal-coal-mining/article71202674.ece",
-    "time": "2026-07-09T16:00:20.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Jana Nayagan gets ‘A’ certificate; likely to release in theatres on July 24",
     "desc": "According to reports, after the makers implemented modifications suggested by the examining committee, the film was initially considered suitable for a 'U/A' certificate; however, the process stalled when a committee member raised an internal objection, claiming certain portions could hurt public sentiments.",
@@ -160,15 +241,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/he-was-not-the-only-one-who-failed-coach-says-sanju-samson-unfairly-singled-out-after-zimbabwe-snub/articleshow/132291224.cms",
     "time": "2026-07-09T15:28:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Supreme Court to hear new mother’s plea against mandatory year-long postpartum break in IPS training",
-    "desc": "Petitioner is an IPS probationer who gave birth last September and sought to begin training this June; asks if 1993 policy is meant to protect new mothers or disentitle them even if they are fit for training",
-    "img": "https://th-i.thgim.com/public/incoming/rahu3o/article71203368.ece/alternates/LANDSCAPE_1200/TH08-nearby1_GUG6GG7M8ED.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/supreme-court-to-hear-new-mothers-plea-against-mandatory-year-long-postpartum-break-in-ips-training/article71203134.ece",
-    "time": "2026-07-09T15:27:44.000Z"
   },
   {
     "cat": "Entertainment",
@@ -432,15 +504,6 @@ const newsData_en = [
     "time": "2026-07-09T10:21:42.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Can do whatever she wishes with her workers': TMC reacts to viral video of Mamata Banerjee slapping party worker",
-    "desc": "Trinamool Congress MP Saugata Roy defended Mamata Banerjee after a video showed her slapping a party worker. He stated Banerjee shares a close bond and can do as she wishes. The incident occurred during a protest march over a minor's alleged rape and murder. BJP leaders criticized Banerjee's actions, calling it arrogance and a loss of mental balance. Clashes between TMC and BJP supporters also marked the protest march.",
-    "img": "https://static.toiimg.com/photo/msid-132283593,imgsize-4397158.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/can-do-whatever-she-wishes-with-her-workers-tmc-reacts-to-viral-video-of-mamata-banerjee-slapping-party-worker/articleshow/132283335.cms",
-    "time": "2026-07-09T10:14:07.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Shreyas Iyer, Tilak don't deserve guaranteed spots': Kaif drops brutal verdict",
     "desc": "Expressing his discontent, former cricketer Mohammad Kaif criticized the team selectors for their choice of leaders, specifically targeting Shreyas Iyer and Tilak Varma. Kaif feels these selections have had a negative impact on Sanju Samson's potential role in the squad. He argues that the selectors should face accountability for their choices, while Iyer and Varma maintain their leadership in the ongoing series.",
@@ -469,8 +532,8 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Welcome to the Jungle' BO Day 14 [LIVE]: Eyes Rs 125 crore domestic milestone before 'Dhamaal 4'",
-    "desc": "Ahmed Khan's multi-starrer action-comedy 'Welcome to the Jungle' wraps up its second week at the box office, closing in on the Rs. 125 crore domestic net milestone. Starring Akshay Kumar, Suniel Shetty, Arshad Warsi, and Paresh Rawal, the film stands at a domestic net of Rs. 123.06 crore ahead of its Day 14 live tracking.",
+    "title": "'Welcome to the Jungle' smashes past Rs 180 crore worldwide gross on Day 14",
+    "desc": "'Welcome to the Jungle', directed by Ahmed Khan, stars Akshay Kumar, Suniel Shetty, Arshad Warsi, Paresh Rawal, Disha Patani, and Jacqueline Fernandez. Released on June 26, 2026, the meta-satirical action-comedy follows a corrupt tycoon's chaotic attempt to launder money by funding a deliberate box-office flop. As of Day 14, the film has earned Rs. 125.05 crore net in India (Rs. 148.61 crore domestic gross) and a global total of Rs. 180.06 crore gross.",
     "img": "https://static.toiimg.com/photo/msid-132282885,imgsize-100886.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/welcome-to-the-jungle-box-office-collection-day-14-live-akshay-kumar-starrer-wraps-up-week-2-as-domestic-net-nears-rs-125-crore-after-sweeping-rs-177-worldwide-gross-ahead-of-dhamaal-4-release/articleshow/132282768.cms",
@@ -504,15 +567,6 @@ const newsData_en = [
     "time": "2026-07-09T09:28:36.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Biggest snubs from the 2026 Emmy nominations",
-    "desc": "The 2026 awards nominations revealed surprising snubs for many popular actors and shows. Fan favorites and acclaimed performers were notably absent from top-tier categories this year. Recent major releases like House of the Dragon Season 3 were ineligible for consideration. Jeremy Allen White and stars of Only Murders in the Building faced significant omissions. Stranger Things and Euphoria also failed to secure drama series category nominations.",
-    "img": "https://static.toiimg.com/photo/msid-132281938,imgsize-111188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/2026-emmy-snubs-explained-from-the-bears-jeremy-allen-white-to-stranger-things-and-euphoria/articleshow/132281835.cms",
-    "time": "2026-07-09T09:02:41.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Where to eat in Boston before the FIFA World Cup 2026 quarterfinal",
     "desc": "Ahead of the France vs Morocco clash in Boston, fuel up on buttery lobster rolls and steaming clam chowder with a side of history, before venturing into the city’s lesser-known neighbourhoods for vibrant ethnic cuisine",
@@ -540,15 +594,6 @@ const newsData_en = [
     "time": "2026-07-09T08:56:33.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Satluj actor Suvinder details community screenings",
-    "desc": "Actor Suvinder Vicky says communities across Punjab are organising screenings of 'Satluj,' calling it \"seva,\" after OTT pulled the film within 48 hours over security concerns. He praised co-star Diljit Dosanjh's discipline and patience on set, recalled tough torture scenes, and said the film's long CBFC battle finally ended in an overwhelmingly positive audience response.",
-    "img": "https://static.toiimg.com/photo/msid-132281859,imgsize-199783.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/people-are-treating-it-like-seva-satluj-actor-suvinder-vicky-details-community-screenings-as-villagers-use-projectors-to-screen-diljit-dosanjh-starrer-after-ott-takedown/articleshow/132281859.cms",
-    "time": "2026-07-09T08:55:15.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Around 35,000 tech jobs may be eliminated this year; India’s IT sector sees AI shift",
     "desc": "The latest trend reflects a new phase in the restructuring of India's IT services industry, which is valued at over $315 billion. Companies are continuing to rationalise the workforce built up during the pandemic hiring surge after grappling with weaker business conditions over the past three years.",
@@ -565,15 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/sack-him-ben-stokes-two-word-post-sparks-fresh-debate-as-icc-probes-ecb-over-retirement-footage/articleshow/132281195.cms",
     "time": "2026-07-09T08:20:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rashid Khan breaks down as Afghanistan bids emotional farewell to Shapoor Zadran",
-    "desc": "Afghanistan cricket bid an emotional farewell to former fast bowler Shapoor Zadran. He passed away in India at the age of 38 after a prolonged illness. Zadran represented Afghanistan in 44 ODIs and 36 T20Is between 2009 and 2020. He had been undergoing treatment in New Delhi for a rare life-threatening condition. His contributions and fighting spirit will remain an important part of cricket history.",
-    "img": "https://static.toiimg.com/photo/msid-132280686,imgsize-46062.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/rashid-khan-rahmanullah-gurbaz-in-tears-as-afghanistan-bids-emotional-farewell-to-shapoor-zadran/articleshow/132280620.cms",
-    "time": "2026-07-09T07:57:26.000Z"
   },
   {
     "cat": "Business",
@@ -646,15 +682,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/india-gets-its-98th-gm-both-parents-chess-coaches-10th-board-exam-forced-a-break-the-making-of-aswath-s-exclusive/articleshow/132277625.cms",
     "time": "2026-07-09T05:04:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit Sharma reaches London early to begin preps for ODIs against England",
-    "desc": "Rohit Sharma is aware of the challenges of playing in these conditions and wants to be fully prepared before action gets underway. The 39-year-old enjoys playing in England and has a phenomenal ODI record. In the 27 matches, the right-hander has accumulated 1428 runs at an average of 64.9 and hit seven hundreds - the most by a visiting batter.",
-    "img": "https://static.toiimg.com/photo/msid-132277022,imgsize-24087.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/rohit-sharma-reaches-london-early-to-begin-preps-for-odis-against-england/articleshow/132276981.cms",
-    "time": "2026-07-09T04:23:20.000Z"
   },
   {
     "cat": "Business",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/india-is-the-only-market-now-that-japanese-investors-are-keen-about-suzuki-backed-next-bharat-ventures-announces-a-new-200-mn-fund-in-india/article71190376.ece",
     "time": "2026-07-07T14:49:52.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Stock markets snap four-day rally amid profit booking; Trent tumbles over 12%",
-    "desc": "The 50-share NSE Nifty dipped 31.65 points, or 0.13%, to end at 24,398.70. Sensex and Nifty had rallied more than 2% in the last four sessions to hit more than two-month high levels on Monday (July 6, 2026)",
-    "img": "https://th-i.thgim.com/public/incoming/z7ipfl/article71193498.ece/alternates/LANDSCAPE_1200/2025-11-07T065921Z_1148292179_RC2USDAMZK08_RTRMADP_3_INDIA-STOCKS-FLOWS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/markets/stock-markets-snap-four-day-rally-amid-profit-booking-trent-tumbles-over-12/article71193434.ece",
-    "time": "2026-07-07T13:08:06.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
   }
 ];

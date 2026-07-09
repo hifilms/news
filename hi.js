@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India’s batting unit flops again vs England, suffers back-to-back T20I series for first time in seven years",
+    "desc": "India's hope of staging a comeback in the fourth T20I at the County Ground in Bristol evaporated as another insipid batting display paved the way for a crushing nine-wicket defeat, handing England a 3-0 lead...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/indias-batting-unit-flops-again-vs-england-suffers-back-to-back-t20i-series-for-first-time-in-seven-years-2026-07-10-1047744",
+    "time": "2026-07-09T19:30:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shreyas Iyer matches Virat Kohli's record, breaks Suryakumar Yadav's milestone in fourth T20I vs England",
+    "desc": "India captain Shreyas Iyer produced a one-man show in Bristol, scoring unbeaten 80 runs off 49 balls to guide India to 158 for 7 against England in the fourth T20I. With that, the newly appointed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-matches-virat-kohli-s-record-breaks-suryakumar-yadav-s-milestone-in-fourth-t20i-vs-england-2026-07-10-1047743",
+    "time": "2026-07-09T19:06:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Karolina Muchova stuns Coco Gauff, qualifies for maiden Wimbledon final",
+    "desc": "Karolina Muchova defeated Coco Gauff in a dramatic semi-final clash to qualify for her first Wimbledon singles final. The Czech 10th seed survived a match point before sealing a 6-2, 1-6, 7-6 (12-10) victory in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/karolina-muchova-stuns-coco-gauff-qualifies-for-maiden-wimbledon-final-2026-07-09-1047740",
+    "time": "2026-07-09T18:21:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Ravichandran Ashwin ruled out of ongoing MLC 2026? San Francisco Unicorns announce replacement",
+    "desc": "Star spinner Ravichandran Ashwin has been ruled out of the ongoing Major League Cricket (MLC). His team San Francisco Unicorns has already confirmed the development, stating that the off-spinner suffered an injury to his right...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-ravichandran-ashwin-ruled-out-of-ongoing-mlc-2026-san-francisco-unicorns-announce-replacement-2026-07-09-1047737",
+    "time": "2026-07-09T17:37:19.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why is Varun Chakaravarthy not playing India vs England 4th T20I in Bristol?",
     "desc": "India were forced to make two changes to the playing XI for the fourth T20I against England at the County Ground in Bristol. Captain Shreyas Iyer confirmed that Varun Chakaravarthy and Harshit Rana have been...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/england-vs-india-4th-t20i-pitch-report-heres-how-surface-at-county-ground-bristol-is-expected-to-play-2026-07-09-1047709",
     "time": "2026-07-09T12:50:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India's pride at stake as more T20 slump looms large against the ones who lifted the Men in Blue once",
-    "desc": "India's T20 pride is at stake. There is no doubt about it now. If the Ireland loss was a one-off failure due to not adjusting to the conditions in the nation, the performances in England...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/indias-pride-at-stake-as-more-t20-slump-looms-large-against-the-ones-who-lifted-the-men-in-blue-once-2026-07-09-1047701",
-    "time": "2026-07-09T12:07:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "FIFA World Cup quarterfinals for free! Here's how fans can watch France vs Morocco QF without payment in India",
-    "desc": "The FIFA World Cup 2026 quarterfinals are right on the horizon as some major clashes headline the remainder of the knockout phase. Morocco's tactical versatility will be up against Kylian Mbappe and France's might; England's...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/fifa-world-cup-quarterfinals-for-free-heres-how-fans-can-watch-france-vs-morocco-qf-without-payment-in-india-2026-07-09-1047687",
-    "time": "2026-07-09T11:12:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Sanju Samson get a look in? What about Axar Patel? India's Probable Playing XI for 4th England T20I",
-    "desc": "Looking for their first win on their UK tour, India face England in the fourth T20I of the five-match series at the County Ground in Bristol on Thursday, July 9. India's new T20 cycle has...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-sanju-samson-get-a-look-in-what-about-axar-patel-indias-probable-playing-xi-for-4th-england-t20i-2026-07-09-1047679",
-    "time": "2026-07-09T10:22:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Delhi High Court issues summons in Abhishek Sharma's personality rights suit; what is the matter about?",
-    "desc": "The Delhi High Court issued summons to defendants in Abhishek Sharma's personality rights suit and also noted the submission of several offending URLs. The summonses and notices to the defendants were issued by Justice Jyoti Singh...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/delhi-high-court-issues-summons-in-abhishek-sharmas-personality-rights-suit-what-is-the-matter-about-2026-07-09-1047666",
-    "time": "2026-07-09T09:00:44.000Z"
   }
 ];
