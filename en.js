@@ -1,5 +1,68 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Gone girls",
+    "desc": "The death of 14 girls from the Juang community, a Particularly Vulnerable Tribal Group, from Odisha at a seafood processing plant in Tamil Nadu’s Tiruvallur has brought to the fore the socio-economic realities of marginalised tribal populations despite decades of targeted interventions. Satyasundar Barik visits the Juang villagers who lost their daughters to understand what went wrong in the development journey",
+    "img": "https://th-i.thgim.com/public/incoming/dd1ng3/article71203968.ece/alternates/LANDSCAPE_1200/90092_2_7_2026_10_26_8_1_TAMIL_NADU_GAS_TRAGEDY_10.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/gone-girls/article71203970.ece",
+    "time": "2026-07-09T22:13:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dexter Sol Ansell on 'A Knight of the Seven Kingdoms' awards buzz",
+    "desc": "The HBO series 'A Knight of the Seven Kingdoms' secured nine Emmy nominations, including for Outstanding Drama Series. Fans expressed disappointment online after the show's cast received no acting award nominations. Young star Dexter Sol Ansell, who plays Egg, was widely considered deserving of recognition. Co-star Peter Claffey praised Ansell's acting and hoped he would not focus too much on awards.",
+    "img": "https://static.toiimg.com/photo/msid-132298019,imgsize-77466.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dexter-sol-ansell-on-emmy-awards-buzz-around-a-knight-of-the-seven-kingdoms-i-dont-care-about-that-im-just-acting-because-i-like-it-exclusive/articleshow/132298009.cms",
+    "time": "2026-07-09T21:34:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "E25 only being tested, no rollout decision yet: Puri",
+    "desc": "Petroleum minister Hardeep Singh Puri confirmed E25 is currently undergoing testing. No decision has been made regarding the rollout of this fuel blend. Road transport minister Nitin Gadkari noted ethanol's lower calorific value impacts mileage slightly. He also emphasized offering people choices of alternative fuels regionally. Puri added that past engine damage complaints were attributed to other causes.",
+    "img": "https://static.toiimg.com/photo/msid-132297998,imgsize-123106.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/e25-only-being-tested-no-rollout-decision-yet-puri/articleshow/132297999.cms",
+    "time": "2026-07-09T21:16:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Once-a-week insulin shots arrive in India; but not for all: Doctors",
+    "desc": "Indian patients now have access to a new once-weekly insulin alternative. This drug offers a significant reduction in injections from daily to just 52 days annually. Doctors see this as an expansion of treatment options rather than a complete replacement. The weekly insulin is best suited for specific patients requiring basal insulin replacement. While an important advance, other diabetes treatments are also reducing insulin needs.",
+    "img": "https://static.toiimg.com/photo/msid-132297989,imgsize-28826.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/once-a-week-insulin-shots-arrive-in-india-but-not-for-all-doctors/articleshow/132297986.cms",
+    "time": "2026-07-09T21:06:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mbappe breaks another FIFA World Cup record as he becomes the youngest ever to make 20 appearances",
+    "desc": "Kylian Mbappe became the youngest player to reach twenty World Cup appearances. He achieved this milestone at twenty-seven years and two hundred one days old. Mbappe made his World Cup debut in 2018, helping France win the trophy. He also won the Golden Boot in Qatar 2022 with eight goals. Mbappe continues to break records and chase Messi's appearance total.",
+    "img": "https://static.toiimg.com/photo/msid-132297820,imgsize-116916.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/kylian-mbappe-breaks-another-fifa-world-cup-record-as-he-becomes-the-youngest-ever-to-make-20-appearances/articleshow/132297820.cms",
+    "time": "2026-07-09T20:02:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Brook's 79, Salt's 59 crush India as England seal T20I series with 9-wicket victory over India",
+    "desc": "England secured a dominant nine-wicket victory over India in the fourth T20I match. This emphatic win sealed the five-match series for England with an unassailable 3-0 lead. Captain Harry Brook and opener Phil Salt led the successful chase with a strong partnership. Shreyas Iyer's unbeaten 80 was the lone highlight for the Indian batting lineup. The hosts achieved the target with 37 balls remaining in the contest.",
+    "img": "https://static.toiimg.com/photo/msid-132297811,imgsize-160438.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/harry-brooks-79-phil-salts-59-crush-india-as-england-seal-t20i-series-with-nine-wicket-victory-over-india-in-bristol/articleshow/132297681.cms",
+    "time": "2026-07-09T19:56:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Will set up temporary space tracking terminal on Cocos Keeling to support India’s Gaganyaan: Aus PM",
+    "desc": "Australia will establish a temporary space tracking terminal on Cocos (Keeling) Islands. This facility will actively support India's Gaganyaan human spaceflight programme. It will ensure continuous communication with ISRO's crew module during its upcoming test flights. Prime Minister Modi highlighted India's recent lunar south pole landing achievement. India also aims to build its own space station in the future.",
+    "img": "https://static.toiimg.com/photo/msid-132297699,imgsize-5734400.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/will-set-up-temporary-space-tracking-terminal-on-cocos-keeling-to-support-indias-gaganyaan-aus-pm/articleshow/132295954.cms",
+    "time": "2026-07-09T19:38:52.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Gambhir’s fumbling and bungling India",
     "desc": "Of all the failures that have liberally dotted the coach’s brief tenure, the most chastening will be the 2-0 rout in Ireland, followed closely by 76 all out against England in Nottingham; several of India’s methods in the last couple of years have been steeped in madness that is all too visible",
@@ -52,6 +115,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/tihar-food-too-spicy-oily-deep-fried-us-mercenary-seeks-chicken-fish-olive-oil-in-court-plea/articleshow/132295462.cms",
     "time": "2026-07-09T17:59:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "2 India-flagged ships carrying crude crosses Strait of Hormuz",
+    "desc": "Indian ship Lila Vadinar successfully crossed the Strait of Hormuz carrying Kuwaiti crude oil. Another Indian vessel, Maha Roos, also transited through the strategic waterway. Seven India-bound ships with 149 seafarers await evacuation from the Persian Gulf. Vessel movement through the strait is now restricted due to escalating conflict. The government may reissue advisories cautioning seafarers and discouraging West Asia charters.",
+    "img": "https://static.toiimg.com/photo/msid-132295171,imgsize-103986.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/2-india-flagged-ships-carrying-crude-crosses-strait-of-hormuz/articleshow/132295124.cms",
+    "time": "2026-07-09T17:36:24.000Z"
   },
   {
     "cat": "Entertainment",
@@ -162,15 +234,6 @@ const newsData_en = [
     "time": "2026-07-09T16:31:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Minister moots raising retirement age of professors in govt. medical colleges",
-    "desc": "Their retirement age currently is 63 while it is 70 in private medical colleges; out of 800 sanctioned professor posts in 17 government medical colleges across the State, around 200 remain vacant, which is affecting the quality of medical education, says Satya Kumar Yadav",
-    "img": "https://th-i.thgim.com/public/incoming/ik7nw1/article71203588.ece/alternates/LANDSCAPE_1200/17VIJ1GGH_GUTG0G1RG09UUJ.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/minister-moots-raising-retirement-age-of-professors-in-govt-medical-colleges/article71203270.ece",
-    "time": "2026-07-09T16:17:48.000Z"
-  },
-  {
     "cat": "Business",
     "title": "CBI files first chargesheet in Reliance Home Finance Limited case; cites ₹3,526 crore loss",
     "desc": "The agency has registered seven First Information Reports against Reliance Communications Limited (RCOM), Reliance Home Finance Limited (RHFL), Reliance Commercial Finance Limited (RCFL) and Reliance Telecom Limited (RTL) based on complaints received from various public sector banks and LIC",
@@ -216,24 +279,6 @@ const newsData_en = [
     "time": "2026-07-09T15:39:39.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Attempting to protect big crocodiles': Congress attacks PM Modi over Ram temple 'embezzlement' allegations",
-    "desc": "Congress ramps up its campaign regarding the alleged misappropriation of funds for the Ram temple donation and dubious land acquisitions. While Prime Minister Modi opts for silence, accusations arise that the BJP-RSS is shielding the true culprits. Furthermore, Congress claims that the establishment targets low-level employees to divert attention from high-profile figures. They also criticize the trust's lack of transparency concerning its composition and exclude it from the RTI Act.",
-    "img": "https://static.toiimg.com/photo/msid-132290994,imgsize-74484.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/attempting-to-protect-big-crocodiles-congress-attacks-pm-modi-over-ram-temple-embezzlement-allegations/articleshow/132289604.cms",
-    "time": "2026-07-09T15:36:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'New Natwarlal spending Rs 160 crore on aircraft': Rebel MLA Ritabrata Banerjee after HC relief to TMC",
-    "desc": "A rebel Trinamool Congress MLA will approach the Supreme Court regarding frozen party bank accounts. The Calcutta High Court allowed limited operation of these accounts for routine expenses. Ritabrata Banerjee alleges money laundering in aircraft and helicopter purchases using party funds. He plans to submit a complaint to the Enforcement Directorate in Delhi. The TMC denies all allegations, calling the probe politically motivated.",
-    "img": "https://static.toiimg.com/photo/msid-132291317,imgsize-120488.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/new-natwarlal-spending-rs-160-crore-on-aircraft-rebel-mla-ritabrata-banerjee-after-hc-relief-to-tmc/articleshow/132289706.cms",
-    "time": "2026-07-09T15:36:17.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'He was not the only one who failed': Coach says Sanju Samson unfairly singled out after Zimbabwe snub",
     "desc": "Sanju Samson's coach Biju George expressed disappointment over his omission from the Zimbabwe T20Is. George stated Samson deserved more opportunities after his World Cup heroics. He questioned the selectors' decisions regarding player treatment and opportunities. Samson's past junior career also saw similar perceived unfairness. The coach hopes Samson proves his critics wrong with future performances.",
@@ -268,24 +313,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/delhi-high-court-adjourns-hearing-on-salman-khans-plea-against-kala-hiran-the-battle-for-legacy-release/articleshow/132289781.cms",
     "time": "2026-07-09T14:55:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Monsoon covers entire India, overall rain deficit reduced to 14%",
-    "desc": "The entire nation of India is now experiencing monsoon conditions, which has helped in mitigating the previous rainfall deficit. Unfortunately, ten states are still grappling with considerable shortages of rain, hampering kharif crop sowing operations. This year, kharif crop acreage is down by twenty-one percent when compared to last year. Moreover, some areas may soon face another reduction in rainfall activity as predictions indicate limited respite ahead.",
-    "img": "https://static.toiimg.com/photo/msid-132289403,imgsize-132334.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/monsoon-covers-entire-india-overall-rain-deficit-reduced-to-14/articleshow/132289391.cms",
-    "time": "2026-07-09T14:31:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Sobhraj-inspired hotel conman arrested; 3 ex-TMC MPs join BJP &amp; more",
-    "desc": "A man who admired Charles Sobhraj was apprehended after an astonishing 36-year-long hotel scam. Meanwhile, three former TMC Rajya Sabha lawmakers transitioned to the BJP amidst growing internal dissent. In international news, US projectiles were reported to have hit near Iran's Bushehr nuclear facility. In Germany, the summer heatwave led to a staggering toll of over 5,100 heat-related fatalities.",
-    "img": "https://static.toiimg.com/photo/msid-132288951,imgsize-108804.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-newswrap-sobhraj-inspired-hotel-conman-arrested-3-ex-tmc-mps-join-bjp-more/articleshow/132288436.cms",
-    "time": "2026-07-09T14:08:53.000Z"
   },
   {
     "cat": "Entertainment",
@@ -351,15 +378,6 @@ const newsData_en = [
     "time": "2026-07-09T12:52:55.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Three former TMC Rajya Sabha members join BJP in Kolkata",
-    "desc": "Three former Trinamool Congress leaders formally joined the Bharatiya Janata Party in Kolkata. Their induction follows weeks of growing rebellion and internal turmoil within the TMC party. Sushmita Dev cited political and personal reasons for her departure from the TMC. Sukhendu Sekhar Ray and Prakash Chik Baraik also resigned from their Rajya Sabha seats. The TMC faces intensified political crisis with reports of more defections fueling speculation.",
-    "img": "https://static.toiimg.com/photo/msid-132288748,imgsize-158614.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/former-tmc-rajya-sabha-mps-sushmita-dev-sukhendu-sekhar-ray-prakash-chik-baraik-join-bjp-in-kolkata/articleshow/132287296.cms",
-    "time": "2026-07-09T12:52:44.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Harmanpreet banks on historic Lord's Test to erase T20 WC disappointment",
     "desc": "India captain Harmanpreet Kaur believes the historic women's Test against England at Lord's is a chance to restore confidence after the T20 World Cup disappointment. She called playing at Lord's a dream and admitted adapting to red-ball cricket is challenging. Harmanpreet also hopes for more women's Tests in future and backed debutant spinner Shree Charani to make an impact.",
@@ -367,15 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/if-we-win-this-test-harmanpreet-kaur-banks-on-historic-lords-test-to-erase-t20-world-cup-disappointment/articleshow/132287085.cms",
     "time": "2026-07-09T12:48:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'57% tariff-free from day one'",
-    "desc": "Prime Minister Christopher Luxon of New Zealand has made a landmark announcement regarding tariff-free exports to India, with an impressive 57 percent of exports benefiting from zero tariffs from the outset of the trade agreement. This initiative is poised to enhance the presence of New Zealand businesses in the Indian marketplace.",
-    "img": "https://static.toiimg.com/photo/msid-132285713,imgsize-109384.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/new-zealand-pm-hails-trade-pact-with-india-57-tariff-free-from-day-one/articleshow/132282610.cms",
-    "time": "2026-07-09T12:42:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -405,15 +414,6 @@ const newsData_en = [
     "time": "2026-07-09T12:17:07.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Centre allowing oil companies to make illegitimate profit': Arvind Kejriwal on fuel prices",
-    "desc": "Arvind Kejriwal criticized the Centre for high fuel prices. He stated petrol prices should drop from Rs 102 to Rs 82. Kejriwal noted global crude oil prices have declined significantly. He also questioned the impact of E20 ethanol-blended petrol. The AAP leader sought clarifications from automobile manufacturers on fuel concerns.",
-    "img": "https://static.toiimg.com/photo/msid-132286485,imgsize-1022465.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/centre-allowing-oil-companies-to-make-illegitimate-profit-arvind-kejriwal-on-fuel-prices/articleshow/132286379.cms",
-    "time": "2026-07-09T12:14:31.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Tragic! 44-year-old former football player dies after drowning in lake",
     "desc": "Former Romania midfielder Gabriel Muresan has died at 44 after drowning in a lake near Apold, where he had served as mayor since 2020. The Romanian Football Federation and local authorities paid tribute to him. Muresan earned nine caps for Romania, won three league titles and three domestic cups with Cluj, and played in the UEFA Champions League.",
@@ -421,15 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/tragic-44-year-old-former-football-player-dies-after-drowning-in-lake/articleshow/132285092.cms",
     "time": "2026-07-09T12:04:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Telangana HC grants bail to Union minister Bandi Sanjay's son in POCSO case, sets Rs 1 lakh bond",
-    "desc": "The Telangana high court granted regular bail to Bandi Bhagirath, son of Union minister Bandi Sanjay Kumar. He was arrested in May under the POCSO Act and later granted interim bail for exams. The case involves allegations of sexual harassment against a minor girl. Bhagirath denied charges and filed a counter-complaint alleging extortion. Both allegations and counter-allegations are currently under investigation.",
-    "img": "https://static.toiimg.com/photo/msid-132285812,imgsize-91040.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/telangana-hc-grants-bail-to-union-minister-bandi-sanjays-son-in-pocso-case-sets-rs-1-lakh-bond/articleshow/132285744.cms",
-    "time": "2026-07-09T11:48:02.000Z"
   },
   {
     "cat": "Entertainment",
@@ -549,15 +540,6 @@ const newsData_en = [
     "time": "2026-07-09T09:48:08.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Jaaved on why the original Dhamaal initially underperformed",
-    "desc": "Ahead of 'Dhamaal 4', Jaaved Jafferi says he's never nervous before releases and reveals the original 'Dhamaal' wasn't meant to be a franchise—it succeeded later as a cult film. He blames poor marketing for its muted debut, compares it to Star Wars, and calls Dhamaal India's pioneering movie franchise.",
-    "img": "https://static.toiimg.com/photo/msid-132282676,imgsize-171526.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/marketed-like-nirma-instead-of-nike-dhamaal-4-star-jaaved-jafferi-explains-why-the-original-dhamaal-initially-underperformed-at-the-box-office-before-becoming-a-cult-hit/articleshow/132282676.cms",
-    "time": "2026-07-09T09:35:42.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Just unfair': Ashwin slams selectors over Sanju Samson's Zimbabwe snub",
     "desc": "Ravichandran Ashwin voiced strong disapproval of Sanju Samson's exclusion from the T20I squad. He believes frequent team changes create player insecurity and harm the T20 setup. Ashwin questioned the logic behind dropping Samson after a few recent poor scores. He warned that players might focus on self-preservation instead of winning matches. This decision has sparked considerable debate within Indian cricket circles.",
@@ -646,15 +628,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/india-australia-canada-form-tech-triangle-new-pact-to-boost-ai-critical-minerals-and-supply-chains/articleshow/132278776.cms",
     "time": "2026-07-09T06:23:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhimanyu Lamba's pursuit of the American dream",
-    "desc": "Texas Super Kings pacer Abhimanyu Lamba opens up on leaving Rajasthan to pursue cricket in the USA, overcoming homesickness, working as a part-time coach, and earning his place in the Major League Cricket (MLC). He also discussed cricket's rapid growth in America and his dream of one day representing the USA.",
-    "img": "https://static.toiimg.com/photo/msid-132277726,imgsize-135314.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/major-league-cricket/from-rajasthan-to-texas-abhimanyu-lambas-pursuit-of-the-american-dream-exclusive/articleshow/132277487.cms",
-    "time": "2026-07-09T05:32:01.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +871,32 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/india-is-the-only-market-now-that-japanese-investors-are-keen-about-suzuki-backed-next-bharat-ventures-announces-a-new-200-mn-fund-in-india/article71190376.ece",
     "time": "2026-07-07T14:49:52.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Stock markets snap four-day rally amid profit booking; Trent tumbles over 12%",
+    "desc": "The 50-share NSE Nifty dipped 31.65 points, or 0.13%, to end at 24,398.70. Sensex and Nifty had rallied more than 2% in the last four sessions to hit more than two-month high levels on Monday (July 6, 2026)",
+    "img": "https://th-i.thgim.com/public/incoming/z7ipfl/article71193498.ece/alternates/LANDSCAPE_1200/2025-11-07T065921Z_1148292179_RC2USDAMZK08_RTRMADP_3_INDIA-STOCKS-FLOWS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/markets/stock-markets-snap-four-day-rally-amid-profit-booking-trent-tumbles-over-12/article71193434.ece",
+    "time": "2026-07-07T13:08:06.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
   }
 ];

@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "France qualify for FIFA World Cup 2026 semis with 2-0 win over Morocco, who will they play next?",
+    "desc": "France booked their place in the FIFA World Cup 2026 semifinals with a composed 2-0 victory over Morocco in the quarterfinals. Kylian Mbappe and Ousmane Dembele scored within six minutes of each other after the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/france-qualify-for-fifa-world-cup-2026-semis-with-2-0-win-over-morocco-who-will-they-play-next-2026-07-10-1047747",
+    "time": "2026-07-09T22:14:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Ismail Saibari not playing Morocco vs France in FIFA World Cup 2026 quarterfinal?",
+    "desc": "Morocco are without one of their most influential attacking players as they face France in the FIFA World Cup 2026 quarter-final after Ismael Saibari was ruled out of the high-profile encounter because of a hamstring...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/why-is-ismail-saibari-not-playing-morocco-vs-france-in-fifa-world-cup-2026-quarterfinal-2026-07-10-1047746",
+    "time": "2026-07-09T20:06:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "France make it to semi-final with 2-0 win over Morocco",
+    "desc": "France and Morocco will renew their World Cup rivalry when they meet in the FIFA World Cup 2026 quarter-finals, with a place in the last four at stake. Both sides negotiated difficult knockout ties, but...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/fra-vs-mor-fifa-world-cup-live-france-vs-morocco-score-commentary-highlights-playing-xi-discussion-1047745",
+    "time": "2026-07-09T19:41:09.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India’s batting unit flops again vs England, suffers back-to-back T20I series for first time in seven years",
     "desc": "India's hope of staging a comeback in the fourth T20I at the County Ground in Bristol evaporated as another insipid batting display paved the way for a crushing nine-wicket defeat, handing England a 3-0 lead...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-demands-more-test-matches-for-india-women-s-ahead-of-historic-lord-s-test-against-england-2026-07-09-1047722",
     "time": "2026-07-09T15:00:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How did England breach ICC's anti-corruption code with release of Ben Stokes' retirement video?",
-    "desc": "The International Cricket Council (ICC) has issued an official letter to the England and Wales Cricket Board (ECB) over a potential protocol breach involving a social media video of Ben Stokes. Notably, ECB uploaded a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-did-england-breach-icc-s-anti-corruption-code-with-release-of-ben-stokes-retirement-video-2026-07-09-1047716",
-    "time": "2026-07-09T14:23:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Arnav Paparkar's dream run in Wimbledon boys' singles ends with quarterfinal defeat; know all about him",
-    "desc": "Arnav Paparkar's historic run in the Wimbledon boys' singles ended with a heartbreaking defeat to Jordan Lee at Court 18. Paparkar was the first Indian to have made it to the quarterfinals at the boys'...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/arnav-paparkars-dream-run-in-wimbledon-boys-singles-ends-with-quarterfinal-defeat-know-all-about-him-2026-07-09-1047713",
-    "time": "2026-07-09T13:51:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England vs India 4th T20I pitch report; here's how surface at County Ground, Bristol is expected to play",
-    "desc": "England host India for the fourth T20I of the five-match series at the County Ground as the hosts look to seal a famous series win. Harry Brook's T20 captaincy credentials have been high ever since...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-vs-india-4th-t20i-pitch-report-heres-how-surface-at-county-ground-bristol-is-expected-to-play-2026-07-09-1047709",
-    "time": "2026-07-09T12:50:59.000Z"
   }
 ];
