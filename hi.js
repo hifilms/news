@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "FIFA World Cup quarterfinals for free! Here's how fans can watch France vs Morocco QF without payment in India",
+    "desc": "The FIFA World Cup 2026 quarterfinals are right on the horizon as some major clashes headline the remainder of the knockout phase. Morocco's tactical versatility will be up against Kylian Mbappe and France's might; England's...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/fifa-world-cup-quarterfinals-for-free-heres-how-fans-can-watch-france-vs-morocco-qf-without-payment-in-india-2026-07-09-1047687",
+    "time": "2026-07-09T11:12:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Sanju Samson get a look in? What about Axar Patel? India's Probable Playing XI for 4th England T20I",
+    "desc": "Looking for their first win on their UK tour, India face England in the fourth T20I of the five-match series at the County Ground in Bristol on Thursday, July 9. India's new T20 cycle has...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-sanju-samson-get-a-look-in-what-about-axar-patel-indias-probable-playing-xi-for-4th-england-t20i-2026-07-09-1047679",
+    "time": "2026-07-09T10:22:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Delhi High Court issues summons in Abhishek Sharma's personality rights suit; what is the matter about?",
+    "desc": "The Delhi High Court issued summons to defendants in Abhishek Sharma's personality rights suit and also noted the submission of several offending URLs. The summonses and notices to the defendants were issued by Justice Jyoti Singh...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/delhi-high-court-issues-summons-in-abhishek-sharmas-personality-rights-suit-what-is-the-matter-about-2026-07-09-1047666",
+    "time": "2026-07-09T09:00:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Morocco dealt with major blow as star forward ruled out of World Cup quarterfinal against France",
+    "desc": "Morocco have been dealt a body blow as their star forward Ismael Saibari has been ruled out of the FIFA World Cup 2026 quarterfinal against France on Friday (IST), head coach Mohamed Ouahbi revealed. Saibari,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/morocco-dealt-with-major-blow-as-star-forward-ismael-saibari-ruled-out-of-world-cup-quarterfinal-against-france-2026-07-09-1047655",
+    "time": "2026-07-09T07:34:42.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "ICC contacts ECB over Ben Stokes retirement video; what is the matter?",
     "desc": "The International Cricket Council (ICC) has contacted the England Cricket Board (ECB) over the retirement video of Ben Stokes that was shared by the national board during the third Test against New Zealand in Nottingham....",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/jofra-archer-mocks-flat-tracks-in-india-after-commanding-125-run-win-in-third-t20i-2026-07-08-1047596",
     "time": "2026-07-08T15:07:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "France to meet Morocco, Argentina's date with Switzerland as World Cup quarterfinals beckon",
-    "desc": "As the greatest sporting event reaches its business end, eight teams proceed to the quarter-finals of the FIFA World Cup and will be in a fierce battle to eventually feature in the top four. Four...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/france-to-meet-morocco-argentinas-date-with-switzerland-as-world-cup-quarterfinals-beckon-2026-07-08-1047594",
-    "time": "2026-07-08T15:00:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Egypt registers official complaint to FIFA demanding expulsion of referee after 3-2 defeat to Argentina",
-    "desc": "FIFA has received a formal complaint from the Egyptian Football Association (EFA) after Egypt demanded an investigation into referee Francois Letexier and his entire officiating team following their 3-2 defeat to Argentina at the FIFA...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/egypt-registers-official-complaint-to-fifa-demanding-expulsion-of-referee-after-3-2-defeat-to-argentina-2026-07-08-1047590",
-    "time": "2026-07-08T14:26:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tammy Beaumont, 2017 World Cup's Player of Tournament, to retire after Lord's Test against India",
-    "desc": "Veteran England batter Tammy Beaumont has confirmed that she will be retiring from international cricket after the one-off historic Test match against India at Lord's. Beaumont holds several major records under her belt and will...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/tammy-beaumont-2017-world-cups-player-of-tournament-to-retire-after-lords-test-against-india-2026-07-08-1047583",
-    "time": "2026-07-08T13:07:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pratika Rawal ruled out of India's historic Test against England at Lord's, BCCI names replacement",
-    "desc": "India blow for the Indian women's team, opening batter Pratika Rawal has been ruled out of the upcoming one-off Test against England women at the iconic Lord's, which will mark the first-ever women's Test at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pratika-rawal-ruled-out-of-indias-historic-test-against-england-at-lords-bcci-names-replacement-2026-07-08-1047578",
-    "time": "2026-07-08T12:21:26.000Z"
   }
 ];

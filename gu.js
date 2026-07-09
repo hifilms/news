@@ -1,5 +1,68 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "છેલ્લા 6 મહિનામાં 1.14 લાખ ઘરોમાં પહોંચી આ SUV, વેચાણમાં બની નંબર-1; કિંમત ₹5.70 લાખ",
+    "desc": "ભારતીય માર્કેટમાં ટાટાની કારને ખુબ પસંદ કરવામાં આવે છે. ટાટાની એક કાર ખુબ ધૂમ મચાવી રહી છે, આ કારનું નામ ટાટા પંચ છે. જાન્યુઆરીથી જૂન 2026 સુધી આ કાર દેશની બેસ્ટ-સેલિંગ એસયુવી બની ગઈ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/the-undisputed-king-tata-punch-rules-indian-market-beats-competitors-at-just-5-70-lakh-484069 ",
+    "time": "2026-07-09T11:02:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ચોથી T20માં જીતવા માટે ટીમ ઈન્ડિયાને કરવા પડશે આ 3 કામ, નહીં તો સિરીઝ હાથમાંથી જશે",
+    "desc": "જો ભારતીય ટીમે ઈંગ્લેન્ડ સામેની T20 શ્રેણીમાં પોતાની પ્રથમ જીત નોંધાવવી હોય, તો તેણે આ ત્રણ મોટા કામ કરવા પડશે. ત્યારે આ ત્રણ બાબતો પર એક નજર કરીએ જેના કારણે બ્રિસ્ટલમાં ભારતની જીત નક્કી થઈ જશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-eng-how-team-india-will-win-bristol-t20-match-against-england-484067 ",
+    "time": "2026-07-09T10:43:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "14 વર્ષનો રેકોર્ડ દાવ પર! ઇંગ્લેન્ડ સામે લાજ બચાવવા મેદાને ઉતરશે ટીમ ઈન્ડિયા",
+    "desc": "ભારત અને ઈંગ્લેન્ડ વચ્ચે આજે ચોથી ટી20 મેચ રમાશે. સિરીઝ બચાવવા માટે ભારતીય ટીમે આજે મેચ જીતવી ફરજીયાત છે. નોંધનીય છે કે પાંચ મેચની સિરીઝમાં ભારતીય ટીમ 0-2થી પાછળ છે, જ્યારે એક મેચ વરસાદને કારણે રદ્દ થઈ હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/14-year-old-record-in-danger-can-india-bounce-back-to-save-the-t20i-series-484056 ",
+    "time": "2026-07-09T09:07:38.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Jio ગ્રાહકોની મોજ: માત્ર ₹55માં જુઓ 16 ભાષાઓની 150થી વધુ પ્રીમિયમ ચેનલ્સ, જાણો કઈ રીતે થશે એક્ટિવ",
+    "desc": "જિયોના ગ્રાહકોની તો ભાઈ મોજ પડી ગઈ! હવે ટીવીના રિચાર્જ પાછળ સેંકડો રૂપિયા બગાડવાની જરૂર નથી, કારણ કે જિયો લાવ્યું છે માત્ર ₹55નું 'ઓલ-ઈન-વન' ધમાકા પેક. જિયોસ્ટાર, સોની અને ઈટીવી નેટવર્કની પ્રીમિયમ HD ચેનલો હવે માત્ર ચાના બે કપ જેટલી કિંમતમાં આખો મહિનો તમારા મોબાઈલ સ્ક્રીન પર દોડશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/jio-customers-joy-watch-more-than-150-premium-channels-in-16-languages-%E2%80%8B%E2%80%8Bfor-just-%E2%82%B955-know-how-to-activate-484055 ",
+    "time": "2026-07-09T08:57:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "પૂર-ભૂકંપમાં ઘર થઈ જાય નુકસાનગ્રસ્ત તો ભાડું ભરવું પડશે કે નહીં? જાણો કાયદો શું કહે છે",
+    "desc": "જો તમે ભાડે રહેતા હોવ તો આ તમારા માટે ખુબ મહત્વની માહિતી છે. જ્યારે કુદરતી આફત આવે ત્યારે ભાડાના ઘરને નુકસાન થાય તો આ નુકસાનીવાળા ઘરનું ભાડું ભાડુઆતે ભરવું પડે કે નહી? શું કહે છે કાયદો.....",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/if-your-house-is-damaged-in-a-flood-or-earthquake-will-you-have-to-pay-rent-or-not-check-rules-484052 ",
+    "time": "2026-07-09T08:04:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ફૂટબોલમાં સેન્સર, બેટરી અને પાકિસ્તાનનું કનેક્શન! હાઈ-ટેક બોલનું ચોંકાવનારું રહસ્ય",
+    "desc": "રાઉન્ડ ઓફ 16 પૂરા થયા અને હવે કવાર્ટર ફાઈનલની મેચો શરૂ થશે. પરંતુ શું તમને ખબર છે કે વર્લ્ડ કપમાં ઉપયોગમાં લેવાતા ફૂટબોલમાં સેન્સર અને બેટરી ટેક્નોલોજીનો ઉપયોગ થાય છે અને તેનું કનેક્શન પાકિસ્તાન સાથે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/football-world-cup-pakistan-connection-with-football-used-in-the-2026-football-world-cup-484048 ",
+    "time": "2026-07-09T06:54:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "આ સપ્તાહમાં ઓટીટી પર થશે ધમાલ, zee5 થી લઈ નેટફ્લિક્સ પર રિલીઝ થશે નવી ફિલ્મો",
+    "desc": "આ સપ્તાહમાં બોક્સ ઓફિસથી લઈ ઓટીટી પર નવી ફિલ્મોની ધમાલ જોવા મળશે. સૌથી વધારે તો લોકો સર્ચ કરતાં હોય છે કે ઓટીટી પર શું નવું જોવા જેવું છે. તો ચાલો તમને જણાવીએ આ વીકેન્ડમાં તમે કયા ઓટીટી પ્લેટફોર્મ પર શું જોઈ શકો છો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/ott-release-this-week-zee5-netflix-prime-video-new-hindi-movies-on-ott-484047 ",
+    "time": "2026-07-09T06:49:20.000Z"
+  },
+  {
     "cat": "World",
     "title": "અત્યંત વિનાશકારી મહાતોફાન &amp;#039;બાવી&amp;#039; તબાહી મચાવવા માટે તૈયાર, જાણો ભારત પર શું થશે અસર?",
     "desc": "એક બાજુ જ્યાં દેશમાં ગુજરાત સહિત અનેક વિસ્તારોમાં આકાશી આફત જોવા મળી છે અને અનેક લોકોના જીવ પણ ગયા છે. ત્યારે વધુ એક શક્તિશાળી મહાતોફાનનું જોખમ તોળાઈ રહ્યું છે. આ તોફાન ભારત પર અસર કરશે કે નહીં તે ખાસ જાણો.",
@@ -288,15 +351,6 @@ const newsData_gu = [
     "time": "2026-07-07T07:20:26.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "અમિતાભ બચ્ચનની પોસ્ટ પર ભારે બબાલ: ફ્રાન્સની ફૂટબોલ ટીમ પર આપ્યું વિવાદાસ્પદ નિવેદન!",
-    "desc": "દુનિયાભરમાં ફુટબોલ વિશ્વકપ 2026નો માહોલ છવાયેલો છે. ભારતમાં પણ ફુટબોલના ચાહકો ઓછા નથી. અમિતાભ બચ્ચન પણ આ મેગા ઈવેન્ટની મજા માણી રહ્યાં છે. પરંતુ તેમણે ફ્રાન્સ ટીમ પર જે પોસ્ટ કરી છે, તેના કારણે સોશિયલ મીડિયા પર ટ્રોલ કરવામાં આવી રહ્યાં છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/big-b-sparks-row-amitabh-bachchan-faces-backlash-over-racist-post-on-france-football-team-483828 ",
-    "time": "2026-07-07T05:18:36.000Z"
-  },
-  {
     "cat": "Business",
     "title": "સસ્તા પેટ્રોલ અને ડીઝલની આશા છોડી દો... ટ્રમ્પના અલ્ટીમેટમ અને હોર્મુઝ હુમલાને કારણે ક્રૂડ ઓઇલના ભાવ ફરી વધ્યા, 72 ડોલરને પાર પહોંચ્યો ભાવ",
     "desc": "અમેરિકા-ઈરાન વચ્ચે યુદ્ધવિરામ ચાલુ છે. બંને દેશોએ હાલ પૂરતા તેમના હુમલાઓ બંધ કરી દીધા છે. હોર્મુઝ સ્ટ્રેટ પર બંને દેશો વચ્ચે સર્વસંમતિ ઊભી થઈ રહી હોય તેવું લાગે છે. આ અહેવાલો બાદ, વૈશ્વિક સ્તરે ક્રૂડ ઓઈલના ભાવમાં નોંધપાત્ર ઘટાડો જોવા મળ્યો છે.",
@@ -315,15 +369,6 @@ const newsData_gu = [
     "time": "2026-07-07T03:16:46.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "વર્લ્ડ કપનું સપનું તૂટતાં ધ્રુસકે-ધ્રુસકે રડી પડ્યા રોનાલ્ડો, આ મહાન ખેલાડીની આંસુ જોઈને તમે પણ થઈ જશો ભાવુક, જુઓ Video",
-    "desc": "ક્રિસ્ટિયાનો રોનાલ્ડોને દરેક વ્યક્તિ જાણે છે. રોનાલ્ડોએ પોતાના 20 વર્ષના કરિયરમાં અસંખ્ય સિદ્ધિઓ મેળવી છે, પરંતુ તેના કરિયરની 20 વર્ષ દરમિયાન સૌથી વધુ હાંસલ કરેલી સિદ્ધિઓ પ્રાપ્ત કર્યા વિના સમાપ્ત થઈ. પ્રી-ક્વાર્ટર ફાઇનલમાં સ્પેન સામે હાર્યા બાદ પોર્ટુગલ ફૂટબોલ વર્લ્ડ કપ 2026માંથી બહાર થઈ ગયું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ronaldo-burst-into-tears-as-his-world-cup-dream-was-shattered-you-too-will-get-emotional-after-seeing-the-eyes-of-this-great-player-483811 ",
-    "time": "2026-07-07T03:13:04.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "કરોડો મોબાઇલ યુઝર્સને લાગશે ઝટકો! 15% સુધી વધી શકે છે તમારું મોબાઇલ બિલ; જાણો શું છે કારણ?",
     "desc": "એક રિપોર્ટ અનુસાર, માર્કેટમાં ઓછી કંપનીઓ અને અનુકૂળ બિઝનેસ વાતાવરણને કારણે ટેલિકોમ કંપનીઓ મોબાઇલ ટેરિફના ભાવમાં વધારો કરવાની તૈયારી કરી રહી છે. હાલમાં બજારમાં ત્રણ મોટી પ્રાઇવેટ અને એક સરકારી કંપની જ રેસમાં સામેલ છે.",
@@ -331,15 +376,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/millions-of-mobile-users-will-feel-a-shock-your-mobile-bill-may-increase-by-up-to-15-percent-know-what-is-the-reason-483795 ",
     "time": "2026-07-06T16:26:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ઝિમ્બાબ્વે પ્રવાસ માટે ભારતીય ટીમની જાહેરાત, રિંકુ સિંહની વાપસી... વૈભવ સૂર્યવંશી બહાર ?",
-    "desc": "ઝિમ્બાબ્વે પ્રવાસ માટે પસંદ કરાયેલી ટીમ પરથી સ્પષ્ટ થાય છે કે ભારતીય પસંદગીકારો ભવિષ્ય પર નજર રાખીને યુવા ખેલાડીઓને વધુ તકો પૂરી પાડવા માંગે છે. આ વખતે 4 નવા ચહેરાઓને તક આપવામાં આવી છે, તો વૈભવ સૂર્યવંશીને ટીમમાં સ્થાન મળ્યું છે કે નહીં, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/team-india-squad-announced-for-t20-series-against-zimbabwe-483792 ",
-    "time": "2026-07-06T14:43:55.000Z"
   },
   {
     "cat": "Politics",
@@ -522,15 +558,6 @@ const newsData_gu = [
     "time": "2026-07-05T11:53:54.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "રામ મંદિરના દાન ચોરી વિવાદ પર પહેલી વાર બોલ્યા મોહન ભાગવત, જાણો RSS વડાએ શું કહ્યું?",
-    "desc": "રાષ્ટ્રીય સ્વયંસેવક સંઘ (RSS)ના વડા મોહન ભાગવતે અયોધ્યા રામ મંદિરમાં દાનપેટીઓની ચોરીના વિવાદ પર એક મોટું નિવેદન આપ્યું છે. નાગપુરમાં મીડિયા સાથે વાત કરતા, તેમણે RSSના મહાસચિવ દત્તાત્રેય હોસાબલેના નિવેદનને ટાંકીને ગુનેગારો સામે કડક કાર્યવાહી કરવાની હાકલ કરી. આ મામલે RSSના વડાનું વલણ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/mohan-bhagwat-spoke-for-the-first-time-on-the-ram-temple-donation-theft-controversy-know-what-the-rss-chief-said-483676 ",
-    "time": "2026-07-05T11:53:11.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "અભિનેત્રી સુમોના ચક્રવર્તીએ કરાવી એન્ડોમેટ્રિયોસિસ સર્જરી, જાણો શું છે આ સમસ્યા",
     "desc": "અભિનેત્રી સુમોના ચક્રવર્તી જે છેલ્લા કેટલાક સમયથી સોશિયલ મીડિયા અને લાઈમલાઈટથી દુર હતી તે હવે સોશિયલ મીડિયા પર એક્ટિવ થઈ છે અને તેણે જણાવ્યું છે કે તે 2 મહિનાથી હેલ્થ ઈસ્યુથી પરેશાન હતી. તેને એન્ડોમેટ્રિયોસિસની સમસ્યા હતી અને તેણે હવે ઓપરેશન કરાવ્યું છે. આ સમસ્યા શું છે અને હવે અભિનેત્રીની હાલત કેવી છે ચાલો જાણીએ.",
@@ -592,59 +619,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/how-many-days-can-you-drive-after-puc-expires-know-the-correct-rule-otherwise-you-will-face-a-huge-fine-483474 ",
     "time": "2026-07-03T10:17:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "આલિયા ભટ્ટની ફિલ્મ આલ્ફાની ટિકિટ ખરીદવાનો ખર્ચો કરતાં પહેલા જાણો ફિલ્મ જોવા જેવી છે કે નહીં ?",
-    "desc": "આલિયા ભટ્ટની મચઅવેટેડ ફિલ્મ આલ્ફા આજે થિયેટરમાં રિલીઝ થઈ ચુકી છે. આ ફિલ્મને લઈને સોશિયલ મીડિયા પર ભારે બઝ ક્રિએટ કરવામાં આવ્યો હતો. ફિલ્મ રિલીઝ થયાની સાથે ફિલ્મને લઈને લોકોના અને ક્રિટીક્સના રિએકશન સામે આવવા લાગ્યા છે. તો ચાલો તમને પણ જણાવીએ આલ્ફા ફિલ્મ કેવી છે ?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/alpha-movie-review-is-alia-bhatt-spy-thriller-film-alpha-kaisi-hai-jane-483460 ",
-    "time": "2026-07-03T07:50:27.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ઈ-રિક્ષા ચાલકો માટે રાહતના સમાચાર: અકસ્માતનો ભય ઉભી કરતી ચાઈનીઝ &amp;#039;BAT BMS&amp;#039; એપ પર સરકારે લીધું મોટું એક્શન",
-    "desc": "BAT BMS App દ્વારા કેટલાક લોકો મોજ-મસ્તી કરવા માટે ઈ રિક્ષા ચાલકોને પરેશાન કરવા માટે રસ્તામાં રિક્ષા રોકી દેતા હતા. જેનાથી અકસ્માતનો ભય ઉભો થયો હતો. હવે સરકારે કાર્યવાહી કરતા આ એપ પર પ્રતિબંધ લગાવી દીધો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/bat-bms-app-ban-govt-intervenes-after-viral-videos-show-e-rickshaws-being-halted-remotely-483454 ",
-    "time": "2026-07-03T07:10:55.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ટેરિફ તો ખરું...પરંતુ ટ્રમ્પ પોતે પણ ભારતમાંથી મેળવી રહ્યા છે લખલૂટ આવક, એક જ વર્ષમાં કરી બંપર કમાણી",
-    "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે ટેરિફ દ્વારા તો ભારત પાસેથી અમેરિકાને સારી એવી કમાણી કરાવી છે પરંતુ આ સાથે સાથે તેઓ પોતે પણ ભારતમાંથી મબલક કમાણી કરી રહ્યા છે. ફક્ત લાઈસન્સિંગથી જ તેમણે જંગી આવક મેળવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/us-president-donald-trump-income-from-india-year-2025-483452 ",
-    "time": "2026-07-03T06:50:22.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Hyundaiની ₹5.60 લાખની કાર થઈ સસ્તી, કંપની ₹70,000નું આપી રહી છે ડિસ્કાઉન્ટ",
-    "desc": "હ્યુન્ડાઇની સૌથી સસ્તી આ કારની એક્સ-શોરૂમ કિંમત ₹5,59,700થી ₹8,04,300 સુધીની છે. ભારતીય બજારમાં તે મારુતિ સ્વિફ્ટ, મારુતિ વેગનઆર, મારુતિ સેલેરિયો અને ટાટા ટિયાગો જેવી કાર સાથે સીધી સ્પર્ધા કરે છે. ત્યારે કઈ કાર પર ડિસ્કાઉન્ટ મળી રહ્યું છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/hyundai-i10-discount-price-cut-upto-rs-70000-know-latest-price-483404 ",
-    "time": "2026-07-02T15:40:11.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ભારતની 5 સૌથી સુરક્ષિત કાર, કિંમત માત્ર  ₹5.50 લાખથી શરૂ, જાણો ફીચર્સ",
-    "desc": "જો નવી કાર ખરીદવાનો પ્લાન બનાવી રહ્યાં છો તો માત્ર ફીચર્સ અને માઇલેજ નહીં, તેની સેફ્ટી પણ જરૂર જુઓ. ભારતમાં ઘણી કારોને Bharat NCAP અને Global NCAP માં 5-સ્ટાર રેટિંગ હાસિલ કર્યું છે. જાણો કઈ કાર તમારા બજેટ અને સુરક્ષા બંને માટે સૌથી સારી સાબિત થઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/top-5-star-safety-rated-cars-in-india-starting-from-5-50-lakh-483362 ",
-    "time": "2026-07-02T06:53:07.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "વોટ્સએપ યુઝરનેમ અંગે સરકારની કાર્યવાહી, Metaને ફટકારી નોટિસ, 3 દિવસમાં આપવો પડશે જવાબ",
-    "desc": "વોટ્સએપ એક નવા ફીચરને લઈને વિવાદમાં ફસાઈ ગયું છે. કંપનીએ તાજેતરમાં યુઝર્સ માટે યુઝરનેમ ફીચર લોન્ચ કર્યું હતું, જેના કારણે સરકારે ચિંતા વ્યક્ત કરી હતી અને આ બાબતે મેટાને નોટિસ ફટકારી છે અને 3 દિવસમાં જવાબ આપવા કહેવામાં આવ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/whatsapp-username-feature-india-government-issues-notice-483329 ",
-    "time": "2026-07-01T15:48:27.000Z"
   }
 ];
