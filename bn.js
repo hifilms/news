@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "‘বিশ্বাস করুন রাজনৈতিক কথা হয়নি’, কী নিয়ে কথা হল মুখ্যমন্ত্রীর সঙ্গে? জানালেন প্রসেনজিৎ",
+    "desc": "\"বিশ্বাস করুন কোনও রাজনৈতিক কথা হয়নি!\" অমিত শাহের পর এবার মুখ্যমন্ত্রী শুভেন্দু অধিকারীর সঙ্গে বৈঠক প্রসেনজিৎ চ্যাটার্জির। নবান্নে কেন গেলেন 'ইন্ডাস্ট্রি'? টলিউডে কি আসতে চলেছে কোনও বড় বদল? নাকি নেপথ্যে রয়েছে মহানায়ক উত্তম কুমারের ১০০ বছরের বিশেষ পরিকল্পনা? জল্পনা ওড়ালেন স্বয়ং বুম্বাদা।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/prosenjit-chatterjee-meets-cm-suvendu-adhikari-at-nabanna-dismisses-political-rumors_661700.html ",
+    "time": "2026-07-09T16:12:42.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "দু'রাতে ১৭০টি টার্গেটে ভয়ংকর আঘাত! খামেনির শোকযাত্রার আবহেও নির্মম ট্রাম্প, ইরানে ব্যাপক হামলা আমেরিকার",
+    "desc": "ছবি পোস্ট করে ট্রাম্প বলেন, এটি মঙ্গলবার জাহাজে ইরানের বোমাবর্ষণের প্রতিশোধ। যদি এরকম আবার ঘটে, তবে পরিস্থিতি আরও খারাপ হবে! এর কয়েক ঘণ্টা আগেই যদিও তিনি বলেছিলেন, এই হামলা দীর্ঘমেয়াদি যুদ্ধের দিকে যাবে না, বরং সেটা হবে খুবই দ্রুতগতির। এর অর্থ?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/united-states-launched-sweeping-wave-of-strikes-across-iran-hitting-170-military-linked-targets_661697.html ",
+    "time": "2026-07-09T15:15:23.000Z"
+  },
+  {
     "cat": "World",
     "title": "তুমি জানো, তোমাকে কী করতে হবে, চালিয়ে যাও: বলেই উড়ন্ত বিমান থেকে নীচে বীভৎস মরণঝাঁপ, উফ্!",
     "desc": "নিহতের নাম লিয়ান্দ্রো আন্দ্রেস বেরতাজ্জো। যিনি অত্যন্ত অভিজ্ঞ এক ফ্লাইট ইন্সট্রাক্টর ছিলেন। তিনি সহসা একাজ করলেন কেন? জানা গিয়েছে, বেরতাজ্জো ‘সেসনা ১৫০’ মডেলের এক প্রশিক্ষণ-বিমানে রোজারিও নামের ২২ বছর বয়সি এক ছাত্রকে নিয়ে আকাশে উড়ছিলেন। ব্যস, তারপরই...",
@@ -250,15 +268,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/deadliest-earthquake-1556-shaanxi-earthquake-central-china-killed-an-estimated-830000-people_660791.html ",
     "time": "2026-07-02T11:15:21.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ট্রাম্পের মুখে ছাই দিয়ে আমেরিকাবাসী ভারতীয়দের জন্য বিরাট সুখবর! বার্থরাইট সিটিজেনশিপ নিয়ে বড় রায় সুপ্রিম কোর্টের",
-    "desc": "ট্রাম্পের মুখে ছাই দিয়ে আমেরিকাবাসী ভারতীয়দের জন্য এল বিরাট সুখবর! সুপ্রিম কোর্টের নির্দেশে অনাবাসীরা, যারা এইচ-১বি ভিসায় রয়েছেন, যাঁরা নাগরিকত্বের অপেক্ষা করছেন, তাঁদের যদি সন্তান আমেরিকায় জন্মায়, তাহলে তারা জন্মগত ভাবেই মার্কিন নাগরিকত্ব পাবেন। বিরাট খবর!",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/us-supreme-court-on-birthright-citizenship-why-indians-will-benefit-most-explained_660774.html ",
-    "time": "2026-07-02T09:56:06.000Z"
   },
   {
     "cat": "Entertainment",

@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why is Varun Chakaravarthy not playing India vs England 4th T20I in Bristol?",
+    "desc": "India were forced to make two changes to the playing XI for the fourth T20I against England at the County Ground in Bristol. Captain Shreyas Iyer confirmed that Varun Chakaravarthy and Harshit Rana have been...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-varun-chakaravarthy-not-playing-india-vs-england-4th-t20i-in-bristol-2026-07-09-1047732",
+    "time": "2026-07-09T16:19:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India bat first in Bristol, eye to save series after being 2-0 down",
+    "desc": "India head into the fourth T20I against England in Bristol on Thursday, July 9, with their backs firmly against the wall. They now desperately need victory to keep the five-match series alive after a crushing...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-4th-t20i-live-score-india-vs-england-live-commentary-highlights-playing-xis-update-score-2026-07-09-1047727",
+    "time": "2026-07-09T15:47:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harmanpreet Kaur demands more Test matches for India women's ahead of historic Lord's Test against England",
+    "desc": "Ahead of the one-off Test against England at the iconic Lord’s, India captain Harmanpreet Kaur has requested administrators to increase the number of red-ball matches in women’s cricket. Notably, the upcoming game marks only the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-demands-more-test-matches-for-india-women-s-ahead-of-historic-lord-s-test-against-england-2026-07-09-1047722",
+    "time": "2026-07-09T15:00:05.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "How did England breach ICC's anti-corruption code with release of Ben Stokes' retirement video?",
     "desc": "The International Cricket Council (ICC) has issued an official letter to the England and Wales Cricket Board (ECB) over a potential protocol breach involving a social media video of Ben Stokes. Notably, ECB uploaded a...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/delhi-high-court-issues-summons-in-abhishek-sharmas-personality-rights-suit-what-is-the-matter-about-2026-07-09-1047666",
     "time": "2026-07-09T09:00:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Morocco dealt with major blow as star forward ruled out of World Cup quarterfinal against France",
-    "desc": "Morocco have been dealt a body blow as their star forward Ismael Saibari has been ruled out of the FIFA World Cup 2026 quarterfinal against France on Friday (IST), head coach Mohamed Ouahbi revealed. Saibari,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/morocco-dealt-with-major-blow-as-star-forward-ismael-saibari-ruled-out-of-world-cup-quarterfinal-against-france-2026-07-09-1047655",
-    "time": "2026-07-09T07:34:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC contacts ECB over Ben Stokes retirement video; what is the matter?",
-    "desc": "The International Cricket Council (ICC) has contacted the England Cricket Board (ECB) over the retirement video of Ben Stokes that was shared by the national board during the third Test against New Zealand in Nottingham....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/icc-contacts-ecb-over-ben-stokes-retirement-video-what-is-the-matter-2026-07-09-1047643",
-    "time": "2026-07-09T06:40:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Marquee Bangladesh batter ruled out of ODI series vs Zimbabwe, BCB announces replacement",
-    "desc": "Bangladesh have suffered a major setback in their ongoing ODI series against Zimbabwe after keeper-batter Litton Das has been ruled out of the remainder of the three-match contest due to a hamstring injury. He was...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/marquee-bangladesh-batter-ruled-out-of-odi-series-vs-zimbabwe-bcb-announces-replacement-2026-07-08-1047611",
-    "time": "2026-07-08T18:09:44.000Z"
   }
 ];
