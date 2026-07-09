@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "ICC contacts ECB over Ben Stokes retirement video; what is the matter?",
+    "desc": "The International Cricket Council (ICC) has contacted the England Cricket Board (ECB) over the retirement video of Ben Stokes that was shared by the national board during the third Test against New Zealand in Nottingham....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/icc-contacts-ecb-over-ben-stokes-retirement-video-what-is-the-matter-2026-07-09-1047643",
+    "time": "2026-07-09T06:40:24.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Marquee Bangladesh batter ruled out of ODI series vs Zimbabwe, BCB announces replacement",
     "desc": "Bangladesh have suffered a major setback in their ongoing ODI series against Zimbabwe after keeper-batter Litton Das has been ruled out of the remainder of the three-match contest due to a hamstring injury. He was...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pratika-rawal-ruled-out-of-indias-historic-test-against-england-at-lords-bcci-names-replacement-2026-07-08-1047578",
     "time": "2026-07-08T12:21:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "FBI launches probe against Argentina Football fed over money laundering amid FIFA World Cup 2026",
-    "desc": "Amidst the FIFA World Cup 2026, the Federal Bureau of Investigation (FBI) has reportedly begun examining financial operations linked to the Argentine Football Association (AFA) in the United States over allegations of possible money laundering. According...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/fbi-launches-probe-against-argentina-football-fed-over-money-laundering-amid-fifa-world-cup-2026-2026-07-08-1047577",
-    "time": "2026-07-08T12:09:22.000Z"
   }
 ];
