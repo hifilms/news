@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "ઈંગ્લેન્ડ સામેની સિરીઝ વચ્ચે સંજુ સેમસનનો મોટો નિર્ણય... હવે આ T20 લીગમાં નહીં રમે",
+    "desc": "ઈંગ્લેન્ડ સામે ચાલી રહેલી T20 સિરીઝ વચ્ચે સંજુ સેમસનને લઈને એક મોટા સમાચાર સામે આવ્યા છે. સંજુ સેમસન હવે કેરળ ક્રિકેટ લીગ (KCL)ની ત્રીજી સીઝનમાં રમતો જોવા મળશે નહીં. તેણે આ સીઝનની ઓક્શનમાં પોતાનું નામ નોંધાવ્યું ન હોવાના અહેવાલ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/sanju-samson-big-decision-withdraws-name-from-kcl-auction-2026-484088 ",
+    "time": "2026-07-09T14:38:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "15 જુલાઈ સુધી આ વિસ્તારોને ધમરોળશે વરસાદ, હવામાન વિભાગની મોટી આગાહી",
+    "desc": "દેશભરમાં ચોમાસુ બરાબર જામી ગયું છે. 9 જુલાઈથી 15 જુલાઈ દરમિયાન ઉત્તર અને પૂર્વીય પ્રદેશોમાં ભારે વરસાદ અને તોફાનનો દોર ચાલુ રહેવાની શક્યતા છે. હવામાન વિભાગે ઉત્તરાખંડ, ઉત્તર પ્રદેશ અને દિલ્હી સહિત અનેક રાજ્યોમાં ભારે વરસાદ અને 60 કિમી/કલાકની ઝડપે પવન ફૂંકાવાની આગાહી કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/imd-rain-alert-heavy-rains-forecast-in-15-states-till-july-15-gujarat-weather-484085 ",
+    "time": "2026-07-09T13:44:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "તિલક પર આટલી મહેરબાની કેમ ? સંજુને મળી શકે છે વધુ એક તક... પ્લેઈંગ ઈલેવનમાં થશે ફેરફાર",
+    "desc": "ઇંગ્લેન્ડ સામેની ચોથી ટી20 મેચમાં ભારત માટે કરો યા મરો જેવી સ્થિતિ છે. સતત હાર અને ત્રીજી મેચમાં 76 રનમાં ઓલઆઉટ થયા બાદ પ્લેઇંગ ઇલેવનમાં ફેરફાર લગભગ નક્કી જ છે. સંજુ સેમસનની વાપસી થઈ શકે છે, જ્યારે વોશિંગ્ટન સુંદરને પણ તક મળી શકે છે. ગૌતમ ગંભીરનો તિલક વર્મા પર વિશ્વાસ પણ ચર્ચાનો વિષય બન્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-eng-4th-t20-team-india-probable-playing-xi-tilak-varma-sanju-samson-484073 ",
+    "time": "2026-07-09T12:23:35.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "₹2000ની નોટને લઈને RBIએ હમણાં જ આપી મહત્વની જાણકારી, તુરંત વાંચો આ સમાચાર",
+    "desc": "2016 માં નોટબંધી બાદ સરકાર 2000 રૂપિયાની નોટ લાવી હતી. પરંતુ બાદમાં આ નોટને પણ બંધ કરી દેવામાં આવી હતી. પરંતુ હજુ ઘણા લોકો પાસે આ નોટ છે. આવો જાણીએ તેનું તમે શું કરી શકો છો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/2000-rupee-note-rbi-issues-important-guidelines-just-now-read-immediate-update-here-484072 ",
+    "time": "2026-07-09T12:13:57.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "છેલ્લા 6 મહિનામાં 1.14 લાખ ઘરોમાં પહોંચી આ SUV, વેચાણમાં બની નંબર-1; કિંમત ₹5.70 લાખ",
     "desc": "ભારતીય માર્કેટમાં ટાટાની કારને ખુબ પસંદ કરવામાં આવે છે. ટાટાની એક કાર ખુબ ધૂમ મચાવી રહી છે, આ કારનું નામ ટાટા પંચ છે. જાન્યુઆરીથી જૂન 2026 સુધી આ કાર દેશની બેસ્ટ-સેલિંગ એસયુવી બની ગઈ છે.",
@@ -306,15 +342,6 @@ const newsData_gu = [
     "time": "2026-07-07T09:00:34.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ફૂટબોલના મહાન ખેલાડીઓ જે ક્યારેય વર્લ્ડ કપની ટ્રોફી ન ઉઠાવી શક્યા: રોનાલ્ડો અને નેમાર પણ આ યાદીમાં સામેલ",
-    "desc": "ફુટબોલ વિશ્વકપ 2026મા 24 કલાકની અંદર બે સ્ટાર ફુટબોલરોનું વિશ્વકપ જીતવાનું સપનું અધૂરુ રહી ગયું. પહેલા નોર્વેએ બ્રાઝિલને હરાવી નેમારનું દિલ તોડ્યું અને હવે સ્પેને પોર્ટુગલને હરાવી ક્રિસ્ટિયાનો રોનાલ્ડોને તેવું દુખ આપ્યું, જેને તે ક્યારેય ભૂલી શકશે નહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/after-neymar-ronaldo-dream-shattered-5-football-legends-who-never-won-the-world-cup-483860 ",
-    "time": "2026-07-07T08:51:31.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "E20 પેટ્રોલ કે એસિડ? જૂની ગાડીઓના આ પાર્ટ્સ ઓગળવા લાગ્યા! ARAI રિપોર્ટમાં સનસનાટીપૂર્ણ ખુલાસો",
     "desc": "ભારતમાં મળી રહેલા E20 પેટ્રોલે જૂની ગાડીઓના માલિકાને ટેન્શનમાં મૂકી દીધા છે. ARAIનો લેટેસ્ટ રિપોર્ટ કહે છે કે E20 પેટ્રોલના વપરાશથી ગૈર સર્ટિફાઈડ વાહનોના રબર પાર્ટસ ખરાબ થવા અને ઓછી માઈલેજનો ખતરો સામે આવ્યો છે. જાણી લો શું છે આ રિપોર્ટ...",
@@ -340,15 +367,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/the-e20-petrol-backlash-is-government-planning-a-u-turn-on-e25-blending-amid-mileage-and-engine-failure-claims-483837 ",
     "time": "2026-07-07T07:37:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 કલાક મોડી શરૂ થશે ભારત અને ઇંગ્લેન્ડ વચ્ચેની ત્રીજી T20 મેચ, જાણો ક્યાં જોઈ શકો છો લાઇવ",
-    "desc": "ભારત અને ઇંગ્લેન્ડ વચ્ચેની ત્રીજી T20I મેચ ત્રણ કલાક મોડી શરૂ થશે. પાછલી T20I મેચ સાંજે 7 વાગ્યે શરૂ થઈ હતી, પરંતુ ત્રીજી મેચ રાત્રે 10 વાગ્યે શરૂ થશે. તમે લાઇવ સ્ટ્રીમિંગ ક્યાં જોઈ શકો છો?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/the-third-t20-match-between-india-and-england-will-start-3-hours-late-know-where-you-can-watch-it-live-483839 ",
-    "time": "2026-07-07T07:20:26.000Z"
   },
   {
     "cat": "Business",
@@ -502,15 +520,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/niti-taylor-alliance-reality-show-toxic-boyfriend-slapped-her-and-burn-her-with-cigarette-483717 ",
     "time": "2026-07-06T02:41:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "મુંબઈમાં 3 માળની બિલ્ડિંગ પત્તાની જેમ ધરાશાયી, અનેક લોકો દબાયા હોવાની આશંકા; રેસ્ક્યૂ હાથ ધરાયું",
-    "desc": "મહારાષ્ટ્રની રાજધાની મુંબઈમાં ભારે વરસાદે કહેર મચાવ્યો છે. ભારે વરસાદના કારણે માનખુર્દ વિસ્તારમાં એક બિલ્ડિંગ તૂટી પડી છે. આ બિલ્ડીંગના કાટમાળમાં અનેક લોકો દબાયા હોવાની આશંકા છે. હાલ ઘટનાસ્થળે રાહત અને બચાવ કામગીરી ચાલી રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/building-collapses-due-to-heavy-rains-in-mumbai-many-feared-trapped-rescue-underway-483716 ",
-    "time": "2026-07-05T18:08:42.000Z"
   },
   {
     "cat": "Business",

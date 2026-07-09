@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "তুমি জানো, তোমাকে কী করতে হবে, চালিয়ে যাও: বলেই উড়ন্ত বিমান থেকে নীচে বীভৎস মরণঝাঁপ, উফ্!",
+    "desc": "নিহতের নাম লিয়ান্দ্রো আন্দ্রেস বেরতাজ্জো। যিনি অত্যন্ত অভিজ্ঞ এক ফ্লাইট ইন্সট্রাক্টর ছিলেন। তিনি সহসা একাজ করলেন কেন? জানা গিয়েছে, বেরতাজ্জো ‘সেসনা ১৫০’ মডেলের এক প্রশিক্ষণ-বিমানে রোজারিও নামের ২২ বছর বয়সি এক ছাত্রকে নিয়ে আকাশে উড়ছিলেন। ব্যস, তারপরই...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/jump-from-plane-flight-instructor-jumps-to-death-from-plane-mid-training-student-lands-safely_661670.html ",
+    "time": "2026-07-09T12:13:11.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "মৃত বাবার চাকরি মা কেন পাবে? ৭ লাখ দিয়ে মাকে নির্মম খুন করাল আয়ুষি",
     "desc": "ঘটনার দিন সকালে নিজের ছেলেকে কোচিং সেন্টারে পৌঁছে দিয়ে বাড়ি ফিরছিলেন তিনি। ঠিক সেই সময়েই প্রায় ১৩০ কিলোমিটার গতিতে আসা একটি স্করপিও গাড়ি তাঁকে সজোরে ধাক্কা মারে। প্রত্যক্ষদর্শীদের মতে, গাড়ির ধাক্কায় প্রায় ১০০ ফুট দূরে ছিটকে পড়েন তিনি এবং ঘটনাস্থলেই তাঁর মৃত্যু হয়।",
@@ -250,24 +259,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/us-supreme-court-on-birthright-citizenship-why-indians-will-benefit-most-explained_660774.html ",
     "time": "2026-07-02T09:56:06.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "পুতিনের দেশে তেলের হাহাকার! সংকট মেটাতে ভারত থেকে যাচ্ছে হাজার হাজার টন পেট্রল",
-    "desc": "ইউক্রেনের ড্রোন হামলায় রাশিয়ার প্রধান শোধনাগারগুলো ক্ষতিগ্রস্ত হওয়ায় দেশটিতে তীব্র পেট্রল সংকট দেখা দিয়েছে। পরিস্থিতি সামাল দিতে এবার ভারতের কাছ থেকে সমুদ্রপথে পেট্রোল আমদানি শুরু করেছে ক্রেমলিন। ইতিমধ্যেই অন্তত ৬০ হাজার মেট্রিক টন জ্বালানি ভারত থেকে রাশিয়ার উদ্দেশ্যে রওনা দিয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/russia-turns-to-india-for-fuel-amid-shortages_660773.html ",
-    "time": "2026-07-02T09:26:30.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "দুই বাংলার মানুষের জন্য বড় সুখবর! ফের চাকা গড়াবে ভারত-বাংলাদেশ 'মিতালী' এক্সপ্রেসের",
-    "desc": "রেল সূত্রের খবর, দুই দেশের আধিকারিকদের মধ্যে আলোচনার পর পুনরায় এই ট্রেন চালুর সবুজ সংকেত মিলেছে। মৈত্রী ও বন্ধন এক্সপ্রেসের পর মিতালী এক্সপ্রেস লাইনে ফিরলে দুই দেশের পর্যটন, চিকিৎসা ও ব্যবসা-বাণিজ্যের ক্ষেত্র আরও সুদৃঢ় হবে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/india-bangladesh-train-mitali-express-set-to-resume-agains-kolkata-to-dhakha-service_660749.html ",
-    "time": "2026-07-02T08:02:11.000Z"
   },
   {
     "cat": "Entertainment",

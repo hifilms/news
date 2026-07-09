@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "How did England breach ICC's anti-corruption code with release of Ben Stokes' retirement video?",
+    "desc": "The International Cricket Council (ICC) has issued an official letter to the England and Wales Cricket Board (ECB) over a potential protocol breach involving a social media video of Ben Stokes. Notably, ECB uploaded a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/how-did-england-breach-icc-s-anti-corruption-code-with-release-of-ben-stokes-retirement-video-2026-07-09-1047716",
+    "time": "2026-07-09T14:23:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Arnav Paparkar's dream run in Wimbledon boys' singles ends with quarterfinal defeat; know all about him",
+    "desc": "Arnav Paparkar's historic run in the Wimbledon boys' singles ended with a heartbreaking defeat to Jordan Lee at Court 18. Paparkar was the first Indian to have made it to the quarterfinals at the boys'...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/arnav-paparkars-dream-run-in-wimbledon-boys-singles-ends-with-quarterfinal-defeat-know-all-about-him-2026-07-09-1047713",
+    "time": "2026-07-09T13:51:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England vs India 4th T20I pitch report; here's how surface at County Ground, Bristol is expected to play",
+    "desc": "England host India for the fourth T20I of the five-match series at the County Ground as the hosts look to seal a famous series win. Harry Brook's T20 captaincy credentials have been high ever since...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-vs-india-4th-t20i-pitch-report-heres-how-surface-at-county-ground-bristol-is-expected-to-play-2026-07-09-1047709",
+    "time": "2026-07-09T12:50:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India's pride at stake as more T20 slump looms large against the ones who lifted the Men in Blue once",
+    "desc": "India's T20 pride is at stake. There is no doubt about it now. If the Ireland loss was a one-off failure due to not adjusting to the conditions in the nation, the performances in England...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/indias-pride-at-stake-as-more-t20-slump-looms-large-against-the-ones-who-lifted-the-men-in-blue-once-2026-07-09-1047701",
+    "time": "2026-07-09T12:07:36.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "FIFA World Cup quarterfinals for free! Here's how fans can watch France vs Morocco QF without payment in India",
     "desc": "The FIFA World Cup 2026 quarterfinals are right on the horizon as some major clashes headline the remainder of the knockout phase. Morocco's tactical versatility will be up against Kylian Mbappe and France's might; England's...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/marquee-bangladesh-batter-ruled-out-of-odi-series-vs-zimbabwe-bcb-announces-replacement-2026-07-08-1047611",
     "time": "2026-07-08T18:09:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Who is Arthur Fery? First men's wild card entrant in 25 years to qualify for Wimbledon semis",
-    "desc": "Arthur Fery, who entered as a wildcard participant in Wimbledon 2026, shocked everyone by booking his place in the semi-finals of the competition. On Wednesday, July 8, the 23-year-old defeated ninth seed Flavio Cobolli 6-4,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/who-is-arthur-fery-first-men-s-wild-card-entrant-in-25-years-to-qualify-for-wimbledon-semis-2026-07-08-1047609",
-    "time": "2026-07-08T17:50:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sourav Ganguly set to be inducted into ICC Hall of Fame, thanks ICC, Jay Shah",
-    "desc": "Former India captain Sourav Ganguly is set to be inducted into the ICC Hall of Fame, earning one of cricket's highest individual recognitions on his 54th birthday. With that, the southpaw will become the 12th...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sourav-ganguly-set-to-be-inducted-into-icc-hall-of-fame-thanks-icc-jay-shah-2026-07-08-1047603",
-    "time": "2026-07-08T16:36:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Milton Shumba returns after three years as Zimbabwe announce 15-member squad for T20I series vs Bangladesh",
-    "desc": "Zimbabwe have announced a 15-member squad for the upcoming three-match T20I series against Bangladesh. The Chevrons have included left-arm fast bowler Newman Nyamhuri and top-order batter Milton Shumba in the mix, while retaining the majority...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/milton-shumba-returns-after-three-years-as-zimbabwe-announce-15-member-squad-for-t20i-series-vs-bangladesh-2026-07-08-1047599",
-    "time": "2026-07-08T15:59:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jofra Archer mocks flat tracks in India after commanding 125-run win in third T20I",
-    "desc": "England fast bowler Jofra Archer feels bowling in English conditions is like a return to \"normal\" after bowling on \"easy wickets and smaller boundaries\" in India, particularly during the IPL. Archer’s remarks came after England crushed...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jofra-archer-mocks-flat-tracks-in-india-after-commanding-125-run-win-in-third-t20i-2026-07-08-1047596",
-    "time": "2026-07-08T15:07:43.000Z"
   }
 ];
