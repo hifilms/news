@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why is Youri Tielemans not playing for Belgium in Spain in FIFA World Cup 2026 despite named in starting XI?",
+    "desc": "Belgium have been forced into a late change before their FIFA World Cup 2026 quarter-final against Spain after Youri Tielemans suffered an injury during the warm-up. The Aston Villa midfielder was ruled out of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/why-is-youri-tielemans-not-playing-for-belgium-in-spain-in-fifa-world-cup-2026-despite-named-in-starting-xi-2026-07-11-1047873",
+    "time": "2026-07-10T19:03:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Live action begins, both teams show attacking interests early on",
+    "desc": "Spain will face Belgium in a high-stakes FIFA World Cup 2026 quarter-final in the early hours of Saturday. Playing at the Los Angeles Stadium, both European heavyweights look to secure a place in the last...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/esp-vs-bel-fifa-world-cup-live-spain-vs-belgium-score-highlight-playing-xi-tactical-discussion-commentary-lamine-yamal-kevin-de-bruyne-oyarzabal-1047872",
+    "time": "2026-07-10T18:39:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Pedri not playing Spain vs Belgium FIFA World Cup 2026 quarterfinal in Los Angeles?",
+    "desc": "Pedri has been left on the bench for Spain’s FIFA World Cup 2026 quarter-final against Belgium as coach Luis de la Fuente opted for a change in the midfield. It is purely a tactical call...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/why-is-pedri-not-playing-spain-vs-belgium-fifa-world-cup-2026-quarterfinal-in-los-angeles-2026-07-10-1047869",
+    "time": "2026-07-10T18:10:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jannik Sinner beats Novak Djokovic in straight sets to set date with Zverev in Wimbledon 2026 final",
+    "desc": "Defending champion Jannik Sinner stormed into the Wimbledon 2026 men's singles final with a commanding 6-4, 6-4, 6-4 victory over seven-time champion Novak Djokovic in Friday's semi-final at the All England Club. The world No....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/jannik-sinner-beats-novak-djokovic-in-straight-sets-to-set-date-with-zverev-in-wimbledon-2026-final-2026-07-10-1047866",
+    "time": "2026-07-10T17:44:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Special Olympics Bharat team aims for third consecutive Gothia Cup title, coach shares recruitment process",
+    "desc": "India's Special Olympics Bharat team for athletes with intellectual disabilities left for Sweden on Friday, July 10, to defend its Special Olympics Trophy title at the Gothia Cup 2026. Playing for the first time in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/special-olympics-bharat-team-aims-for-third-consecutive-gothia-cup-title-coach-onaciss-shares-recruitment-process-2026-07-10-1047864",
+    "time": "2026-07-10T17:29:17.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Alexander Zverev ends Arthur Fery's dream run to reach maiden Wimbledon final",
     "desc": "Alexander Zverev ended Arthur Ferry’s remarkable campaign at Wimbledon 2026 and progressed to the final, which will be played on Sunday, July 10. He sealed it with a straight-sets victory, which denied the British wildcard...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ryan-ten-doeschate-weighs-in-on-what-needs-to-change-for-india-after-t20i-series-loss-against-england-2026-07-10-1047831",
     "time": "2026-07-10T12:10:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mustafizur Rahman ruled out of action for four weeks due to hamstring muscle tear",
-    "desc": "In a major blow for Bangladesh cricket, the side’s star pacer Mustafizur Rahman has been ruled out of action for four weeks after sustaining a grade 1 hamstring tear and meniscal degeneration in his right...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mustafizur-rahman-ruled-out-of-action-for-four-weeks-due-to-hamstring-muscle-tear-2026-07-10-1047822",
-    "time": "2026-07-10T11:27:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harry Brook targets No.1 T20I ranking as England chase 4-0 series sweep over India",
-    "desc": "England captain Harry Brook has set his side an ambitious target ahead of the final T20I against India, declaring that a 4-0 series victory and the No.1 spot in the ICC men's T20I rankings are...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harry-brook-targets-no-1-t20i-ranking-as-england-chase-4-0-series-sweep-over-india-2026-07-10-1047811",
-    "time": "2026-07-10T10:12:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Erling Haaland makes massive statement ahead of crucial World Cup clash against 'favourites' England",
-    "desc": "The stage is set for one of the most exciting games in the ongoing FIFA World Cup 2026. England will be taking on Norway. The two sides will meet in the quarter-final of the tournament...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/erling-haaland-makes-massive-statement-ahead-of-crucial-world-cup-clash-against-favourites-england-2026-07-10-1047807",
-    "time": "2026-07-10T09:19:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shreyas Iyer maintains positive intent after third T20I loss, reflects on importance of learning from mistakes",
-    "desc": "The Indian team continued their horrid run of form as they succumbed to yet another loss in the third T20I of the ongoing five-game series against England. The two sides met at the County Ground...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-maintains-positive-intent-after-third-t20i-loss-reflects-on-importance-of-learning-from-mistakes-2026-07-10-1047793",
-    "time": "2026-07-10T07:54:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch the women's one-off Test match on TV and stream online?",
-    "desc": "The stage is set for the one-off Test match between England women and India women. The two sides will meet at Lord’s Cricket Ground in London for the clash from July 10th, and both teams...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-vs-india-live-when-and-where-to-watch-the-women-s-one-off-test-match-on-tv-and-stream-online-in-india-2026-07-10-1047786",
-    "time": "2026-07-10T07:06:10.000Z"
   }
 ];

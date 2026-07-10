@@ -1,5 +1,149 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "FCI makes distilleries accountable for subsidised rice, warns of criminal cases",
+    "desc": "Food Corporation of India has strengthened rules for subsidized rice distribution. Distilleries are now directly accountable for any misuse of this grain. The Food Corporation of India will file criminal cases for diversion or misuse. This move aims to prevent diversion and improve oversight of the ethanol supply chain. New operational guidelines ensure strict utilization of rice for ethanol production.",
+    "img": "https://static.toiimg.com/photo/msid-132319576,imgsize-40400.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/fci-makes-distilleries-accountable-for-subsidised-rice-warns-of-criminal-cases/articleshow/132319583.cms",
+    "time": "2026-07-10T18:52:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "May need to regulate tourist influx to protect Kashmir’s serene beauty: Omar",
+    "desc": "Jammu and Kashmir's Chief Minister acknowledged rising tourist arrivals and suggested regulation. He emphasized protecting natural assets and ensuring visitor experiences remain serene. The Chief Minister advocated for value-based tourism over a volume-based approach. He stressed the importance of implementing tourism master plans with community input. This approach aims for sustainable economic and environmental benefits for future generations.",
+    "img": "https://static.toiimg.com/photo/msid-132318797,imgsize-497288.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/may-need-to-regulate-tourist-influx-to-protect-kashmirs-serene-beauty-omar/articleshow/132318800.cms",
+    "time": "2026-07-10T18:38:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Newlyweds Aamir and Gauri to move into Rs 100 crore family home",
+    "desc": "Days after reportedly tying the knot in an intimate ceremony, Aamir Khan and Gauri Spratt's future home plans have become the talk of the town. Aamir and Gauri, who got married on July 5 at the actor's rented apartment in Mumbai's Pali Hill, are expected to eventually move into a luxurious residence at the redeveloped Marina Apartments in Union Park, Khar.",
+    "img": "https://static.toiimg.com/photo/msid-132319358,imgsize-117424.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/newlyweds-aamir-khan-and-gauri-spratt-to-move-into-rs-100-crore-family-home-with-mother-junaid-azad-and-sisters-report/articleshow/132319303.cms",
+    "time": "2026-07-10T18:36:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "After Farooq’s protest invite, Mirwaiz calls for Art 370 inclusion, BJP shreds NC over 2010 killings",
+    "desc": "Farooq Abdullah invited politicians for a protest demanding Jammu and Kashmir statehood restoration. Mirwaiz Umar Farooq suggested broadening the protest's agenda for political resolution. The BJP rejected the invitation, criticizing the National Conference's past actions. The National Conference is still awaiting permission for the planned protest. Political reactions highlight divisions over the region's future.",
+    "img": "https://static.toiimg.com/photo/msid-132318725,imgsize-62244.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/after-farooqs-protest-invite-mirwaiz-calls-for-art-370-inclusion-bjp-shreds-nc-over-2010-killings/articleshow/132318741.cms",
+    "time": "2026-07-10T18:35:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NIA chargesheets Hurriyat’s Shah, 5 others in 1996 mob violence case",
+    "desc": "The NIA filed a chargesheet against six Hurriyat Conference leaders for 1996 violence. These charges include criminal conspiracy and attempt to murder during a militant's funeral. The agency claims the violence was part of a larger separatist conspiracy. The case was transferred to the NIA from J&K Police in April. A Jammu court rejected Shabir Ahmad Shah's bail plea last week.",
+    "img": "https://static.toiimg.com/photo/msid-132319334,imgsize-124822.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/nia-chargesheets-hurriyats-shah-5-others-in-1996-mob-violence-case/articleshow/132318540.cms",
+    "time": "2026-07-10T18:31:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "DL applications, RC updates among 100 transport services available online",
+    "desc": "The road transport ministry has expanded online services to one hundred from fifty-eight. These new services include driving licence applications and vehicle registration updates. Owners can now apply for driving licences and update their vehicle registration details online. This expansion aims to bring more services under the faceless scheme for citizens. Alternative document submission is available for those not opting for Aadhaar authentication.",
+    "img": "https://static.toiimg.com/photo/msid-132319152,imgsize-27080.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/dl-applications-rc-updates-among-100-transport-services-available-online/articleshow/132319198.cms",
+    "time": "2026-07-10T18:27:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sinner beats Djokovic in straight sets, sets up Wimbledon final clash against Alexander Zverev",
+    "desc": "Jannik Sinner stormed into the Wimbledon final with a straight-sets win over Novak Djokovic and will defend his title against Alexander Zverev. The German reached his maiden Wimbledon final after beating Arthur Fery, saying he believes he can win. Zverev also praised Fery's potential and applauded the Wimbledon crowd for its fair and electric support.",
+    "img": "https://static.toiimg.com/photo/msid-132318594,imgsize-76416.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/jannik-sinner-beats-novak-djokovic-in-straight-sets-sets-up-wimbledon-final-clash-against-alexander-zverev/articleshow/132318556.cms",
+    "time": "2026-07-10T18:09:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mandhana, Harmanpreet and Deepti star as India post 285, reduce England to 21/1 on day 1 at Lord's",
+    "desc": "India posted 285 runs on the opening day of the historic women's Test match. Smriti Mandhana, Harmanpreet Kaur, and Deepti Sharma scored half-centuries for the visitors. England's spinners took wickets, causing a late Indian collapse before stumps. The hosts then lost an early wicket, finishing the day at 21/1. The match remains finely balanced heading into the second day.",
+    "img": "https://static.toiimg.com/photo/msid-132318504,imgsize-273943.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mandhana-harmanpreet-and-deepti-star-as-india-post-285-reduce-england-to-21/1-on-day-1-at-lords/articleshow/132318380.cms",
+    "time": "2026-07-10T18:03:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Nasa’s PIO astronaut Anil Menon to travel to ISS on 8-month mission on Tuesday",
+    "desc": "Anil Menon, an Indian-American astronaut, begins his first space mission. He will spend eight months aboard the International Space Station. Menon will research microgravity's physiological impacts and test new medical technologies. His Indian heritage stems from his father who emigrated from India. He previously supported polio immunisation programmes in India.",
+    "img": "https://static.toiimg.com/photo/msid-132318003,imgsize-688549.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/from-everest-to-space-nasas-pio-astronaut-anil-menon-to-travel-to-iss-on-8-month-mission-on-tuesday/articleshow/132318002.cms",
+    "time": "2026-07-10T17:46:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "As Kashmir varsities cull ‘objectionable’ books, fear of losing academic rigour grows among scholars",
+    "desc": "Political leaders, scholars and varsity professors object to the move citing self-censorship and interference of the state; order comes days after a book, that profiled Kashmiri separatist leaders, was circulated in J&K schools under the national Samagra Shiksha scheme.",
+    "img": "https://th-i.thgim.com/public/incoming/q7zwbf/article71207543.ece/alternates/LANDSCAPE_1200/06_Book_Village_Photo_Frame_%2053.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/as-kashmir-varsitiescull-objectionable-books-fear-of-losing-academic-rigour-grows-among-scholars/article71206379.ece",
+    "time": "2026-07-10T17:32:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Malayalam gets a cosy space in Australian public library",
+    "desc": "The Max Webber Public Library in the Sydney suburbs has opened a Malayalam section featuring 450 titles, following consistent demand from the diaspora. Malayalam has become the seventh Indian language to be represented in the library. Keralites there hope the initiative will help them connect with their culture and language better",
+    "img": "https://th-i.thgim.com/public/incoming/r3j8ph/article71207479.ece/alternates/LANDSCAPE_1200/11tv%20library2.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/malayalam-gets-a-cozy-space-in-australian-public-library/article71206376.ece",
+    "time": "2026-07-10T17:32:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "5 things about Norway’s World Cup history-maker",
+    "desc": "Erling Haaland is making headlines as he propels Norway to an unforgettable World Cup quarter-final by scoring seven goals. Born in England but raised in Norway, his unique background sparks conversations. Haaland, an advocate for social justice, has a notable online presence. Football runs in his blood, as his father was a pro player, and he famously dabbled in rap.",
+    "img": "https://static.toiimg.com/photo/msid-132316986,imgsize-246062.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/5-things-you-probably-didnt-know-about-erling-haaland-the-viking-striker-who-helped-norway-make-fifa-world-cup-history/articleshow/132315752.cms",
+    "time": "2026-07-10T17:06:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Fadnavis ups attack on 'Missing Link' critics, dubs them 'bhatka gardabh', 'suparibaaz'; taunts Raj Thackeray",
+    "desc": "Maharashtra's Chief Minister Devendra Fadnavis has come to the defense of the Mumbai-Pune Expressway project, while also taking aim at critics with disdainful comments. In the assembly, he referred to Raj Thackeray as nothing more than a mimicry artist, cautioning that spreading misinformation tarnishes the reputation of Maharashtra as a whole. His remarks have sparked backlash from opposition leaders, who are quick to challenge his statements.",
+    "img": "https://static.toiimg.com/photo/msid-132316914,imgsize-81486.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/fadnavis-ups-attack-on-missing-link-critics-dubs-them-bhatka-gardabh-suparibaaz-taunts-raj-thackeray/articleshow/132316787.cms",
+    "time": "2026-07-10T16:58:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How much prize money did Arthur Fery win after semi-final defeat to Zverev?",
+    "desc": "Arthur Fery's dream Wimbledon run ended with a semifinal defeat to Alexander Zverev, but the 23-year-old British wildcard enjoyed a career-defining tournament. Reaching the last four more than doubled his previous career prize money of around £650,000 and is set to boost his ATP ranking. Zverev praised Fery, saying he is destined to achieve \"amazing things\" in tennis.",
+    "img": "https://static.toiimg.com/photo/msid-132316857,imgsize-62170.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/wimbledon-2026-how-much-prize-money-did-arthur-fery-win-after-semi-final-defeat-to-alexander-zverev/articleshow/132316776.cms",
+    "time": "2026-07-10T16:56:00.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran has asked to continue talks, and the U.S. agreed, Trump says",
+    "desc": "The U.S. and ​Iran traded strikes this week, with the ⁠Iranian armed forces launching attacks on U.S. military infrastructure in Gulf states ‌on July 9, 2026 following U.S. strikes on Iran’s southern coastal and eastern provinces.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-iran-war-live-updates-ali-khamenei-funeral-ceremony-burial-military-strikes-donald-trump-mojtaba-khamenei-ceasefire-deal/article71205094.ece",
+    "time": "2026-07-10T16:48:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "SRK buys Rs 37 crore property in Delhi which was his first home after marriage with Gauri",
+    "desc": "Shah Rukh Khan now fully owns his Delhi residence. He acquired the upper floors of the Panchsheel Park property. This home holds deep emotional significance for the couple. They began their married life there after their 1991 wedding. Gauri Khan designed the house to preserve family memories.",
+    "img": "https://static.toiimg.com/photo/msid-132316645,imgsize-321457.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-buys-rs-37-crore-property-in-delhi-which-was-his-and-gauri-khans-first-home-after-marriage-in-1991/articleshow/132316505.cms",
+    "time": "2026-07-10T16:38:52.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "'I will keep fighting': Vinicius Jr breaks silence after Brazil's shock World Cup exit",
     "desc": "Vinicius Junior expressed deep disappointment following Brazil's World Cup elimination. The star forward thanked supporters for their unwavering belief and encouragement. Brazil's quest for a sixth World Cup title ended in the Round of 16. This marked their earliest exit from the tournament since nineteen ninety. Vinicius pledged to continue fighting for Brazil's return to football's summit.",
@@ -117,33 +261,6 @@ const newsData_en = [
     "time": "2026-07-10T15:37:54.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Malayalam gets a cosy space in Australian public library",
-    "desc": "The Max Webber Public Library in the Sydney suburbs has opened a Malayalam section featuring 450 titles, following consistent demand from the diaspora. Malayalam has become the sixth Indian language to be represented in the library. Keralites there hope the initiative will help them connect with their culture language better",
-    "img": "https://th-i.thgim.com/public/incoming/r3j8ph/article71207479.ece/alternates/LANDSCAPE_1200/11tv%20library2.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/malayalam-gets-a-cozy-space-in-australian-public-library/article71206376.ece",
-    "time": "2026-07-10T15:23:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Satheesan asks Pinarayi to clarify whether Adani Group took steps to sell stake in Vizhinjam port during LDF rule",
-    "desc": "Chief Minister wants Leader of the Opposition to explain what was the wrongdoing on the part of the present UDF government in relation with the Vizhinjam issue. He says the government will keep the State’s interests at the forefront when taking a decision on Vizhinjam",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/satheesan-asks-pinarayi-to-clarify-whether-adani-group-took-steps-to-sell-stake-in-vizhinjam-port-during-ldf-rule/article71207210.ece",
-    "time": "2026-07-10T15:18:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Drinking water schemes worth ₹9,355 cr. among 30 proposals cleared by A.P. Cabinet",
-    "desc": "Loan waiver of up to ₹1.5 lakh for farmers who will be surrendering land in the second phase of Amaravati capital project, and increase in annuity payments for land pooling agreements also get the nod",
-    "img": "https://th-i.thgim.com/public/incoming/mjh64k/article71207387.ece/alternates/LANDSCAPE_1200/IMG_20260710_110222.jpg.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/drinking-water-schemes-worth-9355-cr-among-30-proposals-cleared-by-ap-cabinet/article71206901.ece",
-    "time": "2026-07-10T15:17:39.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Ronaldo will never be a problem for Portugal': New coach Jesus",
     "desc": "Portugal have appointed Jorge Jesus as head coach following their World Cup exit, replacing Roberto Martinez. Backing Cristiano Ronaldo amid criticism, Jesus said the veteran \"will never be a problem\" and called him \"a symbol of Portuguese football.\" The 71-year-old, who recently coached Ronaldo at Al Nassr, now begins rebuilding Portugal ahead of future international tournaments.",
@@ -187,6 +304,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/watch-sachin-tendulkar-hailed-as-perhaps-the-greatest-batsman-of-all-time-spotted-at-wimbledon-semi-final/articleshow/132313980.cms",
     "time": "2026-07-10T14:24:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "PIL in Punjab and Haryana HC seeks restoration of Diljit Dosanjh-starrer Satluj",
+    "desc": "The PIL said the sudden withdrawal of the film based upon documented historical events and the life of a human rights defender whose case has already been adjudicated upon by constitutional courts has given rise to serious concerns regarding transparency, freedom of artistic expression, and the possible existence of undisclosed executive interference",
+    "img": "https://th-i.thgim.com/public/incoming/psoneg/article71203399.ece/alternates/LANDSCAPE_1200/Still%204.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/pil-in-punjab-haryana-hc-seeks-restoration-of-diljit-dosanjh-starrer-satluj/article71203391.ece",
+    "time": "2026-07-10T13:58:14.000Z"
   },
   {
     "cat": "Politics",
@@ -270,15 +396,6 @@ const newsData_en = [
     "time": "2026-07-10T12:27:23.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'He became very emotional': TN CM Vijay meets Karur stampede victims' families, hands over government jobs",
-    "desc": "In a heartfelt gesture, Tamil Nadu Chief Minister C. Joseph Vijay visited families affected by the Karur stampede disaster. He distributed job appointment orders to eligible dependants as part of rehabilitation efforts, visibly moved by their immense sorrow. This visit coincided with the High Court's evaluation of the government's permanent job appointment policies. Furthermore, Vijay criticized the opposition DMK for allegedly exploiting the tragedy for political gain.",
-    "img": "https://static.toiimg.com/photo/msid-132311631,imgsize-85410.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/he-became-very-emotional-tn-cm-vijay-meets-karur-stampede-victims-families-hands-over-government-jobs/articleshow/132311631.cms",
-    "time": "2026-07-10T12:18:32.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'It's stupid': Norway fan refuses iconic WC Viking Row celebration, explains why",
     "desc": "As Norway cheers for its football team's remarkable journey to the World Cup quarter-finals, fans have adopted a rowing celebration that reflects their Viking roots. This captivating sync has turned heads during the tournament, yet one vigilant fan finds fault with the tribute, suggesting it's a misrepresentation of history and too closely resembles Iceland's beloved clap. His muted protest serves to challenge the celebration's genuine connection to Viking legacy.",
@@ -286,15 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/its-stupid-norway-fan-refuses-iconic-fifa-world-cup-viking-row-celebration-explains-why/articleshow/132311549.cms",
     "time": "2026-07-10T12:13:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "How UDAN 2.0 plans to get India's regional aviation dreams past the turbulence",
-    "desc": "India's UDAN scheme aims to make flying affordable for all citizens. The initial phase connected many smaller cities but faced sustainability challenges. A modified UDAN scheme now focuses on airport development and broader ecosystem support. This new phase includes increased financial aid and indigenous aircraft integration. The government hopes this will create a self-sustaining regional aviation network.",
-    "img": "https://static.toiimg.com/photo/msid-132310709,imgsize-130617.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/course-correcting-how-udan-2-0-plans-to-get-indias-regional-aviation-dreams-past-the-turbulence-explained/articleshow/132309559.cms",
-    "time": "2026-07-10T12:07:20.000Z"
   },
   {
     "cat": "Entertainment",
@@ -315,15 +423,6 @@ const newsData_en = [
     "time": "2026-07-10T11:54:14.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kerala medical student Sawariya Basanth killed over 'forced conversion' claims in Uzbekistan",
-    "desc": "A Kerala medical student was murdered in Uzbekistan by a fellow student. The victim allegedly faced repeated demands to convert her religion before her death. Uzbek authorities have arrested the accused student in connection with the ongoing investigation. Indian authorities are assisting the victim's family and liaising with Uzbek officials. A second post-mortem was conducted in Kerala after the body's repatriation.",
-    "img": "https://static.toiimg.com/photo/msid-132311365,imgsize-72554.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/kerala-medical-student-sawariya-basanth-killed-over-forced-conversion-claims-in-uzbekistan/articleshow/132310952.cms",
-    "time": "2026-07-10T11:50:48.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Boney shares PM Modi's heartfelt wedding wishes",
     "desc": "Filmmaker Boney Kapoor thanked Prime Minister Narendra Modi for his wedding wishes. The Prime Minister sent a congratulatory letter to Anshula Kapoor and Rohan Thakkar. Their wedding ceremony took place on July 6, 2026, with family and friends present. The couple met through a dating application and made their relationship public in 2023. They later got engaged in October 2025 before their wedding.",
@@ -340,15 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/to-beat-india-4-0-would-be-a-pretty-special-harry-brook-throws-down-the-gauntlet-ahead-of-series-finale/articleshow/132310748.cms",
     "time": "2026-07-10T11:36:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Tagging or filtering calls from 1600 series not allowed; can block those from 1400 series:' TRAI",
-    "desc": "TRAI stated that tagging or blocking 1600 series calls is not permitted. These numbers are reserved for banking and government communications. Promotional calls from 1400 series numbers can be blocked via DND. Customers can register preferences on the DND registry for promotional calls. Any tagging of 1400 series calls is disallowed except for DND blocking.",
-    "img": "https://static.toiimg.com/photo/msid-132310453,imgsize-311842.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tagging-or-filtering-calls-from-1600-series-not-allowed-can-block-those-from-1400-series-trai/articleshow/132310446.cms",
-    "time": "2026-07-10T11:20:58.000Z"
   },
   {
     "cat": "Entertainment",
@@ -423,15 +513,6 @@ const newsData_en = [
     "time": "2026-07-10T10:33:48.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "NIA files chargesheet against Shabir Ahmad Shah, five senior Hurriyat leaders",
-    "desc": "The National Investigation Agency filed chargesheet against Shabir Ahmad Shah and five Hurriyat leaders. This case relates to a 1996 incident of mob violence and firing on police. The agency alleged leaders incited violence and raised secessionist slogans during a funeral procession. Evidence collected establishes their roles in the criminal conspiracy and unlawful assembly. The investigation into this 1996 incident is continuing.",
-    "img": "https://static.toiimg.com/photo/msid-132309475,imgsize-220267.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/1996-srinagar-mob-violence-case-nia-files-chargesheet-against-shabir-ahmad-shah-five-senior-hurriyat-leaders/articleshow/132309336.cms",
-    "time": "2026-07-10T10:32:08.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Sairat 2 doesn’t need to get inspired by Dhadak 2: Director Nagraj Manjule clarifies",
     "desc": "Filmmaker Nagraj Manjule, whose 2016 blockbuster 'Sairat' redefined Marathi cinema and inspired the Hindi remake Dhadak (2018) and its 2025 sequel 'Dhadak 2', opens up about whether a 'Sairat 2' is in the works. In a candid chat recently, while promoting his upcoming film 'Frame', Manjule reflected on 'Sairat's simple yet powerful vision, its unexpected Bollywood adaptation, and why fans keep asking him for sequels, to both 'Sairat' and his earlier film 'Fandry.'",
@@ -457,24 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/we-will-definitely-try-to-sort-it-out-bcci-to-review-team-india-immediately-after-england-tour-ends/articleshow/132309090.cms",
     "time": "2026-07-10T10:16:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Polygamy practitioners to lose govt jobs': Assam's budget proposes strict rules",
-    "desc": "Assam's government proposed barring polygamous individuals from state welfare schemes. Government employees practicing polygamy may face dismissal from their service. The state also plans to amend existing rules for disciplinary actions. This initiative aims to promote women's empowerment and gender justice. The government will resume its welfare schemes from August onwards.",
-    "img": "https://static.toiimg.com/photo/msid-132309205,imgsize-514324.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-govt-scheme-benefits-for-polygamy-practitioners-assams-budget-proposes-strict-rules/articleshow/132309212.cms",
-    "time": "2026-07-10T10:15:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'This visit is historic': PM Modi begins first Indian PM visit to New Zealand in four decades; trade, defence on agenda",
-    "desc": "Prime Minister Narendra Modi arrived in Auckland for a historic two-day visit. He was welcomed by New Zealand Prime Minister Christopher Luxon at the airport. Discussions will focus on trade, commerce, and defence cooperation between the nations. This visit follows the recent signing of a Free Trade Agreement in April. Modi will also engage with the Indian diaspora and prominent personalities.",
-    "img": "https://static.toiimg.com/photo/msid-132309154,imgsize-70293.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/this-visit-is-historic-pm-modi-begins-first-indian-pm-visit-to-new-zealand-in-four-decades-trade-defence-on-agenda/articleshow/132308773.cms",
-    "time": "2026-07-10T10:13:03.000Z"
   },
   {
     "cat": "Entertainment",
@@ -513,15 +576,6 @@ const newsData_en = [
     "time": "2026-07-10T09:25:40.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Supreme Court to hear pleas seeking CBI probe on July 13",
-    "desc": "The Supreme Court will hear petitions on July 13 concerning alleged Ram temple donation embezzlement. Three petitions seek a court-monitored CBI probe into financial irregularities. Petitioners also demand a forensic audit of the Trust's entire finances. An investigation is underway in Uttar Pradesh, with eight accused arrested. Temple trust members express faith in the ongoing investigation and administration.",
-    "img": "https://static.toiimg.com/photo/msid-132308102,imgsize-1338740.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ram-mandir-donation-case-supreme-court-to-hear-pleas-seeking-cbi-probe-on-july-13/articleshow/132307868.cms",
-    "time": "2026-07-10T09:20:37.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Kendall Jenner clashes with Kris Jenner over Jacob Elordi romance",
     "desc": "Kendall Jenner is reportedly pushing back against her mother’s intentions regarding her love life. She's considering leaving the reality show if her romance becomes a featured plot. Kris Jenner believes Kendall is exaggerating, while the model insists on maintaining her personal boundaries. This situation emphasizes her quest for autonomy away from the family’s entertainment brand.",
@@ -529,33 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kendall-jenner-is-ready-to-walk-away-from-the-show-to-keep-her-jacob-elordi-romance-private-argues-with-mom-kris-jenner/articleshow/132307938.cms",
     "time": "2026-07-10T09:17:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Taylor Swift's wedding guest list sparks backlash",
-    "desc": "Taylor Swift's wedding to Travis Kelce was a star-studded affair, attracting numerous celebrities. However, whispers emerged about the authenticity of the relationships among many guests, as insiders revealed that some played a quirky game to identify their ties to the bride. Notably, Blake Lively's absence raised eyebrows in a gathering filled with high-profile personalities, and several attendees lacked direct contact with Swift.",
-    "img": "https://static.toiimg.com/photo/msid-132307887,imgsize-441396.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/it-is-humiliating-taylor-swifts-wedding-guest-list-sparks-backlash-reports-claim-most-a-listers-barely-knew-the-bride/articleshow/132307797.cms",
-    "time": "2026-07-10T09:08:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Welcome to the Jungle' BO Day 14 [LIVE]: Chases Rs 130 crore in Week 3",
-    "desc": "'Welcome to the Jungle' starring Akshay Kumar, Suniel Shetty, Arshad Warsi, Paresh Rawal, Disha Patani and Jacqueline Fernandez, is now in its third week at the box office. After a Day 14 collection of Rs 2.15 crore, the film has entered Day 15 with early trends showing a further slowdown in numbers, taking its live India net collection past the Rs 125 crore mark.",
-    "img": "https://static.toiimg.com/photo/msid-132307869,imgsize-81014.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/welcome-to-the-jungle-box-office-collection-day-15-live-akshay-kumar-starrer-chases-new-milestone-of-rs-130-crore-in-week-3-as-domestic-net-cruises-past-rs-125-crore-and-worldwide-gross-crosses-rs-180-crore/articleshow/132307821.cms",
-    "time": "2026-07-10T09:07:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'We would pour extra water...': Sanjay Bangar reveals Virat Kohli's England preparation",
-    "desc": "Former batting coach Sanjay Bangar detailed Virat Kohli's intense preparation methods. Kohli repeatedly practiced in Mumbai to simulate English swing and moisture. This meticulous work helped Indian batsmen succeed in England previously. The team now faces a challenging ODI series after a T20 disappointment. Kohli and Rohit Sharma are expected to lead the batting attack.",
-    "img": "https://static.toiimg.com/photo/msid-132307437,imgsize-230284.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/we-would-pour-extra-water-on-the-pitch-sanjay-bangar-reveals-virat-kohlis-secret-england-preparation/articleshow/132307290.cms",
-    "time": "2026-07-10T08:38:16.000Z"
   },
   {
     "cat": "Entertainment",
@@ -574,15 +601,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/india-lays-out-tariffs-and-quotas-for-uk-vehicles-under-trade-deal/article71205545.ece",
     "time": "2026-07-10T07:58:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kylian Mbappe creates history, becomes first player since 1966 to ...",
-    "desc": "Kylian Mbappe made history with ten or more goal contributions across two FIFA World Cups. He became the youngest player to reach twenty World Cup appearances and goals. Mbappe also rejoined Lionel Messi at the top of the Golden Boot standings. His performance helped France secure a two-nil victory against Morocco. France now advances to face either Spain or Belgium in the semifinals.",
-    "img": "https://static.toiimg.com/photo/msid-132306625,imgsize-30273.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/kylian-mbappe-creates-history-becomes-first-player-since-1966-to-achieve-unique-world-cup-feat/articleshow/132306609.cms",
-    "time": "2026-07-10T07:56:31.000Z"
   },
   {
     "cat": "Sports",
@@ -640,30 +658,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'Dumbfounded. Gobsmacked': Tharoor's scathing reaction to India's England humiliation",
-    "desc": "England secured an emphatic three-nil series victory over India in the T20I matches. Congress MP Shashi Tharoor expressed his profound disappointment and speechlessness following the defeat. Captain Shreyas Iyer acknowledged the team's shortcomings in all aspects of the game. Assistant coach Ryan ten Doeschate admitted India's underperformance in foreign conditions.",
-    "img": "https://static.toiimg.com/photo/msid-132304653,imgsize-291080.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/dumbfounded-gobsmacked-shashi-tharoors-scathing-reaction-to-indias-england-humiliation/articleshow/132304618.cms",
-    "time": "2026-07-10T06:25:33.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "'Really going badly': Doeschate puts onus on India's players to have the mindset to ....",
     "desc": "India's assistant coach Ryan ten Doeschate expressed disappointment with the team's overseas T20I results. The team has now lost consecutive bilateral T20I series against England and Ireland. Ten Doeschate emphasised the need for players to accept underachievement in foreign conditions. He urged the squad to focus on excelling in challenging overseas environments for future tournaments. India aims to avoid a whitewash in the final T20I against England.",
     "img": "https://static.toiimg.com/photo/msid-132304560,imgsize-53553.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/its-really-going-badly-ryan-ten-doeschate-puts-onus-on-indias-players-to-have-the-mindset-to-/articleshow/132304514.cms",
     "time": "2026-07-10T06:19:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Definitely a handball': Morocco coach questions Mbappé goal as VAR no-show sparks debate",
-    "desc": "Morocco's coach questioned a handball in Kylian Mbappé's goal during their World Cup quarter-final loss. He admitted France deserved their victory after a difficult first half for his team. Morocco struggled with possession transitions and lacked creativity against the strong French side. Despite the defeat, the coach believes his team is closing the gap on elite nations.",
-    "img": "https://static.toiimg.com/photo/msid-132303901,imgsize-119480.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/there-definitely-was-a-handball-morocco-coach-questions-mbapp-goal-as-var-no-show-sparks-world-cup-debate/articleshow/132303892.cms",
-    "time": "2026-07-10T05:43:07.000Z"
   },
   {
     "cat": "Entertainment",
@@ -756,15 +756,6 @@ const newsData_en = [
     "time": "2026-07-09T16:08:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "PIL in Punjab and Haryana HC seeks restoration of Diljit Dosanjh-starrer Satluj",
-    "desc": "The PIL said the sudden withdrawal of the film based upon documented historical events and the life of a human rights defender whose case has already been adjudicated upon by constitutional courts has given rise to serious concerns regarding transparency, freedom of artistic expression, and the possible existence of undisclosed executive interference",
-    "img": "https://th-i.thgim.com/public/incoming/psoneg/article71203399.ece/alternates/LANDSCAPE_1200/Still%204.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/pil-in-punjab-haryana-hc-seeks-restoration-of-diljit-dosanjh-starrer-satluj/article71203391.ece",
-    "time": "2026-07-09T15:39:39.000Z"
-  },
-  {
     "cat": "World",
     "title": "Sri Lankan universities close, shift to online classes amid dengue surge",
     "desc": "The National Dengue Control Unit has reported a total of 65,034 dengue cases this year, with capital Colombo accounting for about a fifth of the cases; as many as 45 dengue-related deaths have been recorded as of July 8, 2026.",
@@ -855,15 +846,6 @@ const newsData_en = [
     "time": "2026-07-08T18:55:13.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "FIFA WORLD CUP 2026",
-    "desc": "FOOTBALL | As the quarterfinals beckon, Europe has six teams in the fray ready to add to the continent’s World Cup tally and standing in their way are Messi’s current champion and the African Cup of Nation titlist",
-    "img": "https://th-i.thgim.com/public/incoming/tgsj9v/article71199205.ece/alternates/LANDSCAPE_1200/AFP__20260707__2285095793__v1__HighRes__ArgentinaVEgyptRoundOf16FifaWorldCup2026.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-will-argentina-or-morocco-buck-the-european-push/article71199187.ece",
-    "time": "2026-07-08T15:47:10.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Truecaller says TRAI’s attempt to regulate it makes ‘no sense’",
     "desc": "The regulator had reportedly sought IT Ministry clearance to forbid the caller ID app from displaying warnings next to numbers reported as spam from 140 and 160 series phone numbers, earmarked for promotional calls and banks",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/financial-services-ai-dangers-highlighted-by-uk-regulators-review/article71192093.ece",
     "time": "2026-07-08T02:07:16.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
   }
 ];

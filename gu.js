@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "Innova અને Ertigaનું ટેન્શન વધ્યું! ₹5 લાખ ઓછી કિંમતમાં લોન્ચ થઈ 9 એરબેગવાળી આ શાનદાર 7 સીટર કાર, જાણો",
+    "desc": "ફોક્સવેગને તેની નવી SUV, Tayron લોન્ચ કરી છે. Tayron R-Line ભારતમાં પહેલાથી જ ઉપલબ્ધ હતી, પરંતુ કંપનીએ હવે તેનું Life ટ્રીમ લોન્ચ કર્યું છે, જે જૂના વર્ઝન કરતા 5 લાખ રૂપિયા ઓછી કિંમતે આવે છે. આ કાર 2-લિટર ટર્બો પેટ્રોલ એન્જિન દ્વારા સંચાલિત છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/tensions-between-innova-and-ertiga-have-increased-this-7-seater-car-with-9-airbags-launched-at-a-price-less-than-5-lakh-know-484202 ",
+    "time": "2026-07-10T17:05:08.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Raghav Juyal અને Shehnaaz Gill ના રિલેનશશીપની ચર્ચા 3 વર્ષે ફરી શરુ, રાઘવ-શહેનાઝના વીડિયો થયા વાયરલ",
     "desc": "3 વર્ષ પછી ફરી એકવાર શહેનાઝ ગિલ અને રાઘવ જુયાલના રિલેશનશીપની ચર્ચાઓ તેજ થઈ ગઈ છે. આ ચર્ચાનું કારણ છે કેટલાક વીડિયો જેમાં રાઘવ અને શહેનાઝ વચ્ચેની ખાસ કેમેસ્ટ્રી જોવા મળે છે. શું છે આ મામલો ચાલો તમને જણાવીએ વિગતવાર.",
