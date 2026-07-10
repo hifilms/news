@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Big Bash League's season opener to be played in India, announces PM Modi on Australia tour",
+    "desc": "In a major development, Prime Minister Narendra Modi, on his Australia tour, came forward and announced that the BBL’s (Big Bash League) upcoming season opener clash will be played in India. In what is being...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/big-bash-league-s-season-opener-to-be-played-in-india-announces-pm-modi-on-australia-tour-2026-07-10-1047778",
+    "time": "2026-07-10T06:26:30.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "France qualify for FIFA World Cup 2026 semis with 2-0 win over Morocco, who will they play next?",
     "desc": "France booked their place in the FIFA World Cup 2026 semifinals with a composed 2-0 victory over Morocco in the quarterfinals. Kylian Mbappe and Ousmane Dembele scored within six minutes of each other after the...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-4th-t20i-live-score-india-vs-england-live-commentary-highlights-playing-xis-update-score-2026-07-09-1047727",
     "time": "2026-07-09T15:47:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harmanpreet Kaur demands more Test matches for India women's ahead of historic Lord's Test against England",
-    "desc": "Ahead of the one-off Test against England at the iconic Lord’s, India captain Harmanpreet Kaur has requested administrators to increase the number of red-ball matches in women’s cricket. Notably, the upcoming game marks only the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-demands-more-test-matches-for-india-women-s-ahead-of-historic-lord-s-test-against-england-2026-07-09-1047722",
-    "time": "2026-07-09T15:00:05.000Z"
   }
 ];

@@ -1,6 +1,33 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "વાહનચાલકો માટે મહત્વના સમાચાર! E20 પેટ્રોલથી માઈલેજ અંગે ગડકરીનું મોટું નિવેદન",
+    "desc": "સરકાર તરફથી ઈથેનોલ મિક્સ પેટ્રોલ પર સતત ભાર મૂકાઈ રહ્યો છે. આ બધા વચ્ચે સોશિયલ મીડિયા પર એવા પણ દાવા થઈ રહ્યા છે કે આ ઈંધણથી ગાડીઓને નુકસાન પહોંચે છે. જેના પર નીતિન ગડકરીએ શું કહ્યું તે ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/important-news-nitin-gadkari-big-statement-on-mileage-with-e20-petrol-484136 ",
+    "time": "2026-07-10T06:36:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ગોલ્ડન બૂટની રેસમાં કાંટાની ટક્કર: મેસીની બરાબરી પર એમબાપ્પે, મોરોક્કોને હરાવી ફ્રાન્સ સેમિફાઇનલમાં!",
+    "desc": "ફુટબોલ વિશ્વકપ 2026ના પ્રથમ ક્વાર્ટર ફાઈનલ મેચમાં ફ્રાન્સે મોરક્કોને 2-0થી હરાવી સેમીફાઈનલમાં પોતાની જગ્યા બનાવી લીધી છે. મોરક્કો વિરુદ્ધ ગોલ કરવાની સાથે એમ્બાપ્પેએ મેસ્સીની બરોબરી કરી લીધી છે. બંનેએ આ ટૂર્નામેન્ટમાં અત્યાર સુધી 8 ગોલ કર્યાં છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/fifa-world-cup-2026-mbappe-goes-level-with-messi-norway-haaland-close-behind-484122 ",
+    "time": "2026-07-10T04:53:35.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ઈરાનના પરમાણુ શહેર બુશહરમાં ધડાકા? અમેરિકાએ હાથ ખંખેર્યા, ટ્રમ્પે તરત નેતન્યાહૂ સાથે કરી ગુપ્ત ચર્ચા",
+    "desc": "ઈરાન અને અમેરિકા વચ્ચે તણાવ ઘટવાનું નામ લેતો નથી. ઈરાનમાં ફરી એકવાર ધડાકા થયાના અહેવાલો છે જો કે સ્થાનિક મીડિયા રિપોર્ટ્સમાં જ આ અંગે મતભેદ પ્રવર્તતા જોવા મળી રહ્યા છે. બીજી બાજુ અમેરિકી રાષ્ટ્રપતિ અને ઈઝરાયેલી પીએમ વચ્ચે ફોન પર વાતચીત પણ થઈ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/middle-east-crisis-update-trump-denies-us-attack-on-bushehr-nuclear-city-iran-talk-netanyahu-484118 ",
+    "time": "2026-07-10T04:00:26.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "ભાજપે ત્રણેય બળવાખોર TMC નેતાઓને આપી રાજ્યસભાની ટિકિટ, થોડા કલાકો પહેલા જ જોડાયા હતા પાર્ટીમાં",
     "desc": "તાજેતરમાં રાજ્યસભા સાંસદ પદેથી રાજીનામું આપનારા તૃણમૂલ કોંગ્રેસના સુખેન્દુ રોય, સુષ્મિતા દેવ અને પ્રકાશ ચિક બરૈક આજે ભાજપમાં જોડાયા છે. તેમના જોડાતાની સાથે જ પાર્ટીએ બંગાળમાં ખાલી પડેલી ત્રણ રાજ્યસભા બેઠકો માટે આ ત્રણેય નેતાઓને રાજ્યસભાની ટિકિટ આપી છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -315,15 +342,6 @@ const newsData_gu = [
     "time": "2026-07-07T16:12:05.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ઇંગ્લેન્ડ સામેની સિરીઝ બાદ બદલાઈ જશે ટીમ ઇન્ડિયાના હેડ કોચ ! આ ખેલાડીને મળી શકે છે જવાબદારી",
-    "desc": "ટીમ ઈન્ડિયા આયર્લેન્ડ સામે 0-2થી શ્રેણી હારી ગઈ હતી અને ઈંગ્લેન્ડ સામે પણ તેનું પ્રદર્શન અત્યાર સુધી ખરાબ રહ્યું છે. આ વચ્ચે એક આશ્ચર્યજનક સમાચાર સામે આવ્યા છે. ટીમ ઈન્ડિયાના હેડ કોચ ગૌતમ ગંભીર ઝિમ્બાબ્વે પ્રવાસ પર ટીમ સાથે નહીં હોય.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/team-india-head-coach-will-change-after-england-series-gautam-gambhir-483879 ",
-    "time": "2026-07-07T11:35:42.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "મને છોકરાઓ કરતાં છોકરીઓ ગમે છે, આ સુપર સ્ટારની પત્નીએ કર્યો ખુલાસો : મારા પતિને 50 અફેર!",
     "desc": "એકતા કપૂરનો શો હોય અને ધમાલ ના હોય, આજકાલ રિયાલિટી શો 'લોકઅપ ૨' ખૂબ જ ભારે ચર્ચામાં છે. શોમાં સુનીતા આહુજાનો અત્યંત બિન્દાસ અને બેપરવાહ અંદાજ જોવા મળી રહ્યો છે. સુનીતાએ શિલ્પા શિંદેને જડબાતોડ જવાબ આપ્યો છે તો આકાંક્ષા ચમોલાએ ખુલ્લેઆમ સ્વીકાર કર્યો છે કે તેને લગ્ન પહેલાં છોકરીઓ ગમતી હતી અને તેના સંબંધો હતા.",
@@ -331,15 +349,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/i-like-girls-more-than-boys-this-superstars-wife-revealed-my-husband-has-had-50-affairs-483859 ",
     "time": "2026-07-07T10:33:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ક્રિકેટ જગત માટે દુ:ખદ સમાચાર, 39મા જન્મદિવસ પહેલા જ જિંદગીની જંગ હાર્યો આ ક્રિકેટર",
-    "desc": "શાપૂર ઝાદરાનના અકાળે અવસાનથી સમગ્ર ક્રિકેટ જગત ખૂબ જ દુઃખી છે. ભલે તે હવે આપણી વચ્ચે નથી, પરંતુ અફઘાનિસ્તાન ક્રિકેટને આંતરરાષ્ટ્રીય સ્તરે લઈ જવામાં તેનું યોગદાન અને 2015ના વર્લ્ડ કપમાં તેણે અપાવેલી ઐતિહાસિક જીત હંમેશા ક્રિકેટ ચાહકોની યાદોમાં જીવંત રહેશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/afghanistan-cricketer-shapoor-zadran-passes-away-due-to-rare-illness-483869 ",
-    "time": "2026-07-07T10:08:34.000Z"
   },
   {
     "cat": "Politics",
@@ -502,15 +511,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/aamir-khan-gauri-spratt-wedding-social-media-buzzing-with-conversion-claims-heres-what-we-know-483738 ",
     "time": "2026-07-06T06:39:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ISROની સેટેલાઇટ તસવીરોમાં દેખાયું ચોમાસાનું રૌદ્ર સ્વરૂપ! આ રાજ્યોમાં IMDનું ભારે વરસાદનું એલર્ટ",
-    "desc": "ઈસરોના INSAT-3DR ઉપગ્રહમાંથી મળેલી નવા હવામાનના ફોટામાંથી હવામાનશાસ્ત્રીઓને ચેતવણી આપી છે. અરબી સમુદ્ર અને બંગાળની ખાડીમાં બનેલા વિશાળ રાક્ષસી વાદળોને કારણે મહારાષ્ટ્ર અને પશ્ચિમ બંગાળ સહિત અનેક રાજ્યોમાં ભારે વરસાદ પડ્યો છે. હવામાન વિભાગે આગામી 24 કલાક માટે રેડ એલર્ટ જાહેર કર્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/isro-satellite-images-show-the-violent-nature-of-monsoon-imd-warns-of-heavy-rain-in-these-states-483736 ",
-    "time": "2026-07-06T06:17:17.000Z"
   },
   {
     "cat": "Business",
