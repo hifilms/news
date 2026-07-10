@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "BCCI sets plans for review meeting after team India's series loss against England and Ireland",
+    "desc": "The Indian team is in the midst of a subpar run in their ongoing tour of England and Ireland. Under the leadership of Shreyas Iyer, team India has lost all of their matches so far,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-sets-plans-for-review-meeting-after-team-india-s-series-loss-against-england-and-ireland-2026-07-10-1047846",
+    "time": "2026-07-10T13:44:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ryan ten Doeschate weighs in on what needs to change for India after T20I series loss against England",
+    "desc": "The Indian team continued their losing streak in their ongoing tour to England; their loss in the fourth T20I of the series was the team's fifth consecutive loss, two in Ireland and three in England,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ryan-ten-doeschate-weighs-in-on-what-needs-to-change-for-india-after-t20i-series-loss-against-england-2026-07-10-1047831",
+    "time": "2026-07-10T12:10:17.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Mustafizur Rahman ruled out of action for four weeks due to hamstring muscle tear",
     "desc": "In a major blow for Bangladesh cricket, the side’s star pacer Mustafizur Rahman has been ruled out of action for four weeks after sustaining a grade 1 hamstring tear and meniscal degeneration in his right...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/why-is-ismail-saibari-not-playing-morocco-vs-france-in-fifa-world-cup-2026-quarterfinal-2026-07-10-1047746",
     "time": "2026-07-09T20:06:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "France make it to semi-final with 2-0 win over Morocco",
-    "desc": "France and Morocco will renew their World Cup rivalry when they meet in the FIFA World Cup 2026 quarter-finals, with a place in the last four at stake. Both sides negotiated difficult knockout ties, but...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/fra-vs-mor-fifa-world-cup-live-france-vs-morocco-score-commentary-highlights-playing-xi-discussion-1047745",
-    "time": "2026-07-09T19:41:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India’s batting unit flops again vs England, suffers back-to-back T20I series for first time in seven years",
-    "desc": "India's hope of staging a comeback in the fourth T20I at the County Ground in Bristol evaporated as another insipid batting display paved the way for a crushing nine-wicket defeat, handing England a 3-0 lead...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/indias-batting-unit-flops-again-vs-england-suffers-back-to-back-t20i-series-for-first-time-in-seven-years-2026-07-10-1047744",
-    "time": "2026-07-09T19:30:07.000Z"
   }
 ];
