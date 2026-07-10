@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sarvesh Kushare finishes third on Monaco Diamond League debut, defeats former champions",
+    "desc": "Indian high jumper Sarvesh Kushare became only the fourth Indian athlete to finish on the podium at a Diamond League. He finished third on his debut at the Monaco Diamond League on Friday, July 10...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/sarvesh-kushare-finishes-third-on-debut-monaco-diamond-league-defeats-former-champions-2026-07-11-1047876",
+    "time": "2026-07-10T21:50:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Super-sub Mikel Merino scores late as Spain beat Belgium 2-1 for semis spot, who will they play next?",
+    "desc": "Spain booked their place in the FIFA World Cup 2026 semi-finals after substitute Mikel Merino struck late to secure a 2-1 victory over Belgium in a hard-fought quarter-final in the early hours of Saturday. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/super-sub-mikel-merino-scores-late-as-spain-beat-belgium-2-1-for-semis-spot-who-will-they-play-next-2026-07-11-1047875",
+    "time": "2026-07-10T21:24:38.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why is Youri Tielemans not playing for Belgium in Spain in FIFA World Cup 2026 despite named in starting XI?",
     "desc": "Belgium have been forced into a late change before their FIFA World Cup 2026 quarter-final against Spain after Youri Tielemans suffered an injury during the warm-up. The Aston Villa midfielder was ruled out of the...",
     "img": "",
@@ -10,7 +28,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Live action begins, both teams show attacking interests early on",
+    "title": "Spain beat Belgium 2-1 to qualify for semis after Mikel Merino's late winner",
     "desc": "Spain will face Belgium in a high-stakes FIFA World Cup 2026 quarter-final in the early hours of Saturday. Playing at the Los Angeles Stadium, both European heavyweights look to secure a place in the last...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-achieves-huge-feat-as-india-women-take-centre-stage-against-england-in-only-test-2026-07-10-1047857",
     "time": "2026-07-10T15:18:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI sets plans for review meeting after team India's series loss against England and Ireland",
-    "desc": "The Indian team is in the midst of a subpar run in their ongoing tour of England and Ireland. Under the leadership of Shreyas Iyer, team India has lost all of their matches so far,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-sets-plans-for-review-meeting-after-team-india-s-series-loss-against-england-and-ireland-2026-07-10-1047846",
-    "time": "2026-07-10T13:44:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ryan ten Doeschate weighs in on what needs to change for India after T20I series loss against England",
-    "desc": "The Indian team continued their losing streak in their ongoing tour to England; their loss in the fourth T20I of the series was the team's fifth consecutive loss, two in Ireland and three in England,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ryan-ten-doeschate-weighs-in-on-what-needs-to-change-for-india-after-t20i-series-loss-against-england-2026-07-10-1047831",
-    "time": "2026-07-10T12:10:17.000Z"
   }
 ];

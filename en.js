@@ -1,6 +1,159 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Can't block calls from 1600 no. series, but can put 140 series on DND: Trai",
+    "desc": "Regulated entities and government communications from 1600 numbers cannot be blocked by any application. Promotional calls from the 140 series can be blocked using the DND registry. Trai mandates 1600 numbers for trustworthy service and transaction calls to existing customers. Registered telemarketers use the 140 number series for promotional communications. Customers can register preferences on the DND registry to allow or block these promotional calls.",
+    "img": "https://static.toiimg.com/photo/msid-132320735,imgsize-7012.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cant-block-calls-from-1600-no-series-but-can-put-140-series-on-dnd-trai/articleshow/132320737.cms",
+    "time": "2026-07-10T21:41:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'It's NOT Coming Home': Max Verstappen sticks the knife into England's World Cup dream with brutal prediction",
+    "desc": "Max Verstappen has backed France to win the 2026 FIFA World Cup, dismissing England's chances despite their quarter-final run. The Formula One champion praised Didier Deschamps' side as the tournament's strongest team after their win over Morocco. Verstappen also refused to choose between Lionel Messi and Cristiano Ronaldo, saying their greatness cannot be directly compared.",
+    "img": "https://static.toiimg.com/photo/msid-132320500,imgsize-94712.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/its-not-coming-home-max-verstappen-sticks-the-knife-into-englands-world-cup-dream-with-brutal-prediction/articleshow/132320505.cms",
+    "time": "2026-07-10T21:23:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Follow 'correct script, diction' of national song, anthem: Centre",
+    "desc": "The government has instructed all states to strictly follow correct script and diction. State songs must now be played before the national song and anthem. This directive ensures proper adherence to national symbols during official functions. The home ministry provided the correct script and pronunciation details on its portal. States are requested to issue suitable instructions for strict compliance by all organizations.",
+    "img": "https://static.toiimg.com/photo/msid-132320528,imgsize-406956.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/follow-correct-script-diction-of-national-song-anthem-centre/articleshow/132320529.cms",
+    "time": "2026-07-10T21:21:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'We'll expose you' for trial delay: SC to Maharashtra",
+    "desc": "Supreme Court criticizes states for delaying trials while opposing bail pleas. The court noted a negligent attitude that dents the right to a speedy trial. One accused has been in jail for four years with few witnesses examined. Maharashtra was found remiss in producing the accused before the trial court. The apex court stressed the need for states to expedite trials.",
+    "img": "https://static.toiimg.com/photo/msid-132320520,imgsize-274864.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/well-expose-you-for-trial-delay-sc-to-maharashtra/articleshow/132320521.cms",
+    "time": "2026-07-10T21:15:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Breast cancer survival rate up, but India lags behind rich nations: WHO",
+    "desc": "India's breast cancer survival rate stands at sixty-five point seven percent. This figure is lower than the global median survival rate. Early diagnosis and timely treatment are crucial for improving survival outcomes. Disparities exist in access to quality cancer care across regions. Strengthening detection and treatment access is essential for better results.",
+    "img": "https://static.toiimg.com/photo/msid-132320501,imgsize-57596.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/breast-cancer-survival-rate-up-but-india-lags-behind-rich-nations-who/articleshow/132320503.cms",
+    "time": "2026-07-10T20:59:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Even a snail can question pace of trials",
+    "desc": "The Supreme Court criticized a commercial suit's slow progress since 2015. Plaintiff's evidence is still ongoing, prompting a strong judicial observation. The court rejected Levitate Mobile Technologies' plea for additional documents. This plea was similar to a previous one that was also denied. The court noted the significant delay in the judicial process.",
+    "img": "https://static.toiimg.com/photo/msid-132320477,imgsize-84230.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sc-even-a-snail-can-question-pace-of-trials/articleshow/132320479.cms",
+    "time": "2026-07-10T20:50:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM praises Australia social ban for U-16s, hinting at similar curbs",
+    "desc": "India is considering stricter age limits for social media access. Prime Minister Modi praised Australia's ban on platforms for children under sixteen. This move follows growing government focus on online safety for minors. Several Indian states have also proposed similar restrictions on social media use. Nationwide implementation faces significant challenges due to India's vast internet user population.",
+    "img": "https://static.toiimg.com/photo/msid-132320461,imgsize-143454.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pm-praises-australia-social-ban-for-u-16s-hinting-at-similar-curbs/articleshow/132320464.cms",
+    "time": "2026-07-10T20:42:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lamine Yamal scripts history at 18, becomes youngest player to...",
+    "desc": "Lamine Yamal became the youngest player to make six FIFA World Cup appearances after featuring in Spain's quarter-final against Belgium at the 2026 tournament. The 18-year-old winger broke the teenage appearance record, added a World Cup goal to his achievements, and continued his remarkable rise after winning UEFA Euro 2024, surpassing milestones previously set by football's greatest young stars.",
+    "img": "https://static.toiimg.com/photo/msid-132320456,imgsize-116346.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-lamine-yamal-scripts-history-at-18-becomes-youngest-player-to-/articleshow/132320018.cms",
+    "time": "2026-07-10T20:36:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Inside Taj Mahal Palace's Tata Suite where Tom Holland is staying",
+    "desc": "Tom Holland is living in royal style during his latest visit to India. The Spider-Man star has checked into the iconic Taj Mahal Palace Hotel in Mumbai, where he is reportedly staying in one of the property's most luxurious accommodations, the Tata Suite. Reports suggest the Tata Suite is typically priced between Rs 7 lakh and Rs 12 lakh per night, depending on availability and the season.",
+    "img": "https://static.toiimg.com/photo/msid-132320445,imgsize-146339.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/inside-taj-mahal-palaces-tata-suite-where-tom-holland-is-staying-during-the-odyssey-mumbai-premiere-costs-rs-7-12-lakh-a-night/articleshow/132320394.cms",
+    "time": "2026-07-10T20:33:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "As National Conference canvasses for J&K Statehood protest, BJP announces stir",
+    "desc": "NC leader Tanvir Sadiq says all leaders should rise above party lines and stand united for the people of Jammu & Kashmir at the July 20 protest; BJP announces its own agenda with protests on employment issue on the same day",
+    "img": "https://th-i.thgim.com/public/incoming/3izs26/article71206349.ece/alternates/LANDSCAPE_1200/PTI06_27_2026_000134A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/nc-urges-india-bloc-leaders-to-join-jampks-demand-for-statehood-constitutional-guarantees/article71206222.ece",
+    "time": "2026-07-10T20:19:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Govt must implement 33% women’s quota at current strength of Parliament",
+    "desc": "Women's groups demand immediate 33% reservation in legislatures and Parliament. They seek a constitutional amendment to delink reservation from census and delimitation. Activists are urging MPs to support this crucial demand for political representation. Joint demonstrations are planned across the country on July 20-21. This push aims to fulfill long-standing calls for women's empowerment.",
+    "img": "https://static.toiimg.com/photo/msid-132320398,imgsize-54410.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/women-activists-govt-must-implement-33-womens-quota-at-current-strength-of-parliament/articleshow/132320383.cms",
+    "time": "2026-07-10T20:09:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NIA files charge sheet against six separatist leaders in 1996 Kashmir mob violence case",
+    "desc": "The six were charged under provisions of the Ranbir Penal Code, 1989, for criminal conspiracy, attempt to murder, rioting and assault on public servants, along with Section 13 of the Unlawful Activities (Prevention) Act, 1967",
+    "img": "https://th-i.thgim.com/public/incoming/laewze/article71206195.ece/alternates/LANDSCAPE_1200/IMG_Syed_Ali_Shah_Geelan_2_1_K7C7CO1F.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/nia-files-chargesheet-against-six-separatist-leaders-in-1996-mob-violence-case/article71206123.ece",
+    "time": "2026-07-10T20:09:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Police freeze 12 more bank accounts of Trinamool with over ₹1,000 crore",
+    "desc": "Action follows complaints of illegal diversion of funds from the accounts; ED had earlier frozen party’s three accounts with ₹440 crore; High Court to take up case on Monday; Rajya Sabha MP slams ED action, asks when it will freeze temple funds",
+    "img": "https://th-i.thgim.com/public/incoming/rryyvv/article71207760.ece/alternates/LANDSCAPE_1200/PTI07_02_2026_000364A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/police-freeze-12-more-bank-accounts-of-trinamool-with-over-1000-crore/article71206977.ece",
+    "time": "2026-07-10T20:06:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Vijay announces memorial for Karur stampede victims, faults police for not informing him of the crowd",
+    "desc": "Speaking at a public meeting held on the outskirts of Karur, he says the tragedy could have been averted had the police alerted him to the gathering during his election campaign at Velusamypuram on September 27, 2025",
+    "img": "https://th-i.thgim.com/public/incoming/7fecxi/article71207551.ece/alternates/LANDSCAPE_1200/TH%20TRI-04%203.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/cm-vijayannounces-memorial-for-karur-stampede-victims-faults-police-for-not-informing-him-of-the-crowd/article71206499.ece",
+    "time": "2026-07-10T19:57:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "With hammer and pole, Anushka Yadav and Sindhushree G. break barriers",
+    "desc": "The two unheralded athletes have had to conquer adversity at several stages of their young lives. At the recent inter-State meet, they overcame significant odds to record unexpected National marks and earn the right to make their Asian Games debuts",
+    "img": "https://th-i.thgim.com/public/incoming/onidqc/article71208113.ece/alternates/LANDSCAPE_1200/Pole%20vault%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/athletics/with-hammer-and-pole-anushka-yadav-and-sindhushree-g-break-barriers/article71208111.ece",
+    "time": "2026-07-10T19:44:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "how Jyothi Yarraji and coach James Hillier rebuilt India’s best 100m hurdler",
+    "desc": "The 26-year-old athlete’s world came crashing down last June when she tore her ACL. After chasing speed all her life, she had to endure a period of painful, stationary monotony. But thanks to a steady supply of blueberries, strawberries and chocolates from her coach, rigorous rehab and unwavering focus, Jyothi is back to winning ways",
+    "img": "https://th-i.thgim.com/public/incoming/vnrhs7/article71208102.ece/alternates/LANDSCAPE_1200/Jyothi_1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/athletics/how-jyothi-yarraji-and-coach-james-hillier-rebuilt-indias-best-100m-hurdler/article71208097.ece",
+    "time": "2026-07-10T19:39:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England vs Norway quarter-final clash to make World Cup history with FIFA's surprise first-ever halftime show",
+    "desc": "England’s FIFA World Cup 2026 quarter-final against Norway will make history with Ellie Goulding performing at half-time, marking the tournament’s first official Super Bowl-style musical show during a knockout match. The performance reflects FIFA’s push toward American-style sports entertainment, adding a new spectacle to one of the World Cup’s biggest fixtures before attention returns to the football.",
+    "img": "https://static.toiimg.com/photo/msid-132319769,imgsize-1699143.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/england-vs-norway-quarter-final-clash-to-make-world-cup-history-with-fifas-surprise-first-ever-halftime-show/articleshow/132302365.cms",
+    "time": "2026-07-10T19:04:11.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "FCI makes distilleries accountable for subsidised rice, warns of criminal cases",
     "desc": "Food Corporation of India has strengthened rules for subsidized rice distribution. Distilleries are now directly accountable for any misuse of this grain. The Food Corporation of India will file criminal cases for diversion or misuse. This move aims to prevent diversion and improve oversight of the ethanol supply chain. New operational guidelines ensure strict utilization of rice for ethanol production.",
     "img": "https://static.toiimg.com/photo/msid-132319576,imgsize-40400.cms",
@@ -46,12 +199,21 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "DL applications, RC updates among 100 transport services available online",
-    "desc": "The road transport ministry has expanded online services to one hundred from fifty-eight. These new services include driving licence applications and vehicle registration updates. Owners can now apply for driving licences and update their vehicle registration details online. This expansion aims to bring more services under the faceless scheme for citizens. Alternative document submission is available for those not opting for Aadhaar authentication.",
-    "img": "https://static.toiimg.com/photo/msid-132319152,imgsize-27080.cms",
+    "title": "IRCTC to launch ‘faster, clutter-free’ booking site",
+    "desc": "The IRCTC website's beta version will soon launch, offering a faster booking experience. This revamped site promises a clutter-free interface without unnecessary distractions. Seat availability across all coach classes will be displayed clearly. Ticket booking steps are reduced for a faster checkout process. Passenger details can be saved for making repeat bookings easier.",
+    "img": "https://static.toiimg.com/photo/msid-132320555,imgsize-86568.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dl-applications-rc-updates-among-100-transport-services-available-online/articleshow/132319198.cms",
+    "url": "https://timesofindia.indiatimes.com/india/irctc-to-launch-faster-clutter-free-booking-site/articleshow/132319198.cms",
     "time": "2026-07-10T18:27:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The uncertain flight of Parandur airport",
+    "desc": "The proposed Parandur airport project in Tamil Nadu has been put on hold, though there is no official announcement yet. While the protesting residents of Ekanapuram, the village that falls within both the proposed runways, are happy that the government plans to drop the project, residents of other villages remain uncertain about their future. Sunitha S. reports on the challenges surrounding a project that has left many frustrated",
+    "img": "https://th-i.thgim.com/public/incoming/p5260c/article71206304.ece/alternates/LANDSCAPE_1200/Parandur_Greenfield_Airport_Project_01.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/the-uncertain-flight-of-parandur-airport/article71206301.ece",
+    "time": "2026-07-10T18:24:34.000Z"
   },
   {
     "cat": "Sports",
@@ -163,30 +325,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Police freeze 12 more bank accounts of Trinamool with over ₹1,000 crore",
-    "desc": "Action follows complaints of illegal diversion of funds from the accounts; ED had earlier frozen party’s three accounts with ₹440 crore; High Court to take up case on Monday; Rajya Sabha MP slams ED action, asks when it will freeze temple funds",
-    "img": "https://th-i.thgim.com/public/incoming/rryyvv/article71207760.ece/alternates/LANDSCAPE_1200/PTI07_02_2026_000364A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/police-freeze-12-more-bank-accounts-of-trinamool-with-over-1000-crore/article71206977.ece",
-    "time": "2026-07-10T16:24:13.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "MHA reiterates National Anthem, National Song rules; stresses correct pronunciation, script",
     "desc": "The Home Affairs Ministry issued fresh directions to all state governments. These directions reiterate existing rules for singing the National Anthem and National Song. Authorities must ensure strict compliance with the correct script and pronunciation. The National Song is to be sung before the National Anthem when both are performed. This ensures adherence to protocols established for national symbols.",
     "img": "https://static.toiimg.com/photo/msid-132316118,imgsize-140994.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/mha-reiterates-national-anthem-national-song-rules-stresses-correct-pronunciation-script/articleshow/132315939.cms",
     "time": "2026-07-10T16:21:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "IISERs lauded for enhancing India’s scientific research",
-    "desc": "The country has made significant progress in technology development and skill enhancement and research institutions like IISERs have an important role in strengthening the nation’s scientific capabilities, says Defence and aerospace scientist Dr. G. Satheesh Reddy",
-    "img": "https://th-i.thgim.com/public/incoming/jknecn/article71207423.ece/alternates/LANDSCAPE_1200/10215_10_7_2026_18_46_30_1_WHATSAPPIMAGE2026_07_10AT55353PM1.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/iiser-lauded-for-enhancing-indias-scientific-research/article71207190.ece",
-    "time": "2026-07-10T16:15:09.000Z"
   },
   {
     "cat": "Business",
@@ -198,15 +342,6 @@ const newsData_en = [
     "time": "2026-07-10T16:07:14.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Why the battle has lasted over five years",
-    "desc": "WhatsApp has submitted its response to the Centre’s July 1 notice over its proposed username feature. But this is only the latest chapter in a years-long legal and regulatory battle between the messaging platform and the Indian government.",
-    "img": "https://th-i.thgim.com/public/incoming/cjjd3/article71207651.ece/alternates/LANDSCAPE_1200/Pune.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/whatsapp-vs-indian-government-why-the-battle-has-lasted-over-five-years/article71207686.ece",
-    "time": "2026-07-10T16:04:58.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Zverev reaches first Wimbledon final, says 'I have to trust myself' ahead of title clash",
     "desc": "Alexander Zverev reached his first Wimbledon final with a straight-sets win over British wildcard Arthur Fery, staying on course for a second consecutive Grand Slam title. The German said he believes he can beat either Jannik Sinner or Novak Djokovic in the final. Zverev also praised Fery's potential and hailed the Wimbledon crowd for its fair and electric support.",
@@ -214,15 +349,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/alexander-zverev-reaches-first-wimbledon-final-says-i-have-to-trust-myself-ahead-of-title-clash/articleshow/132315929.cms",
     "time": "2026-07-10T16:02:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CM Vijay announces memorial for Karur stampede victims, faults police for not informing him of the crowd",
-    "desc": "Speaking at a public meeting held on the outskirts of Karur, he says the tragedy could have been averted had the police alerted him to the gathering during his election campaign at Velusamypuram on September 27, 2025",
-    "img": "https://th-i.thgim.com/public/incoming/7fecxi/article71207551.ece/alternates/LANDSCAPE_1200/TH%20TRI-04%203.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/cm-vijayannounces-memorial-for-karur-stampede-victims-faults-police-for-not-informing-him-of-the-crowd/article71206499.ece",
-    "time": "2026-07-10T16:02:02.000Z"
   },
   {
     "cat": "World",
@@ -315,15 +441,6 @@ const newsData_en = [
     "time": "2026-07-10T13:58:14.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "BJP candidate set to face Prashant Kishor withdraws, cites family reasons",
-    "desc": "In a surprising turn of events, a Bharatiya Janata Party candidate has stepped down from the Bankipur bypoll, citing family reasons. The party has swiftly chosen Neeraj Kumar Sinha as the new candidate. This change paves the way for Prashant Kishor's highly anticipated first appearance in the electoral arena, as he prepares to contest against the BJP's stronghold in this area.",
-    "img": "https://static.toiimg.com/photo/msid-132313714,imgsize-132138.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bankipur-bypoll-twist-bjp-candidate-set-to-face-prashant-kishor-withdraws-cites-family-reasons/articleshow/132313606.cms",
-    "time": "2026-07-10T13:49:20.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Govt answers 9 FAQs on ethanol-blended petrol’s impact on mileage, performance, damage, pricing &amp; more",
     "desc": "The government has said that the Ethanol Blended Petrol (EBP) Programme is a major component of India's energy strategy, designed to strengthen energy security, support the farming community and lower environmental impact by increasing the use of domestically produced renewable fuel.",
@@ -340,24 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/just-a-shame-rcb-star-reveals-virat-kohli-was-secretly-photographed-during-private-meet/articleshow/132313109.cms",
     "time": "2026-07-10T13:34:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Rajpal Yadav's jail setback, China's Brahmaputra dam scare, Kerala student's death in Uzbekistan &amp; more",
-    "desc": "Recent reports highlight heightened concerns over the Yarlung Tsangpo mega dam in China, amidst fears of geological faults and potential earthquakes. Meanwhile, in Assam, the government is taking a firm stance against polygamy by planning to terminate the employment of offenders and restrict access to welfare benefits. Additionally, the UK has recognized significant technology companies as essential third parties for cloud services.",
-    "img": "https://static.toiimg.com/photo/msid-132312583,imgsize-101604.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-rajpal-yadavs-jail-setback-chinas-brahmaputra-dam-scare-kerala-students-death-in-uzbekistan-more/articleshow/132312259.cms",
-    "time": "2026-07-10T13:02:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NDA in command, opposition in disarray. Will DMK tilt the balance?",
-    "desc": "The opposition parties are grappling with significant turmoil following vital splits that have diminished their strength in Parliament. Recent shifts have bolstered the ruling NDA coalition's standing. As the Monsoon session approaches, the potential reintroduction of a Constitution Amendment Bill looms. Internal fractures within several regional parties could further compromise the opposition's capacity to impede crucial legislation.",
-    "img": "https://static.toiimg.com/photo/msid-132314914,imgsize-1091666.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/monsoon-session-nda-in-command-opposition-in-disarray-will-dmk-tilt-the-balance/articleshow/132310564.cms",
-    "time": "2026-07-10T12:55:09.000Z"
   },
   {
     "cat": "Entertainment",
@@ -468,15 +567,6 @@ const newsData_en = [
     "time": "2026-07-10T11:04:46.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'I feel the time has come': Iyer's captaincy questioned after England series loss",
-    "desc": "New T20I captain Shreyas Iyer faces scrutiny after two series defeats. Former selector Saba Karim urges Iyer to assert his captaincy identity. Karim questioned batting order decisions, specifically Shivam Dube's placement at number five. He noted this differed from Iyer's IPL tactical approach. Leadership and communication are crucial for captains in pressure situations.",
-    "img": "https://static.toiimg.com/photo/msid-132310006,imgsize-213270.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/i-feel-the-time-has-come-shreyas-iyers-captaincy-questioned-after-england-series-loss/articleshow/132309992.cms",
-    "time": "2026-07-10T11:03:19.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Here's why producer wanted an even bigger cast for Welcome To The Jungle",
     "desc": "Farhad Samji revealed producer Firoz Nadiadwala kept pushing for more actors, saying scale meant more faces onscreen—leading to 35 actors in 'Welcome to the Jungle'. Samji also praised Akshay Kumar's resilience despite recent flops, saying he never dwells on failure. Directed by Ahmed Khan, the comedy released June 26.",
@@ -577,15 +667,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Kendall Jenner clashes with Kris Jenner over Jacob Elordi romance",
-    "desc": "Kendall Jenner is reportedly pushing back against her mother’s intentions regarding her love life. She's considering leaving the reality show if her romance becomes a featured plot. Kris Jenner believes Kendall is exaggerating, while the model insists on maintaining her personal boundaries. This situation emphasizes her quest for autonomy away from the family’s entertainment brand.",
-    "img": "https://static.toiimg.com/photo/msid-132307980,imgsize-130624.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kendall-jenner-is-ready-to-walk-away-from-the-show-to-keep-her-jacob-elordi-romance-private-argues-with-mom-kris-jenner/articleshow/132307938.cms",
-    "time": "2026-07-10T09:17:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Jaaved says he never became an A-lister because of the groupism, gives example of Salman",
     "desc": "Jaaved Jaaferi reflects on his career and why he never reached Bollywood's A-list. He believes industry packaging and PR played significant roles in his journey. Jaaferi also noted he was not part of influential industry groups. Success, like Salman Khan's, can dramatically alter an actor's career trajectory. His debut as a villain shaped perceptions, limiting future roles.",
     "img": "https://static.toiimg.com/photo/msid-132306694,imgsize-216644.cms",
@@ -621,15 +702,6 @@ const newsData_en = [
     "time": "2026-07-10T07:39:29.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘Search my name’: Haaland's cheeky post as Google joins viral 'Viking Row' craze",
-    "desc": "Norway's Erling Haaland encouraged fans to search his name on Google. This action revealed an animated Viking Row celebration, a popular tradition. Haaland also revived his forgotten rap career with a new song remix. He has scored seven goals in the FIFA World Cup tournament. Norway now faces England in the quarter-finals after a historic win.",
-    "img": "https://static.toiimg.com/photo/msid-132306133,imgsize-194503.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/search-my-name-erling-haalands-cheeky-post-as-google-joins-norways-viral-viking-row-craze/articleshow/132305814.cms",
-    "time": "2026-07-10T07:27:38.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Government",
     "desc": "The petroleum ministry clarified E20 petrol production costs versus pure petrol. Ethanol blending protects Indian consumers from volatile international oil prices. This program has saved India significant foreign exchange and crude oil imports. It also provides greater fuel price stability and increases farmers' incomes. The transition to E20 has been a phased process with stakeholder consultations.",
@@ -655,15 +727,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/redrawing-telanganas-cricket-map/article71203884.ece",
     "time": "2026-07-10T06:29:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Really going badly': Doeschate puts onus on India's players to have the mindset to ....",
-    "desc": "India's assistant coach Ryan ten Doeschate expressed disappointment with the team's overseas T20I results. The team has now lost consecutive bilateral T20I series against England and Ireland. Ten Doeschate emphasised the need for players to accept underachievement in foreign conditions. He urged the squad to focus on excelling in challenging overseas environments for future tournaments. India aims to avoid a whitewash in the final T20I against England.",
-    "img": "https://static.toiimg.com/photo/msid-132304560,imgsize-53553.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/its-really-going-badly-ryan-ten-doeschate-puts-onus-on-indias-players-to-have-the-mindset-to-/articleshow/132304514.cms",
-    "time": "2026-07-10T06:19:49.000Z"
   },
   {
     "cat": "Entertainment",
@@ -828,24 +891,6 @@ const newsData_en = [
     "time": "2026-07-09T05:06:40.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Wimbledon 2026",
-    "desc": "The 39-year-old Serbian great finishes on the right side of a five hour and 15-minute slugfest to oust third seed Auger-Aliassime and set up a much-anticipated last-four meeting with World No. 1 and defending champion Sinner",
-    "img": "https://th-i.thgim.com/public/sport/6troth/article71198625.ece/alternates/LANDSCAPE_1200/djoko.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/tennis/wimbledon-2026-of-longevity-and-supreme-fitness-novak-djokovic-all-of-39-keeps-redefining-his-career-graph/article71198444.ece",
-    "time": "2026-07-08T19:02:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australia women’s cricket team: setting the gold standard",
-    "desc": "For Australia, which has been used to consistent success, a run without a title for three years would have been a bitter pill to swallow; however, its T20 World Cup triumph during the transition phase makes it the team to beat",
-    "img": "https://th-i.thgim.com/public/sport/6a38nq/article71199796.ece/alternates/LANDSCAPE_1200/GettyImages-2285188198.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/australia-womens-cricket-team-setting-the-gold-standard/article71199790.ece",
-    "time": "2026-07-08T18:55:13.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Truecaller says TRAI’s attempt to regulate it makes ‘no sense’",
     "desc": "The regulator had reportedly sought IT Ministry clearance to forbid the caller ID app from displaying warnings next to numbers reported as spam from 140 and 160 series phone numbers, earmarked for promotional calls and banks",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/truecaller-says-trai-attempt-to-regulate-it-makes-no-sense/article71197745.ece",
     "time": "2026-07-08T12:29:38.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "The year of the Grand Theft Auto",
-    "desc": "Despite this year going down in history for giving us the hope of a new Grand Theft Auto game, here are some of the games rumoured for 2026, that should also be on your radar",
-    "img": "https://th-i.thgim.com/public/news/cities/bangalore/ekcxpv/article70423144.ece/alternates/LANDSCAPE_1200/videoframe_293.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/gaming-in-2026-the-year-of-the-grand-theft-auto/article70420124.ece",
-    "time": "2026-07-08T11:51:23.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Redone into one incredible open world game",
-    "desc": "From a disastrous launch to finally making it on Playstation 5 Pro and with an excellent port on the Switch 2, Cyberpunk 2077 is a graphical showcase and perhaps one of the best games out there today",
-    "img": "https://th-i.thgim.com/public/news/cities/bangalore/romfna/article70920679.ece/alternates/LANDSCAPE_1200/Cyber77.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/cyberpunk-2077-redone-into-one-incredible-open-world-game/article70920265.ece",
-    "time": "2026-07-08T11:24:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Financial services AI dangers highlighted by UK regulator's review",
-    "desc": "Regulators globally have begun to focus more keenly ‌on the impact of AI, from cyber and operational risks associated with frontier AI models such as Anthropic’s Mythos to the challenges posed by the agentic systems",
-    "img": "https://th-i.thgim.com/public/incoming/rqav0i/article71192099.ece/alternates/LANDSCAPE_1200/2026-07-06T083255Z_1570194679_RC21P1AG5LFB_RTRMADP_3_UN-AI-CONFERENCE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/financial-services-ai-dangers-highlighted-by-uk-regulators-review/article71192093.ece",
-    "time": "2026-07-08T02:07:16.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
   }
 ];
