@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Alexander Zverev ends Arthur Fery's dream run to reach maiden Wimbledon final",
+    "desc": "Alexander Zverev ended Arthur Ferry’s remarkable campaign at Wimbledon 2026 and progressed to the final, which will be played on Sunday, July 10. He sealed it with a straight-sets victory, which denied the British wildcard...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/alexander-zverev-ends-arthur-fery-s-dream-run-to-reach-maiden-wimbledon-final-2026-07-10-1047860",
+    "time": "2026-07-10T16:27:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England cricket sets new drinking policy after Ben Stokes, Gus Atkinson's nightclub drama",
+    "desc": "England and Wales Cricket Board (ECB) has introduced clearer behavioural expectations for players during international series. Under the revised guidelines, they are advised to avoid alcohol around match days and a strengthened midnight curfew aimed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-cricket-sets-new-drinking-policy-after-ben-stokes-gus-atkinson-s-nightclub-drama-2026-07-10-1047859",
+    "time": "2026-07-10T16:01:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Smriti Mandhana achieves huge feat as India women take centre stage against England in only Test",
+    "desc": "India women and England women took on each other in the only Test of the series. The two sides met at the Lord’s Cricket Ground in London from July 10th, and the game began with...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-achieves-huge-feat-as-india-women-take-centre-stage-against-england-in-only-test-2026-07-10-1047857",
+    "time": "2026-07-10T15:18:04.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "BCCI sets plans for review meeting after team India's series loss against England and Ireland",
     "desc": "The Indian team is in the midst of a subpar run in their ongoing tour of England and Ireland. Under the leadership of Shreyas Iyer, team India has lost all of their matches so far,...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/england-vs-india-live-when-and-where-to-watch-the-women-s-one-off-test-match-on-tv-and-stream-online-in-india-2026-07-10-1047786",
     "time": "2026-07-10T07:06:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Big Bash League's season opener to be played in India, announces PM Modi on Australia tour",
-    "desc": "In a major development, Prime Minister Narendra Modi, on his Australia tour, came forward and announced that the BBL’s (Big Bash League) upcoming season opener clash will be played in India. In what is being...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/big-bash-league-s-season-opener-to-be-played-in-india-announces-pm-modi-on-australia-tour-2026-07-10-1047778",
-    "time": "2026-07-10T06:26:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "France qualify for FIFA World Cup 2026 semis with 2-0 win over Morocco, who will they play next?",
-    "desc": "France booked their place in the FIFA World Cup 2026 semifinals with a composed 2-0 victory over Morocco in the quarterfinals. Kylian Mbappe and Ousmane Dembele scored within six minutes of each other after the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/france-qualify-for-fifa-world-cup-2026-semis-with-2-0-win-over-morocco-who-will-they-play-next-2026-07-10-1047747",
-    "time": "2026-07-09T22:14:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Ismail Saibari not playing Morocco vs France in FIFA World Cup 2026 quarterfinal?",
-    "desc": "Morocco are without one of their most influential attacking players as they face France in the FIFA World Cup 2026 quarter-final after Ismael Saibari was ruled out of the high-profile encounter because of a hamstring...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/why-is-ismail-saibari-not-playing-morocco-vs-france-in-fifa-world-cup-2026-quarterfinal-2026-07-10-1047746",
-    "time": "2026-07-09T20:06:07.000Z"
   }
 ];

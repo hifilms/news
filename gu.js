@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "Raghav Juyal અને Shehnaaz Gill ના રિલેનશશીપની ચર્ચા 3 વર્ષે ફરી શરુ, રાઘવ-શહેનાઝના વીડિયો થયા વાયરલ",
+    "desc": "3 વર્ષ પછી ફરી એકવાર શહેનાઝ ગિલ અને રાઘવ જુયાલના રિલેશનશીપની ચર્ચાઓ તેજ થઈ ગઈ છે. આ ચર્ચાનું કારણ છે કેટલાક વીડિયો જેમાં રાઘવ અને શહેનાઝ વચ્ચેની ખાસ કેમેસ્ટ્રી જોવા મળે છે. શું છે આ મામલો ચાલો તમને જણાવીએ વિગતવાર.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/raghav-juyal-and-shehnaaz-gill-video-viral-dating-rumours-start-after-3-years-484191 ",
+    "time": "2026-07-10T14:20:48.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "આ કંપનીએ 1.34 લાખમાં લોન્ચ કર્યો સેટેલાઇટ ફોન, નેટવર્ક વગર પણ થશે વાત, જાણો",
     "desc": "સરકારી ટેલિકોમ કંપની BSNLએ ભારતમાં એક ખાસ સેટેલાઇટ ફોન લોન્ચ કર્યો છે, જેની કિંમત 134,000 રૂપિયાથી વધુ છે. આ ફોન નેટવર્ક કવરેજ વિનાના વિસ્તારોમાં પણ કામ કરે છે. જો કે, આ ફોન સામાન્ય લોકો માટે નથી, પરંતુ વ્યાપારી ઉપયોગ માટે છે.",
@@ -351,15 +360,6 @@ const newsData_gu = [
     "time": "2026-07-08T10:01:44.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "5 T20 મેચોમાં સતત 4 હાર... પ્રેસ કોન્ફરન્સમાં ગુસ્સે ભરાયા હેડ કોચ ગૌતમ ગંભીર, ટીમ ઈન્ડિયા પર આપ્યું ચોંકાવનારું નિવેદન",
-    "desc": "ટ્રેન્ટ બ્રિજના મેદાનમાં ઈંગ્લેન્ડ સામેની ત્રીજી T20I મેચમાં ટીમ ઈન્ડિયાને હારનો સામનો કરવો પડ્યો છે. ભારતીય ટીમ 202 રનના લક્ષ્યાંકનો પીછો કરવામાં નિષ્ફળ ગઈ અને 76 રનમાં ઓલઆઉટ થઈ ગઈ અને 125 રનથી મેચ હારી ગઈ. આ શરમજનક હાર બાદ, ટીમ ઈન્ડિયાના હેડ કોચ ગૌતમ ગંભીર પોતાની ટીમનો બચાવ કરતા જોવા મળ્યા છે. ટીમ ઈન્ડિયાને છેલ્લા 5 T20I મેચોમાં એક પણ જીત મેળવી શકી નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/4-consecutive-losses-in-5-t20-matches-head-coach-gautam-gambhir-got-angry-in-the-press-conference-gave-a-shocking-statement-on-team-india-483972 ",
-    "time": "2026-07-08T09:29:33.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "EPFO 2.01: 34 કરોડ નોકરિયાતો માટે સોથી મોટી ખુશખબર, હવે વ્યાજથી લઈને ક્લેમ સુધી બધું જ બદલાયું! 9 નિયમ બદલાયા",
     "desc": "જો તમે પણ નોકરી કરો છો અને તમારો પીએફ કપાય છે, તો આ સમાચાર તમારા માટે સૌથી મહત્વના છે! EPFO એ આખી સિસ્ટમ બદલી નાખી છે અને EPFO 2.01 એટલે કે CITES પ્રોજેક્ટ અમલી બનાવી દીધો છે. હવે તમારે પીએફના વ્યાજ માટે નવેમ્બર સુધી રાહ નહીં જોવી પડે, ૧૫ જુલાઈ સુધીમાં જ વ્યાજ ખાતામાં આવી જશે. એટલું જ નહીં, નોકરી બદલશો તો પીએફ ટ્રાન્સફર કરવા માટે કોઈ ફોર્મ પણ નહીં ભરવું પડે, બધું જ ઓટોમેટિક થઈ જશે! આ અહેવાલમાં જુઓ તમારા પીએફ ખાતાને અસર કરતા ૯ મોટા ફેરફારો..",
@@ -439,15 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/i-like-girls-more-than-boys-this-superstars-wife-revealed-my-husband-has-had-50-affairs-483859 ",
     "time": "2026-07-07T10:33:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "આઠમા પગાર પંચ પર મોટા અપડેટ, જો આ 4 ફેરફાર થાય તો 65% સુધી વધી જશે પગાર!",
-    "desc": "આઠમું પગાર પંચ હાલ કર્મચારી સંગઠનો પાસેથી જે સૂચનો મળેલા છે તેના પર મંથન કરી રહ્યું છે. ભલામણો તૈયાર થયા બાદ રિપોર્ટ સરકારને રજૂ કરાશે અને ત્યારબાદ કોઈ નિર્ણય આવી શકશે. પરંતુ જો આ સૂચનો અને ભલામણોની જે કોમન માંગણીઓ છે તેને સ્વીકારાય તો લેવલ 1ના કર્મચારીનો પગાર 65 ટકા સુધી વધી શકે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/8th-pay-commission-latest-update-hra-da-ta-family-unit-calculation-proposals-483865 ",
-    "time": "2026-07-07T09:26:34.000Z"
   },
   {
     "cat": "World",
@@ -628,23 +619,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/three-sons-seen-at-khamenei-funeral-first-time-since-the-war-where-is-supreme-leader-mojtaba-khamenei-483673 ",
     "time": "2026-07-05T11:03:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "આમિર ખાનની લવ લાઈફ વિશે જાણો,1986 થી 2026 સુધીમાં 3 વખત થયો પ્રેમ, 2 ડિવોર્સ અને હવે ત્રીજા લગ્ન",
-    "desc": "આમિર ખાન અને ગૌરી સ્પ્રેટના ત્રીજા લગ્ન ચર્ચામાં છે. 61 વર્ષની ઉંમરે આમિર ત્રીજી વખત દુલ્હો બન્યો છે. તેવામાં તેની પર્સનલ લાઈફ વિશે જાણવાની લોકોની આતુરતા વધી છે. આમિર ખાનને 1986 થી 2026 સુધીમાં ત્રણ વખત સાચો પ્રેમ થયો છે. તો ચાલો આજે તમને જણાવીએ આમિર ખાનની લવ લાઈફની ટાઈમલાઈન.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/aamir-khan-person-and-love-life-how-aamir-khan-fall-in-love-with-reena-dutta-kiran-rao-and-gauri-spratt-483630 ",
-    "time": "2026-07-05T06:20:16.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "અયાતુલ્લા ખામેનેઈની દફનવિધિમાં 4 મહિનાનો વિલંબ કેમ ? જાણો ક્યાં રાખવામાં આવ્યો હતો મૃતદેહ",
-    "desc": "ઈરાનના પૂર્વ સર્વોચ્ચ લીડર અયાતુલ્લા ખામેનેઈની દફનવિધિ તેમના અવસાનના ચાર મહિના પછી થવાની છે. અમેરિકા અને ઇઝરાયલ સાથે યુદ્ધ જેવા તણાવ વચ્ચે દફનવિધિમાં આટલો લાંબો વિલંબ કેમ થયો ? આ પાછળના કારણો શું છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/why-ayatollah-khamenei-funeral-delayed-by-4-months-know-the-reason-483563 ",
-    "time": "2026-07-04T11:51:20.000Z"
   }
 ];
