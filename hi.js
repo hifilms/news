@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Mustafizur Rahman ruled out of action for four weeks due to hamstring muscle tear",
+    "desc": "In a major blow for Bangladesh cricket, the side’s star pacer Mustafizur Rahman has been ruled out of action for four weeks after sustaining a grade 1 hamstring tear and meniscal degeneration in his right...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mustafizur-rahman-ruled-out-of-action-for-four-weeks-due-to-hamstring-muscle-tear-2026-07-10-1047822",
+    "time": "2026-07-10T11:27:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harry Brook targets No.1 T20I ranking as England chase 4-0 series sweep over India",
+    "desc": "England captain Harry Brook has set his side an ambitious target ahead of the final T20I against India, declaring that a 4-0 series victory and the No.1 spot in the ICC men's T20I rankings are...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harry-brook-targets-no-1-t20i-ranking-as-england-chase-4-0-series-sweep-over-india-2026-07-10-1047811",
+    "time": "2026-07-10T10:12:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Erling Haaland makes massive statement ahead of crucial World Cup clash against 'favourites' England",
+    "desc": "The stage is set for one of the most exciting games in the ongoing FIFA World Cup 2026. England will be taking on Norway. The two sides will meet in the quarter-final of the tournament...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/erling-haaland-makes-massive-statement-ahead-of-crucial-world-cup-clash-against-favourites-england-2026-07-10-1047807",
+    "time": "2026-07-10T09:19:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shreyas Iyer maintains positive intent after third T20I loss, reflects on importance of learning from mistakes",
+    "desc": "The Indian team continued their horrid run of form as they succumbed to yet another loss in the third T20I of the ongoing five-game series against England. The two sides met at the County Ground...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-maintains-positive-intent-after-third-t20i-loss-reflects-on-importance-of-learning-from-mistakes-2026-07-10-1047793",
+    "time": "2026-07-10T07:54:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch the women's one-off Test match on TV and stream online?",
+    "desc": "The stage is set for the one-off Test match between England women and India women. The two sides will meet at Lord’s Cricket Ground in London for the clash from July 10th, and both teams...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-vs-india-live-when-and-where-to-watch-the-women-s-one-off-test-match-on-tv-and-stream-online-in-india-2026-07-10-1047786",
+    "time": "2026-07-10T07:06:10.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Big Bash League's season opener to be played in India, announces PM Modi on Australia tour",
     "desc": "In a major development, Prime Minister Narendra Modi, on his Australia tour, came forward and announced that the BBL’s (Big Bash League) upcoming season opener clash will be played in India. In what is being...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/indias-batting-unit-flops-again-vs-england-suffers-back-to-back-t20i-series-for-first-time-in-seven-years-2026-07-10-1047744",
     "time": "2026-07-09T19:30:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shreyas Iyer matches Virat Kohli's record, breaks Suryakumar Yadav's milestone in fourth T20I vs England",
-    "desc": "India captain Shreyas Iyer produced a one-man show in Bristol, scoring unbeaten 80 runs off 49 balls to guide India to 158 for 7 against England in the fourth T20I. With that, the newly appointed...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-matches-virat-kohli-s-record-breaks-suryakumar-yadav-s-milestone-in-fourth-t20i-vs-england-2026-07-10-1047743",
-    "time": "2026-07-09T19:06:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Karolina Muchova stuns Coco Gauff, qualifies for maiden Wimbledon final",
-    "desc": "Karolina Muchova defeated Coco Gauff in a dramatic semi-final clash to qualify for her first Wimbledon singles final. The Czech 10th seed survived a match point before sealing a 6-2, 1-6, 7-6 (12-10) victory in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/karolina-muchova-stuns-coco-gauff-qualifies-for-maiden-wimbledon-final-2026-07-09-1047740",
-    "time": "2026-07-09T18:21:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Ravichandran Ashwin ruled out of ongoing MLC 2026? San Francisco Unicorns announce replacement",
-    "desc": "Star spinner Ravichandran Ashwin has been ruled out of the ongoing Major League Cricket (MLC). His team San Francisco Unicorns has already confirmed the development, stating that the off-spinner suffered an injury to his right...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-ravichandran-ashwin-ruled-out-of-ongoing-mlc-2026-san-francisco-unicorns-announce-replacement-2026-07-09-1047737",
-    "time": "2026-07-09T17:37:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Varun Chakaravarthy not playing India vs England 4th T20I in Bristol?",
-    "desc": "India were forced to make two changes to the playing XI for the fourth T20I against England at the County Ground in Bristol. Captain Shreyas Iyer confirmed that Varun Chakaravarthy and Harshit Rana have been...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-varun-chakaravarthy-not-playing-india-vs-england-4th-t20i-in-bristol-2026-07-09-1047732",
-    "time": "2026-07-09T16:19:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India bat first in Bristol, eye to save series after being 2-0 down",
-    "desc": "India head into the fourth T20I against England in Bristol on Thursday, July 9, with their backs firmly against the wall. They now desperately need victory to keep the five-match series alive after a crushing...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-4th-t20i-live-score-india-vs-england-live-commentary-highlights-playing-xis-update-score-2026-07-09-1047727",
-    "time": "2026-07-09T15:47:39.000Z"
   }
 ];
