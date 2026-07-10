@@ -1,12 +1,300 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "'Free Willy' set for a long-awaited comeback",
+    "desc": "A fresh take on the beloved family classic 'Free Willy' is on the horizon, with screenwriters Mary-Margaret Kunze and Jade Halley Bartlett working tirelessly on the new screenplay. Renowned filmmakers Anthony and Joe Russo are on board through their production company, aiming to reintroduce the iconic narrative to today's audience, capturing the magic of the original 1993 hit that resonated with so many.",
+    "img": "https://static.toiimg.com/photo/msid-132301189,imgsize-118606.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/free-willy-set-for-a-comeback-as-the-iconic-90s-family-adventure-gets-a-modern-reimagining/articleshow/132301162.cms",
+    "time": "2026-07-10T02:25:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Crude dips but eyes weekly gain as US-Iran conflict stokes supply fears",
+    "desc": "Oil prices saw a slight decrease but are set for significant weekly gains. Renewed military exchanges between the United States and Iran kept crude supply concerns elevated. The conflict has delayed the reopening of the Strait of Hormuz, a critical energy chokepoint. Worries over slowing global demand and inflation are limiting sharper price rallies. Producer price inflation in China surged, increasing pressure on manufacturers.",
+    "img": "https://static.toiimg.com/photo/msid-132301207,imgsize-721455.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-stocks-today-10-july-2026-crude-slips-but-heads-for-weekly-gains-as-us-iran-conflict-keeps-supply-fears-alive/articleshow/132301153.cms",
+    "time": "2026-07-10T02:25:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Prabhas reveals why SS Rajamouli wanted him to keep a horse at home",
+    "desc": "Prabhas shared director SS Rajamouli's advice to keep a horse at home. This was to improve his horse-riding skills for the film Baahubali. Rajamouli insisted on daily practice for the actor's comfort on screen. The film revolutionized Indian cinema with its grand scale and visual effects. Fans anticipate a potential Baahubali 3 after a recent viral clip.",
+    "img": "https://static.toiimg.com/photo/msid-132301143,imgsize-159124.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/prabhas-reveals-why-ss-rajamouli-wanted-him-to-keep-a-horse-at-home-during-baahubali-filming/articleshow/132301136.cms",
+    "time": "2026-07-10T02:16:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kylian Mbappé vs Lionel Messi: Why France star leads Golden Boot race despite being level on goals",
+    "desc": "Kylian Mbappé has moved ahead of Lionel Messi in the FIFA World Cup 2026 Golden Boot race despite both stars being level on eight goals. FIFA’s tiebreaker rules favour Mbappé due to his three assists compared to Messi’s one. With Erling Haaland and Harry Kane still in contention, the battle for the tournament’s top scorer remains wide open.",
+    "img": "https://static.toiimg.com/photo/msid-132301119,imgsize-1123041.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/kylian-mbapp-vs-lionel-messi-why-france-star-leads-golden-boot-race-despite-being-level-on-goals/articleshow/132300664.cms",
+    "time": "2026-07-10T02:14:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Only 4 players in 60 years! Mbappe joins Messi with rare FIFA World Cup feat",
+    "desc": "Kylian Mbappe achieved a rare FIFA World Cup feat by scoring and assisting against Morocco. He joined Lionel Messi in an exclusive club after a remarkable all-round performance. Mbappe recovered from a missed penalty to score his eighth goal of the tournament. He also provided an assist for Ousmane Dembele's crucial second goal. France advanced to the semifinals, continuing their title defense in the competition.",
+    "img": "https://static.toiimg.com/photo/msid-132301038,imgsize-57300.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/only-four-players-in-60-years-kylian-mbappe-joins-lionel-messi-with-rare-fifa-world-cup-feat/articleshow/132301006.cms",
+    "time": "2026-07-10T02:08:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vinayakan faces police case",
+    "desc": "Actor Vinayakan is facing legal action in Kerala for allegedly insulting womanhood. Police registered a case after a complaint about sharing a minor's photograph online. The Kerala State Commission for Protection of Child Rights directed the police to investigate the matter. The complaint alleges the actor shared a child's photo and contact number with obscene remarks. Vinayakan, who is also working on 'Jailer 2', has faced controversies before.",
+    "img": "https://static.toiimg.com/photo/msid-132300910,imgsize-193724.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/vinayakan-faces-police-case-over-alleged-facebook-post-involving-minor-fir-registered-against-jailer-2-actor/articleshow/132300903.cms",
+    "time": "2026-07-10T01:48:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "First look at 'American Horror Story' Season 13's 'Coven'",
+    "desc": "Get ready for the chilling return of witches in American Horror Story Season 13! Starring the talented Sarah Paulson and Emma Roberts, this season brings back the iconic Robichaux Academy, freshly revamped for new thrills. Fans eagerly await Jessica Lange's return to the franchise. Mark your calendars for the premiere on FX and Hulu on September 24.",
+    "img": "https://static.toiimg.com/photo/msid-132300858,imgsize-233360.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/american-horror-story-season-13-first-look-the-supreme-rises-as-sarah-paulson-returns-for-coven-sequel/articleshow/132300835.cms",
+    "time": "2026-07-10T01:41:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Who is to mind the creche in Karnataka?",
+    "desc": "The Karnataka government issued guidelines for establishing crèche/daycare centres back in 2015. The alleged child abuse incident in a centre for Capgemini employees in Bengaluru reveals that these have remained on paper, with even a nodal agency not named to monitor them, write Shilpa Elizabeth and Rashmi Patil",
+    "img": "https://th-i.thgim.com/public/incoming/jc2h6w/article71202638.ece/alternates/LANDSCAPE_1200/CRECHE_CHILDRENS_ICH_3.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/bangalore/who-is-to-mind-the-creche-in-karnataka/article71199826.ece",
+    "time": "2026-07-10T01:34:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "When killer waves snuffed out six lives in Visakhapatnam",
+    "desc": "Braving high seas and rough weather, fishermen along the Visakhapatnam coast weather many a storm to eke out a living. But this time, the bad weather and the high seas have swallowed six fishermen, leaving their families in dire straits, writes V. Kamalakara Rao",
+    "img": "https://th-i.thgim.com/public/incoming/lb8jb1/article71203709.ece/alternates/LANDSCAPE_1200/VSP06_Harbour_Skyline%204.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/when-killer-waves-snuffed-out-six-lives-in-visakhapatnam/article71203711.ece",
+    "time": "2026-07-10T01:30:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'158 wasn't the perfect total': Shreyas Iyer",
+    "desc": "England secured the T20I series with a commanding nine-wicket victory over India. Captain Shreyas Iyer acknowledged the team fell short in all aspects of the game. India posted 158/7 after recovering from an early top-order collapse. England chased down the target quickly thanks to a strong partnership. Iyer expressed disappointment despite his personal unbeaten knock.",
+    "img": "https://static.toiimg.com/photo/msid-132297947,imgsize-161508.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/158-wasnt-the-perfect-total-shreyas-iyer-reflects-on-nine-wicket-defeat-against-england/articleshow/132297940.cms",
+    "time": "2026-07-10T01:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Trikala",
+    "desc": "The Telugu supernatural thriller 'Trikala - The Script of God' premiered in cinemas on May 28. This film, which blends mythology and suspense, began streaming on Sun NXT from July 9. The narrative explores themes of Sanatana Dharma and reincarnation, featuring a warrior's sacrifice. Audience reactions during its theatrical run were notably divided. The story originates from Kumari Kandam and a prophecy of return.",
+    "img": "https://static.toiimg.com/photo/msid-132300798,imgsize-319632.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/trikala-the-script-of-god-ott-release-when-and-where-to-watch-shraddha-das-and-mahendrans-supernatural-thriller-online/articleshow/132300786.cms",
+    "time": "2026-07-10T01:24:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I took a knock to the ankle, but ...: Mbappe after France reach semifinal",
+    "desc": "France secured a World Cup semifinal spot after defeating Morocco 2-0. Kylian Mbappe scored a crucial goal and assisted another for the team. He later sustained an ankle injury but reassured fans it was not serious. Mbappe's goal places him in contention for the Golden Boot award. France now prepares for a tough semifinal match against Spain or Belgium.",
+    "img": "https://static.toiimg.com/photo/msid-132300785,imgsize-50990.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/i-took-a-knock-to-the-ankle-reveals-kylian-mbappe-after-reaching-fifa-world-cup-semifinal/articleshow/132300776.cms",
+    "time": "2026-07-10T01:23:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Film nears Rs 80cr worldwide",
+    "desc": "After wrapping up its first week in theaters, Alia Bhatt's action thriller Alpha has grossed an impressive Rs 79.21 crore globally. Out of this, Rs 56.66 crore came from the Indian box office, while the film garnered Rs 22.55 crore internationally. With a net income of Rs 47.55 crore in India alone, Alpha showcased consistent performance throughout the weekdays, further establishing Alia Bhatt's notable status in the film industry.",
+    "img": "https://static.toiimg.com/photo/msid-132300778,imgsize-106876.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/alpha-box-office-collection-day-7-alia-bhatts-action-thriller-ends-first-week-with-rs-79-21-crore-worldwide/articleshow/132300767.cms",
+    "time": "2026-07-10T01:22:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Redrawing Telangana’s cricket map",
+    "desc": "For years, the State’s cricket story was largely confined to Hyderabad. The inaugural TG20, its first franchise-based T20 league, is beginning to change that by offering district cricketers a platform to showcase their talent before fans, selectors and IPL scouts alike. Anirudh Velamuri explores how the tournament is opening new doors beyond the capital",
+    "img": "https://th-i.thgim.com/public/incoming/ak6mk9/article71203899.ece/alternates/LANDSCAPE_1200/NG%2004.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/redrawing-telanganas-cricket-map/article71203884.ece",
+    "time": "2026-07-10T01:19:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Quick-commerce platforms, large retailers threaten small businesses and neighbourhood shops in Kerala",
+    "desc": "Neighbourhood shops and small retailers across the country are finding the going tough with e-commerce platforms and corporate-backed large retail stores rapidly establishing their business even in rural areas. A walk along the commercial areas as well as neighbourhoods reveals the plight of those who have been struggling to cope in the digital era",
+    "img": "https://th-i.thgim.com/public/incoming/du3fcj/article71202423.ece/alternates/LANDSCAPE_1200/NH24KumarStores05.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/dwindling-fortunes-quick-commerce-platforms-large-retail-stores-sound-the-death-knell-for-small-businesses-neighbourhood-shops-in-kerala/article71199060.ece",
+    "time": "2026-07-10T01:15:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "FIFA World Cup 2026",
+    "desc": "Teen sensation Yamal powered Spain to glory at the European Championships two years ago, but has yet to fully shine at a World Cup where other marquee names like Lionel Messi, Kylian Mbappe and Erling Haaland are banging in goals.",
+    "img": "https://th-i.thgim.com/public/incoming/obpwa5/article71205069.ece/alternates/LANDSCAPE_1200/2026-07-09T184645Z_204323225_UP1EM791G5W1Y_RTRMADP_3_SOCCER-WORLDCUP-ESP-BEL-PREVIEW.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-yamals-best-yet-to-come-warns-spain-coach/article71205068.ece",
+    "time": "2026-07-10T01:12:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Prince William pays tribute to Bonnie Tyler",
+    "desc": "Iconic Welsh songstress Bonnie Tyler has sadly passed away at the age of seventy-five. Her death, due to complications following intestinal surgery, occurred in a hospital in Portugal. The music world mourns as tributes from prominent figures, including the Prince and Princess of Wales, roll in. Fellow artists like Catherine Zeta-Jones and Sir Cliff Richard remember her impactful legacy in their heartfelt tributes.",
+    "img": "https://static.toiimg.com/photo/msid-132300742,imgsize-112208.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/prince-william-and-kate-middletons-tribute-to-bonnie-tyler-her-extraordinary-voice-touched-millions/articleshow/132300694.cms",
+    "time": "2026-07-10T01:11:30.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Gone girls",
     "desc": "The death of 14 girls from the Juang community, a Particularly Vulnerable Tribal Group, from Odisha at a seafood processing plant in Tamil Nadu’s Tiruvallur has brought to the fore the socio-economic realities of marginalised tribal populations despite decades of targeted interventions. Satyasundar Barik visits the Juang villagers who lost their daughters to understand what went wrong in the development journey",
     "img": "https://th-i.thgim.com/public/incoming/dd1ng3/article71203968.ece/alternates/LANDSCAPE_1200/90092_2_7_2026_10_26_8_1_TAMIL_NADU_GAS_TRAGEDY_10.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/gone-girls/article71203970.ece",
-    "time": "2026-07-09T22:13:43.000Z"
+    "time": "2026-07-10T01:10:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "HC verdict out today",
+    "desc": "The Delhi High Court is slated to pronounce its verdict on Friday in a batch of petitions filed by Bollywood actor Rajpal Yadav and others challenging their conviction and sentence in multiple cheque bounce cases.",
+    "img": "https://static.toiimg.com/photo/msid-132300705,imgsize-110256.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-cheque-bounce-case-delhi-high-court-to-pronounce-judgment-today/articleshow/132300661.cms",
+    "time": "2026-07-10T01:00:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India lose back-to-back bilateral T20I series for first time since 2019",
+    "desc": "England secured their first bilateral T20I series victory against India. Harry Brook's team achieved this landmark after a commanding nine-wicket win. This defeat marked India's first back-to-back series loss since early 2019. Brook and Phil Salt's unbeaten 146-run partnership powered the chase. England's clinical chase entered their own record books.",
+    "img": "https://static.toiimg.com/photo/msid-132297904,imgsize-19044.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/historic-defeat-harry-brook-phil-salt-script-history-as-india-lose-consecutive-bilateral-t20i-series-for-first-time-since-2019/articleshow/132297896.cms",
+    "time": "2026-07-10T01:00:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Lenin' Twitter review: Jr NTR's voice-over impresses",
+    "desc": "Akhil Akkineni's movie 'Lenin' has now been released in theatres across the country. Early audience reactions on X highlight the film's strong first half and interval. Viewers are praising Akhil Akkineni's confident performance in the title role. The romantic action drama is directed by Murali Kishor Abburu. The film follows a young man fighting for justice against a village leader.",
+    "img": "https://static.toiimg.com/photo/msid-132300699,imgsize-447326.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/lenin-twitter-review-akhil-akkineni-wins-praise-fans-laud-engaging-first-half-jr-ntrs-voice-over-impresses/articleshow/132300676.cms",
+    "time": "2026-07-10T00:59:30.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Seller body drags Flipkart to CCI for unfair practices",
+    "desc": "The Forum for Internet Retailers, Sellers & Traders has filed a complaint against Flipkart with the Competition Commission of India. FIRST alleges Flipkart uses deep discounting and a fund reservoir to distort competition. This mechanism allegedly benefits preferred sellers and excludes smaller retailers from the marketplace. The complaint details how Flipkart's practices impact independent sellers' ability to compete.",
+    "img": "https://static.toiimg.com/photo/msid-132300670,imgsize-30318.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/seller-body-drags-flipkart-to-cci-for-unfair-practices/articleshow/132300649.cms",
+    "time": "2026-07-10T00:49:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mbappe becomes the first player ever to score eight goals in two different FIFA World Cups",
+    "desc": "Kylian Mbappe has made history in the World Cup by becoming the first player to score eight or more goals in two different tournaments. His remarkable achievement was punctuated with a goal against Morocco in the quarterfinals, bringing his total World Cup tally to twenty goals in only twenty matches. Next, France will go head-to-head with either Spain or Belgium in the upcoming clash.",
+    "img": "https://static.toiimg.com/photo/msid-132300498,imgsize-105538.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/record-breaker-kylian-mbappe-becomes-the-first-player-ever-to-score-eight-goals-in-two-different-fifa-world-cups/articleshow/132300498.cms",
+    "time": "2026-07-10T00:44:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Raghav Juyal's b'day bash: Aryan and Shehnaaz attend",
+    "desc": "Aryan Khan attended Raghav Juyal's birthday celebration in Mumbai on Thursday night. He was photographed arriving at the venue in casual attire, drawing paparazzi attention. After spending time at the party, Aryan made a low-profile exit with security. He was accompanied by birthday boy Raghav and actress Shehnaaz Gill. Their joint appearance has once again fueled speculation about their rumored romance.",
+    "img": "https://static.toiimg.com/photo/msid-132300610,imgsize-163724.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aryan-khan-makes-rare-public-appearance-at-raghav-juyals-birthday-bash-shehnaaz-gill-spotted-holding-hands-with-kill-star-pics/articleshow/132300442.cms",
+    "time": "2026-07-10T00:31:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'I, Nobody' BO day 1: Prithviraj's film opens at Rs 2.20 crore",
+    "desc": "Prithviraj Sukumaran's new film 'I, Nobody' has achieved a strong opening day collection. The crime thriller earned approximately 2.20 crore rupees in net box office receipts. Occupancy rates showed a significant increase during evening and night shows nationwide. The film's Tamil version also saw impressive audience engagement in Chennai. 'I, Nobody' is a watchable thriller with strong performances and technical finesse.",
+    "img": "https://static.toiimg.com/photo/msid-132300609,imgsize-184887.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/i-nobody-box-office-collections-day-1-prithviraj-sukumarans-thriller-opens-at-rs-2-20-crore/articleshow/132300605.cms",
+    "time": "2026-07-10T00:27:41.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "KKR-backed Lighthouse to buy Gurugram-based Pathways School",
+    "desc": "Lighthouse Learning Group is acquiring Pathways School Gurgaon for approximately Rs 1,500 crore. This transaction marks a significant deal within India's school education sector. The school operates as a company, which may have influenced its valuation. Lighthouse Learning has recently acquired other educational institutions in the region. New owners might adjust costs and fees to sustain school operations.",
+    "img": "https://static.toiimg.com/photo/msid-132300595,imgsize-1020683.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/kkr-backed-lighthouse-to-buy-gurugram-based-pathways-school/articleshow/132300580.cms",
+    "time": "2026-07-10T00:22:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'MIB' BO day 21: Samantha Ruth Prabhu's film dips 17.5%",
+    "desc": "Maa Inti Bangaaram earned thirty-three lakhs on its twenty-first day. The film's India net collection has now reached fifty-nine point six two crore. Overseas gross collections have pushed the worldwide total to ninety-six point zero two crore. The movie is now less than four crore away from the hundred crore club. Occupancy remained stable with twelve point four seven percent overall.",
+    "img": "https://static.toiimg.com/photo/msid-132300554,imgsize-450431.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/maa-inti-bangaaram-box-office-collection-day-21-samantha-ruth-prabhus-film-dips-17-5-worldwide-total-reaches-rs-96-02-crore/articleshow/132300540.cms",
+    "time": "2026-07-10T00:09:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by George Clooney",
+    "desc": "George Clooney believes repeated failures teach valuable life lessons. He emphasizes that many external factors influence success and failure. Clooney's career began with minor roles before his ER breakthrough. He later achieved significant success with films like Ocean's Eleven. His entrepreneurial ventures and acting have contributed to his substantial net worth.",
+    "img": "https://static.toiimg.com/photo/msid-132293279,imgsize-79994.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-george-clooney-you-need-to-have-flopped-quite-a-few-times-to-get-a-sense-of-how-little-any-of-it-has-to-do-with-you-when-the-oceans-11-actor-talked-about-another-side-of-how-to-take-failure/articleshow/132293121.cms",
+    "time": "2026-07-10T00:00:00.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "TCS Q1 revenue rises 2.7%, company adds over 9,000 to workforce",
+    "desc": "TCS reported June-quarter revenue of $7.6 billion, showing a modest year-on-year increase. The company added over nine thousand employees, marking significant workforce expansion. Consolidated net profit saw a sequential decline after a one-time legal charge. Operating margins decreased due to annual wage hikes, with a goal to return to twenty-five percent. TCS expects AI to evolve jobs rather than eliminate them, creating new roles.",
+    "img": "https://static.toiimg.com/photo/msid-132300417,imgsize-51322.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/tcs-q1-revenue-rises-2-7-company-adds-over-9000-to-workforce/articleshow/132300391.cms",
+    "time": "2026-07-09T23:46:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Ramayana' at Comic-Con 2026: Date, time, venue CONFIRMED",
+    "desc": "Director Nitesh Tiwari's epic 'Ramayana' will be showcased at San Diego Comic-Con. The film's trailer will be unveiled before an international audience on July 23. Producer Namit Malhotra and stars Ranbir Kapoor and Yash will attend the event. This presentation marks a significant step in the film's global marketing campaign. The movie's first trailer will officially launch in India on July 18.",
+    "img": "https://static.toiimg.com/photo/msid-132300336,imgsize-165334.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-at-san-diego-comic-con-2026-date-time-venue-confirmed-for-ranbir-kapoor-yash-and-nitesh-tiwaris-global-event/articleshow/132300332.cms",
+    "time": "2026-07-09T23:25:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mbappe hits eighth goal to equal Messi at top of FIFA World Cup Golden Boot standings",
+    "desc": "In a thrilling display, Kylian Mbappe leveled the Golden Boot race with Lionel Messi by netting a vital goal for France in their match against Morocco. This achievement not only puts Mbappe on the same footing as Messi in goals scored but also sees him surpassing Messi in assists during the tournament. The quest for Golden Boot glory continues, with several contenders in the mix.",
+    "img": "https://static.toiimg.com/photo/msid-132299123,imgsize-144642.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/kylian-mbappe-hits-eighth-goal-to-equal-lionel-messi-at-top-of-fifa-world-cup-golden-boot-standings/articleshow/132299123.cms",
+    "time": "2026-07-09T22:56:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mbappé magic and Dembélé finish end Morocco's run as France cruise into another World Cup semi-final",
+    "desc": "France booked their place in the FIFA World Cup 2026 semifinals with a commanding 2-0 win over Morocco, powered by second-half goals from Kylian Mbappé and Ousmane Dembélé. Despite Yassine Bounou’s penalty save and several crucial stops, Morocco could not withstand France’s relentless pressure. Les Bleus now head to Dallas, where they will face either Spain or Belgium in the semifinals.",
+    "img": "https://static.toiimg.com/photo/msid-132300282,imgsize-89488.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/mbapp-magic-and-dembl-finish-end-moroccos-run-as-france-cruise-into-another-world-cup-semi-final/articleshow/132300263.cms",
+    "time": "2026-07-09T22:41:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyanka FaceTimes Nick from Wimbledon- WATCH",
+    "desc": "Priyanka Chopra attended Wimbledon in an elegant beige dress and headscarf. She was seen reacting enthusiastically to the tennis match action. Chopra also video called her husband, Nick Jonas, during the event. This appearance follows their recent trip to Paris for a fashion show. She is preparing for her return to Indian cinema in an upcoming epic film.",
+    "img": "https://static.toiimg.com/photo/msid-132300260,imgsize-99012.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-attends-wimbledon-womens-semi-final-facetimes-hubby-nick-jonas-from-royal-box-watch/articleshow/132298243.cms",
+    "time": "2026-07-09T22:29:27.000Z"
   },
   {
     "cat": "Entertainment",
@@ -189,24 +477,6 @@ const newsData_en = [
     "time": "2026-07-09T17:00:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "MHA unveils four-layer 'smart border' grid, cites J&amp;K, Northeast gains",
-    "desc": "The government is establishing a robust four-layer security grid to fortify India's borders. This initiative aims to create a modern border security system for the nation. Efforts are underway to combat drug trafficking and achieve victory over the menace. The government is also working to prevent illegal infiltration and demographic changes. This proactive approach strengthens national security and border region prosperity.",
-    "img": "https://static.toiimg.com/photo/msid-132294174,imgsize-924234.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/mha-unveils-four-layer-smart-border-grid-cites-jk-northeast-gains/articleshow/132294126.cms",
-    "time": "2026-07-09T16:54:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "quick-commerce platforms, large retail stores sound the death knell for small businesses, neighbourhood shops in Kerala",
-    "desc": "Neighbourhood shops and small retailers across the country are finding the going tough with e-commerce platforms and corporate-backed large retail stores rapidly establishing their business even in rural areas. A walk along the commercial areas as well as neighbourhoods reveals the plight of those who have been struggling to cope in the digital era. S.R. Praveen meets some of the retailers to understand the changing retail business scenario in Kerala",
-    "img": "https://th-i.thgim.com/public/incoming/du3fcj/article71202423.ece/alternates/LANDSCAPE_1200/NH24KumarStores05.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/dwindling-fortunes-quick-commerce-platforms-large-retail-stores-sound-the-death-knell-for-small-businesses-neighbourhood-shops-in-kerala/article71199060.ece",
-    "time": "2026-07-09T16:52:21.000Z"
-  },
-  {
     "cat": "World",
     "title": "India and Australia Deepen Defence Ties: What It Means for the Indo-Pacific",
     "desc": "From Prime Minister Narendra Modi’s visit to Australia to the escalating conflict in West Asia, to new developments in the Sri Lanka prison clashes, we bring you the latest in this episode. We also look at the Navy’s Drishti-10 UAV that crashed near Gujarat, the controversy surrounding Argentina’s latest FIFA World Cup win, and other top national and international stories. We bring you your complete news roundup.",
@@ -252,15 +522,6 @@ const newsData_en = [
     "time": "2026-07-09T16:08:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Hours after joining BJP, ex-TMC leaders named Rajya Sabha bypoll candidates",
-    "desc": "Three former Trinamool Congress leaders have joined the Bharatiya Janata Party. They were immediately nominated as BJP candidates for upcoming Rajya Sabha bypolls. These by-elections are for seats that fell vacant after their resignations last month. Their move follows internal turmoil and a significant defeat for the TMC. The BJP aims to strengthen its West Bengal presence with their experience.",
-    "img": "https://static.toiimg.com/photo/msid-132292949,imgsize-669544.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/hours-after-joining-bjp-ex-tmc-leaders-named-rajya-sabha-bypoll-candidates/articleshow/132292999.cms",
-    "time": "2026-07-09T16:01:54.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Jana Nayagan gets ‘A’ certificate; likely to release in theatres on July 24",
     "desc": "According to reports, after the makers implemented modifications suggested by the examining committee, the film was initially considered suitable for a 'U/A' certificate; however, the process stalled when a committee member raised an internal objection, claiming certain portions could hurt public sentiments.",
@@ -288,15 +549,6 @@ const newsData_en = [
     "time": "2026-07-09T15:28:50.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Drew Barrymore has shown fans a very different kind of home",
-    "desc": "Hollywood actor and talk show host Drew Barrymore is trading luxury living for a simpler summer adventure. Just weeks after securing a buyer for her extensively renovated Westchester County home, the 51-year-old gave fans a glimpse of her new temporary abode, an RV. Barrymore shared a playful video on Instagram, where she danced around the motorhome dressed in a baseball cap and flannel shirt while Enya's Caribbean Blue played in the background.",
-    "img": "https://static.toiimg.com/photo/msid-132291170,imgsize-100958.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/after-finding-a-buyer-for-her-restored-usd-5-million-westchester-estate-drew-barrymore-has-shown-fans-a-very-different-kind-of-home-a-cozy-rv-for-her-summer-getaway/articleshow/132290844.cms",
-    "time": "2026-07-09T15:27:29.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "10 red cards! Argentine referee for France-Morocco game once became players' nightmare",
     "desc": "Argentina's Facundo Tello will referee the France-Morocco World Cup quarter-final, drawing attention for his strict officiating style after famously showing 10 red cards in an Argentine Super Cup match. FIFA's decision to appoint an all-Argentine refereeing team has sparked debate, but France's players dismissed concerns, insisting they are focused solely on preparing for Morocco.",
@@ -306,22 +558,13 @@ const newsData_en = [
     "time": "2026-07-09T14:57:13.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Delhi HC adjourns Salman Khan’s plea on ‘Kala Hiran’",
-    "desc": "The Battle for Legacy'. The actor's legal team asserts that the film employs elements of his personal narrative without authorization. However, the filmmakers have firmly contested the request for immediate court relief. The next court session concerning this issue is slated for Friday.",
-    "img": "https://static.toiimg.com/photo/msid-132289859,imgsize-215764.cms",
+    "cat": "Business",
+    "title": "Nilekani’s Fundamentum launches Rs 2,200 crore Fund III",
+    "desc": "Fundamentum Partnership has launched its third fund with a Rs 2,200 crore target corpus. Nandan Nilekani anchors this fund, marking his largest venture capital commitment. The firm focuses on Series B investments in Indian technology companies ready for scaling. Fundamentum will invest Rs 100-150 crore in eight to ten portfolio companies. This new fund prioritizes consumer technology, fintech, and AI-native businesses.",
+    "img": "https://static.toiimg.com/photo/msid-132300626,imgsize-76526.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/delhi-high-court-adjourns-hearing-on-salman-khans-plea-against-kala-hiran-the-battle-for-legacy-release/articleshow/132289781.cms",
-    "time": "2026-07-09T14:55:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mahesh Bhatt's romance with Lorraine ended with relationship with Parveen Babi",
-    "desc": "Pooja Bhatt shared that the film Aashiqui drew inspiration from her parents' teenage love story. Her mother was in an orphanage and her father jumped a wall to meet her. He took responsibility for her after she was expelled from school. Mahesh Bhatt later confessed to his affair with Parveen Babi to Lorraine. Despite separation, Mahesh and Lorraine maintained mutual respect and her blessing.",
-    "img": "https://static.toiimg.com/photo/msid-132288541,imgsize-326507.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aashiqui-was-based-on-mahesh-bhatts-romance-with-first-wife-lorraine-the-fairytale-ended-with-his-relationship-with-parveen-babi-pooja-bhatt-says-my-mother-defended-his-marriage-to-soni-razdan/articleshow/132288499.cms",
-    "time": "2026-07-09T13:59:45.000Z"
+    "url": "https://timesofindia.indiatimes.com/business/india-business/nilekanis-fundamentum-launches-rs-2200-crore-fund-iii/articleshow/132289052.cms",
+    "time": "2026-07-09T14:12:28.000Z"
   },
   {
     "cat": "Business",
@@ -342,15 +585,6 @@ const newsData_en = [
     "time": "2026-07-09T13:32:59.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Celebs share tributes",
-    "desc": "Revered Welsh singer Bonnie Tyler has passed away at the age of 85. She died in a Portuguese hospital after emergency intestinal surgery and an induced coma. Many industry friends and fans shared heartfelt tributes on social media platforms. Bryan Adams and Catherine Zeta Jones remembered her powerful voice and joyful spirit. Carol Vorderman and Sir Cliff Richard also expressed their shock and sadness.",
-    "img": "https://static.toiimg.com/photo/msid-132287974,imgsize-300972.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/bonnie-tyler-passes-at-85-bryan-adams-catherine-zeta-jones-sir-cliff-richard-and-more-share-tributes/articleshow/132287870.cms",
-    "time": "2026-07-09T13:24:16.000Z"
-  },
-  {
     "cat": "World",
     "title": "Sri Lankan universities close, shift to online classes amid dengue surge",
     "desc": "The National Dengue Control Unit has reported a total of 65,034 dengue cases this year, with capital Colombo accounting for about a fifth of the cases; as many as 45 dengue-related deaths have been recorded as of July 8, 2026.",
@@ -358,24 +592,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/sri-lankan-universities-closeshift-to-online-classes-amid-denguesurge/article71202449.ece",
     "time": "2026-07-09T13:21:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "CM Vijay's 'Jana Nayagan' clears CBFC after months of battle, gets A certificate",
-    "desc": "Vijay's film 'Jana Nayagan' has finally received its A certificate after a prolonged censorship process. The movie faced numerous legal challenges, certification delays, and piracy leaks before its clearance. Its certified runtime is three hours and three minutes, with the release date expected soon. The film's extensive seven-month certification saga has become a notable event in Tamil cinema.",
-    "img": "https://static.toiimg.com/photo/msid-132288118,imgsize-384900.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/cm-vijays-jana-nayagan-finally-gets-an-a-certificate-from-cbfc-after-months-of-legal-battle-and-delays-after-release-date-announcement/articleshow/132287977.cms",
-    "time": "2026-07-09T13:21:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "PIL filed in Punjab and Haryana High Court for restoring Satluj on OTT",
-    "desc": "A Public Interest Litigation seeks the restoration of Diljit Dosanjh's film 'Satluj' on ZEE5. The film was removed from the streaming platform within two days of its release. This action is being challenged as a violation of freedom of speech and expression rights. The petition questions the lack of public justification for the film's removal. Authorities have formed a committee to examine the issue while reasons remain undisclosed.",
-    "img": "https://static.toiimg.com/photo/msid-132287294,imgsize-283427.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pil-filed-in-punjab-and-haryana-high-court-for-restoring-diljit-dosanjhs-satluj-on-ott-after-the-films-ban-in-india-this-amounts-to-a-violation-of-article-19/articleshow/132287291.cms",
-    "time": "2026-07-09T12:52:55.000Z"
   },
   {
     "cat": "Sports",
@@ -387,51 +603,6 @@ const newsData_en = [
     "time": "2026-07-09T12:48:59.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rashmika calls ‘Mysaa’ underwater fight her toughest yet",
-    "desc": "Rashmika Mandanna has finished filming a unique underwater fight sequence. This groundbreaking scene is for her upcoming action thriller film titled Mysaa. The actress described the experience as the most challenging of her career. This sequence marks a significant milestone for Indian cinema's action genre. The film Mysaa is scheduled for a theatrical release in the year 2026.",
-    "img": "https://static.toiimg.com/photo/msid-132287070,imgsize-222464.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/most-challenging-thing-ever-rashmika-mandanna-shares-bts-moments-from-mysaa-featuring-the-first-female-underwater-fight-sequence/articleshow/132286909.cms",
-    "time": "2026-07-09T12:39:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nolan’s The Odyssey: Viral AI images reimagine Aamir, Tabu , Sai Pallavi",
-    "desc": "Ahead of Christopher Nolan's 'The Odyssey', internet users created AI images imagining Indian actors in lead roles, casting Aamir Khan as Odysseus, Tabu as Penelope, Sai Pallavi as Athena, Ishaan Khatter as Telemachus, and Janhvi Kapoor as Helen. The film, starring Matt Damon and Anne Hathaway, releases worldwide on July 17, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-132286750,imgsize-207152.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/christopher-nolans-the-odyssey-viral-ai-images-reimagine-aamir-khan-as-odysseus-tabu-as-penelope-sai-pallavi-as-athena/articleshow/132286750.cms",
-    "time": "2026-07-09T12:28:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Total Eclipse of the Heart singer Bonnie Tyler passes away",
-    "desc": "Welsh singer Bonnie Tyler, known for \"Total Eclipse of the Heart\" and \"Holding Out for a Hero,\" died at 75 in a Portuguese hospital after an illness. Born Gaynor Hopkins, she rose to fame in the 1970s-80s, represented the UK at Eurovision 2013, and is survived by husband Robert Sullivan.",
-    "img": "https://static.toiimg.com/photo/msid-132286592,imgsize-227964.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/total-eclipse-of-the-heart-singer-bonnie-tyler-passes-away-at-75/articleshow/132286592.cms",
-    "time": "2026-07-09T12:17:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tragic! 44-year-old former football player dies after drowning in lake",
-    "desc": "Former Romania midfielder Gabriel Muresan has died at 44 after drowning in a lake near Apold, where he had served as mayor since 2020. The Romanian Football Federation and local authorities paid tribute to him. Muresan earned nine caps for Romania, won three league titles and three domestic cups with Cluj, and played in the UEFA Champions League.",
-    "img": "https://static.toiimg.com/photo/msid-132286277,imgsize-14378.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/tragic-44-year-old-former-football-player-dies-after-drowning-in-lake/articleshow/132285092.cms",
-    "time": "2026-07-09T12:04:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bhagyashree reacts to viral Kashi lassi controversy",
-    "desc": "Bhagyashree responded to backlash over a viral Kashi lassi video, calling claims of \"fake\" promotion baseless and clarifying she aimed to support local vendors. She defended the drink's health benefits, questioned critics' knowledge of the full context, and said promoting regional food carries no personal profit motive.",
-    "img": "https://static.toiimg.com/photo/msid-132285692,imgsize-202785.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bhagyashree-reacts-to-viral-kashi-lassi-controversy-and-fake-promotion-accusations-on-social-media-kya-aap-the-wahan-par/articleshow/132285692.cms",
-    "time": "2026-07-09T11:44:24.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Neymar Jr. : World Cup career in graphics",
     "desc": "After Brazil lost to Norway in the FIFA World Cup Round of 16 match, star player Neymar Junior bid adieu to international football after 16 years with the team. Here’s a graphical look at his career.",
@@ -439,15 +610,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/neymar-jr-world-cup-career-in-graphics/article71201159.ece",
     "time": "2026-07-09T11:22:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Has Ajay Devgn charged Rs 40 crore for 'Dhamaal 4?' Rest of the cast fees revealed",
-    "desc": "Dhamaal 4, releasing July 10, features Ajay Devgn, Riteish Deshmukh, and Arshad Warsi. Ajay Devgn voluntarily reduced his fee to support the high-budget film's production. Riteish Deshmukh and Arshad Warsi reportedly charged ten crore rupees each. Jaaved Jaaferi and Esha Gupta received two crore rupees for their roles. Anjali Anand shared her admiration for Riteish Deshmukh during recent interviews.",
-    "img": "https://static.toiimg.com/photo/msid-132285158,imgsize-593456.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/has-ajay-devgn-charged-rs-40-crore-for-dhamaal-4-heres-how-much-riteish-deshmukh-arshad-warsi-anjali-anand-and-others-got-report/articleshow/132285044.cms",
-    "time": "2026-07-09T11:22:15.000Z"
   },
   {
     "cat": "Business",
@@ -459,15 +621,6 @@ const newsData_en = [
     "time": "2026-07-09T10:53:45.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Madhavan revealed the harsh reality of life to teach gratitude to Vedaant",
-    "desc": "Actor R Madhavan shared values he instilled in his swimmer son Vedaant. He taught Vedaant gratitude by comparing toy costs to worker salaries. Madhavan also emphasized treating everyone with equal dignity and respect. He wanted Vedaant to be aware of his privileges and others' hard work. These lessons aimed to raise a compassionate and grounded human being.",
-    "img": "https://static.toiimg.com/photo/msid-132284278,imgsize-258898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-madhavan-revealed-the-harsh-reality-of-life-he-showed-son-vedaant-to-have-gratitude-told-him-the-salary-of-my-cook/articleshow/132283216.cms",
-    "time": "2026-07-09T10:47:32.000Z"
-  },
-  {
     "cat": "Business",
     "title": "ITR filing FY 2025-26: What Part A and Part B of Form 16 tell salaried taxpayers",
     "desc": "The deadline to file ITR for salaried taxpayers is July 31, 2026. In case you are confused about what details your Form 16 has and what are the top things to check in it, we have you covered.",
@@ -477,42 +630,6 @@ const newsData_en = [
     "time": "2026-07-09T10:32:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "After Chhaava and Eetha, director eyes Hrithik for next project",
-    "desc": "Director Laxman Utekar, fresh off 'Chhaava', has reportedly approached Hrithik Roshan for his next film, to be made after Shraddha Kapoor's 'Eetha' (August 28). Hrithik, busy with 'Krrish 4', hasn't responded yet. He'll first appear in a cameo in Rajinikanth's 'Jailer 2', releasing October 15.",
-    "img": "https://static.toiimg.com/photo/msid-132283758,imgsize-215474.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-chhaava-and-eetha-director-laxman-utekar-eyes-hrithik-roshan-for-next-project-reports/articleshow/132283758.cms",
-    "time": "2026-07-09T10:24:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'There is a deliberate plan against Sooryavanshi': Ex-India batter issues caution",
-    "desc": "Parthiv Patel believes Vaibhav Sooryavanshi will continue facing short-pitched bowling as opponents target his weakness against pace and bounce. After the youngster's modest scores against England, Patel said the tactic was evident during the IPL. He also urged India's batters to show greater patience, adapt to English conditions, and avoid rushing their innings after the third T20I collapse.",
-    "img": "https://static.toiimg.com/photo/msid-132283681,imgsize-135866.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/there-is-a-deliberate-plan-against-vaibhav-sooryavanshi-former-india-batter-issues-caution-ahead-of-4th-t20i-against-england/articleshow/132283600.cms",
-    "time": "2026-07-09T10:21:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Shreyas Iyer, Tilak don't deserve guaranteed spots': Kaif drops brutal verdict",
-    "desc": "Expressing his discontent, former cricketer Mohammad Kaif criticized the team selectors for their choice of leaders, specifically targeting Shreyas Iyer and Tilak Varma. Kaif feels these selections have had a negative impact on Sanju Samson's potential role in the squad. He argues that the selectors should face accountability for their choices, while Iyer and Varma maintain their leadership in the ongoing series.",
-    "img": "https://static.toiimg.com/photo/msid-132283372,imgsize-1089866.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/shreyas-iyer-tilak-varma-dont-deserve-guaranteed-spots-mohammad-kaif-questions-indias-leadership-calls/articleshow/132283372.cms",
-    "time": "2026-07-09T10:12:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Dhamaal 4 climax scene teases Dhamaal 5 in the pipeline",
-    "desc": "'Dhamaal 4', releasing July 10, brings back franchise regulars Ajay Devgn, Riteish Deshmukh, Arshad Warsi, and others, joined by new cast members. Directed by Indra Kumar and produced by T-Series, Devgn Films, and Panorama Studios, the film reportedly ends with a scene hinting at 'Dhamaal 5' being next in line.",
-    "img": "https://static.toiimg.com/photo/msid-132283505,imgsize-247700.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ajay-devgn-and-riteish-deshmukh-starrer-dhamaal-4-post-credit-climax-scene-teases-dhamaal-5-in-the-pipeline-reports/articleshow/132283505.cms",
-    "time": "2026-07-09T10:10:29.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'It will be one hell of a decision': Ashwin backs unchanged India XI despite Samson debate",
     "desc": "Ravichandran Ashwin supports maintaining the same Indian team for the fourth T20I match. He believes this stability sends a strong message to the squad. The spinner acknowledges Sanju Samson will likely miss out again. Ashwin noted India's young batting unit struggles in different conditions. He hopes the team gains experience and improves with time.",
@@ -520,33 +637,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/india-vs-england-it-will-be-one-hell-of-a-decision-ravichandran-ashwin-backs-unchanged-india-xi-despite-sanju-samson-debate/articleshow/132283075.cms",
     "time": "2026-07-09T10:02:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Welcome to the Jungle' smashes past Rs 180 crore worldwide gross on Day 14",
-    "desc": "'Welcome to the Jungle', directed by Ahmed Khan, stars Akshay Kumar, Suniel Shetty, Arshad Warsi, Paresh Rawal, Disha Patani, and Jacqueline Fernandez. Released on June 26, 2026, the meta-satirical action-comedy follows a corrupt tycoon's chaotic attempt to launder money by funding a deliberate box-office flop. As of Day 14, the film has earned Rs. 125.05 crore net in India (Rs. 148.61 crore domestic gross) and a global total of Rs. 180.06 crore gross.",
-    "img": "https://static.toiimg.com/photo/msid-132282885,imgsize-100886.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/welcome-to-the-jungle-box-office-collection-day-14-live-akshay-kumar-starrer-wraps-up-week-2-as-domestic-net-nears-rs-125-crore-after-sweeping-rs-177-worldwide-gross-ahead-of-dhamaal-4-release/articleshow/132282768.cms",
-    "time": "2026-07-09T09:52:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sidharth and Tamannaah starrer's jaw-dropping teaser features a warrior, bull and tiger",
-    "desc": "The Vvaan film has unveiled a new poster and its release date. Sidharth Malhotra and Tamannaah Bhatia star in this folk mythological thriller. The movie is scheduled to premiere in cinemas on September 25, 2026. Fans reacted positively to the poster and the film's mysterious concept. This project was initially announced in November 2024.",
-    "img": "https://static.toiimg.com/photo/msid-132282876,imgsize-239943.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-vvaan-motion-poster-out-sidharth-malhotra-and-tamannaah-bhatia-starrers-jaw-dropping-teaser-features-a-warrior-bull-and-tiger-kiara-advani-reacts/articleshow/132282882.cms",
-    "time": "2026-07-09T09:48:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Just unfair': Ashwin slams selectors over Sanju Samson's Zimbabwe snub",
-    "desc": "Ravichandran Ashwin voiced strong disapproval of Sanju Samson's exclusion from the T20I squad. He believes frequent team changes create player insecurity and harm the T20 setup. Ashwin questioned the logic behind dropping Samson after a few recent poor scores. He warned that players might focus on self-preservation instead of winning matches. This decision has sparked considerable debate within Indian cricket circles.",
-    "img": "https://static.toiimg.com/photo/msid-132282550,imgsize-43681.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/just-unfair-ashwin-slams-selectors-over-sanju-samsons-zimbabwe-snub/articleshow/132282548.cms",
-    "time": "2026-07-09T09:28:36.000Z"
   },
   {
     "cat": "Sports",
@@ -612,33 +702,6 @@ const newsData_en = [
     "time": "2026-07-09T06:55:45.000Z"
   },
   {
-    "cat": "Business",
-    "title": "India’s holdings of US Treasuries fall to near 6-year low; points to shift in RBI strategy",
-    "desc": "The strategic importance of gold came into sharper focus in 2022 after Western sanctions led to the freezing of a substantial portion of Russia's foreign exchange reserves. The episode underscored gold's value as a reserve asset.",
-    "img": "https://static.toiimg.com/photo/msid-132279477,imgsize-604418.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-rush-indias-holdings-of-us-treasuries-fall-to-near-6-year-low-points-to-shift-in-rbi-strategy/articleshow/132279420.cms",
-    "time": "2026-07-09T06:51:17.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India-Australia-Canada form tech triangle: New pact to boost AI, critical minerals and supply chains",
-    "desc": "India, Australia, and Canada will enhance technology and innovation cooperation through a new partnership. This pact aims to boost collaboration in critical and emerging technologies for mutual benefit. The agreement will focus on green energy, resilient supply chains, and critical minerals development. Leaders also discussed deepening defense, security, and economic ties between India and Australia. Future meetings will advance these collaborative efforts and explore new areas of partnership.",
-    "img": "https://static.toiimg.com/photo/msid-132278939,imgsize-116984.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-australia-canada-form-tech-triangle-new-pact-to-boost-ai-critical-minerals-and-supply-chains/articleshow/132278776.cms",
-    "time": "2026-07-09T06:23:04.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India flags inconsistencies in US approach to Section 301 forced labour law, points to selective exemptions",
-    "desc": "India questions US plans for new tariffs linked to alleged forced labor practices. New Delhi argues the US approach contains inconsistencies and prefers bilateral trade negotiations. Proposed tariffs could increase costs for Indian exporters and American consumers alike. India maintains its constitutional framework prevents forced labor and refutes US claims. The US Trade Representative is considering additional tariffs on imports from sixty economies.",
-    "img": "https://static.toiimg.com/photo/msid-132277859,imgsize-97532.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-flags-inconsistencies-in-us-approach-to-section-301-forced-labour-law-points-to-selective-exemptions/articleshow/132277733.cms",
-    "time": "2026-07-09T05:21:02.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Egyptian Football Association ‘cannot remain silent’ about officiating in loss to Argentina",
     "desc": "Egypt coach Hossam Hassan and several players criticised the officiating after being left in disbelief as Argentina scored three unanswered goals in 13 minutes to pull off one of the biggest comebacks in World Cup history",
@@ -655,24 +718,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/india-gets-its-98th-gm-both-parents-chess-coaches-10th-board-exam-forced-a-break-the-making-of-aswath-s-exclusive/articleshow/132277625.cms",
     "time": "2026-07-09T05:04:10.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India-Australia ties: Early trade pact, $500 million investment, clean energy and more —Top highlights from PM Modi's visit",
-    "desc": "India and Australia are strengthening economic ties and bilateral cooperation. Prime Minister Modi invited Australian businesses to invest in India's expanding economy. AustralianSuper announced a significant new investment in India's infrastructure fund. Discussions covered opportunities in clean energy, critical minerals, and technology sectors. Both nations aim to expand cooperation in trade and emerging sectors.",
-    "img": "https://static.toiimg.com/photo/msid-132276448,imgsize-1105339.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-australia-ties-early-trade-pact-500-million-investment-clean-energy-and-more-top-highlights-from-pm-modis-visit/articleshow/132276284.cms",
-    "time": "2026-07-09T03:45:09.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Crude nears $80 a barrel again after Trump declares US-Iran ceasefire ‘over’",
-    "desc": "Global oil markets are experiencing renewed chaos as crude prices surged significantly. US President Donald Trump declared the ceasefire agreement with Iran was over. Fresh US military strikes on Iranian targets heightened fears of supply disruptions. Maritime authorities raised the threat level for vessels transiting the strait. The rise in oil prices renews concerns over inflation and potential interest rate hikes.",
-    "img": "https://static.toiimg.com/photo/msid-132275339,imgsize-1080302.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/crude-chaos-oil-nears-80-a-barrel-again-after-trump-declares-us-iran-ceasefire-over/articleshow/132275311.cms",
-    "time": "2026-07-09T02:20:46.000Z"
   },
   {
     "cat": "Sports",
@@ -756,15 +801,6 @@ const newsData_en = [
     "time": "2026-07-08T12:09:36.000Z"
   },
   {
-    "cat": "World",
-    "title": "Marine Le Pen’s political career and the rise of the French far right: Timeline",
-    "desc": "The head of the National Rally, Le Pen, 57, gained popularity in recent years by softening the image of the party founded by her late father — who was known for his anti-semitic and racist remarks — and dropping extreme positions, such as exiting the European Union.",
-    "img": "https://th-i.thgim.com/public/incoming/xnkyhf/article71197948.ece/alternates/LANDSCAPE_1200/Marine%20Le%20Pen.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/marine-le-pen-political-career-the-rise-of-french-far-right-timeline/article71197272.ece",
-    "time": "2026-07-08T12:05:38.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "The year of the Grand Theft Auto",
     "desc": "Despite this year going down in history for giving us the hope of a new Grand Theft Auto game, here are some of the games rumoured for 2026, that should also be on your radar",
@@ -846,24 +882,6 @@ const newsData_en = [
     "time": "2026-07-08T02:07:16.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Cristiano Ronaldo bids adieu to World Cup with 'clear conscience'",
-    "desc": "Ronaldo will retire without a World Cup title or even a World Cup final appearance to ‌his name. His team’s best performance with Portugal came ​in his first appearance, a 2006 run to the semifinals and a fourth-place finish.",
-    "img": "https://th-i.thgim.com/public/incoming/e2npbx/article71195698.ece/alternates/LANDSCAPE_1200/2026-07-06T223056Z_996987139_RC2L8MAW0UPZ_RTRMADP_3_SOCCER-WORLDCUP-POR-ESP.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/cristiano-ronaldo-bids-adieu-to-world-cup-with-clear-conscience/article71195690.ece",
-    "time": "2026-07-08T02:06:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Two wins in three races but Ferrari boss plays down F1 title bid",
-    "desc": "Vasseur felt Mercedes, winners of seven of nine grands prix and on pole position in ‌all, still had a small advantage on pure performance even if Ferrari looked ​strong at the start and on race pace.",
-    "img": "https://th-i.thgim.com/public/incoming/7ftfsf/article71195552.ece/alternates/LANDSCAPE_1200/2026-07-05T174901Z_1218350523_UP1EM7518XXRB_RTRMADP_3_MOTOR-F1-BRITAIN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/motorsport/two-wins-in-three-races-but-ferrari-boss-plays-down-f1-title-bid/article71195549.ece",
-    "time": "2026-07-07T21:18:12.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India is the only market now that Japanese investors are keen about; Suzuki-backed Next Bharat Ventures announces a new $200 mn fund in India",
     "desc": "For Japanese investors, Japan’s market is shrinking. China market is no longer an option as it is becoming a closed market now. European markets are getting stale. American market is already too competitive because of its local policies and local organisations. The Southeast Asian market is already capped out. African market is very fast paced, it’s not ready yet. Now the only growth market which Japanese investors look into is India. India is the only priority market for Japanese investors now...",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/markets/stock-markets-snap-four-day-rally-amid-profit-booking-trent-tumbles-over-12/article71193434.ece",
     "time": "2026-07-07T13:08:06.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
   }
 ];
