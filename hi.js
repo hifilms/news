@@ -1,7 +1,43 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "India hope to significantly improve, England eye clean sweep",
+    "title": "Star West Indies cricketer quietly announced ODI retirement as head coach Daren Sammy reveals",
+    "desc": "Former West Indies captain Jason Holder has quietly announced his retirement from ODI cricket, as head coach Daren Sammy revealed. He confirmed that the all-rounder is still in contention to play Tests, but also wants...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/star-west-indies-cricketer-quietly-announced-odi-retirement-as-head-coach-daren-sammy-reveals-2026-07-11-1047944",
+    "time": "2026-07-11T15:15:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "South Africa midfielder tragically dies at 25 after representing nation in FIFA World Cup 2026",
+    "desc": "Just weeks after representing his country at the 2026 FIFA World Cup, South Africa international midfielder Jayden Adams has died. Police have opened an investigation after the body of a 25-year-old man was found at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/south-africa-midfielder-tragically-dies-at-25-after-representing-nation-in-fifa-world-cup-2026-2026-07-11-1047942",
+    "time": "2026-07-11T14:51:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Vaibhav Sooryavanshi not playing India vs England 5th T20I in Southampton?",
+    "desc": "India and England are taking on each other in the fifth and final T20I of the ongoing series. The two sides meet at the Rose Bowl in Southampton on July 11th, and with the Indian...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-vaibhav-sooryavanshi-not-playing-india-vs-england-5th-t20i-in-southampton-2026-07-11-1047940",
+    "time": "2026-07-11T14:15:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why has the toss been delayed ahead of 5th T20I between India and England despite clear weather? Check details",
+    "desc": "India and England are taking on each other in the fifth and final T20I of the ongoing series. The two sides are slated to meet at the Rose Bowl in Southampton on July 11th, and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-has-the-toss-been-delayed-ahead-of-5th-t20i-between-india-and-england-despite-clear-weather-check-details-2026-07-11-1047934",
+    "time": "2026-07-11T13:18:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jos Buttler, Harry Brook demolish Indian bowlers in Southampton",
     "desc": "The stage is set for the fifth and final T20I of the ongoing series between India and England. The two sides are slated to meet at the Rose Bowl in Southampton on July 11th. It...",
     "img": "",
     "src": "indiatvnews.com",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/nico-williams-exudes-confidence-as-spain-defeat-belgium-in-fifa-wc-2026-quarter-finals-2026-07-11-1047902",
     "time": "2026-07-11T07:41:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will the pitch in Southampton fare for the fifth T20I of the series?",
-    "desc": "The stage is set for the fifth and final T20I of the ongoing series between India and England. The two sides will meet at the Rose Bowl in Southampton on July 11th. It is worth...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-pitch-report-how-will-the-pitch-in-southampton-fare-for-the-fifth-t20i-of-the-series-2026-07-11-1047897",
-    "time": "2026-07-11T06:23:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sarvesh Kushare finishes third on Monaco Diamond League debut, defeats former champions",
-    "desc": "Indian high jumper Sarvesh Kushare became only the fourth Indian athlete to finish on the podium at a Diamond League. He finished third on his debut at the Monaco Diamond League on Friday, July 10...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/sarvesh-kushare-finishes-third-on-debut-monaco-diamond-league-defeats-former-champions-2026-07-11-1047876",
-    "time": "2026-07-10T21:50:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Super-sub Mikel Merino scores late as Spain beat Belgium 2-1 for semis spot, who will they play next?",
-    "desc": "Spain booked their place in the FIFA World Cup 2026 semi-finals after substitute Mikel Merino struck late to secure a 2-1 victory over Belgium in a hard-fought quarter-final in the early hours of Saturday. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/super-sub-mikel-merino-scores-late-as-spain-beat-belgium-2-1-for-semis-spot-who-will-they-play-next-2026-07-11-1047875",
-    "time": "2026-07-10T21:24:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Youri Tielemans not playing for Belgium in Spain in FIFA World Cup 2026 despite named in starting XI?",
-    "desc": "Belgium have been forced into a late change before their FIFA World Cup 2026 quarter-final against Spain after Youri Tielemans suffered an injury during the warm-up. The Aston Villa midfielder was ruled out of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/why-is-youri-tielemans-not-playing-for-belgium-in-spain-in-fifa-world-cup-2026-despite-named-in-starting-xi-2026-07-11-1047873",
-    "time": "2026-07-10T19:03:19.000Z"
   }
 ];

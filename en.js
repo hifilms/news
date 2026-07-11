@@ -1,12 +1,129 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Tom Hanks",
+    "desc": "Tom Hanks, an acclaimed actor known for his remarkable work in both comedy and drama, has a film career that's truly remarkable. His famous line from 'Forrest Gump' emphasizes the unpredictable nature of life and the importance of acceptance. Starting in television, Hanks quickly transitioned to Hollywood stardom, earning two Academy Awards for his versatile performances. Beyond acting, he is also an accomplished writer and enjoys significant wealth.",
+    "img": "https://static.toiimg.com/photo/msid-132333319,imgsize-92678.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-tom-hanks-life-is-like-a-box-of-chocolates-you-never-know-what-youre-gonna-get-understanding-the-profound-lesson-on-uncertainty-laid-down-by-hollywood-veteran-through-forrest-gump-dialogue/articleshow/132333263.cms",
+    "time": "2026-07-11T15:28:46.000Z"
+  },
+  {
     "cat": "Politics",
-    "title": "Odisha CM orders criminal investigation into errors in school textbooks",
-    "desc": "Taking the incident seriously, the Chief Minister has asked the Director of the State Council of Educational Research and Training (SCERT) to file an FIR with the Crime Branch SP, a statement issued by the CMO said",
-    "img": "https://th-i.thgim.com/public/incoming/1w8jii/article71210188.ece/alternates/LANDSCAPE_1200/20260702105L.jpg",
+    "title": "Ram temple donation 'theft' a disgrace; we feel humiliated: Nripendra Mishra",
+    "desc": "‘This is [now] an issue about temple management, and the management will surely be improved to guard against a repeat of this [alleged donation theft],’ the Ram Temple construction committee’s chairperson says; a high-level committee had been set up to suggest a suitable name as CEO",
+    "img": "https://th-i.thgim.com/public/incoming/jju82h/article71210292.ece/alternates/LANDSCAPE_1200/20260711076L.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/odisha/odisha-cm-orders-criminal-investigation-into-errors-in-school-textbooks/article71210141.ece",
-    "time": "2026-07-11T12:38:38.000Z"
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/ram-temple-donation-theft-a-disgrace-we-feel-humiliated-nripendra-mishra/article71210280.ece",
+    "time": "2026-07-11T15:09:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A.P. CM Chandrababu Naidu expresses anguish over death of two persons from State in Vietnam boat accident",
+    "desc": "Of the 33 persons from Andhra Pradesh who have gone on a trip, 19 are on the boat when the accident occurred, he says, and directs officials to take steps to bring back those who survived and contact the family members of the deceased and extend them necessary support",
+    "img": "https://th-i.thgim.com/public/incoming/voivcn/article71211002.ece/alternates/LANDSCAPE_1200/A.P.-CM-orders-GONG7V848.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/jagan-expresses-shock-over-death-of-telugu-tourists-in-vietnam-boat-accident/article71210279.ece",
+    "time": "2026-07-11T14:47:18.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran's supreme leader pledges revenge for slain father and predecessor",
+    "desc": "Iran's supreme leader ​Ayatollah Mojtaba Khamenei said ‌that ​avenging his ⁠slain predecessor and father was \"the demand of ‌the nation\" and \"must certainly\" take ‌place, according ‌to ⁠a written ⁠message released on his Telegram account",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-us-war-donald-trump-washington-tehran-peace-talks-west-asia-conflict-strait-of-hormuz-live-updates-july-11-2026/article71209275.ece",
+    "time": "2026-07-11T14:33:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Operation Lotus' in J&amp;K? CM Omar Abdullah claims BJP offered MLAs Rs 20-30 crore",
+    "desc": "Jammu and Kashmir's Chief Minister Omar Abdullah condemned the Bharatiya Janata Party for what he called attempts to destabilize his administration. He revealed that BJP legislators were allegedly offered lucrative financial rewards and government positions to switch loyalties. Abdullah claimed the BJP's promises of statehood to National Conference MLAs were a tactic to sway them.",
+    "img": "https://static.toiimg.com/photo/msid-132332767,imgsize-115580.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/operation-lotus-in-jk-cm-omar-abdullah-claims-bjp-offered-mlas-rs-20-30-crore/articleshow/132332553.cms",
+    "time": "2026-07-11T14:28:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "10 from Tamil Nadu, 3 from Andhra",
+    "desc": "Fifteen Indian nationals perished in a tragic boat accident off Vietnam's coast on Saturday. The speedboat carrying thirty-six people capsized near May Rut Ngoai Islet, prompting a swift rescue effort. Tourist boats arrived quickly, but some passengers remained trapped inside the overturned vessel. The Indian embassy released the names of the deceased, with most hailing from Tamil Nadu.",
+    "img": "https://static.toiimg.com/photo/msid-132332872,imgsize-488550.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/15-indians-killed-in-vietnam-boat-accident-10-from-tamil-nadu-3-from-andhra-embassy-releases-list-of-victims/articleshow/132332203.cms",
+    "time": "2026-07-11T14:27:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'When a captain is given ... '",
+    "desc": "Former Pakistan captain Ramiz Raja criticised the PCB for removing Shan Masood as Test captain and reinstating Babar Azam. Defending Shan, Raja said the skipper was unfairly blamed despite having an \"ordinary\" squad, adding, “If the standard of the Test squad is not good, how is the captain only responsible for this.” Pakistan next tour the West Indies and England.",
+    "img": "https://static.toiimg.com/photo/msid-132332487,imgsize-117294.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ramiz-raja-blasts-pcb-over-shan-masood-sacking-when-a-captain-is-consistently-given-a-group-of-ordinary-players-/articleshow/132332339.cms",
+    "time": "2026-07-11T14:20:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Palaash Muchhal fails to get anticipatory bail in Rs 40 lakh cheating case",
+    "desc": "Singer Palaash Muchhal's anticipatory bail plea was rejected by a Sangli sessions court. This legal development follows an FIR filed by Vidnyan Mane concerning financial matters. Mane also accused Muchhal of cheating his former fiancée, Smriti Mandhana. The FIR includes allegations of caste-based derogatory remarks made by Muchhal. Muchhal's legal team plans to challenge the court's decision in a higher court.",
+    "img": "https://static.toiimg.com/photo/msid-132332445,imgsize-215686.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/palaash-mucchal-fails-to-get-anticipatory-bail-from-court-in-rs-40-lakh-cheating-case-filed-by-vidnyan-mane-his-lawyer-says-they-may-challenge-the-order/articleshow/132332292.cms",
+    "time": "2026-07-11T14:16:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sooryavanshi dropped, Samson returns as India opt to bowl in 5th T20I",
+    "desc": "India captain Shreyas Iyer won the toss and elected to bowl first against England. The team made two changes to their playing eleven for the final match. England captain Harry Brook aims for the world number one ranking with a victory. Adil Rashid is making his 150th T20I appearance for the English side. Both teams seek to finish the series strongly with their best efforts.",
+    "img": "https://static.toiimg.com/photo/msid-132332287,imgsize-26590.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/vaibhav-sooryavanshi-dropped-sanju-samson-returns-as-india-opt-to-bowl-in-5th-t20i/articleshow/132332253.cms",
+    "time": "2026-07-11T14:08:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Pawan Kalyan undergoes 3.5 hour shoulder surgery in Mumbai",
+    "desc": "Andhra Pradesh Deputy Chief Minister Pawan Kalyan had successful shoulder surgery in Mumbai. Doctors performed a three-and-a-half-hour procedure on his right shoulder. This surgery addressed severe rotator cuff injuries and an avulsion fracture. His injuries originally sustained in 2016 worsened over years of public interactions. Surgery for his left shoulder is planned in approximately two months.",
+    "img": "https://static.toiimg.com/photo/msid-132332117,imgsize-198557.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pawan-kalyan-undergoes-3-5-hour-shoulder-surgery-in-mumbai-after-being-diagnosed-with-severe-rotator-cuff-injuries/articleshow/132332115.cms",
+    "time": "2026-07-11T13:56:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Mighty majestic matchless': The stealth frigates redefining India's maritime power",
+    "desc": "The Indian Navy proudly commissioned INS Mahendragiri, the latest addition to its fleet as the sixth Project 17A stealth frigate. This remarkable warship embodies India's commitment to self-reliance in defence technology, enhancing its maritime combat capabilities. With multifaceted roles including anti-air and anti-submarine warfare, INS Mahendragiri bolsters India's strategic foothold in the Indo-Pacific, aligning perfectly with the country's ambitious naval modernisation agenda.",
+    "img": "https://static.toiimg.com/photo/msid-132332011,imgsize-253656.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/mighty-majestic-matchless-the-stealth-frigates-redefining-indias-maritime-power/articleshow/132331258.cms",
+    "time": "2026-07-11T13:50:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vijay's ‘Jana Nayagan’ drop fierce new poster",
+    "desc": "Thalapathy Vijay's new movie Jana Nayagan has been granted an 'A' certificate by the CBFC, allowing for a mature audience. A fresh poster has been unveiled, capturing Vijay in an intense persona. Many believe this film marks Vijay's last major role before he shifts focus to a political career. The film is set to hit theaters on July 24th and boasts an ensemble cast along with special cameo roles.",
+    "img": "https://static.toiimg.com/photo/msid-132331312,imgsize-303868.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-makers-drop-powerful-new-poster-featuring-thalapathy-vijay-ahead-of-release-film-receives-a-certification/articleshow/132331178.cms",
+    "time": "2026-07-11T13:19:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Everyone comes with their own demons’",
+    "desc": "On Koffee with Karan, Samantha Ruth Prabhu spoke honestly about the topic of nepotism, remarking that every actor faces individual struggles. Starting her career as a model, she soon transitioned to acting with her debut in the Tamil movie Ye Maaya Chesave, where she has since risen to prominence in the film world.",
+    "img": "https://static.toiimg.com/photo/msid-132331409,imgsize-222022.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/when-samantha-ruth-prabhu-addressed-nepotism-in-tollywood-everyone-comes-with-their-own-demons/articleshow/132331364.cms",
+    "time": "2026-07-11T13:14:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ashish predicts hit run for Christopher Nolan's The Odyssey",
+    "desc": "Ashish Chanchlani attended an exclusive Mumbai premiere of Christopher Nolan's 'The Odyssey' and called it a \"10/10,\" praising it as a \"pure Matt Damon show\" with no boring scenes. He predicted a blockbuster run, lauded the VFX, and said the film's emotional depth would silence critics and audiences alike.",
+    "img": "https://static.toiimg.com/photo/msid-132331259,imgsize-215780.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/picture-mein-ek-minute-boring-scene-nahi-hai-ashish-chanchlani-predicts-blockbuster-run-for-christopher-nolans-the-odyssey/articleshow/132331259.cms",
+    "time": "2026-07-11T13:02:31.000Z"
   },
   {
     "cat": "Entertainment",
@@ -16,24 +133,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/is-vedang-raina-dating-actor-finally-spills-the-beans-on-his-relationship-status-talks-about-main-vaapas-aaunga-and-dream-directors/articleshow/132330855.cms",
     "time": "2026-07-11T12:38:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "J&K leads in rising C-section rates across private hospitals in India, NFHS-6 data shows",
-    "desc": "In India, medical experts attribute the increase in C-sections to a combination of more institutional deliveries, improved detection of high-risk pregnancies, increasing maternal age and medical complications, greater use of assisted reproductive technologies, previous C-sections, and the rapid growth of private-sector obstetric care",
-    "img": "https://th-i.thgim.com/public/news/national/8yiamg/article71209678.ece/alternates/LANDSCAPE_1200/iStock-2211794005.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/health/nine-in-ten-why-jammu-and-kashmirs-privatehospitals-have-indias-highest-c-section-rate/article71209545.ece",
-    "time": "2026-07-11T12:34:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India achieves 20% ethanol blending: what E20, E85 and E100 mean| The Hindu explained",
-    "desc": "India has achieved 20% ethanol blending (E20) in petrol, five years ahead of schedule, and is now preparing for higher blends such as E85 and E100. But what does this mean for consumers? Will fuel become cheaper? Will your vehicle’s mileage drop? And can all cars run on higher ethanol blends? The Hindu explains.",
-    "img": "https://th-i.thgim.com/public/news/national/p6mtxx/article71210329.ece/alternates/LANDSCAPE_1200/TH%20EXPLAIN.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-india-achieves-20-ethanol-blending-what-e20-e85-and-e100-mean-the-hindu-explained/article71210328.ece",
-    "time": "2026-07-11T12:31:51.000Z"
   },
   {
     "cat": "Politics",
@@ -72,24 +171,6 @@ const newsData_en = [
     "time": "2026-07-11T12:04:25.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Activists seek early decision on better access to life-saving breast cancer medicine",
-    "desc": "The case has been pending before the Kerala High Court since June 2022; the writ petition has been listed 57 times for final hearing without the case being heard since January 21, 2023, the Working Group on Access to Medicines and Treatment says in its letter",
-    "img": "https://th-i.thgim.com/public/news/national/6fxbce/article71210256.ece/alternates/LANDSCAPE_1200/iStock-1865003736.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/health/activists-seek-early-decision-on-better-access-to-life-saving-breast-cancer-medicine/article71209961.ece",
-    "time": "2026-07-11T11:43:20.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran's supreme leader pledges revenge for slain father and predecessor",
-    "desc": "Iran's supreme leader ​Ayatollah Mojtaba Khamenei said ‌that ​avenging his ⁠slain predecessor and father was \"the demand of ‌the nation\" and \"must certainly\" take ‌place, according ‌to ⁠a written ⁠message released on his Telegram account",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-us-war-donald-trump-washington-tehran-peace-talks-west-asia-conflict-strait-of-hormuz-live-updates-july-11-2026/article71209275.ece",
-    "time": "2026-07-11T11:37:44.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Quote of the day by Gary Cooper",
     "desc": "Celebrating the essence of independent thought, Gary Cooper's quote reflects those who change the world. He embarked on his acting career early, rapidly rising to fame and securing his status as a top-paid film star. Over his career, Cooper featured in more than a hundred movies, with 'High Noon' as a standout. His background was steeped in ranching and cowboy culture prior to entering Hollywood.",
@@ -97,15 +178,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-gary-cooper-one-man-who-saw-through-his-own-eyes-and-thought-with-his-own-brain-such-men-may-be-rare-but-they-move-the-world-when-the-late-hollywood-star-explained-the-importance-of-having-your-own-voice-through-a-dialogue-from-the-fountainhead/articleshow/132329753.cms",
     "time": "2026-07-11T11:32:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SIA Kashmir secures Interpol Red Corner notice against Hizbul terrorist",
-    "desc": "\"In a breakthrough in its sustained counter-terrorism eï¬orts, the SIA Kashmir has secured an Interpol Red Corner Notice (RCN) against designated Hizbul Mujahideen (HM) terrorist Imtiyaz Ahmad Kandoo alias Fayaz alias Sajad,\" says the officials",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/sia-kashmir-secures-interpol-red-corner-notice-against-hizbul-terrorist/article71210210.ece",
-    "time": "2026-07-11T11:29:52.000Z"
   },
   {
     "cat": "Sports",
@@ -155,7 +227,7 @@ const newsData_en = [
   {
     "cat": "Sports",
     "title": "Kushare scripts history on Diamond League debut, becomes first Indian ever to...",
-    "desc": "India's Sarvesh Kushare finished third in the men's high jump on his Diamond League debut at the Monaco meet, clearing 2.26m. He became the first Indian to secure a top-three finish on a Diamond League debut and only the fourth Indian to achieve the feat overall. The podium finish continues his impressive season ahead of the 2026 Commonwealth Games.",
+    "desc": "India's Sarvesh Kushare finished third in the men's high jump on his Diamond League debut at the Monaco meet, clearing 2. 26m. He became the first Indian to secure a top-three finish on a Diamond League debut and only the fourth Indian to achieve the feat overall. The podium finish continues his impressive season ahead of the 2026 Commonwealth Games.",
     "img": "https://static.toiimg.com/photo/msid-132329006,imgsize-98254.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/sarvesh-kushare-scripts-history-on-diamond-league-debut-becomes-first-indian-ever-to-/articleshow/132328737.cms",
@@ -217,21 +289,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Shekhar REACTS to Matt Damon wanting to work with him",
-    "desc": "Matt Damon named Shekhar Kapur as the Indian filmmaker he wants to work with, recalling missing out on 'The Four Feathers' decades ago due to Bourne commitments. Kapur responded warmly, praising Damon's talent. The two spoke at 'The Odyssey' Mumbai press conference, ahead of Nolan's epic release on July 17.",
-    "img": "https://static.toiimg.com/photo/msid-132328170,imgsize-257598.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/would-give-my-right-arm-shekhar-kapur-reacts-to-matt-damon-wanting-to-work-with-him/articleshow/132328170.cms",
-    "time": "2026-07-11T09:37:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anne Hathaway wants her children to grow up to be like Tom Holland",
-    "desc": "Actress Anne Hathaway described her collaboration with Tom Holland on 'The Odyssey' as a dream come true. She expressed her hope for her children to emulate the admirable qualities of the Spider-Man star. Hathaway also fondly recalled her exhilarating experience while filming Christopher Nolan's grand adaptation. Set for release in July, the film chronicles King Odysseus's epic journey.",
-    "img": "https://static.toiimg.com/photo/msid-132328167,imgsize-96132.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/anne-hathaway-calls-tom-holland-her-dream-son-says-i-very-much-hope-all-of-my-children-grow-up-to-be-as-wonderful-as-my-onscreen-child/articleshow/132327990.cms",
-    "time": "2026-07-11T09:37:09.000Z"
+    "title": "Chennai’s Victoria Public Hall to host an all-day Tamil rap concert",
+    "desc": "Rap at the Victoria Public Hall? At Multticulture on July 19, catch some of the freshest voices of Tamil rap take part in epic battles and masterclasses that teach young musicians how to produce their own verses",
+    "img": "https://th-i.thgim.com/public/life-and-style/3vrtqy/article71197527.ece/alternates/LANDSCAPE_1200/cxas.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/chennais-victoria-public-hall-to-host-an-all-day-tamil-rap-concert/article71193226.ece",
+    "time": "2026-07-11T09:56:47.000Z"
   },
   {
     "cat": "Politics",
@@ -250,15 +313,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/diljit-dosanjhs-satluj-faces-another-blow-honey-trehan-directorial-removed-from-zee5s-international-catalogue-reports/articleshow/132327913.cms",
     "time": "2026-07-11T09:24:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Matt Damon wanted to work with Shekhar Kapur",
-    "desc": "Matt Damon revealed he wanted to work with Shekhar Kapur on 'The Four Feathers' (2002) but missed out, likely due to his Jason Bourne commitment. Speaking at 'The Odyssey' Mumbai event, he called it a \"20-year-old debt\" he still carries. He plays Odysseus in 'The Odyssey', alongside Anne Hathaway, Tom Holland and others.",
-    "img": "https://static.toiimg.com/photo/msid-132327816,imgsize-220821.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/matt-damon-wanted-to-work-with-shekhar-kapur-reveals-why-he-couldnt-do-the-four-feathers/articleshow/132327816.cms",
-    "time": "2026-07-11T09:11:20.000Z"
   },
   {
     "cat": "Entertainment",
@@ -297,15 +351,6 @@ const newsData_en = [
     "time": "2026-07-11T08:42:36.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Aditi Govitrikar talks about how women’s roles in films have been affected because of their age",
-    "desc": "Aditi Govitrikar underscores the challenge women face regarding age-related barriers in the film industry, pointing out that male stars often play leading roles well beyond their prime. With the advent of OTT platforms, there is hope for greater representation and more suitable roles for women. Govitrikar also notes that women continue to experience objectification in some films, yet she remains encouraged by the rise of more meaningful roles.",
-    "img": "https://static.toiimg.com/photo/msid-132327529,imgsize-72010.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aditi-govitrikar-shares-women-are-defined-by-their-age-once-crossed-heroines-are-usually-offered-the-roles-of-mother-or-aunty/articleshow/132327390.cms",
-    "time": "2026-07-11T08:42:18.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "how Jyothi Yarraji and coach James Hillier rebuilt India’s best 100m hurdler",
     "desc": "The 26-year-old athlete’s world came crashing down last June when she tore her ACL. After chasing speed all her life, she had to endure a period of painful, stationary monotony. But thanks to a steady supply of blueberries, strawberries and chocolates from her coach, rigorous rehab and unwavering focus, Jyothi is back to winning ways",
@@ -313,24 +358,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/athletics/how-jyothi-yarraji-and-coach-james-hillier-rebuilt-indias-best-100m-hurdler/article71208097.ece",
     "time": "2026-07-11T08:36:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Inside his Rs 230 crore fortune",
-    "desc": "Renowned Indian film actor Dhanush has made a name for himself with a prolific career comprising more than fifty movies. His financial achievements are substantial, highlighted by his lavish residence in Chennai and a stellar collection of luxury vehicles. Beyond his acting prowess which has earned him two National Awards, Dhanush also excels as a singer and producer.",
-    "img": "https://static.toiimg.com/photo/msid-132327209,imgsize-728749.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/dhanush-net-worth-deets-from-rs-150-crore-chennai-home-to-rolls-royce-ghost-inside-the-actors-rs-230-crore-fortune/articleshow/132327175.cms",
-    "time": "2026-07-11T08:26:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nitesh Tiwari researched ‘Ramayana’ film for more than 10 years",
-    "desc": "Director Nitesh Tiwari has invested over a decade in research for his grand project, 'Ramayana.' This film's pre-production phase included extensive discussions with historians and study of ancient texts. Featuring Ranbir Kapoor and Sai Pallavi as the iconic characters Ram and Sita, the movie promises a groundbreaking visual experience. Fans can anticipate the trailer's premiere at Comic Con on July twenty-fourth, aiming to redefine the standards of Indian cinema.",
-    "img": "https://static.toiimg.com/photo/msid-132327095,imgsize-138420.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nitesh-tiwari-worked-on-ramayana-for-more-than-10-years-researched-shastras-and-consulted-pandits-on-pre-production/articleshow/132327095.cms",
-    "time": "2026-07-11T08:16:26.000Z"
   },
   {
     "cat": "Business",
@@ -385,15 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/muzammil-ibrahim-makes-fresh-claims-about-dating-deepika-padukone-no-regrets-love-watching-her-movies-i-was-big-star-she-is-now/articleshow/132326669.cms",
     "time": "2026-07-11T07:34:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Inside SRK's Rs 1,227 crore property empire",
-    "desc": "Shah Rukh Khan, worth Rs 12,490 crore, recently bought a Rs 37 crore Delhi property, his former family home. His assets include Red Chillies Entertainment (Rs 500 crore), Mumbai's Mannat (Rs 200 crore), a Delhi bungalow (Rs 200 crore), London's Mayfair home (Rs 175 crore), Alibaug estate (Rs 15 crore), and Dubai villa Jannat (Rs 100 crore).",
-    "img": "https://static.toiimg.com/photo/msid-132326636,imgsize-172422.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mannat-to-dubais-jannat-inside-shah-rukh-khans-rs-1227-crore-property-empire-after-his-latest-rs-37-crore-delhi-buy/articleshow/132326636.cms",
-    "time": "2026-07-11T07:30:08.000Z"
   },
   {
     "cat": "Sports",
@@ -478,15 +496,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Pollard, Tajinder Dhillon script stunning comeback as MI New York stun Seattle Orcas",
-    "desc": "MI New York secured a remarkable 17-run victory against Seattle Orcas. Seattle appeared to be cruising towards victory after a strong start. MI New York's bowlers struck at regular intervals to trigger a collapse. Tajinder Dhillon's brilliant fifty and Kieron Pollard's all-round performance were key. This win significantly impacted the playoff race for both teams.",
-    "img": "https://static.toiimg.com/photo/msid-132324801,imgsize-1204691.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/major-league-cricket/kieron-pollard-tajinder-dhillon-script-stunning-comeback-as-mi-new-york-stun-seattle-orcas/articleshow/132324800.cms",
-    "time": "2026-07-11T04:42:52.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Neeraj Chopra needs to pay for his coach in CWG; Jadumani gets the nod",
     "desc": "Neeraj Chopra's coach Jaiveer Chaudhary is missing from the final Indian contingent list. M Sreeshankar's coach and father, S Murali, also faces omission from the approved squad. Jadumani Singh's inclusion in boxing was cleared after initial clarification from the federation. The ministry approved a 191-member contingent for the upcoming Games. Officials not part of the approved list will travel at personal expense.",
     "img": "https://static.toiimg.com/photo/msid-132324758,imgsize-25582.cms",
@@ -523,39 +532,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "History at Lord's! Harmanpreet Kaur enters elite Indian list",
-    "desc": "Indian captain Harmanpreet Kaur achieved 9000 international runs. She became the third Indian woman to reach this significant milestone. This landmark was achieved during her innings against England at Lord's. She joins Mithali Raj and Smriti Mandhana in this elite club. Harmanpreet has amassed 9045 runs in 374 international matches.",
-    "img": "https://static.toiimg.com/photo/msid-132323960,imgsize-142720.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/history-at-lords-harmanpreet-kaur-enters-elite-indian-list-with-special-milestone/articleshow/132323972.cms",
-    "time": "2026-07-11T03:18:53.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Mikel Merino creates FIFA World Cup history, becomes first player to...",
     "desc": "Mikel Merino scored another decisive late goal for Spain against Belgium. This victory propelled La Roja into the FIFA World Cup 2026 semifinals. Merino's impactful substitute appearances have now made World Cup history. Spain will face France in their next crucial tournament match. The team's unbeaten run in regular time now extends significantly.",
     "img": "https://static.toiimg.com/photo/msid-132323920,imgsize-145846.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/mikel-merino-creates-fifa-world-cup-history-becomes-first-player-to-score-winning-goals-as-substitute-in-two-knockout-matches/articleshow/132323928.cms",
     "time": "2026-07-11T03:10:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Who is Clement Turpin? Referee once labelled 'Grade E'",
-    "desc": "French referee Clément Turpin will officiate England's World Cup quarterfinal match. This experienced official has previously worked several high-profile tournament games. Turpin has overseen England in five previous victories and one draw. He was criticized by Thomas Tuchel after a Champions League match last year. Despite past criticism, Turpin remains a respected figure in football officiating.",
-    "img": "https://static.toiimg.com/photo/msid-132325530,imgsize-78112.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/who-is-clement-turpin-england-vs-norway-fifa-world-cup-quarterfinal-referee-once-labelled-grade-e-by-thomas-tuchel/articleshow/132323800.cms",
-    "time": "2026-07-11T02:53:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India, New Zealand seal 18 pacts across defence, trade and security",
-    "desc": "India and New Zealand elevated their ties to a strategic partnership. Prime Ministers Modi and Luxon signed eighteen agreements for cooperation. This roadmap guides future collaboration across multiple key sectors. Bilateral trade aims to reach seven billion New Zealand dollars by 2030. Both nations will enhance maritime security and disaster management efforts.",
-    "img": "https://static.toiimg.com/photo/msid-132323783,imgsize-107100.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/roadmap-to-2030-india-new-zealand-seal-18-pacts-across-defence-trade-and-security/articleshow/132323742.cms",
-    "time": "2026-07-11T02:48:47.000Z"
   },
   {
     "cat": "Sports",
@@ -583,15 +565,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/bcci-to-review-recent-white-ball-setbacks/article71207556.ece",
     "time": "2026-07-10T22:21:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Merino magic strikes again as Spain edge past Belgium to enter semis",
-    "desc": "Mikel Merino scored a late winner to secure Spain's World Cup semi-final spot. Spain defeated Belgium 2-1 in a thrilling quarter-final match on Friday. They will now face tournament favorites France in their next game. Spain extended their impressive unbeaten run to thirty-seven matches. Belgium's eighteen-game undefeated streak concluded with this loss.",
-    "img": "https://static.toiimg.com/photo/msid-132320751,imgsize-87046.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/spain-vs-belgium-fifa-world-cup-qf-match-result-merino-magic-strikes-again-as-spain-edge-past-belgium-to-enter-wc-semis/articleshow/132320751.cms",
-    "time": "2026-07-10T22:09:32.000Z"
   },
   {
     "cat": "Sports",
@@ -738,15 +711,6 @@ const newsData_en = [
     "time": "2026-07-10T02:37:52.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Gambhir’s fumbling and bungling India",
-    "desc": "Of all the failures that have liberally dotted the coach’s brief tenure, the most chastening will be the 2-0 rout in Ireland, followed closely by 76 all out against England in Nottingham; several of India’s methods in the last couple of years have been steeped in madness that is all too visible",
-    "img": "https://th-i.thgim.com/public/incoming/awfh16/article71203901.ece/alternates/LANDSCAPE_1200/PTI06_05_2026_000043B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/gambhirsfumbling-and-bungling-india/article71203867.ece",
-    "time": "2026-07-09T19:04:06.000Z"
-  },
-  {
     "cat": "World",
     "title": "India, Australia strike deal on uranium exports, deepen ties across nuclear and maritime sectors",
     "desc": "The agreement on civil nuclear energy to facilitate the commercial supply of uranium from Australia to India to fuel New Delhi's nuclear power projects came nearly 12 years after the two countries inked a historic civil nuclear cooperation pact",
@@ -754,24 +718,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/eye-on-indo-pacific-india-and-australia-deepen-ties-across-nuclear-maritime-and-mineral-sectors/article71202208.ece",
     "time": "2026-07-09T17:12:18.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Bishnoi ran decentralised syndicate, wanted ‘S.K.’ killed to instill fear: U.S. DoJ",
-    "desc": "DoJ says Bishnoi’s group “enticed impoverished minors in India to join the enterprise” and loyal members were sent abroad to work for the network; gang members had “limited information on the identities or backgrounds” of others in the group",
-    "img": "https://th-i.thgim.com/public/incoming/ktsvky/article71203509.ece/alternates/LANDSCAPE_1200/2024-10-16T095057Z_1045690664_RC2LLAAAAMXG_RTRMADP_3_CANADA-INDIA-BISHNOI.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bishnoi-ran-decentralised-syndicate-wanted-sk-killed-to-instill-fear-us-doj/article71202636.ece",
-    "time": "2026-07-09T17:07:40.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "India and Australia Deepen Defence Ties: What It Means for the Indo-Pacific",
-    "desc": "From Prime Minister Narendra Modi’s visit to Australia to the escalating conflict in West Asia, to new developments in the Sri Lanka prison clashes, we bring you the latest in this episode. We also look at the Navy’s Drishti-10 UAV that crashed near Gujarat, the controversy surrounding Argentina’s latest FIFA World Cup win, and other top national and international stories. We bring you your complete news roundup.",
-    "img": "https://th-i.thgim.com/public/news/national/q7oa7c/article71203677.ece/alternates/LANDSCAPE_1200/JULY%207%20THUMB%201.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-india-and-australia-deepen-defence-ties-what-it-means-for-the-indo-pacific-above-the-fold-09072026/article71203679.ece",
-    "time": "2026-07-09T16:46:58.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +844,50 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
     "time": "2024-03-11T10:20:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
+    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
+    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
+    "time": "2024-03-11T10:00:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
+    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
+    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
+    "time": "2024-03-11T09:41:17.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Here’s how much the smartphone costs",
+    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
+    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
+    "time": "2024-03-11T09:36:12.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
+    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
+    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
+    "time": "2024-03-11T09:19:46.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Former Activision boss reportedly wants to buy TikTok",
+    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
+    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
+    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
