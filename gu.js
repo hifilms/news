@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "વર્લ્ડ કપમાં 7 ગોલ... મેદાન બહાર પણ એર્લિંગ હાલેન્ડનો દબદબો, આ મામલે બન્યો નંબર-1",
+    "desc": "નોર્વેનો 25 વર્ષનો સ્ટાર ફૂટબોલર એર્લિંગ હાલેન્ડ વર્લ્ડ કપ 2026 દરમિયાન ખુબ ચર્ચામાં રહ્યો છે. હાલેન્ડે નોર્વેને વર્લ્ડ કપ 2026ની ક્વાર્ટર ફાઈનલ સુધી પહોંચાડવામાં ખુબ મહત્વની ભૂમિકા ભજવી છે. એર્લિંગ હાલેન્ડે ટુર્નામેન્ટમાં અત્યાર સુધીમાં 7 ગોલ કર્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/football-world-cup-2026-another-big-achievement-for-erling-haaland-his-song-tops-in-norway-spotify-484232 ",
+    "time": "2026-07-11T05:22:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ચીનની દાદાગીરી સામે ભારતનો માસ્ટરસ્ટ્રોક! ભારત-ન્યૂઝીલેન્ડે વધાર્યા વ્યૂહાત્મક સંબંધો, 18 સમજૂતિઓ પર મહોર",
+    "desc": "પીએમ મોદી ન્યૂઝીલેન્ડના ઐતિહાસિક પ્રવાસ અંતર્ગત ઓકલેન્ડ પહોંચ્યા જ્યાં તેમણે પોતાના સમકક્ષ ક્રિસ્ટોફર લક્સન સાથે દ્વિપક્ષીય મંત્રણા કરી. પીએમ મોદીએ ભારત અને ન્યૂઝીલેન્ડને સ્વાભાવિક પાર્ટનર ગણાવ્યા અને બંને દેશોના સંબંધને રણનીતિક સ્તરે લઈ જવા પર સહમતિ જતાવી. વાતચીત બાદ બંને દેશ વચ્ચે મહત્વની સમજૂતિઓ પર આદાન પ્રદાન થયું જેનો હેતુ અલગ અલગ ક્ષેત્રોમાં સહયોગ વધારવાનો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/what-did-india-gain-from-pm-modi-new-zealand-visit-find-out-in-18-points-484231 ",
+    "time": "2026-07-11T05:02:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "મિકેલ મરીનોનો મહાજાદુ! બેલ્જિયમનું વર્લ્ડ કપનું સપનું ચકનાચૂર, સેમીફાઈનલમાં પહોંચ્યું સ્પેન",
+    "desc": "ફૂટબોલ વર્લ્ડ કપ 2026નો રોમાંચ ચરમસીમાએ પહોંચ્યો છે. શુક્રવારે એક અત્યંત રોમાંચક મુકાબલામાં સ્પેન દમદાર પ્રદર્શન કરીને સેમીફાઈનલમાં પહોંચી ગયું છે. જ્યારે બેલ્જિયમનું વર્લ્ડ કપ જીતવાનું સપનું ચકનાચૂર થઈ ગયું. ક્વાર્ટરફાઈનલમાં બેલ્જિયમે 1-2થી હારનો સામનો કરવો પડ્યો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/spain-beats-belgium-enters-into-semi-finals-of-world-cup-2026-mikel-marino-superb-performance-484228 ",
+    "time": "2026-07-11T04:01:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ક્રિસ્ટોફર નોલનની ફિલ્મ ધ ઓડિસીનો ક્રેઝ, 47,000 ખર્ચીને પણ લોકોને ફિલ્મ જોવી છે, જાણો એવું તો શું છે આ ફિલ્મમાં ?",
+    "desc": "ભારત સહિત દુનિયાભરના ફિલ્મ ચાહકોમાં અત્યારે ક્રિસ્ટોફર નોલનની ફિલ્મ ધ ઓડિસીનો જબરદસ્ત ક્રેઝ છે. આ ફિલ્મ લોકોને અદ્ભુત અનુભવ કરાવે તેવી છે. આ ફિલ્મનો ક્રેઝ એટલો છે કે લોકો 47,000 રુપિયાની ટિકિટ ખરીદીને પણ ફિલ્મ જોવા જઈ રહ્યા છે. ફિલ્મને લઈને આટલો ક્રેઝ શા માટે છે ચાલો તમને જણાવીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/why-christopher-nolan-movie-the-odyssey-is-special-the-odyssey-film-release-date-in-india-484218 ",
+    "time": "2026-07-11T02:26:35.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "Innova અને Ertigaનું ટેન્શન વધ્યું! ₹5 લાખ ઓછી કિંમતમાં લોન્ચ થઈ 9 એરબેગવાળી આ શાનદાર 7 સીટર કાર, જાણો",
     "desc": "ફોક્સવેગને તેની નવી SUV, Tayron લોન્ચ કરી છે. Tayron R-Line ભારતમાં પહેલાથી જ ઉપલબ્ધ હતી, પરંતુ કંપનીએ હવે તેનું Life ટ્રીમ લોન્ચ કર્યું છે, જે જૂના વર્ઝન કરતા 5 લાખ રૂપિયા ઓછી કિંમતે આવે છે. આ કાર 2-લિટર ટર્બો પેટ્રોલ એન્જિન દ્વારા સંચાલિત છે.",
@@ -313,15 +349,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/save-your-life-or-avoid-poisonous-snakes-cobra-with-fangs-entered-houses-in-china-amid-floods-video-viral-484019 ",
     "time": "2026-07-08T14:59:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "FIFA વર્લ્ડ કપ 2026ના ક્વાર્ટર ફાઈનલનું શેડ્યૂલ જાહેર, જાણો ક્યારે અને કોની સામે ટકરાશે મેસ્સીની ટીમ?",
-    "desc": "FIFA વર્લ્ડ કપ 2026ના ક્વાર્ટર ફાઇનલ માટે તમામ 8 ટીમો નક્કી થઈ ગઈ છે અને શેડ્યૂલ પણ જાહેર કરી દેવામાં આવ્યું છે. લિઓનલ મેસ્સીની આર્જેન્ટિના અને એમ્બાપ્પેની ફ્રાન્સ ટીમે અંતિમ-8માં પોતાની જગ્યા પાકી કરી લીધી છે. અહીં જાણો ફીફા વર્લ્ડ કપ 2026ના ક્વાર્ટર ફાઇનલનું આખું શેડ્યૂલ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/fifa-world-cup-2026-quarter-final-schedule-announced-know-when-and-against-whom-messi-team-will-face-483988 ",
-    "time": "2026-07-08T12:54:25.000Z"
   },
   {
     "cat": "Entertainment",

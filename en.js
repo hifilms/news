@@ -1,12 +1,300 @@
 const newsData_en = [
   {
     "cat": "World",
+    "title": "India, New Zealand elevate ties to strategic partnership",
+    "desc": "Prime Minister Narendra Modi landed in Auckland last night in the third and final leg of his three-nation tour that largely focused on expanding cooperation in the Indo-Pacific against the backdrop of China’s increasing assertiveness in the region",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/prime-minister-narendra-modi-new-zealand-visit-live-updates-on-july-11-2026/article71209319.ece",
+    "time": "2026-07-11T05:26:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jeetendra compliments Hema Malini at her celebratory concert",
+    "desc": "Hema Malini marked sixty years in Indian Cinema at a grand celebration. Veteran actors Jeetendra, Shatrughan Sinha, and Rakesh Roshan attended the event. Jeetendra complimented Hema Malini on her enduring charm and youthful appearance. Hema Malini reciprocated with kind words about Jeetendra's evergreen look. The event honored Malini's extensive and impactful career in films.",
+    "img": "https://static.toiimg.com/photo/msid-132325058,imgsize-283363.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/looking-very-charming-jeetendra-compliments-hema-malini-at-her-celebratory-concert-shatrughan-sinha-and-rakesh-roshan-pose-for-the-event/articleshow/132325034.cms",
+    "time": "2026-07-11T05:16:18.000Z"
+  },
+  {
+    "cat": "World",
     "title": "Publicly declare Strait of Hormuz open, won't attack ships: U.S. demand to Iran",
     "desc": "U.S. officials said that Donald Trump is giving U.S. negotiators limited time to reach a deal with Iran, but, in a sign of the challenges ahead, they underscored that the President had a wide range of options if talks fall apart",
     "img": "https://th-i.thgim.com/public/incoming/slrhi4/article71207842.ece/alternates/LANDSCAPE_1200/2026-07-09T183546Z_1807862606_RC2IAMA15GZ3_RTRMADP_3_USA-TRUMP-NATO.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/publicly-declare-hormuz-open-wont-attack-ships-us-demand-to-iran/article71209260.ece",
-    "time": "2026-07-11T02:12:26.000Z"
+    "time": "2026-07-11T05:13:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Mother Promise’ movie review: A wacky homage to cinema and Bengaluru",
+    "desc": "‘Mother Promise’, directed by Poornachandra Mysore and starring Dhananjaya, might not be everyone’s cup of tea. But it’s a hilarious mash-up of pop culture references and absurd antics that will leave people in splits if they are in the mood for a wacky ride",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/xfvijs/article71208067.ece/alternates/LANDSCAPE_1200/Mother%20Promise2.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/mother-promise-movie-review-dhananjaya-poornachandra-mysore-daali-pictures-comedy-humour-kannada/article71208040.ece",
+    "time": "2026-07-11T05:07:02.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw open calls for his killing",
+    "desc": "While there have been no direct talks between Iran and the United States since last month, Iranian media reported that a delegation from mediator Qatar was in Tehran after the warring sides exchanged strikes again this week.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-us-war-donald-trump-washington-tehran-peace-talks-west-asia-conflict-strait-of-hormuz-live-updates-july-11-2026/article71209275.ece",
+    "time": "2026-07-11T05:06:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "How two ‘objectionable’ books triggered a crackdown on J&K’s varsity and college libraries",
+    "desc": "Around 251 copies of these books were already circulated among the schools in J&K. The J&K administration said the introduction of these books was a result of “serious negligence, dereliction of duty and lack of proper due diligence”, and blamed the members of the Sub Committee, which approved it.",
+    "img": "https://th-i.thgim.com/public/incoming/pxubbr/article71209340.ece/alternates/LANDSCAPE_1200/06_Book_Village_Photo_Frame_%2053.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/how-two-objectionable-books-trigger-a-crackdown-on-jks-varsity-and-college-libraries-explained/article71209336.ece",
+    "time": "2026-07-11T05:05:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why BJP replaced its Bankipur bypoll nominee before face-off with Prashant Kishor",
+    "desc": "BJP's Abhishek Kumar Sinha withdrew from the Bankipur bypoll citing family reasons. The party then fielded Neeraj Kumar Sinha as its new candidate for the contest. Opposition parties claimed the BJP was nervous about a potential defeat in the upcoming election. Jan Suraaj founder Prashant Kishor is campaigning against the ruling party. Polling for the Bankipur bypoll is scheduled for July 30.",
+    "img": "https://static.toiimg.com/photo/msid-132324995,imgsize-138740.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/why-bjp-replaced-its-bankipur-bypoll-nominee-before-face-off-with-prashant-kishor/articleshow/132324929.cms",
+    "time": "2026-07-11T05:02:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pollard, Tajinder Dhillon script stunning comeback as MI New York stun Seattle Orcas",
+    "desc": "MI New York secured a remarkable 17-run victory against Seattle Orcas. Seattle appeared to be cruising towards victory after a strong start. MI New York's bowlers struck at regular intervals to trigger a collapse. Tajinder Dhillon's brilliant fifty and Kieron Pollard's all-round performance were key. This win significantly impacted the playoff race for both teams.",
+    "img": "https://static.toiimg.com/photo/msid-132324801,imgsize-1204691.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/major-league-cricket/kieron-pollard-tajinder-dhillon-script-stunning-comeback-as-mi-new-york-stun-seattle-orcas/articleshow/132324800.cms",
+    "time": "2026-07-11T04:42:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Matt Damon on Ben Affleck's reaction to 'The Odyssey' role",
+    "desc": "Ben Affleck lauded Matt Damon for his remarkable portrayal of Odysseus in the upcoming film 'The Odyssey,' which is eagerly awaited to premiere in July. Damon reminisced about their early days when they shared a bank account to fund their auditions. Their friendship, rooted in shared aspirations and mutual struggles, reflects a deep bond forged over years in the tumultuous world of Hollywood.",
+    "img": "https://static.toiimg.com/photo/msid-132324760,imgsize-133160.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/matt-damon-waited-45-years-for-ben-afflecks-call-after-watching-the-odyssey/articleshow/132324459.cms",
+    "time": "2026-07-11T04:37:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Neeraj Chopra needs to pay for his coach in CWG; Jadumani gets the nod",
+    "desc": "Neeraj Chopra's coach Jaiveer Chaudhary is missing from the final Indian contingent list. M Sreeshankar's coach and father, S Murali, also faces omission from the approved squad. Jadumani Singh's inclusion in boxing was cleared after initial clarification from the federation. The ministry approved a 191-member contingent for the upcoming Games. Officials not part of the approved list will travel at personal expense.",
+    "img": "https://static.toiimg.com/photo/msid-132324758,imgsize-25582.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/neeraj-chopra-needs-to-pay-for-his-coach-in-cwg-jadumani-gets-the-nod/articleshow/132324742.cms",
+    "time": "2026-07-11T04:36:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Pitbull sets Guinness World Record for ‘most bald caps’",
+    "desc": "Pitbull achieved a Guinness World Record at BST Hyde Park in London. Over twenty-two thousand fans wore bald caps and attire to honor the rapper. This event marked a significant achievement for the artist and his dedicated followers. The record was for the largest gathering of people wearing bald caps. Pitbull expressed gratitude for this unique and memorable accomplishment.",
+    "img": "https://static.toiimg.com/photo/msid-132324759,imgsize-289720.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/pitbull-sets-guinness-world-record-for-most-bald-caps-by-more-than-22000-fans-at-london-concert/articleshow/132324747.cms",
+    "time": "2026-07-11T04:35:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aamir and Gauri to honeymoon in Australia?",
+    "desc": "Aamir Khan and Gauri Spratt are enjoying a family holiday in Melbourne. They are accompanied by their sons, Quinn and Azad, for this trip. Aamir will attend the Indian Film Festival of Melbourne next year. He has received a Best Actor nomination for his role in 'Sitaare Zameen Par'. The festival will feature various film-related events and award ceremonies.",
+    "img": "https://static.toiimg.com/photo/msid-132324432,imgsize-103566.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/newlyweds-aamir-khan-and-gauri-spratt-to-honeymoon-in-australia-couple-off-to-attend-indian-film-festival-of-melbourne/articleshow/132324278.cms",
+    "time": "2026-07-11T04:11:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Indian cricket set to undergo a coaching reset?",
+    "desc": "At least one prominent support staff member is likely to leave the Team India camp despite having an extension clause in the contract. The possible exits, unrelated to the recent T20I defeats, come amid dressing-room unease and growing differences between the coaching staff and selectors.",
+    "img": "https://static.toiimg.com/photo/msid-132324386,imgsize-289442.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/indian-cricket-set-to-undergo-a-coaching-reset/articleshow/132324330.cms",
+    "time": "2026-07-11T04:04:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'If this happiness improves my father's health ... ': Prabhsimran on his India call-up",
+    "desc": "Prabhsimran Singh has finally earned his maiden India call-up after back-to-back impressive IPL seasons with Punjab Kings. In this exclusive interview, the opener recalls his father's emotional reaction, explains how consistency and converting starts into big scores changed his career, and reflects on the role of Shreyas Iyer, Ricky Ponting and Yuvraj Singh in shaping his journey to the Indian team.",
+    "img": "https://static.toiimg.com/photo/msid-132323929,imgsize-110548.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/prabhsimran-singh-exclusive-father-india-call-up-shreyas-iyer-ricky-ponting-yuvraj-singh-india-vs-zimbabwe/articleshow/132323899.cms",
+    "time": "2026-07-11T03:49:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Prince Harry uneasy over Meghan Markle, Kris Jenner alliance",
+    "desc": "Meghan Markle is set to collaborate with Kris Jenner on a reality TV project, stirring unease within Prince Harry. Concerns arise for Harry as he fears this venture might hinder his attempts to restore family relationships. Meanwhile, Markle sees Jenner as a vital ally in enhancing her brand. Their contrasting attitudes towards public exposure highlight growing differences in the couple's perspectives.",
+    "img": "https://static.toiimg.com/photo/msid-132324162,imgsize-126022.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/prince-harry-uneasy-over-meghan-markles-reality-tv-plans-with-kris-jenner-it-genuinely-unsettles-him/articleshow/132324121.cms",
+    "time": "2026-07-11T03:34:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taylor Swift and Travis Kelce make FIRST appearance post-wedding",
+    "desc": "Taylor Swift and Travis Kelce made a stunning appearance at JuJu Smith-Schuster's wedding, radiating joy as newlyweds. The couple, captured hand in hand, displayed their wedding bands proudly. Swift dazzled in a pink gown, while Kelce looked sharp in a classic black suit. Their attendance followed a private honeymoon, celebrating their love with close friends and well-known personalities.",
+    "img": "https://static.toiimg.com/photo/msid-132324017,imgsize-121380.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/taylor-swift-and-travis-kelce-make-first-appearance-as-a-married-couple-at-juju-smith-schusters-wedding-couple-show-off-wedding-rings-pics/articleshow/132323942.cms",
+    "time": "2026-07-11T03:26:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Beast' Haaland a different player to me, says Kane",
+    "desc": "Haaland has struck seven times in his first four matches ever at a major tournament, including a devastating double to eliminate Brazil, and his goals have carried Norway into the last eight for the first time.",
+    "img": "https://th-i.thgim.com/public/incoming/gt05gk/article71209316.ece/alternates/LANDSCAPE_1200/Norway_WCup_Soccer_18644.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/beast-haaland-a-different-player-to-me-says-kane/article71209309.ece",
+    "time": "2026-07-11T03:25:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Prince Harry reveals his rarely-used full name for the podcast",
+    "desc": "Prince Harry surprised listeners by sharing his full name on a comedy podcast. He humorously responded when asked for his complete name by the hosts. The Duke of Sussex generally avoids using his titles in public appearances. He recently attended an Invictus Games event with Meghan Markle in London. Prince Harry's podcast episode is scheduled for release on July 13, 2026.",
+    "img": "https://static.toiimg.com/photo/msid-132324019,imgsize-241632.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/prince-harry-reveals-his-rarely-used-full-name-for-the-podcast-comedian-jake-bhradwaj-says-its-a-long-game/articleshow/132323973.cms",
+    "time": "2026-07-11T03:24:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "History at Lord's! Harmanpreet Kaur enters elite Indian list",
+    "desc": "Indian captain Harmanpreet Kaur achieved 9000 international runs. She became the third Indian woman to reach this significant milestone. This landmark was achieved during her innings against England at Lord's. She joins Mithali Raj and Smriti Mandhana in this elite club. Harmanpreet has amassed 9045 runs in 374 international matches.",
+    "img": "https://static.toiimg.com/photo/msid-132323960,imgsize-142720.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/history-at-lords-harmanpreet-kaur-enters-elite-indian-list-with-special-milestone/articleshow/132323972.cms",
+    "time": "2026-07-11T03:18:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mikel Merino creates FIFA World Cup history, becomes first player to...",
+    "desc": "Mikel Merino scored another decisive late goal for Spain against Belgium. This victory propelled La Roja into the FIFA World Cup 2026 semifinals. Merino's impactful substitute appearances have now made World Cup history. Spain will face France in their next crucial tournament match. The team's unbeaten run in regular time now extends significantly.",
+    "img": "https://static.toiimg.com/photo/msid-132323920,imgsize-145846.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/mikel-merino-creates-fifa-world-cup-history-becomes-first-player-to-score-winning-goals-as-substitute-in-two-knockout-matches/articleshow/132323928.cms",
+    "time": "2026-07-11T03:10:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nafisa Ali reveals the issues addressed in 'Max, Min and Meowzaki'",
+    "desc": "Actress Nafisa Ali discusses her upcoming film 'Max, Min and Meowzaki' and its themes. The comedy-drama addresses issues of ageing and young people's struggles. This film has already received international recognition and accolades from festivals. Ali hopes the movie reaches a wider audience after its theatrical release. She continues her battle with cancer, which returned last year.",
+    "img": "https://static.toiimg.com/photo/msid-132323903,imgsize-268324.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nafisa-ali-reveals-the-issues-addressed-in-max-min-and-meowzaki-amid-her-cancer-battle-that-is-very-important-in-indian-cinema-today/articleshow/132323888.cms",
+    "time": "2026-07-11T03:07:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dhanush's film with Vetri Maaran titled 'Thamizh Murugan'",
+    "desc": "Actor Dhanush on Friday announced the title of his next film with ace director Vetrimaran as 'Thamizh Murugan' and released the film's first look promo as well, much to the delight of fans and film buffs.",
+    "img": "https://static.toiimg.com/photo/msid-132323938,imgsize-12542.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/dhanush-vetrimaaran-film-titled-thamizh-murugan-sai-abhyankkar-to-compose-music/articleshow/132323894.cms",
+    "time": "2026-07-11T03:06:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Brad Pitt and Ines de Ramon enjoy World Cup date",
+    "desc": "Brad Pitt and Ines de Ramon attended a World Cup quarterfinal match. They joined Penelope Cruz and Javier Bardem in the VIP box. Spain secured a thrilling 2-1 victory over Belgium in the game. This appearance marks another public outing for Pitt and de Ramon. The couple recently made their romance Instagram-official this week.",
+    "img": "https://static.toiimg.com/photo/msid-132323857,imgsize-468463.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brad-pitt-and-ines-de-ramon-enjoy-world-cup-quarterfinal-date-with-penelope-cruz-and-javier-bardem-hollywood-couples-cheer-spain-to-victory-pics/articleshow/132323837.cms",
+    "time": "2026-07-11T02:59:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Who is Clement Turpin? Referee once labelled 'Grade E'",
+    "desc": "French referee Clément Turpin will officiate England's World Cup quarterfinal match. This experienced official has previously worked several high-profile tournament games. Turpin has overseen England in five previous victories and one draw. He was criticized by Thomas Tuchel after a Champions League match last year. Despite past criticism, Turpin remains a respected figure in football officiating.",
+    "img": "https://static.toiimg.com/photo/msid-132325141,imgsize-28071.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/who-is-clement-turpin-england-vs-norway-fifa-world-cup-quarterfinal-referee-once-labelled-grade-e-by-thomas-tuchel/articleshow/132323800.cms",
+    "time": "2026-07-11T02:53:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India, New Zealand seal 18 pacts across defence, trade and security",
+    "desc": "India and New Zealand elevated their ties to a strategic partnership. Prime Ministers Modi and Luxon signed eighteen agreements for cooperation. This roadmap guides future collaboration across multiple key sectors. Bilateral trade aims to reach seven billion New Zealand dollars by 2030. Both nations will enhance maritime security and disaster management efforts.",
+    "img": "https://static.toiimg.com/photo/msid-132323783,imgsize-107100.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/roadmap-to-2030-india-new-zealand-seal-18-pacts-across-defence-trade-and-security/articleshow/132323742.cms",
+    "time": "2026-07-11T02:48:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anurag Kashyap reviews 'I, Nobody'",
+    "desc": "Filmmaker Anurag Kashyap expressed his strong appreciation for Prithviraj Sukumaran's recent thriller 'I, Nobody'. He described the film as a gripping and mainstream watch which kept audiences hooked. The movie has achieved a steady performance at the box office since its release. 'I, Nobody' collected over four crore rupees net in India after two days. Kashyap also recently praised the Malayalam film 'Mollywood Times' for its storytelling.",
+    "img": "https://static.toiimg.com/photo/msid-132323765,imgsize-244906.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/anurag-kashyap-reviews-i-nobody-praises-prithviraj-sukumarans-thriller-calls-it-a-total-ride/articleshow/132323753.cms",
+    "time": "2026-07-11T02:46:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shubman Gill chats with Federer, becomes only fourth Indian captain to...",
+    "desc": "Shubman Gill received a Royal Box invitation to Wimbledon 2026. He joined elite Indian captains previously hosted in the prestigious enclosure. Gill also met tennis legend Roger Federer and watched matches with Sachin Tendulkar. Earlier, he attended the British Grand Prix as a VIP guest. The Indian captain is currently in England for an ODI series.",
+    "img": "https://static.toiimg.com/photo/msid-132323680,imgsize-965650.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shubman-gill-with-roger-federer/articleshow/132323650.cms",
+    "time": "2026-07-11T02:39:34.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Bangladesh’s ousted leader Hasina plans December return with party colleagues to surrender",
+    "desc": "“My party leaders and workers are being subjected to tremendous repression. If death comes, I want it to come on my own soil, where ‌my parents are buried and where their blood was shed,” Ms. Hasina said",
+    "img": "https://th-i.thgim.com/public/incoming/mcfik1/article71206388.ece/alternates/LANDSCAPE_1200/2026-07-10T073718Z_892674917_RC2MD5AK6PLE_RTRMADP_3_BANGLADESH-HASINA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/bangladeshs-ousted-leader-hasina-plans-december-return-with-party-colleagues-to-surrender/article71206327.ece",
+    "time": "2026-07-11T02:34:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP denies ticket to Narottam Mishra, fields Ashutosh Tiwari",
+    "desc": "Byelection in Datia was announced by the Election Commission of India on July 7, for which polling will be held on July 30 and counting of votes will take place on August 3. The last date to file nomination is July 13.",
+    "img": "https://th-i.thgim.com/public/incoming/l83594/article71209292.ece/alternates/LANDSCAPE_1200/Datia-bypoll_-BG3GG81RHB.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/datia-bypoll-bjp-denies-ticket-to-narottam-mishra-fields-ashutosh-tiwari/article71207375.ece",
+    "time": "2026-07-11T02:33:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Thomas Tuchel challenges England to 'be brave' against Norway as FIFA offer no answers over Quansah ban",
+    "desc": "Thomas Tuchel has urged England to play with courage and “without fear” ahead of their FIFA World Cup 2026 quarter-final against Norway. The Three Lions boss also revealed FIFA has given no explanation for extending Jarell Quansah’s suspension to two matches, leaving the defender unavailable as England bid to reach the World Cup semi-finals.",
+    "img": "https://static.toiimg.com/photo/msid-132323448,imgsize-96920.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/thomas-tuchel-challenges-england-to-be-brave-against-norway-as-fifa-offer-no-answers-over-quansah-ban/articleshow/132323266.cms",
+    "time": "2026-07-11T02:28:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Lenin' OTT: Where to watch Akhil Akkineni's action film",
+    "desc": "Akhil Akkineni's rural action drama 'Lenin' has opened in cinemas with positive reviews. The film collected approximately Rs 5.90 crore net on its opening day in India. Overseas collections added Rs 3 crore, bringing the total to Rs 9.73 crore. Bhagyashri Borse stars opposite Akhil in the lead role. Post-theatrical streaming rights have been acquired by ZEE Network.",
+    "img": "https://static.toiimg.com/photo/msid-132323543,imgsize-235499.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/lenin-ott-release-where-to-watch-akhil-akkinenis-action-film-after-theatrical-run/articleshow/132323533.cms",
+    "time": "2026-07-11T02:24:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Parliament panel seeks changes to Bill on removal of PM, CMs and Ministers after 30 days in jail",
+    "desc": "Draft report backs objective of preventing ‘governance from custody’ but recommends replacing ‘removal’ with ‘suspension’ and reworking arrest-based trigger; most Opposition parties had declined to join the panel arguing that the Bill was driven by ‘malicious intent’",
+    "img": "https://th-i.thgim.com/public/incoming/hmu4u3/article71207778.ece/alternates/LANDSCAPE_1200/20260617131L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/parliament-panel-seeks-changes-to-bill-on-removal-of-pm-cms-and-ministers-after-30-days-in-jail/article71207468.ece",
+    "time": "2026-07-11T02:22:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhamaal 4' box office collection Day 1: Film beats estimates with ₹21.5cr worldwide",
+    "desc": "Ajay Devgn's 'Dhamaal 4' made a remarkable debut, surpassing early box office forecasts. With an impressive opening day collection of approximately Rs 13.75 crore net, it emerged as the leading new release amidst fierce competition. The film enjoyed robust audience attendance and steady foot traffic. Experts predict a significant uptick in earnings as the weekend approaches.",
+    "img": "https://static.toiimg.com/photo/msid-132323370,imgsize-558368.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhamaal-4-box-office-collection-day-1-ajay-devgns-comedy-a-splash-on-opening-day-worldwide-gross-crosses-rs-20-crore-mark/articleshow/132323332.cms",
+    "time": "2026-07-11T02:07:19.000Z"
   },
   {
     "cat": "World",
@@ -33,7 +321,7 @@ const newsData_en = [
     "img": "https://th-i.thgim.com/public/incoming/rjjals/article71209261.ece/alternates/LANDSCAPE_1200/iStock-1332902346.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/Hyderabad/man-held-for-allegedly-killing-wife-two-children-and-three-others-in-telangana/article71209259.ece",
-    "time": "2026-07-11T01:45:59.000Z"
+    "time": "2026-07-11T01:47:25.000Z"
   },
   {
     "cat": "Sports",
@@ -108,15 +396,6 @@ const newsData_en = [
     "time": "2026-07-11T01:18:43.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Meghan Markle",
-    "desc": "After a four-year hiatus, Meghan Markle made a significant return to Britain, marking a reunion with King Charles. Throughout her journey, she has remained committed to carving out her identity away from traditional institutions. In her earlier essay, she laid the groundwork for her beliefs about self-empowerment, which continue to influence her public image and initiatives. This private visit underscores her determination to forge her own unique path.",
-    "img": "https://static.toiimg.com/photo/msid-132323077,imgsize-93388.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-meghan-markle-you-draw-your-own-box-you-introduce-yourself-as-who-you-are-you-create-the-identity-you-want-for-yourself-words-of-wisdom-by-the-duchess-of-sussex-that-highlight-how-its-your-own-battle-to-define-and-protect-who-you-are/articleshow/132323068.cms",
-    "time": "2026-07-11T01:10:44.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Away from abject T20I showing, India begin preps for ODI series today",
     "desc": "Members of India's ODI squad, including Virat Kohli, Rohit Sharma, and Shubman Gill, are likely to begin practicing at Edgbaston for the three-match series. Over 200 kilometres away, the T20I setup will look to avoid yet another 'first'.",
@@ -135,15 +414,6 @@ const newsData_en = [
     "time": "2026-07-11T00:54:57.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Idhayam Murali' BO day 1: Opens with Rs 1.90 Cr",
-    "desc": "Atharvaa's new film Idhayam Murali opened with a modest box office collection of Rs 1.90 crore. The romantic drama garnered Rs 1.95 crore gross collection from Tamil Nadu alone. Karnataka and Kerala contributed Rs 15 lakh and Rs 7 lakh respectively to the film's earnings. The movie features a youthful cast and a breezy romantic narrative for audiences. Fahadh Faasil's cameo appearance also received positive feedback online.",
-    "img": "https://static.toiimg.com/photo/msid-132323032,imgsize-279957.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/idhayam-murali-box-office-collections-day-1-atharvaas-romantic-drama-opens-with-rs-1-90-cr/articleshow/132323027.cms",
-    "time": "2026-07-11T00:52:12.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'We Have No Fear': Lamine Yamal delivers chilling warning to France ahead of World Cup semi-final",
     "desc": "Spain wonderkid Lamine Yamal has warned France ahead of their FIFA World Cup 2026 semi-final, insisting La Roja have nothing to fear against Didier Deschamps’ side. The Barcelona star highlighted Spain’s recent victories over France, while both teams arrive unbeaten and in top form. With Yamal and Kylian Mbappé leading their attacks, a blockbuster clash awaits.",
@@ -153,42 +423,6 @@ const newsData_en = [
     "time": "2026-07-11T00:43:44.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Lenin' BO day 1: Akhil Akkineni opens with Rs 5.90 Cr India Net",
-    "desc": "Akhil Akkineni's film 'Lenin' has achieved a strong opening day at the box office. The action drama garnered over nine crore rupees globally on its release day. Telugu states, Andhra Pradesh and Telangana, contributed significantly to the film's earnings. Actress Samantha Ruth Prabhu extended her support and wished the team success. The movie, set in Rayalaseema, features music by S Thaman.",
-    "img": "https://static.toiimg.com/photo/msid-132322977,imgsize-224422.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/lenin-box-office-collections-day-1-akhil-akkineni-opens-with-rs-5-90-cr-india-net-worldwide-gross-reaches-rs-9-73-cr/articleshow/132322972.cms",
-    "time": "2026-07-11T00:27:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Margaret Qualley REACTS to rumours of ‘infidelity’ in split from Jack Antonoff",
-    "desc": "Margaret Qualley has decisively refuted speculation surrounding the end of her marriage. A spokesperson clarified that claims of a split are unfounded and lacking in truth. The statement highlighted the couple's strong bond and mutual affection. This denial follows recent reports suggesting they might part ways. Qualley and Antonoff's love story is still thriving since their wedding earlier this year in 2023.",
-    "img": "https://static.toiimg.com/photo/msid-132322956,imgsize-96768.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/margaret-qualley-denies-rumours-of-infidelity-in-split-from-jack-antonoff-there-are-only-two-people-in-this-marriage/articleshow/132322946.cms",
-    "time": "2026-07-11T00:19:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'MIB' BO day 22: Samantha's action drama slows down",
-    "desc": "Maa Inti Bangaaram continues its theatrical run, nearing the Rs 100 crore worldwide box office milestone. The film collected an estimated Rs 27 lakhs net in India on its twenty-second day. Its cumulative India net total has reached Rs 59.97 crore after 22 days. Overseas collections have contributed Rs 27 crore to the film's gross total. Samantha Ruth Prabhu's performance received special praise in the ETimes review.",
-    "img": "https://static.toiimg.com/photo/msid-132322947,imgsize-395538.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/maa-inti-bangaaram-box-office-collections-day-22-samantha-ruth-prabhus-action-drama-slows-down-worldwide-total-reaches-rs-96-43-cr/articleshow/132322943.cms",
-    "time": "2026-07-11T00:12:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Taylor Swift pays USD 160,000 for NYC wedding permit, Mayor confirms",
-    "desc": "Mayor Zohran Mamdani confirmed that Taylor Swift has fulfilled her obligations by paying over USD 160,000 in permit fees for her recent wedding in New York City. This expense included the necessary permits for the sizable gathering. As multiple significant events are set to take place this summer, it ensures that New Yorkers can still enjoy their parks and various activities.",
-    "img": "https://static.toiimg.com/photo/msid-132322934,imgsize-116244.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/taylor-swift-already-paid-new-york-city-usd-160000-for-hosting-wedding-to-travis-kelce-mayor-zohran-mamdani-confirms-watch/articleshow/132322923.cms",
-    "time": "2026-07-11T00:04:46.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "The secret to stopping Erling Haaland? England handed golden blueprint ahead of Norway World Cup quarter-final showdown",
     "desc": "Former Premier League goalkeeper Brad Friedel has warned England that stopping Erling Haaland alone will not be enough in their World Cup 2026 quarter-final against Norway. He believes the Three Lions must target Martin Ødegaard and cut off Norway’s supply line to their star striker. Friedel also praised Jude Bellingham’s influence ahead of the crucial knockout clash.",
@@ -196,15 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/the-secret-to-stopping-erling-haaland-england-handed-golden-blueprint-ahead-of-norway-world-cup-quarter-final-showdown/articleshow/132322787.cms",
     "time": "2026-07-10T23:48:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Inside Shah Rukh Khan and Gauri Khan's Rs 37 crore Delhi home",
-    "desc": "Shah Rukh Khan's Delhi home has reportedly come back into the spotlight for a special reason. The superstar has acquired the remaining floors of the Panchsheel Park residence where he and Gauri Khan began their married life, making him the sole owner of the property. Shah Rukh has now purchased the second and third floors for approximately Rs 37 crore.",
-    "img": "https://static.toiimg.com/photo/msid-132322749,imgsize-95362.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/inside-shah-rukh-khan-and-gauri-khans-rs-37-crore-delhi-home-nostalgia-wall-spacious-rooms-grand-interiors-and-more/articleshow/132322741.cms",
-    "time": "2026-07-10T22:44:29.000Z"
   },
   {
     "cat": "Sports",
@@ -261,33 +486,6 @@ const newsData_en = [
     "time": "2026-07-10T21:15:57.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Breast cancer survival rate up, but India lags behind rich nations: WHO",
-    "desc": "India's breast cancer survival rate stands at sixty-five point seven percent. This figure is lower than the global median survival rate. Early diagnosis and timely treatment are crucial for improving survival outcomes. Disparities exist in access to quality cancer care across regions. Strengthening detection and treatment access is essential for better results.",
-    "img": "https://static.toiimg.com/photo/msid-132320501,imgsize-57596.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/breast-cancer-survival-rate-up-but-india-lags-behind-rich-nations-who/articleshow/132320503.cms",
-    "time": "2026-07-10T20:59:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Even a snail can question pace of trials",
-    "desc": "The Supreme Court criticized a commercial suit's slow progress since 2015. Plaintiff's evidence is still ongoing, prompting a strong judicial observation. The court rejected Levitate Mobile Technologies' plea for additional documents. This plea was similar to a previous one that was also denied. The court noted the significant delay in the judicial process.",
-    "img": "https://static.toiimg.com/photo/msid-132320477,imgsize-84230.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sc-even-a-snail-can-question-pace-of-trials/articleshow/132320479.cms",
-    "time": "2026-07-10T20:50:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM praises Australia social ban for U-16s, hinting at similar curbs",
-    "desc": "India is considering stricter age limits for social media access. Prime Minister Modi praised Australia's ban on platforms for children under sixteen. This move follows growing government focus on online safety for minors. Several Indian states have also proposed similar restrictions on social media use. Nationwide implementation faces significant challenges due to India's vast internet user population.",
-    "img": "https://static.toiimg.com/photo/msid-132320461,imgsize-143454.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-praises-australia-social-ban-for-u-16s-hinting-at-similar-curbs/articleshow/132320464.cms",
-    "time": "2026-07-10T20:42:02.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Lamine Yamal scripts history at 18, becomes youngest player to...",
     "desc": "Lamine Yamal became the youngest player to make six FIFA World Cup appearances after featuring in Spain's quarter-final against Belgium at the 2026 tournament. The 18-year-old winger broke the teenage appearance record, added a World Cup goal to his achievements, and continued his remarkable rise after winning UEFA Euro 2024, surpassing milestones previously set by football's greatest young stars.",
@@ -297,15 +495,6 @@ const newsData_en = [
     "time": "2026-07-10T20:36:38.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Inside Taj Mahal Palace's Tata Suite where Tom Holland is staying",
-    "desc": "Tom Holland is living in royal style during his latest visit to India. The Spider-Man star has checked into the iconic Taj Mahal Palace Hotel in Mumbai, where he is reportedly staying in one of the property's most luxurious accommodations, the Tata Suite. Reports suggest the Tata Suite is typically priced between Rs 7 lakh and Rs 12 lakh per night, depending on availability and the season.",
-    "img": "https://static.toiimg.com/photo/msid-132320445,imgsize-146339.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/inside-taj-mahal-palaces-tata-suite-where-tom-holland-is-staying-during-the-odyssey-mumbai-premiere-costs-rs-7-12-lakh-a-night/articleshow/132320394.cms",
-    "time": "2026-07-10T20:33:23.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "As National Conference canvasses for J&K Statehood protest, BJP announces stir",
     "desc": "NC leader Tanvir Sadiq says all leaders should rise above party lines and stand united for the people of Jammu & Kashmir at the July 20 protest; BJP announces its own agenda with protests on employment issue on the same day",
@@ -313,15 +502,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/nc-urges-india-bloc-leaders-to-join-jampks-demand-for-statehood-constitutional-guarantees/article71206222.ece",
     "time": "2026-07-10T20:19:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Govt must implement 33% women’s quota at current strength of Parliament",
-    "desc": "Women's groups demand immediate 33% reservation in legislatures and Parliament. They seek a constitutional amendment to delink reservation from census and delimitation. Activists are urging MPs to support this crucial demand for political representation. Joint demonstrations are planned across the country on July 20-21. This push aims to fulfill long-standing calls for women's empowerment.",
-    "img": "https://static.toiimg.com/photo/msid-132320398,imgsize-54410.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/women-activists-govt-must-implement-33-womens-quota-at-current-strength-of-parliament/articleshow/132320383.cms",
-    "time": "2026-07-10T20:09:19.000Z"
   },
   {
     "cat": "Politics",
@@ -378,42 +558,6 @@ const newsData_en = [
     "time": "2026-07-10T19:04:11.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "FCI makes distilleries accountable for subsidised rice, warns of criminal cases",
-    "desc": "Food Corporation of India has strengthened rules for subsidized rice distribution. Distilleries are now directly accountable for any misuse of this grain. The Food Corporation of India will file criminal cases for diversion or misuse. This move aims to prevent diversion and improve oversight of the ethanol supply chain. New operational guidelines ensure strict utilization of rice for ethanol production.",
-    "img": "https://static.toiimg.com/photo/msid-132319576,imgsize-40400.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/fci-makes-distilleries-accountable-for-subsidised-rice-warns-of-criminal-cases/articleshow/132319583.cms",
-    "time": "2026-07-10T18:52:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "May need to regulate tourist influx to protect Kashmir’s serene beauty: Omar",
-    "desc": "Jammu and Kashmir's Chief Minister acknowledged rising tourist arrivals and suggested regulation. He emphasized protecting natural assets and ensuring visitor experiences remain serene. The Chief Minister advocated for value-based tourism over a volume-based approach. He stressed the importance of implementing tourism master plans with community input. This approach aims for sustainable economic and environmental benefits for future generations.",
-    "img": "https://static.toiimg.com/photo/msid-132318797,imgsize-497288.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/may-need-to-regulate-tourist-influx-to-protect-kashmirs-serene-beauty-omar/articleshow/132318800.cms",
-    "time": "2026-07-10T18:38:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Newlyweds Aamir and Gauri to move into Rs 100 crore family home",
-    "desc": "Days after reportedly tying the knot in an intimate ceremony, Aamir Khan and Gauri Spratt's future home plans have become the talk of the town. Aamir and Gauri, who got married on July 5 at the actor's rented apartment in Mumbai's Pali Hill, are expected to eventually move into a luxurious residence at the redeveloped Marina Apartments in Union Park, Khar.",
-    "img": "https://static.toiimg.com/photo/msid-132319358,imgsize-117424.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/newlyweds-aamir-khan-and-gauri-spratt-to-move-into-rs-100-crore-family-home-with-mother-junaid-azad-and-sisters-report/articleshow/132319303.cms",
-    "time": "2026-07-10T18:36:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "The uncertain flight of Parandur airport",
-    "desc": "The proposed Parandur airport project in Tamil Nadu has been put on hold, though there is no official announcement yet. While the protesting residents of Ekanapuram, the village that falls within both the proposed runways, are happy that the government plans to drop the project, residents of other villages remain uncertain about their future. Sunitha S. reports on the challenges surrounding a project that has left many frustrated",
-    "img": "https://th-i.thgim.com/public/incoming/p5260c/article71206304.ece/alternates/LANDSCAPE_1200/Parandur_Greenfield_Airport_Project_01.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/the-uncertain-flight-of-parandur-airport/article71206301.ece",
-    "time": "2026-07-10T18:24:34.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sinner beats Djokovic in straight sets, sets up Wimbledon final clash against Alexander Zverev",
     "desc": "Jannik Sinner stormed into the Wimbledon final with a straight-sets win over Novak Djokovic and will defend his title against Alexander Zverev. The German reached his maiden Wimbledon final after beating Arthur Fery, saying he believes he can win. Zverev also praised Fery's potential and applauded the Wimbledon crowd for its fair and electric support.",
@@ -423,67 +567,13 @@ const newsData_en = [
     "time": "2026-07-10T18:09:36.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Mandhana, Harmanpreet and Deepti star as India post 285, reduce England to 21/1 on day 1 at Lord's",
-    "desc": "India posted 285 runs on the opening day of the historic women's Test match. Smriti Mandhana, Harmanpreet Kaur, and Deepti Sharma scored half-centuries for the visitors. England's spinners took wickets, causing a late Indian collapse before stumps. The hosts then lost an early wicket, finishing the day at 21/1. The match remains finely balanced heading into the second day.",
-    "img": "https://static.toiimg.com/photo/msid-132318504,imgsize-273943.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mandhana-harmanpreet-and-deepti-star-as-india-post-285-reduce-england-to-21/1-on-day-1-at-lords/articleshow/132318380.cms",
-    "time": "2026-07-10T18:03:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "As Kashmir varsities cull ‘objectionable’ books, fear of losing academic rigour grows among scholars",
-    "desc": "Political leaders, scholars and varsity professors object to the move citing self-censorship and interference of the state; order comes days after a book, that profiled Kashmiri separatist leaders, was circulated in J&K schools under the national Samagra Shiksha scheme.",
-    "img": "https://th-i.thgim.com/public/incoming/q7zwbf/article71207543.ece/alternates/LANDSCAPE_1200/06_Book_Village_Photo_Frame_%2053.jpg",
+    "cat": "World",
+    "title": "Price of peace in the time of war",
+    "desc": "Four months after a U.S.-Israeli strike killed Ayatollah Ali Khamenei and triggered a devastating war that disrupted global energy flows and claimed thousands of lives, including three Indian sailors, Washington and Tehran have agreed to a landmark peace pact in Islamabad. The MoU promises to lift sanctions and end blockades, though Israel’s ongoing offensive in Lebanon threatens the fragile truce",
+    "img": "https://th-i.thgim.com/public/incoming/tolqfi/article71207090.ece/alternates/LANDSCAPE_1200/AFP_B9RU9LR.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/as-kashmir-varsitiescull-objectionable-books-fear-of-losing-academic-rigour-grows-among-scholars/article71206379.ece",
-    "time": "2026-07-10T17:32:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Malayalam gets a cosy space in Australian public library",
-    "desc": "The Max Webber Public Library in the Sydney suburbs has opened a Malayalam section featuring 450 titles, following consistent demand from the diaspora. Malayalam has become the seventh Indian language to be represented in the library. Keralites there hope the initiative will help them connect with their culture and language better",
-    "img": "https://th-i.thgim.com/public/incoming/r3j8ph/article71207479.ece/alternates/LANDSCAPE_1200/11tv%20library2.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/malayalam-gets-a-cozy-space-in-australian-public-library/article71206376.ece",
-    "time": "2026-07-10T17:32:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "5 things about Norway’s World Cup history-maker",
-    "desc": "Erling Haaland is making headlines as he propels Norway to an unforgettable World Cup quarter-final by scoring seven goals. Born in England but raised in Norway, his unique background sparks conversations. Haaland, an advocate for social justice, has a notable online presence. Football runs in his blood, as his father was a pro player, and he famously dabbled in rap.",
-    "img": "https://static.toiimg.com/photo/msid-132316986,imgsize-246062.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/5-things-you-probably-didnt-know-about-erling-haaland-the-viking-striker-who-helped-norway-make-fifa-world-cup-history/articleshow/132315752.cms",
-    "time": "2026-07-10T17:06:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How much prize money did Arthur Fery win after semi-final defeat to Zverev?",
-    "desc": "Arthur Fery's dream Wimbledon run ended with a semifinal defeat to Alexander Zverev, but the 23-year-old British wildcard enjoyed a career-defining tournament. Reaching the last four more than doubled his previous career prize money of around £650,000 and is set to boost his ATP ranking. Zverev praised Fery, saying he is destined to achieve \"amazing things\" in tennis.",
-    "img": "https://static.toiimg.com/photo/msid-132316857,imgsize-62170.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/wimbledon-2026-how-much-prize-money-did-arthur-fery-win-after-semi-final-defeat-to-alexander-zverev/articleshow/132316776.cms",
-    "time": "2026-07-10T16:56:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "SRK buys Rs 37 crore property in Delhi which was his first home after marriage with Gauri",
-    "desc": "Shah Rukh Khan now fully owns his Delhi residence. He acquired the upper floors of the Panchsheel Park property. This home holds deep emotional significance for the couple. They began their married life there after their 1991 wedding. Gauri Khan designed the house to preserve family memories.",
-    "img": "https://static.toiimg.com/photo/msid-132316645,imgsize-321457.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-buys-rs-37-crore-property-in-delhi-which-was-his-and-gauri-khans-first-home-after-marriage-in-1991/articleshow/132316505.cms",
-    "time": "2026-07-10T16:38:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I will keep fighting': Vinicius Jr breaks silence after Brazil's shock World Cup exit",
-    "desc": "Vinicius Junior expressed deep disappointment following Brazil's World Cup elimination. The star forward thanked supporters for their unwavering belief and encouragement. Brazil's quest for a sixth World Cup title ended in the Round of 16. This marked their earliest exit from the tournament since nineteen ninety. Vinicius pledged to continue fighting for Brazil's return to football's summit.",
-    "img": "https://static.toiimg.com/photo/msid-132316400,imgsize-426884.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/i-will-keep-fighting-vinicius-jr-breaks-silence-after-brazils-shock-world-cup-exit/articleshow/132316172.cms",
-    "time": "2026-07-10T16:34:24.000Z"
+    "url": "https://www.thehindu.com/news/international/price-of-peace-in-the-time-of-war/article71206883.ece",
+    "time": "2026-07-10T17:32:38.000Z"
   },
   {
     "cat": "Business",
@@ -493,15 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/india-building-strategic-oil-reserves-ongc-board-approves-plan-for-1-75-million-tonne-storage-capacity/articleshow/132315053.cms",
     "time": "2026-07-10T16:07:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Zverev reaches first Wimbledon final, says 'I have to trust myself' ahead of title clash",
-    "desc": "Alexander Zverev reached his first Wimbledon final with a straight-sets win over British wildcard Arthur Fery, staying on course for a second consecutive Grand Slam title. The German said he believes he can beat either Jannik Sinner or Novak Djokovic in the final. Zverev also praised Fery's potential and hailed the Wimbledon crowd for its fair and electric support.",
-    "img": "https://static.toiimg.com/photo/msid-132315935,imgsize-88358.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/alexander-zverev-reaches-first-wimbledon-final-says-i-have-to-trust-myself-ahead-of-title-clash/articleshow/132315929.cms",
-    "time": "2026-07-10T16:02:43.000Z"
   },
   {
     "cat": "World",
@@ -523,51 +604,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Rajpal shares first Instagram post with Akshay after conviction",
-    "desc": "Rajpal Yadav has shared his first Instagram post after the Delhi High Court upheld his conviction in a cheque bounce case, sentencing him to three months' imprisonment. Interestingly, the actor's latest social media update is a light-hearted advertisement featuring Akshay Kumar. The post comes just hours after the Delhi High Court upheld Rajpal's conviction in the long-running cheque bounce case.",
-    "img": "https://static.toiimg.com/photo/msid-132315637,imgsize-38676.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-shares-first-instagram-post-featuring-akshay-kumar-after-delhi-high-court-upholds-conviction-in-cheque-bounce-case/articleshow/132315577.cms",
-    "time": "2026-07-10T15:37:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Ronaldo will never be a problem for Portugal': New coach Jesus",
-    "desc": "Portugal have appointed Jorge Jesus as head coach following their World Cup exit, replacing Roberto Martinez. Backing Cristiano Ronaldo amid criticism, Jesus said the veteran \"will never be a problem\" and called him \"a symbol of Portuguese football.\" The 71-year-old, who recently coached Ronaldo at Al Nassr, now begins rebuilding Portugal ahead of future international tournaments.",
-    "img": "https://static.toiimg.com/photo/msid-132315116,imgsize-93078.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/cristiano-ronaldo-will-never-be-a-problem-for-portugal-new-coach-jorge-jesus-calls-forward-symbol-of-portuguese-football/articleshow/132315124.cms",
-    "time": "2026-07-10T15:11:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Akhil-Nagarjuna’s emotional ‘Lenin’ celebration",
-    "desc": "Akhil Akkineni's new film 'Lenin' is experiencing a triumphant theatrical debut today. Emotions ran high as he shared a touching moment with his father, Nagarjuna, following the film's warm welcome from audiences. Naga Chaitanya also extended his admiration for Akhil's acting alongside the exceptional team behind 'Lenin'. This village-set romance action drama has earned notable acclaim, surpassing Rs 4.08 crore in India gross collections.",
-    "img": "https://static.toiimg.com/photo/msid-132314941,imgsize-219976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/lenin-emotional-akhil-akkineni-seeks-nagarjunas-blessings-celebrates-success-with-bhagyashri-borse-watch/articleshow/132314887.cms",
-    "time": "2026-07-10T15:02:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Law is not a script that can be rewritten by an actor's will'",
-    "desc": "The Delhi High Court upheld actor Rajpal Yadav's conviction and sentence in multiple cheque dishonour cases. The court dismissed 21 petitions filed by the actor and his wife, Radha Rajpal Yadav. Justice Swarana Kanta Sharma noted the couple's repeated failure to fulfill financial commitments. The actor's conduct, including stating he would go to jail rather than repay, was criticized. The court affirmed the Sessions Court's judgment, dismissing all related applications.",
-    "img": "https://static.toiimg.com/photo/msid-132314694,imgsize-293554.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/law-is-not-a-script-that-can-be-rewritten-by-will-of-an-actor-delhi-high-court-slams-rajpal-yadav-for-not-abiding-by-the-orders-in-rs-9-crore-debt-case-gives-inprisonment/articleshow/132314698.cms",
-    "time": "2026-07-10T14:42:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sachin, hailed as 'perhaps the greatest batsman of all time', spotted at Wimbledon",
-    "desc": "Sachin Tendulkar attended the Wimbledon men's singles semifinals on Friday, where commentators hailed him as \"perhaps the greatest batsman of all time.\" The cricket legend watched British wild card Arthur Fery face French Open champion Alexander Zverev on Centre Court. A regular Wimbledon visitor, Tendulkar once again drew attention as one of the event's high-profile guests.",
-    "img": "https://static.toiimg.com/photo/msid-132314235,imgsize-87565.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/watch-sachin-tendulkar-hailed-as-perhaps-the-greatest-batsman-of-all-time-spotted-at-wimbledon-semi-final/articleshow/132313980.cms",
-    "time": "2026-07-10T14:24:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "PIL in Punjab and Haryana HC seeks restoration of Diljit Dosanjh-starrer Satluj",
     "desc": "The PIL said the sudden withdrawal of the film based upon documented historical events and the life of a human rights defender whose case has already been adjudicated upon by constitutional courts has given rise to serious concerns regarding transparency, freedom of artistic expression, and the possible existence of undisclosed executive interference",
     "img": "https://th-i.thgim.com/public/incoming/psoneg/article71203399.ece/alternates/LANDSCAPE_1200/Still%204.png",
@@ -583,15 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/e20-petrol-row-govt-answers-9-faqs-on-ethanol-blended-petrols-impact-on-mileage-performance-damage-pricing-more/articleshow/132312977.cms",
     "time": "2026-07-10T13:40:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Just a shame': RCB star reveals Kohli was secretly photographed during private meet",
-    "desc": "England batter Jordan Cox shared disappointment regarding Virat Kohli's privacy issues. Secret photographs of the former India captain surfaced online after a London meeting. Cox noted that hundreds of people passed by without interruption during their catch-up. He expressed sympathy for Kohli's inability to live a normal life away from cricket. Cox also praised Kohli's selfless nature and mentorship during their IPL stint.",
-    "img": "https://static.toiimg.com/photo/msid-132313397,imgsize-916729.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/just-a-shame-rcb-star-reveals-virat-kohli-was-secretly-photographed-during-private-meet/articleshow/132313109.cms",
-    "time": "2026-07-10T13:34:35.000Z"
   },
   {
     "cat": "Business",
@@ -612,15 +639,6 @@ const newsData_en = [
     "time": "2026-07-10T12:42:00.000Z"
   },
   {
-    "cat": "World",
-    "title": "Bangladesh’s ousted leader Hasina plans December return with party colleagues to surrender",
-    "desc": "“My party leaders and workers are being subjected to tremendous repression. If death comes, I want it to come on my own soil, where ‌my parents are buried and where their blood was shed,” Ms. Hasina said",
-    "img": "https://th-i.thgim.com/public/incoming/mcfik1/article71206388.ece/alternates/LANDSCAPE_1200/2026-07-10T073718Z_892674917_RC2MD5AK6PLE_RTRMADP_3_BANGLADESH-HASINA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/bangladeshs-ousted-leader-hasina-plans-december-return-with-party-colleagues-to-surrender/article71206327.ece",
-    "time": "2026-07-10T11:54:14.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India supplies gasoline to Russia",
     "desc": "Indian refiners are well equipped from a product-quality standpoint to supply the gasoline grades required by Russia. However, Oil minister Hardeep Singh Puri has said that Indian companies are not directly selling gasoline to Russia.",
@@ -637,15 +655,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/openai-gpt-5-6-vs-anthropic-fable-5-class-comparison/article71206211.ece",
     "time": "2026-07-10T10:43:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'We will definitely try to sort it out': BCCI to review Team India after England tour ends",
-    "desc": "The Board of Control for Cricket in India will review the men's T20I team's performance. This detailed review will commence immediately after the ongoing England tour concludes. The team has faced significant challenges during their recent white-ball matches. Problems will be identified and addressed following the series' conclusion. Team India aims to rectify issues and improve future team performances.",
-    "img": "https://static.toiimg.com/photo/msid-132309215,imgsize-258789.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/we-will-definitely-try-to-sort-it-out-bcci-to-review-team-india-immediately-after-england-tour-ends/articleshow/132309090.cms",
-    "time": "2026-07-10T10:16:14.000Z"
   },
   {
     "cat": "Business",
@@ -772,15 +781,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/sri-lankan-universities-closeshift-to-online-classes-amid-denguesurge/article71202449.ece",
     "time": "2026-07-09T13:21:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Neymar Jr. : World Cup career in graphics",
-    "desc": "After Brazil lost to Norway in the FIFA World Cup Round of 16 match, star player Neymar Junior bid adieu to international football after 16 years with the team. Here’s a graphical look at his career.",
-    "img": "https://th-i.thgim.com/public/incoming/vbk8a/article71187778.ece/alternates/LANDSCAPE_1200/Brazil_Norway_WCup_Soccer_784_7.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/neymar-jr-world-cup-career-in-graphics/article71201159.ece",
-    "time": "2026-07-09T11:22:44.000Z"
   },
   {
     "cat": "Entertainment",
