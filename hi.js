@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Schjelderup scores banger as Norway take 1-0 lead in first half",
+    "desc": "England will aim to move one step closer to ending their 60-year FIFA World Cup title drought when they face Norway in the quarter-finals at Hard Rock Stadium in Miami in the early hours of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/eng-vs-nor-fifa-world-cup-live-england-vs-norway-score-tactical-discussion-commentary-playing-xi-1047961",
+    "time": "2026-07-11T20:43:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Alongside Sourav Ganguly, another legendary cricketer inducted into ICC's Hall of Fame",
+    "desc": "Former England cricketer Kevin Pietersen has been inducted into the ICC Hall of Fame. The 46-year-old has been honoured for his impact across all three formats of international cricket. He was one of the leading...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/alongside-sourav-ganguly-another-legendary-cricketer-inducted-into-icc-s-hall-of-fame-2026-07-12-1047960",
+    "time": "2026-07-11T20:09:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Linda Noskova becomes third woman after Serena and Venus Williams to achieve rare feat with Wimbledon win",
+    "desc": "Linda Noskova captured her first Grand Slam singles title at Wimbledon after overcoming a dramatic challenge from fellow Czech player Karolina Muchova in a final that swung repeatedly between control and uncertainty. The 21-year-old ninth...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/linda-noskova-becomes-third-woman-after-serena-and-venus-williams-to-achieve-rare-feat-with-wimbledon-win-2026-07-12-1047959",
+    "time": "2026-07-11T19:08:06.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Karnti Gaud creates history with five-wicket haul in one-off Test against England at Lord's",
     "desc": "India pacer Kranti Gaud produced a historic show in the one-off Test against England at Lord’s by claiming a five-wicket haul. Courtesy of her dominating spell, England were out for 170 on day two, allowing...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-has-the-toss-been-delayed-ahead-of-5th-t20i-between-india-and-england-despite-clear-weather-check-details-2026-07-11-1047934",
     "time": "2026-07-11T13:18:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jos Buttler, Harry Brook demolish Indian bowlers in Southampton",
-    "desc": "The stage is set for the fifth and final T20I of the ongoing series between India and England. The two sides are slated to meet at the Rose Bowl in Southampton on July 11th. It...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-5th-t20i-live-score-india-hope-to-significantly-improve-england-eye-clean-sweep-2026-07-11-1047929",
-    "time": "2026-07-11T12:59:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Parthiv Patel points out what went wrong for India after T20I series loss to Ireland, England",
-    "desc": "The Indian team is all set to take on England in the fifth and final T20I of the ongoing series. The two sides will meet at the Rose Bowl in Southampton on July 11th, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/parthiv-patel-points-out-what-went-wrong-for-india-after-t20i-series-loss-to-ireland-england-2026-07-11-1047927",
-    "time": "2026-07-11T12:26:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Amazing to see him': Jannik Sinner hails 'inspirational' Novak Djokovic after dominant win in Wimbledon 2026",
-    "desc": "World number one Jannik Sinner put forth a brilliant performance against Serbian legend Novak Djokovic in the semi-final of Wimbledon 2026. The two stars met at Centre Court on July 10th, and while many anticipated...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/amazing-to-see-him-jannik-sinner-hails-inspirational-novak-djokovic-after-dominant-win-in-wimbledon-semi-final-2026-07-11-1047919",
-    "time": "2026-07-11T10:53:56.000Z"
   }
 ];

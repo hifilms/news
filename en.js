@@ -1,6 +1,96 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "15 Indian tourists killed as boat capsizes near Phu Quoc",
+    "desc": "Fifteen Indian tourists died and seventeen were injured when a speedboat capsized near Vietnam's Phu Quoc island. The vessel was carrying mobile phone dealers from Andhra Pradesh and Telangana on a company trip. Rescue operations were launched immediately by nearby vessels and emergency agencies. Vietnamese authorities have ordered an investigation into the cause of the tragic incident. Indian officials are coordinating relief efforts and providing assistance to affected families.",
+    "img": "https://static.toiimg.com/photo/msid-132337675,imgsize-1436245.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/15-indian-tourists-killed-as-boat-capsizes-in-vietnam/articleshow/132337668.cms",
+    "time": "2026-07-11T21:27:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kashmiri Pandit's eatery sparks 'ghar wapsi' calls",
+    "desc": "Akash Dhar, a visually impaired Kashmiri Pandit, opened a restaurant in Langate. Local residents and his landlord have offered significant support and encouragement. The eatery has attracted customers from various communities and areas. This initiative hopes to inspire other Kashmiri migrants to return home. The restaurant's success highlights a positive community response and integration.",
+    "img": "https://static.toiimg.com/photo/msid-132337624,imgsize-1216593.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-kashmiri-pandits-eatery-sparks-ghar-wapsi-calls/articleshow/132337615.cms",
+    "time": "2026-07-11T20:45:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi flags FCRA nod for Golden Temple to woo Sikh diaspora",
+    "desc": "Prime Minister Narendra Modi highlighted his government's initiatives for the Sikh community. He mentioned FCRA clearance for the Golden Temple and bringing back Guru Granth Sahib copies. Work is ongoing to connect Hemkund Sahib with a ropeway for better pilgrim access. The government also decided on annual commemoration of Guru Gobind Singh's sons' martyrdom. These efforts aim to deepen BJP's acceptance among the Sikh community.",
+    "img": "https://static.toiimg.com/photo/msid-132337606,imgsize-87448.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pm-modi-flags-fcra-nod-for-golden-temple-to-woo-sikh-diaspora/articleshow/132337602.cms",
+    "time": "2026-07-11T20:34:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bihar government launches doorstep land and property registration for citizens above 75 years old",
+    "desc": "Chief Minister Samrat Choudhary inaugurated this new system introduced by the Department of Prohibition, Excise, and Registration. This move spares the elderly the hassle of visiting registration offices, standing in long queues, or undertaking difficult journeys.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/bihar-government-launches-doorstep-land-and-property-registrationfor-citizens-above-75-years-old/article71210577.ece",
+    "time": "2026-07-11T20:28:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "3 UN special rapporteurs flag 'opaque' SIR process; Election Commission dismisses concerns as baseless",
+    "desc": "UN rapporteurs raised concerns about India's voter list revision process and alleged exclusion of minorities. Election Commission officials strongly refuted these allegations, calling them unfounded and unwarranted. The poll panel asserted that the special intensive revision process was transparent and constitutionally sound. They stated ample opportunities were given to electors to challenge any exclusions. The Supreme Court has upheld both the intent and process of this revision exercise.",
+    "img": "https://static.toiimg.com/photo/msid-132337588,imgsize-1219982.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/3-un-special-rapporteurs-flag-opaque-sir-process-election-commission-dismisses-concerns-as-baseless/articleshow/132337567.cms",
+    "time": "2026-07-11T20:16:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Djokovic — down but not out, vows to carry on",
+    "desc": "The Serb says he would like to return to the All England Club “at least one more time”; the principal reason behind his optimism is how he held up physically during two weeks of Wimbledon",
+    "img": "https://th-i.thgim.com/public/incoming/mzzofd/article71210803.ece/alternates/LANDSCAPE_1200/2026-07-10T174703Z_1268500251_UP1EM7A1DED67_RTRMADP_3_TENNIS-WIMBLEDON.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/tennis/djokovic-down-but-not-out-vows-to-carry-on/article71210385.ece",
+    "time": "2026-07-11T19:48:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "S. Janaki’s fresh voice, improvisation made Kerala groove to her tunes",
+    "desc": "Janaki inimitably lent her voice to numerous evergreen Malayalam film songs from the 1960s to the 1990s. Songs such as Manjanikombil, Thenum Vayambum, Nadha Nee varum, Manassiluranroo, Akale Akale Neelakasham, Ilam Manjin have retained their freshness and ability to influence the listener.",
+    "img": "https://th-i.thgim.com/public/incoming/u9vf83/article71211715.ece/alternates/LANDSCAPE_1200/p.susheela_honoured_5.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/s-janakis-voice-was-like-a-whiff-of-fresh-air/article71211439.ece",
+    "time": "2026-07-11T19:48:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Wimbledon 2026",
+    "desc": "The Italian will be meeting the German for the first time on grass. The defending Wimbledon champion will be keen to return to the winner’s circle at Majors while the latter will look for successive Slam wins",
+    "img": "https://th-i.thgim.com/public/incoming/lcfkl7/article71211417.ece/alternates/LANDSCAPE_1200/AFP_B9WU9KE.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/tennis/sinner-zverev-in-battle-of-power-hitters-for-the-top-prize/article71211127.ece",
+    "time": "2026-07-11T19:47:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Petition filed against illegal screenings of Diljit Dosanjh's 'Satluj'",
+    "desc": "The film 'Satluj', previously titled 'Punjab 95', faces ongoing controversy after its removal from OTT. Alleged public screenings in Punjab and Jammu have prompted a legal challenge in court. A petition seeks action against organisers of these unauthorised film viewings. The advocate claims these screenings promote violence and hatred against communities. Authorities are urged to halt screenings and initiate strict legal action against organisers.",
+    "img": "https://static.toiimg.com/photo/msid-132337261,imgsize-253853.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/petition-to-immediately-stop-illegal-screenings-of-diljit-dosanjs-satluj-filed-in-high-court-advocate-alleges-it-is-being-done-to-spread-hatred/articleshow/132337158.cms",
+    "time": "2026-07-11T19:19:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "J&amp;K: Interpol notice against Hizbul terrorist wanted in cop killings",
+    "desc": "An Interpol Red Corner Notice has been issued for Hizbul Mujahideen terrorist Imtiyaz Ahmad Kandoo. This notice targets Kandoo for his alleged involvement in a deadly 2013 attack. The attack resulted in the deaths of four police officers in Sopore, Kashmir. Kandoo, a designated terrorist, is believed to have exfiltrated to Pakistan. The State Investigation Agency considers this a significant achievement in pursuing fugitives.",
+    "img": "https://static.toiimg.com/photo/msid-132336897,imgsize-1559466.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jk-interpol-notice-against-hizbul-terrorist-wanted-in-cop-killings/articleshow/132336871.cms",
+    "time": "2026-07-11T18:47:36.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "J&amp;K: BSF woman constable dies by suicide in Jammu",
     "desc": "A 31-year-old BSF constable allegedly died by suicide in Jammu's Gadigarh camp. Constable Vanita Rani was found hanging from a ceiling fan with a dupatta. Her body was sent for a postmortem examination to establish the cause of death. This incident follows another woman constable's alleged suicide in Jammu on June 29. Both incidents are currently under investigation by authorities.",
     "img": "https://static.toiimg.com/photo/msid-132336868,imgsize-23082.cms",
@@ -16,6 +106,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/personnel-deptartment-cancels-fci-ed-suspension-terms-food-ministry-order-legally-non-existent/articleshow/132336756.cms",
     "time": "2026-07-11T18:39:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Suniel Shetty has hopes Hera Pheri 3 after 'Welcome To The Jungle' success: 'Something magical..'",
+    "desc": "Suniel Shetty remains hopeful for Hera Pheri 3's future production. He believes Welcome To The Jungle's success could help the comedy franchise. Nostalgia and recall value make Hera Pheri a significant career project. The actor also emphasized the importance of family entertainers for the industry. He credited Firoz Nadiadwala's vision for Welcome To The Jungle's positive reception.",
+    "img": "https://static.toiimg.com/photo/msid-132336470,imgsize-277631.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/despite-priyadarshans-exit-from-hera-pheri-3-suniel-shetty-now-says-he-has-hopes-for-it-after-welcome-to-the-jungle-success-something-magical-should-happen/articleshow/132336460.cms",
+    "time": "2026-07-11T18:24:32.000Z"
   },
   {
     "cat": "Sports",
@@ -100,15 +199,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "S. Janaki’s fresh voice, improvisation made Kerala groove to her tunes",
-    "desc": "Janaki inimitably lent her voice to numerous evergreen Malayalam film songs from the 1960s to the 1990s. Songs such as Manjanikombil, Thenum Vayambum, Nadha Nee varum, Manassiluranroo, Akale Akale Neelakasham, Ilam Manjin have retained their freshness and ability to influence the listener.",
-    "img": "https://th-i.thgim.com/public/incoming/we2ify/article71211522.ece/alternates/LANDSCAPE_1200/HP180831.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/s-janakis-voice-was-like-a-whiff-of-fresh-air/article71211439.ece",
-    "time": "2026-07-11T17:30:35.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Heavy to very heavy rain lashes parts of India",
     "desc": "In Uttarakhand, heavy rainfall triggered landslides, blocking 120 roads, while around 100 pilgrims were escorted to safety across a washed-out stretch of the Yamunotri National Highway after the route remained cut off for two days",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -189,15 +279,6 @@ const newsData_en = [
     "time": "2026-07-11T16:51:58.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Sinner, Zverev in battle of power-hitters for the top prize",
-    "desc": "The Italian will be meeting the German for the first time on grass; the defending champion will be keen to return to the winner’s circle at Majors while the latter will look for successive Slam wins",
-    "img": "https://th-i.thgim.com/public/incoming/m0e3o0/article71211417.ece/alternates/LANDSCAPE_1200/AFP_B9WU9KE.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/tennis/sinner-zverev-in-battle-of-power-hitters-for-the-top-prize/article71211127.ece",
-    "time": "2026-07-11T16:30:28.000Z"
-  },
-  {
     "cat": "World",
     "title": "Mojtaba vows revenge for father’s killing after Trump’s new threat",
     "desc": "‘Vengeance is the will of our nation and must inevitably be carried out,’ says Iran’s Supreme Leader in a written message; earlier Trump had said any attempt to assassinate him would lead the U.S. to ‘completely decimate’ Iran",
@@ -250,15 +331,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/uttar-pradesh/ram-temple-donation-theft-a-disgrace-we-feel-humiliated-nripendra-mishra/article71210280.ece",
     "time": "2026-07-11T16:01:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "How Shabad woke to unimaginable horror",
-    "desc": "Flashing police lights replaced the stillness of two farming villages in Shabad before dawn, as residents woke up to sealed homes, grieving families and questions over whether prompt police action could have prevented the killings",
-    "img": "https://th-i.thgim.com/public/incoming/tp16l8/article71211227.ece/alternates/LANDSCAPE_1200/DSC2445.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/the-recluse-next-door-how-shabad-woke-to-unimaginable-horror/article71211208.ece",
-    "time": "2026-07-11T15:55:08.000Z"
   },
   {
     "cat": "Politics",
@@ -486,15 +558,6 @@ const newsData_en = [
     "time": "2026-07-11T10:33:33.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Indian tourist drowns while swimming in Nepal's Phewa Lake",
-    "desc": "A 28-year-old Indian tourist from Bihar drowned in Nepal's Phewa Lake. Rohit Kumar, who was visiting Pokhara with friends, died after swimming. A disaster management team launched a search operation for the missing tourist. He was rescued and rushed to a hospital for treatment. Authorities are currently investigating the unfortunate drowning incident.",
-    "img": "https://static.toiimg.com/photo/msid-132328799,imgsize-1641635.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/indian-tourist-from-bihar-drowns-in-nepals-phewa-lake/articleshow/132328628.cms",
-    "time": "2026-07-11T10:28:20.000Z"
-  },
-  {
     "cat": "World",
     "title": "At least two dead, 19 wounded as Russia strikes Ukraine with missiles, drones",
     "desc": "The attack damaged a non-residential ​building in ‌one district, while smoke was coming from another and an office building was ‌in flames as a ​result of the strike, the city military ⁠administration said on the Telegram messaging app",
@@ -502,15 +565,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/russias-missile-strike-on-kyiv-leaving-several-injured/article71209623.ece",
     "time": "2026-07-11T10:20:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Not just a fighting force, but guardian of India's economy': Rajnath Singh hails Navy",
-    "desc": "Defence Minister Rajnath Singh emphasized the Indian Navy's crucial role in safeguarding national interests. Recent operations in West Asia demonstrated the Navy's commitment to protecting vital economic interests. The Indo-Pacific region is now a global focus, with India playing a key role. India aims to be a net security provider and trusted partner across the Indo-Pacific. The nation is developing its shipbuilding capacity to become a global maritime defence hub.",
-    "img": "https://static.toiimg.com/photo/msid-132328397,imgsize-827697.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/not-just-a-fighting-force-but-guardian-of-indias-economy-rajnath-singh-hails-navy/articleshow/132328328.cms",
-    "time": "2026-07-11T10:01:18.000Z"
   },
   {
     "cat": "Entertainment",
@@ -531,15 +585,6 @@ const newsData_en = [
     "time": "2026-07-11T09:56:47.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "India tops China on new millionaires, keeps money the old way",
-    "desc": "India added over 31,000 new dollar millionaires in 2025, significantly outpacing China. Indian wealthy individuals hold most assets in real estate and gold, unlike Western economies. This preference for tangible assets contrasts with a greater financialization seen elsewhere. While wealth is growing, it remains concentrated in a few major cities.",
-    "img": "https://static.toiimg.com/photo/msid-132327901,imgsize-127597.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-tops-china-on-new-millionaires-keeps-money-the-old-way/articleshow/132327886.cms",
-    "time": "2026-07-11T09:29:14.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Interview",
     "desc": "Born into a family of theatre artistes, Mano was exposed to music and acting from a very young age. He has a strong grounding in Carnatic music, having trained under Sangita Kalanidhi Nedunuri Krishnamurthy. Following the advice of maestro Ilaiyaraaja, he chose to devote himself entirely to singing and gave up acting.",
@@ -547,15 +592,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-interview-the-journey-of-nagoor-babu-to-playback-singer-mano/article71209802.ece",
     "time": "2026-07-11T09:01:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ananya Pandey shares glimpses of attending Pitbull's concert",
-    "desc": "Recently spotted at the Wimbledon Men's Singles Semi-Finals, actress Ananya Panday showcased her vibrant lifestyle by sharing a lively video from a Pitbull concert in London, where fans passionately sang along to 'Rain Over Me.' Despite her previous appearances at high-profile events like Paris Haute Couture Week and Wimbledon, her recent films, 'Tu Meri Main Tera Main Tera Tu Meri' and 'Chand Mera Dil,' encountered challenges at the box office.",
-    "img": "https://static.toiimg.com/photo/msid-132326737,imgsize-32742.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/chand-mera-dil-star-ananya-panday-enjoys-pitbulls-concerts-shares-posts-of-singing-rain-over-me/articleshow/132326667.cms",
-    "time": "2026-07-11T08:43:48.000Z"
   },
   {
     "cat": "Sports",
@@ -592,24 +628,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/the-unfulfilled-solar-promise-of-india-and-germany/article71206840.ece",
     "time": "2026-07-11T08:09:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Govinda on career struggles, recalls losing Rs 16 crore",
-    "desc": "Govinda, now trending on 'Lock Upp' after appearances on Kajol-Twinkle's show and Kapil Sharma's show, revisits his 2021 interview. He spoke about never bad-mouthing others despite losing Rs 16 crore, advised his children Tina and Yashvardhan to earn their place, and reflected on family life with wife Sunita.",
-    "img": "https://static.toiimg.com/photo/msid-132326967,imgsize-289565.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-govinda-opened-up-about-why-coolie-no-1-remake-didnt-work-invested-money-and-lost-around-rs-16-crore-was-treated-badly-by-some-people/articleshow/132326967.cms",
-    "time": "2026-07-11T08:00:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi quintessential politician, favours direct contact with electorate: MEA official in New Zealand",
-    "desc": "The Ministry of External Affairs explained Prime Minister Modi's direct engagement style with voters. He prefers connecting with the electorate without intermediaries, which is a political method. This approach has contributed to his electoral success and long tenure as Prime Minister. The visit aimed to strengthen the rule-based Indo-Pacific order with New Zealand.",
-    "img": "https://static.toiimg.com/photo/msid-132327179,imgsize-85178.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-modi-quintessential-politician-favours-direct-contact-with-electorate-mea-official-in-new-zealand/articleshow/132326925.cms",
-    "time": "2026-07-11T07:56:33.000Z"
   },
   {
     "cat": "Sports",
@@ -691,15 +709,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/mikel-merino-creates-fifa-world-cup-history-becomes-first-player-to-score-winning-goals-as-substitute-in-two-knockout-matches/articleshow/132323928.cms",
     "time": "2026-07-11T03:10:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill chats with Federer, becomes only fourth Indian captain to...",
-    "desc": "Shubman Gill received a Royal Box invitation to Wimbledon 2026. He joined elite Indian captains previously hosted in the prestigious enclosure. Gill also met tennis legend Roger Federer and watched matches with Sachin Tendulkar. Earlier, he attended the British Grand Prix as a VIP guest. The Indian captain is currently in England for an ODI series.",
-    "img": "https://static.toiimg.com/photo/msid-132323680,imgsize-965650.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shubman-gill-with-roger-federer/articleshow/132323650.cms",
-    "time": "2026-07-11T02:39:34.000Z"
   },
   {
     "cat": "World",
@@ -853,15 +862,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/jana-nayagan-gets-a-certificate-likely-to-release-in-theatres-on-july-24/article71203461.ece",
     "time": "2026-07-10T04:13:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "FIFA World Cup 2026",
-    "desc": "Teen sensation Yamal powered Spain to glory at the European Championships two years ago, but has yet to fully shine at a World Cup where other marquee names like Lionel Messi, Kylian Mbappe and Erling Haaland are banging in goals.",
-    "img": "https://th-i.thgim.com/public/incoming/obpwa5/article71205069.ece/alternates/LANDSCAPE_1200/2026-07-09T184645Z_204323225_UP1EM791G5W1Y_RTRMADP_3_SOCCER-WORLDCUP-ESP-BEL-PREVIEW.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-yamals-best-yet-to-come-warns-spain-coach/article71205068.ece",
-    "time": "2026-07-10T02:37:52.000Z"
   },
   {
     "cat": "Business",
