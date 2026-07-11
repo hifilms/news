@@ -1,5 +1,275 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "J&amp;K: BSF woman constable dies by suicide in Jammu",
+    "desc": "A 31-year-old BSF constable allegedly died by suicide in Jammu's Gadigarh camp. Constable Vanita Rani was found hanging from a ceiling fan with a dupatta. Her body was sent for a postmortem examination to establish the cause of death. This incident follows another woman constable's alleged suicide in Jammu on June 29. Both incidents are currently under investigation by authorities.",
+    "img": "https://static.toiimg.com/photo/msid-132336868,imgsize-23082.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jk-bsf-woman-constable-dies-by-suicide-in-jammu/articleshow/132336847.cms",
+    "time": "2026-07-11T18:43:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Personnel deptartment cancels FCI ED suspension, terms food ministry order legally non-existent",
+    "desc": "The personnel department cancelled a food ministry order suspending an FCI executive director. This suspension was treated as legally non-existent from the beginning by the DoPT. The officer was ordered for immediate repatriation to his parent cadre by the DoPT. The food ministry had initiated proceedings after a committee found alleged irregularities in rice sales. A review committee was also set up to improve administrative efficiency within the FCI.",
+    "img": "https://static.toiimg.com/photo/msid-132336817,imgsize-32666.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/personnel-deptartment-cancels-fci-ed-suspension-terms-food-ministry-order-legally-non-existent/articleshow/132336756.cms",
+    "time": "2026-07-11T18:39:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India's 1,601-day reign as World No. 1 ends after England complete 4-0 T20I whitewash",
+    "desc": "England completed a 4-0 T20I series sweep over India with a 56-run win in Southampton. Jos Buttler smashed a career-best 131, while Harry Brook's unbeaten 95 helped England post 257/3 with a record 233-run stand. India replied with 201/8 despite half-centuries from Ishan Kishan and Tilak Varma, ending a disappointing tour on a losing note.",
+    "img": "https://static.toiimg.com/photo/msid-132336426,imgsize-168852.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/indias-1601-day-reign-as-world-no-1-ends-after-england-complete-4-0-t20i-whitewash/articleshow/132336411.cms",
+    "time": "2026-07-11T18:17:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Sonam Wangchuk refuses to end fast, CM Omar Abdullah targets Centre over Ladakh-J&amp;K ‘double standards’",
+    "desc": "Leh Apex Body postponed a Delhi trip as Sonam Wangchuk continues his hunger strike. J&K CM Omar Abdullah criticized the Centre's double standards regarding Ladakh and J&K. The Centre agreed to explore Article 371-like safeguards for Ladakh's elected body. Abdullah questioned why Ladakh receives constitutional protections while J&K statehood is denied. He also alleged a BJP offer to an NC MLA for switching sides.",
+    "img": "https://static.toiimg.com/photo/msid-132336427,imgsize-1089196.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sonam-wangchuk-refuses-to-end-fast-cm-omar-abdullah-targets-centre-over-ladakh-jk-double-standards/articleshow/132336346.cms",
+    "time": "2026-07-11T18:16:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kranti Gaud's six-for, Smriti Mandhana's unbeaten fifty leave India in complete control on day 2 at Lord's",
+    "desc": "India secured a significant first-innings lead after bowling England out for 170. Kranti Gaud delivered a career-defining spell, taking six wickets for the visitors. Smriti Mandhana then anchored India's second innings with an unbeaten 69. Shafali Verma provided solid support, adding 88 runs for the opening wicket. India holds a commanding 269-run advantage heading into the final day.",
+    "img": "https://static.toiimg.com/photo/msid-132336207,imgsize-14844.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/kranti-gauds-six-for-smriti-mandhanas-unbeaten-fifty-leave-india-in-complete-control-on-day-2-at-lords/articleshow/132336108.cms",
+    "time": "2026-07-11T18:02:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Historic! Noskova becomes 3rd Czech woman in 4 years to win Wimbledon",
+    "desc": "Linda Noskova won her first Grand Slam title, beating fellow Czech Karolina Muchova 6-2, 5-7, 6-3 in the Wimbledon final. The 21-year-old recovered after squandering five match points in the second set to seal victory on her sixth chance. The triumph makes her the youngest Wimbledon champion since Petra Kvitova in 2011 and lifts her to a career-high No. 7.",
+    "img": "https://static.toiimg.com/photo/msid-132336148,imgsize-123966.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/historic-linda-noskova-becomes-third-czech-woman-in-last-four-years-to-win-wimbledon/articleshow/132336116.cms",
+    "time": "2026-07-11T17:59:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Amit Shah assures church leaders that FCRA Bill will not be applied retrospectively",
+    "desc": "In the meeting held with Mr. Shah, the Minister asked the church leaders to file FIRs in all cases of aggression against the community, urges them to broker peace in Manipur and also reassured them that the Bill was not against any religious community",
+    "img": "https://th-i.thgim.com/public/news/national/tilrcd/article71211432.ece/alternates/LANDSCAPE_1200/ab1b7a4a-679e-4f3c-a727-619f43fb5fff.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/amit-shah-assures-church-leaders-that-fcra-bill-will-not-be-applied-retrospectively/article71210969.ece",
+    "time": "2026-07-11T17:58:31.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Aditya Birla Group proposes ₹12,000 crore investment for Kansariguda alumina refinery expansion",
+    "desc": "The company, which already has a refinery and two smelter plants in Odisha, has been implementing a 1 MTPA capacity greenfield refinery project at Kansariguda at an investment of ₹8,000 crore through Hindalco Industries Limited",
+    "img": "https://th-i.thgim.com/public/incoming/3gteu6/article71211598.ece/alternates/LANDSCAPE_1200/PTI10_19_2024_000155A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/aditya-birla-group-proposes-12000-crore-investment-for-kansariguda-alumina-refinery-expansion/article71211551.ece",
+    "time": "2026-07-11T17:49:31.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Government intervenes as shipping shocks expose container vulnerability",
+    "desc": "The first outcome of the ₹10,000 crore container manufacturing scheme announced in Union Budget 2026-27 came on July 3, when an India-made EXIM container built by DCM Shriram Group was unveiled at Dadri for Maersk, which has placed a follow-on order for another 1,000 containers",
+    "img": "https://th-i.thgim.com/public/opinion/cartoon/geyozp/article71211547.ece/alternates/LANDSCAPE_1200/iStock-1395839106.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/government-intervenes-as-shipping-shocks-expose-container-vulnerability/article71211176.ece",
+    "time": "2026-07-11T17:34:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kejriwal visits Delhi petrol pump, service station to hear consumers' E20 fuel concerns",
+    "desc": "Arvind Kejriwal visited a Delhi petrol pump and service station. He spoke with vehicle owners about their E20 fuel experiences. Many consumers reported reduced mileage and mechanical issues with the blended petrol. Kejriwal stated the government's claims about E20 fuel are untrue. He emphasized that public grievances should be heard and addressed.",
+    "img": "https://static.toiimg.com/photo/msid-132335482,imgsize-1113315.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/kejriwal-visits-delhi-petrol-pump-service-station-to-hear-consumers-e20-fuel-concerns/articleshow/132335446.cms",
+    "time": "2026-07-11T17:33:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "R Madhavan earned Rs 70,000 to 80,000 when he taught public speaking before acting",
+    "desc": "Actor R Madhavan wrote his ambition to become rich and famous as a teenager. He believed in dreaming big and never limiting one's aspirations. Madhavan was teaching communication skills before acting came into his life. An unexpected street encounter led him to pursue a career in cinema. This chance meeting resulted in his debut in the successful film Alaipayuthey.",
+    "img": "https://static.toiimg.com/photo/msid-132335368,imgsize-231124.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-madhavan-earned-rs-70000-to-80000-when-he-first-came-to-mumbai-taught-communication-skills-thought-his-first-acting-job-was-a-scam-never-thought-amitabh-bachchan-would-call-to-wish-on-my-birthday/articleshow/132335369.cms",
+    "time": "2026-07-11T17:31:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "S. Janaki’s fresh voice, improvisation made Kerala groove to her tunes",
+    "desc": "Janaki inimitably lent her voice to numerous evergreen Malayalam film songs from the 1960s to the 1990s. Songs such as Manjanikombil, Thenum Vayambum, Nadha Nee varum, Manassiluranroo, Akale Akale Neelakasham, Ilam Manjin have retained their freshness and ability to influence the listener.",
+    "img": "https://th-i.thgim.com/public/incoming/we2ify/article71211522.ece/alternates/LANDSCAPE_1200/HP180831.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/s-janakis-voice-was-like-a-whiff-of-fresh-air/article71211439.ece",
+    "time": "2026-07-11T17:30:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Heavy to very heavy rain lashes parts of India",
+    "desc": "In Uttarakhand, heavy rainfall triggered landslides, blocking 120 roads, while around 100 pilgrims were escorted to safety across a washed-out stretch of the Yamunotri National Highway after the route remained cut off for two days",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/monsoon-rain-in-india-imd-weather-forecast-flood-rainfall-alerts-live-updates-july-11-2026/article71209337.ece",
+    "time": "2026-07-11T17:28:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Be your own hero': Sonam Wangchuk rejects 'modern Gandhi' tag amid hunger strike",
+    "desc": "Educator Sonam Wangchuk rejects hero labels and urges citizens to take responsibility. He is currently on an indefinite hunger strike at Jantar Mantar for 14 days. Wangchuk is protesting examination irregularities and seeking accountability from the government. He has lost significant weight and feels tired but remains determined. Wangchuk appeals for public support in the ongoing movement and upcoming march.",
+    "img": "https://static.toiimg.com/photo/msid-132335149,imgsize-914176.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/be-your-own-hero-sonam-wangchuk-rejects-modern-gandhi-tag-amid-hunger-strike/articleshow/132335144.cms",
+    "time": "2026-07-11T17:25:36.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran warns it will not be bound by deal with U.S. if violations continue",
+    "desc": "Iran's supreme leader ​Ayatollah Mojtaba Khamenei said ‌that ​avenging his ⁠slain predecessor and father was \"the demand of ‌the nation\" and \"must certainly\" take ‌place, according ‌to ⁠a written ⁠message released on his Telegram account",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-us-war-donald-trump-washington-tehran-peace-talks-west-asia-conflict-strait-of-hormuz-live-updates-july-11-2026/article71209275.ece",
+    "time": "2026-07-11T17:21:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "One-fourth of India’s monsoon rain evaporates mid-air, says new study",
+    "desc": "Researchers at IITM Pune say 25% of the rain mass evaporates during June to September; this may vary across regions; the finding will help scientists refine weather and climate models and better understand the monsoon",
+    "img": "https://th-i.thgim.com/public/incoming/wmecbw/article71211526.ece/alternates/LANDSCAPE_1200/IMG_Bisle_Ghat__Western__2_1_28C4T36P.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/one-fourth-of-indias-monsoon-rain-evaporates-mid-air-says-new-study/article71210939.ece",
+    "time": "2026-07-11T17:19:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajinikanth, CM Vijay, Kamal Haasan pour tributes as legendary singer S Janaki passes away",
+    "desc": "Legendary playback singer S Janaki passed away at the age of 88. Her extensive career spanned over 48,000 songs in many languages. Tributes poured in from across the Indian film industry. Rajinikanth and Kamal Haasan shared heartfelt messages remembering her voice. Her indelible mark on music will be cherished by generations.",
+    "img": "https://static.toiimg.com/photo/msid-132334961,imgsize-257467.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajinikanth-cm-vijay-kamal-haasan-and-others-pour-tributes-as-legendary-singer-s-janaki-passes-away-at-88-irreplaceable-loss-to-the-indian-music-world/articleshow/132334920.cms",
+    "time": "2026-07-11T17:17:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NIA chargesheets eight, including Pakistan-based  ‘terrorist’, in Ambala car blast case",
+    "desc": "Case relates to a car bomb blast in the parking area of a police station in Haryana in January; NIA alleges that Shehzad Bhatti had recruited and radicalised several through social media platforms and encrypted communication channels",
+    "img": "https://th-i.thgim.com/public/incoming/5esbap/article71211339.ece/alternates/LANDSCAPE_1200/NIA%20Security%2010%2004%20DELHI%2012.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/nia-chargesheets-eight-including-pakistan-based-terrorist-in-ambala-car-blast-case/article71211237.ece",
+    "time": "2026-07-11T17:15:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rapper TI confirms retirement after 'Kill The King'",
+    "desc": "Rapper TI has officially announced his retirement from the music scene following the release of his twelfth album, 'Kill the King.' Embracing a lifestyle that leans towards family time, he feels it's time to step back. TI expressed heartfelt gratitude to his fans for their support with this final endeavor, which was inspired by the wisdom of Big Boi.",
+    "img": "https://static.toiimg.com/photo/msid-132334954,imgsize-60556.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/ive-got-everything-i-prayed-for-rapper-ti-announces-retirement-from-music-after-12th-album-kill-the-king/articleshow/132334901.cms",
+    "time": "2026-07-11T17:14:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "J&K Police",
+    "desc": "Hizbul Mujahideen terrorist Imtiyaz Ahmad Kandoo alias Fayaz alias Sajad, who is the accused in the 2013 Hygam terror attack in Sopore that claimed the lives of four J&K Police personnel, is believed to have exfiltrated to Pakistan",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/sia-kashmir-secures-interpol-red-corner-notice-against-hizbul-terrorist/article71210210.ece",
+    "time": "2026-07-11T16:54:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "FIRST PICS",
+    "desc": "Actress Akansha Ranjan Kapoor and filmmaker Sharan Sharma recently married in a civil ceremony. The couple shared intimate glimpses from their special day on social media. Their love story began with a personal proposal during a trip to Alibaug. Pre-wedding festivities included a party at 38 Manhattan in Mumbai. Guests enjoyed comfort food after the evening's celebrations concluded.",
+    "img": "https://static.toiimg.com/photo/msid-132334617,imgsize-387757.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akansha-ranjan-kapoor-and-mr-and-mrs-mahi-director-sharan-sharma-are-officially-married-drop-first-pics-alia-bhatt-ananya-panday-and-others-shower-love/articleshow/132334606.cms",
+    "time": "2026-07-11T16:51:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sinner, Zverev in battle of power-hitters for the top prize",
+    "desc": "The Italian will be meeting the German for the first time on grass; the defending champion will be keen to return to the winner’s circle at Majors while the latter will look for successive Slam wins",
+    "img": "https://th-i.thgim.com/public/incoming/m0e3o0/article71211417.ece/alternates/LANDSCAPE_1200/AFP_B9WU9KE.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/tennis/sinner-zverev-in-battle-of-power-hitters-for-the-top-prize/article71211127.ece",
+    "time": "2026-07-11T16:30:28.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Mojtaba vows revenge for father’s killing after Trump’s new threat",
+    "desc": "‘Vengeance is the will of our nation and must inevitably be carried out,’ says Iran’s Supreme Leader in a written message; earlier Trump had said any attempt to assassinate him would lead the U.S. to ‘completely decimate’ Iran",
+    "img": "https://th-i.thgim.com/public/incoming/1broj4/article71210365.ece/alternates/LANDSCAPE_1200/2026-07-06T125353Z_276076981_RC2V4LA24HZV_RTRMADP_3_IRAN-CRISIS-MOJTABA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/irans-supreme-leader-pledges-revenge-for-slain-father-and-predecessor/article71210345.ece",
+    "time": "2026-07-11T16:19:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Three Andhra Pradesh tourists among 15 Indians killed in Vietnam boat tragedy",
+    "desc": "Two persons from Kadapa and one from Machilipatnam are among the victims; Chief Minister Chandrababu Naidu instructs officials to provide all possible assistance to the bereaved families and ensure the safe return of the survivors",
+    "img": "https://th-i.thgim.com/public/incoming/9zitjt/article71211372.ece/alternates/LANDSCAPE_1200/10215_11_7_2026_20_15_30_1_IMG_20260711_WA0080.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/three-andhra-pradesh-tourists-among-15-indians-killed-in-vietnam-boat-tragedy/article71211090.ece",
+    "time": "2026-07-11T16:11:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Brook creates history in 5th T20I against India, becomes 1st England batter to...",
+    "desc": "England captain Harry Brook achieved a significant milestone in the final T20I. He became the first English batter to surpass two hundred runs in a home bilateral series. Brook also set a new record for the most runs against India in a bilateral T20I series. His performance eclipsed Nicholas Pooran's previous record of one hundred eighty-four runs. This series cemented Brook's dominance against the Indian team.",
+    "img": "https://static.toiimg.com/photo/msid-132333934,imgsize-112228.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/harry-brook-creates-history-in-5th-t20i-against-india-becomes-1st-england-batter-to-/articleshow/132333897.cms",
+    "time": "2026-07-11T16:09:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Nightingale of South India’ S. Janaki passes away at 88",
+    "desc": "Legendary playback singer S. Janaki has passed away at the age of 88 in Mysuru after battling age-related ailments. Fondly known as the “Nightingale of South India”, Janaki recorded over 20,000 songs across Tamil, Telugu, Malayalam, Kannada and Hindi during a remarkable career spanning more than six decades.",
+    "img": "https://th-i.thgim.com/public/news/national/6pxxy5/article71211346.ece/alternates/LANDSCAPE_1200/Spain.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-nightingale-of-south-india-s-janaki-passes-away-at-88/article71211347.ece",
+    "time": "2026-07-11T16:07:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Sooryavanshi not playing the series finale?",
+    "desc": "India dropped teenage opener Vaibhav Sooryavanshi for Sanju Samson in the fifth T20I against England, while Suryansh Shedge replaced Washington Sundar. Explaining the changes, captain Shreyas Iyer said the team wanted to \"try what's the best going forward for us as a team\" and urged players to give \"hundred percent effort, irrespective of the result\". England then piled up 257/3, powered by Jos Buttler's 131 and Harry Brook's unbeaten 95.",
+    "img": "https://static.toiimg.com/photo/msid-132333952,imgsize-116979.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ind-vs-eng-5th-t20i-why-is-vaibhav-sooryavanshi-not-playing-the-series-finale/articleshow/132333887.cms",
+    "time": "2026-07-11T16:06:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Embezzlement at Ram Temple is a disgrace, ‘we feel humiliated’, says Nripendra Misra",
+    "desc": "‘This matter now concerns the management of the temple, and it is certain that improvements will be made to prevent a recurrence of this alleged donation theft,’ the temple construction committee’s chairperson, among the first to call for the appointment of a CEO, says",
+    "img": "https://th-i.thgim.com/public/incoming/jju82h/article71210292.ece/alternates/LANDSCAPE_1200/20260711076L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/ram-temple-donation-theft-a-disgrace-we-feel-humiliated-nripendra-mishra/article71210280.ece",
+    "time": "2026-07-11T16:01:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "How Shabad woke to unimaginable horror",
+    "desc": "Flashing police lights replaced the stillness of two farming villages in Shabad before dawn, as residents woke up to sealed homes, grieving families and questions over whether prompt police action could have prevented the killings",
+    "img": "https://th-i.thgim.com/public/incoming/tp16l8/article71211227.ece/alternates/LANDSCAPE_1200/DSC2445.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telangana/the-recluse-next-door-how-shabad-woke-to-unimaginable-horror/article71211208.ece",
+    "time": "2026-07-11T15:55:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Suspicious death, not natural': Hyderabad student found dead in Finland two months after going missing",
+    "desc": "An 18-year-old Hyderabad student's body was recovered from the sea in Helsinki. Finnish authorities confirmed the recovery of Manideep Reddy's body after two months. His family has raised serious questions about the circumstances surrounding his death. They believe the case has not been properly investigated by Finnish authorities. The family urges the Indian government to facilitate their travel to Finland.",
+    "img": "https://static.toiimg.com/photo/msid-132333786,imgsize-1099152.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/suspicious-death-not-natural-hyderabad-student-found-dead-in-finland-two-months-after-going-missing/articleshow/132333775.cms",
+    "time": "2026-07-11T15:47:21.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Quote of the day by Tom Hanks",
     "desc": "Tom Hanks, an acclaimed actor known for his remarkable work in both comedy and drama, has a film career that's truly remarkable. His famous line from 'Forrest Gump' emphasizes the unpredictable nature of life and the importance of acceptance. Starting in television, Hanks quickly transitioned to Hollywood stardom, earning two Academy Awards for his versatile performances. Beyond acting, he is also an accomplished writer and enjoys significant wealth.",
@@ -9,31 +279,13 @@ const newsData_en = [
     "time": "2026-07-11T15:28:46.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Ram temple donation 'theft' a disgrace; we feel humiliated: Nripendra Mishra",
-    "desc": "‘This is [now] an issue about temple management, and the management will surely be improved to guard against a repeat of this [alleged donation theft],’ the Ram Temple construction committee’s chairperson says; a high-level committee had been set up to suggest a suitable name as CEO",
-    "img": "https://th-i.thgim.com/public/incoming/jju82h/article71210292.ece/alternates/LANDSCAPE_1200/20260711076L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttar-pradesh/ram-temple-donation-theft-a-disgrace-we-feel-humiliated-nripendra-mishra/article71210280.ece",
-    "time": "2026-07-11T15:09:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "A.P. CM Chandrababu Naidu expresses anguish over death of two persons from State in Vietnam boat accident",
-    "desc": "Of the 33 persons from Andhra Pradesh who have gone on a trip, 19 are on the boat when the accident occurred, he says, and directs officials to take steps to bring back those who survived and contact the family members of the deceased and extend them necessary support",
-    "img": "https://th-i.thgim.com/public/incoming/voivcn/article71211002.ece/alternates/LANDSCAPE_1200/A.P.-CM-orders-GONG7V848.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/jagan-expresses-shock-over-death-of-telugu-tourists-in-vietnam-boat-accident/article71210279.ece",
-    "time": "2026-07-11T14:47:18.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran's supreme leader pledges revenge for slain father and predecessor",
-    "desc": "Iran's supreme leader ​Ayatollah Mojtaba Khamenei said ‌that ​avenging his ⁠slain predecessor and father was \"the demand of ‌the nation\" and \"must certainly\" take ‌place, according ‌to ⁠a written ⁠message released on his Telegram account",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-us-war-donald-trump-washington-tehran-peace-talks-west-asia-conflict-strait-of-hormuz-live-updates-july-11-2026/article71209275.ece",
-    "time": "2026-07-11T14:33:38.000Z"
+    "cat": "Entertainment",
+    "title": "Legendary singer S Janaki, called Nightingale of South India passes away at 88",
+    "desc": "Veteran playback singer S Janaki, known as Nightingale of South India, passed away at 88. She died at Apollo Hospital in Mysuru after battling age-related health issues. Janaki Amma had declined the Padma Bhushan award in 2013, feeling it came too late. She received four National Film Awards and thirty-three State Film Awards during her career. The legendary singer had lent her voice to over twenty Indian languages.",
+    "img": "https://static.toiimg.com/photo/msid-132333158,imgsize-300428.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/legendary-singer-s-janaki-called-nightingale-of-south-india-passes-away-at-88-in-mysuru-due-to-age-related-ailments/articleshow/132333161.cms",
+    "time": "2026-07-11T15:05:37.000Z"
   },
   {
     "cat": "Politics",
@@ -216,15 +468,6 @@ const newsData_en = [
     "time": "2026-07-11T11:02:53.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Tom Holland on supporting Zendaya on ‘The Odyssey’",
-    "desc": "Tom Holland was present for Zendaya during a demanding scene. He stayed by her side while she filmed a major sequence. This occurred during the siege of Troy, a significant part of the film. Holland expressed his admiration for director Christopher Nolan's work. 'The Odyssey' is scheduled for a July seventeenth worldwide release.",
-    "img": "https://static.toiimg.com/photo/msid-132328969,imgsize-68580.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-holland-says-he-was-there-for-wife-zendaya-on-the-sets-of-the-odyssey-im-here-if-you-need-me/articleshow/132328845.cms",
-    "time": "2026-07-11T10:51:40.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Kushare scripts history on Diamond League debut, becomes first Indian ever to...",
     "desc": "India's Sarvesh Kushare finished third in the men's high jump on his Diamond League debut at the Monaco meet, clearing 2. 26m. He became the first Indian to secure a top-three finish on a Diamond League debut and only the fourth Indian to achieve the feat overall. The podium finish continues his impressive season ahead of the 2026 Commonwealth Games.",
@@ -280,15 +523,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Vijay Sethupathi mourns filmmaker R Chezhiyan",
-    "desc": "Award-winning Tamil filmmaker R Chezhiyan died at age fifty-seven on Friday. His passing caused shock throughout the Tamil film industry. Several stars and fans shared their grief and paid tribute to him. Chezhiyan was known for his cinematography and encouraging young filmmakers. He had been undergoing treatment for cancer before his death.",
-    "img": "https://static.toiimg.com/photo/msid-132328365,imgsize-513802.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vijay-sethupathi-pays-tribute-to-r-chezhiyan-after-award-winning-filmmaker-passes-away-at-57/articleshow/132328303.cms",
-    "time": "2026-07-11T09:58:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Chennai’s Victoria Public Hall to host an all-day Tamil rap concert",
     "desc": "Rap at the Victoria Public Hall? At Multticulture on July 19, catch some of the freshest voices of Tamil rap take part in epic battles and masterclasses that teach young musicians how to produce their own verses",
     "img": "https://th-i.thgim.com/public/life-and-style/3vrtqy/article71197527.ece/alternates/LANDSCAPE_1200/cxas.jpg",
@@ -307,15 +541,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Diljit Dosanjh's 'Satluj' faces another blow",
-    "desc": "A government committee recommended continuing restrictions on Diljit Dosanjh's film Satluj. The panel found the film's content concerning India's national security and sovereignty. This decision follows the film's removal from streaming platforms in India and overseas. Political leaders in Punjab have voiced differing opinions on the government's actions. The film's future availability remains uncertain after these developments.",
-    "img": "https://static.toiimg.com/photo/msid-132327928,imgsize-322541.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/diljit-dosanjhs-satluj-faces-another-blow-honey-trehan-directorial-removed-from-zee5s-international-catalogue-reports/articleshow/132327913.cms",
-    "time": "2026-07-11T09:24:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Interview",
     "desc": "Born into a family of theatre artistes, Mano was exposed to music and acting from a very young age. He has a strong grounding in Carnatic music, having trained under Sangita Kalanidhi Nedunuri Krishnamurthy. Following the advice of maestro Ilaiyaraaja, he chose to devote himself entirely to singing and gave up acting.",
     "img": "https://th-i.thgim.com/public/incoming/6t75xl/article71209804.ece/alternates/LANDSCAPE_1200/singer%20mano.png",
@@ -331,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/chand-mera-dil-star-ananya-panday-enjoys-pitbulls-concerts-shares-posts-of-singing-rain-over-me/articleshow/132326667.cms",
     "time": "2026-07-11T08:43:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Neha Kakkar once had a crush on Rajeev Khandelwal",
-    "desc": "During a recent reality show appearance with her husband, singer Neha Kakkar shared her secret crush on actor Rajeev Khandelwal. She fondly recalled how Khandelwal once surprised her during her recovery from Indian Idol, where he sweetly sang a tune from his popular show. This nostalgic moment evoked warm memories of the beloved series that captured many hearts.",
-    "img": "https://static.toiimg.com/photo/msid-132327176,imgsize-126754.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/neha-kakkar-recalls-having-a-huge-crush-on-rajeev-khandelwal-as-sujal-from-kahiin-to-hoga/articleshow/132327034.cms",
-    "time": "2026-07-11T08:42:53.000Z"
   },
   {
     "cat": "Sports",
@@ -396,24 +612,6 @@ const newsData_en = [
     "time": "2026-07-11T07:56:33.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Public's rightful grain is being looted': Kharge attacks BJP over alleged MP ethanol scam",
-    "desc": "Congress president Mallikarjun Kharge criticized the Madhya Pradesh government for alleged corruption. He highlighted a Rs 1,200 crore rice scam involving diverted grain. This rice was meant for malnourished children and women. An investigation is underway after a complaint about undelivered rice. Kharge also mentioned land scam allegations against the chief minister.",
-    "img": "https://static.toiimg.com/photo/msid-132326790,imgsize-108660.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/publics-rightful-grain-is-being-looted-kharge-attacks-bjp-over-alleged-mp-ethanol-scam/articleshow/132326748.cms",
-    "time": "2026-07-11T07:44:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'No regrets'",
-    "desc": "Actor Muzammil Ibrahim shared details about his past relationship with Deepika Padukone. He claimed the Bollywood star initiated their connection nearly two decades ago. Ibrahim stated he ended the relationship, citing career differences at the time. He expressed admiration for Padukone's successful career and current superstardom. Padukone has not yet responded to Ibrahim's recent podcast interview comments.",
-    "img": "https://static.toiimg.com/photo/msid-132326668,imgsize-265659.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/muzammil-ibrahim-makes-fresh-claims-about-dating-deepika-padukone-no-regrets-love-watching-her-movies-i-was-big-star-she-is-now/articleshow/132326669.cms",
-    "time": "2026-07-11T07:34:32.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Harmanpreet Kaur becomes first Indian to...",
     "desc": "Harmanpreet Kaur achieved a unique milestone by scoring a fifty at Lord's. She became the first Indian to score fifties in Tests, ODIs, and T20Is there. Smriti Mandhana also contributed significantly with a score of 83 runs. India posted 285 runs in their first innings after a strong partnership. England finished the opening day on 21 for 1, trailing by 264 runs.",
@@ -430,24 +628,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/publicly-declare-hormuz-open-wont-attack-ships-us-demand-to-iran/article71209260.ece",
     "time": "2026-07-11T06:50:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Some rallies never end': Tendulkar's heartfelt message to Federer goes viral",
-    "desc": "Sachin Tendulkar and Roger Federer shared a heartwarming reunion at Wimbledon this year. Shubman Gill also experienced the prestigious event from the Royal Box for the first time. Tendulkar also met with Brian Lara, recalling their famous cricket rivalries. Several other prominent athletes and sports figures attended the championships. Alexander Zverev secured his place in the Wimbledon final after a strong performance.",
-    "img": "https://static.toiimg.com/photo/msid-132325997,imgsize-1577960.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/some-rallies-never-end-sachin-tendulkars-heartfelt-message-to-roger-federer-goes-viral/articleshow/132325972.cms",
-    "time": "2026-07-11T06:44:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "West Bengal govt forms 9-member panel to examine draft UCC bill; legislation may be tabled in August",
-    "desc": "West Bengal has formed a nine-member committee to review the Uniform Civil Code draft. Retired Supreme Court judge Justice Ranjana Prakash Desai will head this expert panel. The proposed legislation aims to create a uniform legal framework for personal civil matters. The draft bill is expected to be introduced during the Assembly's August session.",
-    "img": "https://static.toiimg.com/photo/msid-132325917,imgsize-76400.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/west-bengal-govt-forms-9-member-panel-to-examine-draft-ucc-bill-legislation-may-be-tabled-in-august/articleshow/132325851.cms",
-    "time": "2026-07-11T06:35:42.000Z"
   },
   {
     "cat": "World",
@@ -468,15 +648,6 @@ const newsData_en = [
     "time": "2026-07-11T05:55:14.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Holder, Russell power LA Knight Riders to crucial win over San Francisco Unicorns",
-    "desc": "Los Angeles Knight Riders defeated San Francisco Unicorns by eleven runs in Dallas. This crucial victory propelled the Knight Riders into the top positions of the standings. Colin Munro and Andre Russell provided strong batting performances for the Knight Riders. Jason Holder and Andre Russell then starred with the ball to secure the win. The Knight Riders are now level on points with San Francisco and MI New York.",
-    "img": "https://static.toiimg.com/photo/msid-132325341,imgsize-1302845.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/major-league-cricket/jason-holder-andre-russell-power-la-knight-riders-to-crucial-win-over-san-francisco-unicorns/articleshow/132325339.cms",
-    "time": "2026-07-11T05:36:34.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Mother Promise’ movie review: A wacky homage to cinema and Bengaluru",
     "desc": "‘Mother Promise’, directed by Poornachandra Mysore and starring Dhananjaya, might not be everyone’s cup of tea. But it’s a hilarious mash-up of pop culture references and absurd antics that will leave people in splits if they are in the mood for a wacky ride",
@@ -484,24 +655,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/mother-promise-movie-review-dhananjaya-poornachandra-mysore-daali-pictures-comedy-humour-kannada/article71208040.ece",
     "time": "2026-07-11T05:07:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Why BJP replaced its Bankipur bypoll nominee before face-off with Prashant Kishor",
-    "desc": "BJP's Abhishek Kumar Sinha withdrew from the Bankipur bypoll citing family reasons. The party then fielded Neeraj Kumar Sinha as its new candidate for the contest. Opposition parties claimed the BJP was nervous about a potential defeat in the upcoming election. Jan Suraaj founder Prashant Kishor is campaigning against the ruling party. Polling for the Bankipur bypoll is scheduled for July 30.",
-    "img": "https://static.toiimg.com/photo/msid-132324995,imgsize-138740.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/why-bjp-replaced-its-bankipur-bypoll-nominee-before-face-off-with-prashant-kishor/articleshow/132324929.cms",
-    "time": "2026-07-11T05:02:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Neeraj Chopra needs to pay for his coach in CWG; Jadumani gets the nod",
-    "desc": "Neeraj Chopra's coach Jaiveer Chaudhary is missing from the final Indian contingent list. M Sreeshankar's coach and father, S Murali, also faces omission from the approved squad. Jadumani Singh's inclusion in boxing was cleared after initial clarification from the federation. The ministry approved a 191-member contingent for the upcoming Games. Officials not part of the approved list will travel at personal expense.",
-    "img": "https://static.toiimg.com/photo/msid-132324758,imgsize-25582.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/neeraj-chopra-needs-to-pay-for-his-coach-in-cwg-jadumani-gets-the-nod/articleshow/132324742.cms",
-    "time": "2026-07-11T04:36:22.000Z"
   },
   {
     "cat": "Sports",
@@ -711,15 +864,6 @@ const newsData_en = [
     "time": "2026-07-10T02:37:52.000Z"
   },
   {
-    "cat": "World",
-    "title": "India, Australia strike deal on uranium exports, deepen ties across nuclear and maritime sectors",
-    "desc": "The agreement on civil nuclear energy to facilitate the commercial supply of uranium from Australia to India to fuel New Delhi's nuclear power projects came nearly 12 years after the two countries inked a historic civil nuclear cooperation pact",
-    "img": "https://th-i.thgim.com/public/incoming/lvd0k8/article71202251.ece/alternates/LANDSCAPE_1200/PTI07_09_2026_000343B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/eye-on-indo-pacific-india-and-australia-deepen-ties-across-nuclear-maritime-and-mineral-sectors/article71202208.ece",
-    "time": "2026-07-09T17:12:18.000Z"
-  },
-  {
     "cat": "Business",
     "title": "CBI files first chargesheet in Reliance Home Finance Limited case; cites ₹3,526 crore loss",
     "desc": "The agency has registered seven First Information Reports against Reliance Communications Limited (RCOM), Reliance Home Finance Limited (RHFL), Reliance Commercial Finance Limited (RCFL) and Reliance Telecom Limited (RTL) based on complaints received from various public sector banks and LIC",
@@ -754,140 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/ai-poses-a-relatively-lower-risk-to-indias-gcc-jobs-but-no-time-for-complacency-cea/article71201197.ece",
     "time": "2026-07-09T06:57:14.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Truecaller says TRAI’s attempt to regulate it makes ‘no sense’",
-    "desc": "The regulator had reportedly sought IT Ministry clearance to forbid the caller ID app from displaying warnings next to numbers reported as spam from 140 and 160 series phone numbers, earmarked for promotional calls and banks",
-    "img": "https://th-i.thgim.com/public/news/national/hcnv30/article71197899.ece/alternates/LANDSCAPE_1200/Screenshot%202026-07-08%20165421.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/truecaller-says-trai-attempt-to-regulate-it-makes-no-sense/article71197745.ece",
-    "time": "2026-07-08T12:29:38.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "The year of the Grand Theft Auto",
-    "desc": "Despite this year going down in history for giving us the hope of a new Grand Theft Auto game, here are some of the games rumoured for 2026, that should also be on your radar",
-    "img": "https://th-i.thgim.com/public/news/cities/bangalore/ekcxpv/article70423144.ece/alternates/LANDSCAPE_1200/videoframe_293.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/gaming-in-2026-the-year-of-the-grand-theft-auto/article70420124.ece",
-    "time": "2026-07-08T11:51:23.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Redone into one incredible open world game",
-    "desc": "From a disastrous launch to finally making it on Playstation 5 Pro and with an excellent port on the Switch 2, Cyberpunk 2077 is a graphical showcase and perhaps one of the best games out there today",
-    "img": "https://th-i.thgim.com/public/news/cities/bangalore/romfna/article70920679.ece/alternates/LANDSCAPE_1200/Cyber77.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/cyberpunk-2077-redone-into-one-incredible-open-world-game/article70920265.ece",
-    "time": "2026-07-08T11:24:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Financial services AI dangers highlighted by UK regulator's review",
-    "desc": "Regulators globally have begun to focus more keenly ‌on the impact of AI, from cyber and operational risks associated with frontier AI models such as Anthropic’s Mythos to the challenges posed by the agentic systems",
-    "img": "https://th-i.thgim.com/public/incoming/rqav0i/article71192099.ece/alternates/LANDSCAPE_1200/2026-07-06T083255Z_1570194679_RC21P1AG5LFB_RTRMADP_3_UN-AI-CONFERENCE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/financial-services-ai-dangers-highlighted-by-uk-regulators-review/article71192093.ece",
-    "time": "2026-07-08T02:07:16.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
-    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
-    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
-    "time": "2024-03-11T09:41:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Here’s how much the smartphone costs",
-    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
-    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
-    "time": "2024-03-11T09:36:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
-    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
-    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
-    "time": "2024-03-11T09:19:46.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Former Activision boss reportedly wants to buy TikTok",
-    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
-    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
-    "time": "2024-03-11T09:08:25.000Z"
   }
 ];

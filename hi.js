@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Karnti Gaud creates history with five-wicket haul in one-off Test against England at Lord's",
+    "desc": "India pacer Kranti Gaud produced a historic show in the one-off Test against England at Lord’s by claiming a five-wicket haul. Courtesy of her dominating spell, England were out for 170 on day two, allowing...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/karnti-gaud-creates-history-with-five-wicket-haul-in-one-off-test-against-england-at-lord-s-2026-07-12-1047958",
+    "time": "2026-07-11T18:32:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India's disastrous T20 saga finally ends with 4-0 series defeat to England after Buttler, Brook drubbing",
+    "desc": "India suffered another humiliating 56-run defeat in the fifth T20I at the Rose Bowl in Southampton. Jos Buttler and Harry Brook schooled the Indian bowlers in the first innings as England posted 257 runs on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-s-disastrous-t20-saga-finally-ends-with-4-0-series-defeat-to-england-after-buttler-brook-drubbing-2026-07-11-1047955",
+    "time": "2026-07-11T17:44:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jos Buttler, Harry Brook rip apart India, set new records in fifth T20I at Southampton",
+    "desc": "Player Runs Jos Buttler 131 Evin Lewis 125* Shane Watson 124* Star England batters Jos Buttler and Harry Brook stole the show with the bat in the fifth T20I against India in Southampton. Despite losing his opening partner Phil Salt early, Buttler didn’t...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jos-buttler-harry-brook-rip-apart-india-set-new-records-in-fifth-t20i-at-southampton-2026-07-11-1047949",
+    "time": "2026-07-11T16:09:53.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Star West Indies cricketer quietly announced ODI retirement as head coach Daren Sammy reveals",
     "desc": "Former West Indies captain Jason Holder has quietly announced his retirement from ODI cricket, as head coach Daren Sammy revealed. He confirmed that the all-rounder is still in contention to play Tests, but also wants...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/amazing-to-see-him-jannik-sinner-hails-inspirational-novak-djokovic-after-dominant-win-in-wimbledon-semi-final-2026-07-11-1047919",
     "time": "2026-07-11T10:53:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer slams Tilak Varma after India's subpar show in ongoing T20I series against England",
-    "desc": "The Indian team is in the midst of the ongoing five-game T20I series against England. Coming into the series as the T20 World Cup champions, a lot was expected from the Men in Blue. However,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-slams-tilak-varma-after-india-s-subpar-show-in-ongoing-t20i-series-against-england-2026-07-11-1047914",
-    "time": "2026-07-11T10:01:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Fantastic player': Shubman Gill names his favourite to clinch Wimbledon 2026 title",
-    "desc": "Wimbledon 2026 is approaching its final stages; the summit clash of the men’s tournament is all set to be played between Jannik Sinner and Alexander Zverev. The two stars will meet at Centre Court on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/fantastic-player-shubman-gill-names-his-favourite-to-clinch-wimbledon-2026-title-2026-07-11-1047908",
-    "time": "2026-07-11T08:51:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Nico Williams exudes confidence as Spain defeat Belgium in FIFA WC 2026 quarter-finals",
-    "desc": "The stage is set for the 1st semi-final of the ongoing FIFA World Cup 2026. Spain, after defeating Belgium in the quarter-final of the tournament, has set up a clash against 2018 champions France. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/nico-williams-exudes-confidence-as-spain-defeat-belgium-in-fifa-wc-2026-quarter-finals-2026-07-11-1047902",
-    "time": "2026-07-11T07:41:58.000Z"
   }
 ];
