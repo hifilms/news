@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Nico Williams exudes confidence as Spain defeat Belgium in FIFA WC 2026 quarter-finals",
+    "desc": "The stage is set for the 1st semi-final of the ongoing FIFA World Cup 2026. Spain, after defeating Belgium in the quarter-final of the tournament, has set up a clash against 2018 champions France. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/nico-williams-exudes-confidence-as-spain-defeat-belgium-in-fifa-wc-2026-quarter-finals-2026-07-11-1047902",
+    "time": "2026-07-11T07:41:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will the pitch in Southampton fare for the fifth T20I of the series?",
+    "desc": "The stage is set for the fifth and final T20I of the ongoing series between India and England. The two sides will meet at the Rose Bowl in Southampton on July 11th. It is worth...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-pitch-report-how-will-the-pitch-in-southampton-fare-for-the-fifth-t20i-of-the-series-2026-07-11-1047897",
+    "time": "2026-07-11T06:23:26.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sarvesh Kushare finishes third on Monaco Diamond League debut, defeats former champions",
     "desc": "Indian high jumper Sarvesh Kushare became only the fourth Indian athlete to finish on the podium at a Diamond League. He finished third on his debut at the Monaco Diamond League on Friday, July 10...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/alexander-zverev-ends-arthur-fery-s-dream-run-to-reach-maiden-wimbledon-final-2026-07-10-1047860",
     "time": "2026-07-10T16:27:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England cricket sets new drinking policy after Ben Stokes, Gus Atkinson's nightclub drama",
-    "desc": "England and Wales Cricket Board (ECB) has introduced clearer behavioural expectations for players during international series. Under the revised guidelines, they are advised to avoid alcohol around match days and a strengthened midnight curfew aimed...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-cricket-sets-new-drinking-policy-after-ben-stokes-gus-atkinson-s-nightclub-drama-2026-07-10-1047859",
-    "time": "2026-07-10T16:01:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Smriti Mandhana achieves huge feat as India women take centre stage against England in only Test",
-    "desc": "India women and England women took on each other in the only Test of the series. The two sides met at the Lord’s Cricket Ground in London from July 10th, and the game began with...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-achieves-huge-feat-as-india-women-take-centre-stage-against-england-in-only-test-2026-07-10-1047857",
-    "time": "2026-07-10T15:18:04.000Z"
   }
 ];
