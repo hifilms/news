@@ -1,12 +1,210 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Odisha CM orders criminal investigation into errors in school textbooks",
+    "desc": "Taking the incident seriously, the Chief Minister has asked the Director of the State Council of Educational Research and Training (SCERT) to file an FIR with the Crime Branch SP, a statement issued by the CMO said",
+    "img": "https://th-i.thgim.com/public/incoming/1w8jii/article71210188.ece/alternates/LANDSCAPE_1200/20260702105L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/odisha/odisha-cm-orders-criminal-investigation-into-errors-in-school-textbooks/article71210141.ece",
+    "time": "2026-07-11T12:38:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vedang Raina gets candid about his relationship status",
+    "desc": "Recently, Vedang Raina confirmed his single status during an engaging interview where he also celebrated the acclaim received for his performance in 'Main Vaapas Aaunga'. Initially, the film struggled at the box office, but it eventually found success, with Raina shining as the younger version of Naseeruddin Shah's character. He shared his aspirations to collaborate with iconic filmmakers like Christopher Nolan and Martin Scorsese in future projects.",
+    "img": "https://static.toiimg.com/photo/msid-132330912,imgsize-247590.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/is-vedang-raina-dating-actor-finally-spills-the-beans-on-his-relationship-status-talks-about-main-vaapas-aaunga-and-dream-directors/articleshow/132330855.cms",
+    "time": "2026-07-11T12:38:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "J&K leads in rising C-section rates across private hospitals in India, NFHS-6 data shows",
+    "desc": "In India, medical experts attribute the increase in C-sections to a combination of more institutional deliveries, improved detection of high-risk pregnancies, increasing maternal age and medical complications, greater use of assisted reproductive technologies, previous C-sections, and the rapid growth of private-sector obstetric care",
+    "img": "https://th-i.thgim.com/public/news/national/8yiamg/article71209678.ece/alternates/LANDSCAPE_1200/iStock-2211794005.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/health/nine-in-ten-why-jammu-and-kashmirs-privatehospitals-have-indias-highest-c-section-rate/article71209545.ece",
+    "time": "2026-07-11T12:34:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India achieves 20% ethanol blending: what E20, E85 and E100 mean| The Hindu explained",
+    "desc": "India has achieved 20% ethanol blending (E20) in petrol, five years ahead of schedule, and is now preparing for higher blends such as E85 and E100. But what does this mean for consumers? Will fuel become cheaper? Will your vehicle’s mileage drop? And can all cars run on higher ethanol blends? The Hindu explains.",
+    "img": "https://th-i.thgim.com/public/news/national/p6mtxx/article71210329.ece/alternates/LANDSCAPE_1200/TH%20EXPLAIN.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-india-achieves-20-ethanol-blending-what-e20-e85-and-e100-mean-the-hindu-explained/article71210328.ece",
+    "time": "2026-07-11T12:31:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Providing all possible assistance': PM Modi after Vietnam boat accident claims 15 Indian lives",
+    "desc": "Fifteen Indian tourists died in a tragic speedboat accident near Vietnam's Phu Quoc Island. Several other tourists sustained injuries during the unfortunate maritime incident. Prime Minister Narendra Modi expressed deep sorrow and offered condolences to affected families. The government is providing full support and coordinating with Vietnamese authorities. Search and rescue operations were conducted by local authorities after the boat capsized.",
+    "img": "https://static.toiimg.com/photo/msid-132330810,imgsize-1112249.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/providing-all-possible-assistance-pm-modi-after-vietnam-boat-accident-claims-15-indian-lives/articleshow/132330664.cms",
+    "time": "2026-07-11T12:30:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Beyoncé, Blue Ivy join Jay Z for his 30th anniversary concert",
+    "desc": "In a spectacular launch of his anniversary concert series, Jay-Z surprised fans with special guest performances. The highlight came when his wife, Beyoncé, graced the stage for a moving rendition of 'Can't Knock the Hustle'. Their daughter Blue Ivy later wowed the audience with her performance of 'Feelin It'. This event not only honored Jay-Z's influential albums from 1996 and 2001 but also showcased the family's love for musical expression.",
+    "img": "https://static.toiimg.com/photo/msid-132330535,imgsize-185012.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/beyonc-and-blue-ivy-join-jay-z-on-stage-for-surprise-performance-sings-cant-knock-the-hustle-and-feelin-it-with-his-family/articleshow/132330282.cms",
+    "time": "2026-07-11T12:25:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India settle for silver after Colombia clinch women's compound team title at Archery WC stage 4",
+    "desc": "India opened their medal account at the Archery World Cup Stage 4 with silver after Jyothi Surekha Vennam, Prithika Pradeep and Chikitha Taniparthi lost 228-232 to Colombia in the women's compound team final. Teenager Prithika impressed, while Colombia's Alejandra Usquiano starred. India remain in contention for more medals through Prithika and recurve archer Kirti Sharma.",
+    "img": "https://static.toiimg.com/photo/msid-132330508,imgsize-102528.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/india-settle-for-silver-after-colombia-clinch-womens-compound-team-title-at-archery-world-cup-stage-4/articleshow/132330218.cms",
+    "time": "2026-07-11T12:22:36.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Boat carrying Indians capsizes in Vietnam; search under way",
+    "desc": "At least 15 Indian tourists have tragically lost their lives and several others have been injured after a speedboat capsized near Phu Quoc Island in Vietnam on July 11. The vessel was reportedly carrying 32 Indian tourists and four crew members when the accident occurred near Hon May Rut Ngoai island.",
+    "img": "https://th-i.thgim.com/public/news/national/k9ve9v/article71210319.ece/alternates/LANDSCAPE_1200/Spain%201.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-boat-carrying-indians-capsizes-in-vietnam-search-under-way/article71210320.ece",
+    "time": "2026-07-11T12:04:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Activists seek early decision on better access to life-saving breast cancer medicine",
+    "desc": "The case has been pending before the Kerala High Court since June 2022; the writ petition has been listed 57 times for final hearing without the case being heard since January 21, 2023, the Working Group on Access to Medicines and Treatment says in its letter",
+    "img": "https://th-i.thgim.com/public/news/national/6fxbce/article71210256.ece/alternates/LANDSCAPE_1200/iStock-1865003736.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/health/activists-seek-early-decision-on-better-access-to-life-saving-breast-cancer-medicine/article71209961.ece",
+    "time": "2026-07-11T11:43:20.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran's supreme leader pledges revenge for slain father and predecessor",
+    "desc": "Iran's supreme leader ​Ayatollah Mojtaba Khamenei said ‌that ​avenging his ⁠slain predecessor and father was \"the demand of ‌the nation\" and \"must certainly\" take ‌place, according ‌to ⁠a written ⁠message released on his Telegram account",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-us-war-donald-trump-washington-tehran-peace-talks-west-asia-conflict-strait-of-hormuz-live-updates-july-11-2026/article71209275.ece",
+    "time": "2026-07-11T11:37:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Gary Cooper",
+    "desc": "Celebrating the essence of independent thought, Gary Cooper's quote reflects those who change the world. He embarked on his acting career early, rapidly rising to fame and securing his status as a top-paid film star. Over his career, Cooper featured in more than a hundred movies, with 'High Noon' as a standout. His background was steeped in ranching and cowboy culture prior to entering Hollywood.",
+    "img": "https://static.toiimg.com/photo/msid-132329812,imgsize-72364.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-gary-cooper-one-man-who-saw-through-his-own-eyes-and-thought-with-his-own-brain-such-men-may-be-rare-but-they-move-the-world-when-the-late-hollywood-star-explained-the-importance-of-having-your-own-voice-through-a-dialogue-from-the-fountainhead/articleshow/132329753.cms",
+    "time": "2026-07-11T11:32:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SIA Kashmir secures Interpol Red Corner notice against Hizbul terrorist",
+    "desc": "\"In a breakthrough in its sustained counter-terrorism eï¬orts, the SIA Kashmir has secured an Interpol Red Corner Notice (RCN) against designated Hizbul Mujahideen (HM) terrorist Imtiyaz Ahmad Kandoo alias Fayaz alias Sajad,\" says the officials",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/sia-kashmir-secures-interpol-red-corner-notice-against-hizbul-terrorist/article71210210.ece",
+    "time": "2026-07-11T11:29:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Viking Row' fever grips Miami before Norway's historic clash against England",
+    "desc": "Norway fans transform Miami Beach into a vibrant celebration before their World Cup quarter-final match. The \"Viking Row\" tradition has become a viral sensation, drawing local and tourist participation. Star striker Erling Haaland leads Norway's potent attack, which also features other talented players. England enters the game with confidence after a dramatic victory in their previous match. Both teams will contend with Miami's heat and humidity in this historic fixture.",
+    "img": "https://static.toiimg.com/photo/msid-132329523,imgsize-1332469.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/watch-viking-row-fever-grips-miami-before-norways-historic-world-cup-clash-against-england/articleshow/132329493.cms",
+    "time": "2026-07-11T11:26:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Alia sets the dance floor on fire with Maahi Ve at Akansha sangeet",
+    "desc": "Alia Bhatt danced to 'Maahi Ve' at BFF Akansha Ranjan Kapoor's sangeet in Mumbai, wearing a purple silk saree. Akansha, marrying filmmaker Sharan Sharma on July 11, has chosen a private court marriage over a grand wedding. Alia was last seen in 'Alpha' and will next star in 'Love & War'.",
+    "img": "https://static.toiimg.com/photo/msid-132329376,imgsize-107207.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alia-bhatt-sets-the-dance-floor-on-fire-with-maahi-ve-at-bff-akansha-ranjans-sangeet-watch/articleshow/132329376.cms",
+    "time": "2026-07-11T11:16:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Prithviraj reveals why he quit risky stunts",
+    "desc": "Malayalam actor Prithviraj Sukumaran now avoids risky stunts after a severe knee injury in 2023. This accident required three surgeries and significantly delayed a film production. He also witnessed a stunt performer's serious injury on the set of 'I, Nobody'. Sukumaran still enjoys action sequences, praising the stunt coordinator's realistic work. The film 'I, Nobody' offers dynamic action and keeps audiences engaged throughout.",
+    "img": "https://static.toiimg.com/photo/msid-132329358,imgsize-603608.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/i-have-three-titanium-screws-in-my-left-leg-prithviraj-sukumaran-reveals-why-he-stopped-performing-risky-stunts-after-a-serious-injury/articleshow/132329312.cms",
+    "time": "2026-07-11T11:13:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Captain Salima Tete, Sunelita Toppo embody India's growing belief ahead of Women’s Hockey World Cup",
+    "desc": "Fresh from winning the FIH Nations Cup and earning promotion to the Pro League, the Indian women's hockey team is focused on the World Cup. Captain Salima Tete credited improved leadership, communication and fitness for the team's progress, while forward Sunelita Toppo highlighted better infrastructure and senior support. Both believe India is now better prepared to challenge the world's best.",
+    "img": "https://static.toiimg.com/photo/msid-132329195,imgsize-112778.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/captain-salima-tete-sunelita-toppo-embody-indias-growing-belief-ahead-of-womens-hockey-world-cup/articleshow/132329097.cms",
+    "time": "2026-07-11T11:02:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tom Holland on supporting Zendaya on ‘The Odyssey’",
+    "desc": "Tom Holland was present for Zendaya during a demanding scene. He stayed by her side while she filmed a major sequence. This occurred during the siege of Troy, a significant part of the film. Holland expressed his admiration for director Christopher Nolan's work. 'The Odyssey' is scheduled for a July seventeenth worldwide release.",
+    "img": "https://static.toiimg.com/photo/msid-132328969,imgsize-68580.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-holland-says-he-was-there-for-wife-zendaya-on-the-sets-of-the-odyssey-im-here-if-you-need-me/articleshow/132328845.cms",
+    "time": "2026-07-11T10:51:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kushare scripts history on Diamond League debut, becomes first Indian ever to...",
+    "desc": "India's Sarvesh Kushare finished third in the men's high jump on his Diamond League debut at the Monaco meet, clearing 2.26m. He became the first Indian to secure a top-three finish on a Diamond League debut and only the fourth Indian to achieve the feat overall. The podium finish continues his impressive season ahead of the 2026 Commonwealth Games.",
+    "img": "https://static.toiimg.com/photo/msid-132329006,imgsize-98254.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/sarvesh-kushare-scripts-history-on-diamond-league-debut-becomes-first-indian-ever-to-/articleshow/132328737.cms",
+    "time": "2026-07-11T10:45:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "How trains running at 160 kmph aim to transform Delhi-NCR and cities around it",
+    "desc": "The Delhi-Meerut RRTS corridor is just the first stepping stone to a much larger urban mobility plan that aims to transform connectivity in and around Delhi-NCR, with an ambition to develop satellite cities as hubs for growth and development.",
+    "img": "https://static.toiimg.com/photo/msid-132328463,imgsize-777327.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/namo-bharat-rrts-how-trains-running-at-160-kmph-aim-to-transform-delhi-ncr-and-cities-around-it-delhi-meerut-karnal-panipat-bawal-gurgaon/articleshow/132328329.cms",
+    "time": "2026-07-11T10:33:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Indian tourist drowns while swimming in Nepal's Phewa Lake",
+    "desc": "A 28-year-old Indian tourist from Bihar drowned in Nepal's Phewa Lake. Rohit Kumar, who was visiting Pokhara with friends, died after swimming. A disaster management team launched a search operation for the missing tourist. He was rescued and rushed to a hospital for treatment. Authorities are currently investigating the unfortunate drowning incident.",
+    "img": "https://static.toiimg.com/photo/msid-132328799,imgsize-1641635.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/indian-tourist-from-bihar-drowns-in-nepals-phewa-lake/articleshow/132328628.cms",
+    "time": "2026-07-11T10:28:20.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "At least two dead, 19 wounded as Russia strikes Ukraine with missiles, drones",
+    "desc": "The attack damaged a non-residential ​building in ‌one district, while smoke was coming from another and an office building was ‌in flames as a ​result of the strike, the city military ⁠administration said on the Telegram messaging app",
+    "img": "https://th-i.thgim.com/public/incoming/ygl5c0/article71209667.ece/alternates/LANDSCAPE_1200/Russia_Ukraine_War_6_576.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/russias-missile-strike-on-kyiv-leaving-several-injured/article71209623.ece",
+    "time": "2026-07-11T10:20:27.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "'Not just a fighting force, but guardian of India's economy': Rajnath Singh hails Navy",
     "desc": "Defence Minister Rajnath Singh emphasized the Indian Navy's crucial role in safeguarding national interests. Recent operations in West Asia demonstrated the Navy's commitment to protecting vital economic interests. The Indo-Pacific region is now a global focus, with India playing a key role. India aims to be a net security provider and trusted partner across the Indo-Pacific. The nation is developing its shipbuilding capacity to become a global maritime defence hub.",
     "img": "https://static.toiimg.com/photo/msid-132328397,imgsize-827697.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/not-just-a-fighting-force-but-guardian-of-indias-economy-rajnath-singh-hails-navy/articleshow/132328328.cms",
     "time": "2026-07-11T10:01:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "property records show ₹3.5cr deal",
+    "desc": "Bollywood actor Salman Khan sold a Bandra West apartment for Rs 3.50 crore. This property was originally purchased by Khan in 2015 for Rs 2.88 crore. The apartment features 758 square feet of carpet area and two parking spaces. Munira Akberali Dandawala and others jointly purchased the property from the actor. Khan continues to reside in Bandra and has several upcoming film projects.",
+    "img": "https://static.toiimg.com/photo/msid-132328378,imgsize-320801.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-sells-bandra-apartment-actor-bags-rs-3-50-crore-deal-reports/articleshow/132328375.cms",
+    "time": "2026-07-11T09:59:02.000Z"
   },
   {
     "cat": "Entertainment",
@@ -63,15 +261,6 @@ const newsData_en = [
     "time": "2026-07-11T09:11:20.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Bhupesh Baghel meets leaders from Channi camp",
-    "desc": "Former Minister Gurpreet Kangar said the meeting was being held specifically to discuss whether Amrinder Singh Raja Warring’s leadership was acceptable to them or not; Bhupesh Baghel had already ruled out any change in the State party leadership",
-    "img": "https://th-i.thgim.com/public/incoming/a03leh/article71209736.ece/alternates/LANDSCAPE_1200/Channi.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/punjab/tussle-for-punjab-congress-chief-post-leaders-from-channi-camp-arrive-to-meet-baghel/article71209687.ece",
-    "time": "2026-07-11T09:04:34.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Interview",
     "desc": "Born into a family of theatre artistes, Mano was exposed to music and acting from a very young age. He has a strong grounding in Carnatic music, having trained under Sangita Kalanidhi Nedunuri Krishnamurthy. Following the advice of maestro Ilaiyaraaja, he chose to devote himself entirely to singing and gave up acting.",
@@ -79,6 +268,24 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-interview-the-journey-of-nagoor-babu-to-playback-singer-mano/article71209802.ece",
     "time": "2026-07-11T09:01:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ananya Pandey shares glimpses of attending Pitbull's concert",
+    "desc": "Recently spotted at the Wimbledon Men's Singles Semi-Finals, actress Ananya Panday showcased her vibrant lifestyle by sharing a lively video from a Pitbull concert in London, where fans passionately sang along to 'Rain Over Me.' Despite her previous appearances at high-profile events like Paris Haute Couture Week and Wimbledon, her recent films, 'Tu Meri Main Tera Main Tera Tu Meri' and 'Chand Mera Dil,' encountered challenges at the box office.",
+    "img": "https://static.toiimg.com/photo/msid-132326737,imgsize-32742.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/chand-mera-dil-star-ananya-panday-enjoys-pitbulls-concerts-shares-posts-of-singing-rain-over-me/articleshow/132326667.cms",
+    "time": "2026-07-11T08:43:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Neha Kakkar once had a crush on Rajeev Khandelwal",
+    "desc": "During a recent reality show appearance with her husband, singer Neha Kakkar shared her secret crush on actor Rajeev Khandelwal. She fondly recalled how Khandelwal once surprised her during her recovery from Indian Idol, where he sweetly sang a tune from his popular show. This nostalgic moment evoked warm memories of the beloved series that captured many hearts.",
+    "img": "https://static.toiimg.com/photo/msid-132327176,imgsize-126754.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/neha-kakkar-recalls-having-a-huge-crush-on-rajeev-khandelwal-as-sujal-from-kahiin-to-hoga/articleshow/132327034.cms",
+    "time": "2026-07-11T08:42:53.000Z"
   },
   {
     "cat": "Sports",
@@ -99,6 +306,15 @@ const newsData_en = [
     "time": "2026-07-11T08:42:18.000Z"
   },
   {
+    "cat": "Sports",
+    "title": "how Jyothi Yarraji and coach James Hillier rebuilt India’s best 100m hurdler",
+    "desc": "The 26-year-old athlete’s world came crashing down last June when she tore her ACL. After chasing speed all her life, she had to endure a period of painful, stationary monotony. But thanks to a steady supply of blueberries, strawberries and chocolates from her coach, rigorous rehab and unwavering focus, Jyothi is back to winning ways",
+    "img": "https://th-i.thgim.com/public/incoming/vnrhs7/article71208102.ece/alternates/LANDSCAPE_1200/Jyothi_1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/athletics/how-jyothi-yarraji-and-coach-james-hillier-rebuilt-indias-best-100m-hurdler/article71208097.ece",
+    "time": "2026-07-11T08:36:04.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Inside his Rs 230 crore fortune",
     "desc": "Renowned Indian film actor Dhanush has made a name for himself with a prolific career comprising more than fifty movies. His financial achievements are substantial, highlighted by his lavish residence in Chennai and a stellar collection of luxury vehicles. Beyond his acting prowess which has earned him two National Awards, Dhanush also excels as a singer and producer.",
@@ -106,15 +322,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/dhanush-net-worth-deets-from-rs-150-crore-chennai-home-to-rolls-royce-ghost-inside-the-actors-rs-230-crore-fortune/articleshow/132327175.cms",
     "time": "2026-07-11T08:26:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "I am not Gandhi; be your own hero: Wangchuk amid indefinite fast",
-    "desc": "\"Many people call me the Gandhi of the 21st century or a modern Gandhi. Others call me a hero. These comments make me uncomfortable. I am neither Gandhi nor a hero. I am just an ordinary citizen who has tried to fulfil his responsibilities,\"says Sonam Wangchuk",
-    "img": "https://th-i.thgim.com/public/news/national/x6qbcg/article71209723.ece/alternates/LANDSCAPE_1200/Sonam.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/i-am-not-gandhi-be-your-own-hero-wangchuk-amid-indefinite-fast/article71209685.ece",
-    "time": "2026-07-11T08:22:43.000Z"
   },
   {
     "cat": "Entertainment",
@@ -145,21 +352,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Sudesh REVEALS he painted Hema Malini's film posters as a teenager",
-    "desc": "Singer Sudesh Bhosale shared childhood memories of painting Hema Malini's film posters. He worked with his father creating promotional banners for her movies in Mumbai. Bhosale recalled painting the poster for 'Prem Nagar' at just fourteen years old. His first foreign tour in 1984 was with Hema Malini to Fiji. This marked a full-circle moment from painting her posters to performing alongside her.",
-    "img": "https://static.toiimg.com/photo/msid-132327026,imgsize-205469.cms",
+    "title": "Govinda on career struggles, recalls losing Rs 16 crore",
+    "desc": "Govinda, now trending on 'Lock Upp' after appearances on Kajol-Twinkle's show and Kapil Sharma's show, revisits his 2021 interview. He spoke about never bad-mouthing others despite losing Rs 16 crore, advised his children Tina and Yashvardhan to earn their place, and reflected on family life with wife Sunita.",
+    "img": "https://static.toiimg.com/photo/msid-132326967,imgsize-289565.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sudesh-bhosale-reveals-he-painted-hema-malinis-film-posters-as-a-teenager-before-sharing-the-stage-with-her/articleshow/132327001.cms",
-    "time": "2026-07-11T08:05:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Christopher Nolan dismisses 'The Odyssey' prerelease backlash",
-    "desc": "Christopher Nolan, the acclaimed director, downplays the significance of social media critiques ahead of his film 'The Odyssey's' debut. He highlights that such online conversations are often irrelevant, drawing comparisons to the controversies surrounding his Batman trilogy. While influential figures like Elon Musk have expressed strong views on casting, Nolan insists on maintaining artistic integrity as the film gears up for its theatrical release on July 17.",
-    "img": "https://static.toiimg.com/photo/msid-132326956,imgsize-165236.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/christopher-nolan-dismisses-the-odyssey-prerelease-backlash-these-conversations-are-always-irrelevant/articleshow/132326897.cms",
-    "time": "2026-07-11T08:02:55.000Z"
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-govinda-opened-up-about-why-coolie-no-1-remake-didnt-work-invested-money-and-lost-around-rs-16-crore-was-treated-badly-by-some-people/articleshow/132326967.cms",
+    "time": "2026-07-11T08:00:17.000Z"
   },
   {
     "cat": "Politics",
@@ -180,67 +378,13 @@ const newsData_en = [
     "time": "2026-07-11T07:44:07.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Why Jammu and Kashmir’s private hospitals have India’s highest C-Section rate",
-    "desc": "In India, medical experts attribute the increase in C-sections to a combination of more institutional deliveries, improved detection of high-risk pregnancies, increasing maternal age and medical complications, greater use of assisted reproductive technologies, previous C-sections, and the rapid growth of private-sector obstetric care",
-    "img": "https://th-i.thgim.com/public/news/national/8yiamg/article71209678.ece/alternates/LANDSCAPE_1200/iStock-2211794005.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/health/nine-in-ten-why-jammu-and-kashmirs-privatehospitals-have-indias-highest-c-section-rate/article71209545.ece",
-    "time": "2026-07-11T07:42:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Police squad attacked in Kozhikode; five suspected goons arrested",
-    "desc": "According to police sources, the confrontation took place at Peruvayal near Mavoor in Kozhikode city around 9 a.m. when the police squad, acting on precise location data, zeroed in on the suspects at a local villa",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/police-squad-attacked-in-kozhikode-five-suspected-goons-arrested/article71209626.ece",
-    "time": "2026-07-11T07:35:41.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Six injured as Russia strikes Kyiv with missiles, officials say",
-    "desc": "The attack damaged a non-residential ​building in ‌one district, while smoke was coming from another and an office building was ‌in flames as a ​result of the strike, the city military ⁠administration said on the Telegram messaging app",
-    "img": "https://th-i.thgim.com/public/incoming/ygl5c0/article71209667.ece/alternates/LANDSCAPE_1200/Russia_Ukraine_War_6_576.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/russias-missile-strike-on-kyiv-leaving-several-injured/article71209623.ece",
-    "time": "2026-07-11T07:33:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "How two ‘objectionable’ books triggered a crackdown on J&K’s varsity and college libraries",
-    "desc": "Around 251 copies of these books were already circulated among the schools in J&K. The J&K administration said the introduction of these books was a result of “serious negligence, dereliction of duty and lack of proper due diligence”, and blamed the members of the Sub Committee, which approved it.",
-    "img": "https://th-i.thgim.com/public/incoming/pxubbr/article71209340.ece/alternates/LANDSCAPE_1200/06_Book_Village_Photo_Frame_%2053.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/how-two-objectionable-books-trigger-a-crackdown-on-jks-varsity-and-college-libraries-explained/article71209336.ece",
-    "time": "2026-07-11T07:32:43.000Z"
-  },
-  {
     "cat": "Entertainment",
-    "title": "‘Satluj’ screenings held in Jammu for the public following OTT takedown",
-    "desc": "Public screenings of the film 'Satluj' are being held in Jammu for local communities. This follows the movie's removal from an OTT platform shortly after its digital release. The District Gurdwara Parbandhak Committee organized a screening, noting attendance from various faiths. The film was reportedly removed for lacking proper certification for theatrical release. Several organizations are now supporting the film by organizing public viewings nationwide.",
-    "img": "https://static.toiimg.com/photo/msid-132326438,imgsize-180276.cms",
+    "title": "'No regrets'",
+    "desc": "Actor Muzammil Ibrahim shared details about his past relationship with Deepika Padukone. He claimed the Bollywood star initiated their connection nearly two decades ago. Ibrahim stated he ended the relationship, citing career differences at the time. He expressed admiration for Padukone's successful career and current superstardom. Padukone has not yet responded to Ibrahim's recent podcast interview comments.",
+    "img": "https://static.toiimg.com/photo/msid-132326668,imgsize-265659.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/satluj-screenings-for-diljit-dosanjhs-film-held-in-jammu-following-ott-takedown-more-shows-to-follow/articleshow/132326394.cms",
-    "time": "2026-07-11T07:31:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Chris Pine",
-    "desc": "Chris Pine is in an exciting phase of his career, showcasing his versatility in projects like the romantic drama 'Carousel' and a potential romantic comedy. His future work includes the edgy thriller 'Yeti' and a quirky alien invasion flick titled 'Alpha Gang'. Pine's iconic line from 'Wonder Woman' about seizing the moment connects with audiences, and his choices highlight his commitment to daring and meaningful storytelling.",
-    "img": "https://static.toiimg.com/photo/msid-132326315,imgsize-97938.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-chris-pine-if-you-see-something-wrong-happening-in-the-world-you-can-either-do-nothing-or-you-can-do-something-the-dialogue-from-hollywood-stars-dialogue-from-wonder-woman-that-highlights-why-it-is-important-to-pick-a-side/articleshow/132326234.cms",
-    "time": "2026-07-11T07:30:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "RDJ, Evans, Hemsworth call Doomsday 'most epic movie yet'",
-    "desc": "Doomsday' featuring key characters. Leading stars Robert Downey Jr, Chris Evans, and Chris Hemsworth sent a special video message. Kevin Feige revealed Robert Downey Jr's reaction to playing Doctor Doom. The studio is returning to San Diego Comic-Con for a major panel. The film's first trailer is expected online July 25, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-132326632,imgsize-199122.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/avengers-doomsday-robert-downey-jr-chris-evans-and-chris-hemsworth-unite-for-special-message-to-fans-trio-tease-most-epic-movie-yet-watch/articleshow/132325601.cms",
-    "time": "2026-07-11T07:30:52.000Z"
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/muzammil-ibrahim-makes-fresh-claims-about-dating-deepika-padukone-no-regrets-love-watching-her-movies-i-was-big-star-she-is-now/articleshow/132326669.cms",
+    "time": "2026-07-11T07:34:32.000Z"
   },
   {
     "cat": "Entertainment",
@@ -252,24 +396,6 @@ const newsData_en = [
     "time": "2026-07-11T07:30:08.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Andy Bickers, Cold Chisel sax player, passes away after battling cancer",
-    "desc": "Andy Bickers, the beloved saxophonist of Cold Chisel for over three decades, has sadly passed away after a challenging fight against cancer, as announced by the band. A vital contributor to their success and a treasured part of their family, he also collaborated with many influential musicians during his lifetime. Heartfelt tributes are now flooding in from fellow artists honoring his remarkable talent and friendship.",
-    "img": "https://static.toiimg.com/photo/msid-132326456,imgsize-113662.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/andy-bickers-cold-chisel-sax-player-passes-away-after-battling-cancer-tributes-pour-in/articleshow/132326413.cms",
-    "time": "2026-07-11T07:27:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "R Madhavan gets nostalgic over 'Dirty Dancing' classic; Says 'My adolescence in 1 song '",
-    "desc": "Actor R. Madhavan shared a nostalgic moment on Instagram Stories recently. He revisited the iconic song \"I've Had the Time of My Life\" from Dirty Dancing. This classic track instantly transported him back to his teenage years. The song won an Academy Award and remains a celebrated musical moment. Madhavan is currently preparing for his biographical drama GDN's release.",
-    "img": "https://static.toiimg.com/photo/msid-132326423,imgsize-225406.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-madhavan-gets-nostalgic-over-dirty-dancing-classic-says-my-adolescence-in-1-song-/articleshow/132326424.cms",
-    "time": "2026-07-11T07:22:26.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Harmanpreet Kaur becomes first Indian to...",
     "desc": "Harmanpreet Kaur achieved a unique milestone by scoring a fifty at Lord's. She became the first Indian to score fifties in Tests, ODIs, and T20Is there. Smriti Mandhana also contributed significantly with a score of 83 runs. India posted 285 runs in their first innings after a strong partnership. England finished the opening day on 21 for 1, trailing by 264 runs.",
@@ -277,33 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/no-virat-kohli-no-sachin-tendulkar-harmanpreet-kaur-becomes-first-indian-to-score-fifty-in-all-three-formats-at-lords/articleshow/132326157.cms",
     "time": "2026-07-11T07:15:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "INSIDE Akhil Akkineni's luxurious California home",
-    "desc": "Akhil Akkineni's film 'Lenin' has opened to positive audience reactions and strong box office numbers. The action entertainer collected Rs 5.90 crore net in India on its opening day. Worldwide gross collections for 'Lenin' reached Rs 9.73 crore on its first day. Akhil, son of Nagarjuna and Amala Akkineni, owns a home in San Jose. His estimated net worth stands at around Rs 59 crore from films and endorsements.",
-    "img": "https://static.toiimg.com/photo/msid-132326269,imgsize-336462.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/inside-lenin-star-akhil-akkinenis-luxurious-california-mansion-san-jose-home-net-worth-deets-here/articleshow/132326251.cms",
-    "time": "2026-07-11T07:10:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Doctors in Chennai turn avid bird photographers",
-    "desc": "It was in 2017 that Dr. Deepthi Cheran learned the ropes of photography from Rathika Ramasamy, a wildlife photographer. Since then, she has travelled to Andhra Pradesh, Karnataka, Uttarakhand, Rajasthan and Tamil Nadu in search of birds and has captured images of 300 to 400 species of birds so far.",
-    "img": "https://th-i.thgim.com/public/incoming/8o2qyd/article66928578.ece/alternates/LANDSCAPE_1200/HEALTH%20DOCTOR%20DEEPTHI%20ANAESTHETIST%20LULICAT%20LAKE%20BOAT%20CAMERA%20BIRDS_04.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/on-a-bird-quest-an-anaesthetist-turns-avid-bird-photographer/article66927830.ece",
-    "time": "2026-07-11T06:53:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Kannur Squad' sequel: Rony David Raj shares an UPDATE",
-    "desc": "Conversations about a sequel to the successful film 'Kannur Squad' have officially begun. Actor Rony David Raj confirmed that Mammootty has already been informed about the potential project. Detailed planning will commence once director Roby Varghese Raj finishes his current commitments. Mammootty is presently occupied with shooting for Dhanush's film in Chennai. The team will proceed with further discussions after all key members return.",
-    "img": "https://static.toiimg.com/photo/msid-132326089,imgsize-103182.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/kannur-squad-sequel-rony-david-raj-shares-an-update-says-we-have-already-spoken-to-mammookka/articleshow/132326076.cms",
-    "time": "2026-07-11T06:53:16.000Z"
   },
   {
     "cat": "World",
@@ -315,15 +414,6 @@ const newsData_en = [
     "time": "2026-07-11T06:50:37.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Kathy Griffin reveals her 22-year-old boyfriend post was a social experiment",
-    "desc": "Kathy Griffin took to social media to reveal her faux relationship with a 22-year-old, describing it as a sociological experiment designed to elicit public reactions. She highlighted varying responses based on the platform, discussing celebrity couples who have thrived despite age differences. Additionally, Griffin shared her personal anecdotes about dating younger partners, emphasizing the cultural conversations surrounding age gaps.",
-    "img": "https://static.toiimg.com/photo/msid-132325977,imgsize-159252.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kathy-griffin-reveals-her-22-year-old-boyfriend-post-was-a-social-experiment-thanks-to-all-those-who-participated/articleshow/132325943.cms",
-    "time": "2026-07-11T06:46:28.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Some rallies never end': Tendulkar's heartfelt message to Federer goes viral",
     "desc": "Sachin Tendulkar and Roger Federer shared a heartwarming reunion at Wimbledon this year. Shubman Gill also experienced the prestigious event from the Royal Box for the first time. Tendulkar also met with Brian Lara, recalling their famous cricket rivalries. Several other prominent athletes and sports figures attended the championships. Alexander Zverev secured his place in the Wimbledon final after a strong performance.",
@@ -331,24 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/off-the-field/some-rallies-never-end-sachin-tendulkars-heartfelt-message-to-roger-federer-goes-viral/articleshow/132325972.cms",
     "time": "2026-07-11T06:44:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Vijay announces memorial for Karur stampede victims, faults police for not informing him of the crowd",
-    "desc": "Speaking at a public meeting held on the outskirts of Karur, he says the tragedy could have been averted had the police alerted him to the gathering during his election campaign at Velusamypuram on September 27, 2025",
-    "img": "https://th-i.thgim.com/public/incoming/7fecxi/article71207551.ece/alternates/LANDSCAPE_1200/TH%20TRI-04%203.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/cm-vijayannounces-memorial-for-karur-stampede-victims-faults-police-for-not-informing-him-of-the-crowd/article71206499.ece",
-    "time": "2026-07-11T06:43:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kylie and Jason Kelce’s daughters were the flower girls for Taylor-Travis wedding",
-    "desc": "During a delightful wedding ceremony, the four daughters of Jason and Kylie Kelce brought joy as they served as flower girls, a detail highlighted by sports commentator Rich Eisen in a recent chat. The Kelce family warmly welcomed Taylor Swift into their circle, with Jason affectionately referring to her as a great aunt to his kids, and Kylie sharing her joy regarding Swift’s attendance.",
-    "img": "https://static.toiimg.com/photo/msid-132325875,imgsize-98460.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/taylor-swift-and-travis-kelces-wedding-kylie-kelce-and-jason-kelces-daughters-walked-the-aisle-as-flower-girls/articleshow/132325847.cms",
-    "time": "2026-07-11T06:38:36.000Z"
   },
   {
     "cat": "Politics",
@@ -495,15 +567,6 @@ const newsData_en = [
     "time": "2026-07-11T02:39:34.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Thomas Tuchel challenges England to 'be brave' against Norway as FIFA offer no answers over Quansah ban",
-    "desc": "Thomas Tuchel has urged England to play with courage and “without fear” ahead of their FIFA World Cup 2026 quarter-final against Norway. The Three Lions boss also revealed FIFA has given no explanation for extending Jarell Quansah’s suspension to two matches, leaving the defender unavailable as England bid to reach the World Cup semi-finals.",
-    "img": "https://static.toiimg.com/photo/msid-132323448,imgsize-96920.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/thomas-tuchel-challenges-england-to-be-brave-against-norway-as-fifa-offer-no-answers-over-quansah-ban/articleshow/132323266.cms",
-    "time": "2026-07-11T02:28:02.000Z"
-  },
-  {
     "cat": "World",
     "title": "Trump agrees to more Iran talks but insists truce is over",
     "desc": "The U.S. and ​Iran traded strikes this week, with the ⁠Iranian armed forces launching attacks on U.S. military infrastructure in Gulf states ‌on July 9, 2026 following U.S. strikes on Iran’s southern coastal and eastern provinces.",
@@ -511,42 +574,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/us-iran-war-live-updates-ali-khamenei-funeral-ceremony-burial-military-strikes-donald-trump-mojtaba-khamenei-ceasefire-deal/article71205094.ece",
     "time": "2026-07-11T02:06:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Only TWO ever made! Cristiano Ronaldo stuns IShowSpeed with his rarest and most personal gift yet",
-    "desc": "Cristiano Ronaldo surprised IShowSpeed by gifting him the game-worn Nike Mercurial Superfly 11 \"CR7 Gold Scorpion\" boots from what is expected to be his final FIFA World Cup campaign. The rare boots, reportedly one of only two pairs, were unveiled live on the streamer’s broadcast, creating one of the tournament’s most emotional off-field moments.",
-    "img": "https://static.toiimg.com/photo/msid-132323140,imgsize-1097025.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/only-two-ever-made-cristiano-ronaldo-stuns-ishowspeed-with-his-rarest-and-most-personal-gift-yet/articleshow/132323115.cms",
-    "time": "2026-07-11T01:42:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Belgium end Unai Simon's record 650-minute shutout streak",
-    "desc": "Spain advanced to the World Cup semifinals after a 2-1 quarterfinal victory over Belgium. Goalkeeper Unai Simon's record 650-minute shutout streak concluded when Charles De Ketelaere scored. Mikel Merino secured Spain's win with a late goal, his second crucial strike in the tournament. Belgium's hopes were dashed after their goalkeeper sustained an injury during the match. This victory extended Spain's impressive unbeaten run to thirty-seven games.",
-    "img": "https://static.toiimg.com/photo/msid-132323170,imgsize-80925.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/belgium-end-unai-simons-record-650-minute-shutout-streak-spain-reach-fifa-world-cup-semis/articleshow/132323161.cms",
-    "time": "2026-07-11T01:36:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Away from abject T20I showing, India begin preps for ODI series today",
-    "desc": "Members of India's ODI squad, including Virat Kohli, Rohit Sharma, and Shubman Gill, are likely to begin practicing at Edgbaston for the three-match series. Over 200 kilometres away, the T20I setup will look to avoid yet another 'first'.",
-    "img": "https://static.toiimg.com/photo/msid-132323060,imgsize-24087.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/ind-vs-eng-away-from-abject-t20i-showing-india-begin-preps-for-odi-series-today/articleshow/132323055.cms",
-    "time": "2026-07-11T00:58:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Spain equal Argentina's record with 36-Game unbeaten run after late Belgium win to reach the semis",
-    "desc": "Mikel Merino's late goal secured Spain's World Cup semifinal place. This victory also matched Argentina's record for the second-longest unbeaten run. Spain now holds a 36-game streak without defeat in international football. They are now one match away from Italy's all-time unbeaten record. Spain will face France in their next crucial semifinal match.",
-    "img": "https://static.toiimg.com/photo/msid-132323024,imgsize-227672.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-spain-equal-argentinas-record-with-36-game-unbeaten-run-after-late-belgium-win-to-reach-the-semis/articleshow/132323024.cms",
-    "time": "2026-07-11T00:54:57.000Z"
   },
   {
     "cat": "Sports",
@@ -574,15 +601,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/athletics/with-hammer-and-pole-anushka-yadav-and-sindhushree-g-break-barriers/article71208111.ece",
     "time": "2026-07-10T19:44:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "how Jyothi Yarraji and coach James Hillier rebuilt India’s best 100m hurdler",
-    "desc": "The 26-year-old athlete’s world came crashing down last June when she tore her ACL. After chasing speed all her life, she had to endure a period of painful, stationary monotony. But thanks to a steady supply of blueberries, strawberries and chocolates from her coach, rigorous rehab and unwavering focus, Jyothi is back to winning ways",
-    "img": "https://th-i.thgim.com/public/incoming/vnrhs7/article71208102.ece/alternates/LANDSCAPE_1200/Jyothi_1.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/athletics/how-jyothi-yarraji-and-coach-james-hillier-rebuilt-indias-best-100m-hurdler/article71208097.ece",
-    "time": "2026-07-10T19:39:00.000Z"
   },
   {
     "cat": "World",
@@ -774,15 +792,6 @@ const newsData_en = [
     "time": "2026-07-09T16:08:00.000Z"
   },
   {
-    "cat": "World",
-    "title": "Sri Lankan universities close, shift to online classes amid dengue surge",
-    "desc": "The National Dengue Control Unit has reported a total of 65,034 dengue cases this year, with capital Colombo accounting for about a fifth of the cases; as many as 45 dengue-related deaths have been recorded as of July 8, 2026.",
-    "img": "https://th-i.thgim.com/public/incoming/4gfppp/article71202544.ece/alternates/LANDSCAPE_1200/2026-06-19T134139Z_847324600_RC2YWLAIC2R5_RTRMADP_3_SRI-LANKA-DENGUE-SRI-LANKA-DENGUE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/sri-lankan-universities-closeshift-to-online-classes-amid-denguesurge/article71202449.ece",
-    "time": "2026-07-09T13:21:35.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Remembering the director who created generations of actors",
     "desc": "Discovered by Ebrahim Alkazi and mentored by Adi Marzban, the thespian leaves behind a legacy of actors — Nana Patekar, Ashok Saraf, Neena Kulkarni, Vikram Gokhale, Reema Lagoo and Bharati Achrekar — all shaped by her vision.",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
     "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
   }
 ];

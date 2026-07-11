@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India hope to significantly improve, England eye clean sweep",
+    "desc": "The stage is set for the fifth and final T20I of the ongoing series between India and England. The two sides are slated to meet at the Rose Bowl in Southampton on July 11th. It...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-5th-t20i-live-score-india-hope-to-significantly-improve-england-eye-clean-sweep-2026-07-11-1047929",
+    "time": "2026-07-11T12:59:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Parthiv Patel points out what went wrong for India after T20I series loss to Ireland, England",
+    "desc": "The Indian team is all set to take on England in the fifth and final T20I of the ongoing series. The two sides will meet at the Rose Bowl in Southampton on July 11th, and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/parthiv-patel-points-out-what-went-wrong-for-india-after-t20i-series-loss-to-ireland-england-2026-07-11-1047927",
+    "time": "2026-07-11T12:26:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Amazing to see him': Jannik Sinner hails 'inspirational' Novak Djokovic after dominant win in Wimbledon 2026",
+    "desc": "World number one Jannik Sinner put forth a brilliant performance against Serbian legend Novak Djokovic in the semi-final of Wimbledon 2026. The two stars met at Centre Court on July 10th, and while many anticipated...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/amazing-to-see-him-jannik-sinner-hails-inspirational-novak-djokovic-after-dominant-win-in-wimbledon-semi-final-2026-07-11-1047919",
+    "time": "2026-07-11T10:53:56.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Former India cricketer slams Tilak Varma after India's subpar show in ongoing T20I series against England",
     "desc": "The Indian team is in the midst of the ongoing five-game T20I series against England. Coming into the series as the T20 World Cup champions, a lot was expected from the Men in Blue. However,...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/why-is-youri-tielemans-not-playing-for-belgium-in-spain-in-fifa-world-cup-2026-despite-named-in-starting-xi-2026-07-11-1047873",
     "time": "2026-07-10T19:03:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Spain beat Belgium 2-1 to qualify for semis after Mikel Merino's late winner",
-    "desc": "Spain will face Belgium in a high-stakes FIFA World Cup 2026 quarter-final in the early hours of Saturday. Playing at the Los Angeles Stadium, both European heavyweights look to secure a place in the last...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/esp-vs-bel-fifa-world-cup-live-spain-vs-belgium-score-highlight-playing-xi-tactical-discussion-commentary-lamine-yamal-kevin-de-bruyne-oyarzabal-1047872",
-    "time": "2026-07-10T18:39:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Pedri not playing Spain vs Belgium FIFA World Cup 2026 quarterfinal in Los Angeles?",
-    "desc": "Pedri has been left on the bench for Spain’s FIFA World Cup 2026 quarter-final against Belgium as coach Luis de la Fuente opted for a change in the midfield. It is purely a tactical call...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/why-is-pedri-not-playing-spain-vs-belgium-fifa-world-cup-2026-quarterfinal-in-los-angeles-2026-07-10-1047869",
-    "time": "2026-07-10T18:10:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jannik Sinner beats Novak Djokovic in straight sets to set date with Zverev in Wimbledon 2026 final",
-    "desc": "Defending champion Jannik Sinner stormed into the Wimbledon 2026 men's singles final with a commanding 6-4, 6-4, 6-4 victory over seven-time champion Novak Djokovic in Friday's semi-final at the All England Club. The world No....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/jannik-sinner-beats-novak-djokovic-in-straight-sets-to-set-date-with-zverev-in-wimbledon-2026-final-2026-07-10-1047866",
-    "time": "2026-07-10T17:44:04.000Z"
   }
 ];
