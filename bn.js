@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Sports",
+    "title": "১৬ বছর পর বিশ্বকাপের সেমিফাইনালে স্পেন, টানা ৩৬ ম্যাচ অপরাজিত থেকে ফরাসিদের চ্যালেঞ্জ জানাতে প্রস্তুত স্প্যানিশরা",
+    "desc": "আবারও ত্রাতা মিকেল মেরিনো! মাঠে নামার মাত্র ২ মিনিটের মাথায় গোল করে বেলজিয়ামকে বিদায় করলেন এই 'সুপার সাব'। ১-১ ফলাফলে ম্যাচ যখন অতিরিক্ত সময়ের দিকে যাচ্ছিল, তখনই তরুণ গোলকিপার লমেন্সের হাত থেকে ফসকে আসা বলে গোল করে স্পেনকে ১৬ বছর পর বিশ্বকাপের সেমিফাইনালে তুললেন মেরিনো। টানা ৩৬ ম্যাচ অপরাজিত থেকে এবার সেমিতে ফ্রান্সের মুখোমুখি লুই দে লা ফুয়েন্তের দল।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/sports/spain-vs-belgium-world-cup-quarter-final-merino-goal-thibaut-courtois-injury_661921.html ",
+    "time": "2026-07-11T08:52:11.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "‘বিশ্বাস করুন রাজনৈতিক কথা হয়নি’, কী নিয়ে কথা হল মুখ্যমন্ত্রীর সঙ্গে? জানালেন প্রসেনজিৎ",
     "desc": "\"বিশ্বাস করুন কোনও রাজনৈতিক কথা হয়নি!\" অমিত শাহের পর এবার মুখ্যমন্ত্রী শুভেন্দু অধিকারীর সঙ্গে বৈঠক প্রসেনজিৎ চ্যাটার্জির। নবান্নে কেন গেলেন 'ইন্ডাস্ট্রি'? টলিউডে কি আসতে চলেছে কোনও বড় বদল? নাকি নেপথ্যে রয়েছে মহানায়ক উত্তম কুমারের ১০০ বছরের বিশেষ পরিকল্পনা? জল্পনা ওড়ালেন স্বয়ং বুম্বাদা।",
@@ -207,15 +216,6 @@ const newsData_bn = [
     "time": "2026-07-03T05:03:47.000Z"
   },
   {
-    "cat": "World",
-    "title": "খামেইনির পর এবার আরাগচি-গালিবাফ! ইসরায়েলের গুপ্তহত্যার ছক ফাঁস করল আমেরিকা",
-    "desc": "এপ্রিলে শুরু হওয়া ইরান-ইসরায়েল যুদ্ধবিরতি আলোচনা রক্ষা করতে ইরানকে বিশেষ সতর্কবার্তা দিয়েছে মার্কিন যুক্তরাষ্ট্র। ২৮ ফেব্রুয়ারি খামেইনির মৃত্যুর পর শুরু হওয়া এই যুদ্ধে ইসরায়েলের লক্ষ্য ছিল ইরানের শাসনব্যবস্থার পতন। তবে মার্কিন চাপে তারা এই দুই নেতাকে টার্গেট লিস্ট থেকে বাদ দিতে বাধ্য হয়।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/us-warned-iran-of-possible-israeli-plot-to-kill-top-ceasefire-negotiators_660896.html ",
-    "time": "2026-07-03T04:21:25.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "চ্যাট-বোমা থেকে চোর-ডাকাত খোঁচা: দেবরাজ গ্রেফতার হতেই অদিতির অতীত টানলেন তরুণজ্যোতি",
     "desc": "রিয়ালিটি শো-র প্যানেলিস্টদের সাথে কী চ্যাট হতো, সব স্ক্রিনশট আমার কাছে আছে!\" স্বামী দেবরাজ চক্রবর্তী গ্রেফতার হতেই এবার কীর্তন শিল্পী তথা প্রাক্তন তৃণমূল বিধায়ক অদিতি মুন্সিকে নিয়ে মারাত্মক দাবি করলেন বিজেপি বিধায়ক তরুণজ্যোতি তিওয়ারি। 'স্বামী চোর নয় ডাকাত'— মন্তব্য করে অদিতির পুরোনো 'জেলে যাওয়ার' হুঁশিয়ারিকেও কটাক্ষ করলেন তিনি।",
@@ -232,5 +232,32 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/gaurav-khanna-breaks-his-silence-on-divorce-from-akanksha-chamola-extends-support-to-her_660611.html ",
     "time": "2026-07-01T07:35:18.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
+    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
+    "time": "2026-06-01T03:50:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
+    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
+    "time": "2026-05-23T05:15:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "পেট্রোল ও ডিজেলের দাম লিটারে ৩ টাকা বাড়ল, জেনে নিন আপনার শহরে জ্বালানির নতুন দাম",
+    "desc": "চার বছর পর পেট্রোল ও ডিজেলের দাম প্রতি লিটারে ₹৩ টাকা করে বাড়ল। এর ফলে কলকাতা ও দিল্লিতে জ্বালানি মহার্ঘ্য হল। Fuel prices hiked by ₹3 per litre after a long wait causing rates to rise in major cities.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-15-2026-000015b-jpg-1778819385461_1778819386210-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-india-fuel-rates-increased-by-3-rupees-per-litre-delhi-kolkata-014-306911.html",
+    "time": "2026-05-15T04:35:17.000Z"
   }
 ];

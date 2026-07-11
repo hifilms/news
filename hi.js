@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Former India cricketer slams Tilak Varma after India's subpar show in ongoing T20I series against England",
+    "desc": "The Indian team is in the midst of the ongoing five-game T20I series against England. Coming into the series as the T20 World Cup champions, a lot was expected from the Men in Blue. However,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-slams-tilak-varma-after-india-s-subpar-show-in-ongoing-t20i-series-against-england-2026-07-11-1047914",
+    "time": "2026-07-11T10:01:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Fantastic player': Shubman Gill names his favourite to clinch Wimbledon 2026 title",
+    "desc": "Wimbledon 2026 is approaching its final stages; the summit clash of the men’s tournament is all set to be played between Jannik Sinner and Alexander Zverev. The two stars will meet at Centre Court on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/fantastic-player-shubman-gill-names-his-favourite-to-clinch-wimbledon-2026-title-2026-07-11-1047908",
+    "time": "2026-07-11T08:51:41.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Nico Williams exudes confidence as Spain defeat Belgium in FIFA WC 2026 quarter-finals",
     "desc": "The stage is set for the 1st semi-final of the ongoing FIFA World Cup 2026. Spain, after defeating Belgium in the quarter-final of the tournament, has set up a clash against 2018 champions France. The...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/jannik-sinner-beats-novak-djokovic-in-straight-sets-to-set-date-with-zverev-in-wimbledon-2026-final-2026-07-10-1047866",
     "time": "2026-07-10T17:44:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Special Olympics Bharat team aims for third consecutive Gothia Cup title, coach shares recruitment process",
-    "desc": "India's Special Olympics Bharat team for athletes with intellectual disabilities left for Sweden on Friday, July 10, to defend its Special Olympics Trophy title at the Gothia Cup 2026. Playing for the first time in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/special-olympics-bharat-team-aims-for-third-consecutive-gothia-cup-title-coach-onaciss-shares-recruitment-process-2026-07-10-1047864",
-    "time": "2026-07-10T17:29:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Alexander Zverev ends Arthur Fery's dream run to reach maiden Wimbledon final",
-    "desc": "Alexander Zverev ended Arthur Ferry’s remarkable campaign at Wimbledon 2026 and progressed to the final, which will be played on Sunday, July 10. He sealed it with a straight-sets victory, which denied the British wildcard...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/alexander-zverev-ends-arthur-fery-s-dream-run-to-reach-maiden-wimbledon-final-2026-07-10-1047860",
-    "time": "2026-07-10T16:27:23.000Z"
   }
 ];

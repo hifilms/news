@@ -1,6 +1,177 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "'Not just a fighting force, but guardian of India's economy': Rajnath Singh hails Navy",
+    "desc": "Defence Minister Rajnath Singh emphasized the Indian Navy's crucial role in safeguarding national interests. Recent operations in West Asia demonstrated the Navy's commitment to protecting vital economic interests. The Indo-Pacific region is now a global focus, with India playing a key role. India aims to be a net security provider and trusted partner across the Indo-Pacific. The nation is developing its shipbuilding capacity to become a global maritime defence hub.",
+    "img": "https://static.toiimg.com/photo/msid-132328397,imgsize-827697.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/not-just-a-fighting-force-but-guardian-of-indias-economy-rajnath-singh-hails-navy/articleshow/132328328.cms",
+    "time": "2026-07-11T10:01:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vijay Sethupathi mourns filmmaker R Chezhiyan",
+    "desc": "Award-winning Tamil filmmaker R Chezhiyan died at age fifty-seven on Friday. His passing caused shock throughout the Tamil film industry. Several stars and fans shared their grief and paid tribute to him. Chezhiyan was known for his cinematography and encouraging young filmmakers. He had been undergoing treatment for cancer before his death.",
+    "img": "https://static.toiimg.com/photo/msid-132328365,imgsize-513802.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vijay-sethupathi-pays-tribute-to-r-chezhiyan-after-award-winning-filmmaker-passes-away-at-57/articleshow/132328303.cms",
+    "time": "2026-07-11T09:58:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shekhar REACTS to Matt Damon wanting to work with him",
+    "desc": "Matt Damon named Shekhar Kapur as the Indian filmmaker he wants to work with, recalling missing out on 'The Four Feathers' decades ago due to Bourne commitments. Kapur responded warmly, praising Damon's talent. The two spoke at 'The Odyssey' Mumbai press conference, ahead of Nolan's epic release on July 17.",
+    "img": "https://static.toiimg.com/photo/msid-132328170,imgsize-257598.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/would-give-my-right-arm-shekhar-kapur-reacts-to-matt-damon-wanting-to-work-with-him/articleshow/132328170.cms",
+    "time": "2026-07-11T09:37:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anne Hathaway wants her children to grow up to be like Tom Holland",
+    "desc": "Actress Anne Hathaway described her collaboration with Tom Holland on 'The Odyssey' as a dream come true. She expressed her hope for her children to emulate the admirable qualities of the Spider-Man star. Hathaway also fondly recalled her exhilarating experience while filming Christopher Nolan's grand adaptation. Set for release in July, the film chronicles King Odysseus's epic journey.",
+    "img": "https://static.toiimg.com/photo/msid-132328167,imgsize-96132.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/anne-hathaway-calls-tom-holland-her-dream-son-says-i-very-much-hope-all-of-my-children-grow-up-to-be-as-wonderful-as-my-onscreen-child/articleshow/132327990.cms",
+    "time": "2026-07-11T09:37:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India tops China on new millionaires, keeps money the old way",
+    "desc": "India added over 31,000 new dollar millionaires in 2025, significantly outpacing China. Indian wealthy individuals hold most assets in real estate and gold, unlike Western economies. This preference for tangible assets contrasts with a greater financialization seen elsewhere. While wealth is growing, it remains concentrated in a few major cities.",
+    "img": "https://static.toiimg.com/photo/msid-132327901,imgsize-127597.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-tops-china-on-new-millionaires-keeps-money-the-old-way/articleshow/132327886.cms",
+    "time": "2026-07-11T09:29:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Diljit Dosanjh's 'Satluj' faces another blow",
+    "desc": "A government committee recommended continuing restrictions on Diljit Dosanjh's film Satluj. The panel found the film's content concerning India's national security and sovereignty. This decision follows the film's removal from streaming platforms in India and overseas. Political leaders in Punjab have voiced differing opinions on the government's actions. The film's future availability remains uncertain after these developments.",
+    "img": "https://static.toiimg.com/photo/msid-132327928,imgsize-322541.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/diljit-dosanjhs-satluj-faces-another-blow-honey-trehan-directorial-removed-from-zee5s-international-catalogue-reports/articleshow/132327913.cms",
+    "time": "2026-07-11T09:24:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Matt Damon wanted to work with Shekhar Kapur",
+    "desc": "Matt Damon revealed he wanted to work with Shekhar Kapur on 'The Four Feathers' (2002) but missed out, likely due to his Jason Bourne commitment. Speaking at 'The Odyssey' Mumbai event, he called it a \"20-year-old debt\" he still carries. He plays Odysseus in 'The Odyssey', alongside Anne Hathaway, Tom Holland and others.",
+    "img": "https://static.toiimg.com/photo/msid-132327816,imgsize-220821.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/matt-damon-wanted-to-work-with-shekhar-kapur-reveals-why-he-couldnt-do-the-four-feathers/articleshow/132327816.cms",
+    "time": "2026-07-11T09:11:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bhupesh Baghel meets leaders from Channi camp",
+    "desc": "Former Minister Gurpreet Kangar said the meeting was being held specifically to discuss whether Amrinder Singh Raja Warring’s leadership was acceptable to them or not; Bhupesh Baghel had already ruled out any change in the State party leadership",
+    "img": "https://th-i.thgim.com/public/incoming/a03leh/article71209736.ece/alternates/LANDSCAPE_1200/Channi.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/punjab/tussle-for-punjab-congress-chief-post-leaders-from-channi-camp-arrive-to-meet-baghel/article71209687.ece",
+    "time": "2026-07-11T09:04:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Interview",
+    "desc": "Born into a family of theatre artistes, Mano was exposed to music and acting from a very young age. He has a strong grounding in Carnatic music, having trained under Sangita Kalanidhi Nedunuri Krishnamurthy. Following the advice of maestro Ilaiyaraaja, he chose to devote himself entirely to singing and gave up acting.",
+    "img": "https://th-i.thgim.com/public/incoming/6t75xl/article71209804.ece/alternates/LANDSCAPE_1200/singer%20mano.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-interview-the-journey-of-nagoor-babu-to-playback-singer-mano/article71209802.ece",
+    "time": "2026-07-11T09:01:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'People don't want us to win': Argentina head coach fires back at FIFA favouritism claims",
+    "desc": "Argentina's coach Lionel Scaloni rejects FIFA favouritism allegations. He states these claims provide extra motivation for his players. Scaloni mentioned such accusations have followed Argentina for decades. He believes VAR technology makes manipulation extremely difficult. The team prepares for their quarter-final match against Switzerland.",
+    "img": "https://static.toiimg.com/photo/msid-132327476,imgsize-105600.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/people-dont-want-us-to-win-argentina-head-coach-fires-back-at-fifa-favouritism-claims/articleshow/132327460.cms",
+    "time": "2026-07-11T08:42:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aditi Govitrikar talks about how women’s roles in films have been affected because of their age",
+    "desc": "Aditi Govitrikar underscores the challenge women face regarding age-related barriers in the film industry, pointing out that male stars often play leading roles well beyond their prime. With the advent of OTT platforms, there is hope for greater representation and more suitable roles for women. Govitrikar also notes that women continue to experience objectification in some films, yet she remains encouraged by the rise of more meaningful roles.",
+    "img": "https://static.toiimg.com/photo/msid-132327529,imgsize-72010.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aditi-govitrikar-shares-women-are-defined-by-their-age-once-crossed-heroines-are-usually-offered-the-roles-of-mother-or-aunty/articleshow/132327390.cms",
+    "time": "2026-07-11T08:42:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Inside his Rs 230 crore fortune",
+    "desc": "Renowned Indian film actor Dhanush has made a name for himself with a prolific career comprising more than fifty movies. His financial achievements are substantial, highlighted by his lavish residence in Chennai and a stellar collection of luxury vehicles. Beyond his acting prowess which has earned him two National Awards, Dhanush also excels as a singer and producer.",
+    "img": "https://static.toiimg.com/photo/msid-132327209,imgsize-728749.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/dhanush-net-worth-deets-from-rs-150-crore-chennai-home-to-rolls-royce-ghost-inside-the-actors-rs-230-crore-fortune/articleshow/132327175.cms",
+    "time": "2026-07-11T08:26:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "I am not Gandhi; be your own hero: Wangchuk amid indefinite fast",
+    "desc": "\"Many people call me the Gandhi of the 21st century or a modern Gandhi. Others call me a hero. These comments make me uncomfortable. I am neither Gandhi nor a hero. I am just an ordinary citizen who has tried to fulfil his responsibilities,\"says Sonam Wangchuk",
+    "img": "https://th-i.thgim.com/public/news/national/x6qbcg/article71209723.ece/alternates/LANDSCAPE_1200/Sonam.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/i-am-not-gandhi-be-your-own-hero-wangchuk-amid-indefinite-fast/article71209685.ece",
+    "time": "2026-07-11T08:22:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nitesh Tiwari researched ‘Ramayana’ film for more than 10 years",
+    "desc": "Director Nitesh Tiwari has invested over a decade in research for his grand project, 'Ramayana.' This film's pre-production phase included extensive discussions with historians and study of ancient texts. Featuring Ranbir Kapoor and Sai Pallavi as the iconic characters Ram and Sita, the movie promises a groundbreaking visual experience. Fans can anticipate the trailer's premiere at Comic Con on July twenty-fourth, aiming to redefine the standards of Indian cinema.",
+    "img": "https://static.toiimg.com/photo/msid-132327095,imgsize-138420.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nitesh-tiwari-worked-on-ramayana-for-more-than-10-years-researched-shastras-and-consulted-pandits-on-pre-production/articleshow/132327095.cms",
+    "time": "2026-07-11T08:16:26.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "From 'ethical' filters to screening, how the benchmark works",
+    "desc": "NSE Indices has launched the Nifty500 Ahimsa Index, tracking companies aligned with non-violence principles. This new index targets investors seeking animal welfare considerations in their portfolios. Companies are screened using the Ahimsagain Foundation's AIM framework for eligibility. The index offers a transparent benchmark for responsible investment products. It will serve as a base for ETFs and index funds.",
+    "img": "https://static.toiimg.com/photo/msid-132327063,imgsize-689472.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/nse-indices-launches-nifty500-ahimsa-index-from-criteria-to-screening-how-the-ethical-benchmark-works/articleshow/132326935.cms",
+    "time": "2026-07-11T08:12:09.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "The unfulfilled solar promise of India and Germany",
+    "desc": "Three years after both countries signed a landmark agreement to facilitate the migration of Indian solar technicians to Germany, not a single such technician has made the journey; the experience exposes a wider disconnect between ambitious labour mobility agreements and the realities of skill development, labour market demand and the aspirations of India’s emerging green workforce",
+    "img": "https://th-i.thgim.com/public/incoming/sgkdip/article71207780.ece/alternates/LANDSCAPE_1200/2026-07-01T060021Z_880668869_RC2ZGEA00JO1_RTRMADP_3_EUROPE-SOLAR-POWER.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/the-unfulfilled-solar-promise-of-india-and-germany/article71206840.ece",
+    "time": "2026-07-11T08:09:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sudesh REVEALS he painted Hema Malini's film posters as a teenager",
+    "desc": "Singer Sudesh Bhosale shared childhood memories of painting Hema Malini's film posters. He worked with his father creating promotional banners for her movies in Mumbai. Bhosale recalled painting the poster for 'Prem Nagar' at just fourteen years old. His first foreign tour in 1984 was with Hema Malini to Fiji. This marked a full-circle moment from painting her posters to performing alongside her.",
+    "img": "https://static.toiimg.com/photo/msid-132327026,imgsize-205469.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sudesh-bhosale-reveals-he-painted-hema-malinis-film-posters-as-a-teenager-before-sharing-the-stage-with-her/articleshow/132327001.cms",
+    "time": "2026-07-11T08:05:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Christopher Nolan dismisses 'The Odyssey' prerelease backlash",
+    "desc": "Christopher Nolan, the acclaimed director, downplays the significance of social media critiques ahead of his film 'The Odyssey's' debut. He highlights that such online conversations are often irrelevant, drawing comparisons to the controversies surrounding his Batman trilogy. While influential figures like Elon Musk have expressed strong views on casting, Nolan insists on maintaining artistic integrity as the film gears up for its theatrical release on July 17.",
+    "img": "https://static.toiimg.com/photo/msid-132326956,imgsize-165236.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/christopher-nolan-dismisses-the-odyssey-prerelease-backlash-these-conversations-are-always-irrelevant/articleshow/132326897.cms",
+    "time": "2026-07-11T08:02:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi quintessential politician, favours direct contact with electorate: MEA official in New Zealand",
+    "desc": "The Ministry of External Affairs explained Prime Minister Modi's direct engagement style with voters. He prefers connecting with the electorate without intermediaries, which is a political method. This approach has contributed to his electoral success and long tenure as Prime Minister. The visit aimed to strengthen the rule-based Indo-Pacific order with New Zealand.",
+    "img": "https://static.toiimg.com/photo/msid-132327179,imgsize-85178.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pm-modi-quintessential-politician-favours-direct-contact-with-electorate-mea-official-in-new-zealand/articleshow/132326925.cms",
+    "time": "2026-07-11T07:56:33.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "'Public's rightful grain is being looted': Kharge attacks BJP over alleged MP ethanol scam",
     "desc": "Congress president Mallikarjun Kharge criticized the Madhya Pradesh government for alleged corruption. He highlighted a Rs 1,200 crore rice scam involving diverted grain. This rice was meant for malnourished children and women. An investigation is underway after a complaint about undelivered rice. Kharge also mentioned land scam allegations against the chief minister.",
     "img": "https://static.toiimg.com/photo/msid-132326790,imgsize-108660.cms",
@@ -9,13 +180,13 @@ const newsData_en = [
     "time": "2026-07-11T07:44:07.000Z"
   },
   {
-    "cat": "World",
-    "title": "India, New Zealand elevate ties to strategic partnership",
-    "desc": "Prime Minister Narendra Modi landed in Auckland last night in the third and final leg of his three-nation tour that largely focused on expanding cooperation in the Indo-Pacific against the backdrop of China’s increasing assertiveness in the region",
-    "img": "https://via.placeholder.com/600x400?text=News",
+    "cat": "Politics",
+    "title": "Why Jammu and Kashmir’s private hospitals have India’s highest C-Section rate",
+    "desc": "In India, medical experts attribute the increase in C-sections to a combination of more institutional deliveries, improved detection of high-risk pregnancies, increasing maternal age and medical complications, greater use of assisted reproductive technologies, previous C-sections, and the rapid growth of private-sector obstetric care",
+    "img": "https://th-i.thgim.com/public/news/national/8yiamg/article71209678.ece/alternates/LANDSCAPE_1200/iStock-2211794005.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/prime-minister-narendra-modi-new-zealand-visit-live-updates-on-july-11-2026/article71209319.ece",
-    "time": "2026-07-11T07:36:53.000Z"
+    "url": "https://www.thehindu.com/sci-tech/health/nine-in-ten-why-jammu-and-kashmirs-privatehospitals-have-indias-highest-c-section-rate/article71209545.ece",
+    "time": "2026-07-11T07:42:21.000Z"
   },
   {
     "cat": "Politics",
@@ -25,24 +196,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/police-squad-attacked-in-kozhikode-five-suspected-goons-arrested/article71209626.ece",
     "time": "2026-07-11T07:35:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Leaders from Channi camp arrive to meet Baghel",
-    "desc": "Former Minister Gurpreet Kangar said the meeting was being held specifically to discuss whether Amrinder Singh Raja Warring’s leadership was acceptable to them or not; Bhupesh Baghel had already ruled out any change in the State party leadership",
-    "img": "https://th-i.thgim.com/public/incoming/a03leh/article71209736.ece/alternates/LANDSCAPE_1200/Channi.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/punjab/tussle-for-punjab-congress-chief-post-leaders-from-channi-camp-arrive-to-meet-baghel/article71209687.ece",
-    "time": "2026-07-11T07:35:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "I am not Gandhi; be your own hero: Wangchuk amid indefinite fast",
-    "desc": "\"Many people call me the Gandhi of the 21st century or a modern Gandhi. Others call me a hero. These comments make me uncomfortable. I am neither Gandhi nor a hero. I am just an ordinary citizen who has tried to fulfil his responsibilities,\"says Sonam Wangchuk",
-    "img": "https://th-i.thgim.com/public/news/national/x6qbcg/article71209723.ece/alternates/LANDSCAPE_1200/Sonam.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/i-am-not-gandhi-be-your-own-hero-wangchuk-amid-indefinite-fast/article71209685.ece",
-    "time": "2026-07-11T07:34:41.000Z"
   },
   {
     "cat": "World",
@@ -108,15 +261,6 @@ const newsData_en = [
     "time": "2026-07-11T07:27:14.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Why Jammu and Kashmir’s private hospitals have India’s highest C-Section rate",
-    "desc": "In India, medical experts attribute the increase in C-sections to a combination of more institutional deliveries, improved detection of high-risk pregnancies, increasing maternal age and medical complications, greater use of assisted reproductive technologies, previous C-sections, and the rapid growth of private-sector obstetric care",
-    "img": "https://th-i.thgim.com/public/news/national/8yiamg/article71209678.ece/alternates/LANDSCAPE_1200/iStock-2211794005.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/health/nine-in-ten-why-jammu-and-kashmirs-privatehospitals-have-indias-highest-c-section-rate/article71209545.ece",
-    "time": "2026-07-11T07:23:50.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "R Madhavan gets nostalgic over 'Dirty Dancing' classic; Says 'My adolescence in 1 song '",
     "desc": "Actor R. Madhavan shared a nostalgic moment on Instagram Stories recently. He revisited the iconic song \"I've Had the Time of My Life\" from Dirty Dancing. This classic track instantly transported him back to his teenage years. The song won an Academy Award and remains a celebrated musical moment. Madhavan is currently preparing for his biographical drama GDN's release.",
@@ -127,7 +271,7 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "No Virat, no Sachin : Harmanpreet Kaur becomes first Indian to...",
+    "title": "Harmanpreet Kaur becomes first Indian to...",
     "desc": "Harmanpreet Kaur achieved a unique milestone by scoring a fifty at Lord's. She became the first Indian to score fifties in Tests, ODIs, and T20Is there. Smriti Mandhana also contributed significantly with a score of 83 runs. India posted 285 runs in their first innings after a strong partnership. England finished the opening day on 21 for 1, trailing by 264 runs.",
     "img": "https://static.toiimg.com/photo/msid-132326155,imgsize-113462.cms",
     "src": "indiatimes.com",
@@ -216,33 +360,6 @@ const newsData_en = [
     "time": "2026-07-11T06:35:42.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Narendra Modi breaks silence on Kathua, Unnao rape cases: ‘Our daughters will get justice’",
-    "desc": "“I want to assure the nation that no criminal will be spared. Justice will be done. Our daughters will get justice,” he said at an event to inaugurate the B.R. Ambedkar memorial in New Delhi.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/narendra-modi-breaks-silence-on-kathua-unnao-rape-cases-our-daughters-will-get-justice/article61866850.ece",
-    "time": "2026-07-11T06:35:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Olivia Dean and Sam Fender break their UK record",
-    "desc": "Olivia Dean and Sam Fender have achieved a significant chart milestone. Their song 'Rein Me In' has become the longest-running number one single. This collaboration surpassed previous records held by British and Canadian acts. The duet also secured the longest consecutive run in the UK Top 40. They are now aiming to break another chart record.",
-    "img": "https://static.toiimg.com/photo/msid-132325774,imgsize-337804.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/olivia-dean-and-sam-fender-break-their-uk-record-of-longest-running-number-one-single-with-16-weeks-of-rein-me-in/articleshow/132325770.cms",
-    "time": "2026-07-11T06:25:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi inaugurates new rail bridge in Rameswaram",
-    "desc": "Inaugurating the new Pamban bridge in Rameswaram, PM Modi says it is the country’s first vertical lift railway sea bridge, adding efforts were on to take Tamil language, heritage to all corners of the world",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/pm-modi-pamban-bridge-inaugration-rameswaram-highlights-april-6-2025/article69418926.ece",
-    "time": "2026-07-11T06:06:17.000Z"
-  },
-  {
     "cat": "World",
     "title": "Bangladesh’s ousted leader Hasina plans December return with party colleagues to surrender",
     "desc": "“My party leaders and workers are being subjected to tremendous repression. If death comes, I want it to come on my own soil, where ‌my parents are buried and where their blood was shed,” Ms. Hasina said",
@@ -250,15 +367,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/bangladeshs-ousted-leader-hasina-plans-december-return-with-party-colleagues-to-surrender/article71206327.ece",
     "time": "2026-07-11T06:03:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Ramayana' Trailer: Makers set July 24 for worldwide release",
-    "desc": "The official trailer for Nitesh Tiwari's Ramayana will premiere worldwide on July 24, 2026. This epic film's trailer will be showcased at San Diego Comic-Con on July 23. Ranbir Kapoor, Yash, and Sai Pallavi star in this ambitious cinematic undertaking. The film is a two-part adaptation with a reported budget exceeding Rs 4,000 crore. Ramayana Part I releases during Diwali 2026, and Part II arrives Diwali 2027.",
-    "img": "https://static.toiimg.com/photo/msid-132325486,imgsize-289862.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-trailer-to-premiere-worldwide-on-july-24-makers-unveil-global-launch-date-for-ranbir-kapoor-yash-and-sai-pallavi-starrer-at-comic-con-2026/articleshow/132325404.cms",
-    "time": "2026-07-11T05:58:25.000Z"
   },
   {
     "cat": "Entertainment",
@@ -270,24 +378,6 @@ const newsData_en = [
     "time": "2026-07-11T05:55:14.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Kireedam' title was originally planned for Mammootty film",
-    "desc": "Director Sibi Malayil shared the original title for Kireedam was not intended for Mohanlal. The iconic title Kireedam was first suggested for a Mammootty film by Lohithadas. I.V. Sasi did not like the title, and Lohithadas offered it to Malayil. Malayil immediately claimed the title, believing it suited their story perfectly. The sequel Chenkol also received its name from Lohithadas, connecting to Kireedam.",
-    "img": "https://static.toiimg.com/photo/msid-132325479,imgsize-378016.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/kireedam-title-was-originally-planned-for-mammootty-film-sibi-malayil-opens-up-about-mohanlals-classic-film/articleshow/132325438.cms",
-    "time": "2026-07-11T05:48:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "THIS actor won National Award and featured in an Oscar nominated film; today drives an AUTO RICKSHAW",
-    "desc": "Shafiq Syed won a National Award and starred in Oscar-nominated 'Salaam Bombay!' as a child, discovered on Mumbai's streets. Despite early success and meeting the President, acting offers dried up. He returned to Bangalore, later appearing only in 'Patang', and eventually became an auto-rickshaw driver to support his family.",
-    "img": "https://static.toiimg.com/photo/msid-132325445,imgsize-232073.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/this-actor-won-national-award-and-featured-in-an-oscar-nominated-film-today-drives-an-auto-rickshaw/articleshow/132325445.cms",
-    "time": "2026-07-11T05:45:15.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Holder, Russell power LA Knight Riders to crucial win over San Francisco Unicorns",
     "desc": "Los Angeles Knight Riders defeated San Francisco Unicorns by eleven runs in Dallas. This crucial victory propelled the Knight Riders into the top positions of the standings. Colin Munro and Andre Russell provided strong batting performances for the Knight Riders. Jason Holder and Andre Russell then starred with the ball to secure the win. The Knight Riders are now level on points with San Francisco and MI New York.",
@@ -295,33 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/major-league-cricket/jason-holder-andre-russell-power-la-knight-riders-to-crucial-win-over-san-francisco-unicorns/articleshow/132325339.cms",
     "time": "2026-07-11T05:36:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tate McRae's VMA performance earns rare Emmy nomination",
-    "desc": "Tate McRae's electrifying performance at the 2025 VMAs has earned a prestigious Emmy nomination for Outstanding Choreography, marking only the second VMA performance to gain this honor. Following the success of her recent album, this accolade not only celebrates McRae's artistry but also shines a light on choreographer Robbie Blue's stunning creative contributions. Such recognition underscores the impressive level of talent in dance artistry today.",
-    "img": "https://static.toiimg.com/photo/msid-132325330,imgsize-215670.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/tate-mcraes-vma-performance-earns-rare-emmy-nomination-for-choreography/articleshow/132325271.cms",
-    "time": "2026-07-11T05:36:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hema Malini honours Dharmendra with floral tribute",
-    "desc": "Veteran actress Hema Malini celebrated sixty years in Indian cinema recently. She honored her late husband Dharmendra with a touching tribute at the event. Several Bollywood veterans and political dignitaries attended the star-studded celebration. The event also featured a musical tribute to her memorable film performances. Malini shared an anecdote about a song from the film Charas.",
-    "img": "https://static.toiimg.com/photo/msid-132325168,imgsize-195978.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hema-malini-pays-emotional-tribute-to-late-husband-dharmendra-as-she-marks-60-years-in-cinema-pics/articleshow/132324455.cms",
-    "time": "2026-07-11T05:35:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jeetendra compliments Hema Malini at her celebratory concert",
-    "desc": "Hema Malini marked sixty years in Indian Cinema at a grand celebration. Veteran actors Jeetendra, Shatrughan Sinha, and Rakesh Roshan attended the event. Jeetendra complimented Hema Malini on her enduring charm and youthful appearance. Hema Malini reciprocated with kind words about Jeetendra's evergreen look. The event honored Malini's extensive and impactful career in films.",
-    "img": "https://static.toiimg.com/photo/msid-132325058,imgsize-283363.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/looking-very-charming-jeetendra-compliments-hema-malini-at-her-celebratory-concert-shatrughan-sinha-and-rakesh-roshan-pose-for-the-event/articleshow/132325034.cms",
-    "time": "2026-07-11T05:16:18.000Z"
   },
   {
     "cat": "Entertainment",
@@ -351,15 +414,6 @@ const newsData_en = [
     "time": "2026-07-11T04:42:52.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Matt Damon on Ben Affleck's reaction to 'The Odyssey' role",
-    "desc": "Ben Affleck lauded Matt Damon for his remarkable portrayal of Odysseus in the upcoming film 'The Odyssey,' which is eagerly awaited to premiere in July. Damon reminisced about their early days when they shared a bank account to fund their auditions. Their friendship, rooted in shared aspirations and mutual struggles, reflects a deep bond forged over years in the tumultuous world of Hollywood.",
-    "img": "https://static.toiimg.com/photo/msid-132324760,imgsize-133160.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/matt-damon-waited-45-years-for-ben-afflecks-call-after-watching-the-odyssey/articleshow/132324459.cms",
-    "time": "2026-07-11T04:37:24.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Neeraj Chopra needs to pay for his coach in CWG; Jadumani gets the nod",
     "desc": "Neeraj Chopra's coach Jaiveer Chaudhary is missing from the final Indian contingent list. M Sreeshankar's coach and father, S Murali, also faces omission from the approved squad. Jadumani Singh's inclusion in boxing was cleared after initial clarification from the federation. The ministry approved a 191-member contingent for the upcoming Games. Officials not part of the approved list will travel at personal expense.",
@@ -367,15 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/neeraj-chopra-needs-to-pay-for-his-coach-in-cwg-jadumani-gets-the-nod/articleshow/132324742.cms",
     "time": "2026-07-11T04:36:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Pitbull sets Guinness World Record for ‘most bald caps’",
-    "desc": "Pitbull achieved a Guinness World Record at BST Hyde Park in London. Over twenty-two thousand fans wore bald caps and attire to honor the rapper. This event marked a significant achievement for the artist and his dedicated followers. The record was for the largest gathering of people wearing bald caps. Pitbull expressed gratitude for this unique and memorable accomplishment.",
-    "img": "https://static.toiimg.com/photo/msid-132324759,imgsize-289720.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/pitbull-sets-guinness-world-record-for-most-bald-caps-by-more-than-22000-fans-at-london-concert/articleshow/132324747.cms",
-    "time": "2026-07-11T04:35:25.000Z"
   },
   {
     "cat": "Sports",
@@ -502,24 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-spain-equal-argentinas-record-with-36-game-unbeaten-run-after-late-belgium-win-to-reach-the-semis/articleshow/132323024.cms",
     "time": "2026-07-11T00:54:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'We Have No Fear': Lamine Yamal delivers chilling warning to France ahead of World Cup semi-final",
-    "desc": "Spain wonderkid Lamine Yamal has warned France ahead of their FIFA World Cup 2026 semi-final, insisting La Roja have nothing to fear against Didier Deschamps’ side. The Barcelona star highlighted Spain’s recent victories over France, while both teams arrive unbeaten and in top form. With Yamal and Kylian Mbappé leading their attacks, a blockbuster clash awaits.",
-    "img": "https://static.toiimg.com/photo/msid-132322991,imgsize-909440.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/we-have-no-fear-lamine-yamal-delivers-chilling-warning-to-france-ahead-of-world-cup-semi-final/articleshow/132322928.cms",
-    "time": "2026-07-11T00:43:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "The secret to stopping Erling Haaland? England handed golden blueprint ahead of Norway World Cup quarter-final showdown",
-    "desc": "Former Premier League goalkeeper Brad Friedel has warned England that stopping Erling Haaland alone will not be enough in their World Cup 2026 quarter-final against Norway. He believes the Three Lions must target Martin Ødegaard and cut off Norway’s supply line to their star striker. Friedel also praised Jude Bellingham’s influence ahead of the crucial knockout clash.",
-    "img": "https://static.toiimg.com/photo/msid-132322887,imgsize-1069497.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/the-secret-to-stopping-erling-haaland-england-handed-golden-blueprint-ahead-of-norway-world-cup-quarter-final-showdown/articleshow/132322787.cms",
-    "time": "2026-07-10T23:48:12.000Z"
   },
   {
     "cat": "Sports",
@@ -664,15 +691,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/king-without-the-crown-cristiano-ronaldos-world-cup-career-in-graphics/article71197123.ece",
     "time": "2026-07-10T07:45:36.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India should not blink first in US trade negotiations, says SBI report",
-    "desc": "India should avoid early trade concessions with the United States. Washington is using uncertainty as a bargaining instrument across many issues. India possesses unique strategic strengths that should be leveraged. The nation should play the long game and test US resolve. This approach will improve India's bargaining position over time.",
-    "img": "https://static.toiimg.com/photo/msid-132306346,imgsize-635661.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-should-avoid-early-trade-concessions-to-us-test-washingtons-resolve-sbi-ecowrap/articleshow/132306284.cms",
-    "time": "2026-07-10T07:39:29.000Z"
   },
   {
     "cat": "Sports",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
     "time": "2024-03-11T10:00:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
-    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
-    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
-    "time": "2024-03-11T09:41:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Here’s how much the smartphone costs",
-    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
-    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
-    "time": "2024-03-11T09:36:12.000Z"
   }
 ];
