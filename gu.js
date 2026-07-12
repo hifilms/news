@@ -700,14 +700,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/these-5-ott-series-are-full-of-bold-and-intimate-scenes-dont-play-them-in-front-of-children-by-mistake-483698 ",
     "time": "2026-07-05T12:20:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "કોણ હતા જસવંત સિંહ ખાલડા? જેમણે ખોલ્યું હજારો મૌતનું રહસ્ય, બેરહેમીથી માર્યા ગયા &amp;#039;સતલુજ&amp;#039;ના હીરો",
-    "desc": "ફિલ્મ 'સતલુજ' માનવાધિકાર કાર્યકર્તા જસવંત સિંહ ખાલડાની લાઈફ પર આધારિત છે, જેમની કથિત રીતે 1995માં પંજાબ પોલીસ દ્વારા અપહરણ કરીને હત્યા કરવામાં આવી હતી. હવે તમારા મનમાં પ્રશ્ન થતો હશે કે, કોઈ પોલીસ અપહરણ કરીને કોઈને કેવી રીતે મારી શકે? પરંતુ આ પ્રશ્નો પહેલાં તમારા માટે જસવંત સિંહ ખાલડા વિશે જાણવું જરૂરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/who-was-jaswant-singh-khalda-the-one-who-opened-the-secret-of-thousands-of-deaths-the-hero-of-sutlej-was-mercilessly-killed-483678 ",
-    "time": "2026-07-05T12:03:32.000Z"
   }
 ];

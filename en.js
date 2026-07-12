@@ -1,5 +1,167 @@
 const newsData_en = [
   {
+    "cat": "World",
+    "title": "U.S. launches strikes on Iran after attack on civilian vessel in Strait of Hormuz",
+    "desc": "U.S. Central Command said a short time later that its forces began a third round of strikes against Iran. There were explosions in Bandar Abbas and Sirik, two towns along the shores of the strait, Iran state media reported.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-ceasefire-donald-trump-tehran-attacks-strait-of-hormuz-ships-live-updates-july-12-2026/article71212951.ece",
+    "time": "2026-07-12T02:01:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'I, Nobody' BO day 3: Prithviraj's thriller sees 9.6% drop",
+    "desc": "The investigative thriller 'I, Nobody' has crossed eight crore rupees worldwide. The film saw a slight dip in collections on its third day. India's net collection reached over four point five crore rupees after three days. Occupancy improved significantly during the night shows across the country. Filmmaker Anurag Kashyap also praised the movie's engaging narrative.",
+    "img": "https://static.toiimg.com/photo/msid-132339874,imgsize-263555.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/i-nobody-box-office-collections-day-3-prithviraj-sukumarans-thriller-sees-9-6-drop-worldwide-gross-reaches-rs-8-31-crore/articleshow/132339864.cms",
+    "time": "2026-07-12T01:57:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jasmine Sandlas announces that she’s engaged",
+    "desc": "During her electrifying concert in Delhi, singer Jasmine Sandlas made a thrilling announcement about her engagement. With excitement radiating from her, she showcased her engagement ring and introduced her fiancé, Shekhar Chaudhary, to the captivated audience. The couple shared a joyful dance on stage as her popular song played, leaving fans both surprised and delighted. This concert kicked off her highly anticipated 'The Dream Girl India' tour.",
+    "img": "https://static.toiimg.com/photo/msid-132339822,imgsize-130314.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/this-is-my-man-dhurandhar-singer-jasmine-sandlas-announces-engagement-to-shekhar-chaudhary-during-her-delhi-concert/articleshow/132339791.cms",
+    "time": "2026-07-12T01:47:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Phone flung during ED raid may crack global gold smuggling case",
+    "desc": "Enforcement Directorate agents are examining Dharmesh Sangani's recovered mobile phone. This businessman faces probes in the UK and US for alleged gold smuggling. The device was retrieved after Sangani threw it from his apartment as agents approached. Authorities suspect a larger gold smuggling and money laundering operation involving influential people. The ED is investigating violations of the Foreign Exchange Management Act against Sangani's company.",
+    "img": "https://static.toiimg.com/photo/msid-132339765,imgsize-43802.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/phone-flung-during-ed-raid-may-crack-global-gold-smuggling-case/articleshow/132339758.cms",
+    "time": "2026-07-12T01:28:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by John Wayne",
+    "desc": "John Wayne's enduring legacy continues to inspire people worldwide today. His museum draws visitors seeking connection and guidance from his life. A famous quote emphasizes resilience, urging one to rise after every fall. Wayne's own life mirrored this philosophy through his career and cancer battles. He lived his message of getting up one more time until his passing.",
+    "img": "https://static.toiimg.com/photo/msid-132339740,imgsize-49108.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-john-wayne-youre-gonna-spend-the-rest-of-your-life-getting-up-one-more-time-than-youre-knocked-down-so-you-better-start-getting-used-to-it-an-inspiring-message-by-the-late-hollywood-star-highlighting-why-it-is-important-to-never-give-up/articleshow/132339730.cms",
+    "time": "2026-07-12T01:27:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM, CMs removal clause 'unconstitutional'",
+    "desc": "A parliamentary panel noted concerns about the anti-corruption bill's arrest clause. Stakeholders found removing officials after thirty days constitutionally problematic. The draft report suggests a sunset clause for automatic reversal of barring. It also proposes using \"suspension\" instead of \"removal\" to avoid stigma. The committee's recommendations will be tabled in Lok Sabha soon.",
+    "img": "https://static.toiimg.com/photo/msid-132339748,imgsize-1041361.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/stakeholders-pm-cms-removal-clause-unconstitutional/articleshow/132339736.cms",
+    "time": "2026-07-12T01:26:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jude Bellingham joins Maradona in exclusive club with back-to-back braces in World Cup knockouts",
+    "desc": "In a historic moment for English football, Jude Bellingham showcased his talents by netting four goals in the knockout stage of the World Cup, reminiscent of Diego Maradona's brilliance in 1986. His crucial late equalizer and standout extra-time winner against Norway propelled England to the semifinals, where they will now face Spain. It's a remarkable comeback for England, marking their first semifinal since 1990.",
+    "img": "https://static.toiimg.com/photo/msid-132339673,imgsize-80768.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-wc-2026-jude-bellingham-joins-maradona-in-exclusive-club-with-back-to-back-braces-in-world-cup-knockouts/articleshow/132339673.cms",
+    "time": "2026-07-12T01:16:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mick Jagger praises the Beatles' prolific songwriting duo",
+    "desc": "Mick Jagger hailed the exceptional songwriting achievements of Paul McCartney and John Lennon, labeling them as the most prolific creators of a remarkable era in music. Their willingness to share their original works with fellow artists left an indelible mark, exemplified when The Rolling Stones recorded one of their songs. This spirit of collaboration was pivotal in molding the music scene of that unforgettable decade.",
+    "img": "https://static.toiimg.com/photo/msid-132339680,imgsize-165530.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/mick-jagger-praises-paul-mccartney-and-john-lennons-beatles-hits-calls-them-the-most-prolific-songwriters-of-that-time/articleshow/132339669.cms",
+    "time": "2026-07-12T01:06:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘The Odyssey’ stars drop by for some chai and bun maska snacks",
+    "desc": "Hollywood icons Christopher Nolan, Tom Holland, and Matt Damon made a surprise visit to Mumbai for promotional activities ahead of their upcoming film, The Odyssey. They relished local delicacies like chai and bun maska at a quaint coffee shop, where surprisingly, the owner did not recognize them initially. This charming experience included snapping pictures with both fans and staff, creating memorable moments during their brief stay.",
+    "img": "https://static.toiimg.com/photo/msid-132339672,imgsize-260976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/chai-comes-first-christopher-nolan-tom-holland-and-matt-damon-step-out-for-tea-ahead-of-the-odyssey-premiere/articleshow/132339659.cms",
+    "time": "2026-07-12T01:01:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "S. Janaki's granddaughter remembers veteran singer",
+    "desc": "Legendary playback singer S. Janaki passed away on Saturday at age 88. Her granddaughter announced the news and requested privacy for the grieving family. Prominent figures like Rajinikanth and Kamal Haasan paid heartfelt tributes to the singer. S. Janaki recorded over 48,000 songs in more than twenty languages. Her immeasurable contribution to Indian music will be remembered by millions.",
+    "img": "https://static.toiimg.com/photo/msid-132339667,imgsize-205105.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/s-janakis-granddaughter-remembers-veteran-singer-as-a-loving-grandmother-requests-privacy/articleshow/132339662.cms",
+    "time": "2026-07-12T00:58:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Alpha' box office collection day 9: Alia Bhatt's film crosses Rs 85 crore worldwide",
+    "desc": "Alpha has entered its second weekend at the box office, showcasing remarkable growth of more than thirty percent in its worldwide earnings. So far, the movie has amassed over eighty-five crore rupees globally, with domestic net collections reaching fifty-one point thirty-five crore rupees. Additionally, its overseas collections have reached twenty-four point thirty crore rupees, marking a successful run for the film.",
+    "img": "https://static.toiimg.com/photo/msid-132339610,imgsize-308031.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/alpha-box-office-collection-day-9-alia-bhatts-action-thriller-sees-growth-on-saturday-mints-over-rs-85-crore-worldwide/articleshow/132339610.cms",
+    "time": "2026-07-12T00:28:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When a Malayali taxi driver saved S. Janaki's life",
+    "desc": "Legendary singer S. Janaki passed away at eighty-eight years old. Her career spanned over six decades, recording thousands of songs. A taxi driver once saved her life during a medical emergency in Chennai. She faced several false death rumors throughout her long career. Tributes continue to pour in from across the Indian film industry.",
+    "img": "https://static.toiimg.com/photo/msid-132339612,imgsize-391637.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/s-janaki-once-survived-a-life-threatening-medical-emergency-thanks-to-a-malayali-taxi-driver-throwback/articleshow/132339605.cms",
+    "time": "2026-07-12T00:25:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Lenin' BO day 2: Akhil Akkineni's film records 14% jump",
+    "desc": "Akhil Akkineni's film 'Lenin' saw good box office numbers on its second day. The action drama registered a 14 percent increase in collections over its opening day. Worldwide gross collections for 'Lenin' have now crossed the Rs 23 crore mark. Theatre occupancy remained encouraging throughout the day, especially for evening shows. The film also received positive responses for Akhil Akkineni's performance.",
+    "img": "https://static.toiimg.com/photo/msid-132339583,imgsize-403599.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/lenin-box-office-collections-day-2-akhil-akkinenis-film-records-14-jump-worldwide-total-climbs-to-rs-23-40-crore/articleshow/132339579.cms",
+    "time": "2026-07-12T00:02:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rotten eggs, spoiled parathas: Swiggy gets 9 notices from FSSAI",
+    "desc": "Swiggy Instamart received nine FSSAI notices for delivering unsafe and expired food products. Consumers complained about receiving rotten eggs and spoiled parathas from the platform. Expired whey protein and packaged snacks were also among the flagged items by customers. The food regulator seeks a detailed explanation and compliance report from the company. Failure to respond satisfactorily could invite action under the Food Safety and Standards Act.",
+    "img": "https://static.toiimg.com/photo/msid-132339458,imgsize-629974.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/rotten-eggs-spoiled-parathas-swiggy-gets-9-notices-from-fssai/articleshow/132339456.cms",
+    "time": "2026-07-11T23:08:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Gurugram’s illegal PG business faces crackdown",
+    "desc": "Hundreds of professionals and families living in unauthorised paying guest accommodations and rented 1BHK and 1RK units across DLF’s residential colonies in Gurugram were forced to vacate at short notice last month as authorities launched a sealing drive. With more than 5,000 properties under scrutiny, and thousands of tenants caught in limbo, The Hindu traces the human cost of the crackdown, the scramble for alternative housing, and the thriving rental economy built on widespread planning violations that had flourished for years",
+    "img": "https://th-i.thgim.com/public/incoming/9q5gk1/article71211324.ece/alternates/LANDSCAPE_1200/DLF%20PHASE%20III%20SPOTLIGHT%206.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/haryana/boom-to-bust-gurugrams-illegal-pg-business-faces-crackdown/article71211320.ece",
+    "time": "2026-07-11T22:48:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jáminton Campaz reportedly skips Colombia return flight after alleged death threats following World Cup exit",
+    "desc": "Jáminton Campaz has reportedly not returned to Colombia following the national team's FIFA World Cup exit after allegedly receiving death threats in the wake of their defeat to Switzerland. The Colombian Football Federation has condemned the abuse and called for a criminal investigation, while the forward appealed for respect after enduring intense online harassment following the heartbreaking elimination.",
+    "img": "https://static.toiimg.com/photo/msid-132339430,imgsize-1160750.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/jminton-campaz-reportedly-skips-colombia-return-flight-after-alleged-death-threats-following-world-cup-exit/articleshow/132338064.cms",
+    "time": "2026-07-11T22:37:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Holiday updates for kin back home turn into news of death",
+    "desc": "A sponsored Vietnam trip became a tragedy for several Indian families. A boat carrying thirty-two Indian tourists capsized off Phu Quoc Island. Several individuals from Tamil Nadu, Andhra Pradesh, and Kerala lost their lives. Families are awaiting the repatriation of bodies from Vietnam. The vacation was organized by a private medical company.",
+    "img": "https://static.toiimg.com/photo/msid-132338011,imgsize-1134005.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/vietnam-boat-capsize-holiday-updates-for-kin-back-home-turn-into-news-of-death/articleshow/132338011.cms",
+    "time": "2026-07-11T22:13:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Claim Hindu law is based on 'Manusmriti' wrong, says SG Tushar Mehta",
+    "desc": "Solicitor General Tushar Mehta stated Hindu law is not based on Manusmriti. Most of India follows the Mitakshara school, which is based on Yajnavalkya Smriti. This school, prevalent since before 700 AD, grants inheritance rights by birth. The Dayabhaga school, prevalent in Bengal and Assam, was more restrictive. Ancient wisdom devised prohibited degrees of relationships, approved by Parliament.",
+    "img": "https://static.toiimg.com/photo/msid-132337790,imgsize-386919.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/claim-hindu-law-is-based-on-manusmriti-wrong-says-sg-tushar-mehta/articleshow/132337780.cms",
+    "time": "2026-07-11T21:55:05.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "15 Indian tourists killed as boat capsizes near Phu Quoc",
     "desc": "Fifteen Indian tourists died and seventeen were injured when a speedboat capsized near Vietnam's Phu Quoc island. The vessel was carrying mobile phone dealers from Andhra Pradesh and Telangana on a company trip. Rescue operations were launched immediately by nearby vessels and emergency agencies. Vietnamese authorities have ordered an investigation into the cause of the tragic incident. Indian officials are coordinating relief efforts and providing assistance to affected families.",
@@ -7,6 +169,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/15-indian-tourists-killed-as-boat-capsizes-in-vietnam/articleshow/132337668.cms",
     "time": "2026-07-11T21:27:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "distress in Tamil Nadu’s delta region",
+    "desc": "All is not well in the famed ‘Granary of South India’. Between a poor southwest monsoon and lack of water in the Cauvery, crops and farmers are left high and dry. The kuruvai cultivation area in Thanjavur alone has dipped to around 89,000 acres this season from around 1,94,000 acres in the previous cultivation year. This report describes the situation on the ground",
+    "img": "https://th-i.thgim.com/public/incoming/rx9a2s/article71211631.ece/alternates/LANDSCAPE_1200/Fields%20parch%20without%20Cauvery%20water%202.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/poor-monsoon-and-no-cauvery-water-distress-in-delta-region-of-tamil-nadu-2026-kharif-season/article71211621.ece",
+    "time": "2026-07-11T20:46:37.000Z"
   },
   {
     "cat": "Politics",
@@ -162,6 +333,15 @@ const newsData_en = [
     "time": "2026-07-11T17:58:31.000Z"
   },
   {
+    "cat": "Entertainment",
+    "title": "Students from the palmyrah belt turn the lens on life, landscape and labour",
+    "desc": "An exhibition curated by photographer Palani Kumar at the Lalit Kala Akademi, Lives Among The Palms features over 300 photographs captured by seven students from Ramanathapuram, as they document the landscapes, labour, and challenges around them",
+    "img": "https://th-i.thgim.com/public/incoming/8cchia/article71211535.ece/alternates/LANDSCAPE_1200/BVR_5172.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/lives-among-the-palms-students-from-the-palmyrah-belt-turn-the-lens-on-life-landscape-and-labour/article71210401.ece",
+    "time": "2026-07-11T17:54:29.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Aditya Birla Group proposes ₹12,000 crore investment for Kansariguda alumina refinery expansion",
     "desc": "The company, which already has a refinery and two smelter plants in Odisha, has been implementing a 1 MTPA capacity greenfield refinery project at Kansariguda at an investment of ₹8,000 crore through Hindalco Industries Limited",
@@ -288,15 +468,6 @@ const newsData_en = [
     "time": "2026-07-11T16:19:37.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Three Andhra Pradesh tourists among 15 Indians killed in Vietnam boat tragedy",
-    "desc": "Two persons from Kadapa and one from Machilipatnam are among the victims; Chief Minister Chandrababu Naidu instructs officials to provide all possible assistance to the bereaved families and ensure the safe return of the survivors",
-    "img": "https://th-i.thgim.com/public/incoming/9zitjt/article71211372.ece/alternates/LANDSCAPE_1200/10215_11_7_2026_20_15_30_1_IMG_20260711_WA0080.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/three-andhra-pradesh-tourists-among-15-indians-killed-in-vietnam-boat-tragedy/article71211090.ece",
-    "time": "2026-07-11T16:11:59.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Brook creates history in 5th T20I against India, becomes 1st England batter to...",
     "desc": "England captain Harry Brook achieved a significant milestone in the final T20I. He became the first English batter to surpass two hundred runs in a home bilateral series. Brook also set a new record for the most runs against India in a bilateral T20I series. His performance eclipsed Nicholas Pooran's previous record of one hundred eighty-four runs. This series cemented Brook's dominance against the Indian team.",
@@ -306,15 +477,6 @@ const newsData_en = [
     "time": "2026-07-11T16:09:10.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Nightingale of South India’ S. Janaki passes away at 88",
-    "desc": "Legendary playback singer S. Janaki has passed away at the age of 88 in Mysuru after battling age-related ailments. Fondly known as the “Nightingale of South India”, Janaki recorded over 20,000 songs across Tamil, Telugu, Malayalam, Kannada and Hindi during a remarkable career spanning more than six decades.",
-    "img": "https://th-i.thgim.com/public/news/national/6pxxy5/article71211346.ece/alternates/LANDSCAPE_1200/Spain.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-nightingale-of-south-india-s-janaki-passes-away-at-88/article71211347.ece",
-    "time": "2026-07-11T16:07:49.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Why is Sooryavanshi not playing the series finale?",
     "desc": "India dropped teenage opener Vaibhav Sooryavanshi for Sanju Samson in the fifth T20I against England, while Suryansh Shedge replaced Washington Sundar. Explaining the changes, captain Shreyas Iyer said the team wanted to \"try what's the best going forward for us as a team\" and urged players to give \"hundred percent effort, irrespective of the result\". England then piled up 257/3, powered by Jos Buttler's 131 and Harry Brook's unbeaten 95.",
@@ -322,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ind-vs-eng-5th-t20i-why-is-vaibhav-sooryavanshi-not-playing-the-series-finale/articleshow/132333887.cms",
     "time": "2026-07-11T16:06:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Embezzlement at Ram Temple is a disgrace, ‘we feel humiliated’, says Nripendra Misra",
-    "desc": "‘This matter now concerns the management of the temple, and it is certain that improvements will be made to prevent a recurrence of this alleged donation theft,’ the temple construction committee’s chairperson, among the first to call for the appointment of a CEO, says",
-    "img": "https://th-i.thgim.com/public/incoming/jju82h/article71210292.ece/alternates/LANDSCAPE_1200/20260711076L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttar-pradesh/ram-temple-donation-theft-a-disgrace-we-feel-humiliated-nripendra-mishra/article71210280.ece",
-    "time": "2026-07-11T16:01:21.000Z"
   },
   {
     "cat": "Politics",
@@ -414,69 +567,6 @@ const newsData_en = [
     "time": "2026-07-11T13:56:02.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Mighty majestic matchless': The stealth frigates redefining India's maritime power",
-    "desc": "The Indian Navy proudly commissioned INS Mahendragiri, the latest addition to its fleet as the sixth Project 17A stealth frigate. This remarkable warship embodies India's commitment to self-reliance in defence technology, enhancing its maritime combat capabilities. With multifaceted roles including anti-air and anti-submarine warfare, INS Mahendragiri bolsters India's strategic foothold in the Indo-Pacific, aligning perfectly with the country's ambitious naval modernisation agenda.",
-    "img": "https://static.toiimg.com/photo/msid-132332011,imgsize-253656.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/mighty-majestic-matchless-the-stealth-frigates-redefining-indias-maritime-power/articleshow/132331258.cms",
-    "time": "2026-07-11T13:50:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay's ‘Jana Nayagan’ drop fierce new poster",
-    "desc": "Thalapathy Vijay's new movie Jana Nayagan has been granted an 'A' certificate by the CBFC, allowing for a mature audience. A fresh poster has been unveiled, capturing Vijay in an intense persona. Many believe this film marks Vijay's last major role before he shifts focus to a political career. The film is set to hit theaters on July 24th and boasts an ensemble cast along with special cameo roles.",
-    "img": "https://static.toiimg.com/photo/msid-132331312,imgsize-303868.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-makers-drop-powerful-new-poster-featuring-thalapathy-vijay-ahead-of-release-film-receives-a-certification/articleshow/132331178.cms",
-    "time": "2026-07-11T13:19:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Everyone comes with their own demons’",
-    "desc": "On Koffee with Karan, Samantha Ruth Prabhu spoke honestly about the topic of nepotism, remarking that every actor faces individual struggles. Starting her career as a model, she soon transitioned to acting with her debut in the Tamil movie Ye Maaya Chesave, where she has since risen to prominence in the film world.",
-    "img": "https://static.toiimg.com/photo/msid-132331409,imgsize-222022.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/when-samantha-ruth-prabhu-addressed-nepotism-in-tollywood-everyone-comes-with-their-own-demons/articleshow/132331364.cms",
-    "time": "2026-07-11T13:14:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ashish predicts hit run for Christopher Nolan's The Odyssey",
-    "desc": "Ashish Chanchlani attended an exclusive Mumbai premiere of Christopher Nolan's 'The Odyssey' and called it a \"10/10,\" praising it as a \"pure Matt Damon show\" with no boring scenes. He predicted a blockbuster run, lauded the VFX, and said the film's emotional depth would silence critics and audiences alike.",
-    "img": "https://static.toiimg.com/photo/msid-132331259,imgsize-215780.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/picture-mein-ek-minute-boring-scene-nahi-hai-ashish-chanchlani-predicts-blockbuster-run-for-christopher-nolans-the-odyssey/articleshow/132331259.cms",
-    "time": "2026-07-11T13:02:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vedang Raina gets candid about his relationship status",
-    "desc": "Recently, Vedang Raina confirmed his single status during an engaging interview where he also celebrated the acclaim received for his performance in 'Main Vaapas Aaunga'. Initially, the film struggled at the box office, but it eventually found success, with Raina shining as the younger version of Naseeruddin Shah's character. He shared his aspirations to collaborate with iconic filmmakers like Christopher Nolan and Martin Scorsese in future projects.",
-    "img": "https://static.toiimg.com/photo/msid-132330912,imgsize-247590.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/is-vedang-raina-dating-actor-finally-spills-the-beans-on-his-relationship-status-talks-about-main-vaapas-aaunga-and-dream-directors/articleshow/132330855.cms",
-    "time": "2026-07-11T12:38:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Providing all possible assistance': PM Modi after Vietnam boat accident claims 15 Indian lives",
-    "desc": "Fifteen Indian tourists died in a tragic speedboat accident near Vietnam's Phu Quoc Island. Several other tourists sustained injuries during the unfortunate maritime incident. Prime Minister Narendra Modi expressed deep sorrow and offered condolences to affected families. The government is providing full support and coordinating with Vietnamese authorities. Search and rescue operations were conducted by local authorities after the boat capsized.",
-    "img": "https://static.toiimg.com/photo/msid-132330810,imgsize-1112249.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/providing-all-possible-assistance-pm-modi-after-vietnam-boat-accident-claims-15-indian-lives/articleshow/132330664.cms",
-    "time": "2026-07-11T12:30:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Beyoncé, Blue Ivy join Jay Z for his 30th anniversary concert",
-    "desc": "In a spectacular launch of his anniversary concert series, Jay-Z surprised fans with special guest performances. The highlight came when his wife, Beyoncé, graced the stage for a moving rendition of 'Can't Knock the Hustle'. Their daughter Blue Ivy later wowed the audience with her performance of 'Feelin It'. This event not only honored Jay-Z's influential albums from 1996 and 2001 but also showcased the family's love for musical expression.",
-    "img": "https://static.toiimg.com/photo/msid-132330535,imgsize-185012.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/beyonc-and-blue-ivy-join-jay-z-on-stage-for-surprise-performance-sings-cant-knock-the-hustle-and-feelin-it-with-his-family/articleshow/132330282.cms",
-    "time": "2026-07-11T12:25:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India settle for silver after Colombia clinch women's compound team title at Archery WC stage 4",
     "desc": "India opened their medal account at the Archery World Cup Stage 4 with silver after Jyothi Surekha Vennam, Prithika Pradeep and Chikitha Taniparthi lost 228-232 to Colombia in the women's compound team final. Teenager Prithika impressed, while Colombia's Alejandra Usquiano starred. India remain in contention for more medals through Prithika and recurve archer Kirti Sharma.",
@@ -495,15 +585,6 @@ const newsData_en = [
     "time": "2026-07-11T12:04:25.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Gary Cooper",
-    "desc": "Celebrating the essence of independent thought, Gary Cooper's quote reflects those who change the world. He embarked on his acting career early, rapidly rising to fame and securing his status as a top-paid film star. Over his career, Cooper featured in more than a hundred movies, with 'High Noon' as a standout. His background was steeped in ranching and cowboy culture prior to entering Hollywood.",
-    "img": "https://static.toiimg.com/photo/msid-132329812,imgsize-72364.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-gary-cooper-one-man-who-saw-through-his-own-eyes-and-thought-with-his-own-brain-such-men-may-be-rare-but-they-move-the-world-when-the-late-hollywood-star-explained-the-importance-of-having-your-own-voice-through-a-dialogue-from-the-fountainhead/articleshow/132329753.cms",
-    "time": "2026-07-11T11:32:53.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Viking Row' fever grips Miami before Norway's historic clash against England",
     "desc": "Norway fans transform Miami Beach into a vibrant celebration before their World Cup quarter-final match. The \"Viking Row\" tradition has become a viral sensation, drawing local and tourist participation. Star striker Erling Haaland leads Norway's potent attack, which also features other talented players. England enters the game with confidence after a dramatic victory in their previous match. Both teams will contend with Miami's heat and humidity in this historic fixture.",
@@ -511,24 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/watch-viking-row-fever-grips-miami-before-norways-historic-world-cup-clash-against-england/articleshow/132329493.cms",
     "time": "2026-07-11T11:26:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Alia sets the dance floor on fire with Maahi Ve at Akansha sangeet",
-    "desc": "Alia Bhatt danced to 'Maahi Ve' at BFF Akansha Ranjan Kapoor's sangeet in Mumbai, wearing a purple silk saree. Akansha, marrying filmmaker Sharan Sharma on July 11, has chosen a private court marriage over a grand wedding. Alia was last seen in 'Alpha' and will next star in 'Love & War'.",
-    "img": "https://static.toiimg.com/photo/msid-132329376,imgsize-107207.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alia-bhatt-sets-the-dance-floor-on-fire-with-maahi-ve-at-bff-akansha-ranjans-sangeet-watch/articleshow/132329376.cms",
-    "time": "2026-07-11T11:16:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Prithviraj reveals why he quit risky stunts",
-    "desc": "Malayalam actor Prithviraj Sukumaran now avoids risky stunts after a severe knee injury in 2023. This accident required three surgeries and significantly delayed a film production. He also witnessed a stunt performer's serious injury on the set of 'I, Nobody'. Sukumaran still enjoys action sequences, praising the stunt coordinator's realistic work. The film 'I, Nobody' offers dynamic action and keeps audiences engaged throughout.",
-    "img": "https://static.toiimg.com/photo/msid-132329358,imgsize-603608.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/i-have-three-titanium-screws-in-my-left-leg-prithviraj-sukumaran-reveals-why-he-stopped-performing-risky-stunts-after-a-serious-injury/articleshow/132329312.cms",
-    "time": "2026-07-11T11:13:37.000Z"
   },
   {
     "cat": "Sports",
@@ -565,15 +628,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/russias-missile-strike-on-kyiv-leaving-several-injured/article71209623.ece",
     "time": "2026-07-11T10:20:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "property records show ₹3.5cr deal",
-    "desc": "Bollywood actor Salman Khan sold a Bandra West apartment for Rs 3.50 crore. This property was originally purchased by Khan in 2015 for Rs 2.88 crore. The apartment features 758 square feet of carpet area and two parking spaces. Munira Akberali Dandawala and others jointly purchased the property from the actor. Khan continues to reside in Bandra and has several upcoming film projects.",
-    "img": "https://static.toiimg.com/photo/msid-132328378,imgsize-320801.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-sells-bandra-apartment-actor-bags-rs-3-50-crore-deal-reports/articleshow/132328375.cms",
-    "time": "2026-07-11T09:59:02.000Z"
   },
   {
     "cat": "Entertainment",
@@ -628,15 +682,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/the-unfulfilled-solar-promise-of-india-and-germany/article71206840.ece",
     "time": "2026-07-11T08:09:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harmanpreet Kaur becomes first Indian to...",
-    "desc": "Harmanpreet Kaur achieved a unique milestone by scoring a fifty at Lord's. She became the first Indian to score fifties in Tests, ODIs, and T20Is there. Smriti Mandhana also contributed significantly with a score of 83 runs. India posted 285 runs in their first innings after a strong partnership. England finished the opening day on 21 for 1, trailing by 264 runs.",
-    "img": "https://static.toiimg.com/photo/msid-132326155,imgsize-113462.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/no-virat-kohli-no-sachin-tendulkar-harmanpreet-kaur-becomes-first-indian-to-score-fifty-in-all-three-formats-at-lords/articleshow/132326157.cms",
-    "time": "2026-07-11T07:15:09.000Z"
   },
   {
     "cat": "World",
@@ -700,15 +745,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/beast-haaland-a-different-player-to-me-says-kane/article71209309.ece",
     "time": "2026-07-11T03:25:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mikel Merino creates FIFA World Cup history, becomes first player to...",
-    "desc": "Mikel Merino scored another decisive late goal for Spain against Belgium. This victory propelled La Roja into the FIFA World Cup 2026 semifinals. Merino's impactful substitute appearances have now made World Cup history. Spain will face France in their next crucial tournament match. The team's unbeaten run in regular time now extends significantly.",
-    "img": "https://static.toiimg.com/photo/msid-132323920,imgsize-145846.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/mikel-merino-creates-fifa-world-cup-history-becomes-first-player-to-score-winning-goals-as-substitute-in-two-knockout-matches/articleshow/132323928.cms",
-    "time": "2026-07-11T03:10:41.000Z"
   },
   {
     "cat": "World",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/jana-nayagan-gets-a-certificate-likely-to-release-in-theatres-on-july-24/article71203461.ece",
     "time": "2026-07-10T04:13:44.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "CBI files first chargesheet in Reliance Home Finance Limited case; cites ₹3,526 crore loss",
-    "desc": "The agency has registered seven First Information Reports against Reliance Communications Limited (RCOM), Reliance Home Finance Limited (RHFL), Reliance Commercial Finance Limited (RCFL) and Reliance Telecom Limited (RTL) based on complaints received from various public sector banks and LIC",
-    "img": "https://th-i.thgim.com/public/incoming/poe2tv/article71203079.ece/alternates/LANDSCAPE_1200/CBI-files-chargGOCG7G67O.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/cbi-files-first-chargesheet-in-reliance-home-finance-limited-case-cites-3526-crore-loss/article71202925.ece",
-    "time": "2026-07-09T16:15:49.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "PM Modi praises Australia’s social media ban for minors",
-    "desc": "In the clearest signal so far that India is deliberating on restrictions for social media use among minors, Mr. Modi told his Australian counterpart that the country’s work on social media 'is inspiring the world’",
-    "img": "https://th-i.thgim.com/public/incoming/2fqvz2/article71202194.ece/alternates/LANDSCAPE_1200/PTI07_09_2026_000340B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/pm-narendra-modi-praises-australias-social-media-ban-for-minors/article71202133.ece",
-    "time": "2026-07-09T16:08:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Remembering the director who created generations of actors",
-    "desc": "Discovered by Ebrahim Alkazi and mentored by Adi Marzban, the thespian leaves behind a legacy of actors — Nana Patekar, Ashok Saraf, Neena Kulkarni, Vikram Gokhale, Reema Lagoo and Bharati Achrekar — all shaped by her vision.",
-    "img": "https://th-i.thgim.com/public/entertainment/music/7ovdd9/article71193308.ece/alternates/LANDSCAPE_1200/10fr_Vijata-Mehta%20bw.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/theatre/vijaya-mehta-the-woman-who-reshaped-contemporary-marathi-theatre/article71192847.ece",
-    "time": "2026-07-09T08:59:38.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "AI poses a relatively lower risk to India’s GCC jobs, but no time for complacency: CEA",
-    "desc": "Speaking at a GCC Business Summit, Chief Economic Adviser Nageswaran said that most of India’s GCCs are engaged in cutting-edge work rather than providing low-cost support, which is what AI can easily and cheaply replace",
-    "img": "https://th-i.thgim.com/public/incoming/jkh447/article71201239.ece/alternates/LANDSCAPE_1200/HMxBw_DbQAARW8s.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/ai-poses-a-relatively-lower-risk-to-indias-gcc-jobs-but-no-time-for-complacency-cea/article71201197.ece",
-    "time": "2026-07-09T06:57:14.000Z"
   }
 ];

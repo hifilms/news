@@ -1,7 +1,25 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Schjelderup scores banger as Norway take 1-0 lead in first half",
+    "title": "Jude Bellingham's brace propels England to FIFA World Cup 2026 semi-finals as Norway's dream run ends",
+    "desc": "England put forth a magnificent performance in the quarter-final of the ongoing FIFA World Cup 2026. The side took on high-flying Norway in the clash and managed to register a 2-1 victory, and once again...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/jude-bellingham-s-brace-propels-england-to-fifa-world-cup-2026-semi-finals-as-norway-s-dream-run-ends-2026-07-12-1047968",
+    "time": "2026-07-12T02:13:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Argentina take early lead, Switzerland in trouble",
+    "desc": "Argentina and Switzerland are taking on each other in the quarter-final of the ongoing FIFA World Cup 2026. The clash sees defending champions Argentina taking on Switzerland in the Kansas City Stadium, and both sides...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/arg-vs-sui-fifa-world-cup-live-lionel-messi-in-action-as-argentina-look-to-book-semi-final-berth-1047963",
+    "time": "2026-07-12T00:54:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jude Bellingham's brace saves England, they beat Norway to qualify for semis",
     "desc": "England will aim to move one step closer to ending their 60-year FIFA World Cup title drought when they face Norway in the quarter-finals at Hard Rock Stadium in Miami in the early hours of...",
     "img": "",
     "src": "indiatvnews.com",
@@ -28,7 +46,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Karnti Gaud creates history with five-wicket haul in one-off Test against England at Lord's",
+    "title": "Kranti Gaud creates history with five-wicket haul in one-off Test against England at Lord's",
     "desc": "India pacer Kranti Gaud produced a historic show in the one-off Test against England at Lord’s by claiming a five-wicket haul. Courtesy of her dominating spell, England were out for 170 on day two, allowing...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/south-africa-midfielder-tragically-dies-at-25-after-representing-nation-in-fifa-world-cup-2026-2026-07-11-1047942",
     "time": "2026-07-11T14:51:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Vaibhav Sooryavanshi not playing India vs England 5th T20I in Southampton?",
-    "desc": "India and England are taking on each other in the fifth and final T20I of the ongoing series. The two sides meet at the Rose Bowl in Southampton on July 11th, and with the Indian...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-vaibhav-sooryavanshi-not-playing-india-vs-england-5th-t20i-in-southampton-2026-07-11-1047940",
-    "time": "2026-07-11T14:15:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why has the toss been delayed ahead of 5th T20I between India and England despite clear weather? Check details",
-    "desc": "India and England are taking on each other in the fifth and final T20I of the ongoing series. The two sides are slated to meet at the Rose Bowl in Southampton on July 11th, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-has-the-toss-been-delayed-ahead-of-5th-t20i-between-india-and-england-despite-clear-weather-check-details-2026-07-11-1047934",
-    "time": "2026-07-11T13:18:08.000Z"
   }
 ];
