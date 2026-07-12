@@ -1,12 +1,264 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Semifinals and final — schedule and timings in IST",
+    "desc": "Who has progressed in the knockouts of the FIFA World Cup? And when are the matches being played? The Trionda has enthralled FIFA fans this time in the USA, Canada, and Mexico. The final of this World Cup will be played on July 20 at 12.30 am I.S.T at the MetLife Stadium in New Jersey.",
+    "img": "https://th-i.thgim.com/public/incoming/he4teh/article71192575.ece/alternates/LANDSCAPE_1200/trophy.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-track-to-quarter-finals-schedule-fixtures-france-morocco-spain-belgium-norway-england-argentina-switzerland/article71188709.ece",
+    "time": "2026-07-12T05:46:24.000Z"
+  },
+  {
     "cat": "World",
     "title": "U.S. launches strikes on Iran after attack on civilian vessel in Strait of Hormuz",
     "desc": "U.S. Central Command said a short time later that its forces began a third round of strikes against Iran. There were explosions in Bandar Abbas and Sirik, two towns along the shores of the strait, Iran state media reported.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-ceasefire-donald-trump-tehran-attacks-strait-of-hormuz-ships-live-updates-july-12-2026/article71212951.ece",
-    "time": "2026-07-12T02:01:50.000Z"
+    "time": "2026-07-12T05:39:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Trisha shares heartbreaking note and rare BTS moments from '96'",
+    "desc": "Actress Trisha Krishnan shared a heartfelt note remembering legendary singer S. Janaki. She also released rare behind-the-scenes photos from the film '96. S. Janaki appeared in a deleted scene which fans later saw and discussed. This scene was removed from the final cut due to runtime constraints. Fans hope her memory will be honored in the upcoming '96 sequel.",
+    "img": "https://static.toiimg.com/photo/msid-132341153,imgsize-184938.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rest-peacefully-janaki-amma-trisha-krishnan-shares-heartbreaking-note-and-rare-bts-moments-with-humblest-soul-s-janaki-from-vijay-sethupathi-starrer-96/articleshow/132341107.cms",
+    "time": "2026-07-12T05:29:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "S. Janaki’s fresh voice, improvisation made Kerala groove to her tunes",
+    "desc": "Janaki inimitably lent her voice to numerous evergreen Malayalam film songs from the 1960s to the 1990s. Songs such as Manjanikombil, Thenum Vayambum, Nadha Nee varum, Manassiluranroo, Akale Akale Neelakasham, Ilam Manjin have retained their freshness and ability to influence the listener.",
+    "img": "https://th-i.thgim.com/public/incoming/u9vf83/article71211715.ece/alternates/LANDSCAPE_1200/p.susheela_honoured_5.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/s-janakis-voice-was-like-a-whiff-of-fresh-air/article71211439.ece",
+    "time": "2026-07-12T05:24:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "S. Janaki — Voice of the south",
+    "desc": "Janaki sang in Hindi and Sinhala too, but it was in the South Indian languages that she carved a niche. Her rendition was infused with love and pathos, and was often a hat-tip to bygone times",
+    "img": "https://th-i.thgim.com/public/incoming/3vmhnm/article71213057.ece/alternates/LANDSCAPE_1200/S.-Janaki-the-GLSG83R57.7.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/music/the-voice-of-the-south/article71211468.ece",
+    "time": "2026-07-12T05:21:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Obsession' OTT release: Horror drama locks Netflix premiere date",
+    "desc": "The highly anticipated horror film 'Obsession' is making its way to Netflix soon. Set to premiere on this popular streaming service in November 2026, this record-breaking thriller follows a college student's wish that spirals into terrifying consequences. In the meantime, audiences can still rent or purchase the movie through premium video-on-demand platforms while it enjoys an extended theatrical run.",
+    "img": "https://static.toiimg.com/photo/msid-132341012,imgsize-108180.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/obsession-ott-release-horror-drama-locks-netflix-premiere-date/articleshow/132340957.cms",
+    "time": "2026-07-12T05:19:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ben Dwarshuis' late blitz keeps Washington Freedom alive, ends Texas Super Kings' playoff hopes",
+    "desc": "Ben Dwarshuis's explosive batting secured Washington Freedom a thrilling three-wicket win. This victory kept Washington Freedom firmly in the playoff race contention. Texas Super Kings were eliminated from the tournament after this crucial loss. Earlier, Faf du Plessis led Texas Super Kings to a competitive total. Washington Freedom's chase saw a dramatic collapse before Dwarshuis's heroics.",
+    "img": "https://static.toiimg.com/photo/msid-132341024,imgsize-666196.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/major-league-cricket/ben-dwarshuis-late-blitz-keeps-washington-freedom-alive-ends-texas-super-kings-playoff-hopes/articleshow/132341016.cms",
+    "time": "2026-07-12T05:18:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "News in Frames",
+    "desc": "The centuries-old Amarnath Yatra, a Hindu pilgrimage through the Himalayas’ treacherous terrain, is more than a religious tradition as it brings thousands of people on a shared path; the 57-day journey, which also supports the livelihoods of many, carries a powerful message of harmony and compassion in an increasingly polarised world",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/news-in-frames-a-sacred-trail-of-faith-and-fellowship/article71213156.ece",
+    "time": "2026-07-12T05:04:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhamaal 4' box office: Ajay Devgn's film makes over Rs 50 cr globally in two days",
+    "desc": "In an exciting turn of events, Dhamaal 4 has dominated the box office scene during its opening weekend, amassing more than fifty crore rupees across the globe within just two days. Its second day showcased a remarkable sixty percent rise in revenue, leading to an impressive domestic net total of thirty-six point five crore rupees. Competing films faced a tough challenge, as Dhamaal 4 emerged victoriously.",
+    "img": "https://static.toiimg.com/photo/msid-132340830,imgsize-311865.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhamaal-4-box-office-collection-day-2-ajay-devgns-comedy-records-a-strong-opening-weekend-with-rs-50-crore-worldwide/articleshow/132340830.cms",
+    "time": "2026-07-12T04:57:17.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Mojtaba vows revenge for father’s killing after Trump’s new threat",
+    "desc": "‘Vengeance is the will of our nation and must inevitably be carried out,’ says Iran’s Supreme Leader in a written message; earlier Trump had said any attempt to assassinate him would lead the U.S. to ‘completely decimate’ Iran",
+    "img": "https://th-i.thgim.com/public/incoming/1broj4/article71210365.ece/alternates/LANDSCAPE_1200/2026-07-06T125353Z_276076981_RC2V4LA24HZV_RTRMADP_3_IRAN-CRISIS-MOJTABA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/irans-supreme-leader-pledges-revenge-for-slain-father-and-predecessor/article71210345.ece",
+    "time": "2026-07-12T04:47:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harry Kane, Jude Bellingham script FIFA World Cup history, become first pair to...",
+    "desc": "Harry Kane and Jude Bellingham achieved a historic World Cup scoring milestone for England. Bellingham scored twice in the quarterfinal victory, securing a semifinal berth for the team. Their combined six goals each set a new tournament benchmark for teammates from one nation. England defeated Norway in extra time, ending Haaland's scoring streak. The Three Lions now face Argentina in their quest for a World Cup final.",
+    "img": "https://static.toiimg.com/photo/msid-132340785,imgsize-111054.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/harry-kane-jude-bellingham-script-fifa-world-cup-history-become-first-pair-to-score-six-goals-each-for-same-nation/articleshow/132340784.cms",
+    "time": "2026-07-12T04:43:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Prince Harry on how he honours Princess Diana's memory",
+    "desc": "Prince Harry shared a heartfelt family custom of making lemon drizzle cake, a tribute to his beloved mother, Princess Diana, on meaningful occasions. During a charity event, he engaged with young participants and opened up about his journey through grief. Recently, the Duke enjoyed a warm family reunion with the King and Queen, highlighting the unity despite challenges.",
+    "img": "https://static.toiimg.com/photo/msid-132340704,imgsize-146696.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/prince-harry-reveals-the-sweet-tradition-he-meghan-markle-and-their-kids-prince-archie-and-princess-lilibet-follow-to-honour-princess-diana-on-her-birthday-and-death-anniversary-each-year/articleshow/132340608.cms",
+    "time": "2026-07-12T04:38:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Alvarez's extra-time strike sends Argentina into semis",
+    "desc": "Defending champions Argentina secured a 3-1 victory over Switzerland after extra time. Alexis Mac Allister opened the scoring for Argentina in the tenth minute. Switzerland equalized in the second half, but a red card changed the match dynamics. Julian Alvarez and Lautaro Martinez scored in extra time to seal the win. Argentina will now face England in the semifinals on Wednesday.",
+    "img": "https://static.toiimg.com/photo/msid-132340712,imgsize-92809.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/argentina-vs-switzerland-fifa-world-cup-qf-match-result-julian-alvarezs-extra-time-strike-sends-argentina-into-last-four/articleshow/132340585.cms",
+    "time": "2026-07-12T04:32:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "One-fourth of India’s monsoon rain evaporates mid-air, says new study",
+    "desc": "Researchers at IITM Pune say 25% of the rain mass evaporates during June to September; this may vary across regions; the finding will help scientists refine weather and climate models and better understand the monsoon",
+    "img": "https://th-i.thgim.com/public/incoming/wmecbw/article71211526.ece/alternates/LANDSCAPE_1200/IMG_Bisle_Ghat__Western__2_1_28C4T36P.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/one-fourth-of-indias-monsoon-rain-evaporates-mid-air-says-new-study/article71210939.ece",
+    "time": "2026-07-12T04:07:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Amit Shah assures church leaders that FCRA Bill will not be applied retrospectively",
+    "desc": "In the meeting held with Mr. Shah, the Minister asked the church leaders to file FIRs in all cases of aggression against the community, urges them to broker peace in Manipur and also reassured them that the Bill was not against any religious community",
+    "img": "https://th-i.thgim.com/public/news/national/tilrcd/article71211432.ece/alternates/LANDSCAPE_1200/ab1b7a4a-679e-4f3c-a727-619f43fb5fff.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/amit-shah-assures-church-leaders-that-fcra-bill-will-not-be-applied-retrospectively/article71210969.ece",
+    "time": "2026-07-12T04:02:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shreyas Iyer joins unwanted list after seventh straight defeat as India captain",
+    "desc": "Shreyas Iyer's captaincy saw another loss as England secured a dominant series victory. England posted a massive 257 runs, powered by Buttler and Brook's record partnership. India's bowlers struggled significantly throughout the entire innings. Chasing a large target, India's batting showed some fight but fell short. This defeat ended India's long reign at the top of T20I rankings.",
+    "img": "https://static.toiimg.com/photo/msid-132340364,imgsize-148274.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/shreyas-iyer-joins-unwanted-list-after-seventh-straight-defeat-as-india-captain/articleshow/132340363.cms",
+    "time": "2026-07-12T03:49:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Erling Haaland's father can't hide feelings with savage five-word dig after England end Norway's World Cup dream",
+    "desc": "Alfie Haaland appeared to question the officiating after Norway's dramatic World Cup quarter-final defeat to England, posting a pointed five-word message on social media. His reaction came after a match dominated by controversial VAR decisions, including Jude Bellingham's debated equaliser, which FIFA later confirmed was correctly awarded using connected ball technology, before also criticising Norway's attacking decision-making.",
+    "img": "https://static.toiimg.com/photo/msid-132340407,imgsize-681042.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/erling-haalands-father-cant-hide-feelings-with-savage-five-word-dig-after-england-end-norways-world-cup-dream/articleshow/132340087.cms",
+    "time": "2026-07-12T03:48:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All about Tini Stoessel, Rodrigo De Paul's pop star fiancée",
+    "desc": "In an exciting turn, Argentine soccer sensation Rodrigo De Paul is now engaged to pop star Tini Stoessel. Their love story began in August 2022 but hit a bump with a temporary split. However, the pair reignited their connection in 2025 and were spotted together again. De Paul joyfully revealed their engagement in May 2026, referring to Stoessel as his life partner, celebrating her remarkable achievements in the entertainment industry.",
+    "img": "https://static.toiimg.com/photo/msid-132340392,imgsize-192708.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/who-is-tini-stoessel-all-about-argentine-soccer-star-rodrigo-de-pauls-pop-star-fiance/articleshow/132340360.cms",
+    "time": "2026-07-12T03:47:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jos Buttler scripts history, overtakes MS Dhoni to become...",
+    "desc": "Jos Buttler became the wicketkeeper with the most international sixes, surpassing MS Dhoni. He achieved this milestone during his impressive 131-run innings against India. Buttler's sensational knock helped England secure a dominant series victory over their opponents. The England batter's record-breaking performance highlighted his destructive batting capabilities. This achievement adds another significant record to Buttler's illustrious career.",
+    "img": "https://static.toiimg.com/photo/msid-132340174,imgsize-133538.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/jos-buttler-scripts-history-overtakes-ms-dhoni-to-become-wicketkeeper-with-most-international-sixes/articleshow/132340176.cms",
+    "time": "2026-07-12T03:14:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jennifer Nettles on Taylor Swift and Travis Kelce's wedding",
+    "desc": "Singer Jennifer Nettles shared her heartfelt thoughts on Taylor Swift and Travis Kelce's wedding, describing the event as profoundly significant. Attending the private celebration at Madison Square Garden surprised her, especially with roughly one thousand guests present. Nettles reflected on her admiration for Swift's creative talent, feeling honored to witness this important moment and wishing the couple all the happiness in their journey together.",
+    "img": "https://static.toiimg.com/photo/msid-132340135,imgsize-119594.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/jennifer-nettles-on-witnessing-taylor-swift-and-travis-kelces-wedding-to-be-even-a-small-part-of-their-story-for-me-was-super-special/articleshow/132340122.cms",
+    "time": "2026-07-12T03:06:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mohanlal-Krishand film in the works",
+    "desc": "Mohanlal and director Krishand are reportedly collaborating on a new film. Actor-producer Maniyanpilla Raju confirmed the project is in development. The film aims to be a commercial entertainer in the spirit of Chotta Mumbai. Niyog is currently writing the script, with the first draft ready. Mohanlal has several other projects currently in production.",
+    "img": "https://static.toiimg.com/photo/msid-132340109,imgsize-79014.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/mohanlal-krishand-film-in-the-works-maniyanpilla-raju-says-the-film-will-be-a-commercial-entertainer-like-chotta-mumbai/articleshow/132340096.cms",
+    "time": "2026-07-12T02:55:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "PM Modi pays tribute to veteran singer S. Janaki",
+    "desc": "Playback legend S. Janaki passed away at eighty-eight years old. Prime Minister Narendra Modi paid tribute to the singer. He called her passing an irreparable loss to music and culture. Janaki sang thousands of songs in seventeen languages over six decades. Her versatile voice and melodies will continue to enchant listeners.",
+    "img": "https://static.toiimg.com/photo/msid-132340102,imgsize-125368.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/pm-modi-pays-tribute-to-veteran-singer-s-janaki-says-her-passing-is-an-irreparable-loss-to-music/articleshow/132340097.cms",
+    "time": "2026-07-12T02:54:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "DYK? S. Janaki sang in three different voices for a single Tamil song",
+    "desc": "Legendary playback singer S. Janaki has passed away after a long career. She sang thousands of songs in many Indian languages. Janaki demonstrated extraordinary talent by singing three distinct voices in one song. This rare feat showcased her remarkable vocal flexibility and artistry. Her enduring legacy will continue to inspire musicians and listeners.",
+    "img": "https://static.toiimg.com/photo/msid-132340066,imgsize-70370.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/did-you-know-s-janaki-sang-in-three-different-voices-for-a-single-tamil-song/articleshow/132340047.cms",
+    "time": "2026-07-12T02:47:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dimple Kapadia's granddaughter Naomika Saran graces the red carpet at ‘The Odyssey’ premiere",
+    "desc": "At the Mumbai premiere, Dimple Kapadia and her granddaughter Naomika Saran made a dazzling appearance on the red carpet. Naomika, who is gearing up for her Bollywood debut, captivated everyone in a beautiful black saree. Hollywood stars Christopher Nolan, Matt Damon, and Tom Holland were also present, mingling with fans and signing autographs. Their film, 'The Odyssey,' an adaptation of Homer's timeless work, is slated for release on July 17.",
+    "img": "https://static.toiimg.com/photo/msid-132340074,imgsize-182948.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/naomika-saran-dimple-kapadias-granddaughter-brings-effortless-elegance-in-a-black-saree-at-the-odyssey-mumbai-premiere/articleshow/132340057.cms",
+    "time": "2026-07-12T02:46:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shivam Dube's big blunder turns the game in England's favour",
+    "desc": "England secured a commanding 56-run victory in the final T20I match. Harry Brook and Jos Buttler's partnership proved decisive for the hosts. India's fielding lapses provided crucial lifelines to the English batsmen. This defeat resulted in India losing their top T20I ranking. England completed a dominant 4-0 series sweep over India.",
+    "img": "https://static.toiimg.com/photo/msid-132340028,imgsize-40423.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/ind-vs-eng-5th-t20i-shivam-dubes-big-blunder-turns-the-game-in-englands-favour-harry-brook/articleshow/132340023.cms",
+    "time": "2026-07-12T02:36:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Police squad attacked in Kozhikode; five suspected goons arrested",
+    "desc": "According to police sources, the confrontation took place at Peruvayal near Mavoor in Kozhikode city around 9 a.m. when the police squad, acting on precise location data, zeroed in on the suspects at a local villa",
+    "img": "https://th-i.thgim.com/public/incoming/uf47ie/article71212995.ece/alternates/LANDSCAPE_1200/IMG_IMG_vbk-HANDCUFF-arr_2_1_75FST1AB.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/police-squad-attacked-in-kozhikode-five-suspected-goons-arrested/article71209626.ece",
+    "time": "2026-07-12T02:32:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lionel Messi scripts FIFA World Cup history, becomes first player to...",
+    "desc": "Lionel Messi achieved a historic FIFA World Cup milestone on Saturday. He became the first player with ten assists in the tournament's history. This remarkable feat occurred during Argentina's quarterfinal match against Switzerland. Messi's assist moved him past Diego Maradona on the all-time charts. Argentina continues its pursuit of a fourth World Cup title.",
+    "img": "https://static.toiimg.com/photo/msid-132339964,imgsize-86170.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/lionel-messi-scripts-history-becomes-first-player-to-record-10-world-cup-assists/articleshow/132339968.cms",
+    "time": "2026-07-12T02:21:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "FIFA releases 'ball heartbeat' evidence to clear Jude Bellingham's controversial England equaliser against Norway",
+    "desc": "FIFA has cleared up the controversy surrounding Jude Bellingham’s equaliser in England’s dramatic World Cup 2026 win over Norway, confirming connected ball technology found no evidence the ball struck an overhead camera cable. The ruling explains why the goal stood, despite footage sparking debate and frustration from Norway. England ultimately advanced to the semi-finals after a 2-1 extra-time victory.",
+    "img": "https://static.toiimg.com/photo/msid-132339967,imgsize-119246.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-releases-ball-heartbeat-evidence-to-clear-jude-bellinghams-controversial-england-equaliser-against-norway/articleshow/132339801.cms",
+    "time": "2026-07-12T02:20:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India hit the ground running with Kohli, Gill holding a lengthy conversation",
+    "desc": "Virat Kohli, Shubman Gill, Rohit Sharma and KL Rahul were the batters involved in the session, while Jasprit Bumrah, Kuldeep Yadav and Gurnoor Brar led the bowling group. India also used the services of local net bowlers, including two spinners and a fast bowler, to replicate different match scenarios.",
+    "img": "https://static.toiimg.com/photo/msid-132339922,imgsize-96750.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/cues-from-the-nets-india-hit-the-ground-running-with-virat-kohli-shubman-gill-holding-a-lengthy-conversation/articleshow/132339909.cms",
+    "time": "2026-07-12T02:07:23.000Z"
   },
   {
     "cat": "Entertainment",
@@ -225,15 +477,6 @@ const newsData_en = [
     "time": "2026-07-11T19:48:33.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "S. Janaki’s fresh voice, improvisation made Kerala groove to her tunes",
-    "desc": "Janaki inimitably lent her voice to numerous evergreen Malayalam film songs from the 1960s to the 1990s. Songs such as Manjanikombil, Thenum Vayambum, Nadha Nee varum, Manassiluranroo, Akale Akale Neelakasham, Ilam Manjin have retained their freshness and ability to influence the listener.",
-    "img": "https://th-i.thgim.com/public/incoming/u9vf83/article71211715.ece/alternates/LANDSCAPE_1200/p.susheela_honoured_5.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/s-janakis-voice-was-like-a-whiff-of-fresh-air/article71211439.ece",
-    "time": "2026-07-11T19:48:08.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Wimbledon 2026",
     "desc": "The Italian will be meeting the German for the first time on grass. The defending Wimbledon champion will be keen to return to the winner’s circle at Majors while the latter will look for successive Slam wins",
@@ -241,15 +484,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/tennis/sinner-zverev-in-battle-of-power-hitters-for-the-top-prize/article71211127.ece",
     "time": "2026-07-11T19:47:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Petition filed against illegal screenings of Diljit Dosanjh's 'Satluj'",
-    "desc": "The film 'Satluj', previously titled 'Punjab 95', faces ongoing controversy after its removal from OTT. Alleged public screenings in Punjab and Jammu have prompted a legal challenge in court. A petition seeks action against organisers of these unauthorised film viewings. The advocate claims these screenings promote violence and hatred against communities. Authorities are urged to halt screenings and initiate strict legal action against organisers.",
-    "img": "https://static.toiimg.com/photo/msid-132337261,imgsize-253853.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/petition-to-immediately-stop-illegal-screenings-of-diljit-dosanjs-satluj-filed-in-high-court-advocate-alleges-it-is-being-done-to-spread-hatred/articleshow/132337158.cms",
-    "time": "2026-07-11T19:19:50.000Z"
   },
   {
     "cat": "Politics",
@@ -277,15 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/personnel-deptartment-cancels-fci-ed-suspension-terms-food-ministry-order-legally-non-existent/articleshow/132336756.cms",
     "time": "2026-07-11T18:39:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Suniel Shetty has hopes Hera Pheri 3 after 'Welcome To The Jungle' success: 'Something magical..'",
-    "desc": "Suniel Shetty remains hopeful for Hera Pheri 3's future production. He believes Welcome To The Jungle's success could help the comedy franchise. Nostalgia and recall value make Hera Pheri a significant career project. The actor also emphasized the importance of family entertainers for the industry. He credited Firoz Nadiadwala's vision for Welcome To The Jungle's positive reception.",
-    "img": "https://static.toiimg.com/photo/msid-132336470,imgsize-277631.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/despite-priyadarshans-exit-from-hera-pheri-3-suniel-shetty-now-says-he-has-hopes-for-it-after-welcome-to-the-jungle-success-something-magical-should-happen/articleshow/132336460.cms",
-    "time": "2026-07-11T18:24:32.000Z"
   },
   {
     "cat": "Sports",
@@ -324,15 +549,6 @@ const newsData_en = [
     "time": "2026-07-11T17:59:43.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Amit Shah assures church leaders that FCRA Bill will not be applied retrospectively",
-    "desc": "In the meeting held with Mr. Shah, the Minister asked the church leaders to file FIRs in all cases of aggression against the community, urges them to broker peace in Manipur and also reassured them that the Bill was not against any religious community",
-    "img": "https://th-i.thgim.com/public/news/national/tilrcd/article71211432.ece/alternates/LANDSCAPE_1200/ab1b7a4a-679e-4f3c-a727-619f43fb5fff.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/amit-shah-assures-church-leaders-that-fcra-bill-will-not-be-applied-retrospectively/article71210969.ece",
-    "time": "2026-07-11T17:58:31.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Students from the palmyrah belt turn the lens on life, landscape and labour",
     "desc": "An exhibition curated by photographer Palani Kumar at the Lalit Kala Akademi, Lives Among The Palms features over 300 photographs captured by seven students from Ramanathapuram, as they document the landscapes, labour, and challenges around them",
@@ -369,24 +585,6 @@ const newsData_en = [
     "time": "2026-07-11T17:33:17.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "R Madhavan earned Rs 70,000 to 80,000 when he taught public speaking before acting",
-    "desc": "Actor R Madhavan wrote his ambition to become rich and famous as a teenager. He believed in dreaming big and never limiting one's aspirations. Madhavan was teaching communication skills before acting came into his life. An unexpected street encounter led him to pursue a career in cinema. This chance meeting resulted in his debut in the successful film Alaipayuthey.",
-    "img": "https://static.toiimg.com/photo/msid-132335368,imgsize-231124.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-madhavan-earned-rs-70000-to-80000-when-he-first-came-to-mumbai-taught-communication-skills-thought-his-first-acting-job-was-a-scam-never-thought-amitabh-bachchan-would-call-to-wish-on-my-birthday/articleshow/132335369.cms",
-    "time": "2026-07-11T17:31:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Heavy to very heavy rain lashes parts of India",
-    "desc": "In Uttarakhand, heavy rainfall triggered landslides, blocking 120 roads, while around 100 pilgrims were escorted to safety across a washed-out stretch of the Yamunotri National Highway after the route remained cut off for two days",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/monsoon-rain-in-india-imd-weather-forecast-flood-rainfall-alerts-live-updates-july-11-2026/article71209337.ece",
-    "time": "2026-07-11T17:28:32.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'Be your own hero': Sonam Wangchuk rejects 'modern Gandhi' tag amid hunger strike",
     "desc": "Educator Sonam Wangchuk rejects hero labels and urges citizens to take responsibility. He is currently on an indefinite hunger strike at Jantar Mantar for 14 days. Wangchuk is protesting examination irregularities and seeking accountability from the government. He has lost significant weight and feels tired but remains determined. Wangchuk appeals for public support in the ongoing movement and upcoming march.",
@@ -403,69 +601,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-us-war-donald-trump-washington-tehran-peace-talks-west-asia-conflict-strait-of-hormuz-live-updates-july-11-2026/article71209275.ece",
     "time": "2026-07-11T17:21:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "One-fourth of India’s monsoon rain evaporates mid-air, says new study",
-    "desc": "Researchers at IITM Pune say 25% of the rain mass evaporates during June to September; this may vary across regions; the finding will help scientists refine weather and climate models and better understand the monsoon",
-    "img": "https://th-i.thgim.com/public/incoming/wmecbw/article71211526.ece/alternates/LANDSCAPE_1200/IMG_Bisle_Ghat__Western__2_1_28C4T36P.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/one-fourth-of-indias-monsoon-rain-evaporates-mid-air-says-new-study/article71210939.ece",
-    "time": "2026-07-11T17:19:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rajinikanth, CM Vijay, Kamal Haasan pour tributes as legendary singer S Janaki passes away",
-    "desc": "Legendary playback singer S Janaki passed away at the age of 88. Her extensive career spanned over 48,000 songs in many languages. Tributes poured in from across the Indian film industry. Rajinikanth and Kamal Haasan shared heartfelt messages remembering her voice. Her indelible mark on music will be cherished by generations.",
-    "img": "https://static.toiimg.com/photo/msid-132334961,imgsize-257467.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajinikanth-cm-vijay-kamal-haasan-and-others-pour-tributes-as-legendary-singer-s-janaki-passes-away-at-88-irreplaceable-loss-to-the-indian-music-world/articleshow/132334920.cms",
-    "time": "2026-07-11T17:17:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NIA chargesheets eight, including Pakistan-based  ‘terrorist’, in Ambala car blast case",
-    "desc": "Case relates to a car bomb blast in the parking area of a police station in Haryana in January; NIA alleges that Shehzad Bhatti had recruited and radicalised several through social media platforms and encrypted communication channels",
-    "img": "https://th-i.thgim.com/public/incoming/5esbap/article71211339.ece/alternates/LANDSCAPE_1200/NIA%20Security%2010%2004%20DELHI%2012.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/nia-chargesheets-eight-including-pakistan-based-terrorist-in-ambala-car-blast-case/article71211237.ece",
-    "time": "2026-07-11T17:15:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rapper TI confirms retirement after 'Kill The King'",
-    "desc": "Rapper TI has officially announced his retirement from the music scene following the release of his twelfth album, 'Kill the King.' Embracing a lifestyle that leans towards family time, he feels it's time to step back. TI expressed heartfelt gratitude to his fans for their support with this final endeavor, which was inspired by the wisdom of Big Boi.",
-    "img": "https://static.toiimg.com/photo/msid-132334954,imgsize-60556.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/ive-got-everything-i-prayed-for-rapper-ti-announces-retirement-from-music-after-12th-album-kill-the-king/articleshow/132334901.cms",
-    "time": "2026-07-11T17:14:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "J&K Police",
-    "desc": "Hizbul Mujahideen terrorist Imtiyaz Ahmad Kandoo alias Fayaz alias Sajad, who is the accused in the 2013 Hygam terror attack in Sopore that claimed the lives of four J&K Police personnel, is believed to have exfiltrated to Pakistan",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/sia-kashmir-secures-interpol-red-corner-notice-against-hizbul-terrorist/article71210210.ece",
-    "time": "2026-07-11T16:54:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "FIRST PICS",
-    "desc": "Actress Akansha Ranjan Kapoor and filmmaker Sharan Sharma recently married in a civil ceremony. The couple shared intimate glimpses from their special day on social media. Their love story began with a personal proposal during a trip to Alibaug. Pre-wedding festivities included a party at 38 Manhattan in Mumbai. Guests enjoyed comfort food after the evening's celebrations concluded.",
-    "img": "https://static.toiimg.com/photo/msid-132334617,imgsize-387757.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akansha-ranjan-kapoor-and-mr-and-mrs-mahi-director-sharan-sharma-are-officially-married-drop-first-pics-alia-bhatt-ananya-panday-and-others-shower-love/articleshow/132334606.cms",
-    "time": "2026-07-11T16:51:58.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Mojtaba vows revenge for father’s killing after Trump’s new threat",
-    "desc": "‘Vengeance is the will of our nation and must inevitably be carried out,’ says Iran’s Supreme Leader in a written message; earlier Trump had said any attempt to assassinate him would lead the U.S. to ‘completely decimate’ Iran",
-    "img": "https://th-i.thgim.com/public/incoming/1broj4/article71210365.ece/alternates/LANDSCAPE_1200/2026-07-06T125353Z_276076981_RC2V4LA24HZV_RTRMADP_3_IRAN-CRISIS-MOJTABA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/irans-supreme-leader-pledges-revenge-for-slain-father-and-predecessor/article71210345.ece",
-    "time": "2026-07-11T16:19:37.000Z"
   },
   {
     "cat": "Sports",
@@ -495,24 +630,6 @@ const newsData_en = [
     "time": "2026-07-11T15:47:21.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Tom Hanks",
-    "desc": "Tom Hanks, an acclaimed actor known for his remarkable work in both comedy and drama, has a film career that's truly remarkable. His famous line from 'Forrest Gump' emphasizes the unpredictable nature of life and the importance of acceptance. Starting in television, Hanks quickly transitioned to Hollywood stardom, earning two Academy Awards for his versatile performances. Beyond acting, he is also an accomplished writer and enjoys significant wealth.",
-    "img": "https://static.toiimg.com/photo/msid-132333319,imgsize-92678.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-tom-hanks-life-is-like-a-box-of-chocolates-you-never-know-what-youre-gonna-get-understanding-the-profound-lesson-on-uncertainty-laid-down-by-hollywood-veteran-through-forrest-gump-dialogue/articleshow/132333263.cms",
-    "time": "2026-07-11T15:28:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Legendary singer S Janaki, called Nightingale of South India passes away at 88",
-    "desc": "Veteran playback singer S Janaki, known as Nightingale of South India, passed away at 88. She died at Apollo Hospital in Mysuru after battling age-related health issues. Janaki Amma had declined the Padma Bhushan award in 2013, feeling it came too late. She received four National Film Awards and thirty-three State Film Awards during her career. The legendary singer had lent her voice to over twenty Indian languages.",
-    "img": "https://static.toiimg.com/photo/msid-132333158,imgsize-300428.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/legendary-singer-s-janaki-called-nightingale-of-south-india-passes-away-at-88-in-mysuru-due-to-age-related-ailments/articleshow/132333161.cms",
-    "time": "2026-07-11T15:05:37.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'Operation Lotus' in J&amp;K? CM Omar Abdullah claims BJP offered MLAs Rs 20-30 crore",
     "desc": "Jammu and Kashmir's Chief Minister Omar Abdullah condemned the Bharatiya Janata Party for what he called attempts to destabilize his administration. He revealed that BJP legislators were allegedly offered lucrative financial rewards and government positions to switch loyalties. Abdullah claimed the BJP's promises of statehood to National Conference MLAs were a tactic to sway them.",
@@ -540,42 +657,6 @@ const newsData_en = [
     "time": "2026-07-11T14:20:09.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Palaash Muchhal fails to get anticipatory bail in Rs 40 lakh cheating case",
-    "desc": "Singer Palaash Muchhal's anticipatory bail plea was rejected by a Sangli sessions court. This legal development follows an FIR filed by Vidnyan Mane concerning financial matters. Mane also accused Muchhal of cheating his former fiancée, Smriti Mandhana. The FIR includes allegations of caste-based derogatory remarks made by Muchhal. Muchhal's legal team plans to challenge the court's decision in a higher court.",
-    "img": "https://static.toiimg.com/photo/msid-132332445,imgsize-215686.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/palaash-mucchal-fails-to-get-anticipatory-bail-from-court-in-rs-40-lakh-cheating-case-filed-by-vidnyan-mane-his-lawyer-says-they-may-challenge-the-order/articleshow/132332292.cms",
-    "time": "2026-07-11T14:16:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sooryavanshi dropped, Samson returns as India opt to bowl in 5th T20I",
-    "desc": "India captain Shreyas Iyer won the toss and elected to bowl first against England. The team made two changes to their playing eleven for the final match. England captain Harry Brook aims for the world number one ranking with a victory. Adil Rashid is making his 150th T20I appearance for the English side. Both teams seek to finish the series strongly with their best efforts.",
-    "img": "https://static.toiimg.com/photo/msid-132332287,imgsize-26590.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/vaibhav-sooryavanshi-dropped-sanju-samson-returns-as-india-opt-to-bowl-in-5th-t20i/articleshow/132332253.cms",
-    "time": "2026-07-11T14:08:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Pawan Kalyan undergoes 3.5 hour shoulder surgery in Mumbai",
-    "desc": "Andhra Pradesh Deputy Chief Minister Pawan Kalyan had successful shoulder surgery in Mumbai. Doctors performed a three-and-a-half-hour procedure on his right shoulder. This surgery addressed severe rotator cuff injuries and an avulsion fracture. His injuries originally sustained in 2016 worsened over years of public interactions. Surgery for his left shoulder is planned in approximately two months.",
-    "img": "https://static.toiimg.com/photo/msid-132332117,imgsize-198557.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pawan-kalyan-undergoes-3-5-hour-shoulder-surgery-in-mumbai-after-being-diagnosed-with-severe-rotator-cuff-injuries/articleshow/132332115.cms",
-    "time": "2026-07-11T13:56:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India settle for silver after Colombia clinch women's compound team title at Archery WC stage 4",
-    "desc": "India opened their medal account at the Archery World Cup Stage 4 with silver after Jyothi Surekha Vennam, Prithika Pradeep and Chikitha Taniparthi lost 228-232 to Colombia in the women's compound team final. Teenager Prithika impressed, while Colombia's Alejandra Usquiano starred. India remain in contention for more medals through Prithika and recurve archer Kirti Sharma.",
-    "img": "https://static.toiimg.com/photo/msid-132330508,imgsize-102528.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/india-settle-for-silver-after-colombia-clinch-womens-compound-team-title-at-archery-world-cup-stage-4/articleshow/132330218.cms",
-    "time": "2026-07-11T12:22:36.000Z"
-  },
-  {
     "cat": "World",
     "title": "Boat carrying Indians capsizes in Vietnam; search under way",
     "desc": "At least 15 Indian tourists have tragically lost their lives and several others have been injured after a speedboat capsized near Phu Quoc Island in Vietnam on July 11. The vessel was reportedly carrying 32 Indian tourists and four crew members when the accident occurred near Hon May Rut Ngoai island.",
@@ -583,33 +664,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-boat-carrying-indians-capsizes-in-vietnam-search-under-way/article71210320.ece",
     "time": "2026-07-11T12:04:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Viking Row' fever grips Miami before Norway's historic clash against England",
-    "desc": "Norway fans transform Miami Beach into a vibrant celebration before their World Cup quarter-final match. The \"Viking Row\" tradition has become a viral sensation, drawing local and tourist participation. Star striker Erling Haaland leads Norway's potent attack, which also features other talented players. England enters the game with confidence after a dramatic victory in their previous match. Both teams will contend with Miami's heat and humidity in this historic fixture.",
-    "img": "https://static.toiimg.com/photo/msid-132329523,imgsize-1332469.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/watch-viking-row-fever-grips-miami-before-norways-historic-world-cup-clash-against-england/articleshow/132329493.cms",
-    "time": "2026-07-11T11:26:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Captain Salima Tete, Sunelita Toppo embody India's growing belief ahead of Women’s Hockey World Cup",
-    "desc": "Fresh from winning the FIH Nations Cup and earning promotion to the Pro League, the Indian women's hockey team is focused on the World Cup. Captain Salima Tete credited improved leadership, communication and fitness for the team's progress, while forward Sunelita Toppo highlighted better infrastructure and senior support. Both believe India is now better prepared to challenge the world's best.",
-    "img": "https://static.toiimg.com/photo/msid-132329195,imgsize-112778.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/captain-salima-tete-sunelita-toppo-embody-indias-growing-belief-ahead-of-womens-hockey-world-cup/articleshow/132329097.cms",
-    "time": "2026-07-11T11:02:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kushare scripts history on Diamond League debut, becomes first Indian ever to...",
-    "desc": "India's Sarvesh Kushare finished third in the men's high jump on his Diamond League debut at the Monaco meet, clearing 2. 26m. He became the first Indian to secure a top-three finish on a Diamond League debut and only the fourth Indian to achieve the feat overall. The podium finish continues his impressive season ahead of the 2026 Commonwealth Games.",
-    "img": "https://static.toiimg.com/photo/msid-132329006,imgsize-98254.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/sarvesh-kushare-scripts-history-on-diamond-league-debut-becomes-first-indian-ever-to-/articleshow/132328737.cms",
-    "time": "2026-07-11T10:45:43.000Z"
   },
   {
     "cat": "Business",
@@ -646,15 +700,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-interview-the-journey-of-nagoor-babu-to-playback-singer-mano/article71209802.ece",
     "time": "2026-07-11T09:01:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'People don't want us to win': Argentina head coach fires back at FIFA favouritism claims",
-    "desc": "Argentina's coach Lionel Scaloni rejects FIFA favouritism allegations. He states these claims provide extra motivation for his players. Scaloni mentioned such accusations have followed Argentina for decades. He believes VAR technology makes manipulation extremely difficult. The team prepares for their quarter-final match against Switzerland.",
-    "img": "https://static.toiimg.com/photo/msid-132327476,imgsize-105600.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/people-dont-want-us-to-win-argentina-head-coach-fires-back-at-fifa-favouritism-claims/articleshow/132327460.cms",
-    "time": "2026-07-11T08:42:36.000Z"
   },
   {
     "cat": "Sports",
@@ -718,24 +763,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/mother-promise-movie-review-dhananjaya-poornachandra-mysore-daali-pictures-comedy-humour-kannada/article71208040.ece",
     "time": "2026-07-11T05:07:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Indian cricket set to undergo a coaching reset?",
-    "desc": "At least one prominent support staff member is likely to leave the Team India camp despite having an extension clause in the contract. The possible exits, unrelated to the recent T20I defeats, come amid dressing-room unease and growing differences between the coaching staff and selectors.",
-    "img": "https://static.toiimg.com/photo/msid-132324386,imgsize-289442.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/indian-cricket-set-to-undergo-a-coaching-reset/articleshow/132324330.cms",
-    "time": "2026-07-11T04:04:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'If this happiness improves my father's health ... ': Prabhsimran on his India call-up",
-    "desc": "Prabhsimran Singh has finally earned his maiden India call-up after back-to-back impressive IPL seasons with Punjab Kings. In this exclusive interview, the opener recalls his father's emotional reaction, explains how consistency and converting starts into big scores changed his career, and reflects on the role of Shreyas Iyer, Ricky Ponting and Yuvraj Singh in shaping his journey to the Indian team.",
-    "img": "https://static.toiimg.com/photo/msid-132323929,imgsize-110548.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/prabhsimran-singh-exclusive-father-india-call-up-shreyas-iyer-ricky-ponting-yuvraj-singh-india-vs-zimbabwe/articleshow/132323899.cms",
-    "time": "2026-07-11T03:49:05.000Z"
   },
   {
     "cat": "Sports",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/india-lays-out-tariffs-and-quotas-for-uk-vehicles-under-trade-deal/article71205545.ece",
     "time": "2026-07-10T07:58:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cristiano Ronaldo’s World Cup career in graphics",
-    "desc": "Portugal’s Round of 16 defeat to Spain brought an end to captain Cristiano Ronaldo’s World Cup career. Despite one of the greatest careers in football history, he retires from the tournament without ever winning the FIFA World Cup. Here is a graphical look at his career and achievements.",
-    "img": "https://th-i.thgim.com/public/incoming/nvxirk/article71204190.ece/alternates/LANDSCAPE_1200/Russia_Soccer_WCup_Portugal_Spain_71311.jpg-f9277.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/king-without-the-crown-cristiano-ronaldos-world-cup-career-in-graphics/article71197123.ece",
-    "time": "2026-07-10T07:45:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Redrawing Telangana’s cricket map",
-    "desc": "For years, Telangana’s cricket story was largely confined to Hyderabad. The inaugural TG20, its first franchise-based T20 league, is beginning to change that by offering district cricketers a platform to showcase their talent before fans, selectors and IPL scouts alike. Anirudh Velamuri explores how the tournament is opening new doors beyond the capital",
-    "img": "https://th-i.thgim.com/public/incoming/ak6mk9/article71203899.ece/alternates/LANDSCAPE_1200/NG%2004.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/redrawing-telanganas-cricket-map/article71203884.ece",
-    "time": "2026-07-10T06:29:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jana Nayagan gets ‘A’ certificate; likely to release in theatres on July 24",
-    "desc": "According to reports, after the makers implemented modifications suggested by the examining committee, the film was initially considered suitable for a 'U/A' certificate; however, the process stalled when a committee member raised an internal objection, claiming certain portions could hurt public sentiments.",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/ubhllf/article71203511.ece/alternates/LANDSCAPE_1200/DSC_11663.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/jana-nayagan-gets-a-certificate-likely-to-release-in-theatres-on-july-24/article71203461.ece",
-    "time": "2026-07-10T04:13:44.000Z"
   }
 ];

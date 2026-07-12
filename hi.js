@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Shreyas Iyer opens up after India face embarrassing fifth T20I loss against England in Southampton",
+    "desc": "The Indian team succumbed to a hefty loss in the fifth and final T20I of the ongoing series against England. The two sides met at the Rose Bowl in Southampton on July 11th, and England...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-opens-up-after-india-face-embarrassing-fifth-t20i-loss-against-england-in-southampton-2026-07-12-1047980",
+    "time": "2026-07-12T05:37:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Julian Alvarez's late stunner paves way for Argentina's entry into World Cup semi-final",
+    "desc": "Argentina scraped their way past Switzerland in the FIFA World Cup 2026 quarter-final, registering a 3-1 victory and making their way into the semi-final of the tournament. It is worth noting that Argentina opened the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/julian-alvarez-s-late-stunner-paves-way-for-argentina-s-entry-into-world-cup-semi-final-2026-07-12-1047974",
+    "time": "2026-07-12T04:16:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India's four-year-long reign in T20Is ends, dethroned from World No.1 rankings after 4-0 England loss",
+    "desc": "India's recent slump in the T20Is has a new low point as the two-time defending world champions lost their World No.1 spot in the ICC T20I rankings after their 4-0 loss to England. Asked to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/indias-four-year-long-reign-in-t20is-ends-dethroned-from-world-no1-rankings-after-england-loss-2026-07-12-1047972",
+    "time": "2026-07-12T03:54:31.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Jude Bellingham's brace propels England to FIFA World Cup 2026 semi-finals as Norway's dream run ends",
     "desc": "England put forth a magnificent performance in the quarter-final of the ongoing FIFA World Cup 2026. The side took on high-flying Norway in the clash and managed to register a 2-1 victory, and once again...",
     "img": "",
@@ -10,7 +37,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Argentina take early lead, Switzerland in trouble",
+    "title": "Argentina defeat Switzerland 3-1 to reach World Cup semi-final",
     "desc": "Argentina and Switzerland are taking on each other in the quarter-final of the ongoing FIFA World Cup 2026. The clash sees defending champions Argentina taking on Switzerland in the Kansas City Stadium, and both sides...",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-s-disastrous-t20-saga-finally-ends-with-4-0-series-defeat-to-england-after-buttler-brook-drubbing-2026-07-11-1047955",
     "time": "2026-07-11T17:44:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jos Buttler, Harry Brook rip apart India, set new records in fifth T20I at Southampton",
-    "desc": "Player Runs Jos Buttler 131 Evin Lewis 125* Shane Watson 124* Star England batters Jos Buttler and Harry Brook stole the show with the bat in the fifth T20I against India in Southampton. Despite losing his opening partner Phil Salt early, Buttler didn’t...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jos-buttler-harry-brook-rip-apart-india-set-new-records-in-fifth-t20i-at-southampton-2026-07-11-1047949",
-    "time": "2026-07-11T16:09:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Star West Indies cricketer quietly announced ODI retirement as head coach Daren Sammy reveals",
-    "desc": "Former West Indies captain Jason Holder has quietly announced his retirement from ODI cricket, as head coach Daren Sammy revealed. He confirmed that the all-rounder is still in contention to play Tests, but also wants...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/star-west-indies-cricketer-quietly-announced-odi-retirement-as-head-coach-daren-sammy-reveals-2026-07-11-1047944",
-    "time": "2026-07-11T15:15:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "South Africa midfielder tragically dies at 25 after representing nation in FIFA World Cup 2026",
-    "desc": "Just weeks after representing his country at the 2026 FIFA World Cup, South Africa international midfielder Jayden Adams has died. Police have opened an investigation after the body of a 25-year-old man was found at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/south-africa-midfielder-tragically-dies-at-25-after-representing-nation-in-fifa-world-cup-2026-2026-07-11-1047942",
-    "time": "2026-07-11T14:51:44.000Z"
   }
 ];
