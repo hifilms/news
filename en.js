@@ -1,12 +1,138 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "DMK leader E.V. Velu",
-    "desc": "Displaying his medical records, Mr. Velu said he had been receiving treatment for heart ailments at Mount Elizabeth Hospital in Singapore since 2016. After election campaign, he had planned to undergo medical check-up there, stated the DMK whip in the Assembly.",
-    "img": "https://th-i.thgim.com/public/incoming/2umq5d/article71213745.ece/alternates/LANDSCAPE_1200/E.V.%20Velu%201.jpg",
+    "title": "Iltija says Mehbooba Mufti and her put under ‘house arrest’,  on the eve of Martyrs’ Day",
+    "desc": "July 13 is commemorated as Martyrs' Day in Jammu and Kashmir as a tribute to the 22 persons who were killed by the Dogra army outside Srinagar's central jail in 1931. The L-G administration had dropped the day from the list of gazetted holidays in 2020.",
+    "img": "https://th-i.thgim.com/public/business/tc57ua/article71214255.ece/alternates/LANDSCAPE_1200/Screenshot%202026-07-12%20192113.png",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/i-am-neither-running-away-nor-hiding-dmk-leader-ev-velu/article71213625.ece",
-    "time": "2026-07-12T12:36:09.000Z"
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/iltija-says-mehbooba-mufti-and-her-put-under-house-arrest-on-the-eve-of-martyrs-day/article71214241.ece",
+    "time": "2026-07-12T15:40:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India declares one-day national mourning for former Qatar emir Sheikh Hamad bin Khalifa Al-Thani",
+    "desc": "India announced one day of national mourning for Qatar's Father Amir. The National Flag will fly at half-mast throughout the country tomorrow. Prime Minister Modi remembered him as a visionary leader and true friend. Sheikh Hamad bin Khalifa Al Thani ruled Qatar from 1995 to 2013. He voluntarily abdicated power to his son in 2013.",
+    "img": "https://static.toiimg.com/photo/msid-132347961,imgsize-578042.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-declares-one-day-national-mourning-for-former-qatar-emir-sheikh-hamad-bin-khalifa-al-thani/articleshow/132347801.cms",
+    "time": "2026-07-12T15:29:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tamil Nadu drew lower quantity of rice than its share under Antyodaya Anna Yojana in five of last seven years",
+    "desc": "From 2019-20 to 2025-26, it was during the COVID-19 pandemic year (2020-21) that the drawal was almost close to the allocated figure of around 6.99 lakh tonnes, with the off-take being about 98%. In the remaining four years, it varied from around 73% during 2022-23 and 2023-24 to 79% during 2024-25",
+    "img": "https://th-i.thgim.com/public/incoming/42mp9q/article71195029.ece/alternates/LANDSCAPE_1200/GWRIK_11-4-2013_17-36-17_JOHARICE_HINDU_01.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-drew-lower-quantity-of-rice-than-its-share-underantyodayaannayojana-in-five-of-the-last-seven-years/article71193040.ece",
+    "time": "2026-07-12T15:05:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delivery executive arrested for forcing entry into woman’s home, flashing at her",
+    "desc": "The accused has been identified as Vijay Mallikarjun Kamath (22); he has been arrested in connection with the incident that came to light after the survivor shared her ordeal and video footage of the confrontation on social media",
+    "img": "https://th-i.thgim.com/public/news/national/83q4la/article71213308.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-12%20at%2010.45.04%20AM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/delivery-executive-arrested-for-allegedly-forcing-entry-into-womans-home-flashing-at-her/article71213273.ece",
+    "time": "2026-07-12T15:02:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Q1 earnings, inflation data, Middle East tensions to keep D-Street volatile",
+    "desc": "The upcoming week will see investors focus on corporate earnings and key economic data. India's inflation figures and foreign exchange reserves are scheduled for release soon. Global developments, including West Asia tensions, will also influence market sentiment. Foreign institutional investors have recently turned net buyers of Indian equities. Market participants will monitor monsoon progress alongside these important economic indicators.",
+    "img": "https://static.toiimg.com/photo/msid-132347576,imgsize-712037.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-this-week-q1-earnings-inflation-middle-east-tensions-to-keep-d-street-volatile/articleshow/132347529.cms",
+    "time": "2026-07-12T14:56:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Karnataka requests Kerala to donate captive elephant to Mookambika temple",
+    "desc": "Karnataka Chief Minister writes to his Kerala counterpart to facilitate “the donation of a female elephant from any willing temple in Kerala.” Kerala had earlier turned down a request by the Telangana CM for camp elephants. Rules are in place for transfer of elephants within or outside a State.",
+    "img": "https://th-i.thgim.com/public/incoming/utrnx3/article71214450.ece/alternates/LANDSCAPE_1200/80968_1_5_2026_19_23_52_2_5AF03905_E84A_43B7_AEF7_0A7DF2D815C3.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/karnataka-requests-kerala-to-donate-captive-elephant-to-mookambika-temple/article71213949.ece",
+    "time": "2026-07-12T14:44:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CM Yogi at 'Maha Vriksharopan 2026', calls 35 crore sapling drive a \"grand endeavour\" to honour Mother Earth",
+    "desc": "Uttar Pradesh Chief Minister Yogi Adityanath on Sunday said that the mega plantation drive, 'Maha Vriksharopan 2026' with a target to plant 35 crore saplings across the state under the central theme \"Ek Ped Maa Ke Naam\" (One Tree in the Name of Mother), is a grand endeavour to express gratitude to Mother Earth.",
+    "img": "https://static.toiimg.com/photo/msid-132347198,imgsize-65134.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cm-yogi-at-maha-vriksharopan-2026-calls-35-crore-sapling-drive-a-grand-endeavour-to-honour-mother-earth/articleshow/132347192.cms",
+    "time": "2026-07-12T14:25:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shekhar Suman on Aamir Khan's third marriage with Gauri Spratt",
+    "desc": "Actor-comedian Shekhar Suman has taken a humorous swipe at Aamir Khan following the actor's marriage to his girlfriend Gauri Spratt. In the latest episode of his popular YouTube talk show Shekhar Tonite, Shekhar mixed political satire with relationship humour as he joked about Aamir tying the knot for the third time.",
+    "img": "https://static.toiimg.com/photo/msid-132347062,imgsize-99552.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shekhar-suman-takes-a-dig-at-aamir-khans-third-marriage-with-gauri-spratt-our-government-cant-run-a-double-engine-hes-running-a-triple-engine/articleshow/132347026.cms",
+    "time": "2026-07-12T14:21:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Religion is outside our scope': Annamalai says 'We The Leaders' will become political party",
+    "desc": "K Annamalai has launched his new movement, \"We The Leaders,\" which will focus on governance and public responsibility. This organization explicitly excludes religion from its scope and aims to make Tamil Nadu a leading state. The movement is not built through membership drives but as a collective platform for people. Women and young people form a significant share of the movement's composition.",
+    "img": "https://static.toiimg.com/photo/msid-132347012,imgsize-991342.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/religion-is-outside-our-scope-annamalai-says-we-the-leaders-will-become-political-party/articleshow/132347025.cms",
+    "time": "2026-07-12T14:17:42.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India-UK FTA opens doors, but tariff cuts alone won't lift exports: GTRI",
+    "desc": "India's new trade pact with the UK opens market access for exporters. However, strengthening quality standards and logistics is crucial for success. Food and engineering sectors face specific regulatory and certification requirements. Labour-intensive industries like garments and textiles offer significant export potential. Processed foods and automotive components also present substantial untapped opportunities.",
+    "img": "https://static.toiimg.com/photo/msid-132346660,imgsize-461514.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-uk-fta-opens-doors-but-tariff-cuts-alone-wont-lift-exports-gtri/articleshow/132346520.cms",
+    "time": "2026-07-12T13:45:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Yastika scripts history in Lord's Test, becomes first-ever woman cricketer to...",
+    "desc": "Yastika Bhatia achieved her first Test century at Lord's Cricket Ground. She became the first woman to score a Test hundred at this historic venue. Bhatia reached the milestone on Day 3 of the ongoing Test match. Her composed innings ensured England remained under pressure throughout the game. This landmark century secured her place in cricketing history.",
+    "img": "https://static.toiimg.com/photo/msid-132346269,imgsize-13832.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/yastika-bhatia-scripts-history-in-lords-test-becomes-first-ever-woman-cricketer-to-/articleshow/132346189.cms",
+    "time": "2026-07-12T13:38:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Will our home still be standing tomorrow?' The Northeast relives its annual flood heartbreak",
+    "desc": "Northeast India faces severe monsoon floods and landslides, affecting nearly 50,000 people in Assam. Rising waters have submerged villages and damaged agricultural land, impacting livelihoods. Across the region, homes and infrastructure have suffered extensive damage from heavy rainfall. Thousands have been displaced and are seeking refuge in the relief camps.",
+    "img": "https://static.toiimg.com/photo/msid-132346281,imgsize-282591.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/will-our-home-still-be-standing-tomorrow-the-northeast-relives-its-annual-flood-heartbreak/articleshow/132345807.cms",
+    "time": "2026-07-12T13:25:04.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Bangladesh reports 44 deaths due to floods; capital Dhaka deluged",
+    "desc": "Earlier in the week, seven Rohingya children and one of their teachers died on July 8 in the worst single incident of landslips this year in the world’s largest refugee camp in southeastern Cox’s Bazar",
+    "img": "https://th-i.thgim.com/public/incoming/hatyib/article71214068.ece/alternates/LANDSCAPE_1200/2026-07-12T100807Z_1958518705_RC2ACMA7A8FM_RTRMADP_3_ASIA-WEATHER-BANGLADESH.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/bangladesh-reports-many-deaths-due-to-floods-capital-dhaka-deluged/article71213932.ece",
+    "time": "2026-07-12T13:17:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "RSS voices 'grief' over alleged Ram Mandir donation theft, backs SIT probe",
+    "desc": "The RSS voiced grief over alleged donation irregularities at the Shri Ram Temple in Ayodhya. They expressed confidence that the ongoing investigation will soon reach a decisive turn. The organization also reviewed its training programs and centenary year initiatives. Discussions included population imbalance, the upcoming census, and drug abuse. Plans were also made to strengthen shakhas and engage volunteers in social work.",
+    "img": "https://static.toiimg.com/photo/msid-132346233,imgsize-790900.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/rss-voices-grief-over-alleged-ram-mandir-donation-theft-backs-sit-probe/articleshow/132346085.cms",
+    "time": "2026-07-12T13:08:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Samantha reacts to 'Maa Inti Bangaaram's Rs 100 Cr",
+    "desc": "Samantha Ruth Prabhu's film 'Maa Inti Bangaram' has achieved a significant box office milestone. The movie, directed by Nandini Reddy, earned over Rs 100 crore globally. This success marks a historic moment for a solo female-led Telugu film. Prabhu expressed her initial fears about audience reception and industry biases. The film's achievement offers hope for greater opportunities for women-centric cinema.",
+    "img": "https://static.toiimg.com/photo/msid-132346130,imgsize-1022498.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/we-did-100-crores-expectant-samantha-ruth-prabhu-breaks-down-in-tears-over-raj-nidimorus-sweet-surprise-on-maa-inti-bangarams-global-haul/articleshow/132346111.cms",
+    "time": "2026-07-12T13:08:28.000Z"
   },
   {
     "cat": "Politics",
@@ -135,24 +261,6 @@ const newsData_en = [
     "time": "2026-07-12T10:59:34.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "TMC's Abhishek Banerjee booked after woman loses leg, blames treatment at Sebaashray health camp",
-    "desc": "The Diamond Harbour MP unveiled the initiative on January 2 when the Trinamool Congress was in power in the State. Already, two FIRs have been filed against him in connection with alleged irregularities in Sebaashray health camps",
-    "img": "https://th-i.thgim.com/public/incoming/gl0gbi/article71213701.ece/alternates/LANDSCAPE_1200/TH03-SHIV-SAHAYG6PG70GTQ.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/tmcs-abhishek-banerjee-booked-after-woman-loses-leg-blames-treatment-at-sebaashray-health-camp/article71213678.ece",
-    "time": "2026-07-12T10:58:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Police SI suspended; seven special teams formed to nab perpetrator",
-    "desc": "A man accused in a POCSO case allegedly went on a killing spree in Shabad, stabbing six people to death, including his wife, two young sons, and three members of the complainant’s family, before fleeing",
-    "img": "https://th-i.thgim.com/public/incoming/9q1e16/article71210997.ece/alternates/LANDSCAPE_1200/DSC2703.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/out-on-bail-in-pocso-case-man-goes-on-stabbing-spree-killing-six-in-shabad/article71210987.ece",
-    "time": "2026-07-12T10:42:27.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Shweta Mohan calls S. Janaki the world’s best",
     "desc": "Singer Shweta Mohan shared an emotional tribute to the legendary S. Janaki. She expressed deep personal loss and admiration for Janaki's musical genius. Mohan described Janaki as her greatest inspiration and the world's best singer. She also cherished Janaki's genuine and caring personality. Mohan recalled working closely with Janaki on a musical project.",
@@ -180,15 +288,6 @@ const newsData_en = [
     "time": "2026-07-12T10:17:40.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "distress in Tamil Nadu’s delta region",
-    "desc": "All is not well in the famed ‘Granary of South India’. Between a poor southwest monsoon and lack of water in the Cauvery, crops and farmers are left high and dry. The kuruvai cultivation area in Thanjavur alone has dipped to around 89,000 acres this season from around 1,94,000 acres in the previous cultivation year. This report describes the situation on the ground",
-    "img": "https://th-i.thgim.com/public/incoming/rx9a2s/article71211631.ece/alternates/LANDSCAPE_1200/Fields%20parch%20without%20Cauvery%20water%202.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/poor-monsoon-and-no-cauvery-water-distress-in-delta-region-of-tamil-nadu-2026-kharif-season/article71211621.ece",
-    "time": "2026-07-12T10:10:46.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Madonna confirms that her biopic has been cancelled",
     "desc": "In a recent update, Madonna announced the cancellation of her planned biopic, primarily due to disagreements over its extensive budget. While there was some interest from an OTT platform to reformat the idea into a miniseries with Julia Garner as the starring actress, that plan did not come to fruition. The iconic artist indicated her desire to pivot her focus back to music and her broader artistic expressions.",
@@ -196,15 +295,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/my-whole-life-has-been-survival-madonna-confirms-her-julia-garner-starrer-biopic-is-officially-cancelled-after-studio-fallout/articleshow/132343808.cms",
     "time": "2026-07-12T10:08:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "What a dolphin’s death in Kerala reveals about India’s marine plastic pollution",
-    "desc": "Necropsy of an endangered Indian Ocean humpback dolphin that washed ashore on Kozhikode beach recently reveals fatal plastic fishing net ingestion, highlighting growing threats from marine pollution and ‘ghost nets’. CMFRI data show marine mammal strandings remain high, with coastal dolphins among the species most vulnerable",
-    "img": "https://th-i.thgim.com/public/incoming/la2hdr/article71205244.ece/alternates/LANDSCAPE_1200/11073_10_7_2026_8_23_16_4_11TVKZ4_DOLPHIN.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/what-a-dolphins-death-in-kerala-reveals-about-indias-marine-plastic-pollution/article71205204.ece",
-    "time": "2026-07-12T10:05:47.000Z"
   },
   {
     "cat": "Entertainment",
@@ -313,24 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/the-rolling-stones-lead-mick-jagger-reveals-what-really-goes-down-at-a-rolling-stones-concert-forget-your-mortgages/articleshow/132343053.cms",
     "time": "2026-07-12T09:08:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sunita reveals why she will never leave Govinda",
-    "desc": "Sach Ya Sazaa' as Govinda and daughter Tina escorted her out. She opened up on infidelity, trust, and forgiveness, saying no actor is \"squeaky clean\" but love means forgiving and moving on. She fell for Govinda at 15; they wed in 1987, welcoming Tina in 1989 and Yash in 1997.",
-    "img": "https://static.toiimg.com/photo/msid-132343146,imgsize-307337.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/koi-hero-doodh-ka-dhula-nahi-hoga-sunita-ahuja-reveals-why-she-will-never-leave-govinda-despite-infidelity-rumors-after-lock-upp-2-exit/articleshow/132343146.cms",
-    "time": "2026-07-12T09:02:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vikraman drops another RARE 25-year-old unreleased Vijay song",
-    "desc": "Director Vikraman shared a rare unreleased song from an early Vijay film. The song 'Ootyku Poo Ethukku' is from the shelved 'Unnai Ninaithu' project. This footage was filmed over twenty-five years ago by the director. Original masters for the song are unfortunately no longer available. This release offers fans a glimpse into Vijay's early career.",
-    "img": "https://static.toiimg.com/photo/msid-132343124,imgsize-125664.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vikraman-drops-another-rare-25-year-old-unreleased-vijay-song-ootyku-poo-ethukku-from-shelved-unnai-ninaithu-best-version-we-could-preserve/articleshow/132343119.cms",
-    "time": "2026-07-12T08:59:45.000Z"
   },
   {
     "cat": "Sports",
@@ -460,33 +532,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Erling Haaland's father can't hide feelings with savage five-word dig after England end Norway's World Cup dream",
-    "desc": "Alfie Haaland appeared to question the officiating after Norway's dramatic World Cup quarter-final defeat to England, posting a pointed five-word message on social media. His reaction came after a match dominated by controversial VAR decisions, including Jude Bellingham's debated equaliser, which FIFA later confirmed was correctly awarded using connected ball technology, before also criticising Norway's attacking decision-making.",
-    "img": "https://static.toiimg.com/photo/msid-132340407,imgsize-681042.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/erling-haalands-father-cant-hide-feelings-with-savage-five-word-dig-after-england-end-norways-world-cup-dream/articleshow/132340087.cms",
-    "time": "2026-07-12T03:48:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jos Buttler scripts history, overtakes MS Dhoni to become...",
-    "desc": "Jos Buttler became the wicketkeeper with the most international sixes, surpassing MS Dhoni. He achieved this milestone during his impressive 131-run innings against India. Buttler's sensational knock helped England secure a dominant series victory over their opponents. The England batter's record-breaking performance highlighted his destructive batting capabilities. This achievement adds another significant record to Buttler's illustrious career.",
-    "img": "https://static.toiimg.com/photo/msid-132340174,imgsize-133538.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/jos-buttler-scripts-history-overtakes-ms-dhoni-to-become-wicketkeeper-with-most-international-sixes/articleshow/132340176.cms",
-    "time": "2026-07-12T03:14:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shivam Dube's big blunder turns the game in England's favour",
-    "desc": "England secured a commanding 56-run victory in the final T20I match. Harry Brook and Jos Buttler's partnership proved decisive for the hosts. India's fielding lapses provided crucial lifelines to the English batsmen. This defeat resulted in India losing their top T20I ranking. England completed a dominant 4-0 series sweep over India.",
-    "img": "https://static.toiimg.com/photo/msid-132340028,imgsize-40423.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/ind-vs-eng-5th-t20i-shivam-dubes-big-blunder-turns-the-game-in-englands-favour-harry-brook/articleshow/132340023.cms",
-    "time": "2026-07-12T02:36:21.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Lionel Messi scripts FIFA World Cup history, becomes first player to...",
     "desc": "Lionel Messi achieved a historic FIFA World Cup milestone on Saturday. He became the first player with ten assists in the tournament's history. This remarkable feat occurred during Argentina's quarterfinal match against Switzerland. Messi's assist moved him past Diego Maradona on the all-time charts. Argentina continues its pursuit of a fourth World Cup title.",
     "img": "https://static.toiimg.com/photo/msid-132339964,imgsize-86170.cms",
@@ -502,24 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/cues-from-the-nets-india-hit-the-ground-running-with-virat-kohli-shubman-gill-holding-a-lengthy-conversation/articleshow/132339909.cms",
     "time": "2026-07-12T02:07:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Phone flung during ED raid may crack global gold smuggling case",
-    "desc": "Enforcement Directorate agents are examining Dharmesh Sangani's recovered mobile phone. This businessman faces probes in the UK and US for alleged gold smuggling. The device was retrieved after Sangani threw it from his apartment as agents approached. Authorities suspect a larger gold smuggling and money laundering operation involving influential people. The ED is investigating violations of the Foreign Exchange Management Act against Sangani's company.",
-    "img": "https://static.toiimg.com/photo/msid-132339765,imgsize-43802.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/phone-flung-during-ed-raid-may-crack-global-gold-smuggling-case/articleshow/132339758.cms",
-    "time": "2026-07-12T01:28:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM, CMs removal clause 'constitutionally problematic'",
-    "desc": "A parliamentary panel noted concerns about the anti-corruption bill's arrest clause. Stakeholders found removing officials after thirty days constitutionally problematic. The draft report suggests a sunset clause for automatic reversal of barring. It also proposes using \"suspension\" instead of \"removal\" to avoid stigma. The committee's recommendations will be tabled in Lok Sabha soon.",
-    "img": "https://static.toiimg.com/photo/msid-132339748,imgsize-1041361.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/stakeholders-pm-cms-removal-clause-unconstitutional/articleshow/132339736.cms",
-    "time": "2026-07-12T01:26:00.000Z"
   },
   {
     "cat": "Sports",
@@ -738,15 +765,6 @@ const newsData_en = [
     "time": "2026-07-10T15:56:56.000Z"
   },
   {
-    "cat": "World",
-    "title": "Andy Burnham on the verge of becoming U.K. PM",
-    "desc": "Burnham, who is from Labour’s ‘soft left’ and was elected three times to run Manchester, won a byelection in Makerfield on June 18 in order to return to Westminster, as support for Keir Starmer within his party continued to evaporate.",
-    "img": "https://th-i.thgim.com/public/incoming/1acqlr/article71206481.ece/alternates/LANDSCAPE_1200/2026-07-09T174632Z_1650133072_RC2U5MAA6PCF_RTRMADP_3_ISRAEL-PALESTINIANS-BRITAIN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/andy-burnham-poised-to-become-britains-next-pm-after-most-labour-lawmakers-support-him/article71206471.ece",
-    "time": "2026-07-10T15:41:24.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "PIL in Punjab and Haryana HC seeks restoration of Diljit Dosanjh-starrer Satluj",
     "desc": "The PIL said the sudden withdrawal of the film based upon documented historical events and the life of a human rights defender whose case has already been adjudicated upon by constitutional courts has given rise to serious concerns regarding transparency, freedom of artistic expression, and the possible existence of undisclosed executive interference",
@@ -754,15 +772,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/pil-in-punjab-haryana-hc-seeks-restoration-of-diljit-dosanjh-starrer-satluj/article71203391.ece",
     "time": "2026-07-10T13:58:14.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Govt answers 9 FAQs on ethanol-blended petrol’s impact on mileage, performance, damage, pricing &amp; more",
-    "desc": "The government has said that the Ethanol Blended Petrol (EBP) Programme is a major component of India's energy strategy, designed to strengthen energy security, support the farming community and lower environmental impact by increasing the use of domestically produced renewable fuel.",
-    "img": "https://static.toiimg.com/photo/msid-132313386,imgsize-539531.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/e20-petrol-row-govt-answers-9-faqs-on-ethanol-blended-petrols-impact-on-mileage-performance-damage-pricing-more/articleshow/132312977.cms",
-    "time": "2026-07-10T13:40:22.000Z"
   },
   {
     "cat": "Business",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
     "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
   }
 ];

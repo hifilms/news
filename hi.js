@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Brendon McCullum steps down as England's test coach, to continue in white-ball role",
+    "desc": "Brendon McCullum has decided to step down as England's head coach for the test team, but will continue to lead the side in the t20Is and the one-day internationals (ODIs), announced the England and Wales...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/brendon-mccullum-steps-down-as-england-s-test-coach-to-continue-in-white-ball-role-2026-07-12-1048019",
+    "time": "2026-07-12T13:51:24.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India announce replacements for injured Harshit Rana and Varun Chakaravarthy ahead of ODI series",
     "desc": "The Indian team is all set to take on England in a three-game ODI series. The two sides will meet on July 14, 16 and 19, and ahead of the series, the BCCI (Board of...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/arg-vs-sui-fifa-world-cup-live-lionel-messi-in-action-as-argentina-look-to-book-semi-final-berth-1047963",
     "time": "2026-07-12T00:54:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jude Bellingham's brace saves England, they beat Norway to qualify for semis",
-    "desc": "England will aim to move one step closer to ending their 60-year FIFA World Cup title drought when they face Norway in the quarter-finals at Hard Rock Stadium in Miami in the early hours of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/eng-vs-nor-fifa-world-cup-live-england-vs-norway-score-tactical-discussion-commentary-playing-xi-1047961",
-    "time": "2026-07-11T20:43:32.000Z"
   }
 ];
