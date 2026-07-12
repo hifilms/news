@@ -1,6 +1,96 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Statistics ministry flags serious gaps in agriculture data collection",
+    "desc": "Official crop enumeration inspections were completed on time in less than half of the country's villages. Many village maps used for land tracing are over twenty years old and outdated. Crop-cutting experiments are being conducted by untrained personnel in several key states. These data collection issues affect national food security interventions and advance estimates. Policymakers face challenges due to these significant gaps in agricultural statistics.",
+    "img": "https://static.toiimg.com/photo/msid-132352154,imgsize-2002618.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/statistics-ministry-flags-serious-gaps-in-agriculture-data-collection/articleshow/132352148.cms",
+    "time": "2026-07-12T21:01:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Road rage",
+    "desc": "Soon after the BJP government renamed Kolkata’s Suhrawardy Avenue as Gopal Mukherjee Road, there was public outcry — and historical evidence — that the street was originally named not after the man whom the government blames for killings, but rather the first Muslim V-C of Calcutta University. Here’s why the renaming of the street marks a crucial moment in Bengal politics",
+    "img": "https://th-i.thgim.com/public/incoming/pp6bxf/article71211604.ece/alternates/LANDSCAPE_1200/Gopal%20Mukherjee%20Road%202%20.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/kolkata/road-rage-politics-of-renaming-a-street-in-bengal/article71211600.ece",
+    "time": "2026-07-12T20:57:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Iran hit triggers fears of fuel supply disruption",
+    "desc": "An Iranian attack on a ship with Indian crew has heightened concerns. This incident raises worries about fuel and fertilizer supply disruptions. Indian authorities are closely monitoring the situation and seafarer advisories. The flare-up delays any plans for new ship movements from India. India has sufficient crude oil stocks and is monitoring global prices.",
+    "img": "https://static.toiimg.com/photo/msid-132352140,imgsize-885490.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/hormuz-crisisiran-hit-triggers-fears-of-fuel-supply-disruption/articleshow/132352135.cms",
+    "time": "2026-07-12T20:53:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jaan Kumar Sanu hospitalised after testing positive for COVID-19",
+    "desc": "Singer and former Bigg Boss 14 contestant Jaan Kumar Sanu has been hospitalised after testing positive for COVID-19. The singer shared the news with fans on Sunday through a video recorded from his hospital bed, choosing humour to break the news. Jaan, who is the son of veteran playback singer Kumar Sanu, has not disclosed when he first developed symptoms or how long he is expected to remain under medical observation.",
+    "img": "https://static.toiimg.com/photo/msid-132352118,imgsize-75050.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/jaan-kumar-sanu-hospitalised-after-testing-positive-for-covid-19-shares-health-update-from-hospital-bed-china-se-aaya-mera-dost/articleshow/132352114.cms",
+    "time": "2026-07-12T20:42:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "After brief burst of rain, monsoon in dry phase, deficit rises to 18%",
+    "desc": "India's monsoon has weakened again after a week of good showers. The nationwide rainfall deficit has widened to eighteen percent on Sunday. Subdued rainfall activity is predicted over several key regions for the next week. This dry spell could undermine recent gains in agricultural sowing activities. Fifteen states are currently reporting significant rainfall deficits of twenty percent or more.",
+    "img": "https://static.toiimg.com/photo/msid-132352110,imgsize-303214.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/after-brief-burst-of-rain-monsoon-in-dry-phase-deficit-rises-to-18/articleshow/132352097.cms",
+    "time": "2026-07-12T20:35:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Day after death of 15 Indians, speedboat captain held",
+    "desc": "Vietnamese police arrested the speedboat captain after the vessel capsized near Phu Quoc island. Fifteen Indian tourists tragically died when the boat overturned in rough seas on Saturday. Rescuers recovered twenty-one individuals from the water, and authorities are investigating the incident. The remains of the deceased Indians have reached Ho Chi Minh City for repatriation. Most rescued Indian tourists are returning home, while one remains hospitalized.",
+    "img": "https://static.toiimg.com/photo/msid-132352091,imgsize-1502759.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/vietnam-tragedy-day-after-death-of-15-indians-speedboat-captain-held/articleshow/132352077.cms",
+    "time": "2026-07-12T20:24:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Small towns beat big cities in rooftop solar adoption",
+    "desc": "Smaller urban centers are leading India's rooftop solar adoption, surpassing major metropolitan areas. The Pradhan Mantri Surya Ghar Muft Bijli Yojana promotes rooftop solar installations for households. This government scheme has seen rapid progress and aims to benefit many households. Over 36 lakh rooftop solar systems have already been installed across the country. Efforts are now focused on expanding urban reach and assisting low-income households.",
+    "img": "https://static.toiimg.com/photo/msid-132352073,imgsize-1592296.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/small-towns-beat-big-cities-in-rooftop-solar-adoption/articleshow/132352059.cms",
+    "time": "2026-07-12T20:14:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Pahalgam cloudburst damages hotels, huts, washes away road; tourists moved to safety",
+    "desc": "Flash floods inundated hotels and huts in Pahalgam after a cloudburst on Saturday evening. The deluge damaged roads, power infrastructure, and agricultural fields along Overa stream. Around eleven villages experienced severe effects, with roads cut off and utilities disrupted. Tourists described sudden water gushing into hotels, leading to swift evacuations. Questions arose regarding hotel constructions within flood channels over recent years.",
+    "img": "https://static.toiimg.com/photo/msid-132351767,imgsize-304008.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-pahalgam-cloudburst-damages-hotels-huts-washes-away-road-tourists-moved-to-safety/articleshow/132351729.cms",
+    "time": "2026-07-12T19:17:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Should I ask Donald Trump for Jammu &amp; Kashmir statehood?",
+    "desc": "Jammu and Kashmir Chief Minister Omar Abdullah expressed frustration over the delayed restoration of statehood. He questioned the central government's stance on protests and assembly discussions regarding this issue. Abdullah announced a protest at Jantar Mantar in New Delhi on July 20. He reminded Prime Minister Narendra Modi of his past assurance on the matter. The National Conference will continue its democratic campaign until statehood is reinstated.",
+    "img": "https://static.toiimg.com/photo/msid-132351650,imgsize-1032755.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cm-omar-adullah-to-bjp-should-i-ask-donald-trump-for-jammu-kashmir-statehood/articleshow/132351566.cms",
+    "time": "2026-07-12T19:09:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "3 publishers held for books in school libraries praising separatists",
+    "desc": "Police arrested three publishers in Jammu and Noida over controversial books. These books, which glorified separatists, were supplied to government school libraries. Officials suspended education department staff and ordered an inquiry into the matter. Sub-committees had shortlisted titles, but these two books were flagged later. The investigation aims to determine how the books reached schools despite scrutiny.",
+    "img": "https://static.toiimg.com/photo/msid-132351559,imgsize-67668.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-3-publishers-held-for-books-in-school-libraries-praising-separatists/articleshow/132351534.cms",
+    "time": "2026-07-12T19:00:38.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Sainik School hosts motivational talk on globe circumnavigation and Everest expedition",
     "desc": "Lieutenant Commanders of the Indian Navy, Dilna K. and Roopa A., who circumnavigated the globe aboard the Indian Naval Sailing Vessel (INSV) Tarini, and Zuhra Cherukappalli, an accomplished mountaineer who scaled Mount Everest, led the motivational lecture and interactive session ‘Talk on Circumnavigation of the Globe and Mount Everest Expedition’",
     "img": "https://th-i.thgim.com/public/news/national/kerala/v3v8ld/article71214392.ece/alternates/LANDSCAPE_1200/lt.jpg",
@@ -279,15 +369,6 @@ const newsData_en = [
     "time": "2026-07-12T11:35:33.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Its own members tear each other apart': BJP's Bajwa attacks Congress over Punjab infighting",
-    "desc": "A Punjab BJP leader stated the Congress party is not in the race for 2027. He believes the party will struggle to retain its existing eighteen seats. Congress leaders themselves allege compromises with the current state government. Party officials deny any internal factionalism and express unity for upcoming polls. Unity is crucial for the party, but compromised leaders should be avoided.",
-    "img": "https://static.toiimg.com/photo/msid-132344667,imgsize-83566.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/its-own-members-tear-each-other-apart-congress-out-of-punjab-poll-race-says-bjps-bajwa/articleshow/132344533.cms",
-    "time": "2026-07-12T11:19:19.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Kangana hails women as Devi, Shakti and Mata amid defending UP Governor's controversial expert mother remark",
     "desc": "Kangana Ranaut backed UP Governor Anandiben Patel's \"expert mother\" remark, calling nurturing women's \"true nature.\" She recalled childhood memories of playing with dolls, calling caregiving instinctive and divine. Patel had earlier said women should become \"expert mothers\" before pursuing careers like IAS or teaching, sparking a gender debate.",
@@ -304,15 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/gen-alpha-are-being-raised-by-more-involved-parents-tusshar-kapoor-opens-up-about-his-journey-as-a-single-father-and-how-his-son-thinks-his-movies-are-boring/articleshow/132344569.cms",
     "time": "2026-07-12T11:11:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Why mental illnesses remain so misunderstood",
-    "desc": "Despite increasing awareness of mental health, public comprehension still lags behind scientific advancements. Misunderstandings surrounding schizophrenia, dissociative identity disorder, and bipolar disorder lead to widespread stigma. The media often dramatizes these issues, portraying affected individuals as violent or erratic. To combat this, we need to prioritize education and foster empathy, while robust support systems must aid patients and caregivers in their journey toward recovery and respect.",
-    "img": "https://static.toiimg.com/photo/msid-132344418,imgsize-94436.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/when-myths-become-diagnoses-why-mental-illnesses-remain-so-misunderstood/articleshow/132344298.cms",
-    "time": "2026-07-12T11:09:07.000Z"
   },
   {
     "cat": "Entertainment",
@@ -369,15 +441,6 @@ const newsData_en = [
     "time": "2026-07-12T10:01:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Uttarakhand govt directs Badrinath-Kedarnath Temple Committee CEO to act against officials named in inquiry",
-    "desc": "Uttarakhand government ordered action against officials for financial irregularities. An inquiry found advance funds released without proper approval from the temple corpus. Separately, a Special Investigation Team is probing alleged donation theft at Badrinath temple. CCTV footage shows a suspended employee suspiciously collecting cash from the donation room. The investigation continues with witness statements and evidence analysis.",
-    "img": "https://static.toiimg.com/photo/msid-132343688,imgsize-480533.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/badrinath-donation-theft-case-uttarakhand-govt-directs-badrinath-kedarnath-temple-committee-ceo-to-act-against-officials-named-in-inquiry/articleshow/132343545.cms",
-    "time": "2026-07-12T09:58:01.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Abhishek Sharma enters record books with bizarre milestone",
     "desc": "Abhishek Sharma achieved a unique T20I record during India's fifth match. He played his fifty-third T20I without appearing in Tests or ODIs. England secured a dominant series victory by winning the final match. Jos Buttler's exceptional century powered England's high score. India's bowlers and fielders struggled throughout the disappointing encounter.",
@@ -394,15 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/welcome-to-the-jungle-box-office-collection-day-17-live-akshay-kumar-starrer-chases-new-milestone-of-rs-130-crore-in-week-3-as-worldwide-gross-zooms-past-rs-183-crore/articleshow/132343544.cms",
     "time": "2026-07-12T09:42:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Centre calls all-party meet on July 19; opposition readies showdown",
-    "desc": "An all-party meeting is scheduled for July 19 before the Monsoon Session begins. The government will present its legislative agenda, and opposition parties will voice their concerns. The NEET-UG paper leak and defense minister's remarks are key opposition issues. Parliament will convene from July 20 to August 13 for discussions. Several significant bills and a constitutional amendment are expected during the session.",
-    "img": "https://static.toiimg.com/photo/msid-132343535,imgsize-152211.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/monsoon-session-centre-calls-all-party-meet-on-july-19-opposition-readies-showdown/articleshow/132343509.cms",
-    "time": "2026-07-12T09:35:04.000Z"
   },
   {
     "cat": "Sports",
@@ -430,24 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/twilight-zone-and-star-trek-star-antoinette-bower-passes-away-at-93/articleshow/132343191.cms",
     "time": "2026-07-12T09:19:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Entire system engaged in protecting dacoits &amp; thieves': Kejriwal slams alleged Ram temple donation theft; announces nationwide signature campaign",
-    "desc": "Arvind Kejriwal alleged a cover-up in the Ayodhya temple donation theft case. He accused the system of shielding those responsible for the alleged theft. The Aam Aadmi Party organized a Sundarkand recitation program in Delhi. Kejriwal announced a nationwide signature campaign seeking strict punishment for the accused. The BJP criticized the event as a political gimmick to improve Kejriwal's standing.",
-    "img": "https://static.toiimg.com/photo/msid-132343245,imgsize-87245.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/entire-system-engaged-in-protecting-dacoits-thieves-kejriwal-slams-alleged-ram-temple-donation-theft-announces-nationwide-signature-campaign/articleshow/132343240.cms",
-    "time": "2026-07-12T09:19:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhamaal 4' locks Rs 92 crore globally in just 3 days",
-    "desc": "Dhamaal 4 is a high-octane Bollywood slapstick comedy directed by veteran filmmaker Indra Kumar and released theatrically on July 10, 2026. It brings back fan-favorites Riteish Deshmukh, Arshad Warsi, and Jaaved Jaaferi, alongside the deadpan humor of Ajay Devgn. Over its opening weekend, the multi-starrer recorded an exceptional box office trajectory, opening at Rs. 14.00 crore net on Day 1, jumping to Rs. 22.50 crore on Day 2, and concluding Day 3 (Sunday) with an explosive Rs. 28.50 crore net. This weekend push secured a total India net collection of Rs. 65.00 crore and the worldwide box office collection to a massive Rs. 92.00 crore in just three days.",
-    "img": "https://static.toiimg.com/photo/msid-132343157,imgsize-318114.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhamaal-4-box-office-collection-day-3-live-ajay-devgn-and-arshad-warsi-starrer-eyes-rs-50-crore-mark-over-opening-weekend-as-worldwide-gross-nears-rs-60-crore/articleshow/132343145.cms",
-    "time": "2026-07-12T09:09:52.000Z"
   },
   {
     "cat": "Sports",
@@ -720,15 +756,6 @@ const newsData_en = [
     "time": "2026-07-10T22:21:52.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "With hammer and pole, Anushka Yadav and Sindhushree G. break barriers",
-    "desc": "The two unheralded athletes have had to conquer adversity at several stages of their young lives. At the recent inter-State meet, they overcame significant odds to record unexpected National marks and earn the right to make their Asian Games debuts",
-    "img": "https://th-i.thgim.com/public/incoming/onidqc/article71208113.ece/alternates/LANDSCAPE_1200/Pole%20vault%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/athletics/with-hammer-and-pole-anushka-yadav-and-sindhushree-g-break-barriers/article71208111.ece",
-    "time": "2026-07-10T19:44:46.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "PIL in Punjab and Haryana HC seeks restoration of Diljit Dosanjh-starrer Satluj",
     "desc": "The PIL said the sudden withdrawal of the film based upon documented historical events and the life of a human rights defender whose case has already been adjudicated upon by constitutional courts has given rise to serious concerns regarding transparency, freedom of artistic expression, and the possible existence of undisclosed executive interference",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
     "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
   }
 ];
