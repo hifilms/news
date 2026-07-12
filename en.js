@@ -1,39 +1,102 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Iltija says Mehbooba Mufti and her put under ‘house arrest’,  on the eve of Martyrs’ Day",
+    "title": "Sainik School hosts motivational talk on globe circumnavigation and Everest expedition",
+    "desc": "Lieutenant Commanders of the Indian Navy, Dilna K. and Roopa A., who circumnavigated the globe aboard the Indian Naval Sailing Vessel (INSV) Tarini, and Zuhra Cherukappalli, an accomplished mountaineer who scaled Mount Everest, led the motivational lecture and interactive session ‘Talk on Circumnavigation of the Globe and Mount Everest Expedition’",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/v3v8ld/article71214392.ece/alternates/LANDSCAPE_1200/lt.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/sainik-school-hosts-motivational-talk-on-globe-circumnavigation-and-everest-expedition/article71214431.ece",
+    "time": "2026-07-12T18:09:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Accept party’s bypoll choice, says Narottam Mishra after Delhi visit",
+    "desc": "BJP leader Narottam Mishra went to Delhi where, sources said, he met party president Nitin Nabin; though Mr. Mishra said he went there “just like that”, sources said he was told to rein in his supporters",
+    "img": "https://th-i.thgim.com/public/incoming/pav624/article71214823.ece/alternates/LANDSCAPE_1200/PTI07_11_2026_000505A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/accept-partys-bypoll-choice-says-narottam-mishra-after-delhi-visit/article71214185.ece",
+    "time": "2026-07-12T17:58:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Andhra Pradesh Education Department launches ‘Mission March SSC-2027’ for 100% pass rate",
+    "desc": "As part of the initiative, schools will conduct a dedicated academic support session every working day from 4 p.m. to 5 p.m., where teachers will focus on subject revision, competency-based practice, and daily slip tests to assess students’ learning progress and identify areas requiring improvement",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-education-department-launches-mission-march-ssc-2027-for-100-pass-rate/article71214685.ece",
+    "time": "2026-07-12T17:58:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India on brink of historic Lord's Test victory after Bhatia's century",
+    "desc": "India Women are nearing a historic maiden Test victory at Lord's. Yastika Bhatia scored a record-breaking century, powering the team's strong performance. Indian bowlers then reduced England to 130/6 in their chase. Amy Jones and Mady Villiers offered some resistance for the hosts. India requires just four wickets to secure their landmark triumph.",
+    "img": "https://static.toiimg.com/photo/msid-132350260,imgsize-192558.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-on-brink-of-historic-lords-test-victory-after-yastika-bhatias-record-breaking-century/articleshow/132350304.cms",
+    "time": "2026-07-12T17:52:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India’s forests are a $2.5-trillion asset we keep forgetting to count",
+    "desc": "A landmark study puts a dollar figure on India's forests at national scale — and the number is staggering. Yet these ecosystems remain invisible in official accounts, driving decisions that quietly destroy billions in natural wealth.",
+    "img": "https://static.toiimg.com/photo/msid-132349201,imgsize-1663519.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/worth-more-standing-indias-forests-are-a-2-5-trn-asset-we-keep-forgetting-to-count/articleshow/132349032.cms",
+    "time": "2026-07-12T16:58:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Malayalam actor SI Rajasekharan passes away at his Kottayam residence",
+    "desc": "Veteran Malayalam actor Rajasekharan, popularly known as SI Rajasekharan for his memorable portrayals of police officers on screen, passed away on Sunday at his residence in Chingavanam in Kerala's Kottayam district. The cause of his death has not been disclosed. Mammootty, who shared screen space with Rajasekharan in several films, paid his last respects to the late actor through a heartfelt Facebook post.",
+    "img": "https://static.toiimg.com/photo/msid-132348513,imgsize-115891.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/malayalam-actor-si-rajasekharan-passes-away-at-his-kottayam-residence-cause-of-death-unknown/articleshow/132348498.cms",
+    "time": "2026-07-12T16:21:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Villagers oppose establishment of sewage treatment plant near Arcot",
+    "desc": "Residents of Pindithangal village in Ranipet district have been up against the establishment of a sewage treatment plant by the neighbouring Kalavai town panchayat in their village. They are worried that the groundwater table will be contaminated in Pindithangal and the nearby farming villages, where farmers depend on borewells and waterbodies for irrigation",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/xojc51/article71214471.ece/alternates/LANDSCAPE_1200/c3402d99-1680-4088-8e35-0a4f1dd243ee.jfif",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/villagers-oppose-establishment-of-sewage-treatment-plant-neararcot/article71214373.ece",
+    "time": "2026-07-12T16:16:11.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Four top-10 firms add Rs 93,000 crore in mcap despite weak market; HDFC Bank, Airtel lead gains",
+    "desc": "Four of India's top ten companies added significant market value last week. HDFC Bank and Bharti Airtel led these gains, increasing their valuations substantially. Reliance Industries also saw its market capitalization rise, retaining its top position. However, Hindustan Unilever and Larsen & Toubro experienced the steepest declines. The equity markets ended the week negatively due to geopolitical concerns and oil prices.",
+    "img": "https://static.toiimg.com/photo/msid-132348256,imgsize-655703.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/four-top-10-firms-add-rs-93000-crore-in-mcap-despite-weak-market-hdfc-bank-airtel-lead-gains/articleshow/132348106.cms",
+    "time": "2026-07-12T16:07:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Iltija says she and her mother Mehbooba Mufti put under ‘house arrest’,  on the eve of Martyrs’ Day",
     "desc": "July 13 is commemorated as Martyrs' Day in Jammu and Kashmir as a tribute to the 22 persons who were killed by the Dogra army outside Srinagar's central jail in 1931. The L-G administration had dropped the day from the list of gazetted holidays in 2020.",
     "img": "https://th-i.thgim.com/public/business/tc57ua/article71214255.ece/alternates/LANDSCAPE_1200/Screenshot%202026-07-12%20192113.png",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/iltija-says-mehbooba-mufti-and-her-put-under-house-arrest-on-the-eve-of-martyrs-day/article71214241.ece",
-    "time": "2026-07-12T15:40:40.000Z"
+    "time": "2026-07-12T15:55:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England's 'Bazball' era under McCullum: 27 wins, two draws, but no Ashes or India series win",
+    "desc": "England's Bazball era transformed Test cricket with aggressive tactics and a focus on wins. This approach saw significant victories, including a whitewash in Pakistan. However, the team struggled against India and failed to win the Ashes. The philosophy faced its limitations when confronting elite opposition consistently. Ultimately, this influential chapter in English cricket concluded with key departures.",
+    "img": "https://static.toiimg.com/photo/msid-132348146,imgsize-7532.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/englands-bazball-era-under-brendon-mccullum-27-wins-two-draws-but-no-ashes-or-india-series-win/articleshow/132347761.cms",
+    "time": "2026-07-12T15:55:03.000Z"
   },
   {
     "cat": "Politics",
     "title": "India declares one-day national mourning for former Qatar emir Sheikh Hamad bin Khalifa Al-Thani",
-    "desc": "India announced one day of national mourning for Qatar's Father Amir. The National Flag will fly at half-mast throughout the country tomorrow. Prime Minister Modi remembered him as a visionary leader and true friend. Sheikh Hamad bin Khalifa Al Thani ruled Qatar from 1995 to 2013. He voluntarily abdicated power to his son in 2013.",
+    "desc": "India announced one day of national mourning for Sheikh Hamad bin Khalifa Al-Thani, father of current Qatar ruler. The National Flag will fly at half-mast throughout the country tomorrow. Prime Minister Modi remembered him as a visionary leader and true friend. Sheikh Hamad bin Khalifa Al Thani ruled Qatar from 1995 to 2013. He voluntarily abdicated power to his son in 2013.",
     "img": "https://static.toiimg.com/photo/msid-132347961,imgsize-578042.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/india-declares-one-day-national-mourning-for-former-qatar-emir-sheikh-hamad-bin-khalifa-al-thani/articleshow/132347801.cms",
     "time": "2026-07-12T15:29:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tamil Nadu drew lower quantity of rice than its share under Antyodaya Anna Yojana in five of last seven years",
-    "desc": "From 2019-20 to 2025-26, it was during the COVID-19 pandemic year (2020-21) that the drawal was almost close to the allocated figure of around 6.99 lakh tonnes, with the off-take being about 98%. In the remaining four years, it varied from around 73% during 2022-23 and 2023-24 to 79% during 2024-25",
-    "img": "https://th-i.thgim.com/public/incoming/42mp9q/article71195029.ece/alternates/LANDSCAPE_1200/GWRIK_11-4-2013_17-36-17_JOHARICE_HINDU_01.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-drew-lower-quantity-of-rice-than-its-share-underantyodayaannayojana-in-five-of-the-last-seven-years/article71193040.ece",
-    "time": "2026-07-12T15:05:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delivery executive arrested for forcing entry into woman’s home, flashing at her",
-    "desc": "The accused has been identified as Vijay Mallikarjun Kamath (22); he has been arrested in connection with the incident that came to light after the survivor shared her ordeal and video footage of the confrontation on social media",
-    "img": "https://th-i.thgim.com/public/news/national/83q4la/article71213308.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-12%20at%2010.45.04%20AM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/delivery-executive-arrested-for-allegedly-forcing-entry-into-womans-home-flashing-at-her/article71213273.ece",
-    "time": "2026-07-12T15:02:29.000Z"
   },
   {
     "cat": "Business",
@@ -43,15 +106,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-this-week-q1-earnings-inflation-middle-east-tensions-to-keep-d-street-volatile/articleshow/132347529.cms",
     "time": "2026-07-12T14:56:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Karnataka requests Kerala to donate captive elephant to Mookambika temple",
-    "desc": "Karnataka Chief Minister writes to his Kerala counterpart to facilitate “the donation of a female elephant from any willing temple in Kerala.” Kerala had earlier turned down a request by the Telangana CM for camp elephants. Rules are in place for transfer of elephants within or outside a State.",
-    "img": "https://th-i.thgim.com/public/incoming/utrnx3/article71214450.ece/alternates/LANDSCAPE_1200/80968_1_5_2026_19_23_52_2_5AF03905_E84A_43B7_AEF7_0A7DF2D815C3.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/karnataka-requests-kerala-to-donate-captive-elephant-to-mookambika-temple/article71213949.ece",
-    "time": "2026-07-12T14:44:41.000Z"
   },
   {
     "cat": "Politics",
@@ -187,6 +241,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/banning-films-serves-no-purpose-shashi-ranjan-hails-diljit-dosanjh-starrer-satluj-as-one-of-the-finest-films-ive-ever-seen-amid-global-takedown-from-ott/articleshow/132345348.cms",
     "time": "2026-07-12T12:08:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Scaloni says 'suffering part of Argentina's DNA' after Switzerland win",
+    "desc": "After coming back from 2-0 down to beat Egypt 3-2 in the round of 16, Argentina were again pushed hard by Switzerland before scoring twice in extra time to book their place in the semifinals.",
+    "img": "https://static.toiimg.com/photo/msid-132345200,imgsize-458007.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/no-easy-wins-in-fifa-world-cup-lionel-scaloni-says-suffering-part-of-our-dna-as-argentina-survive-switzerland-scare/articleshow/132345160.cms",
+    "time": "2026-07-12T12:04:06.000Z"
   },
   {
     "cat": "Entertainment",
@@ -325,8 +388,8 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Welcome to the Jungle' BO Day 17 [LIVE]: Eyes Rs 129 crore domestic net mark",
-    "desc": "'Welcome to the Jungle', starring Akshay Kumar, Suniel Shetty, Arshad Warsi, Paresh Rawal, Disha Patani and Jacqueline Fernandez, is now well into its third week at the box office. After a shaky Day 15 that saw collections dip to Rs 1.00 crore, the film bounced back with Rs 1.60 crore on Day 16, and is currently chasing the Rs 130 crore domestic net milestone on Day 17, even as new release 'Dhamaal 4' enters theatres.",
+    "title": "'Welcome to the Jungle' locks Rs 186 crore worldwide gross on Day 17",
+    "desc": "'Welcome to the Jungle', starring Akshay Kumar, Suniel Shetty, Arshad Warsi, Paresh Rawal, Disha Patani and Jacqueline Fernandez, is now well into its third week at the box office. After a shaky Day 15 that saw collections dip to Rs 1.00 crore, the film bounced back with Rs 1.60 crore on Day 16, and missed the Rs 130 crore domestic net milestone on Day 17 by Rs 45 lacs, even as new release 'Dhamaal 4' enters theatres.",
     "img": "https://static.toiimg.com/photo/msid-132343602,imgsize-101511.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/welcome-to-the-jungle-box-office-collection-day-17-live-akshay-kumar-starrer-chases-new-milestone-of-rs-130-crore-in-week-3-as-worldwide-gross-zooms-past-rs-183-crore/articleshow/132343544.cms",
@@ -378,31 +441,13 @@ const newsData_en = [
     "time": "2026-07-12T09:19:47.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'What will be the right time?' Omar Abdullah slams BJP over J&amp;K statehood, alleges 'backdoor' politics",
-    "desc": "Omar Abdullah criticized the BJP for repeatedly promising Jammu and Kashmir statehood. He alleged the party exploits divisions to gain power in various Indian states. Abdullah stated restoring statehood is a commitment, not a favor to the people. He challenged any BJP candidate to deny promising statehood restoration during elections. The National Conference leader highlighted the BJP's selective memory regarding election promises.",
-    "img": "https://static.toiimg.com/photo/msid-132343252,imgsize-901198.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/what-will-be-the-right-time-omar-abdullah-slams-bjp-over-jk-statehood-alleges-backdoor-politics/articleshow/132343236.cms",
-    "time": "2026-07-12T09:19:25.000Z"
-  },
-  {
     "cat": "Entertainment",
-    "title": "'Dhamaal 4' BO Day 3 [LIVE]: Comedy franchise locks Rs 56 crore India net in 3 days",
-    "desc": "'Dhamaal 4', starring Ajay Devgn, Arshad Warsi, Riteish Deshmukh and Jaaved Jaaferi, has opened to a strong response at the box office, riding on the nostalgia of the nearly two-decade-old comedy franchise. After a Day 2 net of Rs 22.50 crore, marking a 60.7% jump from opening day, the film has entered Day 3 with live tracking showing it inching towards the Rs 50 crore India gross mark within its opening weekend itself.",
+    "title": "'Dhamaal 4' locks Rs 92 crore globally in just 3 days",
+    "desc": "Dhamaal 4 is a high-octane Bollywood slapstick comedy directed by veteran filmmaker Indra Kumar and released theatrically on July 10, 2026. It brings back fan-favorites Riteish Deshmukh, Arshad Warsi, and Jaaved Jaaferi, alongside the deadpan humor of Ajay Devgn. Over its opening weekend, the multi-starrer recorded an exceptional box office trajectory, opening at Rs. 14.00 crore net on Day 1, jumping to Rs. 22.50 crore on Day 2, and concluding Day 3 (Sunday) with an explosive Rs. 28.50 crore net. This weekend push secured a total India net collection of Rs. 65.00 crore and the worldwide box office collection to a massive Rs. 92.00 crore in just three days.",
     "img": "https://static.toiimg.com/photo/msid-132343157,imgsize-318114.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhamaal-4-box-office-collection-day-3-live-ajay-devgn-and-arshad-warsi-starrer-eyes-rs-50-crore-mark-over-opening-weekend-as-worldwide-gross-nears-rs-60-crore/articleshow/132343145.cms",
     "time": "2026-07-12T09:09:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mick Jagger opens up about being an entertainer",
-    "desc": "Mick Jagger emphasizes that his main purpose as an entertainer is to create enjoyable experiences for his audience, allowing them to escape their everyday troubles during performances. He tends to weave political and social commentary into his music cautiously, recalling times when political humor on stage didn’t land well. In a recent discussion, he reflected on his remarkable career and the expansive catalog of the Rolling Stones.",
-    "img": "https://static.toiimg.com/photo/msid-132343178,imgsize-53378.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/the-rolling-stones-lead-mick-jagger-reveals-what-really-goes-down-at-a-rolling-stones-concert-forget-your-mortgages/articleshow/132343053.cms",
-    "time": "2026-07-12T09:08:35.000Z"
   },
   {
     "cat": "Sports",
@@ -423,15 +468,6 @@ const newsData_en = [
     "time": "2026-07-12T08:14:46.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'A visionary leader': PM Modi mourns death of former Qatar emir Sheikh Hamad bin Khalifa Al Thani",
-    "desc": "Prime Minister Modi mourned the passing of former Qatar ruler Sheikh Hamad bin Khalifa Al Thani. He remembered Sheikh Hamad as a visionary leader who transformed the Gulf nation. Sheikh Hamad ruled Qatar from 1995 to 2013, voluntarily abdicating power. During his rule, Qatar became a global economic and diplomatic force. His tenure also saw the launch of Al Jazeera and the 2022 World Cup bid.",
-    "img": "https://static.toiimg.com/photo/msid-132342453,imgsize-557430.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/a-visionary-leader-pm-modi-pays-tribute-to-former-qatari-emir-sheikh-hamad-bin-khalifa-al-thani/articleshow/132341999.cms",
-    "time": "2026-07-12T07:58:02.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Messi involved in heated exchange with referee during Argentina's World Cup win",
     "desc": "Lionel Messi had a tense moment with the referee during Argentina's quarterfinal match. Argentina secured a dramatic extra-time victory against Switzerland to advance. Alexis Mac Allister opened the scoring early for Argentina with a header. Switzerland equalized after the break, but Breel Embolo received a red card. Julián Álvarez and Lautaro Martínez scored in extra time to seal the win.",
@@ -450,24 +486,6 @@ const newsData_en = [
     "time": "2026-07-12T07:42:21.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Lionel Messi's FIFA World Cup scoring streak ends; fails to ...",
-    "desc": "Lionel Messi provided a crucial assist for Argentina's opening goal against Switzerland. The defending champions secured a 3-1 extra-time victory in their quarterfinal match. Messi's nine-game scoring streak ended, but his influence remained evident. Argentina now advances to face England in the semifinals of the tournament. Coach Scaloni praised Messi's consistent performance and dedication to excellence.",
-    "img": "https://static.toiimg.com/photo/msid-132341850,imgsize-90857.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/lionel-messis-fifa-world-cup-scoring-streak-ends-fails-to-score-for-the-first-time-in-10-matches/articleshow/132341848.cms",
-    "time": "2026-07-12T07:00:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'If that's a free kick...': Haaland fumes over VAR call in World Cup exit",
-    "desc": "Erling Haaland's World Cup debut ended with Norway's quarterfinal loss to England. He scored seven goals, establishing himself as a top tournament scorer. Haaland described the experience as unforgettable and the coolest six weeks of his life. He believes Norway's performance has put the nation on the football map. The striker is now looking forward to a well-deserved break.",
-    "img": "https://static.toiimg.com/photo/msid-132341817,imgsize-165200.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/if-thats-a-free-kick-erling-haaland-fumes-over-var-call-in-world-cup-exit/articleshow/132341798.cms",
-    "time": "2026-07-12T06:55:13.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "When S. Janaki rejected the Padma Bhushan",
     "desc": "“I should have been given the highest civilian award of Bharat Ratna if the government wanted to recognise my work. I am not interested in any other awards like the Padma awards,” Janaki said, after she was chosen for the Padma Bhushan",
@@ -475,15 +493,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/music/when-s-janaki-rejected-the-padma-bhushan/article71211270.ece",
     "time": "2026-07-12T06:36:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I can sit here and cry, but...': Norway coach breaks silence on Bellingham goal controversy",
-    "desc": "Norway's coach Stale Solbakken believes the ball hit an overhead camera cable before Jude Bellingham's goal. He stated the referee did not see the incident and received no official notification. FIFA later claimed no evidence showed the ball touching the wire and altering its trajectory. Despite the controversy, Solbakken praised his players' tournament performance and accepted the outcome.",
-    "img": "https://static.toiimg.com/photo/msid-132341256,imgsize-306394.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/i-can-sit-here-and-cry-but-norway-coach-breaks-silence-on-jude-bellingham-goal-controversy/articleshow/132341245.cms",
-    "time": "2026-07-12T05:48:49.000Z"
   },
   {
     "cat": "Sports",
@@ -502,15 +511,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/irans-supreme-leader-pledges-revenge-for-slain-father-and-predecessor/article71210345.ece",
     "time": "2026-07-12T04:47:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harry Kane, Jude Bellingham script FIFA World Cup history, become first pair to...",
-    "desc": "Harry Kane and Jude Bellingham achieved a historic World Cup scoring milestone for England. Bellingham scored twice in the quarterfinal victory, securing a semifinal berth for the team. Their combined six goals each set a new tournament benchmark for teammates from one nation. England defeated Norway in extra time, ending Haaland's scoring streak. The Three Lions now face Argentina in their quest for a World Cup final.",
-    "img": "https://static.toiimg.com/photo/msid-132340785,imgsize-111054.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/harry-kane-jude-bellingham-script-fifa-world-cup-history-become-first-pair-to-score-six-goals-each-for-same-nation/articleshow/132340784.cms",
-    "time": "2026-07-12T04:43:42.000Z"
   },
   {
     "cat": "Sports",
@@ -711,15 +711,6 @@ const newsData_en = [
     "time": "2026-07-11T03:25:30.000Z"
   },
   {
-    "cat": "World",
-    "title": "Trump agrees to more Iran talks but insists truce is over",
-    "desc": "The U.S. and ​Iran traded strikes this week, with the ⁠Iranian armed forces launching attacks on U.S. military infrastructure in Gulf states ‌on July 9, 2026 following U.S. strikes on Iran’s southern coastal and eastern provinces.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-iran-war-live-updates-ali-khamenei-funeral-ceremony-burial-military-strikes-donald-trump-mojtaba-khamenei-ceasefire-deal/article71205094.ece",
-    "time": "2026-07-11T02:06:29.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "BCCI to review recent white-ball setbacks",
     "desc": "Describing India’s successive T20I series defeats in Ireland and England as “a bad phase” rather than a cause for panic, Saikia stressed that the exercise would be a “performance review” rather than a knee-jerk reaction",
@@ -736,33 +727,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/athletics/with-hammer-and-pole-anushka-yadav-and-sindhushree-g-break-barriers/article71208111.ece",
     "time": "2026-07-10T19:44:46.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Price of peace in the time of war",
-    "desc": "Four months after a U.S.-Israeli strike killed Ayatollah Ali Khamenei and triggered a devastating war that disrupted global energy flows and claimed thousands of lives, including three Indian sailors, Washington and Tehran have agreed to a landmark peace pact in Islamabad. The MoU promises to lift sanctions and end blockades, though Israel’s ongoing offensive in Lebanon threatens the fragile truce",
-    "img": "https://th-i.thgim.com/public/incoming/tolqfi/article71207090.ece/alternates/LANDSCAPE_1200/AFP_B9RU9LR.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/price-of-peace-in-the-time-of-war/article71206883.ece",
-    "time": "2026-07-10T17:32:38.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ONGC board approves plan for 1.75-million-tonne storage capacity",
-    "desc": "As the world's third-largest importer and consumer of crude oil, India relies on imports for more than 88 per cent of its crude oil requirements. Against the backdrop of geopolitical uncertainty and fluctuations in global oil markets.",
-    "img": "https://static.toiimg.com/photo/msid-132315941,imgsize-864699.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-building-strategic-oil-reserves-ongc-board-approves-plan-for-1-75-million-tonne-storage-capacity/articleshow/132315053.cms",
-    "time": "2026-07-10T16:07:14.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Karur stampede: T.N. CM Vijay faults police, targets DMK",
-    "desc": "From TVK chief and TN CM Vijay’s Karur visit to renewed tensions in West Asia, this episode brings you the day’s biggest stories. We also track PM Modi’s New Zealand visit, the political buzz around Sharad Pawar’s meeting at Eknath Shinde’s office, WhatsApp’s reply to the Centre over its ‘username’ feature, FIFA updates, and more.",
-    "img": "https://th-i.thgim.com/public/news/national/14bio1/article71207494.ece/alternates/LANDSCAPE_1200/JULY%2010%20THUMB%202.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-karur-stampede-tn-cm-vijay-faults-police-targets-dmk-above-the-fold-10072026/article71207501.ece",
-    "time": "2026-07-10T15:56:56.000Z"
   },
   {
     "cat": "Entertainment",
@@ -898,5 +862,41 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
     "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
+    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
+    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
+    "time": "2024-03-12T09:45:05.000Z"
   }
 ];
