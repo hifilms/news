@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "જાણો કોણ છે શેખર ચૌધરી જેની સાથે જૈસ્મીન સૈંડલસે કરી છે સગાઈ",
+    "desc": "ધુરંધર ફિલ્મના શરારત ગીતને અવાજ આપનાર ગાયિકા જૈસ્મીન સૈંડલસે લાઈવ શો દરમિયાન પોતાની સગાઈની ઘોષણા કરી ચાહકોને ચોંકાવી દીધા છે. તેણે સ્ટેજ પર પોતાના ફિયાન્સને બોલાવી લોકો સામે ઈંસ્ટ્રોડ્યુસ પણ કર્યો છે. હવે લોકો એ જાણવા આતુર થયા છે કે જૈસ્મીન સૈંડલસે જેની સાથે સગાઈ કરી છે તે વ્યક્તિ કોણ છે ?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/who-is-shekhar-chaudhary-jasmine-sandlas-engagement-ring-in-live-concert-484363 ",
+    "time": "2026-07-12T08:06:06.000Z"
+  },
+  {
     "cat": "Business",
     "title": "સોના-ચાંદીના ભાવમાં મોટો કડાકો: સોનું ₹33000 તો ચાંદી ₹1.66 લાખ સુધી સસ્તી થઈ, જાણો હવે ખરીદી કરાય કે ભાવ હજુ ઘટશે?",
     "desc": "વર્ષ 2026મા સોનું 33000 રૂપિયા તો ચાંદી 1.66 લાખ સુધી સસ્તી થઈ ગઈ છે. તેવામાં જે લોકો ખરીદી કરવા ઈચ્છે છે તેના મનમાં તે સવાલ છે કે સોનાના ભાવમાં હજુ ઘટાડો થશે કે પછી કિંમતમાં તેજી આવશે?",
@@ -295,15 +304,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/bjp-leader-dipali-tiwari-claims-settlement-forced-imprisonment-announces-election-keshav-maury-up-bjp-484164 ",
     "time": "2026-07-10T09:49:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "આ છે ટીમ ઈન્ડિયાની હારના 5 વિલન... જેના કારણે ઈંગ્લેન્ડ પ્રવાસ પર ભારતને કરવો પડ્યો શરમજનક હારનો સામનો",
-    "desc": "ટીમ ઈન્ડિયા ઈંગ્લેન્ડ પ્રવાસ પર સતત ત્રીજી હારનો સામનો કરવો પડ્યો છે. ટીમ પહેલાથી જ શ્રેણી હારી ચૂકી છે અને ચોથી મેચમાં હારથી તેના નામે અનેક શરમજનક રેકોર્ડ બન્યા છે. ત્યારે આ મેચમાં ટીમ ઈન્ડિયાની હારના પાંચ મોટા ગુનેગારો કોણ છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/these-5-players-responsible-for-team-india-defeat-against-england-in-4th-t20-484160 ",
-    "time": "2026-07-10T09:22:37.000Z"
   },
   {
     "cat": "Politics",
@@ -664,14 +664,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/niti-taylor-alliance-reality-show-toxic-boyfriend-slapped-her-and-burn-her-with-cigarette-483717 ",
     "time": "2026-07-06T02:41:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "બોલ્ડ અને ઇન્ટિમેટ સીન્સથી ભરેલી છે OTTની આ 5 સીરિઝ, બાળકોની સામે ભૂલથી પણ ન કરો પ્લે",
-    "desc": "આજકાલ, OTT પ્લેટફોર્મ પર અસંખ્ય ફિલ્મો અને સીરિઝો ઉપલબ્ધ છે, જેનો દર્શકો ખૂબ આનંદ માણી રહ્યા છે. પરંતુ આજે, અમે તમને પાંચ એવી સીરિઝ વિશે જણાવીશું જેમાં બોલ્ડ દ્રશ્યો છે. આ સીરિઝઓ જોતા પહેલા તમારે તમારી ગોપનીયતાનું ખાસ ધ્યાન રાખવાની જરૂર પડશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/these-5-ott-series-are-full-of-bold-and-intimate-scenes-dont-play-them-in-front-of-children-by-mistake-483698 ",
-    "time": "2026-07-05T12:20:34.000Z"
   }
 ];
