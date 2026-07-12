@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India announce replacements for injured Harshit Rana and Varun Chakaravarthy ahead of ODI series",
+    "desc": "The Indian team is all set to take on England in a three-game ODI series. The two sides will meet on July 14, 16 and 19, and ahead of the series, the BCCI (Board of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-announce-replacements-for-injured-harshit-rana-and-varun-chakaravarthy-ahead-of-odi-series-2026-07-12-1048001",
+    "time": "2026-07-12T09:42:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ravichandran Ashwin backs veteran India batter's comeback into the side after T20I series loss to England",
+    "desc": "The Indian team succumbed to a hefty loss in the five-game T20I series against England. After the first T20I of the series was washed out due to rain, England handed the Indian team four straight...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ravichandran-ashwin-backs-veteran-india-batter-s-comeback-into-the-side-after-t20i-series-loss-to-england-2026-07-12-1047998",
+    "time": "2026-07-12T09:20:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Heather Knight set to retire from international cricket after Lord's Test match against India",
+    "desc": "In a major development, veteran England batter Heather Knight came forward and announced that she would be retiring from international cricket after the conclusion of the ongoing Test match against the Indian team at Lord’s...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/heather-knight-set-to-retire-from-international-cricket-after-lord-s-test-match-against-india-2026-07-12-1047993",
+    "time": "2026-07-12T08:21:46.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "H2H, where to watch, and all you need to know ahead of Wimbledon final",
     "desc": "The stage is set for the summit clash of the ongoing Wimbledon 2026. World number one Jannik Sinner will be taking on world number two Alexander Zverev at the Centre Court in London on July...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/eng-vs-nor-fifa-world-cup-live-england-vs-norway-score-tactical-discussion-commentary-playing-xi-1047961",
     "time": "2026-07-11T20:43:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Alongside Sourav Ganguly, another legendary cricketer inducted into ICC's Hall of Fame",
-    "desc": "Former England cricketer Kevin Pietersen has been inducted into the ICC Hall of Fame. The 46-year-old has been honoured for his impact across all three formats of international cricket. He was one of the leading...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/alongside-sourav-ganguly-another-legendary-cricketer-inducted-into-icc-s-hall-of-fame-2026-07-12-1047960",
-    "time": "2026-07-11T20:09:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Linda Noskova becomes third woman after Serena and Venus Williams to achieve rare feat with Wimbledon win",
-    "desc": "Linda Noskova captured her first Grand Slam singles title at Wimbledon after overcoming a dramatic challenge from fellow Czech player Karolina Muchova in a final that swung repeatedly between control and uncertainty. The 21-year-old ninth...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/linda-noskova-becomes-third-woman-after-serena-and-venus-williams-to-achieve-rare-feat-with-wimbledon-win-2026-07-12-1047959",
-    "time": "2026-07-11T19:08:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kranti Gaud creates history with five-wicket haul in one-off Test against England at Lord's",
-    "desc": "India pacer Kranti Gaud produced a historic show in the one-off Test against England at Lord’s by claiming a five-wicket haul. Courtesy of her dominating spell, England were out for 170 on day two, allowing...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/karnti-gaud-creates-history-with-five-wicket-haul-in-one-off-test-against-england-at-lord-s-2026-07-12-1047958",
-    "time": "2026-07-11T18:32:00.000Z"
   }
 ];

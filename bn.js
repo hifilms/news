@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "ভারতের ঘাড়ে ৫০০% শুল্ক চাপাচ্ছে আমেরিকা? ভারতের কোমর ভেঙে-দেওয়ার অপচেষ্টা কেন ট্রাম্পের? হবে মূল্যবৃদ্ধি?",
+    "desc": "মার্কিন কংগ্রেসের চার প্রভাবশালী সেনেটর জানান, রাশিয়ার উপর নতুন নিষেধাজ্ঞা সংক্রান্ত একটি বিল নিয়ে ট্রাম্প প্রশাসনের সঙ্গে সমঝোতা হয়েছে। খুব শীঘ্রই বিলটি কংগ্রেসে আনা হবে বলে জানানো হয়েছে। এই পরিস্থিতিতে, সন্দেহ নেই, নতুন করে চাপে পড়তে পারে ভারত।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/500-percent-us-tariff-threat-on-india-as-us-revives-russia-sanctions-push-price-rise_662009.html ",
+    "time": "2026-07-12T09:19:02.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "নরওয়ে বনাম ইংল্যান্ড, সুইজারল্যান্ডের মুখোমুখি আর্জেন্টিনা: জেনে নিন কখন, কোথায় দেখবেন এই মহারণ?",
     "desc": "সেমিফাইনালের টিকিট কি পাবেন লিওনেল মেসি? রবিবার সকালে বিশ্বকাপের মেগা কোয়ার্টার ফাইনালে সুইজারল্যান্ডের মুখোমুখি হচ্ছে ডিফেন্ডিং চ্যাম্পিয়ন আর্জেন্টিনা। ইতিমধ্যে বিশ্বকাপে ২১ গোল করে ইতিহাস গড়া মেসির দিকেই থাকবে নজর। ভারতে কখন, কোন চ্যানেলে এবং কীভাবে মোবাইলে লাইভ স্ট্রিম দেখতে পাবেন এই ম্যাচ?",
@@ -223,5 +232,32 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/gaurav-khanna-breaks-his-silence-on-divorce-from-akanksha-chamola-extends-support-to-her_660611.html ",
     "time": "2026-07-01T07:35:18.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
+    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
+    "time": "2026-06-01T03:50:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
+    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
+    "time": "2026-05-23T05:15:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "পেট্রোল ও ডিজেলের দাম লিটারে ৩ টাকা বাড়ল, জেনে নিন আপনার শহরে জ্বালানির নতুন দাম",
+    "desc": "চার বছর পর পেট্রোল ও ডিজেলের দাম প্রতি লিটারে ₹৩ টাকা করে বাড়ল। এর ফলে কলকাতা ও দিল্লিতে জ্বালানি মহার্ঘ্য হল। Fuel prices hiked by ₹3 per litre after a long wait causing rates to rise in major cities.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-15-2026-000015b-jpg-1778819385461_1778819386210-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-india-fuel-rates-increased-by-3-rupees-per-litre-delhi-kolkata-014-306911.html",
+    "time": "2026-05-15T04:35:17.000Z"
   }
 ];

@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "કોરોનાનું ખતરનાક કમબેક! આંધ્ર પ્રદેશમાં કોવિડથી 2 લોકોના મોત બાદ હડકંપ, સરકારે તાત્કાલિક લાગુ કર્યા આ પ્રતિબંધો",
+    "desc": "આંધ્ર પ્રદેશના કડપ્પા જિલ્લામાં કોરોનાને કારણે બે લોકોના મોત થયા છે અને આઠ કેસ સામે આવ્યા છે. કોરોનાના કેસ સામે આવતા સમગ્ર રાજ્યમાં હેલ્થ એલર્ટ જારી કરવામાં આવ્યું છે. તંત્રએ ભીડભાડવાળી જગ્યા પર માસ્ક ફરજીયાત કરી દીધું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/covid-alert-nationwide-concern-as-andhra-pradesh-reports-fresh-covid-deaths-samples-sent-for-genome-sequencing-484372 ",
+    "time": "2026-07-12T10:00:24.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ફક્ત સિમ કાર્ડ કાઢવા માટે નથી આ ઇજેક્ટર ટૂલ, વાઇ-ફાઇથી લઈને ઇયરબડ્સ સુધી બધું જ ઠીક કરી શકે છે આ નાની પિન!",
+    "desc": "સ્માર્ટફોન બોક્સમાં જોવા મળતું સિમ ઇજેક્ટર ટૂલ ઘણીવાર ઉપયોગ પછી ખોવાઈ જાય છે અથવા ખોવાઈ જાય છે. પરંતુ આ અદ્ભુત નાનું ટૂલ ફક્ત સિમ કાઢવા માટે જ નથી, તે Wi-Fi રાઉટર અને ઇયરબડ્સ જેવી તકનીકી સમસ્યાઓને ઝડપથી રીસેટ કરવા અને ઠીક કરવા માટે પણ એક સારૂ ઈમરજન્સી સાધન છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/this-ejector-tool-isnt-just-for-removing-sim-cards-this-little-pin-can-fix-everything-from-wi-fi-to-earbuds-484371 ",
+    "time": "2026-07-12T09:57:06.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "વધારે વોટના ચાર્જરથી ઓછા વોટનો ફોન ઝડપથી ચાર્જ થાય કે ચાર્જીંગ કરવું સેફ છે ? જાણો સાચો જવાબ",
+    "desc": "આપણે ઘણીવાર કામ પર કોઈ સંબંધી કે મિત્ર પાસેથી ચાર્જર માગીએ છીએ, જેથી આપણો ફોન ચાર્જ કરી શકીએ. પરંતુ સતત ચિંતા એ રહે છે કે, જો આપણો ફોન 18W ફાસ્ટ ચાર્જિંગને સપોર્ટ કરે છે, પણ આપણા મિત્રનું ચાર્જર 60Wને સપોર્ટ કરે છે તો શું? આજે આપણે આ અંગે ચર્ચા કરવા જઈ રહ્યા છીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/does-a-low-wattage-phone-charge-faster-with-a-high-wattage-charger-or-is-it-safe-to-charge-it-find-out-the-correct-answer-484368 ",
+    "time": "2026-07-12T09:35:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "&amp;#039;GFS ગેલેક્સી&amp;#039; પર હુમલો: 10 ભારતીયોનો આબાદ બચાવ, 1 લાપતા નાગરિક માટે રેસ્ક્યૂ ઓપરેશન શરૂ, ભારતે કડક શબ્દોમાં નિંદા કરી",
+    "desc": "ઓમાનના દરિયાકાંઠા પાસે વાણિજ્યિક જહાજો પર GFS ગેલેક્સી પર થયેલા હુમલાની ભારતે કડક શબ્દોમાં નિંદા કરી છે. જહાજ પર સવાર 11 ભારતીયોમાંથી 10ને સુરક્ષિત બચાવી લેવામાં આવ્યા છે, જ્યારે એક લાપતા નાગરિક માટે રેસ્ક્યુ ઓપરેશન જારી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/attack-on-ship-near-oman-coast-with-11-indians-onboard-mea-condemns-incident-demands-immediate-halt-to-attacks-484365 ",
+    "time": "2026-07-12T08:38:24.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "જાણો કોણ છે શેખર ચૌધરી જેની સાથે જૈસ્મીન સૈંડલસે કરી છે સગાઈ",
     "desc": "ધુરંધર ફિલ્મના શરારત ગીતને અવાજ આપનાર ગાયિકા જૈસ્મીન સૈંડલસે લાઈવ શો દરમિયાન પોતાની સગાઈની ઘોષણા કરી ચાહકોને ચોંકાવી દીધા છે. તેણે સ્ટેજ પર પોતાના ફિયાન્સને બોલાવી લોકો સામે ઈંસ્ટ્રોડ્યુસ પણ કર્યો છે. હવે લોકો એ જાણવા આતુર થયા છે કે જૈસ્મીન સૈંડલસે જેની સાથે સગાઈ કરી છે તે વ્યક્તિ કોણ છે ?",
@@ -279,24 +315,6 @@ const newsData_gu = [
     "time": "2026-07-10T11:07:41.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ઇંગ્લેન્ડ પ્રવાસ સાથે સમાપ્ત થઈ જશે આ 3 ખેલાડીઓની T20 કારકિર્દી ? સતત થઈ રહ્યા છે ફેલ",
-    "desc": "ટીમ ઈન્ડિયા હાલમાં ખૂબ જ મુશ્કેલ પરિસ્થિતિમાં હોય તેવું લાગે છે. આયર્લેન્ડ સામે 0-2થી શ્રેણી ગુમાવ્યા બાદ ટીમ હવે ઈંગ્લેન્ડ સામે પણ 0-3થી હારી ગઈ છે. પરિણામે કેટલાક ખેલાડીઓના પ્રદર્શન હાલમાં ભારે ચર્ચાનો વિષય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/team-india-these-3-players-t20-careers-will-end-after-england-tour-484168 ",
-    "time": "2026-07-10T10:48:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "કોણ છે રોનાલ્ડોના ફેવરિટ કોચ Jorge Jesus ? જે સંભાળી શકે છે પોર્ટુગલની કમાન, વર્લ્ડ કપમાં હાર બાદ મોટો ફેરફાર",
-    "desc": "પોર્ટુગલ ટીમે ફૂટબોલ વર્લ્ડ કપ 2026માં ચાહકોને નિરાશ કર્યા છે, ટીમ રાઉન્ડ ઓફ 16માં હાર બાદ વર્લ્ડ કપમાંથી બહાર થઈ ગઈ હતી. હવે ટીમને નવા કોચ મળવાના છે. જોર્જ જીસસ આ ભૂમિકા સંભાળી શકે છે, તે ટીમના કેપ્ટન ક્રિસ્ટિયાનો રોનાલ્ડોના ફેવરિટ પણ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/who-is-ronaldo-favorite-coach-jorge-jesus-set-to-become-next-portugal-manager-484166 ",
-    "time": "2026-07-10T10:20:52.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "ભાજપના સીનિયર ધારાસભ્યની દીકરીને જિલ્લા પ્રમુખે કહ્યું તમારી પાસે તો આપવા માટે ઘણું છે, ઉપપ્રમુખ બનાવી દઈશ",
     "desc": "ભાજપમાં એક નવો વિવાદ સામે આવ્યો છે. ઉત્તર પ્રદેશના મહોબામાં ભાજપના જિલ્લા પ્રમુખ પર સેક્સની માંગણી કરવાનો ગંભીર આરોપ લગાવનાર ભાજપની મહિલા નેતાએ હવે આરપારની લડાઈ લડવાનું નક્કી કર્યું છે. દીપાલીએ પાર્ટીના નેતાઓ પર ગંભીર આક્ષેપો કરતા ડેપ્યુટી સીએમ કેશવ પ્રસાદ મૌર્ય સામે ચૂંટણી લડવાનું એલાન કરી દીધું છે.",
@@ -531,15 +549,6 @@ const newsData_gu = [
     "time": "2026-07-08T07:51:25.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "રામ મંદિરમાં કેટલું દાન આવ્યું? સોનું, ચાંદી અને કરોડોની રોકડના આંકડા જોઈ ચોંકી જશો!",
-    "desc": "રામ જન્મભૂમિ તીર્થ ક્ષેત્ર ટ્રસ્ટની નાણાકીય સ્થિતિ અને સોના-ચાંદીના દાનના રેકોર્ડ હવે જાહેર થયા છે. SITના પ્રારંભિક અહેવાલ અને ટ્રસ્ટના ઉપલબ્ધ નાણાકીય નિવેદનો અનુસાર, 31 માર્ચ, 2026 સુધીમાં ટ્રસ્ટને હજારો કરોડ રૂપિયાનું ભંડોળ પ્રાપ્ત થયું હતું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/how-much-donation-was-received-in-the-ram-temple-you-will-be-shocked-to-see-the-figures-of-gold-silver-and-crores-of-cash-483961 ",
-    "time": "2026-07-08T07:33:47.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Welcome To The Jungle ફિલ્મ ફક્ત 125 કરોડમાં બની, ડાયરેક્ટર અહેમદ ખાને જણાવ્યું કેવી રીતે બચાવ્યા કરોડો રુપિયા",
     "desc": "અક્ષય કુમારની ફિલ્મ વેલકમ ટુ ધ જંગલ ફિલ્મે રિલીઝ પહેલા જ તેના બજેટ જેટલી કમાણી કરી લીધી છે. આ ફિલ્મ કમાણીની દ્રષ્ટિએ પહેલાથી જ હીટ થઈ ચુકી છે. આ વાત ફિલ્મના ડાયરેક્ટર અહેમદ ખાને જણાવી છે. અને સાથે જ જણાવ્યું કે તેણે કેવી રીતે 32 કલાકારો સાથે પણ 125 કરોડમાં જ ફિલ્મ પુરી કરી લીધી.",
@@ -547,15 +556,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/welcome-to-the-jungle-movie-bugdet-was-125-crore-director-ahmed-khan-explain-how-he-saved-extra-cost-483952 ",
     "time": "2026-07-08T06:14:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "બંગાળના બરુઈપુર રેપ-મર્ડર કેસનો આરોપી એન્કાઉન્ટરમાં માર્યો ગયો",
-    "desc": "પશ્ચિમ બંગાળના બરુઈપુરના રેપ એન્ડ મર્ડર કેસના મુખ્ય આરોપીઓમાંથી એક પ્રભાસ મંડળનું પોલીસ એન્કાઉન્ટરમાં મોત થયું છે. મળતી માહિતી મુજબ રાતે લગભગ 12 વાગે પ્રભાસ મંડળને પોલીસ ક્રાઈમ સીન રીક્રિએશન માટે લઈ જઈ રહી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/big-breaking-west-bengal-baruipur-rape-murder-case-accused-killed-in-encounter-483942 ",
-    "time": "2026-07-08T05:17:11.000Z"
   },
   {
     "cat": "World",
@@ -621,15 +621,6 @@ const newsData_gu = [
     "time": "2026-07-06T10:54:42.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "પૂર કે વરસાદથી કારને થયું નુકસાન? જાણો ઈન્શ્યોરન્સ ક્લેમ મળશે કે નહીં",
-    "desc": "ચોમાસામાં કેટલીક મુસીબતો પણ આવે છે. કાર ઘણીવાર ભારે વરસાદ અને પાણી ભરાઈ જવાથી ફસાઈ જાય છે, જેના કારણે એન્જિનથી લઈને ઇલેક્ટ્રોનિક સિસ્ટમ સુધી બધું જ મિનિટોમાં નુકસાન થાય છે. સૌથી મોટો પ્રશ્ન એ છે કે શું કાર વીમો આ નુકસાનને આવરી લેશે, કે પછી તેનો બધો ખર્ચ તમારે ઉઠાવવો પડશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/car-damaged-due-to-flood-or-rain-will-i-get-an-insurance-claim-or-not-know-complete-information-here-483761 ",
-    "time": "2026-07-06T09:34:09.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "જાણો શું છે દિલજીત દોસાંજની ફિલ્મ સતલુજનો વિવાદ, શા માટે ભારતમાં ફિલ્મને કરી દીધી બૈન ?",
     "desc": "દિલજીત દોસાંજની ફિલ્મ સતલુજને લઈને 2022 થી વિવાદ ચાલે છે. આ ફિલ્મને થિયેટર રિલીઝની મંજૂરી તો ન મળી પણ વર્ષોના ઈંતેજાર પછી જ્યારે આ ફિલ્મ ઝી5 પર રિલીઝ થઈ તો ત્યાંથી પણ 2 જ દિવસમાં ફિલ્મને હટાવી લેવામાં આવી. જેના કારણે દર્શકોના મનમાં પ્રશ્ન થયો છે કે એવું તો શું છે આ ફિલ્મમાં કે તેને ભારતમાં બૈન કરી દેવામાં આવી ? તો ચાલો તમને જણાવીએ આ ફિલ્મના વિવાદ વિશે વિસ્તારપૂર્વક.",
@@ -637,15 +628,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/what-is-satluj-movie-controversy-why-diljit-dosanj-film-satluj-banned-in-india-know-here-483755 ",
     "time": "2026-07-06T08:29:47.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "28 KM માઇલેજ, સનરૂફ અને 6 એરબેગ! આ હાઇબ્રિડ SUV પર મળી રહ્યું છે ₹3 લાખનું ડિસ્કાઉન્ટ",
-    "desc": "જો તમે એક નવી હાઇબ્રિડ SUV ખરીદવાની યોજના બનાવી રહ્યાં છો તો Maruti Suzuki Grand Vitara મળી રહેલી ઓફરનો ફાયદો ઉઠાવી શકો છો. જુલાઈ 2026મા આ એસયુવી પર કુલ 3 લાખ સુધીનો ફાયદો મળી રહ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/maruti-grand-vitara-bonanza-massive-3-lakh-benefits-in-july-2026-483751 ",
-    "time": "2026-07-06T07:44:12.000Z"
   },
   {
     "cat": "Entertainment",
