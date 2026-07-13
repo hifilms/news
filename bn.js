@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "খুচরো নেই তো নেমে যান! স্বয়ং পরিবহণ মন্ত্রীকেই রেগে বাস থেকে নামিয়ে দিলেন কন্ডাক্টর; ভয়ংকর কাণ্ড",
+    "desc": "খুচরো না থাকার সমস্যা বাসযাত্রীদের কাছে ভীষণ চেনা। খুচরো নিয়ে বাসের কনডাকটরের সঙ্গে যাত্রীর বচসার ঘটনা নতুন কিছু নয়। কিন্তু তার জেরে যা ঘটল, তা সাংঘাতিক! স্বয়ং পরিবহণ মন্ত্রীকেই বাস থেকে নামিয়ে দিলেন কন্ডাক্টর! মন্ত্রীর 'অপরাধ'? খুচরো নেই তাঁর কাছে! তাই বলে মন্ত্রীকে সাধারণ যাত্রীর মতো বাস থেকে নামিয়ে দেওয়া?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/no-change-masked-karnataka-transport-minister-ordered-off-bengaluru-bus-by-conductor_662145.html ",
+    "time": "2026-07-13T10:16:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "কমিশনের বিগ আপডেট! নতুন ভোটারদের জন্য নিয়মে বড় বদল! ভোটার তালিকায় নাম তোলার জন্য এবার নতুন শর্ত!",
+    "desc": "কমিশনের বিগ আপডেট! নতুন ভোটরদের জন্য নিয়মে বড় বদল! ভোটার তালিকায় নাম তোলার জন্য এবার নতুন শর্ত! বিহারে এসআইআর কর্মসূচি চালুর সময় প্রথম এই ঘোষণা করা হয়েছিল। পরে যেসব রাজ্য ও কেন্দ্রশাসিত অঞ্চলে SIR হয়েছে বা হয়ে চলছে, সেখানেও একই ব্যবস্থা কার্যকর হয়েছে। কমিশনের মতে, এই পদ্ধতিতে নতুন ভোটারদের পরিচয় যাচাই আরও সহজ হবে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/new-voters-must-submit-parents-sir-details-for-inclusion-in-electoral-rolls_662142.html ",
+    "time": "2026-07-13T09:25:26.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "হরমুজ বন্ধ হতেই লাফিয়ে বাড়ল জ্বালানি তেলের দাম! গ্যাসের দামও কি এবার আকাশছোঁয়া হবে?",
+    "desc": "আগে মার্কিন যুক্তরাষ্ট্র ইরানের কয়েকটি গুরুত্বপূর্ণ নির্মাণ লক্ষ্য করে হামলা চালায়। মার্কিন সেন্ট্রাল কমান্ড জানিয়েছে, ইরানের বিভিন্ন সামরিক পরিকাঠামোয় একাধিক হামলা চালানো হয়েছে। এর জবাবে ইরানের ইসলামিক রেভল্যুশনারি গার্ড কোর দাবি করেছে, মধ্যপ্রাচ্যে মার্কিন যুক্তরাষ্ট্রের সামরিক ঘাঁটিগুলি লক্ষ্য করে ক্ষেপণাস্ত্র ও ড্রোন হামলা চালানো হয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/oil-jumps-3-percent-after-us-iran-escalate-strikes-in-mideast_662114.html ",
+    "time": "2026-07-13T07:33:16.000Z"
+  },
+  {
     "cat": "World",
     "title": "মধ্যরাতে বিভীষিকা! আচমকাই লোড শেডিং, তারপর বিকট শব্দে বিস্ফোরণ! নাইট ক্লাবে বিধ্বংসী আগুনে মৃত্যুমিছিল",
     "desc": "ঘটনার পর স্থানীয় ফায়ার সার্ভিস ও জরুরি পরিষেবা দল উদ্ধারকাজ পরিচালনা করে। অগ্নিকাণ্ডে পুরো পাবটির ভেতরের অংশ, আসবাবপত্র ও ইলেকট্রনিক্স সরঞ্জাম সম্পূর্ণ পুড়ে ছাই হয়ে গিয়েছে। নিরাপত্তা ব্যবস্থা এবং নিয়ম মেনে পাবটি চালানো হচ্ছিল কি না, তা নিয়ে প্রশাসন তদন্ত শুরু করেছে।",
@@ -214,5 +241,32 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/gaurav-khanna-breaks-his-silence-on-divorce-from-akanksha-chamola-extends-support-to-her_660611.html ",
     "time": "2026-07-01T07:35:18.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
+    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
+    "time": "2026-06-01T03:50:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
+    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
+    "time": "2026-05-23T05:15:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "পেট্রোল ও ডিজেলের দাম লিটারে ৩ টাকা বাড়ল, জেনে নিন আপনার শহরে জ্বালানির নতুন দাম",
+    "desc": "চার বছর পর পেট্রোল ও ডিজেলের দাম প্রতি লিটারে ₹৩ টাকা করে বাড়ল। এর ফলে কলকাতা ও দিল্লিতে জ্বালানি মহার্ঘ্য হল। Fuel prices hiked by ₹3 per litre after a long wait causing rates to rise in major cities.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-15-2026-000015b-jpg-1778819385461_1778819386210-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-india-fuel-rates-increased-by-3-rupees-per-litre-delhi-kolkata-014-306911.html",
+    "time": "2026-05-15T04:35:17.000Z"
   }
 ];

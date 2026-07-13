@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India women register huge win over England in one-off Lord's Test as Yastika and Kranti shine",
+    "desc": "Indian women have completed a historic win over England in the one-off Test at the iconic Lord's. The Women in Blue defeated the English side by 270 runs in the first-ever Test match at the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-women-register-huge-win-over-england-in-one-off-lords-test-as-yastika-and-kranti-shine-2026-07-13-1048116",
+    "time": "2026-07-13T11:45:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Suryakumar Yadav still in fray for T20I return? BCCI source drops major update",
+    "desc": "India T20I captain Suryakumar Yadav's return to the Indian T20I team might not be completely out as the Board of Control for Cricket in India (BCCI) has reportedly not ruled out his comeback. This comes...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-still-in-fray-of-t20i-return-bcci-source-drops-major-update-2026-07-13-1048106",
+    "time": "2026-07-13T10:38:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cricket West Indies name star batter as Justin Greaves' replacement ahead of New Zealand ODIs",
+    "desc": "CWI (Cricket West Indies) has come forward and announced the replacement of the injured Justin Greaves. It is worth noting that Greaves sustained an injury to his back that ruled him out of the first...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/cricket-west-indies-name-star-batter-as-justin-greaves-replacement-ahead-of-new-zealand-odis-2026-07-13-1048097",
+    "time": "2026-07-13T09:34:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Best is yet to come': Yastika Bhatia opens up after becoming first female Test centurion at Lord's",
+    "desc": "India wicketkeeper-batter Yastika Bhatia believes her \"best is yet to come\" after she became the first women's cricketer to hit a Test century at the iconic Lord's stadium, marking an incredible comeback from a career-threatening...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/best-is-yet-to-come-yastika-bhatia-opens-up-after-becoming-first-female-test-centurion-at-lord-s-2026-07-13-1048085",
+    "time": "2026-07-13T07:57:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Stephen Fleming steps down as Chennai Super Kings' head coach after 18 years in charge",
+    "desc": "In a major development, five-time IPL (Indian Premier League) champions Chennai Super Kings came forward and announced the departure of their long-time head coach, Stephen Fleming, from the side. It is worth noting that the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/stephen-fleming-steps-down-as-chennai-super-kings-head-coach-after-18-years-in-charge-2026-07-13-1048071",
+    "time": "2026-07-13T06:46:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Was Vaibhav Sooryavanshi's inclusion in team India rushed after England series loss? Former cricketer opines",
+    "desc": "The Indian team succumbed to a hefty loss in their five-game T20I series against England. After the first T20I of the series was washed out due to rain, England managed to pull off marvellous performances...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/was-vaibhav-sooryavanshi-s-inclusion-in-team-india-rushed-after-england-series-loss-former-cricketer-opines-2026-07-13-1048067",
+    "time": "2026-07-13T06:26:28.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "FIFA World Cup 2026 semi-finals: Schedule, match-ups, records, and all you need to know",
     "desc": "The stage is set for the semi-final stage of the ongoing FIFA World Cup 2026. Four teams have made their way into the semi-finals of the mega event and will look to put in their...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/jannik-sinner-clinches-wimbledon-2026-title-registers-dominant-win-over-alexander-zverev-in-summit-clash-2026-07-13-1048039",
     "time": "2026-07-13T01:42:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Brendon McCullum steps down as England's test coach, to continue in white-ball role",
-    "desc": "Brendon McCullum has decided to step down as England's head coach for the test team, but will continue to lead the side in the t20Is and the one-day internationals (ODIs), announced the England and Wales...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/brendon-mccullum-steps-down-as-england-s-test-coach-to-continue-in-white-ball-role-2026-07-12-1048019",
-    "time": "2026-07-12T13:51:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India announce replacements for injured Harshit Rana and Varun Chakaravarthy ahead of ODI series",
-    "desc": "The Indian team is all set to take on England in a three-game ODI series. The two sides will meet on July 14, 16 and 19, and ahead of the series, the BCCI (Board of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-announce-replacements-for-injured-harshit-rana-and-varun-chakaravarthy-ahead-of-odi-series-2026-07-12-1048001",
-    "time": "2026-07-12T09:42:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ravichandran Ashwin backs veteran India batter's comeback into the side after T20I series loss to England",
-    "desc": "The Indian team succumbed to a hefty loss in the five-game T20I series against England. After the first T20I of the series was washed out due to rain, England handed the Indian team four straight...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ravichandran-ashwin-backs-veteran-india-batter-s-comeback-into-the-side-after-t20i-series-loss-to-england-2026-07-12-1047998",
-    "time": "2026-07-12T09:20:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Heather Knight set to retire from international cricket after Lord's Test match against India",
-    "desc": "In a major development, veteran England batter Heather Knight came forward and announced that she would be retiring from international cricket after the conclusion of the ongoing Test match against the Indian team at Lord’s...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/heather-knight-set-to-retire-from-international-cricket-after-lord-s-test-match-against-india-2026-07-12-1047993",
-    "time": "2026-07-12T08:21:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "H2H, where to watch, and all you need to know ahead of Wimbledon final",
-    "desc": "The stage is set for the summit clash of the ongoing Wimbledon 2026. World number one Jannik Sinner will be taking on world number two Alexander Zverev at the Centre Court in London on July...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/jannik-sinner-vs-alexander-zverev-h2h-where-to-watch-and-all-you-need-to-know-ahead-of-wimbledon-final-2026-07-12-1047988",
-    "time": "2026-07-12T07:11:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shreyas Iyer opens up after India face embarrassing fifth T20I loss against England in Southampton",
-    "desc": "The Indian team succumbed to a hefty loss in the fifth and final T20I of the ongoing series against England. The two sides met at the Rose Bowl in Southampton on July 11th, and England...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-opens-up-after-india-face-embarrassing-fifth-t20i-loss-against-england-in-southampton-2026-07-12-1047980",
-    "time": "2026-07-12T05:37:40.000Z"
   }
 ];
