@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Virat Kohli, Rohit Sharma remain integral part of team': Shubman Gill ahead of England ODIs",
+    "desc": "India ODI and Test captain Shubman Gill has put his weight behind veteran batters Virat Kohli and Rohit Sharma being an \"integral part\" of the ODI side as the Men in Blue prepare for the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-rohit-sharma-remain-integral-part-of-team-shubman-gill-ahead-of-england-odis-2026-07-13-1048130",
+    "time": "2026-07-13T14:32:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "3 options who can replace Stephen Fleming as CSK head coach after 18-year association ends",
+    "desc": "Stephen Fleming and Chennai Super Kings ended their 18-year-long association, bringing the curtain down on a fabled period that brought all the glory to the CSK and Fleming too.. Fleming was associated with the Super...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/3-options-who-can-replace-stephen-fleming-as-csk-head-coach-after-18-year-association-ends-2026-07-13-1048120",
+    "time": "2026-07-13T12:19:37.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India women register huge win over England in one-off Lord's Test as Yastika and Kranti shine",
     "desc": "Indian women have completed a historic win over England in the one-off Test at the iconic Lord's. The Women in Blue defeated the English side by 270 runs in the first-ever Test match at the...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rahul-dravid-among-contenders-to-take-over-as-england-s-test-head-coach-after-mccullum-s-departure-report-2026-07-13-1048053",
     "time": "2026-07-13T04:08:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How much prize money did Jannik Sinner win after clinching Wimbledon 2026 title? Check here",
-    "desc": "Jannik Sinner defeated Alexander Zverev in the summit clash of Wimbledon 2026. Securing a victory in four sets, the world number one registered a 6-7 (7-9), 7-6 (7-2), 6-3, 6-4 victory and got his hands...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/how-much-prize-money-did-jannik-sinner-win-after-clinching-wimbledon-2026-title-check-here-2026-07-13-1048044",
-    "time": "2026-07-13T02:40:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jannik Sinner clinches Wimbledon 2026 title, registers dominant win over Alexander Zverev in summit clash",
-    "desc": "World number one Jannik Sinner put forth a magnificent performance in the final of Wimbledon 2026. Taking on Germany’s Alexander Zverev in the final, Sinner took four sets to defeat Zverev and get his hands...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/jannik-sinner-clinches-wimbledon-2026-title-registers-dominant-win-over-alexander-zverev-in-summit-clash-2026-07-13-1048039",
-    "time": "2026-07-13T01:42:11.000Z"
   }
 ];
