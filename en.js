@@ -1,5 +1,86 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "His wife, former partners, children",
+    "desc": "Legendary New Zealand actor Sam Neill, best known for playing Dr. Alan Grant in Jurassic Park, has died at the age of 78. Neill was known for keeping his personal life private. He married Japanese makeup artist Noriko Watanabe in 1989 after the pair met while working on Dead Calm, which also starred Nicole Kidman. Before his marriage, Neill was in a long-term relationship with New Zealand actress Lisa Harrow, his Omen III co-star.",
+    "img": "https://static.toiimg.com/photo/msid-132376486,imgsize-107501.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sam-neill-passes-away-at-78-inside-his-marriage-to-noriko-watanabe-relationship-with-lisa-harrow-four-children-and-grandchildren/articleshow/132376482.cms",
+    "time": "2026-07-13T21:44:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Comprehensive sex education' coming soon to schools, government tells Supreme Court",
+    "desc": "India will formally introduce comprehensive sex education in schools and colleges nationwide. The government has accepted a committee's report recommending this significant curriculum change. This move aims to address concerns regarding adolescent pregnancies and criminalization under the Pocso Act. Subjects like child sexual abuse and safety will be integrated from foundational stages. The National Council of Educational Research and Training will develop the new curriculum.",
+    "img": "https://static.toiimg.com/photo/msid-132376304,imgsize-129668.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/comprehensive-sex-education-coming-soon-to-schools-government-tells-supreme-court/articleshow/132376299.cms",
+    "time": "2026-07-13T21:31:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India launches UNSC campaign for 2028-29 term, Jaishankar unveils ‘SHANTI’ vision",
+    "desc": "India officially launched its campaign for a United Nations Security Council seat. External affairs minister S Jaishankar highlighted the country's peacekeeping and development partnerships. India presented its SHANTI vision for global governance and cooperation among nations. The nation seeks support for its candidature amid a changing global landscape. India previously served eight terms as a non-permanent Security Council member.",
+    "img": "https://static.toiimg.com/photo/msid-132376286,imgsize-420627.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-launches-unsc-campaign-for-2028-29-term-jaishankar-unveils-shanti-vision/articleshow/132376275.cms",
+    "time": "2026-07-13T21:02:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court quashes Guwahati high court order on 27 'foreigners'",
+    "desc": "The Supreme Court stressed fair procedures for declaring individuals foreign nationals. It found fault with tribunals and the Guwahati High Court's actions. Many orders were quashed as they lacked hearings for affected people. The court directed tribunals to provide fresh hearings and reconsider cases. This ensures lawful adjudication and protects constitutional rights for all.",
+    "img": "https://static.toiimg.com/photo/msid-132376261,imgsize-113120.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/supreme-court-quashes-gauhati-high-court-order-on-27-foreigners/articleshow/132376257.cms",
+    "time": "2026-07-13T20:42:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Where is Kim Kardashian's ex-husband Kris Humphries now?",
+    "desc": "Kim Kardashian and Kris Humphries' whirlwind romance and 72-day marriage dominated headlines in 2011. Their lavish wedding was watched by more than 10 million viewers and became one of the year's biggest pop culture moments. But more than a decade later, Humphries has chosen a life far removed from Hollywood fame.",
+    "img": "https://static.toiimg.com/photo/msid-132376242,imgsize-108393.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/where-is-kim-kardashians-ex-husband-kris-humphries-now-from-a-72-day-marriage-to-running-fried-chicken-restaurants-in-minnesota/articleshow/132376234.cms",
+    "time": "2026-07-13T20:31:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "18 Amarnath yatris injured in Ramban multi-vehicle collision",
+    "desc": "Eighteen pilgrims sustained injuries in a multi-vehicle collision involving several buses and a car. The accident occurred on the Jammu-Srinagar National Highway in Ramban district early Monday. All injured pilgrims were promptly taken to the Ramban district hospital for treatment. They had sustained only minor injuries and were reported to be in stable condition. Police have initiated an investigation into the cause of the unfortunate pile-up.",
+    "img": "https://static.toiimg.com/photo/msid-132376225,imgsize-43780.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-18-amarnath-yatris-injured-in-ramban-multi-vehicle-collision/articleshow/132376212.cms",
+    "time": "2026-07-13T20:21:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP slaps Rs 100 crore notice on Omar over MLA poaching charge",
+    "desc": "The BJP has issued a Rs 100-crore defamation notice to Jammu and Kashmir Chief Minister Omar Abdullah. This action follows Abdullah's allegations that a BJP functionary attempted to poach his party MLA. The notice demands an unconditional public apology from Abdullah within seven days. Abdullah dismissed the notice, viewing it as a sign of his political significance. He also warned of legal counter-notices against BJP functionaries for their past statements.",
+    "img": "https://static.toiimg.com/photo/msid-132376210,imgsize-117080.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-bjp-slaps-rs-100-crore-notice-on-omar-over-mla-poaching-charge/articleshow/132376191.cms",
+    "time": "2026-07-13T20:16:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Democratic decentralisation’: Government announces hill councils for all 7 Ladakh districts",
+    "desc": "Ladakh will establish hill development councils in all seven districts to strengthen grassroots governance. This move aims to decentralize power and improve administrative reach across the vast territory. Currently, only Leh and Kargil districts have these autonomous district councils. Discussions are ongoing for a unique UT-level legislative body with broad powers. A draft framework for this new arrangement will be prepared soon.",
+    "img": "https://static.toiimg.com/photo/msid-132376190,imgsize-96910.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/democratic-decentralisation-government-announces-hill-councils-for-all-7-ladakh-districts/articleshow/132376173.cms",
+    "time": "2026-07-13T20:10:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Court remands 3 arrested publishers in police custody",
+    "desc": "Three publishers were remanded to police custody for ten days in Jammu. This case involves books with separatist content supplied to government school libraries. Sub-committees selected titles, but two books were later flagged for objectionable material. Over one hundred copies of each book had already reached schools before withdrawal. An inquiry was ordered, and eight education officials were suspended.",
+    "img": "https://static.toiimg.com/photo/msid-132375479,imgsize-39192.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-court-remands-3-arrested-publishers-in-police-custody/articleshow/132375460.cms",
+    "time": "2026-07-13T19:07:21.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Jammu &amp; Kashmir administrtion seals Martyrs’ Graveyard; Omar, Mehbooba pay homage at party offices",
     "desc": "Authorities restricted access to Srinagar's Martyrs' Graveyard on Monday. Political leaders paid homage at their respective party offices instead. Last year, Omar Abdullah bypassed barricades to reach the graveyard. The administration removed July 13 and December 5 from public holidays. This action followed the abrogation of Article 370 in January 2020.",
@@ -105,15 +186,6 @@ const newsData_en = [
     "img": "https://static.toiimg.com/photo/msid-132371311,imgsize-200759.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/where-are-the-gandhi-siblings-why-wayanad-has-put-rahul-priyanka-in-the-line-of-bjp-fire/articleshow/132370825.cms",
-    "time": "2026-07-13T16:06:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Development works worth ₹500 crore underway in Kondepi, says Minister",
-    "desc": "Inaugurating a road project at Singarayakonda, Dola Sree Bala Veeranjaneya Swamy criticises the previous government for halting BC residential school project in Singarayakonda, adding that ₹45 crore has been sanctioned to it by the BC Welfare Minister",
-    "img": "https://th-i.thgim.com/public/incoming/9skfml/article71218523.ece/alternates/LANDSCAPE_1200/10215_13_7_2026_21_25_3_1_WHATSAPPIMAGE2026_07_13AT72119PM.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/development-works-worth-500-crore-underway-in-kondepi-says-minister/article71218239.ece",
     "time": "2026-07-13T16:06:19.000Z"
   },
   {
@@ -378,15 +450,6 @@ const newsData_en = [
     "time": "2026-07-13T12:29:12.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Strikes in Yemen, Iran; Mamata alleges EC bias &amp; more",
-    "desc": "Strikes in Yemen and Iran have heightened regional tensions and caused casualties. Mamata Banerjee accused the Election Commission of favoring a rival Trinamool Congress faction. India is seeking better terms in US trade talks, though the government denies stalled negotiations. A Kerala man convicted in a double murder case showed no remorse in court. China's reported chipmaking breakthrough could reshape the global semiconductor race.",
-    "img": "https://static.toiimg.com/photo/msid-132366880,imgsize-761477.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-strikes-in-yemen-iran-mamata-alleges-ec-bias-more/articleshow/132366854.cms",
-    "time": "2026-07-13T12:26:27.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Adarsh Baal Vidyalaya' trailer leaves fans impressed by Kay Kay Menon",
     "desc": "Audiences are raving about the trailer for 'Adarsh Baal Vidyalaya' on Prime Video, especially praising Kay Kay Menon in the role of principal Gyaneshwar Tripathi. The humor in the series has been likened to that of contemporary Bollywood comedies. The storyline centers on a principal's determination to enhance his school, with its premiere set for July 24 on Prime Video.",
@@ -442,15 +505,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Anthony Hopkins releases his single and announces debut album",
-    "desc": "Veteran actor Anthony Hopkins has released his debut album and single. The album, 'Life is a Dream,' features music composed over six decades. His single, 'Bracken Road,' was composed by the actor in 1963. The album was recorded in April and will be released on August 21, 2026. This release fulfills his lifelong ambition of signing a record deal.",
-    "img": "https://static.toiimg.com/photo/msid-132365636,imgsize-158015.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/anthony-hopkins-releases-his-single-and-announces-his-debut-album-life-is-a-dream-at-88-music-was-my-first-desire/articleshow/132365603.cms",
-    "time": "2026-07-13T11:32:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Sanjay Dutt Joins 'NBK111' sets",
     "desc": "Sanjay Dutt is set to make waves as he joins the star-studded cast of Nandamuri Balakrishna's highly anticipated film NBK111. The renowned Bollywood actor touched down in Hyderabad to commence filming pivotal scenes alongside Balakrishna. Enthusiasts can expect thrilling moments as the movie gears up for a late-year release, with Nayanthara already confirmed as the female lead.",
     "img": "https://static.toiimg.com/photo/msid-132365635,imgsize-1102733.cms",
@@ -475,15 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/retail-inflation-jumps-to-4-38-in-june-driven-by-food-jewellery-prices-breaches-rbis-4-target/articleshow/132364979.cms",
     "time": "2026-07-13T11:12:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Real' TMC row: Mamata Banerjee cries foul over EC's 'stoic silence', opposes more time for rebel camp",
-    "desc": "Mamata Banerjee asked the Election Commission to stop granting more time to the Ritabrata Banerjee faction. She alleged the poll body's silence gave the rebel group additional leeway. The rival faction claimed to be the real Trinamool Congress party. Mamata's camp argued its organizational committees remain valid until 2027. The Election Commission had previously set deadlines for both groups.",
-    "img": "https://static.toiimg.com/photo/msid-132365191,imgsize-89161.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/real-tmc-row-mamata-banerjee-cries-foul-over-ecs-stoic-silence-opposes-more-time-for-rebel-camp/articleshow/132364321.cms",
-    "time": "2026-07-13T11:09:47.000Z"
   },
   {
     "cat": "Sports",
@@ -531,15 +576,6 @@ const newsData_en = [
     "time": "2026-07-13T10:50:40.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Tributes pour in for Sam Neill",
-    "desc": "The sudden passing of veteran actor Sam Neill has prompted an outpouring of tributes from around the world. With heartfelt messages from the prime ministers of New Zealand and Australia, as well as moving remembrances from colleagues in the film industry, Neill's significant contributions to cinema are being celebrated. His family confirmed his death at his home in Sydney, leaving a legacy that will not be forgotten.",
-    "img": "https://static.toiimg.com/photo/msid-132363692,imgsize-110112.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/who-was-sam-neill-from-anupam-kher-to-karl-urban-and-the-new-zealand-pm-world-pays-final-respects-to-the-beloved-jurassic-park-star/articleshow/132363692.cms",
-    "time": "2026-07-13T10:40:00.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Poompuhar to launch gifting, export initiatives; collaborate with Reliance for sale of crafts by T.N. artisans",
     "desc": "Poompuhar is collaborating with Reliance Retail, which will procure handicraft products and showcase across its retail outlets. Poompuhar is making a strong push into gifting segment, with the initiative set to be launched ahead of Deepavali.",
@@ -574,15 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/we-rushed-vaibhav-sooryavanshi-wasim-jaffer-says-india-got-carried-away-by-hype/articleshow/132362396.cms",
     "time": "2026-07-13T09:25:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Ayodhya Ram Mandir Trust opens applications for CEO post amid donation row, sets July 18 as deadline",
-    "desc": "The Ram Temple Trust is actively seeking a chief executive officer to oversee temple management. Interested candidates must submit their applications by July 18 for this key leadership position. This recruitment initiative unfolds under the Supreme Court’s investigation into alleged misappropriation of donations. The appointed CEO will be responsible for daily operations and will be based in Ayodhya, with the selection process anticipated to wrap up in the coming month.",
-    "img": "https://static.toiimg.com/photo/msid-132362411,imgsize-142176.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ayodhya-ram-mandir-trust-opens-applications-for-ceo-post-amid-donation-row-sets-july-18-as-deadline/articleshow/132362329.cms",
-    "time": "2026-07-13T09:21:40.000Z"
   },
   {
     "cat": "Sports",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/theatre/ranga-shankaras-annual-theatre-festival-for-children-returns-to-bengaluru/article71202103.ece",
     "time": "2026-07-11T05:55:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Mother Promise’ movie review: A wacky homage to cinema and Bengaluru",
-    "desc": "‘Mother Promise’, directed by Poornachandra Mysore and starring Dhananjaya, might not be everyone’s cup of tea. But it’s a hilarious mash-up of pop culture references and absurd antics that will leave people in splits if they are in the mood for a wacky ride",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/xfvijs/article71208067.ece/alternates/LANDSCAPE_1200/Mother%20Promise2.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/mother-promise-movie-review-dhananjaya-poornachandra-mysore-daali-pictures-comedy-humour-kannada/article71208040.ece",
-    "time": "2026-07-11T05:07:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "PIL in Punjab and Haryana HC seeks restoration of Diljit Dosanjh-starrer Satluj",
-    "desc": "The PIL said the sudden withdrawal of the film based upon documented historical events and the life of a human rights defender whose case has already been adjudicated upon by constitutional courts has given rise to serious concerns regarding transparency, freedom of artistic expression, and the possible existence of undisclosed executive interference",
-    "img": "https://th-i.thgim.com/public/incoming/psoneg/article71203399.ece/alternates/LANDSCAPE_1200/Still%204.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/pil-in-punjab-haryana-hc-seeks-restoration-of-diljit-dosanjh-starrer-satluj/article71203391.ece",
-    "time": "2026-07-10T13:58:14.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Why does India need an Index of Services Production?",
-    "desc": "As a panacea to the inherent limitations of the present structure, which is dependent mainly on quarterly GDP estimates and indirect indicators, the MoSPI finalised the services index, compiled using outward supply of enterprises registered under goods and services tax (GST); but can potentially leverage digital data in the future",
-    "img": "https://th-i.thgim.com/public/incoming/ty6d5i/article71206641.ece/alternates/LANDSCAPE_1200/file7r4dfvbjsxuvbf8bk5z.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/why-does-india-need-an-index-of-services-production-explained/article71206466.ece",
-    "time": "2026-07-10T13:11:01.000Z"
   }
 ];
