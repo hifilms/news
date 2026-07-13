@@ -1,5 +1,86 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Jammu &amp; Kashmir administrtion seals Martyrs’ Graveyard; Omar, Mehbooba pay homage at party offices",
+    "desc": "Authorities restricted access to Srinagar's Martyrs' Graveyard on Monday. Political leaders paid homage at their respective party offices instead. Last year, Omar Abdullah bypassed barricades to reach the graveyard. The administration removed July 13 and December 5 from public holidays. This action followed the abrogation of Article 370 in January 2020.",
+    "img": "https://static.toiimg.com/photo/msid-132375445,imgsize-156962.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jammu-kashmir-administrtion-seals-martyrs-graveyard-omar-mehbooba-pay-homage-at-party-offices/articleshow/132375391.cms",
+    "time": "2026-07-13T19:04:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CM Omar Abdullah’s Trump remarks anger BJP, party says it’s attempt to ‘internationalise Kashmir’",
+    "desc": "BJP criticized Omar Abdullah for invoking Donald Trump regarding Jammu and Kashmir statehood. Abdullah sarcastically suggested approaching Trump for statehood after BJP remarks. He also responded to a false tweet attributed to President Trump. BJP stated Jammu and Kashmir is an integral part of India. They emphasized the central government's commitment to restoring statehood.",
+    "img": "https://static.toiimg.com/photo/msid-132375379,imgsize-76972.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-cm-omar-abdullahs-trump-remarks-anger-bjp-party-says-its-attempt-to-internationalise-kashmir/articleshow/132375340.cms",
+    "time": "2026-07-13T18:58:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SAD chief Sukhbir Badal's close aide Dalvir Singh Kala shot at by bike-borne attacker in Punjab hospitalised",
+    "desc": "Shiromani Akali Dal leader Dalvir Singh Kala was shot and injured by an assailant. The incident occurred in Punjab's Mansa district on Monday evening. Kala, a former Zila Parishad member, was attacked near his shop. Police are investigating the shooting and examining CCTV footage. Efforts are underway to identify and apprehend the motorcycle-borne attacker.",
+    "img": "https://static.toiimg.com/photo/msid-132374559,imgsize-20978.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sad-chief-sukhbir-badals-close-aide-dalvir-singh-kala-shot-at-by-bike-borne-attacker-in-punjab-hospitalised/articleshow/132374074.cms",
+    "time": "2026-07-13T18:15:05.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Yemen government says attacked Sanaa airport, reviving dormant conflict",
+    "desc": "The government said it had wanted to prevent an Iranian plane from landing in the capital, after failing to convince a Houthi delegation that went to Tehran for the late Iranian Supreme Leader’s funeral to board a Yemenia flight instead.",
+    "img": "https://th-i.thgim.com/public/incoming/vhjjp2/article71218772.ece/alternates/LANDSCAPE_1200/AP07_13_2026_000341B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/yemen-government-says-attacked-sanaa-airport-reviving-dormant-conflict/article71218767.ece",
+    "time": "2026-07-13T17:51:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Big changes in Chess World Cup! FIDE approves new format for 2027",
+    "desc": "FIDE has approved a new format for the 2027 World Cup and Women's World Cup, reducing the events from 27 to 19 days by introducing a Swiss qualification stage before the knockout rounds. Both tournaments will feature more players, expanded qualification pathways and a combined prize fund of USD 3.3 million, making the competitions more inclusive and rewarding.",
+    "img": "https://static.toiimg.com/photo/msid-132373365,imgsize-180813.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/big-changes-in-chess-world-cup-fide-approves-new-format-for-open-and-womens-events-from-2027/articleshow/132372833.cms",
+    "time": "2026-07-13T17:42:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Nine bodies recovered from trawler that went missing off Bengal coast; six fishermen missing",
+    "desc": "The , Joy Maa Kaali, set sail from Purba Medinipur; it went missing on July 2 and was found in the Sundarbans; the crew gave a distress call on July 8 about engine failure and sought help, says fishermen’s union",
+    "img": "https://th-i.thgim.com/public/incoming/yaczrp/article69459606.ece/alternates/LANDSCAPE_1200/10217_16_6_2023_19_51_55_2_DSC_1655.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/bodies-recovered-from-trawler-that-went-missing-off-bengal-coast-several-fishermen-missing/article71218635.ece",
+    "time": "2026-07-13T17:40:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Autonomous hill councils to be extended to all seven districts in Ladakh",
+    "desc": "The Ladakh administration has added 17 additional tehsils taking the total to 32; Chief Secretary Ashish Kundra says several rounds of discussions have been held with representatives of religious organisations and civil society bodies over constitutional safeguards",
+    "img": "https://th-i.thgim.com/public/business/1i30a5/article71218702.ece/alternates/LANDSCAPE_1200/Screenshot%202026-07-13%20223431.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/ladakh/ladakh-to-set-up-autonomous-hill-development-councils-for-all-seven-districts-chief-secretary/article71217964.ece",
+    "time": "2026-07-13T17:07:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'We will test them out': Duckett issues warning to Rohit, Virat ahead of ODI series",
+    "desc": "England opener Ben Duckett stated they will test Indian batters with short balls. He acknowledged the challenge will differ from the T20 series. Duckett also discussed facing Jasprit Bumrah in the ODI format. He believes England players have individual plans for Bumrah. Despite T20 success, England anticipates a tough ODI series challenge.",
+    "img": "https://static.toiimg.com/photo/msid-132372479,imgsize-148776.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/we-will-test-them-out-ben-duckett-issues-warning-to-rohit-sharma-virat-kohli-ahead-of-odi-series/articleshow/132371580.cms",
+    "time": "2026-07-13T17:01:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bodies of 15 Indians killed in Vietnam boat tragedy arrive in Mumbai",
+    "desc": "The bodies of fifteen Indian nationals killed in Vietnam's boat tragedy have arrived in Mumbai. Ten victims were from Tamil Nadu, three from Andhra Pradesh, and two from Kerala. One Indian national remains hospitalized in Phu Quoc after a medical procedure. The speedboat carrying thirty-two Indian tourists capsized near Phu Quoc Island on Friday. Vietnamese authorities have ordered an investigation into the incident and detained the operator.",
+    "img": "https://static.toiimg.com/photo/msid-132372458,imgsize-1291969.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bodies-of-15-indians-killed-in-vietnam-boat-tragedy-arrive-in-mumbai/articleshow/132372468.cms",
+    "time": "2026-07-13T16:59:56.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "'No French players in France ': Ex-Spain PM's remark sparks racism row",
     "desc": "Former Spanish Prime Minister Mariano Rajoy sparked outrage after saying France's football team had \"no French players\" ahead of the World Cup semi-final. Leaders in Spain and France condemned the remarks as xenophobic and racist. France defended the diversity of its national team, stressing all players are French citizens and should be judged by talent, not their background.",
@@ -19,7 +100,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Where are the Gandhi siblings? Why Wayanad has put Rahul, Priyanka in the line of BJP fire",
+    "title": "Where are the Gandhi siblings? Why Wayanad landslide has put Rahul, Priyanka in the line of BJP fire",
     "desc": "The BJP is raising eyebrows over Rahul and Priyanka Gandhi's absence from Wayanad following a landslide, labeling them as part-time politicians and political tourists. Wayanad is crucial for the Gandhis, as it has been a significant political stronghold for Rahul. Meanwhile, Rahul has not been seen publicly for almost three weeks. In response, Congress defends their leaders, stating their absence helps maintain the focus on relief operations.",
     "img": "https://static.toiimg.com/photo/msid-132371311,imgsize-200759.cms",
     "src": "indiatimes.com",
@@ -97,24 +178,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/your-prayers-efforts-gave-us-strength-indian-embassy-thanks-vietnam-as-bodies-of-boat-tragedy-victims-return-home/articleshow/132370411.cms",
     "time": "2026-07-13T15:30:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Karnataka Chief Minister",
-    "desc": "Chief Minister D.K. Shivakumar said the government needs to balance the interests of Karnataka’s farmers, ensure drinking water supply, and comply with court directions while taking a decision on the release of Cauvery water to Tamil Nadu",
-    "img": "https://th-i.thgim.com/public/incoming/bscr5l/article71218321.ece/alternates/LANDSCAPE_1200/IMG_1552.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/decision-on-cauvery-water-release-after-july-15-meeting-karnataka-chief-minister/article71218251.ece",
-    "time": "2026-07-13T15:24:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Street vendors urge MCC Commissioner to halt eviction drive till survey is completed",
-    "desc": "Citing the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, a street vendors’ representative says the authorities cannot evict any street vendor until a survey is completed and ID cards and vending certificates are issued to the street vendors.",
-    "img": "https://th-i.thgim.com/public/incoming/avm03r/article71218297.ece/alternates/LANDSCAPE_1200/5964_13_7_2026_20_37_51_1_STREETVENDORSMEETING.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/street-vendors-urge-mcc-commissioner-to-halt-eviction-drive-till-survey-is-completed/article71218190.ece",
-    "time": "2026-07-13T15:22:16.000Z"
   },
   {
     "cat": "Business",
@@ -558,33 +621,6 @@ const newsData_en = [
     "time": "2026-07-13T07:55:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Bengal's anti-goonda law comes into force: What it allows and why the oppn is worried",
-    "desc": "The Act empowers the BJP government with sweeping powers including preventive detention, property confiscation and the removal of suspected troublemakers from specific areas. The government says the law is aimed at tackling organised crime and anti-social activities, while the Opposition has criticised it as draconian and vulnerable to misuse. The government says the legislation is designed to strengthen public safety.",
-    "img": "https://static.toiimg.com/photo/msid-132360344,imgsize-72688.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bengals-anti-goonda-law-comes-into-force-what-it-allows-and-why-the-oppn-is-worried/articleshow/132358212.cms",
-    "time": "2026-07-13T07:42:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Iran reward Ghalenoei after inspired World Cup campaign with 2027 Asian Cup extension",
-    "desc": "Iran's football federation has extended coach Amir Ghalenoei's contract until the 2027 AFC Asian Cup. Ghalenoei will lead the team after a memorable FIFA World Cup campaign. Iran drew all three matches in their challenging World Cup group stage. The experienced coach previously led the team to the 2007 Asian Cup quarter-finals. Iran now prepare for the 2027 continental tournament, having last won in 1978.",
-    "img": "https://static.toiimg.com/photo/msid-132359770,imgsize-98570.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/iran-reward-amir-ghalenoei-after-inspired-fifa-world-cup-campaign-with-2027-asian-cup-extension/articleshow/132359776.cms",
-    "time": "2026-07-13T07:19:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SC stays Madras HC order directing total ban on cow slaughter during Bakrid",
-    "desc": "A vacation bench comprising Justice GR Swaminathan and Justice V Lakshminarayanan passed the order while hearing a public interest litigation (PIL) seeking to prevent the slaughter of cows in places other than designated slaughterhouses. \"The question that calls for consideration in this PIL is whether cows and calves can be sacrificed in places not designated as slaughterhouses on the occasion of Bakrid?\" the bench observed.",
-    "img": "https://static.toiimg.com/photo/msid-132359449,imgsize-225834.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sc-stays-madras-hc-order-directing-total-ban-on-cow-slaughter-during-bakrid/articleshow/132359294.cms",
-    "time": "2026-07-13T07:02:24.000Z"
-  },
-  {
     "cat": "Business",
     "title": "What's the outlook for Nifty for July 13-July 17 week? Check list of top stock recommendations",
     "desc": "Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities recommends Indian Hotels Company, and Equitas Small Finance Bank as top stocks to buy for the July 13-July 17, 2026 week. Technical outlooks for Nifty, and Bank Nifty have also been shared:",
@@ -592,24 +628,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/top-stocks-to-buy-this-week-july-13-to-july-17-stock-recommendations-indian-hotels-company-equitas-small-finance-bank/articleshow/132359258.cms",
     "time": "2026-07-13T06:56:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Terminator 6': Yuvraj gives Sooryavanshi a new nickname",
-    "desc": "Yuvraj Singh has given Vaibhav Sooryavanshi the nickname \"Terminator 6\". He sees the young player as a serious talent with a bright future. Singh previously mentored Abhishek Sharma and wishes to guide Sooryavanshi too. Both players attended the Wimbledon men's singles final recently. Sooryavanshi expressed his excitement about learning from his idol Yuvraj.",
-    "img": "https://static.toiimg.com/photo/msid-132359054,imgsize-41958.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/terminator-6-yuvraj-singh-gives-vaibhav-sooryavanshi-a-new-nickname-calls-him-serious-player-in-the-making-watch/articleshow/132358981.cms",
-    "time": "2026-07-13T06:43:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Citizenship must be decided through fair process': SC sets aside Guahati HC judgment",
-    "desc": "The Supreme Court has overturned the Gauhati High Court's rulings on foreigner status, with Justices Vikram Nath and Sandeep Mehta calling for a re-examination of cases by tribunals. They highlighted that citizenship matters hold significant constitutional weight and must be approached with procedural fairness, stressing the state's duty to safeguard against misuse of citizenship assertions.",
-    "img": "https://static.toiimg.com/photo/msid-132358933,imgsize-160172.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/citizenship-must-be-decided-through-fair-process-sc-sets-aside-guahati-hc-judgment/articleshow/132358421.cms",
-    "time": "2026-07-13T06:18:33.000Z"
   },
   {
     "cat": "Sports",
@@ -628,15 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-2026-first-time-in-36-years-argentina-france-spain-and-england-set-up-historic-semifinals/articleshow/132357853.cms",
     "time": "2026-07-13T05:49:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SC rejects plea of 350 West Bengal madrasa teachers seeking grant-in-aid salaries",
-    "desc": "A few days ago, in a fresh order, the Suvendu government ordered an inspection of unaided madrasas operating across 12 districts and directed the authorities concerned to submit reports by July 21. The inspection is slated to be completed by July 15, an official said. Barely days after coming of power in West Bengal, chief minister Suvendu Adhikari-led state cabinet Monday scrapped the assistance to the groups based on religious categorisation.",
-    "img": "https://static.toiimg.com/photo/msid-132357773,imgsize-201406.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sc-rejects-plea-of-350-west-bengal-madrasa-teachers-seeking-grant-in-aid-salaries/articleshow/132357703.cms",
-    "time": "2026-07-13T05:36:18.000Z"
   },
   {
     "cat": "Sports",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/why-does-india-need-an-index-of-services-production-explained/article71206466.ece",
     "time": "2026-07-10T13:11:01.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India lays out tariffs and quotas for U.K. vehicles under trade deal",
-    "desc": "As per the Directorate General of Foreign Trade’s notification, a total of 20,000 completely built units (CBUs) of petrol and diesel passenger vehicles will be allowed for import from the U.K. at concessional rates of 30-50%, depending on the size of the car, down from the normal import duty of between 66-110%",
-    "img": "https://th-i.thgim.com/public/incoming/umo7fv/article71205654.ece/alternates/LANDSCAPE_1200/2208323857.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/india-lays-out-tariffs-and-quotas-for-uk-vehicles-under-trade-deal/article71205545.ece",
-    "time": "2026-07-10T07:58:21.000Z"
   }
 ];

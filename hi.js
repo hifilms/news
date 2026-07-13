@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Brendon McCullum apologises to England cricket fans for marquee series losses",
+    "desc": "Axed England Test coach Brendon McCullum has apologised to the England fans for not producing the desired results he and the team wanted in the four-year stint with the Three Lions in the red-ball format....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/brendon-mccullum-apologises-to-england-cricket-fans-for-marquee-series-losses-2026-07-13-1048143",
+    "time": "2026-07-13T18:26:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Stuart Broad calls Virat Kohli India's 'hero', backs Men in Blue for England ODIs",
+    "desc": "As India gear up for a much-anticipated three-match ODI series against England, former English bowler Stuart Broad has put his weight behind the Men in Blue to perform well with stars like Virat Kohli, Rohit...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/stuart-broad-calls-virat-kohli-indias-hero-backs-men-in-blue-for-england-odis-2026-07-13-1048141",
+    "time": "2026-07-13T17:42:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Yuvraj Singh expresses desire to mentor Vaibhav Sooryavanshi after overseeing Abhishek Sharma",
+    "desc": "Former India cricketer Yuvraj Singh has expressed his desire to mentor teenage sensation Vaibhav Sooryavanshi, highlighting that he sees him as a \"serious player in the making\". Sooryavanshi has caught up everyone's imagination with his...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/yuvraj-singh-expresses-desire-to-mentor-vaibhav-sooryavanshi-after-helping-abhishek-sharma-2026-07-13-1048140",
+    "time": "2026-07-13T17:17:03.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Delhi High Court protects personality rights of India cricketer Abhishek Sharma",
     "desc": "In a significant move, the Delhi High Court has protected the rights of Indian cricketer Abhishek Sharma, restraining third parties from any unauthorised misuse of his name, image, etc for commercial or personal gain. The...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/cricket-west-indies-name-star-batter-as-justin-greaves-replacement-ahead-of-new-zealand-odis-2026-07-13-1048097",
     "time": "2026-07-13T09:34:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Best is yet to come': Yastika Bhatia opens up after becoming first female Test centurion at Lord's",
-    "desc": "India wicketkeeper-batter Yastika Bhatia believes her \"best is yet to come\" after she became the first women's cricketer to hit a Test century at the iconic Lord's stadium, marking an incredible comeback from a career-threatening...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/best-is-yet-to-come-yastika-bhatia-opens-up-after-becoming-first-female-test-centurion-at-lord-s-2026-07-13-1048085",
-    "time": "2026-07-13T07:57:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Stephen Fleming steps down as Chennai Super Kings' head coach after 18 years in charge",
-    "desc": "In a major development, five-time IPL (Indian Premier League) champions Chennai Super Kings came forward and announced the departure of their long-time head coach, Stephen Fleming, from the side. It is worth noting that the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/stephen-fleming-steps-down-as-chennai-super-kings-head-coach-after-18-years-in-charge-2026-07-13-1048071",
-    "time": "2026-07-13T06:46:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Was Vaibhav Sooryavanshi's inclusion in team India rushed after England series loss? Former cricketer opines",
-    "desc": "The Indian team succumbed to a hefty loss in their five-game T20I series against England. After the first T20I of the series was washed out due to rain, England managed to pull off marvellous performances...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/was-vaibhav-sooryavanshi-s-inclusion-in-team-india-rushed-after-england-series-loss-former-cricketer-opines-2026-07-13-1048067",
-    "time": "2026-07-13T06:26:28.000Z"
   }
 ];
