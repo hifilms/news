@@ -1,12 +1,12 @@
 const newsData_bn = [
   {
-    "cat": "Sports",
-    "title": "পাঠচক্রকে চূর্ণ করে শুরু মোহনবাগানের, সবুজ-মেরুনেও বেশ ঝকঝকে সায়ন",
-    "desc": "পাঠচক্রকে গোলের মালা পরিয়েই কলকাতা লিগ শুরু করল মোহনবাগান। সোমবার ১৩ জুলাই, নিজেদের ঘরের মাঠে বৃষ্টিস্নাত বিকালে, ফ্লাডলাইটের আলোয় বাস্তব রায়ের সবুজ-মেরুন ৪-০ চূর্ণ করল সঞ্জয় দে'র পাঠচক্রকে। স্কোরশিটে নাম লেখালেন কিয়ান নাসিরি, সুহেল ভাট, সায়ন বন্দ্যোপাধ্যায় ও বিভান জ্যেতি লস্কর। তিন পয়েন্টেই খাতা খুলল গঙ্গাপারের শতাব্দী প্রাচীন ক্লাব।",
+    "cat": "Entertainment",
+    "title": "কাজের নাম করে বাড়ি ডেকে সহকর্মীকে 'ধর্ষণ'! PA-র গ্রেফতারি নিয়ে মুখ খুললেন শ্রাবন্তী",
+    "desc": "সহকর্মীকে ধর্ষণের অভিযোগে গ্রেফতার টলিউড অভিনেত্রী শ্রাবন্তী চট্টোপাধ্যায়ের আপ্তসহায়ক। গত ১২ এপ্রিল চ্যাটার্জিহাট এলাকায় নিজের বাড়িতে ডেকে সহকর্মীকে ধর্ষণের অভিযোগ উঠেছে তাঁর বিরুদ্ধে। রবিবার রাতে গ্রেফতারির পর সোমবার ধৃতকে পেশ করা হল হাওড়া আদালতে। এই ঘটনায় মুখ খুলে তীব্র অস্বস্তি প্রকাশ করলেন খোদ অভিনেত্রীও!",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/sports/mohun-bagan-beats-pathchakra-4-0-cfl-2026-27_662204.html ",
-    "time": "2026-07-13T14:18:23.000Z"
+    "url": " https://zeenews.india.com/bengali/entertainment/tollywood-actress-srabanti-chatterjee-pa-arrested-in-rape-case-howrah_662210.html ",
+    "time": "2026-07-13T15:43:19.000Z"
   },
   {
     "cat": "Politics",
@@ -142,24 +142,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/jump-from-plane-flight-instructor-jumps-to-death-from-plane-mid-training-student-lands-safely_661670.html ",
     "time": "2026-07-09T12:13:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "মৃত বাবার চাকরি মা কেন পাবে? ৭ লাখ দিয়ে মাকে নির্মম খুন করাল আয়ুষি",
-    "desc": "ঘটনার দিন সকালে নিজের ছেলেকে কোচিং সেন্টারে পৌঁছে দিয়ে বাড়ি ফিরছিলেন তিনি। ঠিক সেই সময়েই প্রায় ১৩০ কিলোমিটার গতিতে আসা একটি স্করপিও গাড়ি তাঁকে সজোরে ধাক্কা মারে। প্রত্যক্ষদর্শীদের মতে, গাড়ির ধাক্কায় প্রায় ১০০ ফুট দূরে ছিটকে পড়েন তিনি এবং ঘটনাস্থলেই তাঁর মৃত্যু হয়।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/woman-hires-hitmen-to-kill-mother-for-government-job-and-property_661630.html ",
-    "time": "2026-07-09T08:19:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "প্রবল বৃষ্টি-প্লাবন-ধসে মহা বিপর্যয়! মাথার উপর পাহাড় ভেঙে পড়ে ভয়ংকর মৃত্যু! ৭১টি রাস্তা বন্ধ",
-    "desc": "হিমাচল প্রদেশের পর এবার প্রাকৃতিক দুর্যোগের কবলে উত্তরাখণ্ড। উত্তরাখণ্ডে ঘোর বিপর্যয়! বুধবার রাত থেকেই বিপর্যস্ত উত্তরাখণ্ড। বিরাট ধসে বন্ধ হয়ে যায় সত্তরটিরও বেশি রাস্তা। প্রথামিক ভাবে একজন মারা গিয়েছিলেন বলে জানা গিয়েছিল। পরে মৃতের সংখ্যা বেড়ে হয় ৪। এখন কী পরিস্থিতি? উদ্ধারকাজ কেমন চলছে?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/uttarakhand-landslide-death-4-rescue-operation-continues-landslide-hits-nh-707a-uttarakhand-imd-issues-alert_661627.html ",
-    "time": "2026-07-09T07:56:22.000Z"
   },
   {
     "cat": "World",

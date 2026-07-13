@@ -1,21 +1,147 @@
 const newsData_en = [
   {
-    "cat": "Politics",
-    "title": "Child rights panel files case against Jaleel over student reprimand",
-    "desc": "The former Minister allegedly rebuked a student and held his ear during a felicitation function. He says he often use humour, friendly admonition and conversation to encourage students while pointing out their shortcomings. MSF accuses Jaleel of publicly humiliating the student.",
-    "img": "https://th-i.thgim.com/public/incoming/6ya7h1/article71217970.ece/alternates/LANDSCAPE_1200/Kerala-AssemblyGF5FPGK12.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/child-rights-panel-files-case-against-jaleel-over-student-reprimand/article71217733.ece",
-    "time": "2026-07-13T14:24:23.000Z"
+    "cat": "Sports",
+    "title": "'No French players in France ': Ex-Spain PM's remark sparks racism row",
+    "desc": "Former Spanish Prime Minister Mariano Rajoy sparked outrage after saying France's football team had \"no French players\" ahead of the World Cup semi-final. Leaders in Spain and France condemned the remarks as xenophobic and racist. France defended the diversity of its national team, stressing all players are French citizens and should be judged by talent, not their background.",
+    "img": "https://static.toiimg.com/photo/msid-132371442,imgsize-133669.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/no-french-players-in-france-team-ex-spain-pms-remark-sparks-racism-row-ahead-of-world-cup-clash/articleshow/132371218.cms",
+    "time": "2026-07-13T16:31:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I would be very surprised': Karthik on Andy Flower becoming England Test coach",
+    "desc": "Dinesh Karthik believes Andy Flower would be an excellent choice for England's Test coach. However, he feels Flower's existing commitments make this move highly unlikely. Flower has a three-year contract with Royal Challengers Bengaluru for the IPL. This would mean missing parts of England's Test matches. The schedule presents significant challenges for such a dual role.",
+    "img": "https://static.toiimg.com/photo/msid-132371118,imgsize-71034.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-would-be-very-surprised-dinesh-karthik-doubts-andy-flower-will-leave-rcb-for-england-test-coaching-role/articleshow/132371124.cms",
+    "time": "2026-07-13T16:12:37.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Report alleges irregularities in Kerala’s Break the Chain campaign during COVID-19",
-    "desc": "A report of the Finance inspection wing recommends an audit to ensure the accuracy of asset records at Kerala Social Security Mission, the implementing agency, and disciplinary action against Mohammed Asheel, the then Executive Director of KSSM. Asheel refutes report, says his detailed response was ‘dismissed’",
-    "img": "https://th-i.thgim.com/public/incoming/earhgb/article71217821.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_URC78VB84_R1584805629_0_02dae051-f794-4c42-a826-6951129664d9.jpg",
+    "title": "Where are the Gandhi siblings? Why Wayanad has put Rahul, Priyanka in the line of BJP fire",
+    "desc": "The BJP is raising eyebrows over Rahul and Priyanka Gandhi's absence from Wayanad following a landslide, labeling them as part-time politicians and political tourists. Wayanad is crucial for the Gandhis, as it has been a significant political stronghold for Rahul. Meanwhile, Rahul has not been seen publicly for almost three weeks. In response, Congress defends their leaders, stating their absence helps maintain the focus on relief operations.",
+    "img": "https://static.toiimg.com/photo/msid-132371311,imgsize-200759.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/where-are-the-gandhi-siblings-why-wayanad-has-put-rahul-priyanka-in-the-line-of-bjp-fire/articleshow/132370825.cms",
+    "time": "2026-07-13T16:06:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Development works worth ₹500 crore underway in Kondepi, says Minister",
+    "desc": "Inaugurating a road project at Singarayakonda, Dola Sree Bala Veeranjaneya Swamy criticises the previous government for halting BC residential school project in Singarayakonda, adding that ₹45 crore has been sanctioned to it by the BC Welfare Minister",
+    "img": "https://th-i.thgim.com/public/incoming/9skfml/article71218523.ece/alternates/LANDSCAPE_1200/10215_13_7_2026_21_25_3_1_WHATSAPPIMAGE2026_07_13AT72119PM.JPEG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/report-alleges-irregularities-in-keralas-break-the-chain-campaign-during-covid-19/article71217319.ece",
-    "time": "2026-07-13T14:14:37.000Z"
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/development-works-worth-500-crore-underway-in-kondepi-says-minister/article71218239.ece",
+    "time": "2026-07-13T16:06:19.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Aditya Birla Group to buy Shell-backed Sprng Energy; deal worth $1.8 billion",
+    "desc": "The acquisition will bring nearly 5 gigawatt-peak (GWp) of contracted renewable energy capacity into ABRen's portfolio, comprising around 3.3 GWp of operational projects and another 1.7 GWp currently under construction. Following the transaction, ABRen's total portfolio will expand to about 9.3 GWp.",
+    "img": "https://static.toiimg.com/photo/msid-132370846,imgsize-480652.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/renewable-energy-boost-aditya-birla-group-to-buy-shell-backed-sprng-energy-deal-worth-1-8-billion/articleshow/132370790.cms",
+    "time": "2026-07-13T16:01:22.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "HCL Tech forays into AI data centre; to make an investment of ₹3,500 crore; to float a subsidiary",
+    "desc": "The convergence of AI-led demand, supply constraints and push for digital sovereignty presented a compelling opportunity for the company to emerge as a full-stack AI technology solutions provider, says HCLTech, CEO & MD, C. Vijayakumar",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/hcl-tech-forays-into-ai-data-centre-to-make-an-investment-of-3500-crore-to-float-a-subsidiary/article71217971.ece",
+    "time": "2026-07-13T15:44:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Inside Patrick Swayze and Lisa Niemi's decades-long love story",
+    "desc": "Patrick Swayze and Lisa Niemi's love story remains one of Hollywood's most enduring romances. Even years after the Road House star's death in 2009 following a battle with pancreatic cancer, Lisa still becomes emotional when she remembers the first time they danced together. What started as dance rehearsals during their teenage years soon blossomed into a romance that lasted more than three decades.",
+    "img": "https://static.toiimg.com/photo/msid-132370574,imgsize-94905.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/inside-patrick-swayze-and-lisa-niemis-decades-long-love-story-from-teenage-sweethearts-to-soulmates-the-moment-i-looked-in-his-eyes-/articleshow/132370552.cms",
+    "time": "2026-07-13T15:39:04.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Trade deficit jumps 430% in June 2026 due to surging oil, gold and electronics imports",
+    "desc": "Data released by Commerce Ministry showed that India’s overall exports, including both goods and services, grew 9.5% to $73.4 billion in June 2026. Total imports, on the other hand, grew nearly 27% to $88.8 billion",
+    "img": "https://th-i.thgim.com/public/incoming/i8ojna/article69786902.ece/alternates/LANDSCAPE_1200/IMG_29THBUEXPORT_2_1_7J9BVK4T.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/trade-deficit-jumps-430-in-june-2026-due-to-surging-oil-gold-and-electronics-imports/article71217462.ece",
+    "time": "2026-07-13T15:38:01.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump says U.S. will blockade Iran in Strait of Hormuz and will charge ships for safe passage",
+    "desc": "Trump said on social media that Iranian ships will no longer be able to travel through the Strait and America would charge a 20% toll on eligible cargo, as the conflict with Iran has intensified after peace talks failed to deliver meaningful progress.",
+    "img": "https://th-i.thgim.com/public/incoming/l3vwbc/article71218371.ece/alternates/LANDSCAPE_1200/2026-07-13T105944Z_1438015626_RC2SI5A37CW3_RTRMADP_3_USA-TRUMP-CRYPTO-INVEST.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trump-says-us-will-blockade-iran-in-strait-of-hormuz-and-will-charge-ships-for-safe-passage/article71218305.ece",
+    "time": "2026-07-13T15:35:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Fans face 3 hour delay at Jay Z's concert",
+    "desc": "Jay Z's much-anticipated concert experienced a notable delay of three hours on Sunday evening. He clarified that the postponement was necessary to ensure crowd safety and the well-being of attendees. To the audience's surprise, Rihanna and Beyonce joined him on stage, performing their chart-topping hits. The event wrapped up late as Jay Z took the opportunity to address the delays head-on, leaving fans satisfied despite the wait.",
+    "img": "https://static.toiimg.com/photo/msid-132370486,imgsize-29658.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/jay-zs-sunday-concert-faces-3-hour-delay-rapper-apologizes-says-it-was-for-everyones-safety-outside/articleshow/132370470.cms",
+    "time": "2026-07-13T15:32:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Your prayers, efforts gave us strength': Indian Embassy thanks Vietnam as bodies of boat tragedy victims return home",
+    "desc": "The mortal remains of fifteen Indian tourists who died in Vietnam have arrived in Mumbai. State governments will coordinate the transportation of bodies to their final destinations. Vietnamese authorities and citizens provided significant support following the tragic boat accident. Sixteen rescued Indian tourists have already returned to India safely. One injured Indian national remains hospitalized in Ho Chi Minh City.",
+    "img": "https://static.toiimg.com/photo/msid-132370434,imgsize-130352.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/your-prayers-efforts-gave-us-strength-indian-embassy-thanks-vietnam-as-bodies-of-boat-tragedy-victims-return-home/articleshow/132370411.cms",
+    "time": "2026-07-13T15:30:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Karnataka Chief Minister",
+    "desc": "Chief Minister D.K. Shivakumar said the government needs to balance the interests of Karnataka’s farmers, ensure drinking water supply, and comply with court directions while taking a decision on the release of Cauvery water to Tamil Nadu",
+    "img": "https://th-i.thgim.com/public/incoming/bscr5l/article71218321.ece/alternates/LANDSCAPE_1200/IMG_1552.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/decision-on-cauvery-water-release-after-july-15-meeting-karnataka-chief-minister/article71218251.ece",
+    "time": "2026-07-13T15:24:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Street vendors urge MCC Commissioner to halt eviction drive till survey is completed",
+    "desc": "Citing the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, a street vendors’ representative says the authorities cannot evict any street vendor until a survey is completed and ID cards and vending certificates are issued to the street vendors.",
+    "img": "https://th-i.thgim.com/public/incoming/avm03r/article71218297.ece/alternates/LANDSCAPE_1200/5964_13_7_2026_20_37_51_1_STREETVENDORSMEETING.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/street-vendors-urge-mcc-commissioner-to-halt-eviction-drive-till-survey-is-completed/article71218190.ece",
+    "time": "2026-07-13T15:22:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Why Dubai's housing market slowed in 2026; sales fell 16%, prices dipped by 7%",
+    "desc": "Dubai's residential property sales saw a sixteen percent decrease in early 2026. This slowdown occurred as regional geopolitical tensions impacted buyer sentiment and demand. Despite this, sales remained fifteen percent higher than in the first half of 2024. Residential property prices saw a slight decline between February and April. However, 2025 was a record year for Dubai's property market.",
+    "img": "https://static.toiimg.com/photo/msid-132370025,imgsize-868267.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/real-estate/news/why-dubais-housing-market-slowed-in-2026-sales-fell-16-prices-dipped-by-7/articleshow/132369123.cms",
+    "time": "2026-07-13T15:07:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Are Sydney Sweeney and Scooter Braun planning to get married?",
+    "desc": "Rumors suggest that Sydney Sweeney and Scooter Braun are planning to marry sooner rather than later. Tired of a drawn-out engagement, Sweeney has expressed her desire to expedite the process. Their future discussions reveal they are aligned in their goals. Sweeney sees Braun as her ideal partner, having provided support during their respective public challenges and criticisms.",
+    "img": "https://static.toiimg.com/photo/msid-132369952,imgsize-77996.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sydney-sweeney-and-scooter-braun-to-go-straight-to-marriage-reports-suggest-the-couple-is-ready-to-tie-the-knot/articleshow/132369952.cms",
+    "time": "2026-07-13T15:01:39.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Donald Trump announces 20% toll on ships in Strait of Hormuz; to ‘reinstate’ Iran blockade",
+    "desc": "Trump's announcement comes after another major exchange of fire cast fresh uncertainty over efforts to negotiate an end to the conflict. Before Iran asserted control over the Strait of Hormuz after the war began, about one-fifth of the world's oil and gas supplies moved through the strategic waterway.",
+    "img": "https://static.toiimg.com/photo/msid-132369735,imgsize-365352.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/donald-trump-announces-20-toll-on-ships-in-strait-of-hormuz-to-reinstate-iran-blockade/articleshow/132369712.cms",
+    "time": "2026-07-13T14:49:25.000Z"
   },
   {
     "cat": "Entertainment",
@@ -52,15 +178,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saif-aapka-kutta-kha-gaya-actor-sheeba-once-revealed-how-she-lost-her-pet-because-of-saif-ali-khan-and-amrita-singh-who-were-married-at-that-point/articleshow/132368461.cms",
     "time": "2026-07-13T13:50:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tamil Nadu drew lower quantity of rice than its share under Antyodaya Anna Yojana in five of last seven years",
-    "desc": "From 2019-20 to 2025-26, it was during the COVID-19 pandemic year (2020-21) that the drawal was almost close to the allocated figure of around 6.99 lakh tonnes, with the off-take being about 98%. In the remaining four years, it varied from around 73% during 2022-23 and 2023-24 to 79% during 2024-25",
-    "img": "https://th-i.thgim.com/public/incoming/supoey/article71195029.ece/alternates/LANDSCAPE_1200/GWRIK_11-4-2013_17-36-17_JOHARICE_HINDU_01.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-drew-lower-quantity-of-rice-than-its-share-underantyodayaannayojana-in-five-of-the-last-seven-years/article71193040.ece",
-    "time": "2026-07-13T13:50:03.000Z"
   },
   {
     "cat": "Sports",
@@ -360,33 +477,6 @@ const newsData_en = [
     "time": "2026-07-13T10:40:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Sonakshi Sinha loses cool at paparazzi outside event",
-    "desc": "After a wedding reception, Sonakshi Sinha boldly confronted photographers, demanding they cease tailing her. She insisted on maintaining a respectful distance around her car, reflecting her ongoing struggle with unwarranted attention. Just recently, she had asked for a moratorium on filming her parents. Fellow actress Neha Dhupia joined in, criticizing the paparazzi for taking inappropriate shots. Both stars are clearly exhausted by the persistent invasiveness of their private lives.",
-    "img": "https://static.toiimg.com/photo/msid-132363597,imgsize-108420.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonakshi-sinha-loses-cool-at-paparazzi-outside-event-says-jab-tak-aap-nahi-jaoge-main-car-me-nahi-baithungi/articleshow/132363568.cms",
-    "time": "2026-07-13T10:19:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tusshar on filming night shoots with Akshay",
-    "desc": "Tusshar Kapoor revealed that shooting 'Golmaal 5' with Akshay Kumar involved almost entirely tiring night shoots, though the scenes were hilarious. He reprises his mute character Lucky, joining Ajay Devgn, Arshad Warsi, Shreyas Talpade, Kunal Kemmu and Sharman Joshi. Directed by Rohit Shetty, the film was shot in Ooty over 79 days.",
-    "img": "https://static.toiimg.com/photo/msid-132363520,imgsize-135251.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/golmaal-5-tusshar-kapoor-on-filming-night-shoots-with-akshay-kumar-raat-ke-teen-chaar-baje-aadmi-vibe-ka-chemistry-ka-camaraderie-ka-nahin-sochta/articleshow/132363520.cms",
-    "time": "2026-07-13T10:14:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kinjal Dave-Dhruvin Shah remove engagement photos from Instagram",
-    "desc": "Popular singer Kinjal Dave and businessman Dhruvin Shah face breakup rumours. Several photographs of the couple have disappeared from their Instagram accounts. These deleted posts reportedly include engagement and vacation pictures from Maldives. Neither Kinjal nor Dhruvin has officially commented on the ongoing speculation. The missing photographs have intensified discussions about their relationship status.",
-    "img": "https://static.toiimg.com/photo/msid-132363419,imgsize-331604.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/gujarati/music/kinjal-dave-dhruvin-shah-remove-engagement-photos-from-instagram-couples-remain-silent-breakup-speculations-grow/articleshow/132363421.cms",
-    "time": "2026-07-13T10:09:53.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Poompuhar to launch gifting, export initiatives; collaborate with Reliance for sale of crafts by T.N. artisans",
     "desc": "Poompuhar is collaborating with Reliance Retail, which will procure handicraft products and showcase across its retail outlets. Poompuhar is making a strong push into gifting segment, with the initiative set to be launched ahead of Deepavali.",
@@ -558,15 +648,6 @@ const newsData_en = [
     "time": "2026-07-13T05:12:36.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Temple employee Pramod Nautiyal arrested",
-    "desc": "The action comes a day after the Uttarakhand government directed the chief executive officer of the Badrinath-Kedarnath Temple Committee (BKTC) to initiate action against officials and employees found responsible for alleged financial irregularities, following an inquiry into payments made for the accommodation, food and other expenses of VIP guests at the Kedarnath establishment.",
-    "img": "https://static.toiimg.com/photo/msid-132357147,imgsize-251790.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/badrinath-donation-theft-case-temple-employee-pramod-nautiyal-arrested/articleshow/132357089.cms",
-    "time": "2026-07-13T05:10:43.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Zverev says attacking approach can help bridge gap to Sinner and Alcaraz",
     "desc": "The new-found belief that the win over Flavio Cobolli at Roland Garros injected into Zverev was evident at Wimbledon where a far more attacking approach, especially with his forehand, fired him to his best-ever run at the grasscourt Slam",
@@ -576,15 +657,6 @@ const newsData_en = [
     "time": "2026-07-13T05:09:28.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'We're going to put Messi to bed': Cole's warning before England vs Argentina semi-final",
-    "desc": "England and Argentina will meet in a 2026 World Cup semifinal match. Former England player Joe Cole believes his nation can stop Lionel Messi. Both teams have battled hard to reach this crucial semifinal stage. Argentina are the defending champions and seek consecutive World Cup titles. This highly anticipated match will occur at Atlanta Stadium.",
-    "img": "https://static.toiimg.com/photo/msid-132357096,imgsize-44386.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/going-to-put-lionel-messi-to-bed-joe-cole-fires-warning-to-argentina-ahead-of-fifa-world-cup-semifinal-vs-england/articleshow/132357088.cms",
-    "time": "2026-07-13T05:04:35.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "How India’s first educational computer arrived on a bullock cart",
     "desc": "Computer science education was first introduced in India at IIT Kanpur. One of the earliest educational computers travelled by airplane, truck and even a bullock cart before reaching the campus, leaving us with computer lab traditions that are still followed",
@@ -592,15 +664,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/children/how-indias-first-educational-computer-arrived-on-a-bullock-cart/article71209933.ece",
     "time": "2026-07-13T05:01:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Khela Hobey Divas' now 'Ayushman Divas': BJP's tit-for-tat answer to Didi",
-    "desc": "Mamata Banerjee's government had declared August 16 as Khela Hobey Divas in 2021 following the TMC's assembly election victory. The day was officially promoted as a sports initiative aimed at encouraging young people through football tournaments and the distribution of sports equipment. However, the slogan was an apparent dig as Didi had led her last term campaign with \"Khela Hobey\" slogan.",
-    "img": "https://static.toiimg.com/photo/msid-132356571,imgsize-140324.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/khela-hobey-divas-now-ayushman-divas-bjps-tit-for-tat-answer-to-didi/articleshow/132356320.cms",
-    "time": "2026-07-13T04:29:02.000Z"
   },
   {
     "cat": "Business",
@@ -658,57 +721,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'Jaldi jaldi me jo mila ... ': Sooryavanshi reveals Abhishek arranged his Wimbledon outfit",
-    "desc": "Teenage Indian cricketer Vaibhav Sooryavanshi attended the Wimbledon men's singles final. He watched Jannik Sinner win his second Wimbledon title against Alexander Zverev. Sooryavanshi, who recently debuted for India, was dressed formally for the occasion. He admitted his outfit was arranged quickly in the last minute. Several other Indian cricketers were also present at the prestigious event.",
-    "img": "https://static.toiimg.com/photo/msid-132354375,imgsize-93740.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/jaldi-jaldi-me-jo-mila-vaibhav-sooryavanshi-reveals-abhishek-sharma-arranged-his-wimbledon-outfit-watch/articleshow/132354363.cms",
-    "time": "2026-07-13T01:26:39.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Government weighs cybersecurity framework for IoT devices",
-    "desc": "India is considering a cybersecurity framework for internet-connected devices. This initiative aims to enhance security standards for smart meters and other IoT products. The government is exploring measures for stricter security and certification requirements. This move follows a similar mandate for internet-enabled CCTV cameras. The focus remains on ensuring product security regardless of manufacturing origin.",
-    "img": "https://static.toiimg.com/photo/msid-132354374,imgsize-157302.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/government-weighs-cybersecurity-framework-for-iot-devices/articleshow/132354357.cms",
-    "time": "2026-07-13T01:26:30.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Matches in Indian Time",
     "desc": "The knockout stages of the 2026 FIFA World Cup begin on June 29, after an exciting group stage that featured 48 nations for the first time FIFA 2026 World Cup is being keenly watched by fans in India even if the matches are happening an ocean away.",
     "img": "https://th-i.thgim.com/public/incoming/hw29zz/article71145748.ece/alternates/LANDSCAPE_1200/image%206.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/fifa-2026-world-cup-match-timings-ist-full-knockout-schedule-india-time/article71145665.ece",
     "time": "2026-07-13T00:59:48.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Foreign investors return to India, equities lead revival",
-    "desc": "Foreign investors have returned to Indian markets, showing renewed interest in equities during July. This shift follows months of consistent selling, with significant inflows recorded in early July. Equities have become the primary destination for foreign capital, attracting substantial investments. Debt markets also continue to see inflows, extending momentum from previous months. Stronger economic fundamentals and a stable currency are contributing to this positive investment trend.",
-    "img": "https://static.toiimg.com/photo/msid-132354257,imgsize-41692.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/foreign-investors-return-to-india-equities-lead-revival/articleshow/132354244.cms",
-    "time": "2026-07-13T00:58:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "With connectivity gains, government schools narrow digital divide",
-    "desc": "Government schools have significantly improved internet connectivity and smart classroom access. Their internet coverage increased substantially, narrowing the gap with private institutions. Computer availability also saw improvements across all school management types. Smart classroom coverage nationally rose, with government schools showing notable gains. Digital libraries remain scarce across most educational institutions.",
-    "img": "https://static.toiimg.com/photo/msid-132354202,imgsize-99854.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/with-connectivity-gains-government-schools-narrow-digital-divide/articleshow/132354199.cms",
-    "time": "2026-07-13T00:36:27.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Oil companies plan expanding 10-kg LPG cylinder sales",
-    "desc": "State-run oil companies are considering expanding lightweight 10-kg LPG cylinders for commercial use. These cylinders will likely be sold at commercial LPG rates if approved by authorities. This move could benefit migrant workers, tenants, and street vendors needing LPG. The advanced composite cylinders are nearly fifty percent lighter than steel ones. They offer easier handling and portability for consumers and businesses.",
-    "img": "https://static.toiimg.com/photo/msid-132354013,imgsize-110482.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/oil-companies-plan-expanding-10-kg-lpg-cylinder-sales/articleshow/132354002.cms",
-    "time": "2026-07-12T23:20:05.000Z"
   },
   {
     "cat": "World",
@@ -763,15 +781,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/openai-gpt-5-6-vs-anthropic-fable-5-class-comparison/article71206211.ece",
     "time": "2026-07-12T04:51:09.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Mojtaba vows revenge for father’s killing after Trump’s new threat",
-    "desc": "‘Vengeance is the will of our nation and must inevitably be carried out,’ says Iran’s Supreme Leader in a written message; earlier Trump had said any attempt to assassinate him would lead the U.S. to ‘completely decimate’ Iran",
-    "img": "https://th-i.thgim.com/public/incoming/1broj4/article71210365.ece/alternates/LANDSCAPE_1200/2026-07-06T125353Z_276076981_RC2V4LA24HZV_RTRMADP_3_IRAN-CRISIS-MOJTABA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/irans-supreme-leader-pledges-revenge-for-slain-father-and-predecessor/article71210345.ece",
-    "time": "2026-07-12T04:47:09.000Z"
   },
   {
     "cat": "Business",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/india-lays-out-tariffs-and-quotas-for-uk-vehicles-under-trade-deal/article71205545.ece",
     "time": "2026-07-10T07:58:21.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "CBI files first chargesheet in Reliance Home Finance Limited case; cites ₹3,526 crore loss",
-    "desc": "The agency has registered seven First Information Reports against Reliance Communications Limited (RCOM), Reliance Home Finance Limited (RHFL), Reliance Commercial Finance Limited (RCFL) and Reliance Telecom Limited (RTL) based on complaints received from various public sector banks and LIC",
-    "img": "https://th-i.thgim.com/public/incoming/poe2tv/article71203079.ece/alternates/LANDSCAPE_1200/CBI-files-chargGOCG7G67O.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/cbi-files-first-chargesheet-in-reliance-home-finance-limited-case-cites-3526-crore-loss/article71202925.ece",
-    "time": "2026-07-09T16:15:49.000Z"
   }
 ];

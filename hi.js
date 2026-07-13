@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Delhi High Court protects personality rights of India cricketer Abhishek Sharma",
+    "desc": "In a significant move, the Delhi High Court has protected the rights of Indian cricketer Abhishek Sharma, restraining third parties from any unauthorised misuse of his name, image, etc for commercial or personal gain. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/delhi-high-court-protects-personality-rights-of-india-cricketer-abhishek-sharma-2026-07-13-1048138",
+    "time": "2026-07-13T16:03:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England announce Playing XI for first ODI against India, RCB star set to open for first time",
+    "desc": "England have announced their Playing XI for the first ODI against India, as Royal Challengers Bengaluru star Jacob Bethell is set to open the innings for the first time in his 50-over career. Bethell has...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-announce-playing-xi-for-first-odi-against-india-rcb-star-set-to-open-for-first-time-2026-07-13-1048133",
+    "time": "2026-07-13T14:50:56.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Virat Kohli, Rohit Sharma remain integral part of team': Shubman Gill ahead of England ODIs",
     "desc": "India ODI and Test captain Shubman Gill has put his weight behind veteran batters Virat Kohli and Rohit Sharma being an \"integral part\" of the ODI side as the Men in Blue prepare for the...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/was-vaibhav-sooryavanshi-s-inclusion-in-team-india-rushed-after-england-series-loss-former-cricketer-opines-2026-07-13-1048067",
     "time": "2026-07-13T06:26:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "FIFA World Cup 2026 semi-finals: Schedule, match-ups, records, and all you need to know",
-    "desc": "The stage is set for the semi-final stage of the ongoing FIFA World Cup 2026. Four teams have made their way into the semi-finals of the mega event and will look to put in their...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/fifa-world-cup-2026-semi-finals-schedule-match-ups-records-and-all-you-need-to-know-2026-07-13-1048055",
-    "time": "2026-07-13T05:08:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rahul Dravid among contenders to take over as England's Test head coach after McCullum's departure: Report",
-    "desc": "In a major development, the ECB (England and Wales Cricket Board) announced that Brendon McCullum will step down as England’s Test head coach with immediate effect. He steps down from his role as the era...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rahul-dravid-among-contenders-to-take-over-as-england-s-test-head-coach-after-mccullum-s-departure-report-2026-07-13-1048053",
-    "time": "2026-07-13T04:08:23.000Z"
   }
 ];
