@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Jannik Sinner clinches Wimbledon 2026 title, registers dominant win over Alexander Zverev in summit clash",
+    "desc": "World number one Jannik Sinner put forth a magnificent performance in the final of Wimbledon 2026. Taking on Germany’s Alexander Zverev in the final, Sinner took four sets to defeat Zverev and get his hands...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/jannik-sinner-clinches-wimbledon-2026-title-registers-dominant-win-over-alexander-zverev-in-summit-clash-2026-07-13-1048039",
+    "time": "2026-07-13T01:42:11.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Brendon McCullum steps down as England's test coach, to continue in white-ball role",
     "desc": "Brendon McCullum has decided to step down as England's head coach for the test team, but will continue to lead the side in the t20Is and the one-day internationals (ODIs), announced the England and Wales...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/jude-bellingham-s-brace-propels-england-to-fifa-world-cup-2026-semi-finals-as-norway-s-dream-run-ends-2026-07-12-1047968",
     "time": "2026-07-12T02:13:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Argentina defeat Switzerland 3-1 to reach World Cup semi-final",
-    "desc": "Argentina and Switzerland are taking on each other in the quarter-final of the ongoing FIFA World Cup 2026. The clash sees defending champions Argentina taking on Switzerland in the Kansas City Stadium, and both sides...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/arg-vs-sui-fifa-world-cup-live-lionel-messi-in-action-as-argentina-look-to-book-semi-final-berth-1047963",
-    "time": "2026-07-12T00:54:08.000Z"
   }
 ];
