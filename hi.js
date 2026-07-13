@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "FIFA World Cup 2026 semi-finals: Schedule, match-ups, records, and all you need to know",
+    "desc": "The stage is set for the semi-final stage of the ongoing FIFA World Cup 2026. Four teams have made their way into the semi-finals of the mega event and will look to put in their...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/fifa-world-cup-2026-semi-finals-schedule-match-ups-records-and-all-you-need-to-know-2026-07-13-1048055",
+    "time": "2026-07-13T05:08:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rahul Dravid among contenders to take over as England's Test head coach after McCullum's departure: Report",
+    "desc": "In a major development, the ECB (England and Wales Cricket Board) announced that Brendon McCullum will step down as England’s Test head coach with immediate effect. He steps down from his role as the era...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rahul-dravid-among-contenders-to-take-over-as-england-s-test-head-coach-after-mccullum-s-departure-report-2026-07-13-1048053",
+    "time": "2026-07-13T04:08:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How much prize money did Jannik Sinner win after clinching Wimbledon 2026 title? Check here",
+    "desc": "Jannik Sinner defeated Alexander Zverev in the summit clash of Wimbledon 2026. Securing a victory in four sets, the world number one registered a 6-7 (7-9), 7-6 (7-2), 6-3, 6-4 victory and got his hands...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/how-much-prize-money-did-jannik-sinner-win-after-clinching-wimbledon-2026-title-check-here-2026-07-13-1048044",
+    "time": "2026-07-13T02:40:11.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Jannik Sinner clinches Wimbledon 2026 title, registers dominant win over Alexander Zverev in summit clash",
     "desc": "World number one Jannik Sinner put forth a magnificent performance in the final of Wimbledon 2026. Taking on Germany’s Alexander Zverev in the final, Sinner took four sets to defeat Zverev and get his hands...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-opens-up-after-india-face-embarrassing-fifth-t20i-loss-against-england-in-southampton-2026-07-12-1047980",
     "time": "2026-07-12T05:37:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Julian Alvarez's late stunner paves way for Argentina's entry into World Cup semi-final",
-    "desc": "Argentina scraped their way past Switzerland in the FIFA World Cup 2026 quarter-final, registering a 3-1 victory and making their way into the semi-final of the tournament. It is worth noting that Argentina opened the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/julian-alvarez-s-late-stunner-paves-way-for-argentina-s-entry-into-world-cup-semi-final-2026-07-12-1047974",
-    "time": "2026-07-12T04:16:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India's four-year-long reign in T20Is ends, dethroned from World No.1 rankings after 4-0 England loss",
-    "desc": "India's recent slump in the T20Is has a new low point as the two-time defending world champions lost their World No.1 spot in the ICC T20I rankings after their 4-0 loss to England. Asked to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/indias-four-year-long-reign-in-t20is-ends-dethroned-from-world-no1-rankings-after-england-loss-2026-07-12-1047972",
-    "time": "2026-07-12T03:54:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jude Bellingham's brace propels England to FIFA World Cup 2026 semi-finals as Norway's dream run ends",
-    "desc": "England put forth a magnificent performance in the quarter-final of the ongoing FIFA World Cup 2026. The side took on high-flying Norway in the clash and managed to register a 2-1 victory, and once again...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/jude-bellingham-s-brace-propels-england-to-fifa-world-cup-2026-semi-finals-as-norway-s-dream-run-ends-2026-07-12-1047968",
-    "time": "2026-07-12T02:13:02.000Z"
   }
 ];

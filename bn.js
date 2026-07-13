@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "World",
+    "title": "মধ্যরাতে বিভীষিকা! আচমকাই লোড শেডিং, তারপর বিকট শব্দে বিস্ফোরণ! নাইট ক্লাবে বিধ্বংসী আগুনে মৃত্যুমিছিল",
+    "desc": "ঘটনার পর স্থানীয় ফায়ার সার্ভিস ও জরুরি পরিষেবা দল উদ্ধারকাজ পরিচালনা করে। অগ্নিকাণ্ডে পুরো পাবটির ভেতরের অংশ, আসবাবপত্র ও ইলেকট্রনিক্স সরঞ্জাম সম্পূর্ণ পুড়ে ছাই হয়ে গিয়েছে। নিরাপত্তা ব্যবস্থা এবং নিয়ম মেনে পাবটি চালানো হচ্ছিল কি না, তা নিয়ে প্রশাসন তদন্ত শুরু করেছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/bangkok-pub-fire-kills-27-injures-63-deadly-blaze-transpires-at-na-ladprao-venue_662090.html ",
+    "time": "2026-07-13T03:47:30.000Z"
+  },
+  {
+    "cat": "World",
     "title": "ইরান ফের বন্ধ করল হরমুজ প্রণালী! আবার কি জ্বালানিসংকট? গ্যাস সিলিন্ডারের মূল্যবৃদ্ধি?",
     "desc": "ইরান হরমুজ প্রণালী বন্ধ করার কথা ঘোষণা করেছে। ইরানের দাবি, একটি জাহাজ অননুমোদিত পথ দিয়ে যাচ্ছিল। সেটিতে হামলা চালিয়ে থামিয়ে দেওয়া হয়েছে। কিন্তু এই ঘটনাকে কেন্দ্র করে কোনো ধরনের পাল্টা পদক্ষেপ নেওয়া হলে তার কঠোর জবাব দেওয়ার হুঁশিয়ারি দিয়েছে তারা।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -205,32 +214,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/gaurav-khanna-breaks-his-silence-on-divorce-from-akanksha-chamola-extends-support-to-her_660611.html ",
     "time": "2026-07-01T07:35:18.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
-    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
-    "time": "2026-06-01T03:50:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
-    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
-    "time": "2026-05-23T05:15:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "পেট্রোল ও ডিজেলের দাম লিটারে ৩ টাকা বাড়ল, জেনে নিন আপনার শহরে জ্বালানির নতুন দাম",
-    "desc": "চার বছর পর পেট্রোল ও ডিজেলের দাম প্রতি লিটারে ₹৩ টাকা করে বাড়ল। এর ফলে কলকাতা ও দিল্লিতে জ্বালানি মহার্ঘ্য হল। Fuel prices hiked by ₹3 per litre after a long wait causing rates to rise in major cities.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-15-2026-000015b-jpg-1778819385461_1778819386210-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-india-fuel-rates-increased-by-3-rupees-per-litre-delhi-kolkata-014-306911.html",
-    "time": "2026-05-15T04:35:17.000Z"
   }
 ];
