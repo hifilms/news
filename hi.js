@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Kylian Mbappe, Lamine Yamal take centre stage as semi-final begins",
+    "desc": "2018 FIFA World Cup winner and 2022 runners-up France will take on the current Euro winner, Spain, in the first semi-final of the FIFA World Cup 2026 at Dallas Stadium. The blockbuster encounter pits France’s...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/fra-vs-esp-fifa-world-cup-live-france-vs-spain-score-commentary-tactical-analysis-highlight-reaction-1048256",
+    "time": "2026-07-14T18:37:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why are Pedri, Gavi, Nico Williams not starting for Spain against France in FIFA World Cup 2026 semi-final?",
+    "desc": "Spain coach Luis de la Fuente opted for continuity over change as star midfielder Pedri was left out of the starting XI for the FIFA World Cup 2026 semi-final against France at the Dallas Stadium....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/why-are-pedri-gavi-nico-williams-not-starting-for-spain-against-france-in-fifa-world-cup-2026-semi-final-2026-07-14-1048255",
+    "time": "2026-07-14T18:16:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Axar Patel's all-round show and Shubman Gill's gritty 80 help India return to winning ways after T20I drubbing",
+    "desc": "India have defeated England by six wickets in the first ODI of the three-match series at Edgbaston. Axar Patel’s match-winning all-round performance and Shubman Gill’s composed half-century propelled India to return to winning ways after...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/axar-patels-all-round-show-and-shubman-gills-gritty-80-help-india-return-to-winning-ways-after-t20i-drubbing-2026-07-14-1048253",
+    "time": "2026-07-14T17:47:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shubman Gill walks off injured in first ODI vs England at Edgbaston, what happened to India captain?",
+    "desc": "India suffered a major setback during their chase of 259 in the first ODI against England at Edgbaston. In the 26th over of the chase, captain Shubman Gill retired hurt after scoring a fluent 80...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-walks-off-injured-in-first-odi-vs-england-at-edgbaston-what-happened-to-india-captain-2026-07-14-1048250",
+    "time": "2026-07-14T16:38:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Where to watch France vs Spain FIFA World Cup 2026 semi-final live on TV and stream online for free?",
+    "desc": "France and Spain will meet in the first semi-final of the FIFA World Cup 2026 in the early hours of Wednesday in Dallas, with a place in Sunday's final on the line after both European...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/where-to-watch-france-vs-spain-fifa-world-cup-2026-semi-final-live-on-tv-and-stream-online-for-free-2026-07-14-1048248",
+    "time": "2026-07-14T16:13:43.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Virat Kohli, Rohit Sharma flop on ODI return, dismissed in successive overs at Edgbaston",
     "desc": "Rohit Sharma and Virat Kohli failed to live up to their potential in the first ODI against England at Edgbaston. Chasing 259 runs, they had ample time to build a meaningful innings, but it wasn’t...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-creates-history-for-india-breaks-ravindra-jadejas-record-during-1st-odi-against-england-2026-07-14-1048219",
     "time": "2026-07-14T11:34:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India assistant coach Ryan ten Doeschate contemplates move on; check reason here",
-    "desc": "India are set to lose their assistant coach Ryan ten Doeschate, who is contemplating a move on from the team. The former Dutch cricketer is likely to leave the Men in Blue at the end...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-assistant-coach-ryan-ten-doeschate-contemplates-move-on-check-reason-here-2026-07-14-1048208",
-    "time": "2026-07-14T10:27:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Hardik Pandya not playing in IND vs ENG 1st ODI?",
-    "desc": "Hardik Pandya is a major absentee as India take on England in the first ODI of the three-match series on Tuesday, July 14. The Men in Blue aim to bounce back from their recent T20I...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-hardik-pandya-not-playing-in-ind-vs-eng-1st-odi-2026-07-14-1048203",
-    "time": "2026-07-14T09:55:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill completes half-century, stitch key partnership with Iyer",
-    "desc": "India and England begin their three-match ODI series with the opening clash at Edgbaston, Birmingham, as both teams look to make a strong statement in the 50-over format. This assignment comes after India went winless...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-1st-odi-live-cricket-score-india-vs-england-edgbaston-birmingham-latest-match-updates-scorecard-teams-playing-xis-2026-07-14-1048200",
-    "time": "2026-07-14T09:27:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India vs England 1st ODI pitch report; here's how surface at Edgbaston is expected to play",
-    "desc": "India are all set to play their first ODI against England on Tuesday at Edgbaston as they gear up to bounce back from their seven-match winless streak in T20Is. First whitewashed by Ireland 0-2 and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-england-1st-odi-pitch-report-heres-how-surface-at-edgbaston-is-expected-to-play-2026-07-14-1048192",
-    "time": "2026-07-14T08:41:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How many runs do Virat Kohli need to break Sachin Tendulkar's record for most ODI runs?",
-    "desc": "Batting maestro Virat Kohli returns to the action as India take on England for a much-anticipated three-match ODI series. Kohli missed the previous assignment against Afghanistan due to a hamstring injury he picked up during...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-many-runs-do-virat-kohli-need-to-break-sachin-tendulkars-record-for-most-odi-runs-2026-07-14-1048188",
-    "time": "2026-07-14T08:19:31.000Z"
   }
 ];

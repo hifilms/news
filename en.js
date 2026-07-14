@@ -1,39 +1,156 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Draft national health research policy proposes overhaul of India’s research ecosystem",
-    "desc": "Prepared by the Department of Health Research, the draft marks the first attempt at a unified national framework spanning biomedical science, clinical medicine, public health, epidemiology, digital health, health systems, behavioural sciences and emerging technologies.",
-    "img": "https://th-i.thgim.com/public/business/mgpob2/article71222469.ece/alternates/LANDSCAPE_1200/iStock-879685734.jpg",
+    "title": "Migrant worker from Bihar dies in boiler explosion at factory in Gummidipoondi",
+    "desc": "Three workers were grievously injured and six others suffered minor burns. They have been admitted to several government and private hospitals. The police have registered a case on a complaint from the workers. The supervisor of the recycling unit has been named as an accused in the FIR",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/jd9n80/article71220281.ece/alternates/LANDSCAPE_1200/Gummidipoondi%20blast.jpeg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/health/draft-national-health-research-policy-proposes-overhaul-of-indias-research-ecosystem/article71221189.ece",
-    "time": "2026-07-14T15:47:07.000Z"
+    "url": "https://www.thehindu.com/news/cities/chennai/migrant-worker-from-bihar-dies-in-furnace-explosion-at-gummidipoondi-copper-recycling-unit/article71220002.ece",
+    "time": "2026-07-14T19:07:39.000Z"
   },
   {
     "cat": "Politics",
-    "title": "HC directs DGP to ascertain if Cherlapally police station was being run from illegally occupied building",
-    "desc": "The judge noted the rental agreement the Society had with the building owner had expired in 2024 and as per ninth condition of the agreement, the Society was barred from sub-leasing the premises to others without the consent of the building owner",
-    "img": "https://via.placeholder.com/600x400?text=News",
+    "title": "Karnataka Governor seeks authenticated English translations in Zameer prosecution file",
+    "desc": "Governor Thaawarchand Gehlot has sought English translations and authenticated copies of documents submitted by the Lokayukta Police while seeking sanction to prosecute former Minister and senior Congress leader B.Z. Zameer Ahmed Khan in a disproportionate assets case",
+    "img": "https://th-i.thgim.com/public/incoming/y41v52/article71222916.ece/alternates/LANDSCAPE_1200/Thawarchand-GehG8CG7Q389.3.jpg.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/hc-directs-dgp-to-ascertain-if-cherlapally-police-station-was-being-run-from-illegally-occupied-building/article71222338.ece",
-    "time": "2026-07-14T15:36:00.000Z"
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-governor-seeks-authenticated-english-translations-in-zameer-prosecution-file/article71222214.ece",
+    "time": "2026-07-14T19:05:36.000Z"
   },
   {
     "cat": "Politics",
-    "title": "The probe into signal failure in the Ambattur-Avadi section exposes violation of safety rules",
-    "desc": "Documents accessed by The Hindu reveal that the automatic signal, S192, malfunctioned over 50 times in February 2026 alone. A buzzer installed in the Ambattur Station Master’s office to alert the staff to signal failures was found to have been “disconnected”. The defective signal was repeatedly reset by field technical workers without analysing the root cause of the malfunction",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/zifzba/article71222265.ece/alternates/LANDSCAPE_1200/IMG_6320.jpg",
+    "title": "Karnataka High Court defers hearing on KPSC chief’s suspension, seeks clarity on Governor’s power",
+    "desc": "The High Court of Karnataka adjourned till July 15 further hearing on a petition by Shivashankarappa S. Sahukar challenging the legality of the Governor’s order of suspending him as chairperson of the Karnataka Public Service Commission on allegation of misbehaviour",
+    "img": "https://th-i.thgim.com/public/incoming/z8o6bl/article71222912.ece/alternates/LANDSCAPE_1200/Karnataka-HC-slGRFG8DTRP.1.jpg.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/the-probe-into-signal-failure-in-theambattur-avadisection-exposes-violation-of-safety-rules/article71221783.ece",
-    "time": "2026-07-14T15:34:14.000Z"
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-defers-hearing-on-kpsc-chiefs-suspension-seeks-clarity-on-governors-power/article71221710.ece",
+    "time": "2026-07-14T19:03:26.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India Post crosses Rs 4,000 crore quarterly revenue for first time; Q1 turnover jumps 22%",
+    "desc": "India Post achieved its highest-ever first-quarter revenue of Rs 4,008 crore. This revenue marks a significant 22.2 percent increase from the previous year. The parcel and mail segments showed substantial revenue growth during this period. Citizen-centric services also experienced an impressive 86 percent jump in revenue. Several postal circles demonstrated strong performance across various business verticals.",
+    "img": "https://static.toiimg.com/photo/msid-132400022,imgsize-460973.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-post-crosses-rs-4000-crore-quarterly-revenue-for-first-time-q1-turnover-jumps-22/articleshow/132399702.cms",
+    "time": "2026-07-14T18:40:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'World Cup's most controversial VAR call': Croatia says FIFA still won't answer audio request",
+    "desc": "Croatia says FIFA has not responded to its formal request for the VAR audio behind Joško Gvardiol's disallowed extra-time goal against Portugal at the 2026 World Cup. While FIFA defended the offside decision using Connected Ball Technology, Croatian officials argue greater transparency is needed. Technical director Stipe Pletikosa also criticised FIFA's broader tournament management and refereeing standards.",
+    "img": "https://static.toiimg.com/photo/msid-132399707,imgsize-64044.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/world-cups-most-controversial-var-call-croatia-says-fifa-still-wont-answer-audio-request/articleshow/132398772.cms",
+    "time": "2026-07-14T18:36:42.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Incentives, warnings and assurances: how an Indian sailor transited Hormuz",
+    "desc": "Indian seafarer aboard oil tanker recalls incentives from his employer to make the risky transit via route near Oman, the threats from the Iranian side to stop, and encouragement from the U.S. Navy to move ahead",
+    "img": "https://th-i.thgim.com/public/incoming/b5a8tr/article71222747.ece/alternates/LANDSCAPE_1200/2026-07-14T110419Z_818905602_RC2LDMAKAC5R_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/incentives-warnings-and-assurances-how-an-indian-sailor-transited-hormuz/article71222566.ece",
+    "time": "2026-07-14T18:25:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "A forgettable World Cup blip in Ronaldo’s unforgettable career",
+    "desc": "For two decades, he has been among the greatest footballers to have graced the game. While the Portuguese superstar will walk away without the distinction of having won the marquee event in six attempts, it shouldn’t affect the legacy of a forward who won many titles for the biggest clubs in the world",
+    "img": "https://th-i.thgim.com/public/sport/h8wu7y/article71222863.ece/alternates/LANDSCAPE_1200/RONALDO.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/fifa-world-cup/a-forgettable-world-cup-blip-in-ronaldos-unforgettable-career/article71222862.ece",
+    "time": "2026-07-14T18:23:11.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Indian Kanoon challenges Delhi HC ruling recognising ‘right to be forgotten’, says it undermines open justice",
-    "desc": "The appeal challenged the single-judge judgment that allowed individuals to seek removal of personal information from search engine results, including legal databases, where such information is ‘no longer relevant or serves no legitimate public purpose’",
-    "img": "https://th-i.thgim.com/public/incoming/qbwkgm/article71220979.ece/alternates/LANDSCAPE_1200/IMG_INDEX_DELHI_HIGH_COU_2_1_C4G3T68L.jpg",
+    "title": "EC sanctions one-time honorarium of Rs 6,000 for BLOs and supervisors involved in SIR process",
+    "desc": "The Election Commission of India has approved a one-time honorarium of Rs 6,000 for Booth Level Officers. This payment is for their work during the Special Intensive Revision of electoral rolls. The additional payment is sanctioned due to the scale and nature of the required revision work. This directive has been sent to chief electoral officers across multiple states and Union Territories.",
+    "img": "https://static.toiimg.com/photo/msid-132398712,imgsize-989209.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ec-sanctions-one-time-honorarium-of-rs-6000-for-blos-and-supervisors-involved-in-sir-process/articleshow/132398693.cms",
+    "time": "2026-07-14T17:56:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Chief warder, two warders arrested for the death of a remand prisoner in Nagercoil jail",
+    "desc": "Sabari Varman, 34, a differently abled resident of Eeththankaadu near Suchindram, was arrested on July 9 for allegedly possessing the banned gutka and remanded in custody. He died in the prison there under suspicious circumstances on July 12",
+    "img": "https://th-i.thgim.com/public/latest-news/gh1ao5/article71222737.ece/alternates/LANDSCAPE_1200/NagercoilJail.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/india-kanoon-challenges-delhi-hc-ruling-recognising-right-to-be-forgotten-says-it-undermines-open-justice/article71220805.ece",
-    "time": "2026-07-14T15:32:31.000Z"
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/chief-warder-two-warders-arrested-for-the-death-of-a-remand-prisoner-in-nagercoil-jail/article71222438.ece",
+    "time": "2026-07-14T17:14:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kunickaa hits back at troll calling her a 'homewrecker' for relationship with Kumar Sanu",
+    "desc": "Actress Kunickaa Sadanand voiced support for Sonam Wangchuk's hunger strike against examination irregularities. Her solidarity post urged citizens to question the government and defend democracy. Online critics attacked her, leading to a heated exchange on social media. Personal attacks then shifted focus to her past relationship history. Sadanand dismissed these attempts to divert attention from the core issues.",
+    "img": "https://static.toiimg.com/photo/msid-132396997,imgsize-107540.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kunickaa-sadanand-hits-back-at-troll-calling-her-a-homewrecker-for-relationship-with-kumar-sanu-while-he-was-married-to-rita-bhattacharya-after-supporting-sonam-wankchuk-aage-badho-chhutta-nai-hai/articleshow/132396982.cms",
+    "time": "2026-07-14T16:58:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Museum housing rare palm-leaf manuscripts gets ₹5 crore funding boost",
+    "desc": "The Ministry of Culture has released ₹5 crore under the Museum Grant Scheme for the construction of new building of the museum - a home to nearly 5,000 palm-leaf scripts dating back to the 17th, 18th and 19th century",
+    "img": "https://th-i.thgim.com/public/incoming/uzdrt4/article71222694.ece/alternates/LANDSCAPE_1200/10237_14_7_2026_19_0_12_1_WHATSAPPIMAGE2026_07_14AT54811PM.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/museum-housing-rare-palm-leaf-manuscripts-gets-5-crore-funding-boost/article71221569.ece",
+    "time": "2026-07-14T16:46:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ED arrests Ebix group chairman Vikas Garg in illegal betting case",
+    "desc": "The 53-year-old businessman is alleged by the agency to have routed ill-gotten money from the betting app into the entities owned and controlled by him; the ED recorded that it has attached properties of Mr. Garg, his family members and firms owned by him, valued at ₹940.77 crore",
+    "img": "https://th-i.thgim.com/public/incoming/oz0rwo/article71208161.ece/alternates/LANDSCAPE_1200/Mahadev-bettingG40G7APHO.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/ed-arrests-ebix-group-chairman-vikas-garg-in-illegal-betting-case/article71222459.ece",
+    "time": "2026-07-14T16:32:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Develop Mamnoor, Adilabad airports to international standards, CM urges Centre",
+    "desc": "Revanth Reddy requests Union Civil Aviation Minister K. Ramamohan Naidu to examine the possibility of operating seaplane services between Prakasam Barrage in Vijayawada and Hussainsagar; no link between politics and development - politics only during elections, says Chief Minister Not appropriate to criticise the State for consulting Centre to resolve problems and speed up development",
+    "img": "https://th-i.thgim.com/public/incoming/86tew7/article71221957.ece/alternates/LANDSCAPE_1200/20260714225L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telangana/develop-mamnoor-adilabad-airports-to-international-standards-cm-urges-centre/article71220567.ece",
+    "time": "2026-07-14T16:28:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'No rift in party': NCP rejects challenge to Sunetra Pawar's election as chief",
+    "desc": "NCP leaders Praful Patel and Sunil Tatkare dismissed a notice questioning Sunetra Pawar's election. They asserted the election was constitutional and the notice held no significance. The notice alleged Sunetra Pawar's election was unconstitutional and should be declared void. Tatkare called the notice illegal and stated the party would examine its legal validity. The party remains united under Sunetra Pawar's leadership, according to leaders.",
+    "img": "https://static.toiimg.com/photo/msid-132395738,imgsize-131799.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-rift-in-party-ncp-rejects-challenge-to-sunetra-pawars-election-as-chief/articleshow/132395137.cms",
+    "time": "2026-07-14T16:19:50.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Trump admin’s Section 301 probe: Why India’s ban on import of goods produced through use of forced labour is important",
+    "desc": "The move comes against the backdrop of a US investigation into forced labour practices across 60 economies, including India. The notification said the new provisions will take effect after the completion of 30 days from the date of their publication in the Official Gazette.",
+    "img": "https://static.toiimg.com/photo/msid-132396075,imgsize-548785.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/trump-admins-section-301-probe-why-indias-ban-on-import-of-goods-produced-through-use-of-forced-labour-is-important/articleshow/132395962.cms",
+    "time": "2026-07-14T16:06:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How close the FIFA semi-finals will be?",
+    "desc": "The teams with the top four rankings prior to the World Cup has entered the semi-finals. Analysis shows the differents paths they have taken, a nuanced look into their relative strengths and how close the two matches could be",
+    "img": "https://th-i.thgim.com/public/incoming/9cma8e/article71222194.ece/alternates/LANDSCAPE_1200/2026-07-14T013217Z_339849387_UP1EM7E049RYY_RTRMADP_3_SOCCER-WORLDCUP-FRA-ESP-FANS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/data/how-close-the-fifa-semi-finals-will-be/article71222058.ece",
+    "time": "2026-07-14T16:00:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Messi's 'lucky referee'? FIFA appointment for England vs Argentina sparks fresh debate",
+    "desc": "Moroccan-American referee Ismail Elfath will officiate the World Cup semi-final between England and Argentina. Elfath has previously overseen several significant matches involving Lionel Messi. Online speculation has arisen due to these past coincidences and Messi's success in those games. FIFA has defended its referees against claims of favoritism towards Argentina. Elfath's disciplinary record suggests a tightly controlled contest for both teams.",
+    "img": "https://static.toiimg.com/photo/msid-132395953,imgsize-156032.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/lionel-messis-lucky-referee-fifa-appointment-for-england-vs-argentina-sparks-fresh-debate/articleshow/132395954.cms",
+    "time": "2026-07-14T15:57:36.000Z"
   },
   {
     "cat": "Business",
@@ -43,42 +160,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/export-boost-cheaper-cars-whisky-india-uk-trade-deal-comes-into-effect-from-july-15-how-india-indians-will-benefit/articleshow/132394272.cms",
     "time": "2026-07-14T15:25:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Crime Branch seeks documents",
-    "desc": "Investigators have sought records related to the controversial State Planning Board examinations, including the question paper, answer key, list of candidates who took the examination, details of those shortlisted for interviews, and information related to the on-screen marking process",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/psc-exam-irregularities-crime-branch-seeks-documents/article71222106.ece",
-    "time": "2026-07-14T15:21:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How close the FIFA semi-finals will be?",
-    "desc": "The teams with the top four rankings prior to the World Cup has entered the semi-finals. Analysis shows the differents paths they have taken, a nuanced look into their relative strengths and how close the two matches could be",
-    "img": "https://th-i.thgim.com/public/incoming/9cma8e/article71222194.ece/alternates/LANDSCAPE_1200/2026-07-14T013217Z_339849387_UP1EM7E049RYY_RTRMADP_3_SOCCER-WORLDCUP-FRA-ESP-FANS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/data/how-close-the-fifa-semi-finals-will-be/article71222058.ece",
-    "time": "2026-07-14T15:19:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "YSRCP alleges political motive behind arrest of party spokesperson",
-    "desc": "Party leaders allege arrest was over remarks made by Nagarjuna Yadav during a television debate nearly two years ago, question timing of the arrest and argue that authorities failed to verify the authenticity of the video",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-alleges-political-motive-behind-arrest-of-party-spokesperson/article71221325.ece",
-    "time": "2026-07-14T15:11:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Jaleel targets IUML Ministers over language gaffes",
-    "desc": "Reacting to recent controversy in Mannarkkad, former Higher Education Minister says his gesture was only a light-hearted act by a teacher; he rejects claims of falling student standards in last decade, says mistakes among learners and leaders have existed across generations",
-    "img": "https://th-i.thgim.com/public/incoming/i5yexm/article71222167.ece/alternates/LANDSCAPE_1200/Jaleel01.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/jaleel-targets-iuml-ministers-over-language-gaffes/article71221970.ece",
-    "time": "2026-07-14T14:59:46.000Z"
   },
   {
     "cat": "Entertainment",
@@ -142,15 +223,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/obc-status-of-77-castes-suvendu-government-withdraws-mamata-era-sc-challenge-to-hc-verdict/articleshow/132392201.cms",
     "time": "2026-07-14T13:52:21.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "MEA summons Iranian deputy envoy, after Indian national killed in attack on ship",
-    "desc": "MEA condemned the attacks on the commercial vessels MT Al Bahiyah and MT Mombasa, which had a total of 30 Indian seafarers onboard, and reiterated its call for an immediate cessation of violence and a return to dialogue and diplomacy to bring stability to West Asia",
-    "img": "https://th-i.thgim.com/public/incoming/u6s1ad/article71221336.ece/alternates/LANDSCAPE_1200/20260714004L_okXoEhD.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/mea-summons-iranian-deputy-envoy-after-indian-national-killed-in-attack-on-ship/article71221170.ece",
-    "time": "2026-07-14T13:23:07.000Z"
   },
   {
     "cat": "Sports",
@@ -504,24 +576,6 @@ const newsData_en = [
     "time": "2026-07-14T09:16:34.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Did Ariana Grande confirm her relationship with Ricky Alvarez?",
-    "desc": "Ariana Grande sparked reunion rumors with ex-boyfriend Ricky Alvarez. She altered lyrics from her song 'Thank You, Next' during a concert. Grande sang about Ricky and finding their way back to each other. This change followed their appearance together during the Fourth of July weekend. The singer previously dated Alvarez from 2015 to 2016.",
-    "img": "https://static.toiimg.com/photo/msid-132386792,imgsize-186064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/did-ariana-grande-confirm-her-relationship-with-ricky-alvarez-thank-you-next-singer-tweaks-lyrics-at-brooklyn-concert/articleshow/132386742.cms",
-    "time": "2026-07-14T09:12:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SC orders separate space near MP's Bhojshala for Friday namaz between 1pm and 3pm",
-    "desc": "The Supreme Court directed that any ASI structural alterations require its prior permission in the Bhojshala row. Separate space for Friday prayers for Muslims adjacent to the site was also directed. Both Hindu and Muslim sides were urged to exercise restraint during proceedings.",
-    "img": "https://static.toiimg.com/photo/msid-132386961,imgsize-81500.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sc-orders-separate-space-near-mps-bhojshala-for-friday-namaz-between-1pm-and-3pm/articleshow/132386155.cms",
-    "time": "2026-07-14T08:47:20.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Semifinals and final — schedule and timings in IST",
     "desc": "Who has progressed in the knockouts of the FIFA World Cup? And when are the matches being played? The Trionda has enthralled FIFA fans this time in the USA, Canada, and Mexico. The final of this World Cup will be played on July 20 at 12.30 am I.S.T at the MetLife Stadium in New Jersey.",
@@ -658,48 +712,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Referee dies at 38, weeks after FIFA World Cup removal",
-    "desc": "Dutch football referee Rob Dieperink has died at the young age of thirty-eight. He was recently removed from the FIFA World Cup 2026 officials list. Dieperink was arrested in Britain following an investigation which was later closed. The Netherlands football association and FIFA have expressed their deep sadness. Dieperink had a notable career, officiating many professional matches internationally.",
-    "img": "https://static.toiimg.com/photo/msid-132381173,imgsize-18306.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/dutch-referee-rob-dieperink-dies-at-38-weeks-after-fifa-world-cup-removal/articleshow/132381055.cms",
-    "time": "2026-07-14T04:41:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'When his time is up...': McCullum's 'legacy' remark on Kohli ahead 1st ODI",
-    "desc": "Virat Kohli plays his 300th ODI for India against England. England coach Brendon McCullum praised Kohli's global influence and competitive spirit. Kohli returns to the ODI format after missing the T20 series. He is close to surpassing Rahul Dravid's ODI run record in England. India seeks a fresh start in the ODI series after T20 disappointment.",
-    "img": "https://static.toiimg.com/photo/msid-132380759,imgsize-230284.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/when-his-time-is-up-brendon-mccullums-legacy-remark-on-virat-kohli-ahead-england-odi-series/articleshow/132380747.cms",
-    "time": "2026-07-14T04:18:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lamine Yamal makes bold 'no pressure' claim ahead of World Cup Semifinal",
-    "desc": "Spain's teenage sensation Lamine Yamal feels no pressure facing France in the World Cup semifinal. He believes Spain is well-equipped to handle the high-stakes match and prove themselves. La Roja enters the semifinal on an impressive 36-match unbeaten streak in regulation time. France also arrives with momentum, having won all their group matches and knockout games. This semifinal marks a national record for France's head coach Didier Deschamps.",
-    "img": "https://static.toiimg.com/photo/msid-132380208,imgsize-91732.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/lamine-yamal-makes-bold-no-pressure-claim-ahead-of-spain-vs-france-world-cup-semifinal/articleshow/132380143.cms",
-    "time": "2026-07-14T03:34:13.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "The big blot on the beautiful game",
     "desc": "From Pele and Eusebio to Mbappe and Vini Jr., artists of the game have had to listen to chants on their skin colour instead of their footwork at least once in their career, which is one more than the preferable number",
     "img": "https://th-i.thgim.com/public/incoming/tnmhm/article71219763.ece/alternates/LANDSCAPE_1200/2026-07-13T195041Z_545181821_UP1EM7D1J4GWR_RTRMADP_3_SOCCER-WORLDCUP-FRA-ESP-PREVIEW.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/the-big-blot-on-the-beautiful-game-on-racism-in-football/article71219768.ece",
     "time": "2026-07-14T03:23:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Mbappe play vs Spain? Coach gives major fitness update",
-    "desc": "France will take on a confident Spain side that reached the semifinals after beating Belgium 2-1 in the quarterfinals. Spain have not lost in their last 36 matches and will be looking to continue that run by booking a place in the World Cup final. The winner of the blockbuster semifinal will face either Argentina or England in the final on July 20.",
-    "img": "https://static.toiimg.com/photo/msid-132379692,imgsize-37401.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/will-kylian-mbappe-play-vs-spain-didier-deschamps-gives-major-fitness-update-before-fifa-world-cup-semifinal/articleshow/132379629.cms",
-    "time": "2026-07-14T02:59:15.000Z"
   },
   {
     "cat": "Sports",
@@ -736,24 +754,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/supreme-court-appoints-ex-judge-rao-to-mediate-kalyani-family-feud/articleshow/132378783.cms",
     "time": "2026-07-14T01:30:36.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Devise ways to sustain foreign currency deposits",
-    "desc": "Finance Minister Nirmala Sitharaman urged banks to enhance outreach to Non-Resident Indians. She called for introducing innovative deposit products to sustain foreign currency deposit momentum. Banks reported significant interest from NRIs in several key global locations. Attractive returns are being offered on FCNR(B) deposits, including five-year options. This initiative aims to mobilize further foreign currency inflows for the nation.",
-    "img": "https://static.toiimg.com/photo/msid-132378782,imgsize-50490.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/finance-minister-niramala-sitharaman-tells-banks-devise-ways-to-sustain-foreign-currency-deposits/articleshow/132378768.cms",
-    "time": "2026-07-14T01:24:27.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Supreme Court upholds Sebi action against Kotak AMC, MD &amp; other executives",
-    "desc": "The Supreme Court upheld SEBI's action against Kotak Mahindra Asset Management Company. Senior executives, including Nilesh Shah, faced penalties for mutual fund rule violations. The court rejected the defense that investors did not suffer any financial losses. It emphasized regulatory compliance over investor gains, issuing a stern warning. Kotak AMC and its trustee company were directed to pay substantial costs to charities.",
-    "img": "https://static.toiimg.com/photo/msid-132378753,imgsize-113120.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/supreme-court-upholds-sebi-action-against-kotak-amc-md-other-executives/articleshow/132378744.cms",
-    "time": "2026-07-14T01:18:31.000Z"
   },
   {
     "cat": "World",
@@ -837,15 +837,6 @@ const newsData_en = [
     "time": "2026-07-13T10:50:40.000Z"
   },
   {
-    "cat": "World",
-    "title": "Why Iran insists on controlling the Strait of Hormuz",
-    "desc": "In the MoU, the U.S. has made several concessions to Iran. It lifted its maritime blockade, issued a sanctions waiver for Iranian crude and other petroleum products and also promised that Iran would get access to some of its frozen funds",
-    "img": "https://th-i.thgim.com/public/incoming/o2rb0b/article71216446.ece/alternates/LANDSCAPE_1200/Logistics_GB_G5G28G83DEB.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/why-iran-insists-on-controlling-the-strait-of-hormuz/article71216413.ece",
-    "time": "2026-07-13T08:23:07.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Look who’s at the FIFA World Cup party!",
     "desc": "In an ocean of jersey-clad football fans all showing up for the FIFA World Cup, even celebrities become camouflage. Well, except some. Meet these eye-catching animal stars who turned up the global football party with their irresistible charm.",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/music/s-janaki-remembering-the-iconic-voice-of-south-india/article71211468.ece",
     "time": "2026-07-12T07:42:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When S. Janaki rejected the Padma Bhushan",
+    "desc": "“I should have been given the highest civilian award of Bharat Ratna if the government wanted to recognise my work. I am not interested in any other awards like the Padma awards,” Janaki said, after she was chosen for the Padma Bhushan",
+    "img": "https://th-i.thgim.com/public/incoming/o3tnic/article71213309.ece/alternates/LANDSCAPE_1200/doc7d82k3cj82e1ao8ao23ff.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/music/when-s-janaki-rejected-the-padma-bhushan/article71211270.ece",
+    "time": "2026-07-12T06:36:18.000Z"
   }
 ];

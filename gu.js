@@ -495,15 +495,6 @@ const newsData_gu = [
     "time": "2026-07-12T10:47:58.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "કોરોનાનું ખતરનાક કમબેક! આંધ્ર પ્રદેશમાં કોવિડથી 2 લોકોના મોત બાદ હડકંપ, સરકારે તાત્કાલિક લાગુ કર્યા આ પ્રતિબંધો",
-    "desc": "આંધ્ર પ્રદેશના કડપ્પા જિલ્લામાં કોરોનાને કારણે બે લોકોના મોત થયા છે અને આઠ કેસ સામે આવ્યા છે. કોરોનાના કેસ સામે આવતા સમગ્ર રાજ્યમાં હેલ્થ એલર્ટ જારી કરવામાં આવ્યું છે. તંત્રએ ભીડભાડવાળી જગ્યા પર માસ્ક ફરજીયાત કરી દીધું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/covid-alert-nationwide-concern-as-andhra-pradesh-reports-fresh-covid-deaths-samples-sent-for-genome-sequencing-484372 ",
-    "time": "2026-07-12T10:00:24.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "ફક્ત સિમ કાર્ડ કાઢવા માટે નથી આ ઇજેક્ટર ટૂલ, વાઇ-ફાઇથી લઈને ઇયરબડ્સ સુધી બધું જ ઠીક કરી શકે છે આ નાની પિન!",
     "desc": "સ્માર્ટફોન બોક્સમાં જોવા મળતું સિમ ઇજેક્ટર ટૂલ ઘણીવાર ઉપયોગ પછી ખોવાઈ જાય છે અથવા ખોવાઈ જાય છે. પરંતુ આ અદ્ભુત નાનું ટૂલ ફક્ત સિમ કાઢવા માટે જ નથી, તે Wi-Fi રાઉટર અને ઇયરબડ્સ જેવી તકનીકી સમસ્યાઓને ઝડપથી રીસેટ કરવા અને ઠીક કરવા માટે પણ એક સારૂ ઈમરજન્સી સાધન છે.",
@@ -520,15 +511,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/does-a-low-wattage-phone-charge-faster-with-a-high-wattage-charger-or-is-it-safe-to-charge-it-find-out-the-correct-answer-484368 ",
     "time": "2026-07-12T09:35:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "&amp;#039;GFS ગેલેક્સી&amp;#039; પર હુમલો: 10 ભારતીયોનો આબાદ બચાવ, 1 લાપતા નાગરિક માટે રેસ્ક્યૂ ઓપરેશન શરૂ, ભારતે કડક શબ્દોમાં નિંદા કરી",
-    "desc": "ઓમાનના દરિયાકાંઠા પાસે વાણિજ્યિક જહાજો પર GFS ગેલેક્સી પર થયેલા હુમલાની ભારતે કડક શબ્દોમાં નિંદા કરી છે. જહાજ પર સવાર 11 ભારતીયોમાંથી 10ને સુરક્ષિત બચાવી લેવામાં આવ્યા છે, જ્યારે એક લાપતા નાગરિક માટે રેસ્ક્યુ ઓપરેશન જારી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/attack-on-ship-near-oman-coast-with-11-indians-onboard-mea-condemns-incident-demands-immediate-halt-to-attacks-484365 ",
-    "time": "2026-07-12T08:38:24.000Z"
   },
   {
     "cat": "Entertainment",
