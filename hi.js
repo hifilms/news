@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India vs England 1st ODI live streaming details; check when and where to watch opener on TV, online",
+    "desc": "India and England are all set to lock horns in the first ODI at Edgbaston on Tuesday, July 14, as they look to put their best foot forward in the three-match series. After having been...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-england-1st-odi-live-streaming-details-check-when-and-where-to-watch-opener-on-tv-online-2026-07-14-1048181",
+    "time": "2026-07-14T07:39:57.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Brendon McCullum apologises to England cricket fans for marquee series losses",
     "desc": "Axed England Test coach Brendon McCullum has apologised to the England fans for not producing the desired results he and the team wanted in the four-year stint with the Three Lions in the red-ball format....",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-still-in-fray-of-t20i-return-bcci-source-drops-major-update-2026-07-13-1048106",
     "time": "2026-07-13T10:38:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cricket West Indies name star batter as Justin Greaves' replacement ahead of New Zealand ODIs",
-    "desc": "CWI (Cricket West Indies) has come forward and announced the replacement of the injured Justin Greaves. It is worth noting that Greaves sustained an injury to his back that ruled him out of the first...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/cricket-west-indies-name-star-batter-as-justin-greaves-replacement-ahead-of-new-zealand-odis-2026-07-13-1048097",
-    "time": "2026-07-13T09:34:40.000Z"
   }
 ];
