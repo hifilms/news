@@ -1,7 +1,16 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Kylian Mbappe, Lamine Yamal take centre stage as semi-final begins",
+    "title": "France ghost in semis as Spain punch FIFA World Cup final ticket after 16 years following 2-0 win",
+    "desc": "Spain booked their place in the FIFA World Cup final for only the second time in history after defeating France 2-0 in the semi-final at Dallas Stadium on Tuesday. First-half penalty from Mikel Oyarzabal and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/france-ghost-in-semis-as-spain-punch-fifa-world-cup-final-ticket-after-16-years-following-2-0-win-2026-07-15-1048257",
+    "time": "2026-07-14T21:36:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Spain beat France 2-0 to move to FIFA World Cup 2026 final",
     "desc": "2018 FIFA World Cup winner and 2022 runners-up France will take on the current Euro winner, Spain, in the first semi-final of the FIFA World Cup 2026 at Dallas Stadium. The blockbuster encounter pits France’s...",
     "img": "",
     "src": "indiatvnews.com",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/gurnoor-brar-stages-brilliant-comeback-with-two-wickets-in-an-over-bumrah-grabs-impressive-catch-2026-07-14-1048234",
     "time": "2026-07-14T13:25:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jasprit Bumrah creates history for India, breaks Ravindra Jadeja's record during 1st ODI against England",
-    "desc": "Jasprit Bumrah has etched his name into the history books on his ODI return during the first match of the series against England on Tuesday, July 14. Bumrah made a comeback to the Indian side...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-creates-history-for-india-breaks-ravindra-jadejas-record-during-1st-odi-against-england-2026-07-14-1048219",
-    "time": "2026-07-14T11:34:56.000Z"
   }
 ];

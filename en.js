@@ -1,6 +1,114 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "‘Fake Silver’ row: Jammu court summons IO, seeks records",
+    "desc": "A Jammu court has ordered a crime branch officer to appear with case records. This follows objections raised over the agency's handling of a complaint. The case involves alleged fake silver offerings worth Rs 500 crore at Vaishno Devi shrine. Officials discovered the offerings contained minimal actual silver and toxic cadmium. An advocate filed a court complaint after his earlier submission received no action.",
+    "img": "https://static.toiimg.com/photo/msid-132401240,imgsize-38946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/fake-silver-row-jammu-court-summons-io-seeks-records/articleshow/132401239.cms",
+    "time": "2026-07-14T21:45:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lamine Yamal shines as Spain outclass Mbappe’s France to reach their second WC Final",
+    "desc": "Spain stormed into their first World Cup final since 2010 with a clinical 2-0 victory over top-ranked France. A first-half penalty from Mikel Oyarzabal, sparked by a smart play from teenage prodigy Lamine Yamal, and a second-half strike by Pedro Porro sealed the win. La Roja will face either Argentina or England in Sunday’s grand finale.",
+    "img": "https://static.toiimg.com/photo/msid-132401032,imgsize-108044.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/spain-vs-france-fifa-world-cup-sf-match-result-lamine-yamal-shines-as-spain-outclass-mbappes-france-to-reach-second-wc-final/articleshow/132401032.cms",
+    "time": "2026-07-14T21:37:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "12 Gurgaon bikers, UP SUV driver fined Rs 1.7 lakh for off-roading in Ladakh’s protected areas",
+    "desc": "Twelve bikers from Gurgaon faced fines totaling Rs 1.2 lakh for off-roading near Tso Moriri. An SUV driver from Uttar Pradesh was also fined Rs 50,000 for a similar violation. These actions follow recent penalties against tourists for illegal incursions into protected areas. Wildlife officials are continuing their crackdown on off-roading in sensitive ecological zones. The administration urges tourists to explore Ladakh responsibly and protect its fragile environment.",
+    "img": "https://static.toiimg.com/photo/msid-132401232,imgsize-96910.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/12-gurgaon-bikers-up-suv-driver-fined-rs-1-7-lakh-for-off-roading-in-ladakhs-protected-areas/articleshow/132401230.cms",
+    "time": "2026-07-14T21:37:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CCTVs capture terror suspects, sparks search operation in Rajouri",
+    "desc": "Security forces initiated extensive searches in Rajouri's Thanamandi region after CCTV footage showed two terror suspects. These operations are part of an ongoing combing effort in the forested areas for elusive militants. Meanwhile, a drone was discovered by a local resident in Samba district's agricultural fields. The recovered drone was promptly seized by security personnel for forensic examination. Investigations are underway to determine the drone's origin and potential cross-border connections.",
+    "img": "https://static.toiimg.com/photo/msid-132401224,imgsize-251056.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-cctvs-capture-terror-suspects-sparks-search-operation-in-rajouri/articleshow/132401062.cms",
+    "time": "2026-07-14T21:33:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NIA court issues non-bailable warrant for Hafiz Saeed; calls for crackdown on terror financing and networks",
+    "desc": "An NIA court has issued a non-bailable warrant for Hafiz Saeed. This action stems from the April 22, 2025, Pahalgam terror attack. The attack tragically resulted in the deaths of twenty-six innocent people. Saeed, the Lashkar-e-Taiba founder, is considered the mastermind of this conspiracy. Further legal proceedings will now commence against the accused individual.",
+    "img": "https://static.toiimg.com/photo/msid-132401046,imgsize-43108.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/nia-court-issues-non-bailable-warrant-for-hafiz-saeed-calls-for-crackdown-on-terror-financing-and-networks/articleshow/132401042.cms",
+    "time": "2026-07-14T21:29:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "US eases Russia sanctions bill, cuts tariff threat on India and China from 500% to 100%",
+    "desc": "US senators unveiled a revised Russia sanctions bill targeting major energy buyers. This legislation seeks to pressure Moscow and its key oil and gas importers. The updated bill reduces previously proposed tariffs on top purchasers like China and India. It also targets Russia's shadow fleet and financial institutions involved in its war. This measure aims to secure broader political support and honor Senator Lindsey Graham's legacy.",
+    "img": "https://static.toiimg.com/photo/msid-132400877,imgsize-141970.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-eases-russia-sanctions-bill-cuts-tariff-threat-on-india-and-china-from-500-to-100/articleshow/132400873.cms",
+    "time": "2026-07-14T20:29:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anne Hathaway says she was 'shocked' to learn she was pregnant",
+    "desc": "Anne Hathaway is embracing motherhood once again, and the Oscar-winning actress admits she didn't expect her third pregnancy to happen so soon. During her appearance on Late Night with Seth Meyers, the 43-year-old actress opened up about expecting her third child with husband Adam Shulman, describing the experience as nothing short of \"amazing.\"",
+    "img": "https://static.toiimg.com/photo/msid-132400863,imgsize-89115.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/anne-hathaway-says-she-was-shocked-to-learn-she-was-pregnant-with-baby-no-3-were-calling-this-one-our-buzzer-beater/articleshow/132400851.cms",
+    "time": "2026-07-14T20:20:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "After fresh attacks, government orders real-time monitoring of ships with Indian crew",
+    "desc": "India's shipping minister ordered a comprehensive vessel tracking dashboard for ships with Indian seafarers. This dashboard will provide real-time information on vessel position and crew welfare. Liaison officers will be appointed to assist affected seafarers and their families. The ministry also directed close coordination with Indian missions in affected nations. Vessel movements require fresh threat assessments and coordination with maritime authorities.",
+    "img": "https://static.toiimg.com/photo/msid-132400774,imgsize-59506.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/middle-east-crisis-after-fresh-attacks-government-orders-real-time-monitoring-of-ships-with-indian-crew/articleshow/132400764.cms",
+    "time": "2026-07-14T19:48:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Cabinet likely to approve Rs 25,000 crore Ganga, Varuna corridors for Varanasi",
+    "desc": "The Union Cabinet is expected to approve two major elevated road projects in Varanasi. These projects, the Ganga and Varuna Corridors, will cost nearly twenty-five thousand crore rupees. The Ganga Elevated Corridor will be a forty-six-kilometer highway along the riverfront. The Varuna Corridor will be a forty-three-kilometer elevated link connecting two national highways. These initiatives aim to significantly ease traffic congestion and boost tourism in the holy city.",
+    "img": "https://static.toiimg.com/photo/msid-132400762,imgsize-211256.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cabinet-likely-to-approve-rs-25000-crore-ganga-varuna-corridors-for-varanasi/articleshow/132400756.cms",
+    "time": "2026-07-14T19:46:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aamir faces fatwa after marrying Gauri; cleric objects to interfaith marriage",
+    "desc": "Aamir Khan has landed in controversy just days after marrying longtime partner Gauri Spratt, with a Muslim cleric objecting to their interfaith marriage and declaring it impermissible under his interpretation of Islamic law. Maulana Ibrahim Hussain, the Shahi Chief Mufti of the Muslim Personal Darul Ifta, has issued a fatwa against Aamir Khan over his marriage to Gauri Spratt, saying it goes against Sharia because she is not a Muslim.",
+    "img": "https://static.toiimg.com/photo/msid-132400693,imgsize-67764.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khan-faces-fatwa-after-marrying-gauri-spratt-cleric-objects-to-interfaith-marriage-gair-muslim-se-shaadi-karna-haraam-hai/articleshow/132400571.cms",
+    "time": "2026-07-14T19:37:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi helped prevent Putin’s tactical nuclear strike on Ukraine in 2022, claims Polish minister",
+    "desc": "Poland's foreign minister stated Prime Minister Modi influenced President Putin regarding nuclear weapons. He emphasized Modi's unique ability to exert pressure and influence on the Russian leader. India's long-standing relationship with Russia provides a crucial communication channel. India consistently advocates for dialogue and diplomacy to resolve the conflict. The nation maintains ties with both Russia and Western countries.",
+    "img": "https://static.toiimg.com/photo/msid-132400561,imgsize-1409360.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pm-modi-helped-prevent-putins-tactical-nuclear-strike-on-ukraine-in-2022-claims-polish-minister/articleshow/132400501.cms",
+    "time": "2026-07-14T19:31:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Can’t English be considered an indigenous Indian language, asks Supreme Court",
+    "desc": "SC questions the use of the colonially loaded term ‘native’ in CBSE circular, says the push for three-language scheme may be in the spirit of the Constitutional goal to use Indian languages for official purposes",
+    "img": "https://th-i.thgim.com/public/incoming/u3piod/article71220169.ece/alternates/LANDSCAPE_1200/Supreme%20Court%20%204.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/cant-english-be-considered-an-indigenous-indian-language-asks-sc/article71221705.ece",
+    "time": "2026-07-14T19:30:15.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Migrant worker from Bihar dies in boiler explosion at factory in Gummidipoondi",
     "desc": "Three workers were grievously injured and six others suffered minor burns. They have been admitted to several government and private hospitals. The police have registered a case on a complaint from the workers. The supervisor of the recycling unit has been named as an accused in the FIR",
     "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/jd9n80/article71220281.ece/alternates/LANDSCAPE_1200/Gummidipoondi%20blast.jpeg",
@@ -72,6 +180,15 @@ const newsData_en = [
     "time": "2026-07-14T17:56:07.000Z"
   },
   {
+    "cat": "Sports",
+    "title": "Folarin Balogun breaks silence: 'I knew the ban overturn would cause a lot of controversy'",
+    "desc": "USMNT striker Folarin Balogun has admitted that Donald Trump's intervention to overturn his World Cup red card suspension \"caused a lot of controversy\" and created visible nerves among his teammates. While insisting the original red card was wrong, Balogun acknowledged the outside noise was difficult to avoid. FIFA has still offered no explanation for suspending the ban, as the controversy continues to grow.",
+    "img": "https://static.toiimg.com/photo/msid-132397522,imgsize-89996.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-folarin-balogun-breaks-silence-i-knew-the-ban-overturn-would-cause-a-lot-of-controversy/articleshow/132397522.cms",
+    "time": "2026-07-14T17:43:11.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Chief warder, two warders arrested for the death of a remand prisoner in Nagercoil jail",
     "desc": "Sabari Varman, 34, a differently abled resident of Eeththankaadu near Suchindram, was arrested on July 9 for allegedly possessing the banned gutka and remanded in custody. He died in the prison there under suspicious circumstances on July 12",
@@ -88,33 +205,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kunickaa-sadanand-hits-back-at-troll-calling-her-a-homewrecker-for-relationship-with-kumar-sanu-while-he-was-married-to-rita-bhattacharya-after-supporting-sonam-wankchuk-aage-badho-chhutta-nai-hai/articleshow/132396982.cms",
     "time": "2026-07-14T16:58:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Museum housing rare palm-leaf manuscripts gets ₹5 crore funding boost",
-    "desc": "The Ministry of Culture has released ₹5 crore under the Museum Grant Scheme for the construction of new building of the museum - a home to nearly 5,000 palm-leaf scripts dating back to the 17th, 18th and 19th century",
-    "img": "https://th-i.thgim.com/public/incoming/uzdrt4/article71222694.ece/alternates/LANDSCAPE_1200/10237_14_7_2026_19_0_12_1_WHATSAPPIMAGE2026_07_14AT54811PM.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/museum-housing-rare-palm-leaf-manuscripts-gets-5-crore-funding-boost/article71221569.ece",
-    "time": "2026-07-14T16:46:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ED arrests Ebix group chairman Vikas Garg in illegal betting case",
-    "desc": "The 53-year-old businessman is alleged by the agency to have routed ill-gotten money from the betting app into the entities owned and controlled by him; the ED recorded that it has attached properties of Mr. Garg, his family members and firms owned by him, valued at ₹940.77 crore",
-    "img": "https://th-i.thgim.com/public/incoming/oz0rwo/article71208161.ece/alternates/LANDSCAPE_1200/Mahadev-bettingG40G7APHO.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/ed-arrests-ebix-group-chairman-vikas-garg-in-illegal-betting-case/article71222459.ece",
-    "time": "2026-07-14T16:32:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Develop Mamnoor, Adilabad airports to international standards, CM urges Centre",
-    "desc": "Revanth Reddy requests Union Civil Aviation Minister K. Ramamohan Naidu to examine the possibility of operating seaplane services between Prakasam Barrage in Vijayawada and Hussainsagar; no link between politics and development - politics only during elections, says Chief Minister Not appropriate to criticise the State for consulting Centre to resolve problems and speed up development",
-    "img": "https://th-i.thgim.com/public/incoming/86tew7/article71221957.ece/alternates/LANDSCAPE_1200/20260714225L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/develop-mamnoor-adilabad-airports-to-international-standards-cm-urges-centre/article71220567.ece",
-    "time": "2026-07-14T16:28:41.000Z"
   },
   {
     "cat": "Politics",
@@ -387,15 +477,6 @@ const newsData_en = [
     "time": "2026-07-14T11:42:33.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "CJP invites leaders across party lines to back NEET protesters",
-    "desc": "The Cockroach Janta Party has invited political leaders to join a protest at Jantar Mantar. This demonstration supports students protesting the alleged NEET UG examination irregularities and paper leak. Leaders from various parties have been urged to stand in solidarity with the protesting youth. The organization seeks accountability and justice for students affected by the education system. Many leaders have already offered support, while others are still being contacted.",
-    "img": "https://static.toiimg.com/photo/msid-132390521,imgsize-1219353.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/from-rahul-gandhi-to-vijay-to-nadda-cjp-invites-leaders-across-party-lines-to-back-neet-protesters/articleshow/132389519.cms",
-    "time": "2026-07-14T11:40:53.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Megan Fox's ex-husband, Brian Austin Green, reveals divorce reason",
     "desc": "Brian Austin Green revealed his past marriage to Megan Fox ended due to physical attraction. He now believes friendship forms a stronger foundation for relationships. Green learned from his toxic patterns after his divorce and breakdown. He is now engaged to Sharna Burgess, prioritizing friendship first. Their connection developed naturally from a strong friendship base.",
@@ -459,15 +540,6 @@ const newsData_en = [
     "time": "2026-07-14T11:09:27.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Learning a language never goes waste': SC declines to stay CBSE's three-language policy",
-    "desc": "The Supreme Court declined to halt the CBSE's three-language policy for 2026-27. It will hear detailed challenges to the policy next week. Petitioners argued against the policy's implementation and lack of resources. The court noted that learning languages is beneficial and agreed to hear arguments. The Union government was directed to file its response within ten days.",
-    "img": "https://static.toiimg.com/photo/msid-132389397,imgsize-241542.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/learning-a-language-never-goes-waste-sc-declines-to-stay-cbses-three-language-policy/articleshow/132389225.cms",
-    "time": "2026-07-14T11:00:42.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Jos Buttler enters elite club, becomes only the second England player to...",
     "desc": "Jos Buttler achieved his 200th One-Day International cap for England. He reached this significant milestone during the opening ODI against India. Former captain Eoin Morgan holds the record for most ODIs played. England batted first after winning the toss at Edgbaston. India welcomed back senior players like Virat Kohli and Rohit Sharma.",
@@ -513,24 +585,6 @@ const newsData_en = [
     "time": "2026-07-14T10:06:16.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Anna Rajan seeks legal action over morphed image",
-    "desc": "Actress Anna Rajan has strongly condemned an edited and explicit image circulated on social media, deeming it a grave violation of her privacy and dignity. She has taken the necessary steps by reporting the incident to Instagram and plans to file a police complaint. Rajan is urging immediate intervention from Kerala Police and Cyberdome Kerala and is committed to legal action until justice is achieved for this serious infringement.",
-    "img": "https://static.toiimg.com/photo/msid-132387861,imgsize-104396.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/this-is-shameful-unacceptable-anna-rajan-slams-morphed-image-shared-online-says-legal-action-will-be-taken/articleshow/132387791.cms",
-    "time": "2026-07-14T10:00:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Dil mein Babar, munh mein Ram': Anti-SP posters targeting Mulayam, Akhilesh ignite fresh political storm in UP",
-    "desc": "Posters targeting Mulayam Singh Yadav and Akhilesh Yadav appeared across Uttar Pradesh. The Samajwadi Party accused the BJP of inciting communal sentiments with these displays. Uttar Pradesh minister Om Prakash Rajbhar defended the posters as appropriate responses. Samajwadi Party workers removed the controversial hoardings in several locations. Police are examining CCTV footage to identify those responsible for the posters.",
-    "img": "https://static.toiimg.com/photo/msid-132387686,imgsize-98675.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dil-mein-babar-munh-mein-ram-anti-sp-posters-targeting-mulayam-akhilesh-ignite-fresh-political-storm-in-up/articleshow/132387509.cms",
-    "time": "2026-07-14T09:57:56.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India tour of Bangladesh gets closer to approval; Afghanistan T20Is could be pushed back",
     "desc": "India's white-ball tour of Bangladesh is edging closer to approval, with the BCCI exploring a revised international schedule. To accommodate the six-match series, India's proposed T20Is against Afghanistan are likely to be pushed back by a few days, while the BCB remains optimistic about hosting the Men in Blue after a four-year gap.",
@@ -549,15 +603,6 @@ const newsData_en = [
     "time": "2026-07-14T09:47:33.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "How July 14 turned the tide and put Pakistan on back foot during Operation Vijay",
-    "desc": "The Indian Army marked July 14, 1999, as a decisive turning point in the Kargil War. This date saw India regain control of strategic heights and Pakistan announce troop withdrawal. The Fire and Fury Corps highlighted exceptional courage and coordinated operations during this period. Prime Minister Atal Bihari Vajpayee declared Operation Vijay a success on this significant day.",
-    "img": "https://static.toiimg.com/photo/msid-132387224,imgsize-1725058.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/kargil-war-how-july-14-turned-the-tide-and-put-pakistan-on-back-foot-during-operation-vijay/articleshow/132387219.cms",
-    "time": "2026-07-14T09:45:23.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "SRK gets relief as Supreme Court rejects plea against 'Mannat' CRZ clearance",
     "desc": "The Supreme Court has dismissed a petition challenging the Coastal Regulation Zone clearance. This ruling allows Shah Rukh Khan to proceed with renovations at his Mumbai home. The apex court declined to interfere with an earlier National Green Tribunal order. Activist Santosh Daundkar's appeal was rejected by the bench. The legal dispute over Mannat's expansion has now concluded.",
@@ -565,15 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-gets-relief-as-supreme-court-rejects-plea-against-mannat-crz-clearance-this-paves-way-for-two-additional-floors-to-his-house/articleshow/132387346.cms",
     "time": "2026-07-14T09:44:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ariana Grande overcomes technical glitch at Brooklyn concert",
-    "desc": "Ariana Grande's New York performance faced a microphone malfunction during a song. The audience helped her complete the song while the technical issue was resolved. She thanked her team and the concertgoers for their understanding and patience. Grande also subtly altered lyrics in her song 'Thank You, Next' for Ricky Alvarez. This lyric change sparked significant fan reaction and online discussion.",
-    "img": "https://static.toiimg.com/photo/msid-132386850,imgsize-118229.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/ariana-grande-overcomes-technical-glitch-at-brooklyn-concert-amid-romantic-verse-change-for-ricky-alvarez-did-you-hear-any-of-that/articleshow/132386871.cms",
-    "time": "2026-07-14T09:16:34.000Z"
   },
   {
     "cat": "Sports",
@@ -667,15 +703,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Haaland arrives home carrying a 'Raccoon', breaks silence on companion",
-    "desc": "Norwegian striker Erling Haaland returned home with a viral stuffed raccoon. He engaged fans by asking for name suggestions for his new companion. Norway received a massive hero's welcome from over 100,000 fans. The capital city celebrated the team's historic FIFA World Cup campaign. Crown Prince Haakon led a final \"Viking Row\" celebration with supporters.",
-    "img": "https://static.toiimg.com/photo/msid-132382359,imgsize-978773.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/watch-erling-haaland-arrives-home-carrying-a-raccoon-breaks-silence-on-viral-companion/articleshow/132382094.cms",
-    "time": "2026-07-14T06:03:35.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "'This moment belongs to my father': Yash Thakur on maiden India call-up",
     "desc": "From dedicating his maiden India call-up to his late father to reuniting with bowling coach Morne Morkel, Yash Thakur reflects on the journey behind his biggest career milestone. In an exclusive interview with TimesofIndia. com, the Punjab Kings pacer opens up about Shreyas Iyer's faith in his bowlers, the winning mindset instilled by Ricky Ponting, and why pressure situations bring out the best in him.",
     "img": "https://static.toiimg.com/photo/msid-132382038,imgsize-62376.cms",
@@ -729,15 +756,6 @@ const newsData_en = [
     "time": "2026-07-14T02:35:19.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Virat Kohli, Rohit Sharma close in on all-time India ODI record in England",
-    "desc": "Virat Kohli needs 68 runs to surpass Rahul Dravid's tally of 648 runs. Rohit Sharma requires 239 runs to move ahead of Dravid's total. Dravid currently holds the record with 648 runs from 20 matches. This series presents a big chance for Kohli to claim the top spot.",
-    "img": "https://static.toiimg.com/photo/msid-132379040,imgsize-53498.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/virat-kohli-rohit-sharma-close-in-on-all-time-india-odi-record-in-england/articleshow/132379025.cms",
-    "time": "2026-07-14T02:09:03.000Z"
-  },
-  {
     "cat": "Business",
     "title": "HCLTech to up AI game, invest 3,500 crore in data centres of up to 50 MW",
     "desc": "HCLTech plans a significant investment in new AI data centers. This move targets growing demand for sovereign AI infrastructure. The company reported its first-quarter revenue figures on Monday. Revenue saw a slight sequential decrease but a year-over-year increase. This investment follows HCLTech's recent stake in Sarvam AI.",
@@ -745,15 +763,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/hcltech-to-up-ai-game-invest-3500-crore-in-data-centres-of-up-to-50-mw/articleshow/132378824.cms",
     "time": "2026-07-14T01:36:03.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Supreme Court appoints ex-judge Rao to mediate Kalyani family feud",
-    "desc": "The Supreme Court appointed a retired judge to mediate a family dispute. This mediation concerns over one lakh crore rupees in assets between Baba Kalyani and his sister. The court gave the parties two weeks to attempt a settlement. Earlier, the Bombay High Court refused to send the dispute to mediation. The Supreme Court urged the parties to heed its request for mediation.",
-    "img": "https://static.toiimg.com/photo/msid-132378813,imgsize-961456.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/supreme-court-appoints-ex-judge-rao-to-mediate-kalyani-family-feud/articleshow/132378783.cms",
-    "time": "2026-07-14T01:30:36.000Z"
   },
   {
     "cat": "World",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/music/s-janaki-remembering-the-iconic-voice-of-south-india/article71211468.ece",
     "time": "2026-07-12T07:42:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When S. Janaki rejected the Padma Bhushan",
-    "desc": "“I should have been given the highest civilian award of Bharat Ratna if the government wanted to recognise my work. I am not interested in any other awards like the Padma awards,” Janaki said, after she was chosen for the Padma Bhushan",
-    "img": "https://th-i.thgim.com/public/incoming/o3tnic/article71213309.ece/alternates/LANDSCAPE_1200/doc7d82k3cj82e1ao8ao23ff.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/music/when-s-janaki-rejected-the-padma-bhushan/article71211270.ece",
-    "time": "2026-07-12T06:36:18.000Z"
   }
 ];
