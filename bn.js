@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "ভিয়েতনাম বোট ট্র্যাজেডি! দেশে ফিরল ১৫ ভারতীয়ের নিথর দেহ, বিমানবন্দরেই শুরু হস্তান্তরের প্রক্রিয়া",
+    "desc": "ভিয়েতনামে স্পিডবোট ডুবিতে মৃত ১৫ ভারতীয় পর্যটকের দেহ মঙ্গলবার বিশেষ বিমানে মুম্বই আনা হয়েছে। মৃতদের মধ্যে ১০ জন তামিলনাড়ু, ৩ জন অন্ধ্রপ্রদেশ ও ২ জন কেরলের বাসিন্দা। বিমানবন্দর থেকে দেহগুলি শেষকৃত্যের জন্য নিজ নিজ রাজ্যে পাঠানো হচ্ছে। দুর্ঘটনায় আহত এক ভারতীয়ের চিকিৎসা চলছে হো চি মিন সিটিতে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/bodies-of-15-indians-who-died-in-vietnam-boat-tragedy-reach-mumbai_662248.html ",
+    "time": "2026-07-14T04:21:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'ও তো একটা আস্ত ভাঁড়!' রাম মন্দির বিতর্কের মাঝেই ভাইরাল নাসিরুদ্দিন-অনুপমের পুরনো তরজা",
+    "desc": "রাম মন্দিরে চুরির ঘটনাকে ‘অত্যন্ত সামান্য বিষয়’ বলে মন্তব্য করার পরই নেটিজেনদের একাংশের তোপের মুখে পড়েছেন অনুপম খের। আর এই আবহেই তাঁর রাজনৈতিক মতাদর্শকে নিশানা করা নাসিরুদ্দিন শাহের একটি পুরোনো সাক্ষাৎকারের ভিডিয়ো নেটপাড়ায় পুনরায় ভাইরাল হয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/amid-ram-temple-row-video-resurfaces-naseeruddin-shah-called-anupam-kher-a-clown_662241.html ",
+    "time": "2026-07-14T03:19:14.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "কাজের নাম করে বাড়ি ডেকে সহকর্মীকে 'ধর্ষণ'! PA-র গ্রেফতারি নিয়ে মুখ খুললেন শ্রাবন্তী",
     "desc": "সহকর্মীকে ধর্ষণের অভিযোগে গ্রেফতার টলিউড অভিনেত্রী শ্রাবন্তী চট্টোপাধ্যায়ের আপ্তসহায়ক। গত ১২ এপ্রিল চ্যাটার্জিহাট এলাকায় নিজের বাড়িতে ডেকে সহকর্মীকে ধর্ষণের অভিযোগ উঠেছে তাঁর বিরুদ্ধে। রবিবার রাতে গ্রেফতারির পর সোমবার ধৃতকে পেশ করা হল হাওড়া আদালতে। এই ঘটনায় মুখ খুলে তীব্র অস্বস্তি প্রকাশ করলেন খোদ অভিনেত্রীও!",
@@ -189,15 +207,6 @@ const newsData_bn = [
     "time": "2026-07-07T08:56:48.000Z"
   },
   {
-    "cat": "World",
-    "title": "বাবা ও স্ত্রীর শেষযাত্রায় কেন অনুপস্থিত মোজতবা? গুঞ্জনের মধ্যেই অন্যরকম উদ্বেগ, মার্কিনি হামলায় মোজতবা কি...?",
-    "desc": "ইরান মোজতবার এই অনুপস্থিতির কারণ হিসেবে বলেছে, মোজতবা খামেনির উপর এখনও হত্যার হুমকি আছে। নিরাপত্তার কারণেই এই সিদ্ধান্ত। যদিও মোজতবা খামেনির তিন ভাই মোস্তফা, মাইসাম ও মাসুদ-সহ ইরানের সমস্ত শীর্ষ নেতৃত্বই উপস্থিত ছিলেন আয়াতোল্লা খামেইনির শোকযাত্রায়।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/why-mojtaba-khamenei-not-attending-his-father-ayatolla-ali-khameneis-funeral_661355.html ",
-    "time": "2026-07-07T07:44:48.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "তৃতীয় বিয়ে নিয়ে ট্রোলড আমির, ব্যক্তিগত জীবনের কারণে ফিকে পর্দার সাফল্য? সোশ্যাল মিডিয়ার জমানায় ঠিক কোন নিরিখে বিচার করা হয় একজন তারকাকে?",
     "desc": "তারকাদের ব্যক্তিগত জীবন নিয়ে চর্চা থাকবেই, কিন্তু দিনশেষে দর্শক তাঁদের বিচার করে কী দিয়ে— কাজ নাকি ব্যক্তিগত সম্পর্ক? আমির খান ও গৌরী স্প্র্যাটের বিয়ের গুঞ্জনের মাঝেই সামনে এল এক নতুন সমীক্ষা। সোশ্যাল মিডিয়ার যুগে কীভাবে বদলে যাচ্ছে ফ্যান ও সেলিব্রিটিদের সম্পর্কের সমীকরণ?",
@@ -232,41 +241,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/tarunjyoti-tewari-claims-aditi-munshi-reality-show-chat-proof-after-debraj-arrest_660827.html ",
     "time": "2026-07-02T13:01:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "সন্তান না নেওয়ার সিদ্ধান্তেই কি বিচ্ছেদ? আকাঙ্ক্ষার মন্তব্যের পর মুখ খুললেন গৌরব",
-    "desc": "আকাঙ্ক্ষা বলেন, “আমি বুঝতে পেরেছিলাম যে ও জীবনে যেটা চাইছে, সেটা আমি ওকে দিতে পারব না।” তবে সম্পর্ক ভাঙলেও দুজনের মধ্যে যে কোনো কাদা ছোড়াছুড়ি বা তিক্ততা নেই, গৌরব এবং আকাঙ্ক্ষা- উভয়ের বক্তব্যেই তা পরিষ্কার।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/gaurav-khanna-breaks-his-silence-on-divorce-from-akanksha-chamola-extends-support-to-her_660611.html ",
-    "time": "2026-07-01T07:35:18.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
-    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
-    "time": "2026-06-01T03:50:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
-    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
-    "time": "2026-05-23T05:15:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "পেট্রোল ও ডিজেলের দাম লিটারে ৩ টাকা বাড়ল, জেনে নিন আপনার শহরে জ্বালানির নতুন দাম",
-    "desc": "চার বছর পর পেট্রোল ও ডিজেলের দাম প্রতি লিটারে ₹৩ টাকা করে বাড়ল। এর ফলে কলকাতা ও দিল্লিতে জ্বালানি মহার্ঘ্য হল। Fuel prices hiked by ₹3 per litre after a long wait causing rates to rise in major cities.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-15-2026-000015b-jpg-1778819385461_1778819386210-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-india-fuel-rates-increased-by-3-rupees-per-litre-delhi-kolkata-014-306911.html",
-    "time": "2026-05-15T04:35:17.000Z"
   }
 ];
