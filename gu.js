@@ -1,5 +1,68 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "ટીમ ઈન્ડિયાના કોચનો ચોંકાવનારો નિર્ણય... ઈંગ્લેન્ડ પ્રવાસ બાદ પદ છોડવાની કરી જાહેરાત !",
+    "desc": "ભારતીય ક્રિકેટ ટીમના સહાયક કોચ રાયન ટેન ડોશેટે વ્યક્તિગત કારણોસર પદ છોડવાની ઇચ્છા વ્યક્ત કરી છે. ત્યારે આ મામલાની સંપૂર્ણ વિગતો શું છે અને ગૌતમ ગંભીરના સમર્થનમાં પૂર્વ મુખ્ય પસંદગીકાર એમએસકે પ્રસાદે શું કહ્યું છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/indian-cricket-team-assistant-coach-to-resign-after-england-odi-series-484614 ",
+    "time": "2026-07-14T13:07:24.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "માત્ર 5% વ્યાજ પર લોન આપી રહી છે કેન્દ્ર સરકાર, ગેરંટીની પણ જરૂર નથી; જાણો કોને અને કેવી રીતે મળશે લાભ",
+    "desc": "પ્રધાનમંત્રી વિશ્વકર્મા યોજના અંતર્ગત લાભાર્થીને જામીન મુક્ત (ગેરંટી વગરની) લોન આપવામાં આવે છે. લોનનો પહેલો હપ્તો 1 લાખ રૂપિયાનો હોય છે, જેમાં રી-પેમેન્ટ સમયગાળો 18 મહિનાનો હોય છે. બીજો હપ્તો 2 લાખ રૂપિયાનો હોય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/central-government-is-giving-loans-at-only-5-percent-interest-no-guarantee-is-required-know-who-will-get-the-benefit-and-how-484613 ",
+    "time": "2026-07-14T13:01:22.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "19.4 KM માઇલેજ, સનરૂફ અને 6 એરબેગ! આ કોરિયન SUV ને ખરીદવા પડાપડી, કિંમત માત્ર ₹10.99 લાખ",
+    "desc": "Kia India એ જૂન 2026મા શાનદાર પ્રદર્શન કરતા 24552 કારનું વેચાણ કર્યું છે. સૌથી મોટી સરપ્રાઇઝ Kia Seltos રહી, જેના વેચાણમાં આશરે 85 ટકાનો જબરદસ્ત વધારો થયો. સોનેટે પણ દમદાર પ્રદર્શન કર્યું છે, જ્યારે Carens Clavis અને Carnival ની માંગમાં ઘટાડો જોવા મળ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/kia-india-june-2026-sales-seltos-and-sonet-drive-volume-carens-and-carnival-see-drop-check-model-wise-report-484611 ",
+    "time": "2026-07-14T12:06:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કોરોનાની ફરી દસ્તક? 4 વર્ષ બાદ પહેલીવાર 2 લોકોના મોત, આંધ્રપ્રદેશમાં નોંધાયા 8 નવા કેસ",
+    "desc": "આરોગ્ય સચિવ એસ. સુરેશ કુમારે જણાવ્યું કે, કડપામાં 5 કેસો સામે આવ્યા હતા અને બાકીના ત્રણ સંક્રમિતો તેમના સંપર્કમાં આવેલા લોકો હતા. તમામ સંક્રમિતોને હોમ આઇસોલેશન અથવા સ્પેશિયલ કોવિડ વોર્ડમાં મોનિટર કરવામાં આવી રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/corona-knocks-again-2-people-die-for-the-first-time-after-4-years-8-new-cases-reported-in-andhra-pradesh-484610 ",
+    "time": "2026-07-14T12:05:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ક્રિકેટ મેચ દરમિયાન દુ:ખદ ઘટના, અચાનક મેદાન પર જ ઢળી પડ્યો બોલર, હોસ્પિટલ પહોંચે તે પહેલા તોડ્યો દમ",
+    "desc": "જમ્મુ-કાશ્મીરમાં સ્થાનિક ક્રિકેટ ટુર્નામેન્ટ દરમિયાન એક ક્રિકેટરનું નિધન થયું છે. એક બોલર પોતાની ઓવર પૂરી કર્યા બાદ જમીન પર જ ઢળી પડ્યો હતો. જે બાદ તેને તાત્કિલિક હોસ્પિટલ લઈ જવામાં આવ્યો હતો. જ્યાં ફરજ પરના ડોક્ટરોએ તેને મૃત જાહેર કર્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/bowler-dies-after-completing-over-a-local-cricket-match-in-jammu-and-kashmir-484609 ",
+    "time": "2026-07-14T11:32:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "આવી ગયા રાહતના સમાચાર! સેટેલાઇટ તસવીરોમાં જોવા મળી ચોમાસાની નવી &amp;#039;સિસ્ટમ&amp;#039;, જાણો ક્યારથી ધબધબાટી બોલવશે વરસાદ",
+    "desc": "જુલાઈ મહિનાની શરૂઆતમાં શરૂ થયેલા ભારે વરસાદ બાદ અચાનક ગાયબ થયેલા વાદળોએ બફારો અને ગરમી વધારી દીધી છે. પરંતુ હવે હવામાન વિજ્ઞાનીઓએ સેટેલાઇટ તસવીરો દ્વારા રાહતના મોટા સમાચાર આપ્યા છે. સમુદ્રમાં એક એવી મજબૂત સિસ્ટમ સક્રિય થઈ છે, જે ટૂંક જ સમયમાં દેશમાં ધમાકેદાર વરસાદની વાપસી કરાવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/relief-news-has-arrived-new-monsoon-system-seen-in-satellite-images-know-when-the-rain-will-start-484607 ",
+    "time": "2026-07-14T11:11:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "&amp;#039;શોએબ અખ્તર અને આસિફ જ્યારે પણ ભારત આવતા ત્યારે ડ્રગ્સ લાવતા&amp;#039;",
+    "desc": "ગૃહ મંત્રાલયના પૂર્વ અંડર સેક્રેટરી આરવીએસ મણિએ મોટો દાવો કર્યો છે કે 2006-07માં જ્યારે પણ પાકિસ્તાની ક્રિકેટરો અને ડેલિગેશન ભારતના પ્રવાસે આવતા ત્યારે ડ્રગ્સ લાવતા હતા. તેમણે આ મામલે પૂર્વ પાકિસ્તાની ફાસ્ટ બોલર શોએબ અખ્તર અને મોહમ્મદ આસિફનું નામ લઈને બધાને ચોંકાવી દીધા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/shoaib-akhtar-and-mohammad-asif-drugs-trafficking-in-india-rvs-mani-claims-484606 ",
+    "time": "2026-07-14T10:51:44.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "હોટેલના રૂમમાં પ્રેમી સાથે લપટાયેલી મળી પત્ની, પતિએ બનાવ્યો વીડિયો; એક વર્ષથી પાછળ પડ્યો હતો પતિ, આખી કહાની હોશ ઉડાવી દેશે!",
     "desc": "આગ્રાની એક હોટેલમાં પત્નીને તેના કથિત પ્રેમી સાથે જોઈને વેપારી પતિએ ભારે હોબાળો મચાવ્યો હતો. માહિતી મળતા જ ઘટનાસ્થળે પહોંચેલી પોલીસ ત્રણેયને પોલીસ સ્ટેશને લઈ ગઈ હતી, જ્યાં લાંબી પૂછપરછ અને ચર્ચા બાદ કોઈ પણ ફરિયાદ નોંધાવ્યા વગર બંને પક્ષો વચ્ચે સમાધાન થઈ ગયું હતું.",
@@ -486,15 +549,6 @@ const newsData_gu = [
     "time": "2026-07-11T15:52:48.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "શું સિયાએ જ કેતનને મારી નાખ્યો? પોલીસ કોર્ટમાં કેવી રીતે સાબિત કરશે, જાણો કયા છે પોલીસ સામે પડકારો",
-    "desc": "સિયાના કેસમાં રોજ નવા વળાંક આવે છે. પુણેના લોહાગઢ કેસમાં પોલીસે આરોપ લગાવ્યો છે કે સિયા ગોયલ અને તેના કથિત બોયફ્રેન્ડ ચેતન ચૌધરીએ કેતન અગ્રવાલને ખીણમાં ધક્કો મારવાનું કાવતરું ઘડ્યું હતું. જોકે, આ કોર્ટમાં સાબિત થવાનું બાકી છે. પોલીસ પાસે પ્રત્યક્ષદર્શીઓ કે નિર્ણાયક પુરાવાનો અભાવ છે અને કેસ સંજોગોવશાત્ પુરાવા પર આધારિત છે. ફરિયાદ પક્ષે કોર્ટમાં સાબિત કરવું પડશે કે કેતન આકસ્મિક રીતે પડ્યો ન હતો પરંતુ જાણી જોઈને તેને ખીણમાં મૃત્યુ તરફ ધકેલી દેવામાં આવ્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/siya-goyal-case-latest-update-ketan-agarwal-murder-puna-lohgad-case-484290 ",
-    "time": "2026-07-11T15:08:20.000Z"
-  },
-  {
     "cat": "Business",
     "title": "ખુલતા પહેલા જ પૈસા ડબલ! આ IPOમાં અત્યારથી જ દેખાઈ રહ્યો છે 120% નો નફો, ₹400એ પહોંચ્યો GMP",
     "desc": "આ કંપનીનો IPO આજે માર્કેટમાં ધુમ મચાવી રહ્યો છે, આ IPOમાં અત્યારથી 120 ટકાનો નફો દેખાઈ રહ્યો છે, અને તેનો GMP 400 રૂપિયા પર પહોંચી ગયો છે, જેના કારણે રોકાણકારોમાં ખરીદવા માટે ઉત્સાહ જોવા મળી રહ્યો છે.",
@@ -502,15 +556,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/double-the-money-even-before-opening-this-ipo-is-already-showing-a-profit-of-120-percent-gmp-reached-rs-400-484289 ",
     "time": "2026-07-11T14:49:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ચોમાસું આખા દેશમાં પહોંચ્યું ને અચાનક વાદળો ક્યાં ગુમ થઈ ગયા? આ રહ્યું અસલી કારણ",
-    "desc": "વાદળો ગાયબ અને વરસાદ પણ ગાયબ, જ્યાં એક સમયે અંધાધૂંધ વરસાદ પડતો હતો એ ભારતમાંથી આજે સેટેલાઈટ તસવીરમાંથી વાદળો જ ગાયબ છે. હવામાન વિભાગ પણ ચોંકી ગયું છે પણ આ સાથે એને આ બાબતના સચોટ કારણો પણ આપ્યા છે. જાણી લો કેમ વરસાદ એકાએક થઈ ગયો છે ગાયબ",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/the-monsoon-has-gone-missing-rain-bearing-clouds-are-not-visible-over-70-80-of-india-484271 ",
-    "time": "2026-07-11T13:04:03.000Z"
   },
   {
     "cat": "Entertainment",
@@ -619,15 +664,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/fifa-world-cup-2026-z-network-scores-big-with-advertisers-inventory-close-to-sellout-484089 ",
     "time": "2026-07-09T14:54:19.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "₹2000ની નોટને લઈને RBIએ હમણાં જ આપી મહત્વની જાણકારી, તુરંત વાંચો આ સમાચાર",
-    "desc": "2016 માં નોટબંધી બાદ સરકાર 2000 રૂપિયાની નોટ લાવી હતી. પરંતુ બાદમાં આ નોટને પણ બંધ કરી દેવામાં આવી હતી. પરંતુ હજુ ઘણા લોકો પાસે આ નોટ છે. આવો જાણીએ તેનું તમે શું કરી શકો છો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/2000-rupee-note-rbi-issues-important-guidelines-just-now-read-immediate-update-here-484072 ",
-    "time": "2026-07-09T12:13:57.000Z"
   },
   {
     "cat": "Tech",

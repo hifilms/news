@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "তীব্র শারীরিক অবনতি, অনশন প্রত্যাহারের আর্জি মহুয়া-উদ্ধবদের! সোনম ওয়াংচুকের পাশে ‘৩ ইডিয়টস’-এর ‘চতুর’",
+    "desc": "নিট প্রশ্ন ফাঁস কাণ্ডের প্রতিবাদে এবং শিক্ষামন্ত্রীর পদত্যাগের দাবিতে দিল্লিতে সোনম ওয়াংচুকের আমরণ অনশন ১৭ দিনে পড়ল। তাঁর তীব্র শারীরিক অবনতিতে উদ্বেগ প্রকাশ করে মহুয়া মৈত্র ও উদ্ধব ঠাকরেরা অনশন প্রত্যাহারের অনুরোধ জানিয়েছেন। অন্যদিকে, যান্তর মন্তরে ওয়াংচুকের পাশে এসে দাঁড়িয়েছেন ‘৩ ইডিয়টস’ খ্যাত অভিনেতা ওমি বৈদ্য।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/activist-sonam-wangchuk-on-a-hunger-strike-for-several-days-severe-health-decline-mahua-maitra-uddhav-thackrey-urge-to-end-fast-3-idiots-actor-chatur-stands-by-him_662291.html ",
+    "time": "2026-07-14T11:44:22.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "২০ বছরের নির্বাসন শেষ, অগাস্টেই কলকাতায় ফিরছেন তসলিমা নাসরিন",
     "desc": "দীর্ঘ ২০ বছরের দীর্ঘ প্রতীক্ষার অবসান! ফের কলকাতায় ফিরছেন মুক্তচিন্তা ও মৌলবাদ বিরোধী আন্দোলনের জ্বলন্ত প্রতীক, কবি ও লেখিকা তসলিমা নাসরিন। আগামী ১ অগাস্ট, শনিবার ঠিক সন্ধ্যা ৫:৩০টায় রবীন্দ্র সদনে আয়োজিত হতে চলেছে এক ঐতিহাসিক অনুষ্ঠান। ‘সেক্যুলার মিশন’, ‘HRBFF’ এবং ‘পশ্চিমবঙ্গের জন্য’ সংগঠনের উদ্যোগে আয়োজিত এই অনুষ্ঠানে খোদ মুখ্যমন্ত্রীর উপস্থিত থাকার সম্ভাবনা রয়েছে। থাকবে তসলিমা নাসরিনের নিজের ডিজাইন করা কবিতা ও গানের এক অনন্য কোলাজ।",
@@ -277,5 +286,32 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/tarunjyoti-tewari-claims-aditi-munshi-reality-show-chat-proof-after-debraj-arrest_660827.html ",
     "time": "2026-07-02T13:01:12.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
+    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
+    "time": "2026-06-01T03:50:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
+    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
+    "time": "2026-05-23T05:15:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "পেট্রোল ও ডিজেলের দাম লিটারে ৩ টাকা বাড়ল, জেনে নিন আপনার শহরে জ্বালানির নতুন দাম",
+    "desc": "চার বছর পর পেট্রোল ও ডিজেলের দাম প্রতি লিটারে ₹৩ টাকা করে বাড়ল। এর ফলে কলকাতা ও দিল্লিতে জ্বালানি মহার্ঘ্য হল। Fuel prices hiked by ₹3 per litre after a long wait causing rates to rise in major cities.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-15-2026-000015b-jpg-1778819385461_1778819386210-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-india-fuel-rates-increased-by-3-rupees-per-litre-delhi-kolkata-014-306911.html",
+    "time": "2026-05-15T04:35:17.000Z"
   }
 ];

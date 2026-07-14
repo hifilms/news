@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Gurnoor Brar stages brilliant comeback with two wickets in an over, Bumrah grabs impressive catch",
+    "desc": "Star fast-bowler Gurnoor Brar put up an impressive performance in the first ODI of the three-match series against England at Edgbaston on July 14. Brar, who made an eye-catching ODI debut in the series against...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/gurnoor-brar-stages-brilliant-comeback-with-two-wickets-in-an-over-bumrah-grabs-impressive-catch-2026-07-14-1048234",
+    "time": "2026-07-14T13:25:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jasprit Bumrah creates history for India, breaks Ravindra Jadeja's record during 1st ODI against England",
+    "desc": "Jasprit Bumrah has etched his name into the history books on his ODI return during the first match of the series against England on Tuesday, July 14. Bumrah made a comeback to the Indian side...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-creates-history-for-india-breaks-ravindra-jadejas-record-during-1st-odi-against-england-2026-07-14-1048219",
+    "time": "2026-07-14T11:34:56.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India assistant coach Ryan ten Doeschate contemplates move on; check reason here",
     "desc": "India are set to lose their assistant coach Ryan ten Doeschate, who is contemplating a move on from the team. The former Dutch cricketer is likely to leave the Men in Blue at the end...",
     "img": "",
@@ -19,7 +37,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "India look for early inroads after being asked to bowl",
+    "title": "Root, Dawson put up fight for England after early jolts",
     "desc": "India and England begin their three-match ODI series with the opening clash at Edgbaston, Birmingham, as both teams look to make a strong statement in the 50-over format. This assignment comes after India went winless...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/stuart-broad-calls-virat-kohli-indias-hero-backs-men-in-blue-for-england-odis-2026-07-13-1048141",
     "time": "2026-07-13T17:42:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Yuvraj Singh expresses desire to mentor Vaibhav Sooryavanshi after overseeing Abhishek Sharma",
-    "desc": "Former India cricketer Yuvraj Singh has expressed his desire to mentor teenage sensation Vaibhav Sooryavanshi, highlighting that he sees him as a \"serious player in the making\". Sooryavanshi has caught up everyone's imagination with his...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/yuvraj-singh-expresses-desire-to-mentor-vaibhav-sooryavanshi-after-helping-abhishek-sharma-2026-07-13-1048140",
-    "time": "2026-07-13T17:17:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Delhi High Court protects personality rights of India cricketer Abhishek Sharma",
-    "desc": "In a significant move, the Delhi High Court has protected the rights of Indian cricketer Abhishek Sharma, restraining third parties from any unauthorised misuse of his name, image, etc for commercial or personal gain. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/delhi-high-court-protects-personality-rights-of-india-cricketer-abhishek-sharma-2026-07-13-1048138",
-    "time": "2026-07-13T16:03:58.000Z"
   }
 ];
