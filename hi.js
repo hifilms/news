@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India assistant coach Ryan ten Doeschate contemplates move on; check reason here",
+    "desc": "India are set to lose their assistant coach Ryan ten Doeschate, who is contemplating a move on from the team. The former Dutch cricketer is likely to leave the Men in Blue at the end...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-assistant-coach-ryan-ten-doeschate-contemplates-move-on-check-reason-here-2026-07-14-1048208",
+    "time": "2026-07-14T10:27:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Hardik Pandya not playing in IND vs ENG 1st ODI?",
+    "desc": "Hardik Pandya is a major absentee as India take on England in the first ODI of the three-match series on Tuesday, July 14. The Men in Blue aim to bounce back from their recent T20I...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-hardik-pandya-not-playing-in-ind-vs-eng-1st-odi-2026-07-14-1048203",
+    "time": "2026-07-14T09:55:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India look for early inroads after being asked to bowl",
+    "desc": "India and England begin their three-match ODI series with the opening clash at Edgbaston, Birmingham, as both teams look to make a strong statement in the 50-over format. This assignment comes after India went winless...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-1st-odi-live-cricket-score-india-vs-england-edgbaston-birmingham-latest-match-updates-scorecard-teams-playing-xis-2026-07-14-1048200",
+    "time": "2026-07-14T09:27:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India vs England 1st ODI pitch report; here's how surface at Edgbaston is expected to play",
+    "desc": "India are all set to play their first ODI against England on Tuesday at Edgbaston as they gear up to bounce back from their seven-match winless streak in T20Is. First whitewashed by Ireland 0-2 and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-england-1st-odi-pitch-report-heres-how-surface-at-edgbaston-is-expected-to-play-2026-07-14-1048192",
+    "time": "2026-07-14T08:41:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How many runs do Virat Kohli need to break Sachin Tendulkar's record for most ODI runs?",
+    "desc": "Batting maestro Virat Kohli returns to the action as India take on England for a much-anticipated three-match ODI series. Kohli missed the previous assignment against Afghanistan due to a hamstring injury he picked up during...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/how-many-runs-do-virat-kohli-need-to-break-sachin-tendulkars-record-for-most-odi-runs-2026-07-14-1048188",
+    "time": "2026-07-14T08:19:31.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India vs England 1st ODI live streaming details; check when and where to watch opener on TV, online",
     "desc": "India and England are all set to lock horns in the first ODI at Edgbaston on Tuesday, July 14, as they look to put their best foot forward in the three-match series. After having been...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/delhi-high-court-protects-personality-rights-of-india-cricketer-abhishek-sharma-2026-07-13-1048138",
     "time": "2026-07-13T16:03:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England announce Playing XI for first ODI against India, RCB star set to open for first time",
-    "desc": "England have announced their Playing XI for the first ODI against India, as Royal Challengers Bengaluru star Jacob Bethell is set to open the innings for the first time in his 50-over career. Bethell has...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-announce-playing-xi-for-first-odi-against-india-rcb-star-set-to-open-for-first-time-2026-07-13-1048133",
-    "time": "2026-07-13T14:50:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Virat Kohli, Rohit Sharma remain integral part of team': Shubman Gill ahead of England ODIs",
-    "desc": "India ODI and Test captain Shubman Gill has put his weight behind veteran batters Virat Kohli and Rohit Sharma being an \"integral part\" of the ODI side as the Men in Blue prepare for the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-rohit-sharma-remain-integral-part-of-team-shubman-gill-ahead-of-england-odis-2026-07-13-1048130",
-    "time": "2026-07-13T14:32:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "3 options who can replace Stephen Fleming as CSK head coach after 18-year association ends",
-    "desc": "Stephen Fleming and Chennai Super Kings ended their 18-year-long association, bringing the curtain down on a fabled period that brought all the glory to the CSK and Fleming too.. Fleming was associated with the Super...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/3-options-who-can-replace-stephen-fleming-as-csk-head-coach-after-18-year-association-ends-2026-07-13-1048120",
-    "time": "2026-07-13T12:19:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India women register huge win over England in one-off Lord's Test as Yastika and Kranti shine",
-    "desc": "Indian women have completed a historic win over England in the one-off Test at the iconic Lord's. The Women in Blue defeated the English side by 270 runs in the first-ever Test match at the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-women-register-huge-win-over-england-in-one-off-lords-test-as-yastika-and-kranti-shine-2026-07-13-1048116",
-    "time": "2026-07-13T11:45:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Suryakumar Yadav still in fray for T20I return? BCCI source drops major update",
-    "desc": "India T20I captain Suryakumar Yadav's return to the Indian T20I team might not be completely out as the Board of Control for Cricket in India (BCCI) has reportedly not ruled out his comeback. This comes...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-still-in-fray-of-t20i-return-bcci-source-drops-major-update-2026-07-13-1048106",
-    "time": "2026-07-13T10:38:22.000Z"
   }
 ];
