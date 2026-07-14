@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "এসি কোচ থেকে চুরি প্রায় দেড় কোটি চাদর-তোয়ালে! বেডরোল বিড়ম্বনায় কোটি কোটি টাকা ক্ষতির মুখে ভারতীয় রেল",
+    "desc": "ভয়ংকর লজ্জাজনক! ভয়ংকর দুঃসংবাদও। ভারতীয় রেলের এসি কোচ থেকে ৪ বছরে প্রায় দেড় কোটি চাদর তোয়ালে গায়েব হয়ে গিয়েছে! ভাবা যায়? এ কেমন হাতসাফাইয়ের বহর? ট্রেন থেকে উধাও হয়েছে ১.২৭ কোটি চাদর-কম্বল! ৪ বছরে ১০৪ কোটি টাকার ক্ষতি রেলের।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/linen-stolen-1-point-27-crore-items-stolen-104-cr-loss-56-percent-jump-in-railway-linen-theft_662308.html ",
+    "time": "2026-07-14T13:29:39.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "তীব্র শারীরিক অবনতি, অনশন প্রত্যাহারের আর্জি মহুয়া-উদ্ধবদের! সোনম ওয়াংচুকের পাশে ‘৩ ইডিয়টস’-এর ‘চতুর’",
     "desc": "নিট প্রশ্ন ফাঁস কাণ্ডের প্রতিবাদে এবং শিক্ষামন্ত্রীর পদত্যাগের দাবিতে দিল্লিতে সোনম ওয়াংচুকের আমরণ অনশন ১৭ দিনে পড়ল। তাঁর তীব্র শারীরিক অবনতিতে উদ্বেগ প্রকাশ করে মহুয়া মৈত্র ও উদ্ধব ঠাকরেরা অনশন প্রত্যাহারের অনুরোধ জানিয়েছেন। অন্যদিকে, যান্তর মন্তরে ওয়াংচুকের পাশে এসে দাঁড়িয়েছেন ‘৩ ইডিয়টস’ খ্যাত অভিনেতা ওমি বৈদ্য।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -241,15 +250,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/regime-change-triggers-pay-hike-bangladesh-officials-ready-for-up-to-142-percent-salary-increase-west-bengal-forms-7th-pay-commission_661437.html ",
     "time": "2026-07-07T14:55:13.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ছড়িয়ে আছে দেহ, শিশুদের কামড়াচ্ছে ইঁদুর, আক্রমণ করছে বেজি; জল নেই, শৌচালয় নেই, যেন আস্ত নরক",
-    "desc": "মার্কিন যুক্তরাষ্ট্র ও ইরান তাদের সাময়িক যুদ্ধবিরতিকে দীর্ঘস্থায়ী শান্তিতে রূপ দেওয়ার চেষ্টা করছে বলে খবর। তবে গাজার স্থানীয় বাসিন্দাদের অনেকেরই আক্ষেপ, তাঁরা এমন এক মার্কিন-সমর্থিত সমঝোতার ধ্বংসাবশেষের মধ্যে বাস করছেন যাতে তারা এই চুক্তিকে ব্যর্থই মনে করেন!",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/gaza-israel-usa-hamas-palestine-bodies-lie-unclaimed-rats-run-rampant_661367.html ",
-    "time": "2026-07-07T08:56:48.000Z"
   },
   {
     "cat": "Entertainment",

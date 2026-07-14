@@ -1,5 +1,158 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Draft national health research policy proposes overhaul of India’s research ecosystem",
+    "desc": "Prepared by the Department of Health Research, the draft marks the first attempt at a unified national framework spanning biomedical science, clinical medicine, public health, epidemiology, digital health, health systems, behavioural sciences and emerging technologies.",
+    "img": "https://th-i.thgim.com/public/business/mgpob2/article71222469.ece/alternates/LANDSCAPE_1200/iStock-879685734.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/health/draft-national-health-research-policy-proposes-overhaul-of-indias-research-ecosystem/article71221189.ece",
+    "time": "2026-07-14T15:47:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "HC directs DGP to ascertain if Cherlapally police station was being run from illegally occupied building",
+    "desc": "The judge noted the rental agreement the Society had with the building owner had expired in 2024 and as per ninth condition of the agreement, the Society was barred from sub-leasing the premises to others without the consent of the building owner",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telangana/hc-directs-dgp-to-ascertain-if-cherlapally-police-station-was-being-run-from-illegally-occupied-building/article71222338.ece",
+    "time": "2026-07-14T15:36:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The probe into signal failure in the Ambattur-Avadi section exposes violation of safety rules",
+    "desc": "Documents accessed by The Hindu reveal that the automatic signal, S192, malfunctioned over 50 times in February 2026 alone. A buzzer installed in the Ambattur Station Master’s office to alert the staff to signal failures was found to have been “disconnected”. The defective signal was repeatedly reset by field technical workers without analysing the root cause of the malfunction",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/zifzba/article71222265.ece/alternates/LANDSCAPE_1200/IMG_6320.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/the-probe-into-signal-failure-in-theambattur-avadisection-exposes-violation-of-safety-rules/article71221783.ece",
+    "time": "2026-07-14T15:34:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Indian Kanoon challenges Delhi HC ruling recognising ‘right to be forgotten’, says it undermines open justice",
+    "desc": "The appeal challenged the single-judge judgment that allowed individuals to seek removal of personal information from search engine results, including legal databases, where such information is ‘no longer relevant or serves no legitimate public purpose’",
+    "img": "https://th-i.thgim.com/public/incoming/qbwkgm/article71220979.ece/alternates/LANDSCAPE_1200/IMG_INDEX_DELHI_HIGH_COU_2_1_C4G3T68L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/india-kanoon-challenges-delhi-hc-ruling-recognising-right-to-be-forgotten-says-it-undermines-open-justice/article71220805.ece",
+    "time": "2026-07-14T15:32:31.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Export boost, cheaper cars &amp; whisky: India-UK trade deal comes into effect from July 15",
+    "desc": "With its implementation, the trade deal will become the sixth free trade agreement brought into force during the Narendra Modi government's tenure. India has previously implemented similar agreements with Mauritius, the UAE, Australia, the European Free Trade Association (EFTA) and Oman.",
+    "img": "https://static.toiimg.com/photo/msid-132395311,imgsize-377137.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/export-boost-cheaper-cars-whisky-india-uk-trade-deal-comes-into-effect-from-july-15-how-india-indians-will-benefit/articleshow/132394272.cms",
+    "time": "2026-07-14T15:25:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Crime Branch seeks documents",
+    "desc": "Investigators have sought records related to the controversial State Planning Board examinations, including the question paper, answer key, list of candidates who took the examination, details of those shortlisted for interviews, and information related to the on-screen marking process",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/psc-exam-irregularities-crime-branch-seeks-documents/article71222106.ece",
+    "time": "2026-07-14T15:21:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How close the FIFA semi-finals will be?",
+    "desc": "The teams with the top four rankings prior to the World Cup has entered the semi-finals. Analysis shows the differents paths they have taken, a nuanced look into their relative strengths and how close the two matches could be",
+    "img": "https://th-i.thgim.com/public/incoming/9cma8e/article71222194.ece/alternates/LANDSCAPE_1200/2026-07-14T013217Z_339849387_UP1EM7E049RYY_RTRMADP_3_SOCCER-WORLDCUP-FRA-ESP-FANS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/data/how-close-the-fifa-semi-finals-will-be/article71222058.ece",
+    "time": "2026-07-14T15:19:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "YSRCP alleges political motive behind arrest of party spokesperson",
+    "desc": "Party leaders allege arrest was over remarks made by Nagarjuna Yadav during a television debate nearly two years ago, question timing of the arrest and argue that authorities failed to verify the authenticity of the video",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-alleges-political-motive-behind-arrest-of-party-spokesperson/article71221325.ece",
+    "time": "2026-07-14T15:11:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Jaleel targets IUML Ministers over language gaffes",
+    "desc": "Reacting to recent controversy in Mannarkkad, former Higher Education Minister says his gesture was only a light-hearted act by a teacher; he rejects claims of falling student standards in last decade, says mistakes among learners and leaders have existed across generations",
+    "img": "https://th-i.thgim.com/public/incoming/i5yexm/article71222167.ece/alternates/LANDSCAPE_1200/Jaleel01.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/jaleel-targets-iuml-ministers-over-language-gaffes/article71221970.ece",
+    "time": "2026-07-14T14:59:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ticketing platform hints ‘Jana Nayagan’ release",
+    "desc": "The upcoming film Jana Nayagan, starring Vijay, has finally secured its censorship clearance after an extensive review. Rumors from overseas distributors and a prominent ticketing service suggest the film may hit theaters on July 24. Its synopsis reveals a story of an ordinary man stepping up as an unlikely hero against injustice.",
+    "img": "https://static.toiimg.com/photo/msid-132394730,imgsize-127784.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/tamil-nadu-cm-vijay-starrer-jana-nayagan-locks-july-24-post-cbfc-battle-as-ticketing-platform-confirms-release-ahead-of-official-announcement/articleshow/132393914.cms",
+    "time": "2026-07-14T14:50:51.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Govt releases first services production index; 14 of 19 sub-sectors post double-digit growth",
+    "desc": "India's government has launched a new Index of Services Production. Fourteen of nineteen formal services sub-sectors showed double-digit growth in April. Accommodation and food services expanded significantly, leading the growth figures. Air and railway transport were the only sub-sectors to record declines. This index will now be released monthly to track economic activity.",
+    "img": "https://static.toiimg.com/photo/msid-132394581,imgsize-1032923.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/govt-releases-first-services-production-index-14-of-19-sub-sectors-post-double-digit-growth/articleshow/132393608.cms",
+    "time": "2026-07-14T14:41:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Wall Street trades in green; stocks steady as US inflation data better than expected",
+    "desc": "The market drew support from declining bond yields after data showed US consumer prices rose 3.5 per cent in June compared with a year earlier, reflecting higher costs for gasoline, food and other everyday items.",
+    "img": "https://static.toiimg.com/photo/msid-132394136,imgsize-741864.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-stocks-today-july-14-2026-wall-street-trades-in-green-stocks-steady-as-us-inflation-data-better-than-expected/articleshow/132394112.cms",
+    "time": "2026-07-14T14:26:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "MS Dhoni and Kriti Sanon steal the spotlight at India vs England ODI",
+    "desc": "MS Dhoni and Kriti Sanon attended the India versus England ODI match. England collapsed from a strong start to a low total. Jasprit Bumrah and Gurnoor Brar took key wickets. Joe Root and Liam Dawson led a spirited recovery for England. Axar Patel's late spell restricted England to 258 runs.",
+    "img": "https://static.toiimg.com/photo/msid-132394062,imgsize-534692.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/ms-dhoni-and-kriti-sanon-steal-the-spotlight-at-india-vs-england-odi-with-surprise-appearance/articleshow/132393944.cms",
+    "time": "2026-07-14T14:23:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Political conspiracy was hatched': Rekha Gupta blames AAP top brass after Tahir Hussain's Delhi riots conviction",
+    "desc": "Rekha Gupta accused the Aam Aadmi Party of political patronage to Tahir Hussain. She demanded answers from the party leadership regarding their association with him. Hussain was convicted for his role in the 2020 Delhi riots and murder. The conviction brought justice to victims and their devastated families. The chief minister stressed accountability and punishment for those responsible.",
+    "img": "https://static.toiimg.com/photo/msid-132393947,imgsize-1182888.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/political-conspiracy-was-hatched-rekha-gupta-blames-aap-top-brass-after-tahir-hussains-delhi-riots-conviction/articleshow/132393833.cms",
+    "time": "2026-07-14T14:20:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Axar Patel becomes only the second Indian spinner after Jadeja to...",
+    "desc": "Axar Patel achieved a rare feat by taking four wickets in the death overs. He became the second Indian spinner to accomplish this milestone in ODI cricket. England recovered through Joe Root and Liam Dawson after a significant collapse. Axar's career-best figures restricted England to 258 runs. India's pace attack dominated the initial phase of the innings.",
+    "img": "https://static.toiimg.com/photo/msid-132393754,imgsize-1070013.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/axar-patel-becomes-only-the-second-indian-spinner-after-ravindra-jadeja-to-claim-four-wickets-at-the-death-in-an-odi/articleshow/132393733.cms",
+    "time": "2026-07-14T14:08:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Suvendu government withdraws Mamata-era SC challenge to HC verdict",
+    "desc": "West Bengal withdrew its Supreme Court appeal challenging the High Court's OBC list judgment. The state cabinet decided not to pursue the appeal, which was previously filed by the Trinamool Congress government. The Calcutta High Court had struck down the inclusion of 77 communities, including 75 Muslim communities. The state assembly has since passed two bills to restructure the OBC reservation framework.",
+    "img": "https://static.toiimg.com/photo/msid-132393459,imgsize-154154.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/obc-status-of-77-castes-suvendu-government-withdraws-mamata-era-sc-challenge-to-hc-verdict/articleshow/132392201.cms",
+    "time": "2026-07-14T13:52:21.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "MEA summons Iranian deputy envoy, after Indian national killed in attack on ship",
+    "desc": "MEA condemned the attacks on the commercial vessels MT Al Bahiyah and MT Mombasa, which had a total of 30 Indian seafarers onboard, and reiterated its call for an immediate cessation of violence and a return to dialogue and diplomacy to bring stability to West Asia",
+    "img": "https://th-i.thgim.com/public/incoming/u6s1ad/article71221336.ece/alternates/LANDSCAPE_1200/20260714004L_okXoEhD.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/mea-summons-iranian-deputy-envoy-after-indian-national-killed-in-attack-on-ship/article71221170.ece",
+    "time": "2026-07-14T13:23:07.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Stage set for an intriguing battle between England and Argentina",
     "desc": "The bitter rivalry has been forged not simply by memorable matches but by war, controversy and some of the defining moments in the history of the showpiece; the two teams have shown plenty of character and resilience to make it to the semifinals",
@@ -7,6 +160,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-stage-set-for-an-intriguing-battle-between-england-and-argentina/article71221250.ece",
     "time": "2026-07-14T13:12:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Trump’s 'guardian' fee: How much would a supertanker have to pay to cross Strait of Hormuz?",
+    "desc": "Unlike man-made canals such as the Suez and Panama, which are sovereign infrastructure and levy substantial transit tolls, most natural international waterways - including the Strait of Hormuz, Strait of Malacca, Taiwan Strait, Strait of Gibraltar and Cape of Good Hope—generally do not charge transit fees.",
+    "img": "https://static.toiimg.com/photo/msid-132391808,imgsize-346590.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/trumps-guardian-fee-how-much-would-a-supertanker-have-to-pay-to-cross-strait-of-hormuz/articleshow/132391302.cms",
+    "time": "2026-07-14T13:11:26.000Z"
   },
   {
     "cat": "Entertainment",
@@ -18,15 +180,6 @@ const newsData_en = [
     "time": "2026-07-14T13:09:48.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "enumeration till July 24, final roll on October 3",
-    "desc": "The draft publication of the electoral roll is now scheduled for July 31, 2026; the window for filing claims and objections will open from July 31 to August 30, 2026, with their disposal running from July 31 to September 28, 2026",
-    "img": "https://th-i.thgim.com/public/incoming/n4oofe/article71215835.ece/alternates/LANDSCAPE_1200/DSC1518.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/eci-extends-sir-in-andhra-pradesh-enumeration-till-july-24-final-roll-on-october-3/article71220983.ece",
-    "time": "2026-07-14T13:08:34.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Bachchan has invested Rs 90-100 crore in Ayodhya, Ranbir bought plot worth Rs 3.3 crore",
     "desc": "Amitabh Bachchan and Ranbir Kapoor have invested significantly in Ayodhya's burgeoning luxury real estate market. Bachchan's property portfolio in the city is estimated to exceed ninety crore rupees. Kapoor acquired a premium plot, calling the investment a divine calling and legacy. Ayodhya is undergoing an eighty-five thousand crore structural transformation into a global pilgrimage hub. Major infrastructure projects are enhancing connectivity and pilgrim facilities for future growth.",
@@ -36,15 +189,6 @@ const newsData_en = [
     "time": "2026-07-14T12:57:51.000Z"
   },
   {
-    "cat": "Business",
-    "title": "MEA summons Iranian deputy envoy, after Indian national killed in attack on ship",
-    "desc": "MEA condemned the attacks on the commercial vessels MT Al Bahiyah and MT Mombasa, which had a total of 30 Indian seafarers onboard, and reiterated its call for an immediate cessation of violence and a return to dialogue and diplomacy to bring stability to West Asia",
-    "img": "https://th-i.thgim.com/public/incoming/u6s1ad/article71221336.ece/alternates/LANDSCAPE_1200/20260714004L_okXoEhD.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/mea-summons-iranian-deputy-envoy-after-indian-national-killed-in-attack-on-ship/article71221170.ece",
-    "time": "2026-07-14T12:51:18.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "13 Indians killed, 3 missing in Gulf since February 28 amid US-Iran war",
     "desc": "Thirteen Indians have died and three are missing in the Gulf region since late February. Recent attacks on commercial ships have resulted in significant Indian casualties. India is closely monitoring the escalating regional crisis and its impact. The nation calls for safe and uninterrupted navigation through the Strait of Hormuz. Attacks on shipping must cease to ensure global trade resumes.",
@@ -52,15 +196,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/13-indians-killed-3-missing-in-gulf-since-february-28-amid-us-iran-war/articleshow/132392122.cms",
     "time": "2026-07-14T12:45:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Is the undocumented migrant counted?",
-    "desc": "Contrary to the claims that there could be 20 million “illegal Bangladeshi migrants” staying in India, an analysis based on Census data suggests that there is no surge of undocumented migrants from Bangladesh, at least between 1991 and 2011",
-    "img": "https://th-i.thgim.com/public/incoming/n0o2nr/article71221125.ece/alternates/LANDSCAPE_1200/PTI4_2_2010_000033B_.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/data/is-the-undocumented-migrant-counted/article71221038.ece",
-    "time": "2026-07-14T12:41:04.000Z"
   },
   {
     "cat": "Entertainment",
@@ -82,7 +217,7 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'A bit of friction': Dinesh Karthik hints at Gambhir-Agarkar rift",
+    "title": "All not well between Gambhir &amp; Agarkar? Dinesh Karthik drops 'friction' bombshell",
     "desc": "Dinesh Karthik suggests friction between Gautam Gambhir and Ajit Agarkar over selection priorities. India's recent T20I series losses in the UK have intensified scrutiny on the team's management. Karthik believes differing long-term plans and immediate winning desires cause selection confusion. The immense squad depth adds pressure on players struggling to secure their places. The BCCI will review these poor T20I performances and selections soon.",
     "img": "https://static.toiimg.com/photo/msid-132391402,imgsize-100852.cms",
     "src": "indiatimes.com",
@@ -97,15 +232,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govindas-wife-sunita-ahuja-reacts-to-criticism-over-her-language-in-lock-upp-2-kaunsi-aurat-gaali-nahi-deti/articleshow/132391307.cms",
     "time": "2026-07-14T12:17:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Why is Telangana still waiting for monsoon rain despite showers in neighbouring States?",
-    "desc": "International climate monitoring agencies continue to indicate that El Nino conditions are expected to strengthen during the remainder of the southwest monsoon season and later in the year, says IMD Hyderabad Senior Meteorologist Srinivas G.N.R.S",
-    "img": "https://th-i.thgim.com/public/incoming/zbjwg0/article71221051.ece/alternates/LANDSCAPE_1200/_DSC5402.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/why-is-telangana-still-waiting-for-monsoon-rain-despite-showers-in-neighbouring-states/article71220867.ece",
-    "time": "2026-07-14T12:10:26.000Z"
   },
   {
     "cat": "Business",
@@ -135,15 +261,6 @@ const newsData_en = [
     "time": "2026-07-14T12:02:03.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Amid wrangle, LDF lays groundwork for CPI-CPI(M) detente over Kerala Deputy Opposition Leader post",
-    "desc": "T.P. Ramakrishnan, who held a brief closed-door meeting with the CPI State Secretary Binoy Viswam, signalled that the rapprochement was not immediately at hand. He said the discussions were in their nascent stages and denied any rift in the coalition. Viswam merely stated that “CPI and CPI(M) pursued the same politics”",
-    "img": "https://th-i.thgim.com/public/incoming/s31lra/article71221058.ece/alternates/LANDSCAPE_1200/80692_2_4_2026_14_6_15_1_03TVKZTPRAMAKRISHNAN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/amid-wrangleldf-lays-groundwork-for-cpi-cpim-detente-over-kerala-deputy-opposition-leader-post/article71220926.ece",
-    "time": "2026-07-14T11:55:32.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Railways tightens norms for project contractors; unveils covered fly ash transport and rolls out unified licence",
     "desc": "Indian Railways introduced reforms for freight and logistics operations. Specialized containers will transport fly ash, reducing environmental pollution significantly. A unified license regime for container train operators aims for nationwide operations. Industries can now develop new freight wagon designs for improved efficiency. These initiatives aim to modernize logistics and enhance overall railway performance.",
@@ -154,7 +271,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "AR Rahman electrifies Washington with the National Symphony Orchestra on the heels of America @ 250",
+    "title": "AR Rahman brings his magic to Washington with National Symphony Orchestra",
     "desc": "AR Rahman's performance with the National Symphony Orchestra offered a powerful reminder of music's unifying power. He seamlessly blended Eastern and Western musical traditions, creating a rich tapestry of sound. The concert showcased his ability to orchestrate diverse elements into a cohesive artistic vision. This event demonstrated that harmony is a universal human aspiration, not just a musical concept. Rahman conducted connection, reminding audiences of their shared humanity through melody.",
     "img": "https://static.toiimg.com/photo/msid-132390708,imgsize-789344.cms",
     "src": "indiatimes.com",
@@ -216,15 +333,6 @@ const newsData_en = [
     "time": "2026-07-14T11:36:58.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Silk Saree that fits into a matchbox presented to Goddess Bharamaraba",
-    "desc": "The saree measures 5.5 metres in length and 48 inches in width and weighs approximately 200 grams; designed in the traditional “Ikkat” pattern, the saree can easily fit into a small matchbox when folded, the weaver explained",
-    "img": "https://th-i.thgim.com/public/incoming/dfida4/article71221010.ece/alternates/LANDSCAPE_1200/10745_14_7_2026_16_5_18_2_IMG_20260714_WA0009.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/silk-saree-that-fits-into-a-matchbox-presented-to-goddess-bharamaraba/article71220761.ece",
-    "time": "2026-07-14T11:33:49.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Jr NTR’s office ends political entry speculations",
     "desc": "Jr NTR's team has clarified recent political speculation surrounding his upcoming event. The actor's office stated the Tirupati program on July 18 is not political. This event is solely dedicated to the #OoruVaada social initiative, they confirmed. They also disassociated Jr NTR from any group using his name for political purposes. Official communications regarding the actor will only come through his authorized team.",
@@ -252,15 +360,6 @@ const newsData_en = [
     "time": "2026-07-14T11:27:59.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Authorities demolish alleged illegal Eidgah built on graveyard land in U.P.'s Sambhal",
-    "desc": "The action was carried out by the revenue department with the help of a bulldozer following an order passed by the tehsildar’s court under provisions of the Uttar Pradesh Revenue Code for removal of the alleged encroachment",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/authorities-demolish-alleged-illegal-eidgah-built-on-graveyard-land-in-ups-sambhal/article71220990.ece",
-    "time": "2026-07-14T11:25:01.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Vishal Mishra working on Yash starrer 'Toxic' fourth song",
     "desc": "Composer Vishal Mishra is putting the final touches on the fourth track for the upcoming film Toxic. The first single, 'Tabaahi', featuring Yash and Kiara Advani, has created buzz among fans. Additionally, a teaser named 'Ladies & Ladies' showcases the remarkable female cast. Directed by Geetu Mohandas, Toxic is set to make waves with its dual Kannada and English release on August 26, 2026.",
@@ -277,15 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/government-considering-to-take-legal-action-against-unauthorised-screenings-of-diljit-dosanjhs-satluj-without-obtaining-any-cbfc-certificate-report/articleshow/132389768.cms",
     "time": "2026-07-14T11:13:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India Kanoon challenges Delhi HC ruling recognising ‘right to be forgotten’, says it undermines open justice",
-    "desc": "The appeal challenged the single-judge judgment that allowed individuals to seek removal of personal information from search engine results, including legal databases, where such information is ‘no longer relevant or serves no legitimate public purpose’",
-    "img": "https://th-i.thgim.com/public/incoming/qbwkgm/article71220979.ece/alternates/LANDSCAPE_1200/IMG_INDEX_DELHI_HIGH_COU_2_1_C4G3T68L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/india-kanoon-challenges-delhi-hc-ruling-recognising-right-to-be-forgotten-says-it-undermines-open-justice/article71220805.ece",
-    "time": "2026-07-14T11:12:54.000Z"
   },
   {
     "cat": "Entertainment",
@@ -423,15 +513,6 @@ const newsData_en = [
     "time": "2026-07-14T09:12:08.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Selena Gomez's mother, Mandy Teefey, responds to scrutiny",
-    "desc": "Mandy Teefey faced social media scrutiny after a misinterpreted joke. Her post about children throwing her away caused significant online discussion. She clarified the comment was a joke taken out of context. Teefey later shared motherhood quotes and advice on her stories. This action aimed to quell speculation about household discord.",
-    "img": "https://static.toiimg.com/photo/msid-132386492,imgsize-230959.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/calm-down-selena-gomezs-mother-mandy-teefey-responds-to-scrutiny-over-her-throw-me-in-the-trash-joke-about-children/articleshow/132386396.cms",
-    "time": "2026-07-14T09:04:11.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "SC orders separate space near MP's Bhojshala for Friday namaz between 1pm and 3pm",
     "desc": "The Supreme Court directed that any ASI structural alterations require its prior permission in the Bhojshala row. Separate space for Friday prayers for Muslims adjacent to the site was also directed. Both Hindu and Muslim sides were urged to exercise restraint during proceedings.",
@@ -450,15 +531,6 @@ const newsData_en = [
     "time": "2026-07-14T08:36:50.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Both vessels carried 30 Indian seafarers': MEA strongly condemns attack on ship in Strait of Hormuz that killed sailor",
-    "desc": "India registered a strong protest against continued attacks on vessels carrying Indian seafarers. Two vessels, MT Al Bahiyah and MT Mombasa, were attacked in the Strait of Hormuz. One Indian national tragically lost his life while others sustained injuries during the attacks. The ministry summoned Iran's deputy chief of mission to lodge a strong protest. India calls for an immediate cessation of violence and a return to dialogue.",
-    "img": "https://static.toiimg.com/photo/msid-132385781,imgsize-67570.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/both-vessels-carried-30-indian-seafarers-mea-strongly-condemns-attack-on-ship-in-strait-of-hormuz-that-killed-sailor/articleshow/132385756.cms",
-    "time": "2026-07-14T08:27:46.000Z"
-  },
-  {
     "cat": "Business",
     "title": "US-Iran war hits home: WPI inflation rises to 9.87%; food prices see spike",
     "desc": "It reflects the impact of the West Asia conflict and the effective blockade of the Strait of Hormuz, a key route through which most of India's crude oil imports arrive, along with the resulting spillover into food prices.",
@@ -466,15 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/us-iran-war-hits-home-wpi-inflation-rises-to-9-87-food-prices-see-spike/articleshow/132384798.cms",
     "time": "2026-07-14T08:08:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'One-room house, not a brick in my name': Ram Temple treasurer amid donation theft row",
-    "desc": "Ayodhya Ram Temple Trust treasurer Swami Govind Dev Giri denied resignation reports. He stated that the theft of donations is likely around Rs 3 crore. Champat Rai resigned voluntarily after realizing his negligence in the matter. An Ayodhya court extended the judicial custody of eight accused individuals. The Supreme Court has also issued notices regarding the alleged misappropriation of funds.",
-    "img": "https://static.toiimg.com/photo/msid-132384967,imgsize-111154.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/one-room-house-not-a-brick-in-my-name-ram-temple-treasurer-amid-donation-theft-row/articleshow/132384706.cms",
-    "time": "2026-07-14T07:54:03.000Z"
   },
   {
     "cat": "Business",
@@ -613,15 +676,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'What wrong did Sooryavanshi do?': World Cup-winner blasts Iyer, Gambhir",
-    "desc": "Former India captain Kris Srikkanth criticised the team management's handling of young player Vaibhav Sooryavanshi. He questioned the decision to drop the fifteen-year-old after just three T20 international matches. Srikkanth compared this situation to his own captaincy experience with Sachin Tendulkar. He emphasized the importance of backing young talent for confidence building. The former opener expressed strong disappointment with the current leadership's approach.",
-    "img": "https://static.toiimg.com/photo/msid-132380451,imgsize-61777.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/what-wrong-did-vaibhav-sooryavanshi-do-world-cup-winner-blasts-shreyas-iyer-gautam-gambhir/articleshow/132380429.cms",
-    "time": "2026-07-14T03:55:04.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Lamine Yamal makes bold 'no pressure' claim ahead of World Cup Semifinal",
     "desc": "Spain's teenage sensation Lamine Yamal feels no pressure facing France in the World Cup semifinal. He believes Spain is well-equipped to handle the high-stakes match and prove themselves. La Roja enters the semifinal on an impressive 36-match unbeaten streak in regulation time. France also arrives with momentum, having won all their group matches and knockout games. This semifinal marks a national record for France's head coach Didier Deschamps.",
     "img": "https://static.toiimg.com/photo/msid-132380208,imgsize-91732.cms",
@@ -684,15 +738,6 @@ const newsData_en = [
     "time": "2026-07-14T01:30:36.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Sorry': Why Brendon McCullum apologised to England fans",
-    "desc": "Brendon McCullum has apologised to England fans after his removal as Test coach. He accepted the decision, stating the team's results were not good enough. McCullum admitted disappointment over failing to win major series against India and Australia. He took full responsibility for the team's culture and tactical performances. The former New Zealand captain will continue as England's white-ball coach.",
-    "img": "https://static.toiimg.com/photo/msid-132378797,imgsize-34416.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/sorry-why-brendon-mccullum-apologised-to-england-fans-ahead-of-ind-vs-eng-1st-odi/articleshow/132378759.cms",
-    "time": "2026-07-14T01:29:14.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Devise ways to sustain foreign currency deposits",
     "desc": "Finance Minister Nirmala Sitharaman urged banks to enhance outreach to Non-Resident Indians. She called for introducing innovative deposit products to sustain foreign currency deposit momentum. Banks reported significant interest from NRIs in several key global locations. Attractive returns are being offered on FCNR(B) deposits, including five-year options. This initiative aims to mobilize further foreign currency inflows for the nation.",
@@ -711,42 +756,6 @@ const newsData_en = [
     "time": "2026-07-14T01:18:31.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Retail inflation goes past 4%, first time in 17 months",
-    "desc": "Retail inflation rose to 4.4% in June, crossing the 4% mark. Food prices accelerated, and fuel price hikes contributed to this increase. Restaurants and accommodation services saw inflation rise to 6.9 percent. Personal transportation costs also increased significantly after recent fuel price adjustments. This marks the first time inflation surpassed 4% in the new CPI series.",
-    "img": "https://static.toiimg.com/photo/msid-132378739,imgsize-133708.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/retail-inflation-goes-past-4-first-time-in-17-months/articleshow/132378722.cms",
-    "time": "2026-07-14T01:14:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lennox's five-for powers NZ to series-levelling win over WI",
-    "desc": "New Zealand secured a five-wicket victory against West Indies in the second ODI match. Jayden Lennox took five wickets for nineteen runs, triggering a West Indies collapse. The hosts were bowled out for a mere 138 runs in their innings. New Zealand chased the target with ten wickets in hand, leveling the series. This win marked New Zealand's 400th ODI victory, tying the series at one apiece.",
-    "img": "https://static.toiimg.com/photo/msid-132378666,imgsize-36439.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/2nd-odi-jayden-lennoxs-five-for-powers-new-zealand-to-series-levelling-win-over-west-indies/articleshow/132378665.cms",
-    "time": "2026-07-14T01:09:15.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India's trade deficit hits 5-month high as imports surge",
-    "desc": "India's trade deficit reached a five-month high as imports surged significantly. Exports showed continued growth, but were overshadowed by increased import costs. Crude oil and fertilizer imports saw substantial year-on-year expansion in June. Electronics and engineering goods led export growth, while gold imports remained stable. Analysts anticipate a widening current account deficit for the fiscal year.",
-    "img": "https://static.toiimg.com/photo/msid-132378672,imgsize-81958.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-trade-deficit-hits-5-month-high-as-imports-surge/articleshow/132378672.cms",
-    "time": "2026-07-14T01:00:48.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "'Framework deal ready for India-US trade pact'",
-    "desc": "India and the United States are making good progress on their bilateral trade deal. A framework agreement for the trade pact is now ready for signing. Both nations have reaffirmed their commitment to a balanced and commercially meaningful agreement. Discussions are ongoing to finalize the deal, which will benefit businesses and consumers. The timing of the signing depends on the US announcing its new tariff structure.",
-    "img": "https://static.toiimg.com/photo/msid-132378667,imgsize-146996.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/framework-deal-ready-for-india-us-trade-pact/articleshow/132378660.cms",
-    "time": "2026-07-14T00:56:58.000Z"
-  },
-  {
     "cat": "World",
     "title": "a hinge between West Asia and Horn of Africa",
     "desc": "Wars and rivalries across West Asia and the Horn of Africa are increasingly becoming interconnected; as the Gaza conflict spills into the Red Sea through Houthi attacks, Sudan’s war fuels competition among Gulf states and Ethiopia seeks greater maritime access, major powers are expanding their military, diplomatic and economic presence along this critical corridor linking two volatile regions",
@@ -763,15 +772,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/yemen-government-says-attacked-sanaa-airport-reviving-dormant-conflict/article71218767.ece",
     "time": "2026-07-13T17:51:35.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Aditya Birla Group to buy Shell-backed Sprng Energy; deal worth $1.8 billion",
-    "desc": "The acquisition will bring nearly 5 gigawatt-peak (GWp) of contracted renewable energy capacity into ABRen's portfolio, comprising around 3.3 GWp of operational projects and another 1.7 GWp currently under construction. Following the transaction, ABRen's total portfolio will expand to about 9.3 GWp.",
-    "img": "https://static.toiimg.com/photo/msid-132370846,imgsize-480652.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/renewable-energy-boost-aditya-birla-group-to-buy-shell-backed-sprng-energy-deal-worth-1-8-billion/articleshow/132370790.cms",
-    "time": "2026-07-13T16:01:22.000Z"
   },
   {
     "cat": "Business",
@@ -799,15 +799,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trump-says-us-will-blockade-iran-in-strait-of-hormuz-and-will-charge-ships-for-safe-passage/article71218305.ece",
     "time": "2026-07-13T15:35:46.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Donald Trump announces 20% toll on ships in Strait of Hormuz; to ‘reinstate’ Iran blockade",
-    "desc": "Trump's announcement comes after another major exchange of fire cast fresh uncertainty over efforts to negotiate an end to the conflict. Before Iran asserted control over the Strait of Hormuz after the war began, about one-fifth of the world's oil and gas supplies moved through the strategic waterway.",
-    "img": "https://static.toiimg.com/photo/msid-132369735,imgsize-365352.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/donald-trump-announces-20-toll-on-ships-in-strait-of-hormuz-to-reinstate-iran-blockade/articleshow/132369712.cms",
-    "time": "2026-07-13T14:49:25.000Z"
   },
   {
     "cat": "World",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/the-glide-path-for-your-equity-allocation/article71213814.ece",
     "time": "2026-07-12T11:33:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "S. Janaki: remembering the iconic voice of south India",
+    "desc": "Janaki sang in Hindi and Sinhala too, but it was in the South Indian languages that she carved a niche. Her rendition was infused with love and pathos, and was often a hat-tip to bygone times",
+    "img": "https://th-i.thgim.com/public/incoming/3vmhnm/article71213057.ece/alternates/LANDSCAPE_1200/S.-Janaki-the-GLSG83R57.7.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/music/s-janaki-remembering-the-iconic-voice-of-south-india/article71211468.ece",
+    "time": "2026-07-12T07:42:21.000Z"
   }
 ];
