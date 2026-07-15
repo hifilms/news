@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Didier Deschamps criticises referee ruling as France's World Cup dream gets shattered",
+    "desc": "French coach Didier Deschamps questioned the refereeing during the FIFA World Cup 2026 semifinal against Spain, as the Les Bleus' run in the tournament came to a heartbreaking end. France were defeated 0-2 at the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/didier-deschamps-criticises-referee-ruling-as-frances-world-cup-dream-gets-shattered-2026-07-15-1048303",
+    "time": "2026-07-15T07:59:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kylian Mbappe speaks on France's World Cup semifinal loss to Spain, rues technical and tactical blunders",
+    "desc": "Kylian Mbappe spoke on the tactical errors and technical flaws that saw them face a 0-2 loss to Spain in the FIFA World Cup 2026 semifinal on Wednesday (IST). Mbappe rued that the Les Bleus...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/kylian-mbappe-speaks-on-frances-world-cup-semifinal-loss-to-spain-rues-technical-and-tactical-blunders-2026-07-15-1048294",
+    "time": "2026-07-15T07:10:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "First time in FIFA World Cup history! Spain create huge record with 2-0 France win",
+    "desc": "Spain denied powerhouses France their third straight entry into the World Cup final after defeating the Les Bleus 2-0 in the semifinal at the Dallas Stadium on Wednesday (July 15). La Roja kept the dangerous...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/first-time-in-fifa-world-cup-history-spain-create-huge-record-with-france-win-2026-07-15-1048285",
+    "time": "2026-07-15T06:05:21.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "France ghost in semis as Spain punch FIFA World Cup final ticket after 16 years following 2-0 win",
     "desc": "Spain booked their place in the FIFA World Cup final for only the second time in history after defeating France 2-0 in the semi-final at Dallas Stadium on Tuesday. First-half penalty from Mikel Oyarzabal and...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-rohit-sharma-flop-on-odi-return-dismissed-in-successive-overs-at-edgbaston-watch-2026-07-14-1048245",
     "time": "2026-07-14T15:20:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Major change in ODI World Cup on cards? ICC considers reducing teams; WTC semifinal likely",
-    "desc": "There could be a major change in line for the ODI World Cups as the International Cricket Council (ICC) is reportedly considering reducing the teams for the global showpiece. This could well be in place...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/major-change-in-odi-world-cup-on-cards-icc-considers-reducing-teams-wtc-semifinal-likely-2026-07-14-1048240",
-    "time": "2026-07-14T14:43:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Satwik, Chirag forced to retire from first round of Japan Open, what really happened? PV Sindhu advances",
-    "desc": "India suffered a major setback in the opening round of the Japan Open. The men's doubles campaign was forced to end early on Tuesday, July 14, after Satwiksairaj Rankireddy and Chirag Shetty retired from their...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/satwik-chirag-forced-to-retire-from-first-round-of-japan-open-what-really-happened-pv-sindhu-advances-2026-07-14-1048236",
-    "time": "2026-07-14T14:07:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gurnoor Brar stages brilliant comeback with two wickets in an over, Bumrah grabs impressive catch",
-    "desc": "Star fast-bowler Gurnoor Brar put up an impressive performance in the first ODI of the three-match series against England at Edgbaston on July 14. Brar, who made an eye-catching ODI debut in the series against...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gurnoor-brar-stages-brilliant-comeback-with-two-wickets-in-an-over-bumrah-grabs-impressive-catch-2026-07-14-1048234",
-    "time": "2026-07-14T13:25:31.000Z"
   }
 ];

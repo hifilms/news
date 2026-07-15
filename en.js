@@ -1,5 +1,284 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "'New York, we're coming for you': Yamal sends Spain World Cup final warning",
+    "desc": "Spain's teenage sensation Lamine Yamal expressed confidence after reaching the FIFA World Cup 2026 final. He posted a message indicating their intention to win the championship. Spain secured their place by defeating France 2-0 in the semifinal match. The team celebrated their victory while shifting focus to the upcoming championship game. They now await their opponent in the final match to be held in New York.",
+    "img": "https://static.toiimg.com/photo/msid-132409415,imgsize-109890.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/new-york-were-coming-for-you-lamine-yamal-sends-spain-world-cup-final-warning-after-france-masterclass/articleshow/132409426.cms",
+    "time": "2026-07-15T07:31:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala CM defends government pleader postings, says AG was consulted and competence assessed",
+    "desc": "Satheesan says the two names that were at the centre of the row over SFI and ABVP links were among the names recommended by both Kerala committee and High Court unit of Indian Lawyers’ Congress",
+    "img": "https://th-i.thgim.com/public/incoming/gt9i8t/article71224523.ece/alternates/LANDSCAPE_1200/37_Kerala_CM_Satheeshant_26_05_Delhi.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-cm-defends-government-pleader-postings-says-ag-was-consulted-and-competence-assessed/article71224504.ece",
+    "time": "2026-07-15T07:25:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Two law students arrested for hurling abuses in Supreme Court, disrupting proceedings",
+    "desc": "According to police, the incident occurred during the hearing of Special Leave Petition (Civil), Prabal Pratap and Another vs State of Uttar Pradesh through Commissioner inside Court No. 13 of the apex court on July 10",
+    "img": "https://th-i.thgim.com/public/incoming/gnd5tb/article71224284.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiGR7FV5KAC.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/two-law-students-arrested-for-hurling-abuses-in-supreme-court-disrupting-proceedings/article71224251.ece",
+    "time": "2026-07-15T07:23:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Amaal shares cryptic 'khatam' post sending Emraan fans into a frenzy",
+    "desc": "Amaal Mallik teased an upcoming 'Awarapan 2' song with a cryptic \"Khatam\" post on X, quoting the original film's iconic dialogue. Fans reacted with excitement. Directed by Nitin Kakkar, the sequel stars Emraan Hashmi, Disha Patani and Shabana Azmi, releasing August 14, 2026. The 2007 original later became a cult classic.",
+    "img": "https://static.toiimg.com/photo/msid-132409329,imgsize-181201.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ya-toh-yeh-awarapan-khatam-hoga-ya-main-amaal-mallik-shares-cryptic-khatam-post-sending-emraan-hashmi-fans-into-a-frenzy/articleshow/132409329.cms",
+    "time": "2026-07-15T07:22:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kejriwal to visit CJP protest at Jantar Mantar on July 16",
+    "desc": "\"Sonam Wangchuk has been on a hunger strike for some days, and his health is deteriorating. He is an asset of the country, and I appeal to him to end his hunger strike. There are other ways also for the struggle,\" says Arvind Kejriwal",
+    "img": "https://th-i.thgim.com/public/incoming/typ1rx/article71220383.ece/alternates/LANDSCAPE_1200/KEJRIWAL%20PC_10_07_1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/aap-chief-kejriwal-urges-wangchuk-to-end-hunger-strike-will-meet-him-on-july-16/article71220338.ece",
+    "time": "2026-07-15T07:19:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why Taslima Nasreen's Kolkata return is a powder keg for Bengal politics",
+    "desc": "Taslima Nasreen's upcoming return to Kolkata after 20 years sparks intense political discussions. The Trinamool Congress and Bharatiya Janata Party both voiced their strong opinions regarding her visit. Exiled since 2007, Nasreen is set to participate in an anti-fundamentalism literary event this August. Her previous works and the circumstances of her exile have sent shockwaves through conversations about free speech and the intersection with religious beliefs in West Bengal.",
+    "img": "https://static.toiimg.com/photo/msid-132409180,imgsize-124906.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/why-taslima-nasreens-kolkata-return-is-a-powder-keg-for-bengal-politics/articleshow/132409145.cms",
+    "time": "2026-07-15T07:16:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Amid 'Satluj' row, Gurvinder Singh says Honey Trehan's film was targeted",
+    "desc": "Gurvinder Singh, the filmmaker, laments the removal of 'Satluj', featuring Diljit Dosanjh, due to its straightforward portrayal, which he believes rendered it susceptible to censorship. He proposes that adopting different narrative techniques might have mitigated these issues. The explicit themes of 'Satluj' and their ability to provoke audience reactions have ignited vital conversations surrounding the intersections of censorship and artistic freedom.",
+    "img": "https://static.toiimg.com/photo/msid-132409108,imgsize-80684.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amid-diljit-dosanjhs-satluj-row-national-award-winning-filmmaker-gurvinder-singh-says-honey-trehans-film-was-targeted-for-its-explicit-storytelling/articleshow/132409087.cms",
+    "time": "2026-07-15T07:13:31.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "China's economic growth slows to weakest pace in three years despite export boom",
+    "desc": "China's economic growth slowed in the second quarter, impacted by weak domestic demand. Strong exports, particularly in electric vehicles and AI, provided some support. Consumer spending and investment remain subdued amid property market uncertainty. The nation faces challenges balancing high-tech growth with job creation. Officials aim for higher quality growth and a stronger domestic market.",
+    "img": "https://static.toiimg.com/photo/msid-132409041,imgsize-356680.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/chinas-economic-growth-slows-to-weakest-pace-in-three-years-despite-export-boom-heres-why/articleshow/132408689.cms",
+    "time": "2026-07-15T07:09:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Phanindra Reddy appointed TNRERA Chairperson",
+    "desc": "The appointments come against the backdrop of the recent resignations of retired IAS officer Shiv Das Meena, who was serving as the Chairperson since August 2024, and a few other retired bureaucrats who had served as members.",
+    "img": "https://th-i.thgim.com/public/incoming/s13hgq/article71224477.ece/alternates/LANDSCAPE_1200/DMK%20TRANSPORT%20SECRETARY%20K%20PANINDRA%20REDDY.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/phanindra-reddy-appointed-tnrera-chairperson/article71224335.ece",
+    "time": "2026-07-15T07:07:07.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Decoding the tech tools streamlining our health systems",
+    "desc": "The systems that are gaining real adoption are the ones that are transparent about what they do, that keep the doctor in charge of every decision, and that treat a patient’s information with the seriousness it deserves",
+    "img": "https://th-i.thgim.com/public/incoming/raz6qe/article71219967.ece/alternates/LANDSCAPE_1200/PO14_Healthcare.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/health/decoding-the-tech-tools-streamlining-our-health-systems/article71182443.ece",
+    "time": "2026-07-15T07:05:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sam Neill's family opts for private New Zealand funeral",
+    "desc": "In a heartfelt tribute to legendary actor Sam Neill, his family has decided to hold a private funeral service in New Zealand, reflecting his lifelong wish for seclusion and connection to his homeland. The iconic star, famed for his role in Jurassic Park, passed away at the age of 78, with only close family and friends expected to attend this intimate gathering.",
+    "img": "https://static.toiimg.com/photo/msid-132408809,imgsize-105536.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jurassic-park-star-sam-neills-family-opts-for-private-funeral-in-new-zealand-no-public-memorial-planned/articleshow/132408666.cms",
+    "time": "2026-07-15T07:00:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Jana Nayagan' re-censored: CM Vijay's last film gets added footage",
+    "desc": "Vijay's final film, Jana Nayagan, has been re-censored by the CBFC. The political action drama now includes an additional forty-one seconds of footage. This revision increases the film's total runtime to over three hours. The movie is slated for a highly anticipated theatrical release soon. Fans eagerly await further details about the newly added scenes.",
+    "img": "https://static.toiimg.com/photo/msid-132408843,imgsize-168150.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-re-censored-cm-vijays-last-film-gets-added-footage-ahead-of-its-much-awaited-release/articleshow/132408810.cms",
+    "time": "2026-07-15T06:59:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "For justice around the clock",
+    "desc": "The Supreme Court has decided to examine a writ petition for a framework to urgently set up Benches; the petition argues that in a system where executive power may operate at any hour, the protection of fundamental rights cannot remain constrained by the temporal boundaries of court schedules",
+    "img": "https://th-i.thgim.com/public/incoming/c1owxm/article71224214.ece/alternates/LANDSCAPE_1200/TH13-nearby1_GLGATFVQGIP.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/for-justice-around-the-clock-explained/article71224194.ece",
+    "time": "2026-07-15T06:53:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Jaishankar meets European Council President, values his role in advancing trade, technology cooperation",
+    "desc": "The External Affairs Minister is on a two-day visit to Belgium from July 14 to 15 to participate in the 3rd India-EU Trade and Technology Council meeting and interact with his EU and Belgian counterparts in Brussels",
+    "img": "https://th-i.thgim.com/public/incoming/b6laxq/article71224316.ece/alternates/LANDSCAPE_1200/PTI07_15_2026_000084B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jaishankar-meets-european-council-president-values-his-role-in-advancing-trade-technology-cooperation/article71224238.ece",
+    "time": "2026-07-15T06:52:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rivalry and revenge at the FIFA World Cup",
+    "desc": "The intense Argentina and England football rivalry spans several World Cup matches. Key moments include the 1966 Rattin expulsion and Maradona's 1986 goals. David Beckham faced controversy after a 1998 red card against Argentina. England secured a narrow victory in the 2002 group stage. These encounters highlight enduring historical grievances and national pride.",
+    "img": "https://static.toiimg.com/photo/msid-132408685,imgsize-199438.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/england-vs-argentina-rivalry-and-revenge-at-the-fifa-world-cup/articleshow/132408452.cms",
+    "time": "2026-07-15T06:50:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Michael Johnston addresses 'Obsession' sequel speculation",
+    "desc": "Michael Johnston addressed 'Obsession' sequel prospects, noting no current plans exist. He expressed openness to returning while acknowledging character challenges for a follow-up. Johnston finds Curry Barker's anthology series concept quite exciting for the franchise. He also reflected on Nikki and Bear's complex relationship dynamics. The actor revealed a darker alternate ending was filmed but ultimately cut.",
+    "img": "https://static.toiimg.com/photo/msid-132408562,imgsize-110018.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/michael-johnston-puts-obsession-sequel-speculations-to-rest-theres-no-plan-for-that/articleshow/132408248.cms",
+    "time": "2026-07-15T06:47:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Sensex jumps over 500 points, Nifty above 24,200: Top reasons driving stock market rally",
+    "desc": "Dalal Street experienced a strong rebound on Wednesday, reversing previous session losses. Improving tech sentiments and a firmer rupee boosted investor confidence significantly. Geopolitical developments and global cues also supported the market's upward movement. Foreign investors turned net buyers in July, contributing to the rally. Asian markets and technology stocks saw a notable rebound after US inflation data.",
+    "img": "https://static.toiimg.com/photo/msid-132408023,imgsize-2518013.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-jumps-over-500-points-nifty-above-24200-top-reasons-driving-stock-market-rally-on-july-15-2026/articleshow/132407596.cms",
+    "time": "2026-07-15T06:34:56.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "How India’s first educational computer arrived on a bullock cart",
+    "desc": "Computer science education was first introduced in India at IIT Kanpur. One of the earliest educational computers travelled by airplane, truck and even a bullock cart before reaching the campus, leaving us with computer lab traditions that are still followed",
+    "img": "https://th-i.thgim.com/public/incoming/cnpryt/article71209986.ece/alternates/LANDSCAPE_1200/Screenshot%202026-06-10%20113946.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/children/how-indias-first-educational-computer-arrived-on-a-bullock-cart/article71209933.ece",
+    "time": "2026-07-15T06:34:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Basil Joseph hints at collaborating with Allu Arjun for 'AA24'",
+    "desc": "Filmmaker Basil Joseph shared a cryptic post featuring an 'Icon' cap and a song. This has fueled fan speculation about a potential collaboration with Allu Arjun. The project is tentatively titled 'AA24' and remains officially unconfirmed by either party. Allu Arjun is currently busy with other film commitments before starting new projects. Fans eagerly await an official announcement regarding this much-discussed collaboration.",
+    "img": "https://static.toiimg.com/photo/msid-132408148,imgsize-129662.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/is-aa24-locked-minnal-murali-director-basil-joseph-shares-cryptic-post-featuring-allu-arjuns-famous-icon-moniker-sending-fans-into-a-frenzy/articleshow/132408125.cms",
+    "time": "2026-07-15T06:33:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aamir Khan responds to ‘love jihad’ controversy amid fatwa",
+    "desc": "Aamir Khan denies being a 'love jihad' ambassador, emphasizing his family's inclusive interfaith marriages. He clarified that none of his partners converted their religion during their civil unions. His recent marriage to Gauri Spratt has sparked political and religious debate online. Maulana Ibrahim Hussain reportedly issued a fatwa against Khan for his interfaith marriage. Khan and Spratt have known each other for nearly 25 years and reconnected recently.",
+    "img": "https://static.toiimg.com/photo/msid-132407994,imgsize-97206.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khan-responds-to-love-jihad-controversy-amid-fatwa-says-gauri-spratt-reena-dutta-and-kiran-rao-never-changed-their-religion-life-is-getting-more-comical-as-time-passes/articleshow/132407961.cms",
+    "time": "2026-07-15T06:21:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mbappé Rumoured Romance Spotlight: Ester Expósito",
+    "desc": "French football captain Kylian Mbappé faces scrutiny after his team's World Cup elimination. Speculation about his relationship with Spanish actress Ester Expósito is currently trending online. Expósito was previously seen at several Real Madrid games and a restaurant outing. The actress stated she cannot choose between supporting France or Spain. She previously dismissed rumors of dating Mbappé's teammate Vinicius Junior.",
+    "img": "https://static.toiimg.com/photo/msid-132407942,imgsize-239622.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/who-is-ester-exposito-french-footballer-kylian-mbappes-rumoured-girlfriend/articleshow/132407797.cms",
+    "time": "2026-07-15T06:18:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Saiyami kher on watching the first cut of Haiwaan",
+    "desc": "Saiyami Kher shared excitement after watching Haiwaan's nearly complete first cut during dubbing, calling it \"a great feeling\" to work with Priyadarshan on his 99th film. Starring Akshay Kumar, Saif Ali Khan, Boman Irani and Shriya Pilgaonkar, the thriller releases theatrically on September 11, 2026, produced by KVN Productions and Thespian Films.",
+    "img": "https://static.toiimg.com/photo/msid-132407866,imgsize-275449.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saiyami-kher-opens-up-about-watching-the-first-cut-of-akshay-kumar-and-saif-ali-khan-starrer-haiwaan-directed-by-priyadarshan-ahead-of-teaser-release-today-his-storytelling-has-inspired-generations/articleshow/132407866.cms",
+    "time": "2026-07-15T06:15:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I was trying to ...': Axar Patel reveals what went wrong in T20Is after ODI heroics",
+    "desc": "Axar Patel admitted to overhitting the ball during the T20 series. He focused on timing over power for his match-winning ODI performance. His all-round display guided India to a six-wicket victory in the first ODI. Captain Shubman Gill and Washington Sundar also contributed valuable runs. India now lead the three-match series one-nil against England.",
+    "img": "https://static.toiimg.com/photo/msid-132407730,imgsize-178940.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/india-vs-england-i-was-trying-to-hit-the-ball-too-hard-axar-patel-reveals-what-went-wrong-in-t20is-after-odi-heroics/articleshow/132407742.cms",
+    "time": "2026-07-15T06:06:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anna Rajan involves Police after being targeted with morphed picture",
+    "desc": "Actress Anna Rajan has involved Kerala Police after facing online harassment. She reported a morphed obscene picture shared on Instagram to defame her. Rajan described the edited image as a grave violation of her privacy and dignity. She has preserved evidence and urged social media users not to spread abusive content. The actress remains focused on her career while pursuing legal action against cyberbullying.",
+    "img": "https://static.toiimg.com/photo/msid-132407395,imgsize-87370.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jailer-2-star-anna-rajan-involves-kerala-police-after-being-targeted-with-morphed-obscene-picture-this-is-shameful-and-unacceptable/articleshow/132407374.cms",
+    "time": "2026-07-15T05:48:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nick reveals Priyanka's heart-stopping 50-second silence during Greece proposal on her birthday",
+    "desc": "Nick Jonas revealed he was anxious before proposing to Priyanka Chopra in Greece on July 19, 2018, after a delayed flight disrupted his midnight plan. Priyanka had no idea, later taking 40-50 seconds to say yes. The couple married in December 2018 in Jodhpur and welcomed daughter Malti Marie in 2022.",
+    "img": "https://static.toiimg.com/photo/msid-132407382,imgsize-401404.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/she-stared-at-me-nick-jonas-reveals-priyanka-chopras-heart-stopping-50-second-silence-during-greece-proposal-on-her-birthday-in-2018/articleshow/132407382.cms",
+    "time": "2026-07-15T05:45:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anju’s Cafe in Ranga Shankara turns 20",
+    "desc": "Anju Sudharshan started her namesake cafe in the Ranga Shankara theatre after a chance encounter with the founder Arundhati Nag. We trace how the cafe became the heart of the institution in Bengaluru, and a space for reviews, discussions and piping hot akki rotis",
+    "img": "https://th-i.thgim.com/public/food/3j9ukk/article71056113.ece/alternates/LANDSCAPE_1200/Sudhakara%20Jain%20new2.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/food/features/sabudana-vada-and-stagecraft-anjus-cafe-in-ranga-shankara-turns-20/article71040773.ece",
+    "time": "2026-07-15T05:44:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Benny Blanco on keeping his romance with Selena Gomez private",
+    "desc": "Benny Blanco revealed his relationship with Selena Gomez remained private for nine months. He shared a significant conversation before they decided to go public. The music producer also discussed his struggles with public scrutiny and social media. His upcoming Spanish-language album 'Hermoso' explores diverse Latin musical influences. Blanco's biography 'F--k Failure' will also be published later this year.",
+    "img": "https://static.toiimg.com/photo/msid-132407305,imgsize-195598.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/ahead-of-hermoso-benny-blanco-reveals-he-kept-our-relationship-private-with-selena-gomez-for-eight-or-nine-months/articleshow/132407101.cms",
+    "time": "2026-07-15T05:43:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why FBI labelled Argentina vs England semi-final the 'highest-risk' match",
+    "desc": "England and Argentina's World Cup semifinal is the tournament's highest-risk match. Extraordinary security measures are in place for this intense football rivalry. Decades of political tensions and historic flashpoints fuel concerns about fan behaviour. Officials are implementing separate entry gates to minimise potential confrontations. Authorities are ensuring this sensitive fixture remains confined to the pitch.",
+    "img": "https://static.toiimg.com/photo/msid-132407135,imgsize-205297.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/argentina-vs-england-why-fbi-labelled-this-fifa-world-cup-semi-final-the-highest-risk-match/articleshow/132407026.cms",
+    "time": "2026-07-15T05:30:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Silk saree that fits into a matchbox presented to Goddess Bharamaraba",
+    "desc": "The saree measures 5.5 metres in length and 48 inches in width and weighs approximately 200 grams; designed in the traditional “Ikkat” pattern, the saree can easily fit into a small matchbox when folded, the weaver explained",
+    "img": "https://th-i.thgim.com/public/incoming/dfida4/article71221010.ece/alternates/LANDSCAPE_1200/10745_14_7_2026_16_5_18_2_IMG_20260714_WA0009.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/silk-saree-that-fits-into-a-matchbox-presented-to-goddess-bharamaraba/article71220761.ece",
+    "time": "2026-07-15T05:27:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'May die in 2 days, lost 8.5 kg': Plea in Delhi HC seeks 'force-feeding' of Sonam Wangchuk as hunger strike takes toll on activist's health",
+    "desc": "A plea seeks court intervention to force-feed activist Sonam Wangchuk, whose hunger strike has entered its eighteenth day. Concerns are growing over his deteriorating health as he has reportedly lost significant weight. The petition urges authorities to shift him to a government hospital for medical intervention. It argues that saving his life is of paramount importance for the nation.",
+    "img": "https://static.toiimg.com/photo/msid-132406953,imgsize-133658.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/may-die-in-2-days-lost-8-5kg-plea-in-delhi-hc-seeks-force-feeding-of-sonam-wangchuk-as-hunger-strike-takes-toll-on-activists-health/articleshow/132406875.cms",
+    "time": "2026-07-15T05:19:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "This artist is documenting Bengaluru’s mango season in the face of climate change and ecological loss",
+    "desc": "Using ASCII typographic symbols and 3D scans, Shruti Nagaraj’s project Maavu maps the cycle of growth, consumption, and decay of mango varieties. The project was showcased in Saatchi Gallery in London and there are plans to come to India soon",
+    "img": "https://th-i.thgim.com/public/food/lp91os/article71216559.ece/alternates/LANDSCAPE_1200/Screenshot%202026-07-13%20135640.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/food/features/this-artist-is-documenting-bengalurus-mango-season-in-the-face-of-climate-change-and-ecological-loss/article71216505.ece",
+    "time": "2026-07-15T05:10:36.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Prince Harry and Meghan have 'no right to be on royal property'",
     "desc": "Prince Harry and Meghan Markle visited the UK for Invictus Games celebrations. They were invited to dine with King Charles III at Highgrove House. An expert criticized their presence on royal property, calling it a reward. The couple previously shared disheartening feelings about the monarchy and racism. Discussions about their security arrangements preceded their UK trip.",
@@ -16,15 +295,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/six-times-same-result-and-counting-lamine-yamal-continues-to-be-kylian-mbappes-knockout-nemesis/articleshow/132406436.cms",
     "time": "2026-07-15T05:00:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kejriwal to visit CJP protest at Jantar Mantar on July 16",
-    "desc": "\"Sonam Wangchuk has been on a hunger strike for some days, and his health is deteriorating. He is an asset of the country, and I appeal to him to end his hunger strike. There are other ways also for the struggle,\" says Arvind Kejriwal",
-    "img": "https://th-i.thgim.com/public/incoming/typ1rx/article71220383.ece/alternates/LANDSCAPE_1200/KEJRIWAL%20PC_10_07_1.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/aap-chief-kejriwal-urges-wangchuk-to-end-hunger-strike-will-meet-him-on-july-16/article71220338.ece",
-    "time": "2026-07-15T04:58:25.000Z"
   },
   {
     "cat": "Sports",
@@ -126,13 +396,13 @@ const newsData_en = [
     "time": "2026-07-15T04:10:08.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "How India’s first educational computer arrived on a bullock cart",
-    "desc": "Computer science education was first introduced in India at IIT Kanpur. One of the earliest educational computers travelled by airplane, truck and even a bullock cart before reaching the campus, leaving us with computer lab traditions that are still followed",
-    "img": "https://th-i.thgim.com/public/incoming/cnpryt/article71209986.ece/alternates/LANDSCAPE_1200/Screenshot%202026-06-10%20113946.png",
+    "cat": "Sports",
+    "title": "Look who’s at the FIFA World Cup party!",
+    "desc": "In an ocean of jersey-clad football fans all showing up for the FIFA World Cup, even celebrities become camouflage. Well, except some. Meet these eye-catching animal stars who turned up the global football party with their irresistible charm.",
+    "img": "https://th-i.thgim.com/public/incoming/ule06j/article71160394.ece/alternates/LANDSCAPE_1200/2026-06-17T015913Z_853004316_RC29VLAM3LBH_RTRMADP_3_SOCCER-WORLDCUP-MEXICO-DUCK.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/children/how-indias-first-educational-computer-arrived-on-a-bullock-cart/article71209933.ece",
-    "time": "2026-07-15T04:01:25.000Z"
+    "url": "https://www.thehindu.com/children/look-whos-at-the-2026-fifa-world-cup-party/article71160390.ece",
+    "time": "2026-07-15T03:59:00.000Z"
   },
   {
     "cat": "Sports",
@@ -189,42 +459,6 @@ const newsData_en = [
     "time": "2026-07-15T03:18:21.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Police’s illegal entry into woman's bedroom amounts to violation of privacy: Bombay Hign Court",
-    "desc": "The bench observed that while monetary compensation cannot fully redress the invasion of privacy and dignity, it would provide some measure of solace and serve as a reminder that investigative powers must be exercised in accordance with law",
-    "img": "https://th-i.thgim.com/public/incoming/l2zvat/article71223909.ece/alternates/LANDSCAPE_1200/TH08-Chinmay-PGNOFV3SJ4.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/maharashtra/polices-illegal-entry-into-womans-bedroom-amounts-to-violation-of-privacy-bombay-hign-court/article71216905.ece",
-    "time": "2026-07-15T03:07:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Toxic' star Yash to collaborate with director Hemanth M Rao",
-    "desc": "Speculation is mounting about actor Yash's next project following his film 'Toxic'. Reports suggest a potential collaboration with director Hemanth M Rao, known for 'Sapta Saagaradaache Ello'. An IMDb listing has fueled these rumors, detailing a possible army officer storyline. Neither Yash nor Hemanth M Rao has officially confirmed these exciting project details yet. Fans eagerly await an official announcement regarding Yash's future cinematic endeavors.",
-    "img": "https://static.toiimg.com/photo/msid-132404785,imgsize-193214.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/toxic-star-yash-to-collaborate-with-sapta-saagaradaache-ello-director-hemanth-m-rao-heres-what-we-know/articleshow/132404763.cms",
-    "time": "2026-07-15T02:55:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Full list of FIFA World Cup 2026 closing ceremony performers",
-    "desc": "In a stunning announcement, Hollywood's own Tom Cruise is set to grace the FIFA World Cup 2026 closing ceremony, alongside music legends Jennifer Hudson and Robbie Williams. This monumental event, marking the first edition featuring 48 teams, promises to be a vibrant celebration of music and culture. Additionally, a halftime show will spotlight global stars such as BTS and Madonna, ensuring a historic gathering of entertainment at this prestigious event.",
-    "img": "https://static.toiimg.com/photo/msid-132404700,imgsize-273150.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/fifa-world-cup-2026-closing-ceremony-heres-the-full-list-of-performers-including-tom-cruise-jennifer-hudson-robbie-williams-and-more/articleshow/132404587.cms",
-    "time": "2026-07-15T02:54:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Amid wrangle, LDF lays groundwork for CPI-CPI(M) detente over Kerala Deputy Opposition Leader post",
-    "desc": "T.P. Ramakrishnan, who held a brief closed-door meeting with the CPI State Secretary Binoy Viswam, signalled that the rapprochement was not immediately at hand. He said the discussions were in their nascent stages and denied any rift in the coalition. Viswam merely stated that “CPI and CPI(M) pursued the same politics”",
-    "img": "https://th-i.thgim.com/public/incoming/fx1swb/article71221058.ece/alternates/LANDSCAPE_1200/80692_2_4_2026_14_6_15_1_03TVKZTPRAMAKRISHNAN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/amid-wrangleldf-lays-groundwork-for-cpi-cpim-detente-over-kerala-deputy-opposition-leader-post/article71220926.ece",
-    "time": "2026-07-15T02:47:52.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Para cyclist Lisha raises concerns over no woman support staff",
     "desc": "Youngest CWG para cyclist Lisha Das expressed disappointment over the absence of female support staff. She highlighted safety and security concerns for a minor athlete traveling overseas. Despite parental and coach representations, the issue remains unresolved between sports federations. This omission contradicts a Sports Authority of India circular mandating female coaches. The cycling and para cycling contingents are the only ones lacking female personnel.",
@@ -259,24 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/dont-settle-for-india-a-aim-for-100-tests-ashish-nehras-advice-to-ashok-sharma/articleshow/132404304.cms",
     "time": "2026-07-15T02:30:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Gatta Kusthi 2' BO: Vishnu Vishal's film marches towards Rs 50 crore",
-    "desc": "Vishnu Vishal's Gatta Kusthi 2 continues its steady box office run. The film has earned Rs 38.12 crore gross in India after twelve days. Overseas collections have added Rs 8.10 crore to the worldwide gross. Gatta Kusthi 2 has now reached Rs 46.22 crore worldwide gross. The sports drama is nearing the Rs 50 crore worldwide milestone.",
-    "img": "https://static.toiimg.com/photo/msid-132404268,imgsize-114050.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/box-office/gatta-kusthi-2-box-office-collection-day-12-vishnu-vishals-sports-drama-marches-steadily-towards-rs-50-crore-worldwide/articleshow/132404245.cms",
-    "time": "2026-07-15T02:24:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "How can Indian cities ensure their trees do not ‘turn against’ their people",
-    "desc": "Even as the verdict of the inquiry committee in Chembur tree fall incident comes in, a stroll through three other Indian metros, Chennai, Bengaluru and Delhi, to find out if they are proactive enough with their trees to prevent a Chembur on their soil",
-    "img": "https://th-i.thgim.com/public/incoming/lxmzuq/article71220018.ece/alternates/LANDSCAPE_1200/11908_30_6_2026_18_6_43_2_IMG_3353.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/no-more-chemburs-how-can-indian-cities-ensure-their-trees-do-not-turn-against-their-people/article71220025.ece",
-    "time": "2026-07-15T02:18:20.000Z"
   },
   {
     "cat": "Business",
@@ -315,15 +531,6 @@ const newsData_en = [
     "time": "2026-07-15T02:07:16.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Aditya Sarpotdar on his approach to the horror universe",
-    "desc": "Aditya Sarpotdar says his horror universe films prioritize the 90% general audience over the 10% who track every detail. Building franchises brings expectations, unlike starting fresh, he notes. With \"Shakti Shalini,\" his third film after \"Munjya\" and \"Thama,\" reinvention is key. The film stars Aneet Padda, Nana Patekar, Vishal Jethwa, releasing Christmas 2026.",
-    "img": "https://static.toiimg.com/photo/msid-132404059,imgsize-215108.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aditya-sarpotdar-on-his-approach-to-the-horror-universe-were-not-making-films-for/articleshow/132404059.cms",
-    "time": "2026-07-15T02:06:58.000Z"
-  },
-  {
     "cat": "Business",
     "title": "NCLT okays record no. of cases, flags manpower shortage",
     "desc": "The National Company Law Tribunal approved a record 78 resolution plans in April-June. This period saw approvals valued at Rs 5,518 crore, reaching nearly Rs 4.8 lakh crore total. The tribunal faces significant institutional capacity constraints and member vacancies. Current functioning is impacted by 11 unfilled judicial and technical member positions. No new member appointments have occurred since January 2025.",
@@ -331,15 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/nclt-okays-record-no-of-cases-flags-manpower-shortage/articleshow/132403982.cms",
     "time": "2026-07-15T02:03:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Contradiction is one of the most interesting and evocative things",
-    "desc": "During the Mumbai premiere of The Odyssey, filmmaker Christopher Nolan discussed his adaptation of The Odyssey and its universal themes. He noted parallels between the epic and Indian mythology. Nolan also shared his admiration for Satyajit Ray's masterpiece Pather Panchali. He explored the complex psychology of conflicted warriors and their longing for home. The director reflected on the human contradictions inherent in love and war.",
-    "img": "https://static.toiimg.com/photo/msid-132393752,imgsize-157496.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/christopher-nolan-on-making-the-odyssey-contradiction-is-one-of-the-most-interesting-and-evocative-things-that-storytelling-can-deal-with/articleshow/132392728.cms",
-    "time": "2026-07-15T02:00:00.000Z"
   },
   {
     "cat": "Sports",
@@ -396,15 +594,6 @@ const newsData_en = [
     "time": "2026-07-15T01:46:19.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'You had one job': Bizarre referee mistake leaves France vs Spain semi-final in awkward pause",
-    "desc": "Spain's 2-0 World Cup semi-final victory over France featured an unexpected early refereeing moment when Iván Barton briefly stopped play after forgetting his vanishing spray. The bizarre incident went viral on social media, but it was later overshadowed by controversial decisions, including a penalty and an overturned free-kick. Barton's officiating became a major talking point after France's elimination.",
-    "img": "https://static.toiimg.com/photo/msid-132403748,imgsize-106376.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/you-had-one-job-bizarre-referee-mistake-leaves-france-vs-spain-world-cup-semi-final-in-awkward-pause/articleshow/132403730.cms",
-    "time": "2026-07-15T01:44:44.000Z"
-  },
-  {
     "cat": "Business",
     "title": "IDBI stake sale back on table, government keen to speed up process",
     "desc": "Government is accelerating the IDBI Bank stake sale process. Two bidders, Fairfax and Emirates NDB, are being considered. This follows the rejection of earlier bids below the reserve price. Recent foreign investments in Indian banking include Yes Bank and RBL Bank. Mitsubishi UFJ Financial Group also made a significant investment in Shriram Finance.",
@@ -412,15 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/idbi-stake-sale-back-on-table-government-keen-to-speed-up-process/articleshow/132403814.cms",
     "time": "2026-07-15T01:38:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'I, Nobody' BO day 6: Prithviraj Sukumaran's film earns over Rs 13 crore",
-    "desc": "Prithviraj Sukumaran's thriller 'I, Nobody' has earned over thirteen crore rupees worldwide. The film's India net collection reached seven point forty-three crore rupees after six days. Overseas markets contributed six crore rupees to the movie's total gross. Collections dropped during the weekdays after a strong initial weekend run. The coming weekend will be crucial for the film's box office momentum.",
-    "img": "https://static.toiimg.com/photo/msid-132403832,imgsize-150800.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/box-office/i-nobody-box-office-collection-day-6-prithviraj-sukumarans-thriller-slows-down-earns-over-rs-13-crore-worldwide/articleshow/132403815.cms",
-    "time": "2026-07-15T01:38:29.000Z"
   },
   {
     "cat": "Politics",
@@ -432,13 +612,13 @@ const newsData_en = [
     "time": "2026-07-15T01:32:48.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Is the undocumented migrant counted?",
-    "desc": "Contrary to the claims that there could be 20 million “illegal Bangladeshi migrants” staying in India, an analysis based on Census data suggests that there is no surge of undocumented migrants from Bangladesh, at least between 1991 and 2011",
-    "img": "https://th-i.thgim.com/public/incoming/n0o2nr/article71221125.ece/alternates/LANDSCAPE_1200/PTI4_2_2010_000033B_.jpg",
+    "cat": "Sports",
+    "title": "How close the FIFA semi-finals will be?",
+    "desc": "The teams with the top four rankings prior to the World Cup has entered the semi-finals. Analysis shows the differents paths they have taken, a nuanced look into their relative strengths and how close the two matches could be",
+    "img": "https://th-i.thgim.com/public/incoming/9cma8e/article71222194.ece/alternates/LANDSCAPE_1200/2026-07-14T013217Z_339849387_UP1EM7E049RYY_RTRMADP_3_SOCCER-WORLDCUP-FRA-ESP-FANS.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/data/is-the-undocumented-migrant-counted/article71221038.ece",
-    "time": "2026-07-15T01:31:23.000Z"
+    "url": "https://www.thehindu.com/data/how-close-the-fifa-semi-finals-will-be/article71222058.ece",
+    "time": "2026-07-15T01:31:41.000Z"
   },
   {
     "cat": "Business",
@@ -459,15 +639,6 @@ const newsData_en = [
     "time": "2026-07-15T01:25:34.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Johnny Depp",
-    "desc": "A Christmas Carol,' releasing in late 2026. This role highlights Depp's ongoing fascination with the complexities of human nature. Alongside this, he stars in the thriller 'Day Drinker' alongside Penélope Cruz. His unique career choices reflect his passion for diving deep into character portrayals with psychological depth.",
-    "img": "https://static.toiimg.com/photo/msid-132403718,imgsize-241406.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-johnny-depp-my-sickness-is-that-im-fascinated-by-human-behaviour-by-whats-underneath-the-surface-by-the-worlds-inside-people-when-the-pirates-of-the-caribbean-star-explained-why-he-chooses-the-most-unconventional-roles/articleshow/132403690.cms",
-    "time": "2026-07-15T01:24:18.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Supreme Court acquits man, 16 others in 26-year-old dowry case",
     "desc": "The Supreme Court acquitted seventeen individuals accused in a dowry death case. This decision came after a lengthy twenty-six-year legal battle for the family. The court criticized lower courts for disregarding defense evidence without valid reasons. Substantive testimonies and credible documents presented by the defense remained uncontroverted. The apex court stressed the importance of treating all evidence equally during trials.",
@@ -486,15 +657,6 @@ const newsData_en = [
     "time": "2026-07-15T01:17:32.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'I don't want to be a sore loser... but': France manager questions if referee was good enough for World Cup semi-final",
-    "desc": "France manager Didier Deschamps questioned referee Iván Barton's suitability for a World Cup semi-final after Les Bleus' 2-0 defeat to Spain. While criticising the officiating, including the controversial penalty awarded to Lamine Yamal, Deschamps admitted Spain deserved victory and were technically superior. The loss ended his 14-year reign as France coach and their World Cup hopes.",
-    "img": "https://static.toiimg.com/photo/msid-132403637,imgsize-90248.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/i-dont-want-to-be-a-sore-loser-but-france-manager-questions-if-referee-was-good-enough-for-world-cup-semi-final/articleshow/132403625.cms",
-    "time": "2026-07-15T01:16:27.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "NCPI plans MPs meeting as Birla likely to decide on its recognition plea before session",
     "desc": "Rebel TMC MPs are set to hold their parliamentary party meeting under NCPI. They anticipate representation at the customary pre-session all-party meeting. Speaker Om Birla will decide on merger applications before the monsoon session begins. Recognition of NCPI could make it BJP's largest ally in the Lok Sabha. The rebel group is confident of approval due to their numbers.",
@@ -502,15 +664,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/ncpi-plans-mps-meeting-as-birla-likely-to-decide-on-its-recognition-plea-before-session/articleshow/132403668.cms",
     "time": "2026-07-15T01:16:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nawazuddin to make his theatre comeback, flies to Chicago with daughter",
-    "desc": "Nawazuddin Siddiqui returns to theatre after 25 years with \"Naqaab,\" flying to Chicago with daughter Shora. He recalled surviving on Parle-G biscuits during struggling days in Delhi, calling the memory painful. He'll next appear in \"Tumbbad 2\" with Alia Bhatt and Sohum Shah, directed by Adesh Prasad, releasing December 3, 2027.",
-    "img": "https://static.toiimg.com/photo/msid-132403696,imgsize-216925.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nawazuddin-siddiqui-to-make-his-theatre-comeback-with-naqaab-flies-to-chicago-with-daughter-shora/articleshow/132403696.cms",
-    "time": "2026-07-15T01:16:04.000Z"
   },
   {
     "cat": "Sports",
@@ -540,24 +693,6 @@ const newsData_en = [
     "time": "2026-07-15T01:08:15.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Meghan Markle using royal title at 'MasterChef Australia' sparks backlash",
-    "desc": "Meghan, Duchess of Sussex, has made headlines by accepting a role as a guest judge on MasterChef Australia, but viewer backlash has emerged. Critics argue that her use of royal titles for promotional purposes is inappropriate, particularly after the cancellation of her own streaming series. Frustrated fans are even voicing plans to boycott the cooking episode following the disappointing results of her Netflix venture earlier this year.",
-    "img": "https://static.toiimg.com/photo/msid-132403624,imgsize-108216.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/meghan-markle-using-royal-title-at-masterchef-australia-sparks-backlash-shes-no-longer-the-duchess-of-sussex/articleshow/132403611.cms",
-    "time": "2026-07-15T01:07:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Idhayam Murali' BO day 5: Atharvaa starrer surpasses Rs 17 crore",
-    "desc": "Atharvaa's romantic drama 'Idhayam Murali' has earned over seventeen crore rupees worldwide. The film continues to attract family audiences and youngsters with its emotional story. Weekday collections have seen a slight dip after the opening weekend surge. Positive word of mouth is helping the movie maintain its steady box office run. The film's performance offers hope for a decent first-week theatrical collection.",
-    "img": "https://static.toiimg.com/photo/msid-132403615,imgsize-269416.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/box-office/idhayam-murali-box-office-collection-day-5-atharvaas-romantic-drama-maintains-a-steady-run-surpasses-rs-17-crore/articleshow/132403608.cms",
-    "time": "2026-07-15T00:58:43.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "SOP soon to hear petitions after working hours, says Supreme Court",
     "desc": "The Supreme Court will create a procedure for urgent petitions. This new system will address life and liberty concerns after court hours. The court agreed to explore this after a lawyer's plea for immediate access. Only cases involving life and liberty infringements will be considered. This aims to provide prompt constitutional protection to citizens.",
@@ -567,33 +702,6 @@ const newsData_en = [
     "time": "2026-07-15T00:49:59.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Why referee overturned France's free-kick against Spain in World Cup semi-final",
-    "desc": "Spain's 2-0 World Cup semi-final win over France sparked confusion after referee Ivan Barton overturned a free-kick initially awarded to France. Many believed VAR had intervened, but the decision was actually changed following advice from the assistant referee, who had a clearer view of the incident. The rare correction, made before play restarted, complied fully with the Laws of the Game.",
-    "img": "https://static.toiimg.com/photo/msid-132403531,imgsize-134948.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/not-var-why-referee-overturned-frances-free-kick-against-spain-in-world-cup-semi-final/articleshow/132403454.cms",
-    "time": "2026-07-15T00:41:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Welcome To The Jungle box office collection day 19",
-    "desc": "'Welcome To The Jungle' slowed on day 19, earning Rs 0.25 crore net, taking India collections to Rs 130.85 crore and worldwide gross to Rs 188.58 crore. The film had a strong opening week, crossing Rs 90 crore. It stars Akshay Kumar as an actor mistaken for military help by a village fearing criminal Zataara (Jackie Shroff).",
-    "img": "https://static.toiimg.com/photo/msid-132403546,imgsize-581948.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/welcome-to-the-jungle-box-office-collection-day-19-akshay-kumars-film-slows-down-worldwide-total-reaches-rs-188-58-crore/articleshow/132403546.cms",
-    "time": "2026-07-15T00:32:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Lenin' BO day 5: Akhil Akkineni's film eyes Rs 50 crore worldwide",
-    "desc": "Akhil Akkineni's film 'Lenin' is performing well at the box office. The action drama has collected Rs 45.09 crore worldwide after five days. 'Lenin' earned Rs 3 crore on its fifth day in India. The movie's collections remain healthy despite a slight weekday dip. All eyes are now on the Rs 50 crore worldwide gross milestone.",
-    "img": "https://static.toiimg.com/photo/msid-132403489,imgsize-80440.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/box-office/lenin-box-office-collection-day-5-akhil-akkinenis-film-holds-firm-eyes-rs-50-crore-worldwide/articleshow/132403486.cms",
-    "time": "2026-07-15T00:20:12.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Madhya Pradesh's UCC draft proposes registration of live-in couples",
     "desc": "Madhya Pradesh's draft uniform civil code requires live-in relationship registration. Couples must formally cancel registrations when relationships end, facing penalties for non-compliance. Parents will be informed of their children's live-in relationship status. Inheritance laws will change, including fathers as heirs to deceased sons' property. The proposed code will initially exclude the state's tribal population.",
@@ -601,15 +709,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/madhya-pradeshs-ucc-draft-proposes-registration-of-live-in-couples/articleshow/132403465.cms",
     "time": "2026-07-15T00:08:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lamine Yamal scripts European football history after France win with record no one has ever matched",
-    "desc": "Lamine Yamal extended his perfect record at major international tournaments as Spain's 2-0 World Cup semi-final victory over France made it 12 wins from 12 starts across the FIFA World Cup and UEFA European Championship. No European player has ever maintained a flawless record over as many starts, highlighting the teenager's remarkable impact as Spain prepare for the World Cup final.",
-    "img": "https://static.toiimg.com/photo/msid-132403429,imgsize-87378.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/lamine-yamal-scripts-european-football-history-after-france-win-with-record-no-one-has-ever-matched/articleshow/132403359.cms",
-    "time": "2026-07-14T23:56:23.000Z"
   },
   {
     "cat": "Politics",
@@ -630,51 +729,6 @@ const newsData_en = [
     "time": "2026-07-14T23:23:53.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Supreme Court to Dhar administration",
-    "desc": "The Supreme Court will hear challenges to a Madhya Pradesh High Court ruling on the Bhojshala complex. It declined to stay the order which declared the site a temple. Muslim petitioners argued the ruling ignored historical evidence and existing arrangements. The court directed authorities to find an alternative space for Friday prayers. Structural changes to the complex are prohibited without court permission.",
-    "img": "https://static.toiimg.com/photo/msid-132403346,imgsize-221028.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/give-muslims-alternative-site-for-namaz-supreme-court-to-dhar-administration/articleshow/132403341.cms",
-    "time": "2026-07-14T23:20:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "MEA",
-    "desc": "The MEA clarified passport issuance follows the Passports Act, 1967. This document regulates departure of Indian citizens from India. Official sources state a passport is not a determinant of citizenship. Less than eight percent of Indians currently hold a passport. This clarification follows recent government official remarks on the travel document.",
-    "img": "https://static.toiimg.com/photo/msid-132403339,imgsize-105216.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/passport-just-a-document-to-regulate-departure-of-citizens-from-india-mea/articleshow/132403332.cms",
-    "time": "2026-07-14T23:14:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Draft final report on Ahmedabad tragedy will be ready only by October, AAIB tells Supreme Court",
-    "desc": "The Aircraft Accident Investigation Bureau informed the Supreme Court about the inquiry timeline. The complex investigation into the Air India crash is expected to conclude soon. Analysis activities will be completed within six weeks, subject to external factors. A draft final report is anticipated by October 2026 for review. This timeline aligns with international practices for accident investigations.",
-    "img": "https://static.toiimg.com/photo/msid-132403321,imgsize-228434.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/air-india-crash-draft-final-report-on-ahmedabad-tragedy-will-be-ready-only-by-october-aaib-tells-supreme-court/articleshow/132403313.cms",
-    "time": "2026-07-14T23:08:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Captain jumped, so did I",
-    "desc": "A survivor described the sudden Vietnam boat tragedy where the captain jumped overboard. He explained that only those who followed him into the water managed to escape. The closed boat prevented rear passengers from exiting, leading to their demise. He lost a childhood friend in the unfortunate incident. Improved island medical access could have saved additional lives.",
-    "img": "https://static.toiimg.com/photo/msid-132403292,imgsize-679948.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/vietnam-boat-survivor-captain-jumped-so-did-i/articleshow/132403284.cms",
-    "time": "2026-07-14T22:54:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Ram Temple corruption episode biggest proof of BJP govt. failure: U.P. Congress chief Ajay Rai",
-    "desc": "‘When it comes to taking credit for the temple, Prime Minister Narendra Modi and U.P. Chief Minister Yogi Adityanath are always at the forefront; hence they will be blamed for this heinous crime and theft at the temple,’ said Mr. Rai",
-    "img": "https://th-i.thgim.com/public/incoming/juu49a/article71223161.ece/alternates/LANDSCAPE_1200/20260705221L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttar-pradesh/ram-temple-corruption-episode-biggest-proof-of-bjp-govt-failure-up-congress-chief-ajay-rai/article71222198.ece",
-    "time": "2026-07-14T22:53:28.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India moves to block imports linked to forced labour amid USTR probe",
     "desc": "India is inserting a new clause into its foreign trade policy. This clause will allow blocking imports produced using forced labour. The government will use the International Labour Organisation's definition of forced labour. This move strengthens India's legal framework for trade negotiations. The notification becomes effective after thirty days from its issuance.",
@@ -684,15 +738,6 @@ const newsData_en = [
     "time": "2026-07-14T22:45:35.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Supreme Court",
-    "desc": "The Supreme Court questioned English's indigenous status while refusing to halt the CBSE's three-language scheme. This policy aims to promote Hindi and regional languages, aligning with constitutional goals. Petitioners argued against the scheme due to teacher and infrastructure challenges. They also noted limited availability of books on the NCERT website. The Centre and CBSE will file their responses within ten days.",
-    "img": "https://static.toiimg.com/photo/msid-132405679,imgsize-96513.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/need-to-relook-if-english-can-be-considered-an-indigenous-language-supreme-court/articleshow/132403250.cms",
-    "time": "2026-07-14T22:40:22.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Yamal shines as Spain outclass Mbappe’s France to reach their second World Cup final",
     "desc": "Spain stormed into their first World Cup final since 2010 with a clinical 2-0 victory over top-ranked France. A first-half penalty from Mikel Oyarzabal, sparked by a smart play from teenage prodigy Lamine Yamal, and a second-half strike by Pedro Porro sealed the win. La Roja will face either Argentina or England in Sunday’s grand finale.",
@@ -700,60 +745,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/spain-vs-france-fifa-world-cup-sf-match-result-lamine-yamal-shines-as-spain-outclass-mbappes-france-to-reach-second-wc-final/articleshow/132401032.cms",
     "time": "2026-07-14T21:37:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "US eases Russia sanctions bill, cuts tariff threat on India and China from 500% to 100%",
-    "desc": "US senators unveiled a revised Russia sanctions bill targeting major energy buyers. This legislation seeks to pressure Moscow and its key oil and gas importers. The updated bill reduces previously proposed tariffs on top purchasers like China and India. It also targets Russia's shadow fleet and financial institutions involved in its war. This measure aims to secure broader political support and honor Senator Lindsey Graham's legacy.",
-    "img": "https://static.toiimg.com/photo/msid-132400877,imgsize-141970.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/us-eases-russia-sanctions-bill-cuts-tariff-threat-on-india-and-china-from-500-to-100/articleshow/132400873.cms",
-    "time": "2026-07-14T20:29:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Can’t English be considered an indigenous Indian language, asks Supreme Court",
-    "desc": "SC questions the use of the colonially loaded term ‘native’ in CBSE circular, says the push for three-language scheme may be in the spirit of the Constitutional goal to use Indian languages for official purposes",
-    "img": "https://th-i.thgim.com/public/incoming/u3piod/article71220169.ece/alternates/LANDSCAPE_1200/Supreme%20Court%20%204.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/cant-english-be-considered-an-indigenous-indian-language-asks-sc/article71221705.ece",
-    "time": "2026-07-14T19:30:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Migrant worker from Bihar dies in boiler explosion at factory in Gummidipoondi",
-    "desc": "Three workers were grievously injured and six others suffered minor burns. They have been admitted to several government and private hospitals. The police have registered a case on a complaint from the workers. The supervisor of the recycling unit has been named as an accused in the FIR",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/jd9n80/article71220281.ece/alternates/LANDSCAPE_1200/Gummidipoondi%20blast.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/chennai/migrant-worker-from-bihar-dies-in-furnace-explosion-at-gummidipoondi-copper-recycling-unit/article71220002.ece",
-    "time": "2026-07-14T19:07:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Karnataka Governor seeks authenticated English translations in Zameer prosecution file",
-    "desc": "Governor Thaawarchand Gehlot has sought English translations and authenticated copies of documents submitted by the Lokayukta Police while seeking sanction to prosecute former Minister and senior Congress leader B.Z. Zameer Ahmed Khan in a disproportionate assets case",
-    "img": "https://th-i.thgim.com/public/incoming/y41v52/article71222916.ece/alternates/LANDSCAPE_1200/Thawarchand-GehG8CG7Q389.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-governor-seeks-authenticated-english-translations-in-zameer-prosecution-file/article71222214.ece",
-    "time": "2026-07-14T19:05:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Karnataka High Court defers hearing on KPSC chief’s suspension, seeks clarity on Governor’s power",
-    "desc": "The High Court of Karnataka adjourned till July 15 further hearing on a petition by Shivashankarappa S. Sahukar challenging the legality of the Governor’s order of suspending him as chairperson of the Karnataka Public Service Commission on allegation of misbehaviour",
-    "img": "https://th-i.thgim.com/public/incoming/z8o6bl/article71222912.ece/alternates/LANDSCAPE_1200/Karnataka-HC-slGRFG8DTRP.1.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-defers-hearing-on-kpsc-chiefs-suspension-seeks-clarity-on-governors-power/article71221710.ece",
-    "time": "2026-07-14T19:03:26.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India Post crosses Rs 4,000 crore quarterly revenue for first time; Q1 turnover jumps 22%",
-    "desc": "India Post achieved its highest-ever first-quarter revenue of Rs 4,008 crore. This revenue marks a significant 22.2 percent increase from the previous year. The parcel and mail segments showed substantial revenue growth during this period. Citizen-centric services also experienced an impressive 86 percent jump in revenue. Several postal circles demonstrated strong performance across various business verticals.",
-    "img": "https://static.toiimg.com/photo/msid-132400022,imgsize-460973.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-post-crosses-rs-4000-crore-quarterly-revenue-for-first-time-q1-turnover-jumps-22/articleshow/132399702.cms",
-    "time": "2026-07-14T18:40:50.000Z"
   },
   {
     "cat": "World",
@@ -774,24 +765,6 @@ const newsData_en = [
     "time": "2026-07-14T18:23:11.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Trump admin’s Section 301 probe: Why India’s ban on import of goods produced through use of forced labour is important",
-    "desc": "The move comes against the backdrop of a US investigation into forced labour practices across 60 economies, including India. The notification said the new provisions will take effect after the completion of 30 days from the date of their publication in the Official Gazette.",
-    "img": "https://static.toiimg.com/photo/msid-132396075,imgsize-548785.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/trump-admins-section-301-probe-why-indias-ban-on-import-of-goods-produced-through-use-of-forced-labour-is-important/articleshow/132395962.cms",
-    "time": "2026-07-14T16:06:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How close the FIFA semi-finals will be?",
-    "desc": "The teams with the top four rankings prior to the World Cup has entered the semi-finals. Analysis shows the differents paths they have taken, a nuanced look into their relative strengths and how close the two matches could be",
-    "img": "https://th-i.thgim.com/public/incoming/9cma8e/article71222194.ece/alternates/LANDSCAPE_1200/2026-07-14T013217Z_339849387_UP1EM7E049RYY_RTRMADP_3_SOCCER-WORLDCUP-FRA-ESP-FANS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/data/how-close-the-fifa-semi-finals-will-be/article71222058.ece",
-    "time": "2026-07-14T16:00:07.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Stage set for an intriguing battle between England and Argentina",
     "desc": "The bitter rivalry has been forged not simply by memorable matches but by war, controversy and some of the defining moments in the history of the showpiece; the two teams have shown plenty of character and resilience to make it to the semifinals",
@@ -799,15 +772,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-stage-set-for-an-intriguing-battle-between-england-and-argentina/article71221250.ece",
     "time": "2026-07-14T13:12:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "This artist is documenting Bengaluru’s mango season in the face of climate change and ecological loss",
-    "desc": "Using ASCII typographic symbols and 3D scans, Shruti Nagaraj’s project Maavu maps the cycle of growth, consumption, and decay of mango varieties. The project was showcased in Saatchi Gallery in London and there are plans to come to India soon",
-    "img": "https://th-i.thgim.com/public/food/lp91os/article71216559.ece/alternates/LANDSCAPE_1200/Screenshot%202026-07-13%20135640.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/food/features/this-artist-is-documenting-bengalurus-mango-season-in-the-face-of-climate-change-and-ecological-loss/article71216505.ece",
-    "time": "2026-07-14T13:09:48.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +862,41 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/eng-vs-ind-1st-odi-preview-compartmentalisation-the-key-as-england-and-india-put-on-odi-boots/article71217624.ece",
     "time": "2026-07-14T06:15:18.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. to block citizens in Congo from immediate travel home, citing Ebola",
+    "desc": "Earlier on July 13, U.S. Secretary of Health and Human Services Robert F. Kennedy Jr. signed an order citing increased Ebola risks, including the spread of the virus to just hours outside of Congo’s capital, Kinshasa",
+    "img": "https://th-i.thgim.com/public/incoming/980io8/article71219892.ece/alternates/LANDSCAPE_1200/Congo-Ebola-U.S._Citizen_55775.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-to-blockcitizens-in-congo-from-immediate-travel-home-citing-ebola/article71219847.ece",
+    "time": "2026-07-14T05:32:54.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "How people’s genes are revealing why some languages are so unique",
+    "desc": "A new study measured how different neighbouring languages were from one another. The authors say that linguistic hotspots may offer glimpses into how human languages became more varied before large migrations and population movements reshaped much of the world",
+    "img": "https://th-i.thgim.com/public/news/b6r7ed/article71218689.ece/alternates/LANDSCAPE_1200/iStock-2236164423.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/science/how-genetic-history-reveals-why-some-languages-are-so-unique/article71217585.ece",
+    "time": "2026-07-14T05:17:31.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Can biogas aid India’s energy security?",
+    "desc": "India, which imports nearly 85% of its crude oil needs, remains vulnerable to global energy shocks. Over the years, it has pushed several initiatives to promote compressed biogas. Despite these efforts, progress has been limited; government support and incentives could provide a boost to the sector",
+    "img": "https://th-i.thgim.com/public/incoming/wjel9u/article71218716.ece/alternates/LANDSCAPE_1200/DSC_9858.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/can-biogas-aid-indias-energy-security/article71218703.ece",
+    "time": "2026-07-14T05:16:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "The big blot on the beautiful game",
+    "desc": "From Pele and Eusebio to Mbappe and Vini Jr., artists of the game have had to listen to chants on their skin colour instead of their footwork at least once in their career, which is one more than the preferable number",
+    "img": "https://th-i.thgim.com/public/incoming/tnmhm/article71219763.ece/alternates/LANDSCAPE_1200/2026-07-13T195041Z_545181821_UP1EM7D1J4GWR_RTRMADP_3_SOCCER-WORLDCUP-FRA-ESP-PREVIEW.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/the-big-blot-on-the-beautiful-game-on-racism-in-football/article71219768.ece",
+    "time": "2026-07-14T03:23:20.000Z"
   }
 ];

@@ -1,12 +1,48 @@
 const newsData_gu = [
   {
-    "cat": "Sports",
-    "title": "ફ્રાન્સનું સ્વપ્ન ચકનાચૂર... પણ ગોલ્ડન બૂટની રેસમાં હજી છે એમબાપ્પે, કેમ તેને વધુ એક મેચ રમવાની મળી તક ?",
-    "desc": "ફ્રાન્સનું ત્રીજી વખત ટાઇટલ જીતવાનું સ્વપ્ન ચકનાચૂર થઈ ગયું છે, પરંતુ એમબાપ્પે પાસે હજુ પણ ગોલ્ડન બૂટ જીતવાની સુવર્ણ તક છે. હકીકતમાં, ફ્રાન્સ આ વર્લ્ડ કપમાં બીજી મેચ રમશે, અને જો એમબાપ્પે પોતાના ગોલ ટેલીમાં વધારો કરે છે, તો તે 2026માં પણ ગોલ્ડન બૂટ જીતી શકે છે.",
+    "cat": "Politics",
+    "title": "અંતિમ વિદાય : શ્રી નંદ કિશોર ગોયન્કાજીને અપાઈ મુખાગ્નિ, અગ્રોહા ધામમાં ભારે ભીડ, પંચતત્વમાં થયા વિલિન",
+    "desc": "Essel Groupના ચેરમેન ડૉ. સુભાષ ચંદ્રાના પિતા અને અગ્રોહા ધામના પ્રમુખ સ્થાપક શ્રી નંદ કિશોર ગોયન્કાજીના પાર્થિવ દેહને અંતિમ સંસ્કાર માટે હિસારના ઐતિહાસિક 'અગ્રોહા ધામ' લઈ જવાયા. મુંબઈથી વિમાન માર્ગે એમના પાર્થિવ દેહને હિસાર લવાયા બાદથી જ તેમના અંતિમ દર્શન માટે લોકોનો પ્રવાહ શરૂ થયો હતો અને અત્યારે અંતિમ યાત્રામાં હજારો લોકો જોડાયા.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/frances-dream-shattered-but-mbappe-is-still-in-the-race-for-the-golden-boot-why-did-he-get-the-chance-to-play-one-more-match-484650 ",
-    "time": "2026-07-15T04:35:05.000Z"
+    "url": " http://zeenews.india.com/gujarati/india/shri-nand-kishore-goenkajis-last-rites-today-agroha-dham-hisar-haryana-484667 ",
+    "time": "2026-07-15T07:58:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "E20 પેટ્રોલ પર ગડકરીનો સ્પષ્ટ સંદેશ! પસંદ ન હોય તો 100% પેટ્રોલ લઈ શકો, પણ વધુ ખર્ચ કરવો પડશે",
+    "desc": "E20 પેટ્રોલ એટલે કે 20 ટકા ઈથેનોલ બ્લેન્ડેડ ફ્યૂલ અંગે સોશિયલ મીડિયા પર અલગ અલગ દાવા થઈ રહ્યા છે. આ બધા વચ્ચે કેન્દ્રીય મંત્રી નીતિન ગડકરએ જણાવ્યું કે જે લોકોને 100 ટકા પેટ્રોલ જોઈતું હોય તેઓ વધુ પૈસા ચૂકવીને ખરીદી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/nitin-gadkari-speaks-on-e20-petrol-know-what-did-he-say-484664 ",
+    "time": "2026-07-15T07:28:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "આજે વર્લ્ડ કપમાં મહામુકાબલો! મેસીની આર્જેન્ટિના સામે કેનની ઇંગ્લેન્ડની પરીક્ષા, જાણો કોનું પલડું ભારે",
+    "desc": "ફૂટબોલ વર્લ્ડ કપ તેના અંતિમ તબક્કામાં છે. સ્પેને 2022ના ફાઇનલિસ્ટ ફ્રાન્સને પ્રથમ સેમિફાઇનલમાં હરાવ્યું હતું. હવે, આર્જેન્ટિના અને ઇંગ્લેન્ડ બીજા મોટા યુદ્ધમાં આમને-સામને થવા માટે તૈયાર છે. બધાની નજર મહાકાવ્ય યુદ્ધમાં લિયોનેલ મેસ્સી અને હેરી કેન વચ્ચેના મુકાબલા પર રહેશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/today-big-match-in-the-world-cup-kane-england-test-against-messi-argentina-know-whose-side-is-stronger-484662 ",
+    "time": "2026-07-15T06:58:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "સોશિયલ મીડિયા આ Horror ફિલ્મ છે ચર્ચામાં, હોટસ્ટાર પર સૌથી વધુ લોકો જોઈ રહ્યા છે આ ડરામણી ફિલ્મ",
+    "desc": "અત્યારે સોશિયલ મીડિયા પર એક હોરર ફિલ્મની ચર્ચા સતત થઈ રહી છે. આ ફિલ્મ જિયો હોટસ્ટાર પર ટ્રેંડ કરી રહી છે. આ ફિલ્મ વિશે એવું કહેવાય રહ્યું છે કે ફિલ્મનો એન્ડ એવો છે જેને જોઈને તમારું મગજ કામ કરતું બંધ થઈ જશે. તો ચાલો તમને પણ આ ફિલ્મ વિશે જણાવીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/jiohotstar-trending-horror-movie-isha-in-hindi-isha-movie-ending-484659 ",
+    "time": "2026-07-15T06:28:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ફૂટબોલ વર્લ્ડ કપમાં હાર બાદ ફ્રાન્સમાં હિંસા, રસ્તાઓ પર આગજની અને તોડફોડ",
+    "desc": "2026ના ફૂટબોલ વર્લ્ડ કપમાં સ્પેન સામે ફ્રેન્ચ ટીમનો એકતરફી પરાજય થયો હતો. ટીમના ચાહકો આ પરાજય સહન કરી શક્યા નહીં અને ફ્રાન્સમાં અશાંતિ ફેલાઈ ગઈ. ચાહકોના ટોળા રસ્તા પર ઉતરી આવ્યા અને અનેક જગ્યાએ ગાડીઓને આગ ચાંપી દીધી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/violence-arson-and-vandalism-on-the-streets-in-france-after-defeat-in-the-football-world-cup-484657 ",
+    "time": "2026-07-15T06:11:54.000Z"
   },
   {
     "cat": "Sports",
@@ -15,7 +51,25 @@ const newsData_gu = [
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/football-world-cup-2026-spain-beats-france-these-3-players-are-heroes-of-the-victory-484642 ",
-    "time": "2026-07-15T03:48:27.000Z"
+    "time": "2026-07-15T05:39:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "મોટી રાહતના સમાચાર! આજથી બિસ્કિટ, સ્કૉચ, કોસ્મેટિક્સ અને કારો સહિત અનેક વસ્તુઓ થશે સસ્તી",
+    "desc": "ભારત અને યુકે વચ્ચે ફ્રી ટ્રેડ એગ્રીમેન્ટનો સૌથી મોટો ફાયદો ભારતના એક્સપોર્ટ સેક્ટરને મળવાનો છે. ભારત હવે પોતાના લગભગ 99 ટકા સામાનને યુકેમાં કોઈ પણ ઈમ્પોર્ટ ટેક્સ વગર મોકલી શકશે. એ પણ જાણો કે આજથી કઈ કઈ વસ્તુઓ ભારતમાં સસ્તી મળશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/big-news-india-uk-trade-deal-in-effect-what-will-be-cheaper-and-which-sectors-gain-the-most-484654 ",
+    "time": "2026-07-15T05:36:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ફ્રાન્સનું સ્વપ્ન ચકનાચૂર... પણ ગોલ્ડન બૂટની રેસમાં હજી છે એમબાપ્પે, કેમ તેને વધુ એક મેચ રમવાની મળી તક ?",
+    "desc": "ફ્રાન્સનું ત્રીજી વખત ટાઇટલ જીતવાનું સ્વપ્ન ચકનાચૂર થઈ ગયું છે, પરંતુ એમબાપ્પે પાસે હજુ પણ ગોલ્ડન બૂટ જીતવાની સુવર્ણ તક છે. હકીકતમાં, ફ્રાન્સ આ વર્લ્ડ કપમાં બીજી મેચ રમશે, અને જો એમબાપ્પે પોતાના ગોલ ટેલીમાં વધારો કરે છે, તો તે 2026માં પણ ગોલ્ડન બૂટ જીતી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/frances-dream-shattered-but-mbappe-is-still-in-the-race-for-the-golden-boot-why-did-he-get-the-chance-to-play-one-more-match-484650 ",
+    "time": "2026-07-15T04:35:05.000Z"
   },
   {
     "cat": "Business",
@@ -306,24 +360,6 @@ const newsData_gu = [
     "time": "2026-07-13T11:25:56.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "કોણ જીતશે ફુટબોલ વર્લ્ડ કપ 2026ની ટ્રોફી? સેમિફાઇનલ પહેલાં જ થઈ ગઈ મોટી ભવિષ્યવાણી!",
-    "desc": "ફુટબોલ વિશ્વકપ હવે પોતાના અંતિમ તબક્કામાં પહોંચી ગયો છે. હવે સેમીફાઈનલના જંગની તૈયારી ચાલી રહી છે. પ્રથમ સેમીફાઈનલમાં સ્પેનની ટક્કર ફ્રાન્સ સામે થશે જ્યારે બીજા સેમીફાઈનલમાં આર્જેન્ટીનાની સામે ઈંગ્લેન્ડ છે. આ વચ્ચે ટ્રોફી કોણ જીતશે તેના વિશે ભવિષ્યવાણી કરવામાં આવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/who-will-win-the-fifa-world-cup-2026-trophy-a-major-prediction-made-before-the-semifinals-484491 ",
-    "time": "2026-07-13T11:22:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ઓસ્ટ્રેલિયન ક્રિકેટમાં ભૂકંપ! મહિલા ક્રિકેટર એશ્લે ગાર્ડનર પર પત્નીએ લગાવ્યા બેવફાઈના આરોપ",
-    "desc": "ઓસ્ટ્રેલિયન મહિલા ક્રિકેટર એશ્લે ગાર્ડનર તેની પર્સનલ લાઈફને લઈને વિવાદોમાં આવી છે. એશ્લે ગાર્ડનર પર તેની પત્ની મોનિકા રાઈટ દ્વારા બેવફાઈના આરોપ લગાવવામાં આવ્યા છે. તો એક રિપોર્ટમાં એવો પણ દાવો કરવામાં આવ્યો છે કે બંને અલગ થઈ ગયા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/australian-cricketer-ashley-gardner-accused-of-cheating-by-her-wife-monica-wright-484482 ",
-    "time": "2026-07-13T10:45:17.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "13 દિવસમાં બદલાયો મોસમનો મિજાજ: સેટેલાઇટ તસવીરોએ ખોલ્યું ચોમાસું અચાનક &amp;#039;ગાયબ&amp;#039; થવાનું રહસ્ય!",
     "desc": "જુલાઈની શરૂઆતમાં સારા વરસાદ બાદ ચોમાસું અચાનક ગાયબ થઈ ગયું છે અને ઉત્તર-મધ્ય ભારતમાં ફરી ગરમી પડી રહી છે. INSAT-3DS સેટેલાઈટની ચોંકાવનારી તસવીરોએ આ ચોમાસાના વિરામ પર મોટું રહસ્ય ખોલ્યું છે. જાણો આખરે દેશના આકાશમાંથી વાદળો ક્યાં ગાયહ થઈ ગયા!",
@@ -349,15 +385,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/if-you-dont-pay-loan-emi-the-bank-can-block-your-mobile-number-know-what-rbi-rules-say-484477 ",
     "time": "2026-07-13T09:55:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "96 વર્ષ પહેલાં આજના દિવસે જ શરૂ થયો હતો ફૂટબોલ વર્લ્ડ કપ... જાણો ફાઇનલ બે અલગ અલગ બોલથી કેમ રમાઈ હતી",
-    "desc": "ફૂટબોલ વર્લ્ડ કપ 2026નો ઉત્સાહ ચરમસીમાએ પહોંચી ગયો છે. સેમિફાઇનલમાં સ્થાન મેળવનાર ચાર ટીમો ટાઇટલની લડાઈ માટે તૈયાર છે. સેમિફાઇનલ મેચ 15 જુલાઈ (ભારતમાં 16 જુલાઈ)થી શરૂ થશે. ત્યારે આ લેખમાં ફૂટબોલ વર્લ્ડ કપની શરૂઆત વિશે કેટલીક રસપ્રદ વાતો જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/96-years-ago-today-the-inaugural-football-world-cup-kicked-off-484470 ",
-    "time": "2026-07-13T09:52:17.000Z"
   },
   {
     "cat": "Politics",
@@ -475,15 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/what-is-this-destructive-law-of-china-will-a-big-crisis-befall-chinese-citizens-around-the-world-know-484403 ",
     "time": "2026-07-12T15:25:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "5,00,00,000 જિંદગીઓ પર મંડરાયું મહાસંકટ! ભારત અને બાંગ્લાદેશના કેટલાય રાજ્યો પર મોટું જોખમ, વૈજ્ઞાનિકો આપી ચેતવણી",
-    "desc": "વૈજ્ઞાનિકોએ ભારતને એક ચેતવણી આપી છે કે જો સમય રહેતા કંઈ કરવામાં નહીં આવે તો 5 કરોડથી વધુ લોકોની જિંદગી દાવ પર લાગી જશે. ઉત્તર-પૂર્વ ભારતના 8 રાજ્યોનું અસ્તિત્વ ખતમ થઈ જશે, કારણ કે તેમના ડૂબવાનું જોખમ ઊભું થયું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/major-crisis-looms-over-50000000-lives-scientists-warn-of-a-major-threat-to-several-states-in-india-and-bangladesh-484386 ",
-    "time": "2026-07-12T13:16:34.000Z"
   },
   {
     "cat": "Entertainment",
@@ -691,14 +709,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/ott-release-this-week-zee5-netflix-prime-video-new-hindi-movies-on-ott-484047 ",
     "time": "2026-07-09T06:49:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "દરેક એપિસોડમાં સસ્પેન્સ અને ટ્વિસ્ટના ડબલ ડોઝ, આ સીરીઝ જોતી વખતે તમારું મગજ પણ ચકરાવે ચઢી જશે",
-    "desc": "ઓટીટી પર એવી ઘણી વેબ સીરીઝ હોય છે જે લોકોની નજરથી છુપાયેલી હોય છે. આવી જ એક વેબ સીરીઝ છે રવિ દુબે અને રવિ કિશનની. આ વેબ સીરીઝના કુલ 11 એપિસોડ છે અને દરેક એપિસોડ તમારું મગજ દોડતું કરી દે તેવા છે. આ વેબ સીરીઝ તમે જોઈ નથી તો આજે જ જોવાનું શરુ કરો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/must-watch-web-crime-thriller-web-series-matsya-kaand-on-ott-483985 ",
-    "time": "2026-07-08T12:37:04.000Z"
   }
 ];
