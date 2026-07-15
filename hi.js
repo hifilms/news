@@ -1,7 +1,16 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Action begins in Atlanta, both teams try to control midfield",
+    "title": "England surrender to Argentina's juggernaut, as Lionel Messi set for another FIFA World Cup final",
+    "desc": "Argentina will defend their FIFA World Cup crown after producing a dramatic late comeback to defeat England 2-1 in the 2026 semi-final at Atlanta Stadium. Lionel Scaloni's side overturned a one-goal deficit in the closing...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/england-surrender-to-argentina-s-juggernaut-as-lionel-messi-set-for-another-fifa-world-cup-final-2026-07-16-1048378",
+    "time": "2026-07-15T21:25:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Argentina beat England 2-1, Lionel Messi to play another final",
     "desc": "England take on Argentina in a high-stakes FIFA World Cup 2026 semi-final at the Atlanta Stadium in Georgia. The high-voltage affair will bring together two nations with a deep World Cup history as they compete...",
     "img": "",
     "src": "indiatvnews.com",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/kylian-mbappe-stays-on-top-in-race-for-golden-boot-despite-frances-heartbreaking-world-cup-exit-2026-07-15-1048348",
     "time": "2026-07-15T13:15:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India and Pakistan can meet each other three times in ODI World Cup 2027; here's how",
-    "desc": "Two Asian powerhouses and two fierce rivals, India and Pakistan, might be facing each other as many as three times in the upcoming ODI World Cup 2027. This comes after the International Cricket Council (ICC)...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-pakistan-can-meet-each-other-three-times-in-odi-world-cup-2027-heres-how-2026-07-15-1048342",
-    "time": "2026-07-15T12:13:14.000Z"
   }
 ];

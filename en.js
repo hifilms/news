@@ -1,6 +1,87 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Man charged with murder after Indian woman stabbed to death at home in London",
+    "desc": "A 24-year-old Indian woman was fatally stabbed at her London home. A man has been charged with murder and attempted murder in connection with the incident. The victim's family alleges the attack was racially motivated and seeks government assistance. They had sold land to fund her education and future aspirations in the UK. British Sikh groups express concern over rising race-based attacks targeting vulnerable individuals.",
+    "img": "https://static.toiimg.com/photo/msid-132424829,imgsize-26094.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/uk-man-charged-with-murder-after-indian-woman-stabbed-to-death-at-home-in-london/articleshow/132424834.cms",
+    "time": "2026-07-15T20:28:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "In mourning, CM Omar Adhullah says Delhi protest is on",
+    "desc": "J&K CM Omar Abdullah confirmed the July 20 Delhi protest for statehood restoration. His party will travel to Delhi on July 19 to decide the next steps. National Conference invited 52 political figures for the planned federalism cause protest. Congress supports statehood plus, demanding land and job rights for the people. PDP has not yet clarified its stance on the National Conference invitation.",
+    "img": "https://static.toiimg.com/photo/msid-132424811,imgsize-105264.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-in-mourning-cm-omar-adhullah-says-delhi-protest-is-on/articleshow/132424805.cms",
+    "time": "2026-07-15T20:23:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ED files PMLA complaint in alleged visa fraud racket",
+    "desc": "The ED’s probe is based on multiple FIRs alleging conspiracy in the preparation of forged educational certificates, fabricated experience certificates, fake financial statements, and fraudulent proof of funds for securing U.S. student and visitor visas",
+    "img": "https://th-i.thgim.com/public/incoming/v5uqln/article71226233.ece/alternates/LANDSCAPE_1200/2026-06-24T120824Z_1104189753_RC2WK6A9Z579_RTRMADP_3_INDIA-RAJESH-EXPO.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/ed-files-pmla-complaint-in-alleged-visa-fraud-racket/article71225587.ece",
+    "time": "2026-07-15T20:17:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Hurriyat Conference chairman Mirwaiz urges restraint as PoK unrest leaves 9 dead",
+    "desc": "Mirwaiz Umar Farooq urged Pakistan to defuse unrest in PoK through dialogue. He expressed anguish over civilian and police deaths in continuing unrest. Violence centers on a dispute over reserved seats for Kashmiri refugees in the assembly. Protesters want these seats scrapped, which Pakistan-based parties use for influence. Elections are scheduled for July 27, with a court ruling upholding the seats.",
+    "img": "https://static.toiimg.com/photo/msid-132424785,imgsize-112598.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/hurriyat-conference-chairman-mirwaiz-urges-restraint-as-pok-unrest-leaves-9-dead/articleshow/132424777.cms",
+    "time": "2026-07-15T20:11:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Pika gun ammo seized from hideout in Poonch; combing operation continues in neighbouring Rajouri",
+    "desc": "Security forces recovered 215 rounds of Pika gun ammunition from a terrorist hideout in Poonch. A search operation in Rajouri continued for a second day to trace two terror suspects. These suspects were captured on CCTV cameras crossing a road late Sunday. Joint operations are ongoing in forested areas of Rajouri and Poonch districts. These extensive combing operations aim to track down elusive militant groups.",
+    "img": "https://static.toiimg.com/photo/msid-132424770,imgsize-267252.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-pika-gun-ammo-seized-from-hideout-in-poonch-combing-operation-continues-in-neighbouring-rajouri/articleshow/132424765.cms",
+    "time": "2026-07-15T20:06:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Madras High Court nullifies registration of land belonging to Palani math",
+    "desc": "A Division Bench of Justices C.V. Karthikeyan and R. Sakthivel allowed the appeal preferred by the mutt against a Single Bench order that had directed the Sub-Registrar to register the sale deed if the document was otherwise in order",
+    "img": "https://th-i.thgim.com/public/incoming/nvanmt/article71227310.ece/alternates/LANDSCAPE_1200/10216_9_4_2026_14_2_5_2_09_04_2026_PALANI_1.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/hc-nullifies-registration-of-land-belonging-to-palani-math/article71226732.ece",
+    "time": "2026-07-15T19:57:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Departement of space moves to stem exodus from key Isro missions; at least 100 quit in past few months: Sources",
+    "desc": "Isro's Department of Space has introduced new rules for scientist resignations. These new regulations aim to prevent departures from key projects like Gaganyaan. The department now requires central directors to refer all such requests to DoS. This move reverses a 2020 decision that empowered centre directors to accept resignations. Isro acknowledges departures but states it is prepared to manage the situation.",
+    "img": "https://static.toiimg.com/photo/msid-132424514,imgsize-233982.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/departement-of-space-moves-to-stem-exodus-from-key-isro-missions-at-least-100-quit-in-past-few-months-sources/articleshow/132424302.cms",
+    "time": "2026-07-15T19:34:15.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India exports $140 million worth of goods to UK at zero duty on Day 1 of trade pact implementation",
+    "desc": "India exported over $140 million in goods duty-free to the UK on Wednesday. More than fifty export consignments were flagged off from over twenty locations. These shipments included electronics, pharmaceuticals, and textiles, reaching various global gateways. The Comprehensive Economic and Trade Agreement grants Indian exports nearly ninety-nine percent duty-free access. This landmark pact is expected to significantly increase bilateral trade between the two nations.",
+    "img": "https://static.toiimg.com/photo/msid-132424417,imgsize-457585.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-exports-140-million-worth-of-goods-to-uk-at-zero-duty-on-day-1-of-trade-pact-implementation/articleshow/132424371.cms",
+    "time": "2026-07-15T19:23:11.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "UK backs India’s security concerns, says trade deal based on trust",
+    "desc": "The India-UK trade deal commenced, reflecting significant trust and cooperation between nations. This agreement is expected to boost both economies and enhance bilateral trade relations. Discussions also addressed national security and the extradition of financial fugitives. The pact aims to strengthen ties in defense, technology, and climate initiatives. Both countries anticipate increased GDP and financial trade following this landmark agreement.",
+    "img": "https://static.toiimg.com/photo/msid-132424265,imgsize-289240.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/uk-backs-indias-security-concerns-says-trade-deal-based-on-trust/articleshow/132424232.cms",
+    "time": "2026-07-15T19:08:29.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Amit Shah, Nitin Nabin among BJP top brass meet at PM Modi's residence",
     "desc": "Top BJP leaders met at Prime Minister Narendra Modi's residence on Wednesday. This meeting occurred just before the Parliament's upcoming session begins next week. The gathering included Home Minister Amit Shah and party president Nitin Nabin. Speculation is rife about potential reshuffles in the national office bearers team and Union cabinet. An NDA constituents meeting is also likely on July 21 to discuss floor strategy.",
     "img": "https://static.toiimg.com/photo/msid-132424006,imgsize-61150.cms",
@@ -16,6 +97,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/it-wasnt-racism-egypt-boss-finally-breaks-silence-on-viral-x-gesture-and-claims-messi-was-left-in-tears/articleshow/132420683.cms",
     "time": "2026-07-15T18:36:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Farmers stage motorcycle rally to protest against proposed India-U.S. trade deal",
+    "desc": "Farmers behind the ‘Desh Bachao Morcha’ urge the Central government to ‘prioritise the interests of farmers, workers, small traders, small industries and India’s economic and food sovereignty, and refrain from implementing any agreement that goes against the interests of the people’",
+    "img": "https://th-i.thgim.com/public/incoming/jc6zbi/article71227103.ece/alternates/LANDSCAPE_1200/PTI07_15_2026_000218B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/punjab/farmers-stage-motorcycle-rally-to-protest-against-proposed-india-us-trade-deal/article71225449.ece",
+    "time": "2026-07-15T18:23:23.000Z"
   },
   {
     "cat": "Politics",
@@ -81,33 +171,6 @@ const newsData_en = [
     "time": "2026-07-15T17:00:50.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Bengaluru City Police Commissionerate to be split into multiple units?",
-    "desc": "While all other major city regions in India — Delhi, Mumbai, Kolkata, Hyderabad and Chennai — have multiple commissionerates, Bengaluru remains the only one where a large commissionerate, including suburban areas, is surrounded by rural district police units.",
-    "img": "https://th-i.thgim.com/public/incoming/7c9a1w/article71221527.ece/alternates/LANDSCAPE_1200/DSC_8655.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-city-police-commissionerate-to-be-split-into-multiple-units/article71220870.ece",
-    "time": "2026-07-15T16:49:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Two held for disrupting SC hearing with abuse and scattering papers; sent to 14-day judicial custody",
-    "desc": "According to police, the incident occurred during the hearing of Special Leave Petition (Civil), Prabal Pratap and Another vs State of Uttar Pradesh through Commissioner inside Court No. 13 of the apex court on July 10",
-    "img": "https://th-i.thgim.com/public/incoming/gnd5tb/article71224284.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiGR7FV5KAC.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/two-law-students-arrested-for-hurling-abuses-in-supreme-court-disrupting-proceedings/article71224251.ece",
-    "time": "2026-07-15T16:49:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Meeting parliamentary panel, Ladakh villagers raise denial of access to grazing grounds after 2020 border clash with China",
-    "desc": "A delegation of villagers living along the LAC in Ladakh tells the Parliamentary Standing Committee on Tourism, Transport and Culture that the continued presence of local communities in these frontier regions contributes significantly to national security",
-    "img": "https://th-i.thgim.com/public/news/national/tauqdr/article71226791.ece/alternates/LANDSCAPE_1200/7b656b8d-833b-451d-ba0d-dede23d337dd.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/meeting-parliamentary-panel-ladakh-villagers-raise-denial-of-access-to-grazing-grounds-after-2020-border-clash-with-china/article71226762.ece",
-    "time": "2026-07-15T16:49:11.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Salman Khan was the first to sense Sonakshi Sinha and Zaheer Iqbal’s romance",
     "desc": "During their appearance on Neha Dhupia's talk show, Sonakshi Sinha and Zaheer Iqbal revealed that it was Salman Khan who initially recognized their romantic connection. Predicting the couple's eventual split, Salman offered them encouragement and made his awareness known during a trekking adventure, showcasing his instinctive understanding of their relationship dynamics long before they went public.",
@@ -115,15 +178,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dikh-raha-hai-sab-salman-khan-was-the-first-to-sense-sonakshi-sinha-and-zaheer-iqbals-romance-couple-reveals-on-double-date/articleshow/132420160.cms",
     "time": "2026-07-15T16:38:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tata, Singapore’s Changi Airport to invest in Kerala, says Chief Minister Satheesan",
-    "desc": "At the Kerala Samudra Mission 2026 seminar in Thiruvananthapuram, Satheesan announced that the Tata Group is seeking State approval for a ₹10,000 crore investment in shipbuilding. He also revealed Singapore’s Changi Airport’s interest in aviation-related investments in the state.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/tata-changi-airport-to-invest-in-kerala-says-chief-minister-satheesan/article71226626.ece",
-    "time": "2026-07-15T16:32:23.000Z"
   },
   {
     "cat": "Politics",
@@ -142,15 +196,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/sun-pharma-gets-nod-from-south-african-regulator-for-generic-semaglutide-injection/article71226953.ece",
     "time": "2026-07-15T16:26:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Supreme Court raises students’ ‘frustration’ over CBSE OSM glitches with Govt., seeks status report",
-    "desc": "The petition seeks individual responsibility to be fixed for a failure which affected a large number of students in India and abroad; it lists several irregularities 'systematic negligence/failure resulting in a breach of duty of care’",
-    "img": "https://th-i.thgim.com/public/incoming/3rx4bv/article71225355.ece/alternates/LANDSCAPE_1200/TH14-KDR-Three-GDIG8H9I1.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/supreme-court-raises-students-frustration-over-cbse-osm-glitches-with-govt-seeks-status-report/article71224928.ece",
-    "time": "2026-07-15T16:23:38.000Z"
   },
   {
     "cat": "Business",
@@ -423,15 +468,6 @@ const newsData_en = [
     "time": "2026-07-15T12:00:28.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Court allows Umar Khalid 2 family video meetings every week",
-    "desc": "A Delhi court has restored activist Umar Khalid's weekly video meetings with his family. Jail authorities had previously reduced these meetings from two to one weekly session. The court found no justification for the reduction in the number of meetings. Khalid remains in jail in connection with the 2020 northeast Delhi riots conspiracy case. This order follows the rejection of his recent bail pleas by a Delhi court.",
-    "img": "https://static.toiimg.com/photo/msid-132415572,imgsize-175237.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/2020-delhi-riots-case-court-allows-umar-khalid-2-family-video-meetings-every-week/articleshow/132415504.cms",
-    "time": "2026-07-15T11:56:57.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Aamir reveals Gauri is Christian, not Hindu amid fatwa and Love Jihad allegations",
     "desc": "Aamir Khan clarified that his wives did not convert to Islam for their marriages. He stated that his marriages were civil, and his current wife is Christian. The actor highlighted his family's religious diversity and interfaith marriages. A religious cleric issued a fatwa against Aamir's third marriage on religious grounds. This fatwa deemed marrying a non-Muslim woman impermissible under his interpretation.",
@@ -502,15 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/two-varanasi-highway-projects-worth-rs-25446-crore-approved-how-they-will-affect-commuters/articleshow/132413307.cms",
     "time": "2026-07-15T11:11:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Big setback for Prashant Kishor, four Jan Suraaj leaders switch to BJP before Bankipur bypoll",
-    "desc": "Several Jan Suraaj leaders joined the Bharatiya Janata Party on Wednesday. This development occurs before the Bankipur Assembly bypoll scheduled for July 30. Prashant Kishor is contesting this election against the BJP candidate Neeraj Kumar Sinha. New entrants expressed their commitment to Prime Minister Modi's leadership and national development. The bypoll was necessitated after Nitin Nabin resigned from the assembly seat.",
-    "img": "https://static.toiimg.com/photo/msid-132414397,imgsize-760215.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/big-setback-for-prashant-kishor-four-jan-suraaj-leaders-switch-to-bjp-before-bankipur-bypoll/articleshow/132414200.cms",
-    "time": "2026-07-15T11:08:49.000Z"
   },
   {
     "cat": "Sports",
@@ -601,15 +628,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/i-wouldve-done-the-same-thomas-tuchel-reacts-to-argentinas-iconic-dark-blue-jersey-choice-for-england-world-cup-semi-final/articleshow/132411998.cms",
     "time": "2026-07-15T09:37:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi HC seeks government's response on plea seeking medical intervention for Sonam Wangchuk",
-    "desc": "The Delhi High Court has sought responses from the Centre and Delhi government regarding a PIL. This plea requests urgent medical intervention for climate activist Sonam Wangchuk, who is on an indefinite hunger strike. The activist-lawyer Rakesh Kumar Saini filed the public interest litigation seeking hospitalisation and supervised treatment. Wangchuk has been fasting since June 28, demanding the Education Minister's resignation over examination irregularities.",
-    "img": "https://static.toiimg.com/photo/msid-132412390,imgsize-1054626.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-hc-seeks-governments-response-on-plea-seeking-medical-intervention-for-sonam-wangchuk-hunger-strike/articleshow/132411970.cms",
-    "time": "2026-07-15T09:37:21.000Z"
   },
   {
     "cat": "Tech",
@@ -754,24 +772,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/children/look-whos-at-the-2026-fifa-world-cup-party/article71160390.ece",
     "time": "2026-07-15T03:59:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "IBM shares tank 26% after initial results disappoint",
-    "desc": "International Business Machines reported disappointing preliminary results on Tuesday. This news caused significant drops in software and IT services company shares. Investors are now concerned about a capital spending pivot impacting the entire industry. Many software stocks experienced notable declines following IBM's announcement. The sector has faced pressure this year amid artificial intelligence proliferation concerns.",
-    "img": "https://static.toiimg.com/photo/msid-132404143,imgsize-406898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/ibm-shares-tank-26-after-initial-results-disappoint/articleshow/132404126.cms",
-    "time": "2026-07-15T02:13:33.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Air transport down 14% in April: ISP data",
-    "desc": "Air transport output contracted nearly fourteen percent in April, reflecting high fuel costs. Railways also saw a slight decline in output during the same month. Fourteen of nineteen services sub-sectors registered double-digit growth, showing overall resilience. Food and accommodation recorded the highest growth, followed by retail trade. Administrative and support services, real estate, and telecom also performed strongly.",
-    "img": "https://static.toiimg.com/photo/msid-132404111,imgsize-153686.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/air-transport-down-14-in-april-isp-data/articleshow/132404071.cms",
-    "time": "2026-07-15T02:10:23.000Z"
   },
   {
     "cat": "Business",
