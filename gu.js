@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "ફ્રાન્સનું સ્વપ્ન ચકનાચૂર... પણ ગોલ્ડન બૂટની રેસમાં હજી છે એમબાપ્પે, કેમ તેને વધુ એક મેચ રમવાની મળી તક ?",
+    "desc": "ફ્રાન્સનું ત્રીજી વખત ટાઇટલ જીતવાનું સ્વપ્ન ચકનાચૂર થઈ ગયું છે, પરંતુ એમબાપ્પે પાસે હજુ પણ ગોલ્ડન બૂટ જીતવાની સુવર્ણ તક છે. હકીકતમાં, ફ્રાન્સ આ વર્લ્ડ કપમાં બીજી મેચ રમશે, અને જો એમબાપ્પે પોતાના ગોલ ટેલીમાં વધારો કરે છે, તો તે 2026માં પણ ગોલ્ડન બૂટ જીતી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/frances-dream-shattered-but-mbappe-is-still-in-the-race-for-the-golden-boot-why-did-he-get-the-chance-to-play-one-more-match-484650 ",
+    "time": "2026-07-15T04:35:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ડિફેન્સમાં દીવાલ, એટેકમાં તોફાન! સ્પેને ફ્રાન્સને આપી ધોબીપછાડ, આ 3 ખેલાડી બન્યા જીતના હીરો",
+    "desc": "ફૂટબોલ વર્લ્ડ કપ 2026ની ક્વાર્ટર ફાઈનલ સુધી તો ફ્રાન્સની ટીમ ખિતાબ જીતવા માટે પ્રબળ દાવેદાર ગણાતી હતી. પરંતુ સ્પેને સેમીફાઈનલમાં પૂરેપૂરી તાકાત વાપરીને ફ્રાન્સને ટુર્નામેન્ટમાંથી જ બહાર કરી નાખ્યું. ટુર્નામેન્ટમાં 8 ગોલ કરનારા સ્ટાર ફ્રેન્ચ ખેલાડી કિલિયન એમ્બાપ્પે આ મેચમાં કશું કરી શક્યા નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/football-world-cup-2026-spain-beats-france-these-3-players-are-heroes-of-the-victory-484642 ",
+    "time": "2026-07-15T03:48:27.000Z"
+  },
+  {
     "cat": "Business",
     "title": "રેલ મુસાફરો માટે મહત્વપૂર્ણ સમાચાર ! 15 જુલાઈથી બદલાઈ જશે IRCTCનું બુકિંગ પોર્ટલ, ટિકિટ બુકિંગનો નવો નિયમ થશે લાગુ",
     "desc": "ડિજિટલ ટિકિટિંગને સુરક્ષિત અને સુવિધાજનક બનાવવા માટે રેલવેએ એક મોટું પગલું ભર્યું છે. તો જનરલ ટિકિટ પર મુસાફરી કરતા મુસાફરો માટેના નિયમોમાં ઘણા ફેરફારો કરવામાં આવ્યા છે. ત્યારે રેલવેમાં થયેલા ફેરફારો પર એક નજર કરીએ.",
@@ -592,15 +610,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/boat-carring-tourists-including-indians-capsized-near-vietnams-phu-quoc-island-484260 ",
     "time": "2026-07-11T11:18:06.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ગ્રે માર્કેટમાં ધુમ મચાવી રહ્યો છે આ કંપનીનો IPO, 162 પર પહોંચ્યો GMP, રોકાણકારો રાજી રાજી",
-    "desc": "NSE આકડા પ્રમાણે 650 કરોડ રૂપિયાના આ IPOમાં 1,14,68,094 શેર સામે 1,47,76,17,435 શેર ખરીદવા માટે અરજી મળી છે અને રોકાણકારો આ IPO પર તૂટી પડ્યા હતા, જેના કારણે ગ્રે માર્કેટમાં પણ આ IPOનો GMP 162 રૂપિયા પર પહોંચી ગયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/this-company-ipo-is-creating-a-buzz-in-the-grey-market-gmp-reached-rs-162-investors-are-happy-484264 ",
-    "time": "2026-07-11T11:12:14.000Z"
   },
   {
     "cat": "World",
