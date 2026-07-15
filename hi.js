@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Argentina out of World Cup' campaign sees over 7 million petitions signed; know reason here",
+    "desc": "Over seven million petitions were reportedly signed to 'kick Argentina out of the World Cup', alleging 'bias' towards La Albiceleste and Lionel Messi in the ongoing tournament. Argentina are set to face England in their...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/argentina-out-of-world-cup-campaign-sees-over-7-million-petitions-signed-know-reason-here-2026-07-15-1048318",
+    "time": "2026-07-15T09:16:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shubman Gill closes in on World No.1 ODI ranking, Axar Patel storms into top 10 after England brilliance",
+    "desc": "India Test and ODI captain Shubman Gill closed in on the World No.1 ODI rankings for batters after making ground on the top-ranked Daryl Mitchell in the latest ICC rankings on Wednesday, July 14. Gill...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-closes-in-on-world-no1-odi-ranking-axar-patel-storms-into-top-10-after-england-brilliance-2026-07-15-1048309",
+    "time": "2026-07-15T08:35:49.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Didier Deschamps criticises referee ruling as France's World Cup dream gets shattered",
     "desc": "French coach Didier Deschamps questioned the refereeing during the FIFA World Cup 2026 semifinal against Spain, as the Les Bleus' run in the tournament came to a heartbreaking end. France were defeated 0-2 at the...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-walks-off-injured-in-first-odi-vs-england-at-edgbaston-what-happened-to-india-captain-2026-07-14-1048250",
     "time": "2026-07-14T16:38:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Where to watch France vs Spain FIFA World Cup 2026 semi-final live on TV and stream online for free?",
-    "desc": "France and Spain will meet in the first semi-final of the FIFA World Cup 2026 in the early hours of Wednesday in Dallas, with a place in Sunday's final on the line after both European...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/where-to-watch-france-vs-spain-fifa-world-cup-2026-semi-final-live-on-tv-and-stream-online-for-free-2026-07-14-1048248",
-    "time": "2026-07-14T16:13:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli, Rohit Sharma flop on ODI return, dismissed in successive overs at Edgbaston",
-    "desc": "Rohit Sharma and Virat Kohli failed to live up to their potential in the first ODI against England at Edgbaston. Chasing 259 runs, they had ample time to build a meaningful innings, but it wasn’t...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-rohit-sharma-flop-on-odi-return-dismissed-in-successive-overs-at-edgbaston-watch-2026-07-14-1048245",
-    "time": "2026-07-14T15:20:52.000Z"
   }
 ];

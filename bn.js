@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "অগ্রোহা ধামে পঞ্চভূতে বিলীন নন্দ কিশোর গোয়েঙ্কা, বাবার স্মৃতিতে ১০০ কোটির বিশ্ববিদ্যালয় গড়ার ঘোষণা ড.সুভাষ চন্দ্রের",
+    "desc": "বাবার আদর্শ ও সমাজসেবামূলক ঐতিহ্যকে চিরজাগ্রত রাখতে গোয়েঙ্কা উদ্যানে দাঁড়িয়ে এক যুগান্তকারী ঘোষণা করলেন ড. সুভাষ চন্দ্র। তিনি জানান, ৪ ভাই মিলে সিদ্ধান্ত নিয়েছেন যে বাবার স্মৃতিতে অগ্রোহা ধামে ৩২ একর জমির ওপর প্রায় ১০০ কোটি টাকা ব্যয়ে গড়ে তোলা হবে \"শ্রী নন্দ কিশোর গোয়েঙ্কা বিশ্ববিদ্যালয়\"।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/subhash-chandra-announces-hundred-crore-nand-kishore-goenka-university-agroha-hisar_662396.html ",
+    "time": "2026-07-15T09:53:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "বুকে বিঁধল গুলি, মৃত্যুর মুখে ক্ষেতমজুর: বাঘেশ্বর বাবার ধাম ঘিরে ভয়ংকর ঘটনা, খুনের চেষ্টার মামলা? তোলপাড় রাজ্য",
+    "desc": "আহত কৃষকের অভিযোগ, শালীগ্রাম প্রায়শই স্থানীয় কৃষকদের জমি বিক্রি করার জন্য চাপ দেন এবং যারা রাজি হন না, তাদের হুমকি ও মারধর করা হয়। এই ঘটনায় শালীগ্রাম গর্গ ছাড়াও সতীশ, আশীষ এবং অন্য এক অজ্ঞাতপরিচয় ব্যক্তির নাম উল্লেখ করা হয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/bageshwar-dham-chief-dhirendra-shastri-brother-charged-for-shooting-at-farmer-over-land-dispute_662389.html ",
+    "time": "2026-07-15T08:38:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "চোখের জলে শেষ বিদায়, নিজের হাতে গড়া 'অগ্রোহা ধামে' পঞ্চভূতে বিলীন সমাজসেবী শ্রী নন্দ কিশোর গোয়েঙ্কা",
+    "desc": "যে 'অগ্রোহা ধাম'-কে তিনি নিজের হাতের স্পর্শে এবং দূরদর্শী ভাবনায় সাজিয়ে তুলেছিলেন, সেই পবিত্র ভূমিতেই পঞ্চভূতে বিলীন হলেন বিশিষ্ট সমাজসেবী ও এসেল গ্রুপের চেয়ারম্যান ড. সুভাষ চন্দ্রার পিতা শ্রদ্ধেয় শ্রী নন্দ কিশোর গোয়েনঙ্কা জী। ৯৬ বছর বয়সে তাঁর প্রয়াণে বৈশ্য সমাজ তথা দেশের সামাজিক ক্ষেত্রে এক অপূরণীয় ক্ষতি হল।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/nand-kishore-goenka-passes-away-last-rites-at-agroha-dham-hisar_662388.html ",
+    "time": "2026-07-15T08:15:13.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "‘বেস্ট হাজব্যান্ড’ গোলস! দীপিকার ডেলিভারির পরেই পিতৃত্বকালীন ছুটিতে যাচ্ছেন রণবীর সিং",
     "desc": "স্ত্রী দীপিকা পাড়ুকোনের পাশে থাকতে এবং সদ্যোজাত সন্তানের যত্নে মেগা ‘প্যাটার্নিটি লিভ’ নিতে চলেছেন বলিউড তারকা রণবীর সিং। তবে পিতৃত্বকালীন ছুটিতে যাওয়ার আগে, আগামী আগস্ট মাস থেকেই তিনি তাঁর পরবর্তী ছবি ‘প্রলয়’-এর শ্য়ুটিং শুরু করবেন। দীপাবলির পর থেকে বেশ কয়েক মাস রূপোলি পর্দা থেকে দূরে থাকবেন অভিনেতা।",
@@ -295,32 +322,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/chiranjit-chakraborty-breaks-silence-on-controversies-surrounding-rachna-banerjees-political-stint_660898.html ",
     "time": "2026-07-03T05:03:47.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
-    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
-    "time": "2026-06-01T03:50:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
-    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
-    "time": "2026-05-23T05:15:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "পেট্রোল ও ডিজেলের দাম লিটারে ৩ টাকা বাড়ল, জেনে নিন আপনার শহরে জ্বালানির নতুন দাম",
-    "desc": "চার বছর পর পেট্রোল ও ডিজেলের দাম প্রতি লিটারে ₹৩ টাকা করে বাড়ল। এর ফলে কলকাতা ও দিল্লিতে জ্বালানি মহার্ঘ্য হল। Fuel prices hiked by ₹3 per litre after a long wait causing rates to rise in major cities.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-15-2026-000015b-jpg-1778819385461_1778819386210-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-india-fuel-rates-increased-by-3-rupees-per-litre-delhi-kolkata-014-306911.html",
-    "time": "2026-05-15T04:35:17.000Z"
   }
 ];

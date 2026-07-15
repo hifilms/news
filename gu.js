@@ -1,12 +1,57 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "બેઝિક સેલરી વધતાં જ HRA માં પણ થશે બમ્પર વધારો, સમજો પગાર વધારાનું આખું ગણિત",
+    "desc": "8મા પગાર પંચ અંગે કેન્દ્ર સરકારના કર્મચારીઓની અપેક્ષાઓ વધી છે. જો ફિટમેન્ટ ફેક્ટર 2, 2.5, અથવા 3 લાગુ કરવામાં આવે છે, તો ફક્ત મૂળભૂત પગારમાં જ નહીં પરંતુ HRAમાં પણ નોંધપાત્ર વધારો થશે. ચાલો જાણીએ કે X, Y અને Z શહેરોમાં HRA અને કર્મચારીઓના પગાર પર આની શું અસર પડશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/the-8th-pay-commission-will-have-a-significant-impact-as-the-basic-salary-increases-hra-will-also-increase-484692 ",
+    "time": "2026-07-15T09:47:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Essel Groupની મોટી જાહેરાત: અગ્રોહામાં ₹100 કરોડના ખર્ચે સ્થપાશે &amp;#039;શ્રી નંદ કિશોર ગોયેન્કા યુનિવર્સિટી&amp;#039;",
+    "desc": "એસેલ ગ્રુપના ચેરમેન ડૉ. સુભાષ ચંદ્રાએ હરિયાણાના અગ્રોહા ખાતે સ્વર્ગસ્થ શ્રી નંદ કિશોર ગોયેન્કાની સ્મૃતિમાં ₹100 કરોડના ખર્ચે અને 32 એકર જમીનમાં એક અત્યાધુનિક યુનિવર્સિટી સ્થાપવાની ઐતિહાસિક જાહેરાત કરી છે. આ વિશાળ શૈક્ષણિક સંકુલના નિર્માણથી સ્થાનિક વિદ્યાર્થીઓને ઘરઆંગણે જ ઉચ્ચ શિક્ષણની વૈશ્વિક કક્ષાની સુવિધાઓ મળશે અને રોજગારીની નવી તકોનું પણ સર્જન થશે. એસેલ ગ્રુપનો આ નવો પ્રોજેક્ટ આ વિસ્તારને એક ઉત્તમ એજ્યુકેશન હબ તરીકે પ્રસ્થાપિત કરશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/essel-groups-big-announcement-shri-nand-kishore-goenka-university-to-be-established-in-agroha-at-a-cost-of-100-crore-484680 ",
+    "time": "2026-07-15T09:25:05.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "મિનિટોમાં બુકિંગ, તરત ડિલિવરી! હવે કનેક્શન વગર પણ મળશે LPG સિલિન્ડર, જાણો પ્રોસેસ",
+    "desc": "હવે તમે કનેક્શન વિના થોડી જ મિનિટોમાં ઘરે બેઠા LPG સિલિન્ડર ઓર્ડર કરી શકો છો. હિન્દુસ્તાન પેટ્રોલિયમે તેનું નવું 'HP Navya' 10 કિલોનું કમ્પોઝિટ LPG સિલિન્ડર પણ લોન્ચ કર્યું છે. આ ઉપરાંત, ગ્રાહકો હાલના 5 કિલો મેટલ LPG સિલિન્ડરનો પણ ઓર્ડર આપી શકશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/booking-in-minutes-immediate-delivery-now-you-can-get-lpg-cylinders-even-without-connection-know-the-process-484681 ",
+    "time": "2026-07-15T08:53:16.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ભારતની સૌથી સસ્તી 7-સીટર કાર, કિંમત માત્ર 5.76 લાખથી શરૂ, જુઓ લિસ્ટ",
+    "desc": "જો તમે તમારા મોટા પરિવાર માટે બજેટમાં 7 સીટર કાર ખરીદવા ઈચ્છો છો તો તમારી પાસે ઘણા શાનદાર વિકલ્પ છે. નિસાનથી લઈને મારૂતિ અને મહિન્દ્રા સુધીની આ કારો ઓછી કિંમતમાં સારી સ્પેસ અને ફીચર્સ સાથે ઉપલબ્ધ છે, જોઈએ તેનું લિસ્ટ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/budget-friendly-7-seater-cars-from-maruti-to-mahindra-top-spacious-cars-starting-at-5-76-lakh-484679 ",
+    "time": "2026-07-15T08:46:49.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "અંતિમ વિદાય : શ્રી નંદ કિશોર ગોયન્કાજીને અપાઈ મુખાગ્નિ, અગ્રોહા ધામમાં ભારે ભીડ, પંચતત્વમાં થયા વિલિન",
-    "desc": "Essel Groupના ચેરમેન ડૉ. સુભાષ ચંદ્રાના પિતા અને અગ્રોહા ધામના પ્રમુખ સ્થાપક શ્રી નંદ કિશોર ગોયન્કાજીના પાર્થિવ દેહને અંતિમ સંસ્કાર માટે હિસારના ઐતિહાસિક 'અગ્રોહા ધામ' લઈ જવાયા. મુંબઈથી વિમાન માર્ગે એમના પાર્થિવ દેહને હિસાર લવાયા બાદથી જ તેમના અંતિમ દર્શન માટે લોકોનો પ્રવાહ શરૂ થયો હતો અને અત્યારે અંતિમ યાત્રામાં હજારો લોકો જોડાયા.",
+    "desc": "Essel Groupના ચેરમેન ડૉ. સુભાષ ચંદ્રાના પિતા અને અગ્રોહા ધામના પ્રમુખ સ્થાપક શ્રી નંદ કિશોર ગોયન્કાજીના પાર્થિવ દેહને આજે હરિયાણાના હિસારના ઐતિહાસિક 'અગ્રોહા ધામ' ખાતે મુખાગ્નિ અપાતાં પંચતત્વમાં વીલિન થયા હતા. મુંબઈથી વિમાન માર્ગે એમના પાર્થિવ દેહને હિસાર લવાયા બાદથી જ તેમના અંતિમ દર્શન માટે લોકોનો પ્રવાહ શરૂ થયો હતો અને અંતિમ યાત્રામાં હજારો લોકો જોડાયા હતા.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/shri-nand-kishore-goenkajis-last-rites-today-agroha-dham-hisar-haryana-484667 ",
-    "time": "2026-07-15T07:58:51.000Z"
+    "time": "2026-07-15T08:40:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "આજે વર્લ્ડ કપમાં મહામુકાબલો! મેસીની આર્જેન્ટિના સામે ઇંગ્લેન્ડની પરીક્ષા, જાણો કોનું પલડું ભારે",
+    "desc": "ફૂટબોલ વર્લ્ડ કપ તેના અંતિમ તબક્કામાં છે. સ્પેને 2022ના ફાઇનલિસ્ટ ફ્રાન્સને પ્રથમ સેમિફાઇનલમાં હરાવ્યું હતું. હવે, આર્જેન્ટિના અને ઇંગ્લેન્ડ બીજા મોટા યુદ્ધમાં આમને-સામને થવા માટે તૈયાર છે. બધાની નજર મહાકાવ્ય યુદ્ધમાં લિયોનેલ મેસ્સી અને હેરી કેન વચ્ચેના મુકાબલા પર રહેશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/today-big-match-in-the-world-cup-kane-england-test-against-messi-argentina-know-whose-side-is-stronger-484662 ",
+    "time": "2026-07-15T08:15:57.000Z"
   },
   {
     "cat": "Politics",
@@ -16,15 +61,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/nitin-gadkari-speaks-on-e20-petrol-know-what-did-he-say-484664 ",
     "time": "2026-07-15T07:28:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "આજે વર્લ્ડ કપમાં મહામુકાબલો! મેસીની આર્જેન્ટિના સામે કેનની ઇંગ્લેન્ડની પરીક્ષા, જાણો કોનું પલડું ભારે",
-    "desc": "ફૂટબોલ વર્લ્ડ કપ તેના અંતિમ તબક્કામાં છે. સ્પેને 2022ના ફાઇનલિસ્ટ ફ્રાન્સને પ્રથમ સેમિફાઇનલમાં હરાવ્યું હતું. હવે, આર્જેન્ટિના અને ઇંગ્લેન્ડ બીજા મોટા યુદ્ધમાં આમને-સામને થવા માટે તૈયાર છે. બધાની નજર મહાકાવ્ય યુદ્ધમાં લિયોનેલ મેસ્સી અને હેરી કેન વચ્ચેના મુકાબલા પર રહેશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/today-big-match-in-the-world-cup-kane-england-test-against-messi-argentina-know-whose-side-is-stronger-484662 ",
-    "time": "2026-07-15T06:58:03.000Z"
   },
   {
     "cat": "Entertainment",
@@ -342,15 +378,6 @@ const newsData_gu = [
     "time": "2026-07-13T12:54:23.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "લોર્ડ્સમાં ભારતની દીકરીઓએ રચ્યો ઇતિહાસ, એકમાત્ર ટેસ્ટમાં ઈંગ્લેન્ડને 270 રનથી હરાવ્યું",
-    "desc": "ભારતીય મહિલા ક્રિકેટ ટીમે લોર્ડ્સમાં ઇંગ્લેન્ડને ટેસ્ટ મેચમાં હરાવીને ઇતિહાસ રચ્યો છે. ઉલ્લેખનીય છે કે, 142 વર્ષ જૂના આ મેદાન પર પહેલીવાર મહિલા ટેસ્ટ મેચ રમાઈ હતી, જેમાં ભારતે ઇંગ્લેન્ડને 457 રનનો વિશાળ ટાર્ગેટ આપ્યો હતો. ચોથા દિવસે ટાર્ગેટનો પીછો કરતી વખતે ઇંગ્લેન્ડની ટીમ ઓલઆઉટ થઈ ગઈ હતી અને ભારતે ઐતિહાસિક જીત મેળવી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ind-w-vs-eng-w-1st-women-lords-test-india-won-by-270-runs-484503 ",
-    "time": "2026-07-13T12:32:02.000Z"
-  },
-  {
     "cat": "Business",
     "title": "LPG યુઝર્સ માટે ખુશખબર! બદલાશે ગેસ સિલિન્ડર ખરીદવાની રીત? જાણો શું છે સરકારનો નવો પ્લાન?",
     "desc": "સરકારી ઓઈલ કંપનીઓ IOC, BPCL અને HPCL ટૂંક જ સમયમાં 10 કિલોના હળવા કંપોઝિટ LPG સિલિન્ડરને કોમર્શિયલ ગ્રાહકો માટે પણ ઉપલબ્ધ કરાવવા પર વિચાર કરી રહી છે. આ સિલિન્ડર સ્ટીલ સિલિન્ડરની સરખામણીમાં આશરે 50% હળવો હશે અને તેમાં પારદર્શક બોડી હોવાને કારણે ગેસનું લેવલ પણ સરળતાથી જોઈ શકાશે.",
@@ -385,15 +412,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/if-you-dont-pay-loan-emi-the-bank-can-block-your-mobile-number-know-what-rbi-rules-say-484477 ",
     "time": "2026-07-13T09:55:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "એસ્સેલ ગ્રુપના મોભી નંદ કિશોર ગોયનકાજી અનંત યાત્રાએ: મુંબઈમાં લીધા અંતિમ શ્વાસ, હરિયાણાના હિસારમાં થશે અંતિમ સંસ્કાર",
-    "desc": "એસ્સેલ પરિવાર માટે આજે ભારે શોકની ઘડી આવી પડી છે. એસ્સેલ ગ્રુપના ચેરમેન ડૉ. સુભાષ ચંદ્રાના પિતા અને રાષ્ટ્રીય સ્વયંસેવક સંઘના સમર્પિત સ્વયંસેવક શ્રી નંદકિશોર ગોયનકાજીનું ૯૬ વર્ષની વયે મુંબઈ ખાતે નિધન થયું છે. સામાજિક કાર્યો, વૈશ્ય સમાજની એકતા અને ગૌસેવામાં પોતાનું સમગ્ર જીવન સમર્પિત કરનારા ગોયનકાજીએ સોમવારે બપોરે ૧૨:૩૦ વાગ્યે અંતિમ શ્વાસ લીધા હતા. તેમના પાર્થિવ દેહને મંગળવારે ચાર્ટર્ડ પ્લેન દ્વારા હરિયાણાના હિસાર લઈ જવામાં આવશે, જ્યાં બુધવારે અગ્રોહા ધામ ખાતે તેમના અંતિમ સંસ્કાર કરવામાં આવશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/essel-group-chairman-dr-subhash-chandra-father-nandkishore-goenka-passes-away-484465 ",
-    "time": "2026-07-13T09:38:41.000Z"
   },
   {
     "cat": "World",
@@ -558,15 +576,6 @@ const newsData_gu = [
     "time": "2026-07-12T08:06:06.000Z"
   },
   {
-    "cat": "Business",
-    "title": "સોના-ચાંદીના ભાવમાં મોટો કડાકો: સોનું ₹33000 તો ચાંદી ₹1.66 લાખ સુધી સસ્તી થઈ, જાણો હવે ખરીદી કરાય કે ભાવ હજુ ઘટશે?",
-    "desc": "વર્ષ 2026મા સોનું 33000 રૂપિયા તો ચાંદી 1.66 લાખ સુધી સસ્તી થઈ ગઈ છે. તેવામાં જે લોકો ખરીદી કરવા ઈચ્છે છે તેના મનમાં તે સવાલ છે કે સોનાના ભાવમાં હજુ ઘટાડો થશે કે પછી કિંમતમાં તેજી આવશે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/massive-fall-in-precious-metals-gold-and-silver-turn-highly-affordable-expert-prediction-on-future-gold-rates-484331 ",
-    "time": "2026-07-12T05:35:52.000Z"
-  },
-  {
     "cat": "World",
     "title": "ટ્રમ્પની તબાહ કરી દેવાની ધમકી પર ઈરાનનો પલટવાર: ‘હવે કોઈ વાતચીત નહીં થાય...’, આપ્યો જડબાતોડ જવાબ!",
     "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પ ઈરાનને વારંવાર ધમકીઓ આપી રહ્યા છે. તાજેતરમાં, તેમણે જણાવ્યું હતું કે અમેરિકા ઈરાન સામે 1,000 મિસાઈલ છોડવા માટે તૈયાર છે. આ દરમિયાન, એવા અહેવાલો બહાર આવી રહ્યા છે કે ઈરાને અમેરિકા સાથે કોઈપણ વાતચીતનો સ્પષ્ટ ઇનકાર કર્યો છે.",
@@ -583,15 +592,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/good-news-for-suv-lovers-a-new-car-kia-sorento-is-coming-with-a-muscular-design-and-more-mileage-484292 ",
     "time": "2026-07-11T15:52:48.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ખુલતા પહેલા જ પૈસા ડબલ! આ IPOમાં અત્યારથી જ દેખાઈ રહ્યો છે 120% નો નફો, ₹400એ પહોંચ્યો GMP",
-    "desc": "આ કંપનીનો IPO આજે માર્કેટમાં ધુમ મચાવી રહ્યો છે, આ IPOમાં અત્યારથી 120 ટકાનો નફો દેખાઈ રહ્યો છે, અને તેનો GMP 400 રૂપિયા પર પહોંચી ગયો છે, જેના કારણે રોકાણકારોમાં ખરીદવા માટે ઉત્સાહ જોવા મળી રહ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/double-the-money-even-before-opening-this-ipo-is-already-showing-a-profit-of-120-percent-gmp-reached-rs-400-484289 ",
-    "time": "2026-07-11T14:49:09.000Z"
   },
   {
     "cat": "Entertainment",
