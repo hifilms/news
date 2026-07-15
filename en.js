@@ -1,12 +1,156 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Range-wide police drive targets wanted offenders in north Kerala",
-    "desc": "Intensive combing operation covers six police districts under the Kannur Range; drive focusses on wanted and habitual offenders, drug-trafficking networks, and suspicious locations; police arrest 159 persons against whom warrants were pending and register 606 cases",
+    "title": "Amit Shah, Nitin Nabin among BJP top brass meet at PM Modi's residence",
+    "desc": "Top BJP leaders met at Prime Minister Narendra Modi's residence on Wednesday. This meeting occurred just before the Parliament's upcoming session begins next week. The gathering included Home Minister Amit Shah and party president Nitin Nabin. Speculation is rife about potential reshuffles in the national office bearers team and Union cabinet. An NDA constituents meeting is also likely on July 21 to discuss floor strategy.",
+    "img": "https://static.toiimg.com/photo/msid-132424006,imgsize-61150.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/amit-shah-nitin-nabin-among-bjp-top-brass-meet-at-pm-modis-residence/articleshow/132423927.cms",
+    "time": "2026-07-15T18:50:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'It wasn't racism': Egypt boss finally breaks silence on viral 'X' gesture and claims Messi was left in tears",
+    "desc": "Egypt head coach Hossam Hassan has explained the controversial \"X\" gesture he made towards referee François Letexier during his side's World Cup defeat to Argentina, insisting it was a protest against unfair officiating rather than an allegation of racism. Hassan also revealed an emotional exchange with Lionel Messi, while Egypt continue to dispute several key refereeing decisions from the dramatic Round of 16 clash.",
+    "img": "https://static.toiimg.com/photo/msid-132423492,imgsize-921415.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/it-wasnt-racism-egypt-boss-finally-breaks-silence-on-viral-x-gesture-and-claims-messi-was-left-in-tears/articleshow/132420683.cms",
+    "time": "2026-07-15T18:36:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court asks if panel monitoring the safety of people from the Northeast meets just for ‘talk and tea’",
+    "desc": "A court-mandated panel set up in 2014 after the death of an Arunachal student in Delhi; government records referred to a woman who could not be traced even though she had emailed a grievance to the panel",
+    "img": "https://th-i.thgim.com/public/incoming/ah5svd/article71227170.ece/alternates/LANDSCAPE_1200/SC-allows-CBI-G8VG8C121.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/supreme-court-asks-if-panel-monitoring-the-safety-of-people-from-the-northeast-meets-just-for-talk-and-tea/article71226921.ece",
+    "time": "2026-07-15T17:25:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Better to be a has-been than a never-been': Ben Stokes fires back at Ian Botham",
+    "desc": "Ben Stokes humorously responded to Ian Botham's retirement comments on social media. Botham had playfully inducted Stokes into a club of former players. Stokes referenced a quote often attributed to Botham himself. This exchange followed Botham's earlier criticism of Stokes' curfew breach. Stokes retired after a distinguished 15-year international cricket career.",
+    "img": "https://static.toiimg.com/photo/msid-132421643,imgsize-106200.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/better-to-be-a-has-been-than-a-never-been-ben-stokes-fires-back-at-ian-botham/articleshow/132421639.cms",
+    "time": "2026-07-15T17:22:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Cabinet approves ₹1.27 lakh crore for Semicon Mission 2.0, for mobile manufacturing, new highways",
+    "desc": "The cabinet also accorded approval to two major highway projects worth ₹25,400 crore to ease congestion in Varanasi and as many as nine new gas-based urea plants across the country with a production capacity of 10 million tons",
+    "img": "https://th-i.thgim.com/public/incoming/gwuala/article71226697.ece/alternates/LANDSCAPE_1200/20260715206L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/cabinet-okays-semicon-20-mobile-phone-manufacturing-scheme-highways-and-urea-plants/article71226334.ece",
+    "time": "2026-07-15T17:21:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mamata says Abhishek ‘fighting like a tiger’, vows to revive TMC",
+    "desc": "Trinamool Congress chairperson’s remarks are being seen as her strongest public endorsement of her nephew Abhishek Banerjee since the rebellion in the party, which has seen a majority of MPs and MLAs desert Mamata Banerjee.",
+    "img": "https://th-i.thgim.com/public/incoming/lsf6wq/article71225837.ece/alternates/LANDSCAPE_1200/PTI07_15_2026_000368B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/mamata-rallies-behind-abhishek-banerjee-amid-tmc-rebellion-video-message/article71225778.ece",
+    "time": "2026-07-15T17:21:09.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "SpaceX shares fall below IPO price for first time since market debut, wiping out post-listing gains",
+    "desc": "SpaceX shares have fallen below their initial public offering price for the first time. This decline reflects a broader shift in market sentiment and investor enthusiasm. Analysts point to concerns over interest rates and AI stock momentum. Investors are now awaiting SpaceX's first quarterly earnings report as a listed company. Upcoming events include the expiry of the IPO lock-up period and Starship test flights.",
+    "img": "https://static.toiimg.com/photo/msid-132421543,imgsize-446832.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/spacex-shares-fall-below-ipo-price-for-first-time-since-market-debut-wiping-out-post-listing-gains/articleshow/132421325.cms",
+    "time": "2026-07-15T17:19:05.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Markets open in green despite Iran war tensions, oil price swings",
+    "desc": "US stock markets saw gains on Wednesday, driven by strong corporate earnings reports. Investors also reacted positively to recent inflation data, which showed a notable slowdown. This easing inflation reduced expectations for an imminent interest rate hike by the Federal Reserve. However, ongoing Middle East tensions kept global energy supply concerns elevated. Asian and European markets also posted gains, with technology shares leading the advance.",
+    "img": "https://static.toiimg.com/photo/msid-132421310,imgsize-139620.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-stocks-today-15-july-2026-markets-open-in-green-despite-iran-war-tensions-oil-price-swings/articleshow/132421177.cms",
+    "time": "2026-07-15T17:10:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Diljit Dosanjh charged Re 1 fees for playing Jaswant Singh Khalra's role in 'Satluj'",
+    "desc": "Diljit Dosanjh charged only Re 1 for his role in the film 'Satluj'. The actor felt it was shameful to charge for portraying activist Jaswant Singh Khalra. Director Honey Trehan revealed Dosanjh's commitment despite the film's censorship issues. Khalra was a bank clerk who became a prominent human rights activist in Punjab. His investigation into alleged cremations brought national attention to the issue.",
+    "img": "https://static.toiimg.com/photo/msid-132421148,imgsize-253853.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/diljit-dosanjh-charged-re-1-fees-for-playing-jaswant-singh-khalras-role-in-satluj-reveals-director-honey-trehan-he-stood-up-from-his-chair-touched-the-script-to-his-forehead/articleshow/132421121.cms",
+    "time": "2026-07-15T17:00:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bengaluru City Police Commissionerate to be split into multiple units?",
+    "desc": "While all other major city regions in India — Delhi, Mumbai, Kolkata, Hyderabad and Chennai — have multiple commissionerates, Bengaluru remains the only one where a large commissionerate, including suburban areas, is surrounded by rural district police units.",
+    "img": "https://th-i.thgim.com/public/incoming/7c9a1w/article71221527.ece/alternates/LANDSCAPE_1200/DSC_8655.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-city-police-commissionerate-to-be-split-into-multiple-units/article71220870.ece",
+    "time": "2026-07-15T16:49:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Two held for disrupting SC hearing with abuse and scattering papers; sent to 14-day judicial custody",
+    "desc": "According to police, the incident occurred during the hearing of Special Leave Petition (Civil), Prabal Pratap and Another vs State of Uttar Pradesh through Commissioner inside Court No. 13 of the apex court on July 10",
+    "img": "https://th-i.thgim.com/public/incoming/gnd5tb/article71224284.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiGR7FV5KAC.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/two-law-students-arrested-for-hurling-abuses-in-supreme-court-disrupting-proceedings/article71224251.ece",
+    "time": "2026-07-15T16:49:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Meeting parliamentary panel, Ladakh villagers raise denial of access to grazing grounds after 2020 border clash with China",
+    "desc": "A delegation of villagers living along the LAC in Ladakh tells the Parliamentary Standing Committee on Tourism, Transport and Culture that the continued presence of local communities in these frontier regions contributes significantly to national security",
+    "img": "https://th-i.thgim.com/public/news/national/tauqdr/article71226791.ece/alternates/LANDSCAPE_1200/7b656b8d-833b-451d-ba0d-dede23d337dd.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/meeting-parliamentary-panel-ladakh-villagers-raise-denial-of-access-to-grazing-grounds-after-2020-border-clash-with-china/article71226762.ece",
+    "time": "2026-07-15T16:49:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salman Khan was the first to sense Sonakshi Sinha and Zaheer Iqbal’s romance",
+    "desc": "During their appearance on Neha Dhupia's talk show, Sonakshi Sinha and Zaheer Iqbal revealed that it was Salman Khan who initially recognized their romantic connection. Predicting the couple's eventual split, Salman offered them encouragement and made his awareness known during a trekking adventure, showcasing his instinctive understanding of their relationship dynamics long before they went public.",
+    "img": "https://static.toiimg.com/photo/msid-132420480,imgsize-127744.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dikh-raha-hai-sab-salman-khan-was-the-first-to-sense-sonakshi-sinha-and-zaheer-iqbals-romance-couple-reveals-on-double-date/articleshow/132420160.cms",
+    "time": "2026-07-15T16:38:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tata, Singapore’s Changi Airport to invest in Kerala, says Chief Minister Satheesan",
+    "desc": "At the Kerala Samudra Mission 2026 seminar in Thiruvananthapuram, Satheesan announced that the Tata Group is seeking State approval for a ₹10,000 crore investment in shipbuilding. He also revealed Singapore’s Changi Airport’s interest in aviation-related investments in the state.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/range-wide-police-drive-targets-wanted-offenders-in-north-kerala/article71225282.ece",
-    "time": "2026-07-15T16:13:37.000Z"
+    "url": "https://www.thehindu.com/news/national/kerala/tata-changi-airport-to-invest-in-kerala-says-chief-minister-satheesan/article71226626.ece",
+    "time": "2026-07-15T16:32:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Constructed without plan approval': 38 buildings at Azam Khan's Jauhar University to be demolished",
+    "desc": "The Rampur Development Authority ordered the demolition of thirty-eight university buildings. These structures were reportedly built without approved building plans by the authority. The university argued it was outside jurisdiction, but this was rejected by officials. Only two buildings had valid approvals, while others lacked necessary authorization. The constructions violated planning laws and are now liable for demolition.",
+    "img": "https://static.toiimg.com/photo/msid-132420316,imgsize-64226.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/constructed-without-plan-approval-38-buildings-at-azam-khans-jauhar-university-to-be-demolished/articleshow/132420194.cms",
+    "time": "2026-07-15T16:27:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Sun Pharma gets nod from South African regulator for generic semaglutide injection",
+    "desc": "The approval by the SAHPRA is to manufacture and market the generic version of semaglutide injection in South Africa for the treatment of adults with inadequately controlled type 2 diabetes mellitus as an adjunct to diet and exercise, says Sun Pharmaceutical Industries",
+    "img": "https://th-i.thgim.com/public/incoming/gj83dx/article71226978.ece/alternates/LANDSCAPE_1200/----Replacing-iGL3G113JJ.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/sun-pharma-gets-nod-from-south-african-regulator-for-generic-semaglutide-injection/article71226953.ece",
+    "time": "2026-07-15T16:26:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court raises students’ ‘frustration’ over CBSE OSM glitches with Govt., seeks status report",
+    "desc": "The petition seeks individual responsibility to be fixed for a failure which affected a large number of students in India and abroad; it lists several irregularities 'systematic negligence/failure resulting in a breach of duty of care’",
+    "img": "https://th-i.thgim.com/public/incoming/3rx4bv/article71225355.ece/alternates/LANDSCAPE_1200/TH14-KDR-Three-GDIG8H9I1.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/supreme-court-raises-students-frustration-over-cbse-osm-glitches-with-govt-seeks-status-report/article71224928.ece",
+    "time": "2026-07-15T16:23:38.000Z"
   },
   {
     "cat": "Business",
@@ -16,24 +160,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/us-issues-new-non-proliferation-sanctions-targeting-individuals-entities-in-iran-russia/articleshow/132419715.cms",
     "time": "2026-07-15T16:03:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Two held for disrupting Supreme Court hearing with abuse and scattering papers",
-    "desc": "According to police, the incident occurred during the hearing of Special Leave Petition (Civil), Prabal Pratap and Another vs State of Uttar Pradesh through Commissioner inside Court No. 13 of the apex court on July 10",
-    "img": "https://th-i.thgim.com/public/incoming/gnd5tb/article71224284.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiGR7FV5KAC.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/two-law-students-arrested-for-hurling-abuses-in-supreme-court-disrupting-proceedings/article71224251.ece",
-    "time": "2026-07-15T16:01:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Govt. should protect State’s interest in Vizhinjam, says Pinarayi",
-    "desc": "He says instead of claiming that the government had no stake in the concessionaire company, Chief Minister should state the government’s commitment to protecting the port rather than allowing it to be handed over to corporate interests",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/govt-should-protect-states-interest-in-vizhinjam-says-pinarayi/article71226783.ece",
-    "time": "2026-07-15T15:53:31.000Z"
   },
   {
     "cat": "Entertainment",
@@ -72,15 +198,6 @@ const newsData_en = [
     "time": "2026-07-15T15:32:04.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "NDA government revived aquaculture sector, asserts Fisheries Minister Atchannaidu",
-    "desc": "The previous YSRCP government has weakened the sector through its policy failures, he alleges, adding that the NDA dispensation has released ₹32 crore for Fisheries University at Narasapuram and strengthened the APSADA Act to improve governance and transparency",
-    "img": "https://th-i.thgim.com/public/incoming/bn1tyy/article71226698.ece/alternates/LANDSCAPE_1200/vjkvg-fisheries%204.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/nda-government-revived-aquaculture-sector-asserts-fisheries-minister-atchannaidu/article71225981.ece",
-    "time": "2026-07-15T15:27:16.000Z"
-  },
-  {
     "cat": "Business",
     "title": "JPMorgan Chase on track to become world's first bank with a $1 trillion valuation",
     "desc": "JPMorgan Chase is nearing a $1 trillion market valuation, a historic milestone for a bank. The lender's shares reached a record high after reporting its highest quarterly profit ever. Analysts expect dealmaking activity to remain strong through the rest of 2026. This achievement would place JPMorgan alongside major technology giants like Tesla and Meta. The bank's diversified business model and strong leadership contribute to its impressive performance.",
@@ -99,15 +216,6 @@ const newsData_en = [
     "time": "2026-07-15T15:13:24.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kurnool district to receive 1.5 tmcft of drinking water from Tunghabadra",
-    "desc": "Collector says the release of water will commence at 9 a.m. on Thursday at a rate of 900 cusecs, and is likely to take about a week to reach the district through the canal network",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/kurnool-district-to-receive-15-tmcft-of-drinking-water-from-tunghabadra/article71226157.ece",
-    "time": "2026-07-15T15:12:02.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Akshay Kumar-Saif Ali Khan starrer 'Haiwaan' release date out",
     "desc": "Akshay Kumar and Saif Ali Khan will star in Priyadarshan's upcoming psychological thriller Haiwaan. The film's theatrical release date has been officially announced by the makers. New posters reveal Akshay Kumar in a robber-like outfit and Saif Ali Khan looking confident. The production house shared that some monsters live among us, ready for release. This tense, high-stakes thriller is scheduled to premiere on September 11, 2026.",
@@ -115,33 +223,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/haiwaan-release-date-priyadarshans-99th-film-starring-akshay-kumar-and-saif-ali-khan-to-hit-theatres-on-this-date/articleshow/132419069.cms",
     "time": "2026-07-15T15:10:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala’s government hospitals face a shortage of specialist doctors",
-    "desc": "Over 280 specialist doctor posts remain vacant in government hospitals, according to RTI data; more than 50 hospitals with delivery points lack adequate teams of gynaecologists, paediatricians and anaesthetists; doctors’ association calls for urgent recruitment, creation of more posts and faster promotions",
-    "img": "https://th-i.thgim.com/public/incoming/j02i2r/article71226623.ece/alternates/LANDSCAPE_1200/80692_8_5_2025_15_21_58_3_MCH10.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/keralas-government-hospitals-face-a-shortage-of-specialist-doctors/article71224741.ece",
-    "time": "2026-07-15T15:10:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Telangana CM lays foundation stone for Amazon Web Services’ data centre, wants global giant to invest ₹1 lakh crore",
-    "desc": "Telangana IT and Industries Minister D. Sridhar Babu says a decision was taken to set up a data centre park at Aloor where comprehensive facilities including uninterrupted power and water were being put in place",
-    "img": "https://th-i.thgim.com/public/news/cities/Hyderabad/hv4lio/article71224889.ece/alternates/LANDSCAPE_1200/Amazon%20Web%20Services%20data%20centre.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/telangana-cm-lays-foundation-stone-for-amazon-web-services-data-centre-in-bharat-future-city-wants-global-giant-to-invest-1-lakh-crore/article71224855.ece",
-    "time": "2026-07-15T15:09:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "A cathedral revives debate on Kerala’s unique church architecture",
-    "desc": "The newly renovated St. Mary’s Orthodox Cathedral in Puthiyakavu, Mavelikara, is set to be consecrated on July 17 and 18. Established in AD 943, the cathedral blends Portuguese Baroque and traditional Kerala designs, showcasing a 2,000-year cultural evolution among Saint Thomas Christians.",
-    "img": "https://th-i.thgim.com/public/incoming/fu8tn0/article71226483.ece/alternates/LANDSCAPE_1200/St.%20Mary%E2%80%99s%20Orthodox%20Cathedral-1.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/a-cathedral-revives-debate-on-keralas-unique-church-architecture/article71226086.ece",
-    "time": "2026-07-15T15:07:14.000Z"
   },
   {
     "cat": "World",
@@ -513,15 +594,6 @@ const newsData_en = [
     "time": "2026-07-15T09:46:20.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Princess Diana recorded secret tapes warning Meghan Markle?",
-    "desc": "Reportedly, Princess Diana recorded secret tapes in 1993, intending to offer guidance to her sons' future wives. Among these tapes was a chilling warning directed at Meghan Markle concerning the challenges of royal life. Diana expressed her fears about not meeting her sons' brides and provided essential advice. After her passing, Harry shared these maternal recordings with Meghan, creating a poignant link to her late mother-in-law.",
-    "img": "https://static.toiimg.com/photo/msid-132412366,imgsize-162898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/princess-diana-allegedly-recorded-secret-tapes-warning-prince-harrys-wife-meghan-markle-dont-let-them-eat-you-alive/articleshow/132411927.cms",
-    "time": "2026-07-15T09:41:07.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'I would've done the same': Tuchel on Argentina's dark blue jersey choice for WC semis",
     "desc": "England coach Thomas Tuchel understands Argentina's choice of dark blue jersey for the World Cup semifinal. He acknowledges the role of superstition and lucky charms in elite sports. Argentina's dark blue kit holds historical significance for past victories against England. Coach Lionel Scaloni dismissed superstition, suggesting tradition influenced the decision.",
@@ -550,24 +622,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Shehnaaz Gill breaks silence on dating rumours with Raghav Juyal",
-    "desc": "Shehnaaz Gill has finally addressed dating rumours with dancer Raghav Juyal. She described Raghav as a very good friend and a close companion. Gill urged fans to support Juyal's upcoming film, \"Bhai Tera Star Hai.\" She highlighted his hard work in building his career independently. The actress previously starred with Juyal in \"Kisi Ka Bhai Kisi Ki Jaan.\"",
-    "img": "https://static.toiimg.com/photo/msid-132412028,imgsize-257496.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shehnaaz-gill-breaks-silence-on-dating-rumours-with-raghav-juyal-after-video-of-her-sitting-on-his-lap-goes-viral-woh-mera-bohot-acha-dost-hai/articleshow/132412027.cms",
-    "time": "2026-07-15T09:28:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Abhishek Banerjee refused to step aside': Madan Mitra quits Mamata's camp, joins Ritabrata Banerjee's TMC faction",
-    "desc": "Trinamool Congress MLA Madan Mitra has resigned from Mamata Banerjee's faction. He joined the rebel TMC faction led by Ritabrata Banerjee on Wednesday. Mitra accused Abhishek Banerjee of refusing to step aside during the party's crisis. This development follows summons issued to Mitra's family by the Enforcement Directorate. The ED is investigating a municipal recruitment scam in West Bengal.",
-    "img": "https://static.toiimg.com/photo/msid-132411968,imgsize-109791.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/abhishek-banerjee-refused-to-step-aside-madan-mitra-quits-mamatas-camp-joins-ritabrata-banerjees-tmc-faction/articleshow/132411836.cms",
-    "time": "2026-07-15T09:25:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Anurag Kashyap says former CBFC Chief Prasoon objected to Satluj without watching it",
     "desc": "Filmmaker Anurag Kashyap claims Prasoon Joshi objected to the film Satluj. He stated the former CBFC chairperson had not watched the movie. The film, previously titled Punjab '95, faced censorship issues for years. It was recently removed from ZEE5 after its release. Kashyap criticized the lack of public statements on censorship controversies.",
     "img": "https://static.toiimg.com/photo/msid-132411476,imgsize-354661.cms",
@@ -583,15 +637,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/madrid-goes-viking-row-spain-fans-recreate-norways-viral-celebration-after-reaching-world-cup-final-watch/articleshow/132411256.cms",
     "time": "2026-07-15T08:50:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'In solidarity with Wangchuk': CJP announces 1-day mass hunger strike at Jantar Mantar tomorrow",
-    "desc": "The Cockroach Janata Party will hold a hunger strike on July 16 supporting Sonam Wangchuk. Wangchuk's health is declining on his eighteenth day of fasting. He has lost significant muscle mass and is experiencing immense pain. A court petition seeks to force-feed Wangchuk and move him to a hospital. This intervention is deemed necessary to preserve his life and prevent further deterioration.",
-    "img": "https://static.toiimg.com/photo/msid-132410891,imgsize-973027.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/in-solidarity-with-wangchuk-cjp-announces-1-day-mass-hunger-strike-at-jantar-mantar-tomorrow/articleshow/132410784.cms",
-    "time": "2026-07-15T08:33:59.000Z"
   },
   {
     "cat": "Sports",
@@ -621,15 +666,6 @@ const newsData_en = [
     "time": "2026-07-15T08:06:50.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Supriya Sule rules out NDA switch, says NCP (SP) yet to decide on Delimitation Bill",
-    "desc": "Supriya Sule denied her party would support the Delimitation Bill without discussion. She stated the NCP (SP) remains firmly aligned with the INDIA alliance. Discussions about the bill will occur within the INDIA bloc after its introduction. Recent meetings with Chief Minister Devendra Fadnavis fueled merger speculation. However, NCP leaders have refuted claims of any merger talks.",
-    "img": "https://static.toiimg.com/photo/msid-132410304,imgsize-918988.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/supriya-sule-rules-out-nda-switch-says-ncp-sp-yet-to-decide-on-delimitation-bill/articleshow/132410254.cms",
-    "time": "2026-07-15T08:02:30.000Z"
-  },
-  {
     "cat": "World",
     "title": "Nepal’s new government, old concerns: Governance, dissent, shrinking civic space",
     "desc": "After completing 100 days in office, the Balendra Shah administration now finds itself confronting many of the same questions that dogged its predecessor before last year’s Gen Z protests, which ultimately swept Mr. Shah to power",
@@ -646,15 +682,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/new-york-were-coming-for-you-lamine-yamal-sends-spain-world-cup-final-warning-after-france-masterclass/articleshow/132409426.cms",
     "time": "2026-07-15T07:31:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Why Taslima Nasreen's Kolkata return is a powder keg for Bengal politics",
-    "desc": "Taslima Nasreen's upcoming return to Kolkata after 20 years sparks intense political discussions. The Trinamool Congress and Bharatiya Janata Party both voiced their strong opinions regarding her visit. Exiled since 2007, Nasreen is set to participate in an anti-fundamentalism literary event this August. Her previous works and the circumstances of her exile have sent shockwaves through conversations about free speech and the intersection with religious beliefs in West Bengal.",
-    "img": "https://static.toiimg.com/photo/msid-132409180,imgsize-124906.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/why-taslima-nasreens-kolkata-return-is-a-powder-keg-for-bengal-politics/articleshow/132409145.cms",
-    "time": "2026-07-15T07:16:30.000Z"
   },
   {
     "cat": "Business",
@@ -675,15 +702,6 @@ const newsData_en = [
     "time": "2026-07-15T07:05:21.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Rivalry and revenge at the FIFA World Cup",
-    "desc": "The intense Argentina and England football rivalry spans several World Cup matches. Key moments include the 1966 Rattin expulsion and Maradona's 1986 goals. David Beckham faced controversy after a 1998 red card against Argentina. England secured a narrow victory in the 2002 group stage. These encounters highlight enduring historical grievances and national pride.",
-    "img": "https://static.toiimg.com/photo/msid-132408685,imgsize-199438.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/england-vs-argentina-rivalry-and-revenge-at-the-fifa-world-cup/articleshow/132408452.cms",
-    "time": "2026-07-15T06:50:37.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Sensex jumps over 500 points, Nifty above 24,200: Top reasons driving stock market rally",
     "desc": "Dalal Street experienced a strong rebound on Wednesday, reversing previous session losses. Improving tech sentiments and a firmer rupee boosted investor confidence significantly. Geopolitical developments and global cues also supported the market's upward movement. Foreign investors turned net buyers in July, contributing to the rally. Asian markets and technology stocks saw a notable rebound after US inflation data.",
@@ -693,15 +711,6 @@ const newsData_en = [
     "time": "2026-07-15T06:34:56.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'I was trying to ...': Axar Patel reveals what went wrong in T20Is after ODI heroics",
-    "desc": "Axar Patel admitted to overhitting the ball during the T20 series. He focused on timing over power for his match-winning ODI performance. His all-round display guided India to a six-wicket victory in the first ODI. Captain Shubman Gill and Washington Sundar also contributed valuable runs. India now lead the three-match series one-nil against England.",
-    "img": "https://static.toiimg.com/photo/msid-132407730,imgsize-178940.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/india-vs-england-i-was-trying-to-hit-the-ball-too-hard-axar-patel-reveals-what-went-wrong-in-t20is-after-odi-heroics/articleshow/132407742.cms",
-    "time": "2026-07-15T06:06:52.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Anju’s Cafe in Ranga Shankara turns 20",
     "desc": "Anju Sudharshan started her namesake cafe in the Ranga Shankara theatre after a chance encounter with the founder Arundhati Nag. We trace how the cafe became the heart of the institution in Bengaluru, and a space for reviews, discussions and piping hot akki rotis",
@@ -709,15 +718,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/food/features/sabudana-vada-and-stagecraft-anjus-cafe-in-ranga-shankara-turns-20/article71040773.ece",
     "time": "2026-07-15T05:44:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why FBI labelled Argentina vs England semi-final the 'highest-risk' match",
-    "desc": "England and Argentina's World Cup semifinal is the tournament's highest-risk match. Extraordinary security measures are in place for this intense football rivalry. Decades of political tensions and historic flashpoints fuel concerns about fan behaviour. Officials are implementing separate entry gates to minimise potential confrontations. Authorities are ensuring this sensitive fixture remains confined to the pitch.",
-    "img": "https://static.toiimg.com/photo/msid-132407135,imgsize-205297.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/argentina-vs-england-why-fbi-labelled-this-fifa-world-cup-semi-final-the-highest-risk-match/articleshow/132407026.cms",
-    "time": "2026-07-15T05:30:41.000Z"
   },
   {
     "cat": "Entertainment",
@@ -781,24 +781,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-crude-tops-85-a-barrel-as-us-restores-strait-of-hormuz-blockade/articleshow/132404076.cms",
     "time": "2026-07-15T02:09:41.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Singapore court denies stay on Byju's jail term",
-    "desc": "Singapore's high court denied Byju Raveendran's request to suspend his contempt sentence. The court lifted temporary protection for the Byju's founder while his appeal is pending. His legal team clarified the hearing focused only on the stay application. The substantive appeal against the contempt finding is yet to be heard. The contempt sentence remains in force unless the appellate court grants interim relief.",
-    "img": "https://static.toiimg.com/photo/msid-132404054,imgsize-34614.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/singapore-court-denies-stay-on-byjus-jail-term/articleshow/132404031.cms",
-    "time": "2026-07-15T02:07:16.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "NCLT okays record no. of cases, flags manpower shortage",
-    "desc": "The National Company Law Tribunal approved a record 78 resolution plans in April-June. This period saw approvals valued at Rs 5,518 crore, reaching nearly Rs 4.8 lakh crore total. The tribunal faces significant institutional capacity constraints and member vacancies. Current functioning is impacted by 11 unfilled judicial and technical member positions. No new member appointments have occurred since January 2025.",
-    "img": "https://static.toiimg.com/photo/msid-132404011,imgsize-50304.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/nclt-okays-record-no-of-cases-flags-manpower-shortage/articleshow/132403982.cms",
-    "time": "2026-07-15T02:03:22.000Z"
   },
   {
     "cat": "Sports",
@@ -891,12 +873,30 @@ const newsData_en = [
     "time": "2026-07-14T07:28:16.000Z"
   },
   {
-    "cat": "World",
-    "title": "Jaishankar discusses global developments, including West Asia, Ukraine with UN Chief Guterres",
-    "desc": "Mr. Jaishankar launched India’s official campaign for a non-permanent seat at the UN Security Council for 2028-29 at an event at the world body’s headquarters in the United Nations that was attended by UN ambassadors, diplomats and officials",
-    "img": "https://th-i.thgim.com/public/news/national/htxchd/article71220141.ece/alternates/LANDSCAPE_1200/S.%20jai.jpg",
+    "cat": "Sports",
+    "title": "ENG vs IND 1st ODI preview",
+    "desc": "The visitor comes on the back of six straight defeats in T20Is, whereas the home team has to put aside the turmoil surrounding coach McCullum losing his Test job; Bumrah plays his first 50-over game after the 2023 World Cup final",
+    "img": "https://th-i.thgim.com/public/incoming/go9nir/article71220094.ece/alternates/LANDSCAPE_1200/AP07_13_2026_000242B.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jaishankar-discusses-global-developments-including-west-asia-ukraine-with-un-chief-guterres/article71220123.ece",
-    "time": "2026-07-14T07:20:39.000Z"
+    "url": "https://www.thehindu.com/sport/cricket/eng-vs-ind-1st-odi-preview-compartmentalisation-the-key-as-england-and-india-put-on-odi-boots/article71217624.ece",
+    "time": "2026-07-14T06:15:18.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Can biogas aid India’s energy security?",
+    "desc": "India, which imports nearly 85% of its crude oil needs, remains vulnerable to global energy shocks. Over the years, it has pushed several initiatives to promote compressed biogas. Despite these efforts, progress has been limited; government support and incentives could provide a boost to the sector",
+    "img": "https://th-i.thgim.com/public/incoming/wjel9u/article71218716.ece/alternates/LANDSCAPE_1200/DSC_9858.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/can-biogas-aid-indias-energy-security/article71218703.ece",
+    "time": "2026-07-14T05:16:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "The big blot on the beautiful game",
+    "desc": "From Pele and Eusebio to Mbappe and Vini Jr., artists of the game have had to listen to chants on their skin colour instead of their footwork at least once in their career, which is one more than the preferable number",
+    "img": "https://th-i.thgim.com/public/incoming/tnmhm/article71219763.ece/alternates/LANDSCAPE_1200/2026-07-13T195041Z_545181821_UP1EM7D1J4GWR_RTRMADP_3_SOCCER-WORLDCUP-FRA-ESP-PREVIEW.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/the-big-blot-on-the-beautiful-game-on-racism-in-football/article71219768.ece",
+    "time": "2026-07-14T03:23:20.000Z"
   }
 ];

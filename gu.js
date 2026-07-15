@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "IRCTCની નવી બીટા વેબસાઇટ લોન્ચ, 24 વર્ષ બાદ મોટો ફેરફાર, ટિકિટ બુકિંગ થશે સુપરફાસ્ટ",
+    "desc": "IRCTCની નવી વેબસાઇટ આખરે શરૂ થઈ ગઈ છે. આ વેબસાઇટ પર ટ્રેન ટિકિટ બુક કરવાની પ્રક્રિયા સરળ બનાવવામાં આવી છે. નવી વેબસાઇટમાં ઘણા સુધારા કરવામાં આવ્યા છે. તેના ઇન્ટરફેસને પહેલા કરતા વધુ સરળ અને આધુનિક બનાવવામાં આવ્યું છે. ત્યારે અન્ય કયા ફેરફારો કરવામાં આવ્યા છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/irctc-new-beta-website-launched-big-change-after-24-years-ticket-booking-will-be-superfast-484750 ",
+    "time": "2026-07-15T18:02:49.000Z"
+  },
+  {
     "cat": "World",
     "title": "હોર્મુઝ ટોલ ટેક્સથી લઈ પરમાણુ ડીલ સુધી: જાણો કેમ વર્લ્ડ મીડિયામાં ટ્રમ્પના નિર્ણયોની ઉડી રહી છે મજાક",
     "desc": "વૈશ્વિક મીડિયામાં અમેરિકી પ્રમુખ ડોનાલ્ડ ટ્રમ્પને 'યુ-ટર્ન કિંગ' તરીકે દર્શાવવામાં આવી રહ્યા છે, કારણ કે ઈરાન સાથેના સાડા ચાર મહિનાના યુદ્ધ દરમિયાન તેમણે પોતાના જ નિર્ણયો અને નિવેદનોમાં રેકોર્ડબ્રેક ૩૬ વખત ફેરફાર (યુ-ટર્ન) કર્યો છે.",
@@ -403,15 +412,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/eye-for-eye-iran-gave-a-befitting-reply-to-america-attack-the-world-strongest-security-shield-and-attack-system-was-destroyed-in-an-instant-484535 ",
     "time": "2026-07-13T14:57:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ગાડી, બંગલો, પગાર... જાણો રામ મંદિરના પ્રથમ CEOને કઈ કઈ સુવિધાઓ મળશે ?",
-    "desc": "ઘણા લોકોને એવું લાગે છે કે ધાર્મિક ટ્રસ્ટમાં ઉચ્ચ હોદ્દા પર રહેલી વ્યક્તિ કોઈ પગાર લેતો નથી, ફક્ત સેવા માટે કામ કરે છે, પરંતુ એવું નથી. આ એક ફુલ ટાઈમ કોર્પોરેટ નોકરી છે. ત્યારે રામ મંદિરના પ્રથમ CEOને કઈ કઈ સુવિધાઓ આપવામાં આવશે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/ayodhya-ram-mandir-first-ceo-will-get-vip-facilities-car-bungalow-salary-484534 ",
-    "time": "2026-07-13T14:37:18.000Z"
   },
   {
     "cat": "Business",

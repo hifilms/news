@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Action begins in Atlanta, both teams try to control midfield",
+    "desc": "England take on Argentina in a high-stakes FIFA World Cup 2026 semi-final at the Atlanta Stadium in Georgia. The high-voltage affair will bring together two nations with a deep World Cup history as they compete...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/eng-vs-arg-fifa-world-cup-live-england-vs-argentina-score-commentary-tactical-analysis-highlight-reaction-lionel-messi-harry-kane-jude-bellingham-1048375",
+    "time": "2026-07-15T18:24:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why are Bukayo Saka, Marcus Rashford not playing for England vs Argentina in FIFA World Cup 2026 semis?",
+    "desc": "England have benched star wingers Bukayo Saka and Marcus Rashford from the starting lineup for the FIFA World Cup 2026 semi-final against Argentina. Head coach Thomas Tuchel made a tactical switch for the high-voltage game,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/why-are-bukayo-saka-marcus-rashford-not-playing-for-england-vs-argentina-in-fifa-world-cup-2026-semis-2026-07-15-1048371",
+    "time": "2026-07-15T18:09:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Atlanta police on alert as security tightened for England vs Argentina FIFA World Cup semi-final",
+    "desc": "Atlanta police have tightened security plans for the FIFA World Cup 2026 semi-final between Argentina and England. The Police Department has introduced additional measures for the high-profile fixture, which officials consider a potentially high-risk event...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/atlanta-police-on-alert-as-security-tightened-for-england-vs-argentina-fifa-world-cup-semi-final-2026-07-15-1048368",
+    "time": "2026-07-15T17:44:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Where to watch England vs Argentina FIFA World Cup 2026 semi-final live on TV and stream online for free?",
+    "desc": "England and Argentina will renew one of football’s most intense rivalries when they meet in the FIFA World Cup 2026 semi-final in the early hours of Thursday, July 16. The match will be played at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/where-to-watch-england-vs-argentina-fifa-world-cup-2026-semi-final-live-on-tv-and-stream-online-for-free-2026-07-15-1048366",
+    "time": "2026-07-15T16:34:48.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Rodri can become first Spain player to achieve historic feat that even Xavi, Iniesta, Ramos couldn't",
     "desc": "Spain midfielder Rodri is on the verge of entering football’s most exclusive club that features the likes of Lionel Messi, Zinedine Zidane, Kaka and Ronaldinho, among six others. He needs to win the FIFA World...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-pakistan-can-meet-each-other-three-times-in-odi-world-cup-2027-heres-how-2026-07-15-1048342",
     "time": "2026-07-15T12:13:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC announces major changes to ODI World Cup 2027 and T20 World Cup 2028 format; check details",
-    "desc": "The International Cricket Council (ICC) has announced some major changes to the format of the ODI World Cup 2027 with the introduction of a 'Super Series' and a 'Super Seven' stage. The tournament will remain...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/icc-announces-major-changes-to-odi-world-cup-2027-and-t20-world-cup-2028-format-check-details-2026-07-15-1048328",
-    "time": "2026-07-15T11:06:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Argentina out of World Cup' campaign sees over 7 million petitions signed; know reason here",
-    "desc": "Over seven million petitions were reportedly signed to 'kick Argentina out of the World Cup', alleging 'bias' towards La Albiceleste and Lionel Messi in the ongoing tournament. Argentina are set to face England in their...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/argentina-out-of-world-cup-campaign-sees-over-7-million-petitions-signed-know-reason-here-2026-07-15-1048318",
-    "time": "2026-07-15T09:16:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill closes in on World No.1 ODI ranking, Axar Patel storms into top 10 after England brilliance",
-    "desc": "India Test and ODI captain Shubman Gill closed in on the World No.1 ODI rankings for batters after making ground on the top-ranked Daryl Mitchell in the latest ICC rankings on Wednesday, July 14. Gill...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-closes-in-on-world-no1-odi-ranking-axar-patel-storms-into-top-10-after-england-brilliance-2026-07-15-1048309",
-    "time": "2026-07-15T08:35:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Didier Deschamps criticises referee ruling as France's World Cup dream gets shattered",
-    "desc": "French coach Didier Deschamps questioned the refereeing during the FIFA World Cup 2026 semifinal against Spain, as the Les Bleus' run in the tournament came to a heartbreaking end. France were defeated 0-2 at the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/didier-deschamps-criticises-referee-ruling-as-frances-world-cup-dream-gets-shattered-2026-07-15-1048303",
-    "time": "2026-07-15T07:59:34.000Z"
   }
 ];
