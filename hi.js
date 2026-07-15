@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Rodri can become first Spain player to achieve historic feat that even Xavi, Iniesta, Ramos couldn't",
+    "desc": "Spain midfielder Rodri is on the verge of entering football’s most exclusive club that features the likes of Lionel Messi, Zinedine Zidane, Kaka and Ronaldinho, among six others. He needs to win the FIFA World...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/rodri-can-become-first-spain-player-to-achieve-historic-feat-that-even-xavi-iniesta-ramos-couldn-t-achieve-2026-07-15-1048364",
+    "time": "2026-07-15T16:01:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ben Stokes set to return to competitive cricket after international retirement, will skip The Hundred",
+    "desc": "For the first time since announcing his international retirement, Ben Stokes will be in action on Tuesday, July 21, when Durham take on Derbyshire in the opening round of the One-Day Cup. It will be...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ben-stokes-set-to-return-to-competitive-cricket-after-international-retirement-will-skip-the-hundred-2026-07-15-1048360",
+    "time": "2026-07-15T15:16:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Carlos Alcaraz to miss Canada Open too, what's his injury status after missing French Open, Wimbledon?",
+    "desc": "Carlos Alcaraz is closing in on a return to the ATP Tour after months away from competition. The seven-time Grand Slam winner missed the Roland Garros, Wimbledon, alongside several ATM tours on the tennis calendar,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-to-miss-canada-open-too-what-s-his-injury-status-after-missing-french-open-wimbledon-2026-07-15-1048355",
+    "time": "2026-07-15T14:24:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Axar Patel joins Rohit Sharma, Jasprit Bumrah in elite record list after earning POTM against England",
+    "desc": "India defeated England by six wickets in the first ODI of the three-match series at Edgbaston as Axar Patel's produced a stellar all-round performance. His four-wicket haul and a fifty propelled India to return to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/axar-patel-joins-rohit-sharma-jasprit-bumrah-in-elite-record-list-after-earning-potm-against-england-2026-07-15-1048350",
+    "time": "2026-07-15T13:45:16.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Kylian Mbappe stays on top in race for Golden Boot despite France’s heartbreaking World Cup loss",
     "desc": "The FIFA World Cup semifinal in Dallas ended with Spain knocking France out of the tournament as Mikel Oyarzabal and Pedro Porro’s strikes powered La Roja to a 2-0 win on Tuesday (local time). Despite...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/didier-deschamps-criticises-referee-ruling-as-frances-world-cup-dream-gets-shattered-2026-07-15-1048303",
     "time": "2026-07-15T07:59:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kylian Mbappe speaks on France's World Cup semifinal loss to Spain, rues technical and tactical blunders",
-    "desc": "Kylian Mbappe spoke on the tactical errors and technical flaws that saw them face a 0-2 loss to Spain in the FIFA World Cup 2026 semifinal on Wednesday (IST). Mbappe rued that the Les Bleus...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/kylian-mbappe-speaks-on-frances-world-cup-semifinal-loss-to-spain-rues-technical-and-tactical-blunders-2026-07-15-1048294",
-    "time": "2026-07-15T07:10:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "First time in FIFA World Cup history! Spain create huge record with 2-0 France win",
-    "desc": "Spain denied powerhouses France their third straight entry into the World Cup final after defeating the Les Bleus 2-0 in the semifinal at the Dallas Stadium on Wednesday (July 15). La Roja kept the dangerous...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/first-time-in-fifa-world-cup-history-spain-create-huge-record-with-france-win-2026-07-15-1048285",
-    "time": "2026-07-15T06:05:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "France ghost in semis as Spain punch FIFA World Cup final ticket after 16 years following 2-0 win",
-    "desc": "Spain booked their place in the FIFA World Cup final for only the second time in history after defeating France 2-0 in the semi-final at Dallas Stadium on Tuesday. First-half penalty from Mikel Oyarzabal and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/france-ghost-in-semis-as-spain-punch-fifa-world-cup-final-ticket-after-16-years-following-2-0-win-2026-07-15-1048257",
-    "time": "2026-07-14T21:36:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Spain beat France 2-0 to move to FIFA World Cup 2026 final",
-    "desc": "2018 FIFA World Cup winner and 2022 runners-up France will take on the current Euro winner, Spain, in the first semi-final of the FIFA World Cup 2026 at Dallas Stadium. The blockbuster encounter pits France’s...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/fra-vs-esp-fifa-world-cup-live-france-vs-spain-score-commentary-tactical-analysis-highlight-reaction-1048256",
-    "time": "2026-07-14T18:37:07.000Z"
   }
 ];

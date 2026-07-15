@@ -1,21 +1,255 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "A revival of sedition tied to consent",
-    "desc": "The Supreme Court’s May 21 clarification partially revives sedition proceedings under Section 124A for consenting accused persons; the direction creates disparity in the working of Section 124A and leaves accused caught between trial under an undecided law and indefinite limbo",
-    "img": "https://th-i.thgim.com/public/incoming/di5xqt/article71034563.ece/alternates/LANDSCAPE_1200/840064046",
+    "title": "Range-wide police drive targets wanted offenders in north Kerala",
+    "desc": "Intensive combing operation covers six police districts under the Kannur Range; drive focusses on wanted and habitual offenders, drug-trafficking networks, and suspicious locations; police arrest 159 persons against whom warrants were pending and register 606 cases",
+    "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/a-revival-of-sedition-tied-to-consent/article71033690.ece",
-    "time": "2026-07-15T13:26:37.000Z"
+    "url": "https://www.thehindu.com/news/national/kerala/range-wide-police-drive-targets-wanted-offenders-in-north-kerala/article71225282.ece",
+    "time": "2026-07-15T16:13:37.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "US issues new non-proliferation sanctions targeting individuals, entities in Iran, Russia",
+    "desc": "The United States has enacted fresh sanctions against seven individuals and entities linked to Iran's arms procurement activities. Targeting parties in Iran, Russia, Italy, and Nigeria, these sanctions aim to cut off financial support for Iran’s military. Consequently, any assets under US jurisdiction will be frozen under these regulations, intensifying efforts to undermine Iran’s military networks.",
+    "img": "https://static.toiimg.com/photo/msid-132419940,imgsize-802607.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-issues-new-non-proliferation-sanctions-targeting-individuals-entities-in-iran-russia/articleshow/132419715.cms",
+    "time": "2026-07-15T16:03:45.000Z"
   },
   {
     "cat": "Politics",
-    "title": "‘Fighting like a tiger’: Mamata rallies behind Abhishek Banerjee amid TMC rebellion, vows to rebuild party",
-    "desc": "\"They wanted me to suffer a heart attack. But I will live till I see your end,\" she said, further linking Madan Mitra’s exit to an ED summons issued to his wife and two sons",
-    "img": "https://th-i.thgim.com/public/incoming/lsf6wq/article71225837.ece/alternates/LANDSCAPE_1200/PTI07_15_2026_000368B.jpg",
+    "title": "Two held for disrupting Supreme Court hearing with abuse and scattering papers",
+    "desc": "According to police, the incident occurred during the hearing of Special Leave Petition (Civil), Prabal Pratap and Another vs State of Uttar Pradesh through Commissioner inside Court No. 13 of the apex court on July 10",
+    "img": "https://th-i.thgim.com/public/incoming/gnd5tb/article71224284.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiGR7FV5KAC.3.jpg.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/mamata-rallies-behind-abhishek-banerjee-amid-tmc-rebellion-video-message/article71225778.ece",
-    "time": "2026-07-15T13:17:21.000Z"
+    "url": "https://www.thehindu.com/news/national/two-law-students-arrested-for-hurling-abuses-in-supreme-court-disrupting-proceedings/article71224251.ece",
+    "time": "2026-07-15T16:01:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Govt. should protect State’s interest in Vizhinjam, says Pinarayi",
+    "desc": "He says instead of claiming that the government had no stake in the concessionaire company, Chief Minister should state the government’s commitment to protecting the port rather than allowing it to be handed over to corporate interests",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/govt-should-protect-states-interest-in-vizhinjam-says-pinarayi/article71226783.ece",
+    "time": "2026-07-15T15:53:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Inside Aamir and Gauri's intimate wedding: Amin Hajee shares details",
+    "desc": "Aamir Khan's close friend and Lagaan co-star Amin Hajee has shared some heartwarming details about the superstar's private wedding to Gauri Spratt, giving fans a glimpse into the intimate celebration and Aamir's life away from the spotlight. Amin opened up about everything, from how Aamir first introduced Gauri to his closest friends to the actor's growing bond with her five-year-old son Quinn.",
+    "img": "https://static.toiimg.com/photo/msid-132419718,imgsize-102627.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/inside-aamir-khan-and-gauri-spratts-intimate-wedding-amin-hajee-opens-up-about-their-love-story-and-aamirs-heartwarming-bond-with-quinn/articleshow/132419448.cms",
+    "time": "2026-07-15T15:43:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'It's about standing up to invaders': Argentina vice-prez calls England 'pirate usurpers'",
+    "desc": "Argentina vice president Victoria Villarruel sparked controversy before the FIFA World Cup 2026 semi-final against England by calling the Three Lions \"pirate usurpers\" and invoking the Falklands (Malvinas), Diego Maradona and Lionel Messi. Her remarks came ahead of Messi's first-ever international meeting with England, as the defending champions chase a place in the final against Spain.",
+    "img": "https://static.toiimg.com/photo/msid-132419673,imgsize-167602.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/its-about-standing-up-to-invaders-argentina-vice-president-sparks-controversy-calls-england-pirate-usurpers-ahead-of-fifa-world-cup-clash/articleshow/132419452.cms",
+    "time": "2026-07-15T15:39:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'We are secular'",
+    "desc": "Sohail Khan and Seema Sajdeh reunited on Kunal Kemmu's reality show 'Alliance'. Sohail shared the personal story behind their elder son Nirvaan's unique name. He initially wanted to name their son Ram Khan, reflecting their secular beliefs. However, Seema suggested Nirvaan after giving birth, and the name stuck. The former couple continues to co-parent their children amicably after their divorce.",
+    "img": "https://static.toiimg.com/photo/msid-132419670,imgsize-270197.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sohail-khan-reveals-he-wanted-to-name-his-son-ram-khan-but-then-wife-seema-sachdeh-came-up-with-nirvaan-we-are-secular/articleshow/132419662.cms",
+    "time": "2026-07-15T15:39:35.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "report",
+    "desc": "Anil Ambani’s Reliance Group, one of the plant’s contractors, told Reuters in a statement that there had been a “partial breach” of its data on a server hosted by third-party Indian data centre service provider Yotta, and that the govt. has been informed about the incident",
+    "img": "https://th-i.thgim.com/public/incoming/jqllwl/article71226296.ece/alternates/LANDSCAPE_1200/IMG_KKNPP3_2_1_2HDVIIE2.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/files-relating-to-kudankulam-nuclear-power-plant-exposed-in-data-breach-report/article71226179.ece",
+    "time": "2026-07-15T15:32:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NDA government revived aquaculture sector, asserts Fisheries Minister Atchannaidu",
+    "desc": "The previous YSRCP government has weakened the sector through its policy failures, he alleges, adding that the NDA dispensation has released ₹32 crore for Fisheries University at Narasapuram and strengthened the APSADA Act to improve governance and transparency",
+    "img": "https://th-i.thgim.com/public/incoming/bn1tyy/article71226698.ece/alternates/LANDSCAPE_1200/vjkvg-fisheries%204.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/nda-government-revived-aquaculture-sector-asserts-fisheries-minister-atchannaidu/article71225981.ece",
+    "time": "2026-07-15T15:27:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "JPMorgan Chase on track to become world's first bank with a $1 trillion valuation",
+    "desc": "JPMorgan Chase is nearing a $1 trillion market valuation, a historic milestone for a bank. The lender's shares reached a record high after reporting its highest quarterly profit ever. Analysts expect dealmaking activity to remain strong through the rest of 2026. This achievement would place JPMorgan alongside major technology giants like Tesla and Meta. The bank's diversified business model and strong leadership contribute to its impressive performance.",
+    "img": "https://static.toiimg.com/photo/msid-132419215,imgsize-633008.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/jpmorgan-chase-on-track-to-become-worlds-first-bank-with-a-1-trillion-valuation/articleshow/132418862.cms",
+    "time": "2026-07-15T15:19:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jeetendra buys apartment worth Rs 6.5 crore in Pune with 5000 sq ft carpet area",
+    "desc": "Actor Jeetendra and his children bought a lavish Pune apartment. This luxurious residence is valued at approximately Rs 6.5 crore. The entire 23rd floor offers complete privacy and exclusive access. The family also owns the entire residential tower worth Rs 145 crore. This Pune home will serve as a weekend getaway and work base.",
+    "img": "https://static.toiimg.com/photo/msid-132419178,imgsize-289600.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/jeetendra-buys-apartment-worth-rs-6-5-crore-in-pune-with-5000-sq-ft-carpet-area-heres-a-glimpse-into-this-lavish-house/articleshow/132419126.cms",
+    "time": "2026-07-15T15:13:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kurnool district to receive 1.5 tmcft of drinking water from Tunghabadra",
+    "desc": "Collector says the release of water will commence at 9 a.m. on Thursday at a rate of 900 cusecs, and is likely to take about a week to reach the district through the canal network",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/kurnool-district-to-receive-15-tmcft-of-drinking-water-from-tunghabadra/article71226157.ece",
+    "time": "2026-07-15T15:12:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Akshay Kumar-Saif Ali Khan starrer 'Haiwaan' release date out",
+    "desc": "Akshay Kumar and Saif Ali Khan will star in Priyadarshan's upcoming psychological thriller Haiwaan. The film's theatrical release date has been officially announced by the makers. New posters reveal Akshay Kumar in a robber-like outfit and Saif Ali Khan looking confident. The production house shared that some monsters live among us, ready for release. This tense, high-stakes thriller is scheduled to premiere on September 11, 2026.",
+    "img": "https://static.toiimg.com/photo/msid-132419125,imgsize-240124.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/haiwaan-release-date-priyadarshans-99th-film-starring-akshay-kumar-and-saif-ali-khan-to-hit-theatres-on-this-date/articleshow/132419069.cms",
+    "time": "2026-07-15T15:10:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala’s government hospitals face a shortage of specialist doctors",
+    "desc": "Over 280 specialist doctor posts remain vacant in government hospitals, according to RTI data; more than 50 hospitals with delivery points lack adequate teams of gynaecologists, paediatricians and anaesthetists; doctors’ association calls for urgent recruitment, creation of more posts and faster promotions",
+    "img": "https://th-i.thgim.com/public/incoming/j02i2r/article71226623.ece/alternates/LANDSCAPE_1200/80692_8_5_2025_15_21_58_3_MCH10.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/keralas-government-hospitals-face-a-shortage-of-specialist-doctors/article71224741.ece",
+    "time": "2026-07-15T15:10:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Telangana CM lays foundation stone for Amazon Web Services’ data centre, wants global giant to invest ₹1 lakh crore",
+    "desc": "Telangana IT and Industries Minister D. Sridhar Babu says a decision was taken to set up a data centre park at Aloor where comprehensive facilities including uninterrupted power and water were being put in place",
+    "img": "https://th-i.thgim.com/public/news/cities/Hyderabad/hv4lio/article71224889.ece/alternates/LANDSCAPE_1200/Amazon%20Web%20Services%20data%20centre.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telangana/telangana-cm-lays-foundation-stone-for-amazon-web-services-data-centre-in-bharat-future-city-wants-global-giant-to-invest-1-lakh-crore/article71224855.ece",
+    "time": "2026-07-15T15:09:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A cathedral revives debate on Kerala’s unique church architecture",
+    "desc": "The newly renovated St. Mary’s Orthodox Cathedral in Puthiyakavu, Mavelikara, is set to be consecrated on July 17 and 18. Established in AD 943, the cathedral blends Portuguese Baroque and traditional Kerala designs, showcasing a 2,000-year cultural evolution among Saint Thomas Christians.",
+    "img": "https://th-i.thgim.com/public/incoming/fu8tn0/article71226483.ece/alternates/LANDSCAPE_1200/St.%20Mary%E2%80%99s%20Orthodox%20Cathedral-1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/a-cathedral-revives-debate-on-keralas-unique-church-architecture/article71226086.ece",
+    "time": "2026-07-15T15:07:14.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Buffett says decision to stop Gates Foundation donations not a surprise",
+    "desc": "He now ⁠wants the shares distributed by the end of 2034, rather than 10 years after his death. He noted his children’s advancing ages. Susie Buffett, ‌the oldest, will be 81 by the end of 2034",
+    "img": "https://th-i.thgim.com/public/incoming/7y56cs/article71225975.ece/alternates/LANDSCAPE_1200/2017-05-07T195719Z_707881112_RC1CB2B22ED0_RTRMADP_3_BERKSHIRE-BUFFETT.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/buffett-says-decision-to-stop-gates-foundation-donations-not-a-surprise/article71225831.ece",
+    "time": "2026-07-15T14:56:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Sonam Wangchuk said, 'I'm not Phunsukh Wangdu from Aamir Khan's 3 Idiots'",
+    "desc": "Sonam Wangchuk is on an indefinite hunger strike seeking a minister's resignation. He denies being the inspiration for the character Phunsukh Wangdu in the film. Wangchuk claims filmmakers secretly shot at his school without permission. He met Aamir Khan and pitched a different film idea previously. Wangchuk feels celebrity culture overshadows real-life achievements.",
+    "img": "https://static.toiimg.com/photo/msid-132418919,imgsize-324769.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-sonam-wangchuk-said-im-not-phunsukh-wangdu-from-aamir-khans-3-idiots-the-educator-said-he-didnt-take-action-against-the-film-didnt-want-people-to-think-i-was-trying-to-get-money/articleshow/132418715.cms",
+    "time": "2026-07-15T14:52:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India and Pakistan to face each other three times? ICC's new WC format explained",
+    "desc": "The International Cricket Council's new format for the 2027 ODI World Cup has drawn criticism. This revised structure increases the chances of India and Pakistan meeting multiple times. Emerging nations face limited meaningful participation in the expanded tournament. The format aims to make every match more significant from the start. This change also allows for potential repeat encounters between top rivals.",
+    "img": "https://static.toiimg.com/photo/msid-132418456,imgsize-214518.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-and-pakistan-to-face-each-other-three-times-iccs-new-world-cup-format-explained/articleshow/132418466.cms",
+    "time": "2026-07-15T14:41:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Indian teenager Arnav Paparkar causes a flutter in the tennis world",
+    "desc": "With a clinical 6-2, 6-1 demolition of Japan’s Ryo Tabata in the boys’ round of 16, the 18-year-old stormed into the Wimbledon quarterfinals and became the first Indian since the legendary Leander Paes in 1990 to achieve the feat",
+    "img": "https://th-i.thgim.com/public/sport/jqb8r7/article71226427.ece/alternates/LANDSCAPE_1200/TH16ARNAV%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/tennis/indian-teenager-arnav-paparkar-causes-a-flutter-in-the-tennis-world/article71226412.ece",
+    "time": "2026-07-15T14:40:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Pawan Kalyan returns home after surgery",
+    "desc": "Pawan Kalyan has been discharged from a Mumbai hospital after shoulder surgery. His wife Anna Lezhneva expressed gratitude to the medical team for exceptional care. The surgery addressed a long-standing rotator cuff injury in his right shoulder. He will begin physiotherapy in three weeks and expects full recovery in four months. Kalyan will return to Hyderabad before resuming his acting and political commitments.",
+    "img": "https://static.toiimg.com/photo/msid-132418371,imgsize-144236.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/pawan-kalyan-health-update-wife-anna-lezhneva-confirms-actors-discharge-after-surgery-says-our-hearts-are-full-of-gratitude/articleshow/132418323.cms",
+    "time": "2026-07-15T14:30:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Censor Board clearance for OTT films? Govt might amend IT Rules 2021 after row over 'Satluj'",
+    "desc": "The government is considering mandatory Central Board of Film Certification for OTT releases. This move would require amendments to existing IT rules for digital media. A recent controversy over the film Satluj on Zee5 prompted this consideration. Action may also be initiated against Zee5 for its release while under review. State governments are responsible for enforcing laws against private screenings of uncertified films.",
+    "img": "https://static.toiimg.com/photo/msid-132418135,imgsize-148610.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/censor-board-clearance-for-ott-films-govt-might-amend-it-rules-2021-after-row-over-satluj/articleshow/132417639.cms",
+    "time": "2026-07-15T14:30:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "No rating-based spots! FIDE launches new qualification system for 2028 Candidates",
+    "desc": "FIDE has approved a revamped qualification system for the 2028 Open and Women’s Candidates Tournaments, introducing the Total Chess World Championship Tour as a new pathway while removing rating-based qualification. World Cup spots have been reduced to two finalists, and FIDE Circuit places will be decided over a two-year cycle, rewarding consistent performances across major events.",
+    "img": "https://static.toiimg.com/photo/msid-132418362,imgsize-163058.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/no-rating-based-spots-fide-launches-new-qualification-system-for-2028-candidates-chess-tournaments/articleshow/132417912.cms",
+    "time": "2026-07-15T14:29:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'If Ramchandra married once, Rahim too should marry once': MP CM Mohan Yadav's UCC pitch",
+    "desc": "Madhya Pradesh Chief Minister Mohan Yadav strongly supports implementing a Uniform Civil Code. The state government plans to introduce a UCC Bill during the upcoming monsoon session. A committee submitted its report recommending UCC implementation, excluding tribal communities. The chief minister criticized the Congress party for its stance on the UCC issue. The government will also abide by the Supreme Court's decision on the Bhojshala dispute.",
+    "img": "https://static.toiimg.com/photo/msid-132418282,imgsize-199534.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/if-ramchandra-married-once-rahim-too-should-marry-once-mp-cm-mohan-yadavs-ucc-pitch/articleshow/132418045.cms",
+    "time": "2026-07-15T14:24:18.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Leaving U.K. in better shape: Keir Starmer at final Parliament session as PM",
+    "desc": "Andy Burnham, the former Mayor of Greater Manchester, is on course to take charge as the new British Prime Minister next week after being endorsed by a resounding 349 Labour MPs in the leadership race",
+    "img": "https://th-i.thgim.com/public/incoming/gwjer3/article71226102.ece/alternates/LANDSCAPE_1200/Britain_Politics__1_36.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/leaving-uk-in-better-shape-keir-starmer-at-final-parliament-session-as-pm/article71225984.ece",
+    "time": "2026-07-15T13:57:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tom Cruise breaks down extensive make-up process for 'Digger'",
+    "desc": "Tom Cruise embraces a new role in Alejandro González Iñárritu's upcoming dark comedy film. He utilized extensive makeup and costumes to convey his character's story. The actor focused on physicality and specific costume details for his performance. He discussed how the director helped him find the character's unique rhythm. 'Digger' is scheduled for release on October 2, 2026.",
+    "img": "https://static.toiimg.com/photo/msid-132417687,imgsize-146282.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-cruise-breaks-down-extensive-make-up-process-for-digger-reveals-inarritu-tied-the-look-you-look-at-the-taste-of-this-man/articleshow/132417714.cms",
+    "time": "2026-07-15T13:42:52.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Why China’s 4.3% growth is worrying its government",
+    "desc": "It's the slowest growth since 2022, when China was still in the grips of the pandemic, and below the government's already-lowered annual target of 4.5-5%; the country is facing multiple challenges of a real estate slowdown, sluggish consumption, and serious challenges in the job market",
+    "img": "https://th-i.thgim.com/public/news/national/1j4w0e/article71224725.ece/alternates/LANDSCAPE_1200/iStock-480560946.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/why-chinas-43-growth-is-worrying-its-government-explainer/article71224721.ece",
+    "time": "2026-07-15T13:30:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Abhishek has done no wrong': Mamata Banerjee stands firmly behind nephew amid rebellion in TMC",
+    "desc": "Mamata Banerjee strongly defended Abhishek Banerjee, stating he had done no wrong. She accused rebel leaders of unfairly targeting her nephew and his family. Mamata linked Madan Mitra's exit to ED summons, suggesting a 'setting' with the BJP. She asserted that a few leaders leaving would not weaken the Trinamool Congress party. The party chief vowed to rebuild the organization and continue its political fight.",
+    "img": "https://static.toiimg.com/photo/msid-132417295,imgsize-132553.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/abhishek-has-done-no-wrong-mamata-stands-firmly-behind-nephew-amid-rebellion-in-tmc/articleshow/132417266.cms",
+    "time": "2026-07-15T13:27:17.000Z"
   },
   {
     "cat": "Sports",
@@ -73,15 +307,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Mudragada buried under mango tree at Kirlampudi home; family declines State honours",
-    "desc": "The Kapu leader was buried in his regular attire, with his belongings, against community custom; the family declined State honours, citing ‘harassment’ under the Naidu government, and his estranged daughter was turned away in the morning",
-    "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/hbsuje/article71225583.ece/alternates/LANDSCAPE_1200/Jagan.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/mudragada-padmanabhams-daughter-turned-away-from-paying-last-respects-state-honours-for-last-rites/article71223985.ece",
-    "time": "2026-07-15T12:40:16.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "EC releases revised SIR schedule for electoral rolls",
     "desc": "The Election Commission has updated the schedule for electoral roll revision in six states. Draft publication dates vary, with final rolls due in October for most. Telangana's revision will see draft publication on August 10 and finalization on October 12. Haryana and Andhra Pradesh will publish draft rolls on July 31. This exercise aims to update voter lists by adding new and removing ineligible electors.",
     "img": "https://static.toiimg.com/photo/msid-132416140,imgsize-101989.cms",
@@ -106,15 +331,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-advance-booking-canada-gives-vip-members-priority-as-vijay-starrer-sees-strong-overseas-response/articleshow/132415953.cms",
     "time": "2026-07-15T12:20:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Lakshadweep MP meets Kerala CM, seeks the State’s support for healthcare and connectivity improvements",
-    "desc": "M. Hamdullah Sayeed highlights the financial struggles islanders face when seeking treatment in Kerala. He calls for a dedicated help desk at local hospitals, improved vessel services from Beypore, and measures to combat rising drug trafficking.",
-    "img": "https://th-i.thgim.com/public/incoming/bur6iw/article71225455.ece/alternates/LANDSCAPE_1200/muhammed%20hamdulla%20sayeed.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/lakshadweep-mp-writes-to-satheesan-seeks-keralas-support-for-healthcare-and-connectivity-improvements/article71225363.ece",
-    "time": "2026-07-15T12:08:16.000Z"
   },
   {
     "cat": "Sports",
@@ -171,24 +387,6 @@ const newsData_en = [
     "time": "2026-07-15T11:33:48.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Supreme Court raises students’ ‘frustration’ over CBSE OSM glitches with Govt., seeks status report",
-    "desc": "The petition seeks individual responsibility to be fixed for a failure which affected a large number of students in India and abroad; it lists several irregularities 'systematic negligence/failure resulting in a breach of duty of care’",
-    "img": "https://th-i.thgim.com/public/incoming/3rx4bv/article71225355.ece/alternates/LANDSCAPE_1200/TH14-KDR-Three-GDIG8H9I1.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/supreme-court-raises-students-frustration-over-cbse-osm-glitches-with-govt-seeks-status-report/article71224928.ece",
-    "time": "2026-07-15T11:24:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CPI has no plan to join TVK-led Tamil Nadu government: Veerapandian",
-    "desc": "Asked about reports that the Left partywas planning to join the government, Mr. Veerapandian told The Hindu that he had only said the party would join a government when the time came for the Left to assume power in Indian politics.",
-    "img": "https://th-i.thgim.com/public/incoming/inys0w/article71225308.ece/alternates/LANDSCAPE_1200/PTI05_08_2026_000211A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/cpi-has-no-plan-to-join-tvk-led-tamil-nadu-government-veerapandian/article71225280.ece",
-    "time": "2026-07-15T11:24:19.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Inside India's esports boom: Why leagues, careers and homegrown IP matter more than ever",
     "desc": "India has around 600 million gamers and one of the world's fastest-growing gaming markets. But industry leaders believe the next challenge is no longer attracting players - it is building leagues, careers, intellectual property and businesses that can sustain long-term growth. As investment, regulation and e-cricket gather momentum, Indian esports finds itself at a defining moment in its evolution.",
@@ -196,24 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/esports/news/inside-indias-esports-boom-why-leagues-careers-and-homegrown-ip-matter-more-than-ever/articleshow/132414039.cms",
     "time": "2026-07-15T11:24:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CPI no longer in DMK-led alliance in Tamil Nadu, says Veerapandian",
-    "desc": "“The current situation is not conducive for an alliance. In the coming days, when there are local body and other elections, the CPI will decide its stand. The CPI takes its own political decisions,” he said",
-    "img": "https://th-i.thgim.com/public/incoming/ygqey8/article71088238.ece/alternates/LANDSCAPE_1200/communist_8.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/cpi-not-part-of-dmk-alliance-in-tamil-nadu-says-veerapandian/article71088024.ece",
-    "time": "2026-07-15T11:23:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Thazhappattu makes it to school curriculum",
-    "desc": "Screwpine art, which involves transforming simple leaves into green, sustainable thazhappas (mats) — a craft that was once a thriving cottage industry in Thazhava but has slowly declined due to modern challenges – receives a significant tribute in the form of Thazhappattu, a song written by Ani Mank.",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/28rcyt/article71225171.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-15%20at%203.12.15%20PM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/an-anthem-for-a-vanishing-craft-thazhappattu-makes-it-to-school-curriculum/article71225160.ece",
-    "time": "2026-07-15T11:18:05.000Z"
   },
   {
     "cat": "Sports",
@@ -250,15 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/big-setback-for-prashant-kishor-four-jan-suraaj-leaders-switch-to-bjp-before-bankipur-bypoll/articleshow/132414200.cms",
     "time": "2026-07-15T11:08:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Chief warder, two warders arrested for the death of a remand prisoner in Nagercoil jail",
-    "desc": "Sabari Varman, 34, a differently abled resident of Eeththankaadu near Suchindram, was arrested on July 9 for allegedly possessing the banned gutka and remanded in custody. He died in the prison there under suspicious circumstances on July 12",
-    "img": "https://th-i.thgim.com/public/latest-news/gh1ao5/article71222737.ece/alternates/LANDSCAPE_1200/NagercoilJail.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/chief-warder-two-warders-arrested-for-the-death-of-a-remand-prisoner-in-nagercoil-jail/article71222438.ece",
-    "time": "2026-07-15T11:02:07.000Z"
   },
   {
     "cat": "Sports",
@@ -396,33 +567,6 @@ const newsData_en = [
     "time": "2026-07-15T09:25:07.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Why China’s 4.3% growth is worrying its government",
-    "desc": "It's the slowest growth since 2022, when China was still in the grips of the pandemic, and below the government's already-lowered annual target of 4.5-5%; the country is facing multiple challenges of a real estate slowdown, sluggish consumption, and serious challenges in the job market",
-    "img": "https://th-i.thgim.com/public/news/national/1j4w0e/article71224725.ece/alternates/LANDSCAPE_1200/iStock-480560946.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/why-chinas-43-growth-is-worrying-its-government-explainer/article71224721.ece",
-    "time": "2026-07-15T09:15:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anne Hathaway on her years-long gap with Christopher Nolan",
-    "desc": "In a light-hearted revelation, Anne Hathaway shared her past inclination to avoid offending director Christopher Nolan, for whom she holds deep appreciation after being cast in multiple projects. She reminisced about their journey that began with 'The Dark Knight Rises', commending Nolan's knack for blending cerebral storytelling with emotional depth. Fans eagerly await Hathaway's forthcoming film with him, 'The Odyssey'.",
-    "img": "https://static.toiimg.com/photo/msid-132411770,imgsize-142502.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/anne-hathaway-jokes-she-feared-offending-christopher-nolan-during-interstellar-i-hope-i-didnt-say-anything/articleshow/132411464.cms",
-    "time": "2026-07-15T09:15:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhamaal 4' BO Day 6 [LIVE]: Crosses Rs 85 crore",
-    "desc": "'Dhamaal 4', led by Ajay Devgn, Arshad Warsi, Riteish Deshmukh and Jaaved Jaaferi, is heading into the final stretch of its opening week. After a Day 4 slump, the film bounced back on Day 5 with a healthier Rs 9.50 crore, pushing the domestic net past Rs 84 crore on Day 6 and the worldwide gross beyond Rs 115 crore, with a Rs 90 crore Week 1 domestic total now within reach.",
-    "img": "https://static.toiimg.com/photo/msid-132411706,imgsize-121348.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhamaal-4-box-office-collection-day-6-ajay-devgn-arshad-warsi-comedy-crosses-rs-84-crore-and-rs-115-crore-worldwide-gross/articleshow/132411697.cms",
-    "time": "2026-07-15T09:10:45.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Anurag Kashyap says former CBFC Chief Prasoon objected to Satluj without watching it",
     "desc": "Filmmaker Anurag Kashyap claims Prasoon Joshi objected to the film Satluj. He stated the former CBFC chairperson had not watched the movie. The film, previously titled Punjab '95, faced censorship issues for years. It was recently removed from ZEE5 after its release. Kashyap criticized the lack of public statements on censorship controversies.",
@@ -441,15 +585,6 @@ const newsData_en = [
     "time": "2026-07-15T08:50:31.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Inside Govinda and Sunita Ahuja's Rs 16 crore Mumbai residence",
-    "desc": "Sunita Ahuja recently revealed her luxurious Mumbai home, valued at Rs 16 crore. This residence meticulously incorporates Vastu Shastra principles throughout its design. The family actively participated in decorating, adding personal touches to every space. Sacred corners and elegant interiors reflect a blend of luxury and spirituality. The living room serves as the home's busy heart, fostering harmony and positive energy.",
-    "img": "https://static.toiimg.com/photo/msid-132411225,imgsize-57684.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/inside-govinda-and-sunita-ahujas-rs-16-crore-mumbai-residence-designed-around-vastu-with-italian-furniture-and-rare-dcor/articleshow/132411206.cms",
-    "time": "2026-07-15T08:39:42.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'In solidarity with Wangchuk': CJP announces 1-day mass hunger strike at Jantar Mantar tomorrow",
     "desc": "The Cockroach Janata Party will hold a hunger strike on July 16 supporting Sonam Wangchuk. Wangchuk's health is declining on his eighteenth day of fasting. He has lost significant muscle mass and is experiencing immense pain. A court petition seeks to force-feed Wangchuk and move him to a hospital. This intervention is deemed necessary to preserve his life and prevent further deterioration.",
@@ -459,15 +594,6 @@ const newsData_en = [
     "time": "2026-07-15T08:33:59.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Priyanka recalls Nick's unusual request when they first began talking",
-    "desc": "Priyanka Chopra and Nick Jonas shared their romance's early days on a podcast. Their connection began with a Twitter exchange back in 2016. Nick requested a timestamped photo to verify Priyanka's identity. They did not start dating until about eighteen months later. Their engagement followed just two and a half months after dating began.",
-    "img": "https://static.toiimg.com/photo/msid-132410837,imgsize-291182.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-recalls-nick-jonas-unusual-request-when-they-first-began-chatting-he-asked-me-for-a-photo-that-moment-looking-into-the-camera-with-a-time-stamp/articleshow/132410799.cms",
-    "time": "2026-07-15T08:32:15.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'I'm a bit tipsy': Sinner's honest Wimbledon Ball confession wins hearts — Watch",
     "desc": "Jannik Sinner charmed guests at the Champions' Ball with candid remarks. He admitted to being slightly tipsy while discussing his mother's stress. Sinner also humorously shared his repeated motorcycle license test failures. The world number one successfully defended his Wimbledon crown recently. This victory marked his fifth Grand Slam title and hundredth match win.",
@@ -475,15 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/im-a-little-bit-tipsy-jannik-sinners-honest-wimbledon-champions-ball-confession-wins-hearts-watch/articleshow/132410707.cms",
     "time": "2026-07-15T08:30:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Hindus and Sikhs of Punjab are watching the movie together,' Satluj director slams propaganda claims",
-    "desc": "Director Honey Trehan denies his film 'Satluj' is propaganda and claims it fosters unity. He states Hindus and Sikhs watched the movie together peacefully in Punjab. Trehan argues the government's intervention led to the film's removal from the platform. The film was released without completing the mandatory certification process, according to officials. 'Satluj' is inspired by human rights activist Jaswant Singh Khalra's work.",
-    "img": "https://static.toiimg.com/photo/msid-132410524,imgsize-262500.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hindus-and-sikhs-of-punjab-are-watching-the-movie-together-says-satluj-director-honey-trehan-slamming-claims-of-it-being-a-propanda-film-people-were-peacefully-watching/articleshow/132410515.cms",
-    "time": "2026-07-15T08:16:28.000Z"
   },
   {
     "cat": "Tech",
@@ -502,24 +619,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-track-to-quarter-finals-schedule-fixtures-france-morocco-spain-belgium-norway-england-argentina-switzerland/article71188709.ece",
     "time": "2026-07-15T08:06:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Mariah Carey",
-    "desc": "Mariah Carey, the Songbird Supreme, has influenced music for decades with her vocal range. Her journey highlights persistence and believing in oneself to achieve dreams. Carey's early career saw significant success and Grammy awards for her debut. She later faced personal challenges and was diagnosed with bipolar disorder. Despite a tumultuous career, her music continues to top charts and inspire listeners.",
-    "img": "https://static.toiimg.com/photo/msid-132410334,imgsize-263763.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-mariah-carey-if-you-believe-in-yourself-enough-and-know-what-you-want-youre-gonna-make-it-happen-when-the-make-it-happen-singer-sang-about-resilience-and-faith/articleshow/132410332.cms",
-    "time": "2026-07-15T08:06:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'The Odyssey': Anne Hathaway on how her marriage inspired her role",
-    "desc": "In her preparation for the character Penelope, Anne Hathaway draws heavily from her almost fourteen years of marriage to Adam Shulman, revealing how their relationship shapes her acting. At the film premiere, she also touched upon her pregnancy with their third child. Hathaway and Shulman met in 2008, and she quickly recognized him as her soulmate, a sentiment echoed by her co-star Matt Damon regarding marital inspiration.",
-    "img": "https://static.toiimg.com/photo/msid-132410278,imgsize-107410.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-odyssey-star-anne-hathaway-credits-her-marriage-to-adam-shulman-for-inspiring-her-character-i-am-one-of-the-luckiest-people/articleshow/132410213.cms",
-    "time": "2026-07-15T08:06:38.000Z"
   },
   {
     "cat": "Politics",
@@ -612,15 +711,6 @@ const newsData_en = [
     "time": "2026-07-15T05:44:51.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "China's Brahmaputra mega dam: Can it control river water flowing into India?",
-    "desc": "China is constructing a massive hydropower project on the Yarlung Tsangpo River. This project raises significant water security and strategic concerns for India. Experts warn of potential impacts on downstream water flows and ecological stability. India is accelerating its own hydropower development in response to these developments. The project's long-term implications for regional water management remain under scrutiny.",
-    "img": "https://static.toiimg.com/photo/msid-132407107,imgsize-98473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/chinas-brahmaputra-mega-dam-can-it-control-river-water-flowing-into-india/articleshow/132407062.cms",
-    "time": "2026-07-15T05:43:36.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Why FBI labelled Argentina vs England semi-final the 'highest-risk' match",
     "desc": "England and Argentina's World Cup semifinal is the tournament's highest-risk match. Extraordinary security measures are in place for this intense football rivalry. Decades of political tensions and historic flashpoints fuel concerns about fan behaviour. Officials are implementing separate entry gates to minimise potential confrontations. Authorities are ensuring this sensitive fixture remains confined to the pitch.",
@@ -628,15 +718,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/argentina-vs-england-why-fbi-labelled-this-fifa-world-cup-semi-final-the-highest-risk-match/articleshow/132407026.cms",
     "time": "2026-07-15T05:30:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'May die in 2 days, lost 8.5 kg': Plea in Delhi HC seeks 'force-feeding' of Sonam Wangchuk as hunger strike takes toll on activist's health",
-    "desc": "A plea seeks court intervention to force-feed activist Sonam Wangchuk, whose hunger strike has entered its eighteenth day. Concerns are growing over his deteriorating health as he has reportedly lost significant weight. The petition urges authorities to shift him to a government hospital for medical intervention. It argues that saving his life is of paramount importance for the nation.",
-    "img": "https://static.toiimg.com/photo/msid-132406953,imgsize-133658.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/may-die-in-2-days-lost-8-5kg-plea-in-delhi-hc-seeks-force-feeding-of-sonam-wangchuk-as-hunger-strike-takes-toll-on-activists-health/articleshow/132406875.cms",
-    "time": "2026-07-15T05:19:20.000Z"
   },
   {
     "cat": "Entertainment",
@@ -649,39 +730,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Six times, same result! Yamal continues to be Mbappe's knockout nemesis",
-    "desc": "Lamine Yamal continued his flawless knockout streak, overcoming Kylian Mbappé as Spain triumphed over France 2-0 in the FIFA World Cup 2026 semifinal. This impressive win guarantees Spain a spot in the finals. Remarkably, Yamal has now achieved six consecutive victories against Mbappé in knockout rounds, showcasing the young talent's resilience in high-stakes matches.",
-    "img": "https://static.toiimg.com/photo/msid-132406721,imgsize-94074.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/six-times-same-result-and-counting-lamine-yamal-continues-to-be-kylian-mbappes-knockout-nemesis/articleshow/132406436.cms",
-    "time": "2026-07-15T05:00:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPL coaches dominate England's shortlist in race to find McCullum's successor",
-    "desc": "England's cricket board seeks a new Test coach with IPL experience. Several accomplished franchise coaches are now leading contenders for the role. Andy Flower and Stephen Fleming are among the prominent names considered. The board aims for a long-term appointment before next year's Ashes. An interim coach might lead the team for the Pakistan series.",
-    "img": "https://static.toiimg.com/photo/msid-132406640,imgsize-50660.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ipl-coaches-dominate-england-test-coach-shortlist-in-race-to-find-brendon-mccullums-successor/articleshow/132406638.cms",
-    "time": "2026-07-15T04:57:24.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Captaincy, coaching, trade talk to headline MI's season review next week",
     "desc": "Mumbai Indians' top brass will meet in England next week for a season review that could shape the franchise's future. Captaincy, Mahela Jayawardene's coaching role and Hardik Pandya's trade situation will dominate discussions. The five-time champions finished fourth in 2025 and a disappointing ninth in the 2026 edition.",
     "img": "https://static.toiimg.com/photo/msid-132406512,imgsize-156348.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/captaincy-coaching-trade-talk-to-headline-mumbai-indians-season-review-next-week/articleshow/132406450.cms",
     "time": "2026-07-15T04:48:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Received nothing but silence': CJP's Dipke slams Centre as Sonam Wangchuk's fast enters Day 18",
-    "desc": "Abhijeet Dipke criticized the government's silence regarding Sonam Wangchuk's hunger strike. Wangchuk has been fasting for eighteen days protesting examination irregularities and paper leaks. He questioned why the Prime Minister has not engaged in dialogue. Opposition leaders have appealed to Wangchuk to end his fast due to his health. Wangchuk has lost 8.5 kg since beginning his protest on June 28.",
-    "img": "https://static.toiimg.com/photo/msid-132406005,imgsize-1010293.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/received-nothing-but-silence-cjps-dipke-slams-centre-as-sonam-wangchuks-fast-enters-day-18/articleshow/132405963.cms",
-    "time": "2026-07-15T04:20:52.000Z"
   },
   {
     "cat": "Business",
@@ -700,15 +754,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/children/look-whos-at-the-2026-fifa-world-cup-party/article71160390.ece",
     "time": "2026-07-15T03:59:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'If she publicly says ...': Congress extends Martyrs' Day invite to Mamata, but with a condition",
-    "desc": "The Congress invited Mamata Banerjee to its Martyrs' Day event in Kolkata. This invitation came with a condition that she acknowledge leaving Congress was a mistake. West Bengal Congress president stated Mamata should not distort the historical significance of the 1993 movement. He added that admitting her past decision was wrong would be a significant gesture. The Congress stage remains open for her to pay respects to the martyrs.",
-    "img": "https://static.toiimg.com/photo/msid-132405169,imgsize-667575.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/if-she-publicly-says-congress-extends-martyrs-day-invite-to-mamata-but-with-a-condition/articleshow/132405151.cms",
-    "time": "2026-07-15T03:20:30.000Z"
   },
   {
     "cat": "Business",
@@ -754,33 +799,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/nclt-okays-record-no-of-cases-flags-manpower-shortage/articleshow/132403982.cms",
     "time": "2026-07-15T02:03:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Washington, Axar deliver with bat and ball at Edgbaston",
-    "desc": "Axar Patel and Washington Sundar rescued India from 160/4 with an unbeaten 102-run stand to seal a six-wicket win over England in the first ODI at Edgbaston. The partnership not only ended India's winless run in the UK but also highlighted Gautam Gambhir's evolving batting blueprint ahead of the 2027 ODI World Cup.",
-    "img": "https://static.toiimg.com/photo/msid-132403949,imgsize-153300.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/road-to-south-africa-up-and-running-washington-sundar-axar-patel-deliver-with-bat-and-ball-at-edgbaston/articleshow/132403791.cms",
-    "time": "2026-07-15T01:57:34.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Wholesale inflation touches 27-month high of 9.9% in June",
-    "desc": "Wholesale inflation reached a 27-month high of 9.9 percent in June. This surge was driven by rising food prices and energy costs. Food prices accelerated to 5.5 percent while mineral prices rose significantly. Fuel prices decelerated slightly to 27.4 percent due to oil market corrections. Recent West Asia flare-ups and El Nino risks add to price volatility.",
-    "img": "https://static.toiimg.com/photo/msid-132403939,imgsize-135362.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/wholesale-inflation-touches-27-mth-high-of-9-9-in-june/articleshow/132403939.cms",
-    "time": "2026-07-15T01:57:03.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "With 73% rise, Adani Properties top realty gainer",
-    "desc": "Adani Properties saw significant wealth surge, moving to fourth position on the property list. DLF retained its top valuation despite a notable decline in its overall worth. Lodha Developers and Indian Hotels Company also experienced valuation decreases this year. The Indian real estate sector showed minimal growth, with a 2% cumulative value increase. Mumbai leads the nation's real estate map with the highest number of companies.",
-    "img": "https://static.toiimg.com/photo/msid-132403933,imgsize-72714.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/with-73-rise-adani-properties-top-realty-gainer/articleshow/132403923.cms",
-    "time": "2026-07-15T01:54:24.000Z"
   },
   {
     "cat": "Sports",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/jaishankar-discusses-global-developments-including-west-asia-ukraine-with-un-chief-guterres/article71220123.ece",
     "time": "2026-07-14T07:20:39.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Chirag Veer Singh Sarao becomes first Sikh American to join U.S. Air Force Academy",
-    "desc": "On April 4, Mr. Sarao was appointed to the U.S. Air Force Academy and received the ‘religious accommodation’ on June 20 to serve with his articles of faith and remain grounded in his core identity said, officials",
-    "img": "https://th-i.thgim.com/public/incoming/v93rgw/article71220087.ece/alternates/LANDSCAPE_1200/Screenshot%202026-07-14%20114123.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/chirag-veer-singh-sarao-becomes-first-sikh-american-to-join-us-air-force-academy/article71220037.ece",
-    "time": "2026-07-14T07:01:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ENG vs IND 1st ODI preview",
-    "desc": "The visitor comes on the back of six straight defeats in T20Is, whereas the home team has to put aside the turmoil surrounding coach McCullum losing his Test job; Bumrah plays his first 50-over game after the 2023 World Cup final",
-    "img": "https://th-i.thgim.com/public/incoming/go9nir/article71220094.ece/alternates/LANDSCAPE_1200/AP07_13_2026_000242B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/eng-vs-ind-1st-odi-preview-compartmentalisation-the-key-as-england-and-india-put-on-odi-boots/article71217624.ece",
-    "time": "2026-07-14T06:15:18.000Z"
   }
 ];
