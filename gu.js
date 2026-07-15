@@ -1,6 +1,60 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "ખાતામાં ભૂલથી આવી ગયા લાખો રૂપિયા? ખુશ થતા પહેલા જાણી લો આ નિયમ, ભૂલથી પણ ન કરતા આ કામ!",
+    "desc": "જો તમારા બેંક એકાઉન્ટમાં અચાનક વધુ પૈસા આવી જાય તો તેને ખર્ચ કરતાં પહેલા સાવધાન થઈ જજો. આવું ટેક્નિકલ ગ્લિચને કારણે બની શકે છે. જાણો ટેક્નિકલ ગ્લિચ શું હોય છે, તે કઈ રીતે હોય છે, બેંક આવી ભૂલ કઈ રીતે સુધારે છે અને આ સ્થિતિમાં તમારે શું કરવું જોઈએ...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/bank-account-credited-via-technical-glitch-what-does-the-law-say-and-what-should-you-do-next-484709 ",
+    "time": "2026-07-15T13:10:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ICCએ ODI અને T20 વર્લ્ડ કપના ફોર્મેટમાં કર્યો ફેરફાર, હવે આ નવા નિયમો હેઠળ રમાશે વિશ્વ કપ",
+    "desc": "ICCએ ક્રિકેટ વર્લ્ડ કપ અને T20 વર્લ્ડ કપના ફોર્મેટમાં મોટા ફેરફારો કર્યા છે. 14 ટીમોના ODI વર્લ્ડ કપમાં હવે 'સુપર સિરીઝ' અને 'સુપર 7' રાઉન્ડ હશે, જ્યારે T20 વર્લ્ડ કપમાં 'સુપર 10' અને નવા એલિમિનેટર રાઉન્ડ સાથે રોમાંચ બમણો થશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/icc-changes-odi-and-t20-world-cup-format-added-super-series-and-super-7-484707 ",
+    "time": "2026-07-15T12:36:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "સોશિયલ મીડિયા આ Horror ફિલ્મ છે ચર્ચામાં, હોટસ્ટાર પર સૌથી વધુ લોકો જોઈ રહ્યા છે આ ડરામણી ફિલ્મ",
+    "desc": "અત્યારે સોશિયલ મીડિયા પર એક હોરર ફિલ્મની ચર્ચા સતત થઈ રહી છે. આ ફિલ્મ જિયો હોટસ્ટાર પર ટ્રેંડ કરી રહી છે. આ ફિલ્મ વિશે એવું કહેવાય રહ્યું છે કે ફિલ્મનો એન્ડ એવો છે જેને જોઈને તમારું મગજ કામ કરતું બંધ થઈ જશે. તો ચાલો તમને પણ આ ફિલ્મ વિશે જણાવીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/jiohotstar-trending-horror-movie-isha-in-hindi-isha-movie-ending-484659 ",
+    "time": "2026-07-15T12:26:45.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "સ્ટેડિયમમાં MS ધોનીએ કાનમાં જે ડિવાઈસ લગાવેલું હતું તે શું છે ? જાણો તેનું કામ શું છે",
+    "desc": "ભારત-ઈંગ્લેન્ડ મેચ જોતી વખતે એમએસ ધોનીના કાનમાં એક નાનું ડિવાઈસ જોવા મળ્યું હતું જે ચર્ચાનો વિષય બન્યું છે. લોકોના મનમાં તેના વિશે ઘણા પ્રશ્નો છે, ત્યારે આ લેખમાં જાણીશું કે આ ડિવાઈસ શું છે અને તે કેવી રીતે કામ કરે છે અને તેની કિંમત કેટલી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/ms-dhoni-ear-device-know-stadium-radio-receiver-price-and-features-484704 ",
+    "time": "2026-07-15T11:36:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "શાહરુખ ખાને 18 કરોડમાં ખરીદેલી પ્રોપર્ટી આજે છે 300 કરોડની &amp;#039;મન્નત&amp;#039;, યસ બોસ ફિલ્મ સાથે છે આ ઘરનું ખાસ કનેકશન",
+    "desc": "સુપ્રીમ કોર્ટના નિર્ણય બાદ શાહરુખ ખાનનું આલીશાન ઘર મન્નત ફરી એકવાર ચર્ચામાં છે. જો તમે જાણતા ન હોય તો તમને જણાવી દઈએ કે શાહરુખ ખાનને 6 માળની પોતાની પ્રોપર્ટીમાં વધુ 2 માળ બનાવવાની પરવાનગી મળી છે. હવે 300 કરોડનું શાહરુખનું ઘર વધારે આલીશાન બની જશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/shah-rukh-khan-buy-mannat-at-18-crore-srk-and-mannat-connection-with-yes-boss-movie-484703 ",
+    "time": "2026-07-15T11:34:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "આમિર ખાનના ત્રીજા લગ્ન સામે વિવાદ વધ્યો, લવ જેહાદ પછી લગ્ન વિરુદ્ધ બહાર પડ્યો ફતવો",
+    "desc": "આમિર ખાને ત્રીજા લગ્ન અશુભ સમયમાં કરી લીધા હોય તેમ લાગે છે. કારણ કે લગ્ન સંબંધિત વિવાદો શાંત થવાને બદલે વધી રહ્યા છે. એક તરફ આમિર ખાન પર લવ જેહાદનો આરોપ લાગ્યો તો બીજી તરફ તેના ત્રીજા લગ્ન વિરુદ્ધ ફતવો જાહેર કરવામાં આવ્યો. આ મામલો શું છે ચાલો તમને જણાવીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/aamir-khan-third-marriage-controversy-after-love-jihad-issue-new-fatwa-came-here-is-aamir-khan-reaction-484700 ",
+    "time": "2026-07-15T11:03:07.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "બેઝિક સેલરી વધતાં જ HRA માં પણ થશે બમ્પર વધારો, સમજો પગાર વધારાનું આખું ગણિત",
     "desc": "8મા પગાર પંચ અંગે કેન્દ્ર સરકારના કર્મચારીઓની અપેક્ષાઓ વધી છે. જો ફિટમેન્ટ ફેક્ટર 2, 2.5, અથવા 3 લાગુ કરવામાં આવે છે, તો ફક્ત મૂળભૂત પગારમાં જ નહીં પરંતુ HRAમાં પણ નોંધપાત્ર વધારો થશે. ચાલો જાણીએ કે X, Y અને Z શહેરોમાં HRA અને કર્મચારીઓના પગાર પર આની શું અસર પડશે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -61,15 +115,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/nitin-gadkari-speaks-on-e20-petrol-know-what-did-he-say-484664 ",
     "time": "2026-07-15T07:28:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "સોશિયલ મીડિયા આ Horror ફિલ્મ છે ચર્ચામાં, હોટસ્ટાર પર સૌથી વધુ લોકો જોઈ રહ્યા છે આ ડરામણી ફિલ્મ",
-    "desc": "અત્યારે સોશિયલ મીડિયા પર એક હોરર ફિલ્મની ચર્ચા સતત થઈ રહી છે. આ ફિલ્મ જિયો હોટસ્ટાર પર ટ્રેંડ કરી રહી છે. આ ફિલ્મ વિશે એવું કહેવાય રહ્યું છે કે ફિલ્મનો એન્ડ એવો છે જેને જોઈને તમારું મગજ કામ કરતું બંધ થઈ જશે. તો ચાલો તમને પણ આ ફિલ્મ વિશે જણાવીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/jiohotstar-trending-horror-movie-isha-in-hindi-isha-movie-ending-484659 ",
-    "time": "2026-07-15T06:28:24.000Z"
   },
   {
     "cat": "Sports",
@@ -351,24 +396,6 @@ const newsData_gu = [
     "time": "2026-07-13T13:49:11.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "શું સેમિફાઇનલમાંથી બહાર થશે લિયોનલ મેસ્સી? રેફરી સાથે ઉગ્ર દલીલ બાદ FIFAનું આવ્યું મોટું અપડેટ",
-    "desc": "ફીફા વર્લ્ડ કપ 2026ની સેમિફાઇનલમાં ડિફેન્ડિંગ ચેમ્પિયન આર્જેન્ટિનાનો સામનો ઇંગ્લેન્ડ સામે થશે. મેચ પહેલાં કેપ્ટન લિયોનલ મેસ્સી મુશ્કેલીમાં મુકાઈ ગયા છે. શું સ્વિટ્ઝરલેન્ડ સામે ક્વાર્ટર ફાઇનલમાં રેફરી સાથે બોલાચાલી થયા બાદ લિયોનલ મેસ્સી પર બેન લાગશે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/argentina-vs-england-will-lionel-messi-be-eliminated-from-the-semi-finals-fifa-big-update-comes-after-heated-argument-with-referee-484524 ",
-    "time": "2026-07-13T13:08:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ઈંગ્લેન્ડ સામેની પ્રથમ વનડેમાં આ 4 ખેલાડીઓને પ્લેઈંગ-11માં નહીં મળે સ્થાન ! લિસ્ટમાં એક મેચ વિનર પણ સામેલ",
-    "desc": "ઈંગ્લેન્ડ સામેની T20 સિરીઝ હાર્યા બાદ ટીમ ઈન્ડિયા દબાણમાં હોય તેવું લાગી રહ્યું છે. ટીમ હવે કોઈપણ ભોગે વાપસી કરવા માંગે છે. જેના કારણે પ્રથમ વનડે માટે ટીમ મેનેજમેન્ટ, કોચ અને કેપ્ટનને કેટલાક મહત્વપૂર્ણ નિર્ણયો લેવા પડશે. તેથી હાલ બધાની નજર કેપ્ટન શુભમન ગિલ પર છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-eng-1st-odi-team-india-probable-playing-11-shubman-gill-virat-kohli-484523 ",
-    "time": "2026-07-13T12:56:56.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "નંદ કિશોર ગોએન્કાનું નિધન: મુંબઈમાં લીધા અંતિમ શ્વાસ, હરિયાણાના હિસારમાં 15 જુલાઈએ થશે અંતિમ સંસ્કાર",
     "desc": "અગ્રોહા ધામના મુખ્ય સ્થાપક અને શિક્ષણ તેમજ ગૌસેવા ક્ષેત્રે જીવન સમર્પિત કરનાર નંદ કિશોર ગોએન્કાએ સોમવારે બપોરે 12:30 વાગ્યે મરીન ડ્રાઇવ સ્થિત તેમના નિવાસ્થાને અંતિમ શ્વાસ લીધા છે. એસેલ ગ્રુપ જેવા પ્રતિષ્ઠિત બિઝનેસ સામ્રાજ્ય સાથે જોડાયેલા હોવા છતાં આજીવન સાદગી અને પરોપકારનો માર્ગ અપનાવનાર ગોએન્કાજીના નિધનથી વૈશ્ય સમુદાય અને સામાજિક સંગઠનોમાં ઊંડો શોક વ્યાપી ગયો છે. આગામી બુધવારે હિસારના અગ્રોહા ધામ સ્થિત ગોએન્કા ઉદ્યાનમાં તેમના અંતિમ સંસ્કાર વિધિ સંપન્ન થશે.",
@@ -495,15 +522,6 @@ const newsData_gu = [
     "time": "2026-07-12T17:54:07.000Z"
   },
   {
-    "cat": "Business",
-    "title": "SIPની આ ફોર્મ્યુલા બનાવી દેશે માલામાલ, દર મહિને 11,000નું રોકાણ 20 વર્ષમાં બનાવી દેશે 1 કરોડનું ફંડ! જાણો",
-    "desc": "SIPએ મ્યુચ્યુઅલ ફંડમાં રોકાણ કરવાની એક એવી રીત છે, જેમાં રોકાણકાર પોતાની ક્ષમતા અનુસાર દર મહિને એક નક્કી કરેલી રકમનું રોકાણ કરે છે. આની સૌથી મોટી ખાસિયત એ છે કે રોકાણકાર જરૂર પડવા પર SIPની રકમ વધારી, ઘટાડી કે થોડા સમય માટે રોકી પણ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/sip-this-formula-will-make-you-rich-investing-rs-11000-every-month-will-make-you-a-fund-worth-rs-1-crore-in-20-years-know-484407 ",
-    "time": "2026-07-12T17:05:17.000Z"
-  },
-  {
     "cat": "World",
     "title": "બદલાની આગમાં ઈરાન! ટ્રમ્પ-નેતન્યાહૂ સહિતના નેતાઓનું હિટ લિસ્ટ તૈયાર ! ન્યૂઝ પેપરે તો ફોટા સાથે છાપી દીધું",
     "desc": "ઈરાનના નવા સર્વોચ્ચ નેતા મોજતબા ખામેનેઈના 'બદલો લેવો જરૂરી છે' નિવેદન બાદ એક ઈરાની અખબારે 13 વિદેશી નેતાઓની તસવીરો સાથે યાદી જાહેર કરી છે. તેમાં ડોનાલ્ડ ટ્રમ્પ, બેન્જામિન નેતન્યાહૂ અને કીર સ્ટાર્મર સહિતના નેતાઓનો સમાવેશ થાય છે.",
@@ -529,15 +547,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/ajay-devgan-movie-dhamaal-4-weekend-box-office-collection-484385 ",
     "time": "2026-07-12T12:49:45.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "આ અઠવાડિયે 4 દિવસ બંધ રહેશે બેંકો, જાણો RBIએ કેમ આપી રજા",
-    "desc": "રિઝર્વ બેંક ઓફ ઈન્ડિયાના નવા રજા કેલેન્ડર મુજબ, અમુક શહેરોમાં SBI, HDFC, ICICI અને પંજાબ નેશનલ બેંક જેવી બેંકોમાં આ અઠવાડિયે 4 દિવસ બેંકિંગ સેવાઓ પ્રભાવિત રહેશે. જો કે, ડિજિટલ બેંકિંગ સેવાઓ જેવી કે, ઈન્ટરનેટ બેંકિંગ, મોબાઈલ બેંકિંગ, UPI અને ATM સર્વિસ કાર્યરત રહેશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/bank-holiday-banks-will-be-closed-for-4-days-next-week-484375 ",
-    "time": "2026-07-12T10:52:06.000Z"
   },
   {
     "cat": "Entertainment",
@@ -700,14 +709,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/football-world-cup-pakistan-connection-with-football-used-in-the-2026-football-world-cup-484048 ",
     "time": "2026-07-09T06:54:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "આ સપ્તાહમાં ઓટીટી પર થશે ધમાલ, zee5 થી લઈ નેટફ્લિક્સ પર રિલીઝ થશે નવી ફિલ્મો",
-    "desc": "આ સપ્તાહમાં બોક્સ ઓફિસથી લઈ ઓટીટી પર નવી ફિલ્મોની ધમાલ જોવા મળશે. સૌથી વધારે તો લોકો સર્ચ કરતાં હોય છે કે ઓટીટી પર શું નવું જોવા જેવું છે. તો ચાલો તમને જણાવીએ આ વીકેન્ડમાં તમે કયા ઓટીટી પ્લેટફોર્મ પર શું જોઈ શકો છો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/ott-release-this-week-zee5-netflix-prime-video-new-hindi-movies-on-ott-484047 ",
-    "time": "2026-07-09T06:49:20.000Z"
   }
 ];

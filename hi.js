@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Kylian Mbappe stays on top in race for Golden Boot despite France’s heartbreaking World Cup loss",
+    "desc": "The FIFA World Cup semifinal in Dallas ended with Spain knocking France out of the tournament as Mikel Oyarzabal and Pedro Porro’s strikes powered La Roja to a 2-0 win on Tuesday (local time). Despite...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/kylian-mbappe-stays-on-top-in-race-for-golden-boot-despite-frances-heartbreaking-world-cup-exit-2026-07-15-1048348",
+    "time": "2026-07-15T13:15:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India and Pakistan can meet each other three times in ODI World Cup 2027; here's how",
+    "desc": "Two Asian powerhouses and two fierce rivals, India and Pakistan, might be facing each other as many as three times in the upcoming ODI World Cup 2027. This comes after the International Cricket Council (ICC)...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-pakistan-can-meet-each-other-three-times-in-odi-world-cup-2027-heres-how-2026-07-15-1048342",
+    "time": "2026-07-15T12:13:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ICC announces major changes to ODI World Cup 2027 and T20 World Cup 2028 format; check details",
+    "desc": "The International Cricket Council (ICC) has announced some major changes to the format of the ODI World Cup 2027 with the introduction of a 'Super Series' and a 'Super Seven' stage. The tournament will remain...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/icc-announces-major-changes-to-odi-world-cup-2027-and-t20-world-cup-2028-format-check-details-2026-07-15-1048328",
+    "time": "2026-07-15T11:06:17.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Argentina out of World Cup' campaign sees over 7 million petitions signed; know reason here",
     "desc": "Over seven million petitions were reportedly signed to 'kick Argentina out of the World Cup', alleging 'bias' towards La Albiceleste and Lionel Messi in the ongoing tournament. Argentina are set to face England in their...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/fra-vs-esp-fifa-world-cup-live-france-vs-spain-score-commentary-tactical-analysis-highlight-reaction-1048256",
     "time": "2026-07-14T18:37:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why are Pedri, Gavi, Nico Williams not starting for Spain against France in FIFA World Cup 2026 semi-final?",
-    "desc": "Spain coach Luis de la Fuente opted for continuity over change as star midfielder Pedri was left out of the starting XI for the FIFA World Cup 2026 semi-final against France at the Dallas Stadium....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/why-are-pedri-gavi-nico-williams-not-starting-for-spain-against-france-in-fifa-world-cup-2026-semi-final-2026-07-14-1048255",
-    "time": "2026-07-14T18:16:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Axar Patel's all-round show and Shubman Gill's gritty 80 help India return to winning ways after T20I drubbing",
-    "desc": "India have defeated England by six wickets in the first ODI of the three-match series at Edgbaston. Axar Patel’s match-winning all-round performance and Shubman Gill’s composed half-century propelled India to return to winning ways after...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/axar-patels-all-round-show-and-shubman-gills-gritty-80-help-india-return-to-winning-ways-after-t20i-drubbing-2026-07-14-1048253",
-    "time": "2026-07-14T17:47:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill walks off injured in first ODI vs England at Edgbaston, what happened to India captain?",
-    "desc": "India suffered a major setback during their chase of 259 in the first ODI against England at Edgbaston. In the 26th over of the chase, captain Shubman Gill retired hurt after scoring a fluent 80...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-walks-off-injured-in-first-odi-vs-england-at-edgbaston-what-happened-to-india-captain-2026-07-14-1048250",
-    "time": "2026-07-14T16:38:30.000Z"
   }
 ];
