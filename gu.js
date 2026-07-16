@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "537 રન, 51 છગ્ગા અને T20 ઇતિહાસનો સૌથી મોટો રન ચેઝ... ક્રિકેટમાં આવ્યું એક એવું તોફાન જોતી રહી ગઈ દુનિયા",
+    "desc": "મેજર લીગ ક્રિકેટ (MLC) 2026 એલિમિનેટરમાં વોશિંગ્ટન ફ્રીડમે 267 રનના ટાર્ગેટનો સફળતાપૂર્વક પીછો કરીને T20 ઇતિહાસમાં સૌથી વધુ સફળ રન ચેઝનો રેકોર્ડ હાંસલ કર્યો. 537 રન, 51 છગ્ગા અને ત્રણ સદી ધરાવતી મેચમાં નિકોલસ પૂરનની 31 બોલની સદી પણ MI ન્યૂ યોર્કને હારથી બચાવી શકી નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/537-runs-51-sixes-biggest-t20-run-chase-washington-freedom-mlc-2026-484830 ",
+    "time": "2026-07-16T10:19:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "શું આખી ભાજપ બદલવાના છે પીએમ મોદી અને શાહ, &amp;#039;સંસદીય બોર્ડ&amp;#039; અને મંત્રીમંડળમાં ફેરફારની અટકળો?",
+    "desc": "ગુજરાતમાં રહેલા અમિત શાહ આજે સંગઠન અને સરકારના કમલમમાં ક્લાસ લેવાના છે. ભાજપ હમણાં કંઈક નવાજૂની કરવાના મૂડમાં છે. ભાજપની સૌથી પાવરફૂલ કમિટી સંસદીય બોર્ડથી લઈને મંત્રીમંડળમાં મોટા ફેરફાર તેવી અટકળો લાગી રહી છે. મોદી- શાહ અને નીતિન નબીન વચ્ચે સતત થઈ રહેલી બેઠકો કંઈક નવાજૂની કરશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/modi-shahs-big-plan-the-biggest-change-in-bjps-organization-will-happen-so-far-know-whose-card-will-be-cut-484820 ",
+    "time": "2026-07-16T08:52:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ICCનો માસ્ટરસ્ટ્રોક, વર્લ્ડ કપમાં ભારત-પાકિસ્તાનની ત્રણ વખત ટક્કર પાક્કી ! જાણો કેવી રીતે બદલાશે સમગ્ર સમીકરણ",
+    "desc": "ICCએ ODI વર્લ્ડ કપ 2027ના ફોર્મેટમાં મોટા ફેરફારો કર્યા છે. આનાથી ભારત અને પાકિસ્તાન એક જ ટુર્નામેન્ટમાં ત્રણ વખત એકબીજા સામે આવવાની શક્યતા વધી ગઈ છે. T20 વર્લ્ડ કપ 2028 માટે નવા સમીકરણ અને નવા નિયમો વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/icc-change-world-cup-format-india-vs-pakistan-three-matches-super-7-new-rules-484821 ",
+    "time": "2026-07-16T08:50:13.000Z"
+  },
+  {
     "cat": "Business",
     "title": "સોનું 36000 રૂપિયા સુધી સસ્તું થઈ ચૂક્યું છે, હજુ કેટલા તૂટશે ભાવ? રિપોર્ટમાં ચોંકાવનારો દાવો",
     "desc": "મિડલ ઈસ્ટમાં યુદ્ધ છેડાયું ત્યારબાદ સોનું જે ઓલટાઈમ હાઈ પર પહોંચ્યું હતું તેના કરતાં ઘણું તૂટી ગયું. આજે પણ સોના અને ચાંદીના ભાવમાં ઘટાડો જોવા મળ્યો છે. આ ઉપરાંત સોનાના ભાવ પર આવેલો એક રિપોર્ટ 2026માં ભાવ વિશે શું કહે છે તે પણ ખાસ જાણો.",
@@ -324,15 +351,6 @@ const newsData_gu = [
     "time": "2026-07-14T11:32:52.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "આવી ગયા રાહતના સમાચાર! સેટેલાઇટ તસવીરોમાં જોવા મળી ચોમાસાની નવી &amp;#039;સિસ્ટમ&amp;#039;, જાણો ક્યારથી ધબધબાટી બોલવશે વરસાદ",
-    "desc": "જુલાઈ મહિનાની શરૂઆતમાં શરૂ થયેલા ભારે વરસાદ બાદ અચાનક ગાયબ થયેલા વાદળોએ બફારો અને ગરમી વધારી દીધી છે. પરંતુ હવે હવામાન વિજ્ઞાનીઓએ સેટેલાઇટ તસવીરો દ્વારા રાહતના મોટા સમાચાર આપ્યા છે. સમુદ્રમાં એક એવી મજબૂત સિસ્ટમ સક્રિય થઈ છે, જે ટૂંક જ સમયમાં દેશમાં ધમાકેદાર વરસાદની વાપસી કરાવશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/relief-news-has-arrived-new-monsoon-system-seen-in-satellite-images-know-when-the-rain-will-start-484607 ",
-    "time": "2026-07-14T11:11:34.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "&amp;#039;શોએબ અખ્તર અને આસિફ જ્યારે પણ ભારત આવતા ત્યારે ડ્રગ્સ લાવતા&amp;#039;",
     "desc": "ગૃહ મંત્રાલયના પૂર્વ અંડર સેક્રેટરી આરવીએસ મણિએ મોટો દાવો કર્યો છે કે 2006-07માં જ્યારે પણ પાકિસ્તાની ક્રિકેટરો અને ડેલિગેશન ભારતના પ્રવાસે આવતા ત્યારે ડ્રગ્સ લાવતા હતા. તેમણે આ મામલે પૂર્વ પાકિસ્તાની ફાસ્ટ બોલર શોએબ અખ્તર અને મોહમ્મદ આસિફનું નામ લઈને બધાને ચોંકાવી દીધા છે.",
@@ -349,24 +367,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/gold-prices-fall-while-silver-rises-on-ibja-check-mcx-latest-rates-aaj-no-sona-chandi-no-bhav-484593 ",
     "time": "2026-07-14T09:23:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ટીમ ઈન્ડિયામાં બધુ બરાબર નથી! ગંભીર અને વિરાટ વચ્ચે અણબનાવના સંકેત, રિપોર્ટમાં ચોંકાવનારો ખુલાસો",
-    "desc": "ટીમ ઈન્ડિયા આજે એટલે કે 14 જુલાઈના રોજ ઈંગ્લેન્ડ સામે પ્રથમ ODI રમશે. ટીમે 13 જુલાઈના રોજ પ્રેક્ટિસ સેશનમાં ભાગ લીધો હતો. આ દરમિયાન એક રિપોર્ટ સામે આવ્યો છે, જેમાં વિરાટ કોહલી અને ગૌતમ ગંભીર વચ્ચે બધુ બરાબર ન હોવાના સંકેત મળ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/virat-kohli-gautam-gambhir-avoid-interaction-during-practice-session-484592 ",
-    "time": "2026-07-14T09:21:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "આભમાં શાહી સ્વાગત, જમીન પર લાખોની ભીડ! વર્લ્ડ કપથી બહાર થવા છતાં નોર્વેની ટીમનું ચેમ્પિયન જેવું વેલકમ",
-    "desc": "ફુટબોલ વિશ્વકપમાં નોર્વેની ટીમે શાનદાર પ્રદર્શન કરી ફેન્સનું દિલ જીતી લીધું છે. ભલે ક્વાર્ટર ફાઈનલમાં ટીમ હારીને બહાર થઈ ગઈ હોય પરંતુ નોર્વેમાં જોરદાર ઉત્સાહ જોવા મળી રહ્યો છે. વતન વાપસી પર ખેલાડીઓનું શાહી સ્વાગત કરવામાં આવ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/royal-welcome-in-the-skies-1-lakh-on-the-streets-norway-football-team-gets-a-champions-return-despite-world-cup-exit-484585 ",
-    "time": "2026-07-14T07:28:37.000Z"
   },
   {
     "cat": "Business",
@@ -430,15 +430,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/eye-for-eye-iran-gave-a-befitting-reply-to-america-attack-the-world-strongest-security-shield-and-attack-system-was-destroyed-in-an-instant-484535 ",
     "time": "2026-07-13T14:57:54.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "LPG યુઝર્સ માટે ખુશખબર! બદલાશે ગેસ સિલિન્ડર ખરીદવાની રીત? જાણો શું છે સરકારનો નવો પ્લાન?",
-    "desc": "સરકારી ઓઈલ કંપનીઓ IOC, BPCL અને HPCL ટૂંક જ સમયમાં 10 કિલોના હળવા કંપોઝિટ LPG સિલિન્ડરને કોમર્શિયલ ગ્રાહકો માટે પણ ઉપલબ્ધ કરાવવા પર વિચાર કરી રહી છે. આ સિલિન્ડર સ્ટીલ સિલિન્ડરની સરખામણીમાં આશરે 50% હળવો હશે અને તેમાં પારદર્શક બોડી હોવાને કારણે ગેસનું લેવલ પણ સરળતાથી જોઈ શકાશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/good-news-for-lpg-users-the-way-to-buy-gas-cylinders-will-change-know-what-is-the-government-new-plan-484493 ",
-    "time": "2026-07-13T11:25:56.000Z"
   },
   {
     "cat": "World",

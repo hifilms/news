@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Lionel Messi pens heartfelt note to Argentina fans after entering second straight FIFA World Cup final",
+    "desc": "Argentina has reached its second straight FIFA World Cup. Coming into the tournament as the defending champions, the three-time World Cup champions will look to get their hands on their fourth title as they reached...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/lionel-messi-pens-heartfelt-note-to-argentina-fans-after-entering-second-straight-fifa-world-cup-final-2026-07-16-1048439",
+    "time": "2026-07-16T10:53:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Shubman Gill play 2nd ODI vs England? Check latest fitness update after recent injury concerns",
+    "desc": "After going seven games winless, India, led by Shubman Gill, had their breakthrough in the first ODI against England. The upcoming clash at Sophia Gardens in Cardiff will be a chance for the visitors to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-shubman-gill-play-2nd-odi-vs-england-check-latest-fitness-update-after-recent-injury-concerns-2026-07-16-1048431",
+    "time": "2026-07-16T09:52:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Records galore as Smith and Gous power Washington Freedom victory, pulling off world record run chase",
+    "desc": "Eliminator 1 of the ongoing MLC (Major League Cricket) 2026 saw Washington Freedom taking on MI New York. The two sides met at the Oakland Coliseum on July 15th, and the game ended up becoming...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/records-galore-as-smith-and-gous-power-washington-freedom-victory-pulling-off-world-record-run-chase-2026-07-16-1048423",
+    "time": "2026-07-16T08:32:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will the pitch in Cardiff fare for the second ODI of the series?",
+    "desc": "The stage is set for the second ODI of the ongoing three-game series between India and England. After a win in the first ODI, the two sides will now meet at Sophia Gardens in Cardiff...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-pitch-report-how-will-the-pitch-in-cardiff-fare-for-the-second-odi-of-the-series-2026-07-16-1048415",
+    "time": "2026-07-16T07:09:58.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Harry Kane believes 'England played good', defends Thomas Tuchel's strategies after defeat to Argentina",
     "desc": "England suffered a 2-1 defeat to Argentina in the FIFA World Cup semi-final in Atlanta. They were leading till the 85th minute, but the next seven minutes stunned the Thomas Tuchel side, who conceded two...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/where-to-watch-england-vs-argentina-fifa-world-cup-2026-semi-final-live-on-tv-and-stream-online-for-free-2026-07-15-1048366",
     "time": "2026-07-15T16:34:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rodri can become first Spain player to achieve historic feat that even Xavi, Iniesta, Ramos couldn't",
-    "desc": "Spain midfielder Rodri is on the verge of entering football’s most exclusive club that features the likes of Lionel Messi, Zinedine Zidane, Kaka and Ronaldinho, among six others. He needs to win the FIFA World...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/rodri-can-become-first-spain-player-to-achieve-historic-feat-that-even-xavi-iniesta-ramos-couldn-t-achieve-2026-07-15-1048364",
-    "time": "2026-07-15T16:01:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ben Stokes set to return to competitive cricket after international retirement, will skip The Hundred",
-    "desc": "For the first time since announcing his international retirement, Ben Stokes will be in action on Tuesday, July 21, when Durham take on Derbyshire in the opening round of the One-Day Cup. It will be...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ben-stokes-set-to-return-to-competitive-cricket-after-international-retirement-will-skip-the-hundred-2026-07-15-1048360",
-    "time": "2026-07-15T15:16:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Carlos Alcaraz to miss Canada Open too, what's his injury status after missing French Open, Wimbledon?",
-    "desc": "Carlos Alcaraz is closing in on a return to the ATP Tour after months away from competition. The seven-time Grand Slam winner missed the Roland Garros, Wimbledon, alongside several ATM tours on the tennis calendar,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-to-miss-canada-open-too-what-s-his-injury-status-after-missing-french-open-wimbledon-2026-07-15-1048355",
-    "time": "2026-07-15T14:24:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Axar Patel joins Rohit Sharma, Jasprit Bumrah in elite record list after earning POTM against England",
-    "desc": "India defeated England by six wickets in the first ODI of the three-match series at Edgbaston as Axar Patel's produced a stellar all-round performance. His four-wicket haul and a fifty propelled India to return to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/axar-patel-joins-rohit-sharma-jasprit-bumrah-in-elite-record-list-after-earning-potm-against-england-2026-07-15-1048350",
-    "time": "2026-07-15T13:45:16.000Z"
   }
 ];
