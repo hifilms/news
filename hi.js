@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why is KL Rahul not playing in India vs England second ODI in Cardiff?",
+    "desc": "India keeper-batter KL Rahul has been dropped from the second ODI against England at Sophia Gardens in Cardiff. Captain Shubman Gill explained that the middle order batter is currently dealing with an illness, as Ishan...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-kl-rahul-not-playing-in-india-vs-england-second-odi-in-cardiff-2026-07-16-1048461",
+    "time": "2026-07-16T12:31:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India three down, Virat Kohli remains crucial",
+    "desc": "India and England are taking on each other in the second ODI of the ongoing three-game series. The two sides meet at Sophia Gardens in Cardiff, and both teams will look to put in their...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-2nd-odi-live-cricket-score-england-opt-to-field-first-in-cardiff-india-aim-to-clinch-series-2026-07-16-1048454",
+    "time": "2026-07-16T11:59:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gurnoor Brar found in breach of ICC's Code of Conduct, handed one demerit point after England ODI",
+    "desc": "In a major development, India pacer Gurnoor Brar has been penalised by the ICC (International Cricket Council) after he was found in breach of the ICC’s Code of Conduct. It is worth noting that Brar...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/gurnoor-brar-found-in-breach-of-icc-s-code-of-conduct-handed-one-demerit-point-after-england-odi-2026-07-16-1048446",
+    "time": "2026-07-16T11:27:30.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Lionel Messi pens heartfelt note to Argentina fans after entering second straight FIFA World Cup final",
     "desc": "Argentina has reached its second straight FIFA World Cup. Coming into the tournament as the defending champions, the three-time World Cup champions will look to get their hands on their fourth title as they reached...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/eng-vs-arg-fifa-world-cup-live-england-vs-argentina-score-commentary-tactical-analysis-highlight-reaction-lionel-messi-harry-kane-jude-bellingham-1048375",
     "time": "2026-07-15T18:24:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why are Bukayo Saka, Marcus Rashford not playing for England vs Argentina in FIFA World Cup 2026 semis?",
-    "desc": "England have benched star wingers Bukayo Saka and Marcus Rashford from the starting lineup for the FIFA World Cup 2026 semi-final against Argentina. Head coach Thomas Tuchel made a tactical switch for the high-voltage game,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/why-are-bukayo-saka-marcus-rashford-not-playing-for-england-vs-argentina-in-fifa-world-cup-2026-semis-2026-07-15-1048371",
-    "time": "2026-07-15T18:09:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Atlanta police on alert as security tightened for England vs Argentina FIFA World Cup semi-final",
-    "desc": "Atlanta police have tightened security plans for the FIFA World Cup 2026 semi-final between Argentina and England. The Police Department has introduced additional measures for the high-profile fixture, which officials consider a potentially high-risk event...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/atlanta-police-on-alert-as-security-tightened-for-england-vs-argentina-fifa-world-cup-semi-final-2026-07-15-1048368",
-    "time": "2026-07-15T17:44:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Where to watch England vs Argentina FIFA World Cup 2026 semi-final live on TV and stream online for free?",
-    "desc": "England and Argentina will renew one of football’s most intense rivalries when they meet in the FIFA World Cup 2026 semi-final in the early hours of Thursday, July 16. The match will be played at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/where-to-watch-england-vs-argentina-fifa-world-cup-2026-semi-final-live-on-tv-and-stream-online-for-free-2026-07-15-1048366",
-    "time": "2026-07-15T16:34:48.000Z"
   }
 ];

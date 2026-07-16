@@ -1,6 +1,42 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "ઇંગ્લેન્ડ સામેની બીજી વનડેમાં કેમ નથી રમી રહ્યો કેએલ રાહુલ ? કેપ્ટન ગિલે જણાવ્યું કારણ",
+    "desc": "કાર્ડિફમાં ભારત અને ઇંગ્લેન્ડ વચ્ચેની બીજી વનડેમાં કેએલ રાહુલને પ્લેઇંગ ઇલેવનમાં સ્થાન મળ્યું નથી. તેના સ્થાને ઈશાન કિશનને તક આપવામાં આવી છે, ત્યારે કેએલ રાહુલ કેમ નથી રમી રહ્યો, તેનું કારણ પણ કેપ્ટન શુભમન ગિલે જણાવ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-eng-why-kl-rahul-not-playing-in-second-odi-captain-gill-revealed-reason-484845 ",
+    "time": "2026-07-16T13:12:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "પુરી જગન્નાથ રથયાત્રામાં નાસભાગ જેવી સ્થિતિ... એકનું મોત, 100થી વધુ ઘાયલ",
+    "desc": "પુરીમાં જગન્નાથ રથયાત્રા 2026ના પહેલા દિવસે પુરીના ગ્રાન્ડ રોડ પર ભારે ભીડને કારણે નાસભાગ જેવી સ્થિતિ સર્જાઈ હતી. જેમાં એક ભક્તનું મોત નીપજ્યું હોવાના અહેવાલ છે, જ્યારે ઘણા લોકોને શ્વાસ લેવામાં તકલીફ પડતાં હોસ્પિટલમાં દાખલ કરવામાં આવ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/stampede-situation-in-puri-jagannath-rath-yatra-one-dead-many-injured-484843 ",
+    "time": "2026-07-16T12:51:33.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ભારતમાં માત્ર 25 લોકો જ ખરીદી શકશે આ બાઇક! Royal Enfieldએ લોન્ચ કર્યું લિમિટેડ એડિશન બાઇક; જાણો કિંમત અને બુકિંગ ડિટેલ્સ",
+    "desc": "જો તમે એકદમ અનોખી અને પ્રીમિયમ મોટરસાઇકલના શોખીન છો, તો રોયલ એનફિલ્ડની નવી શોટગન 650 રફ ક્રાફ્ટ્સ એડિશન ખાસ તમારા માટે જ છે. તાઇવાની કસ્ટમ આર્ટથી સજ્જ આ સુપર-એક્સક્લુઝિવ બાઇકના બુકિંગ અને કિંમતની સંપૂર્ણ વિગતો આવો જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/only-25-people-in-india-will-be-able-to-buy-this-bike-royal-enfield-launches-limited-edition-bike-know-price-and-booking-details-484839 ",
+    "time": "2026-07-16T11:54:38.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "શુક્રવારે બેંકો રહેશે બંધ ! જાણો RBIએ 17 જુલાઈએ કેમ આપી રજા",
+    "desc": "આવતીકાલે એટલે કે શુક્રવારે બેંકો બંધ રહેશે. જો તમે 17 જુલાઈના રોજ કોઈ કામ માટે બેંકની મુલાકાત લેવાનું આયોજન કરી રહ્યા છો, તો પહેલા એ જાણી લો કે તમારા શહેરમાં બેંકો ખુલ્લી છે કે નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/bank-holiday-bank-will-be-closed-on-friday-17th-july-know-why-484834 ",
+    "time": "2026-07-16T11:08:40.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "537 રન, 51 છગ્ગા અને T20 ઇતિહાસનો સૌથી મોટો રન ચેઝ... ક્રિકેટમાં આવ્યું એક એવું તોફાન જોતી રહી ગઈ દુનિયા",
     "desc": "મેજર લીગ ક્રિકેટ (MLC) 2026 એલિમિનેટરમાં વોશિંગ્ટન ફ્રીડમે 267 રનના ટાર્ગેટનો સફળતાપૂર્વક પીછો કરીને T20 ઇતિહાસમાં સૌથી વધુ સફળ રન ચેઝનો રેકોર્ડ હાંસલ કર્યો. 537 રન, 51 છગ્ગા અને ત્રણ સદી ધરાવતી મેચમાં નિકોલસ પૂરનની 31 બોલની સદી પણ MI ન્યૂ યોર્કને હારથી બચાવી શકી નહીં.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -333,15 +369,6 @@ const newsData_gu = [
     "time": "2026-07-14T12:06:12.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "કોરોનાની ફરી દસ્તક? 4 વર્ષ બાદ પહેલીવાર 2 લોકોના મોત, આંધ્રપ્રદેશમાં નોંધાયા 8 નવા કેસ",
-    "desc": "આરોગ્ય સચિવ એસ. સુરેશ કુમારે જણાવ્યું કે, કડપામાં 5 કેસો સામે આવ્યા હતા અને બાકીના ત્રણ સંક્રમિતો તેમના સંપર્કમાં આવેલા લોકો હતા. તમામ સંક્રમિતોને હોમ આઇસોલેશન અથવા સ્પેશિયલ કોવિડ વોર્ડમાં મોનિટર કરવામાં આવી રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/corona-knocks-again-2-people-die-for-the-first-time-after-4-years-8-new-cases-reported-in-andhra-pradesh-484610 ",
-    "time": "2026-07-14T12:05:20.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ક્રિકેટ મેચ દરમિયાન દુ:ખદ ઘટના, અચાનક મેદાન પર જ ઢળી પડ્યો બોલર, હોસ્પિટલ પહોંચે તે પહેલા તોડ્યો દમ",
     "desc": "જમ્મુ-કાશ્મીરમાં સ્થાનિક ક્રિકેટ ટુર્નામેન્ટ દરમિયાન એક ક્રિકેટરનું નિધન થયું છે. એક બોલર પોતાની ઓવર પૂરી કર્યા બાદ જમીન પર જ ઢળી પડ્યો હતો. જે બાદ તેને તાત્કિલિક હોસ્પિટલ લઈ જવામાં આવ્યો હતો. જ્યાં ફરજ પરના ડોક્ટરોએ તેને મૃત જાહેર કર્યો હતો.",
@@ -385,24 +412,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/tax-alert-is-cash-received-from-your-mother-tax-free-essential-documents-you-need-to-keep-484583 ",
     "time": "2026-07-14T07:09:20.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "અમદાવાદીઓએ હદ કરી! ટ્રેનમાં મુસાફરોની શરમજનક કરતૂત! કરોડોના તકિયા-રૂમાલ-ધાબડા ચોર્યા, જાણો RTIમાં થયેલો ખુલાસો",
-    "desc": "ભારતીય રેલવેના એસી કોચમાં દરરોજ રાત્રે આશરે 8 લાખ મુસાફરો મુસાફરી કરે છે. આ મુસાફરોને બે બેડશીટ, એક ધાબળો, એક ઓશીકું, એક ઓશીકું કવર અને એક ફેસ ટુવાલ (બેડરોલ) આપવામાં આવે છે. ટિકિટ સાથે આ સુવિધા મફતમાં આપવામાં આવે છે, પરંતુ આશ્ચર્યજનક રીતે મુસાફરી પૂરી થયા પછી દર 1,000 મુસાફરોમાંથી લગભગ એક બેડરોલનો એક ભાગ પોતાની સાથે લઈ જાય છે. કુલ ચોરીની ઘટનાઓમાંથી 67 ટકા ઘટનાઓ સાત રેલવે ઝોનના 10 વિભાગોમાં બની છે. આમાં બિકાનેર, જોધપુર, જયપુર, રાંચી, દિલ્હી, મુંબઈ, અમદાવાદ, સોનપુર, દાનાપુર અને બિલાસપુરનો સમાવેશ થાય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/passengers-hands-on-railway-property-lakhs-of-bedrolls-stolen-in-ahmedabad-division-railways-suffer-loss-of-crores-484564 ",
-    "time": "2026-07-14T05:30:38.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ટ્રમ્પની જાહેરાતથી કડાકો! હોર્મુઝના તણાવ વચ્ચે રેટ ગગડ્યા, જાણો આજનો સોના-ચાંદીમાં ભાવ",
-    "desc": "અમેરિકા છેલ્લા ત્રણ દિવસથી ઈરાન પર હુમલો કરી રહ્યું છે. યુદ્ધના ભય વચ્ચે, સોના અને ચાંદીના ભાવમાં ઘટાડો થયો છે. સોનું ઘટીને 4005 ડોલર પ્રતિ ઔંસ થયું છે. ચાંદીના ભાવ પણ ઘટીને 57 ડોલર પ્રતિ ઔંસ થયા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-fall-due-to-trumps-announcement-know-today-gold-silver-price-484563 ",
-    "time": "2026-07-14T05:27:43.000Z"
   },
   {
     "cat": "World",
@@ -682,14 +691,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/jio-customers-joy-watch-more-than-150-premium-channels-in-16-languages-%E2%80%8B%E2%80%8Bfor-just-%E2%82%B955-know-how-to-activate-484055 ",
     "time": "2026-07-09T08:57:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ફૂટબોલમાં સેન્સર, બેટરી અને પાકિસ્તાનનું કનેક્શન! હાઈ-ટેક બોલનું ચોંકાવનારું રહસ્ય",
-    "desc": "રાઉન્ડ ઓફ 16 પૂરા થયા અને હવે કવાર્ટર ફાઈનલની મેચો શરૂ થશે. પરંતુ શું તમને ખબર છે કે વર્લ્ડ કપમાં ઉપયોગમાં લેવાતા ફૂટબોલમાં સેન્સર અને બેટરી ટેક્નોલોજીનો ઉપયોગ થાય છે અને તેનું કનેક્શન પાકિસ્તાન સાથે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/football-world-cup-pakistan-connection-with-football-used-in-the-2026-football-world-cup-484048 ",
-    "time": "2026-07-09T06:54:33.000Z"
   }
 ];

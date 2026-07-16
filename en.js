@@ -1,12 +1,309 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "HRD Minister Nara Lokesh says A.P.’s doors are always open for Amara Raja Group",
+    "desc": "The harassment faced by the group during the YSRCP term should never have happened, the Minister says in a social media post, while hoping that the company’s biggest chapters will still be written in the State where its journey began",
+    "img": "https://th-i.thgim.com/public/incoming/b2k729/article71230155.ece/alternates/LANDSCAPE_1200/Keep-alliance-iGPPG5KDE0.5.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/hrd-minister-nara-lokesh-says-aps-doors-are-always-open-for-amara-raja-group/article71229952.ece",
+    "time": "2026-07-16T13:31:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "How concretisation is turning cities into monsoon flood traps",
+    "desc": "Urban regions are increasingly battling monsoon flooding, exacerbated by extensive concretisation. With impermeable surfaces dominating, rainwater struggles to seep in, leading to heightened runoff. Meanwhile, the decline of natural water reservoirs like wetlands further complicates the situation. In response, authorities are encouraging the use of permeable materials and green spaces. While initiatives for de-concretisation are on the rise, the swift pace of construction poses significant hurdles.",
+    "img": "https://static.toiimg.com/photo/msid-132437811,imgsize-215548.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/how-concretisation-is-turning-cities-into-monsoon-flood-traps/articleshow/132437672.cms",
+    "time": "2026-07-16T13:27:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Cabinet expansion very soon': Congress hints at Karnataka reshuffle after Rahul-DKS meeting",
+    "desc": "Karnataka cabinet expansion is expected to occur very soon. Senior Congress leaders met in Delhi to discuss the long-pending cabinet appointments. Consultations are underway to fill twenty vacant ministerial positions and the Speaker's post. The party aims to balance regional and caste equations for the selections. This expansion is anticipated before the upcoming assembly session begins in August.",
+    "img": "https://static.toiimg.com/photo/msid-132440180,imgsize-104972.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cabinet-expansion-very-soon-congress-hints-at-karnataka-reshuffle-after-rahul-dks-meeting/articleshow/132439289.cms",
+    "time": "2026-07-16T13:14:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "All set for Vallasadya at Aranmula",
+    "desc": "The Vallasadya of the Aranmula Sree Parthasarathy temple in Pathanamthitta, a ritual feast attached to the Onam festivities, is set to begin on July 19. The event includes participation from 51 palliyodams. The annual Aranmula Uthrattathi Boat Race is scheduled for August 30.",
+    "img": "https://th-i.thgim.com/public/incoming/1gvtqc/article71230079.ece/alternates/LANDSCAPE_1200/80693_14_9_2025_18_54_38_1_VALLASADYA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/all-set-for-vallasadya-at-aranmula/article71229730.ece",
+    "time": "2026-07-16T13:14:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala govt. order declares Neriamangalam-Valara route as revenue land",
+    "desc": "The order clarifies the land’s status and raises hopes that the road-widening work on the stretch on the Kochi–Dhanushkodi National Highway, which has been stalled since July 2025 following a Kerala High Court order, will resume soon.",
+    "img": "https://th-i.thgim.com/public/incoming/ekknmo/article71229976.ece/alternates/LANDSCAPE_1200/80759_15_7_2026_19_6_56_1_NHVALARA1NEW.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-govt-order-declares-neriamangalam-valara-route-as-revenue-land/article71226456.ece",
+    "time": "2026-07-16T13:02:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Ramayan' actor Adinath Kothare and wife Urmila Kanetkar announce divorce",
+    "desc": "Marathi actors Adinath Kothare and Urmila Kanetkar have announced their separation after fifteen years. The couple mutually decided to part ways amicably, as stated in their social media post. Their daughter Jizah remains their absolute priority, and they will continue co-parenting her. They met in 2006 on the sets of Mahesh Kothare's film. Both actors have established successful careers in Marathi cinema and beyond.",
+    "img": "https://static.toiimg.com/photo/msid-132440025,imgsize-124264.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayan-actor-adinath-kothare-and-wife-urmila-kanetkar-announce-divorce-after-15-years-of-marriage-will-co-parent-daughter-jizah/articleshow/132440025.cms",
+    "time": "2026-07-16T12:58:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Netizens call out Alec Baldwin’s tribute post for Sam Neill",
+    "desc": "The online community reacted with disapproval to Alec Baldwin's tribute post for Sam Neill, as critics felt it was overly self-focused. Many believed the message fell short of adequately celebrating the legacy of the beloved actor best known for his role as Dr. Alan Grant in Jurassic Park. Sam Neill, aged 78, passed away following pneumonia complications, as his family announced.",
+    "img": "https://static.toiimg.com/photo/msid-132439921,imgsize-88340.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/alec-baldwin-called-out-for-his-tribute-about-sam-neill-thought-this-was-going-to-be-about-sam-more-than-the-other-actors/articleshow/132439426.cms",
+    "time": "2026-07-16T12:50:41.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran tells Houthis to close Red Sea gateway if U.S. hits power network, says report",
+    "desc": "A source close to the Houthis said the group had completed preparations to attack ‌shipping by deploying missiles and drones near Bab el-Mandeb strait, the gateway to the Red Sea, in Yemen’s highlands overlooking Hodeidah ‌and ⁠the Gulf of Aden and was awaiting the order to begin",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-washington-tehran-air-strikes-strait-of-hormuz-live-updates-july-16-2026/article71228351.ece",
+    "time": "2026-07-16T12:49:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A strict definition of ‘denomination’, ‘essential religious practices’ will compress plural and diverse Hinduism, Centre tells SC",
+    "desc": "Eight years ago, a majority judgment of September 2018 had rejected ‘Ayyappans’ as a religious denomination and dismissed prohibition on women aged between 10 and 50 years from entering the Sabarimala temple as an essential religious practice",
+    "img": "https://th-i.thgim.com/public/incoming/mvqjp8/article70832911.ece/alternates/LANDSCAPE_1200/80693_6_1_2025_19_39_37_1_SANNIDHANAM1.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/sabarimala-review-a-strict-definition-of-denomination-essential-religious-practices-will-compress-plural-and-diverse-hinduism-centre-tells-sc/article70832874.ece",
+    "time": "2026-07-16T12:49:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sonakshi Sinha, Fatima Sana Shaikh and Imran Khan backs Sonam Wangchuk",
+    "desc": "As Sonam Wangchuk's hunger strike reaches its nineteenth day, prominent film industry figures rally behind him. Sonakshi Sinha and Fatima Sana Shaikh are leading a call for authorities to engage in constructive dialogue. Imran Khan has also raised his voice, demanding accountability in light of the NEET-UG controversy. Many more voices from the film world have echoed similar sentiments, advocating for discussions.",
+    "img": "https://static.toiimg.com/photo/msid-132439787,imgsize-111940.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonakshi-sinha-says-main-koi-anti-national-hahi-hu-fatima-sana-shaikh-and-imran-khan-backs-sonam-wangchuk-as-hunger-strike-enters-day-19/articleshow/132439762.cms",
+    "time": "2026-07-16T12:44:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Five kumkis, 50 personnel capture rogue tusker on Chittoor-Tamil Nadu border",
+    "desc": "The sub-adult elephant, which crossed the Moghili Ghat highway repeatedly, injured a forest officer and once drew a 3,000-strong crowd into Palamaner town, was captured after a day-long operation and shifted to the Musalimadugu camp",
+    "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/wwfr7c/article71229870.ece/alternates/LANDSCAPE_1200/Elepahnts.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/five-kumkis-50-personnel-capture-rogue-tusker-on-chittoor-tamil-nadu-border/article71229177.ece",
+    "time": "2026-07-16T12:42:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "FIFA World Cup Argentina vs Spain final— schedule and timing in IST",
+    "desc": "Who has progressed in the knockouts of the FIFA World Cup? And when are the matches being played? The Trionda has enthralled FIFA fans this time in the USA, Canada, and Mexico. The final of this World Cup will be played on July 20 at 12.30 am I.S.T at the MetLife Stadium in New Jersey.",
+    "img": "https://th-i.thgim.com/public/incoming/he4teh/article71192575.ece/alternates/LANDSCAPE_1200/trophy.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-track-to-quarter-finals-schedule-fixtures-france-morocco-spain-belgium-norway-england-argentina-switzerland/article71188709.ece",
+    "time": "2026-07-16T12:39:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jason Sanjay reveals his family's support for his cinema entry",
+    "desc": "Actress Samantha Ruth Prabhu celebrated an intimate baby shower with husband Raj Nidimoru. The couple is eagerly anticipating the arrival of their first child later this year. This joyous occasion follows a highly successful year for Samantha professionally. Her film 'Maa Inti Bangaaram' achieved significant box office success worldwide. Samantha plans a return to acting after her maternity break with new projects.",
+    "img": "https://static.toiimg.com/photo/msid-132439782,imgsize-136240.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/my-parents-believed-in-me-jason-sanjay-opens-up-about-choosing-cinema-and-finding-his-path/articleshow/132439767.cms",
+    "time": "2026-07-16T12:38:58.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran tells Houthis to close Red Sea gateway if U.S. hits power network: report",
+    "desc": "A source close to the Houthis said the group had completed preparations to attack ‌shipping by deploying missiles and drones near Bab el-Mandeb strait, the gateway to the Red Sea, in Yemen’s highlands overlooking Hodeidah ‌and ⁠the Gulf of Aden and was awaiting the order to begin",
+    "img": "https://th-i.thgim.com/public/incoming/mli764/article71229848.ece/alternates/LANDSCAPE_1200/2026-07-15T145635Z_188060635_RC2EEMAOW6BY_RTRMADP_3_IRAN-CRISIS-YEMEN-RED-SEA-SATELLITE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-tells-houthis-to-close-red-sea-gateway-if-us-hits-power-network-report/article71229802.ece",
+    "time": "2026-07-16T12:34:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "U.K. urges FIFA to investigate Argentina over Falklands banner at World Cup",
+    "desc": "On July 15, Argentina beat England 2-1 in a World Cup semifinal; during post-match celebrations, Argentine players held a banner handed over by fans in the stands, reading ‘Las Malvinas son Argentinas’— ‘The Malvinas are Argentine.’",
+    "img": "https://th-i.thgim.com/public/incoming/ya9wqv/article71228387.ece/alternates/LANDSCAPE_1200/APTOPIX_Argentina_England_WCup_Soccer_571_1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/uk-urges-fifa-to-investigate-argentina-over-falklands-banner-at-world-cup/article71229384.ece",
+    "time": "2026-07-16T12:32:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Samantha Ruth Prabhu celebrates intimate baby shower with Raj Nidimoru",
+    "desc": "Actress Samantha Ruth Prabhu celebrated an intimate baby shower with her husband Raj Nidimoru. The couple is eagerly awaiting the arrival of their first child later this year. Samantha looked radiant in a traditional ethnic outfit at the private family gathering. Her recent film 'Maa Inti Bangaaram' achieved significant box office success worldwide. She plans a return to acting after her maternity break with exciting new projects.",
+    "img": "https://static.toiimg.com/photo/msid-132439346,imgsize-167150.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/mom-to-be-samantha-ruth-prabhu-celebrates-intimate-baby-shower-with-raj-nidimoru-see-pics/articleshow/132439328.cms",
+    "time": "2026-07-16T12:28:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. BJP president Nainar Nagenthran appears before court",
+    "desc": "In April 2024, ₹3.99 crore was seized from three men aboard Nellai Express, at Tambaram. The cash was allegedly being taken for distribution to voters in Tirunelveli following the instruction of Mr. Nagenthran who was contesting in Lok Sabha election",
+    "img": "https://th-i.thgim.com/public/incoming/yhnzn1/article71229782.ece/alternates/LANDSCAPE_1200/9868_21_9_2025_22_1_39_2_BJP_1.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/2024-nellai-express-train-cash-seizure-tn-bjp-president-nainar-nagenthran-appears-before-chennai-court/article71229613.ece",
+    "time": "2026-07-16T12:23:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NDA steps up push for numbers ahead of delimitation Bill, Opposition closes ranks",
+    "desc": "Both the ruling alliance and Opposition INDIA bloc are firming up strategies ahead of the Monsoon Session of Parliament; NDA banks on splits in Trinamool and Sena and the realignment in T.N.; Congress’s parliamentary group is scheduled to meet today",
+    "img": "https://th-i.thgim.com/public/incoming/ho10l0/article71227579.ece/alternates/LANDSCAPE_1200/IMG_Amit_Shah_arrives_to_2_1_7RDGFVER.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/nda-steps-up-push-for-numbers-ahead-of-delimitation-bill-opposition-closes-ranks/article71226795.ece",
+    "time": "2026-07-16T12:16:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Argentina fans burn England flags after FIFA WC semi-final win",
+    "desc": "Argentina's World Cup semi-final win over England was overshadowed by controversial celebrations, with some fans burning England flags, displaying St George's Cross coffins and chanting Falklands War songs. Players also posed with a “Las Malvinas son Argentinas” banner after the match. President Javier Milei reiterated Argentina's claim, saying, “Sovereignty is not negotiable”.",
+    "img": "https://static.toiimg.com/photo/msid-132439100,imgsize-93779.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/watch-argentina-fans-burn-england-flags-after-fifa-world-cup-semi-final-win/articleshow/132437805.cms",
+    "time": "2026-07-16T12:14:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Those under pressure, go wherever you want': Mamata as TMC exodus continues with Koel Mallick's exit",
+    "desc": "Mamata Banerjee addressed the Trinamool Congress exodus after the recent assembly poll defeat. She suggested leaders facing pressure are free to leave the party. Rajya Sabha MP Koel Mallick resigned, adding to the growing list of exits. This resignation followed Madan Mitra quitting to join a rebel TMC faction. Banerjee also defended her nephew Abhishek Banerjee amid internal party issues.",
+    "img": "https://static.toiimg.com/photo/msid-132439074,imgsize-978099.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/those-under-pressure-go-wherever-you-want-mamata-as-tmc-exodus-continues-with-koel-mallicks-exit/articleshow/132438976.cms",
+    "time": "2026-07-16T12:12:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Woman accused of harassing BTS Jin fails to show up at first and second trial",
+    "desc": "In a troubling case involving BTS member Jin, a Japanese woman, accused of harassment, has missed both her original and a subsequent trial hearing, leading to unexpected delays. The court has chosen to indefinitely postpone the case due to her pattern of absence. These allegations hark back to a fan event from over two years prior, with charges of forcible indecency stemming from her actions at that time.",
+    "img": "https://static.toiimg.com/photo/msid-132438266,imgsize-56952.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/woman-accused-of-forcibly-kissing-btss-jin-skips-trial-twice-reports-confirm-hearing-postponed-again/articleshow/132437991.cms",
+    "time": "2026-07-16T11:53:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is KL Rahul not playing in India vs England 2nd ODI at Cardiff?",
+    "desc": "KL Rahul missed India's second ODI against England in Cardiff due to illness, with Ishan Kishan replacing him in the playing XI. Confirming the change at the toss, captain Shubman Gill said, \"KL is sick and Ishan comes in for him.\" England won the toss and chose to bowl, while India lead the three-match series 1-0.",
+    "img": "https://static.toiimg.com/photo/msid-132438375,imgsize-85641.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/ind-vs-eng-why-is-kl-rahul-not-playing-in-india-vs-england-2nd-odi-at-cardiff/articleshow/132438031.cms",
+    "time": "2026-07-16T11:42:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Toxic' star Benedict Garrett slams trolls targeting Kiara Advani",
+    "desc": "Actor Benedict Garrett has slammed trolls targeting Kiara Advani. He questioned the double standards applied to the actress after her marriage. Garrett emphasized that actors portray characters and their job is to act. He highlighted the hypocrisy of criticizing Advani for her professional work. The film 'Toxic' continues to generate discussion ahead of its release.",
+    "img": "https://static.toiimg.com/photo/msid-132438290,imgsize-345562.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/they-are-actors-toxic-star-benedict-garrett-slams-trolls-targeting-kiara-advani-over-tabaahi-song/articleshow/132438263.cms",
+    "time": "2026-07-16T11:40:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vir Das shares strong message on being 'apolitical' as Sonam Wangchuk's hunger strike",
+    "desc": "Actor Vir Das questioned the idea of being apolitical in a recent social media post. He argued that remaining silent on societal issues is a conscious choice, not neutrality. Those who speak out often possess less privilege and have more at stake, he stated. Democracy requires citizens to hold elected officials accountable for public policy. Avoiding discomfort should not be mistaken for an ideology or political stance.",
+    "img": "https://static.toiimg.com/photo/msid-132437887,imgsize-52152.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vir-das-shares-strong-message-on-being-apolitical-as-sonam-wangchuks-hunger-strike-continues-to-spark-debate-most-bizarre-argument-ive-ever-heard/articleshow/132437860.cms",
+    "time": "2026-07-16T11:32:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vijay's 'Jana Nayagan' bookings open; FDFS timings revealed",
+    "desc": "Jana Nayagan bookings have opened in Bengaluru, not Tamil Nadu, for its upcoming release. Fans are rushing for early morning first-day-first-show screenings in Karnataka. Theatres in Karnataka will commence shows at 6 AM on July 23. Tamil Nadu theatres are expected to begin screenings later in the morning. This early booking success highlights Vijay's significant box office appeal.",
+    "img": "https://static.toiimg.com/photo/msid-132437855,imgsize-307608.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-bookings-open-in-bengaluru-and-not-tamil-nadu-vijay-fans-rush-for-6-am-fdfs/articleshow/132437815.cms",
+    "time": "2026-07-16T11:27:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'We'll go to Delhi and raise our voice': Omar Abdullah vows to press for J&amp;K statehood demand",
+    "desc": "Jammu and Kashmir chief minister Omar Abdullah confirmed a planned protest in Delhi. The National Conference will demonstrate on July 20 for statehood restoration. He stated the protest program will proceed as scheduled. The venue or format of the demonstration may change, he noted. Abdullah declined to label the permission delay as sabotage.",
+    "img": "https://static.toiimg.com/photo/msid-132437879,imgsize-1290542.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/well-go-to-delhi-and-raise-our-voice-omar-abdullah-vows-to-press-for-jk-statehood-demand/articleshow/132437676.cms",
+    "time": "2026-07-16T11:27:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'We share your anguish and outrage': Congress reaches out to Sonam Wangchuk in first reaction to hunger strike",
+    "desc": "Congress has appealed to activist Sonam Wangchuk to end his hunger strike. The party shares his concerns over the education minister's accountability. Wangchuk has been fasting for nineteen days demanding the minister's resignation. Congress assures continued pressure for the education minister's removal. The party supports the activist's demand for accountability in education.",
+    "img": "https://static.toiimg.com/photo/msid-132437731,imgsize-90956.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/we-share-your-anguish-and-outrage-congress-reaches-out-to-sonam-wangchuk-in-first-reaction-to-hunger-strike/articleshow/132437456.cms",
+    "time": "2026-07-16T11:25:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi to flag off India’s first hydrogen-powered train in Haryana",
+    "desc": "Unlike traditional trains, it generates its own electricity onboard through a chemical reaction between hydrogen and atmospheric oxygen, leaving behind water vapour; Mr. Modi will also inaugurate or lay the foundation for infrastructure worth over ₹25,000 crore during the day-long visit to Haryana and Punjab tomorrow",
+    "img": "https://th-i.thgim.com/public/incoming/fob0ri/article71229495.ece/alternates/LANDSCAPE_1200/20260715278L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/pm-modi-to-flag-off-indias-first-hydrogen-powered-train/article71229398.ece",
+    "time": "2026-07-16T11:05:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "On defying the gods with ‘The Odyssey’ and protecting movie magic",
+    "desc": "Speaking at the Indian premiere of ‘The Odyssey‘ in Mumbai, Christopher Nolan reflects on finding destiny in Homer’s immortal epic, adapting a foundational classic, the mysteries of cultural permanence, and remaining faithful to the moviegoer who first fell in love with cinema",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/q5wiu3/article71220848.ece/alternates/LANDSCAPE_1200/CT-47787.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/christopher-nolan-the-odyssey-movie-interview-2026-exclusive/article71220737.ece",
+    "time": "2026-07-16T11:03:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘There is no better person...’ Ashwin backs Dhoni as ideal successor to Fleming",
+    "desc": "Ashwin stressed that if Dhoni is willing to take up the coaching role, he would be the ideal successor given his deep understanding of the team and his successful partnership with Fleming over the years",
+    "img": "https://th-i.thgim.com/public/incoming/5v3nmw/article71229480.ece/alternates/LANDSCAPE_1200/INDEX_IPL_CRICKET_MATCH_DELHI_15.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/there-is-no-better-person-ashwin-backs-dhoni-as-ideal-successor-to-fleming/article71229465.ece",
+    "time": "2026-07-16T10:57:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Third language must stop, not start, in Class 9: Justice Nagarathna",
+    "desc": "Court advises new TVK-led State government to not deny the children of Tamil Nadu the benefit of Central schools through the Navodaya scheme, suggests the State could have its ‘own education system’ without denying children the option of enrolling in Navodaya schools",
+    "img": "https://th-i.thgim.com/public/incoming/e6hnby/article71228774.ece/alternates/LANDSCAPE_1200/TH14-KDR-Three-GDIG8H9I1.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/supreme-court-asks-cbse-not-to-introduce-third-language-in-class-9/article71228738.ece",
+    "time": "2026-07-16T10:53:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'No further delay': Delhi HC gives Kejriwal, AAP leaders final chance to file replies in excise policy case",
+    "desc": "The Delhi High Court granted AAP leaders a final chance to file their replies. This pertains to the CBI's revision petition challenging a trial court order. Arvind Kejriwal, Manish Sisodia, and Durgesh Pathak are the respondents in this matter. The court emphasized no further adjournments would be granted for these filings. The case has been listed for further hearing on August 17 and 18.",
+    "img": "https://static.toiimg.com/photo/msid-132437092,imgsize-89866.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-further-delay-delhi-hc-gives-kejriwal-aap-leaders-final-chance-to-file-replies-in-excise-policy-case/articleshow/132436016.cms",
+    "time": "2026-07-16T10:51:16.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "'Manmohan govt engaged with Anna Hazare ... ': Omar Abdullah says Centre unmoved by Sonam Wangchuk",
     "desc": "Jammu and Kashmir chief minister Omar Abdullah supports Sonam Wangchuk's hunger strike. Wangchuk is protesting alleged irregularities in the NEET examination, demanding accountability. His health has significantly deteriorated after nineteen days of fasting. Doctors warn of serious health complications if the hunger strike continues. The Delhi High Court has ordered daily medical examinations for Wangchuk.",
     "img": "https://static.toiimg.com/photo/msid-132436977,imgsize-1146673.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/manmohan-govt-engaged-with-anna-hazare-omar-abdullah-says-centre-unmoved-by-sonam-wangchuk/articleshow/132436367.cms",
     "time": "2026-07-16T10:50:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘You’re too handsome’: Saif Ali Khan on missing out on Ajay Devgn's role in 'Omkara'",
+    "desc": "As the cult classic 'Omkara' clocks 20 years, Saif Ali Khan has revisited the extraordinary coincidence that led to his iconic portrayal of Langda Tyagi in Vishal Bhardwaj’s Shakespearean adaptation. The actor also recalled Bhardwaj’s memorable casting remark, his mother Sharmila Tagore’s advice to perform Shakespeare, and a humorous behind-the-scenes anecdote about filming an intense scene.",
+    "img": "https://static.toiimg.com/photo/msid-132436830,imgsize-153818.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/saif-ali-khan-recalls-missing-out-on-ajay-devgns-role-and-miracle-call-that-landed-him-role-of-langda-tyagi-in-omkara-youre-too-handsome-to-play-othello/articleshow/132436333.cms",
+    "time": "2026-07-16T10:47:36.000Z"
   },
   {
     "cat": "Sports",
@@ -81,15 +378,6 @@ const newsData_en = [
     "time": "2026-07-16T09:58:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Why is the Punjab Congress in a mess ahead of next year’s elections?",
-    "desc": "With less than a year to go for the 2027 Punjab Assembly election, the Congress finds itself grappling with another leadership tussle. Former Chief Minister Charanjit Singh Channi’s supporters have openly demanded that he replace Amrinder Singh Raja Warring as president of the Punjab Pradesh Congress Committee (PPCC), exposing the factional fault lines within the State unit. This brings back memories of the run-up to the 2022 Assembly elections, when months of confrontation between the then CM Amarinder Singh and Navjot Sidhu led to the party’s defeat. Is history repeating itself?",
-    "img": "https://th-i.thgim.com/public/incoming/ti0ohe/article71229309.ece/alternates/LANDSCAPE_1200/punjab%20congress.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/shows/watch-why-is-the-punjab-congress-in-a-mess-ahead-of-next-years-elections-talking-politics/article71229307.ece",
-    "time": "2026-07-16T09:49:25.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'No better person': Ashwin backs MS Dhoni as CSK head coach",
     "desc": "Ravichandran Ashwin discussed Chennai Super Kings' new chapter after Stephen Fleming's departure. He believes MS Dhoni would be the ideal choice to lead the team. Ashwin noted the exceptional Fleming-Dhoni partnership that brought significant success. He also highlighted the challenges for any new coach due to Dhoni's influence. The franchise faces a crucial decision shaping its future direction.",
@@ -126,15 +414,6 @@ const newsData_en = [
     "time": "2026-07-16T09:37:14.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Can’t English be considered an indigenous Indian language, asks Supreme Court",
-    "desc": "SC questions the use of the colonially loaded term ‘native’ in CBSE circular, says the push for three-language scheme may be in the spirit of the Constitutional goal to use Indian languages for official purposes",
-    "img": "https://th-i.thgim.com/public/incoming/u3piod/article71220169.ece/alternates/LANDSCAPE_1200/Supreme%20Court%20%204.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/cant-english-be-considered-an-indigenous-indian-language-asks-sc/article71221705.ece",
-    "time": "2026-07-16T09:31:13.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "British govt seeks FIFA action against Argentina",
     "desc": "Argentina defeated England 2-1 in the FIFA World Cup semifinal on Wednesday in Atlanta. During the post-match celebrations, Argentine players posed with a banner handed to them by supporters in the stands that read, \"Las Malvinas son Argentinas\" (\"The Malvinas are Argentine\"). Argentina refers to the Falkland Islands as Islas Malvinas.",
@@ -142,24 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/falkland-poster-row-spills-over-british-governement-urges-fifa-action-against-argentina/articleshow/132434923.cms",
     "time": "2026-07-16T09:28:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Six men arrested for stealing silver-laced soil from Hindustan Photo Films factory in Nilgiris",
-    "desc": "It is believed that sludge from producing the films would have trace amounts of gold and silver, which would then accrue in the soil in certain parts of the factory where they were stored. One of the arrested men is Suresh, the branch secretary of the TVK from Ward 2 in Udhagamandalam.",
-    "img": "https://th-i.thgim.com/public/incoming/688itr/article71229181.ece/alternates/LANDSCAPE_1200/10214_12_9_2023_17_27_23_2_HPF1.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/six-men-arrested-for-stealing-silver-laced-soil-from-hindustan-photo-films-factory-in-nilgiris/article71229024.ece",
-    "time": "2026-07-16T09:22:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "May rethink over delimitation Bill if Opposition's amendments incorporated: Sanjay Raut",
-    "desc": "Shiv Sena (UBT) MP Sanjay Raut, talking to reporters ahead of the Ram Raksha Andolan on July 18, says he will rethink delimation Bill if Oppostion’s demand for the Bill are met amid ongoing protests",
-    "img": "https://th-i.thgim.com/public/incoming/bmo5xf/article71228888.ece/alternates/LANDSCAPE_1200/20250207084L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/may-rethink-over-delimitation-bill-if-oppositions-amendments-incorporated-sanjay-raut/article71229023.ece",
-    "time": "2026-07-16T09:22:33.000Z"
   },
   {
     "cat": "Entertainment",
@@ -216,15 +477,6 @@ const newsData_en = [
     "time": "2026-07-16T08:42:53.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "A new era of Indian ecology looks to its horizons, and to the ground",
-    "desc": "The second Indian Wildlife Ecology Conference at Ashoka University was a forum where researchers from universities, government agencies, NGOs, and field stations together figured out where the discipline is heading — using insights into evolutionary history, long-term monitoring, public policy, technology, and public health",
-    "img": "https://th-i.thgim.com/public/sci-tech/science/uq7xxa/article71224495.ece/alternates/LANDSCAPE_1200/Group%20Picture_IWEC%202026.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/iwec-2026-new-era-indian-ecology-looks-to-horizons-and-ground/article71224622.ece",
-    "time": "2026-07-16T08:42:01.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Paresh Rawal says it was idiotic of him to hit an audience member during a stage show",
     "desc": "Veteran actor Paresh Rawal admits his blunt social media presence caused harm. He expressed regret over past tweets and losing control during a performance. Rawal revealed Twitter negatively impacted his health and blood pressure significantly. He acknowledged his role in social media negativity and toxicity. The actor now largely avoids the platform due to its detrimental effects.",
@@ -262,30 +514,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Raut urges Fadnavis to take part in 'Ram Raksha Andolan' of Sena (UBT) in Nagpur",
-    "desc": "Sena (UBT) head and former State CM Uddhav Thackeray had earlier said that he would take part in the Ram Raksha Andolan organised by the party in Nagpur, the hometown of CM Fadnavis, on Saturday (July 16).",
-    "img": "https://th-i.thgim.com/public/incoming/bmo5xf/article71228888.ece/alternates/LANDSCAPE_1200/20250207084L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/maharashtra/raut-urges-fadnavis-to-take-part-in-ram-raksha-andolan-of-sena-ubt-in-nagpur/article71228858.ece",
-    "time": "2026-07-16T08:16:39.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Mann",
     "desc": "Addressing a public gathering in Mukerian, he said the Aam Aadmi Party (AAP) government had fulfilled its promises through initiatives in education, healthcare, power and social welfare, and urged people to give the party another mandate so that \"opportunist\" opposition leaders, especially the Congress, do not get a chance to come to power.",
     "img": "https://static.toiimg.com/photo/msid-132433370,imgsize-49606.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/punjab-congress-divided-as-every-leader-wants-to-be-cm-mann/articleshow/132433385.cms",
     "time": "2026-07-16T08:09:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mouni pens note for Subhashree for rushing to her side after paparazzi row",
-    "desc": "Mouni Roy thanked friend Subhashree Ganguly for rushing to her side, days after her paparazzi row in Mumbai. Sharing a photo, Mouni wrote, \"She left her home and kids & came in the moment.\" Fans grew concerned over her well-being, while praising her calm handling of the paparazzi incident.",
-    "img": "https://static.toiimg.com/photo/msid-132433205,imgsize-202344.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/asked-her-to-come-she-booked-in-10-minutes-mouni-roy-pens-emotional-note-for-subhashree-ganguly-for-rushing-to-her-side-after-paparazzi-row-fans-ask-are-you-okay/articleshow/132433205.cms",
-    "time": "2026-07-16T07:56:30.000Z"
   },
   {
     "cat": "Sports",
@@ -297,15 +531,6 @@ const newsData_en = [
     "time": "2026-07-16T07:55:49.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "distress in Tamil Nadu’s delta region",
-    "desc": "All is not well in the famed ‘Granary of South India’. Between a poor southwest monsoon and lack of water in the Cauvery, crops and farmers are left high and dry. The kuruvai cultivation area in Thanjavur alone has dipped to around 89,000 acres this season from around 1,94,000 acres in the previous cultivation year. This report describes the situation on the ground",
-    "img": "https://th-i.thgim.com/public/incoming/rx9a2s/article71211631.ece/alternates/LANDSCAPE_1200/Fields%20parch%20without%20Cauvery%20water%202.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/poor-monsoon-and-no-cauvery-water-distress-in-delta-region-of-tamil-nadu-2026-kharif-season/article71211621.ece",
-    "time": "2026-07-16T07:55:26.000Z"
-  },
-  {
     "cat": "Business",
     "title": "100% US tariff threat over Russian oil: India may have reasons to stay calm",
     "desc": "This is not the first attempt by the US to penalise countries purchasing Russian oil. Last year, Washington imposed an additional 25% tariff on India over its imports of Russian crude, before reversing the measure in February.",
@@ -315,33 +540,6 @@ const newsData_en = [
     "time": "2026-07-16T07:55:19.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "The DETAILED story behind Vijay's farewell film 'Jana Nayagan'",
-    "desc": "Vijay's final film, 'Jana Nayagan', faced numerous challenges before its release. The movie's journey included title announcements, music launches, and legal battles. Production was completed in June 2025, with a star-studded cast announced. Legal hurdles delayed the film, which eventually received an 'A' certificate. 'Jana Nayagan' is set to conclude Vijay's acting career on July 23.",
-    "img": "https://static.toiimg.com/photo/msid-132432951,imgsize-111588.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vijays-farewell-film-jana-nayagan-the-detailed-story-behind-its-journey-from-politics-to-the-final-release/articleshow/132432925.cms",
-    "time": "2026-07-16T07:42:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Chief warder, two warders arrested",
-    "desc": "Sabari Varman, 34, a differently abled resident of Eeththankaadu near Suchindram, was arrested on July 9 for allegedly possessing the banned gutka and remanded in custody. He died in the prison there under suspicious circumstances on July 12",
-    "img": "https://th-i.thgim.com/public/latest-news/gh1ao5/article71222737.ece/alternates/LANDSCAPE_1200/NagercoilJail.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/chief-warder-two-warders-arrested-for-the-death-of-a-remand-prisoner-in-nagercoil-jail/article71222438.ece",
-    "time": "2026-07-16T07:40:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'New language in class 9 stressful': SC on CBSE's compulsory 3-language decision",
-    "desc": "\"No that is very bad. 9th standard is stressful. Why do you introduce a new language in 9th? You introduce it in 6th. When we were there in our school we had both ICSE and SSLC. We were taught both syllabus. Only at the end of 9th standard we had to select,\" Justice BV Nagarathna, who was hearing plea challenging Madras high court direction to establish Jawahar Navodaya Vidyalayas in each district, said according to Live Law.",
-    "img": "https://static.toiimg.com/photo/msid-132432677,imgsize-251072.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/new-language-in-class-9-stressful-sc-on-cbses-compulsory-3-language-decision/articleshow/132432470.cms",
-    "time": "2026-07-16T07:35:06.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.S. Mint will produce $1 coin with Trump's image, Treasury Secretary says",
     "desc": "The design, which also features the words “Liberty,” “In God We Trust” and “1776-2026” on the ‌front and an image of the bald eagle from the presidential seal on ‌the back, was a revision from a ‌draft ⁠made public in October.",
@@ -349,87 +547,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/us-mint-will-produce-1-coin-with-trumps-image-treasury-secretary-says/article71228626.ece",
     "time": "2026-07-16T07:34:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Liam Neeson",
-    "desc": "Liam Neeson continues his prolific acting career with four films releasing in 2026. He has successfully reinvented himself as a reliable action star in recent years. His iconic quote from Batman Begins explores the difference between vigilantes and ideals. This philosophical distinction highlights self-interest versus selfless devotion to a cause. Neeson's own career trajectory exemplifies this powerful concept of unwavering commitment.",
-    "img": "https://static.toiimg.com/photo/msid-132432596,imgsize-144482.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-liam-neeson-if-you-make-yourself-more-than-just-a-man-then-you-become-something-else-entirely-when-the-batman-begins-star-shared-one-of-cinemas-most-unforgettable-lessons/articleshow/132432551.cms",
-    "time": "2026-07-16T07:33:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Julia Garner and Mark Foster are separating after 6 years",
-    "desc": "In a surprising turn, actress Julia Garner and musician Mark Foster are ending their six-year relationship. The couple, who married in 2019, first connected at the Sundance Film Festival back in 2013, but their love story blossomed on social media years later. They have yet to comment on their recent separation.",
-    "img": "https://static.toiimg.com/photo/msid-132432479,imgsize-220520.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/julia-garner-and-mark-foster-to-file-for-divorce-celebrity-couple-to-part-ways-after-6-years-of-marriage/articleshow/132432349.cms",
-    "time": "2026-07-16T07:23:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Provident Fund interest credited to all 34 crore accounts on July 15",
-    "desc": "The Union Finance Ministry had recently approved the recommendation of the EPFO’s Central Board of Trustees to provide interest at the rate of 8.25%; a senior EPFO official said the credited interest will be visible to all members when they open passbook for 2025-26.",
-    "img": "https://th-i.thgim.com/public/business/xewdyq/article71228601.ece/alternates/LANDSCAPE_1200/iStock-1472853215.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/provident-fund-interest-credited-to-all-34-crore-accountson-july-15/article71228561.ece",
-    "time": "2026-07-16T07:23:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NCW chief",
-    "desc": "“While interpreting sexual offences, the focus should not be limited only to the physical act. Equal importance must also be given to the survivor’s dignity, her consent, the fear she experienced, and the psychological trauma caused by the incident,” Ms. Rahatkar said.",
-    "img": "https://th-i.thgim.com/public/business/8hlbd6/article71228680.ece/alternates/LANDSCAPE_1200/HNR7HnwaYAAvBLG.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/interpretation-of-sexual-offences-should-not-be-limited-only-to-physical-act-ncw-chief/article71228637.ece",
-    "time": "2026-07-16T07:22:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Did Deepika Padukone delete an Instagram story backing Sonam Wangchuk amid hunger strike",
-    "desc": "A viral screenshot falsely claims Deepika Padukone supported Sonam Wangchuk's hunger strike. Verification shows no evidence of the actor posting or deleting such a story. The alleged Instagram post appears to be digitally manipulated and is unsubstantiated. Sonam Wangchuk continues his hunger strike at Jantar Mantar for examination reforms. Several film personalities have publicly expressed solidarity with the activist's ongoing protest.",
-    "img": "https://static.toiimg.com/photo/msid-132432424,imgsize-145796.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/did-deepika-padukone-delete-an-instagram-story-backing-sonam-wangchuk-amid-hunger-strike-heres-the-truth/articleshow/132432397.cms",
-    "time": "2026-07-16T07:20:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Prabhas' 'Fauzi' release date announced",
-    "desc": "Prabhas' upcoming period action drama 'Fauzi' has an official release date. The film will arrive in cinemas worldwide on December 3, 2026. The movie is set during the 1940s British Raj and features Prabhas as a soldier. Hanu Raghavapudi directs the film, which also stars Imanvi Esmail. Veteran actors Mithun Chakraborty, Anupam Kher, and Jaya Prada are also in the cast.",
-    "img": "https://static.toiimg.com/photo/msid-132432410,imgsize-645655.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/fauzi-prabhas-shines-in-a-blood-soaked-avatar-in-striking-new-poster-locks-december-3-2026-release-date-the-rebellion-begins/articleshow/132432330.cms",
-    "time": "2026-07-16T07:19:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Atul announces one-day hunger strike in support of Sonam Wangchuk",
-    "desc": "Atul Kulkarni announced a one-day hunger strike on July 16 to support Sonam Wangchuk, urging the government to begin dialogue \"without delay.\" Wangchuk's indefinite fast at Jantar Mantar, demanding Education Minister Dharmendra Pradhan's resignation over NEET-UG irregularities, has entered its 19th day, with celebrities like Shabana Azmi also extending support.",
-    "img": "https://static.toiimg.com/photo/msid-132432345,imgsize-270799.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/atul-kulkarni-announces-one-day-hunger-strike-in-support-of-sonam-wangchuk-urging-government-to-begin-dialogue-dard-ka-dard-se-rishta-hona-bohot-zaroori-hai/articleshow/132432345.cms",
-    "time": "2026-07-16T07:15:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Prince Harry's Princess Diana remarks fuel documentary talk",
-    "desc": "Prince Harry's sharing of a family tradition to honor Princess Diana has sparked new speculation. Critics suggest this indicates a forthcoming project about his late mother's legacy. The Duke of Sussex revealed his family eats lemon drizzle cake on Diana's birthday. This disclosure coincides with renewed focus on the princess's upcoming anniversary. Observers interpret his remarks as either a heartfelt tribute or preparation for a major television event.",
-    "img": "https://static.toiimg.com/photo/msid-132432272,imgsize-121764.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/prince-harrys-princess-diana-remarks-fuel-documentary-rumours-on-her-legacy-ahead-of-30th-anniversary-report/articleshow/132432193.cms",
-    "time": "2026-07-16T07:13:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tom Holland comments about Batman vs Spider-Man debate are unmissable",
-    "desc": "In a playful nod to the iconic Batman vs. Spider-Man rivalry, Tom Holland remarked that Batman holds an advantage with greater financial resources than his character, Spider-Man. Holland has been delighting fans as Spider-Man in the Marvel Cinematic Universe since 2016, while Robert Pattinson recently embodied the role of Batman for the DC universe. Upcoming viewers can catch them together in Christopher Nolan's 'The Odyssey'.",
-    "img": "https://static.toiimg.com/photo/msid-132432224,imgsize-142896.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-hollands-take-on-the-long-standing-marvel-dc-superhero-debate-batman-has-more-money-than-spider-man/articleshow/132432172.cms",
-    "time": "2026-07-16T07:08:53.000Z"
   },
   {
     "cat": "Business",
@@ -468,15 +585,6 @@ const newsData_en = [
     "time": "2026-07-16T06:01:40.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Life is precious': Delhi HC urges Centre to regularly examine Sonam Wangchuk's health",
-    "desc": "Hearing the a PIL over fasting activist's dwindling health, the high court noted that ​​\"life is precious\" and asked both the governments to provide, if needed, medical aid, to the Ladakh native. Doctors have warned that Wangchuk may soon enter a potentially \"alarming\" phase involving organ damage. Wangchuk has reportedly lost more than 9kgs since beginning his indefinite hunger strike.",
-    "img": "https://static.toiimg.com/photo/msid-132430933,imgsize-121114.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/life-is-precious-delhi-hc-urges-centre-to-regularly-examine-sonam-wangchuks-health/articleshow/132430821.cms",
-    "time": "2026-07-16T05:58:03.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "4341 days later! Only Rohit and Virat remain from India's last ODI XI in Cardiff",
     "desc": "India returns to Sophia Gardens after a long eleven-year absence for their second ODI. Virat Kohli and Rohit Sharma are back on the field where they last played together. Suresh Raina's century powered India's dominant 2014 victory at this venue. Kohli also scored a century here in 2011, though in a losing effort. Both players have strong records against England in ODI matches.",
@@ -486,15 +594,6 @@ const newsData_en = [
     "time": "2026-07-16T05:45:12.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "SC to hear plea against Orissa HC stay on 'Mahaprabhu Jagannath' film",
-    "desc": "The development comes a day after the Shree Jagannath Temple Managing Committee (SJTMC) urged the makers to postpone the film's release, alleging that it presents a fictional version of the deity's life that is inconsistent with Hindu scriptures. The appeal was made by Gajapati Maharaja Dibyasingha Deb, the titular king of Puri and chairman of the SJTMC, the highest decision-making body of the 12th-century Jagannath Temple.",
-    "img": "https://static.toiimg.com/photo/msid-132430727,imgsize-143943.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sc-to-hear-plea-against-orissa-hc-stay-on-mahaprabhu-jagannath-film/articleshow/132430709.cms",
-    "time": "2026-07-16T05:42:28.000Z"
-  },
-  {
     "cat": "Business",
     "title": "US Fed enlists ex-RBI guv Rajan, 2 other Indians for massive policy overhaul",
     "desc": "Former RBI governor Raghuram Rajan will help shape US monetary policy. He joins a Federal Reserve task force reviewing its policy framework. Rajan will examine balance sheet policy alongside other experts. Other panels will assess data, productivity, and inflation frameworks. These initiatives aim to improve the central bank's future policy approach.",
@@ -502,15 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/ex-rbi-governor-raghuram-rajan-and-2-other-indians-on-us-feds-monetary-policy-review-panels/articleshow/132430111.cms",
     "time": "2026-07-16T05:19:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NPCIL denies nuclear systems breach after Kudankulam data leak report",
-    "desc": "India's Nuclear Power Corporation stated a data breach involves conventional plant facilities. The reported leaked files pertain only to non-nuclear safety systems. These documents were prepared by Reliance Infrastructure Ltd. for common services. The breach does not compromise nuclear security or reactor core systems. The affected information relates to plant units under construction.",
-    "img": "https://static.toiimg.com/photo/msid-132430075,imgsize-910588.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/npcil-denies-nuclear-systems-breach-after-kudankulam-data-leak-report/articleshow/132430064.cms",
-    "time": "2026-07-16T05:03:46.000Z"
   },
   {
     "cat": "Business",
@@ -567,15 +657,6 @@ const newsData_en = [
     "time": "2026-07-16T04:06:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "India’s next big reform is where we live",
-    "desc": "India’s urban centers hold the key to its economic progress, demanding smart planning and investment to thrive. Three pivotal reforms — targeting regional hubs and essential infrastructure — can ignite urban potential for overall national development. By addressing housing regulations, cities can welcome private investment, while refined governance and finance structures will empower urban areas to offer outstanding public services.",
-    "img": "https://static.toiimg.com/photo/msid-132429082,imgsize-1773638.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/indias-next-big-reform-is-where-we-live/articleshow/132428677.cms",
-    "time": "2026-07-16T03:55:12.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "What is Argentina's 'Las Malvinas' Falkland Islands controversy?",
     "desc": "Argentina's World Cup semifinal victory over England has ignited a fresh controversy. Midfielder Giovani Lo Celso displayed a banner claiming the Falkland Islands are Argentine. FIFA rules prohibit political messages during football matches, potentially leading to disciplinary action. The Falkland Islands have been a subject of dispute between Argentina and the United Kingdom for decades. Argentina's Foreign Ministry recently reaffirmed its claim over the islands in an official communiqué.",
@@ -619,15 +700,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/very-cute-us-president-donald-trump-welcomes-new-1-coin-with-his-face-on-it/articleshow/132428202.cms",
     "time": "2026-07-16T03:11:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Not in good shape but ...': Sonam Wangchuk refuses to end fast despite health concerns",
-    "desc": "Sonam Wangchuk continues his hunger strike for nineteen days, stating his health is not critical. He urged supporters to join a Parliament march on July 20 instead of asking him to break his fast. Wangchuk believes his protest sends a message about government accountability and the need for action. His health has been monitored, and medical tests show stable results for his condition.",
-    "img": "https://static.toiimg.com/photo/msid-132428331,imgsize-968217.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/not-in-good-shape-but-sonam-wangchuk-refuses-to-end-fast-despite-health-concerns/articleshow/132428303.cms",
-    "time": "2026-07-16T02:52:52.000Z"
   },
   {
     "cat": "Sports",
@@ -711,15 +783,6 @@ const newsData_en = [
     "time": "2026-07-16T01:26:07.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Leo is still performing': Harry Kane uses Messi example to reveal his England World Cup future",
-    "desc": "Harry Kane has refused to rule out playing at the 2030 FIFA World Cup after England's heartbreaking semi-final defeat to Argentina. The captain admitted the loss felt like another familiar tournament setback, with England unable to protect their lead. However, Kane insisted he will take his international future year by year, inspired by Lionel Messi's continued excellence at 39.",
-    "img": "https://static.toiimg.com/photo/msid-132427448,imgsize-84042.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/leo-is-still-performing-harry-kane-uses-messi-example-to-reveal-his-england-world-cup-future/articleshow/132427430.cms",
-    "time": "2026-07-16T01:24:22.000Z"
-  },
-  {
     "cat": "Business",
     "title": "June jobless rate remains at 5.5%, but women find it hard to get work",
     "desc": "The national unemployment rate remained steady at five point five percent in June. Women experienced a rise in joblessness, reaching five point nine percent. Meanwhile, the jobless rate for men saw a slight decrease to five point three percent. Female labor force participation declined for the fourth consecutive month. This drop was largely due to a sharp fall in rural areas.",
@@ -757,15 +820,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Semifinals and final — schedule and timings in IST",
-    "desc": "Who has progressed in the knockouts of the FIFA World Cup? And when are the matches being played? The Trionda has enthralled FIFA fans this time in the USA, Canada, and Mexico. The final of this World Cup will be played on July 20 at 12.30 am I.S.T at the MetLife Stadium in New Jersey.",
-    "img": "https://th-i.thgim.com/public/incoming/he4teh/article71192575.ece/alternates/LANDSCAPE_1200/trophy.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-track-to-quarter-finals-schedule-fixtures-france-morocco-spain-belgium-norway-england-argentina-switzerland/article71188709.ece",
-    "time": "2026-07-15T23:30:45.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Matches in Indian Time",
     "desc": "The knockout stages of the 2026 FIFA World Cup begin on June 29, after an exciting group stage that featured 48 nations for the first time FIFA 2026 World Cup is being keenly watched by fans in India even if the matches are happening an ocean away.",
     "img": "https://th-i.thgim.com/public/incoming/hw29zz/article71145748.ece/alternates/LANDSCAPE_1200/image%206.jpg",
@@ -781,24 +835,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/argentina-vs-england-fifa-world-cup-sf-match-result-lionel-messi-shines-as-argentina-pull-off-stunner-against-england-in-atlanta-to-reach-wc-final/articleshow/132424895.cms",
     "time": "2026-07-15T21:19:40.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India exports $140 million worth of goods to UK at zero duty on Day 1 of trade pact implementation",
-    "desc": "India exported over $140 million in goods duty-free to the UK on Wednesday. More than fifty export consignments were flagged off from over twenty locations. These shipments included electronics, pharmaceuticals, and textiles, reaching various global gateways. The Comprehensive Economic and Trade Agreement grants Indian exports nearly ninety-nine percent duty-free access. This landmark pact is expected to significantly increase bilateral trade between the two nations.",
-    "img": "https://static.toiimg.com/photo/msid-132424417,imgsize-457585.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-exports-140-million-worth-of-goods-to-uk-at-zero-duty-on-day-1-of-trade-pact-implementation/articleshow/132424371.cms",
-    "time": "2026-07-15T19:23:11.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "UK backs India’s security concerns, says trade deal based on trust",
-    "desc": "The India-UK trade deal commenced, reflecting significant trust and cooperation between nations. This agreement is expected to boost both economies and enhance bilateral trade relations. Discussions also addressed national security and the extradition of financial fugitives. The pact aims to strengthen ties in defense, technology, and climate initiatives. Both countries anticipate increased GDP and financial trade following this landmark agreement.",
-    "img": "https://static.toiimg.com/photo/msid-132424265,imgsize-289240.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/uk-backs-indias-security-concerns-says-trade-deal-based-on-trust/articleshow/132424232.cms",
-    "time": "2026-07-15T19:08:29.000Z"
   },
   {
     "cat": "Tech",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/why-chinas-43-growth-is-worrying-its-government-explainer/article71224721.ece",
     "time": "2026-07-15T13:30:12.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "British lawmakers approve bill that allows the terminally ill to end their lives",
-    "desc": "Supporters said the law would provide dignity to the dying and prevent suffering; opponents said the disabled and elderly were at risk of being coerced to end their lives to save money or relieve the burden on family members",
-    "img": "https://th-i.thgim.com/public/incoming/we3yi3/article68930687.ece/alternates/LANDSCAPE_1200/2187455943.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/british-lawmakers-approve-bill-that-allows-the-terminally-ill-to-end-their-lives/article68930682.ece",
-    "time": "2026-07-15T12:48:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "On defying the gods with ‘The Odyssey’ and protecting movie magic",
-    "desc": "Speaking at the Indian premiere of ‘The Odyssey‘ in Mumbai, Christopher Nolan reflects on finding destiny in Homer’s immortal epic, adapting a foundational classic, the mysteries of cultural permanence, and remaining faithful to the moviegoer who first fell in love with cinema",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/q5wiu3/article71220848.ece/alternates/LANDSCAPE_1200/CT-47787.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/christopher-nolan-the-odyssey-movie-interview-2026-exclusive/article71220737.ece",
-    "time": "2026-07-15T09:52:10.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How India’s first educational computer arrived on a bullock cart",
-    "desc": "Computer science education was first introduced in India at IIT Kanpur. One of the earliest educational computers travelled by airplane, truck and even a bullock cart before reaching the campus, leaving us with computer lab traditions that are still followed",
-    "img": "https://th-i.thgim.com/public/incoming/cnpryt/article71209986.ece/alternates/LANDSCAPE_1200/Screenshot%202026-06-10%20113946.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/children/how-indias-first-educational-computer-arrived-on-a-bullock-cart/article71209933.ece",
-    "time": "2026-07-15T08:10:36.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Nepal’s new government, old concerns: Governance, dissent, shrinking civic space",
-    "desc": "After completing 100 days in office, the Balendra Shah administration now finds itself confronting many of the same questions that dogged its predecessor before last year’s Gen Z protests, which ultimately swept Mr. Shah to power",
-    "img": "https://th-i.thgim.com/public/incoming/1uf6n5/article71220963.ece/alternates/LANDSCAPE_1200/Balendra-Shah-sGC8FP80M8.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/nepals-new-government-old-concerns-governance-dissent-shrinking-civic-space/article71220815.ece",
-    "time": "2026-07-15T07:37:29.000Z"
   }
 ];
