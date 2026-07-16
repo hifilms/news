@@ -1,6 +1,159 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Acquitted 45 years on, after serving life term; murder in 1977, conviction 1981, clean chit 2026",
+    "desc": "The Supreme Court acquitted three surviving accused in a 49-year-old murder case. This decision came after the accused had served life imprisonment sentences. The court found serious infirmities in the prosecution's case and witness testimonies. Inconsistencies in witness accounts led to granting the benefit of doubt. The prosecution failed to establish guilt beyond reasonable doubt, leading to acquittal.",
+    "img": "https://static.toiimg.com/photo/msid-132448240,imgsize-1015725.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/acquitted-45-years-on-after-serving-life-term-murder-in-1977-conviction-1981-clean-chit-2026/articleshow/132448236.cms",
+    "time": "2026-07-16T21:36:36.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Uber to buy Delivery Hero in $15 billion deal",
+    "desc": "Uber will buy Germany's Delivery Hero for $14.8 billion. This creates the largest food delivery group outside China. The acquisition helps Uber compete with rivals like Just Eat. Uber expects the transaction to finish in the second half of next year. Together, both companies will nearly double their market presence.",
+    "img": "https://static.toiimg.com/photo/msid-132448013,imgsize-74176.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/uber-to-buy-delivery-hero-in-15-billion-deal/articleshow/132448011.cms",
+    "time": "2026-07-16T21:12:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Fuel-saving tech may be rewarded",
+    "desc": "New fuel efficiency rules may reward various fuel-saving technologies. Manufacturers can earn compliance benefits for technologies like start-stop systems. These approved technologies will offer credits equivalent to grams of CO2 per kilometer. This framework encourages wider deployment of features across mass-market vehicles. The draft also strengthens the case for flex-fuel vehicles with renewable fuel incentives.",
+    "img": "https://static.toiimg.com/photo/msid-132448007,imgsize-83666.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/fuel-saving-tech-may-be-rewarded/articleshow/132448005.cms",
+    "time": "2026-07-16T21:09:08.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "MG eyes up to 80% sales from 'new energy' vehicles",
+    "desc": "JSW MG Motor India is increasing its focus on new-energy vehicles this year. Higher fuel costs and awareness of savings are driving EV adoption significantly. The company expects new-energy vehicles to comprise eighty percent of its total sales. MG will introduce its first plug-in hybrid later this financial year. This new platform supports various new energy vehicle types on one base.",
+    "img": "https://static.toiimg.com/photo/msid-132448000,imgsize-57430.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/mg-eyes-up-to-80-sales-from-new-energy-vehicles/articleshow/132447998.cms",
+    "time": "2026-07-16T21:06:19.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Govt to take steps to boost liquidity for small biz",
+    "desc": "The government plans new tools to boost liquidity for micro, small, and medium enterprises. Amendments to the MSME Development Act will be moved in Parliament soon. These changes aim to remove business hurdles and improve cash flow for these crucial companies. A new online dispute resolution mechanism will also be introduced for faster payment recovery. The Udyam registration portal will receive statutory backing as part of these reforms.",
+    "img": "https://static.toiimg.com/photo/msid-132447993,imgsize-125069.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/govt-to-take-steps-to-boost-liquidity-for-small-biz/articleshow/132447991.cms",
+    "time": "2026-07-16T20:59:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Banks can't sell back seized assets to defaulters: RBI",
+    "desc": "RBI has barred defaulting borrowers from repurchasing seized properties. New directions effective October 1, 2026, tighten norms for stressed accounts. Banks must adopt board-approved policies for asset recognition and recovery efforts. Assets must be disposed of through public auctions within seven years. Seized assets will be disclosed separately and not included in NPA ratios.",
+    "img": "https://static.toiimg.com/photo/msid-132447977,imgsize-87206.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/banks-cant-sell-back-seized-assets-to-defaulters-rbi/articleshow/132447976.cms",
+    "time": "2026-07-16T20:55:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mary Jo 'MJ' Campbell, Kris Jenner's mother, passes away at 91",
+    "desc": "The Kardashian-Jenner family is mourning a heartbreaking loss. Mary Jo \"MJ\" Campbell, the mother of Kris Jenner and the beloved grandmother of Kim Kardashian, Kourtney Kardashian, Khloé Kardashian, Kendall Jenner and Kylie Jenner, has passed away at the age of 91. Kris Jenner shared the news on Instagram on July 16, posting a heartfelt tribute to the woman fans came to know as \"Grandma MJ\" through Keeping Up With the Kardashians and The Kardashians.",
+    "img": "https://static.toiimg.com/photo/msid-132447927,imgsize-71934.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/mary-jo-mj-campbell-kris-jenners-mother-and-kardashian-jenner-family-matriarch-dies-at-91-my-mom-was-the-heart-of-our-family/articleshow/132447920.cms",
+    "time": "2026-07-16T20:26:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Joe Root’s unbeaten 99 and Atkinson's all-round heroics power England to series-leveling win",
+    "desc": "In a thrilling second ODI, England clinched a four-wicket win over India, bringing the series to a tie at 1-1. Joe Root's stellar innings of 99 not out was pivotal as India's batters faltered, crumbling to just 233 runs. England's bowling duo, Archer and Atkinson, each claimed three wickets, showcasing their prowess. Despite half-centuries from Virat Kohli and Shreyas Iyer, India's collapse set the stage for a nail-biting final match.",
+    "img": "https://static.toiimg.com/photo/msid-132447869,imgsize-108380.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/ind-vs-eng-2nd-odi-match-result-joe-roots-unbeaten-99-and-gus-atkinsons-all-round-heroics-power-england-to-series-leveling-win/articleshow/132447869.cms",
+    "time": "2026-07-16T20:18:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NEET-UG results declared: 2 score 715/720, 19 cross 700",
+    "desc": "NEET-UG 2026 results revealed higher top scores following a nationwide retest. Aryan Gupta from Punjab secured the top position with a score of 715. Over 93% of candidates scoring above 690 were first-time test-takers. Women accounted for over 58% of the qualified candidates this year. The National Testing Agency declared results to keep medical admissions on track.",
+    "img": "https://static.toiimg.com/photo/msid-132447909,imgsize-605948.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/neet-ug-results-declared-2-score-715/720-19-cross-700/articleshow/132447910.cms",
+    "time": "2026-07-16T20:16:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court judgments say state has a duty to preserve life of person on indefinite fast without disrupting right to dissent",
+    "desc": "The Union government has responded to activist Sonam Wanghuk’s ongoing fasting at Jantar Mantar with silence for the past 19 days even as an alarmed Delhi High Court asserted on July 16 that the ‘life of any citizen is precious’",
+    "img": "https://th-i.thgim.com/public/incoming/p0g46u/article71231058.ece/alternates/LANDSCAPE_1200/Cockroach%20Janta%20Party%20CJP%20Protest%20Delhi%2039.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/supreme-court-judgments-on-indefinite-fast-state-duty-to-preserve-life-sonam-wangchuk/article71230585.ece",
+    "time": "2026-07-16T20:12:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Fema a civil law, RBI alone can compound offences, says ED",
+    "desc": "The Enforcement Directorate clarified Fema's role as civil legislation for voluntary compliance. Reserve Bank of India is the competent authority for compounding eligible contraventions. The ED issues a no-objection certificate to the central bank for compounding offenses. RBI recently closed a Fema case against Apothecon Pharmaceuticals after a penalty. This action follows master directions prescribing a compounding matrix for determining amounts.",
+    "img": "https://static.toiimg.com/photo/msid-132447884,imgsize-141916.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/fema-a-civil-law-rbi-alone-can-compound-offences-says-ed/articleshow/132447870.cms",
+    "time": "2026-07-16T20:08:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Does marital rape law shield men from unnatural sex prosecution?",
+    "desc": "The Supreme Court will examine if husbands can face charges for sexual acts causing harm. This question arises despite existing exemptions for marital rape under penal laws. The court will begin final hearings on these pending pleas from September ninth. The central issue is whether the court can create a new offense by striking down exceptions. The Centre opposes criminalizing marital rape, citing marriage as a unique relationship.",
+    "img": "https://static.toiimg.com/photo/msid-132447782,imgsize-832243.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/does-marital-rape-law-shield-men-from-unnatural-sex-prosecution/articleshow/132447793.cms",
+    "time": "2026-07-16T19:46:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Alia Bhatt's 'Alpha' diet revealed: Trainer shares her routine",
+    "desc": "Alia Bhatt impressed audiences with her high-octane action sequences in 'Alpha', where she plays the fierce assassin Sita. From performing combat scenes to executing intense fight choreography, the actor underwent months of dedicated preparation to make her character look convincing on screen. Now, Alia Bhatt's fitness trainer, Karan Sawhney, has opened up about the rigorous workout routine, high-protein diet, and recovery plan that helped the actor transform for the action thriller.",
+    "img": "https://static.toiimg.com/photo/msid-132447676,imgsize-97451.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alia-bhatts-alpha-diet-revealed-celebrity-trainer-karan-sawhney-shares-her-100-125g-protein-intake-workout-and-recovery-routine/articleshow/132447649.cms",
+    "time": "2026-07-16T19:40:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NEET-UG 2026 results: 11.21 lakh candidates qualify in re-test; women outshine men",
+    "desc": "Two candidates, Aryan Gupta from Punjab and Panshul Bansal from Haryana, secured the highest score of 715 (out of 720 marks) in the re-examination; 19 candidates crossed the 700-mark threshold; of the top 138 candidates (scores above 690), 93% cracked the exam on their first attempt, with 99% of them aged between 17 and 19 years",
+    "img": "https://th-i.thgim.com/public/incoming/vebdbn/article71231334.ece/alternates/LANDSCAPE_1200/NEET%20Students%2004.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/education/neet-ug-2026-examination-results-declared-nta/article71231321.ece",
+    "time": "2026-07-16T19:35:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Formulate policy to free elderly, terminally ill prisoners: Supreme Court",
+    "desc": "The Supreme Court ordered states and Union Territories to create a policy for releasing elderly and terminally ill prisoners. This directive ensures constitutional values are upheld even within prison walls. The court emphasized that dignity and humane treatment remain paramount for all inmates. Data shows over 5,000 prisoners fall into these vulnerable categories. The policy must be formulated within the next three months.",
+    "img": "https://static.toiimg.com/photo/msid-132447641,imgsize-253919.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/formulate-policy-to-free-elderly-terminally-ill-prisoners-supreme-court/articleshow/132447646.cms",
+    "time": "2026-07-16T19:30:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'As long as there are people who approach the gods with greedy hearts, there will be priests with greedy hearts to receive them' and how true salvation lies in compassion and selflessness",
+    "desc": "Throughout history, the quest for immediate gratification has led to spiritual manipulation. Emperor Ashoka stood against those who exploited the fears and hopes of individuals, highlighting the transactional nature of faith. Today, the prosperity gospel and wellness movements reflect this enduring cycle. To escape this repetitive loop, we must recognize that genuine growth transcends simple transactions.",
+    "img": "https://static.toiimg.com/photo/msid-132447587,imgsize-104000.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/quote-of-the-day-inspired-by-ashoka-the-great-as-long-as-there-are-people-who-approach-the-gods-with-greedy-hearts-there-will-be-priests-with-greedy-hearts-to-receive-them-and-how-true-salvation-lies-in-compassion-and-selflessness/articleshow/132447199.cms",
+    "time": "2026-07-16T19:19:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kochi Corporation orders probe into spending of ₹6.32 crore for streetlight maintenance in 2022-23",
+    "desc": "Report on expenditure towards streetlight repair and maintenance tabled in council; survey to be conducted to verify number of LED lights that CSML claimed to have installed under City LED Street Light project last year and assess number of old lights that remain to be replaced, says Mayor",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kochi-corporation-orders-probe-into-632-crore-streetlight-maintenance-expenditure-in-2022-23/article71229631.ece",
+    "time": "2026-07-16T19:12:18.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "The journey of Sonam Wangchuk",
     "desc": "For many Indians, Sonam Wangchuk is the real-life inspiration behind the character of Phunsukh Wangdu in 3 Idiots. But his story goes far beyond cinema. From transforming education in Ladakh and developing the world-famous Ice Stupa project to becoming the most prominent face of Ladakh’s movement for constitutional safeguards, Wangchuk’s journey has spanned education, climate action and activism. This explainer traces how an engineer and educator became one of India’s most influential public voices on Ladakh’s future.",
     "img": "https://th-i.thgim.com/public/incoming/xy2o9e/article71231465.ece/alternates/LANDSCAPE_1200/Mumbai%E2%80%99s%20public%20transport%20needs%2010000%20buses%20Ashwini%20Bhide%202.png",
@@ -73,15 +226,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Rajnath Singh",
-    "desc": "At a conclave, Defence Minister says the BRO has evolved from a road construction agency into a leading strategic infrastructure organisation, as he cited landmark projects like the Atal Tunnel, Umling La Pass road and the Sela Tunnel",
-    "img": "https://th-i.thgim.com/public/incoming/qjmdkj/article71230869.ece/alternates/LANDSCAPE_1200/20260716163L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/roads-to-frontline-as-crucial-as-weapons-in-modern-warfare-rajnath-singh/article71230520.ece",
-    "time": "2026-07-16T17:05:28.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "'No sensitive data leaked': Government refutes reports of Kudankulam nuclear plant breach",
     "desc": "Union Minister Jitendra Singh dismissed reports of sensitive Kudankulam Nuclear Power Plant files being leaked. He asserted that no nuclear safety or security data had been compromised in the incident. The Nuclear Power Corporation of India Limited clarified leaked documents related only to the plant's conventional Balance of Plant package. This clarification followed claims by a ransomware group about accessing thousands of project-related files.",
     "img": "https://static.toiimg.com/photo/msid-132444119,imgsize-111932.cms",
@@ -97,33 +241,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-washington-tehran-air-strikes-strait-of-hormuz-live-updates-july-16-2026/article71228351.ece",
     "time": "2026-07-16T16:44:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SC judgments say state has a duty to preserve life of person on indefinite fast without disrupting right to dissent",
-    "desc": "The Union government has responded to activist Sonam Wanghuk’s ongoing fasting at Jantar Mantar with silence for the past 19 days even as an alarmed Delhi High Court asserted on July 16 that the ‘life of any citizen is precious’",
-    "img": "https://th-i.thgim.com/public/incoming/p0g46u/article71231058.ece/alternates/LANDSCAPE_1200/Cockroach%20Janta%20Party%20CJP%20Protest%20Delhi%2039.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/supreme-court-judgments-on-indefinite-fast-state-duty-to-preserve-life-sonam-wangchuk/article71230585.ece",
-    "time": "2026-07-16T16:38:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "TTD gets record ₹97 crore in one day as donors rush to contribute before policy overhaul",
-    "desc": "As many as 2,460 devotees make donations during the day, of whim 2,354 contribute online, while 106 opt for the offline mode, following the announcement that the concessions available under the existing donation schemes will cease after Tuesday midnight",
-    "img": "https://th-i.thgim.com/public/incoming/xoy66n/article71231114.ece/alternates/LANDSCAPE_1200/IMG_6689_6_10_2021_19_27_2_1_T2AFPR1F.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ttd-gets-record-97-crore-in-one-day-as-donors-rush-to-contribute-before-policy-overhaul/article71230446.ece",
-    "time": "2026-07-16T16:17:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Satheesan’s ‘refusal’ to meet KSU president fuels slugfest in Congress",
-    "desc": "KPCC spokesperson V.R. Anoop launches broadside against Chief Minister. He says in a social media post that the courtesy shown to Hindu Aikya Vedi’s K.P. Sasikala and R.V. Babu could have been extended to KPCC general secretary P.M. Niyas and KSU president Aloshious Xavier",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/satheesans-refusal-to-meet-ksu-president-fuels-slugfest-in-congress/article71230995.ece",
-    "time": "2026-07-16T16:17:18.000Z"
   },
   {
     "cat": "Entertainment",
@@ -315,24 +432,6 @@ const newsData_en = [
     "time": "2026-07-16T13:42:46.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "How concretisation is turning cities into monsoon flood traps",
-    "desc": "Urban regions are increasingly battling monsoon flooding, exacerbated by extensive concretisation. With impermeable surfaces dominating, rainwater struggles to seep in, leading to heightened runoff. Meanwhile, the decline of natural water reservoirs like wetlands further complicates the situation. In response, authorities are encouraging the use of permeable materials and green spaces. While initiatives for de-concretisation are on the rise, the swift pace of construction poses significant hurdles.",
-    "img": "https://static.toiimg.com/photo/msid-132437811,imgsize-215548.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/how-concretisation-is-turning-cities-into-monsoon-flood-traps/articleshow/132437672.cms",
-    "time": "2026-07-16T13:27:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Cabinet expansion very soon': Congress hints at Karnataka reshuffle after Rahul-DKS meeting",
-    "desc": "Karnataka cabinet expansion is expected to occur very soon. Senior Congress leaders met in Delhi to discuss the long-pending cabinet appointments. Consultations are underway to fill twenty vacant ministerial positions and the Speaker's post. The party aims to balance regional and caste equations for the selections. This expansion is anticipated before the upcoming assembly session begins in August.",
-    "img": "https://static.toiimg.com/photo/msid-132440180,imgsize-104972.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cabinet-expansion-very-soon-congress-hints-at-karnataka-reshuffle-after-rahul-dks-meeting/articleshow/132439289.cms",
-    "time": "2026-07-16T13:14:55.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Ramayan' actor Adinath Kothare and wife Urmila Kanetkar announce divorce",
     "desc": "Marathi actors Adinath Kothare and Urmila Kanetkar have announced their separation after fifteen years. The couple mutually decided to part ways amicably, as stated in their social media post. Their daughter Jizah remains their absolute priority, and they will continue co-parenting her. They met in 2006 on the sets of Mahesh Kothare's film. Both actors have established successful careers in Marathi cinema and beyond.",
@@ -468,15 +567,6 @@ const newsData_en = [
     "time": "2026-07-16T10:57:10.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘You’re too handsome’: Saif Ali Khan on missing out on Ajay Devgn's role in 'Omkara'",
-    "desc": "As the cult classic 'Omkara' clocks 20 years, Saif Ali Khan has revisited the extraordinary coincidence that led to his iconic portrayal of Langda Tyagi in Vishal Bhardwaj’s Shakespearean adaptation. The actor also recalled Bhardwaj’s memorable casting remark, his mother Sharmila Tagore’s advice to perform Shakespeare, and a humorous behind-the-scenes anecdote about filming an intense scene.",
-    "img": "https://static.toiimg.com/photo/msid-132436830,imgsize-153818.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/saif-ali-khan-recalls-missing-out-on-ajay-devgns-role-and-miracle-call-that-landed-him-role-of-langda-tyagi-in-omkara-youre-too-handsome-to-play-othello/articleshow/132436333.cms",
-    "time": "2026-07-16T10:47:36.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'RR was ready without me': Samson reveals why he walked away from Royals",
     "desc": "Sanju Samson discussed his difficult departure from Rajasthan Royals after many years. He felt both he and the franchise were ready for a change. The opportunity to join Chennai Super Kings and reunite with friends influenced his decision. He admired MS Dhoni since childhood and dreamed of playing alongside him. Samson's IPL career began with Rajasthan Royals in 2013.",
@@ -493,15 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/icc-reprimands-indian-cricketer-for-throwing-ball-in-dangerous-manner-ahead-of-ind-vs-eng-2nd-odi/articleshow/132436317.cms",
     "time": "2026-07-16T10:40:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Paresh Rawal talks about his love story and bond with Swaroop Sampat",
-    "desc": "Paresh Rawal revealed the enchanting journey of his love with Swaroop Sampat, a bond that blossomed in their college years. After a four-month gap, fate brought them back together, and Rawal knew he wanted to spend his life with her, despite her being the daughter of his boss. Their commitment paid off, and the couple has been joyfully married for over three decades since 1987, following a twelve-year courtship.",
-    "img": "https://static.toiimg.com/photo/msid-132436305,imgsize-86616.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/paresh-rawal-on-how-things-went-smoothly-with-swaroop-sampat-mere-jitna-naseeb-ka-balwan-aadmi-maine-nahin-dekha-hai/articleshow/132436176.cms",
-    "time": "2026-07-16T10:30:07.000Z"
   },
   {
     "cat": "Business",
@@ -729,15 +810,6 @@ const newsData_en = [
     "time": "2026-07-16T03:30:00.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Stock recommendations for July 16, 2026",
-    "desc": "Anant Raj, Sobha Ltd, and PNB Housing Finance have been identified as the top stocks to buy by Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth Management for July 16, 2026. Views on Nifty and Bank Nifty have also been shared:",
-    "img": "https://static.toiimg.com/photo/msid-132428715,imgsize-377359.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-july-16-2026-anant-raj-sobha-pnb-housing-finance-best-stocks-to-buy-today/articleshow/132428685.cms",
-    "time": "2026-07-16T03:25:35.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Gill's chase at Edgbaston showed why India already have Kohli's ODI heir",
     "desc": "Shubman Gill's unbeaten 80 against England in the first ODI at Edgbaston was a lesson in calculated ODI batting rather than outright aggression. On a seamer-friendly surface, he absorbed pressure, rebuilt after India's early setbacks and accelerated at the right moments to steer the chase. Even cramps couldn't derail his composure, reinforcing why Gill, who is still uncertain for the second ODI in Cardiff, is rapidly becoming India's premier chase specialist, much like Virat Kohli.",
@@ -745,69 +817,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/shubman-gills-chase-at-edgbaston-showed-why-india-already-have-virat-kohlis-odi-heir/articleshow/132428594.cms",
     "time": "2026-07-16T03:24:36.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "'Very cute': US President Donald Trump welcomes new $1 coin with his face on it",
-    "desc": "A new US dollar coin will feature President Donald Trump for America's 250th birthday. This commemorative coin is scheduled for release in the autumn of 2026. The design includes Trump's image and traditional American symbols on both sides. Critics raised concerns about this move conflicting with an 1866 law. The Treasury Department stated the coin is legal under a 2020 act.",
-    "img": "https://static.toiimg.com/photo/msid-132428173,imgsize-1278879.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/very-cute-us-president-donald-trump-welcomes-new-1-coin-with-his-face-on-it/articleshow/132428202.cms",
-    "time": "2026-07-16T03:11:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Messi's reaction after Argentina players find England goalkeeper's secret penalty notes",
-    "desc": "Lionel Messi and Argentina teammates sparked a viral moment after their World Cup semi-final victory over England, as they inspected Jordan Pickford's penalty notes taped to his water bottle. The England goalkeeper's preparations for a shootout went unused after Lautaro Martínez's stoppage-time winner sealed a 2-1 comeback. Messi's amused reaction quickly became one of the tournament's most talked-about moments.",
-    "img": "https://static.toiimg.com/photo/msid-132427861,imgsize-1792170.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/watch-messis-reaction-after-argentina-players-find-england-goalkeepers-secret-penalty-notes/articleshow/132427520.cms",
-    "time": "2026-07-16T02:18:10.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "China's economy stumbles with growth below target: Report",
-    "desc": "China's economy slowed more than expected last quarter, reaching its weakest point in over three years. Gross domestic product grew 4.3% from a year ago, missing official targets. This slowdown will likely dominate upcoming Politburo meetings this month. Officials may accelerate public spending and boost infrastructure investment. This action aims to ensure the annual growth goal is met.",
-    "img": "https://static.toiimg.com/photo/msid-132427777,imgsize-193178.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/chinas-economy-stumbles-with-growth-below-target-report/articleshow/132427771.cms",
-    "time": "2026-07-16T02:08:10.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Union Cabinet clears Rs 1.9 lakh crore push for chips, mobile phones",
-    "desc": "The Union Cabinet approved two schemes totaling Rs 1.9 lakh crore for electronics manufacturing. These initiatives aim to boost semiconductor fabrication and mobile phone production significantly. The government plans to deepen domestic value addition and reduce import dependence. These schemes will run for five years starting from 2026-27. India targets a $500 billion electronics manufacturing industry by 2030-31.",
-    "img": "https://static.toiimg.com/photo/msid-132427689,imgsize-1098480.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/union-cabinet-clears-rs-1-9-lakh-crore-push-for-chips-mobile-phones/articleshow/132427656.cms",
-    "time": "2026-07-16T01:54:11.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Oil prices extend gain for fourth day, stay beyond $85 amid Middle East chaos",
-    "desc": "Crude oil prices climbed for a fourth day, exceeding eighty-five dollars per barrel. Investors reacted to escalating United States and Iran conflict and shipping route security. United States strikes on Iran's missile sites and coastal defense positions occurred. This intensified worries over oil moving through the Strait of Hormuz. Analysts suggest prices could rise further depending on conflict developments.",
-    "img": "https://static.toiimg.com/photo/msid-132427575,imgsize-1894299.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-extend-gain-for-fourth-day-stay-beyond-85-amid-middle-east-chaos-on-july-162026/articleshow/132427553.cms",
-    "time": "2026-07-16T01:45:31.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "TVS arm Home Credit to buy education loan company for Rs 967 crore",
-    "desc": "Home Credit India will acquire Varthana Finance in an all-cash deal valued at Rs 967 crore. This transaction will make Varthana a wholly owned subsidiary of Home Credit India. The acquisition aims to diversify portfolios and improve business mix for the company. It is expected to create synergies in distribution, technology, and risk management. Regulatory approvals are required, with completion anticipated within nine months.",
-    "img": "https://static.toiimg.com/photo/msid-132427566,imgsize-15540.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tvs-arm-home-credit-to-buy-education-loan-company-for-rs-967-crore/articleshow/132427558.cms",
-    "time": "2026-07-16T01:43:36.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Tata Motors pips M&amp;M to regain No 2 ranking",
-    "desc": "India's passenger vehicle market recorded its strongest first quarter ever. Domestic sales increased significantly, driven by SUV demand and new model launches. Tata Motors reclaimed the second position, surpassing Mahindra & Mahindra in sales figures. Maruti Suzuki maintained its leading market share, while Hyundai Motor India held fourth place. Strong performance from models like Punch and Nexon anchored Tata Motors' sales growth.",
-    "img": "https://static.toiimg.com/photo/msid-132427549,imgsize-146852.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/tata-motors-pips-mm-to-regain-no-2-ranking/articleshow/132427535.cms",
-    "time": "2026-07-16T01:40:27.000Z"
   },
   {
     "cat": "World",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/leaving-uk-in-better-shape-keir-starmer-at-final-parliament-session-as-pm/article71225984.ece",
     "time": "2026-07-15T13:57:58.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Why China’s 4.3% growth is worrying its government",
-    "desc": "It's the slowest growth since 2022, when China was still in the grips of the pandemic, and below the government's already-lowered annual target of 4.5-5%; the country is facing multiple challenges of a real estate slowdown, sluggish consumption, and serious challenges in the job market",
-    "img": "https://th-i.thgim.com/public/news/national/1j4w0e/article71224725.ece/alternates/LANDSCAPE_1200/iStock-480560946.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/why-chinas-43-growth-is-worrying-its-government-explainer/article71224721.ece",
-    "time": "2026-07-15T13:30:12.000Z"
   }
 ];

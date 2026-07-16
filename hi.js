@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Joe Root aces another England chase after India's batting disaster in Cardiff, Lord's to decide series",
+    "desc": "England defeated India by four wickets in the second ODI at the Sophia Gardens in Cardiff. With the win, the series is now locked level, with the decider set to be played on July 19...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/joe-root-aces-another-england-chase-after-india-s-batting-disaster-in-cardiff-lord-s-to-decide-series-2026-07-17-1048503",
+    "time": "2026-07-16T20:09:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vijay Shankar, Shaheen to Kandy; Shakib, Taskin to Jaffna",
+    "desc": "The sixth edition of the Lanka Premier League will begin with a repeat of last season's final as defending champions Jaffna Kings face Galle Gallants at the Sinhalese Sports Club in Colombo. The tournament will...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vijay-shankar-shaheen-to-kandy-shakib-taskin-to-jaffna-full-squads-of-all-five-teams-of-lpl-2026-2026-07-17-1048502",
+    "time": "2026-07-16T19:29:26.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Lamine Yamal injured? Pedro Porro unfit? Spanish players train separately ahead of FIFA World Cup final",
     "desc": "Spain have dismissed concerns over Lamine Yamal's fitness ahead of the FIFA World Cup 2026 final against Argentina. The Spanish Football Federation has confirmed the teenage forward is expected to be available despite training separately...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-kl-rahul-not-playing-in-india-vs-england-second-odi-in-cardiff-2026-07-16-1048461",
     "time": "2026-07-16T12:31:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England lose for for 94, India hanging in balance",
-    "desc": "India and England are taking on each other in the second ODI of the ongoing three-game series. The two sides meet at Sophia Gardens in Cardiff, and both teams will look to put in their...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-2nd-odi-live-cricket-score-england-opt-to-field-first-in-cardiff-india-aim-to-clinch-series-2026-07-16-1048454",
-    "time": "2026-07-16T11:59:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gurnoor Brar found in breach of ICC's Code of Conduct, handed one demerit point after England ODI",
-    "desc": "In a major development, India pacer Gurnoor Brar has been penalised by the ICC (International Cricket Council) after he was found in breach of the ICC’s Code of Conduct. It is worth noting that Brar...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gurnoor-brar-found-in-breach-of-icc-s-code-of-conduct-handed-one-demerit-point-after-england-odi-2026-07-16-1048446",
-    "time": "2026-07-16T11:27:30.000Z"
   }
 ];
