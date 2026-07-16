@@ -1,12 +1,147 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "SC judgments say state has a duty preserve life of person on indefinite fast without disrupting right to dissent",
+    "title": "The journey of Sonam Wangchuk",
+    "desc": "For many Indians, Sonam Wangchuk is the real-life inspiration behind the character of Phunsukh Wangdu in 3 Idiots. But his story goes far beyond cinema. From transforming education in Ladakh and developing the world-famous Ice Stupa project to becoming the most prominent face of Ladakh’s movement for constitutional safeguards, Wangchuk’s journey has spanned education, climate action and activism. This explainer traces how an engineer and educator became one of India’s most influential public voices on Ladakh’s future.",
+    "img": "https://th-i.thgim.com/public/incoming/xy2o9e/article71231465.ece/alternates/LANDSCAPE_1200/Mumbai%E2%80%99s%20public%20transport%20needs%2010000%20buses%20Ashwini%20Bhide%202.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/from-ice-stupas-to-hunger-strikes-the-journey-of-sonam-wangchuk/article71231466.ece",
+    "time": "2026-07-16T18:59:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Amit Shah to review border security, law and order during three-day Bengal tour",
+    "desc": "Home Minister Amit Shah will visit West Bengal for three days starting Friday. He will review border security and governance matters during his important trip. Shah will interact with BSF personnel and inaugurate development projects near the border. Later, he will chair meetings on law and order and new criminal laws. The minister will also inaugurate a museum and lay a foundation stone for Amul Dairy.",
+    "img": "https://static.toiimg.com/photo/msid-132446549,imgsize-911944.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/amit-shah-to-review-border-security-law-and-order-during-three-day-bengal-tour/articleshow/132446558.cms",
+    "time": "2026-07-16T18:32:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "In AI era, IT sector employees facing an uncertain future",
+    "desc": "The recent sacking of over 1,000 employees of two information technology firms in Kerala has triggered a disquiet in the sector. G. Ragesh talks to some of the affected employees and other stakeholders to find out what is ailing the sector",
+    "img": "https://th-i.thgim.com/public/incoming/peux0w/article71230412.ece/alternates/LANDSCAPE_1200/CorroHealths-tGCNG7ILSO.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/in-ai-era-it-sector-employees-facing-an-uncertain-future/article71224517.ece",
+    "time": "2026-07-16T18:31:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Omar Abdullah asks Centre to take humanitarian view on Wangchuk",
+    "desc": "Jammu and Kashmir Chief Minister Omar Abdullah expressed concern over Sonam Wangchuk's health. He urged the central government to adopt a humanitarian approach to the issue. Wangchuk has been fasting for nineteen days and has lost significant weight. Abdullah drew parallels with the UPA government's engagement with Anna Hazare. He stated Wangchuk's demand for NEET examination accountability was justified.",
+    "img": "https://static.toiimg.com/photo/msid-132446223,imgsize-907538.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/omar-abdullah-asks-centre-to-take-humanitarian-view-on-wangchuk/articleshow/132446224.cms",
+    "time": "2026-07-16T18:17:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Srinagar court grants NOC for passport to Farooq, sets conditions",
+    "desc": "A Srinagar court granted a no-objection certificate for Farooq Abdullah's passport. The court noted that pending criminal proceedings do not automatically bar travel. CBI had objected, fearing he might flee the country and evade justice. The passport was issued for one year, subject to conditions. Abdullah must seek permission before traveling outside Jammu and Kashmir.",
+    "img": "https://static.toiimg.com/photo/msid-132446196,imgsize-832070.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/srinagar-court-grants-noc-for-passport-to-farooq-sets-conditions/articleshow/132446141.cms",
+    "time": "2026-07-16T18:15:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Centre puts Delhi hospitals on alert as Sonam Wangchuk fast enters third week",
+    "desc": "Central government hospitals will now conduct twice-daily health checks for hunger strikers. Dr Ram Manohar Lohia Hospital is designated as the nodal facility for any emergencies. Advanced life support ambulances will remain stationed at the protest site. Medical teams will submit daily health status reports to the ministry. This action follows Delhi Police's request due to health concerns.",
+    "img": "https://static.toiimg.com/photo/msid-132445687,imgsize-498442.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/centre-puts-delhi-hospitals-on-alert-as-wangchuk-fast-enters-third-week/articleshow/132445555.cms",
+    "time": "2026-07-16T17:50:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Meeting on Cabinet expansion deferred as Mallikarjun Kharge is tied up with family emergency",
+    "desc": "The much-awaited discussion on the Cabinet expansion by Congress leaders in Delhi remained inconclusive owing to Congress president Mallikarjun Kharge being unavailable for meetings. The list for Cabinet expansion could be finalised only by next week",
+    "img": "https://th-i.thgim.com/public/incoming/dp8dxp/article71231333.ece/alternates/LANDSCAPE_1200/CM%20Delhi_1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/meeting-on-cabinet-expansion-deferred-as-mallikarjun-kharge-is-tied-up-with-family-emergency/article71230948.ece",
+    "time": "2026-07-16T17:32:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Mahaprabhu Jagannath’, the first animated feature film from Odisha, is ready for release",
+    "desc": "Durga Prasad Dalai, founder and CEO of Ele Animations Pvt Ltd, talks about the journey involved in making Mahaprabhu Jagannath, which has Kerala-based Toonz Media Group as the distribution partner. The film releases on July 17",
+    "img": "https://th-i.thgim.com/public/incoming/a1m5vw/article71231241.ece/alternates/LANDSCAPE_1200/16tvm%20jagannath1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/mahaprabhu-jagannath-first-animated-feature-film-odisha-first-film-lord-jagannath/article71228568.ece",
+    "time": "2026-07-16T17:08:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rajnath Singh",
+    "desc": "At a conclave, Defence Minister says the BRO has evolved from a road construction agency into a leading strategic infrastructure organisation, as he cited landmark projects like the Atal Tunnel, Umling La Pass road and the Sela Tunnel",
+    "img": "https://th-i.thgim.com/public/incoming/qjmdkj/article71230869.ece/alternates/LANDSCAPE_1200/20260716163L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/roads-to-frontline-as-crucial-as-weapons-in-modern-warfare-rajnath-singh/article71230520.ece",
+    "time": "2026-07-16T17:05:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'No sensitive data leaked': Government refutes reports of Kudankulam nuclear plant breach",
+    "desc": "Union Minister Jitendra Singh dismissed reports of sensitive Kudankulam Nuclear Power Plant files being leaked. He asserted that no nuclear safety or security data had been compromised in the incident. The Nuclear Power Corporation of India Limited clarified leaked documents related only to the plant's conventional Balance of Plant package. This clarification followed claims by a ransomware group about accessing thousands of project-related files.",
+    "img": "https://static.toiimg.com/photo/msid-132444119,imgsize-111932.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-sensitive-data-leaked-government-refutes-reports-of-kudankulam-nuclear-plant-breach/articleshow/132443920.cms",
+    "time": "2026-07-16T16:59:12.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. strikes hit around Iran's Qeshm island, says state media",
+    "desc": "Fars news agency reported an \"American missile strike in the vicinity of Qeshm\", citing local authorities, while Tasnim news agency said one of its correspondents reported locations around Qeshm \"were struck by projectiles from the American enemy\"",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-washington-tehran-air-strikes-strait-of-hormuz-live-updates-july-16-2026/article71228351.ece",
+    "time": "2026-07-16T16:44:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SC judgments say state has a duty to preserve life of person on indefinite fast without disrupting right to dissent",
     "desc": "The Union government has responded to activist Sonam Wanghuk’s ongoing fasting at Jantar Mantar with silence for the past 19 days even as an alarmed Delhi High Court asserted on July 16 that the ‘life of any citizen is precious’",
     "img": "https://th-i.thgim.com/public/incoming/p0g46u/article71231058.ece/alternates/LANDSCAPE_1200/Cockroach%20Janta%20Party%20CJP%20Protest%20Delhi%2039.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/supreme-court-judgments-on-indefinite-fast-state-duty-to-preserve-life-sonam-wangchuk/article71230585.ece",
-    "time": "2026-07-16T16:04:18.000Z"
+    "time": "2026-07-16T16:38:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TTD gets record ₹97 crore in one day as donors rush to contribute before policy overhaul",
+    "desc": "As many as 2,460 devotees make donations during the day, of whim 2,354 contribute online, while 106 opt for the offline mode, following the announcement that the concessions available under the existing donation schemes will cease after Tuesday midnight",
+    "img": "https://th-i.thgim.com/public/incoming/xoy66n/article71231114.ece/alternates/LANDSCAPE_1200/IMG_6689_6_10_2021_19_27_2_1_T2AFPR1F.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ttd-gets-record-97-crore-in-one-day-as-donors-rush-to-contribute-before-policy-overhaul/article71230446.ece",
+    "time": "2026-07-16T16:17:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Satheesan’s ‘refusal’ to meet KSU president fuels slugfest in Congress",
+    "desc": "KPCC spokesperson V.R. Anoop launches broadside against Chief Minister. He says in a social media post that the courtesy shown to Hindu Aikya Vedi’s K.P. Sasikala and R.V. Babu could have been extended to KPCC general secretary P.M. Niyas and KSU president Aloshious Xavier",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/satheesans-refusal-to-meet-ksu-president-fuels-slugfest-in-congress/article71230995.ece",
+    "time": "2026-07-16T16:17:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vivek reacts to Wangchuk's hunger strike: 'Abhineta hu, neta nahi'",
+    "desc": "Vivek Oberoi has reacted to Sonam Wangchuk's ongoing hunger strike at Delhi's Jantar Mantar, saying he prefers to stay away from political debates but believes that people should have the freedom to express their views in a healthy democracy. While he did not comment on the specific demands or the issues surrounding the protest, the actor said he sees himself as someone who observes and learns from what is happening around him.",
+    "img": "https://static.toiimg.com/photo/msid-132443324,imgsize-70996.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vivek-oberoi-reacts-to-sonam-wangchuks-hunger-strike-yaar-main-abhineta-hu-neta-nahi-hu-toh-main-political-cheezon-pe-dhyaan-nahi-deta-hun/articleshow/132443254.cms",
+    "time": "2026-07-16T16:04:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'500 farmers join CJP protest': Sonam Wangchuk gets support from Rakesh Tikait, Kejriwal at 'packed' Jantar Mantar",
+    "desc": "Sonam Wangchuk's hunger strike entered its nineteenth day with significant health concerns. Farmer leader Rakesh Tikait joined the protest, strengthening the ongoing agitation. Opposition leaders and parties offered their support, urging the minister's removal. Congress leaders appealed to Wangchuk to end his fast while assuring continued demands. Doctors warned of serious health complications if the hunger strike continues.",
+    "img": "https://static.toiimg.com/photo/msid-132443313,imgsize-1486072.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/500-farmers-join-cjp-protest-sonam-wangchuk-gets-support-from-rakesh-tikait-kejriwal-at-packed-jantar-mantar/articleshow/132442721.cms",
+    "time": "2026-07-16T16:02:50.000Z"
   },
   {
     "cat": "Politics",
@@ -36,15 +171,6 @@ const newsData_en = [
     "time": "2026-07-16T15:36:11.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Daily ridership of women passengers on KSRTC Ordinary buses increase from 6.48 lakh to 12.12 lakh, says Kerala Minister",
-    "desc": "Despite the roll-out of the scheme on Ordinary buses, number of male passengers using these services has remained almost constant. This indicates that increase in women passengers has not come at the expense of other passengers, says C.P. John",
-    "img": "https://th-i.thgim.com/public/incoming/hgrq1/article71230763.ece/alternates/LANDSCAPE_1200/80688_14_6_2026_20_14_22_1_TRANSPORTWORKERS_KKN1.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/daily-ridership-of-women-passengers-on-ksrtc-ordinary-buses-increase-from-648-lakh-to-1212-lakh-says-kerala-minister/article71230437.ece",
-    "time": "2026-07-16T15:21:18.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Urvashi Rautela meets Tom Hiddleston at Wimbledon 2026 final",
     "desc": "Urvashi Rautela has once again grabbed the internet's attention after sharing a video with Tom Hiddleston at the Wimbledon 2026 final. Known for her viral encounters with global celebrities, Urvashi's latest meeting with the Marvel star quickly became a talking point on social media, with fans flooding the comments section with memes and witty reactions. It didn't take long for the comments section to explode with humorous reactions.",
@@ -52,42 +178,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/urvashi-rautela-meets-tom-hiddleston-at-wimbledon-2026-final-internet-cant-keep-calm-memes-take-over-loki-forgot-to-remove-her-from-timeline/articleshow/132442578.cms",
     "time": "2026-07-16T15:18:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CM Vijay warns T.N. Cabinet colleagues against corruption and irregularities in depts.",
-    "desc": "Sources said the Chief Minister, chairing a Cabinet meeting, made it clear that he would not hesitate to take action against anyone found guilty and that no one could later fault him for doing so",
-    "img": "https://th-i.thgim.com/public/incoming/4sh5ts/article71230748.ece/alternates/LANDSCAPE_1200/20260716247L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-warns-cabinet-colleagues-against-corruption-irregularities/article71230729.ece",
-    "time": "2026-07-16T15:16:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Food adulteration, cyber fraud and drugs under focus in Hyderabad: Sajjanar",
-    "desc": "As Hyderabad continues to expand beyond its old boundaries, policing the city increasingly involves coordinating with multiple government agencies, responding to changing crime patterns and adapting to new technologies. In an interview with The Hindu, Hyderabad City Police Commissioner V.C. Sajjanar discusses the challenges of managing a rapidly growing metropolis.",
-    "img": "https://th-i.thgim.com/public/incoming/krdgfd/article70112713.ece/alternates/LANDSCAPE_1200/30092025_V%20C%20Sajjanar%20%2004.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/food-adulteration-cyber-fraud-and-drugs-under-focus-in-hyderabad-sajjanar/article71113955.ece",
-    "time": "2026-07-16T15:16:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Bengaluru’s tunnel road project subject to outcome of petitions, says Karnataka High Court",
-    "desc": "The High Court of Karnataka directed that any contract entered into by the State government or its agencies, with third parties for the proposed tunnel road project, will be subject to the outcome of the hearing on three PIL petitions challenging the legality of the approvals for the project",
-    "img": "https://th-i.thgim.com/public/incoming/fzr9vq/article71230737.ece/alternates/LANDSCAPE_1200/-REVISED-for-ONGF7G8MBH0.1.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/bengalurus-tunnel-road-project-subject-to-outcome-of-petitions-says-karnataka-high-court/article71230074.ece",
-    "time": "2026-07-16T15:13:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "IUML faces Waqf dilemma as UDF govt. opts to follow amended law",
-    "desc": "The party opposes the amended Waqf Act that requires appointment of two non-Muslim members and one Shia member on State Waqf Boards. However, the UDF, of which the IUML is a major constituent, tells High Court that it will reconstitute the board in accordance with the Act",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/iuml-faces-waqf-dilemma-as-udf-govt-opts-to-follow-amended-law/article71230528.ece",
-    "time": "2026-07-16T15:08:52.000Z"
   },
   {
     "cat": "Politics",
@@ -145,11 +235,11 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Kohli equals Viv Richards with another ODI century against England",
+    "title": "Kohli equals Viv Richards with another ODI half-century against England",
     "desc": "Virat Kohli scored another ODI fifty against England in the second ODI at Cardiff, equalling Viv Richards with his 14th 50-plus score against the opposition. Only Kumar Sangakkara (15) has more. Kohli anchored India's innings as they reached 168/3 after 30 overs. India, leading the series 1-0, replaced the ill KL Rahul with Ishan Kishan.",
     "img": "https://static.toiimg.com/photo/msid-132441781,imgsize-143606.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/ind-vs-eng-2nd-odi-virat-kohli-equals-viv-richards-with-another-odi-century-against-england/articleshow/132441593.cms",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/ind-vs-eng-2nd-odi-virat-kohli-equals-viv-richards-with-another-odi-half-century-against-england/articleshow/132441593.cms",
     "time": "2026-07-16T14:28:46.000Z"
   },
   {
@@ -261,15 +351,6 @@ const newsData_en = [
     "time": "2026-07-16T12:50:41.000Z"
   },
   {
-    "cat": "World",
-    "title": "Iran tells Houthis to close Red Sea gateway if U.S. hits power network, says report",
-    "desc": "A source close to the Houthis said the group had completed preparations to attack ‌shipping by deploying missiles and drones near Bab el-Mandeb strait, the gateway to the Red Sea, in Yemen’s highlands overlooking Hodeidah ‌and ⁠the Gulf of Aden and was awaiting the order to begin",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-washington-tehran-air-strikes-strait-of-hormuz-live-updates-july-16-2026/article71228351.ece",
-    "time": "2026-07-16T12:49:47.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Sonakshi Sinha, Fatima Sana Shaikh and Imran Khan backs Sonam Wangchuk",
     "desc": "As Sonam Wangchuk's hunger strike reaches its nineteenth day, prominent film industry figures rally behind him. Sonakshi Sinha and Fatima Sana Shaikh are leading a call for authorities to engage in constructive dialogue. Imran Khan has also raised his voice, demanding accountability in light of the NEET-UG controversy. Many more voices from the film world have echoed similar sentiments, advocating for discussions.",
@@ -324,15 +405,6 @@ const newsData_en = [
     "time": "2026-07-16T12:14:32.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Those under pressure, go wherever you want': Mamata as TMC exodus continues with Koel Mallick's exit",
-    "desc": "Mamata Banerjee addressed the Trinamool Congress exodus after the recent assembly poll defeat. She suggested leaders facing pressure are free to leave the party. Rajya Sabha MP Koel Mallick resigned, adding to the growing list of exits. This resignation followed Madan Mitra quitting to join a rebel TMC faction. Banerjee also defended her nephew Abhishek Banerjee amid internal party issues.",
-    "img": "https://static.toiimg.com/photo/msid-132439074,imgsize-978099.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/those-under-pressure-go-wherever-you-want-mamata-as-tmc-exodus-continues-with-koel-mallicks-exit/articleshow/132438976.cms",
-    "time": "2026-07-16T12:12:53.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Woman accused of harassing BTS Jin fails to show up at first and second trial",
     "desc": "In a troubling case involving BTS member Jin, a Japanese woman, accused of harassment, has missed both her original and a subsequent trial hearing, leading to unexpected delays. The court has chosen to indefinitely postpone the case due to her pattern of absence. These allegations hark back to a fan event from over two years prior, with charges of forcible indecency stemming from her actions at that time.",
@@ -378,24 +450,6 @@ const newsData_en = [
     "time": "2026-07-16T11:27:32.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'We'll go to Delhi and raise our voice': Omar Abdullah vows to press for J&amp;K statehood demand",
-    "desc": "Jammu and Kashmir chief minister Omar Abdullah confirmed a planned protest in Delhi. The National Conference will demonstrate on July 20 for statehood restoration. He stated the protest program will proceed as scheduled. The venue or format of the demonstration may change, he noted. Abdullah declined to label the permission delay as sabotage.",
-    "img": "https://static.toiimg.com/photo/msid-132437879,imgsize-1290542.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/well-go-to-delhi-and-raise-our-voice-omar-abdullah-vows-to-press-for-jk-statehood-demand/articleshow/132437676.cms",
-    "time": "2026-07-16T11:27:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'We share your anguish and outrage': Congress reaches out to Sonam Wangchuk in first reaction to hunger strike",
-    "desc": "Congress has appealed to activist Sonam Wangchuk to end his hunger strike. The party shares his concerns over the education minister's accountability. Wangchuk has been fasting for nineteen days demanding the minister's resignation. Congress assures continued pressure for the education minister's removal. The party supports the activist's demand for accountability in education.",
-    "img": "https://static.toiimg.com/photo/msid-132437731,imgsize-90956.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/we-share-your-anguish-and-outrage-congress-reaches-out-to-sonam-wangchuk-in-first-reaction-to-hunger-strike/articleshow/132437456.cms",
-    "time": "2026-07-16T11:25:46.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "On defying the gods with ‘The Odyssey’ and protecting movie magic",
     "desc": "Speaking at the Indian premiere of ‘The Odyssey‘ in Mumbai, Christopher Nolan reflects on finding destiny in Homer’s immortal epic, adapting a foundational classic, the mysteries of cultural permanence, and remaining faithful to the moviegoer who first fell in love with cinema",
@@ -412,24 +466,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/there-is-no-better-person-ashwin-backs-dhoni-as-ideal-successor-to-fleming/article71229465.ece",
     "time": "2026-07-16T10:57:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'No further delay': Delhi HC gives Kejriwal, AAP leaders final chance to file replies in excise policy case",
-    "desc": "The Delhi High Court granted AAP leaders a final chance to file their replies. This pertains to the CBI's revision petition challenging a trial court order. Arvind Kejriwal, Manish Sisodia, and Durgesh Pathak are the respondents in this matter. The court emphasized no further adjournments would be granted for these filings. The case has been listed for further hearing on August 17 and 18.",
-    "img": "https://static.toiimg.com/photo/msid-132437092,imgsize-89866.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-further-delay-delhi-hc-gives-kejriwal-aap-leaders-final-chance-to-file-replies-in-excise-policy-case/articleshow/132436016.cms",
-    "time": "2026-07-16T10:51:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Manmohan govt engaged with Anna Hazare ... ': Omar Abdullah says Centre unmoved by Sonam Wangchuk",
-    "desc": "Jammu and Kashmir chief minister Omar Abdullah supports Sonam Wangchuk's hunger strike. Wangchuk is protesting alleged irregularities in the NEET examination, demanding accountability. His health has significantly deteriorated after nineteen days of fasting. Doctors warn of serious health complications if the hunger strike continues. The Delhi High Court has ordered daily medical examinations for Wangchuk.",
-    "img": "https://static.toiimg.com/photo/msid-132436977,imgsize-1146673.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/manmohan-govt-engaged-with-anna-hazare-omar-abdullah-says-centre-unmoved-by-sonam-wangchuk/articleshow/132436367.cms",
-    "time": "2026-07-16T10:50:36.000Z"
   },
   {
     "cat": "Entertainment",
@@ -459,15 +495,6 @@ const newsData_en = [
     "time": "2026-07-16T10:40:28.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Convene an all-party meeting': Kharge writes to PM Modi on revised Delimitation Bill ahead of Monsoon session",
-    "desc": "Congress president Mallikarjun Kharge urged Prime Minister Narendra Modi to call an all-party meeting. He requested adequate time for opposition parties to study the revised delimitation proposals. The Congress party plans to strongly oppose the proposed delimitation bill if reintroduced. They will also work to maintain unity among all opposition parties. The party supports women's reservation but opposes linking it to delimitation.",
-    "img": "https://static.toiimg.com/photo/msid-132436422,imgsize-113253.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/convene-an-all-party-meeting-kharge-writes-to-pm-modi-on-revised-delimitation-bill-ahead-of-monsoon-session/articleshow/132436256.cms",
-    "time": "2026-07-16T10:36:34.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Paresh Rawal talks about his love story and bond with Swaroop Sampat",
     "desc": "Paresh Rawal revealed the enchanting journey of his love with Swaroop Sampat, a bond that blossomed in their college years. After a four-month gap, fate brought them back together, and Rawal knew he wanted to spend his life with her, despite her being the daughter of his boss. Their commitment paid off, and the couple has been joyfully married for over three decades since 1987, following a twelve-year courtship.",
@@ -475,15 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/paresh-rawal-on-how-things-went-smoothly-with-swaroop-sampat-mere-jitna-naseeb-ka-balwan-aadmi-maine-nahin-dekha-hai/articleshow/132436176.cms",
     "time": "2026-07-16T10:30:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Mirzapur: The Movie' director Gurmmeet Singh says film is aiming for an A certificate",
-    "desc": "Mirzapur The Movie targets an Adults Only certification, aiming to retain its intense identity. Director Gurmmeet Singh believes audiences are receptive to mature theatrical content now. The film condenses the sprawling series while maintaining its core essence and narrative focus. Familiar faces return, but audiences can expect unexpected twists and evolving character dynamics. The highly anticipated Mirzapur The Movie is scheduled for release on September 4, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-132436080,imgsize-137624.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mirzapur-the-movie-director-gurmmeet-singh-says-film-is-aiming-for-an-adults-only-certificate-credits-animal-and-dhurandhar/articleshow/132436045.cms",
-    "time": "2026-07-16T10:18:48.000Z"
   },
   {
     "cat": "Business",
@@ -502,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/no-better-person-ashwin-backs-ms-dhoni-to-succeed-stephen-fleming-as-csk-head-coach/articleshow/132435504.cms",
     "time": "2026-07-16T09:48:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ED raids 13 locations across four states in money laundering probe linked to Bangladeshi-Rohingya infiltration",
-    "desc": "The Enforcement Directorate conducted searches across four states in a money laundering investigation. This probe targets a syndicate facilitating illegal infiltration of foreign nationals into India. Public charitable trusts registered under FCRA are suspected of receiving foreign funds. These funds were allegedly diverted through multiple accounts to aid illegal immigrants. The investigation stems from an FIR registered by the Uttar Pradesh Anti-Terrorist Squad.",
-    "img": "https://static.toiimg.com/photo/msid-132435480,imgsize-91864.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ed-raids-13-locations-across-four-states-in-money-laundering-probe-linked-to-bangladeshi-rohingya-infiltration/articleshow/132435066.cms",
-    "time": "2026-07-16T09:42:35.000Z"
   },
   {
     "cat": "Business",
@@ -799,15 +808,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/tata-motors-pips-mm-to-regain-no-2-ranking/articleshow/132427535.cms",
     "time": "2026-07-16T01:40:27.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Rising cost fuels rush for refurbished devices",
-    "desc": "India's refurbished device market is set to significantly outperform new ones this year. Soaring memory costs are pushing up prices and driving consumers toward certified pre-owned alternatives. Leading brands are strengthening their official refurbished programs as the secondary market becomes mainstream. Refurbished smartphone shipments are expected to grow about twelve percent in 2026. The refurbished laptop market will also post double-digit growth this year.",
-    "img": "https://static.toiimg.com/photo/msid-132427518,imgsize-42744.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rising-cost-fuels-rush-for-refurbished-devices/articleshow/132427518.cms",
-    "time": "2026-07-16T01:37:58.000Z"
   },
   {
     "cat": "World",

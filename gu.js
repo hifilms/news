@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "અમેરિકામાં વિદેશી વિદ્યાર્થીઓ માટે વિઝાના નિયમો બદલાશે, હવે મહત્તમ 4 વર્ષ જ રહી શકાશે; જાણો કેટલા ભારતીયોને લાગશે ઝટકો",
+    "desc": "અમેરિકામાં ટ્રમ્પ પ્રશાસને આંતરરાષ્ટ્રીય વિદ્યાર્થીઓ સાથે સંબંધિત F-1 વિઝાના નિયમોમાં મોટો બદલાવ કર્યો છે. હવે દાયકાઓ જૂની 'ડ્યુરેશન ઓફ સ્ટેટસ' એટલે કે અનિશ્ચિત મુદ્દતની પ્રવાસ પ્રણાલીને નાબૂદ કરીને એક નિશ્ચિત સમયગાળા સુધી રહેવાની મર્યાદા લાગુ કરવામાં આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/visa-rules-for-foreign-students-in-america-will-change-now-maximum-stay-will-be-4-years-know-how-many-indians-will-be-affected-484881 ",
+    "time": "2026-07-16T17:29:18.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "Airtelના કરોડો ગ્રાહકોને મોટો ઝટકો, હોટસ્પોટથી અન્ય ડિવાઈસ પર નહીં ચાલે અનલિમિટેડ 5G",
     "desc": "ઘણા લોકો એરટેલના 5G અનલિમિટેડ પ્લાન વિશે સોશિયલ મીડિયા પર પોસ્ટ કરી રહ્યા છે. કંપનીના જણાવ્યા અનુસાર, 5G અનલિમિટેડ મર્યાદિત ડેટા ઓફર કરે છે અને તે ફક્ત મોબાઇલ ડિવાઈસ માટે છે. તેનો ઉપયોગ અન્ય ડિવાઈસ પર કરી શકાતો નથી.",
@@ -655,15 +664,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/boat-carring-tourists-including-indians-capsized-near-vietnams-phu-quoc-island-484260 ",
     "time": "2026-07-11T11:18:06.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "રશિયન ઓઈલ ખરીદવું પડશે ભારે? ભારત પર તોળાઈ રહ્યું છે 500% ટેરિફનું સૌથી મોટું જોખમ!",
-    "desc": "અમેરિકા રશિયા પાસેથી ઓઈલની ખરીદી કરનારા દેશો પર જોરદાર લગામ કસવાની તૈયારી કરી રહ્યું છે જે હેઠળ એક નવું બિલ લાવવામાં આવી રહ્યું છે ત્યારે શું રશિયન ઓઈલની ખરીદીને પગલે અમેરિકા ભારત પર ટેરિફનો હથોડો વિંઝશે? જાણો આ નવા બિલ વિશે અને તેમાં ભારતની ઓઈલ ખરીદી પર શું પડી શકે અસર.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/us-senators-push-russia-sanctions-bill-what-is-worrying-for-india-you-should-know-484251 ",
-    "time": "2026-07-11T08:32:40.000Z"
   },
   {
     "cat": "Entertainment",
