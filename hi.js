@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Harry Kane believes 'England played good', defends Thomas Tuchel's strategies after defeat to Argentina",
+    "desc": "England suffered a 2-1 defeat to Argentina in the FIFA World Cup semi-final in Atlanta. They were leading till the 85th minute, but the next seven minutes stunned the Thomas Tuchel side, who conceded two...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/harry-kane-believes-england-played-good-defends-thomas-tuchel-s-strategies-after-defeat-to-argentina-2026-07-16-1048379",
+    "time": "2026-07-15T22:20:25.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "England surrender to Argentina's juggernaut, as Lionel Messi set for another FIFA World Cup final",
     "desc": "Argentina will defend their FIFA World Cup crown after producing a dramatic late comeback to defeat England 2-1 in the 2026 semi-final at Atlanta Stadium. Lionel Scaloni's side overturned a one-goal deficit in the closing...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/axar-patel-joins-rohit-sharma-jasprit-bumrah-in-elite-record-list-after-earning-potm-against-england-2026-07-15-1048350",
     "time": "2026-07-15T13:45:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kylian Mbappe stays on top in race for Golden Boot despite France’s heartbreaking World Cup loss",
-    "desc": "The FIFA World Cup semifinal in Dallas ended with Spain knocking France out of the tournament as Mikel Oyarzabal and Pedro Porro’s strikes powered La Roja to a 2-0 win on Tuesday (local time). Despite...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/kylian-mbappe-stays-on-top-in-race-for-golden-boot-despite-frances-heartbreaking-world-cup-exit-2026-07-15-1048348",
-    "time": "2026-07-15T13:15:24.000Z"
   }
 ];
