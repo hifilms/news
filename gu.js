@@ -1,12 +1,48 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "સોનું 36000 રૂપિયા સુધી સસ્તું થઈ ચૂક્યું છે, હજુ કેટલા તૂટશે ભાવ? રિપોર્ટમાં ચોંકાવનારો દાવો",
+    "desc": "મિડલ ઈસ્ટમાં યુદ્ધ છેડાયું ત્યારબાદ સોનું જે ઓલટાઈમ હાઈ પર પહોંચ્યું હતું તેના કરતાં ઘણું તૂટી ગયું. આજે પણ સોના અને ચાંદીના ભાવમાં ઘટાડો જોવા મળ્યો છે. આ ઉપરાંત સોનાના ભાવ પર આવેલો એક રિપોર્ટ 2026માં ભાવ વિશે શું કહે છે તે પણ ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/latest-gold-report-check-prediction-also-today-gold-silver-rate-aaj-no-sona-no-bhav-484812 ",
+    "time": "2026-07-16T07:50:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "રેલ મુસાફરોની બલ્લે-બલ્લે! IRCTCની નવી વેબસાઈટ પર &amp;#039;ફાસ્ટ ચેકઆઉટ&amp;#039; અને &amp;#039;રિપીટ બુકિંગ&amp;#039; સાથે મિનિટોમાં થશે ટિકિટ બુક",
+    "desc": "IRCTCએ મુસાફરોની સુવિધા માટે તેની વેબસાઈટનું સુપરફાસ્ટ સ્માર્ટ બીટા વર્ઝન લાઈવ કરી દીધું છે. નવી વેબસાઈટમાં લૉગિન કે ટિકિટ બુકિંગ વખતે હેરાન કરતા કેપ્ચા અને નકામા પોપ-અપ્સની ઝંઝટમાંથી કાયમી મુક્તિ મળશે. હવે મુસાફરો સ્લીપર કે એસી જેવા અલગ-અલગ ક્લાસની સીટોની ઉપલબ્ધતા વારંવાર સર્ચ કર્યા વગર એક જ સ્ક્રીન પર જોઈ શકશે. આ ઉપરાંત 'ફાસ્ટર ચેકઆઉટ' અને 'ઈઝીઅર રિપીટ બુકિંગ' જેવા દમદાર ફીચર્સને કારણે ટિકિટ બુકિંગનો સમગ્ર અનુભવ હવે એકદમ સરળ અને ઝંઝટમુક્ત બનશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/irctcs-new-ticket-booking-website-launched-seats-across-all-classes-will-be-visible-simultaneously-484810 ",
+    "time": "2026-07-16T07:43:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "તમને કેબિનેટ મંત્રી બનાવી દઈશ!&amp;#039; : કેરળના કોંગ્રેસ ધારાસભ્ય પર આવ્યો કરોડોની ડીલનો રહસ્યમય વૉટ્સએપ કૉલ",
+    "desc": "તમને કેબિનેટ મંત્રી બનાવી દઈશ, તમને કોઈ આવો ફોન કરો તો તમે શું કરશો, કેરળના કોંગ્રેસના ધારાસભ્ય વિદ્યા બાલકૃષ્ણને આરોપ લગાવ્યો છે કે તેમને મંત્રી પદના બદલામાં મોટી રકમની માંગણી કરતો વોટ્સએપ કોલ આવ્યો હતો. તેમણે તાત્કાલિક કોંગ્રેસ નેતૃત્વને જાણ કરી અને પોલીસ ફરિયાદ નોંધાવી, આ મામલાની નિષ્પક્ષ તપાસની માંગ કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/i-will-make-you-a-cabinet-minister-congress-mla-vidya-balakrishnan-receives-whatsapp-call-demanding-a-large-sum-of-money-484808 ",
+    "time": "2026-07-16T06:53:29.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "શ્રી નંદકિશોર ગોયનકાજીના નિધનને PM મોદીએ ગણાવી અપૂરણીય ક્ષતિ, RSS સહિત અનેક મહાનુભાવોએ વ્યક્ત કર્યો શોક",
     "desc": "રાષ્ટ્રસેવા,સમાજ સેવા અને ગૌ સેવા માટે સમર્પિત રહેલા શ્રી નંદકિશોર ગોયનકાજી બુધવારે પંચતત્વમાં વિલિન થયા. હિસારના અગ્રોહા ધામની પવિત્ર ભૂમિમાં તેમને અંતિમ વિદાય અપાઈ. એસ્સેલ ગ્રુપના ચેરમેન ડૉક્ટર સુભાષ ચંદ્રાએ અગ્રોહોના ગોયનકા ઉદ્યાનમાં ભીની આંખે તેમને મુખાગ્નિ આપી. તેમના અંતિમ સંસ્કારમાં રાજકીય અગ્રણીઓ સહિત હજારો લોકોએ હાજરી આપી અને ભીની આંખે શ્રી નંદકિશોર ગોયનકાજીને અંતિમ વિદાય આપી.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/pm-modi-rss-many-dignitaries-expressed-condolences-on-passing-of-shri-nand-kishore-goenkaji-484800 ",
-    "time": "2026-07-16T05:36:28.000Z"
+    "time": "2026-07-16T05:43:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "શ્રી નંદકિશોર ગોયનકા: સેવા, સંસ્કાર, સમર્પણ અને રાષ્ટ્રભાવનાના એક યુગપુરુષ",
+    "desc": "એસ્સેલ ગ્રુપના સંસ્થાપક ડૉ. સુભાષ ચંદ્રાના પૂજ્ય પિતાજી, પ્રખ્યાત ઉદ્યોગપતિ અને પરમ ગૌભક્ત શ્રી નંદકિશોર ગોયનકાજીનું 96 વર્ષની આયુમાં નિધન થયું. રાષ્ટ્રીય સ્વયંસેવક સંઘ અને વિશ્વ હિન્દુ પરિષદ સાથે જોડાયેલા શ્રી નંદકિશોર ગોયનકાજીનું સાદગીપૂર્ણ જીવન રાષ્ટ્રસેવા અને સામાજિક સમરસતાની અમર પ્રેરણા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/vhp-national-spokesperson-vinod-bansal-pays-tribute-to-shri-nandkishore-goenkaji-484801 ",
+    "time": "2026-07-16T05:40:06.000Z"
   },
   {
     "cat": "Entertainment",
@@ -306,24 +342,6 @@ const newsData_gu = [
     "time": "2026-07-14T10:51:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "હોટેલના રૂમમાં પ્રેમી સાથે લપટાયેલી મળી પત્ની, પતિએ બનાવ્યો વીડિયો; એક વર્ષથી પાછળ પડ્યો હતો પતિ, આખી કહાની હોશ ઉડાવી દેશે!",
-    "desc": "આગ્રાની એક હોટેલમાં પત્નીને તેના કથિત પ્રેમી સાથે જોઈને વેપારી પતિએ ભારે હોબાળો મચાવ્યો હતો. માહિતી મળતા જ ઘટનાસ્થળે પહોંચેલી પોલીસ ત્રણેયને પોલીસ સ્ટેશને લઈ ગઈ હતી, જ્યાં લાંબી પૂછપરછ અને ચર્ચા બાદ કોઈ પણ ફરિયાદ નોંધાવ્યા વગર બંને પક્ષો વચ્ચે સમાધાન થઈ ગયું હતું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/married-woman-was-in-a-hotel-room-with-her-boyfriend-in-agra-when-her-husband-suddenly-showed-up-484599 ",
-    "time": "2026-07-14T09:57:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "કેતન અગ્રવાલની માતાનો PM મોદીને ભાવુક પત્ર, કરી આ મોટી માંગ, જાણો",
-    "desc": "પુણેમાં કુખ્યાત કેતન અગ્રવાલ હત્યા કેસમાં પીડિત પરિવારે ન્યાય માટે પોતાની લડાઈ વધુ તીવ્ર બનાવી છે. રાષ્ટ્રપતિને કેતનના પિતાના પત્ર બાદ, કેતનની માતા રાખી અગ્રવાલે વડા પ્રધાન નરેન્દ્ર મોદીને એક ભાવનાત્મક પત્ર મોકલીને પોતાના પુત્ર માટે ન્યાયની વિનંતી કરી છે. તેમણે ગુનેગારોને કડકમાં કડક સજાની માંગ કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/ketan-agrawahs-mother-writes-emotional-letter-to-pm-modi-makes-this-big-demand-know-484591 ",
-    "time": "2026-07-14T09:27:47.000Z"
-  },
-  {
     "cat": "Business",
     "title": "હોર્મુઝના ટેન્શનથી પાછું સોનું ધડામ! ભાવ ઘટ્યા બાદ ક્યાં પહોંચ્યું ગોલ્ડ? જાણો આજનો રેટ",
     "desc": "સોના અને ચાંદીના ભાવમાં ભારે ઉથલપાથલ જોવા મળી રહી છે. એક બાજુ જ્યાં વાયદા બજારમાં સોનું અને ચાંદી ઉછાળા મારી રહ્યા છે ત્યાં રિટેલ બજારમાં સોનાના ભાવમાં ઘટાડો જોવા મળ્યો છે જ્યારે ચાંદીમાં સામાન્ય વધારો નોંધાયો છે. જાણો લેટેસ્ટ રેટ.",
@@ -367,15 +385,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/tax-alert-is-cash-received-from-your-mother-tax-free-essential-documents-you-need-to-keep-484583 ",
     "time": "2026-07-14T07:09:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM મોદીનો ડૉ. સુભાષ ચંદ્રાને પત્ર: શ્રી નંદકિશોર ગોયનકાજીની RSS સેવા અને &amp;#039;રાષ્ટ્ર પ્રથમ&amp;#039;ની ભાવનાને કરી યાદ, નિધનને ગણાવ્યું મોટી ખોટ",
-    "desc": "પ્રધાનમંત્રી નરેન્દ્ર મોદીએ એસ્સેલ ગ્રુપના ચેરમેન ડૉ. સુભાષ ચંદ્રાના પિતાજી શ્રી નંદકિશોર ગોયનકાજીના નિધન પર ઊંડો શોક વ્યક્ત કર્યો છે. પીએમ મોદીએ ડૉ. સુભાષ ચંદ્રાને પત્ર લખીને શોકસંતપ્ત પરિવાર પ્રત્યે સંવેદના પાઠવી છે. વડાપ્રધાને શ્રી નંદ કિશોર ગોયનકાને પ્રેરણાદાયી વ્યક્તિત્વ અને કર્મનિષ્ઠ ગણાવ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/pm-modi-writes-letter-to-dr-subhash-chandra-expresses-grief-over-demise-of-shri-nandkishore-goenkaji-484573 ",
-    "time": "2026-07-14T07:09:16.000Z"
   },
   {
     "cat": "Business",
@@ -441,15 +450,6 @@ const newsData_gu = [
     "time": "2026-07-13T10:28:22.000Z"
   },
   {
-    "cat": "Business",
-    "title": "લોનની EMI નહીં ચૂકવો, તો બેંક બંધ કરી શકે છે તમારો મોબાઇલ નંબર! જાણો શું કહે છે RBIના નિયમો",
-    "desc": "શું તમે સોશિયલ મીડિયા અથવા વોટ્સએપ પર એવા મેસેજ જોયા છે, જેમાં દાવો કરવામાં આવ્યો છે કે જો તમે લોન EMI ચૂકી જાઓ છો તો તમારી બેંક તમારો મોબાઇલ નંબર બ્લોક કરી શકે છે, ચાલો આ મેસેજ પાછળનું સત્ય જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/if-you-dont-pay-loan-emi-the-bank-can-block-your-mobile-number-know-what-rbi-rules-say-484477 ",
-    "time": "2026-07-13T09:55:22.000Z"
-  },
-  {
     "cat": "World",
     "title": "ટ્રમ્પ, મેલોની અને મેક્રોન... ઈરાને જાહેર કરી હિટ લિસ્ટ, 13 વિશ્વના નેતાઓના છે નામ",
     "desc": "જો કે મોજતબા ખામેનીએ તેમના સત્તાવાર સંદેશમાં કોઈ નેતાઓનું સીધું નામ લીધું નથી, કે સરકારે આ યાદીની પુષ્ટિ કરી નથી, હમશહરી અખબારે મોજતબાના નિવેદન પછી તરત જ મોડી રાત્રે ઓનલાઈન 13 વૈશ્વિક નેતાઓની યાદી બહાર પાડી છે.",
@@ -475,15 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/shekhar-suman-comedy-video-viral-know-what-he-said-on-aamir-khan-third-marriage-484445 ",
     "time": "2026-07-13T06:24:52.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ક્રૂડ ઓઈલના ભાવ પર એક્સપર્ટની ચેતવણી! પેટ્રોલ ડીઝલના ભાવમાં આવશે મોટો વધારો?",
-    "desc": "ક્રૂડ ઓઈલ $80 પ્રતિ બેરલની નજીક પહોંચી ગયું છે, જ્યારે એક્સપર્ટે ચેતવણી આપી રહ્યા છે કે જો પરિસ્થિતિમાં સુધારો નહીં થાય, તો ક્રૂડ ઓઈલ 110 ડોલરથી 150 ડોલર પ્રતિ બેરલ સુધી પહોંચી શકે છે, જેની સીધી અસર ભારતમાં પેટ્રોલ, ડીઝલ અને LPGના ભાવ પર પડી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/experts-warning-on-crude-oil-prices-will-there-be-a-big-increase-in-petrol-and-diesel-prices-484443 ",
-    "time": "2026-07-13T06:12:02.000Z"
   },
   {
     "cat": "Entertainment",

@@ -1,11 +1,11 @@
 const newsData_bn = [
   {
     "cat": "Politics",
-    "title": "নন্দকিশোর গোয়েঙ্কার প্রয়াণে শোকস্তব্ধ দেশ! সুভাষ চন্দ্রকে আবেগঘন চিঠি প্রধানমন্ত্রী মোদীর, শোকপ্রকাশ মোহন ভগবতের",
+    "title": "‘সেবা ও দেশপ্রেমের অনন্য প্রতিমূর্তি!’ মূল্যবোধের এক মহীরুহ ছিলেন শ্রী নন্দকিশোর গোয়েঙ্কা",
     "desc": "এস্সেল গ্রুপের চেয়ারম্যান ড. সুভাষ চন্দ্র বাবার মুখাগ্নি করেন এবং তাঁর স্মৃতিতে হিসারে বিশ্ববিদ্যালয় গড়ার ঘোষণা দেন। তাঁর প্রয়াণে প্রধানমন্ত্রী নরেন্দ্র মোদী, আরএসএস প্রধান মোহন ভগবত-সহ দেশের শীর্ষ রাজনৈতিক ও সামাজিক ব্যক্তিত্বরা গভীর শোক প্রকাশ করেছেন।",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/nand-kishore-goenka-passes-away-pm-modi-shares-heartfelt-condolences-with-subhash-chandra-rss-chief-mohan-bhagwat-pays-tribute_662555.html ",
+    "url": " https://zeenews.india.com/bengali/nation/shri-nandkishore-goenka-was-a-colossus-of-service-values-and-patriotism-tributes-pour-in_662555.html ",
     "time": "2026-07-16T03:14:56.000Z"
   },
   {
@@ -133,24 +133,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/pm-modi-condolence-letter-dr-subhash-chandra-father-nand-kishore-goenka-demise_662263.html ",
     "time": "2026-07-14T07:19:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "২০ সাংসদ নিয়ে NDA-র বৃহত্তম শরিক হচ্ছে NCPI, দিল্লিতে নজিরবিহীন রাজনৈতিক পটপরিবর্তন",
-    "desc": "তৃণমূল থেকে দলত্যাগী ২০ জন সাংসদের দল 'এনসিপিআই' এনডিএ জোটে যোগ দিয়ে বৃহত্তম শরিক হতে চলেছে। জোটের ৩ জন মুসলিম সাংসদের অন্তর্ভুক্তিকে গুরুত্ব দিচ্ছে বিজেপি। নতুন দলনেতা সুদীপ বন্দ্যোপাধ্যায় স্বরাষ্ট্রমন্ত্রী অমিত শাহের পর প্রধানমন্ত্রীর সঙ্গেও বৈঠক করতে পারেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/tmc-defectors-ncpi-to-become-ndas-largest-ally-party-leader-sudip-banerjee-to-meet-pm-modi_662255.html ",
-    "time": "2026-07-14T05:54:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ছড়াচ্ছে চাঁদিপুরা ভাইরাসের আতঙ্ক! এক মাসে ১২ শিশুর মৃত্যুর, জারি হাই অ্যালার্ট",
-    "desc": "রহস্যময় ভাইরাসের প্রকোপে গত এক মাসে অন্তত ১২ শিশুর মৃত্যু হয়েছে, যার মধ্যে তিনজনের চাঁদিপুরা ভাইরাসে আক্রান্ত হওয়ার খবর নিশ্চিত করেছে প্রশাসন। আক্রান্ত জেলাগুলোতে জোরদার চিরুনি তল্লাশি ও কীটনাশক স্প্রে শুরু হয়েছে। পরিস্থিতি নিয়ন্ত্রণে এনে আতঙ্ক ছড়াতে নিষেধ করেছে রাজ্যের স্বাস্থ্য দফতর।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/12-children-die-amid-viral-outbreak-in-gujarat-three-deaths-confirmed-due-to-chandipura-virus_662253.html ",
-    "time": "2026-07-14T05:31:01.000Z"
   },
   {
     "cat": "World",
@@ -297,15 +279,6 @@ const newsData_bn = [
     "time": "2026-07-07T15:46:40.000Z"
   },
   {
-    "cat": "World",
-    "title": "সরকার বদলাতেই বিরাট খবর: এবার সরকারি কর্মীদের বেতন বাড়ছে ১০০ শতাংশ? অবসরপ্রাপ্তদেরও বড় লাভ",
-    "desc": "কমিশনের মূল সুপারিশ পুরোপুরি কার্যকর করতে বছরে বাড়তি প্রায় ১ লক্ষ ৬ হাজার কোটি টাকার প্রয়োজন ছিল, যা অর্থ মন্ত্রণালয়ের জন্য বেশ চিন্তার কারণ হয়ে দাঁড়ায়। এই আর্থিক চাপ সামলাতে পর্যালোচনা কমিটি মূল সুপারিশের কিছু অংশ ছেঁটে বার্ষিক খরচ প্রায় ৯০ হাজার কোটি টাকায় নামিয়ে আনার প্রস্তাব দিয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/regime-change-triggers-pay-hike-bangladesh-officials-ready-for-up-to-142-percent-salary-increase-west-bengal-forms-7th-pay-commission_661437.html ",
-    "time": "2026-07-07T14:55:13.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "তৃতীয় বিয়ে নিয়ে ট্রোলড আমির, ব্যক্তিগত জীবনের কারণে ফিকে পর্দার সাফল্য? সোশ্যাল মিডিয়ার জমানায় ঠিক কোন নিরিখে বিচার করা হয় একজন তারকাকে?",
     "desc": "তারকাদের ব্যক্তিগত জীবন নিয়ে চর্চা থাকবেই, কিন্তু দিনশেষে দর্শক তাঁদের বিচার করে কী দিয়ে— কাজ নাকি ব্যক্তিগত সম্পর্ক? আমির খান ও গৌরী স্প্র্যাটের বিয়ের গুঞ্জনের মাঝেই সামনে এল এক নতুন সমীক্ষা। সোশ্যাল মিডিয়ার যুগে কীভাবে বদলে যাচ্ছে ফ্যান ও সেলিব্রিটিদের সম্পর্কের সমীকরণ?",
@@ -322,5 +295,23 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/amit-shah-suvendu-adhikari-courtesy-visit-prosenjit-chatterjee-kolkata_661234.html ",
     "time": "2026-07-06T12:55:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
+    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
+    "time": "2026-06-01T03:50:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
+    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
+    "time": "2026-05-23T05:15:29.000Z"
   }
 ];
