@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "Airtelના કરોડો ગ્રાહકોને મોટો ઝટકો, હોટસ્પોટથી અન્ય ડિવાઈસ પર નહીં ચાલે અનલિમિટેડ 5G",
+    "desc": "ઘણા લોકો એરટેલના 5G અનલિમિટેડ પ્લાન વિશે સોશિયલ મીડિયા પર પોસ્ટ કરી રહ્યા છે. કંપનીના જણાવ્યા અનુસાર, 5G અનલિમિટેડ મર્યાદિત ડેટા ઓફર કરે છે અને તે ફક્ત મોબાઇલ ડિવાઈસ માટે છે. તેનો ઉપયોગ અન્ય ડિવાઈસ પર કરી શકાતો નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/airtel-not-allow-unlimited-5g-data-sharing-via-mobile-hotspot-484856 ",
+    "time": "2026-07-16T15:13:30.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "EV, Hybrid, CNG કે Petrol… આગામી 5-10 વર્ષ માટે કઈ કાર ખરીદવી જોઈએ? જાણો કયો વિકલ્પ લાંબા ગાળે બચાવશે રૂપિયા",
+    "desc": "નવી કાર લેતા પહેલાં એ સમજવું જરૂરી છે કે, EV, Hybrid, CNG કે Petrolમાંથી કઈ કારની પસંદગી કરવી? કારણ કે ખોટી પસંદગી સીધી તમારા ખિસ્સા પર અસર કરે છે. ચાલો જાણીએ આ કારો વચ્ચે શું તફાવત છે અને લોકો માટે કયો વિકલ્પ સૌથી યોગ્ય રહેશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/ev-hybrid-cng-or-petrol-which-car-should-you-buy-for-the-next-5-10-years-know-which-option-will-save-you-money-in-the-long-run-484855 ",
+    "time": "2026-07-16T14:49:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "પ્રેમ, કાવતરું અને ચાલતી ટ્રેનમાં શૂટઆઉટ: બિહારના ચર્ચિત &amp;#039;MVI સ્મિતા મર્ડર કેસ&amp;#039; તમને ચકરાવે ચડાવશે",
+    "desc": "બિહારમાં એક એવો હત્યાકાંડ સામે આવ્યો છે જેણે સંબંધોની મર્યાદા અને કાયદાના રક્ષકોની નૈતિકતા પર ગંભીર સવાલો ઉભા કર્યા છે. આ મામલો કોઈ સામાન્ય ગુનાનો નથી, પરંતુ ઉચ્ચ હોદ્દા પર બેઠેલી એક સરકારી મહિલા અધિકારી (MVI)તેના પ્રેમી અને ભાડૂતી શૂટર દ્વારા રચાયેલા એક અત્યંત ક્રૂર ષડયંત્રનો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/bihar-husband-murder-supaul-mvi-husband-murder-latest-update-same-siya-goyal-case-484854 ",
+    "time": "2026-07-16T14:46:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ICCની ભારતીય ક્રિકેટર સામે મોટી કાર્યવાહી, મેદાન પર ખતરનાક ભૂલ બદલ ફટકારી સજા",
+    "desc": "ભારત અને ઇંગ્લેન્ડ વચ્ચેની બીજી વનડે પહેલા ICCએ ભારતીય ફાસ્ટ બોલર ગુર્નૂર બ્રાર સામે કડક કાર્યવાહી કરી છે. ઇંગ્લેન્ડ સામેની પહેલી વનડે દરમિયાન ICC આચારસંહિતાનું ઉલ્લંઘન કરવાના દોષી સાબિત થયા બાદ બ્રારને કડક સજા અને ચેતવણી આપવામાં આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/gurnoor-brar-fined-by-icc-for-breaching-code-of-conduct-during-first-odi-against-england-484853 ",
+    "time": "2026-07-16T13:53:42.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ઇંગ્લેન્ડ સામેની બીજી વનડેમાં કેમ નથી રમી રહ્યો કેએલ રાહુલ ? કેપ્ટન ગિલે જણાવ્યું કારણ",
     "desc": "કાર્ડિફમાં ભારત અને ઇંગ્લેન્ડ વચ્ચેની બીજી વનડેમાં કેએલ રાહુલને પ્લેઇંગ ઇલેવનમાં સ્થાન મળ્યું નથી. તેના સ્થાને ઈશાન કિશનને તક આપવામાં આવી છે, ત્યારે કેએલ રાહુલ કેમ નથી રમી રહ્યો, તેનું કારણ પણ કેપ્ટન શુભમન ગિલે જણાવ્યું છે.",
@@ -378,15 +414,6 @@ const newsData_gu = [
     "time": "2026-07-14T11:32:52.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "&amp;#039;શોએબ અખ્તર અને આસિફ જ્યારે પણ ભારત આવતા ત્યારે ડ્રગ્સ લાવતા&amp;#039;",
-    "desc": "ગૃહ મંત્રાલયના પૂર્વ અંડર સેક્રેટરી આરવીએસ મણિએ મોટો દાવો કર્યો છે કે 2006-07માં જ્યારે પણ પાકિસ્તાની ક્રિકેટરો અને ડેલિગેશન ભારતના પ્રવાસે આવતા ત્યારે ડ્રગ્સ લાવતા હતા. તેમણે આ મામલે પૂર્વ પાકિસ્તાની ફાસ્ટ બોલર શોએબ અખ્તર અને મોહમ્મદ આસિફનું નામ લઈને બધાને ચોંકાવી દીધા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/shoaib-akhtar-and-mohammad-asif-drugs-trafficking-in-india-rvs-mani-claims-484606 ",
-    "time": "2026-07-14T10:51:44.000Z"
-  },
-  {
     "cat": "Business",
     "title": "હોર્મુઝના ટેન્શનથી પાછું સોનું ધડામ! ભાવ ઘટ્યા બાદ ક્યાં પહોંચ્યું ગોલ્ડ? જાણો આજનો રેટ",
     "desc": "સોના અને ચાંદીના ભાવમાં ભારે ઉથલપાથલ જોવા મળી રહી છે. એક બાજુ જ્યાં વાયદા બજારમાં સોનું અને ચાંદી ઉછાળા મારી રહ્યા છે ત્યાં રિટેલ બજારમાં સોનાના ભાવમાં ઘટાડો જોવા મળ્યો છે જ્યારે ચાંદીમાં સામાન્ય વધારો નોંધાયો છે. જાણો લેટેસ્ટ રેટ.",
@@ -682,14 +709,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/the-undisputed-king-tata-punch-rules-indian-market-beats-competitors-at-just-5-70-lakh-484069 ",
     "time": "2026-07-09T11:02:34.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Jio ગ્રાહકોની મોજ: માત્ર ₹55માં જુઓ 16 ભાષાઓની 150થી વધુ પ્રીમિયમ ચેનલ્સ, જાણો કઈ રીતે થશે એક્ટિવ",
-    "desc": "જિયોના ગ્રાહકોની તો ભાઈ મોજ પડી ગઈ! હવે ટીવીના રિચાર્જ પાછળ સેંકડો રૂપિયા બગાડવાની જરૂર નથી, કારણ કે જિયો લાવ્યું છે માત્ર ₹55નું 'ઓલ-ઈન-વન' ધમાકા પેક. જિયોસ્ટાર, સોની અને ઈટીવી નેટવર્કની પ્રીમિયમ HD ચેનલો હવે માત્ર ચાના બે કપ જેટલી કિંમતમાં આખો મહિનો તમારા મોબાઈલ સ્ક્રીન પર દોડશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/jio-customers-joy-watch-more-than-150-premium-channels-in-16-languages-%E2%80%8B%E2%80%8Bfor-just-%E2%82%B955-know-how-to-activate-484055 ",
-    "time": "2026-07-09T08:57:17.000Z"
   }
 ];

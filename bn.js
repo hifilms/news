@@ -1,6 +1,24 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "বিশিষ্ট সমাজসেবী নন্দকিশোর গোয়েঙ্কার প্রয়াণ: অশ্রুসজল চোখে শেষ বিদায়, শোকপ্রকাশ স্বরাষ্ট্রমন্ত্রীর",
+    "desc": "বিশিষ্ট সমাজসেবী তথা এসেল গ্রুপের চেয়ারম্যান ডক্টর সুভাষ চন্দ্রার পিতা শ্রদ্ধেয় নন্দকিশোর গোয়েঙ্কা মহাশয়ের প্রয়াণে আমরা গভীরভাবে শোকাহত। গত ১৩ জুলাই মুম্বইয়ে শেষনিঃশ্বাস ত্যাগ করেন তিনি। ১৫ জুলাই অশ্রুসজল চোখে সম্পন্ন হলো তাঁর অন্তিম সংস্কার। তাঁর প্রয়াণে গভীর শোকপ্রকাশ করেছেন দেশের প্রধানমন্ত্রী নরেন্দ্র মোদী, স্বরাষ্ট্রমন্ত্রী অমিত শাহ এবং কেন্দ্রীয় মন্ত্রী অর্জুন রাম মেঘওয়াল। প্রয়াত পুণ্যাত্মার চিরশান্তি কামনা করি এবং শোকসন্তপ্ত পরিবারের প্রতি জানাই গভীর সমবেদনা।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/nand-kishore-goenka-demise-essel-group-subhash-chandra-father-passes-away-pm-modi-amit-shah_662712.html ",
+    "time": "2026-07-16T14:55:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "দাম্পত্য কলহ মেটাতে আদালতে আসুন, স্বামীর অফিসে গিয়ে অশান্তি কোনওভাবেই বরদাস্ত নয়: সুপ্রিম কোর্টের বড় রায়",
+    "desc": "সুপ্রিম কোর্টের বিচারপতিদের ডিভিশন বেঞ্চ এই মামলার রায় ও পর্যবেক্ষণ জানানোর সময় বলেন, 'দাম্পত্য কলহের জেরে স্বামীদের চাকরি বা নিয়োগকারী সংস্থার কাছে স্ত্রীয়ের চিঠি লিখে অভিযোগ জানানো বা তাঁদের কর্মজীবনকে কালিমালিপ্ত করার যে প্রবণতা তৈরি হয়েছে, আদালত তার তীব্র নিন্দা করছে।'",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/supreme-court-deplores-practice-of-wives-complaining-to-husbands-employers-over-matrimonial-disputes_662711.html ",
+    "time": "2026-07-16T14:52:35.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "পুরীতে ভয়ংকর ভিড়ে মহা বিপত্তি! পদপিষ্টের মর্মান্তিক ঘটনা! কত মৃত্য়ু? ১২০ জন হাসপাতালে...শ্রীক্ষেত্রে আতঙ্ক",
     "desc": "জগন্নাথদেবের রথযাত্রা উৎসবের পুণ্যলগ্নে পুরীতে ঘটে গেল এক মর্মান্তিক দুর্ঘটনা। রথ টানার সময় শ্রীক্ষেত্র পুরীর 'বড়দণ্ডে'তথা গ্র্যান্ড রোডে লক্ষ লক্ষ মানুষের উপচে-পড়া ভিড়ের মধ্যে হঠাৎই হুড়োহুড়ি পড়ে যায় এবং তৈরি হয় ঘোর বিশৃঙ্খল পরিবেশ। পদপিষ্ট হওয়ার মতো পরিস্থিতি তৈরি হয়। চরম বিশৃঙ্খলার জেরে দমবন্ধ হয়ে এক পুণ্যার্থীর মৃত্যুও ঘটে। ২০০ জন হাসপাতালে চিকিৎসাধীন। অন্তত ৩০ থেকে ৪০ জন ভক্ত গুরুতর অসুস্থ ও আহত হয়েছেন বলে খবর। তবে, শেষ পর্যন্ত পাওয়া খবরে নিশ্চিত করা হয়েছে যে, একজনও মারা যাননি।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -88,15 +106,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/bageshwar-dham-chief-dhirendra-shastri-brother-charged-for-shooting-at-farmer-over-land-dispute_662389.html ",
     "time": "2026-07-15T08:38:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "চোখের জলে শেষ বিদায়, নিজের হাতে গড়া 'অগ্রোহা ধামে' পঞ্চভূতে বিলীন সমাজসেবী শ্রী নন্দ কিশোর গোয়েঙ্কা",
-    "desc": "যে 'অগ্রোহা ধাম'-কে তিনি নিজের হাতের স্পর্শে এবং দূরদর্শী ভাবনায় সাজিয়ে তুলেছিলেন, সেই পবিত্র ভূমিতেই পঞ্চভূতে বিলীন হলেন বিশিষ্ট সমাজসেবী ও এসেল গ্রুপের চেয়ারম্যান ড. সুভাষ চন্দ্রার পিতা শ্রদ্ধেয় শ্রী নন্দ কিশোর গোয়েনঙ্কা জী। ৯৬ বছর বয়সে তাঁর প্রয়াণে বৈশ্য সমাজ তথা দেশের সামাজিক ক্ষেত্রে এক অপূরণীয় ক্ষতি হল।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/nand-kishore-goenka-passes-away-last-rites-at-agroha-dham-hisar_662388.html ",
-    "time": "2026-07-15T08:15:13.000Z"
   },
   {
     "cat": "Entertainment",
@@ -225,15 +234,6 @@ const newsData_bn = [
     "time": "2026-07-09T12:13:11.000Z"
   },
   {
-    "cat": "World",
-    "title": "স্মুদিতে বিষ মিশিয়ে মরেননি! শেষে গলা টিপে স্ত্রীকে খুন, মৃতদেহের ছবি পাঠাল প্রেমিকাকে",
-    "desc": "ময়নাতদন্তের রিপোর্টে বেরিয়ে আসে হাড়হিম সত্যি। জানা যায়, এটি একটি হত্যাকাণ্ড। শ্বাসরোধের কারণেই রাজিতার মৃত্যু হয়েছে। পুলিসি তদন্তেও অবিনাশের দাবিগুলো সব মিথ্যা প্রমাণিত হয়। পুলিস অ্যাপার্টমেন্টের স্মার্ট-লক ও সিকিউরিটি সিস্টেম পরীক্ষা করে। দেখা যায়, ওই ৪০ মিনিটের মধ্যে অন্য কেউ ঘরে ঢোকেনি।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/indian-software-engineer-arrested-in-us-for-strangling-wife-after-poisoning-attempts_661624.html ",
-    "time": "2026-07-09T07:22:17.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "গুরুতর অসুস্থ অভিনেতা রাজেশ শর্মা: ভর্তি হাসপাতালে, কী হয়েছে? উদ্বিগ্ন চলচ্চিত্রমহল",
     "desc": "পারিবারিক সূত্রে জানা গেছে, ওই সংক্রমণের প্রভাবেই রাজেশের সুগার লেভেল এক ধাক্কায় অনেকটা বেড়ে যায় (shoot up) সঙ্গে তাঁর তীব্র শ্বাসকষ্টের সমস্যাও (breathing trouble) শুরু হয়। সংক্রমণ দ্রুত ছড়িয়ে পড়ে তাঁর পায়ের হাঁটু পর্যন্ত পৌঁছে গিয়েছে।",
@@ -259,23 +259,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/amit-shah-suvendu-adhikari-courtesy-visit-prosenjit-chatterjee-kolkata_661234.html ",
     "time": "2026-07-06T12:55:17.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
-    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
-    "time": "2026-06-01T03:50:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
-    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
-    "time": "2026-05-23T05:15:29.000Z"
   }
 ];

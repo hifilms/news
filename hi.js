@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Virat Kohli breaks Sachin Tendulkar's legendary record with half-century against England in Cardiff",
+    "desc": "Star India batter Virat Kohli once again produced a dominant show with the bat in the second ODI against England at Sophia Gardens in Cardiff. Despite losing Rohit Sharma and Ishan Kishan in quick succession,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-breaks-sachin-tendulkar-s-legendary-record-with-half-century-against-england-in-cardiff-2026-07-16-1048478",
+    "time": "2026-07-16T15:48:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ben Stokes takes fresh dig at Ian Botham, continues war of words on social media",
+    "desc": "Legendary England cricketer Ian Botham has revived his public disagreement with former England captain Ben Stokes. The former England all-rounder took a fresh swipe at Stokes during the first ODI between England and India at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ben-stokes-takes-fresh-dig-at-ian-botham-continues-war-of-words-on-social-media-2026-07-16-1048471",
+    "time": "2026-07-16T14:29:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli breaks major record, surpasses Rahul Dravid in elite list with resilient knock against England",
+    "desc": "The Indian team took on England in the second ODI of the ongoing three-game series. The two sides met at Sophia Gardens in Cardiff for the clash on July 16th, and the game began with...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-breaks-major-record-surpasses-rahul-dravid-in-elite-list-with-resilient-knock-against-england-2026-07-16-1048470",
+    "time": "2026-07-16T14:16:48.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why is KL Rahul not playing in India vs England second ODI in Cardiff?",
     "desc": "India keeper-batter KL Rahul has been dropped from the second ODI against England at Sophia Gardens in Cardiff. Captain Shubman Gill explained that the middle order batter is currently dealing with an illness, as Ishan...",
     "img": "",
@@ -10,7 +37,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "India three down, Virat Kohli remains crucial",
+    "title": "India post 233 runs in the first innings",
     "desc": "India and England are taking on each other in the second ODI of the ongoing three-game series. The two sides meet at Sophia Gardens in Cardiff, and both teams will look to put in their...",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-pitch-report-how-will-the-pitch-in-cardiff-fare-for-the-second-odi-of-the-series-2026-07-16-1048415",
     "time": "2026-07-16T07:09:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harry Kane believes 'England played good', defends Thomas Tuchel's strategies after defeat to Argentina",
-    "desc": "England suffered a 2-1 defeat to Argentina in the FIFA World Cup semi-final in Atlanta. They were leading till the 85th minute, but the next seven minutes stunned the Thomas Tuchel side, who conceded two...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/harry-kane-believes-england-played-good-defends-thomas-tuchel-s-strategies-after-defeat-to-argentina-2026-07-16-1048379",
-    "time": "2026-07-15T22:20:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England surrender to Argentina's juggernaut, as Lionel Messi set for another FIFA World Cup final",
-    "desc": "Argentina will defend their FIFA World Cup crown after producing a dramatic late comeback to defeat England 2-1 in the 2026 semi-final at Atlanta Stadium. Lionel Scaloni's side overturned a one-goal deficit in the closing...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/england-surrender-to-argentina-s-juggernaut-as-lionel-messi-set-for-another-fifa-world-cup-final-2026-07-16-1048378",
-    "time": "2026-07-15T21:25:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Argentina beat England 2-1, Lionel Messi to play another final",
-    "desc": "England take on Argentina in a high-stakes FIFA World Cup 2026 semi-final at the Atlanta Stadium in Georgia. The high-voltage affair will bring together two nations with a deep World Cup history as they compete...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/eng-vs-arg-fifa-world-cup-live-england-vs-argentina-score-commentary-tactical-analysis-highlight-reaction-lionel-messi-harry-kane-jude-bellingham-1048375",
-    "time": "2026-07-15T18:24:38.000Z"
   }
 ];
