@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "England release two cricketers ahead of series finale against India at Lord's, here's why",
+    "desc": "English all-rounders Liam Dawson and Tom Banton have left the England ODI squad ahead of the series finale against India at the iconic Lord’s on July 19. The pair will rather feature in the T20...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-release-two-cricketers-ahead-of-series-finale-against-india-at-lord-s-here-s-why-2026-07-18-1048616",
+    "time": "2026-07-17T18:31:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCCI secretary shares major update on Rohit Sharma, says Lord's 'won't be his last match'",
+    "desc": "BCCI secretary Devajit Saikia has denied any chat with veteran cricketer Rohit Sharma about a possible retirement after the third ODI against England at the iconic Lord’s on July 19. He cleared the air that...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-secretary-clears-air-about-rohit-sharma-s-odi-future-says-lord-s-won-t-be-his-last-match-2026-07-17-1048612",
+    "time": "2026-07-17T17:38:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rohit Sharma hasn't informed BCCI, team management or selectors about possible retirement announcement",
+    "desc": "Rohit Sharma's place in India's ODI plans has come under serious doubt after selectors informed him that he is no longer being considered for the 2027 ODI World Cup. The Indian team management and selectors...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-hasn-t-informed-bcci-team-management-or-selectors-about-possible-retirement-announcement-2026-07-17-1048609",
+    "time": "2026-07-17T16:20:37.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Gary Sobers dies at 89, legendary cricketer was first to hit six sixes in List A match",
     "desc": "Sir Garry Sobers, widely regarded as one of the greatest cricketers in history and the finest all-rounder the game has produced, has died at the age of 89. The former West Indies captain, celebrated for...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/mohammad-nawaz-sanctioned-by-the-icc-found-in-breach-of-anti-doping-code-2026-07-17-1048553",
     "time": "2026-07-17T08:44:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Just get it done': Joe Root reveals conversation with Gus Atkinson after missing out on well deserved ton",
-    "desc": "Joe Root was the star of the show for England as the side defeated India in the second ODI of the ongoing three-game series. Letting India bat first, England conceded a total of 233 runs...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/just-get-it-done-joe-root-reveals-conversation-with-gus-atkinson-after-missing-out-on-well-deserved-ton-2026-07-17-1048549",
-    "time": "2026-07-17T08:11:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "All you need to know about Argentina vs Spain FIFA World Cup final 2026",
-    "desc": "The stage is set for the summit clash of the ongoing FIFA World Cup 2026; 2010 champions Spain will be taking on three-time champions Argentina. The two sides will meet at the New York New...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/all-you-need-to-know-about-argentina-vs-spain-fifa-world-cup-final-2026-check-schedule-match-ups-records-2026-07-17-1048540",
-    "time": "2026-07-17T07:27:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India's batting coach throws weight behind Rohit Sharma amid struggles with the bat",
-    "desc": "The Indian team succumbed to a hefty loss against England in the second ODI of the ongoing three-game series. After winning the first game, the Men in Blue failed to get the job done in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-s-batting-coach-throws-weight-behind-rohit-sharma-amid-struggles-with-the-bat-2026-07-17-1048532",
-    "time": "2026-07-17T06:18:45.000Z"
   }
 ];

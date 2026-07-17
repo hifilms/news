@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "ક્રિકેટ જગતને મોટો ઝટકો, મહાન ઓલરાઉન્ડર સર ગારફિલ્ડ સોબર્સનું 89 વર્ષની વયે અવસાન",
+    "desc": "ક્રિકેટ ઇતિહાસના મહાન ઓલરાઉન્ડરોમાંના એક ગણાતા વેસ્ટ ઈન્ડિઝના દિગ્ગજ સર ગારફિલ્ડ સોબર્સનું 89 વર્ષની વયે અવસાન થયું છે. તેમની કારકિર્દી દરમિયાન તેમણે પોતાની બેટિંગ, ઝડપી અને સ્પિન બોલિંગ અને ઉત્તમ ફિલ્ડિંગ દ્વારા ક્રિકેટને ફરીથી વ્યાખ્યાયિત કરી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/a-big-blow-to-the-cricket-world-great-all-rounder-sir-garry-sobers-passes-away-at-the-age-of-89-484969 ",
+    "time": "2026-07-17T16:16:58.000Z"
+  },
+  {
     "cat": "World",
     "title": "હવામાં ઝેર જ ઝેર! આ બે અમીર દેશોમાં AQI 1000ને પાર, ભારત માટે સારા સમાચાર",
     "desc": "ગ્લોબલ એર ક્વોલિટી રેન્કિંગમાં મોટો ઉલટફેર થયો છે. ભારત હવે પ્રદૂષણની દ્રષ્ટિએ વિશ્વના ટોચના 50 શહેરોમાંથી સંપૂર્ણપણે બહાર થઈ ગયું છે. આ દરમિયાન, જંગલોમાં લાગેલી આગને કારણે, અમેરિકા અને કેનેડા જેવા વિકસિત દેશો અચાનક ગેસ ચેમ્બર બની ગયા છે, જેમાં AQI રીડિંગ્સ 1000થી વધુ છે.",
@@ -322,15 +331,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/bank-account-credited-via-technical-glitch-what-does-the-law-say-and-what-should-you-do-next-484709 ",
     "time": "2026-07-15T13:10:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICCએ ODI અને T20 વર્લ્ડ કપના ફોર્મેટમાં કર્યો ફેરફાર, હવે આ નવા નિયમો હેઠળ રમાશે વિશ્વ કપ",
-    "desc": "ICCએ ક્રિકેટ વર્લ્ડ કપ અને T20 વર્લ્ડ કપના ફોર્મેટમાં મોટા ફેરફારો કર્યા છે. 14 ટીમોના ODI વર્લ્ડ કપમાં હવે 'સુપર સિરીઝ' અને 'સુપર 7' રાઉન્ડ હશે, જ્યારે T20 વર્લ્ડ કપમાં 'સુપર 10' અને નવા એલિમિનેટર રાઉન્ડ સાથે રોમાંચ બમણો થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/icc-changes-odi-and-t20-world-cup-format-added-super-series-and-super-7-484707 ",
-    "time": "2026-07-15T12:36:37.000Z"
   },
   {
     "cat": "Entertainment",
