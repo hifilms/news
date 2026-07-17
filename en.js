@@ -1,5 +1,311 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Joe Root surpasses Virat Kohli's ODI record with unbeaten 99 against India",
+    "desc": "Joe Root's unbeaten 99 guided England to a four-wicket victory over India. This win leveled the three-match series at one game apiece. Root absorbed early pressure and anchored the innings with a composed knock. He overtook Virat Kohli in successful ODI run chase averages. England's bowlers restricted India after a threatening partnership.",
+    "img": "https://static.toiimg.com/photo/msid-132450658,imgsize-1075481.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/joe-root-surpasses-virat-kohlis-odi-record-with-unbeaten-99-against-india/articleshow/132450625.cms",
+    "time": "2026-07-17T02:01:21.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Crude heads for biggest weekly gain in months amid intensifying Middle East crisis",
+    "desc": "Oil prices surged as escalating US-Iran military tensions raised supply disruption concerns. Brent crude traded at $85.34 and WTI crude at $80.08 per barrel. Recent US strikes aimed to degrade Iranian military capabilities, while Iran retaliated against regional allies. Renewed hostilities revived fears of a broader conflict and threats to the Strait of Hormuz. Iran warned of widespread infrastructure damage if US threats to strike its facilities are carried out.",
+    "img": "https://static.toiimg.com/photo/msid-132450634,imgsize-1897694.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/crude-heads-for-biggest-weekly-gain-in-months-amid-intensifying-middle-east-crisis-on-july-17-2026/articleshow/132450638.cms",
+    "time": "2026-07-17T01:56:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Where's the hitman? Rohit's form a growing concern for India's ODI World Cup plans",
+    "desc": "Rohit Sharma's struggles with timing, tempo and confidence have continued in the first two ODIs against England. With just 37 runs, prolonged dot-ball phases and visible discomfort against pace, the veteran opener's place in India's long-term ODI plans is beginning to invite serious scrutiny ahead of the 2027 World Cup.",
+    "img": "https://static.toiimg.com/photo/msid-132450468,imgsize-125638.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/wheres-the-hitman-rohit-sharmas-form-a-growing-concern-for-indias-odi-world-cup-plans/articleshow/132450450.cms",
+    "time": "2026-07-17T01:35:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'My teachers wanted me to join IAS or IFS, not acting'",
+    "desc": "Ahead of the premiere of Prime Video's Adarsh Baal Vidyalaya, Archana Puran Singh has looked back on her school days, revealing that her teachers had hoped she would join the IAS or IFS given her academic record but were left disappointed when she chose acting instead.",
+    "img": "https://static.toiimg.com/photo/msid-132450465,imgsize-171112.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/adarsh-baal-vidyalaya-actress-archana-puran-singh-recalls-being-a-teachers-favorite-and-how-they-were-genuinely-disappointed-when-she-chose-acting-over-civil-services-they-wanted-me-to-join-ias-or-ifs/articleshow/132450442.cms",
+    "time": "2026-07-17T01:28:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Varavu' opens at Rs 51 lakh India gross",
+    "desc": "The action thriller Varavu, reuniting Joju George and Shaji Kailas, has opened in theaters. The film registered an estimated Rs 51 lakh gross on its opening day. Advance bookings showed decent performance with over 35,000 tickets sold. Social media reactions are divided, with praise for action and criticism for screenplay. Early reviews suggest Varavu faces a significant box office challenge ahead.",
+    "img": "https://static.toiimg.com/photo/msid-132450466,imgsize-281396.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/varavu-box-office-collections-day-1-joju-georges-film-opens-at-rs-51-lakh-india-gross/articleshow/132450460.cms",
+    "time": "2026-07-17T01:27:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jason Sanjay on rejecting Alphonse Puthren's film offer",
+    "desc": "Jason Sanjay revealed declining an acting offer from Alphonse Puthren years ago. He was more interested in understanding filmmaking and becoming a director. Vijay, his father, supported his son's career decisions. Jason is now preparing for his directorial debut film 'Sigma'. The film stars Sundeep Kishan in the lead role.",
+    "img": "https://static.toiimg.com/photo/msid-132450411,imgsize-301213.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/jason-sanjay-reveals-why-he-rejected-alphonse-puthrens-film-offer-vijays-son-says-directing-was-his-priority/articleshow/132450404.cms",
+    "time": "2026-07-17T01:10:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Tailenders are not the best batsmen': Gill rues India's middle-order collapse",
+    "desc": "India suffered a four-wicket defeat against England in the second ODI. The team squandered a strong position after reaching 180 for three wickets. Joe Root's unbeaten 99 guided England to a comfortable chase and series level. Captain Shubman Gill expressed disappointment over the middle-order batting collapse. Washington Sundar's injury also disrupted India's bowling plans during the match.",
+    "img": "https://static.toiimg.com/photo/msid-132450396,imgsize-44868.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/tailenders-are-not-the-best-batsmen-shubman-gill-rues-indias-middle-order-collapse-after-defeat/articleshow/132450359.cms",
+    "time": "2026-07-17T01:09:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "What is Kris Jenner's net worth?",
+    "desc": "With an estimated net worth of USD 170 million, Kris Jenner stands out as a remarkable businesswoman. She skillfully manages her children's flourishing careers, earning a commission from their numerous ventures. As an executive producer for the family's reality shows, her influence is substantial. Their rise to fame originated from a viral event involving Kim Kardashian, and they've since expanded their brand into cosmetics, beauty products, and clothing lines.",
+    "img": "https://static.toiimg.com/photo/msid-132450400,imgsize-32066.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kris-jenner-net-worth-2026-how-the-kardashian-momager-built-a-usd-170-million-empire-from-businesses-to-reality-tv-success/articleshow/132450381.cms",
+    "time": "2026-07-17T01:08:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "White House",
+    "desc": "Press Secretary Leavitt said she did not know whether Mr. Trump would be supporting Argentina or Spain after he criticised the European nation at a NATO summit last week for failing to help with the Iran war",
+    "img": "https://th-i.thgim.com/public/incoming/3w22r/article71232543.ece/alternates/LANDSCAPE_1200/2026-03-27T232040Z_1543793463_RC2BDKA0EJYJ_RTRMADP_3_USA-TRUMP.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/trump-to-attend-fifa-argentina-vs-spain-world-cup-final-on-july-19-white-house/article71232541.ece",
+    "time": "2026-07-17T01:02:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rot in KPSC recruitment runs deep",
+    "desc": "The recent scandal to hit the recruitment process in the Karnataka State Public Service Commission, with the Chairperson facing allegations of nepotism, is only the latest in a series over the last few decades. Sharath S. Srivatsa takes an overview of the system",
+    "img": "https://th-i.thgim.com/public/incoming/ad7dee/article71230097.ece/alternates/LANDSCAPE_1200/_DSC8984.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/rot-in-recruitment-runs-deep/article71228841.ece",
+    "time": "2026-07-17T00:56:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Varavu' Twitter review: Joju's film opens to mixed response",
+    "desc": "Joju George's action drama 'Varavu' premiered in theaters on July 16, 2026. Early audience reactions on X show a divided reception to the film. Some viewers praised the action sequences, visuals, and lead performances. However, many critics found the revenge plot to be outdated and predictable. The film's writing and execution faced significant criticism from several viewers.",
+    "img": "https://static.toiimg.com/photo/msid-132450313,imgsize-520426.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/varavu-twitter-review-joju-georges-film-opens-to-mixed-response-many-call-revenge-drama-outdated/articleshow/132450305.cms",
+    "time": "2026-07-17T00:51:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sameera reveals on being made two to three shades lighter",
+    "desc": "Sameera Reddy revealed she was made two to three shades lighter and wore padded bras, bum pads and coloured lenses during her debut film 'Maine Dil Tujhko Diya'. She struggled with body image and skin colour insecurities until her 40s, recalling body-shaming by crew members. Reddy is married to Akshai Varde, with two children.",
+    "img": "https://static.toiimg.com/photo/msid-132450279,imgsize-200653.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-used-full-body-makeup-to-match-the-colour-of-my-face-with-my-body-sameera-reddy-reveals-on-being-made-two-to-three-shades-lighter-in-her-debut-film-maine-dil-tujhko-diya-with-sohail-khan/articleshow/132450279.cms",
+    "time": "2026-07-17T00:40:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Six murders, a dead suspect and a chilling trail gone cold",
+    "desc": "On July 10, six persons were killed across two homes in Daivalaguda, a peaceful farming village near Hyderabad. With investigations under way, the case raises uncomfortable questions about police procedure, anticipatory bail, victim protection and whether the tragedy could have been prevented",
+    "img": "https://th-i.thgim.com/public/incoming/nlspvh/article71231502.ece/alternates/LANDSCAPE_1200/DSC2552.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telangana/six-murders-a-dead-suspect-and-a-chilling-trail-gone-cold/article71231500.ece",
+    "time": "2026-07-17T00:34:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rohit Sharma no more automatic selection after Lord's ODI",
+    "desc": "The Indian team management and selectors had initially considered giving Yashasvi Jaiswal a full series in England but opted to persist with Rohit Sharma, hoping he would rediscover his form. Sources indicate that both the selection committee and team management have conveyed their views on Rohit's future to the BCCI. It remains to be seen whether the board's leadership or the selectors will now initiate discussions with him.",
+    "img": "https://static.toiimg.com/photo/msid-132450256,imgsize-166880.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/rohit-sharma-no-more-automatic-selection-after-lords-odi/articleshow/132450256.cms",
+    "time": "2026-07-17T00:31:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Chand Mera Dil' OTT: When and where to watch Ananya and Lakshya starrer?",
+    "desc": "Ananya Panday and Lakshya's romantic drama 'Chand Mera Dil' is set to stream on OTT platform from this month, following its theatrical release on May 22, 2026. Here's everything you need to know about the digital release, along with what the lead stars have to say about their characters finding a new home on streaming.",
+    "img": "https://static.toiimg.com/photo/msid-132450269,imgsize-100297.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/chand-mera-dil-ott-release-when-and-where-to-watch-ananya-panday-and-lakshya-starrer-romantic-drama-online/articleshow/132450258.cms",
+    "time": "2026-07-17T00:30:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'I can't wait to see The Odyssey again'",
+    "desc": "Tom Cruise attended an early screening of Christopher Nolan's epic film 'The Odyssey'. He shared his positive experience and praised the cast and crew on social media. The highly anticipated film follows Homer's ancient Greek epic and stars Matt Damon. 'The Odyssey' has already received widespread critical acclaim ahead of its release. Cruise is a strong advocate for the theatrical movie experience and will release 'Digger' in October.",
+    "img": "https://static.toiimg.com/photo/msid-132450148,imgsize-183488.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-cruise-reviews-christopher-nolans-the-odyssey-screening-in-imax-i-cant-wait-to-see-it-again/articleshow/132450142.cms",
+    "time": "2026-07-17T00:22:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Former Maoists trade years of conflict for livelihood and a stable future",
+    "desc": "For many former Maoists, surrender only marks the beginning of a long journey. While they attempt to rebuild their lives through farming and family, rehabilitation remains a work in progress. Many continue to grapple with unemployment, inadequate skills, and challenges of reintegration, writes T. Appalanaidu",
+    "img": "https://th-i.thgim.com/public/incoming/k6z45m/article71231220.ece/alternates/LANDSCAPE_1200/10237_2_7_2026_18_36_42_1_5.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/former-maoists-trade-years-of-conflict-for-livelihood-and-a-stable-future/article71229946.ece",
+    "time": "2026-07-17T00:21:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anjali recalls Ranveer's apology on RARKPK set",
+    "desc": "Anjali Anand recalled cherished memories from 'Rocky Aur Rani Kii Prem Kahaani' (2023), including Karan Johar kissing her forehead after a scene and bonding with Dharmendra over poetry. She praised Ranveer Singh for apologising after delaying her first shoot and later encouraging her. The two remain close friends. Anjali recently appeared in 'Dhamaal 4'.",
+    "img": "https://static.toiimg.com/photo/msid-132450250,imgsize-208953.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-came-up-to-me-saying-im-so-sorry-dhamaal-4-actress-anjali-anand-recalls-ranveer-singhs-sweet-apology-on-rocky-aur-rani-kii-prem-kahaani-set/articleshow/132450250.cms",
+    "time": "2026-07-17T00:21:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Lenin' BO day 7: Akhil Akkineni's action drama drops 7%",
+    "desc": "Akhil Akkineni's latest venture, 'Lenin,' has wrapped up its inaugural week showcasing impressive box office results. The film, a rural action drama, has earned around thirty-six point two zero crore rupees domestically. Its global gross is closing in on fifty-one crore rupees. The movie recorded an overall occupancy of nineteen point zero six percent on its opening Thursday, with Andhra Pradesh and Telangana driving significant ticket sales.",
+    "img": "https://static.toiimg.com/photo/msid-132450188,imgsize-557979.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/lenin-box-office-collections-day-7-akhil-akkinenis-action-drama-drops-7-week-1-india-net-reaches-rs-36-20-cr/articleshow/132450170.cms",
+    "time": "2026-07-17T00:07:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Long-term exposure to air pollution could lead to dementia, warns WHO",
+    "desc": "New WHO guidelines suggest up to 45% of dementia cases are preventable. Tackling risk factors like high blood pressure and air pollution is advised. Healthy lifestyles and managing chronic diseases significantly influence brain health. The guidelines recommend regular physical activity and quitting tobacco use. Routine vitamin and omega-3 supplements are not advised without diagnosed deficiency.",
+    "img": "https://static.toiimg.com/photo/msid-132450138,imgsize-104952.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/long-term-exposure-to-air-pollution-could-lead-to-dementia-warns-who/articleshow/132450132.cms",
+    "time": "2026-07-16T23:51:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PF for self-employed, workers in unorganised sector on way",
+    "desc": "Employees Provident Fund Organisation is developing a universal provident fund scheme. This new plan will cover millions in the unorganised sector and self-employed individuals. Subscribers can contribute daily or annually with tax benefits on their savings. The agency is studying global models to finalize the basic framework for this initiative. This self-financing scheme aims to extend retirement savings beyond the current EPFO network.",
+    "img": "https://static.toiimg.com/photo/msid-132450128,imgsize-729607.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pf-for-self-employed-workers-in-unorganised-sector-on-way/articleshow/132450124.cms",
+    "time": "2026-07-16T23:41:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bumrah scripts never-seen-before England record with first-ball stunner",
+    "desc": "Ben Duckett became the first England batter dismissed on the opening ball against India. Jasprit Bumrah provided India with an ideal start in the chase of 234. India posted a below-par 233 after a middle-order collapse in their innings. Virat Kohli and Shreyas Iyer scored 65 and 66 respectively. England's pace attack triggered India's collapse, losing four wickets quickly.",
+    "img": "https://static.toiimg.com/photo/msid-132444152,imgsize-268882.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/jasprit-bumrah-scripts-never-seen-before-england-record-with-first-ball-stunner/articleshow/132444150.cms",
+    "time": "2026-07-16T23:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lewis lends support to Kim as she mourns grandmother's demise",
+    "desc": "The Kardashian family is mourning the loss of matriarch Mary Jo Campbell. Kris Jenner announced her mother's passing with an emotional social media tribute. Kim Kardashian shared a heartfelt message and childhood photograph of her grandmother. Lewis Hamilton also extended his support to the grieving Kardashian family. He posted personal photos and videos of their shared holiday moments.",
+    "img": "https://static.toiimg.com/photo/msid-132450054,imgsize-514781.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/lewis-hamilton-lends-support-to-kim-kardashian-as-she-mourns-grandmother-mjs-demise-shares-unseen-pics-from-getaway-with-her-kids/articleshow/132450018.cms",
+    "time": "2026-07-16T23:09:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vivek Oberoi invested in over 30 companies, exited 11 with 300% returns",
+    "desc": "While many know Vivek Oberoi as an actor, he has quietly built a significant presence in the investment world. In a recent interview, the actor spoke about his journey from learning the value of money as a child to creating a family office focused on generational wealth, impact investing and backing promising entrepreneurs.",
+    "img": "https://static.toiimg.com/photo/msid-132450039,imgsize-47607.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vivek-oberoi-reveals-his-family-office-has-invested-in-over-30-companies-exited-11-with-returns-of-up-to-300-every-business-dharma-is-profit/articleshow/132450033.cms",
+    "time": "2026-07-16T22:45:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Unite to fight terror, organised crime, Ajit Doval urges Bimstec",
+    "desc": "NSA Ajit Doval chaired the Bimstec national security chiefs meeting in New Delhi. The grouping discussed practical solutions to combat terrorism and organized crime. Security chiefs also endorsed principles for maritime law enforcement interactions at sea. Doval stressed closer regional cooperation to tackle evolving security challenges effectively. Bimstec unites dynamic regions with significant global population and economic influence.",
+    "img": "https://static.toiimg.com/photo/msid-132450051,imgsize-54176.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/unite-to-fight-terror-organised-crime-ajit-doval-urges-bimstec/articleshow/132450042.cms",
+    "time": "2026-07-16T22:44:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Call all-party meet to discuss delimitation bill: Kharge to PM Modi",
+    "desc": "Congress chief Mallikarjun Kharge requested an all-party meeting with Prime Minister Modi. He seeks details on the revised Constitution (131st Amendment) Bill. Reports suggest the government plans to reintroduce the delimitation bill soon. Congress believes the government lacks the required majority for constitutional amendments. The party remains in touch with opposition parties regarding the bill.",
+    "img": "https://static.toiimg.com/photo/msid-132450008,imgsize-88259.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/call-all-party-meet-to-discuss-delimitation-bill-kharge-to-pm-modi/articleshow/132450014.cms",
+    "time": "2026-07-16T22:31:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vicky shares pic from 'Jaan' Katrina's birthday",
+    "desc": "Vicky Kaushal celebrated Katrina Kaif's birthday with a social media post. He shared an endearing picture of the couple embracing each other. The actor captioned the image with a sweet message in Hindi. This heartfelt gesture quickly garnered attention from his devoted fans. The post showcased their affectionate bond for everyone to see.",
+    "img": "https://static.toiimg.com/photo/msid-132448252,imgsize-97384.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vicky-kaushal-shares-loved-up-picture-with-jaan-katrina-kaif-from-her-birthday-celebrations-pic/articleshow/132448244.cms",
+    "time": "2026-07-16T22:28:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Trinamool MP Samirul Islam calls on family who was pushed into Bangladesh",
+    "desc": "Four Bengali migrants from Birbhum who were detained by Delhi Police last year and pushed into Bangladesh were brought back to India on July 8, 2026 after a year-long legal battle. It was Samirul Islam who took up the cause of the migrant workers and provided help to the family",
+    "img": "https://th-i.thgim.com/public/incoming/uqwahp/article71228904.ece/alternates/LANDSCAPE_1200/Untitled%20design%2026.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/trinamool-mp-samirul-islam-calls-on-family-who-was-pushed-into-bangladesh/article71228823.ece",
+    "time": "2026-07-16T22:24:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The division in Puri’s Rath Yatra celebrations",
+    "desc": "The Jagannath Temple in Puri holds its Rath Yatra every year on a date prescribed by its centuries-old ritual calendar. A branch of ISKCON, however, stages international events of the procession on dates that differ from the original, citing practical reasons. The divergence has sparked a controversy, with many in Puri viewing it as a challenge to the temple’s authority and its religious identity, finds Satyasundar Barik",
+    "img": "https://th-i.thgim.com/public/incoming/w2dz9y/article71226162.ece/alternates/LANDSCAPE_1200/90092_13_7_2026_9_41_44_1_UNSEASONAL_RATHYTARA_07.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/odisha/dates-with-devotion-the-division-in-puris-rath-yatra-celebrations/article71226064.ece",
+    "time": "2026-07-16T22:21:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "No leak of Kudankulam nuclear reactor data, clarifies minister",
+    "desc": "Union minister Jitendra Singh asserted no sensitive data breach occurred at Kudankulam nuclear plant. Nuclear Power Corporation of India confirmed core systems remained untouched by the incident. Reliance Infrastructure's contract involved conventional services, not core nuclear systems. A third-party data center provider reported a partial data breach attempt. Isro sources clarified that scientist and engineer resignations are within normal levels.",
+    "img": "https://static.toiimg.com/photo/msid-132449990,imgsize-116282.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-leak-of-kudankulam-nuclear-reactor-data-clarifies-minister/articleshow/132449991.cms",
+    "time": "2026-07-16T22:15:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Skyroot Aerospace to launch India’s first private orbital rocket on Saturday",
+    "desc": "India's private space sector is poised for a significant advancement this Saturday. Skyroot Aerospace will launch the Vikram-1, its first orbital-class rocket. This historic mission, named Mission Aagaman, will lift off from Sriharikota. The rocket carries technology demonstration payloads and unique artwork into space. This launch marks a major milestone for India's burgeoning private space industry.",
+    "img": "https://static.toiimg.com/photo/msid-132448780,imgsize-146727.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/skyroot-aerospace-to-launch-indias-first-private-orbital-rocket-on-saturday/articleshow/132448633.cms",
+    "time": "2026-07-16T22:04:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Artist earns $1,250 by selling trash collected outside Taylor Swift's wedding",
+    "desc": "While thousands of Swifties gathered outside Madison Square Garden hoping to catch a glimpse of Taylor Swift and Travis Kelce on their wedding day, one man saw an entirely different opportunity. New York artist Justin Gignac spent the evening collecting discarded litter left behind by fans. Within a day, he had transformed the trash into collectible art pieces that sold out online, earning him $1,250.",
+    "img": "https://static.toiimg.com/photo/msid-132448255,imgsize-103980.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/artist-earns-1250-by-selling-cigarette-butts-bottle-caps-and-an-airpod-collected-outside-taylor-swift-and-travis-kelces-wedding-50-collectibles-sell-out-in-24-hours/articleshow/132448248.cms",
+    "time": "2026-07-16T22:00:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Not a blanket bar': Supreme Court clarifies bulldozer order",
+    "desc": "The Supreme Court clarified its prior ruling on demolitions. Bulldozers can remove illegal constructions and encroachments on public land. This action requires strict adherence to municipal laws and procedures. Individual contempt petitions will be handled by jurisdictional High Courts. Fact-finding exercises will ascertain if authorities acted arbitrarily in demolitions.",
+    "img": "https://static.toiimg.com/photo/msid-132448253,imgsize-193197.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/not-a-blanket-bar-supreme-court-clarifies-bulldozer-order/articleshow/132448249.cms",
+    "time": "2026-07-16T21:53:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Avoid deploying sailors on vessels moving via Strait, DGMA tells companies",
+    "desc": "India's shipping regulator has advised against deploying seafarers in the Strait of Hormuz. This directive follows recent attacks on merchant vessels in the West Asia region. Two attacks on Tuesday involved commercial ships carrying thirty Indian seafarers. The directorate cited heightened security and ongoing conflict as reasons for enhanced measures. Fleet owners were previously asked to restrict seafarer deployment in this area.",
+    "img": "https://static.toiimg.com/photo/msid-132448247,imgsize-59506.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/avoid-deploying-sailors-on-vessels-moving-via-strait-dgma-tells-companies/articleshow/132448245.cms",
+    "time": "2026-07-16T21:50:06.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Acquitted 45 years on, after serving life term; murder in 1977, conviction 1981, clean chit 2026",
     "desc": "The Supreme Court acquitted three surviving accused in a 49-year-old murder case. This decision came after the accused had served life imprisonment sentences. The court found serious infirmities in the prosecution's case and witness testimonies. Inconsistencies in witness accounts led to granting the benefit of doubt. The prosecution failed to establish guilt beyond reasonable doubt, leading to acquittal.",
@@ -172,15 +478,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "In AI era, IT sector employees facing an uncertain future",
-    "desc": "The recent sacking of over 1,000 employees of two information technology firms in Kerala has triggered a disquiet in the sector. G. Ragesh talks to some of the affected employees and other stakeholders to find out what is ailing the sector",
-    "img": "https://th-i.thgim.com/public/incoming/peux0w/article71230412.ece/alternates/LANDSCAPE_1200/CorroHealths-tGCNG7ILSO.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/in-ai-era-it-sector-employees-facing-an-uncertain-future/article71224517.ece",
-    "time": "2026-07-16T18:31:56.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Omar Abdullah asks Centre to take humanitarian view on Wangchuk",
     "desc": "Jammu and Kashmir Chief Minister Omar Abdullah expressed concern over Sonam Wangchuk's health. He urged the central government to adopt a humanitarian approach to the issue. Wangchuk has been fasting for nineteen days and has lost significant weight. Abdullah drew parallels with the UPA government's engagement with Anna Hazare. He stated Wangchuk's demand for NEET examination accountability was justified.",
     "img": "https://static.toiimg.com/photo/msid-132446223,imgsize-907538.cms",
@@ -198,24 +495,6 @@ const newsData_en = [
     "time": "2026-07-16T18:15:21.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Centre puts Delhi hospitals on alert as Sonam Wangchuk fast enters third week",
-    "desc": "Central government hospitals will now conduct twice-daily health checks for hunger strikers. Dr Ram Manohar Lohia Hospital is designated as the nodal facility for any emergencies. Advanced life support ambulances will remain stationed at the protest site. Medical teams will submit daily health status reports to the ministry. This action follows Delhi Police's request due to health concerns.",
-    "img": "https://static.toiimg.com/photo/msid-132445687,imgsize-498442.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/centre-puts-delhi-hospitals-on-alert-as-wangchuk-fast-enters-third-week/articleshow/132445555.cms",
-    "time": "2026-07-16T17:50:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Meeting on Cabinet expansion deferred as Mallikarjun Kharge is tied up with family emergency",
-    "desc": "The much-awaited discussion on the Cabinet expansion by Congress leaders in Delhi remained inconclusive owing to Congress president Mallikarjun Kharge being unavailable for meetings. The list for Cabinet expansion could be finalised only by next week",
-    "img": "https://th-i.thgim.com/public/incoming/dp8dxp/article71231333.ece/alternates/LANDSCAPE_1200/CM%20Delhi_1.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/meeting-on-cabinet-expansion-deferred-as-mallikarjun-kharge-is-tied-up-with-family-emergency/article71230948.ece",
-    "time": "2026-07-16T17:32:17.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Mahaprabhu Jagannath’, the first animated feature film from Odisha, is ready for release",
     "desc": "Durga Prasad Dalai, founder and CEO of Ele Animations Pvt Ltd, talks about the journey involved in making Mahaprabhu Jagannath, which has Kerala-based Toonz Media Group as the distribution partner. The film releases on July 17",
@@ -225,24 +504,6 @@ const newsData_en = [
     "time": "2026-07-16T17:08:08.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'No sensitive data leaked': Government refutes reports of Kudankulam nuclear plant breach",
-    "desc": "Union Minister Jitendra Singh dismissed reports of sensitive Kudankulam Nuclear Power Plant files being leaked. He asserted that no nuclear safety or security data had been compromised in the incident. The Nuclear Power Corporation of India Limited clarified leaked documents related only to the plant's conventional Balance of Plant package. This clarification followed claims by a ransomware group about accessing thousands of project-related files.",
-    "img": "https://static.toiimg.com/photo/msid-132444119,imgsize-111932.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-sensitive-data-leaked-government-refutes-reports-of-kudankulam-nuclear-plant-breach/articleshow/132443920.cms",
-    "time": "2026-07-16T16:59:12.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S. strikes hit around Iran's Qeshm island, says state media",
-    "desc": "Fars news agency reported an \"American missile strike in the vicinity of Qeshm\", citing local authorities, while Tasnim news agency said one of its correspondents reported locations around Qeshm \"were struck by projectiles from the American enemy\"",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-washington-tehran-air-strikes-strait-of-hormuz-live-updates-july-16-2026/article71228351.ece",
-    "time": "2026-07-16T16:44:54.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Vivek reacts to Wangchuk's hunger strike: 'Abhineta hu, neta nahi'",
     "desc": "Vivek Oberoi has reacted to Sonam Wangchuk's ongoing hunger strike at Delhi's Jantar Mantar, saying he prefers to stay away from political debates but believes that people should have the freedom to express their views in a healthy democracy. While he did not comment on the specific demands or the issues surrounding the protest, the actor said he sees himself as someone who observes and learns from what is happening around him.",
@@ -250,24 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vivek-oberoi-reacts-to-sonam-wangchuks-hunger-strike-yaar-main-abhineta-hu-neta-nahi-hu-toh-main-political-cheezon-pe-dhyaan-nahi-deta-hun/articleshow/132443254.cms",
     "time": "2026-07-16T16:04:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'500 farmers join CJP protest': Sonam Wangchuk gets support from Rakesh Tikait, Kejriwal at 'packed' Jantar Mantar",
-    "desc": "Sonam Wangchuk's hunger strike entered its nineteenth day with significant health concerns. Farmer leader Rakesh Tikait joined the protest, strengthening the ongoing agitation. Opposition leaders and parties offered their support, urging the minister's removal. Congress leaders appealed to Wangchuk to end his fast while assuring continued demands. Doctors warned of serious health complications if the hunger strike continues.",
-    "img": "https://static.toiimg.com/photo/msid-132443313,imgsize-1486072.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/500-farmers-join-cjp-protest-sonam-wangchuk-gets-support-from-rakesh-tikait-kejriwal-at-packed-jantar-mantar/articleshow/132442721.cms",
-    "time": "2026-07-16T16:02:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Everyone does naarebaazi in democracy but ... ': Why Supreme Court told Chandigarh admin to 'argue on merits' in Bhagwant Mann case",
-    "desc": "The Supreme Court will hear the Chandigarh administration's plea regarding an FIR. This FIR was against Punjab Chief Minister Bhagwant Mann and other AAP leaders. The High Court had previously quashed the FIR, citing a lack of prima facie case. The protest in 2020 was against a hike in electricity tariffs. The court noted that sloganeering is common in a democracy.",
-    "img": "https://static.toiimg.com/photo/msid-132442702,imgsize-17870.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/everyone-does-naarebaazi-in-democracy-but-why-supreme-court-told-chandigarh-admin-to-argue-on-merits-in-bhagwant-mann-case/articleshow/132442699.cms",
-    "time": "2026-07-16T15:39:15.000Z"
   },
   {
     "cat": "World",
@@ -295,24 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/urvashi-rautela-meets-tom-hiddleston-at-wimbledon-2026-final-internet-cant-keep-calm-memes-take-over-loki-forgot-to-remove-her-from-timeline/articleshow/132442578.cms",
     "time": "2026-07-16T15:18:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Congress in touch with all opposition parties, including DMK and AAP': Jairam Ramesh on delimitation bill",
-    "desc": "Congress is contacting opposition parties that previously opposed a bill. These discussions include the DMK and Aam Aadmi Party. Parliament's Monsoon session begins July 20 and continues until August 13. Opposition plans to raise issues like the NEET paper leak. The government may also reintroduce a bill on women's reservation.",
-    "img": "https://static.toiimg.com/photo/msid-132442361,imgsize-246966.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/congress-in-touch-with-all-opposition-parties-including-dmk-and-aap-jairam-ramesh-on-delimitation-bill/articleshow/132441676.cms",
-    "time": "2026-07-16T14:53:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Old playbook that made Channi Punjab CM in 2021 is back in action. Why Congress may not blink this time",
-    "desc": "Congress leadership struggles to unite Punjab leaders amid ongoing internal disputes. New leadership structure has triggered open conflict and fresh rounds of infighting. Former Chief Minister Charanjit Singh Channi is now leading a revolt against the current party president. The party leadership appears firm this time, avoiding past mistakes of succumbing to pressure. Managing these divisions is critical for Congress to regain political ground in Punjab.",
-    "img": "https://static.toiimg.com/photo/msid-132440653,imgsize-721389.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/old-playbook-that-made-channi-punjab-cm-in-2021-is-back-in-action-why-congress-may-not-blink-this-time/articleshow/132439889.cms",
-    "time": "2026-07-16T14:50:09.000Z"
   },
   {
     "cat": "Business",
@@ -378,33 +603,6 @@ const newsData_en = [
     "time": "2026-07-16T14:18:25.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Paresh Rawal says 'OMG 2' was his idea, Akshay Kumar didn't give him credit",
-    "desc": "Paresh Rawal claims 'OMG 2' originated from his idea, which director Amit Rai developed. He stated the film's direction changed significantly after Akshay Kumar joined the project. Rawal felt the final script deviated from his original vision and concept. He also alleged he received no credit for his initial story contributions. Consequently, Rawal chose to withdraw from the film entirely.",
-    "img": "https://static.toiimg.com/photo/msid-132441605,imgsize-352582.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/paresh-rawal-says-omg-2-was-his-idea-akshay-kumar-took-the-script-and-never-gave-him-credit-my-name-wasnt-mentioned-anywhere/articleshow/132441556.cms",
-    "time": "2026-07-16T14:15:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sohail Khan reveals facing sexual harassment as a child, confided in his father Salim Khan",
-    "desc": "Actor Sohail Khan shared a personal childhood revelation on the show 'Alliance'. He spoke about being sexually harassed and remaining silent for years. This experience influences how he raises his sons, Nirvaan and Yohan. Khan also reflected on his past marriage and the respect he holds for Seema Sajdeh. The former couple maintains a cordial co-parenting relationship for their children.",
-    "img": "https://static.toiimg.com/photo/msid-132441268,imgsize-216250.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sohail-khan-reveals-facing-sexual-harassment-as-a-child-later-confided-in-his-father-salim-khan-for-years-i-kept-it-within-me/articleshow/132441266.cms",
-    "time": "2026-07-16T13:57:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kejriwal's 'Sheesh Mahal' to guest house: Delhi govt may rope in private firm to run bungalow",
-    "desc": "The Delhi government plans to convert Arvind Kejriwal's former residence into a state guest house. A private hospitality firm may operate and maintain the bungalow for revenue generation. This repurposed building will accommodate traveling ministers and government officials for a fee. A portion of the camp office will host official events like seminars and meetings. The proposal awaits final approval from higher authorities for implementation.",
-    "img": "https://static.toiimg.com/photo/msid-132441218,imgsize-95926.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/from-kejriwals-sheesh-mahal-to-guest-house-delhi-govt-may-rope-in-private-firm-to-run-flagstaff-road-bungalow/articleshow/132440641.cms",
-    "time": "2026-07-16T13:55:25.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran tells Houthis to close Red Sea gateway if U.S. hits power network: report",
     "desc": "A source close to the Houthis said the group had completed preparations to attack ‌shipping by deploying missiles and drones near Bab el-Mandeb strait, the gateway to the Red Sea, in Yemen’s highlands overlooking Hodeidah ‌and ⁠the Gulf of Aden and was awaiting the order to begin",
@@ -412,51 +610,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-tells-houthis-to-close-red-sea-gateway-if-us-hits-power-network-report/article71229802.ece",
     "time": "2026-07-16T13:54:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Reese Witherspoon talks about meeting Alanna Ubach after ‘Legally Blonde’",
-    "desc": "In a heartfelt conversation, Reese Witherspoon reminisced about reuniting with Alanna Ubach after many years apart. The duo, who previously collaborated in 'Legally Blonde' and 'Freeway', shared warm sentiments about their careers. Witherspoon particularly lauded Ubach’s poignant role as Cassie’s mother in the acclaimed series 'Euphoria'. Their paths crossed again in the gripping new thriller series 'Lucky', showcasing their enduring bond.",
-    "img": "https://static.toiimg.com/photo/msid-132441021,imgsize-173362.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/reese-witherspoon-and-legally-blonde-co-star-alanna-ubach-reunite-shes-always-got-my-back/articleshow/132440937.cms",
-    "time": "2026-07-16T13:43:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Make Sonam Wangchuk education minister': Arvind Kejriwal joins Jantar Mantar protest, seeks Dharmendra Pradhan's ouster",
-    "desc": "Arvind Kejriwal joined Sonam Wangchuk's hunger strike at Jantar Mantar. He demanded the removal of Union Education Minister Dharmendra Pradhan. Kejriwal also endorsed Wangchuk as a potential replacement for the minister. He highlighted recurring exam paper leaks and student suicides. The former Delhi CM urged the government to listen to youth concerns.",
-    "img": "https://static.toiimg.com/photo/msid-132440957,imgsize-873158.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/make-sonam-wangchuk-education-minister-arvind-kejriwal-joins-jantar-mantar-protest-seeks-dharmendra-pradhans-ouster/articleshow/132440920.cms",
-    "time": "2026-07-16T13:42:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Ramayan' actor Adinath Kothare and wife Urmila Kanetkar announce divorce",
-    "desc": "Marathi actors Adinath Kothare and Urmila Kanetkar have announced their separation after fifteen years. The couple mutually decided to part ways amicably, as stated in their social media post. Their daughter Jizah remains their absolute priority, and they will continue co-parenting her. They met in 2006 on the sets of Mahesh Kothare's film. Both actors have established successful careers in Marathi cinema and beyond.",
-    "img": "https://static.toiimg.com/photo/msid-132440025,imgsize-124264.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayan-actor-adinath-kothare-and-wife-urmila-kanetkar-announce-divorce-after-15-years-of-marriage-will-co-parent-daughter-jizah/articleshow/132440025.cms",
-    "time": "2026-07-16T12:58:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Netizens call out Alec Baldwin’s tribute post for Sam Neill",
-    "desc": "The online community reacted with disapproval to Alec Baldwin's tribute post for Sam Neill, as critics felt it was overly self-focused. Many believed the message fell short of adequately celebrating the legacy of the beloved actor best known for his role as Dr. Alan Grant in Jurassic Park. Sam Neill, aged 78, passed away following pneumonia complications, as his family announced.",
-    "img": "https://static.toiimg.com/photo/msid-132439921,imgsize-88340.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/alec-baldwin-called-out-for-his-tribute-about-sam-neill-thought-this-was-going-to-be-about-sam-more-than-the-other-actors/articleshow/132439426.cms",
-    "time": "2026-07-16T12:50:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sonakshi Sinha, Fatima Sana Shaikh and Imran Khan backs Sonam Wangchuk",
-    "desc": "As Sonam Wangchuk's hunger strike reaches its nineteenth day, prominent film industry figures rally behind him. Sonakshi Sinha and Fatima Sana Shaikh are leading a call for authorities to engage in constructive dialogue. Imran Khan has also raised his voice, demanding accountability in light of the NEET-UG controversy. Many more voices from the film world have echoed similar sentiments, advocating for discussions.",
-    "img": "https://static.toiimg.com/photo/msid-132439787,imgsize-111940.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonakshi-sinha-says-main-koi-anti-national-hahi-hu-fatima-sana-shaikh-and-imran-khan-backs-sonam-wangchuk-as-hunger-strike-enters-day-19/articleshow/132439762.cms",
-    "time": "2026-07-16T12:44:09.000Z"
   },
   {
     "cat": "Sports",
@@ -468,15 +621,6 @@ const newsData_en = [
     "time": "2026-07-16T12:39:23.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Jason Sanjay reveals his family's support for his cinema entry",
-    "desc": "Actress Samantha Ruth Prabhu celebrated an intimate baby shower with husband Raj Nidimoru. The couple is eagerly anticipating the arrival of their first child later this year. This joyous occasion follows a highly successful year for Samantha professionally. Her film 'Maa Inti Bangaaram' achieved significant box office success worldwide. Samantha plans a return to acting after her maternity break with new projects.",
-    "img": "https://static.toiimg.com/photo/msid-132439782,imgsize-136240.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/my-parents-believed-in-me-jason-sanjay-opens-up-about-choosing-cinema-and-finding-his-path/articleshow/132439767.cms",
-    "time": "2026-07-16T12:38:58.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "U.K. urges FIFA to investigate Argentina over Falklands banner at World Cup",
     "desc": "On July 15, Argentina beat England 2-1 in a World Cup semifinal; during post-match celebrations, Argentine players held a banner handed over by fans in the stands, reading ‘Las Malvinas son Argentinas’— ‘The Malvinas are Argentine.’",
@@ -484,15 +628,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/uk-urges-fifa-to-investigate-argentina-over-falklands-banner-at-world-cup/article71229384.ece",
     "time": "2026-07-16T12:32:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Samantha Ruth Prabhu celebrates intimate baby shower with Raj Nidimoru",
-    "desc": "Actress Samantha Ruth Prabhu celebrated an intimate baby shower with her husband Raj Nidimoru. The couple is eagerly awaiting the arrival of their first child later this year. Samantha looked radiant in a traditional ethnic outfit at the private family gathering. Her recent film 'Maa Inti Bangaaram' achieved significant box office success worldwide. She plans a return to acting after her maternity break with exciting new projects.",
-    "img": "https://static.toiimg.com/photo/msid-132439346,imgsize-167150.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/mom-to-be-samantha-ruth-prabhu-celebrates-intimate-baby-shower-with-raj-nidimoru-see-pics/articleshow/132439328.cms",
-    "time": "2026-07-16T12:28:47.000Z"
   },
   {
     "cat": "Sports",
@@ -504,15 +639,6 @@ const newsData_en = [
     "time": "2026-07-16T12:14:32.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Woman accused of harassing BTS Jin fails to show up at first and second trial",
-    "desc": "In a troubling case involving BTS member Jin, a Japanese woman, accused of harassment, has missed both her original and a subsequent trial hearing, leading to unexpected delays. The court has chosen to indefinitely postpone the case due to her pattern of absence. These allegations hark back to a fan event from over two years prior, with charges of forcible indecency stemming from her actions at that time.",
-    "img": "https://static.toiimg.com/photo/msid-132438266,imgsize-56952.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/woman-accused-of-forcibly-kissing-btss-jin-skips-trial-twice-reports-confirm-hearing-postponed-again/articleshow/132437991.cms",
-    "time": "2026-07-16T11:53:30.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Why is KL Rahul not playing in India vs England 2nd ODI at Cardiff?",
     "desc": "KL Rahul missed India's second ODI against England in Cardiff due to illness, with Ishan Kishan replacing him in the playing XI. Confirming the change at the toss, captain Shubman Gill said, \"KL is sick and Ishan comes in for him.\" England won the toss and chose to bowl, while India lead the three-match series 1-0.",
@@ -520,33 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/ind-vs-eng-why-is-kl-rahul-not-playing-in-india-vs-england-2nd-odi-at-cardiff/articleshow/132438031.cms",
     "time": "2026-07-16T11:42:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Toxic' star Benedict Garrett slams trolls targeting Kiara Advani",
-    "desc": "Actor Benedict Garrett has slammed trolls targeting Kiara Advani. He questioned the double standards applied to the actress after her marriage. Garrett emphasized that actors portray characters and their job is to act. He highlighted the hypocrisy of criticizing Advani for her professional work. The film 'Toxic' continues to generate discussion ahead of its release.",
-    "img": "https://static.toiimg.com/photo/msid-132438290,imgsize-345562.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/they-are-actors-toxic-star-benedict-garrett-slams-trolls-targeting-kiara-advani-over-tabaahi-song/articleshow/132438263.cms",
-    "time": "2026-07-16T11:40:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vir Das shares strong message on being 'apolitical' as Sonam Wangchuk's hunger strike",
-    "desc": "Actor Vir Das questioned the idea of being apolitical in a recent social media post. He argued that remaining silent on societal issues is a conscious choice, not neutrality. Those who speak out often possess less privilege and have more at stake, he stated. Democracy requires citizens to hold elected officials accountable for public policy. Avoiding discomfort should not be mistaken for an ideology or political stance.",
-    "img": "https://static.toiimg.com/photo/msid-132437887,imgsize-52152.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vir-das-shares-strong-message-on-being-apolitical-as-sonam-wangchuks-hunger-strike-continues-to-spark-debate-most-bizarre-argument-ive-ever-heard/articleshow/132437860.cms",
-    "time": "2026-07-16T11:32:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay's 'Jana Nayagan' bookings open; FDFS timings revealed",
-    "desc": "Jana Nayagan bookings have opened in Bengaluru, not Tamil Nadu, for its upcoming release. Fans are rushing for early morning first-day-first-show screenings in Karnataka. Theatres in Karnataka will commence shows at 6 AM on July 23. Tamil Nadu theatres are expected to begin screenings later in the morning. This early booking success highlights Vijay's significant box office appeal.",
-    "img": "https://static.toiimg.com/photo/msid-132437855,imgsize-307608.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-bookings-open-in-bengaluru-and-not-tamil-nadu-vijay-fans-rush-for-6-am-fdfs/articleshow/132437815.cms",
-    "time": "2026-07-16T11:27:32.000Z"
   },
   {
     "cat": "Entertainment",
@@ -631,48 +730,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Ranbir Kapoor gets conjunctivitis after daughter Raha, ahead of Ramayana' Delhi event",
-    "desc": "Ranbir Kapoor will attend the 'Ramayana' trailer launch in Delhi despite developing conjunctivitis. He reportedly contracted the infection from his daughter Raha, his commitment remains strong. The ambitious mythological epic's trailer will be unveiled on July 18 at Bharat Mandapam. Following the Delhi event, the film team will present 'Ramayana' at San Diego Comic-Con. This highly anticipated two-part saga is slated for release in 2026 and 2027.",
-    "img": "https://static.toiimg.com/photo/msid-132434475,imgsize-202179.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-contracts-conjunctivitis-after-daughter-raha-ahead-of-ramayana-delhi-event-the-actor-will-attend-it-in-black-glasses/articleshow/132434452.cms",
-    "time": "2026-07-16T08:55:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Smith-Pooran showdown: Record breaking MLC game creates unique T20 history with ...",
-    "desc": "Nicholas Pooran, Andries Gous and Steven Smith all reached three figures in a game that rewrote multiple T20 records. While Pooran smashed a 31-ball hundred — the fastest century in Major League Cricket history — Gous and Smith responded with 40-ball hundreds each.",
-    "img": "https://static.toiimg.com/photo/msid-132433746,imgsize-238958.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/major-league-cricket/record-breaking-mlc-game-cricket-unique-t20-history-with-three-batters-scoring-centuries-in-a-match-for-the-first-time/articleshow/132433631.cms",
-    "time": "2026-07-16T08:42:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Paresh Rawal says it was idiotic of him to hit an audience member during a stage show",
-    "desc": "Veteran actor Paresh Rawal admits his blunt social media presence caused harm. He expressed regret over past tweets and losing control during a performance. Rawal revealed Twitter negatively impacted his health and blood pressure significantly. He acknowledged his role in social media negativity and toxicity. The actor now largely avoids the platform due to its detrimental effects.",
-    "img": "https://static.toiimg.com/photo/msid-132434171,imgsize-347374.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/paresh-rawal-condems-reviewer-getting-theats-after-took-a-dig-at-her-dhurandhar-review-says-it-was-idiotic-of-him-to-hit-an-audience-member-my-bp-shot-up-so-i-stopped-using-twitter/articleshow/132433809.cms",
-    "time": "2026-07-16T08:39:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Thazhappattu makes it to school curriculum",
     "desc": "Screwpine art, which involves transforming simple leaves into green, sustainable thazhappas (mats) — a craft that was once a thriving cottage industry in Thazhava but has slowly declined due to modern challenges – receives a significant tribute in the form of Thazhappattu, a song written by Ani Mank.",
     "img": "https://th-i.thgim.com/public/news/national/kerala/28rcyt/article71225171.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-15%20at%203.12.15%20PM.jpeg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/an-anthem-for-a-vanishing-craft-thazhappattu-makes-it-to-school-curriculum/article71225160.ece",
     "time": "2026-07-16T08:20:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Diego is enjoying this immensely from up there': Messi's emotional tribute to Maradona",
-    "desc": "Argentina secured a place in the FIFA World Cup 2026 final after defeating England. Lionel Messi provided two assists, enabling Argentina to overcome a deficit. He dedicated the significant victory to the legendary Diego Maradona. This win mirrors Maradona's iconic performance against England forty years prior. Argentina will now face Spain in the championship match.",
-    "img": "https://static.toiimg.com/photo/msid-132433184,imgsize-50928.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/diego-is-enjoying-this-immensely-from-up-there-lionel-messis-emotional-tribute-to-diego-maradona-after-argentina-reach-fifa-world-cup-final/articleshow/132433110.cms",
-    "time": "2026-07-16T07:55:49.000Z"
   },
   {
     "cat": "Business",
@@ -729,15 +792,6 @@ const newsData_en = [
     "time": "2026-07-16T06:01:40.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "4341 days later! Only Rohit and Virat remain from India's last ODI XI in Cardiff",
-    "desc": "India returns to Sophia Gardens after a long eleven-year absence for their second ODI. Virat Kohli and Rohit Sharma are back on the field where they last played together. Suresh Raina's century powered India's dominant 2014 victory at this venue. Kohli also scored a century here in 2011, though in a losing effort. Both players have strong records against England in ODI matches.",
-    "img": "https://static.toiimg.com/photo/msid-132430758,imgsize-56162.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/4341-days-later-only-rohit-sharma-and-virat-kohli-remain-from-indias-last-odi-xi-in-cardiff/articleshow/132430501.cms",
-    "time": "2026-07-16T05:45:12.000Z"
-  },
-  {
     "cat": "Business",
     "title": "US Fed enlists ex-RBI guv Rajan, 2 other Indians for massive policy overhaul",
     "desc": "Former RBI governor Raghuram Rajan will help shape US monetary policy. He joins a Federal Reserve task force reviewing its policy framework. Rajan will examine balance sheet policy alongside other experts. Other panels will assess data, productivity, and inflation frameworks. These initiatives aim to improve the central bank's future policy approach.",
@@ -763,15 +817,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/why-are-five-anonymous-female-users-suing-elon-musks-xai-explained/article71224775.ece",
     "time": "2026-07-16T04:53:23.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Will banks remain shut for Rath Yatra and Harela on July 16? Check state-wise list",
-    "desc": "Bank branches will be closed in Odisha, Uttarakhand, and Manipur on July 16. These closures are for Ratha Yatra and the Harela festival celebrations. Customers can still use online and mobile banking services for transactions. Other regional holidays are scheduled later this month across various states. Regular banking operations will resume on the next working day.",
-    "img": "https://static.toiimg.com/photo/msid-132429527,imgsize-1105077.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/bank-holiday-today-will-banks-remain-shut-for-rath-yatra-and-harela-on-july-16-check-state-wise-list/articleshow/132429136.cms",
-    "time": "2026-07-16T04:30:00.000Z"
   },
   {
     "cat": "Sports",
@@ -837,15 +882,6 @@ const newsData_en = [
     "time": "2026-07-15T23:29:46.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Lionel Messi shines as Argentina pull off stunner against England in Atlanta to reach WC final",
-    "desc": "Argentina clinched a dramatic 2-1 win against England on Wednesday, ensuring their place in the FIFA World Cup Final. The defending champions staged a remarkable comeback after trailing for a significant part of the match, as England's lead crumbled in the final moments. Next up for Argentina is a face-off against Spain in the grand finale this Sunday.",
-    "img": "https://static.toiimg.com/photo/msid-132424895,imgsize-178506.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/argentina-vs-england-fifa-world-cup-sf-match-result-lionel-messi-shines-as-argentina-pull-off-stunner-against-england-in-atlanta-to-reach-wc-final/articleshow/132424895.cms",
-    "time": "2026-07-15T21:19:40.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Brought in for civilian use, Starlink is now integral to Ukraine’s war effort",
     "desc": "Russia’s latest attempts to jam the satellite network are about more than disrupting internet access; Starlink sits behind drone operations, battlefield communications, and command networks that stretch across hundreds of kilometres of the war front",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/cabinet-okays-semicon-20-mobile-phone-manufacturing-scheme-highways-and-urea-plants/article71226334.ece",
     "time": "2026-07-15T17:21:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "report",
-    "desc": "Anil Ambani’s Reliance Group, one of the plant’s contractors, told Reuters in a statement that there had been a “partial breach” of its data on a server hosted by third-party Indian data centre service provider Yotta, and that the govt. has been informed about the incident",
-    "img": "https://th-i.thgim.com/public/incoming/jqllwl/article71226296.ece/alternates/LANDSCAPE_1200/IMG_KKNPP3_2_1_2HDVIIE2.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/files-relating-to-kudankulam-nuclear-power-plant-exposed-in-data-breach-report/article71226179.ece",
-    "time": "2026-07-15T15:32:04.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Buffett says decision to stop Gates Foundation donations not a surprise",
-    "desc": "He now ⁠wants the shares distributed by the end of 2034, rather than 10 years after his death. He noted his children’s advancing ages. Susie Buffett, ‌the oldest, will be 81 by the end of 2034",
-    "img": "https://th-i.thgim.com/public/incoming/7y56cs/article71225975.ece/alternates/LANDSCAPE_1200/2017-05-07T195719Z_707881112_RC1CB2B22ED0_RTRMADP_3_BERKSHIRE-BUFFETT.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/buffett-says-decision-to-stop-gates-foundation-donations-not-a-surprise/article71225831.ece",
-    "time": "2026-07-15T14:56:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Indian teenager Arnav Paparkar causes a flutter in the tennis world",
-    "desc": "With a clinical 6-2, 6-1 demolition of Japan’s Ryo Tabata in the boys’ round of 16, the 18-year-old stormed into the Wimbledon quarterfinals and became the first Indian since the legendary Leander Paes in 1990 to achieve the feat",
-    "img": "https://th-i.thgim.com/public/sport/jqb8r7/article71226427.ece/alternates/LANDSCAPE_1200/TH16ARNAV%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/tennis/indian-teenager-arnav-paparkar-causes-a-flutter-in-the-tennis-world/article71226412.ece",
-    "time": "2026-07-15T14:40:35.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Leaving U.K. in better shape: Keir Starmer at final Parliament session as PM",
-    "desc": "Andy Burnham, the former Mayor of Greater Manchester, is on course to take charge as the new British Prime Minister next week after being endorsed by a resounding 349 Labour MPs in the leadership race",
-    "img": "https://th-i.thgim.com/public/incoming/gwjer3/article71226102.ece/alternates/LANDSCAPE_1200/Britain_Politics__1_36.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/leaving-uk-in-better-shape-keir-starmer-at-final-parliament-session-as-pm/article71225984.ece",
-    "time": "2026-07-15T13:57:58.000Z"
   }
 ];
