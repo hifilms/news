@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "What is the story behind Lamine Yamal's viral childhood picture with Lionel Messi? Check details",
+    "desc": "The FIFA World Cup 2026 final is right around the corner. Spain is slated to take on defending champions Argentina in the summit clash of the tournament at the New York New Jersey Stadium on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/what-is-the-story-behind-lamine-yamal-s-viral-childhood-picture-with-lionel-messi-check-details-2026-07-17-1048572",
+    "time": "2026-07-17T10:33:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mohammad Nawaz sanctioned by the ICC, found in breach of anti-doping code",
+    "desc": "In a major development, Pakistan’s spinner Mohammad Nawaz has been heavily sanctioned by the ICC (International Cricket Council) as he was found in breach of the ICC’s anti-doping code. As a result, he has accepted...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mohammad-nawaz-sanctioned-by-the-icc-found-in-breach-of-anti-doping-code-2026-07-17-1048553",
+    "time": "2026-07-17T08:44:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Just get it done': Joe Root reveals conversation with Gus Atkinson after missing out on well deserved ton",
+    "desc": "Joe Root was the star of the show for England as the side defeated India in the second ODI of the ongoing three-game series. Letting India bat first, England conceded a total of 233 runs...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/just-get-it-done-joe-root-reveals-conversation-with-gus-atkinson-after-missing-out-on-well-deserved-ton-2026-07-17-1048549",
+    "time": "2026-07-17T08:11:40.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "All you need to know about Argentina vs Spain FIFA World Cup final 2026",
     "desc": "The stage is set for the summit clash of the ongoing FIFA World Cup 2026; 2010 champions Spain will be taking on three-time champions Argentina. The two sides will meet at the New York New...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/vijay-shankar-shaheen-to-kandy-shakib-taskin-to-jaffna-full-squads-of-all-five-teams-of-lpl-2026-2026-07-17-1048502",
     "time": "2026-07-16T19:29:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lamine Yamal injured? Pedro Porro unfit? Spanish players train separately ahead of FIFA World Cup final",
-    "desc": "Spain have dismissed concerns over Lamine Yamal's fitness ahead of the FIFA World Cup 2026 final against Argentina. The Spanish Football Federation has confirmed the teenage forward is expected to be available despite training separately...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/lamine-yamal-injured-pedro-porro-unfit-spanish-players-train-separately-ahead-of-fifa-world-cup-final-2026-07-17-1048500",
-    "time": "2026-07-16T18:47:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit Sharma to bid goodbye to international cricket after final ODI vs England at Lord's?",
-    "desc": "Former India cricketer Rohit Sharma could be playing his final international match when India face England in the third ODI at Lord's on Sunday. The veteran is unlikely to remain in the selectors' plans beyond...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-to-bid-goodbye-to-international-cricket-after-final-odi-vs-england-at-lord-s-2026-07-16-1048492",
-    "time": "2026-07-16T17:40:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mithali Raj calls for new India captain; questions Harmanpreet's fitness, while advocating for Smriti Mandhana",
-    "desc": "Former India captain Mithali Raj believes that Smriti Mandhana should immediately be appointed as India’s next leader in Tests and ODIs. The call for change comes after Mandhana publicly stated her readiness to captain the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mithali-raj-calls-for-new-india-captain-questions-harmanpreet-s-fitness-while-advocating-for-smriti-mandhana-2026-07-16-1048491",
-    "time": "2026-07-16T17:23:45.000Z"
   }
 ];

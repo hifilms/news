@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "‘র‍্যাঞ্চো’ কি সোনম ওয়াংচুক নন? 'আমরা তো ওকে চিনতামই না', দীর্ঘদিনের ভুল ভাঙালেন আমির",
+    "desc": "সোনম নিজেও বলেছিলেন, তাঁর জীবন থেকে অনুপ্রাণিত থ্রি ইডিয়টস। যদিও ছবির গল্পের সঙ্গে তাঁর মিল নেই। তবে ‘বাস্তবের র‍্যাঞ্চো’ বলেই সোনমকে চেনে গোটা দেশ। তবে আমিরের সাফ কথা, থ্রি ইডিয়টস-এর ফুংসুখ ওয়াংডু চরিত্রটি সোনম ওয়াংচুকের নয়।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/aamir-khan-says-his-3-idiots-role-not-based-on-wangchuk-amid-his-hunger-strike_662796.html ",
+    "time": "2026-07-17T10:17:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CBSE-তে ক্লাস নাইন থেকে চালু হবে তৃতীয় ভাষা? কেন্দ্রকে স্পষ্ট নির্দেশ সুপ্রিম কোর্টের",
+    "desc": "আদালতের স্পষ্ট বক্তব্য, ভাষাশিক্ষার উদ্যোগ নেওয়া ভালো, কিন্তু তার বাস্তবায়ন যুক্তিপূর্ণ হওয়া উচিত। বিচারপতি আর মহাদেবন এবং বিচারপতি বি ভি নাগরত্না-এর ডিভিশন বেঞ্চ বলে, যদি তৃতীয় ভাষা চালু করতেই হয়, তাহলে তা পঞ্চম বা ষষ্ঠ শ্রেণি থেকেই শুরু করা উচিত।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/supreme-court-says-cbse-not-to-start-third-language-in-class-9_662792.html ",
+    "time": "2026-07-17T09:14:09.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "২০ দিনে পড়ল অনশন, গলছে শরীরের পেশি! বিকল হতে পারে অঙ্গপ্রত্যঙ্গ, তাও অনড় সোনম ওয়াংচুক",
     "desc": "দীর্ঘ অনশনের জেরে সোনম ওয়াংচুকের শারীরিক পরিস্থিতি সংকটজনক। চিকিৎসকদের মতে, শরীরে গ্লুকোজ ও মেদ শেষ হয়ে যাওয়ায় এখন ওঁর মাংসপেশি গলতে শুরু করেছে। রক্তে কিটোন ও ইউরিক অ্যাসিডের মাত্রা অত্যন্ত উদ্বেগজনক। চিকিৎসকদের আশঙ্কা, দ্রুত অনশন না ভাঙলে যেকোনো মুহূর্তে ওঁর লিভার বা কিডনির মতো গুরুত্বপূর্ণ অঙ্গপ্রত্যঙ্গ বিকল হতে পারে।",
@@ -106,15 +124,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/supreme-court-directed-to-follow-a-new-handbook-on-handling-physical-offence-cases-while-raising-concerns-over-attempt-to-rape_662440.html ",
     "time": "2026-07-15T11:14:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "অগ্রোহা ধামে পঞ্চভূতে বিলীন নন্দ কিশোর গোয়েঙ্কা, বাবার স্মৃতিতে ১০০ কোটির বিশ্ববিদ্যালয় গড়ার ঘোষণা ড.সুভাষ চন্দ্রের",
-    "desc": "বাবার আদর্শ ও সমাজসেবামূলক ঐতিহ্যকে চিরজাগ্রত রাখতে গোয়েঙ্কা উদ্যানে দাঁড়িয়ে এক যুগান্তকারী ঘোষণা করলেন ড. সুভাষ চন্দ্র। তিনি জানান, ৪ ভাই মিলে সিদ্ধান্ত নিয়েছেন যে বাবার স্মৃতিতে অগ্রোহা ধামে ৩২ একর জমির ওপর প্রায় ১০০ কোটি টাকা ব্যয়ে গড়ে তোলা হবে \"শ্রী নন্দ কিশোর গোয়েঙ্কা বিশ্ববিদ্যালয়\"।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/subhash-chandra-announces-hundred-crore-nand-kishore-goenka-university-agroha-hisar_662396.html ",
-    "time": "2026-07-15T09:53:40.000Z"
   },
   {
     "cat": "Entertainment",
@@ -234,15 +243,6 @@ const newsData_bn = [
     "time": "2026-07-09T15:15:23.000Z"
   },
   {
-    "cat": "World",
-    "title": "তুমি জানো, তোমাকে কী করতে হবে, চালিয়ে যাও: বলেই উড়ন্ত বিমান থেকে নীচে বীভৎস মরণঝাঁপ, উফ্!",
-    "desc": "নিহতের নাম লিয়ান্দ্রো আন্দ্রেস বেরতাজ্জো। যিনি অত্যন্ত অভিজ্ঞ এক ফ্লাইট ইন্সট্রাক্টর ছিলেন। তিনি সহসা একাজ করলেন কেন? জানা গিয়েছে, বেরতাজ্জো ‘সেসনা ১৫০’ মডেলের এক প্রশিক্ষণ-বিমানে রোজারিও নামের ২২ বছর বয়সি এক ছাত্রকে নিয়ে আকাশে উড়ছিলেন। ব্যস, তারপরই...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/jump-from-plane-flight-instructor-jumps-to-death-from-plane-mid-training-student-lands-safely_661670.html ",
-    "time": "2026-07-09T12:13:11.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "গুরুতর অসুস্থ অভিনেতা রাজেশ শর্মা: ভর্তি হাসপাতালে, কী হয়েছে? উদ্বিগ্ন চলচ্চিত্রমহল",
     "desc": "পারিবারিক সূত্রে জানা গেছে, ওই সংক্রমণের প্রভাবেই রাজেশের সুগার লেভেল এক ধাক্কায় অনেকটা বেড়ে যায় (shoot up) সঙ্গে তাঁর তীব্র শ্বাসকষ্টের সমস্যাও (breathing trouble) শুরু হয়। সংক্রমণ দ্রুত ছড়িয়ে পড়ে তাঁর পায়ের হাঁটু পর্যন্ত পৌঁছে গিয়েছে।",
@@ -268,5 +268,23 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/amit-shah-suvendu-adhikari-courtesy-visit-prosenjit-chatterjee-kolkata_661234.html ",
     "time": "2026-07-06T12:55:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
+    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
+    "time": "2026-06-01T03:50:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
+    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
+    "time": "2026-05-23T05:15:29.000Z"
   }
 ];
