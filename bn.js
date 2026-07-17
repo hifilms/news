@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "চিকিৎসায় অবহেলায় মৃত ধর্ষিতা শিশু: নামের আগে 'ডাক্তার' শব্দ মুছে ফেলুন, তুলোধোনা সুপ্রিম কোর্টের",
+    "desc": "\"গরিব বলে চিকিৎসা করলেন না? নামের আগে থেকে ডাক্তার শব্দটাই মুছে দিন!\" গাজিয়াবাদে ৪ বছরের এক ধর্ষিতা শিশুকে ফিরিয়ে দেওয়ার জেরে তার মৃত্যুর ঘটনায় দুই বেসরকারি হাসপাতালকে নজিরবিহীন ভাষায় তুলোধোনা করলেন সুপ্রিম কোর্টের প্রধান বিচারপতি সূর্য কান্ত। কাঠগড়ায় পুলিসের ভূমিকাও। নির্যাতিতার পরিবারকে জরিমানা দেওয়ার নির্দেশ শীর্ষ আদালতের।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/supreme-court-raps-ghaziabad-hospitals-child-rape-murder-case-cji-surya-kant_662834.html ",
+    "time": "2026-07-17T14:53:16.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "৭২০-র মধ্যে ৭১৫! কোন মন্ত্রে এমন অবিশ্বাস্য সফল NEET-টপার আরিয়ান? ফাঁস করলেন রহস্য",
     "desc": "রেজাল্ট বেরনোর পরে কী বললেন নিট টপার আরিয়ান গুপ্ত? আমি ১৭ ঘণ্টা করে পড়েছি! পরিশ্রম কখনও বিফলে যায় না। নিট ইউজি বাতিল হওয়ায় সারাদিন কেঁদেছিলাম! সেই বাধা ও শোক কাটিয়ে কোন মন্ত্রে প্রথম হলেন আরিয়ান?",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -106,33 +115,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/sonam-wangchuk-hunger-strike-day-18-neet-ug-protest-bollywood-support_662530.html ",
     "time": "2026-07-15T15:52:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "রথযাত্রায় ব্রাহ্মণদের হাতে পূজিত হন না জগন্নাথ দেব! 'গুপ্ত মহাপ্রসাদে'র রহস্যই বা কী? জানুন পুরী ধামের অজানা বিস্ময়কর তথ্য",
-    "desc": "প্রাণ প্রতিষ্ঠার সময় সম্পূর্ণ অন্ধকার ঘরে, নিজের চোখ-হাত কাপড় দিয়ে বেঁধে পুরনো মূর্তির ভিতর থেকেরহস্যময় বস্তু বের করে নতুন মূর্তিতে স্থাপন করেন মন্দিরের এক প্রবীণ সেবাইত। জগন্নাথদেব আজ যেভাবে পূজিত হন, তাঁর শুরুটা ব্রাহ্মণদের হাত ধরে হয়নি।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/puri-jagannath-rath-yatra-2026-know-the-unknown-facts-about-lord-jagannath_662501.html ",
-    "time": "2026-07-15T13:19:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "জাগতিক নিয়মের ব্যতিক্রম! পুরী জগন্নাথ মন্দিরের নীলচক্র অলৌকিকতা ও বৈজ্ঞানিক রহস্যের এক মেলবন্ধন",
-    "desc": "প্রায় ২১ ফুট উঁচু এবং সাড়ে ১১ ফুট পরিধির এই বিশাল অষ্টধাতুর চক্রটিকে ঘিরে রয়েছে এমন কিছু অলৌকিক ও বৈজ্ঞানিক রহস্য, যার স্পষ্ট ব্যাখ্যা আজও আধুনিক বিজ্ঞানের কাছে নেই। গত ৮০০ বছর ধরে একদিনের জন্যও বন্ধ হয়নি পুরী মন্দিরের এই প্রথা।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/puri-jagannath-rath-yatra-2026-mystery-of-chakra-in-puri-jagannath-temple_662477.html ",
-    "time": "2026-07-15T12:47:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'সালোয়ার খোলার চেষ্টা কি ধর্ষণের চেষ্টা নয়?', যৌন হেনস্থা মামলায় বিতর্কিত পর্যবেক্ষণ খারিজ, ক্ষুব্ধ শীর্ষ আদালত",
-    "desc": "যৌন অপরাধের মামলায় নিম্ন আদালতের কিছু বিতর্কিত ও সংবেদনহীন রায়ের পরিপ্রেক্ষিতে বিচারকদের আরও সহানুভূতিশীল হওয়ার নির্দেশ দিয়েছে সুপ্রিম কোর্ট। শীর্ষ আদালত স্পষ্ট করেছে, শুনানিতে লিঙ্গবৈষম্যমূলক ভাষা বা আচরণ বর্জন করতে হবে। এই লক্ষ্যে দেশের সমস্ত আদালত ও পুলিসের জন্য একটি বিশেষ নির্দেশিকা ও হ্যান্ডবুক অনুমোদন করা হয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/supreme-court-directed-to-follow-a-new-handbook-on-handling-physical-offence-cases-while-raising-concerns-over-attempt-to-rape_662440.html ",
-    "time": "2026-07-15T11:14:34.000Z"
   },
   {
     "cat": "Entertainment",
@@ -277,5 +259,23 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/amit-shah-suvendu-adhikari-courtesy-visit-prosenjit-chatterjee-kolkata_661234.html ",
     "time": "2026-07-06T12:55:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
+    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
+    "time": "2026-06-01T03:50:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
+    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
+    "time": "2026-05-23T05:15:29.000Z"
   }
 ];

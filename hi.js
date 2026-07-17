@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Gary Sobers dies at 89, legendary cricketer was first to hit six sixes in List A match",
+    "desc": "Sir Garry Sobers, widely regarded as one of the greatest cricketers in history and the finest all-rounder the game has produced, has died at the age of 89. The former West Indies captain, celebrated for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/legendary-west-indies-cricketer-gary-sobers-dies-at-89-2026-07-17-1048603",
+    "time": "2026-07-17T15:07:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ravi Shastri reminds Rohit Sharma's impact in ODIs amid talks of possible retirement after Lord's ODI",
+    "desc": "England beat India by four wickets in the second ODI at Sophia Gardens in Cardiff, chasing down a target of 234 with Joe Root anchoring the innings on an unbeaten 99. Earlier in the day,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ravi-shastri-reminds-rohit-sharma-s-impact-in-odis-amid-talks-of-possible-retirement-after-lord-s-odi-2026-07-17-1048599",
+    "time": "2026-07-17T14:31:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Andy Flower says no to England Test coach role, says happy with his role in RCB, London Spirit",
+    "desc": "Andy Flower will not return as England's Test head coach. The former England coach has withdrawn from contention for the vacant position despite holding discussions with the England and Wales Cricket Board after Brendon McCullum...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/andy-flower-says-no-to-england-test-coach-role-says-happy-with-his-role-in-rcb-london-spirit-2026-07-17-1048594",
+    "time": "2026-07-17T13:46:58.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Star India cricketer ruled out of the third ODI vs England at Lord's, Kuldeep Yadav can finally return",
     "desc": "Washington Sundar has been ruled out of the third ODI against England, set to be played at the iconic Lord’s on July 19. He has been a three-format cricketer for India lately and scored a...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-s-batting-coach-throws-weight-behind-rohit-sharma-amid-struggles-with-the-bat-2026-07-17-1048532",
     "time": "2026-07-17T06:18:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Luke Ronchi set to step down as New Zealand's batting coach after India series, slated for huge BBL move",
-    "desc": "In a major development, New Zealand’s batting coach Luke Ronchi is all set to step down from his role in the national team after the end of the side’s home series against the Indian team....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/luke-ronchi-set-to-step-down-as-new-zealand-s-batting-coach-after-india-series-slated-for-huge-bbl-move-2026-07-17-1048520",
-    "time": "2026-07-17T04:45:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "FIFA confirms match officials for upcoming World Cup 2026 final; Check details",
-    "desc": "The stage is set for the FIFA World Cup 2026 final. 2010 champions Spain will be taking on three-time winners Argentina in the summit clash of the tournament at the New York New Jersey Stadium...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/fifa-confirms-match-officials-for-upcoming-world-cup-2026-final-check-details-2026-07-17-1048516",
-    "time": "2026-07-17T03:48:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Quite disappointing': Shubman Gill opens up after England level ODI series with stellar victory in Cardiff",
-    "desc": "The Indian team succumbed to a hefty loss in the second ODI of the ongoing three-game series. The two sides met at Sophia Gardens in Cardiff on July 16th, and after a win in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/quite-disappointing-shubman-gill-opens-up-after-england-level-odi-series-with-stellar-victory-in-cardiff-2026-07-17-1048507",
-    "time": "2026-07-17T02:23:48.000Z"
   }
 ];
