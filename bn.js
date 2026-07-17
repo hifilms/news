@@ -1,6 +1,24 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "২০ দিনে পড়ল অনশন, গলছে শরীরের পেশি! বিকল হতে পারে অঙ্গপ্রত্যঙ্গ, তাও অনড় সোনম ওয়াংচুক",
+    "desc": "দীর্ঘ অনশনের জেরে সোনম ওয়াংচুকের শারীরিক পরিস্থিতি সংকটজনক। চিকিৎসকদের মতে, শরীরে গ্লুকোজ ও মেদ শেষ হয়ে যাওয়ায় এখন ওঁর মাংসপেশি গলতে শুরু করেছে। রক্তে কিটোন ও ইউরিক অ্যাসিডের মাত্রা অত্যন্ত উদ্বেগজনক। চিকিৎসকদের আশঙ্কা, দ্রুত অনশন না ভাঙলে যেকোনো মুহূর্তে ওঁর লিভার বা কিডনির মতো গুরুত্বপূর্ণ অঙ্গপ্রত্যঙ্গ বিকল হতে পারে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/sonam-wangchuk-enters-day-20-of-hunger-strike-lost-more-than-nine-kgs-doctors-warn-of-organ-failure_662787.html ",
+    "time": "2026-07-17T07:35:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "দৌড় শুরু দেশের প্রথম হাইড্রোজেন ট্রেনের: মাত্র ৫ টাকার টিকিটেই বিলাসী যাত্রা, ছুটবে কত স্পিডে? গ্রিন ইঞ্জিনের বিজ্ঞান জানুন",
+    "desc": "এই প্রথমবার ভারতীয় রেলে হাইড্রোজেন ফুয়েল সেল প্রযুক্তি ব্যবহার করা হচ্ছে। ডিজাইন তৈরি থেকে শুরু করে প্রোটোটাইপ তৈরি পর্যন্ত সম্পূর্ণ দেশীয়ভাবে এই ট্রেন তৈরি করা হয়েছে। জানুন দেশের প্রথম হাইড্রোজেন ট্রেনের ভাড়া, গতি, রুট, স্টপেজ। কীভাবে চলবে হাইড্রোজেন ট্রেন? গ্রিন ইঞ্জিনের বিজ্ঞান কী?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/pm-modi-flags-off-india-first-hydrogen-train-route-fare-speed-stations-and-the-science-behind-the-green-engine_662779.html ",
+    "time": "2026-07-17T07:05:40.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "বিশিষ্ট সমাজসেবী নন্দকিশোর গোয়েঙ্কার প্রয়াণ: অশ্রুসজল চোখে শেষ বিদায়, শোকপ্রকাশ স্বরাষ্ট্রমন্ত্রীর",
     "desc": "বিশিষ্ট সমাজসেবী তথা এসেল গ্রুপের চেয়ারম্যান ডক্টর সুভাষ চন্দ্রার পিতা শ্রদ্ধেয় নন্দকিশোর গোয়েঙ্কা মহাশয়ের প্রয়াণে আমরা গভীরভাবে শোকাহত। গত ১৩ জুলাই মুম্বইয়ে শেষনিঃশ্বাস ত্যাগ করেন তিনি। ১৫ জুলাই অশ্রুসজল চোখে সম্পন্ন হলো তাঁর অন্তিম সংস্কার। তাঁর প্রয়াণে গভীর শোকপ্রকাশ করেছেন দেশের প্রধানমন্ত্রী নরেন্দ্র মোদী, স্বরাষ্ট্রমন্ত্রী অমিত শাহ এবং কেন্দ্রীয় মন্ত্রী অর্জুন রাম মেঘওয়াল। প্রয়াত পুণ্যাত্মার চিরশান্তি কামনা করি এবং শোকসন্তপ্ত পরিবারের প্রতি জানাই গভীর সমবেদনা।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -97,15 +115,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/subhash-chandra-announces-hundred-crore-nand-kishore-goenka-university-agroha-hisar_662396.html ",
     "time": "2026-07-15T09:53:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বুকে বিঁধল গুলি, মৃত্যুর মুখে ক্ষেতমজুর: বাঘেশ্বর বাবার ধাম ঘিরে ভয়ংকর ঘটনা, খুনের চেষ্টার মামলা? তোলপাড় রাজ্য",
-    "desc": "আহত কৃষকের অভিযোগ, শালীগ্রাম প্রায়শই স্থানীয় কৃষকদের জমি বিক্রি করার জন্য চাপ দেন এবং যারা রাজি হন না, তাদের হুমকি ও মারধর করা হয়। এই ঘটনায় শালীগ্রাম গর্গ ছাড়াও সতীশ, আশীষ এবং অন্য এক অজ্ঞাতপরিচয় ব্যক্তির নাম উল্লেখ করা হয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/bageshwar-dham-chief-dhirendra-shastri-brother-charged-for-shooting-at-farmer-over-land-dispute_662389.html ",
-    "time": "2026-07-15T08:38:50.000Z"
   },
   {
     "cat": "Entertainment",
@@ -259,23 +268,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/amit-shah-suvendu-adhikari-courtesy-visit-prosenjit-chatterjee-kolkata_661234.html ",
     "time": "2026-07-06T12:55:17.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
-    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
-    "time": "2026-06-01T03:50:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
-    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
-    "time": "2026-05-23T05:15:29.000Z"
   }
 ];

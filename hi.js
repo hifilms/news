@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "All you need to know about Argentina vs Spain FIFA World Cup final 2026",
+    "desc": "The stage is set for the summit clash of the ongoing FIFA World Cup 2026; 2010 champions Spain will be taking on three-time champions Argentina. The two sides will meet at the New York New...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/all-you-need-to-know-about-argentina-vs-spain-fifa-world-cup-final-2026-check-schedule-match-ups-records-2026-07-17-1048540",
+    "time": "2026-07-17T07:27:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India's batting coach throws weight behind Rohit Sharma amid struggles with the bat",
+    "desc": "The Indian team succumbed to a hefty loss against England in the second ODI of the ongoing three-game series. After winning the first game, the Men in Blue failed to get the job done in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-s-batting-coach-throws-weight-behind-rohit-sharma-amid-struggles-with-the-bat-2026-07-17-1048532",
+    "time": "2026-07-17T06:18:45.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Luke Ronchi set to step down as New Zealand's batting coach after India series, slated for huge BBL move",
     "desc": "In a major development, New Zealand’s batting coach Luke Ronchi is all set to step down from his role in the national team after the end of the side’s home series against the Indian team....",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/mithali-raj-calls-for-new-india-captain-questions-harmanpreet-s-fitness-while-advocating-for-smriti-mandhana-2026-07-16-1048491",
     "time": "2026-07-16T17:23:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Legendary Australia cricketer announces domestic retirement, to represent Portugal in European qualifiers",
-    "desc": "Moises Henriques has brought the curtain down on a 22-year domestic career with New South Wales and the Sydney Sixers, walking away as the most-capped player in Australian domestic cricket history. The 39-year-old all-rounder's exit...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/legendary-australia-cricketer-announces-domestic-retirement-to-represent-portugal-in-european-qualifiers-2026-07-16-1048483",
-    "time": "2026-07-16T16:18:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli breaks Sachin Tendulkar's legendary record with half-century against England in Cardiff",
-    "desc": "Star India batter Virat Kohli once again produced a dominant show with the bat in the second ODI against England at Sophia Gardens in Cardiff. Despite losing Rohit Sharma and Ishan Kishan in quick succession,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-breaks-sachin-tendulkar-s-legendary-record-with-half-century-against-england-in-cardiff-2026-07-16-1048478",
-    "time": "2026-07-16T15:48:39.000Z"
   }
 ];

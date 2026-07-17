@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "2002ના ભયાનક દુષ્કાળની યાદ તાજી! 2026માં ચોમાસાએ તોડ્યો રેકોર્ડ, IMDના રિપોર્ટે વધારી દેશની ચિંતા",
+    "desc": "2026મા ચોમાસું રૂઠી જવાથી દેશ પર 2002 જેવા ભયાનક દુષ્કાળનું સંકટ ઉભું થયું છે. જુલાઈના મધ્યમાં વરસાદની અછત રેકોર્ડ 24 ટકા સુધી પહોંચી ગઈ છે. હવામાન વિભાગના આ ડરામણા રિપોર્ટે બધાને ચોંકાવી દીધા છે. હવામાન વૈજ્ઞાનિકોએ ચેતવણી આપી છે કે તેની પાછળ અલ નીનોનો ખતરનાક ખેલ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/haunting-memories-of-the-2002-drought-monsoon-shatters-records-in-2026-imd-issues-shocker-report-484919 ",
+    "time": "2026-07-17T08:00:58.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "તેલના તોફાને સોનાની ચમક ફિક્કી કરી! આજે પણ ભાવ ઘટ્યા, ચાંદી પણ ફિક્કી પડી, જાણો કેરેટ પ્રમાણે ભાવ",
+    "desc": "સોના અને ચાંદીમાં ભારે ઉતાર ચડાવ જોવા મળી રહ્યા છે. વાયદા બજારમાં હાલ સોનું લીલા નિશાનમાં રિકવરી કરી રહ્યું છે પરંતુ રિટેલ બજારમાં તો સોનું ગગડી ગયું છે. ચાંદી પણ ફિક્કી પડી છે. જો તમે લેવાનું વિચારતા હોવ તો ફટાફટ લેટેસ્ટ રેટ ચેક કરો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-silver-prices-fell-today-check-retail-rates-also-mcx-aaj-no-sona-chandi-no-bhav-484918 ",
+    "time": "2026-07-17T07:57:44.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Hormuz માં તણાવ વધ્યો તો ભારતમાં સૌથી પહેલા શું મોંઘુ થશે? અહીં જાણો AtoZ વિગત",
+    "desc": "જો સ્ટ્રેટ ઓફ હોર્મુઝમાં તણાવ વધે છે તો તેની સીધી અસર ભારતની અર્થવ્યવસ્થા અને સામાન્ય લોકોના ખિસ્સા પર પડી શકે છે. એક્સપર્ટ પ્રમાણે ક્રૂડ ઓયલ 90 ડોલર પ્રતિ બેરલ સુધી પહોંચી શકે છે, જેમાં એલપીજી, પેટ્રોલ-ડીઝલ, ફ્લાઇટ ટિકિટ સુધીની અન્ય વસ્તુ મોંઘી થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/hormuz-crisis-what-will-get-costlier-in-india-first-the-full-breakdown-from-lpg-to-flight-tickets-484914 ",
+    "time": "2026-07-17T07:19:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ગોવિંદાની ફિલ્મ રુપાનું નામ આવતાં ભડકી સુનિતા આહુજા, ગોવિંદાનું નામ લેવાનું પણ ટાળ્યું",
+    "desc": "જે રીતે રુપા ફિલ્મના લોન્ચ સમયે ગોવિંદાએ સુનિતાનું નામ લેવાનું ટાળ્યું અને કહ્યું કે બસ રુપા ફિલ્મની જ વાત કરો મારા પૈસા લાગ્યા છે. તે ભાષામાં જ સુનિતા આહુજાએ ગોવિંદાને જવાબ આપ્યો છે. અને સુનિતા આહુજાએ કહ્યું છે કે રુપા ફિલ્મને છોડો તેની ફિલ્મની જ વાત કરો કારણ કે એકતા કપૂરના પૈસા લાગ્યા છે ફિલ્મમાં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/govinda-and-sunita-ahuja-family-dispute-know-what-sunita-ahuja-said-for-govinda-film-roopa-484913 ",
+    "time": "2026-07-17T06:49:19.000Z"
+  },
+  {
     "cat": "World",
     "title": "અમેરિકાની ચૂંટણીમાં ચીનની મોટી ઘૂસણખોરી? 22 કરોડ મતદારોનો ડેટા ચોરાયો હોવાનો ટ્રમ્પનો દાવો",
     "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે હવે ચીન પર નવા અને ચોંકાવનારા દાવા કરીને ખળભળાટ મચાવી દીધો છે. ટ્રમ્પે દેશના નામે સંબોધનમાં ચીન પર 22 કરોડ અમેરિકી મતદારોના ડેટા ચોરી કરવાનો આરોપ લગાવ્યો છે. જેને તેમણે ઈતિહાસનું સૌથી મોટું ડેટા કોમ્પ્રોમાઈઝ ગણાવ્યું હતું.",
@@ -333,15 +369,6 @@ const newsData_gu = [
     "time": "2026-07-15T08:15:57.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "E20 પેટ્રોલ પર ગડકરીનો સ્પષ્ટ સંદેશ! પસંદ ન હોય તો 100% પેટ્રોલ લઈ શકો, પણ વધુ ખર્ચ કરવો પડશે",
-    "desc": "E20 પેટ્રોલ એટલે કે 20 ટકા ઈથેનોલ બ્લેન્ડેડ ફ્યૂલ અંગે સોશિયલ મીડિયા પર અલગ અલગ દાવા થઈ રહ્યા છે. આ બધા વચ્ચે કેન્દ્રીય મંત્રી નીતિન ગડકરએ જણાવ્યું કે જે લોકોને 100 ટકા પેટ્રોલ જોઈતું હોય તેઓ વધુ પૈસા ચૂકવીને ખરીદી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/nitin-gadkari-speaks-on-e20-petrol-know-what-did-he-say-484664 ",
-    "time": "2026-07-15T07:28:18.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ફૂટબોલ વર્લ્ડ કપમાં હાર બાદ ફ્રાન્સમાં હિંસા, રસ્તાઓ પર આગજની અને તોડફોડ",
     "desc": "2026ના ફૂટબોલ વર્લ્ડ કપમાં સ્પેન સામે ફ્રેન્ચ ટીમનો એકતરફી પરાજય થયો હતો. ટીમના ચાહકો આ પરાજય સહન કરી શક્યા નહીં અને ફ્રાન્સમાં અશાંતિ ફેલાઈ ગઈ. ચાહકોના ટોળા રસ્તા પર ઉતરી આવ્યા અને અનેક જગ્યાએ ગાડીઓને આગ ચાંપી દીધી.",
@@ -358,15 +385,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/football-world-cup-2026-spain-beats-france-these-3-players-are-heroes-of-the-victory-484642 ",
     "time": "2026-07-15T05:39:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "મોટી રાહતના સમાચાર! આજથી બિસ્કિટ, સ્કૉચ, કોસ્મેટિક્સ અને કારો સહિત અનેક વસ્તુઓ થશે સસ્તી",
-    "desc": "ભારત અને યુકે વચ્ચે ફ્રી ટ્રેડ એગ્રીમેન્ટનો સૌથી મોટો ફાયદો ભારતના એક્સપોર્ટ સેક્ટરને મળવાનો છે. ભારત હવે પોતાના લગભગ 99 ટકા સામાનને યુકેમાં કોઈ પણ ઈમ્પોર્ટ ટેક્સ વગર મોકલી શકશે. એ પણ જાણો કે આજથી કઈ કઈ વસ્તુઓ ભારતમાં સસ્તી મળશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/big-news-india-uk-trade-deal-in-effect-what-will-be-cheaper-and-which-sectors-gain-the-most-484654 ",
-    "time": "2026-07-15T05:36:43.000Z"
   },
   {
     "cat": "Sports",
@@ -421,24 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/gold-prices-fall-while-silver-rises-on-ibja-check-mcx-latest-rates-aaj-no-sona-chandi-no-bhav-484593 ",
     "time": "2026-07-14T09:23:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "આ IPO પર રોકાણકારો ફિદા, એક જ કલાકમાં ભરાઈ ગયો, 300 રૂપિયા ચાલી રહ્યો છે GMP",
-    "desc": "મંગળવારે ખુલતાની સાથે જ આ કંપનીનો IPO ઓવરસબ્સ્ક્રાઇબ થઈ ગયો હતો. સવારે 11 વાગ્યા સુધીમાં, કંપનીનો IPO 1.74 ગણો ઓવરસબ્સ્ક્રાઇબ થઈ ગયો હતો. IPOમાં કંપનીના શેર 331 રૂપિયા હતા, અને ગ્રે માર્કેટમાં કંપનીના શેર 300 રૂપિયાના પ્રીમિયમ પર ટ્રેડ થઈ રહ્યા હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/investors-are-excited-about-this-ipo-it-was-filled-in-just-one-hour-gmp-is-running-at-rs-300-484584 ",
-    "time": "2026-07-14T07:24:52.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "માતા તરફથી મળેલી ગિફ્ટ કે રોકડ પર ટેક્સ લાગશે કે નહીં? જાણો શું છે ઇન્કમ ટેક્સના કાયદા",
-    "desc": "જો તમારા માતાએ તેમને ગિફ્ટ કે પૈસા આપ્યા છે, તો શું તેના પર ટેક્સ લગાવી શકાય છે? હૈદરાબાદ ITAT એ તાજેતરના નિર્ણયમાં સ્પષ્ટ કર્યું કે જો બેંક રેકોર્ડ, ગિફ્ટ ડીડ કે ગિફ્ટ લેટર અને પૈસાના સ્ત્રોતના પુરાવા ઉપલબ્ધ છે તો આવી ગિફ્ટને અઘોષિત રોકાણ ન માની શકાય. માતાએ આપેલી ગિફ્ટ પર શું નિયમ લાગુ થાય છે અને ક્યા દસ્તાવેજ સંભાળી રાખવા જરૂરી છે, આવો તેને સમજીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/tax-alert-is-cash-received-from-your-mother-tax-free-essential-documents-you-need-to-keep-484583 ",
-    "time": "2026-07-14T07:09:20.000Z"
   },
   {
     "cat": "World",
