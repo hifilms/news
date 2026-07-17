@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "ICC shakes qualification pathway ahead of ODI World Cup 2027, announces revised model",
+    "desc": "The International Cricket Council (ICC) has restricted the qualification path for the 2027 ODI World Cup. As per the latest development, the winner of the qualifier, which is hosted between 10 nations, will secure direct...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/icc-shake-qualification-pathway-ahead-of-odi-world-cup-2027-announces-revised-model-2026-07-18-1048619",
+    "time": "2026-07-17T19:26:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bangladesh openers set momentum before Saifuddin steals show as they defeated Zimbabwe in second T20I",
+    "desc": "Bangladesh defeated Zimbabwe by 34 runs in the second T20I of the series in Bulawayo. Batting first, the Bangla Tigers posted 186 runs on the board and, in reply, managed to restrict the Chevrons to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-openers-set-momentum-before-saifuddin-stole-show-as-they-defeated-zimbabwe-in-second-t20i-2026-07-18-1048618",
+    "time": "2026-07-17T19:03:25.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "England release two cricketers ahead of series finale against India at Lord's, here's why",
     "desc": "English all-rounders Liam Dawson and Tom Banton have left the England ODI squad ahead of the series finale against India at the iconic Lord’s on July 19. The pair will rather feature in the T20...",
     "img": "",
@@ -28,7 +46,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Gary Sobers dies at 89, legendary cricketer was first to hit six sixes in List A match",
+    "title": "Gary Sobers dies at 89, legendary cricketer was first to hit six sixes in First Class cricket",
     "desc": "Sir Garry Sobers, widely regarded as one of the greatest cricketers in history and the finest all-rounder the game has produced, has died at the age of 89. The former West Indies captain, celebrated for...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/fifa-introduce-championship-rings-for-world-cup-winners-1996-fans-can-purchase-too-2026-07-17-1048580",
     "time": "2026-07-17T11:52:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What is the story behind Lamine Yamal's viral childhood picture with Lionel Messi? Check details",
-    "desc": "The FIFA World Cup 2026 final is right around the corner. Spain is slated to take on defending champions Argentina in the summit clash of the tournament at the New York New Jersey Stadium on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/what-is-the-story-behind-lamine-yamal-s-viral-childhood-picture-with-lionel-messi-check-details-2026-07-17-1048572",
-    "time": "2026-07-17T10:33:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mohammad Nawaz sanctioned by the ICC, found in breach of anti-doping code",
-    "desc": "In a major development, Pakistan’s spinner Mohammad Nawaz has been heavily sanctioned by the ICC (International Cricket Council) as he was found in breach of the ICC’s anti-doping code. As a result, he has accepted...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mohammad-nawaz-sanctioned-by-the-icc-found-in-breach-of-anti-doping-code-2026-07-17-1048553",
-    "time": "2026-07-17T08:44:44.000Z"
   }
 ];

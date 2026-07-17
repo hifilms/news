@@ -1,5 +1,113 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Tom Cruise shows off football skills in World Cup promo",
+    "desc": "Tom Cruise released a promotional video for his upcoming film 'Digger' while showcasing football skills. He will also make a special appearance at the FIFA World Cup 2026 closing ceremony. The star-studded event will feature global performers before the final match. 'Digger' follows a powerful man on a mission to save humanity from disaster. The film is scheduled for theatrical release on October 2.",
+    "img": "https://static.toiimg.com/photo/msid-132469731,imgsize-94020.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-cruise-unveils-world-cup-promo-for-digger-shows-off-football-skills-ahead-of-appearance-at-closing-ceremony-watch/articleshow/132469704.cms",
+    "time": "2026-07-17T21:40:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Argentina stars miss World Cup final under FIFA rules? Decision looms over Falklands banner celebration",
+    "desc": "Argentina’s World Cup final preparations have been overshadowed by a FIFA disciplinary review after players displayed a Falklands-related banner during celebrations after beating England. FIFA is assessing the incident under regulations banning political messages, with possible sanctions ranging from fines to suspensions. However, no decision has been announced, and reports suggest final-related player bans remain unlikely.",
+    "img": "https://static.toiimg.com/photo/msid-132469712,imgsize-251002.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/will-argentina-stars-miss-world-cup-final-under-fifa-rules-decision-looms-over-falklands-banner-celebration/articleshow/132469637.cms",
+    "time": "2026-07-17T21:23:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court",
+    "desc": "The Supreme Court has mandated states to construct washrooms for women lawyers. This directive addresses a significant human rights and health issue for advocates. States are given a six-week deadline to complete the construction of these facilities. The court rejected pleas of fund paucity, suggesting alternative revenue sources. This action aims to ensure women lawyers can practice with dignity and health.",
+    "img": "https://static.toiimg.com/photo/msid-132469719,imgsize-1015725.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/build-toilets-for-women-in-courts-in-6-weeks-supreme-court/articleshow/132469716.cms",
+    "time": "2026-07-17T21:21:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Fees at non-profit medical colleges not regulated, among highest",
+    "desc": "National Medical Commission regulations have changed regarding medical college establishment. Previously, only Section 8 companies could set up medical colleges. Now, all companies incorporated under the Companies Act can establish medical institutions. This shift follows earlier amendments allowing private companies to enter medical education. The government aims to increase transparency and revenue through this policy.",
+    "img": "https://static.toiimg.com/photo/msid-132469691,imgsize-825091.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/fees-at-non-profit-medical-colleges-not-regulated-among-highest/articleshow/132469684.cms",
+    "time": "2026-07-17T20:56:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Unlike last time, DMK is clear it won’t follow Congress",
+    "desc": "Political momentum builds for the government's Constitution amendment bill. DMK and NCP (SP) signals suggest support for the upcoming legislation. This comes after recent political realignments and party splits. The government plans to incorporate changes to assure fence-sitters. The bill aims to increase Lok Sabha seats and implement women's reservation.",
+    "img": "https://static.toiimg.com/photo/msid-132469670,imgsize-85595.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/unlike-last-time-dmk-is-clear-it-wont-follow-congress/articleshow/132469668.cms",
+    "time": "2026-07-17T20:51:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Spain vs Argentina road to final",
+    "desc": "With the FIFA World Cup 2026 final just days away, fans are on the edge of their seats as the world’s top-ranked team, Argentina, prepares to face Europe’s best, Spain, in a summit clash for the ages",
+    "img": "https://th-i.thgim.com/public/incoming/6pmx1t/article71233250.ece/alternates/LANDSCAPE_1200/spain-argentina.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-spain-vs-argentina-road-to-final/article71233163.ece",
+    "time": "2026-07-17T20:51:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "In Gurugram, 60 rounds, 120 seconds",
+    "desc": "On July 9, a gunfight in Gurugram’s upscale Sushant Lok left four alleged shooters dead and three policemen injured. Police said gangster Deepak Nandal ordered the attack on businessman Vishal Berry over a ₹5 crore extortion demand. Among the dead were two minors from Rohtak’s Bhalaut village with no criminal record. Ashok Kumar finds that the incident has raised questions over crime, drug use, and policing",
+    "img": "https://th-i.thgim.com/public/incoming/d8uf0o/article71234493.ece/alternates/LANDSCAPE_1200/ROHTAK%20GROUND%20ZERO%20DELHI%202026_15_07_17.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/haryana/in-gurugram-60-rounds-120-seconds/article71233904.ece",
+    "time": "2026-07-17T20:36:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "FIFA forced to ask IFAB for one-off rule exception ahead of World Cup final as detailed halftime timings revealed",
+    "desc": "FIFA's plan for a Super Bowl-style halftime show at the 2026 World Cup final between Spain and Argentina is expected to extend the interval beyond the usual 15 minutes, reportedly requiring an IFAB exemption. The break will include stage setup, a star-studded performance and pitch restoration, prompting debate over player welfare, match rhythm and football's growing focus on entertainment.",
+    "img": "https://static.toiimg.com/photo/msid-132469430,imgsize-58198.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-forced-to-ask-ifab-for-one-off-rule-exception-ahead-of-world-cup-final-as-detailed-halftime-timings-revealed/articleshow/132468940.cms",
+    "time": "2026-07-17T20:18:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress to join NC’s Jantar Mantar protest on Monday, BJP plans secretariat gherao",
+    "desc": "Jammu and Kashmir politics intensifies as the National Conference plans a protest in New Delhi. The Congress party announced its participation in the proposed sit-in demonstration. Meanwhile, the BJP has scheduled a protest against the current government's alleged corruption. Peoples Conference chief Sajad Lone questioned the timing and motives behind the protest. He suggested an assembly session and an all-party delegation instead of street protests.",
+    "img": "https://static.toiimg.com/photo/msid-132469459,imgsize-995886.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/congress-to-join-ncs-jantar-mantar-protest-on-monday-bjp-plans-secretariat-gherao/articleshow/132469303.cms",
+    "time": "2026-07-17T19:48:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Department of Space vacancy rate at 25-year high; nearly 3 in 10 posts lie vacant",
+    "desc": "India's space department faces a growing manpower crunch, with over twenty-five percent of sanctioned posts vacant. This staffing gap has widened significantly since 2019, impacting critical mission development. Recruitment processes were delayed due to Covid-19 and reforms, creating a substantial gap. Efforts are underway to fill over two thousand vacancies by late 2026. The department must rebuild its workforce while retaining experienced scientists.",
+    "img": "https://static.toiimg.com/photo/msid-132469410,imgsize-129234.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/department-of-space-vacancy-rate-at-25-yr-high-nearly-3-in-10-posts-lie-vacant/articleshow/132469400.cms",
+    "time": "2026-07-17T19:34:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Net shut, Doda on edge after man shot dead by cops in cattle smuggling stakeout",
+    "desc": "A man was shot dead in Doda district following an encounter with police personnel. Mobile internet services were suspended across the district as tensions escalated rapidly. Three police officers sustained injuries during the confrontation on Jai valley road. Locals protested the death, and a shutdown was called by a local outfit. Authorities are investigating the incident, and senior officials are present in Bhaderwah.",
+    "img": "https://static.toiimg.com/photo/msid-132469154,imgsize-71969.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/net-shut-doda-on-edge-after-man-shot-dead-by-cops-in-cattle-smuggling-stakeout/articleshow/132469031.cms",
+    "time": "2026-07-17T19:21:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Jammu court rejects accused’s bail plea",
+    "desc": "A Jammu court rejected Kamal Singh Jamwal's bail plea in the Farooq Abdullah assassination attempt case. The judge cited wider implications for public order and democratic stability in the decision. Jamwal's medical plea was also dismissed, with no evidence of mental disorder presented. Charges were formally framed against Jamwal under attempt to murder and arms act provisions. The court directed the prosecution to produce witnesses for the upcoming trial.",
+    "img": "https://static.toiimg.com/photo/msid-132468981,imgsize-98035.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/farooq-abdullah-murder-bid-jammu-court-rejects-accuseds-bail-plea/articleshow/132469010.cms",
+    "time": "2026-07-17T19:09:43.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Lamine Yamal separated from Spain squad ahead of World Cup final as federation issues update on fitness",
     "desc": "Spain have eased concerns over Lamine Yamal's fitness after the teenager trained separately ahead of the 2026 FIFA World Cup final against Argentina. The RFEF and coach Luis de la Fuente insist the session was precautionary, with Pedro Porro also on an individual programme. Both players are expected to be fit as Spain chase a fourth World Cup title on Sunday.",
@@ -20,7 +128,7 @@ const newsData_en = [
   {
     "cat": "Sports",
     "title": "'Rohit Sharma will continue to represent India; Lord's ODI won't be his last': BCCI",
-    "desc": "BCCI secretary Devajit Saikia has dismissed all retirement rumours surrounding Rohit Sharma. He firmly asserted that the Lord's ODI will not be Rohit's final match. Rohit remains an important part of India's ODI plans and will continue playing. The BCCI leadership was reportedly displeased with how the matter was handled. Rohit is currently 13 matches away from reaching 300 ODI appearances.",
+    "desc": "BCCI secretary Devajit Saikia has dismissed speculation about Rohit Sharma's ODI retirement. He confirmed that Rohit remains a regular member of India's ODI team. Rohit will continue to represent the country as long as he is in the scheme of things. The selectors are assessing all players for the 2027 World Cup preparations. Therefore, the Lord's ODI will not be Rohit's final match.",
     "img": "https://static.toiimg.com/photo/msid-132468389,imgsize-48647.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/rohit-sharma-will-continue-to-represent-india-lords-odi-wont-be-his-last-match-bcci-secretary-devajit-saikia-dismisses-retirement-rumours/articleshow/132468333.cms",
@@ -153,15 +261,6 @@ const newsData_en = [
     "time": "2026-07-17T16:31:59.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "NCP (SP) to join NDA only as part of a ‘unified NCP’: BJP tells Mahayuti allies",
-    "desc": "According to a senior office bearer of the BJP privy to the matter, the BJP high command is very clear that it does not want any insecurity among its current allies — Shinde-led Shiv Sena and the NCP — on their position within the NDA bloc",
-    "img": "https://th-i.thgim.com/public/incoming/dx8yfy/article71233878.ece/alternates/LANDSCAPE_1200/PTI07_08_2026_000650B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/maharashtra/ncp-sp-with-nda-only-part-of-unified-ncp-bjp-tells-mahayuti-allies-maharashtra-politics/article71233787.ece",
-    "time": "2026-07-17T16:22:03.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "SLC breaks silence after Manjot Kalra's arrest, vows zero tolerance for corruption",
     "desc": "Sri Lanka Cricket reaffirmed its zero-tolerance policy on corruption following an arrest. Former India U-19 star Manjot Kalra faces allegations of corrupt practice during the LPL. The ongoing investigation will not impact the tournament's scheduled continuation. Sri Lanka Cricket pledged full cooperation with the police special investigation unit. Robust anti-corruption measures remain in place to protect the league's integrity.",
@@ -178,15 +277,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/andy-burnham-confirmed-as-new-labour-leader-uk-pm-designate/article71233876.ece",
     "time": "2026-07-17T16:13:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Shia body urges govt. to secure release of detained Indian Muslims in Gulf countries",
-    "desc": "All India Shia Personal Law Board general secretary Maulana Yasoob Abbas says the Board had submitted a memorandum to PM Narendra Modi, requesting the Centre to engage diplomatically with the governments of the countries concerned and ensure their safety",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/shia-body-urges-govt-to-secure-release-of-detained-indian-muslims-in-gulf-countries/article71234656.ece",
-    "time": "2026-07-17T16:11:46.000Z"
   },
   {
     "cat": "Entertainment",
@@ -387,24 +477,6 @@ const newsData_en = [
     "time": "2026-07-17T13:01:46.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Kattar Beimaan Party': PM Modi attacks AAP on corruption, law and order at Jalandhar rally",
-    "desc": "Prime Minister Narendra Modi criticised Punjab's ruling Aam Aadmi Party for corruption allegations. He labeled the party \"Kattar Beimaan Party\" during a rally in Jalandhar. The prime minister also highlighted the state's deteriorating law and order situation. He mentioned a former AAP leader's conviction for murder during Delhi riots. Modi urged voters to elect the BJP for a prosperous Punjab.",
-    "img": "https://static.toiimg.com/photo/msid-132461962,imgsize-65566.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/kattar-beimaan-party-pm-modi-attacks-aap-on-corruption-law-and-order-at-jalandhar-rally/articleshow/132461956.cms",
-    "time": "2026-07-17T12:51:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tinnu Yadav, Manish Yadav sent to 39-hour police remand",
-    "desc": "Two individuals, Ram Shankar Yadav and Manish Yadav, received a 39-hour police remand on Friday. This remand is connected to the alleged embezzlement of Ayodhya Ram temple donations. Custodial interrogation is crucial for uncovering the conspiracy and tracing the money trail. Earlier, two other accused were also taken for custodial interrogation as part of the ongoing probe. The alleged donation scam has triggered significant political backlash against the ruling BJP.",
-    "img": "https://static.toiimg.com/photo/msid-132461950,imgsize-1146804.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ram-mandir-donation-case-tinnu-yadav-manish-yadav-sent-to-39-hour-police-remand/articleshow/132461931.cms",
-    "time": "2026-07-17T12:51:24.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Why crude oil prices haven’t spiralled out of control amid US-Iran conflict",
     "desc": "Brent crude prices in the spot market briefly surged to around $144 per barrel before easing as markets adjusted. Yet as ADB notes in its report - despite this unprecedented supply shock, crude oil prices did not reach levels seen during the 1973 Arab oil embargo or even the 1990 Gulf war, if one were to inflation-adjust the prices.",
@@ -430,15 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/indias-current-account-deficit-likely-to-widen-to-1-5-of-gdp-in-fy27-as-higher-oil-prices-weigh-report/articleshow/132460485.cms",
     "time": "2026-07-17T12:03:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Prince Harry feels ‘isolated’ and ‘betrayed’ by Meghan Markle",
-    "desc": "Prince Harry reportedly feels betrayed by Meghan Markle's sudden plan changes. The Duke of Sussex is experiencing isolation and confusion over her decisions. This UK visit was for the Invictus Games countdown celebrations. The family also reunited with King Charles III at Highgrove House. Prince William and Catherine were reportedly unaware of this meeting.",
-    "img": "https://static.toiimg.com/photo/msid-132460849,imgsize-292862.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/prince-harry-feels-isolated-and-betrayed-by-meghan-markles-last-minute-change-of-plans-its-a-terrifyingly-lonely-position-for-him/articleshow/132460859.cms",
-    "time": "2026-07-17T11:58:35.000Z"
   },
   {
     "cat": "Entertainment",
@@ -468,15 +531,6 @@ const newsData_en = [
     "time": "2026-07-17T11:14:01.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Ex-Badrinath temple officer Rajendra Chauhan arrested in donation theft case after SIT grilling",
-    "desc": "Former Badrinath temple officer Rajendra Chauhan was arrested for alleged donation theft. CCTV footage showed Chauhan collecting cash bundles and putting them into his pocket. The Special Investigation Team received an internal inquiry report from the temple committee. Investigators identified more suspects after examining fresh CCTV footage from recent dates. The investigation into the temple donation theft case is currently ongoing.",
-    "img": "https://static.toiimg.com/photo/msid-132459690,imgsize-1881946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ex-badrinath-temple-officer-rajendra-chauhan-arrested-in-donation-theft-case-after-sit-grilling/articleshow/132459717.cms",
-    "time": "2026-07-17T10:59:14.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "How women audiences are championing Marathi films in theatres",
     "desc": "With a host of female-centric films being made, Marathi cinema is speaking closely to women audiences, who are in turn showing up in large numbers to watch them, celebrate them and turn them into box office successes",
@@ -484,15 +538,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/how-women-audiences-are-championing-marathi-films-in-theatres-baipan-bhari-deva-tighee-deool-band-2/article71229588.ece",
     "time": "2026-07-17T10:58:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'A national cause, more discussions needed': JPC defers draft report on PM, CMs removal bill",
-    "desc": "A joint parliamentary committee deferred its draft report on removing leaders facing serious charges. The panel decided more consultations were needed before adopting its five recommendations. Members voted on recommendations, with some BJP members also voting against initial proposals. The committee suggested suspending, not permanently removing, leaders detained for thirty days. This bill seeks to amend the Government of Union Territories Act, 1963.",
-    "img": "https://static.toiimg.com/photo/msid-132459245,imgsize-173224.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/a-national-cause-more-discussions-needed-jpc-defers-draft-report-on-pm-cms-removal-bill/articleshow/132458732.cms",
-    "time": "2026-07-17T10:41:34.000Z"
   },
   {
     "cat": "Sports",
@@ -531,15 +576,6 @@ const newsData_en = [
     "time": "2026-07-17T10:25:34.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Congress rejects BJP-DMK alliance buzz as Stalin weighs stand on delimitation bill",
-    "desc": "Congress leader Jairam Ramesh denied any alliance between BJP and DMK due to differing ideologies. He stated that DMK remains an opposition party and is in contact with Congress MPs. DMK is studying the Delimitation Bill and will decide based on state interests. The party discussed seat increases and retaining current proportions among states. This decision will be made independently without consulting Congress.",
-    "img": "https://static.toiimg.com/photo/msid-132458695,imgsize-1107892.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/congress-rejects-bjp-dmk-alliance-buzz-as-stalin-weighs-stand-on-delimitation-bill/articleshow/132458440.cms",
-    "time": "2026-07-17T10:12:43.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Mumbai-Ahmedabad bullet train update: Progress so far and Japan's E10 plan",
     "desc": "India's first bullet train project between Mumbai and Ahmedabad is progressing well. Initial operations will commence using Indian high-speed trains in 2027. Japan's next-generation E10 Shinkansen trains will be introduced later, after 2030. The first operational stretch will connect Surat and Bilimora in Gujarat. This initiative significantly reduces travel time between the two major cities.",
@@ -549,15 +585,6 @@ const newsData_en = [
     "time": "2026-07-17T10:11:55.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Don't mix politics with ED': Madan Mitra denies notices to family prompted TMC faction switch",
-    "desc": "Madan Mitra has left Mamata Banerjee's Trinamool Congress faction for a rebel group. He dismissed allegations that his decision was linked to the Enforcement Directorate's actions. Mitra stated his move was purely based on the current political landscape in West Bengal. He expressed disappointment with the TMC's strategy and leadership focus. Mitra also praised the political strength of Suvendu Adhikari.",
-    "img": "https://static.toiimg.com/photo/msid-132458329,imgsize-151775.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dont-mix-politics-with-ed-madan-mitra-denies-notices-to-family-prompted-tmc-faction-switch/articleshow/132457526.cms",
-    "time": "2026-07-17T09:48:59.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Niti Aayog's roadmap to turn India into $691 billion bioeconomy",
     "desc": "NITI Aayog proposes six national initiatives for India's biotechnology sector. This roadmap aims for a $691 billion bioeconomy by the year 2035. These missions will strengthen capabilities in healthcare and agriculture. They also focus on industrial biotechnology and disease surveillance. The plan includes a Rs 50,000-crore growth fund.",
@@ -565,15 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/six-biomissions-rs-50000-crore-fund-and-more-niti-aayogs-roadmap-to-turn-india-into-691-billion-bioeconomy/articleshow/132456250.cms",
     "time": "2026-07-17T09:43:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Avoid unruly behaviour': CM Yogi says anti-social elements 'tarnishing' Kanwar Yatra",
-    "desc": "Addressing a function in Shamli district after inaugurating and laying the foundation stone for several development projects, CM Yogi said the state government was ensuring full security and all necessary arrangements for Kanwar pilgrims. \"Today, no one stops the Kanwar Yatra. It is progressing peacefully and with enthusiasm. The government stands with the kanwariyas, and the administration and security forces are serving them,\" he was quoted as saying by news agency PTI.",
-    "img": "https://static.toiimg.com/photo/msid-132457592,imgsize-101404.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/avoid-unruly-behaviour-cm-yogi-says-anti-social-elements-tranishing-kanwar-yatra/articleshow/132457527.cms",
-    "time": "2026-07-17T09:17:01.000Z"
   },
   {
     "cat": "Business",
@@ -592,24 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/mma/news/kamaru-usman-eyes-one-more-run-at-ufc-gold-ahead-of-dricus-du-plessis-showdown/articleshow/132457149.cms",
     "time": "2026-07-17T08:55:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Modi thinks way in advance': PM says Hormuz crisis didn't affect Railways, draws parallel with 2014",
-    "desc": "Prime Minister Narendra Modi stated Indian Railways' rapid electrification aids national energy security. Electrification over twelve years prevented a standstill during Middle East crises. Less than thirty percent of the rail network was electrified before 2014. Nearly ninety-nine percent of India's rail network is now electrified. This transformation ensures uninterrupted train operations despite global energy challenges.",
-    "img": "https://static.toiimg.com/photo/msid-132456915,imgsize-490317.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/modi-thinks-way-in-advance-pm-says-hormuz-crisis-didnt-affect-railways-draws-parallel-with-2014/articleshow/132456794.cms",
-    "time": "2026-07-17T08:39:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ex-cricketer backs Rohit to sign off from ODIs with 'innings that people remember'",
-    "desc": "Patel said the India opener has repeatedly shown during his career that he responds strongly after a lean run and expects him to do so again if Sunday's match turns out to be his last.",
-    "img": "https://static.toiimg.com/photo/msid-132456050,imgsize-559645.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/innings-that-people-remember-former-india-cricketer-hopes-rohit-sharma-signs-off-with-century-if-lords-odi-is-his-last/articleshow/132455813.cms",
-    "time": "2026-07-17T08:01:26.000Z"
   },
   {
     "cat": "Tech",
@@ -727,15 +727,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/wheres-the-hitman-rohit-sharmas-form-a-growing-concern-for-indias-odi-world-cup-plans/articleshow/132450450.cms",
     "time": "2026-07-17T01:35:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit Sharma no more automatic selection after Lord's ODI",
-    "desc": "The Indian team management and selectors had initially considered giving Yashasvi Jaiswal a full series in England but opted to persist with Rohit Sharma, hoping he would rediscover his form. Sources indicate that both the selection committee and team management have conveyed their views on Rohit's future to the BCCI. It remains to be seen whether the board's leadership or the selectors will now initiate discussions with him.",
-    "img": "https://static.toiimg.com/photo/msid-132450256,imgsize-166880.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/rohit-sharma-no-more-automatic-selection-after-lords-odi/articleshow/132450256.cms",
-    "time": "2026-07-17T00:31:53.000Z"
   },
   {
     "cat": "Entertainment",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/brought-in-for-civilian-use-starlink-is-now-integral-to-ukraines-war-effort/article71225657.ece",
     "time": "2026-07-15T18:23:41.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Cabinet approves ₹1.27 lakh crore for Semicon Mission 2.0, for mobile manufacturing, new highways",
+    "desc": "The cabinet also accorded approval to two major highway projects worth ₹25,400 crore to ease congestion in Varanasi and as many as nine new gas-based urea plants across the country with a production capacity of 10 million tons",
+    "img": "https://th-i.thgim.com/public/incoming/gwuala/article71226697.ece/alternates/LANDSCAPE_1200/20260715206L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/cabinet-okays-semicon-20-mobile-phone-manufacturing-scheme-highways-and-urea-plants/article71226334.ece",
+    "time": "2026-07-15T17:21:29.000Z"
   }
 ];
