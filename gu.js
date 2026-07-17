@@ -1,6 +1,15 @@
 const newsData_gu = [
   {
     "cat": "World",
+    "title": "અમેરિકાની ચૂંટણીમાં ચીનની મોટી ઘૂસણખોરી? 22 કરોડ મતદારોનો ડેટા ચોરાયો હોવાનો ટ્રમ્પનો દાવો",
+    "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે હવે ચીન પર નવા અને ચોંકાવનારા દાવા કરીને ખળભળાટ મચાવી દીધો છે. ટ્રમ્પે દેશના નામે સંબોધનમાં ચીન પર 22 કરોડ અમેરિકી મતદારોના ડેટા ચોરી કરવાનો આરોપ લગાવ્યો છે. જેને તેમણે ઈતિહાસનું સૌથી મોટું ડેટા કોમ્પ્રોમાઈઝ ગણાવ્યું હતું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/us-president-donald-trump-address-to-the-nation-big-claim-about-china-us-election-484885 ",
+    "time": "2026-07-17T03:36:20.000Z"
+  },
+  {
+    "cat": "World",
     "title": "અમેરિકામાં વિદેશી વિદ્યાર્થીઓ માટે વિઝાના નિયમો બદલાશે, હવે મહત્તમ 4 વર્ષ જ રહી શકાશે; જાણો કેટલા ભારતીયોને લાગશે ઝટકો",
     "desc": "અમેરિકામાં ટ્રમ્પ પ્રશાસને આંતરરાષ્ટ્રીય વિદ્યાર્થીઓ સાથે સંબંધિત F-1 વિઝાના નિયમોમાં મોટો બદલાવ કર્યો છે. હવે દાયકાઓ જૂની 'ડ્યુરેશન ઓફ સ્ટેટસ' એટલે કે અનિશ્ચિત મુદ્દતની પ્રવાસ પ્રણાલીને નાબૂદ કરીને એક નિશ્ચિત સમયગાળા સુધી રહેવાની મર્યાદા લાગુ કરવામાં આવી છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -387,15 +396,6 @@ const newsData_gu = [
     "time": "2026-07-14T15:04:01.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ટીમ ઈન્ડિયાના કોચનો ચોંકાવનારો નિર્ણય... ઈંગ્લેન્ડ પ્રવાસ બાદ પદ છોડવાની કરી જાહેરાત !",
-    "desc": "ભારતીય ક્રિકેટ ટીમના સહાયક કોચ રાયન ટેન ડોશેટે વ્યક્તિગત કારણોસર પદ છોડવાની ઇચ્છા વ્યક્ત કરી છે. ત્યારે આ મામલાની સંપૂર્ણ વિગતો શું છે અને ગૌતમ ગંભીરના સમર્થનમાં પૂર્વ મુખ્ય પસંદગીકાર એમએસકે પ્રસાદે શું કહ્યું છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/indian-cricket-team-assistant-coach-to-resign-after-england-odi-series-484614 ",
-    "time": "2026-07-14T13:07:24.000Z"
-  },
-  {
     "cat": "Business",
     "title": "માત્ર 5% વ્યાજ પર લોન આપી રહી છે કેન્દ્ર સરકાર, ગેરંટીની પણ જરૂર નથી; જાણો કોને અને કેવી રીતે મળશે લાભ",
     "desc": "પ્રધાનમંત્રી વિશ્વકર્મા યોજના અંતર્ગત લાભાર્થીને જામીન મુક્ત (ગેરંટી વગરની) લોન આપવામાં આવે છે. લોનનો પહેલો હપ્તો 1 લાખ રૂપિયાનો હોય છે, જેમાં રી-પેમેન્ટ સમયગાળો 18 મહિનાનો હોય છે. બીજો હપ્તો 2 લાખ રૂપિયાનો હોય છે.",
@@ -412,15 +412,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/kia-india-june-2026-sales-seltos-and-sonet-drive-volume-carens-and-carnival-see-drop-check-model-wise-report-484611 ",
     "time": "2026-07-14T12:06:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ક્રિકેટ મેચ દરમિયાન દુ:ખદ ઘટના, અચાનક મેદાન પર જ ઢળી પડ્યો બોલર, હોસ્પિટલ પહોંચે તે પહેલા તોડ્યો દમ",
-    "desc": "જમ્મુ-કાશ્મીરમાં સ્થાનિક ક્રિકેટ ટુર્નામેન્ટ દરમિયાન એક ક્રિકેટરનું નિધન થયું છે. એક બોલર પોતાની ઓવર પૂરી કર્યા બાદ જમીન પર જ ઢળી પડ્યો હતો. જે બાદ તેને તાત્કિલિક હોસ્પિટલ લઈ જવામાં આવ્યો હતો. જ્યાં ફરજ પરના ડોક્ટરોએ તેને મૃત જાહેર કર્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/bowler-dies-after-completing-over-a-local-cricket-match-in-jammu-and-kashmir-484609 ",
-    "time": "2026-07-14T11:32:52.000Z"
   },
   {
     "cat": "Business",
@@ -655,15 +646,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/googles-alert-for-millions-of-chrome-users-do-this-before-its-too-late-484268 ",
     "time": "2026-07-11T11:55:08.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "વિયેતનામમાં મોટી દુર્ઘટના, બોટ પલટી જતા 15 ભારતીય પ્રવાસીઓના મોત, હેલ્પલાઈન નંબર જાહેર કરાયા",
-    "desc": "વિયેતનામમાં એક ટાપુ પાસે ભારતીય પર્યટકો ભરેલી એક બોટ પલટી ખાઈ ગઈ જેમાં 15 જેટલા ભારતીય પ્રવાસીઓના મોત થયા છે અને અનેક મુસાફરો ગૂમ થયાની જાણકારી સામે આવી છે. આ મામલે વિયેતનામ સ્થિતિ ભારતીય દૂતાવાસ તરફથી હેલ્પલાઈન નંબર પણ જાહેર કરાયા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/boat-carring-tourists-including-indians-capsized-near-vietnams-phu-quoc-island-484260 ",
-    "time": "2026-07-11T11:18:06.000Z"
   },
   {
     "cat": "Entertainment",

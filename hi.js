@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Luke Ronchi set to step down as New Zealand's batting coach after India series, slated for huge BBL move",
+    "desc": "In a major development, New Zealand’s batting coach Luke Ronchi is all set to step down from his role in the national team after the end of the side’s home series against the Indian team....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/luke-ronchi-set-to-step-down-as-new-zealand-s-batting-coach-after-india-series-slated-for-huge-bbl-move-2026-07-17-1048520",
+    "time": "2026-07-17T04:45:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "FIFA confirms match officials for upcoming World Cup 2026 final; Check details",
+    "desc": "The stage is set for the FIFA World Cup 2026 final. 2010 champions Spain will be taking on three-time winners Argentina in the summit clash of the tournament at the New York New Jersey Stadium...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/fifa-confirms-match-officials-for-upcoming-world-cup-2026-final-check-details-2026-07-17-1048516",
+    "time": "2026-07-17T03:48:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Quite disappointing': Shubman Gill opens up after England level ODI series with stellar victory in Cardiff",
+    "desc": "The Indian team succumbed to a hefty loss in the second ODI of the ongoing three-game series. The two sides met at Sophia Gardens in Cardiff on July 16th, and after a win in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/quite-disappointing-shubman-gill-opens-up-after-england-level-odi-series-with-stellar-victory-in-cardiff-2026-07-17-1048507",
+    "time": "2026-07-17T02:23:48.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Joe Root aces another England chase after India's batting disaster in Cardiff, Lord's to decide series",
     "desc": "England defeated India by four wickets in the second ODI at the Sophia Gardens in Cardiff. With the win, the series is now locked level, with the decider set to be played on July 19...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-breaks-sachin-tendulkar-s-legendary-record-with-half-century-against-england-in-cardiff-2026-07-16-1048478",
     "time": "2026-07-16T15:48:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ben Stokes takes fresh dig at Ian Botham, continues war of words on social media",
-    "desc": "Legendary England cricketer Ian Botham has revived his public disagreement with former England captain Ben Stokes. The former England all-rounder took a fresh swipe at Stokes during the first ODI between England and India at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ben-stokes-takes-fresh-dig-at-ian-botham-continues-war-of-words-on-social-media-2026-07-16-1048471",
-    "time": "2026-07-16T14:29:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli breaks major record, surpasses Rahul Dravid in elite list with resilient knock against England",
-    "desc": "The Indian team took on England in the second ODI of the ongoing three-game series. The two sides met at Sophia Gardens in Cardiff for the clash on July 16th, and the game began with...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-breaks-major-record-surpasses-rahul-dravid-in-elite-list-with-resilient-knock-against-england-2026-07-16-1048470",
-    "time": "2026-07-16T14:16:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is KL Rahul not playing in India vs England second ODI in Cardiff?",
-    "desc": "India keeper-batter KL Rahul has been dropped from the second ODI against England at Sophia Gardens in Cardiff. Captain Shubman Gill explained that the middle order batter is currently dealing with an illness, as Ishan...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-kl-rahul-not-playing-in-india-vs-england-second-odi-in-cardiff-2026-07-16-1048461",
-    "time": "2026-07-16T12:31:18.000Z"
   }
 ];
