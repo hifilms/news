@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "৭২০-র মধ্যে ৭১৫! কোন মন্ত্রে এমন অবিশ্বাস্য সফল NEET-টপার আরিয়ান? ফাঁস করলেন রহস্য",
+    "desc": "রেজাল্ট বেরনোর পরে কী বললেন নিট টপার আরিয়ান গুপ্ত? আমি ১৭ ঘণ্টা করে পড়েছি! পরিশ্রম কখনও বিফলে যায় না। নিট ইউজি বাতিল হওয়ায় সারাদিন কেঁদেছিলাম! সেই বাধা ও শোক কাটিয়ে কোন মন্ত্রে প্রথম হলেন আরিয়ান?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/aryan-gupta-studied-17-hours-a-day-neet-ug-2026-topper-aryan-shares-success-story-neet-ug-result_662799.html ",
+    "time": "2026-07-17T10:49:25.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "‘র‍্যাঞ্চো’ কি সোনম ওয়াংচুক নন? 'আমরা তো ওকে চিনতামই না', দীর্ঘদিনের ভুল ভাঙালেন আমির",
     "desc": "সোনম নিজেও বলেছিলেন, তাঁর জীবন থেকে অনুপ্রাণিত থ্রি ইডিয়টস। যদিও ছবির গল্পের সঙ্গে তাঁর মিল নেই। তবে ‘বাস্তবের র‍্যাঞ্চো’ বলেই সোনমকে চেনে গোটা দেশ। তবে আমিরের সাফ কথা, থ্রি ইডিয়টস-এর ফুংসুখ ওয়াংডু চরিত্রটি সোনম ওয়াংচুকের নয়।",
@@ -268,23 +277,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/amit-shah-suvendu-adhikari-courtesy-visit-prosenjit-chatterjee-kolkata_661234.html ",
     "time": "2026-07-06T12:55:17.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
-    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
-    "time": "2026-06-01T03:50:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
-    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
-    "time": "2026-05-23T05:15:29.000Z"
   }
 ];

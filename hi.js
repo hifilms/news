@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Star India cricketer ruled out of the third ODI vs England at Lord's, Kuldeep Yadav can finally return",
+    "desc": "Washington Sundar has been ruled out of the third ODI against England, set to be played at the iconic Lord’s on July 19. He has been a three-format cricketer for India lately and scored a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/star-india-cricketer-ruled-out-of-the-third-odi-vs-england-at-lord-s-kuldeep-yadav-can-finally-return-2026-07-17-1048586",
+    "time": "2026-07-17T12:34:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "FIFA introduce championship rings for World Cup winners, 1996 fans can purchase too",
+    "desc": "Argentina and Spain will compete in the FIFA World Cup 2026 final. After decimating France in the semi-final, the Luis de La Fuente side progressed to the summit clash, while Argentina picked up a thrilling...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/fifa-introduce-championship-rings-for-world-cup-winners-1996-fans-can-purchase-too-2026-07-17-1048580",
+    "time": "2026-07-17T11:52:42.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "What is the story behind Lamine Yamal's viral childhood picture with Lionel Messi? Check details",
     "desc": "The FIFA World Cup 2026 final is right around the corner. Spain is slated to take on defending champions Argentina in the summit clash of the tournament at the New York New Jersey Stadium on...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/quite-disappointing-shubman-gill-opens-up-after-england-level-odi-series-with-stellar-victory-in-cardiff-2026-07-17-1048507",
     "time": "2026-07-17T02:23:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Joe Root aces another England chase after India's batting disaster in Cardiff, Lord's to decide series",
-    "desc": "England defeated India by four wickets in the second ODI at the Sophia Gardens in Cardiff. With the win, the series is now locked level, with the decider set to be played on July 19...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/joe-root-aces-another-england-chase-after-india-s-batting-disaster-in-cardiff-lord-s-to-decide-series-2026-07-17-1048503",
-    "time": "2026-07-16T20:09:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vijay Shankar, Shaheen to Kandy; Shakib, Taskin to Jaffna",
-    "desc": "The sixth edition of the Lanka Premier League will begin with a repeat of last season's final as defending champions Jaffna Kings face Galle Gallants at the Sinhalese Sports Club in Colombo. The tournament will...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vijay-shankar-shaheen-to-kandy-shakib-taskin-to-jaffna-full-squads-of-all-five-teams-of-lpl-2026-2026-07-17-1048502",
-    "time": "2026-07-16T19:29:26.000Z"
   }
 ];
