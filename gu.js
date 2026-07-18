@@ -1,12 +1,48 @@
 const newsData_gu = [
   {
-    "cat": "Politics",
-    "title": "આકાશ ચીરીને અંતરિક્ષ તરફ રવાના થયું વિક્રમ-1, 3D પ્રિન્ટેડ એન્જિનની તાકાતથી સ્કાયરૂટે ઈતિહાસ રચ્યો",
-    "desc": "આજનો દિવસ ભારતીય અંતરિક્ષ વિજ્ઞાન માટે ખુબ મહત્વનો છે. આજે દેશનું પહેલું પ્રાઈવેટ ઓર્બિટલ રોકેટ વિક્રમ-1એ આકાશ તરફ ઉડવાનું શરૂ કરીને ઈતિહાસ રચ્યો. મિશન આગમન હેઠળ આ લોન્ચિંગ એટલા માટે ખાસ છે કારણ કે આ 7 માળ જેટલા ઊંચા રોકેટને ખુબ જ હળવા ઓલ કાર્બન કમ્પોઝિટ માળખા અને અત્યાધુનિક 3ડી પ્રિન્ટેડ એન્જિનથી તૈયાર કરાયું છે.",
+    "cat": "Sports",
+    "title": "9 બોલમાં ફિફ્ટી, સતત બે વાર 6 બોલમાં 6 સિક્સ... આ બેટ્સમેને બનાવ્યો અસંભવ વર્લ્ડ રેકોર્ડ !",
+    "desc": "દુનિયામાં એકમાત્ર એવો બેટ્સમેન છે, જેણે T20 આંતરરાષ્ટ્રીય ક્રિકેટમાં બે વખત સતત છ બોલમાં 6 છગ્ગા ફટકાર્યા છે. આ વર્લ્ડ રેકોર્ડ સાથે તેણે કિરોન પોલાર્ડ અને યુવરાજ સિંહને પાછળ છોડી દીધા છે, જેમણે બંનેએ તેમની કારકિર્દી દરમિયાન ફક્ત એક જ વાર એક ઓવરમાં સતત છ છગ્ગા ફટકારવાની સિદ્ધિ હાંસલ કરી હતી.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/india%C2%A0first-privately-developed-orbital-class-rocket-vikram-1-launched-from-satish-dhawan-space-centre-485009 ",
-    "time": "2026-07-18T07:10:50.000Z"
+    "url": " http://zeenews.india.com/gujarati/sports/cricket-record-nepal-cricketer-dipendra-singh-hits-two-time-6-sixes-in-6-ball-485021 ",
+    "time": "2026-07-18T09:15:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "આઠમું પગાર પંચ: લેવલ 1થી 10 સુધીના કર્મચારીઓનો કેટલો વધી શકે પગાર? ગણતરીથી સમજો",
+    "desc": "કેન્દ્ર સરકારના કર્મચારીઓ આઠમાં પગાર પંચની ભલામણોની આતુરતાપૂર્વક રાહ જોઈ રહ્યા છે. જો કે હજુ સરકાર તરફથી સત્તાવાર રીતે ફિટમેન્ટ ફેક્ટર કે અન્ય કોઈ માહિતી અપાઈ નથી પરંતુ જો સાતમાં પગાર પંચમાં જે ફિટમેન્ટ ફિક્ટર હતું તે જ રહેવા દેવામાં આવે તો લેવલ 1થી લઈને 10 સુધીના કર્મચારીઓનો પગાર કેટલો વધી શકે તે ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/8th-pay-commission-what-will-be-the-basic-salary-of-level-1-to-10-if-fitment-factor-may-remain-same-485020 ",
+    "time": "2026-07-18T09:03:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "પ્રિયંકા ચોપડાને જન્મદિવસે મળી જોરદાર સરપ્રાઈઝ, વારાણસી ફિલ્મ મેકર્સે મંદાકિનીનો લુક કર્યો રીવીલ",
+    "desc": "18 જુલાઈના રોજ પ્રિયંકા ચોપડા જોનસ તેનો 44 મો જન્મદિવસ ઉજવી રહી છે ત્યારે તેના ચાહકોને મોટી ગિફ્ટ મળી છે. આ ખાસ દિવસની વધારે ખાસ વારાણસી ફિલ્મના મેકર્સે બનાવ્યો છે. પ્રિયંકાના બર્થ ડે પર વારાણસી ફિલ્મના તેના લુકને રીવીલ કરવામાં આવ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/priyanka-chopra-44-birthday-first-look-of-mandakini-of-varanasi-movie-look-released-485019 ",
+    "time": "2026-07-18T08:42:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સોનું કેમ થઈ રહ્યું છે સતત સસ્તું? ઓગસ્ટમાં હજુ ઘટશે ભાવ કે આવશે મોટી તેજી? જાણો",
+    "desc": "જો તમે સોનું ખરીદવાનું વિચારી રહ્યા છો, તો શું આ સારો સમય છે? છેલ્લા 6 અઠવાડિયામાં પહેલીવાર સોનામાં સાપ્તાહિક મોટો ઘટાડો જોવા મળ્યો છે. આવી સ્થિતિમાં, સૌથી મોટો પ્રશ્ન એ છે કે શું ઓગસ્ટમાં સોનું સસ્તું થશે કે ભાવ ફરી વધશે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/why-is-gold-getting-cheaper-will-the-price-fall-further-in-august-or-will-there-be-a-big-boom-find-out-485017 ",
+    "time": "2026-07-18T08:34:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "સલમાન પછી આમિર ખાન બિશ્નોઈ ગેંગના નિશાન પર ? સોશિયલ મીડિયા પર વાયરલ થઈ ધમકી ભરી પોસ્ટ",
+    "desc": "આમિર ખાનને બિશ્નોઈ ગેંગ તરફથી ધમકી મળી હોવાની ચર્ચા તેજ થઈ છે. સોશિયલ મીડિયા પર આ મામલે બિશ્નોઈ ગેંગના નામથી એક પોસ્ટ વાયરલ થઈ છે જેમાં આમિર ખાનને ગેંગ તરફથી ધમકી આપવામાં આવી છે. શું છે આ મામલો જાણો વિસ્તારપૂર્વક.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/after-salman-khan-aamir-khan-got-threat-from-bishnoi-gang-a-post-viral-on-social-media-485004 ",
+    "time": "2026-07-18T08:05:08.000Z"
   },
   {
     "cat": "Entertainment",
@@ -25,15 +61,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/football-world-cup-2026-why-argentina-president-javier-milei-skip-final-between-arg-vs-spn-485006 ",
     "time": "2026-07-18T06:24:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "સલમાન પછી આમિર ખાન બિશ્નોઈ ગેંગના નિશાન પર ? સોશિયલ મીડિયા પર વાયરલ થઈ ધમકી ભરી પોસ્ટ",
-    "desc": "આમિર ખાનને બિશ્નોઈ ગેંગ તરફથી ધમકી મળી હોવાની ચર્ચા તેજ થઈ છે. સોશિયલ મીડિયા પર આ મામલે બિશ્નોઈ ગેંગના નામથી એક પોસ્ટ વાયરલ થઈ છે જેમાં આમિર ખાનને ગેંગ તરફથી ધમકી આપવામાં આવી છે. શું છે આ મામલો જાણો વિસ્તારપૂર્વક.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/after-salman-khan-aamir-khan-got-threat-from-bishnoi-gang-a-post-viral-on-social-media-485004 ",
-    "time": "2026-07-18T05:59:30.000Z"
   },
   {
     "cat": "Politics",
@@ -261,15 +288,6 @@ const newsData_gu = [
     "time": "2026-07-16T11:08:40.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "537 રન, 51 છગ્ગા અને T20 ઇતિહાસનો સૌથી મોટો રન ચેઝ... ક્રિકેટમાં આવ્યું એક એવું તોફાન જોતી રહી ગઈ દુનિયા",
-    "desc": "મેજર લીગ ક્રિકેટ (MLC) 2026 એલિમિનેટરમાં વોશિંગ્ટન ફ્રીડમે 267 રનના ટાર્ગેટનો સફળતાપૂર્વક પીછો કરીને T20 ઇતિહાસમાં સૌથી વધુ સફળ રન ચેઝનો રેકોર્ડ હાંસલ કર્યો. 537 રન, 51 છગ્ગા અને ત્રણ સદી ધરાવતી મેચમાં નિકોલસ પૂરનની 31 બોલની સદી પણ MI ન્યૂ યોર્કને હારથી બચાવી શકી નહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/537-runs-51-sixes-biggest-t20-run-chase-washington-freedom-mlc-2026-484830 ",
-    "time": "2026-07-16T10:19:32.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "શું આખી ભાજપ બદલવાના છે પીએમ મોદી અને શાહ, &amp;#039;સંસદીય બોર્ડ&amp;#039; અને મંત્રીમંડળમાં ફેરફારની અટકળો?",
     "desc": "ગુજરાતમાં રહેલા અમિત શાહ આજે સંગઠન અને સરકારના કમલમમાં ક્લાસ લેવાના છે. ભાજપ હમણાં કંઈક નવાજૂની કરવાના મૂડમાં છે. ભાજપની સૌથી પાવરફૂલ કમિટી સંસદીય બોર્ડથી લઈને મંત્રીમંડળમાં મોટા ફેરફાર તેવી અટકળો લાગી રહી છે. મોદી- શાહ અને નીતિન નબીન વચ્ચે સતત થઈ રહેલી બેઠકો કંઈક નવાજૂની કરશે.",
@@ -277,15 +295,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/modi-shahs-big-plan-the-biggest-change-in-bjps-organization-will-happen-so-far-know-whose-card-will-be-cut-484820 ",
     "time": "2026-07-16T08:52:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICCનો માસ્ટરસ્ટ્રોક, વર્લ્ડ કપમાં ભારત-પાકિસ્તાનની ત્રણ વખત ટક્કર પાક્કી ! જાણો કેવી રીતે બદલાશે સમગ્ર સમીકરણ",
-    "desc": "ICCએ ODI વર્લ્ડ કપ 2027ના ફોર્મેટમાં મોટા ફેરફારો કર્યા છે. આનાથી ભારત અને પાકિસ્તાન એક જ ટુર્નામેન્ટમાં ત્રણ વખત એકબીજા સામે આવવાની શક્યતા વધી ગઈ છે. T20 વર્લ્ડ કપ 2028 માટે નવા સમીકરણ અને નવા નિયમો વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/icc-change-world-cup-format-india-vs-pakistan-three-matches-super-7-new-rules-484821 ",
-    "time": "2026-07-16T08:50:13.000Z"
   },
   {
     "cat": "Business",
@@ -340,15 +349,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/akshay-kumar-haiwaan-movie-is-hindi-remake-of-south-psycho-thriller-film-oppam-484799 ",
     "time": "2026-07-16T05:30:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CM રેખા ગુપ્તાએ લોન્ચ કર્યું કોમનવેલ્થ ટેબલ ટેનિસનું મેસ્કોટ &amp;#039;મયૂર&amp;#039;, 27 જુલાઈથી શરૂ થશે રમતોનો મહાકુંભ",
-    "desc": "દિલ્હીના મુખ્યમંત્રી રેખા ગુપ્તાએ 22મી કોમનવેલ્થ ટેબલ ટેનિસ ચેમ્પિયનશિપ 2026 માટે સત્તાવાર મેસ્કોટ (શુભંકર) 'મયૂર' નું અનાવરણ કર્યું છે. આ પ્રતિષ્ઠિત આંતરરાષ્ટ્રીય ચેમ્પિયનશિપ 27 જુલાઈથી 2 ઓગસ્ટ 2026 દરમિયાન નવી દિલ્હીના અત્યાધુનિક ત્યાગરાજ સ્ટેડિયમ ખાતે આયોજિત થવા જઈ રહી છે. આ સાત દિવસીય રમત મહોત્સવમાં 25 થી વધુ દેશોના અગ્રણી ખેલાડીઓ ભાગ લેશે અને ફાઈનલ મેચ 2 ઓગસ્ટના રોજ રમાશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/delhi-cm-rekha-gupta-unveils-%E2%80%98mayur%E2%80%99-as-official-mascot-of-commonwealth-table-tennis-championship-2026-484788 ",
-    "time": "2026-07-16T04:34:10.000Z"
   },
   {
     "cat": "Business",
@@ -439,15 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/budget-friendly-7-seater-cars-from-maruti-to-mahindra-top-spacious-cars-starting-at-5-76-lakh-484679 ",
     "time": "2026-07-15T08:46:49.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "રેલ મુસાફરો માટે મહત્વપૂર્ણ સમાચાર ! 15 જુલાઈથી બદલાઈ જશે IRCTCનું બુકિંગ પોર્ટલ, ટિકિટ બુકિંગનો નવો નિયમ થશે લાગુ",
-    "desc": "ડિજિટલ ટિકિટિંગને સુરક્ષિત અને સુવિધાજનક બનાવવા માટે રેલવેએ એક મોટું પગલું ભર્યું છે. તો જનરલ ટિકિટ પર મુસાફરી કરતા મુસાફરો માટેના નિયમોમાં ઘણા ફેરફારો કરવામાં આવ્યા છે. ત્યારે રેલવેમાં થયેલા ફેરફારો પર એક નજર કરીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/irctc-new-portal-launch-know-features-and-ticket-booking-rules-484621 ",
-    "time": "2026-07-14T16:05:40.000Z"
   },
   {
     "cat": "Tech",
@@ -628,24 +619,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/good-news-for-suv-lovers-a-new-car-kia-sorento-is-coming-with-a-muscular-design-and-more-mileage-484292 ",
     "time": "2026-07-11T15:52:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "શાહરુખ ખાને દિલ્હીમાં ખરીદેલા 37 કરોડના ઘરની થઈ રહી છે ચર્ચા, જાણો શું છે આ ઘરમાં ખાસ",
-    "desc": "શાહરુખ ખાને તાજેતરમાં દિલ્હીમાં 37 કરોડમાં એક ઘર ખરીદ્યું છે. શાહરુખ ખાન અનેક પ્રોપર્ટીમાં રોકાણ કરે છે પણ દિલ્હીમાં તેણે જે ઘરની ડીલ કરી છે તે નફા માટે નહીં પણ અંગત કારણોસર કરી છે. શું છે આ કારણ અને શા માટે આ ઘર શાહરુખ માટે ખાસ છે જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/shah-rukh-khan-buys-old-house-in-south-delhi-37-crore-deal-srk-gauri-first-home-in-delhi-after-marriage-484270 ",
-    "time": "2026-07-11T12:26:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ફેમસ ટીવી એક્ટર રોહિત ચંદેલની ધરપકડ, 16 વર્ષીય સગીરાની છેડતી કર્યાનો આરોપ",
-    "desc": "ટીવી એક્ટર રોહિત ચંદેલની ગંભીર ગુના અંતર્ગત ધરપકડ કરવામાં આવી છે. જાણવા મળતી માહિતી અનુસાર 29 વર્ષીય ટીવી એક્ટર પર 16 વર્ષની સગીરાનો પીછો કરી તેને હેરાન કરી અને તેની સાથે મારપીટ કર્યાનો પણ આરોપ છે. આ મામલે પોલીસે ટીવી એક્ટરની ધરપકડ કરી લીધી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/famous-tv-actor-rohit-chandel-arrested-in-pocso-case-here-are-case-details-484267 ",
-    "time": "2026-07-11T12:18:00.000Z"
   },
   {
     "cat": "Tech",

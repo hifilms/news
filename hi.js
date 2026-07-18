@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Among the best': Lionel Messi sings Lamine Yamal's praises ahead of FIFA World Cup 2026 final",
+    "desc": "The stage is set for the final of the FIFA World Cup 2026; one-time champions Spain will be taking on defending champions Argentina. The two sides will meet at the New York-New Jersey Stadium on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/among-the-best-lionel-messi-sings-lamine-yamal-s-praises-ahead-of-fifa-world-cup-2026-final-2026-07-18-1048648",
+    "time": "2026-07-18T08:42:32.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Former India cricketer backs Mohammed Siraj's comeback in India's white-ball setup amid England series",
     "desc": "The Indian team is all set to take on England in the third and final ODI of the ongoing series. The two sides will meet at the Lord’s Cricket Ground in London on July 19th....",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ravi-shastri-reminds-rohit-sharma-s-impact-in-odis-amid-talks-of-possible-retirement-after-lord-s-odi-2026-07-17-1048599",
     "time": "2026-07-17T14:31:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Andy Flower says no to England Test coach role, says happy with his role in RCB, London Spirit",
-    "desc": "Andy Flower will not return as England's Test head coach. The former England coach has withdrawn from contention for the vacant position despite holding discussions with the England and Wales Cricket Board after Brendon McCullum...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/andy-flower-says-no-to-england-test-coach-role-says-happy-with-his-role-in-rcb-london-spirit-2026-07-17-1048594",
-    "time": "2026-07-17T13:46:58.000Z"
   }
 ];

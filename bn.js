@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "ঘুমন্ত স্বামীকে সাপের ছোবল! প্রেমিক, ২০ লাখের বিমার টানে অতুলকে সরাতে দামিনীর হাড়হিম ছক",
+    "desc": "অতুলকে খুন করার এটি প্রথম চেষ্টা ছিল না। এর আগে আরও একবার চেষ্টা করা হয়েছিল। প্রায় ২০ দিন আগে তুষার একটি গাড়ি নিয়ে অতুলকে ধাক্কা মারে। তখন অতুলকে সরাসরি খুন করার চেষ্টা করা হয়েছিল। কিন্তু সে যাত্রায় মাথায় হেলমেট থাকায় অতুল বেঁচে যান।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/meerut-wife-plots-husbands-murder-using-poisonous-snake-for-insurance-money_662908.html ",
+    "time": "2026-07-18T08:58:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'আমার অনুমতি ছাড়া ওষুধ বা স্যালাইন নয়!' সোনম ওয়াংচুককে জোর করে হাসপাতালে নেওয়ায় গর্জে উঠলেন স্ত্রী",
+    "desc": "আমরণ অনশনে বসা লাদাখের সমাজকর্মী সোনম ওয়াংচুককে জোরপূর্বক সফদরজং হাসপাতালে ভর্তি করেছে দিল্লি পুলিস। হাইকোর্টের নির্দেশ এবং চিকিৎসকদের পরামর্শ অনুযায়ী \"জরুরি পদক্ষেপ\" বলে দাবি করলেও, ওয়াংচুকের স্ত্রী গীতাঞ্জলি এর তীব্র বিরোধিতা করেছেন। তিনি সাফ জানিয়েছেন, পরিবারের ও ব্যক্তিগত চিকিৎসকদের অনুমতি ছাড়া ওয়াংচুককে কোনো রকম ওষুধ বা ইনজেকশন দেওয়া যাবে না।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/dont-administer-anything-to-him-without-my-consent-says-sonam-wangchuks-wife_662886.html ",
+    "time": "2026-07-18T07:45:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "যন্তরমন্তরের তুলকালাম: সোনম ওয়াংচুককে জোর করে তুলে নিয়ে গেল দিল্লি পুলিস, এবার আমরণ অনশনে CJP এর অভিজিত্‍ দিপকে",
+    "desc": "সোনম ওয়াংচুককে সরিয়ে দেওয়ার পর সিজেপি (CJP) প্রধান অভিজিৎ দীপকে সামাজিক যোগাযোগ মাধ্যম 'X'-এ একটি তাঁর বক্তব্য লিখে অনশন শুরু করেন। তিনি বলেন, 'আমি এই মুহূর্ত থেকেই আমরণ অনশন শুরু করছি। আমি সবাইকে অনুরোধ করছি, কেউ পিছপা হবেন না, এই আন্দোলন আরও বড় আকার ধারণ করবে।'",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/chaos-at-jantar-mantar-cjp-founder-abhijeet-dipke-launches-hunger-strike-after-police-move-sonam-wangchuk-to-hospital_662885.html ",
+    "time": "2026-07-18T07:39:13.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ফুটবলীয় অন্ধবিশ্বাস! ‘অপয়া’ তকমা এড়াতে বিশ্বকাপের ফাইনালে স্টেডিয়ামে যাচ্ছেন না আর্জেন্টিনার প্রেসিডেন্ট",
     "desc": "আর্জেন্টিনার প্রেসিডেন্ট হাভিয়ের মিলেই ফুটবলীয় অন্ধবিশ্বাস বা 'কাবালা'র কারণে স্পেনের বিরুদ্ধে ২০২৬ বিশ্বকাপ ফাইনাল মাঠে গিয়ে না দেখার সিদ্ধান্ত নিয়েছেন। ১৯৯০ সালের 'অপয়া' বা 'মুফা' তকমা এড়াতে এবং নিজের লাকি জ্যাকেট রিচুয়াল ধরে রাখতে তিনি স্টেডিয়ামে না গিয়ে সরকারি বাসভবনে বসেই মেসিদের ম্যাচ দেখবেন।",
@@ -106,15 +133,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/cbi-report-rs-5-lakh-bribe-to-paper-setter-111-of-136-questions-matched-in-neet-leak-case_662642.html ",
     "time": "2026-07-16T09:34:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'ওয়াংচুকের জীবন বাঁচাতে যা প্রয়োজন সব করুন!' অনশনের ১৯ দিনে কেন্দ্রকে কড়া নির্দেশ আদালতের",
-    "desc": "NEET-UG সহ বিভিন্ন পরীক্ষার প্রশ্ন ফাঁসের বিরুদ্ধে এবং শিক্ষামন্ত্রীর পদত্যাগের দাবিতে সোনম ওয়াংচুকের আমরণ অনশন ১৯ দিনে পড়ল। ৮.৫ কেজি ওজন হারানোয় ও ৪৮ ঘণ্টার মধ্যে প্রাণসংশয়ের আশঙ্কায় দিল্লি হাইকোর্ট কেন্দ্রকে কড়া নির্দেশ দিয়েছে, ওয়াংচুকের জীবন বাঁচাতে যা প্রয়োজন সব করতে হবে এবং প্রতিদিন সরকারি ডাক্তার দিয়ে তাঁর স্বাস্থ্য পরীক্ষা করাতে হবে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/delhi-hc-directs-centre-save-sonam-wangchuk-life-hunger-strike-day-19-neet-protest_662612.html ",
-    "time": "2026-07-16T08:08:01.000Z"
   },
   {
     "cat": "Entertainment",
@@ -268,23 +286,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/amit-shah-suvendu-adhikari-courtesy-visit-prosenjit-chatterjee-kolkata_661234.html ",
     "time": "2026-07-06T12:55:17.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
-    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
-    "time": "2026-06-01T03:50:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
-    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
-    "time": "2026-05-23T05:15:29.000Z"
   }
 ];
