@@ -1,12 +1,201 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Will Smith's former friend seeks his testimony against Jada",
+    "desc": "Will Smith may be called to testify in a legal case involving his wife, Jada Pinkett Smith. Bilaal Salaam is seeking the actor's testimony against his own spouse in a lawsuit. Jada Pinkett Smith's legal team has stated Will Smith is not part of the litigation. Salaam has accused Pinkett Smith of threatening him in September 2021.",
+    "img": "https://static.toiimg.com/photo/msid-132472389,imgsize-221137.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/will-smiths-former-friend-bilaal-salaam-seeks-his-testimony-against-jada-pinkett-smith-in-usd-3-million-lawsuit/articleshow/132472374.cms",
+    "time": "2026-07-18T01:33:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Do we need Virat and Rohit?': Ashwin breaks silence on India's World Cup plans",
+    "desc": "Ravichandran Ashwin questions the timing of speculation about Rohit Sharma and Virat Kohli's ODI futures. He believes selectors should have communicated any transition plans much earlier. Ashwin stated that the experienced duo's presence is still needed for upcoming tours. Honest communication is essential when managing senior players' careers. Such discussions are surfacing late, with the next World Cup approaching.",
+    "img": "https://static.toiimg.com/photo/msid-132472379,imgsize-209660.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/do-we-need-virat-kohli-and-rohit-sharma-r-ashwin-breaks-silence-on-indias-2027-world-cup-plans/articleshow/132472290.cms",
+    "time": "2026-07-18T01:30:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taylor Swift and Travis Kelce feel 'disheartened'",
+    "desc": "Taylor Swift and Travis Kelce's recent wedding has drawn mixed reactions from guests and fans. Disappointment arose from NFL players not receiving invitations to pre-wedding events. The newlyweds are reportedly finding it difficult to ignore negative public chatter. They recently attended another wedding, which helped to lift their spirits. This event allowed them to enjoy a celebration without personal wedding pressures.",
+    "img": "https://static.toiimg.com/photo/msid-132472347,imgsize-264362.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/taylor-swift-and-travis-kelce-feel-disheartened-by-trash-talking-from-nfl-stars-theyre-finding-it-quite-exhausting/articleshow/132472351.cms",
+    "time": "2026-07-18T01:22:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Arulvaan' X review: Arulnithi's performance wins praise",
+    "desc": "The release of 'Arulvaan,' starring Arulnithi, has sparked positive discussions online, resonating deeply with audiences. The film features a heartfelt narrative about a tribal girl's ambition for education in the 1990s. Arulnithi takes on the role of a District Collector, while Baby Kritika shines as the young girl on a transformative journey. Viewers appreciate the film's powerful storytelling and profound emotional connections created through its engaging screenplay.",
+    "img": "https://static.toiimg.com/photo/msid-132472283,imgsize-397054.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/arulvaan-twitter-review-arulnithis-performance-wins-praise-fans-call-it-a-soulful-drama-movie-with-neatly-written-screenplay/articleshow/132472273.cms",
+    "time": "2026-07-18T00:59:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "White House sends clear message after calls for FIFA to punish Argentina players over Falklands banner",
+    "desc": "The White House has defended Argentina players' right to display the controversial Falklands banner after their World Cup semi-final win over England, citing First Amendment protections during a FIFA Task Force briefing. The comments come as FIFA continues reviewing the incident under its disciplinary rules, with potential sanctions still under consideration ahead of Sunday's World Cup final against Spain.",
+    "img": "https://static.toiimg.com/photo/msid-132472275,imgsize-230370.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/white-house-sends-clear-message-after-calls-for-fifa-to-punish-argentina-players-over-falklands-banner/articleshow/132472060.cms",
+    "time": "2026-07-18T00:57:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NEET cutoff at record high, qualifiers shrink by 1.1 lakh+",
+    "desc": "NEET-UG's qualifying cutoff reached a record high of 213 marks this year. Fewer candidates cleared the exam, while attendance also saw a substantial decline. The success rate among those who appeared remained nearly unchanged at 56.1 percent. Reserved category qualifiers for EWS and OBC exceeded sixty percent of their appeared cohort. Unreserved qualifiers now constitute less than fifty percent of the total qualified candidates.",
+    "img": "https://static.toiimg.com/photo/msid-132472279,imgsize-176923.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/neet-cutoff-at-record-high-qualifiers-shrink-by-1-1-lakh/articleshow/132472267.cms",
+    "time": "2026-07-18T00:50:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jen gushes over 'incredible' Ben: 'He's a great partner'",
+    "desc": "Jennifer Garner lauded ex-husband Ben Affleck as an incredible co-parent. She stated he is a great partner in raising their three children. Garner mentioned co-parenting has become easier as their kids have grown. She also credited Affleck for allowing her to continue working. Their divorce was finalized in 2018 after ten years of marriage.",
+    "img": "https://static.toiimg.com/photo/msid-132472238,imgsize-124688.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jennifer-garner-gushes-over-ben-affleck-calls-ex-husband-an-incredible-co-parent-and-great-partner/articleshow/132472059.cms",
+    "time": "2026-07-18T00:36:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delhi high court order has crippled consular, visa services at 4 missions: Govt to Supreme Court",
+    "desc": "Visa and consular services are severely impacted in four Indian missions abroad. The Delhi High Court had quashed the selection of private service providers for these crucial functions. The Centre informed the Supreme Court that these services are now at a standstill. This cancellation has forced missions to divert staff to meet emergency needs. The Supreme Court agreed to hear the Centre's appeal on Monday.",
+    "img": "https://static.toiimg.com/photo/msid-132472211,imgsize-1200969.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/delhi-high-court-order-has-crippled-consular-visa-services-at-4-missions-govt-to-supreme-court/articleshow/132472207.cms",
+    "time": "2026-07-18T00:11:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "France, England vie for third place",
+    "desc": "For France and England, Miami offers one final test of character. Neither arrived in America dreaming of bronze. But bronze is now all that remains and finding the will to fight for it may be the hardest assignment of all",
+    "img": "https://th-i.thgim.com/public/incoming/tz5gtd/article71235603.ece/alternates/LANDSCAPE_1200/2026-07-17T161331Z_601481975_UP1EM7H192H3G_RTRMADP_3_SOCCER-WORLDCUP-FRA-ENG-PREVIEW.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/fifa-world-cup-france-england-vie-for-third-place/article71235584.ece",
+    "time": "2026-07-18T00:10:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Three men sentenced to jail in separate cases of raping, abducting, and harassing minor girl",
+    "desc": "In a series of decisive judgments, a special court in Kalaburagi handed a 25-year jail term to a prime accused for rape, while sentencing two other youths to three years of imprisonment each for abducting and sexually harassing the same 12-year-old survivor.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/three-men-sentenced-to-jail-in-separate-cases-of-raping-abducting-and-harassing-minor-girl/article71234504.ece",
+    "time": "2026-07-17T23:49:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Odyssey' scores Rs 20 crore debut in India",
+    "desc": "Christopher Nolan's 'The Odyssey' registered a strong opening at the Indian box office. The film earned Rs 20.76 crore on its opening day. The English version led collections, contributing Rs 13.75 crore net. Premium formats like IMAX screenings significantly boosted the opening day numbers. The film also achieved strong advance bookings, ranking among top Hollywood pre-sales.",
+    "img": "https://static.toiimg.com/photo/msid-132472074,imgsize-81910.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/the-odyssey-box-office-collection-day-1-christopher-nolans-epic-scores-rs-20-crore-debut-records-one-of-the-biggest-hollywood-openers-in-india/articleshow/132472073.cms",
+    "time": "2026-07-17T23:48:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "The unique record of Slavko Vinčić, Argentina vs Spain World Cup final referee, with Messi and Yamal’s sides",
+    "desc": "Slovenian referee Slavko Vinčić has been appointed to officiate the 2026 FIFA World Cup final between Argentina and Spain, marking the biggest match of his career. The experienced official has overseen major European finals and multiple World Cup fixtures. While Argentina have lost their only previous match under him, Spain remain unbeaten across four games with Vinčić in charge.",
+    "img": "https://static.toiimg.com/photo/msid-132472039,imgsize-1191452.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/revealed-the-unique-record-of-slavko-vini-argentina-vs-spain-world-cup-final-referee-with-messi-and-yamals-sides/articleshow/132469736.cms",
+    "time": "2026-07-17T23:27:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "1 in 4 Kerala candidates skips NEET, Rajasthan posts 69% success",
+    "desc": "NEET-UG 2026 attendance revealed regional disparities across India. Kerala, Tamil Nadu, and Karnataka experienced significant candidate absenteeism this year. Rajasthan, however, saw increased registrations and a strong qualification rate. Other northern states like Uttar Pradesh also reported lower absentee numbers. This shift highlights evolving patterns in medical entrance examination participation.",
+    "img": "https://static.toiimg.com/photo/msid-132472033,imgsize-83202.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/1-in-4-kerala-candidates-skips-neet-rajasthan-posts-69-success/articleshow/132472031.cms",
+    "time": "2026-07-17T23:20:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "They reopened their books &amp; rewrote their NEET story",
+    "desc": "Medical aspirants demonstrated remarkable resilience after the NEET-UG exam cancellation. Many students faced renewed preparation challenges and anxieties. Top performers like Aryan Gupta and Panshul Bansal achieved exceptional scores. Their success highlights dedication and effective coping mechanisms during adversity. The merit list reflects perseverance and determination among these young individuals.",
+    "img": "https://static.toiimg.com/photo/msid-132472029,imgsize-24428.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/they-reopened-their-books-rewrote-their-neet-story/articleshow/132472027.cms",
+    "time": "2026-07-17T23:19:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Babulal Marandi writes to Hemant Soren demanding a judicial probe into the alleged scam in JSDMS",
+    "desc": "He also demanded that a special audit of all financial and administrative decisions taken by the JSDMS from the year 2023-24 to the present should be conducted by the Comptroller and Auditor General (CAG) of India or an independent agency.",
+    "img": "https://th-i.thgim.com/public/incoming/stpnyp/article71236010.ece/alternates/LANDSCAPE_1200/PTI01_08_2026_000102B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/babulal-marandi-writes-to-hemant-soren-demanding-a-judicial-probe-into-the-alleged-scam-in-jsdms/article71234141.ece",
+    "time": "2026-07-17T23:14:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Did 'Ramayana' makers EDIT Ranbir-Yash's teaser?",
+    "desc": "Fans noticed a change in the Ramayana teaser's color palette. The visuals now appear less saturated and more natural-looking. This apparent alteration follows audience feedback on the film's initial glimpse. The Ramayana trailer is scheduled for release on July 24. The epic film is set to release in two parts.",
+    "img": "https://static.toiimg.com/photo/msid-132471958,imgsize-170618.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/did-ramayana-makers-edit-teaser-starring-ranbir-kapoor-and-yash-clip-attached-to-christopher-nolans-the-odyssey-sparks-buzz-over-new-colour-palette-watch/articleshow/132469943.cms",
+    "time": "2026-07-17T22:29:39.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Textile sector to sew loose ends as FTAs kick in",
+    "desc": "New free trade agreements offer Indian textile exporters significant tariff advantages. The UK deal eliminates up to twelve percent tariffs, boosting competitiveness against rivals. Companies anticipate increased orders and potential export growth over the next few years. However, fragmented supply chains and higher input costs present ongoing challenges. Industry experts suggest government incentives could strengthen domestic fabric ecosystems.",
+    "img": "https://static.toiimg.com/photo/msid-132471953,imgsize-43642.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/textile-sector-to-sew-loose-ends-as-ftas-kick-in/articleshow/132471952.cms",
+    "time": "2026-07-17T22:20:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "'Front-running patterns seen in PMS by Sebi's AI tools'",
+    "desc": "Sebi is extensively deploying artificial intelligence tools for market surveillance. These advanced capabilities are generating actionable alerts for regulators. Patterns from these alerts suggest front-running is occurring within the PMS industry. The regulator is adopting a supportive approach for compliance and resolution. This initiative aims to foster greater awareness and deter negative investor perceptions.",
+    "img": "https://static.toiimg.com/photo/msid-132470796,imgsize-916954.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/front-running-patterns-seen-in-pms-by-sebis-ai-tools/articleshow/132470653.cms",
+    "time": "2026-07-17T22:08:45.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "RBI may look through price worries, high credit growth",
+    "desc": "RBI governor Sanjay Malhotra indicated no immediate policy reaction to current inflation. He described price pressures as contained, attributing them to supply-side factors. Growth remains resilient, supported by domestic demand and investment. Credit expansion is brisk, with RBI monitoring fast-growing segments closely. The central bank focuses on inflation composition, not just the headline number.",
+    "img": "https://static.toiimg.com/photo/msid-132470429,imgsize-114490.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-may-look-through-price-worries-high-credit-growth/articleshow/132470382.cms",
+    "time": "2026-07-17T22:06:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress warns Punjab dissidents against indiscipline, armtwisting, gives no assurances",
+    "desc": "Congress leaders were sternly told to maintain party discipline and avoid public criticism. Dissenting Punjab leaders met with AICC general secretary K C Venugopal regarding their grievances. They were instructed to address internal matters through designated organizational channels. Any open dissent was deemed politically detrimental and unacceptable to the party leadership. The party emphasized focusing on upcoming state elections and maintaining organizational unity.",
+    "img": "https://static.toiimg.com/photo/msid-132469960,imgsize-94779.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/congress-warns-punjab-dissidents-against-indiscipline-armtwisting-gives-no-assurances/articleshow/132469965.cms",
+    "time": "2026-07-17T22:03:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Tom Cruise shows off football skills in World Cup promo",
     "desc": "Tom Cruise released a promotional video for his upcoming film 'Digger' while showcasing football skills. He will also make a special appearance at the FIFA World Cup 2026 closing ceremony. The star-studded event will feature global performers before the final match. 'Digger' follows a powerful man on a mission to save humanity from disaster. The film is scheduled for theatrical release on October 2.",
     "img": "https://static.toiimg.com/photo/msid-132469731,imgsize-94020.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-cruise-unveils-world-cup-promo-for-digger-shows-off-football-skills-ahead-of-appearance-at-closing-ceremony-watch/articleshow/132469704.cms",
     "time": "2026-07-17T21:40:31.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "RIL Q1 profit plunges 25% to 23,000 crore, revenue up 25%",
+    "desc": "Reliance Industries saw a 25% profit decline, yet revenue grew significantly. Strong performances from oil-to-chemicals and Jio digital services boosted overall results. Jio's earnings climbed, supported by subscriber growth and increased average revenue per user. Retail and oil and gas divisions showed stable or slightly varied ebitda figures. The company maintains a healthy cash balance to cover its net debt obligations.",
+    "img": "https://static.toiimg.com/photo/msid-132469746,imgsize-30324.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/ril-q1-profit-plunges-25-to-23000-crore-revenue-up-25/articleshow/132469727.cms",
+    "time": "2026-07-17T21:28:28.000Z"
   },
   {
     "cat": "Sports",
@@ -64,11 +253,11 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "FIFA forced to ask IFAB for one-off rule exception ahead of World Cup final as detailed halftime timings revealed",
+    "title": "How long will Argentina vs Spain World Cup final be paused for halftime show? FIFA's full plan revealed",
     "desc": "FIFA's plan for a Super Bowl-style halftime show at the 2026 World Cup final between Spain and Argentina is expected to extend the interval beyond the usual 15 minutes, reportedly requiring an IFAB exemption. The break will include stage setup, a star-studded performance and pitch restoration, prompting debate over player welfare, match rhythm and football's growing focus on entertainment.",
     "img": "https://static.toiimg.com/photo/msid-132469430,imgsize-58198.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-forced-to-ask-ifab-for-one-off-rule-exception-ahead-of-world-cup-final-as-detailed-halftime-timings-revealed/articleshow/132468940.cms",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/how-long-will-argentina-vs-spain-world-cup-final-be-paused-for-halftime-show-fifas-full-plan-revealed/articleshow/132468940.cms",
     "time": "2026-07-17T20:18:00.000Z"
   },
   {
@@ -88,24 +277,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/department-of-space-vacancy-rate-at-25-yr-high-nearly-3-in-10-posts-lie-vacant/articleshow/132469400.cms",
     "time": "2026-07-17T19:34:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Net shut, Doda on edge after man shot dead by cops in cattle smuggling stakeout",
-    "desc": "A man was shot dead in Doda district following an encounter with police personnel. Mobile internet services were suspended across the district as tensions escalated rapidly. Three police officers sustained injuries during the confrontation on Jai valley road. Locals protested the death, and a shutdown was called by a local outfit. Authorities are investigating the incident, and senior officials are present in Bhaderwah.",
-    "img": "https://static.toiimg.com/photo/msid-132469154,imgsize-71969.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/net-shut-doda-on-edge-after-man-shot-dead-by-cops-in-cattle-smuggling-stakeout/articleshow/132469031.cms",
-    "time": "2026-07-17T19:21:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Jammu court rejects accused’s bail plea",
-    "desc": "A Jammu court rejected Kamal Singh Jamwal's bail plea in the Farooq Abdullah assassination attempt case. The judge cited wider implications for public order and democratic stability in the decision. Jamwal's medical plea was also dismissed, with no evidence of mental disorder presented. Charges were formally framed against Jamwal under attempt to murder and arms act provisions. The court directed the prosecution to produce witnesses for the upcoming trial.",
-    "img": "https://static.toiimg.com/photo/msid-132468981,imgsize-98035.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/farooq-abdullah-murder-bid-jammu-court-rejects-accuseds-bail-plea/articleshow/132469010.cms",
-    "time": "2026-07-17T19:09:43.000Z"
   },
   {
     "cat": "Sports",
@@ -199,6 +370,15 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
+    "title": "HC",
+    "desc": "However, such a right is enforceable if it partakes the character of a fundamental right under Article 25 of the Constitution or a customary right, said a Division Bench of Justices G.R. Swaminathan and K.K. Ramakrishnan",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/e755pl/article71235223.ece/alternates/LANDSCAPE_1200/HC-orders-probeGPND5N190.6.jpg..jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Madurai/residents-of-a-local-body-cannot-claim-burial-or-cremation-rights-in-another-local-body-hc/article71234669.ece",
+    "time": "2026-07-17T17:22:02.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "HC grants interim bail to Sub-Registrar Justin Manikandan Subramanian in the Palani math fraudulent land registration case",
     "desc": "Justice K. Rajasekar directed the petitioner to report before the CB-CID at 10.30 a.m. every day from July 27 till August 3, except on Sunday, and co-operate in the investigation. The larger conspiracy behind the registration of the document was still under investigation and the petitioner was involved in two previous criminal cases of a similar nature, says the State government",
     "img": "https://th-i.thgim.com/public/incoming/msuy6j/article71235674.ece/alternates/LANDSCAPE_1200/9871_6_2_2026_18_47_39_2_DSC_9824.JPEG",
@@ -250,15 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/hockey-india-launches-ethics-inquiry-against-asunta-lakra-ex-india-captain-calls-notice-intimidation/articleshow/132465776.cms",
     "time": "2026-07-17T16:42:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM launches country’s first hydrogen train, takes jibe at Congress and AAP",
-    "desc": "Mr. Modi says had “Hormuz” situation occurred before 2014, the Indian Railways would have come to a standstill as trains in most of the country ran solely on diesel; he points out that nearly 99% of India’s railway network has been electrified in the last 12 years; PM lashes out at AAP leaders for indulging in ‘extortion, illegal collection, and unauthorised possessions’ as part of their political culture",
-    "img": "https://th-i.thgim.com/public/incoming/2x7lq0/article71233867.ece/alternates/LANDSCAPE_1200/20260717165L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/indias-development-did-not-come-to-standstill-despite-oil-supply-crisis-pm-modi/article71233825.ece",
-    "time": "2026-07-17T16:31:59.000Z"
   },
   {
     "cat": "Sports",
@@ -342,15 +513,6 @@ const newsData_en = [
     "time": "2026-07-17T15:09:52.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Three ex-TMC MPs re-elected to Rajya Sabha as BJP candidates days after switching sides",
-    "desc": "Three former Trinamool Congress MPs have been elected unopposed to the Rajya Sabha. They switched to the Bharatiya Janata Party just days before their election. These leaders resigned from their previous posts last month after election results. Their return to the Upper House on BJP tickets marks a significant political shift. This development follows the Trinamool Congress's defeat in recent assembly elections.",
-    "img": "https://static.toiimg.com/photo/msid-132464228,imgsize-179914.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/three-ex-tmc-mps-re-elected-to-rajya-sabha-as-bjp-candidates-days-after-switching-sides/articleshow/132464224.cms",
-    "time": "2026-07-17T15:08:35.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Apple overtakes Nvidia to become world's most valuable company again",
     "desc": "Apple Inc. has regained its position as the world's most valuable company. Nvidia's stock experienced a sharp decline, reducing its market capitalization significantly. Investors are now favoring companies with strong long-term growth prospects over AI boom beneficiaries. Apple's recent share surge and China's approval for Apple Intelligence support its valuation. HSBC upgraded Apple's stock, citing an improving operational outlook for the company.",
@@ -360,13 +522,13 @@ const newsData_en = [
     "time": "2026-07-17T14:52:51.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Oscar award winning actor Brenda Fricker of 'Home Alone 2' fame passes away at 81",
-    "desc": "Brenda Fricker, the acclaimed Irish actor, has passed away at the age of eighty-one. She was the first Irish actor to win an Academy Award for her role. Fricker was widely recognized for her performances in My Left Foot and Home Alone 2. Her career spanned decades across film, television, and theatre productions. The world remembers her for her sincere and emotionally rich acting contributions.",
-    "img": "https://static.toiimg.com/photo/msid-132463917,imgsize-265174.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscar-award-winning-actor-brenda-fricker-of-home-alone-2-fame-passes-away-at-81/articleshow/132463873.cms",
-    "time": "2026-07-17T14:33:15.000Z"
+    "cat": "Sports",
+    "title": "How has the use of VAR impacted FIFA World Cup 2026?",
+    "desc": "The 2026 FIFA World Cup marks the third time that VAR has been used in World Cups Join host Rohan Pillay A. and guest Anirudh Velamuri as they explore the controversies and notable instances surrounding the usage of technology in football.",
+    "img": "https://th-i.thgim.com/public/todays-paper/tp-sports/jj0vj5/article71167810.ece/alternates/LANDSCAPE_1200/th01-insta-klosGU6G6EODO.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/podcast/how-has-the-use-of-var-impacted-fifa-world-cup-2026-in-focus-podcast/article71234844.ece",
+    "time": "2026-07-17T14:33:14.000Z"
   },
   {
     "cat": "Sports",
@@ -378,15 +540,6 @@ const newsData_en = [
     "time": "2026-07-17T14:32:21.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Vijay’s viral birthday cake now known as 'CM Cake'",
-    "desc": "A mango vanilla cake made for actor Vijay's birthday celebration has gained immense popularity. Customers are now ordering this cake by calling it the 'CM Cake'. The bakery experienced a significant surge in sales, selling hundreds of these cakes. Baker Tanvi Bokaria expressed surprise at the unexpected and overwhelming customer response. This cake has become the bakery's most ordered single item to date.",
-    "img": "https://static.toiimg.com/photo/msid-132463852,imgsize-155806.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vijay-effect-jana-nayagan-stars-birthday-cake-sees-massive-demand-bakers-claims-they-sold-400-cm-cakes-in-two-weeks/articleshow/132463805.cms",
-    "time": "2026-07-17T14:30:43.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Reliance Industries beats estimates with record quarterly EBITDA; revenue rises 25% yoy",
     "desc": "Revenue from operations rose 25% year-on-year to Rs 3.11 lakh crore in the June quarter, compared with Rs 2.48 lakh crore in the same quarter last year. Quarterly EBITDA increased 10% from a year earlier to Rs 54,067 crore.",
@@ -394,24 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/ril-q2-fy27-results-mukesh-ambani-reliance-industries-posts-22-fall-in-profit-on-one-time-asian-paints-caveat-from-last-year-revenue-rises-25-yoy/articleshow/132463785.cms",
     "time": "2026-07-17T14:27:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Who dies in ‘The Odyssey’?",
-    "desc": "Odysseus's epic ten-year journey home faced numerous deadly obstacles and monsters. Every single crew member perished during the disastrous and violent voyage. Key characters like Sinon and Eurylochus made sacrifices during the conflict. Upon returning, Odysseus battled suitors and executed several individuals. The film, directed by Christopher Nolan, features a star-studded cast.",
-    "img": "https://static.toiimg.com/photo/msid-132463735,imgsize-179621.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/who-dies-in-the-odyssey-all-about-the-brutal-fates-in-christopher-nolans-directed-saga/articleshow/132462947.cms",
-    "time": "2026-07-17T14:24:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Colonial mindset endures': Mehbooba Mufti slams Centre over silence on Sonam Wangchuk's hunger-strike",
-    "desc": "PDP chief Mehbooba Mufti criticized the government's silence on Sonam Wangchuk's hunger strike. Wangchuk has been on an indefinite hunger strike for twenty days demanding action. He is protesting alleged irregularities in the NEET examination and paper leaks. Doctors have warned of critical health risks if the hunger strike continues. Wangchuk vows to continue his protest until July twentieth for a government response.",
-    "img": "https://static.toiimg.com/photo/msid-132463590,imgsize-1262073.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/colonial-mindset-endures-mehbooba-mufti-slams-centre-over-silence-on-sonam-wangchuks-hunger-strike/articleshow/132463411.cms",
-    "time": "2026-07-17T14:24:25.000Z"
   },
   {
     "cat": "Sports",
@@ -423,15 +558,6 @@ const newsData_en = [
     "time": "2026-07-17T13:56:34.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "How opposition faultlines may help govt in Monsoon session",
-    "desc": "There are strong speculations that the government is planning to reintroduce the Delimitation Bill during upcoming Monsoon Session. The Bill could not pass the numbers test during the Budget session. Opposition parties, which were united in their opposition to the Bill in April, appear to be divided now over the idea of uniform seat increase. Some parties may support the bill if their concerns are addressed. The Congress fears isolation and has requested an all-party meeting for discussions. The proposed 50% seat increase aims to facilitate women's reservation without altering current proportions.",
-    "img": "https://static.toiimg.com/photo/msid-132463884,imgsize-1657802.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delimitation-debate-how-opposition-faultlines-may-help-govt-in-monsoon-session/articleshow/132460634.cms",
-    "time": "2026-07-17T13:50:14.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'OMG 2' director Amit Rai reacts to Paresh Rawal's claims of not getting credit for the film",
     "desc": "Actor Paresh Rawal recently claimed he pitched the original idea for the film 'OMG 2'. Director Amit Rai has strongly denied these allegations and questioned their basis. Rai asserted that the film was entirely his creation from conception to completion. He stated that the screenwriter association certificate bears his name as the creator. The dispute highlights differing perspectives on the film's origin and creative ownership.",
@@ -439,15 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/omg-2-director-amit-rai-reacts-to-paresh-rawals-claims-that-the-film-was-his-idea-and-akshay-kumar-didnt-give-him-credit/articleshow/132462712.cms",
     "time": "2026-07-17T13:40:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tom Holland turns ‘The Odyssey’ question into marriage confession",
-    "desc": "Tom Holland playfully claimed marriage to Zendaya during a film interview. He responded to a question about Zendaya's character, Goddess Athena. Holland stated Athena is married to him, prompting laughter from co-stars. This playful remark follows AI-generated images of their supposed wedding. The film 'The Odyssey' is scheduled for a July 2026 release.",
-    "img": "https://static.toiimg.com/photo/msid-132462905,imgsize-62198.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/shes-married-to-me-tom-holland-turns-the-odyssey-question-into-marriage-confession-with-zendaya/articleshow/132462223.cms",
-    "time": "2026-07-17T13:39:36.000Z"
   },
   {
     "cat": "Sports",
@@ -468,15 +585,6 @@ const newsData_en = [
     "time": "2026-07-17T13:02:06.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘The Odyssey’ plot in one minute",
-    "desc": "Christopher Nolan's film adaptation of The Odyssey has received significant fan acclaim. The movie's star cast shared a one-minute musical rap explaining the plot. Actors like Matt Damon and Zendaya introduced characters and key story elements. This creative recap helped fans understand the epic narrative before its release. The film promises a grand visual and emotional cinematic experience for audiences.",
-    "img": "https://static.toiimg.com/photo/msid-132462008,imgsize-261192.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-odyssey-plot-in-one-minute-matt-damon-anne-hathaway-zendaya-tom-holland-and-more-explain-entire-story-in-60-seconds/articleshow/132462008.cms",
-    "time": "2026-07-17T13:01:46.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Why crude oil prices haven’t spiralled out of control amid US-Iran conflict",
     "desc": "Brent crude prices in the spot market briefly surged to around $144 per barrel before easing as markets adjusted. Yet as ADB notes in its report - despite this unprecedented supply shock, crude oil prices did not reach levels seen during the 1973 Arab oil embargo or even the 1990 Gulf war, if one were to inflation-adjust the prices.",
@@ -484,15 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/strait-of-hormuz-closure-why-crude-oil-prices-havent-spiralled-out-of-control-amid-us-iran-conflict/articleshow/132460971.cms",
     "time": "2026-07-17T12:29:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ashwin Varde calls Paresh Rawal's 'OMG 2' allegations 'BASELESS'",
-    "desc": "Producer Ashwin Varde denied Paresh Rawal's claims regarding the 'OMG 2' story credit. Varde stated Rawal attempted to create a film without Akshay Kumar's involvement. He explained that writer Amit Rai developed the script after encouragement from Rawal. Varde asserted that Rawal was offered an acting role and compensated as per contract. The producer reiterated that no one tried to cheat Rawal of his due recognition.",
-    "img": "https://static.toiimg.com/photo/msid-132461068,imgsize-131246.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ashwin-varde-calls-paresh-rawals-omg-2-allegations-baseless-calls-actors-attempt-to-make-the-film-without-akshay-kumar-unethical/articleshow/132461021.cms",
-    "time": "2026-07-17T12:08:59.000Z"
   },
   {
     "cat": "Business",
@@ -540,15 +639,6 @@ const newsData_en = [
     "time": "2026-07-17T10:58:27.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Pakistan star suspended after failing dope test during T20 World Cup",
-    "desc": "Pakistan all-rounder Mohammad Nawaz received a three-month ban for a doping violation. His suspension will reduce to one month upon completing a treatment program. Nawaz tested positive for a cannabis metabolite during the T20 World Cup. He admitted the offense, stating it was unrelated to sporting performance. His match records from February 7 to May 1 have been disqualified.",
-    "img": "https://static.toiimg.com/photo/msid-132459201,imgsize-62197.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-star-suspended-after-failing-dope-test-during-t20-world-cup/articleshow/132459130.cms",
-    "time": "2026-07-17T10:37:50.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Sameera reveaks Aishwarya, Salman were there for her debut shot: 'They were producing'",
     "desc": "Sameera Reddy shared her initial Bollywood experiences, recalling severe anxiety during filming. She also opened up about her lifelong struggle with stammering and embracing the impediment. The actor revealed colorism affected her debut film, where her complexion was altered. She questioned societal definitions of beauty and the judgment faced by women. Reddy now teaches her children to face their fears and overcome challenges.",
@@ -565,15 +655,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/lpg-subsidy-bill-races-beyond-budget-may-hit-rs-1-lakh-crore-this-fiscal/articleshow/132458865.cms",
     "time": "2026-07-17T10:27:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why Argentina President is skipping the World Cup final despite Trump's presence",
-    "desc": "Argentine President Javier Milei will not attend the World Cup final in New Jersey. He believes his superstition, known as cábalas, ensures Argentina’s victory. Milei will watch the match from his residence in Buenos Aires. Donald Trump and FIFA president Gianni Infantino are expected to attend the final. This decision follows a long-standing presidential tradition of avoiding crucial matches.",
-    "img": "https://static.toiimg.com/photo/msid-132458905,imgsize-191620.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/why-argentinas-president-javier-milei-is-skipping-the-world-cup-final-despite-donald-trumps-presence/articleshow/132458262.cms",
-    "time": "2026-07-17T10:25:34.000Z"
   },
   {
     "cat": "Business",
@@ -648,33 +729,6 @@ const newsData_en = [
     "time": "2026-07-17T06:36:57.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Asian markets tumble as AI stock sell-off deepens; Nikkei sinks nearly 6%, HSI plunges 2%",
-    "desc": "Asian stock markets experienced significant selling pressure on Friday. Japan's Nikkei 225 and Taiwan's benchmark saw sharp declines. Concerns over artificial intelligence stock valuations and Middle East conflict weighed on investors. Oil prices extended gains as Middle East tensions escalated. US futures traded lower following a mixed session on Wall Street.",
-    "img": "https://static.toiimg.com/photo/msid-132454029,imgsize-141653.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/asian-markets-tumble-as-ai-stock-sell-off-deepens-nikkei-sinks-nearly-6-hsi-plunges-2/articleshow/132453725.cms",
-    "time": "2026-07-17T06:10:28.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India's first hydrogen-powered train flagged off by PM Modi; check route, timings, how it works",
-    "desc": "India’s first hydrogen train is a 10-coach passenger offering. According to Indian Railways, globally the few operational or under testing hydrogen trains have 2-3 passenger coaches, making India’s first hydrogen train the longest of its type in the world.",
-    "img": "https://static.toiimg.com/photo/msid-132454116,imgsize-708918.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-first-hydrogen-train-launch-pm-narendra-modi-flag-off-route-train-number-stoppages-schedule-key-facts-and-top-highlights/articleshow/132451525.cms",
-    "time": "2026-07-17T05:51:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sold for $4.9 mn, Pele's 1958 jersey becomes 2nd-most expensive; which is first?",
-    "desc": "Pelé, who died in 2022, was just 17 years old when he scored twice in Brazil's 5-2 victory over hosts Sweden in the World Cup final at Rasunda Stadium. He remains the youngest player to score in a World Cup final.",
-    "img": "https://static.toiimg.com/photo/msid-132452841,imgsize-383539.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/sold-for-4-9-million-peles-1958-fifa-world-cup-final-shirt-becomes-second-most-expensive-football-jersey-which-is-first/articleshow/132452830.cms",
-    "time": "2026-07-17T05:17:25.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "White House",
     "desc": "Press Secretary Leavitt said she did not know whether Mr. Trump would be supporting Argentina or Spain after he criticised the European nation at a NATO summit last week for failing to help with the Iran war",
@@ -685,39 +739,12 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "Rupee rises 14 paise in early trade as Dalal Street cheers; oil adds limited gains",
-    "desc": "The rupee opened stronger against the US dollar on Friday, gaining fourteen paise in early trade. Upbeat equity markets provided support for the domestic currency's early gains. However, sustained foreign fund outflows and firm crude oil prices capped further appreciation. Geopolitical tensions in the Middle East kept investors cautious towards emerging market currencies. The rupee is expected to trade within a narrow range with a downside bias.",
-    "img": "https://static.toiimg.com/photo/msid-132453016,imgsize-78295.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-rises-14-paise-in-early-trade-as-dalal-street-cheers-oil-adds-limited-gains/articleshow/132452989.cms",
-    "time": "2026-07-17T05:09:35.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "What’s new in the draft CAFE-III norms?",
     "desc": "The latest draft leaves most of the April proposal unchanged, suggesting the government has broadly stuck to the compromise it arrived at after months of intense negotiations between manufacturers of small cars and larger SUVs.",
     "img": "https://th-i.thgim.com/public/incoming/ol1hai/article71232756.ece/alternates/LANDSCAPE_1200/Ethanol%20side%20effects%20in%20vehicles%20E%2020%207.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/whats-new-in-the-draft-cafe-iii-norms-explained/article71232676.ece",
     "time": "2026-07-17T04:57:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Hydrogen train, Rs 25K cr in projects: PM Modi's agenda in Haryana, Chandigarh &amp; Punjab",
-    "desc": "Prime Minister Narendra Modi will launch development projects exceeding twenty-four thousand eight hundred crore rupees. These initiatives span highways, railways, healthcare, and education infrastructure across three regions. The visit includes flagging off India's first hydrogen-powered train from Jind to Sonipat. He will also inaugurate completed projects and lay foundation stones for new developments. This significant rollout aims to boost regional connectivity and public services.",
-    "img": "https://static.toiimg.com/photo/msid-132452016,imgsize-138776.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/pm-modis-haryana-chandigarh-punjab-visit-today-hydrogen-train-rs-25000-crore-projects-and-more-on-agenda/articleshow/132451965.cms",
-    "time": "2026-07-17T03:54:11.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Crude heads for biggest weekly gain in months amid intensifying Middle East crisis",
-    "desc": "Oil prices surged as escalating US-Iran military tensions raised supply disruption concerns. Brent crude traded at $85.34 and WTI crude at $80.08 per barrel. Recent US strikes aimed to degrade Iranian military capabilities, while Iran retaliated against regional allies. Renewed hostilities revived fears of a broader conflict and threats to the Strait of Hormuz. Iran warned of widespread infrastructure damage if US threats to strike its facilities are carried out.",
-    "img": "https://static.toiimg.com/photo/msid-132450634,imgsize-1897694.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/crude-heads-for-biggest-weekly-gain-in-months-amid-intensifying-middle-east-crisis-on-july-17-2026/articleshow/132450638.cms",
-    "time": "2026-07-17T01:56:38.000Z"
   },
   {
     "cat": "Sports",
@@ -828,15 +855,6 @@ const newsData_en = [
     "time": "2026-07-16T07:34:39.000Z"
   },
   {
-    "cat": "World",
-    "title": "U.S. approves nearly $2 billion in weapons sales to Saudi Arabia",
-    "desc": "This proposed sale will support the foreign policy and national security objectives of the United States by improving the security of a Major non-NATO Ally that is a force for political stability and economic progress in the Gulf Region, says U.S. State Department",
-    "img": "https://th-i.thgim.com/public/incoming/5b9yil/article71228425.ece/alternates/LANDSCAPE_1200/Justice_Department_Health_Care_Fraud_13279.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-approves-nearly-2-billion-in-weapons-sales-to-saudi-arabia/article71228415.ece",
-    "time": "2026-07-16T07:05:08.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Government hikes windfall tax on diesel, ATF; cuts levy on petrol exports",
     "desc": "The rate of Special Additional Excise Duty (SAED) on diesel exports has been increased to ₹15.5 a litre from ₹8.5 a litre; similarly, SAED on ATF exports has been raised to ₹14.5 per litre from ₹7.5 per litre till July 15",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/fifa-2026-world-cup-match-timings-ist-full-knockout-schedule-india-time/article71145665.ece",
     "time": "2026-07-15T23:29:46.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Brought in for civilian use, Starlink is now integral to Ukraine’s war effort",
-    "desc": "Russia’s latest attempts to jam the satellite network are about more than disrupting internet access; Starlink sits behind drone operations, battlefield communications, and command networks that stretch across hundreds of kilometres of the war front",
-    "img": "https://th-i.thgim.com/public/incoming/8i7let/article71227047.ece/alternates/LANDSCAPE_1200/2026-06-22T144855Z_720713080_RC2SRLAGY6SX_RTRMADP_3_NAMIBIA-STARLINK.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/brought-in-for-civilian-use-starlink-is-now-integral-to-ukraines-war-effort/article71225657.ece",
-    "time": "2026-07-15T18:23:41.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Cabinet approves ₹1.27 lakh crore for Semicon Mission 2.0, for mobile manufacturing, new highways",
-    "desc": "The cabinet also accorded approval to two major highway projects worth ₹25,400 crore to ease congestion in Varanasi and as many as nine new gas-based urea plants across the country with a production capacity of 10 million tons",
-    "img": "https://th-i.thgim.com/public/incoming/gwuala/article71226697.ece/alternates/LANDSCAPE_1200/20260715206L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/cabinet-okays-semicon-20-mobile-phone-manufacturing-scheme-highways-and-urea-plants/article71226334.ece",
-    "time": "2026-07-15T17:21:29.000Z"
   }
 ];
