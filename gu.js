@@ -1,12 +1,48 @@
 const newsData_gu = [
   {
     "cat": "Politics",
-    "title": "ભૂખ હડતાળ પર ઉતરેલા સોનમ વાંગચુકની તબિયત લથડી, દિલ્હી પોલીસે હોસ્પિટલમાં દાખલ કર્યા",
+    "title": "આકાશ ચીરીને અંતરિક્ષ તરફ રવાના થયું વિક્રમ-1, 3D પ્રિન્ટેડ એન્જિનની તાકાતથી સ્કાયરૂટે ઈતિહાસ રચ્યો",
+    "desc": "આજનો દિવસ ભારતીય અંતરિક્ષ વિજ્ઞાન માટે ખુબ મહત્વનો છે. આજે દેશનું પહેલું પ્રાઈવેટ ઓર્બિટલ રોકેટ વિક્રમ-1એ આકાશ તરફ ઉડવાનું શરૂ કરીને ઈતિહાસ રચ્યો. મિશન આગમન હેઠળ આ લોન્ચિંગ એટલા માટે ખાસ છે કારણ કે આ 7 માળ જેટલા ઊંચા રોકેટને ખુબ જ હળવા ઓલ કાર્બન કમ્પોઝિટ માળખા અને અત્યાધુનિક 3ડી પ્રિન્ટેડ એન્જિનથી તૈયાર કરાયું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/india%C2%A0first-privately-developed-orbital-class-rocket-vikram-1-launched-from-satish-dhawan-space-centre-485009 ",
+    "time": "2026-07-18T07:10:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "શોકિંગ એન્ડવાળી સાઉથની સસ્પેન્સ ફિલ્મો જોવી ગમે છે ? તો જુઓ માઈન્ડ બ્લોઈંગ ટ્વિસ્ટથી ભરપુર ફિલ્મ કૂમન",
+    "desc": "જો તમને દ્રશ્યમ ફિલ્મ જેવી સસ્પેન્સ અને થ્રીલથી ભરપુર ફિલ્મો જોવી ગમતી હોય તો આજે તમને આવી જ દમદાર ફિલ્મ વિશે જણાવીએ. આ ફિલ્મ છે કૂમન, ફિલ્મના એન્ડ વિશે તમે કલ્પના જ નહીં કરી શકો. ગેરંટી છે કે ફિલ્મ દરમિયાન કરેલા દરેક અનુમાન ફિલ્મના એન્ડમાં ખોટા પડશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/south-suspence-movie-in-hindi-must-watch-suspence-thriller-movie-on-prime-video-kooman-485010 ",
+    "time": "2026-07-18T06:56:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "&amp;#039;જાદુઈ જેકેટ&amp;#039;નો અંધવિશ્વાસ કે અતૂટ વિશ્વાસ? ફાઇનલ જોવા નહીં જાય આર્જેન્ટીનાના રાષ્ટ્રપતિ",
+    "desc": "ફૂટબોલ વર્લ્ડ કપની ફાઈનલ આર્જેન્ટીના અને સ્પેન વચ્ચે રમાશે. આ મેચને જોવા માટે દુનિયાભરના દિગ્ગજો અમેરિકાના ન્યૂજર્સીમાં ભેગા થશે. પરંતુ આર્જેન્ટીનાના રાષ્ટ્રપતિ ઝેવિયર મિલેઈ નહીં આવે. તેમણે પોતાના અંધવિશ્વાસના પગલે ઘરેથી જ ટીમને સપોર્ટ કરવાનો નિર્ણય લીધો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/football-world-cup-2026-why-argentina-president-javier-milei-skip-final-between-arg-vs-spn-485006 ",
+    "time": "2026-07-18T06:24:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "સલમાન પછી આમિર ખાન બિશ્નોઈ ગેંગના નિશાન પર ? સોશિયલ મીડિયા પર વાયરલ થઈ ધમકી ભરી પોસ્ટ",
+    "desc": "આમિર ખાનને બિશ્નોઈ ગેંગ તરફથી ધમકી મળી હોવાની ચર્ચા તેજ થઈ છે. સોશિયલ મીડિયા પર આ મામલે બિશ્નોઈ ગેંગના નામથી એક પોસ્ટ વાયરલ થઈ છે જેમાં આમિર ખાનને ગેંગ તરફથી ધમકી આપવામાં આવી છે. શું છે આ મામલો જાણો વિસ્તારપૂર્વક.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/after-salman-khan-aamir-khan-got-threat-from-bishnoi-gang-a-post-viral-on-social-media-485004 ",
+    "time": "2026-07-18T05:59:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "સોનમ વાંગચુકની તબિયત લથડતા દિલ્હી પોલીસે હોસ્પિટલમાં દાખલ કર્યા, પત્નીએ આપ્યું અલ્ટીમેટમ",
     "desc": "દિલ્હીના જંતર મંતર પર ભૂખ હડતાળ પર બેઠેલા સામાજિક કાર્યકર સોનમ વાંગચુકને દિલ્હી પોલીસ હાલ સફદરજંગ હોસ્પિટલ લઈ ગઈ છે. છેલ્લા 20 દિવસથી તેઓ ધરણા પર બેઠા હતા. તેમની શારીરિક સ્થિતિ સતત કથળી રહી હતી.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/big-breaking-sonam-wangchuk-taken-to-hospital-hunger-strike-cjp-latest-news-484989 ",
-    "time": "2026-07-18T04:38:14.000Z"
+    "time": "2026-07-18T05:31:41.000Z"
   },
   {
     "cat": "Sports",
@@ -414,15 +450,6 @@ const newsData_gu = [
     "time": "2026-07-14T16:05:40.000Z"
   },
   {
-    "cat": "Business",
-    "title": "હોર્મુઝ સંકટને લઈને સરકાર ટેન્શનમાં, જાણો પેટ્રોલ-ડીઝલ થશે મોંઘું કે ટેક્સ ઘટાડશે સરકાર",
-    "desc": "ઈરાન અને અમેરિકા વચ્ચે ફરી એકવાર તણાવ વધ્યો છે, જેના કારણે લોકોમાં એવો ભય ફેલાયો છે કે પેટ્રોલ અને ડીઝલના ભાવ ફરી વધી શકે છે. ત્યારે સંકટની સ્થિતિમાં સરકારનું વલણ કેવું હોઈ શકે છે, તેના પર એક નજર કરીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-price-know-govt-will-raise-fuel-prices-or-cut-taxes-amid-us-iran-war-again-484619 ",
-    "time": "2026-07-14T15:04:01.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "19.4 KM માઇલેજ, સનરૂફ અને 6 એરબેગ! આ કોરિયન SUV ને ખરીદવા પડાપડી, કિંમત માત્ર ₹10.99 લાખ",
     "desc": "Kia India એ જૂન 2026મા શાનદાર પ્રદર્શન કરતા 24552 કારનું વેચાણ કર્યું છે. સૌથી મોટી સરપ્રાઇઝ Kia Seltos રહી, જેના વેચાણમાં આશરે 85 ટકાનો જબરદસ્ત વધારો થયો. સોનેટે પણ દમદાર પ્રદર્શન કર્યું છે, જ્યારે Carens Clavis અને Carnival ની માંગમાં ઘટાડો જોવા મળ્યો છે.",
@@ -630,15 +657,6 @@ const newsData_gu = [
     "time": "2026-07-11T11:55:08.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "ક્રિસ્ટોફર નોલનની ફિલ્મ ધ ઓડિસીનો ક્રેઝ, 47,000 ખર્ચીને પણ લોકોને ફિલ્મ જોવી છે, જાણો એવું તો શું છે આ ફિલ્મમાં ?",
-    "desc": "ભારત સહિત દુનિયાભરના ફિલ્મ ચાહકોમાં અત્યારે ક્રિસ્ટોફર નોલનની ફિલ્મ ધ ઓડિસીનો જબરદસ્ત ક્રેઝ છે. આ ફિલ્મ લોકોને અદ્ભુત અનુભવ કરાવે તેવી છે. આ ફિલ્મનો ક્રેઝ એટલો છે કે લોકો 47,000 રુપિયાની ટિકિટ ખરીદીને પણ ફિલ્મ જોવા જઈ રહ્યા છે. ફિલ્મને લઈને આટલો ક્રેઝ શા માટે છે ચાલો તમને જણાવીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/why-christopher-nolan-movie-the-odyssey-is-special-the-odyssey-film-release-date-in-india-484218 ",
-    "time": "2026-07-11T02:26:35.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Innova અને Ertigaનું ટેન્શન વધ્યું! ₹5 લાખ ઓછી કિંમતમાં લોન્ચ થઈ 9 એરબેગવાળી આ શાનદાર 7 સીટર કાર, જાણો",
     "desc": "ફોક્સવેગને તેની નવી SUV, Tayron લોન્ચ કરી છે. Tayron R-Line ભારતમાં પહેલાથી જ ઉપલબ્ધ હતી, પરંતુ કંપનીએ હવે તેનું Life ટ્રીમ લોન્ચ કર્યું છે, જે જૂના વર્ઝન કરતા 5 લાખ રૂપિયા ઓછી કિંમતે આવે છે. આ કાર 2-લિટર ટર્બો પેટ્રોલ એન્જિન દ્વારા સંચાલિત છે.",
@@ -646,15 +664,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/tensions-between-innova-and-ertiga-have-increased-this-7-seater-car-with-9-airbags-launched-at-a-price-less-than-5-lakh-know-484202 ",
     "time": "2026-07-10T17:05:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Raghav Juyal અને Shehnaaz Gill ના રિલેનશશીપની ચર્ચા 3 વર્ષે ફરી શરુ, રાઘવ-શહેનાઝના વીડિયો થયા વાયરલ",
-    "desc": "3 વર્ષ પછી ફરી એકવાર શહેનાઝ ગિલ અને રાઘવ જુયાલના રિલેશનશીપની ચર્ચાઓ તેજ થઈ ગઈ છે. આ ચર્ચાનું કારણ છે કેટલાક વીડિયો જેમાં રાઘવ અને શહેનાઝ વચ્ચેની ખાસ કેમેસ્ટ્રી જોવા મળે છે. શું છે આ મામલો ચાલો તમને જણાવીએ વિગતવાર.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/raghav-juyal-and-shehnaaz-gill-video-viral-dating-rumours-start-after-3-years-484191 ",
-    "time": "2026-07-10T14:20:48.000Z"
   },
   {
     "cat": "Tech",

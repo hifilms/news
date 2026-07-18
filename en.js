@@ -1,5 +1,230 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Tommy Lee Jones",
+    "desc": "At the age of seventy-nine, veteran actor Tommy Lee Jones embarks on a triumphant return to television after nearly four decades. With three upcoming projects, his relentless pursuit of achievement highlights a profound commitment to his craft. Jones's journey encapsulates not just a quest for success, but also an enduring passion that elevates him beyond conventional standards of greatness.",
+    "img": "https://static.toiimg.com/photo/msid-132475790,imgsize-95360.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-tommy-lee-jones-greatness-is-overrated-the-desire-for-glory-is-not-a-sin-when-the-men-in-black-icon-reminded-everyone-what-truly-drives-success-/articleshow/132475689.cms",
+    "time": "2026-07-18T07:32:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sanjay Dutt says jail term taught him to forgive; hawaldar’s advice changed outlook",
+    "desc": "Bollywood star Sanjay Dutt reflects on the profound lessons learned during his time in prison. He emphasizes how a constable taught him the crucial value of forgiveness and the pathway to personal growth. Dutt acknowledges that while forgiveness is challenging, it is vital for one's evolution. His experience in jail, which humbled him, allowed him to emerge as a better person.",
+    "img": "https://static.toiimg.com/photo/msid-132475845,imgsize-106940.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sanjay-dutt-reveals-the-life-lesson-he-learnt-in-his-5-year-jail-term-a-hawaldar-told-me-learn-to-forgive-people/articleshow/132475494.cms",
+    "time": "2026-07-18T07:28:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "From The Red Bari to Skinny Mo’s: Inside Kolkata’s heritage revival",
+    "desc": "What happens when a 109-year-old bungalow becomes a jazz bar, an Edwardian office hosts flamenco, and forgotten mansions find new audiences? A new generation of entrepreneurs is restoring Kolkata’s historic buildings and transforming them into thriving cafés and cultural hubs, proving that adaptive reuse can be an alternative to demolition.",
+    "img": "https://th-i.thgim.com/public/incoming/duxc10/article71051641.ece/alternates/LANDSCAPE_1200/_DGP6931.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/life-and-style/from-the-red-bari-to-skinny-mos-inside-kolkatas-heritage-revival/article70992457.ece",
+    "time": "2026-07-18T07:13:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Meghan Markle felt 'humiliated' during UK visit",
+    "desc": "During her recent visit to the UK, Meghan Markle experienced feelings of humiliation and sadness. Her initial public agenda fell apart, which resulted in a discreet arrival with her children. Prince Harry's delayed response to a royal invitation caused accommodation issues. Meghan chose to let Harry handle the family's tensions while she remained out of the spotlight. The visit wrapped up with a private family gathering at Highgrove House.",
+    "img": "https://static.toiimg.com/photo/msid-132475553,imgsize-97176.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/meghan-markle-would-have-felt-humiliated-by-her-uk-return-ahead-of-highgrove-reunion-report/articleshow/132475481.cms",
+    "time": "2026-07-18T07:09:08.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Rescuers race to find survivors in rain after landslip in China kills at least eight",
+    "desc": "The landslide contained about 18,000 cubic meters of rocks and debris, and the largest single rock was around 3,000 cubic meters, Wang Chuanjun, head of Planning and Natural Resources in Pengshui County, told a news conference on July 17",
+    "img": "https://th-i.thgim.com/public/incoming/awbnsg/article71237314.ece/alternates/LANDSCAPE_1200/China_Landslide_72336.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/rescuers-race-to-find-survivors-in-rain-after-landslip-in-china-kills-many/article71237256.ece",
+    "time": "2026-07-18T07:08:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Skyroot makes history! 6 payloads put into low-Earth orbit aboard pvt rocket Vikram-1",
+    "desc": "Skyroot Aerospace launched India's first privately developed orbital rocket, Vikram-1. The vehicle successfully placed four technology demonstration satellites into low-Earth orbit. This launch marks a significant milestone in opening India's space sector to private companies. Vikram-1 utilized advanced carbon-composite structures and a restartable liquid-fuelled module. The mission validates India's capabilities in private orbital launch vehicle development.",
+    "img": "https://static.toiimg.com/photo/msid-132475426,imgsize-1011970.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/skyroot-makes-history-6-payloads-put-into-low-earth-orbit-aboard-pvt-rocket-vikram-1/articleshow/132474455.cms",
+    "time": "2026-07-18T06:56:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Coastal lions depend mainly on wild prey, study finds",
+    "desc": "Among the prey species, blue bull (nilgai) was the largest contributor, accounting for 51% of the biomass consumed by lions, wild pigs were the second most important wild prey, while cattle formed the largest domestic prey component",
+    "img": "https://th-i.thgim.com/public/incoming/egfg5m/article71237241.ece/alternates/LANDSCAPE_1200/7d95d207-98e5-4e09-9f0c-a9f4faab853b.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/coastal-lions-depend-mainly-on-wild-prey-study-finds/article71237035.ece",
+    "time": "2026-07-18T06:56:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranveer's Pralay signs Narcos cinematographer Juan Carlos Gil",
+    "desc": "Ranveer Singh's mega-budget zombie thriller 'Pralay' has signed Narcos cinematographer Juan Carlos Gil, who also shot Vikrant Massey's political drama 'White'. Both films aim for a global, high-scale visual treatment. 'Pralay' follows Ranveer's Dhurandhar success, while 'White', based on Gurudev Sri Sri Ravi Shankar's life, releases in 100+ countries.",
+    "img": "https://static.toiimg.com/photo/msid-132475352,imgsize-149222.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singhs-pralay-signs-narcos-cinematographer-juan-carlos-gil-after-vikrant-masseys-white/articleshow/132475352.cms",
+    "time": "2026-07-18T06:50:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Navya's son Googled Major Ravi to verify his army rank",
+    "desc": "Actress Navya Nair shared an amusing anecdote about her son's curiosity. Her son learned filmmaker Major Ravi was a real army major. He was surprised to discover Major Ravi's commando background online. This revelation occurred during a conversation at their home. The incident happened while discussing Navya Nair's upcoming film 'Visitor'.",
+    "img": "https://static.toiimg.com/photo/msid-132475244,imgsize-96082.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/navya-nair-recalls-sons-reaction-to-major-ravi-says-he-googled-the-filmmaker-was-he-commando-all-these-years/articleshow/132475221.cms",
+    "time": "2026-07-18T06:43:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Shah Rukh Khan",
+    "desc": "Shah Rukh Khan shared his parenting philosophy on capability and potential. He believes children reflect a parent's capacity to nurture and guide them. His career spans decades, marked by iconic films and critical acclaim. Khan's personal life includes his marriage and three children. He has received numerous awards for his contributions to cinema and society.",
+    "img": "https://static.toiimg.com/photo/msid-132474838,imgsize-172702.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/quote-of-the-day-by-shah-rukh-khan-our-children-are-not-our-responsibility-they-are-a-measure-of-our-capability-when-the-legendary-actor-shared-parenting-advice/articleshow/132474838.cms",
+    "time": "2026-07-18T06:21:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ellen DeGeneres shares her support to Kris Jenner after her mother’s passing",
+    "desc": "In a moment of profound loss, Kris Jenner announced that her beloved mother, Mary Jo Shannon, has passed away at ninety-one. Ellen DeGeneres offered her condolences through a heartfelt Instagram post, showcasing a photo that captured their bond. Additionally, Khloe Kardashian expressed appreciation for DeGeneres's friendship towards her mother. Mary Jo was truly the essence of the Kardashian-Jenner family, and her legacy will live on.",
+    "img": "https://static.toiimg.com/photo/msid-132474904,imgsize-71934.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ellen-degeneres-shares-her-condolences-after-kris-jenner-announces-her-mother-has-passed-away-were-sending-you-our-love/articleshow/132474904.cms",
+    "time": "2026-07-18T06:21:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What happened when four players tied for 2010 World Cup Golden Boot? Could Messi and Mbappé do the same?",
+    "desc": "Lionel Messi and Kylian Mbappé are level on eight goals in the 2026 FIFA World Cup Golden Boot race, with assists currently separating them. As France prepare for the third-place playoff and Argentina the final, FIFA’s tiebreaker rules could again decide the award, just as they famously did at the 2010 World Cup after a four-way tie on goals.",
+    "img": "https://static.toiimg.com/photo/msid-132474785,imgsize-1123041.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/what-happened-when-four-players-tied-for-2010-world-cup-golden-boot-could-messi-and-mbapp-do-the-same/articleshow/132474248.cms",
+    "time": "2026-07-18T06:20:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'I am still old school': Congress MP Manish Tewari dismisses buzz over PM Modi interaction",
+    "desc": "Congress MP Manish Tewari addressed speculation regarding his interaction with Prime Minister Narendra Modi. He stated his belief in protocol and keeping development above partisan politics. Tewari attended official programs where the Prime Minister inaugurated development projects in his constituency. This interaction follows his recent omission from Punjab Congress appointments. He expressed acceptance of his current political situation with a philosophical outlook.",
+    "img": "https://static.toiimg.com/photo/msid-132474843,imgsize-950081.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/i-am-still-old-school-congress-mp-manish-tewari-dismisses-buzz-over-pm-modi-interaction/articleshow/132474810.cms",
+    "time": "2026-07-18T06:14:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hrithik Roshan backs Sonam Wangchuk's NEET-UG protest",
+    "desc": "Sonam Wangchuk is currently on a hunger strike to demand transparency in the NEET-UG examination process. Actor Hrithik Roshan has shown his support, recalling his inspirational role in Super 30. Wangchuk has emphasized the alarming number of young lives lost due to exam fraud and warned about the long-term repercussions from unqualified medical professionals emerging from such practices. A growing number of celebrities are rallying behind the vibrant student-led movement.",
+    "img": "https://static.toiimg.com/photo/msid-132474814,imgsize-73540.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hrithik-roshan-backs-sonam-wangchuks-neet-ug-protest-shares-emotional-video-demanding-justice-for-students-this-feels-absolutely-true/articleshow/132474807.cms",
+    "time": "2026-07-18T06:10:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Prince William's Emmy nods arrive after Meghan Markle's own nomination",
+    "desc": "Prince William has garnered two Emmy nominations thanks to his guest appearance on Eugene Levy's acclaimed show, highlighting his growing presence in the entertainment industry. Meanwhile, Meghan Markle also received a nomination for her Netflix lifestyle series, 'With Love, Meghan'. However, her show has unfortunately struggled with negative reviews and low viewership, illustrating the challenges both royals face in their independent media pursuits.",
+    "img": "https://static.toiimg.com/photo/msid-132474765,imgsize-231770.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/prince-williams-cameo-in-the-reluctant-traveller-with-eugene-levy-earns-two-emmy-nods-after-meghan-markles-own-nomination/articleshow/132474737.cms",
+    "time": "2026-07-18T06:08:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Acting is more about restraint than exposition",
+    "desc": "Actors Kay Kay Menon, Naveen Kasturia and director Himank Gaur talk about their show ‘Adarsh Baal Vidyalaya’, how their school life shaped their journey in films, the experience of working with comedy, why Kay Kay Menon feels he has failed more than he has suceeded in his performances, and more",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/xjecyx/article71233372.ece/alternates/LANDSCAPE_1200/Kay%20Kay%20Menon%20in%20%E2%80%98Adarsh%20Baal%20Vidyalaya%E2%80%99",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/kay-kay-menon-acting-is-more-about-restraint-than-exposition-adarsh-baal-vidyalaya-prime-video/article71233353.ece",
+    "time": "2026-07-18T05:53:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PV Sindhu breaks Yufei jinx, becomes 1st Indian woman to reach Japan open final",
+    "desc": "PV Sindhu has reached the Japan Open 2026 final, a historic achievement for Indian badminton. She advanced after her opponent Chen Yufei retired due to injury during their match. Sindhu secured her first win against Chen since 2019, ending a significant losing streak. This marks her return to a BWF Tour title match after over two years. She will now face Akane Yamaguchi for the championship title.",
+    "img": "https://static.toiimg.com/photo/msid-132474623,imgsize-85630.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/pv-sindhu-breaks-chen-yufei-jinx-becomes-first-indian-woman-to-reach-japan-open-final/articleshow/132474597.cms",
+    "time": "2026-07-18T05:52:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jelly Roll and Bunnie XO finalise divorce",
+    "desc": "Rapper Jelly Roll and podcaster Bunnie XO have finalized their divorce proceedings. The couple agreed to divide their homes, cars, and intellectual properties. Jelly Roll will provide a one-time payment to Bunnie XO without future alimony. They married in 2016 and renewed their vows in 2023. The estranged couple will not speak negatively about each other publicly.",
+    "img": "https://static.toiimg.com/photo/msid-132474638,imgsize-308081.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/jelly-roll-and-bunnie-xo-finalise-divorce-after-10-years-of-marriage-couple-to-divide-assets-with-no-alimony/articleshow/132474647.cms",
+    "time": "2026-07-18T05:51:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Chinna Chinna Aasai' OTT release: When and where to watch",
+    "desc": "With its OTT release now confirmed,'Chinna Chinna Aasai' is set to reach a wider audience. The film offers a heartfelt story driven by strong performances, meaningful conversations and an emotionally rich setting that reflects on love, companionship and personal healing.",
+    "img": "https://static.toiimg.com/photo/msid-132474628,imgsize-60074.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/chinna-chinna-aasai-ott-release-when-and-where-to-watch-indrans-and-madhoos-drama/articleshow/132474588.cms",
+    "time": "2026-07-18T05:49:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Spain vs Argentina road to final",
+    "desc": "With the FIFA World Cup 2026 final just days away, fans are on the edge of their seats as the world’s top-ranked team, Argentina, prepares to face Europe’s best, Spain, in a summit clash for the ages",
+    "img": "https://th-i.thgim.com/public/incoming/6pmx1t/article71233250.ece/alternates/LANDSCAPE_1200/spain-argentina.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-spain-vs-argentina-road-to-final/article71233163.ece",
+    "time": "2026-07-18T05:44:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jon Bernthal continued his work even after Christopher Nolan tried to stop him",
+    "desc": "When director Christopher Nolan requested Jon Bernthal to pause filming a particularly grueling scene, Bernthal resolutely declined, courageously enduring icy waters that remarkably inspired co-star Matt Damon. Damon acknowledged that Bernthal's determination positively influenced the entire cast's morale. Bernthal articulated his philosophy of confronting challenges and welcoming rejection, reflecting on 'The Odyssey,' a film that depicts Odysseus's challenging voyage back home post-Trojan War.",
+    "img": "https://static.toiimg.com/photo/msid-132474543,imgsize-83460.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-odyssey-jon-bernthal-told-christopher-nolan-you-aint-breaking-me-refused-to-stop-during-a-taxing-scene/articleshow/132474481.cms",
+    "time": "2026-07-18T05:40:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Minor boy opens fire at 16-year-old ‘girlfriend’ in Bengaluru, buries body with family’s help",
+    "desc": "For now, the police have recorded statements from both families but have identified several loose ends. The investigation will continue to ascertain whether there was negligence on the part of multiple people in the case",
+    "img": "https://th-i.thgim.com/public/incoming/4kkbxu/article71236911.ece/alternates/LANDSCAPE_1200/iStock-871380072.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/bangalore/minor-boy-opens-fire-at-16-year-old-girlfriend-buries-body-with-familys-help/article71235078.ece",
+    "time": "2026-07-18T05:38:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India, Pakistan discuss border security at SCO meeting in Islamabad",
+    "desc": "The discussions took place during the 12th Meeting of the Heads of Border Services of the Competent Authorities of the SCO member states, which was chaired by Pakistan, according to a statement issued by the country's Foreign Office. Representatives from Belarus, China, India, Iran, Kazakhstan, Kyrgyzstan, Pakistan, Russia, Tajikistan and Uzbekistan, along with officials from the Executive Committee of the SCO Regional Anti-Terrorist Structure (RATS), attended the meeting.",
+    "img": "https://static.toiimg.com/photo/msid-132474508,imgsize-163435.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-pakistan-discuss-border-security-at-sco-meeting-in-islamabad/articleshow/132474025.cms",
+    "time": "2026-07-18T05:37:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Sonam Wangchuk shifted to Safdarjung Hospital on 21st day of hunger strike",
+    "desc": "The New Delhi DCP office said that Sonam Wangchuk has been shifted to the hospital as per the orders of the Delhi High Court and on expert medical advice due to his deteriorating health condition",
+    "img": "https://th-i.thgim.com/public/incoming/pmzjlp/article71236993.ece/alternates/LANDSCAPE_1200/PTI07_18_2026_000019B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/sonam-wangchuk-shifted-to-hospital-hunger-strike-abhijeet-dipke-jantar-mantar-july-18-2026/article71236976.ece",
+    "time": "2026-07-18T05:23:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Cricket has lost one of its greatest': Virat Kohli mourns Garry Sobers' death",
+    "desc": "Kohli took to X to express his condolences and praised Sobers' impact on the game. \"Cricket has lost one of its greatest. Rest in peace, Sir Garfield Sobers. Your legacy will inspire generations,\" Kohli wrote.",
+    "img": "https://static.toiimg.com/photo/msid-132474258,imgsize-436056.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/cricket-has-lost-one-of-its-greatest-virat-kohli-mourns-sir-garfield-sobers-death/articleshow/132474245.cms",
+    "time": "2026-07-18T05:19:35.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Kerala looks to the skies to tackle human-wildlife conflict, but is this feasible?",
     "desc": "Kerala Forest Department has proposed using Indian Air Force helicopters to relocate captured Schedule I animals, including tigers and leopards, from conflict hotspots to secure forest habitats. However, the move has sparked debate over its ecological and economic feasibility",
@@ -27,13 +252,13 @@ const newsData_en = [
     "time": "2026-07-18T05:11:50.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "From The Red Bari to Skinny Mo’s: Inside Kolkata’s heritage revival",
-    "desc": "What happens when a 109-year-old bungalow becomes a jazz bar, an Edwardian office hosts flamenco, and forgotten mansions find new audiences? A new generation of entrepreneurs is restoring Kolkata’s historic buildings and transforming them into thriving cafés and cultural hubs, proving that adaptive reuse can be an alternative to demolition.",
-    "img": "https://th-i.thgim.com/public/incoming/duxc10/article71051641.ece/alternates/LANDSCAPE_1200/_DGP6931.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/life-and-style/from-the-red-bari-to-skinny-mos-inside-kolkatas-heritage-revival/article70992457.ece",
-    "time": "2026-07-18T05:03:47.000Z"
+    "cat": "Politics",
+    "title": "‘What a reign of thugs ...’: Opposition attacks Centre after Wangchuk’s removal from Jantar Mantar, calls officers 'Modi goons'",
+    "desc": "Political leaders from across the spectrum expressed strong condemnation of the Delhi police's actions at Jantar Mantar. Activist Sonam Wangchuk was transported to Safdarjung Hospital during his ongoing hunger strike, which has drawn attention to the NEET-UG paper leak. Critics have accused the police of using force against peaceful demonstrators and called out the government for its efforts to stifle dissent in this volatile situation.",
+    "img": "https://static.toiimg.com/photo/msid-132474172,imgsize-111630.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/what-a-reign-of-thugs-opposition-attacks-centre-after-wangchuks-removal-from-jantar-mantar-calls-officers-modi-goons/articleshow/132474067.cms",
+    "time": "2026-07-18T05:00:06.000Z"
   },
   {
     "cat": "Entertainment",
@@ -90,13 +315,13 @@ const newsData_en = [
     "time": "2026-07-18T04:34:53.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Sonam Wangchuk shifted to Safdarjung Hospital on 21st day of hunger strike",
-    "desc": "The New Delhi DCP office said that Sonam Wangchuk has been shifted to the hospital as per the orders of the Delhi High Court and on expert medical advice due to his deteriorating health condition",
-    "img": "https://th-i.thgim.com/public/incoming/pmzjlp/article71236993.ece/alternates/LANDSCAPE_1200/PTI07_18_2026_000019B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/sonam-wangchuk-shifted-to-hospital-hunger-strike-abhijeet-dipke-jantar-mantar-july-18-2026/article71236976.ece",
-    "time": "2026-07-18T04:34:10.000Z"
+    "cat": "Sports",
+    "title": "‘Why put him on defence?’ Donald Trump questions Tuchel’s use of his ‘golf partner’ Harry Kane",
+    "desc": "Donald Trump has questioned Thomas Tuchel’s tactical decision to use Harry Kane in a deeper defensive role during England’s World Cup semi-final collapse against Argentina. Tuchel defended his approach, insisting Kane’s positioning was part of the team’s collective defensive structure. England’s manager admitted his side became too passive after taking the lead as Argentina completed a dramatic comeback to reach the final.",
+    "img": "https://static.toiimg.com/photo/msid-132473880,imgsize-753208.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/why-put-him-on-defence-donald-trump-questions-tuchels-use-of-his-golf-partner-harry-kane/articleshow/132473403.cms",
+    "time": "2026-07-18T04:34:41.000Z"
   },
   {
     "cat": "Entertainment",
@@ -115,15 +340,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/how-does-a-hydrogen-train-work/articleshow/132472949.cms",
     "time": "2026-07-18T03:50:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Brenda Fricker passes away at age 81",
-    "desc": "Brenda Fricker, the celebrated Irish actress famed for her iconic role in Home Alone 2, has tragically passed away at the age of eighty-one. With an illustrious career comprising over one hundred roles, she is also remembered for winning an Academy Award for her gripping performance in My Left Foot. A wave of heartfelt tributes has emerged from fans and colleagues across the globe to honor her legacy.",
-    "img": "https://static.toiimg.com/photo/msid-132473413,imgsize-186180.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscar-winning-actress-and-home-alone-2-star-brenda-fricker-passes-away-in-dublin-at-81/articleshow/132473401.cms",
-    "time": "2026-07-18T03:50:02.000Z"
   },
   {
     "cat": "Politics",
@@ -153,24 +369,6 @@ const newsData_en = [
     "time": "2026-07-18T03:26:04.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Tiny Tom responds to Salim Kumar's funeral trolling",
-    "desc": "Actor Tiny Tom responded to the backlash concerning his tearful farewell at Salim Kumar's funeral. He reminisced about their nearly three-decade friendship that blossomed through mimicry and competing in college events. Tiny Tom fondly shared anecdotes of their camaraderie and victories at university functions. He had visited Salim Kumar in the hospital, praying for a miracle, making his loss feel even more profound.",
-    "img": "https://static.toiimg.com/photo/msid-132473045,imgsize-216366.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/tiny-tom-breaks-silence-on-trolling-for-crying-at-salim-kumars-funeral-says-people-may-not-know-any-of-that/articleshow/132473036.cms",
-    "time": "2026-07-18T03:18:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Arnold Schwarzenegger",
-    "desc": "Arnold Schwarzenegger's life story highlights dedication and unwavering belief in achieving dreams. He transitioned from bodybuilding champion to a successful Hollywood actor and politician. Schwarzenegger's career demonstrates that consistent effort transforms visions into tangible realities. His journey underscores the importance of action alongside ambition for success. The article reflects on his inspirational autobiography, 'Total Recall'.",
-    "img": "https://static.toiimg.com/photo/msid-132472950,imgsize-226145.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-arnold-schwarzenegger-if-you-want-to-turn-a-vision-into-reality-you-have-to-give-100-and-never-stop-believing-in-your-dream-when-the-terminator-actor-shared-secret-of-his-success/articleshow/132472956.cms",
-    "time": "2026-07-18T03:08:20.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Just like Messi': Kaif makes strong case for Rohit, Virat for 2027 World Cup",
     "desc": "Mohammed Kaif believes Rohit Sharma and Virat Kohli are essential for India's 2027 World Cup campaign. He stressed their experience will be vital for challenging conditions in South Africa. Kaif compared their importance to Lionel Messi's impact on his football team. Experienced players offer guidance and create opportunities for younger teammates. India will need these seasoned cricketers under captain Shubman Gill.",
@@ -178,15 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/just-like-messi-for-argentina-mohammed-kaif-makes-strong-case-for-rohit-sharma-virat-kohli-for-2027-world-cup/articleshow/132472698.cms",
     "time": "2026-07-18T02:38:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Deepak Parambol recalls 'Varavu' shoot accident",
-    "desc": "Actor Deepak Parambol recently shared details about a dangerous accident during the filming of 'Varavu'. He was hanging from a moving jeep when the vehicle overturned while taking a turn. Deepak realized he survived purely by luck and instinct saved him. He sustained only minor cuts on his knee and hand from the incident. The action drama directed by Shaji Kailas was released on July 16.",
-    "img": "https://static.toiimg.com/photo/msid-132472744,imgsize-55524.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/deepak-parambol-recalls-varavu-shoot-accident-says-jeep-overturned-my-head-really-should-have-hit/articleshow/132472716.cms",
-    "time": "2026-07-18T02:35:49.000Z"
   },
   {
     "cat": "Politics",
@@ -198,15 +387,6 @@ const newsData_en = [
     "time": "2026-07-18T02:17:13.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Priyanka stuns as Mandakini in 'fierce' new look from 'Varanasi'",
-    "desc": "Priyanka Chopra's fierce new look as Mandakini in SS Rajamouli's film 'Varanasi' was revealed. This marks her first Indian theatrical release since 2019, starring opposite Mahesh Babu. The epic adventure spans thousands of years and multiple continents, featuring extensive action. Chopra plays a strong, vulnerable character caught between two central male figures. The film is scheduled for a worldwide theatrical release on April 7, 2027.",
-    "img": "https://static.toiimg.com/photo/msid-132472517,imgsize-183594.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/varanasi-priyanka-chopra-stuns-as-mandakini-in-fierce-new-look-from-ss-rajamoulis-globe-trotting-epic-on-birthday/articleshow/132472469.cms",
-    "time": "2026-07-18T02:16:26.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'There was no need to bring him to hospital', says Sonam Wangchuk's wife; CJP attacks Modi govt",
     "desc": "Activist Sonam Wangchuk was forcibly removed from Jantar Mantar and subsequently taken to a hospital as his health declined after twenty-one days of an indefinite hunger strike. During the demonstration, police detained CJP founder Abhijeet Dipke amid the ensuing chaos. Despite Wangchuk's absence, the planned march to Parliament is set to continue, focusing on calling out alleged discrepancies in the NEET examination and advocating for necessary reforms.",
@@ -216,33 +396,6 @@ const newsData_en = [
     "time": "2026-07-18T02:05:16.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rani STOPS paparazzi from taking Adira’s pics",
-    "desc": "Rani Mukerji was seen at the Mumbai airport on Friday. She approached photographers to ensure her daughter was not photographed. The actor asked a photographer to check his camera for images of Adira. The photographer confirmed Adira had not been captured on camera. Rani and Aditya Chopra prioritize Adira's privacy as a conscious parenting choice.",
-    "img": "https://static.toiimg.com/photo/msid-132472223,imgsize-147044.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rani-mukerji-gets-into-protective-mom-mode-at-airport-checks-paparazzis-camera-for-daughter-adiras-pics-bache-nahi-aa-gaye-na/articleshow/132472219.cms",
-    "time": "2026-07-18T01:48:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Oh..! Sukumari' X review",
-    "desc": "Thiruveer and Aishwarya Rajesh's film 'Oh..! Sukumari' has opened to positive audience reactions. Viewers are praising the movie's engaging blend of comedy and romance. The film's screenplay and emotional moments have been highlighted by many viewers. Audiences appreciate the lead pair's chemistry and the movie's visuals. 'Oh..! Sukumari' is being described as a wholesome family entertainer.",
-    "img": "https://static.toiimg.com/photo/msid-132472442,imgsize-287864.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/oh-sukumari-twitter-review-thiruveer-and-aishwarya-rajesh-win-praise-viewers-call-it-an-entertaining-and-engaging-one/articleshow/132472404.cms",
-    "time": "2026-07-18T01:47:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Will Smith's former friend seeks his testimony against Jada",
-    "desc": "Will Smith may be called to testify in a legal case involving his wife, Jada Pinkett Smith. Bilaal Salaam is seeking the actor's testimony against his own spouse in a lawsuit. Jada Pinkett Smith's legal team has stated Will Smith is not part of the litigation. Salaam has accused Pinkett Smith of threatening him in September 2021.",
-    "img": "https://static.toiimg.com/photo/msid-132472389,imgsize-221137.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/will-smiths-former-friend-bilaal-salaam-seeks-his-testimony-against-jada-pinkett-smith-in-usd-3-million-lawsuit/articleshow/132472374.cms",
-    "time": "2026-07-18T01:33:35.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Do we need Kohli &amp; Rohit?': Ashwin's blunt take on 2027 World Cup plans",
     "desc": "Ravichandran Ashwin questions the timing of speculation about Rohit Sharma and Virat Kohli's ODI futures. He believes selectors should have communicated any transition plans much earlier. Ashwin stated that the experienced duo's presence is still needed for upcoming tours. Honest communication is essential when managing senior players' careers. Such discussions are surfacing late, with the next World Cup approaching.",
@@ -250,33 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/do-we-need-virat-kohli-and-rohit-sharma-r-ashwin-breaks-silence-on-indias-2027-world-cup-plans/articleshow/132472290.cms",
     "time": "2026-07-18T01:30:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Taylor Swift and Travis Kelce feel 'disheartened'",
-    "desc": "Taylor Swift and Travis Kelce's recent wedding has drawn mixed reactions from guests and fans. Disappointment arose from NFL players not receiving invitations to pre-wedding events. The newlyweds are reportedly finding it difficult to ignore negative public chatter. They recently attended another wedding, which helped to lift their spirits. This event allowed them to enjoy a celebration without personal wedding pressures.",
-    "img": "https://static.toiimg.com/photo/msid-132472347,imgsize-264362.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/taylor-swift-and-travis-kelce-feel-disheartened-by-trash-talking-from-nfl-stars-theyre-finding-it-quite-exhausting/articleshow/132472351.cms",
-    "time": "2026-07-18T01:22:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Minor boy opens fire at 16-year-old ‘girlfriend’ in Bengaluru, buries body with family’s help",
-    "desc": "For now, the police have recorded statements from both families but have identified several loose ends. The investigation will continue to ascertain whether there was negligence on the part of multiple people in the case",
-    "img": "https://th-i.thgim.com/public/incoming/4kkbxu/article71236911.ece/alternates/LANDSCAPE_1200/iStock-871380072.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/bangalore/minor-boy-opens-fire-at-16-year-old-girlfriend-buries-body-with-familys-help/article71235078.ece",
-    "time": "2026-07-18T01:09:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Arulvaan' X review: Arulnithi's performance wins praise",
-    "desc": "The release of 'Arulvaan,' starring Arulnithi, has sparked positive discussions online, resonating deeply with audiences. The film features a heartfelt narrative about a tribal girl's ambition for education in the 1990s. Arulnithi takes on the role of a District Collector, while Baby Kritika shines as the young girl on a transformative journey. Viewers appreciate the film's powerful storytelling and profound emotional connections created through its engaging screenplay.",
-    "img": "https://static.toiimg.com/photo/msid-132472283,imgsize-397054.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/arulvaan-twitter-review-arulnithis-performance-wins-praise-fans-call-it-a-soulful-drama-movie-with-neatly-written-screenplay/articleshow/132472273.cms",
-    "time": "2026-07-18T00:59:54.000Z"
   },
   {
     "cat": "Sports",
@@ -295,15 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/neet-cutoff-at-record-high-qualifiers-shrink-by-1-1-lakh/articleshow/132472267.cms",
     "time": "2026-07-18T00:50:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jen gushes over 'incredible' Ben: 'He's a great partner'",
-    "desc": "Jennifer Garner lauded ex-husband Ben Affleck as an incredible co-parent. She stated he is a great partner in raising their three children. Garner mentioned co-parenting has become easier as their kids have grown. She also credited Affleck for allowing her to continue working. Their divorce was finalized in 2018 after ten years of marriage.",
-    "img": "https://static.toiimg.com/photo/msid-132472238,imgsize-124688.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jennifer-garner-gushes-over-ben-affleck-calls-ex-husband-an-incredible-co-parent-and-great-partner/articleshow/132472059.cms",
-    "time": "2026-07-18T00:36:41.000Z"
   },
   {
     "cat": "Politics",
@@ -352,15 +469,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "They reopened their books &amp; rewrote their NEET story",
-    "desc": "Medical aspirants demonstrated remarkable resilience after the NEET-UG exam cancellation. Many students faced renewed preparation challenges and anxieties. Top performers like Aryan Gupta and Panshul Bansal achieved exceptional scores. Their success highlights dedication and effective coping mechanisms during adversity. The merit list reflects perseverance and determination among these young individuals.",
-    "img": "https://static.toiimg.com/photo/msid-132472029,imgsize-24428.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/they-reopened-their-books-rewrote-their-neet-story/articleshow/132472027.cms",
-    "time": "2026-07-17T23:19:00.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Babulal Marandi writes to Hemant Soren demanding a judicial probe into the alleged scam in JSDMS",
     "desc": "He also demanded that a special audit of all financial and administrative decisions taken by the JSDMS from the year 2023-24 to the present should be conducted by the Comptroller and Auditor General (CAG) of India or an independent agency.",
     "img": "https://th-i.thgim.com/public/incoming/stpnyp/article71236010.ece/alternates/LANDSCAPE_1200/PTI01_08_2026_000102B.jpg",
@@ -396,15 +504,6 @@ const newsData_en = [
     "time": "2026-07-17T22:06:22.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Congress warns Punjab dissidents against indiscipline, armtwisting, gives no assurances",
-    "desc": "Congress leaders were sternly told to maintain party discipline and avoid public criticism. Dissenting Punjab leaders met with AICC general secretary K C Venugopal regarding their grievances. They were instructed to address internal matters through designated organizational channels. Any open dissent was deemed politically detrimental and unacceptable to the party leadership. The party emphasized focusing on upcoming state elections and maintaining organizational unity.",
-    "img": "https://static.toiimg.com/photo/msid-132469960,imgsize-94779.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/congress-warns-punjab-dissidents-against-indiscipline-armtwisting-gives-no-assurances/articleshow/132469965.cms",
-    "time": "2026-07-17T22:03:19.000Z"
-  },
-  {
     "cat": "Business",
     "title": "RIL Q1 profit plunges 25% to 23,000 crore, revenue up 25%",
     "desc": "Reliance Industries saw a 25% profit decline, yet revenue grew significantly. Strong performances from oil-to-chemicals and Jio digital services boosted overall results. Jio's earnings climbed, supported by subscriber growth and increased average revenue per user. Retail and oil and gas divisions showed stable or slightly varied ebitda figures. The company maintains a healthy cash balance to cover its net debt obligations.",
@@ -421,24 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/will-argentina-stars-miss-world-cup-final-under-fifa-rules-decision-looms-over-falklands-banner-celebration/articleshow/132469637.cms",
     "time": "2026-07-17T21:23:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Supreme Court",
-    "desc": "The Supreme Court has mandated states to construct washrooms for women lawyers. This directive addresses a significant human rights and health issue for advocates. States are given a six-week deadline to complete the construction of these facilities. The court rejected pleas of fund paucity, suggesting alternative revenue sources. This action aims to ensure women lawyers can practice with dignity and health.",
-    "img": "https://static.toiimg.com/photo/msid-132469719,imgsize-1015725.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/build-toilets-for-women-in-courts-in-6-weeks-supreme-court/articleshow/132469716.cms",
-    "time": "2026-07-17T21:21:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Spain vs Argentina road to final",
-    "desc": "With the FIFA World Cup 2026 final just days away, fans are on the edge of their seats as the world’s top-ranked team, Argentina, prepares to face Europe’s best, Spain, in a summit clash for the ages",
-    "img": "https://th-i.thgim.com/public/incoming/6pmx1t/article71233250.ece/alternates/LANDSCAPE_1200/spain-argentina.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-spain-vs-argentina-road-to-final/article71233163.ece",
-    "time": "2026-07-17T20:51:49.000Z"
   },
   {
     "cat": "Politics",
@@ -466,15 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/lamine-yamal-separated-from-spain-squad-ahead-of-world-cup-final-as-federation-issues-update-on-fitness/articleshow/132468338.cms",
     "time": "2026-07-17T18:54:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Special team to conduct detailed probe into Dharani transactions",
-    "desc": "The government had already ordered a audit which probed transactions in Siddipet and Medak districts on a pilot basis, and the exercise was extended to the remaining parts of State; Cabinet takes the decision following spate of complaints like inclusion of vast lands in prohibited list",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/special-team-to-conduct-detailed-probe-intodharanitransactions/article71235309.ece",
-    "time": "2026-07-17T18:39:28.000Z"
   },
   {
     "cat": "Sports",
@@ -522,13 +594,13 @@ const newsData_en = [
     "time": "2026-07-17T17:36:09.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "HI launches ethics inquiry against Asunta Lakra; ex-India captain calls notice 'intimidation'",
-    "desc": "Hockey India's Ethics Committee has started an inquiry into complaints against Asunta Lakra. This follows a Ministry directive for a neutral probe into her allegations. Lakra has been asked to submit her defense by July 30, 2026. She claims the notice is an attempt to intimidate her during the process. Hockey India's vice-president supports Lakra and will monitor the federation's actions.",
-    "img": "https://static.toiimg.com/photo/msid-132465770,imgsize-88278.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/hockey-india-launches-ethics-inquiry-against-asunta-lakra-ex-india-captain-calls-notice-intimidation/articleshow/132465776.cms",
-    "time": "2026-07-17T16:42:35.000Z"
+    "cat": "Entertainment",
+    "title": "Singer, composer and architect",
+    "desc": "Singer-songwriter Shakthishree Gopalan’s latest independent single is ‘Old Friend’, a track that has been many years in the making. “It’s about my inner demons. It holds everything – from my neurodivergence, my mental health journey, and above all, choosing myself,” she says. In an interview, the singer talks about the journey of her latest track and independent music. Shakthisree – also a qualified architect - also talks about how she was roped it to design music composer AR Rahman’s music school and studio.",
+    "img": "https://th-i.thgim.com/public/incoming/rkl2ja/article71235513.ece/alternates/LANDSCAPE_1200/Shakthishree%20Gopalan%20.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/meet-the-real-shakthishree-singer-composer-and-architect/article71235516.ece",
+    "time": "2026-07-17T16:44:40.000Z"
   },
   {
     "cat": "Sports",
@@ -612,24 +684,6 @@ const newsData_en = [
     "time": "2026-07-17T14:27:37.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Messi, Yamal set for WC final 19 years after first meeting",
-    "desc": "Lionel Messi and Lamine Yamal will face each other in the World Cup final. Nineteen years ago, Messi bathed baby Yamal during a charity photoshoot event. Yamal has since become Spain's biggest football star at Barcelona. Messi left Barcelona in 2021, while Yamal emerged as a global superstar. This remarkable full-circle moment culminates in Sunday's biggest football match.",
-    "img": "https://static.toiimg.com/photo/msid-132462189,imgsize-45260.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/stranger-than-fiction-lionel-messi-lamine-yamal-set-for-fifa-world-cup-final-19-years-after-first-meeting/articleshow/132461879.cms",
-    "time": "2026-07-17T13:04:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gukesh, Praggnanandhaa, Divya lead India's strong showing",
-    "desc": "Indian chess stars Gukesh, Praggnanandhaa, and Divya Deshmukh are nominated for FIDE Excellence Awards. They will compete against global talent in multiple prestigious player categories. The All India Chess Federation also received a nomination for Best Federation. Indian national teams and ChessBase India Foundation earned recognition for their achievements. Winners will be announced at the Chess Olympiad.",
-    "img": "https://static.toiimg.com/photo/msid-132462081,imgsize-162994.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/fide-excellence-awards-shortlist-gukesh-praggnanandhaa-and-divya-deshmukh-lead-indias-strong-showing/articleshow/132461181.cms",
-    "time": "2026-07-17T13:02:06.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Why crude oil prices haven’t spiralled out of control amid US-Iran conflict",
     "desc": "Brent crude prices in the spot market briefly surged to around $144 per barrel before easing as markets adjusted. Yet as ADB notes in its report - despite this unprecedented supply shock, crude oil prices did not reach levels seen during the 1973 Arab oil embargo or even the 1990 Gulf war, if one were to inflation-adjust the prices.",
@@ -646,24 +700,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/indias-current-account-deficit-likely-to-widen-to-1-5-of-gdp-in-fy27-as-higher-oil-prices-weigh-report/articleshow/132460485.cms",
     "time": "2026-07-17T12:03:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Acting is more about restraint than exposition",
-    "desc": "Actors Kay Kay Menon, Naveen Kasturia and director Himank Gaur talk about their show ‘Adarsh Baal Vidyalaya’, how their school life shaped their journey in films, the experience of working with comedy, why Kay Kay Menon feels he has failed more than he has suceeded in his performances, and more",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/xjecyx/article71233372.ece/alternates/LANDSCAPE_1200/Kay%20Kay%20Menon%20in%20%E2%80%98Adarsh%20Baal%20Vidyalaya%E2%80%99",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/kay-kay-menon-acting-is-more-about-restraint-than-exposition-adarsh-baal-vidyalaya-prime-video/article71233353.ece",
-    "time": "2026-07-17T11:25:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cocaine, guns &amp; 'sex party': How FIFA's WC final ref was caught up in a police raid",
-    "desc": "Slavko Vincic will referee the FIFA World Cup 2026 final between Argentina and Spain. This prestigious assignment follows a past controversy involving a police raid. Vincic was questioned as a witness and cleared of any wrongdoing. He has previously officiated a match involving Argentina in 2022. His career has continued to flourish after the incident.",
-    "img": "https://static.toiimg.com/photo/msid-132459957,imgsize-137890.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/cocaine-guns-and-a-sex-party-the-shocking-past-of-fifas-world-cup-final-referee-slavko-vincic/articleshow/132459943.cms",
-    "time": "2026-07-17T11:14:01.000Z"
   },
   {
     "cat": "Business",
@@ -846,15 +882,6 @@ const newsData_en = [
     "time": "2026-07-16T08:20:05.000Z"
   },
   {
-    "cat": "World",
-    "title": "U.S. Mint will produce $1 coin with Trump's image, Treasury Secretary says",
-    "desc": "The design, which also features the words “Liberty,” “In God We Trust” and “1776-2026” on the ‌front and an image of the bald eagle from the presidential seal on ‌the back, was a revision from a ‌draft ⁠made public in October.",
-    "img": "https://th-i.thgim.com/public/incoming/vt5t7b/article71228639.ece/alternates/LANDSCAPE_1200/Trump-Coin_61389.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-mint-will-produce-1-coin-with-trumps-image-treasury-secretary-says/article71228626.ece",
-    "time": "2026-07-16T07:34:39.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Government hikes windfall tax on diesel, ATF; cuts levy on petrol exports",
     "desc": "The rate of Special Additional Excise Duty (SAED) on diesel exports has been increased to ₹15.5 a litre from ₹8.5 a litre; similarly, SAED on ATF exports has been raised to ₹14.5 per litre from ₹7.5 per litre till July 15",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/sun-pharma-gets-nod-from-south-african-regulator-for-generic-semaglutide-injection/article71226953.ece",
     "time": "2026-07-16T04:58:09.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Why are five anonymous female users suing Elon Musk’s xAI?",
-    "desc": "After AI chatbot Grok enabled users to create a barrage of sexual deepfakes and morphed photos earlier this year, a proposed class action lawsuit in the U.S. saw five people claiming that their lives have been “shattered” as a result of child abuse material",
-    "img": "https://th-i.thgim.com/public/incoming/sv1xgs/article71228383.ece/alternates/LANDSCAPE_1200/2026-07-06T155909Z_164471774_RC24ZKA0FS8X_RTRMADP_3_MUSK-TWITTER.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/why-are-five-anonymous-female-users-suing-elon-musks-xai-explained/article71224775.ece",
-    "time": "2026-07-16T04:53:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "No entry, says Simon",
-    "desc": "650. That’s how many consecutive minutes he went without conceding a goal across this World Cup and the last before letting in a header from Belgium’s Charles De Ketelaere in the quarterfinal on July 11. This fantastic feat put to shade Italy’s Walter Zenga’s record of 517 set in 1990.",
-    "img": "https://th-i.thgim.com/public/incoming/atkrlt/article71226833.ece/alternates/LANDSCAPE_1200/Spain_France_WCup_Soccer_33611.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/no-entry-says-simon/article71226822.ece",
-    "time": "2026-07-16T04:06:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Matches in Indian Time",
-    "desc": "The knockout stages of the 2026 FIFA World Cup begin on June 29, after an exciting group stage that featured 48 nations for the first time FIFA 2026 World Cup is being keenly watched by fans in India even if the matches are happening an ocean away.",
-    "img": "https://th-i.thgim.com/public/incoming/hw29zz/article71145748.ece/alternates/LANDSCAPE_1200/image%206.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/fifa-2026-world-cup-match-timings-ist-full-knockout-schedule-india-time/article71145665.ece",
-    "time": "2026-07-15T23:29:46.000Z"
   }
 ];

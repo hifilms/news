@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Former India cricketer backs Mohammed Siraj's comeback in India's white-ball setup amid England series",
+    "desc": "The Indian team is all set to take on England in the third and final ODI of the ongoing series. The two sides will meet at the Lord’s Cricket Ground in London on July 19th....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-backs-mohammed-siraj-s-comeback-in-india-s-white-ball-setup-amid-england-series-2026-07-18-1048642",
+    "time": "2026-07-18T07:30:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Thomas Tuchel defends his tactics after England's loss to Argentina in World Cup semi-final",
+    "desc": "The stage is set for the bronze final of the ongoing FIFA World Cup 2026; England will be taking on France in a bid to finish in third place in the tournament. The two sides...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/thomas-tuchel-defends-his-tactics-after-england-s-loss-to-argentina-in-world-cup-semi-final-2026-07-18-1048637",
+    "time": "2026-07-18T06:14:30.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "ICC shakes qualification pathway ahead of ODI World Cup 2027, announces revised model",
     "desc": "The International Cricket Council (ICC) has restricted the qualification path for the 2027 ODI World Cup. As per the latest development, the winner of the qualifier, which is hosted between 10 nations, will secure direct...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/andy-flower-says-no-to-england-test-coach-role-says-happy-with-his-role-in-rcb-london-spirit-2026-07-17-1048594",
     "time": "2026-07-17T13:46:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Star India cricketer ruled out of the third ODI vs England at Lord's, Kuldeep Yadav can finally return",
-    "desc": "Washington Sundar has been ruled out of the third ODI against England, set to be played at the iconic Lord’s on July 19. He has been a three-format cricketer for India lately and scored a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/star-india-cricketer-ruled-out-of-the-third-odi-vs-england-at-lord-s-kuldeep-yadav-can-finally-return-2026-07-17-1048586",
-    "time": "2026-07-17T12:34:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "FIFA introduce championship rings for World Cup winners, 1996 fans can purchase too",
-    "desc": "Argentina and Spain will compete in the FIFA World Cup 2026 final. After decimating France in the semi-final, the Luis de La Fuente side progressed to the summit clash, while Argentina picked up a thrilling...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/fifa-introduce-championship-rings-for-world-cup-winners-1996-fans-can-purchase-too-2026-07-17-1048580",
-    "time": "2026-07-17T11:52:42.000Z"
   }
 ];
