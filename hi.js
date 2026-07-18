@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why are Harry Kane and Jude Bellingham not starting for England in bronze medal match vs France?",
+    "desc": "England manager Thomas Tuchel has left Harry Kane and Jude Bellingham out of the starting line-up for the FIFA World Cup 2026 bronze medal match against France in Miami. The decision was made as part...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/why-are-harry-kane-and-jude-bellingham-not-starting-for-england-in-bronze-medal-match-vs-france-2026-07-19-1048697",
+    "time": "2026-07-18T20:50:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bukayo Saka scores, England torment France to lead 3-0 in 37 mins",
+    "desc": "France face England in the FIFA World Cup 2026 third-place playoff, with both teams looking to end their campaigns with a victory after falling short of the final. The match also features contrasting team selections,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/fra-vs-eng-fifa-world-cup-live-france-vs-england-score-tactical-analysis-commentary-highlight-reaction-1048696",
+    "time": "2026-07-18T20:31:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch PV Sindhu's Japan Open final vs Akane Yamaguchi live on TV and stream online in India?",
+    "desc": "PV Sindhu will compete for the Japan Open women's singles title against Japan's Akane Yamaguchi in the final. She aims to end a long wait for a BWF World Tour championship, as it marks her...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/when-and-where-to-watch-pv-sindhu-s-japan-open-final-vs-akane-yamaguchi-live-on-tv-and-stream-online-in-india-2026-07-19-1048695",
+    "time": "2026-07-18T20:12:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Spain suffer major setback ahead of FIFA World Cup final vs Argentina, forced to cancel training session",
+    "desc": "Spain's final training session before the FIFA World Cup final was disrupted after severe thunderstorms forced the team to cancel their training in New Jersey. Luis de la Fuente's squad were scheduled to work at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/spain-suffer-major-setback-ahead-of-fifa-world-cup-final-vs-argentina-forced-to-cancel-training-session-2026-07-19-1048694",
+    "time": "2026-07-18T19:38:35.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Where to watch France vs England FIFA World Cup 2026 Bronze medal match live on TV and stream online for free?",
     "desc": "France and England will meet in the FIFA World Cup 2026 third-place playoff in the early hours of Sunday. Even though their goal of lifting the coveted trophy is over, both teams will aim to...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/mirabai-chanu-lovlina-borgohain-named-india-s-flag-and-baton-bearers-ahead-of-commonwealth-games-2026-2026-07-18-1048681",
     "time": "2026-07-18T14:33:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How has France performed against England in FIFA WC history? All you need to know ahead of the bronze final",
-    "desc": "France and England are all set to take on each in the bronze final of the ongoing FIFA World Cup 2026. It is worth noting that both sides have been eliminated from the semi-finals of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/how-has-france-performed-against-england-in-fifa-wc-history-all-you-need-to-know-ahead-of-the-bronze-final-2026-07-18-1048676",
-    "time": "2026-07-18T13:43:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI names replacement for injured Washington Sundar ahead of third England ODI; Check details",
-    "desc": "With the Indian team all set to take on England in the third and final ODI of the ongoing series, the BCCI (Board of Control for Cricket in India) came forward and announced the replacement...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-names-replacement-for-injured-washington-sundar-ahead-of-third-england-odi-check-details-2026-07-18-1048669",
-    "time": "2026-07-18T12:11:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How has India fared at the Lord's Cricket Ground in ODI cricket? Check stats ahead of series decider",
-    "desc": "The stage is set for the third and final ODI of the ongoing series between India and England. The two sides are slated to meet at the Lord’s Cricket Ground in London on July 19th....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-has-india-fared-at-the-lord-s-cricket-ground-in-odi-cricket-check-stats-ahead-of-series-decider-2026-07-18-1048662",
-    "time": "2026-07-18T11:26:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India coach weighs in on Rohit Sharma's performances ahead of third ODI against England",
-    "desc": "India and England will take on each other in the third and final ODI of the ongoing series between them. The two sides will meet at the Lord’s Cricket Ground in London on July 19th,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-coach-weighs-in-on-rohit-sharma-s-performances-ahead-of-third-odi-against-england-2026-07-18-1048656",
-    "time": "2026-07-18T10:20:37.000Z"
   }
 ];

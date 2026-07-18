@@ -1,6 +1,150 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Using abusive language, swearing don't count as obscenity under IPC: Supreme Court",
+    "desc": "Supreme Court clarified that abusive language is not obscenity under law. Mere swear words and profanities do not constitute an offense. The court set aside a conviction for using abusive slurs during an altercation. Obscenity requires a lascivious element appealing to prurient interests. Such words must also cause annoyance to others in public places.",
+    "img": "https://static.toiimg.com/photo/msid-132486792,imgsize-1289834.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/using-abusive-language-swearing-dont-count-as-obscenity-under-ipc-supreme-court/articleshow/132486790.cms",
+    "time": "2026-07-18T21:22:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India's bowling coach Morne Morkel",
+    "desc": "“To be honest, the way we bowled in the last game was exceptional,” Morkel opined. “Just looking at the numbers, the high speeds that the boys generated and the areas that we bowled in were great to see",
+    "img": "https://th-i.thgim.com/public/incoming/fjvasi/article71239352.ece/alternates/LANDSCAPE_1200/26_Practice_Dharamshala_12_06_Himachal.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/no-concerns-with-the-way-rohit-sharma-is-batting-indias-bowling-coach-morne-morkel/article71238577.ece",
+    "time": "2026-07-18T21:16:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Skyroot puts first private rocket in orbit &amp; India in elite club; Vikram-1 delivers 6 payloads after 35-minute delay",
+    "desc": "Skyroot Aerospace's Vikram-1 rocket successfully launched into low Earth orbit on Saturday. This historic mission placed six payloads into their targeted orbit successfully. India now becomes the third nation with private orbital launch capability. The Hyderabad-based startup achieved this significant milestone on its first attempt. This launch signifies a new era for private Indian space industry operations.",
+    "img": "https://static.toiimg.com/photo/msid-132486765,imgsize-66510.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/skyroot-puts-first-private-rocket-in-orbit-india-in-elite-club-vikram-1-delivers-6-payloads-after-35-minute-delay/articleshow/132486763.cms",
+    "time": "2026-07-18T21:10:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Faith and its fallout",
+    "desc": "In Ayodhya, weeks after allegations of money being siphoned off from donations at the Ram temple surfaced, pilgrims and residents say it has triggered a crisis of trust. Devotees say their faith in Lord Ram and the temple remains intact, but many have grown cautious about donating. Locals report a dip in visitors, though they attribute part of that to seasonal factors as well. As an SIT probe seeks accountability, Ishita Mishra reports from the temple town, where faith, transparency, and the city’s religious tourism hopes hang in the balance",
+    "img": "https://th-i.thgim.com/public/incoming/vvb51/article71237669.ece/alternates/LANDSCAPE_1200/6744_18_7_2026_14_36_53_1_08_AYODHYA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/faith-and-its-fallout/article71237666.ece",
+    "time": "2026-07-18T20:59:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Yash says Ranbir surrendered himself to Lord Ram; calls Sai 'flawless'",
+    "desc": "Pratham Sankalp event at Bharat Mandapam, the actor said the entire cast and crew had come together with one mission—to take the story of Lord Ram to audiences across the world. The event was attended by Ranbir Kapoor, Sai Pallavi, Sunny Deol, Arun Govil, director Nitesh Tiwari and producer Namit Malhotra, among others.",
+    "img": "https://static.toiimg.com/photo/msid-132486727,imgsize-26083.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yash-calls-ramayana-indias-dream-project-says-ranbir-kapoor-has-surrendered-himself-to-lord-ram-praises-sai-pallavi-as-a-flawless-actor/articleshow/132486722.cms",
+    "time": "2026-07-18T20:50:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Another House panel defers edu reforms report adoption; move seen as part of govt's outreach to oppn for delimit bill support",
+    "desc": "Two parliamentary committees have postponed approving their reports on significant legislation. This development occurs as the government seeks opposition support for other political proposals. The anti-graft bill and higher education regulator bills face widespread protest. Both bills may not be presented during the current parliamentary session. Congress criticizes the government's handling of these controversial legislative matters.",
+    "img": "https://static.toiimg.com/photo/msid-132486732,imgsize-75812.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/another-house-panel-defers-edu-reforms-report-adoption-move-seen-as-part-of-govts-outreach-to-oppn-for-delimit-bill-support/articleshow/132486728.cms",
+    "time": "2026-07-18T20:49:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Medical colleges to decide own faculty appointments, promotions: National Medical Commission",
+    "desc": "Medical colleges now decide faculty appointments and promotions independently. The National Medical Commission has ended routine eligibility clearances for these positions. This change aims to improve institutional accountability and reduce unnecessary referrals. Applicants dissatisfied with decisions can seek a review within thirty days. The regulator will now focus on exceptional cases involving regulatory ambiguity.",
+    "img": "https://static.toiimg.com/photo/msid-132486720,imgsize-68197.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/medical-colleges-to-decide-own-faculty-appointments-promotions-national-medical-commission/articleshow/132486715.cms",
+    "time": "2026-07-18T20:31:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Who was Lachit Borphukan? Aditya Dhar has been approached to direct",
+    "desc": "Legendary Ahom commander Lachit Borphukan, who led Assam's forces to a historic victory against the Mughals in the Battle of Saraighat, could soon have his life brought to the big screen. Assam Chief Minister Himanta Biswa Sarma has revealed that filmmaker Aditya Dhar has been approached to direct a grand Hindi biopic on the celebrated military leader.",
+    "img": "https://static.toiimg.com/photo/msid-132486692,imgsize-67614.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/who-was-lachit-borphukan-assam-cm-says-dhurandhar-director-aditya-dhar-has-been-approached-for-biopic-on-the-ahom-commander-who-defeated-the-mughals/articleshow/132486686.cms",
+    "time": "2026-07-18T20:19:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I need help': Spain World Cup winner appeals directly to President Donald Trump after US entry denial",
+    "desc": "Spain legend Joan Capdevila says he has been denied permission to enter the United States ahead of the 2026 FIFA World Cup final and has appealed directly to Donald Trump for help. The 2010 World Cup winner had hoped to watch Spain face Argentina alongside his former teammates, but claims his ESTA application was rejected, leaving his travel plans in doubt.",
+    "img": "https://static.toiimg.com/photo/msid-132486681,imgsize-1365721.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/i-need-help-spain-world-cup-winner-appeals-directly-to-president-donald-trump-after-us-entry-denial/articleshow/132486641.cms",
+    "time": "2026-07-18T20:13:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "School holiday extended in Kashmir, Amarnath yatra suspended as Met forecasts downpour",
+    "desc": "Kashmir school holidays have been extended by three days due to adverse weather. The Amarnath yatra is temporarily suspended from both routes as a precautionary measure. An adverse weather spell is expected from July 20 to July 23 across the region. This system may cause landslides and flash floods in vulnerable areas. Surface transport disruptions are also anticipated on major roads.",
+    "img": "https://static.toiimg.com/photo/msid-132486583,imgsize-462182.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/school-holiday-extended-in-kashmir-amarnath-yatra-suspended-as-met-forecasts-downpour/articleshow/132486577.cms",
+    "time": "2026-07-18T19:46:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Partial shutdown in Doda, Kishtwar over man’s death in run-in with cops",
+    "desc": "A 30-year-old man died after being shot by police near Bhaderwah town. Shops and businesses remained closed in Doda and Kishtwar districts on Saturday. The man allegedly tried to snatch a service rifle from a police personnel. This incident led to injuries for three special operations group personnel as well. Mobile internet services were suspended for a second consecutive day as a precaution.",
+    "img": "https://static.toiimg.com/photo/msid-132486559,imgsize-243334.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/partial-shutdown-in-doda-kishtwar-over-mans-death-in-run-in-with-cops/articleshow/132486562.cms",
+    "time": "2026-07-18T19:38:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NCB seizes 5kg heroin smuggled from Pakistan in Poonch, 1 held",
+    "desc": "Narcotics Control Bureau seized five kilograms of high-grade heroin in Poonch district. An alleged smuggler was arrested during a raid in Kosalyain village on Saturday. This seizure is considered one of the largest drug hauls in the border district. Investigators are working to identify the intended recipients and handlers. This incident highlights ongoing cross-border narcotics smuggling attempts.",
+    "img": "https://static.toiimg.com/photo/msid-132486442,imgsize-494822.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ncb-seizes-5kg-heroin-smuggled-from-pakistan-in-poonch-1-held/articleshow/132486443.cms",
+    "time": "2026-07-18T19:21:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. government to celebrate State’s history on both July 18 and November 1, says Vijay",
+    "desc": "When the AIADMK was in power, the then Chief Minister Edappadi K. Palaniswami announced that November 1 would be celebrated as Tamil Nadu Day. However, after the DMK came to power in 2021, it changed the observance to July 18",
+    "img": "https://th-i.thgim.com/public/incoming/h62mn8/article71238309.ece/alternates/LANDSCAPE_1200/DSC_7115.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-government-to-celebrate-states-history-on-both-july-18-and-november-1-says-vijay/article71238296.ece",
+    "time": "2026-07-18T19:19:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Skyroot’s orbital launch: India’s own SpaceX is born, startup to give country another option to Isro for satellite launches",
+    "desc": "Skyroot Aerospace successfully launched India's first privately developed orbital-class rocket, Vikram-1. This historic flight reached low Earth orbit and deployed six payloads for various applications. The launch signifies a major step for India's private space sector and its global market aspirations. Other Indian space startups are expected to accelerate their orbital rocket programs following this success.",
+    "img": "https://static.toiimg.com/photo/msid-132486325,imgsize-120890.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/skyroots-orbital-launch-indias-own-spacex-is-born-startup-to-give-country-an-alternative-for-satellite-launches/articleshow/132486324.cms",
+    "time": "2026-07-18T19:05:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rs 70,000 cr investments proposed for def corridors in UP, TN; Rs 10,000 crore already invested: Rajnath",
+    "desc": "Defence Minister Rajnath Singh highlighted India's strong defence preparedness and self-reliance. Advanced systems like Akash Teer and BrahMos were effectively used during Operation Sindoor. Defence industrial corridors in UP and Tamil Nadu are fostering indigenous manufacturing and global integration. Positive indigenisation lists and a new Defence Acquisition Procedure are accelerating domestic production. Seventy-five percent of the defence modernisation budget now supports Indian industries.",
+    "img": "https://static.toiimg.com/photo/msid-132486258,imgsize-86600.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/rs-70000-cr-investments-proposed-for-def-corridors-in-up-tn-rs-10000-crore-already-invested-rajnath/articleshow/132486160.cms",
+    "time": "2026-07-18T19:00:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India rolls out 'White Rabbit' tech to secure Indian Standard Time network: What it means",
+    "desc": "India has launched a secure, indigenous time signal network for critical infrastructure. This initiative reduces reliance on foreign timing sources for essential services. The system uses White Rabbit technology for highly accurate time synchronization. It aims to enhance reliability in banking, telecom, and power grid operations. This development supports India's technological self-reliance and digital economy.",
+    "img": "https://static.toiimg.com/photo/msid-132486051,imgsize-970102.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-rolls-out-white-rabbit-tech-to-secure-indian-standard-time-network-what-it-means/articleshow/132485935.cms",
+    "time": "2026-07-18T18:42:58.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "I was discouraged from taking bold decision to privatise space sector, today you proved me right: PM Modi to Skyroot after Vikram-1 successful launch",
     "desc": "India achieved a historic milestone with the successful launch of its first private orbital rocket. Prime Minister Narendra Modi lauded the achievement, emphasizing faith in the nation's youth. This success positions India as the third country with indigenous private orbital launch capabilities. Skyroot Aerospace's Vikram-1 rocket carried a special message for the universe. The event signifies a new era for India's growing private space sector.",
     "img": "https://static.toiimg.com/photo/msid-132485825,imgsize-103324.cms",
@@ -25,6 +169,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/left-parties-condemn-wangchuks-removal-use-of-force-back-ongoing-protest/article71239024.ece",
     "time": "2026-07-18T17:49:04.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Ahmad Vahidi",
+    "desc": "The former IRGC spymaster and Defence Minister, who laid the foundations of Iran’s ‘Axis of Resistance’ and expanded the country’s conventional military capabilities, is facing his greatest test as the Islamic Republic comes under relentless U.S. bombardment",
+    "img": "https://th-i.thgim.com/public/news/national/db1ln0/article71239076.ece/alternates/LANDSCAPE_1200/Gen%20Ahmed%20wahidi%20of%20iran_Art.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/ahmad-vahidi-the-commander-of-asymmetric-warfare/article71239079.ece",
+    "time": "2026-07-18T17:43:37.000Z"
   },
   {
     "cat": "Politics",
@@ -144,15 +297,6 @@ const newsData_en = [
     "time": "2026-07-18T15:45:28.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kerala sets up State Narcotics Control Bureau",
-    "desc": "State NCB formed to make anti-narcotics enforcement activities more efficient. The Excise Commissioner will be in charge of the bureau. Instead of creating new posts, personnel will be redeployed and some will be given additional charges",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-sets-up-state-narcotics-control-bureau/article71238541.ece",
-    "time": "2026-07-18T15:44:22.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Priyanka Chopra calls Nick Jonas 'Babu'",
     "desc": "Priyanka Chopra Jonas celebrated her birthday with new details about her marriage. She revealed that she calls her husband Nick Jonas 'Babu' for assistance. Her brothers-in-law, Kevin and Joe Jonas, enjoyed their playful relationship dynamic. The couple also shared insights into their family life and daughter Malti Marie. Priyanka's new look as Mandakini from the film Varanasi was also unveiled.",
@@ -189,24 +333,6 @@ const newsData_en = [
     "time": "2026-07-18T14:44:40.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Round-the-clock surveillance, barricading, extra forces: Delhi Police gear up for CJP's 'Sansad chalo' march",
-    "desc": "Delhi Police increased surveillance and vehicle checks for an upcoming Parliament march. Climate activist Sonam Wangchuk was hospitalized after his health deteriorated during a hunger strike. The Cockroach Janta Party plans a march to Parliament on July 20. Authorities are unlikely to grant permission for the unauthorized march. Security has been heightened around Parliament and sensitive protest locations.",
-    "img": "https://static.toiimg.com/photo/msid-132481967,imgsize-354138.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/round-the-clock-surveillance-barricading-extra-forces-delhi-police-gear-up-for-cjps-sansad-chalo-march/articleshow/132481664.cms",
-    "time": "2026-07-18T14:19:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Happened so fast that ... ': Protestors recount how police took away Sonam Wangchuk in 5 minutes",
-    "desc": "Eyewitnesses described Sonam Wangchuk's swift removal from Jantar Mantar by police. White bedsheets shielded the operation, preventing public view of the activist's departure. Police stated Wangchuk was taken to hospital following medical advice and court orders. Protesters alleged the police action was timed to minimize visibility and support. Despite the removal, demonstrators vowed to continue their protest for educational reforms.",
-    "img": "https://static.toiimg.com/photo/msid-132480949,imgsize-119776.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/happened-so-fast-that-protestors-recount-how-police-took-away-sonam-wangchuk-in-5-minutes/articleshow/132480712.cms",
-    "time": "2026-07-18T14:13:36.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'If he's going, he should ... ': Kapil Dev on Rohit Sharma's retirement talks",
     "desc": "Kapil Dev has urged fans to celebrate Rohit Sharma's career amid speculation that Sunday's third ODI against England could be his final international match. The former India captain said retirement is inevitable and hoped Rohit signs off with a century. The retirement talk has intensified after Rohit's lean run in the ongoing England ODI series.",
@@ -214,15 +340,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/if-hes-going-he-should-kapil-dev-opens-up-on-rohit-sharmas-retirement-talks/articleshow/132481786.cms",
     "time": "2026-07-18T14:09:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Don't wait for tragic outcome': Anna Hazare urges Centre to hold talks with Sonam Wangchuk",
-    "desc": "Anna Hazare urged the government to hold talks with Sonam Wangchuk. Wangchuk was hospitalized after his hunger strike entered its twenty-first day. Police removed him from Jantar Mantar amid heavy security measures. Opposition leaders condemned the government's actions and suppression of dissent. Wangchuk demanded the education minister's resignation over NEET examination issues.",
-    "img": "https://static.toiimg.com/photo/msid-132481868,imgsize-915441.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dont-wait-for-tragic-outcome-anna-hazare-urges-centre-to-hold-talks-with-sonam-wangchuk/articleshow/132481686.cms",
-    "time": "2026-07-18T14:04:44.000Z"
   },
   {
     "cat": "Sports",
@@ -261,24 +378,6 @@ const newsData_en = [
     "time": "2026-07-18T13:34:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Let his life be saved': Ex-CJI Balakrishnan weighs in on Sonam Wangchuk being taken to hospital",
-    "desc": "Climate activist Sonam Wangchuk was hospitalised after his hunger strike deteriorated. Former CJI KG Balakrishnan expressed concern for his life and well-being. Wangchuk was protesting alleged irregularities in the NEET examination and student deaths. His wife stated a planned march to Parliament would proceed as scheduled. The activist's supporters have criticised the government's actions regarding his removal.",
-    "img": "https://static.toiimg.com/photo/msid-132481028,imgsize-80906.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/let-his-life-be-saved-ex-cji-balakrishnan-weighs-in-on-sonam-wangchuk-being-taken-to-hospital/articleshow/132480708.cms",
-    "time": "2026-07-18T13:26:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Will resign in an hour': Abhishek Banerjee challenges TMC rebels to return to Mamata",
-    "desc": "Abhishek Banerjee challenged former Trinamool Congress colleagues to return to Mamata Banerjee. He stated they would not return as they made a deal with the BJP. Banerjee claimed these individuals received protection from central agencies after switching sides. He mentioned facing multiple summons himself but never running away. This challenge comes amid the Trinamool Congress's significant organizational crisis.",
-    "img": "https://static.toiimg.com/photo/msid-132480628,imgsize-721339.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/will-resign-in-an-hour-abhishek-banerjee-challenges-tmc-rebels-to-return-to-mamata/articleshow/132480585.cms",
-    "time": "2026-07-18T12:46:46.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Paresh breaks silence on OMG 2 row, denies problem with Akshay",
     "desc": "Paresh Rawal broke his silence on the 'OMG 2' credit row, denying any issues with Akshay Kumar and clarifying he only sought story credit, not money. He rejected claims of pitching OMG 2 to Salman Khan and Ajay Devgn or demanding a high fee, calling the allegations unfounded while expressing continued warmth toward Amit Rai.",
@@ -288,24 +387,6 @@ const newsData_en = [
     "time": "2026-07-18T12:43:17.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "PM Modi hails Skyroot's historic Vikram-1 launch; bulldozer action hits TMC MP Abhishek Banerjee's office",
-    "desc": "Prime Minister Modi congratulated Skyroot Aerospace after its historic Vikram-1 rocket launch. A Trinamool Congress office linked to Abhishek Banerjee faced demolition in West Bengal. Rahul Gandhi criticized the removal of Sonam Wangchuk from his protest site. Ukrainian drones struck multiple targets deep inside Russia, causing casualties. Donald Trump blamed Canada for wildfire smoke affecting air quality.",
-    "img": "https://static.toiimg.com/photo/msid-132480294,imgsize-669919.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-pm-modi-hails-skyroots-historic-vikram-1-launch-bulldozer-action-hits-tmc-mp-abhishek-banerjees-office/articleshow/132480009.cms",
-    "time": "2026-07-18T12:29:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Only if...': Mehbooba Mufti gives conditional nod to NC's J&amp;K statehood protest invite in Delhi",
-    "desc": "Mehbooba Mufti will join the National Conference protest for Jammu and Kashmir statehood. She demands the agenda also include Article 370 restoration and prisoner release. Mufti believes protesting solely for statehood legitimizes the revocation of special status. She urged for an all-party meeting to address disempowering issues affecting people. Restoring statehood requires sustained political effort and engagement from leaders.",
-    "img": "https://static.toiimg.com/photo/msid-132480275,imgsize-313424.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/only-if-mehbooba-mufti-gives-conditional-nod-to-ncs-jk-statehood-protest-invite-in-delhi/articleshow/132480086.cms",
-    "time": "2026-07-18T12:26:43.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Tanishk Bagchi's 'Saiyaara' royalty claim draws response from YRF",
     "desc": "In a striking revelation, music composer Tanishk Bagchi has asserted that he is owed eight lakh rupees in unpaid royalties for his work on the hit track 'Saiyaara'. Yash Raj Films has responded by sharing that royalties were divided equally among the three composers and that contractual obligations were fulfilled. This incident highlights the persistent struggles artists face regarding compensation in the film industry.",
@@ -313,15 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tanishk-bagchis-saiyaara-royalty-claim-draws-response-from-yrf-studio-says-all-dues-were-cleared/articleshow/132480037.cms",
     "time": "2026-07-18T12:24:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Babua woke up at noon, hit the gym by 5': Yogi Adityanath says Akhilesh had 'no time for people' as UP CM",
-    "desc": "Uttar Pradesh Chief Minister Yogi Adityanath criticized former CM Akhilesh Yadav's tenure. He alleged Yadav lacked public engagement and a development vision for the state. Adityanath highlighted the BJP government's welfare schemes and development projects. He contrasted current progress with the previous administration's perceived failures. The chief minister also accused the opposition of betraying farmers and compromising law and order.",
-    "img": "https://static.toiimg.com/photo/msid-132480031,imgsize-1411612.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/babua-woke-up-at-noon-hit-the-gym-by-5-yogi-adityanath-says-akhilesh-had-no-time-for-people-as-up-cm/articleshow/132479982.cms",
-    "time": "2026-07-18T12:21:17.000Z"
   },
   {
     "cat": "Entertainment",
@@ -367,15 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/argentina-vs-spain-fast-firm-and-unpredictable-what-players-coaches-and-fifa-said-about-new-jersey-pitch-before-world-cup-final/articleshow/132479476.cms",
     "time": "2026-07-18T11:44:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Zero tolerance against terrorism not just a statement': Rajnath Singh's message to Pakistan",
-    "desc": "Defence Minister Rajnath Singh stated India's zero tolerance for terrorism is a line of action. Operation Sindoor demonstrated India's retaliatory military capabilities and technological advancements. The government trusts India's defence capabilities more than previous administrations did. India's defence production has reached a record Rs 1.78 lakh crore annually. Defence exports have surged significantly, positioning India as a global security partner.",
-    "img": "https://static.toiimg.com/photo/msid-132479419,imgsize-117044.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/zero-tolerance-against-terrorism-not-just-a-statement-rajnath-singhs-message-to-pakistan/articleshow/132478742.cms",
-    "time": "2026-07-18T11:38:07.000Z"
   },
   {
     "cat": "Entertainment",
@@ -450,15 +513,6 @@ const newsData_en = [
     "time": "2026-07-18T10:52:11.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Removal of Sonam Wangchuk wrong': Rahul Gandhi slams BJP's 'asatya and hinsa' approach in first reaction to Jantar Mantar protest",
-    "desc": "Rahul Gandhi criticized the Centre's removal of Sonam Wangchuk from Jantar Mantar. Wangchuk was on an indefinite hunger strike for twenty-one days regarding NEET examination irregularities. Police shifted the climate activist to Safdarjung Hospital for medical observation and treatment. Opposition leaders condemned the Centre's actions, calling it suppression of peaceful dissent. The protest demanded resignation and reforms in the education system.",
-    "img": "https://static.toiimg.com/photo/msid-132478565,imgsize-110452.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/removal-of-sonam-wangchuk-wrong-rahul-gandhi-slams-bjps-asatya-and-hinsa-approach-in-first-reaction-to-jantar-mantar-protest/articleshow/132478450.cms",
-    "time": "2026-07-18T10:49:08.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Ajay film sees decline",
     "desc": "Ajay Devgn's 'Dhamaal 4' crossed Rs. 100 crore net by Day 9, though collections dipped to Rs. 2.49 crore that day, taking the total to Rs. 103.99 crore. Facing competition from Christopher Nolan's 'The Odyssey' in premium formats, the comedy franchise's fourth instalment, directed by Indra Kumar, continues its steady theatrical run.",
@@ -484,24 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-inaugurates-sra-digital-centre-in-mumbai-distributes-home-keys-to-over-50-rehabilitation-beneficiaries/articleshow/132478031.cms",
     "time": "2026-07-18T10:19:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shakira, Burna Boy gear up for FIFA World Cup halftime show",
-    "desc": "Shakira and Burna Boy shared rehearsal glimpses ahead of performing at FIFA's first-ever Super Bowl-style halftime show during the 2026 World Cup Final at MetLife Stadium. The duo will play \"Dai Dai,\" the tournament's official anthem, joining a lineup featuring Justin Bieber, Madonna, BTS and Coldplay. The Argentina-Spain final is also set to draw stars like Tom Cruise and Brad Pitt, with Jennifer Hudson performing the anthem.",
-    "img": "https://static.toiimg.com/photo/msid-132477886,imgsize-188024.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/shakira-burna-boy-share-glimpses-of-fifa-world-cup-2026s-historic-halftime-show-rehearsals/articleshow/132477583.cms",
-    "time": "2026-07-18T10:12:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Katie Price’s father-in-law joins Lee Andrews in Dubai jail",
-    "desc": "Katie Price's husband, Lee Andrews, is currently in prison in Dubai. His father has reportedly joined him there on fraud allegations. Andrews is raising funds to pay off debts and secure his release. Friends are encouraging Katie Price to distance herself from the situation. The couple married in January after a brief courtship.",
-    "img": "https://static.toiimg.com/photo/msid-132477897,imgsize-249923.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/katie-prices-father-in-law-joins-lee-andrews-in-dubai-jail-you-really-couldnt-make-this-up/articleshow/132477466.cms",
-    "time": "2026-07-18T10:12:19.000Z"
   },
   {
     "cat": "Sports",
@@ -538,15 +574,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/reserve-bank-of-india-planning-polymer-notes-new-money-indias-currency-might-soon-get-a-plastic-makeover/articleshow/132476206.cms",
     "time": "2026-07-18T08:14:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Can Three Lions end 44-year jinx against Les Bleus?",
-    "desc": "England and France will compete for third place in the FIFA World Cup 2026. Both teams suffered semi-final losses, ending their championship aspirations. Historically, England holds an advantage in their rivalry with France. However, recent matches show France performing better against the Three Lions. This game offers a chance for a podium finish and pride restoration.",
-    "img": "https://static.toiimg.com/photo/msid-132476230,imgsize-793679.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/england-vs-france-head-to-head-can-three-lions-end-44-year-jinx-against-les-bleus/articleshow/132476212.cms",
-    "time": "2026-07-18T08:01:12.000Z"
   },
   {
     "cat": "Entertainment",
@@ -801,15 +828,6 @@ const newsData_en = [
     "time": "2026-07-16T13:54:36.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "FIFA World Cup Argentina vs Spain final— schedule and timing in IST",
-    "desc": "Who has progressed in the knockouts of the FIFA World Cup? And when are the matches being played? The Trionda has enthralled FIFA fans this time in the USA, Canada, and Mexico. The final of this World Cup will be played on July 20 at 12.30 am I.S.T at the MetLife Stadium in New Jersey.",
-    "img": "https://th-i.thgim.com/public/incoming/he4teh/article71192575.ece/alternates/LANDSCAPE_1200/trophy.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-track-to-quarter-finals-schedule-fixtures-france-morocco-spain-belgium-norway-england-argentina-switzerland/article71188709.ece",
-    "time": "2026-07-16T12:39:23.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.K. urges FIFA to investigate Argentina over Falklands banner at World Cup",
     "desc": "On July 15, Argentina beat England 2-1 in a World Cup semifinal; during post-match celebrations, Argentine players held a banner handed over by fans in the stands, reading ‘Las Malvinas son Argentinas’— ‘The Malvinas are Argentine.’",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/why-are-five-anonymous-female-users-suing-elon-musks-xai-explained/article71224775.ece",
     "time": "2026-07-16T04:53:23.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Brought in for civilian use, Starlink is now integral to Ukraine’s war effort",
-    "desc": "Russia’s latest attempts to jam the satellite network are about more than disrupting internet access; Starlink sits behind drone operations, battlefield communications, and command networks that stretch across hundreds of kilometres of the war front",
-    "img": "https://th-i.thgim.com/public/incoming/8i7let/article71227047.ece/alternates/LANDSCAPE_1200/2026-06-22T144855Z_720713080_RC2SRLAGY6SX_RTRMADP_3_NAMIBIA-STARLINK.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/brought-in-for-civilian-use-starlink-is-now-integral-to-ukraines-war-effort/article71225657.ece",
-    "time": "2026-07-15T18:23:41.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Cabinet approves ₹1.27 lakh crore for Semicon Mission 2.0, for mobile manufacturing, new highways",
-    "desc": "The cabinet also accorded approval to two major highway projects worth ₹25,400 crore to ease congestion in Varanasi and as many as nine new gas-based urea plants across the country with a production capacity of 10 million tons",
-    "img": "https://th-i.thgim.com/public/incoming/gwuala/article71226697.ece/alternates/LANDSCAPE_1200/20260715206L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/cabinet-okays-semicon-20-mobile-phone-manufacturing-scheme-highways-and-urea-plants/article71226334.ece",
-    "time": "2026-07-15T17:21:29.000Z"
   }
 ];
