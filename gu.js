@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "ભૂખ હડતાળ પર ઉતરેલા સોનમ વાંગચુકની તબિયત લથડી, દિલ્હી પોલીસે હોસ્પિટલમાં દાખલ કર્યા",
+    "desc": "દિલ્હીના જંતર મંતર પર ભૂખ હડતાળ પર બેઠેલા સામાજિક કાર્યકર સોનમ વાંગચુકને દિલ્હી પોલીસ હાલ સફદરજંગ હોસ્પિટલ લઈ ગઈ છે. છેલ્લા 20 દિવસથી તેઓ ધરણા પર બેઠા હતા. તેમની શારીરિક સ્થિતિ સતત કથળી રહી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/big-breaking-sonam-wangchuk-taken-to-hospital-hunger-strike-cjp-latest-news-484989 ",
+    "time": "2026-07-18T04:38:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "લિયોનેલ મેસ્સીનું ગોલ્ડન બૂટનું સપનું તૂટશે? એમ્બાપ્પે સહિત આ 3 ખેલાડી બગાડી શકે છે બાજી",
+    "desc": "લિયોનેલ મેસ્સીએ આ વખતે વર્લ્ડ કપમાં અત્યાર સુધીમાં 8 ગોલ કર્યા છે અને 4 આસિસ્ટ કર્યા છે. ગોલ્ડન બૂટની રેસમાં હાલ આર્જેન્ટીના ટોચ પર છે. પરંતુ હજુ પણ 3 ખેલાડીઓ મેસ્સી માટે પડકાર બનેલા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/football-world-cup-2026-lionel-messi-mbappe-kane-bellingham-in-golden-boot-race-484999 ",
+    "time": "2026-07-18T04:23:57.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ક્રિકેટ જગતને મોટો ઝટકો, મહાન ઓલરાઉન્ડર સર ગારફિલ્ડ સોબર્સનું 89 વર્ષની વયે અવસાન",
     "desc": "ક્રિકેટ ઇતિહાસના મહાન ઓલરાઉન્ડરોમાંના એક ગણાતા વેસ્ટ ઈન્ડિઝના દિગ્ગજ સર ગારફિલ્ડ સોબર્સનું 89 વર્ષની વયે અવસાન થયું છે. તેમની કારકિર્દી દરમિયાન તેમણે પોતાની બેટિંગ, ઝડપી અને સ્પિન બોલિંગ અને ઉત્તમ ફિલ્ડિંગ દ્વારા ક્રિકેટને ફરીથી વ્યાખ્યાયિત કરી.",
@@ -304,15 +322,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/big-news-as-government-hikes-windfall-tax-on-diesel-atf-check-about-petrol-484789 ",
     "time": "2026-07-16T04:32:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "IRCTCની નવી બીટા વેબસાઇટ લોન્ચ, 24 વર્ષ બાદ મોટો ફેરફાર, ટિકિટ બુકિંગ થશે સુપરફાસ્ટ",
-    "desc": "IRCTCની નવી વેબસાઇટ આખરે શરૂ થઈ ગઈ છે. આ વેબસાઇટ પર ટ્રેન ટિકિટ બુક કરવાની પ્રક્રિયા સરળ બનાવવામાં આવી છે. નવી વેબસાઇટમાં ઘણા સુધારા કરવામાં આવ્યા છે. તેના ઇન્ટરફેસને પહેલા કરતા વધુ સરળ અને આધુનિક બનાવવામાં આવ્યું છે. ત્યારે અન્ય કયા ફેરફારો કરવામાં આવ્યા છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/irctc-new-beta-website-launched-big-change-after-24-years-ticket-booking-will-be-superfast-484750 ",
-    "time": "2026-07-15T18:02:49.000Z"
   },
   {
     "cat": "World",
