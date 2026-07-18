@@ -1,5 +1,158 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "ENG vs. IND third ODI",
+    "desc": "The kerfuffle surrounding the 39-year-old’s time as an international cricketer has dominated news ahead of the Lord’s ODI; Rahul, after missing out on the second match, will play the decider; both teams will be looking to avoid middle-order collapses",
+    "img": "https://th-i.thgim.com/public/incoming/ielzl2/article71238857.ece/alternates/LANDSCAPE_1200/2026-07-18T045946Z_432938576_RC2RDMAZNXHH_RTRMADP_3_CRICKET-ODI-ENG-IND.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/eng-vs-ind-third-odi-rohits-future-and-the-series-on-the-line/article71238320.ece",
+    "time": "2026-07-18T15:45:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala sets up State Narcotics Control Bureau",
+    "desc": "State NCB formed to make anti-narcotics enforcement activities more efficient. The Excise Commissioner will be in charge of the bureau. Instead of creating new posts, personnel will be redeployed and some will be given additional charges",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-sets-up-state-narcotics-control-bureau/article71238541.ece",
+    "time": "2026-07-18T15:44:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyanka Chopra calls Nick Jonas 'Babu'",
+    "desc": "Priyanka Chopra Jonas celebrated her birthday with new details about her marriage. She revealed that she calls her husband Nick Jonas 'Babu' for assistance. Her brothers-in-law, Kevin and Joe Jonas, enjoyed their playful relationship dynamic. The couple also shared insights into their family life and daughter Malti Marie. Priyanka's new look as Mandakini from the film Varanasi was also unveiled.",
+    "img": "https://static.toiimg.com/photo/msid-132482940,imgsize-352377.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-calls-nick-jonas-babu-actress-says-my-hands-dont-work-when-nick-is-at-home/articleshow/132482959.cms",
+    "time": "2026-07-18T15:34:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Locals oppose NHAI’s move to close entry and exit points on Bengaluru – Mysuru Highway",
+    "desc": "Residents say the closures are particularly disappointing as the long-promised distance-based toll collection system, which was expected to make travel more affordable for those commuting to nearby towns and villages, has still not been implemented",
+    "img": "https://th-i.thgim.com/public/incoming/nz6esa/article71238800.ece/alternates/LANDSCAPE_1200/Bengaluru%20Mysuru%20Expressway_01.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/locals-oppose-nhais-move-to-close-entry-and-exit-points-on-bengaluru-mysuru-highway/article71202940.ece",
+    "time": "2026-07-18T15:33:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "a stamp of approval for an iconic actor who continues to reinvent himself",
+    "desc": "The legendary actor, who was just a year ago staring down the biggest crisis of his glittering, five-decade career, has since won the Kerala State Award for Best Actor, the Padma Bhushan, and now a record-equalling fourth National Award for Best Actor",
+    "img": "https://th-i.thgim.com/public/incoming/ua616o/article71238730.ece/alternates/LANDSCAPE_1200/IMG_bramayugam_2_1_H2CE91EK.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/rajat-kamal-for-mammootty-a-stamp-of-approval-for-an-iconic-actor-who-continues-to-reinvent-himself/article71238631.ece",
+    "time": "2026-07-18T15:26:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Article 370 bags best feature film, Mammootty gets best actor award",
+    "desc": "Announcing the awards, chairman of the central jury Jayaraj said Telugu movie Kalki 2898 AD bagged the trophy for the best popular film; Mammootty won his fourth National Film Award for best actor for his performance in Malayalam movie Bramayugam",
+    "img": "https://th-i.thgim.com/public/incoming/rko6pv/article71238626.ece/alternates/LANDSCAPE_1200/national%20film%20awards.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/72nd-national-film-awards-article-370-bags-best-feature-film-mammootty-gets-best-actor-award/article71238337.ece",
+    "time": "2026-07-18T14:56:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'No worries at all': Morkel backs Rohit despite scrutiny, urges India to fix flaws",
+    "desc": "Bowling coach Morne Morkel expressed confidence in Rohit Sharma's current form. He acknowledged challenging conditions for opening batters throughout the series. Morkel highlighted Rohit's experience and calming influence on the batting lineup. India's batting unit needs to adapt quicker to Lord's conditions. Breaking middle-over partnerships remains a key bowling concern for the team.",
+    "img": "https://static.toiimg.com/photo/msid-132482376,imgsize-166786.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/india-vs-england-no-worries-at-all-morne-morkel-backs-rohit-sharma-despite-scrutiny-urges-india-to-fix-flaws/articleshow/132482185.cms",
+    "time": "2026-07-18T14:50:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Anantapur Samanvay Committee Meeting highlights youth engagement initiatives",
+    "desc": "Addressing a gathering, MYBharat representative stresses on the need to intensify MYBharat registration awareness drives to connect every eligible young person with the MYBharat platform and ensure wider participation in flagship initiatives of the Ministry",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/anantapur-samanvay-committee-meeting-highlights-youth-engagement-initiatives/article71238101.ece",
+    "time": "2026-07-18T14:35:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Round-the-clock surveillance, barricading, extra forces: Delhi Police gear up for CJP's 'Sansad chalo' march",
+    "desc": "Delhi Police increased surveillance and vehicle checks for an upcoming Parliament march. Climate activist Sonam Wangchuk was hospitalized after his health deteriorated during a hunger strike. The Cockroach Janta Party plans a march to Parliament on July 20. Authorities are unlikely to grant permission for the unauthorized march. Security has been heightened around Parliament and sensitive protest locations.",
+    "img": "https://static.toiimg.com/photo/msid-132481967,imgsize-354138.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/round-the-clock-surveillance-barricading-extra-forces-delhi-police-gear-up-for-cjps-sansad-chalo-march/articleshow/132481664.cms",
+    "time": "2026-07-18T14:19:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Happened so fast that ... ': Protestors recount how police took away Sonam Wangchuk in 5 minutes",
+    "desc": "Eyewitnesses described Sonam Wangchuk's swift removal from Jantar Mantar by police. White bedsheets shielded the operation, preventing public view of the activist's departure. Police stated Wangchuk was taken to hospital following medical advice and court orders. Protesters alleged the police action was timed to minimize visibility and support. Despite the removal, demonstrators vowed to continue their protest for educational reforms.",
+    "img": "https://static.toiimg.com/photo/msid-132480949,imgsize-119776.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/happened-so-fast-that-protestors-recount-how-police-took-away-sonam-wangchuk-in-5-minutes/articleshow/132480712.cms",
+    "time": "2026-07-18T14:13:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'If he's going, he should ... ': Kapil Dev on Rohit Sharma's retirement talks",
+    "desc": "Kapil Dev has urged fans to celebrate Rohit Sharma's career amid speculation that Sunday's third ODI against England could be his final international match. The former India captain said retirement is inevitable and hoped Rohit signs off with a century. The retirement talk has intensified after Rohit's lean run in the ongoing England ODI series.",
+    "img": "https://static.toiimg.com/photo/msid-132481852,imgsize-140072.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/if-hes-going-he-should-kapil-dev-opens-up-on-rohit-sharmas-retirement-talks/articleshow/132481786.cms",
+    "time": "2026-07-18T14:09:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Don't wait for tragic outcome': Anna Hazare urges Centre to hold talks with Sonam Wangchuk",
+    "desc": "Anna Hazare urged the government to hold talks with Sonam Wangchuk. Wangchuk was hospitalized after his hunger strike entered its twenty-first day. Police removed him from Jantar Mantar amid heavy security measures. Opposition leaders condemned the government's actions and suppression of dissent. Wangchuk demanded the education minister's resignation over NEET examination issues.",
+    "img": "https://static.toiimg.com/photo/msid-132481868,imgsize-915441.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/dont-wait-for-tragic-outcome-anna-hazare-urges-centre-to-hold-talks-with-sonam-wangchuk/articleshow/132481686.cms",
+    "time": "2026-07-18T14:04:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Shutting down Messi is impossible': Iniesta reveals what Spain must do against Argentina",
+    "desc": "Andres Iniesta suggests Spain should not waste energy trying to stop Lionel Messi completely. He believes the key lies in Spain's own game and making Argentina uncomfortable. The former captain urged La Roja to play with confidence and trust their established style. Spain have remained unbeaten and conceded just once throughout the tournament. The team's collective understanding and defensive discipline have brought them to the final.",
+    "img": "https://static.toiimg.com/photo/msid-132481753,imgsize-248390.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/shutting-down-messi-is-impossible-andres-iniesta-reveals-what-spain-must-do-against-argentina-in-world-cup-final/articleshow/132481690.cms",
+    "time": "2026-07-18T14:03:47.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India's power sector set for strong FY27 growth on rising demand, capacity additions: Report",
+    "desc": "India's power sector anticipates sustained growth through fiscal year twenty twenty-seven. Surging electricity demand and record peak consumption fuel this positive outlook. Continued capacity additions, especially renewables, will strengthen utility performance. Thermal power remains central, providing dependable base-load electricity generation. Energy security and storage development underpin the sector's long-term expansion.",
+    "img": "https://static.toiimg.com/photo/msid-132481549,imgsize-165600.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-power-sector-set-for-strong-fy27-growth-on-rising-demand-capacity-additions-report/articleshow/132481543.cms",
+    "time": "2026-07-18T13:51:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Yami, Kartik, Mammootty",
+    "desc": "The winners of the 72nd National Film Awards were announced by the Ministry of Information and Broadcasting in New Delhi on Saturday. One of the biggest highlights of this year's honours was Yami Gautam winning the Best Actress award for her powerful performance in Article 370. Sharing the Best Actor honour were Kartik Aaryan for his transformative performance in Chandu Champion and Mammootty for his critically acclaimed role in the Malayalam horror drama Bramayugam.",
+    "img": "https://static.toiimg.com/photo/msid-132481421,imgsize-83317.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/national-film-awards-2026-major-winners-yami-gautam-wins-best-actress-for-article-370-kartik-aaryan-and-mammootty-share-best-actor-honour/articleshow/132481361.cms",
+    "time": "2026-07-18T13:37:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranbir Kapoor, Yash pose with Rishab Rikhiram Sharma ahead of 'Ramayana' event",
+    "desc": "Sitar maestro Rishab Rikhiram Sharma shared new photographs of the Ramayana film team. The upcoming film's trailer will premiere globally on July 24. Ranbir Kapoor and Sai Pallavi star in the epic cinematic adaptation. The first part of the saga releases in Diwali 2026. The concluding chapter is scheduled for Diwali 2027.",
+    "img": "https://static.toiimg.com/photo/msid-132481393,imgsize-244569.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-yash-pose-with-rishab-rikhiram-sharma-ahead-of-ramayana-event-trailer-to-release-on-july-24/articleshow/132481396.cms",
+    "time": "2026-07-18T13:34:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Let his life be saved': Ex-CJI Balakrishnan weighs in on Sonam Wangchuk being taken to hospital",
+    "desc": "Climate activist Sonam Wangchuk was hospitalised after his hunger strike deteriorated. Former CJI KG Balakrishnan expressed concern for his life and well-being. Wangchuk was protesting alleged irregularities in the NEET examination and student deaths. His wife stated a planned march to Parliament would proceed as scheduled. The activist's supporters have criticised the government's actions regarding his removal.",
+    "img": "https://static.toiimg.com/photo/msid-132481028,imgsize-80906.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/let-his-life-be-saved-ex-cji-balakrishnan-weighs-in-on-sonam-wangchuk-being-taken-to-hospital/articleshow/132480708.cms",
+    "time": "2026-07-18T13:26:34.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "'Will resign in an hour': Abhishek Banerjee challenges TMC rebels to return to Mamata",
     "desc": "Abhishek Banerjee challenged former Trinamool Congress colleagues to return to Mamata Banerjee. He stated they would not return as they made a deal with the BJP. Banerjee claimed these individuals received protection from central agencies after switching sides. He mentioned facing multiple summons himself but never running away. This challenge comes amid the Trinamool Congress's significant organizational crisis.",
@@ -126,15 +279,6 @@ const newsData_en = [
     "time": "2026-07-18T11:11:21.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Sharad Pawar’s Next Move? The Inside Story of Maharashtra’s Political Drama",
-    "desc": "Is Sharad Pawar’s party mulling over options to support the NDA on the crucial Delimitation Bill? What are the 3 options in front of the NCP-SP? And how did Eknath Shinde’s “Operation Tiger” decimate Uddhav Thackeray’s legislative power? Watch the full analysis to understand the unpredictable number game that could change the Parliament’s landscape.",
-    "img": "https://th-i.thgim.com/public/incoming/iiyznx/article71237768.ece/alternates/LANDSCAPE_1200/Thumbnail-%20PM.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/sharad-pawars-next-move-the-inside-story-of-maharashtras-political-drama-pulse-maharashtra/article71237772.ece",
-    "time": "2026-07-18T11:11:05.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Nobody can come close to him': Kapil Dev hails Garry Sobers as greatest all-rounder",
     "desc": "Former India captain Kapil Dev remembered Sir Garfield Sobers as a revolutionary cricketer. He stated that Sobers changed how future generations approached the sport. Kapil Dev described Sobers as one of the finest cricketers ever born. Sobers' influence stretched far beyond statistics and records, he added. The West Indies great passed away at his home in Barbados.",
@@ -196,15 +340,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/removal-of-sonam-wangchuk-wrong-rahul-gandhi-slams-bjps-asatya-and-hinsa-approach-in-first-reaction-to-jantar-mantar-protest/articleshow/132478450.cms",
     "time": "2026-07-18T10:49:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Ahead of FIFA World Cup final, Kozhikode police announce public safety measures",
-    "desc": "Kozhikode City police said dangerous bike racing, stunt riding, drunk driving, speeding, traffic violations, bursting of firecrackers in a manner that causes public nuisance, raising provocative or hate-filled slogans, and any other activities that disturb public peace have been prohibited",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/p9flqy/article71237688.ece/alternates/LANDSCAPE_1200/Kerala%20Police.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/ahead-of-fifa-world-cup-final-kozhikode-police-announce-public-safety-measures/article71237543.ece",
-    "time": "2026-07-18T10:32:56.000Z"
   },
   {
     "cat": "Entertainment",
@@ -307,33 +442,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Sadie Sink teases her presence in 'Spider-Man: Brand New Day'",
-    "desc": "Brand New Day film. She confirmed she is not Spider-Man or Aunt Mary in the movie. The film's plot centers on Peter Parker operating anonymously after a spell. Zendaya and Jacob Batalon also star in the superhero adventure. Spider-Man: Brand New Day will be released on July 30, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-132477395,imgsize-255906.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/spider-man-brand-new-day-sadie-sink-teases-her-presence-in-tom-hollands-film/articleshow/132477375.cms",
-    "time": "2026-07-18T09:32:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Coastal lions depend mainly on wild prey, study finds",
-    "desc": "Among the prey species, blue bull (nilgai) was the largest contributor, accounting for 51% of the biomass consumed by lions, wild pigs were the second most important wild prey, while cattle formed the largest domestic prey component",
-    "img": "https://th-i.thgim.com/public/incoming/padq31/article71237565.ece/alternates/LANDSCAPE_1200/vbk-coastal%20lion-sa.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/coastal-lions-depend-mainly-on-wild-prey-study-finds/article71237035.ece",
-    "time": "2026-07-18T09:21:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Zendaya sparks backlash over ancient Iranian history earrings",
-    "desc": "Zendaya's selection of ancient Iranian earrings for a film promotion has sparked a spirited discussion among the public. These remarkable 3,000-year-old artifacts from the Ziwiye hoard are showcased as wearable art. While critics contend that these historical treasures ought to be returned to Iran or housed in museums, supporters argue that their exhibition enhances awareness of cultural heritage and craftsmanship.",
-    "img": "https://static.toiimg.com/photo/msid-132477032,imgsize-66344.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/no-one-has-the-right-to-use-ancient-artefacts-zendaya-sparks-backlash-over-3000-year-old-the-odyssey-earrings/articleshow/132476987.cms",
-    "time": "2026-07-18T09:14:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Supreme Court allows release of animated film Mahaprabhu Jagannath after Rath Yatra, says animation cannot erode devotion",
     "desc": "The Bench took the middle path by allowing the movie to be released, but only after the completion of the ongoing Lord Jagannath Rath Yatra on July 27, 2026. The court directed that the film could be released on or after July 28.",
     "img": "https://th-i.thgim.com/public/incoming/a1m5vw/article71231241.ece/alternates/LANDSCAPE_1200/16tvm%20jagannath1.jpg",
@@ -405,33 +513,6 @@ const newsData_en = [
     "time": "2026-07-18T07:00:35.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Skyroot makes history! 6 payloads put into low-Earth orbit aboard pvt rocket Vikram-1",
-    "desc": "Skyroot Aerospace launched India's first privately developed orbital rocket, Vikram-1. The vehicle successfully placed four technology demonstration satellites into low-Earth orbit. This launch marks a significant milestone in opening India's space sector to private companies. Vikram-1 utilized advanced carbon-composite structures and a restartable liquid-fuelled module. The mission validates India's capabilities in private orbital launch vehicle development.",
-    "img": "https://static.toiimg.com/photo/msid-132475426,imgsize-1011970.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/skyroot-makes-history-6-payloads-put-into-low-earth-orbit-aboard-pvt-rocket-vikram-1/articleshow/132474455.cms",
-    "time": "2026-07-18T06:56:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What happened when four players tied for 2010 World Cup Golden Boot? Could Messi and Mbappé do the same?",
-    "desc": "Lionel Messi and Kylian Mbappé are level on eight goals in the 2026 FIFA World Cup Golden Boot race, with assists currently separating them. As France prepare for the third-place playoff and Argentina the final, FIFA’s tiebreaker rules could again decide the award, just as they famously did at the 2010 World Cup after a four-way tie on goals.",
-    "img": "https://static.toiimg.com/photo/msid-132474785,imgsize-1123041.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/what-happened-when-four-players-tied-for-2010-world-cup-golden-boot-could-messi-and-mbapp-do-the-same/articleshow/132474248.cms",
-    "time": "2026-07-18T06:20:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'I am still old school': Congress MP Manish Tewari dismisses buzz over PM Modi interaction",
-    "desc": "Congress MP Manish Tewari addressed speculation regarding his interaction with Prime Minister Narendra Modi. He stated his belief in protocol and keeping development above partisan politics. Tewari attended official programs where the Prime Minister inaugurated development projects in his constituency. This interaction follows his recent omission from Punjab Congress appointments. He expressed acceptance of his current political situation with a philosophical outlook.",
-    "img": "https://static.toiimg.com/photo/msid-132474843,imgsize-950081.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/i-am-still-old-school-congress-mp-manish-tewari-dismisses-buzz-over-pm-modi-interaction/articleshow/132474810.cms",
-    "time": "2026-07-18T06:14:41.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Acting is more about restraint than exposition",
     "desc": "Actors Kay Kay Menon, Naveen Kasturia and director Himank Gaur talk about their show ‘Adarsh Baal Vidyalaya’, how their school life shaped their journey in films, the experience of working with comedy, why Kay Kay Menon feels he has failed more than he has suceeded in his performances, and more",
@@ -457,15 +538,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-spain-vs-argentina-road-to-final/article71233163.ece",
     "time": "2026-07-18T05:44:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India, Pakistan discuss border security at SCO meeting in Islamabad",
-    "desc": "The discussions took place during the 12th Meeting of the Heads of Border Services of the Competent Authorities of the SCO member states, which was chaired by Pakistan, according to a statement issued by the country's Foreign Office. Representatives from Belarus, China, India, Iran, Kazakhstan, Kyrgyzstan, Pakistan, Russia, Tajikistan and Uzbekistan, along with officials from the Executive Committee of the SCO Regional Anti-Terrorist Structure (RATS), attended the meeting.",
-    "img": "https://static.toiimg.com/photo/msid-132474508,imgsize-163435.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-pakistan-discuss-border-security-at-sco-meeting-in-islamabad/articleshow/132474025.cms",
-    "time": "2026-07-18T05:37:32.000Z"
   },
   {
     "cat": "Tech",
@@ -502,15 +574,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/its-just-insane-lionel-messi-reacts-to-viral-photo-with-baby-lamine-yamal-before-world-cup-final/articleshow/132472690.cms",
     "time": "2026-07-18T03:26:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Just like Messi': Kaif makes strong case for Rohit, Virat for 2027 World Cup",
-    "desc": "Mohammed Kaif believes Rohit Sharma and Virat Kohli are essential for India's 2027 World Cup campaign. He stressed their experience will be vital for challenging conditions in South Africa. Kaif compared their importance to Lionel Messi's impact on his football team. Experienced players offer guidance and create opportunities for younger teammates. India will need these seasoned cricketers under captain Shubman Gill.",
-    "img": "https://static.toiimg.com/photo/msid-132472707,imgsize-226770.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/just-like-messi-for-argentina-mohammed-kaif-makes-strong-case-for-rohit-sharma-virat-kohli-for-2027-world-cup/articleshow/132472698.cms",
-    "time": "2026-07-18T02:38:10.000Z"
   },
   {
     "cat": "Sports",
@@ -612,15 +675,6 @@ const newsData_en = [
     "time": "2026-07-17T16:13:37.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "West Indies cricket legend Garry Sobers dies at 89",
-    "desc": "Cricket icon Garfield Sobers has passed away at the age of 89. He represented the West Indies in 93 Test matches during his career. Sobers scored 8,032 runs and took 235 wickets in Tests. He famously scored 365 runs in a single Test innings. Sobers also achieved six sixes in one over in first-class cricket.",
-    "img": "https://static.toiimg.com/photo/msid-132464665,imgsize-40441.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/west-indies-legend-garry-sobers-dies-at-89/articleshow/132464604.cms",
-    "time": "2026-07-17T15:28:34.000Z"
-  },
-  {
     "cat": "Business",
     "title": "SpaceX shares fall! Market cap of Elon Musk-led firm set to see $1 trillion drop from all-time high",
     "desc": "After dropping as much as 6.9% in early US trading to $122.12 per share, the stock recovered some of its losses. At that level, the company's market value stood at $1.61 trillion, down from its high of $2.64 trillion seen at the close of June 16.",
@@ -655,15 +709,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/ril-q2-fy27-results-mukesh-ambani-reliance-industries-posts-22-fall-in-profit-on-one-time-asian-paints-caveat-from-last-year-revenue-rises-25-yoy/articleshow/132463785.cms",
     "time": "2026-07-17T14:27:37.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Why crude oil prices haven’t spiralled out of control amid US-Iran conflict",
-    "desc": "Brent crude prices in the spot market briefly surged to around $144 per barrel before easing as markets adjusted. Yet as ADB notes in its report - despite this unprecedented supply shock, crude oil prices did not reach levels seen during the 1973 Arab oil embargo or even the 1990 Gulf war, if one were to inflation-adjust the prices.",
-    "img": "https://static.toiimg.com/photo/msid-132462747,imgsize-464557.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/strait-of-hormuz-closure-why-crude-oil-prices-havent-spiralled-out-of-control-amid-us-iran-conflict/articleshow/132460971.cms",
-    "time": "2026-07-17T12:29:50.000Z"
   },
   {
     "cat": "Tech",
@@ -747,15 +792,6 @@ const newsData_en = [
     "time": "2026-07-16T12:32:32.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘There is no better person...’ Ashwin backs Dhoni as ideal successor to Fleming",
-    "desc": "Ashwin stressed that if Dhoni is willing to take up the coaching role, he would be the ideal successor given his deep understanding of the team and his successful partnership with Fleming over the years",
-    "img": "https://th-i.thgim.com/public/incoming/5v3nmw/article71229480.ece/alternates/LANDSCAPE_1200/INDEX_IPL_CRICKET_MATCH_DELHI_15.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/there-is-no-better-person-ashwin-backs-dhoni-as-ideal-successor-to-fleming/article71229465.ece",
-    "time": "2026-07-16T10:57:10.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Centre floats another draft of CAFE-III, gives special recognition to ethanol and biofuel cars",
     "desc": "Industry stakeholders have until August 6 to respond to the latest draft; the proposed CAFE norms have sharply divided the automobile industry, with manufacturers of smaller and larger vehicles taking opposing positions and competing proposals emerging over how the regulations should be framed",
@@ -819,15 +855,6 @@ const newsData_en = [
     "time": "2026-07-16T04:53:23.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "No entry, says Simon",
-    "desc": "650. That’s how many consecutive minutes he went without conceding a goal across this World Cup and the last before letting in a header from Belgium’s Charles De Ketelaere in the quarterfinal on July 11. This fantastic feat put to shade Italy’s Walter Zenga’s record of 517 set in 1990.",
-    "img": "https://th-i.thgim.com/public/incoming/atkrlt/article71226833.ece/alternates/LANDSCAPE_1200/Spain_France_WCup_Soccer_33611.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/no-entry-says-simon/article71226822.ece",
-    "time": "2026-07-16T04:06:00.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Brought in for civilian use, Starlink is now integral to Ukraine’s war effort",
     "desc": "Russia’s latest attempts to jam the satellite network are about more than disrupting internet access; Starlink sits behind drone operations, battlefield communications, and command networks that stretch across hundreds of kilometres of the war front",
@@ -844,15 +871,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/cabinet-okays-semicon-20-mobile-phone-manufacturing-scheme-highways-and-urea-plants/article71226334.ece",
     "time": "2026-07-15T17:21:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "report",
-    "desc": "Anil Ambani’s Reliance Group, one of the plant’s contractors, told Reuters in a statement that there had been a “partial breach” of its data on a server hosted by third-party Indian data centre service provider Yotta, and that the govt. has been informed about the incident",
-    "img": "https://th-i.thgim.com/public/incoming/jqllwl/article71226296.ece/alternates/LANDSCAPE_1200/IMG_KKNPP3_2_1_2HDVIIE2.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/files-relating-to-kudankulam-nuclear-power-plant-exposed-in-data-breach-report/article71226179.ece",
-    "time": "2026-07-15T15:32:04.000Z"
   },
   {
     "cat": "Tech",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/openai-gpt-5-6-vs-anthropic-fable-5-class-comparison/article71206211.ece",
     "time": "2026-07-12T04:51:09.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "the longest suspension bridge in the western hemisphere",
-    "desc": "June 28, 1958 marks the end of a four-day party for the dedication festival of the Mackinac Bridge. Even though the bridge had been opened to traffic from November the previous year, it was only from June 25-28 that the official festivities and ribbon-cutting had taken place. Join A.S.Ganesh as he takes you on a trip to tell you about this suspension bridge…",
-    "img": "https://th-i.thgim.com/public/incoming/m4jcny/article71117475.ece/alternates/LANDSCAPE_1200/28istb%20MackinacBridge_at_night.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/mighty-mac-the-longest-suspension-bridge-in-the-western-hemisphere/article71117473.ece",
-    "time": "2026-07-11T10:03:23.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
   }
 ];

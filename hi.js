@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Rohit will work it out': Morne Morkel backs Rohit Sharma to return to top form ahead of the third England ODI",
+    "desc": "India and England will take on each other in the third ODI of the ongoing series. The two sides will take on each other at the Lord’s Cricket Ground in London on July 19th; ahead...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-will-work-it-out-morne-morkel-backs-rohit-sharma-to-return-to-top-form-ahead-of-the-third-england-odi-2026-07-18-1048683",
+    "time": "2026-07-18T15:10:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mirabai Chanu, Lovlina Borgohain named India's flag and baton bearers ahead of Commonwealth Games 2026",
+    "desc": "In a major development, India’s professional weightlifter Mirabai Chanu and boxer Lovlina Borgohain have been selected as India’s official flag and baton bearers in the upcoming Commonwealth Games 2026. The duo will be leading India’s...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/mirabai-chanu-lovlina-borgohain-named-india-s-flag-and-baton-bearers-ahead-of-commonwealth-games-2026-2026-07-18-1048681",
+    "time": "2026-07-18T14:33:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How has France performed against England in FIFA WC history? All you need to know ahead of the bronze final",
+    "desc": "France and England are all set to take on each in the bronze final of the ongoing FIFA World Cup 2026. It is worth noting that both sides have been eliminated from the semi-finals of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/how-has-france-performed-against-england-in-fifa-wc-history-all-you-need-to-know-ahead-of-the-bronze-final-2026-07-18-1048676",
+    "time": "2026-07-18T13:43:58.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "BCCI names replacement for injured Washington Sundar ahead of third England ODI; Check details",
     "desc": "With the Indian team all set to take on England in the third and final ODI of the ongoing series, the BCCI (Board of Control for Cricket in India) came forward and announced the replacement...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/icc-shake-qualification-pathway-ahead-of-odi-world-cup-2027-announces-revised-model-2026-07-18-1048619",
     "time": "2026-07-17T19:26:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bangladesh openers set momentum before Saifuddin steals show as they defeated Zimbabwe in second T20I",
-    "desc": "Bangladesh defeated Zimbabwe by 34 runs in the second T20I of the series in Bulawayo. Batting first, the Bangla Tigers posted 186 runs on the board and, in reply, managed to restrict the Chevrons to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-openers-set-momentum-before-saifuddin-stole-show-as-they-defeated-zimbabwe-in-second-t20i-2026-07-18-1048618",
-    "time": "2026-07-17T19:03:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England release two cricketers ahead of series finale against India at Lord's, here's why",
-    "desc": "English all-rounders Liam Dawson and Tom Banton have left the England ODI squad ahead of the series finale against India at the iconic Lord’s on July 19. The pair will rather feature in the T20...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-release-two-cricketers-ahead-of-series-finale-against-india-at-lord-s-here-s-why-2026-07-18-1048616",
-    "time": "2026-07-17T18:31:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI secretary shares major update on Rohit Sharma, says Lord's 'won't be his last match'",
-    "desc": "BCCI secretary Devajit Saikia has denied any chat with veteran cricketer Rohit Sharma about a possible retirement after the third ODI against England at the iconic Lord’s on July 19. He cleared the air that...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-secretary-clears-air-about-rohit-sharma-s-odi-future-says-lord-s-won-t-be-his-last-match-2026-07-17-1048612",
-    "time": "2026-07-17T17:38:29.000Z"
   }
 ];
