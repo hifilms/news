@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "BCCI names replacement for injured Washington Sundar ahead of third England ODI; Check details",
+    "desc": "With the Indian team all set to take on England in the third and final ODI of the ongoing series, the BCCI (Board of Control for Cricket in India) came forward and announced the replacement...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-names-replacement-for-injured-washington-sundar-ahead-of-third-england-odi-check-details-2026-07-18-1048669",
+    "time": "2026-07-18T12:11:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How has India fared at the Lord's Cricket Ground in ODI cricket? Check stats ahead of series decider",
+    "desc": "The stage is set for the third and final ODI of the ongoing series between India and England. The two sides are slated to meet at the Lord’s Cricket Ground in London on July 19th....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/how-has-india-fared-at-the-lord-s-cricket-ground-in-odi-cricket-check-stats-ahead-of-series-decider-2026-07-18-1048662",
+    "time": "2026-07-18T11:26:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India coach weighs in on Rohit Sharma's performances ahead of third ODI against England",
+    "desc": "India and England will take on each other in the third and final ODI of the ongoing series between them. The two sides will meet at the Lord’s Cricket Ground in London on July 19th,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-coach-weighs-in-on-rohit-sharma-s-performances-ahead-of-third-odi-against-england-2026-07-18-1048656",
+    "time": "2026-07-18T10:20:37.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Among the best': Lionel Messi sings Lamine Yamal's praises ahead of FIFA World Cup 2026 final",
     "desc": "The stage is set for the final of the FIFA World Cup 2026; one-time champions Spain will be taking on defending champions Argentina. The two sides will meet at the New York-New Jersey Stadium on...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/bcci-secretary-clears-air-about-rohit-sharma-s-odi-future-says-lord-s-won-t-be-his-last-match-2026-07-17-1048612",
     "time": "2026-07-17T17:38:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit Sharma hasn't informed BCCI, team management or selectors about possible retirement announcement",
-    "desc": "Rohit Sharma's place in India's ODI plans has come under serious doubt after selectors informed him that he is no longer being considered for the 2027 ODI World Cup. The Indian team management and selectors...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-hasn-t-informed-bcci-team-management-or-selectors-about-possible-retirement-announcement-2026-07-17-1048609",
-    "time": "2026-07-17T16:20:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gary Sobers dies at 89, legendary cricketer was first to hit six sixes in First Class cricket",
-    "desc": "Sir Garry Sobers, widely regarded as one of the greatest cricketers in history and the finest all-rounder the game has produced, has died at the age of 89. The former West Indies captain, celebrated for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/legendary-west-indies-cricketer-gary-sobers-dies-at-89-2026-07-17-1048603",
-    "time": "2026-07-17T15:07:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ravi Shastri reminds Rohit Sharma's impact in ODIs amid talks of possible retirement after Lord's ODI",
-    "desc": "England beat India by four wickets in the second ODI at Sophia Gardens in Cardiff, chasing down a target of 234 with Joe Root anchoring the innings on an unbeaten 99. Earlier in the day,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ravi-shastri-reminds-rohit-sharma-s-impact-in-odis-amid-talks-of-possible-retirement-after-lord-s-odi-2026-07-17-1048599",
-    "time": "2026-07-17T14:31:35.000Z"
   }
 ];

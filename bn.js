@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "অবশেষে হাসপাতাল থেকে ছুটি পেলেন রাজেশ শর্মা, অগাস্টেই উড়ছেন লন্ডনে",
+    "desc": "৮ জুলাই গুরুতর অসুস্থ অবস্থায় হাসপাতালে ভর্তি হন রাজেশ। টানা ১০ দিন হাসপাতালে বন্দি। অবশেষে ঘরে ফিরলেন। খুব শিগগিরই আবার কাজে ফিরবেন বলেও জানা গিয়েছে। এর আগে শোনা গিয়েছিল, বিষাক্ত মাকড়সার কামড় থেকে গুরুতর সংক্রমণ ঘটে রাজেশের শরীরে। সেই সময়েই অভিনেতার তরফে জানানো হয়েছিল ভুল তথ্য ছড়িয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/actor-rajesh-sharma-discharged-from-hospital-health-update-shoot-in-london_662949.html ",
+    "time": "2026-07-18T12:51:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "১৬ জুলাই কি তবে চার হাত এক হল? জেনিফার উইঙ্গেটের ব্রাইডাল গাউনের ভিডিয়ো ভাইরাল",
+    "desc": "গত ১৬ জুলাই বিট্রেনের এক ঘরোয়া অনুষ্ঠানে তাঁদের বিয়ে হওয়ার কথা ছিল। তবে বিয়ে সম্পন্ন হয়েছে কি না, তা নিয়ে জেনিফার বা উইলিয়াম এখনও কোনও আনুষ্ঠানিক বিবৃতি দেননি। এর আগে ২০১৪ সালে অভিনেতা করণ সিং গ্রোভারের সঙ্গে জেনিফারের বিবাহবিচ্ছেদ হয়।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/jennifer-wingets-bridal-gown-trial-video-goes-viral-amid-wedding-rumours_662928.html ",
+    "time": "2026-07-18T12:02:14.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "ঘুমন্ত স্বামীকে সাপের ছোবল! প্রেমিক, ২০ লাখের বিমার টানে অতুলকে সরাতে দামিনীর হাড়হিম ছক",
     "desc": "অতুলকে খুন করার এটি প্রথম চেষ্টা ছিল না। এর আগে আরও একবার চেষ্টা করা হয়েছিল। প্রায় ২০ দিন আগে তুষার একটি গাড়ি নিয়ে অতুলকে ধাক্কা মারে। তখন অতুলকে সরাসরি খুন করার চেষ্টা করা হয়েছিল। কিন্তু সে যাত্রায় মাথায় হেলমেট থাকায় অতুল বেঁচে যান।",
@@ -19,7 +37,7 @@ const newsData_bn = [
   },
   {
     "cat": "Politics",
-    "title": "যন্তরমন্তরের তুলকালাম: সোনম ওয়াংচুককে জোর করে তুলে নিয়ে গেল দিল্লি পুলিস, এবার আমরণ অনশনে CJP এর অভিজিত্‍ দিপকে",
+    "title": "যন্তরমন্তরে তুলকালাম: সোনম ওয়াংচুককে জোর করে তুলে নিয়ে গেল দিল্লি পুলিস, এবার আমরণ অনশনে CJP এর অভিজিত্‍ দিপকে",
     "desc": "সোনম ওয়াংচুককে সরিয়ে দেওয়ার পর সিজেপি (CJP) প্রধান অভিজিৎ দীপকে সামাজিক যোগাযোগ মাধ্যম 'X'-এ একটি তাঁর বক্তব্য লিখে অনশন শুরু করেন। তিনি বলেন, 'আমি এই মুহূর্ত থেকেই আমরণ অনশন শুরু করছি। আমি সবাইকে অনুরোধ করছি, কেউ পিছপা হবেন না, এই আন্দোলন আরও বড় আকার ধারণ করবে।'",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
@@ -124,15 +142,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/stampede-like-situation-at-puri-jagannath-rath-yatra-200-devotees-hospitalised_662693.html ",
     "time": "2026-07-16T12:19:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "৫ লাখে কিনে ১০ লাখে বিক্রি লাতুরের কোচিং মালিকের, ১৩৬-র মধ্যে মেলে ১১১টি কেমিস্ট্রির প্রশ্নই! নিট প্রশ্নফাঁসে CBI-র রিপোর্ট",
-    "desc": "আদালতে সিবিআই-এর চাঞ্চল্যকর রিপোর্ট। মোবাইল ফোন থেকে উদ্ধার ১৩৬টি হাতে লেখা কেমিস্ট্রির প্রশ্নের মধ্যে ১১১টি প্রশ্নই হুবহু মিলে গেছে নিটের 'মাস্টার কোশ্চেন সেট'-এর সাথে। গেস পেপারের সেই ৪১০ টি প্রশ্ন থেকে প্রায় ১২০টি প্রশ্ন মূল পরীক্ষায় হুবহু চলে আসে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/cbi-report-rs-5-lakh-bribe-to-paper-setter-111-of-136-questions-matched-in-neet-leak-case_662642.html ",
-    "time": "2026-07-16T09:34:10.000Z"
   },
   {
     "cat": "Entertainment",
@@ -286,5 +295,23 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/amit-shah-suvendu-adhikari-courtesy-visit-prosenjit-chatterjee-kolkata_661234.html ",
     "time": "2026-07-06T12:55:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
+    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
+    "time": "2026-06-01T03:50:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
+    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
+    "time": "2026-05-23T05:15:29.000Z"
   }
 ];

@@ -1,12 +1,30 @@
 const newsData_gu = [
   {
-    "cat": "Sports",
-    "title": "9 બોલમાં ફિફ્ટી, સતત બે વાર 6 બોલમાં 6 સિક્સ... આ બેટ્સમેને બનાવ્યો અસંભવ વર્લ્ડ રેકોર્ડ !",
-    "desc": "દુનિયામાં એકમાત્ર એવો બેટ્સમેન છે, જેણે T20 આંતરરાષ્ટ્રીય ક્રિકેટમાં બે વખત સતત છ બોલમાં 6 છગ્ગા ફટકાર્યા છે. આ વર્લ્ડ રેકોર્ડ સાથે તેણે કિરોન પોલાર્ડ અને યુવરાજ સિંહને પાછળ છોડી દીધા છે, જેમણે બંનેએ તેમની કારકિર્દી દરમિયાન ફક્ત એક જ વાર એક ઓવરમાં સતત છ છગ્ગા ફટકારવાની સિદ્ધિ હાંસલ કરી હતી.",
+    "cat": "Business",
+    "title": "સરકારી કર્મચારીઓ માટે લોટરી! 8મા પગાર પંચમાં HRAમાં થઈ શકે છે મોટો વધારો, જાણો",
+    "desc": "8મા પગાર પંચ હેઠળ મૂળ પગારમાં વધારાની સાથે, હાઉસ રેન્ટ એલાઉન્સ (HRA)માં પણ મોટો વધારો શક્ય છે. એવો અંદાજ છે કે લેવલ 4થી લેવલ 6 સુધીના કેન્દ્રીય સરકારી કર્મચારીઓને ફિટમેન્ટ ફેક્ટરના આધારે દર મહિને 27,290 રૂપિયા સુધીનો HRA મળી શકે છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/cricket-record-nepal-cricketer-dipendra-singh-hits-two-time-6-sixes-in-6-ball-485021 ",
-    "time": "2026-07-18T09:15:35.000Z"
+    "url": " http://zeenews.india.com/gujarati/business/lottery-for-government-employees-hra-may-see-a-big-increase-in-the-8th-pay-commission-know-485063 ",
+    "time": "2026-07-18T12:47:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "રાહુલ-કુલદીપની એન્ટ્રી, આ બે ખેલાડીઓનું કપાશે પત્તુ... લોર્ડ્સ વનડેમાં આવી હશે ભારતની પ્લેઈંગ ઈલેવન",
+    "desc": "ભારત અને ઈંગ્લેન્ડ વચ્ચે લોર્ડસમાં ત્રીજી અને નિર્ણાયક વનડે રમાશે, આ મેચ જે ટીમ જીતશે તે સિરીઝ પર કબજો કરશે. કારણ કે 3 મેચની વનડે સિરીઝ 1-1ની બરાબરી પર છે, પ્રથમ વનડેમાં ભારતીય ટીમે શાનદાર જીત નોંધાવી હતી. તો બીજી મેચમાં ઈંગ્લેન્ડે વાપસી કરી હતી અને ભારતને હરાવ્યું હતું, તેથી લોર્ડ્સમાં રમાનારી છેલ્લી મેચ નિર્ણાયક બનશે. આ મેચમાં ટીમ ઈન્ડિયાની પ્લેઈંગ ઈલેવનમાં બે ફેરફાર જોવા મળી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-eng-3rd-odi-india-probable-playing-11-kl-rahul-in-ishan-kishan-out-485044 ",
+    "time": "2026-07-18T11:06:36.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "બદલાશે 10 અને 20 રૂપિયાની નોટો, RBI એ કરી મોટી જાહેરાત, તેની જગ્યાએ શું આવશે?",
+    "desc": "આ UPIનો યુગ છે. લોકો ભાગ્યે જ રોકડ રકમ પાસે રાખે છે. કારણ કે કાગળની નોટો ઝડપથી બગડી જાય છે અને સરળતાથી ફાટી જાય છે. જો કે, આ સમસ્યાનો ઉકેલ આવવાનો છે, કારણ કે ભવિષ્યમાં તમારા ખિસ્સામાં રહેલી નોટ પ્લાસ્ટિકની બનેલી હોઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/10-and-20-rupee-notes-will-be-replaced-rbi-made-a-big-announcement-what-will-come-in-its-place-485042 ",
+    "time": "2026-07-18T10:55:10.000Z"
   },
   {
     "cat": "Politics",
@@ -15,7 +33,16 @@ const newsData_gu = [
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/8th-pay-commission-what-will-be-the-basic-salary-of-level-1-to-10-if-fitment-factor-may-remain-same-485020 ",
-    "time": "2026-07-18T09:03:37.000Z"
+    "time": "2026-07-18T10:29:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "9 બોલમાં ફિફ્ટી, સતત બે વાર 6 બોલમાં 6 સિક્સ... આ બેટ્સમેને બનાવ્યો અસંભવ વર્લ્ડ રેકોર્ડ !",
+    "desc": "દુનિયામાં એકમાત્ર એવો બેટ્સમેન છે, જેણે T20 આંતરરાષ્ટ્રીય ક્રિકેટમાં બે વખત સતત છ બોલમાં 6 છગ્ગા ફટકાર્યા છે. આ વર્લ્ડ રેકોર્ડ સાથે તેણે કિરોન પોલાર્ડ અને યુવરાજ સિંહને પાછળ છોડી દીધા છે, જેમણે બંનેએ તેમની કારકિર્દી દરમિયાન ફક્ત એક જ વાર એક ઓવરમાં સતત છ છગ્ગા ફટકારવાની સિદ્ધિ હાંસલ કરી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/cricket-record-nepal-cricketer-dipendra-singh-hits-two-time-6-sixes-in-6-ball-485021 ",
+    "time": "2026-07-18T09:15:35.000Z"
   },
   {
     "cat": "Entertainment",
@@ -252,15 +279,6 @@ const newsData_gu = [
     "time": "2026-07-16T13:53:42.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ઇંગ્લેન્ડ સામેની બીજી વનડેમાં કેમ નથી રમી રહ્યો કેએલ રાહુલ ? કેપ્ટન ગિલે જણાવ્યું કારણ",
-    "desc": "કાર્ડિફમાં ભારત અને ઇંગ્લેન્ડ વચ્ચેની બીજી વનડેમાં કેએલ રાહુલને પ્લેઇંગ ઇલેવનમાં સ્થાન મળ્યું નથી. તેના સ્થાને ઈશાન કિશનને તક આપવામાં આવી છે, ત્યારે કેએલ રાહુલ કેમ નથી રમી રહ્યો, તેનું કારણ પણ કેપ્ટન શુભમન ગિલે જણાવ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-eng-why-kl-rahul-not-playing-in-second-odi-captain-gill-revealed-reason-484845 ",
-    "time": "2026-07-16T13:12:36.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "પુરી જગન્નાથ રથયાત્રામાં નાસભાગ જેવી સ્થિતિ... એકનું મોત, 100થી વધુ ઘાયલ",
     "desc": "પુરીમાં જગન્નાથ રથયાત્રા 2026ના પહેલા દિવસે પુરીના ગ્રાન્ડ રોડ પર ભારે ભીડને કારણે નાસભાગ જેવી સ્થિતિ સર્જાઈ હતી. જેમાં એક ભક્તનું મોત નીપજ્યું હોવાના અહેવાલ છે, જ્યારે ઘણા લોકોને શ્વાસ લેવામાં તકલીફ પડતાં હોસ્પિટલમાં દાખલ કરવામાં આવ્યા છે.",
@@ -423,15 +441,6 @@ const newsData_gu = [
     "time": "2026-07-15T09:47:21.000Z"
   },
   {
-    "cat": "Business",
-    "title": "મિનિટોમાં બુકિંગ, તરત ડિલિવરી! હવે કનેક્શન વગર પણ મળશે LPG સિલિન્ડર, જાણો પ્રોસેસ",
-    "desc": "હવે તમે કનેક્શન વિના થોડી જ મિનિટોમાં ઘરે બેઠા LPG સિલિન્ડર ઓર્ડર કરી શકો છો. હિન્દુસ્તાન પેટ્રોલિયમે તેનું નવું 'HP Navya' 10 કિલોનું કમ્પોઝિટ LPG સિલિન્ડર પણ લોન્ચ કર્યું છે. આ ઉપરાંત, ગ્રાહકો હાલના 5 કિલો મેટલ LPG સિલિન્ડરનો પણ ઓર્ડર આપી શકશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/booking-in-minutes-immediate-delivery-now-you-can-get-lpg-cylinders-even-without-connection-know-the-process-484681 ",
-    "time": "2026-07-15T08:53:16.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "ભારતની સૌથી સસ્તી 7-સીટર કાર, કિંમત માત્ર 5.76 લાખથી શરૂ, જુઓ લિસ્ટ",
     "desc": "જો તમે તમારા મોટા પરિવાર માટે બજેટમાં 7 સીટર કાર ખરીદવા ઈચ્છો છો તો તમારી પાસે ઘણા શાનદાર વિકલ્પ છે. નિસાનથી લઈને મારૂતિ અને મહિન્દ્રા સુધીની આ કારો ઓછી કિંમતમાં સારી સ્પેસ અને ફીચર્સ સાથે ઉપલબ્ધ છે, જોઈએ તેનું લિસ્ટ.",
@@ -556,15 +565,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/iranian-newspaper-publishes-list-of-13-foreign-leaders-amid-revenge-calls-484404 ",
     "time": "2026-07-12T15:40:53.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "શું છે ચીનનો આ વિનાશક કાયદો, દુનિયાભરના ચીની નાગરિકો પર તોળાશે મોટું સંકટ? જાણો",
-    "desc": "ચીન સરકાર બીજા દેશોમાં રહી રહેલા ચીની નાગરિકો અને સંગઠનો માટે એક નવો કાયદો લાવી રહી છે. સરકારનું કહેવું છે કે, તેની પાસે વિદેશમાં રહેતા આવા તમામ લોકો સામે કાનૂની પગલાં લેવાનો સંપૂર્ણ અધિકાર છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/what-is-this-destructive-law-of-china-will-a-big-crisis-befall-chinese-citizens-around-the-world-know-484403 ",
-    "time": "2026-07-12T15:25:48.000Z"
   },
   {
     "cat": "Entertainment",
