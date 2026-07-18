@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Where to watch France vs England FIFA World Cup 2026 Bronze medal match live on TV and stream online for free?",
+    "desc": "France and England will meet in the FIFA World Cup 2026 third-place playoff in the early hours of Sunday. Even though their goal of lifting the coveted trophy is over, both teams will aim to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/where-to-watch-france-vs-england-fifa-world-cup-2026-bronze-medal-match-live-on-tv-and-stream-online-for-free-2026-07-19-1048693",
+    "time": "2026-07-18T18:38:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why will France play England after both teams knocked out of FIFA World Cup 2026?",
+    "desc": "France and England will meet in the FIFA World Cup 2026 third-place playoff in the early hours of Sunday as per IST, despite being eliminated from the title race earlier this week. Despite so, the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/why-will-france-play-england-after-both-teams-knocked-out-of-fifa-world-cup-2026-2026-07-18-1048690",
+    "time": "2026-07-18T18:06:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Spain's star footballer reveals to announce retirement if they beat Argentina in FIFA World Cup 2026 final",
+    "desc": "Spain defender Marc Cucurella has revealed to retire from international football if La Roja defeats Argentina in the FIFA World Cup final. He also added of doing a permanent tattoo of head coach Luis de...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/spain-s-star-footballer-reveals-to-announce-retirement-if-they-beat-argentina-in-fifa-world-cup-2026-final-2026-07-18-1048686",
+    "time": "2026-07-18T16:28:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BWF World Championship mascot, anthem released; BAI expects best-ever tournament after India Open controversy",
+    "desc": "The World Badminton Championships will return to India after a gap of 17 years, with more than 400 players from over 50 countries expected to compete in the 30th edition of the tournament. Ahead of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/bwf-world-championship-mascot-anthem-released-bai-expects-best-ever-tournament-after-india-open-controversy-2026-07-18-1048685",
+    "time": "2026-07-18T16:05:45.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Rohit will work it out': Morne Morkel backs Rohit Sharma to return to top form ahead of the third England ODI",
     "desc": "India and England will take on each other in the third ODI of the ongoing series. The two sides will take on each other at the Lord’s Cricket Ground in London on July 19th; ahead...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/former-india-coach-weighs-in-on-rohit-sharma-s-performances-ahead-of-third-odi-against-england-2026-07-18-1048656",
     "time": "2026-07-18T10:20:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Among the best': Lionel Messi sings Lamine Yamal's praises ahead of FIFA World Cup 2026 final",
-    "desc": "The stage is set for the final of the FIFA World Cup 2026; one-time champions Spain will be taking on defending champions Argentina. The two sides will meet at the New York-New Jersey Stadium on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/among-the-best-lionel-messi-sings-lamine-yamal-s-praises-ahead-of-fifa-world-cup-2026-final-2026-07-18-1048648",
-    "time": "2026-07-18T08:42:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer backs Mohammed Siraj's comeback in India's white-ball setup amid England series",
-    "desc": "The Indian team is all set to take on England in the third and final ODI of the ongoing series. The two sides will meet at the Lord’s Cricket Ground in London on July 19th....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-backs-mohammed-siraj-s-comeback-in-india-s-white-ball-setup-amid-england-series-2026-07-18-1048642",
-    "time": "2026-07-18T07:30:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Thomas Tuchel defends his tactics after England's loss to Argentina in World Cup semi-final",
-    "desc": "The stage is set for the bronze final of the ongoing FIFA World Cup 2026; England will be taking on France in a bid to finish in third place in the tournament. The two sides...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/thomas-tuchel-defends-his-tactics-after-england-s-loss-to-argentina-in-world-cup-semi-final-2026-07-18-1048637",
-    "time": "2026-07-18T06:14:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC shakes qualification pathway ahead of ODI World Cup 2027, announces revised model",
-    "desc": "The International Cricket Council (ICC) has restricted the qualification path for the 2027 ODI World Cup. As per the latest development, the winner of the qualifier, which is hosted between 10 nations, will secure direct...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/icc-shake-qualification-pathway-ahead-of-odi-world-cup-2027-announces-revised-model-2026-07-18-1048619",
-    "time": "2026-07-17T19:26:34.000Z"
   }
 ];

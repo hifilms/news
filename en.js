@@ -1,5 +1,140 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "I was discouraged from taking bold decision to privatise space sector, today you proved me right: PM Modi to Skyroot after Vikram-1 successful launch",
+    "desc": "India achieved a historic milestone with the successful launch of its first private orbital rocket. Prime Minister Narendra Modi lauded the achievement, emphasizing faith in the nation's youth. This success positions India as the third country with indigenous private orbital launch capabilities. Skyroot Aerospace's Vikram-1 rocket carried a special message for the universe. The event signifies a new era for India's growing private space sector.",
+    "img": "https://static.toiimg.com/photo/msid-132485825,imgsize-103324.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/i-was-discouraged-from-taking-bold-decision-to-privatise-space-sector-today-you-proved-me-right-pm-modi-to-skyroot-after-vikram-1-successful-launch/articleshow/132485789.cms",
+    "time": "2026-07-18T18:37:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Arun Govil recalls being rejected for Lord Ram, now returns as Dashrath",
+    "desc": "Pratham Sankalp event at Bharat Mandapam in New Delhi on Friday. The actor, who became a household name after playing Lord Ram in Ramanand Sagar's iconic television series, shared memories of how he was initially rejected for the role before eventually being cast.",
+    "img": "https://static.toiimg.com/photo/msid-132485328,imgsize-83879.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/arun-govil-recalls-being-rejected-for-lord-ram-before-landing-iconic-role-in-ramanand-sagars-ramayan-opens-up-on-playing-king-dasharath-in-nitesh-tiwaris-ramayana/articleshow/132485270.cms",
+    "time": "2026-07-18T18:08:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Left parties condemn Wangchuk's removal, use of force; back ongoing protest",
+    "desc": "In the early hours of day 21 of the protest fast at Jantar Mantar, when the presence was a little thin, Delhi Police succeeded in removing Sonam Wangchuk from the protest site, said CPI(ML) Liberation general secretary Dipankar Bhattacharya",
+    "img": "https://th-i.thgim.com/public/incoming/hk82jb/article71239170.ece/alternates/LANDSCAPE_1200/20260523172L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/left-parties-condemn-wangchuks-removal-use-of-force-back-ongoing-protest/article71239024.ece",
+    "time": "2026-07-18T17:49:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Panels examining Bill for removal of Ministers and VBSA Bill defer meeting on adopting draft reports",
+    "desc": "The decisions come just before the Monsoon Session of Parliament is to commence. Opposition calls it ‘big victory’, says the humiliation that Modi government suffered in the defeat of delimitation-related Bills in April ‘still lingers’",
+    "img": "https://th-i.thgim.com/public/incoming/9i1tl4/article71239157.ece/alternates/LANDSCAPE_1200/Panel-defers-adGNSG8VTG9.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/panels-examining-bill-for-removal-of-ministers-and-vbsa-bill-defer-meeting-on-adopting-draft-reports/article71238750.ece",
+    "time": "2026-07-18T17:29:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranbir pays heartfelt tribute to Arun Govil at Ramayana event",
+    "desc": "Pratham Sankalp event at Bharat Mandapam in New Delhi on Saturday, where Ranbir Kapoor paid a heartfelt tribute to veteran actor Arun Govil, who immortalised the role of Lord Ram in Ramanand Sagar's iconic television series. During the event, Ranbir addressed Arun Govil with an emotional speech, acknowledging the veteran actor's lasting impact on generations of viewers.",
+    "img": "https://static.toiimg.com/photo/msid-132483995,imgsize-70171.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-pays-heartfelt-tribute-to-arun-govil-at-ramayana-pratham-sankalp-i-have-grown-up-carrying-shri-rams-blessings/articleshow/132483926.cms",
+    "time": "2026-07-18T17:11:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Entire BJP trembling with fear': Prashant Kishor on Bankipur assembly bypoll",
+    "desc": "Jan Suraaj Party founder Prashant Kishor claims the BJP fears his electoral debut. He alleges the ruling party is now campaigning door-to-door for votes. Kishor urges voters to reject money and food distribution practices. The Jan Suraaj Party aims to offer a credible political alternative. The Bankipur bypoll is scheduled for July 30 in Bihar.",
+    "img": "https://static.toiimg.com/photo/msid-132483828,imgsize-181262.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/entire-bjp-trembling-with-fear-prashant-kishor-on-bankipur-assembly-bypoll/articleshow/132483639.cms",
+    "time": "2026-07-18T17:08:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "With retirement rumours swirling, Rohit Sharma turns up for optional practice at Lord's",
+    "desc": "With retirement speculation growing and pressure mounting after a lean ODI series, Rohit Sharma attended India's optional practice session at Lord's. Former India captain looked in good touch as he prepared ahead of the series decider at Lord’s.",
+    "img": "https://static.toiimg.com/photo/msid-132483695,imgsize-77280.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/with-retirement-rumours-swirling-rohit-sharma-turns-up-for-optional-practice-at-lords/articleshow/132483669.cms",
+    "time": "2026-07-18T16:44:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Amarnath, Vaishno Devi Yatras temporarily suspended due to bad weather",
+    "desc": "Authorities have temporarily suspended the Amarnath and Vaishno Devi Yatras due to inclement weather. The decision was made as a precautionary measure to ensure the safety of all pilgrims. Pilgrims are advised to remain patient and follow official communication channels for updates. The Shri Amarnathji Yatra will remain suspended from both Pahalgam and Baltal routes. The Yatra will resume once weather conditions are deemed safe for travel.",
+    "img": "https://static.toiimg.com/photo/msid-132483697,imgsize-203756.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/amarnath-vaishno-devi-yatras-temporarily-suspended-due-to-bad-weather/articleshow/132483636.cms",
+    "time": "2026-07-18T16:44:34.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "How will U.S. visa policy changes affect students, media professionals, and exchange visitors",
+    "desc": "The U.S. Department of Homeland Security cites national security risks from Indian and Chinese students and introduces changes in F, J and I categories of visas. PhD scholars, journalists, and exchange visitors will be impacted",
+    "img": "https://th-i.thgim.com/public/incoming/n0sipp/article71238979.ece/alternates/LANDSCAPE_1200/iStock-1136297692.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/how-will-us-visa-policy-changes-affect-students-media-professionals-and-exchange-visitors-explained/article71238137.ece",
+    "time": "2026-07-18T16:21:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Argentina on the brink of unique World Cup record as Messi eyes another title",
+    "desc": "Argentina are one goal away from setting a FIFA World Cup record for most goals scored from outside the box in a single tournament, having already matched the mark with five. Lionel Messi has scored two and holds the individual record. Defending champions Argentina face Spain in Sunday's final, with both the title and a historic milestone at stake.",
+    "img": "https://static.toiimg.com/photo/msid-132483322,imgsize-96950.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/argentina-on-the-brink-of-unique-world-cup-record-as-spain-stand-between-lionel-messi-and-back-to-back-titles/articleshow/132483038.cms",
+    "time": "2026-07-18T16:18:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Once in his arms, now in his way: Lamine Yamal, Lionel Messi and a date with destiny",
+    "desc": "A 2007 photograph of Messi holding a baby Yamal was just a moment in time. Nearly two decades later, it has become football folklore — as the two generations of Barcelona brilliance prepare to meet in the 2026 FIFA World Cup final.",
+    "img": "https://th-i.thgim.com/public/incoming/nsacq7/article71238949.ece/alternates/LANDSCAPE_1200/image%20-%202026-07-18T212647.628.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/lionel-messi-lamine-yamal-fifa-world-cup-final-2026-baby-photo-analysis-argentina-spain-history/article71238987.ece",
+    "time": "2026-07-18T16:14:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hybrid shuttles, bird nets as BWF World Championships plug India Open glitches",
+    "desc": "Organisers promise a trouble-free BWF World Championships after addressing past issues. Heavy-duty netting will prevent bird intrusions while sealed gates deter monkeys. Stray dogs will be relocated, and security will remain on duty. The stadium has undergone renovations, including new lighting and improved facilities. This event marks a milestone in India's sporting ambitions.",
+    "img": "https://static.toiimg.com/photo/msid-132483226,imgsize-215452.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/hybrid-shuttles-bird-nets-as-bwf-world-championships-plug-india-open-glitches/articleshow/132483230.cms",
+    "time": "2026-07-18T16:07:45.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India's first undersea rail tunnel takes shape",
+    "desc": "India's first undersea rail tunnel excavation has commenced for the bullet train project. A giant Tunnel Boring Machine began its journey beneath Thane Creek on Saturday. This marks the start of excavation on the seven-kilometer undersea stretch. The machine is among the largest ever used for rail tunnel construction. This project aims to connect Mumbai and Ahmedabad with high-speed rail.",
+    "img": "https://static.toiimg.com/photo/msid-132483097,imgsize-1686597.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/making-waves-underground-indias-first-undersea-rail-tunnel-takes-shape/articleshow/132483064.cms",
+    "time": "2026-07-18T15:58:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rishab flaunts Rs 35.88L Ram Janmabhoomi watch with Ramayana team",
+    "desc": "Pratham Sankalp event after sharing pictures with Ranbir Kapoor, Yash, producer Namit Malhotra and director Nitesh Tiwari. While fans were thrilled to see Ranbir Kapoor and Yash in Rishab Rikhiram Sharma's latest post ahead of the Ramayana event, it was the sitar maestro's Rs 35.88 lakh Ram Janmabhoomi watch that quickly became the centre of attention.",
+    "img": "https://static.toiimg.com/photo/msid-132483138,imgsize-130352.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rishab-rikhiram-sharmas-rs-35-88-lakh-jacob-co-ram-janmabhoomi-watch-steals-the-spotlight-as-he-poses-with-the-ramayana-team/articleshow/132483015.cms",
+    "time": "2026-07-18T15:57:31.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "IRDAI launches comic book series to simplify life insurance for consumers",
+    "desc": "IRDAI chairman Ajay Seth unveiled a new comic book series to improve life insurance literacy. This initiative aims to simplify complex insurance concepts for the general public. The stories feature a young advisor explaining financial decisions and their long-term impact. The launch supports IRDAI's \"Insurance for All\" vision for informed financial planning. Industry data highlights a significant life insurance protection gap across India.",
+    "img": "https://static.toiimg.com/photo/msid-132483098,imgsize-127012.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/irdai-launches-comic-book-series-to-simplify-life-insurance-for-consumers/articleshow/132483056.cms",
+    "time": "2026-07-18T15:54:33.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ENG vs. IND third ODI",
     "desc": "The kerfuffle surrounding the 39-year-old’s time as an international cricketer has dominated news ahead of the Lord’s ODI; Rahul, after missing out on the second match, will play the decider; both teams will be looking to avoid middle-order collapses",
@@ -27,24 +162,6 @@ const newsData_en = [
     "time": "2026-07-18T15:34:56.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Locals oppose NHAI’s move to close entry and exit points on Bengaluru – Mysuru Highway",
-    "desc": "Residents say the closures are particularly disappointing as the long-promised distance-based toll collection system, which was expected to make travel more affordable for those commuting to nearby towns and villages, has still not been implemented",
-    "img": "https://th-i.thgim.com/public/incoming/nz6esa/article71238800.ece/alternates/LANDSCAPE_1200/Bengaluru%20Mysuru%20Expressway_01.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/locals-oppose-nhais-move-to-close-entry-and-exit-points-on-bengaluru-mysuru-highway/article71202940.ece",
-    "time": "2026-07-18T15:33:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "a stamp of approval for an iconic actor who continues to reinvent himself",
-    "desc": "The legendary actor, who was just a year ago staring down the biggest crisis of his glittering, five-decade career, has since won the Kerala State Award for Best Actor, the Padma Bhushan, and now a record-equalling fourth National Award for Best Actor",
-    "img": "https://th-i.thgim.com/public/incoming/ua616o/article71238730.ece/alternates/LANDSCAPE_1200/IMG_bramayugam_2_1_H2CE91EK.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/rajat-kamal-for-mammootty-a-stamp-of-approval-for-an-iconic-actor-who-continues-to-reinvent-himself/article71238631.ece",
-    "time": "2026-07-18T15:26:11.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Article 370 bags best feature film, Mammootty gets best actor award",
     "desc": "Announcing the awards, chairman of the central jury Jayaraj said Telugu movie Kalki 2898 AD bagged the trophy for the best popular film; Mammootty won his fourth National Film Award for best actor for his performance in Malayalam movie Bramayugam",
@@ -63,13 +180,13 @@ const newsData_en = [
     "time": "2026-07-18T14:50:04.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Anantapur Samanvay Committee Meeting highlights youth engagement initiatives",
-    "desc": "Addressing a gathering, MYBharat representative stresses on the need to intensify MYBharat registration awareness drives to connect every eligible young person with the MYBharat platform and ensure wider participation in flagship initiatives of the Ministry",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/anantapur-samanvay-committee-meeting-highlights-youth-engagement-initiatives/article71238101.ece",
-    "time": "2026-07-18T14:35:09.000Z"
+    "cat": "Sports",
+    "title": "Rohit shares a laugh with Gambhir at Lord's balcony ahead of ODI decider",
+    "desc": "Rohit Sharma looked relaxed ahead of India's series-deciding third ODI against England, sharing a light-hearted moment with coach Gautam Gambhir during training at Lord's. With the series tied 1-1, India will bank on Virat Kohli's form and hope Rohit rediscovers his touch. A win would secure the series and India's first ODI victory at Lord's since 2004.",
+    "img": "https://static.toiimg.com/photo/msid-132482311,imgsize-74304.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/watch-rohit-sharma-shares-a-laugh-with-gautam-gambhir-at-lords-balcony-ahead-of-odi-decider-against-england/articleshow/132482193.cms",
+    "time": "2026-07-18T14:44:40.000Z"
   },
   {
     "cat": "Politics",
@@ -109,7 +226,7 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'Shutting down Messi is impossible': Iniesta reveals what Spain must do against Argentina",
+    "title": "'Shutting down Messi is impossible': Iniesta reveals what Spain must do vs Argentina",
     "desc": "Andres Iniesta suggests Spain should not waste energy trying to stop Lionel Messi completely. He believes the key lies in Spain's own game and making Argentina uncomfortable. The former captain urged La Roja to play with confidence and trust their established style. Spain have remained unbeaten and conceded just once throughout the tournament. The team's collective understanding and defensive discipline have brought them to the final.",
     "img": "https://static.toiimg.com/photo/msid-132481753,imgsize-248390.cms",
     "src": "indiatimes.com",
@@ -369,15 +486,6 @@ const newsData_en = [
     "time": "2026-07-18T10:19:55.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Crude bomb? One detained after blast damages residential building in Kolkata",
-    "desc": "Kolkata police detained a local broker linked to the BJP regarding a building blast. Investigators suspect crude bomb explosives caused the explosion which damaged a residential building. The prime suspect, Md Shamim alias Salim, remains absconding while police question the detained individual. Remnants of crude bombs and raw materials were recovered from the affected building premises. A National Investigation Agency team may visit the site as the probe continues.",
-    "img": "https://static.toiimg.com/photo/msid-132477956,imgsize-198137.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/crude-bomb-one-detained-after-blast-damages-residential-building-in-kolkata/articleshow/132477455.cms",
-    "time": "2026-07-18T10:15:40.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Shakira, Burna Boy gear up for FIFA World Cup halftime show",
     "desc": "Shakira and Burna Boy shared rehearsal glimpses ahead of performing at FIFA's first-ever Super Bowl-style halftime show during the 2026 World Cup Final at MetLife Stadium. The duo will play \"Dai Dai,\" the tournament's official anthem, joining a lineup featuring Justin Bieber, Madonna, BTS and Coldplay. The Argentina-Spain final is also set to draw stars like Tom Cruise and Brad Pitt, with Jennifer Hudson performing the anthem.",
@@ -396,24 +504,6 @@ const newsData_en = [
     "time": "2026-07-18T10:12:19.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Vishal and Prakash SLAM authorities over Sonam forcefully taken",
-    "desc": "Sonam Wangchuk was forcibly taken to hospital on the 21st day of his hunger strike, sparking outrage from Vishal Dadlani and Prakash Raj, who slammed the government. Delhi Police cited health concerns and court orders. Wangchuk, demanding Dharmendra Pradhan's resignation over NEET-UG irregularities, urged citizens to join the July 20 \"Chalo Sansad\" march.",
-    "img": "https://static.toiimg.com/photo/msid-132477646,imgsize-187446.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/what-a-shame-vishal-dadlani-and-prakash-raj-slam-authorities-over-sonam-wangchuk-forcefully-taken-amid-hunger-strike/articleshow/132477646.cms",
-    "time": "2026-07-18T09:56:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "India's Got Latent Season 2: ‘Man-hater’ act gets rare zero; sparks backlash online",
-    "desc": "During Samay Raina's show, participant Sakshi Jha described herself as a 'man-hater,' sparking heated debate online due to her provocative views on men and marriage, which were met with backlash. The show's panel, unimpressed, awarded her no points for her performance. Reactions on social media varied, igniting discussions about her controversial stance and the appropriateness of the show's format.",
-    "img": "https://static.toiimg.com/photo/msid-132477645,imgsize-78452.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/indias-got-latent-2-contestant-calls-herself-a-man-hater-gets-zero-from-panel-netizens-call-her-out-for-toxic-feminism/articleshow/132477497.cms",
-    "time": "2026-07-18T09:50:08.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "64-team FIFA World Cup could help India qualify, says former captain",
     "desc": "FIFA is considering increasing the number of teams in the 2030 World Cup from 48, which featured in the 2026 edition, to 64. The proposal was officially put forward by South American football body CONMEBOL in April last year.",
@@ -421,15 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/64-team-fifa-world-cup-could-help-india-qualify-for-tournament-says-former-captain/articleshow/132476996.cms",
     "time": "2026-07-18T09:46:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'The Odyssey' dedicated to Christopher Nolan's late collaborator",
-    "desc": "In 'The Odyssey,' Christopher Nolan pays tribute to David Keighley, whose impact on the film industry will be remembered. Keighley, who recently passed at the age of seventy-seven, was a pivotal figure in Nolan's filmmaking journey, starting with 'Batman Begins' in 2004. This enduring partnership influenced Nolan's innovative approach to large-format cinema, and a new camera model now honoring Keighley's legacy has been introduced.",
-    "img": "https://static.toiimg.com/photo/msid-132477490,imgsize-160054.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-odyssey-dedicated-to-david-keighley-christopher-nolan-says-our-industry-owes-david-a-massive-debt/articleshow/132477456.cms",
-    "time": "2026-07-18T09:43:39.000Z"
   },
   {
     "cat": "Entertainment",
@@ -460,15 +541,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'Messi a source of pride for La Masia': Barcelona makes big statement ahead of final",
-    "desc": "Laporta is in New York ahead of Sunday's final at New York/New Jersey Stadium, where current and former Barcelona players will feature on both sides. Spain's squad includes eight Barcelona players, while Messi will captain Argentina.",
-    "img": "https://static.toiimg.com/photo/msid-132476264,imgsize-552440.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/messi-a-source-of-pride-for-la-masia-barcelona-president-joan-laporta-makes-big-statement-ahead-of-argentina-vs-spain-final/articleshow/132476169.cms",
-    "time": "2026-07-18T08:03:52.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Can Three Lions end 44-year jinx against Les Bleus?",
     "desc": "England and France will compete for third place in the FIFA World Cup 2026. Both teams suffered semi-final losses, ending their championship aspirations. Historically, England holds an advantage in their rivalry with France. However, recent matches show France performing better against the Three Lions. This game offers a chance for a podium finish and pride restoration.",
     "img": "https://static.toiimg.com/photo/msid-132476230,imgsize-793679.cms",
@@ -493,15 +565,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/rescuers-race-to-find-survivors-in-rain-after-landslip-in-china-kills-many/article71237256.ece",
     "time": "2026-07-18T07:08:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'He was everything we dream of becoming': Gavaskar's moving tribute to Garry Sobers",
-    "desc": "Widely regarded as cricket's greatest all-rounder, Sobers died at his home in Barbados, 11 days before his 90th birthday. During a career spanning two decades, he set new standards with his batting, bowling and fielding.",
-    "img": "https://static.toiimg.com/photo/msid-132475429,imgsize-385991.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/he-was-everything-we-dream-of-becoming-sunil-gavaskars-moving-tribute-to-garry-sobers/articleshow/132475390.cms",
-    "time": "2026-07-18T07:03:12.000Z"
   },
   {
     "cat": "Tech",
@@ -556,24 +619,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/how-women-audiences-are-championing-marathi-films-in-theatres-baipan-bhari-deva-tighee-deool-band-2/article71229588.ece",
     "time": "2026-07-18T04:34:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Why put him on defence?’ Trump questions Tuchel’s use of his ‘golf partner’ Kane",
-    "desc": "Donald Trump has questioned Thomas Tuchel’s tactical decision to use Harry Kane in a deeper defensive role during England’s World Cup semi-final collapse against Argentina. Tuchel defended his approach, insisting Kane’s positioning was part of the team’s collective defensive structure. England’s manager admitted his side became too passive after taking the lead as Argentina completed a dramatic comeback to reach the final.",
-    "img": "https://static.toiimg.com/photo/msid-132473880,imgsize-753208.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/why-put-him-on-defence-donald-trump-questions-tuchels-use-of-his-golf-partner-harry-kane/articleshow/132473403.cms",
-    "time": "2026-07-18T04:34:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'It's just insane': Messi reacts to viral photo with baby Yamal",
-    "desc": "\"That picture with Lamine, now we are facing in a final after a photo was taken of when he was a baby,\" Messi told seven-time Super Bowl winner Tom Brady at Fanatics Fest on Friday. \"It's just insane.\"",
-    "img": "https://static.toiimg.com/photo/msid-132473171,imgsize-466924.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/its-just-insane-lionel-messi-reacts-to-viral-photo-with-baby-lamine-yamal-before-world-cup-final/articleshow/132472690.cms",
-    "time": "2026-07-18T03:26:04.000Z"
   },
   {
     "cat": "Sports",
@@ -684,15 +729,6 @@ const newsData_en = [
     "time": "2026-07-17T15:09:52.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Apple overtakes Nvidia to become world's most valuable company again",
-    "desc": "Apple Inc. has regained its position as the world's most valuable company. Nvidia's stock experienced a sharp decline, reducing its market capitalization significantly. Investors are now favoring companies with strong long-term growth prospects over AI boom beneficiaries. Apple's recent share surge and China's approval for Apple Intelligence support its valuation. HSBC upgraded Apple's stock, citing an improving operational outlook for the company.",
-    "img": "https://static.toiimg.com/photo/msid-132464104,imgsize-652235.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/apple-overtakes-nvidia-to-become-worlds-most-valuable-company-again/articleshow/132464051.cms",
-    "time": "2026-07-17T14:52:51.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "How has the use of VAR impacted FIFA World Cup 2026?",
     "desc": "The 2026 FIFA World Cup marks the third time that VAR has been used in World Cups Join host Rohan Pillay A. and guest Anirudh Velamuri as they explore the controversies and notable instances surrounding the usage of technology in football.",
@@ -700,15 +736,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/podcast/how-has-the-use-of-var-impacted-fifa-world-cup-2026-in-focus-podcast/article71234844.ece",
     "time": "2026-07-17T14:33:14.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Reliance Industries beats estimates with record quarterly EBITDA; revenue rises 25% yoy",
-    "desc": "Revenue from operations rose 25% year-on-year to Rs 3.11 lakh crore in the June quarter, compared with Rs 2.48 lakh crore in the same quarter last year. Quarterly EBITDA increased 10% from a year earlier to Rs 54,067 crore.",
-    "img": "https://static.toiimg.com/photo/msid-132463810,imgsize-563783.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/ril-q2-fy27-results-mukesh-ambani-reliance-industries-posts-22-fall-in-profit-on-one-time-asian-paints-caveat-from-last-year-revenue-rises-25-yoy/articleshow/132463785.cms",
-    "time": "2026-07-17T14:27:37.000Z"
   },
   {
     "cat": "Tech",
@@ -783,7 +810,7 @@ const newsData_en = [
     "time": "2026-07-16T12:39:23.000Z"
   },
   {
-    "cat": "Sports",
+    "cat": "World",
     "title": "U.K. urges FIFA to investigate Argentina over Falklands banner at World Cup",
     "desc": "On July 15, Argentina beat England 2-1 in a World Cup semifinal; during post-match celebrations, Argentine players held a banner handed over by fans in the stands, reading ‘Las Malvinas son Argentinas’— ‘The Malvinas are Argentine.’",
     "img": "https://th-i.thgim.com/public/incoming/ya9wqv/article71228387.ece/alternates/LANDSCAPE_1200/APTOPIX_Argentina_England_WCup_Soccer_571_1.jpg",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/cabinet-okays-semicon-20-mobile-phone-manufacturing-scheme-highways-and-urea-plants/article71226334.ece",
     "time": "2026-07-15T17:21:29.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How India’s first educational computer arrived on a bullock cart",
-    "desc": "Computer science education was first introduced in India at IIT Kanpur. One of the earliest educational computers travelled by airplane, truck and even a bullock cart before reaching the campus, leaving us with computer lab traditions that are still followed",
-    "img": "https://th-i.thgim.com/public/incoming/cnpryt/article71209986.ece/alternates/LANDSCAPE_1200/Screenshot%202026-06-10%20113946.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/children/how-indias-first-educational-computer-arrived-on-a-bullock-cart/article71209933.ece",
-    "time": "2026-07-15T08:10:36.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Decoding the tech tools streamlining our health systems",
-    "desc": "The systems that are gaining real adoption are the ones that are transparent about what they do, that keep the doctor in charge of every decision, and that treat a patient’s information with the seriousness it deserves",
-    "img": "https://th-i.thgim.com/public/incoming/raz6qe/article71219967.ece/alternates/LANDSCAPE_1200/PO14_Healthcare.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/health/decoding-the-tech-tools-streamlining-our-health-systems/article71182443.ece",
-    "time": "2026-07-15T07:05:21.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Has OpenAI’s GPT-5.6 class beaten Anthropic’s Fable-class models?",
-    "desc": "GPT-5.6 Sol, Terra, and Luna. Rather than a single flagship, OpenAI split the release into three capability tiers priced separately with Sol at the top and Luna at the bottom, arguing this lets each tier advance on its own tempo.",
-    "img": "https://th-i.thgim.com/public/sci-tech/technology/rhdbxd/article71206182.ece/alternates/LANDSCAPE_1200/GPT-5.6%20vs%20Fable%20Class%20Showdown.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/openai-gpt-5-6-vs-anthropic-fable-5-class-comparison/article71206211.ece",
-    "time": "2026-07-12T04:51:09.000Z"
   }
 ];
