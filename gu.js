@@ -1,6 +1,24 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "જસપ્રીત બુમરાહને અચાનક શું થયું ? કેમ નથી રમી રહ્યો આજની મેચ, આ બે સ્ટાર ખેલાડી પણ બહાર",
+    "desc": "ઇંગ્લેન્ડ સામેની ત્રીજી અને નિર્ણાયક વનડે માટે ઇંગ્લેન્ડે ટોસ જીતીને પહેલા બેટિંગ કરવાનો નિર્ણય લીધો. આ મેચમાં ભારતીય ટીમ ત્રણ ફેરફાર સાથે ઉતરી છે. જેમાં સૌથી મોટો ફેરફાર જસપ્રીત બુમરાહ બહાર થયો છે. ત્યારે બધાના મનમાં સવાલ છે કે બુમરાહ કેમ આજની મેચ કેમ રમી રહ્યો નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-eng-jasprit-bumrah-is-not-playing-in-3rd-odi-due-to-knee-injury-485142 ",
+    "time": "2026-07-19T10:10:50.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "મોંઘવારીનો મોટો ઝટકો: અદાણી CNGના ભાવમાં ફરી 2 રૂપિયાનો તોતિંગ વધારો, નવો ભાવ 90ને પાર",
+    "desc": "અદાણી સીએનજી દ્વારા ફરી એકવાર સીએનજીના ભાવમાં પ્રતિ કિલો 2 રૂપિયાનો વધારો ઝીંકાયો છે. CNGનો નવો ભાવ પ્રતિ કિલો 90 રૂપિયા પર પહોંચ્યો છે. ભાવ વધારાના કારણે CNG રિક્ષાચાલકો અને CNG વાહનધારકો પર ભારણ વધશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/adani-cng-price-hiked-by-rs-2-again-new-price-crosses-rs-90-485141 ",
+    "time": "2026-07-19T10:09:03.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "સ્પેન કે આર્જેન્ટિના? આજે જે જીતશે તેને મળશે દુનિયાની સૌથી મોંઘી ટ્રોફી!",
     "desc": "સ્પેન અને આર્જેન્ટિના વચ્ચે ફૂટબોલ વર્લ્ડ કપ 2026ની ફાઇનલ રવિવારે રાત્રે 12:30 વાગ્યે (ભારતીય સમય) શરૂ થશે. વિજેતા ટીમને વિશ્વની સૌથી મોંઘી રમતગમત ટ્રોફી અને 50 મિલિયન યુએસ ડોલર (આશરે 481 કરોડ રૂપિયા)ની ઇનામી રકમ મળશે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -441,15 +459,6 @@ const newsData_gu = [
     "time": "2026-07-15T14:54:59.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ખાતામાં ભૂલથી આવી ગયા લાખો રૂપિયા? ખુશ થતા પહેલા જાણી લો આ નિયમ, ભૂલથી પણ ન કરતા આ કામ!",
-    "desc": "જો તમારા બેંક એકાઉન્ટમાં અચાનક વધુ પૈસા આવી જાય તો તેને ખર્ચ કરતાં પહેલા સાવધાન થઈ જજો. આવું ટેક્નિકલ ગ્લિચને કારણે બની શકે છે. જાણો ટેક્નિકલ ગ્લિચ શું હોય છે, તે કઈ રીતે હોય છે, બેંક આવી ભૂલ કઈ રીતે સુધારે છે અને આ સ્થિતિમાં તમારે શું કરવું જોઈએ...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/bank-account-credited-via-technical-glitch-what-does-the-law-say-and-what-should-you-do-next-484709 ",
-    "time": "2026-07-15T13:10:49.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "સોશિયલ મીડિયા આ Horror ફિલ્મ છે ચર્ચામાં, હોટસ્ટાર પર સૌથી વધુ લોકો જોઈ રહ્યા છે આ ડરામણી ફિલ્મ",
     "desc": "અત્યારે સોશિયલ મીડિયા પર એક હોરર ફિલ્મની ચર્ચા સતત થઈ રહી છે. આ ફિલ્મ જિયો હોટસ્ટાર પર ટ્રેંડ કરી રહી છે. આ ફિલ્મ વિશે એવું કહેવાય રહ્યું છે કે ફિલ્મનો એન્ડ એવો છે જેને જોઈને તમારું મગજ કામ કરતું બંધ થઈ જશે. તો ચાલો તમને પણ આ ફિલ્મ વિશે જણાવીએ.",
@@ -484,15 +493,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/aamir-khan-third-marriage-controversy-after-love-jihad-issue-new-fatwa-came-here-is-aamir-khan-reaction-484700 ",
     "time": "2026-07-15T11:03:07.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "બેઝિક સેલરી વધતાં જ HRA માં પણ થશે બમ્પર વધારો, સમજો પગાર વધારાનું આખું ગણિત",
-    "desc": "8મા પગાર પંચ અંગે કેન્દ્ર સરકારના કર્મચારીઓની અપેક્ષાઓ વધી છે. જો ફિટમેન્ટ ફેક્ટર 2, 2.5, અથવા 3 લાગુ કરવામાં આવે છે, તો ફક્ત મૂળભૂત પગારમાં જ નહીં પરંતુ HRAમાં પણ નોંધપાત્ર વધારો થશે. ચાલો જાણીએ કે X, Y અને Z શહેરોમાં HRA અને કર્મચારીઓના પગાર પર આની શું અસર પડશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/the-8th-pay-commission-will-have-a-significant-impact-as-the-basic-salary-increases-hra-will-also-increase-484692 ",
-    "time": "2026-07-15T09:47:21.000Z"
   },
   {
     "cat": "Tech",

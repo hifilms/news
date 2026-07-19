@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why is Jasprit Bumrah not playing in India vs England third ODI in London?",
+    "desc": "India and England are taking on each other in the third and final ODI of the ongoing series between the two. The sides will meet at the Lord's Cricket Ground in London for the clash,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-jasprit-bumrah-not-playing-in-india-vs-england-third-odi-in-london-2026-07-19-1048726",
+    "time": "2026-07-19T09:49:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Duckett-Bethell aim to propel England to solid start",
+    "desc": "The stage is set for the third and final ODI of the ongoing series between India and England. The two sides are meeting at the Lord's Cricket Ground in London for the clash, and with...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-3rd-odi-live-cricket-score-england-opt-to-bat-first-in-london-with-series-on-the-line-2026-07-19-1048725",
+    "time": "2026-07-19T09:43:30.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "PV Sindhu creates history, wins maiden Japan Open after straight-games victory over Akane Yamaguchi",
     "desc": "PV Sindhu returned to winning ways in emphatic fashion, defeating home favourite Akane Yamaguchi in straight games to lift her maiden Japan Open title on Sunday. The two-time Olympic medallist produced one of her finest...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/why-will-france-play-england-after-both-teams-knocked-out-of-fifa-world-cup-2026-2026-07-18-1048690",
     "time": "2026-07-18T18:06:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Spain's star footballer reveals to announce retirement if they beat Argentina in FIFA World Cup 2026 final",
-    "desc": "Spain defender Marc Cucurella has revealed to retire from international football if La Roja defeats Argentina in the FIFA World Cup final. He also added of doing a permanent tattoo of head coach Luis de...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/spain-s-star-footballer-reveals-to-announce-retirement-if-they-beat-argentina-in-fifa-world-cup-2026-final-2026-07-18-1048686",
-    "time": "2026-07-18T16:28:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BWF World Championship mascot, anthem released; BAI expects best-ever tournament after India Open controversy",
-    "desc": "The World Badminton Championships will return to India after a gap of 17 years, with more than 400 players from over 50 countries expected to compete in the 30th edition of the tournament. Ahead of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/bwf-world-championship-mascot-anthem-released-bai-expects-best-ever-tournament-after-india-open-controversy-2026-07-18-1048685",
-    "time": "2026-07-18T16:05:45.000Z"
   }
 ];

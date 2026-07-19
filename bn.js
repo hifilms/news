@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "রামমন্দির ডোনেশন-কাণ্ডে এবার মোদীকে তীব্র আক্রমণ! প্রধানমন্ত্রীকে যৌথভাবে চিঠি রাহুল-খাড়্গের",
+    "desc": "সংসদে বাদল অধিবেশন শুরুর আগে রামমন্দির নিয়ে প্রধানমন্ত্রীকে চিঠি লিখে চাপ বাড়ালেন রাহুল গান্ধী, মল্লিকার্জুন খাড়গে। ঘটনার যাবতীয় দায় প্রধানমন্ত্রী, আরএসএস এবং বিশ্ব হিন্দু পরিষদের বলে অভিযোগ তাঁদের। মন্দিরের যাবতীয় দান, লেনদেন প্রকাশ্যে আনার দাবি। নিরপেক্ষ এজেন্সিকে দিয়ে তদন্তের দাবি।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/rahul-gandhi-and-mallikarjun-kharge-press-modi-for-independent-ram-temple-probe-in-their-joint-letter-to-pm_663025.html ",
+    "time": "2026-07-19T08:56:30.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "ফোনে হবু বর শুনলেন ২২ মিনিটের চিৎকার, বৈষ্ণবীকে কোপানোর পর সাহিল বলল: 'বৈষু শেষ!'",
     "desc": "হত্যাকাণ্ডের সময় তরুণীর হবু বর ফোনে লাইনে ছিলেন। তিনি তাঁদের ২২ মিনিটের ঝগড়া শোনেন। খুনের পর সাহিল নিজেই তাঁকে ফোন করে বৈষ্ণবীর মৃত্যুর খবর দেয়। এই ঘটনার কয়েক ঘণ্টা পর ঘটনাস্থল থেকে দুই কিলোমিটার দূরে সাহিলের ঝুলন্ত দেহ উদ্ধার হয়।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -124,15 +133,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/supreme-court-says-cbse-not-to-start-third-language-in-class-9_662792.html ",
     "time": "2026-07-17T09:14:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "২০ দিনে পড়ল অনশন, গলছে শরীরের পেশি! বিকল হতে পারে অঙ্গপ্রত্যঙ্গ, তাও অনড় সোনম ওয়াংচুক",
-    "desc": "দীর্ঘ অনশনের জেরে সোনম ওয়াংচুকের শারীরিক পরিস্থিতি সংকটজনক। চিকিৎসকদের মতে, শরীরে গ্লুকোজ ও মেদ শেষ হয়ে যাওয়ায় এখন ওঁর মাংসপেশি গলতে শুরু করেছে। রক্তে কিটোন ও ইউরিক অ্যাসিডের মাত্রা অত্যন্ত উদ্বেগজনক। চিকিৎসকদের আশঙ্কা, দ্রুত অনশন না ভাঙলে যেকোনো মুহূর্তে ওঁর লিভার বা কিডনির মতো গুরুত্বপূর্ণ অঙ্গপ্রত্যঙ্গ বিকল হতে পারে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/sonam-wangchuk-enters-day-20-of-hunger-strike-lost-more-than-nine-kgs-doctors-warn-of-organ-failure_662787.html ",
-    "time": "2026-07-17T07:35:30.000Z"
   },
   {
     "cat": "Entertainment",
