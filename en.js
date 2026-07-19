@@ -1,9 +1,225 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Sachana gets emotional after winning National Award for 'Maharaja'",
+    "desc": "Sachana Namidass received the Best Supporting Actress National Award for her role in 'Maharaja'. She expressed deep emotion and gratitude towards her parents for their unwavering support. The young actress shared her family's humble background and their financial struggles. She recalled their persistent efforts in seeking acting opportunities for her since 2018. This prestigious award marks a significant culmination of her years of hard work.",
+    "img": "https://static.toiimg.com/photo/msid-132490422,imgsize-175634.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sachana-namidass-gets-emotional-thanks-parents-after-winning-best-supporting-actress-national-award-for-maharaja-i-never-even-dreamed-of-that-i-would-receive-a-national-award/articleshow/132490410.cms",
+    "time": "2026-07-19T05:38:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "How the second phase of the Iran-U.S. war started and why it is raging | Explained",
+    "desc": "The MoU, signed on June 14, stipulated Iran would allow ships to pass “with no charge for 60 days only,” and that Iran would work with Oman to “define the future administration and maritime services” in the Strait of Hormuz",
+    "img": "https://th-i.thgim.com/public/incoming/8tq51p/article71240626.ece/alternates/LANDSCAPE_1200/2026-07-17T143023Z_1808104564_RC2NFMA88I5E_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/how-the-second-phase-of-the-iran-us-war-started-and-why-it-is-raging-explained/article71234575.ece",
+    "time": "2026-07-19T05:36:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jennifer Finch, bassist for rock group 'L7', passes away at 59",
+    "desc": "Jennifer Finch, the talented bassist of the legendary rock band L7, has sadly passed away at the age of 59 after her brave battle with brain cancer. Previously, she had overcome thyroid cancer and faced various medical challenges. As a founding member who returned for the band's 2019 album, her influence was pivotal in creating L7's signature sound, leaving a lasting legacy in the music world.",
+    "img": "https://static.toiimg.com/photo/msid-132490390,imgsize-178356.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/l7-bassist-jennifer-finch-passes-away-at-59-after-battling-with-brain-cancer/articleshow/132490360.cms",
+    "time": "2026-07-19T05:35:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Internet gushes over Sai Pallavi's gleaming look at special screening",
+    "desc": "Sai Pallavi captivated audiences at the 'Ramayana' trailer launch event. She wore a golden saree and traditional jewelry, drawing fan admiration. The actress expressed feeling blessed to portray Goddess Sita in the upcoming film. She stated that divine guidance would shape her performance as Sita. The epic film 'Ramayana' is scheduled for a Diwali 2026 release.",
+    "img": "https://static.toiimg.com/photo/msid-132490119,imgsize-301007.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-internet-gushes-over-sai-pallavis-gleaming-look-at-special-screening-im-literally-so-starstruck/articleshow/132490129.cms",
+    "time": "2026-07-19T05:27:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Yash learnt Hindi while shooting ‘Ramayana’",
+    "desc": "Rocking Star Yash is set to take on the iconic role of Ravana in Nitesh Tiwari's eagerly awaited film adaptation of Ramayana. At the trailer launch, Yash expressed his excitement about the project and the opportunity to learn Hindi. He thanked Namit Malhotra and acknowledged Nitesh Tiwari's invaluable guidance. Yash also lauded the performances of Ranbir Kapoor and Sai Pallavi, who brought depth to the characters.",
+    "img": "https://static.toiimg.com/photo/msid-132490205,imgsize-86652.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/hindi-seekhne-ka-bhi-mauka-mila-ramayana-star-yash-opens-up-on-learning-hindi-during-shooting-of-the-film-calls-ranbir-kapoor-phenomenal/articleshow/132490151.cms",
+    "time": "2026-07-19T05:15:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Before kick-off, Argentina vs Spain final has already entered World Cup history",
+    "desc": "The FIFA World Cup 2026 final features Argentina and Spain, the top two ranked teams. Argentina seeks consecutive titles, a feat not achieved since Brazil in 1962. Spain aims for their second World Cup, boasting an impressive thirty-seven-game unbeaten streak. This match marks Lionel Messi's first encounter with Spain since 2010. Spain's defense has been exceptional, conceding only one goal throughout the tournament.",
+    "img": "https://static.toiimg.com/photo/msid-132490029,imgsize-52008.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/before-kick-off-argentina-vs-spain-final-has-already-entered-fifa-world-cup-history/articleshow/132490015.cms",
+    "time": "2026-07-19T04:49:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyanka's sister Mannara looks puzzled as quiz her on Sonam Wangchuk",
+    "desc": "Mannara Chopra looked confused when paparazzi quizzed her on Sonam Wangchuk at a Goa event, repeatedly saying \"Mujhe nahi pata\" before walking away. The questions came as Wangchuk, on hunger strike since June 28 over the NEET row, was hospitalised in Delhi. Mannara's viral video sparked reactions online.",
+    "img": "https://static.toiimg.com/photo/msid-132489992,imgsize-213430.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopras-cousin-sister-mannara-chopra-looks-puzzled-as-paparazzi-quiz-her-on-sonam-wangchuk-mujhe-nahi-pata/articleshow/132489992.cms",
+    "time": "2026-07-19T04:45:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Your silence is unacceptable': Rahul, Kharge write to PM Modi on Ram Mandir donation theft",
+    "desc": "Demanding a probe into financial affairs of Shri Ram Janmabhoomi Teerth Kshetra Trust, both the leaders said that the \"findings and the Trust's accounts should be made public so that every devotee knows how their offerings have been utilised\". ​Ahead of the Monoon Session of the Parliament, the leader of the opposition in the Lok Sabha, Rahul Gandhi, and the Rajya Sabha, Mallikarjun Kharge, urged PM to \"immediately order an independent and comprehensive investigation.",
+    "img": "https://static.toiimg.com/photo/msid-132489981,imgsize-153158.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/your-silence-is-unacceptable-rahul-kharge-write-to-pm-modi-on-ram-mandir-donation-theft/articleshow/132489876.cms",
+    "time": "2026-07-19T04:41:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Matt Damon reveals Christopher Nolan does not have a phone",
+    "desc": "Filmmaker Christopher Nolan famously avoids using a mobile phone for communication. His wife, Emma Thomas, acts as a liaison to arrange calls for him. Actor Matt Damon confirmed this unconventional method for contacting people. Nolan will direct the upcoming epic adventure film 'The Odyssey'. This film is scheduled to be released in theaters on July 17, 2026.",
+    "img": "https://static.toiimg.com/photo/msid-132489889,imgsize-211416.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/matt-damon-reveals-christopher-nolan-does-not-have-a-phone-you-get-a-call-from-a-nondescript-number/articleshow/132489892.cms",
+    "time": "2026-07-19T04:28:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranbir touches Sunny and Kumar' feet at the event",
+    "desc": "At 'Ramayana's Pratham Sankalp event, Ranbir Kapoor touched Sunny Deol and Kumar Vishwas's feet, winning hearts online. Ranbir, Sai Pallavi and Sunny shared heartfelt moments with media. Starring Ranbir, Sai Pallavi, Yash and Sunny, the Rs 4,000 crore epic releases in two parts—Diwali 2026 and Diwali 2027.",
+    "img": "https://static.toiimg.com/photo/msid-132489747,imgsize-197397.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-ranbir-kapoor-touches-sunny-deol-and-kumar-vishwas-feet-at-the-pratham-sankalp-event/articleshow/132489747.cms",
+    "time": "2026-07-19T04:10:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "LA Knight Riders clinch maiden title with one-run win over Freedom",
+    "desc": "Needing 14 runs off the final over, Washington Freedom looked favourites after Obus Pienaar smashed the first ball for six. But Shadley van Schalkwyk produced three wickets in the last five deliveries, including a run-out off the final ball, to spark wild celebrations as the LA Knight Riders became MLC's newest champions.",
+    "img": "https://static.toiimg.com/photo/msid-132489878,imgsize-136170.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/major-league-cricket/mlc-2026-la-knight-riders-clinch-maiden-title-with-thrilling-one-run-win-over-washington-freedom/articleshow/132489627.cms",
+    "time": "2026-07-19T03:56:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "when families are committed to saving lives through blood donation",
+    "desc": "A leitmotif among blood donation organisations is the increasing difficulty in finding people with “generous veins”; and the solution could strangely be found in the living rooms of households, as illustrated by these two accounts from Chennai of parents inspiring their children to join the cause",
+    "img": "https://th-i.thgim.com/public/incoming/673uxp/article71239301.ece/alternates/LANDSCAPE_1200/19dc%20Shaikhs%20.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/collective-kindness-when-families-support-the-cause-of-blood-donation/article71239297.ece",
+    "time": "2026-07-19T03:55:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Bouma' first look: Tovino Thomas unveils mystery thriller poster",
+    "desc": "The first-look poster for the Malayalam mystery thriller 'Bouma' has been released. This artwork offers audiences an early glimpse into its mysterious world. Actor Tovino Thomas shared the poster and conveyed his best wishes to the team. Fans have reacted positively to the poster and its mysterious vibe. Dileesh Pothan is also preparing for a Mohanlal collaboration project.",
+    "img": "https://static.toiimg.com/photo/msid-132489625,imgsize-429020.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/bouma-first-look-tovino-thomas-unveils-mystery-thriller-poster-of-dileesh-pothan-sagar-surya-starrer/articleshow/132489604.cms",
+    "time": "2026-07-19T03:47:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Perfect ending': FIFA calls Messi vs Yamal WC final 'blessing from football gods'",
+    "desc": "FIFA president Gianni Infantino has hailed the 2026 World Cup final between Argentina and Spain as \"a blessing from the football gods\", describing Lionel Messi versus Lamine Yamal as the perfect ending to what he believes is the greatest World Cup in history. He predicted the final would captivate billions worldwide despite the tournament's controversies and criticism.",
+    "img": "https://static.toiimg.com/photo/msid-132489462,imgsize-41878.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/perfect-ending-fifa-president-calls-messi-vs-yamal-world-cup-final-blessing-from-football-gods/articleshow/132489407.cms",
+    "time": "2026-07-19T03:29:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "More about Jelly Roll and Bunnie Xo divorce settlement",
+    "desc": "After eleven years together, Jelly Roll and Bunnie Xo have successfully settled their divorce amicably. They prioritized a respectful separation without grudges, opting to evenly divide their assets while avoiding any alimony disputes. Bunnie Xo openly shared their plans for co-parenting, emphasizing their commitment to continue with IVF as they navigate this new chapter beside their child.",
+    "img": "https://static.toiimg.com/photo/msid-132489516,imgsize-113954.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/jelly-roll-and-bunnie-xo-divorce-settlement-couple-wanted-to-handle-the-matter-with-respect/articleshow/132489497.cms",
+    "time": "2026-07-19T03:25:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Overnight rain brings J&amp;K's Rajouri to a standstill as flash floods wreak havoc",
+    "desc": "More than 50 families living near Abdullah Bridge were forced to leave their homes after floodwaters flooded the settlement. Another locality near Tariq Bridge was also affected, prompting police to respond to distress calls and help residents move to safer places away from the riverbanks. Rescue and relief teams, assisted by the district administration, were deployed to evacuate affected families and assess the damage.",
+    "img": "https://static.toiimg.com/photo/msid-132489457,imgsize-211993.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/overnight-rain-brings-jks-rajouri-to-a-standstill-as-flash-floods-wreak-havoc/articleshow/132489386.cms",
+    "time": "2026-07-19T03:24:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Argentina eye history, could become first team to ...",
+    "desc": "Argentina aims for a historic consecutive FIFA World Cup title win. Spain enters the final on an impressive thirty-seven-match unbeaten streak. Lionel Messi faces Spain, a nation significant to his career and life. Both teams are considered outstanding and possess considerable football talent. The final promises a great show between two supernational teams.",
+    "img": "https://static.toiimg.com/photo/msid-132489388,imgsize-52625.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-final-lionel-messis-argentina-eye-history-could-become-first-team-in-64-years-to-/articleshow/132489382.cms",
+    "time": "2026-07-19T03:10:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Yami Gautam and Aditya Dhar celebrate ‘Article 370’ win at the National Awards",
+    "desc": "Yami Gautam has been honored with the National Award for Best Actress for her powerful performance in Article 370, which not only earned her accolades but also clinched the Best Feature Film award. Reflecting on her fourteen-year journey in cinema, Gautam expressed heartfelt appreciation for the acknowledgement. Director Aditya Dhar echoed her sentiments, celebrating the film's profound national impact and expressing gratitude to all those who contributed to its success.",
+    "img": "https://static.toiimg.com/photo/msid-132489352,imgsize-293186.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yami-gautam-and-aditya-dhar-celebrate-national-award-win-for-article-370-this-ones-for-every-dreamer/articleshow/132489341.cms",
+    "time": "2026-07-19T02:57:52.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Hungary's President signs constitutional amendment ending his term",
+    "desc": "Mr. Sulyok's term will officially end at midnight on Monday (July 20), when speaker of Parliament, Ágnes Forsthoffer, will automatically assume his duties until lawmakers elect a new President, a task which has a 30-day deadline",
+    "img": "https://th-i.thgim.com/public/incoming/dmuuy1/article71240571.ece/alternates/LANDSCAPE_1200/Hungary-President_53821.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/hungarys-president-signs-constitutional-amendment-ending-his-term/article71240536.ece",
+    "time": "2026-07-19T02:35:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "64-year-old record broken! England vs France rewrite World Cup history",
+    "desc": "England secured a 6-4 victory over France in a thrilling World Cup third-place playoff. Bukayo Saka scored a hat-trick, inspiring England's dominant performance throughout the match. Kylian Mbappe also netted twice, surpassing Lionel Messi's World Cup scoring record. This high-scoring contest marked the end of Didier Deschamps' tenure as France's head coach. The memorable match captivated a sell-out crowd at Hard Rock Stadium.",
+    "img": "https://static.toiimg.com/photo/msid-132489231,imgsize-90008.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/64-year-old-record-broken-england-vs-france-rewrite-fifa-world-cup-history/articleshow/132489211.cms",
+    "time": "2026-07-19T02:34:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Asif Ali reacts to Mammootty's National Award win",
+    "desc": "Mammootty's latest National Award has been celebrated by fans and colleagues alike. Messages from actors such as Asif Ali and Mohanlal reflect the admiration and respect the veteran star continues to command within the Malayalam film industry and across Indian cinema.",
+    "img": "https://static.toiimg.com/photo/msid-132489136,imgsize-188785.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/i-was-extremely-tense-i-am-even-happier-that-the-award-went-to-mammootty-asif-ali-on-bramayugam-stars-national-award-win/articleshow/132489124.cms",
+    "time": "2026-07-19T02:20:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Christopher Reeve",
+    "desc": "Christopher Reeve, known for his Superman role, defined heroism as enduring despite overwhelming obstacles. He believed true heroes persevere and fight for their goals against adversity. Reeve's own life involved significant challenges after a paralyzing equestrian accident in 1995. Despite paralysis, he continued to work and advocate for his beliefs. His legacy emphasizes inner strength and the momentum of continuing life.",
+    "img": "https://static.toiimg.com/photo/msid-132489159,imgsize-187587.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-christopher-reeve-a-hero-is-an-ordinary-individual-who-finds-the-strength-to-persevere-and-endure-in-spite-of-overwhelming-obstacles-shared-the-superman-actor-explaining-the-real-meaning-of-heroism/articleshow/132489112.cms",
+    "time": "2026-07-19T02:19:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Declan Rice enters World Cup history books after breaking 90-year-old record with first World Cup goal",
+    "desc": "Declan Rice made World Cup history by scoring his first tournament goal just 2 minutes and 14 seconds into England's thrilling 6-4 victory over France in the 2026 third-place playoff. The England captain also provided an assist, matching a David Beckham World Cup record while joining several exclusive historical lists as the Three Lions secured their best finish since 1966.",
+    "img": "https://static.toiimg.com/photo/msid-132489094,imgsize-93110.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/declan-rice-enters-world-cup-history-books-after-breaking-90-year-old-record-with-first-world-cup-goal/articleshow/132488964.cms",
+    "time": "2026-07-19T02:07:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "France were 'completely stunned': Kylian Mbappe",
+    "desc": "England secured the bronze medal in the FIFA World Cup 2026 tournament. They achieved this victory by defeating France with a final score of six to four. Kylian Mbappe acknowledged France's poor first-half performance and praised their second-half fightback. This match marked the end of Didier Deschamps' successful fourteen-year tenure as France manager. England's win concluded their World Cup campaign with a significant achievement.",
+    "img": "https://static.toiimg.com/photo/msid-132489068,imgsize-35705.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/france-were-completely-stunned-kylian-mbappe-after-4-6-fifa-world-cup-loss-to-england/articleshow/132489061.cms",
+    "time": "2026-07-19T02:00:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "‘Ramayana’: Sai Pallavi feels blessed to play Goddess Sita",
     "desc": "Sai Pallavi discussed her spiritual journey in preparing to embody Goddess Sita in Nitesh Tiwari's 'Ramayana'. She expressed a deep sense of destiny for the role, striving for mental clarity and purity. Nitesh lauded both Sai Pallavi and Ranbir Kapoor for their authentic portrayals of Ram and Sita. A captivating trailer was unveiled at a special event held at Bharat Mandapam, with the film set to premiere this Diwali.",
-    "img": "https://static.toiimg.com/photo/msid-132489052,imgsize-49924.cms",
+    "img": "https://static.toiimg.com/photo/msid-132489205,imgsize-83268.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sai-pallavi-on-doing-ramayana-i-dont-think-i-chose-to-play-sita-maa-i-was-blessed-to-play-this-role/articleshow/132489011.cms",
     "time": "2026-07-19T01:51:08.000Z"
@@ -90,15 +306,6 @@ const newsData_en = [
     "time": "2026-07-19T00:35:34.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Dhanush says first National Award as director is unforgettable",
-    "desc": "Dhanush received two National Film Awards for his work. He won Best Regional Film for his directorial debut 'Raayan'. Dhanush also secured a Special Mention for his acting in 'Captain Miller'. Mammootty was honored with the Best Actor award for his role in 'Bramayugam'. These recognitions mark significant achievements for the celebrated actors.",
-    "img": "https://static.toiimg.com/photo/msid-132488809,imgsize-235927.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/72nd-national-film-awards-dhanush-says-first-national-award-as-director-is-unforgettable-says-im-truly-humbled/articleshow/132488801.cms",
-    "time": "2026-07-19T00:27:34.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Kylian Mbappé dethrones Lionel Messi in Golden Boot race after smashing World Cup goals record",
     "desc": "Kylian Mbappé has taken control of the 2026 World Cup Golden Boot race after scoring twice against England in the third-place playoff. Despite France’s 6-4 defeat, the brace lifted him to 10 goals and four assists while breaking Lionel Messi’s all-time World Cup scoring record with 22 goals. Messi now has one final chance to respond against Spain.",
@@ -106,24 +313,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/kylian-mbapp-dethrones-lionel-messi-in-golden-boot-race-after-smashing-world-cup-goals-record/articleshow/132488761.cms",
     "time": "2026-07-19T00:21:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mammootty REACTS to 72nd National Film Awards win",
-    "desc": "Mammootty's performance as the mysterious Kodumon Potty in horror film 'Bramayugam' received widespread appreciation from audiences and critics following the film's release. His latest National Award adds another milestone to his celebrated career and further strengthens his legacy in Indian cinema.",
-    "img": "https://static.toiimg.com/photo/msid-132488781,imgsize-322858.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/mammootty-reacts-to-72nd-national-film-awards-win-thanks-bramayugam-team-congratulates-fellow-winners/articleshow/132488777.cms",
-    "time": "2026-07-19T00:12:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sunny admits playing Hanuman in Ramayana was 'not easy'",
-    "desc": "Sunny Deol says playing Hanuman in Nitesh Tiwari's 'Ramayana' is a huge responsibility. At a Delhi event on July 18, he admitted his work has only just begun, calling the role \"not easy\" but one he'll enjoy. He sought fans' blessings for the two-part epic, also starring Ranbir Kapoor, Sai Pallavi and Yash.",
-    "img": "https://static.toiimg.com/photo/msid-132488762,imgsize-257510.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunny-deol-admits-playing-hanuman-in-ramayana-was-not-easy-vows-to-give-his-best/articleshow/132488762.cms",
-    "time": "2026-07-18T23:59:57.000Z"
   },
   {
     "cat": "Sports",
@@ -136,16 +325,7 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'He's not the best': Ex-India coach makes bold Messi claim before WC final",
-    "desc": "Stephen Constantine believes Lionel Messi is not football's greatest player ever. He ranks Pelé, Maradona, and Ronaldinho above the Argentine star. Constantine suggests Argentina's tactics help Messi conserve energy during matches. He predicts Spain will defeat Argentina in the World Cup final. The former India coach highlights Spain's collective work ethic as key.",
-    "img": "https://static.toiimg.com/photo/msid-132483534,imgsize-59462.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/hes-not-the-best-ex-india-coach-makes-bold-lionel-messi-claim-before-argentina-vs-spain-world-cup-final/articleshow/132483540.cms",
-    "time": "2026-07-18T23:30:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mbappe breaks all-time WC goal record as Saka hat-trick fails France in 10-goal thriller",
+    "title": "Mbappe breaks Messi's all-time WC goal record; Saka hat-trick fails France in 10-goal thriller",
     "desc": "England emerged victorious in an exhilarating 6-4 clash against France during the third-place playoff. Kylian Mbappé marked his place in history as the World Cup's leading goal scorer. Bukayo Saka showcased his talent by netting a remarkable hat-trick, while Jude Bellingham secured England's bronze medal with a final flourish. France's aspirations to equalize fell short amid the high-scoring excitement of the match.",
     "img": "https://static.toiimg.com/photo/msid-132488663,imgsize-245014.cms",
     "src": "indiatimes.com",
@@ -216,15 +396,6 @@ const newsData_en = [
     "time": "2026-07-18T20:59:20.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Yash says Ranbir surrendered himself to Lord Ram; calls Sai 'flawless'",
-    "desc": "Pratham Sankalp event at Bharat Mandapam, the actor said the entire cast and crew had come together with one mission—to take the story of Lord Ram to audiences across the world. The event was attended by Ranbir Kapoor, Sai Pallavi, Sunny Deol, Arun Govil, director Nitesh Tiwari and producer Namit Malhotra, among others.",
-    "img": "https://static.toiimg.com/photo/msid-132486727,imgsize-26083.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yash-calls-ramayana-indias-dream-project-says-ranbir-kapoor-has-surrendered-himself-to-lord-ram-praises-sai-pallavi-as-a-flawless-actor/articleshow/132486722.cms",
-    "time": "2026-07-18T20:50:13.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Another House panel defers edu reforms report adoption; move seen as part of govt's outreach to oppn for delimit bill support",
     "desc": "Two parliamentary committees have postponed approving their reports on significant legislation. This development occurs as the government seeks opposition support for other political proposals. The anti-graft bill and higher education regulator bills face widespread protest. Both bills may not be presented during the current parliamentary session. Congress criticizes the government's handling of these controversial legislative matters.",
@@ -241,15 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/medical-colleges-to-decide-own-faculty-appointments-promotions-national-medical-commission/articleshow/132486715.cms",
     "time": "2026-07-18T20:31:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Who was Lachit Borphukan? Aditya Dhar has been approached to direct",
-    "desc": "Legendary Ahom commander Lachit Borphukan, who led Assam's forces to a historic victory against the Mughals in the Battle of Saraighat, could soon have his life brought to the big screen. Assam Chief Minister Himanta Biswa Sarma has revealed that filmmaker Aditya Dhar has been approached to direct a grand Hindi biopic on the celebrated military leader.",
-    "img": "https://static.toiimg.com/photo/msid-132486692,imgsize-67614.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/who-was-lachit-borphukan-assam-cm-says-dhurandhar-director-aditya-dhar-has-been-approached-for-biopic-on-the-ahom-commander-who-defeated-the-mughals/articleshow/132486686.cms",
-    "time": "2026-07-18T20:19:15.000Z"
   },
   {
     "cat": "Politics",
@@ -325,33 +487,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "India rolls out 'White Rabbit' tech to secure Indian Standard Time network: What it means",
-    "desc": "India has launched a secure, indigenous time signal network for critical infrastructure. This initiative reduces reliance on foreign timing sources for essential services. The system uses White Rabbit technology for highly accurate time synchronization. It aims to enhance reliability in banking, telecom, and power grid operations. This development supports India's technological self-reliance and digital economy.",
-    "img": "https://static.toiimg.com/photo/msid-132486051,imgsize-970102.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-rolls-out-white-rabbit-tech-to-secure-indian-standard-time-network-what-it-means/articleshow/132485935.cms",
-    "time": "2026-07-18T18:42:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "I was discouraged from taking bold decision to privatise space sector, today you proved me right: PM Modi to Skyroot after Vikram-1 successful launch",
-    "desc": "India achieved a historic milestone with the successful launch of its first private orbital rocket. Prime Minister Narendra Modi lauded the achievement, emphasizing faith in the nation's youth. This success positions India as the third country with indigenous private orbital launch capabilities. Skyroot Aerospace's Vikram-1 rocket carried a special message for the universe. The event signifies a new era for India's growing private space sector.",
-    "img": "https://static.toiimg.com/photo/msid-132485825,imgsize-103324.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/i-was-discouraged-from-taking-bold-decision-to-privatise-space-sector-today-you-proved-me-right-pm-modi-to-skyroot-after-vikram-1-successful-launch/articleshow/132485789.cms",
-    "time": "2026-07-18T18:37:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Arun Govil recalls being rejected for Lord Ram, now returns as Dashrath",
-    "desc": "Pratham Sankalp event at Bharat Mandapam in New Delhi on Friday. The actor, who became a household name after playing Lord Ram in Ramanand Sagar's iconic television series, shared memories of how he was initially rejected for the role before eventually being cast.",
-    "img": "https://static.toiimg.com/photo/msid-132485328,imgsize-83879.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/arun-govil-recalls-being-rejected-for-lord-ram-before-landing-iconic-role-in-ramanand-sagars-ramayan-opens-up-on-playing-king-dasharath-in-nitesh-tiwaris-ramayana/articleshow/132485270.cms",
-    "time": "2026-07-18T18:08:21.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Left parties condemn Wangchuk's removal, use of force; back ongoing protest",
     "desc": "In the early hours of day 21 of the protest fast at Jantar Mantar, when the presence was a little thin, Delhi Police succeeded in removing Sonam Wangchuk from the protest site, said CPI(ML) Liberation general secretary Dipankar Bhattacharya",
     "img": "https://th-i.thgim.com/public/incoming/hk82jb/article71239170.ece/alternates/LANDSCAPE_1200/20260523172L.jpg",
@@ -369,51 +504,6 @@ const newsData_en = [
     "time": "2026-07-18T17:43:37.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Panels examining Bill for removal of Ministers and VBSA Bill defer meeting on adopting draft reports",
-    "desc": "The decisions come just before the Monsoon Session of Parliament is to commence. Opposition calls it ‘big victory’, says the humiliation that Modi government suffered in the defeat of delimitation-related Bills in April ‘still lingers’",
-    "img": "https://th-i.thgim.com/public/incoming/9i1tl4/article71239157.ece/alternates/LANDSCAPE_1200/Panel-defers-adGNSG8VTG9.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/panels-examining-bill-for-removal-of-ministers-and-vbsa-bill-defer-meeting-on-adopting-draft-reports/article71238750.ece",
-    "time": "2026-07-18T17:29:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ranbir pays heartfelt tribute to Arun Govil at Ramayana event",
-    "desc": "Pratham Sankalp event at Bharat Mandapam in New Delhi on Saturday, where Ranbir Kapoor paid a heartfelt tribute to veteran actor Arun Govil, who immortalised the role of Lord Ram in Ramanand Sagar's iconic television series. During the event, Ranbir addressed Arun Govil with an emotional speech, acknowledging the veteran actor's lasting impact on generations of viewers.",
-    "img": "https://static.toiimg.com/photo/msid-132483995,imgsize-70171.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-pays-heartfelt-tribute-to-arun-govil-at-ramayana-pratham-sankalp-i-have-grown-up-carrying-shri-rams-blessings/articleshow/132483926.cms",
-    "time": "2026-07-18T17:11:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Entire BJP trembling with fear': Prashant Kishor on Bankipur assembly bypoll",
-    "desc": "Jan Suraaj Party founder Prashant Kishor claims the BJP fears his electoral debut. He alleges the ruling party is now campaigning door-to-door for votes. Kishor urges voters to reject money and food distribution practices. The Jan Suraaj Party aims to offer a credible political alternative. The Bankipur bypoll is scheduled for July 30 in Bihar.",
-    "img": "https://static.toiimg.com/photo/msid-132483828,imgsize-181262.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/entire-bjp-trembling-with-fear-prashant-kishor-on-bankipur-assembly-bypoll/articleshow/132483639.cms",
-    "time": "2026-07-18T17:08:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "With retirement rumours swirling, Rohit Sharma turns up for optional practice at Lord's",
-    "desc": "With retirement speculation growing and pressure mounting after a lean ODI series, Rohit Sharma attended India's optional practice session at Lord's. Former India captain looked in good touch as he prepared ahead of the series decider at Lord’s.",
-    "img": "https://static.toiimg.com/photo/msid-132483695,imgsize-77280.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/with-retirement-rumours-swirling-rohit-sharma-turns-up-for-optional-practice-at-lords/articleshow/132483669.cms",
-    "time": "2026-07-18T16:44:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Amarnath, Vaishno Devi Yatras temporarily suspended due to bad weather",
-    "desc": "Authorities have temporarily suspended the Amarnath and Vaishno Devi Yatras due to inclement weather. The decision was made as a precautionary measure to ensure the safety of all pilgrims. Pilgrims are advised to remain patient and follow official communication channels for updates. The Shri Amarnathji Yatra will remain suspended from both Pahalgam and Baltal routes. The Yatra will resume once weather conditions are deemed safe for travel.",
-    "img": "https://static.toiimg.com/photo/msid-132483697,imgsize-203756.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/amarnath-vaishno-devi-yatras-temporarily-suspended-due-to-bad-weather/articleshow/132483636.cms",
-    "time": "2026-07-18T16:44:34.000Z"
-  },
-  {
     "cat": "World",
     "title": "How will U.S. visa policy changes affect students, media professionals, and exchange visitors",
     "desc": "The U.S. Department of Homeland Security cites national security risks from Indian and Chinese students and introduces changes in F, J and I categories of visas. PhD scholars, journalists, and exchange visitors will be impacted",
@@ -421,15 +511,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/how-will-us-visa-policy-changes-affect-students-media-professionals-and-exchange-visitors-explained/article71238137.ece",
     "time": "2026-07-18T16:21:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Argentina on the brink of unique World Cup record as Messi eyes another title",
-    "desc": "Argentina are one goal away from setting a FIFA World Cup record for most goals scored from outside the box in a single tournament, having already matched the mark with five. Lionel Messi has scored two and holds the individual record. Defending champions Argentina face Spain in Sunday's final, with both the title and a historic milestone at stake.",
-    "img": "https://static.toiimg.com/photo/msid-132483322,imgsize-96950.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/argentina-on-the-brink-of-unique-world-cup-record-as-spain-stand-between-lionel-messi-and-back-to-back-titles/articleshow/132483038.cms",
-    "time": "2026-07-18T16:18:20.000Z"
   },
   {
     "cat": "Sports",
@@ -441,15 +522,6 @@ const newsData_en = [
     "time": "2026-07-18T16:14:11.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Hybrid shuttles, bird nets as BWF World Championships plug India Open glitches",
-    "desc": "Organisers promise a trouble-free BWF World Championships after addressing past issues. Heavy-duty netting will prevent bird intrusions while sealed gates deter monkeys. Stray dogs will be relocated, and security will remain on duty. The stadium has undergone renovations, including new lighting and improved facilities. This event marks a milestone in India's sporting ambitions.",
-    "img": "https://static.toiimg.com/photo/msid-132483226,imgsize-215452.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/badminton/hybrid-shuttles-bird-nets-as-bwf-world-championships-plug-india-open-glitches/articleshow/132483230.cms",
-    "time": "2026-07-18T16:07:45.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India's first undersea rail tunnel takes shape",
     "desc": "India's first undersea rail tunnel excavation has commenced for the bullet train project. A giant Tunnel Boring Machine began its journey beneath Thane Creek on Saturday. This marks the start of excavation on the seven-kilometer undersea stretch. The machine is among the largest ever used for rail tunnel construction. This project aims to connect Mumbai and Ahmedabad with high-speed rail.",
@@ -457,15 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/making-waves-underground-indias-first-undersea-rail-tunnel-takes-shape/articleshow/132483064.cms",
     "time": "2026-07-18T15:58:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rishab flaunts Rs 35.88L Ram Janmabhoomi watch with Ramayana team",
-    "desc": "Pratham Sankalp event after sharing pictures with Ranbir Kapoor, Yash, producer Namit Malhotra and director Nitesh Tiwari. While fans were thrilled to see Ranbir Kapoor and Yash in Rishab Rikhiram Sharma's latest post ahead of the Ramayana event, it was the sitar maestro's Rs 35.88 lakh Ram Janmabhoomi watch that quickly became the centre of attention.",
-    "img": "https://static.toiimg.com/photo/msid-132483138,imgsize-130352.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rishab-rikhiram-sharmas-rs-35-88-lakh-jacob-co-ram-janmabhoomi-watch-steals-the-spotlight-as-he-poses-with-the-ramayana-team/articleshow/132483015.cms",
-    "time": "2026-07-18T15:57:31.000Z"
   },
   {
     "cat": "Business",
@@ -487,57 +550,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Priyanka Chopra calls Nick Jonas 'Babu'",
-    "desc": "Priyanka Chopra Jonas celebrated her birthday with new details about her marriage. She revealed that she calls her husband Nick Jonas 'Babu' for assistance. Her brothers-in-law, Kevin and Joe Jonas, enjoyed their playful relationship dynamic. The couple also shared insights into their family life and daughter Malti Marie. Priyanka's new look as Mandakini from the film Varanasi was also unveiled.",
-    "img": "https://static.toiimg.com/photo/msid-132482940,imgsize-352377.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-calls-nick-jonas-babu-actress-says-my-hands-dont-work-when-nick-is-at-home/articleshow/132482959.cms",
-    "time": "2026-07-18T15:34:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Article 370 bags best feature film, Mammootty gets best actor award",
     "desc": "Announcing the awards, chairman of the central jury Jayaraj said Telugu movie Kalki 2898 AD bagged the trophy for the best popular film; Mammootty won his fourth National Film Award for best actor for his performance in Malayalam movie Bramayugam",
     "img": "https://th-i.thgim.com/public/incoming/rko6pv/article71238626.ece/alternates/LANDSCAPE_1200/national%20film%20awards.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/72nd-national-film-awards-article-370-bags-best-feature-film-mammootty-gets-best-actor-award/article71238337.ece",
     "time": "2026-07-18T14:56:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'No worries at all': Morkel backs Rohit despite scrutiny, urges India to fix flaws",
-    "desc": "Bowling coach Morne Morkel expressed confidence in Rohit Sharma's current form. He acknowledged challenging conditions for opening batters throughout the series. Morkel highlighted Rohit's experience and calming influence on the batting lineup. India's batting unit needs to adapt quicker to Lord's conditions. Breaking middle-over partnerships remains a key bowling concern for the team.",
-    "img": "https://static.toiimg.com/photo/msid-132482376,imgsize-166786.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/india-vs-england-no-worries-at-all-morne-morkel-backs-rohit-sharma-despite-scrutiny-urges-india-to-fix-flaws/articleshow/132482185.cms",
-    "time": "2026-07-18T14:50:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit shares a laugh with Gambhir at Lord's balcony ahead of ODI decider",
-    "desc": "Rohit Sharma looked relaxed ahead of India's series-deciding third ODI against England, sharing a light-hearted moment with coach Gautam Gambhir during training at Lord's. With the series tied 1-1, India will bank on Virat Kohli's form and hope Rohit rediscovers his touch. A win would secure the series and India's first ODI victory at Lord's since 2004.",
-    "img": "https://static.toiimg.com/photo/msid-132482311,imgsize-74304.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/watch-rohit-sharma-shares-a-laugh-with-gautam-gambhir-at-lords-balcony-ahead-of-odi-decider-against-england/articleshow/132482193.cms",
-    "time": "2026-07-18T14:44:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'If he's going, he should ... ': Kapil Dev on Rohit Sharma's retirement talks",
-    "desc": "Kapil Dev has urged fans to celebrate Rohit Sharma's career amid speculation that Sunday's third ODI against England could be his final international match. The former India captain said retirement is inevitable and hoped Rohit signs off with a century. The retirement talk has intensified after Rohit's lean run in the ongoing England ODI series.",
-    "img": "https://static.toiimg.com/photo/msid-132481852,imgsize-140072.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/if-hes-going-he-should-kapil-dev-opens-up-on-rohit-sharmas-retirement-talks/articleshow/132481786.cms",
-    "time": "2026-07-18T14:09:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Shutting down Messi is impossible': Iniesta reveals what Spain must do vs Argentina",
-    "desc": "Andres Iniesta suggests Spain should not waste energy trying to stop Lionel Messi completely. He believes the key lies in Spain's own game and making Argentina uncomfortable. The former captain urged La Roja to play with confidence and trust their established style. Spain have remained unbeaten and conceded just once throughout the tournament. The team's collective understanding and defensive discipline have brought them to the final.",
-    "img": "https://static.toiimg.com/photo/msid-132481753,imgsize-248390.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/shutting-down-messi-is-impossible-andres-iniesta-reveals-what-spain-must-do-against-argentina-in-world-cup-final/articleshow/132481690.cms",
-    "time": "2026-07-18T14:03:47.000Z"
   },
   {
     "cat": "Business",
@@ -550,75 +568,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Yami, Kartik, Mammootty",
-    "desc": "The winners of the 72nd National Film Awards were announced by the Ministry of Information and Broadcasting in New Delhi on Saturday. One of the biggest highlights of this year's honours was Yami Gautam winning the Best Actress award for her powerful performance in Article 370. Sharing the Best Actor honour were Kartik Aaryan for his transformative performance in Chandu Champion and Mammootty for his critically acclaimed role in the Malayalam horror drama Bramayugam.",
-    "img": "https://static.toiimg.com/photo/msid-132481421,imgsize-83317.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/national-film-awards-2026-major-winners-yami-gautam-wins-best-actress-for-article-370-kartik-aaryan-and-mammootty-share-best-actor-honour/articleshow/132481361.cms",
-    "time": "2026-07-18T13:37:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ranbir Kapoor, Yash pose with Rishab Rikhiram Sharma ahead of 'Ramayana' event",
-    "desc": "Sitar maestro Rishab Rikhiram Sharma shared new photographs of the Ramayana film team. The upcoming film's trailer will premiere globally on July 24. Ranbir Kapoor and Sai Pallavi star in the epic cinematic adaptation. The first part of the saga releases in Diwali 2026. The concluding chapter is scheduled for Diwali 2027.",
-    "img": "https://static.toiimg.com/photo/msid-132481393,imgsize-244569.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-yash-pose-with-rishab-rikhiram-sharma-ahead-of-ramayana-event-trailer-to-release-on-july-24/articleshow/132481396.cms",
-    "time": "2026-07-18T13:34:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Paresh breaks silence on OMG 2 row, denies problem with Akshay",
-    "desc": "Paresh Rawal broke his silence on the 'OMG 2' credit row, denying any issues with Akshay Kumar and clarifying he only sought story credit, not money. He rejected claims of pitching OMG 2 to Salman Khan and Ajay Devgn or demanding a high fee, calling the allegations unfounded while expressing continued warmth toward Amit Rai.",
-    "img": "https://static.toiimg.com/photo/msid-132480600,imgsize-216519.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/paresh-rawal-breaks-silence-on-omg-2-row-says-concept-mera-hai-never-said-amit-has-not-written-it-denies-problem-with-akshay-kumar/articleshow/132480600.cms",
-    "time": "2026-07-18T12:43:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Kay Kay Menon interview",
     "desc": "Actors Kay Kay Menon, Naveen Kasturia and director Himank Gaur talk about their show ‘Adarsh Baal Vidyalaya’, how their school life shaped their journey in films, the experience of working with comedy, why Kay Kay Menon feels he has failed more than he has suceeded in his performances, and more",
     "img": "https://th-i.thgim.com/public/incoming/bbcp7p/article71237930.ece/alternates/LANDSCAPE_1200/mamata%201.png",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/kay-kay-menon-interview-naveen-kasturia-adarsh-baal-vidyalaya/article71237937.ece",
     "time": "2026-07-18T12:20:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mirabai Chanu, Lovlina Borgohain named India's flagbearers for Glasgow opening ceremony",
-    "desc": "Mirabai Chanu and Lovlina Borgohain will lead India's 124-member contingent. They will serve as flag and baton bearers at the opening ceremony. Both accomplished athletes are also strong medal contenders for India. The Indian Olympic Association announced their selection on Saturday. The Games opening ceremony is scheduled for July 23.",
-    "img": "https://static.toiimg.com/photo/msid-132479994,imgsize-103505.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-mirabai-chanu-lovlina-borgohain-named-indias-flagbearers-for-glasgow-opening-ceremony/articleshow/132479935.cms",
-    "time": "2026-07-18T12:15:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harsh Dubey replaces Sundar as India gear up for ODI decider at Lord's",
-    "desc": "India have added all-rounder Harsh Dubey to their squad for the third ODI against England after Washington Sundar suffered a hamstring injury. With the series tied 1-1, the Lord's decider promises a thrilling finish. India will bank on Virat Kohli's renewed form and hope for KL Rahul's return while seeking their first ODI win at Lord's since 2004.",
-    "img": "https://static.toiimg.com/photo/msid-132479774,imgsize-51974.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/harsh-dubey-replaces-injured-washington-sundar-as-india-gear-up-for-odi-decider-at-lords/articleshow/132479778.cms",
-    "time": "2026-07-18T12:03:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Fast, firm &amp; unpredictable': What players, coaches said about New Jersey pitch",
-    "desc": "The hybrid grass pitch at the New York New Jersey Stadium is a major talking point. Players and coaches have shared contrasting views on its speed and firmness. Rain significantly alters the playing surface, making it faster and smoother for matches. FIFA has managed the pitch carefully, allowing it time to recover. The final outcome may depend on Saturday's weather and its impact.",
-    "img": "https://static.toiimg.com/photo/msid-132479514,imgsize-516490.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/argentina-vs-spain-fast-firm-and-unpredictable-what-players-coaches-and-fifa-said-about-new-jersey-pitch-before-world-cup-final/articleshow/132479476.cms",
-    "time": "2026-07-18T11:44:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Nobody can come close to him': Kapil Dev hails Garry Sobers as greatest all-rounder",
-    "desc": "Former India captain Kapil Dev remembered Sir Garfield Sobers as a revolutionary cricketer. He stated that Sobers changed how future generations approached the sport. Kapil Dev described Sobers as one of the finest cricketers ever born. Sobers' influence stretched far beyond statistics and records, he added. The West Indies great passed away at his home in Barbados.",
-    "img": "https://static.toiimg.com/photo/msid-132478854,imgsize-128518.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/nobody-can-come-close-to-him-kapil-dev-hails-sir-garfield-sobers-as-crickets-greatest-all-rounder/articleshow/132478791.cms",
-    "time": "2026-07-18T11:10:49.000Z"
   },
   {
     "cat": "Business",
@@ -891,12 +846,57 @@ const newsData_en = [
     "time": "2026-07-16T14:34:17.000Z"
   },
   {
-    "cat": "World",
-    "title": "Iran tells Houthis to close Red Sea gateway if U.S. hits power network: report",
-    "desc": "A source close to the Houthis said the group had completed preparations to attack ‌shipping by deploying missiles and drones near Bab el-Mandeb strait, the gateway to the Red Sea, in Yemen’s highlands overlooking Hodeidah ‌and ⁠the Gulf of Aden and was awaiting the order to begin",
-    "img": "https://th-i.thgim.com/public/incoming/xfyib3/article71230313.ece/alternates/LANDSCAPE_1200/2026-07-15T122836Z_97536865_RC20HKAGF0XM_RTRMADP_3_IRAN-CRISIS-YEMEN-RED-SEA.JPG",
+    "cat": "Business",
+    "title": "Centre floats another draft of CAFE-III, gives special recognition to ethanol and biofuel cars",
+    "desc": "Industry stakeholders have until August 6 to respond to the latest draft; the proposed CAFE norms have sharply divided the automobile industry, with manufacturers of smaller and larger vehicles taking opposing positions and competing proposals emerging over how the regulations should be framed",
+    "img": "https://th-i.thgim.com/public/business/wmmmnq/article71229168.ece/alternates/LANDSCAPE_1200/iStock-942740004.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-tells-houthis-to-close-red-sea-gateway-if-us-hits-power-network-report/article71229802.ece",
-    "time": "2026-07-16T13:54:36.000Z"
+    "url": "https://www.thehindu.com/news/national/centre-floats-another-draft-of-cafe-iii-gives-special-recognition-to-ethanol-and-bio-fuel-cars/article71229082.ece",
+    "time": "2026-07-16T09:58:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "What has been the impact of ethanol blending?",
+    "desc": "How are petrol vehicle owners reacting to the E20 mandate? How environmentally friendly is India’s dependence on sugarcane for ethanol? How has the U.S. reacted to India’s booming ethanol economy? Why has the adoption of EVs in India been much slower compared to other large economies?",
+    "img": "https://th-i.thgim.com/public/incoming/p6ebqq/article69944975.ece/alternates/LANDSCAPE_1200/PTI12_15_2024_000182B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/what-has-been-the-impact-of-ethanol-blending/article69943693.ece",
+    "time": "2026-07-16T09:40:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Varanasi art collective Mysticeti enters children’s publishing with ‘Bapa Wants Fish’",
+    "desc": "Founded by Stuti Sareen, Varanasi-based art community Mysticeti is expanding into children’s publishing with Bapa Wants Fish, a limited-edition book inspired by 1990s Odisha that explores family, food, emotional resilience and mental health through a child’s perspective",
+    "img": "https://th-i.thgim.com/public/life-and-style/fashion/ho9s4o/article71220111.ece/alternates/LANDSCAPE_1200/bapawantsfish%2010.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/books/varanasi-art-collective-mysticeti-enters-childrens-publishing-with-bapa-wants-fish/article71220067.ece",
+    "time": "2026-07-16T09:01:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Thazhappattu makes it to school curriculum",
+    "desc": "Screwpine art, which involves transforming simple leaves into green, sustainable thazhappas (mats) — a craft that was once a thriving cottage industry in Thazhava but has slowly declined due to modern challenges – receives a significant tribute in the form of Thazhappattu, a song written by Ani Mank.",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/28rcyt/article71225171.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-15%20at%203.12.15%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/an-anthem-for-a-vanishing-craft-thazhappattu-makes-it-to-school-curriculum/article71225160.ece",
+    "time": "2026-07-16T08:20:05.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Government hikes windfall tax on diesel, ATF; cuts levy on petrol exports",
+    "desc": "The rate of Special Additional Excise Duty (SAED) on diesel exports has been increased to ₹15.5 a litre from ₹8.5 a litre; similarly, SAED on ATF exports has been raised to ₹14.5 per litre from ₹7.5 per litre till July 15",
+    "img": "https://th-i.thgim.com/public/incoming/393w1c/article71228710.ece/alternates/LANDSCAPE_1200/2026-06-08T104630Z_784983082_RC2MPLA275FA_RTRMADP_3_INDIA-REFINERY-BPCL.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/government-hikes-windfall-tax-on-diesel-atf-cuts-levy-on-petrol-exports/article71228678.ece",
+    "time": "2026-07-16T06:01:40.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Sun Pharma gets nod from South African regulator for generic semaglutide injection",
+    "desc": "The approval by the SAHPRA is to manufacture and market the generic version of semaglutide injection in South Africa for the treatment of adults with inadequately controlled type 2 diabetes mellitus as an adjunct to diet and exercise, says Sun Pharmaceutical Industries",
+    "img": "https://th-i.thgim.com/public/incoming/gj83dx/article71226978.ece/alternates/LANDSCAPE_1200/----Replacing-iGL3G113JJ.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/sun-pharma-gets-nod-from-south-african-regulator-for-generic-semaglutide-injection/article71226953.ece",
+    "time": "2026-07-16T04:58:09.000Z"
   }
 ];

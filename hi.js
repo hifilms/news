@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "PV Sindhu creates history, wins maiden Japan Open after straight-games victory over Akane Yamaguchi",
+    "desc": "PV Sindhu returned to winning ways in emphatic fashion, defeating home favourite Akane Yamaguchi in straight games to lift her maiden Japan Open title on Sunday. The two-time Olympic medallist produced one of her finest...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/pv-sindhu-wins-japan-open-2026-akane-yamaguchi-final-2026-07-19-1048711",
+    "time": "2026-07-19T05:41:06.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Bukayo Saka's hat-trick helps England survive late French rally to win Bronze after 10-goal World Cup classic",
     "desc": "England produced a clinical attacking display before surviving a spirited French comeback to defeat France 6-4 in the FIFA World Cup 2026 third-place playoff in Miami. With that, the Three Lions secured their best finish...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/bwf-world-championship-mascot-anthem-released-bai-expects-best-ever-tournament-after-india-open-controversy-2026-07-18-1048685",
     "time": "2026-07-18T16:05:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Rohit will work it out': Morne Morkel backs Rohit Sharma to return to top form ahead of the third England ODI",
-    "desc": "India and England will take on each other in the third ODI of the ongoing series. The two sides will take on each other at the Lord’s Cricket Ground in London on July 19th; ahead...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rohit-will-work-it-out-morne-morkel-backs-rohit-sharma-to-return-to-top-form-ahead-of-the-third-england-odi-2026-07-18-1048683",
-    "time": "2026-07-18T15:10:11.000Z"
   }
 ];

@@ -1,12 +1,48 @@
 const newsData_gu = [
   {
     "cat": "Entertainment",
+    "title": "ઝી5 ની મસ્ટ વોચ ફિલ્મો અને વેબ સીરીઝ, ફુલ ઓન પૈસા વસુલ મનોરંજન ઘરે બેઠા મળશે",
+    "desc": "જો તમારી પાસે ઝી5 નું સબ્સક્રીપ્શન છે તો તમને આ ઓટીટી પ્લેટફોર્મની 5 એવી ફિલ્મો અને સીરીઝ વિશે જણાવીએ જેને એકવાર તો જોવી જ જોઈએ. આ ફિલ્મો અને સીરીઝ હીંદીમાં છે અને ઝી5 પર મસ્ટ વોચના લિસ્ટમાં આવે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/must-watch-hindi-movies-and-web-series-of-zee5-485117 ",
+    "time": "2026-07-19T05:32:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "આતંકીઓએ બદલ્યો ટાર્ગેટ? હવે ગુજરાત-રાજસ્થાન પર ખતરો! જાણો કેમ",
+    "desc": "કાશ્મીરમાં સતત વધી રહેલા સુરક્ષા દબાણને કારણે, શું આતંકવાદી સંગઠનો હવે ગુજરાત અને રાજસ્થાન જેવા રાજ્યોને નવા ટારગેટ તરીકે જોઈ રહ્યા છે? સુરક્ષા એજન્સીઓ અને વિકસિત થતા આતંકવાદી નેટવર્કને જોતાં, આ નવી આતંકવાદી ગેમપ્લાન પાછળના તર્ક, સંભવિત જોખમો અને ભારતની સુરક્ષા વ્યવસ્થા સામે ઉભરતા પડકારોને સમજો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/terrorists-changed-their-target-now-gujarat-and-rajasthan-are-under-threat-know-why-485116 ",
+    "time": "2026-07-19T05:31:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ફિફા વર્લ્ડ કપ 2026: જે જીતશે તેના પર થશે ₹481 કરોડનો વરસાદ, મળશે દુનિયાની સૌથી મોંઘી ટ્રોફી!",
+    "desc": "સ્પેન અને આર્જેન્ટીના વચ્ચે ફુટબોલ વિશ્વકપ 2026નો ફાઈનલ મુકાબલો રવિવારે મોડી રાત્રે 12.30 કલાકે (ભારતીય સમયાનુસાર) શરૂ થશે. આ મેચ જે ટીમ જીતશે તેને 50 મિલિયન યુએસ ડોલર (આશરે 481 કરોડ રૂપિયા) ની ઈનામી રકમની સાથે દુનિયાની સૌથી મોંઘી સ્પોર્ટ્સ ટ્રોફી આપવામાં આવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/fifa-world-cup-2026-final-spain-or-argentina-tonights-winner-will-lift-the-worlds-most-valuable-sports-trophy-worth-millions-485115 ",
+    "time": "2026-07-19T05:27:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ફીફા વર્લ્ડ કપ 2026 ફાઇનલ: આજે મળશે વિશ્વ વિજેતા! મેસીની આર્જેન્ટીના સામે સ્પેનનો મહાસંગ્રામ, 195 દેશોની નજર",
+    "desc": "ફુટબોલ વિશ્વકપ 2026ની ફાઈનલમાં આજે આર્જેન્ટીના અને સ્પેન વચ્ચે મહામુકાબલો રમાવાનો છે. લિયોનેલ મેસ્સી અને લામિન યમાલ પ્રથમવાર વિશ્વકપના સૌથી મોટા મંચ પર આમને-સામને હશે. જાણો મેચનો સમય, લાઇવ સ્ટ્રીમિંગ અને બંને ટીમ વચ્ચે હેડ-ટૂ-હેડ રેકોર્ડ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/38-days-103-matches-1-champion-defending-champions-argentina-face-spains-iron-defense-in-historic-miami-final-485094 ",
+    "time": "2026-07-19T05:26:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "એક્ટ્રેસ જેનિફર વિંગેટે કંફર્મ કર્યા બીજા લગ્ન, ઈંસ્ટા પર શેર કર્યો લગ્નનો વીડિયો",
     "desc": "જેનિફર વિંગેટના લગ્નની ચર્ચાઓ છેલ્લા કેટલાક દિવસોથી ચાલી રહી હતી. હવે અભિનેત્રીએ ઈંસ્ટા પર તેના લગ્નનો વીડિયો શેર કરી બીજા લગ્નની વાત કંફર્મ કરી છે. જેનિફરે સિંગાપુરના જાણીતા બિઝનેસમેન વિલિયમ ઈસ્માએલ સાથે લગ્ન કર્યા છે. જેનિફરના આ બીજા લગ્ન છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/jennifer-winget-second-marriage-jennifer-winget-married-to-business-man-william-ishmael-485082 ",
-    "time": "2026-07-19T02:05:46.000Z"
+    "time": "2026-07-19T02:30:15.000Z"
   },
   {
     "cat": "World",
@@ -207,15 +243,6 @@ const newsData_gu = [
     "time": "2026-07-17T10:27:34.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "લૉર્ડ્સમાં રોહિતની છેલ્લી વન-ડે? કોહલી પર પણ ગંભીર અને અગરકર લઈ શકે છે મોટો નિર્ણય, જાણો",
-    "desc": "રોહિત શર્માની છેલ્લી વન-ડે પર સોશિયલ મીડિયા ભરાઈ ગયું છે, અફવાહ ફેલાઈ ગઈ છે કે લોડ્સમાં રોહિત પોતાના કરિયરનો છેલ્લો મેચ રમશે, હવે ફેન્સ વિરાટ કોહલીના ભવિષ્ય વિશે વિચારીને પણ ડરી રહ્યા છે. વિરાટ કોહલી પર હેડ કોચ ગૌતમ ગંભીર અને ચીફ સિલેક્ટર અજીત અગરકરનો શું પ્લાન છે, ચાલો તેના વિશે તમને જણાવીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/rohit-last-odi-at-lords-gambhir-and-agarkar-can-take-a-big-decision-on-kohli-too-know-484928 ",
-    "time": "2026-07-17T10:18:41.000Z"
-  },
-  {
     "cat": "World",
     "title": "અમેરિકાએ ઈરાનના ચાબહાર બંદર પર કર્યા હુમલા, ચિંતા ભારત માટે કેમ વધી ગઈ? ખાસ જાણો",
     "desc": "અમેરિકાએ ઈરાનના અત્યંત મહત્વના એવા ચાબહાર બંદર પર ઓછામાં ઓછી 3 મિસાઈલો છોડી છે. અમેરિકાના રક્ષામંત્રી પીટ હેગસેથે સોશિયલ મીડિયા પર પોર્ટના એક ટાવરનો વીડિયો પણ શેર કર્યો છે. આ બંદર પર ભારત લાંબા સમયથી રોકાણ કરતું રહ્યું છે.",
@@ -376,15 +403,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/irctcs-new-ticket-booking-website-launched-seats-across-all-classes-will-be-visible-simultaneously-484810 ",
     "time": "2026-07-16T07:43:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "તમને કેબિનેટ મંત્રી બનાવી દઈશ!&amp;#039; : કેરળના કોંગ્રેસ ધારાસભ્ય પર આવ્યો કરોડોની ડીલનો રહસ્યમય વૉટ્સએપ કૉલ",
-    "desc": "તમને કેબિનેટ મંત્રી બનાવી દઈશ, તમને કોઈ આવો ફોન કરો તો તમે શું કરશો, કેરળના કોંગ્રેસના ધારાસભ્ય વિદ્યા બાલકૃષ્ણને આરોપ લગાવ્યો છે કે તેમને મંત્રી પદના બદલામાં મોટી રકમની માંગણી કરતો વોટ્સએપ કોલ આવ્યો હતો. તેમણે તાત્કાલિક કોંગ્રેસ નેતૃત્વને જાણ કરી અને પોલીસ ફરિયાદ નોંધાવી, આ મામલાની નિષ્પક્ષ તપાસની માંગ કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/i-will-make-you-a-cabinet-minister-congress-mla-vidya-balakrishnan-receives-whatsapp-call-demanding-a-large-sum-of-money-484808 ",
-    "time": "2026-07-16T06:53:29.000Z"
   },
   {
     "cat": "Entertainment",
@@ -576,15 +594,6 @@ const newsData_gu = [
     "time": "2026-07-13T02:56:48.000Z"
   },
   {
-    "cat": "World",
-    "title": "તે મોજતબા નહોતો તો કોણ હતો? ખામેનેઈના જનાજામાં જોવા મળ્યો હતો &amp;#039;નકાબપોશ&amp;#039;, હવે રહસ્ય પરથી ઊંચક્યો પડદો",
-    "desc": "અમેરિકા અને ઈઝરાયેલના 28 ફેબ્રુઆરીના સંયુક્ત હુમલામાં આયતુલ્લા ખામેનેઈ સહિત પરિવારના કેટલાય સભ્યોના મોત થયા હતા. આ હુમલામાં જવાદ ખામેનેઈને પણ ઈજાઓ થઈ હતી. તેમના ચહેરા પર ગંભીર ઈજાઓ થઈ હતી. આ જ ઈજાઓના કારણે જવાદે પોતાનો ચહેરો પૂરી રીતે ઢાંકેલો રાખ્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/if-it-was-not-mojtaba-who-was-it-masquerade-was-seen-at-khamenei-funeral-now-the-veil-has-been-lifted-from-the-mystery-484409 ",
-    "time": "2026-07-12T17:54:07.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "વીકેન્ડમાં ધમાલ 4 છવાઈ ગઈ બોક્સ ઓફિસ પર, 50 કરોડથી વધી ગયું બોક્સ ઓફિસ કલેકશન",
     "desc": "અજય દેવગનની ફિલ્મ ધમાલ 4 બોક્સ ઓફિસ પર સારું પર્ફોમ કરી રહી છે. પહેલા દિવસે ફિલ્મને મિક્સ રીવ્યુ મળ્યા હોવા છતાં ધીરે ધીરે ફિલ્મની કમાણી રહી છે. ફિલ્મ રિલીઝ થઈ તેના 2 દિવસમાં જ બોક્સ ઓફિસ કલેકશન 50 કરોડથી વધી ગયું છે.",
@@ -619,15 +628,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/does-a-low-wattage-phone-charge-faster-with-a-high-wattage-charger-or-is-it-safe-to-charge-it-find-out-the-correct-answer-484368 ",
     "time": "2026-07-12T09:35:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "જાણો કોણ છે શેખર ચૌધરી જેની સાથે જૈસ્મીન સૈંડલસે કરી છે સગાઈ",
-    "desc": "ધુરંધર ફિલ્મના શરારત ગીતને અવાજ આપનાર ગાયિકા જૈસ્મીન સૈંડલસે લાઈવ શો દરમિયાન પોતાની સગાઈની ઘોષણા કરી ચાહકોને ચોંકાવી દીધા છે. તેણે સ્ટેજ પર પોતાના ફિયાન્સને બોલાવી લોકો સામે ઈંસ્ટ્રોડ્યુસ પણ કર્યો છે. હવે લોકો એ જાણવા આતુર થયા છે કે જૈસ્મીન સૈંડલસે જેની સાથે સગાઈ કરી છે તે વ્યક્તિ કોણ છે ?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/who-is-shekhar-chaudhary-jasmine-sandlas-engagement-ring-in-live-concert-484363 ",
-    "time": "2026-07-12T08:06:06.000Z"
   },
   {
     "cat": "Tech",
