@@ -1,6 +1,51 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "FIFA પ્રેસિડેંટના સંદેશ બાદ, ZEEના CEO પુનિત ગોયન્કાનો ઇમોશનલ પત્ર, કહ્યું: એક દિવસ, ભારત પણ રમશે વર્લ્ડ કપ",
+    "desc": "2026ના ફૂટબોલ વર્લ્ડ કપ ફાઇનલ પહેલા ફિફાના પ્રમુખ ગિયાની ઇન્ફન્ટિનોએ ઝી ટીવીને એક ખાસ સંદેશ મોકલ્યો હતો. તેના જવાબમાં, ઝીના સીઈઓ પુનિત ગોયેન્કાએ સમગ્ર ફિફા ટીમ, દર્શકો અને તેમના કર્મચારીઓ માટે એક ખૂબ જ ખાસ પત્ર લખ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/after-the-message-from-the-fifa-president-an-emotional-letter-from-zee-ceo-punit-goenka-said-one-day-india-will-also-play-the-world-cup-485149 ",
+    "time": "2026-07-19T12:25:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "જુલાઈમાં નહીં, તો ક્યારે મળશે કેન્દ્રીય કર્મચારીઓને મોંઘવારી ભથ્થાની ભેટ? જાણો ક્યારે થશે જાહેરાત",
+    "desc": "શું જુલાઈમાં કેન્દ્રીય કર્મચારીઓ અને પેન્શનર્સનું મોંઘવારી ભથ્થું નહીં વધે? જો જુલાઈમાં જાહેરાત ન થઈ, તો આખરે ક્યારે આવશે આગામી ખુશખબર? 1 કરોડથી વધુ કેન્દ્રીય કર્મચારીઓ પગાર અને પેન્શનમાં વધારાની આતુરતાપૂર્વક રાહ જોઈ રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/da-hike-2026-if-not-in-july-then-when-will-central-employees-get-the-gift-of-dearness-allowance-know-when-the-announcement-will-be-made-485151 ",
+    "time": "2026-07-19T12:05:35.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "PF ધારકો માટે કામના સમાચાર: જૂના PF એકાઉન્ટને નવા ખાતામાં મિનિટોમાં કરો ટ્રાન્સફર, EPFOએ જણાવી નવી રીત!",
+    "desc": "EPFOએ નોકરી બદલનારા કર્મચારીઓ માટે EPF એકાઉન્ટ ટ્રાન્સફર પ્રક્રિયાને સરળ બનાવી છે. સભ્યો હવે EPFO ​​પોર્ટલ પર 'રિક્વેસ્ટ ફોર ટ્રાન્સફર ઓફ એકાઉન્ટ' અને 'મેમ્બર સર્વિસ હિસ્ટ્રી' વિકલ્પો દ્વારા તેમના જૂના PF એકાઉન્ટને નવા ખાતામાં ટ્રાન્સફર કરી શકે છે. આ PF બેલેન્સને મર્જ કરે છે અને પેન્શન અને વીમા લાભોમાં વધારો કરે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/work-news-for-pf-holders-transfer-old-pf-account-to-new-account-in-minutes-epfo-reveals-new-method-485146 ",
+    "time": "2026-07-19T11:17:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "કેટરિના કૈફે શેર કરી દીકરા સાથેની ક્યુટ ફોટો, લેટેસ્ટ તસવીરોએ જીતી લીધું ફોલોવર્સનું દિલ",
+    "desc": "તાજેતરમાં જ કેટરિના કૈફે તેનો જન્મદિવસ ઉજવ્યો હતો. આ ઉજવણી કેવી હતી તેની તસવીરો અભિનેત્રીએ શેર કરી છે. કેટરિના કૈફે શેર કરેલા ફોટોમાં 2 તસવીરો તેના દીકરા વિહાનની પણ છે. જો તમે નથી જોઈ તો ફટાફટ જુઓ અહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/katrina-kaif-shared-son-photos-katrina-kaif-birthday-celebration-photos-vicky-kaushal-485144 ",
+    "time": "2026-07-19T11:00:47.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "જુલાઈ એન્ડિંગમાં કાર બજાર ગરમાશે: Maruti, Toyota અને Honda લાવી રહી છે નવા મોડલ્સ, જાણો લોન્ચિંગ ડેટ અને કિંમત",
+    "desc": "જુલાઈ 2026ના અંત પહેલા ભારતીય ઓટો બજારમાં ત્રણ નવી કાર લોન્ચ થવાની તૈયારીમાં છે. આમાં 2026 મારુતિ સુઝુકી બ્રેઝા ફેસલિફ્ટ, હોન્ડા ZR-V હાઇબ્રિડ અને નેક્સ્ટ-જનરેશન ટોયોટા હિલક્સનો સમાવેશ થાય છે. નવી બ્રેઝામાં અપડેટેડ ડિઝાઇન અને નવું એન્જિન હોવાની અપેક્ષા છે, જ્યારે હોન્ડા ZR-V હાઇબ્રિડ મજબૂત હાઇબ્રિડ ટેકનોલોજી અને પ્રીમિયમ સુવિધાઓ સાથે આવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/car-launches-in-july-end-maruti-toyota-and-honda-are-bringing-new-models-know-the-launch-date-and-price-485143 ",
+    "time": "2026-07-19T10:40:11.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "જસપ્રીત બુમરાહને અચાનક શું થયું ? કેમ નથી રમી રહ્યો આજની મેચ, આ બે સ્ટાર ખેલાડી પણ બહાર",
     "desc": "ઇંગ્લેન્ડ સામેની ત્રીજી અને નિર્ણાયક વનડે માટે ઇંગ્લેન્ડે ટોસ જીતીને પહેલા બેટિંગ કરવાનો નિર્ણય લીધો. આ મેચમાં ભારતીય ટીમ ત્રણ ફેરફાર સાથે ઉતરી છે. જેમાં સૌથી મોટો ફેરફાર જસપ્રીત બુમરાહ બહાર થયો છે. ત્યારે બધાના મનમાં સવાલ છે કે બુમરાહ કેમ આજની મેચ કેમ રમી રહ્યો નથી.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -225,15 +270,6 @@ const newsData_gu = [
     "time": "2026-07-18T04:23:57.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ક્રિકેટ જગતને મોટો ઝટકો, મહાન ઓલરાઉન્ડર સર ગારફિલ્ડ સોબર્સનું 89 વર્ષની વયે અવસાન",
-    "desc": "ક્રિકેટ ઇતિહાસના મહાન ઓલરાઉન્ડરોમાંના એક ગણાતા વેસ્ટ ઈન્ડિઝના દિગ્ગજ સર ગારફિલ્ડ સોબર્સનું 89 વર્ષની વયે અવસાન થયું છે. તેમની કારકિર્દી દરમિયાન તેમણે પોતાની બેટિંગ, ઝડપી અને સ્પિન બોલિંગ અને ઉત્તમ ફિલ્ડિંગ દ્વારા ક્રિકેટને ફરીથી વ્યાખ્યાયિત કરી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/a-big-blow-to-the-cricket-world-great-all-rounder-sir-garry-sobers-passes-away-at-the-age-of-89-484969 ",
-    "time": "2026-07-17T16:16:58.000Z"
-  },
-  {
     "cat": "World",
     "title": "હવામાં ઝેર જ ઝેર! આ બે અમીર દેશોમાં AQI 1000ને પાર, ભારત માટે સારા સમાચાર",
     "desc": "ગ્લોબલ એર ક્વોલિટી રેન્કિંગમાં મોટો ઉલટફેર થયો છે. ભારત હવે પ્રદૂષણની દ્રષ્ટિએ વિશ્વના ટોચના 50 શહેરોમાંથી સંપૂર્ણપણે બહાર થઈ ગયું છે. આ દરમિયાન, જંગલોમાં લાગેલી આગને કારણે, અમેરિકા અને કેનેડા જેવા વિકસિત દેશો અચાનક ગેસ ચેમ્બર બની ગયા છે, જેમાં AQI રીડિંગ્સ 1000થી વધુ છે.",
@@ -414,15 +450,6 @@ const newsData_gu = [
     "time": "2026-07-16T08:52:55.000Z"
   },
   {
-    "cat": "Business",
-    "title": "સોનું 36000 રૂપિયા સુધી સસ્તું થઈ ચૂક્યું છે, હજુ કેટલા તૂટશે ભાવ? રિપોર્ટમાં ચોંકાવનારો દાવો",
-    "desc": "મિડલ ઈસ્ટમાં યુદ્ધ છેડાયું ત્યારબાદ સોનું જે ઓલટાઈમ હાઈ પર પહોંચ્યું હતું તેના કરતાં ઘણું તૂટી ગયું. આજે પણ સોના અને ચાંદીના ભાવમાં ઘટાડો જોવા મળ્યો છે. આ ઉપરાંત સોનાના ભાવ પર આવેલો એક રિપોર્ટ 2026માં ભાવ વિશે શું કહે છે તે પણ ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/latest-gold-report-check-prediction-also-today-gold-silver-rate-aaj-no-sona-no-bhav-484812 ",
-    "time": "2026-07-16T07:50:21.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "રેલ મુસાફરોની બલ્લે-બલ્લે! IRCTCની નવી વેબસાઈટ પર &amp;#039;ફાસ્ટ ચેકઆઉટ&amp;#039; અને &amp;#039;રિપીટ બુકિંગ&amp;#039; સાથે મિનિટોમાં થશે ટિકિટ બુક",
     "desc": "IRCTCએ મુસાફરોની સુવિધા માટે તેની વેબસાઈટનું સુપરફાસ્ટ સ્માર્ટ બીટા વર્ઝન લાઈવ કરી દીધું છે. નવી વેબસાઈટમાં લૉગિન કે ટિકિટ બુકિંગ વખતે હેરાન કરતા કેપ્ચા અને નકામા પોપ-અપ્સની ઝંઝટમાંથી કાયમી મુક્તિ મળશે. હવે મુસાફરો સ્લીપર કે એસી જેવા અલગ-અલગ ક્લાસની સીટોની ઉપલબ્ધતા વારંવાર સર્ચ કર્યા વગર એક જ સ્ક્રીન પર જોઈ શકશે. આ ઉપરાંત 'ફાસ્ટર ચેકઆઉટ' અને 'ઈઝીઅર રિપીટ બુકિંગ' જેવા દમદાર ફીચર્સને કારણે ટિકિટ બુકિંગનો સમગ્ર અનુભવ હવે એકદમ સરળ અને ઝંઝટમુક્ત બનશે.",
@@ -439,15 +466,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/akshay-kumar-haiwaan-movie-is-hindi-remake-of-south-psycho-thriller-film-oppam-484799 ",
     "time": "2026-07-16T05:30:43.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "પેટ્રોલ-ડીઝલ પર સરકારે લીધો મોટો નિર્ણય, અચાનક વધાર્યો આ ટેક્સ, જાણો ભાવ વધ્યા કે ઘટ્યા?",
-    "desc": "ઈરાન અને અમેરિકામાં નવેસરથી યુદ્ધના નગારા વાગવાથી હવે ક્રૂડ ઓઈલના ભાવમાં ઉછાળો જોવા મળી રહ્યો છે. જેની અસર અન્ય દેશોમાં પણ જોવા મળી રહી છે. ભારત સરકારે ગુરુવારે પેટ્રોલ અને ડીઝલ પર લાગતા ટેક્સમાં એક મોટો બદલાવ કર્યો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/big-news-as-government-hikes-windfall-tax-on-diesel-atf-check-about-petrol-484789 ",
-    "time": "2026-07-16T04:32:25.000Z"
   },
   {
     "cat": "World",
@@ -610,15 +628,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/ajay-devgan-movie-dhamaal-4-weekend-box-office-collection-484385 ",
     "time": "2026-07-12T12:49:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ટીવી એક્ટર Rohit Chandel ના ચાહકોને મોટો ઝટકો, એક્ટરે કબુલ્યો સગીરા સાથે કરેલો ગુનો",
-    "desc": "ટીવી એક્ટર રોહિત ચંદેલની 10 જુલાઈના રોજ સગીરાનો પીછો કરી, તેને હેરાન કરવાના આરોપમાં ધરપકડ કરવામાં આવી હતી. હવે વાત એવી સામે આવી છે કે એક્ટરે પોલીસની પુછપરછમાં પોતે કરેલો ગુનો કબુલ્યો છે. એટલે કે એક્ટરે સ્વીકાર્યું છે કે તેણે સગીરાનો પીછો કરી તેને હેરાન કરી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/tv-actor-rohit-chandel-case-under-pocso-know-what-police-said-on-tv-actor-484374 ",
-    "time": "2026-07-12T10:47:58.000Z"
   },
   {
     "cat": "Tech",

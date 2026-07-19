@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Kerala declares holiday for all educational institutions in view of FIFA World Cup 2026 final",
+    "desc": "The Kerala government on Sunday declared a holiday for all educational institutions in view of the FIFA World Cup 2026 final between Argentina and Spain, scheduled to begin after midnight on Sunday. The announcement was...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/kerala-declares-holiday-for-all-educational-institutions-in-view-of-fifa-world-cup-2026-final-2026-07-19-1048740",
+    "time": "2026-07-19T12:19:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "LA Knight Riders clinch maiden MLC title with thrilling win over defending champions Washington Freedom",
+    "desc": "The MLC (Major League Cricket) 2026 final saw LA Knight Riders take on Washington Freedom. The two sides met at the Oakland Coliseum on July 19th, and it was LA Knight Riders who came out...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/la-knight-riders-clinch-maiden-mlc-title-with-thrilling-win-over-defending-champions-washington-freedom-2026-07-19-1048737",
+    "time": "2026-07-19T12:04:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why are India and England players wearing black armbands in the third ODI of the series in London?",
+    "desc": "India and England are taking on each other in the third and final ODI of the ongoing series. The two sides will meet at the Lord’s Cricket Ground in London on July 19th, and the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-are-india-and-england-players-wearing-black-armbands-in-the-third-odi-of-the-series-in-london-2026-07-19-1048730",
+    "time": "2026-07-19T10:32:26.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why is Jasprit Bumrah not playing in India vs England third ODI in London?",
     "desc": "India and England are taking on each other in the third and final ODI of the ongoing series between the two. The sides will meet at the Lord's Cricket Ground in London for the clash,...",
     "img": "",
@@ -10,7 +37,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Duckett-Bethell aim to propel England to solid start",
+    "title": "Ben Duckett completes magnificent century, India in search of wickets",
     "desc": "The stage is set for the third and final ODI of the ongoing series between India and England. The two sides are meeting at the Lord's Cricket Ground in London for the clash, and with...",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/when-and-where-to-watch-pv-sindhu-s-japan-open-final-vs-akane-yamaguchi-live-on-tv-and-stream-online-in-india-2026-07-19-1048695",
     "time": "2026-07-18T20:12:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Spain suffer major setback ahead of FIFA World Cup final vs Argentina, forced to cancel training session",
-    "desc": "Spain's final training session before the FIFA World Cup final was disrupted after severe thunderstorms forced the team to cancel their training in New Jersey. Luis de la Fuente's squad were scheduled to work at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/spain-suffer-major-setback-ahead-of-fifa-world-cup-final-vs-argentina-forced-to-cancel-training-session-2026-07-19-1048694",
-    "time": "2026-07-18T19:38:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Where to watch France vs England FIFA World Cup 2026 Bronze medal match live on TV and stream online for free?",
-    "desc": "France and England will meet in the FIFA World Cup 2026 third-place playoff in the early hours of Sunday. Even though their goal of lifting the coveted trophy is over, both teams will aim to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/where-to-watch-france-vs-england-fifa-world-cup-2026-bronze-medal-match-live-on-tv-and-stream-online-for-free-2026-07-19-1048693",
-    "time": "2026-07-18T18:38:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why will France play England after both teams knocked out of FIFA World Cup 2026?",
-    "desc": "France and England will meet in the FIFA World Cup 2026 third-place playoff in the early hours of Sunday as per IST, despite being eliminated from the title race earlier this week. Despite so, the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/why-will-france-play-england-after-both-teams-knocked-out-of-fifa-world-cup-2026-2026-07-18-1048690",
-    "time": "2026-07-18T18:06:21.000Z"
   }
 ];

@@ -1,5 +1,230 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "KPCC cracks whip on party workers feuding over government policy, postings",
+    "desc": "KPCC general secretary Deepthi Mary Varghese has issued a broad set of guidelines, cautioning party apparatchiks against airing broad-brush individualised statements on television talk shows and also social media, which risked feeding the public perception that the party was a divided house",
+    "img": "https://th-i.thgim.com/public/incoming/urn4nc/article71240912.ece/alternates/LANDSCAPE_1200/Deepthy-Mary-VaGVQFBJOOL.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kpcc-cracks-whip-on-party-workers-feuding-over-government-policy-postings/article71240892.ece",
+    "time": "2026-07-19T13:00:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘No state has witnessed such a political change since Independence’: Amit Shah on Bengal",
+    "desc": "Union Home Minister Amit Shah called West Bengal's political change unprecedented since Independence. He criticized the previous Left Front and Trinamool Congress governments. Shah attended the foundation stone laying for a new dairy project. This project aims to boost the state's dairy sector and farmer incomes. The minister concluded his three-day visit to West Bengal.",
+    "img": "https://static.toiimg.com/photo/msid-132494934,imgsize-63043.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-state-has-witnessed-such-a-political-change-since-independence-amit-shah-on-bengal/articleshow/132494665.cms",
+    "time": "2026-07-19T13:00:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bravo touches Gayle's feet, calls him 'Original GOAT' at MLC",
+    "desc": "Dwayne Bravo and Chris Gayle delighted fans with a heartwarming reunion at Major League Cricket, where Bravo touched Gayle's feet and called him the “Original GOAT.” Meanwhile, the Los Angeles Knight Riders reached the playoffs for the first time, powered by standout performances from Andre Russell, Sunil Narine, Jason Holder and Rovman Powell.",
+    "img": "https://static.toiimg.com/photo/msid-132494924,imgsize-84074.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/major-league-cricket/watch-dwayne-bravo-touches-chris-gayles-feet-calls-him-original-goat-at-mlc/articleshow/132494683.cms",
+    "time": "2026-07-19T12:56:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Duckett, Bethell script history with record 192-run stand against India",
+    "desc": "England openers Ben Duckett and Jacob Bethell achieved a record 192-run partnership against India. This stand became the highest opening partnership for England against India in ODI history. The duo also set a new record for the highest opening partnership ever at Lord's. India's Prasidh Krishna eventually dismissed Bethell for a well-played 91 runs. Bethell's impressive innings included eleven fours and two sixes.",
+    "img": "https://static.toiimg.com/photo/msid-132494760,imgsize-173918.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/ben-duckett-jacob-bethell-script-history-with-record-192-run-stand-against-india-at-lords/articleshow/132494720.cms",
+    "time": "2026-07-19T12:43:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala Government declares July 20 an educational holiday on account of the Argentina-Spain FIFA World Cup final",
+    "desc": "Football fans and associations across Kerala greeted the government’s decision with much fanfare. Fans, residents’ associations and sports clubs have set up huge wall-sized LED screens in public squares and parks to broadcast the spirit of the match to the audience.",
+    "img": "https://th-i.thgim.com/public/incoming/g6l6bw/article71240903.ece/alternates/LANDSCAPE_1200/Worldcup_final_02.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-government-declares-july-20-an-educational-holiday-on-account-of-the-argentina-spain-fifa-world-cup-final/article71240877.ece",
+    "time": "2026-07-19T12:38:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Police in Madhya Pradesh move activist on hunger strike at Ken-Betwa site to hospital",
+    "desc": "The Congress’s Leader of the Opposition in the Madhya Pradesh Assembly Umang Singhar slams police action, comparing it with that of the Delhi Police against Sonam Wangchuk; ‘the BJP government has made suppressing every dissenting voice its governing model’, he says",
+    "img": "https://th-i.thgim.com/public/incoming/b6t4a8/article71240808.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-19%20at%2011.39.19.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/police-action-forces-end-to-tribal-protest-against-mps-ken-betwa-project-after-15-days/article71240801.ece",
+    "time": "2026-07-19T12:34:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'NCPI recognised by EC': Sudip Bandyopadhyay hits back after opposition's walkout over TMC rebels' presence",
+    "desc": "The Nationalist Citizens Party of India attended an all-party meeting ahead of the Monsoon Session. Opposition parties staged a symbolic walkout to protest the invitation extended to NCPI leaders. NCPI leaders defended their party's recognition by the Election Commission and its MPs' presence. They stated that the Lok Sabha Speaker would clarify seating arrangements and disqualification matters. The government defended inviting the NCPI as they had requested recognition.",
+    "img": "https://static.toiimg.com/photo/msid-132494346,imgsize-111822.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ncpi-recognised-by-ec-sudip-bandyopadhyay-hits-back-after-oppositions-walkout-over-tmc-rebels-presence/articleshow/132494263.cms",
+    "time": "2026-07-19T12:24:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vijay's 'Jana Nayagan's bookings begin in TN, FDFS timing revealed",
+    "desc": "Advance bookings for Vijay's film 'Jana Nayagan' have commenced across Tamil Nadu. The eagerly awaited movie is scheduled for a July 23 release date. First Day First Show timings have been confirmed, with early morning screenings planned. This film is widely speculated to be Vijay's final acting project. High expectations surround the movie's grand worldwide release on many screens.",
+    "img": "https://static.toiimg.com/photo/msid-132494395,imgsize-324980.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/chief-minister-vijay-starrer-jana-nayagans-bookings-begin-in-tamil-nadu-ahead-of-july-23-release-fdfs-timing-revealed/articleshow/132494310.cms",
+    "time": "2026-07-19T12:19:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Spain will win easily': Ronaldo makes bold Argentina prediction before WC final",
+    "desc": "Brazilian legend Ronaldo Nazario predicts Spain will easily defeat Argentina in the World Cup final. He believes Spain's possession-based game will prove too much for Lionel Messi's team. Unbeaten Spain enters the championship match with a strong defensive record. Argentina seeks its fourth world title and aims to defend its crown. Ronaldo's prediction stems from Spain and France being his tournament favorites.",
+    "img": "https://static.toiimg.com/photo/msid-132494191,imgsize-286874.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/spain-will-win-easily-ronaldo-makes-bold-argentina-prediction-before-world-cup-final/articleshow/132494187.cms",
+    "time": "2026-07-19T12:03:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Leo scores all the time': Mbappe predicts Messi will reclaim WC record",
+    "desc": "Kylian Mbappe became the FIFA World Cup's all-time leading scorer with 22 goals after scoring twice against England, overtaking Lionel Messi's 21. However, the France captain expects Messi to reclaim the record in Sunday's final against Spain. Despite the milestone and leading the Golden Boot race, Mbappe said he would have preferred playing in the World Cup final.",
+    "img": "https://static.toiimg.com/photo/msid-132494112,imgsize-1123041.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/leo-scores-all-the-time-kylian-mbappe-predicts-lionel-messi-will-reclaim-world-cup-record/articleshow/132494096.cms",
+    "time": "2026-07-19T11:59:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Ramayana' star Sai Pallavi's most stunning saree looks",
+    "desc": "Sai Pallavi has never needed heavy styling or dramatic fashion statements to make an impression. With her new film 'Ramayana' generating buzz, her saree moments, in particular, have a quiet authority to them that is entirely her own. Here is a look at six times she got it absolutely right.",
+    "img": "https://static.toiimg.com/photo/msid-132494041,imgsize-113817.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayan-star-sai-pallavi-proves-less-is-more-with-these-6-timeless-saree-looks/photostory/132494041.cms",
+    "time": "2026-07-19T11:52:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Naveen Patnaik asks Centre to initiate dialogue with students",
+    "desc": "A nation that compromises the integrity of its examination system, compromises its own future and this grave issue, affecting millions of students across the country, must be taken up in Parliament as the highest priority, Naveen Patnaik says",
+    "img": "https://th-i.thgim.com/public/incoming/i35veh/article71241119.ece/alternates/LANDSCAPE_1200/OD-TEXBOOKS-PATGF4G6F270.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/naveen-patnaik-asks-centre-to-initiate-dialogue-with-students/article71241082.ece",
+    "time": "2026-07-19T11:48:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "AR Rahman congratulates nephew GV Prakash Kumar on third National Award",
+    "desc": "GV Prakash Kumar received his third National Award for Best Music Direction. He won for his background score in the film Amaran. His maternal uncle, AR Rahman, congratulated him on this achievement. Rahman noted it was a proud family moment, celebrating their tenth National Award. This award further solidifies Prakash Kumar's prominent position in cinema.",
+    "img": "https://static.toiimg.com/photo/msid-132493972,imgsize-129362.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/ar-rahman-congratulates-nephew-gv-prakash-kumar-on-third-national-award-a-proud-moment-for-our-family/articleshow/132493960.cms",
+    "time": "2026-07-19T11:47:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CPI(M) protests detention of Sonam Wangchuk, seeks Education Minister’s resignation",
+    "desc": "The protesters burnt an effigy depicting Prime Minister Narendra Modi and Mr. Pradhan and symbolically broke an earthen pot as a mark of protest against what they described as the Union Government’s “communal and fascist policies”",
+    "img": "https://th-i.thgim.com/public/incoming/9aptqw/article71241202.ece/alternates/LANDSCAPE_1200/10258_19_7_2026_16_27_45_1_CPIM_PROTEST_1.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/kalaburagi-cpim-protests-detention-of-sonam-wangchuk-seeks-education-ministers-resignation/article71241176.ece",
+    "time": "2026-07-19T11:38:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tanishk Bagchi says Rs 8 lakh royalty for 'Saiyaara' feels 'like peanuts'",
+    "desc": "Music composer Tanishk Bagchi voiced dissatisfaction with royalty earnings for the 'Saiyaara' title track. He stated the financial returns did not match his dedicated creative efforts. Yash Raj Films responded, clarifying the song was a collaboration with three composers. Royalties are being shared equally among Tanishk Bagchi, Faheem Abdullah, and Arslan Nizami. All payments were made according to contractual terms and agreed-upon arrangements.",
+    "img": "https://static.toiimg.com/photo/msid-132493554,imgsize-302382.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/tanishk-bagchi-says-rs-8-lakh-royalty-for-saiyaara-feels-like-peanuts-as-aditya-chopras-production-house-issues-clarification-yrf-has-paid-every-collaborator-their-due-as-per-contract/articleshow/132493539.cms",
+    "time": "2026-07-19T11:18:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajesh Sharma discharged from hospital after health scare 'Fauzi' set",
+    "desc": "Veteran actor Rajesh Sharma has been discharged from the hospital after a health scare. He was admitted following an insect bite while filming Prabhas' upcoming movie 'Fauzi'. FWICE confirmed his recovery and return to Mumbai after treatment for complications. His sugar levels had risen, causing significant health issues during his recovery period. Sharma is expected to resume his work on the film sets in a few days.",
+    "img": "https://static.toiimg.com/photo/msid-132493479,imgsize-70254.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rajesh-sharma-discharged-from-hospital-after-health-scare-on-prabhas-fauzi-set-fwice-shares-health-update-he-will-resume-work-in-a-few-days/articleshow/132493466.cms",
+    "time": "2026-07-19T11:12:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Govt was within its right': Why Delhi HC backed Sonam Wangchuk's hospital shift",
+    "desc": "The Delhi high court rejected a plea to move Sonam Wangchuk to a private hospital. The court noted no force was used in his transfer to Safdarjung Hospital. Family members have been granted round-the-clock access to the fasting activist. Doctors are monitoring his health and administering oral substances with consent. The government acted within its rights to provide care for Wangchuk.",
+    "img": "https://static.toiimg.com/photo/msid-132493976,imgsize-870691.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/govt-was-within-its-right-why-delhi-hc-backed-sonam-wangchuks-hospital-shift/articleshow/132493321.cms",
+    "time": "2026-07-19T10:59:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Gautham Menon faces legal setback as Supreme Court upholds repayment",
+    "desc": "The Supreme Court has upheld a Madras High Court order against director Gautham Menon. He must now repay Rs 4.25 crore with 12 percent annual interest. This ruling concludes a financial dispute dating back to a 2008 film agreement. Menon's defense that 'Neethaane En Ponvasantham' fulfilled the contract was rejected. The apex court found no grounds to interfere with the High Court's findings.",
+    "img": "https://static.toiimg.com/photo/msid-132493310,imgsize-61020.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/gautham-menon-faces-legal-setback-as-supreme-court-upholds-rs-4-25-crore-repayment-order-with-steep-interest-after-neethaane-en-ponvasantham-defense-fails/articleshow/132493287.cms",
+    "time": "2026-07-19T10:50:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Big mistake': CJP founder Abhijeet Dipke accuses Delhi Police of 'kidnapping' Sonam Wangchuk",
+    "desc": "Climate activist Sonam Wangchuk was removed from the Jantar Mantar protest site. He had been on an indefinite hunger strike for over twenty days. Authorities moved him to Safdarjung Hospital for necessary medical monitoring. Protesters and the Cockroach Janta Party criticized this forceful removal. However, the Delhi High Court later upheld the government's decision.",
+    "img": "https://static.toiimg.com/photo/msid-132493206,imgsize-944964.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/big-mistake-cjp-founder-abhijeet-dipke-accuses-delhi-police-of-kidnapping-sonam-wangchuk/articleshow/132493205.cms",
+    "time": "2026-07-19T10:41:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delhi HC backs government's move to shift Sonam to hospital, says no force used",
+    "desc": "The Delhi HC upheld the Centre's decision to move Sonam Wangchuk to Safdarjung Hospital. The court found the government's action was not arbitrary given his health condition. His wife's petition for transfer to a private hospital was declined by the court. The court noted Wangchuk's family has been given unrestricted access to him.",
+    "img": "https://static.toiimg.com/photo/msid-132493069,imgsize-113919.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-relief-for-wangchuk-delhi-hc-backs-governments-move-to-shift-sonam-to-hospital-says-no-force-used/articleshow/132492735.cms",
+    "time": "2026-07-19T10:32:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Celina announces comeback film 'Sister Nibedita'",
+    "desc": "Celina Jaitly confirmed her acting comeback after a long hiatus. Her next project is 'Sister Nibedita,' a film inspired by Margaret Elizabeth Noble. She announced this news on X, sharing an emotional note with her followers. The film will chronicle the remarkable life of Margaret Elizabeth Noble, the Irish educator. This project marks Celina's first film after a lengthy break from the screen.",
+    "img": "https://static.toiimg.com/photo/msid-132493118,imgsize-277191.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/celina-jaitly-announces-comeback-film-sister-nibedita-amid-bitter-legal-and-custody-battle-with-estranged-husband-peter-haag-i-have-no-other-option/articleshow/132493119.cms",
+    "time": "2026-07-19T10:30:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why are players wearing black armbands during the India vs England Lord's ODI?",
+    "desc": "Players from India and England wore black armbands to honor Sir Gary Sobers. This tribute occurred before the third and final ODI match at Lord's. England captain Harry Brook won the toss and elected to bat first. India made several changes to their team due to player injuries. The match was significant with the ODI World Cup approaching.",
+    "img": "https://static.toiimg.com/photo/msid-132493066,imgsize-256724.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/why-are-players-wearing-black-armbands-during-the-india-vs-england-lords-odi/articleshow/132493088.cms",
+    "time": "2026-07-19T10:28:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rohit, Virat create history at Lord's, become first Indian pair to...",
+    "desc": "Rohit Sharma and Virat Kohli reached 400 international matches together. This milestone occurred during the third ODI against England at Lord's. Both players aim to win the 2027 Cricket World Cup. England won the toss and chose to bat first in the series decider. Jasprit Bumrah was ruled out of the match due to injury.",
+    "img": "https://static.toiimg.com/photo/msid-132492900,imgsize-226770.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/rohit-sharma-virat-kohli-create-history-in-3rd-odi-against-england-at-lords-become-first-indian-pair-to-/articleshow/132492867.cms",
+    "time": "2026-07-19T10:21:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jayden James Federline debunks Britney Spears clone theory",
+    "desc": "Britney Spears' 19-year-old son Jayden James Federline dismissed a viral \"clone theory\" about his mother during a July 17 livestream, calling the online speculation ridiculous and pointing out she's clearly active on social media. He reflected on how misinformation spreads easily online. The moment comes as Britney rebuilds her relationship with Jayden and older son Sean Preston, with ex-partner Sam Asghari also expressing happiness over their reconciliation.",
+    "img": "https://static.toiimg.com/photo/msid-132492872,imgsize-119860.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/like-bro-go-to-her-page-britney-spears-son-jayden-james-slams-ridiculous-viral-clone-conspiracy-theories/articleshow/132492831.cms",
+    "time": "2026-07-19T10:18:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hailey Bieber shares her postpartum fitness routine",
+    "desc": "After the arrival of her son Jack Blues Bieber, Hailey Bieber revealed a new postpartum fitness routine that emphasizes lifting heavy weights, moving away from her earlier focus on Pilates. Additionally, she has embraced authentic matcha tea as her go-to beverage while integrating lymphatic drainage massages to enhance her detoxification process and overall wellness, marking a major shift in her approach to health.",
+    "img": "https://static.toiimg.com/photo/msid-132492755,imgsize-244468.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/hailey-bieber-reveals-postpartum-fitness-routine-after-welcoming-son-jack-blues-explains-why-heavy-lifting-is-her-focus-over-pilates/articleshow/132492682.cms",
+    "time": "2026-07-19T10:08:57.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Sonakshi Sinha backs Sonam Wangchuk after forced hospital shift, urges peaceful protest",
     "desc": "Actor Sonakshi Sinha has once again voiced her support for activist Sonam Wangchuk, hours after Delhi Police moved him from the Jantar Mantar protest site to Safdarjung Hospital. In an Instagram video, Sinha called the move \"not right\" and urged Wangchuk's supporters to stay peaceful ahead of their planned July 20 march to Parliament.",
@@ -43,6 +268,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-ultimatum-star-blake-robertsons-assault-case-involving-hayley-hendrich-dismissed-records-expunged/articleshow/132492443.cms",
     "time": "2026-07-19T09:43:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Key differences between Homer’s Greek classic and Christopher Nolan’s 'The Odyssey'",
+    "desc": "While Christopher Nolan’s ‘The Odyssey’ is making its rounds in theatres and has already reported good box office numbers, fans have pointed out a few differences in the retelling of the Greek classic. While it was natural for the filmmaker to skip some pivotal scenes from Homer’s ‘Odyssey,’ specifically because of the text's sheer length—fans noticed that the film had quite a few aspects compared to how it was in Homer’s poem, even beyond the use of modern-day dialogue. Here are some instances from 2026's ‘The Odyssey’ that appear quite different from its reference text of Homer’s ‘Odyssey’.",
+    "img": "https://static.toiimg.com/photo/msid-132492493,imgsize-39736.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/from-homers-greek-classic-to-christopher-nolans-the-odyssey-key-differences-between-the-book-and-movie/photostory/132492493.cms",
+    "time": "2026-07-19T09:39:19.000Z"
   },
   {
     "cat": "Politics",
@@ -154,48 +388,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Angelina Jolie set to leave LA as all six kids turn adults",
-    "desc": "Angelina Jolie embarks on an exciting new chapter of her life, celebrating her youngest twins’ recent milestone of turning eighteen. After much contemplation, she intends to move out of California, seeking greater freedom and the chance to explore the world. With international travel and family visits taking precedence, Jolie is ready to embrace fresh experiences and adventures.",
-    "img": "https://static.toiimg.com/photo/msid-132491884,imgsize-98208.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/angelina-jolie-set-to-leave-la-after-twins-vivienne-jolie-pitt-and-knox-jolie-pitt-turn-18/articleshow/132491812.cms",
-    "time": "2026-07-19T08:34:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Matty Healy and Gabbriette Bechtel are married",
     "desc": "In a picturesque ceremony on July 18, Matty Healy and Gabbriette Bechtel said their 'I dos' at the luxurious Castillo del Lago, previously owned by Madonna in Hollywood Hills. Matty donned a stylish black tuxedo, while Gabbriette radiated in her exquisite white gown. The guest list featured familiar faces like Charli XCX and George Daniel. Their engagement was publicly confirmed in 2024 after subtle hints about their relationship surfaced.",
     "img": "https://static.toiimg.com/photo/msid-132491870,imgsize-88218.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/the-1975-frontman-matty-healy-and-model-gabbriette-bechtel-tie-the-knot-at-madonnas-historic-former-mansion/articleshow/132491776.cms",
     "time": "2026-07-19T08:30:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shaquille O'Neal congratulates Taylor Swift and Travis Kelce",
-    "desc": "Shaquille O'Neal humorously thanked Taylor Swift and Travis Kelce for their wedding. The famous couple married on July 3, 2026, at Madison Square Garden. Nearly one thousand guests reportedly attended the lavish New York City ceremony. Shaq expressed his best wishes for the newlyweds' lasting happiness. He made his comments at Fanatics Fest in New York City.",
-    "img": "https://static.toiimg.com/photo/msid-132491501,imgsize-295054.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/shaquille-oneal-sarcastically-shares-four-words-for-taylor-swift-and-travis-kelce-after-not-being-invited-to-the-wedding-ceremony/articleshow/132491503.cms",
-    "time": "2026-07-19T08:13:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "KPCC cracks whip on party workers feuding over government policy, postings",
-    "desc": "KPCC general secretary Deepthi Mary Varghese has issued a broad set of guidelines, cautioning party apparatchiks against airing broad-brush individualised statements on television talk shows and also social media, which risked feeding the public perception that the party was a divided house",
-    "img": "https://th-i.thgim.com/public/incoming/urn4nc/article71240912.ece/alternates/LANDSCAPE_1200/Deepthy-Mary-VaGVQFBJOOL.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kpcc-cracks-whip-on-party-workers-feuding-over-government-policy-postings/article71240892.ece",
-    "time": "2026-07-19T08:04:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tamil Nadu CM Vijay congratulates Tamil National Award winners",
-    "desc": "Tamil Nadu Chief Minister Vijay congratulated the Tamil film industry for its ten National Film Awards. He expressed great pride as Tamil cinema secured these significant national honours. Several award winners, including GV Prakash Kumar, thanked the Chief Minister for his warm wishes. This recognition comes as excitement builds for Vijay's upcoming film 'Jana Nayagan'. Tamil cinema celebrated a highly successful outing at this year's National Film Awards.",
-    "img": "https://static.toiimg.com/photo/msid-132491545,imgsize-231064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/tamil-nadu-cm-vijay-congratulates-dhanush-gv-prakash-and-tamil-national-award-winners-after-historic-10-win-haul-great-pride-that-tamil-cinema-has-secured-these-honours/articleshow/132491529.cms",
-    "time": "2026-07-19T08:02:13.000Z"
   },
   {
     "cat": "Politics",
@@ -205,24 +403,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/uttar-pradesh/faith-and-its-fallout/article71237666.ece",
     "time": "2026-07-19T07:49:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Al Pacino",
-    "desc": "Al Pacino, turning eighty-six in April 2026, continues his prolific acting career. He recently premiered 'Killing Castro' and received the Sam Wanamaker Award for his theatre contributions. A quote from his 1996 film 'City Hall' emphasizes judging people with care and understanding. Pacino's life, like his quote suggests, is defined by the unseen mortar, not just visible bricks.",
-    "img": "https://static.toiimg.com/photo/msid-132491368,imgsize-97246.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-al-pacino-be-careful-how-you-judge-people-most-of-all-friends-you-dont-sum-up-a-mans-life-in-one-moment-when-the-godfather-legend-gave-life-lesson-on-seeing-beyond-fleeting-moments-and-first-impressions/articleshow/132491294.cms",
-    "time": "2026-07-19T07:47:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala Government declares July 20 an educational holiday on account of the Argentina-Spain FIFA World Cup final",
-    "desc": "Football fans and associations across Kerala greeted the government’s decision with much fanfare. Fans, residents’ associations and sports clubs have set up huge wall-sized LED screens in public squares and parks to broadcast the spirit of the match to the audience.",
-    "img": "https://th-i.thgim.com/public/incoming/g6l6bw/article71240903.ece/alternates/LANDSCAPE_1200/Worldcup_final_02.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-government-declares-july-20-an-educational-holiday-on-account-of-the-argentina-spain-fifa-world-cup-final/article71240877.ece",
-    "time": "2026-07-19T07:43:59.000Z"
   },
   {
     "cat": "Sports",
@@ -252,24 +432,6 @@ const newsData_en = [
     "time": "2026-07-19T07:28:05.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Melanie Chisholm marries Chris Dingwall in intimate wedding",
-    "desc": "Melanie Chisholm, formerly Sporty Spice, wed Australian model Chris Dingwall. The intimate ceremony occurred at a country house in northwest England. Her former Spice Girls bandmates Geri Horner, Mel B, and Emma Bunton attended. Victoria Beckham, unable to attend, designed the bride's wedding gown. Chisholm relocated to Sydney in early 2025 for a coaching role.",
-    "img": "https://static.toiimg.com/photo/msid-132491106,imgsize-211394.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sporty-spice-melanie-chisholm-marries-australian-model-chris-dingwall-in-victoria-beckham-designed-gown/articleshow/132491056.cms",
-    "time": "2026-07-19T07:20:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Strict instructions to theatres ahead of Vijay's 'Jana Nayagan' release",
-    "desc": "Theatres received strict instructions for the upcoming release of Vijay's final film, Jana Nayagan. Ticket prices must adhere to government-approved rates, and no exceptions will be permitted. Viewers under eighteen will be denied entry due to the film's 'A' certificate rating. These regulations aim to ensure a smooth release without any political controversy. Advance bookings are open in neighboring states, with Tamil Nadu sales expected soon.",
-    "img": "https://static.toiimg.com/photo/msid-132491116,imgsize-261096.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-strict-instructions-issued-to-theatres-ahead-of-vijays-final-film-as-tamil-nadu-bookings-to-open-soon/articleshow/132491103.cms",
-    "time": "2026-07-19T07:18:02.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Final rites of Chennamma Deve Gowda at foothills of Ranganatha Swamy Betta at Mavinakere",
     "desc": "The mortal remains of Chennamma will be brought to Holenarasipur by Sunday (July 19, 2026) evening. The public will be allowed to pay their last respects to her at the residence of former Minister H. D. Revanna in Holenarasipur",
@@ -286,33 +448,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/madhya-pradesh/bjp-claiming-fake-credit-for-raising-land-acquisition-compensation-for-farmers-law-made-by-upa-govt-says-congress/article70897961.ece",
     "time": "2026-07-19T07:00:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sai Pallavi's journey: From stage fright to playing Sita",
-    "desc": "Sai Pallavi's passion for dance began young, overcoming an early stage fright incident. She pursued medicine while also acting, later achieving fame with 'Premam'. Her career evolved with diverse roles and popular dance numbers across India. Now, she prepares for a significant role as Goddess Sita in Nitesh Tiwari's 'Ramayana'. This ambitious project marks a new chapter in her inspiring acting journey.",
-    "img": "https://static.toiimg.com/photo/msid-132490999,imgsize-248226.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/sai-pallavi-overcame-stage-fright-to-become-sita-in-nitesh-tiwaris-ramayana-opposite-ranbir-kapoor-a-look-at-her-inspiring-journey/articleshow/132490958.cms",
-    "time": "2026-07-19T06:59:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Katrina gives glimpse of birthday celebration with Vicky and baby Vihaan",
-    "desc": "Katrina Kaif shared intimate birthday photos with husband Vicky Kaushal and son Vihaan. She described motherhood as her greatest blessing and called it her best birthday. The couple protected their son's privacy by keeping his face hidden in pictures. Katrina and Vicky welcomed their first child, Vihaan Kaushal, earlier this year. The actor is currently focusing on family and has not announced new film projects.",
-    "img": "https://static.toiimg.com/photo/msid-132490934,imgsize-192136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/katrina-kaif-gives-glimpse-of-birthday-celebration-with-vicky-kaushal-and-baby-vihaan-pens-an-emotional-note-calling-it-the-best-birthday/articleshow/132490936.cms",
-    "time": "2026-07-19T06:51:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Who is Ashlyn Castro? Footballer Jude Bellingham's girlfriend",
-    "desc": "Jude Bellingham achieved a historic seven goals in the FIFA World Cup 2026. He celebrated his team's third-place finish with a heartfelt message. The footballer's relationship with model Ashlyn Castro has garnered significant public attention. Castro is an internet personality known for fashion and lifestyle content creation. Their relationship was confirmed after public sightings following a Real Madrid match.",
-    "img": "https://static.toiimg.com/photo/msid-132490857,imgsize-262689.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/who-is-ashlyn-castro-british-footballer-jude-bellinghams-rumoured-girlfriend/articleshow/132490833.cms",
-    "time": "2026-07-19T06:46:01.000Z"
   },
   {
     "cat": "Politics",
@@ -396,15 +531,6 @@ const newsData_en = [
     "time": "2026-07-19T04:49:01.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Your silence is unacceptable': Rahul, Kharge write to PM Modi on Ram Mandir donation theft",
-    "desc": "Demanding a probe into financial affairs of Shri Ram Janmabhoomi Teerth Kshetra Trust, both the leaders said that the \"findings and the Trust's accounts should be made public so that every devotee knows how their offerings have been utilised\". ​Ahead of the Monoon Session of the Parliament, the leader of the opposition in the Lok Sabha, Rahul Gandhi, and the Rajya Sabha, Mallikarjun Kharge, urged PM to \"immediately order an independent and comprehensive investigation.",
-    "img": "https://static.toiimg.com/photo/msid-132489981,imgsize-153158.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/your-silence-is-unacceptable-rahul-kharge-write-to-pm-modi-on-ram-mandir-donation-theft/articleshow/132489876.cms",
-    "time": "2026-07-19T04:41:02.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "LA Knight Riders clinch maiden title with one-run win over Freedom",
     "desc": "Needing 14 runs off the final over, Washington Freedom looked favourites after Obus Pienaar smashed the first ball for six. But Shadley van Schalkwyk produced three wickets in the last five deliveries, including a run-out off the final ball, to spark wild celebrations as the LA Knight Riders became MLC's newest champions.",
@@ -412,33 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/major-league-cricket/mlc-2026-la-knight-riders-clinch-maiden-title-with-thrilling-one-run-win-over-washington-freedom/articleshow/132489627.cms",
     "time": "2026-07-19T03:56:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Perfect ending': FIFA calls Messi vs Yamal WC final 'blessing from football gods'",
-    "desc": "FIFA president Gianni Infantino has hailed the 2026 World Cup final between Argentina and Spain as \"a blessing from the football gods\", describing Lionel Messi versus Lamine Yamal as the perfect ending to what he believes is the greatest World Cup in history. He predicted the final would captivate billions worldwide despite the tournament's controversies and criticism.",
-    "img": "https://static.toiimg.com/photo/msid-132489462,imgsize-41878.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/perfect-ending-fifa-president-calls-messi-vs-yamal-world-cup-final-blessing-from-football-gods/articleshow/132489407.cms",
-    "time": "2026-07-19T03:29:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Overnight rain brings J&amp;K's Rajouri to a standstill as flash floods wreak havoc",
-    "desc": "More than 50 families living near Abdullah Bridge were forced to leave their homes after floodwaters flooded the settlement. Another locality near Tariq Bridge was also affected, prompting police to respond to distress calls and help residents move to safer places away from the riverbanks. Rescue and relief teams, assisted by the district administration, were deployed to evacuate affected families and assess the damage.",
-    "img": "https://static.toiimg.com/photo/msid-132489457,imgsize-211993.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/overnight-rain-brings-jks-rajouri-to-a-standstill-as-flash-floods-wreak-havoc/articleshow/132489386.cms",
-    "time": "2026-07-19T03:24:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Argentina eye history, could become first team to ...",
-    "desc": "Argentina aims for a historic consecutive FIFA World Cup title win. Spain enters the final on an impressive thirty-seven-match unbeaten streak. Lionel Messi faces Spain, a nation significant to his career and life. Both teams are considered outstanding and possess considerable football talent. The final promises a great show between two supernational teams.",
-    "img": "https://static.toiimg.com/photo/msid-132489388,imgsize-52625.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-final-lionel-messis-argentina-eye-history-could-become-first-team-in-64-years-to-/articleshow/132489382.cms",
-    "time": "2026-07-19T03:10:45.000Z"
   },
   {
     "cat": "World",
@@ -469,30 +568,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Bukayo Saka joins exclusive England World Cup hat-trick club after breaking 60-year record",
-    "desc": "Bukayo Saka delivered a historic World Cup performance, scoring a hat-trick as England defeated France 6-4 in the third-place playoff. The Arsenal star became only the fourth England men's player to score a World Cup treble and the first in the knockout stage since Sir Geoff Hurst. His display also reignited debate over his semifinal omission against Argentina.",
-    "img": "https://static.toiimg.com/photo/msid-132488941,imgsize-84040.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/bukayo-saka-joins-exclusive-england-world-cup-hat-trick-club-after-breaking-60-year-record/articleshow/132488810.cms",
-    "time": "2026-07-19T01:15:51.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "The tactical evolution that has Spain one win from FIFA World Cup glory",
     "desc": "Spain have quietly put together one of the most complete tactical campaigns of the World Cup, reaching the final with a new identity that goes beyond the tiki-taka era. Under Luis de la Fuente, La Roja have blended control with verticality, aggression and defensive discipline, shutting down elite attacks while playing with purpose. Now, only Lionel Messi's Argentina stand between Spain and a second World Cup title.",
     "img": "https://static.toiimg.com/photo/msid-132488926,imgsize-59138.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/beyond-tiki-taka-the-tactical-evolution-that-has-spain-one-win-from-fifa-world-cup-glory/articleshow/132488893.cms",
     "time": "2026-07-19T01:11:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mbappe breaks Messi's all-time WC goal record; Saka hat-trick fails France in 10-goal thriller",
-    "desc": "England emerged victorious in an exhilarating 6-4 clash against France during the third-place playoff. Kylian Mbappé marked his place in history as the World Cup's leading goal scorer. Bukayo Saka showcased his talent by netting a remarkable hat-trick, while Jude Bellingham secured England's bronze medal with a final flourish. France's aspirations to equalize fell short amid the high-scoring excitement of the match.",
-    "img": "https://static.toiimg.com/photo/msid-132488663,imgsize-245014.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/france-vs-england-fifa-world-cup-third-place-match-result-kylian-mbappe-breaks-all-time-wc-goal-record-as-bukayo-saka-hat-trick-fails-france-in-10-goal-thriller/articleshow/132488663.cms",
-    "time": "2026-07-18T23:19:38.000Z"
   },
   {
     "cat": "Sports",
@@ -520,24 +601,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/no-concerns-with-the-way-rohit-sharma-is-batting-indias-bowling-coach-morne-morkel/article71238577.ece",
     "time": "2026-07-18T21:16:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Quicksand in Chennai’s Pallikaranai marshland",
-    "desc": "The first expansion of the city of Chennai in modern times happened along its southern stretch. As the government in its wisdom decided to locate the IT corridor in south Chennai, breathless development happened over a couple of decades, right around a rich natural reserve, the Pallikaranai marshland. Today, two decades later, there’s a conflict that pits development against preservation. This report attempts to pull together the several threads that have brought this particular tapestry to the fore today",
-    "img": "https://th-i.thgim.com/public/incoming/2x5x0u/article71239220.ece/alternates/LANDSCAPE_1200/DJI_20260718100734_0076_D.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/quicksand-in-pallikaranai-marshland-in-chennai/article71239210.ece",
-    "time": "2026-07-18T20:14:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "T.N. government to celebrate State’s history on both July 18 and November 1, says Vijay",
-    "desc": "When the AIADMK was in power, the then Chief Minister Edappadi K. Palaniswami announced that November 1 would be celebrated as Tamil Nadu Day. However, after the DMK came to power in 2021, it changed the observance to July 18",
-    "img": "https://th-i.thgim.com/public/incoming/h62mn8/article71238309.ece/alternates/LANDSCAPE_1200/DSC_7115.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-government-to-celebrate-states-history-on-both-july-18-and-november-1-says-vijay/article71238296.ece",
-    "time": "2026-07-18T19:19:45.000Z"
   },
   {
     "cat": "World",
@@ -835,68 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/trump-to-attend-fifa-argentina-vs-spain-world-cup-final-on-july-19-white-house/article71232541.ece",
     "time": "2026-07-17T05:15:15.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "What’s new in the draft CAFE-III norms?",
-    "desc": "The latest draft leaves most of the April proposal unchanged, suggesting the government has broadly stuck to the compromise it arrived at after months of intense negotiations between manufacturers of small cars and larger SUVs.",
-    "img": "https://th-i.thgim.com/public/incoming/ol1hai/article71232756.ece/alternates/LANDSCAPE_1200/Ethanol%20side%20effects%20in%20vehicles%20E%2020%207.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/whats-new-in-the-draft-cafe-iii-norms-explained/article71232676.ece",
-    "time": "2026-07-17T04:57:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Tax Department will soon let you see the data it has on your foreign assets and income",
-    "desc": "The Central Board of Direct Taxes will soon make the information it receives from its partner jurisdictions available on the Annual Information Statement of all eligible taxpayers, in a move to enhance taxpayer services and promote voluntary tax compliance, sources said",
-    "img": "https://th-i.thgim.com/public/incoming/kfuoxe/article71230543.ece/alternates/LANDSCAPE_1200/BLIT_GTVFDFDRJ.1GG4FDFMCM.3.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/central-board-of-direct-taxes-taxpayers-information-india-foreign-assets-income/article71230395.ece",
-    "time": "2026-07-16T14:34:17.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Centre floats another draft of CAFE-III, gives special recognition to ethanol and biofuel cars",
-    "desc": "Industry stakeholders have until August 6 to respond to the latest draft; the proposed CAFE norms have sharply divided the automobile industry, with manufacturers of smaller and larger vehicles taking opposing positions and competing proposals emerging over how the regulations should be framed",
-    "img": "https://th-i.thgim.com/public/business/wmmmnq/article71229168.ece/alternates/LANDSCAPE_1200/iStock-942740004.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/centre-floats-another-draft-of-cafe-iii-gives-special-recognition-to-ethanol-and-bio-fuel-cars/article71229082.ece",
-    "time": "2026-07-16T09:58:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "What has been the impact of ethanol blending?",
-    "desc": "How are petrol vehicle owners reacting to the E20 mandate? How environmentally friendly is India’s dependence on sugarcane for ethanol? How has the U.S. reacted to India’s booming ethanol economy? Why has the adoption of EVs in India been much slower compared to other large economies?",
-    "img": "https://th-i.thgim.com/public/incoming/p6ebqq/article69944975.ece/alternates/LANDSCAPE_1200/PTI12_15_2024_000182B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/what-has-been-the-impact-of-ethanol-blending/article69943693.ece",
-    "time": "2026-07-16T09:40:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Varanasi art collective Mysticeti enters children’s publishing with ‘Bapa Wants Fish’",
-    "desc": "Founded by Stuti Sareen, Varanasi-based art community Mysticeti is expanding into children’s publishing with Bapa Wants Fish, a limited-edition book inspired by 1990s Odisha that explores family, food, emotional resilience and mental health through a child’s perspective",
-    "img": "https://th-i.thgim.com/public/life-and-style/fashion/ho9s4o/article71220111.ece/alternates/LANDSCAPE_1200/bapawantsfish%2010.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/books/varanasi-art-collective-mysticeti-enters-childrens-publishing-with-bapa-wants-fish/article71220067.ece",
-    "time": "2026-07-16T09:01:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Thazhappattu makes it to school curriculum",
-    "desc": "Screwpine art, which involves transforming simple leaves into green, sustainable thazhappas (mats) — a craft that was once a thriving cottage industry in Thazhava but has slowly declined due to modern challenges – receives a significant tribute in the form of Thazhappattu, a song written by Ani Mank.",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/28rcyt/article71225171.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-15%20at%203.12.15%20PM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/an-anthem-for-a-vanishing-craft-thazhappattu-makes-it-to-school-curriculum/article71225160.ece",
-    "time": "2026-07-16T08:20:05.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Government hikes windfall tax on diesel, ATF; cuts levy on petrol exports",
-    "desc": "The rate of Special Additional Excise Duty (SAED) on diesel exports has been increased to ₹15.5 a litre from ₹8.5 a litre; similarly, SAED on ATF exports has been raised to ₹14.5 per litre from ₹7.5 per litre till July 15",
-    "img": "https://th-i.thgim.com/public/incoming/393w1c/article71228710.ece/alternates/LANDSCAPE_1200/2026-06-08T104630Z_784983082_RC2MPLA275FA_RTRMADP_3_INDIA-REFINERY-BPCL.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/government-hikes-windfall-tax-on-diesel-atf-cuts-levy-on-petrol-exports/article71228678.ece",
-    "time": "2026-07-16T06:01:40.000Z"
   }
 ];

@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "অনায়াসে পাস করানো যাবে ডিলিমিটেশন বিল? সেই লক্ষ্যেই বিরোধীশিবিরে ভাঙনের রহস্যঅঙ্ক? এনডিএ-র কৌশল",
+    "desc": "রাজনৈতিক পুনর্বিন্যাস? তা কি জরুরি? হ্যাঁ, এনডিএ-র তাই মত। আর এহেন ডিলিমিটেশন বিলকে সামনে রেখেই সংসদে নিজেদের আরও পোক্ত জায়গায় নিয়ে যাচ্ছে তারা। সংসদের দুই কক্ষে সংখ্যার অঙ্ক আরও পোক্ত করতে তৎপর বিজেপি নেতৃত্বাধীন এনডিএ। রাজনৈতিক মহলের একাংশের মতে, সেই লক্ষ্যেই বিরোধী শিবিরের অসন্তুষ্ট সাংসদদের সরাসরি বিজেপিতে না এনে জোটের শরিক দলগুলিতে অন্তর্ভুক্ত করার এই কৌশল।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/to-pass-delimitation-bill-nda-targetting-landslides-in-opposition-the-mathematics-of-number_663038.html ",
+    "time": "2026-07-19T10:27:22.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "রামমন্দির ডোনেশন-কাণ্ডে এবার মোদীকে তীব্র আক্রমণ! প্রধানমন্ত্রীকে যৌথভাবে চিঠি রাহুল-খাড়্গের",
     "desc": "সংসদে বাদল অধিবেশন শুরুর আগে রামমন্দির নিয়ে প্রধানমন্ত্রীকে চিঠি লিখে চাপ বাড়ালেন রাহুল গান্ধী, মল্লিকার্জুন খাড়গে। ঘটনার যাবতীয় দায় প্রধানমন্ত্রী, আরএসএস এবং বিশ্ব হিন্দু পরিষদের বলে অভিযোগ তাঁদের। মন্দিরের যাবতীয় দান, লেনদেন প্রকাশ্যে আনার দাবি। নিরপেক্ষ এজেন্সিকে দিয়ে তদন্তের দাবি।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -124,15 +133,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/aamir-khan-says-his-3-idiots-role-not-based-on-wangchuk-amid-his-hunger-strike_662796.html ",
     "time": "2026-07-17T10:17:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CBSE-তে ক্লাস নাইন থেকে চালু হবে তৃতীয় ভাষা? কেন্দ্রকে স্পষ্ট নির্দেশ সুপ্রিম কোর্টের",
-    "desc": "আদালতের স্পষ্ট বক্তব্য, ভাষাশিক্ষার উদ্যোগ নেওয়া ভালো, কিন্তু তার বাস্তবায়ন যুক্তিপূর্ণ হওয়া উচিত। বিচারপতি আর মহাদেবন এবং বিচারপতি বি ভি নাগরত্না-এর ডিভিশন বেঞ্চ বলে, যদি তৃতীয় ভাষা চালু করতেই হয়, তাহলে তা পঞ্চম বা ষষ্ঠ শ্রেণি থেকেই শুরু করা উচিত।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/supreme-court-says-cbse-not-to-start-third-language-in-class-9_662792.html ",
-    "time": "2026-07-17T09:14:09.000Z"
   },
   {
     "cat": "Entertainment",
@@ -277,5 +277,23 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/celebrity-personal-life-vs-professional-success-audience-perception-aamir-khan-wedding_661307.html ",
     "time": "2026-07-06T16:05:24.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
+    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
+    "time": "2026-06-01T03:50:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
+    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
+    "time": "2026-05-23T05:15:29.000Z"
   }
 ];
