@@ -1,12 +1,219 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Tamil Nadu CM Vijay congratulates Tamil National Award winners",
+    "desc": "Tamil Nadu Chief Minister Vijay congratulated the Tamil film industry for its ten National Film Awards. He expressed great pride as Tamil cinema secured these significant national honours. Several award winners, including GV Prakash Kumar, thanked the Chief Minister for his warm wishes. This recognition comes as excitement builds for Vijay's upcoming film 'Jana Nayagan'. Tamil cinema celebrated a highly successful outing at this year's National Film Awards.",
+    "img": "https://static.toiimg.com/photo/msid-132491545,imgsize-231064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/tamil-nadu-cm-vijay-congratulates-dhanush-gv-prakash-and-tamil-national-award-winners-after-historic-10-win-haul-great-pride-that-tamil-cinema-has-secured-these-honours/articleshow/132491529.cms",
+    "time": "2026-07-19T08:02:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Al Pacino",
+    "desc": "Al Pacino, turning eighty-six in April 2026, continues his prolific acting career. He recently premiered 'Killing Castro' and received the Sam Wanamaker Award for his theatre contributions. A quote from his 1996 film 'City Hall' emphasizes judging people with care and understanding. Pacino's life, like his quote suggests, is defined by the unseen mortar, not just visible bricks.",
+    "img": "https://static.toiimg.com/photo/msid-132491368,imgsize-97246.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-al-pacino-be-careful-how-you-judge-people-most-of-all-friends-you-dont-sum-up-a-mans-life-in-one-moment-when-the-godfather-legend-gave-life-lesson-on-seeing-beyond-fleeting-moments-and-first-impressions/articleshow/132491294.cms",
+    "time": "2026-07-19T07:47:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala Government declares July 20 an educational holiday on account of the Argentina-Spain FIFA World Cup final",
+    "desc": "Football fans and associations across Kerala greeted the government’s decision with much fanfare. Fans, residents’ associations and sports clubs have set up huge wall-sized LED screens in public squares and parks to broadcast the spirit of the match to the audience.",
+    "img": "https://th-i.thgim.com/public/incoming/g6l6bw/article71240903.ece/alternates/LANDSCAPE_1200/Worldcup_final_02.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-government-declares-july-20-an-educational-holiday-on-account-of-the-argentina-spain-fifa-world-cup-final/article71240877.ece",
+    "time": "2026-07-19T07:43:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "KPCC cracks whip on party workers feuding over government policy, postings",
+    "desc": "KPCC general secretary Deepthi Mary Varghese has issued a broad set of guidelines, cautioning party apparatchiks against airing broad-brush individualised statements on television talk shows and also social media, which risked feeding the public perception that the party was a divided house",
+    "img": "https://th-i.thgim.com/public/incoming/urn4nc/article71240912.ece/alternates/LANDSCAPE_1200/Deepthy-Mary-VaGVQFBJOOL.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kpcc-cracks-whip-on-party-workers-feuding-over-government-policy-postings/article71240892.ece",
+    "time": "2026-07-19T07:41:27.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Russian missiles strike Kyiv killing one, wounding 13",
+    "desc": "A series of powerful explosions thundered in the ‌night, as Ukraine’s air force warned of a ballistic missile threat; Several non-residential buildings and warehouses were struck in the attack, ​while parked cars ‌and office buildings were on fire in several districts, Kyiv Mayor said",
+    "img": "https://th-i.thgim.com/public/incoming/jwqxw1/article71240896.ece/alternates/LANDSCAPE_1200/2026-07-19T065631Z_198702073_RC2UGMA3087T_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/russia-ukraine-war-missile-attack-on-kyiv-death-toll-injuries/article71240891.ece",
+    "time": "2026-07-19T07:28:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Tear gas guns arrived': CJP says BJP 'goons', Delhi Police lurking to 'create mischief'",
+    "desc": "In another post, the CJP posted a photo of a security personnel sitting with a tear gas gun at the protest site. Earlier, Wangchuk described the proposed July 20 Parliament march as India's \"second freedom movement\", calling for \"freedom from fear\" and \"freedom from injustice\" while urging supporters to make the mobilisation a \"big success\".",
+    "img": "https://static.toiimg.com/photo/msid-132491290,imgsize-126909.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tear-gas-guns-arrived-cjp-says-bjp-goons-delhi-police-lurking-to-create-mischief/articleshow/132489743.cms",
+    "time": "2026-07-19T07:28:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Melanie Chisholm marries Chris Dingwall in intimate wedding",
+    "desc": "Melanie Chisholm, formerly Sporty Spice, wed Australian model Chris Dingwall. The intimate ceremony occurred at a country house in northwest England. Her former Spice Girls bandmates Geri Horner, Mel B, and Emma Bunton attended. Victoria Beckham, unable to attend, designed the bride's wedding gown. Chisholm relocated to Sydney in early 2025 for a coaching role.",
+    "img": "https://static.toiimg.com/photo/msid-132491106,imgsize-211394.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sporty-spice-melanie-chisholm-marries-australian-model-chris-dingwall-in-victoria-beckham-designed-gown/articleshow/132491056.cms",
+    "time": "2026-07-19T07:20:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Strict instructions to theatres ahead of Vijay's 'Jana Nayagan' release",
+    "desc": "Theatres received strict instructions for the upcoming release of Vijay's final film, Jana Nayagan. Ticket prices must adhere to government-approved rates, and no exceptions will be permitted. Viewers under eighteen will be denied entry due to the film's 'A' certificate rating. These regulations aim to ensure a smooth release without any political controversy. Advance bookings are open in neighboring states, with Tamil Nadu sales expected soon.",
+    "img": "https://static.toiimg.com/photo/msid-132491116,imgsize-261096.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-strict-instructions-issued-to-theatres-ahead-of-vijays-final-film-as-tamil-nadu-bookings-to-open-soon/articleshow/132491103.cms",
+    "time": "2026-07-19T07:18:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Final rites of Chennamma Deve Gowda at foothills of Ranganatha Swamy Betta at Mavinakere",
+    "desc": "The mortal remains of Chennamma will be brought to Holenarasipur by Sunday (July 19, 2026) evening. The public will be allowed to pay their last respects to her at the residence of former Minister H. D. Revanna in Holenarasipur",
+    "img": "https://th-i.thgim.com/public/incoming/1ewql0/article71240868.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-19%20at%2010.50.18%20AM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/final-rites-of-chennamma-deve-gowda-at-foothills-of-ranganatha-swamy-betta-at-mavinakere/article71240854.ece",
+    "time": "2026-07-19T07:04:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP claiming ‘fake credit’ for raising land acquisition compensation for farmers; law made by UPA govt, says Congress",
+    "desc": "The Madhya Pradesh Cabinet had approved an increase in the multiplication factor applicable to land acquisition in rural areas from 1.0 to 2.0. to provide farmers with compensation up to four times the market price",
+    "img": "https://th-i.thgim.com/public/incoming/ceexns/article70899303.ece/alternates/LANDSCAPE_1200/20260422165L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/bjp-claiming-fake-credit-for-raising-land-acquisition-compensation-for-farmers-law-made-by-upa-govt-says-congress/article70897961.ece",
+    "time": "2026-07-19T07:00:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sai Pallavi's journey: From stage fright to playing Sita",
+    "desc": "Sai Pallavi's passion for dance began young, overcoming an early stage fright incident. She pursued medicine while also acting, later achieving fame with 'Premam'. Her career evolved with diverse roles and popular dance numbers across India. Now, she prepares for a significant role as Goddess Sita in Nitesh Tiwari's 'Ramayana'. This ambitious project marks a new chapter in her inspiring acting journey.",
+    "img": "https://static.toiimg.com/photo/msid-132490999,imgsize-248226.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/sai-pallavi-overcame-stage-fright-to-become-sita-in-nitesh-tiwaris-ramayana-opposite-ranbir-kapoor-a-look-at-her-inspiring-journey/articleshow/132490958.cms",
+    "time": "2026-07-19T06:59:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Katrina gives glimpse of birthday celebration with Vicky and baby Vihaan",
+    "desc": "Katrina Kaif shared intimate birthday photos with husband Vicky Kaushal and son Vihaan. She described motherhood as her greatest blessing and called it her best birthday. The couple protected their son's privacy by keeping his face hidden in pictures. Katrina and Vicky welcomed their first child, Vihaan Kaushal, earlier this year. The actor is currently focusing on family and has not announced new film projects.",
+    "img": "https://static.toiimg.com/photo/msid-132490934,imgsize-192136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/katrina-kaif-gives-glimpse-of-birthday-celebration-with-vicky-kaushal-and-baby-vihaan-pens-an-emotional-note-calling-it-the-best-birthday/articleshow/132490936.cms",
+    "time": "2026-07-19T06:51:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Who is Ashlyn Castro? Footballer Jude Bellingham's girlfriend",
+    "desc": "Jude Bellingham achieved a historic seven goals in the FIFA World Cup 2026. He celebrated his team's third-place finish with a heartfelt message. The footballer's relationship with model Ashlyn Castro has garnered significant public attention. Castro is an internet personality known for fashion and lifestyle content creation. Their relationship was confirmed after public sightings following a Real Madrid match.",
+    "img": "https://static.toiimg.com/photo/msid-132490857,imgsize-262689.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/who-is-ashlyn-castro-british-footballer-jude-bellinghams-rumoured-girlfriend/articleshow/132490833.cms",
+    "time": "2026-07-19T06:46:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The fine art of creating blood donors at home; and resources for those in Chennai seeking to donate blood",
+    "desc": "A leitmotif among blood donation organisations is the increasing difficulty in finding people with “generous veins”; and the solution could strangely be found in the living rooms of households, as illustrated by these two accounts from Chennai of parents inspiring their children to join the cause",
+    "img": "https://th-i.thgim.com/public/incoming/673uxp/article71239301.ece/alternates/LANDSCAPE_1200/19dc%20Shaikhs%20.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/collective-kindness-when-families-support-the-cause-of-blood-donation/article71239297.ece",
+    "time": "2026-07-19T06:44:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sleepless nights, depressing times, and then a Grandmaster: Making of Rathanvel VS",
+    "desc": "After four-and-a-half years of heartbreak, sleepless nights and repeated near-misses, Rathanvel VS finally crossed the 2500 Elo mark to become India's 99th Grandmaster. From discovering chess through a free board to overcoming injuries, financial setbacks and crushing disappointments, the 2001-born Coimbatore player's perseverance, family support and belief transformed a long-awaited dream into reality.",
+    "img": "https://static.toiimg.com/photo/msid-132490804,imgsize-131488.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/indias-99th-gm-sleepless-nights-depressing-times-and-then-a-chess-grandmaster-the-making-of-rathanvel-vs/articleshow/132490725.cms",
+    "time": "2026-07-19T06:32:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salman dodges Maatrubhumi queries with a humorous response",
+    "desc": "Salman Khan visited Mumbai's SRA office, inaugurated a new IT centre, and distributed house keys. He playfully dodged 'Maatrubhumi' questions, saying, \"Ask me anything, not that one.\" SKF denied reports of CBFC issues with the film. Salman's next, an actioner with Nayanthara, is set for Eid 2027.",
+    "img": "https://static.toiimg.com/photo/msid-132490790,imgsize-325268.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ask-me-anything-not-that-one-question-salman-khan-dodges-maatrubhumi-queries-with-a-humorous-response-at-mumbai-event/articleshow/132490790.cms",
+    "time": "2026-07-19T06:32:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jim Parsons discusses the negative side of ‘The Big Bang Theory’",
+    "desc": "Jim Parsons recently opened up about the darker side of his role on The Big Bang Theory, sharing how the immense pressure led to feelings of stress and unhappiness during its height. He emphasized that no sum of money would convince him to relive that challenging time. Now, Parsons is focusing on improving his relationship with his past work and finding balance.",
+    "img": "https://static.toiimg.com/photo/msid-132490614,imgsize-39362.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jim-parsons-says-the-big-bang-theory-made-him-miserable-i-wouldnt-do-that-again-and-for-any-amount-of-money/articleshow/132490583.cms",
+    "time": "2026-07-19T06:08:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sivakarthikeyan hails team after 'Amaran' clinches three National Awards",
+    "desc": "Sivakarthikeyan celebrated Amaran's three National Film Awards wins. He congratulated director Rajkumar Periasamy for Best Director. GV Prakash Kumar received Best Music Direction for the background score. R Kalaivanan was honored with the Best Editing award. The film's success marks another significant achievement for the team.",
+    "img": "https://static.toiimg.com/photo/msid-132490577,imgsize-169882.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sivakarthikeyan-hails-rajkumar-periasamy-gv-prakash-and-team-after-amaran-clinches-three-national-awards-wins-a-proud-day/articleshow/132490567.cms",
+    "time": "2026-07-19T06:06:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "J&K: Amarnath, Vaishno Devi, Shiv Khori pilgrimages suspended amid rain forecast",
+    "desc": "“In view of inclement weather forecast issued by IMD, Shri Amarnathji Yatra shall remain temporarily suspended from both the Pahalgam and Baltal routes with effect from 19.07.2026 as a precautionary measure to ensure the safety and well-being of the pilgrims,” says Kashmir Divisional Commissioner",
+    "img": "https://th-i.thgim.com/public/incoming/irsyjv/article71239237.ece/alternates/LANDSCAPE_1200/PTI07_18_2026_000311B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/amarnath-vaishno-devi-yatras-to-be-temporarily-suspended-from-july-19/article71239224.ece",
+    "time": "2026-07-19T06:03:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kumar recalls Ranbir asking, 'is Ram God or man?'",
+    "desc": "Kumar Vishwas recalled Ranbir Kapoor asking if Lord Ram was god or man, later concluding \"Ram sab kuchh hain.\" Vishwas has penned lyrics for 'Ramayana', composed by A.R. Rahman and Hans Zimmer. Directed by Nitesh Tiwari, the Rs 4,000 crore epic stars Ranbir, Sai Pallavi, Yash and Sunny Deol, releasing in 2026-27.",
+    "img": "https://static.toiimg.com/photo/msid-132490538,imgsize-184344.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ram-sab-kuchh-hain-lyricist-dr-kumar-vishwas-recalls-ranbir-kapoor-asking-is-ram-god-or-man-while-preparing-for-ramayana/articleshow/132490538.cms",
+    "time": "2026-07-19T05:57:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "On defying the gods with ‘The Odyssey’ and protecting movie magic",
+    "desc": "Speaking at the Indian premiere of ‘The Odyssey‘ in Mumbai, Christopher Nolan reflects on finding destiny in Homer’s immortal epic, adapting a foundational classic, the mysteries of cultural permanence, and remaining faithful to the moviegoer who first fell in love with cinema",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/q5wiu3/article71220848.ece/alternates/LANDSCAPE_1200/CT-47787.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/christopher-nolan-the-odyssey-movie-interview-2026-exclusive/article71220737.ece",
+    "time": "2026-07-19T05:45:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Children from Narikurava community in Pallavaram as ‘commentators’ in a puppetry production on environmental degradation",
+    "desc": "A year-long puppetry production titled “Enge Engal Nadhigal” by Agai — Theatre of Voices has children from a Narikurava community in Pallavaram taking centre stage as storytellers. As part of this initiative, the children were taken on a tour of the industrial north Chennai on July 18 to understand the negative impact development can have on people’s everyday lives and bring that insight into their stories",
+    "img": "https://th-i.thgim.com/public/incoming/tgmook/article71240540.ece/alternates/LANDSCAPE_1200/Agai%20programme%20.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/children-from-narikurava-community-in-pallavaram-as-commentators-in-a-puppetry-production-on-environmental-degradation/article71240545.ece",
+    "time": "2026-07-19T05:40:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Sachana gets emotional after winning National Award for 'Maharaja'",
     "desc": "Sachana Namidass received the Best Supporting Actress National Award for her role in 'Maharaja'. She expressed deep emotion and gratitude towards her parents for their unwavering support. The young actress shared her family's humble background and their financial struggles. She recalled their persistent efforts in seeking acting opportunities for her since 2018. This prestigious award marks a significant culmination of her years of hard work.",
     "img": "https://static.toiimg.com/photo/msid-132490422,imgsize-175634.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sachana-namidass-gets-emotional-thanks-parents-after-winning-best-supporting-actress-national-award-for-maharaja-i-never-even-dreamed-of-that-i-would-receive-a-national-award/articleshow/132490410.cms",
     "time": "2026-07-19T05:38:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PV Sindhu scripts history, stuns Yamaguchi to become first Indian to ...",
+    "desc": "The 31-year-old became the first Indian to win the Japan Open after beating the three-time world champion 21-17, 21-17. The victory ended her title drought of more than two years and marked her biggest title since winning the World Championships in 2019.",
+    "img": "https://static.toiimg.com/photo/msid-132490413,imgsize-152930.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/pv-sindhu-scripts-history-beats-yamaguchi-after-four-years-to-become-first-indian-to-win-japan-open/articleshow/132490414.cms",
+    "time": "2026-07-19T05:37:31.000Z"
   },
   {
     "cat": "Business",
@@ -34,6 +241,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-internet-gushes-over-sai-pallavis-gleaming-look-at-special-screening-im-literally-so-starstruck/articleshow/132490129.cms",
     "time": "2026-07-19T05:27:15.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "How will U.S. visa policy changes affect students, media professionals, and exchange visitors",
+    "desc": "The U.S. Department of Homeland Security cites national security risks from Indian and Chinese students and introduces changes in F, J and I categories of visas. PhD scholars, journalists, and exchange visitors will be impacted",
+    "img": "https://th-i.thgim.com/public/incoming/n0sipp/article71238979.ece/alternates/LANDSCAPE_1200/iStock-1136297692.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/how-will-us-visa-policy-changes-affect-students-media-professionals-and-exchange-visitors-explained/article71238137.ece",
+    "time": "2026-07-19T05:22:36.000Z"
   },
   {
     "cat": "Entertainment",
@@ -99,24 +315,6 @@ const newsData_en = [
     "time": "2026-07-19T03:56:12.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "when families are committed to saving lives through blood donation",
-    "desc": "A leitmotif among blood donation organisations is the increasing difficulty in finding people with “generous veins”; and the solution could strangely be found in the living rooms of households, as illustrated by these two accounts from Chennai of parents inspiring their children to join the cause",
-    "img": "https://th-i.thgim.com/public/incoming/673uxp/article71239301.ece/alternates/LANDSCAPE_1200/19dc%20Shaikhs%20.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/chennai/collective-kindness-when-families-support-the-cause-of-blood-donation/article71239297.ece",
-    "time": "2026-07-19T03:55:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Bouma' first look: Tovino Thomas unveils mystery thriller poster",
-    "desc": "The first-look poster for the Malayalam mystery thriller 'Bouma' has been released. This artwork offers audiences an early glimpse into its mysterious world. Actor Tovino Thomas shared the poster and conveyed his best wishes to the team. Fans have reacted positively to the poster and its mysterious vibe. Dileesh Pothan is also preparing for a Mohanlal collaboration project.",
-    "img": "https://static.toiimg.com/photo/msid-132489625,imgsize-429020.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/bouma-first-look-tovino-thomas-unveils-mystery-thriller-poster-of-dileesh-pothan-sagar-surya-starrer/articleshow/132489604.cms",
-    "time": "2026-07-19T03:47:43.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Perfect ending': FIFA calls Messi vs Yamal WC final 'blessing from football gods'",
     "desc": "FIFA president Gianni Infantino has hailed the 2026 World Cup final between Argentina and Spain as \"a blessing from the football gods\", describing Lionel Messi versus Lamine Yamal as the perfect ending to what he believes is the greatest World Cup in history. He predicted the final would captivate billions worldwide despite the tournament's controversies and criticism.",
@@ -124,15 +322,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/perfect-ending-fifa-president-calls-messi-vs-yamal-world-cup-final-blessing-from-football-gods/articleshow/132489407.cms",
     "time": "2026-07-19T03:29:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "More about Jelly Roll and Bunnie Xo divorce settlement",
-    "desc": "After eleven years together, Jelly Roll and Bunnie Xo have successfully settled their divorce amicably. They prioritized a respectful separation without grudges, opting to evenly divide their assets while avoiding any alimony disputes. Bunnie Xo openly shared their plans for co-parenting, emphasizing their commitment to continue with IVF as they navigate this new chapter beside their child.",
-    "img": "https://static.toiimg.com/photo/msid-132489516,imgsize-113954.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/jelly-roll-and-bunnie-xo-divorce-settlement-couple-wanted-to-handle-the-matter-with-respect/articleshow/132489497.cms",
-    "time": "2026-07-19T03:25:29.000Z"
   },
   {
     "cat": "Politics",
@@ -153,15 +342,6 @@ const newsData_en = [
     "time": "2026-07-19T03:10:45.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Yami Gautam and Aditya Dhar celebrate ‘Article 370’ win at the National Awards",
-    "desc": "Yami Gautam has been honored with the National Award for Best Actress for her powerful performance in Article 370, which not only earned her accolades but also clinched the Best Feature Film award. Reflecting on her fourteen-year journey in cinema, Gautam expressed heartfelt appreciation for the acknowledgement. Director Aditya Dhar echoed her sentiments, celebrating the film's profound national impact and expressing gratitude to all those who contributed to its success.",
-    "img": "https://static.toiimg.com/photo/msid-132489352,imgsize-293186.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yami-gautam-and-aditya-dhar-celebrate-national-award-win-for-article-370-this-ones-for-every-dreamer/articleshow/132489341.cms",
-    "time": "2026-07-19T02:57:52.000Z"
-  },
-  {
     "cat": "World",
     "title": "Hungary's President signs constitutional amendment ending his term",
     "desc": "Mr. Sulyok's term will officially end at midnight on Monday (July 20), when speaker of Parliament, Ágnes Forsthoffer, will automatically assume his duties until lawmakers elect a new President, a task which has a 30-day deadline",
@@ -178,24 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/64-year-old-record-broken-england-vs-france-rewrite-fifa-world-cup-history/articleshow/132489211.cms",
     "time": "2026-07-19T02:34:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Asif Ali reacts to Mammootty's National Award win",
-    "desc": "Mammootty's latest National Award has been celebrated by fans and colleagues alike. Messages from actors such as Asif Ali and Mohanlal reflect the admiration and respect the veteran star continues to command within the Malayalam film industry and across Indian cinema.",
-    "img": "https://static.toiimg.com/photo/msid-132489136,imgsize-188785.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/i-was-extremely-tense-i-am-even-happier-that-the-award-went-to-mammootty-asif-ali-on-bramayugam-stars-national-award-win/articleshow/132489124.cms",
-    "time": "2026-07-19T02:20:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Christopher Reeve",
-    "desc": "Christopher Reeve, known for his Superman role, defined heroism as enduring despite overwhelming obstacles. He believed true heroes persevere and fight for their goals against adversity. Reeve's own life involved significant challenges after a paralyzing equestrian accident in 1995. Despite paralysis, he continued to work and advocate for his beliefs. His legacy emphasizes inner strength and the momentum of continuing life.",
-    "img": "https://static.toiimg.com/photo/msid-132489159,imgsize-187587.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-christopher-reeve-a-hero-is-an-ordinary-individual-who-finds-the-strength-to-persevere-and-endure-in-spite-of-overwhelming-obstacles-shared-the-superman-actor-explaining-the-real-meaning-of-heroism/articleshow/132489112.cms",
-    "time": "2026-07-19T02:19:58.000Z"
   },
   {
     "cat": "Sports",
@@ -216,42 +378,6 @@ const newsData_en = [
     "time": "2026-07-19T02:00:18.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘Ramayana’: Sai Pallavi feels blessed to play Goddess Sita",
-    "desc": "Sai Pallavi discussed her spiritual journey in preparing to embody Goddess Sita in Nitesh Tiwari's 'Ramayana'. She expressed a deep sense of destiny for the role, striving for mental clarity and purity. Nitesh lauded both Sai Pallavi and Ranbir Kapoor for their authentic portrayals of Ram and Sita. A captivating trailer was unveiled at a special event held at Bharat Mandapam, with the film set to premiere this Diwali.",
-    "img": "https://static.toiimg.com/photo/msid-132489205,imgsize-83268.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sai-pallavi-on-doing-ramayana-i-dont-think-i-chose-to-play-sita-maa-i-was-blessed-to-play-this-role/articleshow/132489011.cms",
-    "time": "2026-07-19T01:51:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Lenin' BO day 9: Akhil Akkineni's film jumps 69.1%",
-    "desc": "Akhil Akkineni's film 'Lenin' saw a significant box office increase on its ninth day. The action drama collected Rs 2.79 crore net in India, showing strong recovery. Worldwide gross collections for 'Lenin' have now surpassed Rs 56 crore after nine days. Occupancy rates improved across all major show timings throughout the day. This rural action drama is inspired by the epic Mahabharata narrative.",
-    "img": "https://static.toiimg.com/photo/msid-132489015,imgsize-371377.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/lenin-box-office-collections-day-9-akhil-akkinenis-film-jumps-69-1-mints-rs-2-79-cr-on-saturday/articleshow/132489010.cms",
-    "time": "2026-07-19T01:44:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jyotika reacts to Rajkummar's Srikanth winning National Award",
-    "desc": "Rajkummar Rao's 'Srikanth' won Best Hindi Feature Film at the 72nd National Film Awards. Jyotika called it an emotional win, praising Rajkummar and director Tushar Hiranandani. 'Article 370' won Best Film; Yami Gautam Dhar got Best Actress. Kartik Aaryan and Mammootty shared Best Actor, while 'Kalki 2898 AD' won Best Popular Film.",
-    "img": "https://static.toiimg.com/photo/msid-132489016,imgsize-115220.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/jyotika-reacts-to-rajkummar-raos-srikanth-winning-national-award-it-battled-situations-/articleshow/132489016.cms",
-    "time": "2026-07-19T01:43:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mohanlal congratulates Ichakka; Kamal recalls promise",
-    "desc": "Mammootty received the Best Actor award at the 72nd National Film Awards for his role. He shared this prestigious honor with Kartik Aaryan for his performance in 'Chandu Champion'. This marks Mammootty's fourth National Award, drawing widespread congratulations from industry peers. Colleagues like Mohanlal, Kamal Haasan, and Chiranjeevi lauded his remarkable achievement. Mammootty expressed gratitude to the 'Bramayugam' team for the opportunity.",
-    "img": "https://static.toiimg.com/photo/msid-132488945,imgsize-93420.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/you-once-promised-me-you-would-overtake-me-kamal-haasan-on-mammoottys-best-actor-national-award-win-mohanlal-reacts/articleshow/132488935.cms",
-    "time": "2026-07-19T01:17:36.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Bukayo Saka joins exclusive England World Cup hat-trick club after breaking 60-year record",
     "desc": "Bukayo Saka delivered a historic World Cup performance, scoring a hat-trick as England defeated France 6-4 in the third-place playoff. The Arsenal star became only the fourth England men's player to score a World Cup treble and the first in the knockout stage since Sir Geoff Hurst. His display also reignited debate over his semifinal omission against Argentina.",
@@ -270,24 +396,6 @@ const newsData_en = [
     "time": "2026-07-19T01:11:49.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘The Odyssey’ box office collection day 2",
-    "desc": "Christopher Nolan's film 'The Odyssey' is performing strongly at the Indian box office. The movie collected a net total of twenty-two crore rupees on its second day. Its gross collection reached forty-seven crore rupees, with net earnings at thirty-nine crore. The English version led the collection, earning seventeen crore rupees on Saturday. 'The Odyssey' is expected to surpass fifty crore rupees by its third day.",
-    "img": "https://static.toiimg.com/photo/msid-132488923,imgsize-208468.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/the-odyssey-box-office-collection-day-2-christopher-nolans-epic-starring-anne-hathaway-matt-damon-mints-rs-22-cr-in-india/articleshow/132488896.cms",
-    "time": "2026-07-19T01:09:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jr NTR celebrates Telugu cinema",
-    "desc": "South Indian cinema celebrated numerous wins at the 72nd National Film Awards. Telugu, Tamil, and Malayalam films secured major honours across various categories. Several prominent actors and directors received prestigious awards for their contributions. Celebrities like Jr NTR and Allu Arjun expressed pride in the industry's success. The event highlighted the growing influence of regional cinema on the national stage.",
-    "img": "https://static.toiimg.com/photo/msid-132488840,imgsize-415264.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/72nd-national-film-awards-jr-ntr-celebrates-telugu-cinema-pushpa-actor-allu-arjun-says-celebrating-the-very-best-of-indian-cinema/articleshow/132488831.cms",
-    "time": "2026-07-19T00:46:46.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Jude Bellingham breaks all-time England goalscoring record in World Cup bronze thriller",
     "desc": "In an impressive World Cup run, Jude Bellingham scored seven goals, featuring a brilliant solo strike that led England to a third-place win. His record-breaking achievement outshined past legends in the sport and silenced doubts about his place in the lineup, paving the way for future generations of English players to aspire to his legacy.",
@@ -295,15 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/jude-bellingham-breaks-all-time-england-goalscoring-record-with-sensational-strike-in-world-cup-bronze-thriller-win-against-france/articleshow/132488788.cms",
     "time": "2026-07-19T00:41:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Akshay starrer sees growth on weekend",
-    "desc": "Akshay Kumar's 'Welcome To The Jungle' earned Rs 38 lakh on Day 23, with total India net collections at Rs 132.43 crore. Its momentum slowed as Christopher Nolan's 'The Odyssey' released, grossing Rs 20.76 crore on day one. Directed by Ahmed Khan, the film boasts a massive ensemble cast led by Akshay Kumar.",
-    "img": "https://static.toiimg.com/photo/msid-132488819,imgsize-436202.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/welcome-to-the-jungle-box-office-collection-day-23-akshay-kumar-starrer-sees-growth-on-weekend-amid-the-odyssey-buzz-earns-rs-38-lakh/articleshow/132488819.cms",
-    "time": "2026-07-19T00:35:34.000Z"
   },
   {
     "cat": "Sports",
@@ -316,30 +415,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Kylian Mbappé makes World Cup history as Lionel Messi loses two of his most treasured records",
-    "desc": "Kylian Mbappé made World Cup history despite France's 6-4 defeat to England in the third-place playoff, scoring twice to become the competition's all-time leading goalscorer with 22 goals. The brace also lifted him to the top of the 2026 Golden Boot standings with 10 goals, leaving Lionel Messi needing a huge performance in the final to catch him.",
-    "img": "https://static.toiimg.com/photo/msid-132488696,imgsize-109022.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/kylian-mbapp-makes-world-cup-history-as-lionel-messi-loses-two-of-his-most-treasured-records/articleshow/132488697.cms",
-    "time": "2026-07-18T23:48:40.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Mbappe breaks Messi's all-time WC goal record; Saka hat-trick fails France in 10-goal thriller",
     "desc": "England emerged victorious in an exhilarating 6-4 clash against France during the third-place playoff. Kylian Mbappé marked his place in history as the World Cup's leading goal scorer. Bukayo Saka showcased his talent by netting a remarkable hat-trick, while Jude Bellingham secured England's bronze medal with a final flourish. France's aspirations to equalize fell short amid the high-scoring excitement of the match.",
     "img": "https://static.toiimg.com/photo/msid-132488663,imgsize-245014.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/france-vs-england-fifa-world-cup-third-place-match-result-kylian-mbappe-breaks-all-time-wc-goal-record-as-bukayo-saka-hat-trick-fails-france-in-10-goal-thriller/articleshow/132488663.cms",
     "time": "2026-07-18T23:19:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Amarnath, Vaishno Devi Yatras to be temporarily suspended from July 19",
-    "desc": "“In view of inclement weather forecast issued by IMD, Shri Amarnathji Yatra shall remain temporarily suspended from both the Pahalgam and Baltal routes with effect from 19.07.2026 as a precautionary measure to ensure the safety and well-being of the pilgrims,” says Kashmir Divisional Commissioner",
-    "img": "https://th-i.thgim.com/public/incoming/irsyjv/article71239237.ece/alternates/LANDSCAPE_1200/PTI07_18_2026_000311B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/amarnath-vaishno-devi-yatras-to-be-temporarily-suspended-from-july-19/article71239224.ece",
-    "time": "2026-07-18T22:38:42.000Z"
   },
   {
     "cat": "Sports",
@@ -423,15 +504,6 @@ const newsData_en = [
     "time": "2026-07-18T20:14:24.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'I need help': Spain World Cup winner appeals directly to President Donald Trump after US entry denial",
-    "desc": "Spain legend Joan Capdevila says he has been denied permission to enter the United States ahead of the 2026 FIFA World Cup final and has appealed directly to Donald Trump for help. The 2010 World Cup winner had hoped to watch Spain face Argentina alongside his former teammates, but claims his ESTA application was rejected, leaving his travel plans in doubt.",
-    "img": "https://static.toiimg.com/photo/msid-132486681,imgsize-1365721.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/i-need-help-spain-world-cup-winner-appeals-directly-to-president-donald-trump-after-us-entry-denial/articleshow/132486641.cms",
-    "time": "2026-07-18T20:13:45.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "School holiday extended in Kashmir, Amarnath yatra suspended as Met forecasts downpour",
     "desc": "Kashmir school holidays have been extended by three days due to adverse weather. The Amarnath yatra is temporarily suspended from both routes as a precautionary measure. An adverse weather spell is expected from July 20 to July 23 across the region. This system may cause landslides and flash floods in vulnerable areas. Surface transport disruptions are also anticipated on major roads.",
@@ -451,48 +523,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "NCB seizes 5kg heroin smuggled from Pakistan in Poonch, 1 held",
-    "desc": "Narcotics Control Bureau seized five kilograms of high-grade heroin in Poonch district. An alleged smuggler was arrested during a raid in Kosalyain village on Saturday. This seizure is considered one of the largest drug hauls in the border district. Investigators are working to identify the intended recipients and handlers. This incident highlights ongoing cross-border narcotics smuggling attempts.",
-    "img": "https://static.toiimg.com/photo/msid-132486442,imgsize-494822.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ncb-seizes-5kg-heroin-smuggled-from-pakistan-in-poonch-1-held/articleshow/132486443.cms",
-    "time": "2026-07-18T19:21:58.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "T.N. government to celebrate State’s history on both July 18 and November 1, says Vijay",
     "desc": "When the AIADMK was in power, the then Chief Minister Edappadi K. Palaniswami announced that November 1 would be celebrated as Tamil Nadu Day. However, after the DMK came to power in 2021, it changed the observance to July 18",
     "img": "https://th-i.thgim.com/public/incoming/h62mn8/article71238309.ece/alternates/LANDSCAPE_1200/DSC_7115.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-government-to-celebrate-states-history-on-both-july-18-and-november-1-says-vijay/article71238296.ece",
     "time": "2026-07-18T19:19:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Skyroot’s orbital launch: India’s own SpaceX is born, startup to give country another option to Isro for satellite launches",
-    "desc": "Skyroot Aerospace successfully launched India's first privately developed orbital-class rocket, Vikram-1. This historic flight reached low Earth orbit and deployed six payloads for various applications. The launch signifies a major step for India's private space sector and its global market aspirations. Other Indian space startups are expected to accelerate their orbital rocket programs following this success.",
-    "img": "https://static.toiimg.com/photo/msid-132486325,imgsize-120890.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/skyroots-orbital-launch-indias-own-spacex-is-born-startup-to-give-country-an-alternative-for-satellite-launches/articleshow/132486324.cms",
-    "time": "2026-07-18T19:05:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Rs 70,000 cr investments proposed for def corridors in UP, TN; Rs 10,000 crore already invested: Rajnath",
-    "desc": "Defence Minister Rajnath Singh highlighted India's strong defence preparedness and self-reliance. Advanced systems like Akash Teer and BrahMos were effectively used during Operation Sindoor. Defence industrial corridors in UP and Tamil Nadu are fostering indigenous manufacturing and global integration. Positive indigenisation lists and a new Defence Acquisition Procedure are accelerating domestic production. Seventy-five percent of the defence modernisation budget now supports Indian industries.",
-    "img": "https://static.toiimg.com/photo/msid-132486258,imgsize-86600.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/rs-70000-cr-investments-proposed-for-def-corridors-in-up-tn-rs-10000-crore-already-invested-rajnath/articleshow/132486160.cms",
-    "time": "2026-07-18T19:00:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Left parties condemn Wangchuk's removal, use of force; back ongoing protest",
-    "desc": "In the early hours of day 21 of the protest fast at Jantar Mantar, when the presence was a little thin, Delhi Police succeeded in removing Sonam Wangchuk from the protest site, said CPI(ML) Liberation general secretary Dipankar Bhattacharya",
-    "img": "https://th-i.thgim.com/public/incoming/hk82jb/article71239170.ece/alternates/LANDSCAPE_1200/20260523172L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/left-parties-condemn-wangchuks-removal-use-of-force-back-ongoing-protest/article71239024.ece",
-    "time": "2026-07-18T17:49:04.000Z"
   },
   {
     "cat": "World",
@@ -502,15 +538,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/ahmad-vahidi-the-commander-of-asymmetric-warfare/article71239079.ece",
     "time": "2026-07-18T17:43:37.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "How will U.S. visa policy changes affect students, media professionals, and exchange visitors",
-    "desc": "The U.S. Department of Homeland Security cites national security risks from Indian and Chinese students and introduces changes in F, J and I categories of visas. PhD scholars, journalists, and exchange visitors will be impacted",
-    "img": "https://th-i.thgim.com/public/incoming/n0sipp/article71238979.ece/alternates/LANDSCAPE_1200/iStock-1136297692.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/how-will-us-visa-policy-changes-affect-students-media-professionals-and-exchange-visitors-explained/article71238137.ece",
-    "time": "2026-07-18T16:21:35.000Z"
   },
   {
     "cat": "Sports",
@@ -801,15 +828,6 @@ const newsData_en = [
     "time": "2026-07-17T07:38:11.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "On defying the gods with ‘The Odyssey’ and protecting movie magic",
-    "desc": "Speaking at the Indian premiere of ‘The Odyssey‘ in Mumbai, Christopher Nolan reflects on finding destiny in Homer’s immortal epic, adapting a foundational classic, the mysteries of cultural permanence, and remaining faithful to the moviegoer who first fell in love with cinema",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/q5wiu3/article71220848.ece/alternates/LANDSCAPE_1200/CT-47787.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/christopher-nolan-the-odyssey-movie-interview-2026-exclusive/article71220737.ece",
-    "time": "2026-07-17T06:56:18.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Messi hits back at Argentina’s World Cup critics: ‘Nothing was handed to us’",
     "desc": "The comments fuelled criticism sparked by fans who argue that the FIFA bracket favoured La Albiceleste, and unfounded allegations on social media claiming that the soccer governing body wants Argentina to once again become World Cup champion",
@@ -819,7 +837,7 @@ const newsData_en = [
     "time": "2026-07-17T06:36:57.000Z"
   },
   {
-    "cat": "Sports",
+    "cat": "World",
     "title": "White House",
     "desc": "Press Secretary Leavitt said she did not know whether Mr. Trump would be supporting Argentina or Spain after he criticised the European nation at a NATO summit last week for failing to help with the Iran war",
     "img": "https://th-i.thgim.com/public/incoming/3w22r/article71232543.ece/alternates/LANDSCAPE_1200/2026-03-27T232040Z_1543793463_RC2BDKA0EJYJ_RTRMADP_3_USA-TRUMP.JPG",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/an-anthem-for-a-vanishing-craft-thazhappattu-makes-it-to-school-curriculum/article71225160.ece",
     "time": "2026-07-16T08:20:05.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Government hikes windfall tax on diesel, ATF; cuts levy on petrol exports",
-    "desc": "The rate of Special Additional Excise Duty (SAED) on diesel exports has been increased to ₹15.5 a litre from ₹8.5 a litre; similarly, SAED on ATF exports has been raised to ₹14.5 per litre from ₹7.5 per litre till July 15",
-    "img": "https://th-i.thgim.com/public/incoming/393w1c/article71228710.ece/alternates/LANDSCAPE_1200/2026-06-08T104630Z_784983082_RC2MPLA275FA_RTRMADP_3_INDIA-REFINERY-BPCL.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/government-hikes-windfall-tax-on-diesel-atf-cuts-levy-on-petrol-exports/article71228678.ece",
-    "time": "2026-07-16T06:01:40.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Sun Pharma gets nod from South African regulator for generic semaglutide injection",
-    "desc": "The approval by the SAHPRA is to manufacture and market the generic version of semaglutide injection in South Africa for the treatment of adults with inadequately controlled type 2 diabetes mellitus as an adjunct to diet and exercise, says Sun Pharmaceutical Industries",
-    "img": "https://th-i.thgim.com/public/incoming/gj83dx/article71226978.ece/alternates/LANDSCAPE_1200/----Replacing-iGL3G113JJ.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/sun-pharma-gets-nod-from-south-african-regulator-for-generic-semaglutide-injection/article71226953.ece",
-    "time": "2026-07-16T04:58:09.000Z"
   }
 ];
