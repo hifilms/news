@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Bukayo Saka's hat-trick helps England survive late French rally to win Bronze after 10-goal World Cup classic",
+    "desc": "England produced a clinical attacking display before surviving a spirited French comeback to defeat France 6-4 in the FIFA World Cup 2026 third-place playoff in Miami. With that, the Three Lions secured their best finish...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/bukayo-saka-s-hat-trick-helps-england-survive-late-french-rally-to-win-bronze-after-10-goal-world-cup-classic-2026-07-19-1048698",
+    "time": "2026-07-18T23:20:38.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why are Harry Kane and Jude Bellingham not starting for England in bronze medal match vs France?",
     "desc": "England manager Thomas Tuchel has left Harry Kane and Jude Bellingham out of the starting line-up for the FIFA World Cup 2026 bronze medal match against France in Miami. The decision was made as part...",
     "img": "",
@@ -10,7 +19,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Bukayo Saka scores, England torment France to lead 3-0 in 37 mins",
+    "title": "England beat France 6-4, after six goals scored in second half",
     "desc": "France face England in the FIFA World Cup 2026 third-place playoff, with both teams looking to end their campaigns with a victory after falling short of the final. The match also features contrasting team selections,...",
     "img": "",
     "src": "indiatvnews.com",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rohit-will-work-it-out-morne-morkel-backs-rohit-sharma-to-return-to-top-form-ahead-of-the-third-england-odi-2026-07-18-1048683",
     "time": "2026-07-18T15:10:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mirabai Chanu, Lovlina Borgohain named India's flag and baton bearers ahead of Commonwealth Games 2026",
-    "desc": "In a major development, India’s professional weightlifter Mirabai Chanu and boxer Lovlina Borgohain have been selected as India’s official flag and baton bearers in the upcoming Commonwealth Games 2026. The duo will be leading India’s...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/mirabai-chanu-lovlina-borgohain-named-india-s-flag-and-baton-bearers-ahead-of-commonwealth-games-2026-2026-07-18-1048681",
-    "time": "2026-07-18T14:33:25.000Z"
   }
 ];
