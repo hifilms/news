@@ -1,7 +1,7 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Can Messi once again shake hands with paradise or is it Yamal’s era?",
+    "title": "Second half of extra time begins, score still locked 0-0 in New York",
     "desc": "Current European champions Spain take on defending world Champions in the 2026 FIFA World Cup final in New York. The Luis de la Fuente side has announced an unchanged playing XI, with Rodri and Fabian...",
     "img": "",
     "src": "indiatvnews.com",

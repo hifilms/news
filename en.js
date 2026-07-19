@@ -1,5 +1,158 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "DMK confirms TOI report it’s open to rethink on delimit bill",
+    "desc": "The DMK party will state its position on the Lok Sabha strength bill later. This regional party holds a significant bloc of 22 Members of Parliament. They are open to revisiting their delimitation stance if southern states are not harmed. DMK previously protested a similar bill, which was defeated by the opposition. The party awaits the government's proposed legislation to clarify its future actions.",
+    "img": "https://static.toiimg.com/photo/msid-132501678,imgsize-1234985.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/dmk-confirms-toi-report-its-open-to-rethink-on-delimit-bill/articleshow/132501680.cms",
+    "time": "2026-07-19T21:39:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Late drama! Enzo Fernandez sent off as Argentina reduced to 10 men before extra time",
+    "desc": "Argentina faced extra time with ten players after Enzo Fernandez received a red card. Spain dominated possession and shots but could not score against Emiliano Martinez. The goalkeeper made a record ten saves to keep Argentina in the match. This historic goalless final entered extra time after ninety minutes. Both teams sought to win the prestigious World Cup trophy.",
+    "img": "https://static.toiimg.com/photo/msid-132501490,imgsize-81074.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/late-drama-enzo-fernandez-sent-off-as-argentina-reduced-to-10-men-before-world-cup-final-extra-time/articleshow/132501496.cms",
+    "time": "2026-07-19T21:32:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Watch BTS, Bieber, Shakira's performances",
+    "desc": "Madonna opened the World Cup halftime show with her hit song \"Music.\" Gustavo Dudamel led an orchestra while Muppets bopped and shook to \"Seven Nation Army.\" BTS and Justin Bieber also performed energetic and slower musical numbers. Shakira and Burna Boy delivered their anthem \"Dai Dai\" before the kickoffs. The show concluded with elementary students and various artists performing anthems.",
+    "img": "https://static.toiimg.com/photo/msid-132501482,imgsize-229288.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/world-cup-halftime-show-bts-justin-bieber-madonna-shakira-put-up-electrifying-performances-at-argentina-vs-spain-fifa-final-watch/articleshow/132501453.cms",
+    "time": "2026-07-19T21:25:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Maharashtra govt allows hotels, restaurants, bars to remain open till 4 a.m. for FIFA World Cup final",
+    "desc": "The Home Department issued the directive onJuly 18) following a request from the National Restaurant Association of India (NRAI), Mumbai, which sought extension of operating hours for hospitality establishments on the night of the final",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-govt-allows-hotels-restaurants-bars-to-remain-open-till-4-am-for-fifa-world-cup-final/article71242712.ece",
+    "time": "2026-07-19T21:13:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Opposition protests invite to TMC rebels to all-party meeting",
+    "desc": "Opposition parties staged a walkout from an all-party meeting on Sunday. They protested the government's decision to invite a breakaway faction of the Trinamool Congress. The government defended its invitation, stating it must include all groups. Both warring factions of the Trinamool Congress exchanged sharp remarks during the meeting. This event foreshadows a potentially contentious parliamentary session beginning Monday.",
+    "img": "https://static.toiimg.com/photo/msid-132501471,imgsize-142839.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/opposition-protests-invite-to-tmc-rebels-to-all-party-meeting/articleshow/132501470.cms",
+    "time": "2026-07-19T21:11:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "No card for Tagliafico! Yamal challenge reignites Argentina favouritism debate",
+    "desc": "A controversial tackle by Nicolas Tagliafico in the World Cup final sparked debate. Many fans questioned why the Argentina defender escaped a booking for his challenge. This incident brought back memories of previous refereeing controversies surrounding Argentina. Spain dominated possession and controlled the tempo during the first half. The match remained goalless at halftime with few shots recorded.",
+    "img": "https://static.toiimg.com/photo/msid-132501446,imgsize-129258.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/no-card-for-tagliafico-argentina-favouritism-debate-returns-after-yamal-challenge-in-world-cup-final/articleshow/132501444.cms",
+    "time": "2026-07-19T20:54:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Well-oiled labour supply chain facilitating illegal infiltration of Bangladeshis",
+    "desc": "Illegal immigrants from Bangladesh enter India through a planned labor supply chain. Touts facilitate their infiltration and transport to various job sites across India. Indian employers utilize these networks for cheap, unskilled labor in sectors like textiles and construction. Forged documents are arranged, enabling immigrants to work and even register as voters. Assam seeks legal accountability for Indian employers involved in this exploitation.",
+    "img": "https://static.toiimg.com/photo/msid-132501438,imgsize-197360.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/well-oiled-labour-supply-chain-facilitating-illegal-infiltration-of-bangladeshis/articleshow/132501434.cms",
+    "time": "2026-07-19T20:46:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "U.K.'s Burnham drops digital ID scheme to prioritise cost of living, say allies",
+    "desc": "Dubbed the ‘King of the North’ for his work as the mayor of Greater Manchester in northwestern England, Burnham will replace Keir Starmer ‌as Prime Minister on July 20, when he says he will also unveil his cabinet team of top Ministers",
+    "img": "https://th-i.thgim.com/public/incoming/26x6n6/article71242698.ece/alternates/LANDSCAPE_1200/2026-07-17T141106Z_623169700_RC2QFMAM6FOD_RTRMADP_3_BRITAIN-POLITICS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uks-burnham-drops-digital-id-scheme-to-prioritise-cost-of-living-say-allies/article71242685.ece",
+    "time": "2026-07-19T20:26:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Spain choke Argentina into unwanted first-half history",
+    "desc": "Spain controlled the World Cup final's first half, denying Argentina any scoring opportunities. Argentina failed to register a single shot on goal before halftime, a historical anomaly. The match remained goalless at the interval, reflecting Spain's tactical superiority. This marked the ninth World Cup final to feature a scoreless first half. The tournament concluded with Spain seeking their second title and Argentina defending theirs.",
+    "img": "https://static.toiimg.com/photo/msid-132501377,imgsize-79006.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-2026-final-spain-choke-argentina-into-unwanted-history-as-messis-side-fail-to-register-a-first-half-shot/articleshow/132501378.cms",
+    "time": "2026-07-19T20:26:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "More brands in store, but price cuts may lag",
+    "desc": "New British brands are expected to enter Indian markets, offering consumers more retail choices. While duty cuts are beneficial, rupee depreciation may limit immediate price reductions. Some brands are pausing price hikes and reducing costs on specific product categories. Global supply chain issues and currency volatility also impact pricing strategies for businesses. Over time, consumers can anticipate more competitive pricing as import duties are further reduced.",
+    "img": "https://static.toiimg.com/photo/msid-132501397,imgsize-60673.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/more-brands-in-store-but-price-cuts-may-lag/articleshow/132501369.cms",
+    "time": "2026-07-19T20:22:44.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Industry seeks changes to Companies Bill",
+    "desc": "The corporate sector proposes changes to the Companies Act amendment bill. Industry executives seek greater flexibility in conducting general meetings. Proposals related to auditor cooling-off periods are causing significant concern. Firms argue these changes could limit professional capabilities and increase costs. The government aims to enhance audit quality and auditor independence through these amendments.",
+    "img": "https://static.toiimg.com/photo/msid-132501337,imgsize-1786763.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/industry-seeks-changes-to-companies-bill/articleshow/132501325.cms",
+    "time": "2026-07-19T20:16:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Samay Raina urges netizens to be kind to Sakshi Jha after India's Got Latent episode",
+    "desc": "Contestant Sakshi Jha faced backlash for her \"man hater\" remarks on India's Got Latent. Comedian Samay Raina urged viewers to show compassion towards her. He acknowledged the widespread memes but asked for respectful criticism. Raina stated that contestants often say unexpected things on the show. He encouraged kindness, highlighting Jha's memorable performance.",
+    "img": "https://static.toiimg.com/photo/msid-132501313,imgsize-245965.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/samay-raina-urges-netizens-to-be-kind-to-sakshi-jha-after-indias-got-latent-episode-and-not-troll-her-waha-par-bhi-ek-insaan-hai/articleshow/132501314.cms",
+    "time": "2026-07-19T20:08:19.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Government may seek Parliamentary nod for additional spending",
+    "desc": "Finance Minister Nirmala Sitharaman may seek parliamentary approval for additional spending. Increased expenditure on fertiliser subsidies and electronics manufacturing initiatives is driving this need. GST and direct tax revenues remain on track, and DIPAM is pushing for additional realisations. The IDBI Bank transaction's finalisation could provide significant financial comfort. Sitharaman aims to maintain the government's fiscal deficit target of 4.3% of GDP.",
+    "img": "https://static.toiimg.com/photo/msid-132501277,imgsize-238139.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/government-may-seek-parliamentary-nod-for-additional-spending/articleshow/132501285.cms",
+    "time": "2026-07-19T20:04:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "cricket’s greatest — a legacy beyond numbers",
+    "desc": "The unchecked outpouring of grief at his passing, followed almost immediately by tales of his kindness and generosity, are testament to the standing he enjoys in the cricketing ecosystem in which he is the unquestioned emperor",
+    "img": "https://th-i.thgim.com/public/incoming/q52hrz/article71242664.ece/alternates/LANDSCAPE_1200/SOBERS%20ACTOR%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/garry-sobers-crickets-greatest-a-legacy-beyond-numbers/article71242653.ece",
+    "time": "2026-07-19T19:49:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Donald Trump makes dramatic Marine One arrival at FIFA World Cup final",
+    "desc": "United States President Donald Trump attended the FIFA World Cup 2026 final match. He arrived via Marine One and sat with FIFA president Gianni Infantino. Trump expressed his belief that the tournament solidified America as a football nation. He also publicly urged FIFA to consider another World Cup bid for the United States. The president declined to predict the final match outcome.",
+    "img": "https://static.toiimg.com/photo/msid-132501212,imgsize-267467.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/watch-donald-trump-makes-dramatic-marine-one-arrival-at-argentina-vs-spain-fifa-world-cup-final/articleshow/132501186.cms",
+    "time": "2026-07-19T19:44:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Geo-tagging of State’s forest locations opens the doors for trespassers",
+    "desc": "Forest department flags 23 Google Maps listings inside reserve forests in Kozhikode as misleading; officials say unauthorised map pins and uploaded photographs are encouraging illegal entry into protected areas; DFO seeks removal of the listings, warning of trespassing, public safety risks and human-wildlife conflict",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/geo-tagging-of-forest-locations-raises-concerns-over-trespassing/article71241685.ece",
+    "time": "2026-07-19T19:22:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lord’s ODI: Rohit’s classy hundred not enough as England clinches series in a run-fest",
+    "desc": "The under-fire opener smashes 138 but Curran strangles the Indian batters by taking the pace off in a mammoth chase; Duckett, Bethell, Root and Buttler make merry as the home side notches up the highest ever List-A total at the iconic venue",
+    "img": "https://th-i.thgim.com/public/incoming/q5h5jx/article71242634.ece/alternates/LANDSCAPE_1200/20260719458L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/india-england-3rd-odi-july-19-2026/article71241070.ece",
+    "time": "2026-07-19T19:07:02.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Yamal creates history, becomes first teenager to play in both Euro &amp; World Cup finals",
     "desc": "Lamine Yamal achieved a historic football milestone before the World Cup final. He became the first teenager to play in both a Euro and a World Cup final. Yamal was instrumental in Spain's journey to the championship match. The young player's performance has been a key factor for his team. Spain faced Argentina in the title clash for the coveted trophy.",
@@ -7,6 +160,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/lamine-yamal-creates-history-becomes-first-teenager-to-play-in-both-euro-and-fifa-world-cup-finals/articleshow/132500498.cms",
     "time": "2026-07-19T18:49:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Amaal Mallik reacts to Tanishk Bagchi's Rs 8 lakh royalty for 'Saiyaara'",
+    "desc": "Composer Amaal Mallik criticizes the music industry's delayed royalty awareness. He claims he fought alone for creators' rights years ago. This follows Tanishk Bagchi's royalty dispute with Yash Raj Films. Mallik previously detailed how creators earn little from hit songs. The industry's royalty system is still seen as lagging behind global standards.",
+    "img": "https://static.toiimg.com/photo/msid-132500415,imgsize-242136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amaal-mallik-reacts-to-tanishk-bagchis-rs-8-lakh-royalty-for-saiyaara-javed-akhtar-sahab-fought-very-hard-for-it-i-get-salary-of-rs-75000-to-rs-1-5-lakh-after-doing-one-song/articleshow/132499195.cms",
+    "time": "2026-07-19T18:43:24.000Z"
   },
   {
     "cat": "Sports",
@@ -43,6 +205,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/pmk-organises-signature-campaign-urging-state-govt-to-notify-extent-of-pallikaranai-marshland/article71241939.ece",
     "time": "2026-07-19T18:26:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India’s F&O boom needs adequate protections",
+    "desc": "Retail traders lose because they are bringing knives to a gunfight. SEBI’s research reveals that 97% of institutional profits and 96% of proprietary trading profits in the Indian F&O market are generated by algorithmic trading.",
+    "img": "https://th-i.thgim.com/public/news/national/tbr1t8/article71242552.ece/alternates/LANDSCAPE_1200/iStock-1650223785.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/opinion/op-ed/indias-fo-boom-needs-adequate-protections/article71242450.ece",
+    "time": "2026-07-19T18:18:00.000Z"
   },
   {
     "cat": "Politics",
@@ -180,15 +351,6 @@ const newsData_en = [
     "time": "2026-07-19T15:57:15.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Faced with outrage, Kerala Health Minister makes a U-turn on DYFI food packet distribution in hospitals",
-    "desc": "K. Muraleedharan said that the government would put an end to the distribution of food packets on hospital premises under the banner of political parties. His office issues a statement the next day that it need not be perceived as a general statement and pertained to one hospital",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/2druyw/article71241948.ece/alternates/LANDSCAPE_1200/1000949254.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/faced-with-outrage-kerala-health-minister-makes-a-u-turn-on-dyfi-food-packet-distribution-in-hospitals/article71241971.ece",
-    "time": "2026-07-19T15:56:42.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Joe Root creates history at Lord's, rewrites ODI series history against India",
     "desc": "Joe Root achieved a remarkable feat in the July 2026 ODI series against India. He remained unbeaten throughout the series, scoring 249 runs without being dismissed. This performance made him the first England batter to achieve six consecutive ODI half-centuries. Root surpassed previous records for most runs in a bilateral ODI series without losing his wicket. His consistent batting guided England to strong performances in all three matches.",
@@ -196,15 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/joe-root-creates-history-in-3rd-odi-at-lords-rewrites-history-against-india/articleshow/132497114.cms",
     "time": "2026-07-19T15:52:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Police in Madhya Pradesh move activist on hunger strike at Ken-Betwa site to hospital",
-    "desc": "The Congress’s Leader of the Opposition in the Madhya Pradesh Assembly Umang Singhar slams police action, comparing it with that of the Delhi Police against Sonam Wangchuk; ‘the BJP government has made suppressing every dissenting voice its governing model’, he says",
-    "img": "https://th-i.thgim.com/public/incoming/b6t4a8/article71240808.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-19%20at%2011.39.19.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/police-action-forces-end-to-tribal-protest-against-mps-ken-betwa-project-after-15-days/article71240801.ece",
-    "time": "2026-07-19T15:45:53.000Z"
   },
   {
     "cat": "Politics",
@@ -232,24 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/arjun-kapoor-sahiba-bali-spark-dating-rumours-as-they-get-spotted-together-at-lords-with-yuvraj-singh-during-india-vs-england-third-odi-on-sunday/articleshow/132496971.cms",
     "time": "2026-07-19T15:30:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Supreme Court holds abuse is uncivil, but not obscene",
-    "desc": "In a judgment in a land dispute case in which the four-letter expletive was used, the top court says that to qualify as ‘obscenity’, the terms used must be lascivious, should appeal to prurient interests of people, and provoke a tendency to deprave and corrupt people’s minds",
-    "img": "https://th-i.thgim.com/public/incoming/33xq4p/article71242188.ece/alternates/LANDSCAPE_1200/SC-AI-in-Court-GEKG2O5UJ.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/supreme-court-holds-abuse-is-uncivil-but-not-obscene/article71241584.ece",
-    "time": "2026-07-19T15:29:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Trainee IPS accused of sexual harassment and assault by fellow officer, booked",
-    "desc": "According to the complaint, the alleged harassment began in late June and continued for several weeks. The woman alleged that Reddy sent her sexually abusive messages and made derogatory remarks about her in front of fellow trainees.",
-    "img": "https://th-i.thgim.com/public/incoming/c6w6wp/article71242186.ece/alternates/LANDSCAPE_1200/IMG_IMG_vbk-HANDCUFF-arr_2_1_75FST1AB.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Hyderabad/trainee-ips-accused-of-sexual-harassment-and-assault-by-fellow-officer-booked/article71241943.ece",
-    "time": "2026-07-19T15:28:17.000Z"
   },
   {
     "cat": "Entertainment",
@@ -369,15 +504,6 @@ const newsData_en = [
     "time": "2026-07-19T13:24:00.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'War can’t be solution': Visit to Nagasaki museum leaves Indian footballers speechless",
-    "desc": "Young Indian footballers on the Reliance Football Development League's exposure trip to Japan visited the Nagasaki Atomic Bomb Museum, gaining a powerful lesson on the horrors of war and resilience. Coaches Israil Gurung and Praveen Kumar said the visit highlighted the importance of peace and showed how Japan rebuilt after devastation, inspiring players to overcome setbacks with determination.",
-    "img": "https://static.toiimg.com/photo/msid-132495102,imgsize-208178.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/war-cant-be-solution-to-our-problems-visit-to-nagasaki-museum-leaves-indian-footballers-speechless/articleshow/132495030.cms",
-    "time": "2026-07-19T13:13:32.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'Avoid cloak-and-dagger tactics': Derek O'Brien writes to PM Modi on delimitation bill, seeks all-party meet",
     "desc": "Trinamool Congress leader Derek O'Brien urged Prime Minister Modi to convene an all-party meeting. He expressed concerns over proposed delimitation legislation and the Foreign Contribution Amendment bill. O'Brien described these measures as 'draconian' and 'cowboy legislation' in his letter. The opposition fears the delimitation exercise could reduce southern states' parliamentary representation. The Foreign Contribution Amendment bill may tighten government oversight of charitable organizations.",
@@ -394,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/no-state-has-witnessed-such-a-political-change-since-independence-amit-shah-on-bengal/articleshow/132494665.cms",
     "time": "2026-07-19T13:00:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Duckett, Bethell script history with record 192-run stand against India",
-    "desc": "England openers Ben Duckett and Jacob Bethell achieved a record 192-run partnership against India. This stand became the highest opening partnership for England against India in ODI history. The duo also set a new record for the highest opening partnership ever at Lord's. India's Prasidh Krishna eventually dismissed Bethell for a well-played 91 runs. Bethell's impressive innings included eleven fours and two sixes.",
-    "img": "https://static.toiimg.com/photo/msid-132494760,imgsize-173918.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/ben-duckett-jacob-bethell-script-history-with-record-192-run-stand-against-india-at-lords/articleshow/132494720.cms",
-    "time": "2026-07-19T12:43:49.000Z"
   },
   {
     "cat": "Politics",
@@ -486,24 +603,6 @@ const newsData_en = [
     "time": "2026-07-19T10:50:23.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Big mistake': CJP founder Abhijeet Dipke accuses Delhi Police of 'kidnapping' Sonam Wangchuk",
-    "desc": "Climate activist Sonam Wangchuk was removed from the Jantar Mantar protest site. He had been on an indefinite hunger strike for over twenty days. Authorities moved him to Safdarjung Hospital for necessary medical monitoring. Protesters and the Cockroach Janta Party criticized this forceful removal. However, the Delhi High Court later upheld the government's decision.",
-    "img": "https://static.toiimg.com/photo/msid-132493206,imgsize-944964.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/big-mistake-cjp-founder-abhijeet-dipke-accuses-delhi-police-of-kidnapping-sonam-wangchuk/articleshow/132493205.cms",
-    "time": "2026-07-19T10:41:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi HC backs government's move to shift Sonam to hospital, says no force used",
-    "desc": "The Delhi HC upheld the Centre's decision to move Sonam Wangchuk to Safdarjung Hospital. The court found the government's action was not arbitrary given his health condition. His wife's petition for transfer to a private hospital was declined by the court. The court noted Wangchuk's family has been given unrestricted access to him.",
-    "img": "https://static.toiimg.com/photo/msid-132493069,imgsize-113919.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-relief-for-wangchuk-delhi-hc-backs-governments-move-to-shift-sonam-to-hospital-says-no-force-used/articleshow/132492735.cms",
-    "time": "2026-07-19T10:32:22.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Celina announces comeback film 'Sister Nibedita'",
     "desc": "Celina Jaitly confirmed her acting comeback after a long hiatus. Her next project is 'Sister Nibedita,' a film inspired by Margaret Elizabeth Noble. She announced this news on X, sharing an emotional note with her followers. The film will chronicle the remarkable life of Margaret Elizabeth Noble, the Irish educator. This project marks Celina's first film after a lengthy break from the screen.",
@@ -532,42 +631,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Sonakshi Sinha backs Sonam Wangchuk after forced hospital shift, urges peaceful protest",
-    "desc": "Actor Sonakshi Sinha has once again voiced her support for activist Sonam Wangchuk, hours after Delhi Police moved him from the Jantar Mantar protest site to Safdarjung Hospital. In an Instagram video, Sinha called the move \"not right\" and urged Wangchuk's supporters to stay peaceful ahead of their planned July 20 march to Parliament.",
-    "img": "https://static.toiimg.com/photo/msid-132492644,imgsize-122556.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonakshi-sinha-backs-sonam-wangchuk-after-forced-hospital-shift-urges-peaceful-protest-ahead-of-july-20-march-every-voice-deserves-respect/articleshow/132492570.cms",
-    "time": "2026-07-19T09:56:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Calcutta HC halts demolition of Abhishek Banerjee's Amtala office",
-    "desc": "The Calcutta High Court has ordered a halt to demolition work at Abhishek Banerjee's office. This directive came after an anti-encroachment drive was initiated at the premises. The Trinamool Congress leader had alleged political motivation behind the demolition efforts. He stated the office was built legally on purchased land with permissions. The district administration claimed the structure violated building plan rules.",
-    "img": "https://static.toiimg.com/photo/msid-132492582,imgsize-805352.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/calcutta-hc-halts-demolition-of-abhishek-banerjees-amtala-office/articleshow/132492610.cms",
-    "time": "2026-07-19T09:49:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Pawan Kalyan’s wife Anna walks the sacred Alipiri steps at Tirumala",
-    "desc": "Anna Lezhneva walked the Alipiri steps to Tirumala for her husband's health. She offered prayers for Pawan Kalyan's speedy recovery after his recent surgery. This devotional act was a vow for his well-being and showed her faith. She previously climbed the steps after her son's school fire incident. Her respect for Indian traditions and Sanatana Dharma was evident.",
-    "img": "https://static.toiimg.com/photo/msid-132492530,imgsize-144272.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/pawan-kalyans-wife-anna-lezhneva-walks-the-sacred-alipiri-steps-at-tirumala-temple-without-vip-privileges-to-pray-for-og-stars-good-health/articleshow/132492523.cms",
-    "time": "2026-07-19T09:43:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'The Ultimatum' star Blake Robertson's assault case dismissed",
-    "desc": "'The Ultimatum' star Blake Robertson's assault case involving girlfriend Hayley Hendrich, from Season 4, was dismissed after his October 2025 arrest in Texas, with records expunged. Hayley declined to press charges but says accountability is still needed publicly. The couple, whose season features a rocky trial-marriage swap, left the show together. Their status will be addressed during next week's reunion episode.",
-    "img": "https://static.toiimg.com/photo/msid-132492478,imgsize-177256.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-ultimatum-star-blake-robertsons-assault-case-involving-hayley-hendrich-dismissed-records-expunged/articleshow/132492443.cms",
-    "time": "2026-07-19T09:43:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Key differences between Homer’s Greek classic and Christopher Nolan’s 'The Odyssey'",
     "desc": "While Christopher Nolan’s ‘The Odyssey’ is making its rounds in theatres and has already reported good box office numbers, fans have pointed out a few differences in the retelling of the Greek classic. While it was natural for the filmmaker to skip some pivotal scenes from Homer’s ‘Odyssey,’ specifically because of the text's sheer length—fans noticed that the film had quite a few aspects compared to how it was in Homer’s poem, even beyond the use of modern-day dialogue. Here are some instances from 2026's ‘The Odyssey’ that appear quite different from its reference text of Homer’s ‘Odyssey’.",
     "img": "https://static.toiimg.com/photo/msid-132492493,imgsize-39736.cms",
@@ -583,15 +646,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/data/how-close-the-fifa-semi-finals-will-be/article71222058.ece",
     "time": "2026-07-19T07:38:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sleepless nights, depressing times, and then a Grandmaster: Making of Rathanvel VS",
-    "desc": "After four-and-a-half years of heartbreak, sleepless nights and repeated near-misses, Rathanvel VS finally crossed the 2500 Elo mark to become India's 99th Grandmaster. From discovering chess through a free board to overcoming injuries, financial setbacks and crushing disappointments, the 2001-born Coimbatore player's perseverance, family support and belief transformed a long-awaited dream into reality.",
-    "img": "https://static.toiimg.com/photo/msid-132490804,imgsize-131488.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/indias-99th-gm-sleepless-nights-depressing-times-and-then-a-chess-grandmaster-the-making-of-rathanvel-vs/articleshow/132490725.cms",
-    "time": "2026-07-19T06:32:37.000Z"
   },
   {
     "cat": "Entertainment",
@@ -637,15 +691,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/hungarys-president-signs-constitutional-amendment-ending-his-term/article71240536.ece",
     "time": "2026-07-19T02:35:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "The tactical evolution that has Spain one win from FIFA World Cup glory",
-    "desc": "Spain have quietly put together one of the most complete tactical campaigns of the World Cup, reaching the final with a new identity that goes beyond the tiki-taka era. Under Luis de la Fuente, La Roja have blended control with verticality, aggression and defensive discipline, shutting down elite attacks while playing with purpose. Now, only Lionel Messi's Argentina stand between Spain and a second World Cup title.",
-    "img": "https://static.toiimg.com/photo/msid-132488926,imgsize-59138.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/beyond-tiki-taka-the-tactical-evolution-that-has-spain-one-win-from-fifa-world-cup-glory/articleshow/132488893.cms",
-    "time": "2026-07-19T01:11:49.000Z"
   },
   {
     "cat": "Sports",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/ai-should-not-be-a-solo-performance-but-symphony-of-global-collaboration-xi-jinping/article71232848.ece",
     "time": "2026-07-18T04:40:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "How women audiences are championing Marathi films in theatres",
-    "desc": "With a host of female-centric films being made, Marathi cinema is speaking closely to women audiences, who are in turn showing up in large numbers to watch them, celebrate them and turn them into box office successes",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/wttz3z/article71229657.ece/alternates/LANDSCAPE_1200/Actor%20Girija%20Oak%20Godbole%20posing%20for%20a%20photo%20with%20others%20during%20a%20movie%20screening",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/how-women-audiences-are-championing-marathi-films-in-theatres-baipan-bhari-deva-tighee-deool-band-2/article71229588.ece",
-    "time": "2026-07-18T04:34:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "France, England vie for third place",
-    "desc": "For France and England, Miami offers one final test of character. Neither arrived in America dreaming of bronze. But bronze is now all that remains and finding the will to fight for it may be the hardest assignment of all",
-    "img": "https://th-i.thgim.com/public/incoming/tz5gtd/article71235603.ece/alternates/LANDSCAPE_1200/2026-07-17T161331Z_601481975_UP1EM7H192H3G_RTRMADP_3_SOCCER-WORLDCUP-FRA-ENG-PREVIEW.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/fifa-world-cup-france-england-vie-for-third-place/article71235584.ece",
-    "time": "2026-07-18T00:10:03.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Textile sector to sew loose ends as FTAs kick in",
-    "desc": "New free trade agreements offer Indian textile exporters significant tariff advantages. The UK deal eliminates up to twelve percent tariffs, boosting competitiveness against rivals. Companies anticipate increased orders and potential export growth over the next few years. However, fragmented supply chains and higher input costs present ongoing challenges. Industry experts suggest government incentives could strengthen domestic fabric ecosystems.",
-    "img": "https://static.toiimg.com/photo/msid-132471953,imgsize-43642.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/textile-sector-to-sew-loose-ends-as-ftas-kick-in/articleshow/132471952.cms",
-    "time": "2026-07-17T22:20:53.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "'Front-running patterns seen in PMS by Sebi's AI tools'",
-    "desc": "Sebi is extensively deploying artificial intelligence tools for market surveillance. These advanced capabilities are generating actionable alerts for regulators. Patterns from these alerts suggest front-running is occurring within the PMS industry. The regulator is adopting a supportive approach for compliance and resolution. This initiative aims to foster greater awareness and deter negative investor perceptions.",
-    "img": "https://static.toiimg.com/photo/msid-132470796,imgsize-916954.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/front-running-patterns-seen-in-pms-by-sebis-ai-tools/articleshow/132470653.cms",
-    "time": "2026-07-17T22:08:45.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "RBI may look through price worries, high credit growth",
-    "desc": "RBI governor Sanjay Malhotra indicated no immediate policy reaction to current inflation. He described price pressures as contained, attributing them to supply-side factors. Growth remains resilient, supported by domestic demand and investment. Credit expansion is brisk, with RBI monitoring fast-growing segments closely. The central bank focuses on inflation composition, not just the headline number.",
-    "img": "https://static.toiimg.com/photo/msid-132470429,imgsize-114490.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-may-look-through-price-worries-high-credit-growth/articleshow/132470382.cms",
-    "time": "2026-07-17T22:06:22.000Z"
   }
 ];
