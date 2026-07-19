@@ -1,5 +1,203 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Yamal creates history, becomes first teenager to play in both Euro &amp; World Cup finals",
+    "desc": "Lamine Yamal achieved a historic football milestone before the World Cup final. He became the first teenager to play in both a Euro and a World Cup final. Yamal was instrumental in Spain's journey to the championship match. The young player's performance has been a key factor for his team. Spain faced Argentina in the title clash for the coveted trophy.",
+    "img": "https://static.toiimg.com/photo/msid-132500499,imgsize-95140.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/lamine-yamal-creates-history-becomes-first-teenager-to-play-in-both-euro-and-fifa-world-cup-finals/articleshow/132500498.cms",
+    "time": "2026-07-19T18:49:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Josh Kerr of Britain breaks the men''s mile world record that stood since 1999",
+    "desc": "At a Diamond League meet in London, Kerr broke Moroccan great Hicham El Guerrouj's mark of 3 minutes, 43.13 seconds, set in Rome in 1999. The 28-year-old native of Edinburgh celebrated with a lap of honour at London Stadium",
+    "img": "https://th-i.thgim.com/public/incoming/4cmrye/article71242609.ece/alternates/LANDSCAPE_1200/2026-07-18T151105Z_260537654_UP1EM7I14ZIS2_RTRMADP_3_ATHLETICS-DIAMOND-LONDON.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/josh-kerr-of-britain-breaks-the-mens-mile-world-record-that-stood-since-1999/article71242539.ece",
+    "time": "2026-07-19T18:42:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Panel to consider two complaints on leasing and illegal diversion of forest land in Kerala",
+    "desc": "The complaints on reported illegal diversion of forest land and irregular timber auction in Chalakudy forest division and the alleged continued use of reserved forest land by Plantation Corporation of Kerala will come up before the Central Empowered Committee, New Delhi, on July 20",
+    "img": "https://th-i.thgim.com/public/incoming/87bsjv/article71242198.ece/alternates/LANDSCAPE_1200/TH11-Koshy-One-G05G83SA7.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/panel-to-consider-two-complaints-on-leasing-and-illegal-diversion-of-forest-land-in-kerala/article71242073.ece",
+    "time": "2026-07-19T18:30:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Messi creates history, becomes first captain to lead a nation in three WC finals",
+    "desc": "Lionel Messi captained Argentina in his third World Cup final. He previously led his team in the 2014 and 2022 finals. Messi aims to win consecutive World Cup titles for Argentina. Argentina reached the final after a comeback win against England. Spain advanced after defeating France in their semifinal match.",
+    "img": "https://static.toiimg.com/photo/msid-132499849,imgsize-104242.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/lionel-messi-creates-history-before-kick-off-becomes-first-captain-to-lead-a-nation-in-three-world-cup-finals/articleshow/132499850.cms",
+    "time": "2026-07-19T18:29:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PMK organises signature campaign urging State govt. to notify extent of Pallikaranai marshland",
+    "desc": "Speaking during the campaign, the PMK president criticised former DMK minister P.K. Sekarbabu, who was in-charge of the CMDA, for not playing the crucial role of being the watchdog in the State for real estate development",
+    "img": "https://th-i.thgim.com/public/incoming/bd0qpz/article71242596.ece/alternates/LANDSCAPE_1200/DSC_2273.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/pmk-organises-signature-campaign-urging-state-govt-to-notify-extent-of-pallikaranai-marshland/article71241939.ece",
+    "time": "2026-07-19T18:26:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Even as fertility rates drop, young still aspire to partnership, parenthood, shows UN report",
+    "desc": "Young adults worldwide and in India still desire marriage and family life. Financial security and stable employment are crucial for partnership decisions. Many young people aspire to partnership and parenthood despite demographic shifts. India's youth express optimism about the future while worrying about economic insecurity. Ideal family sizes are reported, with older respondents having fewer children.",
+    "img": "https://static.toiimg.com/photo/msid-132499546,imgsize-674719.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/even-as-fertility-rates-drop-young-still-aspire-to-partnership-parenthood-shows-un-report/articleshow/132499554.cms",
+    "time": "2026-07-19T18:15:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Less than half of 483 Lok Sabha MPs attended 90-100% of sittings in Parliament’s budget session, shows analysis",
+    "desc": "Smaller parties demonstrated the highest average Member of Parliament attendance during the recent budget session. RLP and RLD achieved one hundred percent attendance for all thirty-one sittings. BJP and Congress, the largest parties, recorded lower average attendance figures. In Rajya Sabha, regional parties also led in parliamentary attendance percentages. This analysis highlights attendance trends among various political parties in both Houses.",
+    "img": "https://static.toiimg.com/photo/msid-132499530,imgsize-238139.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/less-than-half-of-483-lok-sabha-mps-attended-90-100-of-sittings-in-parliaments-budget-session-shows-analysis/articleshow/132499533.cms",
+    "time": "2026-07-19T18:11:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Neha, a prominent face of the CJP protests, presses on with hunger strike",
+    "desc": "The All India Students’ Association’s national president and two of her colleagues continue the hunger strike demanding reforms in education. She vows to continue the fight to remind people that ‘the divisive politics that the BJP has taught’ is not their legacy",
+    "img": "https://th-i.thgim.com/public/incoming/dkug08/article71242484.ece/alternates/LANDSCAPE_1200/PTI07_05_2026_000100A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/neha-a-prominent-face-of-the-cjp-protests-presses-on-with-hunger-strike/article71242312.ece",
+    "time": "2026-07-19T17:56:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How much the champions will earn from a record $871M prize fund",
+    "desc": "The 2026 FIFA World Cup will award a record $51 million to the champions. Runners-up will receive $34 million, and the total prize pool reaches $871 million. Every participating nation is guaranteed at least $12.5 million for qualifying and preparation. This expanded prize money reflects FIFA's increased financial commitment to the tournament. Prize money goes to national federations, not directly to the players.",
+    "img": "https://static.toiimg.com/photo/msid-132499269,imgsize-180560.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/argentina-vs-spain-world-cup-final-how-much-the-champions-and-runners-up-will-earn-from-fifas-record-871-million-prize-fund/articleshow/132498976.cms",
+    "time": "2026-07-19T17:54:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rohit and Kohli script history, break into ODI's all-time top two list",
+    "desc": "Rohit Sharma and Virat Kohli achieved their twenty-first ODI century partnership. This milestone placed them second in all-time ODI history for century stands. The duo also became the first Indian pair to play 400 international matches together. Rohit Sharma scored a remarkable 138 runs during the chase. England had earlier posted a formidable 387 for three at Lord's.",
+    "img": "https://static.toiimg.com/photo/msid-132498587,imgsize-226770.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/rohit-sharma-and-virat-kohli-script-history-break-into-odis-all-time-top-two-list/articleshow/132498582.cms",
+    "time": "2026-07-19T17:34:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rohit Sharma rewrites ODI history, sets record for most hundreds in a visiting country",
+    "desc": "Rohit Sharma achieved a significant milestone by scoring his eighth ODI century in England. This remarkable century placed him ahead of Sachin Tendulkar on an elite all-time list. England posted a formidable 387/3, setting a challenging target for India. Sharma's innings helped India remain competitive in the series-deciding match. The Indian opener's performance silenced critics after a lean run.",
+    "img": "https://static.toiimg.com/photo/msid-132498321,imgsize-203552.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/rohit-sharma-rewrites-odi-history-most-hundreds-in-a-visiting-country-after-iconic-lords-century/articleshow/132498327.cms",
+    "time": "2026-07-19T17:26:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CIC directs IITs to form high-level committees to curb student deaths by suicides",
+    "desc": "It says information on panels must be proactively disclosed on the institutes’ official websites. The direction came while disposing of appeals filed by an IIT-Kanpur alumnus, who is the founder of a non-governmental organisation engaged in student rehabilitation and mental health counselling",
+    "img": "https://th-i.thgim.com/public/incoming/1fzp8d/article71241656.ece/alternates/LANDSCAPE_1200/1693_3_4_2023_16_24_11_1_IIT_M.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/cic-directs-iits-to-form-high-level-committees-to-curb-student-deaths-by-suicides/article71241308.ece",
+    "time": "2026-07-19T17:19:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Martyrs’ Day 2026 turns out to be show of political strength for rival Trinamool factions in West Bengal",
+    "desc": "Trinamool Congress MP Kakoli Ghosh Dastidar, who, along with 19 other party Lok Sabha MPs, has merged with the little-known Nationalist Citizens Party of India (NCPI), said the faction would observe Martyrs’ Day at Rajghat",
+    "img": "https://th-i.thgim.com/public/incoming/53x9ko/article71242437.ece/alternates/LANDSCAPE_1200/4col_Lead_StoryGFGG8M9ED.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/martyrs-day-2026-turns-out-to-be-show-of-political-strength-for-rival-trinamool-factions-in-west-bengal/article71242029.ece",
+    "time": "2026-07-19T17:06:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "All-party meet: MPs seek debate on NEET leak delimitation, temple theft, E20",
+    "desc": "Parties stage a brief walkout from all-party meet in protest against government’s invitation to breakaway Trinamool faction; leaders from 50 political parties who attended the meeting seek discussion on police action at Jantar Mantar and Manipur situation also",
+    "img": "https://th-i.thgim.com/public/incoming/mknrfj/article71242365.ece/alternates/LANDSCAPE_1200/20260719224L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/opposition-walks-out-of-all-party-meeting-parliament-monsoon-session/article71240813.ece",
+    "time": "2026-07-19T17:04:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rohit Sharma scripts history, becomes first Indian to score ODI ton at Lord's",
+    "desc": "Rohit Sharma achieved a historic ODI century at Lord's on Sunday. He became the oldest Indian to score an ODI hundred in the format. This remarkable innings came amidst scrutiny regarding his ODI future. England posted a massive 387 runs, setting a daunting target for India. Sharma's century marked his eighth ODI hundred in England.",
+    "img": "https://static.toiimg.com/photo/msid-132497895,imgsize-173160.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/rohit-sharma-scripts-history-becomes-first-indian-to-score-odi-century-at-lords-surpasses-sachin-tendulkars-record/articleshow/132497907.cms",
+    "time": "2026-07-19T16:57:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Roads turn death traps for gig workers in Kerala",
+    "desc": "Over 30 such workers, mostly food delivery personnel, have been killed in road accidents in the State in the past one year, as per informal data collected by a union. Time constraints coupled with heavy traffic often contribute to the higher number of fatalities, those involved in the sector say",
+    "img": "https://th-i.thgim.com/public/incoming/erpbt9/article71242431.ece/alternates/LANDSCAPE_1200/GIG%20worker.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/roads-turn-death-traps-for-gig-workers-in-kerala/article71241918.ece",
+    "time": "2026-07-19T16:54:52.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Russian attacks kill six in Kyiv, other cities; expose gaps in Ukraine’s air defences",
+    "desc": "Moscow has in recent weeks stepped up its use of ballistic missiles as it seeks to choke off Ukrainian strikes on oil facilities deep inside Russia that have caused critical fuel shortages affecting both the military and the civilian population.",
+    "img": "https://th-i.thgim.com/public/incoming/jwqxw1/article71240896.ece/alternates/LANDSCAPE_1200/2026-07-19T065631Z_198702073_RC2UGMA3087T_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/russia-ukraine-war-missile-attack-on-kyiv-death-toll-injuries/article71240891.ece",
+    "time": "2026-07-19T16:54:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "First time ever at Lord's! India, England script unique record with century opening stands",
+    "desc": "India and England created ODI history at Lord's by becoming the first teams to both register 100-plus opening partnerships in the same match at the venue. Ben Duckett and Jacob Bethell added 192 for England before Rohit Sharma and Shubman Gill replied with 147. Gill's dismissal for 77 ended the record stand during India's chase of 388.",
+    "img": "https://static.toiimg.com/photo/msid-132497818,imgsize-193850.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/first-time-ever-at-lords-india-england-script-unique-odi-record-with-century-opening-stands/articleshow/132497748.cms",
+    "time": "2026-07-19T16:43:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Amit Shah inaugurates India’s first immersive language museum in Kolkata",
+    "desc": "The museum features nine galleries exploring different facets of the history of languages and their influence on India’s civilisation and culture; it seeks to present language as a living entity that has continuously shaped society while also being shaped by it",
+    "img": "https://th-i.thgim.com/public/incoming/971h3m/article71242341.ece/alternates/LANDSCAPE_1200/PTI07_19_2026_000464B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/amit-shah-inaugurates-indias-first-immersive-language-museum-in-kolkata/article71241179.ece",
+    "time": "2026-07-19T16:21:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tanishk Bagchi deletes 'Saiyaara' Rs 8 lakh unpaid royalty post after YRF responds",
+    "desc": "Music composer Tanishk Bagchi claimed unpaid royalties for the Saiyaara title track. Yash Raj Films clarified all contractual payments were made to composers. Bagchi's social media post alleging financial disappointment was later deleted. The Saiyaara title track was a collaboration between three composers, YRF stated. Royalties are being distributed equally among all three composers as agreed.",
+    "img": "https://static.toiimg.com/photo/msid-132497212,imgsize-402193.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tanishk-bagchi-deletes-saiyaara-rs-8-lakh-unpaid-royalty-post-hours-after-yrf-responds-and-says-every-collaborator-was-paid/articleshow/132497181.cms",
+    "time": "2026-07-19T15:57:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Faced with outrage, Kerala Health Minister makes a U-turn on DYFI food packet distribution in hospitals",
+    "desc": "K. Muraleedharan said that the government would put an end to the distribution of food packets on hospital premises under the banner of political parties. His office issues a statement the next day that it need not be perceived as a general statement and pertained to one hospital",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/2druyw/article71241948.ece/alternates/LANDSCAPE_1200/1000949254.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/faced-with-outrage-kerala-health-minister-makes-a-u-turn-on-dyfi-food-packet-distribution-in-hospitals/article71241971.ece",
+    "time": "2026-07-19T15:56:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Joe Root creates history at Lord's, rewrites ODI series history against India",
+    "desc": "Joe Root achieved a remarkable feat in the July 2026 ODI series against India. He remained unbeaten throughout the series, scoring 249 runs without being dismissed. This performance made him the first England batter to achieve six consecutive ODI half-centuries. Root surpassed previous records for most runs in a bilateral ODI series without losing his wicket. His consistent batting guided England to strong performances in all three matches.",
+    "img": "https://static.toiimg.com/photo/msid-132497171,imgsize-130508.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/joe-root-creates-history-in-3rd-odi-at-lords-rewrites-history-against-india/articleshow/132497114.cms",
+    "time": "2026-07-19T15:52:00.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Police in Madhya Pradesh move activist on hunger strike at Ken-Betwa site to hospital",
     "desc": "The Congress’s Leader of the Opposition in the Madhya Pradesh Assembly Umang Singhar slams police action, comparing it with that of the Delhi Police against Sonam Wangchuk; ‘the BJP government has made suppressing every dissenting voice its governing model’, he says",
@@ -18,15 +216,6 @@ const newsData_en = [
     "time": "2026-07-19T15:42:59.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Roads turn death traps for gig workers in Kerala",
-    "desc": "Over 30 such workers, mostly food delivery personnel, have been killed in road accidents in the State in the past one year, as per informal data collected by a union. Time constraints coupled with heavy traffic often contribute to the higher number of fatalities, those involved in the sector say",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/roads-turn-death-traps-for-gig-workers-in-kerala/article71241918.ece",
-    "time": "2026-07-19T15:42:55.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Your wishes mean the world to me': Sindhu's heartfelt message to Modi",
     "desc": "PV Sindhu thanked Prime Minister Narendra Modi for congratulating her after becoming the first Indian to win the Japan Open. Recalling their meetings after the Tokyo Olympics, she said his wishes \"mean the world\" to her and praised his work ethic and support for Indian sport. Sindhu ended her two-year title drought by defeating Akane Yamaguchi in the final.",
@@ -34,15 +223,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/your-wishes-mean-the-world-to-me-pv-sindhus-heartfelt-message-to-pm-modi-after-japan-open-triumph/articleshow/132496676.cms",
     "time": "2026-07-19T15:36:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Panel to consider two complaints on leasing and illegal diversion of forest land in Kerala",
-    "desc": "The complaints on reported illegal diversion of forest land and irregular timber auction in Chalakudy forest division and the alleged continued use of reserved forest land by Plantation Corporation of Kerala will come up before the Central Empowered Committee, New Delhi, on July 20",
-    "img": "https://th-i.thgim.com/public/incoming/87bsjv/article71242198.ece/alternates/LANDSCAPE_1200/TH11-Koshy-One-G05G83SA7.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/panel-to-consider-two-complaints-on-leasing-and-illegal-diversion-of-forest-land-in-kerala/article71242073.ece",
-    "time": "2026-07-19T15:34:36.000Z"
   },
   {
     "cat": "Entertainment",
@@ -72,15 +252,6 @@ const newsData_en = [
     "time": "2026-07-19T15:28:17.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Officials told to work in mission mode to tackle potential impact of El Nino",
-    "desc": "Agriculture Minister Tummala Nageswara Rao chairs review meet on contingency plan for erstwhile Karimnagar district; stresses timely implementation of contingency measures, promotion of drought-tolerant and other suitable alternative crops, water conservation and farmer awareness programmes to safeguard livelihoods",
-    "img": "https://th-i.thgim.com/public/incoming/6xo06u/article71242142.ece/alternates/LANDSCAPE_1200/Thummala2.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/officials-told-to-work-in-mission-mode-to-tackle-potential-impact-of-el-nino/article71242043.ece",
-    "time": "2026-07-19T15:26:28.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Nick Jonas drops b'day wish for PC, shares glimpse of their romantic getaway",
     "desc": "Priyanka Chopra celebrated her birthday with new stills from her upcoming film Varanasi. Her husband Nick Jonas shared a heartfelt social media tribute to the actress. The couple revisited their relationship's beginning on a podcast, sharing early messages. Their journey started with a direct message in 2016 and led to marriage and a child. Priyanka Chopra's film Varanasi is scheduled for release in April 2027.",
@@ -99,15 +270,6 @@ const newsData_en = [
     "time": "2026-07-19T15:04:41.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Karnataka Cabinet approves ₹12-crore AI Centre of Excellence at IIIT Raichur",
-    "desc": "The Karnataka Cabinet has approved the establishment of a Centre of Excellence in Artificial Intelligence at the Indian Institute of Information Technology, Raichur, with an outlay of ₹12 crore over five years, Minister for Home, Information Technology & Biotechnology, and e-Governance Priyank Kharge",
-    "img": "https://th-i.thgim.com/public/incoming/dgumxg/article71242055.ece/alternates/LANDSCAPE_1200/iStock-2207141986.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-cabinet-approves-12-crore-ai-centre-of-excellence-at-iiit-raichur/article71241858.ece",
-    "time": "2026-07-19T14:57:23.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Love Island UK Season 13' controversies",
     "desc": "Love Island UK Season 13 concludes its drama on July 27, 2026. Gabriel Garland was removed from the villa due to court documents. George Knight exited the show citing private family reasons and language use. Finley Maddock's love triangle led to Ellie Chadwick's departure from the villa. The winning couple will be crowned after eight weeks of intense competition.",
@@ -124,42 +286,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/main-vaapas-aaunga-writer-says-they-were-careful-about-the-depiction-in-partition-scenes-theres-a-balanced-view-it-can-be-rage-bait/articleshow/132495654.cms",
     "time": "2026-07-19T14:44:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Geo-tagging of forest locations raises concerns over trespassing",
-    "desc": "Forest department flags 23 Google Maps listings inside reserve forests in Kozhikode as misleading; officials say unauthorised map pins and uploaded photographs are encouraging illegal entry into protected areas; DFO seeks removal of the listings, warning of trespassing, public safety risks and human-wildlife conflict",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/geo-tagging-of-forest-locations-raises-concerns-over-trespassing/article71241685.ece",
-    "time": "2026-07-19T14:39:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "New study hints at a wider distribution of Agasthyamalai Bushfrog in Western Ghats",
-    "desc": "A research team has discovered the Agasthyamalai Bushfrog in the high-elevation shola forests of Devikulam, near Munnar, extending the species’ known distribution by more than 120 km northwards. Until now, the species was thought to be confined to the Agasthyamalai Hills south of the Shencottah Gap",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/nn3rlk/article71241673.ece/alternates/LANDSCAPE_1200/1.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/new-study-hints-at-a-wider-distribution-of-agasthyamalai-bushfrog-in-western-ghats/article71241664.ece",
-    "time": "2026-07-19T14:32:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "how to align what is said and what is written",
-    "desc": "The Bills moved by the government did not align with the oral promise made by Prime Minister Narendra Modi and Home Minister Amit Shah on the floor of Parliament and in interactions with representatives of political parties",
-    "img": "https://th-i.thgim.com/public/incoming/37nli3/article71241555.ece/alternates/LANDSCAPE_1200/PTI04_02_2026_000033B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/delimitation-how-to-align-what-is-said-and-what-is-written/article71241445.ece",
-    "time": "2026-07-19T14:27:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Man arrested for manufacturing drugs in school, sets up Alprazolam factory again, four held",
-    "desc": "An accused, Malela Jaya Prakash Goud, was arrested in September 2025 in connection with a case involving an Alprazolam manufacturing unit at Medha High School in Bowenpally and remained in judicial custody until March 16 this year",
-    "img": "https://th-i.thgim.com/public/news/national/telangana/4tz8hw/article71241637.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-19%20at%206.57.49%20PM%201.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/four-arrested-for-manufacturing-alprazolam-at-poultry-farm-in-mahabubnaga/article71241653.ece",
-    "time": "2026-07-19T14:24:06.000Z"
   },
   {
     "cat": "Sports",
@@ -261,15 +387,6 @@ const newsData_en = [
     "time": "2026-07-19T13:12:11.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'He has failed': Murphy says Tuchel should not keep England job after World Cup",
-    "desc": "Former England players question Thomas Tuchel's tactical choices in the World Cup semi-final. They believe his decisions denied the team a place in the final match. England secured third place after defeating France in an entertaining playoff game. Bukayo Saka returned to the starting lineup and scored a hat-trick. Despite the bronze medal, the campaign is not considered a success by some.",
-    "img": "https://static.toiimg.com/photo/msid-132494965,imgsize-112100.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/he-has-failed-danny-murphy-says-thomas-tuchel-should-not-keep-england-job-after-world-cup/articleshow/132494976.cms",
-    "time": "2026-07-19T13:02:31.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "‘No state has witnessed such a political change since Independence’: Amit Shah on Bengal",
     "desc": "Union Home Minister Amit Shah called West Bengal's political change unprecedented since Independence. He criticized the previous Left Front and Trinamool Congress governments. Shah attended the foundation stone laying for a new dairy project. This project aims to boost the state's dairy sector and farmer incomes. The minister concluded his three-day visit to West Bengal.",
@@ -277,15 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/no-state-has-witnessed-such-a-political-change-since-independence-amit-shah-on-bengal/articleshow/132494665.cms",
     "time": "2026-07-19T13:00:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bravo touches Gayle's feet, calls him 'Original GOAT' at MLC",
-    "desc": "Dwayne Bravo and Chris Gayle delighted fans with a heartwarming reunion at Major League Cricket, where Bravo touched Gayle's feet and called him the “Original GOAT.” Later, Bravo's Los Angeles Knight Riders won their maiden MLC title, edging Washington Freedom by one run in a thrilling final after Shadley van Schalkwyk's brilliant last over sealed a dramatic victory.",
-    "img": "https://static.toiimg.com/photo/msid-132494924,imgsize-84074.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/major-league-cricket/watch-dwayne-bravo-touches-chris-gayles-feet-calls-him-original-goat-at-mlc/articleshow/132494683.cms",
-    "time": "2026-07-19T12:56:53.000Z"
   },
   {
     "cat": "Sports",
@@ -313,24 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/chief-minister-vijay-starrer-jana-nayagans-bookings-begin-in-tamil-nadu-ahead-of-july-23-release-fdfs-timing-revealed/articleshow/132494310.cms",
     "time": "2026-07-19T12:19:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Spain will win easily': Ronaldo makes bold Argentina prediction before WC final",
-    "desc": "Brazilian legend Ronaldo Nazario predicts Spain will easily defeat Argentina in the World Cup final. He believes Spain's possession-based game will prove too much for Lionel Messi's team. Unbeaten Spain enters the championship match with a strong defensive record. Argentina seeks its fourth world title and aims to defend its crown. Ronaldo's prediction stems from Spain and France being his tournament favorites.",
-    "img": "https://static.toiimg.com/photo/msid-132494191,imgsize-286874.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/spain-will-win-easily-ronaldo-makes-bold-argentina-prediction-before-world-cup-final/articleshow/132494187.cms",
-    "time": "2026-07-19T12:03:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Leo scores all the time': Mbappe predicts Messi will reclaim WC record",
-    "desc": "Kylian Mbappe became the FIFA World Cup's all-time leading scorer with 22 goals after scoring twice against England, overtaking Lionel Messi's 21. However, the France captain expects Messi to reclaim the record in Sunday's final against Spain. Despite the milestone and leading the Golden Boot race, Mbappe said he would have preferred playing in the World Cup final.",
-    "img": "https://static.toiimg.com/photo/msid-132494112,imgsize-1123041.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/leo-scores-all-the-time-kylian-mbappe-predicts-lionel-messi-will-reclaim-world-cup-record/articleshow/132494096.cms",
-    "time": "2026-07-19T11:59:51.000Z"
   },
   {
     "cat": "Entertainment",
@@ -423,24 +513,6 @@ const newsData_en = [
     "time": "2026-07-19T10:30:30.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Why are players wearing black armbands during the India vs England Lord's ODI?",
-    "desc": "Players from India and England wore black armbands to honor Sir Gary Sobers. This tribute occurred before the third and final ODI match at Lord's. England captain Harry Brook won the toss and elected to bat first. India made several changes to their team due to player injuries. The match was significant with the ODI World Cup approaching.",
-    "img": "https://static.toiimg.com/photo/msid-132493066,imgsize-256724.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/why-are-players-wearing-black-armbands-during-the-india-vs-england-lords-odi/articleshow/132493088.cms",
-    "time": "2026-07-19T10:28:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit, Virat create history at Lord's, become first Indian pair to...",
-    "desc": "Rohit Sharma and Virat Kohli reached 400 international matches together. This milestone occurred during the third ODI against England at Lord's. Both players aim to win the 2027 Cricket World Cup. England won the toss and chose to bat first in the series decider. Jasprit Bumrah was ruled out of the match due to injury.",
-    "img": "https://static.toiimg.com/photo/msid-132492900,imgsize-226770.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/rohit-sharma-virat-kohli-create-history-in-3rd-odi-against-england-at-lords-become-first-indian-pair-to-/articleshow/132492867.cms",
-    "time": "2026-07-19T10:21:12.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Jayden James Federline debunks Britney Spears clone theory",
     "desc": "Britney Spears' 19-year-old son Jayden James Federline dismissed a viral \"clone theory\" about his mother during a July 17 livestream, calling the online speculation ridiculous and pointing out she's clearly active on social media. He reflected on how misinformation spreads easily online. The moment comes as Britney rebuilds her relationship with Jayden and older son Sean Preston, with ex-partner Sam Asghari also expressing happiness over their reconciliation.",
@@ -466,15 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonakshi-sinha-backs-sonam-wangchuk-after-forced-hospital-shift-urges-peaceful-protest-ahead-of-july-20-march-every-voice-deserves-respect/articleshow/132492570.cms",
     "time": "2026-07-19T09:56:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Jasprit Bumrah not playing today's 3rd ODI vs England at Lord's?",
-    "desc": "Pace spearhead Jasprit Bumrah is out of the ODI series decider due to a knee injury. Captain Shubman Gill confirmed the significant blow for India at the toss. KL Rahul returns to the playing XI, replacing Rishabh Pant behind the stumps. India opted for a four-man pace attack in the winner-takes-all contest. England made one change, with Josh Tongue replacing Saqib Mahmood.",
-    "img": "https://static.toiimg.com/photo/msid-132492624,imgsize-168340.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/why-is-jasprit-bumrah-not-playing-todays-3rd-odi-vs-england-at-lords/articleshow/132492487.cms",
-    "time": "2026-07-19T09:53:03.000Z"
   },
   {
     "cat": "Politics",
@@ -513,42 +576,6 @@ const newsData_en = [
     "time": "2026-07-19T09:39:19.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Rajya Sabha MPs' salaries, perks cost exchequer Rs 262 crore in two years",
-    "desc": "The RTI response showed that expenditure on sitting Rajya Sabha members rose sharply from more than Rs 98 crore in 2024-25 to over Rs 163 crore in 2025-26, marking an increase of nearly Rs 65 crore in a year. The expenditure covered salaries, domestic and international travel, office expenses, medical reimbursements and other facilities provided to MPs.",
-    "img": "https://static.toiimg.com/photo/msid-132492470,imgsize-194972.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/rajya-sabha-mps-salaries-perks-cost-exchequer-rs-262-crore-in-two-years/articleshow/132492474.cms",
-    "time": "2026-07-19T09:38:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day from Suniel Shetty",
-    "desc": "Bollywood star Suniel Shetty highlights the importance of home as a cornerstone for personal joy. He asserts that true happiness nurtured at home paves the way for success in outward ventures. His residence in Khandala, titled Jahaan, took 16 years to create, drawing inspiration from nature and an affinity for lush surroundings. Additionally, it delves into Shetty's formative years and career trajectory.",
-    "img": "https://static.toiimg.com/photo/msid-132492184,imgsize-77102.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/quote-of-the-day-from-suniel-shetty-only-if-you-create-the-magic-at-home-can-you-create-that-magic-outside-when-the-hera-pheri-actor-taught-us-that-the-place-you-live-in-is-more-than-brick-and-mortar-it-can-be-the-reason-behind-your-success/articleshow/132492169.cms",
-    "time": "2026-07-19T09:30:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'NCPI requested recognition, how can you ignore?' Kiren Rijiju after opposition walkout over TMC rebels invitation",
-    "desc": "Union minister Kiren Rijiju defended inviting the Nationalist Citizens Party of India to an all-party meeting. Opposition parties staged a symbolic walkout protesting the invitation to rebel Trinamool Congress MPs. Rijiju stated the government followed parliamentary norms and could not ignore the party's recognition request. Eight bills are listed for the upcoming Monsoon Session, which begins Monday. All parties have the right to express views and cooperate for the nation.",
-    "img": "https://static.toiimg.com/photo/msid-132492157,imgsize-1065450.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ncpi-requested-recognition-how-can-you-ignore-kiren-rijiju-after-opposition-walkout-over-tmc-rebels-invitation/articleshow/132492140.cms",
-    "time": "2026-07-19T09:17:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Equal rights for Ram, Rahim, Ravinder and Robin': CM Mohan Yadav after Madhya Pradesh cabinet approves UCC",
-    "desc": "Announcing the approval, the chief minister said the proposed legislation was aimed at guaranteeing equal rights for every citizen, irrespective of religion, and congratulated his Cabinet colleagues for unanimously backing the Bill. \"Today, the Madhya Pradesh Cabinet has wholeheartedly and unanimously approved the Uniform Civil Code Bill, 2026. I wish to extend my congratulations to my esteemed Cabinet colleagues and to all of you,\" he said.",
-    "img": "https://static.toiimg.com/photo/msid-132492106,imgsize-120310.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/equal-rights-for-ram-rahim-ravinder-and-robin-cm-mohan-yadav-after-madhya-pradesh-cabinet-approves-ucc/articleshow/132492112.cms",
-    "time": "2026-07-19T09:10:18.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "How close will the FIFA semi-finals be?",
     "desc": "The teams with the top four rankings prior to the World Cup has entered the semi-finals. Analysis shows the differents paths they have taken, a nuanced look into their relative strengths and how close the two matches could be",
@@ -556,15 +583,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/data/how-close-the-fifa-semi-finals-will-be/article71222058.ece",
     "time": "2026-07-19T07:38:05.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Russian missiles strike Kyiv killing one, wounding 13",
-    "desc": "A series of powerful explosions thundered in the ‌night, as Ukraine’s air force warned of a ballistic missile threat; Several non-residential buildings and warehouses were struck in the attack, ​while parked cars ‌and office buildings were on fire in several districts, Kyiv Mayor said",
-    "img": "https://th-i.thgim.com/public/incoming/jwqxw1/article71240896.ece/alternates/LANDSCAPE_1200/2026-07-19T065631Z_198702073_RC2UGMA3087T_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/russia-ukraine-war-missile-attack-on-kyiv-death-toll-injuries/article71240891.ece",
-    "time": "2026-07-19T07:28:16.000Z"
   },
   {
     "cat": "Sports",
@@ -592,15 +610,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/chennai/children-from-narikurava-community-in-pallavaram-as-commentators-in-a-puppetry-production-on-environmental-degradation/article71240545.ece",
     "time": "2026-07-19T05:40:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PV Sindhu scripts history, stuns Yamaguchi to become first Indian to ...",
-    "desc": "The 31-year-old became the first Indian to win the Japan Open after beating the three-time world champion 21-17, 21-17. The victory ended her title drought of more than two years and marked her biggest title since winning the World Championships in 2019.",
-    "img": "https://static.toiimg.com/photo/msid-132490413,imgsize-152930.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/badminton/pv-sindhu-scripts-history-beats-yamaguchi-after-four-years-to-become-first-indian-to-win-japan-open/articleshow/132490414.cms",
-    "time": "2026-07-19T05:37:31.000Z"
   },
   {
     "cat": "Business",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-may-look-through-price-worries-high-credit-growth/articleshow/132470382.cms",
     "time": "2026-07-17T22:06:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "We had to train in indoor halls with no heating in zero-degree winter: Netherlands women’s cricket coach Neil MacRae",
-    "desc": "The 54-year-old speaks of the obstacles the Netherlands women’s team had to overcome to make their seemingly impossible dream of qualifying for the T20 World Cup a reality. The former Scotland international talks about the realities of associate cricket, the inspiring spirit of the Dutch women he coached and what batting with Rahul Dravid in 2003 was like",
-    "img": "https://th-i.thgim.com/public/incoming/xize11/article71235786.ece/alternates/LANDSCAPE_1200/GettyImages-2258966432.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/neil-macrae-netherlands-women-t20-world-cup-associate-cricket-interview/article71235792.ece",
-    "time": "2026-07-17T18:25:33.000Z"
   }
 ];

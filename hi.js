@@ -1,92 +1,92 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Ben Duckett surpasses Sir Vivian Richards in elite list with magnificent century against India in third ODI",
-    "desc": "India and England took on each other in the third ODI of the ongoing series. The two sides met at the Lord’s Cricket Ground in London on July 19th, and the clash began with England...",
+    "title": "Can Messi once again shake hands with paradise or is it Yamal’s era?",
+    "desc": "Current European champions Spain take on defending world Champions in the 2026 FIFA World Cup final in New York. The Luis de la Fuente side has announced an unchanged playing XI, with Rodri and Fabian...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ben-duckett-surpasses-sir-vivian-richards-in-elite-list-with-magnificent-century-against-india-in-third-odi-2026-07-19-1048746",
-    "time": "2026-07-19T14:26:29.000Z"
+    "url": "https://www.indiatvnews.com/sports/football/esp-vs-arg-fifa-world-cup-live-spain-vs-argentina-score-tactical-analysis-commentary-highlight-reaction-1048768",
+    "time": "2026-07-19T18:28:42.000Z"
   },
   {
     "cat": "Sports",
-    "title": "Kerala declares holiday for all educational institutions in view of FIFA World Cup 2026 final",
-    "desc": "The Kerala government on Sunday declared a holiday for all educational institutions in view of the FIFA World Cup 2026 final between Argentina and Spain, scheduled to begin after midnight on Sunday. The announcement was...",
+    "title": "Why is Lautaro Martinez not starting for Argentina in FIFA World Cup 2026 final against Spain?",
+    "desc": "Lautaro Martinez was on the bench as he missed out on starting for Argentina in their FIFA World Cup 2026 final against Spain on Sunday, July 19 (local time). The Inter Milan striker scored the...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/kerala-declares-holiday-for-all-educational-institutions-in-view-of-fifa-world-cup-2026-final-2026-07-19-1048740",
-    "time": "2026-07-19T12:19:19.000Z"
+    "url": "https://www.indiatvnews.com/sports/football/why-is-lautaro-martinez-not-starting-for-argentina-in-fifa-world-cup-2026-final-against-spain-2026-07-19-1048767",
+    "time": "2026-07-19T18:26:42.000Z"
   },
   {
     "cat": "Sports",
-    "title": "LA Knight Riders clinch maiden MLC title with thrilling win over defending champions Washington Freedom",
-    "desc": "The MLC (Major League Cricket) 2026 final saw LA Knight Riders take on Washington Freedom. The two sides met at the Oakland Coliseum on July 19th, and it was LA Knight Riders who came out...",
+    "title": "Rohit Sharma’s masterclass in vain as England register 27-run victory to clinch ODI series against India",
+    "desc": "India and England took on each other in the third and final ODI of the ongoing series between the two. The sides met at the Lord's Cricket Ground in London on July 19th, and it...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/la-knight-riders-clinch-maiden-mlc-title-with-thrilling-win-over-defending-champions-washington-freedom-2026-07-19-1048737",
-    "time": "2026-07-19T12:04:09.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/england-clinch-odi-series-with-thrilling-win-over-india-at-lord-s-2026-07-19-1048765",
+    "time": "2026-07-19T18:19:21.000Z"
   },
   {
     "cat": "Sports",
-    "title": "Why are India and England players wearing black armbands in the third ODI of the series in London?",
-    "desc": "India and England are taking on each other in the third and final ODI of the ongoing series. The two sides will meet at the Lord’s Cricket Ground in London on July 19th, and the...",
+    "title": "Why are Pedri, Gavi, Nico Williams not playing FIFA World Cup 2026 final vs Argentina in New York?",
+    "desc": "Spain have once again dropped their star midfielders Pedri and Gavi from the starting XI against Argentina in the FIFA World Cup 2026 final in New York. It is purely a tactical call by Luis...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-are-india-and-england-players-wearing-black-armbands-in-the-third-odi-of-the-series-in-london-2026-07-19-1048730",
-    "time": "2026-07-19T10:32:26.000Z"
+    "url": "https://www.indiatvnews.com/sports/football/why-are-pedri-gavi-nico-williams-not-playing-fifa-world-cup-2026-final-vs-argentina-in-new-york-2026-07-19-1048764",
+    "time": "2026-07-19T18:08:05.000Z"
   },
   {
     "cat": "Sports",
-    "title": "Why is Jasprit Bumrah not playing in India vs England third ODI in London?",
-    "desc": "India and England are taking on each other in the third and final ODI of the ongoing series between the two. The sides will meet at the Lord's Cricket Ground in London for the clash,...",
+    "title": "Rohit Sharma and Virat Kohli overtake Dilshan-Sangakkara in elite list with solid partnership against England",
+    "desc": "India took on England in the third and final ODI of the ongoing series between the two sides. The teams took centre stage at the Lord’s Cricket Ground in London on July 19th, and the...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-jasprit-bumrah-not-playing-in-india-vs-england-third-odi-in-london-2026-07-19-1048726",
-    "time": "2026-07-19T09:49:26.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-and-virat-kohli-overtake-dilshan-sangakkara-in-elite-list-with-solid-partnership-against-england-2026-07-19-1048762",
+    "time": "2026-07-19T17:59:20.000Z"
   },
   {
     "cat": "Sports",
-    "title": "Gill completes half-century, India remain in control",
-    "desc": "The stage is set for the third and final ODI of the ongoing series between India and England. The two sides are meeting at the Lord's Cricket Ground in London for the clash, and with...",
+    "title": "Rohit Sharma downs huge Sachin Tendulkar records with stellar hundred at Lord's",
+    "desc": "Rohit Sharma produced a statement knock in the third and final ODI of the series against England on Sunday, July 19, amidst all the retirement speculations and reports. Sharma, who is the oldest Indian to...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-eng-3rd-odi-live-cricket-score-england-opt-to-bat-first-in-london-with-series-on-the-line-2026-07-19-1048725",
-    "time": "2026-07-19T09:43:30.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-downs-huge-sachin-tendulkar-records-with-stellar-hundred-at-lords-2026-07-19-1048760",
+    "time": "2026-07-19T17:36:46.000Z"
   },
   {
     "cat": "Sports",
-    "title": "PV Sindhu creates history, wins maiden Japan Open after straight-games victory over Akane Yamaguchi",
-    "desc": "PV Sindhu returned to winning ways in emphatic fashion, defeating home favourite Akane Yamaguchi in straight games to lift her maiden Japan Open title on Sunday. The two-time Olympic medallist produced one of her finest...",
+    "title": "Where to watch Spain vs Argentina FIFA World Cup 2026 final match live on TV and stream online for free?",
+    "desc": "Spain and Argentina will meet in the FIFA World Cup final in the early hours of Monday at New York New Jersey Stadium. The match pits the reigning European champions against the defending world champions...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/pv-sindhu-wins-japan-open-2026-akane-yamaguchi-final-2026-07-19-1048711",
-    "time": "2026-07-19T05:41:06.000Z"
+    "url": "https://www.indiatvnews.com/sports/football/where-to-watch-spain-vs-argentina-fifa-world-cup-2026-final-match-live-on-tv-and-stream-online-for-free-2026-07-19-1048757",
+    "time": "2026-07-19T16:47:11.000Z"
   },
   {
     "cat": "Sports",
-    "title": "Bukayo Saka's hat-trick helps England survive late French rally to win Bronze after 10-goal World Cup classic",
-    "desc": "England produced a clinical attacking display before surviving a spirited French comeback to defeat France 6-4 in the FIFA World Cup 2026 third-place playoff in Miami. With that, the Three Lions secured their best finish...",
+    "title": "Rohit Sharma shuts retirement talks with century, becomes first Indian to achieve historic feat",
+    "desc": "Veteran India batter Rohit Sharma performed exceptionally well in the third ODI of the ongoing series against India. Chasing down the target of 388 runs, Rohit slammed his 51st international century and became the first...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/bukayo-saka-s-hat-trick-helps-england-survive-late-french-rally-to-win-bronze-after-10-goal-world-cup-classic-2026-07-19-1048698",
-    "time": "2026-07-18T23:20:38.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-shuts-retirement-talks-with-century-becomes-first-indian-to-achieve-historic-feat-2026-07-19-1048756",
+    "time": "2026-07-19T16:45:37.000Z"
   },
   {
     "cat": "Sports",
-    "title": "Why are Harry Kane and Jude Bellingham not starting for England in bronze medal match vs France?",
-    "desc": "England manager Thomas Tuchel has left Harry Kane and Jude Bellingham out of the starting line-up for the FIFA World Cup 2026 bronze medal match against France in Miami. The decision was made as part...",
+    "title": "Joe Root scripts history, surpasses Jos Buttler with sublime performances against India in ODI series",
+    "desc": "England put forth a sensational performance in the third and final ODI of the ongoing series between the two sides. The teams met at the Lord’s Cricket Ground in London for the clash, and England...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/why-are-harry-kane-and-jude-bellingham-not-starting-for-england-in-bronze-medal-match-vs-france-2026-07-19-1048697",
-    "time": "2026-07-18T20:50:49.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/joe-root-scripts-history-surpasses-jos-buttler-with-sublime-performances-against-india-in-odi-series-2026-07-19-1048755",
+    "time": "2026-07-19T16:36:03.000Z"
   },
   {
     "cat": "Sports",
-    "title": "England beat France 6-4, after six goals scored in second half",
-    "desc": "France face England in the FIFA World Cup 2026 third-place playoff, with both teams looking to end their campaigns with a victory after falling short of the final. The match also features contrasting team selections,...",
+    "title": "Why is Kuldeep Yadav dropped again? Former cricketers lash out at team management over selection calls",
+    "desc": "Star India spinner Kuldeep Yadav has been dropped from the third ODI against England at Lord’s. With Washington Sundar ruled out of the match and Jasprit Bumrah having suffered a last-minute knee injury, India were...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/fra-vs-eng-fifa-world-cup-live-france-vs-england-score-tactical-analysis-commentary-highlight-reaction-1048696",
-    "time": "2026-07-18T20:31:55.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-kuldeep-yadav-dropped-again-former-cricketers-lash-out-at-team-management-over-selection-calls-2026-07-19-1048752",
+    "time": "2026-07-19T15:58:22.000Z"
   }
 ];

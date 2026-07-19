@@ -117,15 +117,6 @@ const newsData_bn = [
     "time": "2026-07-18T05:14:23.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "চিকিৎসায় অবহেলায় মৃত ধর্ষিতা শিশু: নামের আগে 'ডাক্তার' শব্দ মুছে ফেলুন, তুলোধোনা সুপ্রিম কোর্টের",
-    "desc": "\"গরিব বলে চিকিৎসা করলেন না? নামের আগে থেকে ডাক্তার শব্দটাই মুছে দিন!\" গাজিয়াবাদে ৪ বছরের এক ধর্ষিতা শিশুকে ফিরিয়ে দেওয়ার জেরে তার মৃত্যুর ঘটনায় দুই বেসরকারি হাসপাতালকে নজিরবিহীন ভাষায় তুলোধোনা করলেন সুপ্রিম কোর্টের প্রধান বিচারপতি সূর্য কান্ত। কাঠগড়ায় পুলিসের ভূমিকাও। নির্যাতিতার পরিবারকে জরিমানা দেওয়ার নির্দেশ শীর্ষ আদালতের।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/supreme-court-raps-ghaziabad-hospitals-child-rape-murder-case-cji-surya-kant_662834.html ",
-    "time": "2026-07-17T14:53:16.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘র‍্যাঞ্চো’ কি সোনম ওয়াংচুক নন? 'আমরা তো ওকে চিনতামই না', দীর্ঘদিনের ভুল ভাঙালেন আমির",
     "desc": "সোনম নিজেও বলেছিলেন, তাঁর জীবন থেকে অনুপ্রাণিত থ্রি ইডিয়টস। যদিও ছবির গল্পের সঙ্গে তাঁর মিল নেই। তবে ‘বাস্তবের র‍্যাঞ্চো’ বলেই সোনমকে চেনে গোটা দেশ। তবে আমিরের সাফ কথা, থ্রি ইডিয়টস-এর ফুংসুখ ওয়াংডু চরিত্রটি সোনম ওয়াংচুকের নয়।",
@@ -277,23 +268,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/celebrity-personal-life-vs-professional-success-audience-perception-aamir-khan-wedding_661307.html ",
     "time": "2026-07-06T16:05:24.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
-    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
-    "time": "2026-06-01T03:50:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
-    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
-    "time": "2026-05-23T05:15:29.000Z"
   }
 ];
