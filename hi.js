@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Ben Duckett surpasses Sir Vivian Richards in elite list with magnificent century against India in third ODI",
+    "desc": "India and England took on each other in the third ODI of the ongoing series. The two sides met at the Lord’s Cricket Ground in London on July 19th, and the clash began with England...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ben-duckett-surpasses-sir-vivian-richards-in-elite-list-with-magnificent-century-against-india-in-third-odi-2026-07-19-1048746",
+    "time": "2026-07-19T14:26:29.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Kerala declares holiday for all educational institutions in view of FIFA World Cup 2026 final",
     "desc": "The Kerala government on Sunday declared a holiday for all educational institutions in view of the FIFA World Cup 2026 final between Argentina and Spain, scheduled to begin after midnight on Sunday. The announcement was...",
     "img": "",
@@ -37,7 +46,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Ben Duckett completes magnificent century, India in search of wickets",
+    "title": "Gill completes half-century, India remain in control",
     "desc": "The stage is set for the third and final ODI of the ongoing series between India and England. The two sides are meeting at the Lord's Cricket Ground in London for the clash, and with...",
     "img": "",
     "src": "indiatvnews.com",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/fra-vs-eng-fifa-world-cup-live-france-vs-england-score-tactical-analysis-commentary-highlight-reaction-1048696",
     "time": "2026-07-18T20:31:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch PV Sindhu's Japan Open final vs Akane Yamaguchi live on TV and stream online in India?",
-    "desc": "PV Sindhu will compete for the Japan Open women's singles title against Japan's Akane Yamaguchi in the final. She aims to end a long wait for a BWF World Tour championship, as it marks her...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/when-and-where-to-watch-pv-sindhu-s-japan-open-final-vs-akane-yamaguchi-live-on-tv-and-stream-online-in-india-2026-07-19-1048695",
-    "time": "2026-07-18T20:12:51.000Z"
   }
 ];
