@@ -1,30 +1,201 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "'Hopefully govt will fix accountability': Sonam Wangchuk to continue his hunger strike",
+    "desc": "Climate activist Sonam Wangchuk continues his hunger strike after witnessing police actions against protestors. He demands that youth leaders meet parliamentarians or he be allowed to meet them. Wangchuk appeals to the government and police to let students present their grievances. Thousands marched to Parliament demanding the Education Minister's resignation over examination irregularities. Police used tear gas and force, detaining several protestors during the march.",
+    "img": "https://static.toiimg.com/photo/msid-132517025,imgsize-937099.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/hopefully-govt-will-fix-accountability-sonam-wangchuk-to-continue-his-hunger-strike/articleshow/132516960.cms",
+    "time": "2026-07-20T13:32:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bengali to be used in all official State communication from September 1, says CM Suvendu",
+    "desc": "The Chief Minister stated that Union Home Minister Amit Shah had written to him requesting that, on the occasion of the 125th birth anniversary of Dr. Syama Prasad Mookerjee, the use of Bengali language in West Bengal should be promoted more extensively",
+    "img": "https://th-i.thgim.com/public/incoming/k3g4j9/article71244281.ece/alternates/LANDSCAPE_1200/PTI07_19_2026_000469B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/bengali-to-be-used-in-all-official-state-communication-from-september-1-says-cm-suvendu/article71244279.ece",
+    "time": "2026-07-20T13:28:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "R Ashwin points to selection bias, explains why Rohit and Virat are 'impossible to drop'",
+    "desc": "Ravichandran Ashwin stated dropping Rohit Sharma and Virat Kohli is nearly impossible. Their extraordinary achievements and immense fan following make them undroppable players. Ashwin highlighted the disparity in how batters and bowlers are perceived in Indian cricket. Bowlers receive less public backing and face limited criticism when dropped. This contrasts sharply with the potential uproar from dropping batting icons.",
+    "img": "https://static.toiimg.com/photo/msid-132516733,imgsize-334523.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/r-ashwin-points-to-selection-bias-explains-why-rohit-sharma-and-virat-kohli-are-impossible-to-drop/articleshow/132516661.cms",
+    "time": "2026-07-20T13:24:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Thank you, India!': Argentina envoy thanks Indian fans after World Cup heartbreak",
+    "desc": "Argentina's Ambassador expressed gratitude to Indian football fans for their support. The Albiceleste reached the FIFA World Cup final but lost to Spain. Ferran Torres scored the decisive goal in extra time for Spain. Emiliano Martinez made several crucial saves for the Argentine team. This gesture highlights the strong connection between India and Argentine football.",
+    "img": "https://static.toiimg.com/photo/msid-132516740,imgsize-162774.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/thank-you-india-argentina-envoy-thanks-indian-fans-after-world-cup-heartbreak/articleshow/132516732.cms",
+    "time": "2026-07-20T13:20:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Trainee IPS officer, accused of sexual harassment by colleague, hospitalised after suspected suicide attempt",
+    "desc": "A trainee IPS officer was hospitalized after a suspected suicide attempt following serious allegations. He faces charges of stalking and sexually harassing a fellow trainee at the police academy. The woman trainee accused him of sending abusive messages and physical assault. The officer denied the allegations on social media, calling them baseless. Investigators will issue a notice for him to appear in connection with the case.",
+    "img": "https://static.toiimg.com/photo/msid-132516659,imgsize-76374.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/trainee-ips-officer-accused-of-sexual-harassment-by-colleague-hospitalised-after-suspected-suicide-attempt/articleshow/132516358.cms",
+    "time": "2026-07-20T13:15:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Telangana launches Indiramma Housing scheme in Hyderabad; releases eligibility, application procedure, beneficiary contribution details",
+    "desc": "The flats with built up area of 528 sft will be built in multi-storey towers. While Telangana government would provide subsidy of ₹5 lakh, tentative contribution of beneficiary is ₹6 lakh. A flat will be spread over 400 sft.",
+    "img": "https://th-i.thgim.com/public/incoming/xus537/article71244363.ece/alternates/LANDSCAPE_1200/_DSC6190.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Hyderabad/telangana-launches-indiramma-houses-in-hyderabad-cure/article71244258.ece",
+    "time": "2026-07-20T13:06:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Argentina and Spain players in ugly brawl seconds after final whistle in FIFA World Cup final",
+    "desc": "Barely seconds after the final whistle at the FIFA World Cup final in New Jersey, a few Spain and Argentina players got involved in a brawl. As the Spanish substitutes rushed onto the pitch to celebrate their 1-0 win, Argentina midfielder Leandro Paredes shoved Spain’s Gavi to the ground.",
+    "img": "https://th-i.thgim.com/public/incoming/94tk78/article71245251.ece/alternates/LANDSCAPE_1200/brawl.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-argentina-and-spain-players-in-ugly-brawl-seconds-after-final-whistle-in-fifa-world-cup-final/article71245243.ece",
+    "time": "2026-07-20T12:49:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jessica Alba and Danny Ramirez share a date night in New York City",
+    "desc": "Actress Jessica Alba and boyfriend Danny Ramirez attended a Raising Cane's party. Alba wore a black strapless dress and minimal makeup for the event. The couple was rumored to be together starting in July 2025. Alba recently finalized her divorce from Cash Warren after two decades. She spoke about trusting life's process and letting things unfold.",
+    "img": "https://static.toiimg.com/photo/msid-132516284,imgsize-219879.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jessica-alba-and-danny-ramirez-share-a-date-night-in-new-york-city-following-their-recent-italian-vacation/articleshow/132516293.cms",
+    "time": "2026-07-20T12:48:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Spain's Rodri scripts history, joins football's most exclusive club after WC win",
+    "desc": "Rodri achieved a rare football honour by winning the World Cup 2026 with Spain. He joined legends Gerd Müller, Franz Beckenbauer, and Zinedine Zidane with this achievement. Rodri also secured the World Cup Golden Ball as the tournament's best player. His exceptional passing and defensive contributions were vital for Spain's victory. This win cements Rodri's status among football's all-time great midfielders.",
+    "img": "https://static.toiimg.com/photo/msid-132516201,imgsize-68592.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/spains-rodri-scripts-history-joins-footballs-most-exclusive-club-after-world-cup-glory/articleshow/132516277.cms",
+    "time": "2026-07-20T12:47:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NHRC issues notice to Rajasthan govt. over alleged stripping, assault of schoolgirls",
+    "desc": "The students at the government school in Sawai Madhopur district were allegedly frisked, beaten and forced to remove their clothes by teachers after one of them reported losing ₹1,000; the human rights body seeks a detailed report from the State govt. and action taken report in the matter",
+    "img": "https://th-i.thgim.com/public/incoming/a9qbdp/article71245196.ece/alternates/LANDSCAPE_1200/IMG_iStock-2075583750_2_1_2BFV3P9I.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/nhrc-issues-notice-to-rajasthan-govt-over-alleged-stripping-assault-of-schoolgirls/article71245086.ece",
+    "time": "2026-07-20T12:45:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'He has shut up everybody': Ravi Shastri defends Rohit after Lord's century",
+    "desc": "Ravi Shastri supports Rohit Sharma, urging management to let him play as long as desired. Sharma silenced critics with a historic century at Lord's in the third ODI. He stated external noise does not affect his focus on team success. Sharma's performance came amid speculation about his future international career. The veteran opener continues to represent India and contribute to team achievements.",
+    "img": "https://static.toiimg.com/photo/msid-132516163,imgsize-186720.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/he-has-shut-up-everybody-ravi-shastri-defends-rohit-sharma-after-lords-century/articleshow/132516127.cms",
+    "time": "2026-07-20T12:42:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Best time travel web series to watch on OTT",
+    "desc": "Time travel is one of the hardest things to do well in television. Get the rules wrong, ignore your own logic, or leave a single thread unresolved and the whole thing unravels. These are the shows that got it right, building time travel into stories so meticulously constructed and emotionally gripping that the mechanics become inseparable from the heart of the show. Here are seven of the best.",
+    "img": "https://static.toiimg.com/photo/msid-132494209,imgsize-183648.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/best-time-travel-web-series-to-watch-dark-outlander-12-monkeys-and-more-sci-fi-masterpieces/photostory/132494209.cms",
+    "time": "2026-07-20T12:30:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anupama’s cryptic posts fuel Dhruv Vikram breakup buzz",
+    "desc": "Anupama Parameswaran has been sharing posts on Instagram that focus on healing and self-empowerment, prompting her fans to speculate about a potential breakup with Dhruv Vikram. Their relationship rumors initially surfaced during the filming of 'Bison Kaalamaadan' in early 2025. Despite the swirling gossip, neither actor has publicly acknowledged the status of their relationship. Recently, the actress has conveyed themes of freedom and self-love through her social media.",
+    "img": "https://static.toiimg.com/photo/msid-132515488,imgsize-256629.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/anupama-parameswaran-returns-to-instagram-with-cryptic-posts-amid-dhruv-vikram-breakup-speculation/articleshow/132515394.cms",
+    "time": "2026-07-20T12:22:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Central Information Commission directs IITs to form high-level committees to curb student deaths by suicides",
+    "desc": "It says information on panels must be proactively disclosed on the institutes’ official websites. The direction came while disposing of appeals filed by an IIT-Kanpur alumnus, who is the founder of a non-governmental organisation engaged in student rehabilitation and mental health counselling",
+    "img": "https://th-i.thgim.com/public/incoming/1fzp8d/article71241656.ece/alternates/LANDSCAPE_1200/1693_3_4_2023_16_24_11_1_IIT_M.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/cic-directs-iits-to-form-high-level-committees-to-curb-student-deaths-by-suicides/article71241308.ece",
+    "time": "2026-07-20T12:21:10.000Z"
+  },
+  {
     "cat": "World",
     "title": "India extends grant support to Maldives for fitness centres across 42 islands",
     "desc": "On July 19, Memoranda of Understanding (MoUs) were signed by Maldivian Foreign Minister Iruthisham Adam, Indian High Commissioner G Balasubramanian and Maldives' Youth Empowerment, Sports and Fitness Minister Abdulla Rafiu at a ceremony in Male",
     "img": "https://th-i.thgim.com/public/incoming/eabinu/article71244535.ece/alternates/LANDSCAPE_1200/2O3A0889.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/india-extends-grant-support-to-maldives-for-fitness-centres-across-42-islands/article71244487.ece",
-    "time": "2026-07-20T11:34:52.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "‘I go with good grace and a smile on my face’: Starmer says, making way for Burnham as U.K. PM",
-    "desc": "Mr. Starmer made history two years ago when he led the Labour Party — which had suffered its worst defeat in decades in 2019 — to one of the largest victories in modern times. He made history again, but this time for becoming the U.K.’s shortest-serving Labour Prime Minister in modern history.",
-    "img": "https://th-i.thgim.com/public/incoming/y7xgn0/article71244869.ece/alternates/LANDSCAPE_1200/2026-07-20T104001Z_1128485567_RC2MHMA3C3IA_RTRMADP_3_BRITAIN-POLITICS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/i-go-with-good-grace-and-a-smile-on-my-face-starmer-says-making-way-for-burnham/article71244798.ece",
-    "time": "2026-07-20T11:25:05.000Z"
+    "time": "2026-07-20T11:59:59.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Prohibitory orders in Mumbai from July 23 to August 6; cops cite likelihood of public order disturbance",
-    "desc": "The order will not cover gatherings at courts, government offices and local bodies for official work, academic activities in schools, colleges and educational institutions, and assemblies at factories, shops and establishments for normal trade and business",
-    "img": "https://th-i.thgim.com/public/incoming/fxfabi/article71244693.ece/alternates/LANDSCAPE_1200/Brown%20and%20Red%20Vintage%20Post%20Stamp%20Letter%20Blank%20Landscape%20Document%20A4.png",
+    "title": "Trust deploys new cash-counting team, introduces two-shift system under SBI supervision",
+    "desc": "The Ram Temple trust has implemented a new cash counting system with two shifts. This new process is now under the supervision of the State Bank of India. A new in-charge has been appointed after the previous one was jailed. This follows an investigation into alleged theft of donation money. Authorities arrested eight individuals and recovered significant cash and valuables.",
+    "img": "https://static.toiimg.com/photo/msid-132514998,imgsize-352146.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ram-temple-donation-row-trust-deploys-new-cash-counting-team-introduces-two-shift-system-under-sbi-supervision/articleshow/132514436.cms",
+    "time": "2026-07-20T11:53:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'His retirement will be decided': Kaif makes bold statement on Rohit's future",
+    "desc": "Mohammad Kaif backs Rohit Sharma amid speculation about his international cricket future. Kaif insists retirement is a personal choice, not dictated by public opinion. Rohit recently scored a historic century at Lord's, silencing critics effectively. He believes team management support would greatly benefit the veteran opener. Kaif hopes for an end to unnecessary noise, allowing Rohit to play peacefully.",
+    "img": "https://static.toiimg.com/photo/msid-132514783,imgsize-27575.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/his-retirement-will-be-decided-mohammad-kaif-makes-bold-statement-on-rohit-sharmas-future-after-lords-heroics/articleshow/132514663.cms",
+    "time": "2026-07-20T11:51:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delhi HC seeks comprehensive medical record on Sonam Wangchuk's condition",
+    "desc": "The Delhi High Court requested comprehensive medical records for Sonam Wangchuk. Authorities must submit all health documents and reports from various hospitals. Doctors treating Wangchuk were directed to appear before the court. This action follows an appeal against a single judge's decision on his hospital transfer. The court is reviewing the government's decision regarding his deteriorating health condition.",
+    "img": "https://static.toiimg.com/photo/msid-132514860,imgsize-811936.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/delhi-hc-seeks-comprehensive-medical-record-on-sonam-wangchuks-condition/articleshow/132514843.cms",
+    "time": "2026-07-20T11:47:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hema Malini breaks into tears, says it's been a struggle for Esha, Ahana after Dharmendra's death",
+    "desc": "Hema Malini tearfully recalled her late husband Dharmendra's unwavering support and encouragement. She expressed gratitude for his presence throughout her personal and professional life. Her daughters Esha and Ahana shared touching tributes, expressing pride and love. Ahana praised her mother's resilience and the values instilled by both parents. Esha affirmed her support, calling Hema Malini a strong woman and inspiration.",
+    "img": "https://static.toiimg.com/photo/msid-132514773,imgsize-307637.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hema-malini-breaks-into-tears-says-dharmendra-never-stopped-her-from-doing-anything-after-marriage-reveals-its-been-a-struggle-for-daughters-esha-ahana-after-his-death/articleshow/132514736.cms",
+    "time": "2026-07-20T11:44:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Spain players form guard of honour for Messi after World Cup win",
+    "desc": "Spain secured the FIFA World Cup 2026 title after a hard-fought extra-time victory over Argentina. The Spanish team formed a guard of honour for Lionel Messi and his teammates. Ferran Torres scored the decisive goal which handed La Roja their second World Cup. Messi's quest for a second World Cup title ended as Argentina's reign concluded. Spain's disciplined defence successfully contained the legendary Argentine captain throughout the match.",
+    "img": "https://static.toiimg.com/photo/msid-132514604,imgsize-280592.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/watch-spain-players-form-guard-of-honour-for-lionel-messi-after-fifa-world-cup-win/articleshow/132514636.cms",
+    "time": "2026-07-20T11:43:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vikrant Massey says staying friends with an ex is 'red flag'",
+    "desc": "Vikrant Massey opened up about his relationship with Sheetal Thakur, highlighting their long friendship that blossomed into marriage. He expressed concern over maintaining ties with ex-partners, deeming it a potential issue for future relationships. Together for over ten years, the couple tied the knot in February 2022 and welcomed their son Vardaan in 2024. Fans can look forward to his film 'Musafir Cafe' debuting on Netflix this July.",
+    "img": "https://static.toiimg.com/photo/msid-132514419,imgsize-112822.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vikrant-massey-says-staying-friends-with-an-ex-is-red-flag-neither-sheetal-nor-i-are-friends-with-our-exes/articleshow/132514029.cms",
+    "time": "2026-07-20T11:28:56.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "fuel for debate",
+    "desc": "As car and bike owners report clogged injectors, damaged fuel pumps, and contaminated petrol across the country, a look at competing claims on what is driving the complaints, and whether ethanol is really to blame",
+    "img": "https://th-i.thgim.com/public/incoming/rnecwc/article71241050.ece/alternates/LANDSCAPE_1200/Ethanol%20side%20effects%20in%20vehicles%20E%2020%202.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/mumbai/prohibitory-orders-in-mumbai-from-july-23-to-august-6-cops-cite-likelihood-of-public-order-disturbance/article71244632.ece",
-    "time": "2026-07-20T11:14:37.000Z"
+    "url": "https://www.thehindu.com/business/the-e20-transition-fuel-for-debate/article71240965.ece",
+    "time": "2026-07-20T11:27:25.000Z"
   },
   {
     "cat": "Entertainment",
@@ -55,15 +226,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Former Newcastle Knights star Scott Dureau dies at 39 after terrifying battle with brain cancer, tributes pour in for the NRL icon",
-    "desc": "Former Newcastle Knights and Catalans Dragons halfback Scott Dureau has died at the age of 39 after a long and courageous battle with brain cancer. The former rugby league star had been fighting the disease for more than a decade after doctors first discovered a tumour behind his eye in 2013.",
-    "img": "https://static.toiimg.com/photo/msid-132513747,imgsize-1035148.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/international-sports/former-newcastle-knights-star-scott-dureau-dies-at-39-after-terrifying-battle-with-brain-cancer-tributes-pour-in-for-the-nrl-icon/articleshow/132513761.cms",
-    "time": "2026-07-20T11:03:42.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "A World Cup of records, redemption and remarkable stories: How football won the summer",
     "desc": "Spain and Argentina fought for the sport's biggest prize right down to the very last kick of extra time, watched by a global audience that dwarfed anything politics could ever hope to command. In the end, the football did what it has always done best, it brought people together, across borders and languages and passports, no matter what was happening outside the stadium gates. That, more than any scoreline, is why this World Cup will be remembered as the biggest and perhaps one of the best ever played inside the lush green grasses with white lines.",
     "img": "https://static.toiimg.com/photo/msid-132513694,imgsize-2728713.cms",
@@ -81,31 +243,13 @@ const newsData_en = [
     "time": "2026-07-20T10:48:06.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Bhaktavatsalam’s take on the destruction of documents relating to anti-Hindi agitation in Tamil Nadu",
-    "desc": "He said he was advised that papers on politicians against whom detention orders had been served need not be kept so that they would not be available to the very people who were likely to take charge of the government. When Ministers came to know about officers who had made reports about them, they would get prejudiced, he further said",
-    "img": "https://th-i.thgim.com/public/incoming/dw2bld/article70707544.ece/alternates/LANDSCAPE_1200/BhaktavatsalamG75FHTNH4.2.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/bhaktavatsalamstake-on-the-destruction-of-documents-relating-to-anti-hindi-agitation/article70707504.ece",
-    "time": "2026-07-20T10:39:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "a trailblazer for Dalit rights and women empowerment",
-    "desc": "Meenambal Sivaraj was born on December 12, 1904, in Rangoon, in a family that placed great importance on education and service. One of her most significant contributions was her work with All India Scheduled Castes Federation founded by Ambedkar",
-    "img": "https://th-i.thgim.com/public/incoming/90391e/article70708635.ece/alternates/LANDSCAPE_1200/HP91630.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/meenambal-sivaraj-a-trailblazer-for-dalit-rightsand-women-empowerment/article70706909.ece",
-    "time": "2026-07-20T10:39:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "The Kumbakonam connection of MGR, M.K. Nambyar and M.S. Swaminathan",
-    "desc": "The families of the iconic film star and former Tamil Nadu Chief Minister, the distinguished constitutional lawyer, and the celebrated agricultural scientist hailed from Kerala. But they spent a formative part of their lives in Kumbakonam, known for its rich cultural heritage, before rising to national prominence in politics, cinema, law, and science",
-    "img": "https://th-i.thgim.com/public/incoming/jkln5y/article70707230.ece/alternates/LANDSCAPE_1200/TH.ven-4%202.jpg.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/thekumbakonamconnection-of-mgr-mknambyarandms-swaminathan/article70706896.ece",
-    "time": "2026-07-20T10:38:57.000Z"
+    "cat": "Entertainment",
+    "title": "Atlee lauds Ramayana trailer; praises actors Yash, Ranbir Kapoor",
+    "desc": "Director Atlee shared his excitement after watching the trailer for the upcoming 'Ramayana' film, highlighting the extraordinary vision and exceptional artistry on display. He commended the standout performances delivered by Ranbir Kapoor, Sai Pallavi, and Yash. The trailer made a significant impact at its grand reveal in Delhi, while Atlee also continues to develop his own science fiction action thriller called 'Raaka'.",
+    "img": "https://static.toiimg.com/photo/msid-132513298,imgsize-208092.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/raaka-director-atlee-praises-ramayana-trailer-calls-yash-unbelievably-lethal-and-ranbir-kapoor-stunning/articleshow/132513208.cms",
+    "time": "2026-07-20T10:43:04.000Z"
   },
   {
     "cat": "Entertainment",
@@ -117,60 +261,6 @@ const newsData_en = [
     "time": "2026-07-20T10:38:28.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "When a 16-day strike by transport employees and a bus accident on Deepavali shook Tamil Nadu in 2001",
-    "desc": "In November 2001, transport corporation employees’ unions struck work demanding the Tamil Nadu government to increase annual bonus to 20%. During the strike, 28 persons were killed in Thoothukudi district in an accident involving a TNSTC bus allegedly driven by a temporary casual labourer.",
-    "img": "https://th-i.thgim.com/public/incoming/gnbpg5/article70670812.ece/alternates/LANDSCAPE_1200/1537582.II2",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/when-a-16-day-strike-by-transport-employees-and-a-bus-accident-on-deepavali-shook-tamil-nadu-in-2001/article70670217.ece",
-    "time": "2026-07-20T10:34:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Reassessing Periyar E.V. Ramasamy’s take on Tamil, which he called a barbarian language",
-    "desc": "The Dravidar Kazhagam founder believed that Tamil lacked sufficient literature that would pave the way for human development and cultivation of scientific temper. ‘It is my anguish that Tamil could not become a language of science and rationalism like English,’ he wrote while defending his characterisation of the language",
-    "img": "https://th-i.thgim.com/public/incoming/i2o6d8/article70652444.ece/alternates/LANDSCAPE_1200/C.N.%20Annadurai%20and%20Periyar.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/reassessingperiyarevramasamystake-on-tamil-which-he-called-a-barbarian-language/article70651265.ece",
-    "time": "2026-07-20T10:32:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "J. Sivashanmugam Pillai: a tall leader of Tamil Nadu belonging to what was once known Depressed Classes",
-    "desc": "J. Sivashanmugam Pillai was the first Scheduled Caste member to become the Tamil Nadu Assembly Speaker in 1946. He was known for impartiality, with former CM Kamaraj saying, ‘Though a Congressman, he held the scales even.’ He demitted the office in 1955 to become Member of the UPSC and was elected to the Rajya Sabha in 1962",
-    "img": "https://th-i.thgim.com/public/incoming/vwkg1v/article70651792.ece/alternates/LANDSCAPE_1200/HP23686.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/jsivashanmugampillai-a-tall-leader-of-tamil-nadu-belonging-to-what-was-once-known-depressed-classes/article70651175.ece",
-    "time": "2026-07-20T10:32:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Udhagamandalam’s own Charing Cross and its London disconnect",
-    "desc": "It has long been the entrance to Udhagamandalam, the headquarters of The Nilgiris district. It shares its name with a junction in Westminster, London, where six routes meet. Hence, many believe that the Charing Cross in Udhagamandalam is modelled on the one in London",
-    "img": "https://th-i.thgim.com/public/incoming/jrchr/article70651868.ece/alternates/LANDSCAPE_1200/10214_18_2_2026_15_46_12_1__SAT5984.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/the-charing-cross-in-ooty-and-its-london-disconnect/article70651128.ece",
-    "time": "2026-07-20T10:32:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "A Lok Sabha election defeat and dismissal of the MGR Government",
-    "desc": "Nearly a month later when there were talks in the corridors of power that the Indira Gandhi Government may dismiss governments in opposition-ruled States – citing the precedent set in 1977 by the Janata Party Government, MGR described it as “speculation”",
-    "img": "https://th-i.thgim.com/public/incoming/sns210/article70644685.ece/alternates/LANDSCAPE_1200/HG_2164_Mrs_Gandhi_18-1-80-003.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/a-lok-sabha-election-defeat-and-dismissal-of-the-mgr-government/article70644706.ece",
-    "time": "2026-07-20T10:31:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "M.G. Ramachandran’s hospitalisation in the U.S. and homecoming after treatment",
-    "desc": "MGR was flown to America on November 6, 1984, on a chartered Air India flight and was admitted to the Downstate Medical Centre in Brooklyn, New York. At the time of admission, he was not fully conscious after suffering a stroke. Later, he underwent a kidney transplant surgery at the hospital.",
-    "img": "https://th-i.thgim.com/public/incoming/649qng/article70614616.ece/alternates/LANDSCAPE_1200/HP7529.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/mg-ramachandran-mgr-hospitalisation-in-usa-and-homecoming-after-medical-treatment-in-1985/article70611170.ece",
-    "time": "2026-07-20T10:26:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Messi, Messi!': Argentina fans honour their captain as Spain lift WC trophy",
     "desc": "Spain defeated Argentina 1-0 in the FIFA World Cup 2026 final after extra time. Lionel Messi's final World Cup match ended in heartbreak for the legendary player. Thousands of Argentine fans showed unwavering support for Messi despite the disappointing loss. Spain's disciplined performance denied Messi opportunities to influence the crucial match. The defeat concluded Argentina's bid to defend their World Cup title successfully.",
@@ -180,105 +270,6 @@ const newsData_en = [
     "time": "2026-07-20T10:25:56.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "How Tamil Nadu’s two-language policy impacted the teachers of other languages in 1968",
-    "desc": "On January 23, 1968, the first DMK government, headed by C.N. Annadurai, adopted a resolution in the Madras Assembly scrapping the three-language formula and mandating the teaching of only Tamil and English. The immediate switchover affected over 4,000 Hindi and Sanskrit teachers at about 2,400 schools in the State",
-    "img": "https://th-i.thgim.com/public/incoming/l8rn6z/article70596266.ece/alternates/LANDSCAPE_1200/HP143686.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/how-the-two-language-policy-impacted-the-teachers-of-other-languages-in-1968/article70595586.ece",
-    "time": "2026-07-20T10:25:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Documents on anti-Hindi agitation wiped out on order by Tamil Nadu’s last Congress CM Bhaktavatsalam",
-    "desc": "On February 24, 1967, a day after the Assembly election results were declared, the outgoing Chief Minister M. Bhaktavatsalam wrote a note to the Public Department. It said, “Records connected with the anti-Hindi agitation need not be kept. This may also apply to records maintained by the police.”",
-    "img": "https://th-i.thgim.com/public/incoming/oh7g3w/article70597205.ece/alternates/LANDSCAPE_1200/hindi.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/documents-on-anti-hindi-agitation-wiped-out-on-bhaktavatsalamsorder/article70595163.ece",
-    "time": "2026-07-20T10:25:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Why Governor K.K. Shah recommended dismissal of DMK government in Tamil Nadu during Emergency in 1976",
-    "desc": "Not clamping down on anti-Emergency publications too led to the dissolution of Karunanidhi-led DMK government in Tamil Nadu in 1976, when the State was brought under the President’s rule for the fist time 50 years ago.",
-    "img": "https://th-i.thgim.com/public/incoming/gkc080/article70587348.ece/alternates/LANDSCAPE_1200/HG_2023_Indira_Gandhi_at_MIT_22-2-75-012.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/why-governor-kk-shah-recommended-dismissal-of-dmk-government-in-tamil-nadu-during-emergency-in-1976/article70587237.ece",
-    "time": "2026-07-20T10:24:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "When E.V.K. Sampath hit the headlines in Tamil Nadu",
-    "desc": "Sampath, nephew of E.V. Ramasamy, enjoyed a special relationship with DMK founder C.N. Annadurai. Before other DMK leaders, he realised the futility of pursuing the demand for a Dravida Nadu. He quit the DMK in 1961 and founded a party, which he merged with the Congress. Sampath’s birth centenary falls on March 6, 2026.",
-    "img": "https://th-i.thgim.com/public/incoming/f87orz/article70538277.ece/alternates/LANDSCAPE_1200/EVKS%20Sambath%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/whenevksampath-hit-the-headlines-in-tamil-nadu/article70538245.ece",
-    "time": "2026-07-20T10:23:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Vadasery’s temple jewellery: a craft caught between heritage and high gold, silver prices",
-    "desc": "Temple jewellery continues to survive with its distinctive manufacturing method and rich antiquity. But the artisans of Vadasery in Nagercoil, who practise the craft, are buffeted by the drop in demand with gold and silver prices going up",
-    "img": "https://th-i.thgim.com/public/incoming/uuig6n/article70537403.ece/alternates/LANDSCAPE_1200/2315_22_1_2026_15_38_7_2_NAGERCOIL4.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/vadasery-temple-jewellery-a-craft-caught-between-heritage-and-high-gold-silver-prices/article70537176.ece",
-    "time": "2026-07-20T10:23:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "How V.O. Chidambaram Pillai earned the title  ‘Sekkizhutha Chemmal’",
-    "desc": "VOC was arrested on the charge of sedition on March 12, 1908. A British jailer noticed his hands bleeding from the harsh labour of separating coir and spinning rope in the Coimbatore prison. Hence, he advised him to work at the oil press instead. VOC accepted the suggestion and pulled the oil press himself, a task normally reserved for bulls",
-    "img": "https://th-i.thgim.com/public/incoming/z1qm0e/article70537289.ece/alternates/LANDSCAPE_1200/CB06_V.O._Chidambaram_Pillai_1.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/how-vo-chidambaram-pillai-earned-the-title-sekkizhutha-chemmal/article70537156.ece",
-    "time": "2026-07-20T10:23:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "On the approach and outlook of Tamil Nadu’s Scheduled Caste leaders in late 1940s",
-    "desc": "In the 1946 elections to various provinces, the Congress demonstrated its superiority over the Scheduled Castes Federation (SCF) founded by B.R. Ambedkar. In the erstwhile Madras Presidency, the party bagged 27 out of 30 seats allotted to SCs.",
-    "img": "https://th-i.thgim.com/public/incoming/u8f5av/article70530808.ece/alternates/LANDSCAPE_1200/HP87687.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/on-the-approach-outlook-of-tamil-nadu-scheduled-caste-leaders-in-late-1940s/article70530345.ece",
-    "time": "2026-07-20T10:22:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Chennai’s iconic annual fair at Island Grounds turns 50",
-    "desc": "The 70-day-long India Tourism and Industrial Fair that began at the Island Grounds in the city recently turned 50 this year. The Sutrula Porutkatchi was conceived and named by former Chief Minister M. Karunanidhi. It began in the city in 1974 as the ‘Pongal Tourist Trade Fair.’",
-    "img": "https://th-i.thgim.com/public/incoming/g7oc6y/article70530883.ece/alternates/LANDSCAPE_1200/HP136871.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/chennai/iconic-annual-tourism-trade-fair-at-chennai-island-grounds-turns-50/article70530279.ece",
-    "time": "2026-07-20T10:22:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Ram Setu vs. Sethusamudram project: When Tamil Nadu BJP headquarters was attacked by DMK cadres",
-    "desc": "In response to DMK president M. Karunanidhi’s remark on Ram Setu, Vishwa Hindu Parishad (VHP) leader and former BJP MP Ram Vilas Vedanti triggered a major controversy in September 2007 by saying that “whosoever chopped off the head and tongue of the DMK president would be gifted in gold.”",
-    "img": "https://th-i.thgim.com/public/incoming/h75fah/article70497696.ece/alternates/LANDSCAPE_1200/02Protest23srr.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/ram-setu-vs-sethusamudram-project-when-tamil-nadu-bjp-headquarters-was-attacked-by-dmk-cadres-in-2007/article70497542.ece",
-    "time": "2026-07-20T10:21:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "How the Tamil Nadu legislature, in the late 1940s, viewed the making of the Constitution",
-    "desc": "In the Constituent Assembly’s debates (1946-49), K. Santhanam and N.G. Ranga, both from southern States representing the present Tamil Nadu and Andhra Pradesh, had strongly argued against any attempt to make the Central government more powerful under the garb of expanding the Concurrent List",
-    "img": "https://th-i.thgim.com/public/incoming/wr50cc/article70481391.ece/alternates/LANDSCAPE_1200/TH08_sivashanmugampillai.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/how-the-tamil-nadu-legislature-in-the-late-1940s-viewed-the-making-of-the-constitution/article70479085.ece",
-    "time": "2026-07-20T10:21:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "When eggs, stones were hurled at T.N. Governor Channa Reddy’s convoy and CM Jayalalithaa sought his recall",
-    "desc": "The incident occurred in 1995 when hostilities between Jayalalithaa and Reddy were common knowledge. While the Governor sent a report to the Centre against the AIADMK government, the Chief Minister wrote to President Shankar Dayal Sharma and Prime Minister P.V. Narasimha Rao.",
-    "img": "https://th-i.thgim.com/public/incoming/l0q3n8/article70479711.ece/alternates/LANDSCAPE_1200/HSP130316.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-chief-minister-vs-governor-when-eggs-stones-were-hurled-at-channa-reddy-convoy-and-jayalalithaa-sought-his-recall-in-1995/article70478566.ece",
-    "time": "2026-07-20T10:20:54.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Don't arm-twist the government': Kangana criticises CJP protest near Parliament",
     "desc": "Kangana Ranaut criticized ongoing CJP protests near Parliament, stating demonstrations should not pressure the government. She believes Parliament is the proper forum for discussing public issues and government decisions. Protests causing disruptions are inappropriate as the elected government has a mandate to govern. Meanwhile, CJP protesters faced heavy security and tear gas as they marched towards Parliament. Several Bollywood personalities have voiced support for Sonam Wangchuk's ongoing hunger strike.",
@@ -286,33 +277,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dont-arm-twist-the-government-kangana-ranaut-criticises-cjp-protest-near-parliament-feels-protests-shouldnt-dictate-who-remains-in-office/articleshow/132512603.cms",
     "time": "2026-07-20T10:20:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tamil Nadu’s link to a key amendment to the Constitution on freedom of press, expression",
-    "desc": "On March 1, 1950, the Madras government banned Cross Roads, a Left-leaning journal. A month later, the Supreme Court’s full Bench, by five to one, quashed the order. The Constitution had to be amended in the light of the landmark judgment. Parliament adopted the amendment Bill, with 246 members voting in favour and 14 against",
-    "img": "https://th-i.thgim.com/public/incoming/pts3wk/article70460527.ece/alternates/LANDSCAPE_1200/HP1801.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadus-link-to-a-key-amendment-to-the-constitution-on-freedom-of-press-expression/article70460354.ece",
-    "time": "2026-07-20T10:20:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "from humble beginnings to setting the standard for animal welfare",
-    "desc": "In 1959, Captain V. Sundaram brought home two stranded puppies he found on a flooded street near his house at T. Nagar. He built makeshift kennels at home for injured and abandoned animals. This organisation was registered as the BCI in 1964",
-    "img": "https://th-i.thgim.com/public/incoming/wm3zvi/article70460179.ece/alternates/LANDSCAPE_1200/HP_179812.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/how-animal-aid-association-in-madras-became-blue-cross-of-india/article70459968.ece",
-    "time": "2026-07-20T10:19:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "An idol found near Gangaikonda Cholapuram confirms the ‘Thiruvarasu’ of Nathamunigal",
-    "desc": "Near the Gangaikonda Cholapuram-Kumbakonam Road is a place called Sorgapallam or Sembodai where an idol of Srinivasa Perumal as once found half-buried under a tree. In the year 2000, another idol was found buried in a field. It was that of the first of the Sri Vaishnava Acharyas, who was said to have been at the place in his final hours",
-    "img": "https://th-i.thgim.com/public/incoming/4d49qz/article70460096.ece/alternates/LANDSCAPE_1200/TH.ven-1.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/an-idol-found-neargangaikonda-cholapuramconfirms-the-thiruvarasu-ofnathamunigal/article70459955.ece",
-    "time": "2026-07-20T10:19:26.000Z"
   },
   {
     "cat": "Business",
@@ -352,7 +316,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "'No commitments have been made so far': CJP leaders meets JP Nadda with 3 demands; Amit Shah meets Pradhan amid Parliament march",
+    "title": "'Got no commitments': CJP leaders handover 3 demands to JP Nadda; minister says end 'sit-in'",
     "desc": "Cockroach Janata Party leaders met Union minister JP Nadda regarding the NEET-UG paper leak case. Protesters marched towards Parliament demanding accountability and specific government actions. The Union minister sought time to consult leadership on the party's demands. Meanwhile, Union Home Minister Amit Shah met the Education Minister at Parliament. Police used mild force and tear gas as demonstrators attempted to breach barricades.",
     "img": "https://static.toiimg.com/photo/msid-132513479,imgsize-1096818.cms",
     "src": "indiatimes.com",
@@ -432,6 +396,15 @@ const newsData_en = [
     "time": "2026-07-20T08:58:58.000Z"
   },
   {
+    "cat": "Business",
+    "title": "India’s F&O boom needs adequate protections",
+    "desc": "Retail traders lose because they are bringing knives to a gunfight. SEBI’s research reveals that 97% of institutional profits and 96% of proprietary trading profits in the Indian F&O market are generated by algorithmic trading.",
+    "img": "https://th-i.thgim.com/public/news/national/tbr1t8/article71242552.ece/alternates/LANDSCAPE_1200/iStock-1650223785.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/opinion/op-ed/indias-fo-boom-needs-adequate-protections/article71242450.ece",
+    "time": "2026-07-20T08:51:21.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "R Madhavan shares an inspirational quote about life",
     "desc": "Actor R Madhavan stars in the upcoming biopic 'G.D.N.' about inventor G. D. Naidu. The film is scheduled for release on August 7, 2026, and is generating significant buzz. Madhavan recently shared an inspirational quote emphasizing kindness and humility over external achievements. He believes true life fulfillment comes from being real and humane towards others. The movie also features Priyamani and Sathyaraj in key roles.",
@@ -459,15 +432,6 @@ const newsData_en = [
     "time": "2026-07-20T08:29:43.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Shashwat Sachdev talks about ‘Article 370’s National Award win",
-    "desc": "Composer Shashwat Sachdev graciously celebrated his second National Film Award victory, honoring his musical artistry in 'Article 370'. This triumph brought him a deeper sense of gratitude and tranquility compared to his inaugural win. He expressed his pride in collaborating with the director, Aditya Dhar, and lightheartedly acknowledged the anticipation surrounding his upcoming projects.",
-    "img": "https://static.toiimg.com/photo/msid-132509953,imgsize-91216.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shashwat-sachdev-celebrates-article-370-national-award-win-talks-about-possibility-of-dhurandhar-spot-next-year/articleshow/132509906.cms",
-    "time": "2026-07-20T08:15:15.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Away from the bell and egg-and-bacon ties, Rohit Sharma keeps his own England tradition alive at Lord's",
     "desc": "In the lead-up to the third ODI between India and England at Lord's, more focus was on Rohit Sharma than the series decider itself. With India's ODI World Cup plans underway, Rohit's form came under fire, and retirement rumours gathered momentum. With Virat Kohli batting at the other end in a monstrous 388-run chase, he decided to shut them down by becoming the first Indian to score a ton at the Home of Cricket.",
@@ -475,24 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/picture-abhi-baanki-hai-away-from-the-bell-and-egg-and-bacon-ties-rohit-sharma-keeps-his-own-england-tradition-alive-at-lords/articleshow/132509689.cms",
     "time": "2026-07-20T08:12:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bobby, Akshaye, Suniel were first choices for 'Haiwaan' villain, not Akshay Kumar",
-    "desc": "After the unveiling of 'Haiwaan's first-look posters featuring Akshay Kumar and Saif Ali Khan, director Priyadarshan has revealed that Kumar wasn't his original pick to play the film's antagonist. In an interview recently, the filmmaker recalled approaching Bobby Deol and Akshaye Khanna first, before Akshay himself expressed interest in the role while they were shooting 'Bhooth Bangla.' Priyadarshan also opened up about why Haiwaan marks a refreshing return to the action-thriller genre.",
-    "img": "https://static.toiimg.com/photo/msid-132509890,imgsize-202344.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyadarshan-reveals-his-first-choice-for-villain-in-haiwaan-wasnt-akshay-kumar-but-bobby-deol-askhaye-khanna-and-suniel-shetty-saif-told-me-akshay-has-given-me-the-best-gift/articleshow/132509339.cms",
-    "time": "2026-07-20T08:10:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Yash and Tara Sutaria to lead 'Toxic' second track: Report",
-    "desc": "Kannada star Yash's film 'Toxic' is set for release next month. Makers have released the first song 'Tabaahi' featuring Yash and Kiara Advani. A new song featuring Yash and Tara Sutaria is now expected soon. This upcoming track is composed by Tanishk Bagchi and others. The film is a gangster action drama set in Goa.",
-    "img": "https://static.toiimg.com/photo/msid-132509720,imgsize-928987.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/after-kiara-advani-starrer-tabaahi-yash-and-tara-sutaria-to-headline-the-second-song-from-toxic-report/articleshow/132509603.cms",
-    "time": "2026-07-20T08:00:56.000Z"
   },
   {
     "cat": "Politics",
@@ -513,42 +459,6 @@ const newsData_en = [
     "time": "2026-07-20T07:58:04.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Christopher Nolan needs three years after 'The Odyssey'",
-    "desc": "Acclaimed director Christopher Nolan is stepping back from filmmaking for three years after the grueling production of 'The Odyssey.' Utilizing large-format cameras, he achieved a groundbreaking film experience, pushing his creative and physical limits. Nolan emphasizes that studios need to embrace risk-taking to drive success in mainstream cinema, catering to audiences hungry for innovative and daring narratives that he aims to deliver.",
-    "img": "https://static.toiimg.com/photo/msid-132509612,imgsize-72236.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/christopher-nolan-hints-at-a-three-year-break-after-the-odyssey-idefinitely-hit-the-limits-of-my-own-stamina/articleshow/132509488.cms",
-    "time": "2026-07-20T07:56:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sandeep Reddy Vanga confirms 40% of Prabhas' 'Spirit' shoot is complete",
-    "desc": "Director Sandeep Reddy Vanga confirmed forty percent of Prabhas' film 'Spirit' shoot is complete. The highly anticipated action drama is progressing as planned by the filmmakers. Prabhas will soon return to Italy after his holiday to resume filming commitments. The movie, which stars Triptii Dimri and Vivek Oberoi, is slated for a 2027 release. This update fuels excitement for the collaboration between Prabhas and Vanga.",
-    "img": "https://static.toiimg.com/photo/msid-132509308,imgsize-98834.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/sandeep-reddy-vanga-confirms-40-of-prabhas-spirit-shoot-is-complete/articleshow/132509283.cms",
-    "time": "2026-07-20T07:37:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Travis Scott invites his daughter Stormi on stage",
-    "desc": "At Fanatics Fest, Travis Scott showcased a touching moment by inviting his daughter, Stormi, to join him on stage. As they danced together, the crowd was captivated by their bond, reminiscent of her role in his latest music video. While Stormi stole the show, Kylie Jenner was busy enjoying the FIFA World Cup finale, and Travis dealt with the aftermath of a reported club altercation.",
-    "img": "https://static.toiimg.com/photo/msid-132509257,imgsize-19338.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/travis-scott-invites-daughter-stormi-on-stage-at-fanatics-fest-dances-with-her-while-performing-cactus-jack-and-friends-live/articleshow/132509257.cms",
-    "time": "2026-07-20T07:35:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India approves its first dengue vaccine QDENGA after DCGI clearance",
-    "desc": "Dengue is a mosquito-borne viral disease reported in more than 125 countries. According to the company, India accounts for nearly one-third of the global dengue burden, with rapid urbanisation, climate change and widespread mosquito breeding continuing to increase the risk of infection across the country. Vaccine QDENGA is given as two injections of 0.5 ml, administered under the skin three months apart.",
-    "img": "https://static.toiimg.com/photo/msid-132509232,imgsize-50130.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-approves-its-first-dengue-vaccine-qdenga-after-dcgi-clearance/articleshow/132509192.cms",
-    "time": "2026-07-20T07:31:37.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran hits out at Gulf neighbours as U.S. presses on with strikes",
     "desc": "Oil prices surged to a one-month high as the United States and Iran tussled for control of the vital strait, with Brent crude rising above $91 a barrel — the highest price since June 11",
@@ -556,33 +466,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-hits-out-at-gulf-neighbours-as-us-presses-on-with-strikes/article71244067.ece",
     "time": "2026-07-20T07:27:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Neet hai ya cheat hai?' Dimple Yadav joins CJP's 'Sansad Chalo' protest at Jantar Mantar",
-    "desc": "Carrying the 'NEET hai, ki Cheat hai' placard, Dimple Yadav said \"we stand with the students\", adding that the \"entire process is corrupt, and it is the country's youth and students who are bearing the brunt of it and suffering immense mental stress\".​​ Akhilesh Yadav also accused the BJP-led government of ignoring students' concerns and alleged that repeated paper leaks had taken place in Uttar Pradesh.",
-    "img": "https://static.toiimg.com/photo/msid-132508611,imgsize-123984.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/neet-hai-ya-cheat-hai-dimple-yadav-joins-cjps-sansad-chalo-protest-at-jantar-mantar/articleshow/132508394.cms",
-    "time": "2026-07-20T07:14:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'We understand each other': Rohit opens up on special bond with Kohli",
-    "desc": "Rohit Sharma scored a century in the third ODI against England. He spoke about his strong partnership with Virat Kohli after the match. The duo has now scored over 8,000 runs together in ODIs. They also became the first Indian pair to play 400 international matches. The team aims to improve collectively after the series loss.",
-    "img": "https://static.toiimg.com/photo/msid-132508667,imgsize-67410.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/rohit-sharma-opens-up-on-special-bond-with-virat-kohli-we-understand-each-other-so-much/articleshow/132508446.cms",
-    "time": "2026-07-20T07:10:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala court sentences 61-year-old to death in Nenmara double murder case",
-    "desc": "The quantum of punishment was decided after the sentencing hearing concluded last Tuesday before Judge Kenneth George, who heard detailed submissions from both the prosecution and the defence before reserving the verdict. The prosecution urged the court to impose the death penalty, arguing that the crime fell within the \"rarest of rare\" category. It told the court that Chenthamara posed a continuing threat to society and cited his remarks after conviction to argue that he had shown no remorse.",
-    "img": "https://static.toiimg.com/photo/msid-132508165,imgsize-115762.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/kerala-court-sentences-61-year-old-to-death-in-nenmara-double-murder-case/articleshow/132508022.cms",
-    "time": "2026-07-20T06:40:00.000Z"
   },
   {
     "cat": "Sports",
@@ -594,24 +477,6 @@ const newsData_en = [
     "time": "2026-07-20T06:21:30.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Not talking about some 56-year-old youth': PM Modi takes apparent swipe at Rahul Gandhi",
-    "desc": "Prime Minister Modi lauded India's young space innovators while addressing Parliament. He highlighted Skyroot Aerospace's average team age of twenty-eight years. This achievement marks a significant milestone for India's private space sector. The Prime Minister also discussed India's economic resilience amidst global challenges. He appealed for productive discussions during the Monsoon Session of Parliament.",
-    "img": "https://static.toiimg.com/photo/msid-132507290,imgsize-140422.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/not-talking-about-some-56-year-old-youth-pm-modi-takes-apparent-swipe-at-rahul-gandhi/articleshow/132506975.cms",
-    "time": "2026-07-20T05:35:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Hope for productive monsoon session': PM Modi highlights India's gains ahead of Parliament proceedings",
-    "desc": "Taunting Rahul Gandhi in a veiled attack, PM Modi praised the succcessful mission of Vikram-1 orbital launch vehicle highlighting how the average age of the young Skyroot team is merely 28 years, unlike a \"56-year-old youth.\"​​ \"India's youth have embarked on a new journey into space. I was told that the average age of the entire team working at the 'Skyroot' startup is merely 28 years. Young people like these have accomplished this feat. I am not speaking of a 56-year-old youth,\" PM Modi said.",
-    "img": "https://static.toiimg.com/photo/msid-132506849,imgsize-92334.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/hope-for-productive-monsoon-session-pm-modi-highlights-indias-gains-ahead-of-parliament-proceedings/articleshow/132506548.cms",
-    "time": "2026-07-20T05:28:40.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Rupee tumbles 12 paise against US dollar as Middle East tensions lift crude prices",
     "desc": "The Indian Rupee opened lower against the US dollar on Monday. Rising crude oil prices and Middle East tensions fueled dollar demand. Foreign capital outflows from equity markets also weakened the local currency. Indian stock markets traded lower, with Sensex and Nifty declining. India's foreign exchange reserves saw a notable increase in the previous week.",
@@ -619,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-tumbles-12-paise-against-us-dollar-as-middle-east-tensions-lift-crude-prices/articleshow/132506325.cms",
     "time": "2026-07-20T04:58:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'They came very late': CJP claims govt reached out, but 'no clarity' on talks",
-    "desc": "Supporters gathered at Jantar Mantar ahead of the proposed 'Chalo Sansad' march to Parliament on Monday. Addressing the gathering, CJP president Abhijeet Dipke said the march would go ahead despite restrictions. \"The biggest march in India's history is about to take place. For the past 10-12 years, attempts have been made to destroy democracy in this country. By sitting at Jantar Mantar for a month, you have revived democracy,\" Abhijeet Dipke said.",
-    "img": "https://static.toiimg.com/photo/msid-132506231,imgsize-135991.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/they-came-very-late-cjp-claims-govt-reached-out-but-no-clarity-on-talks/articleshow/132505560.cms",
-    "time": "2026-07-20T04:43:31.000Z"
   },
   {
     "cat": "Business",
@@ -639,15 +495,6 @@ const newsData_en = [
     "time": "2026-07-20T04:38:53.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "First Cholesterol-Lowering Pill to Replace PCSK9 Injections Gets US Nod",
-    "desc": "The US FDA has given the green light to the world's first oral PCSK9 inhibitor, a groundbreaking medication that promises a convenient once-daily tablet alternative to injections for managing high cholesterol in adults, particularly those with genetic variations. When combined with other treatments, this innovative drug has shown a significant reduction in bad cholesterol levels. Unfortunately, it may not be available in India right away.",
-    "img": "https://static.toiimg.com/photo/msid-132506177,imgsize-44608.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/first-cholesterol-lowering-pill-to-replace-pcsk9-injections-gets-us-nod/articleshow/132505907.cms",
-    "time": "2026-07-20T04:37:37.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Will Lionel Messi retire? Argentina coach breaks silence",
     "desc": "Spain secured their second FIFA World Cup title after defeating Argentina in the 2026 final. Substitute Ferran Torres scored the decisive goal in extra time, ending Argentina's reign. Lionel Messi's future remains his personal decision, according to coach Lionel Scaloni. Spain completed an unbeaten tournament, conceding only one goal throughout their campaign. This victory marked Spain's first World Cup win since their triumph in 2010.",
@@ -655,42 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/will-lionel-messi-retire-argentina-coach-breaks-silence-after-fifa-world-cup-final-defeat/articleshow/132505810.cms",
     "time": "2026-07-20T04:28:35.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "fuel for debate",
-    "desc": "As car and bike owners report clogged injectors, damaged fuel pumps, and contaminated petrol across the country, a look at competing claims on what is driving the complaints, and whether ethanol is really to blame",
-    "img": "https://th-i.thgim.com/public/incoming/rnecwc/article71241050.ece/alternates/LANDSCAPE_1200/Ethanol%20side%20effects%20in%20vehicles%20E%2020%202.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/the-e20-transition-fuel-for-debate/article71240965.ece",
-    "time": "2026-07-20T03:54:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Spain become first world champions to achieve this incredible defensive feat",
-    "desc": "Spain secured their second FIFA World Cup title after defeating Argentina in extra time. They became the fourth team to win without trailing and the first to concede just one goal. Ferran Torres scored the decisive winning goal in the 106th minute of the match. Spain's journey included a surprising draw and several hard-fought victories throughout the tournament.",
-    "img": "https://static.toiimg.com/photo/msid-132505531,imgsize-71316.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/spain-become-first-world-champions-to-achieve-this-incredible-defensive-feat/articleshow/132505520.cms",
-    "time": "2026-07-20T03:54:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Wangchuk's wife moves Delhi HC again over plea to shift him to private hospital",
-    "desc": "​In the appeal, Angmo has contended that the Single Judge’s order effectively deprives Wangchuk and his family of the right to decide his medical treatment and place of treatment. The appeal also argues that the order overlooks the principles of informed consent, bodily autonomy under Article 21, and unlawfully confines Wangchuk to the government hospital despite there being no order of arrest or detention against him, reported news agency ANI.",
-    "img": "https://static.toiimg.com/photo/msid-132505411,imgsize-106937.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/wangchuks-wife-moves-delhi-hc-again-over-plea-to-shift-him-to-private-hospital/articleshow/132505149.cms",
-    "time": "2026-07-20T03:49:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Misleading the families?' AI-171 victims' kin seek black box data, memorial after AAIB affidavit",
-    "desc": "Families question withholding of cockpit recordings, seek greater transparency as AAIB says final probe report is expected in October. They question the investigation bureau's decision to withhold black box information. The flight crashed on June 12, 2025, killing hundreds of people. Families seek transparency and direct access to the raw black box data. They also renewed calls for a permanent memorial at the crash site.",
-    "img": "https://static.toiimg.com/photo/msid-132505405,imgsize-143414.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/misleading-the-families-ai-171-victims-kin-seek-black-box-data-memorial-after-aaib-affidavit/articleshow/132504984.cms",
-    "time": "2026-07-20T03:44:11.000Z"
   },
   {
     "cat": "Sports",
@@ -747,15 +558,6 @@ const newsData_en = [
     "time": "2026-07-20T00:30:00.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Your tears are our tears, Captain': Heartbroken Messi breaks down after defeat",
-    "desc": "Spain secured their second World Cup title after defeating Argentina in the 2026 final. Lionel Messi's quest for consecutive titles ended in disappointment following a 0-1 extra-time loss. The Argentine Football Association shared an emotional tribute to their captain after the match. Ferran Torres scored the decisive goal in the 106th minute of the contest. This defeat concluded a significant era for Argentinian football history.",
-    "img": "https://static.toiimg.com/photo/msid-132503572,imgsize-146940.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/your-tears-are-our-tears-captain-heartbroken-lionel-messi-breaks-down-after-world-cup-final-defeat-watch/articleshow/132503571.cms",
-    "time": "2026-07-19T23:51:08.000Z"
-  },
-  {
     "cat": "Business",
     "title": "More brands in store, but price cuts may lag",
     "desc": "New British brands are expected to enter Indian markets, offering consumers more retail choices. While duty cuts are beneficial, rupee depreciation may limit immediate price reductions. Some brands are pausing price hikes and reducing costs on specific product categories. Global supply chain issues and currency volatility also impact pricing strategies for businesses. Over time, consumers can anticipate more competitive pricing as import duties are further reduced.",
@@ -799,15 +601,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/india-england-3rd-odi-july-19-2026/article71241070.ece",
     "time": "2026-07-19T19:07:02.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India’s F&O boom needs adequate protections",
-    "desc": "Retail traders lose because they are bringing knives to a gunfight. SEBI’s research reveals that 97% of institutional profits and 96% of proprietary trading profits in the Indian F&O market are generated by algorithmic trading.",
-    "img": "https://th-i.thgim.com/public/news/national/tbr1t8/article71242552.ece/alternates/LANDSCAPE_1200/iStock-1650223785.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/opinion/op-ed/indias-fo-boom-needs-adequate-protections/article71242450.ece",
-    "time": "2026-07-19T18:18:00.000Z"
   },
   {
     "cat": "World",
@@ -898,5 +691,212 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/rathanvel-seals-99th-gm-title-as-india-closes-in-on-grandmaster-century/article71239477.ece",
     "time": "2026-07-18T22:20:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "For World C’ships, venue concerns have been addressed: BAI",
+    "desc": "“We have put two more doors in addition to the main door so that no stray animals can enter the arena. We will also have guards stationed there at all times. Ceilings have been changed. The toilets will be of the highest standard. Cleanliness won’t be an issue,” says Badminton Association of India (BAI) general secretary",
+    "img": "https://th-i.thgim.com/public/incoming/ucw91x/article71239444.ece/alternates/LANDSCAPE_1200/2026-01-14T191116Z_2077685309_UP1EM1E0MJQCB_RTRMADP_3_BADMINTON-INDIA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/for-world-cships-venue-concerns-have-been-addressed-bai/article71238451.ece",
+    "time": "2026-07-18T21:53:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India's bowling coach Morne Morkel",
+    "desc": "“To be honest, the way we bowled in the last game was exceptional,” Morkel opined. “Just looking at the numbers, the high speeds that the boys generated and the areas that we bowled in were great to see",
+    "img": "https://th-i.thgim.com/public/incoming/fjvasi/article71239352.ece/alternates/LANDSCAPE_1200/26_Practice_Dharamshala_12_06_Himachal.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/no-concerns-with-the-way-rohit-sharma-is-batting-indias-bowling-coach-morne-morkel/article71238577.ece",
+    "time": "2026-07-18T21:16:34.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Ahmad Vahidi",
+    "desc": "The former IRGC spymaster and Defence Minister, who laid the foundations of Iran’s ‘Axis of Resistance’ and expanded the country’s conventional military capabilities, is facing his greatest test as the Islamic Republic comes under relentless U.S. bombardment",
+    "img": "https://th-i.thgim.com/public/news/national/db1ln0/article71239076.ece/alternates/LANDSCAPE_1200/Gen%20Ahmed%20wahidi%20of%20iran_Art.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/ahmad-vahidi-the-commander-of-asymmetric-warfare/article71239079.ece",
+    "time": "2026-07-18T17:43:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Once in his arms, now in his way: Lamine Yamal, Lionel Messi and a date with destiny",
+    "desc": "A 2007 photograph of Messi holding a baby Yamal was just a moment in time. Nearly two decades later, it has become football folklore — as the two generations of Barcelona brilliance prepare to meet in the 2026 FIFA World Cup final.",
+    "img": "https://th-i.thgim.com/public/incoming/nsacq7/article71238949.ece/alternates/LANDSCAPE_1200/image%20-%202026-07-18T212647.628.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/lionel-messi-lamine-yamal-fifa-world-cup-final-2026-baby-photo-analysis-argentina-spain-history/article71238987.ece",
+    "time": "2026-07-18T16:14:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ENG vs. IND third ODI",
+    "desc": "The kerfuffle surrounding the 39-year-old’s time as an international cricketer has dominated news ahead of the Lord’s ODI; Rahul, after missing out on the second match, will play the decider; both teams will be looking to avoid middle-order collapses",
+    "img": "https://th-i.thgim.com/public/incoming/ielzl2/article71238857.ece/alternates/LANDSCAPE_1200/2026-07-18T045946Z_432938576_RC2RDMAZNXHH_RTRMADP_3_CRICKET-ODI-ENG-IND.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/eng-vs-ind-third-odi-rohits-future-and-the-series-on-the-line/article71238320.ece",
+    "time": "2026-07-18T15:45:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Article 370 bags best feature film, Mammootty gets best actor award",
+    "desc": "Announcing the awards, chairman of the central jury Jayaraj said Telugu movie Kalki 2898 AD bagged the trophy for the best popular film; Mammootty won his fourth National Film Award for best actor for his performance in Malayalam movie Bramayugam",
+    "img": "https://th-i.thgim.com/public/incoming/rko6pv/article71238626.ece/alternates/LANDSCAPE_1200/national%20film%20awards.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/72nd-national-film-awards-article-370-bags-best-feature-film-mammootty-gets-best-actor-award/article71238337.ece",
+    "time": "2026-07-18T14:56:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kay Kay Menon interview",
+    "desc": "Actors Kay Kay Menon, Naveen Kasturia and director Himank Gaur talk about their show ‘Adarsh Baal Vidyalaya’, how their school life shaped their journey in films, the experience of working with comedy, why Kay Kay Menon feels he has failed more than he has suceeded in his performances, and more",
+    "img": "https://th-i.thgim.com/public/incoming/bbcp7p/article71237930.ece/alternates/LANDSCAPE_1200/mamata%201.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/kay-kay-menon-interview-naveen-kasturia-adarsh-baal-vidyalaya/article71237937.ece",
+    "time": "2026-07-18T12:20:29.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Telangana police’s fight against Telugu film piracy",
+    "desc": "Following an MoU between the Telugu Film Chamber of Commerce and Telangana Cyber Security Bureau, a systematic crackdown on piracy has led to key arrests and protected new Telugu releases from widespread online leaks during the opening weekends",
+    "img": "https://th-i.thgim.com/public/incoming/u42lie/article71228587.ece/alternates/LANDSCAPE_1200/_DSC8786.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Hyderabad/how-telangana-police-and-telugu-film-industry-are-fighting-against-piracy/article71224809.ece",
+    "time": "2026-07-18T10:35:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Supreme Court allows release of animated film Mahaprabhu Jagannath after Rath Yatra, says animation cannot erode devotion",
+    "desc": "The Bench took the middle path by allowing the movie to be released, but only after the completion of the ongoing Lord Jagannath Rath Yatra on July 27, 2026. The court directed that the film could be released on or after July 28.",
+    "img": "https://th-i.thgim.com/public/incoming/a1m5vw/article71231241.ece/alternates/LANDSCAPE_1200/16tvm%20jagannath1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/odisha/supreme-court-allows-release-of-animated-film-mahaprabhu-jagannath-after-rath-yatra-says-animation-cannot-erode-devotion/article71232923.ece",
+    "time": "2026-07-18T08:59:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "From The Red Bari to Skinny Mo’s: Inside Kolkata’s heritage revival",
+    "desc": "What happens when a 109-year-old bungalow becomes a jazz bar, an Edwardian office hosts flamenco, and forgotten mansions find new audiences? A new generation of entrepreneurs is restoring Kolkata’s historic buildings and transforming them into thriving cafés and cultural hubs, proving that adaptive reuse can be an alternative to demolition.",
+    "img": "https://th-i.thgim.com/public/incoming/duxc10/article71051641.ece/alternates/LANDSCAPE_1200/_DGP6931.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/life-and-style/from-the-red-bari-to-skinny-mos-inside-kolkatas-heritage-revival/article70992457.ece",
+    "time": "2026-07-18T07:13:16.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Rescuers race to find survivors in rain after landslip in China kills at least eight",
+    "desc": "The landslide contained about 18,000 cubic meters of rocks and debris, and the largest single rock was around 3,000 cubic meters, Wang Chuanjun, head of Planning and Natural Resources in Pengshui County, told a news conference on July 17",
+    "img": "https://th-i.thgim.com/public/incoming/awbnsg/article71237314.ece/alternates/LANDSCAPE_1200/China_Landslide_72336.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/rescuers-race-to-find-survivors-in-rain-after-landslip-in-china-kills-many/article71237256.ece",
+    "time": "2026-07-18T07:08:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Acting is more about restraint than exposition",
+    "desc": "Actors Kay Kay Menon, Naveen Kasturia and director Himank Gaur talk about their show ‘Adarsh Baal Vidyalaya’, how their school life shaped their journey in films, the experience of working with comedy, why Kay Kay Menon feels he has failed more than he has suceeded in his performances, and more",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/xjecyx/article71233372.ece/alternates/LANDSCAPE_1200/Kay%20Kay%20Menon%20in%20%E2%80%98Adarsh%20Baal%20Vidyalaya%E2%80%99",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/kay-kay-menon-acting-is-more-about-restraint-than-exposition-adarsh-baal-vidyalaya-prime-video/article71233353.ece",
+    "time": "2026-07-18T05:53:57.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "China pitches AI governance model for Global South",
+    "desc": "Broader context is China’s push to both develop its alternatives to Western AI models and to offer them to developing countries; President Xi Jinping announced that Beijing would provide “5,000 opportunities in AI training and seminar programmes” in the next five years",
+    "img": "https://th-i.thgim.com/public/incoming/w6cza8/article71232852.ece/alternates/LANDSCAPE_1200/2026-07-17T042447Z_732115653_RC2EFMA4DLWW_RTRMADP_3_CHINA-AI-XI.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/ai-should-not-be-a-solo-performance-but-symphony-of-global-collaboration-xi-jinping/article71232848.ece",
+    "time": "2026-07-18T04:40:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "How women audiences are championing Marathi films in theatres",
+    "desc": "With a host of female-centric films being made, Marathi cinema is speaking closely to women audiences, who are in turn showing up in large numbers to watch them, celebrate them and turn them into box office successes",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/wttz3z/article71229657.ece/alternates/LANDSCAPE_1200/Actor%20Girija%20Oak%20Godbole%20posing%20for%20a%20photo%20with%20others%20during%20a%20movie%20screening",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/how-women-audiences-are-championing-marathi-films-in-theatres-baipan-bhari-deva-tighee-deool-band-2/article71229588.ece",
+    "time": "2026-07-18T04:34:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Singer, composer and architect",
+    "desc": "Singer-songwriter Shakthishree Gopalan’s latest independent single is ‘Old Friend’, a track that has been many years in the making. “It’s about my inner demons. It holds everything – from my neurodivergence, my mental health journey, and above all, choosing myself,” she says. In an interview, the singer talks about the journey of her latest track and independent music. Shakthisree – also a qualified architect - also talks about how she was roped it to design music composer AR Rahman’s music school and studio.",
+    "img": "https://th-i.thgim.com/public/incoming/rkl2ja/article71235513.ece/alternates/LANDSCAPE_1200/Shakthishree%20Gopalan%20.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/meet-the-real-shakthishree-singer-composer-and-architect/article71235516.ece",
+    "time": "2026-07-17T16:44:40.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "How the new U.S. visa rules affect your online privacy",
+    "desc": "Privacy experts have slammed the U.S. government’s new social media vetting requirements, likening the country’s approach to that of an authoritarian regime. However, they note it is difficult to claim that privacy laws are being broken as visa applicants can choose to ignore the request, though they put their visa application at risk by doing so",
+    "img": "https://th-i.thgim.com/public/incoming/uftu99/article69743327.ece/alternates/LANDSCAPE_1200/2024-01-17T131539Z_128884214_RC29J5AKWFZM_RTRMADP_3_INDIA-ISRAEL-WORKERS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/how-the-new-us-visa-rules-affect-your-online-privacy-explained/article69743345.ece",
+    "time": "2026-07-17T07:38:11.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "What’s new in the draft CAFE-III norms?",
+    "desc": "The latest draft leaves most of the April proposal unchanged, suggesting the government has broadly stuck to the compromise it arrived at after months of intense negotiations between manufacturers of small cars and larger SUVs.",
+    "img": "https://th-i.thgim.com/public/incoming/ol1hai/article71232756.ece/alternates/LANDSCAPE_1200/Ethanol%20side%20effects%20in%20vehicles%20E%2020%207.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/whats-new-in-the-draft-cafe-iii-norms-explained/article71232676.ece",
+    "time": "2026-07-17T04:57:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Tax Department will soon let you see the data it has on your foreign assets and income",
+    "desc": "The Central Board of Direct Taxes will soon make the information it receives from its partner jurisdictions available on the Annual Information Statement of all eligible taxpayers, in a move to enhance taxpayer services and promote voluntary tax compliance, sources said",
+    "img": "https://th-i.thgim.com/public/incoming/kfuoxe/article71230543.ece/alternates/LANDSCAPE_1200/BLIT_GTVFDFDRJ.1GG4FDFMCM.3.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/central-board-of-direct-taxes-taxpayers-information-india-foreign-assets-income/article71230395.ece",
+    "time": "2026-07-16T14:34:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Centre floats another draft of CAFE-III, gives special recognition to ethanol and biofuel cars",
+    "desc": "Industry stakeholders have until August 6 to respond to the latest draft; the proposed CAFE norms have sharply divided the automobile industry, with manufacturers of smaller and larger vehicles taking opposing positions and competing proposals emerging over how the regulations should be framed",
+    "img": "https://th-i.thgim.com/public/business/wmmmnq/article71229168.ece/alternates/LANDSCAPE_1200/iStock-942740004.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/centre-floats-another-draft-of-cafe-iii-gives-special-recognition-to-ethanol-and-bio-fuel-cars/article71229082.ece",
+    "time": "2026-07-16T09:58:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "What has been the impact of ethanol blending?",
+    "desc": "How are petrol vehicle owners reacting to the E20 mandate? How environmentally friendly is India’s dependence on sugarcane for ethanol? How has the U.S. reacted to India’s booming ethanol economy? Why has the adoption of EVs in India been much slower compared to other large economies?",
+    "img": "https://th-i.thgim.com/public/incoming/p6ebqq/article69944975.ece/alternates/LANDSCAPE_1200/PTI12_15_2024_000182B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/what-has-been-the-impact-of-ethanol-blending/article69943693.ece",
+    "time": "2026-07-16T09:40:46.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Why are five anonymous female users suing Elon Musk’s xAI?",
+    "desc": "After AI chatbot Grok enabled users to create a barrage of sexual deepfakes and morphed photos earlier this year, a proposed class action lawsuit in the U.S. saw five people claiming that their lives have been “shattered” as a result of child abuse material",
+    "img": "https://th-i.thgim.com/public/incoming/sv1xgs/article71228383.ece/alternates/LANDSCAPE_1200/2026-07-06T155909Z_164471774_RC24ZKA0FS8X_RTRMADP_3_MUSK-TWITTER.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/why-are-five-anonymous-female-users-suing-elon-musks-xai-explained/article71224775.ece",
+    "time": "2026-07-16T04:53:23.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Brought in for civilian use, Starlink is now integral to Ukraine’s war effort",
+    "desc": "Russia’s latest attempts to jam the satellite network are about more than disrupting internet access; Starlink sits behind drone operations, battlefield communications, and command networks that stretch across hundreds of kilometres of the war front",
+    "img": "https://th-i.thgim.com/public/incoming/8i7let/article71227047.ece/alternates/LANDSCAPE_1200/2026-06-22T144855Z_720713080_RC2SRLAGY6SX_RTRMADP_3_NAMIBIA-STARLINK.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/brought-in-for-civilian-use-starlink-is-now-integral-to-ukraines-war-effort/article71225657.ece",
+    "time": "2026-07-15T18:23:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "How India’s first educational computer arrived on a bullock cart",
+    "desc": "Computer science education was first introduced in India at IIT Kanpur. One of the earliest educational computers travelled by airplane, truck and even a bullock cart before reaching the campus, leaving us with computer lab traditions that are still followed",
+    "img": "https://th-i.thgim.com/public/incoming/cnpryt/article71209986.ece/alternates/LANDSCAPE_1200/Screenshot%202026-06-10%20113946.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/children/how-indias-first-educational-computer-arrived-on-a-bullock-cart/article71209933.ece",
+    "time": "2026-07-15T08:10:36.000Z"
   }
 ];

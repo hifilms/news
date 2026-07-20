@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Calcutta High Court orders arrest of wicket-keeper batter Abishek Porel over rape case",
+    "desc": "In a major development, the Calcutta High Court has come forward and ordered the immediate arrest of India wicket-keeper batter Abhishek Porel over a rape case. As part of the same ongoing case, the court...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/calcutta-high-court-orders-arrest-of-wicket-keeper-batter-abishek-porel-over-rape-case-2026-07-20-1048851",
+    "time": "2026-07-20T13:26:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi arrives in Zimbabwe alongside Team India ahead of three-game T20I series",
+    "desc": "The Indian team is all set to take on Zimbabwe across a three-game T20I series. The two sides will meet in Harare for all three clashes on July 23, 25, and 26, and ahead of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-arrives-in-zimbabwe-alongside-team-india-ahead-of-three-game-t20i-series-watch-2026-07-20-1048842",
+    "time": "2026-07-20T11:55:24.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'A sad story': Former India cricketer weighs in on India's ODI series loss against England",
     "desc": "The Indian team sustained yet another loss in the third ODI of the series against England; the hosts registered a 27-run win in the game, clinching the series in the process, handing India yet another...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/lionel-messi-looks-inconsolable-after-fifa-world-cup-final-cries-heart-out-after-collecting-silver-medal-watch-2026-07-20-1048771",
     "time": "2026-07-19T23:04:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "FIFA World Cup final ends in utter chaos, Leandro Paredes sent off after final whistle, Molina caught punching",
-    "desc": "Spain's FIFA World Cup triumph over Argentina was overshadowed by a mass confrontation after the final whistle. Argentina's Leandro Paredes was sent off following the match and defender Nahuel Molina was spotted throwing a punch...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/fifa-world-cup-final-ends-in-utter-chaos-leandro-paredes-sent-off-after-final-whistle-molina-caught-punching-2026-07-20-1048770",
-    "time": "2026-07-19T22:34:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Spain crowned FIFA World Cup champion after Ferran Torres secured 107th minute win vs 10-man Argentina",
-    "desc": "Spain lifted their second FIFA World Cup, courtesy of a 106-minute strike from Ferran Torres to secure a 1-0 victory over 10-man Argentina in the final at New York New Jersey Stadium on Monday morning. Torres...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/spain-crowned-fifa-world-cup-champion-after-ferran-torres-secured-107th-minute-win-vs-10-man-argentina-2026-07-20-1048769",
-    "time": "2026-07-19T22:06:47.000Z"
   }
 ];
