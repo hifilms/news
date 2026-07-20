@@ -1,21 +1,156 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Two long-awaited Hyderabad projects near finish line; launch expected next month",
-    "desc": "GHMC is preparing to partially open the new high-level bridge across the Musi river at Moosarambagh, restoring a key link that has remained shut since the old causeway was demolished last year; Nalgonda Crossroads-Owaisi Hospital elevated corridor is also nearing completion",
-    "img": "https://via.placeholder.com/600x400?text=News",
+    "title": "Police outnumbered, taken aback by number of protesters who reached Parliament’s doorstep",
+    "desc": "In an unprecedented turn of events, despite multiple layers of barricades, deployment of around 3,000 security personnel and an Internet shutdown, large crowds comprising mostly students and young people were able to reach the doorsteps of Parliament before they were tear-gassed and charged with batons",
+    "img": "https://th-i.thgim.com/public/incoming/gna7q0/article71246863.ece/alternates/LANDSCAPE_1200/79_Cockroach_Janta_Party_Protest_20_07_Delhi.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/two-long-awaited-hyderabad-projects-near-finish-line-launch-expected-next-month/article71246063.ece",
-    "time": "2026-07-20T16:12:31.000Z"
+    "url": "https://www.thehindu.com/news/national/police-outnumbered-taken-aback-by-number-of-protesters-who-reached-parliaments-doorstep/article71246561.ece",
+    "time": "2026-07-20T19:30:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Trump said same seven words to every Spain and Argentina player after World Cup final, claims lip reader",
+    "desc": "Donald Trump reportedly repeated the same congratulatory message to every Spain and Argentina player during the FIFA World Cup 2026 medal ceremony, according to a professional lip reader. The US President allegedly told each player, “You are a champ” and “Amazing player” while presenting medals following Spain’s 1-0 extra-time victory over Argentina in the final.",
+    "img": "https://static.toiimg.com/photo/msid-132522786,imgsize-126520.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/trump-said-same-seven-words-to-every-spain-and-argentina-player-after-world-cup-final-claims-lip-reader/articleshow/132522501.cms",
+    "time": "2026-07-20T18:36:15.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Current politics will not allow a Kapu leader to become CM of A.P., says MLC Somu Veerraju",
-    "desc": "It's time to introspect for Kapu leaders, says the former BJP State unit president; community leaders give a call for an action plan to revive the Kapu movement to achieve reservation in the State, saying it will be a real tribute to Mudragada Padmanabham",
-    "img": "https://th-i.thgim.com/public/incoming/lzwo64/article71246357.ece/alternates/LANDSCAPE_1200/10237_20_7_2026_19_58_47_1_WHATSAPPIMAGE2026_07_20AT72303PM.JPEG",
+    "title": "M.K. Ram arrested, court orders his release",
+    "desc": "Court finds procedural lapses in arrest. The former teacher of Kannur Dental College had been absconding for weeks after the High Court rejected his anticipatory bail in connection with the death of BDS student Nithin Raj. He was arrested in Coorg on Monday. Nithin’s family blames caste-based harassment for his suicide",
+    "img": "https://th-i.thgim.com/public/incoming/9qmp0m/article71246549.ece/alternates/LANDSCAPE_1200/80691_20_7_2026_12_40_48_1_DRNKRAM01.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/current-politics-will-not-allow-a-kapu-leader-to-become-cm-of-ap-says-mlc-somu-veerraju/article71245685.ece",
-    "time": "2026-07-20T15:47:01.000Z"
+    "url": "https://www.thehindu.com/news/national/kerala/nithin-raj-murder-mk-ram-arrested-court-orders-his-release/article71246504.ece",
+    "time": "2026-07-20T18:19:45.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Hungary’s ruling party backs chess legend Judit Polgar for President",
+    "desc": "Prime Minister Peter Magyar said that he would ask Ms. Polgar, widely regarded as the ‌greatest ever female chess player, to take up the largely ceremonial role of President until ‌a new constitution is passed",
+    "img": "https://th-i.thgim.com/public/incoming/pw4ruf/article71246796.ece/alternates/LANDSCAPE_1200/2026-07-20T132539Z_1495973259_RC2PHMAAOLW4_RTRMADP_3_HUNGARY-PARLIAMENT-PRESIDENT.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/hungarys-ruling-party-backs-chess-legend-judit-polgar-for-president/article71246720.ece",
+    "time": "2026-07-20T18:11:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Report",
+    "desc": "John Abraham has made another big real estate move. The Bollywood actor has reportedly purchased a bungalow in Bandra West for Rs 84 crore, adding yet another premium property to his growing portfolio. The deal comes at a time when Mumbai's luxury real estate market is witnessing a surge in trophy bungalow transactions, thanks to the limited availability of independent homes in the city's most sought-after neighbourhoods.",
+    "img": "https://static.toiimg.com/photo/msid-132521985,imgsize-47527.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/john-abraham-buys-rs-84-crore-bandra-west-bungalow-on-a-1017-60-sq-metre-plot-after-rs-70-83-crore-khar-property-report/articleshow/132521811.cms",
+    "time": "2026-07-20T18:01:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "7 killed in landslide, 3 in shooting-stone incidents in Jammu and Kashmir as rain toll mounts to 18",
+    "desc": "The J&K Police actively participated in the rescue operation at Domail Dhok after a tragic landslide hit a mud house, claiming seven lives; rescue efforts are continuing in coordination with all agencies concerned, said the police",
+    "img": "https://th-i.thgim.com/public/incoming/c1yl8l/article71243811.ece/alternates/LANDSCAPE_1200/AFP_C2KK7CU.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/heavy-downpour-slows-search-and-rescue-efforts-in-flood-hit-jk-death-toll-reaches-12/article71243803.ece",
+    "time": "2026-07-20T17:53:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Auto Drivers’ Association protests against illegal autorickshaw operations in Kalaburagi",
+    "desc": "Members of the Kalyana Karnataka Auto Drivers Association staged a protest in Kalaburagi on Monday, alleging a rise in the operation of unauthorised autorickshaws and app-based transport services that they claim are functioning in violation of transport regulations.",
+    "img": "https://th-i.thgim.com/public/incoming/jk4qte/article71246847.ece/alternates/LANDSCAPE_1200/10258_20_7_2026_18_7_39_2_KLB_AUTO_RICKSHAW_DRIVERS_ASSOSCIATION_3.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/auto-drivers-association-protests-against-illegal-autorickshaw-operations-in-kalaburagi/article71245378.ece",
+    "time": "2026-07-20T17:46:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Corruption allegations without credible evidence can ‘tarnish’ reputation of judicial officers, SC says",
+    "desc": "The top court was hearing activist Gulshan Pahuja’s plea challenging a High Court order refusing to extend his time to surrender; he has been sentenced to six months’ imprisonment for criminal contempt over allegedly derogatory videos targeting judicial officers",
+    "img": "https://th-i.thgim.com/public/incoming/8bmywl/article71246846.ece/alternates/LANDSCAPE_1200/07_Supreme_Court_14_07_Delhi.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/corruption-allegations-without-credible-evidence-can-tarnish-reputation-of-judicial-officers-sc-says/article71244500.ece",
+    "time": "2026-07-20T17:46:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Nine arrested in Guntur assault case",
+    "desc": "Superintendent of Police warns that strict legal action will be taken against anyone spreading false information, making objectionable remarks about the woman or circulating content that harms her dignity through social media or other platforms",
+    "img": "https://th-i.thgim.com/public/incoming/tmyvzi/article71246799.ece/alternates/LANDSCAPE_1200/10745_20_7_2026_19_51_34_1_IMG_20260720_WA0090.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/nine-arrested-in-guntur-assault-case/article71245743.ece",
+    "time": "2026-07-20T17:41:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Fishers allege Mamallan reservoir plan ignores tidal inundation risks",
+    "desc": "They say that the project had been designed without accounting for tidal movements and storm surges from Bay of Bengal, and argued that the technical assessment by IIT-M had not adequately assessed this risk. They fear the project would eliminate about 4,375 acres of natural flood storage",
+    "img": "https://th-i.thgim.com/public/incoming/ce47cj/article71245927.ece/alternates/LANDSCAPE_1200/2501_20_7_2026_14_26_0_4_DSC_2189.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/fishers-allege-mamallan-reservoir-plan-ignores-tidal-inundation-risks/article71245614.ece",
+    "time": "2026-07-20T17:37:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Telangana launches Indiramma Housing scheme in Hyderabad; releases eligibility, application procedure, beneficiary contribution details",
+    "desc": "The flats with built up area of 528 sft will be built in multi-storey towers. While Telangana government would provide subsidy of ₹5 lakh, tentative contribution of beneficiary is ₹6 lakh. A flat will be spread over 400 sft.",
+    "img": "https://th-i.thgim.com/public/incoming/xus537/article71244363.ece/alternates/LANDSCAPE_1200/_DSC6190.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Hyderabad/telangana-launches-indiramma-houses-in-hyderabad-cure/article71244258.ece",
+    "time": "2026-07-20T16:46:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former England captain and two-time Ballon d'Or winner Kevin Keegan dies at 75",
+    "desc": "English football icon Kevin Keegan has passed away at seventy-five years old. He was a two-time Ballon d'Or winner and a Liverpool European Cup champion. Keegan also enjoyed a successful managerial career with Newcastle United and England. His influence extended beyond football into popular culture during the 1970s. He leaves behind a significant legacy as a player and manager.",
+    "img": "https://static.toiimg.com/photo/msid-132520149,imgsize-90358.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/news/former-england-captain-and-two-time-ballon-dor-winner-kevin-keegan-dies-at-75/articleshow/132520113.cms",
+    "time": "2026-07-20T16:46:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Protesters’ anger extends beyond paper leaks",
+    "desc": "One of the many common threads connecting those who faced police lathis was that they had voted for the BJP in the past or came from families that had traditionally supported the BJP, making their disappointment more acute",
+    "img": "https://th-i.thgim.com/public/incoming/f6vf8e/article71246612.ece/alternates/LANDSCAPE_1200/93_Cockroach_Janta_Party_Protest_20_07_Delhi.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/march-to-parliament-protesters-anger-extends-beyond-paper-leaks/article71245923.ece",
+    "time": "2026-07-20T16:46:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "FIFA World Cup 2026",
+    "desc": "It was here in MetLife in 2016, when Messi had missed in the Copa America final shootout against Chile and announced his international retirement before making a comeback 47 days later to complete his redemption arc",
+    "img": "https://th-i.thgim.com/public/sport/1wbue5/article71246578.ece/alternates/LANDSCAPE_1200/MESSI.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/fifa-world-cup/fifa-world-cup-2026-messi-leaves-the-world-cup-as-its-most-enduring-presence/article71246571.ece",
+    "time": "2026-07-20T16:17:24.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Govt cites data for 23 crore vehicles, says 'no verified evidence' of widespread engine failure",
+    "desc": "Minister of State for Petroleum and Natural Gas Suresh Gopi said the shift to E20 fuel has been \"phased, calibrated and evidence-based,\" noting that the ethanol blending rate was gradually raised from 1.53 per cent in 2013-14 to 20 per cent in 2025-26 following \"scientific evaluation and stakeholder consultations at every stage.\"",
+    "img": "https://static.toiimg.com/photo/msid-132519508,imgsize-382400.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/e20-petrol-debate-govt-cites-data-for-23-crore-vehicles-says-no-verified-evidence-of-widespread-engine-failure/articleshow/132519467.cms",
+    "time": "2026-07-20T16:16:09.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India's forex boost: RBI's swap scheme raises $20.72 billion so far",
+    "desc": "The Reserve Bank of India's special swap facility attracted $20.72 billion by July 17. Most of this money arrived through Foreign Currency Non-Resident deposits. Overseas Foreign Currency Borrowings and External Commercial Borrowings also contributed to inflows. This facility was launched to strengthen India's balance of payments and encourage capital. Banks anticipate a significant rise in FCNR(B) deposits before the September deadline.",
+    "img": "https://static.toiimg.com/photo/msid-132519510,imgsize-96408.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-forex-boost-rbis-swap-scheme-raises-20-72-billion-so-far/articleshow/132519426.cms",
+    "time": "2026-07-20T16:14:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Messi suffers unwanted first in FIFA World Cup final as Spain silence Argentina icon",
+    "desc": "Spain defeated Argentina in the FIFA World Cup 2026 final after extra time. Lionel Messi experienced a rare off day, failing to create any chances for teammates. Spain's defensive strategy successfully contained the legendary Argentine forward throughout the match. Ferran Torres scored the decisive goal, securing Spain's second World Cup title. This victory extended Spain's impressive unbeaten international run to thirty-eight games.",
+    "img": "https://static.toiimg.com/photo/msid-132519377,imgsize-84884.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/lionel-messi-suffers-unwanted-first-in-fifa-world-cup-final-as-spain-silence-argentina-icon/articleshow/132519298.cms",
+    "time": "2026-07-20T16:10:19.000Z"
   },
   {
     "cat": "Entertainment",
@@ -54,15 +189,6 @@ const newsData_en = [
     "time": "2026-07-20T15:25:48.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Fishers allege Mamallan reservoir plan ignores tidal inundation risks",
-    "desc": "They argued that the WRD’s proposal and the technical assessment by the IIT-M, had not adequately assessed this risk; they further said that converting the marsh into a reservoir would eliminate about 4,375 acres of natural flood storage, increasing flood risk in nearby areas",
-    "img": "https://th-i.thgim.com/public/incoming/ce47cj/article71245927.ece/alternates/LANDSCAPE_1200/2501_20_7_2026_14_26_0_4_DSC_2189.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/fishers-allege-mamallan-reservoir-plan-ignores-tidal-inundation-risks/article71245614.ece",
-    "time": "2026-07-20T15:17:58.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "BCCI adopts MCC rule changes for 2026-27 domestic season; final over to continue even if wicket falls",
     "desc": "The BCCI will implement Marylebone Cricket Club rule changes for the upcoming domestic season. The final over of the day must now be completed even after a wicket falls. Bowlers deliberately bowling front-foot no-balls will be suspended for the entire match. Declaration and forfeiture are no longer permitted in the match's final innings. New playing conditions will also address gendered language and other relevant changes.",
@@ -79,15 +205,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/south-indian-celebs-reaction-prakash-raj-and-pa-ranjith-extend-support-to-sonam-wangchuks-jantar-mantar-protest/articleshow/132518405.cms",
     "time": "2026-07-20T15:04:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Faith and its fallout",
-    "desc": "In Ayodhya, weeks after allegations of money being siphoned off from donations at the Ram temple surfaced, pilgrims and residents say it has triggered a crisis of trust. Devotees say their faith in Lord Ram and the temple remains intact, but many have grown cautious about donating. Locals report a dip in visitors, though they attribute part of that to seasonal factors as well. As an SIT probe seeks accountability, Ishita Mishra reports from the temple town, where faith, transparency, and the city’s religious tourism hopes hang in the balance",
-    "img": "https://th-i.thgim.com/public/incoming/vvb51/article71237669.ece/alternates/LANDSCAPE_1200/6744_18_7_2026_14_36_53_1_08_AYODHYA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttar-pradesh/faith-and-its-fallout/article71237666.ece",
-    "time": "2026-07-20T14:58:39.000Z"
   },
   {
     "cat": "Entertainment",
@@ -432,15 +549,6 @@ const newsData_en = [
     "time": "2026-07-20T10:25:56.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Don't arm-twist the government': Kangana criticises CJP protest near Parliament",
-    "desc": "Kangana Ranaut criticized ongoing CJP protests near Parliament, stating demonstrations should not pressure the government. She believes Parliament is the proper forum for discussing public issues and government decisions. Protests causing disruptions are inappropriate as the elected government has a mandate to govern. Meanwhile, CJP protesters faced heavy security and tear gas as they marched towards Parliament. Several Bollywood personalities have voiced support for Sonam Wangchuk's ongoing hunger strike.",
-    "img": "https://static.toiimg.com/photo/msid-132512636,imgsize-98828.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dont-arm-twist-the-government-kangana-ranaut-criticises-cjp-protest-near-parliament-feels-protests-shouldnt-dictate-who-remains-in-office/articleshow/132512603.cms",
-    "time": "2026-07-20T10:20:43.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Era of cheap borrowing may be over as world enters 'a new macro regime': Moody's",
     "desc": "The era of ultra-low interest rates is ending, ushering in higher borrowing costs. Investors anticipate sustained investment in artificial intelligence and infrastructure projects. Geopolitical risks are also expected to remain elevated in the coming years. Bond markets reflect expectations of structurally higher interest rates for an extended period. Capital will likely flow towards AI, defense, and critical minerals sectors.",
@@ -522,15 +630,6 @@ const newsData_en = [
     "time": "2026-07-20T07:27:49.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Let the noise be there': Rohit Sharma brushes aside retirement talk",
-    "desc": "Rohit Sharma silenced retirement rumors with a century against England at Lord's. He scored 138 runs, nearly guiding India to a record chase. Sharma stated his focus remains on contributing to the team's success. He pays no attention to outside noise and its presence. His performance keeps him in contention for future matches.",
-    "img": "https://static.toiimg.com/photo/msid-132507712,imgsize-27575.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/let-the-noise-be-there-rohit-sharma-brushes-aside-retirement-talk-after-brilliant-lords-century/articleshow/132507691.cms",
-    "time": "2026-07-20T06:21:30.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Rupee tumbles 12 paise against US dollar as Middle East tensions lift crude prices",
     "desc": "The Indian Rupee opened lower against the US dollar on Monday. Rising crude oil prices and Middle East tensions fueled dollar demand. Foreign capital outflows from equity markets also weakened the local currency. Indian stock markets traded lower, with Sensex and Nifty declining. India's foreign exchange reserves saw a notable increase in the previous week.",
@@ -567,15 +666,6 @@ const newsData_en = [
     "time": "2026-07-20T02:14:38.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Oil prices jump 3% as US-Iran conflict intensifies, Brent crude tops $90 per barrel",
-    "desc": "Oil prices climbed significantly as United States and Iran conflict intensified. Shipping through the Strait of Hormuz faced increasing pressure and disruptions. US military actions continued for a ninth consecutive night against Iran. Bahrain and Kuwait reported fresh missile and drone strikes across the region. Escalating tensions kept oil prices on an upward trajectory.",
-    "img": "https://static.toiimg.com/photo/msid-132504183,imgsize-1913037.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-jump-3-as-us-iran-conflict-intensifies-brent-crude-tops-90-per-barrel-on-july-20-2026/articleshow/132504130.cms",
-    "time": "2026-07-20T01:57:46.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Matches in Indian Time",
     "desc": "The knockout stages of the 2026 FIFA World Cup begin on June 29, after an exciting group stage that featured 48 nations for the first time FIFA 2026 World Cup is being keenly watched by fans in India even if the matches are happening an ocean away.",
@@ -592,15 +682,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/20-shots-to-none-how-spain-utterly-owned-argentina-in-fifa-world-cup-2026-final-and-rendered-lionel-messi-irrelevant/articleshow/132503664.cms",
     "time": "2026-07-20T00:30:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "More brands in store, but price cuts may lag",
-    "desc": "New British brands are expected to enter Indian markets, offering consumers more retail choices. While duty cuts are beneficial, rupee depreciation may limit immediate price reductions. Some brands are pausing price hikes and reducing costs on specific product categories. Global supply chain issues and currency volatility also impact pricing strategies for businesses. Over time, consumers can anticipate more competitive pricing as import duties are further reduced.",
-    "img": "https://static.toiimg.com/photo/msid-132501397,imgsize-60673.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/more-brands-in-store-but-price-cuts-may-lag/articleshow/132501369.cms",
-    "time": "2026-07-19T20:22:44.000Z"
   },
   {
     "cat": "Sports",
@@ -738,24 +819,6 @@ const newsData_en = [
     "time": "2026-07-18T17:43:37.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Once in his arms, now in his way: Lamine Yamal, Lionel Messi and a date with destiny",
-    "desc": "A 2007 photograph of Messi holding a baby Yamal was just a moment in time. Nearly two decades later, it has become football folklore — as the two generations of Barcelona brilliance prepare to meet in the 2026 FIFA World Cup final.",
-    "img": "https://th-i.thgim.com/public/incoming/nsacq7/article71238949.ece/alternates/LANDSCAPE_1200/image%20-%202026-07-18T212647.628.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/lionel-messi-lamine-yamal-fifa-world-cup-final-2026-baby-photo-analysis-argentina-spain-history/article71238987.ece",
-    "time": "2026-07-18T16:14:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ENG vs. IND third ODI",
-    "desc": "The kerfuffle surrounding the 39-year-old’s time as an international cricketer has dominated news ahead of the Lord’s ODI; Rahul, after missing out on the second match, will play the decider; both teams will be looking to avoid middle-order collapses",
-    "img": "https://th-i.thgim.com/public/incoming/ielzl2/article71238857.ece/alternates/LANDSCAPE_1200/2026-07-18T045946Z_432938576_RC2RDMAZNXHH_RTRMADP_3_CRICKET-ODI-ENG-IND.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/eng-vs-ind-third-odi-rohits-future-and-the-series-on-the-line/article71238320.ece",
-    "time": "2026-07-18T15:45:28.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Article 370 bags best feature film, Mammootty gets best actor award",
     "desc": "Announcing the awards, chairman of the central jury Jayaraj said Telugu movie Kalki 2898 AD bagged the trophy for the best popular film; Mammootty won his fourth National Film Award for best actor for his performance in Malayalam movie Bramayugam",
@@ -835,68 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/how-women-audiences-are-championing-marathi-films-in-theatres-baipan-bhari-deva-tighee-deool-band-2/article71229588.ece",
     "time": "2026-07-18T04:34:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Singer, composer and architect",
-    "desc": "Singer-songwriter Shakthishree Gopalan’s latest independent single is ‘Old Friend’, a track that has been many years in the making. “It’s about my inner demons. It holds everything – from my neurodivergence, my mental health journey, and above all, choosing myself,” she says. In an interview, the singer talks about the journey of her latest track and independent music. Shakthisree – also a qualified architect - also talks about how she was roped it to design music composer AR Rahman’s music school and studio.",
-    "img": "https://th-i.thgim.com/public/incoming/rkl2ja/article71235513.ece/alternates/LANDSCAPE_1200/Shakthishree%20Gopalan%20.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/meet-the-real-shakthishree-singer-composer-and-architect/article71235516.ece",
-    "time": "2026-07-17T16:44:40.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How the new U.S. visa rules affect your online privacy",
-    "desc": "Privacy experts have slammed the U.S. government’s new social media vetting requirements, likening the country’s approach to that of an authoritarian regime. However, they note it is difficult to claim that privacy laws are being broken as visa applicants can choose to ignore the request, though they put their visa application at risk by doing so",
-    "img": "https://th-i.thgim.com/public/incoming/uftu99/article69743327.ece/alternates/LANDSCAPE_1200/2024-01-17T131539Z_128884214_RC29J5AKWFZM_RTRMADP_3_INDIA-ISRAEL-WORKERS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/how-the-new-us-visa-rules-affect-your-online-privacy-explained/article69743345.ece",
-    "time": "2026-07-17T07:38:11.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "What’s new in the draft CAFE-III norms?",
-    "desc": "The latest draft leaves most of the April proposal unchanged, suggesting the government has broadly stuck to the compromise it arrived at after months of intense negotiations between manufacturers of small cars and larger SUVs.",
-    "img": "https://th-i.thgim.com/public/incoming/ol1hai/article71232756.ece/alternates/LANDSCAPE_1200/Ethanol%20side%20effects%20in%20vehicles%20E%2020%207.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/whats-new-in-the-draft-cafe-iii-norms-explained/article71232676.ece",
-    "time": "2026-07-17T04:57:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Tax Department will soon let you see the data it has on your foreign assets and income",
-    "desc": "The Central Board of Direct Taxes will soon make the information it receives from its partner jurisdictions available on the Annual Information Statement of all eligible taxpayers, in a move to enhance taxpayer services and promote voluntary tax compliance, sources said",
-    "img": "https://th-i.thgim.com/public/incoming/kfuoxe/article71230543.ece/alternates/LANDSCAPE_1200/BLIT_GTVFDFDRJ.1GG4FDFMCM.3.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/central-board-of-direct-taxes-taxpayers-information-india-foreign-assets-income/article71230395.ece",
-    "time": "2026-07-16T14:34:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Why are five anonymous female users suing Elon Musk’s xAI?",
-    "desc": "After AI chatbot Grok enabled users to create a barrage of sexual deepfakes and morphed photos earlier this year, a proposed class action lawsuit in the U.S. saw five people claiming that their lives have been “shattered” as a result of child abuse material",
-    "img": "https://th-i.thgim.com/public/incoming/sv1xgs/article71228383.ece/alternates/LANDSCAPE_1200/2026-07-06T155909Z_164471774_RC24ZKA0FS8X_RTRMADP_3_MUSK-TWITTER.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/why-are-five-anonymous-female-users-suing-elon-musks-xai-explained/article71224775.ece",
-    "time": "2026-07-16T04:53:23.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Brought in for civilian use, Starlink is now integral to Ukraine’s war effort",
-    "desc": "Russia’s latest attempts to jam the satellite network are about more than disrupting internet access; Starlink sits behind drone operations, battlefield communications, and command networks that stretch across hundreds of kilometres of the war front",
-    "img": "https://th-i.thgim.com/public/incoming/8i7let/article71227047.ece/alternates/LANDSCAPE_1200/2026-06-22T144855Z_720713080_RC2SRLAGY6SX_RTRMADP_3_NAMIBIA-STARLINK.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/brought-in-for-civilian-use-starlink-is-now-integral-to-ukraines-war-effort/article71225657.ece",
-    "time": "2026-07-15T18:23:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How India’s first educational computer arrived on a bullock cart",
-    "desc": "Computer science education was first introduced in India at IIT Kanpur. One of the earliest educational computers travelled by airplane, truck and even a bullock cart before reaching the campus, leaving us with computer lab traditions that are still followed",
-    "img": "https://th-i.thgim.com/public/incoming/cnpryt/article71209986.ece/alternates/LANDSCAPE_1200/Screenshot%202026-06-10%20113946.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/children/how-indias-first-educational-computer-arrived-on-a-bullock-cart/article71209933.ece",
-    "time": "2026-07-15T08:10:36.000Z"
   }
 ];
