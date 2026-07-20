@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "R Ashwin gives his take on Kuldeep Yadav's continued absence from India squad after England series loss",
+    "desc": "The Indian team has been undergoing a rough patch of form; after losing the T20I series against Ireland, the Men in Blue followed it up with a 4-0 T20I series loss against England. Furthermore, England...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/r-ashwin-gives-his-take-on-kuldeep-yadav-s-continued-absence-from-india-squad-after-england-series-loss-2026-07-20-1048858",
+    "time": "2026-07-20T14:43:54.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Calcutta High Court orders arrest of wicket-keeper batter Abishek Porel over rape case",
     "desc": "In a major development, the Calcutta High Court has come forward and ordered the immediate arrest of India wicket-keeper batter Abhishek Porel over a rape case. As part of the same ongoing case, the court...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/list-of-awards-won-in-fifa-world-cup-2026-netherlands-handed-fair-play-award-2026-07-20-1048772",
     "time": "2026-07-19T23:29:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lionel Messi looks inconsolable after FIFA World Cup final, cries heart out after collecting silver medal",
-    "desc": "Spain won the FIFA World Cup title with a 1-0 extra-time victory over Argentina. It is their second title in history, which ended the defending champions' reign and denied Lionel Messi another World Cup triumph. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/lionel-messi-looks-inconsolable-after-fifa-world-cup-final-cries-heart-out-after-collecting-silver-medal-watch-2026-07-20-1048771",
-    "time": "2026-07-19T23:04:42.000Z"
   }
 ];

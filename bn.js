@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "CJP-র অভিযানে পুলিসের লাঠিচার্জ: 'অনশন জারি থাকবে', হাসপাতাল থেকে বার্তা সোনম ওয়াংচুকের",
+    "desc": "নিট-ইউজি প্রশ্নফাঁসের প্রতিবাদে সিজেপি-র 'সংসদ চলো' মিছিলে পুলিশি বলপ্রয়োগের পর হাসপাতাল থেকেই কড়া বার্তা দিলেন সোনম ওয়াংচুক। আন্দোলনকারী শিক্ষার্থীদের সংসদে সাংসদদের সাথে দেখা করতে না দেওয়া পর্যন্ত ২০ দিন পেরোনো অনশন চালিয়ে যাবেন তিনি। এদিকে জেপি নড্ডার সাথে বৈঠক করে কেন্দ্রীয় শিক্ষামন্ত্রী ধর্মেন্দ্র প্রধানের পদত্যাগসহ ৩ দফা দাবি পেশ করেছে সিজেপি।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/sonam-wangchuk-fast-cjp-sansad-chalo-protest-delhi-police_663241.html ",
+    "time": "2026-07-20T15:35:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "তোলপাড় দিল্লি: সোনমের মুক্তি, ধর্মেন্দ্র প্রধানের ইস্তফা আর প্রতিটি NEET অপমৃত্যুর জন্য ১ কোটি-- CJP-র তিন দাবি ঘিরে রহস্য, তুলকালাম রাজনীতি",
+    "desc": "প্রশ্ন ফাঁস এবং পরীক্ষার ফল প্রকাশের পর তৈরি হওয়া চরম অব্যবস্থা ও মানসিক চাপ সহ্য করতে না পেরে দেশের বিভিন্ন প্রান্তে একাধিক নিট পরীক্ষার্থী আত্মহত্যার পথ বেছে নিয়েছেন। সিজেপি এই মৃত্যুর ঘটনাগুলিকে ‘প্রাতিষ্ঠানিক হত্যাকাণ্ড’ বলে অভিহিত করেছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/cjp-puts-3-key-demands-to-centre-free-sonam-wangchuk-sack-dharmendra-pradhan-and-1-crore-compensation-for-every-neet-death_663238.html ",
+    "time": "2026-07-20T15:19:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "এল ভয়ঙ্কর আইন: রাম-রহিম যেই হোক, পরকীয়ায় লিভ-ইন করলেই এবার ৫ বছরের জেল-- বড় খবর",
+    "desc": "যে কোনও অবিবাহিত যুগল লিভ-ইন রিলেশনশিপ শুরু করার এক মাসের মধ্যে স্থানীয় রেজিস্ট্রারের কাছে তা বাধ্যতামূলকভাবে নথিভুক্ত করতে হবে। সম্পর্ক শেষ করার ক্ষেত্রেও আইনি নোটিশ দিতে হবে। যদি কোনও যুগল এক মাসের বেশি সময় ধরে রেজিস্ট্রেশন ছাড়া সহবাস করেন, তবে তাঁদের ৩ মাসের জেল বা ১০,০০০ টাকা জরিমানা হতে পারে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/madhya-pradesh-approves-uniform-civil-code-draft-new-live-in-rules-and-penalties-proposed_663227.html ",
+    "time": "2026-07-20T14:17:56.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "বিশ্বকাপ ফুটবলের শেষ লগ্নের জীবন্ত মুহূর্ত, সারা পৃথিবীর চাঁদের হাট-- ফিরে দেখা তারকা মেলা",
     "desc": "হলিউড সুপারস্টার টম ক্রুজ ফাইনাল ম্যাচ শুরুর ঠিক আগে বক্তব্য পেশ করেন। ৮২,০০০-এরও বেশি দর্শকের সামনে তিনি বলেন, 'ফুটবল এমন এক ভাষা যা কোনও শব্দ ছাড়াই কথা বলে। একটা শক্তি যা বিশ্বকে একত্রিত করে, অপরিচিতদের বন্ধু বানায়।'",
@@ -160,24 +187,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/rahul-gandhi-and-mallikarjun-kharge-press-modi-for-independent-ram-temple-probe-in-their-joint-letter-to-pm_663025.html ",
     "time": "2026-07-19T08:56:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ফোনে হবু বর শুনলেন ২২ মিনিটের চিৎকার, বৈষ্ণবীকে কোপানোর পর সাহিল বলল: 'বৈষু শেষ!'",
-    "desc": "হত্যাকাণ্ডের সময় তরুণীর হবু বর ফোনে লাইনে ছিলেন। তিনি তাঁদের ২২ মিনিটের ঝগড়া শোনেন। খুনের পর সাহিল নিজেই তাঁকে ফোন করে বৈষ্ণবীর মৃত্যুর খবর দেয়। এই ঘটনার কয়েক ঘণ্টা পর ঘটনাস্থল থেকে দুই কিলোমিটার দূরে সাহিলের ঝুলন্ত দেহ উদ্ধার হয়।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/nashik-man-stabs-ex-girlfriend-to-death-on-phone-call-with-fiance_663015.html ",
-    "time": "2026-07-19T07:59:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "হাসপাতালের উপর বিন্দুমাত্র ভরসা নেই: সোনমকে 'অন্যায়ভাবে আটকে' রাখা হয়েছে, এবার কোর্টে ওয়াংচুকের স্ত্রী",
-    "desc": "গীতাঞ্জলির দাবি, সোনমকে অন্যায়ভাবে আটকে রাখা হয়েছে হাসপাতালে। সোনম কোর্টের অনুমতি নিয়ে স্বামীরকে হাসপাতাল থেকে ছাড়িয়ে অন্য বেসরকারি কোনও হাসপাতালে ভর্তি করাতে চান। তাঁর দাবি, সোনমের স্বাস্থ্যগত ঝুঁকির প্রশ্ন তুলে যন্তর মন্তরে তাঁর ২১ দিনের অনশন ভেস্তে দেওয়া হয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/lost-faith-in-hospital-sonam-wangchuks-wife-goes-to-court-over-illegal-detention_663014.html ",
-    "time": "2026-07-19T07:39:42.000Z"
   },
   {
     "cat": "Entertainment",
