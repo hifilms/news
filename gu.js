@@ -1,6 +1,60 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "સ્પેનની જીતથી ભારતીય ક્રિકેટ ફેન્સ ખુશ! જાણો 16 વર્ષ જૂનો એવો કયો સંયોગ છે જે ભારતને બનાવી શકે છે વિશ્વ વિજેતા",
+    "desc": "ફુટબોલની દુનિયાનું નવું બાદશાહ સ્પેન બની ગયું છે. ફુટબોલ વિશ્વકપ 2026ની ફાઈનલમાં સ્પેને આર્જેન્ટીનાને 1-0થી હરાવી ટ્રોફી કબજે કરી છે. 2010 બાદ સ્પેન બીજીવાર ફુટબોલમાં વિશ્વ વિજેતા બન્યું છે. સ્પેનની જીત સાથે એક સંયોગ બની ગયો છે. તેવામાં સવાલ થઈ રહ્યો છે કે શું ભારતીય ટીમ આગામી વર્ષે વનડે વિશ્વકપ જીતશે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/spain-wins-fifa-world-cup-2026-incredible-coincidence-sparks-hope-for-team-indias-2027-odi-world-cup-victory-485219 ",
+    "time": "2026-07-20T06:13:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "બોક્સ ઓફિસ પર ફ્લોપ રહી પણ OTT પર રિલીઝ થયાની સાથે ટ્રેંડ કરવા લાગી ચાંદ મેરા દિલ",
+    "desc": "અનન્યા પાંડે અને લક્ષ્યની ફિલ્મ ચાંદ મેરા દિલ હવે ઓટીટી પર રિલીઝ થઈ ચુકી છે. આ ફિલ્મ બોક્સ ઓફિસ પર લોકોનું દિલ જીતવામાં સફળ ન રહી પણ ઓટીટીના દર્શકોને ફિલ્મ પસંદ પડી રહી છે. આ ફિલ્મ ઓટીટી પર ટોપ ટ્રેડિંગ ફિલ્મોની લિસ્ટમાં આવી ગઈ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/chand-mera-dil-on-ott-jio-hotstar-trending-hindi-film-485218 ",
+    "time": "2026-07-20T06:05:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "&amp;#039;વંદે માતરમ&amp;#039;ના અપમાન પર હવે કડક સજા? જાણો અમિત શાહના નવા બિલમાં શું છે",
+    "desc": "વંદે માતરમના અપમાન માટે હવે કડક કાર્યવાહીની તૈયારી કરવામાં આવી રહી છે. કેન્દ્રીય ગૃહમંત્રી અમિત શાહ સંસદમાં એક બિલ રજૂ કરી શકે છે, જેમાં રાષ્ટ્રગીતનું અપમાન કરવા બદલ જેલ અને દંડની જોગવાઈ હોઈ શકે છે. આ પ્રસ્તાવિત બિલ, તેની જોગવાઈઓ અને વંદે માતરમના અપમાન અંગેના કાયદામાં સંભવિત ફેરફારો વિશે જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/now-strict-punishment-for-insulting-vande-mataram-know-what-is-in-amit-shah-new-bill-485215 ",
+    "time": "2026-07-20T05:21:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘જો એવું થશે તો આજે જ પૂરા થશે ઉપવાસ…’, સોનમ વાંગચુકે સફદરજંગ હોસ્પિટલથી રાખી 3 શરતો",
+    "desc": "એક્ટિવિસ્ટ સોનમ વાંગચુક 23 દિવસથી અનશન પર છે. તેમણે 20 જુલાઈએ ભૂખ હડતાલ ખતમ કરવાનો સંકેત આપ્યો છે, બસ સરકાર શિક્ષણ વ્યવસ્થાની ખામીઓ કે પેપર લીકની જવાબદારી લે, કે સાંસદ આ મુદ્દો સંસદમાં ઉઠાવવાનો ભરોસો આપે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/sonam-wangchuk-sets-3-conditions-to-end-23-day-fast-alleges-illegal-detention-at-safdarjung-hospital-485212 ",
+    "time": "2026-07-20T04:47:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "હારનો ગુસ્સો મેદાનમાં ફાટ્યો! આર્જેન્ટિનાના ખેલાડીએ સ્પેનિશ સ્ટારને કોલર પકડી ખેંચ્યો, જુઓ Video",
+    "desc": "રવિવારે મોડી રાત્રે ફાઇનલ મેચમાં આર્જેન્ટિના સામે 1-0થી વિજય મેળવીને સ્પેને ફિફા વર્લ્ડ કપ 2026 જીત્યો. સબસ્ટિટ્યુટ ફેરન ટોરેસ સ્પેનની જીતના હીરો રહ્યા, તેમણે વધારાના સમયમાં નિર્ણાયક ગોલ કરીને ટીમને 2010 પછીનો બીજો ખિતાબ જીત્યો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/the-anger-of-the-defeat-erupted-on-the-field-the-argentine-player-grabbed-the-collar-of-the-spanish-star-watch-the-video-485204 ",
+    "time": "2026-07-20T03:44:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ટોરેસે તોડ્યું મેસ્સીનું સપનું, ફાઈનલમાં આર્જેન્ટીનાને 1-0થી કચડીને સ્પેન બીજીવાર બન્યું વિશ્વ વિજેતા",
+    "desc": "ફિફા વર્લ્ડ કપ 2026ની ફાઈનલમાં સ્પેને જબરદસ્ત પ્રદર્શન કરતા ગત ચેમ્પિયન આર્જેન્ટીનાને હરાવી દીધુ. ફેરાન ટોરેસના શાનદાર ગોલના કારણે લિયોનેલ મેસ્સીનું સપનું ચકનાચૂર થયું. સ્પેને આર્જેન્ટીનાને 1-0થી હરાવીને બીજીવાર ખિતાબ પોતાના નામે કર્યો. મેસ્સીનું સતત બીજીવાર વર્લ્ડ કપ ચેમ્પિયન બનવાનું સપનું રોળાયું. જ્યારે સ્પેને 16 વર્ષના લાંબા ઈન્તેજાર બાદ બીજીવાર આ ચમચમાતી ટ્રોફી જીતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/fifa-world-cup-final-2026-spain-beats-argentina-become-football-champions-485193 ",
+    "time": "2026-07-20T03:03:03.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "જે રેફરીની &amp;#039;સેક્સ પાર્ટી&amp;#039; રેડમાં થઈ હતી ધરપકડ, તેમના જ ખભે હતી ફૂટબોલ વર્લ્ડ કપની ફાઇનલ! જાણો સમગ્ર મામલો",
     "desc": "ન્યુ જર્સીના મેટલાઇફ સ્ટેડિયમમાં લિયોનેલ મેસ્સી અને લેમિન યામલ જેવા સ્ટાર્સ મેદાનમાં હતા, વિન્સીક પણ એટલી જ મહત્વપૂર્ણ જવાબદારી નિભાવે છે. વિન્સીકની પણ ઇચ્છે હતી કે સૌથી મોટી ફૂટબોલ મેચ ફક્ત ખેલાડીઓના પ્રદર્શન દ્વારા નક્કી થાય, કોઈ વિવાદ દ્વારા નહીં.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -61,15 +115,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/world-cup-2026-price-money-details-winner-spain-runners-up-argentina-and-what-about-other-teams-485194 ",
     "time": "2026-07-20T00:33:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ટોરેસે તોડ્યું મેસ્સીનું સપનું, ફાઈનલમાં આર્જેન્ટીનાને 1-0થી કચડીને સ્પેન બીજીવાર બન્યું વિશ્વ વિજેતા",
-    "desc": "ફિફા વર્લ્ડ કપ 2026ની ફાઈનલમાં સ્પેને જબરદસ્ત પ્રદર્શન કરતા ગત ચેમ્પિયન આર્જેન્ટીનાને હરાવી દીધુ. ફરેન ટોરેસના શાનદાર ગોલના કારણે લિયોનેલ મેસ્સીનું સપનું ચકનાચૂર થયું. સ્પેને આર્જેન્ટીનાને 1-0થી હરાવીને બીજીવાર ખિતાબ પોતાના નામે કર્યો. મેસ્સીનું સતત બીજીવાર વર્લ્ડ કપ ચેમ્પિયન બનવાનું સપનું રોળાયું. જ્યારે સ્પેને 16 વર્ષના લાંબા ઈન્તેજાર બાદ બીજીવાર આ ચમચમાતી ટ્રોફી જીતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/fifa-world-cup-final-2026-spain-beats-argentina-become-football-champions-485193 ",
-    "time": "2026-07-19T23:48:00.000Z"
   },
   {
     "cat": "Sports",
@@ -196,24 +241,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/terrorists-changed-their-target-now-gujarat-and-rajasthan-are-under-threat-know-why-485116 ",
     "time": "2026-07-19T05:31:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ફિફા વર્લ્ડ કપ 2026: જે જીતશે તેના પર થશે ₹481 કરોડનો વરસાદ, મળશે દુનિયાની સૌથી મોંઘી ટ્રોફી!",
-    "desc": "સ્પેન અને આર્જેન્ટીના વચ્ચે ફુટબોલ વિશ્વકપ 2026નો ફાઈનલ મુકાબલો રવિવારે મોડી રાત્રે 12.30 કલાકે (ભારતીય સમયાનુસાર) શરૂ થશે. આ મેચ જે ટીમ જીતશે તેને 50 મિલિયન યુએસ ડોલર (આશરે 481 કરોડ રૂપિયા) ની ઈનામી રકમની સાથે દુનિયાની સૌથી મોંઘી સ્પોર્ટ્સ ટ્રોફી આપવામાં આવશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/fifa-world-cup-2026-final-spain-or-argentina-tonights-winner-will-lift-the-worlds-most-valuable-sports-trophy-worth-millions-485115 ",
-    "time": "2026-07-19T05:27:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ફીફા વર્લ્ડ કપ 2026 ફાઇનલ: આજે મળશે વિશ્વ વિજેતા! મેસીની આર્જેન્ટીના સામે સ્પેનનો મહાસંગ્રામ, 195 દેશોની નજર",
-    "desc": "ફુટબોલ વિશ્વકપ 2026ની ફાઈનલમાં આજે આર્જેન્ટીના અને સ્પેન વચ્ચે મહામુકાબલો રમાવાનો છે. લિયોનેલ મેસ્સી અને લામિન યમાલ પ્રથમવાર વિશ્વકપના સૌથી મોટા મંચ પર આમને-સામને હશે. જાણો મેચનો સમય, લાઇવ સ્ટ્રીમિંગ અને બંને ટીમ વચ્ચે હેડ-ટૂ-હેડ રેકોર્ડ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/38-days-103-matches-1-champion-defending-champions-argentina-face-spains-iron-defense-in-historic-miami-final-485094 ",
-    "time": "2026-07-19T05:26:12.000Z"
   },
   {
     "cat": "Entertainment",
@@ -468,15 +495,6 @@ const newsData_gu = [
     "time": "2026-07-16T14:46:43.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "પુરી જગન્નાથ રથયાત્રામાં નાસભાગ જેવી સ્થિતિ... એકનું મોત, 100થી વધુ ઘાયલ",
-    "desc": "પુરીમાં જગન્નાથ રથયાત્રા 2026ના પહેલા દિવસે પુરીના ગ્રાન્ડ રોડ પર ભારે ભીડને કારણે નાસભાગ જેવી સ્થિતિ સર્જાઈ હતી. જેમાં એક ભક્તનું મોત નીપજ્યું હોવાના અહેવાલ છે, જ્યારે ઘણા લોકોને શ્વાસ લેવામાં તકલીફ પડતાં હોસ્પિટલમાં દાખલ કરવામાં આવ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/stampede-situation-in-puri-jagannath-rath-yatra-one-dead-many-injured-484843 ",
-    "time": "2026-07-16T12:51:33.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "ભારતમાં માત્ર 25 લોકો જ ખરીદી શકશે આ બાઇક! Royal Enfieldએ લોન્ચ કર્યું લિમિટેડ એડિશન બાઇક; જાણો કિંમત અને બુકિંગ ડિટેલ્સ",
     "desc": "જો તમે એકદમ અનોખી અને પ્રીમિયમ મોટરસાઇકલના શોખીન છો, તો રોયલ એનફિલ્ડની નવી શોટગન 650 રફ ક્રાફ્ટ્સ એડિશન ખાસ તમારા માટે જ છે. તાઇવાની કસ્ટમ આર્ટથી સજ્જ આ સુપર-એક્સક્લુઝિવ બાઇકના બુકિંગ અને કિંમતની સંપૂર્ણ વિગતો આવો જાણીએ.",
@@ -484,15 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/only-25-people-in-india-will-be-able-to-buy-this-bike-royal-enfield-launches-limited-edition-bike-know-price-and-booking-details-484839 ",
     "time": "2026-07-16T11:54:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "શું આખી ભાજપ બદલવાના છે પીએમ મોદી અને શાહ, &amp;#039;સંસદીય બોર્ડ&amp;#039; અને મંત્રીમંડળમાં ફેરફારની અટકળો?",
-    "desc": "ગુજરાતમાં રહેલા અમિત શાહ આજે સંગઠન અને સરકારના કમલમમાં ક્લાસ લેવાના છે. ભાજપ હમણાં કંઈક નવાજૂની કરવાના મૂડમાં છે. ભાજપની સૌથી પાવરફૂલ કમિટી સંસદીય બોર્ડથી લઈને મંત્રીમંડળમાં મોટા ફેરફાર તેવી અટકળો લાગી રહી છે. મોદી- શાહ અને નીતિન નબીન વચ્ચે સતત થઈ રહેલી બેઠકો કંઈક નવાજૂની કરશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/modi-shahs-big-plan-the-biggest-change-in-bjps-organization-will-happen-so-far-know-whose-card-will-be-cut-484820 ",
-    "time": "2026-07-16T08:52:55.000Z"
   },
   {
     "cat": "Entertainment",
