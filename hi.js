@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Special Olympics Bharat wins bronze in Gothia Cup, coach calls for more practice matches for improvement",
+    "desc": "The Special Olympics Bharat football team was felicitated in New Delhi on Monday, July 20, following their bronze medal victory at the Gothia Cup 2026 in Sweden. Notably, India secured a third-place finish in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/special-olympics-bharat-wins-bronze-in-gothia-cup-coach-calls-for-more-practice-matches-for-improvement-2026-07-21-1048868",
+    "time": "2026-07-20T19:46:54.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "R Ashwin gives his take on Kuldeep Yadav's continued absence from India squad after England series loss",
     "desc": "The Indian team has been undergoing a rough patch of form; after losing the T20I series against Ireland, the Men in Blue followed it up with a 4-0 T20I series loss against England. Furthermore, England...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/donald-trump-lingers-on-podium-in-awkward-moment-as-spain-lift-fifa-world-cup-video-goes-viral-watch-2026-07-20-1048778",
     "time": "2026-07-20T02:31:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "List of awards won in FIFA World Cup 2026, Netherlands handed fair play award",
-    "desc": "Spain were crowned FIFA World Cup champions for the second time after Ferran Torres scored an extra-time winner in a 1-0 victory over Argentina in New York. They dominated the tournament throughout and ended with...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/list-of-awards-won-in-fifa-world-cup-2026-netherlands-handed-fair-play-award-2026-07-20-1048772",
-    "time": "2026-07-19T23:29:24.000Z"
   }
 ];

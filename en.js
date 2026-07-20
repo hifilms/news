@@ -1,12 +1,129 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Supreme Court takes exception to meagre compensation for ex-HC judges",
+    "desc": "The Supreme Court has taken exception to low compensation for retired High Court judges. It asked the Union government to form a committee for uniform guidelines. This committee will consider basic minimum security and services for retired judges. The panel will study issues faced by retired judges and submit recommendations. The goal is to ensure retired judges lead a dignified post-retirement life.",
+    "img": "https://static.toiimg.com/photo/msid-132524205,imgsize-1428575.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/supreme-court-takes-exception-to-meagre-compensation-for-ex-hc-judges/articleshow/132524206.cms",
+    "time": "2026-07-20T21:41:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "No decision on ethanol blending beyond 20%: Govt",
+    "desc": "The government has stated no decision exists to raise ethanol blending beyond twenty percent. Lower-blended fuel or pure petrol will not be available at select outlets. Any future diesel blending will depend on evaluations and stakeholder consultations. The transition to E20 has been phased and evidence-based, with gradual increases. Claims of vehicle damage from E20 are largely misleading or unsupported by technical evidence.",
+    "img": "https://static.toiimg.com/photo/msid-132524203,imgsize-83666.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-decision-on-ethanol-blending-beyond-20-govt/articleshow/132524202.cms",
+    "time": "2026-07-20T21:36:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NTA rebuts claims of 5, says NEET-UG OMR sheets forged",
+    "desc": "The National Testing Agency has refuted claims of OMR answer sheet discrepancies from five NEET-UG candidates. Images circulated by these candidates were reportedly digitally altered or regenerated using artificial intelligence. The agency verified the original OMR sheets and scores for all five students involved. These actions follow allegations of swapped OMR sheets and fewer attempted answers than recorded. Candidates submitting fabricated records may face severe penalties under relevant acts.",
+    "img": "https://static.toiimg.com/photo/msid-132524135,imgsize-17816.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/nta-rebuts-claims-of-5-says-neet-ug-omr-sheets-forged/articleshow/132524008.cms",
+    "time": "2026-07-20T21:29:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Youth full of aspirations, want country to move forward: PM Modi",
+    "desc": "Prime Minister Modi urged opposition parties to use logic and facts in Parliament. He highlighted India's youth aspirations and recent national achievements. The successful launch of a private space rocket showcased young Indian capabilities. Recent inaugurations and a hydrogen train launch also marked progress. India maintained growth despite global energy supply disruptions.",
+    "img": "https://static.toiimg.com/photo/msid-132524005,imgsize-115142.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/youth-full-of-aspirations-want-country-to-move-forward-pm-modi/articleshow/132524003.cms",
+    "time": "2026-07-20T21:25:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Global urea prices ease after May spike, fall 40% in June",
+    "desc": "Urea prices fell significantly in June, offering government relief after earlier increases. International urea prices were $572 per tonne, down from May's figures. Other fertilizer prices like diammonium phosphate and potash remained higher than last year. Sulphur prices saw the largest increase, rising 265 percent year-on-year. Domestic urea production exceeded targets, providing comfort for the current season.",
+    "img": "https://static.toiimg.com/photo/msid-132523991,imgsize-103209.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/global-urea-prices-ease-after-may-spike-fall-40-in-june/articleshow/132523993.cms",
+    "time": "2026-07-20T21:09:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rahul Gandhi claims PM Modi ‘most anti-youth PM India has seen’",
+    "desc": "Opposition leaders criticized Prime Minister Narendra Modi for his government's actions. They condemned the crackdown on young protesters marching towards Parliament. Rahul Gandhi called Modi the most anti-youth Prime Minister India has seen. Leaders stated that students are not criminals and their demands are legitimate. The protests highlight widespread discontent regarding examination irregularities and education system issues.",
+    "img": "https://static.toiimg.com/photo/msid-132523981,imgsize-763937.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/rahul-gandhi-claims-pm-modi-most-anti-youth-pm-india-has-seen/articleshow/132523982.cms",
+    "time": "2026-07-20T20:59:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delhi violence not spontaneous, says BJP, blames Left",
+    "desc": "The BJP has blamed Left-affiliated student groups for protests and violence. Organised groups were also accused of instigating and mobilising crowds. Similar allegations were made regarding the Delhi riots and ongoing legal proceedings. The party stated that the violence did not appear spontaneous and was orchestrated. Investigations will establish criminal responsibility for the real conspirators.",
+    "img": "https://static.toiimg.com/photo/msid-132523970,imgsize-172482.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/delhi-violence-not-spontaneous-says-bjp-blames-left/articleshow/132523964.cms",
+    "time": "2026-07-20T20:51:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court proposes SIT probe into Ram Temple case",
+    "desc": "Bench tells petitioners not to play politics with the donation embezzlement case; complainants had sought a CBI probe and publication of all financial details of Shri Ram Janmabhoomi Teerth Kshetra Trust; court lists case for orders on July 27",
+    "img": "https://th-i.thgim.com/public/incoming/4pi28u/article71246518.ece/alternates/LANDSCAPE_1200/PTI07_17_2026_000167B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/supreme-court-proposes-sit-probe-into-ram-temple-case/article71246107.ece",
+    "time": "2026-07-20T20:47:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Day 1 of Parliament’s monsoon session washed out amid NEET, donation chori protests",
+    "desc": "The first day of Parliament's monsoon session was disrupted by opposition protests. Opposition parties raised concerns over various issues, including temple donations and exam leaks. Frequent adjournments led to the cancellation of proceedings in both houses. A bill to increase the number of Supreme Court judges was introduced in Lok Sabha. The changed seating arrangement for rebel TMC MPs also drew attention.",
+    "img": "https://static.toiimg.com/photo/msid-132523959,imgsize-1657802.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/day-1-of-parliaments-monsoon-session-washed-out-amid-neet-donation-chori-protests/articleshow/132523960.cms",
+    "time": "2026-07-20T20:41:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "7 killed in landslide in Jammu and Kashmir as rain toll hits 21",
+    "desc": "The J&K Police actively participated in the rescue operation at Domail Dhok after a tragic landslide hit a mud house, claiming seven lives; rescue efforts are continuing in coordination with all agencies concerned, said the police",
+    "img": "https://th-i.thgim.com/public/incoming/c1yl8l/article71243811.ece/alternates/LANDSCAPE_1200/AFP_C2KK7CU.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/heavy-downpour-slows-search-and-rescue-efforts-in-flood-hit-jk-death-toll-reaches-12/article71243803.ece",
+    "time": "2026-07-20T20:21:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Monsoon Session off to a stormy start amid Opposition protests",
+    "desc": "Opposition MPs raise NEET paper leak, Ram Temple donation theft issues; Lok Sabha adjourned after repeated disruptions; MPs of Congress, SP and Trinamool troop into the Well of the House; DMK raises Mekedatu issue, skips Congress-led meeting",
+    "img": "https://th-i.thgim.com/public/incoming/nodg2j/article71245883.ece/alternates/LANDSCAPE_1200/20260720531L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/lok-sabha-proceedings-disrupted-on-first-day-of-monsoon-session/article71245226.ece",
+    "time": "2026-07-20T20:15:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "J&amp;K flood toll climbs to 28 as fresh deaths hit Poonch, Doda; rescuers dig through debris as rain threat persists",
+    "desc": "Torrential rain caused flash floods and landslides, killing twenty-eight people across Jammu division. Poonch reported twenty-three deaths, including several children, after a house collapse. Rescuers dug four bodies from rubble left by raging streams and collapsing hillsides. Amarnath Yatra and pilgrimages to Vaishno Devi shrine remained suspended for a second day. The India Meteorological Department issued a red alert warning of extremely heavy rain.",
+    "img": "https://static.toiimg.com/photo/msid-132523902,imgsize-203119.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jk-flood-toll-climbs-to-28-as-fresh-deaths-hit-poonch-doda-rescuers-dig-through-debris-as-rain-threat-persists/articleshow/132523886.cms",
+    "time": "2026-07-20T20:03:30.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Police outnumbered, taken aback by number of protesters who reached Parliament’s doorstep",
     "desc": "In an unprecedented turn of events, despite multiple layers of barricades, deployment of around 3,000 security personnel and an Internet shutdown, large crowds comprising mostly students and young people were able to reach the doorsteps of Parliament before they were tear-gassed and charged with batons",
     "img": "https://th-i.thgim.com/public/incoming/gna7q0/article71246863.ece/alternates/LANDSCAPE_1200/79_Cockroach_Janta_Party_Protest_20_07_Delhi.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/police-outnumbered-taken-aback-by-number-of-protesters-who-reached-parliaments-doorstep/article71246561.ece",
     "time": "2026-07-20T19:30:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why Marc Cucurella buried coin in pitch before Spain's World Cup final as 'secret' 2010 ritual comes to light",
+    "desc": "Marc Cucurella’s unusual act of burying a coin in the pitch before Spain’s World Cup final has been explained as a lucky ritual dating back to the nation’s 2010 triumph. Former defender Joan Capdevila revealed he asked Cucurella to continue the superstition, with Spain again lifting the trophy after a 1-0 extra-time victory over Argentina.",
+    "img": "https://static.toiimg.com/photo/msid-132523498,imgsize-1279165.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/why-marc-cucurella-buried-coin-in-pitch-before-spains-world-cup-final-as-secret-2010-ritual-comes-to-light/articleshow/132523401.cms",
+    "time": "2026-07-20T19:22:31.000Z"
   },
   {
     "cat": "Sports",
@@ -43,15 +160,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/john-abraham-buys-rs-84-crore-bandra-west-bungalow-on-a-1017-60-sq-metre-plot-after-rs-70-83-crore-khar-property-report/articleshow/132521811.cms",
     "time": "2026-07-20T18:01:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "7 killed in landslide, 3 in shooting-stone incidents in Jammu and Kashmir as rain toll mounts to 18",
-    "desc": "The J&K Police actively participated in the rescue operation at Domail Dhok after a tragic landslide hit a mud house, claiming seven lives; rescue efforts are continuing in coordination with all agencies concerned, said the police",
-    "img": "https://th-i.thgim.com/public/incoming/c1yl8l/article71243811.ece/alternates/LANDSCAPE_1200/AFP_C2KK7CU.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/heavy-downpour-slows-search-and-rescue-efforts-in-flood-hit-jk-death-toll-reaches-12/article71243803.ece",
-    "time": "2026-07-20T17:53:07.000Z"
   },
   {
     "cat": "Politics",
@@ -315,15 +423,6 @@ const newsData_en = [
     "time": "2026-07-20T13:49:10.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Hopefully govt will fix accountability': Sonam Wangchuk to continue his hunger strike",
-    "desc": "Climate activist Sonam Wangchuk continues his hunger strike after witnessing police actions against protestors. He demands that youth leaders meet parliamentarians or he be allowed to meet them. Wangchuk appeals to the government and police to let students present their grievances. Thousands marched to Parliament demanding the Education Minister's resignation over examination irregularities. Police used tear gas and force, detaining several protestors during the march.",
-    "img": "https://static.toiimg.com/photo/msid-132517025,imgsize-937099.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/hopefully-govt-will-fix-accountability-sonam-wangchuk-to-continue-his-hunger-strike/articleshow/132516960.cms",
-    "time": "2026-07-20T13:32:13.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Ashwin points to selection bias, explains why Rohit and Virat are 'impossible to drop'",
     "desc": "Ravichandran Ashwin stated dropping Rohit Sharma and Virat Kohli is nearly impossible. Their extraordinary achievements and immense fan following make them undroppable players. Ashwin highlighted the disparity in how batters and bowlers are perceived in Indian cricket. Bowlers receive less public backing and face limited criticism when dropped. This contrasts sharply with the potential uproar from dropping batting icons.",
@@ -340,15 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/thank-you-india-argentina-envoy-thanks-indian-fans-after-world-cup-heartbreak/articleshow/132516732.cms",
     "time": "2026-07-20T13:20:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Trainee IPS officer, accused of sexual harassment by colleague, hospitalised after suspected suicide attempt",
-    "desc": "A trainee IPS officer was hospitalized after a suspected suicide attempt following serious allegations. He faces charges of stalking and sexually harassing a fellow trainee at the police academy. The woman trainee accused him of sending abusive messages and physical assault. The officer denied the allegations on social media, calling them baseless. Investigators will issue a notice for him to appear in connection with the case.",
-    "img": "https://static.toiimg.com/photo/msid-132516659,imgsize-76374.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/trainee-ips-officer-accused-of-sexual-harassment-by-colleague-hospitalised-after-suspected-suicide-attempt/articleshow/132516358.cms",
-    "time": "2026-07-20T13:15:07.000Z"
   },
   {
     "cat": "Sports",
@@ -414,15 +504,6 @@ const newsData_en = [
     "time": "2026-07-20T11:59:59.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Trust deploys new cash-counting team, introduces two-shift system under SBI supervision",
-    "desc": "The Ram Temple trust has implemented a new cash counting system with two shifts. This new process is now under the supervision of the State Bank of India. A new in-charge has been appointed after the previous one was jailed. This follows an investigation into alleged theft of donation money. Authorities arrested eight individuals and recovered significant cash and valuables.",
-    "img": "https://static.toiimg.com/photo/msid-132514998,imgsize-352146.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ram-temple-donation-row-trust-deploys-new-cash-counting-team-introduces-two-shift-system-under-sbi-supervision/articleshow/132514436.cms",
-    "time": "2026-07-20T11:53:57.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'His retirement will be decided': Kaif makes bold statement on Rohit's future",
     "desc": "Mohammad Kaif backs Rohit Sharma amid speculation about his international cricket future. Kaif insists retirement is a personal choice, not dictated by public opinion. Rohit recently scored a historic century at Lord's, silencing critics effectively. He believes team management support would greatly benefit the veteran opener. Kaif hopes for an end to unnecessary noise, allowing Rohit to play peacefully.",
@@ -430,15 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/his-retirement-will-be-decided-mohammad-kaif-makes-bold-statement-on-rohit-sharmas-future-after-lords-heroics/articleshow/132514663.cms",
     "time": "2026-07-20T11:51:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi HC seeks comprehensive medical record on Sonam Wangchuk's condition",
-    "desc": "The Delhi High Court requested comprehensive medical records for Sonam Wangchuk. Authorities must submit all health documents and reports from various hospitals. Doctors treating Wangchuk were directed to appear before the court. This action follows an appeal against a single judge's decision on his hospital transfer. The court is reviewing the government's decision regarding his deteriorating health condition.",
-    "img": "https://static.toiimg.com/photo/msid-132514860,imgsize-811936.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-hc-seeks-comprehensive-medical-record-on-sonam-wangchuks-condition/articleshow/132514843.cms",
-    "time": "2026-07-20T11:47:10.000Z"
   },
   {
     "cat": "Entertainment",
@@ -583,15 +655,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/death-of-actor-rani-chandra-and-the-making-of-tamil-filmbhadrakaliwith-substitute-actor-in-1976/article71079732.ece",
     "time": "2026-07-20T09:55:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'It was written': Pedri's cryptic 13-month-old post goes viral after Spain's WC win",
-    "desc": "Spain midfielder Pedri celebrated their FIFA World Cup 2026 victory with a mysterious social media post. He had shared a cryptic number sequence over a year prior to the triumph. This sequence was interpreted by fans as the date of the final match. Spain defeated Argentina 1-0 after extra time to secure their second title. Pedri played a vital role throughout the team's successful campaign.",
-    "img": "https://static.toiimg.com/photo/msid-132511770,imgsize-187778.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/it-was-written-pedris-cryptic-13-month-old-post-goes-viral-after-spains-fifa-world-cup-triumph/articleshow/132511771.cms",
-    "time": "2026-07-20T09:46:02.000Z"
   },
   {
     "cat": "Business",
@@ -801,15 +864,6 @@ const newsData_en = [
     "time": "2026-07-18T21:53:13.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "India's bowling coach Morne Morkel",
-    "desc": "“To be honest, the way we bowled in the last game was exceptional,” Morkel opined. “Just looking at the numbers, the high speeds that the boys generated and the areas that we bowled in were great to see",
-    "img": "https://th-i.thgim.com/public/incoming/fjvasi/article71239352.ece/alternates/LANDSCAPE_1200/26_Practice_Dharamshala_12_06_Himachal.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/no-concerns-with-the-way-rohit-sharma-is-batting-indias-bowling-coach-morne-morkel/article71238577.ece",
-    "time": "2026-07-18T21:16:34.000Z"
-  },
-  {
     "cat": "World",
     "title": "Ahmad Vahidi",
     "desc": "The former IRGC spymaster and Defence Minister, who laid the foundations of Iran’s ‘Axis of Resistance’ and expanded the country’s conventional military capabilities, is facing his greatest test as the Islamic Republic comes under relentless U.S. bombardment",
@@ -844,59 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/Hyderabad/how-telangana-police-and-telugu-film-industry-are-fighting-against-piracy/article71224809.ece",
     "time": "2026-07-18T10:35:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Supreme Court allows release of animated film Mahaprabhu Jagannath after Rath Yatra, says animation cannot erode devotion",
-    "desc": "The Bench took the middle path by allowing the movie to be released, but only after the completion of the ongoing Lord Jagannath Rath Yatra on July 27, 2026. The court directed that the film could be released on or after July 28.",
-    "img": "https://th-i.thgim.com/public/incoming/a1m5vw/article71231241.ece/alternates/LANDSCAPE_1200/16tvm%20jagannath1.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/odisha/supreme-court-allows-release-of-animated-film-mahaprabhu-jagannath-after-rath-yatra-says-animation-cannot-erode-devotion/article71232923.ece",
-    "time": "2026-07-18T08:59:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "From The Red Bari to Skinny Mo’s: Inside Kolkata’s heritage revival",
-    "desc": "What happens when a 109-year-old bungalow becomes a jazz bar, an Edwardian office hosts flamenco, and forgotten mansions find new audiences? A new generation of entrepreneurs is restoring Kolkata’s historic buildings and transforming them into thriving cafés and cultural hubs, proving that adaptive reuse can be an alternative to demolition.",
-    "img": "https://th-i.thgim.com/public/incoming/duxc10/article71051641.ece/alternates/LANDSCAPE_1200/_DGP6931.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/life-and-style/from-the-red-bari-to-skinny-mos-inside-kolkatas-heritage-revival/article70992457.ece",
-    "time": "2026-07-18T07:13:16.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Rescuers race to find survivors in rain after landslip in China kills at least eight",
-    "desc": "The landslide contained about 18,000 cubic meters of rocks and debris, and the largest single rock was around 3,000 cubic meters, Wang Chuanjun, head of Planning and Natural Resources in Pengshui County, told a news conference on July 17",
-    "img": "https://th-i.thgim.com/public/incoming/awbnsg/article71237314.ece/alternates/LANDSCAPE_1200/China_Landslide_72336.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/rescuers-race-to-find-survivors-in-rain-after-landslip-in-china-kills-many/article71237256.ece",
-    "time": "2026-07-18T07:08:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Acting is more about restraint than exposition",
-    "desc": "Actors Kay Kay Menon, Naveen Kasturia and director Himank Gaur talk about their show ‘Adarsh Baal Vidyalaya’, how their school life shaped their journey in films, the experience of working with comedy, why Kay Kay Menon feels he has failed more than he has suceeded in his performances, and more",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/xjecyx/article71233372.ece/alternates/LANDSCAPE_1200/Kay%20Kay%20Menon%20in%20%E2%80%98Adarsh%20Baal%20Vidyalaya%E2%80%99",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/kay-kay-menon-acting-is-more-about-restraint-than-exposition-adarsh-baal-vidyalaya-prime-video/article71233353.ece",
-    "time": "2026-07-18T05:53:57.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "China pitches AI governance model for Global South",
-    "desc": "Broader context is China’s push to both develop its alternatives to Western AI models and to offer them to developing countries; President Xi Jinping announced that Beijing would provide “5,000 opportunities in AI training and seminar programmes” in the next five years",
-    "img": "https://th-i.thgim.com/public/incoming/w6cza8/article71232852.ece/alternates/LANDSCAPE_1200/2026-07-17T042447Z_732115653_RC2EFMA4DLWW_RTRMADP_3_CHINA-AI-XI.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/ai-should-not-be-a-solo-performance-but-symphony-of-global-collaboration-xi-jinping/article71232848.ece",
-    "time": "2026-07-18T04:40:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "How women audiences are championing Marathi films in theatres",
-    "desc": "With a host of female-centric films being made, Marathi cinema is speaking closely to women audiences, who are in turn showing up in large numbers to watch them, celebrate them and turn them into box office successes",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/wttz3z/article71229657.ece/alternates/LANDSCAPE_1200/Actor%20Girija%20Oak%20Godbole%20posing%20for%20a%20photo%20with%20others%20during%20a%20movie%20screening",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/how-women-audiences-are-championing-marathi-films-in-theatres-baipan-bhari-deva-tighee-deool-band-2/article71229588.ece",
-    "time": "2026-07-18T04:34:53.000Z"
   }
 ];
