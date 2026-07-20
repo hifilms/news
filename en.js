@@ -1,5 +1,347 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Kiran Abbavaram reacts to 'Obsession' comparison backlash",
+    "desc": "Actor Kiran Abbavaram has addressed the backlash he received over comments made about a film comparison. In a recent podcast, he clarified that his remarks were misinterpreted and only referenced a single plot similarity. He expressed profound respect for the success of the movie 'Obsession,' stressing that his intentions were humorous rather than disrespectful towards other films.",
+    "img": "https://static.toiimg.com/photo/msid-132504415,imgsize-209933.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/kiran-abbavaram-reacts-to-obsession-comparison-backlash-says-he-never-claimed-k-ramp-was-better/articleshow/132504400.cms",
+    "time": "2026-07-20T02:24:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Cheran elected South Indian Film Writers' Association president",
+    "desc": "Director Cheran has been elected president of the South Indian Film Writers' Association. He defeated V.C. Guhanathan by a significant margin in the recent election. Cheran's panel also secured other key positions within the association. The election saw strong participation from many association members. This victory marks a new chapter for the writers' organization.",
+    "img": "https://static.toiimg.com/photo/msid-132504378,imgsize-84016.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/cheran-elected-south-indian-film-writers-association-president-defeats-v-c-guhanathan-by-a-comfortable-margin/articleshow/132504342.cms",
+    "time": "2026-07-20T02:19:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Josh Kerr of Britain breaks the men’s mile world record that stood since 1999",
+    "desc": "At a Diamond League meet in London, Kerr broke Moroccan great Hicham El Guerrouj's mark of 3 minutes, 43.13 seconds, set in Rome in 1999. The 28-year-old native of Edinburgh celebrated with a lap of honour at London Stadium",
+    "img": "https://th-i.thgim.com/public/incoming/4cmrye/article71242609.ece/alternates/LANDSCAPE_1200/2026-07-18T151105Z_260537654_UP1EM7I14ZIS2_RTRMADP_3_ATHLETICS-DIAMOND-LONDON.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/josh-kerr-of-britain-breaks-the-mens-mile-world-record-that-stood-since-1999/article71242539.ece",
+    "time": "2026-07-20T02:14:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lionel Messi, Lamine Yamal share emotional hug after Spain's World Cup triumph",
+    "desc": "Spain secured their second FIFA World Cup title after defeating Argentina. Substitute Ferran Torres scored the decisive goal in extra time. Youngster Lamine Yamal shared a memorable moment with Lionel Messi on the pitch. The Spanish team completed a dominant performance throughout the entire match. This victory marked Spain's second time lifting the prestigious World Cup trophy.",
+    "img": "https://static.toiimg.com/photo/msid-132504300,imgsize-64861.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/lionel-messi-lamine-yamal-share-emotional-hug-after-spains-fifa-world-cup-triumph-watch/articleshow/132504283.cms",
+    "time": "2026-07-20T02:12:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Messi branded a ‘baby’ after desperate failed attempt to get Cucurella sent off in World Cup final defeat",
+    "desc": "Messi’s World Cup final frustration sparked controversy after he appealed for action against Marc Cucurella’s mouth-covering exchange during Argentina’s defeat to Spain. While no punishment followed, pundits criticised the reaction as unsportsmanlike. Spain ultimately prevailed through Ferran Torres’ extra-time winner, ending Argentina’s title defence and leaving Messi’s final World Cup appearance marked by disappointment.",
+    "img": "https://static.toiimg.com/photo/msid-132504238,imgsize-712593.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/messi-branded-a-baby-after-desperate-failed-attempt-to-get-cucurella-sent-off-in-world-cup-final-defeat/articleshow/132503965.cms",
+    "time": "2026-07-20T02:06:45.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Oil prices jump 3% as US-Iran conflict intensifies, Brent crude tops $90 per barrel",
+    "desc": "Oil prices climbed significantly as United States and Iran conflict intensified. Shipping through the Strait of Hormuz faced increasing pressure and disruptions. US military actions continued for a ninth consecutive night against Iran. Bahrain and Kuwait reported fresh missile and drone strikes across the region. Escalating tensions kept oil prices on an upward trajectory.",
+    "img": "https://static.toiimg.com/photo/msid-132504183,imgsize-1913037.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-jump-3-as-us-iran-conflict-intensifies-brent-crude-tops-90-per-barrel-on-july-20-2026/articleshow/132504130.cms",
+    "time": "2026-07-20T01:57:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Matches in Indian Time",
+    "desc": "The knockout stages of the 2026 FIFA World Cup begin on June 29, after an exciting group stage that featured 48 nations for the first time FIFA 2026 World Cup is being keenly watched by fans in India even if the matches are happening an ocean away.",
+    "img": "https://th-i.thgim.com/public/incoming/hw29zz/article71145748.ece/alternates/LANDSCAPE_1200/image%206.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/fifa-2026-world-cup-match-timings-ist-full-knockout-schedule-india-time/article71145665.ece",
+    "time": "2026-07-20T01:42:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Awkward! Trump remains on podium during trophy celebrations; Infantino steps in",
+    "desc": "Spain secured their second World Cup title by defeating Argentina 1-0 in extra time. US President Donald Trump stood with the Spanish players during the trophy presentation ceremony. Boos were heard around the stadium as Trump and Infantino walked onto the field. Ferran Torres scored the decisive goal in the 106th minute of the match. Trump had previously intervened in a red card controversy during the tournament.",
+    "img": "https://static.toiimg.com/photo/msid-132504030,imgsize-104461.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/awkward-scenes-donald-trump-remains-on-podium-during-spains-fifa-world-cup-trophy-celebrations-gianni-infantino-steps-in-watch/articleshow/132504005.cms",
+    "time": "2026-07-20T01:39:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Timothée Chalamet and Kylie Jenner spotted sharing a sweet kiss at the FIFA World Cup",
+    "desc": "At the FIFA World Cup final, Timothée Chalamet and Kylie Jenner were spotted sharing a passionate kiss, delighting fans. The star-studded event saw famous faces enjoying the thrilling match between Argentina and Spain. Arriving together, the couple radiated joy and affection, while Chalamet had the honor of presenting the official game ball on the pitch. Halftime was electrified by performances from superstars including Shakira, Madonna, Justin Bieber, and BTS.",
+    "img": "https://static.toiimg.com/photo/msid-132504002,imgsize-146674.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/2026-fifa-world-cup-final-timothe-chalamet-and-kylie-jenner-spotted-sharing-a-sweet-kiss-during-sundays-kickoff-game/articleshow/132503989.cms",
+    "time": "2026-07-20T01:30:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India's bowling lacks bite without Bumrah; middle-over planning all over the place",
+    "desc": "England dominated the third ODI against India at Lord's, amassing a record 387/3, led by a huge opening partnership between Jacob Bethell and Ben Duckett. India's bowlers, missing Jasprit Bumrah, struggled with discipline and conceded many extras. Poor middle-over planning further exposed India's bowling vulnerabilities, raising concerns for their 2027 ODI World Cup preparations.",
+    "img": "https://static.toiimg.com/photo/msid-132501058,imgsize-218070.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/indias-bowling-lacks-bite-without-jasprit-bumrah-middle-over-planning-all-over-the-place/articleshow/132501058.cms",
+    "time": "2026-07-20T01:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'ARM' team celebrates Vaikom Vijayalakshmi's big win",
+    "desc": "Malayalam film 'ARM' secured Best Female Playback Singer at the 72nd National Film Awards. Vaikom Vijayalakshmi received the award for her song 'Angu Vaana Konilu'. South Indian cinema achieved success across several categories during the awards ceremony. Mammootty shared the Best Actor award for his role in 'Bramayugam'. The awards recognized films certified by the CBFC during the 2024 calendar year.",
+    "img": "https://static.toiimg.com/photo/msid-132503999,imgsize-444009.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/72nd-national-film-awards-arm-team-celebrates-vaikom-vijayalakshmis-big-win-director-jithin-laal-pens-heartfelt-note/articleshow/132503990.cms",
+    "time": "2026-07-20T01:29:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ferran Torres only the second player to achieve this rare WC final feat",
+    "desc": "Spain secured their second FIFA World Cup title after defeating Argentina in the 2026 final. Ferran Torres scored the decisive goal in extra time, etching his name in history. He became the second substitute to score a World Cup final winner, matching a feat from 2014. Spain controlled possession and created numerous chances throughout the match. The victory ended Argentina's reign as defending world champions.",
+    "img": "https://static.toiimg.com/photo/msid-132503903,imgsize-71619.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/ferran-torres-only-the-second-player-to-achieve-this-rare-world-cup-final-feat/articleshow/132503896.cms",
+    "time": "2026-07-20T01:08:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I can't believe it': Ferran Torres reacts after firing Spain to World Cup glory",
+    "desc": "Ferran Torres scored the winning goal in extra time for Spain's World Cup victory. He admitted disbelief after his decisive strike secured the historic championship. Torres dedicated his crucial goal to the entire Spanish population of forty-seven million. Spain's disciplined performance concluded an unbeaten tournament campaign for the team. This triumph marked Spain's second FIFA World Cup title after their 2010 win.",
+    "img": "https://static.toiimg.com/photo/msid-132503880,imgsize-193526.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/honestly-i-cant-believe-it-ferran-torres-reacts-after-firing-spain-to-fifa-world-cup-glory-against-messis-argentina/articleshow/132503871.cms",
+    "time": "2026-07-20T01:03:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'A disgrace': Argentina star sent off after grabbing Spain player's throat after loss",
+    "desc": "Spain's 2026 FIFA World Cup celebrations were marred by chaotic post-match scenes after Argentina midfielder Leandro Paredes was sent off following a mass confrontation after the final whistle. The defending champions' frustrations boiled over after their 1-0 extra-time defeat, with Paredes dismissed for his role in the altercation as pundits Gary Neville and Alan Shearer condemned Argentina's conduct.",
+    "img": "https://static.toiimg.com/photo/msid-132503829,imgsize-306486.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/hes-a-disgrace-argentina-star-sent-off-after-grabbing-spain-players-throat-in-ugly-world-cup-final-scenes/articleshow/132503780.cms",
+    "time": "2026-07-20T01:00:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Did Vijay visit Jantar Mantar?",
+    "desc": "The viral footage quickly caught the attention of social media users. Many believed that Vijay had travelled to the protest site in the national capital, leading to speculation about a possible political move. The clip was widely shared, with many users treating it as a recent development.",
+    "img": "https://static.toiimg.com/photo/msid-132503855,imgsize-286497.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/fact-check-did-vijay-visit-jantar-mantar-delhi-police-debunks-viral-video-of-jana-nayagan-actor-as-false/articleshow/132503844.cms",
+    "time": "2026-07-20T00:56:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Prince Harry personally initiated his podcast appearance",
+    "desc": "Prince Harry personally initiated his appearance on a comedy podcast during his recent UK visit. The Duke of Sussex shared his formal name and a humorous nickname with hosts. He also discussed public perceptions about his hair color with the comedians. Later, Prince Harry joined JJ Chalmers for a serious conversation about trauma and grief. This unconventional podcast appearance underscored his commitment to the Invictus Games.",
+    "img": "https://static.toiimg.com/photo/msid-132503845,imgsize-96294.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/its-bonkers-prince-harry-surprises-hosts-after-personally-pitching-his-own-podcast-appearance/articleshow/132503823.cms",
+    "time": "2026-07-20T00:56:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Odyssey' scores Rs 70 crore debut in India",
+    "desc": "Christopher Nolan's 'The Odyssey' has achieved a record-breaking opening weekend in India. The epic fantasy adventure starring Matt Damon crossed seventy crore rupees net. This film has become Nolan's biggest opener in India and globally. 'The Odyssey' earned over two hundred sixty million dollars worldwide in its debut. The original English version has driven most of the film's business.",
+    "img": "https://static.toiimg.com/photo/msid-132503810,imgsize-141266.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/the-odyssey-box-office-collection-day-3-christopher-nolans-epic-starring-matt-damon-crosses-rs-70-crore-records-directors-biggest-opening-weekend-in-india/articleshow/132503755.cms",
+    "time": "2026-07-20T00:45:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Khloé Kardashian shares heartfelt post about her grandmother, MJ",
+    "desc": "In a heartfelt tribute, Khloe Kardashian celebrated the life of her grandmother, Mary Jo Shannon, reminiscing about treasured moments they shared. With deep gratitude, she acknowledged the impact of her great-grandmother's love. Kris Jenner joined in sharing her sorrow over the loss while emphasizing their family's commitment to honoring MJ's memory by continuing her traditions and passing down cherished stories.",
+    "img": "https://static.toiimg.com/photo/msid-132503806,imgsize-157022.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/khlo-kardashian-shares-heartfelt-tribute-for-grandma-mary-jo-shannon-you-lived-so-fully-so-gracefully-and-so-beautifully/articleshow/132503796.cms",
+    "time": "2026-07-20T00:44:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "14 killed, many missing as flash floods, landslides ravage J&amp;K’s Poonch, Rajouri",
+    "desc": "Torrential rain caused flash floods and landslides in Poonch and Rajouri districts. At least fourteen people died, and several others remain missing after homes were buried. Rescue operations are underway for those trapped beneath debris and mud. Traffic on the Jammu-Srinagar NH-44 was disrupted, and the Amarnath Yatra was suspended. Authorities issued a flood alert across Jammu division as river water levels surged.",
+    "img": "https://static.toiimg.com/photo/msid-132503802,imgsize-262012.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/14-killed-many-missing-as-flash-floods-landslides-ravage-jks-poonch-rajouri/articleshow/132503705.cms",
+    "time": "2026-07-20T00:41:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taylor Swift's wedding NDA 'had teeth', guest reveals",
+    "desc": "In a bid to ensure absolute privacy, Taylor Swift and Travis Kelce arranged for extensive security measures for their wedding. Invitations were sent out through text messages, accompanied by digital confirmations. All guests were required to sign NDAs and confirm their identity through multi-factor authentication. The details of the event were unveiled gradually, ensuring not a word leaked about their special day, held privately at Madison Square Garden.",
+    "img": "https://static.toiimg.com/photo/msid-132503791,imgsize-162198.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/taylor-swift-and-travis-kelces-wedding-invite-i-wont-get-into-the-details-of-the-nda-but-it-had-teeth-reveals-guest/articleshow/132503784.cms",
+    "time": "2026-07-20T00:38:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How Spain utterly owned Argentina in World Cup final and rendered Messi irrelevant",
+    "desc": "Spain's triumph was built not on moments of brilliance alone but on collective superiority. Luis de la Fuente's side controlled possession, dictated territory and suffocated every avenue Argentina attempted to explore. World Cup finals are often remembered for drama, controversy or moments of individual inspiration. This one will be remembered for something far rarer - complete domination. Spain didn't just beat the defending champions. They made them disappear.",
+    "img": "https://static.toiimg.com/photo/msid-132503671,imgsize-2297642.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/20-shots-to-none-how-spain-utterly-owned-argentina-in-fifa-world-cup-2026-final-and-rendered-lionel-messi-irrelevant/articleshow/132503664.cms",
+    "time": "2026-07-20T00:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Idhayam Murali' earns Rs 1.46 Cr",
+    "desc": "Atharvaa's romantic drama 'Idhayam Murali' completed its second weekend with stable box office collections. The film earned Rs 1.46 crore net on its tenth day, reaching Rs 17.85 crore total. Worldwide gross collections for 'Idhayam Murali' have now climbed to Rs 25.04 crore. Occupancy remained healthy on the second Sunday, with afternoon shows seeing the highest turnout. The movie continues to attract audiences with its coming-of-age romantic narrative.",
+    "img": "https://static.toiimg.com/photo/msid-132503770,imgsize-269711.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/idhayam-murali-box-office-collections-day-10-atharvaas-romantic-drama-earns-rs-1-46-cr-india-net-reaches-rs-17-85-cr/articleshow/132503766.cms",
+    "time": "2026-07-20T00:28:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Welcome To The Jungle' BO day 24: Akshay's comedy soars high on Sunday",
+    "desc": "Welcome To The Jungle collected sixty-six lakhs net on its twenty-fourth day. The film's India net collection has now reached one hundred thirty-three crore. Overseas territories contributed thirty-three point five zero crore to its earnings. Worldwide gross collections for the comedy have reached one hundred ninety-one point six five crore. The movie is now approaching the two hundred crore global milestone.",
+    "img": "https://static.toiimg.com/photo/msid-132503733,imgsize-291371.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/welcome-to-the-jungle-box-office-collection-day-24-akshay-kumars-comedy-soars-high-on-sunday-india-net-reaches-rs-133-11-cr/articleshow/132503735.cms",
+    "time": "2026-07-20T00:21:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Lenin' BO day 10: Akhil Akkineni's film jumps 34.2%",
+    "desc": "Akhil Akkineni's film 'Lenin' performed steadily through its second weekend. The action drama registered a significant rise in collections on Sunday. India net collections for 'Lenin' have now approached Rs 44 crore. Worldwide gross collections for the film reached Rs 60.60 crore. The movie's overall Telugu occupancy was 35.60% on its tenth day.",
+    "img": "https://static.toiimg.com/photo/msid-132503708,imgsize-190107.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/lenin-box-office-collections-day-10-akhil-akkinenis-film-jumps-34-2-earns-rs-3-22-cr-on-sunday/articleshow/132503702.cms",
+    "time": "2026-07-20T00:16:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mbappé scripts World Cup history as first player to win back-to-back Golden Boots",
+    "desc": "Kylian Mbappé made FIFA World Cup history by becoming the first player to win consecutive Golden Boots, finishing the 2026 tournament with 10 goals and four assists. The France captain beat Lionel Messi in a dramatic race after his third-place playoff brace, while also becoming the men's all-time World Cup leading goalscorer with 22 career goals.",
+    "img": "https://static.toiimg.com/photo/msid-132503676,imgsize-126702.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/kylian-mbapp-scripts-world-cup-history-as-first-player-to-win-back-to-back-golden-boots/articleshow/132503640.cms",
+    "time": "2026-07-20T00:10:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salman Khan shows off lean look in new photoshoot",
+    "desc": "Salman Khan posted a cryptic message and stylish photos on social media. His lean appearance in recent pictures has raised concerns among his devoted fans. Videos from a public event showed him looking tired, prompting well wishes. He previously shared a picture enjoying monsoon at his farm house. His upcoming film 'Maatrubhumi' release date remains unannounced.",
+    "img": "https://static.toiimg.com/photo/msid-132503646,imgsize-110468.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-shows-off-lean-new-look-in-new-pics-asks-fans-aap-logon-ki-tabiyat-kaisi-hai/articleshow/132503504.cms",
+    "time": "2026-07-19T23:58:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Your tears are our tears, Captain': Heartbroken Messi breaks down after defeat",
+    "desc": "Spain secured their second World Cup title after defeating Argentina in the 2026 final. Lionel Messi's quest for consecutive titles ended in disappointment following a 0-1 extra-time loss. The Argentine Football Association shared an emotional tribute to their captain after the match. Ferran Torres scored the decisive goal in the 106th minute of the contest. This defeat concluded a significant era for Argentinian football history.",
+    "img": "https://static.toiimg.com/photo/msid-132503572,imgsize-146940.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/your-tears-are-our-tears-captain-heartbroken-lionel-messi-breaks-down-after-world-cup-final-defeat-watch/articleshow/132503571.cms",
+    "time": "2026-07-19T23:51:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bill seeks 3-year jail for disturbing rendition of ‘Vande Mataram’",
+    "desc": "A new bill plans to jail individuals disrupting Vande Mataram singing. This proposed legislation aims to amend existing laws regarding national honor. Disrupting the national song could lead to three years imprisonment. The government cites historical significance for this proposed amendment. This bill will be introduced during the upcoming Parliament session.",
+    "img": "https://static.toiimg.com/photo/msid-132503585,imgsize-682358.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bill-seeks-3-year-jail-for-disturbing-rendition-of-vande-mataram/articleshow/132503555.cms",
+    "time": "2026-07-19T23:48:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Endgame' to re-release with 7-min footage linked to 'Doomsday'",
+    "desc": "Endgame with new scenes and a director's introduction. This special edition will connect directly to the upcoming Avengers: Doomsday film. Avengers: Doomsday is scheduled for release in December 2026 and will be lengthy. Its synopsis hints at colliding universes and the Multiverse Saga's final chapter. Advance ticket sales have begun for the highly anticipated Doomsday movie.",
+    "img": "https://static.toiimg.com/photo/msid-132503502,imgsize-407530.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/avengers-endgame-encore-tickets-to-go-on-sale-ahead-of-re-release-7-minute-footage-added-to-tie-film-to-avengers-doomsday-reports/articleshow/132503500.cms",
+    "time": "2026-07-19T23:40:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Spain's Rodri beats Lionel Messi and Kylian Mbappé as FIFA names World Cup's best player",
+    "desc": "Rodri was named the 2026 FIFA World Cup Golden Ball winner after inspiring Spain to a 1-0 extra-time victory over Argentina in the final. The Manchester City midfielder dominated the midfield battle, helping neutralise Lionel Messi and control the game's tempo. His consistent performances throughout the tournament earned FIFA's top individual honour ahead of Messi, Kylian Mbappé and Jude Bellingham.",
+    "img": "https://static.toiimg.com/photo/msid-132503549,imgsize-70118.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/spains-rodri-beats-lionel-messi-and-kylian-mbapp-as-fifa-names-world-cups-best-player/articleshow/132499891.cms",
+    "time": "2026-07-19T23:39:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "38 &amp; counting! Spain are World Champions and the greatest unbeaten team in history",
+    "desc": "Spain celebrated a glorious achievement as they secured their second World Cup title with a narrow 1-0 victory over Argentina, courtesy of Ferran Torres' significant second-half goal. This win highlighted Spain's astonishing unbeaten run of 38 matches, surpassing Italy's long-standing record. Lionel Messi concluded his illustrious international career, showcasing stellar stats throughout the tournament that will be remembered in football history.",
+    "img": "https://static.toiimg.com/photo/msid-132503467,imgsize-285214.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-wc-2026-38-and-counting-spain-are-world-champions-and-the-greatest-unbeaten-team-in-football-history/articleshow/132503467.cms",
+    "time": "2026-07-19T23:31:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Full winners list as Rodri, Mbappe claim top honours",
+    "desc": "Spain secured the 2026 FIFA World Cup title after defeating Argentina in the final. Rodri earned the Golden Ball for his midfield dominance throughout the tournament. Goalkeeper Unai Simon received the Golden Glove for his exceptional defensive performance. Teenage defender Pau Cubarsi was named FIFA Young Player of the Year. France captain Kylian Mbappe claimed the Golden Boot with ten goals.",
+    "img": "https://static.toiimg.com/photo/msid-132503511,imgsize-171574.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-2026-awards-full-winners-list-as-rodri-mbappe-claim-top-honours/articleshow/132503512.cms",
+    "time": "2026-07-19T23:23:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Spain set all-time defensive record with just one goal conceded en route to 2026 crown",
+    "desc": "Spain clinched their second World Cup title with an unprecedented defensive display, allowing only one goal throughout the tournament. This remarkable solidity provided the foundation for their attackers to flourish. Unai Simon, the standout goalkeeper, secured the Golden Glove for his remarkable saves. Spain's tactical discipline not only showcased their strength but also established a new standard for international football defenses.",
+    "img": "https://static.toiimg.com/photo/msid-132503450,imgsize-131846.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-wc-spain-set-all-time-world-cup-defensive-record-with-just-one-goal-conceded-en-route-to-2026-crown/articleshow/132503429.cms",
+    "time": "2026-07-19T23:00:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Who is Ferran Torres? Spain's World Cup final hero who broke Argentina's heart",
+    "desc": "Spain achieved their second World Cup title after Ferran Torres scored a late goal. The substitute's decisive strike came in extra time against defending champions Argentina. Torres's goal broke Argentina's stubborn defense after a dominant Spanish performance. This victory denied Lionel Messi a chance to retain the World Cup crown. Spain also became the first nation to hold both men's and women's World Cup titles.",
+    "img": "https://static.toiimg.com/photo/msid-132503389,imgsize-697806.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/who-is-ferran-torres-spains-world-cup-final-hero-who-broke-messis-argentinas-heart-with-extra-time-winner/articleshow/132503387.cms",
+    "time": "2026-07-19T22:31:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Fabrications aimed at making bad performance': NTA warns of criminal action on AI, fake OMRs",
+    "desc": "The National Testing Agency has warned of strict action against fake OMR sheets. Several OMR sheets submitted for NEET-UG result grievances were found to be fake or AI-generated. Candidates submitting digitally altered documents face cancellation of results and debarment. The agency is scrutinizing all complaints and will take corrective measures if discrepancies are found. Fabricated documents are being used to challenge results after the recent retest.",
+    "img": "https://static.toiimg.com/photo/msid-132503451,imgsize-257980.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/fabrications-aimed-at-making-bad-performance-nta-warns-of-criminal-action-on-ai-fake-omrs/articleshow/132503369.cms",
+    "time": "2026-07-19T22:20:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hollywood stars attend Argentina vs Spain match",
+    "desc": "Hollywood stars gathered for the FIFA World Cup Final between Argentina and Spain. Tom Cruise delivered an inspiring opening speech before the championship match commenced. Timothee Chalamet had the ceremonial role of bringing out the match ball. Many other famous actors, musicians, and athletes were also present. Spain ultimately lifted the trophy after the epic showdown.",
+    "img": "https://static.toiimg.com/photo/msid-132503365,imgsize-198174.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/fifa-world-cup-final-matt-damon-tom-cruise-jay-z-beyonce-and-timothee-chalamet-and-other-hollywood-stars-attend-argentina-vs-spain-match/articleshow/132501488.cms",
+    "time": "2026-07-19T22:20:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress demands independent probe into donation chori",
+    "desc": "Opposition leaders have demanded an independent probe into Ram temple donations. They also warned the government's credibility depends on swift action regarding this issue. Activists and a political party plan a march to Parliament over paper leaks. Many opposition parties support this protest and may join the Parliament gherao. These twin issues are likely to dominate the upcoming monsoon session's first week.",
+    "img": "https://static.toiimg.com/photo/msid-132503362,imgsize-1076671.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/congress-demands-independent-probe-into-donation-chori/articleshow/132502204.cms",
+    "time": "2026-07-19T22:20:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Spain dethrone Argentina to win World Cup! Torres delivers extra-time heartbreak to Messi's side",
+    "desc": "Spain secured a dramatic FIFA World Cup victory over Argentina. Ferran Torres scored the decisive goal in extra time, ending the match 1-0. Argentina played with ten men after Enzo Fernandez received a red card. Lionel Messi's final World Cup appearance concluded without a trophy. Spain celebrated their second World Cup title after a long wait.",
+    "img": "https://static.toiimg.com/photo/msid-132503430,imgsize-303316.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/ferran-torres-breaks-argentina-hearts-spain-win-fifa-world-cup-as-messis-10-man-side-fall-short-of-title-defence/articleshow/132501711.cms",
+    "time": "2026-07-19T22:02:55.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "DMK confirms TOI report it’s open to rethink on delimit bill",
     "desc": "The DMK party will state its position on the Lok Sabha strength bill later. This regional party holds a significant bloc of 22 Members of Parliament. They are open to revisiting their delimitation stance if southern states are not harmed. DMK previously protested a similar bill, which was defeated by the opposition. The party awaits the government's proposed legislation to clarify its future actions.",
@@ -99,15 +441,6 @@ const newsData_en = [
     "time": "2026-07-19T20:16:11.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Samay Raina urges netizens to be kind to Sakshi Jha after India's Got Latent episode",
-    "desc": "Contestant Sakshi Jha faced backlash for her \"man hater\" remarks on India's Got Latent. Comedian Samay Raina urged viewers to show compassion towards her. He acknowledged the widespread memes but asked for respectful criticism. Raina stated that contestants often say unexpected things on the show. He encouraged kindness, highlighting Jha's memorable performance.",
-    "img": "https://static.toiimg.com/photo/msid-132501313,imgsize-245965.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/samay-raina-urges-netizens-to-be-kind-to-sakshi-jha-after-indias-got-latent-episode-and-not-troll-her-waha-par-bhi-ek-insaan-hai/articleshow/132501314.cms",
-    "time": "2026-07-19T20:08:19.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Government may seek Parliamentary nod for additional spending",
     "desc": "Finance Minister Nirmala Sitharaman may seek parliamentary approval for additional spending. Increased expenditure on fertiliser subsidies and electronics manufacturing initiatives is driving this need. GST and direct tax revenues remain on track, and DIPAM is pushing for additional realisations. The IDBI Bank transaction's finalisation could provide significant financial comfort. Sitharaman aims to maintain the government's fiscal deficit target of 4.3% of GDP.",
@@ -124,15 +457,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/garry-sobers-crickets-greatest-a-legacy-beyond-numbers/article71242653.ece",
     "time": "2026-07-19T19:49:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Donald Trump makes dramatic Marine One arrival at FIFA World Cup final",
-    "desc": "United States President Donald Trump attended the FIFA World Cup 2026 final match. He arrived via Marine One and sat with FIFA president Gianni Infantino. Trump expressed his belief that the tournament solidified America as a football nation. He also publicly urged FIFA to consider another World Cup bid for the United States. The president declined to predict the final match outcome.",
-    "img": "https://static.toiimg.com/photo/msid-132501212,imgsize-267467.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/watch-donald-trump-makes-dramatic-marine-one-arrival-at-argentina-vs-spain-fifa-world-cup-final/articleshow/132501186.cms",
-    "time": "2026-07-19T19:44:33.000Z"
   },
   {
     "cat": "Politics",
@@ -153,33 +477,6 @@ const newsData_en = [
     "time": "2026-07-19T19:07:02.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Yamal creates history, becomes first teenager to play in both Euro &amp; World Cup finals",
-    "desc": "Lamine Yamal achieved a historic football milestone before the World Cup final. He became the first teenager to play in both a Euro and a World Cup final. Yamal was instrumental in Spain's journey to the championship match. The young player's performance has been a key factor for his team. Spain faced Argentina in the title clash for the coveted trophy.",
-    "img": "https://static.toiimg.com/photo/msid-132500499,imgsize-95140.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/lamine-yamal-creates-history-becomes-first-teenager-to-play-in-both-euro-and-fifa-world-cup-finals/articleshow/132500498.cms",
-    "time": "2026-07-19T18:49:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Amaal Mallik reacts to Tanishk Bagchi's Rs 8 lakh royalty for 'Saiyaara'",
-    "desc": "Composer Amaal Mallik criticizes the music industry's delayed royalty awareness. He claims he fought alone for creators' rights years ago. This follows Tanishk Bagchi's royalty dispute with Yash Raj Films. Mallik previously detailed how creators earn little from hit songs. The industry's royalty system is still seen as lagging behind global standards.",
-    "img": "https://static.toiimg.com/photo/msid-132500415,imgsize-242136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amaal-mallik-reacts-to-tanishk-bagchis-rs-8-lakh-royalty-for-saiyaara-javed-akhtar-sahab-fought-very-hard-for-it-i-get-salary-of-rs-75000-to-rs-1-5-lakh-after-doing-one-song/articleshow/132499195.cms",
-    "time": "2026-07-19T18:43:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Josh Kerr of Britain breaks the men''s mile world record that stood since 1999",
-    "desc": "At a Diamond League meet in London, Kerr broke Moroccan great Hicham El Guerrouj's mark of 3 minutes, 43.13 seconds, set in Rome in 1999. The 28-year-old native of Edinburgh celebrated with a lap of honour at London Stadium",
-    "img": "https://th-i.thgim.com/public/incoming/4cmrye/article71242609.ece/alternates/LANDSCAPE_1200/2026-07-18T151105Z_260537654_UP1EM7I14ZIS2_RTRMADP_3_ATHLETICS-DIAMOND-LONDON.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/josh-kerr-of-britain-breaks-the-mens-mile-world-record-that-stood-since-1999/article71242539.ece",
-    "time": "2026-07-19T18:42:50.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Panel to consider two complaints on leasing and illegal diversion of forest land in Kerala",
     "desc": "The complaints on reported illegal diversion of forest land and irregular timber auction in Chalakudy forest division and the alleged continued use of reserved forest land by Plantation Corporation of Kerala will come up before the Central Empowered Committee, New Delhi, on July 20",
@@ -187,15 +484,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/panel-to-consider-two-complaints-on-leasing-and-illegal-diversion-of-forest-land-in-kerala/article71242073.ece",
     "time": "2026-07-19T18:30:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Messi creates history, becomes first captain to lead a nation in three WC finals",
-    "desc": "Lionel Messi captained Argentina in his third World Cup final. He previously led his team in the 2014 and 2022 finals. Messi aims to win consecutive World Cup titles for Argentina. Argentina reached the final after a comeback win against England. Spain advanced after defeating France in their semifinal match.",
-    "img": "https://static.toiimg.com/photo/msid-132499849,imgsize-104242.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/lionel-messi-creates-history-before-kick-off-becomes-first-captain-to-lead-a-nation-in-three-world-cup-finals/articleshow/132499850.cms",
-    "time": "2026-07-19T18:29:04.000Z"
   },
   {
     "cat": "Politics",
@@ -243,33 +531,6 @@ const newsData_en = [
     "time": "2026-07-19T17:56:48.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "How much the champions will earn from a record $871M prize fund",
-    "desc": "The 2026 FIFA World Cup will award a record $51 million to the champions. Runners-up will receive $34 million, and the total prize pool reaches $871 million. Every participating nation is guaranteed at least $12.5 million for qualifying and preparation. This expanded prize money reflects FIFA's increased financial commitment to the tournament. Prize money goes to national federations, not directly to the players.",
-    "img": "https://static.toiimg.com/photo/msid-132499269,imgsize-180560.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/argentina-vs-spain-world-cup-final-how-much-the-champions-and-runners-up-will-earn-from-fifas-record-871-million-prize-fund/articleshow/132498976.cms",
-    "time": "2026-07-19T17:54:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit and Kohli script history, break into ODI's all-time top two list",
-    "desc": "Rohit Sharma and Virat Kohli achieved their twenty-first ODI century partnership. This milestone placed them second in all-time ODI history for century stands. The duo also became the first Indian pair to play 400 international matches together. Rohit Sharma scored a remarkable 138 runs during the chase. England had earlier posted a formidable 387 for three at Lord's.",
-    "img": "https://static.toiimg.com/photo/msid-132498587,imgsize-226770.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/rohit-sharma-and-virat-kohli-script-history-break-into-odis-all-time-top-two-list/articleshow/132498582.cms",
-    "time": "2026-07-19T17:34:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit Sharma rewrites ODI history, sets record for most hundreds in a visiting country",
-    "desc": "Rohit Sharma achieved a significant milestone by scoring his eighth ODI century in England. This remarkable century placed him ahead of Sachin Tendulkar on an elite all-time list. England posted a formidable 387/3, setting a challenging target for India. Sharma's innings helped India remain competitive in the series-deciding match. The Indian opener's performance silenced critics after a lean run.",
-    "img": "https://static.toiimg.com/photo/msid-132498321,imgsize-203552.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/rohit-sharma-rewrites-odi-history-most-hundreds-in-a-visiting-country-after-iconic-lords-century/articleshow/132498327.cms",
-    "time": "2026-07-19T17:26:03.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "CIC directs IITs to form high-level committees to curb student deaths by suicides",
     "desc": "It says information on panels must be proactively disclosed on the institutes’ official websites. The direction came while disposing of appeals filed by an IIT-Kanpur alumnus, who is the founder of a non-governmental organisation engaged in student rehabilitation and mental health counselling",
@@ -297,15 +558,6 @@ const newsData_en = [
     "time": "2026-07-19T17:04:50.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Rohit Sharma scripts history, becomes first Indian to score ODI ton at Lord's",
-    "desc": "Rohit Sharma achieved a historic ODI century at Lord's on Sunday. He became the oldest Indian to score an ODI hundred in the format. This remarkable innings came amidst scrutiny regarding his ODI future. England posted a massive 387 runs, setting a daunting target for India. Sharma's century marked his eighth ODI hundred in England.",
-    "img": "https://static.toiimg.com/photo/msid-132497895,imgsize-173160.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/rohit-sharma-scripts-history-becomes-first-indian-to-score-odi-century-at-lords-surpasses-sachin-tendulkars-record/articleshow/132497907.cms",
-    "time": "2026-07-19T16:57:27.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Roads turn death traps for gig workers in Kerala",
     "desc": "Over 30 such workers, mostly food delivery personnel, have been killed in road accidents in the State in the past one year, as per informal data collected by a union. Time constraints coupled with heavy traffic often contribute to the higher number of fatalities, those involved in the sector say",
@@ -324,15 +576,6 @@ const newsData_en = [
     "time": "2026-07-19T16:54:24.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "First time ever at Lord's! India, England script unique record with century opening stands",
-    "desc": "India and England created ODI history at Lord's by becoming the first teams to both register 100-plus opening partnerships in the same match at the venue. Ben Duckett and Jacob Bethell added 192 for England before Rohit Sharma and Shubman Gill replied with 147. Gill's dismissal for 77 ended the record stand during India's chase of 388.",
-    "img": "https://static.toiimg.com/photo/msid-132497818,imgsize-193850.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/first-time-ever-at-lords-india-england-script-unique-odi-record-with-century-opening-stands/articleshow/132497748.cms",
-    "time": "2026-07-19T16:43:08.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Amit Shah inaugurates India’s first immersive language museum in Kolkata",
     "desc": "The museum features nine galleries exploring different facets of the history of languages and their influence on India’s civilisation and culture; it seeks to present language as a living entity that has continuously shaped society while also being shaped by it",
@@ -342,24 +585,6 @@ const newsData_en = [
     "time": "2026-07-19T16:21:08.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Tanishk Bagchi deletes 'Saiyaara' Rs 8 lakh unpaid royalty post after YRF responds",
-    "desc": "Music composer Tanishk Bagchi claimed unpaid royalties for the Saiyaara title track. Yash Raj Films clarified all contractual payments were made to composers. Bagchi's social media post alleging financial disappointment was later deleted. The Saiyaara title track was a collaboration between three composers, YRF stated. Royalties are being distributed equally among all three composers as agreed.",
-    "img": "https://static.toiimg.com/photo/msid-132497212,imgsize-402193.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tanishk-bagchi-deletes-saiyaara-rs-8-lakh-unpaid-royalty-post-hours-after-yrf-responds-and-says-every-collaborator-was-paid/articleshow/132497181.cms",
-    "time": "2026-07-19T15:57:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Joe Root creates history at Lord's, rewrites ODI series history against India",
-    "desc": "Joe Root achieved a remarkable feat in the July 2026 ODI series against India. He remained unbeaten throughout the series, scoring 249 runs without being dismissed. This performance made him the first England batter to achieve six consecutive ODI half-centuries. Root surpassed previous records for most runs in a bilateral ODI series without losing his wicket. His consistent batting guided England to strong performances in all three matches.",
-    "img": "https://static.toiimg.com/photo/msid-132497171,imgsize-130508.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/joe-root-creates-history-in-3rd-odi-at-lords-rewrites-history-against-india/articleshow/132497114.cms",
-    "time": "2026-07-19T15:52:00.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'We intend to work with PM Modi': Kakoli Ghosh Dastidar announces entry into NDA with 20 Mamata rebels",
     "desc": "Kakoli Ghosh Dastidar announced her group's move to join the ruling NDA in Parliament. Twenty former TMC MPs are now aligning with the NCPI parliamentary group. This group intends to work with Prime Minister Narendra Modi and Amit Shah. They will support the government's initiatives and focus on constructive debate. The rebels' realignment follows the TMC's recent election defeat in West Bengal.",
@@ -367,78 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/we-intend-to-work-with-pm-modi-kakoli-ghosh-dastidar-announces-entry-into-nda-with-20-mamata-rebels/articleshow/132497077.cms",
     "time": "2026-07-19T15:42:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Your wishes mean the world to me': Sindhu's heartfelt message to Modi",
-    "desc": "PV Sindhu thanked Prime Minister Narendra Modi for congratulating her after becoming the first Indian to win the Japan Open. Recalling their meetings after the Tokyo Olympics, she said his wishes \"mean the world\" to her and praised his work ethic and support for Indian sport. Sindhu ended her two-year title drought by defeating Akane Yamaguchi in the final.",
-    "img": "https://static.toiimg.com/photo/msid-132496987,imgsize-41502.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/badminton/your-wishes-mean-the-world-to-me-pv-sindhus-heartfelt-message-to-pm-modi-after-japan-open-triumph/articleshow/132496676.cms",
-    "time": "2026-07-19T15:36:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Arjun, Sahiba get spotted together at Lord's, spark dating rumours: PIC inside",
-    "desc": "Arjun Kapoor and Sahiba Bali were seen together at Lord's Cricket Ground, fueling dating rumors. Photos of the pair enjoying the India vs England match went viral online. Social media users shared mixed reactions to their public appearance together. Sahiba previously clarified her single status and friendly relationship with Kullu. However, their social media interactions continue to attract attention from fans.",
-    "img": "https://static.toiimg.com/photo/msid-132497012,imgsize-316064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/arjun-kapoor-sahiba-bali-spark-dating-rumours-as-they-get-spotted-together-at-lords-with-yuvraj-singh-during-india-vs-england-third-odi-on-sunday/articleshow/132496971.cms",
-    "time": "2026-07-19T15:30:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nick Jonas drops b'day wish for PC, shares glimpse of their romantic getaway",
-    "desc": "Priyanka Chopra celebrated her birthday with new stills from her upcoming film Varanasi. Her husband Nick Jonas shared a heartfelt social media tribute to the actress. The couple revisited their relationship's beginning on a podcast, sharing early messages. Their journey started with a direct message in 2016 and led to marriage and a child. Priyanka Chopra's film Varanasi is scheduled for release in April 2027.",
-    "img": "https://static.toiimg.com/photo/msid-132496751,imgsize-223652.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nick-jonas-wins-the-internet-again-with-his-birthday-wish-for-priyanka-chopra-drops-glimpse-of-her-from-their-romantic-getaway-video/articleshow/132496736.cms",
-    "time": "2026-07-19T15:19:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar' singer Jasmine allegedly groped by crowd, disturbing video goes viral",
-    "desc": "Singer Jasmine Sandlas faced fan concern after a concert video surfaced online. The footage showed an interaction near the stage where fans pressed in. Allegations suggest some audience members touched the singer inappropriately during this moment. This incident overshadowed her successful performance and public engagement announcement. Many fans expressed support and criticized the alleged disrespectful behavior.",
-    "img": "https://static.toiimg.com/photo/msid-132496659,imgsize-240128.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-singer-jasmine-sandlas-mobbed-and-allegedly-groped-by-crowd-disturbing-video-goes-viral-on-the-internet/articleshow/132496609.cms",
-    "time": "2026-07-19T15:04:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Love Island UK Season 13' controversies",
-    "desc": "Love Island UK Season 13 concludes its drama on July 27, 2026. Gabriel Garland was removed from the villa due to court documents. George Knight exited the show citing private family reasons and language use. Finley Maddock's love triangle led to Ellie Chadwick's departure from the villa. The winning couple will be crowned after eight weeks of intense competition.",
-    "img": "https://static.toiimg.com/photo/msid-132496550,imgsize-251450.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/tv/news/english/love-island-uk-season-13-controversies-from-gabriel-garland-to-george-knight-all-about-bombshell-islanders-moments/articleshow/132496383.cms",
-    "time": "2026-07-19T14:54:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Main Vaapas Aaunga' writer on the balanced view in partition scenes: 'It can be rage-bait'",
-    "desc": "Nayanika Mahtani discusses the personal inspiration behind Imtiaz Ali's Partition film. Her grandparents' experiences shaped the narrative's focus on reconciliation. The film avoids divisive portrayals and emphasizes shared humanity. It also highlights the unspoken trauma and PTSD of survivors. Both sides of the border's suffering are depicted with a balanced view.",
-    "img": "https://static.toiimg.com/photo/msid-132496424,imgsize-360823.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/main-vaapas-aaunga-writer-says-they-were-careful-about-the-depiction-in-partition-scenes-theres-a-balanced-view-it-can-be-rage-bait/articleshow/132495654.cms",
-    "time": "2026-07-19T14:44:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gurnoor Brar enters unwanted record books with nightmare spell at Lord's",
-    "desc": "Gurnoor Brar recorded the most expensive ODI bowling figures at Lord's. His spell of 0 for 97 entered India's record books for expensive spells. England's top order dominated an inexperienced Indian bowling attack. Ben Duckett and Jacob Bethell built a strong opening partnership. England's total of 387 for 3 became the highest ODI score at Lord's.",
-    "img": "https://static.toiimg.com/photo/msid-132495850,imgsize-163876.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/gurnoor-brar-enters-unwanted-record-books-with-nightmare-spell-at-lords/articleshow/132495856.cms",
-    "time": "2026-07-19T14:22:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Argentina fans turn Times Square into a sea of blue and white ahead of final",
-    "desc": "Thousands of Argentina fans filled New York's Times Square with flags, chants and blue-and-white jerseys ahead of Sunday's FIFA World Cup final against Spain at MetLife Stadium. Defending champions Argentina, led by Lionel Messi, face reigning European champions Spain after both teams survived challenging routes to the final in the tournament's biggest-ever edition.",
-    "img": "https://static.toiimg.com/photo/msid-132495937,imgsize-234446.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/watch-argentina-fans-turn-times-square-into-a-sea-of-blue-and-white-ahead-of-world-cup-final-against-spain/articleshow/132495827.cms",
-    "time": "2026-07-19T14:21:09.000Z"
   },
   {
     "cat": "Politics",
@@ -451,24 +604,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Joe Root scripts history, becomes first England batter to...",
-    "desc": "Joe Root achieved a historic milestone with six consecutive fifty-plus scores. He scored an unbeaten 74 off 49 balls at Lord's. England posted a strong 387 for 3 after batting first. Ben Duckett and Jacob Bethell provided a solid opening partnership. Jos Buttler finished with a quick 41 not out.",
-    "img": "https://static.toiimg.com/photo/msid-132495826,imgsize-170448.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/joe-root-scripts-history-becomes-first-england-batter-to-register-six-consecutive-odi-fifties/articleshow/132495841.cms",
-    "time": "2026-07-19T14:14:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Parliament should discuss if new anti-defection law needed': Congress' Manish Tewari after TMC, Shiv Sena (UBT) splits",
-    "desc": "Congress MP Manish Tewari advocates for a new anti-defection law. He believes the Lok Sabha composition no longer reflects the 2024 voter mandate. Recent party splits have weakened Indian democracy and opportunistic politics are prevalent. TMC and Shiv Sena (UBT) MPs have switched allegiance to the ruling NDA. Tewari stresses the need to address these developments during the upcoming Parliament session.",
-    "img": "https://static.toiimg.com/photo/msid-132495858,imgsize-119630.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/parliament-should-discuss-if-new-anti-defection-law-needed-congress-manish-tewari-after-tmc-shiv-sena-ubt-splits/articleshow/132495561.cms",
-    "time": "2026-07-19T14:09:24.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Manipur, Meghalaya and Kerala declare holiday on July 20 for students to watch FIFA World Cup final",
     "desc": "Most children and youths in the football-crazy State are likely to stay awake for at least two hours past midnight and will not be able to attend classes on July 20 morning, a government spokesperson says",
     "img": "https://th-i.thgim.com/public/incoming/5kfeir/article71241574.ece/alternates/LANDSCAPE_1200/PTI07_16_2026_000304B.jpg",
@@ -477,166 +612,13 @@ const newsData_en = [
     "time": "2026-07-19T14:00:05.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Ashwin questions Kuldeep's omission, says repeated snubs 'can affect confidence'",
-    "desc": "Ravichandran Ashwin questioned India's decision to omit Kuldeep Yadav. The spinner was again left out of the side for the third ODI. This repeated exclusion could negatively impact his confidence and rhythm. India opted for a pace-heavy attack despite bowling absences. Kuldeep has now missed all ODIs and T20Is on the tour.",
-    "img": "https://static.toiimg.com/photo/msid-132495621,imgsize-13772.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/r-ashwin-questions-kuldeep-yadavs-omission-says-repeated-snubs-can-affect-confidence/articleshow/132495617.cms",
-    "time": "2026-07-19T13:57:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'He intends to continue the fast': Sonam Wangchuk's wife vows to lead Parliament march",
-    "desc": "Gitanjali J Angmo will lead a march to Parliament representing her husband, Sonam Wangchuk. Wangchuk continues his indefinite hunger strike from Safdarjung Hospital after being moved there. The Delhi High Court declined to order his immediate transfer to a private facility. Angmo urged protesters to maintain peace and remain vigilant against disruptions. Security has been heightened across New Delhi ahead of the planned march.",
-    "img": "https://static.toiimg.com/photo/msid-132495528,imgsize-109031.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/he-intends-to-continue-the-fast-sonam-wangchuks-wife-vows-to-lead-parliament-march/articleshow/132495503.cms",
-    "time": "2026-07-19T13:41:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "In his 40s, here's how R Madhavan changed his career path, to feel hunger, insecurity towards his work",
-    "desc": "Actor R Madhavan experienced a career lull in his early forties. He felt a loss of passion and operated on autopilot then. His wife noticed this fading spark before he did. Madhavan then deliberately quit endorsements to regain hunger. This challenging four-year period proved transformative for him.",
-    "img": "https://static.toiimg.com/photo/msid-132495218,imgsize-214444.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/in-his-40s-heres-how-r-madhavan-changed-his-career-path-took-risks-to-get-the-hunger-for-his-work-and-insecurity-back-the-comfort-zone-was-making-me-decay/articleshow/132495174.cms",
-    "time": "2026-07-19T13:24:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Avoid cloak-and-dagger tactics': Derek O'Brien writes to PM Modi on delimitation bill, seeks all-party meet",
-    "desc": "Trinamool Congress leader Derek O'Brien urged Prime Minister Modi to convene an all-party meeting. He expressed concerns over proposed delimitation legislation and the Foreign Contribution Amendment bill. O'Brien described these measures as 'draconian' and 'cowboy legislation' in his letter. The opposition fears the delimitation exercise could reduce southern states' parliamentary representation. The Foreign Contribution Amendment bill may tighten government oversight of charitable organizations.",
-    "img": "https://static.toiimg.com/photo/msid-132495089,imgsize-84724.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/avoid-cloak-and-dagger-tactics-derek-obrien-writes-to-pm-modi-on-delimitation-bill-seeks-all-party-meet/articleshow/132495036.cms",
-    "time": "2026-07-19T13:12:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘No state has witnessed such a political change since Independence’: Amit Shah on Bengal",
-    "desc": "Union Home Minister Amit Shah called West Bengal's political change unprecedented since Independence. He criticized the previous Left Front and Trinamool Congress governments. Shah attended the foundation stone laying for a new dairy project. This project aims to boost the state's dairy sector and farmer incomes. The minister concluded his three-day visit to West Bengal.",
-    "img": "https://static.toiimg.com/photo/msid-132494934,imgsize-63043.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-state-has-witnessed-such-a-political-change-since-independence-amit-shah-on-bengal/articleshow/132494665.cms",
-    "time": "2026-07-19T13:00:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'NCPI recognised by EC': Sudip Bandyopadhyay hits back after opposition's walkout over TMC rebels' presence",
-    "desc": "The Nationalist Citizens Party of India attended an all-party meeting ahead of the Monsoon Session. Opposition parties staged a symbolic walkout to protest the invitation extended to NCPI leaders. NCPI leaders defended their party's recognition by the Election Commission and its MPs' presence. They stated that the Lok Sabha Speaker would clarify seating arrangements and disqualification matters. The government defended inviting the NCPI as they had requested recognition.",
-    "img": "https://static.toiimg.com/photo/msid-132494346,imgsize-111822.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ncpi-recognised-by-ec-sudip-bandyopadhyay-hits-back-after-oppositions-walkout-over-tmc-rebels-presence/articleshow/132494263.cms",
-    "time": "2026-07-19T12:24:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay's 'Jana Nayagan's bookings begin in TN, FDFS timing revealed",
-    "desc": "Advance bookings for Vijay's film 'Jana Nayagan' have commenced across Tamil Nadu. The eagerly awaited movie is scheduled for a July 23 release date. First Day First Show timings have been confirmed, with early morning screenings planned. This film is widely speculated to be Vijay's final acting project. High expectations surround the movie's grand worldwide release on many screens.",
-    "img": "https://static.toiimg.com/photo/msid-132494395,imgsize-324980.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/chief-minister-vijay-starrer-jana-nayagans-bookings-begin-in-tamil-nadu-ahead-of-july-23-release-fdfs-timing-revealed/articleshow/132494310.cms",
-    "time": "2026-07-19T12:19:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Ramayana' star Sai Pallavi's most stunning saree looks",
-    "desc": "Sai Pallavi has never needed heavy styling or dramatic fashion statements to make an impression. With her new film 'Ramayana' generating buzz, her saree moments, in particular, have a quiet authority to them that is entirely her own. Here is a look at six times she got it absolutely right.",
-    "img": "https://static.toiimg.com/photo/msid-132494041,imgsize-113817.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayan-star-sai-pallavi-proves-less-is-more-with-these-6-timeless-saree-looks/photostory/132494041.cms",
-    "time": "2026-07-19T11:52:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "AR Rahman congratulates nephew GV Prakash Kumar on third National Award",
-    "desc": "GV Prakash Kumar received his third National Award for Best Music Direction. He won for his background score in the film Amaran. His maternal uncle, AR Rahman, congratulated him on this achievement. Rahman noted it was a proud family moment, celebrating their tenth National Award. This award further solidifies Prakash Kumar's prominent position in cinema.",
-    "img": "https://static.toiimg.com/photo/msid-132493972,imgsize-129362.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/ar-rahman-congratulates-nephew-gv-prakash-kumar-on-third-national-award-a-proud-moment-for-our-family/articleshow/132493960.cms",
-    "time": "2026-07-19T11:47:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Argentina vs Spain match date, time, live streaming &amp; preview",
-    "desc": "Argentina and Spain face off in the FIFA World Cup 2026 final on July 19 at MetLife Stadium in New Jersey. Lionel Messi leads Argentina after a brilliant tournament, while Spain arrive with the competition's best defence. Fans can watch the final through FIFA's official broadcasters worldwide, including FOX, Telemundo, BBC, ITV, Zee Entertainment and TyC Sports, depending on their country.",
-    "img": "https://static.toiimg.com/photo/msid-132491283,imgsize-73637.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-2026-final-argentina-vs-spain-match-date-time-live-streaming-preview-key-players-to-watch/articleshow/132491283.cms",
-    "time": "2026-07-19T11:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tanishk Bagchi says Rs 8 lakh royalty for 'Saiyaara' feels 'like peanuts'",
-    "desc": "Music composer Tanishk Bagchi voiced dissatisfaction with royalty earnings for the 'Saiyaara' title track. He stated the financial returns did not match his dedicated creative efforts. Yash Raj Films responded, clarifying the song was a collaboration with three composers. Royalties are being shared equally among Tanishk Bagchi, Faheem Abdullah, and Arslan Nizami. All payments were made according to contractual terms and agreed-upon arrangements.",
-    "img": "https://static.toiimg.com/photo/msid-132493554,imgsize-302382.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/tanishk-bagchi-says-rs-8-lakh-royalty-for-saiyaara-feels-like-peanuts-as-aditya-chopras-production-house-issues-clarification-yrf-has-paid-every-collaborator-their-due-as-per-contract/articleshow/132493539.cms",
-    "time": "2026-07-19T11:18:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rajesh Sharma discharged from hospital after health scare 'Fauzi' set",
-    "desc": "Veteran actor Rajesh Sharma has been discharged from the hospital after a health scare. He was admitted following an insect bite while filming Prabhas' upcoming movie 'Fauzi'. FWICE confirmed his recovery and return to Mumbai after treatment for complications. His sugar levels had risen, causing significant health issues during his recovery period. Sharma is expected to resume his work on the film sets in a few days.",
-    "img": "https://static.toiimg.com/photo/msid-132493479,imgsize-70254.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rajesh-sharma-discharged-from-hospital-after-health-scare-on-prabhas-fauzi-set-fwice-shares-health-update-he-will-resume-work-in-a-few-days/articleshow/132493466.cms",
-    "time": "2026-07-19T11:12:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Govt was within its right': Why Delhi HC backed Sonam Wangchuk's hospital shift",
-    "desc": "The Delhi high court rejected a plea to move Sonam Wangchuk to a private hospital. The court noted no force was used in his transfer to Safdarjung Hospital. Family members have been granted round-the-clock access to the fasting activist. Doctors are monitoring his health and administering oral substances with consent. The government acted within its rights to provide care for Wangchuk.",
-    "img": "https://static.toiimg.com/photo/msid-132493976,imgsize-870691.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/govt-was-within-its-right-why-delhi-hc-backed-sonam-wangchuks-hospital-shift/articleshow/132493321.cms",
-    "time": "2026-07-19T10:59:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Gautham Menon faces legal setback as Supreme Court upholds repayment",
-    "desc": "The Supreme Court has upheld a Madras High Court order against director Gautham Menon. He must now repay Rs 4.25 crore with 12 percent annual interest. This ruling concludes a financial dispute dating back to a 2008 film agreement. Menon's defense that 'Neethaane En Ponvasantham' fulfilled the contract was rejected. The apex court found no grounds to interfere with the High Court's findings.",
-    "img": "https://static.toiimg.com/photo/msid-132493310,imgsize-61020.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/gautham-menon-faces-legal-setback-as-supreme-court-upholds-rs-4-25-crore-repayment-order-with-steep-interest-after-neethaane-en-ponvasantham-defense-fails/articleshow/132493287.cms",
-    "time": "2026-07-19T10:50:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Celina announces comeback film 'Sister Nibedita'",
-    "desc": "Celina Jaitly confirmed her acting comeback after a long hiatus. Her next project is 'Sister Nibedita,' a film inspired by Margaret Elizabeth Noble. She announced this news on X, sharing an emotional note with her followers. The film will chronicle the remarkable life of Margaret Elizabeth Noble, the Irish educator. This project marks Celina's first film after a lengthy break from the screen.",
-    "img": "https://static.toiimg.com/photo/msid-132493118,imgsize-277191.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/celina-jaitly-announces-comeback-film-sister-nibedita-amid-bitter-legal-and-custody-battle-with-estranged-husband-peter-haag-i-have-no-other-option/articleshow/132493119.cms",
-    "time": "2026-07-19T10:30:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jayden James Federline debunks Britney Spears clone theory",
-    "desc": "Britney Spears' 19-year-old son Jayden James Federline dismissed a viral \"clone theory\" about his mother during a July 17 livestream, calling the online speculation ridiculous and pointing out she's clearly active on social media. He reflected on how misinformation spreads easily online. The moment comes as Britney rebuilds her relationship with Jayden and older son Sean Preston, with ex-partner Sam Asghari also expressing happiness over their reconciliation.",
-    "img": "https://static.toiimg.com/photo/msid-132492872,imgsize-119860.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/like-bro-go-to-her-page-britney-spears-son-jayden-james-slams-ridiculous-viral-clone-conspiracy-theories/articleshow/132492831.cms",
-    "time": "2026-07-19T10:18:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hailey Bieber shares her postpartum fitness routine",
-    "desc": "After the arrival of her son Jack Blues Bieber, Hailey Bieber revealed a new postpartum fitness routine that emphasizes lifting heavy weights, moving away from her earlier focus on Pilates. Additionally, she has embraced authentic matcha tea as her go-to beverage while integrating lymphatic drainage massages to enhance her detoxification process and overall wellness, marking a major shift in her approach to health.",
-    "img": "https://static.toiimg.com/photo/msid-132492755,imgsize-244468.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/hailey-bieber-reveals-postpartum-fitness-routine-after-welcoming-son-jack-blues-explains-why-heavy-lifting-is-her-focus-over-pilates/articleshow/132492682.cms",
-    "time": "2026-07-19T10:08:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Key differences between Homer’s Greek classic and Christopher Nolan’s 'The Odyssey'",
-    "desc": "While Christopher Nolan’s ‘The Odyssey’ is making its rounds in theatres and has already reported good box office numbers, fans have pointed out a few differences in the retelling of the Greek classic. While it was natural for the filmmaker to skip some pivotal scenes from Homer’s ‘Odyssey,’ specifically because of the text's sheer length—fans noticed that the film had quite a few aspects compared to how it was in Homer’s poem, even beyond the use of modern-day dialogue. Here are some instances from 2026's ‘The Odyssey’ that appear quite different from its reference text of Homer’s ‘Odyssey’.",
-    "img": "https://static.toiimg.com/photo/msid-132492493,imgsize-39736.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/from-homers-greek-classic-to-christopher-nolans-the-odyssey-key-differences-between-the-book-and-movie/photostory/132492493.cms",
-    "time": "2026-07-19T09:39:19.000Z"
+    "cat": "Tech",
+    "title": "Space Exploration Day",
+    "desc": "If you want to be in space, you’ll need training. A lot of it. Here’s a look at all the different training — from spacewalk to simulation — that astronauts undergo to be efficient and valiant when, after much waiting, they finally get to space!",
+    "img": "https://th-i.thgim.com/public/incoming/vcdr6w/article71239165.ece/alternates/LANDSCAPE_1200/IMG_APTOPIX_Germany_Moon_2_1_ECDCKUA4.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/children/how-are-astronauts-trained/article71189012.ece",
+    "time": "2026-07-19T11:33:07.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/ai-should-not-be-a-solo-performance-but-symphony-of-global-collaboration-xi-jinping/article71232848.ece",
     "time": "2026-07-18T04:40:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "How women audiences are championing Marathi films in theatres",
+    "desc": "With a host of female-centric films being made, Marathi cinema is speaking closely to women audiences, who are in turn showing up in large numbers to watch them, celebrate them and turn them into box office successes",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/wttz3z/article71229657.ece/alternates/LANDSCAPE_1200/Actor%20Girija%20Oak%20Godbole%20posing%20for%20a%20photo%20with%20others%20during%20a%20movie%20screening",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/how-women-audiences-are-championing-marathi-films-in-theatres-baipan-bhari-deva-tighee-deool-band-2/article71229588.ece",
+    "time": "2026-07-18T04:34:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "France, England vie for third place",
+    "desc": "For France and England, Miami offers one final test of character. Neither arrived in America dreaming of bronze. But bronze is now all that remains and finding the will to fight for it may be the hardest assignment of all",
+    "img": "https://th-i.thgim.com/public/incoming/tz5gtd/article71235603.ece/alternates/LANDSCAPE_1200/2026-07-17T161331Z_601481975_UP1EM7H192H3G_RTRMADP_3_SOCCER-WORLDCUP-FRA-ENG-PREVIEW.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/fifa-world-cup-france-england-vie-for-third-place/article71235584.ece",
+    "time": "2026-07-18T00:10:03.000Z"
   }
 ];
