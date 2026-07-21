@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Former India cricketer gives his take on Shubman Gill's fitness after ODI series loss against England",
+    "desc": "India’s ODI series against England ended with the team suffering another defeat; the Men in Blue sustained losses in the second and third ODIs, losing the series. After the losses, India skipper Shubman Gill came...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-gives-his-take-on-shubman-gill-s-fitness-after-odi-series-loss-against-england-2026-07-21-1048943",
+    "time": "2026-07-21T10:09:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Aminul Haque holds out hope for India-Bangladesh series, highlights importance of sports diplomacy",
+    "desc": "The Indian team has been long scheduled to tour Bangladesh, but due to several factors, the series has not conducted so far due to various factors. At the start of the year, the BCB (Bangladesh...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/aminul-haque-holds-out-hope-for-india-bangladesh-series-highlights-importance-of-sports-diplomacy-2026-07-21-1048935",
+    "time": "2026-07-21T08:54:57.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Katherine Sciver-Brunt named Trent Rockets' assistant coach ahead of The Hundred 2026",
     "desc": "In a major development, The Hundred franchise, Trent Rockets Women, has come forward and named former England cricketer Katherine Sciver-Brunt as their new assistant coach ahead of the upcoming edition of The Hundred Women’s 2026. It...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-arrives-in-zimbabwe-alongside-team-india-ahead-of-three-game-t20i-series-watch-2026-07-20-1048842",
     "time": "2026-07-20T11:55:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'A sad story': Former India cricketer weighs in on India's ODI series loss against England",
-    "desc": "The Indian team sustained yet another loss in the third ODI of the series against England; the hosts registered a 27-run win in the game, clinching the series in the process, handing India yet another...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/a-sad-story-former-india-cricketer-weighs-in-on-india-s-odi-series-loss-against-england-2026-07-20-1048828",
-    "time": "2026-07-20T10:24:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Not told us anything': Shubman Gill opens up on Rohit Sharma's future amid ongoing retirement reports",
-    "desc": "Team India lost the third ODI of their multi-format series against England. Having lost the second and third ODIs, India missed out on winning the series, as England put in some brilliant performances. One of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/not-told-us-anything-shubman-gill-opens-up-on-rohit-sharma-s-future-amid-ongoing-retirement-reports-2026-07-20-1048826",
-    "time": "2026-07-20T09:31:57.000Z"
   }
 ];

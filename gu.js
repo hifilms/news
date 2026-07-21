@@ -1,6 +1,78 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "IPOએ ચમકાવી કિસ્મત! SBI ફંડ્સના IPOથી 13 લોકો બન્યા કરોડપતિ, એકને તો મળ્યા પૂરા ₹121 કરોડ! જાણો",
+    "desc": "SBI ફંડ્સ મેનેજમેન્ટના IPOના પ્રભાવશાળી લિસ્ટિંગથી 13 કર્મચારીઓ કરોડપતિ બન્યા છે. ડેપ્યુટી મેનેજિંગ ડિરેક્ટર દેવિન્દર પાલ સિંહને આશરે ₹121 કરોડના શેર અને CIO શ્રીનિવાસન રામા ઐયરને આશરે ₹105 કરોડના શેર મળ્યા. 2018માં શરૂ કરાયેલ ESOP પ્રોગ્રામે કર્મચારીઓને આ નોંધપાત્ર લાભ પૂરો પાડ્યો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/ipo-made-fortunes-shine-13-people-became-millionaires-from-sbi-funds-ipo-one-got-a-whopping-121-crore-know-485356 ",
+    "time": "2026-07-21T10:18:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CJP સાથે ચર્ચા માટે જેપી નડ્ડા જ કેમ? સરકારની પસંદગી પાછળનું મોટું કારણ!",
+    "desc": "કોકરોચ જનતા પાર્ટી દ્વારા દિલ્હીના જંતર મંતર પર વિરોધ પ્રદર્શન ચાલુ છે. આંદોલન વચ્ચે સરકારે વાતચીતની જવાબદારી જે પી નડ્ડાને સોંપતા જ બધાને નવાઈ લાગી હતી. રાજકીય જાણકારોનું કહેવું છે કે તેમનો અનુભવ આ ભૂમિકા માટે સટિક હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/why-jp-nadda-for-discussion-with-cjp-what-is-reason-behind-the-government-choice-485354 ",
+    "time": "2026-07-21T10:03:15.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ફરી મોંઘું થયું પેટ્રોલ-ડીઝલ ? શું ગેસના ભાવ પણ વધશે ? જાણો શું છે આજના ભાવ",
+    "desc": "યમનના હૂતી વિદ્રોહીઓએ સાઉદી અરેબિયા સામે દરિયાઈ નાકાબંધી કરી છે. લાલ સમુદ્રમાં ઓઈલ પુરવઠામાં વિક્ષેપને કારણે ભારતમાં પેટ્રોલ, ડીઝલ અને ગેસના ભાવ વધવાનું જોખમ વધી ગયું છે. ત્યારે આજના ભાવ શું છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-and-lpg-gas-cylinder-price-hike-alert-cheack-latest-rate-485351 ",
+    "time": "2026-07-21T09:42:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "રેલવેની ગાયબ થતી ચાદરો ક્યાં જાય છે? જવાબ મળી ગયો! વેસ્ટર્ન રેલવે લખેલો કુરતો પહેરીને શખ્સે મારી એન્ટ્રી! જુઓ Video",
+    "desc": "તાજેતરમાં, રેલવે બેડશીટની ચોરી અંગે ઘણી ચર્ચા થઈ હતી. એવું કહેવામાં આવી રહ્યું હતું કે કર્મચારીઓ ચોરાયેલી બેડશીટ માટે પૈસા પોતાના ખિસ્સામાંથી ચૂકવે છે. પરંતુ હવે, એક માણસે આ ચાદરોનો શ્રેષ્ઠ ઉપયોગ શોધી કાઢ્યો છે. તેણે તેમાંથી કુર્તા બનાવ્યા છે. આ સાબિત કરે છે કે બેડશીટ ચોરાઈ જાય છે, અને તે ક્યાં જાય છે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/where-do-the-disappearing-railway-sheets-go-a-man-wearing-a-kurta-with-western-railway-written-watch-the-video-485349 ",
+    "time": "2026-07-21T09:19:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "સિયા વિશે મોટો ખુલાસો, સોપારી આપવાનો કર્યો હતો પ્રયત્ન, પણ...જાણો કેમ જોતા હતા જાપાની વીડિયો?",
+    "desc": "પોતાના જ મંગેતરને લોહગઢ કિલ્લા પરથી ધક્કો મારીને મોત નિપજાવવાની આરોપી સિયા ગોયલ વિશે વળી પાછો ચોંકાવનારો ખુલાસો થયો છે. તે અને ચેતન જાપાની વીડિયો કેમ જોતા હતા તેના વિશે પણ મોટો દાવો કરાયો છે. જાણો વિગતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/ketan-murder-case-latest-update-big-revelation-about-siya-goyal-japani-videos-485347 ",
+    "time": "2026-07-21T09:13:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ફૂટબોલ વર્લ્ડ કપના અંત સાથે દુ:ખદ સમાચાર, મહાન ફૂટબોલરનું નિધન, કેન્સરે છીનવ્યું જીવન",
+    "desc": "ઇંગ્લેન્ડના મહાન ફૂટબોલર અને નેશનલ ટીમના ભૂતપૂર્વ કેપ્ટન અને કોચ કેવિન કીગનનું નિધન થયું છે. કીગ 75 વર્ષની વયે અંતિમ શ્વાસ લીધા. તેઓ છેલ્લા કેટલાક સમયથી કેન્સર સામે લડી રહ્યા હતા અને આખરે તેઓ જીવનની લડાઈ હારી ગયા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/england-football-legend-kevin-keegan-dies-at-75-after-cancer-battle-485346 ",
+    "time": "2026-07-21T09:08:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "પેટ્રોલ પુરાવતી વખતે ડેન્સિટી (Density) ચેક કરવી કેમ જરૂરી છે? જાણો કેટલી હોવી જોઈએ સાચી ડેન્સિટી!",
+    "desc": "ઘણા લોકોનું માનવું છે કે વધુ ડેન્સિટીવાળું પેટ્રોલ સારી માઇલેજ આપે છે, પરંતુ આ સંપૂર્ણ સત્ય નથી. વાહનની માઇલેજ એન્જિનની સ્થિતિ, ડ્રાઇવિંગ સ્ટાઇલ, ટ્રાફિક, ટાયર પ્રેશર અને ઈંધણની ગુણવત્તા સહિત અન્ય કારણો પર નિર્ભર કરે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/understanding-fuel-density-ideal-petrol-and-diesel-density-range-and-its-impact-on-your-vehicle-485345 ",
+    "time": "2026-07-21T09:05:05.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ITR ભરનારા માટે મોટા સમાચાર: 31 જુલાઈ નથી ઈન્કમ ટેક્સ રિટર્ન ભરવાની છેલ્લી તારીખ! જાણો નવી ડેડલાઈન",
+    "desc": "જો તમને આશ્ચર્ય થાય કે શું તમારા આવકવેરા રિટર્ન (ITR) ફાઇલ કરવાની અંતિમ તારીખ 31 જુલાઈ, 2026 છે, તો તમારે પહેલા આ અપડેટ જાણવી જોઈએ, કેટલાક ટેક્સપેયર માટે, સરકારે ITR ફાઇલ કરવાની અંતિમ તારીખ 31 ઓગસ્ટ, 2026 સુધી લંબાવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/big-news-for-itr-filers-july-31-is-not-the-last-date-to-file-income-tax-return-know-the-new-deadline-485342 ",
+    "time": "2026-07-21T08:24:59.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "હાઈથી સોનું 38000 અને ચાંદી 1.96 લાખ સસ્તી, આજે પણ ભાવમાં મોટી ઉથલપાથલ, જાણો આજનો ભાવ",
     "desc": "સોના અને ચાંદીમાં વળી પાછો ઉછાળો જોવા મળી રહ્યો છે. ભારતીય બજારોમાં સોનું અને ચાંદી વધારા સાથે જોવા મળ્યા છે જ્યારે વૈશ્વિક બજારમાં પણ કોમેક્સ ગોલ્ડ અને સિલ્વરમાં ઉછાળો જોવા મળ્યો છે. જો કે હજુ પણ ઓલટાઈમ હાઈથી સોનું અને ચાંદી ઘણા સસ્તા છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -225,15 +297,6 @@ const newsData_gu = [
     "time": "2026-07-20T05:21:32.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘જો એવું થશે તો આજે જ પૂરા થશે ઉપવાસ…’, સોનમ વાંગચુકે સફદરજંગ હોસ્પિટલથી રાખી 3 શરતો",
-    "desc": "એક્ટિવિસ્ટ સોનમ વાંગચુક 23 દિવસથી અનશન પર છે. તેમણે 20 જુલાઈએ ભૂખ હડતાલ ખતમ કરવાનો સંકેત આપ્યો છે, બસ સરકાર શિક્ષણ વ્યવસ્થાની ખામીઓ કે પેપર લીકની જવાબદારી લે, કે સાંસદ આ મુદ્દો સંસદમાં ઉઠાવવાનો ભરોસો આપે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/sonam-wangchuk-sets-3-conditions-to-end-23-day-fast-alleges-illegal-detention-at-safdarjung-hospital-485212 ",
-    "time": "2026-07-20T04:47:03.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "હારનો ગુસ્સો મેદાનમાં ફાટ્યો! આર્જેન્ટિનાના ખેલાડીએ સ્પેનિશ સ્ટારને કોલર પકડી ખેંચ્યો, જુઓ Video",
     "desc": "રવિવારે મોડી રાત્રે ફાઇનલ મેચમાં આર્જેન્ટિના સામે 1-0થી વિજય મેળવીને સ્પેને ફિફા વર્લ્ડ કપ 2026 જીત્યો. સબસ્ટિટ્યુટ ફેરન ટોરેસ સ્પેનની જીતના હીરો રહ્યા, તેમણે વધારાના સમયમાં નિર્ણાયક ગોલ કરીને ટીમને 2010 પછીનો બીજો ખિતાબ જીત્યો.",
@@ -387,15 +450,6 @@ const newsData_gu = [
     "time": "2026-07-19T05:32:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "આતંકીઓએ બદલ્યો ટાર્ગેટ? હવે ગુજરાત-રાજસ્થાન પર ખતરો! જાણો કેમ",
-    "desc": "કાશ્મીરમાં સતત વધી રહેલા સુરક્ષા દબાણને કારણે, શું આતંકવાદી સંગઠનો હવે ગુજરાત અને રાજસ્થાન જેવા રાજ્યોને નવા ટારગેટ તરીકે જોઈ રહ્યા છે? સુરક્ષા એજન્સીઓ અને વિકસિત થતા આતંકવાદી નેટવર્કને જોતાં, આ નવી આતંકવાદી ગેમપ્લાન પાછળના તર્ક, સંભવિત જોખમો અને ભારતની સુરક્ષા વ્યવસ્થા સામે ઉભરતા પડકારોને સમજો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/terrorists-changed-their-target-now-gujarat-and-rajasthan-are-under-threat-know-why-485116 ",
-    "time": "2026-07-19T05:31:06.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "એક્ટ્રેસ જેનિફર વિંગેટે કંફર્મ કર્યા બીજા લગ્ન, ઈંસ્ટા પર શેર કર્યો લગ્નનો વીડિયો",
     "desc": "જેનિફર વિંગેટના લગ્નની ચર્ચાઓ છેલ્લા કેટલાક દિવસોથી ચાલી રહી હતી. હવે અભિનેત્રીએ ઈંસ્ટા પર તેના લગ્નનો વીડિયો શેર કરી બીજા લગ્નની વાત કંફર્મ કરી છે. જેનિફરે સિંગાપુરના જાણીતા બિઝનેસમેન વિલિયમ ઈસ્માએલ સાથે લગ્ન કર્યા છે. જેનિફરના આ બીજા લગ્ન છે.",
@@ -432,15 +486,6 @@ const newsData_gu = [
     "time": "2026-07-18T12:47:54.000Z"
   },
   {
-    "cat": "Business",
-    "title": "બદલાશે 10 અને 20 રૂપિયાની નોટો, RBI એ કરી મોટી જાહેરાત, તેની જગ્યાએ શું આવશે?",
-    "desc": "આ UPIનો યુગ છે. લોકો ભાગ્યે જ રોકડ રકમ પાસે રાખે છે. કારણ કે કાગળની નોટો ઝડપથી બગડી જાય છે અને સરળતાથી ફાટી જાય છે. જો કે, આ સમસ્યાનો ઉકેલ આવવાનો છે, કારણ કે ભવિષ્યમાં તમારા ખિસ્સામાં રહેલી નોટ પ્લાસ્ટિકની બનેલી હોઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/10-and-20-rupee-notes-will-be-replaced-rbi-made-a-big-announcement-what-will-come-in-its-place-485042 ",
-    "time": "2026-07-18T10:55:10.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "પ્રિયંકા ચોપડાને જન્મદિવસે મળી જોરદાર સરપ્રાઈઝ, વારાણસી ફિલ્મ મેકર્સે મંદાકિનીનો લુક કર્યો રીવીલ",
     "desc": "18 જુલાઈના રોજ પ્રિયંકા ચોપડા જોનસ તેનો 44 મો જન્મદિવસ ઉજવી રહી છે ત્યારે તેના ચાહકોને મોટી ગિફ્ટ મળી છે. આ ખાસ દિવસની વધારે ખાસ વારાણસી ફિલ્મના મેકર્સે બનાવ્યો છે. પ્રિયંકાના બર્થ ડે પર વારાણસી ફિલ્મના તેના લુકને રીવીલ કરવામાં આવ્યો છે.",
@@ -448,15 +493,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/priyanka-chopra-44-birthday-first-look-of-mandakini-of-varanasi-movie-look-released-485019 ",
     "time": "2026-07-18T08:42:46.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સોનું કેમ થઈ રહ્યું છે સતત સસ્તું? ઓગસ્ટમાં હજુ ઘટશે ભાવ કે આવશે મોટી તેજી? જાણો",
-    "desc": "જો તમે સોનું ખરીદવાનું વિચારી રહ્યા છો, તો શું આ સારો સમય છે? છેલ્લા 6 અઠવાડિયામાં પહેલીવાર સોનામાં સાપ્તાહિક મોટો ઘટાડો જોવા મળ્યો છે. આવી સ્થિતિમાં, સૌથી મોટો પ્રશ્ન એ છે કે શું ઓગસ્ટમાં સોનું સસ્તું થશે કે ભાવ ફરી વધશે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/why-is-gold-getting-cheaper-will-the-price-fall-further-in-august-or-will-there-be-a-big-boom-find-out-485017 ",
-    "time": "2026-07-18T08:34:42.000Z"
   },
   {
     "cat": "Entertainment",
@@ -682,14 +718,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/does-a-low-wattage-phone-charge-faster-with-a-high-wattage-charger-or-is-it-safe-to-charge-it-find-out-the-correct-answer-484368 ",
     "time": "2026-07-12T09:35:10.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "SUV પ્રેમીઓ માટે ખુશખબર! મસ્ક્યુલર ડિઝાઇન અને વધુ માઇલેજ સાથે આવી રહી છે નવી કાર",
-    "desc": "કિયા મોટર્સ ભારતીય બજારમાં એક મોટી સાઈજની SUV લાવવાની તૈયારી કરી રહી છે. અમે કિયાની સોરેન્ટો વિશે વાત કરી રહ્યા છીએ, જે હાઇબ્રિડ અવતારમાં લોન્ચ થઈ શકે છે. લોન્ચ પહેલા આ કાર માટે પ્રી-લોન્ચ બુકિંગ પહેલાથી જ બિનસત્તાવાર રીતે શરી થઈ ગઈ છે. આ કાર મલ્ટિપલ સીટ કોન્ફ્રીગેશનમાં આવી શકે છે. ચાલો જાણીએ કે આ કિયા કાર ક્યારે લોન્ચ થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/good-news-for-suv-lovers-a-new-car-kia-sorento-is-coming-with-a-muscular-design-and-more-mileage-484292 ",
-    "time": "2026-07-11T15:52:48.000Z"
   }
 ];
