@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "R Ashwin brands Rohit and Kohli as 'untouchable', reflects on their future in ODI cricket",
+    "desc": "The three-game ODI series between India and England ended in a disappointing defeat for the Indian team. The Men in Blue, after winning the first ODI of the series, succumbed to hefty losses in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/r-ashwin-brands-rohit-and-kohli-as-untouchable-reflects-on-their-future-in-odi-cricket-2026-07-21-1048956",
+    "time": "2026-07-21T11:42:28.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Former India cricketer gives his take on Shubman Gill's fitness after ODI series loss against England",
     "desc": "India’s ODI series against England ended with the team suffering another defeat; the Men in Blue sustained losses in the second and third ODIs, losing the series. After the losses, India skipper Shubman Gill came...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/calcutta-high-court-orders-arrest-of-wicket-keeper-batter-abishek-porel-over-rape-case-2026-07-20-1048851",
     "time": "2026-07-20T13:26:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi arrives in Zimbabwe alongside Team India ahead of three-game T20I series",
-    "desc": "The Indian team is all set to take on Zimbabwe across a three-game T20I series. The two sides will meet in Harare for all three clashes on July 23, 25, and 26, and ahead of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-arrives-in-zimbabwe-alongside-team-india-ahead-of-three-game-t20i-series-watch-2026-07-20-1048842",
-    "time": "2026-07-20T11:55:24.000Z"
   }
 ];

@@ -1,6 +1,24 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "8મા પગાર પંચ અંગે મોટું અપડેટ, સરકારી કર્મચારીઓના પગારમાં 68% સુધીનો થશે વધારો ?",
+    "desc": "વર્ષ 2026ના પહેલા 6 મહિનામાં 8મા પગાર પંચ માટેનું પોર્ટલ શરૂ થયું એટલું જ નહીં, પરંતુ વિવિધ સ્થળોએ બેઠકો પણ યોજાઈ રહી છે. હવે પગાર પંચ સરકારને તેની ભલામણો ક્યારે સુપરત કરશે તેના પર બધાની નજર છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-update-will-govt-employees-salary-increase-by-up-to-68-percent-485365 ",
+    "time": "2026-07-21T13:01:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "મારુતિએ ગ્રાહકોને આપ્યો મોટો ઝટકો, કારના ભાવમાં ₹30,000 સુધીનો વધારો, જાણો શું છે કારણ",
+    "desc": "મારુતિ સુઝુકીએ મંગળવારે તેની તમામ ગાડીઓના ભાવમાં વધારાની જાહેરાત કરી છે. કંપની વિવિધ કાર મોડલ્સ પર ₹30,000 સુધીનો ભાવ વધારો કરશે. ત્યારે કંપની દ્વારા ભાવમાં કેમ વધારો કરવામાં આવ્યો છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/maruti-suzuki-car-prices-increased-by-up-to-30000-know-why-485361 ",
+    "time": "2026-07-21T11:42:12.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "IPOએ ચમકાવી કિસ્મત! SBI ફંડ્સના IPOથી 13 લોકો બન્યા કરોડપતિ, એકને તો મળ્યા પૂરા ₹121 કરોડ! જાણો",
     "desc": "SBI ફંડ્સ મેનેજમેન્ટના IPOના પ્રભાવશાળી લિસ્ટિંગથી 13 કર્મચારીઓ કરોડપતિ બન્યા છે. ડેપ્યુટી મેનેજિંગ ડિરેક્ટર દેવિન્દર પાલ સિંહને આશરે ₹121 કરોડના શેર અને CIO શ્રીનિવાસન રામા ઐયરને આશરે ₹105 કરોડના શેર મળ્યા. 2018માં શરૂ કરાયેલ ESOP પ્રોગ્રામે કર્મચારીઓને આ નોંધપાત્ર લાભ પૂરો પાડ્યો.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -369,15 +387,6 @@ const newsData_gu = [
     "time": "2026-07-20T00:33:55.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ઇંગ્લેન્ડમાં રોહિત શર્માનું તોફાન, લોર્ડ્સમાં સદી ફટકારનાર પ્રથમ ભારતીય; ઐતિહાસિક મેદાન પર રચ્યો નવો વર્લ્ડ રેકોર્ડ",
-    "desc": "રોહિત શર્માએ લોર્ડ્સના ઐતિહાસિક મેદાન પર સદી ફટકારીને ઈતિહાસ રચી દીધો છે. તેઓ આ મેદાન પર વનડે સદી ફટકારનાર પ્રથમ ભારતીય બન્યા છે. જાણો 'હિટમેન'ના નવા વર્લ્ડ રેકોર્ડ્સ અને ઈંગ્લેન્ડ સામેના શાનદાર પ્રદર્શન વિશે વિગતવાર.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/rohit-sharma-storms-in-england-first-indian-to-score-a-century-at-lords-creates-new-world-record-on-historic-ground-485177 ",
-    "time": "2026-07-19T17:51:52.000Z"
-  },
-  {
     "cat": "World",
     "title": "ઈમરાન ખાનની બહેનના ખુલાસાથી પાકિસ્તાનમાં રાજકીય ભૂકંપ, PAK સેનાની ખોલી પોલ",
     "desc": "પૂર્વ પ્રધાનમંત્રી ઈમરાન ખાનની બહેન નૌરીન નિયાઝીએ આપેલા નિવેદનથી પાકિસ્તાનમાં વિવાદ ઉભો થયો છે. એક ઇન્ટરવ્યુમાં નિયાઝીએ દાવો કર્યો હતો કે, મે 2025માં ભારતના ઓપરેશન સિંદૂર સામે પાકિસ્તાની સેના સંપૂર્ણપણે બેકફૂટ પર આવી ગઈ હતી.",
@@ -475,15 +484,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/maruti-suzuki-eeco-best-selling-car-in-van-segment-in-first-half-of-2026-485078 ",
     "time": "2026-07-18T16:15:37.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સરકારી કર્મચારીઓ માટે લોટરી! 8મા પગાર પંચમાં HRAમાં થઈ શકે છે મોટો વધારો, જાણો",
-    "desc": "8મા પગાર પંચ હેઠળ મૂળ પગારમાં વધારાની સાથે, હાઉસ રેન્ટ એલાઉન્સ (HRA)માં પણ મોટો વધારો શક્ય છે. એવો અંદાજ છે કે લેવલ 4થી લેવલ 6 સુધીના કેન્દ્રીય સરકારી કર્મચારીઓને ફિટમેન્ટ ફેક્ટરના આધારે દર મહિને 27,290 રૂપિયા સુધીનો HRA મળી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/lottery-for-government-employees-hra-may-see-a-big-increase-in-the-8th-pay-commission-know-485063 ",
-    "time": "2026-07-18T12:47:54.000Z"
   },
   {
     "cat": "Entertainment",
@@ -700,23 +700,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/horror-film-obsession-netflix-release-date-where-to-watch-obsession-movie-484441 ",
     "time": "2026-07-13T06:00:33.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ફક્ત સિમ કાર્ડ કાઢવા માટે નથી આ ઇજેક્ટર ટૂલ, વાઇ-ફાઇથી લઈને ઇયરબડ્સ સુધી બધું જ ઠીક કરી શકે છે આ નાની પિન!",
-    "desc": "સ્માર્ટફોન બોક્સમાં જોવા મળતું સિમ ઇજેક્ટર ટૂલ ઘણીવાર ઉપયોગ પછી ખોવાઈ જાય છે અથવા ખોવાઈ જાય છે. પરંતુ આ અદ્ભુત નાનું ટૂલ ફક્ત સિમ કાઢવા માટે જ નથી, તે Wi-Fi રાઉટર અને ઇયરબડ્સ જેવી તકનીકી સમસ્યાઓને ઝડપથી રીસેટ કરવા અને ઠીક કરવા માટે પણ એક સારૂ ઈમરજન્સી સાધન છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/this-ejector-tool-isnt-just-for-removing-sim-cards-this-little-pin-can-fix-everything-from-wi-fi-to-earbuds-484371 ",
-    "time": "2026-07-12T09:57:06.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "વધારે વોટના ચાર્જરથી ઓછા વોટનો ફોન ઝડપથી ચાર્જ થાય કે ચાર્જીંગ કરવું સેફ છે ? જાણો સાચો જવાબ",
-    "desc": "આપણે ઘણીવાર કામ પર કોઈ સંબંધી કે મિત્ર પાસેથી ચાર્જર માગીએ છીએ, જેથી આપણો ફોન ચાર્જ કરી શકીએ. પરંતુ સતત ચિંતા એ રહે છે કે, જો આપણો ફોન 18W ફાસ્ટ ચાર્જિંગને સપોર્ટ કરે છે, પણ આપણા મિત્રનું ચાર્જર 60Wને સપોર્ટ કરે છે તો શું? આજે આપણે આ અંગે ચર્ચા કરવા જઈ રહ્યા છીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/does-a-low-wattage-phone-charge-faster-with-a-high-wattage-charger-or-is-it-safe-to-charge-it-find-out-the-correct-answer-484368 ",
-    "time": "2026-07-12T09:35:10.000Z"
   }
 ];
