@@ -1,5 +1,158 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Unannounced midnight detention of train upsets pilgrims’ travel plans to Guruvayur",
+    "desc": "Passengers says travelling in the new Jan Shatabdi coach seats, which have little or no reclining angle, for four to six hours often results in back pain and a harrowing experience. The earlier trains had reclining seats with armrests.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/unannounced-midnight-detention-of-train-upsets-pilgrims-travel-plans-to-guruvayur/article71250101.ece",
+    "time": "2026-07-21T18:31:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Were Argentina under more pressure than usual? Messi's pep talks fuel fan theories – Watch",
+    "desc": "Fresh footage shows Lionel Messi urging Argentina to forget everything before the World Cup final. The team delivered a subdued performance and ultimately lost the match to Spain. Messi's repeated message has fueled speculation among fans and observers. Coach Lionel Scaloni also hinted at pre-match issues without elaboration. The viral videos continue to deepen the mystery surrounding the team's mindset.",
+    "img": "https://static.toiimg.com/photo/msid-132545415,imgsize-119165.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/were-argentina-under-more-pressure-than-usual-in-world-cup-final-lionel-messis-tunnel-pep-talks-fuel-fan-theories-watch/articleshow/132544967.cms",
+    "time": "2026-07-21T18:30:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rahul changed goalposts to end sit-in, says govt.; BJP terms protest at PM’s residence a ‘symbol of anarchy’",
+    "desc": "Union Minister Jitendra Singh, the government’s interlocutor, says the Congress leader initially agreed to suspend his protest if the paper leak issue was discussed in Parliament, but he later raised the demand for Pradhan’s ouster; Pradhan says Rahul exploiting students as a ‘political tool’",
+    "img": "https://th-i.thgim.com/public/incoming/fjm8ls/article71250650.ece/alternates/LANDSCAPE_1200/PTI07_21_2026_000461B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/sensitivity-of-protest-venue-stature-of-lop-led-to-quicker-talks-but-rahul-changed-goalposts-govt/article71250102.ece",
+    "time": "2026-07-21T18:19:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SIT formed to look into allegations against Art of Living, says Karnataka Deputy Chief Minister",
+    "desc": "The Karnataka government has constituted a 11-member Special Investigation Team led by Bengaluru Regional Commissioner Amlan Aditya Biswas to probe the alleged grabbing of government land by the Art of Living ashram and its affiliate organisations on the outskirts of Bengaluru",
+    "img": "https://th-i.thgim.com/public/incoming/r6cyi6/article71250929.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-21%20at%2012.14.39.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/sit-formed-to-look-into-allegations-against-art-of-living-says-karnataka-deputy-chief-minister/article71250381.ece",
+    "time": "2026-07-21T17:59:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "FIFA World Cup 2026",
+    "desc": "After clinching the FIFA World Cup in 2010 and the European Championship in 2008 and 2012 with the philosophy of tiki-taka, La Roja suffered a decline in successive global events from 2014 to 2022. Under coach Luis de la Fuente, the Spaniards have added more fluidity to their possession-based approach and reaped the ultimate reward of a second World Cup triumph",
+    "img": "https://th-i.thgim.com/public/incoming/j0w7d1/article71250917.ece/alternates/LANDSCAPE_1200/2286794142.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-spain-refines-its-style-rekindles-winning-spree/article71250916.ece",
+    "time": "2026-07-21T17:58:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'We owe students more than outrage': Education minister Pradhan slams Cong protest",
+    "desc": "Union education minister Dharmendra Pradhan accused Rahul Gandhi and Congress of exploiting students politically. He stated they staged a protest outside the Prime Minister's residence, causing public inconvenience. The minister added that Congress chose spectacle over democratic debate and solutions for students. He emphasized the government's commitment to discussing NEET and addressing youth concerns. The government aims to provide answers, reforms, and accountability to students.",
+    "img": "https://static.toiimg.com/photo/msid-132543979,imgsize-136676.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/we-owe-students-more-than-outrage-pradhan-slams-congress-protest-outside-pm-house/articleshow/132543988.cms",
+    "time": "2026-07-21T17:46:33.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump says will be hitting Pickaxe Mountain area 'pretty soon'",
+    "desc": "Trump says U.S. 'not finished at all' with Iran while U.S. strikes come as ships attacked; nearly 100 U.S. injuries since early July; Yemen rebels threaten attacks on other Mideast waterway; a glimmer of hope for diplomacy",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-21-july-2026-bahrain-kuwait-donald-trump-live-news/article71247944.ece",
+    "time": "2026-07-21T17:44:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India's growth remains strong, but trade barriers threaten 2047 goal: WTO",
+    "desc": "India's strong economic growth continues, but structural reforms are needed for developed nation status. High trade costs and regulatory complexity present significant challenges to global integration. The World Trade Organization report notes progress in trade facilitation and financial inclusion. India is actively pursuing free trade agreements to boost its export strategy. Achieving a larger share of global exports requires balancing self-reliance with greater openness.",
+    "img": "https://static.toiimg.com/photo/msid-132542516,imgsize-73006.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-growth-remains-strong-but-trade-barriers-threaten-2047-goal-wto/articleshow/132542403.cms",
+    "time": "2026-07-21T17:38:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Godzilla vs Kong actor Kaylee Hottle dies at 18 in car crash",
+    "desc": "The New Empire, has died. She was 18. Hottle died following a car accident in Frederick, Maryland, on Tuesday, July 21. Her father, Joshua Hottle, announced the news during a Facebook livestream in American Sign Language.",
+    "img": "https://static.toiimg.com/photo/msid-132543028,imgsize-45985.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kaylee-hottle-deaf-actor-who-played-jia-in-godzilla-vs-kong-and-godzilla-x-kong-dies-at-18-in-car-crash-her-father-confirms-heartbreaking-news/articleshow/132543006.cms",
+    "time": "2026-07-21T17:21:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Training gear, ceremony kits missing: Indian boxers hit by luggage chaos at CWG 2026",
+    "desc": "India's boxing contingent faces luggage delays before the 2026 Commonwealth Games. Several boxers and coaches arrived in Glasgow without essential training equipment and attire. This marks the second baggage issue encountered during their recent travel. Despite these challenges, the team aims for a strong medal performance. Indian boxing legend MC Mary Kom expressed confidence in the team's medal potential.",
+    "img": "https://static.toiimg.com/photo/msid-132542717,imgsize-283042.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/training-gear-opening-ceremony-kits-missing-indian-boxers-hit-by-luggage-chaos-ahead-of-cwg-2026/articleshow/132542629.cms",
+    "time": "2026-07-21T17:08:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "KMRL urged to repair Kochi metro diversion roads, ease bottlenecks",
+    "desc": "People’s representatives cite potholes, damaged road shoulders and worsening congestion on key diversion routes; residents seek widening of Vennala High School Junction and removal of encroachments from footpaths; metro agency says it has sought ₹7.5 crore from the State government to repair diversion roads and streamline traffic",
+    "img": "https://th-i.thgim.com/public/incoming/z4icex/article71250712.ece/alternates/LANDSCAPE_1200/10018_25_3_2024_19_22_15_2_VENNALA2.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kmrl-urged-to-repair-kochi-metro-diversion-roads-ease-bottlenecks/article71250318.ece",
+    "time": "2026-07-21T16:46:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Farmers breach Baldota factory premises during protest in Koppal",
+    "desc": "A protest organised as part of the 46th Farmers’ Martyrs’ Day turned tense near the Baldota factory on the Koppal-Bengaluru National Highway on Tuesday after hundreds of farmers breached the factory premises by breaking sections of the compound wall and damaging the main gate",
+    "img": "https://th-i.thgim.com/public/incoming/1dp0a4/article71250793.ece/alternates/LANDSCAPE_1200/10258_21_7_2026_20_55_48_1_KLB_FARMERS_AGITATION_BALDOTA_KOPPAL_1.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/farmers-breach-baldota-factory-premises-during-protest-in-koppal/article71249838.ece",
+    "time": "2026-07-21T16:45:18.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India-U.K. FTA creates predictability for businesses on both sides: City of London policy chief",
+    "desc": "The India-U.K. trade deal came into effect on July 15, 2026. In a written interview with The Hindu, Chris Hayward, Policy Chairman of the City of London Corporation, the U.K.’s financial and commercial hub, discusses the implications of the agreement, including what it means for manufacturing, infrastructure and financial services, as well as how investors can navigate changes in U.K. political leadership.",
+    "img": "https://th-i.thgim.com/public/incoming/6wm4ci/article71250730.ece/alternates/LANDSCAPE_1200/policy-chair-chris-hayward.x8d2accec.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/opinion/interview/india-uk-fta-creates-predictability-for-businesses-on-both-sides-city-of-london-policy-chief/article71248657.ece",
+    "time": "2026-07-21T16:37:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "H Vinoth interview",
+    "desc": "Filmmaker H. Vinoth speaks about his upcoming film Jana Nayagan, starring Tamil Nadu Chief Minister Vijay, the unwavering support he received from the star during the turbulent months the film endured, what success means for a politically charged film that unfortunately leaked online, and more.",
+    "img": "https://th-i.thgim.com/public/incoming/m4env2/article71250755.ece/alternates/LANDSCAPE_1200/a%20positive%20person.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-h-vinoth-interview-on-jana-nayagan-and-thalapathy-vijays-support-during-testing-times/article71250750.ece",
+    "time": "2026-07-21T16:33:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "How Congress surprised its own MPs, govt with protest outside PM's residence",
+    "desc": "Congress leaders staged a protest at Prime Minister Narendra Modi's residence. They demanded the resignation of the Prime Minister and education minister. Many party leaders were unaware of the protest plan beforehand. Police forcibly removed Rahul Gandhi and Priyanka Gandhi from the site. The government sent officials to persuade the opposition leaders to leave.",
+    "img": "https://static.toiimg.com/photo/msid-132541921,imgsize-1464364.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/the-sudden-dharna-how-congress-surprised-its-own-mps-govt-with-protest-outside-pms-residence/articleshow/132541825.cms",
+    "time": "2026-07-21T16:33:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lionel Messi returns home to Rosario; fans wait hours for a glimpse",
+    "desc": "Lionel Messi returned to his hometown of Rosario for rest after Argentina's World Cup final defeat. Hundreds of supporters gathered early hoping to see their captain, but he did not make a public appearance. Messi's SUV was glimpsed as it departed the airport for his family's residence. He also plans to reunite with his father who was undergoing medical treatment.",
+    "img": "https://static.toiimg.com/photo/msid-132541569,imgsize-126728.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/watch-lionel-messi-returns-home-to-rosario-after-world-cup-heartbreak-fans-wait-hours-for-a-glimpse/articleshow/132541426.cms",
+    "time": "2026-07-21T16:26:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "AAP accuses Congress of trying to weaken CJP-led protest",
+    "desc": "Former Delhi Chief Minister Atishi questioned how Mr. Gandhi was “allowed” to protest outside the PM’s residence while the CJP demonstration was being suppressed; the party accused the BJP and Congress of being ‘one unit’",
+    "img": "https://th-i.thgim.com/public/incoming/93bk4k/article71250255.ece/alternates/LANDSCAPE_1200/20260721570L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/aap-takes-dig-at-congress-dharna-outside-pms-residence-says-rahul-undermining-cjp-protest/article71250100.ece",
+    "time": "2026-07-21T16:24:09.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Maruti Suzuki to increase prices from August as input costs rise",
     "desc": "With inflationary burdens now at elevated levels and the adverse cost environment continuing, the company is constrained to pass on a portion of the increased costs to the market, Maruti Suzuki India Ltd stated in a filing",
@@ -7,6 +160,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/maruti-suzuki-to-increase-prices-from-august-as-input-costs-rise/article71250038.ece",
     "time": "2026-07-21T16:18:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Monsoon Session will be washed out': Congress warns Centre over NEET leak, police action on youth protesters",
+    "desc": "Congress warns of a Parliament washout if discussions on NEET-UG paper leak are refused. Opposition leaders were detained after protesting outside the Prime Minister's residence. They demand a statement from the Home Minister on police actions against students. The party also calls for the resignation of the Union Education Minister. Opposition unity highlights growing concerns over examination controversies and alleged police excesses.",
+    "img": "https://static.toiimg.com/photo/msid-132541349,imgsize-43884.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/monsoon-session-will-be-washed-out-congress-warns-centre-over-neet-leak-police-action-on-youth-protesters/articleshow/132541314.cms",
+    "time": "2026-07-21T16:16:32.000Z"
   },
   {
     "cat": "Politics",
@@ -27,15 +189,6 @@ const newsData_en = [
     "time": "2026-07-21T16:10:23.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Sensitivity of protest venue, stature of LoP led to quicker talks, but Rahul changed goalposts: Govt",
-    "desc": "Union Minister of State for the Prime Minister’s Office (PMO) Jitendra Singh, the government’s interlocutor, met LoP Rahul Gandhi at the sit-in; Mr. Singh says Mr. Gandhi initially agreed to suspend the dharna but later also raised the demand of Dharmendra Pradhan’s ouster as Education Minister; to this, Mr. Singh said it did ‘behove an LoP to change stance’",
-    "img": "https://th-i.thgim.com/public/incoming/fjm8ls/article71250650.ece/alternates/LANDSCAPE_1200/PTI07_21_2026_000461B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/sensitivity-of-protest-venue-stature-of-lop-led-to-quicker-talks-but-rahul-changed-goalposts-govt/article71250102.ece",
-    "time": "2026-07-21T16:09:24.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Pranesh stuns Gukesh again, Nihal downs Erigaisi at Chennai Grand Masters",
     "desc": "GM M Pranesh defeated world champion D Gukesh for a second time. GM Nihal Sarin secured a crucial victory against Arjun Erigaisi in Round 6. French Grandmaster Alireza Firouzja moved into sole lead after drawing his game. Erigaisi's defeat left him tied with Abdusattorov on 3.5 points. The elite tournament features top grandmasters and carries significant prize money.",
@@ -45,13 +198,13 @@ const newsData_en = [
     "time": "2026-07-21T15:51:27.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "India-U.K. FTA creates predictability for businesses on both sides: City of London policy chief",
-    "desc": "The India-U.K. trade deal came into effect on July 15, 2026. In a written interview with The Hindu, Chris Hayward, Policy Chairman of the City of London Corporation, the U.K.’s financial and commercial hub, discusses the implications of the agreement, including what it means for manufacturing, infrastructure and financial services, as well as how investors can navigate changes in U.K. political leadership.",
-    "img": "https://th-i.thgim.com/public/incoming/w4zmrq/article71248952.ece/alternates/LANDSCAPE_1200/IMG_Chris_Hayward_2_1_UDESCVI3.jpg",
+    "cat": "Entertainment",
+    "title": "Prime Video original ‘Phoolan’ to be screened at Toronto International Film Festival",
+    "desc": "Directed by Richie Mehta and inspired by the true story of Phoolan Devi, the film tells the story of a defining chapter in her life, where thousands of men trap her in a village in an attempt to kill her",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/nakys7/article71248977.ece/alternates/LANDSCAPE_1200/Phoolan.jpeg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/opinion/interview/india-uk-fta-creates-predictability-for-businesses-on-both-sides-city-of-london-policy-chief/article71248657.ece",
-    "time": "2026-07-21T15:45:21.000Z"
+    "url": "https://www.thehindu.com/entertainment/movies/prime-video-phoolan-toronto-international-film-festival-tiff-richie-mehta-phoolan-devi-bandit-queen/article71248980.ece",
+    "time": "2026-07-21T15:48:34.000Z"
   },
   {
     "cat": "Sports",
@@ -72,24 +225,6 @@ const newsData_en = [
     "time": "2026-07-21T15:44:39.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Local bodies identified as human-wildlife conflict zones in Kerala under risk assessment",
-    "desc": "A preliminary assessment that has mapped panchayats and municipalities in terms of risks associated with wildlife incursions and attacks has classified nine local bodies as very high conflict-prone areas, 21 as high and remaining 243 as medium conflict-prone zones",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/local-bodies-identified-as-human-wildlife-conflict-zones-in-kerala-under-risk-assessment/article71250307.ece",
-    "time": "2026-07-21T15:34:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Andhra Pradesh Tourism bags ‘Best Wedding Destination Emerging State’ award",
-    "desc": "Tourism Minister Kandula Durgesh receives the award at the International Wedding and Tourism Conclave in Jaipur; Deputy CM Pawan Kalyan says it reflects the tourism potential of the State and is a testament to the government’s vision towards promoting State as a premier tourism destination",
-    "img": "https://th-i.thgim.com/public/incoming/77yvu1/article71250428.ece/alternates/LANDSCAPE_1200/10745_21_7_2026_20_22_20_1_IMG_20260721_WA0066.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-tourism-bags-best-wedding-destination-emerging-state-award/article71250214.ece",
-    "time": "2026-07-21T15:26:22.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Football is simple for complete midfielder Rodri",
     "desc": "The Spanish captain, who led La Roja to their second world crown, could’ve easily been overlooked for the Golden Ball honours for the glamorous numbers of Messi (eight goals & four assists) or Mbappe (10 & four)",
@@ -99,15 +234,6 @@ const newsData_en = [
     "time": "2026-07-21T15:13:11.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Anantapur set to become garbage-free with new waste processing plant",
-    "desc": "Inspecting the municipal dumping yard on Gooty road, SACL Chairman and Anantapur Urban MLA say Swachh Andhra Corporation is set to establish a plant capable of processing 170 metric tonnes of waste daily at a cost of ₹17.50 crore",
-    "img": "https://th-i.thgim.com/public/incoming/x722qh/article71250351.ece/alternates/LANDSCAPE_1200/10745_21_7_2026_20_23_7_1_IMG_20260721_WA0067.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/anantapur-set-to-become-garbage-free-with-new-waste-processing-plant/article71249758.ece",
-    "time": "2026-07-21T15:10:49.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "H Vinoth clarifies 'Jana Nayagan' political message",
     "desc": "Director H Vinoth's 'Jana Nayagan' takes on the theme of democracy and the importance of serving the populace, steering clear of any specific political critique. This film is particularly significant as it represents Vijay’s last cinematic endeavor prior to his anticipated political role as Chief Minister. Despite challenges such as censorship hurdles and an early online leak, the action drama features captivating performances from Pooja Hegde and Bobby Deol.",
@@ -115,15 +241,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-director-h-vinoth-clarifies-cm-vijay-starrers-political-message-it-doesnt-target-any-individual-or-party/articleshow/132540035.cms",
     "time": "2026-07-21T15:10:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Document writers protest against alleged privatisation of registration services",
-    "desc": "They sit in protest at the Sub Registrar’s office in Proddatur, announce that they will not extend their services until the end of the month; YSRCP leader expresses solidarity, flays State government for allegedly privatising every available service",
-    "img": "https://th-i.thgim.com/public/incoming/ory5iw/article71250229.ece/alternates/LANDSCAPE_1200/10745_21_7_2026_18_48_3_1_IMG_20260721_WA0055.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/document-writers-protest-against-alleged-privatisation-of-registration-services/article71249897.ece",
-    "time": "2026-07-21T15:07:44.000Z"
   },
   {
     "cat": "Entertainment",
@@ -142,15 +259,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/its-embarrassing-argentinas-world-cup-final-conduct-under-fresh-scrutiny-after-viral-clip-emerges/articleshow/132539896.cms",
     "time": "2026-07-21T15:01:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "AAP takes dig at Congress' dharna outside PM's residence, says Rahul 'undermining' CJP protest",
-    "desc": "Delhi AAP chief Saurabh Bharadwaj also attacked the Congress, alleging that its leaders were silent on the ongoing movement, while their social media handles and influencers aligned to them have been trying to “weaken” the CJP protest",
-    "img": "https://th-i.thgim.com/public/incoming/93bk4k/article71250255.ece/alternates/LANDSCAPE_1200/20260721570L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/aap-takes-dig-at-congress-dharna-outside-pms-residence-says-rahul-undermining-cjp-protest/article71250100.ece",
-    "time": "2026-07-21T14:55:53.000Z"
   },
   {
     "cat": "Entertainment",
@@ -232,15 +340,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/watch-rahul-gandhi-dragged-away-forcibly-removed-from-protest-site-pics-show-nosebleed/articleshow/132538590.cms",
     "time": "2026-07-21T14:07:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "A grand spectacle though not without flaws",
-    "desc": "The quadrennial showpiece captured the imagination of the Americans in an extraordinary summer; the leading players largely lived up to expectations in the expanded edition; there were moments when it resembled the beautiful game was taken over by the US",
-    "img": "https://th-i.thgim.com/public/incoming/5seu1v/article71249800.ece/alternates/LANDSCAPE_1200/GettyImages-2286807029.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-a-grand-spectacle-though-not-without-flaws/article71249621.ece",
-    "time": "2026-07-21T13:45:51.000Z"
   },
   {
     "cat": "Sports",
@@ -352,15 +451,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Prime Video original ‘Phoolan’ to be screened at Toronto International Folm Festival",
-    "desc": "Directed by Richie Mehta and inspired by the true story of Phoolan Devi, the film tells the story of a defining chapter in her life, where thousands of men trap her in a village in an attempt to kill her",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/nakys7/article71248977.ece/alternates/LANDSCAPE_1200/Phoolan.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/prime-video-phoolan-toronto-international-film-festival-tiff-richie-mehta-phoolan-devi-bandit-queen/article71248980.ece",
-    "time": "2026-07-21T12:04:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Janhvi Kapoor stuns in Rs 5 lakh Ralph Lauren look at Lord's ODI",
     "desc": "Janhvi Kapoor turned up for the India vs England ODI in a fully tailored Ralph Lauren look, pairing a striped wool jacket with wide-leg trousers, a tie-neck blouse, lambskin mules, and tortoiseshell sunglasses. Here's a full breakdown of what she wore and what each piece costs.",
     "img": "https://static.toiimg.com/photo/msid-132536032,imgsize-79166.cms",
@@ -468,15 +558,6 @@ const newsData_en = [
     "time": "2026-07-21T10:51:34.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Meet the defending champs heading to World C'ships in Delhi",
-    "desc": "The BWF World Championships return to India after seventeen years. Five reigning champions arrive in New Delhi with pressure to defend their titles. Shi Yu Qi and Akane Yamaguchi aim to retain their singles crowns. Kim Won Ho/Seo Seung Jae and Liu Sheng Shu/Tan Ning also defend doubles titles. Chen Tang Jie/Toh Ee Wei seek to prove their mixed doubles win was just the start.",
-    "img": "https://static.toiimg.com/photo/msid-132534343,imgsize-146107.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/badminton/akane-yamaguchi-to-shi-yu-qi-meet-the-defending-champions-heading-to-bwf-world-championships-in-delhi/articleshow/132534247.cms",
-    "time": "2026-07-21T10:49:20.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Rekha never said don't touch me here, won't give another retake,' Shekhar Suman on debut film Utsav",
     "desc": "Shekhar Suman fondly recalled his Bollywood debut opposite Rekha in Utsav. He shared how Rekha made him feel comfortable during intimate scenes. Suman also reminisced about working with Madhuri Dixit in his second film. He accepted supporting roles and played a negative character in Naache Mayuri. Audiences disliking his role in Pati Parmeshwar was a compliment.",
@@ -511,42 +592,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/andhra-pradesh/balakrishna-tears-knee-muscle-in-fall-on-nbk-111-sets-to-undergo-minor-surgery/article71248680.ece",
     "time": "2026-07-21T10:34:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'If someone dies .... ': Delhi Police probes alleged chats ahead of CJP's 'Sansad Chalo' march",
-    "desc": "Delhi Police are examining alleged chat messages from the Cockroach Janta Party's protest march. These conversations reportedly discussed maintaining communication during potential internet shutdowns. Some messages also referred to participants being prepared to sacrifice their lives for the cause. Investigators are verifying the authenticity and origin of these digital communications. Multiple FIRs have been registered as the probe into the violent clashes continues.",
-    "img": "https://static.toiimg.com/photo/msid-132533954,imgsize-187532.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/if-someone-dies-delhi-police-probes-alleged-chats-ahead-of-cjps-sansad-chalo-march/articleshow/132533757.cms",
-    "time": "2026-07-21T10:28:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Why are farmers protesting again",
-    "desc": "Farmers from Punjab were stopped at the Shambhu border while heading to Delhi. They are protesting the proposed India-United States trade deal announced in February. Their primary concern involves the agriculture and dairy sectors within the agreement. Farmers fear cheaper US imports will lower domestic crop prices significantly. They also demand a legal guarantee on Minimum Support Price for their produce.",
-    "img": "https://static.toiimg.com/photo/msid-132533735,imgsize-72412.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/stopped-at-shambhu-border-on-way-to-delhi-why-are-farmers-protesting-again/articleshow/132533704.cms",
-    "time": "2026-07-21T10:28:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I wasn't able to see ': Samson recalls Rohit's Advice after being dropped",
-    "desc": "Sanju Samson initially doubted Rohit Sharma's encouraging words during the T20 World Cup. He admitted to not believing his captain's reassurances at that difficult time. Samson then focused on self-reflection and rediscovering his purpose as a cricketer. This introspection helped him regain his confidence and mental strength. He eventually delivered a significant performance against the West Indies.",
-    "img": "https://static.toiimg.com/photo/msid-132533382,imgsize-51946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-wasnt-able-to-see-what-he-was-seeing-sanju-samson-recalls-rohit-sharmas-advice-after-being-dropped-during-t20-wc/articleshow/132533250.cms",
-    "time": "2026-07-21T10:24:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Sonia Gandhi reaches police station after Rahul, Priyanka detained near PM residence",
-    "desc": "Congress leaders marched to Prime Minister's residence demanding his and the Education Minister's resignation. They protested brutalities against students and demanded accountability for examination irregularities. Police detained several senior Congress leaders during the demonstration in New Delhi. Rahul and Priyanka Gandhi met injured students admitted at Ram Manohar Lohia Hospital. The party stated students' demands are clear regarding paper leaks and ministerial responsibility.",
-    "img": "https://static.toiimg.com/photo/msid-132541128,imgsize-964488.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/rahul-priyanka-lead-congress-protest-outside-pm-modis-residence-demand-his-resignation/articleshow/132533442.cms",
-    "time": "2026-07-21T10:13:38.000Z"
   },
   {
     "cat": "Entertainment",
@@ -612,15 +657,6 @@ const newsData_en = [
     "time": "2026-07-21T09:06:21.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Raghav breaks silence on viral video of making Shehnaaz sit on his lap that led to dating rumours",
-    "desc": "Raghav Juyal clarified his protective actions towards Shehnaaz Gill during his birthday celebration. He stated his upbringing instilled values of protecting women, which guided his instinct. Shehnaaz Gill also addressed dating rumors, calling Raghav a close friend. She urged fans to support his upcoming film, Bhai Tera Star Hai. Both actors are currently focused on their professional endeavors.",
-    "img": "https://static.toiimg.com/photo/msid-132532146,imgsize-232120.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/raghav-juyal-breaks-silence-on-viral-video-of-protecting-shehnaaz-gill-from-crowd-and-making-her-sit-on-his-lap-which-sparked-dating-rumours/articleshow/132532142.cms",
-    "time": "2026-07-21T08:55:28.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Why inflation is rising in India",
     "desc": "India’s recent inflation surge has been driven mainly by higher fuel costs and food price pressures rather than excess demand; food inflation stems largely from supply shocks such as poor monsoons, while rising oil prices have pushed up production costs and manufactured goods inflation",
@@ -639,15 +675,6 @@ const newsData_en = [
     "time": "2026-07-21T08:46:05.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "FIFA World Cup 2026",
-    "desc": "It was here in MetLife in 2016, when Messi had missed in the Copa America final shootout against Chile and announced his international retirement before making a comeback 47 days later to complete his redemption arc",
-    "img": "https://th-i.thgim.com/public/sport/1wbue5/article71246578.ece/alternates/LANDSCAPE_1200/MESSI.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-messi-leaves-the-world-cup-as-its-most-enduring-presence/article71246571.ece",
-    "time": "2026-07-21T08:42:07.000Z"
-  },
-  {
     "cat": "World",
     "title": "Dream voyage ends in tragedy for Keralite as missile strike kills merchant navy officer weeks after wedding plans",
     "desc": "Akhil Joyan, a 26-year-old merchant navy officer from Kerala, was killed in a Russian missile strike on the MV Golden Leo near Odessa, Ukraine, just 40 days after returning to sea with plans to marry his fiancée next April.",
@@ -664,15 +691,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/aseans-top-diplomats-meet-in-shadow-of-us-iran-conflict/article71248361.ece",
     "time": "2026-07-21T08:13:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why Spain players cut the goal nets after winning World Cup",
-    "desc": "Spain celebrated their 2026 FIFA World Cup victory by cutting down goal nets. This tradition was borrowed from American basketball championship celebrations. Ferran Torres scored the winning goal in extra time against Argentina. Spain secured their second World Cup title after a dominant performance. The players took pieces of the net as souvenirs of their triumph.",
-    "img": "https://static.toiimg.com/photo/msid-132530946,imgsize-72603.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/explained-why-spain-players-cut-the-goal-nets-after-winning-fifa-world-cup-2026/articleshow/132530896.cms",
-    "time": "2026-07-21T07:45:29.000Z"
   },
   {
     "cat": "Business",
@@ -783,15 +801,6 @@ const newsData_en = [
     "time": "2026-07-20T22:05:24.000Z"
   },
   {
-    "cat": "Business",
-    "title": "RBI",
-    "desc": "RBI deputy governor Swaminathan J expressed concern over banks bypassing internal ombudsman. He stated that many customer grievances resolved by the RBI ombudsman were never referred internally. This situation undermines the purpose of the internal ombudsman framework, he noted. Banks must refer all eligible complaints promptly and without exception to their internal ombudsmen. Effective internal ombudsman performance should naturally reduce external escalations and provide customer resolutions.",
-    "img": "https://static.toiimg.com/photo/msid-132524414,imgsize-111386.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/not-referring-cases-to-internal-ombudsman-a-concern-rbi/articleshow/132524235.cms",
-    "time": "2026-07-20T22:03:28.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran hits out at Gulf neighbours as U.S. presses on with strikes",
     "desc": "Oil prices surged to a one-month high as the United States and Iran tussled for control of the vital strait, with Brent crude rising above $91 a barrel — the highest price since June 11",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/fifa-2026-world-cup-match-timings-ist-full-knockout-schedule-india-time/article71145665.ece",
     "time": "2026-07-20T01:42:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "cricket’s greatest — a legacy beyond numbers",
-    "desc": "The unchecked outpouring of grief at his passing, followed almost immediately by tales of his kindness and generosity, are testament to the standing he enjoys in the cricketing ecosystem in which he is the unquestioned emperor",
-    "img": "https://th-i.thgim.com/public/incoming/q52hrz/article71242664.ece/alternates/LANDSCAPE_1200/SOBERS%20ACTOR%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/garry-sobers-crickets-greatest-a-legacy-beyond-numbers/article71242653.ece",
-    "time": "2026-07-19T19:49:57.000Z"
   }
 ];
