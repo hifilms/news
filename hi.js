@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'I didn't believe him': Sanju Samson opens up on Rohit Sharma's advice, competition with Ishan Kishan",
+    "desc": "Star India batter Sanju Samson has had a roller coaster of a career. At the age of 31, Samson has experienced almost everything there is to experience. From squad snubs to IPL heroics, and capping...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/i-didn-t-believe-him-sanju-samson-opens-up-on-rohit-sharma-s-advice-competition-with-ishan-kishan-2026-07-21-1048965",
+    "time": "2026-07-21T13:37:22.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "R Ashwin brands Rohit and Kohli as 'untouchable', reflects on their future in ODI cricket",
     "desc": "The three-game ODI series between India and England ended in a disappointing defeat for the Indian team. The Men in Blue, after winning the first ODI of the series, succumbed to hefty losses in the...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/r-ashwin-gives-his-take-on-kuldeep-yadav-s-continued-absence-from-india-squad-after-england-series-loss-2026-07-20-1048858",
     "time": "2026-07-20T14:43:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Calcutta High Court orders arrest of wicket-keeper batter Abishek Porel over rape case",
-    "desc": "In a major development, the Calcutta High Court has come forward and ordered the immediate arrest of India wicket-keeper batter Abhishek Porel over a rape case. As part of the same ongoing case, the court...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/calcutta-high-court-orders-arrest-of-wicket-keeper-batter-abishek-porel-over-rape-case-2026-07-20-1048851",
-    "time": "2026-07-20T13:26:05.000Z"
   }
 ];
