@@ -1,5 +1,86 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "MrBeast marries Thea Booysen in private Caribbean wedding",
+    "desc": "YouTube superstar MrBeast, whose real name is Jimmy Donaldson, has married fellow content creator Thea Booysen in an intimate wedding ceremony on Richard Branson's Necker Island, surrounded by 70 of their closest friends and family. The couple, both 28, exchanged vows after a week-long celebration that began on July 14 at the 74-acre private island in the British Virgin Islands.",
+    "img": "https://static.toiimg.com/photo/msid-132546956,imgsize-124444.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/mrbeast-marries-thea-booysen-in-private-caribbean-wedding-on-richard-bransons-necker-island-couple-celebrates-with-week-long-festivities/articleshow/132546953.cms",
+    "time": "2026-07-21T21:51:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Devika, Prannoy lose on day 1 of China Masters",
+    "desc": "Devika, the Thailand Open Super 300 champion, rallied after dropping the opening game but could not sustain the momentum, losing 19-21, 21-19, 13-21 to World No. 20 Thailand's Busanan Ongbamrungphan in the women's singles opening round",
+    "img": "https://th-i.thgim.com/public/incoming/ckl7kn/article71251078.ece/alternates/LANDSCAPE_1200/EPAPERTH17DEVIKG1MFNIIT2.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/devika-prannoy-lose-on-day-1-of-china-masters/article71251050.ece",
+    "time": "2026-07-21T21:23:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Evenepoel wins time trial for back-to-back Tour de France stage victories, Pogacar still leads",
+    "desc": "Evenepoel completed the 26.1-kilometer individual time trial in 32 minutes, 19 seconds, more than a minute faster than Mattias Skjelmose, the previous quickest, before the Belgian rider waited to see Pogacar cross the line with the second-best effort of the day",
+    "img": "https://th-i.thgim.com/public/incoming/g89nrm/article71251073.ece/alternates/LANDSCAPE_1200/2026-07-21T190710Z_1744432417_RC2GIMAFZUZV_RTRMADP_3_CYCLING-FRANCE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/evenepoel-wins-time-trial-for-back-to-back-tour-de-france-stage-victories-pogacar-still-leads/article71251053.ece",
+    "time": "2026-07-21T21:09:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "FIFA investigates Argentina players confronting Spain''s on-field World Cup celebrations",
+    "desc": "Video replays showed several players involved in a scuffle, including Argentina midfielder Leandro Paredes. He appeared to shove Spain's Eric Garcia by the throat. When Spain substitute Gavi jumped in to intervene, Paredes pushed him to the ground",
+    "img": "https://th-i.thgim.com/public/incoming/jjs8am/article71251068.ece/alternates/LANDSCAPE_1200/2026-07-19T211601Z_1813200637_UP1EM7J1N2NNJ_RTRMADP_3_SOCCER-WORLDCUP-ESP-ARG.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/fifa-investigates-argentina-players-confronting-spains-on-field-world-cup-celebrations/article71251055.ece",
+    "time": "2026-07-21T20:58:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Study to evaluate impact of heat stress on health in Tamil Nadu and Karnataka",
+    "desc": "Participants will receive a digital watch to keep track of body temperature; 1,200 households roped in per site for the study; project to be taken up at Perungudi and Poompuhar in Tamil Nadu, and Sirwar and Chalakarre in Karnataka",
+    "img": "https://th-i.thgim.com/public/incoming/pmvz01/article71250415.ece/alternates/LANDSCAPE_1200/VSP25_SUMMER%201.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/study-to-evaluate-impact-of-heat-stress-on-health-in-tamil-nadu-and-karnataka/article71250181.ece",
+    "time": "2026-07-21T19:48:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Storage in Karnataka’s Cauvery reservoirs stands at 52% of total capacity as CWMA is set to review situation on July 22",
+    "desc": "The Cauvery Water Management Authority, which is the apex body that monitors implementation of Cauvery water release to lower riparian States as per the Supreme Court’s verdict, is meeting in Delhi to review the situation",
+    "img": "https://th-i.thgim.com/public/incoming/6bb7ug/article71251011.ece/alternates/LANDSCAPE_1200/KRS_01.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/storage-in-karnatakas-cauvery-reservoirs-stands-at-52-of-total-capacity-as-cwma-is-set-to-review-situation-on-july-22/article71250250.ece",
+    "time": "2026-07-21T19:22:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Karnataka High Court seeks State’s response on plea seeking CBI probe into ‘illegalities’ in KPSC recruitments",
+    "desc": "The High Court of Karnataka has directed the State government to file its response on a petition seeking a probe by the Central Bureau of Investigation (CBI) into the allegations of illegalities in the Karnataka State Public Service Commission recruitments to posts of Group A and B Gazetted Probationers and allegations against Shivashankar S. Sahukar, suspended chairperson.",
+    "img": "https://th-i.thgim.com/public/incoming/thmknh/article71251001.ece/alternates/LANDSCAPE_1200/Adult-unmarriedGFFG9D5QG.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-seeks-states-response-on-plea-seeking-cbi-probe-into-illegalities-in-kpsc-recruitments/article71249823.ece",
+    "time": "2026-07-21T19:16:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Government had no interest in debate': Rahul Gandhi on why Congress protested outside PM's residence",
+    "desc": "Rahul Gandhi addressed students and the Prime Minister concerning the NEET paper leak. He demanded a proper discussion in Lok Sabha about the examination system. The Congress party protested outside the Prime Minister's residence over the issue. Gandhi questioned the collapsing Indian education system and rising exam costs. He asserted the opposition stands with students for reforms and justice.",
+    "img": "https://static.toiimg.com/photo/msid-132546061,imgsize-1203501.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/government-had-no-interest-in-debate-rahul-gandhi-on-why-congress-protest-outside-pms-residence/articleshow/132545044.cms",
+    "time": "2026-07-21T19:15:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Health minister JP Nadda, MoS Jitendra Singh meet Sonam Wangchuk at Medanta Hospital: Report",
+    "desc": "Union ministers made a notable visit to activist Sonam Wangchuk, currently hospitalized at Medanta in Gurugram. This follows the Delhi High Court's ruling, which facilitated his urgent transfer from Safdarjung Hospital after his wife's appeal contested a previous decision. As Wangchuk enters the 24th day of his hunger strike, protests continue to erupt at Jantar Mantar over the alleged NEET paper leak.",
+    "img": "https://static.toiimg.com/photo/msid-132545869,imgsize-811934.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/health-minister-jp-nadda-mos-jitendra-singh-meet-sonam-wangchuk-at-medanta-hospital-report/articleshow/132545818.cms",
+    "time": "2026-07-21T19:07:44.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Unannounced midnight detention of train upsets pilgrims’ travel plans to Guruvayur",
     "desc": "Passengers says travelling in the new Jan Shatabdi coach seats, which have little or no reclining angle, for four to six hours often results in back pain and a harrowing experience. The earlier trains had reclining seats with armrests.",
@@ -180,15 +261,6 @@ const newsData_en = [
     "time": "2026-07-21T16:15:46.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Atchannaidu urges greater central support for agriculture in Andhra Pradesh",
-    "desc": "In a series of meetings with Vice-President C.P. Radhakrishnan, and Union Ministers Shivraj Singh Chouhan and Srinivasa Varma, the Agriculture Minister explains the coalition government’s initiatives to strengthen the sector, improve farmers’ incomes and accelerate economic growth",
-    "img": "https://th-i.thgim.com/public/incoming/dy8xi1/article71250663.ece/alternates/LANDSCAPE_1200/20260721611L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/atchannaidu-urges-greater-central-support-for-agriculture-in-andhra-pradesh/article71249409.ece",
-    "time": "2026-07-21T16:10:23.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Pranesh stuns Gukesh again, Nihal downs Erigaisi at Chennai Grand Masters",
     "desc": "GM M Pranesh defeated world champion D Gukesh for a second time. GM Nihal Sarin secured a crucial victory against Arjun Erigaisi in Round 6. French Grandmaster Alireza Firouzja moved into sole lead after drawing his game. Erigaisi's defeat left him tied with Abdusattorov on 3.5 points. The elite tournament features top grandmasters and carries significant prize money.",
@@ -333,15 +405,6 @@ const newsData_en = [
     "time": "2026-07-21T14:31:53.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Rahul Gandhi dragged away, forcibly removed from protest site; pics show nosebleed",
-    "desc": "Congress released videos showing dramatic scenes of senior leaders' detention. Rahul Gandhi was seen lying on the road during the protest. Priyanka Gandhi Vadra resisted boarding a police bus as she was pulled inside. Police forcibly removed and detained several opposition leaders outside the Prime Minister's residence. The protest occurred over the NEET issue and alleged police action on students.",
-    "img": "https://static.toiimg.com/photo/msid-132538685,imgsize-114962.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/watch-rahul-gandhi-dragged-away-forcibly-removed-from-protest-site-pics-show-nosebleed/articleshow/132538590.cms",
-    "time": "2026-07-21T14:07:50.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Conditions were challenging': Tilak Varma reveals what went wrong for India",
     "desc": "Tilak Varma discussed India's recent T20I series losses against Ireland and England. He cited adapting to overseas conditions as a significant challenge for the team. Varma emphasized the importance of staying calm and fostering a positive team environment. The team has learned valuable lessons from these difficult overseas campaigns. India aims to regain momentum by executing these learnings in upcoming matches.",
@@ -378,15 +441,6 @@ const newsData_en = [
     "time": "2026-07-21T12:53:12.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "AAP's 'jugalbandi' swipe as Rahul Gandhi protests near PM's residence; Congress responds",
-    "desc": "The AAP alleged a partnership between the BJP and Congress parties. This followed a Congress sit-in protest outside Prime Minister Modi's residence. Congress leaders demanded resignations from key government ministers. They declined an outreach attempt by Union minister Jitendra Singh. The CJP has been protesting at Jantar Mantar since June 21.",
-    "img": "https://static.toiimg.com/photo/msid-132537112,imgsize-156576.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bjp-jugalbandi-with-whom-aap-cong-in-war-of-words-over-rahul-gandhis-protest-outside-pms-home/articleshow/132537052.cms",
-    "time": "2026-07-21T12:49:56.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Argentina's Paredes breaks silence after World Cup final chaos vs Spain",
     "desc": "Leandro Paredes addressed the World Cup final chaos without apology. FIFA has initiated a disciplinary investigation into the post-match incidents. Television footage showed Paredes involved in altercations with Spanish players. Argentina's team also faced criticism for their actions after the match. The investigation could lead to retrospective sanctions for those involved.",
@@ -403,15 +457,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-rapper-arivu-detained-during-bid-to-protest-against-neet-near-secretariat-in-chennai-cm-vijay-meets-him/article71249166.ece",
     "time": "2026-07-21T12:39:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Sonam Wangchuk moved to private hospital, Congress protests at PM's house &amp; more",
-    "desc": "Sonam Wangchuk was moved to Medanta Hospital after a Delhi High Court order. Four Indian sailors died in a Russian missile attack off Odesa's coast. Rahul and Priyanka Gandhi led a Congress protest outside Prime Minister Modi's residence. E20 petrol may reduce older vehicle mileage but does not damage engines. Enzo Fernandez expressed pride in wearing Argentina's shirt after the World Cup final.",
-    "img": "https://static.toiimg.com/photo/msid-132536533,imgsize-141776.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-sonam-wangchuk-moved-to-private-hospital-congress-protests-at-pms-house-more/articleshow/132536270.cms",
-    "time": "2026-07-21T12:32:28.000Z"
   },
   {
     "cat": "Sports",
@@ -486,15 +531,6 @@ const newsData_en = [
     "time": "2026-07-21T11:34:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Article 370 means nothing without statehood': Omar Abdullah's reply to Mufti over J&amp;K special status demand",
-    "desc": "Jammu and Kashmir chief minister Omar Abdullah stated statehood is foundational for restoring special status. He questioned the meaning of Article 370 without statehood for power sharing. The opposition PDP declined an invitation to protest for Article 370 restoration. Abdullah assured people the National Conference remains committed to its promises. A new party strategy and program will be decided soon.",
-    "img": "https://static.toiimg.com/photo/msid-132535515,imgsize-72784.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/article-370-means-nothing-without-statehood-omar-abdullahs-reply-to-mufti-over-jk-special-status-demand/articleshow/132535512.cms",
-    "time": "2026-07-21T11:34:17.000Z"
-  },
-  {
     "cat": "World",
     "title": "Ed Miliband appointed U.K. Foreign Secretary, India-born Kanishka Narayan in charge of AI",
     "desc": "Jonathan Reynolds was named ‌Secretary ⁠of State for ⁠Business, Innovation, Science and Trade in an expanded role ​after losing his ‌position as business Minister to Peter Kyle in a reshuffle under ‌former Prime Minister ​Keir Starmer",
@@ -511,24 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mona-singh-on-choosing-meaningful-roles-and-right-script-over-quantity-i-dont-want-a-woman-to-be-kept-only-as-the-moral-compass/articleshow/132534388.cms",
     "time": "2026-07-21T11:03:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Times Prime's Aeonic partners with Sisters in Sweat to host premium mixed football tournament",
-    "desc": "Times Prime and Sisters In Sweat announced a mixed-gender football tournament in Mumbai. This event is curated by Aeonic, Times Prime's new wellness membership. The tournament will take place on Saturday, July 25, 2026, at the Wings Sports Centre. It aims to integrate holistic well-being and active sport into daily life. Leading wellness brands will enhance the participant experience with curated giveaways.",
-    "img": "https://static.toiimg.com/photo/msid-132534583,imgsize-110002.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/times-primes-aeonic-partners-with-sisters-in-sweat-to-host-premium-mixed-football-tournament/articleshow/132534486.cms",
-    "time": "2026-07-21T11:00:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'A tyrant must appear deeply religious. People are less likely to rebel because they think God is on his side'",
-    "desc": "Ancient philosopher Aristotle observed that tyrants often feign piety to quell fears of injustice among their subjects. This deception leads the populace to believe their ruler is favored by the divine, thus discouraging any thoughts of rebellion. Aristotle's reflections in Politics illuminate the significant impact of public perception on political authority, and his insights remain vital to contemporary political discourse, addressing the dynamics of power and governance.",
-    "img": "https://static.toiimg.com/photo/msid-132533243,imgsize-56304.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/quote-of-the-day-by-aristotle-a-tyrant-must-appear-deeply-religious-people-are-less-likely-to-rebel-because-they-think-god-is-on-his-side/articleshow/132533163.cms",
-    "time": "2026-07-21T11:00:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -637,15 +655,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-pre-sales-box-office-collection-cm-vijays-film-exceeds-rs-16-crore-in-india-trails-leo-and-goat/articleshow/132532580.cms",
     "time": "2026-07-21T09:26:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Celebrity acting coach John Kirby passes away at 75",
-    "desc": "Renowned acting coach John Kirby has died at seventy-five, leaving behind a legacy of mentorship that shaped many Hollywood icons. Diagnosed with ALS three years ago, he faced his illness with courage and grace. Tributes have poured in from friends and celebrities alike, reflecting on his profound influence on the film industry, which will resonate for years to come.",
-    "img": "https://static.toiimg.com/photo/msid-132532435,imgsize-333806.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/celebrity-acting-coach-john-kirby-son-of-actor-bruce-kirby-passes-away-at-75-his-fingerprints-are-everywhere-in-this-industry/articleshow/132532360.cms",
-    "time": "2026-07-21T09:17:26.000Z"
   },
   {
     "cat": "Sports",
@@ -790,15 +799,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/monetisation-of-assets-helps-nhai-pare-debt/articleshow/132524885.cms",
     "time": "2026-07-20T22:08:12.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Govt",
-    "desc": "The government has informed Parliament about no current plans to abolish long-term capital gains tax on equities. Tax policies are revised periodically as part of the annual budgetary process and legislative revisions. This statement addresses investor demands for changes in long-term capital gains tax rates. The minister clarified that tax rates for domestic and overseas investors in equities are the same.",
-    "img": "https://static.toiimg.com/photo/msid-132524706,imgsize-136807.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/no-move-to-scrap-ltcg-tax-on-equities-govt/articleshow/132524556.cms",
-    "time": "2026-07-20T22:05:24.000Z"
   },
   {
     "cat": "World",
