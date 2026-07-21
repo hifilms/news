@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "&amp;quot;તે ખૂબ કેરિંગ અને દયાળુ છે&amp;quot;: સગાઈના દિવસે કેતનના ગુણગાન ગાતી સિયાનો નવો વીડિયો સામે આવ્યો, જોઈને લોકો દંગ રહી ગયા!",
+    "desc": "સિયા ગોયલ અને તેના પ્રેમી ચેતન ચૌધરીએ 18 જૂને 26 વર્ષના કેતનની લોહાગઢ કિલ્લામાં ધક્કો મારી હત્યા કરી હતી. બંને આરોપી કસ્ટડીમાં છે અને તપાસ ચાલી રહી છે. આ વચ્ચે એક નવો વીડિયો સામે આવ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/chilling-before-the-tragedy-shocking-engagement-video-surfaces-as-siya-goyal-praises-fiance-ketan-agarwal-she-later-murdered-485312 ",
+    "time": "2026-07-21T05:37:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CJPનું મોટું એલાન: ધર્મેન્દ્ર પ્રધાનના રાજીનામા વગર પ્રદર્શન નહીં રોકાય, નડ્ડા સાથેની બેઠક પણ ફેલ!",
+    "desc": "કોકરોચ જનતા પાર્ટીના પ્રવક્તા આશુતોષ રાંકાએ જાહેરાત કરી છે કે સોનમ વાંગચુકની ભૂખ હડતાળ અને જંતર મંતર પર પાર્ટીનો વિરોધ ચાલુ છે. તેમણે દાવો કર્યો હતો કે જેપી નડ્ડા સાથેની ચાર કલાકની બેઠક અનિર્ણિત રહી. રાંકાએ જણાવ્યું હતું કે જ્યાં સુધી કેન્દ્રીય મંત્રી ધર્મેન્દ્ર પ્રધાન રાજીનામું ન આપે ત્યાં સુધી આંદોલન અને વિરોધ ચાલુ રહેશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/cjp-big-announcement-protests-will-not-stop-without-dharmendra-pradhan-resignation-meeting-with-nadda-also-failed-485304 ",
+    "time": "2026-07-21T03:35:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CJPના વિરોધ પ્રદર્શન બાદ હવે ખેડૂતોએ સરકાર સામે મોરચો માંડ્યો, હજારો ખેડૂતો કરી રહ્યા છે દિલ્હી કૂચ",
+    "desc": "આજે પંજાબથી મોટા પાયે ખેડૂતો શંભુ બોર્ડર પહોંચી રહ્યા છે. સીજેપીના વિરોધ પ્રદર્શન બાદ હવે આજે ખેડૂતોએ સરકાર સામે મોરચો માંડ્યો છે. દેશ બચાવો મોરચના આ્હવાન પર અમૃતસર અને ગુરુદાસપુરથી ખેડૂતોનો કાફલો બોર્ડર પર પહોંચી રહ્યો છે. ખેડૂતોને શું વાંકુ પડ્યું, કેમ વિરોધ પ્રદર્શન કરી રહ્યા છે તે પણ ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/farmers-march-to-delhi-large-number-of-kisans-reach-shambhu-border-485296 ",
+    "time": "2026-07-21T03:25:18.000Z"
+  },
+  {
     "cat": "World",
     "title": "યુક્રેનથી અનાજ લઈ જઈ રહેલા જહાજ પર ક્રૂઝ મિસાઈલ હુમલો, 4 ભારતીય નાગરિકો સહિત 10ના મોત; રશિયા પર ભડક્યું કીવ",
     "desc": "યુક્રેનના ઓડેસા બંદર પરથી અનાજ લઈને જઈ રહેલા એક કાર્ગો જહાજ પર હુમલાના સમાચાર સામે આવ્યા છે. પ્રારંભિક માહિતી મુજબ, હુમલામાં જહાજ પર સવાર 4 ભારતીય નાગરિકોના મોત થયા છે, જ્યારે એક અન્ય ગંભીર રીતે ઘાયલ છે.",
@@ -396,15 +423,6 @@ const newsData_gu = [
     "time": "2026-07-18T10:55:10.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "આઠમું પગાર પંચ: લેવલ 1થી 10 સુધીના કર્મચારીઓનો કેટલો વધી શકે પગાર? ગણતરીથી સમજો",
-    "desc": "કેન્દ્ર સરકારના કર્મચારીઓ આઠમાં પગાર પંચની ભલામણોની આતુરતાપૂર્વક રાહ જોઈ રહ્યા છે. જો કે હજુ સરકાર તરફથી સત્તાવાર રીતે ફિટમેન્ટ ફેક્ટર કે અન્ય કોઈ માહિતી અપાઈ નથી પરંતુ જો સાતમાં પગાર પંચમાં જે ફિટમેન્ટ ફિક્ટર હતું તે જ રહેવા દેવામાં આવે તો લેવલ 1થી લઈને 10 સુધીના કર્મચારીઓનો પગાર કેટલો વધી શકે તે ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/8th-pay-commission-what-will-be-the-basic-salary-of-level-1-to-10-if-fitment-factor-may-remain-same-485020 ",
-    "time": "2026-07-18T10:29:07.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "પ્રિયંકા ચોપડાને જન્મદિવસે મળી જોરદાર સરપ્રાઈઝ, વારાણસી ફિલ્મ મેકર્સે મંદાકિનીનો લુક કર્યો રીવીલ",
     "desc": "18 જુલાઈના રોજ પ્રિયંકા ચોપડા જોનસ તેનો 44 મો જન્મદિવસ ઉજવી રહી છે ત્યારે તેના ચાહકોને મોટી ગિફ્ટ મળી છે. આ ખાસ દિવસની વધારે ખાસ વારાણસી ફિલ્મના મેકર્સે બનાવ્યો છે. પ્રિયંકાના બર્થ ડે પર વારાણસી ફિલ્મના તેના લુકને રીવીલ કરવામાં આવ્યો છે.",
@@ -439,15 +457,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/south-suspence-movie-in-hindi-must-watch-suspence-thriller-movie-on-prime-video-kooman-485010 ",
     "time": "2026-07-18T06:56:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "સોનમ વાંગચુકની તબિયત લથડતા દિલ્હી પોલીસે હોસ્પિટલમાં દાખલ કર્યા, પત્નીએ આપ્યું અલ્ટીમેટમ",
-    "desc": "દિલ્હીના જંતર મંતર પર ભૂખ હડતાળ પર બેઠેલા સામાજિક કાર્યકર સોનમ વાંગચુકને દિલ્હી પોલીસ હાલ સફદરજંગ હોસ્પિટલ લઈ ગઈ છે. છેલ્લા 20 દિવસથી તેઓ ધરણા પર બેઠા હતા. તેમની શારીરિક સ્થિતિ સતત કથળી રહી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/big-breaking-sonam-wangchuk-taken-to-hospital-hunger-strike-cjp-latest-news-484989 ",
-    "time": "2026-07-18T05:31:41.000Z"
   },
   {
     "cat": "World",
@@ -621,15 +630,6 @@ const newsData_gu = [
     "time": "2026-07-13T15:56:19.000Z"
   },
   {
-    "cat": "World",
-    "title": "&amp;#039;આંખના બદલે આંખ&amp;#039;... અમેરિકાના હુમલાનો ઈરાને આપ્યો જડબાતોડ જવાબ, દુનિયાનું સૌથી મજબૂત સુરક્ષા કવચ અને અટેક સિસ્ટમ ક્ષણભરમાં ખાખ!",
-    "desc": "ઈરાને હાલમાં જ થયેલા અમેરિકાના હુમલાનો જડબાતોડ જવાબ આપ્યો છે. ઈરાની સેના અને IRGC (ઈસ્લામિક રિવોલ્યુશનરી ગાર્ડ કોર્પ્સ)એ બદલો લઈ લીધો છે. ઈરાની હુમલામાં એક અમેરિકી બેઝ આગમાં લપેટાઈ ગયો. આ હુમલામાં કેટલાક અમેરિકી સૈનિકોએ જીવ ગુમાવ્યો છે. જો કે, અમેરિકાની આર્મીની સેન્ટ્રલ કમાન્ડે આ વાતનું ખંડન કર્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/eye-for-eye-iran-gave-a-befitting-reply-to-america-attack-the-world-strongest-security-shield-and-attack-system-was-destroyed-in-an-instant-484535 ",
-    "time": "2026-07-13T14:57:54.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "ચોમાસામાં AC કેટલા ટેમ્પરેચર પર રાખવું જોઈએ? ભેજથી મળશે રાહત, વીજળીનું બિલ પણ ઘટશે, જાણો",
     "desc": "ચોમાસાની ઋતુ ગરમીથી રાહત આપે છે, પરંતુ ઘરોમાં ભેજ રહે છે. ભેજનો સામનો કરવા માટે, લોકો AC ચાલુ કરે છે, પરંતુ વધુ પડતી ઠંડી શરદી અને ઉધરસનું કારણ બની શકે છે. ચાલો સમજાવીએ કે ચોમાસાની ઋતુમાં એસી કયા ટેમ્પરેચરે સેટ કરવું જોઈએ?",
@@ -655,15 +655,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/horror-film-obsession-netflix-release-date-where-to-watch-obsession-movie-484441 ",
     "time": "2026-07-13T06:00:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "વીકેન્ડમાં ધમાલ 4 છવાઈ ગઈ બોક્સ ઓફિસ પર, 50 કરોડથી વધી ગયું બોક્સ ઓફિસ કલેકશન",
-    "desc": "અજય દેવગનની ફિલ્મ ધમાલ 4 બોક્સ ઓફિસ પર સારું પર્ફોમ કરી રહી છે. પહેલા દિવસે ફિલ્મને મિક્સ રીવ્યુ મળ્યા હોવા છતાં ધીરે ધીરે ફિલ્મની કમાણી રહી છે. ફિલ્મ રિલીઝ થઈ તેના 2 દિવસમાં જ બોક્સ ઓફિસ કલેકશન 50 કરોડથી વધી ગયું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/ajay-devgan-movie-dhamaal-4-weekend-box-office-collection-484385 ",
-    "time": "2026-07-12T12:49:45.000Z"
   },
   {
     "cat": "Tech",

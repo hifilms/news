@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Ruturaj Gaikwad named captain as West Zone announce squad for Duleep Trophy",
+    "desc": "The Duleep Trophy is all set to kick off on August 23, and ahead of the new season, the teams have started to reveal their squads for the event. West Zone joined the bandwagon as...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ruturaj-gaikwad-named-captain-as-west-zone-announce-squad-for-duleep-trophy-2026-07-21-1048902",
+    "time": "2026-07-21T05:42:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pat Cummins-Josh Hazlewood return as Australia name 13-man squad for Bangladesh Tests",
+    "desc": "In a major development, CA (Cricket Australia) has come forward and announced its 13-man squad for its upcoming two-game Test series against Bangladesh. It is worth noting that Australia and Bangladesh will take on each...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pat-cummins-josh-hazlewood-return-as-australia-name-13-man-squad-for-bangladesh-tests-2026-07-21-1048897",
+    "time": "2026-07-21T05:17:28.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Special Olympics Bharat wins bronze in Gothia Cup, coach calls for more practice matches for improvement",
     "desc": "The Special Olympics Bharat football team was felicitated in New Delhi on Monday, July 20, following their bronze medal victory at the Gothia Cup 2026 in Sweden. Notably, India secured a third-place finish in the...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/doesn-t-really-matter-rohit-sharma-puts-retirement-rumours-to-rest-in-explosive-interview-after-eng-series-2026-07-20-1048801",
     "time": "2026-07-20T07:01:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'The true protagonists': Luis de la Fuente hails his side as Spain clinch historic second World Cup title",
-    "desc": "Spain scripted history as they clinched their second FIFA World Cup title, defeating Argentina in the summit clash of the tournament. The two sides met at the New York-New Jersey Stadium on July 20th, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/the-true-protagonists-luis-de-la-fuente-hails-his-side-after-propelling-spain-to-historic-second-wc-title-2026-07-20-1048798",
-    "time": "2026-07-20T06:26:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Donald Trump lingers on podium in awkward moment as Spain lift FIFA World Cup, video goes viral",
-    "desc": "Spain celebrated their FIFA World Cup 2026 triumph in style after edging past defending champions Argentina 1-0 after extra time, but the biggest talking point after the final whistle was not just the trophy lift....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/donald-trump-lingers-on-podium-in-awkward-moment-as-spain-lift-fifa-world-cup-video-goes-viral-watch-2026-07-20-1048778",
-    "time": "2026-07-20T02:31:12.000Z"
   }
 ];
