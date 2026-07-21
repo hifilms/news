@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "હાઈથી સોનું 38000 અને ચાંદી 1.96 લાખ સસ્તી, આજે પણ ભાવમાં મોટી ઉથલપાથલ, જાણો આજનો ભાવ",
+    "desc": "સોના અને ચાંદીમાં વળી પાછો ઉછાળો જોવા મળી રહ્યો છે. ભારતીય બજારોમાં સોનું અને ચાંદી વધારા સાથે જોવા મળ્યા છે જ્યારે વૈશ્વિક બજારમાં પણ કોમેક્સ ગોલ્ડ અને સિલ્વરમાં ઉછાળો જોવા મળ્યો છે. જો કે હજુ પણ ઓલટાઈમ હાઈથી સોનું અને ચાંદી ઘણા સસ્તા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-are-still-very-cheap-from-all-time-highs-check-today-latest-gold-silver-price-485341 ",
+    "time": "2026-07-21T08:20:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "અમેરિકા-ભારત ટ્રેડ ડીલમાં એવું તો શું છે? જેના વિરોધમાં ખેડૂતોએ કરી દિલ્હી કૂચ, જાણો વિરોધનું અસલી કારણ",
+    "desc": "ભારત અને અમેરિકા વચ્ચે ટ્રેડ ડીલ અંગે વાતચીત ચાલી રહી છે. બંને દેશો મજબૂત વ્યૂહાત્મક ભાગીદારી જાળવી રાખીને વચગાળાના ડીલ પર કામ કરી રહ્યા છે. ટ્રમ્પ વહીવટીતંત્રનો ભાર બજાર પ્રવેશ પર છે, પરંતુ ભારત પોતાની શરતો પર કરાર પર આગ્રહ રાખી રહ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/what-is-there-in-the-us-india-trade-deal-farmers-marched-to-delhi-in-protest-know-the-real-reason-for-the-protest-485328 ",
+    "time": "2026-07-21T06:59:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "રેપ કેસમાં ફસાયો આ IPL ક્રિકેટર, યુવતીના મારપીટ-ધમકીના પણ આરોપ, કોર્ટેનો તાબડતોબ ધરપકડનો આદેશ",
+    "desc": "આઈપીએલમાં ધૂમ મચાવનારા એક ક્રિકેટરની પર મુસીબતો વધી છે. કોલકાતા હાઈકોર્ટે અભિષેક પોરેલ અને અન્ય એક આરોપીની તાબડતોબ ધરપકડના આદેશ આપ્યા છે. એક મેડિકલ વિદ્યાર્થીનીની ફરિયાદના આધારે નોંધાયેલા અપરાધિક મામલા સંબંધે આ આદેશ અપાયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-cricketer-abhishek-porel-in-trouble-calcutta-high-court-directs-immediate-arrest-485323 ",
+    "time": "2026-07-21T06:27:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CJP પ્રોટેસ્ટમાં પથ્થરબાજી અને તોડફોડ કરનારાઓ સામે કાયદાનો ચાબુક, નોંધાઈ FIR, જાણો વિગતો",
+    "desc": "દિલ્હીમાં આજે વિરોધ પ્રદર્શનનો ડબલ એટેક જોવા મળી રહ્યો છે. એક બાજુ જ્યાં કોકરોચ જનતા પાર્ટીનું વિરોધ પ્રદર્શન આજે પણ ચાલુ છે ત્યારે બીજી બાજુ ખેડૂતોએ પણ મોરચો ખોલ્યો છે. આ બધા વચ્ચે દિલ્હી પોલીસ પણ હવે કાર્યવાહીના મૂડમાં છે. બે અલગ અલગ પોલીસ મથકમાં એફઆઈઆર દાખલ થઈ છે. વધુ વિગતો માટે વાંચો અહેવાલ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/delhi-police-in-action-mode-fir-registered-in-parliament-street-cannaught-place-kartavya-path-485315 ",
+    "time": "2026-07-21T05:59:23.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "&amp;quot;તે ખૂબ કેરિંગ અને દયાળુ છે&amp;quot;: સગાઈના દિવસે કેતનના ગુણગાન ગાતી સિયાનો નવો વીડિયો સામે આવ્યો, જોઈને લોકો દંગ રહી ગયા!",
     "desc": "સિયા ગોયલ અને તેના પ્રેમી ચેતન ચૌધરીએ 18 જૂને 26 વર્ષના કેતનની લોહાગઢ કિલ્લામાં ધક્કો મારી હત્યા કરી હતી. બંને આરોપી કસ્ટડીમાં છે અને તપાસ ચાલી રહી છે. આ વચ્ચે એક નવો વીડિયો સામે આવ્યો છે.",
@@ -306,15 +342,6 @@ const newsData_gu = [
     "time": "2026-07-19T14:18:44.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "FIFA પ્રેસિડેંટના સંદેશ બાદ, ZEEના CEO પુનિત ગોયન્કાનો ઇમોશનલ પત્ર, કહ્યું: એક દિવસ, ભારત પણ રમશે વર્લ્ડ કપ",
-    "desc": "2026ના ફૂટબોલ વર્લ્ડ કપ ફાઇનલ પહેલા ફિફાના પ્રમુખ ગિયાની ઇન્ફન્ટિનોએ ઝી ટીવીને એક ખાસ સંદેશ મોકલ્યો હતો. તેના જવાબમાં, ઝીના સીઈઓ પુનિત ગોયેન્કાએ સમગ્ર ફિફા ટીમ, દર્શકો અને તેમના કર્મચારીઓ માટે એક ખૂબ જ ખાસ પત્ર લખ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/after-the-message-from-the-fifa-president-an-emotional-letter-from-zee-ceo-punit-goenka-said-one-day-india-will-also-play-the-world-cup-485149 ",
-    "time": "2026-07-19T12:25:25.000Z"
-  },
-  {
     "cat": "Business",
     "title": "જુલાઈમાં નહીં, તો ક્યારે મળશે કેન્દ્રીય કર્મચારીઓને મોંઘવારી ભથ્થાની ભેટ? જાણો ક્યારે થશે જાહેરાત",
     "desc": "શું જુલાઈમાં કેન્દ્રીય કર્મચારીઓ અને પેન્શનર્સનું મોંઘવારી ભથ્થું નહીં વધે? જો જુલાઈમાં જાહેરાત ન થઈ, તો આખરે ક્યારે આવશે આગામી ખુશખબર? 1 કરોડથી વધુ કેન્દ્રીય કર્મચારીઓ પગાર અને પેન્શનમાં વધારાની આતુરતાપૂર્વક રાહ જોઈ રહ્યા છે.",
@@ -396,15 +423,6 @@ const newsData_gu = [
     "time": "2026-07-18T16:15:37.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "જ્યારે જીવ હથેળી પર મૂકીને લડ્યા દેશના સપૂતો; જુઓ ભારતની ૯ સૌથી લાંબી અને ઐતિહાસિક ભૂખ હડતાળો",
-    "desc": "ભૂખ હડતાળ એ નબળાઈ નથી, પરંતુ બંધારણ અને ઇન્સાનની સૌથી મોટી તાકાત છે. ભારતના ઇતિહાસમાં જ્યારે-જ્યારે અન્યાય, સિસ્ટમની ખામીઓ કે પર્યાવરણ સામે ખતરો ઊભો થયો છે, ત્યારે-ત્યારે દેશના સપૂતો અને સામાજિક કાર્યકરોએ 'અનશન'ને જ પોતાનું સૌથી મોટું હથિયાર બનાવ્યું છે. રાષ્ટ્રપિતા મહાત્મા ગાંધી અને શહીદ ભગત સિંહના સમયથી શરૂ થયેલો આ અહિંસક પ્રતિકાર આજે પણ લદ્દાખના સોનમ વાંગચુક સુધી એટલો જ પ્રાસંગિક છે. ચાલો નજર કરીએ ભારતની એ ૯ સૌથી મોટી અને ઐતિહાસિક ભૂખ હડતાળો પર, જેણે દેશની રાજનીતિ, સમાજ અને કાયદાનો ઇતિહાસ બદલી નાખ્યો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/india-historic-hunger-strikes-from-mahatma-gandhi-anna-hazare-irom-sharmila-potti-sreeramulu-jatindra-nath-das-gd-agarwal-bhagatsinh-to-sonam-wangchuk-485065 ",
-    "time": "2026-07-18T13:32:41.000Z"
-  },
-  {
     "cat": "Business",
     "title": "સરકારી કર્મચારીઓ માટે લોટરી! 8મા પગાર પંચમાં HRAમાં થઈ શકે છે મોટો વધારો, જાણો",
     "desc": "8મા પગાર પંચ હેઠળ મૂળ પગારમાં વધારાની સાથે, હાઉસ રેન્ટ એલાઉન્સ (HRA)માં પણ મોટો વધારો શક્ય છે. એવો અંદાજ છે કે લેવલ 4થી લેવલ 6 સુધીના કેન્દ્રીય સરકારી કર્મચારીઓને ફિટમેન્ટ ફેક્ટરના આધારે દર મહિને 27,290 રૂપિયા સુધીનો HRA મળી શકે છે.",
@@ -466,15 +484,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/big-news-for-india-but-today-it-became-difficult-to-breathe-in-these-two-richest-countries-aqi-crossed-1000-484960 ",
     "time": "2026-07-17T13:20:08.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "18 જુલાઈએ બેંકો રહેશે બંધ! RBIએ કેમ જાહેર કરી રજા? જાણો કારણ",
-    "desc": "આવતીકાલે એટલે કે 18 જુલાઈના રોજ શનિવારના રોજ બેંકો બંધ રહેશે. જો તમે કાલે ત્રીજા શનિવારે, તમારું કામ પૂરું કરવા બેંક જવાનું વિચારી રહ્યા છો, તો પહેલા જાણો કે તમારા રાજ્યમાં બેંકો ખુલ્લી છે કે નહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/banks-will-remain-closed-on-july-18-why-did-rbi-declare-a-holiday-know-the-reason-484957 ",
-    "time": "2026-07-17T12:46:06.000Z"
   },
   {
     "cat": "World",
@@ -682,14 +691,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/good-news-for-suv-lovers-a-new-car-kia-sorento-is-coming-with-a-muscular-design-and-more-mileage-484292 ",
     "time": "2026-07-11T15:52:48.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "કરોડો Chrome યુઝર્સ માટે Googleનું એલર્ટ! મોડું થાય તે પહેલાં કરો આ કામ",
-    "desc": "Windows અને macOS પર 150.0.7871.114/.115 કરતાં જૂના Chrome વર્ઝન અને Linux પર 150.0.7871.114 પહેલાંના બધા વર્ઝન આ ખતરાના રડારમાં છે. આપણા દેશમાં કરોડો લોકો ગુગલ ક્રોમનો ઉપયોગ કરે છે, ત્યારે દેશના કરોડો લોકોએ આ માટે સાવધાની રાખવી જરૂરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/googles-alert-for-millions-of-chrome-users-do-this-before-its-too-late-484268 ",
-    "time": "2026-07-11T11:55:08.000Z"
   }
 ];

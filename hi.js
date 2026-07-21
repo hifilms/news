@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Katherine Sciver-Brunt named Trent Rockets' assistant coach ahead of The Hundred 2026",
+    "desc": "In a major development, The Hundred franchise, Trent Rockets Women, has come forward and named former England cricketer Katherine Sciver-Brunt as their new assistant coach ahead of the upcoming edition of The Hundred Women’s 2026. It...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/katherine-sciver-brunt-named-trent-rockets-assistant-coach-ahead-of-the-hundred-2026-2026-07-21-1048920",
+    "time": "2026-07-21T07:47:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "All you need to know about The Hundred 2026; Check Men's squads, schedule, and live streaming details",
+    "desc": "The stage is set for yet another edition of The Hundred 2026. The men's tournament will kick off on July 21st, and the season opener will see MI London taking on Sunrisers Leeds. The two...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/all-you-need-to-know-about-the-hundred-2026-check-men-s-squads-schedule-and-live-streaming-details-2026-07-21-1048910",
+    "time": "2026-07-21T06:45:15.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Ruturaj Gaikwad named captain as West Zone announce squad for Duleep Trophy",
     "desc": "The Duleep Trophy is all set to kick off on August 23, and ahead of the new season, the teams have started to reveal their squads for the event. West Zone joined the bandwagon as...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/not-told-us-anything-shubman-gill-opens-up-on-rohit-sharma-s-future-amid-ongoing-retirement-reports-2026-07-20-1048826",
     "time": "2026-07-20T09:31:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Something is missing': Shubman Gill calls for improved fitness within team India amid injury crisis",
-    "desc": "The Indian team succumbed to a hefty loss in the third ODI of the multi-format series against England; the Men in Blue ended up losing the series as they faced defeats in the second and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/something-is-missing-shubman-gill-calls-for-improved-fitness-within-team-india-amid-injury-crisis-2026-07-20-1048815",
-    "time": "2026-07-20T08:17:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Doesn't really matter': Rohit Sharma puts retirement rumours to rest in explosive interview after ENG series",
-    "desc": "The Indian team succumbed to a hefty loss in the third and final ODI of the series against England. The two sides met at the Lord’s Cricket Ground in London for the clash on July...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/doesn-t-really-matter-rohit-sharma-puts-retirement-rumours-to-rest-in-explosive-interview-after-eng-series-2026-07-20-1048801",
-    "time": "2026-07-20T07:01:30.000Z"
   }
 ];

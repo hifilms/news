@@ -1,6 +1,276 @@
 const newsData_en = [
   {
     "cat": "World",
+    "title": "ASEAN's top diplomats meet in shadow of U.S.-Iran conflict",
+    "desc": "Likely to be discussed also are tensions in the South China Sea, for which ASEAN ‌and China are, after nearly 10 years, still trying to conclude a code of ​conduct to prevent disputes from escalating",
+    "img": "https://th-i.thgim.com/public/incoming/o96uh4/article71248402.ece/alternates/LANDSCAPE_1200/CORRECTION_Philippines_ASEAN_33_78.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/aseans-top-diplomats-meet-in-shadow-of-us-iran-conflict/article71248361.ece",
+    "time": "2026-07-21T08:13:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Completely un-Indian': Rahul Gandhi demands PM Modi's apology over students' protest crackdown",
+    "desc": "Rahul Gandhi criticised Prime Minister Modi's silence on police action against students. Opposition leaders met the Lok Sabha Speaker demanding a parliamentary discussion. Protesters and police accused each other of violence during demonstrations. Students are protesting against the education and testing system's failures. The opposition vows to ensure students' voices are heard in Parliament.",
+    "img": "https://static.toiimg.com/photo/msid-132530883,imgsize-681438.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/completely-un-indian-rahul-gandhi-demands-pm-modis-apology-over-students-protest-crackdown/articleshow/132530450.cms",
+    "time": "2026-07-21T07:56:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Haryana government seals Shambhu border as farmers march to Delhi over India-US trade deal",
+    "desc": "A large police presence was deployed at the Punjab-Haryana border, while the bridge over the Ghaggar river was fenced off to stop the convoy from moving forward. Farmer leader Sarwan Singh Pandher accused the Haryana government of preventing protesters from exercising their democratic right to march peacefully to Delhi. He alleged that the action exposed the \"true face\" of chief minister Nayab Singh Saini",
+    "img": "https://static.toiimg.com/photo/msid-132531086,imgsize-280614.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/haryana-government-seals-shambhu-border-as-farmers-march-to-delhi-over-india-us-trade-deal/articleshow/132528521.cms",
+    "time": "2026-07-21T07:55:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'E20 petrol may cut mileage by up to 5%, but doesn't damage engines': Govt tells Parliament",
+    "desc": "In a written reply in the Rajya Sabha, Minister of State for Petroleum and Natural Gas Suresh Gopi said fuel economy is influenced by several factors, including driving style, vehicle maintenance, tyre pressure, wheel alignment and the use of air conditioning. The government said the drop in mileage for some older vehicles is generally limited to around 3 to 5 per cent.",
+    "img": "https://static.toiimg.com/photo/msid-132531108,imgsize-135138.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/e20-petrol-cuts-mileage-by-up-to-5-in-older-vehicles-govt-tells-parliament/articleshow/132530985.cms",
+    "time": "2026-07-21T07:53:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shekhar wants John Abraham as the next James Bond",
+    "desc": "Filmmaker Shekhar Kapur has pitched John Abraham as the next James Bond, questioning why 007 must remain a \"white British man.\" Speaking to Variety India, Kapur praised Abraham's effortless charisma and suave screen presence, saying he could deliver a \"phenomenal Bond\" if producers dare to take the franchise international.",
+    "img": "https://static.toiimg.com/photo/msid-132531038,imgsize-111484.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shekhar-kapur-wants-john-abraham-as-the-next-james-bond-why-must-bond-be-a-white-british-man/articleshow/132531038.cms",
+    "time": "2026-07-21T07:48:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why Spain players cut the goal nets after winning World Cup",
+    "desc": "Spain celebrated their 2026 FIFA World Cup victory by cutting down goal nets. This tradition was borrowed from American basketball championship celebrations. Ferran Torres scored the winning goal in extra time against Argentina. Spain secured their second World Cup title after a dominant performance. The players took pieces of the net as souvenirs of their triumph.",
+    "img": "https://static.toiimg.com/photo/msid-132530946,imgsize-72603.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/explained-why-spain-players-cut-the-goal-nets-after-winning-fifa-world-cup-2026/articleshow/132530896.cms",
+    "time": "2026-07-21T07:45:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Robbie Williams to headline Lytham Festival 2027",
+    "desc": "Robbie Williams, the pop sensation, is set to take center stage at Lytham Festival 2027, marking his only UK tour date for the year. Scheduled for July 3, 2027, this highly anticipated event will offer pre-sale tickets starting July 23, while general sales kick off on July 24. Currently, Williams is captivating audiences on his 'Europe' tour before venturing to other parts of the world.",
+    "img": "https://static.toiimg.com/photo/msid-132530978,imgsize-74464.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/lytham-festival-2027-robbie-williams-confirmed-as-the-first-headliner-of-the-upcoming-fest/articleshow/132530897.cms",
+    "time": "2026-07-21T07:44:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "SBI Funds Management listing makes some employees crorepatis; stock debuts at 7% premium to IPO price",
+    "desc": "SBI Funds Management made a strong debut on Dalal Street today, listing at a premium of around 7% over its IPO price. The stock opened at Rs 610 on the BSE, which is a gain of 6.27% from the issue price of Rs 574, while it listed at Rs 613.30 on the NSE.",
+    "img": "https://static.toiimg.com/photo/msid-132530974,imgsize-452614.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/sbi-funds-management-listing-makes-some-employees-crorepatis-stock-debuts-at-7-premium-to-ipo-price/articleshow/132530500.cms",
+    "time": "2026-07-21T07:44:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nagarjuna urges Tollywood to end last-minute release delays",
+    "desc": "Veteran actor Nagarjuna urged Tollywood to finish films well in advance. He stressed the need for films to be ready at least two weeks before release. Nagarjuna recalled a past era where films were completed much earlier. This call comes after the success meet for Akhil Akkineni's film Lenin. The industry faces frequent release date postponements, impacting audiences and filmmakers.",
+    "img": "https://static.toiimg.com/photo/msid-132530853,imgsize-213672.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/nagarjuna-urges-tollywood-to-end-last-minute-release-delays-at-lenin-event-we-must-finish-films-well-in-advance/articleshow/132530825.cms",
+    "time": "2026-07-21T07:37:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Identified, radicalised and recruited youths': ED raids 8 Bengaluru locations in IS case",
+    "desc": "The Enforcement Directorate conducted searches across eight Bengaluru locations today. These raids are connected to an IS recruitment and terror funding case. The investigation stems from an NIA FIR involving alleged IS recruitment activities. Accused individuals allegedly radicalized and recruited youths for the banned terrorist organization. Funds were collected and channelled to facilitate illegal travel for recruits to Syria.",
+    "img": "https://static.toiimg.com/photo/msid-132530832,imgsize-1646548.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/identified-radicalised-and-recruited-youths-ed-raids-8-bengaluru-locations-in-is-case/articleshow/132530799.cms",
+    "time": "2026-07-21T07:37:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Swara Bhasker alleges Mumbai Police detained husband Fahad Ahmad during CJP protest",
+    "desc": "Actress Swara Bhasker alleged her husband Fahad Ahmad was detained by Mumbai Police. Several other demonstrators were also taken into custody at Chaityabhoomi. Bhasker shared a video showing police escorting Ahmad from the protest site. The incident occurred during a demonstration coinciding with a Delhi protest. This event highlights ongoing social and political activism in India.",
+    "img": "https://static.toiimg.com/photo/msid-132530445,imgsize-71976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/swara-bhasker-alleges-mumbai-police-detained-husband-fahad-ahmad-during-cjp-protest-at-chaityabhoomi-shares-videos-online/articleshow/132530429.cms",
+    "time": "2026-07-21T07:22:45.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Goldman Sachs says crude prices could cross $120 if Strait of Hormuz disruptions continue",
+    "desc": "In a note dated July 20, Goldman Sachs analysts said, “Escalation in the Middle East and the decline in estimated Persian Gulf flows to below 45% of pre-war levels have pushed oil prices back up.”",
+    "img": "https://static.toiimg.com/photo/msid-132530225,imgsize-845348.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/new-warning-on-oil-goldman-sachs-says-crude-prices-could-cross-120-if-strait-of-hormuz-disruptions-continue/articleshow/132530173.cms",
+    "time": "2026-07-21T07:05:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I don't see it as a one-sided series': Raza warns India ahead of T20Is",
+    "desc": "Zimbabwe captain Sikandar Raza believes his team has an equal chance of beating India in the upcoming three-match T20I series. Citing recent wins over Australia, Sri Lanka and Bangladesh, Raza said both teams are in transition and expects a competitive contest. India enter the series after T20I losses to Ireland and England and an ODI defeat.",
+    "img": "https://static.toiimg.com/photo/msid-132530201,imgsize-199380.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/i-dont-see-it-as-a-one-sided-series-zimbabwe-captain-sikandar-raza-warns-india-ahead-of-t20is/articleshow/132530174.cms",
+    "time": "2026-07-21T07:03:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Riteish Deshmukh and Genelia Deshmukh stand with CJP's protest",
+    "desc": "In a demonstration advocating for education reforms and accountability in NEET, actors Riteish and Genelia Deshmukh stood with the youth protestors. The call for action garnered backing from numerous film personalities, underscoring the importance of the students' demands. A delegation met with Union Health Minister JP Nadda to outline their grievances. Unfortunately, veteran actor Shabana Azmi felt unwell during the rally.",
+    "img": "https://static.toiimg.com/photo/msid-132530172,imgsize-84942.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/riteish-deshmukh-and-genelia-deshmukh-stand-with-cjps-sansad-chalo-protest-say-youth-voices-deserve-to-be-heard-let-us-listen-support-and-empower-them/articleshow/132530151.cms",
+    "time": "2026-07-21T07:00:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Controversy! Ronaldo likes Insta post claiming FIFA helped Argentina reach final",
+    "desc": "Cristiano Ronaldo's Instagram account liked a post alleging FIFA aided Argentina's World Cup final journey. This incident adds to existing tournament controversies and questions about FIFA's integrity. Argentina's path to the final involved several close matches and dramatic comebacks. They ultimately lost the World Cup final to Spain after extra time. Ronaldo has not publicly commented on his social media activity.",
+    "img": "https://static.toiimg.com/photo/msid-132530143,imgsize-59170.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/another-controversy-cristiano-ronaldo-likes-instagram-post-claiming-fifa-helped-argentina-reach-world-cup-final/articleshow/132530141.cms",
+    "time": "2026-07-21T06:58:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Awarapan 2' title track 'Yeh Awarapan' out: Arijit , Amaal deliver an emotional melody",
+    "desc": "The makers released the title track 'Yeh Awarapan' for the upcoming film. Singer Arijit Singh and composer Amaal Malik collaborated on this new song. Emraan Hashmi's emotional performance is central to the music video's narrative. The film's first song 'Ve Junoon' achieved significant viewership and popularity. 'Awarapan 2' is scheduled for a worldwide theatrical release on August 14, 2026.",
+    "img": "https://static.toiimg.com/photo/msid-132529957,imgsize-240155.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/awarapan-2-title-track-yeh-awarapan-out-arijit-singh-amaal-malik-deliver-an-emotional-melody-striking-a-chord-with-fans/articleshow/132529946.cms",
+    "time": "2026-07-21T06:49:16.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "How will U.S. visa policy changes affect students, media professionals, and exchange visitors",
+    "desc": "The U.S. Department of Homeland Security cites national security risks from Indian and Chinese students and introduces changes in F, J and I categories of visas. PhD scholars, journalists, and exchange visitors will be impacted",
+    "img": "https://th-i.thgim.com/public/incoming/n0sipp/article71238979.ece/alternates/LANDSCAPE_1200/iStock-1136297692.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/how-will-us-visa-policy-changes-affect-students-media-professionals-and-exchange-visitors-explained/article71238137.ece",
+    "time": "2026-07-21T06:47:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mithun's daughter Dishani shares UNSEEN engagement pics with fiancé",
+    "desc": "Mithun Chakraborty's daughter Dishani Chakraborty shared unseen engagement photos with fiancé Myles Mantzaris, shot in Los Angeles. The romantic pictures show the couple embracing on a palm-lined street. Dishani expressed excitement about marrying Myles and thanked photographer Catherine Marie Taylor. No wedding date has been revealed, but preparations may be underway.",
+    "img": "https://static.toiimg.com/photo/msid-132529929,imgsize-269191.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mithun-chakrabortys-daughter-dishani-chakraborty-says-i-cant-wait-to-marry-you-in-unseen-engagement-pictures-with-fianc-myles-mantzaris-from-la/articleshow/132529929.cms",
+    "time": "2026-07-21T06:44:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abishek Porel faces arrest after Calcutta HC order in rape case",
+    "desc": "The Calcutta High Court has directed police to arrest Delhi Capitals cricketer Abishek Porel in a rape case and seize his electronic devices to prevent the alleged circulation of sensitive material. Porel faces charges including rape and criminal intimidation after a woman accused him of establishing a physical relationship on the promise of marriage. Investigation is ongoing.",
+    "img": "https://static.toiimg.com/photo/msid-132529844,imgsize-89002.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/abishek-porel-faces-arrest-after-calcutta-hc-order-in-rape-case-police-told-to-seize-devices/articleshow/132529386.cms",
+    "time": "2026-07-21T06:39:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When and where to watch ‘Masters of the Universe’ on OTT",
+    "desc": "Get ready for Nicholas Galitzine's electrifying take on Masters of the Universe, set to launch on Prime Video on July 22. This live-action feature follows He-Man's journey as he harnesses his extraordinary powers to safeguard his realm. Joining him is Jared Leto as the formidable Skeletor, bringing new life to this classic tale that already captivated audiences with its theatrical release earlier this month.",
+    "img": "https://static.toiimg.com/photo/msid-132529840,imgsize-78470.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/nicholas-galitzines-masters-of-the-universe-ott-release-when-and-where-to-watch-the-classic-superhero-film/articleshow/132529774.cms",
+    "time": "2026-07-21T06:39:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Myron Bolitar’: All about the cast",
+    "desc": "Netflix has officially announced the cast for its forthcoming live-action adaptation inspired by Harlan Coben's celebrated series. The lead role of Myron Bolitar will be brilliantly portrayed by Colin Woodell, accompanied by KJ Apa and Diane Guerrero in supporting roles. With the talented Emmy award-winning writer David E. Kelley at the helm, directed by Greg Yaitanes, fans can anticipate an electrifying experience. The release date remains undisclosed for now.",
+    "img": "https://static.toiimg.com/photo/msid-132529431,imgsize-122482.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/cast-for-harlan-cobens-myron-bolitar-announced-colin-woodell-kj-apa-chloe-fineman-and-more-to-join-the-series/articleshow/132529341.cms",
+    "time": "2026-07-21T06:25:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "RDJ's Doctor Doom accent splits fans; 2008 clip resurfaces",
+    "desc": "Doomsday trailer has generated significant online discussion. Fans are divided over his new and unrecognizable accent for the supervillain role. An old Tropic Thunder interview clip featuring a similar accent has resurfaced online. This has fueled speculation about the casting choice for the upcoming Marvel film. Anticipation for Avengers: Doomsday remains high despite these varied opinions.",
+    "img": "https://static.toiimg.com/photo/msid-132529373,imgsize-81230.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/avengers-doomsday-trailer-robert-downey-jrs-doctor-doom-voice-raises-eyebrows-fans-unearth-2008-clip-with-similar-accent-watch/articleshow/132529083.cms",
+    "time": "2026-07-21T06:21:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Spain’s absolute domination over Argentina explained",
+    "desc": "In the final, Spain passed and pressed with gusto, denying the Argentines any meaningful play until deep into extra time. Various metrics captured through charts in this story show La Roja’s clinical execution that dismantled Lionel Messi’s team",
+    "img": "https://th-i.thgim.com/public/incoming/pf01dv/article71246654.ece/alternates/LANDSCAPE_1200/AP07_20_2026_000198A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/data/how-spain-smothered-argentina-to-conquer-the-world-cup/article71246649.ece",
+    "time": "2026-07-21T06:18:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sonu Sood, Vir Das support for CJP's student protest",
+    "desc": "Numerous film industry figures rallied in support of the CJP youth protest at Jantar Mantar in Delhi. Students raised their voices against perceived NEET irregularities and called for sweeping reforms in the education sector. Tensions escalated as protesters skirmished with security forces in their quest to reach Parliament. Celebrities emphasized the need for compassion and constructive dialogue, denouncing aggressive tactics while urging reforms and the resignation of concerned ministers.",
+    "img": "https://static.toiimg.com/photo/msid-132529269,imgsize-128800.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonu-sood-vir-das-dia-mirza-soha-ali-khan-lead-bollywoods-support-for-cjps-student-protest-over-alleged-neet-irregularities/articleshow/132529215.cms",
+    "time": "2026-07-21T06:15:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anupam joins Ramayana as Jatayu, ending Amitabh rumours",
+    "desc": "Veteran actor Anupam Kher has been confirmed to voice Jatayu in Nitesh Tiwari's 'Ramayana', ending speculation about Amitabh Bachchan. The star-studded saga features Ranbir Kapoor, Sai Pallavi, Yash, Ravi Dubey, and Sunny Deol, with music by Hans Zimmer and AR Rahman. Part one releases Diwali 2026, part two in 2027.",
+    "img": "https://static.toiimg.com/photo/msid-132529256,imgsize-87294.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anupam-kher-joins-nitesh-tiwaris-ramayana-as-jatayu-ending-amitabh-bachchan-rumours/articleshow/132529256.cms",
+    "time": "2026-07-21T06:14:02.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "'Direct violation': Canada vows to protect workers after Trump slaps 50% tariffs on select goods",
+    "desc": "Canadian Prime Minister Carney stated new US tariffs violate the CUSMA trade agreement. He affirmed continued government support for Canadian workers and businesses. These tariffs target Canadian exports like vehicles and dairy products. Canada has proposed detailed solutions and remains open to negotiations. The nation will take necessary measures to strengthen its domestic economy.",
+    "img": "https://static.toiimg.com/photo/msid-132529253,imgsize-97644.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/direct-violation-canada-vows-to-protect-workers-after-trump-slaps-50-tariffs-on-select-goods/articleshow/132529162.cms",
+    "time": "2026-07-21T06:13:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajkumar Periyasamy pens emotional note after National Award win",
+    "desc": "Rajkumar Periyasamy received the National Award for Best Director for his film Amaran. This prestigious honour was a lifelong dream for the filmmaker since starting his career. He dedicated the Golden Lotus to Major Mukund Varadarajan's family and all soldiers. Amaran also won awards for Best Background Score and Best Editing. The film, based on Major Varadarajan's life, has garnered significant national acclaim.",
+    "img": "https://static.toiimg.com/photo/msid-132529143,imgsize-134422.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/this-was-my-dream-from-the-day-i-wanted-to-become-a-director-rajkumar-periyasamy-pens-emotional-note-after-national-award-win-for-amaran/articleshow/132529132.cms",
+    "time": "2026-07-21T06:07:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Millions of immigrants parents feel proud': Inaki lauds Nico Williams after WC win",
+    "desc": "Spain's World Cup triumph sparked an emotional tribute from Inaki Williams to his brother Nico, praising him for inspiring millions of immigrant families. After Spain's 1-0 win over Argentina, Inaki hailed Nico's achievement, while coach Luis de la Fuente and Thierry Henry credited Spain's long-term football system, unity and youth development for the nation's continued global dominance.",
+    "img": "https://static.toiimg.com/photo/msid-132529033,imgsize-139351.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/millions-of-immigrants-parents-feel-proud-inaki-pens-emotional-tribute-to-brother-nico-williams-after-world-cup-triumph/articleshow/132528789.cms",
+    "time": "2026-07-21T05:54:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Diljit Dosanjh says he'll be called 'anti-national' again after backing CJP's protest",
+    "desc": "Actor Diljit Dosanjh supports youth demonstrations demanding NEET exam reforms and accountability. He anticipates criticism for speaking out, recalling past farmer protest backlash. Protesters marched towards Parliament, facing security personnel and tear gas. A delegation submitted demands to JP Nadda, including minister's resignation. Sonam Wangchuk continues his fast, seeking dialogue with parliamentarians.",
+    "img": "https://static.toiimg.com/photo/msid-132528990,imgsize-108194.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/diljit-dosanjh-says-hell-be-called-anti-national-again-after-backing-cjps-student-protest-over-alleged-neet-irregularities-students-should-not-have-been-treated-like-this/articleshow/132528967.cms",
+    "time": "2026-07-21T05:51:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Future of youth priority': PM Modi says NEET leak national issue, asks to avoid 'partisan politics'",
+    "desc": "More than 170 people, including CJP protesters and Delhi Police personnel, were treated at central government hospitals on Monday following clashes during the 'Chalo Sansad' march, with a young woman admitted to Safdarjung Hospital in critical condition, sources said. According to hospital sources, around 150 injured people were taken to Dr Ram Manohar Lohia (RML) Hospital, while at least 24 others received treatment at Lady Hardinge Medical College (LHMC).",
+    "img": "https://static.toiimg.com/photo/msid-132528885,imgsize-110589.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/future-of-youth-priority-pm-modi-says-neet-leak-national-issue-avoid-partisan-politics/articleshow/132528674.cms",
+    "time": "2026-07-21T05:41:51.000Z"
+  },
+  {
+    "cat": "World",
     "title": "U.K. PM Burnham names Reynolds as Business Minister, Rayner for housing",
     "desc": "Jonathan Reynolds was named ‌Secretary ⁠of State for ⁠Business, Innovation, Science and Trade in an expanded role ​after losing his ‌position as business Minister to Peter Kyle in a reshuffle under ‌former Prime Minister ​Keir Starmer",
     "img": "https://th-i.thgim.com/public/incoming/xwm8hb/article71247912.ece/alternates/LANDSCAPE_1200/2026-07-20T181645Z_1564931532_RC2UHMAU3Q8B_RTRMADP_3_BRITAIN-POLITICS.JPG",
@@ -37,7 +307,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "India summons Russian diplomat over 4 Indians killed in strike off Ukranian coast",
+    "title": "India summons Russian diplomat over 4 Indians killed in strike off Ukrainian coast",
     "desc": "Four Indian nationals were killed after a commercial vessel, MV Golden Leo, came under attack while departing Ukraine's port of Odesa on Sunday, the Indian government confirmed. One more Indian crew member remains in critical condition. According to the government, the vessel had 17 crew members on board, including five Indian nationals, when it was attacked.",
     "img": "https://static.toiimg.com/photo/msid-132528388,imgsize-103302.cms",
     "src": "indiatimes.com",
@@ -144,15 +414,6 @@ const newsData_en = [
     "time": "2026-07-21T04:07:11.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Idhayam Murali' BO day 11: Atharvaa's film surpasses Rs 21 crore",
-    "desc": "Atharvaa's romantic drama Idhayam Murali continues its steady theatrical run. The film's India gross collection has now surpassed twenty-one crore rupees. Its total India net collection has reached eighteen point four zero crore. Positive word of mouth and an emotional storyline are driving audience interest. The movie is performing well with family and young viewers.",
-    "img": "https://static.toiimg.com/photo/msid-132527480,imgsize-200782.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/box-office/idhayam-murali-box-office-collection-day-11-atharvaas-romantic-drama-holds-steady-india-gross-surpasses-rs-21-crore/articleshow/132527466.cms",
-    "time": "2026-07-21T03:50:47.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Shades of Maradona's 1990 final in Messi's 2026 journey",
     "desc": "Two geniuses, two completely different characters, yet so similar in their endeavour to defend the ultimate glory their professional lives had to offer. Messi could easily have walked away after the Qatar high. Not many would have questioned Maradona either if Argentina didn’t match the dizzying heights of 1986 four years on.",
@@ -160,15 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/shades-of-diego-maradonas-1990-fifa-world-cup-final-in-lionel-messis-2026-journey/articleshow/132527314.cms",
     "time": "2026-07-21T03:43:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Keanu Reeves",
-    "desc": "In 'Destination Wedding', Keanu Reeves imparts a profound piece of advice about how the misbehavior of others can actually save you precious time and effort. His journey began with a love for hockey and extensive travels, which led him to discover his passion for acting. With a career that flourished over decades, Reeves has achieved remarkable success in the film industry.",
-    "img": "https://static.toiimg.com/photo/msid-132527327,imgsize-96372.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-keanu-reeves-when-one-of-them-behaves-badly-toward-you-hes-actually-doing-you-a-great-favour-a-life-lesson-by-the-matrix-actor-highlighting-the-importance-of-changing-your-perspective-when-people-dont-treat-you-right/articleshow/132527295.cms",
-    "time": "2026-07-21T03:41:32.000Z"
   },
   {
     "cat": "Politics",
@@ -189,15 +441,6 @@ const newsData_en = [
     "time": "2026-07-21T03:34:34.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Amid Sonam Wangchuk row, Aamir's 3 Idiots set for re-release",
-    "desc": "Aamir Khan's '3 Idiots' will re-release in theatres on September 4, 2026, as part of NH Studioz's acquisition of the Vidhu Vinod Chopra Films catalogue. The film has also resurfaced due to speculation linking Rancho to Sonam Wangchuk, a theory Aamir denied at a BFI Q&A while expressing concern for Wangchuk's health.",
-    "img": "https://static.toiimg.com/photo/msid-132527266,imgsize-215934.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amid-sonam-wangchuk-row-aamir-khans-3-idiots-set-for-re-release-in-cinemas-on-september-4-reports/articleshow/132527266.cms",
-    "time": "2026-07-21T03:27:19.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "The architect behind Spain's FIFA World Cup revival",
     "desc": "Spain's football empire has returned, built on collective strength and developmental strategy. Coach Luis de la Fuente nurtured players from youth teams, fostering deep bonds. This approach abandoned sterile possession for speed, verticality, and athleticism in their game. Spain's Euro 2024 victory laid the foundation for their World Cup triumph. The team's success highlights ideas over individual icons in modern football.",
@@ -216,24 +459,6 @@ const newsData_en = [
     "time": "2026-07-21T03:10:34.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Vijay's CM look in 'Jana Nayagan' glimpse sparks debate",
-    "desc": "The new glimpse for 'Jana Nayagan' features Vijay in a Chief Minister look. This visual has significantly increased fan anticipation for the film's upcoming release. The movie, directed by H. Vinoth, is set for a worldwide theatrical debut soon. Advance bookings are progressing well across various states for the film. This glimpse has successfully generated fresh excitement just before the movie's launch.",
-    "img": "https://static.toiimg.com/photo/msid-132526956,imgsize-97354.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vijays-cm-look-in-jana-nayagan-glimpse-adds-to-the-anticipation-of-the-fans-ahead-of-release/articleshow/132526943.cms",
-    "time": "2026-07-21T03:08:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Avengers: Doomsday' tickets SOLD OUT after trailer release",
-    "desc": "Doomsday advance tickets for premium screenings sold out quickly. The film's early ticket sales surpassed other major releases. Theaters are adding late-night previews to meet demand. Fans anticipate the superhero film will outperform Dune at the box office. This major MCU event is the first part of a two-film conclusion.",
-    "img": "https://static.toiimg.com/photo/msid-132526893,imgsize-223694.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/avengers-doomsday-tickets-sold-out-after-trailer-release-fans-gear-up-for-clash-with-dune-part-3/articleshow/132526715.cms",
-    "time": "2026-07-21T03:06:27.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Karmakar backs Pranati to end India’s CWG gymnastics medal wait",
     "desc": "Dipa Karmakar recalls her 2014 Commonwealth Games bronze medal win. She is now coaching and supports Pranati Nayak for a podium finish. Karmakar hopes for India to host the 2030 Commonwealth Games and 2036 Olympics. She believes hosting major events will transform the country's sporting ecosystem. Gymnasts should focus on the 2028 Los Angeles Olympics after upcoming games.",
@@ -241,15 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/dipa-karmakar-backs-pranati-nayak-to-end-indias-cwg-gymnastics-medal-wait/articleshow/132526865.cms",
     "time": "2026-07-21T02:55:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Inside Robert Downey Jr.'s real estate portfolio",
-    "desc": "Robert Downey Jr. has curated an impressive portfolio of homes that showcase his unique aesthetic. Among them, his Hollywood Hills residence, famously built for Charlie Chaplin, boasts a charming pink hue and impeccable design. In Venice, he and his wife seamlessly integrated their workspace into a chic property, while a Malibu estate with a quaint country cottage and vast grounds adds to their allure.",
-    "img": "https://static.toiimg.com/photo/msid-132526779,imgsize-147524.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/inside-robert-downey-jr-s-real-estate-portfolio-from-a-hollywood-hills-estate-to-a-10-5-million-windmill-house/articleshow/132526765.cms",
-    "time": "2026-07-21T02:52:08.000Z"
   },
   {
     "cat": "Sports",
@@ -261,15 +477,6 @@ const newsData_en = [
     "time": "2026-07-21T02:44:41.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Annu reacts to SRK's last superstar claim",
-    "desc": "Annu Kapoor questioned Shah Rukh Khan's \"last of the stars\" claim, doubting his relevance by 2045. He cited Amitabh Bachchan's longevity for comparison, recalled hazy memories of working with SRK in 'Darr', and praised him as a devoted family man, suggesting that legacy matters more than superstardom.",
-    "img": "https://static.toiimg.com/photo/msid-132526700,imgsize-222421.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/annu-kapoor-reacts-to-shah-rukh-khans-last-superstar-claim-asks-will-he-still-be-relevant-in-2045/articleshow/132526700.cms",
-    "time": "2026-07-21T02:30:27.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'Bound by shared democratic values': PM Modi congratulates Andy Burnham on becoming UK Prime Minister",
     "desc": "Prime Minister Narendra Modi congratulated Andy Burnham on his new role. He expressed confidence that India-UK ties will deepen across key sectors. The two nations share democratic values and cooperate widely in many areas. With CETA entering into force, the partnership is poised for growth. Modi looks forward to working closely to strengthen the comprehensive strategic partnership.",
@@ -277,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/bound-by-shared-democratic-values-pm-modi-congratulates-andy-burnham-on-becoming-uk-prime-minister/articleshow/132526652.cms",
     "time": "2026-07-21T02:29:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Prince Harry calls Harry Styles the best British Harry in the UK",
-    "desc": "In a light-hearted segment on a recent talk show, Prince Harry declared Harry Styles the reigning 'top Harry' in the UK, with Harry Kane following close. He humorously tied himself with Harry Potter for third place. The royal also shared insights about England's FIFA World Cup journey and recounted his experiences at the Invictus Games, even reflecting on a poignant visit to his mother’s grave with family.",
-    "img": "https://static.toiimg.com/photo/msid-132526671,imgsize-129008.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/prince-harry-crowns-aperture-singer-harry-styles-as-the-best-harry-in-the-uk-jokes-theres-a-conflict-of-interest-here/articleshow/132526637.cms",
-    "time": "2026-07-21T02:25:33.000Z"
   },
   {
     "cat": "Sports",
@@ -298,30 +496,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Protesters’ anger extends beyond paper leaks",
-    "desc": "One of the many common threads connecting those who faced police lathis was that they had voted for the BJP in the past or came from families that had traditionally supported the BJP, making their disappointment more acute",
-    "img": "https://th-i.thgim.com/public/incoming/f6vf8e/article71246612.ece/alternates/LANDSCAPE_1200/93_Cockroach_Janta_Party_Protest_20_07_Delhi.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/march-to-parliament-protesters-anger-extends-beyond-paper-leaks/article71245923.ece",
-    "time": "2026-07-21T02:16:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Lenin' BO day 11: Akhil Akkineni's action drama crosses Rs 61 crore",
-    "desc": "Akhil Akkineni's action drama 'Lenin' has crossed sixty-one crore rupees worldwide. The film's India net collection reached forty-four point three nine crore rupees. Overseas markets contributed ten point three zero crore rupees to the total. Collections slowed down after a strong second weekend performance. Trade watchers are observing its continued weekday audience attraction.",
-    "img": "https://static.toiimg.com/photo/msid-132526600,imgsize-426440.cms",
+    "title": "Nine dead, several feared trapped as rescue operation continues",
+    "desc": "At least seven workers have died in a Sikkim tunnel landslide incident. Several other workers are feared trapped inside the under-construction tunnel. Rescue operations are underway by multiple agencies to evacuate those still inside. Authorities suspect around twenty-seven workers were inside when the landslide occurred. The exact cause of the accident is still under investigation by officials.",
+    "img": "https://static.toiimg.com/photo/msid-132526476,imgsize-191107.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/box-office/lenin-box-office-collection-day-11-akhil-akkinenis-action-drama-crosses-rs-61-crore-worldwide-despite-weekday-dip/articleshow/132526590.cms",
-    "time": "2026-07-21T02:15:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Did Naseeruddin Shah attend the CJP protest?",
-    "desc": "A video shows Naseeruddin Shah and his sons at Jantar Mantar. They were reportedly present during a student protest which gained social media attention. The actor and his sons observed the demonstration quietly without making any public statements. Social media users shared the footage, noting the actor's silent presence. The video circulated widely, prompting comments about his attendance at the event.",
-    "img": "https://static.toiimg.com/photo/msid-132526453,imgsize-101328.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/fact-check-did-naseeruddin-shah-attend-the-cjp-protest-at-delhis-jantar-mantar-video-from-film-screening-with-son-in-mumbai-goes-viral/articleshow/132526285.cms",
-    "time": "2026-07-21T01:58:44.000Z"
+    "url": "https://timesofindia.indiatimes.com/india/sikkim-tunnel-collapse-seven-dead-several-feared-trapped-as-rescue-operation-continues/articleshow/132526397.cms",
+    "time": "2026-07-21T01:58:50.000Z"
   },
   {
     "cat": "World",
@@ -331,15 +511,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/russia-ukraine-war-missile-attack-on-kyiv-death-toll-injuries/article71240891.ece",
     "time": "2026-07-21T01:55:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "The fine art of creating blood donors at home; and resources for those in Chennai seeking to donate blood",
-    "desc": "A leitmotif among blood donation organisations is the increasing difficulty in finding people with “generous veins”; and the solution could strangely be found in the living rooms of households, as illustrated by these two accounts from Chennai of parents inspiring their children to join the cause",
-    "img": "https://th-i.thgim.com/public/incoming/673uxp/article71239301.ece/alternates/LANDSCAPE_1200/19dc%20Shaikhs%20.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/chennai/collective-kindness-when-families-support-the-cause-of-blood-donation/article71239297.ece",
-    "time": "2026-07-21T01:47:24.000Z"
   },
   {
     "cat": "Sports",
@@ -360,15 +531,6 @@ const newsData_en = [
     "time": "2026-07-21T01:10:12.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "K-Dramas For Date Night: 8 romantic picks",
-    "desc": "For a perfect date night, dive into eight new K-dramas that promise romantic escapades. These shows cover an array of themes from multilingual love affairs to the tensions of workplace dynamics. Anticipate engaging tales in 'Can This Love Be Translated?' and 'Filing for Love.' Other highlights include the unique blend of history in 'Spring Fever' and thrilling plots in 'When the Phone Rings.",
-    "img": "https://static.toiimg.com/photo/msid-132526206,imgsize-166242.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/top-romantic-k-dramas-to-watch-on-date-night-can-this-love-be-translated-filing-for-love-and-more/articleshow/132526175.cms",
-    "time": "2026-07-21T00:44:24.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Supreme Court orders new SIT into Ram temple donation theft, will monitor probe",
     "desc": "The Supreme Court has taken over the Ayodhya Ram Mandir fund embezzlement investigation. Local police have been removed from the probe, which will now be led by a senior IPS officer. The Shri Ram Teerth Kshetra Trust must preserve all donation receipts and accounts for scrutiny. The court cautioned against politicizing the ongoing investigation into alleged fund pilferage. Eight individuals have already been arrested as the probe progresses impartially.",
@@ -378,15 +540,6 @@ const newsData_en = [
     "time": "2026-07-21T00:41:25.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Huma breaks silence on Chalo Sansad march",
-    "desc": "Huma Qureshi expressed sadness over the alleged police lathi-charge on 'Chalo Sansad' protesters, urging accountability from the government. Hema Malini and Kangana Ranaut criticized the demonstration, defending the Modi government's record. Celebrities like Prakash Raj, Shabana Azmi, and Naseeruddin Shah joined the protest, while others earlier backed Sonam Wangchuk's hunger strike online.",
-    "img": "https://static.toiimg.com/photo/msid-132526193,imgsize-163100.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/huma-qureshi-breaks-silence-on-chalo-sansad-march-says-visuals-from-protests-left-her-with-deep-sense-of-sadness/articleshow/132526193.cms",
-    "time": "2026-07-21T00:37:25.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "70 detained, 118 cops and 60 marchers injured: Police block protesters' march to Parliament; JP Nadda meets CJP representatives",
     "desc": "A protest by the Cockroach Janta Party demanding a minister's resignation turned chaotic. Protesters clashed with police, resulting in numerous injuries on both sides. Police reported detentions and filed charges related to rioting and assault on public servants. The BJP blamed Left-affiliated student groups for instigating the organized violence. Investigations are underway to establish criminal responsibility for the disturbances.",
@@ -394,33 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/70-detained-118-cops-and-60-marchers-injured-police-block-protesters-march-to-parliament-jp-nadda-meets-cjp-representatives/articleshow/132526157.cms",
     "time": "2026-07-21T00:21:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'The Odyssey' hits Rs 83.14 crore at Indian box office",
-    "desc": "Christopher Nolan's The Odyssey crossed eighty crore rupees at the Indian box office. The epic fantasy adventure saw collections drop significantly on its first Monday. Still, the film continued its dominance, earning over eight crore rupees on day four. The English version remains the biggest contributor to its overall success. The Odyssey delivered Christopher Nolan's biggest opening day in India.",
-    "img": "https://static.toiimg.com/photo/msid-132526008,imgsize-111996.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/the-odyssey-box-office-collection-day-4-christopher-nolans-epic-starring-matt-damon-crosses-rs-80-crore-mark-in-india-despite-sharp-dip-on-first-monday/articleshow/132525981.cms",
-    "time": "2026-07-20T23:35:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "J&amp;K floods: Lal Chowk flooded, Amarnath yatra stays suspended",
-    "desc": "Heavy rainfall inundated Srinagar's Lal Chowk and other city areas on Monday morning. Netizens criticized the government over the drainage system's alleged failure. Officials cited overwhelming rainfall, while critics questioned the Smart City infrastructure project. The Omar Abdullah cabinet previously raised concerns and ordered an external audit. Widespread rain continues across Kashmir, with risks of landslides and flash floods.",
-    "img": "https://static.toiimg.com/photo/msid-132525917,imgsize-144922.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/jk-floods-lal-chowk-flooded-amarnath-yatra-stays-suspended/articleshow/132525911.cms",
-    "time": "2026-07-20T22:53:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NC’s Delhi protest draws oppn flak; BJP slams Omar for ignoring floods, PDP asks him to emulate Wangchuk",
-    "desc": "National Conference held a protest in Delhi seeking statehood restoration. Other parties criticized the party president and chief minister for their absence. BJP stated the government should have been present to manage flood relief efforts. PDP suggested learning from activist Sonam Wangchuk's mobilization efforts. CPM legislator Tarigami expressed full support for the protest's objective.",
-    "img": "https://static.toiimg.com/photo/msid-132525905,imgsize-75217.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ncs-delhi-protest-draws-oppn-flak-bjp-slams-omar-for-ignoring-floods-pdp-asks-him-to-emulate-wangchuk/articleshow/132525907.cms",
-    "time": "2026-07-20T22:48:04.000Z"
   },
   {
     "cat": "Business",
@@ -439,15 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/ex-tech-execs-startups-find-favour-with-vcs-says-report/articleshow/132525876.cms",
     "time": "2026-07-20T22:26:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ED provisionally attached 389 immovable properties worth ₹240.03 Crore",
-    "desc": "ED initiated investigation on the basis of multiple FIRs registered by the Uttar Pradesh Police and the Delhi Police against BIIPL, GVCTPL, Satinder Singh Bhasin and others, under various Sections of the Indian Penal Code, 1860",
-    "img": "https://th-i.thgim.com/public/incoming/f1o8hf/article71247173.ece/alternates/LANDSCAPE_1200/2026-06-24T120824Z_1104189753_RC2WK6A9Z579_RTRMADP_3_INDIA-RAJESH-EXPO.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttar-pradesh/ed-provisionally-attached-389-immovable-properties-worth-24003-crore/article71246609.ece",
-    "time": "2026-07-20T22:24:48.000Z"
   },
   {
     "cat": "Business",
@@ -504,78 +621,6 @@ const newsData_en = [
     "time": "2026-07-20T22:02:50.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Supreme Court takes exception to meagre compensation for ex-HC judges",
-    "desc": "The Supreme Court has taken exception to low compensation for retired High Court judges. It asked the Union government to form a committee for uniform guidelines. This committee will consider basic minimum security and services for retired judges. The panel will study issues faced by retired judges and submit recommendations. The goal is to ensure retired judges lead a dignified post-retirement life.",
-    "img": "https://static.toiimg.com/photo/msid-132524205,imgsize-1428575.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/supreme-court-takes-exception-to-meagre-compensation-for-ex-hc-judges/articleshow/132524206.cms",
-    "time": "2026-07-20T21:41:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "No decision on ethanol blending beyond 20%: Govt",
-    "desc": "The government has stated no decision exists to raise ethanol blending beyond twenty percent. Lower-blended fuel or pure petrol will not be available at select outlets. Any future diesel blending will depend on evaluations and stakeholder consultations. The transition to E20 has been phased and evidence-based, with gradual increases. Claims of vehicle damage from E20 are largely misleading or unsupported by technical evidence.",
-    "img": "https://static.toiimg.com/photo/msid-132524203,imgsize-83666.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-decision-on-ethanol-blending-beyond-20-govt/articleshow/132524202.cms",
-    "time": "2026-07-20T21:36:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NTA rebuts claims of 5, says NEET-UG OMR sheets forged",
-    "desc": "The National Testing Agency has refuted claims of OMR answer sheet discrepancies from five NEET-UG candidates. Images circulated by these candidates were reportedly digitally altered or regenerated using artificial intelligence. The agency verified the original OMR sheets and scores for all five students involved. These actions follow allegations of swapped OMR sheets and fewer attempted answers than recorded. Candidates submitting fabricated records may face severe penalties under relevant acts.",
-    "img": "https://static.toiimg.com/photo/msid-132524135,imgsize-17816.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/nta-rebuts-claims-of-5-says-neet-ug-omr-sheets-forged/articleshow/132524008.cms",
-    "time": "2026-07-20T21:29:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Youth full of aspirations, want country to move forward: PM Modi",
-    "desc": "Prime Minister Modi urged opposition parties to use logic and facts in Parliament. He highlighted India's youth aspirations and recent national achievements. The successful launch of a private space rocket showcased young Indian capabilities. Recent inaugurations and a hydrogen train launch also marked progress. India maintained growth despite global energy supply disruptions.",
-    "img": "https://static.toiimg.com/photo/msid-132524005,imgsize-115142.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/youth-full-of-aspirations-want-country-to-move-forward-pm-modi/articleshow/132524003.cms",
-    "time": "2026-07-20T21:25:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Global urea prices ease after May spike, fall 40% in June",
-    "desc": "Urea prices fell significantly in June, offering government relief after earlier increases. International urea prices were $572 per tonne, down from May's figures. Other fertilizer prices like diammonium phosphate and potash remained higher than last year. Sulphur prices saw the largest increase, rising 265 percent year-on-year. Domestic urea production exceeded targets, providing comfort for the current season.",
-    "img": "https://static.toiimg.com/photo/msid-132523991,imgsize-103209.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/global-urea-prices-ease-after-may-spike-fall-40-in-june/articleshow/132523993.cms",
-    "time": "2026-07-20T21:09:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Supreme Court proposes SIT probe into Ram Temple case",
-    "desc": "Bench tells petitioners not to play politics with the donation embezzlement case; complainants had sought a CBI probe and publication of all financial details of Shri Ram Janmabhoomi Teerth Kshetra Trust; court lists case for orders on July 27",
-    "img": "https://th-i.thgim.com/public/incoming/4pi28u/article71246518.ece/alternates/LANDSCAPE_1200/PTI07_17_2026_000167B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/supreme-court-proposes-sit-probe-into-ram-temple-case/article71246107.ece",
-    "time": "2026-07-20T20:47:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "7 killed in landslide in Jammu and Kashmir as rain toll hits 21",
-    "desc": "The J&K Police actively participated in the rescue operation at Domail Dhok after a tragic landslide hit a mud house, claiming seven lives; rescue efforts are continuing in coordination with all agencies concerned, said the police",
-    "img": "https://th-i.thgim.com/public/incoming/c1yl8l/article71243811.ece/alternates/LANDSCAPE_1200/AFP_C2KK7CU.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/heavy-downpour-slows-search-and-rescue-efforts-in-flood-hit-jk-death-toll-reaches-12/article71243803.ece",
-    "time": "2026-07-20T20:21:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Monsoon Session off to a stormy start amid Opposition protests",
-    "desc": "Opposition MPs raise NEET paper leak, Ram Temple donation theft issues; Lok Sabha adjourned after repeated disruptions; MPs of Congress, SP and Trinamool troop into the Well of the House; DMK raises Mekedatu issue, skips Congress-led meeting",
-    "img": "https://th-i.thgim.com/public/incoming/nodg2j/article71245883.ece/alternates/LANDSCAPE_1200/20260720531L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/lok-sabha-proceedings-disrupted-on-first-day-of-monsoon-session/article71245226.ece",
-    "time": "2026-07-20T20:15:22.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran hits out at Gulf neighbours as U.S. presses on with strikes",
     "desc": "Oil prices surged to a one-month high as the United States and Iran tussled for control of the vital strait, with Brent crude rising above $91 a barrel — the highest price since June 11",
@@ -585,15 +630,6 @@ const newsData_en = [
     "time": "2026-07-20T20:13:56.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Police outnumbered, taken aback by number of protesters who reached Parliament’s doorstep",
-    "desc": "In an unprecedented turn of events, despite multiple layers of barricades, deployment of around 3,000 security personnel and an Internet shutdown, large crowds comprising mostly students and young people were able to reach the doorsteps of Parliament before they were tear-gassed and charged with batons",
-    "img": "https://th-i.thgim.com/public/incoming/gna7q0/article71246863.ece/alternates/LANDSCAPE_1200/79_Cockroach_Janta_Party_Protest_20_07_Delhi.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/police-outnumbered-taken-aback-by-number-of-protesters-who-reached-parliaments-doorstep/article71246561.ece",
-    "time": "2026-07-20T19:30:25.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Why Marc Cucurella buried coin in pitch before Spain's World Cup final as 'secret' 2010 ritual comes to light",
     "desc": "Marc Cucurella’s unusual act of burying a coin in the pitch before Spain’s World Cup final has been explained as a lucky ritual dating back to the nation’s 2010 triumph. Former defender Joan Capdevila revealed he asked Cucurella to continue the superstition, with Spain again lifting the trophy after a 1-0 extra-time victory over Argentina.",
@@ -601,15 +637,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/why-marc-cucurella-buried-coin-in-pitch-before-spains-world-cup-final-as-secret-2010-ritual-comes-to-light/articleshow/132523401.cms",
     "time": "2026-07-20T19:22:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Trump said same seven words to every Spain and Argentina player after World Cup final, claims lip reader",
-    "desc": "Donald Trump reportedly repeated the same congratulatory message to every Spain and Argentina player during the FIFA World Cup 2026 medal ceremony, according to a professional lip reader. The US President allegedly told each player, “You are a champ” and “Amazing player” while presenting medals following Spain’s 1-0 extra-time victory over Argentina in the final.",
-    "img": "https://static.toiimg.com/photo/msid-132522786,imgsize-126520.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/trump-said-same-seven-words-to-every-spain-and-argentina-player-after-world-cup-final-claims-lip-reader/articleshow/132522501.cms",
-    "time": "2026-07-20T18:36:15.000Z"
   },
   {
     "cat": "World",
@@ -693,24 +720,6 @@ const newsData_en = [
     "time": "2026-07-20T15:26:34.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "After beating Argentina, Spain return to Madrid with FIFA World Cup 2026 trophy",
-    "desc": "Spain's national football team returned home after winning the FIFA World Cup 2026. The team landed in Madrid and will celebrate with supporters on July 20. Spain secured their second World Cup title by defeating Argentina 1-0 in the final. Ferran Torres scored the winning goal in extra time after a cross from Pedro Porro. Goalkeeper Emiliano Martinez made a record eleven saves for Argentina during the match.",
-    "img": "https://static.toiimg.com/photo/msid-132518337,imgsize-149868.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/spain-return-to-madrid-with-fifa-world-cup-trophy-announce-grand-fan-celebration-after-argentina-win/articleshow/132518326.cms",
-    "time": "2026-07-20T14:50:20.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India’s crude oil imports from Russia remain near all-time high in July despite no sanctions waiver from US",
-    "desc": "Industry experts say India's crude procurement pattern during the US-Iran conflict reflects a flexible and well-diversified sourcing strategy. India’s crude oil imports from Russia in July so far have averaged at around 2.45 million barrels per day.",
-    "img": "https://static.toiimg.com/photo/msid-132518222,imgsize-408236.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/hormuz-disruptions-indias-crude-oil-imports-from-russia-remain-near-all-time-high-in-july-despite-no-sanctions-waiver-from-us/articleshow/132518173.cms",
-    "time": "2026-07-20T14:43:01.000Z"
-  },
-  {
     "cat": "Business",
     "title": "DGCA's new eGCA platform aims to make aviation incident reporting faster",
     "desc": "The DGCA is developing a digital platform for faster aviation incident reporting. This initiative aims to enhance the country's aviation safety oversight capabilities. Airfare pricing is determined by dynamic supply and demand forces. The government generally avoids regulating airfares to maintain market competitiveness. However, it intervenes in exceptional circumstances to ensure fair pricing.",
@@ -718,24 +727,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/dgcas-new-egca-platform-aims-to-make-aviation-incident-reporting-faster/articleshow/132517636.cms",
     "time": "2026-07-20T14:22:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Total disgrace': Argentina branded 'classless' as post-final conduct sparks outrage",
-    "desc": "Argentina faced criticism for their behavior after losing the World Cup final. Players did not remain on the podium during Spain's trophy presentation. This action drew condemnation from many football community members. Earlier, a confrontation occurred between players from both teams on the field. The team's overall tournament performance also faced scrutiny from some observers.",
-    "img": "https://static.toiimg.com/photo/msid-132517765,imgsize-352834.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/total-disgrace-argentina-branded-classless-as-post-final-conduct-sparks-outrage/articleshow/132517657.cms",
-    "time": "2026-07-20T14:22:03.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Wall Street back in green; AI-related, chipmaker stocks rebound",
-    "desc": "The S&P 500 advanced 0.6%, following its first weekly loss in three weeks and only its third weekly decline since the end of March. Nvidia rose 1.9%, helping lift the broader market after being the biggest drag on the S&P 500 during Friday's session. Sandisk also recovered, jumping 6.7% after sliding 29% over the previous week.",
-    "img": "https://static.toiimg.com/photo/msid-132517574,imgsize-385172.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/us-stock-market-today-july-20-2026-wall-street-back-in-green-ai-related-chipmaker-stocks-rebound/articleshow/132517568.cms",
-    "time": "2026-07-20T14:08:43.000Z"
   },
   {
     "cat": "Sports",
@@ -765,24 +756,6 @@ const newsData_en = [
     "time": "2026-07-20T11:27:25.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Gasoline returns to $4 per gallon after Middle East flare-up",
-    "desc": "Average petrol prices in the United States have now reached four dollars per gallon. This increase follows recent flare-ups and rising tensions in the Middle East region. Motorists in several states have been paying more than four dollars for some time. Crude oil prices have risen, impacting global fuel costs significantly. Higher fuel expenses may affect grocery prices and voter concerns during elections.",
-    "img": "https://static.toiimg.com/photo/msid-132513847,imgsize-136520.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/us-fuel-prices-rise-gasoline-returns-to-4-per-gallon-after-middle-east-flare-up/articleshow/132513767.cms",
-    "time": "2026-07-20T11:09:24.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Era of cheap borrowing may be over as world enters 'a new macro regime': Moody's",
-    "desc": "The era of ultra-low interest rates is ending, ushering in higher borrowing costs. Investors anticipate sustained investment in artificial intelligence and infrastructure projects. Geopolitical risks are also expected to remain elevated in the coming years. Bond markets reflect expectations of structurally higher interest rates for an extended period. Capital will likely flow towards AI, defense, and critical minerals sectors.",
-    "img": "https://static.toiimg.com/photo/msid-132512174,imgsize-47864.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/era-of-cheap-borrowing-may-be-over-as-world-enters-a-new-macro-regime-moodys/articleshow/132512183.cms",
-    "time": "2026-07-20T10:14:15.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Sivaji Ganesan’s gift of baby elephant to American children and his U.S. visit as state guest",
     "desc": "Sivaji Ganesan was invited to the United States as part of the U.S.–India Cultural Exchange Programme. During the trip, Sivaji was treated as a state guest, assigned two officials to assist him, and given a daily allowance of $160, a considerable sum at the time.",
@@ -810,15 +783,6 @@ const newsData_en = [
     "time": "2026-07-20T08:51:21.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Away from the bell and egg-and-bacon ties, Rohit Sharma keeps his own England tradition alive at Lord's",
-    "desc": "In the lead-up to the third ODI between India and England at Lord's, more focus was on Rohit Sharma than the series decider itself. With India's ODI World Cup plans underway, Rohit's form came under fire, and retirement rumours gathered momentum. With Virat Kohli batting at the other end in a monstrous 388-run chase, he decided to shut them down by becoming the first Indian to score a ton at the Home of Cricket.",
-    "img": "https://static.toiimg.com/photo/msid-132509893,imgsize-170878.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/picture-abhi-baanki-hai-away-from-the-bell-and-egg-and-bacon-ties-rohit-sharma-keeps-his-own-england-tradition-alive-at-lords/articleshow/132509689.cms",
-    "time": "2026-07-20T08:12:38.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India’s green transition is missing long-duration energy storage",
     "desc": "The longer the time over which a technology discharges energy, the better its economics. At the same time, storing more energy also costs more. So for discharge durations beyond six hours, short-duration energy storage systems are unlikely to prove cost-effective",
@@ -844,15 +808,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/fifa-2026-world-cup-match-timings-ist-full-knockout-schedule-india-time/article71145665.ece",
     "time": "2026-07-20T01:42:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How Spain utterly owned Argentina in World Cup final and rendered Messi irrelevant",
-    "desc": "Spain's triumph was built not on moments of brilliance alone but on collective superiority. Luis de la Fuente's side controlled possession, dictated territory and suffocated every avenue Argentina attempted to explore. World Cup finals are often remembered for drama, controversy or moments of individual inspiration. This one will be remembered for something far rarer - complete domination. Spain didn't just beat the defending champions. They made them disappear.",
-    "img": "https://static.toiimg.com/photo/msid-132503664,imgsize-2306155.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/20-shots-to-none-how-spain-utterly-owned-argentina-in-fifa-world-cup-2026-final-and-rendered-lionel-messi-irrelevant/articleshow/132503664.cms",
-    "time": "2026-07-20T00:30:00.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +853,50 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/data/how-close-the-fifa-semi-finals-will-be/article71222058.ece",
     "time": "2026-07-19T07:38:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "On defying the gods with ‘The Odyssey’ and protecting movie magic",
+    "desc": "Speaking at the Indian premiere of ‘The Odyssey‘ in Mumbai, Christopher Nolan reflects on finding destiny in Homer’s immortal epic, adapting a foundational classic, the mysteries of cultural permanence, and remaining faithful to the moviegoer who first fell in love with cinema",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/q5wiu3/article71220848.ece/alternates/LANDSCAPE_1200/CT-47787.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/christopher-nolan-the-odyssey-movie-interview-2026-exclusive/article71220737.ece",
+    "time": "2026-07-19T05:45:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Children from Narikurava community in Pallavaram as ‘commentators’ in a puppetry production on environmental degradation",
+    "desc": "A year-long puppetry production titled “Enge Engal Nadhigal” by Agai — Theatre of Voices has children from a Narikurava community in Pallavaram taking centre stage as storytellers. As part of this initiative, the children were taken on a tour of the industrial north Chennai on July 18 to understand the negative impact development can have on people’s everyday lives and bring that insight into their stories",
+    "img": "https://th-i.thgim.com/public/incoming/tgmook/article71240540.ece/alternates/LANDSCAPE_1200/Agai%20programme%20.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/children-from-narikurava-community-in-pallavaram-as-commentators-in-a-puppetry-production-on-environmental-degradation/article71240545.ece",
+    "time": "2026-07-19T05:40:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "How the second phase of the Iran-U.S. war started and why it is raging | Explained",
+    "desc": "The MoU, signed on June 14, stipulated Iran would allow ships to pass “with no charge for 60 days only,” and that Iran would work with Oman to “define the future administration and maritime services” in the Strait of Hormuz",
+    "img": "https://th-i.thgim.com/public/incoming/8tq51p/article71240626.ece/alternates/LANDSCAPE_1200/2026-07-17T143023Z_1808104564_RC2NFMA88I5E_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/how-the-second-phase-of-the-iran-us-war-started-and-why-it-is-raging-explained/article71234575.ece",
+    "time": "2026-07-19T05:36:46.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Hungary's President signs constitutional amendment ending his term",
+    "desc": "Mr. Sulyok's term will officially end at midnight on Monday (July 20), when speaker of Parliament, Ágnes Forsthoffer, will automatically assume his duties until lawmakers elect a new President, a task which has a 30-day deadline",
+    "img": "https://th-i.thgim.com/public/incoming/dmuuy1/article71240571.ece/alternates/LANDSCAPE_1200/Hungary-President_53821.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/hungarys-president-signs-constitutional-amendment-ending-his-term/article71240536.ece",
+    "time": "2026-07-19T02:35:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rathanvel seals 99th GM title as India closes in on Grandmaster century",
+    "desc": "The 25-year-old from Coimbatore had completed his three GM norms back in 2022, but repeatedly fell short of the rating requirement, turning what should have been the final step into a prolonged test of patience and mental resilience",
+    "img": "https://th-i.thgim.com/public/incoming/3ygwin/article71239482.ece/alternates/LANDSCAPE_1200/CB09_Chess_1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/rathanvel-seals-99th-gm-title-as-india-closes-in-on-grandmaster-century/article71239477.ece",
+    "time": "2026-07-18T22:20:27.000Z"
   }
 ];
