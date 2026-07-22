@@ -1,6 +1,24 @@
 const newsData_bn = [
   {
     "cat": "Entertainment",
+    "title": "‘আমৃত্যু আগলে রাখব!’ জল্পনা শেষ করে শেহনাজ গিলের সঙ্গে সম্পর্ক নিয়ে সিলমোহর রাঘবের?",
+    "desc": "দিন কয়েক আগে মুম্বইয়ের এক পাঁচতারা হোটেলে বসেছিল ‘ব্যাডস অফ বলিউড’ খ্যাত অভিনেতা রাঘবের জন্মদিনের আসর। যে পার্টিতে উপস্থিত ছিলেন শাহরুখপুত্র নিজেও। পার্টিশেষে হোটেল থেকে বেরনোর সময়ে যে দৃশ্য ক্যামেরাবন্দি হয়, তাতেই শেহনাজের প্রেমের গুঞ্জনের পালে হাওয়া লেগেছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/raghav-juyal-breaks-silence-on-shielding-shehnaaz-gill-from-fans-says-he-would-step-in-for-any-woman-facing-harassment_663535.html ",
+    "time": "2026-07-22T07:11:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "৪১ বছরের পুরনো রহস্য এবার রূপালী পর্দায়! মহুয়ার লুকে চমকে দিলেন অঙ্কিতা, প্রকাশ্যে ‘গুন গুন করে মহুয়া’র প্রথম লুক",
+    "desc": "মহুয়ার মৃত্যু ধোঁয়াশায় মোড়া। তিনি কি আত্মহত্যা করেছিলেন? নাকি খুন হয়েছিলেন? রহস্য আজও অনাবৃত। আর ধোঁয়াশা জিইয়ে রেখেই প্রকাশিত প্রথম লুকে অঙ্কিতাকে দেখা গিয়েছে মহুয়ার সাজে। শাড়ি, গলায় লম্বা মুক্তোর মালা, কপালে টিপ এবং মাঝখানে সিঁথি করা চুলে তাঁকে অনেকটাই মহুয়ার মতো করে তুলে ধরা হয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/mohua-roy-choudhury-biopic-gungun-kore-mohua-ankita-mallick-gaurav-chakraborty_663523.html ",
+    "time": "2026-07-22T06:09:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "‘আমি একদম ফিট!’ হাসপাতালে ভর্তি ও সার্জারির জল্পনা উড়িয়ে ভুল ভাঙালেন খোদ বিগ বি",
     "desc": "ভুল ভাঙিয়ে নতুন পোস্টে অমিতাভ স্পষ্ট জানান, ফুটবল বিশ্বকাপে আর্জেন্টিনা ও মেসির পরাজয় পরবর্তী মানসিক পরিস্থিতির ব্যাখ্যা দিতে গিয়েই তিনি ওই উদাহরণ ব্যবহার করেছিলেন। তিনি সম্পূর্ণ সুস্থ রয়েছেন এবং খুব শীঘ্রই 'কৌন বনেগা ক্রোড়পতি'র নতুন সিজন নিয়ে ফিরছেন।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -358,15 +376,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/tollywood-actress-srabanti-chatterjee-pa-arrested-in-rape-case-howrah_662210.html ",
     "time": "2026-07-13T15:43:19.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "হরমুজ বন্ধ হতেই লাফিয়ে বাড়ল জ্বালানি তেলের দাম! গ্যাসের দামও কি এবার আকাশছোঁয়া হবে?",
-    "desc": "আগে মার্কিন যুক্তরাষ্ট্র ইরানের কয়েকটি গুরুত্বপূর্ণ নির্মাণ লক্ষ্য করে হামলা চালায়। মার্কিন সেন্ট্রাল কমান্ড জানিয়েছে, ইরানের বিভিন্ন সামরিক পরিকাঠামোয় একাধিক হামলা চালানো হয়েছে। এর জবাবে ইরানের ইসলামিক রেভল্যুশনারি গার্ড কোর দাবি করেছে, মধ্যপ্রাচ্যে মার্কিন যুক্তরাষ্ট্রের সামরিক ঘাঁটিগুলি লক্ষ্য করে ক্ষেপণাস্ত্র ও ড্রোন হামলা চালানো হয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/oil-jumps-3-percent-after-us-iran-escalate-strikes-in-mideast_662114.html ",
-    "time": "2026-07-13T07:33:16.000Z"
   },
   {
     "cat": "Entertainment",

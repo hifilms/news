@@ -1,6 +1,33 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "વિરોધનો વંટોળ છતાં ધર્મેન્દ્ર પ્રધાન પર કેમ અતૂટ વિશ્વાસ? મોદી સરકારના ભરોસા પાછળના 5 મોટા કારણ!",
+    "desc": "કોકરોચ જનતા પાર્ટી પેપરલીકના મુદ્દે શિક્ષણમંત્રી ધર્મેન્દ્ર પ્રધાનના રાજીનામા પર અડી છે. જ્યારે વિપક્ષી દળો પણ ધર્મેન્દ્ર પ્રધાને રાજીનામું આપી દેવું જોઈએ એવી માંગણી કરી રહ્યા છે. આમ છતાં સરકાર કેમ ધર્મેન્દ્ર પ્રધાન પાસેથી રાજીનામું લેવાના મૂડમાં નથી એવો સંકેત મળી રહ્યો છે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/why-is-there-unwavering-trust-in-dharmendra-pradhan-what-reason-behind-modi-government-trust-485424 ",
+    "time": "2026-07-22T08:00:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "જંતર મંતર પર હંગામા બાદ મોટો નિર્ણય: હિંસાને પગલે CRPFની 20 ટુકડી તૈનાત થશે, આજે વિપક્ષનો &amp;#039;કાળો&amp;#039; વિરોધ",
+    "desc": "જંતર મંતર પર હિંસા બાદ દિલ્હીમાં સુરક્ષા વ્યવસ્થા વધુ કડક કરાઈ છે. સ્થિતિ પર કાબૂ મેળવવા માટે CRPFની 20 ટુકડીઓ તૈનાત કરવાનો નિર્ણય લેવાયો છે. પ્રશાસને મંજૂરી વગર ડ્રોન ઉડાવવા ઉપર પર એફઆઈઆર નોંધવાની ચેતવણી આપી છે. જાણો સુરક્ષા વ્યવસ્થામાં થયેલા ફેરફાર અને પ્રશાસનની નવી ગાઈડલાઈન વિશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/cjp-protest-latest-update-centre-deploys-20-additional-crpf-companies-in-delhi-opposition-protest-part-2-485420 ",
+    "time": "2026-07-22T06:28:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ટીવી પર ટુંક સમયમાં શરુ થશે Bigg Boss 20, સલમાન ખાન કરશે હોસ્ટ, બિગ બોસ 20 નું ઓફિશિયલ એનાઉન્સમેન્ટ",
+    "desc": "ટીવીનો સૌથી વિવાદાસ્પદ અને લોકપ્રિય શો બિગ બોસ 20 ફરી એકવાર શરુ થવા જઈ રહ્યો છે. બિગ બોસ 20 નું ઓફિશિયલ એનાઉન્સમેન્ટ થઈ ગયું છે. આ વર્ષની સીઝન વધારે ખાસ હશે કારણ કે આ વર્ષે બિગ બોસ શો ને 20 વર્ષ પૂર્ણ થઈ રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/bigg-boss-20-announcement-video-with-new-eye-logo-salman-khan-will-host-bigg-boss-20-485419 ",
+    "time": "2026-07-22T06:19:50.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "સિયા ગોયલનો પ્લાન કંઈક અલગ જ હતો! કેતન પર હુમલાનું મોટું ષડયંત્ર! ઇન્ટરનેટ હિસ્ટ્રીએ ખોલ્યા રહસ્યો",
     "desc": "તપાસમાં જાણવા મળ્યું કે સિયા ગોયલ અને ચેતન ચૌધરીએ શરૂઆતમાં કેતન અગ્રવાલની હત્યાનું કાવતરું ઘડ્યું ન હતું. વધુમાં, તેમણે લોનાવાલાના લોહાગઢ કિલ્લા સિવાય અન્ય ઘણી જગ્યાઓનું ચેકિંગ કર્યું હતું. પોલીસ તપાસ ક્યાં સુધી પહોંચી છે તે જાણો.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -180,15 +207,6 @@ const newsData_gu = [
     "time": "2026-07-21T03:35:55.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "CJPના વિરોધ પ્રદર્શન બાદ હવે ખેડૂતોએ સરકાર સામે મોરચો માંડ્યો, હજારો ખેડૂતો કરી રહ્યા છે દિલ્હી કૂચ",
-    "desc": "આજે પંજાબથી મોટા પાયે ખેડૂતો શંભુ બોર્ડર પહોંચી રહ્યા છે. સીજેપીના વિરોધ પ્રદર્શન બાદ હવે આજે ખેડૂતોએ સરકાર સામે મોરચો માંડ્યો છે. દેશ બચાવો મોરચના આ્હવાન પર અમૃતસર અને ગુરુદાસપુરથી ખેડૂતોનો કાફલો બોર્ડર પર પહોંચી રહ્યો છે. ખેડૂતોને શું વાંકુ પડ્યું, કેમ વિરોધ પ્રદર્શન કરી રહ્યા છે તે પણ ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/farmers-march-to-delhi-large-number-of-kisans-reach-shambhu-border-485296 ",
-    "time": "2026-07-21T03:25:18.000Z"
-  },
-  {
     "cat": "World",
     "title": "યુક્રેનથી અનાજ લઈ જઈ રહેલા જહાજ પર ક્રૂઝ મિસાઈલ હુમલો, 4 ભારતીય નાગરિકો સહિત 10ના મોત; રશિયા પર ભડક્યું કીવ",
     "desc": "યુક્રેનના ઓડેસા બંદર પરથી અનાજ લઈને જઈ રહેલા એક કાર્ગો જહાજ પર હુમલાના સમાચાર સામે આવ્યા છે. પ્રારંભિક માહિતી મુજબ, હુમલામાં જહાજ પર સવાર 4 ભારતીય નાગરિકોના મોત થયા છે, જ્યારે એક અન્ય ગંભીર રીતે ઘાયલ છે.",
@@ -196,15 +214,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/cruise-missile-attack-on-ship-carrying-grain-from-ukraine-10-dead-including-4-indian-citizens-kiev-lashes-out-at-russia-485280 ",
     "time": "2026-07-20T17:20:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "આગામી 7 દિવસ ભારે ! આ વિસ્તારોમાં તૂટી પડશે ભારેથી અતિભારે વરસાદ",
-    "desc": "ભારતીય હવામાન વિભાગે આગામી સાત દિવસમાં દેશના અનેક ભાગોમાં ભારે વરસાદની આગાહી કરી છે. જેને ધ્યાનમાં રાખીને ખેડૂતો તેમના પાકને બચાવવા માટે એલર્ટ કરવામાં આવ્યા છે, ત્યારે કયા વિસ્તારોમાં વરસાદની આગાહી કરવામાં આવી છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/imd-rainfall-alert-heavy-rains-for-the-next-7-days-in-these-areas-485278 ",
-    "time": "2026-07-20T16:02:42.000Z"
   },
   {
     "cat": "Sports",
@@ -655,23 +664,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/at-what-degree-should-you-run-the-ac-during-monsoon-you-will-get-relief-from-humidity-your-electricity-bill-will-also-reduce-know-484458 ",
     "time": "2026-07-13T07:31:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "શેખર સુમને આમિર ખાનના ત્રીજા લગ્ન પર કરી કોમેન્ટ, વીડિયોમાં જુઓ શું શું કહ્યું આમિર ખાન માટે",
-    "desc": "આમિર ખાને ત્રીજા લગ્ન કર્યા ત્યારથી તે ચર્ચામાં છે. હવે શેખર સુમને પણ તેના શો શેખર ટુનાઈટમાં આમિર ખાનના ત્રીજા લગ્નની મજાક ઉડાવી છે. શેખર સુમને આમિર ખાન માટે શું કહ્યું છે અને તેના પર લોકો કેવું રિએકશન આપી રહ્યા છે વાંચી લો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/shekhar-suman-comedy-video-viral-know-what-he-said-on-aamir-khan-third-marriage-484445 ",
-    "time": "2026-07-13T06:24:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "હોરર ફિલ્મ ઓબ્સેશન ઘરે બેઠા જોઈ શકશો નેટફ્લિક્સ પર, જાણી લો ઓટીટી રિલીઝ ડેટ",
-    "desc": "હોરર ફિલ્મ ઓબ્સેશન બોક્સ ઓફિસ પર ભુક્કા બોલાવી ચુકી છે. હજુ પણ આ ફિલ્મનો ક્રેઝ યથાવત છે. જે લોકો આ ફિલ્મ સિનેમાઘરમાં નથી જોઈ શક્યા તેઓ આ ફિલ્મ ઓટીટી પર જોવા માટે તલપાપડ છે. જો તમે પણ ઓબ્સેશન ફિલ્મ જોવા માટે આતુર છો તો તમને જણાવી દઈએ કે આ ફિલ્મની ઓટીટી રિલીઝ ડેટ ફાઈનલ થઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/horror-film-obsession-netflix-release-date-where-to-watch-obsession-movie-484441 ",
-    "time": "2026-07-13T06:00:33.000Z"
   }
 ];

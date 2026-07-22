@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi to start afresh in Zimbabwe following a below-par debut",
+    "desc": "Just four months ago, Vaibhav Sooryavanshi proved his mettle in the Under-19 World Cup in Zimbabwe. In the final against England, the Bihar-born smashed 175 runs off 80 balls, securing a win by 100 runs...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-to-start-afresh-in-zimbabwe-following-a-below-par-debut-2026-07-22-1049025",
+    "time": "2026-07-22T08:05:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shimron Hetmyer, Sherfane Rutherford power West Indies to consolation ODI win over New Zealand",
+    "desc": "West Indies have finally returned to winning ways after three consecutive defeats against New Zealand in the ODI series. In the final game of the series in Barbados, the Caribbeans successfully chased down 269 runs...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shimron-hetmyer-sherfane-rutherford-power-west-indies-to-consolation-odi-win-over-new-zealand-2026-07-22-1049020",
+    "time": "2026-07-22T07:23:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Zimbabwe announce 15-member squad for T20I series vs India, Wessley Madhevere returns",
+    "desc": "Zimbabwe have reshaped their squad for the upcoming three-match T20I series against India. For the marquee series, the Chevrons have brought back all-rounder Wessly Madhevere and fast bowler Newman Nyamhuri while awarding wicketkeeper-batter Tafadzwa Tsiga...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/zimbabwe-announce-15-member-squad-for-t20i-series-vs-india-wessley-madhevere-returns-2026-07-22-1049014",
+    "time": "2026-07-22T06:26:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "David Warner pleads guilty to drink-driving, lawyer reveals details",
+    "desc": "Former Australia opener David Warner has pleaded guilty to a mid-range drink-driving charge. The plea was entered through Warner's lawyer, Bobby Hill, at Waverley Local Court on Wednesday, July 22. However, the veteran batter wasn’t...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/david-warner-pleads-guilty-to-drink-driving-lawyer-reveals-details-2026-07-22-1049008",
+    "time": "2026-07-22T06:00:12.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'I didn't believe him': Sanju Samson opens up on Rohit Sharma's advice, competition with Ishan Kishan",
     "desc": "Star India batter Sanju Samson has had a roller coaster of a career. At the age of 31, Samson has experienced almost everything there is to experience. From squad snubs to IPL heroics, and capping...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/all-you-need-to-know-about-the-hundred-2026-check-men-s-squads-schedule-and-live-streaming-details-2026-07-21-1048910",
     "time": "2026-07-21T06:45:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ruturaj Gaikwad named captain as West Zone announce squad for Duleep Trophy",
-    "desc": "The Duleep Trophy is all set to kick off on August 23, and ahead of the new season, the teams have started to reveal their squads for the event. West Zone joined the bandwagon as...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ruturaj-gaikwad-named-captain-as-west-zone-announce-squad-for-duleep-trophy-2026-07-21-1048902",
-    "time": "2026-07-21T05:42:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pat Cummins-Josh Hazlewood return as Australia name 13-man squad for Bangladesh Tests",
-    "desc": "In a major development, CA (Cricket Australia) has come forward and announced its 13-man squad for its upcoming two-game Test series against Bangladesh. It is worth noting that Australia and Bangladesh will take on each...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pat-cummins-josh-hazlewood-return-as-australia-name-13-man-squad-for-bangladesh-tests-2026-07-21-1048897",
-    "time": "2026-07-21T05:17:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Special Olympics Bharat wins bronze in Gothia Cup, coach calls for more practice matches for improvement",
-    "desc": "The Special Olympics Bharat football team was felicitated in New Delhi on Monday, July 20, following their bronze medal victory at the Gothia Cup 2026 in Sweden. Notably, India secured a third-place finish in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/special-olympics-bharat-wins-bronze-in-gothia-cup-coach-calls-for-more-practice-matches-for-improvement-2026-07-21-1048868",
-    "time": "2026-07-20T19:46:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "R Ashwin gives his take on Kuldeep Yadav's continued absence from India squad after England series loss",
-    "desc": "The Indian team has been undergoing a rough patch of form; after losing the T20I series against Ireland, the Men in Blue followed it up with a 4-0 T20I series loss against England. Furthermore, England...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/r-ashwin-gives-his-take-on-kuldeep-yadav-s-continued-absence-from-india-squad-after-england-series-loss-2026-07-20-1048858",
-    "time": "2026-07-20T14:43:54.000Z"
   }
 ];
