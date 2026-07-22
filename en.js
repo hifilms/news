@@ -1,11 +1,155 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Centre unlikely to sack Pradhan over NEET row, open to compensate for victims' kin: Report",
+    "title": "Jaishankar flags need for fair trade, supply chain reliability in meeting with Wang Yi",
+    "desc": "External Affairs Minister S Jaishankar met his Chinese counterpart Wang Yi in Manila. They discussed fair market access and trade balance, and supply chain reliability. Border peace and tranquility remain a prerequisite for normal bilateral ties between the two nations. India welcomed recent measures to normalize Sino-Indian relations and direct flights. Both sides engaged to ensure border peace since October 2024.",
+    "img": "https://static.toiimg.com/photo/msid-132567119,imgsize-1019484.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jaishankar-flags-need-for-fair-trade-supply-chain-reliability-in-meeting-with-wang-yi/articleshow/132567093.cms",
+    "time": "2026-07-22T19:02:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Did not refuse to meet KSU leaders, says Kerala Chief Minister V.D. Satheesan",
+    "desc": "Chief Minister’s comments came in response to reports that he had refused to meet KSU president Aloshious Xavier amid controversies over the appointment of an individual with alleged past links to the Students Federation of India as government pleader",
+    "img": "https://th-i.thgim.com/public/incoming/w2oikp/article71255202.ece/alternates/LANDSCAPE_1200/20260715072L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/did-not-refuse-to-meet-ksu-leaders-says-kerala-chief-minister-vd-satheesan/article71253883.ece",
+    "time": "2026-07-22T18:51:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Can Indian athletes punch up in the scaled-down Commonwealth Games?",
+    "desc": "Leading the country’s charge will be javelin ace Neeraj, who will face stiff competition from Pakistan’s Nadeem; the number of disciplines has been cut from 19 to 10 as the event tries to stay relevant",
+    "img": "https://th-i.thgim.com/public/incoming/d0lq6c/article71255069.ece/alternates/LANDSCAPE_1200/PTI07_22_2026_000400B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/glasgow-2026-commonwealth-games-india-preview/article71255062.ece",
+    "time": "2026-07-22T18:42:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SFI demands that UDF government rid the Kerala Governor of Chancellor power",
+    "desc": "Other demands include free bus travel for students, permanent Vice-Chancellors, free education till degree level, political freedom on campuses, permanent Principals in government colleges, regulating fees in private and self-financing institutions, and a unified examination system",
+    "img": "https://th-i.thgim.com/public/incoming/w96qb8/article71255188.ece/alternates/LANDSCAPE_1200/4863_23_1_2022_18_23_55_2_LOCKDOWN_1.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/sfi-demands-that-udf-government-rid-the-kerala-governor-of-chancellor-power/article71254236.ece",
+    "time": "2026-07-22T18:40:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salman Khan backs students' protest, says they deserve full credit",
+    "desc": "Bollywood star Salman Khan has voiced his support for students protesting against paper leaks, calling the issue \"very serious\" and urging that the movement remain focused on education rather than politics. Taking to Instagram, Salman praised students for coming together to demand a better education system and also acknowledged the support extended by their parents. However, he expressed sadness over reports that the otherwise peaceful protests had turned violent.",
+    "img": "https://static.toiimg.com/photo/msid-132566268,imgsize-53930.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-backs-students-protest-against-paper-leaks-says-they-deserve-full-credit-for-peaceful-movement-it-should-not-be-hijacked-politically/articleshow/132566152.cms",
+    "time": "2026-07-22T18:25:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Meet us here, CJP tells govt. as crowd swells at Jantar Mantar",
+    "desc": "If Ministers want to talk, they should come to people, says CJP; group appeals to Wangchuk to end fast; people turn up in thousands at Jantar Mantar; some of the protesters injured in police action back at venue",
+    "img": "https://th-i.thgim.com/public/incoming/gsl0mr/article71254334.ece/alternates/LANDSCAPE_1200/Cockroach%20Janta%20Party%20CJP%20Protest%20Delhi%2021.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/cjp-jantar-mantar-protest-updates-july-22-2026/article71254277.ece",
+    "time": "2026-07-22T17:47:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Drone-assisted cross-border drug smuggling surges since 2021, Punjab worst hit: Government",
+    "desc": "Drone-assisted drug trafficking across borders has risen significantly since 2021. Punjab is the most affected state, reporting 298 incidents last year. Authorities seized nearly 460 kg of narcotics, including substantial heroin amounts. Trafficking syndicates now use drones and GPS for infiltration. These groups also employ encrypted communications and local receiver networks.",
+    "img": "https://static.toiimg.com/photo/msid-132565177,imgsize-75454.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/drone-assisted-cross-border-drug-smuggling-surges-since-2021-punjab-worst-hit-government/articleshow/132565019.cms",
+    "time": "2026-07-22T17:41:49.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Temasek widens scope of India investments",
+    "desc": "Temasek is broadening its Indian investment focus beyond traditional sectors. The investor will now target industrials and artificial intelligence opportunities. Its India portfolio has grown significantly, reaching $42 billion by March 2026. The firm aims to double its recent capital deployment in the next three years. Temasek is increasing its AI exposure to fifteen percent by 2031.",
+    "img": "https://static.toiimg.com/photo/msid-132564970,imgsize-28894.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/temasek-widens-scope-of-india-investments/articleshow/132564849.cms",
+    "time": "2026-07-22T17:35:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lisa Kudrow says late mother 'texted' her from beyond after her death",
+    "desc": "Friends star Lisa Kudrow has shared a deeply personal experience that she believes could have been a sign from her late mother, Nedra Stern, after her death in 2020. Speaking on Mayim Bialik's Breakdown podcast, the actress, best known for playing the quirky Phoebe Buffay in the hit sitcom Friends, recalled a series of unexplained incidents that left her wondering whether her mother had somehow reached out to her from beyond.",
+    "img": "https://static.toiimg.com/photo/msid-132564644,imgsize-217874.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/friends-star-lisa-kudrow-recalls-eerie-moments-after-her-mother-nedra-sterns-death-says-she-believes-her-late-mom-texted-her-from-beyond-it-happened-three-times/articleshow/132564408.cms",
+    "time": "2026-07-22T17:24:01.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Trump’s 200% generic tariff threat would imperil Americans: Indian pharma",
+    "desc": "Effective August 1, 2026, all generic drugs being brought into the United States will continue to have a tariff of zero per cent for a two-year period of time, after which the tariff will be raised to 100% for a one-year period of time, and 200% thereafter, said Donald Trump",
+    "img": "https://th-i.thgim.com/public/incoming/26fsek/article71254968.ece/alternates/LANDSCAPE_1200/2026-07-22T151217Z_943419862_RC2XIMABQMJ6_RTRMADP_3_IRAN-CRISIS-TRANSFER-USA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/make-in-us-by-august-2028-or-pay-up-to-200-duty-trump-tells-generic-drugmakers/article71254793.ece",
+    "time": "2026-07-22T17:20:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rahul Gandhi reassures allies, says Opposition will maintain close coordination on protest strategies",
+    "desc": "At INDIA bloc meet, Congress leader tries to smooth ruffled egos; says allies were not deliberately kept out of the loop on the protest at the PM’s residence; insists decision was sudden, could not be communicated in time",
+    "img": "https://th-i.thgim.com/public/incoming/umqjhf/article71255063.ece/alternates/LANDSCAPE_1200/20260721570L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/rahul-gandhi-reassures-allies-says-opposition-will-maintain-close-coordinationon-protest-strategies/article71254558.ece",
+    "time": "2026-07-22T17:12:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I sent a message': Mac Allister's father reveals what son told him about Messi's pep talks",
+    "desc": "Lionel Messi's viral speech before the World Cup final was tactical. His teammate's father clarified the captain's words were taken out of context. Messi urged players to focus on football and their game plan. This explanation dismisses speculation of internal team issues. Spain ultimately won the match, proving to be the better side.",
+    "img": "https://static.toiimg.com/photo/msid-132564320,imgsize-92860.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/i-sent-a-message-to-alexis-alexis-mac-allisters-father-reveals-what-son-told-him-about-messis-dressing-room-pep-talks/articleshow/132564035.cms",
+    "time": "2026-07-22T17:11:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Keep students focused on studies, away from protest calls: AIU to varsities",
+    "desc": "The Association of Indian Universities asked institutions to counsel students against missing classes for protests. Prolonged agitations come at a considerable cost to students' own academic studies. The AIU acknowledged student concerns but stressed the disruption caused by extended demonstrations. Students should focus on academics and trust government efforts to strengthen examination systems. University heads must engage students and keep campuses calm and focused on studies.",
+    "img": "https://static.toiimg.com/photo/msid-132564363,imgsize-53702.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/keep-students-focused-on-studies-away-from-protest-calls-aiu-to-varsities/articleshow/132564246.cms",
+    "time": "2026-07-22T17:10:53.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Make in U.S. by August 2028 or pay up to 200% duty, Trump tells generic drugmakers",
+    "desc": "Effective August 1, 2026, all generic drugs being brought into the United States will continue to have a tariff of zero per cent for a two-year period of time, after which the tariff will be raised to 100% for a one-year period of time, and 200% thereafter, said Donald Trump",
+    "img": "https://th-i.thgim.com/public/incoming/26fsek/article71254968.ece/alternates/LANDSCAPE_1200/2026-07-22T151217Z_943419862_RC2XIMABQMJ6_RTRMADP_3_IRAN-CRISIS-TRANSFER-USA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/make-in-us-by-august-2028-or-pay-up-to-200-duty-trump-tells-generic-drugmakers/article71254793.ece",
+    "time": "2026-07-22T16:43:10.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "'Aam'ezing voyage: UP's mangoes make first sea journey to Dubai",
+    "desc": "Indian mangoes reached Dubai via a 25-day sea journey. Nearly ninety percent of the fruit remained market-ready after transit. This successful shipment paves the way for cheaper and larger mango exports. The new protocol reduces reliance on expensive air freight for shipments. This development enhances farmer incomes and boosts export earnings.",
+    "img": "https://static.toiimg.com/photo/msid-132563627,imgsize-1371400.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/aamezing-voyage-ups-mangoes-make-first-sea-journey-to-dubai/articleshow/132563158.cms",
+    "time": "2026-07-22T16:41:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court asks States, UTs to consider raising retirement age of judicial officers to 61",
+    "desc": "The court, however, clarified that the interim arrangement would not prejudice its adjudication of the larger question of whether the retirement age of district judicial officers should be uniformly enhanced from 60 to 62 years across the country.",
+    "img": "https://th-i.thgim.com/public/incoming/intnlg/article71246184.ece/alternates/LANDSCAPE_1200/Supreme%20Court%20%204.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/supreme-court-asks-states-uts-to-consider-raising-retirement-age-of-judicial-officers-from-60-to-61-years/article71253216.ece",
+    "time": "2026-07-22T16:31:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Centre unlikely to sack Pradhan over NEET row, open to compensate victims' kin: Report",
     "desc": "The central government will likely not remove the education minister amid NEET paper leak demands. It believes he is not responsible for the alleged examination irregularities. The government may consider compensation for students' families who died by suicide. It is also open to talks with protesters led by the CJP. Parliament remains the appropriate forum for discussing the issue and finding solutions.",
     "img": "https://static.toiimg.com/photo/msid-132562928,imgsize-730794.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/centre-unlikely-to-sack-pradhan-over-neet-row-open-to-compensate-for-victims-kin-report/articleshow/132562906.cms",
+    "url": "https://timesofindia.indiatimes.com/india/centre-unlikely-to-sack-pradhan-over-neet-row-open-to-compensate-victims-kin-report/articleshow/132562906.cms",
     "time": "2026-07-22T16:07:56.000Z"
   },
   {
@@ -46,39 +190,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Greens decry delay in remediation of Kuzhikandam creek in Kochi as PCB redraws plan",
-    "desc": "High Court directs PCB to revise implementation plan and complete key remedial works by year-end; greens say prolonged delay has allowed pollution and civic problems to persist; funding gap and recovery of remediation costs from polluting industries yet to be resolved",
-    "img": "https://th-i.thgim.com/public/incoming/209xom/article71254437.ece/alternates/LANDSCAPE_1200/SPV-likely-to-iGA6FCRH0T.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kuzhikandam-creek-rejuvenation-in-kochi-greens-flag-inordinate-delay-as-pcb-told-to-redraw-implementation-plan/article71253238.ece",
-    "time": "2026-07-22T15:09:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NHAI revises toll charges on Bengaluru-Nelamangala and Bengaluru-Kolar highway stretches",
-    "desc": "According to separate public notices issued by the Project Implementation Unit (PIU), Bengaluru, the revised toll rates will be applicable at the Bengaluru-Nelamangala toll plazas on NH-48 and the Hedaginabele, Agrahara, Krishnarajapura and Sundarapalya toll plazas on the Bengaluru-Bethamangala section of NH-75",
-    "img": "https://th-i.thgim.com/public/incoming/h6iudi/article71254481.ece/alternates/LANDSCAPE_1200/NH-4_elevated_expressway_05.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/nhai-revises-toll-charges-on-bengaluru-nelamangala-and-bengaluru-kolar-highway-stretches/article71253641.ece",
-    "time": "2026-07-22T15:01:51.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "TMC MLA Kunal Ghosh marshalled out, suspended after assembly ruckus",
     "desc": "Trinamool Congress MLA Kunal Ghosh faced suspension from the West Bengal Assembly. He disrupted proceedings by interrupting a fellow legislator during a budget debate. Marshals forcibly removed Ghosh after he refused to return to his seat. This incident highlighted internal rifts within the Trinamool Congress legislature party. Assembly proceedings resumed only after the legislator was escorted from the House.",
     "img": "https://static.toiimg.com/photo/msid-132561869,imgsize-5989887.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/watch-tmc-mla-kunal-ghosh-marshalled-out-suspended-after-assembly-ruckus/articleshow/132561597.cms",
     "time": "2026-07-22T15:00:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Andhra Pradesh government assures early resolution of long-pending employee issues",
-    "desc": "After nearly five hours of discussions between a ministerial panel and representatives of 21 employee organisations, Finance Minister Payyavula Keshav says all the demands will be examined and consolidated before placing them before the Chief Minister for consideration",
-    "img": "https://th-i.thgim.com/public/incoming/4jh5u4/article71254377.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-22%20at%2019.50.10.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-government-assures-early-resolution-of-long-pending-employee-issues/article71254169.ece",
-    "time": "2026-07-22T14:57:08.000Z"
   },
   {
     "cat": "Politics",
@@ -127,7 +244,7 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'Sooryavanshi must have rectified where he went wrong': Shreyas Iyer ahead of Zimbabwe series",
+    "title": "'Sooryavanshi must have rectified where he went wrong': Iyer ahead of Zimbabwe series",
     "desc": "Captain Shreyas Iyer expressed confidence in Vaibhav Sooryavanshi ahead of the Zimbabwe series. The young batter faced challenges during his recent England tour. Iyer believes Sooryavanshi has learned from his experiences and is ready. The team aims to play with freedom and recover from past tours. Sooryavanshi feels supported and confident returning to Harare.",
     "img": "https://static.toiimg.com/photo/msid-132561300,imgsize-186963.cms",
     "src": "indiatimes.com",
@@ -342,15 +459,6 @@ const newsData_en = [
     "time": "2026-07-22T10:45:50.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Chapter is behind me': Lalit Modi says he'll return to India soon",
-    "desc": "Lalit Modi plans to return to India by year-end or early next year. This follows major legal relief from the SAFEMA Appellate Tribunal concerning a 2009 IPL case. The tribunal set aside most Enforcement Directorate findings and penalties related to foreign exchange transactions. Modi stated he fought the case for sixteen years and felt vindicated by the verdict.",
-    "img": "https://static.toiimg.com/photo/msid-132556886,imgsize-52084.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/chapter-is-behind-me-lalit-modi-says-hell-return-to-india-soon/articleshow/132556816.cms",
-    "time": "2026-07-22T10:39:02.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Gill one point shy of world No. 1 in latest ICC ODI batting rankings",
     "desc": "Gill scored 188 runs in three matches in the 1-2 series defeat to England and is now just one rating point behind table-topper Daryl Mitchell, who has 802 points, while Kohli (767) and Rohit (758) occupy the third and fourth spots respectively",
@@ -367,15 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/boiling-point-brent-crude-touches-five-week-high-heres-what-analysts-expect-next-for-oil-markets/articleshow/132556723.cms",
     "time": "2026-07-22T10:32:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi HC seeks govt's response on pleas over alleged brutality during CJP march",
-    "desc": "The Delhi High Court issued a notice to the Delhi government on Wednesday. This action follows petitions alleging police brutality against students during a recent march. The court has directed the government to preserve all relevant digital records. These records include CCTV footage and body camera recordings from the incident. The matter has been scheduled for its next hearing on September eleventh.",
-    "img": "https://static.toiimg.com/photo/msid-132556740,imgsize-1174447.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-hc-seeks-govts-response-on-pleas-over-alleged-brutality-during-cjp-march/articleshow/132556673.cms",
-    "time": "2026-07-22T10:32:21.000Z"
   },
   {
     "cat": "Entertainment",
@@ -396,15 +495,6 @@ const newsData_en = [
     "time": "2026-07-22T10:20:03.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Goverment says 'discuss', opposition says 'Pradhan must go'",
-    "desc": "The government stated readiness for a Parliament discussion on the NEET exam irregularities. Opposition parties insisted on the Union Education Minister's resignation before any debate. Repeated disruptions in Rajya Sabha led to adjournments during the Monsoon Session. Protests continued inside and outside Parliament over the alleged paper leak. The government accused the Opposition of avoiding discussion by setting preconditions.",
-    "img": "https://static.toiimg.com/photo/msid-132556104,imgsize-920267.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/neet-impasse-deepens-goverment-says-discuss-opposition-says-pradhan-must-go/articleshow/132555981.cms",
-    "time": "2026-07-22T10:10:20.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Root re-enters top 10, Rohit closes gap on Virat",
     "desc": "England secured a 2-1 ODI series victory against India, marking their first since 2018. Joe Root returned to the top ten in ICC rankings after a stellar series performance. Ben Duckett's record 141 at Lord's propelled him to joint nineteenth place. Rohit Sharma and Virat Kohli remain highly ranked despite the series loss. Shubman Gill holds the second position, closely trailing Daryl Mitchell.",
@@ -423,15 +513,6 @@ const newsData_en = [
     "time": "2026-07-22T10:01:26.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Dhamaal 4' BO Day 13 [LIVE]: Ajay Devgn starrer crosses Rs 132 crore domestic net mark",
-    "desc": "Indra Kumar’s 'Dhamaal 4' continues to show solid resilience at the domestic box office. Pushed by its signature slapstick comedy and strong family appeal, the franchise sequel has comfortably sailed past the Rs. 100 crore net milestone in India and is now closing in on the Rs. 135 crore domestic net benchmark. Despite losing IMAX and premium screens to Christopher Nolan's epic 'The Odyssey', 'Dhamaal 4' is holding its ground across mass circuits and single screens.",
-    "img": "https://static.toiimg.com/photo/msid-132555923,imgsize-185750.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhamaal-4-box-office-collection-day-13-live-ajay-devgn-starrer-targets-rs-135-crore-domestic-benchmark-with-worldwide-gross-inching-toward-rs-180-crore/articleshow/132555850.cms",
-    "time": "2026-07-22T10:01:05.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Kuldeep Yadav lands county deal after no-show in India vs England ODIs",
     "desc": "Kuldeep Yadav has joined Yorkshire as an overseas player for the remainder of the English domestic season. The India spinner will play five One-Day Cup matches and three County Championship games. The move comes after he was left out of India's ODI series in England. Yorkshire believe Kuldeep's experience and left-arm wrist spin will strengthen their bowling attack.",
@@ -439,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/kuldeep-yadav-lands-county-deal-after-no-show-in-india-vs-england-odis/articleshow/132555687.cms",
     "time": "2026-07-22T09:55:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Will see where he is in 2031': Suvendu Adhikari dares Abhishek Banerjee to contest from Diamond Harbour",
-    "desc": "West Bengal Chief Minister Suvendu Adhikari challenged Abhishek Banerjee to contest Diamond Harbour. Adhikari questioned Banerjee's political standing and future prospects. This exchange follows Banerjee's remarks at a recent Martyrs' Day rally. Banerjee had vowed to settle political accounts with the BJP in 2031. Diamond Harbour has been Banerjee's Lok Sabha constituency since 2014.",
-    "img": "https://static.toiimg.com/photo/msid-132555794,imgsize-1088951.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/will-see-where-he-is-in-2031-adhikari-dares-abhishek-banerjee-to-contest-from-diamond-harbour/articleshow/132555762.cms",
-    "time": "2026-07-22T09:46:15.000Z"
   },
   {
     "cat": "Entertainment",
@@ -468,15 +540,6 @@ const newsData_en = [
     "time": "2026-07-22T09:32:23.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "What is Rajya Sabha Rule 267? Opposition seeks debate on NEET, police 'brutality'",
-    "desc": "Opposition leaders submitted a notice seeking immediate Rajya Sabha discussion on the NEET controversy. They also demanded a debate on alleged police action against student protesters. Congress president Mallikarjun Kharge called for the Education Minister's resignation. Deputy Chairman Harivansh noted Rule 267 is invoked on rare occasions. The opposition highlighted growing frustration with the education system.",
-    "img": "https://static.toiimg.com/photo/msid-132555397,imgsize-122358.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/explained-what-is-rajya-sabha-rule-267-opposition-seeks-debate-on-neet-police-brutality/articleshow/132555366.cms",
-    "time": "2026-07-22T09:31:11.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Sudhir Pandey recalls Akshay Kumar using a teleprompter in 'Toilet: Ek Prem Katha'",
     "desc": "Ek Prem Katha'. Pandey also praised Kumar's significant acting improvement over the years. Filmmaker Suneel Darshan previously shared similar insights about Kumar's prompts. Kumar was last seen in the moderately successful film 'Welcome to the Jungle'.",
@@ -484,15 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sudhir-pandey-recalls-akshay-kumar-using-a-teleprompter-for-long-sequences-in-toilet-ek-prem-katha-perhaps-he-has-now-started-to-abuse-the-system/articleshow/132555057.cms",
     "time": "2026-07-22T09:00:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rakul Preet dazzles in Rs 49K Kanjeevaram saree at Ramayana Delhi event",
-    "desc": "Part 1, dressed in a single-tone golden yellow checkered Kanjivaram saree from homegrown label Kankatala, styled by Ami Patel. The traditional silk drape, paired with statement jewellery from Shri Paramani Jewels, comes with a price tag of Rs 49,144.",
-    "img": "https://static.toiimg.com/photo/msid-132554703,imgsize-116254.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rakul-preet-singhs-yellow-kanjeevaram-saree-worth-rs-49k-steals-the-show-at-ramayana-pratham-sankalp-event/articleshow/132554482.cms",
-    "time": "2026-07-22T08:33:56.000Z"
   },
   {
     "cat": "Sports",
@@ -558,15 +612,6 @@ const newsData_en = [
     "time": "2026-07-22T05:51:36.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "After four-and-a-half years, Shahidi steps down as Afghanistan's ODI captain",
-    "desc": "Hashmatullah Shahidi has stepped down as Afghanistan's ODI captain after leading the team in 55 matches since 2022. He said he would continue playing for the national side despite resigning. Under his leadership, Afghanistan enjoyed memorable World Cup campaigns and major ODI series wins. The Afghanistan Cricket Board is expected to announce a new captain before the Ireland tour.",
-    "img": "https://static.toiimg.com/photo/msid-132551883,imgsize-112584.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/after-four-and-a-half-years-hashmatullah-shahidi-steps-down-as-afghanistans-odi-captain/articleshow/132551668.cms",
-    "time": "2026-07-22T05:49:08.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Pharma stocks bleed after Trump announces upto 200% tariff on generic drugs",
     "desc": "Pharmaceutical stocks faced pressure after US President Trump unveiled a phased tariff plan for imported generic medicines. This plan introduces steep duties on generic drugs after a two-year tariff-free window. Indian drugmakers are reassessing supply chains and investment plans due to potential future impacts. Companies without US manufacturing presence may face significantly altered economics. The announcement shifts focus to encouraging domestic production within the United States.",
@@ -628,15 +673,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-21-july-2026-bahrain-kuwait-donald-trump-live-news/article71247944.ece",
     "time": "2026-07-22T04:00:54.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "0%, 100%, then 200%: How Trump's new generic drug tariff plan could hit India",
-    "desc": "Donald Trump announced phased tariffs on imported generic medicines starting August 2026. These tariffs will gradually increase to 200 percent over three years. This policy aims to reshore pharmaceutical production back into America. India, a major supplier of affordable generics, faces significant impact from these changes. The move adds uncertainty to ongoing bilateral trade agreement.",
-    "img": "https://static.toiimg.com/photo/msid-132550622,imgsize-84463.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/0-100-then-200-how-trumps-new-generic-drug-tariff-plan-could-hit-india/articleshow/132550325.cms",
-    "time": "2026-07-22T03:50:03.000Z"
   },
   {
     "cat": "Sports",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-argentina-and-spain-players-in-ugly-brawl-seconds-after-final-whistle-in-fifa-world-cup-final/article71245243.ece",
     "time": "2026-07-20T12:49:06.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "India extends grant support to Maldives for fitness centres across 42 islands",
-    "desc": "On July 19, Memoranda of Understanding (MoUs) were signed by Maldivian Foreign Minister Iruthisham Adam, Indian High Commissioner G Balasubramanian and Maldives' Youth Empowerment, Sports and Fitness Minister Abdulla Rafiu at a ceremony in Male",
-    "img": "https://th-i.thgim.com/public/incoming/eabinu/article71244535.ece/alternates/LANDSCAPE_1200/2O3A0889.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/india-extends-grant-support-to-maldives-for-fitness-centres-across-42-islands/article71244487.ece",
-    "time": "2026-07-20T11:59:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "fuel for debate",
-    "desc": "As car and bike owners report clogged injectors, damaged fuel pumps, and contaminated petrol across the country, a look at competing claims on what is driving the complaints, and whether ethanol is really to blame",
-    "img": "https://th-i.thgim.com/public/incoming/rnecwc/article71241050.ece/alternates/LANDSCAPE_1200/Ethanol%20side%20effects%20in%20vehicles%20E%2020%202.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/the-e20-transition-fuel-for-debate/article71240965.ece",
-    "time": "2026-07-20T11:27:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sivaji Ganesan’s gift of baby elephant to American children and his U.S. visit as state guest",
-    "desc": "Sivaji Ganesan was invited to the United States as part of the U.S.–India Cultural Exchange Programme. During the trip, Sivaji was treated as a state guest, assigned two officials to assist him, and given a daily allowance of $160, a considerable sum at the time.",
-    "img": "https://th-i.thgim.com/public/incoming/3tl29a/article70728264.ece/alternates/LANDSCAPE_1200/HP120884.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/sivaji-ganesan-gift-of-baby-elephant-to-american-children-and-his-us-visit-as-state-guest-in-1962/article70728245.ece",
-    "time": "2026-07-20T10:01:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Death of a heroine and the making of hit Tamil film ‘Bhadrakali’ with substitute actor",
-    "desc": "“I remembered a girl who had danced in the movie Pattikattu Raja. She bore some resemblance to Rani Chandra. I discussed it with cinematographer Viswanath Roy and we devised a plan to use her,” said actor Sivakumar.",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/9vh3cl/article71085122.ece/alternates/LANDSCAPE_1200/Bhadrakali%20Sivakumar%20Rani%20Chandra%202.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/death-of-actor-rani-chandra-and-the-making-of-tamil-filmbhadrakaliwith-substitute-actor-in-1976/article71079732.ece",
-    "time": "2026-07-20T09:55:12.000Z"
   }
 ];

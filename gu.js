@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "શું શિક્ષણ મંત્રી ધર્મેન્દ્ર પ્રધાન રાજીનામું આપશે? સવાલ પર જાણો શું બોલ્યા જે.પી. નડ્ડા",
+    "desc": "રાહુલ ગાંધીની પત્રકાર પરિષદ બાદ પેપર લીક મુદ્દે કેન્દ્રીય મંત્રી જેપી નડ્ડાએ પણ પત્રકારો સાથે વાતચીત કરી હતી. તેમણે કહ્યું કે વિદ્યાર્થીઓના આંદોલન મુદ્દે રાજનીતિ ન થવી જોઈએ. તેના પર સંસદમાં વિસ્તારથી ચર્ચા થવી જોઈએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/will-education-minister-dharmendra-pradhan-resign-here-is-how-jp-nadda-responded-485488 ",
+    "time": "2026-07-22T17:44:16.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "એક લીક... અને લાખો સપનાઓ પર વાર! હવે એક્ઝામ માફિયાની સ્ટોરી લાવશે ZEE5, &amp;#039;The Scam- Leaked&amp;#039;નું ટીઝર આઉટ",
     "desc": "ઓટીટી પ્લેટફોર્મ ઝી5 પોતાની નવી વેબ સિરીઝ ધ સ્કેમ-લીક્ડ લઈને આવ્યો છે. આ સિરીઝની જાહેરાત આજે 22 જુલાઈએ કરવામાં આવી છે. આ સિરીઝનું ઝી5 એ એક ટીઝર જારી કર્યું છે, જેને જોયા બાદ દર્શકોનો ઉત્સાહ વધી ગયો છે.",
@@ -151,24 +160,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-and-lpg-gas-cylinder-price-hike-alert-cheack-latest-rate-485351 ",
     "time": "2026-07-21T09:42:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "રેલવેની ગાયબ થતી ચાદરો ક્યાં જાય છે? જવાબ મળી ગયો! વેસ્ટર્ન રેલવે લખેલો કુરતો પહેરીને શખ્સે મારી એન્ટ્રી! જુઓ Video",
-    "desc": "તાજેતરમાં, રેલવે બેડશીટની ચોરી અંગે ઘણી ચર્ચા થઈ હતી. એવું કહેવામાં આવી રહ્યું હતું કે કર્મચારીઓ ચોરાયેલી બેડશીટ માટે પૈસા પોતાના ખિસ્સામાંથી ચૂકવે છે. પરંતુ હવે, એક માણસે આ ચાદરોનો શ્રેષ્ઠ ઉપયોગ શોધી કાઢ્યો છે. તેણે તેમાંથી કુર્તા બનાવ્યા છે. આ સાબિત કરે છે કે બેડશીટ ચોરાઈ જાય છે, અને તે ક્યાં જાય છે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/where-do-the-disappearing-railway-sheets-go-a-man-wearing-a-kurta-with-western-railway-written-watch-the-video-485349 ",
-    "time": "2026-07-21T09:19:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "સિયા વિશે મોટો ખુલાસો, સોપારી આપવાનો કર્યો હતો પ્રયત્ન, પણ...જાણો કેમ જોતા હતા જાપાની વીડિયો?",
-    "desc": "પોતાના જ મંગેતરને લોહગઢ કિલ્લા પરથી ધક્કો મારીને મોત નિપજાવવાની આરોપી સિયા ગોયલ વિશે વળી પાછો ચોંકાવનારો ખુલાસો થયો છે. તે અને ચેતન જાપાની વીડિયો કેમ જોતા હતા તેના વિશે પણ મોટો દાવો કરાયો છે. જાણો વિગતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/ketan-murder-case-latest-update-big-revelation-about-siya-goyal-japani-videos-485347 ",
-    "time": "2026-07-21T09:13:29.000Z"
   },
   {
     "cat": "Sports",
