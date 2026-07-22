@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "સિયા ગોયલનો પ્લાન કંઈક અલગ જ હતો! કેતન પર હુમલાનું મોટું ષડયંત્ર! ઇન્ટરનેટ હિસ્ટ્રીએ ખોલ્યા રહસ્યો",
+    "desc": "તપાસમાં જાણવા મળ્યું કે સિયા ગોયલ અને ચેતન ચૌધરીએ શરૂઆતમાં કેતન અગ્રવાલની હત્યાનું કાવતરું ઘડ્યું ન હતું. વધુમાં, તેમણે લોનાવાલાના લોહાગઢ કિલ્લા સિવાય અન્ય ઘણી જગ્યાઓનું ચેકિંગ કર્યું હતું. પોલીસ તપાસ ક્યાં સુધી પહોંચી છે તે જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/siya-goyals-plan-was-something-different-a-big-conspiracy-to-attack-ketan-internet-history-reveals-secrets-485410 ",
+    "time": "2026-07-22T04:13:13.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "જેનેરિક દવાઓ પર ટ્રમ્પનો 200% ટેરિફનો હથોડો! ભારતને ફાયદો કે નુકસાન? જાણો સંપૂર્ણ ગણિત",
+    "desc": "ડોનાલ્ડ ટ્રમ્પે ફરીથી ટેરિફનો હથોડો વિંઝવાનું શરૂ કરી દીધું છે. આ વખતે જેનેરિક દવાઓ ટાર્ગેટ પર છે. તબક્કાવાર રીતે જેનેરિક દવાઓ પર 100થી 200 ટકા ટેરિફ લગાવવાની જાહેરાત કરી છે. જો કે આમાં પણ ભારત માટે તક છે, જાણો કઈ રીતે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/us-president-donald-trump-annouce-generic-drug-tariff-plan-how-will-impact-on-india-485407 ",
+    "time": "2026-07-22T04:06:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "તમે સુઈ રહ્યા હતા ત્યારે અચાનક સોનમ વાંગચુકને મળવા પહોંચ્યા જેપી નડ્ડા અને જીતેન્દ્ર સિંહ, શું થઈ મહત્વની ચર્ચા? જાણો",
+    "desc": "ભાજપના નેતા જેપી નડ્ડા અને કેન્દ્રીય મંત્રી ડૉ. જીતેન્દ્ર સિંહે હોસ્પિટલમાં દાખલ સોનમ વાંગચુક સાથે મુલાકાત કરી હતી. બંને નેતાઓએ તેમના સ્વાસ્થ્ય વિશે પૂછપરછ કરી અને વિવિધ મુદ્દાઓ પર ચર્ચા કરી. મુલાકાત દરમિયાન શું ચર્ચા થઈ અને તેનાથી શું પરિણામ આવી રહ્યું છે તે જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/jp-nadda-and-jitendra-singh-suddenly-arrived-to-meet-sonam-wangchuk-what-important-discussion-took-place-know-485396 ",
+    "time": "2026-07-22T02:20:20.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "BCCIએ ક્રિકેટના નિયમોમાં કર્યો ફેરફાર, હવે જાણી જોઈને નો-બોલ ફેંક્યો તો પડી શકે છે મોંઘો",
     "desc": "BCCIએ સ્થાનિક ક્રિકેટના નિયમોમાં કેટલાક ફેરફાર કર્યા છે, જેમાં એક ફેરફાર એવો છે કે જો ખેલાડી જાણી જોઈને નો બોલ ફેંકશે તો તેની સામે કડક કાર્યવાહી કરવામાં આવશે. આ નિર્ણય 2026-27ની સ્થાનિક સીઝન પહેલા લેવામાં આવ્યો છે.",
@@ -180,15 +207,6 @@ const newsData_gu = [
     "time": "2026-07-20T16:02:42.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "પૂંછમાં ભારે વરસાદ બાદ ભૂસ્ખલનમાં અનેક ઘરો ધરાશાયી... 7 લોકોના મોત, અનેક ઘાયલ",
-    "desc": "સોમવારે જમ્મુ-કાશ્મીરના પૂંછમાં ભૂસ્ખલનની નવી ઘટના સામે આવી છે. જેમાં સાત લોકોએ જીવ ગુમાવ્યા છે. આ ઘટના બાદ રાહત અને બચાવ કામગીરી ચાલુ છે. અધિકારીઓએ જણાવ્યું હતું કે ભૂસ્ખલનથી મોટી સંખ્યામાં ઘરો પ્રભાવિત થયા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/jammu-kashmir-poonch-landslides-after-heavy-rains-7-killed-many-injured-485274 ",
-    "time": "2026-07-20T14:31:30.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "સ્પેન બન્યું વર્લ્ડ ચેમ્પિયન તો મિયા ખલીફાને લાગી લોટરી, એક જ દિવસમાં કમાયા ₹15 કરોડ",
     "desc": "સ્પેન ફિફા વર્લ્ડ કપ 2026માં ચેમ્પિયન બનતા પૂર્વ એડલ્ટ સ્ટાર મિયા ખલીફાને લોટરી લાગી છે. મિયાએ એક જ દિવસમાં લગભગ ₹15 કરોડ કમાયા છે. સ્પેનની જીત બાદ મિયા ખલીફાએ ઇન્સ્ટાગ્રામ પર એક પોસ્ટ શેર કરીને ખુશી વ્યક્ત કરી.",
@@ -205,15 +223,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/crude-oil-crash-after-iran-statement-gold-and-silver-prices-jump-485265 ",
     "time": "2026-07-20T13:21:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "RTOના નવા નિયમ, પરિવહન પોર્ટલમાં મોટો ફેરફાર; હવે ઓનલાઈન વાહન માલિકી બદલવી બનશે વધુ સુરક્ષિત અને ઝડપી",
-    "desc": "દેશભરમાં વાહન માલિકીની તબદીલી અને નો-ઓબ્જેક્શન સર્ટિફિકેટ-NOC મેળવવાની પ્રક્રિયામાં મોટો સુધારો કરવામાં આવ્યો છે. સાથે જ પરિવહન પોર્ટલ પર આધાર કાર્ડ લિંક કરવું હવે ફરજિયાત કરવામાં આવ્યું છે. વાહન માલિકીની તબદીલીની પ્રક્રિયાને પારદર્શક અને સુરક્ષિત બનાવવા માટે આ મહત્વપૂર્ણ નિર્ણય લેવામાં આવ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/new-rto-rules-major-changes-in-transport-portal-now-online-vehicle-ownership-change-will-be-safer-and-faster-485264 ",
-    "time": "2026-07-20T12:52:32.000Z"
   },
   {
     "cat": "Business",
@@ -637,15 +646,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/america-attacks-iran-for-the-third-consecutive-day-iran-responds-with-a-befitting-reply-indian-dies-in-missile-attack-484543 ",
     "time": "2026-07-14T03:11:41.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ઈરાન રહે કે ન રહે, હોર્મુઝ બધા માટે ખુલ્લું રહેશે, ટ્રમ્પે કહ્યું- સુરક્ષા પણ કરીશું, પૈસા પણ લઈશું",
-    "desc": "મિડલ ઈસ્ટમાં ફરી એકવાર તણાવ વચ્ચે યુએસ પ્રમુખ ટ્રમ્પે હોર્મુઝ સ્ટ્રેટ અંગે એક મોટું નિવેદન આપ્યું છે. તેમણે ભારપૂર્વક જણાવ્યું હતું કે વિશ્વના સૌથી મહત્વપૂર્ણ દરિયાઈ વેપાર માર્ગોમાંથી એકની સુરક્ષા પુરી પાડવાના બદલામાં અમને પેમેન્ટ પણ મળવું જોઈએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/donald-trump-said-strait-of-hormuz-will-stay-open-to-all-with-or-without-iran-484538 ",
-    "time": "2026-07-13T15:56:19.000Z"
   },
   {
     "cat": "Tech",
