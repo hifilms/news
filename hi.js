@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Lalit Modi, IPL founder and first chairman, says he will return to India after major tribunal relief",
+    "desc": "Former Indian Premier League (IPL) chairman Lalit Modi has confirmed that he will return to India by the end of the year or early next year. An appellate tribunal set aside most of the Enforcement...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/lalit-modi-ipl-founder-and-first-chairman-says-he-will-return-to-india-after-major-tribunal-relief-2026-07-22-1049049",
+    "time": "2026-07-22T10:57:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tilak Varma hits back at strike-rate critics before Zimbabwe series, says 'I play as per situation'",
+    "desc": "Newly appointed India’s T20I vice-captain Tilak Varma has failed to live up to expectations in recent times. His poor strike rate has been a constant discussion among fans and arguably for the same reason, the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/tilak-varma-hits-back-at-strike-rate-critics-before-zimbabwe-series-says-i-play-as-per-situation-2026-07-22-1049041",
+    "time": "2026-07-22T10:22:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hashmatullah Shahidi steps down as Afghanistan captain, reveals decision",
+    "desc": "Afghanistan ODI captain Hashmatullah Shahidi has stepped down from his role after the series defeat to India. He took over the charge in 2022, having led the side in the ODI World Cup and Champions...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/hashmatullah-shahidi-steps-down-as-afghanistan-captain-reveals-decision-2026-07-22-1049036",
+    "time": "2026-07-22T08:59:19.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Vaibhav Sooryavanshi to start afresh in Zimbabwe following a below-par debut",
     "desc": "Just four months ago, Vaibhav Sooryavanshi proved his mettle in the Under-19 World Cup in Zimbabwe. In the final against England, the Bihar-born smashed 175 runs off 80 balls, securing a win by 100 runs...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-gives-his-take-on-shubman-gill-s-fitness-after-odi-series-loss-against-england-2026-07-21-1048943",
     "time": "2026-07-21T10:09:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Aminul Haque holds out hope for India-Bangladesh series, highlights importance of sports diplomacy",
-    "desc": "The Indian team has been long scheduled to tour Bangladesh, but due to several factors, the series has not conducted so far due to various factors. At the start of the year, the BCB (Bangladesh...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/aminul-haque-holds-out-hope-for-india-bangladesh-series-highlights-importance-of-sports-diplomacy-2026-07-21-1048935",
-    "time": "2026-07-21T08:54:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Katherine Sciver-Brunt named Trent Rockets' assistant coach ahead of The Hundred 2026",
-    "desc": "In a major development, The Hundred franchise, Trent Rockets Women, has come forward and named former England cricketer Katherine Sciver-Brunt as their new assistant coach ahead of the upcoming edition of The Hundred Women’s 2026. It...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/katherine-sciver-brunt-named-trent-rockets-assistant-coach-ahead-of-the-hundred-2026-2026-07-21-1048920",
-    "time": "2026-07-21T07:47:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "All you need to know about The Hundred 2026; Check Men's squads, schedule, and live streaming details",
-    "desc": "The stage is set for yet another edition of The Hundred 2026. The men's tournament will kick off on July 21st, and the season opener will see MI London taking on Sunrisers Leeds. The two...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/all-you-need-to-know-about-the-hundred-2026-check-men-s-squads-schedule-and-live-streaming-details-2026-07-21-1048910",
-    "time": "2026-07-21T06:45:15.000Z"
   }
 ];

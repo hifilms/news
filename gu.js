@@ -1,6 +1,24 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "પેપર લીક મુદ્દે NEET ટોપરનું મોટું નિવેદન, &amp;#039;ઘરે રહીને અભ્યાસ કરવાનું પસંદ કર્યું&amp;#039;",
+    "desc": "નીટ યુજી 2026ની ફરી લેવાયેલી પરીક્ષામાં AIR 2 પંશુલ બંસલે એક મોટું નિવેદન આપ્યું છે. કહ્યું કે પેપર રદ થવાથી નિરાશા જરૂર થઈ હતી પરંતુ મે લાંબો સમય સુધી નિરાશ થવાની જગ્યાએ મારા પરફોર્મન્સને વધુ સારા કરવા પર ધ્યાન આપ્યું અને ઘરે રહીને અભ્યાસ કરવાનું યોગ્ય સમજ્યું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/neet-ug-2026-topper-panshul-bansal-reaction-on-paper-leak-and-protest-485445 ",
+    "time": "2026-07-22T09:43:09.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "અદાણી લાવશે પોતાની એરલાઈન? ઇન્ડિગો-એર ઈન્ડિયાને ટક્કર આપવાની તૈયારી! જાણો",
+    "desc": "ભારતના ઉડ્ડયન બજારમાં હાલમાં બે કંપનીઓ, ઇન્ડિગો અને એર ઇન્ડિયાનું વર્ચસ્વ છે. પરંતુ આ પરિસ્થિતિ ટૂંક સમયમાં બદલાઈ શકે છે. સરકાર એરપોર્ટ ઓપરેટરોને પોતાની એરલાઇન્સ શરૂ કરવાની મંજૂરી આપી શકે છે. આનાથી અદાણી ગ્રુપ અને GMR એરપોર્ટ્સને એરલાઇન ક્ષેત્રમાં પ્રવેશવાનો માર્ગ મોકળો થશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/will-adani-launch-his-own-airline-preparing-to-compete-with-indigo-and-air-india-know-485444 ",
+    "time": "2026-07-22T09:22:04.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "વિરોધનો વંટોળ છતાં ધર્મેન્દ્ર પ્રધાન પર કેમ અતૂટ વિશ્વાસ? મોદી સરકારના ભરોસા પાછળના 5 મોટા કારણ!",
     "desc": "કોકરોચ જનતા પાર્ટી પેપરલીકના મુદ્દે શિક્ષણમંત્રી ધર્મેન્દ્ર પ્રધાનના રાજીનામા પર અડી છે. જ્યારે વિપક્ષી દળો પણ ધર્મેન્દ્ર પ્રધાને રાજીનામું આપી દેવું જોઈએ એવી માંગણી કરી રહ્યા છે. આમ છતાં સરકાર કેમ ધર્મેન્દ્ર પ્રધાન પાસેથી રાજીનામું લેવાના મૂડમાં નથી એવો સંકેત મળી રહ્યો છે?",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -196,15 +214,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/chilling-before-the-tragedy-shocking-engagement-video-surfaces-as-siya-goyal-praises-fiance-ketan-agarwal-she-later-murdered-485312 ",
     "time": "2026-07-21T05:37:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CJPનું મોટું એલાન: ધર્મેન્દ્ર પ્રધાનના રાજીનામા વગર પ્રદર્શન નહીં રોકાય, નડ્ડા સાથેની બેઠક પણ ફેલ!",
-    "desc": "કોકરોચ જનતા પાર્ટીના પ્રવક્તા આશુતોષ રાંકાએ જાહેરાત કરી છે કે સોનમ વાંગચુકની ભૂખ હડતાળ અને જંતર મંતર પર પાર્ટીનો વિરોધ ચાલુ છે. તેમણે દાવો કર્યો હતો કે જેપી નડ્ડા સાથેની ચાર કલાકની બેઠક અનિર્ણિત રહી. રાંકાએ જણાવ્યું હતું કે જ્યાં સુધી કેન્દ્રીય મંત્રી ધર્મેન્દ્ર પ્રધાન રાજીનામું ન આપે ત્યાં સુધી આંદોલન અને વિરોધ ચાલુ રહેશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/cjp-big-announcement-protests-will-not-stop-without-dharmendra-pradhan-resignation-meeting-with-nadda-also-failed-485304 ",
-    "time": "2026-07-21T03:35:55.000Z"
   },
   {
     "cat": "World",
@@ -414,15 +423,6 @@ const newsData_gu = [
     "time": "2026-07-19T12:05:35.000Z"
   },
   {
-    "cat": "Business",
-    "title": "PF ધારકો માટે કામના સમાચાર: જૂના PF એકાઉન્ટને નવા ખાતામાં મિનિટોમાં કરો ટ્રાન્સફર, EPFOએ જણાવી નવી રીત!",
-    "desc": "EPFOએ નોકરી બદલનારા કર્મચારીઓ માટે EPF એકાઉન્ટ ટ્રાન્સફર પ્રક્રિયાને સરળ બનાવી છે. સભ્યો હવે EPFO ​​પોર્ટલ પર 'રિક્વેસ્ટ ફોર ટ્રાન્સફર ઓફ એકાઉન્ટ' અને 'મેમ્બર સર્વિસ હિસ્ટ્રી' વિકલ્પો દ્વારા તેમના જૂના PF એકાઉન્ટને નવા ખાતામાં ટ્રાન્સફર કરી શકે છે. આ PF બેલેન્સને મર્જ કરે છે અને પેન્શન અને વીમા લાભોમાં વધારો કરે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/work-news-for-pf-holders-transfer-old-pf-account-to-new-account-in-minutes-epfo-reveals-new-method-485146 ",
-    "time": "2026-07-19T11:17:54.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "જુલાઈ એન્ડિંગમાં કાર બજાર ગરમાશે: Maruti, Toyota અને Honda લાવી રહી છે નવા મોડલ્સ, જાણો લોન્ચિંગ ડેટ અને કિંમત",
     "desc": "જુલાઈ 2026ના અંત પહેલા ભારતીય ઓટો બજારમાં ત્રણ નવી કાર લોન્ચ થવાની તૈયારીમાં છે. આમાં 2026 મારુતિ સુઝુકી બ્રેઝા ફેસલિફ્ટ, હોન્ડા ZR-V હાઇબ્રિડ અને નેક્સ્ટ-જનરેશન ટોયોટા હિલક્સનો સમાવેશ થાય છે. નવી બ્રેઝામાં અપડેટેડ ડિઝાઇન અને નવું એન્જિન હોવાની અપેક્ષા છે, જ્યારે હોન્ડા ZR-V હાઇબ્રિડ મજબૂત હાઇબ્રિડ ટેકનોલોજી અને પ્રીમિયમ સુવિધાઓ સાથે આવશે.",
@@ -430,15 +430,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/car-launches-in-july-end-maruti-toyota-and-honda-are-bringing-new-models-know-the-launch-date-and-price-485143 ",
     "time": "2026-07-19T10:40:11.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "મોંઘવારીનો મોટો ઝટકો: અદાણી CNGના ભાવમાં ફરી 2 રૂપિયાનો તોતિંગ વધારો, નવો ભાવ 90ને પાર",
-    "desc": "અદાણી સીએનજી દ્વારા ફરી એકવાર સીએનજીના ભાવમાં પ્રતિ કિલો 2 રૂપિયાનો વધારો ઝીંકાયો છે. CNGનો નવો ભાવ પ્રતિ કિલો 90 રૂપિયા પર પહોંચ્યો છે. ભાવ વધારાના કારણે CNG રિક્ષાચાલકો અને CNG વાહનધારકો પર ભારણ વધશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/adani-cng-price-hiked-by-rs-2-again-new-price-crosses-rs-90-485141 ",
-    "time": "2026-07-19T10:09:03.000Z"
   },
   {
     "cat": "Entertainment",
