@@ -1,5 +1,185 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Centre unlikely to sack Pradhan over NEET row, open to compensate for victims' kin: Report",
+    "desc": "The central government will likely not remove the education minister amid NEET paper leak demands. It believes he is not responsible for the alleged examination irregularities. The government may consider compensation for students' families who died by suicide. It is also open to talks with protesters led by the CJP. Parliament remains the appropriate forum for discussing the issue and finding solutions.",
+    "img": "https://static.toiimg.com/photo/msid-132562928,imgsize-730794.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/centre-unlikely-to-sack-pradhan-over-neet-row-open-to-compensate-for-victims-kin-report/articleshow/132562906.cms",
+    "time": "2026-07-22T16:07:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Responsibility of govt &amp; opposition to protect children's future': Centre urges dialogue as protests intensify",
+    "desc": "Parliament witnessed disruptions over the alleged NEET paper leak and police action. Opposition MPs marked a 'Black Day' protest demanding the education minister's resignation. The government offered a parliamentary discussion, which the opposition refused without the minister stepping down. Activist Sonam Wangchuk continues his hunger strike, setting conditions for ending it. Courts are examining allegations of police brutality during student demonstrations.",
+    "img": "https://static.toiimg.com/photo/msid-132562885,imgsize-162065.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/responsibility-of-govt-opposition-to-protect-childrens-future-centre-urges-dialogue-as-protests-intensify-top-developments/articleshow/132558546.cms",
+    "time": "2026-07-22T16:04:58.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Trump's 200% tariff plan may be a bitter pill for US consumers; Dr Reddy's warns of costlier medicines",
+    "desc": "The United States plans significant tariffs on imported generic medicines. These duties will rise to 200% in the coming years. Dr Reddy's Laboratories anticipates higher medicine prices for American consumers. Shifting manufacturing to the US is currently considered impractical by the company. India faces substantial exposure as a major generic medicine exporter to the US.",
+    "img": "https://static.toiimg.com/photo/msid-132562787,imgsize-993014.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/trumps-200-tariff-plan-may-be-a-bitter-pill-for-us-consumers-dr-reddys-warns-of-costlier-medicines/articleshow/132562742.cms",
+    "time": "2026-07-22T15:56:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'For the sake of India's future': Yuvraj calls for 'dialogue' amid NEET protests",
+    "desc": "Yuvraj Singh urged dialogue and peace for students amid NEET exam protests. He stressed that children deserve safe learning environments to chase their dreams. Protests over the alleged NEET paper leak have intensified across the country. Parliament has faced disruptions, and legal scrutiny continues over the issue. Manu Bhaker also voiced concerns for students' futures and fair opportunities.",
+    "img": "https://static.toiimg.com/photo/msid-132562764,imgsize-270534.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/for-the-sake-of-indias-future-yuvraj-singh-calls-for-dialogue-amid-neet-paper-leak-protests/articleshow/132562691.cms",
+    "time": "2026-07-22T15:56:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Abhijeet reveals how he defended Udit during kissing controversy",
+    "desc": "Playback singer Abhijeet Bhattacharya has revealed that he advised Udit Narayan to openly acknowledge the viral kissing controversy instead of shying away from it, saying he personally stood by his fellow singer when the backlash erupted. Speaking in a recent interview, Abhijeet recalled telling Udit to accept the incident instead of being defensive.",
+    "img": "https://static.toiimg.com/photo/msid-132562762,imgsize-161320.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/abhijeet-bhattacharya-reveals-how-he-defended-udit-narayan-during-kissing-controversy-fans-hug-and-kiss-you-you-also-gave-one-kiss-back-whats-the-issue/articleshow/132562731.cms",
+    "time": "2026-07-22T15:55:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Greens decry delay in remediation of Kuzhikandam creek in Kochi as PCB redraws plan",
+    "desc": "High Court directs PCB to revise implementation plan and complete key remedial works by year-end; greens say prolonged delay has allowed pollution and civic problems to persist; funding gap and recovery of remediation costs from polluting industries yet to be resolved",
+    "img": "https://th-i.thgim.com/public/incoming/209xom/article71254437.ece/alternates/LANDSCAPE_1200/SPV-likely-to-iGA6FCRH0T.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kuzhikandam-creek-rejuvenation-in-kochi-greens-flag-inordinate-delay-as-pcb-told-to-redraw-implementation-plan/article71253238.ece",
+    "time": "2026-07-22T15:09:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NHAI revises toll charges on Bengaluru-Nelamangala and Bengaluru-Kolar highway stretches",
+    "desc": "According to separate public notices issued by the Project Implementation Unit (PIU), Bengaluru, the revised toll rates will be applicable at the Bengaluru-Nelamangala toll plazas on NH-48 and the Hedaginabele, Agrahara, Krishnarajapura and Sundarapalya toll plazas on the Bengaluru-Bethamangala section of NH-75",
+    "img": "https://th-i.thgim.com/public/incoming/h6iudi/article71254481.ece/alternates/LANDSCAPE_1200/NH-4_elevated_expressway_05.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/nhai-revises-toll-charges-on-bengaluru-nelamangala-and-bengaluru-kolar-highway-stretches/article71253641.ece",
+    "time": "2026-07-22T15:01:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TMC MLA Kunal Ghosh marshalled out, suspended after assembly ruckus",
+    "desc": "Trinamool Congress MLA Kunal Ghosh faced suspension from the West Bengal Assembly. He disrupted proceedings by interrupting a fellow legislator during a budget debate. Marshals forcibly removed Ghosh after he refused to return to his seat. This incident highlighted internal rifts within the Trinamool Congress legislature party. Assembly proceedings resumed only after the legislator was escorted from the House.",
+    "img": "https://static.toiimg.com/photo/msid-132561869,imgsize-5989887.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/watch-tmc-mla-kunal-ghosh-marshalled-out-suspended-after-assembly-ruckus/articleshow/132561597.cms",
+    "time": "2026-07-22T15:00:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Andhra Pradesh government assures early resolution of long-pending employee issues",
+    "desc": "After nearly five hours of discussions between a ministerial panel and representatives of 21 employee organisations, Finance Minister Payyavula Keshav says all the demands will be examined and consolidated before placing them before the Chief Minister for consideration",
+    "img": "https://th-i.thgim.com/public/incoming/4jh5u4/article71254377.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-22%20at%2019.50.10.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-government-assures-early-resolution-of-long-pending-employee-issues/article71254169.ece",
+    "time": "2026-07-22T14:57:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'NEET paper leaked thrice in last 5 years': Annamalai lambasts former party BJP",
+    "desc": "K Annamalai criticized the Centre's handling of the NEET controversy and question paper leaks. He questioned the delay in engaging with protesting students after the issue escalated. Annamalai emphasized that protest is a fundamental right in a democracy. He stated the system lost credibility after repeated question paper leaks occurred. The former leader urged students to focus on core objectives and avoid vested interests.",
+    "img": "https://static.toiimg.com/photo/msid-132561774,imgsize-1461473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/neet-paper-leaked-thrice-in-last-5-years-annamalai-lambasts-former-party-bjp/articleshow/132561750.cms",
+    "time": "2026-07-22T14:53:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jaaved says Bachchwn was limited in roles as the commercial aspects didnt allow to move",
+    "desc": "Veteran actor Jaaved Jaaferi views immense stardom as a career limitation for performers. He notes that commercial pressures often restrict even the biggest stars' role choices. Jaaferi also observes that younger actors are professional but sometimes lack patience. He has avoided typecasting by spacing out his diverse film roles. Jaaferi believes he still has much more to offer as an actor.",
+    "img": "https://static.toiimg.com/photo/msid-132561768,imgsize-290409.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/jaaved-jaaferi-says-amitabh-bachchan-was-stereotyped-because-of-his-stardom-he-was-limited-because-the-commercial-aspects-didnt-allow-him-to-move/articleshow/132561734.cms",
+    "time": "2026-07-22T14:51:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Firouzja wins Chennai Grand Masters as Gukesh suffers shock last-place finish",
+    "desc": "French Grandmaster Alireza Firouzja secured the Chennai Grand Masters title. He held Indian GM Arjun Erigaisi to a draw in the final round. World champion D Gukesh endured a disappointing campaign, finishing last in the tournament. Firouzja finished with 4.5 points after two victories and five draws. Andreikin ended the event as the only other unbeaten player.",
+    "img": "https://static.toiimg.com/photo/msid-132561701,imgsize-104952.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/chennai-grand-masters-alireza-firouzja-wins-title-as-world-champion-gukesh-suffers-shock-last-place-finish/articleshow/132561685.cms",
+    "time": "2026-07-22T14:49:48.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Wall Street drifts in mixed trading; oil prices rise another 3%",
+    "desc": "The S&P 500 slipped 0.2%, despite a majority of its constituent stocks trading higher. Artificial intelligence-related stocks have remained the key driver of recent market volatility. Micron Technology declined 1.6% after rallying 14.4% over the previous two trading sessions, a move that had almost fully recovered its 13.3% decline from the prior week. Even after the latest pullback, the stock remains up nearly 235% so far this year.",
+    "img": "https://static.toiimg.com/photo/msid-132561699,imgsize-401496.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-stock-market-today-wall-street-drifts-in-mixed-trading-oil-prices-rise-another-3/articleshow/132561483.cms",
+    "time": "2026-07-22T14:48:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Shilpa hasn't taken a single penny from the profits of Bastian,' confirms Raj after Shobhaa De's claim",
+    "desc": "Raj Kundra revealed Bastian's business model focuses on reinvesting earnings. The restaurant chain has experienced tremendous growth since its first outlet. Shilpa Shetty's husband confirmed they do not take money for personal use. Author Shobhaa De had previously claimed very high nightly revenues for Bastian. Shilpa Shetty later dismissed these exaggerated revenue figures as untrue.",
+    "img": "https://static.toiimg.com/photo/msid-132561493,imgsize-195194.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shilpa-shetty-hasnt-taken-a-single-penny-from-the-profits-of-bastian-confirms-raj-kundra-after-shobhaa-des-claims-that-the-mumbai-outlet-earns-rs-2-3-crore-per-night/articleshow/132559419.cms",
+    "time": "2026-07-22T14:31:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Sooryavanshi must have rectified where he went wrong': Shreyas Iyer ahead of Zimbabwe series",
+    "desc": "Captain Shreyas Iyer expressed confidence in Vaibhav Sooryavanshi ahead of the Zimbabwe series. The young batter faced challenges during his recent England tour. Iyer believes Sooryavanshi has learned from his experiences and is ready. The team aims to play with freedom and recover from past tours. Sooryavanshi feels supported and confident returning to Harare.",
+    "img": "https://static.toiimg.com/photo/msid-132561300,imgsize-186963.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/he-must-have-rectified-where-he-went-wrong-shreyas-iyer-backs-vaibhav-sooryavanshi-ahead-of-zimbabwe-series/articleshow/132561191.cms",
+    "time": "2026-07-22T14:23:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jaffer says Rahul 'is at par' with Kohli, reveals one quality that separates them",
+    "desc": "Wasim Jaffer believes KL Rahul possesses talent equal to Virat Kohli. He noted Rahul's technical skill and composure in all formats. Jaffer feels Rahul has underachieved despite his considerable potential. Kohli's elite mentality and consistency create a significant difference between the two players. This mental edge has allowed Kohli to achieve unprecedented success in cricket.",
+    "img": "https://static.toiimg.com/photo/msid-132560951,imgsize-149244.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/wasim-jaffer-says-kl-rahul-is-at-par-with-virat-kohli-reveals-one-quality-that-separates-them/articleshow/132560866.cms",
+    "time": "2026-07-22T14:12:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Jana Nayagan' BO: Vijay's film beats Suriya's 'Karuppu' advance sales",
+    "desc": "Jana Nayagan's advance bookings are showing massive response across all theatres. The film has already grossed around fifteen crore rupees from Tamil Nadu alone. Advance ticket sales have surpassed Suriya's Karuppu, setting a new record. Trade analysts expect a significant opening day collection for the movie. All eyes are now on the film's first-day box office performance.",
+    "img": "https://static.toiimg.com/photo/msid-132560964,imgsize-143096.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-pre-sales-vijays-final-film-eyes-a-blockbuster-opening-beats-suriyas-karuppu-advance-sales/articleshow/132560942.cms",
+    "time": "2026-07-22T14:06:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "H Vinoth dismisses Karur rumours ahead of Vijay's 'Jana Nayagan' release",
+    "desc": "Director H Vinoth has denied rumors about secret filming for Vijay's 'Jana Nayagan' in Karur. He stated that simple verification would have easily exposed the falsehood of these claims. Vinoth mentioned that the accusations deeply affected his family and were a disappointment. The film 'Jana Nayagan' is now set for its theatrical release on July 23. This movie marks Vinoth's first collaboration with actor Vijay.",
+    "img": "https://static.toiimg.com/photo/msid-132560833,imgsize-162138.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/h-vinoth-dismisses-karur-rumours-ahead-of-vijays-jana-nayagan-release-if-they-had-actually-checked-they-would-have-easily-found-the-truth/articleshow/132559686.cms",
+    "time": "2026-07-22T13:58:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'There were a lot of positives': Iyer on 'rough' England tour, urges fearless approach",
+    "desc": "India captain Shreyas Iyer views the recent England tour as a foundation for future success. He believes the challenging phase has brought the squad closer together. Iyer urged his young team to embrace an attacking mindset and not fear failure. The team faces Zimbabwe in a three-match T20I series starting Thursday. He also warned against underestimating the experienced Zimbabwe squad.",
+    "img": "https://static.toiimg.com/photo/msid-132560421,imgsize-96940.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/there-were-a-lot-of-positives-shreyas-iyer-reflects-on-rough-england-tour-urges-fearless-approach-in-zimbabwe/articleshow/132560322.cms",
+    "time": "2026-07-22T13:41:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'He was struggling': Ex-India cricketer slams Shubman Gill's captaincy vs England",
+    "desc": "Former India batter Hanuma Vihari questioned Shubman Gill's leadership after a recent ODI defeat. Vihari highlighted concerns regarding the team's limited bowling options during the crucial match. He also expressed confusion over Kuldeep Yadav's exclusion from the playing eleven. The former player emphasized the need for experienced match-winners in ODIs. Vihari believes Gill needs tactical improvements in his captaincy approach.",
+    "img": "https://static.toiimg.com/photo/msid-132560247,imgsize-114266.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/he-was-struggling-former-india-cricketer-slams-shubman-gills-captaincy-against-england/articleshow/132559750.cms",
+    "time": "2026-07-22T13:39:50.000Z"
+  },
+  {
     "cat": "Business",
     "title": "BPCL posts Rs 3,962 crore Q1 loss as high crude prices squeeze fuel margins",
     "desc": "Bharat Petroleum Corporation Ltd reported a significant net loss for the April-June quarter. Elevated crude oil prices and regulated fuel rates severely impacted marketing margins. The company incurred substantial LPG under-recoveries and unpaid subsidy dues. Revenue from operations increased, but total expenses climbed significantly. Fuel sales and refinery processing saw a slight decline during the period.",
@@ -7,15 +187,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/bpcl-posts-rs-3962-crore-q1-loss-as-high-crude-prices-squeeze-fuel-margins/articleshow/132559201.cms",
     "time": "2026-07-22T13:32:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Six booked for trespass, vandalism on Baldota premises in Koppal",
-    "desc": "During the protest, farmer leaders had demanded that Basapur Lake, located within the company’s premises, be opened for public use; hundreds of protesters later damaged the compound wall and the main entrance of the company.",
-    "img": "https://th-i.thgim.com/public/incoming/nl3ovp/article71253757.ece/alternates/LANDSCAPE_1200/10258_21_7_2026_21_0_0_1_KLB_FARMERS_AGITATIONKOPPAL_2.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/six-booked-for-trespass-vandalism-at-baldota-premises/article71253637.ece",
-    "time": "2026-07-22T13:30:51.000Z"
   },
   {
     "cat": "Sports",
@@ -36,51 +207,6 @@ const newsData_en = [
     "time": "2026-07-22T13:27:37.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "NHSRCL",
-    "desc": "The advanced 2×25 kV Overhead Traction System, being introduced in India for the very first time, is designed to provide a stable and uninterrupted power supply required for trains operating at speeds of up to 320 kmph, NHSRCL officials said",
-    "img": "https://th-i.thgim.com/public/incoming/81ecbk/article71253551.ece/alternates/LANDSCAPE_1200/2024-05-31T003117Z_985146690_RC2M91AHK9UY_RTRMADP_3_INDIA-ECONOMY-GDP.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bullet-train-corridor-being-equipped-with-advanced-electrification-system-nhsrcl/article71253261.ece",
-    "time": "2026-07-22T13:27:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Opposition seeks withdrawal of Kalyan Banerjee's suspension, meets Speaker",
-    "desc": "When there was a din in the House, the Chair read a suspension notice, and Kalyan Banerjee was suspended for the rest of the session; it was a totally wrong decision, said veteran TMC leader Saugata Roy",
-    "img": "https://th-i.thgim.com/public/incoming/oim5z0/article71253698.ece/alternates/LANDSCAPE_1200/PTI07_06_2026_000383A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/opposition-seeks-withdrawal-of-kalyan-banerjees-suspension-meets-speaker/article71253622.ece",
-    "time": "2026-07-22T13:23:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Mittaganahalli landfill, sitting on 287 crore litres of leachate, leaks into Srinivasapura Lake",
-    "desc": "The landfill is located at a higher elevation than the lake, and the leachate flows through a natural waterway before entering drain lines created for a nearby private layout, which then joins a natural drain, ultimately ending at the lake inlet",
-    "img": "https://th-i.thgim.com/public/incoming/h95d21/article71253505.ece/alternates/LANDSCAPE_1200/IMG_8122.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/bangalore/mittaganahalli-landfill-sitting-on-287-crore-litres-of-leachate-leaks-into-srinivasapura-lake/article71249233.ece",
-    "time": "2026-07-22T13:20:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Ministerial aspirants disappointed as Karnataka Cabinet expansion postponed again in the light of NEET protests",
-    "desc": "The Congress high command is now likely to invite the Karnataka leaders to New Delhi early next week to deliberate not only on the Cabinet expansion but also on the appointment of the Speaker ahead of the monsoon session beginning on August 6",
-    "img": "https://th-i.thgim.com/public/incoming/a6ri5n/article71253668.ece/alternates/LANDSCAPE_1200/_JAI1705.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/ministerial-aspirants-disappointed-as-karnataka-cabinet-expansion-postponed-again-in-the-light-of-neet-protests/article71253300.ece",
-    "time": "2026-07-22T13:18:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Nagercoil custodial death revives memories of the 1996 prison killing that shook Tamil Nadu",
-    "desc": "While Lingam, a kabaddi player, was lodged in the Nagercoil District Sub-Jail, a gang of over 30 people broke into the prison from the outside and murdered him in 1996. He was decapitated, and his head was dumped at the Meenachipuram bus stand",
-    "img": "https://th-i.thgim.com/public/incoming/pdx96t/article71253208.ece/alternates/LANDSCAPE_1200/iStock-2258842564.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/nagercoil-custodial-death-revives-memories-of-the-1996-prison-killing-that-shook-tamil-nadu/article71252543.ece",
-    "time": "2026-07-22T13:14:18.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Vijay’s ‘Jana Nayagan’ releases: Looking back at MGR’s ‘Meenava Nanban’ in 1977",
     "desc": "Meenava Nanban. Leading newspapers of the time captured the pre-release buzz of this film, with film posters with only carrying the title ‘Makkal Thilagam’ and not ‘Chief Minister’. We catch up with T Rajappa Venkatachari – or ‘MGR Swami’, as he is known – who recalls watching the first day first show of the film in 1977 at Tirunelveli’s Central Theatre.",
@@ -91,39 +217,21 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Tensions escalate in Vijayawada as BJP activists march to Congress office over NEET protests",
-    "desc": "BJP workers led by State president P.V.N. Madhav gathered outside Andhra Ratna Bhavan on Wednesday against the Congress’s Delhi sit-in over the alleged NEET-UG leak; the party alleged that three of its district leaders were injured, and the police detained some activists",
-    "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/989h55/article71252755.ece/alternates/LANDSCAPE_1200/barri.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/tensions-escalate-in-vijayawada-as-bjp-activists-march-to-congress-office-over-neet-protests/article71252673.ece",
-    "time": "2026-07-22T12:59:35.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Is NCP(SP) chief Sharad Pawar keeping options open on Delimitation Bill?",
     "desc": "The silence of Sharad Pawar's NCP(SP) regarding the Delimitation Bill is stirring political rumors. While Sharad Pawar joined the opposition for demonstrations on Tuesday, he met Prime Minister Narendra Modi the next day. Supriya Sule, his daughter, expressed conditional support for Bill if it proposed seat increases across states evenly. This reflects Pawar's history of maintaining strategic ambiguity, thereby ensuring his party remains adaptable within shifting political currents.",
-    "img": "https://static.toiimg.com/photo/msid-47529300.cms",
+    "img": "https://static.toiimg.com/photo/msid-132560607,imgsize-1087917.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/politics-of-silence-is-ncpscp-chief-sharad-pawar-keeping-options-open-on-delimitation-bill/articleshow/132556481.cms",
     "time": "2026-07-22T12:44:21.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Lok Sabha suspends TMC’s Kalyan Banerjee for using ‘unsavoury’ language against women MPs",
-    "desc": "As soon as the House assembled at 2 p.m. after the second adjournment of the day, Krishna Prasad Tenneti, who was chairing the proceedings, referred to a complaint filed by members with the speaker against Mr. Banerjee and said his remarks had hurt the dignity of the House.",
-    "img": "https://th-i.thgim.com/public/incoming/22z35u/article71253232.ece/alternates/LANDSCAPE_1200/PTI07_08_2026_000563B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/lok-sabha-suspends-tmcs-kalyan-banerjee-for-using-unsavoury-language-against-women-mps/article71253183.ece",
-    "time": "2026-07-22T12:35:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Supreme Court asks States, UTs to consider raising retirement age of judicial officers from 60 to 61 years",
-    "desc": "A Bench comprising Chief Justice Surya Kant and Justices Joymalya Bagchi and V. Mohana passed the direction while hearing a petition seeking uniform enhancement of the retirement age of district judiciary judges from 60 to 62 years across the country",
-    "img": "https://th-i.thgim.com/public/incoming/intnlg/article71246184.ece/alternates/LANDSCAPE_1200/Supreme%20Court%20%204.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/supreme-court-asks-states-uts-to-consider-raising-retirement-age-of-judicial-officers-from-60-to-61-years/article71253216.ece",
-    "time": "2026-07-22T12:28:19.000Z"
+    "cat": "Entertainment",
+    "title": "'Jana Nayagan' producer reveals Yash and Sivakarthikeyan stood by Vijay",
+    "desc": "Jana Nayagan producer Venkat K Narayana praised Vijay, Yash, and Sivakarthikeyan for their support. Yash provided the biggest pillar of strength during the film's challenging release period. Sivakarthikeyan personally met the producer and expressed his concern during the censor controversy. The film finally heads to theatres after overcoming censor hurdles and piracy issues. Jana Nayagan is set for its theatrical journey starting July twenty-third.",
+    "img": "https://static.toiimg.com/photo/msid-132560755,imgsize-108325.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-producer-reveals-yash-and-sivakarthikeyan-stood-by-vijay-during-censor-delay-and-piracy-issue/articleshow/132559216.cms",
+    "time": "2026-07-22T12:30:43.000Z"
   },
   {
     "cat": "Politics",
@@ -145,30 +253,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'I would have headbutted him!': Ibrahimovic blasts Paredes, asks why Spain players 'just watched'",
+    "title": "'I would have headbutted him!': Ibrahimovic slams Paredes, asks why Spain players 'just watched'",
     "desc": "Zlatan Ibrahimovic strongly criticised Argentine midfielder Leandro Paredes for his actions. He stated he would have headbutted Paredes if he had been on the field. Ibrahimovic also questioned the Spanish players' lack of response to the confrontation. FIFA is investigating Paredes' conduct following the match. Paredes later expressed pride in representing his country despite the loss.",
     "img": "https://static.toiimg.com/photo/msid-132558428,imgsize-306486.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/i-would-have-headbutted-him-zlatan-ibrahimovic-blasts-leandro-paredes-asks-why-spain-players-just-stood-and-watched/articleshow/132558290.cms",
     "time": "2026-07-22T11:49:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Rahul Gandhi misused LoP privileges, protest outside PM's residence childish: BJP",
-    "desc": "Congress leaders, led by Rahul Gandhi and party president Mallikarjun Kharge, had staged a dharna outside the Prime Minister's residence on July 21, demanding PM Modi's resignation over the police action against students protesting the alleged NEET paper leak issue",
-    "img": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-karnataka/lcyhcc/article71251279.ece/alternates/LANDSCAPE_1200/Countdown-beginGVEG9K8I4.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/rahul-gandhi-misused-lop-privileges-protest-outside-pms-residence-childish-bjp/article71252871.ece",
-    "time": "2026-07-22T11:47:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SC declines interim stay on Speaker’s decision to approve Uddhav Sena MPs’ ‘merger’ with Shinde faction",
-    "desc": "Shiv Sena (UBT) leader Arvind Sawant, who filed the petition, argued that the purported merger is ‘unconstitutional’ and ‘perverse’; the Bench, however, declined to give any such assurance and posted the matter for hearing after two weeks",
-    "img": "https://th-i.thgim.com/public/incoming/va8npy/article71253054.ece/alternates/LANDSCAPE_1200/PTI7_15_2017_000089B.JPEG-062fd.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/sc-declines-interim-stay-on-speakers-decision-to-approve-uddhav-sena-mps-merger-with-shinde-faction/article71252108.ece",
-    "time": "2026-07-22T11:36:46.000Z"
   },
   {
     "cat": "Business",
@@ -187,6 +277,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-faces-ticket-price-controversy-despite-strict-pricing-rules-for-vijays-first-release-as-tamil-nadu-chief-minister/articleshow/132557582.cms",
     "time": "2026-07-22T11:22:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jeetendra bought Bharat Bhushan's Pali hill bunglalow for Rs 4.25 lakh, the plot now costs Rs 450 cr",
+    "desc": "Jeetendra purchased Bharat Bhushan's bungalow for a modest sum. He later sold the Burma teak from the demolished structure for profit. This initial investment laid the groundwork for his successful real estate career. The property's value has since appreciated significantly over the years. Today, the land alone is worth an estimated Rs 450 crore.",
+    "img": "https://static.toiimg.com/photo/msid-132557832,imgsize-283492.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/jeetendra-bought-bharat-bhushans-pali-hill-bunglalow-for-rs-4-25-lakh-the-plot-now-costs-rs-450-crore-thought-it-was-unlucky-for-him-but-i-got-rs-11-5-lakh-just-for-the-burma-teak-imagine/articleshow/132557529.cms",
+    "time": "2026-07-22T11:21:55.000Z"
   },
   {
     "cat": "Business",
@@ -223,15 +322,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/jana-nayagan-release-h-vinoth-interview-thalapathy-vijay-pooja-hegde-anirudh-ravichander/article71250216.ece",
     "time": "2026-07-22T11:08:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "AIADMK submits clarification to Speaker on anti-defection petition",
-    "desc": "Earlier, the Speaker had sought certain clarifications from Edappadi Palaniswami after receiving written explanations from former MLAs Maragatham Kumaravel, S. Jayakumar, P. Sathyabama, and Esaki Subaya in response to notices issued to them under the anti-defection law",
-    "img": "https://th-i.thgim.com/public/incoming/125ks4/article71253012.ece/alternates/LANDSCAPE_1200/9868_14_7_2026_15_30_17_3_PRESSMEET_3.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/aiadmk-submits-clarification-to-speaker-on-anti-defection-petition/article71252863.ece",
-    "time": "2026-07-22T11:06:14.000Z"
   },
   {
     "cat": "Sports",
@@ -342,15 +432,6 @@ const newsData_en = [
     "time": "2026-07-22T10:01:05.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'My first Rs 50 crore grosser': Vishnu Vishal celebrates 'Gatta Kusthi 2'",
-    "desc": "Vishnu Vishal's film Gatta Kusthi 2 has achieved a significant box office milestone. The movie has now earned fifty-five crore rupees worldwide, marking a career high. This success is attributed to positive audience reception and strong word-of-mouth reviews. The actor expressed deep gratitude to his fans for their overwhelming support. He promised to continue delivering entertaining stories and better cinematic experiences.",
-    "img": "https://static.toiimg.com/photo/msid-132555929,imgsize-244540.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/my-first-rs-50-crore-grosser-vishnu-vishal-thanks-fans-for-their-love-and-celebrates-as-gatta-kusthi-2-earns-rs-55-crore-globally/articleshow/132555910.cms",
-    "time": "2026-07-22T09:56:21.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Kuldeep Yadav lands county deal after no-show in India vs England ODIs",
     "desc": "Kuldeep Yadav has joined Yorkshire as an overseas player for the remainder of the English domestic season. The India spinner will play five One-Day Cup matches and three County Championship games. The move comes after he was left out of India's ODI series in England. Yorkshire believe Kuldeep's experience and left-arm wrist spin will strengthen their bowling attack.",
@@ -405,15 +486,6 @@ const newsData_en = [
     "time": "2026-07-22T09:00:26.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'You let BJP, Congress speak, but not us': Akhilesh Yadav erupts in Lok Sabha over NEET discussion",
-    "desc": "Samajwadi Party chief Akhilesh Yadav accused the Lok Sabha Speaker of unfair treatment. He stated his party was denied a chance to speak on the NEET paper leak. The government and Congress were allowed to present their views while his party was not. Yadav insisted the controversy concerned students and their future, not just politics. He defended protests outside the Prime Minister's residence due to the lack of House discussion.",
-    "img": "https://static.toiimg.com/photo/msid-132554951,imgsize-1764098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/you-let-bjp-congress-speak-but-not-us-akhilesh-yadav-erupts-in-lok-sabha-over-neet-discussion/articleshow/132554920.cms",
-    "time": "2026-07-22T08:51:33.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Rakul Preet dazzles in Rs 49K Kanjeevaram saree at Ramayana Delhi event",
     "desc": "Part 1, dressed in a single-tone golden yellow checkered Kanjivaram saree from homegrown label Kankatala, styled by Ami Patel. The traditional silk drape, paired with statement jewellery from Shri Paramani Jewels, comes with a price tag of Rs 49,144.",
@@ -432,42 +504,6 @@ const newsData_en = [
     "time": "2026-07-22T08:32:57.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Amount spent on bottled water can make an entire film'",
-    "desc": "Veteran actor Sudhir Pandey highlighted the disparity in vanity van facilities for stars and character actors. He noted that producers often fund excessive personal expenses for leading actors. Aamir Khan previously voiced concerns about stars misusing their position for financial gains. Khan stopped producers from paying his personal staff nearly forty years ago. This practice of producers funding personal needs is now a harmful industry trend.",
-    "img": "https://static.toiimg.com/photo/msid-132554661,imgsize-163453.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sudhir-pandey-slams-entourage-costs-says-the-amount-spent-on-bottled-water-itself-is-enough-to-make-a-small-budget-film-stars-who-arrive-with-an-entire-convoy-look-very-fake-and-made-up/articleshow/132554542.cms",
-    "time": "2026-07-22T08:30:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Priyanka Chopra",
-    "desc": "Priyanka Chopra highlights the importance of listening to children for their confidence. She believes validating young children's feelings fosters self-assurance and emotional growth. Chopra's career spans Bollywood and Hollywood, achieving international recognition. She also advocates for women's rights and education globally. The actress and her husband welcomed their daughter Malti Marie in 2022.",
-    "img": "https://static.toiimg.com/photo/msid-132554350,imgsize-181691.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/quote-of-the-day-by-priyanka-chopra-it-makes-such-a-big-difference-to-a-childs-confidence-when-they-feel-heard-parenting-advice-by-the-varanasi-star/articleshow/132554359.cms",
-    "time": "2026-07-22T08:13:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rebel Wilson WINS defamation lawsuit",
-    "desc": "An Australian court dismissed Rebel Wilson's defamation lawsuit against Charlotte MacInnes. The judge found MacInnes failed to establish serious harm to her reputation. MacInnes must now pay Wilson's legal costs following the ruling. The lawsuit involved Instagram posts concerning a film production dispute. Rebel Wilson expressed gratitude for the legal system's conclusion.",
-    "img": "https://static.toiimg.com/photo/msid-132554305,imgsize-116274.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/rebel-wilson-wins-defamation-case-actress-thanks-court-says-grateful-this-chapter-has-reached-its-conclusion/articleshow/132553411.cms",
-    "time": "2026-07-22T08:06:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Jana Nayagan' cast fees revealed: Tamil Nadu CM Vijay tops list",
-    "desc": "Jana Nayagan's cast fees are revealed as the film nears its release date. Vijay leads the salary chart with a record payday, reportedly between Rs 220 crore and Rs 275 crore. Pooja Hegde, Bobby Deol, and Prakash Raj also received substantial remunerations for their roles. Director H Vinoth and composer Anirudh Ravichander earned impressive fees for their contributions.",
-    "img": "https://static.toiimg.com/photo/msid-132554017,imgsize-224790.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-cast-fees-revealed-tamil-nadu-cm-vijay-tops-list-with-record-payday-pooja-hegde-bobby-deol-prakash-raj-mamitha-baiju-follow/articleshow/132553972.cms",
-    "time": "2026-07-22T07:47:17.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Trump wants Infantino as next UN secretary-general: Report",
     "desc": "US President Donald Trump reportedly supports FIFA president Gianni Infantino for the UN secretary-general position. Trump believes Infantino possesses the ability to unite people globally and is a strong candidate. The two developed a closer relationship during the recent FIFA World Cup tournament. Infantino had previously presented Trump with FIFA's inaugural Peace Prize award. A candidate needs UN Security Council backing and General Assembly approval for the role.",
@@ -475,24 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/donald-trump-wants-fifa-chief-gianni-infantino-as-next-un-secretary-general-report/articleshow/132553958.cms",
     "time": "2026-07-22T07:45:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vikrant Massey opens up on fatherhood",
-    "desc": "Vikrant Massey opened up on fatherhood, crediting his son Vardaan for bringing good fortune, saying, \"A lot of things have changed since he came.\" This came after he won the National Award for Best Actor for '12th Fail', playing IPS officer Manoj Kumar Sharma. He shares Vardaan with wife Sheetal Thakur.",
-    "img": "https://static.toiimg.com/photo/msid-132553921,imgsize-167959.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vikrant-massey-opens-up-on-fatherhood-credits-son-vardaan-for-best-actor-national-award-win-a-lot-of-things-have-changed-since-he-came/articleshow/132553921.cms",
-    "time": "2026-07-22T07:42:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bruce Willis spotted in rare outing amid dementia battle",
-    "desc": "Bruce Willis was seen in public for the first time in a while, stepping out in Los Angeles. Diagnosed with frontotemporal dementia in 2023, his wife emphasized that while the condition affects his speech, it does not impair his memory. This intricate neurological disorder often poses challenges in diagnosis. Following his initial diagnosis, Willis made the decision to retire from acting in 2022.",
-    "img": "https://static.toiimg.com/photo/msid-132553604,imgsize-82268.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/die-hard-actor-bruce-willis-spotted-in-rare-public-outing-amid-frontotemporal-dementia-battle/articleshow/132553429.cms",
-    "time": "2026-07-22T07:29:50.000Z"
   },
   {
     "cat": "Sports",
@@ -594,24 +612,6 @@ const newsData_en = [
     "time": "2026-07-22T04:42:09.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "David Warner pleads guilty to drink-driving, could face 9-month jail term and hefty fine",
-    "desc": "David Warner admitted to a drink-driving charge after a random breath test in Sydney. His lawyer confirmed the former Australian cricketer accepted responsibility for his actions. Warner faces a driving ban, a fine, and a possible prison sentence for this offense. This incident adds to Warner's history of high-profile controversies. Sentencing for the drink-driving charge is scheduled for August 18.",
-    "img": "https://static.toiimg.com/photo/msid-132550949,imgsize-37514.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/david-warner-pleads-guilty-to-drink-driving-could-face-9-month-jail-term-and-hefty-fine/articleshow/132550901.cms",
-    "time": "2026-07-22T04:20:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "FIFA prez Infantino asked to resign after being accused of 'destroying football industry'",
-    "desc": "La Liga president Javier Tebas has urged FIFA president Gianni Infantino to resign, accusing him of harming football through World Cup expansion and fixture congestion. Tebas also criticised FIFA's hydration breaks and extended halftime at the World Cup final. Supporters' group FSE echoed the criticism, saying FIFA prioritised commercial interests over fans and calling for sweeping governance reforms.",
-    "img": "https://static.toiimg.com/photo/msid-132550812,imgsize-68528.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/fifa-president-gianni-infantino-asked-to-resign-after-being-accused-of-destroying-the-football-industry/articleshow/132550738.cms",
-    "time": "2026-07-22T04:09:58.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Kospi adds 6%, Nikkei jumps over 1,100 points",
     "desc": "Asian markets opened higher, mirroring Wall Street's gains as technology stocks rebounded. Japan, South Korea, and Taiwan led the advance, while China also saw gains. Oil prices continued to climb due to threats in the Red Sea region. US markets closed higher overnight, with semiconductor shares driving the upward movement. Investor focus now shifts to upcoming earnings reports from major tech companies.",
@@ -664,42 +664,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/a-fragile-fitness-system-hamstring-injuries-put-team-india-coe-under-scanner/articleshow/132549243.cms",
     "time": "2026-07-22T03:03:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Argentina players shouldn't be suspended': Gavi breaks silence on Paredes clash",
-    "desc": "Spain midfielder Gavi believes Argentina players should not be suspended despite the post-match clashes following Spain’s 1-0 World Cup final win. Although he admitted the scenes were a bad example for children, he said football has an aggressive side and felt any punishment should have come during the match. FIFA has opened an investigation into the incidents.",
-    "img": "https://static.toiimg.com/photo/msid-132549907,imgsize-165138.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/argentina-players-shouldnt-be-suspended-spains-gavi-breaks-silence-on-leandro-paredes-clash-after-world-cup-final/articleshow/132549792.cms",
-    "time": "2026-07-22T02:37:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Argentina players turned their backs during Spain's celebrations; video resurfaces",
-    "desc": "Spain defeated Argentina one-nil to win the FIFA World Cup 2026 title. Post-match scuffles and heated arguments erupted between players on the pitch. Argentina players turned their backs during Spain's trophy celebration ceremony. FIFA has now officially opened an investigation into these post-match incidents. The disciplinary committee will examine potential breaches of the FIFA disciplinary code.",
-    "img": "https://static.toiimg.com/photo/msid-132549718,imgsize-112704.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-world-cup-final-turns-ugly-after-scuffle-throat-shove-argentina-players-turn-their-backs-as-spain-lift-fifa-world-cup-trophy-watch/articleshow/132549641.cms",
-    "time": "2026-07-22T02:16:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Days after retiring, Ben Stokes marks new chapter with match-winning century",
-    "desc": "Ben Stokes scored an unbeaten 108 for Durham in his first match after retiring from international cricket. He guided his team to a five-wicket victory over Derbyshire in the One-Day Cup. Stokes battled cramp throughout his match-winning innings, staying until the end. Earlier, Derbyshire posted 256/9, with Martin Andersson scoring 112 runs. Stokes recently announced his retirement from all international formats of the game.",
-    "img": "https://static.toiimg.com/photo/msid-132549208,imgsize-39429.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/days-after-retiring-ben-stokes-marks-new-chapter-with-match-winning-century/articleshow/132549205.cms",
-    "time": "2026-07-22T01:10:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Absolutely zero confidence': Ashwin questions Gambhir &amp; management's faith in Kuldeep",
-    "desc": "Ravichandran Ashwin has questioned Kuldeep Yadav's continued absence from India's team. The spinner was overlooked for the entire ODI series against England. Ashwin believes the team management has lost faith in the left-arm wrist spinner. He suggested Kuldeep should stop waiting for opportunities that may not come. Kuldeep's lack of game time has sparked significant debate among cricket followers.",
-    "img": "https://static.toiimg.com/photo/msid-132542561,imgsize-84106.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/absolutely-zero-confidence-ashwin-questions-gautam-gambhir-and-team-management-over-kuldeep-yadavs-handling/articleshow/132542051.cms",
-    "time": "2026-07-21T23:30:00.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +862,41 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-argentina-and-spain-players-in-ugly-brawl-seconds-after-final-whistle-in-fifa-world-cup-final/article71245243.ece",
     "time": "2026-07-20T12:49:06.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "India extends grant support to Maldives for fitness centres across 42 islands",
+    "desc": "On July 19, Memoranda of Understanding (MoUs) were signed by Maldivian Foreign Minister Iruthisham Adam, Indian High Commissioner G Balasubramanian and Maldives' Youth Empowerment, Sports and Fitness Minister Abdulla Rafiu at a ceremony in Male",
+    "img": "https://th-i.thgim.com/public/incoming/eabinu/article71244535.ece/alternates/LANDSCAPE_1200/2O3A0889.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/india-extends-grant-support-to-maldives-for-fitness-centres-across-42-islands/article71244487.ece",
+    "time": "2026-07-20T11:59:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "fuel for debate",
+    "desc": "As car and bike owners report clogged injectors, damaged fuel pumps, and contaminated petrol across the country, a look at competing claims on what is driving the complaints, and whether ethanol is really to blame",
+    "img": "https://th-i.thgim.com/public/incoming/rnecwc/article71241050.ece/alternates/LANDSCAPE_1200/Ethanol%20side%20effects%20in%20vehicles%20E%2020%202.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/the-e20-transition-fuel-for-debate/article71240965.ece",
+    "time": "2026-07-20T11:27:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sivaji Ganesan’s gift of baby elephant to American children and his U.S. visit as state guest",
+    "desc": "Sivaji Ganesan was invited to the United States as part of the U.S.–India Cultural Exchange Programme. During the trip, Sivaji was treated as a state guest, assigned two officials to assist him, and given a daily allowance of $160, a considerable sum at the time.",
+    "img": "https://th-i.thgim.com/public/incoming/3tl29a/article70728264.ece/alternates/LANDSCAPE_1200/HP120884.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/sivaji-ganesan-gift-of-baby-elephant-to-american-children-and-his-us-visit-as-state-guest-in-1962/article70728245.ece",
+    "time": "2026-07-20T10:01:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Death of a heroine and the making of hit Tamil film ‘Bhadrakali’ with substitute actor",
+    "desc": "“I remembered a girl who had danced in the movie Pattikattu Raja. She bore some resemblance to Rani Chandra. I discussed it with cinematographer Viswanath Roy and we devised a plan to use her,” said actor Sivakumar.",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/9vh3cl/article71085122.ece/alternates/LANDSCAPE_1200/Bhadrakali%20Sivakumar%20Rani%20Chandra%202.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/death-of-actor-rani-chandra-and-the-making-of-tamil-filmbhadrakaliwith-substitute-actor-in-1976/article71079732.ece",
+    "time": "2026-07-20T09:55:12.000Z"
   }
 ];
