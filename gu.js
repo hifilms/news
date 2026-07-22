@@ -1,6 +1,24 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "ચોમાસું બન્યું રૌદ્ર! દિલ્હીથી ગુજરાત સુધી 85ની સ્પીડે વાવાઝોડું અને મુસળધાર વરસાદની આગાહી, IMDનું મહા-એલર્ટ",
+    "desc": "દેશમાં સક્રિય ચોમાસા વચ્ચે એકવાર ફરી વરસાદ-વાવાઝોડાનું રૌદ્ર સ્વરૂપ જોવા મળશે. હવામાન વિભાગે કાલે એટલે કે 23 જુલાઈ માટે ગુજરાત, દિલ્હી, યુપી, બિહાર સહિત 11 રાજ્યોમાં ભારે વરસાદ અને તોફાનનું એલર્ટ જાહેર કરી દીધું છે. આ વરસાદ સાથે 85 કિલોમીટર પ્રતિ કલાકની ઝડપે તોફાની પવન ફૂંકાવાની શક્યતા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/weather-alert-torrential-rain-85-km/h-winds-to-hit-11-states-in-10-hours-imd-issues-warning-485451 ",
+    "time": "2026-07-22T11:31:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "IPL અને FEMA કેસમાં રાહત મળ્યા બાદ લલિત મોદી 16 વર્ષ પછી ભારત પરત ફરશે",
+    "desc": "આઈપીએલના સંસ્થાપક અને પ્રથમ ચેરમેન લલિત મોદી ભારત પરત ફરવાના છે. તેમણે ખુદ આ વાતની જાહેરાત કરી છે. ટ્રિબ્યૂનલના નિર્ણય બાદ લલિત મોદી 16 વર્ષ બાદ ભારત પરત ફરવાના છે. તેમણે આ વિશે જાણકારી આપી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/lalit-modi-to-return-to-india-after-16-years-following-major-legal-relief-in-ipl-fema-case-485450 ",
+    "time": "2026-07-22T11:09:11.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "પેપર લીક મુદ્દે NEET ટોપરનું મોટું નિવેદન, &amp;#039;ઘરે રહીને અભ્યાસ કરવાનું પસંદ કર્યું&amp;#039;",
     "desc": "નીટ યુજી 2026ની ફરી લેવાયેલી પરીક્ષામાં AIR 2 પંશુલ બંસલે એક મોટું નિવેદન આપ્યું છે. કહ્યું કે પેપર રદ થવાથી નિરાશા જરૂર થઈ હતી પરંતુ મે લાંબો સમય સુધી નિરાશ થવાની જગ્યાએ મારા પરફોર્મન્સને વધુ સારા કરવા પર ધ્યાન આપ્યું અને ઘરે રહીને અભ્યાસ કરવાનું યોગ્ય સમજ્યું.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -180,15 +198,6 @@ const newsData_gu = [
     "time": "2026-07-21T08:20:31.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "અમેરિકા-ભારત ટ્રેડ ડીલમાં એવું તો શું છે? જેના વિરોધમાં ખેડૂતોએ કરી દિલ્હી કૂચ, જાણો વિરોધનું અસલી કારણ",
-    "desc": "ભારત અને અમેરિકા વચ્ચે ટ્રેડ ડીલ અંગે વાતચીત ચાલી રહી છે. બંને દેશો મજબૂત વ્યૂહાત્મક ભાગીદારી જાળવી રાખીને વચગાળાના ડીલ પર કામ કરી રહ્યા છે. ટ્રમ્પ વહીવટીતંત્રનો ભાર બજાર પ્રવેશ પર છે, પરંતુ ભારત પોતાની શરતો પર કરાર પર આગ્રહ રાખી રહ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/what-is-there-in-the-us-india-trade-deal-farmers-marched-to-delhi-in-protest-know-the-real-reason-for-the-protest-485328 ",
-    "time": "2026-07-21T06:59:21.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "રેપ કેસમાં ફસાયો આ IPL ક્રિકેટર, યુવતીના મારપીટ-ધમકીના પણ આરોપ, કોર્ટેનો તાબડતોબ ધરપકડનો આદેશ",
     "desc": "આઈપીએલમાં ધૂમ મચાવનારા એક ક્રિકેટરની પર મુસીબતો વધી છે. કોલકાતા હાઈકોર્ટે અભિષેક પોરેલ અને અન્ય એક આરોપીની તાબડતોબ ધરપકડના આદેશ આપ્યા છે. એક મેડિકલ વિદ્યાર્થીનીની ફરિયાદના આધારે નોંધાયેલા અપરાધિક મામલા સંબંધે આ આદેશ અપાયો છે.",
@@ -196,24 +205,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/ipl-cricketer-abhishek-porel-in-trouble-calcutta-high-court-directs-immediate-arrest-485323 ",
     "time": "2026-07-21T06:27:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CJP પ્રોટેસ્ટમાં પથ્થરબાજી અને તોડફોડ કરનારાઓ સામે કાયદાનો ચાબુક, નોંધાઈ FIR, જાણો વિગતો",
-    "desc": "દિલ્હીમાં આજે વિરોધ પ્રદર્શનનો ડબલ એટેક જોવા મળી રહ્યો છે. એક બાજુ જ્યાં કોકરોચ જનતા પાર્ટીનું વિરોધ પ્રદર્શન આજે પણ ચાલુ છે ત્યારે બીજી બાજુ ખેડૂતોએ પણ મોરચો ખોલ્યો છે. આ બધા વચ્ચે દિલ્હી પોલીસ પણ હવે કાર્યવાહીના મૂડમાં છે. બે અલગ અલગ પોલીસ મથકમાં એફઆઈઆર દાખલ થઈ છે. વધુ વિગતો માટે વાંચો અહેવાલ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/delhi-police-in-action-mode-fir-registered-in-parliament-street-cannaught-place-kartavya-path-485315 ",
-    "time": "2026-07-21T05:59:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "&amp;quot;તે ખૂબ કેરિંગ અને દયાળુ છે&amp;quot;: સગાઈના દિવસે કેતનના ગુણગાન ગાતી સિયાનો નવો વીડિયો સામે આવ્યો, જોઈને લોકો દંગ રહી ગયા!",
-    "desc": "સિયા ગોયલ અને તેના પ્રેમી ચેતન ચૌધરીએ 18 જૂને 26 વર્ષના કેતનની લોહાગઢ કિલ્લામાં ધક્કો મારી હત્યા કરી હતી. બંને આરોપી કસ્ટડીમાં છે અને તપાસ ચાલી રહી છે. આ વચ્ચે એક નવો વીડિયો સામે આવ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/chilling-before-the-tragedy-shocking-engagement-video-surfaces-as-siya-goyal-praises-fiance-ketan-agarwal-she-later-murdered-485312 ",
-    "time": "2026-07-21T05:37:26.000Z"
   },
   {
     "cat": "World",
@@ -376,15 +367,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/kylian-mbappe-won-golden-boot-first-player-of-world-who-won-golden-boot-twice-in-football-world-cup-485195 ",
     "time": "2026-07-20T00:42:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "વર્લ્ડ  ચેમ્પિયન બનેલા સ્પેનને મોંઘીદાટ ટ્રોફીની સાથે મળી તોતિંગ પ્રાઈસ મની, રનર અપ આર્જેન્ટીના પણ માલામાલ થયું",
-    "desc": "ગત ચેમ્પિયન આર્જેન્ટીનાનું સતત બીજીવાર વર્લ્ડ કપ ટ્રોફી જીતવાનું સપનું ચકનાચૂર થઈ ગયું. સ્પેને 1-0થી હરાવીને વિશ્વ વિજેતા ખિતાબ પોતાના નામે કર્યો. આ સાથે જ ચેમ્પિયન બનેલી ટીમ સ્પેન પર પૈસાનો વરસાદ થયો છે. ફિફા વર્લ્ડ કપના ઈતિહાસમાં કોઈ પણ વિજેતા ટીમને મળેલી આ સૌથી મોટી પ્રાઈસ મની છે. જાણો વિગતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/world-cup-2026-price-money-details-winner-spain-runners-up-argentina-and-what-about-other-teams-485194 ",
-    "time": "2026-07-20T00:33:55.000Z"
   },
   {
     "cat": "World",

@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Different match timing for India vs Zimbabwe series, check squads, fixture and all you need to know",
+    "desc": "India tour of Zimbabwe, scheduled to start on July 23, will feature three T20s between the two teams. Stakes are high for the men in blue after the mediocre performance in their previous games. India are...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/different-match-timing-for-india-vs-zimbabwe-series-check-squads-fixture-and-all-you-need-to-know-2026-07-22-1049070",
+    "time": "2026-07-22T13:13:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Star India cricketer pens new deal with county team after constant ignorance from Indian management",
+    "desc": "Star India spinner Kuldeep Yadav has signed a deal with Yorkshire after being left out of India’s playing XI during the recent ODI series in England and also being dropped for the three-match T20Is vs...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/star-india-cricketer-pens-new-deal-with-county-team-after-constant-ignorance-from-indian-management-2026-07-22-1049060",
+    "time": "2026-07-22T12:19:14.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Lalit Modi, IPL founder and first chairman, says he will return to India after major tribunal relief",
     "desc": "Former Indian Premier League (IPL) chairman Lalit Modi has confirmed that he will return to India by the end of the year or early next year. An appellate tribunal set aside most of the Enforcement...",
     "img": "",
@@ -61,32 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/david-warner-pleads-guilty-to-drink-driving-lawyer-reveals-details-2026-07-22-1049008",
     "time": "2026-07-22T06:00:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I didn't believe him': Sanju Samson opens up on Rohit Sharma's advice, competition with Ishan Kishan",
-    "desc": "Star India batter Sanju Samson has had a roller coaster of a career. At the age of 31, Samson has experienced almost everything there is to experience. From squad snubs to IPL heroics, and capping...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/i-didn-t-believe-him-sanju-samson-opens-up-on-rohit-sharma-s-advice-competition-with-ishan-kishan-2026-07-21-1048965",
-    "time": "2026-07-21T13:37:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "R Ashwin brands Rohit and Kohli as 'untouchable', reflects on their future in ODI cricket",
-    "desc": "The three-game ODI series between India and England ended in a disappointing defeat for the Indian team. The Men in Blue, after winning the first ODI of the series, succumbed to hefty losses in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/r-ashwin-brands-rohit-and-kohli-as-untouchable-reflects-on-their-future-in-odi-cricket-2026-07-21-1048956",
-    "time": "2026-07-21T11:42:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer gives his take on Shubman Gill's fitness after ODI series loss against England",
-    "desc": "India’s ODI series against England ended with the team suffering another defeat; the Men in Blue sustained losses in the second and third ODIs, losing the series. After the losses, India skipper Shubman Gill came...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-gives-his-take-on-shubman-gill-s-fitness-after-odi-series-loss-against-england-2026-07-21-1048943",
-    "time": "2026-07-21T10:09:04.000Z"
   }
 ];
