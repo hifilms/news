@@ -1,6 +1,105 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "As of July, 11.4% of 7.99 lakh Waqf claims rejected after uploading on central portal",
+    "desc": "Minority affairs minister Kiren Rijiju shared waqf property data in Parliament. As of July 17, over 6.17 lakh waqf properties were validated and approved. A total of 91,253 properties were rejected during the verification process. Another 91,623 waqf properties are currently pending uploading on the portal. The UMEED Central Portal-2025 facilitates the management of waqf property lifecycles.",
+    "img": "https://static.toiimg.com/photo/msid-132567926,imgsize-727125.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/as-of-july-11-4-of-7-99-lakh-waqf-claims-rejected-after-uploading-on-central-portal/articleshow/132567927.cms",
+    "time": "2026-07-22T21:51:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tom Rhys Harries debuts as Batman villain 'Clayface'",
+    "desc": "DC Studios has unveiled the trailer for the upcoming Batman villain movie 'Clayface'. The film stars Tom Rhys Harries and is set for a theatrical release in October 2026. Its story follows Matt Hagen's transformation and descent into revenge after a disfigurement. The movie is positioned between Matt Reeves' two Batman films in the DC universe. Naomi Ackie and David Dencik are also featured in the cast.",
+    "img": "https://static.toiimg.com/photo/msid-132567914,imgsize-24982.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/clayface-trailer-tom-rhys-harries-debuts-as-the-new-face-of-gotham-in-chilling-new-batman-villain-origins-story/articleshow/132567716.cms",
+    "time": "2026-07-22T21:42:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Protesters at Jantar Mantar find relief at free clinics set up by doctors",
+    "desc": "The clinic, apart from having paracetamol, painkillers, bottles of Dettol, and sanitary pads, also has a machine to check blood pressure, an oximeter, and thermometers. The medicines and the equipment were donated by the people and the 10-12 doctors working there",
+    "img": "https://th-i.thgim.com/public/news/national/mw2c51/article71255444.ece/alternates/LANDSCAPE_1200/Doctors%20at%20CJP.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/protesters-at-jantar-mantar-find-relief-at-free-clinics-set-up-by-doctors/article71255285.ece",
+    "time": "2026-07-22T21:38:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Curbs on foreign funding not uniquely Indian, says govt, cites laws elsewhere ahead of bill to tweak FCRA",
+    "desc": "The government staunchly supported the amendments to the Foreign Contribution Regulation Act (FCRA), arguing that unregulated foreign money poses a threat to democratic integrity. They clarified that the act does not prohibit NGOs from accessing foreign funds, particularly for faith-based initiatives. The restrictions on foreign nationals in crucial positions ensure that all contributions align with verified Indian governance.",
+    "img": "https://static.toiimg.com/photo/msid-132567706,imgsize-810882.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/curbs-on-foreign-funding-not-uniquely-indian-says-govt-cites-laws-elsewhere-ahead-of-bill-to-tweak-fcra/articleshow/132567703.cms",
+    "time": "2026-07-22T21:21:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "We don't have many options in any department: Former skipper Anjum Chopra",
+    "desc": "\"I'm not saying that nobody can become a captain. It's not a permanent position for anyone. And if change of captaincy is the solution, then I think in every series, we should keep changing captains if that is the way that we are going to get results,\" the stylish southpaw of yesteryears said",
+    "img": "https://th-i.thgim.com/public/incoming/cmgz8w/article71255277.ece/alternates/LANDSCAPE_1200/HSP176344.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/we-dont-have-many-options-in-any-department-former-skipper-anjum-chopra/article71255273.ece",
+    "time": "2026-07-22T20:52:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "FIFA investigates Argentina players confronting Spain''s on-field World Cup celebrations",
+    "desc": "Video replays showed several players involved in a scuffle, including Argentina midfielder Leandro Paredes. He appeared to shove Spain's Eric Garcia by the throat. When Spain substitute Gavi jumped in to intervene, Paredes pushed him to the ground",
+    "img": "https://th-i.thgim.com/public/incoming/jjs8am/article71251068.ece/alternates/LANDSCAPE_1200/2026-07-19T211601Z_1813200637_UP1EM7J1N2NNJ_RTRMADP_3_SOCCER-WORLDCUP-ESP-ARG.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/fifa-investigates-argentina-players-confronting-spains-on-field-world-cup-celebrations/article71251055.ece",
+    "time": "2026-07-22T20:38:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Meet us here, CJP tells govt. as crowd swells at Jantar Mantar",
+    "desc": "If Ministers want to talk, they should come to people, says CJP; group appeals to Wangchuk to end fast; people turn up in thousands at Jantar Mantar; some of the protesters injured in police action back at venue",
+    "img": "https://th-i.thgim.com/public/incoming/gsl0mr/article71254334.ece/alternates/LANDSCAPE_1200/Cockroach%20Janta%20Party%20CJP%20Protest%20Delhi%2021.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/cjp-jantar-mantar-protest-updates-july-22-2026/article71254277.ece",
+    "time": "2026-07-22T19:36:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jeetendra reveals how Ekta's first home purchase shaped real estate journey",
+    "desc": "Veteran actor Jeetendra has opened up about his remarkable journey from Bollywood to real estate, revealing how a modest investment in Mumbai's Pali Hill decades ago eventually became one of his biggest success stories. Speaking to The Realty Drive, the actor also shared how daughter Ekta Kapoor's desire to buy her first home changed his outlook on property investments and why he believes \"every property has a destiny.\"",
+    "img": "https://static.toiimg.com/photo/msid-132567450,imgsize-55160.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-land-chooses-you-jeetendra-reveals-how-daughter-ekta-kapoors-first-home-purchase-changed-his-journey-from-bollywood-to-real-estate/articleshow/132567409.cms",
+    "time": "2026-07-22T19:33:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Terrorist kill J&amp;K cop in Anantnag market, first strike since Pahalgam attack",
+    "desc": "A J&K police head constable was killed by a terrorist in Anantnag's busy market. The attack occurred during the ongoing Amarnath Yatra, which has faced disruptions. Security forces have launched a search and detained several individuals for questioning. This incident marks the first attack in Kashmir since a previous massacre. Officials condemned the act, vowing that it would not go unpunished.",
+    "img": "https://static.toiimg.com/photo/msid-132567411,imgsize-1312726.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/terrorist-kill-jk-cop-in-anantnag-market-first-strike-since-pahalgam-attack/articleshow/132567405.cms",
+    "time": "2026-07-22T19:29:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Couple dead, 4 hurt as boulder falls on tempo on Jammu-Srinagar NH in Ramban",
+    "desc": "A massive boulder struck a tempo on the Jammu-Srinagar highway, killing two people and injuring four others. Meanwhile, officials narrowly escaped separate landslides on the Jammu-Poonch highway. Vehicular movement on the Jammu-Srinagar highway was suspended due to multiple landslides. Relentless rainfall battered the Jammu region, triggering further mudslides and shooting stones. All major pilgrimages have remained suspended in Jammu and Kashmir since July 19.",
+    "img": "https://static.toiimg.com/photo/msid-132567318,imgsize-1199830.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/couple-dead-4-hurt-as-boulder-falls-on-tempo-on-jammu-srinagar-nh-in-ramban/articleshow/132567323.cms",
+    "time": "2026-07-22T19:20:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Activists, celebrities join Kochi protests in solidarity with Delhi students",
+    "desc": "Writers, filmmakers, actors and activists back agitation over the alleged NEET paper leak and police action in Delhi; solidarity protests held across Kochi, with marches, public meetings and a candlelight vigil drawing students and youngsters; speakers criticise alleged police excesses and call for wider public support for the student movement",
+    "img": "https://th-i.thgim.com/public/incoming/u0702u/article71255132.ece/alternates/LANDSCAPE_1200/80968_22_7_2026_19_29_13_1_IMG_7915.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/activists-celebrities-join-kochi-protests-in-solidarity-with-delhi-students/article71254407.ece",
+    "time": "2026-07-22T19:16:36.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Jaishankar flags need for fair trade, supply chain reliability in meeting with Wang Yi",
     "desc": "External Affairs Minister S Jaishankar met his Chinese counterpart Wang Yi in Manila. They discussed fair market access and trade balance, and supply chain reliability. Border peace and tranquility remain a prerequisite for normal bilateral ties between the two nations. India welcomed recent measures to normalize Sino-Indian relations and direct flights. Both sides engaged to ensure border peace since October 2024.",
     "img": "https://static.toiimg.com/photo/msid-132567119,imgsize-1019484.cms",
@@ -43,15 +142,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-backs-students-protest-against-paper-leaks-says-they-deserve-full-credit-for-peaceful-movement-it-should-not-be-hijacked-politically/articleshow/132566152.cms",
     "time": "2026-07-22T18:25:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Meet us here, CJP tells govt. as crowd swells at Jantar Mantar",
-    "desc": "If Ministers want to talk, they should come to people, says CJP; group appeals to Wangchuk to end fast; people turn up in thousands at Jantar Mantar; some of the protesters injured in police action back at venue",
-    "img": "https://th-i.thgim.com/public/incoming/gsl0mr/article71254334.ece/alternates/LANDSCAPE_1200/Cockroach%20Janta%20Party%20CJP%20Protest%20Delhi%2021.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/cjp-jantar-mantar-protest-updates-july-22-2026/article71254277.ece",
-    "time": "2026-07-22T17:47:22.000Z"
   },
   {
     "cat": "Politics",
@@ -117,15 +207,6 @@ const newsData_en = [
     "time": "2026-07-22T17:10:53.000Z"
   },
   {
-    "cat": "World",
-    "title": "Make in U.S. by August 2028 or pay up to 200% duty, Trump tells generic drugmakers",
-    "desc": "Effective August 1, 2026, all generic drugs being brought into the United States will continue to have a tariff of zero per cent for a two-year period of time, after which the tariff will be raised to 100% for a one-year period of time, and 200% thereafter, said Donald Trump",
-    "img": "https://th-i.thgim.com/public/incoming/26fsek/article71254968.ece/alternates/LANDSCAPE_1200/2026-07-22T151217Z_943419862_RC2XIMABQMJ6_RTRMADP_3_IRAN-CRISIS-TRANSFER-USA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/make-in-us-by-august-2028-or-pay-up-to-200-duty-trump-tells-generic-drugmakers/article71254793.ece",
-    "time": "2026-07-22T16:43:10.000Z"
-  },
-  {
     "cat": "Business",
     "title": "'Aam'ezing voyage: UP's mangoes make first sea journey to Dubai",
     "desc": "Indian mangoes reached Dubai via a 25-day sea journey. Nearly ninety percent of the fruit remained market-ready after transit. This successful shipment paves the way for cheaper and larger mango exports. The new protocol reduces reliance on expensive air freight for shipments. This development enhances farmer incomes and boosts export earnings.",
@@ -136,30 +217,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Supreme Court asks States, UTs to consider raising retirement age of judicial officers to 61",
-    "desc": "The court, however, clarified that the interim arrangement would not prejudice its adjudication of the larger question of whether the retirement age of district judicial officers should be uniformly enhanced from 60 to 62 years across the country.",
-    "img": "https://th-i.thgim.com/public/incoming/intnlg/article71246184.ece/alternates/LANDSCAPE_1200/Supreme%20Court%20%204.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/supreme-court-asks-states-uts-to-consider-raising-retirement-age-of-judicial-officers-from-60-to-61-years/article71253216.ece",
-    "time": "2026-07-22T16:31:13.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Centre unlikely to sack Pradhan over NEET row, open to compensate victims' kin: Report",
     "desc": "The central government will likely not remove the education minister amid NEET paper leak demands. It believes he is not responsible for the alleged examination irregularities. The government may consider compensation for students' families who died by suicide. It is also open to talks with protesters led by the CJP. Parliament remains the appropriate forum for discussing the issue and finding solutions.",
     "img": "https://static.toiimg.com/photo/msid-132562928,imgsize-730794.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/centre-unlikely-to-sack-pradhan-over-neet-row-open-to-compensate-victims-kin-report/articleshow/132562906.cms",
     "time": "2026-07-22T16:07:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Responsibility of govt &amp; opposition to protect children's future': Centre urges dialogue as protests intensify",
-    "desc": "Parliament witnessed disruptions over the alleged NEET paper leak and police action. Opposition MPs marked a 'Black Day' protest demanding the education minister's resignation. The government offered a parliamentary discussion, which the opposition refused without the minister stepping down. Activist Sonam Wangchuk continues his hunger strike, setting conditions for ending it. Courts are examining allegations of police brutality during student demonstrations.",
-    "img": "https://static.toiimg.com/photo/msid-132562885,imgsize-162065.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/responsibility-of-govt-opposition-to-protect-childrens-future-centre-urges-dialogue-as-protests-intensify-top-developments/articleshow/132558546.cms",
-    "time": "2026-07-22T16:04:58.000Z"
   },
   {
     "cat": "Business",
@@ -187,24 +250,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/abhijeet-bhattacharya-reveals-how-he-defended-udit-narayan-during-kissing-controversy-fans-hug-and-kiss-you-you-also-gave-one-kiss-back-whats-the-issue/articleshow/132562731.cms",
     "time": "2026-07-22T15:55:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "TMC MLA Kunal Ghosh marshalled out, suspended after assembly ruckus",
-    "desc": "Trinamool Congress MLA Kunal Ghosh faced suspension from the West Bengal Assembly. He disrupted proceedings by interrupting a fellow legislator during a budget debate. Marshals forcibly removed Ghosh after he refused to return to his seat. This incident highlighted internal rifts within the Trinamool Congress legislature party. Assembly proceedings resumed only after the legislator was escorted from the House.",
-    "img": "https://static.toiimg.com/photo/msid-132561869,imgsize-5989887.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/watch-tmc-mla-kunal-ghosh-marshalled-out-suspended-after-assembly-ruckus/articleshow/132561597.cms",
-    "time": "2026-07-22T15:00:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'NEET paper leaked thrice in last 5 years': Annamalai lambasts former party BJP",
-    "desc": "K Annamalai criticized the Centre's handling of the NEET controversy and question paper leaks. He questioned the delay in engaging with protesting students after the issue escalated. Annamalai emphasized that protest is a fundamental right in a democracy. He stated the system lost credibility after repeated question paper leaks occurred. The former leader urged students to focus on core objectives and avoid vested interests.",
-    "img": "https://static.toiimg.com/photo/msid-132561774,imgsize-1461473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/neet-paper-leaked-thrice-in-last-5-years-annamalai-lambasts-former-party-bjp/articleshow/132561750.cms",
-    "time": "2026-07-22T14:53:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -315,15 +360,6 @@ const newsData_en = [
     "time": "2026-07-22T13:30:41.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Sonam Wangchuk sets condition for ending fast; Rahul Gandhi demands Dharmendra Pradhan's exit over NEET row &amp; more",
-    "desc": "Sonam Wangchuk continues his fast demanding legal immunity for protesters. Rahul Gandhi calls for Dharmendra Pradhan's resignation over the NEET exam controversy. TMC MP Kalyan Banerjee faces suspension for remarks against women MPs. Equity markets experienced a significant decline due to global risks. US-Iran tensions escalated with fresh strikes and regional alerts.",
-    "img": "https://static.toiimg.com/photo/msid-132560111,imgsize-755207.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-sonam-wangchuk-sets-condition-for-ending-fast-rahul-gandhi-demands-dharmendra-pradhans-exit-over-neet-row-more/articleshow/132559732.cms",
-    "time": "2026-07-22T13:27:37.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Vijay’s ‘Jana Nayagan’ releases: Looking back at MGR’s ‘Meenava Nanban’ in 1977",
     "desc": "Meenava Nanban. Leading newspapers of the time captured the pre-release buzz of this film, with film posters with only carrying the title ‘Makkal Thilagam’ and not ‘Chief Minister’. We catch up with T Rajappa Venkatachari – or ‘MGR Swami’, as he is known – who recalls watching the first day first show of the film in 1977 at Tirunelveli’s Central Theatre.",
@@ -333,15 +369,6 @@ const newsData_en = [
     "time": "2026-07-22T13:12:05.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Is NCP(SP) chief Sharad Pawar keeping options open on Delimitation Bill?",
-    "desc": "The silence of Sharad Pawar's NCP(SP) regarding the Delimitation Bill is stirring political rumors. While Sharad Pawar joined the opposition for demonstrations on Tuesday, he met Prime Minister Narendra Modi the next day. Supriya Sule, his daughter, expressed conditional support for Bill if it proposed seat increases across states evenly. This reflects Pawar's history of maintaining strategic ambiguity, thereby ensuring his party remains adaptable within shifting political currents.",
-    "img": "https://static.toiimg.com/photo/msid-132560607,imgsize-1087917.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/politics-of-silence-is-ncpscp-chief-sharad-pawar-keeping-options-open-on-delimitation-bill/articleshow/132556481.cms",
-    "time": "2026-07-22T12:44:21.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Jana Nayagan' producer reveals Yash and Sivakarthikeyan stood by Vijay",
     "desc": "Jana Nayagan producer Venkat K Narayana praised Vijay, Yash, and Sivakarthikeyan for their support. Yash provided the biggest pillar of strength during the film's challenging release period. Sivakarthikeyan personally met the producer and expressed his concern during the censor controversy. The film finally heads to theatres after overcoming censor hurdles and piracy issues. Jana Nayagan is set for its theatrical journey starting July twenty-third.",
@@ -349,15 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-producer-reveals-yash-and-sivakarthikeyan-stood-by-vijay-during-censor-delay-and-piracy-issue/articleshow/132559216.cms",
     "time": "2026-07-22T12:30:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'No legal action against CJP protesters': Wangchuk sets condition to end hunger strike",
-    "desc": "Activist Sonam Wangchuk will end his hunger strike if protesters face no legal action. He seeks assurance from the government regarding the CJP's march participants. Wangchuk also requested compensation for affected students and parliamentary discussion. He wants to return to his work and students after receiving this assurance. The activist will continue his fast indefinitely without this government guarantee.",
-    "img": "https://static.toiimg.com/photo/msid-132560160,imgsize-947478.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-legal-action-against-cjp-protesters-wangchuk-sets-condition-to-end-hunger-strike/articleshow/132558606.cms",
-    "time": "2026-07-22T11:56:03.000Z"
   },
   {
     "cat": "Entertainment",
@@ -502,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/icc-odi-rankings-joe-root-re-enters-top-10-rohit-sharma-closes-gap-on-virat-kohli/articleshow/132555984.cms",
     "time": "2026-07-22T10:05:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Millie Bobby Brown pays tribute",
-    "desc": "Actress Millie Bobby Brown expressed deep sorrow over Kaylee Hottle's recent passing. Hottle, a co-star in the Godzilla franchise, died in a Maryland car crash. Other actors, including Marlee Martin and Rebecca Hall, also shared their grief. The fatal collision involved excessive speed as a contributing factor. Kaylee Hottle was known for her roles in the Godzilla films.",
-    "img": "https://static.toiimg.com/photo/msid-132555930,imgsize-218092.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kaylee-hottle-passes-away-at-18-co-star-millie-bobby-brown-pays-tribute-im-so-devastated-to-hear-this/articleshow/132555785.cms",
-    "time": "2026-07-22T10:01:26.000Z"
   },
   {
     "cat": "Sports",
@@ -729,15 +738,6 @@ const newsData_en = [
     "time": "2026-07-21T21:09:22.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "FIFA investigates Argentina players confronting Spain''s on-field World Cup celebrations",
-    "desc": "Video replays showed several players involved in a scuffle, including Argentina midfielder Leandro Paredes. He appeared to shove Spain's Eric Garcia by the throat. When Spain substitute Gavi jumped in to intervene, Paredes pushed him to the ground",
-    "img": "https://th-i.thgim.com/public/incoming/jjs8am/article71251068.ece/alternates/LANDSCAPE_1200/2026-07-19T211601Z_1813200637_UP1EM7J1N2NNJ_RTRMADP_3_SOCCER-WORLDCUP-ESP-ARG.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/fifa-investigates-argentina-players-confronting-spains-on-field-world-cup-celebrations/article71251055.ece",
-    "time": "2026-07-21T20:58:36.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Tamil rapper Arivu detained during bid to protest against NEET near Secretariat in Chennai, CM Vijay meets him",
     "desc": "Tamil Nadu Chief Minister C. Joseph Vijay invited Arivu — who is best known for his Tamil independent music including the hit song Enjoy Enjaami, Thalapathy Kacheri from ‘Jana Nayagan’ — to his chamber and listened to the singer’s concerns.",
@@ -891,12 +891,12 @@ const newsData_en = [
     "time": "2026-07-20T18:11:15.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Argentina and Spain players in ugly brawl seconds after final whistle in FIFA World Cup final",
-    "desc": "Barely seconds after the final whistle at the FIFA World Cup final in New Jersey, a few Spain and Argentina players got involved in a brawl. As the Spanish substitutes rushed onto the pitch to celebrate their 1-0 win, Argentina midfielder Leandro Paredes shoved Spain’s Gavi to the ground.",
-    "img": "https://th-i.thgim.com/public/incoming/94tk78/article71245251.ece/alternates/LANDSCAPE_1200/brawl.png",
+    "cat": "Business",
+    "title": "fuel for debate",
+    "desc": "As car and bike owners report clogged injectors, damaged fuel pumps, and contaminated petrol across the country, a look at competing claims on what is driving the complaints, and whether ethanol is really to blame",
+    "img": "https://th-i.thgim.com/public/incoming/rnecwc/article71241050.ece/alternates/LANDSCAPE_1200/Ethanol%20side%20effects%20in%20vehicles%20E%2020%202.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-argentina-and-spain-players-in-ugly-brawl-seconds-after-final-whistle-in-fifa-world-cup-final/article71245243.ece",
-    "time": "2026-07-20T12:49:06.000Z"
+    "url": "https://www.thehindu.com/business/the-e20-transition-fuel-for-debate/article71240965.ece",
+    "time": "2026-07-20T11:27:25.000Z"
   }
 ];
