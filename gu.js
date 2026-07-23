@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "શ્રેયસ અય્યરે રચ્યો ઈતિહાસ, MS ધોનીનો 14 વર્ષ જૂનો રેકોર્ડ તોડી બન્યા ભારતના નંબર-1 કેપ્ટન",
+    "desc": "શ્રેયસ અય્યર જ્યારથી ભારતના T20I કેપ્ટન બન્યા છે, ત્યારથી તેમને જીત નસીબ નથી થઈ. જો કે, તેમણે ટોસ જીતીને એક મોટો રેકોર્ડ પોતાના નામે કરી લીધો છે. આ મામલે તેમણે એમએસ ધોનીને પાછળ છોડીને ઈતિહાસ રચ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-zim-shreyas-iyer-creates-history-breaks-ms-dhoni-14-year-old-record-to-become-india-number-1-captain-485536 ",
+    "time": "2026-07-23T13:16:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CJPએ ફૂંક્યું આંદોલનનું રણશિંગુ, જંતર-મંતર બાદ હવે દેશભરમાં પ્રદર્શનની કરી જાહેરાત; જાણો",
+    "desc": "જંતર-મંતર પર ચાલી રહેલા વિદ્યાર્થી આંદોલન વચ્ચે અભિજીત દીપકેની CJPએ હુંકાર ભરી છે. તેમણે વિદ્યાર્થીઓને આખા દેશમાં આંદોલન કરવા માટે કહ્યું છે. આ આંદોલન કાલે એટલે કે શુક્રવારે બોલાવવામાં આવ્યું છે. કોકરોચ જનતા પાર્ટી શુક્રવારે દેશભરમાં પ્રદર્શન કરશે. પાર્ટી તરફથી કહેવામાં આવ્યું છે કે, આ પ્રદર્શન દેશના તમામ રાજ્યો અને તેમના જિલ્લાઓમાં થશે. CJPએ આ માટે લોકોને ખાસ અપીલ કરવાનું શરૂ કર્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/cjp-blows-the-trumpet-of-the-movement-after-jantar-mantar-now-announces-nationwide-protests-485535 ",
+    "time": "2026-07-23T12:45:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Karan Kundrra એ મને કિસ કરી અને પછી મને મારી, એક્ટ્રેસ Saanvi Talwar નો એક્ટર પર ગંભીર આરોપ, જાણો શું છે મામલો?",
+    "desc": "ટીવી એક્ટ્રેસ સાન્વી તલવારે એક દાયકા જૂના કિસ્સાની વાત કરીને કરન કુંદ્રા પર ગંભીર આરોપ લગાવ્યા છે. અભિનેત્રીનું કહેવું છે કે કરન કુંદ્રાએ તેની મરજી વિના તેને કિસ કરી અને પછી તેના પર હાથ પણ ઉપાડ્યો હતો. આ ઘટના કયા સમયની છે અને સમગ્ર મામલો શું છે ચાલો તમને જણાવીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/tv-actress-saanvi-talwar-said-karan-kundrra-kissed-her-without-consent-and-then-slapped-her-485532 ",
+    "time": "2026-07-23T12:13:48.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "આકાશમાં દેખાયું 10 હજાર કિમી લાંબું &amp;#039;પ્રેત&amp;#039;! ભારતથી સાઉથ કોરિયા સુધી પૂરનો ખતરો?",
     "desc": "આકાશમાં અંદાજે 10000 કિમી લાંબું રહસ્યમયી પ્રેત વાદળું જોવા મળતા ભારતથી લઈને દક્ષિણ કોરિયા સુધી ચિંતા વધી છે. આખરે આ અનોખી મૌસમી ઘટના શુ છે, શું તેનો સંબંધ ભારે વરસાદ, પુર કે જળવાયુ પરિવર્તન સાથે છે, તથા વૈજ્ઞાનિક તેના વિશે શું કહે છે? જાણો આ વાયરલ દાવાની તથ્યાત્મક અને વૈજ્ઞાનિક તપાસ.",
@@ -387,15 +414,6 @@ const newsData_gu = [
     "time": "2026-07-20T01:11:34.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "કિલિયન એમ્બાપ્પે એ રચ્યો ઈતિહાસ, વર્લ્ડ કપમાં બે વખત ગોલ્ડન બૂટનો ખિતાબ જીતનાર દુનિયાનો પહેલો ખેલાડી બન્યો",
-    "desc": "ફીફા વર્લ્ડ કપ 2026 માં ગોલ્ડન બૂટનો ખિતાબ ફ્રાંસના ખેલાડી કિલિયન એમ્બાપ્પેએ પોતાના નામ કર્યો છે. આ સાથે જ તેણે ઈતિહાસ રચી દીધો છે. કિલિયન એમ્બાપ્પે વર્લ્ડ કપમાં ગોલ્ડન બૂટ બીજીવખત જીતનાર દુનિયાનો પહેલો ખેલાડી બન્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/kylian-mbappe-won-golden-boot-first-player-of-world-who-won-golden-boot-twice-in-football-world-cup-485195 ",
-    "time": "2026-07-20T00:42:36.000Z"
-  },
-  {
     "cat": "World",
     "title": "ઈમરાન ખાનની બહેનના ખુલાસાથી પાકિસ્તાનમાં રાજકીય ભૂકંપ, PAK સેનાની ખોલી પોલ",
     "desc": "પૂર્વ પ્રધાનમંત્રી ઈમરાન ખાનની બહેન નૌરીન નિયાઝીએ આપેલા નિવેદનથી પાકિસ્તાનમાં વિવાદ ઉભો થયો છે. એક ઇન્ટરવ્યુમાં નિયાઝીએ દાવો કર્યો હતો કે, મે 2025માં ભારતના ઓપરેશન સિંદૂર સામે પાકિસ્તાની સેના સંપૂર્ણપણે બેકફૂટ પર આવી ગઈ હતી.",
@@ -421,15 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/iran-missile-attack-on-uae-possible-gulf-tensions-us-global-security-alert-485163 ",
     "time": "2026-07-19T14:18:44.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "જુલાઈમાં નહીં, તો ક્યારે મળશે કેન્દ્રીય કર્મચારીઓને મોંઘવારી ભથ્થાની ભેટ? જાણો ક્યારે થશે જાહેરાત",
-    "desc": "શું જુલાઈમાં કેન્દ્રીય કર્મચારીઓ અને પેન્શનર્સનું મોંઘવારી ભથ્થું નહીં વધે? જો જુલાઈમાં જાહેરાત ન થઈ, તો આખરે ક્યારે આવશે આગામી ખુશખબર? 1 કરોડથી વધુ કેન્દ્રીય કર્મચારીઓ પગાર અને પેન્શનમાં વધારાની આતુરતાપૂર્વક રાહ જોઈ રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/da-hike-2026-if-not-in-july-then-when-will-central-employees-get-the-gift-of-dearness-allowance-know-when-the-announcement-will-be-made-485151 ",
-    "time": "2026-07-19T12:05:35.000Z"
   },
   {
     "cat": "Tech",
@@ -610,15 +619,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/shah-rukh-khan-buy-mannat-at-18-crore-srk-and-mannat-connection-with-yes-boss-movie-484703 ",
     "time": "2026-07-15T11:34:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "આમિર ખાનના ત્રીજા લગ્ન સામે વિવાદ વધ્યો, લવ જેહાદ પછી લગ્ન વિરુદ્ધ બહાર પડ્યો ફતવો",
-    "desc": "આમિર ખાને ત્રીજા લગ્ન અશુભ સમયમાં કરી લીધા હોય તેમ લાગે છે. કારણ કે લગ્ન સંબંધિત વિવાદો શાંત થવાને બદલે વધી રહ્યા છે. એક તરફ આમિર ખાન પર લવ જેહાદનો આરોપ લાગ્યો તો બીજી તરફ તેના ત્રીજા લગ્ન વિરુદ્ધ ફતવો જાહેર કરવામાં આવ્યો. આ મામલો શું છે ચાલો તમને જણાવીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/aamir-khan-third-marriage-controversy-after-love-jihad-issue-new-fatwa-came-here-is-aamir-khan-reaction-484700 ",
-    "time": "2026-07-15T11:03:07.000Z"
   },
   {
     "cat": "Tech",

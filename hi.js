@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi creates world record, shatters Sachin Tendulkar's India feat with Zimbabwe fifty",
+    "desc": "Vaibhav Sooryavanshi has etched his name into the history books as he smashed his maiden T20I half-century during the first T20I against Zimbabwe at the Harare Sports Club on Thursday, July 23. Sooryavanshi, who had...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-creates-world-record-shatters-sachin-tendulkars-india-record-with-zimbabwe-fifty-2026-07-23-1049188",
+    "time": "2026-07-23T13:45:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Indian athlete ruled out of Commonwealth Games 2026 after failing NADA's doping test",
+    "desc": "India's squad for the 2026 Commonwealth Games has been reduced to 124 athletes after judoka Arun Kumar was ruled out of the Glasgow competition. The development follows an adverse analytical finding in an out-of-competition doping...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/indian-athlete-ruled-out-of-commonwealth-games-2026-after-failing-nada-s-doping-test-2026-07-23-1049186",
+    "time": "2026-07-23T13:05:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "SA20 2027 schedule announced, tournament to open with rematch of 2026 final; Newlands to host title clash",
+    "desc": "The SA20 organisers on Thursday announced the schedule for the upcoming season, with defending champions Sunrisers Eastern Cape and Pretoria Capitals playing a repeat of last season's final in the first match of the fifth...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sa20-2027-schedule-announced-tournament-to-open-with-rematch-of-2026-final-newlands-to-host-title-clash-2026-07-23-1049178",
+    "time": "2026-07-23T12:16:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Arshdeep Singh not playing in India vs Zimbabwe first T20I in Harare?",
+    "desc": "Arshdeep Singh has been left out of India's playing XI for the series opener against Zimbabwe in Harare, with the left-arm pacer rested as part of a wider rotation policy following a taxing few months...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-arshdeep-singh-not-playing-in-india-vs-zimbabwe-first-t20i-in-harare-2026-07-23-1049172",
+    "time": "2026-07-23T11:25:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Sanju Samson not playing in IND vs ZIM 1st T20I in Harare?",
+    "desc": "Sanju Samson was not part of the Playing XI as India face Zimbabwe in the first T20I of the three-match series at the Harare Sports Club on Thursday, July 23. Samson, the T20 World Cup...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-sanju-samson-not-playing-in-ind-vs-zim-1st-t20i-in-harare-2026-07-23-1049167",
+    "time": "2026-07-23T11:07:22.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India hand debut to pacer, Rinku Singh returns to playing XI in first T20I vs Zimbabwe",
     "desc": "India have handed a debut to ace pacer Ashok Sharma in the first T20I against Zimbabwe in Harare. He became the 23rd Indian cricketer to make his T20I debut in the country, which is the...",
     "img": "",
@@ -19,7 +64,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Mayank Yadav draws first blood on comeback, Bennett falls early",
+    "title": "Sooryavanshi youngest T20I half-centurion, departs after feat",
     "desc": "India lock horns against Zimbabwe in the first T20I of the three-match series at the Harare Sports Club in Harare. Since defending their T20 World Cup title, India have been winless under Shreyas Iyer, as...",
     "img": "",
     "src": "indiatvnews.com",
@@ -43,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/where-to-watch-india-vs-zimbabwe-t20i-series-live-on-tv-and-stream-online-2026-07-23-1049148",
     "time": "2026-07-23T08:33:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lovlina Borgohain confirms India's first medal in Commonwealth Games 2026 even before opening ceremony",
-    "desc": "India opened their account at the 2026 Commonwealth Games before the opening ceremony. Boxer Lovlina Borgohain became the country's first confirmed medallist after securing a direct place in the women's 75kg semifinals. The Olympic medallist from...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/lovlina-borgohain-confirms-india-s-first-medal-in-commonwealth-games-2026-even-before-opening-ceremony-2026-07-23-1049141",
-    "time": "2026-07-23T07:56:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India vs Zimbabwe 1st T20I Pitch Report, how will surface in Harare play?",
-    "desc": "After a disappointing tour to UK, where the Indian team suffered back-to-back defeats to Ireland and England, the team has gathered again for a three-match series against Zimbabwe, starting July 23. Several of the senior...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-zimbabwe-1st-t20i-pitch-report-how-will-surface-in-harare-play-2026-07-23-1049136",
-    "time": "2026-07-23T07:17:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why are Cricket, Hockey, Badminton, Shooting, Wrestling not part of Commonwealth Games 2026?",
-    "desc": "India's medal prospects at the 2026 Commonwealth Games have been significantly reshaped after nine sports were dropped from the Glasgow programme. It left the country's 125-member contingent to compete across only 10 disciplines, with the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/why-are-cricket-hockey-badminton-shooting-wrestling-not-part-of-commonwealth-games-2026-2026-07-23-1049129",
-    "time": "2026-07-23T06:42:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What is India's schedule in Commonwealth Games 2026? Check dates of all events",
-    "desc": "India will begin their 2026 Commonwealth Games campaign in Glasgow on July 23. Several of the country's leading athletes, including Neeraj Chopra, Mirabai Chanu, Tejaswin Shankar, Animesh Kujur and Gurindervir Singh, will be participating. A...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/what-is-india-s-schedule-in-commonwealth-games-2026-check-dates-of-all-events-2026-07-23-1049123",
-    "time": "2026-07-23T05:54:59.000Z"
   }
 ];
