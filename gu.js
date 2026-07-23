@@ -1,6 +1,33 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "આકાશમાં દેખાયું 10 હજાર કિમી લાંબું &amp;#039;પ્રેત&amp;#039;! ભારતથી સાઉથ કોરિયા સુધી પૂરનો ખતરો?",
+    "desc": "આકાશમાં અંદાજે 10000 કિમી લાંબું રહસ્યમયી પ્રેત વાદળું જોવા મળતા ભારતથી લઈને દક્ષિણ કોરિયા સુધી ચિંતા વધી છે. આખરે આ અનોખી મૌસમી ઘટના શુ છે, શું તેનો સંબંધ ભારે વરસાદ, પુર કે જળવાયુ પરિવર્તન સાથે છે, તથા વૈજ્ઞાનિક તેના વિશે શું કહે છે? જાણો આ વાયરલ દાવાની તથ્યાત્મક અને વૈજ્ઞાનિક તપાસ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/big-news-india-weather-10000-km-long-rain-cloud-seen-from-india-to-south-korea-485519 ",
+    "time": "2026-07-23T08:11:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "માસૂમ વિદ્યાર્થીઓની ભીડમાં પથ્થરો અને બોટલો સાથે કોણ ઘૂસ્યું? અચાનક થાય છે પોલીસ પર હુમલો",
+    "desc": "પેપરલીક સામે માસૂમ વિદ્યાર્થીઓના બળાપાનો કોણ ફાયદો ઉઠાવી રહ્યું છે? આ સવાલ થઈ ર હ્યો છે કારણ કે પોલીસ તપાસમાં ચોંકાવનારી માહિતી સામે આવી રહી છે. એવું માનવામાં આવી રહ્યું છે કે આ પ્રોટેસ્ટને હવે ઉપદ્રવીઓએ હાઈજેક કર્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/cjp-protest-violence-latest-update-delhi-police-investigation-jantar-mantar-cctv-footage-485515 ",
+    "time": "2026-07-23T06:59:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "થલપતિ વિજયની છેલ્લી ફિલ્મ &amp;#039;જન નાયકન&amp;#039; હિટ કે ફ્લોપ? જાણો લોકો શું કહી રહ્યા છે",
+    "desc": "થલપતિ વિજયની મચ અવેટેડ ફિલ્મ જન નાયકન સિનેમાઘરોમાં રિલીઝ થઈ ચુકી છે. આ ફિલ્મ જોવા ચાહકો આતુર હતા. ફિલ્મ જોયા પછી સોશિયલ મીડિયા પર ફિલ્મને લઈને લોકો પોતાના વ્યુ પણ શેર કરવા લાગ્યા છે. તો ચાલો જાણીએ થલપતિ વિજયની છેલ્લી ફિલ્મ જન નાયકન હિટ છે કે ફ્લોપ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/jana-nayagan-public-review-social-media-how-is-thalapathy-vijay-last-movie-jana-nayagan-485514 ",
+    "time": "2026-07-23T06:10:04.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "પેપરલીક મુદ્દે ભારે વિરોધ પ્રદર્શન અને હિંસા વચ્ચે મોદી સરકારે લીધો મોટો નિર્ણય",
     "desc": "પેપર લીક પર ભારે બબાલ, વિરોધ પ્રદર્શનના પગલે મોદી સરકાર દ્વારા મોટો નિર્ણય લેવાયો છે. પીએમ મોદીએ પેપરલીક કેસોમાં કડકાઈ દર્શાવતા ફાસ્ટ ટ્રેક કોર્ટ બનાવવાની જાહેરાત કરી છે. જેનો હેતુ દોષિતોને જલદી અને કડક સજા અપાવવાનો છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -583,15 +610,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/from-destroying-iran-to-taking-back-statements-trumps-36th-u-turn-over-hormuz-toll-sparks-global-backlash-484727 ",
     "time": "2026-07-15T14:54:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "સોશિયલ મીડિયા આ Horror ફિલ્મ છે ચર્ચામાં, હોટસ્ટાર પર સૌથી વધુ લોકો જોઈ રહ્યા છે આ ડરામણી ફિલ્મ",
-    "desc": "અત્યારે સોશિયલ મીડિયા પર એક હોરર ફિલ્મની ચર્ચા સતત થઈ રહી છે. આ ફિલ્મ જિયો હોટસ્ટાર પર ટ્રેંડ કરી રહી છે. આ ફિલ્મ વિશે એવું કહેવાય રહ્યું છે કે ફિલ્મનો એન્ડ એવો છે જેને જોઈને તમારું મગજ કામ કરતું બંધ થઈ જશે. તો ચાલો તમને પણ આ ફિલ્મ વિશે જણાવીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/jiohotstar-trending-horror-movie-isha-in-hindi-isha-movie-ending-484659 ",
-    "time": "2026-07-15T12:26:45.000Z"
   },
   {
     "cat": "Tech",

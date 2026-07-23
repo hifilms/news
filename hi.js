@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Lovlina Borgohain confirms India's first medal in Commonwealth Games 2026 even before opening ceremony",
+    "desc": "India opened their account at the 2026 Commonwealth Games before the opening ceremony. Boxer Lovlina Borgohain became the country's first confirmed medallist after securing a direct place in the women's 75kg semifinals. The Olympic medallist from...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/lovlina-borgohain-confirms-india-s-first-medal-in-commonwealth-games-2026-even-before-opening-ceremony-2026-07-23-1049141",
+    "time": "2026-07-23T07:56:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India vs Zimbabwe 1st T20I Pitch Report, how will surface in Harare play?",
+    "desc": "After a disappointing tour to UK, where the Indian team suffered back-to-back defeats to Ireland and England, the team has gathered again for a three-match series against Zimbabwe, starting July 23. Several of the senior...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-zimbabwe-1st-t20i-pitch-report-how-will-surface-in-harare-play-2026-07-23-1049136",
+    "time": "2026-07-23T07:17:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why are Cricket, Hockey, Badminton, Shooting, Wrestling not part of Commonwealth Games 2026?",
+    "desc": "India's medal prospects at the 2026 Commonwealth Games have been significantly reshaped after nine sports were dropped from the Glasgow programme. It left the country's 125-member contingent to compete across only 10 disciplines, with the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/why-are-cricket-hockey-badminton-shooting-wrestling-not-part-of-commonwealth-games-2026-2026-07-23-1049129",
+    "time": "2026-07-23T06:42:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What is India's schedule in Commonwealth Games 2026? Check dates of all events",
+    "desc": "India will begin their 2026 Commonwealth Games campaign in Glasgow on July 23. Several of the country's leading athletes, including Neeraj Chopra, Mirabai Chanu, Tejaswin Shankar, Animesh Kujur and Gurindervir Singh, will be participating. A...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/what-is-india-s-schedule-in-commonwealth-games-2026-check-dates-of-all-events-2026-07-23-1049123",
+    "time": "2026-07-23T05:54:59.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Different match timing for India vs Zimbabwe series, check squads, fixture and all you need to know",
     "desc": "India tour of Zimbabwe, scheduled to start on July 23, will feature three T20s between the two teams. Stakes are high for the men in blue after the mediocre performance in their previous games. India are...",
     "img": "",
@@ -43,41 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/hashmatullah-shahidi-steps-down-as-afghanistan-captain-reveals-decision-2026-07-22-1049036",
     "time": "2026-07-22T08:59:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi to start afresh in Zimbabwe following a below-par debut",
-    "desc": "Just four months ago, Vaibhav Sooryavanshi proved his mettle in the Under-19 World Cup in Zimbabwe. In the final against England, the Bihar-born smashed 175 runs off 80 balls, securing a win by 100 runs...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-to-start-afresh-in-zimbabwe-following-a-below-par-debut-2026-07-22-1049025",
-    "time": "2026-07-22T08:05:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shimron Hetmyer, Sherfane Rutherford power West Indies to consolation ODI win over New Zealand",
-    "desc": "West Indies have finally returned to winning ways after three consecutive defeats against New Zealand in the ODI series. In the final game of the series in Barbados, the Caribbeans successfully chased down 269 runs...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shimron-hetmyer-sherfane-rutherford-power-west-indies-to-consolation-odi-win-over-new-zealand-2026-07-22-1049020",
-    "time": "2026-07-22T07:23:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Zimbabwe announce 15-member squad for T20I series vs India, Wessley Madhevere returns",
-    "desc": "Zimbabwe have reshaped their squad for the upcoming three-match T20I series against India. For the marquee series, the Chevrons have brought back all-rounder Wessly Madhevere and fast bowler Newman Nyamhuri while awarding wicketkeeper-batter Tafadzwa Tsiga...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/zimbabwe-announce-15-member-squad-for-t20i-series-vs-india-wessley-madhevere-returns-2026-07-22-1049014",
-    "time": "2026-07-22T06:26:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "David Warner pleads guilty to drink-driving, lawyer reveals details",
-    "desc": "Former Australia opener David Warner has pleaded guilty to a mid-range drink-driving charge. The plea was entered through Warner's lawyer, Bobby Hill, at Waverley Local Court on Wednesday, July 22. However, the veteran batter wasn’t...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/david-warner-pleads-guilty-to-drink-driving-lawyer-reveals-details-2026-07-22-1049008",
-    "time": "2026-07-22T06:00:12.000Z"
   }
 ];
