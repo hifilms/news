@@ -1,5 +1,284 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Rift in AMMA triggers fresh row over ‘power group’ in Malayalam cinema",
+    "desc": "Allegation by Shwetha Menon that the ‘power group’ named in Hema Committee report is working against her has triggered a fresh bout of infighting within AMMA even as her rival camp has asked her to divulge the names of those named in the controversial report",
+    "img": "https://th-i.thgim.com/public/incoming/by6c7y/article71256618.ece/alternates/LANDSCAPE_1200/swetha_menon_1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/rift-in-amma-triggers-fresh-row-over-power-group-in-malayalam-cinema/article71256467.ece",
+    "time": "2026-07-23T05:30:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Jana Nayagan' review: Fans hail Vijay's film as commercial entertainer",
+    "desc": "Fans are celebrating Jana Nayagan as a neat commercial entertainer and a fitting farewell. Vijay's performance and the emotional father-daughter bond are highlighted as strengths. The second half features political settings and action, leading to an emotional climax. Anirudh Ravichander's background score received widespread praise for elevating key scenes. The film's post-credit montage provided an emotional send-off for the actor.",
+    "img": "https://static.toiimg.com/photo/msid-132572544,imgsize-164220.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-twitter-review-fans-hail-vijays-farewell-film-as-neat-commercial-entertainer-as-emotional-climax-steals-the-spotlight/articleshow/132572527.cms",
+    "time": "2026-07-23T05:26:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Meghan Markle's 'MasterChef Australia' stint mocked online",
+    "desc": "Meghan Markle's guest judge stint on MasterChef Australia has faced backlash from viewers, with many deeming her on-screen persona as forced and awkward following preview clips. She shared insights with contestants regarding handling kitchen stress and the joys of cooking, emphasizing that food serves as a love language. The episode reignited conversations around her public image and media activities.",
+    "img": "https://static.toiimg.com/photo/msid-132572396,imgsize-108216.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/meghan-markles-masterchef-australia-guest-judge-appearance-sparks-backlash-she-gets-branded-as-awkward-and-cringey/articleshow/132572304.cms",
+    "time": "2026-07-23T05:22:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salman ADMITS receiving leaked papers in old video",
+    "desc": "An old video of Salman Khan admitting to receiving leaked exam papers has resurfaced online. He recently voiced strong support for students protesting the alleged NEET paper leak. Khan emphasized the seriousness of paper leaks and praised student dedication to education. He urged political parties not to hijack the peaceful student-led movement. The actor hopes for a positive government decision to strengthen the educational system.",
+    "img": "https://static.toiimg.com/photo/msid-132572234,imgsize-88468.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-admitting-to-receiving-leaked-exam-papers-resurfaces-after-actor-backs-students-protest-watch/articleshow/132572053.cms",
+    "time": "2026-07-23T05:22:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Paul Wesley takes 'responsibility' for being 'grumpy' with Nina",
+    "desc": "Paul Wesley admitted to being a curmudgeon during his time on The Vampire Diaries. He took responsibility for the initial tension with co-star Nina Dobrev. Despite their off-screen conflicts, their on-screen chemistry was magical and captivating. After Dobrev departed, Wesley joked she would miss him, which she later confirmed. The duo will reunite for a new suspense novel adaptation project.",
+    "img": "https://static.toiimg.com/photo/msid-132572512,imgsize-338575.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/paul-wesley-takes-responsibility-for-being-grumpy-with-nina-dobrev-i-was-a-bit-of-a-curmudgeon/articleshow/132572508.cms",
+    "time": "2026-07-23T05:21:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL investment later, The Hundred continues to be a family affair",
+    "desc": "The Hundred, the unique tournament featuring 100-ball innings, is back with its sixth edition. Much has changed, and yet not a lot has changed. It still has eight teams, still features 100-ball innings where bowlers can bowl spells of five or 10 consecutive balls, and is still objectively meant to quicken the game and feature double headers - men and women - on the same day.",
+    "img": "https://static.toiimg.com/photo/msid-132572345,imgsize-136630.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ipl-investment-later-the-hundred-continues-to-be-a-family-affair/articleshow/132572252.cms",
+    "time": "2026-07-23T05:10:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Meghan Markle steps back from spotlight for Prince Harry",
+    "desc": "Meghan Markle is said to have re-evaluated her public demeanor following a recent trip to the United Kingdom. In light of Prince Harry's request for her to exercise discretion on family issues and their efforts at reconciliation, this marks a notable departure for Markle, who often shares personal stories. The Duke of Sussex is focused on safeguarding the progress achieved during their visit.",
+    "img": "https://static.toiimg.com/photo/msid-132572249,imgsize-85776.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/meghan-markle-makes-a-huge-adjustment-amid-prince-harrys-uk-trip-though-toeing-the-line-isnt-in-her-nature/articleshow/132572213.cms",
+    "time": "2026-07-23T05:02:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "William Shatner and Melanie Shatner recall their Stage 4 cancer",
+    "desc": "William Shatner and his daughter Melanie Shatner bravely faced Stage 4 cancer diagnoses. Melanie was diagnosed with breast cancer in 2022, while William battled melanoma in 2023. Both underwent treatments and examinations, emerging disease-free after their health scares. Their shared experience has fostered a deeper family bond and new life perspectives. The duo will launch a podcast to discuss health and survival with experts.",
+    "img": "https://static.toiimg.com/photo/msid-132572167,imgsize-224443.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/william-shatner-and-melanie-shatner-recall-their-stage-4-cancer-diagnosis-it-changed-my-life/articleshow/132572143.cms",
+    "time": "2026-07-23T04:52:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Jana Nayagan': CM Vijay watches final film with Secretariat staff",
+    "desc": "Tamil Nadu Chief Minister Vijay attended a special screening of his final film 'Jana Nayagan'. The private show occurred at the Tagore Film Centre in Adyar, Chennai. Secretariat staff and government officials joined Vijay for this significant private viewing. The film 'Jana Nayagan' faced several release hurdles before its theatrical debut. This event marks an emotional milestone for Vijay's acting career transition.",
+    "img": "https://static.toiimg.com/photo/msid-132572047,imgsize-64002.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-cm-vijay-watches-final-film-with-secretariat-staff-special-screening-held-in-chennai-tight-security-at-venue/articleshow/132571968.cms",
+    "time": "2026-07-23T04:38:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Angelina Jolie's daughter moves to drop Brad Pitt's surname",
+    "desc": "In a notable family shift, Vivienne Jolie-Pitt has submitted a petition to legally change her surname, opting to drop her father's last name. Following the footsteps of her siblings, including Zahara, Maddox, and Shiloh, who have embarked on similar journeys, Vivienne now wishes to be identified as Vivienne Marcheline Jolie. Court hearings concerning these name changes are set through November.",
+    "img": "https://static.toiimg.com/photo/msid-132571970,imgsize-171798.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/angelina-jolie-wants-everyone-to-heal-as-fourth-jolie-pitt-sibling-vivienne-moves-to-drop-brad-pitts-surname/articleshow/132571855.cms",
+    "time": "2026-07-23T04:34:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'P*** Espanya': Spain's Ferran Torres WC mural vandalised in Barcelona",
+    "desc": "A mural honouring Spain's World Cup hero Ferran Torres was vandalised within 24 hours of being unveiled in Barcelona. Created by street artist TVBoy, it was repeatedly defaced with political graffiti, including \"volem seleccions catalanes\" (\"we want Catalan national teams\"), before being removed by city authorities. Despite its brief existence, the artwork highlighted the intersection of football, art and Catalan politics.",
+    "img": "https://static.toiimg.com/photo/msid-132571971,imgsize-167519.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/p-espanya-spains-ferran-torres-world-cup-mural-vandalised-in-barcelona/articleshow/132571851.cms",
+    "time": "2026-07-23T04:30:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Pondicherry morning shows cancelled for Thalapathy Vijay's 'Jana Nayagan'",
+    "desc": "Morning shows for Thalapathy Vijay's film 'Jana Nayagan' were cancelled in Pondicherry. This cancellation occurred due to issues with ticket distribution among fan groups. The film had already faced delays and an internet leak before its release. Despite this setback, 'Jana Nayagan' received a strong response elsewhere. This movie marks Vijay's final film before entering politics.",
+    "img": "https://static.toiimg.com/photo/msid-132571947,imgsize-123230.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-release-pondicherry-morning-shows-cancelled-for-thalapathy-vijay-starrer-after-ticket-allocation-issue/articleshow/132571895.cms",
+    "time": "2026-07-23T04:27:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Protesters at Jantar Mantar find relief at free clinics set up by doctors",
+    "desc": "The clinic, apart from having paracetamol, painkillers, bottles of Dettol, and sanitary pads, also has a machine to check blood pressure, an oximeter, and thermometers. The medicines and the equipment were donated by the people and the 10-12 doctors working there",
+    "img": "https://th-i.thgim.com/public/news/national/mw2c51/article71255444.ece/alternates/LANDSCAPE_1200/Doctors%20at%20CJP.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/protesters-at-jantar-mantar-find-relief-at-free-clinics-set-up-by-doctors/article71255285.ece",
+    "time": "2026-07-23T04:26:10.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Rupee rises to 96.49 against US dollar, rising oil prices limit gains",
+    "desc": "The Indian rupee saw a slight gain against the US dollar on Thursday. Rising crude oil prices continue to exert pressure on the currency. The Reserve Bank of India's intervention is expected to limit sharper losses. Foreign investors showed mixed sentiment in Indian equities and bonds. Stock markets opened on a weak note, with key indices falling.",
+    "img": "https://static.toiimg.com/photo/msid-132571715,imgsize-1070164.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-rises-to-96-49-against-us-dollar-oil-prices-limit-gains/articleshow/132571607.cms",
+    "time": "2026-07-23T04:13:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Srikanth producer on Rajkummar National Award SNUB",
+    "desc": "Despite predictions, Rajkummar Rao missed Best Actor at the National Film Awards, which went jointly to Kartik Aaryan and Mammootty. 'Srikanth' co-producer Nidhi Parmar Hiranandani denies it's a snub, praising both actors. She reveals the film and husband Tushar were often overlooked at Bollywood awards, calling this win unexpected and humbling.",
+    "img": "https://static.toiimg.com/photo/msid-132571610,imgsize-191452.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/srikanth-producer-breaks-silence-on-rajkummar-rao-national-award-snub-racts-to-kartik-aaryans-win-for-chandu-champion/articleshow/132571610.cms",
+    "time": "2026-07-23T04:01:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Toxic' producer says audiences will '100 percent' love the film",
+    "desc": "A Fairytale for Grown-Ups' is set for release August 26, 2026. The film's producer expresses confidence in its unique cinematic experience for audiences. This ambitious project centers on a father-son rivalry, directed by Geetu Mohandas. Promotional materials have sparked genre discussions among fans regarding its overall tone. The movie's release date has been postponed multiple times before its final schedule.",
+    "img": "https://static.toiimg.com/photo/msid-132571102,imgsize-68148.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/yashs-toxic-producer-promises-a-grand-theatrical-experience-says-audiences-will-100-percent-love-it/articleshow/132570990.cms",
+    "time": "2026-07-23T03:57:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Iyer's side seek reset after Ireland and England defeats",
+    "desc": "The spotlight will once again be on teenage sensation Vaibhav Sooryavanshi. Harare is the venue where the 15-year-old announced himself on the global stage with a stunning 175 off 80 balls against England in the U-19 World Cup final in Jan. His opening partner Abhishek Sharma also has happy memories here, having scored his maiden T20I hundred at the ground in 2024.",
+    "img": "https://static.toiimg.com/photo/msid-132571483,imgsize-80244.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/india-vs-zimbabwe-1st-t20i-shreyas-iyers-side-seek-reset-after-ireland-and-england-defeats/articleshow/132571482.cms",
+    "time": "2026-07-23T03:47:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Nothing more important than youth's future': PM Modi announces fast-track courts for paper leak cases",
+    "desc": "Prime Minister Narendra Modi announced fast-track courts for paper leak cases. This move aims to ensure swift and stringent punishment for offenders. Opposition leader Rahul Gandhi criticized the Prime Minister, holding him responsible. Rahul reiterated student demands including the education minister's dismissal. The government vows strict action against those harming students' futures.",
+    "img": "https://static.toiimg.com/photo/msid-132571428,imgsize-1049467.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/nothing-more-important-than-youths-future-pm-modi-announces-fast-track-courts-for-paper-leak-cases/articleshow/132571456.cms",
+    "time": "2026-07-23T03:45:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Elon Musk to back 'The Odyssey' with Mel Gibson?",
+    "desc": "Elon Musk announced his AI tool Grok Imagine will create a historically accurate film. This new movie of 'The Odyssey' is planned for release by the end of 2026. Musk had previously criticized the casting of Lupita Nyong'o as Helen of Troy. He called the decision an insult to Homer's original description of the character. The film stars Matt Damon and an ensemble cast in various roles.",
+    "img": "https://static.toiimg.com/photo/msid-132571460,imgsize-62968.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/elon-musk-open-to-make-historically-accurate-the-odyssey-with-mel-gibson-with-usd-100-million-budget-amid-christopher-nolans-record-breaking-box-office-run/articleshow/132570407.cms",
+    "time": "2026-07-23T03:45:40.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "More pulp, less tax: Govt panel hits the sweet spot with 'aam' proposal to help Totapuri farmers",
+    "desc": "The government proposes a 5% GST rate for mango drinks with 22-25% real pulp. This move aims to revive Totapuri mango pulp demand and improve beverage quality. An expert committee studied Totapuri price declines and suggested solutions for farmers. Recommendations include price stabilization committees and orchard rejuvenation techniques. The government will consult ministries to finalize standards and the tax structure.",
+    "img": "https://static.toiimg.com/photo/msid-132571202,imgsize-1549892.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/more-pulp-less-tax-govt-panel-hits-the-sweet-spot-with-aam-proposal-to-help-totapuri-farmers/articleshow/132571157.cms",
+    "time": "2026-07-23T03:40:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Naseeruddin SLAMS Bollywood's silence on CJP protests",
+    "desc": "Naseeruddin Shah criticised Bollywood's silence on the Cockroach Janta Party protests, comparing silent actors to \"a dog with a bone\" that can't bark. He shared a video supporting protesting students, saying \"sab yaad rakha jayega.\" While many actors stayed quiet, Shabana Azmi and Ritesh Deshmukh voiced their support for the protests.",
+    "img": "https://static.toiimg.com/photo/msid-132571110,imgsize-212830.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/naseeruddin-shah-slams-bollywoods-silence-on-cjp-protests-dog-with-a-bone-cant-bark/articleshow/132571110.cms",
+    "time": "2026-07-23T03:11:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jamie Campbell Bower debuts FIRST LOOK as Celeborn",
+    "desc": "Jamie Campbell Bower joins The Rings of Power as Elven lord Celeborn. He will portray Galadriel's husband, a character teased previously. Bower's casting was confirmed with an official first look shared widely. Showrunners praised his hypnotic voice and natural chemistry with co-star. Season 3 of the fantasy series premieres on November eleventh.",
+    "img": "https://static.toiimg.com/photo/msid-132570713,imgsize-161060.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/jamie-campbell-bower-debuts-first-look-as-celeborn-in-the-lord-of-the-rings-the-rings-of-power-season-3-says-beyond-elated-and-grateful/articleshow/132570392.cms",
+    "time": "2026-07-23T03:03:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Put your own house in order': India slams Pakistan over crossborder terror at UN",
+    "desc": "India strongly criticized Pakistan's continued use of crossborder terrorism as a state policy. Ambassador Parvathaneni Harish stated Jammu and Kashmir is an inalienable part of India. He highlighted Pakistan's illegal occupation as the sole unresolved issue concerning the region. Crossborder terrorism has eroded the trust needed for bilateral cooperation, India noted. Pakistan should focus on its domestic challenges instead of targeting India.",
+    "img": "https://static.toiimg.com/photo/msid-132571025,imgsize-716697.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/put-your-own-house-in-order-india-slams-pakistan-over-crossborder-terror-at-un/articleshow/132571008.cms",
+    "time": "2026-07-23T03:00:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Jack Nicholson",
+    "desc": "At eighty-nine, Jack Nicholson continues to be a vibrant figure in the film industry. A recent photo shared by his daughter has stirred conversations about his current state and future plans. Rumors indicate he might be eyeing one last project, while his reflections dwell on taking action rather than lamenting what could have been.",
+    "img": "https://static.toiimg.com/photo/msid-132570964,imgsize-171332.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-jack-nicholson-when-you-look-at-life-retrospectively-you-rarely-regret-anything-that-you-did-but-you-might-regret-things-that-you-didnt-do-when-the-shining-legend-reflected-on-embracing-opportunities-before-they-become-missed-chances/articleshow/132570922.cms",
+    "time": "2026-07-23T02:57:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kaylee Hottle's cause of death revealed",
+    "desc": "Actress Kaylee Hottle died in a fatal car crash in Maryland on July 21, 2026. Her father announced her passing via American Sign Language on Facebook. The official cause of death was multiple blunt force injuries from the collision. Hottle was a passenger in a high-speed car which crashed into a ditch. Investigations into the cause of the accident are currently underway by authorities.",
+    "img": "https://static.toiimg.com/photo/msid-132570947,imgsize-134374.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kaylee-hottles-cause-of-death-revealed-investigation-report-cites-godzilla-actress-suffered-multiple-blunt-force-injuries/articleshow/132570684.cms",
+    "time": "2026-07-23T02:54:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Fans burst firecrackers inside theatre during 'Jana Nayagan' screening",
+    "desc": "Fans celebrated Vijay's film 'Jana Nayagan' by bursting firecrackers inside a Bengaluru theatre. This unusual celebration drew widespread attention and mixed reactions online from viewers. The incident occurred during the screening of the actor's final film before entering politics. Many moviegoers recorded the moment, which quickly went viral on social media platforms. The event highlighted fan passion and reignited safety discussions within cinema halls.",
+    "img": "https://static.toiimg.com/photo/msid-132570950,imgsize-112748.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/watch-vijay-fans-burst-firecrackers-inside-packed-bengaluru-theatre-during-jana-nayagan-screening/articleshow/132570939.cms",
+    "time": "2026-07-23T02:53:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Neeraj Chopra, Mirabai Chanu lead India's medal hopes at CWG 2026",
+    "desc": "India begins its Commonwealth Games campaign in Glasgow with a compact contingent. The program features ten sports, a significant reduction from previous games. Athletics forms the backbone of the campaign with many competitors. Mirabai Chanu and Lovlina Borgohain are key figures for India. Glasgow offers a learning opportunity before India hosts the games in 2030.",
+    "img": "https://static.toiimg.com/photo/msid-132570844,imgsize-56541.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/glasgow-gold-quest-begins-neeraj-chopra-mirabai-chanu-lead-indias-medal-hopes-at-commonwealth-games-2026/articleshow/132570828.cms",
+    "time": "2026-07-23T02:42:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Teary-eyed Isha rests on Badshah's shoulder in an unseen picture",
+    "desc": "Isha Rikhi's mother, Poonam Rikhi, revealed the couple's intimate wedding on Instagram, sharing an unseen video of Badshah comforting a teary-eyed Isha, captioned \"Every prayer is hope.\" Isha confirmed the marriage during a June AMA. Badshah was previously married to Jasmine (2012-2019), with whom he shares a daughter, Jessamy.",
+    "img": "https://static.toiimg.com/photo/msid-132570843,imgsize-171345.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/teary-eyed-isha-rikhi-rests-on-badshahs-shoulder-in-an-unseen-picture-every-prayer-is-hope/articleshow/132570843.cms",
+    "time": "2026-07-23T02:41:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I'm sorry': Why Argentina's assistant coach apologised after FIFA World Cup final",
+    "desc": "Argentina assistant coach Roberto Ayala apologized for his actions during a post-match altercation. He admitted his behavior was unacceptable after Spain defeated Argentina in the World Cup final. Ayala expressed regret for losing control and stated his intention was to separate players. He accepted full responsibility for his actions during the chaotic post-game scenes. FIFA has launched an investigation into the post-match brawl involving players and staff.",
+    "img": "https://static.toiimg.com/photo/msid-132570670,imgsize-88457.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/im-sorry-why-argentina-coach-roberto-ayala-apologised-after-fifa-world-cup-final-dani-olmo/articleshow/132570643.cms",
+    "time": "2026-07-23T02:30:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Jana Nayagan': Fans erupt as Vijay's CM title card lights up theatres",
+    "desc": "Jana Nayagan's release saw fans celebrating Vijay's first film after his political journey. Theaters became festival venues with large fan gatherings and enthusiastic celebrations. Vijay's title card as Honorable Chief Minister of Tamil Nadu created a major highlight. The film faced delays due to legal battles and an online leak setback. Despite challenges, Jana Nayagan opened with significant fan reception and expectations.",
+    "img": "https://static.toiimg.com/photo/msid-132570761,imgsize-36628.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-release-fans-erupt-as-vijays-cm-title-card-lights-up-theatres/articleshow/132570734.cms",
+    "time": "2026-07-23T02:29:21.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Will Trump’s bunker buster bombs punch through Iran’s Pickaxe Mountain?",
+    "desc": "The U.S. faces a complex challenge at Iran’s Pickaxe Mountain, where powerful bunker buster bombs face hardy geological formations. Success is also limited by a critical minerals crunch, and could force Trump to shift from total destruction to disabling surface infrastructure and subterranean access tunnels",
+    "img": "https://th-i.thgim.com/public/sci-tech/science/xmonen/article71256191.ece/alternates/LANDSCAPE_1200/Screenshot%202026-07-23%20at%207.19.17%E2%80%AFAM.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/science/trump-bunker-buster-bombs-punch-through-iran-pickaxe-mountain-centrifuges/article71256189.ece",
+    "time": "2026-07-23T02:14:05.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Oil prices touch six week high as Strait of Hormuz is 'completely closed'",
     "desc": "Crude oil prices surged as Middle East conflict escalated on Thursday. Brent crude rose above $96 a barrel and WTI climbed past $88. Fresh attacks on oil tankers in the Red Sea fueled supply concerns. Iran's Revolutionary Guards claimed control of the Strait of Hormuz. Houthi naval blockades further amplified worries over global energy shipments.",
@@ -9,15 +288,6 @@ const newsData_en = [
     "time": "2026-07-23T02:01:53.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Inside Tom Cruise's multi-million real estate portfolio",
-    "desc": "Tom Cruise has curated a portfolio of luxurious homes throughout his career. He previously owned a spacious East Village apartment and a Telluride ranch. His Hollywood Hills compound and West Sussex estate were also notable properties. Later, he acquired a Beverly Hills mansion and a Florida penthouse. These residences reflect his evolving lifestyle and significant property investments.",
-    "img": "https://static.toiimg.com/photo/msid-132570472,imgsize-214986.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/inside-tom-cruises-multi-million-real-estate-portfolio-from-sprawling-east-village-condo-to-lavish-florida-penthouse/articleshow/132570458.cms",
-    "time": "2026-07-23T01:52:09.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Why is cricket not part of the Commonwealth Games 2026? EXPLAINED",
     "desc": "Glasgow will host the 2026 Commonwealth Games with a reduced sports program. Cricket, hockey, and badminton are notably absent from the upcoming event. This decision impacts India's medal prospects significantly after their strong performance. Many of India's medal-winning sports from Birmingham 2022 are no longer included. Organizers cited financial and logistical reasons for the sport reductions.",
@@ -25,33 +295,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/why-is-cricket-not-part-of-the-commonwealth-games-2026-explained/articleshow/132570376.cms",
     "time": "2026-07-23T01:50:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Dharmendra Pradhan's resignation is non-negotiable, protest to continue, says CJP",
-    "desc": "\"The strength of our movement lies in peace and nonviolence. Proud of every Cockroach Janta Party supporter who has shown remarkable resilience, courage, and patience despite the brutal crackdown by the Govt.,\" says CJP founder Abhijeet Dipke.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/cjp-jantar-mantar-protest-live-updates-abhijeet-dipke-saurav-das-sonam-wangchuk-hunger-strike-dharmendra-pradhan-resignation/article71256169.ece",
-    "time": "2026-07-23T01:48:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Ramayana' trailer: India release date and time REVEALED",
-    "desc": "The much-anticipated Ramayana trailer will debut at San Diego Comic-Con this week. Ranbir Kapoor and Yash are attending the event for the film's grand international showcase. The panel will feature exclusive footage and the official trailer premiere. An English-dubbed version utilizing AI lip-sync technology is also planned. The trailer will be released worldwide on July 24.",
-    "img": "https://static.toiimg.com/photo/msid-132570321,imgsize-311674.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-trailer-india-release-date-and-time-revealed-ranbir-kapoor-yash-set-to-unveil-epic-at-san-diego-comic-con-details-inside/articleshow/132570154.cms",
-    "time": "2026-07-23T01:28:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay's 'One Last Dance' turns theatres into festival venues",
-    "desc": "Thalapathy Vijay's political action drama Jana Nayagan has now reached theatres. Fans have transformed cinema halls into vibrant celebration venues across several cities. Social media buzz highlights the immense excitement and festive atmosphere surrounding the release. Early reactions suggest the film offers mass moments and energetic performances from Vijay. Jana Nayagan is widely seen as Vijay's farewell to cinema before entering politics.",
-    "img": "https://static.toiimg.com/photo/msid-132570245,imgsize-357697.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-release-fever-grips-tamil-nadu-vijays-one-last-dance-turns-theatres-into-festival-venues-video/articleshow/132570235.cms",
-    "time": "2026-07-23T01:11:43.000Z"
   },
   {
     "cat": "Sports",
@@ -72,60 +315,6 @@ const newsData_en = [
     "time": "2026-07-23T01:04:43.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Oprah Winfrey revisits iconic Meghan Markle interview moment",
-    "desc": "Oprah Winfrey opened up about her impactful inquiry directed at Meghan Markle regarding her experiences within the royal family. She emphasized her commitment to truth and clarity throughout the discussion, which brought up sensitive topics including concerns around the color of Prince Archie's skin and ongoing tensions among royal members.",
-    "img": "https://static.toiimg.com/photo/msid-132570171,imgsize-152784.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/oprah-winfrey-revisits-her-iconic-silent-or-silenced-question-from-prince-harry-and-meghan-markle-interview/articleshow/132570161.cms",
-    "time": "2026-07-23T00:48:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ayesha Khan DETAINED during Mumbai student protest",
-    "desc": "'Dhurandhar' actress Ayesha Khan revealed she was detained by Mumbai Police on July 22 for standing on the road near the Jantar Mantar-inspired CJP protest. She shared videos from inside the police van, questioning the lack of explanation. Ayesha had earlier urged paparazzi and media to cover the Delhi protest.",
-    "img": "https://static.toiimg.com/photo/msid-132570173,imgsize-213599.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-actress-ayesha-khan-detained-during-mumbai-student-protest-shares-video-saying-i-was-just-standing-on-the-road/articleshow/132570173.cms",
-    "time": "2026-07-23T00:47:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Jana Nayagan' overseas review",
-    "desc": "Thalapathy Vijay's much-anticipated film Jana Nayagan has hit screens in international markets, sparking vibrant discussions among the audience. Early feedback highlights a mix of suspense, thrilling action, and entertainment. Interestingly, many are noting parallels to Bhagavanth Kesari, although initial screenings clarify that it's not a direct remake. Enthusiastic fans can expect plenty of crowd-pleasing moments and impactful dialogues throughout the film.",
-    "img": "https://static.toiimg.com/photo/msid-132570172,imgsize-149102.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thalapathy-vijays-jana-nayagan-overseas-review-early-audience-says-the-film-is-loaded-with-suspense-action-and-entertainment/articleshow/132570162.cms",
-    "time": "2026-07-23T00:47:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Raj claims Rs 82 cr gift for Shilpa now worth Rs 16,000 cr",
-    "desc": "Raj Kundra revealed he bought Rajasthan Royals in 2009 as a Valentine's Day gift for Shilpa Shetty, spending Rs 81.9 crore for an 11.7% stake, now valued at Rs 16,000 crore. He called it IPL's largest single cheque investment then. Kundra was later banned for betting allegations in 2015, though he maintains his innocence.",
-    "img": "https://static.toiimg.com/photo/msid-132570088,imgsize-202591.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/raj-kundra-claims-he-spent-rs-82-crore-on-valentines-day-gift-for-wife-shilpa-shetty/articleshow/132570088.cms",
-    "time": "2026-07-23T00:10:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay films to watch before 'Jana Nayagan'",
-    "desc": "Thalapathy Vijay is reportedly preparing for his potential farewell film, 'Jana Nayagan'. Readers can revisit his celebrated movies that highlight his stardom. 'Kathi' addressed farmer issues and featured Anirudh's powerful music. 'Thalaivaa' showcased Vijay's raw performance in a blend of drama and mass elements. 'Mersal' and 'Sarkar' also offered commercial entertainment with social messages.",
-    "img": "https://static.toiimg.com/photo/msid-132553839,imgsize-380022.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vijay-films-to-watch-before-jana-nayagan-a-perfect-marathon-ahead-of-the-stars-final-film/articleshow/132553823.cms",
-    "time": "2026-07-23T00:06:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'The Odyssey' crosses Rs 100 crore at Indian box office",
-    "desc": "Christopher Nolan's epic film 'The Odyssey' has crossed Rs 100 crore in India. The Matt Damon-led movie achieved this milestone within its first week. This makes it the director's second film to reach this box office success. 'The Odyssey' collected Rs 84.15 crore net and Rs 100.38 crore gross. The English version significantly contributed to the film's overall earnings.",
-    "img": "https://static.toiimg.com/photo/msid-132570034,imgsize-108702.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/the-odyssey-box-office-collection-day-6-christopher-nolans-epic-starring-matt-damon-crosses-rs-100-crore-mark-in-india-becomes-directors-second-film-after-oppenheimer-to-hit-milestone/articleshow/132569907.cms",
-    "time": "2026-07-22T23:52:21.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "West Indies beat New Zealand by 2 wickets in the 5th ODI; New Zealand takes the series 3-2",
     "desc": "New Zealand took the series 3-2, clinching it in Game 4 after winning Game 2 by five wickets and Game 3 by six wickets in a comeback following West Indies' seven-wicket victory in the opening game.",
@@ -133,15 +322,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/west-indies-beat-new-zealand-by-2-wickets-in-the-5th-odi-new-zealand-takes-the-series-3-2/article71255474.ece",
     "time": "2026-07-22T23:09:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'I'm here to show support and solidarity'",
-    "desc": "Actor Imran Khan joined a student protest in Mumbai on Wednesday. He expressed solidarity with the young demonstrators participating in a peaceful gathering. Videos of Imran Khan marching amid a downpour are now going viral online. He condemned the reported use of force against student protesters in his statement. Imran Khan had previously posted his strong condemnation of police action.",
-    "img": "https://static.toiimg.com/photo/msid-132569887,imgsize-72456.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khans-nephew-imran-khan-joins-students-protest-in-mumbai-says-im-here-to-show-support-and-solidarity/articleshow/132569398.cms",
-    "time": "2026-07-22T23:04:41.000Z"
   },
   {
     "cat": "Sports",
@@ -171,15 +351,6 @@ const newsData_en = [
     "time": "2026-07-22T22:33:10.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Elon Musk 'turned into a creature,' says Olivia Wilde: 'Deeply resents him'",
-    "desc": "Actress and filmmaker Olivia Wilde has opened up about her changing opinion of Elon Musk, saying she now \"deeply resents\" the billionaire and never imagined he would become the person he is today. Speaking on The Louis Theroux Podcast, the Don't Worry Darling director reflected on meeting Musk years ago during a visit to SpaceX headquarters in Los Angeles.",
-    "img": "https://static.toiimg.com/photo/msid-132569840,imgsize-54101.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/elon-musk-turned-into-a-creature-says-olivia-wilde-recalls-meeting-him-at-spacex-before-admitting-she-now-deeply-resents-the-billionaires-transformation/articleshow/132569827.cms",
-    "time": "2026-07-22T22:30:20.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Kujur shelves fastest-man debate; Owens hails India's sprint surge ahead of CWG and Asian Games",
     "desc": "After Gurindervir's historic sub-10.10 run rewrote the men's 100m national record in Odisha earlier this year, Kujur has inevitably been asked about reclaiming the crown. But the Odisha sprinter has chosen to park that conversation for now",
@@ -187,15 +358,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/kujur-shelves-fastest-man-debate-owens-hails-indias-sprint-surge-ahead-of-cwg-and-asian-games/article71255450.ece",
     "time": "2026-07-22T22:26:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Days of Thunder 2' in development with Tom Cruise set to return",
-    "desc": "Paramount Pictures is reportedly developing a sequel to the 1990 racing drama 'Days of Thunder'. Tom Cruise is expected to reprise his role as NASCAR driver Cole Trickle. Jonathan Levine is the studio's top choice to direct the upcoming racing film. Fans are speculating if Nicole Kidman will also return for the highly anticipated sequel. The studio has yet to announce a specific release date for the film.",
-    "img": "https://static.toiimg.com/photo/msid-132568697,imgsize-577949.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/days-of-thunder-2-officially-in-development-with-tom-cruise-set-to-return-fans-ask-will-nicole-kidman-be-in-it/articleshow/132567709.cms",
-    "time": "2026-07-22T22:14:08.000Z"
   },
   {
     "cat": "Politics",
@@ -214,33 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/as-of-july-11-4-of-7-99-lakh-waqf-claims-rejected-after-uploading-on-central-portal/articleshow/132567927.cms",
     "time": "2026-07-22T21:51:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tom Rhys Harries debuts as Batman villain 'Clayface'",
-    "desc": "DC Studios has unveiled the trailer for the upcoming Batman villain movie 'Clayface'. The film stars Tom Rhys Harries and is set for a theatrical release in October 2026. Its story follows Matt Hagen's transformation and descent into revenge after a disfigurement. The movie is positioned between Matt Reeves' two Batman films in the DC universe. Naomi Ackie and David Dencik are also featured in the cast.",
-    "img": "https://static.toiimg.com/photo/msid-132567914,imgsize-24982.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/clayface-trailer-tom-rhys-harries-debuts-as-the-new-face-of-gotham-in-chilling-new-batman-villain-origins-story/articleshow/132567716.cms",
-    "time": "2026-07-22T21:42:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Protesters at Jantar Mantar find relief at free clinics set up by doctors",
-    "desc": "The clinic, apart from having paracetamol, painkillers, bottles of Dettol, and sanitary pads, also has a machine to check blood pressure, an oximeter, and thermometers. The medicines and the equipment were donated by the people and the 10-12 doctors working there",
-    "img": "https://th-i.thgim.com/public/news/national/mw2c51/article71255444.ece/alternates/LANDSCAPE_1200/Doctors%20at%20CJP.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/protesters-at-jantar-mantar-find-relief-at-free-clinics-set-up-by-doctors/article71255285.ece",
-    "time": "2026-07-22T21:38:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Curbs on foreign funding not uniquely Indian, says govt, cites laws elsewhere ahead of bill to tweak FCRA",
-    "desc": "The government staunchly supported the amendments to the Foreign Contribution Regulation Act (FCRA), arguing that unregulated foreign money poses a threat to democratic integrity. They clarified that the act does not prohibit NGOs from accessing foreign funds, particularly for faith-based initiatives. The restrictions on foreign nationals in crucial positions ensure that all contributions align with verified Indian governance.",
-    "img": "https://static.toiimg.com/photo/msid-132567706,imgsize-810882.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/curbs-on-foreign-funding-not-uniquely-indian-says-govt-cites-laws-elsewhere-ahead-of-bill-to-tweak-fcra/articleshow/132567703.cms",
-    "time": "2026-07-22T21:21:37.000Z"
   },
   {
     "cat": "Sports",
@@ -268,24 +403,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/cjp-jantar-mantar-protest-updates-july-22-2026/article71254277.ece",
     "time": "2026-07-22T19:36:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jeetendra reveals how Ekta's first home purchase shaped real estate journey",
-    "desc": "Veteran actor Jeetendra has opened up about his remarkable journey from Bollywood to real estate, revealing how a modest investment in Mumbai's Pali Hill decades ago eventually became one of his biggest success stories. Speaking to The Realty Drive, the actor also shared how daughter Ekta Kapoor's desire to buy her first home changed his outlook on property investments and why he believes \"every property has a destiny.\"",
-    "img": "https://static.toiimg.com/photo/msid-132567450,imgsize-55160.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-land-chooses-you-jeetendra-reveals-how-daughter-ekta-kapoors-first-home-purchase-changed-his-journey-from-bollywood-to-real-estate/articleshow/132567409.cms",
-    "time": "2026-07-22T19:33:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Terrorist kill J&amp;K cop in Anantnag market, first strike since Pahalgam attack",
-    "desc": "A J&K police head constable was killed by a terrorist in Anantnag's busy market. The attack occurred during the ongoing Amarnath Yatra, which has faced disruptions. Security forces have launched a search and detained several individuals for questioning. This incident marks the first attack in Kashmir since a previous massacre. Officials condemned the act, vowing that it would not go unpunished.",
-    "img": "https://static.toiimg.com/photo/msid-132567411,imgsize-1312726.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/terrorist-kill-jk-cop-in-anantnag-market-first-strike-since-pahalgam-attack/articleshow/132567405.cms",
-    "time": "2026-07-22T19:29:22.000Z"
   },
   {
     "cat": "Politics",
@@ -324,15 +441,6 @@ const newsData_en = [
     "time": "2026-07-22T18:40:18.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Salman Khan backs students' protest, says they deserve full credit",
-    "desc": "Bollywood star Salman Khan has voiced his support for students protesting against paper leaks, calling the issue \"very serious\" and urging that the movement remain focused on education rather than politics. Taking to Instagram, Salman praised students for coming together to demand a better education system and also acknowledged the support extended by their parents. However, he expressed sadness over reports that the otherwise peaceful protests had turned violent.",
-    "img": "https://static.toiimg.com/photo/msid-132566268,imgsize-53930.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-backs-students-protest-against-paper-leaks-says-they-deserve-full-credit-for-peaceful-movement-it-should-not-be-hijacked-politically/articleshow/132566152.cms",
-    "time": "2026-07-22T18:25:59.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Temasek widens scope of India investments",
     "desc": "Temasek is broadening its Indian investment focus beyond traditional sectors. The investor will now target industrials and artificial intelligence opportunities. Its India portfolio has grown significantly, reaching $42 billion by March 2026. The firm aims to double its recent capital deployment in the next three years. Temasek is increasing its AI exposure to fifteen percent by 2031.",
@@ -340,15 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/temasek-widens-scope-of-india-investments/articleshow/132564849.cms",
     "time": "2026-07-22T17:35:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Lisa Kudrow says late mother 'texted' her from beyond after her death",
-    "desc": "Friends star Lisa Kudrow has shared a deeply personal experience that she believes could have been a sign from her late mother, Nedra Stern, after her death in 2020. Speaking on Mayim Bialik's Breakdown podcast, the actress, best known for playing the quirky Phoebe Buffay in the hit sitcom Friends, recalled a series of unexplained incidents that left her wondering whether her mother had somehow reached out to her from beyond.",
-    "img": "https://static.toiimg.com/photo/msid-132564644,imgsize-217874.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/friends-star-lisa-kudrow-recalls-eerie-moments-after-her-mother-nedra-sterns-death-says-she-believes-her-late-mom-texted-her-from-beyond-it-happened-three-times/articleshow/132564408.cms",
-    "time": "2026-07-22T17:24:01.000Z"
   },
   {
     "cat": "Sports",
@@ -385,24 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/off-the-field/for-the-sake-of-indias-future-yuvraj-singh-calls-for-dialogue-amid-neet-paper-leak-protests/articleshow/132562691.cms",
     "time": "2026-07-22T15:56:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Abhijeet reveals how he defended Udit during kissing controversy",
-    "desc": "Playback singer Abhijeet Bhattacharya has revealed that he advised Udit Narayan to openly acknowledge the viral kissing controversy instead of shying away from it, saying he personally stood by his fellow singer when the backlash erupted. Speaking in a recent interview, Abhijeet recalled telling Udit to accept the incident instead of being defensive.",
-    "img": "https://static.toiimg.com/photo/msid-132562762,imgsize-161320.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/abhijeet-bhattacharya-reveals-how-he-defended-udit-narayan-during-kissing-controversy-fans-hug-and-kiss-you-you-also-gave-one-kiss-back-whats-the-issue/articleshow/132562731.cms",
-    "time": "2026-07-22T15:55:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jaaved says Bachchwn was limited in roles as the commercial aspects didnt allow to move",
-    "desc": "Veteran actor Jaaved Jaaferi views immense stardom as a career limitation for performers. He notes that commercial pressures often restrict even the biggest stars' role choices. Jaaferi also observes that younger actors are professional but sometimes lack patience. He has avoided typecasting by spacing out his diverse film roles. Jaaferi believes he still has much more to offer as an actor.",
-    "img": "https://static.toiimg.com/photo/msid-132561768,imgsize-290409.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/jaaved-jaaferi-says-amitabh-bachchan-was-stereotyped-because-of-his-stardom-he-was-limited-because-the-commercial-aspects-didnt-allow-him-to-move/articleshow/132561734.cms",
-    "time": "2026-07-22T14:51:46.000Z"
   },
   {
     "cat": "Sports",
@@ -540,6 +621,15 @@ const newsData_en = [
     "time": "2026-07-22T10:50:59.000Z"
   },
   {
+    "cat": "Tech",
+    "title": "luminaries demand human ethics not be outsourced to AI",
+    "desc": "In mid-July, a group of Nobel laureates, AI scientists, religious leaders, and other luminaries signed the so-called ‘Rome Declaration for an Unarmed and Disarming Peace’. The Declaration calls for an international treaty to ban autonomous systems from accessing nuclear launches while emphasising that the threat is also not so far-fetched",
+    "img": "https://th-i.thgim.com/public/todays-paper/tp-miscellaneous/tp-others/hx40az/article69186170.ece/alternates/LANDSCAPE_1200/A-question-for-GAIDUVAL5.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/science/rome-declaration-convergent-perils-luminaries-human-ethics-outsourced-ai/article71252976.ece",
+    "time": "2026-07-22T10:39:09.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Gill one point shy of world No. 1 in latest ICC ODI batting rankings",
     "desc": "Gill scored 188 runs in three matches in the 1-2 series defeat to England and is now just one rating point behind table-topper Daryl Mitchell, who has 802 points, while Kohli (767) and Rohit (758) occupy the third and fourth spots respectively",
@@ -556,15 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/boiling-point-brent-crude-touches-five-week-high-heres-what-analysts-expect-next-for-oil-markets/articleshow/132556723.cms",
     "time": "2026-07-22T10:32:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Root re-enters top 10, Rohit closes gap on Virat",
-    "desc": "England secured a 2-1 ODI series victory against India, marking their first since 2018. Joe Root returned to the top ten in ICC rankings after a stellar series performance. Ben Duckett's record 141 at Lord's propelled him to joint nineteenth place. Rohit Sharma and Virat Kohli remain highly ranked despite the series loss. Shubman Gill holds the second position, closely trailing Daryl Mitchell.",
-    "img": "https://static.toiimg.com/photo/msid-132556058,imgsize-15178.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/icc-odi-rankings-joe-root-re-enters-top-10-rohit-sharma-closes-gap-on-virat-kohli/articleshow/132555984.cms",
-    "time": "2026-07-22T10:05:06.000Z"
   },
   {
     "cat": "Sports",
@@ -586,39 +667,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "PCB makes padel mandatory for Pak cricketers at National Cricket Academy",
-    "desc": "The Pakistan Cricket Board has made padel a mandatory part of training at the National Cricket Academy, with players required to play 40-minute sessions every alternate day. The move aims to improve fitness, agility and fielding. The PCB has also added a padel court, installed an AI bowling machine, and plans to build basketball and indoor sports facilities.",
-    "img": "https://static.toiimg.com/photo/msid-132554623,imgsize-250868.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pcb-makes-padel-mandatory-for-pakistan-cricketers-at-national-cricket-academy/articleshow/132554546.cms",
-    "time": "2026-07-22T08:32:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Trump wants Infantino as next UN secretary-general: Report",
-    "desc": "US President Donald Trump reportedly supports FIFA president Gianni Infantino for the UN secretary-general position. Trump believes Infantino possesses the ability to unite people globally and is a strong candidate. The two developed a closer relationship during the recent FIFA World Cup tournament. Infantino had previously presented Trump with FIFA's inaugural Peace Prize award. A candidate needs UN Security Council backing and General Assembly approval for the role.",
-    "img": "https://static.toiimg.com/photo/msid-132553976,imgsize-57508.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/donald-trump-wants-fifa-chief-gianni-infantino-as-next-un-secretary-general-report/articleshow/132553958.cms",
-    "time": "2026-07-22T07:45:50.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Cricket’s governing body shifts the goalposts for the usual reasons",
     "desc": "To change the format 15 months ahead of the World Cup with no assurance it won’t be changed again brings no credit to the ICC. Guaranteeing at least two India v Pakistan matches, perhaps even three, is a strong motivation",
     "img": "https://th-i.thgim.com/public/news/national/62n5qo/article71252515.ece/alternates/LANDSCAPE_1200/iStock-1165653620.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/crickets-governing-body-shifts-the-goalposts-for-the-usual-reasons/article71249323.ece",
     "time": "2026-07-22T07:19:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Zimbabwe announce T20I squad for India series, Tsiga earns maiden call-up",
-    "desc": "Zimbabwe have named uncapped wicketkeeper-batter Tafadzwa Tsiga in their squad for the three-match T20I series against India, while Wessly Madhevere and Newman Nyamhuri return. Sikandar Raza will continue as captain after Zimbabwe's successful Bangladesh tour. The series, beginning July 23 in Harare, pits Zimbabwe against reigning T20 World Cup champions India.",
-    "img": "https://static.toiimg.com/photo/msid-132553342,imgsize-91878.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/zimbabwe-announce-t20i-squad-for-india-series-tafadzwa-tsiga-earns-maiden-call-up/articleshow/132553161.cms",
-    "time": "2026-07-22T07:14:10.000Z"
   },
   {
     "cat": "Entertainment",
@@ -628,15 +682,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-h-vinoth-interview-on-jana-nayagan-and-thalapathy-vijays-support-during-testing-times/article71250750.ece",
     "time": "2026-07-22T06:56:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Chaar mahine mein kaafi ups and downs aaye': Vaibhav Sooryavanshi",
-    "desc": "Vaibhav Sooryavanshi returns to Harare for his senior India debut after U-19 World Cup triumph. He hopes to create new memories at the venue where he achieved past success. Sooryavanshi aims to bounce back after a challenging maiden outing in senior colours. He believes his knowledge of the Harare conditions will be beneficial. India faces Zimbabwe after recent T20I series losses in Ireland and England.",
-    "img": "https://static.toiimg.com/photo/msid-132551916,imgsize-43522.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/chaar-mahine-mein-kaafi-ups-and-downs-aaye-vaibhav-sooryavanshi-eyes-fresh-start-in-zimbabwe/articleshow/132551908.cms",
-    "time": "2026-07-22T05:51:36.000Z"
   },
   {
     "cat": "Sports",
@@ -673,15 +718,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-21-july-2026-bahrain-kuwait-donald-trump-live-news/article71247944.ece",
     "time": "2026-07-22T04:00:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "A fragile fitness system? Hamstring injuries put Team India, CoE under scanner",
-    "desc": "The recurring injuries suffered by Harshit Rana and Nitish Kumar Reddy have not gone down well with the BCCI. Sources said Reddy was being pushed to bowl close to 140kmph to compensate for the injury-prone Hardik Pandya. During Rahul Dravid’s tenure as head coach, the BCCI medical team, the CoE and the team management had charted out year-long roadmaps for individual players around major ICC events. The objective was to get each player to the required fitness level in time for the next ICC tournament or marquee Test series.",
-    "img": "https://static.toiimg.com/photo/msid-132549277,imgsize-24929.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/a-fragile-fitness-system-hamstring-injuries-put-team-india-coe-under-scanner/articleshow/132549243.cms",
-    "time": "2026-07-22T03:03:47.000Z"
   },
   {
     "cat": "Business",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/hungarys-ruling-party-backs-chess-legend-judit-polgar-for-president/article71246720.ece",
     "time": "2026-07-20T18:11:15.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "fuel for debate",
-    "desc": "As car and bike owners report clogged injectors, damaged fuel pumps, and contaminated petrol across the country, a look at competing claims on what is driving the complaints, and whether ethanol is really to blame",
-    "img": "https://th-i.thgim.com/public/incoming/rnecwc/article71241050.ece/alternates/LANDSCAPE_1200/Ethanol%20side%20effects%20in%20vehicles%20E%2020%202.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/the-e20-transition-fuel-for-debate/article71240965.ece",
-    "time": "2026-07-20T11:27:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sivaji Ganesan’s gift of baby elephant to American children and his U.S. visit as state guest",
-    "desc": "Sivaji Ganesan was invited to the United States as part of the U.S.–India Cultural Exchange Programme. During the trip, Sivaji was treated as a state guest, assigned two officials to assist him, and given a daily allowance of $160, a considerable sum at the time.",
-    "img": "https://th-i.thgim.com/public/incoming/3tl29a/article70728264.ece/alternates/LANDSCAPE_1200/HP120884.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/sivaji-ganesan-gift-of-baby-elephant-to-american-children-and-his-us-visit-as-state-guest-in-1962/article70728245.ece",
-    "time": "2026-07-20T10:01:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Death of a heroine and the making of hit Tamil film ‘Bhadrakali’ with substitute actor",
-    "desc": "“I remembered a girl who had danced in the movie Pattikattu Raja. She bore some resemblance to Rani Chandra. I discussed it with cinematographer Viswanath Roy and we devised a plan to use her,” said actor Sivakumar.",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/9vh3cl/article71085122.ece/alternates/LANDSCAPE_1200/Bhadrakali%20Sivakumar%20Rani%20Chandra%202.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/death-of-actor-rani-chandra-and-the-making-of-tamil-filmbhadrakaliwith-substitute-actor-in-1976/article71079732.ece",
-    "time": "2026-07-20T09:55:12.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India’s F&O boom needs adequate protections",
-    "desc": "Retail traders lose because they are bringing knives to a gunfight. SEBI’s research reveals that 97% of institutional profits and 96% of proprietary trading profits in the Indian F&O market are generated by algorithmic trading.",
-    "img": "https://th-i.thgim.com/public/news/national/tbr1t8/article71242552.ece/alternates/LANDSCAPE_1200/iStock-1650223785.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/opinion/op-ed/indias-fo-boom-needs-adequate-protections/article71242450.ece",
-    "time": "2026-07-20T08:51:21.000Z"
   }
 ];

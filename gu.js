@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "પેપરલીક મુદ્દે ભારે વિરોધ પ્રદર્શન અને હિંસા વચ્ચે મોદી સરકારે લીધો મોટો નિર્ણય",
+    "desc": "પેપર લીક પર ભારે બબાલ, વિરોધ પ્રદર્શનના પગલે મોદી સરકાર દ્વારા મોટો નિર્ણય લેવાયો છે. પીએમ મોદીએ પેપરલીક કેસોમાં કડકાઈ દર્શાવતા ફાસ્ટ ટ્રેક કોર્ટ બનાવવાની જાહેરાત કરી છે. જેનો હેતુ દોષિતોને જલદી અને કડક સજા અપાવવાનો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/big-news-pm-modi-said-govt-to-set-up-fast-track-courts-for-paper-leak-cases-485507 ",
+    "time": "2026-07-23T05:07:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "હિંસા આચરનારા તોફાની તત્વોને વીણી-વીણીને પકડશે દિલ્હી પોલીસ, જાણો શું છે માસ્ટર પ્લાન",
+    "desc": "દિલ્હીમાં 20મી જુલાઈએ થયેલા સીજેપીના વિરોધ પ્રદર્શનમાં ખુબ હિંસા થઈ. દિલ્હી પોલીસ આ હિંસાની તપાસ માટે AI ઈનેબલ્ડ કેમેરા અને મોબાઈલ મેપિંગનો ઉપયોગ કરી રહી છે. કઈ રીતે પોલીસ પર હુમલા, હિંસાનું ષડયંત્ર રચાયું? જાણો વિગતવાર માહિતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/cjp-protest-violence-how-delhi-police-investigation-going-on-through-ai-cameras-485504 ",
+    "time": "2026-07-23T04:27:37.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "વિદ્યાર્થીઓ પર લાઠી ચાર્જ મામલે અરિજીત બાદ સલમાન ખાને આપ્યું રિએકશન, છાત્રોની માંગને ગણાવી યોગ્ય",
     "desc": "દિલ્હીમાં જંતર મંતર પર યુવા વિદ્યાર્થીઓ અને તેના પરિવાર પર થયેલા લાઠીચાર્જ મામલે હવે ધીરે ધીરે બોલીવુડના દિગ્ગજ કલાકારો પોતાના રિએકશન શેર કરી રહ્યા છે. જેમાં લોકપ્રિય ગાયક અરિજીત સિંહ અને સલમાનના રિએકશને સોશિયલ મીડિયા પર તહેકલો મચાવી દીધો છે. સલમાન ખાને વિદ્યાર્થીઓની માંગને યોગ્ય ગણાવતી પોસ્ટ શેર કરી છે.",
@@ -151,15 +169,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/ipo-made-fortunes-shine-13-people-became-millionaires-from-sbi-funds-ipo-one-got-a-whopping-121-crore-know-485356 ",
     "time": "2026-07-21T10:18:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CJP સાથે ચર્ચા માટે જેપી નડ્ડા જ કેમ? સરકારની પસંદગી પાછળનું મોટું કારણ!",
-    "desc": "કોકરોચ જનતા પાર્ટી દ્વારા દિલ્હીના જંતર મંતર પર વિરોધ પ્રદર્શન ચાલુ છે. આંદોલન વચ્ચે સરકારે વાતચીતની જવાબદારી જે પી નડ્ડાને સોંપતા જ બધાને નવાઈ લાગી હતી. રાજકીય જાણકારોનું કહેવું છે કે તેમનો અનુભવ આ ભૂમિકા માટે સટિક હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/why-jp-nadda-for-discussion-with-cjp-what-is-reason-behind-the-government-choice-485354 ",
-    "time": "2026-07-21T10:03:15.000Z"
   },
   {
     "cat": "Business",
