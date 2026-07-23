@@ -1,21 +1,228 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Manav Thakkar reflects on UP Prometheans’ disappointing debut campaign",
+    "desc": "There were things beyond our control; I became sick after the first match; being the captain, I had to play six sets including singles and mixed doubles, and suddenly I couldn’t play, said Manav Thakkar",
+    "img": "https://th-i.thgim.com/public/incoming/1eap9f/article71259140.ece/alternates/LANDSCAPE_1200/90092_14_10_2025_10_39_22_2_28TH_ASIAN_TABLE_TENNIS_TEAM_CHAMPIONSHIP_02.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/utt-manav-thakkar-reflects-on-up-prometheans-disappointing-debut-campaign/article71259233.ece",
+    "time": "2026-07-23T16:21:23.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "prime accused surrenders before Crime Branch, remanded",
     "desc": "The Crime Branch had sought permission to re-arrest Dr. Ram after the Thalassery Principal Sessions Court ordered his release, ruling that investigators had failed to comply with the Supreme Court’s guidelines governing arrests when he was taken into custody in Karnataka",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/nithin-raj-case-prime-accused-surrenders-before-crime-branch-remanded/article71257884.ece",
-    "time": "2026-07-23T13:37:52.000Z"
+    "time": "2026-07-23T16:13:58.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Hundreds hospitalised in Japan heatwave 'disaster'",
+    "desc": "A total 453 people had hospital treatment for heat-related issues on Wednesday, the most since records began in 2010, the Tokyo Fire Department said. Emergency callouts were also at the highest level since at least 1963.",
+    "img": "https://th-i.thgim.com/public/incoming/kwoe4e/article71259238.ece/alternates/LANDSCAPE_1200/2026-07-23T071403Z_912739522_RC2FJMASSYO6_RTRMADP_3_ASIA-WEATHER-JAPAN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/hundreds-hospitalised-in-japan-heatwave-disaster/article71259210.ece",
+    "time": "2026-07-23T16:10:22.000Z"
   },
   {
     "cat": "Politics",
-    "title": "BJP lodges complaint against former staff member over ‘defamatory’ statements regarding unaccounted cash",
-    "desc": "A former temporary staff of the Thrissur city unit alleged that unaccounted cash was brought to the party office in 17 sacks during the Assembly election campaign and senior party leaders diverted the funds for personal use instead of distributing them for election-related activities",
-    "img": "https://th-i.thgim.com/public/incoming/u8eu02/article71258252.ece/alternates/LANDSCAPE_1200/Rupee.jpg",
+    "title": "Karnataka Deputy Chief Minister G. Parameshwara writes to Modi seeking replacement of NEET with State CETs",
+    "desc": "The Deputy Chief Minister appeals to the Prime Minister to provide a compensation of at least ₹1 crore to the families of students who ended their lives owing to the NEET paper leak and the “systemic failures” that followed.",
+    "img": "https://th-i.thgim.com/public/incoming/84fw4z/article71259223.ece/alternates/LANDSCAPE_1200/Efforts-are-on-G8CG7Q968.3.jpg.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/bjp-lodges-complaint-against-former-staff-member-over-defamatory-statements-regarding-unaccounted-cash/article71257981.ece",
-    "time": "2026-07-23T13:35:11.000Z"
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-deputy-chief-minister-g-parameshwara-writes-to-modi-seeking-replacement-of-neet-with-state-cets/article71259014.ece",
+    "time": "2026-07-23T16:03:44.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Wall Street trades in red as oil tops $100 per barrel; Nasdaq tumbles over 2%, Dow slips over 600 points",
+    "desc": "Major stock markets opened lower as Big Tech's AI spending raised investor concerns. Alphabet and Tesla shares fell significantly after their latest quarterly earnings reports. Oil prices surged past one hundred dollars per barrel amid Middle East tensions. This geopolitical situation also increased expectations for a potential Federal Reserve interest rate hike. Weak market breadth indicated more declining stocks than advancing ones across exchanges.",
+    "img": "https://static.toiimg.com/photo/msid-132586530,imgsize-122930.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-stocks-today-wall-street-trades-in-red-as-oil-tops-100-per-barrel-nasdaq-tumbles-over-2-dow-slips-over-600-points/articleshow/132586537.cms",
+    "time": "2026-07-23T15:46:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Putul Sonowal stuns world champion Ryan Bester in lawn bowls thriller",
+    "desc": "Putul Sonowal achieved a sensational upset against the reigning world champion in lawn bowls. Rupa Rani Tirkey and Pinki Singh also survived a thriller in the Women's Pairs event. Sonowal showed remarkable composure to defeat a decorated Canadian opponent in his debut. The Indian women's pair secured victory after a tense tie-break against Malta. These wins have raised hopes for India's lawn bowls campaign at the games.",
+    "img": "https://static.toiimg.com/photo/msid-132586394,imgsize-44930.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-putul-sonowal-stuns-world-champion-ryan-bester-in-lawn-bowls-thriller/articleshow/132586269.cms",
+    "time": "2026-07-23T15:35:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "League releases full slate with TV details; record nine games go abroad",
+    "desc": "Find the complete 2026 NFL schedule for all 32 teams, including Eagles, Chiefs, Cowboys and every franchise. See game dates, kickoff times, bye weeks, international matchups, prime-time games, TV channels and streaming options. Track Week 18 updates and late-season schedule changes in one easy-to-use guide for the entire regular season, from opening night through final playoff push all season long.",
+    "img": "https://static.toiimg.com/photo/msid-132585693,imgsize-603544.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/nfl/news/2026-nfl-schedule-full-eagles-chiefs-cowboys-and-all-32-team-schedules-bye-weeks-how-to-watch-and-more/articleshow/132585693.cms",
+    "time": "2026-07-23T15:35:00.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Premium petrol to remain ethanol-free; no plan to blend beyond 20% as of now: Govt to Parliament",
+    "desc": "Premium petrol grades will continue to be ethanol-free for consumers. The government has no plans to reintroduce lower ethanol blends like E0 or E10. Current ethanol blending in regular petrol will remain at twenty percent. No widespread adverse impacts have been reported from E20 fuel usage. Future decisions on higher blending will follow extensive studies and consultations.",
+    "img": "https://static.toiimg.com/photo/msid-132586233,imgsize-63132.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/premium-petrol-to-remain-ethanol-free-no-plan-to-blend-beyond-20-as-of-now-govt-to-parliament/articleshow/132586246.cms",
+    "time": "2026-07-23T15:33:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "KPSC Veterinary Officer recruitment under scanner as corruption allegations surface",
+    "desc": "The protesters claim that an alleged sting operation had exposed a cash-for-jobs racket, in which an agent was heard demanding ₹80 lakh for securing a Veterinary Officer post, with ₹40 lakh to be paid in advance.",
+    "img": "https://th-i.thgim.com/public/incoming/k7k3qk/article71259032.ece/alternates/LANDSCAPE_1200/_JAI1981.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/kpsc-veterinary-officer-recruitment-under-scanner-as-corruption-allegations-surface/article71258513.ece",
+    "time": "2026-07-23T15:28:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Oil's $100 comeback: Brent hits a three-month high as Red Sea tensions escalate",
+    "desc": "Crude oil prices surged past one hundred dollars per barrel amid Middle East tensions. Houthi attacks on Saudi oil tankers in the Red Sea caused market concern. This escalation has heightened fears over global energy supply safety and stability. Domestic crude futures also climbed significantly, mirroring the international price rally. Geopolitical risks are now the primary driver for the current oil market surge.",
+    "img": "https://static.toiimg.com/photo/msid-132585771,imgsize-1950467.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/oils-100-comeback-brent-hits-a-three-month-high-as-red-sea-tensions-escalate/articleshow/132585678.cms",
+    "time": "2026-07-23T15:06:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'He is fearless': Shreyas Iyer hails Sooryavanshi after record-breaking blitz vs Zimbabwe",
+    "desc": "Teenage prodigy Vaibhav Sooryavanshi smashed a record fifty off nineteen balls. He became the youngest player to achieve this international milestone. India secured a seven-wicket victory in the opening T20I match. Captain Shreyas Iyer celebrated his first win as T20I skipper. The bowlers restricted Zimbabwe to 125 for seven runs.",
+    "img": "https://static.toiimg.com/photo/msid-132585522,imgsize-194573.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/he-is-fearless-shreyas-iyer-hails-vaibhav-sooryavanshi-after-record-breaking-blitz-vs-zimbabwe/articleshow/132585437.cms",
+    "time": "2026-07-23T14:55:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Mental strength makes huge difference': Mayank Yadav reflects on comeback",
+    "desc": "Back in India's colours after nearly two years, Mayank returned figures of 2/18 in four overs as India restricted Zimbabwe to 125/7 in the opening T20I of the three-match series at the Harare Sports Club on Thursday.",
+    "img": "https://static.toiimg.com/photo/msid-132585222,imgsize-526113.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/mental-strength-makes-a-huge-difference-mayank-yadav-reflects-on-comeback-after-21-month/articleshow/132582081.cms",
+    "time": "2026-07-23T14:50:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Captain Shreyas Iyer ends winless streak as India crush Zimbabwe",
+    "desc": "India secured a seven-wicket victory against Zimbabwe in the first T20I match. Teenage sensation Vaibhav Sooryavanshi became the youngest player to score a T20I half-century. Mayank Yadav impressed on his comeback with early wickets for India. Zimbabwe posted 125 runs after a fighting partnership from their batsmen. This win marked Shreyas Iyer's first as captain, ending a winless streak.",
+    "img": "https://static.toiimg.com/photo/msid-132584954,imgsize-768689.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/ind-vs-zim-1st-t20i-captain-shreyas-iyer-ends-seven-match-winless-streak-as-india-crush-zimbabwe-by-7-wickets/articleshow/132584944.cms",
+    "time": "2026-07-23T14:32:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Sonam, it's done bro,' Salman urges to STOP protests after PM Modi ensures stringent action",
+    "desc": "Salman Khan initially supported student protests against the NEET paper leak. He later backed Prime Minister Narendra Modi's promise of strict action. Khan urged students to return home and Sonam Wangchuk to end his hunger strike. Prime Minister Modi announced fast-track courts for paper leak cases. The government aims to safeguard students' interests and punish wrongdoers.",
+    "img": "https://static.toiimg.com/photo/msid-132584891,imgsize-376904.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonam-wangchuk-its-done-bro-will-send-food-salman-khan-urges-students-to-stop-protests-and-go-back-home-after-pm-narendra-modi-ensures-stringest-punishment-in-neet-paper-leak/articleshow/132584598.cms",
+    "time": "2026-07-23T14:29:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Must be handled with empathy’: BJP veteran Murli Manohar Joshi breaks ranks, backs NEET protesters",
+    "desc": "Veteran BJP leader Murli Manohar Joshi supported students protesting the alleged NEET paper leak. He criticized police action against demonstrators as merciless and urged empathy. The government stated its readiness for a debate on the examination system. Opposition parties demanded the Education Minister's resignation and a parliamentary discussion. Prime Minister Modi announced fast-track courts for paper leak offenders.",
+    "img": "https://static.toiimg.com/photo/msid-132584949,imgsize-77628.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/must-be-handled-with-empathy-bjp-veteran-murli-manohar-joshi-breaks-ranks-backs-neet-protesters/articleshow/132584621.cms",
+    "time": "2026-07-23T14:29:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tanul Thakur On The Corporate Cruelty Driving The H-1B Visa Economy",
+    "desc": "Tanul Thakur is an award-winning journalist and film critic. In 2015, he won the National Film Award for Best Film Critic, the youngest to receive the honour. Many media outlets have interviewed him on cinema, culture and the H1B programme. In this conversation, he discusses his debut book, 'Wild Wild East'.",
+    "img": "https://static.toiimg.com/photo/msid-132584771,imgsize-1417269.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tanul-thakur-on-the-corporate-cruelty-driving-the-h-1b-visa-economy/articleshow/132584564.cms",
+    "time": "2026-07-23T14:27:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sooryavanshi's emotional 'A' celebration steals hearts after world-record fifty",
+    "desc": "Vaibhav Sooryavanshi became the youngest player to score an international T20 fifty. He achieved this remarkable feat against Zimbabwe in Harare on Thursday. The 15-year-old smashed his half-century in just eighteen balls. This explosive innings featured four boundaries and four sixes for India. The celebration was a tribute to his mother, Aarti, whose name starts with 'A'.",
+    "img": "https://static.toiimg.com/photo/msid-132584568,imgsize-154890.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/watch-vaibhav-sooryavanshis-emotional-a-celebration-steals-hearts-after-historic-world-record-fifty/articleshow/132584543.cms",
+    "time": "2026-07-23T14:18:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Imran Khan slams 'apolitical actors' as he joins CJP led student protests",
+    "desc": "Actor Imran Khan joined a Mumbai protest supporting students facing examination irregularities. He firmly stated that art and personal beliefs are intrinsically linked for artists. This participation follows his strong criticism of police actions against Delhi protesters. Students continue their month-long movement demanding accountability for the NEET paper leak. Activist Sonam Wangchuk is also participating in the ongoing agitation.",
+    "img": "https://static.toiimg.com/photo/msid-132584386,imgsize-246655.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/imran-khan-slams-apolitical-actors-as-he-joins-cjp-led-student-protests-true-art-is-going-to-have-an-individual-artist-point-of-view-embedded-within-it/articleshow/132584342.cms",
+    "time": "2026-07-23T14:13:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'We are with you': Rahul Gandhi says INDIA bloc stopped during march in support of protesting students",
+    "desc": "Opposition MPs marched in solidarity with students protesting the NEET-UG paper leak. Authorities reportedly stopped the leaders from reaching India Gate and Gandhi Smriti. Rahul Gandhi assured students that the INDIA bloc stands firmly with them. Many opposition leaders met at Gandhi's residence before the planned visit. Heavy police presence was noted outside Gandhi's residence during the events.",
+    "img": "https://static.toiimg.com/photo/msid-132584376,imgsize-63618.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/we-are-with-you-rahul-gandhi-says-india-bloc-stopped-during-march-in-support-of-protesting-students/articleshow/132584087.cms",
+    "time": "2026-07-23T14:11:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Becca Tobin and Zach Martin welcome their second baby",
+    "desc": "Actress Becca Tobin and Zach Martin have joyfully welcomed their second baby, Meyer June Martin, delivered via surrogacy on July 19. The decision to induce was necessary due to the surrogate's preeclampsia. In a touching scene, Tobin was actively involved in the birth, supporting her daughter as she made her entrance. The couple also has a son, Rutherford Thomas Martin, born in 2022, completing their growing family.",
+    "img": "https://static.toiimg.com/photo/msid-132584033,imgsize-102182.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/glee-and-the-wedding-contract-star-becca-tobin-welcomes-second-baby-with-zach-martin/articleshow/132583894.cms",
+    "time": "2026-07-23T13:58:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Jana Nayagan' day 1: Fans celebrate Vijay's finale",
+    "desc": "Vijay's final film 'Jana Nayagan' has been released in theaters after a delay. Fans celebrated the movie's premiere with elaborate displays and performances. Several film stars attended screenings and shared their support for the actor. Trade analysts predict strong box office performance for the Tamil version. The film marks a significant moment for fans as Vijay transitions to politics.",
+    "img": "https://static.toiimg.com/photo/msid-132583925,imgsize-293034.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-release-day-1-inside-the-grand-celebration-of-tn-cm-vijays-final-film/articleshow/132583834.cms",
+    "time": "2026-07-23T13:57:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'No mention of Sita with curly hair in Ramayan,' Deepika on Sai Pallavi's casting",
+    "desc": "Dipika Chikhalia shared her views on Sai Pallavi portraying Sita in the upcoming Ramayana film. She acknowledged Sai Pallavi's talent but awaits the performance for judgment. Chikhalia also commented on Arun Govil's return to the Ramayana universe as King Dashrath. She reflected on the enduring legacy of the original television series and its impact. The actress expressed confidence in the new film's potential to attract audiences.",
+    "img": "https://static.toiimg.com/photo/msid-132583942,imgsize-353165.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sita-ji-with-curly-hair-not-mentioned-in-tulsidas-ramayan-says-actress-deepika-chikhalia-on-sai-pallavis-casting-opposite-ranbir-kapoor-if-they-fit-the-bill-then-its-good/articleshow/132583875.cms",
+    "time": "2026-07-23T13:55:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sooryavanshi scripts history, becomes the youngest to score an international fifty",
+    "desc": "Teenage sensation Vaibhav Sooryavanshi faced early struggles in his international T20I debut series. He scored modest totals in his initial three innings against England. However, Sooryavanshi then achieved his first international half-century against Zimbabwe. This remarkable performance made him the youngest player to score a fifty in T20I cricket. His innings secured a victory for India in Harare.",
+    "img": "https://static.toiimg.com/photo/msid-132584707,imgsize-1094141.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/vaibhav-sooryavanshi-creates-history-becomes-youngest-to-score-a-t20i-fifty/articleshow/132583478.cms",
+    "time": "2026-07-23T13:47:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'It will be a tragedy': Ronaldo's retirement could cost Portugal millions, expert warns",
+    "desc": "Portugal's football federation risks millions in revenue and global attention after Cristiano Ronaldo retires. Experts warn of a major commercial and visibility crisis for the FPF without preparation. Ronaldo's immense global brand and social media influence far exceed the national team's current appeal. The federation must develop new strategies to attract sponsors and audiences post-Ronaldo.",
+    "img": "https://static.toiimg.com/photo/msid-132583485,imgsize-176666.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/it-will-be-a-tragedy-cristiano-ronaldos-retirement-could-cost-portugal-millions-marketing-expert-warns/articleshow/132583438.cms",
+    "time": "2026-07-23T13:44:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Trisha mobbed after watching Vijay’s ‘Jana Nayagan’",
+    "desc": "Vijay's final film 'Jana Nayagan' finally released, sparking grand celebrations across Tamil Nadu. Actress Trisha Krishnan attended a screening and was mobbed by enthusiastic fans outside the theatre. Security personnel quickly intervened to safely escort Trisha and her mother to their waiting vehicle. The film 'Jana Nayagan' features a compelling story and a star-studded cast. This release marks a significant moment for fans of the beloved actor.",
+    "img": "https://static.toiimg.com/photo/msid-132583270,imgsize-83286.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/trisha-krishnan-watches-vijays-jana-nayagan-fdfs-security-rushes-her-through-huge-crowd-outside-theatre-video-inside/articleshow/132583172.cms",
+    "time": "2026-07-23T13:31:59.000Z"
   },
   {
     "cat": "Entertainment",
@@ -25,15 +232,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/laundromat-singer-nivea-reveals-that-she-has-been-diagnosed-with-cancer-just-being-grateful-and-taking-every-opportunity/articleshow/132583016.cms",
     "time": "2026-07-23T13:31:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Omar Abdullah contests Union Minister Nadda’s claim on J&K paper leak, asks Centre ‘to engage with protesters’",
-    "desc": "The J&K CM says Mr. Nadda got the date wrong over the SSB paper leak in J&K; he pointed out that the paper leak happened in 2022 when the government was headed by Lt. Governor",
-    "img": "https://th-i.thgim.com/public/incoming/8gfc3l/article71257729.ece/alternates/LANDSCAPE_1200/03-JK-CM-PRESS-CONFERENCE-SGR-21-07-2026.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/omar-abdullah-contests-union-minister-naddas-claim-on-jampk-paper-leak-asks-centre-to-engage-with-protesters/article71257478.ece",
-    "time": "2026-07-23T13:28:59.000Z"
   },
   {
     "cat": "Entertainment",
@@ -54,15 +252,6 @@ const newsData_en = [
     "time": "2026-07-23T13:12:51.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Govt. misleading people on investments, jobs, alleges YSRCP leader",
-    "desc": "Challenging the government to an open debate on the issue, party State general secretary Srikanth Reddy says YSRCP is ready to defend its claims based on official reports from the Centre, RBI and NITI Aayog",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/govt-misleading-people-on-investments-jobs-alleges-ysrcp-leader/article71257890.ece",
-    "time": "2026-07-23T13:09:59.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Inside 'Ramayana' star Ranbir Kapoor and Alia Bhatt's lavish house",
     "desc": "Ranbir Kapoor's 'Ramayana' trailer will release worldwide on July 24, 2026. The Nitesh Tiwari-directed film features an ensemble cast in epic roles. Fans anticipate mind-bending visuals and stunning background scores for the movie. Ranbir Kapoor and Alia Bhatt reside in a six-storey Pali Hill home. Their peaceful residence showcases Scandinavian interiors and creative personal touches.",
@@ -70,24 +259,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/inside-ramayana-star-ranbir-kapoor-and-alia-bhatts-lavish-pali-hill-house-from-scandinavian-interiors-to-tranquil-balconies/articleshow/132582162.cms",
     "time": "2026-07-23T13:06:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Houses of two terrorists ‘blasted’ after Anantnag attack; J&K CM says mass arrests will not restore peace",
-    "desc": "Locals allege the security forces used explosives to demolish the houses after asking the inmates to leave the structures; the inmates refused to comment on the demolitions; locals said a mosque and a vehicle also suffered damages in these demolitions",
-    "img": "https://th-i.thgim.com/public/incoming/uyz0dr/article71257523.ece/alternates/LANDSCAPE_1200/PTI07_23_2026_000230B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/houses-of-2-terrorists-blasted-after-anantnag-attack-mass-arrests-will-not-restore-peace-says-jampk-cm/article71257410.ece",
-    "time": "2026-07-23T13:01:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kottayam pitches rural employment scheme as answer to shortage of rubber tappers",
-    "desc": "District panchayat president says the proposal could enhance livelihoods for many families dependent on rubber cultivation, as it seeks to provide training and support for tappers, including women, to secure up to 125 days of work annually at a daily wage of ₹401.",
-    "img": "https://th-i.thgim.com/public/incoming/j0zys2/article71257987.ece/alternates/LANDSCAPE_1200/80687_12_4_2025_19_30_41_1_IMG_20250412_190023.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kottayam-pitches-rural-employment-scheme-as-answer-to-shortage-of-rubber-tappers/article71257686.ece",
-    "time": "2026-07-23T12:53:33.000Z"
   },
   {
     "cat": "Entertainment",
@@ -288,15 +459,6 @@ const newsData_en = [
     "time": "2026-07-23T11:11:49.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Deepika Chikhalia on Sai Pallavi playing Sita in 'Ramayana'",
-    "desc": "Deepika Chikhalia shared her views on Sai Pallavi portraying Sita in the new 'Ramayana' film. She praised Pallavi's acting talent while awaiting the movie's release for judgment. Chikhalia recalled her own initial role as Goddess Lakshmi before becoming Sita. She noted the enduring legacy of the original 'Ramayan' and its impact. Typecasting after playing Sita made it difficult for Chikhalia to secure other roles.",
-    "img": "https://static.toiimg.com/photo/msid-132578455,imgsize-173032.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-chikhalia-on-sai-pallavi-playing-sita-in-ranbir-kapoor-and-yash-starrer-ramayana-shes-a-phenomenal-actor-but-i-dont-know-how-shell-look-sita/articleshow/132578427.cms",
-    "time": "2026-07-23T10:58:15.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Who is Ashok Sharma? Farmer's son makes India debut after 154.2 kmph IPL breakthrough",
     "desc": "Ashok Sharma debuted for India in the T20I against Zimbabwe in Harare. He earned his cap after a strong domestic and IPL performance. His journey began in a small village, supported by family sacrifice. Sharma impressed in the Syed Mushtaq Ali Trophy and IPL 2026. He is now part of India's balanced bowling attack.",
@@ -315,15 +477,6 @@ const newsData_en = [
     "time": "2026-07-23T10:57:24.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Fardeen Khan remembers Feroz Khan's bond with Farida Jalal",
-    "desc": "Actor Fardeen Khan met veteran actress Farida Jalal after many years. He recalled her kindness from his childhood days on the Dharmatma set. Khan also shared his late father Feroz Khan's deep respect for her talent. The actors have worked on two recent projects without sharing any scenes. Fardeen hopes they will share screen space in future collaborations.",
-    "img": "https://static.toiimg.com/photo/msid-132578371,imgsize-194911.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/fardeen-khan-remembers-feroz-khans-bond-with-farida-jalal-says-ive-always-remembered-her-with-great-affection/articleshow/132578317.cms",
-    "time": "2026-07-23T10:53:29.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'Jantar Mantar not the place for you': BJP's Nishikant Dubey urges protesting students to focus on studies",
     "desc": "BJP MP Nishikant Dubey asked protesting students to return to their studies for future success. He emphasized education over agitation for achieving career aspirations in medicine and civil services. Dubey advocated for a stringent law against examination paper leaks in Parliament. He suggested that this new law could even include the death penalty for offenders. The government is committed to ensuring the harshest punishment for those arrested.",
@@ -333,15 +486,6 @@ const newsData_en = [
     "time": "2026-07-23T10:53:03.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Travis Scott talks about landing a role in ‘The Odyssey’",
-    "desc": "Rapper Travis Scott revealed how director Christopher Nolan personally offered him a role. He was surprised to act in the film, which marked his first acting credit. Scott admitted feeling extremely nervous while working with the acclaimed director. He also contributed an end-credit song to the movie's soundtrack. The musician found inspiration working alongside the talented cast members.",
-    "img": "https://static.toiimg.com/photo/msid-132578232,imgsize-19338.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/travis-scott-talks-about-landing-the-odyssey-admits-he-was-actually-nervous/articleshow/132578196.cms",
-    "time": "2026-07-23T10:47:44.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ICC confirms The Oval as host venue for 2027 World Test Championship Final in June",
     "desc": "The Oval will host the 2027 ICC World Test Championship Final from June 9 to 13. England secured hosting rights for the next three WTC Finals, continuing a trend. Australia currently leads the World Test Championship standings, followed by South Africa. This event coincides with the 150th anniversary of Test cricket. The ECB expressed delight in continuing to host this pinnacle Test cricket event.",
@@ -349,15 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/icc-confirms-the-oval-as-host-venue-for-2027-world-test-championship-final-in-june/articleshow/132577591.cms",
     "time": "2026-07-23T10:44:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Arshad Warsi and Maria Goretti's restored 150-year-old Portuguese villa Casa Zen in Goa",
-    "desc": "Actor Arshad Warsi and wife Maria Goretti have restored a 150-year-old Portuguese-style bungalow in Saligao, North Goa, transforming it into Casa Zen which is a five-bedroom heritage property with vibrant interiors, a swimming pool, solar panels and lush gardens. The home is now available for tourists to rent at Rs 75,000 per night, plus taxes.",
-    "img": "https://static.toiimg.com/photo/msid-132578165,imgsize-165606.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/arshad-warsi-and-maria-gorettis-restored-150-year-old-portuguese-villa-casa-zen-in-goa-with-solar-panels-and-mango-garden-is-now-up-for-rent-at-rs-75000-a-night/articleshow/132576983.cms",
-    "time": "2026-07-23T10:44:02.000Z"
   },
   {
     "cat": "Entertainment",
@@ -376,15 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/parliament-standoff-government-reaches-out-to-opposition-for-neet-debate-urges-talks-without-preconditions/articleshow/132577862.cms",
     "time": "2026-07-23T10:30:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Selena Gomez celebrates 34th birthday with Italian cuisine",
-    "desc": "Selena Gomez celebrated her thirty-fourth birthday during a trip to Italy. She and her husband Benny Blanco participated in an Italian cooking class. The couple prepared dishes like spaghetti and stuffed squash blossoms together. Blanco praised Gomez's eggplant parmesan, calling it the best he had tasted. Their engagement and wedding details were also shared in the article.",
-    "img": "https://static.toiimg.com/photo/msid-132577652,imgsize-247754.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/selena-gomez-celebrates-34th-birthday-with-italian-cuisine-benny-blanco-shares-cooking-clip-thats-the-best-thing-ive-tasted/articleshow/132576265.cms",
-    "time": "2026-07-23T10:25:23.000Z"
   },
   {
     "cat": "Business",
@@ -423,24 +549,6 @@ const newsData_en = [
     "time": "2026-07-23T09:31:39.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "India's dying rivers: How our cities are choking their lifelines",
-    "desc": "India's expanding cities are encroaching upon rivers, reducing their width and flow. Many rivers now carry more sewage than freshwater, impacting ecosystems and communities. Efforts to clean these waterways face challenges from ongoing pollution and development pressures. The Brahmaputra river faces erosion, while the Ganga struggles with industrial and ritual waste. Protecting river floodplains and managing sewage are crucial for their survival.",
-    "img": "https://static.toiimg.com/photo/msid-132576555,imgsize-762536.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/indias-dying-rivers-how-our-cities-are-choking-their-lifelines/articleshow/132576378.cms",
-    "time": "2026-07-23T09:29:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Considerable time:' Private airport operators flag BCAS clearance delays with Govt",
-    "desc": "Private airport operators are flagging significant delays in project implementation. Security vetting approvals from BCAS are taking an unacceptably long time. These delays impact operational efficiencies and passenger convenience at major airports. The Association of Private Airport Operators has requested faster processing timelines. They seek to ensure timely capacity enhancements and improved passenger facilitation.",
-    "img": "https://static.toiimg.com/photo/msid-132576337,imgsize-61254.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/considerable-time-private-airport-operators-flag-bcas-clearance-delays-with-govt/articleshow/132576333.cms",
-    "time": "2026-07-23T09:27:25.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Kangana Ranaut says, 'never met an atheist topper' as she celebrates NEET topper Vaishnavi",
     "desc": "Kangana Ranaut praised NEET UG 2026 topper Vaishnavi Das for her impressive achievement. Vaishnavi Das secured All India Rank twenty while celebrating Rath Yatra with her family. Ranaut commented on the role of faith in success, noting toppers are rarely atheists. She also addressed ongoing NEET protests and demands for the Union Education Minister's resignation. The article highlights the controversy surrounding NEET and student suicides amid intense pressure.",
@@ -450,15 +558,6 @@ const newsData_en = [
     "time": "2026-07-23T09:20:11.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "How Zimbabwe became India's T20I launchpad",
-    "desc": "India has consistently used Zimbabwe tours to debut new T20I players. Several prominent cricketers like Virat Kohli and KL Rahul first represented India there. Recent tours have also seen fresh faces like Abhishek Sharma and Riyan Parag emerge. These series provide a platform for emerging talent to gain international experience. The BCCI continues this practice, showcasing young Indian cricketers.",
-    "img": "https://static.toiimg.com/photo/msid-132538976,imgsize-1161914.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/from-virat-kohli-to-sanju-samson-how-zimbabwe-became-indias-t20i-launchpad/articleshow/132538462.cms",
-    "time": "2026-07-23T09:15:26.000Z"
-  },
-  {
     "cat": "World",
     "title": "India slams Pakistan at UN over cross-border terrorism; says Kashmir integral, inalienable part",
     "desc": "At the High-Level Open Debate of the UN Security Council on July 22, India was compelled to reply after Islamabad ‘misused’ the discussion to push a ‘false narrative’ said India's Permanent Representative to the United Nations, Ambassador Parvathaneni Harish",
@@ -466,15 +565,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/india-slams-pakistan-at-un-over-cross-border-terrorism-says-kashmir-integral-inalienable-part/article71256733.ece",
     "time": "2026-07-23T08:45:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sonu refuses to answer question on protests over NEET paper leak, netizens defend him",
-    "desc": "Singer Sonu Nigam faced social media criticism for his silence on NEET exam protests. He declined to comment when questioned by journalists during a media interaction. Many users expressed disappointment with his refusal to address the student-led demonstrations. However, some defended Nigam, citing past career impacts from his public statements. Several other film and music personalities have openly supported the protesting students.",
-    "img": "https://static.toiimg.com/photo/msid-132575793,imgsize-224076.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonu-nigam-refuses-to-answer-question-on-protests-over-neet-paper-leak-in-viral-video-draws-mixed-reaction-from-the-internet-fans-defend-him-saying-has-to-walk-on-eggshells/articleshow/132575765.cms",
-    "time": "2026-07-23T08:36:25.000Z"
   },
   {
     "cat": "Sports",
@@ -504,15 +594,6 @@ const newsData_en = [
     "time": "2026-07-23T06:35:03.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Rohit IN; Samson OUT: Ex-India cricketer picks India squad for 2027 ODI World Cup",
-    "desc": "Former opener Abhinav Mukund has revealed his 2027 ODI World Cup squad. He included veteran Rohit Sharma and excluded Sanju Samson and Yashasvi Jaiswal. Shubman Gill is now close to the top ODI batting ranking. Virat Kohli and Rohit Sharma also feature in the top five batters. Kuldeep Yadav slipped in the bowler rankings after the recent series.",
-    "img": "https://static.toiimg.com/photo/msid-132573181,imgsize-58362.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/rohit-sharma-in-sanju-samson-and-tilak-verma-out-ex-india-cricketer-picks-india-squad-for-2027-odi-world-cup/articleshow/132573161.cms",
-    "time": "2026-07-23T06:14:11.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Jana Nayagan gets ‘A’ certificate; likely to release in theatres on July 23",
     "desc": "According to reports, after the makers implemented modifications suggested by the examining committee, the film was initially considered suitable for a 'U/A' certificate; however, the process stalled when a committee member raised an internal objection, claiming certain portions could hurt public sentiments.",
@@ -531,24 +612,6 @@ const newsData_en = [
     "time": "2026-07-23T05:30:19.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "IPL investment later, The Hundred continues to be a family affair",
-    "desc": "The Hundred, the unique tournament featuring 100-ball innings, is back with its sixth edition. Much has changed, and yet not a lot has changed. It still has eight teams, still features 100-ball innings where bowlers can bowl spells of five or 10 consecutive balls, and is still objectively meant to quicken the game and feature double headers - men and women - on the same day.",
-    "img": "https://static.toiimg.com/photo/msid-132572345,imgsize-136630.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ipl-investment-later-the-hundred-continues-to-be-a-family-affair/articleshow/132572252.cms",
-    "time": "2026-07-23T05:10:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'P*** Espanya': Spain's Ferran Torres WC mural vandalised in Barcelona",
-    "desc": "A mural honouring Spain's World Cup hero Ferran Torres was vandalised within 24 hours of being unveiled in Barcelona. Created by street artist TVBoy, it was repeatedly defaced with political graffiti, including \"volem seleccions catalanes\" (\"we want Catalan national teams\"), before being removed by city authorities. Despite its brief existence, the artwork highlighted the intersection of football, art and Catalan politics.",
-    "img": "https://static.toiimg.com/photo/msid-132571971,imgsize-167519.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/p-espanya-spains-ferran-torres-world-cup-mural-vandalised-in-barcelona/articleshow/132571851.cms",
-    "time": "2026-07-23T04:30:10.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Rupee rises to 96.49 against US dollar, rising oil prices limit gains",
     "desc": "The Indian rupee saw a slight gain against the US dollar on Thursday. Rising crude oil prices continue to exert pressure on the currency. The Reserve Bank of India's intervention is expected to limit sharper losses. Foreign investors showed mixed sentiment in Indian equities and bonds. Stock markets opened on a weak note, with key indices falling.",
@@ -558,15 +621,6 @@ const newsData_en = [
     "time": "2026-07-23T04:13:52.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Iyer's side seek reset after Ireland and England defeats",
-    "desc": "The spotlight will once again be on teenage sensation Vaibhav Sooryavanshi. Harare is the venue where the 15-year-old announced himself on the global stage with a stunning 175 off 80 balls against England in the U-19 World Cup final in Jan. His opening partner Abhishek Sharma also has happy memories here, having scored his maiden T20I hundred at the ground in 2024.",
-    "img": "https://static.toiimg.com/photo/msid-132571483,imgsize-80244.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/india-vs-zimbabwe-1st-t20i-shreyas-iyers-side-seek-reset-after-ireland-and-england-defeats/articleshow/132571482.cms",
-    "time": "2026-07-23T03:47:57.000Z"
-  },
-  {
     "cat": "Business",
     "title": "More pulp, less tax: Govt panel hits the sweet spot with 'aam' proposal to help Totapuri farmers",
     "desc": "The government proposes a 5% GST rate for mango drinks with 22-25% real pulp. This move aims to revive Totapuri mango pulp demand and improve beverage quality. An expert committee studied Totapuri price declines and suggested solutions for farmers. Recommendations include price stabilization committees and orchard rejuvenation techniques. The government will consult ministries to finalize standards and the tax structure.",
@@ -574,24 +628,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/more-pulp-less-tax-govt-panel-hits-the-sweet-spot-with-aam-proposal-to-help-totapuri-farmers/articleshow/132571157.cms",
     "time": "2026-07-23T03:40:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Neeraj Chopra, Mirabai Chanu lead India's medal hopes at CWG 2026",
-    "desc": "India begins its Commonwealth Games campaign in Glasgow with a compact contingent. The program features ten sports, a significant reduction from previous games. Athletics forms the backbone of the campaign with many competitors. Mirabai Chanu and Lovlina Borgohain are key figures for India. Glasgow offers a learning opportunity before India hosts the games in 2030.",
-    "img": "https://static.toiimg.com/photo/msid-132570844,imgsize-56541.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/glasgow-gold-quest-begins-neeraj-chopra-mirabai-chanu-lead-indias-medal-hopes-at-commonwealth-games-2026/articleshow/132570828.cms",
-    "time": "2026-07-23T02:42:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I'm sorry': Why Argentina's assistant coach apologised after FIFA World Cup final",
-    "desc": "Argentina assistant coach Roberto Ayala apologized for his actions during a post-match altercation. He admitted his behavior was unacceptable after Spain defeated Argentina in the World Cup final. Ayala expressed regret for losing control and stated his intention was to separate players. He accepted full responsibility for his actions during the chaotic post-game scenes. FIFA has launched an investigation into the post-match brawl involving players and staff.",
-    "img": "https://static.toiimg.com/photo/msid-132570670,imgsize-88457.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/im-sorry-why-argentina-coach-roberto-ayala-apologised-after-fifa-world-cup-final-dani-olmo/articleshow/132570643.cms",
-    "time": "2026-07-23T02:30:04.000Z"
   },
   {
     "cat": "World",
@@ -610,15 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-touch-six-week-high-as-strait-of-hormuz-is-completely-closed/articleshow/132570510.cms",
     "time": "2026-07-23T02:01:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'When you fear failure, you play to save yourself': Shreyas Iyer's message to Team India",
-    "desc": "India captain Shreyas Iyer wants players to avoid fear of failure. He stressed focusing on expressing themselves freely on the field. This comes after a disappointing white-ball tour of England and Ireland. The team aims to adapt quickly to new conditions in Zimbabwe. Iyer believes this challenging phase will make the team stronger.",
-    "img": "https://static.toiimg.com/photo/msid-132570239,imgsize-24663.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/when-you-fear-failure-you-play-to-save-yourself-shreyas-iyers-message-to-team-india-ahead-of-zimbabwe-t20is/articleshow/132570226.cms",
-    "time": "2026-07-23T01:07:10.000Z"
   },
   {
     "cat": "Business",
@@ -718,33 +745,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/aamezing-voyage-ups-mangoes-make-first-sea-journey-to-dubai/articleshow/132563158.cms",
     "time": "2026-07-22T16:41:58.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Trump's 200% tariff plan may be a bitter pill for US consumers; Dr Reddy's warns of costlier medicines",
-    "desc": "The United States plans significant tariffs on imported generic medicines. These duties will rise to 200% in the coming years. Dr Reddy's Laboratories anticipates higher medicine prices for American consumers. Shifting manufacturing to the US is currently considered impractical by the company. India faces substantial exposure as a major generic medicine exporter to the US.",
-    "img": "https://static.toiimg.com/photo/msid-132562787,imgsize-993014.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/trumps-200-tariff-plan-may-be-a-bitter-pill-for-us-consumers-dr-reddys-warns-of-costlier-medicines/articleshow/132562742.cms",
-    "time": "2026-07-22T15:56:39.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Wall Street drifts in mixed trading; oil prices rise another 3%",
-    "desc": "The S&P 500 slipped 0.2%, despite a majority of its constituent stocks trading higher. Artificial intelligence-related stocks have remained the key driver of recent market volatility. Micron Technology declined 1.6% after rallying 14.4% over the previous two trading sessions, a move that had almost fully recovered its 13.3% decline from the prior week. Even after the latest pullback, the stock remains up nearly 235% so far this year.",
-    "img": "https://static.toiimg.com/photo/msid-132561699,imgsize-401496.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/us-stock-market-today-wall-street-drifts-in-mixed-trading-oil-prices-rise-another-3/articleshow/132561483.cms",
-    "time": "2026-07-22T14:48:14.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "BPCL posts Rs 3,962 crore Q1 loss as high crude prices squeeze fuel margins",
-    "desc": "Bharat Petroleum Corporation Ltd reported a significant net loss for the April-June quarter. Elevated crude oil prices and regulated fuel rates severely impacted marketing margins. The company incurred substantial LPG under-recoveries and unpaid subsidy dues. Revenue from operations increased, but total expenses climbed significantly. Fuel sales and refinery processing saw a slight decline during the period.",
-    "img": "https://static.toiimg.com/photo/msid-132560235,imgsize-197938.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/bpcl-posts-rs-3962-crore-q1-loss-as-high-crude-prices-squeeze-fuel-margins/articleshow/132559201.cms",
-    "time": "2026-07-22T13:32:37.000Z"
   },
   {
     "cat": "Entertainment",

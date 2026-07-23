@@ -1,6 +1,15 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "શ્રેયસની કેપ્ટનશીપમાં ટીમ ઈન્ડિયાને મળી પહેલી જીત, ભારતે ઝિમ્બાબ્વેને 7 વિકેટેથી હરાવ્યું; વૈભવ સૂર્યવંશીની તોફાની ફિફ્ટી",
+    "desc": "ભારતે ઝિમ્બાબ્વેને પહેલી T20 મેચમાં 7 વિકેટે હરાવીને ત્રણ મેચોની સિરીઝમાં 1-0ની લીડ મેળવી લીધી છે. આ સાથે જ ટીમ ઈન્ડિયાએ શ્રેયસ અય્યરની કેપ્ટનશીપમાં પહેલીવાર જીતનો સ્વાદ ચાખ્યો છે. આ પહેલાં ભારતને સતત 6 T20I મેચોમાં હારનો સામનો કરવો પડ્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/team-india-got-its-first-win-under-shreyas-captaincy-india-defeated-zimbabwe-by-7-wickets-vaibhav-suryavanshi-stormy-fifty-485562 ",
+    "time": "2026-07-23T15:08:26.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "શ્રેયસ અય્યરે રચ્યો ઈતિહાસ, MS ધોનીનો 14 વર્ષ જૂનો રેકોર્ડ તોડી બન્યા ભારતના નંબર-1 કેપ્ટન",
     "desc": "શ્રેયસ અય્યર જ્યારથી ભારતના T20I કેપ્ટન બન્યા છે, ત્યારથી તેમને જીત નસીબ નથી થઈ. જો કે, તેમણે ટોસ જીતીને એક મોટો રેકોર્ડ પોતાના નામે કરી લીધો છે. આ મામલે તેમણે એમએસ ધોનીને પાછળ છોડીને ઈતિહાસ રચ્યો છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -142,15 +151,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/why-is-there-unwavering-trust-in-dharmendra-pradhan-what-reason-behind-modi-government-trust-485424 ",
     "time": "2026-07-22T08:00:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "જંતર મંતર પર હંગામા બાદ મોટો નિર્ણય: હિંસાને પગલે CRPFની 20 ટુકડી તૈનાત થશે, આજે વિપક્ષનો &amp;#039;કાળો&amp;#039; વિરોધ",
-    "desc": "જંતર મંતર પર હિંસા બાદ દિલ્હીમાં સુરક્ષા વ્યવસ્થા વધુ કડક કરાઈ છે. સ્થિતિ પર કાબૂ મેળવવા માટે CRPFની 20 ટુકડીઓ તૈનાત કરવાનો નિર્ણય લેવાયો છે. પ્રશાસને મંજૂરી વગર ડ્રોન ઉડાવવા ઉપર પર એફઆઈઆર નોંધવાની ચેતવણી આપી છે. જાણો સુરક્ષા વ્યવસ્થામાં થયેલા ફેરફાર અને પ્રશાસનની નવી ગાઈડલાઈન વિશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/cjp-protest-latest-update-centre-deploys-20-additional-crpf-companies-in-delhi-opposition-protest-part-2-485420 ",
-    "time": "2026-07-22T06:28:30.000Z"
   },
   {
     "cat": "Entertainment",
@@ -385,15 +385,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/from-uruguay-to-spain-full-list-of-countries-that-have-won-the-football-world-cup-485199 ",
     "time": "2026-07-20T01:58:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "સ્પેન સામેની હાર પછી આર્જેન્ટિનાના ફેન્સએ એવું શું કર્યું? મેસ્સી પણ ફૂટી-ફૂટીને રડ્યા!",
-    "desc": "લિયોનેલ મેસ્સીનું બીજી વખત વર્લ્ડ કપ જીતવાનું સ્વપ્ન ચકનાચૂર થઈ ગયું. સ્પેને ફૂટબોલ વર્લ્ડ કપ 2026ની ફાઇનલમાં આર્જેન્ટિનાને 1-0 થી હરાવીને બીજી વખત ટાઇટલ જીત્યું છે. પીડાદાયક હાર બાદ મેસ્સી પોતાની લાગણીઓ પર કાબુ રાખી શક્યો નહીં અને મેદાન પર રડી પડ્યો. ગોલ્ડન બૂટ જીતવાનું તેનું સ્વપ્ન પણ અધૂરું રહ્યું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/what-did-argentina-fans-do-after-the-defeat-against-spain-even-messi-broke-down-and-cried-video-485196 ",
-    "time": "2026-07-20T01:35:48.000Z"
   },
   {
     "cat": "Sports",
