@@ -135,15 +135,6 @@ const newsData_gu = [
     "time": "2026-07-22T06:19:50.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "સિયા ગોયલનો પ્લાન કંઈક અલગ જ હતો! કેતન પર હુમલાનું મોટું ષડયંત્ર! ઇન્ટરનેટ હિસ્ટ્રીએ ખોલ્યા રહસ્યો",
-    "desc": "તપાસમાં જાણવા મળ્યું કે સિયા ગોયલ અને ચેતન ચૌધરીએ શરૂઆતમાં કેતન અગ્રવાલની હત્યાનું કાવતરું ઘડ્યું ન હતું. વધુમાં, તેમણે લોનાવાલાના લોહાગઢ કિલ્લા સિવાય અન્ય ઘણી જગ્યાઓનું ચેકિંગ કર્યું હતું. પોલીસ તપાસ ક્યાં સુધી પહોંચી છે તે જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/siya-goyals-plan-was-something-different-a-big-conspiracy-to-attack-ketan-internet-history-reveals-secrets-485410 ",
-    "time": "2026-07-22T04:13:13.000Z"
-  },
-  {
     "cat": "World",
     "title": "જેનેરિક દવાઓ પર ટ્રમ્પનો 200% ટેરિફનો હથોડો! ભારતને ફાયદો કે નુકસાન? જાણો સંપૂર્ણ ગણિત",
     "desc": "ડોનાલ્ડ ટ્રમ્પે ફરીથી ટેરિફનો હથોડો વિંઝવાનું શરૂ કરી દીધું છે. આ વખતે જેનેરિક દવાઓ ટાર્ગેટ પર છે. તબક્કાવાર રીતે જેનેરિક દવાઓ પર 100થી 200 ટકા ટેરિફ લગાવવાની જાહેરાત કરી છે. જો કે આમાં પણ ભારત માટે તક છે, જાણો કઈ રીતે.",
@@ -151,15 +142,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/us-president-donald-trump-annouce-generic-drug-tariff-plan-how-will-impact-on-india-485407 ",
     "time": "2026-07-22T04:06:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "તમે સુઈ રહ્યા હતા ત્યારે અચાનક સોનમ વાંગચુકને મળવા પહોંચ્યા જેપી નડ્ડા અને જીતેન્દ્ર સિંહ, શું થઈ મહત્વની ચર્ચા? જાણો",
-    "desc": "ભાજપના નેતા જેપી નડ્ડા અને કેન્દ્રીય મંત્રી ડૉ. જીતેન્દ્ર સિંહે હોસ્પિટલમાં દાખલ સોનમ વાંગચુક સાથે મુલાકાત કરી હતી. બંને નેતાઓએ તેમના સ્વાસ્થ્ય વિશે પૂછપરછ કરી અને વિવિધ મુદ્દાઓ પર ચર્ચા કરી. મુલાકાત દરમિયાન શું ચર્ચા થઈ અને તેનાથી શું પરિણામ આવી રહ્યું છે તે જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/jp-nadda-and-jitendra-singh-suddenly-arrived-to-meet-sonam-wangchuk-what-important-discussion-took-place-know-485396 ",
-    "time": "2026-07-22T02:20:20.000Z"
   },
   {
     "cat": "Sports",

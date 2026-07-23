@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India hand debut to pacer, Rinku Singh returns to playing XI in first T20I vs Zimbabwe",
+    "desc": "India have handed a debut to ace pacer Ashok Sharma in the first T20I against Zimbabwe in Harare. He became the 23rd Indian cricketer to make his T20I debut in the country, which is the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-hand-debut-to-pacer-rinku-singh-returns-to-playing-xi-in-first-t20i-vs-zimbabwe-2026-07-23-1049165",
+    "time": "2026-07-23T11:01:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Yuvraj Singh, Shikhar Dhawan, Manu Bhaker among other athletes break silence on students' protest in Delhi",
+    "desc": "The students’ protest demanding Union Education Minister Dharmendra Pradhan's resignation over the NEET-UG paper leak has escalated, and now voices from outside the political sphere are being heard. The protest led by the CJP has...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/yuvraj-singh-shikhar-dhawan-manu-bhaker-among-other-athletes-break-silence-on-students-protest-in-delhi-2026-07-23-1049162",
+    "time": "2026-07-23T10:27:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mayank Yadav draws first blood on comeback, Bennett falls early",
+    "desc": "India lock horns against Zimbabwe in the first T20I of the three-match series at the Harare Sports Club in Harare. Since defending their T20 World Cup title, India have been winless under Shreyas Iyer, as...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-zim-1st-t20i-live-cricket-score-india-vs-zimbabwe-harare-sports-club-harare-1st-t20i-latest-match-updates-scorecard-teams-playing-xis-2026-07-23-1049160",
+    "time": "2026-07-23T10:19:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "WTC final 2027 venue confirmed, ECB also shares venues of next year's Ashes",
+    "desc": "England will host the men's and women's Ashes series at the same time in 2027. The England and Wales Cricket Board (ECB) confirmed a packed international summer next year, which will also see the World...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/wtc-final-2027-venue-confirmed-ecb-also-shares-venues-of-next-year-s-ashes-2026-07-23-1049153",
+    "time": "2026-07-23T09:24:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Where to watch India vs Zimbabwe T20I series live on TV and stream online?",
+    "desc": "After the disappointing campaign against Ireland and England, the Men in Blue would look to get back on their feet in the three-match T20 series against Zimbabwe, which begins on Thursday, July 23. India’s recent outings...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/where-to-watch-india-vs-zimbabwe-t20i-series-live-on-tv-and-stream-online-2026-07-23-1049148",
+    "time": "2026-07-23T08:33:33.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Lovlina Borgohain confirms India's first medal in Commonwealth Games 2026 even before opening ceremony",
     "desc": "India opened their account at the 2026 Commonwealth Games before the opening ceremony. Boxer Lovlina Borgohain became the country's first confirmed medallist after securing a direct place in the women's 75kg semifinals. The Olympic medallist from...",
     "img": "",
@@ -34,50 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/what-is-india-s-schedule-in-commonwealth-games-2026-check-dates-of-all-events-2026-07-23-1049123",
     "time": "2026-07-23T05:54:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Different match timing for India vs Zimbabwe series, check squads, fixture and all you need to know",
-    "desc": "India tour of Zimbabwe, scheduled to start on July 23, will feature three T20s between the two teams. Stakes are high for the men in blue after the mediocre performance in their previous games. India are...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/different-match-timing-for-india-vs-zimbabwe-series-check-squads-fixture-and-all-you-need-to-know-2026-07-22-1049070",
-    "time": "2026-07-22T13:13:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Star India cricketer pens new deal with county team after constant ignorance from Indian management",
-    "desc": "Star India spinner Kuldeep Yadav has signed a deal with Yorkshire after being left out of India’s playing XI during the recent ODI series in England and also being dropped for the three-match T20Is vs...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/star-india-cricketer-pens-new-deal-with-county-team-after-constant-ignorance-from-indian-management-2026-07-22-1049060",
-    "time": "2026-07-22T12:19:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lalit Modi, IPL founder and first chairman, says he will return to India after major tribunal relief",
-    "desc": "Former Indian Premier League (IPL) chairman Lalit Modi has confirmed that he will return to India by the end of the year or early next year. An appellate tribunal set aside most of the Enforcement...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/lalit-modi-ipl-founder-and-first-chairman-says-he-will-return-to-india-after-major-tribunal-relief-2026-07-22-1049049",
-    "time": "2026-07-22T10:57:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tilak Varma hits back at strike-rate critics before Zimbabwe series, says 'I play as per situation'",
-    "desc": "Newly appointed India’s T20I vice-captain Tilak Varma has failed to live up to expectations in recent times. His poor strike rate has been a constant discussion among fans and arguably for the same reason, the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/tilak-varma-hits-back-at-strike-rate-critics-before-zimbabwe-series-says-i-play-as-per-situation-2026-07-22-1049041",
-    "time": "2026-07-22T10:22:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hashmatullah Shahidi steps down as Afghanistan captain, reveals decision",
-    "desc": "Afghanistan ODI captain Hashmatullah Shahidi has stepped down from his role after the series defeat to India. He took over the charge in 2022, having led the side in the ODI World Cup and Champions...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/hashmatullah-shahidi-steps-down-as-afghanistan-captain-reveals-decision-2026-07-22-1049036",
-    "time": "2026-07-22T08:59:19.000Z"
   }
 ];
