@@ -1,6 +1,114 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "NIA arrests absconding PFI district chief in Kerala's Sreenivasan murder case",
+    "desc": "The National Investigation Agency arrested a key absconder in the Sreenivasan murder case. Muhammadali K.P, a PFI Palakkad district president, was apprehended upon arriving from Saudi Arabia. He was a prominent perpetrator and harbored assailants involved in the brutal killing of Sreenivasan. The PFI conspiracy aimed to establish Islamic Rule in India by 2047. Investigations revealed PFI imparted arms training and collected target information through its various wings.",
+    "img": "https://static.toiimg.com/photo/msid-132591942,imgsize-810990.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/nia-arrests-absconding-pfi-district-chief-in-keralas-sreenivasan-murder-case/articleshow/132591939.cms",
+    "time": "2026-07-23T21:48:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Ramayana' stars Ranbir and Yash ARRIVE at Comic-Con: PICS",
+    "desc": "Ranbir Kapoor and Yash attended San Diego Comic-Con 2026 for the Ramayana film. They presented their characters, Rama and Ravana, to a global audience. The film's grand trailer debut occurred during a highly anticipated panel discussion. Attendees received exclusive footage and a first look at the epic saga. The Ramayana film is slated for a Diwali 2026 release.",
+    "img": "https://static.toiimg.com/photo/msid-132591711,imgsize-158476.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-stars-ranbir-kapoor-and-yash-arrive-at-san-diego-comic-con-2026-for-grand-trailer-launch-pics/articleshow/132591667.cms",
+    "time": "2026-07-23T21:26:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP leaders, allies urge Centre to treat youth protests with empathy",
+    "desc": "Former HRD Minister Murli Manohar Joshi says the protest should not be treated as a law-and-order problem; sections of the BJP and its allies in the NDA feel the issue has gone beyond NEET and education",
+    "img": "https://th-i.thgim.com/public/incoming/fcxbpz/article71259670.ece/alternates/LANDSCAPE_1200/TH07-ISHITA-MurGGIF97054.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/as-protest-becomes-lightning-rod-of-hurt-m-m-joshi-says-treat-it-with-empathy/article71258679.ece",
+    "time": "2026-07-23T21:06:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Sonam Wangchuk has broken his fast, says Leh Apex Body co-convenor",
+    "desc": "He broke the fast in the presence of two Union Ministers on certain conditions, he says; Govt gave a written assurance that cases against students will be taken back, if they are not violent, Mr. Dorjay says",
+    "img": "https://th-i.thgim.com/public/news/national/otnegk/article71259633.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-24%20at%201.08.54%20AM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/sonam-wangchuk-has-broken-his-fast-says-co-convenor-leh-apex-body/article71259628.ece",
+    "time": "2026-07-23T21:00:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Protests over paper leak intensify in States",
+    "desc": "Student outfits, civil society groups, and political parties hit the streets demanding resignation of Union Education Minister Dharmendra Pradhan; protest marches turn confrontational in several districts of Kerala; police stop protesters in A.P.; security personnel resort to baton-charge in Bihar",
+    "img": "https://th-i.thgim.com/public/incoming/20hjp4/article71259621.ece/alternates/LANDSCAPE_1200/CJP%20PROTEST%20DELHI_23_07_85.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/protests-over-neet-paper-leak-intensify-nationwide/article71259431.ece",
+    "time": "2026-07-23T20:59:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Wangchuk breaks 26-day fast; relieved, says CJP founder Dipke, but vows to continue protest till Pradhan resigns",
+    "desc": "He broke the fast in the presence of two Union Ministers on certain conditions, he says; the government gave a written assurance that cases against students will be taken back if they are not violent, Mr. Dorjay says; the government also gave a written assurance that they will consider compensation for NEET aspirants who took their lives, he adds",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/cjp-jantar-mantar-protest-live-updates-abhijeet-dipke-saurav-das-sonam-wangchuk-hunger-strike-dharmendra-pradhan-resignation/article71256169.ece",
+    "time": "2026-07-23T20:57:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "2,500 detained, homes of 2 LeT terrorists razed in Kashmir after cop killing",
+    "desc": "Security forces demolished two Lashkar-e-Taiba terrorist homes overnight in Kashmir. Over two thousand five hundred people were detained for questioning following a police killing. The operation aimed to dismantle terrorist support networks across the region. Officials reviewed security arrangements for the ongoing Amarnath Yatra pilgrimage. Political leaders criticized the demolitions and mass detentions as counter-productive.",
+    "img": "https://static.toiimg.com/photo/msid-132591618,imgsize-371789.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/2500-detained-homes-of-2-let-terrorists-razed-in-kashmir-after-cop-killing/articleshow/132591615.cms",
+    "time": "2026-07-23T20:54:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Replay the final': More than 88,000 Argentina fans call for replay after bitter World Cup final defeat",
+    "desc": "A petition demanding a replay of the 2026 FIFA World Cup final between Spain and Argentina has surpassed 88,000 signatures, with some Argentina supporters alleging controversial refereeing decisions influenced the result. FIFA has received no evidence requiring action, while Spain's extra-time victory remains unchanged after a dominant performance and Ferran Torres' decisive winner.",
+    "img": "https://static.toiimg.com/photo/msid-132591584,imgsize-103954.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/replay-the-final-more-than-88000-argentina-fans-call-for-replay-after-bitter-world-cup-final-defeat/articleshow/132591444.cms",
+    "time": "2026-07-23T20:41:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'In view of possible violence in the country': Sonam Wangchuk ends hunger strike after 26 days; PM Modi 'prays for his health'",
+    "desc": "Sonam Wangchuk ended his 26-day hunger strike after prolonged negotiations and to prevent potential violence. Prime Minister Narendra Modi announced tougher measures against examination paper leaks. The Union Cabinet will consider stricter punishments and fast-track courts for offenders. The government aims to introduce legislation during the ongoing Monsoon Session of Parliament. Wangchuk urged everyone to remain vigilant against any form of violence.",
+    "img": "https://static.toiimg.com/photo/msid-132591524,imgsize-1073283.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/in-view-of-possible-violence-in-the-country-sonam-wangchuk-ends-hunger-strike-after-26-days-pm-modi-prays-for-his-health/articleshow/132591411.cms",
+    "time": "2026-07-23T20:22:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi promises 'more strict actions against paper leaks' amid CJP protests",
+    "desc": "In a self-recorded video shared on X, the Prime Minister announced that the Union Cabinet will take up a draft Bill providing for Fast-Track Courts and stringent punishment for offenders. he said, “I have issued directions to departments to set up Fast-Track Courts",
+    "img": "https://th-i.thgim.com/public/news/national/hl5rot/article71259650.ece/alternates/LANDSCAPE_1200/Screenshot%202026-07-24%20013831.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/pm-modi-promises-more-strict-actions-against-paper-leaks-amid-cjp-protests/article71259623.ece",
+    "time": "2026-07-23T20:17:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Suniel recalls first meeting Rahul, why he never bought an IPL team",
+    "desc": "Suniel Shetty has opened up about his bond with son-in-law and Indian cricketer KL Rahul, revealing that he first met the star batter as an admirer long before Rahul and Athiya Shetty fell in love. Suniel also reflected on why he never bought an IPL team, despite being a passionate sports enthusiast, and praised Shah Rukh Khan for his vision in investing in the league early.",
+    "img": "https://static.toiimg.com/photo/msid-132591368,imgsize-57092.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/suniel-shetty-says-he-doesnt-discuss-cricket-with-kl-rahul-recalls-first-meeting-him-as-a-fan-and-reveals-why-he-skipped-buying-an-ipl-team/articleshow/132591341.cms",
+    "time": "2026-07-23T19:48:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "FIFA unveils World Cup Dream XI with 11 players voted as tournament's finest",
+    "desc": "FIFA has unveiled the official 2026 World Cup Dream XI following a global fan vote, recognising the tournament's standout performers. World champions Spain lead the selection with three players, while France and Argentina also feature prominently. Jude Bellingham represents England after a record-breaking campaign, while Cape Verde goalkeeper Vozinha earns a surprise spot after becoming one of the tournament's biggest breakout stars.",
+    "img": "https://static.toiimg.com/photo/msid-132591034,imgsize-389578.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/best-of-best-fifa-unveils-world-cup-dream-xi-with-11-players-voted-as-tournaments-finest/articleshow/132589463.cms",
+    "time": "2026-07-23T19:12:40.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "A namesake creates trouble for former Kerala Minister P.K. Sreemathi",
     "desc": "CPI(M) leader accused of drawing a pension claiming to be the wife of a former MLA. Allegation stems from confusion with another P.K. Sreemathi, widow of former Kunnamkulam MLA P.R. Krishnan, who received the pension till 2020",
     "img": "https://th-i.thgim.com/public/incoming/kkp69p/article71259604.ece/alternates/LANDSCAPE_1200/KRSKM_9-3-2019_18-38-46_1_PKSREEMATHI.JPG",
@@ -81,6 +189,15 @@ const newsData_en = [
     "time": "2026-07-23T17:07:53.000Z"
   },
   {
+    "cat": "Sports",
+    "title": "Justice Mittal rebukes AITA interim EC’s decision to appoint observer for EGM",
+    "desc": "Sunday’s EGM is expected to discuss — and ratify — the amendments proposed by the administrator-led committee to bring AITA’s Constitution in line with the National Sports Governance Act, 2025 and National Sports Governance Rules, 2026",
+    "img": "https://th-i.thgim.com/public/incoming/ao95ap/article71258775.ece/alternates/LANDSCAPE_1200/2501_6_9_2025_16_25_25_2_DSC_8245.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/tennis/justice-mittal-rebukes-aita-interim-ecs-decision-to-appoint-observer/article71258770.ece",
+    "time": "2026-07-23T17:06:56.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "400 Pakistani handles revived from Op Sindoor target NEET protests, being blocked: Delhi Police",
     "desc": "Delhi Police identified and blocked over 400 Pakistani social media handles. These accounts are spreading misinformation and rumors amid ongoing protests. The same handles were active during Operation Sindoor and aim to provoke people. Police urged citizens, especially students, not to fall for fake content. Delhi Police respects citizens' right to peaceful protest and fact-checking.",
@@ -99,15 +216,6 @@ const newsData_en = [
     "time": "2026-07-23T16:54:07.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "CJP Protest gets backing from film stars, writers & musicians",
-    "desc": "The CJP Protest has received support from across India’s entertainment industry. What began as a student-led movement has now drawn backing from film stars, writers, musicians, television personalities and artists, bringing the protests into the national spotlight.",
-    "img": "https://th-i.thgim.com/public/news/national/oyx356/article71259376.ece/alternates/LANDSCAPE_1200/Ground%20Reports%20%203%201.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-cjp-protest-gets-backing-from-film-stars-writers-musicians/article71259377.ece",
-    "time": "2026-07-23T16:42:52.000Z"
-  },
-  {
     "cat": "World",
     "title": "China begins two days of live-fire drills in Taiwan Strait",
     "desc": "The news comes a day after ‌talks between U.S. Secretary ‌of State ⁠Marco Rubio and ⁠Chinese Foreign Minister Wang Yi on a range of issues, including ​democratically-governed Taiwan, which China ‌claims as its own territory.",
@@ -115,15 +223,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/china-begins-two-days-of-live-fire-drills-in-taiwan-strait/article71259355.ece",
     "time": "2026-07-23T16:40:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Parliament stalled again as Opposition continues to seek Dharmendra Pradhan’s resignation",
-    "desc": "Rajya Sabha functions for less than 10 minutes on Thursday morning before being adjourned twice; Leader of the House J.P. Nadda terms the Opposition’s conduct ‘highly irresponsible’; Opposition members continue to raise slogans in the Lower House, forcing repeated adjournments",
-    "img": "https://th-i.thgim.com/public/incoming/7z1llh/article71259322.ece/alternates/LANDSCAPE_1200/PTI07_23_2026_000125B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/parliament-stalled-again-as-opposition-continues-to-seek-dharmendra-pradhans-resignation/article71258292.ece",
-    "time": "2026-07-23T16:38:15.000Z"
   },
   {
     "cat": "Business",
@@ -135,15 +234,6 @@ const newsData_en = [
     "time": "2026-07-23T16:37:32.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "India rallies behind the CJP Protest",
-    "desc": "The CJP protest that began as a march in Delhi has rapidly transformed into a nationwide movement. Following police action against CJP protesters and activist Sonam Wangchuk, demonstrations erupted across India, with students, political parties, and civil society groups taking to the streets.",
-    "img": "https://th-i.thgim.com/public/news/national/d0ntrd/article71255032.ece/alternates/LANDSCAPE_1200/Ground%20Reports%20%201.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-india-rallies-behind-the-cjp-protest/article71255034.ece",
-    "time": "2026-07-23T16:37:05.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Failure is okay, cheating is not': Sachin Tendulkar speaks out on NEET protests",
     "desc": "Sachin Tendulkar urged society to uphold hard work and meritocracy amid NEET exam protests. He stressed that adults must shape a culture valuing effort over shortcuts. Students' disappointment over unrewarded hard work is understandable and should be addressed. Other cricketers like Shikhar Dhawan and Mohammad Kaif also voiced concerns. They called for fair resolutions and an end to student mistreatment during protests.",
@@ -151,15 +241,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/off-the-field/failure-is-okay-cheating-is-not-sachin-tendulkar-speaks-out-on-neet-protests/articleshow/132586975.cms",
     "time": "2026-07-23T16:25:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "prime accused surrenders before Crime Branch, remanded",
-    "desc": "The Crime Branch had sought permission to re-arrest Dr. Ram after the Thalassery Principal Sessions Court ordered his release, ruling that investigators had failed to comply with the Supreme Court’s guidelines governing arrests when he was taken into custody in Karnataka",
-    "img": "https://th-i.thgim.com/public/incoming/qtqft9/article71259301.ece/alternates/LANDSCAPE_1200/RAM.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/nithin-raj-case-prime-accused-surrenders-before-crime-branch-remanded/article71257884.ece",
-    "time": "2026-07-23T16:24:21.000Z"
   },
   {
     "cat": "Sports",
@@ -198,15 +279,6 @@ const newsData_en = [
     "time": "2026-07-23T16:10:22.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Karnataka Deputy Chief Minister G. Parameshwara writes to Modi seeking replacement of NEET with State CETs",
-    "desc": "The Deputy Chief Minister appeals to the Prime Minister to provide a compensation of at least ₹1 crore to the families of students who ended their lives owing to the NEET paper leak and the “systemic failures” that followed.",
-    "img": "https://th-i.thgim.com/public/incoming/84fw4z/article71259223.ece/alternates/LANDSCAPE_1200/Efforts-are-on-G8CG7Q968.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-deputy-chief-minister-g-parameshwara-writes-to-modi-seeking-replacement-of-neet-with-state-cets/article71259014.ece",
-    "time": "2026-07-23T16:03:44.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Wall Street trades in red as oil tops $100 per barrel; Nasdaq tumbles over 2%, Dow slips over 600 points",
     "desc": "Major stock markets opened lower as Big Tech's AI spending raised investor concerns. Alphabet and Tesla shares fell significantly after their latest quarterly earnings reports. Oil prices surged past one hundred dollars per barrel amid Middle East tensions. This geopolitical situation also increased expectations for a potential Federal Reserve interest rate hike. Weak market breadth indicated more declining stocks than advancing ones across exchanges.",
@@ -223,15 +295,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-putul-sonowal-stuns-world-champion-ryan-bester-in-lawn-bowls-thriller/articleshow/132586269.cms",
     "time": "2026-07-23T15:35:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "League releases full slate with TV details; record nine games go abroad",
-    "desc": "Find the complete 2026 NFL schedule for all 32 teams, including Eagles, Chiefs, Cowboys and every franchise. See game dates, kickoff times, bye weeks, international matchups, prime-time games, TV channels and streaming options. Track Week 18 updates and late-season schedule changes in one easy-to-use guide for the entire regular season, from opening night through final playoff push all season long.",
-    "img": "https://static.toiimg.com/photo/msid-132585693,imgsize-603544.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/nfl/news/2026-nfl-schedule-full-eagles-chiefs-cowboys-and-all-32-team-schedules-bye-weeks-how-to-watch-and-more/articleshow/132585693.cms",
-    "time": "2026-07-23T15:35:00.000Z"
   },
   {
     "cat": "Business",
@@ -540,15 +603,6 @@ const newsData_en = [
     "time": "2026-07-23T11:47:24.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "NEET deadlock washes out 4th straight day of Parliament monsoon session",
-    "desc": "Parliament remained deadlocked for a fourth straight day over the NEET paper leak controversy. Opposition MPs demanded the education minister's resignation, while the government offered immediate debate. Both Houses witnessed repeated disruptions and counter-protests outside Parliament. Meetings with the Speaker failed to break the ongoing impasse between the parties. Substantive legislative business could not be conducted as the deadlock persisted.",
-    "img": "https://static.toiimg.com/photo/msid-132579823,imgsize-1186257.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/neet-deadlock-washes-out-4th-straight-day-of-parliament-monsoon-session-key-highlights/articleshow/132578722.cms",
-    "time": "2026-07-23T11:45:46.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Will employees finally get paid faster after resignation? Understanding labour codes and full &amp; final settlement",
     "desc": "For an employee, the last salary from the previous organisation is not just a payroll entry. It may be needed for rent, relocation expenses, family commitments, education fees, loan repayments or simply to manage the gap before the first salary from the new employer",
@@ -556,24 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/will-employees-finally-get-paid-faster-after-resignation-understanding-labour-codes-and-full-final-settlement/articleshow/132579645.cms",
     "time": "2026-07-23T11:44:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Offline maps, LoRa devices and tear gas hacks: Jantar Mantar protest survival tips trend online",
-    "desc": "Protesters are sharing survival tips online for demonstrations. Social media offers advice on internet shutdowns and police encounters. Demonstrators download offline maps and use Bluetooth messaging apps. They also carry remedies for tear gas exposure and makeshift protective gear. This trend shows protesters relying on crowdsourced information for practical guidance.",
-    "img": "https://static.toiimg.com/photo/msid-132578632,imgsize-172482.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/offline-maps-lora-devices-and-tear-gas-hacks-jantar-mantar-protest-survival-tips-trend-online/articleshow/132578612.cms",
-    "time": "2026-07-23T11:26:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Cher bears USD 1 million of her legal fees in royalty lawsuit",
-    "desc": "Cher won a lawsuit against Mary Bono for unpaid royalties. However, the court denied Cher's request for attorney fees. Mary Bono was ordered to pay over USD 418,000 in royalties. This legal conflict stemmed from a family dispute over contracts and copyrights. The case involved Cher and Sonny Bono's divorce settlement terms.",
-    "img": "https://static.toiimg.com/photo/msid-132578937,imgsize-167747.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/cher-bears-usd-1-million-of-her-legal-fees-despite-win-in-royalty-lawsuit-against-sonny-bonos-wife-mary-bono/articleshow/132578904.cms",
-    "time": "2026-07-23T11:18:06.000Z"
   },
   {
     "cat": "Business",
@@ -612,24 +648,6 @@ const newsData_en = [
     "time": "2026-07-23T11:11:49.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Who is Ashok Sharma? Farmer's son makes India debut after 154.2 kmph IPL breakthrough",
-    "desc": "Ashok Sharma debuted for India in the T20I against Zimbabwe in Harare. He earned his cap after a strong domestic and IPL performance. His journey began in a small village, supported by family sacrifice. Sharma impressed in the Syed Mushtaq Ali Trophy and IPL 2026. He is now part of India's balanced bowling attack.",
-    "img": "https://static.toiimg.com/photo/msid-132578373,imgsize-159567.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/ind-vs-zim-who-is-ashok-sharma-farmers-son-makes-india-debut-after-154-2-kmph-ipl-breakthrough/articleshow/132578423.cms",
-    "time": "2026-07-23T10:57:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Adil Hussain reveals why he will never do a film like 'Animal' even if offered huge money",
-    "desc": "Actor Adil Hussain has again criticized filmmaker Sandeep Reddy Vanga's movies. He stated financial security allows him to refuse unsuitable acting roles. Hussain previously expressed regret over his involvement in the film Kabir Singh. He also mentioned that large sums of money would not sway him to act in Animal. Hussain's upcoming projects include Netflix's Operation Safed Sagar and Musafir Cafe.",
-    "img": "https://static.toiimg.com/photo/msid-132578020,imgsize-254409.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/adil-hussain-reveals-why-he-will-never-do-a-film-like-animal-sticks-by-his-criticism-towards-sandeep-reddy-vangas-films-i-get-paid-well/articleshow/132577957.cms",
-    "time": "2026-07-23T10:35:44.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Axis Bank's MF arm acquires Rs 12,000 crore PMS business from securities arm",
     "desc": "Axis Asset Management Company is acquiring Axis Securities' portfolio management services business. This strategic move significantly expands their alternative investments platform and investor base. The combined portfolio management services assets under management will now exceed fifteen thousand crore rupees. The entire portfolio management services team has transitioned to Axis Asset Management Company. This acquisition strengthens their position in the growing alternatives investment segment.",
@@ -646,15 +664,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/beyond-hormuz-gulf-is-spending-billions-to-find-new-routes-to-global-markets/articleshow/132577114.cms",
     "time": "2026-07-23T10:19:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kangana Ranaut says, 'never met an atheist topper' as she celebrates NEET topper Vaishnavi",
-    "desc": "Kangana Ranaut praised NEET UG 2026 topper Vaishnavi Das for her impressive achievement. Vaishnavi Das secured All India Rank twenty while celebrating Rath Yatra with her family. Ranaut commented on the role of faith in success, noting toppers are rarely atheists. She also addressed ongoing NEET protests and demands for the Union Education Minister's resignation. The article highlights the controversy surrounding NEET and student suicides amid intense pressure.",
-    "img": "https://static.toiimg.com/photo/msid-132576352,imgsize-197577.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-says-never-met-an-atheist-topper-as-she-celebrates-neet-topper-vaishnavi-das-amid-protests-they-always-know-/articleshow/132576343.cms",
-    "time": "2026-07-23T09:20:11.000Z"
   },
   {
     "cat": "World",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/anant-raj-board-approves-demerger-of-data-centre-cloud-services-business/article71250782.ece",
     "time": "2026-07-21T22:38:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Devika, Prannoy lose on day 1 of China Masters",
-    "desc": "Devika, the Thailand Open Super 300 champion, rallied after dropping the opening game but could not sustain the momentum, losing 19-21, 21-19, 13-21 to World No. 20 Thailand's Busanan Ongbamrungphan in the women's singles opening round",
-    "img": "https://th-i.thgim.com/public/incoming/ckl7kn/article71251078.ece/alternates/LANDSCAPE_1200/EPAPERTH17DEVIKG1MFNIIT2.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/devika-prannoy-lose-on-day-1-of-china-masters/article71251050.ece",
-    "time": "2026-07-21T21:23:31.000Z"
   }
 ];
