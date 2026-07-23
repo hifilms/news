@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "પેપર લીક રોકવા સંસદમાં બિલ લાવશે કેન્દ્ર સરકાર, PM મોદીએ વીડિયો સંદેશો જાહેર કરીને આપી ખાતરી",
+    "desc": "નીટ (NEET) પેપર લીકને લઈને વડાપ્રધાન નરેન્દ્ર મોદીએ 23 જુલાઈની મોડી રાત્રે વિદ્યાર્થીઓના નામે વીડિયો સંદેશ જાહેર કર્યો છે. જેમાં પીએમ મોદીએ કહ્યું કે, 24 જુલાઈના રોજ યોજાનારી કેબિનેટ બેઠકમાં પેપર લીક વિરુદ્ધ વધુ કડક પગલાં લેવામાં આવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/central-government-will-bring-a-bill-in-parliament-to-stop-paper-leaks-pm-modi-assured-by-releasing-a-video-message-485569 ",
+    "time": "2026-07-23T18:57:15.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "શ્રેયસની કેપ્ટનશીપમાં ટીમ ઈન્ડિયાને મળી પહેલી જીત, ભારતે ઝિમ્બાબ્વેને 7 વિકેટેથી હરાવ્યું; વૈભવ સૂર્યવંશીની તોફાની ફિફ્ટી",
     "desc": "ભારતે ઝિમ્બાબ્વેને પહેલી T20 મેચમાં 7 વિકેટે હરાવીને ત્રણ મેચોની સિરીઝમાં 1-0ની લીડ મેળવી લીધી છે. આ સાથે જ ટીમ ઈન્ડિયાએ શ્રેયસ અય્યરની કેપ્ટનશીપમાં પહેલીવાર જીતનો સ્વાદ ચાખ્યો છે. આ પહેલાં ભારતને સતત 6 T20I મેચોમાં હારનો સામનો કરવો પડ્યો હતો.",
@@ -142,15 +151,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/will-adani-launch-his-own-airline-preparing-to-compete-with-indigo-and-air-india-know-485444 ",
     "time": "2026-07-22T09:22:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "વિરોધનો વંટોળ છતાં ધર્મેન્દ્ર પ્રધાન પર કેમ અતૂટ વિશ્વાસ? મોદી સરકારના ભરોસા પાછળના 5 મોટા કારણ!",
-    "desc": "કોકરોચ જનતા પાર્ટી પેપરલીકના મુદ્દે શિક્ષણમંત્રી ધર્મેન્દ્ર પ્રધાનના રાજીનામા પર અડી છે. જ્યારે વિપક્ષી દળો પણ ધર્મેન્દ્ર પ્રધાને રાજીનામું આપી દેવું જોઈએ એવી માંગણી કરી રહ્યા છે. આમ છતાં સરકાર કેમ ધર્મેન્દ્ર પ્રધાન પાસેથી રાજીનામું લેવાના મૂડમાં નથી એવો સંકેત મળી રહ્યો છે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/why-is-there-unwavering-trust-in-dharmendra-pradhan-what-reason-behind-modi-government-trust-485424 ",
-    "time": "2026-07-22T08:00:50.000Z"
   },
   {
     "cat": "Entertainment",

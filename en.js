@@ -1,5 +1,167 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "A namesake creates trouble for former Kerala Minister P.K. Sreemathi",
+    "desc": "CPI(M) leader accused of drawing a pension claiming to be the wife of a former MLA. Allegation stems from confusion with another P.K. Sreemathi, widow of former Kunnamkulam MLA P.R. Krishnan, who received the pension till 2020",
+    "img": "https://th-i.thgim.com/public/incoming/kkp69p/article71259604.ece/alternates/LANDSCAPE_1200/KRSKM_9-3-2019_18-38-46_1_PKSREEMATHI.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/a-namesake-creates-trouble-for-former-kerala-minister-pk-sreemathi/article71259499.ece",
+    "time": "2026-07-23T19:02:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Set KPSC in order before protesting over NEET, BJP tells Karnataka Congress",
+    "desc": "The Opposition BJP alleges that the government here has failed to fix responsibility for the death of 11 youth in the stampede near Chinnaswamy Stadium and for the lathi-charge on unemployed youth in North Karnataka who were protesting the delay in recruitment for government jobs",
+    "img": "https://th-i.thgim.com/public/incoming/a0hxuv/article71259588.ece/alternates/LANDSCAPE_1200/_JAI1929.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/set-kpsc-in-order-before-protesting-over-neet-bjp-tells-karnataka-congress/article71258103.ece",
+    "time": "2026-07-23T18:59:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'For India's future': Gill urges compassion, mutual respect amid student protests",
+    "desc": "Shubman Gill urged compassion and respect for students protesting exam paper leaks. He believes India's youth deserve opportunities to learn and shape the nation's future. Several prominent Indian athletes have also voiced their support for the protesting students. They emphasise the importance of honesty and merit in the education system. The athletes hope for a fair resolution that protects students' hard work and aspirations.",
+    "img": "https://static.toiimg.com/photo/msid-132589580,imgsize-181949.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/for-indias-future-shubman-gill-urges-compassion-mutual-respect-amid-student-protests/articleshow/132589382.cms",
+    "time": "2026-07-23T18:12:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "From Puri to Glasgow, two gymnasts chase CWG dream",
+    "desc": "Tapan Mohanty and Tapeshwarnath Das both took up gymnastics at a young age after joining the State Sports Hostel in the coastal town. Pursuing a sport that still lacks widespread popularity in India was never easy, but they kept their heads down, trusted the process and are now among the four Indian men's gymnasts set to compete at the Commonwealth Games.",
+    "img": "https://static.toiimg.com/photo/msid-132589426,imgsize-537741.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/from-puri-to-glasgow-two-gymnasts-chase-cwg-dream/articleshow/132589401.cms",
+    "time": "2026-07-23T18:02:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Interview",
+    "desc": "The 24-year-old says even a small weakness or flaw will be challenged in the longest format; the Tamil Nadu batter adds that his priority now is to work on his fitness and game against spin bowling ahead of the Sri Lanka series; the southpaw explains he is not worried too much about not being in the T20I scheme of things",
+    "img": "https://th-i.thgim.com/public/incoming/jkimld/article71259497.ece/alternates/LANDSCAPE_1200/DSC_9257.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/sai-sudharsan-interview-india-test-cricket-gujarat-titans-ipl/article71259491.ece",
+    "time": "2026-07-23T17:45:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India's campaign ends at China Open: Lakshya, Ayush suffer 2nd round defeats",
+    "desc": "India's challenge at the China Open 2026 concluded with multiple player exits. Lakshya Sen lost in straight games after squandering a first-game lead. Ayush Shetty suffered a heartbreaking defeat in a deciding game after holding a strong advantage. PV Sindhu also exited in the round of sixteen after a tough contest. The focus now shifts to the Taipei Open and the upcoming home World Championships.",
+    "img": "https://static.toiimg.com/photo/msid-132588577,imgsize-646038.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/indias-campaign-ends-at-china-open-lakshya-sen-ayush-shetty-suffer-second-round-defeats/articleshow/132588500.cms",
+    "time": "2026-07-23T17:34:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Spain's World Cup triumph ends with players receiving their body weight in tomatoes",
+    "desc": "World Cup winners Fabián Ruiz and Gavi received a unique hometown honour after Spain's 2026 FIFA World Cup triumph, returning to Los Palacios y Villafranca to be gifted their body weight in locally grown tomatoes. The long-standing tradition celebrated their achievement alongside plans for a permanent monument, while Spain's squad also secured substantial World Cup prize bonuses.",
+    "img": "https://static.toiimg.com/photo/msid-132588508,imgsize-1142642.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/spains-world-cup-triumph-ends-with-players-receiving-their-body-weight-in-tomatoes/articleshow/132588361.cms",
+    "time": "2026-07-23T17:30:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'It's a dream': Emotional Ashok Sharma dedicates India debut to elder brother",
+    "desc": "Fast bowler Ashok Sharma made his international debut for India against Zimbabwe. He dedicated this significant career milestone to his elder brother's sacrifice. Sharma's journey highlights perseverance and family support in pursuing cricket dreams. His rapid rise followed strong domestic performances and IPL success. The young pacer received his maiden India cap from bowling coach Sunil Joshi.",
+    "img": "https://static.toiimg.com/photo/msid-132588552,imgsize-207911.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/my-dream-has-come-true-emotional-ashok-sharma-dedicates-india-debut-to-elder-brother-akshay/articleshow/132588445.cms",
+    "time": "2026-07-23T17:29:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "No debate without Pradhan’s resignation, Opposition tells govt. as it hits the streets",
+    "desc": "INDIA bloc closes ranks on paper leaks, rejects discussion offer and carries protest from Parliament to Gandhi Smriti in a show of solidarity with agitating students; in the meeting, it was felt that a debate would offer the govt. a chance to grandstand its way through by leaning on its numerical strength in both Houses of Parliament",
+    "img": "https://th-i.thgim.com/public/incoming/m2bex3/article71259239.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-23%20at%208.48.23%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/congress-india-bloc-mps-pay-homage-to-students-who-took-their-lives-over-paper-leaks-at-gandhi-smriti/article71259079.ece",
+    "time": "2026-07-23T17:07:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "400 Pakistani handles revived from Op Sindoor target NEET protests, being blocked: Delhi Police",
+    "desc": "Delhi Police identified and blocked over 400 Pakistani social media handles. These accounts are spreading misinformation and rumors amid ongoing protests. The same handles were active during Operation Sindoor and aim to provoke people. Police urged citizens, especially students, not to fall for fake content. Delhi Police respects citizens' right to peaceful protest and fact-checking.",
+    "img": "https://static.toiimg.com/photo/msid-132587787,imgsize-171744.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/400-pakistani-handles-revived-from-op-sindoor-target-neet-protests-being-blocked-delhi-police/articleshow/132587674.cms",
+    "time": "2026-07-23T16:56:09.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "IndiGo offers crisis management plan to settle CCI probe into flight disruption case",
+    "desc": "IndiGo has proposed commitments to the Competition Commission of India. These proposals aim to address concerns over past flight disruptions and unfair practices. The airline will establish a crisis management group and a passenger grievance mechanism. IndiGo also offered to temporarily hand over airport slots during major disruptions. The CCI is now seeking public comments on these proposed commitments.",
+    "img": "https://static.toiimg.com/photo/msid-132587746,imgsize-1127965.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indigo-offers-crisis-management-plan-to-settle-cci-probe-into-flight-disruption-case/articleshow/132587625.cms",
+    "time": "2026-07-23T16:54:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CJP Protest gets backing from film stars, writers & musicians",
+    "desc": "The CJP Protest has received support from across India’s entertainment industry. What began as a student-led movement has now drawn backing from film stars, writers, musicians, television personalities and artists, bringing the protests into the national spotlight.",
+    "img": "https://th-i.thgim.com/public/news/national/oyx356/article71259376.ece/alternates/LANDSCAPE_1200/Ground%20Reports%20%203%201.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-cjp-protest-gets-backing-from-film-stars-writers-musicians/article71259377.ece",
+    "time": "2026-07-23T16:42:52.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "China begins two days of live-fire drills in Taiwan Strait",
+    "desc": "The news comes a day after ‌talks between U.S. Secretary ‌of State ⁠Marco Rubio and ⁠Chinese Foreign Minister Wang Yi on a range of issues, including ​democratically-governed Taiwan, which China ‌claims as its own territory.",
+    "img": "https://th-i.thgim.com/public/incoming/k72dlp/article71259361.ece/alternates/LANDSCAPE_1200/2026-07-21T003040Z_1476473345_RC2YB1AXMA65_RTRMADP_3_JAPAN-CHINA-DEFENCE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/china-begins-two-days-of-live-fire-drills-in-taiwan-strait/article71259355.ece",
+    "time": "2026-07-23T16:40:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Parliament stalled again as Opposition continues to seek Dharmendra Pradhan’s resignation",
+    "desc": "Rajya Sabha functions for less than 10 minutes on Thursday morning before being adjourned twice; Leader of the House J.P. Nadda terms the Opposition’s conduct ‘highly irresponsible’; Opposition members continue to raise slogans in the Lower House, forcing repeated adjournments",
+    "img": "https://th-i.thgim.com/public/incoming/7z1llh/article71259322.ece/alternates/LANDSCAPE_1200/PTI07_23_2026_000125B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/parliament-stalled-again-as-opposition-continues-to-seek-dharmendra-pradhans-resignation/article71258292.ece",
+    "time": "2026-07-23T16:38:15.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "IndiGo, Air India oppose Adani’s airline entry",
+    "desc": "It is a recipe for conflict of interest as well as squeezing other players; such a consolidation across the value chain not only kills competition but also results in fewer jobs, said an Air India official",
+    "img": "https://th-i.thgim.com/public/incoming/hnb1qt/article71259345.ece/alternates/LANDSCAPE_1200/PTI07_23_2026_000372B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/indigo-air-india-oppose-adanis-airline-entry/article71258381.ece",
+    "time": "2026-07-23T16:37:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India rallies behind the CJP Protest",
+    "desc": "The CJP protest that began as a march in Delhi has rapidly transformed into a nationwide movement. Following police action against CJP protesters and activist Sonam Wangchuk, demonstrations erupted across India, with students, political parties, and civil society groups taking to the streets.",
+    "img": "https://th-i.thgim.com/public/news/national/d0ntrd/article71255032.ece/alternates/LANDSCAPE_1200/Ground%20Reports%20%201.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-india-rallies-behind-the-cjp-protest/article71255034.ece",
+    "time": "2026-07-23T16:37:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Failure is okay, cheating is not': Sachin Tendulkar speaks out on NEET protests",
+    "desc": "Sachin Tendulkar urged society to uphold hard work and meritocracy amid NEET exam protests. He stressed that adults must shape a culture valuing effort over shortcuts. Students' disappointment over unrewarded hard work is understandable and should be addressed. Other cricketers like Shikhar Dhawan and Mohammad Kaif also voiced concerns. They called for fair resolutions and an end to student mistreatment during protests.",
+    "img": "https://static.toiimg.com/photo/msid-132587151,imgsize-223774.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/failure-is-okay-cheating-is-not-sachin-tendulkar-speaks-out-on-neet-protests/articleshow/132586975.cms",
+    "time": "2026-07-23T16:25:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "prime accused surrenders before Crime Branch, remanded",
+    "desc": "The Crime Branch had sought permission to re-arrest Dr. Ram after the Thalassery Principal Sessions Court ordered his release, ruling that investigators had failed to comply with the Supreme Court’s guidelines governing arrests when he was taken into custody in Karnataka",
+    "img": "https://th-i.thgim.com/public/incoming/qtqft9/article71259301.ece/alternates/LANDSCAPE_1200/RAM.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/nithin-raj-case-prime-accused-surrenders-before-crime-branch-remanded/article71257884.ece",
+    "time": "2026-07-23T16:24:21.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Manav Thakkar reflects on UP Prometheans’ disappointing debut campaign",
     "desc": "There were things beyond our control; I became sick after the first match; being the captain, I had to play six sets including singles and mixed doubles, and suddenly I couldn’t play, said Manav Thakkar",
@@ -9,13 +171,22 @@ const newsData_en = [
     "time": "2026-07-23T16:21:23.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "prime accused surrenders before Crime Branch, remanded",
-    "desc": "The Crime Branch had sought permission to re-arrest Dr. Ram after the Thalassery Principal Sessions Court ordered his release, ruling that investigators had failed to comply with the Supreme Court’s guidelines governing arrests when he was taken into custody in Karnataka",
-    "img": "https://via.placeholder.com/600x400?text=News",
+    "cat": "Business",
+    "title": "Infosys posts  12% rise in Q1 net profit; names Ashiss Kumar Dash CEO-designate",
+    "desc": "Salil Parekh said that he enjoyed leading Infosys from $10 billion in revenue to over $20 billion in revenue through during his tenure of two terms spanning nine years which would conclude on March 31, 2027",
+    "img": "https://th-i.thgim.com/public/business/qgwzc9/article71259283.ece/alternates/LANDSCAPE_1200/ashishinfosys.jpeg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/nithin-raj-case-prime-accused-surrenders-before-crime-branch-remanded/article71257884.ece",
-    "time": "2026-07-23T16:13:58.000Z"
+    "url": "https://www.thehindu.com/business/infosys-posts-12-rise-in-q1-net-profit-namesashiss-kumar-dash-ceo-designate/article71259118.ece",
+    "time": "2026-07-23T16:18:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rift in AMMA triggers fresh row over ‘power group’ in Malayalam cinema",
+    "desc": "Allegation by Shwetha Menon that the ‘power group’ named in Hema Committee report is working against her has triggered a fresh bout of infighting within AMMA even as her rival camp has asked her to divulge the names of those named in the controversial report",
+    "img": "https://th-i.thgim.com/public/incoming/by6c7y/article71256618.ece/alternates/LANDSCAPE_1200/swetha_menon_1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/rift-in-amma-triggers-fresh-row-over-power-group-in-malayalam-cinema/article71256467.ece",
+    "time": "2026-07-23T16:14:41.000Z"
   },
   {
     "cat": "World",
@@ -72,15 +243,6 @@ const newsData_en = [
     "time": "2026-07-23T15:33:06.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "KPSC Veterinary Officer recruitment under scanner as corruption allegations surface",
-    "desc": "The protesters claim that an alleged sting operation had exposed a cash-for-jobs racket, in which an agent was heard demanding ₹80 lakh for securing a Veterinary Officer post, with ₹40 lakh to be paid in advance.",
-    "img": "https://th-i.thgim.com/public/incoming/k7k3qk/article71259032.ece/alternates/LANDSCAPE_1200/_JAI1981.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/kpsc-veterinary-officer-recruitment-under-scanner-as-corruption-allegations-surface/article71258513.ece",
-    "time": "2026-07-23T15:28:16.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Oil's $100 comeback: Brent hits a three-month high as Red Sea tensions escalate",
     "desc": "Crude oil prices surged past one hundred dollars per barrel amid Middle East tensions. Houthi attacks on Saudi oil tankers in the Red Sea caused market concern. This escalation has heightened fears over global energy supply safety and stability. Domestic crude futures also climbed significantly, mirroring the international price rally. Geopolitical risks are now the primary driver for the current oil market surge.",
@@ -91,7 +253,7 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'He is fearless': Shreyas Iyer hails Sooryavanshi after record-breaking blitz vs Zimbabwe",
+    "title": "'He is fearless': Iyer hails Sooryavanshi after record-breaking blitz vs Zimbabwe",
     "desc": "Teenage prodigy Vaibhav Sooryavanshi smashed a record fifty off nineteen balls. He became the youngest player to achieve this international milestone. India secured a seven-wicket victory in the opening T20I match. Captain Shreyas Iyer celebrated his first win as T20I skipper. The bowlers restricted Zimbabwe to 125 for seven runs.",
     "img": "https://static.toiimg.com/photo/msid-132585522,imgsize-194573.cms",
     "src": "indiatimes.com",
@@ -106,6 +268,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/mental-strength-makes-a-huge-difference-mayank-yadav-reflects-on-comeback-after-21-month/articleshow/132582081.cms",
     "time": "2026-07-23T14:50:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'UP ke ladke' to take on BJP again, but who will show 'bigger heart'? Seat-sharing test awaits Rahul, Akhilesh",
+    "desc": "Congress and Samajwadi Party leaders seek a 'big heart' from each other for upcoming UP elections. Rahul Gandhi assured unity, while UP Congress leaders demand equal status. Both parties cite past election results to justify their seat claims. Past alliance failures in Bihar and Haryana highlight potential friction points. Successful seat-sharing is crucial for the INDIA bloc to challenge the BJP.",
+    "img": "https://static.toiimg.com/photo/msid-132585120,imgsize-890933.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/up-ke-ladke-together-again-to-take-on-bjp-but-who-will-show-bigger-heart-seat-sharing-test-awaits/articleshow/132584348.cms",
+    "time": "2026-07-23T14:36:05.000Z"
   },
   {
     "cat": "Sports",
@@ -387,15 +558,6 @@ const newsData_en = [
     "time": "2026-07-23T11:44:11.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "After 14 years of Deschamps, France set to announce Zidane as new head coach",
-    "desc": "French football is anticipating a new era with Zinedine Zidane's expected appointment. The federation president will announce the new men's national team head coach Tuesday. Didier Deschamps departs after a successful fourteen-year tenure with the French team. Zidane returns to management after his successful spell with Real Madrid. The new coach will prepare for upcoming Nations League fixtures in September.",
-    "img": "https://static.toiimg.com/photo/msid-132579520,imgsize-536387.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/after-14-years-of-didier-deschamps-france-set-to-announce-zinedine-zidane-as-new-head-coach/articleshow/132579048.cms",
-    "time": "2026-07-23T11:33:38.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Offline maps, LoRa devices and tear gas hacks: Jantar Mantar protest survival tips trend online",
     "desc": "Protesters are sharing survival tips online for demonstrations. Social media offers advice on internet shutdowns and police encounters. Demonstrators download offline maps and use Bluetooth messaging apps. They also carry remedies for tear gas exposure and makeshift protective gear. This trend shows protesters relying on crowdsourced information for practical guidance.",
@@ -441,15 +603,6 @@ const newsData_en = [
     "time": "2026-07-23T11:15:07.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Mamata passes Martyrs' Day street test; marathon begins now",
-    "desc": "The July 21 rally showed that Mamata Banerjee remains the dominant force within a fractured Trinamool. But rebuilding a party stripped of power, organisation and many of its familiar faces will require more than one afternoon of defiance. Experts weigh in on what's the path forward for Mamata Banerjee and TMC.",
-    "img": "https://static.toiimg.com/photo/msid-132577342,imgsize-161094.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/mamata-passes-july-21-street-test-marathon-begins-now/articleshow/132577308.cms",
-    "time": "2026-07-23T11:13:11.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Jana Nayagan’ director H Vinoth interview: On Thalapathy Vijay’s support during controversies",
     "desc": "Filmmaker H Vinoth speaks about his upcoming film ‘Jana Nayagan,’ starring Tamil Nadu Chief Minister C Joseph Vijay, the unwavering support he received from the former star during the turbulent months prior to its release, what success means for a politically-charged film that unfortunately leaked online, and more",
@@ -468,33 +621,6 @@ const newsData_en = [
     "time": "2026-07-23T10:57:54.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Shreyas Iyer surpasses MS Dhoni with unique India T20I captaincy record",
-    "desc": "Shreyas Iyer set a new Indian T20I captaincy record by winning his eighth consecutive toss during the first T20I against Zimbabwe in Harare, surpassing MS Dhoni's previous mark of seven. Iyer chose to bowl first, citing expected bounce on the pitch. Zimbabwe captain Sikandar Raza anticipated a high-scoring contest despite some early assistance for bowlers.",
-    "img": "https://static.toiimg.com/photo/msid-132578433,imgsize-190362.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/ind-vs-zim-shreyas-iyer-surpasses-ms-dhoni-with-unique-india-t20i-captaincy-record/articleshow/132578271.cms",
-    "time": "2026-07-23T10:57:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Jantar Mantar not the place for you': BJP's Nishikant Dubey urges protesting students to focus on studies",
-    "desc": "BJP MP Nishikant Dubey asked protesting students to return to their studies for future success. He emphasized education over agitation for achieving career aspirations in medicine and civil services. Dubey advocated for a stringent law against examination paper leaks in Parliament. He suggested that this new law could even include the death penalty for offenders. The government is committed to ensuring the harshest punishment for those arrested.",
-    "img": "https://static.toiimg.com/photo/msid-132578359,imgsize-100055.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/jantar-mantar-not-the-place-for-you-bjps-nishikant-dubey-urges-protesting-students-to-focus-on-studies/articleshow/132578228.cms",
-    "time": "2026-07-23T10:53:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC confirms The Oval as host venue for 2027 World Test Championship Final in June",
-    "desc": "The Oval will host the 2027 ICC World Test Championship Final from June 9 to 13. England secured hosting rights for the next three WTC Finals, continuing a trend. Australia currently leads the World Test Championship standings, followed by South Africa. This event coincides with the 150th anniversary of Test cricket. The ECB expressed delight in continuing to host this pinnacle Test cricket event.",
-    "img": "https://static.toiimg.com/photo/msid-132577978,imgsize-31704.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/icc-confirms-the-oval-as-host-venue-for-2027-world-test-championship-final-in-june/articleshow/132577591.cms",
-    "time": "2026-07-23T10:44:36.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Adil Hussain reveals why he will never do a film like 'Animal' even if offered huge money",
     "desc": "Actor Adil Hussain has again criticized filmmaker Sandeep Reddy Vanga's movies. He stated financial security allows him to refuse unsuitable acting roles. Hussain previously expressed regret over his involvement in the film Kabir Singh. He also mentioned that large sums of money would not sway him to act in Animal. Hussain's upcoming projects include Netflix's Operation Safed Sagar and Musafir Cafe.",
@@ -502,15 +628,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/adil-hussain-reveals-why-he-will-never-do-a-film-like-animal-sticks-by-his-criticism-towards-sandeep-reddy-vangas-films-i-get-paid-well/articleshow/132577957.cms",
     "time": "2026-07-23T10:35:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Government reaches out to opposition for NEET debate, urges talks without preconditions",
-    "desc": "The government is engaging opposition leaders to resolve the Parliament deadlock over the NEET paper leak. Discussions aim to end disruptions which have stalled proceedings since the Monsoon session began. The Centre is ready for debate without preconditions, including minister's resignation. A meeting of floor leaders is likely soon to build consensus for the discussion. This outreach follows repeated adjournments due to protests on examination irregularities.",
-    "img": "https://static.toiimg.com/photo/msid-132577838,imgsize-153564.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/parliament-standoff-government-reaches-out-to-opposition-for-neet-debate-urges-talks-without-preconditions/articleshow/132577862.cms",
-    "time": "2026-07-23T10:30:41.000Z"
   },
   {
     "cat": "Business",
@@ -531,24 +648,6 @@ const newsData_en = [
     "time": "2026-07-23T10:19:39.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Indian judoka Arun Kumar withdrawn from 2026 CWG after failing dope test",
-    "desc": "India's Commonwealth Games campaign suffered a blow as judoka Arun Kumar was ruled ineligible after an adverse finding in an out-of-competition NADA dope test. The promising 73kg judoka, a gold medallist at the 2025 Taipei Asian Open, was set for his CWG debut. His withdrawal reduces India's Glasgow 2026 contingent from 125 to 124 athletes.",
-    "img": "https://static.toiimg.com/photo/msid-132576939,imgsize-71443.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/indian-judoka-arun-kumar-withdrawn-from-2026-commonwealth-games-after-failing-dope-test/articleshow/132576720.cms",
-    "time": "2026-07-23T09:57:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘You take credit for Mars, now take responsibility': Priyanka Gandhi targets PM Modi over student protests, police action",
-    "desc": "Priyanka Gandhi Vadra criticized Prime Minister Narendra Modi regarding student protests and police actions. She questioned the government's handling of demonstrations and alleged police brutality against students. The Prime Minister announced fast-track courts for paper leak cases amid ongoing parliamentary protests. Opposition MPs demanded the Education Minister's resignation while BJP leaders called for debate. Tensions briefly escalated between rival party members outside Parliament.",
-    "img": "https://static.toiimg.com/photo/msid-132576579,imgsize-1025790.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/you-take-credit-for-mars-now-take-responsibility-priyanka-gandhi-targets-pm-modi-over-student-protests-police-action/articleshow/132576371.cms",
-    "time": "2026-07-23T09:31:39.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Kangana Ranaut says, 'never met an atheist topper' as she celebrates NEET topper Vaishnavi",
     "desc": "Kangana Ranaut praised NEET UG 2026 topper Vaishnavi Das for her impressive achievement. Vaishnavi Das secured All India Rank twenty while celebrating Rath Yatra with her family. Ranaut commented on the role of faith in success, noting toppers are rarely atheists. She also addressed ongoing NEET protests and demands for the Union Education Minister's resignation. The article highlights the controversy surrounding NEET and student suicides amid intense pressure.",
@@ -567,33 +666,6 @@ const newsData_en = [
     "time": "2026-07-23T08:45:53.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "PV Sindhu's China Open campaign ends in heartbreak",
-    "desc": "PV Sindhu's China Open campaign ended in the second round after a spirited 21-16, 20-22, 18-21 defeat to world No. 4 Chen Yufei. Fresh from her Japan Open title, Sindhu squandered four match points in the second game before the Tokyo Olympic champion staged a comeback to win a gripping 90-minute contest and reach the quarterfinals.",
-    "img": "https://static.toiimg.com/photo/msid-132575693,imgsize-38990.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/badminton/pv-sindhus-china-open-campaign-ends-in-heartbreak-after-tough-three-game-battle-against-chen-yufei/articleshow/132575540.cms",
-    "time": "2026-07-23T08:28:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India's first CWG 2026 medal is already assured before the opening ceremony",
-    "desc": "India has secured its first medal at the Commonwealth Games 2026 before the opening ceremony, with Olympic medallist Lovlina Borgohain assured of at least bronze after receiving a semifinal bye. She faces T.K.B.P. Taafaki on July 31 for a place in the final. India begins its Glasgow campaign with a 124-member contingent targeting success across multiple sports.",
-    "img": "https://static.toiimg.com/photo/msid-132574437,imgsize-86361.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/indias-first-cwg-2026-medal-is-already-assured-before-the-opening-ceremony-heres-how/articleshow/132574275.cms",
-    "time": "2026-07-23T07:22:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Once played by Vallabhbhai Patel, bridge seeks India's 'chess' moment: 17-yo Anshul leads its revival",
-    "desc": "Once enjoyed by Sardar Vallabhbhai Patel, bridge has faded from India's sporting landscape. Seventeen-year-old prodigy Anshul Bhatt hopes to change that. Inspired by Viswanathan Anand's belief that bridge is where chess was two decades ago, Anshul is winning world titles, mentoring young players, conducting research, and building a movement to give the mind sport its long-awaited breakthrough in India.",
-    "img": "https://static.toiimg.com/photo/msid-132573400,imgsize-123768.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/once-played-by-sardar-vallabhbhai-patel-bridge-seeks-indias-chess-moment-how-17-year-old-anshul-bhatt-leads-its-revival/articleshow/132573478.cms",
-    "time": "2026-07-23T06:35:03.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Jana Nayagan gets ‘A’ certificate; likely to release in theatres on July 23",
     "desc": "According to reports, after the makers implemented modifications suggested by the examining committee, the film was initially considered suitable for a 'U/A' certificate; however, the process stalled when a committee member raised an internal objection, claiming certain portions could hurt public sentiments.",
@@ -601,15 +673,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/jana-nayagan-gets-a-certificate-likely-to-release-in-theatres-on-july-24/article71203461.ece",
     "time": "2026-07-23T06:06:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rift in AMMA triggers fresh row over ‘power group’ in Malayalam cinema",
-    "desc": "Allegation by Shwetha Menon that the ‘power group’ named in Hema Committee report is working against her has triggered a fresh bout of infighting within AMMA even as her rival camp has asked her to divulge the names of those named in the controversial report",
-    "img": "https://th-i.thgim.com/public/incoming/by6c7y/article71256618.ece/alternates/LANDSCAPE_1200/swetha_menon_1.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/rift-in-amma-triggers-fresh-row-over-power-group-in-malayalam-cinema/article71256467.ece",
-    "time": "2026-07-23T05:30:19.000Z"
   },
   {
     "cat": "Business",
@@ -738,15 +801,6 @@ const newsData_en = [
     "time": "2026-07-22T17:35:02.000Z"
   },
   {
-    "cat": "Business",
-    "title": "'Aam'ezing voyage: UP's mangoes make first sea journey to Dubai",
-    "desc": "Indian mangoes reached Dubai via a 25-day sea journey. Nearly ninety percent of the fruit remained market-ready after transit. This successful shipment paves the way for cheaper and larger mango exports. The new protocol reduces reliance on expensive air freight for shipments. This development enhances farmer incomes and boosts export earnings.",
-    "img": "https://static.toiimg.com/photo/msid-132563627,imgsize-1371400.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/aamezing-voyage-ups-mangoes-make-first-sea-journey-to-dubai/articleshow/132563158.cms",
-    "time": "2026-07-22T16:41:58.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Vijay’s ‘Jana Nayagan’ releases: Looking back at MGR’s ‘Meenava Nanban’ in 1977",
     "desc": "Meenava Nanban. Leading newspapers of the time captured the pre-release buzz of this film, with film posters with only carrying the title ‘Makkal Thilagam’ and not ‘Chief Minister’. We catch up with T Rajappa Venkatachari – or ‘MGR Swami’, as he is known – who recalls watching the first day first show of the film in 1977 at Tirunelveli’s Central Theatre.",
@@ -754,6 +808,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/vijays-jana-nayagan-releases-looking-back-at-mgrs-meenava-nanban-in-1977-thalapathy/article71253661.ece",
     "time": "2026-07-22T13:12:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Attack on Titan: The Last Attack’ movie review: A colossal political epitaph for the children of war",
+    "desc": "Returning at a moment when state violence and political repression feel alarmingly familiar, Hajime Isayama’s monumental saga remains one of this century’s most incisive examinations of how fear hardens into fascism and why the struggle for freedom never truly belongs to a single generation",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/gtzdl/article71253051.ece/alternates/LANDSCAPE_1200/hangerumbling.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/attack-on-titan-the-last-attack-movie-review-a-colossal-political-epitaph-for-the-children-of-war/article71253062.ece",
+    "time": "2026-07-22T11:18:05.000Z"
   },
   {
     "cat": "Tech",
@@ -835,68 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/devika-prannoy-lose-on-day-1-of-china-masters/article71251050.ece",
     "time": "2026-07-21T21:23:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Evenepoel wins time trial for back-to-back Tour de France stage victories, Pogacar still leads",
-    "desc": "Evenepoel completed the 26.1-kilometer individual time trial in 32 minutes, 19 seconds, more than a minute faster than Mattias Skjelmose, the previous quickest, before the Belgian rider waited to see Pogacar cross the line with the second-best effort of the day",
-    "img": "https://th-i.thgim.com/public/incoming/g89nrm/article71251073.ece/alternates/LANDSCAPE_1200/2026-07-21T190710Z_1744432417_RC2GIMAFZUZV_RTRMADP_3_CYCLING-FRANCE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/evenepoel-wins-time-trial-for-back-to-back-tour-de-france-stage-victories-pogacar-still-leads/article71251053.ece",
-    "time": "2026-07-21T21:09:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tamil rapper Arivu detained during bid to protest against NEET near Secretariat in Chennai, CM Vijay meets him",
-    "desc": "Tamil Nadu Chief Minister C. Joseph Vijay invited Arivu — who is best known for his Tamil independent music including the hit song Enjoy Enjaami, Thalapathy Kacheri from ‘Jana Nayagan’ — to his chamber and listened to the singer’s concerns.",
-    "img": "https://th-i.thgim.com/public/incoming/oarp6s/article71249195.ece/alternates/LANDSCAPE_1200/20230909195510_0J3A1265.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-rapper-arivu-detained-during-bid-to-protest-against-neet-near-secretariat-in-chennai-cm-vijay-meets-him/article71249166.ece",
-    "time": "2026-07-21T18:24:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "FIFA World Cup 2026",
-    "desc": "After clinching the FIFA World Cup in 2010 and the European Championship in 2008 and 2012 with the philosophy of tiki-taka, La Roja suffered a decline in successive global events from 2014 to 2022. Under coach Luis de la Fuente, the Spaniards have added more fluidity to their possession-based approach and reaped the ultimate reward of a second World Cup triumph",
-    "img": "https://th-i.thgim.com/public/incoming/j0w7d1/article71250917.ece/alternates/LANDSCAPE_1200/2286794142.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-spain-refines-its-style-rekindles-winning-spree/article71250916.ece",
-    "time": "2026-07-21T17:58:26.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India-U.K. FTA creates predictability for businesses on both sides: City of London policy chief",
-    "desc": "The India-U.K. trade deal came into effect on July 15, 2026. In a written interview with The Hindu, Chris Hayward, Policy Chairman of the City of London Corporation, the U.K.’s financial and commercial hub, discusses the implications of the agreement, including what it means for manufacturing, infrastructure and financial services, as well as how investors can navigate changes in U.K. political leadership.",
-    "img": "https://th-i.thgim.com/public/incoming/6wm4ci/article71250730.ece/alternates/LANDSCAPE_1200/policy-chair-chris-hayward.x8d2accec.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/opinion/interview/india-uk-fta-creates-predictability-for-businesses-on-both-sides-city-of-london-policy-chief/article71248657.ece",
-    "time": "2026-07-21T16:37:56.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Maruti Suzuki to increase prices from August as input costs rise",
-    "desc": "With inflationary burdens now at elevated levels and the adverse cost environment continuing, the company is constrained to pass on a portion of the increased costs to the market, Maruti Suzuki India Ltd stated in a filing",
-    "img": "https://th-i.thgim.com/public/incoming/7va19k/article71250697.ece/alternates/LANDSCAPE_1200/2026-07-20T050107Z_770664902_RC2DAMAW7TPM_RTRMADP_3_AUTOS-INDIA-MARUTI-SUZUKI.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/maruti-suzuki-to-increase-prices-from-august-as-input-costs-rise/article71250038.ece",
-    "time": "2026-07-21T16:18:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Football is simple for complete midfielder Rodri",
-    "desc": "The Spanish captain, who led La Roja to their second world crown, could’ve easily been overlooked for the Golden Ball honours for the glamorous numbers of Messi (eight goals & four assists) or Mbappe (10 & four)",
-    "img": "https://th-i.thgim.com/public/incoming/4tet1g/article71250226.ece/alternates/LANDSCAPE_1200/Argentina_Spain_WCup_Soccer_74249.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/fifa-world-cup/football-is-simple-for-complete-midfielder-rodri/article71249503.ece",
-    "time": "2026-07-21T15:13:11.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "SBI FM lists with ambition to be a market leader in mutual fund industry",
-    "desc": "Of India’s 140 crore population, the investment portfolio is just about 10 crore, and the newly listed company would like to bring another 100 million in five years’ time to this whole investment world, said Debasish Mishra",
-    "img": "https://th-i.thgim.com/public/incoming/yx3uf9/article71250127.ece/alternates/LANDSCAPE_1200/20260709419L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/sbi-fm-lists-with-ambition-to-be-a-market-leader-in-mutual-fund-industry/article71250040.ece",
-    "time": "2026-07-21T14:49:52.000Z"
   }
 ];

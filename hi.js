@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India women's opponents for Asian Games cricket revealed as Women in Blue look for gold defence",
+    "desc": "Indian women will be facing hosts Japan in the quarterfinals of the cricket event at the upcoming Asian Games as draws for cricket were revealed on Thursday, July 23. Apart from the women's competition, the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-womens-opponents-for-asian-games-cricket-revealed-as-women-in-blue-look-for-gold-defence-2026-07-23-1049213",
+    "time": "2026-07-23T18:10:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch event in India?",
+    "desc": "The Commonwealth Games kick off on July 23 as Glasgow hosts 74 nations participating in 10 sporting events for the quadrennial event that will run till August 2. The CWG 2026 is still a prestigious...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/commonwealth-games-opening-ceremony-live-streaming-details-when-and-where-to-watch-event-in-india-2026-07-23-1049209",
+    "time": "2026-07-23T17:25:54.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sachin Tendulkar, Shubman Gill react to students' protests in Delhi, Master Blaster shares father's teachings",
     "desc": "India cricket legend Sachin Tendulkar and ODI and Test captain Shubman Gill reacted to the ongoing students' protests in Delhi against the alleged NEET paper leak. Tendulkar shared an anecdote on his father's teachings from...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-arshdeep-singh-not-playing-in-india-vs-zimbabwe-first-t20i-in-harare-2026-07-23-1049172",
     "time": "2026-07-23T11:25:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Sanju Samson not playing in IND vs ZIM 1st T20I in Harare?",
-    "desc": "Sanju Samson was not part of the Playing XI as India face Zimbabwe in the first T20I of the three-match series at the Harare Sports Club on Thursday, July 23. Samson, the T20 World Cup...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-sanju-samson-not-playing-in-ind-vs-zim-1st-t20i-in-harare-2026-07-23-1049167",
-    "time": "2026-07-23T11:07:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India hand debut to pacer, Rinku Singh returns to playing XI in first T20I vs Zimbabwe",
-    "desc": "India have handed a debut to ace pacer Ashok Sharma in the first T20I against Zimbabwe in Harare. He became the 23rd Indian cricketer to make his T20I debut in the country, which is the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-hand-debut-to-pacer-rinku-singh-returns-to-playing-xi-in-first-t20i-vs-zimbabwe-2026-07-23-1049165",
-    "time": "2026-07-23T11:01:02.000Z"
   }
 ];
