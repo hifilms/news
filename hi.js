@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "5 underrated Badminton stars to keep an eye on at BWF World Championships 2026",
+    "desc": "The BWF World Championships have long been a stage where underdogs announce themselves to the world. Although the spotlight usually falls on the biggest names, every edition has produced unexpected breakthroughs from young challengers. With...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/5-underrated-badminton-stars-to-keep-an-eye-on-at-bwf-world-championships-2026-2026-07-24-1049321",
+    "time": "2026-07-24T13:12:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sanju Samson reveals why he left RR for CSK, reveals reason for not demanding captaincy",
+    "desc": "India’s keeper-batter Sanju Samson revealed the reason behind parting ways with Rajasthan Royals ahead of the IPL 2026 season. Calling it a huge risk, the Kerala-born threw light upon his reasons to join Chennai Super...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-reveals-why-he-left-rr-for-csk-reveals-reason-for-not-demanding-captaincy-2026-07-24-1049315",
+    "time": "2026-07-24T12:35:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Joe Root set to become England captain again after Ben Stokes' retirement; why not Harry Brook?",
+    "desc": "Star England batter Joe Root is very likely to be named the next captain of the Test side. Former international Ben Stokes announced his retirement after the New Zealand series, leaving the door open for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/joe-root-set-to-become-england-captain-again-after-ben-stokes-retirement-why-not-harry-brook-2026-07-24-1049310",
+    "time": "2026-07-24T12:10:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jurgen Klopp threatens to quit Germany head coach role on day 1 of appointment, check what happened",
+    "desc": "After a disappointing FIFA World Cup 2026, Germany appointed Jurgen Klopp as the new head coach. The former Liverpool boss has been handed a four-year contract after Julian Nagelsmann's resignation following Germany's shocking exit to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/jurgen-klopp-threatens-to-quit-germany-head-coach-role-on-day-1-of-appointment-check-what-happened-2026-07-24-1049305",
+    "time": "2026-07-24T11:37:41.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Another Indian athlete ruled out of Commonwealth Games after NADA suspends for whereabouts failure",
     "desc": "Olympian Tulika Maan has been withdrawn from India's Commonwealth Games squad after being provisionally suspended by the National Anti-Doping Agency (NADA). The 2022 Commonwealth Games silver medallist will miss the Glasgow Games after allegedly committing...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/mayank-yadav-weighs-in-on-his-injury-setbacks-after-sensational-comeback-for-india-2026-07-24-1049257",
     "time": "2026-07-24T07:13:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I was in my zone': Vaibhav Sooryavanshi opens up after quickfire half-century against Zimbabwe",
-    "desc": "The Indian team put forth a brilliant performance against Zimbabwe in the first T20I of the ongoing three-game series. Coming on the back of a losing streak in the shortest format, the Men in Blue...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/i-was-in-my-zone-vaibhav-sooryavanshi-opens-up-after-quickfire-half-century-against-zimbabwe-2026-07-24-1049249",
-    "time": "2026-07-24T05:51:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Can an Ashes Test match be held in India? Cricket Australia open to discussion on the possibility",
-    "desc": "There is no doubt that the Ashes is one of the biggest cricket spectacles in the world. Australia and England share one of the most iconic rivalries in world cricket, and with the upcoming edition...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/can-an-ashes-test-match-be-held-in-india-cricket-australia-open-to-discussion-on-the-possibility-2026-07-24-1049242",
-    "time": "2026-07-24T04:49:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Check Commonwealth Games 2026 Day 2 schedule; Where can India shine on July 24?",
-    "desc": "The stage is set for Day 2 of the ongoing Commonwealth Games 2026. There is plenty of action in store for the Indian athletes. There are a total of 11 events planned for July 24,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/check-commonwealth-games-2026-day-2-schedule-where-can-india-shine-on-july-24-2026-07-24-1049238",
-    "time": "2026-07-24T03:41:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "West Indies announce squad for Pakistan Test series; Joshua Bishop receives maiden call-up",
-    "desc": "In a major development, CWI (Cricket West Indies) has come forward and named its squad for the upcoming two-game Test series against Pakistan. The two sides will meet across two Test matches, with the first...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/west-indies-announce-squad-for-pakistan-test-series-joshua-bishop-receives-maiden-call-up-2026-07-24-1049228",
-    "time": "2026-07-24T02:18:43.000Z"
   }
 ];

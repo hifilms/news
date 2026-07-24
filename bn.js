@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "হাড়হিম হিমাচলে রক্তক্ষয়: পাহাড় থেকে ভয়ংকর বোল্ডার পড়ল চলন্ত সুমোতে, ধসে পিষে গেল ৬ মাসের শিশু-- শেষ ১৩ প্রাণ",
+    "desc": "দুর্ঘটনাটি ঘটেছে চাম্বা জেলার পাঙ্গি উপত্যকার কিলাড়-উদয়পুর মহাসড়কের ‘কড়ু নালা’ (Kadu Nalla) এলাকায়। স্থানীয় সূত্রে খবর, বৃহস্পতিবার রাতে প্রবল বর্ষণের কারণে উদয়পুর-কিলার পথটিতে ব্যপক ধস নামায় যান চলাচল বন্ধ হয়ে গিয়েছিল। শুক্রবার ভোরের দিকে সড়ক পরিষ্কার করে যাতায়াত করা হয়।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/himachal-landslide-tragedy-13-killed-as-boulder-crushes-cab-in-chamba-state-issues-strict-travel-advisory_663840.html ",
+    "time": "2026-07-24T12:39:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘নন-লিনিয়ার গল্প আর ডাবল রোল!’ প্রয়াত রাহুল শেষ ছবি ‘ছবিওয়ালা’ নিয়ে কী বলেছিলেন?",
+    "desc": "ছবিতে বাবা ও ছেলে—দুই চরিত্রে অভিনয় করা নিয়ে তিনি জানিয়েছিলেন তাঁর মুগ্ধতার কথা। পরিচালক বাপ্পার এই কম বাজেটের স্বাধীন ছবিতে রাহুলের বিপরীতে রয়েছেন দেবলীনা দত্ত। স্মৃতিকাতরতা, নস্ট্যালজিয়া ও শিল্পীর আবেগ জড়িয়ে থাকা এই ছবি দর্শকহৃদয়ে দাগ কাটছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/rahul-arunoday-banerjee-last-film-chobiwala-actor-final-reaction-bappa_663822.html ",
+    "time": "2026-07-24T11:23:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "আন্দোলনকারীরা সন্ত্রাসবাদী নাকি? ইয়ার্কি হচ্ছে? পুলিস নেই দেশে? NIA আর CBI তদন্তের দাবি কানেই তুলল না দিল্লি হাইকোর্ট",
+    "desc": "সিজেপি-র পক্ষ থেকে জানানো হয়েছে, তাদের পেশ করা তিনটি প্রধান দাবির মধ্যে দু’টি দাবি মেনে নেওয়ার ইতিবাচক আশ্বাস দিয়েছে কেন্দ্র। তবে কেন্দ্রীয় শিক্ষামন্ত্রী ধর্মেন্দ্র প্রধানের ইস্তফার বিষয়ে চূড়ান্ত সিদ্ধান্ত জানাতে আগামীকাল, ২৫ জুলাই দুপুর ২টো পর্যন্ত সময় চেয়েছে সরকার।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/chalo-sansad-march-delhi-high-court-refuses-to-hear-plea-seeking-nia/cbi-probe-into-july-20-protest_663820.html ",
+    "time": "2026-07-24T11:17:22.000Z"
+  },
+  {
     "cat": "World",
     "title": "মেঝেতে রক্তাক্ত পড়ে, জেরুজালেমে রহস্যমৃত্যু ভারতীয়ের! পূর্বপরিকল্পিত খুন? যিশুক্ষেত্রে আতঙ্কের কালো ছায়া",
     "desc": "ভারতীয় শ্রমিকের রহস্যমৃত্যু ঘিরে চাঞ্চল্য। জেরুজালেমের কাটামন এলাকার এক অ্যাপার্টমেন্টে ৪০ বছর বয়সি এক ভারতীয় নাগরিকের রক্তাক্ত দেহ উদ্ধার করে পুলিস। খুনের অভিযোগে ইতিমধ্যেই এক সন্দেহভাজনকে গ্রেফতার করা হয়েছে। মৃতের পরিচয় প্রকাশ করেনি ইজরায়েল প্রশাসন।",
@@ -115,15 +142,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/those-who-attack-police-cannot-be-called-students-rupali-ganguly-says-neet-protesters-are-hurting-their-own-cause_663705.html ",
     "time": "2026-07-23T12:28:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বিকেলের মধ্যে সব মেট্রো স্টেশন খুলতে হবে: CJP আন্দোলন নিয়ে কড়া নির্দেশ প্রধান বিচারপতির",
-    "desc": "সুরক্ষার কারণ দেখিয়ে মেট্রো কর্তৃপক্ষ টানা দ্বিতীয় দিনের জন্য সুপ্রিম কোর্ট মেট্রো স্টেশনটি বন্ধ রেখেছিল। বুধবার সন্ধ্যায় স্টেশনটি পুনরায় চালু করা হয়। কিন্তু কেন মেট্রো বন্ধ? প্রতিযোগিতামূলক পরীক্ষার অব্যবস্থার প্রতিবাদে এবং কেন্দ্রীয় শিক্ষামন্ত্রী ধর্মেন্দ্র প্রধানের পদত্যাগের দাবিতে রাজধানীতে যুব আন্দোলন ও বিক্ষোভ চলায় এই পদক্ষেপ নেওয়া হয়।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/supreme-court-will-intervene-if-nearest-metro-station-is-not-reopened-by-afternoon-cji_663696.html ",
-    "time": "2026-07-23T10:30:29.000Z"
   },
   {
     "cat": "Entertainment",
@@ -297,15 +315,6 @@ const newsData_bn = [
     "time": "2026-07-20T07:12:10.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "বিশ্বকাপে হেরে অবসর নিচ্ছেন অশ্রুসজল মেসি? খেলবেন না কোপা আমেরিকাও? বিগ আপডেট",
-    "desc": "আর্জেন্টাইন কোচের কাছে প্রশ্ন করা হয়, মেসি কতদিন খেলা চালিয়ে যাবেন? স্কালোনি পরিষ্কার জানিয়ে দেন, মেসির অবসর বা ২০২৭ সালের টুর্নামেন্টে তাঁর খেলার বিষয়টি সম্পূর্ণ মেসিরই সিদ্ধান্তের উপর নির্ভর করছে। মেসি যতদিন ফুটবল উপভোগ করছেন, ততদিন জাতীয় দলের দরজা তাঁর জন্য খোলা।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/sports/will-messi-retire-play-in-2027-copa-america-argentina-coach-breaks-silence-after-world-cup_663149.html ",
-    "time": "2026-07-20T05:32:38.000Z"
-  },
-  {
     "cat": "Business",
     "title": "হোয়াটসঅ্যাপের 'ইউজারনেম' ফিচার সুরক্ষা ও গোপনীয়তায় কত বড় চ্যালেঞ্জ?",
     "desc": "WhatsApp is rolling out a new username feature, allowing users to chat without sharing phone numbers. হোয়াটসঅ্যাপের এই নতুন ফিচারে নম্বর গোপন রেখে চ্যাট করার সুযোগ পাবেন ব্যবহারকারীরা, যা সাইবার নিরাপত্তা বাড়াবে এবং ব্যক্তিগত সুরক্ষা নিশ্চিত করবে।",
@@ -340,15 +349,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/aamir-khan-says-his-3-idiots-role-not-based-on-wangchuk-amid-his-hunger-strike_662796.html ",
     "time": "2026-07-17T10:17:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "অনশনের ১৮ দিন: 'দেশের আপনাকে দরকার', সোনম ওয়াংচুকের সমর্থনে সরব অনুরাগ-শাবানা থেকে নাসিরুদ্দিন-স্বরা",
-    "desc": "নিট দুর্নীতি ও প্রশ্ন ফাঁসের বিরুদ্ধে দিল্লির বুকে অনশনে সোনম ওয়াংচুক! লড়াই দেখতে দেখতে আজ ১৮ দিনে পা দিল। পরিবেশবিদের এমন ভেঙে পড়া স্বাস্থ্য দেখে উদ্বিগ্ন দেশবাসী। ‘৩ ইডিয়টস’ ছবির ‘চতুর’ ওমি বৈদ্য থেকে শুরু করে অনুরাগ কাশ্যপ, শাবানা আজমি ও স্বরা ভাস্কর— সকলেই সোনমের পাশে দাঁড়িয়ে সরকারের এই উদাসীন নীরবতাকে কাঠগড়ায় দাঁড় করিয়েছেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/sonam-wangchuk-hunger-strike-day-18-neet-ug-protest-bollywood-support_662530.html ",
-    "time": "2026-07-15T15:52:39.000Z"
   },
   {
     "cat": "World",
