@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Afghanistan announce new ODI captain, reveal squad for three-match Ireland series",
+    "desc": "Rahmat Shah has been appointed as the new Afghanistan ODI captain after Hashmatullah Shahidi resigned from his position ahead of the five-match series against Ireland, starting August 5. Notably, the 33-year-old batter has served as...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/afghanistan-announce-new-odi-captain-reveals-squad-for-three-match-ireland-series-2026-07-24-1049335",
+    "time": "2026-07-24T15:20:52.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "5 underrated Badminton stars to keep an eye on at BWF World Championships 2026",
     "desc": "The BWF World Championships have long been a stage where underdogs announce themselves to the world. Although the spotlight usually falls on the biggest names, every edition has produced unexpected breakthroughs from young challengers. With...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/mukesh-kumar-and-akash-deep-appointed-dsp-cm-samrat-choudhary-to-present-appointment-letters-2026-07-24-1049266",
     "time": "2026-07-24T08:03:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mayank Yadav weighs in on his injury setbacks after sensational comeback for India",
-    "desc": "India pacer Mayank Yadav made his return to international cricket as the Men in Blue took on Zimbabwe in the first T20I of the ongoing three-game series. Following his debut in 2024, the fast bowler...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mayank-yadav-weighs-in-on-his-injury-setbacks-after-sensational-comeback-for-india-2026-07-24-1049257",
-    "time": "2026-07-24T07:13:37.000Z"
   }
 ];

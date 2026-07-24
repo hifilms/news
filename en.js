@@ -1,30 +1,183 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Student organisations slam Pawan Kalyan’s remarks against protests over NEET paper leak",
-    "desc": "They have demanded that the Deputy Chief Minster withdraw his comments and apologise to the students, and criticised the detention of student leaders at several places and excessive use of force by the police in Rajamahendravaram",
-    "img": "https://th-i.thgim.com/public/incoming/imrbzz/article71262484.ece/alternates/LANDSCAPE_1200/DSC_1264.JPG",
+    "title": "Three chemical parks to be set up under BHAVYA-Rasayan scheme",
+    "desc": "The Union Cabinet approved the BHAVYA-Rasayan scheme for three dedicated chemical parks. This initiative has a financial outlay of Rs 3,030 crore for infrastructure development. The scheme will run for five years, promoting chemical industry growth and competitiveness. It aims to create an environment-friendly ecosystem with centralized waste management facilities. This development is expected to generate employment and contribute to economic growth.",
+    "img": "https://static.toiimg.com/photo/msid-132610005,imgsize-189761.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/three-chemical-parks-to-be-set-up-under-bhavya-rasayan-scheme/articleshow/132609993.cms",
+    "time": "2026-07-24T16:09:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Will treasure this': Jos Buttler reveals special gift from Rohit Sharma",
+    "desc": "Jos Buttler received a signed Team India jersey from Rohit Sharma. He expressed admiration for the Indian opener, calling him a favourite player. Rohit Sharma scored a century in the series decider at Lord's. He finished as India's leading run-scorer in the ODI series. Rohit Sharma remains one of cricket's greatest ODI batters.",
+    "img": "https://static.toiimg.com/photo/msid-132609762,imgsize-184304.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/will-treasure-this-jos-buttler-reveals-special-gift-from-rohit-sharma-after-india-england-odi-series/articleshow/132609741.cms",
+    "time": "2026-07-24T15:53:35.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Israeli military kills four Palestinians after settler killed in West Bank",
+    "desc": "Two other Israelis and four more Palestinians were wounded, health officials said, and the Israeli military announced it was preparing for an “extensive” counterterror operation in the West Bank, with troops surrounding the town of Nablus",
+    "img": "https://th-i.thgim.com/public/incoming/1efkk4/article71263488.ece/alternates/LANDSCAPE_1200/Israel_Palestinians_46492.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/student-organisations-slam-pawan-kalyans-remarks-against-protests-over-neet-paper-leak/article71262212.ece",
-    "time": "2026-07-24T13:20:40.000Z"
+    "url": "https://www.thehindu.com/news/international/israeli-military-kills-four-palestinians-after-settler-killed-in-west-bank/article71263472.ece",
+    "time": "2026-07-24T15:52:10.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Karnataka’s Mines and Geology Department sets ₹11,000-crore revenue target; geologists to be assigned district-wise goals",
-    "desc": "With an annual revenue target of ₹11,000 crore for the current financial year, the Department of Mines and Geology will assign district-wise revenue and operational targets to geologists, Secretary of the MSME and Mines and Geology Department Rohini Sindhuri said",
-    "img": "https://th-i.thgim.com/public/incoming/20ynyx/article71262417.ece/alternates/LANDSCAPE_1200/_DSC8706.JPG",
+    "title": "'Have a heart': Sonam Wangchuk's wife slams critics after he ends 26-day hunger strike",
+    "desc": "Gitanjali Angmo defended her husband Sonam Wangchuk's hunger strike conclusion. He ended his 26-day fast after prolonged negotiations with Union ministers. Wangchuk stated the decision aimed to prevent potential violence across the nation. Meanwhile, the Cockroach Janata Party vows to continue its peaceful protests. They demand the education minister's resignation over the alleged NEET paper leak.",
+    "img": "https://static.toiimg.com/photo/msid-132609689,imgsize-1164279.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/have-a-heart-sonam-wangchuks-wife-slams-critics-after-he-ends-26-day-hunger-strike/articleshow/132609663.cms",
+    "time": "2026-07-24T15:45:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nolan's epic crosses $346M in first week",
+    "desc": "Christopher Nolan's The Odyssey is showing no signs of slowing down at the global box office. The epic action-adventure has earned an estimated $346 million worldwide in its first week, making it Christopher Nolan's biggest box office opening ever and one of the highest-grossing films of 2026. Made on a reported $250 million budget, the adaptation of Homer's epic poem recovered its production cost within just three days of release.",
+    "img": "https://static.toiimg.com/photo/msid-132609643,imgsize-75133.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/the-odyssey-box-office-christopher-nolans-epic-crosses-346-million-in-first-week-beats-oppenheimer-to-record-directors-biggest-opening/articleshow/132609553.cms",
+    "time": "2026-07-24T15:44:21.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ICICI Bank prices $1 billion debt at tighter spread",
+    "desc": "The bank set the ​coupon at 100 basis points over U.S. Treasuries, sharply ⁠lower the initial guidance of 130 basis points, for its first dollar debt sale in nearly nine years. The coupon works out to be ‌5.46%.",
+    "img": "https://th-i.thgim.com/public/incoming/wr3w1/article71263410.ece/alternates/LANDSCAPE_1200/2026-07-18T101633Z_1905004370_RC2YI0APFNQE_RTRMADP_3_ICICI-BANK-RESULTS.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/karnatakas-mines-and-geology-department-sets-11000-crore-revenue-target-geologists-to-be-assigned-district-wise-goals/article71262151.ece",
-    "time": "2026-07-24T13:04:48.000Z"
+    "url": "https://www.thehindu.com/news/international/icici-bank-prices-1-billion-debt-at-tighter-spread/article71263393.ece",
+    "time": "2026-07-24T15:41:44.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Wall Street inches higher as crude calms down; Dow jumps over 330 points, Nasdaq trades flat",
+    "desc": "Wall Street saw some relief as oil prices fell, but weekly losses continued. Investors weighed geopolitical tensions, new US tariffs, and the Federal Reserve's policy outlook. Major indices like the S&P 500 and Dow Jones Industrial Average posted gains on Friday. However, losses in technology firms like Micron and Broadcom capped broader market advances. Concerns over inflation and interest rates remain central to market sentiment.",
+    "img": "https://static.toiimg.com/photo/msid-132609589,imgsize-107654.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-stocks-today-wall-street-inches-higher-as-crude-calms-down-dow-jumps-over-330-points-nasdaq-trades-flat/articleshow/132609598.cms",
+    "time": "2026-07-24T15:38:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "How is Aamir Khan related to Hyder Ali Khan? Who is his step-brother? All you need to know",
+    "desc": "Actress Eva Grover detailed her marriage to Hyder Ali Khan, Aamir Khan's stepbrother. She accused him of forcing her into sexual acts and physical assault. Grover stated that Hyder Ali Khan now lives in poverty and struggles for basic necessities. She revealed his schizophrenia and the violence that began shortly after their wedding. Grover expressed sadness for his current difficult circumstances and his suffering.",
+    "img": "https://static.toiimg.com/photo/msid-132609389,imgsize-364467.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/how-is-aamir-khan-related-to-hyder-ali-khan-who-is-his-step-brother-who-was-earlier-married-to-actress-eva-grover-and-now-lives-in-a-chawl-heres-all-you-need-to-know/articleshow/132609324.cms",
+    "time": "2026-07-24T15:26:19.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Delhi High Court refuses to entertain PIL seeking NIA probe into CJP’s ‘Chalo Sansad’ march",
-    "desc": "A Bench of Chief Justice D. K. Upadhyaya and Justice Tejas Karia said the alleged incidents of vandalism were given the knowledge and notice of the authorities, who would take action according to the law",
-    "img": "https://th-i.thgim.com/public/incoming/ctpt7z/article71253259.ece/alternates/LANDSCAPE_1200/INDEX%20DELHI%20HIGH%20COURT%20%20DELHI%202025_09_04_21.jpg",
+    "title": "Health department uses fun games to instil healthy food habits in children in Kerala’s Alappuzha",
+    "desc": "The mass media education wing of the Alappuzha district health administration has devised three card games for children, focusing on healthy habits, food, and nutrition to encourage children to think about what they are eating and to guide them away from the path of obesity",
+    "img": "https://th-i.thgim.com/public/incoming/osebqw/article71263203.ece/alternates/LANDSCAPE_1200/PHOTO-2026-07-22-18-41-47.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Delhi/delhi-high-court-refuses-to-entertain-pil-seeking-nia-probe-into-cjps-chalo-sansad-march/article71262036.ece",
-    "time": "2026-07-24T12:55:02.000Z"
+    "url": "https://www.thehindu.com/news/national/kerala/health-department-uses-fun-games-to-instil-healthy-food-habits-in-children-in-keralas-alappuzha/article71261832.ece",
+    "time": "2026-07-24T15:21:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Officials tell GMR to finish pending works at Bhogapuram airport before Modi’s visit",
+    "desc": "Special Chief Secretary M.T. Krishna Babu inspected the site with Collector S. Ramsundar Reddy and Joint Collector S. Sedhu Madhavan; around 2,000 buses will be arranged and 6,000 private vehicles are expected on the day",
+    "img": "https://th-i.thgim.com/public/incoming/oiowf4/article71263313.ece/alternates/LANDSCAPE_1200/0014.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/officials-tell-gmr-to-finish-pending-works-at-bhogapuram-airport-before-modis-visit/article71260980.ece",
+    "time": "2026-07-24T15:18:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ravneet Singh Bittu resigns from Union Council of Ministers; President Murmu accepts resignation",
+    "desc": "President Droupadi Murmu accepted Ravneet Singh Bittu's resignation from the Union Council of Ministers. Bittu, a former Congress MP, joined the BJP earlier this year. He was inducted as a minister of state in June despite losing his election. Bittu is a grandson of former Punjab chief minister Beant Singh. His resignation's reason was not immediately announced by officials.",
+    "img": "https://static.toiimg.com/photo/msid-132609048,imgsize-94621.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ravneet-singh-bittu-resigns-from-union-council-of-ministers-president-murmu-accepts-resignation/articleshow/132608905.cms",
+    "time": "2026-07-24T15:09:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Lack of rain leads to wild elephants camping in human habitations in Kerala’s Munnar",
+    "desc": "The wild elephants typically retreat deep into the forest once the monsoon intensifies. However, this year, the herds have stayed near human habitations due to a scarcity of food and water deeper in the woods",
+    "img": "https://th-i.thgim.com/public/incoming/g9af89/article71263078.ece/alternates/LANDSCAPE_1200/80759_13_2_2025_17_48_17_1_PADAYAPPAVAGUVARAI.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/lack-of-rain-leads-to-wild-elephants-camping-in-human-habitations-in-keralas-munnar/article71262583.ece",
+    "time": "2026-07-24T15:00:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "RSS women's wing kicks off three-day national meet in Haryana",
+    "desc": "Rashtriya Sevika Samiti began its national executive meeting in Haryana with 500 representatives attending. The organization reviewed its past year's activities and service projects across the country. Volunteers organized various initiatives including training camps and social harmony interactions. Recent highlights included a route march in West Bengal and a conference in Delhi. The meeting continues until July 26, focusing on women's empowerment and nation-building efforts.",
+    "img": "https://static.toiimg.com/photo/msid-132608484,imgsize-1440054.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/rss-womens-wing-kicks-off-three-day-national-meet-in-haryana/articleshow/132608242.cms",
+    "time": "2026-07-24T14:38:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I'll work with him': Joshi reveals plans to develop Sooryavanshi's bowling",
+    "desc": "India's bowling coach Sunil Joshi wants attention on Vaibhav Sooryavanshi's batting achievements. Sooryavanshi became the youngest player to score a T20I fifty against Zimbabwe. Joshi also advised patience with emerging all-rounder Suryansh Shedge. He highlighted the bowling depth within the Indian squad. Ravi Bishnoi's run-up adjustment has yielded positive results for the spinner.",
+    "img": "https://static.toiimg.com/photo/msid-132608464,imgsize-130268.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/ill-work-with-him-sunil-joshi-reveals-plans-to-develop-vaibhav-sooryavanshis-bowling/articleshow/132608457.cms",
+    "time": "2026-07-24T14:37:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rakul Preet Singh reveals her first paycheque was Rs 5 lakh",
+    "desc": "Rakul Preet Singh revealed acting was not her initial career plan. She accidentally entered films while studying mathematics in college. The Rs 5 lakh offer for her first movie convinced her to accept. This experience made her realize her love for being on camera. She then pursued acting after completing her graduation.",
+    "img": "https://static.toiimg.com/photo/msid-132607907,imgsize-166147.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rakul-preet-singh-reveals-her-first-paycheque-was-rs-5-lakh-i-would-be-the-first-one-in-my-friend-group-to-have-a-car-hence-i-did-the-film/articleshow/132607872.cms",
+    "time": "2026-07-24T14:09:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Cabinet approves Ballari-Guntakal rail project to boost freight, passenger connectivity",
+    "desc": "The Union cabinet approved a Rs 1,264-crore railway project for new lines. This initiative will enhance freight movement and passenger connectivity across key states. The project aims to ease congestion and improve logistics efficiency significantly. Additional rail capacity will facilitate smoother movement of passengers and goods. This expansion is scheduled for completion by 2028-29.",
+    "img": "https://static.toiimg.com/photo/msid-132607408,imgsize-115190.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/cabinet-approves-rs-1264-crore-ballari-guntakal-rail-project-to-boost-freight-passenger-connectivity/articleshow/132607267.cms",
+    "time": "2026-07-24T13:38:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Amaal accuses Tanishk of 'Saiyaara' song, makes 'me too' allegations on him",
+    "desc": "Music composer Amaal Mallik has publicly accused Tanishk Bagchi of stealing songs and destroying original compositions. Mallik alleged that Bagchi uses paid public relations to promote himself and his work. He also accused Bagchi of securing film projects by taking songs from other artists. Furthermore, Mallik made serious allegations regarding Bagchi's conduct towards female singers. These accusations follow a royalty dispute between the two composers.",
+    "img": "https://static.toiimg.com/photo/msid-132607382,imgsize-290163.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amaal-mallik-accuses-tanishk-bagchi-of-stealing-saiyaara-song-after-rs-8-lakh-royalty-claim-makes-me-too-allegation-should-i-mention-what-you-have-done-to-female-singers-me-three-ho-jayega/articleshow/132607302.cms",
+    "time": "2026-07-24T13:37:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why Tyrell Fortune believes his strongest weapon never changed",
+    "desc": "A decorated wrestler before entering mixed martial arts, Tyrell Fortune believes the qualities that shaped his career remain his biggest strength inside the UFC. Following a confidence-boosting debut on short notice, the American heavyweight heads into his second fight with a full training camp, convinced he belongs among the division's elite and determined to move another step closer to the title.",
+    "img": "https://static.toiimg.com/photo/msid-132607373,imgsize-557446.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/mma/news/from-wrestling-mats-to-the-octagon-why-tyrell-fortune-believes-his-strongest-weapon-never-changed/articleshow/132607361.cms",
+    "time": "2026-07-24T13:37:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ahead of Mirzapur release, Ravi Kishan says censorship is necessary",
+    "desc": "Actor-politician Ravi Kishan spoke about film censorship issues. He believes filmmakers must be responsible and avoid hurting communities. Kishan stated he would question any censorship decisions on his own work. He noted censorship has a long history in India, citing past examples. His upcoming film Mirzapur – The Movie faces criticism for expletives.",
+    "img": "https://static.toiimg.com/photo/msid-132606750,imgsize-251803.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amid-satluj-row-ravi-kishan-says-censorship-is-necessary-ahead-of-mirzapur-release-we-must-be-answerable-to-society-because-it-affects-the-youth/articleshow/132606761.cms",
+    "time": "2026-07-24T13:10:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'There are Chinese projects on territories in J&amp;K that belong to India': MEA objects to illegal occupation",
+    "desc": "Ministry of External Affairs accused China of violating sovereignty and illegally occupying Indian territories. The government objected to Chinese projects in Jammu and Kashmir and Ladakh. This statement follows a meeting between Indian and Chinese foreign ministers. Chinese officials highlighted positive developments in bilateral relations and cooperation. Both nations aim to maintain peace and explore coexistence as major powers.",
+    "img": "https://static.toiimg.com/photo/msid-132606501,imgsize-592159.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/there-are-chinese-projects-on-territories-in-jk-that-belong-to-india-mea-objects-to-illegal-occupation/articleshow/132606465.cms",
+    "time": "2026-07-24T13:07:05.000Z"
   },
   {
     "cat": "Sports",
@@ -43,15 +196,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/instagram-vs-whatsapp-how-cjp-protests-are-different-and-why-that-matters/articleshow/132605420.cms",
     "time": "2026-07-24T12:44:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Municipality chairperson moves Madras High Court seeking CBI probe into fraudulent registration",
-    "desc": "Though departmental action was initiated against some Registration Department officials, the role of the supervisory officers and other public servants involved in the processing and registration of the document had not been effectively examined, she says",
-    "img": "https://th-i.thgim.com/public/incoming/ax1h49/article71262321.ece/alternates/LANDSCAPE_1200/9871_28_7_2024_13_4_51_3_MADRASHIGHCOURTMADURAIBENCH____01.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/palani-math-land-row-municipality-chairperson-moves-madras-high-court-seeking-cbi-probe-into-fraudulent-registration/article71258971.ece",
-    "time": "2026-07-24T12:38:10.000Z"
   },
   {
     "cat": "Politics",
@@ -118,15 +262,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Chevireddy Bhaskar Reddy allowed U.S. trip on ₹2 lakh bond; must return by August 7",
-    "desc": "Special Judge L. Tejovathi permitted the YSRCP leader to travel between July 27 and August 4, on condition that he appear before the court by August 7, surrender his passport on return and deposit ₹1 lakh as passport security",
-    "img": "https://th-i.thgim.com/public/incoming/ix5spw/article70308118.ece/alternates/LANDSCAPE_1200/10745_23_8_2024_20_26_16_1_IMG_20240823_WA0030.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/chevireddy-bhaskar-reddy-allowed-us-trip-on-2-lakh-bond-must-return-by-august-7/article71260774.ece",
-    "time": "2026-07-24T12:14:36.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "'You do whatever you like?' Delhi HC pulls up EC for deploying school teachers for BLO duties during SIR",
     "desc": "The Delhi high court questioned the Election Commission regarding teacher deployments. The court sought legal authority for compelling teachers to perform election duties. The commission cited Article 324 and the Representation of the People Act. Teachers are reportedly engaged during holidays and non-teaching hours. The court questioned the mandatory nature of these election assignments.",
     "img": "https://static.toiimg.com/photo/msid-132605048,imgsize-1358543.cms",
@@ -151,15 +286,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/apurva-mukhija-says-she-felt-suicidal-after-samay-rainas-indias-got-latent-controversy-i-would-have-killed-myself/articleshow/132604819.cms",
     "time": "2026-07-24T11:55:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Rahul shows pellet gun injuries of protester to slam Centre, says 'stop assaulting our students'",
-    "desc": "This is the future of our country. This has happened to thousands of youth, they have been shot at with pellet guns and have been beaten up in lathi-charge. What are they doing? They are doing peaceful protests, says Congress leader Rahul Gandhi",
-    "img": "https://th-i.thgim.com/public/incoming/hwlzmq/article71262048.ece/alternates/LANDSCAPE_1200/PTI07_24_2026_000250A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/rahul-shows-pellet-gun-injuries-of-protester-to-slam-centre-says-stop-assaulting-our-students/article71262037.ece",
-    "time": "2026-07-24T11:44:20.000Z"
   },
   {
     "cat": "Sports",
@@ -189,24 +315,6 @@ const newsData_en = [
     "time": "2026-07-24T11:14:03.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ED attaches fresh ₹1,906 crore worth assets of Gameskraft",
-    "desc": "The ED said Gameskraft and RummyTime Technologies were engaged in operating online Real Money Games (RMGs) through the said apps and they had a user base of around 3 crore players primarily in the States of Telangana, Andhra Pradesh and Tamil Nadu.",
-    "img": "https://th-i.thgim.com/public/news/national/kpedai/article71261991.ece/alternates/LANDSCAPE_1200/IMG_DK_Shivakumar_at_ED__2_1_K3B402HT.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/ed-attaches-fresh-1906-crore-worth-assets-of-gameskraft/article71261978.ece",
-    "time": "2026-07-24T11:07:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tamil Nadu CM Vijay proposes meeting with Karnataka counterpart D.K. Shivakumar over Cauvery",
-    "desc": "Even after accounting for the deficient rainfall during the current Southwest monsoon, Tamil Nadu is estimated to be entitled to receive at least three thousand million cubic feet (tmc ft.) more, according to a representative of the State government",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/o5zmms/article71261762.ece/alternates/LANDSCAPE_1200/Untitled%20design.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-proposes-meeting-with-karnataka-counterpart-dk-shivakumar-over-cauvery/article71261413.ece",
-    "time": "2026-07-24T10:55:59.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Raj Kapoor mortgaged wife Krishna's gold bangles to make 'Mera Naam Joker'",
     "desc": "Raj Kapoor mortgaged his wife's bangles for his ambitious film Mera Naam Joker. He refused Manoj Kumar's suggestion to edit the movie's lengthy runtime. The filmmaker remained passionate about his vision despite significant financial risks. Mera Naam Joker's box office failure led to substantial debt for Raj Kapoor. His dedication mirrored Manoj Kumar's commitment to his own film Kranti.",
@@ -223,15 +331,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/web-series/news/english/jason-sudeikis-opens-up-on-almost-rejecting-ted-lasso-season-4-i-needed-it-as-much-as-other-people-do/articleshow/132604500.cms",
     "time": "2026-07-24T10:45:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Substantial risk of misuse by anti-national elements': Government directs GitHub to take down Bluetooth-based Bitchat app",
-    "desc": "India's cybercrime center has asked GitHub to remove the Bitchat application. This app allows anonymous, offline messaging which raises security concerns for the government. Officials believe it could be misused by terrorists and criminal groups for coordination. The notice cites potential violations of the Information Technology Act. This action follows the use of similar apps during recent Delhi protests.",
-    "img": "https://static.toiimg.com/photo/msid-132603048,imgsize-53308.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/substantial-risk-of-misuse-by-anti-national-elements-govt-directs-github-to-take-down-bluetooth-based-bitchat-app/articleshow/132602864.cms",
-    "time": "2026-07-24T10:41:15.000Z"
   },
   {
     "cat": "Entertainment",
@@ -268,15 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-practiced-yoga-for-two-years-to-get-close-to-the-teachings-of-lord-ram-for-ramayana-understanding-it-was-more-important-than-the-superficial-transformation/articleshow/132602156.cms",
     "time": "2026-07-24T10:12:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Chalo Sansad' march: Delhi HC refuses to hear plea seeking NIA, CBI probe into July 20 protest",
-    "desc": "The Delhi High Court declined a PIL seeking a probe into a recent protest march. Authorities already know about the incident and can act if needed. The Cockroach Janta Party continues talks with the government over NEET examination demands. Their key demand for the Union Education Minister's resignation remains non-negotiable. Further discussions are scheduled as the NEET paper leak fallout continues.",
-    "img": "https://static.toiimg.com/photo/msid-132602247,imgsize-292230.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/chalo-sansad-march-delhi-hc-refuses-to-hear-plea-seeking-nia-cbi-probe-into-july-20-protest/articleshow/132602149.cms",
-    "time": "2026-07-24T10:09:44.000Z"
   },
   {
     "cat": "Entertainment",
@@ -361,7 +451,7 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Aamir Khan's half brother Hyder forced ex-wife to sleep with directors to get money",
+    "title": "Aamir Khan's step brother Hyder forced ex-wife to sleep with directors to get money",
     "desc": "Actress Eva Grover detailed allegations against her former husband, Hyder Ali Khan. She claimed he pressured her for financial stability through intimate relationships with directors. Grover stated she sacrificed personal finances and career opportunities for their family. She also revealed Khan suffered from schizophrenia and their marriage became abusive. Grover expressed sympathy for Khan's current difficult and solitary circumstances.",
     "img": "https://static.toiimg.com/photo/msid-132599860,imgsize-241851.cms",
     "src": "indiatimes.com",
@@ -396,24 +486,6 @@ const newsData_en = [
     "time": "2026-07-24T07:45:03.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Jana Nayagan' BO day 2 (Live): Vijay's film reaches another milestone",
-    "desc": "Jana Nayagan's second day collections reached Rs 49 crore India gross. The film is performing very well with packed shows nationwide. Tamil Nadu remains the biggest market for Vijay's farewell film. Weekend collections are expected to boost the movie's earnings further. Audiences continue to throng theaters for the popular actor's movie.",
-    "img": "https://static.toiimg.com/photo/msid-132599462,imgsize-263914.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-box-office-collection-day-2-live-thalapathy-vijays-farewell-film-reaches-another-milestone-in-india-looking-at-strong-weekend/articleshow/132599422.cms",
-    "time": "2026-07-24T07:41:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Spider-Man 4 true to what young people are going through'",
-    "desc": "Tom Holland returns as Spider-Man in 'Brand New Day' exploring Peter Parker's loneliness. The film delves into the dangers of living a life alone without community support. Jacob Batalon and Zendaya discuss rebuilding the trio's fractured relationships after the spell. MJ's personality shifts as she adopts Peter's former optimism. This new installment directly confronts warnings Peter received in the previous film.",
-    "img": "https://static.toiimg.com/photo/msid-132597511,imgsize-106034.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-holland-reveals-spider-man-brand-new-day-explores-peter-parkers-darkest-chapter-its-so-true-to-what-young-people-are-going-through/articleshow/132597334.cms",
-    "time": "2026-07-24T07:39:10.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Historic first at Commonwealth Games as Braille medals debut in Glasgow",
     "desc": "Glasgow 2026 will introduce historic medals with braille and tactile elements for visually impaired athletes. This innovation ensures a more inclusive experience for all competitors during the games. The medals feature a unique Reuleaux triangle shape inspired by Glasgow's coat of arms. Engraved patterns and textured finishes reflect local landmarks and Scottish heritage. This marks a significant step towards greater accessibility in the Commonwealth Games.",
@@ -421,15 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/historic-first-at-commonwealth-games-as-braille-medals-debut-in-glasgow/articleshow/132598902.cms",
     "time": "2026-07-24T07:20:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ranbir Kapoor opens up about pressure of playing lord Rama in 'Ramayana', calls it a blessing",
-    "desc": "Ranbir Kapoor expressed both his initial apprehension and subsequent appreciation for portraying Lord Rama, emphasizing the timeless significance of the epic and its representation of human resilience. Co-star Yash commended Kapoor's approach, highlighting his humility and commitment to the demanding character. Meanwhile, the trailer launch for 'Ramayana' has been delayed due to an exciting new partnership, with the film's first part slated for release this November.",
-    "img": "https://static.toiimg.com/photo/msid-132598994,imgsize-55216.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/will-i-be-able-to-do-this-ranbir-kapoor-opens-up-about-pressure-of-playing-lord-rama-in-ramayana-calls-it-a-blessing-and-moral-responsibility/articleshow/132598974.cms",
-    "time": "2026-07-24T07:17:20.000Z"
   },
   {
     "cat": "World",
@@ -495,24 +558,6 @@ const newsData_en = [
     "time": "2026-07-24T04:24:54.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'My last match was World Cup final': Otamendi announces international retirement",
-    "desc": "Argentina defender Nicolas Otamendi has retired from international football after a 17-year career. The 38-year-old made 139 appearances, winning the 2022 FIFA World Cup and two Copa America titles. His final match was Argentina's 1-0 World Cup final defeat to Spain. Otamendi thanked Argentina in an emotional farewell, saying he leaves \"with my head held high\".",
-    "img": "https://static.toiimg.com/photo/msid-132595106,imgsize-103888.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/my-last-match-was-world-cup-final-argentina-defender-nicolas-otamendi-announces-international-retirement/articleshow/132594987.cms",
-    "time": "2026-07-24T02:47:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jos Buttler scripts history, surpasses Chris Gayle on all-time T20 run charts",
-    "desc": "Jos Buttler has climbed to second on the all-time T20 run charts. He surpassed Chris Gayle during a recent match at Lord's. Buttler now trails Kieron Pollard by a narrow margin for the top spot. This milestone follows a period of strong batting form for England's star. He has rediscovered his touch in recent tournaments and matches.",
-    "img": "https://static.toiimg.com/photo/msid-132594956,imgsize-186490.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/jos-buttler-scripts-history-surpasses-chris-gayle-on-all-time-t20-run-charts/articleshow/132594938.cms",
-    "time": "2026-07-24T02:31:55.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Onida plans comeback with new categories",
     "desc": "Launching its flagship 100-inch QD Mini LED television, the CEO and managing director of Ondia Electronics Limited, Gunjan Shrivastava said that the company has also decided to keep its iconic horned devil and will come up with a new advertisement approach for devil in next few months",
@@ -541,39 +586,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Chess legend Anand steps in as FIDE interim president after EU sanctions sideline Dvorkovich",
-    "desc": "FIDE President Arkady Dvorkovich has voluntarily stepped aside after being sanctioned by the European Union over Russia's invasion of Ukraine. Calling the sanctions \"unlawful and unfair\", he said he would challenge them legally. Deputy President Viswanathan Anand will serve as interim president. Meanwhile, India named its squads for the FIDE Chess Olympiad, with D Gukesh and Koneru Humpy leading the teams.",
-    "img": "https://static.toiimg.com/photo/msid-132594667,imgsize-453240.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/chess-legend-viswanathan-anand-steps-in-as-fide-interim-president-after-eu-sanctions-sideline-arkady-dvorkovich/articleshow/132594550.cms",
-    "time": "2026-07-24T02:00:34.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Father's 'Govardhan Parikrama' in Mathura pays off as Mayank Yadav makes a fiery return",
     "desc": "Two years after injuries threatened to derail his career, Mayank Yadav announced his return with a fiery 2 for 18 against Zimbabwe. While his father prayed for his fitness during the Govardhan Parikrama in Mathura, the Delhi pacer touched 149 kph and reminded everyone why the Indian cricket board never stopped believing in him.",
     "img": "https://static.toiimg.com/photo/msid-132594289,imgsize-91672.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/fathers-govardhan-parikrama-in-mathura-pays-off-as-mayank-yadav-makes-a-fiery-return/articleshow/132594270.cms",
     "time": "2026-07-24T01:13:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Not up to the standard': Zimbabwe captain Raza blames pitch for India defeat",
-    "desc": "Zimbabwe captain Sikandar Raza criticised the pitch after his side's seven-wicket loss to India in the first T20I, saying early moisture made batting difficult and the surface became easier later. He hoped for fairer conditions in the next match. Raza also praised Wessly Madhevere and Tadiwanashe Marumani for helping Zimbabwe recover from 32/4 to post a competitive total.",
-    "img": "https://static.toiimg.com/photo/msid-132594300,imgsize-105103.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/not-up-to-the-standard-zimbabwe-captain-sikandar-raza-blames-pitch-for-india-defeat/articleshow/132594292.cms",
-    "time": "2026-07-24T01:10:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Where is Patidar?'",
-    "desc": "Hanuma Vihari questioned India's decision to leave Rajat Patidar out of the Zimbabwe T20I squad despite his strong IPL 2026 season and leadership with RCB. He also criticised the omissions of Kuldeep Yadav and Sanju Samson, saying the squad lacked right-handed batters. Meanwhile, India beat Zimbabwe by seven wickets in the first T20I to take a 1-0 series lead.",
-    "img": "https://static.toiimg.com/photo/msid-132594244,imgsize-204164.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/where-is-rajat-patidar-former-india-batter-questions-selectors-over-zimbabwe-t20i-squad/articleshow/132594236.cms",
-    "time": "2026-07-24T00:53:57.000Z"
   },
   {
     "cat": "Sports",
@@ -610,15 +628,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/tennis/justice-mittal-rebukes-aita-interim-ecs-decision-to-appoint-observer/article71258770.ece",
     "time": "2026-07-23T17:06:56.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "IndiGo offers crisis management plan to settle CCI probe into flight disruption case",
-    "desc": "IndiGo has proposed commitments to the Competition Commission of India. These proposals aim to address concerns over past flight disruptions and unfair practices. The airline will establish a crisis management group and a passenger grievance mechanism. IndiGo also offered to temporarily hand over airport slots during major disruptions. The CCI is now seeking public comments on these proposed commitments.",
-    "img": "https://static.toiimg.com/photo/msid-132587746,imgsize-1127965.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indigo-offers-crisis-management-plan-to-settle-cci-probe-into-flight-disruption-case/articleshow/132587625.cms",
-    "time": "2026-07-23T16:54:07.000Z"
   },
   {
     "cat": "World",
@@ -664,15 +673,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/hundreds-hospitalised-in-japan-heatwave-disaster/article71259210.ece",
     "time": "2026-07-23T16:10:22.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Wall Street trades in red as oil tops $100 per barrel; Nasdaq tumbles over 2%, Dow slips over 600 points",
-    "desc": "Major stock markets opened lower as Big Tech's AI spending raised investor concerns. Alphabet and Tesla shares fell significantly after their latest quarterly earnings reports. Oil prices surged past one hundred dollars per barrel amid Middle East tensions. This geopolitical situation also increased expectations for a potential Federal Reserve interest rate hike. Weak market breadth indicated more declining stocks than advancing ones across exchanges.",
-    "img": "https://static.toiimg.com/photo/msid-132586530,imgsize-122930.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/us-stocks-today-wall-street-trades-in-red-as-oil-tops-100-per-barrel-nasdaq-tumbles-over-2-dow-slips-over-600-points/articleshow/132586537.cms",
-    "time": "2026-07-23T15:46:28.000Z"
   },
   {
     "cat": "Entertainment",
@@ -891,12 +891,12 @@ const newsData_en = [
     "time": "2026-07-21T18:24:57.000Z"
   },
   {
-    "cat": "Business",
-    "title": "India-U.K. FTA creates predictability for businesses on both sides: City of London policy chief",
-    "desc": "The India-U.K. trade deal came into effect on July 15, 2026. In a written interview with The Hindu, Chris Hayward, Policy Chairman of the City of London Corporation, the U.K.’s financial and commercial hub, discusses the implications of the agreement, including what it means for manufacturing, infrastructure and financial services, as well as how investors can navigate changes in U.K. political leadership.",
-    "img": "https://th-i.thgim.com/public/incoming/6wm4ci/article71250730.ece/alternates/LANDSCAPE_1200/policy-chair-chris-hayward.x8d2accec.jpg",
+    "cat": "Entertainment",
+    "title": "Balakrishna tears knee muscle in fall on ‘NBK 111’ sets; to undergo minor surgery",
+    "desc": "The actor slipped during an action sequence on the sets of ‘NBK 111’ at the Kakinada deep-sea port and tore a muscle in his knee; director Gopichand Malineni said he needs minor surgery and asked fans not to worry",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/asgitt/article69671065.ece/alternates/LANDSCAPE_1200/Nandamuri%20Balakrishna%20Gopichandh%20Malineni%20NBK%20111.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/opinion/interview/india-uk-fta-creates-predictability-for-businesses-on-both-sides-city-of-london-policy-chief/article71248657.ece",
-    "time": "2026-07-21T16:37:56.000Z"
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/balakrishna-tears-knee-muscle-in-fall-on-nbk-111-sets-to-undergo-minor-surgery/article71248680.ece",
+    "time": "2026-07-21T10:34:19.000Z"
   }
 ];
