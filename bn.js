@@ -1,5 +1,41 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "মেঝেতে রক্তাক্ত পড়ে, জেরুজালেমে রহস্যমৃত্যু ভারতীয়ের! পূর্বপরিকল্পিত খুন? যিশুক্ষেত্রে আতঙ্কের কালো ছায়া",
+    "desc": "ভারতীয় শ্রমিকের রহস্যমৃত্যু ঘিরে চাঞ্চল্য। জেরুজালেমের কাটামন এলাকার এক অ্যাপার্টমেন্টে ৪০ বছর বয়সি এক ভারতীয় নাগরিকের রক্তাক্ত দেহ উদ্ধার করে পুলিস। খুনের অভিযোগে ইতিমধ্যেই এক সন্দেহভাজনকে গ্রেফতার করা হয়েছে। মৃতের পরিচয় প্রকাশ করেনি ইজরায়েল প্রশাসন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/lot-of-blood-surrounding-indian-worker-found-dead-at-jerusalems-katamon-flat-israeli-man-held_663816.html ",
+    "time": "2026-07-24T10:20:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "বিজয়ের কেরিয়ারের শেষ ছবি দেখতে গিয়ে অনুরাগীদের ভিড়ে ঘেরাও 'প্রেমিকা' তৃষা! ভাইরাল ভিডিয়ো",
+    "desc": "বিজয়ের আগের ব্লকবাস্টার ছবি ‘লিও’ (৬০৬ কোটি) কিংবা ‘গোট’ (৪৫৮ কোটি)-এর বিশ্বব্যাপী বক্স অফিস রেকর্ড কি ভাঙতে পারবে ‘জন নায়গন’? ছবিটির আবেগ আর অগ্রিম টিকিট বিক্রির ঝড় দেখে ট্রেড অ্যানালিস্টদের ধারণা—বিজয় তার অভিনয় জীবনের বিদায়লগ্নে এক নতুন ইতিহাস গড়তে চলেছেন!",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/trisha-arrives-at-chennai-theatre-to-watch-vijays-jana-nayagan-viral-video_663812.html ",
+    "time": "2026-07-24T09:43:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'বিক্ষোভে যোগ দিলে আইনি ব্যবস্থা নেওয়া হতে পারে', পড়ুয়া-শিক্ষকদের উদ্দেশে বলল DU! পালটা হুঁশিয়ারি রাহুলের",
+    "desc": "বিশ্ববিদ্যালয় প্রশাসন তাদের শিক্ষক ও শিক্ষার্থীদের কোনও ধরনের অননুমোদিত বা বেআইনি প্রতিবাদ-বিক্ষোভে অংশ না নেওয়ার জন্য একটি বিশেষ নির্দেশিকা জারি করেছে। স্পষ্ট সতর্ক করে বলা হয়েছে, \"মনে রাখবেন, দেশের সর্বোচ্চ আদালতের নির্দেশ লংঘন করে যন্তর মন্তরে যে কোনও বেআইনি জমায়েত বা বিক্ষোভে অংশ নিলে আইনি ব্যবস্থা নেওয়া হতে পারে।\"",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/du-warns-students-faculty-that-protest-at-jantar-mantar-may-invite-legal-action_663808.html ",
+    "time": "2026-07-24T09:16:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "আন্দোলনের নামে হিংসা ছড়ালেই কেড়ে নেব পাসপোর্ট: ককরোচের প্রতিবাদী পড়ুয়াদের মারাত্মক হুমকি কেন্দ্রের",
+    "desc": "এদিকে আন্দোলনকারীদের শান্ত থাকার আহ্বান জানিয়েছেন সোনম ওয়াংচুক। এক্স হ্য়ান্ডেল পোস্টে তাঁর বার্তা, 'শান্তি এবং কেবল শান্তিই আমার পথ…যন্তর মন্তরে যখন আন্দোলন শান্তিপূর্ণভাবে চলছে, তখন এই শান্তিপূর্ণ প্রতিবাদের সুযোগ নিয়ে কিছু লোক হিংসা ছড়ানোর চেষ্টা করছে-- এ কথা জেনে আমি অত্যন্ত ব্যথিত।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/cjp-protest-in-delhi-police-eye-passport-cancellation-for-accused-in-violence_663800.html ",
+    "time": "2026-07-24T08:33:40.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "মাস্টারস্ট্রোক প্রযোজকের! পিছোল ৪,০০০ কোটির ‘রামায়ণ’-এর ট্রেলার রিলিজ, নেপথ্য কারণ কী?",
     "desc": "পিছিয়ে গেল ৪,০০০ কোটি টাকার বাজেটের ভারতীয় সিনেমার সবচেয়ে ব্যয়বহুল ছবি নিতেশ তিওয়ারির ‘রামায়ণ’-এর ট্রেলার। সনি পিকচার্সের সঙ্গে যুক্ত হয়ে বিশ্বমঞ্চে হলিউড স্কেলে ধামাকা দিতেই প্রযোজক নমিত মালহোত্রার এই সিদ্ধান্ত। এ আর রহমান ও হ্যানস জিমারের সুরসঙ্গীতে রণবীর-যশ অভিনীত ছবিটির প্রথম পর্ব মুক্তি পাবে ২০২৬-এর দিওয়ালিতে।",
@@ -88,33 +124,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/supreme-court-will-intervene-if-nearest-metro-station-is-not-reopened-by-afternoon-cji_663696.html ",
     "time": "2026-07-23T10:30:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘সততা নেই, ফায়দার রাজনীতি!’ রাহুলদের ধর্নাকে তুলোধনা সোনামের স্ত্রী-র",
-    "desc": "সোনাম ওয়াংচুকের স্ত্রী গীতাঞ্জলি অঙ্গমো প্রধানমন্ত্রী ভবনের সামনে রাহুল গান্ধীর আচমকা বিক্ষোভকে \"আন্তরিকতাহীন\" ও \"রাজনৈতিক ফায়দা লোটার চেষ্টা\" বলে কড়া সমালোচনা করেছেন। তাঁর মতে, রাজনৈতিক ক্ষমতা জাহির না করে কংগ্রেসের উচিত ছিল যন্তর মন্তরে আন্দোলনরত শিক্ষার্থীদের পাশে গিয়ে দাঁড়ানো।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/sonam-wangchuks-wife-slams-rahul-gandhis-protest-near-pms-house-calls-it-insincere_663694.html ",
-    "time": "2026-07-23T09:58:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "সিজেপি আন্দোলনে ছাত্রীকে চড় মেরেছিলেন যে পুলিস অফিসার, যন্তর মন্তর থেকে সরানো হল তাঁকে! বিগ!",
-    "desc": "অভিযুক্ত পুলিস আধিকারিক যিনি দিল্লি পুলিসের উত্তর-পূর্ব জেলার অতিরিক্ত ডেপুটি কমিশনার অফ পুলিস (অ্যাডিশনাল ডিসিপি) পদে কর্মরত। ২০ জুলাই নিট (NEET) পরীক্ষা সংক্রান্ত অনিয়মের প্রতিবাদে এবং কেন্দ্রীয় শিক্ষামন্ত্রী ধর্মেন্দ্র প্রধানের পদত্যাগের দাবিতে হাজার হাজার সিজেপি সমর্থক যন্তর মন্তরে জড়ো হয়ে সংসদ চলো মিছিল শুরু করলে সন্দীপ লাম্বাকে ওই মহিলা বিক্ষোভকারীকে চড় মারতে দেখা গিয়েছিল।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/delhi-cop-who-slapped-woman-during-cjp-protest-removed-from-jantar-mantar_663663.html ",
-    "time": "2026-07-23T09:21:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'সো সো প্রাউড'! সিজেপি'র জন্য় খুলে দেওয়া হল কফিশপের দরজা! নিখরচায় জল আশ্রয় ফার্স্ট-এইড",
-    "desc": "'ব্লু টোকাই কফি রোস্টার' তাদের আউটলেট খুলে দিয়েছে সিজেপি'র আন্দোলনকারীদের জন্য। 'সংসদ চলো' আন্দোলনে যাঁরা আহত হচ্ছেন তাঁদের প্রাথমিক চিকিৎসা দেওয়া, আন্দোলনের মধ্যে বিশ্রাম নিতে দেওয়া, তাঁদের জল খেতে দেওয়া-- এই সব পরিষেবা দিয়ে তাঁরা রীতিমতো গর্বিত।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/delhi-cafe-opens-to-cjp-blue-tokai-coffee-roasters-outlet-opens-to-cjp-to-help-cjp-march_663656.html ",
-    "time": "2026-07-23T08:00:28.000Z"
   },
   {
     "cat": "Entertainment",
@@ -340,15 +349,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/sonam-wangchuk-hunger-strike-day-18-neet-ug-protest-bollywood-support_662530.html ",
     "time": "2026-07-15T15:52:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘বেস্ট হাজব্যান্ড’ গোলস! দীপিকার ডেলিভারির পরেই পিতৃত্বকালীন ছুটিতে যাচ্ছেন রণবীর সিং",
-    "desc": "স্ত্রী দীপিকা পাড়ুকোনের পাশে থাকতে এবং সদ্যোজাত সন্তানের যত্নে মেগা ‘প্যাটার্নিটি লিভ’ নিতে চলেছেন বলিউড তারকা রণবীর সিং। তবে পিতৃত্বকালীন ছুটিতে যাওয়ার আগে, আগামী আগস্ট মাস থেকেই তিনি তাঁর পরবর্তী ছবি ‘প্রলয়’-এর শ্য়ুটিং শুরু করবেন। দীপাবলির পর থেকে বেশ কয়েক মাস রূপোলি পর্দা থেকে দূরে থাকবেন অভিনেতা।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/ranveer-singh-to-take-paternity-break-for-second-child-with-deepika-padukone_662382.html ",
-    "time": "2026-07-15T06:56:22.000Z"
   },
   {
     "cat": "World",

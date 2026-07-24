@@ -1,12 +1,219 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Tamil Nadu CM Vijay proposes meeting with Karnataka counterpart D.K. Shivakumar over Cauvery",
+    "desc": "Even after accounting for the deficient rainfall during the current Southwest monsoon, Tamil Nadu is estimated to be entitled to receive at least three thousand million cubic feet (tmc ft.) more, according to a representative of the State government",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/o5zmms/article71261762.ece/alternates/LANDSCAPE_1200/Untitled%20design.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-proposes-meeting-with-karnataka-counterpart-dk-shivakumar-over-cauvery/article71261413.ece",
+    "time": "2026-07-24T10:55:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Raj Kapoor mortgaged wife Krishna's gold bangles to make 'Mera Naam Joker'",
+    "desc": "Raj Kapoor mortgaged his wife's bangles for his ambitious film Mera Naam Joker. He refused Manoj Kumar's suggestion to edit the movie's lengthy runtime. The filmmaker remained passionate about his vision despite significant financial risks. Mera Naam Joker's box office failure led to substantial debt for Raj Kapoor. His dedication mirrored Manoj Kumar's commitment to his own film Kranti.",
+    "img": "https://static.toiimg.com/photo/msid-132603310,imgsize-238801.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/raj-kapoor-mortgaged-wife-krishnas-gold-bangles-to-make-mera-naam-joker-manoj-kumar-thought-the-film-was-long-and-wanted-to-edit-it/articleshow/132603312.cms",
+    "time": "2026-07-24T10:53:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Substantial risk of misuse by anti-national elements': Govt directs GitHub to take down Bluetooth-based Bitchat app",
+    "desc": "India's cybercrime center has asked GitHub to remove the Bitchat application. This app allows anonymous, offline messaging which raises security concerns for the government. Officials believe it could be misused by terrorists and criminal groups for coordination. The notice cites potential violations of the Information Technology Act. This action follows the use of similar apps during recent Delhi protests.",
+    "img": "https://static.toiimg.com/photo/msid-132603048,imgsize-53308.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/substantial-risk-of-misuse-by-anti-national-elements-govt-directs-github-to-take-down-bluetooth-based-bitchat-app/articleshow/132602864.cms",
+    "time": "2026-07-24T10:41:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhamaal 4' BO Day 15 [LIVE]: Targets Rs 140 crore India net",
+    "desc": "Ajay Devgn-led comedy, 'Dhamaal 4' continues its theatrical momentum after a solid second week. After crossing Rs. 136.65 crore India net by Day 14, the film has begun Day 15 of its box office run. Here's a detailed breakdown of its day-wise earnings, worldwide box office performance, next milestones, and whether it can sustain momentum despite competition from Christopher Nolan's 'The Odyssey'.",
+    "img": "https://static.toiimg.com/photo/msid-132602536,imgsize-125689.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhamaal-4-box-office-collection-day-15-live-ajay-devgn-and-arshad-warsi-film-eyes-rs-140-crore-india-net-as-third-weekend-momentum-begins-amid-a-global-haul-nearing-rs-190-crore/articleshow/132602517.cms",
+    "time": "2026-07-24T10:28:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "AMMK submits petition to T.N. Speaker seeking disqualification of Mannargudi MLA Kamaraj",
+    "desc": "On May 12, Mr. Dhinakaran expelled Mr. Kamaraj from the party for anti-party activities. The next day, the MLA voted in favour of the confidence motion moved by the Chief Minister C. Joseph Vijay-led government.",
+    "img": "https://th-i.thgim.com/public/incoming/8z3eh3/article71261804.ece/alternates/LANDSCAPE_1200/11658_9_5_2026_21_36_39_2__DSC1396.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/ammk-submits-petition-to-tn-speaker-seeking-disqualification-of-mannargudi-mla-kamaraj/article71261405.ece",
+    "time": "2026-07-24T10:20:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "HC slams police for failing to follow protocol in arrest of professor M.K. Ram",
+    "desc": "Court observes that guidelines issued by SC requiring to provide written grounds of arrest was not given to Dr. Ram, which led to his release by Special Court. This was affirmed by a report from Additional Director General of Police",
+    "img": "https://th-i.thgim.com/public/incoming/sfzc25/article71261644.ece/alternates/LANDSCAPE_1200/Nithin-Raj-caseGS4G9SQT8.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-bds-student-death-hc-slams-police-for-failing-to-follow-protocol-in-arrest-of-professor-mk-ram/article71261440.ece",
+    "time": "2026-07-24T10:16:52.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "10% US tariff on India: What it means for the country's exports",
+    "desc": "United States imposed a ten percent tariff on Indian goods, offering some relief. Economists believe the immediate impact on India's exports will be limited. Reducing dependence on single markets and broadening global reach is crucial. Certainty after months of shifting proposals is a positive development. Sustained export growth depends on competitiveness and diversification efforts.",
+    "img": "https://static.toiimg.com/photo/msid-132602302,imgsize-70446.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/10-us-tariff-on-india-what-it-means-for-the-countrys-exports/articleshow/132602122.cms",
+    "time": "2026-07-24T10:14:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranbir practiced Yoga for two years, meditated to understand teachings of Lord Ram",
+    "desc": "Ranbir Kapoor finds portraying Lord Rama a significant career challenge. He emphasizes mental and spiritual preparation over physical transformation for the role. The actor engaged in deep study and spiritual discipline for months. The film's trailer launch was postponed for a global unveiling later. This ambitious adaptation is set to release in two parts starting November.",
+    "img": "https://static.toiimg.com/photo/msid-132602282,imgsize-319814.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-practiced-yoga-for-two-years-to-get-close-to-the-teachings-of-lord-ram-for-ramayana-understanding-it-was-more-important-than-the-superficial-transformation/articleshow/132602156.cms",
+    "time": "2026-07-24T10:12:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Chalo Sansad' march: Delhi HC refuses to hear plea seeking NIA, CBI probe into July 20 protest",
+    "desc": "The Delhi High Court declined a PIL seeking a probe into a recent protest march. Authorities already know about the incident and can act if needed. The Cockroach Janta Party continues talks with the government over NEET examination demands. Their key demand for the Union Education Minister's resignation remains non-negotiable. Further discussions are scheduled as the NEET paper leak fallout continues.",
+    "img": "https://static.toiimg.com/photo/msid-132602247,imgsize-292230.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/chalo-sansad-march-delhi-hc-refuses-to-hear-plea-seeking-nia-cbi-probe-into-july-20-protest/articleshow/132602149.cms",
+    "time": "2026-07-24T10:09:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mittaganahalli landfill, sitting on 287 crore litres of leachate, leaks into Srinivasapura Lake",
+    "desc": "The landfill is located at a higher elevation than the lake, and the leachate flows through a natural waterway before entering drain lines created for a nearby private layout, which then joins a natural drain, ultimately ending at the lake inlet",
+    "img": "https://th-i.thgim.com/public/incoming/h95d21/article71253505.ece/alternates/LANDSCAPE_1200/IMG_8122.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/bangalore/mittaganahalli-landfill-sitting-on-287-crore-litres-of-leachate-leaks-into-srinivasapura-lake/article71249233.ece",
+    "time": "2026-07-24T09:59:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Avatar: Seven Havens’ gets release date; first look teaser unveiled",
+    "desc": "Seven Havens’ is the third original series in the popular fantasy franchise and tells the story of a young Earthbender, Pavi, who discovers she’s the new Avatar in a world that is coming to terms with newer devasations",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/kfvbfi/article71261715.ece/alternates/LANDSCAPE_1200/A%20still%20from%20%E2%80%98Avatar%20Seven%20Havens%E2%80%99%20",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/avatar-seven-havens-gets-release-date-first-look-teaser-unveiled/article71261660.ece",
+    "time": "2026-07-24T09:48:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tulika Maan provisionally suspended by NADA, set to miss Glasgow CWG",
+    "desc": "India's Commonwealth Games campaign has suffered a setback after Olympian and Birmingham 2022 silver medallist Tulika Maan was provisionally suspended by NADA for alleged whereabouts failures. The suspension rules her out of Glasgow 2026, with the heavyweight judoka facing anti-doping proceedings that could result in a ban of up to two years if upheld.",
+    "img": "https://static.toiimg.com/photo/msid-132601842,imgsize-105888.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/toi-exclusive-olympian-tulika-maan-provisionally-suspended-by-nada-set-to-miss-glasgow-cwg/articleshow/132601856.cms",
+    "time": "2026-07-24T09:48:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Beginning of accountability': Wangchuk says he extended fast by two days during negotiations",
+    "desc": "According to the post, Mr. Wangchuk ended his fast after 26 days upon getting assurance from the government and MPs of all political parties that the issue of accountability in the ‘failing’ examination system would be discussed in Parliament",
+    "img": "https://th-i.thgim.com/public/incoming/hmy132/article71261609.ece/alternates/LANDSCAPE_1200/Screenshot%202026-07-24%20142912.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/beginning-of-accountability-wangchuk-says-he-extended-fast-by-two-days-during-negotiations/article71261539.ece",
+    "time": "2026-07-24T09:45:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Kuttra Parambarai' to be adapted as Rs 50 crore web series by Sasikumar",
+    "desc": "Bharathiraja's dream project Kuttra Parambarai is finally coming alive as a web series. Director Sasikumar is expected to helm this ambitious adaptation of the acclaimed novel. The project, previously delayed by controversies, will now move forward with a significant budget. Rathna Kumar is working on the screenplay while Sathyaraj has a key role. This revival fulfills Bharathiraja's long-standing vision for the literary work.",
+    "img": "https://static.toiimg.com/photo/msid-132601474,imgsize-158500.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/bharathirajas-long-delayed-kuttra-parambarai-to-be-adapted-as-rs-50-crore-web-series-starring-sathyaraj-and-directed-by-sasikumar-report/articleshow/132601456.cms",
+    "time": "2026-07-24T09:33:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Chris Anne Affleck passes away at the age of 83",
+    "desc": "Chris Anne Affleck, mother of actors Ben and Casey Affleck, has passed away at eighty-three. She was a dedicated educator and a social justice advocate during her lifetime. Chris Anne was also a freedom rider in the segregated Southern United States during the 1960s. She supported her sons' careers, connecting Ben Affleck to his first acting opportunities. Her grandchildren were a significant animating force in her final two decades.",
+    "img": "https://static.toiimg.com/photo/msid-132601255,imgsize-134896.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ben-affleck-and-casey-afflecks-mother-chris-anne-affleck-passes-away-at-83/articleshow/132601118.cms",
+    "time": "2026-07-24T09:21:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Karnataka Deputy Chief Minister G. Parameshwara writes to Modi seeking replacement of NEET with State CETs",
+    "desc": "The Deputy Chief Minister appeals to the Prime Minister to provide a compensation of at least ₹1 crore to the families of students who ended their lives owing to the NEET paper leak and the “systemic failures” that followed.",
+    "img": "https://th-i.thgim.com/public/incoming/dxja4e/article71259223.ece/alternates/LANDSCAPE_1200/Efforts-are-on-G8CG7Q968.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-deputy-chief-minister-g-parameshwara-writes-to-modi-seeking-replacement-of-neet-with-state-cets/article71259014.ece",
+    "time": "2026-07-24T09:15:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "What is Tamil Nadu’s new presence-less property registration service?",
+    "desc": "The Tamil Nadu government is set to make property registration easier with its new ‘Presence-less Registration’ system, launching on August 17, 2026. The move, in the first phase, will enable online property registration by flat and plot promoters, bankers and financial institutions eliminating visits to Sub-Registrar offices.",
+    "img": "https://th-i.thgim.com/public/incoming/hkx90t/article71261618.ece/alternates/LANDSCAPE_1200/IMG_iStock-645239482_9_1_B7CKJGAG.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/what-is-tamil-nadus-new-presence-less-property-registration-service-explained/article71261434.ece",
+    "time": "2026-07-24T09:12:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Vivek Shanbhag on ‘Hyphen’, and bridging the gap in India’s translation landscape",
+    "desc": "Novelist Vivek Shanbhag speaks about the launch of Hyphen, a biannual journal focused on translations from Indian languages into English, and why the journal is an efficient way to introduce Indian writing to readers around the world",
+    "img": "https://th-i.thgim.com/public/news/national/karnataka/1b4ide/article71256736.ece/alternates/LANDSCAPE_1200/DSC_1494.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/books/vivek-shanbhag-on-hyphen-and-bridging-the-gap-in-indias-translationlandscape/article71254660.ece",
+    "time": "2026-07-24T09:12:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shah Rukh was at the right place at the right time",
+    "desc": "Actor Suniel Shetty admired cricketer KL Rahul as a fan long before their family connection. He focuses on character discussions at home rather than career advice. Shetty admits he could have afforded an IPL franchise in its early days. He lacked the necessary backing and ecosystem for such an investment then. Shah Rukh Khan's successful IPL venture is attributed to his timing and support.",
+    "img": "https://static.toiimg.com/photo/msid-132600879,imgsize-248870.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/suniel-shetty-says-he-first-met-son-in-law-kl-rahul-as-a-fan-regrets-not-buying-an-ipl-team-shah-rukh-khan-was-at-the-right-place-at-the-right-time/articleshow/132600865.cms",
+    "time": "2026-07-24T08:59:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Inside 'Jana Nayagan' star Pooja Hegde’s Rs 45 crore Bandra home",
+    "desc": "Pooja Hegde's Rs 45 crore Bandra home offers a glimpse into her life. The 4,000 square foot sea-facing abode features chic pastel interiors. Elegant wooden textures and marble finishes define the residence's luxurious appeal. This home reflects her desire for warmth and happiness over mere luxury. The actress's successful career is mirrored in her tasteful and serene living space.",
+    "img": "https://static.toiimg.com/photo/msid-132600535,imgsize-139440.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/inside-pooja-hegdes-rs-45-crore-bandra-home-a-look-at-the-jana-nayagan-stars-4000-sq-ft-sea-facing-abode-with-live-edge-dining-and-chic-pastel-interiors/articleshow/132600484.cms",
+    "time": "2026-07-24T08:38:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NHAI revises toll charges on Bengaluru-Nelamangala and Bengaluru-Kolar highway stretches",
+    "desc": "According to separate public notices issued by the Project Implementation Unit (PIU), Bengaluru, the revised toll rates will be applicable at the Bengaluru-Nelamangala toll plazas on NH-48 and the Hedaginabele, Agrahara, Krishnarajapura and Sundarapalya toll plazas on the Bengaluru-Bethamangala section of NH-75",
+    "img": "https://th-i.thgim.com/public/incoming/h6iudi/article71254481.ece/alternates/LANDSCAPE_1200/NH-4_elevated_expressway_05.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/nhai-revises-toll-charges-on-bengaluru-nelamangala-and-bengaluru-kolar-highway-stretches/article71253641.ece",
+    "time": "2026-07-24T08:26:16.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Officials tell GMR to finish pending works at Bhogapuram airport before Modi’s visit",
     "desc": "Special Chief Secretary M.T. Krishna Babu inspected the site with Collector S. Ramsundar Reddy and Joint Collector S. Sedhu Madhavan; around 2,000 buses will be arranged and 6,000 private vehicles are expected on the day",
     "img": "https://th-i.thgim.com/public/incoming/j7vz58/article71254007.ece/alternates/LANDSCAPE_1200/PM-Modi-to-inauGT2G9DDCE.4.jpg.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/andhra-pradesh/officials-tell-gmr-to-finish-pending-works-at-bhogapuram-airport-before-modis-visit/article71260980.ece",
-    "time": "2026-07-24T08:13:08.000Z"
+    "time": "2026-07-24T08:22:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Did Dia Mirza slam PM Modi over the Jantar Mantar protest?",
+    "desc": "Dia Mirza criticised PM Modi's statement on the Jantar Mantar protest, saying it took 47 days to say \"nothing,\" missing empathy for grieving families and injured students. She's been a vocal supporter throughout the movement. Professionally, Dia will next star in Netflix's 'Operation Safed Sagar,' based on the 1999 IAF mission, alongside Jimmy Shergill and Siddharth.",
+    "img": "https://static.toiimg.com/photo/msid-132600125,imgsize-378779.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/did-dia-mirza-slam-pm-modi-over-the-jantar-mantar-protest-actress-says-it-took-47-days-for-you-to-say-something/articleshow/132600125.cms",
+    "time": "2026-07-24T08:19:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Matthew Needham cast as Joker in ‘Batman: Caped Crusader’ Season 2",
+    "desc": "The announcement at San Diego Comic-Con highlighted that Matthew Needham will lend his voice to the iconic Joker in the second season. Alongside this, the premiere episode was screened for a few lucky viewers, raising anticipation. Mark your calendars for July 31, as both the animated series and video game release, ready for streaming on Prime Video.",
+    "img": "https://static.toiimg.com/photo/msid-132600123,imgsize-129340.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/batman-caped-crusader-season-2-matthew-needham-from-house-of-the-dragon-joins-animated-series-as-joker/articleshow/132599971.cms",
+    "time": "2026-07-24T08:18:59.000Z"
   },
   {
     "cat": "Politics",
@@ -36,13 +243,13 @@ const newsData_en = [
     "time": "2026-07-24T08:07:12.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Vivek Shanbhag on ‘Hyphen’, and bridging the gap in India’s translation landscape",
-    "desc": "Novelist Vivek Shanbhag speaks about the launch of Hyphen, a literary journal focused on translations from Indian languages into English, and why the journal is an efficient and enticing way to introduce Indian writing to readers around the world",
-    "img": "https://th-i.thgim.com/public/news/national/karnataka/1b4ide/article71256736.ece/alternates/LANDSCAPE_1200/DSC_1494.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/books/vivek-shanbhag-on-hyphen-and-bridging-the-gap-in-indias-translationlandscape/article71254660.ece",
-    "time": "2026-07-24T08:03:49.000Z"
+    "cat": "Entertainment",
+    "title": "Aamir Khan's half brother Hyder forced ex-wife to sleep with directors to get money",
+    "desc": "Actress Eva Grover detailed allegations against her former husband, Hyder Ali Khan. She claimed he pressured her for financial stability through intimate relationships with directors. Grover stated she sacrificed personal finances and career opportunities for their family. She also revealed Khan suffered from schizophrenia and their marriage became abusive. Grover expressed sympathy for Khan's current difficult and solitary circumstances.",
+    "img": "https://static.toiimg.com/photo/msid-132599860,imgsize-241851.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khans-half-brother-hyder-ali-khan-forced-ex-wife-actress-eva-grover-to-sleep-with-directors-to-get-money-ghar-chalana-hai-that-was-the-end-of-everything/articleshow/132599828.cms",
+    "time": "2026-07-24T08:04:22.000Z"
   },
   {
     "cat": "Politics",
@@ -90,21 +297,12 @@ const newsData_en = [
     "time": "2026-07-24T07:45:03.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Karnataka Deputy Chief Minister G. Parameshwara writes to Modi seeking replacement of NEET with State CETs",
-    "desc": "The Deputy Chief Minister appeals to the Prime Minister to provide a compensation of at least ₹1 crore to the families of students who ended their lives owing to the NEET paper leak and the “systemic failures” that followed.",
-    "img": "https://th-i.thgim.com/public/incoming/84fw4z/article71259223.ece/alternates/LANDSCAPE_1200/Efforts-are-on-G8CG7Q968.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-deputy-chief-minister-g-parameshwara-writes-to-modi-seeking-replacement-of-neet-with-state-cets/article71259014.ece",
-    "time": "2026-07-24T07:41:53.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Jana Nayagan' BO day 2 (Live): Vijay's film reaches another milestone",
     "desc": "Jana Nayagan's second day collections reached Rs 49 crore India gross. The film is performing very well with packed shows nationwide. Tamil Nadu remains the biggest market for Vijay's farewell film. Weekend collections are expected to boost the movie's earnings further. Audiences continue to throng theaters for the popular actor's movie.",
     "img": "https://static.toiimg.com/photo/msid-132599462,imgsize-263914.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-box-office-collection-day-2-live-vijays-farewell-film-reaches-another-milestone-in-india-looking-at-strong-weekend/articleshow/132599422.cms",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-box-office-collection-day-2-live-thalapathy-vijays-farewell-film-reaches-another-milestone-in-india-looking-at-strong-weekend/articleshow/132599422.cms",
     "time": "2026-07-24T07:41:35.000Z"
   },
   {
@@ -189,15 +387,6 @@ const newsData_en = [
     "time": "2026-07-24T06:56:53.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "BJP leaders, allies urge Centre to treat youth protests with empathy",
-    "desc": "Former HRD Minister Murli Manohar Joshi says the protest should not be treated as a law-and-order problem; sections of the BJP and its allies in the NDA feel the issue has gone beyond NEET and education",
-    "img": "https://th-i.thgim.com/public/incoming/fcxbpz/article71259670.ece/alternates/LANDSCAPE_1200/TH07-ISHITA-MurGGIF97054.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/as-protest-becomes-lightning-rod-of-hurt-m-m-joshi-says-treat-it-with-empathy/article71258679.ece",
-    "time": "2026-07-24T06:54:00.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Pete Davidson transforms into mobster in 'Tommy Karate'",
     "desc": "In a striking transformation for his portrayal of mobster Tommy Pitera in 'Tommy Karate', Pete Davidson showcases a dramatic new look in a recently unveiled black and white image. Director Justin Chon expressed admiration for Davidson's growth as an actor. Pitera, a member of the Bonnano crime family, was renowned for his martial arts prowess, and Davidson has been passionately developing this project for more than three years.",
@@ -207,24 +396,6 @@ const newsData_en = [
     "time": "2026-07-24T06:49:57.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "PM Modi promises 'more strict actions against paper leaks' amid CJP protests",
-    "desc": "In a self-recorded video shared on X, the Prime Minister announced that the Union Cabinet will take up a draft Bill providing for Fast-Track Courts and stringent punishment for offenders. he said, “I have issued directions to departments to set up Fast-Track Courts",
-    "img": "https://th-i.thgim.com/public/news/national/hl5rot/article71259650.ece/alternates/LANDSCAPE_1200/Screenshot%202026-07-24%20013831.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/pm-modi-promises-more-strict-actions-against-paper-leaks-amid-cjp-protests/article71259623.ece",
-    "time": "2026-07-24T06:49:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Protests over paper leak intensify in States",
-    "desc": "Student outfits, civil society groups, and political parties hit the streets demanding resignation of Union Education Minister Dharmendra Pradhan; protest marches turn confrontational in several districts of Kerala; police stop protesters in A.P.; security personnel resort to baton-charge in Bihar",
-    "img": "https://th-i.thgim.com/public/incoming/20hjp4/article71259621.ece/alternates/LANDSCAPE_1200/CJP%20PROTEST%20DELHI_23_07_85.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/protests-over-neet-paper-leak-intensify-nationwide/article71259431.ece",
-    "time": "2026-07-24T06:39:34.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'My best wishes to Indian contingent': PM Modi's message for India ahead of CWG 2026",
     "desc": "Prime Minister Narendra Modi wished India's 124-member contingent success ahead of the 2026 Commonwealth Games in Glasgow, expressing confidence in their passion and determination. India begins its campaign with bowls on Thursday before competing across eight sports and five para disciplines. Olympic champions Neeraj Chopra and Mirabai Chanu will lead India's medal hopes in athletics and weightlifting, respectively.",
@@ -232,33 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/my-best-wishes-to-indian-contingent-pm-modis-message-for-team-india-ahead-of-cwg-2026/articleshow/132597988.cms",
     "time": "2026-07-24T06:39:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Michael J. Fox talks Parkinson’s disease and how it impacted his wife",
-    "desc": "In a heartfelt revelation, Michael J. Fox shared how publicly disclosing his Parkinson's diagnosis impacted his wife profoundly. He bravely decided to speak about his journey without hesitations. Fox is back in the spotlight with his latest role in 'Shrinking,' where he plays a character battling Parkinson's, acting alongside Harrison Ford. His journey with the disease began in 1991 when he was just 29 years old.",
-    "img": "https://static.toiimg.com/photo/msid-132598237,imgsize-178068.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/michael-j-fox-talks-about-parkinsons-disease-admits-going-public-affected-his-wife-tracy-pollan-it-was-really-hard-on-her/articleshow/132598183.cms",
-    "time": "2026-07-24T06:37:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "The fine art of creating blood donors at home; and resources for those in Chennai seeking to donate blood",
-    "desc": "A leitmotif among blood donation organisations is the increasing difficulty in finding people with “generous veins”; and the solution could strangely be found in the living rooms of households, as illustrated by these two accounts from Chennai of parents inspiring their children to join the cause",
-    "img": "https://th-i.thgim.com/public/incoming/xw5ygb/article71239301.ece/alternates/LANDSCAPE_1200/19dc%20Shaikhs%20.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/chennai/collective-kindness-when-families-support-the-cause-of-blood-donation/article71239297.ece",
-    "time": "2026-07-24T06:37:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Sonam Wangchuk has broken his fast, says Leh Apex Body co-convenor",
-    "desc": "He broke the fast in the presence of two Union Ministers on certain conditions, he says; Govt gave a written assurance that cases against students will be taken back, if they are not violent, Mr. Dorjay says",
-    "img": "https://th-i.thgim.com/public/news/national/otnegk/article71259633.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-24%20at%201.08.54%20AM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/sonam-wangchuk-has-broken-his-fast-says-co-convenor-leh-apex-body/article71259628.ece",
-    "time": "2026-07-24T06:25:24.000Z"
   },
   {
     "cat": "Politics",
@@ -279,15 +423,6 @@ const newsData_en = [
     "time": "2026-07-24T06:01:43.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Why tribal communities in Kerala are at the receiving end of digital disconnect",
-    "desc": "Digital divide threatens their access to essential government services. Many tribal residents lack mobile phones or reliable network coverage, preventing them from obtaining crucial benefits like health cards and pensions. Activists warn that uniform digital policies overlook the unique challenges these communities face",
-    "img": "https://th-i.thgim.com/public/incoming/vktbdg/article71261100.ece/alternates/LANDSCAPE_1200/IMG_iStock-1290634617.jp_4_1_0KA24JQV.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/why-tribal-communities-in-kerala-are-at-the-receiving-end-of-digital-disconnect/article71258622.ece",
-    "time": "2026-07-24T06:01:43.000Z"
-  },
-  {
     "cat": "Business",
     "title": "'No need to respond in advance': Canadian PM Mark Carney rules out retaliatory tariffs before Aug 19",
     "desc": "Canada will not retaliate in advance against proposed US tariffs, preferring negotiations. Prime Minister Mark Carney stated that premature action would be counterproductive at this stage. Ottawa is intensifying efforts to strike a comprehensive trade agreement with the United States. Canada has not ruled out measures if tariffs are imposed by Washington. The country is also working to reduce its dependence on the US market.",
@@ -295,33 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/no-need-to-respond-in-advance-canadian-pm-mark-carney-rules-out-retaliatory-tariffs-before-aug-19/articleshow/132597498.cms",
     "time": "2026-07-24T05:54:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sivakarthikeyan's 'Parasakthi' &amp; Dhanush's 'Idli Kadai' box office revealed",
-    "desc": "Producer Aakash Baskaran discussed Sivakarthikeyan's film Parasakthi's box office performance. He cited controversies and high expectations as reasons for its underperformance. While Parasakthi faced financial challenges, Idli Kadai became a profitable venture. This difference stemmed from their respective production budgets and market reception. Baskaran's comments highlight filmmaking business dynamics and project outcomes.",
-    "img": "https://static.toiimg.com/photo/msid-132597490,imgsize-399896.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/aakash-baskaran-breaks-silence-on-box-office-failure-of-sivakarthikeyans-parasakthi-explains-why-idli-kadai-became-profitable/articleshow/132597460.cms",
-    "time": "2026-07-24T05:54:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Dia Mirza opens up on 'Operation Safed Sagar'",
-    "desc": "Dia Mirza portrays Kamalpreet Kaur Dhanoa in the series 'Operation Safed Sagar'. The role offered her insight into the emotional strength of Air Force families. She highlighted the resilience of wives who support their husbands during missions. The series explores the realities faced by families preparing for military life. Mirza found the daily goodbyes with a smile a powerful lesson.",
-    "img": "https://static.toiimg.com/photo/msid-132597469,imgsize-337805.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dia-mirza-opens-up-on-operation-safed-sagar-even-the-women-that-marry-into-the-air-force-dont-know-what-to-expect/articleshow/132597473.cms",
-    "time": "2026-07-24T05:52:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "After PM’s announcement, Delhi HC designates fast-track court for paper leak cases",
-    "desc": "Announced by Prime Minister Narendra Modi on July 23, 2026, the initiative aims to expedite trials under the Public Examinations (Prevention of Unfair Means) Act, 2024, following widespread protests over alleged irregularities in the NEET-UG exam.",
-    "img": "https://th-i.thgim.com/public/incoming/1vv8ae/article71260969.ece/alternates/LANDSCAPE_1200/PTI07_24_2026_RPT074A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Delhi/after-pms-announcement-delhi-hc-designates-fast-track-court-for-paper-leak-cases/article71260867.ece",
-    "time": "2026-07-24T05:41:19.000Z"
   },
   {
     "cat": "Sports",
@@ -333,15 +441,6 @@ const newsData_en = [
     "time": "2026-07-24T05:41:09.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Anupam Kher revisits his 1981 Mumbai journey with emotional throwback photos",
-    "desc": "Anupam Kher shared his initial Mumbai portfolio pictures from 1981. He was twenty-five years old when he arrived in the city. Kher recalled his early struggles and insecurities about his appearance. He drew strength from his training and determination to succeed. The actor encouraged dreamers to remain committed to their goals.",
-    "img": "https://static.toiimg.com/photo/msid-132597292,imgsize-88778.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anupam-kher-revisits-his-1981-mumbai-journey-with-emotional-throwback-photos-dreams-are-strange-they-dont-come-true-because-you-merely-wish-for-them/articleshow/132597277.cms",
-    "time": "2026-07-24T05:39:07.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Govt planning to tweak anti-cheating law by increasing jail term",
     "desc": "In the expected amendment, the government is likely to increase the jail for the offenders from the current 10-year ceiling in the proposed Bill, which the Cabinet will take up this afternoon, sources told TOI. The Public Examinations (Prevention of Unfair Means) Act, 2024 was enacted to curb paper leaks, cheating, and organised malpractices in public examinations like UPSC, SSC, and NTA tests provides for penalties, including up to 10 years in prison and a Rs 1 crore fine.",
@@ -349,15 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/crackdown-on-paper-leak-govt-planning-to-tweak-anti-cheating-law-by-increasing-jail-term/articleshow/132596742.cms",
     "time": "2026-07-24T05:33:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bon Jovi cancels stage appearance because of a sinus infection",
-    "desc": "Bon Jovi's concert at Madison Square Garden was abruptly canceled due to a sinus infection, leaving fans disappointed. The artist shared his regrets and confirmed that the show would be rescheduled in the near future. This announcement came on the heels of his recent vocal cord surgery, marking a triumphant return to the live music scene, which he cherishes for his loyal supporters.",
-    "img": "https://static.toiimg.com/photo/msid-132597213,imgsize-27778.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/bon-jovis-return-after-vocal-cord-surgery-cut-short-singer-cancels-concert-because-of-sinus-infection/articleshow/132597119.cms",
-    "time": "2026-07-24T05:32:05.000Z"
   },
   {
     "cat": "Business",
@@ -369,15 +459,6 @@ const newsData_en = [
     "time": "2026-07-24T05:22:42.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Former CBFC member EV Ganesh Babu explains Vijay's 'Jana Nayagan' censor",
-    "desc": "A former CBFC advisory panel member explained the 'Jana Nayagan' censor delay. He stated a court case and election rules created significant hurdles for the film's certification. Legal proceedings naturally extended the process, requiring CBFC officials to respond to court inquiries. The announcement of elections added another layer of complexity due to the film's political content. Circumstances and legal procedures, not CBFC unwillingness, caused the certification timeline to extend.",
-    "img": "https://static.toiimg.com/photo/msid-132596894,imgsize-398988.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-censor-row-former-cbfc-advisory-panel-member-ev-ganesh-babu-explains-what-delayed-vijays-film/articleshow/132596874.cms",
-    "time": "2026-07-24T05:17:31.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Ashes in India? Cricket Australia leaves door open for landmark 150th Test",
     "desc": "Cricket Australia is open to staging the 150th anniversary Ashes Test in India. This reflects the growing importance of the Indian cricket market globally. The Big Bash League will also stage a match in Chennai this December. Hosting a marquee contest in India offers significant commercial opportunities. Scheduling challenges exist due to India's packed cricket calendar.",
@@ -385,15 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ashes-in-india-cricket-australia-leaves-door-open-for-landmark-150th-test/articleshow/132596445.cms",
     "time": "2026-07-24T04:52:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'You will see a beautiful Rama'",
-    "desc": "Actor Yash lauded Ranbir Kapoor's dedication to portraying Lord Rama in the epic. He expressed immense respect for Kapoor's hard work and commitment to the role. Yash also discussed the challenge of portraying Ravana uniquely and authentically. The highly anticipated 'Ramayana' film is scheduled for a Diwali 2026 release. This epic adaptation will be presented to audiences in two parts.",
-    "img": "https://static.toiimg.com/photo/msid-132596349,imgsize-505405.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yash-heaps-praise-on-ranbir-kapoors-casting-in-ramayana-you-will-see-a-beautiful-rama-with-great-intent-and-sacrifice-watch/articleshow/132595751.cms",
-    "time": "2026-07-24T04:35:30.000Z"
   },
   {
     "cat": "Sports",
@@ -405,15 +477,6 @@ const newsData_en = [
     "time": "2026-07-24T04:24:54.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Symbolic satyagraha in Hangal over NEET paper leak",
-    "desc": "Scores of students, people from different walks of life participated in protest marches from different schools and colleges condemning NEET paper leak, lathi charge on protesting students in Delhi, and demanding resignation of Union Education Minister Dharmendra Pradhan",
-    "img": "https://th-i.thgim.com/public/incoming/dv1xrw/article71260885.ece/alternates/LANDSCAPE_1200/2699_23_7_2026_20_9_55_1_24HUBLIHANGALSATYAGRAHA_2.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/symbolic-satyagraha-in-hangal-over-neet-paper-leak/article71258701.ece",
-    "time": "2026-07-24T04:21:24.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Durand Cup set to introduce women's tournament from next edition",
     "desc": "The 135th Durand Cup begins with a derby match between Mohun Bagan and East Bengal. Organizers are considering introducing a women's tournament in the near future. Preparations for the upcoming season included a special women's exhibition match in Imphal. Twenty-four men's teams will compete across five venues, including Ranchi. Defending champions NorthEast United begin their title defense against Bodoland FC.",
@@ -423,33 +486,6 @@ const newsData_en = [
     "time": "2026-07-24T04:18:42.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Bandla Ganesh invites Mahesh Babu to daughter's wedding",
-    "desc": "Producer Bandla Ganesh extended a wedding invitation to Mahesh Babu and Namrata Shirodkar. His daughter Janani's wedding is scheduled for August sixteenth in Hyderabad. Ganesh clarified a property dispute involving a single five hundred square yard plot. He stated that the case does not involve all his wealth. Mahesh Babu is currently preparing for his upcoming film 'Varanasi'.",
-    "img": "https://static.toiimg.com/photo/msid-132595824,imgsize-341791.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/bandla-ganesh-invites-mahesh-babu-to-daughters-wedding-meets-varanasi-star-with-family/articleshow/132595803.cms",
-    "time": "2026-07-24T04:03:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Pooja slams Delhi University for discouraging students from Jantar Mantar",
-    "desc": "Pooja Bhatt criticised Delhi University's advisory discouraging students from protesting at Jantar Mantar, saying silencing them jeopardises their safety more. Tens of thousands continue demanding Pradhan's resignation over NEET irregularities, while Pradhan accuses Congress of using students politically. Sonam Wangchuk ended his 20-day hunger strike as Modi announced arrests and fast track courts.",
-    "img": "https://static.toiimg.com/photo/msid-132595764,imgsize-204979.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pooja-bhatt-slams-delhi-university-for-discouraging-students-from-jantar-mantar-dont-maintain-conspiracy-of-silence/articleshow/132595764.cms",
-    "time": "2026-07-24T03:55:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Trademark arrogance': Sonia Gandhi says Modi govt treated NEET protesters as 'enemies of nation'",
-    "desc": "accountability from the Government of India and education reform. The Narendra Modi government has responded to their courage with cowardice and wanton cruelty, treating them not as inheritors of the future but as enemies of the nation,\" she said.",
-    "img": "https://static.toiimg.com/photo/msid-132595554,imgsize-150141.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/trademark-arrogance-sonia-gandhi-says-modi-govt-treated-neet-protestors-as-enemies-of-nation/articleshow/132595312.cms",
-    "time": "2026-07-24T03:40:18.000Z"
-  },
-  {
     "cat": "Business",
     "title": "IndiGo, Air India oppose Adani’s airline entry",
     "desc": "It is a recipe for conflict of interest as well as squeezing other players; such a consolidation across the value chain not only kills competition but also results in fewer jobs, said an Air India official",
@@ -457,15 +493,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/indigo-air-india-oppose-adanis-airline-entry/article71258381.ece",
     "time": "2026-07-24T03:10:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "No debate without Pradhan’s resignation, Opposition tells govt. as it hits the streets",
-    "desc": "INDIA bloc closes ranks on paper leaks, rejects discussion offer and carries protest from Parliament to Gandhi Smriti in a show of solidarity with agitating students; in the meeting, it was felt that a debate would offer the govt. a chance to grandstand its way through by leaning on its numerical strength in both Houses of Parliament",
-    "img": "https://th-i.thgim.com/public/incoming/m2bex3/article71259239.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-23%20at%208.48.23%20PM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/congress-india-bloc-mps-pay-homage-to-students-who-took-their-lives-over-paper-leaks-at-gandhi-smriti/article71259079.ece",
-    "time": "2026-07-24T03:05:11.000Z"
   },
   {
     "cat": "Sports",
@@ -495,15 +522,6 @@ const newsData_en = [
     "time": "2026-07-24T02:30:41.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Don't insult students' intelligence': Rahul Gandhi slams PM Modi's midnight video on paper leaks",
-    "desc": "Congress leader Rahul Gandhi criticised Prime Minister Modi's video message regarding the NEET-UG paper leak. He demanded the education minister's resignation and punishment for those involved. Prime Minister Modi announced a new bill with stringent punishments for exam paper leaks. This proposed legislation will be discussed in the Union Cabinet soon.",
-    "img": "https://static.toiimg.com/photo/msid-132594885,imgsize-113037.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dont-insult-students-intelligence-rahul-gandhi-slams-pm-modis-midnight-video-on-paper-leaks/articleshow/132594424.cms",
-    "time": "2026-07-24T02:30:25.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India's complete schedule, timings and medal events on Day 2",
     "desc": "Indian athletes begin their campaigns in five sports on the second day. Para powerlifters will compete for medals in multiple weight categories. Gymnasts and boxers will also commence their events during the morning sessions. Swimmers and lawn bowls players are scheduled for heats and section matches. Several medal events are planned for Indian participants throughout the day.",
@@ -511,15 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-complete-schedule-timings-and-medal-events-as-india-eye-medals-on-day-2/articleshow/132587504.cms",
     "time": "2026-07-24T02:30:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Dharmendra Pradhan’s 2023 post resurfaces, reveals changing equations",
-    "desc": "A 2023 photo of Education Minister Dharmendra Pradhan and Sonam Wangchuk resurfaced recently. Wangchuk is now on an indefinite hunger strike seeking accountability for examination irregularities. He previously praised Pradhan's openness to innovative educational ideas. The current protest seeks Pradhan's exit and accountability for the NEET-UG paper leak. This situation presents a sharp contrast to their earlier positive interaction.",
-    "img": "https://static.toiimg.com/photo/msid-132595524,imgsize-151771.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/from-fan-to-critic-2023-post-resurfaces-reveals-changing-equations/articleshow/132594683.cms",
-    "time": "2026-07-24T02:01:44.000Z"
   },
   {
     "cat": "Business",
@@ -583,24 +592,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/controversial-umpiring-decision-in-ultimate-table-tennis-season-7-sparks-protests-debate-over-rules-and-clarity/article71259852.ece",
     "time": "2026-07-23T22:56:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Replay the final': More than 88,000 Argentina fans call for replay after bitter World Cup final defeat",
-    "desc": "A petition demanding a replay of the 2026 FIFA World Cup final between Spain and Argentina has surpassed 88,000 signatures, with some Argentina supporters alleging controversial refereeing decisions influenced the result. FIFA has received no evidence requiring action, while Spain's extra-time victory remains unchanged after a dominant performance and Ferran Torres' decisive winner.",
-    "img": "https://static.toiimg.com/photo/msid-132591584,imgsize-103954.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/replay-the-final-more-than-88000-argentina-fans-call-for-replay-after-bitter-world-cup-final-defeat/articleshow/132591444.cms",
-    "time": "2026-07-23T20:41:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "FIFA unveils World Cup Dream XI with 11 players voted as tournament's finest",
-    "desc": "FIFA has unveiled the official 2026 World Cup Dream XI following a global fan vote, recognising the tournament's standout performers. World champions Spain lead the selection with three players, while France and Argentina also feature prominently. Jude Bellingham represents England after a record-breaking campaign, while Cape Verde goalkeeper Vozinha earns a surprise spot after becoming one of the tournament's biggest breakout stars.",
-    "img": "https://static.toiimg.com/photo/msid-132591034,imgsize-389578.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/best-of-best-fifa-unveils-world-cup-dream-xi-with-11-players-voted-as-tournaments-finest/articleshow/132589463.cms",
-    "time": "2026-07-23T19:12:40.000Z"
   },
   {
     "cat": "Sports",
@@ -765,15 +756,6 @@ const newsData_en = [
     "time": "2026-07-23T11:44:11.000Z"
   },
   {
-    "cat": "Business",
-    "title": "India's first hydrogen-powered train clocks around 900 km in five days",
-    "desc": "India's first hydrogen fuel cell train has covered 900 kilometers on its initial operational route. This new train runs on hydrogen fuel cells, producing only water vapor and heat. Passenger fares remain consistent with ordinary diesel services on this pilot project. The train operates on the Jind-Sonipat corridor in Haryana, carrying many passengers. India joins a select group of nations testing this advanced rail technology.",
-    "img": "https://static.toiimg.com/photo/msid-132578874,imgsize-120790.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-first-hydrogen-powered-train-clocks-around-900-km-in-five-days/articleshow/132578816.cms",
-    "time": "2026-07-23T11:15:50.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Jana Nayagan’ release: ‘Thalapathy’ Vijay pays tribute to MGR",
     "desc": "Tamil Nadu Chief Minister Vijay’s Jana Nayagan has finally hit theatres after months of delays. The film pays tribute to former Chief Minister and screen legend MGR with AI-generated voice recreations, iconic song references and political symbolism. Vijay is the second sitting Tamil Nadu Chief Minister after MGR to have a film release while in office",
@@ -790,15 +772,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/jana-nayagan-release-h-vinoth-interview-thalapathy-vijay-pooja-hegde-anirudh-ravichander/article71250216.ece",
     "time": "2026-07-23T11:11:49.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Axis Bank's MF arm acquires Rs 12,000 crore PMS business from securities arm",
-    "desc": "Axis Asset Management Company is acquiring Axis Securities' portfolio management services business. This strategic move significantly expands their alternative investments platform and investor base. The combined portfolio management services assets under management will now exceed fifteen thousand crore rupees. The entire portfolio management services team has transitioned to Axis Asset Management Company. This acquisition strengthens their position in the growing alternatives investment segment.",
-    "img": "https://static.toiimg.com/photo/msid-132577569,imgsize-13702.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/axis-banks-mf-arm-acquires-rs-12000-crore-pms-business-from-securities-arm/articleshow/132577532.cms",
-    "time": "2026-07-23T10:21:11.000Z"
   },
   {
     "cat": "World",
@@ -898,5 +871,32 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/glasgow-2026-commonwealth-games-india-preview/article71255062.ece",
     "time": "2026-07-22T18:42:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vijay’s ‘Jana Nayagan’ releases: Looking back at MGR’s ‘Meenava Nanban’ in 1977",
+    "desc": "Meenava Nanban. Leading newspapers of the time captured the pre-release buzz of this film, with film posters with only carrying the title ‘Makkal Thilagam’ and not ‘Chief Minister’. We catch up with T Rajappa Venkatachari – or ‘MGR Swami’, as he is known – who recalls watching the first day first show of the film in 1977 at Tirunelveli’s Central Theatre.",
+    "img": "https://th-i.thgim.com/public/incoming/4crmab/article71253649.ece/alternates/LANDSCAPE_1200/Orange%20%20White%20Minimalist%20Podcast%20Promotion%20YouTube%20Thumbnail.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/vijays-jana-nayagan-releases-looking-back-at-mgrs-meenava-nanban-in-1977-thalapathy/article71253661.ece",
+    "time": "2026-07-22T13:12:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Attack on Titan: The Last Attack’ movie review: A colossal political epitaph for the children of war",
+    "desc": "Returning at a moment when state violence and political repression feel alarmingly familiar, Hajime Isayama’s monumental saga remains one of this century’s most incisive examinations of how fear hardens into fascism and why the struggle for freedom never truly belongs to a single generation",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/gtzdl/article71253051.ece/alternates/LANDSCAPE_1200/hangerumbling.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/attack-on-titan-the-last-attack-movie-review-a-colossal-political-epitaph-for-the-children-of-war/article71253062.ece",
+    "time": "2026-07-22T11:18:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "luminaries demand human ethics not be outsourced to AI",
+    "desc": "In mid-July, a group of Nobel laureates, AI scientists, religious leaders, and other luminaries signed the so-called ‘Rome Declaration for an Unarmed and Disarming Peace’. The Declaration calls for an international treaty to ban autonomous systems from accessing nuclear launches while emphasising that the threat is also not so far-fetched",
+    "img": "https://th-i.thgim.com/public/todays-paper/tp-miscellaneous/tp-others/hx40az/article69186170.ece/alternates/LANDSCAPE_1200/A-question-for-GAIDUVAL5.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/science/rome-declaration-convergent-perils-luminaries-human-ethics-outsourced-ai/article71252976.ece",
+    "time": "2026-07-22T10:39:09.000Z"
   }
 ];

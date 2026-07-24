@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "&amp;#039;કોકરોચ જનતા પાર્ટી&amp;#039; ધર્મેન્દ્ર પ્રધાનના રાજીનામા પર અડગ; સરકારે કાલ સુધીનો સમય માંગ્યો",
+    "desc": "કેન્દ્ર સરકાર અને કોકરોચ જનતા પાર્ટી વચ્ચે યોજાયેલી બેઠક સમાપ્ત થઈ ગઈ છે. આ બેઠકમાં કેન્દ્રીય મંત્રી જેપી નડ્ડા અને જિતેન્દ્ર સિંહની સાથે સીજેપી પ્રવક્તા સૌરવ દાસ તથા આશુતોષ રાંકા હાજર રહ્યા હતા. બેઠકની તસવીરો પણ સામે આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/delhi-high-stakes-meeting-between-cjp-and-modi-govt-ends-at-vp-house-after-one-hour-discussion-485608 ",
+    "time": "2026-07-24T09:26:46.000Z"
+  },
+  {
     "cat": "Business",
     "title": "એક ઝટકે સોના-ચાંદીના ભાવમાં મોટો ઘટાડો, ઘટીને ભાવ ક્યાં પહોંચ્યા? ફટાફટ ચેક કરો આજનો રેટ",
     "desc": "દેશના બજારોમાં આજે પણ સોના અને ચાંદીના ભાવમાં ઘટાડો જોવા મળ્યો છે. વાયદા બજારમાં સોનું લાલ નિશાનમાં જ્યારે ચાંદી લીલા નિશાનમાં જોવા મળી રહ્યા છે પરંતુ રિટેલ બજારમાં સોના ચાંદીના ભાવમાં મોટો ઘટાડો જોવા મળ્યો છે. જાણો લેટેસ્ટ રેટ.",
@@ -342,15 +351,6 @@ const newsData_gu = [
     "time": "2026-07-20T07:17:45.000Z"
   },
   {
-    "cat": "Business",
-    "title": "IPOમાં કમાણીની મોટી તક! ₹216એ પહોંચ્યો GMP, 23 જુલાઈથી મળશે રોકાણનો મોકો",
-    "desc": "કંપનીએ આજે ​​સોમવારે પ્રાઇસ બેન્ડની જાહેરાત કરી છે. આજે GMP પ્રતિ શેર 216 પર પહોંચી ગયો છે. આ મેઈનબોર્ડ IPO છે, રોકાણકારોએ ઓછામાં ઓછું 14550 રૂપિયાનું રોકાણ કરવું પડશે. રોકાણ દ્વારા હાલમાં 5000થી રૂપિયાનો ફાયદો જોવા મળી રહ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/big-opportunity-to-earn-in-ipo-gmp-reaches-rs-216-investment-can-be-done-from-july-23-485221 ",
-    "time": "2026-07-20T06:21:25.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "સ્પેનની જીતથી ભારતીય ક્રિકેટ ફેન્સ ખુશ! જાણો 16 વર્ષ જૂનો એવો કયો સંયોગ છે જે ભારતને બનાવી શકે છે વિશ્વ વિજેતા",
     "desc": "ફુટબોલની દુનિયાનું નવું બાદશાહ સ્પેન બની ગયું છે. ફુટબોલ વિશ્વકપ 2026ની ફાઈનલમાં સ્પેને આર્જેન્ટીનાને 1-0થી હરાવી ટ્રોફી કબજે કરી છે. 2010 બાદ સ્પેન બીજીવાર ફુટબોલમાં વિશ્વ વિજેતા બન્યું છે. સ્પેનની જીત સાથે એક સંયોગ બની ગયો છે. તેવામાં સવાલ થઈ રહ્યો છે કે શું ભારતીય ટીમ આગામી વર્ષે વનડે વિશ્વકપ જીતશે?",
@@ -403,15 +403,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/know-who-is-spanish-star-ferran-torres-who-gave-an-unforgettable-blow-to-argentine-fans-485198 ",
     "time": "2026-07-20T01:16:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ફીફા વર્લ્ડ કપ 2026 માં બેસ્ટ ગોલકીપરથી લઈ ગોલ્ડન બોલ સુધીના એવોર્ડ્સ કયા ખેલાડી જીત્યા ? ચેક કરો વિનર્સનું લિસ્ટ",
-    "desc": "ફીફા વર્લ્ડ કપ સ્પેને પોતાના નામ કર્યો છે. ફાઈનલમાં સ્પેને આર્જેટીનાને 1-0 થી હરાવી વર્લ્ડ કપ જીત્યો છે. ફાઈનલમાં સ્પેનને ફેરાન ટોરેસના નિર્ણયાક ગોલથી જીત મળી છે. વર્લ્ડ કપ દરમિયાન કયા ખેલાડીએ કયા એવોર્ડ જીત્યા તેનું લિસ્ટ પણ સામે આવી ગયું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/fifa-world-cup-2026-golden-ball-best-young-player-golden-glove-winner-players-name-list-485197 ",
-    "time": "2026-07-20T01:11:34.000Z"
   },
   {
     "cat": "World",
@@ -574,15 +565,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/only-25-people-in-india-will-be-able-to-buy-this-bike-royal-enfield-launches-limited-edition-bike-know-price-and-booking-details-484839 ",
     "time": "2026-07-16T11:54:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "10 વર્ષ જૂની સાઉથની સાઈકો થ્રિલર ફિલ્મની રીમેક છે અક્ષય કુમારની ફિલ્મ હૈવાન",
-    "desc": "અક્ષય કુમારે તેની આગામી ફિલ્મ હૈવાનનો ફર્સ્ટ લુક શેર કરી ફિલ્મની રિલીઝ ડેટ અનાઉન્સ કરી છે. આ ફિલ્મનું પોસ્ટર રિલીઝ થયાની સાથે જ સાઉથની ફિલ્મ ઓપ્પમ ચર્ચામાં આવી ગઈ છે, કારણ કે અક્ષય કુમાર અને સૈફ અલીની આગામી ફિલ્મ 10 વર્ષ જૂની સાઈકો થ્રિલર ફિલ્મની રીમેક છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/akshay-kumar-haiwaan-movie-is-hindi-remake-of-south-psycho-thriller-film-oppam-484799 ",
-    "time": "2026-07-16T05:30:43.000Z"
   },
   {
     "cat": "World",
