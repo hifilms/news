@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Indian team launches 'best attitude award' after first T20I vs Zimbabwe, who won the first medal?",
+    "desc": "India's team management has introduced a new “Best Attitude Award” during the ongoing T20I series against Zimbabwe. Middle-order batter Tilak Varma became the first recipient after the opening match in Harare. The initiative has been...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/indian-team-launches-best-attitude-award-after-first-t20i-vs-zimbabwe-who-won-the-first-medal-2026-07-24-1049345",
+    "time": "2026-07-24T17:55:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Travis Head denies fallout with Virat Kohli after IPL drama, which resulted in wife's online trolling",
+    "desc": "Australia batter Travis Head has denied reports of a fallout with Virat Kohli following their controversial interaction during the Indian Premier League 2026. He insisted there is “nothing to patch over” between the two players. Notably,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/travis-head-denies-fallout-with-virat-kohli-after-ipl-drama-which-resulted-in-wife-s-abuse-2026-07-24-1049341",
+    "time": "2026-07-24T17:23:59.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Afghanistan announce new ODI captain, reveal squad for three-match Ireland series",
     "desc": "Rahmat Shah has been appointed as the new Afghanistan ODI captain after Hashmatullah Shahidi resigned from his position ahead of the five-match series against Ireland, starting August 5. Notably, the 33-year-old batter has served as...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/aakash-chopra-hails-india-youngster-after-19-ball-blitzkrieg-against-zimbabwe-2026-07-24-1049283",
     "time": "2026-07-24T09:21:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jos Buttler surpasses Chris Gayle in elite list, scripts history despite subpar performance in The Hundred",
-    "desc": "The 3rd game of the ongoing The Hundred 2026 saw Manchester Super Giants taking on London Spirit. The two sides met at the Lord’s Cricket Ground in London on July 23rd, and the game saw...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jos-buttler-surpasses-chris-gayle-in-elite-list-scripts-history-despite-subpar-performance-in-the-hundred-2026-2026-07-24-1049279",
-    "time": "2026-07-24T09:02:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mukesh Kumar and Akash Deep appointed DSPs, CM Samrat Choudhary to present appointment letters",
-    "desc": "In a major development, India cricketers Mukesh Kumar and Akash Deep have been appointed as DSP (Deputy Superintendents of Police) under the sports quota. It is worth noting that the star duo received appointment letters...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mukesh-kumar-and-akash-deep-appointed-dsp-cm-samrat-choudhary-to-present-appointment-letters-2026-07-24-1049266",
-    "time": "2026-07-24T08:03:24.000Z"
   }
 ];

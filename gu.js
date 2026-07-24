@@ -1,6 +1,24 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "‘અમારો સમય બરબાદ ન કરો…’, CJP વિરોધ પ્રદર્શન અંગેની ટીપ્પણી પર CJI સૂર્યકાંતે કરી સ્પષ્ટતા",
+    "desc": "જંતર-મંતર પર થયેલા વિરોધ પ્રદર્શનોમાં હિંસા પર 'વીડિયો જોવાનો સમય નથી' તેવી ટીપ્પણી પર CJI સૂર્યકાંતે સ્પષ્ટતા કરી છે. મુખ્ય ન્યાયાધીશે કહ્યું કે, તેમની વાતને ખોટી રીતે રજૂ કરવામાં આવી અને સુપ્રીમ કોર્ટ સુનાવણી કરવાનો ક્યારેય ઇનકાર કરતી નથી. જો કે, કોર્ટમાં અરજી દાખલ કરવાની નક્કી કરવામાં આવેલી પ્રક્રિયાનું પાલન કરવું અત્યંત જરૂરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/donot-waste-our-time-cji-surya-kant-clarifies-on-cjp-remarks-on-protests-485665 ",
+    "time": "2026-07-24T18:19:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "અમેરિકાએ લગાવ્યો 10% ટેરિફ, જાણો ચીન અને વિયેતનામ કરતાં કેમ ફાયદામાં રહ્યું ભારત?",
+    "desc": "અમેરિકાએ ભારતીય માલ પર 10% ટેરિફ લગાવ્યો છે, પરંતુ એક્સપર્ટ માને છે કે આનાથી ભારતની નિકાસ પર ખાસ અસર નહીં પડે. ચીન સહિત ઘણા સ્પર્ધાત્મક દેશો પર લગાવવામાં આવેલા ઊંચા ટેરિફથી ભારતીય કાપડ અને અન્ય નિકાસકારોને ફાયદો થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/america-imposed-10-percent-tariff-know-why-india-was-at-an-advantage-over-china-and-vietnam-485662 ",
+    "time": "2026-07-24T16:50:13.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "જંતર-મંતર પર પિઝા, બિરયાની અને બર્ગર પર પ્રતિબંધ! પોલીસે જાહેર કર્યો નવો આદેશ",
     "desc": "દિલ્હી પોલીસે જાહેર જનતાને અપીલ કરી છે કે જ્યાં સુધી તે ખૂબ જ જરૂરી ન હોય ત્યાં સુધી પ્રતિબંધિત વિસ્તારમાં મુસાફરી કરવાનું ટાળો. તેમણે તેમને અગાઉથી તેમની મુસાફરીનું આયોજન કરવા અને વૈકલ્પિક માર્ગોનો ઉપયોગ કરવા પણ વિનંતી કરી છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -286,15 +304,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/crude-oil-crash-after-iran-statement-gold-and-silver-prices-jump-485265 ",
     "time": "2026-07-20T13:21:02.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "કેન્દ્રીય કર્મચારીઓને લાગી શકે છે મોટો ઝટકો! 2.0 ફિટમેન્ટ ફેક્ટર લાગુ થવા પર પણ ગ્રોસ સેલેરી નહીં થાય બમણી! જાણો આખું કેલ્ક્યુલેશન",
-    "desc": "8મા પગાર પંચને લઈને નવું સેલેરી કેલ્ક્યુલેશન સામે આવ્યું છે. અનુમાન મુજબ, 2.0 ફિટમેન્ટ ફેક્ટર લાગુ થવા પર બેસિક સેલેરી ભલે બમણી થઈ જાય, પરંતુ ગ્રોસ સેલેરીમાં વધારો માત્ર 31% સુધી જ રહી શકે છે. ચાલો સમજીએ કે, 2.0, 2.38 અને 2.57 ફિટમેન્ટ ફેક્ટર પર કર્મચારીઓનો પગાર કેટલો વધશે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/central-employees-may-face-a-big-setback-even-if-2-0-fitment-factor-is-implemented-gross-salary-will-not-double-know-the-entire-calculation-485257 ",
-    "time": "2026-07-20T12:13:29.000Z"
   },
   {
     "cat": "Sports",

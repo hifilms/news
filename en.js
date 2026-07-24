@@ -1,6 +1,159 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Cracks deepen in AIADMK dissidents’ camp",
+    "desc": "Former Law Minister and leader of the rebel camp C.Ve. Shanmugam stays away from an official review meeting for Villupuram, while former Food Minister R. Kamaraj attends the event for Tiruvarur. Besides these districts, Edappadi K. Palaniswami takes stock of the party’s performance in Salem and Tiruvallur (south)",
+    "img": "https://th-i.thgim.com/public/incoming/kplqdb/article71262907.ece/alternates/LANDSCAPE_1200/2501_12_5_2026_10_6_0_1_DSC_9274.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/cracks-deepen-in-aiadmk-dissidents-camp/article71262780.ece",
+    "time": "2026-07-24T19:14:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Directorate of Enforcement attaches ₹1,906-crore assets in Gameskraft money-laundering probe",
+    "desc": "The Directorate of Enforcement announced that it has provisionally attached movable and immovable assets worth approximately ₹1,906 crore belonging to Gameskraft Technologies Pvt. Ltd., its shareholders, and associated entities in connection with a money-laundering case",
+    "img": "https://th-i.thgim.com/public/incoming/d0fgjs/article71263943.ece/alternates/LANDSCAPE_1200/20260716381L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/bangalore/directorate-of-enforcement-attaches-1906-crore-assets-in-gameskraft-money-laundering-probe/article71263148.ece",
+    "time": "2026-07-24T19:13:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "KPTCL cracks down on 45 self-execution projects violating power rules",
+    "desc": "Karnataka Power Transmission Corporation Limited has identified 45 cases and served notices to large housing or commercial establishments for failing to complete the mandatory electrical infrastructure within the stipulated timeline under self execution projects or have violated the provisions of the Karnataka Electricity Regulatory Commission",
+    "img": "https://th-i.thgim.com/public/incoming/2ya38d/article71263825.ece/alternates/LANDSCAPE_1200/KPCL%201.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/bangalore/kptcl-cracks-down-on-45-self-execution-projects-violating-power-rules/article71262771.ece",
+    "time": "2026-07-24T19:13:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Weren't you going shave off all your hair?': Spanish princess embarrasses Ferran Torres over bizarre World Cup promise",
+    "desc": "Ferran Torres delivered Spain's World Cup-winning goal, but his funniest post-tournament moment came during a royal reception when Princess Leonor reminded him of a pre-tournament promise to shave his head if Spain lifted the trophy. The Barcelona forward laughed off the question, while several other Spain stars still face unusual challenges after their historic triumph.",
+    "img": "https://static.toiimg.com/photo/msid-132613677,imgsize-193526.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/werent-you-going-to-shave-off-all-your-hair-spanish-princess-embarrasses-ferran-torres-over-bizarre-world-cup-promise/articleshow/132612166.cms",
+    "time": "2026-07-24T18:51:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress leader Kanhaiya Kumar arrested in Delhi on complaint of Kerala House official",
+    "desc": "There was an altercation between Mr. Kumar and the Resident Commissioner called the Delhi Police asking them to remove Mr. Kumar from the premises, a source said; Kerala House is located in Jantar Mantar Road where the students’ protest is going on",
+    "img": "https://th-i.thgim.com/public/incoming/kn4p4e/article71263826.ece/alternates/LANDSCAPE_1200/20260706198L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/congress-leader-kanhaiya-kumar-arrested-in-delhi-on-complaint-of-kerala-house-official/article71263669.ece",
+    "time": "2026-07-24T18:43:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Kafir’ screenshot case: SIT arrests DYFI leader Ribesh Ramakrishnan",
+    "desc": "SIT had arraigned Ribesh as the second accused in the case pertaining to the distribution of a fabricated image that allegedly aimed to undermine LDF candidate K.K. Shailaja ahead of the 2024 Lok Sabha elections.",
+    "img": "https://th-i.thgim.com/public/incoming/mjqmow/article71263920.ece/alternates/LANDSCAPE_1200/iStock-1905024012.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kafir-screenshot-case-sit-arrests-dyfi-leader-ribesh-ramakrishnan/article71263883.ece",
+    "time": "2026-07-24T18:43:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delhi High Court hears multiple PILs on Jantar Mantar protests, declines NIA probe plea",
+    "desc": "The court refused to entertain the PIL seeking an investigation by the NIA into the July 20 protest march organised by the Cockroach Janta Party, observing that it was for the Central government to decide the matter; it also defers consideration on a challenge to the alleged videography and surveillance of demonstrators",
+    "img": "https://th-i.thgim.com/public/incoming/tzzlq0/article71263903.ece/alternates/LANDSCAPE_1200/IMG_INDEX_DELHI_HIGH_COU_2_1_C4G3T68L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/delhi-high-court-hears-multiple-pils-on-jantar-mantar-protests-declines-nia-probe-plea/article71262985.ece",
+    "time": "2026-07-24T18:31:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM asks Ministers to get going on Instagram after raging students’ protest",
+    "desc": "In the Union Cabinet meet today, he said that crores of youngsters were on the social media platform everyday and that his colleagues in the government needed to proactively engage with them on the work they did",
+    "img": "https://th-i.thgim.com/public/incoming/a6274k/article71263546.ece/alternates/LANDSCAPE_1200/PTI08_23_2025_000242A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/pm-asks-ministers-to-get-going-on-instagram-after-raging-students-protest/article71263265.ece",
+    "time": "2026-07-24T18:30:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Protest venue under a web of cameras and facial recognition systems",
+    "desc": "The Delhi Police have deployed its DP-Dristhi and Ikshana surveillance vans and a Mobile Command and Control Vehicle, which uses AI-assisted facial recognition technology to scan live CCTV feeds; protesters have expressed apprehension over the use of such technologies",
+    "img": "https://th-i.thgim.com/public/incoming/n44yny/article71263874.ece/alternates/LANDSCAPE_1200/CJP%20PROTEST%20DELHI_24_07_39.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/protest-venue-under-a-web-of-cameras-and-facial-recognition-systems/article71263235.ece",
+    "time": "2026-07-24T18:23:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Klopp issues stern warning over what would make him quit Germany role on day one",
+    "desc": "Jürgen Klopp has warned he will quit as Germany manager if his family becomes the target of public scrutiny, setting a clear boundary during his unveiling as national team coach. The former Liverpool boss takes charge until 2030 as he begins the task of rebuilding Germany following another disappointing FIFA World Cup campaign and Julian Nagelsmann's departure.",
+    "img": "https://static.toiimg.com/photo/msid-132611572,imgsize-91978.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/if-you-behave-badly-jrgen-klopp-issues-stern-warning-over-what-would-make-him-quit-germany-role-on-day-one/articleshow/132610856.cms",
+    "time": "2026-07-24T17:45:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why IOC won't investigate Infantino over Trump's role in Balogun red-card row",
+    "desc": "The International Olympic Committee will not investigate FIFA president Gianni Infantino. This decision stems from a complaint regarding Folarin Balogun's World Cup suspension reversal. The IOC stated it lacks jurisdiction over FIFA's internal governance matters. Norway's Football Federation will consider filing its own ethics complaint against Infantino. FIFA has not yet commented on the ethics complaints or its decision.",
+    "img": "https://static.toiimg.com/photo/msid-132611667,imgsize-153746.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/why-ioc-wont-investigate-gianni-infantino-over-donald-trumps-role-in-folarin-balogun-red-card-controversy/articleshow/132611618.cms",
+    "time": "2026-07-24T17:44:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Grain, not guns: MEA rejects Russia's claim on deadly ship attack that killed 4 Indians",
+    "desc": "India's Ministry of External Affairs stated the MV Golden Leo carried grain, not weapons. This contradicts Russia's assertion regarding the ship's cargo and its attack. The vessel's tragic incident resulted in the deaths of four Indian seafarers. India reiterated its concerns to Russia's foreign minister during a recent meeting. Attacks on commercial shipping and seafarers are unacceptable under any circumstances.",
+    "img": "https://static.toiimg.com/photo/msid-132611393,imgsize-592159.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/grain-not-guns-india-rejects-russias-claim-on-deadly-ship-attack/articleshow/132611235.cms",
+    "time": "2026-07-24T17:28:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Woken from sleep to witness Wangchuk end fast, says Ladakh leader",
+    "desc": "With Delhi University colleges reopening on July 28 and the weekend approaching, the government hastened channels of communication with the CJP team and Sonam Wangchuk to ensure that the protest is wound up before a major incident takes place",
+    "img": "https://th-i.thgim.com/public/incoming/rn9y4r/article71263790.ece/alternates/LANDSCAPE_1200/20260724241L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/woken-from-sleep-to-witness-wangchuk-end-fast-says-ladakh-leader/article71263103.ece",
+    "time": "2026-07-24T17:19:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Lack of rain leads to wild elephants camping in human habitations in Kerala’s Munnar",
+    "desc": "The wild elephants typically retreat deep into the forest once the monsoon intensifies. However, this year, the herds have stayed near human habitations due to a scarcity of food and water deeper in the woods",
+    "img": "https://th-i.thgim.com/public/incoming/g9af89/article71263078.ece/alternates/LANDSCAPE_1200/80759_13_2_2025_17_48_17_1_PADAYAPPAVAGUVARAI.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/lack-of-rain-leads-to-wild-elephants-camping-in-human-habitations-in-keralas-munnar/article71262583.ece",
+    "time": "2026-07-24T17:09:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Cabinet approves railway multi-tracking project across Karnataka, Andhra Pradesh  at ₹1,264 crore",
+    "desc": "The proposed multi-tracking project will enhance connectivity to approximately 99 villages with a combined population of about seven lakh; it is also expected to provide seamless connectivity for movement of people, goods, and services, Indian Railways says",
+    "img": "https://th-i.thgim.com/public/news/national/qdxx5w/article71262382.ece/alternates/LANDSCAPE_1200/53c00a6e-2364-4593-9bc7-60a61c4f1fe2.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/cabinet-approves-1264-crore-rail-line-expansion-project-in-karnataka-andhra/article71262356.ece",
+    "time": "2026-07-24T17:04:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Argentina star behind throat-grab incident on Spain defender hints at retirement",
+    "desc": "Leandro Paredes has admitted he is unsure whether he will continue with Argentina after the heartbreaking 2026 FIFA World Cup final defeat to Spain. The midfielder's comments come as FIFA investigates his role in the chaotic post-match altercation, while several senior Argentina players, including Lionel Messi, face uncertainty over their international futures.",
+    "img": "https://static.toiimg.com/photo/msid-132610493,imgsize-1265099.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/argentina-star-behind-shameful-throat-grab-on-spain-defender-hints-at-international-retirement-after-world-cup-final/articleshow/132609743.cms",
+    "time": "2026-07-24T16:44:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aamir's daughter Ira explains why she didn't speak out on CJP protests",
+    "desc": "Aamir Khan's daughter Ira Khan has addressed questions over why she remained silent on the ongoing Cockroach Janta Party (CJP)-led student protests, saying she did not feel she had anything meaningful to contribute to the conversation. Taking to Instagram on Thursday, Ira shared a lengthy video explaining her decision, adding that her approach to distressing news is shaped by her mental health and the need to protect her emotional well-being.",
+    "img": "https://static.toiimg.com/photo/msid-132610438,imgsize-101468.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khans-daughter-ira-khan-explains-why-she-didnt-speak-out-on-cjp-protests-i-didnt-think-i-had-anything-to-add/articleshow/132610387.cms",
+    "time": "2026-07-24T16:40:51.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Three chemical parks to be set up under BHAVYA-Rasayan scheme",
     "desc": "The Union Cabinet approved the BHAVYA-Rasayan scheme for three dedicated chemical parks. This initiative has a financial outlay of Rs 3,030 crore for infrastructure development. The scheme will run for five years, promoting chemical industry growth and competitiveness. It aims to create an environment-friendly ecosystem with centralized waste management facilities. This development is expected to generate employment and contribute to economic growth.",
     "img": "https://static.toiimg.com/photo/msid-132610005,imgsize-189761.cms",
@@ -73,39 +226,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Health department uses fun games to instil healthy food habits in children in Kerala’s Alappuzha",
-    "desc": "The mass media education wing of the Alappuzha district health administration has devised three card games for children, focusing on healthy habits, food, and nutrition to encourage children to think about what they are eating and to guide them away from the path of obesity",
-    "img": "https://th-i.thgim.com/public/incoming/osebqw/article71263203.ece/alternates/LANDSCAPE_1200/PHOTO-2026-07-22-18-41-47.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/health-department-uses-fun-games-to-instil-healthy-food-habits-in-children-in-keralas-alappuzha/article71261832.ece",
-    "time": "2026-07-24T15:21:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Officials tell GMR to finish pending works at Bhogapuram airport before Modi’s visit",
-    "desc": "Special Chief Secretary M.T. Krishna Babu inspected the site with Collector S. Ramsundar Reddy and Joint Collector S. Sedhu Madhavan; around 2,000 buses will be arranged and 6,000 private vehicles are expected on the day",
-    "img": "https://th-i.thgim.com/public/incoming/oiowf4/article71263313.ece/alternates/LANDSCAPE_1200/0014.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/officials-tell-gmr-to-finish-pending-works-at-bhogapuram-airport-before-modis-visit/article71260980.ece",
-    "time": "2026-07-24T15:18:09.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Ravneet Singh Bittu resigns from Union Council of Ministers; President Murmu accepts resignation",
     "desc": "President Droupadi Murmu accepted Ravneet Singh Bittu's resignation from the Union Council of Ministers. Bittu, a former Congress MP, joined the BJP earlier this year. He was inducted as a minister of state in June despite losing his election. Bittu is a grandson of former Punjab chief minister Beant Singh. His resignation's reason was not immediately announced by officials.",
     "img": "https://static.toiimg.com/photo/msid-132609048,imgsize-94621.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/ravneet-singh-bittu-resigns-from-union-council-of-ministers-president-murmu-accepts-resignation/articleshow/132608905.cms",
     "time": "2026-07-24T15:09:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Lack of rain leads to wild elephants camping in human habitations in Kerala’s Munnar",
-    "desc": "The wild elephants typically retreat deep into the forest once the monsoon intensifies. However, this year, the herds have stayed near human habitations due to a scarcity of food and water deeper in the woods",
-    "img": "https://th-i.thgim.com/public/incoming/g9af89/article71263078.ece/alternates/LANDSCAPE_1200/80759_13_2_2025_17_48_17_1_PADAYAPPAVAGUVARAI.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/lack-of-rain-leads-to-wild-elephants-camping-in-human-habitations-in-keralas-munnar/article71262583.ece",
-    "time": "2026-07-24T15:00:23.000Z"
   },
   {
     "cat": "Politics",
@@ -198,15 +324,6 @@ const newsData_en = [
     "time": "2026-07-24T12:44:29.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "RAF probes excessive force, pellet gun charges in July 20 crackdown",
-    "desc": "The Rapid Action Force is verifying its personnel's actions during recent student protests. Allegations of excessive force and pellet gun use are being examined by officials. The Central Reserve Police Force is overseeing this internal review process. Videos showing clashes and alleged attacks on personnel are under scrutiny. This verification follows student demands for the education minister's resignation.",
-    "img": "https://static.toiimg.com/photo/msid-132605965,imgsize-2528010.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cjp-students-protest-raf-probes-excessive-force-pellet-gun-charges-in-july-20-crackdown/articleshow/132605806.cms",
-    "time": "2026-07-24T12:37:40.000Z"
-  },
-  {
     "cat": "World",
     "title": "Understanding the Saudi-U.S. nuclear agreement",
     "desc": "Initially, nuclear fuel would be imported to Saudi Arabia, but the deal proposes a joint two-year study examining the value and commercial viability of enrichment for the kingdom; if the study concludes that local enrichment is warranted, U.S. companies would build and operate a uranium enrichment facility in the kingdom under an arrangement that would prevent transfer of sensitive enrichment technology to the Saudis",
@@ -250,24 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-down-900-points-nifty50-closes-below-23800-five-reasons-why-stock-market-crashed-today/articleshow/132604996.cms",
     "time": "2026-07-24T12:19:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Anna part two': Congress MP accuses Wangchuk of striking a deal with govt; BJP hits back",
-    "desc": "Congress MP Imran Masood accused activist Sonam Wangchuk of striking a deal with the government. He compared Wangchuk to Anna Hazare, suggesting future silence from the activist. The Bharatiya Janata Party criticized Congress for stooping low and insulting the climate activist. Wangchuk ended his 26-day hunger strike after negotiations with Union ministers. Meanwhile, the Cockroach Janata Party continues protests demanding a minister's resignation.",
-    "img": "https://static.toiimg.com/photo/msid-132605359,imgsize-1024715.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/anna-part-two-congress-mp-accuses-wangchuk-of-striking-a-deal-with-govt-bjp-hits-back/articleshow/132605354.cms",
-    "time": "2026-07-24T12:16:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'You do whatever you like?' Delhi HC pulls up EC for deploying school teachers for BLO duties during SIR",
-    "desc": "The Delhi high court questioned the Election Commission regarding teacher deployments. The court sought legal authority for compelling teachers to perform election duties. The commission cited Article 324 and the Representation of the People Act. Teachers are reportedly engaged during holidays and non-teaching hours. The court questioned the mandatory nature of these election assignments.",
-    "img": "https://static.toiimg.com/photo/msid-132605048,imgsize-1358543.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/you-do-whatever-you-like-delhi-hc-pulls-up-ec-for-deploying-school-teachers-for-blo-duties-during-sir/articleshow/132604441.cms",
-    "time": "2026-07-24T12:04:49.000Z"
   },
   {
     "cat": "Entertainment",
@@ -343,7 +442,7 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Dhamaal 4' BO Day 15 [LIVE]: Targets Rs 140 crore India net",
+    "title": "'Dhamaal 4' misses Rs 140 crore India net by Rs 85 lacs on Day 15",
     "desc": "Ajay Devgn-led comedy, 'Dhamaal 4' continues its theatrical momentum after a solid second week. After crossing Rs. 136.65 crore India net by Day 14, the film has begun Day 15 of its box office run. Here's a detailed breakdown of its day-wise earnings, worldwide box office performance, next milestones, and whether it can sustain momentum despite competition from Christopher Nolan's 'The Odyssey'.",
     "img": "https://static.toiimg.com/photo/msid-132602536,imgsize-125689.cms",
     "src": "indiatimes.com",
@@ -459,15 +558,6 @@ const newsData_en = [
     "time": "2026-07-24T08:04:22.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Monty Premnath on how he and his father met Manoj Kumar for the first time",
-    "desc": "In a nostalgic reflection, Monty Nath shared the story of his first meeting with famed actor Manoj Kumar on the film set where his father, Prem Nath, was actively engaged. As the shoot kicked off, Kumar was diligently crafting dialogues, leading to a discussion with Prem about the necessity of pre-prepared scripts. This initial interaction sparked a collaborative partnership that would last for years.",
-    "img": "https://static.toiimg.com/photo/msid-132599787,imgsize-153012.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/prem-naths-son-monty-nath-recalls-incident-with-manoj-kumar-and-his-father-says-they-reached-an-understanding-while-working-together/articleshow/132599704.cms",
-    "time": "2026-07-24T07:59:10.000Z"
-  },
-  {
     "cat": "Business",
     "title": "IndiGo, Air India oppose Adani’s airline entry",
     "desc": "It is a recipe for conflict of interest as well as squeezing other players; such a consolidation across the value chain not only kills competition but also results in fewer jobs, said an Air India official",
@@ -486,15 +576,6 @@ const newsData_en = [
     "time": "2026-07-24T07:45:03.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Historic first at Commonwealth Games as Braille medals debut in Glasgow",
-    "desc": "Glasgow 2026 will introduce historic medals with braille and tactile elements for visually impaired athletes. This innovation ensures a more inclusive experience for all competitors during the games. The medals feature a unique Reuleaux triangle shape inspired by Glasgow's coat of arms. Engraved patterns and textured finishes reflect local landmarks and Scottish heritage. This marks a significant step towards greater accessibility in the Commonwealth Games.",
-    "img": "https://static.toiimg.com/photo/msid-132598929,imgsize-104180.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/historic-first-at-commonwealth-games-as-braille-medals-debut-in-glasgow/articleshow/132598902.cms",
-    "time": "2026-07-24T07:20:35.000Z"
-  },
-  {
     "cat": "World",
     "title": "Russia warns U.S. against Ukraine arms sales in Manila meeting",
     "desc": "Mr. Lavrov and Rubio's meeting on the sidelines of a Southeast Asian summit, their first since September 2025, came as Washington's focus has switched from mediating in Ukraine to dealing with war in the West Asia",
@@ -502,15 +583,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/russia-warns-us-against-ukraine-arms-sales-in-manila-meeting/article71259513.ece",
     "time": "2026-07-24T07:04:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'My best wishes to Indian contingent': PM Modi's message for India ahead of CWG 2026",
-    "desc": "Prime Minister Narendra Modi wished India's 124-member contingent success ahead of the 2026 Commonwealth Games in Glasgow, expressing confidence in their passion and determination. India begins its campaign with bowls on Thursday before competing across eight sports and five para disciplines. Olympic champions Neeraj Chopra and Mirabai Chanu will lead India's medal hopes in athletics and weightlifting, respectively.",
-    "img": "https://static.toiimg.com/photo/msid-132598179,imgsize-68288.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/my-best-wishes-to-indian-contingent-pm-modis-message-for-team-india-ahead-of-cwg-2026/articleshow/132597988.cms",
-    "time": "2026-07-24T06:39:17.000Z"
   },
   {
     "cat": "Business",
@@ -522,15 +594,6 @@ const newsData_en = [
     "time": "2026-07-24T05:54:30.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'I am not taking it for granted': Sooryavanshi after breaking Sachin's record",
-    "desc": "Vaibhav Sooryavanshi achieved a record-breaking international half-century against Zimbabwe. This significant innings provided much-needed confidence for the young player. He became the youngest to score a fifty in men's international cricket. Sooryavanshi dedicated his milestone to his supportive family and coaches. India secured a seven-wicket victory in the opening T20I match.",
-    "img": "https://static.toiimg.com/photo/msid-132597320,imgsize-160460.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/i-am-not-taking-it-for-granted-vaibhav-sooryavanshi-after-breaking-sachin-tendulkars-record/articleshow/132597295.cms",
-    "time": "2026-07-24T05:41:09.000Z"
-  },
-  {
     "cat": "Business",
     "title": "RBI intervention lifts rupee 22 paise to 96.5 despite Brent crude topping $100",
     "desc": "The Indian Rupee recovered 22 paise against the US dollar in early trade. This recovery occurred despite crude oil prices breaching the $100 a barrel mark. The Reserve Bank of India's intervention likely helped stabilize the domestic currency. Foreign institutional investor outflows and weak domestic equities capped further gains for the Rupee. Brent crude prices rose amid escalating Middle East tensions and shipping route clashes.",
@@ -540,24 +603,6 @@ const newsData_en = [
     "time": "2026-07-24T05:22:42.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Ashes in India? Cricket Australia leaves door open for landmark 150th Test",
-    "desc": "Cricket Australia is open to staging the 150th anniversary Ashes Test in India. This reflects the growing importance of the Indian cricket market globally. The Big Bash League will also stage a match in Chennai this December. Hosting a marquee contest in India offers significant commercial opportunities. Scheduling challenges exist due to India's packed cricket calendar.",
-    "img": "https://static.toiimg.com/photo/msid-132596530,imgsize-150902.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ashes-in-india-cricket-australia-leaves-door-open-for-landmark-150th-test/articleshow/132596445.cms",
-    "time": "2026-07-24T04:52:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India, Pakistan on opposite sides of draw",
-    "desc": "The cricket schedule for the 2026 Asian Games has been announced, with defending champions India directly qualifying for the quarter-finals in both the men's and women's T20 events. India and Pakistan can only meet in the men's semi-finals or final. The women's team will begin its title defence against hosts Japan. The tournaments will be held in Aichi-Nagoya, Japan, in September.",
-    "img": "https://static.toiimg.com/photo/msid-132596109,imgsize-200048.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/asian-games-2026-cricket-schedule-india-pakistan-on-opposite-sides-of-draw-full-fixtures-revealed/articleshow/132595722.cms",
-    "time": "2026-07-24T04:24:54.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Onida plans comeback with new categories",
     "desc": "Launching its flagship 100-inch QD Mini LED television, the CEO and managing director of Ondia Electronics Limited, Gunjan Shrivastava said that the company has also decided to keep its iconic horned devil and will come up with a new advertisement approach for devil in next few months",
@@ -565,15 +610,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/onida-plans-comeback-with-new-categories/article71256880.ece",
     "time": "2026-07-24T02:30:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India's complete schedule, timings and medal events on Day 2",
-    "desc": "Indian athletes begin their campaigns in five sports on the second day. Para powerlifters will compete for medals in multiple weight categories. Gymnasts and boxers will also commence their events during the morning sessions. Swimmers and lawn bowls players are scheduled for heats and section matches. Several medal events are planned for Indian participants throughout the day.",
-    "img": "https://static.toiimg.com/photo/msid-132588026,imgsize-213174.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-complete-schedule-timings-and-medal-events-as-india-eye-medals-on-day-2/articleshow/132587504.cms",
-    "time": "2026-07-24T02:30:00.000Z"
   },
   {
     "cat": "Business",
@@ -837,15 +873,6 @@ const newsData_en = [
     "time": "2026-07-22T10:36:40.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Cricket’s governing body shifts the goalposts for the usual reasons",
-    "desc": "To change the format 15 months ahead of the World Cup with no assurance it won’t be changed again brings no credit to the ICC. Guaranteeing at least two India v Pakistan matches, perhaps even three, is a strong motivation",
-    "img": "https://th-i.thgim.com/public/news/national/62n5qo/article71252515.ece/alternates/LANDSCAPE_1200/iStock-1165653620.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/crickets-governing-body-shifts-the-goalposts-for-the-usual-reasons/article71249323.ece",
-    "time": "2026-07-22T07:19:43.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Director H. Vinoth interview",
     "desc": "Filmmaker H. Vinoth speaks about his upcoming film Jana Nayagan, starring Tamil Nadu Chief Minister Vijay, the unwavering support he received from the star during the turbulent months the film endured, what success means for a politically charged film that unfortunately leaked online, and more.",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/children/how-are-astronauts-trained/article71189012.ece",
     "time": "2026-07-22T04:49:19.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Anant Raj Board approves demerger of Data Centre & Cloud Services business",
-    "desc": "Under the proposed arrangement, Anant Raj will first consolidate all its data centre and cloud operations under one entity before carving them out into Ashok Cloud Pvt. Ltd, a dedicated digital infrastructure and cloud services company that will be listed independently",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/anant-raj-board-approves-demerger-of-data-centre-cloud-services-business/article71250782.ece",
-    "time": "2026-07-21T22:38:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tamil rapper Arivu detained during bid to protest against NEET near Secretariat in Chennai, CM Vijay meets him",
-    "desc": "Tamil Nadu Chief Minister C. Joseph Vijay invited Arivu — who is best known for his Tamil independent music including the hit song Enjoy Enjaami, Thalapathy Kacheri from ‘Jana Nayagan’ — to his chamber and listened to the singer’s concerns.",
-    "img": "https://th-i.thgim.com/public/incoming/oarp6s/article71249195.ece/alternates/LANDSCAPE_1200/20230909195510_0J3A1265.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-rapper-arivu-detained-during-bid-to-protest-against-neet-near-secretariat-in-chennai-cm-vijay-meets-him/article71249166.ece",
-    "time": "2026-07-21T18:24:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Balakrishna tears knee muscle in fall on ‘NBK 111’ sets; to undergo minor surgery",
-    "desc": "The actor slipped during an action sequence on the sets of ‘NBK 111’ at the Kakinada deep-sea port and tore a muscle in his knee; director Gopichand Malineni said he needs minor surgery and asked fans not to worry",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/asgitt/article69671065.ece/alternates/LANDSCAPE_1200/Nandamuri%20Balakrishna%20Gopichandh%20Malineni%20NBK%20111.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/balakrishna-tears-knee-muscle-in-fall-on-nbk-111-sets-to-undergo-minor-surgery/article71248680.ece",
-    "time": "2026-07-21T10:34:19.000Z"
   }
 ];
