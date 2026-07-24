@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "West Indies announce squad for Pakistan Test series; Joshua Bishop receives maiden call-up",
+    "desc": "In a major development, CWI (Cricket West Indies) has come forward and named its squad for the upcoming two-game Test series against Pakistan. The two sides will meet across two Test matches, with the first...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/west-indies-announce-squad-for-pakistan-test-series-joshua-bishop-receives-maiden-call-up-2026-07-24-1049228",
+    "time": "2026-07-24T02:18:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Exceptional batting': Shreyas Iyer heaps massive praise on Vaibhav Sooryavanshi after latter's stellar knock",
+    "desc": "The Indian team finally broke their losing streak and managed to register a victory against Zimbabwe in the first T20I of the ongoing three-game series. The two sides met in Harare for the clash on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/exceptional-batting-shreyas-iyer-heaps-massive-praise-on-vaibhav-sooryavanshi-after-latter-s-stellar-knock-2026-07-24-1049222",
+    "time": "2026-07-24T01:21:47.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India women's opponents for Asian Games cricket revealed as Women in Blue look for gold defence",
     "desc": "Indian women will be facing hosts Japan in the quarterfinals of the cricket event at the upcoming Asian Games as draws for cricket were revealed on Thursday, July 23. Apart from the women's competition, the...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/indian-athlete-ruled-out-of-commonwealth-games-2026-after-failing-nada-s-doping-test-2026-07-23-1049186",
     "time": "2026-07-23T13:05:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "SA20 2027 schedule announced, tournament to open with rematch of 2026 final; Newlands to host title clash",
-    "desc": "The SA20 organisers on Thursday announced the schedule for the upcoming season, with defending champions Sunrisers Eastern Cape and Pretoria Capitals playing a repeat of last season's final in the first match of the fifth...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sa20-2027-schedule-announced-tournament-to-open-with-rematch-of-2026-final-newlands-to-host-title-clash-2026-07-23-1049178",
-    "time": "2026-07-23T12:16:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Arshdeep Singh not playing in India vs Zimbabwe first T20I in Harare?",
-    "desc": "Arshdeep Singh has been left out of India's playing XI for the series opener against Zimbabwe in Harare, with the left-arm pacer rested as part of a wider rotation policy following a taxing few months...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-arshdeep-singh-not-playing-in-india-vs-zimbabwe-first-t20i-in-harare-2026-07-23-1049172",
-    "time": "2026-07-23T11:25:45.000Z"
   }
 ];
