@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "એક ઝટકે સોના-ચાંદીના ભાવમાં મોટો ઘટાડો, ઘટીને ભાવ ક્યાં પહોંચ્યા? ફટાફટ ચેક કરો આજનો રેટ",
+    "desc": "દેશના બજારોમાં આજે પણ સોના અને ચાંદીના ભાવમાં ઘટાડો જોવા મળ્યો છે. વાયદા બજારમાં સોનું લાલ નિશાનમાં જ્યારે ચાંદી લીલા નિશાનમાં જોવા મળી રહ્યા છે પરંતુ રિટેલ બજારમાં સોના ચાંદીના ભાવમાં મોટો ઘટાડો જોવા મળ્યો છે. જાણો લેટેસ્ટ રેટ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-price-today-down-on-ibja-check-mcx-global-market-rate-aaj-no-sona-chandi-no-bhav-485598 ",
+    "time": "2026-07-24T07:18:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "&amp;#039;5થી 10 વર્ષની જેલ અને ₹1 કરોડનો દંડ&amp;#039;: પેપર લીક સામે કાયદો કડક કરવાની તૈયારી",
+    "desc": "નવા સંશોધન બાદ પેપર લીકમાં દોષી સાબિત થનારને 10 વર્ષ સુધીની જેલની સજા થઈ શકે છે અને 1 કરોડનો દંડ ફટકારવામાં આવી શકે છે. આ સિવાય ઝડપથી કેસની સુનાવણી માટે ફાસ્ટ-ટ્રેક કોર્ટને વધુ અધિકાર આપવામાં આવી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/5-to-10-years-in-jail-1-crore-fine-strict-anti-paper-leak-law-amendments-on-the-anvil-485591 ",
+    "time": "2026-07-24T05:54:14.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "સરકારે માની 3 મુખ્ય માંગ, ભૂખ હડતાળ તોડ્યા બાદ સોનમ વાંગચુકનો બીજો વીડિયો વાયરલ",
     "desc": "સામાજિક કાર્યકર સોનમ વાંગચુકે 26 દિવસ બાદ પોતાની ભૂખ હડતાળ તોડી. તેમણે કહ્યું કે સરકાર અને વિવિધ રાજકીય પક્ષોના સાંસદો તરફથી મળેલા લેખિત આશ્વાસન બાદ તેમણે આ નિર્ણય લીધો. સરકારે સંસદમાં પરીક્ષા સુધાર પર ચર્ચા, શાંતિપૂર્ણ પ્રદર્શનકારીઓ પર કેદ નહીં નોંધવા અને નીટ પેપરલીકને પગલે આત્મહત્યા કરનારા પીડિત પરિવારનો વળતર પર સકારાત્મક ભરોસો આપ્યો છે.",
@@ -133,15 +151,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/zee5-unveils-teaser-for-new-web-series-the-scam-leaked-centered-around-paper-leaks-and-exam-mafia-485486 ",
     "time": "2026-07-22T15:23:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ચોમાસું બન્યું રૌદ્ર! દિલ્હીથી ગુજરાત સુધી 85ની સ્પીડે વાવાઝોડું અને મુસળધાર વરસાદની આગાહી, IMDનું મહા-એલર્ટ",
-    "desc": "દેશમાં સક્રિય ચોમાસા વચ્ચે એકવાર ફરી વરસાદ-વાવાઝોડાનું રૌદ્ર સ્વરૂપ જોવા મળશે. હવામાન વિભાગે કાલે એટલે કે 23 જુલાઈ માટે ગુજરાત, દિલ્હી, યુપી, બિહાર સહિત 11 રાજ્યોમાં ભારે વરસાદ અને તોફાનનું એલર્ટ જાહેર કરી દીધું છે. આ વરસાદ સાથે 85 કિલોમીટર પ્રતિ કલાકની ઝડપે તોફાની પવન ફૂંકાવાની શક્યતા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/weather-alert-torrential-rain-85-km/h-winds-to-hit-11-states-in-10-hours-imd-issues-warning-485451 ",
-    "time": "2026-07-22T11:31:59.000Z"
   },
   {
     "cat": "Business",
@@ -412,15 +421,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/imran-khan-sister-exposes-pakistan-army-sparks-major-row-485173 ",
     "time": "2026-07-19T15:32:35.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સેલરી હાઇકની સાથે અલગથી કેશ... આ કંપનીએ રજૂ કર્યું પગાર વધારાનું નવું મોડલ; કર્મચારીઓની લાગી લોટરી!",
-    "desc": "એક્સેન્ચર (Accenture)એ કર્મચારીઓ માટે પગાર વધારાનું નવું મોડલ લાગુ કર્યું છે. હવે પગાર વધારાનો એક ભાગ બેઝિક સેલરીમાં ઉમેરવામાં આવશે, જ્યારે બીજો ભાગ એકસાથે (Lump Sum) ચુકવણી તરીકે મળશે. કંપનીનું કહેવું છે કે, આનાથી કર્મચારીઓને વધુ પગાર વધારાનો લાભ મળશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/separate-cash-along-with-salary-hike-this-company-introduced-a-new-salary-hike-model-employees-won-the-lottery-485164 ",
-    "time": "2026-07-19T14:33:22.000Z"
   },
   {
     "cat": "World",

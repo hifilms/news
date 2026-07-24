@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Mukesh Kumar and Akash Deep appointed DSPs, CM Samrat Choudhary to present appointment letters",
+    "desc": "In a major development, India cricketers Mukesh Kumar and Akash Deep have been appointed as DSP (Deputy Superintendents of Police) under the sports quota. It is worth noting that the star duo received appointment letters...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mukesh-kumar-and-akash-deep-appointed-dsp-cm-samrat-choudhary-to-present-appointment-letters-2026-07-24-1049266",
+    "time": "2026-07-24T08:03:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mayank Yadav weighs in on his injury setbacks after sensational comeback for India",
+    "desc": "India pacer Mayank Yadav made his return to international cricket as the Men in Blue took on Zimbabwe in the first T20I of the ongoing three-game series. Following his debut in 2024, the fast bowler...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mayank-yadav-weighs-in-on-his-injury-setbacks-after-sensational-comeback-for-india-2026-07-24-1049257",
+    "time": "2026-07-24T07:13:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I was in my zone': Vaibhav Sooryavanshi opens up after quickfire half-century against Zimbabwe",
+    "desc": "The Indian team put forth a brilliant performance against Zimbabwe in the first T20I of the ongoing three-game series. Coming on the back of a losing streak in the shortest format, the Men in Blue...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/i-was-in-my-zone-vaibhav-sooryavanshi-opens-up-after-quickfire-half-century-against-zimbabwe-2026-07-24-1049249",
+    "time": "2026-07-24T05:51:26.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Can an Ashes Test match be held in India? Cricket Australia open to discussion on the possibility",
     "desc": "There is no doubt that the Ashes is one of the biggest cricket spectacles in the world. Australia and England share one of the most iconic rivalries in world cricket, and with the upcoming edition...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/tendulkar-gill-react-to-students-protests-in-delhi-master-blaster-shares-fathers-teachings-2026-07-23-1049203",
     "time": "2026-07-23T15:53:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Who is Putul Sonowal, the 43-year-old Indian who stunned world champion in bowls at Commonwealth Games?",
-    "desc": "India's Putul Sonowal made headlines for defeating the reigning world outdoor champion Ryan Bester in the bowls event at the Commonwealth Games 2026 on Thursday, July 23. Sonowal, the 43-year-old, defeated the Canadian champion in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/who-is-putul-sonowal-the-43-year-old-indian-who-stunned-world-champion-in-bowls-at-commonwealth-games-2026-07-23-1049199",
-    "time": "2026-07-23T15:12:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India break title hangover hoodoo to register first win under Shreyas Iyer in Zimbabwe",
-    "desc": "India's T20 title hangover seems to have ended as the Men in Blue broke the hoodoo with a crucial win in the first T20I of the three-match series against Zimbabwe on Thursday, July 23, at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-break-title-hangover-hoodoo-to-register-first-win-under-shreyas-iyer-in-zimbabwe-2026-07-23-1049192",
-    "time": "2026-07-23T14:15:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PV Sindhu, Lakshya Sen, Ayush Shetty knocked out of China Open 2026 on same day",
-    "desc": "India's challenge at the China Open 2026 came to an end on Thursday, July 23, after PV Sindhu, Lakshya Sen and Ayush Shetty were all eliminated in the second round of the BWF Super 1000...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/pv-sindhu-lakshya-sen-ayush-shetty-knocked-out-of-china-open-2026-on-same-day-2026-07-23-1049190",
-    "time": "2026-07-23T13:56:45.000Z"
   }
 ];
