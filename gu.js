@@ -1,6 +1,24 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "સરકારે માની 3 મુખ્ય માંગ, ભૂખ હડતાળ તોડ્યા બાદ સોનમ વાંગચુકનો બીજો વીડિયો વાયરલ",
+    "desc": "સામાજિક કાર્યકર સોનમ વાંગચુકે 26 દિવસ બાદ પોતાની ભૂખ હડતાળ તોડી. તેમણે કહ્યું કે સરકાર અને વિવિધ રાજકીય પક્ષોના સાંસદો તરફથી મળેલા લેખિત આશ્વાસન બાદ તેમણે આ નિર્ણય લીધો. સરકારે સંસદમાં પરીક્ષા સુધાર પર ચર્ચા, શાંતિપૂર્ણ પ્રદર્શનકારીઓ પર કેદ નહીં નોંધવા અને નીટ પેપરલીકને પગલે આત્મહત્યા કરનારા પીડિત પરિવારનો વળતર પર સકારાત્મક ભરોસો આપ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/cjp-protest-which-demands-government-accept-sonam-wangchuk-video-goes-viral-485581 ",
+    "time": "2026-07-24T04:13:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "સરકારે આજે CJP સાથે કરશે બેઠક, PM મોદીનું એલાન સરકાર 3 દિવસમાં પેપર લીકને લઈને કડક બિલ લાવશે",
+    "desc": "સામાજિક કાર્યકર્તા સોનમ વાંગચૂકે 26 માં દિવસે તેની ભૂખ હડતાલ પુરી કરી છે. સરકાર તરફથી લેખિતમાં આશ્વાસન મળ્યા બાદ તેમણે ભૂખ હડતાલ છોડી છે. આ સાથે જ જંતર મંતર પર ચાલતા પ્રદર્શન મામલે પણ સામે આવ્યું છે કે શુક્રવારે સીજેપીનું ડેલિગેશન સરકારને મળવા જશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/jantar-mantar-protest-update-after-sonam-wangchuk-end-hunger-strike-cjp-delegation-will-meet-government-485572 ",
+    "time": "2026-07-24T02:54:23.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "પેપર લીક રોકવા સંસદમાં બિલ લાવશે કેન્દ્ર સરકાર, PM મોદીએ વીડિયો સંદેશો જાહેર કરીને આપી ખાતરી",
     "desc": "નીટ (NEET) પેપર લીકને લઈને વડાપ્રધાન નરેન્દ્ર મોદીએ 23 જુલાઈની મોડી રાત્રે વિદ્યાર્થીઓના નામે વીડિયો સંદેશ જાહેર કર્યો છે. જેમાં પીએમ મોદીએ કહ્યું કે, 24 જુલાઈના રોજ યોજાનારી કેબિનેટ બેઠકમાં પેપર લીક વિરુદ્ધ વધુ કડક પગલાં લેવામાં આવશે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -124,24 +142,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/weather-alert-torrential-rain-85-km/h-winds-to-hit-11-states-in-10-hours-imd-issues-warning-485451 ",
     "time": "2026-07-22T11:31:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "IPL અને FEMA કેસમાં રાહત મળ્યા બાદ લલિત મોદી 16 વર્ષ પછી ભારત પરત ફરશે",
-    "desc": "આઈપીએલના સંસ્થાપક અને પ્રથમ ચેરમેન લલિત મોદી ભારત પરત ફરવાના છે. તેમણે ખુદ આ વાતની જાહેરાત કરી છે. ટ્રિબ્યૂનલના નિર્ણય બાદ લલિત મોદી 16 વર્ષ બાદ ભારત પરત ફરવાના છે. તેમણે આ વિશે જાણકારી આપી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/lalit-modi-to-return-to-india-after-16-years-following-major-legal-relief-in-ipl-fema-case-485450 ",
-    "time": "2026-07-22T11:09:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "પેપર લીક મુદ્દે NEET ટોપરનું મોટું નિવેદન, &amp;#039;ઘરે રહીને અભ્યાસ કરવાનું પસંદ કર્યું&amp;#039;",
-    "desc": "નીટ યુજી 2026ની ફરી લેવાયેલી પરીક્ષામાં AIR 2 પંશુલ બંસલે એક મોટું નિવેદન આપ્યું છે. કહ્યું કે પેપર રદ થવાથી નિરાશા જરૂર થઈ હતી પરંતુ મે લાંબો સમય સુધી નિરાશ થવાની જગ્યાએ મારા પરફોર્મન્સને વધુ સારા કરવા પર ધ્યાન આપ્યું અને ઘરે રહીને અભ્યાસ કરવાનું યોગ્ય સમજ્યું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/neet-ug-2026-topper-panshul-bansal-reaction-on-paper-leak-and-protest-485445 ",
-    "time": "2026-07-22T09:43:09.000Z"
   },
   {
     "cat": "Business",
@@ -603,15 +603,6 @@ const newsData_gu = [
     "time": "2026-07-15T11:36:27.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "શાહરુખ ખાને 18 કરોડમાં ખરીદેલી પ્રોપર્ટી આજે છે 300 કરોડની &amp;#039;મન્નત&amp;#039;, યસ બોસ ફિલ્મ સાથે છે આ ઘરનું ખાસ કનેકશન",
-    "desc": "સુપ્રીમ કોર્ટના નિર્ણય બાદ શાહરુખ ખાનનું આલીશાન ઘર મન્નત ફરી એકવાર ચર્ચામાં છે. જો તમે જાણતા ન હોય તો તમને જણાવી દઈએ કે શાહરુખ ખાનને 6 માળની પોતાની પ્રોપર્ટીમાં વધુ 2 માળ બનાવવાની પરવાનગી મળી છે. હવે 300 કરોડનું શાહરુખનું ઘર વધારે આલીશાન બની જશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/shah-rukh-khan-buy-mannat-at-18-crore-srk-and-mannat-connection-with-yes-boss-movie-484703 ",
-    "time": "2026-07-15T11:34:44.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "ભારતની સૌથી સસ્તી 7-સીટર કાર, કિંમત માત્ર 5.76 લાખથી શરૂ, જુઓ લિસ્ટ",
     "desc": "જો તમે તમારા મોટા પરિવાર માટે બજેટમાં 7 સીટર કાર ખરીદવા ઈચ્છો છો તો તમારી પાસે ઘણા શાનદાર વિકલ્પ છે. નિસાનથી લઈને મારૂતિ અને મહિન્દ્રા સુધીની આ કારો ઓછી કિંમતમાં સારી સ્પેસ અને ફીચર્સ સાથે ઉપલબ્ધ છે, જોઈએ તેનું લિસ્ટ.",
@@ -628,15 +619,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/kia-india-june-2026-sales-seltos-and-sonet-drive-volume-carens-and-carnival-see-drop-check-model-wise-report-484611 ",
     "time": "2026-07-14T12:06:12.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "અમેરિકાનો સતત ત્રીજા દિવસે ઈરાન પર હુમલો, તહેરાનનો વળતો પલટવાર, મિસાઈલ હુમલામાં ભારતીયનું મોત",
-    "desc": "ઈરાને હોર્મુઝ સ્ટ્રેટમાં UAEના બે ઓઈલ ટેન્કરો પર ક્રુઝ મિસાઈલોથી હુમલો કર્યો હતો, જેના કારણે જહાજોમાં આગ લાગી ગઈ હતી. આ ઘાતક હુમલામાં એક ભારતીય ક્રૂ મેમ્બરનું મોત થયું હતું અને 6 અન્ય ભારતીયો સહિત આઠ ખલાસીઓ ઘાયલ થયા હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/america-attacks-iran-for-the-third-consecutive-day-iran-responds-with-a-befitting-reply-indian-dies-in-missile-attack-484543 ",
-    "time": "2026-07-14T03:11:41.000Z"
   },
   {
     "cat": "Tech",

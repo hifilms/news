@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Can an Ashes Test match be held in India? Cricket Australia open to discussion on the possibility",
+    "desc": "There is no doubt that the Ashes is one of the biggest cricket spectacles in the world. Australia and England share one of the most iconic rivalries in world cricket, and with the upcoming edition...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/can-an-ashes-test-match-be-held-in-india-cricket-australia-open-to-discussion-on-the-possibility-2026-07-24-1049242",
+    "time": "2026-07-24T04:49:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Check Commonwealth Games 2026 Day 2 schedule; Where can India shine on July 24?",
+    "desc": "The stage is set for Day 2 of the ongoing Commonwealth Games 2026. There is plenty of action in store for the Indian athletes. There are a total of 11 events planned for July 24,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/check-commonwealth-games-2026-day-2-schedule-where-can-india-shine-on-july-24-2026-07-24-1049238",
+    "time": "2026-07-24T03:41:37.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "West Indies announce squad for Pakistan Test series; Joshua Bishop receives maiden call-up",
     "desc": "In a major development, CWI (Cricket West Indies) has come forward and named its squad for the upcoming two-game Test series against Pakistan. The two sides will meet across two Test matches, with the first...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/pv-sindhu-lakshya-sen-ayush-shetty-knocked-out-of-china-open-2026-on-same-day-2026-07-23-1049190",
     "time": "2026-07-23T13:56:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi creates world record, shatters Sachin Tendulkar's India feat with Zimbabwe fifty",
-    "desc": "Vaibhav Sooryavanshi has etched his name into the history books as he smashed his maiden T20I half-century during the first T20I against Zimbabwe at the Harare Sports Club on Thursday, July 23. Sooryavanshi, who had...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-creates-world-record-shatters-sachin-tendulkars-india-record-with-zimbabwe-fifty-2026-07-23-1049188",
-    "time": "2026-07-23T13:45:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Indian athlete ruled out of Commonwealth Games 2026 after failing NADA's doping test",
-    "desc": "India's squad for the 2026 Commonwealth Games has been reduced to 124 athletes after judoka Arun Kumar was ruled out of the Glasgow competition. The development follows an adverse analytical finding in an out-of-competition doping...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/indian-athlete-ruled-out-of-commonwealth-games-2026-after-failing-nada-s-doping-test-2026-07-23-1049186",
-    "time": "2026-07-23T13:05:48.000Z"
   }
 ];
