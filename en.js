@@ -1,5 +1,68 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Will Harry Kane stay? Bayern prepare talks as England captain enters final contract year",
+    "desc": "Harry Kane is set to open contract talks with Bayern Munich as the Bundesliga champions move to secure the England captain's long-term future. With his current deal entering its final year and interest growing from Barcelona and Saudi Arabia, Bayern are determined to avoid losing their star striker for free after another sensational season and impressive World Cup campaign.",
+    "img": "https://static.toiimg.com/photo/msid-132614919,imgsize-157730.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/will-harry-kane-stay-bayern-prepare-talks-as-england-captain-enters-final-contract-year/articleshow/132614655.cms",
+    "time": "2026-07-24T21:45:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Test cricket dictates to you what is necessary; if you push too hard, it will bite you: Mark Butcher",
+    "desc": "The former England cricketer talks about how the Test format is greater than any idea anybody may have about how it should be played, why he compared Vaibhav Sooryavanshi with Garry Sobers and what went into the making of his epic 173 not out against Australia in 2001",
+    "img": "https://th-i.thgim.com/public/incoming/2l88vm/article71263990.ece/alternates/LANDSCAPE_1200/GettyImages-2228293897.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/mark-butcher-exclusive-vaibhav-sooryavanshi-test-cricket-bazball/article71263993.ece",
+    "time": "2026-07-24T20:43:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "was his World Cup-winning Les Bleus tenure a success?",
+    "desc": "The debate over the 57-year-old’s managerial legacy will not disappear anytime soon. Critics will argue that his caution prevented France from reaching even greater heights. His supporters will counter that his discipline transformed limitless potential into sustained excellence",
+    "img": "https://th-i.thgim.com/public/incoming/mo3pdw/article71263981.ece/alternates/LANDSCAPE_1200/GettyImages-2285692664.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/didier-deschamps-france-analysis-legacy-world-cup-zinedine-zidane-manager/article71263988.ece",
+    "time": "2026-07-24T20:25:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jay-Z seeks to recover $119K from godmother of man who claims to be his son",
+    "desc": "Jay-Z has filed fresh legal documents seeking to prevent a $119,000 judgment against Lillie Coley, the godmother of Rymir Satterthwaite, from being discharged through bankruptcy. The rapper filed the request as part of Coley's ongoing bankruptcy proceedings, arguing that the debt should remain enforceable because it arose from conduct involving fraud and harassment rather than an ordinary financial obligation.",
+    "img": "https://static.toiimg.com/photo/msid-132614581,imgsize-92702.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jay-z-moves-to-block-119k-debt-from-being-erased-in-bankruptcy-case-linked-to-man-claiming-hes-the-rappers-son-report/articleshow/132614575.cms",
+    "time": "2026-07-24T20:20:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Amid manhunt for J&amp;K cop’s terrorist killers, detentions spike to 3.5k",
+    "desc": "Detentions across Jammu and Kashmir linked to a terrorist killing have risen significantly. Police have stepped up their crackdown on suspected sympathizers of armed groups in the region. A comprehensive security review meeting focused on the current operational environment and threat perception. Home minister Amit Shah spoke with the slain head constable's son after visiting the family. Chief Minister Omar Abdullah criticized the detentions and controlled explosions targeting terrorist homes.",
+    "img": "https://static.toiimg.com/photo/msid-132614554,imgsize-923308.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/amid-manhunt-for-jk-cops-terrorist-killers-detentions-spike-to-3-5k/articleshow/132614555.cms",
+    "time": "2026-07-24T20:09:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Amid rain &amp; fresh landslides, Jammu-Srinagar NH closure enters Day 3",
+    "desc": "Torrential rains have caused fresh landslides across Jammu and Kashmir. The Jammu-Srinagar National Highway remains closed for traffic for a third day. Major pilgrimages, including Amarnath and Vaishno Devi Yatras, are suspended for the sixth consecutive day. Several vehicles are stranded as authorities advise against travel due to safety concerns. Flash floods also affected households in Udhampur district without any casualties.",
+    "img": "https://static.toiimg.com/photo/msid-132614329,imgsize-1199830.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/amid-rain-fresh-landslides-jammu-srinagar-nh-closure-enters-day-3/articleshow/132614332.cms",
+    "time": "2026-07-24T19:28:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Haryana’s air pollution action plan: Centre suggests strict enforcement and accelerated implementation to curb pollution in a time-bound manner",
+    "desc": "The Centre reviewed Haryana's air pollution control measures and urged faster implementation. Focus is on stubble burning, industrial pollution, and road dust reduction. Efforts will accelerate EV adoption and manage legacy waste effectively. Information campaigns and farmer training will promote crop residue management. Strict enforcement and coordination are critical for cleaner air.",
+    "img": "https://static.toiimg.com/photo/msid-132614198,imgsize-598206.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/haryanas-air-pollution-action-plan-centre-suggests-strict-enforcement-and-accelerated-implementation-to-curb-pollution-in-a-time-bound-manner/articleshow/132614205.cms",
+    "time": "2026-07-24T19:20:47.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Cracks deepen in AIADMK dissidents’ camp",
     "desc": "Former Law Minister and leader of the rebel camp C.Ve. Shanmugam stays away from an official review meeting for Villupuram, while former Food Minister R. Kamaraj attends the event for Tiruvarur. Besides these districts, Edappadi K. Palaniswami takes stock of the party’s performance in Salem and Tiruvallur (south)",
@@ -16,6 +79,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/bangalore/directorate-of-enforcement-attaches-1906-crore-assets-in-gameskraft-money-laundering-probe/article71263148.ece",
     "time": "2026-07-24T19:13:56.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Indian seafarer killed in attack on ship in Black Sea",
+    "desc": "The External Affairs Ministry said MV Omorfi was attacked while transiting the Black Sea, reportedly in Russian territorial waters; at the time of the incident, there were 10 crew members on board, including three Indians",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/indian-seafarer-killed-in-attack-on-ship-in-black-sea/article71263875.ece",
+    "time": "2026-07-24T19:13:53.000Z"
   },
   {
     "cat": "Politics",
@@ -297,15 +369,6 @@ const newsData_en = [
     "time": "2026-07-24T13:10:57.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'There are Chinese projects on territories in J&amp;K that belong to India': MEA objects to illegal occupation",
-    "desc": "Ministry of External Affairs accused China of violating sovereignty and illegally occupying Indian territories. The government objected to Chinese projects in Jammu and Kashmir and Ladakh. This statement follows a meeting between Indian and Chinese foreign ministers. Chinese officials highlighted positive developments in bilateral relations and cooperation. Both nations aim to maintain peace and explore coexistence as major powers.",
-    "img": "https://static.toiimg.com/photo/msid-132606501,imgsize-592159.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/there-are-chinese-projects-on-territories-in-jk-that-belong-to-india-mea-objects-to-illegal-occupation/articleshow/132606465.cms",
-    "time": "2026-07-24T13:07:05.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India name Chess Olympiad squads as Gukesh, Pragg, Vaishali lead title defence",
     "desc": "Team India has announced formidable squads for the upcoming FIDE Chess Olympiad. Defending champions aim to retain both open and women's team titles. Prominent players like Gukesh and Praggnanandhaa will lead the men's team. Vaishali, a recent Women's Candidates winner, spearheads the women's lineup. Viswanathan Anand now serves as the interim FIDE president.",
@@ -313,15 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/india-name-star-studded-chess-olympiad-squads-as-gukesh-praggnanandhaa-vaishali-lead-title-defence/articleshow/132606133.cms",
     "time": "2026-07-24T12:44:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "How CJP protests are different and why that matters",
-    "desc": "Sonam Wangchuk ended his hunger strike after government assurances on paper leaks. The government promised fast-track courts and tougher punishments for offenders. New education secretaries were appointed, signaling bureaucratic shifts. The CJP protest utilized social media, challenging traditional political communication. This youth movement forced a direct intervention from Prime Minister Narendra Modi.",
-    "img": "https://static.toiimg.com/photo/msid-132605809,imgsize-187532.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/instagram-vs-whatsapp-how-cjp-protests-are-different-and-why-that-matters/articleshow/132605420.cms",
-    "time": "2026-07-24T12:44:29.000Z"
   },
   {
     "cat": "World",
@@ -541,15 +595,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Matthew Needham cast as Joker in ‘Batman: Caped Crusader’ Season 2",
-    "desc": "The announcement at San Diego Comic-Con highlighted that Matthew Needham will lend his voice to the iconic Joker in the second season. Alongside this, the premiere episode was screened for a few lucky viewers, raising anticipation. Mark your calendars for July 31, as both the animated series and video game release, ready for streaming on Prime Video.",
-    "img": "https://static.toiimg.com/photo/msid-132600123,imgsize-129340.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/batman-caped-crusader-season-2-matthew-needham-from-house-of-the-dragon-joins-animated-series-as-joker/articleshow/132599971.cms",
-    "time": "2026-07-24T08:18:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Aamir Khan's step brother Hyder forced ex-wife to sleep with directors to get money",
     "desc": "Actress Eva Grover detailed allegations against her former husband, Hyder Ali Khan. She claimed he pressured her for financial stability through intimate relationships with directors. Grover stated she sacrificed personal finances and career opportunities for their family. She also revealed Khan suffered from schizophrenia and their marriage became abusive. Grover expressed sympathy for Khan's current difficult and solitary circumstances.",
     "img": "https://static.toiimg.com/photo/msid-132599860,imgsize-241851.cms",
@@ -628,15 +673,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/fathers-govardhan-parikrama-in-mathura-pays-off-as-mayank-yadav-makes-a-fiery-return/articleshow/132594270.cms",
     "time": "2026-07-24T01:13:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Captaincy weighed him down, freedom set him free: The remarkable second act of Root",
-    "desc": "Joe Root's remarkable consistency guides England to ODI series victory. He scored 249 runs across three innings, proving his enduring value. Root's game has evolved, making him a headache for opposing teams. His enduring passion fuels his desire to be England's greatest batter. Root's presence provides comfort and freedom for younger English players.",
-    "img": "https://static.toiimg.com/photo/msid-132580093,imgsize-2039767.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/captaincy-weighed-him-down-freedom-set-him-free-the-remarkable-second-act-of-joe-root/articleshow/132579947.cms",
-    "time": "2026-07-24T00:30:00.000Z"
   },
   {
     "cat": "Sports",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/science/rome-declaration-convergent-perils-luminaries-human-ethics-outsourced-ai/article71252976.ece",
     "time": "2026-07-22T10:39:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gill one point shy of world No. 1 in latest ICC ODI batting rankings",
-    "desc": "Gill scored 188 runs in three matches in the 1-2 series defeat to England and is now just one rating point behind table-topper Daryl Mitchell, who has 802 points, while Kohli (767) and Rohit (758) occupy the third and fourth spots respectively",
-    "img": "https://th-i.thgim.com/public/incoming/kfcqr0/article71252977.ece/alternates/LANDSCAPE_1200/20260719405L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/gill-one-point-shy-of-world-no-1-in-latest-icc-odi-batting-rankings/article71252968.ece",
-    "time": "2026-07-22T10:36:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Director H. Vinoth interview",
-    "desc": "Filmmaker H. Vinoth speaks about his upcoming film Jana Nayagan, starring Tamil Nadu Chief Minister Vijay, the unwavering support he received from the star during the turbulent months the film endured, what success means for a politically charged film that unfortunately leaked online, and more.",
-    "img": "https://th-i.thgim.com/public/incoming/m4env2/article71250755.ece/alternates/LANDSCAPE_1200/a%20positive%20person.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-h-vinoth-interview-on-jana-nayagan-and-thalapathy-vijays-support-during-testing-times/article71250750.ece",
-    "time": "2026-07-22T06:56:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Prime Video original ‘Phoolan’ to be screened at Toronto International Film Festival",
-    "desc": "Directed by Richie Mehta and inspired by the true story of Phoolan Devi, the film tells the story of a defining chapter in her life, where thousands of men trap her in a village in an attempt to kill her",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/nakys7/article71248977.ece/alternates/LANDSCAPE_1200/Phoolan.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/prime-video-phoolan-toronto-international-film-festival-tiff-richie-mehta-phoolan-devi-bandit-queen/article71248980.ece",
-    "time": "2026-07-22T04:59:58.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Space Exploration Day",
-    "desc": "If you want to be in space, you’ll need training. A lot of it. Here’s a look at all the different training — from spacewalk to simulation — that astronauts undergo to be efficient and valiant when, after much waiting, they finally get to space!",
-    "img": "https://th-i.thgim.com/public/incoming/vcdr6w/article71239165.ece/alternates/LANDSCAPE_1200/IMG_APTOPIX_Germany_Moon_2_1_ECDCKUA4.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/children/how-are-astronauts-trained/article71189012.ece",
-    "time": "2026-07-22T04:49:19.000Z"
   }
 ];
