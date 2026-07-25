@@ -1,5 +1,77 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "UP govt reconstitutes SIT; IG Kiran S to lead probe",
+    "desc": "Uttar Pradesh government formed a new SIT to investigate alleged embezzlement of temple offerings. This team, led by senior IPS officers, replaces the earlier investigation panel. The Supreme Court directed the state to form a fresh SIT under a senior IPS officer. Investigators previously examined financial records and questioned temple staff about donation irregularities. The new SIT will submit its findings to the Supreme Court on July 27.",
+    "img": "https://static.toiimg.com/photo/msid-132633278,imgsize-1231204.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ram-temple-donation-theft-row-up-govt-reconstitutes-sit-ig-kiran-s-to-lead-probe/articleshow/132633276.cms",
+    "time": "2026-07-25T20:19:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranvir says PM Modi's Governement has won over enemies with Dharmendra Pradhan's resignation",
+    "desc": "Actors Ranvir Shorey and Tara Deshpande offered contrasting views on the minister's resignation. Shorey criticized the government's handling of the situation and the timing of the exit. Deshpande highlighted Pradhan's past contributions across various government portfolios. Many other film industry figures publicly supported the student protests and movement. Social media saw widespread discussion and varied opinions following the resignation announcement.",
+    "img": "https://static.toiimg.com/photo/msid-132633250,imgsize-319437.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/as-dharmendra-pradhan-resigns-ranvir-shorey-says-pm-modis-government-has-won-over-its-enemies-with-one-move-actress-tara-deshpande-expresses-disappointment/articleshow/132633228.cms",
+    "time": "2026-07-25T20:07:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Leaked Infantino letter praising Argentina's 'professionalism' emerges amid FIFA probe into World Cup final brawl",
+    "desc": "A leaked letter from FIFA president Gianni Infantino congratulating Argentina on their 2026 World Cup runners-up finish has sparked controversy after praising the team's professionalism despite an ongoing FIFA disciplinary investigation into post-final clashes with Spain. The correspondence has drawn scrutiny over FIFA's handling of the incidents, with critics questioning the timing and tone of the private message.",
+    "img": "https://static.toiimg.com/photo/msid-132633235,imgsize-61264.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/leaked-infantino-letter-praising-argentinas-professionalism-emerges-amid-fifa-probe-into-world-cup-final-brawl/articleshow/132633134.cms",
+    "time": "2026-07-25T19:59:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Slain Ayatollah Ali Khamenei’s jail diary sells like hot cakes in this year’s Kashmir book festival",
+    "desc": "The ongoing war between Iran and the U.S. has generated a lot of interest among readers in Kashmir to know about the spiritual leadership of Iran, which has shaped the country in the past four decades",
+    "img": "https://th-i.thgim.com/public/incoming/urkm2m/article71267510.ece/alternates/LANDSCAPE_1200/20260724_162136.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/slain-ayatollah-ali-khameneis-jail-diary-sells-like-hot-cakes-in-this-years-kashmir-book-festival/article71266791.ece",
+    "time": "2026-07-25T19:53:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "District Legal Services Authority begins functioning in Vijayanagara",
+    "desc": "The newly constituted District Legal Services Authority will take free legal aid to the doorsteps of the poor and promote amicable settlement of disputes before they reach courts, Karnataka High Court Judege Justice Pradeep Singh Yerur said",
+    "img": "https://th-i.thgim.com/public/incoming/tk5u0z/article71267505.ece/alternates/LANDSCAPE_1200/10258_25_7_2026_19_9_0_2_JUSTICE_PRADEEP_SINGH_YERUR_2.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/district-legal-services-authority-begins-functioning-in-vijayanagara/article71266429.ece",
+    "time": "2026-07-25T19:33:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Collegiate Education Department releases list of 129 associate professors for promotion as principals to Grade II colleges",
+    "desc": "The list of eligible associate professors would be included in the regular panel for promotion to the post of principal Grade II for the year 2026-27. However, this was subject to the outcome of ongoing court cases, a G.O. read",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/collegiate-education-department-releases-list-of-129-associate-professors-for-promotion-as-principals-to-grade-ii-colleges/article71267044.ece",
+    "time": "2026-07-25T19:33:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Country, youth &amp; students far more important than any post': Amit Shah on Dharmendra Pradhan's resignation as education minister",
+    "desc": "Union Home Minister Amit Shah stated the country and students are more important than any position. He reaffirmed the Modi government's commitment to reforms against paper leaks. Dharmendra Pradhan resigned as Union Education Minister amid nationwide protests over the NEET-UG paper leak. Pralhad Joshi was given additional charge of the education ministry later that day. The government respects youth sentiments and ensures justice for NEET aspirants.",
+    "img": "https://static.toiimg.com/photo/msid-132633011,imgsize-1215087.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/country-youth-students-far-more-important-than-any-post-amit-shah-on-dharmendra-pradhans-resignation/articleshow/132632858.cms",
+    "time": "2026-07-25T19:08:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why are there protests over the Ken-Betwa project?",
+    "desc": "Why does the project aim to do? How many villages and families are likely to be affected by it? What are the concerns of the tribal people regarding rehabilitation and compensation? Why has the project raised concerns among conservationists?",
+    "img": "https://th-i.thgim.com/public/incoming/lyc4cj/article71267407.ece/alternates/LANDSCAPE_1200/PTI07_19_2026_000538B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/why-are-there-protests-over-the-ken-betwa-project/article71267449.ece",
+    "time": "2026-07-25T18:53:14.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "'Rajesh Khanna wanted divorce from Dimple, but she refused, had big demands,' says Anita Advani",
     "desc": "Anita Advani sought legal recognition for her relationship with Rajesh Khanna. The Bombay High Court dismissed her appeal, citing it as a live-in relationship. Advani stated Khanna repeatedly sought divorce from Dimple Kapadia, which was refused. She highlighted the legal complexities of relationships when a formal divorce is absent. The court's decision left Advani without legal standing for her long-term association.",
@@ -18,6 +90,15 @@ const newsData_en = [
     "time": "2026-07-25T18:31:26.000Z"
   },
   {
+    "cat": "Politics",
+    "title": "Dharmendra Pradhan tenders resignation as Union Education Minister; CJP calls off protests",
+    "desc": "Protesters erupt in joy; President appoints Pralhad Joshi as new Education Minister; we have done it, says Dipke; govt. promises compensation to kin of NEET aspirants who died by suicide and withdrawal of FIRs against protesters; CJP protest a signal to farmers, labourers, poor people to stand up to the govt., says Rahul; Kharge seeks strict action against those who ‘unleashed lathis and pellet guns’",
+    "img": "https://th-i.thgim.com/public/incoming/axhzuk/article71265717.ece/alternates/LANDSCAPE_1200/PTI09_23_2025_000210A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/dharmendra-pradhan-quit-resign-as-union-education-minister-jantar-mantar-protest-july-25-2026/article71265711.ece",
+    "time": "2026-07-25T18:26:20.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "No medals for India, but Sachin advances and Rupa-Pinki stay unbeaten",
     "desc": "Sachin Siwach advanced in boxing while Rupa Rani Tirkey and Pinki Singh continued their lawn bowls unbeaten streak. India's artistic gymnastics team secured fifth place in their subdivision competition. Both swimmers failed to reach the 400m freestyle final, ending their pool challenge. The women's wheelchair basketball team faced a significant defeat against Wales.",
@@ -25,6 +106,42 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-day-3-no-medals-for-india-but-sachin-siwach-advances-and-rupa-pinki-stay-unbeaten/articleshow/132631873.cms",
     "time": "2026-07-25T18:11:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘India has a balanced team, but the Olympiad is a long event’: Swayams Mishra",
+    "desc": "The Indian team comprising Koneru Humpy, R. Vaishali, Divya Deshmukh, Vantika Agarwal, and B. Savitha Shri, will be among the strongest and Mishra said the focus will be on preparing well and taking it one match at a time",
+    "img": "https://th-i.thgim.com/public/incoming/jd4wcy/article71267384.ece/alternates/LANDSCAPE_1200/90092_10-2-2018_16-8-2_NATIONALTEAMCHESSCHAMPIONSHIP_1.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/india-has-a-balanced-team-but-the-olympiad-is-a-long-event-swayams-mishra/article71266653.ece",
+    "time": "2026-07-25T17:52:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘This is only the beginning’: Students celebrate Pradhan’s exit",
+    "desc": "Cockroach Janta Party (CJP) supporters celebrated at Delhi’s Jantar Mantar after Union Education Minister Dharmendra Pradhan resigned amid the controversy over alleged examination irregularities and the NEET paper leak. The resignation comes after weeks of protests and was one of the key demands raised by the movement.",
+    "img": "https://th-i.thgim.com/public/news/national/dyoc2r/article71267381.ece/alternates/LANDSCAPE_1200/Thumbnail.jpg.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-this-is-only-the-beginning-students-celebrate-pradhans-exit/article71267372.ece",
+    "time": "2026-07-25T17:52:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Hundred days in office, Bihar CM dedicates projects worth ₹11,464 crore",
+    "desc": "Mr. Choudhary says that serving as Chief Minister for 100 days is an emotional moment for him; he adds that continuous efforts are being made to ensure self-reliance for the 14 crore people of Bihar",
+    "img": "https://th-i.thgim.com/public/incoming/d9osgr/article71267328.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-25%20at%2016.30.14.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/hundred-days-in-office-bihar-cm-dedicates-projects-worth-11464-crore/article71266210.ece",
+    "time": "2026-07-25T17:39:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Deputy CM Pawan Kalyan calls for speedy dispersal of seed balls",
+    "desc": "Use more drones in the exercise with due focus on covering degraded forest areas, he tells officials, while observing that it is crucial for achieving the targets of forest restoration and 50% green cover in the State",
+    "img": "https://th-i.thgim.com/public/incoming/k07hdh/article71267097.ece/alternates/LANDSCAPE_1200/Tackle-El-Nino-GFLG9N1OB.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/deputy-cm-pawan-kalyan-calls-for-seedy-dispersal-of-seed-balls/article71266817.ece",
+    "time": "2026-07-25T17:36:57.000Z"
   },
   {
     "cat": "Sports",
@@ -36,6 +153,33 @@ const newsData_en = [
     "time": "2026-07-25T17:26:04.000Z"
   },
   {
+    "cat": "Politics",
+    "title": "Jantar Mantar erupts into celebration, dancing, and slogans as Pradhan resigns",
+    "desc": "Protestors hugged one another, broke into tears, and danced to patriotic Bollywood songs as chants of victory echoed through the crowd and slogans like ‘Haar gaye, haar gaye, Tanashah haar gaye’ reverberated across the venue",
+    "img": "https://th-i.thgim.com/public/incoming/51ijyd/article71265844.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-25%20at%2015.36.29.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jantar-mantar-cjp-celebration-as-dharmendra-pradhan-tenders-resignation/article71265842.ece",
+    "time": "2026-07-25T17:25:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Amit Shah ‘directly responsible’ for violence against students, says Rahul Gandhi",
+    "desc": "Claims Mr. Shah authorised use of lethal weapons on students; says PM should apologise; says Education Minister’s resignation is a “victory of our students”, but will not solve deeper crisis of education and employment in India",
+    "img": "https://th-i.thgim.com/public/incoming/mtjdsw/article71267338.ece/alternates/LANDSCAPE_1200/RAHUL%20GANDHI%20PC%209.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/students-are-indias-future-modi-is-past-past-can-never-fight-future-rahul-gandhi/article71265925.ece",
+    "time": "2026-07-25T17:14:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Drop Shot Ep. 4",
+    "desc": "In this episode, we capture the excitement surrounding Vijay’s Jana Nayagan as fans celebrate what could be the actor’s final film and director H. Vinoth shares insights into the much-awaited release. We then explore The Keeper of the Wells, as Chennai-based author Zhayynn James discusses his debut novel inspired by the historic Seven Wells neighbourhood of North Chennai. Finally, we head to Mumbai for a look at designer Gaurav Gupta’s latest bridal couture collection, Light Song, where sculptural silhouettes, intricate craftsmanship and contemporary design redefine modern bridal fashion.",
+    "img": "https://th-i.thgim.com/public/news/national/ebb04v/article71267292.ece/alternates/LANDSCAPE_1200/Screenshot%202026-07-25%20at%2010.26.36%E2%80%AFPM.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-drop-shot-ep-4-jana-nayagan-fever-the-keeper-of-the-wells-gaurav-guptas-light-song/article71267288.ece",
+    "time": "2026-07-25T17:12:51.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "'Ramayana' trailer leaked again, shows Yash's entry as Raavan, netizens react",
     "desc": "The Ramayana trailer release, planned for July 24, 2026, has been unexpectedly postponed. Multiple leaked clips from the unreleased promo have now appeared online, sparking fan discussion. Viewers expressed excitement about the film's grand scale and visuals despite the footage quality. Concerns were raised about security measures failing to prevent the trailer's premature online debut. The makers have yet to announce a revised release date for the official trailer.",
@@ -43,6 +187,24 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-trailer-leaked-again-shows-yashs-entry-as-raavan-netizens-urge-the-makers-of-the-ranbir-kapoor-starrer-to-drop-it-officially-they-should-have-stronger-security-measures/articleshow/132630483.cms",
     "time": "2026-07-25T17:08:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Sharad Pawar says PM may have heeded his advice to hold talks with protesting youth",
+    "desc": "Education Minister’s resignation is a victory for the unity of youth power, says Mr. Pawar; youth have rid India of fear, say Thackeray cousins, continuing plans for the Tiranga March, a protest rally turned celebration",
+    "img": "https://th-i.thgim.com/public/incoming/cgup3d/article71266353.ece/alternates/LANDSCAPE_1200/PTI07_22_2026_000061B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/had-urged-pm-to-hold-talks-with-cjp-he-may-have-heeded-my-advice-sharad-pawar/article71266300.ece",
+    "time": "2026-07-25T17:08:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CJP Protest: Mumbai’s young voices on accountability and change| Pulse Maharashtra",
+    "desc": "A ground report from Mumbai exploring how Gen Z views the CJP agitation, the issues that brought young people into the movement, and their expectations around accountability, reforms, and change. Hear directly from young voices as they share their perspectives on the protest and its impact.",
+    "img": "https://th-i.thgim.com/public/news/national/31qnhy/article71267323.ece/alternates/LANDSCAPE_1200/Karnataka%E2%80%93MahaRASHTRA%20Border%20Dispute%20Why%20No%20Solution%201.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-cjp-protest-mumbais-young-voices-on-accountability-and-change-pulse-maharashtra/article71267282.ece",
+    "time": "2026-07-25T17:07:51.000Z"
   },
   {
     "cat": "Sports",
@@ -54,6 +216,24 @@ const newsData_en = [
     "time": "2026-07-25T16:42:07.000Z"
   },
   {
+    "cat": "Business",
+    "title": "NTPC board approves raising up to ₹12,000 crore via NCD issue",
+    "desc": "The company said the issuance period will commence from the date of passing of the special resolution until completion of one year thereof or the date of the next Annual General Meeting in the financial year 2027-28, whichever is earlier.",
+    "img": "https://th-i.thgim.com/public/incoming/2sdr6e/article71267209.ece/alternates/LANDSCAPE_1200/Bondada-EngineeG4EG4E9T0.5.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/ntpc-board-approves-raising-up-to-12000-crore-via-ncd-issue/article71267207.ece",
+    "time": "2026-07-25T16:32:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Test cricket dictates to you what is necessary; if you push too hard, it will bite you: Mark Butcher",
+    "desc": "The former England cricketer talks about how the Test format is greater than any idea anybody may have about how it should be played, why he compared Vaibhav Sooryavanshi with Garry Sobers and what went into the making of his epic 173 not out against Australia in 2001",
+    "img": "https://th-i.thgim.com/public/incoming/2l88vm/article71263990.ece/alternates/LANDSCAPE_1200/GettyImages-2228293897.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/mark-butcher-exclusive-vaibhav-sooryavanshi-test-cricket-bazball/article71263993.ece",
+    "time": "2026-07-25T16:09:00.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "‘It's all about the attitude’: Shreyas hails young India after first series win as captain",
     "desc": "India secured a dominant series victory against Zimbabwe under Shreyas Iyer's leadership. Ishan Kishan and Tilak Varma's aggressive batting propelled India to a substantial total. The bowlers then effectively restricted Zimbabwe to a manageable score in the second match. This series win highlighted the young team's positive and attacking approach to the game.",
@@ -61,6 +241,24 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/its-all-about-the-attitude-shreyas-iyer-hails-fearless-young-india-after-first-series-win-as-captain/articleshow/132629735.cms",
     "time": "2026-07-25T15:55:46.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Venezuela notifies UN of withdrawal from ICC, alleging 'bias'",
+    "desc": "The government justified ​the move by alleging a “geographical bias” within the court, claiming it ⁠disproportionately targets nations in the Global South, specifically across Africa and Latin America, Felix Plasencia said in a post on X.",
+    "img": "https://th-i.thgim.com/public/incoming/4sl9j2/article71267074.ece/alternates/LANDSCAPE_1200/ICC_Sanction_Lawsuit_258_8.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/venezuela-notifies-un-of-withdrawal-from-icc-alleging-bias/article71267057.ece",
+    "time": "2026-07-25T15:42:08.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran is prepared for U.S. ground invasion: Mohammad Marandi",
+    "desc": "In this interview with The Hindu‘s International Affairs Editor Stanly Johny, political analyst Mohammad Marandi discusses Iran’s response to the possibility of a U.S. ground invasion, regional security dynamics, and the evolving geopolitical situation in West Asia.",
+    "img": "https://th-i.thgim.com/public/news/national/ahct30/article71266985.ece/alternates/LANDSCAPE_1200/afghan%201.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/videowatch-iran-is-prepared-for-us-ground-invasion-mohammad-marandi/article71267003.ece",
+    "time": "2026-07-25T15:31:33.000Z"
   },
   {
     "cat": "Entertainment",
@@ -189,24 +387,6 @@ const newsData_en = [
     "time": "2026-07-25T12:42:57.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Cheating mafia will not be spared': Yogi Adityanath amid protests over NEET row",
-    "desc": "Uttar Pradesh chief minister Yogi Adityanath pledged a crackdown on the cheating mafia. His government will seize properties and imprison those involved in exam malpractice. Adityanath also criticised opposition parties for corruption and shielding criminal elements. He highlighted Prime Minister Modi's initiatives transforming opportunities for young people. The chief minister's remarks precede upcoming state assembly elections.",
-    "img": "https://static.toiimg.com/photo/msid-132626007,imgsize-101186.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cheating-mafia-will-not-be-spared-yogi-adityanath-amid-protests-over-neet-row/articleshow/132626019.cms",
-    "time": "2026-07-25T12:36:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "FIRs against protesters to be quashed, compensation to be given &amp; 5-point Charter: What Centre, CJP said in joint press meet",
-    "desc": "The Cockroach Janta Party ended its 36-day protest at Jantar Mantar. This decision followed three rounds of talks with the central government delegation. The government accepted two key demands, including the minister's resignation. All legal cases filed against protesters and organizers will now be withdrawn. The party continues to pursue compensation for families affected by the NEET paper leak.",
-    "img": "https://static.toiimg.com/photo/msid-132626126,imgsize-97996.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/firs-against-protesters-to-be-quashed-compensation-to-be-given-5-point-charter-what-centre-cjp-said-in-joint-press-meet/articleshow/132625437.cms",
-    "time": "2026-07-25T12:13:51.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Rupa Rani, Pinki stay unbeaten as Indian duo closes in on women's pairs semis",
     "desc": "India's women's lawn bowls pair Rupa Rani Tirkey and Pinki Singh won their third match. They defeated Tonga in a tense tie-breaker to advance in the competition. This victory keeps their unbeaten run alive at the Commonwealth Games 2026. Meanwhile, Indian swimmers Dhakshan Shashikumar and Aryan Nehra did not qualify for finals. They competed in the men's 400m freestyle event at the swimming centre.",
@@ -214,15 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-rupa-rani-tirkey-pinki-singh-stay-unbeaten-as-india-closes-in-on-womens-pairs-semifinals/articleshow/132625370.cms",
     "time": "2026-07-25T12:06:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Similar symptoms, climate change &amp; testing gaps: Why monsoon illnesses are so often misdiagnosed",
-    "desc": "Monsoon illnesses often present with symptoms similar to common viral fevers. Overlapping symptoms and diagnostic infrastructure gaps delay timely detection of these diseases. Vector-borne illnesses like dengue and chikungunya surge during the rainy season. Climate change and urbanization contribute to year-round breeding habitats for disease vectors. Prompt medical care is crucial for infants and children facing increased monsoon health risks.",
-    "img": "https://static.toiimg.com/photo/msid-132624967,imgsize-356898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/similar-symptoms-climate-change-testing-gaps-why-monsoon-illnesses-are-so-often-misdiagnosed/articleshow/132624851.cms",
-    "time": "2026-07-25T11:50:14.000Z"
   },
   {
     "cat": "Entertainment",
@@ -241,15 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/christopher-nolan-admits-being-afraid-to-direct-this-genre-i-think-thats-one-of-the-hardest-things/articleshow/132624809.cms",
     "time": "2026-07-25T11:34:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Proud of you, Pradhan's exit a signal ... let's get rid of this regime': Rahul hails youth, asks PM Modi to apologise",
-    "desc": "Rahul Gandhi congratulated youth protesters following Dharmendra Pradhan's resignation. He called the minister's departure a significant step for the education system. Gandhi praised students for fighting for democracy and the constitution. He urged the government to hold accountable those who assaulted students. The Prime Minister was also asked to apologize to the protesting students.",
-    "img": "https://static.toiimg.com/photo/msid-132624600,imgsize-1104356.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/proud-of-you-pradhans-exit-a-signal-lets-get-rid-of-this-regime-rahul-hails-youth-asks-pm-modi-to-apologise/articleshow/132624567.cms",
-    "time": "2026-07-25T11:25:11.000Z"
   },
   {
     "cat": "Entertainment",
@@ -342,22 +504,31 @@ const newsData_en = [
     "time": "2026-07-25T09:30:54.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Amid dating rumors with Raghav Juyal, Shehnaaz Gill says love doesn't need a perfect ending",
-    "desc": "Shehnaaz Gill believes love is meaningful whether fulfilled or not. She encourages focusing on the present moment and living with loyalty. Her film 'Ishqnama' explores a cross-border love story inspired by real events. The movie unfolds along the India-Pakistan border between 1981 and 1988. Raghav Juyal also addressed viral videos sparking dating rumors.",
-    "img": "https://static.toiimg.com/photo/msid-132622182,imgsize-250541.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amid-dating-rumors-with-raghav-juyal-shehnaaz-gill-says-love-doesnt-need-a-perfect-ending-urges-everyone-to-live-in-the-present/articleshow/132622123.cms",
-    "time": "2026-07-25T08:46:52.000Z"
+    "cat": "World",
+    "title": "Over 1,66,000 evacuated as wildfires spin out of control in France, Spain",
+    "desc": "French President Emmanuel Macron on July 24, asked the army to mobilise to help contain the worst wildfire the country has ever seen after seeking European Union help, as a local official warned the blaze was heading towards Bordeaux",
+    "img": "https://th-i.thgim.com/public/incoming/173eyj/article71264699.ece/alternates/LANDSCAPE_1200/2026-07-24T222513Z_1981115009_RC2FKMAS3Y2G_RTRMADP_3_EUROPE-WEATHER-SPAIN-WILDFIRE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/166000-evacuated-as-wildfires-spin-out-of-control-in-france-spain/article71264193.ece",
+    "time": "2026-07-25T05:52:37.000Z"
   },
   {
     "cat": "Sports",
-    "title": "India's Lanka squad by Tuesday; BCCI review to put support staff under scanner",
-    "desc": "The BCCI will announce India's squad for the two-Test tour of Sri Lanka by Tuesday, secretary Devajit Saikia confirmed. The board will also review India's recent white-ball tours of Ireland, England and Zimbabwe in early August. The meeting will determine the future of assistant coach Ryan ten Doeschate and fielding coach T Dilip, whose contracts have expired after the ongoing tour.",
-    "img": "https://static.toiimg.com/photo/msid-132622039,imgsize-81036.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/indias-sri-lanka-squad-by-tuesday-bcci-review-to-put-support-staff-under-scanner/articleshow/132621995.cms",
-    "time": "2026-07-25T08:36:34.000Z"
+    "title": "Bihar government appoints cricketers Akash Deep and Mukesh Kumar as DSPs",
+    "desc": "Chief Minister Samrat Choudhary expressed confidence that in the coming years, athletes from Bihar would bring glory to the state and the country on prestigious platforms like the Olympics, Asian Games, Commonwealth Games, World Cups, and the IPL.",
+    "img": "https://th-i.thgim.com/public/hindi/editorial/hwkabs/article71265291.ece/alternates/LANDSCAPE_1200/HN_BFuibYAABlfw.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/bihar-government-appoints-cricketers-akash-deep-and-mukesh-kumar-as-dsps/article71262195.ece",
+    "time": "2026-07-25T05:25:34.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Will Trump’s bunker buster bombs punch through Iran’s Pickaxe Mountain?",
+    "desc": "The U.S. faces a complex challenge at Iran’s Pickaxe Mountain, where powerful bunker buster bombs face hardy geological formations. Success is also limited by a critical minerals crunch, and could force Trump to shift from total destruction to disabling surface infrastructure and subterranean access tunnels",
+    "img": "https://th-i.thgim.com/public/sci-tech/science/xmonen/article71256191.ece/alternates/LANDSCAPE_1200/Screenshot%202026-07-23%20at%207.19.17%E2%80%AFAM.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/science/trump-bunker-buster-bombs-punch-through-iran-pickaxe-mountain-centrifuges/article71256189.ece",
+    "time": "2026-07-25T04:56:18.000Z"
   },
   {
     "cat": "Sports",
@@ -369,6 +540,15 @@ const newsData_en = [
     "time": "2026-07-25T02:00:00.000Z"
   },
   {
+    "cat": "Sports",
+    "title": "was his World Cup-winning Les Bleus tenure a success?",
+    "desc": "The debate over the 57-year-old’s managerial legacy will not disappear anytime soon. Critics will argue that his caution prevented France from reaching even greater heights. His supporters will counter that his discipline transformed limitless potential into sustained excellence",
+    "img": "https://th-i.thgim.com/public/incoming/mo3pdw/article71263981.ece/alternates/LANDSCAPE_1200/GettyImages-2285692664.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/didier-deschamps-france-analysis-legacy-world-cup-zinedine-zidane-manager/article71263988.ece",
+    "time": "2026-07-25T00:58:52.000Z"
+  },
+  {
     "cat": "Business",
     "title": "US appeals court refuses to revive $100,000 H-1B visa fee",
     "desc": "A federal appeals court refused to lift a ruling blocking a $100,000 H-1B visa fee. The court left in place a decision finding the fee unlawful while the government challenges it. Democratic attorneys general argued the administration created a new tax without congressional approval. A district judge agreed, ruling the fee exceeded executive branch authority. The appellate panel said the government had not shown it was likely to prevail.",
@@ -376,6 +556,33 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/setback-for-trump-us-appeals-court-refuses-to-revive-100000-h-1b-visa-fee/articleshow/132617133.cms",
     "time": "2026-07-24T23:47:34.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Indian seafarer killed in attack on ship in Black Sea",
+    "desc": "The External Affairs Ministry said MV Omorfi was attacked while transiting the Black Sea, reportedly in Russian territorial waters; at the time of the incident, there were 10 crew members on board, including three Indians",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/indian-seafarer-killed-in-attack-on-ship-in-black-sea/article71263875.ece",
+    "time": "2026-07-24T19:13:53.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Israeli military kills four Palestinians after settler killed in West Bank",
+    "desc": "Two other Israelis and four more Palestinians were wounded, health officials said, and the Israeli military announced it was preparing for an “extensive” counterterror operation in the West Bank, with troops surrounding the town of Nablus",
+    "img": "https://th-i.thgim.com/public/incoming/1efkk4/article71263488.ece/alternates/LANDSCAPE_1200/Israel_Palestinians_46492.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/israeli-military-kills-four-palestinians-after-settler-killed-in-west-bank/article71263472.ece",
+    "time": "2026-07-24T15:52:10.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ICICI Bank prices $1 billion debt at tighter spread",
+    "desc": "The bank set the ​coupon at 100 basis points over U.S. Treasuries, sharply ⁠lower the initial guidance of 130 basis points, for its first dollar debt sale in nearly nine years. The coupon works out to be ‌5.46%.",
+    "img": "https://th-i.thgim.com/public/incoming/wr3w1/article71263410.ece/alternates/LANDSCAPE_1200/2026-07-18T101633Z_1905004370_RC2YI0APFNQE_RTRMADP_3_ICICI-BANK-RESULTS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/icici-bank-prices-1-billion-debt-at-tighter-spread/article71263393.ece",
+    "time": "2026-07-24T15:41:44.000Z"
   },
   {
     "cat": "Business",
@@ -394,6 +601,24 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/cabinet-approves-rs-1264-crore-ballari-guntakal-rail-project-to-boost-freight-passenger-connectivity/articleshow/132607267.cms",
     "time": "2026-07-24T13:38:47.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Understanding the Saudi-U.S. nuclear agreement",
+    "desc": "Initially, nuclear fuel would be imported to Saudi Arabia, but the deal proposes a joint two-year study examining the value and commercial viability of enrichment for the kingdom; if the study concludes that local enrichment is warranted, U.S. companies would build and operate a uranium enrichment facility in the kingdom under an arrangement that would prevent transfer of sensitive enrichment technology to the Saudis",
+    "img": "https://th-i.thgim.com/public/incoming/4j3bza/article71262232.ece/alternates/LANDSCAPE_1200/AFP__20260723__C2ZP8WE__v1__HighRes__FilesUsSaudiArabiaDiplomacyNuclear.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/understanding-the-saudi-us-nuclear-agreement-explained/article71262181.ece",
+    "time": "2026-07-24T12:31:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hindi film stars lend quiet support to protesters",
+    "desc": "Even as many big stars have maintained a studied silence, artists like Naseeruddin Shah, Shabana Azmi, Alia Bhatt, R. Madhavan, Sara Ali Khan and Huma Qureshi have lent support to the youngsters protesting in Jantar Mantar seeking reforms in education system and the sacking of Union Minister Dharmendra Pradhan",
+    "img": "https://th-i.thgim.com/public/incoming/nrrkja/article71262206.ece/alternates/LANDSCAPE_1200/CJP%20PARLIAMENT%20MARCH%20%20DELHI%202026_20_07_61.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/hindi-film-stars-lend-support-to-protesters/article71261892.ece",
+    "time": "2026-07-24T12:20:47.000Z"
   },
   {
     "cat": "Business",
@@ -424,12 +649,66 @@ const newsData_en = [
   },
   {
     "cat": "Business",
+    "title": "As temporary tariffs expire, U.S. imposes 10% ‘forced labour’ tariffs on India",
+    "desc": "The new tariffs are a result of the findings of its investigations on whether the U.S.’ trade partners were doing enough to prevent the import of goods made using forced labour. A separate investigation on excess capacity is pending and could attract further tariffs",
+    "img": "https://th-i.thgim.com/public/incoming/yzfcmu/article71259863.ece/alternates/LANDSCAPE_1200/2026-07-23T205955Z_1910357374_RC2WJMAQWY12_RTRMADP_3_USA-TRUMP.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/us-tarifs-on-goods-imported-from-india/article71259860.ece",
+    "time": "2026-07-24T11:14:03.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "10% US tariff on India: What it means for the country's exports",
     "desc": "United States imposed a ten percent tariff on Indian goods, offering some relief. Economists believe the immediate impact on India's exports will be limited. Reducing dependence on single markets and broadening global reach is crucial. Certainty after months of shifting proposals is a positive development. Sustained export growth depends on competitiveness and diversification efforts.",
     "img": "https://static.toiimg.com/photo/msid-132602302,imgsize-70446.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/10-us-tariff-on-india-what-it-means-for-the-countrys-exports/articleshow/132602122.cms",
     "time": "2026-07-24T10:14:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Avatar: Seven Havens’ gets release date; first look teaser unveiled",
+    "desc": "Seven Havens’ is the third original series in the popular fantasy franchise and tells the story of a young Earthbender, Pavi, who discovers she’s the new Avatar in a world that is coming to terms with newer devasations",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/kfvbfi/article71261715.ece/alternates/LANDSCAPE_1200/A%20still%20from%20%E2%80%98Avatar%20Seven%20Havens%E2%80%99%20",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/avatar-seven-havens-gets-release-date-first-look-teaser-unveiled/article71261660.ece",
+    "time": "2026-07-24T09:48:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "After OpenAI-Hugging Face AI agent hack, U.S. lawmakers push for control",
+    "desc": "After OpenAI shared that some of its models had caused a security breach at another company, a White House official quoted by Reuters said that U.S. President Donald Trump’s ​tech adviser, Michael Kratsios, was tracking the situation",
+    "img": "https://th-i.thgim.com/public/incoming/2gddpv/article71260959.ece/alternates/LANDSCAPE_1200/OpenAI_56692.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/after-openai-hugging-face-ai-agent-hack-us-lawmakers-push-for-control/article71260982.ece",
+    "time": "2026-07-24T08:55:00.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "IndiGo, Air India oppose Adani’s airline entry",
+    "desc": "It is a recipe for conflict of interest as well as squeezing other players; such a consolidation across the value chain not only kills competition but also results in fewer jobs, said an Air India official",
+    "img": "https://th-i.thgim.com/public/incoming/hnb1qt/article71259345.ece/alternates/LANDSCAPE_1200/PTI07_23_2026_000372B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/indigo-air-india-oppose-adanis-airline-entry/article71258381.ece",
+    "time": "2026-07-24T07:52:21.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "CCI says platform fees and delivery charges charged by Zomato not ‘abuse of dominance’",
+    "desc": "The Competition Commission of India said that these charges, including the commission Eternal (formerly Zomato) charges restaurants, are charges for services it is providing and do not constitute an inflated price of the dish itself.",
+    "img": "https://th-i.thgim.com/public/incoming/eiby7l/article71261376.ece/alternates/LANDSCAPE_1200/2025-02-06T114547Z_1366095262_RC2YOCADODRZ_RTRMADP_3_ZOMATO-NAMECHANGE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/cci-says-platform-fees-and-delivery-charges-charged-by-zomato-not-abuse-of-dominance/article71261264.ece",
+    "time": "2026-07-24T07:45:03.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Russia warns U.S. against Ukraine arms sales in Manila meeting",
+    "desc": "Mr. Lavrov and Rubio's meeting on the sidelines of a Southeast Asian summit, their first since September 2025, came as Washington's focus has switched from mediating in Ukraine to dealing with war in the West Asia",
+    "img": "https://th-i.thgim.com/public/incoming/h0the7/article71259837.ece/alternates/LANDSCAPE_1200/2026-07-22T034107Z_1228060140_RC2QIMAP1K65_RTRMADP_3_ASEAN-PHILIPPINES.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/russia-warns-us-against-ukraine-arms-sales-in-manila-meeting/article71259513.ece",
+    "time": "2026-07-24T07:04:44.000Z"
   },
   {
     "cat": "Business",
@@ -451,6 +730,15 @@ const newsData_en = [
   },
   {
     "cat": "Business",
+    "title": "Onida plans comeback with new categories",
+    "desc": "Launching its flagship 100-inch QD Mini LED television, the CEO and managing director of Ondia Electronics Limited, Gunjan Shrivastava said that the company has also decided to keep its iconic horned devil and will come up with a new advertisement approach for devil in next few months",
+    "img": "https://th-i.thgim.com/public/incoming/6gunvm/article71260751.ece/alternates/LANDSCAPE_1200/PTI07_16_2026_000309B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/onida-plans-comeback-with-new-categories/article71256880.ece",
+    "time": "2026-07-24T02:30:41.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "Oil holds above $100 as Red Sea attacks and Kazakhstan outage tighten supplies",
     "desc": "Oil prices have sharply rebounded, exceeding one hundred dollars per barrel. Attacks on Saudi oil tankers in the Red Sea have revived supply fears. Kazakhstan's oil exports also faced disruptions, adding to global concerns. This marks a significant reversal from recent price declines seen earlier. These events have tightened the noose around global energy supply routes.",
     "img": "https://static.toiimg.com/photo/msid-132594676,imgsize-1941533.cms",
@@ -459,102 +747,156 @@ const newsData_en = [
     "time": "2026-07-24T02:01:35.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
+    "cat": "Sports",
+    "title": "Controversial umpiring decision in Ultimate Table Tennis Season 7 sparks protests, debate over rules and clarity",
+    "desc": "The controversy unfolded at 10-10 in the second game between India’s two top women’s paddlers. As Chitale, with the Jaguars playing only for pride, tossed the ball up to serve, Mukherjee was heard calling TTR” aloud in an attempt to seek a Table Tennis Review",
+    "img": "https://th-i.thgim.com/public/news/national/cq58fj/article71259856.ece/alternates/LANDSCAPE_1200/iStock-183406183.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/controversial-umpiring-decision-in-ultimate-table-tennis-season-7-sparks-protests-debate-over-rules-and-clarity/article71259852.ece",
+    "time": "2026-07-23T22:56:29.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
+    "cat": "Sports",
+    "title": "Interview",
+    "desc": "The 24-year-old says even a small weakness or flaw will be challenged in the longest format; the Tamil Nadu batter adds that his priority now is to work on his fitness and game against spin bowling ahead of the Sri Lanka series; the southpaw explains he is not worried too much about not being in the T20I scheme of things",
+    "img": "https://th-i.thgim.com/public/incoming/jkimld/article71259497.ece/alternates/LANDSCAPE_1200/DSC_9257.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/sai-sudharsan-interview-india-test-cricket-gujarat-titans-ipl/article71259491.ece",
+    "time": "2026-07-23T17:45:09.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
+    "cat": "Sports",
+    "title": "Justice Mittal rebukes AITA interim EC’s decision to appoint observer for EGM",
+    "desc": "Sunday’s EGM is expected to discuss — and ratify — the amendments proposed by the administrator-led committee to bring AITA’s Constitution in line with the National Sports Governance Act, 2025 and National Sports Governance Rules, 2026",
+    "img": "https://th-i.thgim.com/public/incoming/ao95ap/article71258775.ece/alternates/LANDSCAPE_1200/2501_6_9_2025_16_25_25_2_DSC_8245.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/tennis/justice-mittal-rebukes-aita-interim-ecs-decision-to-appoint-observer/article71258770.ece",
+    "time": "2026-07-23T17:06:56.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
+    "cat": "World",
+    "title": "China begins two days of live-fire drills in Taiwan Strait",
+    "desc": "The news comes a day after ‌talks between U.S. Secretary ‌of State ⁠Marco Rubio and ⁠Chinese Foreign Minister Wang Yi on a range of issues, including ​democratically-governed Taiwan, which China ‌claims as its own territory.",
+    "img": "https://th-i.thgim.com/public/incoming/k72dlp/article71259361.ece/alternates/LANDSCAPE_1200/2026-07-21T003040Z_1476473345_RC2YB1AXMA65_RTRMADP_3_JAPAN-CHINA-DEFENCE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/china-begins-two-days-of-live-fire-drills-in-taiwan-strait/article71259355.ece",
+    "time": "2026-07-23T16:40:12.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
+    "cat": "Sports",
+    "title": "Manav Thakkar reflects on UP Prometheans’ disappointing debut campaign",
+    "desc": "There were things beyond our control; I became sick after the first match; being the captain, I had to play six sets including singles and mixed doubles, and suddenly I couldn’t play, said Manav Thakkar",
+    "img": "https://th-i.thgim.com/public/incoming/1eap9f/article71259140.ece/alternates/LANDSCAPE_1200/90092_14_10_2025_10_39_22_2_28TH_ASIAN_TABLE_TENNIS_TEAM_CHAMPIONSHIP_02.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/utt-manav-thakkar-reflects-on-up-prometheans-disappointing-debut-campaign/article71259233.ece",
+    "time": "2026-07-23T16:21:23.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
+    "cat": "Business",
+    "title": "Infosys posts  12% rise in Q1 net profit; names Ashiss Kumar Dash CEO-designate",
+    "desc": "Salil Parekh said that he enjoyed leading Infosys from $10 billion in revenue to over $20 billion in revenue through during his tenure of two terms spanning nine years which would conclude on March 31, 2027",
+    "img": "https://th-i.thgim.com/public/business/qgwzc9/article71259283.ece/alternates/LANDSCAPE_1200/ashishinfosys.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/infosys-posts-12-rise-in-q1-net-profit-namesashiss-kumar-dash-ceo-designate/article71259118.ece",
+    "time": "2026-07-23T16:18:36.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
+    "cat": "Entertainment",
+    "title": "Rift in AMMA triggers fresh row over ‘power group’ in Malayalam cinema",
+    "desc": "Allegation by Shwetha Menon that the ‘power group’ named in Hema Committee report is working against her has triggered a fresh bout of infighting within AMMA even as her rival camp has asked her to divulge the names of those named in the controversial report",
+    "img": "https://th-i.thgim.com/public/incoming/by6c7y/article71256618.ece/alternates/LANDSCAPE_1200/swetha_menon_1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/rift-in-amma-triggers-fresh-row-over-power-group-in-malayalam-cinema/article71256467.ece",
+    "time": "2026-07-23T16:14:41.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
-    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
-    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
-    "time": "2024-03-11T09:41:17.000Z"
+    "cat": "World",
+    "title": "Hundreds hospitalised in Japan heatwave 'disaster'",
+    "desc": "A total 453 people had hospital treatment for heat-related issues on Wednesday, the most since records began in 2010, the Tokyo Fire Department said. Emergency callouts were also at the highest level since at least 1963.",
+    "img": "https://th-i.thgim.com/public/incoming/kwoe4e/article71259238.ece/alternates/LANDSCAPE_1200/2026-07-23T071403Z_912739522_RC2FJMASSYO6_RTRMADP_3_ASIA-WEATHER-JAPAN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/hundreds-hospitalised-in-japan-heatwave-disaster/article71259210.ece",
+    "time": "2026-07-23T16:10:22.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "Here’s how much the smartphone costs",
-    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
-    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
-    "time": "2024-03-11T09:36:12.000Z"
+    "cat": "Entertainment",
+    "title": "Before ‘Jana Nayagan’: when an 18-year-old Vijay walked the halls of Loyola College",
+    "desc": "Vijay’s maiden venture as a solo hero, Naalaiya Theerpu, helmed by S.A. Chandrasekhar, did not set the box office on fire; even as the audience response remained muted, the actor was noticed, and he won the Best New Face Actor award from Cinema Express",
+    "img": "https://th-i.thgim.com/public/incoming/3d29wu/article71252311.ece/alternates/LANDSCAPE_1200/DSC_1864A.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/before-jana-nayagan-when-a-young-vijay-walked-the-halls-of-loyola/article71252283.ece",
+    "time": "2026-07-23T12:49:15.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
-    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
-    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
-    "time": "2024-03-11T09:19:46.000Z"
+    "cat": "Entertainment",
+    "title": "‘Jana Nayagan’ release: ‘Thalapathy’ Vijay pays tribute to MGR",
+    "desc": "Tamil Nadu Chief Minister Vijay’s Jana Nayagan has finally hit theatres after months of delays. The film pays tribute to former Chief Minister and screen legend MGR with AI-generated voice recreations, iconic song references and political symbolism. Vijay is the second sitting Tamil Nadu Chief Minister after MGR to have a film release while in office",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/rphsmt/article71257239.ece/alternates/LANDSCAPE_1200/Albescent%20White%20Colorful%20Soft%20Texture%20Background%20Rounded%20Rectangle%20Frame%20Mockup%20Photo%20Collage.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/jana-nayagan-release-thalapathy-vijay-pays-tribute-to-mgr/article71257018.ece",
+    "time": "2026-07-23T11:15:07.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "Former Activision boss reportedly wants to buy TikTok",
-    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
-    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
-    "time": "2024-03-11T09:08:25.000Z"
+    "cat": "Entertainment",
+    "title": "‘Jana Nayagan’ director H Vinoth interview: On Thalapathy Vijay’s support during controversies",
+    "desc": "Filmmaker H Vinoth speaks about his upcoming film ‘Jana Nayagan,’ starring Tamil Nadu Chief Minister C Joseph Vijay, the unwavering support he received from the former star during the turbulent months prior to its release, what success means for a politically-charged film that unfortunately leaked online, and more",
+    "img": "https://th-i.thgim.com/public/incoming/sqc6iv/article71250431.ece/alternates/LANDSCAPE_1200/DSC_9418.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/jana-nayagan-release-h-vinoth-interview-thalapathy-vijay-pooja-hegde-anirudh-ravichander/article71250216.ece",
+    "time": "2026-07-23T11:11:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jana Nayagan gets ‘A’ certificate; likely to release in theatres on July 23",
+    "desc": "According to reports, after the makers implemented modifications suggested by the examining committee, the film was initially considered suitable for a 'U/A' certificate; however, the process stalled when a committee member raised an internal objection, claiming certain portions could hurt public sentiments.",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/ubhllf/article71203511.ece/alternates/LANDSCAPE_1200/DSC_11663.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/jana-nayagan-gets-a-certificate-likely-to-release-in-theatres-on-july-24/article71203461.ece",
+    "time": "2026-07-23T06:06:51.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Trump’s 200% generic tariff threat would imperil Americans: Indian pharma",
+    "desc": "Effective August 1, 2026, all generic drugs being brought into the United States will continue to have a tariff of zero per cent for a two-year period of time, after which the tariff will be raised to 100% for a one-year period of time, and 200% thereafter, said Donald Trump",
+    "img": "https://th-i.thgim.com/public/incoming/26fsek/article71254968.ece/alternates/LANDSCAPE_1200/2026-07-22T151217Z_943419862_RC2XIMABQMJ6_RTRMADP_3_IRAN-CRISIS-TRANSFER-USA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/make-in-us-by-august-2028-or-pay-up-to-200-duty-trump-tells-generic-drugmakers/article71254793.ece",
+    "time": "2026-07-23T01:04:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "West Indies beat New Zealand by 2 wickets in the 5th ODI; New Zealand takes the series 3-2",
+    "desc": "New Zealand took the series 3-2, clinching it in Game 4 after winning Game 2 by five wickets and Game 3 by six wickets in a comeback following West Indies' seven-wicket victory in the opening game.",
+    "img": "https://th-i.thgim.com/public/incoming/s6vd5f/article71255475.ece/alternates/LANDSCAPE_1200/West_Indies_New_Zealand_Cricket__6_79.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/west-indies-beat-new-zealand-by-2-wickets-in-the-5th-odi-new-zealand-takes-the-series-3-2/article71255474.ece",
+    "time": "2026-07-22T23:09:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Indian shooters stumble in final Asian Games tune-up as China sweeps opening-day golds",
+    "desc": "In their final global outing before the Asian Games in Aichi-Nagoya from September 19 to October 4, the Indian shooters endured a disappointing start as neither of the country's two 10m air pistol mixed teams progressed beyond the qualification stage",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/indian-shooters-stumble-in-final-asian-games-tune-up-as-china-sweeps-opening-day-golds/article71255462.ece",
+    "time": "2026-07-22T22:54:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India looks for partial redemption against spirited Zimbabwe",
+    "desc": "Having lost six out of his first seven T20I games as skipper in series defeats to minnows Ireland and a seasoned England side, the rubber against Zimbabwe gives Iyer and company a chance to get the house in order",
+    "img": "https://th-i.thgim.com/public/incoming/1y785m/article71255455.ece/alternates/LANDSCAPE_1200/DSC_5856C.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/india-looks-for-partial-redemption-against-spirited-zimbabwe/article71255454.ece",
+    "time": "2026-07-22T22:36:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kujur shelves fastest-man debate; Owens hails India's sprint surge ahead of CWG and Asian Games",
+    "desc": "After Gurindervir's historic sub-10.10 run rewrote the men's 100m national record in Odisha earlier this year, Kujur has inevitably been asked about reclaiming the crown. But the Odisha sprinter has chosen to park that conversation for now",
+    "img": "https://th-i.thgim.com/public/incoming/jwmyi5/article71255451.ece/alternates/LANDSCAPE_1200/90092_27_6_2026_20_37_35_3_INTER_STATE_SENIOR_ATHLETICS_CHAMPIONSHIP_2026_27.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/kujur-shelves-fastest-man-debate-owens-hails-indias-sprint-surge-ahead-of-cwg-and-asian-games/article71255450.ece",
+    "time": "2026-07-22T22:26:28.000Z"
   }
 ];
