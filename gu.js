@@ -1,12 +1,39 @@
 const newsData_gu = [
   {
-    "cat": "Entertainment",
-    "title": "તું કદરુપી છો કહી દર્શન જરીવાલાએ છોડી દીધી અપરા મહેતાને, લેટેસ્ટ ઈંટરવ્યુએ જગાવી ચર્ચા",
-    "desc": "ગુજરાતી થિયેટરના જાણીતા કલાકાર અને ટીવી સીરીયલ, ગુજરાતી ફિલ્મોમાં પણ કામ કરી ચુકેલા અપરા મહેતા અને દર્શન જરીવાલાના સેપરેશનની સ્ટોરી હાલ ઈંટરનેટ પર ચર્ચાનો વિષય છે. અપરા મહેતાએ એક ઈંટરવ્યુમાં કરેલા ખુલાસા બાદ આ ચર્ચા જાગી છે.",
+    "cat": "Business",
+    "title": "દેશનું એકમાત્ર રાજ્ય, જ્યાં લોકોને નથી ભરવો પડતો ઈન્કમ ટેક્સ ! જાણો શું છે કારણ",
+    "desc": "શું તમે જાણો છો કે ભારતમાં એક એવું રાજ્ય છે, જ્યાં રહેતા લોકોને એકપણ રૂપિયો ઈન્કમ ટેક્સ ચૂકવવો પડતો નથી ? ત્યારે આ રાજ્ય કયું છે અને તેને કેમ ખાસ છૂટ આપવામાં આવી છે, તેની પાછળનું કારણ શું છે, તેના વિશે આ લેખમાં જાણીશું.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/darshan-jariwala-and-actress-apara-mehta-separation-story-apara-mehta-and-darshan-jariwala-love-marriage-485719 ",
-    "time": "2026-07-25T10:21:07.000Z"
+    "url": " http://zeenews.india.com/gujarati/business/sikkim-income-tax-exemption-zero-income-tax-state-in-india-485744 ",
+    "time": "2026-07-25T12:41:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કોકરચ જનતા પાર્ટીએ આંદોલનના પૂર્ણ કરવાની કરી જાહેરાત, સરકારે માની લીધી બાકીની બે માગણીઓ, જાણો",
+    "desc": "છેલ્લા કેટલાક દિવસોથી દિલ્હીના જંતર મંતર ખાતે આંદોલન કરી રહેલા વિધાર્થીઓએ આખરે આંદોલનના અંતની જાહેરાત કરી છે, NEET પેપરલીક મુદ્દે શિક્ષણ મંત્રીના રાજીનામાની માંગ સાથે વિરોધ પ્રદર્શન ચાલી રહ્યું હતું, ત્યારે આજે શિક્ષણ મંત્રી ધર્મેન્દ્ર પ્રધાને રાજીનામું આપતા આંદોલનનો અંત આવ્યો છે. જો સરકારે તેમની બીજી માગણીઓ પણ માની હોવાથી આંદોલન પૂર્ણ કરવાની જાહેરાત કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/firs-registered-against-all-students-across-the-country-will-be-quashed-the-cjp-announced-withdrawing-the-protest-485730 ",
+    "time": "2026-07-25T12:28:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "આમિર ખાનનો સાવકો ભાઈ નીકળ્યો રિયલ વીલન, પત્ની ઈવા ગ્રોવરને ડાયરેક્ટર સાથે સુવા કરતો ફોર્સ, અભિનેત્રીએ જણાવી આપવીતી",
+    "desc": "ટીવી અભિનેત્રી ઈવા ગ્રોવર એક ઈન્ટરવ્યુ દરમિયાન તેના એક્સ હસબંડ વિશે ચોંકાવનારા ખુલાસા કર્યા છે. સૌથી પહેલા જણાવી દઈએ કે ઈવા ગ્રોવરનો પૂર્વ પતિ હૈદર અલી ખાન છે જે આમિર ખાનનો સાવકો ભાઈ છે. અભિનેત્રીના જણાવ્યા અનુસાર હૈદર તેને પૈસા અને કામ માટે ડિરેક્ટર્સ સાથે સુવાનો ફોર્સ કરતો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/aamir-khan-step-brother-hyder-ali-khan-forced-his-wife-actress-eva-grover-to-sleep-with-directors-said-actress-485729 ",
+    "time": "2026-07-25T12:01:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "આ છે ભારતનું પહેલું કેશલેશ ગામ, અહીં 5 રૂપિયાની ચોકલેટ માટે કરવું પડશે ઓનલાઈન ટ્રાન્ઝેક્શન; આ વિલેજ બન્યું દુનિયામાં માટે મિસાલ",
+    "desc": "આજે મોટા ભાગના લોકો ઓનલાઈન પેમેન્ટ કરી રહ્યા છે. પરંતુ ઓનલાઈન ટ્રાન્ઝેક્શનનો ઉપયોગ વધુ પડતો મેટ્રો સિટી અને શહેરમાં થાય છે. જો કે, આ બધા વચ્ચે એક ગામ એવું પણ છે જે સપૂર્ણપણે કેશલેશ છે. આ ગામ એવું છે જ્યાં પાંચ રૂપિયાની ચોકલેટ ખરીદવાથી લઈને પાંચ હજાર રૂપિયાના અનાજની ખરીદી સુધી, દરેક લેવડ-દેવડ રોકડ નોટો વગર થાય છે. અહીં અમે ભારતના ઇબ્રાહિમપુર ગામની વાત કરી રહ્યા છે. આ ગામ ફક્ત ભારતમાં જ નહીં, પરંતુ આખી દુનિયામાં કેશલેસ પેમેન્ટ માટે એક મિસાલ બની ગયું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/this-is-india-first-cashless-village-here-you-have-to-do-an-online-transaction-for-a-chocolate-worth-rs-5-this-village-has-become-an-example-for-the-world-485725 ",
+    "time": "2026-07-25T11:36:50.000Z"
   },
   {
     "cat": "Politics",
@@ -15,7 +42,25 @@ const newsData_gu = [
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/dharmendra-pradhan-once-he-protested-against-paper-leaks-now-he-resign-because-of-it-485717 ",
-    "time": "2026-07-25T10:10:19.000Z"
+    "time": "2026-07-25T11:32:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ઝિમ્બાબ્વે સામેની બીજી T20માં ભારતની પહેલા બેટિંગ... યશ ઠાકુરની પ્લેઈંગ-11માં એન્ટ્રી, જાણો કોનું કપાયું પત્તુ",
+    "desc": "ઝિમ્બાબ્વે સામે શ્રેણીની પહેલી મેચ જીતીને ભારતીય ટીમે આખરે પોતાની લય શોધી લીધી છે. સતત છ ટી20 મેચ હાર્યા બાદ શ્રેયસ ઐયરની કેપ્ટનશીપમાં ભારતે આ જીત મેળવી હતી. ટીમ બીજી ટી20માં પણ આ જીતનો સિલસિલો જાળવી રાખવાના ટાર્ગેટ સાથે મેદાનમાં ઉતરશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-zim-2nd-t20-2026-team-india-playing-11-yash-thakur-in-ashok-sharma-out-485720 ",
+    "time": "2026-07-25T11:07:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "તું કદરુપી છો કહી દર્શન જરીવાલાએ છોડી દીધી અપરા મહેતાને, લેટેસ્ટ ઈંટરવ્યુએ જગાવી ચર્ચા",
+    "desc": "ગુજરાતી થિયેટરના જાણીતા કલાકાર અને ટીવી સીરીયલ, ગુજરાતી ફિલ્મોમાં પણ કામ કરી ચુકેલા અપરા મહેતા અને દર્શન જરીવાલાના સેપરેશનની સ્ટોરી હાલ ઈંટરનેટ પર ચર્ચાનો વિષય છે. અપરા મહેતાએ એક ઈંટરવ્યુમાં કરેલા ખુલાસા બાદ આ ચર્ચા જાગી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/darshan-jariwala-and-actress-apara-mehta-separation-story-apara-mehta-and-darshan-jariwala-love-marriage-485719 ",
+    "time": "2026-07-25T10:21:07.000Z"
   },
   {
     "cat": "Politics",
@@ -126,15 +171,6 @@ const newsData_gu = [
     "time": "2026-07-24T12:48:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "&amp;#039;કોકરોચ જનતા પાર્ટી&amp;#039; ધર્મેન્દ્ર પ્રધાનના રાજીનામા પર અડગ; સરકારે કાલ સુધીનો સમય માંગ્યો",
-    "desc": "કેન્દ્ર સરકાર અને કોકરોચ જનતા પાર્ટી વચ્ચે યોજાયેલી બેઠક સમાપ્ત થઈ ગઈ છે. આ બેઠકમાં કેન્દ્રીય મંત્રી જેપી નડ્ડા અને જિતેન્દ્ર સિંહની સાથે સીજેપી પ્રવક્તા સૌરવ દાસ તથા આશુતોષ રાંકા હાજર રહ્યા હતા. બેઠકની તસવીરો પણ સામે આવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/delhi-high-stakes-meeting-between-cjp-and-modi-govt-ends-at-vp-house-after-one-hour-discussion-485608 ",
-    "time": "2026-07-24T09:26:46.000Z"
-  },
-  {
     "cat": "Business",
     "title": "એક ઝટકે સોના-ચાંદીના ભાવમાં મોટો ઘટાડો, ઘટીને ભાવ ક્યાં પહોંચ્યા? ફટાફટ ચેક કરો આજનો રેટ",
     "desc": "દેશના બજારોમાં આજે પણ સોના અને ચાંદીના ભાવમાં ઘટાડો જોવા મળ્યો છે. વાયદા બજારમાં સોનું લાલ નિશાનમાં જ્યારે ચાંદી લીલા નિશાનમાં જોવા મળી રહ્યા છે પરંતુ રિટેલ બજારમાં સોના ચાંદીના ભાવમાં મોટો ઘટાડો જોવા મળ્યો છે. જાણો લેટેસ્ટ રેટ.",
@@ -142,15 +178,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/gold-price-today-down-on-ibja-check-mcx-global-market-rate-aaj-no-sona-chandi-no-bhav-485598 ",
     "time": "2026-07-24T07:18:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "&amp;#039;5થી 10 વર્ષની જેલ અને ₹1 કરોડનો દંડ&amp;#039;: પેપર લીક સામે કાયદો કડક કરવાની તૈયારી",
-    "desc": "નવા સંશોધન બાદ પેપર લીકમાં દોષી સાબિત થનારને 10 વર્ષ સુધીની જેલની સજા થઈ શકે છે અને 1 કરોડનો દંડ ફટકારવામાં આવી શકે છે. આ સિવાય ઝડપથી કેસની સુનાવણી માટે ફાસ્ટ-ટ્રેક કોર્ટને વધુ અધિકાર આપવામાં આવી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/5-to-10-years-in-jail-1-crore-fine-strict-anti-paper-leak-law-amendments-on-the-anvil-485591 ",
-    "time": "2026-07-24T05:54:14.000Z"
   },
   {
     "cat": "Sports",
@@ -306,15 +333,6 @@ const newsData_gu = [
     "time": "2026-07-21T08:24:59.000Z"
   },
   {
-    "cat": "Business",
-    "title": "હાઈથી સોનું 38000 અને ચાંદી 1.96 લાખ સસ્તી, આજે પણ ભાવમાં મોટી ઉથલપાથલ, જાણો આજનો ભાવ",
-    "desc": "સોના અને ચાંદીમાં વળી પાછો ઉછાળો જોવા મળી રહ્યો છે. ભારતીય બજારોમાં સોનું અને ચાંદી વધારા સાથે જોવા મળ્યા છે જ્યારે વૈશ્વિક બજારમાં પણ કોમેક્સ ગોલ્ડ અને સિલ્વરમાં ઉછાળો જોવા મળ્યો છે. જો કે હજુ પણ ઓલટાઈમ હાઈથી સોનું અને ચાંદી ઘણા સસ્તા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-are-still-very-cheap-from-all-time-highs-check-today-latest-gold-silver-price-485341 ",
-    "time": "2026-07-21T08:20:31.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "રેપ કેસમાં ફસાયો આ IPL ક્રિકેટર, યુવતીના મારપીટ-ધમકીના પણ આરોપ, કોર્ટેનો તાબડતોબ ધરપકડનો આદેશ",
     "desc": "આઈપીએલમાં ધૂમ મચાવનારા એક ક્રિકેટરની પર મુસીબતો વધી છે. કોલકાતા હાઈકોર્ટે અભિષેક પોરેલ અને અન્ય એક આરોપીની તાબડતોબ ધરપકડના આદેશ આપ્યા છે. એક મેડિકલ વિદ્યાર્થીનીની ફરિયાદના આધારે નોંધાયેલા અપરાધિક મામલા સંબંધે આ આદેશ અપાયો છે.",
@@ -387,15 +405,6 @@ const newsData_gu = [
     "time": "2026-07-20T06:05:10.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "હારનો ગુસ્સો મેદાનમાં ફાટ્યો! આર્જેન્ટિનાના ખેલાડીએ સ્પેનિશ સ્ટારને કોલર પકડી ખેંચ્યો, જુઓ Video",
-    "desc": "રવિવારે મોડી રાત્રે ફાઇનલ મેચમાં આર્જેન્ટિના સામે 1-0થી વિજય મેળવીને સ્પેને ફિફા વર્લ્ડ કપ 2026 જીત્યો. સબસ્ટિટ્યુટ ફેરન ટોરેસ સ્પેનની જીતના હીરો રહ્યા, તેમણે વધારાના સમયમાં નિર્ણાયક ગોલ કરીને ટીમને 2010 પછીનો બીજો ખિતાબ જીત્યો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/the-anger-of-the-defeat-erupted-on-the-field-the-argentine-player-grabbed-the-collar-of-the-spanish-star-watch-the-video-485204 ",
-    "time": "2026-07-20T03:44:18.000Z"
-  },
-  {
     "cat": "World",
     "title": "ઈમરાન ખાનની બહેનના ખુલાસાથી પાકિસ્તાનમાં રાજકીય ભૂકંપ, PAK સેનાની ખોલી પોલ",
     "desc": "પૂર્વ પ્રધાનમંત્રી ઈમરાન ખાનની બહેન નૌરીન નિયાઝીએ આપેલા નિવેદનથી પાકિસ્તાનમાં વિવાદ ઉભો થયો છે. એક ઇન્ટરવ્યુમાં નિયાઝીએ દાવો કર્યો હતો કે, મે 2025માં ભારતના ઓપરેશન સિંદૂર સામે પાકિસ્તાની સેના સંપૂર્ણપણે બેકફૂટ પર આવી ગઈ હતી.",
@@ -466,15 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/priyanka-chopra-44-birthday-first-look-of-mandakini-of-varanasi-movie-look-released-485019 ",
     "time": "2026-07-18T08:42:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "શોકિંગ એન્ડવાળી સાઉથની સસ્પેન્સ ફિલ્મો જોવી ગમે છે ? તો જુઓ માઈન્ડ બ્લોઈંગ ટ્વિસ્ટથી ભરપુર ફિલ્મ કૂમન",
-    "desc": "જો તમને દ્રશ્યમ ફિલ્મ જેવી સસ્પેન્સ અને થ્રીલથી ભરપુર ફિલ્મો જોવી ગમતી હોય તો આજે તમને આવી જ દમદાર ફિલ્મ વિશે જણાવીએ. આ ફિલ્મ છે કૂમન, ફિલ્મના એન્ડ વિશે તમે કલ્પના જ નહીં કરી શકો. ગેરંટી છે કે ફિલ્મ દરમિયાન કરેલા દરેક અનુમાન ફિલ્મના એન્ડમાં ખોટા પડશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/south-suspence-movie-in-hindi-must-watch-suspence-thriller-movie-on-prime-video-kooman-485010 ",
-    "time": "2026-07-18T06:56:48.000Z"
   },
   {
     "cat": "World",
@@ -574,14 +574,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/kia-india-june-2026-sales-seltos-and-sonet-drive-volume-carens-and-carnival-see-drop-check-model-wise-report-484611 ",
     "time": "2026-07-14T12:06:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ચોમાસામાં AC કેટલા ટેમ્પરેચર પર રાખવું જોઈએ? ભેજથી મળશે રાહત, વીજળીનું બિલ પણ ઘટશે, જાણો",
-    "desc": "ચોમાસાની ઋતુ ગરમીથી રાહત આપે છે, પરંતુ ઘરોમાં ભેજ રહે છે. ભેજનો સામનો કરવા માટે, લોકો AC ચાલુ કરે છે, પરંતુ વધુ પડતી ઠંડી શરદી અને ઉધરસનું કારણ બની શકે છે. ચાલો સમજાવીએ કે ચોમાસાની ઋતુમાં એસી કયા ટેમ્પરેચરે સેટ કરવું જોઈએ?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/at-what-degree-should-you-run-the-ac-during-monsoon-you-will-get-relief-from-humidity-your-electricity-bill-will-also-reduce-know-484458 ",
-    "time": "2026-07-13T07:31:53.000Z"
   }
 ];

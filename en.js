@@ -1,6 +1,195 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Researchers look at biomarkers which can predict dengue severity",
+    "desc": "Researchers at the Institute of Advanced Virology in the capital are now engaged in a large prospective study of 2,000 dengue patients to study the critical biomarkers or its combinations that can predict dengue complications and severity.",
+    "img": "https://th-i.thgim.com/public/incoming/io4irs/article71266307.ece/alternates/LANDSCAPE_1200/2026-07-21T011626Z_957404455_RC2VEMAD7G5I_RTRMADP_3_SRI-LANKA-DENGUE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/researchers-look-at-biomarkers-which-can-predict-dengue-severity/article71265956.ece",
+    "time": "2026-07-25T13:13:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India script history, equal world record for most 200-plus T20I totals in a year",
+    "desc": "India achieved their ninth 200-plus total in T20Is for 2026. This performance matches their own world record set previously in 2024. Ishan Kishan and Tilak Varma led the strong batting effort against Zimbabwe. They built crucial partnerships after an early batting collapse. India's batting continues to set new standards in the shortest format.",
+    "img": "https://static.toiimg.com/photo/msid-132626496,imgsize-200770.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/india-script-history-equal-world-record-for-most-200-plus-t20i-totals-in-a-calendar-year/articleshow/132626446.cms",
+    "time": "2026-07-25T13:05:52.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "What India’s crude oil, LPG and LNG strategic reserves strategy should look like",
+    "desc": "Once completed, the total strategic petroleum reserves capacity will increase to 11.88 MMT, enabling India to move significantly closer to the 90-day reserve target. India is working with the UAE for 30 million barrels of crude of storage capacity.",
+    "img": "https://static.toiimg.com/photo/msid-132626327,imgsize-642429.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/energy-security-in-focus-what-indias-crude-oil-lpg-and-lng-strategic-reserves-strategy-should-look-like/articleshow/132626217.cms",
+    "time": "2026-07-25T13:01:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "What opposition can learn from CJP-led students protest",
+    "desc": "In a remarkable turn of events, student protests led to resignation of Union minister Dharmendra Pradhan, showcasing the power of grassroots activism. The Cockroach Janata Party, born from online memes, played a pivotal role in this uprising. Climate activist Sonam Wangchuk's hunger strike also fueled the movement's progress, raising critical questions for opposition parties regarding their involvement in such significant demonstrations.",
+    "img": "https://static.toiimg.com/photo/msid-47529300.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/dharmendra-pradhan-quits-what-opposition-can-learn-from-cjp-led-students-protest/articleshow/132625147.cms",
+    "time": "2026-07-25T12:50:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Manoj Muntashir backs student agitation; warns youth is being misled",
+    "desc": "Lyricist Manoj Muntashir has openly expressed his support for the students demonstrating against the NEET paper leak. He asserts that accountability is crucial for all involved in the examination process. While questioning both the leadership and representation of the protests at Jantar Mantar, he advocated for comprehensive reforms, emphasizing that the current system is deeply flawed and requires urgent attention.",
+    "img": "https://static.toiimg.com/photo/msid-132626119,imgsize-285112.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/neet-paper-leak-manoj-muntashir-says-students-should-be-listened-to-but-he-feels-the-youth-is-being-misled-exclusive/articleshow/132625597.cms",
+    "time": "2026-07-25T12:42:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bhogapuram International Airport, Reliance Data Centre and other projects to create five lakh jobs in north Andhra, says Minister",
+    "desc": "Kondapalli Srinivas says Prime Minister Narendra Modi will inaugurate the greenfield airport on August 1, adding that the infrastructure push will accelerate industrial growth, improve connectivity and open up large-scale employment opportunities across the region",
+    "img": "https://th-i.thgim.com/public/incoming/ev5679/article71266133.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-25%20at%2016.42.49.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/bhogapuram-international-airport-reliance-data-centre-and-other-projects-to-create-five-lakh-jobs-in-north-andhra-says-minister/article71266030.ece",
+    "time": "2026-07-25T12:36:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Cheating mafia will not be spared': Yogi Adityanath amid protests over NEET row",
+    "desc": "Uttar Pradesh chief minister Yogi Adityanath pledged a crackdown on the cheating mafia. His government will seize properties and imprison those involved in exam malpractice. Adityanath also criticised opposition parties for corruption and shielding criminal elements. He highlighted Prime Minister Modi's initiatives transforming opportunities for young people. The chief minister's remarks precede upcoming state assembly elections.",
+    "img": "https://static.toiimg.com/photo/msid-132626007,imgsize-101186.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cheating-mafia-will-not-be-spared-yogi-adityanath-amid-protests-over-neet-row/articleshow/132626019.cms",
+    "time": "2026-07-25T12:36:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ibrahim Ali Khan revisits Salman Khan’s viral ‘It’s Done Bro’ phrase",
+    "desc": "Ibrahim Ali Khan shared a popular phrase online after Dharmendra Pradhan resigned from his post. The young actor's Instagram story echoed Salman Khan's widely shared viral words. Salman Khan had previously used the phrase while addressing ongoing student protests and strikes. Dharmendra Pradhan took responsibility for the paper leak controversy and students' interests. Protesters were seen celebrating at Delhi's Jantar Mantar following the resignation announcement.",
+    "img": "https://static.toiimg.com/photo/msid-132625457,imgsize-170346.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ibrahim-ali-khan-revisits-salman-khans-viral-its-done-bro-phrase-after-dharmendra-pradhan-steps-down/articleshow/132625411.cms",
+    "time": "2026-07-25T12:15:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "FIRs against protesters to be quashed, compensation to be given &amp; 5-point Charter: What Centre, CJP said in joint press meet",
+    "desc": "The Cockroach Janta Party ended its 36-day protest at Jantar Mantar. This decision followed three rounds of talks with the central government delegation. The government accepted two key demands, including the minister's resignation. All legal cases filed against protesters and organizers will now be withdrawn. The party continues to pursue compensation for families affected by the NEET paper leak.",
+    "img": "https://static.toiimg.com/photo/msid-132625402,imgsize-76901.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/firs-against-protesters-to-be-quashed-compensation-to-be-given-5-point-charter-what-centre-cjp-said-in-joint-press-meet/articleshow/132625437.cms",
+    "time": "2026-07-25T12:13:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rupa Rani, Pinki stay unbeaten as Indian duo closes in on women's pairs semis",
+    "desc": "India's women's lawn bowls pair Rupa Rani Tirkey and Pinki Singh won their third match. They defeated Tonga in a tense tie-breaker to advance in the competition. This victory keeps their unbeaten run alive at the Commonwealth Games 2026. Meanwhile, Indian swimmers Dhakshan Shashikumar and Aryan Nehra did not qualify for finals. They competed in the men's 400m freestyle event at the swimming centre.",
+    "img": "https://static.toiimg.com/photo/msid-132625335,imgsize-129152.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-rupa-rani-tirkey-pinki-singh-stay-unbeaten-as-india-closes-in-on-womens-pairs-semifinals/articleshow/132625370.cms",
+    "time": "2026-07-25T12:06:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Similar symptoms, climate change &amp; testing gaps: Why monsoon illnesses are so often misdiagnosed",
+    "desc": "Monsoon illnesses often present with symptoms similar to common viral fevers. Overlapping symptoms and diagnostic infrastructure gaps delay timely detection of these diseases. Vector-borne illnesses like dengue and chikungunya surge during the rainy season. Climate change and urbanization contribute to year-round breeding habitats for disease vectors. Prompt medical care is crucial for infants and children facing increased monsoon health risks.",
+    "img": "https://static.toiimg.com/photo/msid-132624967,imgsize-356898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/similar-symptoms-climate-change-testing-gaps-why-monsoon-illnesses-are-so-often-misdiagnosed/articleshow/132624851.cms",
+    "time": "2026-07-25T11:50:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dharmendra Pradhan's resignation: Priyanka, Alia, Vicky and others celebrate the victory",
+    "desc": "Union Education Minister Dharmendra Pradhan has submitted his resignation to Prime Minister Narendra Modi. This development follows weeks of student protests concerning the NEET exam controversy. Many students celebrating the minister's resignation gathered at Jantar Mantar. Several Bollywood celebrities reacted positively to the news on social media platforms. Pradhan stated he took responsibility for the situation and respected youth aspirations.",
+    "img": "https://static.toiimg.com/photo/msid-132625019,imgsize-309012.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dharmendra-pradhans-resignation-priyanka-chopra-jonas-alia-bhatt-vicky-kaushal-and-others-celebrate-the-victory/articleshow/132624969.cms",
+    "time": "2026-07-25T11:45:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Christopher Nolan admits being afraid to direct THIS genre",
+    "desc": "Filmmaker Christopher Nolan admits fear of directing romantic comedies. He finds making audiences laugh incredibly difficult and risky. Nolan shared this during an appearance on The Tonight Show. He also recounted an incident where film footage was almost lost. The director's film 'The Odyssey' continues to perform well at the box office.",
+    "img": "https://static.toiimg.com/photo/msid-132624833,imgsize-199093.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/christopher-nolan-admits-being-afraid-to-direct-this-genre-i-think-thats-one-of-the-hardest-things/articleshow/132624809.cms",
+    "time": "2026-07-25T11:34:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Proud of you, Pradhan's exit a signal ... let's get rid of this regime': Rahul hails youth, asks PM Modi to apologise",
+    "desc": "Rahul Gandhi congratulated youth protesters following Dharmendra Pradhan's resignation. He called the minister's departure a significant step for the education system. Gandhi praised students for fighting for democracy and the constitution. He urged the government to hold accountable those who assaulted students. The Prime Minister was also asked to apologize to the protesting students.",
+    "img": "https://static.toiimg.com/photo/msid-132624600,imgsize-1104356.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/proud-of-you-pradhans-exit-a-signal-lets-get-rid-of-this-regime-rahul-hails-youth-asks-pm-modi-to-apologise/articleshow/132624567.cms",
+    "time": "2026-07-25T11:25:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Prakash Raj reacts to Dharmendra Pradhan's resignation",
+    "desc": "Actor Prakash Raj congratulated protesters following Dharmendra Pradhan's resignation. He praised their efforts for bringing a regime down to its knees. Dharmendra Pradhan announced his resignation in a public letter on X. He reflected on his commitment to students and education reforms. Celebrations followed the minister's resignation at Delhi's Jantar Mantar.",
+    "img": "https://static.toiimg.com/photo/msid-132624472,imgsize-142752.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/congratulations-my-dear-cockroaches-prakash-raj-reacts-to-dharmendra-pradhans-resignation/articleshow/132624450.cms",
+    "time": "2026-07-25T11:18:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shreyas Iyer's remarkable streak ends! India captain loses first T20I toss",
+    "desc": "Shreyas Iyer's remarkable eight-toss winning streak concluded in Harare on Saturday. Zimbabwe captain Sikandar Raza won the toss and chose to field first. Iyer admitted he would have preferred batting on the improved pitch conditions. Yash Thakur debuted for India, replacing Ashok Sharma in the lineup. Zimbabwe retained their unchanged playing eleven from the first match.",
+    "img": "https://static.toiimg.com/photo/msid-132624457,imgsize-132112.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/shreyas-iyers-remarkable-streak-ends-india-captain-loses-first-t20i-toss/articleshow/132624443.cms",
+    "time": "2026-07-25T11:17:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dharmendra Pradhan's resigns: 'Dhurandhar' star Ayesha Khan celebrates",
+    "desc": "Actress Ayesha Khan actively endorsed the resignation of the Education Minister today, labeling it a monumental win for the protesting community. She demanded accountability and called for compensation to be granted to the families of victims. Additionally, she urged the public to remember the unfair FIRs imposed on students, reflecting on her own experience of being detained at a protest.",
+    "img": "https://static.toiimg.com/photo/msid-132624373,imgsize-126714.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dharmendra-pradhans-resignation-dhurandhar-actress-ayesha-khan-celebrates-days-after-being-detained-at-neet-protest-in-mumbai/articleshow/132624294.cms",
+    "time": "2026-07-25T11:15:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Inside 'Jana Nayagan' actor Mamitha Baiju's net worth and Kochi house",
+    "desc": "Mamitha Baiju's popularity is growing rapidly following her recent film successes. She is now reportedly charging between two and three crore rupees per movie. Her estimated net worth ranges from twenty to thirty crore rupees. Baiju owns a luxurious flat in Kochi valued at five crore rupees. She also maintains her family's ancestral home in Kottayam.",
+    "img": "https://static.toiimg.com/photo/msid-132623932,imgsize-79370.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/inside-mamitha-baijus-net-worth-and-rs-5-crore-kochi-house-a-look-at-jana-nayagan-stars-rising-fame-and-familys-ancestral-home/articleshow/132623909.cms",
+    "time": "2026-07-25T10:47:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Celebrities and star kids who changed their last names",
+    "desc": "Vivienne Jolie-Pitt has legally filed to remove 'Pitt' from her surname. This action follows similar petitions filed by her older siblings after turning eighteen. Nicolas Cage legally changed his name to the well-known 'Nick Cage' recently. Suri Cruise, daughter of Tom Cruise and Katie Holmes, now uses 'Noelle'. Angelina Jolie herself removed her father's surname 'Voight' in 2002.",
+    "img": "https://static.toiimg.com/photo/msid-132623822,imgsize-224969.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/celebrities-and-star-kids-who-changed-their-last-names-angelina-jolie-shiloh-jolie-nicolas-cage-and-others/articleshow/132623784.cms",
+    "time": "2026-07-25T10:36:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The Best Written Films of 2026 (So Far)",
+    "desc": "Which films have the best screenplays of 2026 so far? Half the year is behind us, and these are the six screenplays that impressed me the most—not just because they’re terrific films, but because each one avoids a storytelling mistake that countless writers still make. In this episode of Frequently Made Mistakes, Sudhish Kamath breaks down what makes these scripts work and the lessons every screenwriter can take away.",
+    "img": "https://th-i.thgim.com/public/news/national/ykvxmj/article71265802.ece/alternates/LANDSCAPE_1200/CINEMA.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/watch-the-best-written-films-of-2026-so-far-frequently-made-mistakes-26/article71265800.ece",
+    "time": "2026-07-25T10:36:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhamaal 4' BO Day 16 (Live): Ajay Devgn starrer surpasses Rs 166 crore",
+    "desc": "Dhamaal 4 continues its successful run at the box office, surpassing Rs 166 crore. The comedy film is drawing families to cinema halls even in its third week. On its sixteenth day, the movie collected Rs 1.11 crore net in India. Its total India net collection has now reached Rs 140.01 crore. The film aims to secure more earnings before new releases arrive.",
+    "img": "https://static.toiimg.com/photo/msid-132623495,imgsize-196932.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhamaal-4-box-office-collection-day-16-live-ajay-devgn-and-arshad-warsi-starrer-surpasses-rs-166-crore-in-india/articleshow/132623458.cms",
+    "time": "2026-07-25T10:21:04.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "CJP's Abhijeet Dipke falls on stage after being told Dharmendra Pradhan has resigned",
     "desc": "Abhijeet Dipke fell on stage after learning of Dharmendra Pradhan's resignation. He declared the resignation a victory but vowed protests would continue. Dipke demanded compensation for families and action against police officers. Pradhan accepted responsibility for the NEET paper leak controversy from the start. Meanwhile, police dismissed rumors about a ban on food delivery services.",
     "img": "https://static.toiimg.com/photo/msid-132623419,imgsize-10977587.cms",
@@ -12,7 +201,7 @@ const newsData_en = [
     "cat": "Politics",
     "title": "'We won't go': Abhijeet Dipke says protests to continue till all demands met; what's next for CJP",
     "desc": "Union Education Minister Dharmendra Pradhan has resigned from his post. Protests at Jantar Mantar will continue until further demands are met. The Cockroach Janata Party founder stated two remaining demands for the government. Compensation of one crore rupees is sought for families of suicide victims. Action against police for alleged brutality on July twentieth is also demanded.",
-    "img": "https://static.toiimg.com/photo/msid-132623478,imgsize-1173187.cms",
+    "img": "https://static.toiimg.com/photo/msid-132623516,imgsize-942344.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/we-wont-go-abhijeet-dipke-says-protests-to-continue-till-all-demands-met-whats-next-for-cjp/articleshow/132622980.cms",
     "time": "2026-07-25T09:48:31.000Z"
@@ -84,7 +273,7 @@ const newsData_en = [
     "cat": "Politics",
     "title": "Dharmendra Pradhan resigns as Union education minister amid massive student protests",
     "desc": "Union Education Minister Dharmendra Pradhan has resigned from his position. He submitted his resignation letter to Prime Minister Narendra Modi. This action comes amid ongoing protests concerning the NEET paper leak. The government has taken immediate cognizance of the irregularities. Investigations were handed over to the CBI, and the exam was cancelled.",
-    "img": "https://static.toiimg.com/photo/msid-132622451,imgsize-941401.cms",
+    "img": "https://static.toiimg.com/photo/msid-132623522,imgsize-1173187.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/dharmendra-pradhan-resigns-as-union-education-minister-amid-massive-student-protests/articleshow/132622408.cms",
     "time": "2026-07-25T09:07:50.000Z"
@@ -153,15 +342,6 @@ const newsData_en = [
     "time": "2026-07-25T08:34:27.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Jantar Mantar not a prison; desist from unlawfully detaining protestors: CJP to Delhi Police",
-    "desc": "Addressing the Delhi Police Commissioner, CJP appealed to issue directions to all police officers, “to cease and desist from unlawfully detaining, intimidating” and to stop obstructing the supply of food and essential items from reaching Jantar Mantar",
-    "img": "https://th-i.thgim.com/public/hindi/editorial/yk6wyk/article71265561.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-25%20at%2011.16.33%20AM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jantar-mantar-not-a-prison-desist-from-unlawfully-detaining-protestors-cjp-to-delhi-police/article71265407.ece",
-    "time": "2026-07-25T08:32:26.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'72 Hours': Kevin Hart on working with young comedians in comedy drama",
     "desc": "While promoting the film '72 Hours', Kevin Hart expressed admiration for the enthusiasm of emerging comedians, noting that their fervor rekindled his own filmmaking passion after years in the industry. Marcello Hernandez highlighted collaborating with Hart as a significant educational experience. The movie depicts a comedic clash across generations. Fans can catch '72 Hours' when it debuts on Netflix on July 24, promising to deliver laughs and insights.",
@@ -169,123 +349,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/web-series/news/english/72-hours-kevin-hart-calls-marcello-hernndez-and-the-young-cast-hungry-comedic-actors-seizing-an-opportunity/articleshow/132621796.cms",
     "time": "2026-07-25T08:26:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Lokesh Kanagaraj admits he was nervous at 'DC' audio launch",
-    "desc": "Director Lokesh Kanagaraj confessed his nervousness on stage during the 'DC' audio launch event. He admitted feeling scared of the stage, which was not his usual domain. Director Arun Matheswaran highlighted the film's special nature due to Kanagaraj and Anirudh. The movie's soundtrack features fifteen tracks composed by Anirudh Ravichander. 'DC' is scheduled for a theatrical release on August 7.",
-    "img": "https://static.toiimg.com/photo/msid-132621718,imgsize-186354.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/lokesh-kanagaraj-admits-he-was-nervous-at-dc-audio-launch-im-scared-of-this-stage/articleshow/132621706.cms",
-    "time": "2026-07-25T08:13:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Emily Kinney's Beth returns in 'The Walking Dead: Dead City'",
-    "desc": "Emily Kinney will return to The Walking Dead universe in season three. She will appear in an alternate reality episode of Dead City. Kinney revealed her cameo alongside co-star Lauren Cohan at Comic-Con. The new season of Dead City premieres on July 26, 2026. This installment focuses on rebuilding Manhattan into a safe community.",
-    "img": "https://static.toiimg.com/photo/msid-132621690,imgsize-180826.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-walking-dead-dead-city-emily-kinneys-beth-returns-in-season-3-even-after-characters-brutal-demise/articleshow/132621663.cms",
-    "time": "2026-07-25T08:10:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Activist gets bail, husband remains in jail over protest against M.P. Minister’s ‘remark’",
-    "desc": "The Indore-based activists staged a sit-in on July 23 in front of Kailash Vijayvargiya’s residence, accusing him of calling students protesting in New Delhi “insects” during his address in the State Assembly on July 21",
-    "img": "https://th-i.thgim.com/public/incoming/lrdf8b/article71265516.ece/alternates/LANDSCAPE_1200/6744_24_7_2026_19_7_43_5_IMG_7173JPG.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/madhya-pradesh/activist-gets-bail-husband-remains-in-jail-over-protest-against-mp-ministers-student-protests-remark/article71263349.ece",
-    "time": "2026-07-25T08:01:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shakira urges world leaders to support Uganda's Ghetto kids",
-    "desc": "During her recent commentary on Uganda's Ghetto Kids' outstanding display at the World Cup, Shakira applauded their resilience and talent. She called on global leaders to prioritize investments in children's futures, stressing the significance of equal opportunities. By sharing a compelling video, Shakira shed light on the untapped potential of marginalized youth, emphasizing the urgent need for systemic support and resources dedicated to youth development.",
-    "img": "https://static.toiimg.com/photo/msid-132621391,imgsize-204156.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/shakira-praises-uganda-kids-after-fifa-finals-urges-the-world-to-support-them-what-could-be-more-urgent-for-governments-/articleshow/132621348.cms",
-    "time": "2026-07-25T07:45:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Stuart Fails to Save the Universe': Raj's fate explained",
-    "desc": "In a shocking twist, Rajesh Koothrappali's unexpected return in a spin-off culminated in a poignant demise. The alternate universe version of Raj met his untimely end mere moments into the episode. The creators revealed that this bold narrative decision stemmed from the need for both storytelling depth and dark humor.",
-    "img": "https://static.toiimg.com/photo/msid-132621133,imgsize-186318.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/breaking-down-stuart-fails-to-save-the-universe-episode-1-rajs-shock-return-and-grim-fate-explained/articleshow/132621087.cms",
-    "time": "2026-07-25T07:32:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Constable ‘resigns’ on CJP stage; Uttarakhand Police says he was already under suspension",
-    "desc": "A Uttarakhand police constable, Sher Singh, made headlines on Friday when he handed his badge to Cockroach Janta Party (CJP) leader Abhijeet Dipke during a protest at Jantar Mantar, claiming to resign in solidarity with the movement against paper leaks.",
-    "img": "https://th-i.thgim.com/public/news/national/mjlf1u/article71265387.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-25%20at%2011.14.04%20AM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/constable-resigns-on-cjp-stage-uttarakhand-police-says-he-was-already-under-suspension/article71265384.ece",
-    "time": "2026-07-25T07:32:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi thanks people for responses, positive suggestions received for midnight video",
-    "desc": "Prime Minister Narendra Modi's outreach to the youth came four days after thousands of students led by the Cockroach Janta Party (CJP) took part in the 'Sansad Chalo' march to press for their demand for the resignation of Union Education Minister Dharmendra Pradhan over examination-related irregularities.",
-    "img": "https://th-i.thgim.com/public/hindi/editorial/70vy5a/article71265129.ece/alternates/LANDSCAPE_1200/Screenshot%202026-07-25%20074606.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/pm-modi-thanks-people-for-responses-positive-suggestions-received-for-midnight-video/article71265125.ece",
-    "time": "2026-07-25T07:31:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tigers to be introduced in Buxa Tiger Reserve in West Bengal on October 2",
-    "desc": "Senior officials of the West Bengal Forest Department said that bringing tigers to Buxa from Sundarban may not be a good idea. Tigers may be introduced in Buxa from similar landscape of Assam and Bihar",
-    "img": "https://th-i.thgim.com/public/incoming/4v0v8z/article71265102.ece/alternates/LANDSCAPE_1200/90092_11_6_2026_12_40_23_1_SIMILIPAL_TIGER_RESERVE_05.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/tigers-to-be-introduced-in-buxa-tiger-reserve-in-west-bengal-on-october-2/article71262169.ece",
-    "time": "2026-07-25T07:26:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jyotika backs students protest against the NEET examination",
-    "desc": "Actress Jyotika has publicly supported students protesting alleged NEET examination irregularities. She demanded the resignation of Union Education Minister Dharmendra Pradhan. Jyotika expressed solidarity with the students and their calls for accountability. She also praised environmentalist Sonam Wangchuk and student leaders for their activism. The actor thanked students for their courage in raising their voices.",
-    "img": "https://static.toiimg.com/photo/msid-132621065,imgsize-92644.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/i-support-a-democratic-india-jyotika-backs-students-protest-against-the-alleged-irregularities-in-the-neet-examination/articleshow/132621050.cms",
-    "time": "2026-07-25T07:22:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shabana Azmi tests positive for H1N1",
-    "desc": "Shabana Azmi has tested positive for H1N1 and swine flu, running a 102-degree fever, and will isolate for five days. Despite missing the protests, she remains in touch with on-ground updates and expressed solidarity via a post featuring her father Kaifi Azmi's poem. She was earlier an active presence at the demonstrations before falling ill.",
-    "img": "https://static.toiimg.com/photo/msid-132621021,imgsize-224500.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shabana-azmi-tests-positive-for-h1n1-says-shes-in-isolation-but-getting-on-ground-protest-updates/articleshow/132621021.cms",
-    "time": "2026-07-25T07:16:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Spaceballs: The New One' star Rick Moranis receives standing ovation",
-    "desc": "The New One'. This marks his return to acting after a long hiatus from the industry. The movie is scheduled for a theatrical release on April 23, 2027. The sequel features a star-studded cast and is directed by Josh Greenbaum.",
-    "img": "https://static.toiimg.com/photo/msid-132620972,imgsize-134213.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/san-diego-comic-con-spaceballs-the-new-one-star-rick-moranis-receives-standing-ovation-ahead-of-2027-theatrical-release/articleshow/132620989.cms",
-    "time": "2026-07-25T07:15:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Sack Pradhan from Cabinet': Rahul says ministerial reshuffle won't quell protest",
-    "desc": "\"Students have three demands, and these are not negotiable demands... The first demand is that the Education Minister, who is corrupt, incompetent, and misaligned, has to be sacked... There's some talk going on in Modi's cabinet that the solution is to move Dharmendra Pradhan from education to some other ministry. This is not acceptable to the students of India. It is not acceptable to anybody,\" the Congress leader said.",
-    "img": "https://static.toiimg.com/photo/msid-132620978,imgsize-80423.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sack-pradhan-from-cabinet-rahul-says-reshuffling-minister-wont-quell-protest/articleshow/132620739.cms",
-    "time": "2026-07-25T07:14:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Live through others after death by eye, skin, and body donation, says Ramannavar",
-    "desc": "Secretary of Dr. Ramannavar Charitable Trust, Bailhonal Mahantesh B. Ramannavar has said that every person above the age of 18 years had the opportunity to pledge for eye donation, body donation and skin donation and live through others even after their death",
-    "img": "https://th-i.thgim.com/public/incoming/jkt00p/article71263796.ece/alternates/LANDSCAPE_1200/2699_24_7_2026_20_43_0_2_25HUBLIBODYDONATION.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/live-through-others-after-death-by-eye-skin-and-body-donation-says-ramannavar/article71263255.ece",
-    "time": "2026-07-25T07:06:18.000Z"
   },
   {
     "cat": "Sports",
@@ -297,15 +360,6 @@ const newsData_en = [
     "time": "2026-07-25T06:18:21.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Cops everywhere': Wife Gitanjali shares photo from hospital, claims Wangchuk under constant vigil",
-    "desc": "Sonam Wangchuk, hours after he ended his 26-day hunger strike in the presence of Union ministers JP Nadda and Jitendra Singh, said he made the decision only after he got assurances from the govt and MPs across party lines that his demands for exam reforms and no action against peaceful protesters would be met.",
-    "img": "https://static.toiimg.com/photo/msid-132620012,imgsize-137482.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cops-everywhere-wife-gitanjali-shares-photo-from-hospital-claims-wangchuk-under-constant-vigil/articleshow/132619750.cms",
-    "time": "2026-07-25T06:07:47.000Z"
-  },
-  {
     "cat": "World",
     "title": "Over 1,66,000 evacuated as wildfires spin out of control in France, Spain",
     "desc": "French President Emmanuel Macron on July 24, asked the army to mobilise to help contain the worst wildfire the country has ever seen after seeking European Union help, as a local official warned the blaze was heading towards Bordeaux",
@@ -313,15 +367,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/166000-evacuated-as-wildfires-spin-out-of-control-in-france-spain/article71264193.ece",
     "time": "2026-07-25T05:52:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "AISA calls for ‘Bihar Bandh’ on July 25, against police lathi charge on protesting students",
-    "desc": "Protest and dharna continue in several districts of Bihar against the alleged NEET paper leak. Last evening, Jehanabad police had to open 20 to 30 rounds of fire after protesters pelted stones at the official residence of the District Magistrate",
-    "img": "https://th-i.thgim.com/public/incoming/b5355p/article71264171.ece/alternates/LANDSCAPE_1200/PTI07_24_2026_000148A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/aisa-calls-for-bihar-bandh-on-july-25/article71262933.ece",
-    "time": "2026-07-25T05:44:50.000Z"
   },
   {
     "cat": "Sports",
@@ -351,24 +396,6 @@ const newsData_en = [
     "time": "2026-07-25T04:56:18.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "How the hinterland became OTT’s hotspot",
-    "desc": "With the emergence of Indian OTT platforms, storytelling is no longer confined to urban settings. The pandemic has catalyzed a shift, allowing stories from small towns and villages to captivate a wider audience. Shows such as Panchayat and Mirzapur highlight this trend, with creators embracing different genres and regional dialects. As the focus remains on relatable characters and engaging narratives, viewers find deeper connections in these rich, authentic tales.",
-    "img": "https://static.toiimg.com/photo/msid-132618481,imgsize-239298.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/life-beyond-the-metro-how-the-hinterland-became-otts-hotspot/articleshow/132618385.cms",
-    "time": "2026-07-25T04:42:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Metro, internet shut",
-    "desc": "Rahul Gandhi criticized the Modi government's actions against students protesting the NEET paper leak. He alleged the government imposed cruel restrictions to suppress the student movement. Restrictions included shutting down metro, roads, internet, and food supplies. Rahul compared the government's treatment of students to British tyranny. He stated the government could not shut down paper leaks despite its actions.",
-    "img": "https://static.toiimg.com/photo/msid-132618852,imgsize-524983.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/metro-internet-shut-but-not-paper-leaks-rahul-slams-centre-over-neet-protest-curbs/articleshow/132618815.cms",
-    "time": "2026-07-25T04:23:56.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Gambhir termed 'foolish' after ex-India selector's Sooryavanshi verdict",
     "desc": "Vaibhav Sooryavanshi achieved a significant milestone by scoring a T20I half-century. He became the youngest player ever to reach this batting achievement. This performance followed his earlier inclusion and subsequent exclusion from the team. Former player Krishnamachari Srikkanth criticized the decision to drop him. Sooryavanshi's dedication and fearless approach were also highlighted.",
@@ -385,24 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/even-leftover-food-will-taste-like-a-wedding-meal-ex-cricketers-brutal-take-on-shreyas-iyers-first-t20i-win/articleshow/132618179.cms",
     "time": "2026-07-25T03:35:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Why is he always retained?': Ashwin fires back at Mayank Yadav's critics",
-    "desc": "Mayank Yadav made a strong comeback in his first international match since October 2024. He secured Player of the Match for his impressive bowling performance against Zimbabwe. This marked a significant return after a period of injury-related setbacks for the young bowler. Ravichandran Ashwin urged patience for players recovering from difficult physical and mental challenges. The team secured a convincing victory in the opening T20I match.",
-    "img": "https://static.toiimg.com/photo/msid-132617949,imgsize-59520.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/why-is-he-always-retained-ashwin-fires-back-at-mayank-yadavs-critics/articleshow/132617945.cms",
-    "time": "2026-07-25T02:46:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sobhita reacts to Naga Chaitanya's dinner joke",
-    "desc": "Naga Chaitanya amused fans with a quirky snapshot showcasing his wife, Sobhita Dhulipala, in the kitchen serving dinner. In a playful nod to their nearly two-year marriage, he shared a humorous caption. Sobhita's witty reply in the comments added to the charm, encouraging fans to join in the fun. The couple previously delighted followers with a cooking video from September 2025.",
-    "img": "https://static.toiimg.com/photo/msid-132617924,imgsize-1055160.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/naga-chaitanya-jokes-wifey-cooks-dinner-for-me-close-to-2-years-after-getting-married-sobhita-dhulipala-reacts/articleshow/132617906.cms",
-    "time": "2026-07-25T02:43:16.000Z"
   },
   {
     "cat": "Sports",
@@ -433,15 +442,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Cape Verde's WC hero Vozinha finds new club; it's not Messi's Inter Miami",
-    "desc": "Cape Verde goalkeeper Vozinha has joined Colo Colo on a free transfer, ending speculation over a move to Lionel Messi's Inter Miami. The 40-year-old earned global recognition after starring at the World Cup, where he nearly inspired Cape Verde to a shock win over Argentina. The veteran, with 92 international caps, now begins a new chapter after leaving Chaves.",
-    "img": "https://static.toiimg.com/photo/msid-132617480,imgsize-130119.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/cape-verdes-world-cup-hero-vozinha-finds-new-club-its-not-lionel-messis-inter-miami/articleshow/132617462.cms",
-    "time": "2026-07-25T01:34:17.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "'That's the world we live in': Head breaks silence on wife's abuse after Kohli row",
     "desc": "Travis Head dismissed rumours of a feud with Virat Kohli following their IPL 2026 handshake controversy, saying there was \"nothing to patch over.\" The incident sparked online abuse directed at Head's wife, Jessica Davies, and affected their family. Head praised his wife for handling the situation with grace, adding that public scrutiny is part of professional sport.",
     "img": "https://static.toiimg.com/photo/msid-132617359,imgsize-96551.cms",
@@ -457,24 +457,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/didier-deschamps-france-analysis-legacy-world-cup-zinedine-zidane-manager/article71263988.ece",
     "time": "2026-07-25T00:58:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Historic! South Africa's Chad le Clos scripts Commonwealth Games record",
-    "desc": "South African swimmer Chad le Clos became the most decorated male athlete in Commonwealth Games history after winning his 19th medal with bronze in the men's 4x100m freestyle relay. “I shouldn’t be crying at bronze, I should be crying at gold, but honestly this means the world,” he said. The 34-year-old is also targeting more medals and hopes to compete at the 2028 Olympics.",
-    "img": "https://static.toiimg.com/photo/msid-132617308,imgsize-81304.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/historic-south-africas-chad-le-clos-scripts-commonwealth-games-record-becomes-its-most-decorated-male-athlete/articleshow/132617300.cms",
-    "time": "2026-07-25T00:45:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Argentina's own FA sends blunt message after viral World Cup final replay petition passes 100,000 signatures",
-    "desc": "Argentina’s World Cup final defeat continues to spark debate as the AFA urges fans to accept Spain’s victory despite a viral replay petition crossing 100,000 signatures. President Claudio Tapia rejected claims of corruption, admitting Spain were the better side while warning supporters against misinformation. Lionel Scaloni also dismissed conspiracy theories, insisting Argentina must move forward after the painful loss.",
-    "img": "https://static.toiimg.com/photo/msid-132617159,imgsize-142754.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/argentinas-own-fa-sends-blunt-message-after-viral-world-cup-final-replay-petition-passes-100000-signatures/articleshow/132617082.cms",
-    "time": "2026-07-24T23:55:49.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/science/rome-declaration-convergent-perils-luminaries-human-ethics-outsourced-ai/article71252976.ece",
     "time": "2026-07-22T10:39:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Director H. Vinoth interview",
+    "desc": "Filmmaker H. Vinoth speaks about his upcoming film Jana Nayagan, starring Tamil Nadu Chief Minister Vijay, the unwavering support he received from the star during the turbulent months the film endured, what success means for a politically charged film that unfortunately leaked online, and more.",
+    "img": "https://th-i.thgim.com/public/incoming/m4env2/article71250755.ece/alternates/LANDSCAPE_1200/a%20positive%20person.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-h-vinoth-interview-on-jana-nayagan-and-thalapathy-vijays-support-during-testing-times/article71250750.ece",
+    "time": "2026-07-22T06:56:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Prime Video original ‘Phoolan’ to be screened at Toronto International Film Festival",
+    "desc": "Directed by Richie Mehta and inspired by the true story of Phoolan Devi, the film tells the story of a defining chapter in her life, where thousands of men trap her in a village in an attempt to kill her",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/nakys7/article71248977.ece/alternates/LANDSCAPE_1200/Phoolan.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/prime-video-phoolan-toronto-international-film-festival-tiff-richie-mehta-phoolan-devi-bandit-queen/article71248980.ece",
+    "time": "2026-07-22T04:59:58.000Z"
   }
 ];

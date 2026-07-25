@@ -1,6 +1,42 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "'ঘুম হত না, খাওয়া ছেড়েছিলাম...কিন্তু আজ গর্বিত!' শিক্ষামন্ত্রীর ইস্তফায় আবেগপ্লুত দীপকের মা",
+    "desc": "নিট বিতর্কে শিক্ষামন্ত্রীর ইস্তফার পর আবেগপ্লুত সিজেপি প্রধান অভিজিৎ দীপকের মা অনিতা দীপক। তিনি জানান, পুলিসের লাঠিচার্জ ও উদ্বেগে গত পাঁচ সপ্তাহ ঠিকমতো খাওয়া-ঘুম ত্যাগ করেছিলেন। তবে এত কম বয়সে ছেলে এই আন্দোলন সফল করে লক্ষ্য পূরণ করায় তিনি আজ একজন মা হিসেবে অত্যন্ত আনন্দিত ও গর্বিত।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/kept-worrying-lost-appetite-but-extremely-proud-abhijeet-dipkes-mother_663993.html ",
+    "time": "2026-07-25T12:40:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "দাবি মেনে নিল কেন্দ্র! ১ মাস পর আন্দোলন প্রত্যাহারের ঘোষণা ককরোচদের",
+    "desc": "এক মাসেরও বেশি সময় ধরে চলা লাগাতার আন্দোলনের পর অবশেষে দিল্লির যন্তর মন্তর থেকে প্রতিবাদ কর্মসূচি তুলে নেওয়ার ঘোষণা করল ‘কাকরোচ জনতা পার্টি’। শনিবার কেন্দ্র সরকারের সঙ্গে তৃতীয় দফার ফলপ্রসূ আলোচনার পরই এই বড় সিদ্ধান্ত জানানো হয়।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/cjp-withdraws-protest-with-immediate-effect-after-centre-agrees-to-demands_663991.html ",
+    "time": "2026-07-25T12:24:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "শিক্ষামন্ত্রীর ইস্তফায় বি-টাউনে উৎসব! প্রিয়াঙ্কার কুর্নিশ, বিজয় বর্মার ‘আচ্ছা চলতা হুঁ’ খোঁচা",
+    "desc": "বিতর্কের মুখে শিক্ষামন্ত্রী ধর্মেন্দ্র প্রধানের পদত্যাগে যন্তর মন্তরের পাশাপাশি উল্লাসে মেতেছে বলিউড। প্রিয়াঙ্কা চোপড়া শিক্ষার্থীদের এই জয়কে কুর্নিশ জানিয়েছেন, বিজয় বর্মা ‘আচ্ছা চলতা হুঁ’ লিখে কটাক্ষ করেছেন এবং বীর দাস একে ছাত্রশক্তির জয় আখ্যা দিয়েছেন। অন্যদিকে সিজিপি-র অভিজিৎ দীপক একে গণতন্ত্রের জয় বলে অভিহিত করেছেন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/dharmendra-pradhan-resigns-priyanka-chopra-celebrates-big-win-vijay-varma-takes-dig-with-accha-chalta-hoon_663985.html ",
+    "time": "2026-07-25T11:32:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "তরুণের তুর্কি নাচনে নড়ে গেল মোদীর মন্ত্রিসভা: টগবগে রক্তের বিজয়োল্লাসে ভাসল যন্তর মন্তর, ছাত্র আন্দোলনের ঐতিহাসিক জয়",
+    "desc": "শনিবার কেন্দ্রীয় শিক্ষামন্ত্রীর পদত্যাগের পর সিজেপি মুখপাত্র জানান, তাঁদের প্রথম ও প্রধান শর্তটি পূরিত হয়েছে। তবে পরীক্ষা ব্যবস্থার স্বচ্ছতা নিশ্চিত করতে এবং গঠিত ফাস্ট ট্র্যাক কোর্টের কার্যক্রম সঠিকভাবে পরিচালনা হচ্ছে কি না, সেদিকে তাঁরা নজর রাখবেন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/bowing-to-cjp-protests-education-minister-dharmendra-pradhan-resigns-students-celebrate-victory-of-student-power_663971.html ",
+    "time": "2026-07-25T10:29:26.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "অবশেষে ইস্তফা দিলেন কেন্দ্রীয় শিক্ষামন্ত্রী ধর্মেন্দ্র প্রধান, বিরাট জয় আরশোলাদের-- এবার আন্দোলন কোন পথে?",
     "desc": "নিটকাণ্ডের উত্তাল দেশে বিদ্রোহের আঁচে কেন্দ্রীয় মন্ত্রীর পদত্যাগ নিঃসন্দেহে নজিরবিহীন। সরকারপক্ষ থেকে আন্দোলনকারী শিক্ষার্থীদের দ্বিতীয় ও তৃতীয় দাবি দুটি আগেই মেনে নেওয়া হয়েছিল। কিন্তু শিক্ষামন্ত্রীর পদত্যাগের প্রশ্নে জলঘোলা চলছিল। পরিস্থিতি সামাল দিতে শুক্রবার সরকারের দুই শীর্ষ মন্ত্রী জেপি নাড্ডা ও জিতেন্দ্র সিং সিজেপি প্রতিনিধিদলের সৌরভ দাস ও আশুতোষ রাঙ্কার সঙ্গে দীর্ঘ দুই ঘণ্টা বৈঠকে বসেন।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -36,15 +72,6 @@ const newsData_bn = [
     "time": "2026-07-24T15:00:20.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "হাড়হিম হিমাচলে রক্তক্ষয়: পাহাড় থেকে ভয়ংকর বোল্ডার পড়ল চলন্ত সুমোতে, ধসে পিষে গেল ৬ মাসের শিশু-- শেষ ১৩ প্রাণ",
-    "desc": "দুর্ঘটনাটি ঘটেছে চাম্বা জেলার পাঙ্গি উপত্যকার কিলাড়-উদয়পুর মহাসড়কের ‘কড়ু নালা’ (Kadu Nalla) এলাকায়। স্থানীয় সূত্রে খবর, বৃহস্পতিবার রাতে প্রবল বর্ষণের কারণে উদয়পুর-কিলার পথটিতে ব্যপক ধস নামায় যান চলাচল বন্ধ হয়ে গিয়েছিল। শুক্রবার ভোরের দিকে সড়ক পরিষ্কার করে যাতায়াত করা হয়।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/himachal-landslide-tragedy-13-killed-as-boulder-crushes-cab-in-chamba-state-issues-strict-travel-advisory_663840.html ",
-    "time": "2026-07-24T12:39:47.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘নন-লিনিয়ার গল্প আর ডাবল রোল!’ প্রয়াত রাহুল শেষ ছবি ‘ছবিওয়ালা’ নিয়ে কী বলেছিলেন?",
     "desc": "ছবিতে বাবা ও ছেলে—দুই চরিত্রে অভিনয় করা নিয়ে তিনি জানিয়েছিলেন তাঁর মুগ্ধতার কথা। পরিচালক বাপ্পার এই কম বাজেটের স্বাধীন ছবিতে রাহুলের বিপরীতে রয়েছেন দেবলীনা দত্ত। স্মৃতিকাতরতা, নস্ট্যালজিয়া ও শিল্পীর আবেগ জড়িয়ে থাকা এই ছবি দর্শকহৃদয়ে দাগ কাটছে।",
@@ -52,15 +79,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/rahul-arunoday-banerjee-last-film-chobiwala-actor-final-reaction-bappa_663822.html ",
     "time": "2026-07-24T11:23:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "আন্দোলনকারীরা সন্ত্রাসবাদী নাকি? ইয়ার্কি হচ্ছে? পুলিস নেই দেশে? NIA আর CBI তদন্তের দাবি কানেই তুলল না দিল্লি হাইকোর্ট",
-    "desc": "সিজেপি-র পক্ষ থেকে জানানো হয়েছে, তাদের পেশ করা তিনটি প্রধান দাবির মধ্যে দু’টি দাবি মেনে নেওয়ার ইতিবাচক আশ্বাস দিয়েছে কেন্দ্র। তবে কেন্দ্রীয় শিক্ষামন্ত্রী ধর্মেন্দ্র প্রধানের ইস্তফার বিষয়ে চূড়ান্ত সিদ্ধান্ত জানাতে আগামীকাল, ২৫ জুলাই দুপুর ২টো পর্যন্ত সময় চেয়েছে সরকার।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/chalo-sansad-march-delhi-high-court-refuses-to-hear-plea-seeking-nia/cbi-probe-into-july-20-protest_663820.html ",
-    "time": "2026-07-24T11:17:22.000Z"
   },
   {
     "cat": "World",
@@ -79,24 +97,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/trisha-arrives-at-chennai-theatre-to-watch-vijays-jana-nayagan-viral-video_663812.html ",
     "time": "2026-07-24T09:43:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'বিক্ষোভে যোগ দিলে আইনি ব্যবস্থা নেওয়া হতে পারে', পড়ুয়া-শিক্ষকদের উদ্দেশে বলল DU! পালটা হুঁশিয়ারি রাহুলের",
-    "desc": "বিশ্ববিদ্যালয় প্রশাসন তাদের শিক্ষক ও শিক্ষার্থীদের কোনও ধরনের অননুমোদিত বা বেআইনি প্রতিবাদ-বিক্ষোভে অংশ না নেওয়ার জন্য একটি বিশেষ নির্দেশিকা জারি করেছে। স্পষ্ট সতর্ক করে বলা হয়েছে, \"মনে রাখবেন, দেশের সর্বোচ্চ আদালতের নির্দেশ লংঘন করে যন্তর মন্তরে যে কোনও বেআইনি জমায়েত বা বিক্ষোভে অংশ নিলে আইনি ব্যবস্থা নেওয়া হতে পারে।\"",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/du-warns-students-faculty-that-protest-at-jantar-mantar-may-invite-legal-action_663808.html ",
-    "time": "2026-07-24T09:16:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "আন্দোলনের নামে হিংসা ছড়ালেই কেড়ে নেব পাসপোর্ট: ককরোচের প্রতিবাদী পড়ুয়াদের মারাত্মক হুমকি কেন্দ্রের",
-    "desc": "এদিকে আন্দোলনকারীদের শান্ত থাকার আহ্বান জানিয়েছেন সোনম ওয়াংচুক। এক্স হ্য়ান্ডেল পোস্টে তাঁর বার্তা, 'শান্তি এবং কেবল শান্তিই আমার পথ…যন্তর মন্তরে যখন আন্দোলন শান্তিপূর্ণভাবে চলছে, তখন এই শান্তিপূর্ণ প্রতিবাদের সুযোগ নিয়ে কিছু লোক হিংসা ছড়ানোর চেষ্টা করছে-- এ কথা জেনে আমি অত্যন্ত ব্যথিত।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/cjp-protest-in-delhi-police-eye-passport-cancellation-for-accused-in-violence_663800.html ",
-    "time": "2026-07-24T08:33:40.000Z"
   },
   {
     "cat": "Entertainment",
@@ -322,15 +322,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/jennifer-wingets-bridal-gown-trial-video-goes-viral-amid-wedding-rumours_662928.html ",
     "time": "2026-07-18T12:02:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘র‍্যাঞ্চো’ কি সোনম ওয়াংচুক নন? 'আমরা তো ওকে চিনতামই না', দীর্ঘদিনের ভুল ভাঙালেন আমির",
-    "desc": "সোনম নিজেও বলেছিলেন, তাঁর জীবন থেকে অনুপ্রাণিত থ্রি ইডিয়টস। যদিও ছবির গল্পের সঙ্গে তাঁর মিল নেই। তবে ‘বাস্তবের র‍্যাঞ্চো’ বলেই সোনমকে চেনে গোটা দেশ। তবে আমিরের সাফ কথা, থ্রি ইডিয়টস-এর ফুংসুখ ওয়াংডু চরিত্রটি সোনম ওয়াংচুকের নয়।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/aamir-khan-says-his-3-idiots-role-not-based-on-wangchuk-amid-his-hunger-strike_662796.html ",
-    "time": "2026-07-17T10:17:11.000Z"
   },
   {
     "cat": "World",

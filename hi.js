@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Vini Jr's Brazil coming to India for a friendly match? Everything you need to know",
+    "desc": "Brazil are set to return to international action with a three-match programme during the first FIFA international window following the 2026 FIFA World Cup. One of those fixtures could take place in India if ongoing...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/vini-jr-s-brazil-coming-to-india-for-a-friendly-match-everything-you-need-to-know-2026-07-25-1049401",
+    "time": "2026-07-25T12:19:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Where to watch Pakistan vs West Indies 1st Test live on TV and stream online in India?",
+    "desc": "West Indies host Pakistan for a two-match Test series, starting Saturday, July 25 in Tarouba, Trinidad. Babar Azam, who returned to captaincy, will seek Pakistan’s first win in the World Test Championship cycle, but most...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/where-to-watch-pakistan-vs-west-indies-1st-test-live-on-tv-and-stream-online-in-india-2026-07-25-1049395",
+    "time": "2026-07-25T11:26:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Zimbabwe's chase begins after India posted 219 runs in first innings",
+    "desc": "India play Zimbabwe in the second T20I of the three-match series on Saturday, July 25 at the Harare Sports Club. Shreyas Iyer’s side enters the contest with a 1-0 lead after a comprehensive seven-wicket victory...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-zim-1st-t20i-live-cricket-score-india-vs-zimbabwe-latest-match-updates-scorecard-teams-playing-xis-reactions-sooryavanshi-abhishek-1049388",
+    "time": "2026-07-25T10:25:02.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Shreyas Iyer on the brink of history ahead of second T20I clash against Zimbabwe",
     "desc": "India and Zimbabwe are all set to take on each other in the second T20I of the ongoing series. The two sides will meet at the Harare Sports Club on July 25, and the Men...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/jhandu-kumar-secures-india-s-first-medal-at-commonwealth-games-2026-wins-bronze-in-para-powerlifting-2026-07-25-1049355",
     "time": "2026-07-25T02:44:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India vs Zimbabwe 2nd T20I Pitch Report, how will surface in Harare play?",
-    "desc": "The stage is set for the 2nd T20I of the ongoing series between India and Zimbabwe. The two sides are slated to meet at the Harare Sports Club on July 25, and both teams will...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-zimbabwe-2nd-t20i-pitch-report-how-will-surface-in-harare-play-2026-07-25-1049349",
-    "time": "2026-07-25T01:33:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Indian team launches 'best attitude award' after first T20I vs Zimbabwe, who won the first medal?",
-    "desc": "India's team management has introduced a new “Best Attitude Award” during the ongoing T20I series against Zimbabwe. Middle-order batter Tilak Varma became the first recipient after the opening match in Harare. The initiative has been...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/indian-team-launches-best-attitude-award-after-first-t20i-vs-zimbabwe-who-won-the-first-medal-2026-07-24-1049345",
-    "time": "2026-07-24T17:55:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Travis Head denies fallout with Virat Kohli after IPL drama, which resulted in wife's online trolling",
-    "desc": "Australia batter Travis Head has denied reports of a fallout with Virat Kohli following their controversial interaction during the Indian Premier League 2026. He insisted there is “nothing to patch over” between the two players. Notably,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/travis-head-denies-fallout-with-virat-kohli-after-ipl-drama-which-resulted-in-wife-s-abuse-2026-07-24-1049341",
-    "time": "2026-07-24T17:23:59.000Z"
   }
 ];
