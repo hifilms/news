@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Kuldeep Yadav strengthens case for ODI comeback, performs brilliantly on Yorkshire debut with two wickets",
+    "desc": "Star India spinner Kuldeep Yadav has continued his brilliant form and continues to strengthen his case for a comeback in India’s ODI squad ahead of the ODI World Cup 2027. The 31-year-old is currently representing...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kuldeep-yadav-strengthens-case-for-odi-comeback-performs-brilliantly-on-yorkshire-debut-with-two-wickets-2026-07-25-1049375",
+    "time": "2026-07-25T07:44:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kris Srikkanth backs the inclusion of veteran all-rounder in India's ODI squad",
+    "desc": "The ODI World Cup 2027 is looming on the horizon, and there is no doubt that the Indian team is being regarded as one of the biggest favourites for the title in the upcoming tournament...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kris-srikkanth-backs-the-inclusion-of-veteran-all-rounder-in-india-s-odi-squad-2026-07-25-1049368",
+    "time": "2026-07-25T06:23:54.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India's stand-in bowling coach reveals plans around Vaibhav Sooryavanshi ahead of second Zimbabwe clash",
     "desc": "The Indian team is all set to take on Zimbabwe in the second T20I of the ongoing series. The two sides will meet at the Harare Sports Club on July 25th, and both sides will...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/5-underrated-badminton-stars-to-keep-an-eye-on-at-bwf-world-championships-2026-2026-07-24-1049321",
     "time": "2026-07-24T13:12:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sanju Samson reveals why he left RR for CSK, reveals reason for not demanding captaincy",
-    "desc": "India’s keeper-batter Sanju Samson revealed the reason behind parting ways with Rajasthan Royals ahead of the IPL 2026 season. Calling it a huge risk, the Kerala-born threw light upon his reasons to join Chennai Super...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sanju-samson-reveals-why-he-left-rr-for-csk-reveals-reason-for-not-demanding-captaincy-2026-07-24-1049315",
-    "time": "2026-07-24T12:35:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Joe Root set to become England captain again after Ben Stokes' retirement; why not Harry Brook?",
-    "desc": "Star England batter Joe Root is very likely to be named the next captain of the Test side. Former international Ben Stokes announced his retirement after the New Zealand series, leaving the door open for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/joe-root-set-to-become-england-captain-again-after-ben-stokes-retirement-why-not-harry-brook-2026-07-24-1049310",
-    "time": "2026-07-24T12:10:52.000Z"
   }
 ];

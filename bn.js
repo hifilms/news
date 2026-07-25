@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "পালিয়েও হল না শেষ রক্ষা! অবশেষে গ্রেফতার টেট প্রশ্নপত্র ফাঁসকাণ্ডের মাস্টারমাইন্ড বীজেন্দ্র",
+    "desc": "প্রায় ছয় লাখ পরীক্ষার্থীর কথা ভেবে পরীক্ষা স্থগিত করা হয়। সম্পূর্ণ নেটওয়ার্কটি গুটিয়ে আনতে মহারাষ্ট্র পুলিসের গঠিত বিশেষ তদন্তকারী দল (SIT) একাধিক রাজ্যে অভিযান শুরু করে। বহু দিন ধরে পুলিস তাকে খোঁজাখুঁজি করলেও সে বার বার হাত ফসকে পালাচ্ছিল।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/maharashtra-tet-paper-leak-mastermind-bijendra-gupta-arrested-in-bihar_663918.html ",
+    "time": "2026-07-25T06:31:52.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "'থ্যাঙ্ক ইউ ফ্রেন্ডস...'! মধ্যরাতে জেন জি-দের উদ্দেশ্যে মোদীর এক রিলে চুরমার বিশ্বরেকর্ড",
     "desc": "জেন-জিদের ধন্যবাদ জানিয়ে একটি নতুন ভিডিয়ো পোস্ট করেন প্রধানমন্ত্রী। 'ধন্যবাদ বন্ধুরা' দিয়ে শুরু করা সেই ভিডিয়োতে তিনি যুবসমাজের গঠনমূলক পরামর্শ ও ভালোবাসার জন্য কৃতজ্ঞতা জানান। ক্যাপশনে তিনি লেখেন, 'আপনাদের এই ভালোবাসা অটুট থাকবে এবং আমাদের মনের টান আগামীতে আরও মজবুত হবে।'",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -124,15 +133,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/m-modi-announces-new-bill-push-in-midnight-video-message-more-strict-actions-to-come-against-paper-leaks_663763.html ",
     "time": "2026-07-24T03:34:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "২ মাসের বৃষ্টি ২৪ ঘণ্টায়! ধুয়ে গেল শহর-গ্রাম! ডুবল ৫০টিরও বেশি গাড়ি, ১২০০ উদ্ধার হলেও ঘটল প্রাণহানি! কত মৃত্যু?",
-    "desc": "উম্বেরগাঁওয়ের অবস্থা গুজরাটের মধ্যে সবচেয়ে খারাপ। সহসাই গ্রামটি যেন চেরাপুঞ্জি হয়ে উঠল! দেশের দৈনিক বৃষ্টির রেকর্ডে চেরাপুঞ্জিই সাধারণত শীর্ষে থাকে। সেই চেরাপুঞ্জিকেও চ্যালেঞ্জ করল গুজরাট। এদিকে ভেঙে গেল ২০০৫ সালের 'কুখ্যাত' মুম্বই বন্যার রেকর্ডও। ২৭ জুলাই মুম্বইয়ে সান্তাক্রুজে বৃষ্টি হয়েছিল ৯৪৪.২ মিলিমিটার।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/1100-mm-rain-in-gujarats-valsad-schools-colleges-shut-down-1200-rescued-over-50-cars-submerged-as-rain-floods-parking-lot_663725.html ",
-    "time": "2026-07-23T14:05:26.000Z"
   },
   {
     "cat": "Entertainment",
