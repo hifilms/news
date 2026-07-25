@@ -1,12 +1,201 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "CJP's Abhijeet Dipke falls on stage after being told Dharmendra Pradhan has resigned",
+    "desc": "Abhijeet Dipke fell on stage after learning of Dharmendra Pradhan's resignation. He declared the resignation a victory but vowed protests would continue. Dipke demanded compensation for families and action against police officers. Pradhan accepted responsibility for the NEET paper leak controversy from the start. Meanwhile, police dismissed rumors about a ban on food delivery services.",
+    "img": "https://static.toiimg.com/photo/msid-132623419,imgsize-10977587.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/watch-cjps-abhijeet-dipke-falls-on-stage-after-being-told-dharmendra-pradhan-has-resigned/articleshow/132622699.cms",
+    "time": "2026-07-25T10:09:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'We won't go': Abhijeet Dipke says protests to continue till all demands met; what's next for CJP",
+    "desc": "Union Education Minister Dharmendra Pradhan has resigned from his post. Protests at Jantar Mantar will continue until further demands are met. The Cockroach Janata Party founder stated two remaining demands for the government. Compensation of one crore rupees is sought for families of suicide victims. Action against police for alleged brutality on July twentieth is also demanded.",
+    "img": "https://static.toiimg.com/photo/msid-132623478,imgsize-1173187.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/we-wont-go-abhijeet-dipke-says-protests-to-continue-till-all-demands-met-whats-next-for-cjp/articleshow/132622980.cms",
+    "time": "2026-07-25T09:48:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shabana Azmi net worth",
+    "desc": "Shabana Azmi and Javed Akhtar's combined net worth is approximately Rs 206 crore. Their impressive portfolio includes luxury properties in Mumbai and Khandala. The couple recently acquired a new apartment valued at Rs 7.76 crore. Javed Akhtar's individual net worth is estimated at Rs 167 crore. Shabana Azmi's personal net worth is estimated between Rs 40 crore and Rs 42 crore.",
+    "img": "https://static.toiimg.com/photo/msid-132622931,imgsize-183696.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shabana-azmi-net-worth-from-national-award-winning-debut-to-rs-206-crore-combined-wealth-with-javed-akhtar-read-details-here/articleshow/132622851.cms",
+    "time": "2026-07-25T09:41:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vijay Antony and Swasika's 'Nooru Saami' OTT release date confirmed",
+    "desc": "Vijay Antony's family drama Nooru Saami will premiere on Zee5. The film's digital release is scheduled for July thirty-first. This emotional story is inspired by real-life incidents and sacrifices. Swasika stars as the female lead in this Sasi directorial. The movie offers a second chance for audiences to experience its heartfelt narrative.",
+    "img": "https://static.toiimg.com/photo/msid-132622696,imgsize-252090.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/nooru-saami-ott-release-date-confirmed-when-and-where-to-watch-vijay-antony-and-swasikas-emotional-drama/articleshow/132622667.cms",
+    "time": "2026-07-25T09:37:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jim Carrey pays tribute to 'The Mask' director Chuck Russell",
+    "desc": "Actor Jim Carrey remembered director Chuck Russell, who helmed The Mask. Carrey called working with Russell a defining moment in his creative career. He praised Russell's ability to foster artistic collaboration and a sense of wonder. Russell passed away unexpectedly at his San Diego area home. His career included directing films like A Nightmare on Elm Street 3 and Eraser.",
+    "img": "https://static.toiimg.com/photo/msid-132622824,imgsize-138096.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jim-carrey-pays-tribute-to-the-mask-director-chuck-russell-calls-working-with-the-beloved-filmmaker-a-privilege/articleshow/132622619.cms",
+    "time": "2026-07-25T09:34:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Helen reveals she travelled to Paris for real feathers",
+    "desc": "Veteran dancer Helen shared details about sourcing unique accessories for her performances. She traveled abroad to find special items, including real feathers from Paris. Her elaborate costumes became defining visual signatures of classic Hindi cinema. Judges and co-stars celebrated Helen's significant influence on Bollywood fashion and dance. Helen's professionalism and natural ability earned her admiration from many.",
+    "img": "https://static.toiimg.com/photo/msid-132622796,imgsize-163474.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/helen-reveals-she-travelled-to-paris-for-real-feathers-says-my-jewelry-giant-goggles-and-accessories-were-all-picked-to-stay-ahead-of-the-time/articleshow/132622668.cms",
+    "time": "2026-07-25T09:30:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'To ensure anti-national elements don't benefit from situation': Dharmendra Pradhan resigns",
+    "desc": "Union education minister Dharmendra Pradhan has resigned from his position. He submitted his resignation letter to Prime Minister Narendra Modi. This decision comes amidst ongoing protests concerning the NEET paper leak. Pradhan stated his commitment to students and education reform for decades. He expressed gratitude for the opportunity to serve the nation.",
+    "img": "https://static.toiimg.com/photo/msid-132622542,imgsize-74150.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/to-ensure-anti-national-elements-dont-benefit-from-situation-dharmendra-pradhan-resigns-read-full-letter/articleshow/132622487.cms",
+    "time": "2026-07-25T09:16:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Meghan Markle’s latest photos spark online debate",
+    "desc": "Meghan Markle recently posted vacation photos, igniting a heated public discussion. Certain commentators deemed the images at Princess Diana's resting place as inappropriate, while others stood up for Markle, arguing the photos countered misleading narratives about her family. As of now, the Duchess of Sussex has yet to respond to the backlash. Their trip across Europe featured stops in Portugal and Diana's hometown.",
+    "img": "https://static.toiimg.com/photo/msid-132622492,imgsize-94302.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/meghan-markles-new-photos-cause-social-media-stir-and-backlash-how-disrespectful-exploitative-and-gross/articleshow/132622492.cms",
+    "time": "2026-07-25T09:15:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Millions with desk jobs, millions with cervical pain",
+    "desc": "The rise of neck pain among young professionals in India can be attributed to the demands of desk jobs. Extended exposure to screens coupled with poor posture is leading to this unsettling health trend. Many individuals face daily discomfort that detracts from their quality of life and productivity. Medical experts report a concerning increase in younger patients. To combat this, implementing ergonomic solutions and promoting movement breaks is essential.",
+    "img": "https://static.toiimg.com/photo/msid-132622243,imgsize-109128.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/millions-with-desk-jobs-millions-with-cervical-pain/articleshow/132622006.cms",
+    "time": "2026-07-25T09:12:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Dharmendra Pradhan resigns as Union education minister amid massive student protests",
+    "desc": "Union Education Minister Dharmendra Pradhan has resigned from his position. He submitted his resignation letter to Prime Minister Narendra Modi. This action comes amid ongoing protests concerning the NEET paper leak. The government has taken immediate cognizance of the irregularities. Investigations were handed over to the CBI, and the exam was cancelled.",
+    "img": "https://static.toiimg.com/photo/msid-132622451,imgsize-941401.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/dharmendra-pradhan-resigns-as-union-education-minister-amid-massive-student-protests/articleshow/132622408.cms",
+    "time": "2026-07-25T09:07:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "John Cusack on shifting from acting to writing 'Momo'",
+    "desc": "Actor John Cusack has newly embraced the world of fiction writing, stepping back from blockbuster films to pursue his creative passion. His latest project, a graphic novel titled 'Momo', illustrates this pursuit of artistic freedom. Should an opportunity arise for a film adaptation, Cusack has conveyed his willingness to reprise his role, indicating a desire for more independent creative journeys.",
+    "img": "https://static.toiimg.com/photo/msid-132622428,imgsize-99534.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/john-cusack-calls-graphic-novels-so-cinematic-as-he-shifts-from-acting-to-writing-they-were-closest-things-to-film/articleshow/132622318.cms",
+    "time": "2026-07-25T09:07:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Mask' director Chuck Russell passes away at 74",
+    "desc": "Filmmaker Chuck Russell, known for \"The Mask,\" passed away at 74. He died at his San Diego-area home on Wednesday, July 22, 2026. The cause of his death remains unknown to the public. Russell began his career writing screenplays and directing films. He is survived by his wife and three children.",
+    "img": "https://static.toiimg.com/photo/msid-132622262,imgsize-306779.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-mask-director-chuck-russell-passes-away-at-74/articleshow/132622268.cms",
+    "time": "2026-07-25T08:52:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Amid dating rumors with Raghav Juyal, Shehnaaz Gill says love doesn't need a perfect ending",
+    "desc": "Shehnaaz Gill believes love is meaningful whether fulfilled or not. She encourages focusing on the present moment and living with loyalty. Her film 'Ishqnama' explores a cross-border love story inspired by real events. The movie unfolds along the India-Pakistan border between 1981 and 1988. Raghav Juyal also addressed viral videos sparking dating rumors.",
+    "img": "https://static.toiimg.com/photo/msid-132622182,imgsize-250541.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amid-dating-rumors-with-raghav-juyal-shehnaaz-gill-says-love-doesnt-need-a-perfect-ending-urges-everyone-to-live-in-the-present/articleshow/132622123.cms",
+    "time": "2026-07-25T08:46:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'418' trailer Release: makers delay horror film promo",
+    "desc": "The trailer for the upcoming Telugu horror film 418 will not release today. Production house Mythri Movie Makers announced the delay on Instagram stories. They stated that some doors are better opened at the right time. A new trailer release date will be announced soon by the makers. The film is presented by Prashanth Neel and directed by Kirtan Nadagouda.",
+    "img": "https://static.toiimg.com/photo/msid-132622038,imgsize-112160.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/prashanth-neel-backed-418-trailer-postponed-makers-say-it-will-be-worth-the-wait/articleshow/132621865.cms",
+    "time": "2026-07-25T08:38:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India's Lanka squad by Tuesday; BCCI review to put support staff under scanner",
+    "desc": "The BCCI will announce India's squad for the two-Test tour of Sri Lanka by Tuesday, secretary Devajit Saikia confirmed. The board will also review India's recent white-ball tours of Ireland, England and Zimbabwe in early August. The meeting will determine the future of assistant coach Ryan ten Doeschate and fielding coach T Dilip, whose contracts have expired after the ongoing tour.",
+    "img": "https://static.toiimg.com/photo/msid-132622039,imgsize-81036.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/indias-sri-lanka-squad-by-tuesday-bcci-review-to-put-support-staff-under-scanner/articleshow/132621995.cms",
+    "time": "2026-07-25T08:36:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "What is the Public Examinations Amendment Bill? Govt proposes sweeping changes to anti-cheating law",
+    "desc": "Under the proposed Public Examinations (Prevention of Unfair Means) Amendment Bill, investigations into offences under the Act will have to be completed within two months. The Bill empowers the Central Government to constitute a special fast track courts, wherever necessary, for investigation of offences under the Act. The amendment also proposes that trials in special fast track courts be conducted on a day-to-day basis and completed within three months from the date of filing of the chargesheet.",
+    "img": "https://static.toiimg.com/photo/msid-132622034,imgsize-344514.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/what-is-the-public-examinations-amendment-bill-govt-proposes-sweeping-changes-to-anti-cheating-law/articleshow/132621615.cms",
+    "time": "2026-07-25T08:35:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Ben Affleck",
+    "desc": "During the Academy Awards, Ben Affleck shared an impactful message on resilience, reminding everyone that encountering setbacks is a natural part of life. Drawing from his own journey, he highlighted the significance of recovering from adversity. Affleck's story showcases his determination to overcome challenges, inspiring others to confront their struggles boldly and continue progressing.",
+    "img": "https://static.toiimg.com/photo/msid-132622020,imgsize-110156.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-ben-affleck-it-doesnt-matter-how-you-get-knocked-down-in-life-all-that-matters-is-you-gotta-get-up-the-good-will-hunting-stars-life-lesson-on-never-giving-up-despite-the-setbacks-of-life/articleshow/132621983.cms",
+    "time": "2026-07-25T08:34:27.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Jantar Mantar not a prison; desist from unlawfully detaining protestors: CJP to Delhi Police",
-    "desc": "Addressing the Delhi Police Commissioner, CJP appealed to issue directions to all police officers, “to cease and desist from unlawfully detaining, intimidating” and to stop obstructing the the supply of food and essential items from reaching Jantar Mantar",
+    "desc": "Addressing the Delhi Police Commissioner, CJP appealed to issue directions to all police officers, “to cease and desist from unlawfully detaining, intimidating” and to stop obstructing the supply of food and essential items from reaching Jantar Mantar",
     "img": "https://th-i.thgim.com/public/hindi/editorial/yk6wyk/article71265561.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-25%20at%2011.16.33%20AM.jpeg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/jantar-mantar-not-a-prison-desist-from-unlawfully-detaining-protestors-cjp-to-delhi-police/article71265407.ece",
-    "time": "2026-07-25T07:46:15.000Z"
+    "time": "2026-07-25T08:32:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'72 Hours': Kevin Hart on working with young comedians in comedy drama",
+    "desc": "While promoting the film '72 Hours', Kevin Hart expressed admiration for the enthusiasm of emerging comedians, noting that their fervor rekindled his own filmmaking passion after years in the industry. Marcello Hernandez highlighted collaborating with Hart as a significant educational experience. The movie depicts a comedic clash across generations. Fans can catch '72 Hours' when it debuts on Netflix on July 24, promising to deliver laughs and insights.",
+    "img": "https://static.toiimg.com/photo/msid-132621817,imgsize-259180.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/72-hours-kevin-hart-calls-marcello-hernndez-and-the-young-cast-hungry-comedic-actors-seizing-an-opportunity/articleshow/132621796.cms",
+    "time": "2026-07-25T08:26:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lokesh Kanagaraj admits he was nervous at 'DC' audio launch",
+    "desc": "Director Lokesh Kanagaraj confessed his nervousness on stage during the 'DC' audio launch event. He admitted feeling scared of the stage, which was not his usual domain. Director Arun Matheswaran highlighted the film's special nature due to Kanagaraj and Anirudh. The movie's soundtrack features fifteen tracks composed by Anirudh Ravichander. 'DC' is scheduled for a theatrical release on August 7.",
+    "img": "https://static.toiimg.com/photo/msid-132621718,imgsize-186354.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/lokesh-kanagaraj-admits-he-was-nervous-at-dc-audio-launch-im-scared-of-this-stage/articleshow/132621706.cms",
+    "time": "2026-07-25T08:13:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Emily Kinney's Beth returns in 'The Walking Dead: Dead City'",
+    "desc": "Emily Kinney will return to The Walking Dead universe in season three. She will appear in an alternate reality episode of Dead City. Kinney revealed her cameo alongside co-star Lauren Cohan at Comic-Con. The new season of Dead City premieres on July 26, 2026. This installment focuses on rebuilding Manhattan into a safe community.",
+    "img": "https://static.toiimg.com/photo/msid-132621690,imgsize-180826.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-walking-dead-dead-city-emily-kinneys-beth-returns-in-season-3-even-after-characters-brutal-demise/articleshow/132621663.cms",
+    "time": "2026-07-25T08:10:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Activist gets bail, husband remains in jail over protest against M.P. Minister’s ‘remark’",
+    "desc": "The Indore-based activists staged a sit-in on July 23 in front of Kailash Vijayvargiya’s residence, accusing him of calling students protesting in New Delhi “insects” during his address in the State Assembly on July 21",
+    "img": "https://th-i.thgim.com/public/incoming/lrdf8b/article71265516.ece/alternates/LANDSCAPE_1200/6744_24_7_2026_19_7_43_5_IMG_7173JPG.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/activist-gets-bail-husband-remains-in-jail-over-protest-against-mp-ministers-student-protests-remark/article71263349.ece",
+    "time": "2026-07-25T08:01:24.000Z"
   },
   {
     "cat": "Entertainment",
@@ -54,15 +243,6 @@ const newsData_en = [
     "time": "2026-07-25T07:26:50.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Activist gets bail, husband remains in jail over protest against M.P. Minister’s ‘remark’",
-    "desc": "The Indore-based activists staged a sit-in on July 23 in front of Kailash Vijayvargiya’s residence, accusing him of calling students protesting in New Delhi “insects” during his address in the State Assembly on July 21",
-    "img": "https://th-i.thgim.com/public/incoming/lrdf8b/article71265516.ece/alternates/LANDSCAPE_1200/6744_24_7_2026_19_7_43_5_IMG_7173JPG.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/madhya-pradesh/activist-gets-bail-husband-remains-in-jail-over-protest-against-mp-ministers-student-protests-remark/article71263349.ece",
-    "time": "2026-07-25T07:26:15.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Jyotika backs students protest against the NEET examination",
     "desc": "Actress Jyotika has publicly supported students protesting alleged NEET examination irregularities. She demanded the resignation of Union Education Minister Dharmendra Pradhan. Jyotika expressed solidarity with the students and their calls for accountability. She also praised environmentalist Sonam Wangchuk and student leaders for their activism. The actor thanked students for their courage in raising their voices.",
@@ -99,15 +279,6 @@ const newsData_en = [
     "time": "2026-07-25T07:14:05.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Cardi B’s children show off their Spanish skills",
-    "desc": "In a heartwarming display of family fun, Cardi B shared vacation clips from the Dominican Republic, where her children amazed fans with their fluent Spanish skills. Kulture and Wave engaged in lively conversations about the picturesque landscape, while little Blossom happily pointed at a goat. Meanwhile, the youngest son clung to Cardi B, seeking refuge from pesky mosquitoes.",
-    "img": "https://static.toiimg.com/photo/msid-132620987,imgsize-64674.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/cardi-bs-kids-show-off-their-spanish-talent-in-a-new-video-kulture-and-wave-flex-their-fluency-while-blossom-says-bonito/articleshow/132620954.cms",
-    "time": "2026-07-25T07:14:03.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Live through others after death by eye, skin, and body donation, says Ramannavar",
     "desc": "Secretary of Dr. Ramannavar Charitable Trust, Bailhonal Mahantesh B. Ramannavar has said that every person above the age of 18 years had the opportunity to pledge for eye donation, body donation and skin donation and live through others even after their death",
@@ -117,69 +288,6 @@ const newsData_en = [
     "time": "2026-07-25T07:06:18.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Jana Nayagan' box office collections day 3 (Live)",
-    "desc": "Thalapathy Vijay's 'Jana Nayagan' continues its strong theatrical run after a record opening. The film has garnered over Rs 65 crore net in India within three days. Worldwide gross collections for the movie have surpassed Rs 112 crore after two days. Day two saw a decline in collections after its massive opening day performance. Future weekend collections will determine the film's overall box office momentum.",
-    "img": "https://static.toiimg.com/photo/msid-132620820,imgsize-263643.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-box-office-collections-day-3-live-thalapathy-vijay-and-pooja-hegdes-film-adds-rs-1-94-crore-india-net-touches-rs-65-79-crore/articleshow/132620794.cms",
-    "time": "2026-07-25T07:01:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Suriya's 'Vishwanath And Sons' sees record pre-release business",
-    "desc": "Suriya's upcoming film 'Vishwanath And Sons' is generating significant pre-release buzz. The family drama has secured impressive theatrical rights for Tamil Nadu. This strong business reflects growing distributor confidence after 'Karuppu's success. The film requires approximately 110 crore rupees worldwide to break even. 'Vishwanath And Sons' is slated for an August 14th worldwide release.",
-    "img": "https://static.toiimg.com/photo/msid-132620754,imgsize-258380.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/karuppu-success-elevates-suriyas-market-vishwanath-and-sons-sees-record-pre-release-business-ahead-of-august-release/articleshow/132620734.cms",
-    "time": "2026-07-25T06:56:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘72 Hours' ending explained",
-    "desc": "In '72 Hours', Kevin Hart navigates the turbulent waters of a mid-life crisis during a wild bachelor getaway. As he confronts his past mistakes, he seeks forgiveness from his long-term girlfriend and boldly decides to leave his job to launch his own advertising agency. With a sprinkle of Gen-Z humor, the film imparts essential life lessons while director Tim Story and the cast shed light on its relatable themes.",
-    "img": "https://static.toiimg.com/photo/msid-132620732,imgsize-241812.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/72-hours-ending-explained-what-happens-after-kevin-hart-crashes-a-gen-z-bachelor-party/articleshow/132620702.cms",
-    "time": "2026-07-25T06:54:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Blade Runner 2099' unveils teaser at San Diego Comic-Con",
-    "desc": "A teaser for the live-action Blade Runner 2099 series debuted at San Diego Comic-Con. The new installment is set fifty years after the previous film's events. Hunter Schafer and Michelle Yeoh star as a fugitive and a Replicant. They must cooperate to track down a runaway hiding city-altering truths. The series begins streaming on Prime Video in November 2026.",
-    "img": "https://static.toiimg.com/photo/msid-132620570,imgsize-201551.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/blade-runner-2099-unveils-teaser-at-san-diego-comic-con-heres-all-you-need-to-know-about-futuristic-saga/articleshow/132620592.cms",
-    "time": "2026-07-25T06:43:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anumol says she's happy being independent and single",
-    "desc": "Malayalam actress Anumol expresses her current happiness and peace of mind while remaining single. She values her independence and enjoys her personal space, finding it difficult to share. Anumol previously experienced a relationship which did not work out as planned. Her perspective on marriage has evolved, now preferring a small, intimate celebration. The actress, known for her film roles, is content with her present life choices.",
-    "img": "https://static.toiimg.com/photo/msid-132620497,imgsize-50204.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/i-did-try-being-in-a-relationship-but-it-didnt-work-out-anumol-says-shes-happy-being-independent-and-single/articleshow/132620476.cms",
-    "time": "2026-07-25T06:36:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'System of a Down,' 'Faith No More' spark Australia tour buzz",
-    "desc": "Excitement is brewing in cities across Australia as hints of a new tour from both bands emerge. Melbourne and Sydney have showcased the iconic hand symbol of System of a Down on their murals. Meanwhile, Brisbane's skyline was illuminated with dazzling projections of the bands’ logos. This tour would be a monumental return for System of a Down after ten years, alongside Faith No More's first appearance in nine years.",
-    "img": "https://static.toiimg.com/photo/msid-132620470,imgsize-112158.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/system-of-a-down-and-faith-no-more-spark-australian-tour-speculation-with-symbols-spotted-across-cities/articleshow/132620388.cms",
-    "time": "2026-07-25T06:35:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Chris Anne Affleck and Jennifer Garner's eternal bond",
-    "desc": "Chris Anne Affleck and Jennifer Garner shared a close relationship for many years. They celebrated holidays and attended grandchildren's events together. Chris Anne supported Jennifer while Ben Affleck sought addiction treatment. Her final wish was to see her grandson Samuel's high school graduation. She passed away peacefully in her sleep on June 2, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-132620383,imgsize-256561.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ben-afflecks-mother-chris-anne-affleck-and-his-ex-wife-jennifer-garner-shared-an-eternal-bond-despite-the-couples-divorce/articleshow/132620200.cms",
-    "time": "2026-07-25T06:29:08.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Made the entire nation proud': PM Modi reacts as Jhandu wins India's first medal at CWG",
     "desc": "Jhandu Kumar secured India's first medal, a bronze, in para powerlifting. He achieved this by lifting 190kg in the heavyweight category. This victory marked India's initial medal at the Glasgow Games. Ashok finished fourth in the lightweight event, while Paramjeet Kumar placed seventh. Indian women also competed in their respective para powerlifting categories.",
@@ -187,15 +295,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/made-the-entire-nation-proud-pm-modi-reacts-as-jhandu-kumar-wins-indias-first-medal-at-commonwealth-games-2026/articleshow/132620123.cms",
     "time": "2026-07-25T06:18:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sanam Shetty SLAMS 'JOKER' tag for Vijay's 'Jana Nayagan' fans",
-    "desc": "Actress Sanam Shetty faced disruption at a NEET protest venue in Chennai. She later defended viewers of Vijay's film 'Jana Nayagan' against criticism. Shetty questioned why moviegoers were labeled as jokers by some attendees. She also referenced filmmaker Vetrimaaran while discussing freedom of expression. The incident fueled an ongoing online discussion about the protest and film appreciation.",
-    "img": "https://static.toiimg.com/photo/msid-132620087,imgsize-123752.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sanam-shetty-speaks-after-heated-exchange-at-neet-protest-venue-slams-joker-tag-for-vijays-jana-nayagan-fans/articleshow/132620079.cms",
-    "time": "2026-07-25T06:12:52.000Z"
   },
   {
     "cat": "Politics",
@@ -225,24 +324,6 @@ const newsData_en = [
     "time": "2026-07-25T05:44:50.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Shabana diagnosed with swine flu, advised complete bed rest by doctors",
-    "desc": "Shabana Azmi has been diagnosed with swine flu and 102-degree fever, forcing her to miss ongoing protests. She had been actively participating at Delhi's Jantar Mantar, sharing posts quoting Kaifi Azmi and demanding education reforms with increased GDP allocation. Her health deteriorated at one gathering, requiring emergency medical attention, though she continued supporting the cause.",
-    "img": "https://static.toiimg.com/photo/msid-132619682,imgsize-256945.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shabana-azmi-diagnosed-with-swine-flu-advised-complete-bed-rest-by-doctors/articleshow/132619682.cms",
-    "time": "2026-07-25T05:34:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "61-year-old Paulina Porizkova marries Jeff Greenstein",
-    "desc": "Supermodel Paulina Porizkova tied the knot with comedy writer Jeff Greenstein in a beautiful Italian ceremony on July 3. Their unexpected love story began with a swipe on a dating app, challenging Porizkova's feelings of invisibility as an older woman. After a playful proposal in the Czech Republic, where the engagement ring went temporarily missing, the couple celebrated their special day with 78 friends and family at a stunning venue.",
-    "img": "https://static.toiimg.com/photo/msid-132619501,imgsize-161982.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/61-year-old-paulina-porizkova-marries-jeff-greenstein-after-dating-app-romance-stuns-in-custom-couture-gown/articleshow/132619441.cms",
-    "time": "2026-07-25T05:28:50.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Bihar government appoints cricketers Akash Deep and Mukesh Kumar as DSPs",
     "desc": "Chief Minister Samrat Choudhary expressed confidence that in the coming years, athletes from Bihar would bring glory to the state and the country on prestigious platforms like the Olympics, Asian Games, Commonwealth Games, World Cups, and the IPL.",
@@ -250,15 +331,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/bihar/bihar-government-appoints-cricketers-akash-deep-and-mukesh-kumar-as-dsps/article71262195.ece",
     "time": "2026-07-25T05:25:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Lou Koller from Sick of It All passes away",
-    "desc": "Lou Koller, beloved frontman of Sick of It All, has sadly passed away at 59 after a courageous battle with cancer that began in early 2024. The band shared the news with a heavy heart, reflecting on how his unyielding spirit and passion fueled their journey. Koller's legacy will forever resonate in the music community, leaving an indelible impact on fans and peers alike.",
-    "img": "https://static.toiimg.com/photo/msid-132619504,imgsize-85732.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/sick-of-it-all-vocalist-lou-koller-passes-away-at-59-following-cancer-battle/articleshow/132619473.cms",
-    "time": "2026-07-25T05:22:29.000Z"
   },
   {
     "cat": "Sports",
@@ -279,22 +351,13 @@ const newsData_en = [
     "time": "2026-07-25T04:56:18.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ChatGPT said I had pellet injuries, Safdarjung Hospital backed it, says scribe with 30 wounds",
-    "desc": "“I had some idea that the injuries were caused by pellets. I took photos and consulted ChatGPT, which suggested that the injuries were likely caused by pellets. Then I went to the hospital, and the doctors confirmed it,” the journalist told The Hindu.",
-    "img": "https://th-i.thgim.com/public/incoming/tb4eo7/article71265234.ece/alternates/LANDSCAPE_1200/87_Cockroach_Janta_Party_Protest_20_07_Delhi.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Delhi/chatgpt-said-i-had-pellet-injuries-safdarjung-hospital-backed-it-says-scribe-with-30-wounds/article71263022.ece",
-    "time": "2026-07-25T04:39:40.000Z"
-  },
-  {
     "cat": "Entertainment",
-    "title": "Niecy Nash says Taylor Swift and Travis Kelce’s wedding ‘was a top secret’",
-    "desc": "Actress Niecy Nash shared delightful insights about her wedding, highlighting the event's magical atmosphere. She noted that guests enjoyed a uniquely immersive experience, complete with secured phones and engaging games. The couple took extraordinary precautions to keep the festivities confidential, ensuring that attendees felt both special and involved throughout the celebration.",
-    "img": "https://static.toiimg.com/photo/msid-132619008,imgsize-59578.cms",
+    "title": "How the hinterland became OTT’s hotspot",
+    "desc": "With the emergence of Indian OTT platforms, storytelling is no longer confined to urban settings. The pandemic has catalyzed a shift, allowing stories from small towns and villages to captivate a wider audience. Shows such as Panchayat and Mirzapur highlight this trend, with creators embracing different genres and regional dialects. As the focus remains on relatable characters and engaging narratives, viewers find deeper connections in these rich, authentic tales.",
+    "img": "https://static.toiimg.com/photo/msid-132618481,imgsize-239298.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/niecy-nash-says-taylor-swift-and-travis-kelces-wedding-was-a-top-secret-you-had-to-zip-the-lip/articleshow/132618863.cms",
-    "time": "2026-07-25T04:28:14.000Z"
+    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/life-beyond-the-metro-how-the-hinterland-became-otts-hotspot/articleshow/132618385.cms",
+    "time": "2026-07-25T04:42:17.000Z"
   },
   {
     "cat": "Politics",
@@ -313,33 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/gautam-gambhir-termed-foolish-after-ex-india-selectors-explosive-vaibhav-sooryavanshi-verdict/articleshow/132618706.cms",
     "time": "2026-07-25T04:15:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Reports",
-    "desc": "Sean Combs faced solitary confinement after a physical altercation with another inmate. The clash reportedly began with insults and escalated into a fight. Prison officials will investigate the incident and its potential consequences. This could affect Combs' good behavior credits and release date. He is currently serving a sentence for federal charges.",
-    "img": "https://static.toiimg.com/photo/msid-132618659,imgsize-88212.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sean-diddy-combs-in-solitary-confinement-after-violent-prison-clash-with-inmate-reports/articleshow/132618653.cms",
-    "time": "2026-07-25T04:08:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Ban use of pellet guns, electric shock batons by all police forces: disability rights outfits",
-    "desc": "The Progressive Medicos and Scientific Forum (PMSF) and groups under the National Platform for the Rights of the Disabled (NPRD) umbrella have also sought an independent judicial inquiry into the alleged used of such weapons against protesters on July 20 during the march to Parliament",
-    "img": "https://th-i.thgim.com/public/incoming/6xxz4o/article71262623.ece/alternates/LANDSCAPE_1200/20260720538L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/ban-use-of-pellet-guns-electric-shock-batons-by-all-police-forces-disability-rights-outfits/article71261965.ece",
-    "time": "2026-07-25T04:08:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Cracks deepen in AIADMK dissidents’ camp",
-    "desc": "Former Law Minister and leader of the rebel camp C.Ve. Shanmugam stays away from an official review meeting for Villupuram, while former Food Minister R. Kamaraj attends the event for Tiruvarur. Besides these districts, Edappadi K. Palaniswami takes stock of the party’s performance in Salem and Tiruvallur (south)",
-    "img": "https://th-i.thgim.com/public/incoming/frmzvr/article71262907.ece/alternates/LANDSCAPE_1200/2501_12_5_2026_10_6_0_1_DSC_9274.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/cracks-deepen-in-aiadmk-dissidents-camp/article71262780.ece",
-    "time": "2026-07-25T03:56:39.000Z"
   },
   {
     "cat": "Sports",
@@ -376,15 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-medal-table-where-does-india-stand-after-jhandu-kumars-bronze-on-day-2/articleshow/132617852.cms",
     "time": "2026-07-25T02:33:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Woken from sleep to witness Wangchuk end fast, says Ladakh leader",
-    "desc": "With Delhi University colleges reopening on July 28 and the weekend approaching, the government hastened channels of communication with the CJP team and Sonam Wangchuk to ensure that the protest is wound up before a major incident takes place",
-    "img": "https://th-i.thgim.com/public/incoming/a9qmqu/article71265133.ece/alternates/LANDSCAPE_1200/20260724237L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/woken-from-sleep-to-witness-wangchuk-end-fast-says-ladakh-leader/article71263103.ece",
-    "time": "2026-07-25T02:29:33.000Z"
   },
   {
     "cat": "Sports",
@@ -460,24 +487,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Argentina president breaks silence after 23 million sign petition demanding WC ban",
-    "desc": "Argentina's World Cup final controversy has escalated after the \"Argentina Out\" petition closed with more than 23.3 million verified signatures, narrowly missing a Guinness World Record. President Javier Milei hit back with defiant social media posts as FIFA continues investigating the post-match brawl, while a rival campaign demanding a replay of the final has also gathered widespread support.",
-    "img": "https://static.toiimg.com/photo/msid-132617047,imgsize-139546.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/argentina-president-javier-milei-breaks-silence-after-23-million-sign-petition-demanding-world-cup-ban/articleshow/132616233.cms",
-    "time": "2026-07-24T23:01:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Six cops injured as villagers clash with police in Chhattisgarh’s Surajpur coal mine protest",
-    "desc": "The villagers asserted that the police was accompanying a survey team for land acquisition for mining, a claim contested by a senior police officer. The situation, according to the village Sarpanch, escalated after the police attacked an elderly person",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/chhattisgarh/six-cops-injured-as-villagers-clash-with-police-in-chhattisgarhs-surajpur-coal-mine-protest/article71263582.ece",
-    "time": "2026-07-24T21:53:53.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Test cricket dictates to you what is necessary; if you push too hard, it will bite you: Mark Butcher",
     "desc": "The former England cricketer talks about how the Test format is greater than any idea anybody may have about how it should be played, why he compared Vaibhav Sooryavanshi with Garry Sobers and what went into the making of his epic 173 not out against Australia in 2001",
     "img": "https://th-i.thgim.com/public/incoming/2l88vm/article71263990.ece/alternates/LANDSCAPE_1200/GettyImages-2228293897.jpg",
@@ -493,15 +502,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/indian-seafarer-killed-in-attack-on-ship-in-black-sea/article71263875.ece",
     "time": "2026-07-24T19:13:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why IOC won't investigate Infantino over Trump's role in Balogun red-card row",
-    "desc": "The International Olympic Committee will not investigate FIFA president Gianni Infantino. This decision stems from a complaint regarding Folarin Balogun's World Cup suspension reversal. The IOC stated it lacks jurisdiction over FIFA's internal governance matters. Norway's Football Federation will consider filing its own ethics complaint against Infantino. FIFA has not yet commented on the ethics complaints or its decision.",
-    "img": "https://static.toiimg.com/photo/msid-132611667,imgsize-153746.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/why-ioc-wont-investigate-gianni-infantino-over-donald-trumps-role-in-folarin-balogun-red-card-controversy/articleshow/132611618.cms",
-    "time": "2026-07-24T17:44:17.000Z"
   },
   {
     "cat": "World",
@@ -529,15 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/us-stocks-today-wall-street-inches-higher-as-crude-calms-down-dow-jumps-over-330-points-nasdaq-trades-flat/articleshow/132609598.cms",
     "time": "2026-07-24T15:38:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I'll work with him': Joshi reveals plans to develop Sooryavanshi's bowling",
-    "desc": "India's bowling coach Sunil Joshi wants attention on Vaibhav Sooryavanshi's batting achievements. Sooryavanshi became the youngest player to score a T20I fifty against Zimbabwe. Joshi also advised patience with emerging all-rounder Suryansh Shedge. He highlighted the bowling depth within the Indian squad. Ravi Bishnoi's run-up adjustment has yielded positive results for the spinner.",
-    "img": "https://static.toiimg.com/photo/msid-132608464,imgsize-130268.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/ill-work-with-him-sunil-joshi-reveals-plans-to-develop-vaibhav-sooryavanshis-bowling/articleshow/132608457.cms",
-    "time": "2026-07-24T14:37:29.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/attack-on-titan-the-last-attack-movie-review-a-colossal-political-epitaph-for-the-children-of-war/article71253062.ece",
     "time": "2026-07-22T11:18:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "luminaries demand human ethics not be outsourced to AI",
+    "desc": "In mid-July, a group of Nobel laureates, AI scientists, religious leaders, and other luminaries signed the so-called ‘Rome Declaration for an Unarmed and Disarming Peace’. The Declaration calls for an international treaty to ban autonomous systems from accessing nuclear launches while emphasising that the threat is also not so far-fetched",
+    "img": "https://th-i.thgim.com/public/todays-paper/tp-miscellaneous/tp-others/hx40az/article69186170.ece/alternates/LANDSCAPE_1200/A-question-for-GAIDUVAL5.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/science/rome-declaration-convergent-perils-luminaries-human-ethics-outsourced-ai/article71252976.ece",
+    "time": "2026-07-22T10:39:09.000Z"
   }
 ];

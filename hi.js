@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Shreyas Iyer on the brink of history ahead of second T20I clash against Zimbabwe",
+    "desc": "India and Zimbabwe are all set to take on each other in the second T20I of the ongoing series. The two sides will meet at the Harare Sports Club on July 25, and the Men...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-on-the-brink-of-history-ahead-of-second-t20i-clash-against-zimbabwe-2026-07-25-1049383",
+    "time": "2026-07-25T09:34:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former Indian cricketer lays out difference between playing in the IPL and on foreign soil",
+    "desc": "The Indian team is all set to take on Zimbabwe in the second T20I of the ongoing three-game series. The two sides are slated to meet at the Harare Sports Club on July 25th for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-indian-cricketer-lays-out-difference-between-playing-in-the-ipl-and-on-foreign-soil-2026-07-25-1049378",
+    "time": "2026-07-25T08:48:16.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Kuldeep Yadav strengthens case for ODI comeback, performs brilliantly on Yorkshire debut with two wickets",
     "desc": "Star India spinner Kuldeep Yadav has continued his brilliant form and continues to strengthen his case for a comeback in India’s ODI squad ahead of the ODI World Cup 2027. The 31-year-old is currently representing...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/travis-head-denies-fallout-with-virat-kohli-after-ipl-drama-which-resulted-in-wife-s-abuse-2026-07-24-1049341",
     "time": "2026-07-24T17:23:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Afghanistan announce new ODI captain, reveal squad for three-match Ireland series",
-    "desc": "Rahmat Shah has been appointed as the new Afghanistan ODI captain after Hashmatullah Shahidi resigned from his position ahead of the five-match series against Ireland, starting August 5. Notably, the 33-year-old batter has served as...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/afghanistan-announce-new-odi-captain-reveals-squad-for-three-match-ireland-series-2026-07-24-1049335",
-    "time": "2026-07-24T15:20:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "5 underrated Badminton stars to keep an eye on at BWF World Championships 2026",
-    "desc": "The BWF World Championships have long been a stage where underdogs announce themselves to the world. Although the spotlight usually falls on the biggest names, every edition has produced unexpected breakthroughs from young challengers. With...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/5-underrated-badminton-stars-to-keep-an-eye-on-at-bwf-world-championships-2026-2026-07-24-1049321",
-    "time": "2026-07-24T13:12:53.000Z"
   }
 ];

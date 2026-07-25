@@ -1,5 +1,59 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "તું કદરુપી છો કહી દર્શન જરીવાલાએ છોડી દીધી અપરા મહેતાને, લેટેસ્ટ ઈંટરવ્યુએ જગાવી ચર્ચા",
+    "desc": "ગુજરાતી થિયેટરના જાણીતા કલાકાર અને ટીવી સીરીયલ, ગુજરાતી ફિલ્મોમાં પણ કામ કરી ચુકેલા અપરા મહેતા અને દર્શન જરીવાલાના સેપરેશનની સ્ટોરી હાલ ઈંટરનેટ પર ચર્ચાનો વિષય છે. અપરા મહેતાએ એક ઈંટરવ્યુમાં કરેલા ખુલાસા બાદ આ ચર્ચા જાગી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/darshan-jariwala-and-actress-apara-mehta-separation-story-apara-mehta-and-darshan-jariwala-love-marriage-485719 ",
+    "time": "2026-07-25T10:21:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ધર્મેન્દ્ર પ્રધાન: એક સમયે પેપરલીક વિરુદ્ધ કર્યું હતું પ્રદર્શન, આજે એના જ કારણે ધરવું પડ્યું રાજીનામું",
+    "desc": "નીટ પેપર લીકનો જે વિવાદ ધીરે ધીરે મોટું સ્વરૂપ ધારણ કરી રહ્યો હતો તેના પર હવે અંત આવવાના એંધાણ જોવા મળી રહ્યા છે. કારણ કે આખરે શિક્ષણમંત્રી ધર્મેન્દ્ર પ્રધાને રાજીનામું આપી દીધુ છે. પરંતુ શું તમને ખબર છે કે એક સમયે આ જ ધર્મેન્દ્ર પ્રધાને પેપરલીક મુદ્દે વિરોધ પ્રદર્શન કર્યુ હતું. આ ઉપરાંત આ પેપરલીકનો મુદ્દો કઈ રીતે ચિંગારીમાંથી આગ બન્યો એ પણ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/dharmendra-pradhan-once-he-protested-against-paper-leaks-now-he-resign-because-of-it-485717 ",
+    "time": "2026-07-25T10:10:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ધર્મેન્દ્ર પ્રધાનને કેટલો મળતો હતો પગાર ? જાણો શિક્ષણ મંત્રીને કઈ કઈ સુવિધાઓ મળે છે",
+    "desc": "કેન્દ્રીય શિક્ષણ મંત્રી ધર્મેન્દ્ર પ્રધાને આખરે રાજીનામું આપવાની જાહેરાત કરી છે. NEET પેપર લીક મુદ્દે વિદ્યાર્થીઓના વિરોધ પ્રદર્શન વચ્ચે શિક્ષણ મંત્રીએ મોટો નિર્ણય લીધો છે, ત્યારે તેમને કેટલો પગાર મળતો હતો અને અન્ય કઈ કઈ સુવિધાઓ મળતી હતી તેના પર એક નજર કરીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/how-much-salary-did-dharmendra-pradhan-get-know-what-facilities-education-minister-gets-485716 ",
+    "time": "2026-07-25T10:00:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કોણ છે ધર્મેન્દ્ર પ્રધાન? ક્યારે કર્યો હતો રાજકારણમાં પ્રવેશ? આંદોલન બાદ કેમ આપવું પડ્યું મંત્રી પદ પરથી રાજીનામું",
+    "desc": "આજે એટલે કે 25 જુલાઈ 2026ના રોજ ધર્મેન્દ્ર પ્રધાને કેન્દ્ર સરકારમાં શિક્ષણ મંત્રીના પદ પરથી રાજીનામું આપી દીધું છે. ભારતીય જનતા પાર્ટી (BJP)ના વરિષ્ઠ નેતા ધર્મેન્દ્ર પ્રધાન સામે NEET-UG જેવી પરીક્ષાઓમાં ગોલમાલ અને પેપર લીકના આરોપોને કારણે દેશભરના વિદ્યાર્થીઓ દ્વારા તેમને હટાવવાની માંગ ઉઠવા લાગી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/who-is-dharmendra-pradhan-students-were-upset-over-the-neet-paper-leak-he-had-to-resign-from-his-ministerial-post-following-protests-485714 ",
+    "time": "2026-07-25T09:46:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "શ્રેયસ ઐયર સહિત આ 8 ખેલાડી નહીં રમે ODI સિરીઝ, BCCIને ઉતારવી પડશે નવી ટીમ, જાણો શું છે કારણ",
+    "desc": "ભારતીય ટીમને સપ્ટેમ્બર-ઓક્ટોબરમાં એક મોટી મુશ્કેલીનો સામનો કરવો પડી શકે છે. એશિયન ગેમ્સ 2026 અને વેસ્ટ ઇન્ડીઝ સામેની ODI શ્રેણીની તારીખો એક સાથે આવતી હોવાથી ટીમ ઇન્ડિયાના 8 મુખ્ય ખેલાડીઓ ODI શ્રેણીમાં રમી શકશે નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/these-8-players-including-shreyas-iyer-will-not-play-in-the-odi-series-vs-west-indies-485712 ",
+    "time": "2026-07-25T09:25:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "રોહિત શર્માના સંન્યાસથી લઈને ગૌતમ ગંભીરની હકાલપટ્ટી સુધી... BCCIએ આપ્યા મોટા નિવેદનો!",
+    "desc": "ઇંગ્લેન્ડ પ્રવાસ દરમિયાન, એવી અફવાઓ હતી કે રોહિત શર્મા નિવૃત્તિ લઈ શકે છે. જો કે, તેણે અંતિમ ODIમાં સદી ફટકારીને તેના ટીકાકારોને ચૂપ કરી દીધા. યુકે પ્રવાસ પછી ગૌતમ ગંભીરના રાજીનામાની પણ ચર્ચા થઈ રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/from-rohit-sharma-retirement-to-gautam-gambhir-dismissal-bcci-made-big-statements-485707 ",
+    "time": "2026-07-25T08:33:35.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "જંતર-મંતર હિંસા પર મોટો ખુલાસો! FRSથી 2500 ઉપદ્રવીઓ ઓળખાયા, કાવતરાનો થયો પર્દાફાશ",
     "desc": "દિલ્હીના જંતર મંતર પર કોકરોચ જનતા પાર્ટીના આંદોલન અંગે એક અત્યંત ચોંકાવનારો અને ભયાનક ખુલાસો થયો છે. દિલ્હી પોલીસના ફેશિયલ રેક્ગનાઈઝેશન સિસ્ટમ (FRS)ની તપાસમાં સામે આવ્યું છે કે પ્રદર્શનકારીઓની ભીડમાં 2500થી વધુ અપરાધિક બેકગ્રાઉન્ડવાળા લોકો ઘૂસી ચૂક્યા છે જે આંદોલનની આડમાં કાયદા વ્યવસ્થાને સંપૂર્ણ રીતે ધ્વસ્ત કરવાનું ષડયંત્ર રચી રહ્યા છે.",
@@ -97,33 +151,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/5-to-10-years-in-jail-1-crore-fine-strict-anti-paper-leak-law-amendments-on-the-anvil-485591 ",
     "time": "2026-07-24T05:54:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "સરકારે માની 3 મુખ્ય માંગ, ભૂખ હડતાળ તોડ્યા બાદ સોનમ વાંગચુકનો બીજો વીડિયો વાયરલ",
-    "desc": "સામાજિક કાર્યકર સોનમ વાંગચુકે 26 દિવસ બાદ પોતાની ભૂખ હડતાળ તોડી. તેમણે કહ્યું કે સરકાર અને વિવિધ રાજકીય પક્ષોના સાંસદો તરફથી મળેલા લેખિત આશ્વાસન બાદ તેમણે આ નિર્ણય લીધો. સરકારે સંસદમાં પરીક્ષા સુધાર પર ચર્ચા, શાંતિપૂર્ણ પ્રદર્શનકારીઓ પર કેદ નહીં નોંધવા અને નીટ પેપરલીકને પગલે આત્મહત્યા કરનારા પીડિત પરિવારનો વળતર પર સકારાત્મક ભરોસો આપ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/cjp-protest-which-demands-government-accept-sonam-wangchuk-video-goes-viral-485581 ",
-    "time": "2026-07-24T04:13:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "સરકારે આજે CJP સાથે કરશે બેઠક, PM મોદીનું એલાન સરકાર 3 દિવસમાં પેપર લીકને લઈને કડક બિલ લાવશે",
-    "desc": "સામાજિક કાર્યકર્તા સોનમ વાંગચૂકે 26 માં દિવસે તેની ભૂખ હડતાલ પુરી કરી છે. સરકાર તરફથી લેખિતમાં આશ્વાસન મળ્યા બાદ તેમણે ભૂખ હડતાલ છોડી છે. આ સાથે જ જંતર મંતર પર ચાલતા પ્રદર્શન મામલે પણ સામે આવ્યું છે કે શુક્રવારે સીજેપીનું ડેલિગેશન સરકારને મળવા જશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/jantar-mantar-protest-update-after-sonam-wangchuk-end-hunger-strike-cjp-delegation-will-meet-government-485572 ",
-    "time": "2026-07-24T02:54:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "પેપર લીક રોકવા સંસદમાં બિલ લાવશે કેન્દ્ર સરકાર, PM મોદીએ વીડિયો સંદેશો જાહેર કરીને આપી ખાતરી",
-    "desc": "નીટ (NEET) પેપર લીકને લઈને વડાપ્રધાન નરેન્દ્ર મોદીએ 23 જુલાઈની મોડી રાત્રે વિદ્યાર્થીઓના નામે વીડિયો સંદેશ જાહેર કર્યો છે. જેમાં પીએમ મોદીએ કહ્યું કે, 24 જુલાઈના રોજ યોજાનારી કેબિનેટ બેઠકમાં પેપર લીક વિરુદ્ધ વધુ કડક પગલાં લેવામાં આવશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/central-government-will-bring-a-bill-in-parliament-to-stop-paper-leaks-pm-modi-assured-by-releasing-a-video-message-485569 ",
-    "time": "2026-07-23T18:57:15.000Z"
   },
   {
     "cat": "Sports",
@@ -369,15 +396,6 @@ const newsData_gu = [
     "time": "2026-07-20T03:44:18.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "જે રેફરીની &amp;#039;સેક્સ પાર્ટી&amp;#039; રેડમાં થઈ હતી ધરપકડ, તેમના જ ખભે હતી ફૂટબોલ વર્લ્ડ કપની ફાઇનલ! જાણો સમગ્ર મામલો",
-    "desc": "ન્યુ જર્સીના મેટલાઇફ સ્ટેડિયમમાં લિયોનેલ મેસ્સી અને લેમિન યામલ જેવા સ્ટાર્સ મેદાનમાં હતા, વિન્સીક પણ એટલી જ મહત્વપૂર્ણ જવાબદારી નિભાવે છે. વિન્સીકની પણ ઇચ્છે હતી કે સૌથી મોટી ફૂટબોલ મેચ ફક્ત ખેલાડીઓના પ્રદર્શન દ્વારા નક્કી થાય, કોઈ વિવાદ દ્વારા નહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/the-referee-who-was-arrested-in-the-police-raid-was-big-responsibility-for-the-football-world-cup-final-know-the-entire-matter-485200 ",
-    "time": "2026-07-20T02:25:36.000Z"
-  },
-  {
     "cat": "World",
     "title": "ઈમરાન ખાનની બહેનના ખુલાસાથી પાકિસ્તાનમાં રાજકીય ભૂકંપ, PAK સેનાની ખોલી પોલ",
     "desc": "પૂર્વ પ્રધાનમંત્રી ઈમરાન ખાનની બહેન નૌરીન નિયાઝીએ આપેલા નિવેદનથી પાકિસ્તાનમાં વિવાદ ઉભો થયો છે. એક ઇન્ટરવ્યુમાં નિયાઝીએ દાવો કર્યો હતો કે, મે 2025માં ભારતના ઓપરેશન સિંદૂર સામે પાકિસ્તાની સેના સંપૂર્ણપણે બેકફૂટ પર આવી ગઈ હતી.",
@@ -448,15 +466,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/priyanka-chopra-44-birthday-first-look-of-mandakini-of-varanasi-movie-look-released-485019 ",
     "time": "2026-07-18T08:42:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "સલમાન પછી આમિર ખાન બિશ્નોઈ ગેંગના નિશાન પર ? સોશિયલ મીડિયા પર વાયરલ થઈ ધમકી ભરી પોસ્ટ",
-    "desc": "આમિર ખાનને બિશ્નોઈ ગેંગ તરફથી ધમકી મળી હોવાની ચર્ચા તેજ થઈ છે. સોશિયલ મીડિયા પર આ મામલે બિશ્નોઈ ગેંગના નામથી એક પોસ્ટ વાયરલ થઈ છે જેમાં આમિર ખાનને ગેંગ તરફથી ધમકી આપવામાં આવી છે. શું છે આ મામલો જાણો વિસ્તારપૂર્વક.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/after-salman-khan-aamir-khan-got-threat-from-bishnoi-gang-a-post-viral-on-social-media-485004 ",
-    "time": "2026-07-18T08:05:08.000Z"
   },
   {
     "cat": "Entertainment",
