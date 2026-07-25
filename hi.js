@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India's historic gold medal in Rowing World Cup to be stripped after Lakshay found positive for doping",
+    "desc": "India's historic first gold medal at the Rowing World Cup is set to be removed from the record books after one member of the winning crew returned a positive doping test. Lakshay, who partnered Ujjwal...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/india-s-historic-gold-medal-in-rowing-world-cup-to-be-stripped-after-lakshay-found-positive-for-doping-2026-07-25-1049414",
+    "time": "2026-07-25T15:11:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ishan Kishan, Tilak Varma dominate Zimbabwe in second T20I; India seal series in Harare",
+    "desc": "Despite many of the first-team members being rested, India had no difficulty in dealing with Zimbabwe, who arrived for the three-match series with an ODI and a one-off Test win against Bangladesh. In the second...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-tilak-varma-dominate-zimbabwe-in-second-t20i-india-seal-series-in-harare-2026-07-25-1049409",
+    "time": "2026-07-25T14:27:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sahal Abdul Samad strikes as Mohun Bagan beat East Bengal in Durand Cup opener",
+    "desc": "Mohun Bagan began their Durand Cup campaign with a hard-fought 1-0 victory over arch-rival East Bengal at the Salt Lake Stadium. Sahal Abdul Samad struck the decisive goal early in the second half at the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/sahal-abdul-samad-strikes-as-mohun-bagan-beat-east-bengal-in-durand-cup-opener-watch-2026-07-25-1049406",
+    "time": "2026-07-25T13:57:08.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Vini Jr's Brazil coming to India for a friendly match? Everything you need to know",
     "desc": "Brazil are set to return to international action with a three-match programme during the first FIFA international window following the 2026 FIFA World Cup. One of those fixtures could take place in India if ongoing...",
     "img": "",
@@ -19,7 +46,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Zimbabwe's chase begins after India posted 219 runs in first innings",
+    "title": "India beat Zimbabwe by 90 runs to seal T20I seies",
     "desc": "India play Zimbabwe in the second T20I of the three-match series on Saturday, July 25 at the Harare Sports Club. Shreyas Iyer’s side enters the contest with a 1-0 lead after a comprehensive seven-wicket victory...",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/kris-srikkanth-backs-the-inclusion-of-veteran-all-rounder-in-india-s-odi-squad-2026-07-25-1049368",
     "time": "2026-07-25T06:23:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India's stand-in bowling coach reveals plans around Vaibhav Sooryavanshi ahead of second Zimbabwe clash",
-    "desc": "The Indian team is all set to take on Zimbabwe in the second T20I of the ongoing series. The two sides will meet at the Harare Sports Club on July 25th, and both sides will...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-s-stand-in-bowling-coach-reveals-plans-around-vaibhav-sooryavanshi-ahead-of-second-zimbabwe-clash-2026-07-25-1049365",
-    "time": "2026-07-25T05:30:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan batter ruled out of West Indies and England Tests due to lower back injury",
-    "desc": "In a major blow to Pakistan Cricket, with the side all set to take on the West Indies in a two-game Test series, the side’s star batter Abdullah Fazal has been ruled out of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-batter-ruled-out-of-west-indies-and-england-tests-due-to-lower-back-injury-2026-07-25-1049361",
-    "time": "2026-07-25T04:08:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jhandu Kumar secures India's first medal at Commonwealth Games 2026, wins bronze in para powerlifting",
-    "desc": "The Indian contingent has secured its first medal at the ongoing Commonwealth Games 2026. Jhandu Kumar secured India’s first medal as he finished in third place in the para powerlifting event. He clinched bronze in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/jhandu-kumar-secures-india-s-first-medal-at-commonwealth-games-2026-wins-bronze-in-para-powerlifting-2026-07-25-1049355",
-    "time": "2026-07-25T02:44:13.000Z"
   }
 ];

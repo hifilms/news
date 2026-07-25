@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "ধর্মেন্দ্র প্রধানের পদত্যাগের পর মোদীর প্রথম বড় বার্তা: কী লিখলেন প্রধানমন্ত্রী? বিরাট খবর",
+    "desc": "নিজের পোস্টে প্রধানমন্ত্রী লেখেন, 'বিশ্বের সাংস্কৃতিক মানচিত্রে ভারতের সমৃদ্ধ ইতিহাস ও ঐতিহ্য আজ আরও একধাপ এগিয়ে গেল। বারাণসীর ঐতিহাসিক সারনাথ ইউনেস্কোর বিশেষ স্বীকৃতি পাওয়ায় প্রতিটি ভারতীয় আজ গর্বিত। ভগবান বুদ্ধের প্রথম ধর্মোপদেশের এই পুণ্যভূমি সারনাথ মানব সভ্যতার শান্তি ও অহিংসার এক অবিনশ্বর প্রতীক।'",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/pm-modi-breaks-silence-on-x-after-dharmendra-pradhan-resignation-celebrates-unesco-honour-for-sarnath_664007.html ",
+    "time": "2026-07-25T15:01:55.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "'ঘুম হত না, খাওয়া ছেড়েছিলাম...কিন্তু আজ গর্বিত!' শিক্ষামন্ত্রীর ইস্তফায় আবেগপ্লুত দীপকের মা",
     "desc": "নিট বিতর্কে শিক্ষামন্ত্রীর ইস্তফার পর আবেগপ্লুত সিজেপি প্রধান অভিজিৎ দীপকের মা অনিতা দীপক। তিনি জানান, পুলিসের লাঠিচার্জ ও উদ্বেগে গত পাঁচ সপ্তাহ ঠিকমতো খাওয়া-ঘুম ত্যাগ করেছিলেন। তবে এত কম বয়সে ছেলে এই আন্দোলন সফল করে লক্ষ্য পূরণ করায় তিনি আজ একজন মা হিসেবে অত্যন্ত আনন্দিত ও গর্বিত।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -52,24 +61,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/maharashtra-tet-paper-leak-mastermind-bijendra-gupta-arrested-in-bihar_663918.html ",
     "time": "2026-07-25T06:31:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'থ্যাঙ্ক ইউ ফ্রেন্ডস...'! মধ্যরাতে জেন জি-দের উদ্দেশ্যে মোদীর এক রিলে চুরমার বিশ্বরেকর্ড",
-    "desc": "জেন-জিদের ধন্যবাদ জানিয়ে একটি নতুন ভিডিয়ো পোস্ট করেন প্রধানমন্ত্রী। 'ধন্যবাদ বন্ধুরা' দিয়ে শুরু করা সেই ভিডিয়োতে তিনি যুবসমাজের গঠনমূলক পরামর্শ ও ভালোবাসার জন্য কৃতজ্ঞতা জানান। ক্যাপশনে তিনি লেখেন, 'আপনাদের এই ভালোবাসা অটুট থাকবে এবং আমাদের মনের টান আগামীতে আরও মজবুত হবে।'",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/pm-modi-breaks-world-record-with-303m-views-on-instagram-reel-amid-student-protests_663901.html ",
-    "time": "2026-07-25T03:10:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "৪৭ দিন বাদে মুখ খুলে এবার ঝড় থামাতে ৪৭ জনের চাকরি খেতে চলেছেন মোদী, বিক্ষোভের বিরাট আপডেট",
-    "desc": "এই চরম প্রশাসনিক সংকটের সমাধানের লক্ষ্যেই কেন্দ্রীয় শিক্ষামন্ত্রক এবং প্রধানমন্ত্রীর দফতর (PMO)-এর নির্দেশে এনটিএ-এর অভ্যন্তরীণ কর্মকাণ্ড নিয়ে পুনর্বিবেচনা শুরু হয়। ঘটনার তদন্তে এই সংস্থার শীর্ষ পর্যায়ের ব্যর্থতা সামনে আসার পরই এই ব্যাপক ছাঁটাই ও আধিকারিকদের বদলির সিদ্ধান্ত চূড়ান্ত করা হয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/government-plans-major-nta-overhaul-47-officials-to-be-removed-following-neet-paper-leak-row_663849.html ",
-    "time": "2026-07-24T15:00:20.000Z"
   },
   {
     "cat": "Entertainment",
