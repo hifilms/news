@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India's stand-in bowling coach reveals plans around Vaibhav Sooryavanshi ahead of second Zimbabwe clash",
+    "desc": "The Indian team is all set to take on Zimbabwe in the second T20I of the ongoing series. The two sides will meet at the Harare Sports Club on July 25th, and both sides will...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-s-stand-in-bowling-coach-reveals-plans-around-vaibhav-sooryavanshi-ahead-of-second-zimbabwe-clash-2026-07-25-1049365",
+    "time": "2026-07-25T05:30:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan batter ruled out of West Indies and England Tests due to lower back injury",
+    "desc": "In a major blow to Pakistan Cricket, with the side all set to take on the West Indies in a two-game Test series, the side’s star batter Abdullah Fazal has been ruled out of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-batter-ruled-out-of-west-indies-and-england-tests-due-to-lower-back-injury-2026-07-25-1049361",
+    "time": "2026-07-25T04:08:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jhandu Kumar secures India's first medal at Commonwealth Games 2026, wins bronze in para powerlifting",
+    "desc": "The Indian contingent has secured its first medal at the ongoing Commonwealth Games 2026. Jhandu Kumar secured India’s first medal as he finished in third place in the para powerlifting event. He clinched bronze in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/jhandu-kumar-secures-india-s-first-medal-at-commonwealth-games-2026-wins-bronze-in-para-powerlifting-2026-07-25-1049355",
+    "time": "2026-07-25T02:44:13.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India vs Zimbabwe 2nd T20I Pitch Report, how will surface in Harare play?",
     "desc": "The stage is set for the 2nd T20I of the ongoing series between India and Zimbabwe. The two sides are slated to meet at the Harare Sports Club on July 25, and both teams will...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/joe-root-set-to-become-england-captain-again-after-ben-stokes-retirement-why-not-harry-brook-2026-07-24-1049310",
     "time": "2026-07-24T12:10:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jurgen Klopp threatens to quit Germany head coach role on day 1 of appointment, check what happened",
-    "desc": "After a disappointing FIFA World Cup 2026, Germany appointed Jurgen Klopp as the new head coach. The former Liverpool boss has been handed a four-year contract after Julian Nagelsmann's resignation following Germany's shocking exit to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/jurgen-klopp-threatens-to-quit-germany-head-coach-role-on-day-1-of-appointment-check-what-happened-2026-07-24-1049305",
-    "time": "2026-07-24T11:37:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Another Indian athlete ruled out of Commonwealth Games after NADA suspends for whereabouts failure",
-    "desc": "Olympian Tulika Maan has been withdrawn from India's Commonwealth Games squad after being provisionally suspended by the National Anti-Doping Agency (NADA). The 2022 Commonwealth Games silver medallist will miss the Glasgow Games after allegedly committing...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/another-indian-athlete-ruled-out-of-commonwealth-games-after-nada-suspends-for-whereabouts-failure-2026-07-24-1049291",
-    "time": "2026-07-24T10:26:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "I'll not give my full effort in the Commonwealth Games, my focus is the Asian Games: Mirabai Chanu",
-    "desc": "India’s premier weightlifter Mirabai Chanu has confirmed that she will adopt a measured approach at the 2026 Commonwealth Games. She chose to protect her fitness ahead of a bigger target later this year, which is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/i-ll-not-give-my-full-effort-in-the-commonwealth-games-my-focus-is-the-asian-games-mirabai-chanu-2026-07-24-1049289",
-    "time": "2026-07-24T10:10:16.000Z"
   }
 ];

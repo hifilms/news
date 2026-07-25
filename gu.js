@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "મુસાફિર કૈફેથી લઈ 72 Hours ફિલ્મ ઓટીટી પર રિલીઝ, લિસ્ટ જોઈ નક્કી કરી લો આ વીકેન્ડમાં શું જોવું છે તમારે",
+    "desc": "વીકેન્ડ આવી ગયું છે અને સાથે જ ઓટીટી પર રિલીઝ થયેલી નવી ફિલ્મો અને વેબ સીરીઝનું લીસ્ટ પણ આવી ગયું છે. તો ફટાફટ જાણી લો આ વીકેન્ડમાં ઓટીટી પર નવું શું છે અને સાથે જ કે તમે શું જોવાના છો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/25-july-weekend-new-ott-release-adarsh-baal-vidyalaya-musafir-cafe-on-ott-485679 ",
+    "time": "2026-07-25T05:15:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "પેપર લીક કેસમાં પોલીસને મળી મોટી સફળતા, બિહારથી ઝડપાયો માસ્ટરમાઇન્ડ બિજેન્દ્ર ગુપ્તા",
+    "desc": "હાલ પેપર લીક મુદ્દે વિદ્યાર્થીઓનો જે આક્રોશ જોવા મળી રહ્યો છે તે વચ્ચે પોલીસને મહારાષ્ટ્ર TET (Teacher Eligibility Test) પેપર લીક મામલે એક મોટી સફળતા મળી છે. લાંબા સમયથી ફરાર કથિત પેપરલીક માફિયા બિજેન્દ્ર ગુપ્તાને ભીવંડી પોલીસે બિહારથી દબોચ્યો છે. તેની સાથે એક અન્ય આરોપી પણ પકડાયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/big-breaking-main-accused-of-maharashtra-tet-paper-leak-bijendra-kumar-gupta-arrested-485677 ",
+    "time": "2026-07-25T04:34:25.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "‘અમારો સમય બરબાદ ન કરો…’, CJP વિરોધ પ્રદર્શન અંગેની ટીપ્પણી પર CJI સૂર્યકાંતે કરી સ્પષ્ટતા",
     "desc": "જંતર-મંતર પર થયેલા વિરોધ પ્રદર્શનોમાં હિંસા પર 'વીડિયો જોવાનો સમય નથી' તેવી ટીપ્પણી પર CJI સૂર્યકાંતે સ્પષ્ટતા કરી છે. મુખ્ય ન્યાયાધીશે કહ્યું કે, તેમની વાતને ખોટી રીતે રજૂ કરવામાં આવી અને સુપ્રીમ કોર્ટ સુનાવણી કરવાનો ક્યારેય ઇનકાર કરતી નથી. જો કે, કોર્ટમાં અરજી દાખલ કરવાની નક્કી કરવામાં આવેલી પ્રક્રિયાનું પાલન કરવું અત્યંત જરૂરી છે.",
@@ -115,15 +133,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/ind-vs-zim-shreyas-iyer-creates-history-breaks-ms-dhoni-14-year-old-record-to-become-india-number-1-captain-485536 ",
     "time": "2026-07-23T13:16:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CJPએ ફૂંક્યું આંદોલનનું રણશિંગુ, જંતર-મંતર બાદ હવે દેશભરમાં પ્રદર્શનની કરી જાહેરાત; જાણો",
-    "desc": "જંતર-મંતર પર ચાલી રહેલા વિદ્યાર્થી આંદોલન વચ્ચે અભિજીત દીપકેની CJPએ હુંકાર ભરી છે. તેમણે વિદ્યાર્થીઓને આખા દેશમાં આંદોલન કરવા માટે કહ્યું છે. આ આંદોલન કાલે એટલે કે શુક્રવારે બોલાવવામાં આવ્યું છે. કોકરોચ જનતા પાર્ટી શુક્રવારે દેશભરમાં પ્રદર્શન કરશે. પાર્ટી તરફથી કહેવામાં આવ્યું છે કે, આ પ્રદર્શન દેશના તમામ રાજ્યો અને તેમના જિલ્લાઓમાં થશે. CJPએ આ માટે લોકોને ખાસ અપીલ કરવાનું શરૂ કર્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/cjp-blows-the-trumpet-of-the-movement-after-jantar-mantar-now-announces-nationwide-protests-485535 ",
-    "time": "2026-07-23T12:45:35.000Z"
   },
   {
     "cat": "Entertainment",
@@ -475,15 +484,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/attack-on-iran-chabahar-port-damage-in-us-strikes-maritime-tower-destroyed-484927 ",
     "time": "2026-07-17T10:00:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ગોવિંદાની ફિલ્મ રુપાનું નામ આવતાં ભડકી સુનિતા આહુજા, ગોવિંદાનું નામ લેવાનું પણ ટાળ્યું",
-    "desc": "જે રીતે રુપા ફિલ્મના લોન્ચ સમયે ગોવિંદાએ સુનિતાનું નામ લેવાનું ટાળ્યું અને કહ્યું કે બસ રુપા ફિલ્મની જ વાત કરો મારા પૈસા લાગ્યા છે. તે ભાષામાં જ સુનિતા આહુજાએ ગોવિંદાને જવાબ આપ્યો છે. અને સુનિતા આહુજાએ કહ્યું છે કે રુપા ફિલ્મને છોડો તેની ફિલ્મની જ વાત કરો કારણ કે એકતા કપૂરના પૈસા લાગ્યા છે ફિલ્મમાં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/govinda-and-sunita-ahuja-family-dispute-know-what-sunita-ahuja-said-for-govinda-film-roopa-484913 ",
-    "time": "2026-07-17T06:49:19.000Z"
   },
   {
     "cat": "World",

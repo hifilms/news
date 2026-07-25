@@ -1,6 +1,222 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "61-year-old Paulina Porizkova marries Jeff Greenstein",
+    "desc": "Supermodel Paulina Porizkova tied the knot with comedy writer Jeff Greenstein in a beautiful Italian ceremony on July 3. Their unexpected love story began with a swipe on a dating app, challenging Porizkova's feelings of invisibility as an older woman. After a playful proposal in the Czech Republic, where the engagement ring went temporarily missing, the couple celebrated their special day with 78 friends and family at a stunning venue.",
+    "img": "https://static.toiimg.com/photo/msid-132619501,imgsize-161982.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/61-year-old-paulina-porizkova-marries-jeff-greenstein-after-dating-app-romance-stuns-in-custom-couture-gown/articleshow/132619441.cms",
+    "time": "2026-07-25T05:28:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bihar government appoints cricketers Akash Deep and Mukesh Kumar as DSPs",
+    "desc": "Chief Minister Samrat Choudhary expressed confidence that in the coming years, athletes from Bihar would bring glory to the state and the country on prestigious platforms like the Olympics, Asian Games, Commonwealth Games, World Cups, and the IPL.",
+    "img": "https://th-i.thgim.com/public/hindi/editorial/hwkabs/article71265291.ece/alternates/LANDSCAPE_1200/HN_BFuibYAABlfw.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/bihar-government-appoints-cricketers-akash-deep-and-mukesh-kumar-as-dsps/article71262195.ece",
+    "time": "2026-07-25T05:25:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lou Koller from Sick of It All passes away",
+    "desc": "Lou Koller, beloved frontman of Sick of It All, has sadly passed away at 59 after a courageous battle with cancer that began in early 2024. The band shared the news with a heavy heart, reflecting on how his unyielding spirit and passion fueled their journey. Koller's legacy will forever resonate in the music community, leaving an indelible impact on fans and peers alike.",
+    "img": "https://static.toiimg.com/photo/msid-132619504,imgsize-85732.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/sick-of-it-all-vocalist-lou-koller-passes-away-at-59-following-cancer-battle/articleshow/132619473.cms",
+    "time": "2026-07-25T05:22:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'No question of retirement': BCCI rubbishes speculation over Rohit Sharma's future",
+    "desc": "BCCI vice-president Rajeev Shukla has dismissed rumors regarding Rohit Sharma's retirement. He stated there is no question of the Indian opener retiring at this stage. Sharma himself has expressed his desire to continue playing for India. He aims to secure a place in the 2027 ODI World Cup squad. Shukla also defended the current leadership group against calls for changes.",
+    "img": "https://static.toiimg.com/photo/msid-132619426,imgsize-146936.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/no-question-of-retirement-bcci-rubbishes-speculation-over-rohit-sharmas-future/articleshow/132619250.cms",
+    "time": "2026-07-25T05:14:14.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Will Trump’s bunker buster bombs punch through Iran’s Pickaxe Mountain?",
+    "desc": "The U.S. faces a complex challenge at Iran’s Pickaxe Mountain, where powerful bunker buster bombs face hardy geological formations. Success is also limited by a critical minerals crunch, and could force Trump to shift from total destruction to disabling surface infrastructure and subterranean access tunnels",
+    "img": "https://th-i.thgim.com/public/sci-tech/science/xmonen/article71256191.ece/alternates/LANDSCAPE_1200/Screenshot%202026-07-23%20at%207.19.17%E2%80%AFAM.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/science/trump-bunker-buster-bombs-punch-through-iran-pickaxe-mountain-centrifuges/article71256189.ece",
+    "time": "2026-07-25T04:56:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ChatGPT said I had pellet injuries, Safdarjung Hospital backed it, says scribe with 30 wounds",
+    "desc": "“I had some idea that the injuries were caused by pellets. I took photos and consulted ChatGPT, which suggested that the injuries were likely caused by pellets. Then I went to the hospital, and the doctors confirmed it,” the journalist told The Hindu.",
+    "img": "https://th-i.thgim.com/public/incoming/tb4eo7/article71265234.ece/alternates/LANDSCAPE_1200/87_Cockroach_Janta_Party_Protest_20_07_Delhi.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/chatgpt-said-i-had-pellet-injuries-safdarjung-hospital-backed-it-says-scribe-with-30-wounds/article71263022.ece",
+    "time": "2026-07-25T04:39:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Niecy Nash says Taylor Swift and Travis Kelce’s wedding ‘was a top secret’",
+    "desc": "Actress Niecy Nash shared delightful insights about her wedding, highlighting the event's magical atmosphere. She noted that guests enjoyed a uniquely immersive experience, complete with secured phones and engaging games. The couple took extraordinary precautions to keep the festivities confidential, ensuring that attendees felt both special and involved throughout the celebration.",
+    "img": "https://static.toiimg.com/photo/msid-132619008,imgsize-59578.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/niecy-nash-says-taylor-swift-and-travis-kelces-wedding-was-a-top-secret-you-had-to-zip-the-lip/articleshow/132618863.cms",
+    "time": "2026-07-25T04:28:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Metro, internet shut",
+    "desc": "Rahul Gandhi criticized the Modi government's actions against students protesting the NEET paper leak. He alleged the government imposed cruel restrictions to suppress the student movement. Restrictions included shutting down metro, roads, internet, and food supplies. Rahul compared the government's treatment of students to British tyranny. He stated the government could not shut down paper leaks despite its actions.",
+    "img": "https://static.toiimg.com/photo/msid-132618852,imgsize-524983.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/metro-internet-shut-but-not-paper-leaks-rahul-slams-centre-over-neet-protest-curbs/articleshow/132618815.cms",
+    "time": "2026-07-25T04:23:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gambhir termed 'foolish' after ex-India selector's Sooryavanshi verdict",
+    "desc": "Vaibhav Sooryavanshi achieved a significant milestone by scoring a T20I half-century. He became the youngest player ever to reach this batting achievement. This performance followed his earlier inclusion and subsequent exclusion from the team. Former player Krishnamachari Srikkanth criticized the decision to drop him. Sooryavanshi's dedication and fearless approach were also highlighted.",
+    "img": "https://static.toiimg.com/photo/msid-132618802,imgsize-973769.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/gautam-gambhir-termed-foolish-after-ex-india-selectors-explosive-vaibhav-sooryavanshi-verdict/articleshow/132618706.cms",
+    "time": "2026-07-25T04:15:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Reports",
+    "desc": "Sean Combs faced solitary confinement after a physical altercation with another inmate. The clash reportedly began with insults and escalated into a fight. Prison officials will investigate the incident and its potential consequences. This could affect Combs' good behavior credits and release date. He is currently serving a sentence for federal charges.",
+    "img": "https://static.toiimg.com/photo/msid-132618659,imgsize-88212.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sean-diddy-combs-in-solitary-confinement-after-violent-prison-clash-with-inmate-reports/articleshow/132618653.cms",
+    "time": "2026-07-25T04:08:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ban use of pellet guns, electric shock batons by all police forces: disability rights outfits",
+    "desc": "The Progressive Medicos and Scientific Forum (PMSF) and groups under the National Platform for the Rights of the Disabled (NPRD) umbrella have also sought an independent judicial inquiry into the alleged used of such weapons against protesters on July 20 during the march to Parliament",
+    "img": "https://th-i.thgim.com/public/incoming/6xxz4o/article71262623.ece/alternates/LANDSCAPE_1200/20260720538L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/ban-use-of-pellet-guns-electric-shock-batons-by-all-police-forces-disability-rights-outfits/article71261965.ece",
+    "time": "2026-07-25T04:08:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Cracks deepen in AIADMK dissidents’ camp",
+    "desc": "Former Law Minister and leader of the rebel camp C.Ve. Shanmugam stays away from an official review meeting for Villupuram, while former Food Minister R. Kamaraj attends the event for Tiruvarur. Besides these districts, Edappadi K. Palaniswami takes stock of the party’s performance in Salem and Tiruvallur (south)",
+    "img": "https://th-i.thgim.com/public/incoming/frmzvr/article71262907.ece/alternates/LANDSCAPE_1200/2501_12_5_2026_10_6_0_1_DSC_9274.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/cracks-deepen-in-aiadmk-dissidents-camp/article71262780.ece",
+    "time": "2026-07-25T03:56:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Meet the cast of '72 Hours,' led by Kevin Hart, Mason Gooding and Marcello Hernández",
+    "desc": "Kevin Hart leads an eclectic ensemble in '72 Hours,' a comedy that follows a 40-year-old executive who is accidentally added to a Gen Zers' bachelor party group chat and ends up joining them for a wild three-day trip to Miami. According to Tudum, director Tim Story says, \"Kevin and the crew, Marcello, Mason, Ben, and Kam, are a dynamic team that you just cannot miss.\" Here is a look at everyone crashing this unforgettable weekend.",
+    "img": "https://static.toiimg.com/photo/msid-132618464,imgsize-172323.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/meet-the-cast-of-72-hours-led-by-kevin-hart-mason-gooding-and-marcello-hernndez/photostory/132618464.cms",
+    "time": "2026-07-25T03:38:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Inside Paul Wesley's newly renovated New York City loft",
+    "desc": "In an exciting update, actor Paul Wesley and his wife Natalie Kuckenburg have transformed their New York City loft into a stylish abode that mirrors their combined aesthetic. Kuckenburg's Brazilian roots shine through in the design, while Wesley's love for vintage touches adds character. This renovation signifies a new beginning for the couple as they settle into their shared life as newlyweds.",
+    "img": "https://static.toiimg.com/photo/msid-132618388,imgsize-144224.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/inside-paul-wesley-and-wife-natalie-kuckenburgs-newly-renovated-new-york-city-loft-a-cosy-space-reflecting-brazilian-heritage/articleshow/132618374.cms",
+    "time": "2026-07-25T03:36:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Even leftover food will taste like wedding meal': Ex-cricketer's take on India's win",
+    "desc": "Shreyas Iyer achieved his initial T20I captaincy victory against Zimbabwe. The team secured a seven-wicket win in the opening match of the series. This result provided significant relief for the captain after previous defeats. Teenage sensation Vaibhav Sooryavanshi scored a historic half-century in eighteen balls. Sooryavanshi became the youngest player to achieve this international milestone.",
+    "img": "https://static.toiimg.com/photo/msid-132618398,imgsize-151444.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/even-leftover-food-will-taste-like-a-wedding-meal-ex-cricketers-brutal-take-on-shreyas-iyers-first-t20i-win/articleshow/132618179.cms",
+    "time": "2026-07-25T03:35:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "AISA calls for ‘Bihar Bandh’ on July 25, against police lathi charge on protesting students",
+    "desc": "Protest and dharna continue in several districts of Bihar against the alleged NEET paper leak. Last evening, Jehanabad police had to open 20 to 30 rounds of fire after protesters pelted stones at the official residence of the District Magistrate",
+    "img": "https://th-i.thgim.com/public/incoming/b5355p/article71264171.ece/alternates/LANDSCAPE_1200/PTI07_24_2026_000148A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/aisa-calls-for-bihar-bandh-on-july-25/article71262933.ece",
+    "time": "2026-07-25T03:08:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Meghan Markle, Prince Harry echo Princess Diana's vacation pics from 90s",
+    "desc": "In a charming family vacation, Meghan Markle and Prince Harry explored Portugal and the UK with their children, Archie and Lilibet. Sun-soaked beaches sparked fond memories of Princess Diana's holidays. The family paid homage to Diana by visiting her childhood residence at Althorp, where the children had a sweet encounter with King Charles and Queen Camilla, adding to the trip's warmth.",
+    "img": "https://static.toiimg.com/photo/msid-132618121,imgsize-94302.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/prince-harry-and-meghan-markles-vacation-photos-resemble-princess-dianas-playful-holidays-in-the-90s/articleshow/132618095.cms",
+    "time": "2026-07-25T03:08:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Nagabandham' OTT release: When and where to watch",
+    "desc": "The fantasy action film Nagabandham is now available for streaming online. It began its digital run on Amazon Prime Video on July 24, 2026. The movie garnered Rs 3.25 crore net on its opening day. Mixed reviews impacted its box office collections after the initial release. The film attempted to blend mythology, fantasy, and action with ambitious storytelling.",
+    "img": "https://static.toiimg.com/photo/msid-132618062,imgsize-487584.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/nagabandham-ott-release-when-and-where-to-watch-virat-karrnas-fantasy-actioner/articleshow/132618050.cms",
+    "time": "2026-07-25T03:00:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Why is he always retained?': Ashwin fires back at Mayank Yadav's critics",
+    "desc": "Mayank Yadav made a strong comeback in his first international match since October 2024. He secured Player of the Match for his impressive bowling performance against Zimbabwe. This marked a significant return after a period of injury-related setbacks for the young bowler. Ravichandran Ashwin urged patience for players recovering from difficult physical and mental challenges. The team secured a convincing victory in the opening T20I match.",
+    "img": "https://static.toiimg.com/photo/msid-132617949,imgsize-59520.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/why-is-he-always-retained-ashwin-fires-back-at-mayank-yadavs-critics/articleshow/132617945.cms",
+    "time": "2026-07-25T02:46:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Raghav Juyal opens up on fame, pap culture and trolls",
+    "desc": "Raghav Juyal opens up about pap culture, trolling, and staying relevant after a decade in the industry. He shares a warm bond with paparazzi, stays unbothered by online comments, and credits genuine audience connection and reinvention for his lasting relevance. He's now gearing up for the release of his next film, Bhai Tera Star Hai.",
+    "img": "https://static.toiimg.com/photo/msid-132617766,imgsize-174182.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/raghav-juyal-opens-up-on-fame-pap-culture-and-trolls-comments-par-main-dhyaan-nahi-deta/articleshow/132617766.cms",
+    "time": "2026-07-25T02:39:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Abhishek-Ash spotted together in New York- PIC",
+    "desc": "Abhishek Bachchan and Aishwarya Rai Bachchan were recently seen together in New York City. The couple appeared relaxed while walking the streets and posing for fan photos. This outing occurs during a break in Abhishek's 'King' movie schedule. Meanwhile, co-star Shah Rukh Khan is holidaying with his family in London. The film 'King' is slated for a Christmas 2026 release.",
+    "img": "https://static.toiimg.com/photo/msid-132617662,imgsize-171614.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/abhishek-bachchan-and-aishwarya-rai-bachchan-spotted-together-in-new-york-pose-with-fan-for-a-selfie/articleshow/132617303.cms",
+    "time": "2026-07-25T02:34:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Where does India stand after Jhandu's bronze on Day 2?",
+    "desc": "India opened its Commonwealth Games 2026 medal tally on Day 2 as para powerlifter Jhandu Kumar won bronze in the men's heavyweight event. Ashok Malik and Karthik Budigina narrowly missed medals with fourth-place finishes, while boxer Jadumani Singh advanced, Srihari Nataraj exited in the semifinals, and India's lawn bowls teams continued their impressive run in Glasgow.",
+    "img": "https://static.toiimg.com/photo/msid-132617859,imgsize-87926.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-medal-table-where-does-india-stand-after-jhandu-kumars-bronze-on-day-2/articleshow/132617852.cms",
+    "time": "2026-07-25T02:33:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Woken from sleep to witness Wangchuk end fast, says Ladakh leader",
+    "desc": "With Delhi University colleges reopening on July 28 and the weekend approaching, the government hastened channels of communication with the CJP team and Sonam Wangchuk to ensure that the protest is wound up before a major incident takes place",
+    "img": "https://th-i.thgim.com/public/incoming/a9qmqu/article71265133.ece/alternates/LANDSCAPE_1200/20260724237L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/woken-from-sleep-to-witness-wangchuk-end-fast-says-ladakh-leader/article71263103.ece",
+    "time": "2026-07-25T02:29:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi thanks people for responses, positive suggestions received for midnight video",
+    "desc": "Prime Minister Narendra Modi's outreach to the youth came four days after thousands of students led by the Cockroach Janta Party (CJP) took part in the 'Sansad Chalo' march to press for their demand for the resignation of Union Education Minister Dharmendra Pradhan over examination-related irregularities.",
+    "img": "https://th-i.thgim.com/public/hindi/editorial/70vy5a/article71265129.ece/alternates/LANDSCAPE_1200/Screenshot%202026-07-25%20074606.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/pm-modi-thanks-people-for-responses-positive-suggestions-received-for-midnight-video/article71265125.ece",
+    "time": "2026-07-25T02:25:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "'Chennai Love Story' X review: Netizens share first reactions",
     "desc": "Chennai Love Story, starring Kiran Abbavaram and Sri Gouri Priya, has released in theatres. Early viewers are discussing the film's unique storytelling and emotional depth online. Performances by the lead actors and the musical score have received significant appreciation from audiences. Some viewers felt the film's climax could have been stronger and more original. The romantic drama is written by Sai Rajesh and directed by Ravi Namburi.",
     "img": "https://static.toiimg.com/photo/msid-132617703,imgsize-58164.cms",
@@ -9,22 +225,31 @@ const newsData_en = [
     "time": "2026-07-25T02:12:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "CJP-govt talks to continue today amid Dharmendra Pradhan's resignation demand",
-    "desc": "In a move to crack down on exam malpractices, the Centre has taken a slew of actions, including strengthening the anti-paper leak law and terminating services of up to 47 officials in the National Testing Agency (NTA).",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jantar-mantar-delhi-student-protest-cjp-government-talks-sonam-wangchuk-hunger-strike-live-updates-july-25-2026/article71265108.ece",
-    "time": "2026-07-25T02:07:37.000Z"
-  },
-  {
     "cat": "Sports",
-    "title": "From selling vegetables to e-rickshaw driver: Bihar's Jhand is now India's first CWG 2026 medallist",
+    "title": "From selling vegetables to e-rickshaw driver: Bihar's Jhandu is now India's first CWG 2026 medallist",
     "desc": "Bihar's Jhandu Kumar won India's first para powerlifting medal at the 2026 Commonwealth Games, claiming bronze in Glasgow after years of struggle. A former e-rickshaw driver who overcame financial hardship and polio, he lifted 190kg to reach the podium. \"I feel as if I'm flying,\" Jhandu said, thanking his family, coaches, TOPS and SAI for their support.",
     "img": "https://static.toiimg.com/photo/msid-132617633,imgsize-117434.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/from-selling-vegetables-to-e-rickshaw-driver-now-indias-first-cwg-2026-medallist-how-bihars-jhandu-kumar-defied-all-odds/articleshow/132617606.cms",
     "time": "2026-07-25T02:01:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India's complete schedule, timings and medal events on Day 3",
+    "desc": "It is expected to be a relatively quiet day for India in terms of medal chances, with no confirmed medal events involving Indian athletes unless they qualify for the finals in artistic gymnastics and swimming.",
+    "img": "https://static.toiimg.com/photo/msid-132609498,imgsize-322459.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-indias-complete-schedule-timings-and-medal-events-on-day-3/articleshow/132609058.cms",
+    "time": "2026-07-25T02:00:00.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Over 1,66,000 evacuated as wildfires spin out of control in France, Spain",
+    "desc": "French President Emmanuel Macron on July 24, asked the army to mobilise to help contain the worst wildfire the country has ever seen after seeking European Union help, as a local official warned the blaze was heading towards Bordeaux",
+    "img": "https://th-i.thgim.com/public/incoming/173eyj/article71264699.ece/alternates/LANDSCAPE_1200/2026-07-24T222513Z_1981115009_RC2FKMAS3Y2G_RTRMADP_3_EUROPE-WEATHER-SPAIN-WILDFIRE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/166000-evacuated-as-wildfires-spin-out-of-control-in-france-spain/article71264193.ece",
+    "time": "2026-07-25T01:48:50.000Z"
   },
   {
     "cat": "Entertainment",
@@ -90,15 +315,6 @@ const newsData_en = [
     "time": "2026-07-25T01:06:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Cracks deepen in AIADMK dissidents’ camp",
-    "desc": "Former Law Minister and leader of the rebel camp C.Ve. Shanmugam stays away from an official review meeting for Villupuram, while former Food Minister R. Kamaraj attends the event for Tiruvarur. Besides these districts, Edappadi K. Palaniswami takes stock of the party’s performance in Salem and Tiruvallur (south)",
-    "img": "https://th-i.thgim.com/public/incoming/frmzvr/article71262907.ece/alternates/LANDSCAPE_1200/2501_12_5_2026_10_6_0_1_DSC_9274.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/cracks-deepen-in-aiadmk-dissidents-camp/article71262780.ece",
-    "time": "2026-07-25T01:01:02.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "D4vd accused of sexual abuse and murder of Celeste Rivas",
     "desc": "Text messages revealed Celeste Rivas Hernandez had an abortion over a year before her death. Prosecutors presented graphic photos and DNA evidence linking David Burke to the crime. The autopsy doctor detailed Rivas Hernandez's fatal wounds and decomposition challenges. Defense attorneys questioned the toxicology results and suggested alternative causes of death. Burke faces charges of murder, sexual abuse, and mutilation, pleading not guilty.",
@@ -106,6 +322,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/celeste-rivas-hernandez-murder-case-d4vd-accused-of-sexually-abusing-teen-court-testimony-reveal-pregnancy-and-abortion-details/articleshow/132617307.cms",
     "time": "2026-07-25T01:00:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "was his World Cup-winning Les Bleus tenure a success?",
+    "desc": "The debate over the 57-year-old’s managerial legacy will not disappear anytime soon. Critics will argue that his caution prevented France from reaching even greater heights. His supporters will counter that his discipline transformed limitless potential into sustained excellence",
+    "img": "https://th-i.thgim.com/public/incoming/mo3pdw/article71263981.ece/alternates/LANDSCAPE_1200/GettyImages-2285692664.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/didier-deschamps-france-analysis-legacy-world-cup-zinedine-zidane-manager/article71263988.ece",
+    "time": "2026-07-25T00:58:52.000Z"
   },
   {
     "cat": "Entertainment",
@@ -135,51 +360,6 @@ const newsData_en = [
     "time": "2026-07-25T00:45:50.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Prince Harry finds 'an ally in Britain' in Earl Spencer",
-    "desc": "During a recent trip to the UK, Prince Harry received support from his uncle, Earl Spencer, as the Sussexes stayed at Althorp after losing royal accommodations. This visit marked Prince Archie and Princess Lilibet's first trip to their grandmother Diana's grave. Meanwhile, Prince William's absence from important discussions highlighted the ongoing rift between the brothers. The Spencer estate served as a sanctuary amid their troubled family ties.",
-    "img": "https://static.toiimg.com/photo/msid-132617284,imgsize-97414.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/prince-harry-found-an-ally-in-britain-in-earl-spencer-as-he-sought-refuge-at-althorp-amid-palace-tensions/articleshow/132617278.cms",
-    "time": "2026-07-25T00:38:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Jana Nayagan' BO day 2: Vijay's film drops 50.5%",
-    "desc": "Thalapathy Vijay's 'Jana Nayagan' saw a noticeable collection drop on its second day. The film still managed to cross the ₹50 crore India net milestone. Worldwide gross collections for the movie have now surpassed ₹112 crore. The Tamil version continues to dominate the film's overall earnings significantly. Tamil Nadu remains the biggest market contributing substantially to its box office success.",
-    "img": "https://static.toiimg.com/photo/msid-132617270,imgsize-222874.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-box-office-collections-day-2-vijays-film-drops-50-5-earns-rs-112-5-cr-worldwide/articleshow/132617263.cms",
-    "time": "2026-07-25T00:28:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'The Odyssey' Crosses Rs 115 crore in India; to overtake 'Oppenheimer'",
-    "desc": "Christopher Nolan's 'The Odyssey' continues its impressive box office run in India. The film earned over nine crore rupees on its eighth day. It is now nearing the lifetime collection of Nolan's 'Oppenheimer' in India. Globally, 'The Odyssey' has amassed over three hundred forty million dollars. North America remains the film's largest and most profitable market.",
-    "img": "https://static.toiimg.com/photo/msid-132617215,imgsize-162208.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/the-odyssey-box-office-collection-day-8-christopher-nolan-directorial-sees-second-weekend-growth-to-overtake-oppenheimer-as-it-crosses-rs-115-crore-in-india/articleshow/132617157.cms",
-    "time": "2026-07-25T00:27:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shekhar slams police crackdown on student protesters at Jantar Mantar",
-    "desc": "Shekhar Suman's Shekhar Tonite opening monologue slammed police action against student protesters at Delhi's Jantar Mantar, calling it heartbreaking and citing sleepless, tear-filled nights. He questioned the crackdown, invoked the Mahabharata, and voiced solidarity. Suman had earlier backed Sonam Wangchuk's hunger strike. Bollywood stars including Salman Khan and Alia Bhatt also expressed support.",
-    "img": "https://static.toiimg.com/photo/msid-132617251,imgsize-142665.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-havent-slept-ive-only-cried-shekhar-suman-slams-police-crackdown-on-student-protesters-at-jantar-mantar/articleshow/132617251.cms",
-    "time": "2026-07-25T00:17:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Dinesh Panicker opens up about flaws in 'Chenkol'",
-    "desc": "Producer Dinesh Panicker shared his thoughts on the film 'Chenkol', the sequel to 'Kireedam'. He felt the sequel lacked the original's emotional energy and unique screenplay strength. Panicker also noted audience disappointment with Thilakan's character arc in the follow-up. He disagreed with the decision to kill Mohanlal's character in the film's climax. Despite these points, Panicker acknowledged 'Chenkol's' overall success.",
-    "img": "https://static.toiimg.com/photo/msid-132617229,imgsize-76522.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/mohanlals-character-should-not-have-been-killed-in-the-end-producer-dinesh-panicker-opens-up-about-flaws-in-chenkol/articleshow/132617220.cms",
-    "time": "2026-07-25T00:15:37.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Tigers to be introduced in Buxa Tiger Reserve in West Bengal on October 2",
     "desc": "Senior officials of the West Bengal Forest Department said that bringing tigers to Buxa from Sundarban may not be a good idea. Tigers may be introduced in Buxa from similar landscape of Assam and Bihar",
@@ -207,24 +387,6 @@ const newsData_en = [
     "time": "2026-07-24T23:47:34.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Rings of Power' S3 teaser: Cast, plot, release schedule revealed",
-    "desc": "The Rings of Power Season 3 teaser shows Middle-earth's descent into darkness. Galadriel and Celeborn reunite, while Sauron prepares to forge the One Ring. New characters like Thrain and Anarion join the epic fantasy series. The Nazgûl, or Nazgnagôl, will also be introduced in their early forms. The season premieres on Prime Video on November 11th.",
-    "img": "https://static.toiimg.com/photo/msid-132617127,imgsize-436153.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-lord-of-the-rings-the-rings-of-power-morfydd-clark-and-jamie-cambell-bowers-galadriel-celeborn-romance-steals-all-the-attention-in-season-3-teaser-cast-plot-release-schedule-revealed-watch/articleshow/132616397.cms",
-    "time": "2026-07-24T23:38:10.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "166,000 evacuated as wildfires spin out of control in France, Spain",
-    "desc": "French President Emmanuel Macron on July 24, asked the army to mobilise to help contain the worst wildfire the country has ever seen after seeking European Union help, as a local official warned the blaze was heading towards Bordeaux",
-    "img": "https://th-i.thgim.com/public/incoming/173eyj/article71264699.ece/alternates/LANDSCAPE_1200/2026-07-24T222513Z_1981115009_RC2FKMAS3Y2G_RTRMADP_3_EUROPE-WEATHER-SPAIN-WILDFIRE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/166000-evacuated-as-wildfires-spin-out-of-control-in-france-spain/article71264193.ece",
-    "time": "2026-07-24T23:37:15.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Argentina president Javier Milei breaks silence after 23 million sign petition demanding World Cup ban",
     "desc": "Argentina's World Cup final controversy has escalated after the \"Argentina Out\" petition closed with more than 23.3 million verified signatures, narrowly missing a Guinness World Record. President Javier Milei hit back with defiant social media posts as FIFA continues investigating the post-match brawl, while a rival campaign demanding a replay of the final has also gathered widespread support.",
@@ -232,51 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/argentina-president-javier-milei-breaks-silence-after-23-million-sign-petition-demanding-world-cup-ban/articleshow/132616233.cms",
     "time": "2026-07-24T23:01:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "PICS",
-    "desc": "In a delightful family moment, Shah Rukh Khan enjoyed a leisurely day out in London with his wife Gauri and daughter Suhana. This appearance comes as he juggles a hectic filming schedule for his upcoming movie 'King,' set to debut this Christmas. Interestingly, his son Aryan Khan was also noticed in London, navigating his own professional pursuits.",
-    "img": "https://static.toiimg.com/photo/msid-132616829,imgsize-168016.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-spotted-with-gauri-khan-and-suhana-khan-in-london-pics-from-family-outing-go-viral/articleshow/132616424.cms",
-    "time": "2026-07-24T22:36:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australia World Cup star Cristian Volpato reportedly tests positive for cocaine after being stopped twice in one night",
-    "desc": "Australia midfielder Cristian Volpato is reportedly under investigation after allegedly testing positive for cocaine following two police traffic stops in Sydney on the same night, just days after representing the Socceroos at the 2026 FIFA World Cup. The Sassuolo midfielder was also accused of speeding twice, with authorities awaiting laboratory confirmation of the roadside drug test result.",
-    "img": "https://static.toiimg.com/photo/msid-132614947,imgsize-128314.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/australia-world-cup-star-cristian-volpato-reportedly-tests-positive-for-cocaine-after-being-stopped-twice-in-one-night/articleshow/132614948.cms",
-    "time": "2026-07-24T22:07:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Madonna's London home, featured in Layer Cake, is now up for rent",
-    "desc": "Madonna may be dominating headlines with her latest music, but one of her former homes is now stealing the spotlight. A charming South Kensington mews house once owned by the Queen of Pop and her ex-husband, filmmaker Guy Ritchie, has hit the rental market, giving fans a rare opportunity to live in a property that has hosted music royalty and Hollywood stars alike.",
-    "img": "https://static.toiimg.com/photo/msid-132614945,imgsize-109489.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/madonnas-former-london-home-with-guy-ritchie-featured-in-daniel-craigs-layer-cake-is-now-up-for-rent-heres-what-it-costs/articleshow/132614933.cms",
-    "time": "2026-07-24T22:04:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "AISA calls for ‘Bihar Bandh’ on July 25, against police lathi charge on protesting students",
-    "desc": "Protest and dharna continue in several districts of Bihar against the alleged NEET paper leak. Last evening, Jehanabad police had to open 20 to 30 rounds of fire after protesters pelted stones at the official residence of the District Magistrate",
-    "img": "https://th-i.thgim.com/public/incoming/b5355p/article71264171.ece/alternates/LANDSCAPE_1200/PTI07_24_2026_000148A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar//article71262933.ece",
-    "time": "2026-07-24T22:04:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Jo darr gaya vo mar gaya...'",
-    "desc": "Salman Khan shared gym photos showcasing his physique and a cryptic caption. This post comes after his comments on student protests and NEET paper leak. He urged activist Sonam Wangchuk to end his fast and advised students against political hijacking. Khan expressed sadness over the protests turning violent and supported the students' cause. He is also preparing to host Bigg Boss and working on upcoming films.",
-    "img": "https://static.toiimg.com/photo/msid-132614907,imgsize-105596.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-shows-off-ripped-physique-in-gym-photos-shares-cryptic-message-for-critics-amid-cjp-student-protests-jo-darr-gaya-vo-mar-gaya-/articleshow/132614710.cms",
-    "time": "2026-07-24T21:58:49.000Z"
   },
   {
     "cat": "Politics",
@@ -289,57 +406,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Will Harry Kane stay? Bayern prepare talks as England captain enters final contract year",
-    "desc": "Harry Kane is set to open contract talks with Bayern Munich as the Bundesliga champions move to secure the England captain's long-term future. With his current deal entering its final year and interest growing from Barcelona and Saudi Arabia, Bayern are determined to avoid losing their star striker for free after another sensational season and impressive World Cup campaign.",
-    "img": "https://static.toiimg.com/photo/msid-132614919,imgsize-157730.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/will-harry-kane-stay-bayern-prepare-talks-as-england-captain-enters-final-contract-year/articleshow/132614655.cms",
-    "time": "2026-07-24T21:45:55.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Test cricket dictates to you what is necessary; if you push too hard, it will bite you: Mark Butcher",
     "desc": "The former England cricketer talks about how the Test format is greater than any idea anybody may have about how it should be played, why he compared Vaibhav Sooryavanshi with Garry Sobers and what went into the making of his epic 173 not out against Australia in 2001",
     "img": "https://th-i.thgim.com/public/incoming/2l88vm/article71263990.ece/alternates/LANDSCAPE_1200/GettyImages-2228293897.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/mark-butcher-exclusive-vaibhav-sooryavanshi-test-cricket-bazball/article71263993.ece",
     "time": "2026-07-24T20:43:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "was his World Cup-winning Les Bleus tenure a success?",
-    "desc": "The debate over the 57-year-old’s managerial legacy will not disappear anytime soon. Critics will argue that his caution prevented France from reaching even greater heights. His supporters will counter that his discipline transformed limitless potential into sustained excellence",
-    "img": "https://th-i.thgim.com/public/incoming/mo3pdw/article71263981.ece/alternates/LANDSCAPE_1200/GettyImages-2285692664.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/didier-deschamps-france-analysis-legacy-world-cup-zinedine-zidane-manager/article71263988.ece",
-    "time": "2026-07-24T20:25:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jay-Z seeks to recover $119K from godmother of man who claims to be his son",
-    "desc": "Jay-Z has filed fresh legal documents seeking to prevent a $119,000 judgment against Lillie Coley, the godmother of Rymir Satterthwaite, from being discharged through bankruptcy. The rapper filed the request as part of Coley's ongoing bankruptcy proceedings, arguing that the debt should remain enforceable because it arose from conduct involving fraud and harassment rather than an ordinary financial obligation.",
-    "img": "https://static.toiimg.com/photo/msid-132614581,imgsize-92702.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jay-z-moves-to-block-119k-debt-from-being-erased-in-bankruptcy-case-linked-to-man-claiming-hes-the-rappers-son-report/articleshow/132614575.cms",
-    "time": "2026-07-24T20:20:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Amid manhunt for J&amp;K cop’s terrorist killers, detentions spike to 3.5k",
-    "desc": "Detentions across Jammu and Kashmir linked to a terrorist killing have risen significantly. Police have stepped up their crackdown on suspected sympathizers of armed groups in the region. A comprehensive security review meeting focused on the current operational environment and threat perception. Home minister Amit Shah spoke with the slain head constable's son after visiting the family. Chief Minister Omar Abdullah criticized the detentions and controlled explosions targeting terrorist homes.",
-    "img": "https://static.toiimg.com/photo/msid-132614554,imgsize-923308.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/amid-manhunt-for-jk-cops-terrorist-killers-detentions-spike-to-3-5k/articleshow/132614555.cms",
-    "time": "2026-07-24T20:09:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Amid rain &amp; fresh landslides, Jammu-Srinagar NH closure enters Day 3",
-    "desc": "Torrential rains have caused fresh landslides across Jammu and Kashmir. The Jammu-Srinagar National Highway remains closed for traffic for a third day. Major pilgrimages, including Amarnath and Vaishno Devi Yatras, are suspended for the sixth consecutive day. Several vehicles are stranded as authorities advise against travel due to safety concerns. Flash floods also affected households in Udhampur district without any casualties.",
-    "img": "https://static.toiimg.com/photo/msid-132614329,imgsize-1199830.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/amid-rain-fresh-landslides-jammu-srinagar-nh-closure-enters-day-3/articleshow/132614332.cms",
-    "time": "2026-07-24T19:28:41.000Z"
   },
   {
     "cat": "Politics",
@@ -376,15 +448,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/bangalore/kptcl-cracks-down-on-45-self-execution-projects-violating-power-rules/article71262771.ece",
     "time": "2026-07-24T19:13:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Weren't you going shave off all your hair?': Spanish princess embarrasses Ferran Torres over bizarre World Cup promise",
-    "desc": "Ferran Torres delivered Spain's World Cup-winning goal, but his funniest post-tournament moment came during a royal reception when Princess Leonor reminded him of a pre-tournament promise to shave his head if Spain lifted the trophy. The Barcelona forward laughed off the question, while several other Spain stars still face unusual challenges after their historic triumph.",
-    "img": "https://static.toiimg.com/photo/msid-132613677,imgsize-193526.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/werent-you-going-to-shave-off-all-your-hair-spanish-princess-embarrasses-ferran-torres-over-bizarre-world-cup-promise/articleshow/132612166.cms",
-    "time": "2026-07-24T18:51:39.000Z"
   },
   {
     "cat": "Politics",
@@ -459,24 +522,6 @@ const newsData_en = [
     "time": "2026-07-24T16:44:22.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Aamir's daughter Ira explains why she didn't speak out on CJP protests",
-    "desc": "Aamir Khan's daughter Ira Khan has addressed questions over why she remained silent on the ongoing Cockroach Janta Party (CJP)-led student protests, saying she did not feel she had anything meaningful to contribute to the conversation. Taking to Instagram on Thursday, Ira shared a lengthy video explaining her decision, adding that her approach to distressing news is shaped by her mental health and the need to protect her emotional well-being.",
-    "img": "https://static.toiimg.com/photo/msid-132610438,imgsize-101468.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khans-daughter-ira-khan-explains-why-she-didnt-speak-out-on-cjp-protests-i-didnt-think-i-had-anything-to-add/articleshow/132610387.cms",
-    "time": "2026-07-24T16:40:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Will treasure this': Jos Buttler reveals special gift from Rohit Sharma",
-    "desc": "Jos Buttler received a signed Team India jersey from Rohit Sharma. He expressed admiration for the Indian opener, calling him a favourite player. Rohit Sharma scored a century in the series decider at Lord's. He finished as India's leading run-scorer in the ODI series. Rohit Sharma remains one of cricket's greatest ODI batters.",
-    "img": "https://static.toiimg.com/photo/msid-132609762,imgsize-184304.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/will-treasure-this-jos-buttler-reveals-special-gift-from-rohit-sharma-after-india-england-odi-series/articleshow/132609741.cms",
-    "time": "2026-07-24T15:53:35.000Z"
-  },
-  {
     "cat": "World",
     "title": "Israeli military kills four Palestinians after settler killed in West Bank",
     "desc": "Two other Israelis and four more Palestinians were wounded, health officials said, and the Israeli military announced it was preparing for an “extensive” counterterror operation in the West Bank, with troops surrounding the town of Nablus",
@@ -522,15 +567,6 @@ const newsData_en = [
     "time": "2026-07-24T13:38:47.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Why Tyrell Fortune believes his strongest weapon never changed",
-    "desc": "A decorated wrestler before entering mixed martial arts, Tyrell Fortune believes the qualities that shaped his career remain his biggest strength inside the UFC. Following a confidence-boosting debut on short notice, the American heavyweight heads into his second fight with a full training camp, convinced he belongs among the division's elite and determined to move another step closer to the title.",
-    "img": "https://static.toiimg.com/photo/msid-132607373,imgsize-557446.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/mma/news/from-wrestling-mats-to-the-octagon-why-tyrell-fortune-believes-his-strongest-weapon-never-changed/articleshow/132607361.cms",
-    "time": "2026-07-24T13:37:32.000Z"
-  },
-  {
     "cat": "World",
     "title": "Understanding the Saudi-U.S. nuclear agreement",
     "desc": "Initially, nuclear fuel would be imported to Saudi Arabia, but the deal proposes a joint two-year study examining the value and commercial viability of enrichment for the kingdom; if the study concludes that local enrichment is warranted, U.S. companies would build and operate a uranium enrichment facility in the kingdom under an arrangement that would prevent transfer of sensitive enrichment technology to the Saudis",
@@ -565,15 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-down-900-points-nifty50-closes-below-23800-five-reasons-why-stock-market-crashed-today/articleshow/132604996.cms",
     "time": "2026-07-24T12:19:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'She didn't disclose her whereabouts': JFI chief confirms Tulika Maan's CWG withdrawal",
-    "desc": "Judoka Tulika Maan faces withdrawal from the Glasgow Games for whereabouts failures. This follows judoka Arun Kumar's disqualification after a failed dope test. Athletes must disclose their locations for random anti-doping agency testing. Hima Das and Parveen Hooda previously faced similar whereabouts rule violations. These incidents impact India's judo prospects at the upcoming sporting event.",
-    "img": "https://static.toiimg.com/photo/msid-132604035,imgsize-151134.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/she-didnt-disclose-her-whereabouts-jfi-chief-confirms-tulika-maans-cwg-withdrawal-nada-hearing-next/articleshow/132604018.cms",
-    "time": "2026-07-24T11:29:37.000Z"
   },
   {
     "cat": "Business",
@@ -801,15 +828,6 @@ const newsData_en = [
     "time": "2026-07-23T06:06:51.000Z"
   },
   {
-    "cat": "World",
-    "title": "Will Trump’s bunker buster bombs punch through Iran’s Pickaxe Mountain?",
-    "desc": "The U.S. faces a complex challenge at Iran’s Pickaxe Mountain, where powerful bunker buster bombs face hardy geological formations. Success is also limited by a critical minerals crunch, and could force Trump to shift from total destruction to disabling surface infrastructure and subterranean access tunnels",
-    "img": "https://th-i.thgim.com/public/sci-tech/science/xmonen/article71256191.ece/alternates/LANDSCAPE_1200/Screenshot%202026-07-23%20at%207.19.17%E2%80%AFAM.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/science/trump-bunker-buster-bombs-punch-through-iran-pickaxe-mountain-centrifuges/article71256189.ece",
-    "time": "2026-07-23T02:14:05.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Trump’s 200% generic tariff threat would imperil Americans: Indian pharma",
     "desc": "Effective August 1, 2026, all generic drugs being brought into the United States will continue to have a tariff of zero per cent for a two-year period of time, after which the tariff will be raised to 100% for a one-year period of time, and 200% thereafter, said Donald Trump",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/glasgow-2026-commonwealth-games-india-preview/article71255062.ece",
     "time": "2026-07-22T18:42:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay’s ‘Jana Nayagan’ releases: Looking back at MGR’s ‘Meenava Nanban’ in 1977",
-    "desc": "Meenava Nanban. Leading newspapers of the time captured the pre-release buzz of this film, with film posters with only carrying the title ‘Makkal Thilagam’ and not ‘Chief Minister’. We catch up with T Rajappa Venkatachari – or ‘MGR Swami’, as he is known – who recalls watching the first day first show of the film in 1977 at Tirunelveli’s Central Theatre.",
-    "img": "https://th-i.thgim.com/public/incoming/4crmab/article71253649.ece/alternates/LANDSCAPE_1200/Orange%20%20White%20Minimalist%20Podcast%20Promotion%20YouTube%20Thumbnail.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/vijays-jana-nayagan-releases-looking-back-at-mgrs-meenava-nanban-in-1977-thalapathy/article71253661.ece",
-    "time": "2026-07-22T13:12:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Attack on Titan: The Last Attack’ movie review: A colossal political epitaph for the children of war",
-    "desc": "Returning at a moment when state violence and political repression feel alarmingly familiar, Hajime Isayama’s monumental saga remains one of this century’s most incisive examinations of how fear hardens into fascism and why the struggle for freedom never truly belongs to a single generation",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/gtzdl/article71253051.ece/alternates/LANDSCAPE_1200/hangerumbling.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/attack-on-titan-the-last-attack-movie-review-a-colossal-political-epitaph-for-the-children-of-war/article71253062.ece",
-    "time": "2026-07-22T11:18:05.000Z"
   }
 ];

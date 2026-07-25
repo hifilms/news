@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "'থ্যাঙ্ক ইউ ফ্রেন্ডস...'! মধ্যরাতে জেন জি-দের উদ্দেশ্যে মোদীর এক রিলে চুরমার বিশ্বরেকর্ড",
+    "desc": "জেন-জিদের ধন্যবাদ জানিয়ে একটি নতুন ভিডিয়ো পোস্ট করেন প্রধানমন্ত্রী। 'ধন্যবাদ বন্ধুরা' দিয়ে শুরু করা সেই ভিডিয়োতে তিনি যুবসমাজের গঠনমূলক পরামর্শ ও ভালোবাসার জন্য কৃতজ্ঞতা জানান। ক্যাপশনে তিনি লেখেন, 'আপনাদের এই ভালোবাসা অটুট থাকবে এবং আমাদের মনের টান আগামীতে আরও মজবুত হবে।'",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/pm-modi-breaks-world-record-with-303m-views-on-instagram-reel-amid-student-protests_663901.html ",
+    "time": "2026-07-25T03:10:18.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "৪৭ দিন বাদে মুখ খুলে এবার ঝড় থামাতে ৪৭ জনের চাকরি খেতে চলেছেন মোদী, বিক্ষোভের বিরাট আপডেট",
     "desc": "এই চরম প্রশাসনিক সংকটের সমাধানের লক্ষ্যেই কেন্দ্রীয় শিক্ষামন্ত্রক এবং প্রধানমন্ত্রীর দফতর (PMO)-এর নির্দেশে এনটিএ-এর অভ্যন্তরীণ কর্মকাণ্ড নিয়ে পুনর্বিবেচনা শুরু হয়। ঘটনার তদন্তে এই সংস্থার শীর্ষ পর্যায়ের ব্যর্থতা সামনে আসার পরই এই ব্যাপক ছাঁটাই ও আধিকারিকদের বদলির সিদ্ধান্ত চূড়ান্ত করা হয়েছে।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -133,15 +142,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/neet-paper-leak-cjp-protest-tollywood-actors-jeet-rupam-islam-anjan-dutt-react_663713.html ",
     "time": "2026-07-23T13:04:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "কারেন্সিতে বিগ চেঞ্জ! অচিরেই বাতিল হচ্ছে পুরনো নোট! আর মিলবে না ১০ ও ২০ টাকার নোট? তালিকায় আর কোন নোট?",
-    "desc": "কাগজের তৈরি নোটের পরিবর্তে এটি 'বায়অ্যাক্সিয়ালি ওরিয়েন্টেড পলিপ্রোপিলিন' নামক এক ধরনের বিশেষ প্লাস্টিক উপাদান দিয়ে তৈরি। ফলে এই নোট সহজে ছিঁড়ে যায় না, নোংরা হয় না এবং দুমড়ে-মুচড়ে যায় না। চলতি কাগজের নোটের গড় বয়স যেখানে ১ থেকে ২ বছর, পলিমার নোট সেক্ষেত্রে টিকবে ৮ থেকে ১০ বছর।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/india-may-get-rs-10-and-20-plastic-currency-notes-as-rbi-planning-to-replace-paper-currency-with-plastic-research_663712.html ",
-    "time": "2026-07-23T13:01:30.000Z"
   },
   {
     "cat": "Entertainment",
