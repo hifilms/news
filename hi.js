@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Shreyas Iyer shares update on Prince Yadav, lauds Ishan Kishan, Tilak Varma after series win vs Zimbabwe",
+    "desc": "India pacer Prince Yadav was forced to leave the field in the second T20I against Zimbabwe in Harare. He appeared to have hurt his hamstring while delivering the second ball of his second over. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-shares-update-on-prince-yadav-lauds-ishan-kishan-tilak-varma-after-series-win-vs-zimbabwe-2026-07-25-1049422",
+    "time": "2026-07-25T18:13:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Star Bangladesh pacer ruled out of Test series vs Australia, BCB statement confirms",
+    "desc": "Bangladesh's preparations for their historic Test tour of Australia have suffered a significant setback. Ace pacer Nahid Rana has been ruled out of the two-match series with a Grade 2 strain on his left side....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/star-bangladesh-pacer-ruled-out-of-test-series-vs-australia-bcb-statement-confirms-2026-07-25-1049420",
+    "time": "2026-07-25T17:52:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCCI set to review Indian team's poor show in England, Ireland series; coaching changes are possible",
+    "desc": "The Board of Control for Cricket in India (BCCI) is set to review the national team's recent white-ball performances after a disappointing United Kingdom tour. A meeting is scheduled for August, with the assessment also...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-set-to-review-indian-team-s-poor-show-in-england-ireland-series-coaching-changes-are-possible-2026-07-25-1049419",
+    "time": "2026-07-25T17:24:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India equalled own world record with another stunning show against Zimbabwe in second T20I",
+    "desc": "India equalled the world record for the most 200-plus totals in a calendar year after posting 219/5 against Zimbabwe in the second T20I in Harare. The total was India's ninth score of 200 or more...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-equalled-own-world-record-with-another-stunning-show-against-zimbabwe-in-second-t20i-2026-07-25-1049416",
+    "time": "2026-07-25T16:18:59.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India's historic gold medal in Rowing World Cup to be stripped after Lakshay found positive for doping",
     "desc": "India's historic first gold medal at the Rowing World Cup is set to be removed from the record books after one member of the winning crew returned a positive doping test. Lakshay, who partnered Ujjwal...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-zim-1st-t20i-live-cricket-score-india-vs-zimbabwe-latest-match-updates-scorecard-teams-playing-xis-reactions-sooryavanshi-abhishek-1049388",
     "time": "2026-07-25T10:25:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shreyas Iyer on the brink of history ahead of second T20I clash against Zimbabwe",
-    "desc": "India and Zimbabwe are all set to take on each other in the second T20I of the ongoing series. The two sides will meet at the Harare Sports Club on July 25, and the Men...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-on-the-brink-of-history-ahead-of-second-t20i-clash-against-zimbabwe-2026-07-25-1049383",
-    "time": "2026-07-25T09:34:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former Indian cricketer lays out difference between playing in the IPL and on foreign soil",
-    "desc": "The Indian team is all set to take on Zimbabwe in the second T20I of the ongoing three-game series. The two sides are slated to meet at the Harare Sports Club on July 25th for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-indian-cricketer-lays-out-difference-between-playing-in-the-ipl-and-on-foreign-soil-2026-07-25-1049378",
-    "time": "2026-07-25T08:48:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kuldeep Yadav strengthens case for ODI comeback, performs brilliantly on Yorkshire debut with two wickets",
-    "desc": "Star India spinner Kuldeep Yadav has continued his brilliant form and continues to strengthen his case for a comeback in India’s ODI squad ahead of the ODI World Cup 2027. The 31-year-old is currently representing...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kuldeep-yadav-strengthens-case-for-odi-comeback-performs-brilliantly-on-yorkshire-debut-with-two-wickets-2026-07-25-1049375",
-    "time": "2026-07-25T07:44:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kris Srikkanth backs the inclusion of veteran all-rounder in India's ODI squad",
-    "desc": "The ODI World Cup 2027 is looming on the horizon, and there is no doubt that the Indian team is being regarded as one of the biggest favourites for the title in the upcoming tournament...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kris-srikkanth-backs-the-inclusion-of-veteran-all-rounder-in-india-s-odi-squad-2026-07-25-1049368",
-    "time": "2026-07-25T06:23:54.000Z"
   }
 ];

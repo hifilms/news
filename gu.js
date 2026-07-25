@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "જીતના જશ્ન વચ્ચે ટીમ ઈન્ડિયાને લાગ્યો મોટો ઝટકો, સ્ટાર ખેલાડી ઈજાગ્રસ્ત",
+    "desc": "T20 ફોર્મેટમાં સતત બે શ્રેણીમાં હારનો સામનો કર્યા બાદ ટીમ ઈન્ડિયા દબાણમાં હોય તેવું લાગતું હતું. જો કે, ટીમે ઝિમ્બાબ્વે સામે શાનદાર વાપસી કરી છે. છતાં જીતની સાથે ટીમ ઈન્ડિયાને હરારેમાં મોટો ઝટકો લાગ્યો છે, એક સ્ટાર ખેલાડી ઈજાગ્રસ્ત થયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-zim-2nd-t20-big-blow-for-team-india-prince-yadav-injured-485753 ",
+    "time": "2026-07-25T16:23:52.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "ભારતમાં કેવી રીતે નક્કી થાય છે વળતર, CJPની માંગ વચ્ચે જાણી લો નિયમો? જાણો કયા કેસમાં કેટલું અને કેવી રીતે મળે છે કોમ્પેન્સેશન",
     "desc": "ધર્મેન્દ્ર પ્રધાને શિક્ષણ મંત્રીના પદ પરથી રાજીનામું આપી દીધું છે. CJPની માંગ પેપર લીક પછી આત્મહત્યા કરનાર વિદ્યાર્થીઓના પરિવારજનોને વળતર આપવાની છે. ત્યારે બધાના મનમાં એક પ્રશ્ન ચોક્કસપણે ઉદ્ભવે છે આખરો વળતર કેવી રીતે નક્કી થાય છે અને શું છે તેના નિયમો, ચાલો જાણીએ.",
@@ -331,15 +340,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/ipo-made-fortunes-shine-13-people-became-millionaires-from-sbi-funds-ipo-one-got-a-whopping-121-crore-know-485356 ",
     "time": "2026-07-21T10:18:07.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ફરી મોંઘું થયું પેટ્રોલ-ડીઝલ ? શું ગેસના ભાવ પણ વધશે ? જાણો શું છે આજના ભાવ",
-    "desc": "યમનના હૂતી વિદ્રોહીઓએ સાઉદી અરેબિયા સામે દરિયાઈ નાકાબંધી કરી છે. લાલ સમુદ્રમાં ઓઈલ પુરવઠામાં વિક્ષેપને કારણે ભારતમાં પેટ્રોલ, ડીઝલ અને ગેસના ભાવ વધવાનું જોખમ વધી ગયું છે. ત્યારે આજના ભાવ શું છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-and-lpg-gas-cylinder-price-hike-alert-cheack-latest-rate-485351 ",
-    "time": "2026-07-21T09:42:45.000Z"
   },
   {
     "cat": "Sports",
