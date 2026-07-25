@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India vs Zimbabwe 2nd T20I Pitch Report, how will surface in Harare play?",
+    "desc": "The stage is set for the 2nd T20I of the ongoing series between India and Zimbabwe. The two sides are slated to meet at the Harare Sports Club on July 25, and both teams will...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-zimbabwe-2nd-t20i-pitch-report-how-will-surface-in-harare-play-2026-07-25-1049349",
+    "time": "2026-07-25T01:33:05.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Indian team launches 'best attitude award' after first T20I vs Zimbabwe, who won the first medal?",
     "desc": "India's team management has introduced a new “Best Attitude Award” during the ongoing T20I series against Zimbabwe. Middle-order batter Tilak Varma became the first recipient after the opening match in Harare. The initiative has been...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/i-ll-not-give-my-full-effort-in-the-commonwealth-games-my-focus-is-the-asian-games-mirabai-chanu-2026-07-24-1049289",
     "time": "2026-07-24T10:10:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Aakash Chopra hails India youngster after 19-ball blitzkrieg against Zimbabwe",
-    "desc": "The Indian team took the lead in the ongoing three-game series against Zimbabwe. Taking on the side in Harare for the first T20I, the Men in Blue managed to win the game by seven wickets,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/aakash-chopra-hails-india-youngster-after-19-ball-blitzkrieg-against-zimbabwe-2026-07-24-1049283",
-    "time": "2026-07-24T09:21:19.000Z"
   }
 ];
