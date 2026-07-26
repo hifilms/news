@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India reclaim top spot in ICC T20I rankings after thumping victory over Zimbabwe in Harare",
+    "desc": "The Indian team put forth a brilliant showing in the second T20I of the ongoing three-game series, registering a 90-run victory to clinch the series. The Men in Blue have been in good form in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-reclaim-top-spot-in-icc-t20i-rankings-after-thumping-victory-over-zimbabwe-in-harare-2026-07-26-1049448",
+    "time": "2026-07-26T07:35:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India vs Zimbabwe 3rd T20I Pitch Report, how will surface in Harare play?",
+    "desc": "The stage is set for the third and final T20I of the ongoing series between India and Zimbabwe. The two sides are slated to take on each other at the Harare Sports Club on July...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-zimbabwe-3rd-t20i-pitch-report-how-will-surface-in-harare-play-2026-07-26-1049443",
+    "time": "2026-07-26T06:16:05.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Anahat Singh creates history as first Indian to win World Junior Squash Championship",
     "desc": "Indian squash sensation Anahat Singh has scripted history by becoming the first Indian ever to win the World Junior Squash Championships. The 18-year-old defeated Egypt's Ruqayya Salem in the girls' singles final at the 2026...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/sahal-abdul-samad-strikes-as-mohun-bagan-beat-east-bengal-in-durand-cup-opener-watch-2026-07-25-1049406",
     "time": "2026-07-25T13:57:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vini Jr's Brazil coming to India for a friendly match? Everything you need to know",
-    "desc": "Brazil are set to return to international action with a three-match programme during the first FIFA international window following the 2026 FIFA World Cup. One of those fixtures could take place in India if ongoing...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/vini-jr-s-brazil-coming-to-india-for-a-friendly-match-everything-you-need-to-know-2026-07-25-1049401",
-    "time": "2026-07-25T12:19:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Where to watch Pakistan vs West Indies 1st Test live on TV and stream online in India?",
-    "desc": "West Indies host Pakistan for a two-match Test series, starting Saturday, July 25 in Tarouba, Trinidad. Babar Azam, who returned to captaincy, will seek Pakistan’s first win in the World Test Championship cycle, but most...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/where-to-watch-pakistan-vs-west-indies-1st-test-live-on-tv-and-stream-online-in-india-2026-07-25-1049395",
-    "time": "2026-07-25T11:26:04.000Z"
   }
 ];

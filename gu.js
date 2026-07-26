@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "કારગિલ યુદ્ધના રિયલ હીરોની સ્ટોરી દર્શાવતી ફિલ્મો, ઓટીટી પર જુઓ આજે જ",
+    "desc": "26 જુલાઈએ કારગિલ વિજય દિવસની ઉજવણી કરવામાં આવી રહી છે ત્યારે આ દિવસને વધારે યાદગાર બનાવો બોલીવુડની એ 4 ફિલ્મો સાથે જેને જોઈને તમને ભારતીય હોવા પર ગર્વ થશે. આ ફિલ્મોમાં કારગિલ યુદ્ધની સ્ટોરી જોવા મળે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/4-bollywood-movies-based-on-kargil-war-must-watch-patriotic-movies-on-kargil-vijay-diwas-2026-485790 ",
+    "time": "2026-07-26T07:44:09.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "&amp;#039;આ અંત નથી, શરૂઆત છે...&amp;#039; 37 દિવસના વિરોધ પ્રદર્શન પછી, CJP ચીફ સરકાર માટે એક મોટો સંદેશ, કહી આ વાત",
     "desc": "ધર્મેન્દ્ર પ્રધાનના રાજીનામા અને 37 દિવસના વિદ્યાર્થીઓના વિરોધ પ્રદર્શનના અંત બાદ, CJPના વડા અભિજીત દિપકેએ કહ્યું કે આ લડાઈનો અંત નથી, પરંતુ શરૂઆત છે. ટાઇફોઇડથી પીડિત દિપકેએ સમર્થકો અને ટીકાકારો બંનેનો આભાર માન્યો અને આગળ લાંબા સંઘર્ષ માટે તેમના સંકલ્પનો પુનરોચ્ચાર કર્યો છે.",
@@ -412,15 +421,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/mia-khalifa-win-rs-15-crore-after-placing-rs-10-crore-bet-on-spain-485273 ",
     "time": "2026-07-20T14:05:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ઇંગ્લેન્ડ પ્રવાસ પૂરો, ટીમ ઇન્ડિયા હવે ક્યારે અને કોની સામે રમશે આગામી મેચ ? નોટ કરી લો તારીખ અને સમય",
-    "desc": "ભારતીય ટીમનો ઇંગ્લેન્ડ પ્રવાસ પૂરો થઈ ગયો છે. ટીમે આ પહેલા જ આગામી શ્રેણી માટે તૈયારીઓ શરૂ કરી દીધી છે. ભારત હવે ઝિમ્બાબ્વે સામે ત્રણ મેચની T20 શ્રેણી રમવા જઈ રહ્યું છે, ત્યારે આ શ્રેણી ક્યારથી શરૂ થશે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/team-india-next-match-against-zimbabwe-t20-series-know-date-and-time-485246 ",
-    "time": "2026-07-20T09:24:55.000Z"
   },
   {
     "cat": "Entertainment",
