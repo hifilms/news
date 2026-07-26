@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Anahat Singh creates history as first Indian to win World Junior Squash Championship",
+    "desc": "Indian squash sensation Anahat Singh has scripted history by becoming the first Indian ever to win the World Junior Squash Championships. The 18-year-old defeated Egypt's Ruqayya Salem in the girls' singles final at the 2026...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/anahat-singh-first-indian-world-junior-squash-champion-2026-07-26-1049426",
+    "time": "2026-07-26T01:21:25.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Shreyas Iyer shares update on Prince Yadav, lauds Ishan Kishan, Tilak Varma after series win vs Zimbabwe",
     "desc": "India pacer Prince Yadav was forced to leave the field in the second T20I against Zimbabwe in Harare. He appeared to have hurt his hamstring while delivering the second ball of his second over. The...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/where-to-watch-pakistan-vs-west-indies-1st-test-live-on-tv-and-stream-online-in-india-2026-07-25-1049395",
     "time": "2026-07-25T11:26:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India beat Zimbabwe by 90 runs to seal T20I seies",
-    "desc": "India play Zimbabwe in the second T20I of the three-match series on Saturday, July 25 at the Harare Sports Club. Shreyas Iyer’s side enters the contest with a 1-0 lead after a comprehensive seven-wicket victory...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-zim-1st-t20i-live-cricket-score-india-vs-zimbabwe-latest-match-updates-scorecard-teams-playing-xis-reactions-sooryavanshi-abhishek-1049388",
-    "time": "2026-07-25T10:25:02.000Z"
   }
 ];

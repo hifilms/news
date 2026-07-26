@@ -1,5 +1,167 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Russell Brand comments about Katy Perry-Justin Trudeau’s relationship",
+    "desc": "In a humorous commentary, Russell Brand playfully remarked on Katy Perry's current relationship with Canadian Prime Minister Justin Trudeau, suggesting that her past romance with him has bled into her new partnership. This isn't the first time Brand has made such observations; he previously touched on this topic at an event in 2025. He also reflected on their year-long marriage, attributing their separation to relatable human experiences.",
+    "img": "https://static.toiimg.com/photo/msid-132635639,imgsize-87084.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/russell-brand-jokes-about-ex-katy-perry-and-justin-trudeaus-romance-you-took-it-too-far-kp/articleshow/132635608.cms",
+    "time": "2026-07-26T02:05:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delhi Police likely to withdraw FIRs as agitation ends, says DCP",
+    "desc": "The officer, however, refused to comment on the alleged use of excessive force during the July 20 Parliament protest march, the identification of police officers who were in plainclothes and without badges, and allegations that women were harassed on that day.",
+    "img": "https://th-i.thgim.com/public/incoming/osmvx7/article71268540.ece/alternates/LANDSCAPE_1200/CJP%20PROTEST%20JANTAR%20MANTAR_25_07_83.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/delhi-police-likely-to-withdraw-firs-as-agitation-ends-says-dcp/article71267499.ece",
+    "time": "2026-07-26T01:46:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Once a vegetable seller &amp; e-rickshaw driver, Jhandu now earns spot on CWG podium",
+    "desc": "Jhandu finished with 130.9 points after a best lift of 190kg, becoming India’s first medallist at this edition of the Commonwealth Games. Yet, for the national record holder, the medal meant a lot more than a place on the podium.",
+    "img": "https://static.toiimg.com/photo/msid-132633033,imgsize-383137.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/once-a-vegetable-seller-e-rickshaw-driver-jhandu-now-earns-spot-on-cwg-podium/articleshow/132632555.cms",
+    "time": "2026-07-26T01:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "How Jyotika helped shape 'Vishwanath And Sons'",
+    "desc": "Suriya's upcoming romantic drama 'Vishwanath And Sons' is highly anticipated for its August 2026 release. Actress Jyotika provided valuable script feedback during the film's development process. Director Venky Atluri expressed confidence in the audience's positive reception to the story. Initial casting debates for Mamitha Baiju subsided after the teaser release. The film has reportedly secured a significant Rs 45 crore Tamil Nadu distribution deal.",
+    "img": "https://static.toiimg.com/photo/msid-132635490,imgsize-145276.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jyotika-maam-gave-a-few-suggestions-for-the-film-venky-atluri-shares-how-suriyas-wife-helped-shape-vishwanath-and-sons/articleshow/132635482.cms",
+    "time": "2026-07-26T01:22:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Katy Perry slams White House for using her song without permission",
+    "desc": "Katy Perry expressed her frustration after the White House utilized her song 'Firework' in a military-themed video without obtaining permission. She emphasized that her song embodies messages of hope and positivity, not conflict. The incident prompted backlash from fellow artists, including Ariana Grande and Kenny Loggins, showcasing the growing tensions surrounding the unauthorized use of music by governmental entities.",
+    "img": "https://static.toiimg.com/photo/msid-132635488,imgsize-31574.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/katy-perry-calls-out-white-house-for-using-her-song-firework-complete-violation-of-everything-my-song-stands-for/articleshow/132635465.cms",
+    "time": "2026-07-26T01:21:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Michael Sheen",
+    "desc": "After taking a step back from Hollywood, Michael Sheen established his own Welsh National Theatre, emphasizing his dedication to local culture. In 2027, he is set to return to the West End with a new rendition of Amadeus. Meanwhile, this autumn, he will participate in the reality show Celebrity Traitors, showcasing his belief in transforming challenges into purposeful endeavors through his diverse career choices.",
+    "img": "https://static.toiimg.com/photo/msid-132635470,imgsize-189622.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-michael-sheen-no-matter-how-difficult-things-are-and-no-matter-how-much-grief-and-loss-there-is-you-can-turn-it-into-something-positive-when-the-good-omens-star-shared-a-timeless-life-lesson-on-resilience/articleshow/132635458.cms",
+    "time": "2026-07-26T01:20:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Gens Una Sumus'",
+    "desc": "India's young Grandmaster Aarav Dengla has played chess against opponents of every age and from countries across the world. In his debut The Grandmaster View column, he reflects on the three Latin words beneath the FIDE emblem that first caught his attention as a seven-year-old. Through memories from tournament halls and the quiet rituals that follow every game, Aarav explores how Gens Una Sumus - \"We are one family\" - is more than just the sport's motto; it is the enduring spirit of chess itself.",
+    "img": "https://static.toiimg.com/photo/msid-132635469,imgsize-1147231.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/gens-una-sumus-what-three-latin-words-beneath-a-chess-emblem-taught-me-about-the-world/articleshow/132635468.cms",
+    "time": "2026-07-26T01:17:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hodge's unbeaten 83 helps WI reach 194/3 vs Pakistan on Day 1",
+    "desc": "Kavem Hodge scored an unbeaten 83, guiding West Indies to 194/3 on day one. Rain and bad light limited play to just 67 overs during the match. Mohammad Abbas took two early wickets for Pakistan, which struggled to contain runs. Hodge and Shai Hope built an unbroken 88-run partnership for the fourth wicket. Both teams entered the series at the bottom of the World Test Championship standings.",
+    "img": "https://static.toiimg.com/photo/msid-132635446,imgsize-31596.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/wi-vs-pak-1st-test-kavem-hodges-unbeaten-83-helps-west-indies-reach-194/3-against-pakistan-on-rain-hit-day-1/articleshow/132635442.cms",
+    "time": "2026-07-26T01:06:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Chennai Love Story' earns Rs 4.95 Cr India Net",
+    "desc": "Kiran Abbavaram and Sri Gouri Priya's film Chennai Love Story opened positively. The romantic drama collected Rs 4.95 crore India net on its first day. Worldwide gross collections for the film reached Rs 8.29 crore on opening day. Andhra Pradesh and Telangana contributed significantly to the film's opening earnings. The movie explores healing and personal growth with a grounded narrative.",
+    "img": "https://static.toiimg.com/photo/msid-132635440,imgsize-358625.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/chennai-love-story-box-office-collection-day-1-kiran-abbavaram-film-opens-well-earns-rs-4-95-cr-india-net/articleshow/132635433.cms",
+    "time": "2026-07-26T01:04:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jackie Chan's stunt team choreographed action for 'Spider-Man: Brand New Day'",
+    "desc": "Brand New Day, led by director Destin Daniel Cretton, who embraces a martial arts approach to the film. Tom Holland expresses admiration for Chan as a legendary figure and supporter of the project. With Chan visiting the London set, his team's impactful contributions are confirmed. Fans can anticipate the film's release on July 31, 2026.",
+    "img": "https://static.toiimg.com/photo/msid-132635424,imgsize-146902.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/spider-man-brand-new-day-jackie-chans-stunt-team-brings-martial-arts-inspired-action-to-tom-hollands-starrer/articleshow/132635416.cms",
+    "time": "2026-07-26T01:04:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Is Rajinikanth planning to tell his life story?",
+    "desc": "Rajinikanth is crafting his autobiography, chronicling the fascinating arc of his life. Furthermore, there are discussions around turning his life story into a film. His next projects include 'Jailer 2' and 'Dharman.' Simran, who reunites with the megastar for 'Dharman,' shared her delight, labeling him as an inspiring and humble figure worthy of admiration.",
+    "img": "https://static.toiimg.com/photo/msid-132635394,imgsize-88770.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rajinikanth-autobiography-is-jailer-2-star-planning-to-tell-his-life-story-heres-what-we-know/articleshow/132635389.cms",
+    "time": "2026-07-26T00:42:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Is Yami set to take over from Vidya in Kahaani 3?",
+    "desc": "Reports suggest Yami Gautam may replace Vidya Balan in 'Kahaani 3'. Director Sujoy Ghosh's franchise began with 'Kahaani' (2012) and 'Kahaani 2' (2016), both starring Balan. The third installment is reportedly a fresh story with Gautam leading, still in pre-production. Gautam is also filming 'Nayyi Navelli', a Maddock Films supernatural drama.",
+    "img": "https://static.toiimg.com/photo/msid-132635392,imgsize-132423.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/is-yami-gautam-set-to-take-over-from-vidya-balan-in-kahaani-3-heres-what-we-know/articleshow/132635392.cms",
+    "time": "2026-07-26T00:40:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘The Odyssey’ BO day 9: Matt Damon starrer adds Rs 11.05 crore to the tally",
+    "desc": "Christopher Nolan's ambitious film 'The Odyssey' has become a box office sensation, surpassing the Rs 100 crore milestone in India within just nine days of release. With a remarkable global total of USD 368 million, the film's English screenings have driven significant revenue. However, the upcoming releases could influence its ongoing box office journey.",
+    "img": "https://static.toiimg.com/photo/msid-132635385,imgsize-150914.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/the-odyssey-box-office-collection-day-9-christopher-nolans-epic-drama-nears-the-rs-135-crore-threshold/articleshow/132635377.cms",
+    "time": "2026-07-26T00:36:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Karavali’ earns Rs 1.82 Cr India Net",
+    "desc": "Prajwal Devaraj's film Karavali opened steadily at the box office on July 24, 2026. The action drama earned Rs 1.82 crore India net on its opening day. Early audience reactions praised the film's visuals and coastal Karnataka atmosphere. Some viewers found the screenplay could have been more engaging in parts. The movie authentically presents Kambala culture with strong performances and technical craftsmanship.",
+    "img": "https://static.toiimg.com/photo/msid-132635367,imgsize-273902.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/karavali-box-office-collections-day-1-prajwal-devaraj-raj-b-shetty-starrer-earns-rs-1-82-cr-india-net-opens-steady/articleshow/132635364.cms",
+    "time": "2026-07-26T00:21:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Jana Nayagan' BO day 3: Thalapathy Vijay film jumps 34.8%",
+    "desc": "Jana Nayagan showed a strong box office recovery on its first Saturday. The action film earned Rs 28.50 crore India net, marking a significant increase. This performance brought the three-day India net collection close to Rs 100 crore. Worldwide gross collections for the movie have now reached Rs 171.84 crore. Tamil Nadu continues to be the highest-performing territory for the film.",
+    "img": "https://static.toiimg.com/photo/msid-132635304,imgsize-421970.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-box-office-collections-day-3-thalapathy-vijay-film-jumps-34-8-crosses-rs-92-35-cr-india-net/articleshow/132635282.cms",
+    "time": "2026-07-26T00:00:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Will push for lowering contesting age for MLA, MP to 21: Telangana CM Revanth",
+    "desc": "Recalling constitutional reforms that expanded youth participation, the Chief Minister said former Prime Minister Rajiv Gandhi reduced the voting age from 21 to 18 through the 61st Constitutional Amendment, recognising the voice of young India",
+    "img": "https://th-i.thgim.com/public/incoming/i094s6/article71267132.ece/alternates/LANDSCAPE_1200/CM-for-immediatGEPG76LNH.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telangana/will-push-for-lowering-contesting-age-for-mla-mp-to-21-revanth/article71267073.ece",
+    "time": "2026-07-25T23:18:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "AISA calls for ‘Bihar Bandh’ on July 25, against police lathi charge on protesting students",
+    "desc": "Protest and dharna continue in several districts of Bihar against the alleged NEET paper leak. Last evening, Jehanabad police had to open 20 to 30 rounds of fire after protesters pelted stones at the official residence of the District Magistrate",
+    "img": "https://th-i.thgim.com/public/incoming/b5355p/article71264171.ece/alternates/LANDSCAPE_1200/PTI07_24_2026_000148A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/aisa-calls-for-bihar-bandh-on-july-25/article71262933.ece",
+    "time": "2026-07-25T22:06:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Don't retire yet': Di María makes desperate plea to Lionel Messi after Argentina's World Cup agony",
+    "desc": "Ángel Di María has urged Lionel Messi to continue his Argentina career despite their heartbreaking 2026 World Cup final defeat to Spain. Di María praised Messi’s performances and said the captain can play for many more years if he chooses. He also backed Lionel Scaloni to remain in charge as Argentina look to build around their next generation of talent.",
+    "img": "https://static.toiimg.com/photo/msid-132633331,imgsize-55376.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/dont-retire-yet-di-mara-makes-desperate-plea-to-lionel-messi-after-argentinas-world-cup-agony/articleshow/132633320.cms",
+    "time": "2026-07-25T21:31:12.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "UP govt reconstitutes SIT; IG Kiran S to lead probe",
     "desc": "Uttar Pradesh government formed a new SIT to investigate alleged embezzlement of temple offerings. This team, led by senior IPS officers, replaces the earlier investigation panel. The Supreme Court directed the state to form a fresh SIT under a senior IPS officer. Investigators previously examined financial records and questioned temple staff about donation irregularities. The new SIT will submit its findings to the Supreme Court on July 27.",
@@ -79,6 +241,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajesh-khanna-wanted-divorce-from-dimple-kapadia-but-she-refused-had-big-demands-says-his-live-in-partner-anita-advani-as-she-opens-up-on-her-plea-in-court-seeking-recognition-sab-kuch-hamare-naam-kardo/articleshow/132631903.cms",
     "time": "2026-07-25T18:49:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bulldozers versus books",
+    "desc": "A demolition notice against 38 buildings of Mohammad Ali Jauhar University has triggered student protests, with the university alleging political targeting and the administration insisting on enforcing planning laws. Anuj Kumar explores the debate around Azam Khan’s legacy, the future of minority education in Rampur, and the political stakes ahead of the Uttar Pradesh Assembly election",
+    "img": "https://th-i.thgim.com/public/life-and-style/j0nin1/article71265936.ece/alternates/LANDSCAPE_1200/1000044090.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/bulldozers-versus-books/article71265953.ece",
+    "time": "2026-07-25T18:38:13.000Z"
   },
   {
     "cat": "Sports",
@@ -171,15 +342,6 @@ const newsData_en = [
     "time": "2026-07-25T17:14:54.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Drop Shot Ep. 4",
-    "desc": "In this episode, we capture the excitement surrounding Vijay’s Jana Nayagan as fans celebrate what could be the actor’s final film and director H. Vinoth shares insights into the much-awaited release. We then explore The Keeper of the Wells, as Chennai-based author Zhayynn James discusses his debut novel inspired by the historic Seven Wells neighbourhood of North Chennai. Finally, we head to Mumbai for a look at designer Gaurav Gupta’s latest bridal couture collection, Light Song, where sculptural silhouettes, intricate craftsmanship and contemporary design redefine modern bridal fashion.",
-    "img": "https://th-i.thgim.com/public/news/national/ebb04v/article71267292.ece/alternates/LANDSCAPE_1200/Screenshot%202026-07-25%20at%2010.26.36%E2%80%AFPM.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-drop-shot-ep-4-jana-nayagan-fever-the-keeper-of-the-wells-gaurav-guptas-light-song/article71267288.ece",
-    "time": "2026-07-25T17:12:51.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Ramayana' trailer leaked again, shows Yash's entry as Raavan, netizens react",
     "desc": "The Ramayana trailer release, planned for July 24, 2026, has been unexpectedly postponed. Multiple leaked clips from the unreleased promo have now appeared online, sparking fan discussion. Viewers expressed excitement about the film's grand scale and visuals despite the footage quality. Concerns were raised about security measures failing to prevent the trailer's premature online debut. The makers have yet to announce a revised release date for the official trailer.",
@@ -187,24 +349,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-trailer-leaked-again-shows-yashs-entry-as-raavan-netizens-urge-the-makers-of-the-ranbir-kapoor-starrer-to-drop-it-officially-they-should-have-stronger-security-measures/articleshow/132630483.cms",
     "time": "2026-07-25T17:08:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Sharad Pawar says PM may have heeded his advice to hold talks with protesting youth",
-    "desc": "Education Minister’s resignation is a victory for the unity of youth power, says Mr. Pawar; youth have rid India of fear, say Thackeray cousins, continuing plans for the Tiranga March, a protest rally turned celebration",
-    "img": "https://th-i.thgim.com/public/incoming/cgup3d/article71266353.ece/alternates/LANDSCAPE_1200/PTI07_22_2026_000061B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/had-urged-pm-to-hold-talks-with-cjp-he-may-have-heeded-my-advice-sharad-pawar/article71266300.ece",
-    "time": "2026-07-25T17:08:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CJP Protest: Mumbai’s young voices on accountability and change| Pulse Maharashtra",
-    "desc": "A ground report from Mumbai exploring how Gen Z views the CJP agitation, the issues that brought young people into the movement, and their expectations around accountability, reforms, and change. Hear directly from young voices as they share their perspectives on the protest and its impact.",
-    "img": "https://th-i.thgim.com/public/news/national/31qnhy/article71267323.ece/alternates/LANDSCAPE_1200/Karnataka%E2%80%93MahaRASHTRA%20Border%20Dispute%20Why%20No%20Solution%201.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-cjp-protest-mumbais-young-voices-on-accountability-and-change-pulse-maharashtra/article71267282.ece",
-    "time": "2026-07-25T17:07:51.000Z"
   },
   {
     "cat": "Sports",
@@ -270,15 +414,6 @@ const newsData_en = [
     "time": "2026-07-25T15:28:56.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Serious charges': Court rejects retired judge Giribala Singh's bail plea in Twisha Sharma case",
-    "desc": "A Bhopal court rejected retired judge Giribala Singh's bail plea. She is accused in the dowry death of former model Twisha Sharma. The court cited the serious nature of the charges against the accused. The CBI opposed bail, citing alleged attempts to influence the investigation. Giribala Singh remains in custody as the probe continues.",
-    "img": "https://static.toiimg.com/photo/msid-132629151,imgsize-97822.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/serious-charges-court-rejects-retired-judge-giribala-singhs-bail-plea-in-twisha-sharma-case/articleshow/132628748.cms",
-    "time": "2026-07-25T15:17:05.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Gymnast Gabriel Langton suffers frightening head-first fall at CWG 2026",
     "desc": "England gymnast Gabriel Langton suffered a severe head-first fall during the men's team final. This terrifying incident cast a shadow over the competition and halted proceedings. Canada secured their first men's team gymnastics gold medal in twenty years. Rival gymnasts expressed concern and offered support for the injured athlete. Langton was conscious and speaking with doctors before being taken to hospital.",
@@ -325,24 +460,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Haaland brings 'Viking row' to Donnarumma's wedding as WC craze lives on",
-    "desc": "Manchester City striker Erling Haaland led guests in the Viking row celebration. This famous chant became synonymous with Norway's World Cup campaign. The event occurred during teammate Gianluigi Donnarumma's wedding festivities in Italy. Many prominent football personalities attended the lavish ceremony. Haaland's revival ensured the celebration's continued resonance with fans.",
-    "img": "https://static.toiimg.com/photo/msid-132627227,imgsize-165126.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/off-the-field/watch-erling-haaland-brings-viral-viking-row-to-gianluigi-donnarummas-wedding-as-world-cup-craze-lives-on/articleshow/132627167.cms",
-    "time": "2026-07-25T13:44:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Goons and their future generations will remember': Bengal invokes 'Goonda Act' over NEET protest violence in first use of law",
-    "desc": "West Bengal invoked its new Goonda Act against those accused of violence during a recent NEET protest. Chief Minister Suvendu Adhikari announced the action, condemning the attacks on journalists. Around seventy individuals identified from the rally were not students and had no protest connection. Seven FIRs were registered, incorporating provisions of the recently passed Goonda Act. The police exercised maximum restraint despite repeated provocations during the demonstration.",
-    "img": "https://static.toiimg.com/photo/msid-132626887,imgsize-206952.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/goons-and-their-future-generations-will-remember-bengal-invokes-goonda-act-over-neet-protest-violence-in-first-use-of-law/articleshow/132626814.cms",
-    "time": "2026-07-25T13:34:38.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "India script history, equal world record for most 200-plus T20I totals in a year",
     "desc": "India achieved their ninth 200-plus total in T20Is for 2026. This performance matches their own world record set previously in 2024. Ishan Kishan and Tilak Varma led the strong batting effort against Zimbabwe. They built crucial partnerships after an early batting collapse. India's batting continues to set new standards in the shortest format.",
     "img": "https://static.toiimg.com/photo/msid-132626496,imgsize-200770.cms",
@@ -369,15 +486,6 @@ const newsData_en = [
     "time": "2026-07-25T13:01:15.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "What opposition can learn from CJP-led student protests",
-    "desc": "In a remarkable turn of events, student protests led to resignation of Union minister Dharmendra Pradhan, showcasing the power of grassroots activism. The Cockroach Janata Party, born from online memes, played a pivotal role in this uprising. Climate activist Sonam Wangchuk's hunger strike also fueled the movement's progress, raising critical questions for opposition parties regarding their involvement in such significant demonstrations.",
-    "img": "https://static.toiimg.com/photo/msid-132626421,imgsize-123659.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dharmendra-pradhan-quits-what-opposition-can-learn-from-cjp-led-students-protest/articleshow/132625147.cms",
-    "time": "2026-07-25T12:50:23.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Manoj Muntashir backs student agitation; warns youth is being misled",
     "desc": "Lyricist Manoj Muntashir has openly expressed his support for the students demonstrating against the NEET paper leak. He asserts that accountability is crucial for all involved in the examination process. While questioning both the leadership and representation of the protests at Jantar Mantar, he advocated for comprehensive reforms, emphasizing that the current system is deeply flawed and requires urgent attention.",
@@ -385,123 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/neet-paper-leak-manoj-muntashir-says-students-should-be-listened-to-but-he-feels-the-youth-is-being-misled-exclusive/articleshow/132625597.cms",
     "time": "2026-07-25T12:42:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rupa Rani, Pinki stay unbeaten as Indian duo closes in on women's pairs semis",
-    "desc": "India's women's lawn bowls pair Rupa Rani Tirkey and Pinki Singh won their third match. They defeated Tonga in a tense tie-breaker to advance in the competition. This victory keeps their unbeaten run alive at the Commonwealth Games 2026. Meanwhile, Indian swimmers Dhakshan Shashikumar and Aryan Nehra did not qualify for finals. They competed in the men's 400m freestyle event at the swimming centre.",
-    "img": "https://static.toiimg.com/photo/msid-132625335,imgsize-129152.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-rupa-rani-tirkey-pinki-singh-stay-unbeaten-as-india-closes-in-on-womens-pairs-semifinals/articleshow/132625370.cms",
-    "time": "2026-07-25T12:06:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Dharmendra Pradhan's resignation: Priyanka, Alia, Vicky and others celebrate the victory",
-    "desc": "Union Education Minister Dharmendra Pradhan has submitted his resignation to Prime Minister Narendra Modi. This development follows weeks of student protests concerning the NEET exam controversy. Many students celebrating the minister's resignation gathered at Jantar Mantar. Several Bollywood celebrities reacted positively to the news on social media platforms. Pradhan stated he took responsibility for the situation and respected youth aspirations.",
-    "img": "https://static.toiimg.com/photo/msid-132625019,imgsize-309012.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dharmendra-pradhans-resignation-priyanka-chopra-jonas-alia-bhatt-vicky-kaushal-and-others-celebrate-the-victory/articleshow/132624969.cms",
-    "time": "2026-07-25T11:45:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Christopher Nolan admits being afraid to direct THIS genre",
-    "desc": "Filmmaker Christopher Nolan admits fear of directing romantic comedies. He finds making audiences laugh incredibly difficult and risky. Nolan shared this during an appearance on The Tonight Show. He also recounted an incident where film footage was almost lost. The director's film 'The Odyssey' continues to perform well at the box office.",
-    "img": "https://static.toiimg.com/photo/msid-132624833,imgsize-199093.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/christopher-nolan-admits-being-afraid-to-direct-this-genre-i-think-thats-one-of-the-hardest-things/articleshow/132624809.cms",
-    "time": "2026-07-25T11:34:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Prakash Raj reacts to Dharmendra Pradhan's resignation",
-    "desc": "Actor Prakash Raj congratulated protesters following Dharmendra Pradhan's resignation. He praised their efforts for bringing a regime down to its knees. Dharmendra Pradhan announced his resignation in a public letter on X. He reflected on his commitment to students and education reforms. Celebrations followed the minister's resignation at Delhi's Jantar Mantar.",
-    "img": "https://static.toiimg.com/photo/msid-132624472,imgsize-142752.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/congratulations-my-dear-cockroaches-prakash-raj-reacts-to-dharmendra-pradhans-resignation/articleshow/132624450.cms",
-    "time": "2026-07-25T11:18:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shreyas Iyer's remarkable streak ends! India captain loses first T20I toss",
-    "desc": "Shreyas Iyer's remarkable eight-toss winning streak concluded in Harare on Saturday. Zimbabwe captain Sikandar Raza won the toss and chose to field first. Iyer admitted he would have preferred batting on the improved pitch conditions. Yash Thakur debuted for India, replacing Ashok Sharma in the lineup. Zimbabwe retained their unchanged playing eleven from the first match.",
-    "img": "https://static.toiimg.com/photo/msid-132624457,imgsize-132112.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/shreyas-iyers-remarkable-streak-ends-india-captain-loses-first-t20i-toss/articleshow/132624443.cms",
-    "time": "2026-07-25T11:17:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Dharmendra Pradhan's resigns: 'Dhurandhar' star Ayesha Khan celebrates",
-    "desc": "Actress Ayesha Khan actively endorsed the resignation of the Education Minister today, labeling it a monumental win for the protesting community. She demanded accountability and called for compensation to be granted to the families of victims. Additionally, she urged the public to remember the unfair FIRs imposed on students, reflecting on her own experience of being detained at a protest.",
-    "img": "https://static.toiimg.com/photo/msid-132624373,imgsize-126714.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dharmendra-pradhans-resignation-dhurandhar-actress-ayesha-khan-celebrates-days-after-being-detained-at-neet-protest-in-mumbai/articleshow/132624294.cms",
-    "time": "2026-07-25T11:15:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Inside 'Jana Nayagan' actor Mamitha Baiju's net worth and Kochi house",
-    "desc": "Mamitha Baiju's popularity is growing rapidly following her recent film successes. She is now reportedly charging between two and three crore rupees per movie. Her estimated net worth ranges from twenty to thirty crore rupees. Baiju owns a luxurious flat in Kochi valued at five crore rupees. She also maintains her family's ancestral home in Kottayam.",
-    "img": "https://static.toiimg.com/photo/msid-132623932,imgsize-79370.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/inside-mamitha-baijus-net-worth-and-rs-5-crore-kochi-house-a-look-at-jana-nayagan-stars-rising-fame-and-familys-ancestral-home/articleshow/132623909.cms",
-    "time": "2026-07-25T10:47:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Celebrities and star kids who changed their last names",
-    "desc": "Vivienne Jolie-Pitt has legally filed to remove 'Pitt' from her surname. This action follows similar petitions filed by her older siblings after turning eighteen. Nicolas Cage legally changed his name to the well-known 'Nick Cage' recently. Suri Cruise, daughter of Tom Cruise and Katie Holmes, now uses 'Noelle'. Angelina Jolie herself removed her father's surname 'Voight' in 2002.",
-    "img": "https://static.toiimg.com/photo/msid-132623822,imgsize-224969.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/celebrities-and-star-kids-who-changed-their-last-names-angelina-jolie-shiloh-jolie-nicolas-cage-and-others/articleshow/132623784.cms",
-    "time": "2026-07-25T10:36:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhamaal 4' BO Day 16 (Live): Ajay Devgn starrer surpasses Rs 166 crore",
-    "desc": "Dhamaal 4 continues its successful run at the box office, surpassing Rs 166 crore. The comedy film is drawing families to cinema halls even in its third week. On its sixteenth day, the movie collected Rs 1.11 crore net in India. Its total India net collection has now reached Rs 140.01 crore. The film aims to secure more earnings before new releases arrive.",
-    "img": "https://static.toiimg.com/photo/msid-132623495,imgsize-196932.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhamaal-4-box-office-collection-day-16-live-ajay-devgn-and-arshad-warsi-starrer-surpasses-rs-166-crore-in-india/articleshow/132623458.cms",
-    "time": "2026-07-25T10:21:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shabana Azmi net worth",
-    "desc": "Shabana Azmi and Javed Akhtar's combined net worth is approximately Rs 206 crore. Their impressive portfolio includes luxury properties in Mumbai and Khandala. The couple recently acquired a new apartment valued at Rs 7.76 crore. Javed Akhtar's individual net worth is estimated at Rs 167 crore. Shabana Azmi's personal net worth is estimated between Rs 40 crore and Rs 42 crore.",
-    "img": "https://static.toiimg.com/photo/msid-132622931,imgsize-183696.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shabana-azmi-net-worth-from-national-award-winning-debut-to-rs-206-crore-combined-wealth-with-javed-akhtar-read-details-here/articleshow/132622851.cms",
-    "time": "2026-07-25T09:41:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay Antony and Swasika's 'Nooru Saami' OTT release date confirmed",
-    "desc": "Vijay Antony's family drama Nooru Saami will premiere on Zee5. The film's digital release is scheduled for July thirty-first. This emotional story is inspired by real-life incidents and sacrifices. Swasika stars as the female lead in this Sasi directorial. The movie offers a second chance for audiences to experience its heartfelt narrative.",
-    "img": "https://static.toiimg.com/photo/msid-132622696,imgsize-252090.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/nooru-saami-ott-release-date-confirmed-when-and-where-to-watch-vijay-antony-and-swasikas-emotional-drama/articleshow/132622667.cms",
-    "time": "2026-07-25T09:37:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jim Carrey pays tribute to 'The Mask' director Chuck Russell",
-    "desc": "Actor Jim Carrey remembered director Chuck Russell, who helmed The Mask. Carrey called working with Russell a defining moment in his creative career. He praised Russell's ability to foster artistic collaboration and a sense of wonder. Russell passed away unexpectedly at his San Diego area home. His career included directing films like A Nightmare on Elm Street 3 and Eraser.",
-    "img": "https://static.toiimg.com/photo/msid-132622824,imgsize-138096.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jim-carrey-pays-tribute-to-the-mask-director-chuck-russell-calls-working-with-the-beloved-filmmaker-a-privilege/articleshow/132622619.cms",
-    "time": "2026-07-25T09:34:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Helen reveals she travelled to Paris for real feathers",
-    "desc": "Veteran dancer Helen shared details about sourcing unique accessories for her performances. She traveled abroad to find special items, including real feathers from Paris. Her elaborate costumes became defining visual signatures of classic Hindi cinema. Judges and co-stars celebrated Helen's significant influence on Bollywood fashion and dance. Helen's professionalism and natural ability earned her admiration from many.",
-    "img": "https://static.toiimg.com/photo/msid-132622796,imgsize-163474.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/helen-reveals-she-travelled-to-paris-for-real-feathers-says-my-jewelry-giant-goggles-and-accessories-were-all-picked-to-stay-ahead-of-the-time/articleshow/132622668.cms",
-    "time": "2026-07-25T09:30:54.000Z"
   },
   {
     "cat": "World",
@@ -810,15 +801,6 @@ const newsData_en = [
     "time": "2026-07-23T16:14:41.000Z"
   },
   {
-    "cat": "World",
-    "title": "Hundreds hospitalised in Japan heatwave 'disaster'",
-    "desc": "A total 453 people had hospital treatment for heat-related issues on Wednesday, the most since records began in 2010, the Tokyo Fire Department said. Emergency callouts were also at the highest level since at least 1963.",
-    "img": "https://th-i.thgim.com/public/incoming/kwoe4e/article71259238.ece/alternates/LANDSCAPE_1200/2026-07-23T071403Z_912739522_RC2FJMASSYO6_RTRMADP_3_ASIA-WEATHER-JAPAN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/hundreds-hospitalised-in-japan-heatwave-disaster/article71259210.ece",
-    "time": "2026-07-23T16:10:22.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Before ‘Jana Nayagan’: when an 18-year-old Vijay walked the halls of Loyola College",
     "desc": "Vijay’s maiden venture as a solo hero, Naalaiya Theerpu, helmed by S.A. Chandrasekhar, did not set the box office on fire; even as the audience response remained muted, the actor was noticed, and he won the Best New Face Actor award from Cinema Express",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/kujur-shelves-fastest-man-debate-owens-hails-indias-sprint-surge-ahead-of-cwg-and-asian-games/article71255450.ece",
     "time": "2026-07-22T22:26:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vijay’s ‘Jana Nayagan’ releases: Looking back at MGR’s ‘Meenava Nanban’ in 1977",
+    "desc": "Meenava Nanban. Leading newspapers of the time captured the pre-release buzz of this film, with film posters with only carrying the title ‘Makkal Thilagam’ and not ‘Chief Minister’. We catch up with T Rajappa Venkatachari – or ‘MGR Swami’, as he is known – who recalls watching the first day first show of the film in 1977 at Tirunelveli’s Central Theatre.",
+    "img": "https://th-i.thgim.com/public/incoming/4crmab/article71253649.ece/alternates/LANDSCAPE_1200/Orange%20%20White%20Minimalist%20Podcast%20Promotion%20YouTube%20Thumbnail.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/vijays-jana-nayagan-releases-looking-back-at-mgrs-meenava-nanban-in-1977-thalapathy/article71253661.ece",
+    "time": "2026-07-22T13:12:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Attack on Titan: The Last Attack’ movie review: A colossal political epitaph for the children of war",
+    "desc": "Returning at a moment when state violence and political repression feel alarmingly familiar, Hajime Isayama’s monumental saga remains one of this century’s most incisive examinations of how fear hardens into fascism and why the struggle for freedom never truly belongs to a single generation",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/gtzdl/article71253051.ece/alternates/LANDSCAPE_1200/hangerumbling.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/attack-on-titan-the-last-attack-movie-review-a-colossal-political-epitaph-for-the-children-of-war/article71253062.ece",
+    "time": "2026-07-22T11:18:05.000Z"
   }
 ];
