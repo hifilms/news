@@ -1,12 +1,210 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "'Govt-ordered probe an eyewash': Tripura Congress MLA demands judicial inquiry into DGP Anurag Dhankar's death",
+    "desc": "Tripura Congress MLA Sudip Roy Barman reiterated the party's demand for a judicial probe. He cited unnatural circumstances surrounding the death of state DGP Anurag Dhankar. The MLA called the government's investigation an eyewash and alleged the DGP faced issues. He expressed disappointment over the high court's lack of suo motu action. The officer had previously investigated the Nirav Modi fraud case.",
+    "img": "https://static.toiimg.com/photo/msid-132641519,imgsize-66117.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/govt-ordered-probe-an-eyewash-tripura-congress-mla-demands-judicial-inquiry-into-dgp-anurag-dhankars-death/articleshow/132641186.cms",
+    "time": "2026-07-26T12:39:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Raveena criticises protests hijacked by hooligans, political parties: 'Some just wanted to make reels'",
+    "desc": "Actress Raveena Tandon praised peaceful Mizoram protests and criticized others. She noted some demonstrations were hijacked by political groups and unruly elements. Tandon expressed hope for meaningful reforms in the education system. She denounced violence and damage to public property during protests. The actor advocated for eradicating corruption and ensuring education access for all.",
+    "img": "https://static.toiimg.com/photo/msid-132641373,imgsize-208067.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/raveena-tandon-criticises-protests-in-some-states-which-were-hijacked-by-hooligans-political-parties-some-just-wanting-to-make-reels-ultimately-it-was-a-victory-for-the-rightful-demands/articleshow/132641233.cms",
+    "time": "2026-07-26T12:28:47.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Israeli settlers set fire to West Bank mosques after deadly clash",
+    "desc": "Four Palestinians and two Israeli ⁠soldiers — one of them acting as a local security coordinator — had been killed when a crowd of Israeli settlers made an incursion around the Palestinian village of Tal, southwest of Nablus",
+    "img": "https://th-i.thgim.com/public/incoming/3438b2/article71269318.ece/alternates/LANDSCAPE_1200/2026-07-26T101719Z_64289039_RC2MLMAUDCGW_RTRMADP_3_ISRAEL-PALESTINIANS-VIOLENCE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/israeli-settlers-set-fire-to-west-bank-mosques-after-deadly-clash/article71269221.ece",
+    "time": "2026-07-26T12:24:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Will Travis Kelce’s marriage to Taylor Swift affect his NFL career?",
+    "desc": "Taylor Swift and Travis Kelce married on July 3, 2026, at Madison Square Garden. Their lavish wedding ceremony hosted over one thousand guests and many celebrities. Some guests reportedly felt excluded from the highly publicized event. A reporter suggests marriage brings stability, potentially improving Travis Kelce's game. The Kansas City Chiefs are preparing for training camp as the season approaches.",
+    "img": "https://static.toiimg.com/photo/msid-132641126,imgsize-277767.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/will-travis-kelces-marriage-to-taylor-swift-affect-his-nfl-career-heres-what-reports-suggest/articleshow/132641081.cms",
+    "time": "2026-07-26T12:13:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tom Holland hints at ‘mysterious villain’",
+    "desc": "Brand New Day film promises an adrenaline-filled chapter for fans. Actor Tom Holland teases a mysterious villain who can enter another person's mind. This new antagonist threatens Peter Parker's loved ones, which is his greatest fear. The movie explores Peter's complicated journey and coping with significant loss. Fans can anticipate twists and turns when the film releases on June 30, 2026.",
+    "img": "https://static.toiimg.com/photo/msid-132640993,imgsize-297520.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/spider-man-brand-new-day-tom-holland-hints-at-mysterious-villain-who-can-control-the-mind-in-new-promo-video/articleshow/132640984.cms",
+    "time": "2026-07-26T12:05:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "KSRTC staff will face action if free tickets are issued to men on Priyadarshini buses, says Kerala Transport Minister C.P. John",
+    "desc": "KSRTC to hire private buses during festival seasons to meet the increased travel demand, says Minister, who adds that the corporation had not purchased new buses over the past 10 years, leaving much of its fleet outdated",
+    "img": "https://th-i.thgim.com/public/incoming/rrxn2t/article71269241.ece/alternates/LANDSCAPE_1200/80688_21_7_2026_17_6_37_3_CPJOHN_KKN3.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/ksrtc-staff-will-face-action-if-free-tickets-are-issued-to-men-on-priyadarshini-buses-says-kerala-transport-minister-cp-john/article71269019.ece",
+    "time": "2026-07-26T12:04:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Trouble over temple land in Palani",
+    "desc": "First, it was Thirupparankundram. Now, it is Palani. South Tamil Nadu has been a hotbed of controversies surrounding religious places for some time now. The ownership and title of a parcel of land said to be within the precincts of the Dhandayuthapani Swamy Temple are now under debate, marking the first such controversy the TVK government has had to handle since taking office. The Hindu traces the origins of this conflict",
+    "img": "https://th-i.thgim.com/public/incoming/qpd04h/article71269276.ece/alternates/LANDSCAPE_1200/10216_25_7_2026_16_34_58_2_25_07_2026_TEMPLE_LAND_1.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/trouble-over-temple-land-in-palani/article71265579.ece",
+    "time": "2026-07-26T12:02:41.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.K. PM Burnham vows to put 'Britain's interest first' in Trump ties",
+    "desc": "I can't at any point say that I won't take a different opinion from him, that I will need to voice a different idea that is right for Britain. And I will do that, says U.K. Prime Minister Andy Burnham",
+    "img": "https://th-i.thgim.com/public/incoming/lbp042/article71269272.ece/alternates/LANDSCAPE_1200/2026-07-26T082513Z_1887585546_RC2FKMAFUXHU_RTRMADP_3_BRITAIN-POLITICS-BURNHAM.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/uk-pm-burnham-vows-to-put-britains-interest-first-in-trump-ties/article71269261.ece",
+    "time": "2026-07-26T11:58:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India’s green transition is missing long-duration energy storage",
+    "desc": "The longer the time over which a technology discharges energy, the better its economics. At the same time, storing more energy also costs more. So for discharge durations beyond six hours, short-duration energy storage systems are unlikely to prove cost-effective",
+    "img": "https://th-i.thgim.com/public/incoming/m4o2md/article71140945.ece/alternates/LANDSCAPE_1200/iStock-157433936.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/india-green-transition-missing-long-duration-energy-storage/article71244283.ece",
+    "time": "2026-07-26T11:55:42.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Zepto, Shiprocket and 12 more firms to hit primary market; eye Rs 25,000 crore-plus fundraising",
+    "desc": "India's IPO market is preparing for a busy month with many companies planning public offerings. Over a dozen firms are expected to launch initial public offerings, raising over Rs 25,000 crore. These upcoming issues span diverse sectors like quick commerce, housing finance, and education infrastructure. This activity follows sustained momentum in the primary market throughout the current year. Market participants anticipate robust fundraising as companies leverage improving investor sentiment.",
+    "img": "https://static.toiimg.com/photo/msid-132640623,imgsize-39326.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/ipo-rush-ahead-zepto-shiprocket-and-12-more-firms-to-hit-primary-market-eye-rs-25000-crore-plus-fundraising/articleshow/132639748.cms",
+    "time": "2026-07-26T11:53:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘No law bars eating chicken over Ganga’: SC judge flags delayed bail at NLIU lecture",
+    "desc": "Justice Ujjal Bhuyan expressed concern over shrinking public space for dissent in India. He noted that courts often grant relief belatedly and impose restrictive bail conditions. These conditions can discourage citizens from exercising their fundamental right to express views. Justice Bhuyan cited cases where individuals faced prolonged jail time for minor offenses. He stressed the need for critical examination of judicial decisions to improve the system.",
+    "img": "https://static.toiimg.com/photo/msid-132640933,imgsize-123950.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-law-prohibits-eating-chicken-over-ganga-river-supreme-court-judge-flags-delayed-bail/articleshow/132640578.cms",
+    "time": "2026-07-26T11:43:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Prince Yadav not playing 3rd T20I vs Zimbabwe? BCCI reveals reason",
+    "desc": "\"Prince Yadav was unavailable for selection in the third T20I due to a hamstring niggle which he sustained while bowling in the second T20I against Zimbabwe,\" the Board of Control for Cricket in India (BCCI) said after the toss.",
+    "img": "https://static.toiimg.com/photo/msid-132640501,imgsize-481695.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/why-is-prince-yadav-not-playing-3rd-t20i-vs-zimbabwe-bcci-reveals-reason/articleshow/132640507.cms",
+    "time": "2026-07-26T11:35:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The wildlife trade fuelled by pets and myths",
+    "desc": "Wildlife trafficking has moved from physical markets to online platforms. This shift impacts lesser-known species like shikras and slow lorises. Recent enforcement operations have recovered protected animals and birds. These seizures highlight a conservation crisis often overlooked by the public. Demand for exotic pets and traditional beliefs fuels this illegal trade.",
+    "img": "https://static.toiimg.com/photo/msid-132640434,imgsize-190809.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/beyond-tigers-the-wildlife-trade-fuelled-by-pets-and-myths/articleshow/132640324.cms",
+    "time": "2026-07-26T11:35:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi pitches water conservation amid widespread monsoon deficit",
+    "desc": "Prime Minister Modi urged water conservation efforts through the 'catch the rain' campaign. He asked citizens to take responsibility for local water bodies and save every drop. The nation faces a significant monsoon rainfall deficit, impacting water availability. However, improved rains are expected next week in northwest India and eastern regions. Despite potential improvements, July is still projected to end with a countrywide deficit.",
+    "img": "https://static.toiimg.com/photo/msid-132640229,imgsize-314212.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pm-modi-pitches-water-conservation-amid-widespread-monsoon-deficit/articleshow/132640202.cms",
+    "time": "2026-07-26T11:18:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Two held for impersonating Congress leader Priyanka Gandhi’s aide in cyber fraud case",
+    "desc": "Elathur MLA Vidya Balakrishnan had received a phone call on July 6 from a person claiming to be the private secretary of the Wayanad MP, offering her a Cabinet Minister’s post in exchange for ₹3 crore. Growing suspicious, the MLA contacted the MP’s office, which confirmed it was a scam",
+    "img": "https://th-i.thgim.com/public/incoming/xzr4d1/article71269098.ece/alternates/LANDSCAPE_1200/24-year-old-manG71G9EO39.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/two-held-for-impersonating-congress-leader-priyanka-gandhis-aide-in-cyber-fraud-case/article71269020.ece",
+    "time": "2026-07-26T11:17:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India's Rishikanta Singh wins silver, sets Commonwealth Games record",
+    "desc": "Chanambam Rishikanta Singh secured the silver medal in the men's 60kg weightlifting event. He set a new Commonwealth Games record in the snatch discipline. Malaysia's Mohamad Aniq Bin Kasdan won the gold medal in the competition. Rishikanta's performance marked India's first medal in weightlifting at the Games. This achievement highlights India's continued strength in Commonwealth weightlifting.",
+    "img": "https://static.toiimg.com/photo/msid-132640175,imgsize-629719.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/indias-chanambam-rishikanta-singh-wins-silver-sets-commonwealth-games-record/articleshow/132640080.cms",
+    "time": "2026-07-26T11:05:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Lawyer",
+    "desc": "Reacting to Tej Pratap Yadav’s arrest, Jan Suraaj Party founder Prashant Kishor claimed, “Tej Pratap Yadav supported me, so he was sent to jail. The BJP is harassing leaders of Jan Suraaj Party and those who are supporting us by misusing the administration.”",
+    "img": "https://th-i.thgim.com/public/incoming/14zsi7/article71269130.ece/alternates/LANDSCAPE_1200/20260725068L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/tej-pratap-arrested-over-neet-paper-leak-protest-before-bihar-police-registered-fir-lawyer/article71269116.ece",
+    "time": "2026-07-26T11:04:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Misrepresents statement': MEA fact-checks viral claim on spokesperson Randhir Jaiswal's remarks on CJP protests",
+    "desc": "The Ministry of External Affairs clarified a misleading social media post regarding protest funding. Spokesperson Randhir Jaiswal stated he had no information on foreign funding claims. This clarification followed viral posts attributing false statements to the spokesperson. The CJP-led protests concluded after the government accepted all their demands. Union minister Pralhad Joshi received additional charge of the education ministry.",
+    "img": "https://static.toiimg.com/photo/msid-132640030,imgsize-43150.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/misrepresents-statement-mea-fact-checks-viral-claim-on-spokesperson-randhir-jaiswals-remarks-on-cjp-protests/articleshow/132639759.cms",
+    "time": "2026-07-26T11:00:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why are there protests over the Ken-Betwa project?",
+    "desc": "Why does the project aim to do? How many villages and families are likely to be affected by it? What are the concerns of the tribal people regarding rehabilitation and compensation? Why has the project raised concerns among conservationists?",
+    "img": "https://th-i.thgim.com/public/incoming/lyc4cj/article71267407.ece/alternates/LANDSCAPE_1200/PTI07_19_2026_000538B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/why-are-there-protests-over-the-ken-betwa-project/article71267449.ece",
+    "time": "2026-07-26T10:57:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'This is a new subject for me': Pralhad Joshi after taking charge as education minister",
+    "desc": "Pralhad Joshi has taken charge as the Union Education Minister. He is reviewing the ministry's functioning and familiarizing himself with its operations. Joshi expressed gratitude to Prime Minister Narendra Modi for this new responsibility. This change follows Dharmendra Pradhan's resignation from the Union Council of Ministers. The ministry change occurs amid student protests over examination irregularities.",
+    "img": "https://static.toiimg.com/photo/msid-132639907,imgsize-67976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/this-is-a-new-subject-for-me-pralhad-joshi-after-taking-charge-as-education-minister/articleshow/132639875.cms",
+    "time": "2026-07-26T10:51:26.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Andhra Pradesh launches AI platform to forecast urban floods; Vijayawada first",
     "desc": "Developed by the Real Time Governance Society with the State Disaster Management Authority and IIT Gandhinagar, the platform uses three decades of Budameru flood data and satellite terrain mapping to give rainfall forecasts 48 hours ahead",
     "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/wn5agc/article71269109.ece/alternates/LANDSCAPE_1200/App.jpeg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-launches-ai-platform-to-forecast-urban-floods-vijayawada-first/article71269032.ece",
-    "time": "2026-07-26T10:34:07.000Z"
+    "time": "2026-07-26T10:49:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Reacher' Season 4 trailer drops; Makers announce 'Neagley' spin-off",
+    "desc": "The trailer for Reacher Season 4, based on Gone Tomorrow, debuted at San Diego Comic-Con. This new season will focus on a dangerous subway encounter gone wrong for Jack Reacher. A new action spinoff series titled Neagley was also announced, featuring Maria Sten. Reacher Season 4 premieres August 12, 2026, with weekly episodes released. Neagley will be released in full on September 16, 2026, on Amazon Prime Video.",
+    "img": "https://static.toiimg.com/photo/msid-132639867,imgsize-215116.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/reacher-season-4-trailer-drops-at-san-diego-comic-con-2026-makers-surprise-with-spin-off-series-neagley-announcement/articleshow/132639874.cms",
+    "time": "2026-07-26T10:44:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'I'm so very loved': Kajol marks National Parents' Day",
+    "desc": "Actress Kajol marked National Parents' Day with a touching social media tribute. She shared rare black-and-white family photographs of her parents and in-laws. Kajol expressed deep gratitude for the sacrifices and love of her parents. She reflected on the profound understanding parenthood brings to one's perspective. The actress was recently seen in the mythological horror thriller 'Maa'.",
+    "img": "https://static.toiimg.com/photo/msid-132639769,imgsize-180184.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/im-so-very-loved-kajol-marks-national-parents-day-with-emotional-note-shares-rare-photos-of-parents-and-in-laws/articleshow/132639719.cms",
+    "time": "2026-07-26T10:32:36.000Z"
   },
   {
     "cat": "Politics",
@@ -30,7 +228,7 @@ const newsData_en = [
     "cat": "Business",
     "title": "Top-10 firms shed Rs 2.74 lakh crore in value; HDFC Bank takes biggest hit",
     "desc": "Indian stock markets experienced a significant downturn last week. Nine of the ten most-valued companies saw their market worth decline. HDFC Bank faced the largest valuation drop, while Hindustan Unilever gained value. Benchmark indices like the BSE Sensex and NSE Nifty also registered losses. This market pressure was attributed to rising crude oil prices and geopolitical concerns.",
-    "img": "https://static.toiimg.com/photo/msid-132639483,imgsize-100916.cms",
+    "img": "https://static.toiimg.com/photo/msid-132640528,imgsize-141653.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/market-recap-top-10-firms-shed-rs-2-74-lakh-crore-in-value-hdfc-bank-takes-biggest-hit/articleshow/132639404.cms",
     "time": "2026-07-26T10:13:52.000Z"
@@ -52,6 +250,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-army-says-war-to-expand-further-if-us-attacks-restart/article71268932.ece",
     "time": "2026-07-26T10:08:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India return to top of ICC T20I rankings after series victory over Zimbabwe",
+    "desc": "India has reclaimed the ICC Men's T20I Team Rankings top spot. This swift return occurred after consecutive victories against Zimbabwe in Harare. The Men in Blue secured the number one position with a significant win. India had previously lost the top ranking following a series defeat to England. Shreyas Iyer's team responded strongly, regaining their summit status.",
+    "img": "https://static.toiimg.com/photo/msid-132639407,imgsize-173366.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/india-return-to-top-of-icc-t20i-rankings-after-dominant-win-after-zimbabwe-series-victory/articleshow/132639393.cms",
+    "time": "2026-07-26T10:07:30.000Z"
   },
   {
     "cat": "Entertainment",
@@ -154,7 +361,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "'Jamaati fundamentalists': Bengal CM Suvendu Adhikari alleges 'foreign hand' in Kolkata rally violence",
+    "title": "'Jamaati fundamentalists involved': Bengal CM Suvendu Adhikari alleges 'foreign hand' in Kolkata rally violence",
     "desc": "West Bengal chief minister Suvendu Adhikari alleged Islamic fundamentalists orchestrated protest violence. He claimed these individuals were not students and may have foreign backing. The violence occurred during a protest concerning the alleged NEET question paper leak. Media personnel were reportedly targeted during the clashes with security forces. The state government invoked its anti-goonda law against those accused of orchestrating the violence.",
     "img": "https://static.toiimg.com/photo/msid-132638917,imgsize-206952.cms",
     "src": "indiatimes.com",
@@ -205,15 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kader-khan-would-get-very-angry-with-govinda-shagufta-ali-recalls-how-often-the-hero-no-1-star-was-late-on-set-but-was-always-a-bigger-perfectionist-than-aamir-khan/articleshow/132638663.cms",
     "time": "2026-07-26T08:49:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Trouble over temple land in Palani",
-    "desc": "First, it was Thirupparankundram. Now, it is Palani. South Tamil Nadu has been a hotbed of controversies surrounding religious places for some time now. The ownership and title of a parcel of land said to be within the precincts of the Dhandayuthapani Swamy Temple are now under debate, marking the first such controversy the TVK government has had to handle since taking office. The Hindu traces the origins of this conflict",
-    "img": "https://th-i.thgim.com/public/incoming/c4o5lu/article71266261.ece/alternates/LANDSCAPE_1200/10216_25_7_2026_17_39_52_1_25_07_2026_TEMPLE_LAND_4.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/trouble-over-temple-land-in-palani/article71265579.ece",
-    "time": "2026-07-26T08:34:51.000Z"
   },
   {
     "cat": "Entertainment",
@@ -288,69 +486,6 @@ const newsData_en = [
     "time": "2026-07-26T07:37:23.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "PAV urges govt. to strengthen disease surveillance as COVID cases rise",
-    "desc": "In a representation to Health Minister Satya Kumar Yadav, the organisation said mild and asymptomatic infections may go undetected as widespread testing has stopped, and sought targeted testing among symptomatic people, vulnerable groups and healthcare workers",
-    "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/63521i/article71268820.ece/alternates/LANDSCAPE_1200/Elderly.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/pav-urges-govt-to-strengthen-disease-surveillance-as-covid-cases-rise/article71266834.ece",
-    "time": "2026-07-26T07:36:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jason Alexander donates to charity after apologising to Courtney Stodden",
-    "desc": "After facing criticism for a controversial skit from 2012 that included a minor, Jason Alexander made a heartfelt donation to Unchained at Last and apologized to Courtney Stodden. Stodden appreciated his meaningful action, highlighting the importance of transforming words into actions. She expressed hope that his gesture would encourage others to join the fight against child marriage, striving to turn a painful encounter into a catalyst for positive change.",
-    "img": "https://static.toiimg.com/photo/msid-132637872,imgsize-177436.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jason-alexander-donates-to-charity-following-backlash-over-2012-skit-with-courtney-stodden-i-want-to-sincerely-thank-him/articleshow/132637753.cms",
-    "time": "2026-07-26T07:28:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "how Vizag became Indian cinema’s enduring backdrop",
-    "desc": "From the black-and-white drama of Kula Gothralu to contemporary films, Visakhapatnam’s beaches, hills and heritage buildings have quietly shaped the visual language of Indian cinema. Through the memories of a retired professor, a veteran actor and a filmmaker, the city’s six-decade relationship with the silver screen comes alive",
-    "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/rkizdk/article71268841.ece/alternates/LANDSCAPE_1200/Shoot.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/the-city-that-never-left-the-frame-how-vizag-became-indian-cinemas-enduring-backdrop/article71268673.ece",
-    "time": "2026-07-26T07:22:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Amid Tanishk controversy, Amaal on unrequited love while celebrating Awarapan 2 song",
-    "desc": "Amaal Mallik's \"Yeh Awarapan\" from 'Awarapan 2' is winning hearts. In an Instagram Q&A, he opened up on unrequited love, saying, \"It's real, I'm the proof of it.\" He revealed living like a \"widower\" over a decade-old relationship that ended. On 'Bigg Boss', he'd hinted at this mystery love without naming her.",
-    "img": "https://static.toiimg.com/photo/msid-132637642,imgsize-169495.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amid-tanishk-bagchi-controversy-amaal-mallik-opens-up-on-unrequited-love-while-celebrating-awarapan-2-song-ive-acknowledged-my-suffering-by-living-as-if-im-a-widower/articleshow/132637642.cms",
-    "time": "2026-07-26T07:08:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "How much did Vikrant Massey charge for 'Musafir Cafe'? Salaries of entire cast revealed",
-    "desc": "The much-anticipated 'Musafir Cafe' series on Netflix, inspired by a well-loved novel, launched on Friday. Reports indicate that Vikrant Massey commanded the top salary among his co-stars, while Vedika Pinto and Mahima Makwana also secured impressive compensation for their performances. This romantic drama traces the journey of an engineer as he returns to India, exploring themes of love and the complexities of human connections.",
-    "img": "https://static.toiimg.com/photo/msid-132637631,imgsize-80236.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/how-much-did-vikrant-massey-charge-for-musafir-cafe-salaries-of-entire-cast-including-vedika-pinto-and-mahima-makwana-revealed/articleshow/132637622.cms",
-    "time": "2026-07-26T07:07:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Stalin’s remarks over CM Vijay’s ‘inaction’ on Cauvery water, Mekedatu contradict facts: Minister Aadhav Arjuna",
-    "desc": "In a statement, Mr. Arjuna said the State government was resolved to protect the livelihood of farmers in the Cauvery delta, ensure the State’s drinking water security and safeguard Tamil Nadu’s legal rights over Cauvery waters.",
-    "img": "https://th-i.thgim.com/public/incoming/a45hak/article71268801.ece/alternates/LANDSCAPE_1200/DSC_6677.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/stalins-remarks-over-cm-vijays-inaction-on-cauvery-water-mekedatu-contradict-facts-minister-aadhav-arjuna/article71268745.ece",
-    "time": "2026-07-26T07:01:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Did Kunchacko indirectly respond to Joju's PR allegations?",
-    "desc": "Joju George alleged a leading actor and his wife conducted a negative PR campaign against him. Netizens speculated Kunchacko Boban and his wife were the subjects of these claims. Kunchacko Boban indirectly referenced PR work in a recent promotional interview for his film. Sabumon Abdusamad also made a playful comment about PR work starting online. The ongoing speculation continues without direct clarification from the actors involved.",
-    "img": "https://static.toiimg.com/photo/msid-132637570,imgsize-371251.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/i-did-pr-work-among-them-did-kunchacko-boban-indirectly-respond-to-joju-georges-pr-allegations/articleshow/132637556.cms",
-    "time": "2026-07-26T06:59:08.000Z"
-  },
-  {
     "cat": "World",
     "title": "Nepal eases post-demonetisation curbs on Indian currency; allows ₹200, ₹500 notes",
     "desc": "Following the demonetisation, Nepal prohibited the entry and use of Indian currency notes of denominations above ₹100; while the ceiling of ₹25,000 on carrying Indian currency remained unchanged, travellers were effectively restricted to notes of ₹100 and below.",
@@ -369,15 +504,6 @@ const newsData_en = [
     "time": "2026-07-26T06:26:39.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Visakhapatnam to host AP Chambers Business Expo from September 11",
-    "desc": "Collector M. Abhishikth Kishore said the three-day expo, the first in the city, would focus on MSMEs, and that the government was giving special attention to the Visakhapatnam Economic Region and the Bay City concept",
-    "img": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-andhrapradesh/v898wk/article71135629.ece/alternates/LANDSCAPE_1200/Collector-callsG0IG5AEND.5.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/visakhapatnam-to-host-ap-chambers-business-expo-from-september-11/article71268638.ece",
-    "time": "2026-07-26T06:23:34.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'It means the world': Anahat's first reaction after winning World C'ship",
     "desc": "Anahat Singh created history by winning the World Junior Squash Championship title. She defeated Egypt's Ruqayya Salem in the women's final in Ontario. This victory marks her first world title in her final junior appearance. Squash Rackets Federation of India hailed the win as a milestone for Indian squash. The achievement fulfills a long-held dream for Indian squash.",
@@ -385,24 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/it-means-the-world-anahat-singhs-first-reaction-after-winning-world-junior-squash-championship/articleshow/132636988.cms",
     "time": "2026-07-26T06:03:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'INS Mahendragiri symbol of Atmanirbhar Bharat': PM Modi in Mann Ki Baat",
-    "desc": "Addressing the 136th episode of his monthly radio programme, Mann Ki Baat, the Prime Minister pointed to the induction of INS Mahendragiri into the Indian Navy as an example of India's progress in indigenous defence manufacturing. \"This modern warship has been designed in India and made in India. More than 75 per cent indigenous content has been used in this. This is a symbol of the growing strength of 'Atmanirbhar Bharat',\" he said.",
-    "img": "https://static.toiimg.com/photo/msid-132637027,imgsize-132923.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ins-mahendragiri-symbol-of-atmanirbhar-bharat-pm-modi-in-mann-ki-baat/articleshow/132637016.cms",
-    "time": "2026-07-26T05:59:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Who approved pellet guns?' Rahul Gandhi writes Amit Shah over 'barbaric assault' on students",
-    "desc": "\"Peaceful protest is crucial to any democracy. It is the government's responsibility to protect protestors and resolve their grievances through dialogue. Such brutal violence destroys every norm, and has outraged the country. Youth and students, the future of our country, are demanding answers and accountability. Their voice will be heard,\" he further wrote.",
-    "img": "https://static.toiimg.com/photo/msid-132636899,imgsize-146290.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/who-approved-pellet-guns-rahul-gandhi-writes-amit-shah-over-barbaic-assault-on-students/articleshow/132636808.cms",
-    "time": "2026-07-26T05:46:43.000Z"
   },
   {
     "cat": "Sports",
@@ -414,15 +522,6 @@ const newsData_en = [
     "time": "2026-07-26T05:16:15.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Congress will now demand accountability from BJP govt on paper leaks in Parliament,’ says Hooda",
-    "desc": "“The government must now apologise to the youth, the country’s future, whom it subjected to lathi-charges and brutality. Also, the examination system must be made transparent enough to eliminate any possibility of future paper leaks,” Bhupinder Singh Hooda said.",
-    "img": "https://th-i.thgim.com/public/incoming/iyol82/article71268575.ece/alternates/LANDSCAPE_1200/District-presidG87FF7E8P.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/chandigarh/congress-will-now-demand-accountability-from-bjp-govt-on-paper-leaks-in-parliament-says-hooda/article71266368.ece",
-    "time": "2026-07-26T05:13:27.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'What's his mistake?': Ex-India star wants India to make one big change for 3rd T20I vs Zimbabwe",
     "desc": "Former India batter Aakash Chopra said India should continue backing Abhishek Sharma despite his poor scores in the first two matches. Instead, he suggested giving Ishan Kishan a break and bringing Prabhsimran into the playing XI. Abhished scored 1 run in the first T20I and then fell for 8 in the second T20I.",
@@ -430,24 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/whats-his-mistake-ex-india-star-wants-india-to-make-one-big-change-for-3rd-t20i-vs-zimbabwe/articleshow/132636523.cms",
     "time": "2026-07-26T05:10:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Pradhan offered to quit on first day of student protest? BJP leader's big claim",
-    "desc": "MP minister Vijayvargiya, speaking to news agency PTI in Indore on Saturday, said Pradhan had informed the BJP leadership that he was willing to resign if the party believed it was necessary. \"On the first day, as soon as the student agitation began, Pradhan had told the BJP president that if he felt it was necessary, he was ready to resign as education minister,\" Vijayvargiya said.",
-    "img": "https://static.toiimg.com/photo/msid-132636561,imgsize-1185512.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pradhan-offered-to-quit-on-first-day-of-student-protest-bjp-leaders-big-claim/articleshow/132636485.cms",
-    "time": "2026-07-26T05:01:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Gratitude to brave soldiers': PM Modi pays tribute to Kargil heroes on 27th Vijay Diwas",
-    "desc": "India is observing the 27th anniversary of Kargil Vijay Diwas, commemorating its victory in the 1999 Kargil War. The day marks the successful culmination of Operation Vijay and honours the 527 soldiers who made the supreme sacrifice while driving Pakistani intruders out of strategic heights in the Kargil sector. The Kargil conflict, fought between May and July 1999, remains the only conventional war between two nuclear-armed neighbours.",
-    "img": "https://static.toiimg.com/photo/msid-132636089,imgsize-75873.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/gratitude-to-brave-soldiers-pm-modi-pays-tribute-to-kargil-heroes-on-27th-vijay-diwas/articleshow/132636061.cms",
-    "time": "2026-07-26T03:53:17.000Z"
   },
   {
     "cat": "Sports",
@@ -520,42 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/gens-una-sumus-what-three-latin-words-beneath-a-chess-emblem-taught-me-about-the-world/articleshow/132635468.cms",
     "time": "2026-07-26T01:17:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hodge's unbeaten 83 helps WI reach 194/3 vs Pakistan on Day 1",
-    "desc": "Kavem Hodge scored an unbeaten 83, guiding West Indies to 194/3 on day one. Rain and bad light limited play to just 67 overs during the match. Mohammad Abbas took two early wickets for Pakistan, which struggled to contain runs. Hodge and Shai Hope built an unbroken 88-run partnership for the fourth wicket. Both teams entered the series at the bottom of the World Test Championship standings.",
-    "img": "https://static.toiimg.com/photo/msid-132635446,imgsize-31596.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/wi-vs-pak-1st-test-kavem-hodges-unbeaten-83-helps-west-indies-reach-194/3-against-pakistan-on-rain-hit-day-1/articleshow/132635442.cms",
-    "time": "2026-07-26T01:06:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Don't retire yet': Di María makes desperate plea to Lionel Messi after Argentina's World Cup agony",
-    "desc": "Ángel Di María has urged Lionel Messi to continue his Argentina career despite their heartbreaking 2026 World Cup final defeat to Spain. Di María praised Messi’s performances and said the captain can play for many more years if he chooses. He also backed Lionel Scaloni to remain in charge as Argentina look to build around their next generation of talent.",
-    "img": "https://static.toiimg.com/photo/msid-132633331,imgsize-55376.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/dont-retire-yet-di-mara-makes-desperate-plea-to-lionel-messi-after-argentinas-world-cup-agony/articleshow/132633320.cms",
-    "time": "2026-07-25T21:31:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Leaked Infantino letter praising Argentina's 'professionalism' emerges amid FIFA probe into World Cup final brawl",
-    "desc": "A leaked letter from FIFA president Gianni Infantino congratulating Argentina on their 2026 World Cup runners-up finish has sparked controversy after praising the team's professionalism despite an ongoing FIFA disciplinary investigation into post-final clashes with Spain. The correspondence has drawn scrutiny over FIFA's handling of the incidents, with critics questioning the timing and tone of the private message.",
-    "img": "https://static.toiimg.com/photo/msid-132633235,imgsize-61264.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/leaked-infantino-letter-praising-argentinas-professionalism-emerges-amid-fifa-probe-into-world-cup-final-brawl/articleshow/132633134.cms",
-    "time": "2026-07-25T19:59:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "No medals for India, but Sachin advances and Rupa-Pinki stay unbeaten",
-    "desc": "Sachin Siwach advanced in boxing while Rupa Rani Tirkey and Pinki Singh continued their lawn bowls unbeaten streak. India's artistic gymnastics team secured fifth place in their subdivision competition. Both swimmers failed to reach the 400m freestyle final, ending their pool challenge. The women's wheelchair basketball team faced a significant defeat against Wales.",
-    "img": "https://static.toiimg.com/photo/msid-132631871,imgsize-94632.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-day-3-no-medals-for-india-but-sachin-siwach-advances-and-rupa-pinki-stay-unbeaten/articleshow/132631873.cms",
-    "time": "2026-07-25T18:11:15.000Z"
   },
   {
     "cat": "Sports",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/tennis/justice-mittal-rebukes-aita-interim-ecs-decision-to-appoint-observer/article71258770.ece",
     "time": "2026-07-23T17:06:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Manav Thakkar reflects on UP Prometheans’ disappointing debut campaign",
-    "desc": "There were things beyond our control; I became sick after the first match; being the captain, I had to play six sets including singles and mixed doubles, and suddenly I couldn’t play, said Manav Thakkar",
-    "img": "https://th-i.thgim.com/public/incoming/1eap9f/article71259140.ece/alternates/LANDSCAPE_1200/90092_14_10_2025_10_39_22_2_28TH_ASIAN_TABLE_TENNIS_TEAM_CHAMPIONSHIP_02.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/utt-manav-thakkar-reflects-on-up-prometheans-disappointing-debut-campaign/article71259233.ece",
-    "time": "2026-07-23T16:21:23.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Infosys posts  12% rise in Q1 net profit; names Ashiss Kumar Dash CEO-designate",
-    "desc": "Salil Parekh said that he enjoyed leading Infosys from $10 billion in revenue to over $20 billion in revenue through during his tenure of two terms spanning nine years which would conclude on March 31, 2027",
-    "img": "https://th-i.thgim.com/public/business/qgwzc9/article71259283.ece/alternates/LANDSCAPE_1200/ashishinfosys.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/infosys-posts-12-rise-in-q1-net-profit-namesashiss-kumar-dash-ceo-designate/article71259118.ece",
-    "time": "2026-07-23T16:18:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rift in AMMA triggers fresh row over ‘power group’ in Malayalam cinema",
-    "desc": "Allegation by Shwetha Menon that the ‘power group’ named in Hema Committee report is working against her has triggered a fresh bout of infighting within AMMA even as her rival camp has asked her to divulge the names of those named in the controversial report",
-    "img": "https://th-i.thgim.com/public/incoming/by6c7y/article71256618.ece/alternates/LANDSCAPE_1200/swetha_menon_1.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/rift-in-amma-triggers-fresh-row-over-power-group-in-malayalam-cinema/article71256467.ece",
-    "time": "2026-07-23T16:14:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Before ‘Jana Nayagan’: when an 18-year-old Vijay walked the halls of Loyola College",
-    "desc": "Vijay’s maiden venture as a solo hero, Naalaiya Theerpu, helmed by S.A. Chandrasekhar, did not set the box office on fire; even as the audience response remained muted, the actor was noticed, and he won the Best New Face Actor award from Cinema Express",
-    "img": "https://th-i.thgim.com/public/incoming/3d29wu/article71252311.ece/alternates/LANDSCAPE_1200/DSC_1864A.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/before-jana-nayagan-when-a-young-vijay-walked-the-halls-of-loyola/article71252283.ece",
-    "time": "2026-07-23T12:49:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Jana Nayagan’ release: ‘Thalapathy’ Vijay pays tribute to MGR",
-    "desc": "Tamil Nadu Chief Minister Vijay’s Jana Nayagan has finally hit theatres after months of delays. The film pays tribute to former Chief Minister and screen legend MGR with AI-generated voice recreations, iconic song references and political symbolism. Vijay is the second sitting Tamil Nadu Chief Minister after MGR to have a film release while in office",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/rphsmt/article71257239.ece/alternates/LANDSCAPE_1200/Albescent%20White%20Colorful%20Soft%20Texture%20Background%20Rounded%20Rectangle%20Frame%20Mockup%20Photo%20Collage.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/jana-nayagan-release-thalapathy-vijay-pays-tribute-to-mgr/article71257018.ece",
-    "time": "2026-07-23T11:15:07.000Z"
   }
 ];

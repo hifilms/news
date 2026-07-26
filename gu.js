@@ -1,5 +1,59 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "હાડ થીજવતી ઠંડીમાં પણ અડગ હતા ભારતના વીર યોદ્ધાઓ, કેવી રીતે શરૂ થયું હતું આ યુદ્ધ?",
+    "desc": "દર વર્ષે 26 જુલાઈના રોજ કારગિલ વિજય દિવસ 'ઓપરેશન વિજય'ના બહાદુર સૈનિકોના સાહસ, બલિદાન અને અતૂટ સંકલ્પના સન્માન રૂપે મનાવવામાં આવે છે. આ કારગિલ યુદ્ધમાં ભારતની ઐતિહાસિક જીતની યાદ અપાવે છે અને રાષ્ટ્રની સાર્વભૌમત્વની રક્ષા કરનારી ભાવનાની ઉજવણી કરે છે. આ પ્રસંગ કારગિલના અમીટ વારસાને પણ પ્રતિબિંબિત કરે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/kargil-vijay-diwas-2026-india-brave-warriors-were-steadfast-even-in-the-bone-chilling-cold-how-did-the-war-start-485834 ",
+    "time": "2026-07-26T12:39:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ત્રણ દાયકાના બદલાવની કહાની, કારગિલના પાઠે બદલ્યા યુદ્ધના સમીકરણો; બોર્ડર પાર કર્યા વગર જ ઓપરેશન સિંદૂરમાં દુશ્મનના એરફિલ્ડ-રડાર તબાહ",
+    "desc": "1999ના કારગિલ યુદ્ધની 27મી વર્ષગાંઠ પર પૂર્વ થલ સેના પ્રમુખ જનરલ વી.પી. મલિક (રિટાયર્ડ)એ ભારતીય સૈન્ય ક્ષમતાઓના બદલાવ પર મોટું નિવેદન આપ્યું છે. તેમણે કહ્યું કે, કારગિલ દરમિયાન હથિયારોની અછત અને ઇન્ટેલિજન્સ ગેપથી જે પાઠ મળ્યા, તેણે જ ભારતને આત્મનિર્ભર બનાવ્યું. આ તૈયારીનું જ પરિણામ રહ્યું કે, 'ઓપરેશન સિંદૂર' દરમિયાન ભારતીય સેનાએ સરહદ પાર કર્યા વગર દુશ્મનના એરફિલ્ડ્સ અને રડાર સ્ટેશનોને તબાહ કરી દીધા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/story-of-three-decades-of-change-the-lessons-of-kargil-changed-the-equations-of-war-operation-sindoor-destroyed-the-enemy-airfield-and-radar-without-crossing-the-border-485813 ",
+    "time": "2026-07-26T11:59:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ત્રીજી T20માં આ બે ખેલાડીઓનું કપાયું પત્તુ, બે નવા ખેલાડીઓને મળી તક",
+    "desc": "ઝિમ્બાબ્વે સામેની ત્રીજી T20 મેચમાં ભારતે ટોસ જીતીને પ્રથમ બેટિંગ કરવાનો નિર્ણય લીધો. શ્રેણીમાં 2-0થી આગળ ટીમ ઈન્ડિયા મોટા સ્કોરનું ટાર્ગેટ રાખી રહી છે. આ મેચ માટે ભારતીય પ્લેઈંગ ઈલેવનમાં બે ફેરફાર કરવામાં આવ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/zim-vs-ind-3rd-t20-india-playing-11-ashok-sharma-suryansh-shedge-in-485812 ",
+    "time": "2026-07-26T11:34:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "સેટેલાઈટ તસવીરોએ વધારી ચિંતા, ભારતના 90% ભાગ પર છવાયા વાદળો, આ વિસ્તારોમાં મુશળધાર વરસાદની આગાહી",
+    "desc": "પર્વતોથી લઈને મેદાનો સુધી સતત ભારે વરસાદ વચ્ચે ISROની સેટેલાઇટ તસવીરોએ ચિંતા વધારી છે. અરબી સમુદ્રથી બંગાળની ખાડી સુધીનો દેશનો 90% ભાગ ગાઢ વાદળોથી છવાયેલો છે. હવામાન વિભાગના જણાવ્યા અનુસાર, આગામી સાત દિવસમાં ઓડિશા, મધ્યપ્રદેશ અને પર્વતીય રાજ્યોમાં ભારે વરસાદ પડશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/satellite-images-show-90-percent-cloud-cover-over-india-heavy-rain-alert-in-these-states-485810 ",
+    "time": "2026-07-26T11:11:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "&amp;#039;2028ની વિધાનસભા ચૂંટણી નહીં લડું...&amp;#039; કર્ણાટકના પૂર્વ CM સિદ્ધારમૈયાની મોટી જાહેરાત, રાજનીતિમાંથી લીધો સંન્યાસ",
+    "desc": "કર્ણાટકના પૂર્વ મુખ્યમંત્રી અને કોંગ્રેસના વરિષ્ઠ નેતા સિદ્ધારમૈયાએ કહ્યું કે, આજે પરિસ્થિતિ એવી બની ગઈ છે કે ચૂંટણી લડવા માટે નેતાઓએ જનતાને રૂપિયા આપવા પડે છે. રાજનીતિ સંપૂર્ણપણે ભ્રષ્ટ થઈ ચૂકી છે અને ઈમાનદાર રાજનીતિ માટે કોઈ જગ્યા બચી નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/i-will-not-contest-the-2028-assembly-elections-former-karnataka-cm-makes-big-announcement-retires-from-politics-485809 ",
+    "time": "2026-07-26T10:57:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "તૃષા કૃષ્ણનની મસ્ટ વોચ ક્રાઈમ થ્રિલર વેબ સીરીઝ, ક્રાઈમ અને અંધશ્રદ્ધાનું પરફેક્ટ કોમ્બિનેશન",
+    "desc": "ક્રાઈમ થ્રિલર ફિલ્મો કરતાં પણ ક્રાઈમ થ્રિલર વેબ સીરીઝ જોવામાં કેટલાક લોકોને વધારે મજા આવતી હોય છે. તો ચાલો આજે તમને બેસ્ટ ક્રાઈમ થ્રિલર વેબ સીરીઝ વિશે જણાવીએ. આ વેબ સીરીઝ તમારો આ શોખ પુરો કરી દેશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/crime-thriller-hindi-web-series-ott-sony-live-trisha-krishnan-brinda-485808 ",
+    "time": "2026-07-26T10:48:39.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "શ્રીલંકા ટેસ્ટ પહેલા ભારતીય ટીમ માટે ખરાબ સમાચાર ! એક સાથે પાંચ ખેલાડી ઈજાગ્રસ્ત, કેપ્ટન ગિલની વધી ચિંતા",
     "desc": "શ્રીલંકામાં 15 ઓગસ્ટથી શરૂ થનારી પહેલી ટેસ્ટ પહેલા ભારતીય ટીમ 7 ઓગસ્ટથી એક વોર્મ-અપ મેચ પણ રમશે. આ શ્રેણી માટે ભારતીય ટીમની જાહેરાત 28 જુલાઈએ થઈ શકે છે. જોકે, શ્રેણી પહેલા ટીમને ઘણા મોટા ઝટકાઓનો સામનો કરવો પડ્યો છે.",
@@ -223,15 +277,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/from-rohit-sharma-retirement-to-gautam-gambhir-dismissal-bcci-made-big-statements-485707 ",
     "time": "2026-07-25T08:33:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "જંતર-મંતર હિંસા પર મોટો ખુલાસો! FRSથી 2500 ઉપદ્રવીઓ ઓળખાયા, કાવતરાનો થયો પર્દાફાશ",
-    "desc": "દિલ્હીના જંતર મંતર પર કોકરોચ જનતા પાર્ટીના આંદોલન અંગે એક અત્યંત ચોંકાવનારો અને ભયાનક ખુલાસો થયો છે. દિલ્હી પોલીસના ફેશિયલ રેક્ગનાઈઝેશન સિસ્ટમ (FRS)ની તપાસમાં સામે આવ્યું છે કે પ્રદર્શનકારીઓની ભીડમાં 2500થી વધુ અપરાધિક બેકગ્રાઉન્ડવાળા લોકો ઘૂસી ચૂક્યા છે જે આંદોલનની આડમાં કાયદા વ્યવસ્થાને સંપૂર્ણ રીતે ધ્વસ્ત કરવાનું ષડયંત્ર રચી રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/big-revelation-on-jantar-mantar-violence-2500-criminals-identified-through-frs-485693 ",
-    "time": "2026-07-25T06:34:31.000Z"
   },
   {
     "cat": "Entertainment",

@@ -1,7 +1,25 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "India win the toss, opt to bat first in Harare",
+    "title": "Vaibhav Sooryavanshi continues red-hot form, smashes quickfire half-century against Zimbabwe in third T20I",
+    "desc": "The Indian team took on Zimbabwe in the third T20I of the ongoing series between the two sides. The two teams met at the Harare Sports Club on July 26th, and the game began with...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-continues-red-hot-form-smashes-quickfire-half-century-against-zimbabwe-in-third-t20i-2026-07-26-1049464",
+    "time": "2026-07-26T12:24:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Washington Sundar ruled out of India's 1st Test against Sri Lanka due to injury",
+    "desc": "The Indian team is all set to take on Sri Lanka in a two-game Test series, with the first Test slated to begin on August 15, and the two sides will hope to put in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/washington-sundar-ruled-out-of-india-s-1st-test-against-sri-lanka-due-to-injury-2026-07-26-1049462",
+    "time": "2026-07-26T11:47:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India strike early, Zimbabwe 1 down",
     "desc": "The stage is set for the third and final T20I of the ongoing series between India and Zimbabwe. The two sides are meeting at the Harare Sports Club for the clash, and both will be...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/star-bangladesh-pacer-ruled-out-of-test-series-vs-australia-bcb-statement-confirms-2026-07-25-1049420",
     "time": "2026-07-25T17:52:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI set to review Indian team's poor show in England, Ireland series; coaching changes are possible",
-    "desc": "The Board of Control for Cricket in India (BCCI) is set to review the national team's recent white-ball performances after a disappointing United Kingdom tour. A meeting is scheduled for August, with the assessment also...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-set-to-review-indian-team-s-poor-show-in-england-ireland-series-coaching-changes-are-possible-2026-07-25-1049419",
-    "time": "2026-07-25T17:24:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India equalled own world record with another stunning show against Zimbabwe in second T20I",
-    "desc": "India equalled the world record for the most 200-plus totals in a calendar year after posting 219/5 against Zimbabwe in the second T20I in Harare. The total was India's ninth score of 200 or more...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-equalled-own-world-record-with-another-stunning-show-against-zimbabwe-in-second-t20i-2026-07-25-1049416",
-    "time": "2026-07-25T16:18:59.000Z"
   }
 ];
