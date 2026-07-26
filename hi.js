@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Mirabai Chanu clinches gold medal in 48kg weightlifting at Commonwealth Games 2026",
+    "desc": "India's star weightlifter Mirabai Chanu clinched yet another gold medal at the Commonwealth Games as she won the yellow metal for the third consecutive time on Sunday, July 26, during the ongoing Glasgow Games. Chanu...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/mirabai-chanu-clinches-gold-medal-in-49kg-weightlifting-at-commonwealth-games-2026-2026-07-26-1049475",
+    "time": "2026-07-26T14:55:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India thump Zimbabwe in Harare, register dominant 35-run win to complete clean sweep",
+    "desc": "The third and final T20I of the ongoing series between India and Zimbabwe saw the two sides take on each other at the Harare Sports Club on July 26th. The game saw India put in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-thump-zimbabwe-in-harare-register-dominant-35-run-win-to-complete-clean-sweep-2026-07-26-1049474",
+    "time": "2026-07-26T14:43:33.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Vaibhav Sooryavanshi continues red-hot form, smashes quickfire half-century against Zimbabwe in third T20I",
     "desc": "The Indian team took on Zimbabwe in the third T20I of the ongoing series between the two sides. The two teams met at the Harare Sports Club on July 26th, and the game began with...",
     "img": "",
@@ -19,7 +37,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "India strike early, Zimbabwe 1 down",
+    "title": "India defeat Zimbabwe by 35 runs",
     "desc": "The stage is set for the third and final T20I of the ongoing series between India and Zimbabwe. The two sides are meeting at the Harare Sports Club for the clash, and both will be...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/anahat-singh-first-indian-world-junior-squash-champion-2026-07-26-1049426",
     "time": "2026-07-26T01:21:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shreyas Iyer shares update on Prince Yadav, lauds Ishan Kishan, Tilak Varma after series win vs Zimbabwe",
-    "desc": "India pacer Prince Yadav was forced to leave the field in the second T20I against Zimbabwe in Harare. He appeared to have hurt his hamstring while delivering the second ball of his second over. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-shares-update-on-prince-yadav-lauds-ishan-kishan-tilak-varma-after-series-win-vs-zimbabwe-2026-07-25-1049422",
-    "time": "2026-07-25T18:13:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Star Bangladesh pacer ruled out of Test series vs Australia, BCB statement confirms",
-    "desc": "Bangladesh's preparations for their historic Test tour of Australia have suffered a significant setback. Ace pacer Nahid Rana has been ruled out of the two-match series with a Grade 2 strain on his left side....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/star-bangladesh-pacer-ruled-out-of-test-series-vs-australia-bcb-statement-confirms-2026-07-25-1049420",
-    "time": "2026-07-25T17:52:02.000Z"
   }
 ];

@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "ટીમ ઈન્ડિયાએ ઝિમ્બાબ્વેનો કર્યો વ્હાઈટવોશ, છેલ્લી મેચમાં 35 રને વિજય, સિરીઝ 3-0થી જીતી",
+    "desc": "ટીમ ઈન્ડિયાએ ઈંગ્લેન્ડ અને આયર્લેન્ડ સામેની ટી20 શ્રેણીમાં ક્લીન સ્વીપનો સામનો કરવો પડ્યો હતો. હવે શાનદાર વાપસી કરીને ટીમે ઝિમ્બાબ્વે સામેની શ્રેણી 3-0થી જીતી લીધી છે. ટીમ ઈન્ડિયાએ ત્રીજી ટી20 મેચમાં પણ એકતરફી જીત નોંધાવી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/team-india-clean-sweep-zimbabwe-in-3-match-t20i-series-485846 ",
+    "time": "2026-07-26T15:27:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કોણ છે નંદન નીલેકણી? જેમને મોદી સરકારે સોંપી દેશની પરીક્ષા વ્યવસ્થા સુધારવાની જવાબદારી, સંભાળશે હાઈ પાવર્ડ ટાસ્ક ફોર્સની કમાન",
+    "desc": "પેપર લીક મામલે શિક્ષણ મંત્રીના રાજીનામા બાદ મોદી સરકારે વધુ એક મોટું પગલું ભર્યું છે. સરકારે પરીક્ષા પ્રણાલીમાં સુધારા માટે એક હાઈ પાવર્ડ ટાસ્ક ફોર્સ બનાવવાની જાહેરાત કરી છે. આ ફોર્સની કમાન ટેક્નોલોજી સેક્ટરના દિગ્ગજ નંદન નીલેકણીને સોંપવામાં આવી છે. જાણો નંદન કોણ છે અને શા માટે તેમને આ કામ માટે પસંદ કરવામાં આવ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/who-is-nandan-nilekani-modi-government-has-entrusted-him-with-the-responsibility-of-improving-the-country-examination-system-he-will-take-charge-of-the-high-powered-task-force-485845 ",
+    "time": "2026-07-26T15:21:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "પેપર લીક પર PM મોદીનો નવો વીડિયો, કહ્યું- &amp;#039;વિદ્યાર્થીઓના ભવિષ્ય સાથે ચેડા કરનાર...&amp;#039;",
+    "desc": "પેપર લીક મુદ્દે પીએમ મોદીએ ઇન્સ્ટાગ્રામ પર વધુ એક વીડિયો શેર કર્યો છે. જેમાં યુવાનોને ખાતરી આપવામાં આવી છે કે કડક દોષિતો સામે કડક પગલાં લેવામાં આવશે. તેમણે પરીક્ષા સિસ્ટમને સુરક્ષિત, પારદર્શક અને આધુનિક બનાવવાના ઉદ્દેશ્યથી ટેકનિકલ સુધારાઓ અમલમાં મૂકવા માટે ટેક નિષ્ણાત નંદન નીલેકણીના નેતૃત્વમાં એક હાઈ પાવર ટાસ્ક ફોર્સની રચનાની જાહેરાત કરી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/pm-modi-new-video-on-paper-leak-announces-high-powered-task-force-on-exam-reforms-485844 ",
+    "time": "2026-07-26T15:21:02.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "હોર્મુઝમાં મોટો અકસ્માત ! સી-માઇન સાથે ઓઇલ ટેન્કર અથડાતા ભયાનક વિસ્ફોટ",
+    "desc": "ઈરાની મીડિયાએ દાવો કર્યો છે કે હોર્મુઝ સ્ટ્રેટમાંથી પસાર થઈ રહેલા એક ઓઈલ ટેન્કર સી-માઇન સાથે અથડાયા બાદ વિસ્ફોટ થયો હતો. અહેવાલો અનુસાર, આ ઘટના એટલા માટે બની કારણ કે ટેન્કર તેના નિર્ધારિત દરિયાઈ માર્ગથી ભટકી ગયું હતું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/major-blast-in-hormuz-oil-tanker-explodes-after-hitting-sea-mine-485837 ",
+    "time": "2026-07-26T14:08:24.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "વાહનચાલકો માટે ખુશખબર, ટોલ ટેક્સના નવા નિયમોથી સસ્તી થશે સફર! હાઇવે પર મુસાફરી કરનારાઓ પર શું થશે અસર?",
+    "desc": "NHAIએ ટોલ ટેક્સ વસૂલવાના નિયમોમાં બદલાવ કર્યો છે. હવે હાઇવે પર જેટલા કિલોમીટર ગાડી ચલાવશો અને અંતર કાપશો તેના અનુસાર જ ટોલ લાગશે. જાણો આ નવા ફોર્મ્યુલાથી સામાન્ય જનતાની મુસાફરી કેટલી સસ્તી થશે અને કેવી રીતે સમયની સાથે ઈંધણનો બચાવ થશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/good-news-for-motorists-new-toll-tax-rules-will-make-travel-cheaper-what-will-be-the-impact-on-those-traveling-on-highways-485836 ",
+    "time": "2026-07-26T13:36:45.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "હાડ થીજવતી ઠંડીમાં પણ અડગ હતા ભારતના વીર યોદ્ધાઓ, કેવી રીતે શરૂ થયું હતું આ યુદ્ધ?",
     "desc": "દર વર્ષે 26 જુલાઈના રોજ કારગિલ વિજય દિવસ 'ઓપરેશન વિજય'ના બહાદુર સૈનિકોના સાહસ, બલિદાન અને અતૂટ સંકલ્પના સન્માન રૂપે મનાવવામાં આવે છે. આ કારગિલ યુદ્ધમાં ભારતની ઐતિહાસિક જીતની યાદ અપાવે છે અને રાષ્ટ્રની સાર્વભૌમત્વની રક્ષા કરનારી ભાવનાની ઉજવણી કરે છે. આ પ્રસંગ કારગિલના અમીટ વારસાને પણ પ્રતિબિંબિત કરે છે.",
@@ -252,15 +297,6 @@ const newsData_gu = [
     "time": "2026-07-25T10:00:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "કોણ છે ધર્મેન્દ્ર પ્રધાન? ક્યારે કર્યો હતો રાજકારણમાં પ્રવેશ? આંદોલન બાદ કેમ આપવું પડ્યું મંત્રી પદ પરથી રાજીનામું",
-    "desc": "આજે એટલે કે 25 જુલાઈ 2026ના રોજ ધર્મેન્દ્ર પ્રધાને કેન્દ્ર સરકારમાં શિક્ષણ મંત્રીના પદ પરથી રાજીનામું આપી દીધું છે. ભારતીય જનતા પાર્ટી (BJP)ના વરિષ્ઠ નેતા ધર્મેન્દ્ર પ્રધાન સામે NEET-UG જેવી પરીક્ષાઓમાં ગોલમાલ અને પેપર લીકના આરોપોને કારણે દેશભરના વિદ્યાર્થીઓ દ્વારા તેમને હટાવવાની માંગ ઉઠવા લાગી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/who-is-dharmendra-pradhan-students-were-upset-over-the-neet-paper-leak-he-had-to-resign-from-his-ministerial-post-following-protests-485714 ",
-    "time": "2026-07-25T09:46:14.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "શ્રેયસ ઐયર સહિત આ 8 ખેલાડી નહીં રમે ODI સિરીઝ, BCCIને ઉતારવી પડશે નવી ટીમ, જાણો શું છે કારણ",
     "desc": "ભારતીય ટીમને સપ્ટેમ્બર-ઓક્ટોબરમાં એક મોટી મુશ્કેલીનો સામનો કરવો પડી શકે છે. એશિયન ગેમ્સ 2026 અને વેસ્ટ ઇન્ડીઝ સામેની ODI શ્રેણીની તારીખો એક સાથે આવતી હોવાથી ટીમ ઇન્ડિયાના 8 મુખ્ય ખેલાડીઓ ODI શ્રેણીમાં રમી શકશે નહીં.",
@@ -423,15 +459,6 @@ const newsData_gu = [
     "time": "2026-07-21T11:42:12.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ફૂટબોલ વર્લ્ડ કપના અંત સાથે દુ:ખદ સમાચાર, મહાન ફૂટબોલરનું નિધન, કેન્સરે છીનવ્યું જીવન",
-    "desc": "ઇંગ્લેન્ડના મહાન ફૂટબોલર અને નેશનલ ટીમના ભૂતપૂર્વ કેપ્ટન અને કોચ કેવિન કીગનનું નિધન થયું છે. કીગ 75 વર્ષની વયે અંતિમ શ્વાસ લીધા. તેઓ છેલ્લા કેટલાક સમયથી કેન્સર સામે લડી રહ્યા હતા અને આખરે તેઓ જીવનની લડાઈ હારી ગયા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/england-football-legend-kevin-keegan-dies-at-75-after-cancer-battle-485346 ",
-    "time": "2026-07-21T09:08:41.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "પેટ્રોલ પુરાવતી વખતે ડેન્સિટી (Density) ચેક કરવી કેમ જરૂરી છે? જાણો કેટલી હોવી જોઈએ સાચી ડેન્સિટી!",
     "desc": "ઘણા લોકોનું માનવું છે કે વધુ ડેન્સિટીવાળું પેટ્રોલ સારી માઇલેજ આપે છે, પરંતુ આ સંપૂર્ણ સત્ય નથી. વાહનની માઇલેજ એન્જિનની સ્થિતિ, ડ્રાઇવિંગ સ્ટાઇલ, ટ્રાફિક, ટાયર પ્રેશર અને ઈંધણની ગુણવત્તા સહિત અન્ય કારણો પર નિર્ભર કરે છે.",
@@ -439,15 +466,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/understanding-fuel-density-ideal-petrol-and-diesel-density-range-and-its-impact-on-your-vehicle-485345 ",
     "time": "2026-07-21T09:05:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "રેપ કેસમાં ફસાયો આ IPL ક્રિકેટર, યુવતીના મારપીટ-ધમકીના પણ આરોપ, કોર્ટેનો તાબડતોબ ધરપકડનો આદેશ",
-    "desc": "આઈપીએલમાં ધૂમ મચાવનારા એક ક્રિકેટરની પર મુસીબતો વધી છે. કોલકાતા હાઈકોર્ટે અભિષેક પોરેલ અને અન્ય એક આરોપીની તાબડતોબ ધરપકડના આદેશ આપ્યા છે. એક મેડિકલ વિદ્યાર્થીનીની ફરિયાદના આધારે નોંધાયેલા અપરાધિક મામલા સંબંધે આ આદેશ અપાયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ipl-cricketer-abhishek-porel-in-trouble-calcutta-high-court-directs-immediate-arrest-485323 ",
-    "time": "2026-07-21T06:27:20.000Z"
   },
   {
     "cat": "World",
@@ -574,15 +592,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/us-president-donald-trump-address-to-the-nation-big-claim-about-china-us-election-484885 ",
     "time": "2026-07-17T03:36:20.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "અમેરિકામાં વિદેશી વિદ્યાર્થીઓ માટે વિઝાના નિયમો બદલાશે, હવે મહત્તમ 4 વર્ષ જ રહી શકાશે; જાણો કેટલા ભારતીયોને લાગશે ઝટકો",
-    "desc": "અમેરિકામાં ટ્રમ્પ પ્રશાસને આંતરરાષ્ટ્રીય વિદ્યાર્થીઓ સાથે સંબંધિત F-1 વિઝાના નિયમોમાં મોટો બદલાવ કર્યો છે. હવે દાયકાઓ જૂની 'ડ્યુરેશન ઓફ સ્ટેટસ' એટલે કે અનિશ્ચિત મુદ્દતની પ્રવાસ પ્રણાલીને નાબૂદ કરીને એક નિશ્ચિત સમયગાળા સુધી રહેવાની મર્યાદા લાગુ કરવામાં આવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/visa-rules-for-foreign-students-in-america-will-change-now-maximum-stay-will-be-4-years-know-how-many-indians-will-be-affected-484881 ",
-    "time": "2026-07-16T17:29:18.000Z"
   },
   {
     "cat": "Tech",

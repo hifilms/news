@@ -1,6 +1,33 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "দু'দিনে ২ মন্ত্রীর পদত্যাগ! একদিকে প্রশ্ন ফাঁস-কাণ্ড, অন্য দিকে 'গুরুতর দুর্নীতি'র অভিযোগ...! অন্যজন কে?",
+    "desc": "২ দেশ, ২ দিন, ২ মন্ত্রী, ২ পদত্যাগ! দুজনেই শিক্ষামন্ত্রী! হ্যাঁ, দু'দিনে দু'দেশে দুই ভিন্ন কারণে পদত্যাগ দুই শিক্ষামন্ত্রীর! খুবই আশ্চর্য ঘটনা। খুব অদ্ভুত সমাপতনও। এই ঘটনার দুই প্রান্তে দুই মহাদেশ-- এশিয়া আর অস্ট্রেলিয়া। দুই ভিন্ন কারণে এই দুই পদত্যাগের ঘটনা। একটি ভারতে, অন্যটি অস্ট্রেলিয়ান ক্যাপিটাল টেরিটরিতে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/2-days-2-education-ministers-from-2-countries-quit-for-different-reasons-dharmendra-pradhan_664084.html ",
+    "time": "2026-07-26T15:21:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ধর্মেন্দ্র প্রধানের পদত্যাগ সংসদের অধিবেশনে কী প্রভাব ফেলবে? সংস্কারমূলক বিলগুলি কি পেশ হবে?",
+    "desc": "রাষ্ট্রপতি দ্রৌপদী মুর্মু কেন্দ্রীয় মন্ত্রিসভা থেকে ধর্মেন্দ্র প্রধানের পদত্যাগপত্র গ্রহণ করেছেন। ধর্মেন্দ্র প্রধানের পদত্যাগ অবিলম্বে কার্যকর করা হয়েছে এবং প্রল্হাদ জোশী তাঁর বর্তমান দফতরগুলির পাশাপাশি শিক্ষা মন্ত্রকের দায়িত্বও সামলাবেন বলে জানা গিয়েছে। কিন্তু কী হবে আগামীকাল সোমবার থেকে?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/will-dharmendra-pradhans-resignation-have-any-impact-on-governments-core-agenda-for-monsoon-session-what-happens-next-in-parliament_664080.html ",
+    "time": "2026-07-26T14:26:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'আমরা যদি কোনও পুরুষ মানুষকে দেখি, তার নিম্নাঙ্গে দেখি না', বিস্ফোরক শ্রীলেখা",
+    "desc": "'আমি যখন বিজেপি বিরোধী হই, অন্ধভক্ত বিরোধী হই, মোদী বিরোধী হই, আমাকে কেউ দোশদ্রোহী অ্যাখ্যা দিলে যেমন হাস্যকর ব্যাপার। একইরকম হাস্যকর হচ্ছে যদি কেউ মনে করে ওইরকম ছবি, আমি ইচ্ছা করে ছবিটাকে নিয়ে দাঁড়িয়েছি। পেটে তো একটু শিক্ষাদীক্ষা আছে'।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/sreelekha-mitra-protest-kolkata-students-narendra-modi-complaints_664078.html ",
+    "time": "2026-07-26T14:15:48.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "দিল্লিতেই শেষ নয়, আছে আরও বড় কোনও পরিকল্পনা? সিজেপি'র আগামী কর্মকাণ্ডের বিগ আপডেট",
     "desc": "দিল্লিতে আন্দোলন স্থগিত করলেও কাকরোজ জনতা পার্টি (CJP) জানিয়েছে যে তাদের এই লড়াই কিন্তু এখনই শেষ হয়ে যায়নি। দলটি এখন দেশজুড়ে সফরের পরিকল্পনা করছে, যেখানে তারা তরুণ প্রজন্মের কথা শুনবে এবং যুবসমাজকে প্রভাবিত করে এমন বিভিন্ন সমস্যা তুলে ধরবে।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -70,15 +97,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/dharmendra-pradhan-resigns-priyanka-chopra-celebrates-big-win-vijay-varma-takes-dig-with-accha-chalta-hoon_663985.html ",
     "time": "2026-07-25T11:32:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "তরুণের তুর্কি নাচনে নড়ে গেল মোদীর মন্ত্রিসভা: টগবগে রক্তের বিজয়োল্লাসে ভাসল যন্তর মন্তর, ছাত্র আন্দোলনের ঐতিহাসিক জয়",
-    "desc": "শনিবার কেন্দ্রীয় শিক্ষামন্ত্রীর পদত্যাগের পর সিজেপি মুখপাত্র জানান, তাঁদের প্রথম ও প্রধান শর্তটি পূরিত হয়েছে। তবে পরীক্ষা ব্যবস্থার স্বচ্ছতা নিশ্চিত করতে এবং গঠিত ফাস্ট ট্র্যাক কোর্টের কার্যক্রম সঠিকভাবে পরিচালনা হচ্ছে কি না, সেদিকে তাঁরা নজর রাখবেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/bowing-to-cjp-protests-education-minister-dharmendra-pradhan-resigns-students-celebrate-victory-of-student-power_663971.html ",
-    "time": "2026-07-25T10:29:26.000Z"
   },
   {
     "cat": "Entertainment",
@@ -313,15 +331,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/actor-rajesh-sharma-discharged-from-hospital-health-update-shoot-in-london_662949.html ",
     "time": "2026-07-18T12:51:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "১৬ জুলাই কি তবে চার হাত এক হল? জেনিফার উইঙ্গেটের ব্রাইডাল গাউনের ভিডিয়ো ভাইরাল",
-    "desc": "গত ১৬ জুলাই বিট্রেনের এক ঘরোয়া অনুষ্ঠানে তাঁদের বিয়ে হওয়ার কথা ছিল। তবে বিয়ে সম্পন্ন হয়েছে কি না, তা নিয়ে জেনিফার বা উইলিয়াম এখনও কোনও আনুষ্ঠানিক বিবৃতি দেননি। এর আগে ২০১৪ সালে অভিনেতা করণ সিং গ্রোভারের সঙ্গে জেনিফারের বিবাহবিচ্ছেদ হয়।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/jennifer-wingets-bridal-gown-trial-video-goes-viral-amid-wedding-rumours_662928.html ",
-    "time": "2026-07-18T12:02:14.000Z"
   },
   {
     "cat": "World",

@@ -1,5 +1,185 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "'My games is the same': Sooryavanshi after winning 'man of the series'",
+    "desc": "Teenage sensation Vaibhav Sooryavanshi dominated Zimbabwe's bowling attack in Harare. He secured Player of the Match and Series awards after India's 3-0 T20I sweep. Sooryavanshi scored 151 runs across three innings with fearless strokeplay and composure. His dream debut series saw him achieve a record-breaking maiden T20I half-century. The young player expressed happiness and gratitude for the team's support.",
+    "img": "https://static.toiimg.com/photo/msid-132643716,imgsize-112528.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/i-never-changed-my-game-vaibhav-sooryavanshi-after-winning-man-of-the-series-at-just-15/articleshow/132643648.cms",
+    "time": "2026-07-26T15:44:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Attempt to repair PM's tarnished image': Congress on high-powered exam reforms task force",
+    "desc": "Prime Minister Narendra Modi announced a high-powered task force for examination reforms. This move follows recent irregularities in national entrance examinations like NEET-UG. The Congress party criticized the initiative as an attempt to repair the Prime Minister's image. The government aims to establish a foolproof examination system through this task force. Recommendations from a previous committee have yet to be fully implemented.",
+    "img": "https://static.toiimg.com/photo/msid-132643789,imgsize-187147.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/attempt-to-repair-pms-tarnished-image-congress-on-high-powered-exam-reforms-task-force/articleshow/132643594.cms",
+    "time": "2026-07-26T15:36:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "MEA advisory urges Indian seafarers to assess security risks before taking jobs in Black Sea region",
+    "desc": "The advisory comes a day after the MV AGN Ragnar, carrying four Indian crew, was hit by a projectile in Odesa; two Indians on the ship confirmed safe, but information still awaited on the other two, says Indian Embassy in Kyiv",
+    "img": "https://th-i.thgim.com/public/incoming/gu1szp/article71270038.ece/alternates/LANDSCAPE_1200/2026-07-24T122107Z_1897482135_RC23LDAMVHZU_RTRMADP_3_GLOBAL-GRAINS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/mea-advisory-urges-indian-seafarers-to-assess-security-risks-before-taking-jobs-in-black-sea-region/article71269712.ece",
+    "time": "2026-07-26T15:26:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Criminal cases against people’s representatives in Kerala: five face sexual harassment charges, IUML leader faces 120 BUDS Act cases",
+    "desc": "As per details of pending cases against sitting or former MPs and MLAs submitted by the District Judiciary before the Kerala High Court, Thiruvananthapuram has the highest number of cases, followed by Kasaragod and Kannur",
+    "img": "https://th-i.thgim.com/public/incoming/eatt08/article71269856.ece/alternates/LANDSCAPE_1200/24-year-old-manG71G9EO39.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/criminal-cases-against-peoples-representatives-in-kerala-iuml-leader-faces-120-buds-act-cases-five-face-sexual-harassment-charges/article71269309.ece",
+    "time": "2026-07-26T15:26:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mirabai completes hattrick of golds at Commonwealth Games",
+    "desc": "The result was never really in doubt; the only question was how far Mirabai would push the limits. And the Manipuri superstar answered in emphatic style, rewriting the record books with a stunning display of strength and composure.",
+    "img": "https://th-i.thgim.com/public/incoming/z8cyly/article71270014.ece/alternates/LANDSCAPE_1200/PTI07_26_2026_000416B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/mirabai-completes-hattrick-of-golds-at-commonwealth-games/article71270013.ece",
+    "time": "2026-07-26T15:16:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Govt, opposition brace for fight over NEET row, other issues",
+    "desc": "As the monsoon session reconvenes, tensions rise again over the NEET-UG paper leak scandal. Opposition factions are determined to maintain pressure on the administration following significant protests. Prime Minister Modi has introduced reforms for examinations and established a dedicated task force for student welfare. In response, Rahul Gandhi is targeting the government over police conduct. The government aims to introduce a bill designed to eradicate malpractice in examinations.",
+    "img": "https://static.toiimg.com/photo/msid-132643784,imgsize-1080011.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/from-jantar-mantar-to-parliament-govt-opposition-brace-for-fight-over-neet-row-other-issues/articleshow/132643378.cms",
+    "time": "2026-07-26T15:15:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CDSCO cancels 7 clinical trial ethics panels over serious violations",
+    "desc": "India's drug regulator cancelled seven Ethics Committee registrations nationwide. Inspections revealed serious violations of clinical trial rules and guidelines. These committees oversee participant rights and safety during medical studies. The action followed a thorough compliance assessment and review process. This move ensures better adherence to regulatory standards for drug trials.",
+    "img": "https://static.toiimg.com/photo/msid-132643546,imgsize-16716.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cdsco-cancels-7-clinical-trial-ethics-panels-over-serious-violations/articleshow/132643559.cms",
+    "time": "2026-07-26T15:13:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mirabai Chanu wins India's first gold at Commonwealth Games with record lift",
+    "desc": "The 31-year-old lifted a Commonwealth and Games record 85kg in the snatch before registering a Games record 105kg in the clean and jerk. She finished with a total lift of 190kg to claim the gold medal.",
+    "img": "https://static.toiimg.com/photo/msid-132643364,imgsize-423461.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/mirabai-chanu-wins-gold-in-weightlifting-at-glasgow-commonwealth-games/articleshow/132643351.cms",
+    "time": "2026-07-26T14:58:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Christopher Nolan’s The Odyssey: The odds of adaptation",
+    "desc": "Christopher Nolan’s The Odyssey has reignited an age-old debate. How faithful should an adaptation be? Should filmmakers stick to every beat of the original? Or should they reinterpret timeless stories for the audiences of today? In this episode, Sudhish Kamath explores why adaptation isn’t about copying a classic—it’s about discovering a new way of seeing it.",
+    "img": "https://th-i.thgim.com/public/incoming/hdk3bh/article71269905.ece/alternates/LANDSCAPE_1200/FMM.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/christopher-nolans-the-odyssey-the-odds-of-adaptation-frequently-made-mistakes/article71269907.ece",
+    "time": "2026-07-26T14:46:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranbir Kapoor denies reports of doing Dhoom 4, doesn't mention Animal Park",
+    "desc": "Ranbir Kapoor denied reports linking him to Dhoom 4 at San Diego Comic-Con. He confirmed his current work on Ramayana and Love & War. Love & War is scheduled for a January 2025 release date. Speculation about Ranbir leading Dhoom 4 has circulated for several years. Yash Raj Films has not officially announced any Dhoom franchise project.",
+    "img": "https://static.toiimg.com/photo/msid-132643100,imgsize-162075.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-denies-doing-dhoom-4-doesnt-mention-animal-park-working-on-ramayana-and-love-war-right-now/articleshow/132643056.cms",
+    "time": "2026-07-26T14:42:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TDP leader condemns YSRCP’s attempts to politicise Mega DSC drive",
+    "desc": "The High Court found no fault in the conduct of the examination, but the opposition party is making a slew of allegations, and provoking and emotionally blackmailing those who did not qualify, says TDP national spokesperson Neelayapalem Vijay Kumar",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-leader-condemns-ysrcps-attempts-to-politicise-mega-dsc-drive/article71269787.ece",
+    "time": "2026-07-26T14:39:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Responsible for brutal assault on innocent students’: After Dharmendra Pradhan, opposition turns heat on Amit Shah, seeks resignation",
+    "desc": "Opposition parties will intensify their Parliament attack on the government. They are demanding Home Minister Amit Shah's resignation over police action. This action involved students protesting the NEET paper leak issue. The government is also set to introduce amendments to the anti-paper leak law. Questions are also being raised about a key higher education secretary appointment.",
+    "img": "https://static.toiimg.com/photo/msid-132642899,imgsize-77304.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/responsible-for-brutal-assault-on-innocent-students-after-dharmendra-pradhan-opposition-turns-heat-on-amit-shah-seeks-resignation/articleshow/132642724.cms",
+    "time": "2026-07-26T14:38:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Infosys co-founder, Aadhaar architect: Who is Nandan Nilekani, set to lead high-powered exam reforms task force",
+    "desc": "Prime Minister Narendra Modi announced a high-powered task force for examination reforms. Nandan Nilekani, Infosys co-founder, will lead this important government initiative. The task force includes prominent figures from ISRO and IIT Madras. This development follows recent student protests and a minister's resignation. The government aims to address broader reforms within the education sector.",
+    "img": "https://static.toiimg.com/photo/msid-132642862,imgsize-123600.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/infosys-co-founder-aadhaar-architect-who-is-nandan-nilekani-set-to-lead-govts-exam-reforms-task-force/articleshow/132642420.cms",
+    "time": "2026-07-26T14:31:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala Police issue warning against cyber fraud using fake KTDC hotel booking websites",
+    "desc": "Fraudsters are primarily targeting users who search on Google using keywords such as 'KTDC Stay,' 'KTDC Hotels,' 'KTDC Booking' and 'KTDC Resort.' The fake websites are designed to closely resemble the official KTDC website, making it difficult for the public to distinguish between genuine and fraudulent platforms",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-police-issue-warning-against-cyber-fraud-using-fake-ktdc-hotel-booking-websites/article71269540.ece",
+    "time": "2026-07-26T14:15:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hina on the criticism around Aamir's third marriage: 'It isn't considered good by society'",
+    "desc": "Actor Aamir Khan recently married Gauri Spratt, his third marriage. This union has drawn criticism from right-wing groups and public scrutiny. Hina Khan discussed societal views on multiple marriages during a podcast appearance. Aamir Khan rejected allegations of \"love jihad\" and explained his family's interfaith marriages. He has maintained amicable relationships with his previous wives, Reena Dutta and Kiran Rao.",
+    "img": "https://static.toiimg.com/photo/msid-132642735,imgsize-302658.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hina-khan-reacts-to-the-criticism-around-aamir-khans-third-marriage-with-gauri-spratt-it-isnt-considered-very-good-in-our-society-marriage-after-marriage-after-marriage-even-divorce/articleshow/132642549.cms",
+    "time": "2026-07-26T14:10:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Guru Tegh Bahadur’s sacrifice symbolises courage, service and compassion: Governor",
+    "desc": "Recalling Guru Tegh Bahadur’s supreme sacrifice in the defence of faith and religious freedom, Mr. Gehlot said the guru laid down his life to protect religion and its followers and was, therefore, revered as “Hind Di Chadar”",
+    "img": "https://th-i.thgim.com/public/incoming/wwq4nd/article71269763.ece/alternates/LANDSCAPE_1200/10258_26_7_2026_19_7_35_1_THAWAR_CHAND_GEHLOT_1.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/guru-tegh-bahadurs-sacrifice-symbolises-courage-service-and-compassion-governor/article71269618.ece",
+    "time": "2026-07-26T14:05:50.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Honduras ex-President Hernandez to return home after Trump pardon",
+    "desc": "He is expected to appear ‌before a court on August 3 to face charges of fraud ‌and ⁠money laundering. An arrest warrant issued against him was suspended in ⁠June, meaning he will not be detained upon arrival",
+    "img": "https://th-i.thgim.com/public/incoming/a3x6tt/article71269669.ece/alternates/LANDSCAPE_1200/Honduras_Juan_Orlando_Return_94436.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/honduras-ex-president-hernandez-to-return-home-after-trump-pardon/article71269363.ece",
+    "time": "2026-07-26T13:45:30.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India’s first hydrogen-powered train saves 3,200 litres of diesel; Delhi route tests next",
+    "desc": "India's first hydrogen train has traveled over 1,200 kilometers during trial operations. This indigenous project has already saved over 3,200 liters of diesel fuel. The train generates electricity using hydrogen fuel cells, releasing only water vapor. Dedicated hydrogen storage and refuelling facilities have been established at Jind. Further trial runs are planned for the Delhi route to support zero-emission rail transport.",
+    "img": "https://static.toiimg.com/photo/msid-132642254,imgsize-137818.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-first-hydrogen-powered-train-completes-over-1200-km-trials-saves-3200-litres-of-diesel-onboard-fuel-cells-generate-electricity-emit-only-water-vapour/articleshow/132642162.cms",
+    "time": "2026-07-26T13:41:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mayank equals Bhuvneshwar's T20I Record with 1st-ball wicket against Zimbabwe",
+    "desc": "Mayank Yadav achieved another remarkable feat in the third T20I. He dismissed Brian Bennett with the very first ball of the Zimbabwe innings. This marked the third time Yadav took a wicket on the opening delivery. He now equals Bhuvneshwar Kumar's Indian record for this achievement. Yadav continues his impressive comeback after a lengthy injury layoff.",
+    "img": "https://static.toiimg.com/photo/msid-132641949,imgsize-91672.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/mayank-yadav-equals-bhuvneshwar-kumars-t20i-record-with-first-ball-wicket-against-zimbabwe/articleshow/132641865.cms",
+    "time": "2026-07-26T13:29:25.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Germany says fatal Berlin Pride attack believed to be an act of Islamic extremist terror",
+    "desc": "The suspect in Saturday night’s (July 25) attack remains at large. Authorities issued a wanted notice and warned people against approaching Abdul Ballout, a German citizen with Lebanese roots, saying that he may be armed and dangerous.",
+    "img": "https://th-i.thgim.com/public/incoming/wk2jzx/article71268537.ece/alternates/LANDSCAPE_1200/Germany_Pride_66787.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/germany-berlin-lgbtqia-event-van-accident-police-casualties-updates-july-26-2026/article71268535.ece",
+    "time": "2026-07-26T13:01:19.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "'Govt-ordered probe an eyewash': Tripura Congress MLA demands judicial inquiry into DGP Anurag Dhankar's death",
     "desc": "Tripura Congress MLA Sudip Roy Barman reiterated the party's demand for a judicial probe. He cited unnatural circumstances surrounding the death of state DGP Anurag Dhankar. The MLA called the government's investigation an eyewash and alleged the DGP faced issues. He expressed disappointment over the high court's lack of suo motu action. The officer had previously investigated the Nirav Modi fraud case.",
@@ -11,7 +191,7 @@ const newsData_en = [
   {
     "cat": "Entertainment",
     "title": "Raveena criticises protests hijacked by hooligans, political parties: 'Some just wanted to make reels'",
-    "desc": "Actress Raveena Tandon praised peaceful Mizoram protests and criticized others. She noted some demonstrations were hijacked by political groups and unruly elements. Tandon expressed hope for meaningful reforms in the education system. She denounced violence and damage to public property during protests. The actor advocated for eradicating corruption and ensuring education access for all.",
+    "desc": "Actress Raveena Tandon praised peaceful Mizoram protests and criticized others. She added some demonstrations were hijacked by political groups and unruly elements. Tandon expressed hope for meaningful reforms in the education system. She denounced violence and damage to public property during protests. The actor advocated for eradicating corruption and ensuring education access for all.",
     "img": "https://static.toiimg.com/photo/msid-132641373,imgsize-208067.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/raveena-tandon-criticises-protests-in-some-states-which-were-hijacked-by-hooligans-political-parties-some-just-wanting-to-make-reels-ultimately-it-was-a-victory-for-the-rightful-demands/articleshow/132641233.cms",
@@ -45,24 +225,6 @@ const newsData_en = [
     "time": "2026-07-26T12:05:23.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "KSRTC staff will face action if free tickets are issued to men on Priyadarshini buses, says Kerala Transport Minister C.P. John",
-    "desc": "KSRTC to hire private buses during festival seasons to meet the increased travel demand, says Minister, who adds that the corporation had not purchased new buses over the past 10 years, leaving much of its fleet outdated",
-    "img": "https://th-i.thgim.com/public/incoming/rrxn2t/article71269241.ece/alternates/LANDSCAPE_1200/80688_21_7_2026_17_6_37_3_CPJOHN_KKN3.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/ksrtc-staff-will-face-action-if-free-tickets-are-issued-to-men-on-priyadarshini-buses-says-kerala-transport-minister-cp-john/article71269019.ece",
-    "time": "2026-07-26T12:04:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Trouble over temple land in Palani",
-    "desc": "First, it was Thirupparankundram. Now, it is Palani. South Tamil Nadu has been a hotbed of controversies surrounding religious places for some time now. The ownership and title of a parcel of land said to be within the precincts of the Dhandayuthapani Swamy Temple are now under debate, marking the first such controversy the TVK government has had to handle since taking office. The Hindu traces the origins of this conflict",
-    "img": "https://th-i.thgim.com/public/incoming/qpd04h/article71269276.ece/alternates/LANDSCAPE_1200/10216_25_7_2026_16_34_58_2_25_07_2026_TEMPLE_LAND_1.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/trouble-over-temple-land-in-palani/article71265579.ece",
-    "time": "2026-07-26T12:02:41.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.K. PM Burnham vows to put 'Britain's interest first' in Trump ties",
     "desc": "I can't at any point say that I won't take a different opinion from him, that I will need to voice a different idea that is right for Britain. And I will do that, says U.K. Prime Minister Andy Burnham",
@@ -70,15 +232,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/uk-pm-burnham-vows-to-put-britains-interest-first-in-trump-ties/article71269261.ece",
     "time": "2026-07-26T11:58:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India’s green transition is missing long-duration energy storage",
-    "desc": "The longer the time over which a technology discharges energy, the better its economics. At the same time, storing more energy also costs more. So for discharge durations beyond six hours, short-duration energy storage systems are unlikely to prove cost-effective",
-    "img": "https://th-i.thgim.com/public/incoming/m4o2md/article71140945.ece/alternates/LANDSCAPE_1200/iStock-157433936.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/india-green-transition-missing-long-duration-energy-storage/article71244283.ece",
-    "time": "2026-07-26T11:55:42.000Z"
   },
   {
     "cat": "Business",
@@ -126,15 +279,6 @@ const newsData_en = [
     "time": "2026-07-26T11:18:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Two held for impersonating Congress leader Priyanka Gandhi’s aide in cyber fraud case",
-    "desc": "Elathur MLA Vidya Balakrishnan had received a phone call on July 6 from a person claiming to be the private secretary of the Wayanad MP, offering her a Cabinet Minister’s post in exchange for ₹3 crore. Growing suspicious, the MLA contacted the MP’s office, which confirmed it was a scam",
-    "img": "https://th-i.thgim.com/public/incoming/xzr4d1/article71269098.ece/alternates/LANDSCAPE_1200/24-year-old-manG71G9EO39.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/two-held-for-impersonating-congress-leader-priyanka-gandhis-aide-in-cyber-fraud-case/article71269020.ece",
-    "time": "2026-07-26T11:17:23.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India's Rishikanta Singh wins silver, sets Commonwealth Games record",
     "desc": "Chanambam Rishikanta Singh secured the silver medal in the men's 60kg weightlifting event. He set a new Commonwealth Games record in the snatch discipline. Malaysia's Mohamad Aniq Bin Kasdan won the gold medal in the competition. Rishikanta's performance marked India's first medal in weightlifting at the Games. This achievement highlights India's continued strength in Commonwealth weightlifting.",
@@ -142,15 +286,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/indias-chanambam-rishikanta-singh-wins-silver-sets-commonwealth-games-record/articleshow/132640080.cms",
     "time": "2026-07-26T11:05:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Lawyer",
-    "desc": "Reacting to Tej Pratap Yadav’s arrest, Jan Suraaj Party founder Prashant Kishor claimed, “Tej Pratap Yadav supported me, so he was sent to jail. The BJP is harassing leaders of Jan Suraaj Party and those who are supporting us by misusing the administration.”",
-    "img": "https://th-i.thgim.com/public/incoming/14zsi7/article71269130.ece/alternates/LANDSCAPE_1200/20260725068L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/tej-pratap-arrested-over-neet-paper-leak-protest-before-bihar-police-registered-fir-lawyer/article71269116.ece",
-    "time": "2026-07-26T11:04:08.000Z"
   },
   {
     "cat": "Politics",
@@ -163,30 +298,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Why are there protests over the Ken-Betwa project?",
-    "desc": "Why does the project aim to do? How many villages and families are likely to be affected by it? What are the concerns of the tribal people regarding rehabilitation and compensation? Why has the project raised concerns among conservationists?",
-    "img": "https://th-i.thgim.com/public/incoming/lyc4cj/article71267407.ece/alternates/LANDSCAPE_1200/PTI07_19_2026_000538B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/why-are-there-protests-over-the-ken-betwa-project/article71267449.ece",
-    "time": "2026-07-26T10:57:13.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "'This is a new subject for me': Pralhad Joshi after taking charge as education minister",
     "desc": "Pralhad Joshi has taken charge as the Union Education Minister. He is reviewing the ministry's functioning and familiarizing himself with its operations. Joshi expressed gratitude to Prime Minister Narendra Modi for this new responsibility. This change follows Dharmendra Pradhan's resignation from the Union Council of Ministers. The ministry change occurs amid student protests over examination irregularities.",
     "img": "https://static.toiimg.com/photo/msid-132639907,imgsize-67976.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/this-is-a-new-subject-for-me-pralhad-joshi-after-taking-charge-as-education-minister/articleshow/132639875.cms",
     "time": "2026-07-26T10:51:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Andhra Pradesh launches AI platform to forecast urban floods; Vijayawada first",
-    "desc": "Developed by the Real Time Governance Society with the State Disaster Management Authority and IIT Gandhinagar, the platform uses three decades of Budameru flood data and satellite terrain mapping to give rainfall forecasts 48 hours ahead",
-    "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/wn5agc/article71269109.ece/alternates/LANDSCAPE_1200/App.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-launches-ai-platform-to-forecast-urban-floods-vijayawada-first/article71269032.ece",
-    "time": "2026-07-26T10:49:55.000Z"
   },
   {
     "cat": "Entertainment",
@@ -205,15 +322,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/im-so-very-loved-kajol-marks-national-parents-day-with-emotional-note-shares-rare-photos-of-parents-and-in-laws/articleshow/132639719.cms",
     "time": "2026-07-26T10:32:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tap ESCO model for improving energy efficiency, Kerala's Energy Management Centre tells institutions, industries",
-    "desc": "What makes the ESCO model attractive is that entities can implement energy efficiency improvement projects without upfront capital investment. The Energy Service Company undertakes the investment and implementation of the selected energy efficiency measures, and the project cost is recovered from the verified energy cost savings that are generated",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/tap-esco-model-for-improving-energy-efficiency-keralas-energy-management-centre-tells-institutions-industries/article71268870.ece",
-    "time": "2026-07-26T10:23:44.000Z"
   },
   {
     "cat": "Politics",
@@ -297,15 +405,6 @@ const newsData_en = [
     "time": "2026-07-26T09:41:02.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Beginning of accountability': Prashant Kishor on Dharmendra Pradhan's resignation",
-    "desc": "Addressing reporters, Kishor said the movement had gone beyond political affiliations and demonstrated that public mobilisation could force those in power to respond.\"This is the beginning of accountability. Accountability is being enforced under public pressure. I always say that in this country, the opposition party can be weak. The opposition cannot be weak,\" he said.",
-    "img": "https://static.toiimg.com/photo/msid-132639158,imgsize-77092.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/beginning-of-accountability-prashant-kishor-on-dharmendra-pradhans-resignation/articleshow/132639135.cms",
-    "time": "2026-07-26T09:37:44.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India Test squad hit by injury crisis ahead of Sri Lanka tour",
     "desc": "Several key Indian players face fitness issues ahead of the Sri Lanka Test tour. Washington Sundar and Jasprit Bumrah are among those with injury concerns. Sai Sudharsan is also likely to be picked subject to his recovery. Harshit Rana and Nitish Kumar Reddy are unavailable due to unhealed injuries. The team's fitness levels are a concern for future tournaments.",
@@ -313,24 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-test-squad-hit-by-injury-crisis-ahead-of-sri-lanka-tour-bumrah-sundar-face-fitness-race/articleshow/132639090.cms",
     "time": "2026-07-26T09:32:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "The reframing of the political narrative by Gen Z at Jantar Mantar",
-    "desc": "The anti-paper leak protests at Jantar Mantar evolved into a wider expression of Gen Z’s concerns over fairness, accountability and trust, posing a political challenge for the BJP and prompting questions about the credibility of sections of the mainstream media",
-    "img": "https://th-i.thgim.com/public/incoming/5369fe/article71268859.ece/alternates/LANDSCAPE_1200/TH25-Niustula-AG46GA63HA.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/the-reframing-of-the-political-narrative-by-gen-z-at-jantar-mantar/article71268651.ece",
-    "time": "2026-07-26T09:30:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Don't cry later': Owaisi makes alliance offer to Akhilesh to oust BJP in UP polls",
-    "desc": "During a rally in Moradabad, the Hyderabad Lok Sabha MP said he was ready to \"join hands\" or \"form alliance\" with Samajwadi Party, which would be cautious with the offer as both parties reach out to same voter base in the 403-seat assembly. Brushing off the BJP's \"B-team\" tag, Owaisi said he doesn't want BJP to continue in power for the third straight term in the state given that Samajwadi Party ties up with AIMIM to avoid the split of votes.",
-    "img": "https://static.toiimg.com/photo/msid-132639016,imgsize-140543.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dont-cry-later-owaisi-makes-alliance-offer-to-akhilesh-to-oust-bjp-in-up-polls/articleshow/132638638.cms",
-    "time": "2026-07-26T09:26:06.000Z"
   },
   {
     "cat": "Entertainment",
@@ -342,15 +423,6 @@ const newsData_en = [
     "time": "2026-07-26T09:22:57.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Death toll reaches 66; BJP launches Rs 12 crore relief drive",
-    "desc": "Assam's flood death toll has reached sixty-six people as the situation shows improvement. Over six lakh people remain affected across six districts, while water levels are receding. The state BJP has initiated a twelve crore rupee relief campaign for flood-hit families. This campaign aims to provide clothing to two lakh women and children. An inter-ministerial central team has arrived to assess the extensive flood damage.",
-    "img": "https://static.toiimg.com/photo/msid-132638982,imgsize-181571.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/assam-floods-death-toll-reaches-66-bjp-launches-rs-12-crore-relief-drive-top-developments/articleshow/132638891.cms",
-    "time": "2026-07-26T09:22:18.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "All about Robert De Niro’s real estate portfolio",
     "desc": "Renowned actor Robert De Niro boasts a diverse real estate portfolio throughout New York state. His iconic West Village townhouse, which graced his life for many years, has been sold. Additionally, he inherited a seaside Montauk home from his father, and previously shared an Upper West Side apartment that unfortunately succumbed to a fire. De Niro also has a stake in the luxurious Greenwich Hotel, showcasing his investment acumen.",
@@ -358,15 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/inside-robert-de-niros-real-estate-portfolio-from-greenwich-penthouse-montauk-beach-house-to-west-village-townhouse/articleshow/132638924.cms",
     "time": "2026-07-26T09:21:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Jamaati fundamentalists involved': Bengal CM Suvendu Adhikari alleges 'foreign hand' in Kolkata rally violence",
-    "desc": "West Bengal chief minister Suvendu Adhikari alleged Islamic fundamentalists orchestrated protest violence. He claimed these individuals were not students and may have foreign backing. The violence occurred during a protest concerning the alleged NEET question paper leak. Media personnel were reportedly targeted during the clashes with security forces. The state government invoked its anti-goonda law against those accused of orchestrating the violence.",
-    "img": "https://static.toiimg.com/photo/msid-132638917,imgsize-206952.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/jamaati-fundamentalists-bengal-cm-suvendu-adhikari-alleges-foreign-hand-in-kolkata-rally-violence/articleshow/132638748.cms",
-    "time": "2026-07-26T09:20:58.000Z"
   },
   {
     "cat": "Entertainment",
@@ -385,15 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/i-heard-over-a-dozen-scripts-chris-evans-returns-as-captain-america-for-avengers-doomsday-because-of-robert-downey-jr-/articleshow/132638805.cms",
     "time": "2026-07-26T09:10:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "government promises to settle farmers’ compensation through court",
-    "desc": "Minister Kondapalli Srinivas and Collector S. Ramsundar Reddy told farmers’ families the money deposited with the Visakhapatnam tribunal would reach them in a few months; farmers who gave land for the approach road had sought up to ₹1 crore an acre against the ₹48 lakh offered",
-    "img": "https://th-i.thgim.com/public/incoming/csyuju/article71011387.ece/alternates/LANDSCAPE_1200/A.P.-sets-up-coGEEFLM9A3.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/bhogapuram-airport-government-promises-to-settle-farmers-compensation-through-court/article71268764.ece",
-    "time": "2026-07-26T09:03:58.000Z"
   },
   {
     "cat": "Entertainment",
@@ -432,15 +486,6 @@ const newsData_en = [
     "time": "2026-07-26T08:20:01.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Punjab CM Bhagwant Mann inaugurates 120-bed multi-speciality hospital in Moga",
-    "desc": "Punjab Chief Minister Bhagwant Singh Mann inaugurated a new 120-bed hospital. This facility will improve access to advanced healthcare services in the Malwa region. Eligible patients can receive cashless treatment under government health schemes. The state government is also expanding its network of Aam Aadmi Clinics. Punjab has also introduced a universal healthcare scheme for all resident families.",
-    "img": "https://static.toiimg.com/photo/msid-132638354,imgsize-891524.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/punjab-cm-bhagwant-mann-inaugurates-120-bed-multi-speciality-hospital-in-moga/articleshow/132638353.cms",
-    "time": "2026-07-26T08:17:05.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Jaaved Jaaferi explains why Bollywood is bringing back big ensemble cast films like 'Dhamaal 4'",
     "desc": "Bollywood is witnessing a growing trend of films with large ensemble casts aimed at appealing to a wide range of viewers. 'Dhamaal 4' exemplifies this shift by combining popular returning actors with fresh talent. This comedy continues to entertain families at theaters, even in its third week, generating substantial box office success with over 140 crore rupees while offering a clean comedic experience that resonates with weekend audiences.",
@@ -457,24 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/web-series/news/english/callum-turner-unveils-cyber-punk-series-neuromancer-at-san-diego-comic-con-2026-this-is-just-your-first-access-point/articleshow/132638057.cms",
     "time": "2026-07-26T07:46:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Priyanka lands in Hyderabad for Varanasi; Nick carrying Malti wins hearts",
-    "desc": "Priyanka Chopra landed in Hyderabad with Nick Jonas and daughter Malti Marie, sparking a viral video of Nick lovingly holding Malti. The visit ties to Priyanka's comeback film 'Varanasi', directed by SS Rajamouli, also starring Mahesh Babu and Prithviraj Sukumaran. The pan-India film is slated for release on April 21, 2027.",
-    "img": "https://static.toiimg.com/photo/msid-132638006,imgsize-205751.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-lands-in-hyderabad-for-ss-rajamoulis-varanasi-nick-jonas-carrying-malti-wins-hearts-watch/articleshow/132638006.cms",
-    "time": "2026-07-26T07:39:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Daniel Craig",
-    "desc": "After concluding his iconic Bond role, Daniel Craig steps boldly into a new chapter, driven by artistic exploration. His final film as Bond, released in 2026, set streaming records, highlighting his lasting impact. With a fresh creative team now on board, Craig is excitedly branching out into varied genres, including fantasy and thrilling narratives, determined to surpass the heights of his past achievements.",
-    "img": "https://static.toiimg.com/photo/msid-132637944,imgsize-77262.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-daniel-craig-im-one-of-the-least-competitive-people-youll-ever-meet-except-with-myself-a-powerful-life-lesson-from-the-james-bond-actor-that-highlights-the-greatest-competition-is-always-with-yourself/articleshow/132637878.cms",
-    "time": "2026-07-26T07:39:16.000Z"
   },
   {
     "cat": "World",
@@ -532,15 +559,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Shreyas Iyer drops major selection hint after fresh India injury blow",
-    "desc": "India's captain Shreyas Iyer indicated potential team changes for the final T20I match. Pacer Prince Yadav sustained a hamstring injury during the second game. This setback may lead to new players featuring in the upcoming fixture. India already secured the series victory with a commanding two-nil lead. The team can now assess other players before the series concludes.",
-    "img": "https://static.toiimg.com/photo/msid-132635996,imgsize-160410.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/shreyas-iyer-drops-major-selection-hint-after-fresh-india-injury-blow/articleshow/132635974.cms",
-    "time": "2026-07-26T03:31:17.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Neeraj Chopra checks in after long injury rehab",
     "desc": "Sporting an all-black outfit comprising a sweatshirt, track pants and a black cap, Chopra cut a relaxed figure as he made his way into the hotel where the athletics and para-athletics contingent are staying. The Olympic and world champion returns to the CWG after missing the 2022 Birmingham edition because of injury.",
     "img": "https://static.toiimg.com/photo/msid-132635949,imgsize-35737.cms",
@@ -568,30 +586,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Messi seen for first time since painful World Cup final loss, emerges in Rosario to fans’ cheers",
-    "desc": "Lionel Messi made his first public appearance after Argentina’s heartbreaking 2026 World Cup final defeat to Spain by attending a local match in Rosario. The emotional captain spent time with family, supported his brother’s football club Leones FC, and avoided media attention. Messi will soon return to Inter Miami after recovering from the demanding tournament.",
-    "img": "https://static.toiimg.com/photo/msid-132635690,imgsize-932323.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/watch-messi-seen-for-first-time-since-painful-world-cup-final-loss-emerges-in-rosario-to-fans-cheers/articleshow/132635546.cms",
-    "time": "2026-07-26T02:30:01.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "'Think about cricket, not social media': Ishan Kishan to Vaibhav Sooryavanshi",
     "desc": "Ishan Kishan praised young Vaibhav Sooryavanshi after India's T20 win. He believes the 15-year-old possesses match-winning qualities for the national team. Senior players are guiding Sooryavanshi to focus solely on his cricket. They encourage him to ignore social media and external distractions. Kishan highlighted Sooryavanshi's attacking style as a significant team asset.",
     "img": "https://static.toiimg.com/photo/msid-132635706,imgsize-39838.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/think-about-cricket-not-social-media-ishan-kishan-to-vaibhav-sooryavanshi/articleshow/132635697.cms",
     "time": "2026-07-26T02:29:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Once a vegetable seller &amp; e-rickshaw driver, Jhandu now earns spot on CWG podium",
-    "desc": "Jhandu finished with 130.9 points after a best lift of 190kg, becoming India’s first medallist at this edition of the Commonwealth Games. Yet, for the national record holder, the medal meant a lot more than a place on the podium.",
-    "img": "https://static.toiimg.com/photo/msid-132633033,imgsize-383137.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/once-a-vegetable-seller-e-rickshaw-driver-jhandu-now-earns-spot-on-cwg-podium/articleshow/132632555.cms",
-    "time": "2026-07-26T01:30:00.000Z"
   },
   {
     "cat": "Sports",
