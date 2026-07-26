@@ -1,5 +1,59 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "'The Odyssey' crosses USD 639.6 million globally",
+    "desc": "The Odyssey continues its strong box office performance in its second weekend. This film has earned USD 87 million in North American ticket sales. Toy Story 5 has now surpassed USD 1 billion in global earnings. Moana and Hadestown also performed well at the box office. The summer box office has now exceeded USD 3 billion this year.",
+    "img": "https://static.toiimg.com/photo/msid-132648144,imgsize-96060.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/the-odyssey-crosses-usd-639-6-million-globally-beats-the-dark-knight-to-become-christopher-nolans-best-second-weekend-yet/articleshow/132648141.cms",
+    "time": "2026-07-26T21:28:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CJP's win fuels call by 'E20 Janta Party' for no-ethanol option",
+    "desc": "A new E20 Janta Party has emerged, demanding consumer choice for 100% petrol. This group seeks the resignation of Nitin Gadkari, the transport minister. Transporters are supporting this campaign, planning a march to Parliament against E20 petrol. The party advocates for transparent fuel labelling and data publication. They are not seeking subsidies but consumer choice and clear information.",
+    "img": "https://static.toiimg.com/photo/msid-132648145,imgsize-62750.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cjps-win-fuels-call-by-e20-janta-party-for-no-ethanol-option/articleshow/132648142.cms",
+    "time": "2026-07-26T21:10:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Three medals in a day! Raja Muthupandi's silver joins India's Commonwealth Games weightlifting medal spree",
+    "desc": "India's Raja Muthupandi secured a silver medal in the men's 65kg weightlifting event at the 2026 Commonwealth Games in Glasgow. The 26-year-old posted a combined lift of 286kg, finishing behind Malaysia's record-breaking gold medallist Muhamad Aznil Bin Bidin. The podium marked Muthupandi's first Commonwealth Games medal after years of setbacks, including injury and category changes.",
+    "img": "https://static.toiimg.com/photo/msid-132648118,imgsize-116976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/three-medals-in-a-day-raja-muthupandis-silver-joins-indias-commonwealth-games-weightlifting-medal-spree/articleshow/132647577.cms",
+    "time": "2026-07-26T20:46:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jadumani Singh seals dominant 5-0 win over Pakistan's Sumama Rehman to enter quarter-finals",
+    "desc": "Jadumani Singh Mandengbam advanced to the men's 55kg boxing quarter-finals at the 2026 Commonwealth Games after defeating Pakistan's Sumama Rehman by unanimous decision. The Indian boxer will face England's Ellis Trowbridge for a guaranteed medal. Elsewhere, Lovlina Borgohain has already secured at least bronze, while Sachin Siwach also progressed in Glasgow.",
+    "img": "https://static.toiimg.com/photo/msid-132647536,imgsize-123836.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/commonwealth-games-boxing-jadumani-singh-seals-dominant-5-0-win-over-pakistans-sumama-rehman-to-enter-quarter-finals/articleshow/132647494.cms",
+    "time": "2026-07-26T19:37:18.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran halts ‘retaliatory strikes’ after lull in U.S. attacks",
+    "desc": "Iran reports ships are being hit by mines it had laid in the Strait of Hormuz; says talks with Oman over control of the Strait are at an advanced stage; Houthis claim to have downed a Saudi drone",
+    "img": "https://th-i.thgim.com/public/incoming/vwvy24/article71270350.ece/alternates/LANDSCAPE_1200/2026-07-25T132105Z_1665996604_RC21LMA9MWLH_RTRMADP_3_IRAN-CRISIS-BRITAIN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-halts-retaliatory-strikes-after-lull-in-us-attacks/article71270262.ece",
+    "time": "2026-07-26T19:27:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Inside Kriti Sanon's duplex sea-facing penthouse worth Rs 78 crore",
+    "desc": "Kriti Sanon acquired a sea-facing duplex penthouse in Mumbai's Pali Hill. This lavish residence offers sweeping views of the Arabian Sea. The expansive home occupies two floors and features a large private terrace. The property includes six reserved parking spaces and access to premium amenities. Sanon was last seen in Cocktail 2 and Tere Ishk Mein.",
+    "img": "https://static.toiimg.com/photo/msid-132647361,imgsize-520270.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/inside-kriti-sanons-duplex-sea-facing-penthouse-worth-rs-78-crore-which-has-a-clubhouse-yoga-desk-swimming-pool-and-more/articleshow/132647323.cms",
+    "time": "2026-07-26T19:12:05.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "FIFA President Gianni Infantino travelled almost three times the Earth's circumference during the World Cup",
     "desc": "FIFA President Gianni Infantino's extensive private jet travel during the 2026 World Cup has sparked criticism over the governing body's environmental credibility. Reports estimate his flights generated more than 1,020 tonnes of CO₂e, prompting campaigners to question FIFA's sustainability commitments. While FIFA defended the travel as operationally necessary, the controversy has intensified scrutiny of football's climate responsibilities and leadership.",
@@ -7,6 +61,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-president-gianni-infantino-travelled-almost-three-times-the-earths-circumference-during-the-world-cup/articleshow/132646020.cms",
     "time": "2026-07-26T18:48:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Participants at Mumbai victory rally hint next issue should be E20",
+    "desc": "Those who gathered at the rally organised by Shiv Sena (UBT) and MNS saw the protests as a ‘personal victory’; slogans raised calling for the resignation of Union Transport Minister Nitin Gadkari over E20 fuel rollout",
+    "img": "https://th-i.thgim.com/public/incoming/sjk1j/article71270391.ece/alternates/LANDSCAPE_1200/PTI07_15_2026_000240A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/mumbai/participants-at-mumbai-victory-rally-hint-next-issue-should-be-e20/article71269668.ece",
+    "time": "2026-07-26T18:26:30.000Z"
   },
   {
     "cat": "Entertainment",
@@ -34,15 +97,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/every-generation-of-indians-qualifies-as-shashi-tharoors-reply-to-son-ishaans-ban-boomers-on-whatsapp-remark/articleshow/132645818.cms",
     "time": "2026-07-26T17:51:27.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran halts ‘retaliatory strikes’ after lull in U.S. attacks",
-    "desc": "Iran reports ships are being hit by mines it had laid in the Strait of Hormuz; says talks with Oman over control of the Strait are at an advanced stage; Houthis claim to have downed a Saudi drone",
-    "img": "https://th-i.thgim.com/public/incoming/vwvy24/article71270350.ece/alternates/LANDSCAPE_1200/2026-07-25T132105Z_1665996604_RC21LMA9MWLH_RTRMADP_3_IRAN-CRISIS-BRITAIN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-halts-retaliatory-strikes-after-lull-in-us-attacks/article71270262.ece",
-    "time": "2026-07-26T17:46:13.000Z"
   },
   {
     "cat": "Politics",
@@ -124,24 +178,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/attempt-to-repair-pms-tarnished-image-congress-on-high-powered-exam-reforms-task-force/articleshow/132643594.cms",
     "time": "2026-07-26T15:36:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "MEA advisory urges Indian seafarers to assess security risks before taking jobs in Black Sea region",
-    "desc": "The advisory comes a day after the MV AGN Ragnar, carrying four Indian crew, was hit by a projectile in Odesa; two Indians on the ship confirmed safe, but information still awaited on the other two, says Indian Embassy in Kyiv",
-    "img": "https://th-i.thgim.com/public/incoming/gu1szp/article71270038.ece/alternates/LANDSCAPE_1200/2026-07-24T122107Z_1897482135_RC23LDAMVHZU_RTRMADP_3_GLOBAL-GRAINS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/mea-advisory-urges-indian-seafarers-to-assess-security-risks-before-taking-jobs-in-black-sea-region/article71269712.ece",
-    "time": "2026-07-26T15:26:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Criminal cases against people’s representatives in Kerala: five face sexual harassment charges, IUML leader faces 120 BUDS Act cases",
-    "desc": "As per details of pending cases against sitting or former MPs and MLAs submitted by the District Judiciary before the Kerala High Court, Thiruvananthapuram has the highest number of cases, followed by Kasaragod and Kannur",
-    "img": "https://th-i.thgim.com/public/incoming/eatt08/article71269856.ece/alternates/LANDSCAPE_1200/24-year-old-manG71G9EO39.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/criminal-cases-against-peoples-representatives-in-kerala-iuml-leader-faces-120-buds-act-cases-five-face-sexual-harassment-charges/article71269309.ece",
-    "time": "2026-07-26T15:26:16.000Z"
   },
   {
     "cat": "Politics",
@@ -333,15 +369,6 @@ const newsData_en = [
     "time": "2026-07-26T11:53:28.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘No law bars eating chicken over Ganga’: SC judge flags delayed bail at NLIU lecture",
-    "desc": "Justice Ujjal Bhuyan expressed concern over shrinking public space for dissent in India. He noted that courts often grant relief belatedly and impose restrictive bail conditions. These conditions can discourage citizens from exercising their fundamental right to express views. Justice Bhuyan cited cases where individuals faced prolonged jail time for minor offenses. He stressed the need for critical examination of judicial decisions to improve the system.",
-    "img": "https://static.toiimg.com/photo/msid-132640933,imgsize-123950.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-law-prohibits-eating-chicken-over-ganga-river-supreme-court-judge-flags-delayed-bail/articleshow/132640578.cms",
-    "time": "2026-07-26T11:43:51.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Why is Prince Yadav not playing 3rd T20I vs Zimbabwe? BCCI reveals reason",
     "desc": "\"Prince Yadav was unavailable for selection in the third T20I due to a hamstring niggle which he sustained while bowling in the second T20I against Zimbabwe,\" the Board of Control for Cricket in India (BCCI) said after the toss.",
@@ -351,24 +378,6 @@ const newsData_en = [
     "time": "2026-07-26T11:35:58.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "The wildlife trade fuelled by pets and myths",
-    "desc": "Wildlife trafficking has moved from physical markets to online platforms. This shift impacts lesser-known species like shikras and slow lorises. Recent enforcement operations have recovered protected animals and birds. These seizures highlight a conservation crisis often overlooked by the public. Demand for exotic pets and traditional beliefs fuels this illegal trade.",
-    "img": "https://static.toiimg.com/photo/msid-132640434,imgsize-190809.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/beyond-tigers-the-wildlife-trade-fuelled-by-pets-and-myths/articleshow/132640324.cms",
-    "time": "2026-07-26T11:35:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi pitches water conservation amid widespread monsoon deficit",
-    "desc": "Prime Minister Modi urged water conservation efforts through the 'catch the rain' campaign. He asked citizens to take responsibility for local water bodies and save every drop. The nation faces a significant monsoon rainfall deficit, impacting water availability. However, improved rains are expected next week in northwest India and eastern regions. Despite potential improvements, July is still projected to end with a countrywide deficit.",
-    "img": "https://static.toiimg.com/photo/msid-132640229,imgsize-314212.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-modi-pitches-water-conservation-amid-widespread-monsoon-deficit/articleshow/132640202.cms",
-    "time": "2026-07-26T11:18:13.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India's Rishikanta Singh wins silver, sets Commonwealth Games record",
     "desc": "Chanambam Rishikanta Singh secured the silver medal in the men's 60kg weightlifting event. He set a new Commonwealth Games record in the snatch discipline. Malaysia's Mohamad Aniq Bin Kasdan won the gold medal in the competition. Rishikanta's performance marked India's first medal in weightlifting at the Games. This achievement highlights India's continued strength in Commonwealth weightlifting.",
@@ -376,24 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/indias-chanambam-rishikanta-singh-wins-silver-sets-commonwealth-games-record/articleshow/132640080.cms",
     "time": "2026-07-26T11:05:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Misrepresents statement': MEA fact-checks viral claim on spokesperson Randhir Jaiswal's remarks on CJP protests",
-    "desc": "The Ministry of External Affairs clarified a misleading social media post regarding protest funding. Spokesperson Randhir Jaiswal stated he had no information on foreign funding claims. This clarification followed viral posts attributing false statements to the spokesperson. The CJP-led protests concluded after the government accepted all their demands. Union minister Pralhad Joshi received additional charge of the education ministry.",
-    "img": "https://static.toiimg.com/photo/msid-132640030,imgsize-43150.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/misrepresents-statement-mea-fact-checks-viral-claim-on-spokesperson-randhir-jaiswals-remarks-on-cjp-protests/articleshow/132639759.cms",
-    "time": "2026-07-26T11:00:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'This is a new subject for me': Pralhad Joshi after taking charge as education minister",
-    "desc": "Pralhad Joshi has taken charge as the Union Education Minister. He is reviewing the ministry's functioning and familiarizing himself with its operations. Joshi expressed gratitude to Prime Minister Narendra Modi for this new responsibility. This change follows Dharmendra Pradhan's resignation from the Union Council of Ministers. The ministry change occurs amid student protests over examination irregularities.",
-    "img": "https://static.toiimg.com/photo/msid-132639907,imgsize-67976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/this-is-a-new-subject-for-me-pralhad-joshi-after-taking-charge-as-education-minister/articleshow/132639875.cms",
-    "time": "2026-07-26T10:51:26.000Z"
   },
   {
     "cat": "Entertainment",
@@ -531,24 +522,6 @@ const newsData_en = [
     "time": "2026-07-26T08:49:58.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Steven King's 'Carrie' teaser unveils at San Diego Comic-Con 2026",
-    "desc": "A new episodic adaptation of Stephen King's 'Carrie' will stream on Amazon Prime Video. This miniseries offers a modern reimagining of the classic supernatural thriller story. The plot follows Carrie White as she navigates high school and discovers telekinetic powers. Mike Flanagan aims for an honest and heartening display of mental health issues. The eight-episode series is set to premiere on October 7, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-132638524,imgsize-156593.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/steven-kings-supernatural-carrie-teaser-unveils-at-san-diego-comic-con-2026/articleshow/132638443.cms",
-    "time": "2026-07-26T08:32:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ryan Reynolds surprises fans in Deadpool costume at Comic-Con",
-    "desc": "Doomsday. This landmark moment introduced the X-Men into the Marvel Cinematic Universe. Reynolds hinted at exciting future projects for Deadpool that transcend conventional sequels, indicating a greater role for the character within the expansive Marvel narrative.",
-    "img": "https://static.toiimg.com/photo/msid-132638356,imgsize-139132.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ryan-reynolds-surprises-comic-con-fans-in-full-deadpool-costume-during-marvels-hall-h-presentation/articleshow/132638326.cms",
-    "time": "2026-07-26T08:20:01.000Z"
-  },
-  {
     "cat": "World",
     "title": "Indian seafarer killed in attack on ship in Black Sea",
     "desc": "The External Affairs Ministry said MV Omorfi was attacked while transiting the Black Sea, reportedly in Russian territorial waters; at the time of the incident, there were 10 crew members on board, including three Indians",
@@ -610,24 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/tariffs-on-trial-small-businesses-take-trumps-latest-trade-levies-back-to-court/articleshow/132635756.cms",
     "time": "2026-07-26T02:39:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Think about cricket, not social media': Ishan Kishan to Vaibhav Sooryavanshi",
-    "desc": "Ishan Kishan praised young Vaibhav Sooryavanshi after India's T20 win. He believes the 15-year-old possesses match-winning qualities for the national team. Senior players are guiding Sooryavanshi to focus solely on his cricket. They encourage him to ignore social media and external distractions. Kishan highlighted Sooryavanshi's attacking style as a significant team asset.",
-    "img": "https://static.toiimg.com/photo/msid-132635706,imgsize-39838.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/think-about-cricket-not-social-media-ishan-kishan-to-vaibhav-sooryavanshi/articleshow/132635697.cms",
-    "time": "2026-07-26T02:29:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Gens Una Sumus'",
-    "desc": "India's young Grandmaster Aarav Dengla has played chess against opponents of every age and from countries across the world. In his debut The Grandmaster View column, he reflects on the three Latin words beneath the FIDE emblem that first caught his attention as a seven-year-old. Through memories from tournament halls and the quiet rituals that follow every game, Aarav explores how Gens Una Sumus - \"We are one family\" - is more than just the sport's motto; it is the enduring spirit of chess itself.",
-    "img": "https://static.toiimg.com/photo/msid-132635469,imgsize-1147231.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/gens-una-sumus-what-three-latin-words-beneath-a-chess-emblem-taught-me-about-the-world/articleshow/132635468.cms",
-    "time": "2026-07-26T01:17:36.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +853,50 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/tennis/justice-mittal-rebukes-aita-interim-ecs-decision-to-appoint-observer/article71258770.ece",
     "time": "2026-07-23T17:06:56.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Infosys posts  12% rise in Q1 net profit; names Ashiss Kumar Dash CEO-designate",
+    "desc": "Salil Parekh said that he enjoyed leading Infosys from $10 billion in revenue to over $20 billion in revenue through during his tenure of two terms spanning nine years which would conclude on March 31, 2027",
+    "img": "https://th-i.thgim.com/public/business/qgwzc9/article71259283.ece/alternates/LANDSCAPE_1200/ashishinfosys.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/infosys-posts-12-rise-in-q1-net-profit-namesashiss-kumar-dash-ceo-designate/article71259118.ece",
+    "time": "2026-07-23T16:18:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rift in AMMA triggers fresh row over ‘power group’ in Malayalam cinema",
+    "desc": "Allegation by Shwetha Menon that the ‘power group’ named in Hema Committee report is working against her has triggered a fresh bout of infighting within AMMA even as her rival camp has asked her to divulge the names of those named in the controversial report",
+    "img": "https://th-i.thgim.com/public/incoming/by6c7y/article71256618.ece/alternates/LANDSCAPE_1200/swetha_menon_1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/rift-in-amma-triggers-fresh-row-over-power-group-in-malayalam-cinema/article71256467.ece",
+    "time": "2026-07-23T16:14:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Before ‘Jana Nayagan’: when an 18-year-old Vijay walked the halls of Loyola College",
+    "desc": "Vijay’s maiden venture as a solo hero, Naalaiya Theerpu, helmed by S.A. Chandrasekhar, did not set the box office on fire; even as the audience response remained muted, the actor was noticed, and he won the Best New Face Actor award from Cinema Express",
+    "img": "https://th-i.thgim.com/public/incoming/3d29wu/article71252311.ece/alternates/LANDSCAPE_1200/DSC_1864A.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/before-jana-nayagan-when-a-young-vijay-walked-the-halls-of-loyola/article71252283.ece",
+    "time": "2026-07-23T12:49:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Jana Nayagan’ release: ‘Thalapathy’ Vijay pays tribute to MGR",
+    "desc": "Tamil Nadu Chief Minister Vijay’s Jana Nayagan has finally hit theatres after months of delays. The film pays tribute to former Chief Minister and screen legend MGR with AI-generated voice recreations, iconic song references and political symbolism. Vijay is the second sitting Tamil Nadu Chief Minister after MGR to have a film release while in office",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/rphsmt/article71257239.ece/alternates/LANDSCAPE_1200/Albescent%20White%20Colorful%20Soft%20Texture%20Background%20Rounded%20Rectangle%20Frame%20Mockup%20Photo%20Collage.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/jana-nayagan-release-thalapathy-vijay-pays-tribute-to-mgr/article71257018.ece",
+    "time": "2026-07-23T11:15:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Jana Nayagan’ director H Vinoth interview: On Thalapathy Vijay’s support during controversies",
+    "desc": "Filmmaker H Vinoth speaks about his upcoming film ‘Jana Nayagan,’ starring Tamil Nadu Chief Minister C Joseph Vijay, the unwavering support he received from the former star during the turbulent months prior to its release, what success means for a politically-charged film that unfortunately leaked online, and more",
+    "img": "https://th-i.thgim.com/public/incoming/sqc6iv/article71250431.ece/alternates/LANDSCAPE_1200/DSC_9418.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/jana-nayagan-release-h-vinoth-interview-thalapathy-vijay-pooja-hegde-anirudh-ravichander/article71250216.ece",
+    "time": "2026-07-23T11:11:49.000Z"
   }
 ];
