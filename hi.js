@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India win the toss, opt to bat first in Harare",
+    "desc": "The stage is set for the third and final T20I of the ongoing series between India and Zimbabwe. The two sides are meeting at the Harare Sports Club for the clash, and both will be...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-zim-3rd-t20i-live-score-india-aim-to-clean-sweep-hosts-zimbabwe-looking-for-consolation-win-1049457",
+    "time": "2026-07-26T10:37:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Where to watch India vs Zimbabwe, 3rd T20I live on TV and stream online?",
+    "desc": "The stage is set for the third and final T20I of the ongoing series between India and Zimbabwe. The two sides will meet for the clash at Harare on July 26th, and both sides will...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/where-to-watch-india-vs-zimbabwe-3rd-t20i-live-on-tv-and-stream-online-2026-07-26-1049453",
+    "time": "2026-07-26T09:19:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England gymnast Gabriel Langton suffers nasty fall at Commonwealth Games 2026",
+    "desc": "In one of the most horrific moments of the ongoing Commonwealth Games 2026, England’s gymnast Gabriel Langton was rushed to the hospital after he suffered a nasty fall and landed on his head during the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/england-gymnast-gabriel-langton-suffers-nasty-fall-at-commonwealth-games-2026-watch-2026-07-26-1049452",
+    "time": "2026-07-26T08:48:59.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India reclaim top spot in ICC T20I rankings after thumping victory over Zimbabwe in Harare",
     "desc": "The Indian team put forth a brilliant showing in the second T20I of the ongoing three-game series, registering a 90-run victory to clinch the series. The Men in Blue have been in good form in...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-equalled-own-world-record-with-another-stunning-show-against-zimbabwe-in-second-t20i-2026-07-25-1049416",
     "time": "2026-07-25T16:18:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India's historic gold medal in Rowing World Cup to be stripped after Lakshay found positive for doping",
-    "desc": "India's historic first gold medal at the Rowing World Cup is set to be removed from the record books after one member of the winning crew returned a positive doping test. Lakshay, who partnered Ujjwal...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/india-s-historic-gold-medal-in-rowing-world-cup-to-be-stripped-after-lakshay-found-positive-for-doping-2026-07-25-1049414",
-    "time": "2026-07-25T15:11:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ishan Kishan, Tilak Varma dominate Zimbabwe in second T20I; India seal series in Harare",
-    "desc": "Despite many of the first-team members being rested, India had no difficulty in dealing with Zimbabwe, who arrived for the three-match series with an ODI and a one-off Test win against Bangladesh. In the second...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-tilak-varma-dominate-zimbabwe-in-second-t20i-india-seal-series-in-harare-2026-07-25-1049409",
-    "time": "2026-07-25T14:27:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sahal Abdul Samad strikes as Mohun Bagan beat East Bengal in Durand Cup opener",
-    "desc": "Mohun Bagan began their Durand Cup campaign with a hard-fought 1-0 victory over arch-rival East Bengal at the Salt Lake Stadium. Sahal Abdul Samad struck the decisive goal early in the second half at the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/sahal-abdul-samad-strikes-as-mohun-bagan-beat-east-bengal-in-durand-cup-opener-watch-2026-07-25-1049406",
-    "time": "2026-07-25T13:57:08.000Z"
   }
 ];
