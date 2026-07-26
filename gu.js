@@ -1,5 +1,59 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "&amp;#039;આ અંત નથી, શરૂઆત છે...&amp;#039; 37 દિવસના વિરોધ પ્રદર્શન પછી, CJP ચીફ સરકાર માટે એક મોટો સંદેશ, કહી આ વાત",
+    "desc": "ધર્મેન્દ્ર પ્રધાનના રાજીનામા અને 37 દિવસના વિદ્યાર્થીઓના વિરોધ પ્રદર્શનના અંત બાદ, CJPના વડા અભિજીત દિપકેએ કહ્યું કે આ લડાઈનો અંત નથી, પરંતુ શરૂઆત છે. ટાઇફોઇડથી પીડિત દિપકેએ સમર્થકો અને ટીકાકારો બંનેનો આભાર માન્યો અને આગળ લાંબા સંઘર્ષ માટે તેમના સંકલ્પનો પુનરોચ્ચાર કર્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/after-37-days-of-protests-cjp-chief-has-a-big-message-for-the-government-saying-this-485773 ",
+    "time": "2026-07-26T05:57:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "&amp;#039;દિલ માંગે મોર&amp;#039; થી લઈને તોલોલિંગ વિજય સુધી... કારગિલ યુદ્ધના તે રિયલ હીરો, જેમને ત્રિરંગો લહેરાવી અને પાકિસ્તાનને ચટાડી ધૂળ",
+    "desc": "1999ના કારગિલ યુદ્ધમાં, ભારતીય વીરોએ શૂન્યથી નીચે ટેમ્પરેચર અને દુર્ગમ પર્વતો વચ્ચે અદમ્ય હિંમત દર્શાવી હતી. કેપ્ટન વિક્રમ બત્રા, સૌરભ કાલિયા, મનોજ પાંડે અને યોગેન્દ્ર યાદવ જેવા બહાદુર યોદ્ધાઓના સર્વોચ્ચ બલિદાન અને બહાદુરીને કારણે, ભારતે ટોલોલિંગ અને ટાઇગર હિલ પર ત્રિરંગો લહેરાવ્યો અને કારગિલ યુદ્ધમાં પાકિસ્તાનને ધુળ ચટાવી. ચાલો કારગિલ યુદ્ધના આ અમર નાયકોની વાર્તાઓ જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/kargil-vijay-diwas-special-the-real-heroes-of-the-kargil-war-who-hoisted-the-tricolor-and-defeated-pakistan-485770 ",
+    "time": "2026-07-26T04:50:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "84 દિવસનું યુદ્ધ અને ભારતની અમર વિજયગાથા: વાંચો 1999ના કારગિલ યુદ્ધની સંપૂર્ણ ટાઈમલાઈન",
+    "desc": "3 મે 1999, આ તે તારીખ છે જ્યારે ભારતને આતંકી બની આવેલા પાકિસ્તાની સૈનિકની ઘૂસણખોરીની માહિતી મળી. કેટલાક સ્થાનિક લોકોએ ભારતીય સેનાને આ વિશે જણાવ્યું હતું. 84 દિવસ ચાલેલા સંઘર્ષ બાદ 26 જુલાઈ, 1999ના ભારતે કારગિલમાં વિજય મેળવ્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/84-days-of-valor-the-timeline-of-indias-triumphant-victory-in-the-1999-kargil-war-485769 ",
+    "time": "2026-07-26T04:22:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ધર્મેન્દ્ર પ્રધાનના રાજીનામા પર અમિત શાહનું પહેલું નિવેદન, જાણો શું કહ્યું",
+    "desc": "ધર્મેન્દ્ર પ્રધાનના રાજીનામા અંગે ગૃહમંત્રી અમિત શાહે કહ્યું કે ભાજપ માટે વિદ્યાર્થીઓના હિત કોઈપણ પદ કરતાં વધુ મહત્વપૂર્ણ છે. તેમણે તેને સિદ્ધાંતનું ઉદાહરણ ગણાવ્યું. સુવેન્દુ અધિકારીએ પણ પોતાનું દુઃખ વ્યક્ત કર્યું, જ્યારે પ્રધાને સ્પષ્ટતા કરી કે તેમણે રાષ્ટ્રવિરોધી શક્તિઓથી પોતાને બચાવવા માટે આ પગલું ભર્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/amit-shahs-first-statement-on-dharmendra-pradhans-resignation-know-what-he-said-485768 ",
+    "time": "2026-07-26T04:00:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ચાર શિક્ષણ મંત્રી બદલાયા, ચાર મોટા સુધારા થયા... છતાં પણ પેપર લીક કેમ ન રોકાયા? જાણો 10 વર્ષની કહાની",
+    "desc": "ધરેન્દ્ર પ્રધાનના રાજીનામા બાદ શિક્ષણ વ્યવસ્થા અને પેપર લીક પર જવાબદારીની ચર્ચા ઉગ્ર બની છે. જાણો છેલ્લા 10 વર્ષમાં ચાર શિક્ષણ મંત્રીઓના કાર્યકાળમાં થયેલા મોટા સુધાર, ક્યા-ક્યા ફેરફાર લાગૂ થયાં અને છતાં કેમ પરીક્ષા પેપર લીકની ઘટનાઓ અટકી નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/4-education-ministers-4-major-reforms-yet-paper-leaks-persist-a-10-year-reality-check-485767 ",
+    "time": "2026-07-26T03:52:18.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "પરમાણુ યુદ્ધના એંધાણ? ઓમાન વાતચીતમાં સહમતી કે સર્જાશે તબાહી? ટ્રમ્પના રડાર પર ઈરાનના 5 ગુપ્ત ઠેકાણા",
+    "desc": "જો ઓમાનમાં અમેરિકા-ઈરાન રાજદ્વારી વાતચીત ફેલ જાય, તો ટ્રમ્પ વહીવટીતંત્ર ઈરાનના પરમાણુ માળખાને નષ્ટ કરી શકે છે. પિકાક્સ માઉન્ટેન સહિત પાંચ ગુપ્ત સ્થળો અમેરિકાની હિટ લિસ્ટમાં છે. એક્સપર્ટના મતે, ઈરાનના નવેસરથી પરમાણુ બનાવવાના પ્રયાસો અમેરિકાના બીજા મોટા હુમલાને ઉશ્કેરી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/nuclear-war-looms-will-the-oman-talks-last-or-will-they-lead-to-disaster-5-iranian-hideouts-on-trumps-radar-485765 ",
+    "time": "2026-07-26T03:09:30.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "જીતના જશ્ન વચ્ચે ટીમ ઈન્ડિયાને લાગ્યો મોટો ઝટકો, સ્ટાર ખેલાડી ઈજાગ્રસ્ત",
     "desc": "T20 ફોર્મેટમાં સતત બે શ્રેણીમાં હારનો સામનો કર્યા બાદ ટીમ ઈન્ડિયા દબાણમાં હોય તેવું લાગતું હતું. જો કે, ટીમે ઝિમ્બાબ્વે સામે શાનદાર વાપસી કરી છે. છતાં જીતની સાથે ટીમ ઈન્ડિયાને હરારેમાં મોટો ઝટકો લાગ્યો છે, એક સ્ટાર ખેલાડી ઈજાગ્રસ્ત થયો છે.",
@@ -171,15 +225,6 @@ const newsData_gu = [
     "time": "2026-07-25T04:34:25.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘અમારો સમય બરબાદ ન કરો…’, CJP વિરોધ પ્રદર્શન અંગેની ટીપ્પણી પર CJI સૂર્યકાંતે કરી સ્પષ્ટતા",
-    "desc": "જંતર-મંતર પર થયેલા વિરોધ પ્રદર્શનોમાં હિંસા પર 'વીડિયો જોવાનો સમય નથી' તેવી ટીપ્પણી પર CJI સૂર્યકાંતે સ્પષ્ટતા કરી છે. મુખ્ય ન્યાયાધીશે કહ્યું કે, તેમની વાતને ખોટી રીતે રજૂ કરવામાં આવી અને સુપ્રીમ કોર્ટ સુનાવણી કરવાનો ક્યારેય ઇનકાર કરતી નથી. જો કે, કોર્ટમાં અરજી દાખલ કરવાની નક્કી કરવામાં આવેલી પ્રક્રિયાનું પાલન કરવું અત્યંત જરૂરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/donot-waste-our-time-cji-surya-kant-clarifies-on-cjp-remarks-on-protests-485665 ",
-    "time": "2026-07-24T18:19:43.000Z"
-  },
-  {
     "cat": "Business",
     "title": "અમેરિકાએ લગાવ્યો 10% ટેરિફ, જાણો ચીન અને વિયેતનામ કરતાં કેમ ફાયદામાં રહ્યું ભારત?",
     "desc": "અમેરિકાએ ભારતીય માલ પર 10% ટેરિફ લગાવ્યો છે, પરંતુ એક્સપર્ટ માને છે કે આનાથી ભારતની નિકાસ પર ખાસ અસર નહીં પડે. ચીન સહિત ઘણા સ્પર્ધાત્મક દેશો પર લગાવવામાં આવેલા ઊંચા ટેરિફથી ભારતીય કાપડ અને અન્ય નિકાસકારોને ફાયદો થઈ શકે છે.",
@@ -187,24 +232,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/america-imposed-10-percent-tariff-know-why-india-was-at-an-advantage-over-china-and-vietnam-485662 ",
     "time": "2026-07-24T16:50:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "જંતર-મંતર પર પિઝા, બિરયાની અને બર્ગર પર પ્રતિબંધ! પોલીસે જાહેર કર્યો નવો આદેશ",
-    "desc": "દિલ્હી પોલીસે જાહેર જનતાને અપીલ કરી છે કે જ્યાં સુધી તે ખૂબ જ જરૂરી ન હોય ત્યાં સુધી પ્રતિબંધિત વિસ્તારમાં મુસાફરી કરવાનું ટાળો. તેમણે તેમને અગાઉથી તેમની મુસાફરીનું આયોજન કરવા અને વૈકલ્પિક માર્ગોનો ઉપયોગ કરવા પણ વિનંતી કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/pizza-biryani-and-burgers-banned-at-jantar-mantar-police-issues-new-order-485661 ",
-    "time": "2026-07-24T16:23:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CJP પ્રોટેસ્ટ વચ્ચે કેન્દ્રની મોટી સર્જિકલ સ્ટ્રાઈક, NTAના 47 અધિકારીઓને એકઝાટકે કર્યા સસ્પેન્ડ!",
-    "desc": "નેશનલ ટેસ્ટિંગ એજન્સી (NTA)એ પરીક્ષા પ્રણાલીમાં વ્યાપક સુધારા તરફ એક મોટું પગલું ભર્યું છે. શિક્ષણ મંત્રાલયના સૂત્રોના જણાવ્યા અનુસાર, NTA એ 47 અધિકારીઓને બરતરફ કર્યા છે. આમાંથી કેટલાક અધિકારીઓ સામે કાનૂની અને ફોજદારી કાર્યવાહી પણ કરવામાં આવશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/centers-major-surgical-strike-amid-cjp-protest-47-nta-officials-suspended-in-one-go-485658 ",
-    "time": "2026-07-24T15:08:28.000Z"
   },
   {
     "cat": "Business",
@@ -547,15 +574,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/only-25-people-in-india-will-be-able-to-buy-this-bike-royal-enfield-launches-limited-edition-bike-know-price-and-booking-details-484839 ",
     "time": "2026-07-16T11:54:38.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "હોર્મુઝ ટોલ ટેક્સથી લઈ પરમાણુ ડીલ સુધી: જાણો કેમ વર્લ્ડ મીડિયામાં ટ્રમ્પના નિર્ણયોની ઉડી રહી છે મજાક",
-    "desc": "વૈશ્વિક મીડિયામાં અમેરિકી પ્રમુખ ડોનાલ્ડ ટ્રમ્પને 'યુ-ટર્ન કિંગ' તરીકે દર્શાવવામાં આવી રહ્યા છે, કારણ કે ઈરાન સાથેના સાડા ચાર મહિનાના યુદ્ધ દરમિયાન તેમણે પોતાના જ નિર્ણયો અને નિવેદનોમાં રેકોર્ડબ્રેક ૩૬ વખત ફેરફાર (યુ-ટર્ન) કર્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/from-destroying-iran-to-taking-back-statements-trumps-36th-u-turn-over-hormuz-toll-sparks-global-backlash-484727 ",
-    "time": "2026-07-15T14:54:59.000Z"
   },
   {
     "cat": "Tech",
