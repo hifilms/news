@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "ક્રિપ્ટો રોકાણકારો માટે આવ્યા મહત્ત્વના સમાચાર! સરકારે જાહેર કર્યા નવા નિયમો, જાણો",
+    "desc": "CBDTએ આવકવેરા અધિનિયમ 2025 (Income Tax Act 2025) હેઠળ ક્રિપ્ટો એસેટ રિપોર્ટિંગ માટે નવી ગાઇડલાઇન જાહેર કરી છે. હવે ક્રિપ્ટો એક્સચેન્જો અને અન્ય સેવા પ્રદાતાઓએ નક્કી કરેલા નિયમો અનુસાર ગ્રાહકો અને મોટા ક્રિપ્ટો વ્યવહારોની માહિતી ટેક્સ વિભાગને આપવી પડશે. આવો તેના વિગતવાર જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/important-news-for-crypto-investors-government-announces-new-rules-know-485851 ",
+    "time": "2026-07-26T18:12:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "&amp;#039;અમે જલ્દી જ...&amp;#039; આંદોલન બાદ હવે શું કરશે કોકરોચ જનતા પાર્ટી? અભિજીત દીપકેએ આપ્યું મોટું નિવેદન",
+    "desc": "NEET પેપર લીક બાદ જંતર-મંતર પર કોકરોચ જનતા પાર્ટી દ્વારા શરૂ કરવામાં આવેલા આંદોલન પૂરું થઈ ગયું છે. સરકારે CJPની તમામ માંગણીઓ સ્વીકારી લીધી છે. ત્યારે હવે કોકરોચ જનતા પાર્ટી અધ્યક્ષ અભિજીત દીપકેએ આગળની રણનીતિ બાબતે મોટું નિવેદન આપ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/we-will-soon-after-the-movement-what-will-the-cockroach-janata-party-do-now-abhijit-deepke-gave-a-big-statement-485850 ",
+    "time": "2026-07-26T17:36:03.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ટીમ ઈન્ડિયાએ ઝિમ્બાબ્વેનો કર્યો વ્હાઈટવોશ, છેલ્લી મેચમાં 35 રને વિજય, સિરીઝ 3-0થી જીતી",
     "desc": "ટીમ ઈન્ડિયાએ ઈંગ્લેન્ડ અને આયર્લેન્ડ સામેની ટી20 શ્રેણીમાં ક્લીન સ્વીપનો સામનો કરવો પડ્યો હતો. હવે શાનદાર વાપસી કરીને ટીમે ઝિમ્બાબ્વે સામેની શ્રેણી 3-0થી જીતી લીધી છે. ટીમ ઈન્ડિયાએ ત્રીજી ટી20 મેચમાં પણ એકતરફી જીત નોંધાવી હતી.",
@@ -261,15 +279,6 @@ const newsData_gu = [
     "time": "2026-07-25T11:36:50.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ધર્મેન્દ્ર પ્રધાન: એક સમયે પેપરલીક વિરુદ્ધ કર્યું હતું પ્રદર્શન, આજે એના જ કારણે ધરવું પડ્યું રાજીનામું",
-    "desc": "નીટ પેપર લીકનો જે વિવાદ ધીરે ધીરે મોટું સ્વરૂપ ધારણ કરી રહ્યો હતો તેના પર હવે અંત આવવાના એંધાણ જોવા મળી રહ્યા છે. કારણ કે આખરે શિક્ષણમંત્રી ધર્મેન્દ્ર પ્રધાને રાજીનામું આપી દીધુ છે. પરંતુ શું તમને ખબર છે કે એક સમયે આ જ ધર્મેન્દ્ર પ્રધાને પેપરલીક મુદ્દે વિરોધ પ્રદર્શન કર્યુ હતું. આ ઉપરાંત આ પેપરલીકનો મુદ્દો કઈ રીતે ચિંગારીમાંથી આગ બન્યો એ પણ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/dharmendra-pradhan-once-he-protested-against-paper-leaks-now-he-resign-because-of-it-485717 ",
-    "time": "2026-07-25T11:32:52.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ઝિમ્બાબ્વે સામેની બીજી T20માં ભારતની પહેલા બેટિંગ... યશ ઠાકુરની પ્લેઈંગ-11માં એન્ટ્રી, જાણો કોનું કપાયું પત્તુ",
     "desc": "ઝિમ્બાબ્વે સામે શ્રેણીની પહેલી મેચ જીતીને ભારતીય ટીમે આખરે પોતાની લય શોધી લીધી છે. સતત છ ટી20 મેચ હાર્યા બાદ શ્રેયસ ઐયરની કેપ્ટનશીપમાં ભારતે આ જીત મેળવી હતી. ટીમ બીજી ટી20માં પણ આ જીતનો સિલસિલો જાળવી રાખવાના ટાર્ગેટ સાથે મેદાનમાં ઉતરશે.",
@@ -286,15 +295,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/darshan-jariwala-and-actress-apara-mehta-separation-story-apara-mehta-and-darshan-jariwala-love-marriage-485719 ",
     "time": "2026-07-25T10:21:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ધર્મેન્દ્ર પ્રધાનને કેટલો મળતો હતો પગાર ? જાણો શિક્ષણ મંત્રીને કઈ કઈ સુવિધાઓ મળે છે",
-    "desc": "કેન્દ્રીય શિક્ષણ મંત્રી ધર્મેન્દ્ર પ્રધાને આખરે રાજીનામું આપવાની જાહેરાત કરી છે. NEET પેપર લીક મુદ્દે વિદ્યાર્થીઓના વિરોધ પ્રદર્શન વચ્ચે શિક્ષણ મંત્રીએ મોટો નિર્ણય લીધો છે, ત્યારે તેમને કેટલો પગાર મળતો હતો અને અન્ય કઈ કઈ સુવિધાઓ મળતી હતી તેના પર એક નજર કરીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/how-much-salary-did-dharmendra-pradhan-get-know-what-facilities-education-minister-gets-485716 ",
-    "time": "2026-07-25T10:00:13.000Z"
   },
   {
     "cat": "Sports",
@@ -439,15 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/bcci-new-rules-for-domestic-cricket-front-foot-no-ball-bowler-suspension-rule-485378 ",
     "time": "2026-07-21T15:40:57.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "8મા પગાર પંચ અંગે મોટું અપડેટ, સરકારી કર્મચારીઓના પગારમાં 68% સુધીનો થશે વધારો ?",
-    "desc": "વર્ષ 2026ના પહેલા 6 મહિનામાં 8મા પગાર પંચ માટેનું પોર્ટલ શરૂ થયું એટલું જ નહીં, પરંતુ વિવિધ સ્થળોએ બેઠકો પણ યોજાઈ રહી છે. હવે પગાર પંચ સરકારને તેની ભલામણો ક્યારે સુપરત કરશે તેના પર બધાની નજર છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-update-will-govt-employees-salary-increase-by-up-to-68-percent-485365 ",
-    "time": "2026-07-21T13:01:51.000Z"
   },
   {
     "cat": "Tech",

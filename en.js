@@ -1,6 +1,114 @@
 const newsData_en = [
   {
     "cat": "Sports",
+    "title": "FIFA President Gianni Infantino travelled almost three times the Earth's circumference during the World Cup",
+    "desc": "FIFA President Gianni Infantino's extensive private jet travel during the 2026 World Cup has sparked criticism over the governing body's environmental credibility. Reports estimate his flights generated more than 1,020 tonnes of CO₂e, prompting campaigners to question FIFA's sustainability commitments. While FIFA defended the travel as operationally necessary, the controversy has intensified scrutiny of football's climate responsibilities and leadership.",
+    "img": "https://static.toiimg.com/photo/msid-132646515,imgsize-58198.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-president-gianni-infantino-travelled-almost-three-times-the-earths-circumference-during-the-world-cup/articleshow/132646020.cms",
+    "time": "2026-07-26T18:48:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salman, Akshay, Govinda's co-star left movies, is now reportedly a drama teacher",
+    "desc": "Actress Kanchan began her career in Bollywood after being discovered through modeling. She appeared in films with stars like Salman Khan and Govinda. Seeking lead roles, Kanchan then found success in South Indian cinema. Declining offers and discomfort with changing industry trends led to her exit. She now reportedly works as a drama teacher in Mumbai.",
+    "img": "https://static.toiimg.com/photo/msid-132646240,imgsize-280394.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/despite-working-with-salman-khan-akshay-kumar-govinda-shah-rukh-khan-this-actress-left-hindi-movies-and-went-to-south-eventually-left-movies-and-is-now-a-drama-teacher/articleshow/132646030.cms",
+    "time": "2026-07-26T18:06:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Opposition to take on government in Parliament over police action against protesting student",
+    "desc": "Opposition parties will strongly raise police action against protesting students in Parliament. Rahul Gandhi demanded accountability from Home Minister Amit Shah regarding the incident. He questioned the use of lethal force and deployment of plainclothes personnel. The INDIA bloc will finalize its strategy for parliamentary discussions on Monday. Opposition leaders are calling for a judicial commission to investigate the alleged assault.",
+    "img": "https://static.toiimg.com/photo/msid-132646065,imgsize-198478.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/opposition-to-take-on-government-in-parliament-over-police-action-against-protesting-student/articleshow/132646022.cms",
+    "time": "2026-07-26T17:59:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Every generation of Indians qualifies as ... ': Shashi Tharoor's reply to son Ishaan's 'ban Boomers on WhatsApp' remark",
+    "desc": "Congress MP Shashi Tharoor humorously responded to his son's social media call. His son suggested banning \"boomers\" from using WhatsApp. This exchange followed a debate on children's social media access. Zoho co-founder Sridhar Vembu proposed banning young children from social media. The discussion highlights differing views on digital platform usage for youth.",
+    "img": "https://static.toiimg.com/photo/msid-132645883,imgsize-97091.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/every-generation-of-indians-qualifies-as-shashi-tharoors-reply-to-son-ishaans-ban-boomers-on-whatsapp-remark/articleshow/132645818.cms",
+    "time": "2026-07-26T17:51:27.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran halts ‘retaliatory strikes’ after lull in U.S. attacks",
+    "desc": "Iran reports ships are being hit by mines it had laid in the Strait of Hormuz; says talks with Oman over control of the Strait are at an advanced stage; Houthis claim to have downed a Saudi drone",
+    "img": "https://th-i.thgim.com/public/incoming/vwvy24/article71270350.ece/alternates/LANDSCAPE_1200/2026-07-25T132105Z_1665996604_RC21LMA9MWLH_RTRMADP_3_IRAN-CRISIS-BRITAIN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-halts-retaliatory-strikes-after-lull-in-us-attacks/article71270262.ece",
+    "time": "2026-07-26T17:46:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'No responsibilities': Mohan Bhagwat on live-in relationships; says marriage 'instils dharma'",
+    "desc": "RSS chief Mohan Bhagwat discussed marriage as a discipline instilling dharma. He noted live-in relationships as a modern alternative with consequences. Bhagwat also welcomed modernity while calling live-in relationships a blind imitation. He stressed that LGBTQ people are part of society and should be accepted. Elders should practice mobile discipline and engage in family conversations.",
+    "img": "https://static.toiimg.com/photo/msid-132645422,imgsize-1086591.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-responsibilities-mohan-bhagwat-on-live-in-relationships-says-marriage-instils-dharma/articleshow/132645239.cms",
+    "time": "2026-07-26T17:30:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Regional Commissioner approves release of 4.105 tmcft from Narayanpur reservoir to meet Kalaburagi’s drinking water needs",
+    "desc": "With large parts of Kalaburagi district facing water scarcity, the Regional Commissioner has approved the release of 4.105 tmcft of water from the Narayanpur reservoir to meet the drinking water requirements of people and livestock in both urban and rural areas",
+    "img": "https://th-i.thgim.com/public/incoming/s9wsxw/article71270259.ece/alternates/LANDSCAPE_1200/YDRKN_20-8-2020_19-28-18_1_IMG-20200820-WA0066.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/regional-commissioner-approves-release-of-4105-tmcft-from-narayanpur-reservoir-to-meet-kalaburagis-drinking-water-needs/article71270164.ece",
+    "time": "2026-07-26T16:36:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anupam Kher condemns abusive language against PM Narendra Modi",
+    "desc": "Protests against the NEET paper leak concluded after the resignation of Dharmendra Pradhan. Anupam Kher acknowledged democracy listened to student voices and a solution emerged. He expressed disappointment over disrespectful language directed at Prime Minister Narendra Modi. Kher emphasized that democracy allows disagreement but not disrespect towards any leader. He urged citizens to uphold dignity and culture for future generations.",
+    "img": "https://static.toiimg.com/photo/msid-132644403,imgsize-292485.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anupam-kher-backs-students-victory-but-condemns-abusive-language-against-pm-narendra-modi-loktantra-mein-virodh-swabhavik-hai-lekin-virodh-ki-bhasha-itni-chhoti-ho-gayi/articleshow/132644016.cms",
+    "time": "2026-07-26T16:33:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tejashwi Yadav threatens protest resumption if  brother Tej Pratap, others not released in 24 hours",
+    "desc": "Seeks government action against policemen who opened fire on students at Siwan on July 25, at Jehanabad on July 23; student groups say minors were also arrested, call for State-wide Virodh Diwas on July 30",
+    "img": "https://th-i.thgim.com/public/news/national/jatsov/article71270054.ece/alternates/LANDSCAPE_1200/Tejashwi%20in%20hospital.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/tejashwi-yadav-threatens-protest-resumption-if-brother-tej-pratap-others-not-relaesed-in-24-hours/article71269977.ece",
+    "time": "2026-07-26T16:29:47.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Gold's next test: Fed verdict, crude oil and geopolitical tensions in focus",
+    "desc": "Gold and silver prices are set for a week driven by major events. The US Federal Reserve's interest rate decision will be a key factor. Geopolitical tensions involving Iran and crude oil price movements also impact markets. Investors will monitor US economic data and central bank announcements globally. Bullion is expected to remain range-bound as traders watch these developments.",
+    "img": "https://static.toiimg.com/photo/msid-132644270,imgsize-101792.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/golds-next-test-fed-verdict-crude-oil-and-geopolitical-tensions-in-focus/articleshow/132644275.cms",
+    "time": "2026-07-26T16:27:28.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "'Don't make them run from pillar to post': FM Sitharaman asks income tax dept to work for common people",
+    "desc": "Finance Minister Nirmala Sitharaman urged income tax officials to simplify citizen access to government services. She emphasized that citizens should not face undue difficulties when seeking departmental assistance. The minister also criticized the laidback approach leading to government land encroachments. She promised to address the housing needs of income tax officers in Mumbai. Sitharaman stressed the importance of honesty and integrity in tax administration.",
+    "img": "https://static.toiimg.com/photo/msid-132643985,imgsize-140752.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/dont-make-them-run-from-pillar-to-post-fm-sitharaman-asks-income-tax-dept-to-work-for-common-people/articleshow/132643921.cms",
+    "time": "2026-07-26T16:01:04.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Russian and Ukrainian strikes kill at least 10",
+    "desc": "The strikes come a day after 20 people were killed on both sides of the frontline, with both Kyiv and Moscow intensifying attacks while diplomacy to end the war — launched by Russia in 2022 — is at a deadlock.",
+    "img": "https://th-i.thgim.com/public/incoming/qxncik/article71270161.ece/alternates/LANDSCAPE_1200/Russia_Ukraine_War_246_6.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/russian-and-ukrainian-strikes-kill-at-least-10/article71270140.ece",
+    "time": "2026-07-26T15:56:23.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'My games is the same': Sooryavanshi after winning 'man of the series'",
     "desc": "Teenage sensation Vaibhav Sooryavanshi dominated Zimbabwe's bowling attack in Harare. He secured Player of the Match and Series awards after India's 3-0 T20I sweep. Sooryavanshi scored 151 runs across three innings with fearless strokeplay and composure. His dream debut series saw him achieve a record-breaking maiden T20I half-century. The young player expressed happiness and gratitude for the team's support.",
     "img": "https://static.toiimg.com/photo/msid-132643716,imgsize-112528.cms",
@@ -34,15 +142,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/criminal-cases-against-peoples-representatives-in-kerala-iuml-leader-faces-120-buds-act-cases-five-face-sexual-harassment-charges/article71269309.ece",
     "time": "2026-07-26T15:26:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mirabai completes hattrick of golds at Commonwealth Games",
-    "desc": "The result was never really in doubt; the only question was how far Mirabai would push the limits. And the Manipuri superstar answered in emphatic style, rewriting the record books with a stunning display of strength and composure.",
-    "img": "https://th-i.thgim.com/public/incoming/z8cyly/article71270014.ece/alternates/LANDSCAPE_1200/PTI07_26_2026_000416B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/mirabai-completes-hattrick-of-golds-at-commonwealth-games/article71270013.ece",
-    "time": "2026-07-26T15:16:15.000Z"
   },
   {
     "cat": "Politics",
@@ -91,15 +190,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "TDP leader condemns YSRCP’s attempts to politicise Mega DSC drive",
-    "desc": "The High Court found no fault in the conduct of the examination, but the opposition party is making a slew of allegations, and provoking and emotionally blackmailing those who did not qualify, says TDP national spokesperson Neelayapalem Vijay Kumar",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-leader-condemns-ysrcps-attempts-to-politicise-mega-dsc-drive/article71269787.ece",
-    "time": "2026-07-26T14:39:00.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "‘Responsible for brutal assault on innocent students’: After Dharmendra Pradhan, opposition turns heat on Amit Shah, seeks resignation",
     "desc": "Opposition parties will intensify their Parliament attack on the government. They are demanding Home Minister Amit Shah's resignation over police action. This action involved students protesting the NEET paper leak issue. The government is also set to introduce amendments to the anti-paper leak law. Questions are also being raised about a key higher education secretary appointment.",
     "img": "https://static.toiimg.com/photo/msid-132642899,imgsize-77304.cms",
@@ -117,13 +207,13 @@ const newsData_en = [
     "time": "2026-07-26T14:31:09.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kerala Police issue warning against cyber fraud using fake KTDC hotel booking websites",
-    "desc": "Fraudsters are primarily targeting users who search on Google using keywords such as 'KTDC Stay,' 'KTDC Hotels,' 'KTDC Booking' and 'KTDC Resort.' The fake websites are designed to closely resemble the official KTDC website, making it difficult for the public to distinguish between genuine and fraudulent platforms",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-police-issue-warning-against-cyber-fraud-using-fake-ktdc-hotel-booking-websites/article71269540.ece",
-    "time": "2026-07-26T14:15:56.000Z"
+    "cat": "Sports",
+    "title": "Sikandar Raza surpasses Babar Azam in unwanted T20I record after golden duck vs India",
+    "desc": "Raza was dismissed for a golden duck by India pacer Yash Thakur, taking his tally of ducks as T20I captain to seven. Only former Australia captain Aaron Finch has more ducks as captain in the format, with eight. Babar Azam and Rohit Sharma are next on the list with six each.",
+    "img": "https://static.toiimg.com/photo/msid-132642710,imgsize-571716.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/zimbabwes-sikandar-raza-surpasses-rohit-sharma-pakistans-babar-azam-in-unwanted-t20i-record-after-golden-duck-vs-india/articleshow/132642705.cms",
+    "time": "2026-07-26T14:26:02.000Z"
   },
   {
     "cat": "Entertainment",
@@ -133,15 +223,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hina-khan-reacts-to-the-criticism-around-aamir-khans-third-marriage-with-gauri-spratt-it-isnt-considered-very-good-in-our-society-marriage-after-marriage-after-marriage-even-divorce/articleshow/132642549.cms",
     "time": "2026-07-26T14:10:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Guru Tegh Bahadur’s sacrifice symbolises courage, service and compassion: Governor",
-    "desc": "Recalling Guru Tegh Bahadur’s supreme sacrifice in the defence of faith and religious freedom, Mr. Gehlot said the guru laid down his life to protect religion and its followers and was, therefore, revered as “Hind Di Chadar”",
-    "img": "https://th-i.thgim.com/public/incoming/wwq4nd/article71269763.ece/alternates/LANDSCAPE_1200/10258_26_7_2026_19_7_35_1_THAWAR_CHAND_GEHLOT_1.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/guru-tegh-bahadurs-sacrifice-symbolises-courage-service-and-compassion-governor/article71269618.ece",
-    "time": "2026-07-26T14:05:50.000Z"
   },
   {
     "cat": "World",
@@ -235,6 +316,15 @@ const newsData_en = [
   },
   {
     "cat": "Business",
+    "title": "India’s green transition is missing long-duration energy storage",
+    "desc": "The longer the time over which a technology discharges energy, the better its economics. At the same time, storing more energy also costs more. So for discharge durations beyond six hours, short-duration energy storage systems are unlikely to prove cost-effective",
+    "img": "https://th-i.thgim.com/public/incoming/m4o2md/article71140945.ece/alternates/LANDSCAPE_1200/iStock-157433936.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/india-green-transition-missing-long-duration-energy-storage/article71244283.ece",
+    "time": "2026-07-26T11:55:42.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "Zepto, Shiprocket and 12 more firms to hit primary market; eye Rs 25,000 crore-plus fundraising",
     "desc": "India's IPO market is preparing for a busy month with many companies planning public offerings. Over a dozen firms are expected to launch initial public offerings, raising over Rs 25,000 crore. These upcoming issues span diverse sectors like quick commerce, housing finance, and education infrastructure. This activity follows sustained momentum in the primary market throughout the current year. Market participants anticipate robust fundraising as companies leverage improving investor sentiment.",
     "img": "https://static.toiimg.com/photo/msid-132640623,imgsize-39326.cms",
@@ -324,15 +414,6 @@ const newsData_en = [
     "time": "2026-07-26T10:32:36.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Can the government take control of foreign-funded assets? FCRA Bill explained",
-    "desc": "The Foreign Contribution (Regulation) Amendment Bill, 2026, introduced in the Lok Sabha in March, proposes a new framework for managing foreign contributions and assets when an organisation’s registration is cancelled, surrendered or ceases. The government says the changes are intended to address administrative and legal gaps, while critics question the breadth of the proposed powers.",
-    "img": "https://static.toiimg.com/photo/msid-132639506,imgsize-145979.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/can-the-government-take-control-of-foreign-funded-assets-fcra-bill-explained/articleshow/132639197.cms",
-    "time": "2026-07-26T10:16:34.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Top-10 firms shed Rs 2.74 lakh crore in value; HDFC Bank takes biggest hit",
     "desc": "Indian stock markets experienced a significant downturn last week. Nine of the ten most-valued companies saw their market worth decline. HDFC Bank faced the largest valuation drop, while Hindustan Unilever gained value. Benchmark indices like the BSE Sensex and NSE Nifty also registered losses. This market pressure was attributed to rising crude oil prices and geopolitical concerns.",
@@ -340,15 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/market-recap-top-10-firms-shed-rs-2-74-lakh-crore-in-value-hdfc-bank-takes-biggest-hit/articleshow/132639404.cms",
     "time": "2026-07-26T10:13:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Take lesson from Jantar Mantar': Mehbooba Mufti hits out at Yogi Adityanath over demolition order for Jauhar University buildings",
-    "desc": "Mehbooba Mufti criticized Yogi Adityanath regarding the proposed demolition of 38 buildings at Jauhar University. She suggested the Uttar Pradesh chief minister should learn from the Jantar Mantar protests. Mufti stated destroying the learning institution displays hatred and vengeance against students. Akhilesh Yadav also joined students protesting to save Jauhar University from demolition. The Samajwadi Party demanded the BJP halt the demolition, citing potential harm to students.",
-    "img": "https://static.toiimg.com/photo/msid-132639485,imgsize-118657.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/take-lesson-from-jantar-mantar-mehbooba-mufti-hits-out-at-yogi-adityanath-over-demolition-order-for-jauhar-university-buildings/articleshow/132639313.cms",
-    "time": "2026-07-26T10:10:56.000Z"
   },
   {
     "cat": "World",
@@ -394,15 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-outlook-fed-policy-crude-oil-prices-and-q1-earnings-to-drive-trade/articleshow/132639201.cms",
     "time": "2026-07-26T09:45:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'PM Modi's apology awaited': Opposition to keep up NEET protest pressure in Parliament",
-    "desc": "Opposition parties will continue their Parliament pressure regarding alleged police brutality against students. Rahul Gandhi has demanded accountability from Home Minister Amit Shah for the protest actions. The INDIA bloc will finalize its strategy on the anti-paper leak bill soon. This proposed legislation aims to increase penalties for examination-related unfair means. The Congress seeks an apology from Prime Minister Narendra Modi for the alleged atrocities.",
-    "img": "https://static.toiimg.com/photo/msid-132639136,imgsize-151218.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-modis-apology-awaited-opposition-to-keep-up-neet-protest-pressure-in-parliament/articleshow/132638977.cms",
-    "time": "2026-07-26T09:41:02.000Z"
   },
   {
     "cat": "Sports",
@@ -486,24 +549,6 @@ const newsData_en = [
     "time": "2026-07-26T08:20:01.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Jaaved Jaaferi explains why Bollywood is bringing back big ensemble cast films like 'Dhamaal 4'",
-    "desc": "Bollywood is witnessing a growing trend of films with large ensemble casts aimed at appealing to a wide range of viewers. 'Dhamaal 4' exemplifies this shift by combining popular returning actors with fresh talent. This comedy continues to entertain families at theaters, even in its third week, generating substantial box office success with over 140 crore rupees while offering a clean comedic experience that resonates with weekend audiences.",
-    "img": "https://static.toiimg.com/photo/msid-132638277,imgsize-114880.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/jaaved-jaaferi-explains-why-bollywood-is-bringing-back-big-ensemble-cast-films-like-dhamaal-4-and-welcome-to-the-jungle-i-suppose-we-are-going-back-to-the-circus/articleshow/132638260.cms",
-    "time": "2026-07-26T08:06:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Callum Turner unveils cyber-punk series 'Neuromancer'",
-    "desc": "Callum Turner unveiled a teaser for the tech noir series 'Neuromancer' at Comic-Con. This series, based on William Gibson's novel, explores digital espionage and high-stakes crime. The first look featured Case's chase through near-future Japan with thrilling landscapes. The show, created by Graham Roland and JD Dillard, premieres January 22, 2027. It will stream weekly on Apple TV until March 19, 2027.",
-    "img": "https://static.toiimg.com/photo/msid-132638052,imgsize-221066.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/callum-turner-unveils-cyber-punk-series-neuromancer-at-san-diego-comic-con-2026-this-is-just-your-first-access-point/articleshow/132638057.cms",
-    "time": "2026-07-26T07:46:43.000Z"
-  },
-  {
     "cat": "World",
     "title": "Indian seafarer killed in attack on ship in Black Sea",
     "desc": "The External Affairs Ministry said MV Omorfi was attacked while transiting the Black Sea, reportedly in Russian territorial waters; at the time of the incident, there were 10 crew members on board, including three Indians",
@@ -547,24 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-was-really-angry-ex-india-cricketer-fumes-over-rohit-sharma-retirement-saga/articleshow/132636647.cms",
     "time": "2026-07-26T05:16:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'What's his mistake?': Ex-India star wants India to make one big change for 3rd T20I vs Zimbabwe",
-    "desc": "Former India batter Aakash Chopra said India should continue backing Abhishek Sharma despite his poor scores in the first two matches. Instead, he suggested giving Ishan Kishan a break and bringing Prabhsimran into the playing XI. Abhished scored 1 run in the first T20I and then fell for 8 in the second T20I.",
-    "img": "https://static.toiimg.com/photo/msid-132636566,imgsize-80357.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/whats-his-mistake-ex-india-star-wants-india-to-make-one-big-change-for-3rd-t20i-vs-zimbabwe/articleshow/132636523.cms",
-    "time": "2026-07-26T05:10:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Neeraj Chopra checks in after long injury rehab",
-    "desc": "Sporting an all-black outfit comprising a sweatshirt, track pants and a black cap, Chopra cut a relaxed figure as he made his way into the hotel where the athletics and para-athletics contingent are staying. The Olympic and world champion returns to the CWG after missing the 2022 Birmingham edition because of injury.",
-    "img": "https://static.toiimg.com/photo/msid-132635949,imgsize-35737.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-neeraj-chopra-checks-in-after-long-injury-rehab/articleshow/132635957.cms",
-    "time": "2026-07-26T03:26:54.000Z"
   },
   {
     "cat": "Sports",
@@ -835,33 +862,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/cci-says-platform-fees-and-delivery-charges-charged-by-zomato-not-abuse-of-dominance/article71261264.ece",
     "time": "2026-07-24T07:45:03.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Russia warns U.S. against Ukraine arms sales in Manila meeting",
-    "desc": "Mr. Lavrov and Rubio's meeting on the sidelines of a Southeast Asian summit, their first since September 2025, came as Washington's focus has switched from mediating in Ukraine to dealing with war in the West Asia",
-    "img": "https://th-i.thgim.com/public/incoming/h0the7/article71259837.ece/alternates/LANDSCAPE_1200/2026-07-22T034107Z_1228060140_RC2QIMAP1K65_RTRMADP_3_ASEAN-PHILIPPINES.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/russia-warns-us-against-ukraine-arms-sales-in-manila-meeting/article71259513.ece",
-    "time": "2026-07-24T07:04:44.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "'No need to respond in advance': Canadian PM Mark Carney rules out retaliatory tariffs before Aug 19",
-    "desc": "Canada will not retaliate in advance against proposed US tariffs, preferring negotiations. Prime Minister Mark Carney stated that premature action would be counterproductive at this stage. Ottawa is intensifying efforts to strike a comprehensive trade agreement with the United States. Canada has not ruled out measures if tariffs are imposed by Washington. The country is also working to reduce its dependence on the US market.",
-    "img": "https://static.toiimg.com/photo/msid-132597549,imgsize-129720.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/no-need-to-respond-in-advance-canadian-pm-mark-carney-rules-out-retaliatory-tariffs-before-aug-19/articleshow/132597498.cms",
-    "time": "2026-07-24T05:54:30.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "RBI intervention lifts rupee 22 paise to 96.5 despite Brent crude topping $100",
-    "desc": "The Indian Rupee recovered 22 paise against the US dollar in early trade. This recovery occurred despite crude oil prices breaching the $100 a barrel mark. The Reserve Bank of India's intervention likely helped stabilize the domestic currency. Foreign institutional investor outflows and weak domestic equities capped further gains for the Rupee. Brent crude prices rose amid escalating Middle East tensions and shipping route clashes.",
-    "img": "https://static.toiimg.com/photo/msid-132596944,imgsize-457997.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-intervention-lifts-rupee-22-paise-to-96-5-despite-brent-crude-topping-100/articleshow/132596724.cms",
-    "time": "2026-07-24T05:22:42.000Z"
   },
   {
     "cat": "Business",
