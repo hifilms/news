@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "જૂની પેન્શન યોજના અંગે સરકારે આપ્યું મોટું અપડેટ, સરકારી કર્મચારીઓ માટે જાણવું જરૂરી",
+    "desc": "જો તમે પણ સરકારી કર્મચારી છો અને જૂની પેન્શન યોજના શરૂ થવાની રાહ જોઈ રહ્યા છો, તો આ સમાચાર તમારા માટે ઉપયોગી છે, કારણ કે સરકારે સંસદમાં જૂની પેન્શન યોજના અંગે પોતાનું વલણ સ્પષ્ટ કર્યું છે, ત્યારે સરકારે શું સ્પષ્ટતા કરી છે, તેના વિશે આ લેખમાં જણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/government-gives-major-update-on-old-pension-scheme-check-details-485941 ",
+    "time": "2026-07-27T14:46:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ગંભીરની ખુરશી ખતરામાં ? ઝિમ્બાબ્વેમાં જીત બાદ VVS લક્ષ્મણને નવા હેડ કોચ બનાવવાની માંગ તેજ",
+    "desc": "ઝિમ્બાબ્વે સામે T20 શ્રેણીમાં ભારતની 3-0થી શાનદાર જીત થઈ છે. લક્ષ્મણ અને શ્રેયસ ઐયરનો ડ્રેસિંગ રૂમનો વીડિયો વાયરલ થયા બાદ ગૌતમ ગંભીરને બદલે વીવીએસ લક્ષ્મણને હેડ કોચ નિયુક્ત કરવા અંગે ચાહકોમાં ચર્ચા શરૂ થઈ ગઈ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/demand-to-make-vvs-laxman-new-head-coach-instead-of-gautam-gambhir-485939 ",
+    "time": "2026-07-27T13:39:12.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "9 વર્ષ નાના ક્રિકેટરને ડેટ કરી રહી છે મૃણાલ ઠાકુર ? વાયરલ વીડિયો બાદ શરૂ થઈ ડેટિંગની ચર્ચા",
     "desc": "અભિનેત્રી મૃણાલ ઠાકુર ફરી એકવાર ચર્ચામાં આવી છે. તેનું નામ ક્રિકેટર યશસ્વી જયસ્વાલ સાથે જોડાઈ રહ્યું છે, જે તેનાથી નવ વર્ષ નાનો છે. સોશિયલ મીડિયા પર બંને સ્ટાર્સ અંગે વિવિધ દાવાઓ કરવામાં આવી રહ્યા છે.",
@@ -369,24 +387,6 @@ const newsData_gu = [
     "time": "2026-07-25T05:15:03.000Z"
   },
   {
-    "cat": "Business",
-    "title": "અમેરિકાએ લગાવ્યો 10% ટેરિફ, જાણો ચીન અને વિયેતનામ કરતાં કેમ ફાયદામાં રહ્યું ભારત?",
-    "desc": "અમેરિકાએ ભારતીય માલ પર 10% ટેરિફ લગાવ્યો છે, પરંતુ એક્સપર્ટ માને છે કે આનાથી ભારતની નિકાસ પર ખાસ અસર નહીં પડે. ચીન સહિત ઘણા સ્પર્ધાત્મક દેશો પર લગાવવામાં આવેલા ઊંચા ટેરિફથી ભારતીય કાપડ અને અન્ય નિકાસકારોને ફાયદો થઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/america-imposed-10-percent-tariff-know-why-india-was-at-an-advantage-over-china-and-vietnam-485662 ",
-    "time": "2026-07-24T16:50:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સોનાનો ભાવ આજે 1.31 લાખ પર પહોંચ્યો, જાણો 24 અને 22 કેરેટ ગોલ્ડનો રેટ",
-    "desc": "આજે શુક્રવાર 24 જુલાઈએ સોનાના ભાવમાં મામૂલી તેજી રહી. સર્રાફા બજારમાં સોનામાં 41 રૂપિયાનો વધારો થયો. ગઈકાલે સોનામાં ઘટાડો જોવા મળ્યો હતો. બુલિયન માર્કેટમાં 24 કેરેટ 10 ગ્રામ સોનું 1,43,336 રૂપિયા પર કારોબાર કરી રહ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-price-today-gold-price-reached-1-31-lakh-today-know-the-rate-of-24-and-22-carat-gold-485634 ",
-    "time": "2026-07-24T12:48:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "શ્રેયસની કેપ્ટનશીપમાં ટીમ ઈન્ડિયાને મળી પહેલી જીત, ભારતે ઝિમ્બાબ્વેને 7 વિકેટેથી હરાવ્યું; વૈભવ સૂર્યવંશીની તોફાની ફિફ્ટી",
     "desc": "ભારતે ઝિમ્બાબ્વેને પહેલી T20 મેચમાં 7 વિકેટે હરાવીને ત્રણ મેચોની સિરીઝમાં 1-0ની લીડ મેળવી લીધી છે. આ સાથે જ ટીમ ઈન્ડિયાએ શ્રેયસ અય્યરની કેપ્ટનશીપમાં પહેલીવાર જીતનો સ્વાદ ચાખ્યો છે. આ પહેલાં ભારતને સતત 6 T20I મેચોમાં હારનો સામનો કરવો પડ્યો હતો.",
@@ -394,15 +394,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/team-india-got-its-first-win-under-shreyas-captaincy-india-defeated-zimbabwe-by-7-wickets-vaibhav-suryavanshi-stormy-fifty-485562 ",
     "time": "2026-07-23T15:08:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "શ્રેયસ અય્યરે રચ્યો ઈતિહાસ, MS ધોનીનો 14 વર્ષ જૂનો રેકોર્ડ તોડી બન્યા ભારતના નંબર-1 કેપ્ટન",
-    "desc": "શ્રેયસ અય્યર જ્યારથી ભારતના T20I કેપ્ટન બન્યા છે, ત્યારથી તેમને જીત નસીબ નથી થઈ. જો કે, તેમણે ટોસ જીતીને એક મોટો રેકોર્ડ પોતાના નામે કરી લીધો છે. આ મામલે તેમણે એમએસ ધોનીને પાછળ છોડીને ઈતિહાસ રચ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-zim-shreyas-iyer-creates-history-breaks-ms-dhoni-14-year-old-record-to-become-india-number-1-captain-485536 ",
-    "time": "2026-07-23T13:16:51.000Z"
   },
   {
     "cat": "Entertainment",

@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Bindyarani Devi secures India's sixth medal at Commonwealth Games 2026, wins bronze in 58kg weightlifting",
+    "desc": "Star weightlifter Bindyarani Devi secured India's sixth medal at the Commonwealth Games 2026 as she won a bronze in the 58kg weightlifting at the Glasgow Games on Monday, July 27. Bindyarani won her second medal...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/bindyarani-devi-secures-indias-sixth-medal-at-commonwealth-games-2026-wins-bronze-in-58kg-weightlifting-2026-07-27-1049568",
+    "time": "2026-07-27T16:29:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gyaneshwari Yadav clinches silver in 53kg weightlifting at Commonwealth Games 2026",
+    "desc": "Gyaneshwari Yadav won the silver medal in the 53 kg weightlifting event, bringing home the fifth medal for the Indian contingent at the Commonwealth Games 2026. It is interesting to note that Gyaneshwari remained in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/gyaneshwari-yadav-clinches-silver-in-53kg-weightlifting-at-commonwealth-games-2026-2026-07-27-1049562",
+    "time": "2026-07-27T13:47:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shreyas Iyer, VVS Laxman hail India's performance after 3-0 series sweep over Zimbabwe",
+    "desc": "The Indian team completed a 3-0 T20I series sweep of Zimbabwe on Sunday, winning the final game of the series by 35 runs. The series was played without India’s regular head coach, and interim head...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-vvs-laxman-hail-india-s-performance-after-3-0-series-sweep-over-zimbabwe-2026-07-27-1049554",
+    "time": "2026-07-27T13:01:06.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Murali Sreeshankar qualifies for men's long jump final in CWG 2026; Sajan Prakash qualifies for swimming final",
     "desc": "In one of the most brilliant performances in the ongoing Commonwealth Games 2026, India’s Murali Sreeshankar performed brilliantly and qualified for the men’s long jump event on July 27. It is interesting to note that...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/vvs-laxman-sings-vaibhav-sooryavanshi-s-praises-after-india-dominate-zimbabwe-to-complete-clean-sweep-2026-07-27-1049497",
     "time": "2026-07-27T05:12:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Raja Muthupandi fights back to bag silver in 65kg weightlifting as India's medal tally swells at CWG 2026",
-    "desc": "India's impressive run in weightlifting at the 2026 Commonwealth Games continued on Sunday (local time) as Raja Muthupandi produced a determined performance to clinch the silver medal in the men's 65kg category in Glasgow. His...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/raja-muthupandi-fights-back-to-bag-silver-in-65kg-weightlifting-as-india-s-medal-tally-swells-at-glasgow-commonwealth-games-2026-2026-07-27-1049488",
-    "time": "2026-07-27T02:23:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mirabai Chanu clinches gold medal in 48kg weightlifting at Commonwealth Games 2026",
-    "desc": "India's star weightlifter Mirabai Chanu clinched yet another gold medal at the Commonwealth Games as she won the yellow metal for the third consecutive time on Sunday, July 26, during the ongoing Glasgow Games. Chanu...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/mirabai-chanu-clinches-gold-medal-in-49kg-weightlifting-at-commonwealth-games-2026-2026-07-26-1049475",
-    "time": "2026-07-26T14:55:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India thump Zimbabwe in Harare, register dominant 35-run win to complete clean sweep",
-    "desc": "The third and final T20I of the ongoing series between India and Zimbabwe saw the two sides take on each other at the Harare Sports Club on July 26th. The game saw India put in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-thump-zimbabwe-in-harare-register-dominant-35-run-win-to-complete-clean-sweep-2026-07-26-1049474",
-    "time": "2026-07-26T14:43:33.000Z"
   }
 ];
