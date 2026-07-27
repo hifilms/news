@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "ઝિમ્બાબ્વે પ્રવાસ પૂરો... હવે ક્યારે અને કઈ ટીમ સામે રમશે ઈન્ડિયન ટીમ? 15 દિવસમાં બાદ નવો પ્રવાસ, જાણો શેડ્યૂલ",
+    "desc": "ભારત અને ઝિમ્બાબ્વે વચ્ચેની T20 સિરીઝ પુરી થઈ ગઈ છે. ટીમ ઈન્ડિયા 3-0થી જીતી ગઈ છે. હવે બધાને આશ્ચર્ય થાય છે કે ટીમ ઈન્ડિયા આગામી મેચ ક્યારે અને કઈ ટીમ સામે રમશે? અમે સંપૂર્ણ શેડ્યૂલ શેર કરવા જઈ રહ્યા છીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/when-and-where-will-team-india-play-now-new-tour-in-15-days-know-the-schedule-485862 ",
+    "time": "2026-07-27T05:26:18.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ધડાકાભેર ઘટાડા બાદ સોનામાં ફરી તેજી, સવારે જ થયો મોટો ઉછાળો, જાણો આજનો ભાવ",
+    "desc": "જૂન ક્વાર્ટર દરમિયાન સોનાની કિંમતમાં મોટો ઘટાડો જોવા મળ્યો હતો. પરંતુ હવે અમેરિકા અને ઈરાન વચ્ચેના યુદ્ધ વચ્ચે ચીને મધ્યસ્થીની પહેલ કરી છે. આ પછી, અમેરિકાથી હુમલા બંધ થઈ ગયા છે અને સોનાની કિંમત ફરી વધી રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/after-a-huge-decline-gold-rebounded-where-did-the-price-reach-today-after-the-early-morning-surge-find-out-485858 ",
+    "time": "2026-07-27T04:20:35.000Z"
+  },
+  {
     "cat": "Business",
     "title": "ક્રિપ્ટો રોકાણકારો માટે આવ્યા મહત્ત્વના સમાચાર! સરકારે જાહેર કર્યા નવા નિયમો, જાણો",
     "desc": "CBDTએ આવકવેરા અધિનિયમ 2025 (Income Tax Act 2025) હેઠળ ક્રિપ્ટો એસેટ રિપોર્ટિંગ માટે નવી ગાઇડલાઇન જાહેર કરી છે. હવે ક્રિપ્ટો એક્સચેન્જો અને અન્ય સેવા પ્રદાતાઓએ નક્કી કરેલા નિયમો અનુસાર ગ્રાહકો અને મોટા ક્રિપ્ટો વ્યવહારોની માહિતી ટેક્સ વિભાગને આપવી પડશે. આવો તેના વિગતવાર જાણીએ.",
@@ -430,15 +448,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/us-president-donald-trump-annouce-generic-drug-tariff-plan-how-will-impact-on-india-485407 ",
     "time": "2026-07-22T04:06:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCIએ ક્રિકેટના નિયમોમાં કર્યો ફેરફાર, હવે જાણી જોઈને નો-બોલ ફેંક્યો તો પડી શકે છે મોંઘો",
-    "desc": "BCCIએ સ્થાનિક ક્રિકેટના નિયમોમાં કેટલાક ફેરફાર કર્યા છે, જેમાં એક ફેરફાર એવો છે કે જો ખેલાડી જાણી જોઈને નો બોલ ફેંકશે તો તેની સામે કડક કાર્યવાહી કરવામાં આવશે. આ નિર્ણય 2026-27ની સ્થાનિક સીઝન પહેલા લેવામાં આવ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/bcci-new-rules-for-domestic-cricket-front-foot-no-ball-bowler-suspension-rule-485378 ",
-    "time": "2026-07-21T15:40:57.000Z"
   },
   {
     "cat": "Tech",

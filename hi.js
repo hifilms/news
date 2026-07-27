@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "VVS Laxman sings Vaibhav Sooryavanshi's praises after India dominate Zimbabwe to complete clean sweep",
+    "desc": "The Indian team put forth another good showing in the third and final T20I of the series against Zimbabwe. The two sides met at the Harare Sports Club on July 26th, and the Indian team...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vvs-laxman-sings-vaibhav-sooryavanshi-s-praises-after-india-dominate-zimbabwe-to-complete-clean-sweep-2026-07-27-1049497",
+    "time": "2026-07-27T05:12:55.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Raja Muthupandi fights back to bag silver in 65kg weightlifting as India's medal tally swells at CWG 2026",
     "desc": "India's impressive run in weightlifting at the 2026 Commonwealth Games continued on Sunday (local time) as Raja Muthupandi produced a determined performance to clinch the silver medal in the men's 65kg category in Glasgow. His...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-reclaim-top-spot-in-icc-t20i-rankings-after-thumping-victory-over-zimbabwe-in-harare-2026-07-26-1049448",
     "time": "2026-07-26T07:35:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India vs Zimbabwe 3rd T20I Pitch Report, how will surface in Harare play?",
-    "desc": "The stage is set for the third and final T20I of the ongoing series between India and Zimbabwe. The two sides are slated to take on each other at the Harare Sports Club on July...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-zimbabwe-3rd-t20i-pitch-report-how-will-surface-in-harare-play-2026-07-26-1049443",
-    "time": "2026-07-26T06:16:05.000Z"
   }
 ];
