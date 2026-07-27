@@ -1,6 +1,105 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Ex-top Chhattisgarh official behind paper leaks, appointed kin as deputy collector, DSP: ED",
+    "desc": "Taman Singh Sonwani, a retired IAS officer, faces custodial remand for alleged CGPSC paper leak. He allegedly amended recruitment rules in 2021 to benefit his family members. Sonwani appointed relatives as deputy collector and DSP after rule changes. The Enforcement Directorate arrested the former CGPSC chairperson on July 25. A special court granted seven days of ED custody for further investigation.",
+    "img": "https://static.toiimg.com/photo/msid-132670818,imgsize-69878.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ex-top-chhattisgarh-official-behind-paper-leaks-appointed-kin-as-deputy-collector-dsp-ed/articleshow/132670814.cms",
+    "time": "2026-07-27T21:54:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'I am a street fighter': Combative Dharmendra Pradhan arrives in Parliament to a rousing welcome",
+    "desc": "Former minister Dharmendra Pradhan asserted his street fighter identity after resigning from his post. He arrived in Parliament as a Member of Parliament, receiving strong support from fellow MPs. Colleagues raised slogans and offered traditional honours, showcasing solidarity with the ex-minister. This public display aimed to convey that his resignation was not a reflection of his work. Pradhan's response indicated readiness to address discussions on the paper leak issue.",
+    "img": "https://static.toiimg.com/photo/msid-132670801,imgsize-152672.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/i-am-a-street-fighter-combative-dharmendra-pradhan-arrives-in-parliament-to-a-rousing-welcome/articleshow/132670795.cms",
+    "time": "2026-07-27T21:42:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Activist demands time-bound prosecution in long-pending paper leak cases relating to two NDA MLAs in U.P.",
+    "desc": "The cases involve long-pending paper leak issues relating to Suheldev Bharatiya Samaj Party (SBSP) MLA Bedi Ram and Nishad Party MLA Vipul Dubey, both allies of the ruling Bharatiya Janata Party (BJP) in Uttar Pradesh",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/activist-demands-time-bound-prosecution-in-long-pending-paper-leak-cases-relating-to-two-nda-mlas-in-up/article71272983.ece",
+    "time": "2026-07-27T21:29:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "D4vd to stand trial in murder of 14-year-old: Judge",
+    "desc": "Singer D4vd will face trial for murder and dismemberment charges. Prosecutors presented evidence of a relationship and threats before the killing. The judge found probable cause for murder and sexual abuse charges. Evidence includes text messages and DNA found at the singer's home. The singer's career was rising before these serious allegations emerged.",
+    "img": "https://static.toiimg.com/photo/msid-132670603,imgsize-140538.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/breaking-d4vd-to-stand-trial-in-murder-and-sexual-abuse-of-14-year-old-celeste-rivas-hernandez-judge/articleshow/132670597.cms",
+    "time": "2026-07-27T21:27:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "End to Parliament impasse in sight, Lok Sabha may take up bill on exam reforms today",
+    "desc": "Parliamentary proceedings may resume Tuesday after Lok Sabha Speaker's outreach to break impasse. The government's bill on paper leaks is likely to be discussed in the lower House. A discussion on the Vande Mataram bill may begin in the Rajya Sabha. Opposition members have moved many amendment notices to the public exams bill. Both sides continued to trade charges while inching towards a resolution.",
+    "img": "https://static.toiimg.com/photo/msid-132670565,imgsize-213102.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/end-to-parliament-impasse-in-sight-lok-sabha-may-take-up-bill-on-exam-reforms-today/articleshow/132670551.cms",
+    "time": "2026-07-27T21:01:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "On Supreme Court suggestion, temple SIT to include a forensic auditor",
+    "desc": "The Supreme Court has directed the UP government to add a forensic audit expert to the SIT. This special investigation team will probe alleged embezzlement of Ayodhya Ram Mandir donations. The court wants an expeditious, fair, and transparent investigation into all aspects. The SIT has been asked to submit its probe status report within two weeks. The court will monitor the investigation directly without retired judge supervision.",
+    "img": "https://static.toiimg.com/photo/msid-132670535,imgsize-1231204.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ayodhya-ram-mandir-donation-row-on-supreme-court-suggestion-temple-sit-to-include-a-forensic-auditor/articleshow/132670532.cms",
+    "time": "2026-07-27T20:51:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Gen Z’ protests test the Sangh, raise uncomfortable questions",
+    "desc": "After reports emerged that the daughter of Assam Revenue Minister Keshab Mahanta, Dibisa Mahanta, had joined the protests by students, other instances of disquiet among BJP members and those associated with the Sangh Parivar have come to the fore",
+    "img": "https://th-i.thgim.com/public/incoming/j77eoh/article71274266.ece/alternates/LANDSCAPE_1200/TH26-Sandeep-ThGB8GAA19J.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/for-sangh-parivar-gen-z-protests-strike-close-to-home/article71273253.ece",
+    "time": "2026-07-27T20:45:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Somy Ali announces $5,000 reward to find missing actor Raj Kiran",
+    "desc": "Former actor and activist Somy Ali, known for her past relationship with Salman Khan, has revealed that she has spent the last 16 years searching for missing Bollywood actor Raj Kiran, saying she made a promise to late actor Rishi Kapoor that she would never stop looking for him. Raj Kiran, who mysteriously disappeared in the early 2000s, remains one of Bollywood's biggest unsolved mysteries.",
+    "img": "https://static.toiimg.com/photo/msid-132670511,imgsize-116283.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khans-ex-somy-ali-announces-5000-reward-in-her-16-year-search-to-find-missing-bollywood-actor-raj-kiran-reveals-promise-made-to-rishi-kapoor/articleshow/132670501.cms",
+    "time": "2026-07-27T20:41:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court says right to peaceful protest constitutionally protected, mulls framing guidelines",
+    "desc": "The Supreme Court said it will hear on Tuesday (July 28, 2026) multiple petitions concerning the nationwide protests over examination paper leaks, including those alleging police excesses during the July 20 Parliament march led by the Cockroach Janta Party",
+    "img": "https://th-i.thgim.com/public/incoming/7hlefw/article71271990.ece/alternates/LANDSCAPE_1200/93_Cockroach_Janta_Party_Protest_20_07_Delhi.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/neet-protest-right-to-peaceful-protest-guaranteed-says-supreme-court-fixes-hearing-on-police-excesses-on-july-28/article71271559.ece",
+    "time": "2026-07-27T20:27:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TMC’s Abhishek Banerjee meets Lok Sabha Speaker Om Birla, seeks early decision on disqualification of 20 rebel MPs",
+    "desc": "TMC leader Abhishek Banerjee met Lok Sabha Speaker Om Birla regarding pending disqualification petitions. He urged the speaker to expedite decisions on twenty rebel Members of Parliament. Banerjee also requested a review of seating arrangements for his party's elected members. The speaker reportedly offered no clear response to the concerns raised. This meeting occurred after the TMC delegation submitted disqualification petitions.",
+    "img": "https://static.toiimg.com/photo/msid-132670416,imgsize-884584.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/tmcs-abhishek-banerjee-meets-lok-sabha-speaker-om-birla-seeks-early-decision-on-disqualification-of-20-rebel-mps/articleshow/132670395.cms",
+    "time": "2026-07-27T19:55:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mehbooba faces heat over Jantar Mantar comment, opposition accuses her justifying use of force in UT",
+    "desc": "Mehbooba Mufti's statement on force in Kashmir has drawn criticism. She appeared to justify actions by citing militancy in the region. Chief Minister Omar Abdullah demanded an apology for her controversial remarks. The PDP defended her statement, claiming it was misrepresented by media. Other parties also condemned her comments, highlighting past suffering in Kashmir.",
+    "img": "https://static.toiimg.com/photo/msid-132670114,imgsize-86706.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-mehbooba-faces-heat-over-jantar-mantar-comment-opposition-accuses-her-justifying-use-of-force-in-ut/articleshow/132670074.cms",
+    "time": "2026-07-27T19:19:08.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Mounting losses force farmers in Karnataka’s Kolar district to chop down mango trees",
     "desc": "Farmers said while they were incurring losses growing mangoes on the one hand, they were unable to cultivate other crops along with mangoes as the sunlight does not reach those crops due to shade. Thus, they are unable to diversify the crop cultivation",
     "img": "https://th-i.thgim.com/public/incoming/plm7vi/article71273471.ece/alternates/LANDSCAPE_1200/IMG-20260726-WA0021.jpg",
@@ -37,57 +136,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "For Sangh Parivar, Gen Z protests strike close to home",
-    "desc": "After reports emerged that the daughter of Assam Revenue Minister Keshab Mahanta, Dibisa Mahanta, had joined the protests by students, other instances of disquiet among BJP members and those associated with the Sangh Parivar have come to the fore",
-    "img": "https://th-i.thgim.com/public/incoming/j77eoh/article71274266.ece/alternates/LANDSCAPE_1200/TH26-Sandeep-ThGB8GAA19J.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/for-sangh-parivar-gen-z-protests-strike-close-to-home/article71273253.ece",
-    "time": "2026-07-27T17:09:40.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Court rejects Ansiba’s plea for FIR, finds no cognisable offence",
     "desc": "After examining the complaint, supporting affidavit, and the submission made by the Palarivattom Station House Officer, the court observed that no cognisable offence was presently made out to warrant forwarding the complaint to the SHO",
     "img": "https://th-i.thgim.com/public/incoming/1rfon1/article71274213.ece/alternates/LANDSCAPE_1200/AMMA-row_-AnsibGOCG7GB1G.3.jpg.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/court-rejects-ansibas-plea-for-fir-finds-no-cognisable-offence/article71273596.ece",
     "time": "2026-07-27T16:49:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "The rocky issue that has landed HYDRAA chief in trouble",
-    "desc": "Telangana High Court’s directive to remove HYDRAA Commissioner A.V. Ranganath stems from a contempt case linked to a disputed 40-acre land parcel in Lothkunta village, where the agency allegedly acted despite an undertaking not to interfere",
-    "img": "https://th-i.thgim.com/public/incoming/nef93s/article71274220.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-18%20at%204.16.51%20PM%202.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Hyderabad/the-rocky-issue-that-has-landed-hydraa-chief-in-trouble/article71273530.ece",
-    "time": "2026-07-27T16:46:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Gurugram woman says she was shot at during July 20 protest",
-    "desc": "Victim alleges she was shot close by a fountain at park near Jantar Mantar; RML Hospital discharge summary shows she suffered ‘trauma to right ear by gunshot’; she alleges she was discharged in 15 mins after two-hour surgery",
-    "img": "https://th-i.thgim.com/public/news/national/l945ul/article71273867.ece/alternates/LANDSCAPE_1200/injury.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/gurugram-woman-says-she-was-shot-at-during-july-20-protest/article71273726.ece",
-    "time": "2026-07-27T16:39:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Examining the roadblocks to Bihar’s development trajectory",
-    "desc": "A look at what has hindered Bihar’s socio-economic progress despite a politics centred on social justice. The gap between political empowerment and ground-level stagnation calls for changes aimed at bringing about overall development in the region",
-    "img": "https://th-i.thgim.com/public/incoming/thyv48/article70913715.ece/alternates/LANDSCAPE_1200/21_RVM_0842.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/examining-the-roadblocks-to-bihars-development-trajectory/article70913711.ece",
-    "time": "2026-07-27T16:39:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "First hearing in fast-track court deferred as CBI counsel fails to show up",
-    "desc": "The court will now take up the bail applications of two accused in the case on August 3. Congress asks the Modi government with what face is beating the drum, proclaiming fast-track courts as the solution to the paper leak crisis",
-    "img": "https://th-i.thgim.com/public/incoming/q57c80/article71232575.ece/alternates/LANDSCAPE_1200/DHC.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Delhi/neet-paper-leak-case-first-hearing-in-fast-track-court-deferred-as-cbi-counsel-fails-to-show-up/article71273419.ece",
-    "time": "2026-07-27T16:35:14.000Z"
   },
   {
     "cat": "Entertainment",
@@ -207,15 +261,6 @@ const newsData_en = [
     "time": "2026-07-27T13:19:09.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Police showed respect for accused Sena corporator': Bombay HC on probe into doctors' assault case",
-    "desc": "The Bombay high court criticised police for showing favorable treatment to a Shiv Sena corporator. The court directed the Deputy Commissioner of Police to investigate the matter thoroughly. The accused corporator allegedly assaulted doctors and medical staff at a civic hospital. He was later granted bail, which the High Court had termed perverse. The court expressed surprise at his behavior towards the public he serves.",
-    "img": "https://static.toiimg.com/photo/msid-132662682,imgsize-52054.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/police-showed-respect-for-accused-sena-corporator-bombay-hc-on-probe-into-doctors-assault-case/articleshow/132662292.cms",
-    "time": "2026-07-27T13:18:16.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Kourtney Kardashian pays tribute to her grandmother",
     "desc": "Kourtney Kardashian honored her grandmother, Mary Jo Shannon, on her 92nd birthday. She shared a heartfelt Instagram post remembering their special childhood memories. Kardashian expressed deep love and immense missing for her beloved grandmother. Mary Jo Shannon passed away earlier this month, which was announced by Kris Jenner. Many close friends and fans offered their sincere condolences online.",
@@ -268,15 +313,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunny-deol-dedicates-batwara-1947-to-his-mother-prakash-kaur-and-mothers-everywhere-ahead-of-trailer-launch-meri-maa-hi-mera-rab-hain/articleshow/132660852.cms",
     "time": "2026-07-27T12:05:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'MPs sleeping, need wake-up call': Delhi transport bodies plan Parliament march on August 4 against E20 fuel",
-    "desc": "Delhi transport groups will march to Parliament on August 4. They demand the withdrawal of ethanol-blended petrol from the market. Concerns about vehicle problems and mileage reduction are being raised. The government defends the E20 fuel program as safe and beneficial. This protest aims to highlight issues with the mandated fuel blend.",
-    "img": "https://static.toiimg.com/photo/msid-132660941,imgsize-81254.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/mps-sleeping-need-wake-up-call-delhi-transport-bodies-to-march-to-parliament-on-august-4-against-e20-fuel/articleshow/132660601.cms",
-    "time": "2026-07-27T11:59:51.000Z"
   },
   {
     "cat": "Business",
@@ -352,48 +388,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Ranbir and Yash turn into Pookie Girl Dads, the duo colour Ram-Ravana sketches",
-    "desc": "Ranbir Kapoor and Yash went viral after a playful colouring contest at Comic-Con, promoting Nitesh Tiwari's 'Ramayana'. While Ranbir coloured Lord Rama and Yash sketched Ravana, fans dubbed them \"pookie girl dads\" online. The two-part epic also stars Sai Pallavi, Ravi Dubey, Sunny Deol, Lara Dutta, and Vivek Oberoi in key roles.",
-    "img": "https://static.toiimg.com/photo/msid-132659562,imgsize-238292.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-and-yash-turn-into-pookie-girl-dads-the-duo-colour-ram-ravana-sketches-at-comic-con-watch/articleshow/132659562.cms",
-    "time": "2026-07-27T10:57:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "After Dharmendra Pradhan's resignation, RGV says: 'NEET is not the issue, AI is'",
-    "desc": "Filmmaker Ram Gopal Varma has stirred up a fresh debate online with a series of tweets arguing that traditional education has been rendered obsolete by artificial intelligence. In back-to-back posts, the director claimed degrees in medicine, law, engineering and other professional fields will soon be worthless, and that the only skill worth learning today is how to use AI itself.",
-    "img": "https://static.toiimg.com/photo/msid-132659353,imgsize-155263.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-dharmendra-pradhans-resignation-ram-gopal-varma-sparks-debate-with-tweets-declaring-education-should-be-killed-neet-is-not-the-issue-ai-is/articleshow/132659157.cms",
-    "time": "2026-07-27T10:51:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Ewwww, who is birthing &amp; raising them?' Kangana Ranaut calls Gen Z protest reels 'puke inducing'",
-    "desc": "Actor-politician Kangana Ranaut criticized Gen Z protests and the Cockroach Janta Party. She described their protest reels as \"puke inducing\" and \"crass\" on Instagram. Ranaut also mocked the protesters' use of the \"cockroach\" metaphor. The CJP recently called off its agitation after discussions with Union ministers. Their principal demand was met with the education minister's resignation.",
-    "img": "https://static.toiimg.com/photo/msid-132658951,imgsize-710793.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ewwww-who-is-birthing-raising-them-kangana-ranaut-calls-gen-z-protest-reels-puke-inducing/articleshow/132658906.cms",
-    "time": "2026-07-27T10:35:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "‘The Rookie’ Season 9 begins filming",
     "desc": "The Rookie Season 9 has begun filming, with production starting last week. Lead star Nathan Fillion joins production this Monday after the panel. Creator Alexi Hawley detailed a supersized season with high stakes and drama. The upcoming season begins with the kidnapping cliffhanger from the previous finale. The show is expected to premiere in January, following past release patterns.",
     "img": "https://static.toiimg.com/photo/msid-132658897,imgsize-243363.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-rookie-season-9-begins-filming-creator-alexi-hawley-drops-hints-about-release-and-plot-its-funny-and-unexpected/articleshow/132658825.cms",
     "time": "2026-07-27T10:31:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Ram Temple donation 'theft' case: SC tells SIT to submit status report within 2 weeks",
-    "desc": "The Supreme Court has directed the Special Investigation Team to submit a status report. This report concerns the alleged theft of offerings at the Ayodhya Ram Temple. The court issued this direction while hearing petitions seeking a court-monitored investigation. The Uttar Pradesh government will add a forensic auditor to the SIT. This SIT currently comprises three IPS officers.",
-    "img": "https://static.toiimg.com/photo/msid-132658674,imgsize-133256.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ram-temple-donation-theft-case-sc-tells-sit-to-submit-status-report-within-2-weeks/articleshow/132658587.cms",
-    "time": "2026-07-27T10:24:34.000Z"
   },
   {
     "cat": "Business",
