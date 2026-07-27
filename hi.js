@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Murali Sreeshankar qualifies for men's long jump final in CWG 2026; Sajan Prakash qualifies for swimming final",
+    "desc": "In one of the most brilliant performances in the ongoing Commonwealth Games 2026, India’s Murali Sreeshankar performed brilliantly and qualified for the men’s long jump event on July 27. It is interesting to note that...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/murali-sreeshankar-qualifies-for-men-s-long-jump-final-in-cwg-2026-sajan-prakash-qualifies-for-swimming-final-2026-07-27-1049540",
+    "time": "2026-07-27T11:05:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jaffna Kings announce Bangladesh batter as Taskin Ahmed's replacement amid ongoing LPL season",
+    "desc": "In a major development, LPL (Lanka Premier League) franchise Jaffna Kings recently came forward and announced the replacement of Taskin Ahmed in their squad. It is worth noting that Taskin was ruled out of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jaffna-kings-announce-bangladesh-batter-as-taskin-ahmed-s-replacement-amid-ongoing-lpl-season-2026-07-27-1049530",
+    "time": "2026-07-27T10:10:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What is the criteria to win the Ballon d'Or? France Football issues official clarification",
+    "desc": "The Ballon d’Or is undoubtedly the biggest individual award that a professional footballer can win his career. Awarded to the best player of the year, the Ballon d’Or is handed out by France Football magazine...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/what-is-the-criteria-to-win-the-ballon-d-or-france-football-issues-official-clarification-2026-07-27-1049521",
+    "time": "2026-07-27T08:28:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Dream come true': Vaibhav Sooryavanshi opens up on his performance, reflects on winning POTM award",
+    "desc": "The Indian team performed exceptionally well in the third and final T20I against Zimbabwe. Taking on the side at the Harare Sports Club, India managed to register a 35-run victory. At the forefront of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dream-come-true-vaibhav-sooryavanshi-opens-up-on-his-performance-reflects-on-winning-potm-award-2026-07-27-1049516",
+    "time": "2026-07-27T08:04:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Check Commonwealth Games 2026 Day 5 schedule; Where can India shine on July 27?",
+    "desc": "The Commonwealth Games 2026 continues with yet another day of excitement and a plethora of events. July 27 is slated to be a huge day for the event, as it is the day that is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/check-commonwealth-games-2026-day-5-schedule-where-can-india-shine-on-july-27-2026-07-27-1049510",
+    "time": "2026-07-27T07:25:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Arshdeep Singh makes relationship with actress Samreen Kaur official with Instagram post; Check details",
+    "desc": "In a major development, India pacer Arshdeep Singh has made his relationship with model-actor Samreen Kaur official. The star player put an end to weeks of rumours around his relationship and made an Instagram post...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/arshdeep-singh-makes-relationship-with-actress-samreen-kaur-official-with-instagram-post-check-details-2026-07-27-1049506",
+    "time": "2026-07-27T06:34:06.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "VVS Laxman sings Vaibhav Sooryavanshi's praises after India dominate Zimbabwe to complete clean sweep",
     "desc": "The Indian team put forth another good showing in the third and final T20I of the series against Zimbabwe. The two sides met at the Harare Sports Club on July 26th, and the Indian team...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-thump-zimbabwe-in-harare-register-dominant-35-run-win-to-complete-clean-sweep-2026-07-26-1049474",
     "time": "2026-07-26T14:43:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi continues red-hot form, smashes quickfire half-century against Zimbabwe in third T20I",
-    "desc": "The Indian team took on Zimbabwe in the third T20I of the ongoing series between the two sides. The two teams met at the Harare Sports Club on July 26th, and the game began with...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-continues-red-hot-form-smashes-quickfire-half-century-against-zimbabwe-in-third-t20i-2026-07-26-1049464",
-    "time": "2026-07-26T12:24:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Washington Sundar ruled out of India's 1st Test against Sri Lanka due to injury",
-    "desc": "The Indian team is all set to take on Sri Lanka in a two-game Test series, with the first Test slated to begin on August 15, and the two sides will hope to put in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/washington-sundar-ruled-out-of-india-s-1st-test-against-sri-lanka-due-to-injury-2026-07-26-1049462",
-    "time": "2026-07-26T11:47:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India defeat Zimbabwe by 35 runs",
-    "desc": "The stage is set for the third and final T20I of the ongoing series between India and Zimbabwe. The two sides are meeting at the Harare Sports Club for the clash, and both will be...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-zim-3rd-t20i-live-score-india-aim-to-clean-sweep-hosts-zimbabwe-looking-for-consolation-win-1049457",
-    "time": "2026-07-26T10:37:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Where to watch India vs Zimbabwe, 3rd T20I live on TV and stream online?",
-    "desc": "The stage is set for the third and final T20I of the ongoing series between India and Zimbabwe. The two sides will meet for the clash at Harare on July 26th, and both sides will...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/where-to-watch-india-vs-zimbabwe-3rd-t20i-live-on-tv-and-stream-online-2026-07-26-1049453",
-    "time": "2026-07-26T09:19:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England gymnast Gabriel Langton suffers nasty fall at Commonwealth Games 2026",
-    "desc": "In one of the most horrific moments of the ongoing Commonwealth Games 2026, England’s gymnast Gabriel Langton was rushed to the hospital after he suffered a nasty fall and landed on his head during the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/england-gymnast-gabriel-langton-suffers-nasty-fall-at-commonwealth-games-2026-watch-2026-07-26-1049452",
-    "time": "2026-07-26T08:48:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India reclaim top spot in ICC T20I rankings after thumping victory over Zimbabwe in Harare",
-    "desc": "The Indian team put forth a brilliant showing in the second T20I of the ongoing three-game series, registering a 90-run victory to clinch the series. The Men in Blue have been in good form in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-reclaim-top-spot-in-icc-t20i-rankings-after-thumping-victory-over-zimbabwe-in-harare-2026-07-26-1049448",
-    "time": "2026-07-26T07:35:04.000Z"
   }
 ];

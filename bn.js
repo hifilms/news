@@ -1,5 +1,59 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "ভারী বক্তৃতার দিন শেষ! মিম আর রিলস দিয়েই রাজনীতির পুরনো ছক ভেঙে গুঁড়িয়ে দিচ্ছে জেন জি",
+    "desc": "গুরুগম্ভীর বক্তৃতা ও দলীয় প্রচারের দিন শেষ। রাজনীতিতে প্রতিষ্ঠিত প্রচারযন্ত্রকে টেক্কা দিতে মিম, সংক্ষিপ্ত ভিডিয়ো ও হাস্যরসকে শক্তিশালী অস্ত্র হিসেবে ব্যবহার করছে জেন জি। জটিল বিষয়কে সহজভাবে তুলে ধরে এবং ভয়ের আবহ কাটিয়ে সোশ্যাল মিডিয়া অ্যালগরিদম কাজে লাগিয়ে ন্যারেটিভ জয়ে সাফল্য পাচ্ছে তরুণ প্রজন্ম।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/how-gen-z-meme-first-approach-changing-political-narrative_664185.html ",
+    "time": "2026-07-27T11:54:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "জেন জি কি রাজনৈতিক আন্দোলনের শতাব্দীপ্রাচীন পথটাই বদলে দিচ্ছে? সিজেপি'র বিক্ষোভ থেকে উঠে আসছে আশ্চর্য সমীকরণ",
+    "desc": "হাস্যরস, মিম এবং শর্টস ব্যবহার করে জেন জি ঘুরিয়ে দিয়েছে সাম্প্রতিক সব আন্দোলনের মুখ। এর এই কৌশল কি তাদের চেয়ে অনেক বেশি সুপ্রতিষ্ঠিত ও শক্তিশালী রাজনৈতিক প্রচার যন্ত্রের বিরুদ্ধে বয়ানের লড়াইয়ে (narrative battle) জয়ী হতে সাহায্য করেছিল?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/did-gen-zs-strategy-of-using-humours-memes-shorts-form-content-help-it-win-narrative-battle_664180.html ",
+    "time": "2026-07-27T11:09:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ধর্মেন্দ্র প্রধানের ইস্তফার পর শিক্ষামন্ত্রী হওয়ার ইচ্ছা প্রকাশ কঙ্গনার? অভিনেত্রীর পোস্ট ভাইরাল!",
+    "desc": "ধর্মেন্দ্র প্রধানের পদত্যাগের পর কঙ্গনা রানাউত প্রধানমন্ত্রীর কাছে শিক্ষামন্ত্রী হওয়ার ইচ্ছা প্রকাশ করেছেন বলে একটি পোস্ট সোশ্যাল মিডিয়ায় ভাইরাল হয়েছে। কঙ্গনা নাকি বলেছেন, “আমি শিক্ষার গুরুত্ব বুঝি কারণ আমিই প্রথম মানুষকে দেখিয়েছিলাম ভারতের প্রকৃত স্বাধীনতা এসেছে ২০১৪ সালে।”",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/fact-check-did-kangana-ranaut-ask-pm-modi-to-make-her-education-minister-after-dharmendra-pradhans-exit_664179.html ",
+    "time": "2026-07-27T11:07:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ভারতের পূর্ণাঙ্গ ক্রিকেট সূচি সামনে, ক্যালেন্ডারে আছে ODI, Test ও T20I, নিউ জিল্যান্ডের সঙ্গে ঐতিহাসিক ১০০ বছরে ১২ ম্যাচ",
+    "desc": "জিম্বাবোয়ে সফর শেষ হতেই ভারত কিন্তু ব্যস্ত হয়ে পড়ছে ভরা আন্তর্জাতিক সূচিতে। ওয়ানডে, টেস্ট ও টি-২০ মিলিয়ে পরের পর দ্বিপাক্ষিক সিরিজ খেলবে টিম ইন্ডিয়া। রয়েছে নিউজিল্যান্ডের বিপক্ষে ১২ ম্যাচের পূর্ণাঙ্গ সিরিজ। যা দুই দেশের ক্রিকেট ইতিহাসে ১০০ বছর পূর্তির বিশেষ মাইলফলক উদ্‌যাপনের অংশ হিসেবে অনুষ্ঠিত হবে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/sports/indias-cricket-schedule-in-2026-till-december_664175.html ",
+    "time": "2026-07-27T10:26:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "এবার রিয়্যালিটি শোয়ে জয়া আহসান! ছোটপর্দা মাতাতেও প্রস্তুত, কোথায় দেখা যাবে নায়িকাকে?",
+    "desc": "এবার ছোটপর্দায় পা রাখছেন জয়া আহসান। সান বাংলার জনপ্রিয় গেম শো 'লাখ টাকার লক্ষ্মীলাভ'-এর জুলাই মাসের গ্র্যান্ড ফিনালেতে বিশেষ অতিথি হিসেবে উপস্থিত থাকবেন তিনি। সঞ্চালিকা সুদীপ্তা চক্রবর্তীর সঙ্গে আড্ডা এবং হিট গানের নাচে পর্বটি জমিয়ে তুলবেন জয়া। এর আগে কখনও জয়াকে কোনও রিয়্যালিটি শোতে অংশ নিতে দেখা যায়নি। তাই বলা চলে এটাই প্রথমবার।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/jaya-ahsan-appears-as-special-guest-in-lakh-takar-lokkhi-labh-reality-show_664174.html ",
+    "time": "2026-07-27T10:17:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "E20 পেট্রোলে ক্ষোভ! CJP-র পর মাঠে 'ই২০ জনতা পার্টি', নীতিন গডকড়ির পদত্যাগের দাবি",
+    "desc": "সরকারের ই২০ ইথানল মিশ্রিত পেট্রোল নীতির বিরুদ্ধে সোচ্চার হয়েছে নবগঠিত 'ই২০ জনতা পার্টি'। পুরো পেট্রোল বাতিলের বদলে গ্রাহকদের সম্পূর্ণ খাঁটি পেট্রোল কেনার বিকল্প ও স্বচ্ছতার দাবি জানিয়েছে তারা। একইসঙ্গে কেন্দ্রীয় মন্ত্রী নীতিন গডকড়ির পদত্যাগের দাবি তুলে আগামী ৪ আগস্ট দিল্লি ট্যাক্সি অ্যাসোসিয়েশনের সঙ্গে যৌথভাবে সংসদ অভিযানের ডাক দিয়েছে সংগঠনটি।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/e20-janta-party-after-cjp-calls-for-nitin-gadkaris-resignation-grow-as-x-followers-surge_664129.html ",
+    "time": "2026-07-27T06:42:44.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "মাঝরাতে হাওড়া ব্রিজে মণিরত্নমের ক্যামেরা! প্রথমবার পর্দায় সাই পল্লবী-বিজয় সেতুপতি জুটি",
     "desc": "মণিরত্নমের নতুন রোমান্টিক ছবির শ্যুটিং শুরু কলকাতায়। শনিবার মাঝরাত থেকে ভোর পর্যন্ত শহরের ঐতিহ্যবাহী হাওড়া ব্রিজে চলেছে ছবির মূল চিত্রগ্রহণ। এই ছবিতে প্রধান চরিত্রে অভিনয় করছেন দক্ষিণী তারকা সাই পল্লবী এবং বিজয় সেতুপতি। হাওড়া ব্রিজের পাশাপাশি উত্তর কলকাতার বিভিন্ন ঐতিহাসিক স্থানেও এই ছবির শ্যুটিং হবে।",
@@ -97,24 +151,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/pm-narendra-modi-expresses-gratitude-to-brave-soldiers-on-kargil-vijay-diwas_664051.html ",
     "time": "2026-07-26T08:22:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "এবার যা কথা হবে সব POK নিয়ে, কাশ্মীর ভারতেরই অবিচ্ছেদ্য অংশ: কার্গিল দিবসে পাকিস্তানকে কড়া বার্তা রাজনাথ সিংয়ের",
-    "desc": "অপারেশন সিঁদুরের সময় পাক সেনার কোমর একেবারে ভেঙে দিয়েছিল ভারতীয় সেনা। পাক সেনার অস্তিত্ব নিয়েই প্রশ্ন উঠে গিয়েছিল সেদিন। ভারত যদি না থামত আরও বড় দুঃখ ছিল পাকিস্তানের কপালে। ভারতীয় সেনার ক্ষমতা দাঁড়িয়ে দাঁড়িয়ে দেখেছিল গোটা বিশ্ব।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/rajnath-singh-on-kargil-vijay-diwas-rajnath-singhs-sharp-warning-to-pakistan_664049.html ",
-    "time": "2026-07-26T07:32:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ধর্মেন্দ্র প্রধানের পদত্যাগের পর মোদীর প্রথম বড় বার্তা: কী লিখলেন প্রধানমন্ত্রী? বিরাট খবর",
-    "desc": "নিজের পোস্টে প্রধানমন্ত্রী লেখেন, 'বিশ্বের সাংস্কৃতিক মানচিত্রে ভারতের সমৃদ্ধ ইতিহাস ও ঐতিহ্য আজ আরও একধাপ এগিয়ে গেল। বারাণসীর ঐতিহাসিক সারনাথ ইউনেস্কোর বিশেষ স্বীকৃতি পাওয়ায় প্রতিটি ভারতীয় আজ গর্বিত। ভগবান বুদ্ধের প্রথম ধর্মোপদেশের এই পুণ্যভূমি সারনাথ মানব সভ্যতার শান্তি ও অহিংসার এক অবিনশ্বর প্রতীক।'",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/pm-modi-breaks-silence-on-x-after-dharmendra-pradhan-resignation-celebrates-unesco-honour-for-sarnath_664007.html ",
-    "time": "2026-07-25T15:01:55.000Z"
   },
   {
     "cat": "Entertainment",
@@ -286,15 +322,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/us-imposes-new-50-percent-tariffs-on-certain-canadian-goods-discriminatory-treatment_663345.html ",
     "time": "2026-07-21T08:23:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'ছাত্রদের মারধর করছেন, লজ্জা করে না? নিজেদের ভগবান ভাবছেন?' নেতা-মন্ত্রীদের বিঁধে চরম হুঁশিয়ারি অরিজিতের",
-    "desc": "\"ছাত্রদের মারধর করছেন, লজ্জা করে না?\" শিক্ষার্থীদের ওপর হামলার ঘটনায় সোশ্যাল মিডিয়ায় রুখে দাঁড়ালেন গায়ক অরিজিৎ সিং! নেতা-মন্ত্রীদের কড়া ভাষায় আক্রমণ করার পাশাপাশি দেশের শিক্ষা মন্ত্রকের ইমেল আইডি শেয়ার করে সাধারণ মানুষকে অধিকার আদায়ের জন্য চিঠি লেখার আহ্বান জানালেন তিনি।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/arijit-singh-protest-against-student-assault-education-ministry-sonam-wangchuk-cjp-protest-delhi-jantar-mantar_663340.html ",
-    "time": "2026-07-21T08:12:45.000Z"
   },
   {
     "cat": "World",
