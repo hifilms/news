@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "CJP આંદોલન પાછળ શું હતો માસ્ટરપ્લાન? અભિજીત દીપકેએ પહેલીવાર કર્યા મોટા ખુલાસા, AI ટેકનોલોજીએ કેવી રીતે બદલ્યું આખું ચિત્ર?",
+    "desc": "CJP આંદોલનના સંસ્થાપક અભિજીત દીપકેએ પહેલીવાર પોતાના અભિયાનની રણનીતિ પર વિગતવાર વાત કરી છે. અભિજીત દીપકેએ જણાવ્યું કે, બોસ્ટન યુનિવર્સિટીમાં શીખેલી PR (પબ્લિક રિલેશન્સ)ની પઢાઈ, AIનો ઉપયોગ, 'કોકરોચ' સિમ્બોલ, સેટાયર અને સ્પષ્ટ વિઝને 37 દિવસ સુધી ચાલેલા આંદોલનને આકાર આપવામાં મહત્વની ભૂમિકા ભજવી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/what-was-the-master-plan-behind-the-cjp-movement-abhijit-deepke-made-big-revelations-for-the-first-time-how-did-ai-technology-change-the-whole-picture-485947 ",
+    "time": "2026-07-27T18:08:47.000Z"
+  },
+  {
     "cat": "Business",
     "title": "જૂની પેન્શન યોજના અંગે સરકારે આપ્યું મોટું અપડેટ, સરકારી કર્મચારીઓ માટે જાણવું જરૂરી",
     "desc": "જો તમે પણ સરકારી કર્મચારી છો અને જૂની પેન્શન યોજના શરૂ થવાની રાહ જોઈ રહ્યા છો, તો આ સમાચાર તમારા માટે ઉપયોગી છે, કારણ કે સરકારે સંસદમાં જૂની પેન્શન યોજના અંગે પોતાનું વલણ સ્પષ્ટ કર્યું છે, ત્યારે સરકારે શું સ્પષ્ટતા કરી છે, તેના વિશે આ લેખમાં જણીશું.",
@@ -295,15 +304,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/how-is-compensation-determined-in-india-know-the-rules-amid-cjp-demand-know-in-which-cases-how-much-and-how-compensation-is-received-485752 ",
     "time": "2026-07-25T15:28:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "રાષ્ટ્રપતિએ ધર્મેન્દ્ર પ્રધાનનું રાજીનામું સ્વીકાર્યું, જાણો કોણ બન્યા નવા શિક્ષણ મંત્રી, સોંપાયો વધારાનો હવાલો",
-    "desc": "દેશભરમાં ગાજેલા પેપર લીક પ્રકરણમાં આખરે કેન્દ્ર સરકારે નમતું જોખવું પડ્યું છે. જંતર-મંતર પર 'કોકરોચ પાર્ટી' દ્વારા શરૂ કરવામાં આવેલા ઉગ્ર આંદોલન અને ચોતરફથી ઘેરાયેલી સરકાર સામે વિરોધપક્ષની માગણીઓ આગળ ઝૂકવા સિવાય કોઈ વિકલ્પ બચ્યો નહોતો. સરકાર અને સીજેપીની બેઠક થાય એ પહેલાં નૈતિક જવાબદારી સ્વીકારીને ધર્મેન્દ્ર પ્રધાને રાજીનામું આપી દેતાં હવે આ વધારાનો હવાલો ખાદ્ય અને પુરવઠા મંત્રી પ્રહલાદ જોશીને સપાયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/president-accepts-dharmendra-pradhan-resignation-know-who-has-become-the-new-education-minister-485751 ",
-    "time": "2026-07-25T15:25:09.000Z"
   },
   {
     "cat": "World",

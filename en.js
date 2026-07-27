@@ -1,6 +1,51 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Mounting losses force farmers in Karnataka’s Kolar district to chop down mango trees",
+    "desc": "Farmers said while they were incurring losses growing mangoes on the one hand, they were unable to cultivate other crops along with mangoes as the sunlight does not reach those crops due to shade. Thus, they are unable to diversify the crop cultivation",
+    "img": "https://th-i.thgim.com/public/incoming/plm7vi/article71273471.ece/alternates/LANDSCAPE_1200/IMG-20260726-WA0021.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/mounting-losses-force-farmers-in-karnatakas-kolar-district-to-chop-down-mango-trees/article71269048.ece",
+    "time": "2026-07-27T18:58:33.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. in 'very deep ‌talks with ‌Iran', ready for military action if diplomacy fails, says Trump",
+    "desc": "Iran and the United States held their fire on July 26, handing Gulf shipping and the oil industry a respite from missile strikes as Donald Trump’s UN envoy said the president was “giving talks some space”",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-israel-us-war-july-27-2026-latest-updates-strait-of-hormuz-donald-trump-oil-prices-today/article71271253.ece",
+    "time": "2026-07-27T17:40:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Madras High Court strikes down orders granting government jobs to the family members of Karur stampede victims",
+    "desc": "The Madurai Bench had earlier made it clear that the employment offer by the TVK government would be subject to judicial review. On Monday, it said these appointments were in violation of the principles enshrined in Article 14 and Article 16 of the Constitution",
+    "img": "https://th-i.thgim.com/public/incoming/wuctky/article71272843.ece/alternates/LANDSCAPE_1200/TH%20TRI-1%207.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-strikes-down-order-granting-govt-jobs-to-kin-of-karur-stampede-victims/article71272693.ece",
+    "time": "2026-07-27T17:13:55.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran says it still controls Hormuz, not involved in negotiations with the U.S.",
+    "desc": "Trump’s move to suspend the campaign reflected advice from his top brass that the bombing, aimed at breaking Tehran’s grip on Hormuz, had reached the limits of what it could achieve; Iran claims it forced six ships to turn away from the strait",
+    "img": "https://th-i.thgim.com/public/incoming/2hmcy/article71274292.ece/alternates/LANDSCAPE_1200/Iran_War_Strait_of_Hormuz_49396.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-says-it-still-controls-hormuz-not-involved-in-negotiations-with-the-us/article71274273.ece",
+    "time": "2026-07-27T17:12:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "For Sangh Parivar, Gen Z protests strike close to home",
+    "desc": "After reports emerged that the daughter of Assam Revenue Minister Keshab Mahanta, Dibisa Mahanta, had joined the protests by students, other instances of disquiet among BJP members and those associated with the Sangh Parivar have come to the fore",
+    "img": "https://th-i.thgim.com/public/incoming/j77eoh/article71274266.ece/alternates/LANDSCAPE_1200/TH26-Sandeep-ThGB8GAA19J.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/for-sangh-parivar-gen-z-protests-strike-close-to-home/article71273253.ece",
+    "time": "2026-07-27T17:09:40.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Court rejects Ansiba’s plea for FIR, finds no cognisable offence",
     "desc": "After examining the complaint, supporting affidavit, and the submission made by the Palarivattom Station House Officer, the court observed that no cognisable offence was presently made out to warrant forwarding the complaint to the SHO",
     "img": "https://th-i.thgim.com/public/incoming/1rfon1/article71274213.ece/alternates/LANDSCAPE_1200/AMMA-row_-AnsibGOCG7GB1G.3.jpg.jpg",
@@ -45,33 +90,6 @@ const newsData_en = [
     "time": "2026-07-27T16:35:14.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Montek Singh Ahluwalia to head Tamil Nadu Revenue Augmentation Committee",
-    "desc": "The committee has been tasked with recommending measures for the sustainable augmentation of the State’s tax and non-tax revenues by improving compliance, plugging leakages, rationalising tax rates, fees and exemptions, and identifying new and underutilised sources of revenue.",
-    "img": "https://th-i.thgim.com/public/incoming/bzgwnv/article71273999.ece/alternates/LANDSCAPE_1200/BVR_3426.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/montek-singh-ahluwalia-to-head-tamil-nadu-revenue-augmentation-committee/article71274002.ece",
-    "time": "2026-07-27T16:29:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "What Dharmendra Pradhan’s resignation means for Odisha politics?",
-    "desc": "The resignation may be a temporary setback, forcing him to stay away from political activities or governance for a couple of months; he, however, continues to be the quintessential power centre in the Odisha politics, said Rabi Das, a veteran political commentator",
-    "img": "https://th-i.thgim.com/public/incoming/3y30xa/article71273969.ece/alternates/LANDSCAPE_1200/PTI07_27_2026_000150A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/what-dharmendra-pradhans-resignation-means-for-odisha-politics/article71272949.ece",
-    "time": "2026-07-27T16:15:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Public Examinations Bill enforces harsher punishment for paper leaks",
-    "desc": "The government tabled the Public Examinations Amendment Bill in the Lok Sabha today. The move comes after protests that resulted in the resignation of Dharmendra Pradhan as Union Education Minister. We unpack what is in this Bill and how it differs from the original 2024 law.",
-    "img": "https://th-i.thgim.com/public/news/national/rd9lcb/article71274034.ece/alternates/LANDSCAPE_1200/JULY%2024%20THUMB%203.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-public-examinations-bill-enforces-harsher-punishment-for-paper-leaks-above-the-fold-27072026/article71274035.ece",
-    "time": "2026-07-27T16:09:01.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Tiger Shroff all set for professional football debut",
     "desc": "Tiger Shroff is set to make his Durand Cup debut, having registered with Mumbay FC for the tournament's 135th edition. The actor, who launched the club in 2024, has been training with the squad and could feature in their final group-stage match against Shillong Lajong FC, Nongkseh SS&CC, or Langsning FC.",
@@ -90,15 +108,6 @@ const newsData_en = [
     "time": "2026-07-27T15:54:05.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Experts call for State-specific modules in National Family Health Survey",
-    "desc": "They said the survey should cover issues such as infertility, ageing, underweight among children and migration for Tamil Nadu; an expert raised the need for more research on the nutritional status of children, noting that one fourth of children under age five are underweight",
-    "img": "https://th-i.thgim.com/public/incoming/9vew93/article71273807.ece/alternates/LANDSCAPE_1200/12TH-SCI_HYPERTENSION.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/chennai/experts-call-for-state-specific-modules-in-national-family-health-survey/article71272687.ece",
-    "time": "2026-07-27T15:49:13.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Why HDFC Bank’s board has imposed a Rs 1 lakh penalty each on its MD, CFO and Group head",
     "desc": "The board also issued warning letters to the other employees involved in the case, which relates to the mobilisation of large deposits from MSRDC between 2017 and 2021 through the alleged payment of around Rs 45 crore under the head of marketing expenses.",
@@ -108,15 +117,6 @@ const newsData_en = [
     "time": "2026-07-27T15:48:06.000Z"
   },
   {
-    "cat": "World",
-    "title": "U.S. in 'very deep ‌talks with ‌Iran', ready for military action if diplomacy fails, says Trump",
-    "desc": "Iran and the United States held their fire on July 26, handing Gulf shipping and the oil industry a respite from missile strikes as Donald Trump’s UN envoy said the president was “giving talks some space”",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-israel-us-war-july-27-2026-latest-updates-strait-of-hormuz-donald-trump-oil-prices-today/article71271253.ece",
-    "time": "2026-07-27T15:48:05.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Number of nine-figure income filers quadruples in five years",
     "desc": "More Indians are reporting nine-figure incomes on tax returns. The number of these high-earners rose to 576 in the 2025-26 assessment year. This figure represents a fourfold increase from five years prior. The government is implementing measures to reduce income inequality. These measures include progressive taxation and increased social spending.",
@@ -124,15 +124,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/rs-100-crore-club-gets-bigger-number-of-nine-figure-income-filers-quadruples-in-five-years/articleshow/132665376.cms",
     "time": "2026-07-27T15:47:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Naidu calls for campaign to explain El Niño effects, suitable crop strategies to farmers",
-    "desc": "Crop insurance action plan should be implemented effectively to safeguard farmers against weather-related risks, says Chief Minister; terms suicide of a student from Rampachodavaram as deeply distressing and directs officials to engage experts for proper assessment of students' mental health and counselling",
-    "img": "https://th-i.thgim.com/public/incoming/rg1wzn/article71273954.ece/alternates/LANDSCAPE_1200/PTI07_27_2026_000386B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-calls-for-campaign-to-explain-el-nino-effects-suitable-crop-strategies-to-farmers/article71272527.ece",
-    "time": "2026-07-27T15:47:19.000Z"
   },
   {
     "cat": "Entertainment",
@@ -541,30 +532,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi scripts history, creates world record at just 15",
-    "desc": "Vaibhav Sooryavanshi became the youngest Player of the Series winner. He achieved this milestone after India's T20I series victory over Zimbabwe. Sooryavanshi was the leading run-scorer with 151 runs across three innings. He scored a match-winning 81 runs in the final T20I match. This award followed a challenging series for the young cricketer in England.",
-    "img": "https://static.toiimg.com/photo/msid-132651430,imgsize-142050.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/vaibhav-sooryavanshi-scripts-history-creates-world-record-at-just-15/articleshow/132651433.cms",
-    "time": "2026-07-27T03:07:10.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "What's in the name? A word from Nanak's prayer, now India's squash sensation",
     "desc": "The name Anahat comes from a line in Guru Nanak's Japji Sahib, discovered by her father on the day she was born. This is the story behind the name, the sporting family that shaped her, and the extraordinary journey that culminated in India's first-ever World Junior squash title at just 18.",
     "img": "https://static.toiimg.com/photo/msid-132650793,imgsize-152720.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/anahat-singh-whats-in-the-name-a-word-from-guru-nanaks-prayer-now-indias-squash-sensation/articleshow/132650767.cms",
     "time": "2026-07-27T02:00:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Complete schedule, timings and medal events on 27th July",
-    "desc": "India anticipates an action-packed Day 5 at the Commonwealth Games 2026. Athletes will compete across athletics, swimming, and weightlifting events. Boxing and lawn bowls also feature prominently in the day's schedule. The 3x3 wheelchair basketball team plays two crucial pool matches. Several medal contenders are expected to perform well today.",
-    "img": "https://static.toiimg.com/photo/msid-132645015,imgsize-33356.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-complete-schedule-timings-and-medal-events-as-india-eye-medals-on-27th-july-monday/articleshow/132644238.cms",
-    "time": "2026-07-27T02:00:00.000Z"
   },
   {
     "cat": "Business",
@@ -747,15 +720,6 @@ const newsData_en = [
     "time": "2026-07-25T15:42:08.000Z"
   },
   {
-    "cat": "World",
-    "title": "Iran is prepared for U.S. ground invasion: Mohammad Marandi",
-    "desc": "In this interview with The Hindu‘s International Affairs Editor Stanly Johny, political analyst Mohammad Marandi discusses Iran’s response to the possibility of a U.S. ground invasion, regional security dynamics, and the evolving geopolitical situation in West Asia.",
-    "img": "https://th-i.thgim.com/public/news/national/ahct30/article71266985.ece/alternates/LANDSCAPE_1200/afghan%201.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/videowatch-iran-is-prepared-for-us-ground-invasion-mohammad-marandi/article71267003.ece",
-    "time": "2026-07-25T15:31:33.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Bihar government appoints cricketers Akash Deep and Mukesh Kumar as DSPs",
     "desc": "Chief Minister Samrat Choudhary expressed confidence that in the coming years, athletes from Bihar would bring glory to the state and the country on prestigious platforms like the Olympics, Asian Games, Commonwealth Games, World Cups, and the IPL.",
@@ -898,5 +862,41 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/attack-on-titan-the-last-attack-movie-review-a-colossal-political-epitaph-for-the-children-of-war/article71253062.ece",
     "time": "2026-07-22T11:18:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "luminaries demand human ethics not be outsourced to AI",
+    "desc": "In mid-July, a group of Nobel laureates, AI scientists, religious leaders, and other luminaries signed the so-called ‘Rome Declaration for an Unarmed and Disarming Peace’. The Declaration calls for an international treaty to ban autonomous systems from accessing nuclear launches while emphasising that the threat is also not so far-fetched",
+    "img": "https://th-i.thgim.com/public/todays-paper/tp-miscellaneous/tp-others/hx40az/article69186170.ece/alternates/LANDSCAPE_1200/A-question-for-GAIDUVAL5.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/science/rome-declaration-convergent-perils-luminaries-human-ethics-outsourced-ai/article71252976.ece",
+    "time": "2026-07-22T10:39:09.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Space Exploration Day",
+    "desc": "If you want to be in space, you’ll need training. A lot of it. Here’s a look at all the different training — from spacewalk to simulation — that astronauts undergo to be efficient and valiant when, after much waiting, they finally get to space!",
+    "img": "https://th-i.thgim.com/public/incoming/vcdr6w/article71239165.ece/alternates/LANDSCAPE_1200/IMG_APTOPIX_Germany_Moon_2_1_ECDCKUA4.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/children/how-are-astronauts-trained/article71189012.ece",
+    "time": "2026-07-22T04:49:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Telangana police’s fight against Telugu film piracy",
+    "desc": "Following an MoU between the Telugu Film Chamber of Commerce and Telangana Cyber Security Bureau, a systematic crackdown on piracy has led to key arrests and protected new Telugu releases from widespread online leaks during the opening weekends",
+    "img": "https://th-i.thgim.com/public/incoming/u42lie/article71228587.ece/alternates/LANDSCAPE_1200/_DSC8786.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Hyderabad/how-telangana-police-and-telugu-film-industry-are-fighting-against-piracy/article71224809.ece",
+    "time": "2026-07-18T10:35:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "China pitches AI governance model for Global South",
+    "desc": "Broader context is China’s push to both develop its alternatives to Western AI models and to offer them to developing countries; President Xi Jinping announced that Beijing would provide “5,000 opportunities in AI training and seminar programmes” in the next five years",
+    "img": "https://th-i.thgim.com/public/incoming/w6cza8/article71232852.ece/alternates/LANDSCAPE_1200/2026-07-17T042447Z_732115653_RC2EFMA4DLWW_RTRMADP_3_CHINA-AI-XI.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/ai-should-not-be-a-solo-performance-but-symphony-of-global-collaboration-xi-jinping/article71232848.ece",
+    "time": "2026-07-18T04:40:32.000Z"
   }
 ];
