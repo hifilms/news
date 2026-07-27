@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Raja Muthupandi fights back to bag silver in 65kg weightlifting as India's medal tally swells at CWG 2026",
+    "desc": "India's impressive run in weightlifting at the 2026 Commonwealth Games continued on Sunday (local time) as Raja Muthupandi produced a determined performance to clinch the silver medal in the men's 65kg category in Glasgow. His...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/raja-muthupandi-fights-back-to-bag-silver-in-65kg-weightlifting-as-india-s-medal-tally-swells-at-glasgow-commonwealth-games-2026-2026-07-27-1049488",
+    "time": "2026-07-27T02:23:40.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Mirabai Chanu clinches gold medal in 48kg weightlifting at Commonwealth Games 2026",
     "desc": "India's star weightlifter Mirabai Chanu clinched yet another gold medal at the Commonwealth Games as she won the yellow metal for the third consecutive time on Sunday, July 26, during the ongoing Glasgow Games. Chanu...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-vs-zimbabwe-3rd-t20i-pitch-report-how-will-surface-in-harare-play-2026-07-26-1049443",
     "time": "2026-07-26T06:16:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Anahat Singh creates history as first Indian to win World Junior Squash Championship",
-    "desc": "Indian squash sensation Anahat Singh has scripted history by becoming the first Indian ever to win the World Junior Squash Championships. The 18-year-old defeated Egypt's Ruqayya Salem in the girls' singles final at the 2026...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/anahat-singh-first-indian-world-junior-squash-champion-2026-07-26-1049426",
-    "time": "2026-07-26T01:21:25.000Z"
   }
 ];
