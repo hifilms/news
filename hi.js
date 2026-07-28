@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Zinedine Zidane appointed as new France head coach after Didier Deschamps calls it quits after 14 years",
+    "desc": "Zinedine Zidane has been appointed as the new head coach of the France national team. He takes over the charge after Didier Deschamps brought an end to his 14-year tenure following France’s semi-final elimination at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/zinedine-zidane-appointed-as-new-france-head-coach-after-didier-deschamps-calls-it-quits-after-14-years-2026-07-28-1049632",
+    "time": "2026-07-28T09:43:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Justin Greaves sets new world record with historic spell vs Pakistan in first Test in Trinidad",
+    "desc": "Justin Greaves became the first-ever bowler to deliver five consecutive wicket-maidens in the opening Test match against Pakistan in Trinidad. The West Indies all-rounder has achieved a feat that no other player has done in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/justin-greaves-sets-new-world-record-with-historic-spell-vs-pakistan-in-first-test-in-trinidad-2026-07-28-1049625",
+    "time": "2026-07-28T08:44:46.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India's U19 World Cup final centurion denied bail following match-fixing allegations in LPL",
     "desc": "Former India Under-19 cricketer, who scored a century in the 2018 final against Australia, and Jaffna Kings co-owner Manjot Kalra will remain in judicial custody after a Colombo court declined his request for early bail in...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/gyaneshwari-yadav-clinches-silver-in-53kg-weightlifting-at-commonwealth-games-2026-2026-07-27-1049562",
     "time": "2026-07-27T13:47:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shreyas Iyer, VVS Laxman hail India's performance after 3-0 series sweep over Zimbabwe",
-    "desc": "The Indian team completed a 3-0 T20I series sweep of Zimbabwe on Sunday, winning the final game of the series by 35 runs. The series was played without India’s regular head coach, and interim head...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shreyas-iyer-vvs-laxman-hail-india-s-performance-after-3-0-series-sweep-over-zimbabwe-2026-07-27-1049554",
-    "time": "2026-07-27T13:01:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Murali Sreeshankar qualifies for men's long jump final in CWG 2026; Sajan Prakash qualifies for swimming final",
-    "desc": "In one of the most brilliant performances in the ongoing Commonwealth Games 2026, India’s Murali Sreeshankar performed brilliantly and qualified for the men’s long jump event on July 27. It is interesting to note that...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/murali-sreeshankar-qualifies-for-men-s-long-jump-final-in-cwg-2026-sajan-prakash-qualifies-for-swimming-final-2026-07-27-1049540",
-    "time": "2026-07-27T11:05:46.000Z"
   }
 ];
