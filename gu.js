@@ -1,6 +1,33 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "એક રિક્ષાચાલકના દીકરાએ શરૂ કર્યું એવું જબરદસ્ત અભિયાન, 200થી વધુ શહેરોમાં ફેલાયું",
+    "desc": "વર્લ્ડ નેચર કન્ઝર્વેશન દિવસ પર ઝી મીડિયાના \"માય અર્થ માય ડ્યૂટી\" અભિયાનની પ્રથમ કહાની સત્યમ દીક્ષિતની સફર પર પ્રકાશ પાડે છે. તેઓ એક યુવાન એન્વાયરમેન્ટલ ચેન્જમેકર છે, જેમણે વ્યક્તિગત સંઘર્ષોને પર્યાવરણ માટેના મિશનમાં ફેરવ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/world-nature-conservation-day-my-earth-my-duty-satyam-dixit-inspirational-story-485959 ",
+    "time": "2026-07-28T05:08:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "શ્રીલંકા સામે ટીમ ઈન્ડિયાની જાહેરાત! બુમરાહ-સુદર્શન પર સસ્પેન્સ, નવા ઓલરાઉન્ડરને મળ્યો મોકો",
+    "desc": "ઝિમ્બાબ્વે પ્રવાસ પૂર્ણ થયા પછી, ભારતીય ક્રિકેટ કંટ્રોલ બોર્ડ (BCCI)એ શ્રીલંકા પ્રવાસ માટે ટેસ્ટ ટીમની જાહેરાત કરી છે. ભારતીય ટીમમાં ઈજાની ચિંતાઓ ઓળખાઈ છે. નીતિશ રેડ્ડી અને વોશિંગ્ટન સુંદરને બાકાત રાખવામાં આવ્યા છે, જ્યારે 33 વર્ષીય ઓલરાઉન્ડરને ટીમમાં સામેલ કરવામાં આવ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/team-india-announced-against-sri-lanka-suspense-on-bumrah-sudarshan-new-all-rounder-gets-a-chance-485958 ",
+    "time": "2026-07-28T04:41:04.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "એકબાજુ ક્રૂડ ઓઈલના ભાવ ધડામ, બીજી બાજુ સવારે જાહેર થયા પેટ્રોલ-ડીઝલના નવા ભાવ, જાણો રેટ",
+    "desc": "ક્રૂડ ઓઈલના ભાવમાં વૈશ્વિક સ્તરે ભારે ઉથલપાથલ જોવા મળી રહી છે. જો કે ઘરેલુ બજારોમાં પેટ્રોલ અને ડીઝલના ભાવ પર તેની શું અસર પડી છે તે ખાસ જાણો. અત્રે જણાવવાનું કે ઓઈલ વિતરણ કંપનીઓ રોજ સવારે 6 વાગે પેટ્રોલ અને ડીઝલના નવા ભાવ જાહેર કરે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/crude-oil-price-down-check-latest-petrol-and-diesel-rates-today-485954 ",
+    "time": "2026-07-28T04:08:55.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "CJP આંદોલન પાછળ શું હતો માસ્ટરપ્લાન? અભિજીત દીપકેએ પહેલીવાર કર્યા મોટા ખુલાસા, AI ટેકનોલોજીએ કેવી રીતે બદલ્યું આખું ચિત્ર?",
     "desc": "CJP આંદોલનના સંસ્થાપક અભિજીત દીપકેએ પહેલીવાર પોતાના અભિયાનની રણનીતિ પર વિગતવાર વાત કરી છે. અભિજીત દીપકેએ જણાવ્યું કે, બોસ્ટન યુનિવર્સિટીમાં શીખેલી PR (પબ્લિક રિલેશન્સ)ની પઢાઈ, AIનો ઉપયોગ, 'કોકરોચ' સિમ્બોલ, સેટાયર અને સ્પષ્ટ વિઝને 37 દિવસ સુધી ચાલેલા આંદોલનને આકાર આપવામાં મહત્વની ભૂમિકા ભજવી.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -270,15 +297,6 @@ const newsData_gu = [
     "time": "2026-07-26T04:00:07.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ચાર શિક્ષણ મંત્રી બદલાયા, ચાર મોટા સુધારા થયા... છતાં પણ પેપર લીક કેમ ન રોકાયા? જાણો 10 વર્ષની કહાની",
-    "desc": "ધરેન્દ્ર પ્રધાનના રાજીનામા બાદ શિક્ષણ વ્યવસ્થા અને પેપર લીક પર જવાબદારીની ચર્ચા ઉગ્ર બની છે. જાણો છેલ્લા 10 વર્ષમાં ચાર શિક્ષણ મંત્રીઓના કાર્યકાળમાં થયેલા મોટા સુધાર, ક્યા-ક્યા ફેરફાર લાગૂ થયાં અને છતાં કેમ પરીક્ષા પેપર લીકની ઘટનાઓ અટકી નહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/4-education-ministers-4-major-reforms-yet-paper-leaks-persist-a-10-year-reality-check-485767 ",
-    "time": "2026-07-26T03:52:18.000Z"
-  },
-  {
     "cat": "World",
     "title": "પરમાણુ યુદ્ધના એંધાણ? ઓમાન વાતચીતમાં સહમતી કે સર્જાશે તબાહી? ટ્રમ્પના રડાર પર ઈરાનના 5 ગુપ્ત ઠેકાણા",
     "desc": "જો ઓમાનમાં અમેરિકા-ઈરાન રાજદ્વારી વાતચીત ફેલ જાય, તો ટ્રમ્પ વહીવટીતંત્ર ઈરાનના પરમાણુ માળખાને નષ્ટ કરી શકે છે. પિકાક્સ માઉન્ટેન સહિત પાંચ ગુપ્ત સ્થળો અમેરિકાની હિટ લિસ્ટમાં છે. એક્સપર્ટના મતે, ઈરાનના નવેસરથી પરમાણુ બનાવવાના પ્રયાસો અમેરિકાના બીજા મોટા હુમલાને ઉશ્કેરી શકે છે.",
@@ -295,15 +313,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/ind-vs-zim-2nd-t20-big-blow-for-team-india-prince-yadav-injured-485753 ",
     "time": "2026-07-25T16:23:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ભારતમાં કેવી રીતે નક્કી થાય છે વળતર, CJPની માંગ વચ્ચે જાણી લો નિયમો? જાણો કયા કેસમાં કેટલું અને કેવી રીતે મળે છે કોમ્પેન્સેશન",
-    "desc": "ધર્મેન્દ્ર પ્રધાને શિક્ષણ મંત્રીના પદ પરથી રાજીનામું આપી દીધું છે. CJPની માંગ પેપર લીક પછી આત્મહત્યા કરનાર વિદ્યાર્થીઓના પરિવારજનોને વળતર આપવાની છે. ત્યારે બધાના મનમાં એક પ્રશ્ન ચોક્કસપણે ઉદ્ભવે છે આખરો વળતર કેવી રીતે નક્કી થાય છે અને શું છે તેના નિયમો, ચાલો જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/how-is-compensation-determined-in-india-know-the-rules-amid-cjp-demand-know-in-which-cases-how-much-and-how-compensation-is-received-485752 ",
-    "time": "2026-07-25T15:28:58.000Z"
   },
   {
     "cat": "World",
@@ -385,15 +394,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/25-july-weekend-new-ott-release-adarsh-baal-vidyalaya-musafir-cafe-on-ott-485679 ",
     "time": "2026-07-25T05:15:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "શ્રેયસની કેપ્ટનશીપમાં ટીમ ઈન્ડિયાને મળી પહેલી જીત, ભારતે ઝિમ્બાબ્વેને 7 વિકેટેથી હરાવ્યું; વૈભવ સૂર્યવંશીની તોફાની ફિફ્ટી",
-    "desc": "ભારતે ઝિમ્બાબ્વેને પહેલી T20 મેચમાં 7 વિકેટે હરાવીને ત્રણ મેચોની સિરીઝમાં 1-0ની લીડ મેળવી લીધી છે. આ સાથે જ ટીમ ઈન્ડિયાએ શ્રેયસ અય્યરની કેપ્ટનશીપમાં પહેલીવાર જીતનો સ્વાદ ચાખ્યો છે. આ પહેલાં ભારતને સતત 6 T20I મેચોમાં હારનો સામનો કરવો પડ્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/team-india-got-its-first-win-under-shreyas-captaincy-india-defeated-zimbabwe-by-7-wickets-vaibhav-suryavanshi-stormy-fifty-485562 ",
-    "time": "2026-07-23T15:08:26.000Z"
   },
   {
     "cat": "Entertainment",

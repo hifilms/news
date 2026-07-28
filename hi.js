@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India announce squad for Test series against Sri Lanka; Jadeja returns, MP allrounder gets maiden call-up",
+    "desc": "The Board of Control for Cricket in India (BCCI) has announced India's squad for the upcoming two-match Test series against Sri Lanka, scheduled to be played in August. Ajit Agarkar-led selection committee has picked a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-announce-squad-for-test-series-against-sri-lanka-jadeja-returns-mp-allrounder-gets-maiden-call-up-2026-07-28-1049592",
+    "time": "2026-07-28T04:11:06.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sharmila Dhankar scripts history, bags India's first para athletics gold at Commonwealth Games 2026",
     "desc": "Sharmila Dhankar scripted one of India's most memorable moments at the 2026 Commonwealth Games by winning the country's first-ever para athletics gold medal in Glasgow. The 40-year-old claimed the top spot in the women's shot...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/check-commonwealth-games-2026-day-5-schedule-where-can-india-shine-on-july-27-2026-07-27-1049510",
     "time": "2026-07-27T07:25:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Arshdeep Singh makes relationship with actress Samreen Kaur official with Instagram post; Check details",
-    "desc": "In a major development, India pacer Arshdeep Singh has made his relationship with model-actor Samreen Kaur official. The star player put an end to weeks of rumours around his relationship and made an Instagram post...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/arshdeep-singh-makes-relationship-with-actress-samreen-kaur-official-with-instagram-post-check-details-2026-07-27-1049506",
-    "time": "2026-07-27T06:34:06.000Z"
   }
 ];
