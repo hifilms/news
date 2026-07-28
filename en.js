@@ -1,5 +1,122 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "'Meet my fiance'",
+    "desc": "Los Angeles Chargers quarterback Justin Herbert and singer Madison Beer announced their engagement Tuesday. The couple was first seen together last August and has attended several sporting events. Beer, a Grammy nominee, has also appeared in Herbert's music video. Chargers coach Jim Harbaugh expressed support for their relationship. Herbert begins his seventh season with the Chargers this Wednesday.",
+    "img": "https://static.toiimg.com/photo/msid-132694703,imgsize-133896.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/madison-beer-engaged-to-los-angeles-chargers-quarterback-justin-herbert-tells-fans-meet-my-fiance/articleshow/132694418.cms",
+    "time": "2026-07-28T21:46:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Don't touch water bodies under garb of beautification, Supreme Court tells Bihar government",
+    "desc": "The Supreme Court has ordered the Bihar government to stop filling historic ponds in Darbhanga. This action follows allegations that the state is filling water bodies for public amenities. The court warned the state not to touch the ponds without its explicit approval. The project aimed to beautify and rejuvenate Gangasagar, Digghi, and Harahi Lake. The Supreme Court directed the government to ensure the ponds' areas remain intact.",
+    "img": "https://static.toiimg.com/photo/msid-132694700,imgsize-108702.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/dont-touch-water-bodies-under-garb-of-beautification-supreme-court-tells-bihar-government/articleshow/132694515.cms",
+    "time": "2026-07-28T21:36:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress, BJP spar over Pralhad Joshi's pick as education minister",
+    "desc": "Congress leader Rahul Gandhi criticized Pralhad Joshi's appointment as education minister. Gandhi accused Joshi of defending rapists in a past TV interview. BJP spokesperson Anil Baluni refuted these claims, stating Joshi commented on remission processes. Baluni accused Gandhi of distorting facts for personal attacks. The exchange highlights a political dispute over the minister's past statements.",
+    "img": "https://static.toiimg.com/photo/msid-132694514,imgsize-998466.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/congress-bjp-spar-over-pralhad-joshis-pick-as-education-minister/articleshow/132694505.cms",
+    "time": "2026-07-28T21:28:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "All SOPs followed, pellet gun use on protesters authorised, reveals CRPF review",
+    "desc": "CRPF analysis indicates police action against protesters followed standard operating procedures. Non-lethal means like pellet guns were authorized for crowd dispersal. Force gradient was followed, with lower measures failing before pump action guns. Protesters and personnel sustained injuries during the July 20 incident. The matter is now sub judice before the Supreme Court.",
+    "img": "https://static.toiimg.com/photo/msid-132694492,imgsize-237955.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/neet-protest-violence-all-sops-followed-pellet-gun-use-on-protesters-authorised-reveals-crpf-review/articleshow/132694483.cms",
+    "time": "2026-07-28T21:18:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Judge allows use of police interview in trial",
+    "desc": "A Nevada judge ruled a 2008 interview admissible in the upcoming trial. Duane \"Keffe D\" Davis faces murder charges in Tupac Shakur's 1996 killing. Davis claims he was in the Cadillac and provided the weapon used. Prosecutors argued the interview's recording is crucial evidence for the court. The trial for the notorious unsolved murder is scheduled to begin soon.",
+    "img": "https://static.toiimg.com/photo/msid-132694485,imgsize-65496.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tupac-shakur-death-case-judge-allows-use-of-police-interview-in-murder-trial-duane-keffe-d-davis-could-face-life-in-prison-without-parole/articleshow/132694427.cms",
+    "time": "2026-07-28T21:15:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India is second-largest sailor supplier in world",
+    "desc": "India now ranks as the world's second-largest supplier of seafaring personnel. This significant achievement is highlighted in the BIMCO-ICS Seafarer Workforce Report 2026. The report indicates India's share of global sailors has doubled over the past five years. Indian officers comprise thirteen point four percent of the world's officer workforce. This growth positions India strongly within the global maritime industry.",
+    "img": "https://static.toiimg.com/photo/msid-132694461,imgsize-49760.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-is-second-largest-sailor-supplier-in-world/articleshow/132694458.cms",
+    "time": "2026-07-28T21:01:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court accepts pilot dad's plea not to make Air India crash report public",
+    "desc": "The Supreme Court accepted a father's request concerning the air crash inquiry report. The government will submit the final report in a sealed cover to the court. An NGO questioned the inquiry's impartiality and adherence to standard procedures. The Air Accident Investigation Bureau anticipates completing its investigation within six weeks. The final report is expected to be ready for distribution around October 2026.",
+    "img": "https://static.toiimg.com/photo/msid-132694456,imgsize-131100.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ahmedabad-tragedy-supreme-court-accepts-pilot-dads-plea-not-to-make-air-india-crash-report-public/articleshow/132694428.cms",
+    "time": "2026-07-28T20:58:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "After stalemate, government, opposition spar over paper leak law in Lok Sabha",
+    "desc": "Parliament debated a bill to strengthen penalties for exam paper leaks. Opposition members supported student protests and criticized police actions during demonstrations. Government speakers highlighted past paper leaks and PM Modi's reform efforts. They emphasized the bill's aim to protect student welfare and ensure fair examinations. The proposed law seeks to deter organized gangs and individuals involved in leaks.",
+    "img": "https://static.toiimg.com/photo/msid-132694414,imgsize-167434.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/after-stalemate-government-opposition-spar-over-paper-leak-law-in-lok-sabha/articleshow/132694398.cms",
+    "time": "2026-07-28T20:42:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Raja blocked Palak on social media, reacts to Ibrahim dating rumours",
+    "desc": "Raja Chaudhary has once again opened up about his estranged relationship with daughter Palak Tiwari, revealing that he has blocked her on social media and no longer follows her life. The actor also reacted to the ongoing rumours linking Palak with Ibrahim Ali Khan, saying he has no reason to interfere because she does not consider him her father.",
+    "img": "https://static.toiimg.com/photo/msid-132694334,imgsize-95368.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/raja-chaudhary-says-he-isnt-bothered-about-palak-tiwari-ibrahim-ali-khan-dating-rumours-she-doesnt-consider-me-a-father-reveals-he-blocked-daughter-on-social-media/articleshow/132694318.cms",
+    "time": "2026-07-28T20:12:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harjinder Kaur wins silver with 227kg total in 69kg Weightlifting",
+    "desc": "Harjinder Kaur secured a silver medal in the women's 69kg weightlifting event. She achieved a combined total of 227kg, lifting 101kg in the snatch. Kaur then lifted 126kg in the clean and jerk, setting a new record. Canada's Charlotte Simoneau claimed the gold medal with a total of 240kg. Australia's Nya Phebe Hayman earned the bronze medal with 218kg.",
+    "img": "https://static.toiimg.com/photo/msid-132694103,imgsize-95346.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-harjinder-kaur-wins-silver-with-227kg-total-in-womens-69kg-weightlifting/articleshow/132694008.cms",
+    "time": "2026-07-28T19:37:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Union",
+    "desc": "Repeated drone and missile attacks are being attempted in the immediate vicinity of the vessel and the crew is living under constant fear of a direct hit at any moment, FSUI said in a post on X",
+    "img": "https://th-i.thgim.com/public/news/national/bgfp0g/article71278523.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-28%20at%2023.11.35.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/indian-seafarers-trapped-near-ukraine-black-sea-ship-attack/article71278526.ece",
+    "time": "2026-07-28T19:33:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Karnataka may have to release nearly double the stipulated 3,500 cusecs owing to dry riverbed till Biligundlu",
+    "desc": "A significant percentage of water released from either KRS or Kabini will be lost by the time it reaches Biligundlu measuring gauge since the river bed is dry. The State also has to account for groundwater levels and channel losses",
+    "img": "https://th-i.thgim.com/public/incoming/j17y0t/article71278296.ece/alternates/LANDSCAPE_1200/IMG_4051.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-may-have-to-release-nearly-double-the-stipulated-3500-cusecs-owing-to-dry-riverbed-till-biligundlu/article71278110.ece",
+    "time": "2026-07-28T19:27:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Pleas in Supreme Court allege illegal detentions by Delhi and Bihar police",
+    "desc": "Volunteer who distributed food and water to protesters at Jantar Mantar and his friend allege that police seized their phones, blindfolded them and questioned them at an undisclosed location over the ‘source of funds’; law student held without arrest warrant still in Bihar police custody",
+    "img": "https://th-i.thgim.com/public/incoming/3fluv1/article71278394.ece/alternates/LANDSCAPE_1200/Cockroach%20Janta%20Party%20CJP%20Protest%20Delhi%2011.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/pleas-in-supreme-court-allege-illegal-detentions-by-delhi-and-bihar-police/article71276975.ece",
+    "time": "2026-07-28T19:13:46.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "'Every possible measure must be taken': Shipping minister Sarbananda Sonowal says no Indian seafarer should be caught in crossfire",
     "desc": "Indian shipping minister directed officials to safeguard seafarers from geopolitical conflicts. The government prioritizes the safety and welfare of Indian mariners serving on merchant vessels. Officials reviewed security situations and diplomatic mission preparedness in conflict zones. A union reported Indian sailors trapped in a Ukrainian port facing drone attacks. Mental health support and pre-departure risk awareness programs were also emphasized.",
@@ -45,6 +162,15 @@ const newsData_en = [
     "time": "2026-07-28T18:33:45.000Z"
   },
   {
+    "cat": "Entertainment",
+    "title": "When Madhuri paid an emotional Guru Purnima tribute to Saroj Khan",
+    "desc": "On Guru Purnima, Madhuri Dixit paid tribute to the late Saroj Khan, her beloved dance mentor. She shared heartfelt memories and expressed her sorrow over Khan's passing. Reflecting on their legendary dance sequences, Dixit applauded Khan's monumental career as Bollywood's trailblazing female choreographer and conveyed how she misses her mentor's infectious laughter and indomitable spirit. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-132678337,imgsize-92506.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-madhuri-dixit-paid-an-emotional-guru-purnima-tribute-to-the-late-choreographer-saroj-khan-nobody-made-women-look-more-beautiful/articleshow/132678298.cms",
+    "time": "2026-07-28T18:30:00.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Bus with Amarnath pilgrims slips into gorge, 39 hurt",
     "desc": "Thirty-nine Amarnath pilgrims were injured when their bus fell into a gorge. The bus skidded off the road in Ganiwan, Ganderbal district, on Tuesday morning. A house broke the fall, preventing a more severe tragedy for the pilgrims. Injured devotees were moved to SKIMS in Soura for medical treatment. Lieutenant Governor Manoj Sinha assured best possible care and safe return arrangements.",
@@ -66,19 +192,10 @@ const newsData_en = [
     "cat": "Entertainment",
     "title": "Kangana hits back at Saurav after his response to 'Generation Gutter'",
     "desc": "BJP MP and actress Kangana Ranaut has once again targeted the Cockroach Janata Party (CJP), this time responding to the outfit's spokesperson Saurav Das after his criticism of her remarks on Gen Z protesters. Kangana's reaction came after Saurav Das criticised her comments against Gen Z protesters, including her description of the younger generation as \"Generation Gutter\".",
-    "img": "https://static.toiimg.com/photo/msid-132691957,imgsize-88760.cms",
+    "img": "https://static.toiimg.com/photo/msid-132694027,imgsize-86491.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-hits-back-at-cjps-saurav-das-after-his-response-to-her-generation-gutter-remark-calls-him-useless-says-i-had-2-national-awards-at-his-age/articleshow/132691800.cms",
     "time": "2026-07-28T17:58:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Union",
-    "desc": "Repeated drone and missile attacks are being attempted in the immediate vicinity of the vessel and the crew is living under constant fear of a direct hit at any moment, FSUI said in a post on X",
-    "img": "https://th-i.thgim.com/public/news/national/bgfp0g/article71278523.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-28%20at%2023.11.35.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/indian-seafarers-trapped-near-ukraine-black-sea-ship-attack/article71278526.ece",
-    "time": "2026-07-28T17:52:18.000Z"
   },
   {
     "cat": "Politics",
@@ -109,15 +226,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Pleas in Supreme Court allege illegal detentions by Delhi and Bihar police",
-    "desc": "Volunteer who distributed food and water to protesters at Jantar Mantar and his friend allege that police seized their phones, blindfolded them and questioned them at an undisclosed location over the ‘source of funds’; law student held without arrest warrant still in Bihar police custody",
-    "img": "https://th-i.thgim.com/public/incoming/3fluv1/article71278394.ece/alternates/LANDSCAPE_1200/Cockroach%20Janta%20Party%20CJP%20Protest%20Delhi%2011.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/pleas-in-supreme-court-allege-illegal-detentions-by-delhi-and-bihar-police/article71276975.ece",
-    "time": "2026-07-28T16:52:15.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "After SC order, West Bengal govt says no action against NEET protesters, except those with criminal records",
     "desc": "West Bengal will not take coercive action against students protesting the NEET paper leak. This relief excludes individuals with prior criminal records, aligning with Supreme Court directives. Several BJP-led states, including Bihar and Assam, have already withdrawn cases against protesters. Maharashtra's chief minister also ordered the withdrawal of cases against student demonstrators. The Cockroach Janta Party awaits further action on their demands.",
     "img": "https://static.toiimg.com/photo/msid-132690119,imgsize-342090.cms",
@@ -144,15 +252,6 @@ const newsData_en = [
     "time": "2026-07-28T16:49:07.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kochi Corporation among communicable disease hotspots",
-    "desc": "As many as 83 dengue cases, 78 hepatitis A cases and 26 H1N1 cases were reported within the Corporation limits between January and June; authorities intensify preventive measures, including source reduction, to curb the spread",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kochi-corporation-among-communicable-disease-hotspots/article71277748.ece",
-    "time": "2026-07-28T16:43:44.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "De calls Salman's Wangchuk post 'cringe', slams Kangana, Hema, Anupam",
     "desc": "Author and columnist Shobhaa De has sparked a fresh debate with her latest column, where she criticised Bollywood's response to the Cockroach Janta Party (CJP) protests and questioned whether celebrities still understand the mood of India's Gen Z audience. De specifically addressed Salman Khan's social media message to activist Sonam Wangchuk, while also taking aim at comments made by Kangana Ranaut, Hema Malini and Anupam Kher during the youth-led movement.",
@@ -169,24 +268,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/english-cricket-club-under-fire-after-clicky-ponting-finger-click-cheating-claim-goes-viral/articleshow/132689463.cms",
     "time": "2026-07-28T16:28:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "RAF general diary entry",
-    "desc": "The RAF registered the diary entry at Parliament Street police station in the early hours of July 22, soon after The Hindu’s report on pellet gun injuries; following the incident, the RAF withdrew pump action guns, electric shields, anti-riot guns, shock batons from personnel deployed at Jantar Mantar",
-    "img": "https://th-i.thgim.com/public/news/national/vssolj/article71275389.ece/alternates/LANDSCAPE_1200/IMG_3251.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/raf-fired-pellet-gun-at-protesters-on-the-directions-of-a-delhi-police-officer-document-shows/article71275391.ece",
-    "time": "2026-07-28T16:19:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Former Palani MLA moves High Court for CBI probe into fraudulent registration of math land",
-    "desc": "K.S.N. Venugopalu Senapathi says the investigation is conducted by the CB-CID, which is under the control of the Tamil Nadu government. Since the allegations themselves extend to Registration Department officials and possibly higher authorities, the probe by an agency under the control of the State does not inspire public confidence",
-    "img": "https://th-i.thgim.com/public/incoming/tbl8tc/article71278264.ece/alternates/LANDSCAPE_1200/TH26_SUNDAY-REPG9NGA5B7Q.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Madurai/former-palani-mla-moves-high-court-for-cbi-probe-into-fraudulent-registration-of-math-land/article71277490.ece",
-    "time": "2026-07-28T16:15:03.000Z"
   },
   {
     "cat": "Sports",
@@ -295,15 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/big-manufacturing-push-how-india-is-aiming-to-future-proof-its-supply-chains-from-global-conflicts/articleshow/132685236.cms",
     "time": "2026-07-28T13:26:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Defender of rapists' charge meets 'authenticate it' challenge",
-    "desc": "Congress leaders Priyanka Gandhi Vadra and Rahul Gandhi criticised the Prime Minister's choice for education minister. They alleged the minister expressed happiness over the release of convicted rapists. This accusation stems from remarks made regarding the Bilkis Bano case convicts. The opposition leaders demanded substantiation of these serious allegations. The Union minister denied the claims and sought an apology from the Congress MP.",
-    "img": "https://static.toiimg.com/photo/msid-132685208,imgsize-141895.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/gandhi-siblings-vs-pralhad-joshi-defender-of-rapists-charge-meets-authenticate-it-challenge/articleshow/132684843.cms",
-    "time": "2026-07-28T13:19:24.000Z"
   },
   {
     "cat": "World",
@@ -460,48 +532,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Dakota Johnson transforms into Marilyn Monroe for new role",
-    "desc": "In a captivating short film, Dakota Johnson embodies the essence of Marilyn Monroe, commemorating the Hollywood icon's centennial anniversary. The film uncovers hidden narratives of Monroe's life, offering a fresh perspective to fans. Directed by Maggie Gyllenhaal for a leading automotive brand, it also showcases Ellen Burstyn as an alternate interpretation of Marilyn, enriching the narrative with diverse portrayals.",
-    "img": "https://static.toiimg.com/photo/msid-132681352,imgsize-33634.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/flesh-impact-check-out-dakota-johnsons-first-look-as-marilyn-monroe/articleshow/132681194.cms",
-    "time": "2026-07-28T10:03:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sunny Deol breaks down at 'Batwara 1947' trailer launch",
-    "desc": "Veteran actor Shabana Azmi shared an emotional experience from the film 'Batwara 1947'. She described a scene which left her feeling vulnerable and exposed. Co-star Sunny Deol offered immediate comfort by covering her with a dupatta. Azmi expressed gratitude for his compassionate gesture during the difficult moment. The film's trailer launch also featured discussions about the mother-son relationship.",
-    "img": "https://static.toiimg.com/photo/msid-132681219,imgsize-317630.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunny-deol-breaks-down-in-tears-at-batwara-1947-trailer-launch-as-shabana-azmi-recalls-scene-that-left-her-stripped-of-any-dignity-sunny-put-that-dupatta-on-me-in-that-moment-he-became-my-son/articleshow/132681052.cms",
-    "time": "2026-07-28T09:59:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "John Summit, Black Eyed Peas, Skepta and others to headline ‘Beyond the Valley’",
-    "desc": "The Beyond the Valley festival is set to dazzle with performances from John Summit and Black Eyed Peas, along with names like Skepta and Ocean Alley. Scheduled from December 28, 2026, to January 1, 2027, this highly anticipated music festival has already broken presale records. Supported by the Victorian Government's Regional Events Fund, it promises a memorable celebration for attendees.",
-    "img": "https://static.toiimg.com/photo/msid-132681158,imgsize-60156.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/beyond-the-valley-music-festival-john-summit-black-eyed-peas-skepta-and-more-announced-as-headliners/articleshow/132681027.cms",
-    "time": "2026-07-28T09:56:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Anushka Sharma and Virat Kohli buy Rs 18.29 crore Versova home after Vrindavan visit",
     "desc": "Anushka Sharma and Virat Kohli have expanded their real estate portfolio with a Rs 18.29 crore sea-facing apartment in Mumbai's Versova, in the same Godrej Skyshore project where actor Tabu also owns a flat. The purchase adds to the couple's growing list of premium properties across Mumbai, Gurugram and Alibaug. The news comes days after Anushka and Virat's latest visit to Premanand Maharaj's ashram in Vrindavan.",
     "img": "https://static.toiimg.com/photo/msid-132681005,imgsize-141577.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-visiting-premanand-maharaj-anushka-sharma-and-virat-kohli-buy-a-sea-facing-luxury-apartment-at-versova-in-mumbai-worth-rs-18-29-crore/articleshow/132680846.cms",
     "time": "2026-07-28T09:53:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Thalapathy Vijay's 'Ghilli' co-star actor Siva passes away",
-    "desc": "Actor Siva, known for his role in Ghilli, has passed away after a cancer battle. He gained widespread recognition for his memorable scene in the blockbuster film. Siva also featured in other Tamil movies alongside actor Vijay. His natural screen presence made him a familiar face to many viewers. The Tamil film industry and fans are mourning his significant loss.",
-    "img": "https://static.toiimg.com/photo/msid-132680910,imgsize-85988.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thalapathy-vijays-ghilli-co-star-actor-siva-passes-away-after-battling-cancer/articleshow/132680728.cms",
-    "time": "2026-07-28T09:47:47.000Z"
   },
   {
     "cat": "Business",
@@ -604,15 +640,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'If he gets his length right': McGrath backs one pacer as Bumrah's long-term partner",
-    "desc": "Glenn McGrath believes Prasidh Krishna possesses the necessary qualities to partner Jasprit Bumrah. He notes Krishna has matured and transformed potential into consistent performances. India is preparing for a demanding white-ball cricket schedule and needs strong pace attacks. McGrath also highlighted the importance of workload management for bowlers like Bumrah. He advocates for strengthening bowlers rather than overprotecting them after injuries.",
-    "img": "https://static.toiimg.com/photo/msid-132675891,imgsize-251696.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/if-he-gets-his-length-right-glenn-mcgrath-backs-one-india-pacer-as-jasprit-bumrahs-long-term-partner/articleshow/132675877.cms",
-    "time": "2026-07-28T05:12:46.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "'I was beaten from 11 pm to 3 am': How CWG medallist Sharmila beat marriage abuse",
     "desc": "Sharmila Dhankar secured India's first para-athletics gold medal at the Commonwealth Games. She achieved a season-best throw of 9.81m in the women's shot put F57 event. Dhankar overcame poverty and domestic abuse to pursue her athletic aspirations. She previously competed in the Birmingham Commonwealth Games and Asian Para Games. Her success fuels her dream of providing opportunities for her daughters.",
     "img": "https://static.toiimg.com/photo/msid-132675555,imgsize-72448.cms",
@@ -646,15 +673,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/india-squad-for-sri-lanka-tests-ravindra-jadeja-returns-jasprit-bumrah-picked-with-a-rider/articleshow/132674417.cms",
     "time": "2026-07-28T03:41:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India's complete schedule, timings and medal events on July 28",
-    "desc": "Indian athletes aim for multiple medals on Tuesday, July 28, at the Commonwealth Games. Weightlifters Nirupama Devi Seram and Harjinder Kaur compete in finals for podium finishes. Boxers pursue semifinal spots and guaranteed bronze medals in their quarterfinal bouts. Athletes participate in high jump and 10,000m finals, while swimmers contest heats and semifinals. Para swimmers also compete in freestyle heats and potential finals.",
-    "img": "https://static.toiimg.com/photo/msid-132666487,imgsize-57341.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-complete-schedule-timings-and-medal-events-as-india-eye-medals-on-28th-july-tuesday/articleshow/132666417.cms",
-    "time": "2026-07-28T02:00:00.000Z"
   },
   {
     "cat": "Business",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
     "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
   }
 ];
