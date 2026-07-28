@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'I am not able to focus properly at Commonwealth Games': Lovlina appeals for help in Assam floods",
+    "desc": "Shaken by the devastating floods in her home state, Assam, Olympic medallist Lovlina Borgohain stated that she is not able to \"focus properly\" at the ongoing Commonwealth Games in Glasgow. The boxer appealed for help...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/i-am-not-able-to-focus-properly-at-commonwealth-games-lovlina-appeals-for-help-in-assam-floods-2026-07-28-1049672",
+    "time": "2026-07-28T15:48:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Geneva to host Chess World Championship showdown between Gukesh and Sindarov in November-December",
+    "desc": "The Chess World Championship match between current holder Gukesh D and challenger Javokhir Sindarov will take place in Geneva, Switzerland, the FIDE body announced on Tuesday. The showdown, which will be the youngest World Championship...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/geneva-to-host-chess-world-championship-showdown-between-gukesh-and-sindarov-in-november-december-2026-07-28-1049666",
+    "time": "2026-07-28T14:20:30.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Rejuvenated Ireland announce squad for Afghanistan series, Paul Stirling returns as captain",
     "desc": "Ireland have announced their 14-man squad for the five-match ODI series against Afghanistan, starting Wednesday, August 5. The series will see the return of Paul Stirling, who was forced to sit out the marquee India...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/tiger-shroff-set-for-competitive-football-debut-bollywood-star-registers-for-durand-cup-2026-2026-07-28-1049608",
     "time": "2026-07-28T06:53:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Novak Djokovic, Aryna Sabalenka team up for US Open mixed doubles, Swiatek to partner with Ruud",
-    "desc": "Novak Djokovic and Aryna Sabalenka are set to join hands to enter the revamped US Open mixed doubles tournament. The Serbian-Belarusian pairing features among the first batch of teams announced for the event, which was...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-aryna-sabalenka-team-up-for-us-open-mixed-doubles-swiatek-to-partner-with-ruud-2026-07-28-1049602",
-    "time": "2026-07-28T06:09:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tejaswin Shankar can't hold back tears after injury ruled him out of Commonwealth Games",
-    "desc": "Tejaswin Shankar's bid for another Commonwealth Games high jump medal ended abruptly in the early hours of Tuesday in Glasgow. The athlete suffered a recurring knee problem and was forced to withdraw from the event...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/tejaswin-shankar-can-t-hold-back-tears-after-injury-ruled-him-out-of-commonwealth-games-2026-07-28-1049599",
-    "time": "2026-07-28T05:44:26.000Z"
   }
 ];

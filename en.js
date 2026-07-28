@@ -1,30 +1,147 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Venugopal questions absence of Amit Shah in Lok Sabha, says 'he is the person who rules Delhi'",
+    "title": "Student protest shattered BJP's 'Hindu-Muslim' narratives, says AAP MP",
     "desc": "Congress MP K.C. Venugopal said that if govt is not sincere, no new legislation can serve any purpose; who gave orders to fire pellet guns on students, asked Priyanka Gandhi in Lok Sabha; Rajya Sabha adjourned for the day",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/parliament-monsoon-lok-sabha-live-updates-2026-july-28-2026-exam-amendment-bill-news/article71275442.ece",
-    "time": "2026-07-28T13:52:27.000Z"
+    "time": "2026-07-28T16:24:56.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Rameshan Paleri, chairman of Kerala-based Uralungal cooperative society, dies",
-    "desc": "He was undergoing treatment at a private hospital in Coimbatore. Rameshan is credited with transforming the society, whose operations were once limited to small contract works in north Malabar, into one of the biggest cooperatives in the country",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/k8h9aw/article71275704.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-28%20at%2011.26.24.jpeg",
+    "title": "RAF general diary entry",
+    "desc": "The RAF registered the diary entry at Parliament Street police station in the early hours of July 22, soon after The Hindu’s report on pellet gun injuries; following the incident, the RAF withdrew pump action guns, electric shields, anti-riot guns, shock batons from personnel deployed at Jantar Mantar",
+    "img": "https://th-i.thgim.com/public/news/national/vssolj/article71275389.ece/alternates/LANDSCAPE_1200/IMG_3251.jpeg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/ramesan-paleri-chairman-of-kerala-based-uralungal-cooperative-society-dies/article71275565.ece",
-    "time": "2026-07-28T13:51:21.000Z"
+    "url": "https://www.thehindu.com/news/national/raf-fired-pellet-gun-at-protesters-on-the-directions-of-a-delhi-police-officer-document-shows/article71275391.ece",
+    "time": "2026-07-28T16:19:34.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Restoration of Punyam Poonkavanam project in Sabarimala temple runs the risk of violating Kerala High Court order",
-    "desc": "Devaswom Bench of Kerala HC had in February, 2025 asked Travancore Devaswom Board and Kerala Police to issue an advisory to Sabarimala pilgrims that the project is not part of Police Bandobast Scheme from Mandalam-Makaravilakku festival season of 2023-24 and that its name cannot be used for any activity connected with Sabarimala",
-    "img": "https://th-i.thgim.com/public/incoming/d2w1z1/article71276788.ece/alternates/LANDSCAPE_1200/28tvpt-punyam.jpg",
+    "title": "Former Palani MLA moves High Court for CBI probe into fraudulent registration of math land",
+    "desc": "K.S.N. Venugopalu Senapathi says the investigation is conducted by the CB-CID, which is under the control of the Tamil Nadu government. Since the allegations themselves extend to Registration Department officials and possibly higher authorities, the probe by an agency under the control of the State does not inspire public confidence",
+    "img": "https://th-i.thgim.com/public/incoming/tbl8tc/article71278264.ece/alternates/LANDSCAPE_1200/TH26_SUNDAY-REPG9NGA5B7Q.3.jpg.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/restoration-of-punyam-poonkavanam-project-in-sabarimala-temple-runs-the-risk-of-violating-kerala-high-court-order/article71276021.ece",
-    "time": "2026-07-28T13:39:56.000Z"
+    "url": "https://www.thehindu.com/news/cities/Madurai/former-palani-mla-moves-high-court-for-cbi-probe-into-fraudulent-registration-of-math-land/article71277490.ece",
+    "time": "2026-07-28T16:15:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How injured Tejaswin put aside heartbreak to help Kushare script CWG history",
+    "desc": "Tejaswin Shankar's Commonwealth Games high jump ended due to injury. He then coached Sarvesh Kushare, who won a historic silver medal. Kushare credited Shankar's advice for his improved performance during the competition. Shankar's own medal hopes were dashed before the event truly began. He now aims to compete in the decathlon despite his knee issue.",
+    "img": "https://static.toiimg.com/photo/msid-132689378,imgsize-116822.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/tj-told-me-to-move-forward-how-injured-tejaswin-shankar-put-aside-his-heartbreak-to-help-sarvesh-kushare-script-cwg-history/articleshow/132689197.cms",
+    "time": "2026-07-28T16:09:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Heartbreak for India! Nirupama fails to finish in Women's 63kg weightlifting",
+    "desc": "Nirupama Devi's medal hopes ended after failing all clean and jerk attempts. She had been in contention after a strong snatch performance. Canada's Maude Charron set new records and won gold in the event. Sarah Davies Smale secured the silver medal for England. India's weightlifting team continues to be a strong performer at the Games.",
+    "img": "https://static.toiimg.com/photo/msid-132688833,imgsize-86180.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/heartbreak-for-india-nirupama-devi-fails-to-finish-in-womens-63kg-weightlifting-final/articleshow/132688767.cms",
+    "time": "2026-07-28T15:50:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Naidu directs comprehensive support for farmers in A.P. amid El Niño threat",
+    "desc": "Chief Minister tells officials to establish a dedicated El Niño Control Room for continuous monitoring and scientific advisories through Rythu Seva Kendras; says every cultivated crop must be covered under crop insurance, for which Collectors have to take responsibility",
+    "img": "https://th-i.thgim.com/public/incoming/hr6doh/article71278183.ece/alternates/LANDSCAPE_1200/27NearbyOng1_GIGQHGAFCLO.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-directs-comprehensive-support-for-farmers-in-ap-amid-el-nino-threat/article71277756.ece",
+    "time": "2026-07-28T15:50:31.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Air India’s FY26 losses more than double to ₹22,238 crore, turnaround deadline extended",
+    "desc": "The turnaround which was planned as a five-year programme under the Vihaan.AI strategy, could now extend to up to a decade, says chief of Tata Sons whose board recommended a final dividend of ₹ 1,10,717 per share",
+    "img": "https://th-i.thgim.com/public/incoming/w9lmrn/article71278109.ece/alternates/LANDSCAPE_1200/Visakhapatnam-aGFLG9N0CE.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/air-indias-fy26-losses-more-than-double-to-22238-crore-turnaround-deadline-extended/article71278037.ece",
+    "time": "2026-07-28T15:39:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "R Madhavan shares TN IAS officer's 1,200-borewell success story",
+    "desc": "R Madhavan's latest Instagram post isn't about films or celebrity life. Instead, the actor shared the remarkable story of IAS officer Prathap Murugan, whose innovative approach to water conservation has reportedly helped increase groundwater levels and bring relief to farmers in Tamil Nadu. The story tells how Murugan converted more than 1,200 abandoned borewells into rainwater harvesting units, helping replenish groundwater across parts of Tiruvallur district.",
+    "img": "https://static.toiimg.com/photo/msid-132688559,imgsize-67027.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/from-farmers-son-to-ias-officer-meet-prathap-murugan-whose-groundwater-revival-mission-with-1200-abandoned-borewells-won-r-madhavans-praise/articleshow/132688477.cms",
+    "time": "2026-07-28T15:37:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Nellore district targets 50% green cover by 2047",
+    "desc": "District Collector directs all departments to collect details on vacant government lands for plantation, proposals for establishing school nurseries, areas for ‘Vanamahotsav’ plantations, sites for developing palm groves, and areas appropriate for ‘Great Green Wall’ initiative",
+    "img": "https://th-i.thgim.com/public/incoming/gu4evn/article71278070.ece/alternates/LANDSCAPE_1200/10745_28_7_2026_19_22_24_1_IMG_20260728_WA0052.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/nellore-district-targets-50-green-cover-by-2047/article71277563.ece",
+    "time": "2026-07-28T15:34:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "M.S. Swaminathan Research Foundation, civic bodies ink pact on solid waste management, public health project",
+    "desc": "Clean Land, Equitable Air & Resilience (CLEAR) is a four-year transdisciplinary action research programme, which aims to generate environmental and public health data to strengthen waste management systems and health system responses to waste-driven climate risks",
+    "img": "https://th-i.thgim.com/public/incoming/ww9y15/article71277880.ece/alternates/LANDSCAPE_1200/4871_28_7_2026_16_0_7_1_DSC_9558.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/ms-swaminathan-research-foundation-civic-bodies-ink-pact-on-solid-waste-management-public-health-project/article71277618.ece",
+    "time": "2026-07-28T15:32:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM needs to change angle of his heart, not angle of cameras: Priyanka in Lok Sabha",
+    "desc": "Slamming the government for using force against the protesting students, Priyanka Gandhi Vadra said PM Modi and Home Minister Amit Shah must answer as to who authorised the use of \"pellet guns\" and \"AK-47s\" on protesting students",
+    "img": "https://th-i.thgim.com/public/incoming/9hzhg6/article71277125.ece/alternates/LANDSCAPE_1200/20260728397L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/pm-needs-to-change-angle-of-his-heart-not-angle-of-cameras-priyanka-in-lok-sabha/article71277082.ece",
+    "time": "2026-07-28T15:26:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Roberto Mancini returns to rescue Italy after three straight FIFA World Cup misses",
+    "desc": "Roberto Mancini has been appointed Italy's new head coach, tasked with rebuilding the national team. He previously led Italy to European Championship glory in 2021. The team failed to qualify for the last three FIFA World Cups. Claudio Ranieri joins as the federation's new technical director. Mancini faces immediate challenges in the Nations League competition.",
+    "img": "https://static.toiimg.com/photo/msid-132688160,imgsize-73668.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/roberto-mancini-returns-to-rescue-italy-after-three-straight-fifa-world-cup-misses/articleshow/132688164.cms",
+    "time": "2026-07-28T15:10:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranbir Kapoor's 'Ramayana' trailer to release on July 30",
+    "desc": "Part 1 trailer will premiere worldwide on July 30. This auspicious trailer launch is scheduled for Thursday at 4:15 AM IST. Fans expressed immense excitement across social media platforms following the official announcement. The film, directed by Nitesh Tiwari, features a star-studded ensemble cast. Ramayana: Part 1 is slated for a Diwali 2026 theatrical release.",
+    "img": "https://static.toiimg.com/photo/msid-132687170,imgsize-239676.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoors-ramayana-trailer-to-release-on-july-30-namit-malhotra-confirms-worldwide-launch-during-brahma-muhurat/articleshow/132687170.cms",
+    "time": "2026-07-28T14:59:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dhanush drops ‘OM’ first single ‘Alaakaa Loova’ on birthday",
+    "desc": "Dhanush released the first single 'Alaakaa Loova' from his upcoming film OM. The song has quickly become a popular track among listeners. The movie features Dhanush alongside Sai Pallavi and Sreeleela. Mammootty also plays a significant role in the Rajkumar Periyasamy directorial. OM is scheduled for an October 16 release, facing off against Jailer 2.",
+    "img": "https://static.toiimg.com/photo/msid-132686923,imgsize-253754.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/dhanush-drops-om-first-single-alaakaa-loova-on-birthday-fans-call-it-an-instant-chartbuster/articleshow/132686869.cms",
+    "time": "2026-07-28T14:21:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Doeschate steps down; Subhadeep replaces Dilip",
+    "desc": "Ryan ten Doeschate has resigned as India's assistant coach after two years. Subhadeep Ghosh will now serve as the team's new fielding coach. Ten Doeschate cited personal reasons for stepping away from the demanding role. His final assignment was the recent white-ball tour of England. Ghosh's first international assignment will be the Sri Lanka Test series.",
+    "img": "https://static.toiimg.com/photo/msid-132686755,imgsize-151699.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ryan-ten-doeschate-steps-down-as-indias-assistant-coach-subhadeep-ghosh-replaces-t-dilip-as-fielding-coach/articleshow/132686705.cms",
+    "time": "2026-07-28T14:14:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "S&amp;P 500, Dow Jones trade flat; Nasdaq drops over 1% as chips stocks drop",
+    "desc": "Broader market sentiment remained supported by another round of stronger-than-expected corporate earnings. Coca-Cola advanced 5.8% after reporting a 7% increase in revenue, despite what Chief Executive Officer Henrique Braun described as “a dynamic consumer landscape.”",
+    "img": "https://static.toiimg.com/photo/msid-132686621,imgsize-817457.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-stock-market-today-july-28-2026-sp-500-dow-jones-trade-flat-nasdaq-drops-over-1-as-chips-stocks-drop/articleshow/132686578.cms",
+    "time": "2026-07-28T14:06:44.000Z"
   },
   {
     "cat": "Sports",
@@ -34,15 +151,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/fide-reveals-host-city-for-gukesh-vs-sindarov-world-championship-clash-youngest-ever-title-match-in-chess-history/articleshow/132685626.cms",
     "time": "2026-07-28T13:32:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Former Karnataka Chief Minister Siddaramaiah will remain active in politics and public life, says Yathindra Siddaramaiah",
-    "desc": "Siddaramaiah, senior Congress leader, will continue to remain active in politics and public life. His statement about not wanting to contest the next elections should not be interpreted as his announcement of retirement from electoral politics, Yatindra Siddaramaiah, Minister for Urban Development, said in Belagavi",
-    "img": "https://th-i.thgim.com/public/incoming/ssykgd/article71277231.ece/alternates/LANDSCAPE_1200/9727_28_7_2026_12_7_4_2_29BGMYATINDRAKANNADA2.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/former-karnataka-chief-minister-siddaramaiah-will-remain-active-in-politics-and-public-life-says-yathindra-siddaramaiah/article71275784.ece",
-    "time": "2026-07-28T13:28:19.000Z"
   },
   {
     "cat": "Entertainment",
@@ -61,33 +169,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/big-manufacturing-push-how-india-is-aiming-to-future-proof-its-supply-chains-from-global-conflicts/articleshow/132685236.cms",
     "time": "2026-07-28T13:26:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Routes to Bhogapuram airport mapped on Google Maps, says VMRDA Commissioner",
-    "desc": "Commissioner N. Tej Bharath said four of the seven corridors were developed by the VMRDA itself to join the National Highway leading to the airport, and 10 zonal route maps have been linked to Google Maps for directions",
-    "img": "https://th-i.thgim.com/public/incoming/goj3us/article70951616.ece/alternates/LANDSCAPE_1200/01Tej.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Visakhapatnam/routes-to-bhogapuram-airport-mapped-on-google-maps-says-vmrda-commissioner/article71277066.ece",
-    "time": "2026-07-28T13:26:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM needs to change angle of his heart, not angle of cameras: Priyanka in Lok Sabha",
-    "desc": "Slamming the government for using force against the protesting students, Priyanka Gandhi Vadra said PM Modi and Home Minister Amit Shah must answer as to who authorised the use of \"pellet guns\" and \"AK-47s\" on protesting students",
-    "img": "https://th-i.thgim.com/public/incoming/9hzhg6/article71277125.ece/alternates/LANDSCAPE_1200/20260728397L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/pm-needs-to-change-angle-of-his-heart-not-angle-of-cameras-priyanka-in-lok-sabha/article71277082.ece",
-    "time": "2026-07-28T13:26:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Explorer returns to East Godavari after roaming Telangana landscapes on the other side of river",
-    "desc": "Over the past 48 hours, it has been roaming in the coconut and oil palm farms in Gopalapuram mandal and is being tracked by three teams assisted by a 30-member group of personnel, says Forest Officer",
-    "img": "https://th-i.thgim.com/public/incoming/wy029z/article71277184.ece/alternates/LANDSCAPE_1200/10237_28_7_2026_17_47_44_1_WHATSAPPIMAGE2026_02_07AT65710P.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/explorer-returns-to-east-godavari-after-roaming-telangana-landscapes-on-the-other-side-of-river/article71276919.ece",
-    "time": "2026-07-28T13:23:39.000Z"
   },
   {
     "cat": "Politics",
@@ -151,15 +232,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/will-allu-arjun-and-lokesh-kanagarajs-aa23-will-not-have-female-lead-heres-what-we-know/articleshow/132684783.cms",
     "time": "2026-07-28T12:50:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Cauvery Water Regulation Committee orders Karnataka to release 3,500 cusecs of water a day for 15 days to Tamil Nadu",
-    "desc": "Karnataka Water Resources Minister Ramalinga Reddy says the state itself is gripped by serious shortage of water and will examine the possibility of filing an appeal against CWRC’s order before the Cauvery Water Management Authority",
-    "img": "https://th-i.thgim.com/public/incoming/w5ubb6/article71276399.ece/alternates/LANDSCAPE_1200/KRS_02.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/cauvery-water-regulation-committee-orders-karnataka-to-release-3500-cusecs-of-water-a-day-for-15-days-to-tamil-nadu/article71276291.ece",
-    "time": "2026-07-28T12:28:49.000Z"
   },
   {
     "cat": "Entertainment",
@@ -351,15 +423,6 @@ const newsData_en = [
     "time": "2026-07-28T09:24:52.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Vijay's 'Jana Nayagan' faces legal challenge: Madras HC seeks response",
-    "desc": "Vijay's film 'Jana Nayagan' faces a legal challenge in the Madras High Court. A petition seeks a review of the film's censor certificate over village portrayal. The court has directed the CBFC, producer, and director to file their replies. No interim stay was granted, and the matter is set for August 6. This legal hurdle arises after the film's successful theatrical release.",
-    "img": "https://static.toiimg.com/photo/msid-132680238,imgsize-95446.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vijays-jana-nayagan-faces-legal-challenge-madras-high-court-seeks-response-over-plea-against-controversial-scenes/articleshow/132680216.cms",
-    "time": "2026-07-28T09:11:43.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Can using E20 petrol lead to insurance claim rejection? What the government said",
     "desc": "The Ministry of Petroleum and Natural Gas clarified E20 petrol use is not a valid reason for insurance claim rejection. Government sources have dismissed claims that using E20 fuel will invalidate vehicle insurance policies. Assertions about widespread engine damage or insect attraction from ethanol-blended petrol lack scientific basis. The Ethanol Blending Programme is scientifically validated and implemented with industry consultation.",
@@ -369,15 +432,6 @@ const newsData_en = [
     "time": "2026-07-28T09:08:08.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Samantha Ruth Prabhu flaunts baby bump in Rs 39,000 black jumpsuit",
-    "desc": "Samantha Ruth Prabhu was spotted in Mumbai flaunting her baby bump in a Rs 39,000 black jumpsuit from homegrown label Aroka. The actress, who is expecting her first child with filmmaker Raj Nidimoru, recently opened up about embracing motherhood and her journey with pregnancy, marriage and work.",
-    "img": "https://static.toiimg.com/photo/msid-132680011,imgsize-88192.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/samantha-ruth-prabhu-flaunts-baby-bump-in-a-black-jumpsuit-worth-rs-39000/articleshow/132679743.cms",
-    "time": "2026-07-28T09:07:31.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'Not reasonable, issue far from settled': Govt rejects Meta's explanation on brief removal of PM Modi's Facebook video",
     "desc": "The Centre finds Meta's explanation for Prime Minister Modi's post removal unsatisfactory. Government sources stated the issue requires deeper discussions with the social media company. Meta's response was deemed unreasonable by officials after the post was briefly unavailable. The ministry summoned Meta's global head of public policy regarding the incident. Discussions with Meta will continue as the matter is far from settled.",
@@ -385,24 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/not-reasonable-issue-far-from-settled-govt-rejects-metas-explanation-on-brief-removal-of-pm-modis-facebook-video/articleshow/132679518.cms",
     "time": "2026-07-28T08:55:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Before 'Company', Vivek Oberoi recalls shoe incident that changed him forever",
-    "desc": "Before his breakout role in Ram Gopal Varma's Company, Vivek Oberoi faced a humbling moment on stage during a college theatre competition, where a frustrated audience member hurled a shoe at him. In a recent interview, the actor recalled how the incident reshaped his approach to acting, and also opened up about his father Suresh Oberoi's early struggles and the value of privilege versus identity.",
-    "img": "https://static.toiimg.com/photo/msid-132679704,imgsize-140244.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/suddenly-a-shoe-came-flying-towards-me-before-company-vivek-oberoi-reveals-the-humiliating-incident-that-that-humbled-him-and-changed-his-acting-career-forever/articleshow/132679433.cms",
-    "time": "2026-07-28T08:47:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Fictional, unfounded': BJP dismisses report of portfolio change offer to Dharmendra Pradhan",
-    "desc": "BJP MP Sambit Patra has denied reports concerning Dharmendra Pradhan's ministerial portfolio. He stated these claims were entirely fictional and published solely to sensationalize. Pradhan resigned as Union education minister following widespread protests over the NEET paper leak. The Cockroach Janta Party delegation called off their protest after talks. Union ministers Jagat Prakash Nadda and Jitendra Singh met with the delegation.",
-    "img": "https://static.toiimg.com/photo/msid-132678884,imgsize-1051304.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/fictional-unfounded-bjp-dismisses-report-of-portfolio-change-offer-to-dharmendra-pradhan/articleshow/132678654.cms",
-    "time": "2026-07-28T08:07:22.000Z"
   },
   {
     "cat": "Sports",
@@ -468,15 +504,6 @@ const newsData_en = [
     "time": "2026-07-28T06:24:46.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "SC asks states to release student protesters under 18 with no criminal records",
-    "desc": "The Supreme Court said a prima facie case had been made out for a transparent inquiry by a commission and added that the exercise should help frame a protocol for handling such situations in the future. The hearing also brought before the court allegations of police excesses from several states, including claims that a police officer in Bihar used an AK-47 against peaceful protesters.",
-    "img": "https://static.toiimg.com/photo/msid-132678160,imgsize-1300042.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/whosoever-committed-excesses-must-be-taken-to-task-sc-on-violence-during-student-protests/articleshow/132676830.cms",
-    "time": "2026-07-28T06:23:15.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.S. Senate expected to confirm Jay Clayton as next Intelligence Director",
     "desc": "Jay Claton was to be confirmed as the next intelligence director in June after Tulsi Gabbard resigned without Bill Pulte taking over, but President Trump delayed Mr. Clayton's nomination before the Senate leaving a two-week recess, allowing Mr. Pulte to take the job temporarily",
@@ -502,24 +529,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/evenepoel-wins-time-trial-for-back-to-back-tour-de-france-stage-victories-pogacar-still-leads/article71251053.ece",
     "time": "2026-07-28T06:12:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Ankit Sharma died with 51 injuries': Death penalty sought for Tahir Hussain in 2020 Delhi riots case",
-    "desc": "Special public prosecutor Madhukar Pandey told the court that Sharma was subjected to a planned and relentless assault before his body was dumped in a drain instead of being taken for medical treatment. Speaking to reporters after the hearing, Pandey said the prosecution's demand for capital punishment was based on the nature of the crime and the manner in which it was carried out.",
-    "img": "https://static.toiimg.com/photo/msid-132676716,imgsize-88537.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ankit-sharma-died-with-51-injuries-death-penalty-sought-for-tahir-hussain-in-delhi-riots-2020-case/articleshow/132676078.cms",
-    "time": "2026-07-28T06:07:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Removed in error': Meta responds after PM Modi's video was blocked on Facebook; govt summons company official",
-    "desc": "Meta admitted to mistakenly deleting Prime Minister Narendra Modi's video. The content was removed in error and has since been restored by the company. This video assured stricter government actions against paper leaks across the nation. The Union Cabinet will discuss these stringent measures in Parliament soon. The government aims to get the Bill passed to address the issue.",
-    "img": "https://static.toiimg.com/photo/msid-132676460,imgsize-764217.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/meta-cites-error-after-pm-modis-facebook-video-briefly-disappears/articleshow/132676019.cms",
-    "time": "2026-07-28T05:28:32.000Z"
   },
   {
     "cat": "Sports",
@@ -568,48 +577,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "As father fights blood cancer, Rishikanta bags CWG silver",
-    "desc": "Rishikanta Singh Chanambam secured a silver medal in the men's 60kg weightlifting competition. His family watched the event from Rajasthan while supporting his father's treatment. He dedicated his achievement to his parents and supportive elder brother. Rishikanta overcame financial struggles and a past knee injury to reach this point. This medal marks a significant achievement for Manipuri weightlifting.",
-    "img": "https://static.toiimg.com/photo/msid-132675071,imgsize-189335.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/as-father-fights-blood-cancer-rishikanta-bags-cwg-silver/articleshow/132675079.cms",
-    "time": "2026-07-28T04:25:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why India's fastest man Gurindervir crashed out despite finishing 2nd in heat",
-    "desc": "India's fastest man Gurindervir Singh crashed out of the Commonwealth Games men's 100m heats despite finishing second after clocking 10.39 seconds, with coach James Hillier later revealing he had been carrying a hamstring injury for a month. The 24-year-old, who set a national record of 10.09 seconds in May, finished 28th overall and missed the semifinals.",
-    "img": "https://static.toiimg.com/photo/msid-132674462,imgsize-91456.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-why-indias-fastest-man-gurindervir-singh-crashed-out-despite-finishing-2nd-in-his-heat-explained/articleshow/132674424.cms",
-    "time": "2026-07-28T03:43:35.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Jadeja returns; Bumrah picked with a rider",
     "desc": "The men's selection committee announced the squad for the Sri Lanka Test series. Ravindra Jadeja returns to the team after being rested for the Afghanistan Test. Saransh Jain has earned his maiden call-up to the Indian squad. Washington Sundar remains unavailable for the first Test match. Sai Sudharsan and Jasprit Bumrah's availability depends on fitness clearance.",
     "img": "https://static.toiimg.com/photo/msid-132674466,imgsize-1005825.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/india-squad-for-sri-lanka-tests-ravindra-jadeja-returns-jasprit-bumrah-picked-with-a-rider/articleshow/132674417.cms",
     "time": "2026-07-28T03:41:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Take a tough call': Ex-India captain wants Abhishek axed, backs Sanju's return",
-    "desc": "Abhishek Sharma's poor T20I form has drawn criticism from former captain Krishnamachari Srikkanth. Srikkanth believes selectors must make a difficult decision regarding Sharma's future. Mayank Yadav returned from injury and impressed with his bowling performances. Yadav claimed multiple wickets across the series with consistent pace. The article highlights the emergence of young talent within the Indian team.",
-    "img": "https://static.toiimg.com/photo/msid-132674121,imgsize-122022.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/take-a-tough-call-ex-india-captain-wants-abhishek-sharma-axed-backs-sanju-samsons-return/articleshow/132674082.cms",
-    "time": "2026-07-28T03:16:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'You can't take 1-2 games': Ex-cricketer's blunt warning to Rohit and Kohli",
-    "desc": "Virat Kohli and Rohit Sharma's ODI futures remain debated by selectors and coaches. Both players continue to perform well for India in the ODI format. Recent series performances have fueled discussions about their long-term plans. Former player Deep Dasgupta believes their places are secure based on merit. The focus remains on immediate impact and consistent performance from the veterans.",
-    "img": "https://static.toiimg.com/photo/msid-132673715,imgsize-224484.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/you-cant-take-1-2-games-ex-cricketers-blunt-warning-to-rohit-sharma-and-virat-kohli/articleshow/132673678.cms",
-    "time": "2026-07-28T02:37:41.000Z"
   },
   {
     "cat": "Sports",
@@ -711,15 +684,6 @@ const newsData_en = [
     "time": "2026-07-27T17:12:07.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Number of nine-figure income filers quadruples in five years",
-    "desc": "More Indians are reporting nine-figure incomes on tax returns. The number of these high-earners rose to 576 in the 2025-26 assessment year. This figure represents a fourfold increase from five years prior. The government is implementing measures to reduce income inequality. These measures include progressive taxation and increased social spending.",
-    "img": "https://static.toiimg.com/photo/msid-132665544,imgsize-1603596.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rs-100-crore-club-gets-bigger-number-of-nine-figure-income-filers-quadruples-in-five-years/articleshow/132665376.cms",
-    "time": "2026-07-27T15:47:26.000Z"
-  },
-  {
     "cat": "World",
     "title": "Inside the wildfire crisis raging across France and Spain",
     "desc": "The latest wildfire emergency extends beyond France and Spain; Italy evacuated hundreds of people from its Adriatic coast as separate fires swept through Puglia, while Scotland and other Mediterranean countries have also reported significant flare-ups.",
@@ -772,15 +736,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/hindi-film-stars-lend-support-to-protesters/article71261892.ece",
     "time": "2026-07-24T12:20:47.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "As temporary tariffs expire, U.S. imposes 10% ‘forced labour’ tariffs on India",
-    "desc": "The new tariffs are a result of the findings of its investigations on whether the U.S.’ trade partners were doing enough to prevent the import of goods made using forced labour. A separate investigation on excess capacity is pending and could attract further tariffs",
-    "img": "https://th-i.thgim.com/public/incoming/yzfcmu/article71259863.ece/alternates/LANDSCAPE_1200/2026-07-23T205955Z_1910357374_RC2WJMAQWY12_RTRMADP_3_USA-TRUMP.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/us-tarifs-on-goods-imported-from-india/article71259860.ece",
-    "time": "2026-07-24T11:14:03.000Z"
   },
   {
     "cat": "Entertainment",
@@ -898,5 +853,50 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
     "time": "2024-03-11T10:20:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
+    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
+    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
+    "time": "2024-03-11T10:00:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
+    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
+    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
+    "time": "2024-03-11T09:41:17.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Here’s how much the smartphone costs",
+    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
+    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
+    "time": "2024-03-11T09:36:12.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
+    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
+    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
+    "time": "2024-03-11T09:19:46.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Former Activision boss reportedly wants to buy TikTok",
+    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
+    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
+    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
