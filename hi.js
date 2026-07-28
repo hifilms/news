@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India's U19 World Cup final centurion denied bail following match-fixing allegations in LPL",
+    "desc": "Former India Under-19 cricketer, who scored a century in the 2018 final against Australia, and Jaffna Kings co-owner Manjot Kalra will remain in judicial custody after a Colombo court declined his request for early bail in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-s-u19-world-cup-final-centurion-denied-bail-following-match-fixing-allegations-in-lpl-2026-07-28-1049620",
+    "time": "2026-07-28T08:13:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tiger Shroff set for competitive football debut? Bollywood star registers for Durand Cup 2026",
+    "desc": "Bollywood actor Tiger Shroff has been included in Mumbay FC's registered squad for the club's debut Durand Cup campaign. Technical Director Zoheb Khan confirmed that efforts are underway to facilitate his appearance during the tournament. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/tiger-shroff-set-for-competitive-football-debut-bollywood-star-registers-for-durand-cup-2026-2026-07-28-1049608",
+    "time": "2026-07-28T06:53:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Novak Djokovic, Aryna Sabalenka team up for US Open mixed doubles, Swiatek to partner with Ruud",
+    "desc": "Novak Djokovic and Aryna Sabalenka are set to join hands to enter the revamped US Open mixed doubles tournament. The Serbian-Belarusian pairing features among the first batch of teams announced for the event, which was...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-aryna-sabalenka-team-up-for-us-open-mixed-doubles-swiatek-to-partner-with-ruud-2026-07-28-1049602",
+    "time": "2026-07-28T06:09:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tejaswin Shankar can't hold back tears after injury ruled him out of Commonwealth Games",
+    "desc": "Tejaswin Shankar's bid for another Commonwealth Games high jump medal ended abruptly in the early hours of Tuesday in Glasgow. The athlete suffered a recurring knee problem and was forced to withdraw from the event...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/tejaswin-shankar-can-t-hold-back-tears-after-injury-ruled-him-out-of-commonwealth-games-2026-07-28-1049599",
+    "time": "2026-07-28T05:44:26.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India announce squad for Test series against Sri Lanka; Jadeja returns, MP allrounder gets maiden call-up",
     "desc": "The Board of Control for Cricket in India (BCCI) has announced India's squad for the upcoming two-match Test series against Sri Lanka, scheduled to be played in August. Ajit Agarkar-led selection committee has picked a...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/murali-sreeshankar-qualifies-for-men-s-long-jump-final-in-cwg-2026-sajan-prakash-qualifies-for-swimming-final-2026-07-27-1049540",
     "time": "2026-07-27T11:05:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jaffna Kings announce Bangladesh batter as Taskin Ahmed's replacement amid ongoing LPL season",
-    "desc": "In a major development, LPL (Lanka Premier League) franchise Jaffna Kings recently came forward and announced the replacement of Taskin Ahmed in their squad. It is worth noting that Taskin was ruled out of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jaffna-kings-announce-bangladesh-batter-as-taskin-ahmed-s-replacement-amid-ongoing-lpl-season-2026-07-27-1049530",
-    "time": "2026-07-27T10:10:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What is the criteria to win the Ballon d'Or? France Football issues official clarification",
-    "desc": "The Ballon d’Or is undoubtedly the biggest individual award that a professional footballer can win his career. Awarded to the best player of the year, the Ballon d’Or is handed out by France Football magazine...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/what-is-the-criteria-to-win-the-ballon-d-or-france-football-issues-official-clarification-2026-07-27-1049521",
-    "time": "2026-07-27T08:28:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Dream come true': Vaibhav Sooryavanshi opens up on his performance, reflects on winning POTM award",
-    "desc": "The Indian team performed exceptionally well in the third and final T20I against Zimbabwe. Taking on the side at the Harare Sports Club, India managed to register a 35-run victory. At the forefront of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dream-come-true-vaibhav-sooryavanshi-opens-up-on-his-performance-reflects-on-winning-potm-award-2026-07-27-1049516",
-    "time": "2026-07-27T08:04:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Check Commonwealth Games 2026 Day 5 schedule; Where can India shine on July 27?",
-    "desc": "The Commonwealth Games 2026 continues with yet another day of excitement and a plethora of events. July 27 is slated to be a huge day for the event, as it is the day that is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/check-commonwealth-games-2026-day-5-schedule-where-can-india-shine-on-july-27-2026-07-27-1049510",
-    "time": "2026-07-27T07:25:43.000Z"
   }
 ];

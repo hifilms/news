@@ -1,5 +1,77 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "સોના-ચાંદીના ભાવ ધડામ, એક ઝટકે ભાવમાં મોટો કડાકો, જાણો કેરેટ પ્રમાણે સોનાનો આજનો ભાવ",
+    "desc": "સોના અને ચાંદીના ભાવમાં જબરદસ્ત કડાકો જોવા મળ્યો છે. વૈશ્વિક બજારની સાથે સાથે ભારતીય બજારોમાં પણ ભાવ ખુબ ગગડ્યા છે. ત્યારે જાણો વળી પાછા સોનાના ભાવ કેમ પછડાયા અને રિટેલ બજાર તથા વાયદા બજારમાં શું ભાવ ચાલે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-drop-sharply-today-check-mcx-ibja-latest-rates-aaj-no-sona-no-bhav-485988 ",
+    "time": "2026-07-28T08:04:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "જંતર મંતર પ્રોટેસ્ટ પર સુપ્રીમનો આદેશ- 18 વર્ષથી ઓછી વયના વિદ્યાર્થીઓને તરત છોડી મૂકો",
+    "desc": "સીજેપી પ્રોટેસ્ટ દરમિયાન થયેલી હિંસા મામલે થયેલી પોલીસ કાર્યવાહી સંલગ્ન જનહિત અરજીઓ પર સુપ્રીમ કોર્ટમાં સુનાવણી થઈ. સુનાવણી દરમિયાન સીજેઆઈએ પેલેટગનના ઉપયોગ સહિત અનેક મુદ્દાઓનો ઉલ્લેખ કર્યો. પ્રદર્શનકારીઓને કોર્ટે રાહત પણ આપી છે. એફઆઈઆર પર દંડાત્મક કાર્યવાહી પર હાલ રોક લગાવી છે. આ સાથે કેન્દ્ર સહિત 7 રાજ્યોને નોટિસ આપી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/neet-paper-leak-protest-violence-sc-hearing-pleas-alleging-police-excesses-against-students-485979 ",
+    "time": "2026-07-28T07:52:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "₹10 અને ₹20ની પ્લાસ્ટિક નોટ ક્યારે આવશે? સરકારે આપી મંજૂરી, જાણો",
+    "desc": "RBI એ સ્પષ્ટતા કરી છે કે પોલિમર નોટો રજૂ કરવાનો મુખ્ય ઉદ્દેશ્ય નકલી નોટોને રોકવાનો નથી, પરંતુ નોટોનું આયુષ્ય વધારવાનો અને તેમની ગુણવત્તા સુધારવાનો છે. આનાથી લાંબા ગાળે છાપકામ, પરિવહન અને નાશ કરવાનો ખર્ચ પણ ઘટશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/when-will-plastic-notes-of-rs-10-and-rs-20-come-government-has-given-approval-know-485980 ",
+    "time": "2026-07-28T07:25:43.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "CNG ની લાઇનમાં ઊભા રહેવાનું બંધ! આ 5 પેટ્રોલ કાર આપશે 28.65 kmpl સુધીનું ધમાકેદાર માઇલેજ",
+    "desc": "શું તમે પણ નજીકના ભવિષ્યમાં નવી પેટ્રોલ કાર ખરીદવાનો પ્લાન કરી રહ્યાં છો? તો આજે અમે તમને દેશની પાંચ સૌથી વધુ માઇલેજ આપનારી પેટ્રોલ કાર વિશે જણાવીશું. આ કાર શાનદાર ફીચર્સની સાથે માઇલેજમાં પણ દમદાર છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/forget-the-hassle-of-cng-here-are-the-top-5-most-fuel-efficient-petrol-cars-485978 ",
+    "time": "2026-07-28T07:16:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "અમને ગેરંટી આપવામાં આવી, CJPએ કહ્યું: સરકારે સ્વીકારી અમારી વધુ એક માંગણી",
+    "desc": "કોકરોચ જનતા પાર્ટીના પ્રવક્તા સૌરવ દાસે ગઈકાલે મોડી રાત્રે દાવો કર્યો હતો કે સરકારે તેમની માંગણી સ્વીકારી લીધી છે. તેમણે વચન આપ્યું હતું કે સરકાર મંગળવારે વિરોધીઓ સામે દાખલ કરાયેલા તમામ કેસ પાછા ખેંચવાની જાહેરાત કરશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/we-were-given-a-guarantee-cjp-said-the-government-accepted-one-more-of-our-demands-485970 ",
+    "time": "2026-07-28T06:37:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "&amp;#039;નવા જનરેશનની મહિલાઓને કંગનાએ ગણાવી &amp;#039;ગટર છાપ&amp;#039;, કહ્યું- દારૂ, નશો અને અનેક સાથે સંબંધ બનાવવા તેની આઝાદી&amp;#039;",
+    "desc": "ભાજપ સાંસદે કહ્યું- સૌથી શરમજનક વાત તે યુવા હિંદુ મહિલાઓનો વ્યવહાર છે, જે સ્વતંત્ર અને કરિયર બનાવનારી મહિલાઓના જીવનની નકલ કરવા ઈચ્છે છે, પરંતુ તે આઝાદીની સાથે આવતી જવાબદારીઓને નિભાવવા ઈચ્છતી નથી. હકીકતમાં સ્વતંત્ર મહિલાઓ વિદ્રોહી નિર્ણય લે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/bjp-mp-kangana-ranaut-targets-young-women-over-freedom-vs-responsibility-485967 ",
+    "time": "2026-07-28T06:08:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "મેટાની મોટી ચૂક! PM મોદીનો વીડિયો હટાવ્યો, બવાલ વધતા આખરે માંગવી પડી માફી",
+    "desc": "સીજેપી પ્રોટેસ્ટ જે ભારતમાં Gen Zનું પહેલું આંદોલન પણ કહેવાઈ રહ્યું છે તે વખતે પીએમ મોદીએ પેપરલીક પર જે પહેલો વીડિયો મધરાતે સોશિયલ મીડિયા પ્લેટફોર્મ્સ પર શેર કર્યો હતો તે ખુબ વાયરલ થયો હતો. આ વીડિયો ફેસબુકના પ્લેટફોર્મથી અચાનક ગાયબ થઈ જતા હડકંપ મચી ગયો. હવે મેટાએ આ અંગે સ્પષ્ટતા પણ આપી છે. જાણો શું કહ્યું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/after-the-uproar-over-the-removal-of-pm-modi-video-meta-apologizes-485966 ",
+    "time": "2026-07-28T06:08:47.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "મોટી જાહેરાત! 1 શેર પર ₹1,10,717 ડિવિડન્ડ આપશે ટાટા, નેટ પ્રોફિટમાં પણ તોફાની તેજી",
+    "desc": "ટાટા સન્સનો નફો 21.80 ટકા વધ્યો છે. કંપનીએ પ્રતિ શેર 110,717 રૂપિયા ડિવિડન્ડ આપવાનો નિર્ણય લીધો છે. નાણાકીય વર્ષ 2025-26માં, ટાટા ગ્રુપની આવક નાણાકીય વર્ષ 2019-20ની તુલનામાં 2.1 ગણો અને નફો 5.4 ગણો વધ્યો. આ વિવિધ ગ્રુપ કંપનીઓમાં થયેલા સુધારાનું પરિણામ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/tata-announced-dividend-of-rs-110717-on-1-share-sharp-jump-in-net-profit-485965 ",
+    "time": "2026-07-28T06:00:08.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "એક રિક્ષાચાલકના દીકરાએ શરૂ કર્યું એવું જબરદસ્ત અભિયાન, 200થી વધુ શહેરોમાં ફેલાયું",
     "desc": "વર્લ્ડ નેચર કન્ઝર્વેશન દિવસ પર ઝી મીડિયાના \"માય અર્થ માય ડ્યૂટી\" અભિયાનની પ્રથમ કહાની સત્યમ દીક્ષિતની સફર પર પ્રકાશ પાડે છે. તેઓ એક યુવાન એન્વાયરમેન્ટલ ચેન્જમેકર છે, જેમણે વ્યક્તિગત સંઘર્ષોને પર્યાવરણ માટેના મિશનમાં ફેરવ્યા છે.",
@@ -261,42 +333,6 @@ const newsData_gu = [
     "time": "2026-07-26T07:44:09.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "&amp;#039;આ અંત નથી, શરૂઆત છે...&amp;#039; 37 દિવસના વિરોધ પ્રદર્શન પછી, CJP ચીફ સરકાર માટે એક મોટો સંદેશ, કહી આ વાત",
-    "desc": "ધર્મેન્દ્ર પ્રધાનના રાજીનામા અને 37 દિવસના વિદ્યાર્થીઓના વિરોધ પ્રદર્શનના અંત બાદ, CJPના વડા અભિજીત દિપકેએ કહ્યું કે આ લડાઈનો અંત નથી, પરંતુ શરૂઆત છે. ટાઇફોઇડથી પીડિત દિપકેએ સમર્થકો અને ટીકાકારો બંનેનો આભાર માન્યો અને આગળ લાંબા સંઘર્ષ માટે તેમના સંકલ્પનો પુનરોચ્ચાર કર્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/after-37-days-of-protests-cjp-chief-has-a-big-message-for-the-government-saying-this-485773 ",
-    "time": "2026-07-26T05:57:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "&amp;#039;દિલ માંગે મોર&amp;#039; થી લઈને તોલોલિંગ વિજય સુધી... કારગિલ યુદ્ધના તે રિયલ હીરો, જેમને ત્રિરંગો લહેરાવી અને પાકિસ્તાનને ચટાડી ધૂળ",
-    "desc": "1999ના કારગિલ યુદ્ધમાં, ભારતીય વીરોએ શૂન્યથી નીચે ટેમ્પરેચર અને દુર્ગમ પર્વતો વચ્ચે અદમ્ય હિંમત દર્શાવી હતી. કેપ્ટન વિક્રમ બત્રા, સૌરભ કાલિયા, મનોજ પાંડે અને યોગેન્દ્ર યાદવ જેવા બહાદુર યોદ્ધાઓના સર્વોચ્ચ બલિદાન અને બહાદુરીને કારણે, ભારતે ટોલોલિંગ અને ટાઇગર હિલ પર ત્રિરંગો લહેરાવ્યો અને કારગિલ યુદ્ધમાં પાકિસ્તાનને ધુળ ચટાવી. ચાલો કારગિલ યુદ્ધના આ અમર નાયકોની વાર્તાઓ જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/kargil-vijay-diwas-special-the-real-heroes-of-the-kargil-war-who-hoisted-the-tricolor-and-defeated-pakistan-485770 ",
-    "time": "2026-07-26T04:50:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "84 દિવસનું યુદ્ધ અને ભારતની અમર વિજયગાથા: વાંચો 1999ના કારગિલ યુદ્ધની સંપૂર્ણ ટાઈમલાઈન",
-    "desc": "3 મે 1999, આ તે તારીખ છે જ્યારે ભારતને આતંકી બની આવેલા પાકિસ્તાની સૈનિકની ઘૂસણખોરીની માહિતી મળી. કેટલાક સ્થાનિક લોકોએ ભારતીય સેનાને આ વિશે જણાવ્યું હતું. 84 દિવસ ચાલેલા સંઘર્ષ બાદ 26 જુલાઈ, 1999ના ભારતે કારગિલમાં વિજય મેળવ્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/84-days-of-valor-the-timeline-of-indias-triumphant-victory-in-the-1999-kargil-war-485769 ",
-    "time": "2026-07-26T04:22:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ધર્મેન્દ્ર પ્રધાનના રાજીનામા પર અમિત શાહનું પહેલું નિવેદન, જાણો શું કહ્યું",
-    "desc": "ધર્મેન્દ્ર પ્રધાનના રાજીનામા અંગે ગૃહમંત્રી અમિત શાહે કહ્યું કે ભાજપ માટે વિદ્યાર્થીઓના હિત કોઈપણ પદ કરતાં વધુ મહત્વપૂર્ણ છે. તેમણે તેને સિદ્ધાંતનું ઉદાહરણ ગણાવ્યું. સુવેન્દુ અધિકારીએ પણ પોતાનું દુઃખ વ્યક્ત કર્યું, જ્યારે પ્રધાને સ્પષ્ટતા કરી કે તેમણે રાષ્ટ્રવિરોધી શક્તિઓથી પોતાને બચાવવા માટે આ પગલું ભર્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/amit-shahs-first-statement-on-dharmendra-pradhans-resignation-know-what-he-said-485768 ",
-    "time": "2026-07-26T04:00:07.000Z"
-  },
-  {
     "cat": "World",
     "title": "પરમાણુ યુદ્ધના એંધાણ? ઓમાન વાતચીતમાં સહમતી કે સર્જાશે તબાહી? ટ્રમ્પના રડાર પર ઈરાનના 5 ગુપ્ત ઠેકાણા",
     "desc": "જો ઓમાનમાં અમેરિકા-ઈરાન રાજદ્વારી વાતચીત ફેલ જાય, તો ટ્રમ્પ વહીવટીતંત્ર ઈરાનના પરમાણુ માળખાને નષ્ટ કરી શકે છે. પિકાક્સ માઉન્ટેન સહિત પાંચ ગુપ્ત સ્થળો અમેરિકાની હિટ લિસ્ટમાં છે. એક્સપર્ટના મતે, ઈરાનના નવેસરથી પરમાણુ બનાવવાના પ્રયાસો અમેરિકાના બીજા મોટા હુમલાને ઉશ્કેરી શકે છે.",
@@ -322,24 +358,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/us-senator-tim-sheehy-end-h-1b-abuse-act-halt-visa-for-three-years-485749 ",
     "time": "2026-07-25T14:27:27.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "નવા પગાર પંચમાં મળશે સરપ્રાઈઝ... આ કર્મચારીઓ માટે ખુશીના સમાચાર",
-    "desc": "પશ્ચિમ બંગાળ સરકારે 22 જુલાઈના રોજ સત્તાવાર રીતે રાજ્યના 7મા કેન્દ્રીય પગાર પંચ (CPC)ની રચના કરી હતી. મે મહિનામાં પશ્ચિમ બંગાળની ચૂંટણી જીત્યા બાદ ભાજપ સરકારે 7મા પગાર પંચ પેનલની રચનાને મંજૂરી આપી હતી. ઉલ્લેખનીય છે કે, બંગાળમાં હાલ 6ઠ્ઠું પગાર પંચ અમલમાં છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/west-bengal-7th-pay-commission-salary-allowances-benefits-check-full-list-of-tor-485746 ",
-    "time": "2026-07-25T13:34:58.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "દેશનું એકમાત્ર રાજ્ય, જ્યાં લોકોને નથી ભરવો પડતો ઈન્કમ ટેક્સ ! જાણો શું છે કારણ",
-    "desc": "શું તમે જાણો છો કે ભારતમાં એક એવું રાજ્ય છે, જ્યાં રહેતા લોકોને એકપણ રૂપિયો ઈન્કમ ટેક્સ ચૂકવવો પડતો નથી ? ત્યારે આ રાજ્ય કયું છે અને તેને કેમ ખાસ છૂટ આપવામાં આવી છે, તેની પાછળનું કારણ શું છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/sikkim-income-tax-exemption-zero-income-tax-state-in-india-485744 ",
-    "time": "2026-07-25T12:41:37.000Z"
   },
   {
     "cat": "Entertainment",
@@ -610,14 +628,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/budget-friendly-7-seater-cars-from-maruti-to-mahindra-top-spacious-cars-starting-at-5-76-lakh-484679 ",
     "time": "2026-07-15T08:46:49.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "19.4 KM માઇલેજ, સનરૂફ અને 6 એરબેગ! આ કોરિયન SUV ને ખરીદવા પડાપડી, કિંમત માત્ર ₹10.99 લાખ",
-    "desc": "Kia India એ જૂન 2026મા શાનદાર પ્રદર્શન કરતા 24552 કારનું વેચાણ કર્યું છે. સૌથી મોટી સરપ્રાઇઝ Kia Seltos રહી, જેના વેચાણમાં આશરે 85 ટકાનો જબરદસ્ત વધારો થયો. સોનેટે પણ દમદાર પ્રદર્શન કર્યું છે, જ્યારે Carens Clavis અને Carnival ની માંગમાં ઘટાડો જોવા મળ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/kia-india-june-2026-sales-seltos-and-sonet-drive-volume-carens-and-carnival-see-drop-check-model-wise-report-484611 ",
-    "time": "2026-07-14T12:06:12.000Z"
   }
 ];

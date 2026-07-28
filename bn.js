@@ -72,15 +72,6 @@ const newsData_bn = [
     "time": "2026-07-27T10:17:09.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "E20 পেট্রোলে ক্ষোভ! CJP-র পর মাঠে 'ই২০ জনতা পার্টি', নীতিন গডকড়ির পদত্যাগের দাবি",
-    "desc": "সরকারের ই২০ ইথানল মিশ্রিত পেট্রোল নীতির বিরুদ্ধে সোচ্চার হয়েছে নবগঠিত 'ই২০ জনতা পার্টি'। পুরো পেট্রোল বাতিলের বদলে গ্রাহকদের সম্পূর্ণ খাঁটি পেট্রোল কেনার বিকল্প ও স্বচ্ছতার দাবি জানিয়েছে তারা। একইসঙ্গে কেন্দ্রীয় মন্ত্রী নীতিন গডকড়ির পদত্যাগের দাবি তুলে আগামী ৪ আগস্ট দিল্লি ট্যাক্সি অ্যাসোসিয়েশনের সঙ্গে যৌথভাবে সংসদ অভিযানের ডাক দিয়েছে সংগঠনটি।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/e20-janta-party-after-cjp-calls-for-nitin-gadkaris-resignation-grow-as-x-followers-surge_664129.html ",
-    "time": "2026-07-27T06:42:44.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "মাঝরাতে হাওড়া ব্রিজে মণিরত্নমের ক্যামেরা! প্রথমবার পর্দায় সাই পল্লবী-বিজয় সেতুপতি জুটি",
     "desc": "মণিরত্নমের নতুন রোমান্টিক ছবির শ্যুটিং শুরু কলকাতায়। শনিবার মাঝরাত থেকে ভোর পর্যন্ত শহরের ঐতিহ্যবাহী হাওড়া ব্রিজে চলেছে ছবির মূল চিত্রগ্রহণ। এই ছবিতে প্রধান চরিত্রে অভিনয় করছেন দক্ষিণী তারকা সাই পল্লবী এবং বিজয় সেতুপতি। হাওড়া ব্রিজের পাশাপাশি উত্তর কলকাতার বিভিন্ন ঐতিহাসিক স্থানেও এই ছবির শ্যুটিং হবে।",
@@ -88,24 +79,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/mani-ratnam-romantic-movie-shoot-in-kolkata-howrah-bridge-sai-pallavi-vijay-sethupathi_664117.html ",
     "time": "2026-07-27T05:24:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "প্রশ্নফাঁসে আরও কড়া কেন্দ্র! ১০ বছরের কারাদণ্ড, ১০ কোটি টাকা জরিমানা! সংশোধনী বিল আসছে সংসদে",
-    "desc": "কেন এই আইন? কেন্দ্রের দাবি, ২০২৪ সালের আইন কার্যকর করার অভিজ্ঞতায় যে ফাঁকফোকর সামনে এসেছে, তা দূর করতেই এই সংশোধন। সাম্প্রতিক প্রশ্নফাঁসের ঘটনায় দেশ জুড়ে ক্ষোভ, পরীক্ষার্থী ও অভিভাবকদের উদ্বেগ এবং সরকারি পরীক্ষার স্বচ্ছতা নিয়ে তৈরি হওয়া সংশয় কাটাতেই এই উদ্যোগ।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/jail-up-to-10-years-rs-10-cr-fine-for-exam-leak-public-examinations-amendment-bill_664116.html ",
-    "time": "2026-07-27T05:14:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "আধার কার্ডের মূল কারিগর থেকে পরীক্ষা ব্যবস্থার কাণ্ডারী! মোদীর ‘গো-টু টেকনোক্র্যাট’ নিলেকানি কে?",
-    "desc": "ভারতে আধার কার্ড ব্যবস্থার সূচনা থেকে শুরু করে একাধিক গুরুত্বপূর্ণ প্রযুক্তিগত সংস্কারে বারবার যাঁর নাম সামনে এসেছে, তিনি হলেন টেকনোক্র্যাট নন্দন নিলেকানি। দেশের কোটি কোটি শিক্ষার্থীর ভবিষ্যৎ এবং পরীক্ষা ব্যবস্থার ওপর আস্থা ফিরিয়ে আনতে প্রধানমন্ত্রী নরেন্দ্র মোদী গঠিত উচ্চপর্যায়ের টাস্ক ফোর্সের প্রধান হিসেবে আবার তাঁর ওপরই ভরসা রাখল কেন্দ্র সরকার।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/who-is-nandan-nilekani-aadhaar-architect-to-head-exam-reform-task-force_664115.html ",
-    "time": "2026-07-27T04:40:00.000Z"
   },
   {
     "cat": "World",
@@ -250,15 +223,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/mohua-roy-choudhury-biopic-gungun-kore-mohua-ankita-mallick-gaurav-chakraborty_663523.html ",
     "time": "2026-07-22T06:09:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘আমি একদম ফিট!’ হাসপাতালে ভর্তি ও সার্জারির জল্পনা উড়িয়ে ভুল ভাঙালেন খোদ বিগ বি",
-    "desc": "ভুল ভাঙিয়ে নতুন পোস্টে অমিতাভ স্পষ্ট জানান, ফুটবল বিশ্বকাপে আর্জেন্টিনা ও মেসির পরাজয় পরবর্তী মানসিক পরিস্থিতির ব্যাখ্যা দিতে গিয়েই তিনি ওই উদাহরণ ব্যবহার করেছিলেন। তিনি সম্পূর্ণ সুস্থ রয়েছেন এবং খুব শীঘ্রই 'কৌন বনেগা ক্রোড়পতি'র নতুন সিজন নিয়ে ফিরছেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/amitabh-bachchan-clarifies-he-didnt-undergo-surgery-post-was-misunderstood_663519.html ",
-    "time": "2026-07-22T05:26:50.000Z"
   },
   {
     "cat": "World",
