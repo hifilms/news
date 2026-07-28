@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sharmila Dhankar scripts history, bags India's first para athletics gold at Commonwealth Games 2026",
+    "desc": "Sharmila Dhankar scripted one of India's most memorable moments at the 2026 Commonwealth Games by winning the country's first-ever para athletics gold medal in Glasgow. The 40-year-old claimed the top spot in the women's shot...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/sharmila-dhankar-scripts-history-bags-india-s-first-para-athletics-gold-at-commonwealth-games-2026-2026-07-28-1049579",
+    "time": "2026-07-28T01:58:29.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Bindyarani Devi secures India's sixth medal at Commonwealth Games 2026, wins bronze in 58kg weightlifting",
     "desc": "Star weightlifter Bindyarani Devi secured India's sixth medal at the Commonwealth Games 2026 as she won a bronze in the 58kg weightlifting at the Glasgow Games on Monday, July 27. Bindyarani won her second medal...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/arshdeep-singh-makes-relationship-with-actress-samreen-kaur-official-with-instagram-post-check-details-2026-07-27-1049506",
     "time": "2026-07-27T06:34:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "VVS Laxman sings Vaibhav Sooryavanshi's praises after India dominate Zimbabwe to complete clean sweep",
-    "desc": "The Indian team put forth another good showing in the third and final T20I of the series against Zimbabwe. The two sides met at the Harare Sports Club on July 26th, and the Indian team...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vvs-laxman-sings-vaibhav-sooryavanshi-s-praises-after-india-dominate-zimbabwe-to-complete-clean-sweep-2026-07-27-1049497",
-    "time": "2026-07-27T05:12:55.000Z"
   }
 ];
