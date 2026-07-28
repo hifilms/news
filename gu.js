@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "કેન્દ્ર સરકારનો મોટો નિર્ણય! 1 ઓગસ્ટથી ખાંડ ખરીદનારાઓ માટે બદલાઈ જશે આ નિયમો, જાણો",
+    "desc": "કેન્દ્ર સરકારે 1 ઓગસ્ટથી 30 નવેમ્બર 2026 સુધી સમગ્ર દેશમાં ખાંડના વેપારીઓ પર સ્ટોક લિમિટ લાગુ કરી દીધી છે. હવે કોઈ પણ ડીલર 30 દિવસથી વધુ સમય સુધી ખાંડનો સ્ટોક નહીં રાખી શકે અને 4,000 ક્વિન્ટલથી વધારે સંગ્રહ પણ નહીં કરી શકે. આનાથી સંગ્રહખોરી અટકશે અને વધતી કિંમતો પર રોક લાગશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/big-decision-of-the-central-government-these-rules-will-change-for-sugar-buyers-from-august-1-know-486042 ",
+    "time": "2026-07-28T18:05:54.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "માત્ર 799 રૂપિયામાં બુક કરો 260KM રેન્જવાળી નવી ઈલેક્ટ્રિક બાઈક! ગુજરાતની આ કંપનીએ લોન્ચ કર્યા 3 દમદાર મોડેલ",
     "desc": "ભારતના EV માર્કેટમાં નવી ઇલેક્ટ્રિક બાઇકની એન્ટ્રી થઈ છે. તેને માત્ર 799 રૂપિયા આપીને બુક કરી શકાય છે. જ્યારે કંપનીનો દાવો છે કે, એક વખત ચાર્જ કર્યા બાદ આ બાઈક 260 કિમી સુધીની રેન્જ આપે છે.",
@@ -286,15 +295,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/when-and-where-will-team-india-play-now-new-tour-in-15-days-know-the-schedule-485862 ",
     "time": "2026-07-27T05:26:18.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ધડાકાભેર ઘટાડા બાદ સોનામાં ફરી તેજી, સવારે જ થયો મોટો ઉછાળો, જાણો આજનો ભાવ",
-    "desc": "જૂન ક્વાર્ટર દરમિયાન સોનાની કિંમતમાં મોટો ઘટાડો જોવા મળ્યો હતો. પરંતુ હવે અમેરિકા અને ઈરાન વચ્ચેના યુદ્ધ વચ્ચે ચીને મધ્યસ્થીની પહેલ કરી છે. આ પછી, અમેરિકાથી હુમલા બંધ થઈ ગયા છે અને સોનાની કિંમત ફરી વધી રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/after-a-huge-decline-gold-rebounded-where-did-the-price-reach-today-after-the-early-morning-surge-find-out-485858 ",
-    "time": "2026-07-27T04:20:35.000Z"
   },
   {
     "cat": "Politics",

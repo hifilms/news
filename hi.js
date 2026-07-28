@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Preeti Pawar, Priya Ghanghas assure India of boxing medals at Commonwealth Games 2026",
+    "desc": "Boxers Preeti Pawar and Priya Ghanghas assured India of two more medals at the Commonwealth Games 2026 after winning their respective quarterfinal bouts in Glasgow on Tuesday, July 28. Preeti, the Asian Games bronze medallist,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/preeti-pawar-priya-ghanghas-assure-india-of-medals-at-commonwealth-games-2026-2026-07-28-1049681",
+    "time": "2026-07-28T17:57:44.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'I am not able to focus properly at Commonwealth Games': Lovlina appeals for help in Assam floods",
     "desc": "Shaken by the devastating floods in her home state, Assam, Olympic medallist Lovlina Borgohain stated that she is not able to \"focus properly\" at the ongoing Commonwealth Games in Glasgow. The boxer appealed for help...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-s-u19-world-cup-final-centurion-denied-bail-following-match-fixing-allegations-in-lpl-2026-07-28-1049620",
     "time": "2026-07-28T08:13:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tiger Shroff set for competitive football debut? Bollywood star registers for Durand Cup 2026",
-    "desc": "Bollywood actor Tiger Shroff has been included in Mumbay FC's registered squad for the club's debut Durand Cup campaign. Technical Director Zoheb Khan confirmed that efforts are underway to facilitate his appearance during the tournament. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/tiger-shroff-set-for-competitive-football-debut-bollywood-star-registers-for-durand-cup-2026-2026-07-28-1049608",
-    "time": "2026-07-28T06:53:58.000Z"
   }
 ];

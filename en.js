@@ -1,12 +1,174 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Student protest shattered BJP's 'Hindu-Muslim' narratives, says AAP MP",
-    "desc": "Congress MP K.C. Venugopal said that if govt is not sincere, no new legislation can serve any purpose; who gave orders to fire pellet guns on students, asked Priyanka Gandhi in Lok Sabha; Rajya Sabha adjourned for the day",
+    "title": "'Every possible measure must be taken': Shipping minister Sarbananda Sonowal says no Indian seafarer should be caught in crossfire",
+    "desc": "Indian shipping minister directed officials to safeguard seafarers from geopolitical conflicts. The government prioritizes the safety and welfare of Indian mariners serving on merchant vessels. Officials reviewed security situations and diplomatic mission preparedness in conflict zones. A union reported Indian sailors trapped in a Ukrainian port facing drone attacks. Mental health support and pre-departure risk awareness programs were also emphasized.",
+    "img": "https://static.toiimg.com/photo/msid-132693431,imgsize-1390185.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/every-possible-measure-must-be-taken-shipping-minister-sarbananda-sonowal-says-no-indian-seafarer-should-be-caught-in-crossfire/articleshow/132693322.cms",
+    "time": "2026-07-28T18:50:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'I regret it': Mehbooba Mufti claims Jantar Mantar remark a slip of tongue, apologises",
+    "desc": "Mehbooba Mufti apologized for her Jantar Mantar remark which appeared to justify force in Kashmir. She claimed the controversial statement was a slip of tongue and a misinterpretation. The PDP president stated that her words were taken out of context by political rivals. Governing NC rejected her apology and clarification, demanding a clear response. The party also asked her to apologize for her alliance with the BJP.",
+    "img": "https://static.toiimg.com/photo/msid-132693251,imgsize-181204.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/i-regret-it-mehbooba-mufti-claims-jantar-mantar-remark-a-slip-of-tongue-apologises/articleshow/132693157.cms",
+    "time": "2026-07-28T18:41:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ten Doeschate departs from India’s coaching staff",
+    "desc": "The Dutchman is understood to have formally tendered his resignation following the conclusion of India’s limited-overs tour of England last week, drawing the curtains on a tenure that saw him work across formats during a period of transition in Indian cricket",
+    "img": "https://th-i.thgim.com/public/incoming/1fpeqn/article71278591.ece/alternates/LANDSCAPE_1200/DSC_4850.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ten-doeschate-departs-from-indias-coaching-staff/article71277602.ece",
+    "time": "2026-07-28T18:37:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Army duo hurt in Uri accidental blast",
+    "desc": "Two Army jawans sustained injuries from an accidental blast near the Line of Control. The incident occurred in the Kamalkote area of Uri sector on Tuesday. Both injured soldiers were promptly transported to the Army Base Hospital in Badamibagh. Medical officials confirmed that both soldiers are currently in stable condition. There is no immediate threat to the lives of the injured personnel.",
+    "img": "https://static.toiimg.com/photo/msid-132693141,imgsize-142398.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-army-duo-hurt-in-uri-accidental-blast/articleshow/132693113.cms",
+    "time": "2026-07-28T18:37:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘It hurts to remember’: Blind since 14, J&amp;K pellet survivor searches for tomorrow",
+    "desc": "Insha Mushtaq lost her sight to pellet guns during 2016 Kashmir unrest. She now pursues education and a government job despite her visual impairment. Recent protests in Delhi have reopened old wounds for her. Pellet guns, introduced as non-lethal, caused hundreds of eye injuries in Kashmir. Her story highlights the lasting impact of these weapons on individuals.",
+    "img": "https://static.toiimg.com/photo/msid-132693033,imgsize-73930.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/it-hurts-to-remember-blind-since-14-jk-pellet-survivor-searches-for-tomorrow/articleshow/132692667.cms",
+    "time": "2026-07-28T18:33:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bus with Amarnath pilgrims slips into gorge, 39 hurt",
+    "desc": "Thirty-nine Amarnath pilgrims were injured when their bus fell into a gorge. The bus skidded off the road in Ganiwan, Ganderbal district, on Tuesday morning. A house broke the fall, preventing a more severe tragedy for the pilgrims. Injured devotees were moved to SKIMS in Soura for medical treatment. Lieutenant Governor Manoj Sinha assured best possible care and safe return arrangements.",
+    "img": "https://static.toiimg.com/photo/msid-132692417,imgsize-123878.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-bus-with-amarnath-pilgrims-slips-into-gorge-39-hurt/articleshow/132692306.cms",
+    "time": "2026-07-28T18:09:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Lok Sabha debates anti-paper leak Bill; punishment not enough deterrence, say Opposition MPs",
+    "desc": "Opposition asks for accountability for the use of force on protestors during CJP's Parliament March; VCK MP Thol. Thirumavalavan demands the abolition of the NEET exam and calls for the dismantling of National Testing Agency (NTA); Rajya Sabha adjourned for the seventh day without taking up any major agenda in the list of business",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/parliament-monsoon-lok-sabha-live-updates-2026-july-28-2026-exam-amendment-bill-news/article71275442.ece",
-    "time": "2026-07-28T16:24:56.000Z"
+    "time": "2026-07-28T18:07:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kangana hits back at Saurav after his response to 'Generation Gutter'",
+    "desc": "BJP MP and actress Kangana Ranaut has once again targeted the Cockroach Janata Party (CJP), this time responding to the outfit's spokesperson Saurav Das after his criticism of her remarks on Gen Z protesters. Kangana's reaction came after Saurav Das criticised her comments against Gen Z protesters, including her description of the younger generation as \"Generation Gutter\".",
+    "img": "https://static.toiimg.com/photo/msid-132691957,imgsize-88760.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-hits-back-at-cjps-saurav-das-after-his-response-to-her-generation-gutter-remark-calls-him-useless-says-i-had-2-national-awards-at-his-age/articleshow/132691800.cms",
+    "time": "2026-07-28T17:58:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Union",
+    "desc": "Repeated drone and missile attacks are being attempted in the immediate vicinity of the vessel and the crew is living under constant fear of a direct hit at any moment, FSUI said in a post on X",
+    "img": "https://th-i.thgim.com/public/news/national/bgfp0g/article71278523.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-28%20at%2023.11.35.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/indian-seafarers-trapped-near-ukraine-black-sea-ship-attack/article71278526.ece",
+    "time": "2026-07-28T17:52:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Long-term MoUs between Sanchari Cauvery, apartments to counter skyrocketing water tanker prices",
+    "desc": "Many apartment communities that had come out of the dependence on private water tankers after Cauvery V Stage being commissioned in 2024 are being coerced into signing long-term contracts of two years with private water tanker businesses to get water.",
+    "img": "https://th-i.thgim.com/public/incoming/7gw8q3/article71278509.ece/alternates/LANDSCAPE_1200/Nearly-1200-apGO2F4RKR4.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/long-term-mous-between-sanchari-cauvery-apartments-to-counter-skyrocketing-water-tanker-prices/article71278092.ece",
+    "time": "2026-07-28T17:38:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'It is not FIFA's to sell': UEFA blasts Infantino's $20 billion World Cup plan",
+    "desc": "UEFA strongly criticises FIFA's ambitious plan to create a new commercial company. This new entity aims to manage major football tournaments and seek private investment. UEFA declares that football's governing institutions have crossed a dangerous and unacceptable line. The European body questions the transparency and governance of this significant proposal. FIFA defends the plan, stating it will strengthen global football.",
+    "img": "https://static.toiimg.com/photo/msid-132690421,imgsize-125834.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/it-is-not-fifas-to-sell-uefa-blasts-infantinos-20-billion-world-cup-plan-says-none-of-us-are-the-owners-of-football/articleshow/132690307.cms",
+    "time": "2026-07-28T17:04:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Vijay’s proposed visit to Bengaluru kindles public curiosity about similar missions in the mid-1980s",
+    "desc": "In January and February 1986 and 1987, Chief Minister M.G. Ramachandran despatched his Ministers to Bengaluru to meet their counterparts and Karnataka Chief Minister Ramakrishna Hegde and persuade them to release water for saving the paddy crop raised during the long-term samba cultivation season",
+    "img": "https://th-i.thgim.com/public/incoming/wti1vx/article71278371.ece/alternates/LANDSCAPE_1200/HG_4352-001.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/vijays-proposed-visit-to-bengaluru-kindles-public-curiosity-about-similar-missions-in-the-mid-1980s/article71278048.ece",
+    "time": "2026-07-28T16:53:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Pleas in Supreme Court allege illegal detentions by Delhi and Bihar police",
+    "desc": "Volunteer who distributed food and water to protesters at Jantar Mantar and his friend allege that police seized their phones, blindfolded them and questioned them at an undisclosed location over the ‘source of funds’; law student held without arrest warrant still in Bihar police custody",
+    "img": "https://th-i.thgim.com/public/incoming/3fluv1/article71278394.ece/alternates/LANDSCAPE_1200/Cockroach%20Janta%20Party%20CJP%20Protest%20Delhi%2011.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/pleas-in-supreme-court-allege-illegal-detentions-by-delhi-and-bihar-police/article71276975.ece",
+    "time": "2026-07-28T16:52:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "After SC order, West Bengal govt says no action against NEET protesters, except those with criminal records",
+    "desc": "West Bengal will not take coercive action against students protesting the NEET paper leak. This relief excludes individuals with prior criminal records, aligning with Supreme Court directives. Several BJP-led states, including Bihar and Assam, have already withdrawn cases against protesters. Maharashtra's chief minister also ordered the withdrawal of cases against student demonstrators. The Cockroach Janta Party awaits further action on their demands.",
+    "img": "https://static.toiimg.com/photo/msid-132690119,imgsize-342090.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/after-sc-order-west-bengal-govt-says-no-action-against-neet-protesters-except-those-with-criminal-records/articleshow/132690055.cms",
+    "time": "2026-07-28T16:50:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pratika Rawal set for County Cricket debut, joins Warwickshire for One-Day Cup",
+    "desc": "Indian batter Pratika Rawal joins Warwickshire Bears for the 2026 season. She will strengthen the team's batting in the Metro Bank One-Day Cup. Rawal returns to cricket after recovering from a knee injury. Warwickshire aims for the tournament's knockout stage with her addition. She expressed excitement for county cricket and playing at Edgbaston.",
+    "img": "https://static.toiimg.com/photo/msid-132690060,imgsize-26390.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-opener-pratika-rawal-set-for-county-cricket-debut-joins-warwickshire-for-one-day-cup/articleshow/132689971.cms",
+    "time": "2026-07-28T16:50:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Centre reissues notification on Western Ghats eco-sensitive zone amid deadlock with States",
+    "desc": "Govt. yet to resolve long-standing differences with the six Western Ghats States over the villages and regions that should be included within the zone; States apprehensive about the impact of the notification on farming, infrastructure and other development activities",
+    "img": "https://th-i.thgim.com/public/incoming/gm55bo/article71277751.ece/alternates/LANDSCAPE_1200/Western_Ghats02.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/centre-reissues-notification-on-western-ghats-eco-sensitive-zone-amid-deadlock-with-states/article71277625.ece",
+    "time": "2026-07-28T16:49:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kochi Corporation among communicable disease hotspots",
+    "desc": "As many as 83 dengue cases, 78 hepatitis A cases and 26 H1N1 cases were reported within the Corporation limits between January and June; authorities intensify preventive measures, including source reduction, to curb the spread",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kochi-corporation-among-communicable-disease-hotspots/article71277748.ece",
+    "time": "2026-07-28T16:43:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "De calls Salman's Wangchuk post 'cringe', slams Kangana, Hema, Anupam",
+    "desc": "Author and columnist Shobhaa De has sparked a fresh debate with her latest column, where she criticised Bollywood's response to the Cockroach Janta Party (CJP) protests and questioned whether celebrities still understand the mood of India's Gen Z audience. De specifically addressed Salman Khan's social media message to activist Sonam Wangchuk, while also taking aim at comments made by Kangana Ranaut, Hema Malini and Anupam Kher during the youth-led movement.",
+    "img": "https://static.toiimg.com/photo/msid-132689935,imgsize-102498.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shobhaa-de-calls-salman-khans-sonam-wangchuk-post-cringe-criticises-kangana-ranaut-hema-malini-and-anupam-kher-over-cjp-protest-comments/articleshow/132689851.cms",
+    "time": "2026-07-28T16:41:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cricket club under fire after 'Clicky Ponting' finger-click cheating claim goes viral",
+    "desc": "An amateur cricket match has sparked controversy over alleged umpire deception. A fielder reportedly clicked his fingers to simulate an edge off the bat. This incident has led to a formal investigation by the league officials. Other similar allegations have also surfaced against the same club. The league is now examining the dismissals for deliberate deception.",
+    "img": "https://static.toiimg.com/photo/msid-132689593,imgsize-85790.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/english-cricket-club-under-fire-after-clicky-ponting-finger-click-cheating-claim-goes-viral/articleshow/132689463.cms",
+    "time": "2026-07-28T16:28:40.000Z"
   },
   {
     "cat": "Politics",
@@ -45,15 +207,6 @@ const newsData_en = [
     "time": "2026-07-28T15:50:47.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Naidu directs comprehensive support for farmers in A.P. amid El Niño threat",
-    "desc": "Chief Minister tells officials to establish a dedicated El Niño Control Room for continuous monitoring and scientific advisories through Rythu Seva Kendras; says every cultivated crop must be covered under crop insurance, for which Collectors have to take responsibility",
-    "img": "https://th-i.thgim.com/public/incoming/hr6doh/article71278183.ece/alternates/LANDSCAPE_1200/27NearbyOng1_GIGQHGAFCLO.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-directs-comprehensive-support-for-farmers-in-ap-amid-el-nino-threat/article71277756.ece",
-    "time": "2026-07-28T15:50:31.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Air India’s FY26 losses more than double to ₹22,238 crore, turnaround deadline extended",
     "desc": "The turnaround which was planned as a five-year programme under the Vihaan.AI strategy, could now extend to up to a decade, says chief of Tata Sons whose board recommended a final dividend of ₹ 1,10,717 per share",
@@ -70,33 +223,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/from-farmers-son-to-ias-officer-meet-prathap-murugan-whose-groundwater-revival-mission-with-1200-abandoned-borewells-won-r-madhavans-praise/articleshow/132688477.cms",
     "time": "2026-07-28T15:37:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Nellore district targets 50% green cover by 2047",
-    "desc": "District Collector directs all departments to collect details on vacant government lands for plantation, proposals for establishing school nurseries, areas for ‘Vanamahotsav’ plantations, sites for developing palm groves, and areas appropriate for ‘Great Green Wall’ initiative",
-    "img": "https://th-i.thgim.com/public/incoming/gu4evn/article71278070.ece/alternates/LANDSCAPE_1200/10745_28_7_2026_19_22_24_1_IMG_20260728_WA0052.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/nellore-district-targets-50-green-cover-by-2047/article71277563.ece",
-    "time": "2026-07-28T15:34:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "M.S. Swaminathan Research Foundation, civic bodies ink pact on solid waste management, public health project",
-    "desc": "Clean Land, Equitable Air & Resilience (CLEAR) is a four-year transdisciplinary action research programme, which aims to generate environmental and public health data to strengthen waste management systems and health system responses to waste-driven climate risks",
-    "img": "https://th-i.thgim.com/public/incoming/ww9y15/article71277880.ece/alternates/LANDSCAPE_1200/4871_28_7_2026_16_0_7_1_DSC_9558.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/chennai/ms-swaminathan-research-foundation-civic-bodies-ink-pact-on-solid-waste-management-public-health-project/article71277618.ece",
-    "time": "2026-07-28T15:32:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM needs to change angle of his heart, not angle of cameras: Priyanka in Lok Sabha",
-    "desc": "Slamming the government for using force against the protesting students, Priyanka Gandhi Vadra said PM Modi and Home Minister Amit Shah must answer as to who authorised the use of \"pellet guns\" and \"AK-47s\" on protesting students",
-    "img": "https://th-i.thgim.com/public/incoming/9hzhg6/article71277125.ece/alternates/LANDSCAPE_1200/20260728397L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/pm-needs-to-change-angle-of-his-heart-not-angle-of-cameras-priyanka-in-lok-sabha/article71277082.ece",
-    "time": "2026-07-28T15:26:26.000Z"
   },
   {
     "cat": "Sports",
@@ -252,15 +378,6 @@ const newsData_en = [
     "time": "2026-07-28T12:09:46.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'His personal thoughts': RSS distances itself from Kerala right-wing activist over Delhi student protest remarks",
-    "desc": "The Rashtriya Swayamsevak Sangh has distanced itself from TG Mohandas's recent comments. Mohandas is not an official office-bearer of the organization at any level. His remarks on student protesters were described as personal thoughts and condemned. These comments had triggered widespread protests and outrage on social media platforms. A police complaint was filed alleging Mohandas called for protesters to be shot.",
-    "img": "https://static.toiimg.com/photo/msid-132683861,imgsize-84365.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/his-personal-thoughts-rss-distances-itself-from-kerala-right-wing-activist-over-delhi-student-protest-remarks/articleshow/132683875.cms",
-    "time": "2026-07-28T12:06:39.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Industrial production posts strong growth; rises by 7.3% in June",
     "desc": "According to the NSO, the IIP growth rate accelerated to 7.3% in June 2026 from the quick estimate of 5% reported for May 2026. The revised estimate for May has since been lowered marginally to 5% from 5.1%.",
@@ -369,15 +486,6 @@ const newsData_en = [
     "time": "2026-07-28T09:56:51.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Milestone legislation' vs 'Pradhan saved Pradhan Mantri': Centre, Oppn clash as Lok Sabha debates new anti-paper leak bill",
-    "desc": "The Lok Sabha is discussing a proposed amendment to the anti-paper leak law. This legislation aims to strengthen safeguards against examination fraud following the NEET exam leak. Union minister Jitendra Singh introduced the bill, reaffirming government commitment to student welfare. Congress criticized the government's response and the handling of student protests. The opposition also questioned the prioritization of social media over education reforms.",
-    "img": "https://static.toiimg.com/photo/msid-132681169,imgsize-204963.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/milestone-legislation-vs-did-pradhan-fight-pakistan-centre-oppn-clash-as-lok-sabha-debates-new-anti-paper-leak-bill-top-developments/articleshow/132680306.cms",
-    "time": "2026-07-28T09:53:55.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Anushka Sharma and Virat Kohli buy Rs 18.29 crore Versova home after Vrindavan visit",
     "desc": "Anushka Sharma and Virat Kohli have expanded their real estate portfolio with a Rs 18.29 crore sea-facing apartment in Mumbai's Versova, in the same Godrej Skyshore project where actor Tabu also owns a flat. The purchase adds to the couple's growing list of premium properties across Mumbai, Gurugram and Alibaug. The news comes days after Anushka and Virat's latest visit to Premanand Maharaj's ashram in Vrindavan.",
@@ -396,33 +504,6 @@ const newsData_en = [
     "time": "2026-07-28T09:47:47.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Batwara 1947' trailer: Sunny Deol's fierce avatar revisits the horrors of partition",
-    "desc": "The highly anticipated trailer for 'Batwara 1947' has debuted, showcasing the profound human impact of the 1947 Partition. Starring Sunny Deol, this historical drama intertwines poignant personal narratives with the broader context of loss and resilience experienced during that era. Featuring powerful performances by Shabana Azmi and Preity Zinta, this Aamir Khan Production, helmed by Rajkumar Santoshi, is set to release on August 14, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-132680002,imgsize-159946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/batwara-1947-trailer-out-sunny-deols-fierce-avatar-shabana-azmis-emotional-presence-and-preity-zintas-performance-revisit-the-horrors-of-partition/articleshow/132679875.cms",
-    "time": "2026-07-28T09:27:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shilpa Shetty rejects viral reservation post",
-    "desc": "Shilpa Shetty has denied a viral social media post about reservation falsely attributed to her. The fabricated screenshot claimed she made controversial remarks regarding caste-based reservations. Shetty clarified on X that the statement was malicious and completely fabricated. She urged the public not to believe misinformation circulated in her name. Fans supported her clarification and advised verifying information before sharing.",
-    "img": "https://static.toiimg.com/photo/msid-132680486,imgsize-393051.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shilpa-shetty-rejects-viral-reservation-post-says-i-am-shocked-to-see-fake-statements-attached-to-my-name/articleshow/132680524.cms",
-    "time": "2026-07-28T09:25:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How Saransh Jain's 'round the wicket' switch paved the way for India call-up",
-    "desc": "Saransh Jain earned his maiden Test call-up after consistent domestic performances. Coach Chandrakant Pandit championed his inclusion, believing in his talent for years. Jain's strong red-ball record with bat and ball impressed selectors. A technical adjustment by Pandit significantly enhanced his bowling effectiveness. Jain's dedication and focus on red-ball cricket set him apart.",
-    "img": "https://static.toiimg.com/photo/msid-132680485,imgsize-1079318.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/how-saransh-jains-round-the-wicket-switch-paved-the-way-for-india-call-up/articleshow/132680428.cms",
-    "time": "2026-07-28T09:24:52.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Can using E20 petrol lead to insurance claim rejection? What the government said",
     "desc": "The Ministry of Petroleum and Natural Gas clarified E20 petrol use is not a valid reason for insurance claim rejection. Government sources have dismissed claims that using E20 fuel will invalidate vehicle insurance policies. Assertions about widespread engine damage or insect attraction from ethanol-blended petrol lack scientific basis. The Ethanol Blending Programme is scientifically validated and implemented with industry consultation.",
@@ -430,15 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/can-using-e20-petrol-lead-to-insurance-claim-rejection-what-the-government-said/articleshow/132678098.cms",
     "time": "2026-07-28T09:08:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Not reasonable, issue far from settled': Govt rejects Meta's explanation on brief removal of PM Modi's Facebook video",
-    "desc": "The Centre finds Meta's explanation for Prime Minister Modi's post removal unsatisfactory. Government sources stated the issue requires deeper discussions with the social media company. Meta's response was deemed unreasonable by officials after the post was briefly unavailable. The ministry summoned Meta's global head of public policy regarding the incident. Discussions with Meta will continue as the matter is far from settled.",
-    "img": "https://static.toiimg.com/photo/msid-132679810,imgsize-739579.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/not-reasonable-issue-far-from-settled-govt-rejects-metas-explanation-on-brief-removal-of-pm-modis-facebook-video/articleshow/132679518.cms",
-    "time": "2026-07-28T08:55:15.000Z"
   },
   {
     "cat": "Sports",
@@ -532,15 +604,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Djokovic teams up with Sabalenka for revamped US Open mixed doubles",
-    "desc": "Aryna Sabalenka and Novak Djokovic headline the initial 16 teams entered for the revamped US Open mixed doubles championship, which offers a $1 million prize. Defending champions Sara Errani and Andrea Vavassori return, while Iga Swiatek, Casper Ruud and Naomi Osaka are also among the entries. The main draw will be played on August 25",
-    "img": "https://static.toiimg.com/photo/msid-132675930,imgsize-124500.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/tennis-legend-novak-djokovic-teams-up-with-aryna-sabalenka-for-revamped-us-open-mixed-doubles/articleshow/132675377.cms",
-    "time": "2026-07-28T05:14:14.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "'If he gets his length right': McGrath backs one pacer as Bumrah's long-term partner",
     "desc": "Glenn McGrath believes Prasidh Krishna possesses the necessary qualities to partner Jasprit Bumrah. He notes Krishna has matured and transformed potential into consistent performances. India is preparing for a demanding white-ball cricket schedule and needs strong pace attacks. McGrath also highlighted the importance of workload management for bowlers like Bumrah. He advocates for strengthening bowlers rather than overprotecting them after injuries.",
     "img": "https://static.toiimg.com/photo/msid-132675891,imgsize-251696.cms",
@@ -610,15 +673,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-medal-table-where-does-india-stand-after-six-medals-on-day-5-of-action-in-glasgow/articleshow/132673178.cms",
     "time": "2026-07-28T01:27:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sharmila claims India's first-ever para-athletics gold, headlines six-medal haul",
-    "desc": "India enjoyed a memorable day at the Commonwealth Games as Sharmila Dhankar became the country's first-ever para-athletics gold medallist, while Sarvesh Kushare, Valluri Ajaya Babu and Gyaneshwari Yadav won silver medals. Bindyarani Devi added bronze, Indian boxers advanced to the quarterfinals, but athletics and swimming saw mixed results, with Gurindervir Singh and Tejas Shirse enduring disappointing outings.",
-    "img": "https://static.toiimg.com/photo/msid-132673135,imgsize-115500.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-day-5-sharmila-dhankar-claims-indias-first-ever-para-athletics-gold-headlines-six-medal-haul/articleshow/132673046.cms",
-    "time": "2026-07-28T01:05:39.000Z"
   },
   {
     "cat": "Business",
@@ -844,59 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
     "time": "2024-03-12T09:45:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
-    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
-    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
-    "time": "2024-03-11T09:41:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Here’s how much the smartphone costs",
-    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
-    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
-    "time": "2024-03-11T09:36:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
-    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
-    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
-    "time": "2024-03-11T09:19:46.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Former Activision boss reportedly wants to buy TikTok",
-    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
-    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
-    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
