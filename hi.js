@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Rejuvenated Ireland announce squad for Afghanistan series, Paul Stirling returns as captain",
+    "desc": "Ireland have announced their 14-man squad for the five-match ODI series against Afghanistan, starting Wednesday, August 5. The series will see the return of Paul Stirling, who was forced to sit out the marquee India...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rejuvenated-ireland-announce-squad-for-afghanistan-series-paul-stirling-returns-as-captain-2026-07-28-1049658",
+    "time": "2026-07-28T13:33:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India wins bronze in ISSF World Cup mixed doubles through Sonam Uttam Maskar, Himanshu Dhillon",
+    "desc": "India added another medal to its tally at the ISSF World Cup Rifle/Pistol/Shotgun in Hangzhou. Sonam Uttam Maskar and Himanshu Dhillon claimed bronze in the 10m Air Rifle Mixed Team event with a strong display...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/india-wins-bronze-in-issf-world-cup-mixed-doubles-through-sonam-uttam-maskar-himanshu-dhillon-2026-07-28-1049651",
+    "time": "2026-07-28T12:41:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India coach steps down ahead of Sri Lanka series, set to join Kolkata Knight Riders in IPL 2027",
+    "desc": "Ryan ten Doeschate has stepped down as assistant coach of the India men's cricket team. Earlier in the year, the former Netherlands cricketer issued a statement, confirming his desire to step aside after not being...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-coach-steps-down-ahead-of-sri-lanka-series-set-to-join-kolkata-knight-riders-in-ipl-2027-2026-07-28-1049644",
+    "time": "2026-07-28T11:32:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cricketers pause match, rush to help people after wildfire breaks out near stadium",
+    "desc": "Cricket has witnessed some bizarre interruptions over the years, from bee swarms and solar eclipses to a car parked on the pitch and even the death of King George VI in England in 1951. Now,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/cricketers-pause-match-rush-to-help-people-after-wildfire-breaks-out-near-stadium-2026-07-28-1049640",
+    "time": "2026-07-28T11:13:58.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Zinedine Zidane appointed as new France head coach after Didier Deschamps calls it quits after 14 years",
     "desc": "Zinedine Zidane has been appointed as the new head coach of the France national team. He takes over the charge after Didier Deschamps brought an end to his 14-year tenure following France’s semi-final elimination at...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/tejaswin-shankar-can-t-hold-back-tears-after-injury-ruled-him-out-of-commonwealth-games-2026-07-28-1049599",
     "time": "2026-07-28T05:44:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India announce squad for Test series against Sri Lanka; Jadeja returns, MP allrounder gets maiden call-up",
-    "desc": "The Board of Control for Cricket in India (BCCI) has announced India's squad for the upcoming two-match Test series against Sri Lanka, scheduled to be played in August. Ajit Agarkar-led selection committee has picked a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-announce-squad-for-test-series-against-sri-lanka-jadeja-returns-mp-allrounder-gets-maiden-call-up-2026-07-28-1049592",
-    "time": "2026-07-28T04:11:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sharmila Dhankar scripts history, bags India's first para athletics gold at Commonwealth Games 2026",
-    "desc": "Sharmila Dhankar scripted one of India's most memorable moments at the 2026 Commonwealth Games by winning the country's first-ever para athletics gold medal in Glasgow. The 40-year-old claimed the top spot in the women's shot...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/sharmila-dhankar-scripts-history-bags-india-s-first-para-athletics-gold-at-commonwealth-games-2026-2026-07-28-1049579",
-    "time": "2026-07-28T01:58:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bindyarani Devi secures India's sixth medal at Commonwealth Games 2026, wins bronze in 58kg weightlifting",
-    "desc": "Star weightlifter Bindyarani Devi secured India's sixth medal at the Commonwealth Games 2026 as she won a bronze in the 58kg weightlifting at the Glasgow Games on Monday, July 27. Bindyarani won her second medal...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/bindyarani-devi-secures-indias-sixth-medal-at-commonwealth-games-2026-wins-bronze-in-58kg-weightlifting-2026-07-27-1049568",
-    "time": "2026-07-27T16:29:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gyaneshwari Yadav clinches silver in 53kg weightlifting at Commonwealth Games 2026",
-    "desc": "Gyaneshwari Yadav won the silver medal in the 53 kg weightlifting event, bringing home the fifth medal for the Indian contingent at the Commonwealth Games 2026. It is interesting to note that Gyaneshwari remained in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/gyaneshwari-yadav-clinches-silver-in-53kg-weightlifting-at-commonwealth-games-2026-2026-07-27-1049562",
-    "time": "2026-07-27T13:47:00.000Z"
   }
 ];

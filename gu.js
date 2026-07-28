@@ -1,21 +1,57 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "દિલ્હી કે પછી ચેન્નાઈ... કઈ ટીમમાં થશે હાર્દિક પંડ્યાની એન્ટ્રી? પૂર્વ ભારતીય દિગ્ગજે કર્યા મોટા ખુલાસા!",
+    "desc": "દિલ્હી કેપિટલ્સની ટીમે ઓક્શન પહેલા જ ટ્રેડમાં રિષભ પંતને પોતાની સાથે જોડવામાં સફળતા મેળવી છે. હવે એવા રિપોર્ટ છે કે, પંત પછી દિલ્હીની નજર મુંબઈના કેપ્ટન હાર્દિક પંડ્યા પર છે. દિલ્હી અને મુંબઈ વચ્ચે હાર્દિક પંડ્યાના ટ્રેડને લઈને વાતચીત ચાલી રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ipl-trade-delhi-or-chennai-which-team-will-hardik-pandya-enter-former-indian-legend-made-a-big-revelation-486024 ",
+    "time": "2026-07-28T13:18:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "હવે રસોઈ ગેસની ચિંતા થશે દૂર, LPGને લઈને સરકારનો મોટો નિર્ણય! મધ્ય પૂર્વના યુદ્ધના ખતરા વચ્ચે ભારતનો પાવર પ્લાન",
+    "desc": "ભારત સરકારે રસોઈ ગેસ અંગે એક મોટો નિર્ણય લીધો છે. સરકાર 2027 સુધીમાં કુલ LPG (રાંધણ ગેસ) આયાતનો આશરે 25% હિસ્સો અમેરિકા પાસેથી ખરીદવાની તૈયારી કરી રહી છે. આ પગલાનો હેતુ મધ્ય પૂર્વ પર નિર્ભરતા ઘટાડવા, ઊર્જા સુરક્ષા વધારવા અને અમેરિકા સાથે વેપાર સંબંધોને વધુ મજબૂત બનાવવાનો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/now-the-worries-about-cooking-gas-will-be-gone-the-government-big-decision-regarding-lpg-plan-has-been-made-to-diversify-the-sources-of-import-486022 ",
+    "time": "2026-07-28T12:47:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "રક્ષાબંધનથી મહિલાઓને દર મહિને મળશે ₹2500, કેબિનેટે લક્ષ્મી યોજનાને આપી મંજૂરી",
+    "desc": "દિલ્હીના મુખ્યમંત્રી રેખા ગુપ્તાએ એક મોટી જાહેરાત કરી છે. મુખ્યમંત્રીએ જણાવ્યું હતું કે કેબિનેટના નિર્ણય દ્વારા દિલ્હીની બહેનોને આપેલું વચન પૂર્ણ થયું છે. લક્ષ્મી યોજના દ્વારા મહિલાઓને દર મહિને ₹2,500 આપવામાં આવશે, આ માટેનું પોર્ટલ 1 ઓગસ્ટના રોજ શરૂ થશે અને રક્ષાબંધનથી આ યોજનાના લાભો મહિલાઓ સુધી પહોંચવાનું શરૂ થશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/delhi-government-lakshmi-scheme-raksha-bandhan-gift-for-women-rs-2500-486021 ",
+    "time": "2026-07-28T12:18:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "શું નીટ પેપર લીક મામલાના આરોપીઓ પર પણ લાગુ થશે આ નવો કાયદો? જાણો નવું બિલ જૂના કાયદાથી કેટલું છે અલગ",
+    "desc": "CJP અને વિદ્યાર્થીઓના આંદોલન બાદ કેન્દ્ર સરકારે પેપર લીક માફિયા પર લગામ લગાવવા માટે એન્ટી પેપર લીક કાયદો 2026માં કડક સુધારાઓ રજૂ કર્યા છે. ચાલો જાણીએ કે, શું આ નવો કાયદો આ વખતે પેપર લીકના દોષિતો પર લાગુ થશે કે નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/will-this-new-law-also-apply-to-the-accused-in-the-neet-paper-leak-case-know-how-the-new-bill-differs-from-the-old-law-486018 ",
+    "time": "2026-07-28T11:48:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "કેપ્ટન સહિત આ 3 ખેલાડીઓની ફરી અવગણના, શ્રીલંકા પ્રવાસ માટે ના મળ્યું ટીમમાં સ્થાન, શું પૂરી થઈ ટેસ્ટ કારકિર્દી ?",
+    "desc": "શ્રીલંકા સામેની બે મેચની ટેસ્ટ શ્રેણી માટે ભારતીય ટીમની જાહેરાત કરવામાં આવી છે. ફરી એકવાર પસંદગીકારો દ્વારા કેટલાક મોટા નામોની અવગણના કરવામાં આવી છે. એવું લાગે છે કે તેમની ટેસ્ટ કારકિર્દી સમાપ્ત થઈ ગઈ છે, ત્યારે આ ખેલાડી કોણ છે, તેના પર એક નજર કરીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-sl-test-series-3-players-ignored-again-team-india-squad-sri-lanka-tour-486010 ",
+    "time": "2026-07-28T11:24:05.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "કોમનવેલ્થ ગેમ્સ 2026માં ભારતને અત્યાર સુધીમાં કેટલા મળ્યા મેડલ? પહેલા નંબરે કોણ...જાણો વિગતવાર માહિતી",
     "desc": "ગ્લાસગો કોમનવેલ્થ 2026માં ભારતના મેડલ્સની સંખ્યા 10 પર પહોંચી છે જેમાં 2 ગોલ્ડ મેડલ સામેલ છે. જ્યારે ઓસ્ટ્રેલિયા 26 ગોલ્ડ, 13 સિલ્વર અને 20 બ્રોન્ઝ સાથે પહેલા નંબરે જ્યારે ઈંગ્લેન્ડ 32 મેડલ્સ સાથે બીજા નંબરે છે જેમાં 8 ગોલ્ડ, 12 સિલ્વર, અને 20 બ્રોન્ઝ મેડલ સામેલ છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/glasgow-commonwealth-games-2026-india-medal-tally-reaches-10-including-2-gold-486013 ",
     "time": "2026-07-28T10:20:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "કેપ્ટન સહિત આ 3 ખેલાડીઓ ફરી અવગણના, શ્રીલંકા પ્રવાસ માટે ના મળ્યું ટીમમાં સ્થાન, શું પૂરી થઈ ટેસ્ટ કારકિર્દી ?",
-    "desc": "શ્રીલંકા સામેની બે મેચની ટેસ્ટ શ્રેણી માટે ભારતીય ટીમની જાહેરાત કરવામાં આવી છે. ફરી એકવાર પસંદગીકારો દ્વારા કેટલાક મોટા નામોની અવગણના કરવામાં આવી છે. એવું લાગે છે કે તેમની ટેસ્ટ કારકિર્દી સમાપ્ત થઈ ગઈ છે, ત્યારે આ ખેલાડી કોણ છે, તેના પર એક નજર કરીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-sl-test-series-3-players-ignored-again-team-india-squad-sri-lanka-tour-486010 ",
-    "time": "2026-07-28T09:54:02.000Z"
   },
   {
     "cat": "World",
@@ -234,15 +270,6 @@ const newsData_gu = [
     "time": "2026-07-27T04:20:35.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ક્રિપ્ટો રોકાણકારો માટે આવ્યા મહત્ત્વના સમાચાર! સરકારે જાહેર કર્યા નવા નિયમો, જાણો",
-    "desc": "CBDTએ આવકવેરા અધિનિયમ 2025 (Income Tax Act 2025) હેઠળ ક્રિપ્ટો એસેટ રિપોર્ટિંગ માટે નવી ગાઇડલાઇન જાહેર કરી છે. હવે ક્રિપ્ટો એક્સચેન્જો અને અન્ય સેવા પ્રદાતાઓએ નક્કી કરેલા નિયમો અનુસાર ગ્રાહકો અને મોટા ક્રિપ્ટો વ્યવહારોની માહિતી ટેક્સ વિભાગને આપવી પડશે. આવો તેના વિગતવાર જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/important-news-for-crypto-investors-government-announces-new-rules-know-485851 ",
-    "time": "2026-07-26T18:12:13.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "&amp;#039;અમે જલ્દી જ...&amp;#039; આંદોલન બાદ હવે શું કરશે કોકરોચ જનતા પાર્ટી? અભિજીત દીપકેએ આપ્યું મોટું નિવેદન",
     "desc": "NEET પેપર લીક બાદ જંતર-મંતર પર કોકરોચ જનતા પાર્ટી દ્વારા શરૂ કરવામાં આવેલા આંદોલન પૂરું થઈ ગયું છે. સરકારે CJPની તમામ માંગણીઓ સ્વીકારી લીધી છે. ત્યારે હવે કોકરોચ જનતા પાર્ટી અધ્યક્ષ અભિજીત દીપકેએ આગળની રણનીતિ બાબતે મોટું નિવેદન આપ્યું છે.",
@@ -288,15 +315,6 @@ const newsData_gu = [
     "time": "2026-07-26T14:08:24.000Z"
   },
   {
-    "cat": "Business",
-    "title": "વાહનચાલકો માટે ખુશખબર, ટોલ ટેક્સના નવા નિયમોથી સસ્તી થશે સફર! હાઇવે પર મુસાફરી કરનારાઓ પર શું થશે અસર?",
-    "desc": "NHAIએ ટોલ ટેક્સ વસૂલવાના નિયમોમાં બદલાવ કર્યો છે. હવે હાઇવે પર જેટલા કિલોમીટર ગાડી ચલાવશો અને અંતર કાપશો તેના અનુસાર જ ટોલ લાગશે. જાણો આ નવા ફોર્મ્યુલાથી સામાન્ય જનતાની મુસાફરી કેટલી સસ્તી થશે અને કેવી રીતે સમયની સાથે ઈંધણનો બચાવ થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/good-news-for-motorists-new-toll-tax-rules-will-make-travel-cheaper-what-will-be-the-impact-on-those-traveling-on-highways-485836 ",
-    "time": "2026-07-26T13:36:45.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "હાડ થીજવતી ઠંડીમાં પણ અડગ હતા ભારતના વીર યોદ્ધાઓ, કેવી રીતે શરૂ થયું હતું આ યુદ્ધ?",
     "desc": "દર વર્ષે 26 જુલાઈના રોજ કારગિલ વિજય દિવસ 'ઓપરેશન વિજય'ના બહાદુર સૈનિકોના સાહસ, બલિદાન અને અતૂટ સંકલ્પના સન્માન રૂપે મનાવવામાં આવે છે. આ કારગિલ યુદ્ધમાં ભારતની ઐતિહાસિક જીતની યાદ અપાવે છે અને રાષ્ટ્રની સાર્વભૌમત્વની રક્ષા કરનારી ભાવનાની ઉજવણી કરે છે. આ પ્રસંગ કારગિલના અમીટ વારસાને પણ પ્રતિબિંબિત કરે છે.",
@@ -322,24 +340,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/zim-vs-ind-3rd-t20-india-playing-11-ashok-sharma-suryansh-shedge-in-485812 ",
     "time": "2026-07-26T11:34:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "સેટેલાઈટ તસવીરોએ વધારી ચિંતા, ભારતના 90% ભાગ પર છવાયા વાદળો, આ વિસ્તારોમાં મુશળધાર વરસાદની આગાહી",
-    "desc": "પર્વતોથી લઈને મેદાનો સુધી સતત ભારે વરસાદ વચ્ચે ISROની સેટેલાઇટ તસવીરોએ ચિંતા વધારી છે. અરબી સમુદ્રથી બંગાળની ખાડી સુધીનો દેશનો 90% ભાગ ગાઢ વાદળોથી છવાયેલો છે. હવામાન વિભાગના જણાવ્યા અનુસાર, આગામી સાત દિવસમાં ઓડિશા, મધ્યપ્રદેશ અને પર્વતીય રાજ્યોમાં ભારે વરસાદ પડશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/satellite-images-show-90-percent-cloud-cover-over-india-heavy-rain-alert-in-these-states-485810 ",
-    "time": "2026-07-26T11:11:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "&amp;#039;2028ની વિધાનસભા ચૂંટણી નહીં લડું...&amp;#039; કર્ણાટકના પૂર્વ CM સિદ્ધારમૈયાની મોટી જાહેરાત, રાજનીતિમાંથી લીધો સંન્યાસ",
-    "desc": "કર્ણાટકના પૂર્વ મુખ્યમંત્રી અને કોંગ્રેસના વરિષ્ઠ નેતા સિદ્ધારમૈયાએ કહ્યું કે, આજે પરિસ્થિતિ એવી બની ગઈ છે કે ચૂંટણી લડવા માટે નેતાઓએ જનતાને રૂપિયા આપવા પડે છે. રાજનીતિ સંપૂર્ણપણે ભ્રષ્ટ થઈ ચૂકી છે અને ઈમાનદાર રાજનીતિ માટે કોઈ જગ્યા બચી નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/i-will-not-contest-the-2028-assembly-elections-former-karnataka-cm-makes-big-announcement-retires-from-politics-485809 ",
-    "time": "2026-07-26T10:57:26.000Z"
   },
   {
     "cat": "Entertainment",
@@ -414,15 +414,6 @@ const newsData_gu = [
     "time": "2026-07-25T12:01:43.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ઝિમ્બાબ્વે સામેની બીજી T20માં ભારતની પહેલા બેટિંગ... યશ ઠાકુરની પ્લેઈંગ-11માં એન્ટ્રી, જાણો કોનું કપાયું પત્તુ",
-    "desc": "ઝિમ્બાબ્વે સામે શ્રેણીની પહેલી મેચ જીતીને ભારતીય ટીમે આખરે પોતાની લય શોધી લીધી છે. સતત છ ટી20 મેચ હાર્યા બાદ શ્રેયસ ઐયરની કેપ્ટનશીપમાં ભારતે આ જીત મેળવી હતી. ટીમ બીજી ટી20માં પણ આ જીતનો સિલસિલો જાળવી રાખવાના ટાર્ગેટ સાથે મેદાનમાં ઉતરશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-zim-2nd-t20-2026-team-india-playing-11-yash-thakur-in-ashok-sharma-out-485720 ",
-    "time": "2026-07-25T11:07:09.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "તું કદરુપી છો કહી દર્શન જરીવાલાએ છોડી દીધી અપરા મહેતાને, લેટેસ્ટ ઈંટરવ્યુએ જગાવી ચર્ચા",
     "desc": "ગુજરાતી થિયેટરના જાણીતા કલાકાર અને ટીવી સીરીયલ, ગુજરાતી ફિલ્મોમાં પણ કામ કરી ચુકેલા અપરા મહેતા અને દર્શન જરીવાલાના સેપરેશનની સ્ટોરી હાલ ઈંટરનેટ પર ચર્ચાનો વિષય છે. અપરા મહેતાએ એક ઈંટરવ્યુમાં કરેલા ખુલાસા બાદ આ ચર્ચા જાગી છે.",
@@ -430,15 +421,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/darshan-jariwala-and-actress-apara-mehta-separation-story-apara-mehta-and-darshan-jariwala-love-marriage-485719 ",
     "time": "2026-07-25T10:21:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "શ્રેયસ ઐયર સહિત આ 8 ખેલાડી નહીં રમે ODI સિરીઝ, BCCIને ઉતારવી પડશે નવી ટીમ, જાણો શું છે કારણ",
-    "desc": "ભારતીય ટીમને સપ્ટેમ્બર-ઓક્ટોબરમાં એક મોટી મુશ્કેલીનો સામનો કરવો પડી શકે છે. એશિયન ગેમ્સ 2026 અને વેસ્ટ ઇન્ડીઝ સામેની ODI શ્રેણીની તારીખો એક સાથે આવતી હોવાથી ટીમ ઇન્ડિયાના 8 મુખ્ય ખેલાડીઓ ODI શ્રેણીમાં રમી શકશે નહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/these-8-players-including-shreyas-iyer-will-not-play-in-the-odi-series-vs-west-indies-485712 ",
-    "time": "2026-07-25T09:25:32.000Z"
   },
   {
     "cat": "Entertainment",
