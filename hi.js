@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "RCB creates history, becomes first IPL franchise to cross USD 300 million brand value",
+    "desc": "The Royal Challengers Bengaluru (RCB) have achieved more glory as they have become the first-ever Indian Premier League franchise to touch the USD 300m brand value. Two-time winners RCB's brand value reached a value of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rcb-creates-history-becomes-first-ipl-franchise-to-cross-usd-300-million-brand-value-2026-07-29-1049803",
+    "time": "2026-07-29T16:10:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "5 shuttlers to watch out for in BWF World Championship 2026",
+    "desc": "The BWF World Championships are coming to New Delhi as the action runs from August 17-23, 2026. This is India's second time hosting the event since 2009 in Hyderabad. Over 200 players across the globe...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/5-shuttlers-to-watch-out-for-in-bwf-world-championship-2026-2026-07-29-1049790",
+    "time": "2026-07-29T14:11:22.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Suresh Raina compares India's old fielding culture with current struggles after 32 dropped catches",
     "desc": "India’s fielding efforts have worsened since the T20 World Cup 2026. Around 32 catches have been dropped by the Men in Blue across 19 T20Is, which is extremely worrying. These include slips from full-time players,...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/what-is-clicky-ponting-and-why-is-the-viral-cricket-controversy-trending-on-social-media-watch-video-2026-07-29-1049728",
     "time": "2026-07-29T07:06:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan set unwanted record after Jayden Seales claims five-wicket haul in West Indies' win",
-    "desc": "West Indies battered Pakistan to register a 90-run win in the first Test in Trinidad, taking a 1-0 lead in the two-match series. Notably, the visitors were chasing a modest total of 211 runs in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-set-unwanted-record-after-jayden-seales-claims-five-wicket-haul-in-west-indies-win-2026-07-29-1049723",
-    "time": "2026-07-29T06:18:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Spain, England, Portugal among 55 European nations threaten to boycott next FIFA World Cup",
-    "desc": "European football's governing body, UEFA, is moving toward an emergency consultation with all 55 of its member associations, like Spain, England, Portugal and France among others, as resistance grows against a FIFA proposal to introduce outside...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/spain-england-portugal-among-55-european-nations-threaten-to-boycott-next-fifa-world-cup-2026-07-29-1049718",
-    "time": "2026-07-29T05:44:55.000Z"
   }
 ];
