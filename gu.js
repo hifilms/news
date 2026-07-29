@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "ક્રિકેટમાં નવો વિવાદ... ચપટી વગાડીને ફિલ્ડરે બેટ્સમેનને કરાવ્યો આઉટ ! જાણો કેવી રીતે",
+    "desc": "ઇંગ્લેન્ડ ક્લબ ક્રિકેટમાં એક રસપ્રદ ઘટના બની છે, સ્લિપમાં ઉભેલા એક ફિલ્ડરે બેટ્સમેનને ખોટી રીતે આઉટ કરાવવા માટે એક એવી યુક્તિનો ઉપયોગ કર્યો હતો, જે જોઈને બધા ચોંકી ગયા હતા. આ સમગ્ર વિવાદને સોશિયલ મીડિયા પર 'Clickgate' નામ આપવામાં આવ્યું છે અને સંડોવાયેલા ખેલાડીનું નામ 'Clicky Ponting' રાખવામાં આવ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/finger-clicking-controversy-clicky-ponting-brian-devine-england-club-cricket-486123 ",
+    "time": "2026-07-29T12:52:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPLની સૌથી ધનિક ટીમ બની RCB, ધોનીની CSK ચોથા સ્થાને... જાણો બીજા અને ત્રીજા સ્થાને કોણ છે",
+    "desc": "ઇન્ડિયન પ્રીમિયર લીગ (IPL)નું બિઝનેસ વેલ્યૂ 20 અબજ ડોલરને વટાવી ગઈ છે, તો RCB સૌથી ધનિક ટીમ બની ગઈ છે. ત્યારે આ લેખમાં RCBની બ્રાન્ડ વેલ્યૂ કેટલી છે અને RCB બાદ બીજી કઈ ટીમો સૌથી ધનિક છે, તેના વિશે જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/rcb-becomes-richest-team-check-full-list-of-most-valuable-teams-in-ipl-486121 ",
+    "time": "2026-07-29T12:06:17.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "રાહુલ ગાંધીનો આરોપ- પેલેટગનથી ફાયરિંગનો આદેશ ગૃહ મંત્રાલયે આપ્યો, રિજીજૂ બોલ્યા- ઓર્ડરની કોપી દેખાડો",
     "desc": "સંસદના મોનસૂન સત્ર દરમિયાન લોકસભામાં એન્ટી પેપર બિલ પર ચર્ચા દરમિયાન ભારે હંગામો અને ઉગ્ર ચર્ચા જોવા મળી. વિપક્ષના નેતા રાહુલ ગાંધીએ દેશમાં સતત થઈ રહેલા પેપરલીક અને રાષ્ટ્રીય પરીક્ષા એજન્સી (NTA)ની ગડબડીઓ મુદ્દે કેન્દ્રની મોદી સરકાર પર આકરા પ્રહાર કર્યા.",
@@ -358,15 +376,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/when-and-where-will-team-india-play-now-new-tour-in-15-days-know-the-schedule-485862 ",
     "time": "2026-07-27T05:26:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ટીમ ઈન્ડિયાએ ઝિમ્બાબ્વેનો કર્યો વ્હાઈટવોશ, છેલ્લી મેચમાં 35 રને વિજય, સિરીઝ 3-0થી જીતી",
-    "desc": "ટીમ ઈન્ડિયાએ ઈંગ્લેન્ડ અને આયર્લેન્ડ સામેની ટી20 શ્રેણીમાં ક્લીન સ્વીપનો સામનો કરવો પડ્યો હતો. હવે શાનદાર વાપસી કરીને ટીમે ઝિમ્બાબ્વે સામેની શ્રેણી 3-0થી જીતી લીધી છે. ટીમ ઈન્ડિયાએ ત્રીજી ટી20 મેચમાં પણ એકતરફી જીત નોંધાવી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/team-india-clean-sweep-zimbabwe-in-3-match-t20i-series-485846 ",
-    "time": "2026-07-26T15:27:16.000Z"
   },
   {
     "cat": "World",
