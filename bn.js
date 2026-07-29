@@ -1,6 +1,24 @@
 const newsData_bn = [
   {
     "cat": "Entertainment",
+    "title": "ভয়াবহ বন্যায় অসমে লাখ-লাখ মানুষ বানভাসি, ভিটেহারাদের মাসিহা হয়ে মাঠে নামলেন ভাইজান, বানিয়ে দেবেন বাড়ি",
+    "desc": "অসমের পরিস্থিতির উন্নতি হলেও বেশ কয়েকটি জেলা এখনও বন্যার মোকাবিলা করছে। সরকারি সংস্থা ও বিভিন্ন সহায়তা প্রদানকারী দলের মাধ্যমে ত্রাণ ও পুনর্বাসন কার্যক্রম অব্যাহত রয়েছে। ৯০টি ত্রাণ শিবির ও ৯৮টি ত্রাণ কেন্দ্র ভিটেহারাদের পাশে দাঁড়িয়েছে। আর এবার মাসিহা হয়ে মাঠে নামলেন সলমান খান",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/salman-khan-massive-relief-work-floods-in-assam_664535.html ",
+    "time": "2026-07-29T09:50:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "আধার, প্যান, পাসবই-- সবই আছে, তো? আপনি ভারতের নাগরিক এতে মোটেই প্রমাণ হয় না: কলকাতা হাইকোর্টের বিরাট রায়",
+    "desc": "তবে শুধু এই সব নথিই থাকলেই কেউ ভারতের নাগরিক হিসেবে গণ্য হবেন না। কলকাতা হাইকোর্ট নাগরিকত্ব প্রমাণের মামলায় সাফ জানিয়ে দিয়েছে যে, আধার, প্যান, ভোটার কার্ড বা ব্যাংক অ্যাকাউন্ট কোনোটিই ভারতীয় নাগরিকত্বের চূড়ান্ত বা আইনি প্রমাণ হতে পারে না।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/calcutta-high-court-rules-aadhaar-voter-card-and-bank-passbook-do-not-guarantee-citizenship_664513.html ",
+    "time": "2026-07-29T09:07:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "‘টাকা ফেরত চাইলে বিপদ!', ৬৮ লক্ষর আর্থিক প্রতারণার অভিযোগে আইনি বিপাকে সোহম",
     "desc": "সিনেমা তৈরির নামে ৬৮ লক্ষ টাকা নিয়ে প্রতারণা, বিশ্বাসভঙ্গ ও প্রাণনাশের হুমকির অভিযোগে অভিনেতা সোহম চক্রবর্তীর বিরুদ্ধে চারু মার্কেট থানায় লিখিত অভিযোগ করলেন এক ব্যবসায়ী। ‘পাকা দেখা’ সিনেমার লভ্যাংশ না দিয়ে উল্টে প্রভাব খাটিয়ে ভয় দেখানোর অভিযোগ উঠেছে। এর আগেও সোহমের বিরুদ্ধে কোটি টাকার প্রতারণার অভিযোগ উঠেছিল।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -124,15 +142,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/assam-floods-600-villages-waterlogged-death-more-than-60_664345.html ",
     "time": "2026-07-28T08:48:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "যন্তর মন্তরে অভুক্ত কর্মীরা, নেতারা ব্যস্ত নাচ-গানে! CJP-র সৌরভের ভিডিয়ো ভাইরাল হতেই কাঠগড়ায় আরশোলারা",
-    "desc": "শিক্ষামন্ত্রী ধর্মেন্দ্র প্রধানের ইস্তফার পর ককোরোচ জনতা পার্টি নেতারা উদযাপনে নাচ-গানে মেতে উঠলেও, দিল্লিতে অনাহারে পরিত্যক্ত অবস্থায় পড়ে রয়েছেন সাধারণ কর্মীরা। আন্দোলনের অন্যতম সমর্থক মেঘনাদ এস অভিযোগ করেন, জয়ের পর নেতাদের অসংবেদনশীলতার কারণেই যন্তর মন্তরে বিপাকে পড়েন কর্মীরা। তবে এই অভিযোগ অস্বীকার করেছে দল।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/cjp-leaders-partied-volunteers-were-left-abandoned-and-starving-says-activist_664283.html ",
-    "time": "2026-07-28T03:56:21.000Z"
   },
   {
     "cat": "Entertainment",
@@ -268,24 +277,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/salman-khan-backs-cjp-student-protest-over-paper-leak-issue_663639.html ",
     "time": "2026-07-23T04:13:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘আমি CJP-র সমর্থক নই, তবে যেভাবে পড়ুয়াদের মারা হল...’ একগুচ্ছ বিস্ফোরক পোস্ট অরিজিতের",
-    "desc": "সাধারণ মানুষের ওপর মারধর থেকে শুরু করে প্রশাসনিক পদক্ষেপ— সোশ্যাল মিডিয়ায় একের পর এক বিস্ফোরক পোস্টে সরব গায়ক অরিজিৎ সিং! \"বাংলায় কিছু বললেই নাকি জেল?\"— দলবাজদের কড়া বার্তা দিয়ে ঠিক কী কী লিখলেন অরিজিৎ? ভক্তদের ক্ষোভের মুখেই বা কীভাবে সামলালেন পরিস্থিতি?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/arijit-singh-viral-social-media-posts-cjp-protest-bengal-politics_663604.html ",
-    "time": "2026-07-22T14:15:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "৫০ কোটি দর্শকের পছন্দ ‘বিগ বস’, ৬ ভাষায় দায়িত্বে বিজয়-নাগার্জুন-মোহনলাল, বাংলায় বড় পর্দায় মহারাজ",
-    "desc": "হিন্দি সংস্করণে সলমান খানের পাশাপাশি আঞ্চলিক ভাষায় থাকছেন সুপারস্টাররা—তামিলে বিজয় সেথুপতি, তেলুগুতে নাগার্জুন, কন্নড়ে কিচ্ছা সুদীপ এবং মালায়ালমে মোহনলাল। বিগ বস ফ্র্যাঞ্চাইজিতে এই প্রথম যুক্ত হয়ে বাংলা সিজনের সঞ্চালকের দায়িত্ব নিচ্ছেন প্রাক্তন ভারত অধিনায়ক সৌরভ গঙ্গোপাধ্যায়।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/salman-khan-returns-as-bigg-boss-20-host-jiostar-announces-six-simultaneous-editions_663566.html ",
-    "time": "2026-07-22T10:17:47.000Z"
   },
   {
     "cat": "World",

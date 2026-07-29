@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Australia opener's brother to play for European team, following Italy's footsteps leading to T20 World Cup",
+    "desc": "Greece has named Billy Konstas, the elder brother of Australia batter Sam Konstas, in their 14-member squad for next month's European qualifying tournament in Finland. With the goal of progressing to the 2028 T20 World...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/australia-opener-s-brother-to-play-for-european-team-following-italy-s-footsteps-leading-to-t20-world-cup-2028-2026-07-29-1049759",
+    "time": "2026-07-29T11:04:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shubman Gill becomes number 1 ODI batter; Vaibhav Sooryavanshi jumps 230 positions in T20Is",
+    "desc": "India captain Shubman Gill has become the new number one ODI batter, as per the latest ICC rankings. The 26-year-old played a vital role in the three-match ODI series against England earlier in the month,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-becomes-number-1-odi-batter-vaibhav-sooryavanshi-jumps-230-positions-in-t20is-2026-07-29-1049744",
+    "time": "2026-07-29T08:48:17.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Justin Langer as England Test coach? Former Australia batter shares update on speculations",
     "desc": "Justin Langer has indicated that he has not been approached by the England and Wales Cricket Board (ECB) regarding the vacant England Test head coach position. After Brendon McCullum stepped down from the position, Langer...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/geneva-to-host-chess-world-championship-showdown-between-gukesh-and-sindarov-in-november-december-2026-07-28-1049666",
     "time": "2026-07-28T14:20:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rejuvenated Ireland announce squad for Afghanistan series, Paul Stirling returns as captain",
-    "desc": "Ireland have announced their 14-man squad for the five-match ODI series against Afghanistan, starting Wednesday, August 5. The series will see the return of Paul Stirling, who was forced to sit out the marquee India...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rejuvenated-ireland-announce-squad-for-afghanistan-series-paul-stirling-returns-as-captain-2026-07-28-1049658",
-    "time": "2026-07-28T13:33:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India wins bronze in ISSF World Cup mixed doubles through Sonam Uttam Maskar, Himanshu Dhillon",
-    "desc": "India added another medal to its tally at the ISSF World Cup Rifle/Pistol/Shotgun in Hangzhou. Sonam Uttam Maskar and Himanshu Dhillon claimed bronze in the 10m Air Rifle Mixed Team event with a strong display...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/india-wins-bronze-in-issf-world-cup-mixed-doubles-through-sonam-uttam-maskar-himanshu-dhillon-2026-07-28-1049651",
-    "time": "2026-07-28T12:41:50.000Z"
   }
 ];

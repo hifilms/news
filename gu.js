@@ -1,12 +1,30 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "રાહુલ ગાંધીનો આરોપ- પેલેટગનથી ફાયરિંગનો આદેશ ગૃહ મંત્રાલયે આપ્યો, રિજીજૂ બોલ્યા- ઓર્ડરની કોપી દેખાડો",
+    "desc": "સંસદના મોનસૂન સત્ર દરમિયાન લોકસભામાં એન્ટી પેપર બિલ પર ચર્ચા દરમિયાન ભારે હંગામો અને ઉગ્ર ચર્ચા જોવા મળી. વિપક્ષના નેતા રાહુલ ગાંધીએ દેશમાં સતત થઈ રહેલા પેપરલીક અને રાષ્ટ્રીય પરીક્ષા એજન્સી (NTA)ની ગડબડીઓ મુદ્દે કેન્દ્રની મોદી સરકાર પર આકરા પ્રહાર કર્યા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/rahul-gandhi-makes-serious-allegations-on-pellet-gun-issue-during-discussion-on-anti-paper-leak-bill-486112 ",
+    "time": "2026-07-29T10:03:04.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "8મા પગાર પંચ પર સંસદમાં સરકારનું મોટું અપડેટ! જાણો ક્યારે મળશે નવા પગારની ખુશખબર",
+    "desc": "કેન્દ્ર સરકારે સંસદમાં સ્પષ્ટતા કરી છે કે 8મું પગાર પંચ તેની રચનાના 18 મહિનાની અંદર, એટલે કે 3 મે, 2027 સુધીમાં તેનો અંતિમ અહેવાલ રજૂ કરશે. હાલમાં, કમિશન વિવિધ કર્મચારી સંગઠનો પાસેથી સૂચનો અને ડેટા એકત્રિત કરવાની પ્રક્રિયામાં છે. ચાલો વિગતોનું અન્વેષણ કરીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/governments-big-update-in-parliament-on-8th-pay-commission-know-when-you-will-get-the-good-news-of-new-salaries-486104 ",
+    "time": "2026-07-29T09:15:28.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "&amp;#039;સ્ટુડન્ટ, ઇડિયટ અને અંધભક્ત&amp;#039;...રાહુલ ગાંધીના 3 કેટેગરીવાળા નિવેદનથી લોકસભામાં ભારે હોબાળો",
     "desc": "લોકસભામાં આજે પણ એન્ટી પેપરલીક બિલ પર ચર્ચા ચાલુ છે. ચર્ચાના બીજા દિવસે નેતા વિપક્ષ રાહુલ ગાંધીએ જેવું બોલવાનું શરૂ કર્યું કે હંગામો શરૂ થઈ ગયો. તેમણે કહ્યું કે જે થયું તેમાં કશું ખોટું નથી અને દરેક ભારતીયને તેના પર ગર્વ હોવો જોઈએ.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/rahul-gandhi-speaks-in-lok-sabha-on-anti-paper-leak-bill-neet-paper-leak-protest-486100 ",
-    "time": "2026-07-29T08:20:43.000Z"
+    "time": "2026-07-29T09:14:09.000Z"
   },
   {
     "cat": "Sports",
@@ -342,15 +360,6 @@ const newsData_gu = [
     "time": "2026-07-27T05:26:18.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "&amp;#039;અમે જલ્દી જ...&amp;#039; આંદોલન બાદ હવે શું કરશે કોકરોચ જનતા પાર્ટી? અભિજીત દીપકેએ આપ્યું મોટું નિવેદન",
-    "desc": "NEET પેપર લીક બાદ જંતર-મંતર પર કોકરોચ જનતા પાર્ટી દ્વારા શરૂ કરવામાં આવેલા આંદોલન પૂરું થઈ ગયું છે. સરકારે CJPની તમામ માંગણીઓ સ્વીકારી લીધી છે. ત્યારે હવે કોકરોચ જનતા પાર્ટી અધ્યક્ષ અભિજીત દીપકેએ આગળની રણનીતિ બાબતે મોટું નિવેદન આપ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/we-will-soon-after-the-movement-what-will-the-cockroach-janata-party-do-now-abhijit-deepke-gave-a-big-statement-485850 ",
-    "time": "2026-07-26T17:36:03.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ટીમ ઈન્ડિયાએ ઝિમ્બાબ્વેનો કર્યો વ્હાઈટવોશ, છેલ્લી મેચમાં 35 રને વિજય, સિરીઝ 3-0થી જીતી",
     "desc": "ટીમ ઈન્ડિયાએ ઈંગ્લેન્ડ અને આયર્લેન્ડ સામેની ટી20 શ્રેણીમાં ક્લીન સ્વીપનો સામનો કરવો પડ્યો હતો. હવે શાનદાર વાપસી કરીને ટીમે ઝિમ્બાબ્વે સામેની શ્રેણી 3-0થી જીતી લીધી છે. ટીમ ઈન્ડિયાએ ત્રીજી ટી20 મેચમાં પણ એકતરફી જીત નોંધાવી હતી.",
@@ -367,15 +376,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/major-blast-in-hormuz-oil-tanker-explodes-after-hitting-sea-mine-485837 ",
     "time": "2026-07-26T14:08:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ત્રીજી T20માં આ બે ખેલાડીઓનું કપાયું પત્તુ, બે નવા ખેલાડીઓને મળી તક",
-    "desc": "ઝિમ્બાબ્વે સામેની ત્રીજી T20 મેચમાં ભારતે ટોસ જીતીને પ્રથમ બેટિંગ કરવાનો નિર્ણય લીધો. શ્રેણીમાં 2-0થી આગળ ટીમ ઈન્ડિયા મોટા સ્કોરનું ટાર્ગેટ રાખી રહી છે. આ મેચ માટે ભારતીય પ્લેઈંગ ઈલેવનમાં બે ફેરફાર કરવામાં આવ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/zim-vs-ind-3rd-t20-india-playing-11-ashok-sharma-suryansh-shedge-in-485812 ",
-    "time": "2026-07-26T11:34:08.000Z"
   },
   {
     "cat": "Entertainment",
@@ -484,15 +484,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/zee5-unveils-teaser-for-new-web-series-the-scam-leaked-centered-around-paper-leaks-and-exam-mafia-485486 ",
     "time": "2026-07-22T15:23:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ટીવી પર ટુંક સમયમાં શરુ થશે Bigg Boss 20, સલમાન ખાન કરશે હોસ્ટ, બિગ બોસ 20 નું ઓફિશિયલ એનાઉન્સમેન્ટ",
-    "desc": "ટીવીનો સૌથી વિવાદાસ્પદ અને લોકપ્રિય શો બિગ બોસ 20 ફરી એકવાર શરુ થવા જઈ રહ્યો છે. બિગ બોસ 20 નું ઓફિશિયલ એનાઉન્સમેન્ટ થઈ ગયું છે. આ વર્ષની સીઝન વધારે ખાસ હશે કારણ કે આ વર્ષે બિગ બોસ શો ને 20 વર્ષ પૂર્ણ થઈ રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/bigg-boss-20-announcement-video-with-new-eye-logo-salman-khan-will-host-bigg-boss-20-485419 ",
-    "time": "2026-07-22T06:19:50.000Z"
   },
   {
     "cat": "World",
