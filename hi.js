@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Jaismine Lamboria assures 10th boxing medal, helps India create history at Commonwealth Games 2026",
+    "desc": "Star boxer Jaismine Lamboria stormed into the semifinals of the 57kg weight category at the Commonwealth Games with a win over England's Elise Glynn to assure India of its 10th boxing medal on Wednesday, July...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/jaismine-lamboria-assures-10th-boxing-medal-helps-india-create-history-at-commonwealth-games-2026-2026-07-29-1049807",
+    "time": "2026-07-29T17:54:43.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "RCB creates history, becomes first IPL franchise to cross USD 300 million brand value",
     "desc": "The Royal Challengers Bengaluru (RCB) have achieved more glory as they have become the first-ever Indian Premier League franchise to touch the USD 300m brand value. Two-time winners RCB's brand value reached a value of...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/justin-langer-as-england-test-coach-former-australia-batter-shares-update-on-speculations-2026-07-29-1049735",
     "time": "2026-07-29T07:55:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What is 'Clicky Ponting' and why is the viral cricket controversy trending on social media? WATCH VIDEO",
-    "desc": "English club cricket is at the centre of an unusual controversy after a player was accused of using finger-clicking to influence umpiring decisions. It prompted a formal investigation by the North Yorkshire and South Durham...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/what-is-clicky-ponting-and-why-is-the-viral-cricket-controversy-trending-on-social-media-watch-video-2026-07-29-1049728",
-    "time": "2026-07-29T07:06:34.000Z"
   }
 ];

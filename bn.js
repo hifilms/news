@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "GEN-Z-এর হার্টথ্রব, বিদেশ ফেরত, তুখোড় পড়াশোনায়, দেশের শিক্ষামন্ত্রী বদলে দেওয়া অভিজিত্‍ দীপকের বিয়ে কবে? বিরাট খবর",
+    "desc": "অনিতা দীপকে জানান, কেবল সাম্প্রতিক আন্দোলনের পরই নয়, গত প্রায় দুই বছর ধরে--এমনকি অভিজিৎ যখন বোস্টনে ছিলেন, তখন থেকেই তাঁর জন্য দেশ-বিদেশ থেকে পাত্রীর বিয়ের প্রস্তাব আসছিল। বোস্টনে থাকাকালীন ফোনে বিয়ের কথা উঠলেই তিনি হেসে উড়িয়ে দিতেন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/cjp-founder-abhijeet-dipke-flooded-with-marriage-proposals-mother-reveals-his-decision-on-wedding_664605.html ",
+    "time": "2026-07-29T16:19:49.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "দিল্লিতে পড়ুয়াদের ওপর ‘পুলিসি বর্বরতা’: অমিত শাহের পদত্যাগের দাবি রাহুল গান্ধীর",
     "desc": "পড়ুয়াদের ওপর পুলিসি পেলেট গান ও পেরেক মারা লাঠির ব্যবহার! দিল্লির আন্দোলনের ঘটনায় সরাসরি স্বরাষ্ট্রমন্ত্রী অমিত শাহের পদত্যাগ দাবি করলেন লোকসভার বিরোধী দলনেতা রাহুল গান্ধী। প্রধানমন্ত্রী মোদীর কাছে তাঁর আর্জি— স্বরাষ্ট্রমন্ত্রীকে বরখাস্ত করে সুপ্রিম কোর্টের মনিটরিংয়ে নিরপেক্ষ তদন্ত কমিটি গঠন করা হোক।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -124,15 +133,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/priyanka-gandhi-questions-govt-pellet-guns-ak47-student-protest-neet_664417.html ",
     "time": "2026-07-28T15:35:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বড় খবর: সাততলা থেকে আচমকা পড়ে হেভিওয়েট বিজেপি নেতার মৃত্যু, ভয়ংকর CCTV ফুটেজ-- তোলপাড় দেশ",
-    "desc": "পুলিস সূত্রের খবর, নানক রাম ভূর্জি বহরাইচ জেলার নানপাড়া বা বহুরা এলাকা থেকে বিধায়ক নির্বাচিত হয়েছিলেন এবং বিজেপি সরকারের আমলে রাজ্যমন্ত্রীর দায়িত্বও সামলেছেন। সম্প্রতি তিনি চিকিৎসার কাজে ও ব্যক্তিগত প্রয়োজনে লখনউয়ের দারুল শাফায় এমএলএ হোস্টেলে গিয়েছিলেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/former-up-minister-and-bjp-leader-nanak-ram-bhurji-dies-after-falling-from-mla-residence-in-lucknow_664414.html ",
-    "time": "2026-07-28T14:49:56.000Z"
   },
   {
     "cat": "World",
