@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Spain, England, Portugal among 55 European nations threaten to boycott next FIFA World Cup",
+    "desc": "European football's governing body, UEFA, is moving toward an emergency consultation with all 55 of its member associations, like Spain, England, Portugal and France among others, as resistance grows against a FIFA proposal to introduce outside...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/spain-england-portugal-among-55-european-nations-threaten-to-boycott-next-fifa-world-cup-2026-07-29-1049718",
+    "time": "2026-07-29T05:44:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gulveer Singh scripts history, Harjinder Kaur shines with silver as India's medal tally reaches 12 at CWG 2026",
+    "desc": "India continued its impressive run at the Commonwealth Games 2026 in Glasgow, as Day 6 brought more reasons to celebrate. The contingent added two silver medals to its tally through long-distance runner Gulveer Singh and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/gulveer-singh-scripts-history-harjinder-kaur-shines-with-silver-as-india-s-medal-tally-reaches-12-at-cwg-2026-2026-07-29-1049699",
+    "time": "2026-07-29T02:42:09.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Preeti Pawar, Priya Ghanghas assure India of boxing medals at Commonwealth Games 2026",
     "desc": "Boxers Preeti Pawar and Priya Ghanghas assured India of two more medals at the Commonwealth Games 2026 after winning their respective quarterfinal bouts in Glasgow on Tuesday, July 28. Preeti, the Asian Games bronze medallist,...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/zinedine-zidane-appointed-as-new-france-head-coach-after-didier-deschamps-calls-it-quits-after-14-years-2026-07-28-1049632",
     "time": "2026-07-28T09:43:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Justin Greaves sets new world record with historic spell vs Pakistan in first Test in Trinidad",
-    "desc": "Justin Greaves became the first-ever bowler to deliver five consecutive wicket-maidens in the opening Test match against Pakistan in Trinidad. The West Indies all-rounder has achieved a feat that no other player has done in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/justin-greaves-sets-new-world-record-with-historic-spell-vs-pakistan-in-first-test-in-trinidad-2026-07-28-1049625",
-    "time": "2026-07-28T08:44:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India's U19 World Cup final centurion denied bail following match-fixing allegations in LPL",
-    "desc": "Former India Under-19 cricketer, who scored a century in the 2018 final against Australia, and Jaffna Kings co-owner Manjot Kalra will remain in judicial custody after a Colombo court declined his request for early bail in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-s-u19-world-cup-final-centurion-denied-bail-following-match-fixing-allegations-in-lpl-2026-07-28-1049620",
-    "time": "2026-07-28T08:13:45.000Z"
   }
 ];

@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "ગુજરાતમાં પૂરથી ટાટા મોટર્સને મોટો ફટકો: પ્રોડક્શન રોકાતા આ ફેવરીટ કારોની સપ્લાય પર પડી શકે છે અસર? જાણો",
+    "desc": "ગુજરાતનો સાણંદ પ્લાન્ટ ટાટા મોટર્સ પેસેન્જર વ્હીકલ્સ લિમિટેડ (TMPV) માટે મહત્વપૂર્ણ છે. કંપનીના ઘણા હાઈ ડિમાંડના વાહનો અહીં બનાવવામાં આવે છે. પૂરને કારણે ઉત્પાદન બંધ થવાથી આ કારોના પુરવઠા અને ડિલિવરી પર અસર પડી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/tata-motors-suffers-major-blow-due-to-floods-in-gujarat-production-halt-may-affect-supply-of-these-favourite-cars-know-486068 ",
+    "time": "2026-07-29T04:29:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "વિદ્યાર્થીઓની સંસદ કૂચમાં હત્યાના 101 આરોપી, 62 રેપિસ્ટ, 19 કિડનેપર્સ કેવી રીતે પહોંચ્યા?",
+    "desc": "દિલ્હીના જંતર મંતર વિસ્તારમાં થયેલા વિદ્યાર્થી આંદોલનમાં 20મી જુલાઈએ હિંસા થઈ. દિલ્હી પોલીસનું કહેવું છે કે વીડિયો, સીસીટીવી ફૂટેજ, મોબાઈલ ડેટા અને ટેક્નિકલ પુરાવાના આધારે આરોપીઓની ઓળખ થઈ રહી છે. જે લોકોની હિંસામાં ભૂમિકા સામે આવશે તેમના વિરુદ્ધ બીએનએસ અને જાહેર સંપત્તિને નુકસાન પહોંચાડવા સંબંધિત કાયદા હેઠળ કાર્યવાહી થશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/cjp-students-protest-parliament-march-how-delhi-police-identify-criminals-486067 ",
+    "time": "2026-07-29T04:17:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ભારત પર 100% ટેરિફનો ખતરો? અમેરિકાના નવા બિલથી વધી ચિંતા, જાણો",
+    "desc": "યુએસ સેનેટે રશિયા પર દબાણ વધારવા માટે એક બિલ પસાર કર્યું છે, જેની અસર ભારત સહિત વિશ્વના ઘણા દેશો પર પડી શકે છે. આ બિલ ખાસ કરીને રશિયા માટે લાવવામાં આવ્યું છે, પણ તેની અસર તેના સાથી દેશોને પણ તેના પર ભારે અસર પડી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/us-india-tariff-threat-of-100-percent-tariff-on-india-concerns-increased-due-to-new-us-bill-know-486058 ",
+    "time": "2026-07-29T03:00:59.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ટ્રમ્પના યુદ્ધવિરામ વચ્ચે ઈરાનનો મોટો હુમલો, જોર્ડનમાં અમેરિકી બેઝ પર બેલેસ્ટિક મિસાઇલો ઝીંકી, જાણો",
+    "desc": "યુએસ સેન્ટ્રલ કમાન્ડે તેને એક આશ્ચર્યજનક હુમલો કરવાનો પ્રયાસ ગણાવ્યો હતો. સેન્ટકોમ અનુસાર, બધી મિસાઇલો સફળતાપૂર્વક અટકાવવામાં આવી હતી. એક દિવસ પહેલા જ, યુએસ પ્રમુખ ડોનાલ્ડ ટ્રમ્પે જણાવ્યું હતું કે વોશિંગ્ટન અને તેહરાન વચ્ચે વાતચીત સારી રીતે આગળ વધી રહી છે અને ડીલ થવાની સારી તક છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/iran-launches-major-attack-amid-trump-ceasefire-launches-ballistic-missiles-at-us-base-in-jordan-know-486057 ",
+    "time": "2026-07-29T02:25:49.000Z"
+  },
+  {
     "cat": "Business",
     "title": "કેન્દ્ર સરકારનો મોટો નિર્ણય! 1 ઓગસ્ટથી ખાંડ ખરીદનારાઓ માટે બદલાઈ જશે આ નિયમો, જાણો",
     "desc": "કેન્દ્ર સરકારે 1 ઓગસ્ટથી 30 નવેમ્બર 2026 સુધી સમગ્ર દેશમાં ખાંડના વેપારીઓ પર સ્ટોક લિમિટ લાગુ કરી દીધી છે. હવે કોઈ પણ ડીલર 30 દિવસથી વધુ સમય સુધી ખાંડનો સ્ટોક નહીં રાખી શકે અને 4,000 ક્વિન્ટલથી વધારે સંગ્રહ પણ નહીં કરી શકે. આનાથી સંગ્રહખોરી અટકશે અને વધતી કિંમતો પર રોક લાગશે.",
@@ -279,15 +315,6 @@ const newsData_gu = [
     "time": "2026-07-27T09:10:57.000Z"
   },
   {
-    "cat": "Business",
-    "title": "આ IPOમાં રોકાણ કરવાની છેલ્લી તક!! GMP બતાવી રહ્યો છે ₹195નો જોરદાર નફો, જાણો",
-    "desc": "ઇન્ડો-એમઆઇએમ આઇપીઓ ગ્રે માર્કેટમાં મજબૂત સ્થિતિમાં ચાલી રહ્યો છે. આજે સોમવાર, કંપનીના આઇપીઓ પર રોકાણ કરવાની છેલ્લી તક છે. કંપનીનો IPO ખુલ્યો તે પહેલા જ પ્રિમિયમ પર પહોચી ગયો હતો, હાલ કંપનીના IPOમાં 45 ટકા જેટલો ફાયદો દેખાઈ રહ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/last-chance-to-invest-in-this-ipo-gmp-is-showing-a-huge-profit-of-rs-195-know-485880 ",
-    "time": "2026-07-27T07:05:44.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ઝિમ્બાબ્વે પ્રવાસ પૂરો... હવે ક્યારે અને કઈ ટીમ સામે રમશે ઈન્ડિયન ટીમ? 15 દિવસમાં બાદ નવો પ્રવાસ, જાણો શેડ્યૂલ",
     "desc": "ભારત અને ઝિમ્બાબ્વે વચ્ચેની T20 સિરીઝ પુરી થઈ ગઈ છે. ટીમ ઈન્ડિયા 3-0થી જીતી ગઈ છે. હવે બધાને આશ્ચર્ય થાય છે કે ટીમ ઈન્ડિયા આગામી મેચ ક્યારે અને કઈ ટીમ સામે રમશે? અમે સંપૂર્ણ શેડ્યૂલ શેર કરવા જઈ રહ્યા છીએ.",
@@ -349,15 +376,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/kargil-vijay-diwas-2026-india-brave-warriors-were-steadfast-even-in-the-bone-chilling-cold-how-did-the-war-start-485834 ",
     "time": "2026-07-26T12:39:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ત્રણ દાયકાના બદલાવની કહાની, કારગિલના પાઠે બદલ્યા યુદ્ધના સમીકરણો; બોર્ડર પાર કર્યા વગર જ ઓપરેશન સિંદૂરમાં દુશ્મનના એરફિલ્ડ-રડાર તબાહ",
-    "desc": "1999ના કારગિલ યુદ્ધની 27મી વર્ષગાંઠ પર પૂર્વ થલ સેના પ્રમુખ જનરલ વી.પી. મલિક (રિટાયર્ડ)એ ભારતીય સૈન્ય ક્ષમતાઓના બદલાવ પર મોટું નિવેદન આપ્યું છે. તેમણે કહ્યું કે, કારગિલ દરમિયાન હથિયારોની અછત અને ઇન્ટેલિજન્સ ગેપથી જે પાઠ મળ્યા, તેણે જ ભારતને આત્મનિર્ભર બનાવ્યું. આ તૈયારીનું જ પરિણામ રહ્યું કે, 'ઓપરેશન સિંદૂર' દરમિયાન ભારતીય સેનાએ સરહદ પાર કર્યા વગર દુશ્મનના એરફિલ્ડ્સ અને રડાર સ્ટેશનોને તબાહ કરી દીધા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/story-of-three-decades-of-change-the-lessons-of-kargil-changed-the-equations-of-war-operation-sindoor-destroyed-the-enemy-airfield-and-radar-without-crossing-the-border-485813 ",
-    "time": "2026-07-26T11:59:40.000Z"
   },
   {
     "cat": "Sports",
@@ -538,15 +556,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/salman-khan-answer-health-related-question-salman-khan-shared-new-look-photos-485233 ",
     "time": "2026-07-20T07:46:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "બોક્સ ઓફિસ પર ફ્લોપ રહી પણ OTT પર રિલીઝ થયાની સાથે ટ્રેંડ કરવા લાગી ચાંદ મેરા દિલ",
-    "desc": "અનન્યા પાંડે અને લક્ષ્યની ફિલ્મ ચાંદ મેરા દિલ હવે ઓટીટી પર રિલીઝ થઈ ચુકી છે. આ ફિલ્મ બોક્સ ઓફિસ પર લોકોનું દિલ જીતવામાં સફળ ન રહી પણ ઓટીટીના દર્શકોને ફિલ્મ પસંદ પડી રહી છે. આ ફિલ્મ ઓટીટી પર ટોપ ટ્રેડિંગ ફિલ્મોની લિસ્ટમાં આવી ગઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/chand-mera-dil-on-ott-jio-hotstar-trending-hindi-film-485218 ",
-    "time": "2026-07-20T06:05:10.000Z"
   },
   {
     "cat": "World",
