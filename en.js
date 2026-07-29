@@ -1,6 +1,168 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "With 90 out of 128 companies &amp; 64% of investments, Karnataka top beneficiary of Centre's Electronics Development Fund",
+    "desc": "Karnataka received the most funding from the central government's Electronics Development Fund. The fund's associated venture funds invested over Rs 1,335 crore in 128 companies. Karnataka-based firms secured Rs 854.5 crore, representing nearly two-thirds of total investments. Telangana, Maharashtra, and Delhi also saw significant investments in technology startups. The fund, managed by Canbank Venture Capital Fund, is now in its divestment phase.",
+    "img": "https://static.toiimg.com/photo/msid-132722050,imgsize-97634.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/with-90-out-of-128-companies-64-of-investments-karnataka-top-beneficiary-of-centres-electronics-development-fund/articleshow/132722049.cms",
+    "time": "2026-07-29T21:43:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Here's why many MBBS graduates can't take foreign licensing exams",
+    "desc": "Thousands of MBBS graduates cannot take foreign licensing exams. Their colleges have not secured ECFMG sponsor notes for global recognition. This formal note is essential for students seeking international medical practice opportunities. Many students discover this issue only after completing their medical degrees. The National Medical Commission is processing updates for several Indian medical colleges.",
+    "img": "https://static.toiimg.com/photo/msid-132722044,imgsize-131274.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/heres-why-many-mbbs-graduates-cant-take-foreign-licensing-exams/articleshow/132722042.cms",
+    "time": "2026-07-29T21:39:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Look who’s talking’: Former FIFA boss attacks World Cup $20bn sellout plan, but his past comes back to haunt him",
+    "desc": "Former FIFA president Sepp Blatter has attacked FIFA’s plan to sell a minority stake in a new commercial company managing World Cup rights, warning it could damage football’s identity. His comments come amid growing opposition from UEFA, the FA and Concacaf. However, critics have questioned Blatter’s credibility, citing the corruption scandals that ended his FIFA presidency.",
+    "img": "https://static.toiimg.com/photo/msid-132722039,imgsize-694354.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/look-whos-talking-former-fifa-boss-attacks-world-cup-20bn-sellout-plan-but-his-past-comes-back-to-haunt-him/articleshow/132721788.cms",
+    "time": "2026-07-29T21:39:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Not going to let him get away': Rahul Gandhi targets Amit Shah over police action on NEET protesters; BJP says 'prove it or apologise'",
+    "desc": "Rahul Gandhi accused Home Minister Amit Shah of police excesses against protesters. He demanded Shah's dismissal and a Supreme Court-monitored probe into the actions. Gandhi also blamed the RSS for the education sector's current problems. Government ministers challenged Gandhi to provide proof or issue an apology. The Lok Sabha experienced disruptions over these serious allegations.",
+    "img": "https://static.toiimg.com/photo/msid-132721808,imgsize-923433.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/not-going-to-let-him-get-away-rahul-gandhi-targets-amit-shah-over-police-action-on-neet-protesters-bjp-says-prove-it-or-apologise/articleshow/132721797.cms",
+    "time": "2026-07-29T21:20:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Amid opposition walkout, Rajya Sabha gives approval to Vande Mataram bill",
+    "desc": "The Rajya Sabha passed a bill proposing jail time for disrupting Vande Mataram. Opposition MPs walked out, demanding a statement on police action against protesters. Junior home minister Nityanand Rai piloted the bill, criticizing Congress's stance on the national song. MP Sanjay Singh questioned the RSS's past refusal to hoist the tricolour. AIADMK MPs noted the practice of playing state anthems after national songs.",
+    "img": "https://static.toiimg.com/photo/msid-132721790,imgsize-251834.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/amid-opposition-walkout-rajya-sabha-gives-approval-to-vande-mataram-bill/articleshow/132721784.cms",
+    "time": "2026-07-29T21:07:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ahead of dengue vaccine rollout, all 4 strains found in circulation",
+    "desc": "India's first dengue virus mapping shows all four serotypes circulating in eight states. This finding could influence the country's upcoming dengue vaccine strategy. Researchers found DENV-2 to be the dominant circulating strain across the nation. Concurrent infections with multiple strains are linked to more severe dengue disease. Continuous molecular surveillance is essential for monitoring virus circulation and guiding policy.",
+    "img": "https://static.toiimg.com/photo/msid-132721762,imgsize-50130.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ahead-of-dengue-vaccine-rollout-all-4-strains-found-in-circulation/articleshow/132721741.cms",
+    "time": "2026-07-29T20:53:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Guard's accidental gunshot kills man visiting bank in city",
+    "desc": "A customer was killed Tuesday after a security guard's gun discharged accidentally. Manish Kumar, a farmer, was updating his Aadhaar card at the Union Bank branch. The ex-serviceman guard, Vinod Kumar, was loading cartridges when the firearm discharged. The bullet struck Manish in the back, and he was rushed to the hospital. Police have arrested the guard and are investigating the incident further.",
+    "img": "https://static.toiimg.com/photo/msid-132721738,imgsize-31142.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/guards-accidental-gunshot-kills-man-visiting-bank-in-city/articleshow/132721712.cms",
+    "time": "2026-07-29T20:48:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'If the rule is broken, he's GONE': Hollywood star exposes Lionel Messi's uncompromising rule on every film set",
+    "desc": "Will Ferrell has revealed Lionel Messi’s strict rule for commercial shoots, claiming production crews get just 30 minutes with the Argentina captain before he leaves. The insight came from Steve Carell after filming a Lay’s campaign with Messi. Ferrell said the tight deadline creates a frantic rush, highlighting Messi’s disciplined approach to managing his packed commercial schedule.",
+    "img": "https://static.toiimg.com/photo/msid-132721695,imgsize-1031584.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/if-the-rule-is-broken-hes-gone-hollywood-star-exposes-lionel-messis-uncompromising-rule-on-every-film-set/articleshow/132721594.cms",
+    "time": "2026-07-29T20:32:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Dilip Mahadu wins Gold, Basil claims Silver in historic India 1-2",
+    "desc": "Dilip Gavit secured gold in the men's T47 100m race with a new Games Record. Mohammed Basil Morssinganakth followed closely, earning the silver medal for India. This remarkable performance ensured a historic one-two finish for the Indian contingent. England's Kevin Santos claimed the bronze medal in the competitive event. The athletes delivered strong performances on the track.",
+    "img": "https://static.toiimg.com/photo/msid-132721683,imgsize-1183061.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/t47-100m-dilip-mahadu-gavit-wins-gold-mohammed-basil-claims-silver-in-historic-india-1-2/articleshow/132721668.cms",
+    "time": "2026-07-29T20:30:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "No ban on Jagannath movie, artists must enjoy creative liberty, says Supreme Court",
+    "desc": "The Supreme Court rejected a plea to ban an animated film on Mahaprabhu Jagannath. Justices emphasized artists' creative expression and tolerance for depicting deities. They noted that preventing such depictions would halt many religious television programs. The court stated that the Censor Board's approval meant no judicial interference was needed. It refused to restrict artistic creativity based on the objections of a few.",
+    "img": "https://static.toiimg.com/photo/msid-132721677,imgsize-1086243.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-ban-on-jagannath-movie-artists-must-enjoy-creative-liberty-says-supreme-court/articleshow/132721665.cms",
+    "time": "2026-07-29T20:25:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Continue with your duties fearlessly, CRPF chief tells troopers amid pellet gun row",
+    "desc": "CRPF Director General G P Singh supports troops acting in good faith during duty. He assures responsibility for all decisions made in the public interest. An internal probe found standard operating procedures were followed by RAF personnel. Pellet guns were used after other crowd dispersal methods failed. This investigation may prevent charges against the RAF personnel involved.",
+    "img": "https://static.toiimg.com/photo/msid-132721641,imgsize-365412.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/continue-with-your-duties-fearlessly-crpf-chief-tells-troopers-amid-pellet-gun-row/articleshow/132721627.cms",
+    "time": "2026-07-29T20:12:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Murali Sreeshankar bags Silver in thrilling long jump final, misses Gold by 6cm",
+    "desc": "Murali Sreeshankar secured the silver medal in the men's long jump event. He achieved a best leap of 8.09m in the fiercely contested final. Jamaica's Tajay Gayle won gold with a jump of 8.15m in the fourth round. Scotland's Stephen Mackenzie claimed the bronze medal with a jump of 8.08m. Lokesh finished fifth in his Commonwealth Games debut competition.",
+    "img": "https://static.toiimg.com/photo/msid-132721626,imgsize-95208.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/murali-sreeshankar-bags-silver-in-thrilling-long-jump-final-misses-gold-by-6cm/articleshow/132721623.cms",
+    "time": "2026-07-29T20:11:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Twinkle Khanna wasn't capable enough,' Suneel on Mela: 'She spoke about the film with no dignity'",
+    "desc": "Filmmaker Suneel Darshan voiced criticism regarding Twinkle Khanna's casting in the film Mela. He expressed disappointment over her repeated public mockery of the movie years later. Darshan claimed script changes and the lead actress choice hurt the film's original vision. Twinkle Khanna has often humorously referenced Mela's box office performance and its impact. The action drama Mela, released in 2000, received poor reviews and failed commercially.",
+    "img": "https://static.toiimg.com/photo/msid-132721620,imgsize-375708.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/twinkle-khanna-wasnt-capable-enough-says-suneel-darshan-wasnt-happy-with-her-casting-in-mela-didnt-like-how-she-spoke-about-the-film-no-dignity/articleshow/132721598.cms",
+    "time": "2026-07-29T20:09:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Lok Sabha passes anti-paper leak bill after row over Rahul Gandhi's remarks",
+    "desc": "The Lok Sabha passed a bill to make paper leak punishments more stringent. This legislation aims to expedite trials and deter unfair means in public examinations. The bill proposes significant jail terms and hefty fines for individuals involved in paper leaks. Investigations into paper leak cases are to be completed within two months. The government also highlighted an increase in universities and higher education institutions.",
+    "img": "https://static.toiimg.com/photo/msid-132721599,imgsize-2400264.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/lok-sabha-passes-anti-paper-leak-bill-after-row-over-rahul-gandhis-remarks/articleshow/132721569.cms",
+    "time": "2026-07-29T20:03:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cape Verde's World Cup hero Vozinha hit by bizarre rule that could wipe his famous name off his shirt",
+    "desc": "Cape Verde goalkeeper Vozinha is set to join Chilean giants Colo-Colo after his breakout 2026 World Cup performances, but league rules could force him to drop his famous nickname from his shirt. Colo-Colo have requested a special exemption, while the 40-year-old insists he wants to be valued for his football, not his newfound global fame.",
+    "img": "https://static.toiimg.com/photo/msid-132721559,imgsize-125156.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/cape-verdes-world-cup-hero-vozinha-hit-by-bizarre-rule-that-could-wipe-his-famous-name-off-his-shirt/articleshow/132721481.cms",
+    "time": "2026-07-29T19:52:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CAQM urges NCR States to deploy drones to monitor stubble burning",
+    "desc": "Govts. of Delhi, Haryana, Punjab, U.P., Rajasthan asked to ensure monitoring of paddy cultivation areas, especially identified hotspot villages and fire-prone locations; conduct drone surveys from 3 p.m. to 9 p.m., when attempts to evade satellite detection are more likely, pollution watchdog also says",
+    "img": "https://th-i.thgim.com/public/incoming/sykf9i/article71282435.ece/alternates/LANDSCAPE_1200/CM-attacks-PunjGSHF6C2NU.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/caqm-urges-ncr-states-to-deploy-drones-to-monitor-stubble-burning/article71282120.ece",
+    "time": "2026-07-29T19:37:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Maharashtra State Film Awards 2025 winners announced",
+    "desc": "The Maharashtra Government’s Department of Tourism and Cultural Affairs has announced the recipients of the 2025 Maharashtra State Film Awards, honouring some of Indian cinema’s most celebrated personalities for their outstanding contributions to the industry.",
+    "img": "https://static.toiimg.com/photo/msid-132721219,imgsize-103352.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/maharashtra-state-film-awards-2025-winners-announced-prasad-oak-rani-mukerji-salim-khan-honoured/articleshow/132721179.cms",
+    "time": "2026-07-29T19:20:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "European football considers World Cup boycott over FIFA's controversial $20bn sellout plan",
+    "desc": "FIFA's plan to sell a 20% stake in a new commercial subsidiary has sparked fierce backlash from UEFA, the FA and Concacaf over transparency and governance concerns. UEFA is considering an emergency meeting, with a potential World Cup boycott among options. Gianni Infantino insists the proposal would unlock $10 billion in funding for member associations through 2030.",
+    "img": "https://static.toiimg.com/photo/msid-132721150,imgsize-78070.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/european-football-considers-world-cup-boycott-over-fifas-controversial-20bn-sellout-plan/articleshow/132719727.cms",
+    "time": "2026-07-29T19:08:13.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Tourists no longer sleep in taxis, Farooq Abdullah hails hotel boom in Kashmir",
     "desc": "In a recent statement, LG Manoj Sinha commended hotels for their role as facilitators of peace and their significant financial commitments to the sector. He pointed out that numerous hotels had overlooked crucial construction regulations. Farooq Abdullah highlighted the employment opportunities generated by hotels, reminiscing about a time when accommodation options were limited.",
     "img": "https://static.toiimg.com/photo/msid-132720271,imgsize-78354.cms",
@@ -127,15 +289,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "No shots fired at students, says Union Minister Jitendra Singh as Lok Sabha passes tougher anti-paper leak Bill",
-    "desc": "The Bill enhances penalties for offenders, individuals found guilty of paper leaks or other unfair means in public examinations will face imprisonment ranging upto 10 years and fines of up to ₹50 lakh while organised rackets will attract a minimum sentence of seven years and fines of up to ₹10 crore",
-    "img": "https://th-i.thgim.com/public/incoming/cke76l/article71281345.ece/alternates/LANDSCAPE_1200/PTI07_29_2026_000244B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/lok-sabha-clears-anti-paper-leak-amendment-bill-amid-opposition-din/article71281283.ece",
-    "time": "2026-07-29T16:35:09.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Mamata urges EC to wrap up Trinamool dispute, opposes more time for rival camp",
     "desc": "Mamata Banerjee urged the Election Commission to conclude its party dispute inquiry. Her faction submitted its response while the rival group sought extensions. The rival faction has failed to submit its response despite two granted extensions. Mamata Banerjee believes the rival group is creating false evidence to develop their case. She requested an early conclusion to the proceedings without further delays.",
     "img": "https://static.toiimg.com/photo/msid-132717230,imgsize-654943.cms",
@@ -190,15 +343,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Political leaders urge Centre to approve metro rail project for Coimbatore",
-    "desc": "Former Coimbatore South MLA Vanathi Srinivasan says TVK-led government should revise DPR and submit it to the Centre again, adding that the Union government approves any proposal meeting the criteria mentioned in the metro policy",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/political-leaders-urge-centre-to-approve-metro-rail-project-for-coimbatore/article71282447.ece",
-    "time": "2026-07-29T15:54:58.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Meta tells IT ministry PM Modi's posts will get additional oversight, senior reviews",
     "desc": "Meta assured the government of enhanced oversight for Prime Minister Modi's posts. This assurance followed the brief removal of his video addressing the NEET paper leak issue. The company admitted the video's temporary removal was due to an unintended error. Prime Minister Modi had discussed stricter measures against paper leaks in the video. Meta officials will meet government representatives soon to discuss this incident further.",
     "img": "https://static.toiimg.com/photo/msid-132716108,imgsize-78299.cms",
@@ -250,15 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/prince-william-likely-to-be-livid-royal-expert-says-meghan-markles-tasteless-althorp-pictures-have-fueled-disgust/articleshow/132715552.cms",
     "time": "2026-07-29T15:04:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi Police refutes claim that woman protester sustained gunshot injury",
-    "desc": "Delhi Police rejected claims of a gunshot injury sustained by a woman protester. Her medico-legal certificate showed only a simple blunt-force injury near her right ear. The official medical document did not mention any gunshot wound from the incident. Police advised the public to verify information before sharing such claims. The allegations were described as baseless by the Delhi Police department.",
-    "img": "https://static.toiimg.com/photo/msid-132715506,imgsize-1363060.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cjp-protest-delhi-police-refutes-claim-that-woman-protester-sustained-gunshot-injury/articleshow/132715476.cms",
-    "time": "2026-07-29T15:00:04.000Z"
   },
   {
     "cat": "Sports",
@@ -331,33 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/icc-punishes-pakistan-seamers-after-defeat-against-west-indies-in-first-test/articleshow/132714258.cms",
     "time": "2026-07-29T14:07:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Rahul Gandhi's remarks on student protests trigger Parliament showdown: What happened next",
-    "desc": "The Lok Sabha passed the Public Examinations Amendment Bill amid disruptions and political debate. Rahul Gandhi attacked the government over alleged police action and education privatization. Union ministers rebutted Gandhi's claims, calling them baseless and false allegations. The bill introduces stricter punishments for examination-related offenses and paper leaks. This legislation aims to ensure fairness and prevent unfair means in public examinations.",
-    "img": "https://static.toiimg.com/photo/msid-132714270,imgsize-968130.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/rahul-gandhis-remarks-on-student-protests-trigger-parliament-showdown-what-happened-next/articleshow/132714240.cms",
-    "time": "2026-07-29T14:02:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Rahul Gandhi's 'advice' to PM Modi, and 3 guarantees to students over police action on protesters",
-    "desc": "Rahul Gandhi accused the Centre of denying him Lok Sabha speech rights. He refused to apologize for blaming Amit Shah for police brutality. Gandhi demanded the Home Minister's dismissal and an independent probe. He alleged police used pellet guns and nail-fitted lathis on students. Gandhi promised justice and accountability for the injured students.",
-    "img": "https://static.toiimg.com/photo/msid-132714538,imgsize-966272.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/rahul-gandhis-advice-to-pm-modi-and-3-guarantees-to-students-over-police-action-on-protesters/articleshow/132713844.cms",
-    "time": "2026-07-29T13:47:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "World Cup final referee Slavko Vinčić makes major career decision one week after title clash",
-    "desc": "Slovenian referee Slavko Vinčić has retired after officiating the 2026 FIFA World Cup final, ending a distinguished career spanning nearly two decades. Despite criticism over his handling of Spain’s victory over Argentina, no evidence linked his retirement to the controversy. Vinčić leaves the game after refereeing major UEFA finals, two World Cups, and achieving football’s highest officiating honour.",
-    "img": "https://static.toiimg.com/photo/msid-132713423,imgsize-1191452.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/world-cup-final-referee-slavko-vini-makes-major-career-decision-one-week-after-spain-argentina-final/articleshow/132712885.cms",
-    "time": "2026-07-29T13:31:10.000Z"
   },
   {
     "cat": "Entertainment",
@@ -459,15 +567,6 @@ const newsData_en = [
     "time": "2026-07-29T12:22:58.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'One more thank you left': Sachin pays emotional tribute to coach Achrekar",
-    "desc": "Sachin Tendulkar honored his late mentor, Ramakant Achrekar, on Guru Purnima. He visited Achrekar's memorial at Mumbai's Shivaji Park to express his gratitude. Tendulkar reflected on the invaluable lessons his coach imparted throughout his career. Achrekar was instrumental in nurturing Tendulkar's talent and discipline from a young age. A memorial celebrating Achrekar's contribution was unveiled at Shivaji Park in 2024.",
-    "img": "https://static.toiimg.com/photo/msid-132711730,imgsize-1154143.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/one-more-thank-you-left-to-say-sachin-tendulkar-pays-emotional-tribute-to-coach-ramakant-achrekar-on-guru-purnima/articleshow/132711773.cms",
-    "time": "2026-07-29T12:21:51.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Salman Khan sells Bandra flat for Rs 3.50 crore",
     "desc": "Salman Khan sold his Bandra West apartment for Rs 3.50 crore, bought in 2015 for Rs 2.88 crore, records show. The 758 sq ft flat, in Shiv-Asthan Heights, was registered July 9. This marks his second Bandra sale in a year, following a Rs 5.35 crore deal in 2025.",
@@ -475,15 +574,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-sells-bandra-flat-for-rs-3-50-crore-second-such-deal-in-a-year/articleshow/132711993.cms",
     "time": "2026-07-29T12:19:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Bigil' actress Reba Monica John blessed with a baby girl",
-    "desc": "Actress Reba Monica John has welcomed her first child, a baby girl. She named her daughter Kiara Joseph, sharing the news with fans online. The 'Bigil' actress revealed her daughter was born on July 22. She shared adorable pictures of her newborn and husband with the announcement. Fans and celebrities have sent congratulatory messages to the new family.",
-    "img": "https://static.toiimg.com/photo/msid-132711464,imgsize-142528.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/reba-monica-john-blessed-with-a-baby-girl-name-her-kiara-joseph-bigil-actress-shares-first-adorable-pictures/articleshow/132711410.cms",
-    "time": "2026-07-29T11:56:46.000Z"
   },
   {
     "cat": "Sports",
@@ -504,24 +594,6 @@ const newsData_en = [
     "time": "2026-07-29T11:47:09.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Karishma and Varun welcome their first child, a boy",
-    "desc": "Karishma Tanna and husband Varun Bangera welcomed their first child, a baby boy, born on Guru Purnima, July 29, 2026. Karishma shared the news on Instagram, writing, \"Our greatest blessing is here.\" Celebrities like Khushi Kapoor, Anjali Anand, and Anushka Ranjan showered love on the new parents.",
-    "img": "https://static.toiimg.com/photo/msid-132711247,imgsize-249715.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/its-a-baby-boy-karishma-tanna-and-varun-bangera-welcome-their-first-child-on-the-auspicious-day-of-guru-purnima/articleshow/132711247.cms",
-    "time": "2026-07-29T11:45:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why Australia coach is dreaming of Ben Stokes' 'fairytale' return for Ashes",
-    "desc": "Australian coach Andrew McDonald desires Ben Stokes' return for the 2027 Ashes series. He believes this would create a compelling narrative for the cricket rivalry. Stokes retired from Test cricket earlier this year after a home series defeat. A new England coach might persuade him to reconsider his decision to play again. Stokes has continued playing domestic cricket, showing he still has ability.",
-    "img": "https://static.toiimg.com/photo/msid-132711016,imgsize-11094.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/why-australia-coach-is-dreaming-of-ben-stokes-fairytale-return-for-one-last-ashes/articleshow/132710825.cms",
-    "time": "2026-07-29T11:41:13.000Z"
-  },
-  {
     "cat": "Business",
     "title": "‘Made in India’ phones go global: Smartphone exports jump 165 times to Rs 2.59 lakh crore",
     "desc": "India's electronics manufacturing sector has seen substantial growth over the past decade. Mobile phone exports have increased significantly, reaching approximately Rs 2.59 lakh crore by 2025-26. Domestic mobile phone production has also risen around 33 times during the same period. The broader electronics manufacturing base has expanded nearly seven times, with exports growing elevenfold. The government's Semicon India Programme supports semiconductor fabrication, packaging, and chip design capabilities.",
@@ -529,15 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/made-in-india-phones-go-global-smartphone-exports-jump-165-times-to-rs-2-59-lakh-crore/articleshow/132710144.cms",
     "time": "2026-07-29T11:04:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill dethrones Daryl Mitchell, reclaims ODI No. 1 ranking after six months",
-    "desc": "Shubman Gill has reclaimed the world number one ODI batting ranking spot. Daryl Mitchell of New Zealand slips to second place after missing recent matches. Virat Kohli and Rohit Sharma also feature prominently in the top five rankings. Indian batters Shreyas Iyer and KL Rahul are ranked within the top twenty. Other notable movers include Bernard Scholtz and Justin Greaves in bowling categories.",
-    "img": "https://static.toiimg.com/photo/msid-132709979,imgsize-107016.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shubman-gill-dethrones-daryl-mitchell-india-captain-reclaims-icc-odi-no-1-ranking-after-six-months/articleshow/132709913.cms",
-    "time": "2026-07-29T10:56:58.000Z"
   },
   {
     "cat": "Business",
@@ -621,15 +684,6 @@ const newsData_en = [
     "time": "2026-07-29T06:12:48.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Yash Thakur's untold story: Karate, father's dream and India's newest pace hope",
-    "desc": "During the Zimbabwe tour, Yash Thakur consistently bowled hard lengths and back-of-a-length deliveries to return figures of 4-0-30-2 on debut. He retained his place for the third and final T20I and impressed once again, finishing with figures of 4-0-45-2.",
-    "img": "https://static.toiimg.com/photo/msid-132702302,imgsize-47866.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/yash-thakurs-untold-story-karate-rejections-fathers-dream-and-indias-newest-pace-hope/articleshow/132702188.cms",
-    "time": "2026-07-29T06:02:15.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Rupee gains for fourth straight session as dollar weakens, oil prices remain below $90",
     "desc": "The Indian Rupee strengthened for a fourth straight session on Wednesday. It gained five paise against the US dollar, reaching 95.77. This rise was supported by a softer American currency and lower crude oil prices. Improved domestic equity sentiment and foreign investor buying also boosted the rupee. Market participants watched the dollar index and crude oil price movements closely.",
@@ -682,15 +736,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/100-tariffs-for-india-us-senate-advances-key-russian-sanctions-bill/articleshow/132698085.cms",
     "time": "2026-07-29T02:50:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Where does India stand after Day 6 in Glasgow?",
-    "desc": "India enjoyed a strong Day 6 at the Commonwealth Games 2026, led by Gulveer Singh's historic silver in the men's 10,000m, India's first-ever medal in the event, and Harjinder Kaur's weightlifting silver. Three Indian boxers secured semifinal spots, guaranteeing medals. India ended the day ninth in the standings with 12 medals, while Australia remained on top.",
-    "img": "https://static.toiimg.com/photo/msid-132698235,imgsize-192907.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-medal-table-where-does-india-stand-after-gulveer-singh-and-harjinder-kaurs-silver-on-day-6-in-glasgow/articleshow/132697779.cms",
-    "time": "2026-07-29T02:41:33.000Z"
   },
   {
     "cat": "Sports",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/children/how-are-astronauts-trained/article71189012.ece",
     "time": "2026-07-22T04:49:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
   }
 ];
