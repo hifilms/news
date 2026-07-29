@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Justin Langer as England Test coach? Former Australia batter shares update on speculations",
+    "desc": "Justin Langer has indicated that he has not been approached by the England and Wales Cricket Board (ECB) regarding the vacant England Test head coach position. After Brendon McCullum stepped down from the position, Langer...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/justin-langer-as-england-test-coach-former-australia-batter-shares-update-on-speculations-2026-07-29-1049735",
+    "time": "2026-07-29T07:55:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What is 'Clicky Ponting' and why is the viral cricket controversy trending on social media? WATCH VIDEO",
+    "desc": "English club cricket is at the centre of an unusual controversy after a player was accused of using finger-clicking to influence umpiring decisions. It prompted a formal investigation by the North Yorkshire and South Durham...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/what-is-clicky-ponting-and-why-is-the-viral-cricket-controversy-trending-on-social-media-watch-video-2026-07-29-1049728",
+    "time": "2026-07-29T07:06:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan set unwanted record after Jayden Seales claims five-wicket haul in West Indies' win",
+    "desc": "West Indies battered Pakistan to register a 90-run win in the first Test in Trinidad, taking a 1-0 lead in the two-match series. Notably, the visitors were chasing a modest total of 211 runs in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-set-unwanted-record-after-jayden-seales-claims-five-wicket-haul-in-west-indies-win-2026-07-29-1049723",
+    "time": "2026-07-29T06:18:37.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Spain, England, Portugal among 55 European nations threaten to boycott next FIFA World Cup",
     "desc": "European football's governing body, UEFA, is moving toward an emergency consultation with all 55 of its member associations, like Spain, England, Portugal and France among others, as resistance grows against a FIFA proposal to introduce outside...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/india-wins-bronze-in-issf-world-cup-mixed-doubles-through-sonam-uttam-maskar-himanshu-dhillon-2026-07-28-1049651",
     "time": "2026-07-28T12:41:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India coach steps down ahead of Sri Lanka series, set to join Kolkata Knight Riders in IPL 2027",
-    "desc": "Ryan ten Doeschate has stepped down as assistant coach of the India men's cricket team. Earlier in the year, the former Netherlands cricketer issued a statement, confirming his desire to step aside after not being...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-coach-steps-down-ahead-of-sri-lanka-series-set-to-join-kolkata-knight-riders-in-ipl-2027-2026-07-28-1049644",
-    "time": "2026-07-28T11:32:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cricketers pause match, rush to help people after wildfire breaks out near stadium",
-    "desc": "Cricket has witnessed some bizarre interruptions over the years, from bee swarms and solar eclipses to a car parked on the pitch and even the death of King George VI in England in 1951. Now,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/cricketers-pause-match-rush-to-help-people-after-wildfire-breaks-out-near-stadium-2026-07-28-1049640",
-    "time": "2026-07-28T11:13:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Zinedine Zidane appointed as new France head coach after Didier Deschamps calls it quits after 14 years",
-    "desc": "Zinedine Zidane has been appointed as the new head coach of the France national team. He takes over the charge after Didier Deschamps brought an end to his 14-year tenure following France’s semi-final elimination at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/zinedine-zidane-appointed-as-new-france-head-coach-after-didier-deschamps-calls-it-quits-after-14-years-2026-07-28-1049632",
-    "time": "2026-07-28T09:43:35.000Z"
   }
 ];

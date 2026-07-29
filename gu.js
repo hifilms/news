@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "&amp;#039;સ્ટુડન્ટ, ઇડિયટ અને અંધભક્ત&amp;#039;...રાહુલ ગાંધીના 3 કેટેગરીવાળા નિવેદનથી લોકસભામાં ભારે હોબાળો",
+    "desc": "લોકસભામાં આજે પણ એન્ટી પેપરલીક બિલ પર ચર્ચા ચાલુ છે. ચર્ચાના બીજા દિવસે નેતા વિપક્ષ રાહુલ ગાંધીએ જેવું બોલવાનું શરૂ કર્યું કે હંગામો શરૂ થઈ ગયો. તેમણે કહ્યું કે જે થયું તેમાં કશું ખોટું નથી અને દરેક ભારતીયને તેના પર ગર્વ હોવો જોઈએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/rahul-gandhi-speaks-in-lok-sabha-on-anti-paper-leak-bill-neet-paper-leak-protest-486100 ",
+    "time": "2026-07-29T08:20:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "યુવરાજ સિંહ નહીં...  ભારતના આ ખતરનાક બેટ્સમેને ફટકારી સૌથી ઝડપી T20 અડધી સદી, 441ની સ્ટ્રાઇક રેટથી માત્ર 11 બોલમાં માર્યા 50 રન",
+    "desc": "આ દુનિયામાં એક ખતરનાક બેટ્સમેન છે, જેણે એક સમયે ક્રિકેટના મેદાન પર એવો તબાહી મચાવી હતી કે વિરોધી ટીમના બોલરો દયા માટે ભીખ માંગવા લાગ્યા હતા. આ ભારતીય બેટ્સમેનએ T20 ક્રિકેટમાં 11 બોલમાં અડધી સદી ફટકારીને રેકોર્ડ બનાવ્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/this-indian-batsman-scored-the-fastest-t20-half-century-scoring-50-runs-in-just-11-balls-at-a-strike-rate-of-441-486089 ",
+    "time": "2026-07-29T07:05:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "30 જુલાઈએ બ્રહ્મ મુહૂર્તમાં રિલીઝ થશે રામાયણ ફિલ્મનું ટ્રેલર, નમિત મલ્હોત્રાએ કર્યું કંફર્મ",
+    "desc": "રામાયણ ફિલ્મનું ટ્રેલર ક્યારે રિલીઝ થશે અને સમય કયો છે તે કંફર્મ કરી દેવામાં આવ્યું છે. 30 જુલાઈ એટલે કે કાલે રામાયણ ફિલ્મનું ટ્રેલર રિલીઝ થઈ જશે. આ ટ્રેલર ક્યારે રિલીઝ થશે તેનો સમય પણ જણાવી દેવામાં આવ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/ramayana-trailer-new-release-ramayana-trailer-will-be-release-on-30-july-during-brahma-muhurta-486086 ",
+    "time": "2026-07-29T06:51:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કર્ણાટકમાંથી ડરામણો રિપોર્ટ: 7,000 થી વધુ વિદ્યાર્થીઓ HIV પોઝિટિવ, કૉલેજમાં સ્ક્રીનિંગ કેમ્પનો સખત આદેશ",
+    "desc": "કર્ણાટકમાં વિદ્યાર્થીઓ વચ્ચે HIV સંક્રમણને લઈને સામે આવેલા અહેવાલે આરોગ્ય વિભાગની ચિંતા વધારી દીધી છે. અહેવાલ મુજબ 7,000 થી વધુ વિદ્યાર્થીઓ HIV પોઝિટિવ મળી આવ્યા છે. ત્યારબાદ રાજ્ય સરકારે કૉલેજોમાં HIV સ્ક્રીનિંગ કેમ્પ આયોજિત કરવાના નિર્દેશ આપ્યા છે. જાણો પૂરો અહેવાલ, સરકારી આદેશ અને આરોગ્ય નિષ્ણાતોની સલાહ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/alarming-report-from-karnataka-over-7000-students-hiv-positive-strict-orders-issued-for-screening-camps-in-colleges-486081 ",
+    "time": "2026-07-29T05:49:29.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "ગુજરાતમાં પૂરથી ટાટા મોટર્સને મોટો ફટકો: પ્રોડક્શન રોકાતા આ ફેવરીટ કારોની સપ્લાય પર પડી શકે છે અસર? જાણો",
     "desc": "ગુજરાતનો સાણંદ પ્લાન્ટ ટાટા મોટર્સ પેસેન્જર વ્હીકલ્સ લિમિટેડ (TMPV) માટે મહત્વપૂર્ણ છે. કંપનીના ઘણા હાઈ ડિમાંડના વાહનો અહીં બનાવવામાં આવે છે. પૂરને કારણે ઉત્પાદન બંધ થવાથી આ કારોના પુરવઠા અને ડિલિવરી પર અસર પડી શકે છે.",
@@ -288,15 +324,6 @@ const newsData_gu = [
     "time": "2026-07-27T11:06:11.000Z"
   },
   {
-    "cat": "Business",
-    "title": "CKYC 2.0: 1 ઓગસ્ટથી આવી રહ્યું છે CKYC 2.0, વારંવાર KYC ચેક કરવાની ઝંઝટમાંથી મળશે મુક્તી, કેવી રીતે કરે છે કામ",
-    "desc": "CKYC 2.0, સેન્ટ્રલ નો યોર કસ્ટમર (CKYC) પ્રોજેક્ટ, 1 ઓગસ્ટના રોજ શરૂ થવાની ધારણા છે. આનાથી અનેક KYC ચેકની ઝંઝટ દૂર થશે. ત્યારબાદ તમારે એક સેન્ટ્રલ ડેટાબેઝમાં નોંધણી કરાવવાની જરૂર પડશે, જે 14-અંકનો CKYC નંબર જનરેટ કરશે. આનાથી KYC માટે વારંવાર દસ્તાવેજો સબમિટ કરવાની જરૂરિયાત દૂર થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/ckyc-2-0-is-coming-from-august-1-you-will-get-rid-of-the-hassle-of-repeated-kyc-checks-how-does-it-work-485908 ",
-    "time": "2026-07-27T10:00:58.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "&amp;#039;કોઈએ કહેવાની જરૂર નથી કે મારે શું કરવાનું છે...&amp;#039;, સંજુ સેમસનનું વિસ્ફોટક નિવેદન, કોના તરફ ઈશારો ?",
     "desc": "ભારત માટે વિસ્ફોટક બેટ્સમેન હોવા ઉપરાંત સંજુ સેમસન એક બેસ્ટ વિકેટકીપર પણ છે. તેને સતત આંતરરાષ્ટ્રીય ક્રિકેટ રમવાની તક મળતી નથી. ત્યારે સંજુ સેમસને અચાનક એક વિસ્ફોટક નિવેદન આપ્યું છે, જે બાદ ભારતીય ક્રિકેટમાં ખળભળાટ મચી ગયો છે.",
@@ -304,15 +331,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/sanju-samson-explosive-statement-no-one-needs-to-tell-me-what-to-do-485907 ",
     "time": "2026-07-27T09:36:57.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "અંબાણી પરિવાર કરતા પણ વધુ પગાર લેતા રિલાયન્સના આ &amp;#039;સિક્રેટ ભાઈઓ&amp;#039; કોણ છે? જાણો ૬ દાયકા જૂની રોચક કહાની!",
-    "desc": "રિલાયન્સ અને અંબાણી પરિવારની વાત આવે ત્યારે દેશ-દુનિયાના મગજમાં મુકેશ અંબાણી, Nita Ambani કે તેમના ત્રણ બાળકો—Isha Ambani, Akash Ambani અને Anant Ambaniના ચહેરા જ તરવરી ઊઠે. પરંતુ શું તમે જાણો છો કે રિલાયન્સ સામ્રાજ્યને ઊભું કરવામાં અને તેને અબજો ડોલરની ઊંચાઈએ પહોંચાડવામાં પડદા પાછળ એક એવો પરિવાર પણ કામ કરી રહ્યો છે, જે અંબાણી પરિવાર કરતા પણ વધુ પગાર મેળવે છે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/reliances-%E2%80%98secret-brothers%E2%80%99-earning-more-than-the-ambani-family-discover-the-6-decade-old-untold-story-485902 ",
-    "time": "2026-07-27T09:10:57.000Z"
   },
   {
     "cat": "Sports",
@@ -342,24 +360,6 @@ const newsData_gu = [
     "time": "2026-07-26T15:27:16.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "કોણ છે નંદન નીલેકણી? જેમને મોદી સરકારે સોંપી દેશની પરીક્ષા વ્યવસ્થા સુધારવાની જવાબદારી, સંભાળશે હાઈ પાવર્ડ ટાસ્ક ફોર્સની કમાન",
-    "desc": "પેપર લીક મામલે શિક્ષણ મંત્રીના રાજીનામા બાદ મોદી સરકારે વધુ એક મોટું પગલું ભર્યું છે. સરકારે પરીક્ષા પ્રણાલીમાં સુધારા માટે એક હાઈ પાવર્ડ ટાસ્ક ફોર્સ બનાવવાની જાહેરાત કરી છે. આ ફોર્સની કમાન ટેક્નોલોજી સેક્ટરના દિગ્ગજ નંદન નીલેકણીને સોંપવામાં આવી છે. જાણો નંદન કોણ છે અને શા માટે તેમને આ કામ માટે પસંદ કરવામાં આવ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/who-is-nandan-nilekani-modi-government-has-entrusted-him-with-the-responsibility-of-improving-the-country-examination-system-he-will-take-charge-of-the-high-powered-task-force-485845 ",
-    "time": "2026-07-26T15:21:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "પેપર લીક પર PM મોદીનો નવો વીડિયો, કહ્યું- &amp;#039;વિદ્યાર્થીઓના ભવિષ્ય સાથે ચેડા કરનાર...&amp;#039;",
-    "desc": "પેપર લીક મુદ્દે પીએમ મોદીએ ઇન્સ્ટાગ્રામ પર વધુ એક વીડિયો શેર કર્યો છે. જેમાં યુવાનોને ખાતરી આપવામાં આવી છે કે કડક દોષિતો સામે કડક પગલાં લેવામાં આવશે. તેમણે પરીક્ષા સિસ્ટમને સુરક્ષિત, પારદર્શક અને આધુનિક બનાવવાના ઉદ્દેશ્યથી ટેકનિકલ સુધારાઓ અમલમાં મૂકવા માટે ટેક નિષ્ણાત નંદન નીલેકણીના નેતૃત્વમાં એક હાઈ પાવર ટાસ્ક ફોર્સની રચનાની જાહેરાત કરી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/pm-modi-new-video-on-paper-leak-announces-high-powered-task-force-on-exam-reforms-485844 ",
-    "time": "2026-07-26T15:21:02.000Z"
-  },
-  {
     "cat": "World",
     "title": "હોર્મુઝમાં મોટો અકસ્માત ! સી-માઇન સાથે ઓઇલ ટેન્કર અથડાતા ભયાનક વિસ્ફોટ",
     "desc": "ઈરાની મીડિયાએ દાવો કર્યો છે કે હોર્મુઝ સ્ટ્રેટમાંથી પસાર થઈ રહેલા એક ઓઈલ ટેન્કર સી-માઇન સાથે અથડાયા બાદ વિસ્ફોટ થયો હતો. અહેવાલો અનુસાર, આ ઘટના એટલા માટે બની કારણ કે ટેન્કર તેના નિર્ધારિત દરિયાઈ માર્ગથી ભટકી ગયું હતું.",
@@ -367,15 +367,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/major-blast-in-hormuz-oil-tanker-explodes-after-hitting-sea-mine-485837 ",
     "time": "2026-07-26T14:08:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "હાડ થીજવતી ઠંડીમાં પણ અડગ હતા ભારતના વીર યોદ્ધાઓ, કેવી રીતે શરૂ થયું હતું આ યુદ્ધ?",
-    "desc": "દર વર્ષે 26 જુલાઈના રોજ કારગિલ વિજય દિવસ 'ઓપરેશન વિજય'ના બહાદુર સૈનિકોના સાહસ, બલિદાન અને અતૂટ સંકલ્પના સન્માન રૂપે મનાવવામાં આવે છે. આ કારગિલ યુદ્ધમાં ભારતની ઐતિહાસિક જીતની યાદ અપાવે છે અને રાષ્ટ્રની સાર્વભૌમત્વની રક્ષા કરનારી ભાવનાની ઉજવણી કરે છે. આ પ્રસંગ કારગિલના અમીટ વારસાને પણ પ્રતિબિંબિત કરે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/kargil-vijay-diwas-2026-india-brave-warriors-were-steadfast-even-in-the-bone-chilling-cold-how-did-the-war-start-485834 ",
-    "time": "2026-07-26T12:39:23.000Z"
   },
   {
     "cat": "Sports",
@@ -394,15 +385,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/crime-thriller-hindi-web-series-ott-sony-live-trisha-krishnan-brinda-485808 ",
     "time": "2026-07-26T10:48:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "શ્રીલંકા ટેસ્ટ પહેલા ભારતીય ટીમ માટે ખરાબ સમાચાર ! એક સાથે પાંચ ખેલાડી ઈજાગ્રસ્ત, કેપ્ટન ગિલની વધી ચિંતા",
-    "desc": "શ્રીલંકામાં 15 ઓગસ્ટથી શરૂ થનારી પહેલી ટેસ્ટ પહેલા ભારતીય ટીમ 7 ઓગસ્ટથી એક વોર્મ-અપ મેચ પણ રમશે. આ શ્રેણી માટે ભારતીય ટીમની જાહેરાત 28 જુલાઈએ થઈ શકે છે. જોકે, શ્રેણી પહેલા ટીમને ઘણા મોટા ઝટકાઓનો સામનો કરવો પડ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-sl-test-huge-setback-for-team-india-5-players-injured-485806 ",
-    "time": "2026-07-26T10:26:13.000Z"
   },
   {
     "cat": "Tech",
@@ -547,15 +529,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/cruise-missile-attack-on-ship-carrying-grain-from-ukraine-10-dead-including-4-indian-citizens-kiev-lashes-out-at-russia-485280 ",
     "time": "2026-07-20T17:20:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "સલમાન ખાને શેર કર્યા લેટેસ્ટ લુકના ફોટો, કેપ્શનની એક લાઈનથી હલબલી ગયું ઈંટરનેટ",
-    "desc": "સલમાન ખાનની એક તસવીરે ઈંટરનેટ પર વાયરલ થઈ હતી. જેના કારણે તેના ખરાબ થતા સ્વાસ્થ્યની ચર્ચા તેજ થઈ હતી. આ વાતનો એવો જવાબ સલમાન ખાને આપ્યો છે કે તેનાથી આખું ઈંટરનેટ હલબલી ગયું છે. શું કર્યું છે સલમાન ખાને જાણી લો તમે પણ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/salman-khan-answer-health-related-question-salman-khan-shared-new-look-photos-485233 ",
-    "time": "2026-07-20T07:46:03.000Z"
   },
   {
     "cat": "World",
