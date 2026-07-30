@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "প্রেমে বিচ্ছেদ চর্চার মাঝেই সোহমের আবেগঘন বার্তা! একের পর এক অঘটন, হল অস্ত্রোপচারও",
+    "desc": "শোলাঙ্কি রায়ের ‘সিঙ্গল’ পোস্টের পরেই তাঁদের সম্পর্কের বিচ্ছেদ নিয়ে তুমুল চর্চা! কিন্তু তার মাঝেই মূল শিরোনামে উঠে এল সোহম মজুমদারের আবেগঘন পোস্ট। হঠাৎ কী এমন ঘটে গেল অভিনেতার জীবনে? স্বজনহারা হওয়া, আকস্মিক অস্ত্রোপচার— চরম পারিবারিক বিপর্যয়ের মুখে দাঁড়িয়ে আজ কোন কঠিন সত্য ফাঁস করলেন অভিনেতা?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/soham-majumdar-emotional-post-on-family-issue-amid-solanki-roy-breakup-rumours_664668.html ",
+    "time": "2026-07-30T08:07:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "১০০০ কোটির 'রামায়ণ'-এ যশের তাণ্ডব! রণবীরকে টেক্কা রাবণের, কিন্তু কেন উধাও 'হনুমান' সানি দেওল?",
+    "desc": "নেটপাড়ায় তোলপাড় ফেলে দিয়েছে ১,০০০ কোটির ‘রামায়ণ’ ট্রেলার! রাবণ রূপে যশের হিংস্র তাণ্ডব আর রামের ভূমিকায় রণবীর কাপুরের স্নিগ্ধ রূপ নজর কেড়েছে সবার। তবে তারকাবহুল এই ট্রেলারে হনুমান রূপী সানি দেওল কেন সম্পূর্ণ উধাও? নীতেশ তিওয়ারির এই মহাকাব্যিক ছবিতে আসল চমক কি তবে এখনও বাকি?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/ramayana-trailer-out-ranbir-kapoor-as-ram-yash-as-ravana-full-cast-controversies_664663.html ",
+    "time": "2026-07-30T07:19:08.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "IRCTC-র বড় খবর! ট্রেনের টিকিট বুকিংয়ে দুর্দান্ত সুবিধা",
     "desc": "IRCTC পোর্টালে ট্রেনের কনফার্ম টিকিটের সঙ্গে অতিরিক্ত লাগেজ বুক করার সুবিধা চালু করছে। এর ফলে যাত্রীদের আর স্টেশনে ঘণ্টার পর ঘণ্টা দীর্ঘ লাইনে দাঁড়িয়ে সময় নষ্ট করতে হবে না। যাত্রার আগেই লাগেজ বুক করা যাবে, ফলে টিটিই (TTE)-এর অহেতুক জরিমানার ভয় থাকবে না।",
@@ -133,15 +151,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/neet-paper-leak-case-cbi-files-first-chargesheet-against-13-accused-before-delhi-court_664428.html ",
     "time": "2026-07-28T18:34:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'ছাত্ররা কি জঙ্গি? AK-47 চালানোর নির্দেশ দিল কে?', সংসদে কেন্দ্রের কাছে জবাব চাইলেন প্রিয়াঙ্কা গান্ধী",
-    "desc": "\"দেশের যুবকদের ওপর একে-৪৭ ও পেলেট গান কেন? তারা কি জঙ্গি?\" নিট (NEET) প্রশ্নপত্র ফাঁস কাণ্ডে বিহার ও দিল্লিতে আন্দোলনরত শিক্ষার্থীদের ওপর বলপ্রয়োগের বিরুদ্ধে সংসদে গর্জে উঠলেন কংগ্রেস সাংসদ প্রিয়াঙ্কা গান্ধী। কার নির্দেশে সিওয়ানে একে-৪৭ ও পেলেট গান চালানো হলো, তা নিয়ে প্রধানমন্ত্রী ও স্বরাষ্ট্রমন্ত্রীদের কাছে জবাবদিহি চাইলেন তিনি।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/priyanka-gandhi-questions-govt-pellet-guns-ak47-student-protest-neet_664417.html ",
-    "time": "2026-07-28T15:35:25.000Z"
   },
   {
     "cat": "World",
@@ -286,24 +295,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/bodhaditya-banerjee-directorial-debut-milton-arjun-chakraborty-shruti-das_663788.html ",
     "time": "2026-07-24T05:16:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘অহিংস আন্দোলনকে কুর্নিশ, রাজনীতির সময় নয়!’ নিট কাণ্ডে শিক্ষার্থীদের পাশে জিৎ-রূপম-অঞ্জনরা",
-    "desc": "নিট কেলেঙ্কারির প্রতিবাদে দিল্লির যন্তর মন্তরে আন্দোলনরত শিক্ষার্থীদের পাশে দাঁড়ালেন জিৎ, রূপম ইসলাম ও অঞ্জন দত্তরা। এটাকে রাজনৈতিক ফায়দা তোলার মাধ্যম না বানিয়ে স্বচ্ছ বিচারের দাবি জানান জিৎ। রূপম তাঁর 'সংহতি জানাই' গান শেয়ার করে সমর্থন জানান, আর অঞ্জন দত্ত শিক্ষার্থীদের অহিংস ও সাংবিধানিক লড়াইকে কুর্নিশ জানিয়েছেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/neet-paper-leak-cjp-protest-tollywood-actors-jeet-rupam-islam-anjan-dutt-react_663713.html ",
-    "time": "2026-07-23T13:04:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘পুলিসকে আক্রমণকারীরা ছাত্র হতে পারে না!’ নিট আন্দোলনে হিংসা নিয়ে গর্জে উঠলেন ‘অনুপমা’ রূপালী",
-    "desc": "মেডিক্যাল প্রবেশিকা পরীক্ষা ‘নিট’-এর প্রশ্নপত্র ফাঁস কাণ্ড ঘিরে দিল্লির যন্তর মন্তরে শিক্ষার্থীদের বিক্ষোভ ও অনশন আন্দোলন এখন জাতীয় রাজনীতির আলোচনার কেন্দ্রে। তবে এই আন্দোলনের মাঝে ঘটা হিংসাত্মক ঘটনা এবং পুলিসের সঙ্গে খণ্ডযুদ্ধের তীব্র নিন্দা জানালেন জনপ্রিয় টেলি-অভিনেত্রী তথা ‘অনুপমা’ খ্যাত রূপালী গঙ্গোপাধ্যায়। নিট পরীক্ষার্থীদের প্রতি সহানুভূতি থাকলেও, আন্দোলনের নামে সহিংসতাকে কোনওভাবেই সমর্থন করা যায় না বলে স্পষ্ট জানিয়ে দিয়েছেন এই অভিনেত্রী।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/those-who-attack-police-cannot-be-called-students-rupali-ganguly-says-neet-protesters-are-hurting-their-own-cause_663705.html ",
-    "time": "2026-07-23T12:28:43.000Z"
   },
   {
     "cat": "World",

@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Looking back at Ajinkya Rahane's finest performances after his retirement from all forms of cricket",
+    "desc": "Veteran India batter Ajinkya Rahane recently came forward and announced that he would be retiring from all forms of cricket. The 38-year-old took to Instagram and shared a heartfelt video with his fans where he...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/looking-back-at-ajinkya-rahane-s-finest-performances-after-his-retirement-from-all-forms-of-cricket-2026-07-30-1049865",
+    "time": "2026-07-30T08:07:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer questions Team India's management over uncapped star's exclusion ahead of SL Tests",
+    "desc": "The Indian team is all set to take on Sri Lanka in a two-game Test series. The two sides will meet in Galle and Colombo for the two Tests, and the first Test of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-questions-team-india-s-management-over-uncapped-star-s-exclusion-ahead-of-sl-tests-2026-07-30-1049850",
+    "time": "2026-07-30T06:37:25.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Ajinkya Rahane announces retirement from international cricket, shares heartfelt note for his fans",
     "desc": "Veteran India batter Ajinkya Rahane has come forward and announced his retirement from international cricket. He shared an emotional message with his fans on his social media, making the announcement official. At 38 years old,...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/5-shuttlers-to-watch-out-for-in-bwf-world-championship-2026-2026-07-29-1049790",
     "time": "2026-07-29T14:11:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Suresh Raina compares India's old fielding culture with current struggles after 32 dropped catches",
-    "desc": "India’s fielding efforts have worsened since the T20 World Cup 2026. Around 32 catches have been dropped by the Men in Blue across 19 T20Is, which is extremely worrying. These include slips from full-time players,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/suresh-raina-compares-india-s-old-fielding-culture-with-current-struggles-after-32-dropped-catches-2026-07-29-1049787",
-    "time": "2026-07-29T13:54:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Arundhati, Sachin Siwach enter semifinals to confirm more boxing medals for India at Commonwealth Games 2026",
-    "desc": "Boxers Arundhati Choudhary and Sachin Siwach confirmed two more medals for India at the Commonwealth Games 2026 as they made their way into the semifinals of their respective weight categories on Wednesday, July 29. Arundhati...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/arundhati-sachin-siwach-enter-semifinals-to-confirm-more-boxing-medals-for-india-at-commonwealth-games-2026-2026-07-29-1049783",
-    "time": "2026-07-29T13:24:36.000Z"
   }
 ];
