@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Ajinkya Rahane announces retirement from international cricket, shares heartfelt note for his fans",
+    "desc": "Veteran India batter Ajinkya Rahane has come forward and announced his retirement from international cricket. He shared an emotional message with his fans on his social media, making the announcement official. At 38 years old,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ajinkya-rahane-announces-retirement-from-international-cricket-2026-07-30-1049843",
+    "time": "2026-07-30T04:49:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Stephen Fleming to take over as England's next Test head coach? Check what reports say",
+    "desc": "It is well known throughout world cricket that England are in search of their next Test head coach. After Brendon McCullum stepped down from the role, the era of Bazball came to an end, and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/stephen-fleming-to-take-over-as-england-s-next-test-head-coach-check-what-reports-say-2026-07-30-1049840",
+    "time": "2026-07-30T04:36:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Murali Sreeshankhar retains silver medal, puts in stellar show in long jump final in Glasgow",
+    "desc": "The Indian contingent has started to fly high at the Commonwealth Games 2026. Murali Sreeshankhar added to India’s medal tally as he clinched the silver medal in the men’s long jump event. The 27-year-old successfully...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/murali-sreeshankhar-retains-silver-medal-puts-in-stellar-show-in-long-jump-final-in-glasgow-2026-07-30-1049831",
+    "time": "2026-07-30T03:35:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Litton Das appointed Bangladesh's new ODI captain, Tamim Iqbal explains logic behind major change",
+    "desc": "In a major development, the BCB (Bangladesh Cricket Board) has come forward and named veteran batter Litton Das as their new ODI captain, relieving Mehidy Hasan Miraz of his duties going forward. It is worth...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/litton-das-appointed-bangladesh-s-new-odi-captain-tamim-iqbal-explains-logic-behind-major-change-2026-07-30-1049825",
+    "time": "2026-07-30T02:03:46.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Dilip Gavit scripts history, clinches gold in men's 100m T47 at Commonwealth Games 2026",
     "desc": "India’s Dilip Gavit added to the country’s medal tally at the Commonwealth Games 2026. Clinching a historic gold medal, Gavit put forth a marvellous performance in the men’s 100m T47 and put in a record...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/arundhati-sachin-siwach-enter-semifinals-to-confirm-more-boxing-medals-for-india-at-commonwealth-games-2026-2026-07-29-1049783",
     "time": "2026-07-29T13:24:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi named vice-captain as East Zone announce Duleep Trophy squad",
-    "desc": "East Zone have named a 15-member squad for the upcoming Duleep Trophy, starting August 23. Ishan Kishan has been announced as the new captain, while Vaibhav Sooryavanshi will serve as his deputy. Meanwhile, Riyan Parag, who...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-named-vice-captain-as-east-zone-announce-duleep-trophy-squad-2026-07-29-1049780",
-    "time": "2026-07-29T13:08:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sakshi Chaudhary confirms another medal for India in Commonwealth Games 2026",
-    "desc": "Indian boxer Sakshi Chaudhary secured at least a bronze medal at the 2026 Commonwealth Games after outclassing Northern Ireland's Caitlin Fryers by a unanimous 5-0 decision in the women's 51kg quarterfinals in Glasgow on Wednesday,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/sakshi-chaudhary-confirms-another-medal-for-india-in-commonwealth-games-2026-2026-07-29-1049769",
-    "time": "2026-07-29T11:35:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australia opener's brother to play for European team, following Italy's footsteps leading to T20 World Cup",
-    "desc": "Greece has named Billy Konstas, the elder brother of Australia batter Sam Konstas, in their 14-member squad for next month's European qualifying tournament in Finland. With the goal of progressing to the 2028 T20 World...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/australia-opener-s-brother-to-play-for-european-team-following-italy-s-footsteps-leading-to-t20-world-cup-2028-2026-07-29-1049759",
-    "time": "2026-07-29T11:04:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill becomes number 1 ODI batter; Vaibhav Sooryavanshi jumps 230 positions in T20Is",
-    "desc": "India captain Shubman Gill has become the new number one ODI batter, as per the latest ICC rankings. The 26-year-old played a vital role in the three-match ODI series against England earlier in the month,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-becomes-number-1-odi-batter-vaibhav-sooryavanshi-jumps-230-positions-in-t20is-2026-07-29-1049744",
-    "time": "2026-07-29T08:48:17.000Z"
   }
 ];
