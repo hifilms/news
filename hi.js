@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Commonwealth Games 2026 India medal tally",
+    "desc": "India secured 15 medals so far in the Commonwealth Games 2026. The contingent has produced strong performances in athletics, para athletics, weightlifting and boxing in Glasgow. The country has won three gold, nine silver and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/commonwealth-games-2026-full-list-of-medal-winners-by-indians-athletes-2026-07-30-1049923",
+    "time": "2026-07-30T18:12:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ICC announces 12 stadiums to host ODI World Cup 2027, reveals logo",
+    "desc": "The International Cricket Council (ICC) has announced 12 venues for the ICC ODI World Cup 2027, set to be hosted in South Africa, Zimbabwe and Namibia. The venues were revealed at a ceremony in Johannesburg,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/icc-announces-12-stadiums-to-host-odi-world-cup-2027-reveals-logo-2026-07-30-1049920",
+    "time": "2026-07-30T17:25:20.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "UEFA issues statement, threatens to boycott all FIFA events following discussion of privatising World Cup",
     "desc": "European football's governing body and all 55 of its member associations have agreed to boycott FIFA competitions if world football's governing body proceeds with a proposal to open ownership stakes in its major tournaments to...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/saransh-jain-reveals-his-conversation-with-india-legend-after-maiden-call-up-to-india-s-test-team-2026-07-30-1049874",
     "time": "2026-07-30T09:14:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hockey India issues clarification on jersey row, defends colour change to saffron",
-    "desc": "Hockey India has been the talk of the town after it announced the colour change of hockey's men’s and women’s teams from blue to orange. On July 27, Hockey India took to social media and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/hockey/hockey-india-issues-clarification-on-jersey-row-defends-colour-change-to-saffron-2026-07-30-1049869",
-    "time": "2026-07-30T08:28:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Looking back at Ajinkya Rahane's finest performances after his retirement from all forms of cricket",
-    "desc": "Veteran India batter Ajinkya Rahane recently came forward and announced that he would be retiring from all forms of cricket. The 38-year-old took to Instagram and shared a heartfelt video with his fans where he...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/looking-back-at-ajinkya-rahane-s-finest-performances-after-his-retirement-from-all-forms-of-cricket-2026-07-30-1049865",
-    "time": "2026-07-30T08:07:15.000Z"
   }
 ];

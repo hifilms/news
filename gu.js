@@ -1,6 +1,15 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "બાળકોના ભવિષ્ય સાથે ચેડાં કરનાર ગેંગને છોડીશું નહીં, એન્ટી પેપર બિલ પાસ થયા બાદ PM મોદી શેર કર્યો વીડિયો",
+    "desc": "વડાપ્રધાન નરેન્દ્ર મોદીએ પેપર સંશોધન બિલ પાસ થયા બાદ ઇન્સ્ટાગ્રામ દ્વારા દેશભરના યુવાનો અને તેમના પરિવારો સાથે સીધો સંવાદ કર્યો છે. વડાપ્રધાન નરેન્દ્ર મોદીએ કહ્યું કે, સંસદે એક મહત્વપૂર્ણ બિલ પાસ કરી દીધું છે, જે દેશની પરીક્ષા સિસ્ટમને વધુ મજબૂત અને વિશ્વસનીય બનાવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/we-will-not-spare-the-gang-that-is-tampering-with-the-future-of-children-pm-modi-shared-a-video-after-the-anti-paper-bill-was-passed-486226 ",
+    "time": "2026-07-30T17:50:04.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "વંદે માતરમને પણ મળશે ‘જન ગણ મન’ જેટલું કાનૂની રક્ષણ, સરકારે લાવ્યું સુધારા વિધેયક 2026",
     "desc": "રાષ્ટ્રીય સન્માન અપમાન નિવારણ (સુધારા) વિધેયક, 2026 હવે રાષ્ટ્રીય ગીત 'વંદે માતરમ'ને પણ હવે 'જન ગણ મન' જેટલું જ કાનૂની રક્ષણ આપશે. આ સુધારા બાદ વંદે માતરમના ગાનમાં વિક્ષેપ પાડનાર અથવા ગાન દરમિયાન સભામાં ખલેલ પહોંચાડનાર સામે દંડનીય ગુનો બનશે અને આ માટે જેલની સજા પણ થઈ શકે છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -421,15 +430,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/bjp-mp-kangana-ranaut-targets-young-women-over-freedom-vs-responsibility-485967 ",
     "time": "2026-07-28T06:08:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "મેટાની મોટી ચૂક! PM મોદીનો વીડિયો હટાવ્યો, બવાલ વધતા આખરે માંગવી પડી માફી",
-    "desc": "સીજેપી પ્રોટેસ્ટ જે ભારતમાં Gen Zનું પહેલું આંદોલન પણ કહેવાઈ રહ્યું છે તે વખતે પીએમ મોદીએ પેપરલીક પર જે પહેલો વીડિયો મધરાતે સોશિયલ મીડિયા પ્લેટફોર્મ્સ પર શેર કર્યો હતો તે ખુબ વાયરલ થયો હતો. આ વીડિયો ફેસબુકના પ્લેટફોર્મથી અચાનક ગાયબ થઈ જતા હડકંપ મચી ગયો. હવે મેટાએ આ અંગે સ્પષ્ટતા પણ આપી છે. જાણો શું કહ્યું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/after-the-uproar-over-the-removal-of-pm-modi-video-meta-apologizes-485966 ",
-    "time": "2026-07-28T06:08:47.000Z"
   },
   {
     "cat": "Business",

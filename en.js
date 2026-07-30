@@ -1,21 +1,210 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "CWMA upholds CWRC’s order to Karnataka to release water to Tamil Nadu",
-    "desc": "The Cauvery Water Regulation Committee directed Karnataka to release water to Tamil Nadu at a rate of 3,500 cusecs a day for 15 days from July 29; however, Karnataka, facing drought, had filed an appeal against the CWRC’s order before the CWMA",
-    "img": "https://th-i.thgim.com/public/incoming/10dhct/article71285933.ece/alternates/LANDSCAPE_1200/20260729518L.jpg",
+    "title": "Properties of 5 Pakistan-based terrorist handlers attached in Reasi",
+    "desc": "Jammu and Kashmir Police attached properties belonging to five Pakistan-based terrorist handlers in Reasi district. This action aims to prevent the misuse of these assets for terror financing activities. The attached land was linked to a case registered under stringent anti-terror laws. Investigations revealed the accused had exfiltrated to Pakistan for terrorist training and now operate as handlers.",
+    "img": "https://static.toiimg.com/photo/msid-132749555,imgsize-303988.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-properties-of-5-pakistan-based-terrorist-handlers-attached-in-reasi/articleshow/132749508.cms",
+    "time": "2026-07-30T19:11:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Pluto’ movie review: A sci-fi comedy that sticks to usual alien narratives",
+    "desc": "Sci-fi films are not something that happens often in the Malayalam film industry which has relatively smaller budgets, with the subgenre of sci-fi comedies appearing even less frequently. Even the rarity of the genre does not really work to the advantage of Pluto.",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/gzdpes/article71286462.ece/alternates/LANDSCAPE_1200/pluto.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/cauvery-water-management-authority-upholds-cwrcs-order-to-karnataka-to-release-water-to-tamil-nadu/article71285829.ece",
-    "time": "2026-07-30T16:17:32.000Z"
+    "url": "https://www.thehindu.com/entertainment/movies/pluto-movie-review-a-sci-fi-comedy-that-sticks-to-usual-alien-narratives/article71286486.ece",
+    "time": "2026-07-30T18:49:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vivek Oberoi recalls partner's Rs 100 cr loss, saving baby with leukemia",
+    "desc": "Actor-entrepreneur Vivek Oberoi has opened up about the setbacks that pushed him to reinvent himself beyond acting, saying he refused to become a \"victim\" when opportunities dried up. Reflecting on his entrepreneurial journey, he recalled how his business partner rebuilt his life after suffering losses exceeding Rs 100 crore. Oberoi also shared how meeting an eight-month-old leukemia patient named Sahara during Saathiya inspired his lifelong commitment to helping children battling cancer.",
+    "img": "https://static.toiimg.com/photo/msid-132748465,imgsize-55292.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vivek-oberoi-recalls-how-partner-rebuilt-life-after-rs-100-crore-financial-loss-says-helping-an-8-month-old-leukemia-patient-survive-is-his-greatest-reward/articleshow/132748361.cms",
+    "time": "2026-07-30T18:31:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "European football chiefs identify strong candidate to challenge Gianni Infantino amid FIFA's World Cup sell-off row",
+    "desc": "Senior European football officials are discussing Paris Saint-Germain president Nasser Al-Khelaifi as a potential challenger to FIFA president Gianni Infantino amid growing opposition to FIFA’s proposed World Cup commercial investment plan. Although Al-Khelaifi has publicly ruled out a presidential bid, discontent over FIFA’s restructuring proposal has intensified debate over the future leadership and governance of world football.",
+    "img": "https://static.toiimg.com/photo/msid-132748213,imgsize-60596.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/european-football-chiefs-identify-strong-candidate-to-challenge-gianni-infantino-amid-fifas-world-cup-sell-off-row/articleshow/132746385.cms",
+    "time": "2026-07-30T18:15:06.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Mallikarjun Kharge slams Amit Shah for prolonged silence on student protests",
-    "desc": "Holding Home Minister Amit Shah responsible for alleged police brutalities on protesting students, Leader of the Opposition in the Rajya Sabha Mallikarjun Kharge on Thursday said that “Jan Shakti” (people’s power) will “drag him out” one day to make him accountable.",
-    "img": "https://th-i.thgim.com/public/incoming/tjzcz1/article71287388.ece/alternates/LANDSCAPE_1200/kharge%20amit%20shah.png",
+    "title": "Calcutta High Court stays discontinuation of PDS benefits to woman over SIR deletion",
+    "desc": "The Bengal govt. has issued notifications linking SIR deletions with benefits of public distribution system and Annapurna Bhandar scheme; the Supreme Court has reiterated its position that exclusion from the electoral rolls cannot have consequences unrelated to voting",
+    "img": "https://th-i.thgim.com/public/incoming/7ja8ns/article71287674.ece/alternates/LANDSCAPE_1200/vbk-CALCUTTA-hc-HIGH-COURT.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-mallikarjun-kharge-slams-amit-shah-for-prolonged-silence-on-student-protests/article71287385.ece",
-    "time": "2026-07-30T16:17:17.000Z"
+    "url": "https://www.thehindu.com/news/national/west-bengal/calcutta-high-court-stays-discontinuation-of-pds-benefits-to-woman-over-sir-deletion/article71286493.ece",
+    "time": "2026-07-30T18:01:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Developer looks to expand frontiers beyond Coimbatore",
+    "desc": "M.V. Manikandan, Founder and CMD of Adissia Developers, says the company is going to shift its headquarters to Chennai. ‘We expect our turnover to be around ₹2,500 crore in 4-5 years,’ the first generation entrepreneur says",
+    "img": "https://th-i.thgim.com/public/incoming/uxr63w/article71287648.ece/alternates/LANDSCAPE_1200/BVR_0809.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/developer-looks-to-expand-frontiers-beyond-coimbatore/article71286935.ece",
+    "time": "2026-07-30T17:58:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rajya Sabha too passes Bill on paper leaks, Opposition walks out of voting",
+    "desc": "Jitendra Singh says the government has made efforts to free medical education from management quota malice while replying to the debate in Upper House; Kharge demands SC-monitored high-powered panel to probe NEET paper leaks and police action against protesters",
+    "img": "https://th-i.thgim.com/public/incoming/33zvic/article71287656.ece/alternates/LANDSCAPE_1200/20260730490L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/rajya-sabha-too-passes-bill-on-paper-leaks-opposition-walks-out-of-voting/article71287509.ece",
+    "time": "2026-07-30T17:57:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ICC unveils 12 venues for ODI WC 2027 as Africa hosts showpiece after 24 years",
+    "desc": "The ICC has revealed twelve host venues for the 2027 Cricket World Cup. South Africa, Zimbabwe, and Namibia will jointly host the prestigious fifty-over tournament. This event marks the World Cup's return to Africa after a twenty-four-year absence. The tournament will feature fifty-seven matches and fourteen teams competing across three stages. The official brand identity 'Three Nations, One Heartbeat' symbolises unity among the co-hosts.",
+    "img": "https://static.toiimg.com/photo/msid-132747068,imgsize-70575.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/icc-unveils-12-venues-for-odi-world-cup-2027-as-africa-hosts-showpiece-after-24-years/articleshow/132746927.cms",
+    "time": "2026-07-30T17:40:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Children's future won't be compromised': PM Modi hails anti-paper leak Bill in new late-night video",
+    "desc": "Prime Minister Narendra Modi announced Parliament passed a new bill to prevent unfair means in public examinations. This legislation aims to build a more trustworthy examination system across the nation. The government has taken continuous steps to improve examination processes and address paper leaks. This new law will ensure no paper leak mafia or gang playing with students' futures is spared.",
+    "img": "https://static.toiimg.com/photo/msid-132746776,imgsize-56327.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/childrens-future-wont-be-compromised-pm-modi-hails-anti-paper-leak-bill-in-new-late-night-video/articleshow/132746763.cms",
+    "time": "2026-07-30T17:32:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "UEFA threatens FIFA World Cup boycott over Gianni Infantino's private investors plan",
+    "desc": "“UEFA and its national associations will not participate in FIFA competitions,” UEFA said after the meeting. The next FIFA event on the calendar is the Women's Under-20 World Cup, which will be held in Poland from September 5.",
+    "img": "https://static.toiimg.com/photo/msid-132746338,imgsize-444209.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/uefa-threatens-fifa-world-cup-boycott-over-gianni-infantinos-private-investors-plan/articleshow/132745748.cms",
+    "time": "2026-07-30T17:30:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "What is the rationale behind Cauvery panel’s decision on release of water to Tamil Nadu?",
+    "desc": "The committee took into account net inflow to the four reservoirs in Karnataka during the current season and compared it with 30-year data. CWRC chief Vineet Gupta told The Hindu that there is a 60% shortfall in the reservoirs",
+    "img": "https://th-i.thgim.com/public/incoming/ixvlqx/article71284270.ece/alternates/LANDSCAPE_1200/IMG_4045.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/cauvery-water-release-cwrc-rationale-karnataka-tamil-nadu-explained/article71284262.ece",
+    "time": "2026-07-30T17:30:28.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Brazil withholds approval of Trump's ambassador pick, deepening rift with U.S.",
+    "desc": "The administration of President Luiz Inacio Lula da Silva, a leftist, has long had a ​tense relationship with Rubio’s State Department due to what ‌it sees as efforts to influence Latin American politics in favor of conservatives.",
+    "img": "https://th-i.thgim.com/public/incoming/ylaato/article71287602.ece/alternates/LANDSCAPE_1200/Brazil_Lula_WHO_3436_.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/brazil-withholds-approval-of-trumps-ambassador-pick-deepening-rift-with-us/article71287562.ece",
+    "time": "2026-07-30T17:18:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Calling registered AYUSH doctors 'quacks' has no legal basis: NCISM",
+    "desc": "The National Commission for Indian System of Medicine issued a warning regarding AYUSH doctors. It stated that calling registered practitioners 'quacks' lacks legal basis. Such descriptions may infringe upon their constitutional and professional rights. Duly qualified and registered AYUSH doctors are legally recognized healthcare professionals. The commission reiterated that these practitioners deserve legal protection and respect.",
+    "img": "https://static.toiimg.com/photo/msid-132745704,imgsize-68197.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/calling-registered-ayush-doctors-quacks-has-no-legal-basis-ncism/articleshow/132745681.cms",
+    "time": "2026-07-30T17:13:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bankipur assembly byelection sees low voter turnout compared to 2025",
+    "desc": "Workers of the Jan Suraaj Party (JSP) and BJP were involved in heated arguments at several places in Patna; JSP candidate Prashant Kishor alleged that the State misused police machinery to support the BJP candidate",
+    "img": "https://th-i.thgim.com/public/incoming/egtemw/article71284669.ece/alternates/LANDSCAPE_1200/PTI07_30_2026_000112A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/bihar-bankipur-byelection-prashant-kishor-bjp-jsp-rjd-polling-updates-july-30-2026/article71284214.ece",
+    "time": "2026-07-30T17:07:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Karnataka Legislative Council Chairman Horatti says no one, including Chief Minister, has asked him to resign",
+    "desc": "Terming reports about him being asked to resign as just a rumour, Legislative Council Chairman Basavaraj Horatti has categorically stated that no one, including Chief Minister D.K. Shivakumar, had spoken to him on the issue officially and none had sought his resignation",
+    "img": "https://th-i.thgim.com/public/incoming/3cs9xq/article71287571.ece/alternates/LANDSCAPE_1200/_JAI0215.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-legislative-council-chairman-horatti-says-no-one-including-chief-minister-has-asked-him-to-resign/article71286366.ece",
+    "time": "2026-07-30T17:06:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘I’m a black African’: Commonwealth Games boxer Aziz Abdul’s racism claim rejected after headbutt disqualification",
+    "desc": "Ugandan boxer Aziz Abdul’s Commonwealth Games campaign ended in controversy after he was disqualified against England’s Damar Thomas and accused officials of unfair treatment. Abdul claimed racism played a role in the decision, but Commonwealth Sport president Donald Rukare rejected the allegations, insisting the ruling was a legitimate field-of-play decision and that athletes were treated fairly.",
+    "img": "https://static.toiimg.com/photo/msid-132746282,imgsize-1262703.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/im-a-black-african-commonwealth-games-boxer-aziz-abduls-racism-claim-rejected-after-headbutt-disqualification/articleshow/132744818.cms",
+    "time": "2026-07-30T17:04:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "UEFA intensifies opposition to FIFA’s World Cup plans",
+    "desc": "European football’s governing body will hold an emergency meeting to discuss its response to FIFA’s proposal of a new subsidiary that would allow private investors to have a say in the planning of future World Cups",
+    "img": "https://th-i.thgim.com/public/incoming/6m7gvv/article71285226.ece/alternates/LANDSCAPE_1200/2026-07-28T162945Z_1037867588_RC28KJAED3SY_RTRMADP_3_SOCCER-FIFA-STAKE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/uefas-intensifies-opposition-to-fifas-world-cup-plans/article71285184.ece",
+    "time": "2026-07-30T17:01:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Swapna, 5 others named accused in Kerala’s Wadakkanchery LIFE Mission case",
+    "desc": "Santhosh Eappen, managing partner of Unitac Builders, has been arraigned as the first accused, his construction firm Sane Ventures the second accused, and the Life Mission project the third accused. Swapna Suresh named and sixth accused",
+    "img": "https://th-i.thgim.com/public/incoming/xm0ib3/article71287555.ece/alternates/LANDSCAPE_1200/Kerala-AssemblyG48FPGLCM.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/cbi-names-six-accused-in-chargesheet-in-kerala-wadakkanchery-life-mission-scam-case/article71286436.ece",
+    "time": "2026-07-30T16:56:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala High Court allows time for State govt. to complete probe into media trial case filed by Dileep",
+    "desc": "Court remarks that the matter will be taken very seriously if there is any further delay; earlier, it had warned that contempt proceedings would be initiated if the direction to fast-track the probe within the prescribed time was not followed",
+    "img": "https://th-i.thgim.com/public/incoming/l2ue8/article71287513.ece/alternates/LANDSCAPE_1200/10018_8_12_2025_14_26_33_1_DILEEP_11.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-allows-time-for-state-govt-to-complete-probe-into-media-trial-case-filed-by-dileep/article71287343.ece",
+    "time": "2026-07-30T16:56:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nitish Bhardwaj praises Ramayana trailer, warns Ranbir: Don't pollute your vaani now",
+    "desc": "Veteran actor Nitish Bharadwaj lauded Nitesh Tiwari's Ramayana trailer, predicting Oscar success for the film. He praised the grand scale, visual effects, and performances by the cast. Bharadwaj also urged Ranbir Kapoor to choose culturally relevant roles after Animal. He expressed hope for Sai Pallavi's portrayal of Sita and the film's spiritual essence. The epic film is slated for a Diwali 2026 release.",
+    "img": "https://static.toiimg.com/photo/msid-132745757,imgsize-325030.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mahabharats-lord-krishna-nitish-bhardwaj-says-ramayan-will-get-oscar-100-percent-warns-ranbir-kapoor-dont-pollute-your-vaani-now-at-par-with-ranveer-singh-two-dhurandhars/articleshow/132745689.cms",
+    "time": "2026-07-30T16:41:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Martina Devi's brave comeback ends in heartbreak, Indian lifter finishes fifth",
+    "desc": "In a gripping performance at the Commonwealth Games, Martina Devi Maibam secured a fifth-place finish in weightlifting, showcasing her grit after overcoming initial setbacks. Her total lift of 245kg was impressive but fell just short of medal contention, as she lost on failed attempts against another lifter. England's Emily Campbell captured gold with record-setting lifts, while Martina's determination signals a bright future ahead.",
+    "img": "https://static.toiimg.com/photo/msid-132745415,imgsize-87930.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-martina-devis-brave-comeback-ends-in-heartbreak-indian-lifter-finishes-fifth-on-debut/articleshow/132745415.cms",
+    "time": "2026-07-30T16:23:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ramayana is like Avatar meets Gladiator in the world of LotR",
+    "desc": "Part 1 has finally been unveiled, giving audiences a glimpse of one of Indian cinema's most ambitious mythological epics. While the four-minute trailer has been praised for its grand visuals, large-scale action sequences and Hollywood-level VFX, producer Namit Malhotra has now revealed the global vision behind the film.",
+    "img": "https://static.toiimg.com/photo/msid-132745257,imgsize-85457.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-yash-starrer-ramayana-is-like-avatar-meets-gladiator-in-the-world-of-the-lord-of-the-rings-says-producer-namit-malhotra/articleshow/132745132.cms",
+    "time": "2026-07-30T16:15:04.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. military says no U.S. aircraft hit in attempted Iranian attacks",
+    "desc": "U.S. President Donald Trump vowed to hit back hard at Iran after it attacked U.S. bases in Jordan on Wednesday, July 30, as the war in West Asia reignited and again drew in Iran's proxies",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/west-asia-war-live-july-30-2026-updates-us-military-launches-new-strikes-on-iran/article71284158.ece",
+    "time": "2026-07-30T16:09:21.000Z"
   },
   {
     "cat": "Sports",
@@ -27,15 +216,6 @@ const newsData_en = [
     "time": "2026-07-30T16:08:47.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Chhota Rajan sentenced by CBI court in Chennai to seven years of rigorous imprisonment",
-    "desc": "Notorious Mumbai underworld don, currently serving a life sentence in another case at Delhi’s Tihar Jail, is held guilty by a special CBI court of cheating, forgery, personation, and knowingly submitting forged documents to obtain an Indian passport",
-    "img": "https://th-i.thgim.com/public/incoming/fsawz1/article71287321.ece/alternates/LANDSCAPE_1200/2015-11-03T100006Z_699649975_GF20000043909_RTRMADP_3_INDIA-INDONESIA-CRIME.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/chhota-rajan-sentenced-by-cbi-court-in-chennai-to-seven-years-of-rigorous-imprisonment/article71286342.ece",
-    "time": "2026-07-30T16:06:47.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Sridevi and Jaya Prada were rivals, Jeetendra and Rajesh Khanna locked them in a room",
     "desc": "Jaya Prada and Sridevi were popular actresses who shared many successful films together. Despite their on-screen chemistry, they maintained a distant personal relationship throughout their careers. Veteran actors once locked them in a room hoping they would converse. Jaya Prada expressed regret over not building a friendship with Sridevi before her passing. Their professional partnership remained strong, creating a bankable trio with Jeetendra.",
@@ -45,15 +225,6 @@ const newsData_en = [
     "time": "2026-07-30T15:42:07.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kerala government in a quandary over DGP appointment",
-    "desc": "The prospects of ADGP S. Sreejith for the post have suffered a setback after the Kerala High Court quashed a clean chit in connection with allegations that he had undertaken a foreign trip without obtaining prior government permission",
-    "img": "https://th-i.thgim.com/public/incoming/dpzynq/article71287194.ece/alternates/LANDSCAPE_1200/Kerala-govt.-apG1VG9ST3H.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-government-in-a-quandary-over-dgp-appointment/article71287007.ece",
-    "time": "2026-07-30T15:42:04.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Incredibly disappointed': CWG wheelchair medallists forced to race again after shock crash",
     "desc": "The women’s T54 1500m wheelchair final at the 2026 Commonwealth Games will be rerun after a chaotic race featuring multiple crashes, a disqualification and appeals. Scotland’s Melanie Woods, England’s Ellis Kottas and Australia’s Mikaela Dingley must compete again after initially claiming the medals, with the controversial decision overturning a dramatic record-breaking victory.",
@@ -61,15 +232,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/incredibly-disappointed-commonwealth-games-wheelchair-medallists-forced-to-race-again-after-shock-first-lap-crash/articleshow/132744208.cms",
     "time": "2026-07-30T15:41:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "UDF moving ahead with PM SHRI to please BJP, alleges CPI State secretary Binoy Viswam",
-    "desc": "He says the Centre’s reply in the Rajya Sabha makes it clear that the claims of the Chief Minister and Education Minister that the State had received money by signing the PM SHRI agreement are false",
-    "img": "https://th-i.thgim.com/public/incoming/pe6fnb/article71287151.ece/alternates/LANDSCAPE_1200/CPI-Kerala-StatG2NFVDM96.5.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/udf-moving-ahead-with-pm-shri-to-please-bjp-alleges-cpi-state-secretary-binoy-viswam/article71286724.ece",
-    "time": "2026-07-30T15:30:26.000Z"
   },
   {
     "cat": "Entertainment",
@@ -88,24 +250,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/us-economy-slows-as-gdp-growth-slips-to-1-5-consumers-keep-momentum-alive/articleshow/132744027.cms",
     "time": "2026-07-30T15:14:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tumakuru-Shivamogga NH-69 four-laning project nearing completion, final package due by March 2027",
-    "desc": "In a written reply to an unstarred question by B.Y. Raghavendra, Shivamogga MP, in the Lok Sabha on Thursday (July 30), Union Road Transport and Highways Minister Nitin Gadkari said that the four-laning project has been taken up under four packages based on the Hybrid Annuity Model.",
-    "img": "https://th-i.thgim.com/public/incoming/gk9vmd/article71287018.ece/alternates/LANDSCAPE_1200/TH27-Chinmay-BoG5VGAENUH.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/tumakuru-shivamogga-nh-69-four-laning-project-nearing-completion-final-package-due-by-march-2027/article71286904.ece",
-    "time": "2026-07-30T15:11:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Officials call for stronger fight against human, child trafficking",
-    "desc": "Markapuram Collector unveils a special campaign poster designed by the representatives of voluntary organisation ‘Vetti Vimochana Coalition Network’, while Prakasam Joint Collector Kalpana Kumari flags off an awareness rally from from Prakasam Bhavan to Ongole RIMS on the occasion World Day against Trafficking in Persons",
-    "img": "https://th-i.thgim.com/public/incoming/om6tko/article71286947.ece/alternates/LANDSCAPE_1200/10215_30_7_2026_18_21_52_1_DSC_0010JPG2.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/officials-call-for-stronger-fight-against-human-child-trafficking/article71286552.ece",
-    "time": "2026-07-30T15:09:32.000Z"
   },
   {
     "cat": "Politics",
@@ -208,15 +352,6 @@ const newsData_en = [
   },
   {
     "cat": "World",
-    "title": "Pakistan Foreign Office says country is 'doing its utmost' to bring U.S., Iran back to negotiating table",
-    "desc": "U.S. President Donald Trump vowed to hit back hard at Iran after it attacked U.S. bases in Jordan on Wednesday, July 30, as the war in West Asia reignited and again drew in Iran's proxies",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/west-asia-war-live-july-30-2026-updates-us-military-launches-new-strikes-on-iran/article71284158.ece",
-    "time": "2026-07-30T13:01:07.000Z"
-  },
-  {
-    "cat": "World",
     "title": "Japan’s earthquakes: Maps and graphics",
     "desc": "A magnitude-6.8 earthquake struck in Japan near Kumamoto in Japan on July 28, one of the more powerful earthquakes this year recorded in the region. Here are graphics explaining the quake’s intensity, regional seismicity and more.",
     "img": "https://th-i.thgim.com/public/todays-paper/tp-international/92ly24/article71283504.ece/alternates/LANDSCAPE_1200/Death-toll-riseG77GAQ329.3.jpg.jpg",
@@ -286,15 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/e20-petrol-can-reduce-vehicle-mileage-by-up-to-6-nitin-gadkari-in-parliament/articleshow/132736785.cms",
     "time": "2026-07-30T12:11:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How far did Arshad Nadeem and Tharanga Pathirage throw in CWG qualification?",
-    "desc": "Chopra, who won the Commonwealth Games title in 2018, finished fifth with a best throw of 79.61m. Rohit Yadav was ninth with 78.37m, while Yashvir Singh took 10th place with 78.36m, ensuring all three Indian athletes progressed to the medal round.",
-    "img": "https://static.toiimg.com/photo/msid-132738698,imgsize-577494.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/neeraj-chopra-through-but-how-far-did-arshad-nadeem-and-tharanga-pathirage-throw-in-cwg-javelin-qualification/articleshow/132738737.cms",
-    "time": "2026-07-30T11:46:24.000Z"
   },
   {
     "cat": "Entertainment",
@@ -369,24 +495,6 @@ const newsData_en = [
     "time": "2026-07-30T11:05:45.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'20 traitors of Bengal': TMC's Kalyan Banerjee wears poster with rebel MPs' photos in Parl, seeks swift ECI decision",
-    "desc": "Trinamool Congress MP Kalyan Banerjee protested against 20 rebel MPs in Parliament. These defectors joined the Nationalist Citizens Party of India, pledging support to the NDA. The Trinamool Congress has labeled these MPs as traitors for their actions. Rebel MPs had approached the Election Commission regarding the party split. A swift decision is needed to resolve the ongoing political uncertainty.",
-    "img": "https://static.toiimg.com/photo/msid-132737541,imgsize-99407.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/20-traitors-of-bengal-tmcs-kalyan-banerjee-wears-poster-with-rebel-mps-photos-in-parl-seeks-swift-eci-decision/articleshow/132736851.cms",
-    "time": "2026-07-30T11:03:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Josh Allen’s charity golf event raises $17M; fatherhood deepens his empathy",
-    "desc": "Buffalo Bills quarterback Josh Allen now understands parents facing hospital crises more deeply. His daughter Harper's birth has profoundly changed his perspective on children's health struggles. Allen spoke emotionally at his \"117 Holes for Charity\" event, which supports Golisano Children's Hospital. This fundraiser recently helped the Patricia Allen Fund reach seventeen million dollars in donations. Fatherhood has reshaped Allen's priorities and his connection to the community.",
-    "img": "https://static.toiimg.com/photo/msid-132736009,imgsize-99684.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/nfl/news/josh-allens-annual-117-hole-golf-event-helped-his-childrens-hospital-fund-reach-17-million-after-becoming-a-father-he-told-parents-he-finally-understood-their-pain/articleshow/132736016.cms",
-    "time": "2026-07-30T10:58:24.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Diesel’s desire: an engine for everyone",
     "desc": "For someone who wished to build an engine for everyone, August turned out to be an auspicious month. On August 10, 1893, Rudolf Diesel’s prime model was powered on its own for the first time. Five years later, on August 9, 1898, Diesel obtained a U.S. patent titled “Internal-combustion engine”. Join A.S.Ganesh as he tries to explain what fuelled Diesel’s desire…",
@@ -459,42 +567,6 @@ const newsData_en = [
     "time": "2026-07-30T10:17:59.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "UEFA intensifies opposition to FIFA’s World Cup plans",
-    "desc": "European football’s governing body will hold an emergency meeting to discuss its response to FIFA’s proposal of a new subsidiary that would allow private investors to have a say in the planning of future World Cups",
-    "img": "https://th-i.thgim.com/public/incoming/6m7gvv/article71285226.ece/alternates/LANDSCAPE_1200/2026-07-28T162945Z_1037867588_RC28KJAED3SY_RTRMADP_3_SOCCER-FIFA-STAKE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/uefas-intensifies-opposition-to-fifas-world-cup-plans/article71285184.ece",
-    "time": "2026-07-30T09:58:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sanjay Dutt's mother Nargis was in Coma, Sunil Dutt made THIS tough decision",
-    "desc": "Sanjay Dutt shared details about his mother Nargis's pancreatic cancer battle and treatment abroad. He recalled the traumatic experience of witnessing her prolonged struggle as a young man. Dutt also spoke about his father's decision to send him back to complete his debut film. He believes his mother waited to return home before she passed away. The actor also honored his father Sunil Dutt's disciplined parenting and instilled values.",
-    "img": "https://static.toiimg.com/photo/msid-132735531,imgsize-196400.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sanjay-dutts-mother-nargis-was-in-coma-and-sunil-dutt-sent-him-to-complete-his-debut-film-the-actor-recalls-traumatic-time-during-his-mothers-final-days-i-was-19-20-years-just-couldnt-understand-it/articleshow/132735313.cms",
-    "time": "2026-07-30T09:57:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Remains an active site': Delhi Police dismiss rumours of Jantar Mantar closure",
-    "desc": "The Delhi Police has refuted rumors circulating on social media regarding the closure of Jantar Mantar, confirming it remains an approved site for lawful demonstrations. According to court rulings, up to one thousand individuals may gather there for protests. Permissions are issued based on formal requests and must comply with specified conditions. Authorities advise the public to trust official channels for accurate updates about protest activities.",
-    "img": "https://static.toiimg.com/photo/msid-132735440,imgsize-175685.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/remains-an-active-site-delhi-police-dismiss-rumours-of-jantar-mantar-closure/articleshow/132734830.cms",
-    "time": "2026-07-30T09:57:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Meghan Markle on what her children liked about ‘Cookie Queens’",
-    "desc": "Meghan Markle shared her children's favorite part of the \"Cookie Queens\" documentary. Prince Archie and Princess Lilibet enjoyed tasting baked goods during the filmmaking process. The documentary explores the Girl Scout cookie-selling season and themes of girlhood. Markle also mentioned her children's surprising love for Brussels sprouts. She recently attended the film's screening and Q&A session.",
-    "img": "https://static.toiimg.com/photo/msid-132735140,imgsize-64066.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/meghan-markle-reveals-what-part-her-children-loved-the-most-about-the-film-cookie-queens/articleshow/132735011.cms",
-    "time": "2026-07-30T09:48:47.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Will AI take your job? Cashiers to doctors, which professions face biggest risk",
     "desc": "Artificial intelligence will automate routine jobs across many industries. Complex tasks requiring human judgment will be supported by generative AI. Financial services and retail trade see high automation risk for basic operations. Healthcare and education will see AI strengthen clinical and learning roles. Workplace tasks will be reshaped as AI complements human capabilities.",
@@ -502,33 +574,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/will-ai-take-your-job-from-cashiers-to-doctors-which-professions-face-the-biggest-risk/articleshow/132734469.cms",
     "time": "2026-07-30T09:44:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Everyone has their own interpretation'",
-    "desc": "Part 1' has sparked debate online. Ranbir Kapoor, cast as Lord Rama, addressed his initial self-doubt about the role. He believes sincerity and respect are key for portraying the revered deity. Yash praised Kapoor's dedication and hard work in his challenging portrayal. The epic mythological film is scheduled for a Diwali 2026 release.",
-    "img": "https://static.toiimg.com/photo/msid-132734985,imgsize-352946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-reacts-to-criticism-on-the-casting-for-ramayana-all-the-people-have-their-own-interpretation-of-lord-ram-theres-no-fixed-face-to-it/articleshow/132734971.cms",
-    "time": "2026-07-30T09:43:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'India ke liye ladne wala insaan': Tributes pour in as Rahane retires",
-    "desc": "Ajinkya Rahane represented India in 85 Tests, 90 ODIs and 20 T20Is. The Mumbai batter finished his Test career with 5,077 runs at an average of 38.46, including 12 centuries and 26 half-centuries. In ODIs, he scored 2,962 runs in 90 matches at an average of 35.26, with three centuries and 24 fifties. He also played 20 T20Is, scoring 375 runs.",
-    "img": "https://static.toiimg.com/photo/msid-132734836,imgsize-31000.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-ke-liye-ladne-wala-insaan-tributes-pour-in-as-ajinkya-rahane-retires/articleshow/132734610.cms",
-    "time": "2026-07-30T09:42:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "HI explains",
-    "desc": "Hockey India will use saffron jerseys for the 2026 World Cup. According to Hockey India, the traditional blue jersey blended with the blue artificial turf used in international hockey, making it difficult for players to spot teammates during matches. The federation said players and coaches suggested different colours before saffron was chosen.",
-    "img": "https://static.toiimg.com/photo/msid-132733212,imgsize-73137.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/why-indian-hockey-team-jersey-changed-from-blue-to-saffron-hockey-india-explains/articleshow/132732911.cms",
-    "time": "2026-07-30T08:33:42.000Z"
   },
   {
     "cat": "Tech",
@@ -567,15 +612,6 @@ const newsData_en = [
     "time": "2026-07-30T05:25:39.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Cap 278 signing off': Ajinkya Rahane retires from international cricket",
-    "desc": "Former India captain Ajinkya Rahane has announced his retirement from international cricket. He shared this news through a video message posted on his Instagram account. Rahane represented India in all three formats during his extensive international career. He played 85 Test matches, 90 ODIs, and 20 T20Is for the country. Rahane was also part of India's historic Test series win in Australia in 2020-21.",
-    "img": "https://static.toiimg.com/photo/msid-132727490,imgsize-35417.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/cap-278-signing-off-ajinkya-rahane-retires-from-international-cricket/articleshow/132727460.cms",
-    "time": "2026-07-30T04:59:17.000Z"
-  },
-  {
     "cat": "World",
     "title": "Japan quake toll hits 28 as survivors struggle in heat",
     "desc": "The government issued the new tally as Kumamoto officials said they have now extracted four bodies from the mass of rubble, steel and wires of the Aeon shopping mall after a suspected gas blast following the quake",
@@ -583,15 +619,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/japan-quake-death-toll-increases-as-survivors-struggle-in-heat/article71284372.ece",
     "time": "2026-07-30T04:45:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How India became the world's worst doping offender",
-    "desc": "According to the World Anti-Doping Agency’s (WADA) 2024 Testing Figures Report, released in Dec 2025, India registered 260 adverse analytical findings (AAFs) from 7,113 samples collected during the year — a positivity rate of 3.6%. Among countries conducting more than 5,000 tests annually, India recorded the highest positivity rate in the world for the third consecutive year.",
-    "img": "https://static.toiimg.com/photo/msid-132726586,imgsize-38927.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/how-india-became-the-worlds-worst-doping-offender-a-crisis-threatening-sports/articleshow/132726436.cms",
-    "time": "2026-07-30T04:03:02.000Z"
   },
   {
     "cat": "Business",
@@ -736,15 +763,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/what-is-the-eu-ai-transparency-code-explained/article71279676.ece",
     "time": "2026-07-29T05:06:21.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Why Iran insists on controlling the Strait of Hormuz",
-    "desc": "In the MoU, the U.S. has made several concessions to Iran. It lifted its maritime blockade, issued a sanctions waiver for Iranian crude and other petroleum products and also promised that Iran would get access to some of its frozen funds",
-    "img": "https://th-i.thgim.com/public/incoming/o2rb0b/article71216446.ece/alternates/LANDSCAPE_1200/Logistics_GB_G5G28G83DEB.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/why-iran-insists-on-controlling-the-strait-of-hormuz/article71216413.ece",
-    "time": "2026-07-29T03:56:55.000Z"
   },
   {
     "cat": "Sports",
