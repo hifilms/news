@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Virat Kohli calls Ajinkya Rahane 'favourite Test batting partner' after latter's international retirement",
+    "desc": "Veteran India batter Ajinkya Rahane announced his retirement from international cricket on July 30. The 38-year-old made the announcement through a social media post, saying the time was right to “move on” from representing the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-calls-ajinkya-rahane-favourite-test-batting-partner-after-latter-s-international-retirement-2026-07-30-1049902",
+    "time": "2026-07-30T13:26:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Multiple LPL franchises make late changes to squad as playoffs race heats up",
+    "desc": "Dambulla Sixers' Lanka Premier League playoff hopes are no longer in their own hands after a third successive defeat left them needing both a victory in their final league fixture and favourable results elsewhere to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/multiple-lpl-franchises-make-late-changes-to-squad-as-playoffs-race-heats-up-2026-07-30-1049895",
+    "time": "2026-07-30T12:16:18.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Neeraj Chopra qualifies for Commonwealth Games javelin finals, two more Indians make it to next round",
     "desc": "Two-time Olympic medallist Neeraj Chopra advanced to the men's javelin throw final at the 2026 Commonwealth Games after registering a best effort of 79.61m in the qualification round on Friday. The Indian secured his place...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/stephen-fleming-to-take-over-as-england-s-next-test-head-coach-check-what-reports-say-2026-07-30-1049840",
     "time": "2026-07-30T04:36:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Murali Sreeshankhar retains silver medal, puts in stellar show in long jump final in Glasgow",
-    "desc": "The Indian contingent has started to fly high at the Commonwealth Games 2026. Murali Sreeshankhar added to India’s medal tally as he clinched the silver medal in the men’s long jump event. The 27-year-old successfully...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/murali-sreeshankhar-retains-silver-medal-puts-in-stellar-show-in-long-jump-final-in-glasgow-2026-07-30-1049831",
-    "time": "2026-07-30T03:35:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Litton Das appointed Bangladesh's new ODI captain, Tamim Iqbal explains logic behind major change",
-    "desc": "In a major development, the BCB (Bangladesh Cricket Board) has come forward and named veteran batter Litton Das as their new ODI captain, relieving Mehidy Hasan Miraz of his duties going forward. It is worth...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/litton-das-appointed-bangladesh-s-new-odi-captain-tamim-iqbal-explains-logic-behind-major-change-2026-07-30-1049825",
-    "time": "2026-07-30T02:03:46.000Z"
   }
 ];

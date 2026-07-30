@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "132 રૂમ અને 411 લોકોનો સ્ટાફ અને કરોડોનું બજેટ... &amp;#039;વ્હાઇટ હાઉસ&amp;#039; પાછળ એક વર્ષમાં કેટલો થાય છે ખર્ચ?",
+    "desc": "અમેરિકાના રાષ્ટ્રપતિ નિવાસ 'વ્હાઇટ હાઉસ' પર એક વર્ષમાં કેટલો ખર્ચ થાય છે? આ પ્રશ્નનો જવાબ બિઝનેસ ઇનસાઇડરે પોતાના એક રિપોર્ટ દ્વારા આપવાનો પ્રયાસ કર્યો છે. રિપોર્ટમાં 2026 માટે જાહેર કરાયેલા બજેટ અને મેનેજમેન્ટ પર કરવામાં આવતા ખર્ચની સંપૂર્ણ વિગતો આપવામાં આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/132-rooms-staff-of-411-people-and-a-budget-of-crores-how-much-does-the-white-house-cost-in-a-year-486202 ",
+    "time": "2026-07-30T11:25:12.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "હવે તમે લેપટોપ કે PC પર WhatsAppથી પણ કરી શકશો વીડિયો કોલ, કંપનીએ એક સાથે લોન્ચ કર્યા અનેક ફીચર્સ",
     "desc": "WhatsApp વેબ પર હવે વીડિયો અને ઓડિયો કોલિંગ સુવિધા શરૂ થઈ ગઈ છે, એટલે હવે તમે લેપટોપ કે PC પર WhatsAppથી પણ વીડિયો કોલ કરી શકશો. નવા અપડેટમાં ગ્રુપ કોલ કંટ્રોલ, સારી વીડિયો ક્વોલિટી અને સ્પષ્ટ ઓડિયો માટેના ફીચર્સ આપવામાં આવ્યા છે.",
@@ -331,15 +340,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/earthquake-in-southern-japan-tsunami-warning-alert-kumamoto-shindo-486007 ",
     "time": "2026-07-28T09:44:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "કોણ છે મિસ્ટ્રી સ્પિનર સારાંશ જૈન ? 33 વર્ષની ઉંમરે અચાનક ટીમ ઈન્ડિયામાં મળી તક",
-    "desc": "BCCIએ શ્રીલંકા સામેની ટેસ્ટ શ્રેણી માટે ટીમ ઈન્ડિયાની જાહેરાત કરી છે. સારાંશ જૈને ટીમમાં સ્થાન મેળવ્યું છે. ઘણા લોકો તેનાથી પરિચિત નહીં હોય, ત્યારે જાણી લઈએ કે સારાંશ જૈન કોણ છે અને તેનો રેકોર્ડ કેવો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/who-is-saransh-jain-who-got-chance-in-indian-test-team-486003 ",
-    "time": "2026-07-28T09:13:35.000Z"
   },
   {
     "cat": "Business",
