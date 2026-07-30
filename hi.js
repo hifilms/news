@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Dilip Gavit scripts history, clinches gold in men's 100m T47 at Commonwealth Games 2026",
+    "desc": "India’s Dilip Gavit added to the country’s medal tally at the Commonwealth Games 2026. Clinching a historic gold medal, Gavit put forth a marvellous performance in the men’s 100m T47 and put in a record...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/dilip-gavit-scripts-history-clinches-gold-in-men-s-100m-t47-at-commonwealth-games-2026-2026-07-30-1049819",
+    "time": "2026-07-30T01:22:07.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Jaismine Lamboria assures 10th boxing medal, helps India create history at Commonwealth Games 2026",
     "desc": "Star boxer Jaismine Lamboria stormed into the semifinals of the 57kg weight category at the Commonwealth Games with a win over England's Elise Glynn to assure India of its 10th boxing medal on Wednesday, July...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-becomes-number-1-odi-batter-vaibhav-sooryavanshi-jumps-230-positions-in-t20is-2026-07-29-1049744",
     "time": "2026-07-29T08:48:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Justin Langer as England Test coach? Former Australia batter shares update on speculations",
-    "desc": "Justin Langer has indicated that he has not been approached by the England and Wales Cricket Board (ECB) regarding the vacant England Test head coach position. After Brendon McCullum stepped down from the position, Langer...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/justin-langer-as-england-test-coach-former-australia-batter-shares-update-on-speculations-2026-07-29-1049735",
-    "time": "2026-07-29T07:55:36.000Z"
   }
 ];
