@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Neeraj Chopra qualifies for Commonwealth Games javelin finals, two more Indians make it to next round",
+    "desc": "Two-time Olympic medallist Neeraj Chopra advanced to the men's javelin throw final at the 2026 Commonwealth Games after registering a best effort of 79.61m in the qualification round on Friday. The Indian secured his place...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/neeraj-chopra-qualifies-for-commonwealth-games-javelin-finals-two-more-indians-make-it-to-next-round-2026-07-30-1049880",
+    "time": "2026-07-30T10:25:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England appoint Stephen Fleming as new Test coach, reveal new captain after Ben Stokes",
+    "desc": "England have appointed Stephen Fleming as the new Test head coach. He takes over the responsibility from Brendon McCullum, who resigned from his position after England’s 2-1 defeat to New Zealand last month at home....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-appoint-stephen-fleming-as-new-test-coach-reveal-new-captain-after-ben-stokes-2026-07-30-1049877",
+    "time": "2026-07-30T10:01:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Saransh Jain reveals his conversation with India legend after maiden call-up to India's Test team",
+    "desc": "The Indian team is all set to take on Sri Lanka in a two-game Test series; the two sides will take on each other in the first Test of the series at the Galle International...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/saransh-jain-reveals-his-conversation-with-india-legend-after-maiden-call-up-to-india-s-test-team-2026-07-30-1049874",
+    "time": "2026-07-30T09:14:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hockey India issues clarification on jersey row, defends colour change to saffron",
+    "desc": "Hockey India has been the talk of the town after it announced the colour change of hockey's men’s and women’s teams from blue to orange. On July 27, Hockey India took to social media and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/hockey/hockey-india-issues-clarification-on-jersey-row-defends-colour-change-to-saffron-2026-07-30-1049869",
+    "time": "2026-07-30T08:28:19.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Looking back at Ajinkya Rahane's finest performances after his retirement from all forms of cricket",
     "desc": "Veteran India batter Ajinkya Rahane recently came forward and announced that he would be retiring from all forms of cricket. The 38-year-old took to Instagram and shared a heartfelt video with his fans where he...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/litton-das-appointed-bangladesh-s-new-odi-captain-tamim-iqbal-explains-logic-behind-major-change-2026-07-30-1049825",
     "time": "2026-07-30T02:03:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Dilip Gavit scripts history, clinches gold in men's 100m T47 at Commonwealth Games 2026",
-    "desc": "India’s Dilip Gavit added to the country’s medal tally at the Commonwealth Games 2026. Clinching a historic gold medal, Gavit put forth a marvellous performance in the men’s 100m T47 and put in a record...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/dilip-gavit-scripts-history-clinches-gold-in-men-s-100m-t47-at-commonwealth-games-2026-2026-07-30-1049819",
-    "time": "2026-07-30T01:22:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jaismine Lamboria assures 10th boxing medal, helps India create history at Commonwealth Games 2026",
-    "desc": "Star boxer Jaismine Lamboria stormed into the semifinals of the 57kg weight category at the Commonwealth Games with a win over England's Elise Glynn to assure India of its 10th boxing medal on Wednesday, July...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/jaismine-lamboria-assures-10th-boxing-medal-helps-india-create-history-at-commonwealth-games-2026-2026-07-29-1049807",
-    "time": "2026-07-29T17:54:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "RCB creates history, becomes first IPL franchise to cross USD 300 million brand value",
-    "desc": "The Royal Challengers Bengaluru (RCB) have achieved more glory as they have become the first-ever Indian Premier League franchise to touch the USD 300m brand value. Two-time winners RCB's brand value reached a value of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rcb-creates-history-becomes-first-ipl-franchise-to-cross-usd-300-million-brand-value-2026-07-29-1049803",
-    "time": "2026-07-29T16:10:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "5 shuttlers to watch out for in BWF World Championship 2026",
-    "desc": "The BWF World Championships are coming to New Delhi as the action runs from August 17-23, 2026. This is India's second time hosting the event since 2009 in Hyderabad. Over 200 players across the globe...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/5-shuttlers-to-watch-out-for-in-bwf-world-championship-2026-2026-07-29-1049790",
-    "time": "2026-07-29T14:11:22.000Z"
   }
 ];

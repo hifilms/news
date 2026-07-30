@@ -1,5 +1,284 @@
 const newsData_en = [
   {
+    "cat": "Tech",
+    "title": "Diesel’s desire: an engine for everyone",
+    "desc": "For someone who wished to build an engine for everyone, August turned out to be an auspicious month. On August 10, 1893, Rudolf Diesel’s prime model was powered on its own for the first time. Five years later, on August 9, 1898, Diesel obtained a U.S. patent titled “Internal-combustion engine”. Join A.S.Ganesh as he tries to explain what fuelled Diesel’s desire…",
+    "img": "https://th-i.thgim.com/public/incoming/o3bduy/article71285498.ece/alternates/LANDSCAPE_1200/09istb%20Historical_Diesel_engine_in_Deutsches_Museum.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/diesels-desire-an-engine-for-everyone/article71285487.ece",
+    "time": "2026-07-30T10:51:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The return of division talk in J&K and why it’s dangerous",
+    "desc": "On September 15, 1950, at Lake Success, the temporary home of the United Nations between 1946 and 1951, the United Nations Security Council (UNSC) received a report on Jammu and Kashmir from Owen Dixon, former Chief Justice of Australia",
+    "img": "https://th-i.thgim.com/public/incoming/vt1cxo/article70524161.ece/alternates/LANDSCAPE_1200/HP12967.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/the-return-of-division-talk-in-jk-and-why-its-dangerous/article70524154.ece",
+    "time": "2026-07-30T10:49:32.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India's renewable energy boom could make Germany a customer for green hydrogen",
+    "desc": "India's expanding renewable energy capacity could soon make it an energy exporter. Germany's ambassador sees potential for India to export green hydrogen in coming years. Renewable energy is a strong pillar of India-Germany economic cooperation. Artificial intelligence and a proposed EU Free Trade Agreement will shape future economic ties. Discussions are progressing towards concrete projects in hydrogen technology development.",
+    "img": "https://static.toiimg.com/photo/msid-132737023,imgsize-47236.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-renewable-energy-boom-could-make-germany-a-customer-for-green-hydrogen/articleshow/132736840.cms",
+    "time": "2026-07-30T10:49:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Suneel on why chose to work with Nadeem despite Gulshan Kumar's murder charges",
+    "desc": "Filmmaker Suneel Darshan discussed his decision to work with Nadeem Saifi after Gulshan Kumar's murder. He verified legal restrictions and spoke with police regarding the composer's involvement. Nadeem Saifi denied any participation in the murder, which Darshan then believed. The composer's dedication led to the quick completion of their film's soundtrack. Their professional association continued for many years on multiple projects.",
+    "img": "https://static.toiimg.com/photo/msid-132736920,imgsize-216124.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/suneel-darshan-reveals-why-he-chose-to-work-with-nadeem-despite-gulshan-kumars-murder-case-the-composer-was-accused-of-paying-rs-25-lakh-to-the-assailants-who-killed-him/articleshow/132736768.cms",
+    "time": "2026-07-30T10:44:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Hi' star Kavin and wife Monicka welcome twins",
+    "desc": "Actor Kavin and his wife Monicka have welcomed twins into their family. The couple announced the joyous arrival of a baby boy and a baby girl. Social media platforms were flooded with congratulatory messages from fans and celebrities. Kavin's heartwarming announcement quickly went viral across various platforms. The actor is also preparing for his upcoming film release.",
+    "img": "https://static.toiimg.com/photo/msid-132736901,imgsize-160946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/kavin-and-wife-monicka-welcome-twins-actor-shares-heartwarming-announcement-on-the-birth-of-baby-boy-and-baby-girl/articleshow/132736858.cms",
+    "time": "2026-07-30T10:43:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The middle path",
+    "desc": "The Supreme Court quashes the Centre’s 2021 Office Memorandum on ex post facto environmental clearance, ruling that any future amnesty under the Environment (Protection) Act must flow from a statutory notification, not an administrative order, and be confined to projects of supervening public interest under the EIA framework",
+    "img": "https://th-i.thgim.com/public/incoming/v9v8ct/article71285073.ece/alternates/LANDSCAPE_1200/Limestone.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/the-middle-path-explaining-supreme-courts-latest-verdict-on-post-facto-environmental-clearances/article71284888.ece",
+    "time": "2026-07-30T10:31:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Ramayana' star Rakul returns to gym after 1.5-year injury recovery",
+    "desc": "Rakul Preet Singh has shared an emotional update on her fitness journey, revealing she has returned to the gym after nearly one and a half years of recovering from a serious injury. The actress opened up about the mental and emotional lessons the recovery period taught her, even as excitement builds around her upcoming role as Surpanakha in Nitesh Tiwari's Ramayana, whose trailer released this week.",
+    "img": "https://static.toiimg.com/photo/msid-132736117,imgsize-131269.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-star-rakul-preet-singh-returns-to-gym-after-1-5-year-injury-recovery-amid-trailer-release-im-not-chasing-the-version-of-myself-that-existed-before/articleshow/132735669.cms",
+    "time": "2026-07-30T10:17:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "UEFA intensifies opposition to FIFA’s World Cup plans",
+    "desc": "European football’s governing body will hold an emergency meeting to discuss its response to FIFA’s proposal of a new subsidiary that would allow private investors to have a say in the planning of future World Cups",
+    "img": "https://th-i.thgim.com/public/incoming/6m7gvv/article71285226.ece/alternates/LANDSCAPE_1200/2026-07-28T162945Z_1037867588_RC28KJAED3SY_RTRMADP_3_SOCCER-FIFA-STAKE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/uefas-intensifies-opposition-to-fifas-world-cup-plans/article71285184.ece",
+    "time": "2026-07-30T09:58:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sanjay Dutt's mother Nargis was in Coma, Sunil Dutt made THIS tough decision",
+    "desc": "Sanjay Dutt shared details about his mother Nargis's pancreatic cancer battle and treatment abroad. He recalled the traumatic experience of witnessing her prolonged struggle as a young man. Dutt also spoke about his father's decision to send him back to complete his debut film. He believes his mother waited to return home before she passed away. The actor also honored his father Sunil Dutt's disciplined parenting and instilled values.",
+    "img": "https://static.toiimg.com/photo/msid-132735531,imgsize-196400.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sanjay-dutts-mother-nargis-was-in-coma-and-sunil-dutt-sent-him-to-complete-his-debut-film-the-actor-recalls-traumatic-time-during-his-mothers-final-days-i-was-19-20-years-just-couldnt-understand-it/articleshow/132735313.cms",
+    "time": "2026-07-30T09:57:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Remains an active site': Delhi Police dismiss rumours of Jantar Mantar closure",
+    "desc": "The Delhi Police has refuted rumors circulating on social media regarding the closure of Jantar Mantar, confirming it remains an approved site for lawful demonstrations. According to court rulings, up to one thousand individuals may gather there for protests. Permissions are issued based on formal requests and must comply with specified conditions. Authorities advise the public to trust official channels for accurate updates about protest activities.",
+    "img": "https://static.toiimg.com/photo/msid-132735440,imgsize-175685.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/remains-an-active-site-delhi-police-dismiss-rumours-of-jantar-mantar-closure/articleshow/132734830.cms",
+    "time": "2026-07-30T09:57:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala’s MG University ups the ante, moves to withdraw funds for national conference",
+    "desc": "Registrar issues notice warning SFI-led university union that financial assistance sanctioned for conference, scheduled to be held on campus from August 3 to 6, will be withdrawn. It says union’s actions amounted to violation of varsity’s order prohibiting political content",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/genzbr/article71285096.ece/alternates/LANDSCAPE_1200/80687_27_7_2026_18_50_33_1_VDSC09596.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/cockroach-poster-row-keralas-mg-university-ups-the-ante-moves-to-withdraw-funds-for-national-conference/article71285046.ece",
+    "time": "2026-07-30T09:55:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Meghan Markle on what her children liked about ‘Cookie Queens’",
+    "desc": "Meghan Markle shared her children's favorite part of the \"Cookie Queens\" documentary. Prince Archie and Princess Lilibet enjoyed tasting baked goods during the filmmaking process. The documentary explores the Girl Scout cookie-selling season and themes of girlhood. Markle also mentioned her children's surprising love for Brussels sprouts. She recently attended the film's screening and Q&A session.",
+    "img": "https://static.toiimg.com/photo/msid-132735140,imgsize-64066.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/meghan-markle-reveals-what-part-her-children-loved-the-most-about-the-film-cookie-queens/articleshow/132735011.cms",
+    "time": "2026-07-30T09:48:47.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Will AI take your job? Cashiers to doctors, which professions face biggest risk",
+    "desc": "Artificial intelligence will automate routine jobs across many industries. Complex tasks requiring human judgment will be supported by generative AI. Financial services and retail trade see high automation risk for basic operations. Healthcare and education will see AI strengthen clinical and learning roles. Workplace tasks will be reshaped as AI complements human capabilities.",
+    "img": "https://static.toiimg.com/photo/msid-132734987,imgsize-174635.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/will-ai-take-your-job-from-cashiers-to-doctors-which-professions-face-the-biggest-risk/articleshow/132734469.cms",
+    "time": "2026-07-30T09:44:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Everyone has their own interpretation'",
+    "desc": "Part 1' has sparked debate online. Ranbir Kapoor, cast as Lord Rama, addressed his initial self-doubt about the role. He believes sincerity and respect are key for portraying the revered deity. Yash praised Kapoor's dedication and hard work in his challenging portrayal. The epic mythological film is scheduled for a Diwali 2026 release.",
+    "img": "https://static.toiimg.com/photo/msid-132734985,imgsize-352946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-reacts-to-criticism-on-the-casting-for-ramayana-all-the-people-have-their-own-interpretation-of-lord-ram-theres-no-fixed-face-to-it/articleshow/132734971.cms",
+    "time": "2026-07-30T09:43:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Who plays Lord Vishnu in 'Ramayana Part 1'? Fans think they spotted Sourabh Raaj Jain",
+    "desc": "The unveiling of the 'Ramayana Part 1' trailer has led to a lively debate regarding who plays Lord Vishnu, with fans asserting that the role is portrayed by Sourabh Raaj Jain. Confirmed cast members include Ranbir Kapoor as both Lord Rama and Lord Parshuram. Anticipated to release for Diwali 2026, this film promises to deliver a visual spectacle with its esteemed cast.",
+    "img": "https://static.toiimg.com/photo/msid-132734943,imgsize-54768.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/who-plays-lord-vishnu-in-ranbir-kapoor-yash-and-sai-pallavis-ramayana-part-1-fans-think-they-spotted-sourabh-raaj-jain/articleshow/132734872.cms",
+    "time": "2026-07-30T09:42:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'India ke liye ladne wala insaan': Tributes pour in as Rahane retires",
+    "desc": "Ajinkya Rahane represented India in 85 Tests, 90 ODIs and 20 T20Is. The Mumbai batter finished his Test career with 5,077 runs at an average of 38.46, including 12 centuries and 26 half-centuries. In ODIs, he scored 2,962 runs in 90 matches at an average of 35.26, with three centuries and 24 fifties. He also played 20 T20Is, scoring 375 runs.",
+    "img": "https://static.toiimg.com/photo/msid-132734836,imgsize-31000.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-ke-liye-ladne-wala-insaan-tributes-pour-in-as-ajinkya-rahane-retires/articleshow/132734610.cms",
+    "time": "2026-07-30T09:42:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Jana Nayagan' producer credits Vijay's 'magic' for the film's strong BO",
+    "desc": "Jana Nayagan producer K Venkat Narayana discussed the film's challenging release journey. He credited Vijay's immense stardom and audience connection for the movie's strong performance. Despite censor delays and piracy issues, the action drama achieved significant box office success. The film's overwhelming audience response made the team's hard work feel worthwhile. Jana Nayagan continues its theatrical run, drawing crowds through positive word of mouth.",
+    "img": "https://static.toiimg.com/photo/msid-132734576,imgsize-236156.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-producer-k-venkat-narayana-credits-vijays-magic-for-the-films-strong-box-office-run/articleshow/132734474.cms",
+    "time": "2026-07-30T09:27:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kunal lauds Yash's Ravana in Ranbir starrer Ramayana",
+    "desc": "Kunal Kapoor praised co-stars Yash and Ranbir Kapoor from Nitesh Tiwari's Ramayana, calling Yash's Ravana \"incredible\" and Ranbir \"a star without baggage.\" Kapoor plays Lord Indra, alongside Yash as Ravana and Ranbir as Ram. The trailer released July 30; the two-part epic arrives in theatres on Diwali 2026 and 2027.",
+    "img": "https://static.toiimg.com/photo/msid-132734543,imgsize-191276.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kunal-kapoor-lauds-yashs-ravana-in-ranbir-kapoor-starrer-ramayana-ravana-would-be-proud/articleshow/132734543.cms",
+    "time": "2026-07-30T09:24:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. government must create land banks to boost commercial real estate: experts",
+    "desc": "The speakers pointed out that while there is no single solution to the land supply issue, Gujarat’s land pooling model and land leasing mechanisms could help overcome high land costs that dictate the supply of land for commercial real estate development",
+    "img": "https://th-i.thgim.com/public/incoming/9xbcxl/article71285197.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-30%20at%2012.29.28.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-government-must-create-land-banks-to-boost-commercial-real-estate-experts/article71285028.ece",
+    "time": "2026-07-30T09:23:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Love Island UK' couples who are still together in love",
+    "desc": "‘Love Island UK’ spares no stone unturned when testing the couples' loyalties. Whether bringing bombshells into Casa Amor or teasing islanders with the smell of fresh cash prizes, every twist is perfectly designed to bait them. Defying all the odds, many couples stayed true to their promises and cherished their partners. Despite the temptations, these special couples battled hard to stay together, overcoming fights and insecurities. Here’s a glimpse at the iconic ‘Love Island UK’ couples who continue to stay strong and better together.",
+    "img": "https://static.toiimg.com/photo/msid-132734283,imgsize-240738.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/tv/news/english/love-island-uk-couples-who-are-still-together-in-love-from-olivia-buckland-alex-bowen-to-jessie-wynter-will-young/photostory/132734283.cms",
+    "time": "2026-07-30T09:17:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tamil Nadu offers policy stability, transparent governance for urban growth: Minister Rajkumar",
+    "desc": "Speaking at The Hindu Real Estate and Urban Infrastructure Summit 2026 in Chennai on Thursday, Mr. Rajkumar said the TVK government, “under the visionary leadership of our Chief Minister [C. Joseph Vijay], is committed to building cities that provide every citizen with a better quality of life”",
+    "img": "https://th-i.thgim.com/public/incoming/szhr5w/article71284821.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-30%20at%2011.14.48.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-offers-policy-stability-transparent-governance-for-urban-growth-minister-rajkumar/article71284697.ece",
+    "time": "2026-07-30T09:13:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CPI(M) opposes Kerala UDF govt’s clean chit to Chief Minister V.D. Satheesan in Punarjani foreign fund case",
+    "desc": "Showing a video clip of Satheesan soliciting funds from delegates who attended a conference sponsored by Manappat Foundation, M.V. Govindan says Foreign Contribution Regulation Act prohibits government servants, judicial officers, political parties, MLAs, MPs and those who hold public office from soliciting foreign funds",
+    "img": "https://th-i.thgim.com/public/incoming/3e0e9t/article71285176.ece/alternates/LANDSCAPE_1200/80968_27_7_2026_20_23_37_2_IMG_8152.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/cpim-opposes-kerala-udf-govts-clean-chit-to-chief-minister-vd-satheesan-in-punarjani-foreign-fund-case/article71285066.ece",
+    "time": "2026-07-30T09:13:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Srikakulam to send 737 buses to Bhogapuram airport inauguration on August 1",
+    "desc": "An exclusive control room would monitor the buses and the facilities for Srikakulam residents attending PM Modi’s public meeting; TDP and BJP leaders said the airport would cut the district’s travel to 45 km and draw industry to National Highway 16",
+    "img": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-andhrapradesh/b4rvdn/article71283970.ece/alternates/LANDSCAPE_1200/Glass-steel-anGK5GAQ8SD.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/srikakulam-to-send-737-buses-to-bhogapuram-airport-inauguration-on-august-1/article71284529.ece",
+    "time": "2026-07-30T09:02:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Why makers didn't reveal Sunny Deol's Lord Hanuman character?",
+    "desc": "The first trailer for Nitesh Tiwari's Ramayana has been released, showcasing key characters. Fans are questioning the absence of Sunny Deol, who plays Lord Hanuman. His role may be more prominent in the film's second part. Celebrities have praised the trailer, calling it magnificent and epic. Ramayana Part One is scheduled for a Diwali 2026 release.",
+    "img": "https://static.toiimg.com/photo/msid-132733959,imgsize-277653.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-trailer-why-makers-didnt-reveal-sunny-deols-lord-hanuman-character-read-here/articleshow/132733744.cms",
+    "time": "2026-07-30T08:58:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NCP to merge with Sharad Pawar faction? What party veteran Chhagan Bhujbal said",
+    "desc": "Speaking to reporters during a visit to Pune, the Maharashtra minister was asked whether the rival NCP factions could come together. Responding to the question, Bhujbal said the decision rested with party president Sunetra Pawar and suggested there was little point in debating the matter until the leadership took a call.",
+    "img": "https://static.toiimg.com/photo/msid-132733661,imgsize-105232.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ncp-to-merge-with-sharad-pawar-faction-what-party-veteran-chhagan-bhujbal-said/articleshow/132733406.cms",
+    "time": "2026-07-30T08:50:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranbir Kapoor's double role as Lord Parshuram in 'Ramayana Part 1' confirmed",
+    "desc": "The trailer for Nitesh Tiwari's 'Ramayana Part 1' has generated significant online discussion. Ranbir Kapoor will reportedly portray both Lord Rama and Lord Parshuram in the film. This surprising casting choice has been confirmed after initial fan speculation arose. The epic mythological film is scheduled for a Diwali 2026 release. 'Ramayana Part 2' is expected to follow in Diwali 2027.",
+    "img": "https://static.toiimg.com/photo/msid-132733499,imgsize-81114.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoors-double-role-as-lord-parshuram-in-ramayana-part-1-confirmed-after-eagle-eyed-fans-decode-viral-trailer-scene-see-what-internet-is-saying-yash-nitesh-tiwari-sai-pallavi/articleshow/132733370.cms",
+    "time": "2026-07-30T08:45:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Bradley Cooper",
+    "desc": "Bradley Cooper has built a versatile and successful Hollywood career over decades. He has consistently taken on challenging roles and reinvented himself for audiences. His personal life includes past marriages and relationships, and he has a daughter. Cooper's career spans numerous acclaimed films and voice acting roles. His estimated net worth reflects his extensive work in the entertainment industry.",
+    "img": "https://static.toiimg.com/photo/msid-132733483,imgsize-243994.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-bradley-cooper-you-have-to-do-everything-you-can-you-have-to-work-your-hardest-and-if-you-do-if-you-stay-positive-you-have-a-shot-at-a-silver-lining-life-lesson-shared-by-silver-linings-playbook-actor-about-perseverance/articleshow/132733442.cms",
+    "time": "2026-07-30T08:44:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Grammy chief responds to BTS dropping out of Grammy nomination run",
+    "desc": "Harvey Mason Jr, the CEO of the Grammys, conveyed his regret over BTS's withdrawal from award nominations. He highlighted that the newly introduced Asian pop category aims to showcase the diverse talents emerging from Asia. Mason Jr noted that artists can enter their music in different categories at once. BTS posted their decision on Instagram, expressing their hope for their music to resonate worldwide.",
+    "img": "https://static.toiimg.com/photo/msid-132733377,imgsize-178522.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/k-pop-group-bts-backs-out-of-the-grammys-for-2027-organization-chief-responds-i-am-saddened-to-hear-that/articleshow/132733254.cms",
+    "time": "2026-07-30T08:38:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "HI explains",
+    "desc": "Hockey India will use saffron jerseys for the 2026 World Cup. According to Hockey India, the traditional blue jersey blended with the blue artificial turf used in international hockey, making it difficult for players to spot teammates during matches. The federation said players and coaches suggested different colours before saffron was chosen.",
+    "img": "https://static.toiimg.com/photo/msid-132733212,imgsize-73137.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/why-indian-hockey-team-jersey-changed-from-blue-to-saffron-hockey-india-explains/articleshow/132732911.cms",
+    "time": "2026-07-30T08:33:42.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. military launches new strikes on Iran",
+    "desc": "U.S. President Donald Trump vowed to hit back hard at Iran after it attacked U.S. bases in Jordan on Wednesday, July 30, as the war in West Asia reignited and again drew in Iran's proxies",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/west-asia-war-live-july-30-2026-updates-us-military-launches-new-strikes-on-iran/article71284158.ece",
+    "time": "2026-07-30T08:32:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Oscar-winning animator Glen Keane rescued by helicopter",
+    "desc": "Animator Glen Keane experienced a medical emergency while hiking in Arizona. Firefighters used a helicopter to rescue the 72-year-old from Mummy Mountain. Keane felt dizzy and required assistance due to the extreme heatwave conditions. He expressed gratitude for the rescue crew's brave efforts. Authorities advise hikers to avoid trails during severe heat.",
+    "img": "https://static.toiimg.com/photo/msid-132733017,imgsize-217429.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscar-winning-animator-glen-keane-rescued-by-helicopter-after-a-hiking-emergency-in-arizona-this-was-just-a-real-blessing/articleshow/132733000.cms",
+    "time": "2026-07-30T08:20:03.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "'Jana Nayagan' BO day 8 (Live): Vijay and Pooja Hegde starrer stays steady",
     "desc": "Jana Nayagan continues its strong box office performance, crossing Rs 150 crore net. The Vijay starrer is holding steady and showing good collections on weekdays. Industry trackers anticipate a further boost during the upcoming second weekend. With no major competition, the film is expected to attract family audiences. Makers may soon release an official box office update for eager fans.",
@@ -7,6 +286,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-box-office-collection-day-8-live-vijay-and-pooja-hegde-starrer-stays-steady-india-net-crosses-rs-150-crore/articleshow/132732837.cms",
     "time": "2026-07-30T08:12:15.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Why is the founder of Telegram on Russia’s wanted list",
+    "desc": "The international wanted notice against Pavel Durov comes after the FSB said that Telegram had failed to remove “numerous channels, chats, and bots” allegedly used by “Ukrainian intelligence agencies and terrorist and extremist organisations” to prepare and coordinate acts of “sabotage and terrorism, mass murder, and cyber fraud” in Russia.",
+    "img": "https://th-i.thgim.com/public/incoming/on2zwb/article71284277.ece/alternates/LANDSCAPE_1200/2024-09-17T050018Z_531756498_RC242AAINJT0_RTRMADP_3_FRANCE-SECURITY-RUSSIA-TELEGRAM.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/why-is-the-founder-oftelegramonrussiaswantedlist-explained/article71284265.ece",
+    "time": "2026-07-30T08:10:34.000Z"
   },
   {
     "cat": "Politics",
@@ -36,42 +324,6 @@ const newsData_en = [
     "time": "2026-07-30T08:01:44.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Bhushan gives an update on Kartik and Anurag Basu’s film",
-    "desc": "Bhushan Kumar confirmed Kartik Aaryan-Anurag Basu's untitled film with Sreeleela is \"more or less complete,\" contradicting Basu's earlier claim of only 45 shooting days. T-Series will also start Kartik's 'Captain India' with Shimit Amin next month. The delayed film faced Saiyaara comparisons and stems from the Aashiqui franchise's legal dispute.",
-    "img": "https://static.toiimg.com/photo/msid-132732665,imgsize-180339.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/more-or-less-complete-bhushan-kumar-gives-an-update-on-kartik-aaryan-and-anurag-basus-film/articleshow/132732665.cms",
-    "time": "2026-07-30T07:59:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Ramayana' trailer: Mukesh Chhabra hails 7-year journey, thanks makers",
-    "desc": "The Introduction – Part One' was released on July 30 during Brahma Muhurat, drawing mixed reactions from netizens over Yash's Hindi dubbing and Sai Pallavi's casting as Sita. Casting director Mukesh Chhabra shared an emotional note on X, reflecting on seven years of work on the film alongside director Nitesh Tiwari and producer Namit Malhotra.",
-    "img": "https://static.toiimg.com/photo/msid-132732442,imgsize-109047.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-trailer-out-mukesh-chhabra-thanks-nitesh-tiwari-namit-malhotra-in-heartfelt-note-saying-we-devoted-seven-years-to-this-extraordinary-journey/articleshow/132732365.cms",
-    "time": "2026-07-30T07:52:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Ramayana' character guide: Who plays whom in the epic",
-    "desc": "In an epic unveiling, the 'Ramayana' trailer introduces Ranbir Kapoor as Lord Ram and Sai Pallavi as Sita, promising a visually stunning rendition of the classic tale. Yash steps into the shoes of the formidable Ravana, while Sunny Deol brings Lord Hanuman to life. The star-studded lineup includes Ravie Dubey as Lakshman and Arun Govil as King Dashrath, with Lara Dutta as Kaikayi and Kajal Aggarwal as Mandodari.",
-    "img": "https://static.toiimg.com/photo/msid-132732264,imgsize-1632736.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-character-guide-ranbir-kapoor-as-ram-yash-as-ravana-sai-pallavi-as-sita-who-plays-whom-in-nitesh-tiwaris-epic-amid-trailer-release/articleshow/132732169.cms",
-    "time": "2026-07-30T07:44:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Lokesh dares Jagan for debate on DSC, again",
-    "desc": "At a meeting in Adoni, the Minister said the TDP had recruited 2,00,000 teachers over the years and filled 16,000 posts despite 250 lawsuits, and accused Mr. Jagan Mohan Reddy of claiming credit for the Bhogapuram airport only after its inauguration was announced",
-    "img": "https://th-i.thgim.com/public/incoming/d3rvic/article71281801.ece/alternates/LANDSCAPE_1200/YSRCP-seeks-LokGQHGAFHTP.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/lokesh-dares-jagan-for-debate-on-dsc-again/article71282873.ece",
-    "time": "2026-07-30T07:40:15.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'Criticise govt, don't denigrate India': Harish Salve on dissent and social media",
     "desc": "Speaking at the AK Sen Memorial Lecture and Photograph Unveiling Ceremony organised by the Supreme Court Bar Association (SCBA), Salve said holding those in power accountable is necessary in a constitutional democracy. Several senior members of the legal fraternity attended the ceremony. SCBA President and Senior Advocate Vikas Singh paid tribute to Sen's contribution to the legal profession, while Attorney General for India R. Venkataramani also spoke about his legacy.",
@@ -79,24 +331,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/criticise-govt-dont-denigrate-india-harish-salve-on-dissent-and-social-media/articleshow/132728504.cms",
     "time": "2026-07-30T07:36:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Ramayana' actor Adinath Kothare calls film historic milestone; 'God has been kind'",
-    "desc": "The highly anticipated 'Ramayana' trailer by Nitesh Tiwari dropped early Thursday, capturing fans' attention with its stunning visuals and powerful ensemble performances. Actor Adinath Kothare, who plays Bharat, expressed his heartfelt gratitude for being part of such a grand venture. In personal news, he recently shared his separation from Urmila Kanetkar after fifteen years, adding to the complexities surrounding his professional and personal life.",
-    "img": "https://static.toiimg.com/photo/msid-132731681,imgsize-259200.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-trailer-adinath-kothare-thanks-nitesh-tiwari-namit-malhotra-and-mukesh-chhabra-for-making-him-part-of-this-ranbir-kapoor-and-yash-starrer-god-has-been-kind-/articleshow/132731300.cms",
-    "time": "2026-07-30T07:23:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tamil Nadu offers policy stability, transparent governance for urban growth: Minister Rajkumar",
-    "desc": "Speaking at The Hindu Real Estate and Urban Infrastructure Summit 2026 in Chennai on Thursday, Mr. Rajkumar said the TVK government, “under the visionary leadership of our Chief Minister [C. Joseph Vijay], is committed to building cities that provide every citizen with a better quality of life”",
-    "img": "https://th-i.thgim.com/public/incoming/szhr5w/article71284821.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-30%20at%2011.14.48.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-offers-policy-stability-transparent-governance-for-urban-growth-minister-rajkumar/article71284697.ece",
-    "time": "2026-07-30T07:22:50.000Z"
   },
   {
     "cat": "Business",
@@ -109,57 +343,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Tamil Nadu CM Vijay’s proposed Bengaluru visit for Cauvery talks revives memories of similar missions in mid-1980s",
-    "desc": "In January and February 1986 and 1987, Chief Minister M.G. Ramachandran despatched his Ministers to Bengaluru to meet their counterparts and Karnataka Chief Minister Ramakrishna Hegde and persuade them to release water for saving the paddy crop raised during the long-term samba cultivation season",
-    "img": "https://th-i.thgim.com/public/incoming/wti1vx/article71278371.ece/alternates/LANDSCAPE_1200/HG_4352-001.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/vijays-proposed-visit-to-bengaluru-kindles-public-curiosity-about-similar-missions-in-the-mid-1980s/article71278048.ece",
-    "time": "2026-07-30T07:22:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mamta Kulkarni reacts to Mahira Sharma's Ranaji 2.0",
-    "desc": "Mamta Kulkarni reacted to \"Ranaji 2.0,\" Mahira Sharma's recreation of her iconic \"Karan Arjun\" song, calling the original \"etched in people's minds.\" She recalled tough 90s rehearsals and praised Rakesh Roshan's work on the film. Kulkarni also revealed she's open to acting offers, but only scripts aligning with her spiritual growth.",
-    "img": "https://static.toiimg.com/photo/msid-132731526,imgsize-192248.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mamta-kulkarni-reacts-to-mahira-sharmas-ranaji-2-0-the-original-is-etched-in-peoples-minds/articleshow/132731526.cms",
-    "time": "2026-07-30T07:17:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala HC seeks State’s response on actor Ansiba Hassan’s petition against Magistrate’s order",
-    "desc": "HC admits petition by Ansiba Hassan challenging order of Judicial First Class Magistrate Court, Ernakulam, which refused to register a case based on her complaint against a video allegedly containing sexually coloured and defamatory statements made against her",
-    "img": "https://th-i.thgim.com/public/incoming/gz8ppd/article71284826.ece/alternates/LANDSCAPE_1200/IMG_Ansiba_2_1_POE5T1P1.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-hc-seeks-states-response-on-actor-ansiba-hassans-petition-against-magistrates-order/article71284756.ece",
-    "time": "2026-07-30T07:13:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Zendaya calls Tom Holland her best friend",
-    "desc": "Zendaya hailed Tom Holland as her best friend during a film premiere, highlighting the honor of collaborating and growing together in their cinematic endeavors. Their bond began with their 2016 Spider-Man film, and they acknowledged their relationship in 2021, choosing to maintain a low profile. Recent subtle clues hint at the possibility of the couple privately exchanging vows.",
-    "img": "https://static.toiimg.com/photo/msid-132731309,imgsize-80020.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/zendaya-calls-tom-holland-her-best-friend-says-i-love-to-be-able-to-grow-together-/articleshow/132731309.cms",
-    "time": "2026-07-30T07:11:24.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "'Proud of railways, want to be proud of govt promises too': Sonam Wangchuk hints at pending govt assurances",
     "desc": "Climate activist Sonam Wangchuk praised Indian Railways for its services. He urged the government to honor commitments made to student protesters. The recent NEET-UG paper leak debate was welcomed by the activist. Wangchuk also highlighted the success of peaceful non-violent resistance. The student-led agitation concluded after the government accepted key demands.",
     "img": "https://static.toiimg.com/photo/msid-132731155,imgsize-87185.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/proud-of-railways-want-to-be-proud-of-govt-promises-too-sonam-wangchuk-hints-at-pending-govt-assurances/articleshow/132730285.cms",
     "time": "2026-07-30T07:05:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shine Tom Chacko says horror movies affect him",
-    "desc": "Actor Shine Tom Chacko has decided against viewing his impending film 'Dies Irae'. He distanced himself from horror films years prior, unhappy with their lingering psychological effects. The unsettling nature of ghost stories impacts him well beyond the viewing experience. For 'Dies Irae', his contribution was mainly through photos and a body mold, which he communicated to director Rahul Sadasivan.",
-    "img": "https://static.toiimg.com/photo/msid-132730913,imgsize-283282.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/i-still-havent-watched-dies-irae-shine-tom-chacko-says-horror-movies-affect-him/articleshow/132730806.cms",
-    "time": "2026-07-30T06:56:38.000Z"
   },
   {
     "cat": "Business",
@@ -169,33 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/hormuz-red-sea-disruptions-indias-crude-oil-imports-from-russia-may-touch-new-record-of-3-million-barrels-per-day-heres-why-us-iran-war-middle-east-conflict/articleshow/132730751.cms",
     "time": "2026-07-30T06:55:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Post Main Wapas Aaunga, Sharvari and Vedang set to reunite",
-    "desc": "Sharvari and Vedang Raina, last seen in 'Main Wapas Aaunga', will reunite for Imtiaz Ali's untitled romantic drama, with shooting starting November. Screenplay and casting are locked, per Pinkvilla. Meanwhile, Main Wapas Aaunga, also starring Diljit Dosanjh and Naseeruddin Shah, releases on Netflix August 7, continuing its theatrical run too.",
-    "img": "https://static.toiimg.com/photo/msid-132730832,imgsize-222527.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/post-main-wapas-aaunga-sharvari-and-vedang-raina-set-to-reunite-n-imtiaz-alis-next-film-report/articleshow/132730832.cms",
-    "time": "2026-07-30T06:53:53.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S. military launches new strikes on Iran",
-    "desc": "U.S. President Donald Trump vowed to hit back hard at Iran after it attacked U.S. bases in Jordan on Wednesday, July 30, as the war in West Asia reignited and again drew in Iran's proxies",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/west-asia-war-live-july-30-2026-updates-us-military-launches-new-strikes-on-iran/article71284158.ece",
-    "time": "2026-07-30T06:46:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ravi Kishan reveals how he lost 18kg without weight-loss drugs",
-    "desc": "Political figure and actor Ravi Kishan has remarkably lost eighteen kilograms, showcasing his commitment to health. This journey involved rigorous dietary modifications and a steadfast exercise regime. Previously, his active political life led to some weight gain, but he now embraces a fruit-centric diet and intermittent fasting. Physical activity remains integral to his ongoing fitness plan, highlighting his determination.",
-    "img": "https://static.toiimg.com/photo/msid-132730351,imgsize-352404.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ravi-kishan-reveals-how-he-lost-18kg-without-weight-loss-drugs-when-you-are-in-your-50s-its-not-easy-i-was-90-kg/articleshow/132730083.cms",
-    "time": "2026-07-30T06:44:52.000Z"
   },
   {
     "cat": "Sports",
@@ -217,78 +379,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Punarjani scheme promoters Manappat Foundation faces legal scrutiny in Kerala over alleged FCRA violations",
-    "desc": "Officials say Kerala government is legally examining VACB report to Home department in 2025 which stated that the NGO violated Rule 19 of FCRA by allegedly failing to maintain records of foreign donations for Punarjani project and of utilisation of endowments from abroad",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/punarjani-scheme-promoters-manappat-foundation-faces-legal-scrutiny-in-kerala-over-alleged-fcra-violations/article70473425.ece",
-    "time": "2026-07-30T06:22:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Priyanka and Nick meet Mahesh Babu for movie night",
-    "desc": "Priyanka Chopra, shooting for SS Rajamouli's 'Varanasi' in Hyderabad, enjoyed a movie night with husband Nick Jonas and co-star Mahesh Babu at AMB Cinemas. On the Jonas Brothers' podcast, she revealed Rajamouli personally cast her 14 months ago. 'Varanasi', set post-asteroid apocalypse, follows Rudhra's quest, with Priyanka playing Mandakini.",
-    "img": "https://static.toiimg.com/photo/msid-132729339,imgsize-359997.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amid-varanasi-shoot-priyanka-chopra-and-nick-jonas-meet-mahesh-babu-for-movie-night-in-hyderabad-see-photo/articleshow/132729339.cms",
-    "time": "2026-07-30T06:14:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Inside the Indian bars named among Asia’s 50 Best Bars 2026",
-    "desc": "In this very competitive landscape, Boilermaker, SOKA and Bar Spirit Forward make the cut. We speak to the founders and mixologists behind them, and take a look at the full list of Asia’s 50 Best Bars 2026",
-    "img": "https://th-i.thgim.com/public/food/5e4kgo/article71280254.ece/alternates/LANDSCAPE_1200/Boilermaker-interior.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/food/features/inside-the-indian-bars-named-among-asias-50-best-bars-2026/article71280068.ece",
-    "time": "2026-07-30T06:01:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Ramayana' trailer CHANGED after teaser backlash?",
-    "desc": "The Ramayana trailer has garnered significant praise from fans online. Viewers observed noticeable visual changes and improved creature designs in the trailer. These updates appear to be a direct response to earlier audience feedback. The film's VFX and color grading have been highlighted as key improvements. This epic is scheduled for release in Diwali 2026 and 2027.",
-    "img": "https://static.toiimg.com/photo/msid-132727758,imgsize-600948.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-trailer-changed-after-rama-glimpse-backlash-fans-spot-new-rakshas-design-improved-vfx-and-colour-grading/articleshow/132726930.cms",
-    "time": "2026-07-30T05:58:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Elton John celebrates being sober for 36 years",
-    "desc": "Elton John celebrated an impressive thirty-six years of sobriety through a heartfelt social media post, sharing a joyful photo of himself raising a glass filled with his own non-alcoholic wine. Many fans took to the comments, offering their congratulations and recounting their personal recovery stories. Having once struggled with addiction for sixteen years, Elton committed to a healthier lifestyle, recently launching his own sparkling wine without alcohol earlier this year.",
-    "img": "https://static.toiimg.com/photo/msid-132728816,imgsize-487642.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/elton-john-celebrates-36-years-of-sobriety-raising-a-0-glass-to-life-grateful-for-every-single-day/articleshow/132728630.cms",
-    "time": "2026-07-30T05:58:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "How a 94-year-old Tamil Nadu brand is betting on ghee tourism",
-    "desc": "After nearly a century of making ghee, RKG is opening its doors to a ghee brewery and a restaurant celebrating Kongu cuisine. We visit the Kangayam facility to see how the family-run brand is turning a kitchen staple into an experience",
-    "img": "https://th-i.thgim.com/public/incoming/y5zzfu/article71275618.ece/alternates/LANDSCAPE_1200/2085_27_7_2026_18_19_17_4_DSC_3654.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/food/features/how-a-94-year-old-tamil-nadu-brand-is-betting-on-ghee-tourism/article71275590.ece",
-    "time": "2026-07-30T05:46:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jennifer Aniston and Courteney Cox vacation in Spain",
-    "desc": "Jennifer Aniston and Courteney Cox enjoyed a Mallorca vacation. They were seen lounging on a yacht with Jim Curtis and Pedro Pascal. Aniston wore a black swimsuit while kayaking during the summer getaway. Cox sported a grey swim shirt and a black hat before entering the water. This trip follows Courteney Cox's decade-long relationship ending amicably.",
-    "img": "https://static.toiimg.com/photo/msid-132728049,imgsize-258754.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jennifer-aniston-and-courteney-cox-vacation-in-spain-with-pedro-pascal-and-jim-curtis/articleshow/132727992.cms",
-    "time": "2026-07-30T05:31:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ranveer poses with 'Indian Trump' Avinash; comedian roasts actor",
-    "desc": "Fans went wild when Ranveer Singh made a surprising public appearance with Avinash Agarwal. The superstar is set to dive into his next role in 'Pralay', a thrilling zombie film, with shooting scheduled to kick off in August until Diwali. This venture marks a significant milestone as it is poised to be his costliest standalone project. On a personal note, Ranveer is also excited about welcoming his second child soon.",
-    "img": "https://static.toiimg.com/photo/msid-132728030,imgsize-557636.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-poses-with-indian-trump-avinash-agarwal-from-indias-got-latent-2-comedian-roasts-actor-in-caption-thanks-for-wearing-mens-clothes/articleshow/132727470.cms",
-    "time": "2026-07-30T05:31:20.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "850 exhibitors to take part in Delhi gifting, stationery expo",
     "desc": "Paperworld Delhi, being held in the Capital for the first time after five editions in Mumbai, will focus on stationery, writing instruments, school and office supplies, art materials, paper products, packaging, educational solutions and workplace essentials. The exhibitions will also have dedicated spaces for start-ups, product innovations and sustainable solutions.",
     "img": "https://static.toiimg.com/photo/msid-132727964,imgsize-275634.cms",
@@ -306,15 +396,6 @@ const newsData_en = [
     "time": "2026-07-30T05:25:39.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ben Affleck and Jamie Ding win big prize on ‘WWTBAM’",
-    "desc": "Ben Affleck and Jamie Ding triumphed on Who Wants To Be A Millionaire, nailing the million-dollar final question after strategically utilizing their lifelines. Their impressive winnings will aid Affleck's nonprofit efforts aimed at enhancing community programs. Viewers can catch these thrilling episodes on ABC or stream them online, reliving the excitement of their journey.",
-    "img": "https://static.toiimg.com/photo/msid-132727880,imgsize-291999.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/gone-girl-star-ben-affleck-and-jeopardy-winner-jamie-ding-win-big-with-usd-1-million-on-who-wants-to-be-a-millionaire/articleshow/132727778.cms",
-    "time": "2026-07-30T05:24:37.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Jasprit Bumrah, Shubman Gill easing back to full fitness",
     "desc": "TOI understands that Bumrah will begin gradually increasing his bowling workload after suffering an impact injury during the ODI series in England, while Gill has sought help from specialists outside the BCCI for his chronic neck problem.",
@@ -322,15 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/jasprit-bumrah-shubman-gill-easing-back-to-full-fitness/articleshow/132727753.cms",
     "time": "2026-07-30T05:18:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Centre’s assurance cannot override statutory processes governing withdrawal of FIRs, experts say",
-    "desc": "‘Once an FIR has been registered, it cannot simply be cancelled; police can file a closure report if it finds no material to proceed or the public prosecutor may seek withdrawal from prosecution; however, court can reject them and still order a fresh probe'",
-    "img": "https://th-i.thgim.com/public/incoming/e5albd/article71283042.ece/alternates/LANDSCAPE_1200/PTI07_27_2026_000372B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/centres-assurance-cannot-override-statutory-processes-governing-withdrawal-of-firs-experts-say/article71280825.ece",
-    "time": "2026-07-30T05:16:40.000Z"
   },
   {
     "cat": "Sports",
@@ -376,15 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/how-india-became-the-worlds-worst-doping-offender-a-crisis-threatening-sports/articleshow/132726436.cms",
     "time": "2026-07-30T04:03:02.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Why is the founder of Telegram on Russia’s wanted list",
-    "desc": "The international wanted notice against Pavel Durov comes after the FSB said that Telegram had failed to remove “numerous channels, chats, and bots” allegedly used by “Ukrainian intelligence agencies and terrorist and extremist organisations” to prepare and coordinate acts of “sabotage and terrorism, mass murder, and cyber fraud” in Russia.",
-    "img": "https://th-i.thgim.com/public/incoming/on2zwb/article71284277.ece/alternates/LANDSCAPE_1200/2024-09-17T050018Z_531756498_RC242AAINJT0_RTRMADP_3_FRANCE-SECURITY-RUSSIA-TELEGRAM.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/why-is-the-founder-oftelegramonrussiaswantedlist-explained/article71284265.ece",
-    "time": "2026-07-30T03:59:34.000Z"
   },
   {
     "cat": "Business",
@@ -504,15 +567,6 @@ const newsData_en = [
     "time": "2026-07-30T02:02:49.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Andrew Garfield",
-    "desc": "Andrew Garfield embraced struggle as essential for personal growth and genuine artistry in his acting career. He felt that remaining too comfortable might stifle an actor's evolution and passion for their craft. His formative experiences and acting path fostered this distinctive outlook, leading him to consistently prioritize artistic integrity in his career choices, even extending beyond his iconic Spider-Man role.",
-    "img": "https://static.toiimg.com/photo/msid-132724850,imgsize-79375.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-andrew-garfield-you-develop-when-youre-struggling-when-youre-struggling-you-get-stronger-life-lesson-by-spider-man-star-highlighting-that-when-the-going-gets-tough-the-tough-get-going/articleshow/132724746.cms",
-    "time": "2026-07-30T02:02:27.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India's complete schedule, timings and medal events on July 30",
     "desc": "Neeraj Chopra makes his highly anticipated debut in the men's javelin throw qualification event. Tejaswin Shankar begins his challenging decathlon campaign, aiming for a strong performance. Indian weightlifters Martina Devi Maibam and Lovepreet Singh will compete for medals. Additional medal opportunities exist in athletics for shot put and discus throw. The nation anticipates a successful day with multiple athletes vying for podium finishes.",
@@ -603,33 +657,6 @@ const newsData_en = [
     "time": "2026-07-30T01:08:46.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Supreme Court curbs powers of SC panel, says it can’t pass adjudicatory orders",
-    "desc": "The Supreme Court has ruled the National Commission for Scheduled Castes is advisory. It cannot pass binding adjudicatory orders in service-related matters. The commission can only send recommendations to the state or central government. It can inquire into complaints and record factual findings. However, it lacks the power to make final orders.",
-    "img": "https://static.toiimg.com/photo/msid-132724501,imgsize-108702.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/supreme-court-curbs-powers-of-sc-panel-says-it-cant-pass-adjudicatory-orders/articleshow/132724481.cms",
-    "time": "2026-07-30T01:02:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ADGCA-ordered probe cleared Dreamliner fuel switch: Government",
-    "desc": "A Boeing probe found no abnormality in the B787 fuel control switch locking mechanism. This examination was ordered by the DGCA after a crew reported an issue post-landing. The switches control fuel supply and have faced scrutiny after a past crash incident. Further inspection of the complete thrust control module at the OEM facility is currently underway.",
-    "img": "https://static.toiimg.com/photo/msid-132724485,imgsize-54870.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dgca-ordered-probe-cleared-dreamliner-fuel-switch-government/articleshow/132724447.cms",
-    "time": "2026-07-30T00:56:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "IIT Bombay alumnus Jagdish Aphale named Ram temple trust’s first secretary, will oversee transactions",
-    "desc": "Jagdish Aphale, an IIT Bombay alumnus, has been appointed the Ayodhya Ram temple trust's first secretary. He will also serve as a joint signatory for financial transactions, enhancing accountability. This appointment follows recent resignations and alleged donation theft issues. Aphale previously supervised construction at the temple complex for nearly four years. His integration into the trust's internal processes has been ongoing for two weeks.",
-    "img": "https://static.toiimg.com/photo/msid-132724435,imgsize-1231204.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/iit-bombay-alumnus-jagdish-aphale-named-ram-temple-trusts-first-secretary-will-oversee-transactions/articleshow/132724424.cms",
-    "time": "2026-07-30T00:52:16.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Former CSK coach tipped for England's Test head coach role",
     "desc": "Stephen Fleming is reportedly the frontrunner for England's Test head coach position. He has emerged as the preferred candidate after a thorough interview process. Fleming will replace Brendon McCullum, who is now leading England's white-ball teams. Fleming recently concluded a successful eighteen-year tenure with Chennai Super Kings. Joe Root will temporarily lead the team before Fleming's official start.",
@@ -657,24 +684,6 @@ const newsData_en = [
     "time": "2026-07-30T00:13:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Denied seat, student hacks IIT-Kanpur website to show his 'merit'",
-    "desc": "A BTech applicant hacked IIT Kanpur's website seeking admission consideration. He claimed he was denied a fair chance in the selection process. The IIT director invited the candidate to campus for an assessment. He stressed that hacking was not the correct approach to gain entry. The institute will consider him if genuine talent is demonstrated.",
-    "img": "https://static.toiimg.com/photo/msid-132724065,imgsize-69524.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/denied-seat-student-hacks-iit-kanpur-website-to-show-his-merit/articleshow/132724055.cms",
-    "time": "2026-07-29T23:14:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "BJP hits back, calls Congress MP's claim 'a pack of lies'",
-    "desc": "The BJP strongly objects if Rahul Gandhi called students an idiot. They welcome the remark if it was self-directed by the Congress leader. BJP leaders accused Rahul Gandhi of spreading falsehoods and misleading the nation. They stated no bullets were fired during the student protests. The party highlighted government dialogue and efforts to strengthen laws against paper leaks.",
-    "img": "https://static.toiimg.com/photo/msid-132724036,imgsize-794013.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/rahul-gandhis-remarks-row-bjp-strikes-back-says-congress-mps-claim-a-pack-of-lies/articleshow/132724024.cms",
-    "time": "2026-07-29T22:57:13.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Ramayana' trailer: Ranbir's Rama finds perfect nemesis in Yash's Ravana",
     "desc": "The first trailer for Namit Malhotra's 'Ramayana' has been released, showcasing its cinematic spectacle. Ranbir Kapoor portrays Lord Rama, and Sai Pallavi appears as Sita in the film. Yash makes his debut as the imposing antagonist Ravana, while Sunny Deol plays Hanuman. The movie features stunning visuals and impressive VFX on a grand scale. This mythological epic is set to release this Diwali with a Rs 4,000 crore budget.",
@@ -682,24 +691,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-trailer-ranbir-kapoors-lord-rama-finds-the-perfect-nemesis-in-yashs-menacing-ravana-in-a-visually-breathtaking-epic-watch/articleshow/132721831.cms",
     "time": "2026-07-29T22:52:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Now, just one visit for NEET-UG counselling",
-    "desc": "NEET-UG counselling now requires only one physical reporting for candidates seeking admission. Aspirants can complete subsequent document verification online while retaining their allotted seats. The Medical Counselling Committee also introduced online resignation for surrendered seats. NRI category admissions are now fully digitized, improving verification processes. The government aims for a transparent and merit-based counselling system.",
-    "img": "https://static.toiimg.com/photo/msid-132723994,imgsize-58022.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/now-just-one-visit-for-neet-ug-counselling/articleshow/132723980.cms",
-    "time": "2026-07-29T22:37:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi high court refuses HPV shots stay, but seeks Centre's response",
-    "desc": "The Delhi High Court declined to halt the HPV immunisation campaign. Authorities must now explain the vaccine's introduction within four weeks. The court emphasized the need for proper protocols before administering vaccines. A Public Interest Litigation raised concerns about long-term safety and consent. The next hearing for this matter is scheduled for October 29.",
-    "img": "https://static.toiimg.com/photo/msid-132723248,imgsize-100014.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-high-court-refuses-hpv-shots-stay-but-seeks-centres-response/articleshow/132723027.cms",
-    "time": "2026-07-29T22:14:47.000Z"
   },
   {
     "cat": "Sports",
@@ -718,42 +709,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/will-emerald-isle-spark-test-rejuvenation/article71283117.ece",
     "time": "2026-07-29T18:56:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Paredes faces 3 assault charges; FIFA charges Argentina over 'Malvinas' banner",
-    "desc": "FIFA initiated disciplinary proceedings against Argentina players and officials. Charges include assault allegations and unsporting behaviour after the World Cup final. The Argentine Football Association faces accusations for fan conduct and political demonstrations. Players and staff may receive match suspensions and financial penalties for their actions. FIFA will review all submissions before announcing its final verdict.",
-    "img": "https://static.toiimg.com/photo/msid-132719453,imgsize-165138.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/leandro-paredes-faces-three-assault-charges-over-world-cup-final-fiasco-fifa-charges-argentina-over-las-malvinas-banner/articleshow/132719349.cms",
-    "time": "2026-07-29T18:03:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'My time with the national team is over'",
-    "desc": "Neymar has officially confirmed his retirement from international football after a long career. His decision follows Brazil's recent exit from the FIFA World Cup tournament. The veteran forward ends his international journey with numerous goals and assists. He also addressed and dismissed recent dressing-room criticism reports. Neymar helped Santos secure a victory in the Copa Sudamericana match.",
-    "img": "https://static.toiimg.com/photo/msid-132717563,imgsize-873068.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/neymar-confirms-brazil-retirement-my-time-with-the-national-team-is-over/articleshow/132717563.cms",
-    "time": "2026-07-29T16:50:20.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India-US trade pact: Piyush Goyal explains the one condition to seal the deal",
-    "desc": "India's trade pact with the US awaits tariff competitiveness restoration for its first phase. Minister Piyush Goyal stated India needs a comparative advantage over rival nations. This condition must be met before the bilateral trade agreement can commence. Meanwhile, a US legislative proposal could impose tariffs on Russian energy buyers. India has increased its Russian crude oil purchases amid supply disruptions.",
-    "img": "https://static.toiimg.com/photo/msid-132716910,imgsize-681630.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-pact-piyush-goyal-explains-the-one-condition-to-seal-the-deal/articleshow/132716848.cms",
-    "time": "2026-07-29T16:10:16.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Oil prices jump over 7% as Middle East chaos flares up, brent crude back at $90 per barrel",
-    "desc": "Oil prices surged over seven percent on Wednesday amid renewed Middle East military actions. This rally was also supported by industry data showing a drawdown in US crude inventories. Renewed strikes involving the United States and Iran-backed groups reignited supply concerns. Disruptions continued to affect shipping through the Strait of Hormuz and Bab el-Mandeb. Analysts expect oil prices to remain volatile in the near term due to ongoing conflict.",
-    "img": "https://static.toiimg.com/photo/msid-132716001,imgsize-609665.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-jump-over-7-as-middle-east-chaos-flares-up-brent-crude-back-at-90-per-barrel/articleshow/132715961.cms",
-    "time": "2026-07-29T15:33:52.000Z"
   },
   {
     "cat": "World",
@@ -891,12 +846,57 @@ const newsData_en = [
     "time": "2026-07-28T10:14:26.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘The Odyssey’ translator Emily Wilson blasts Christopher Nolan’s film, calls screenplay ‘abysmal’",
-    "desc": "Emily Wilson, whose acclaimed English translation of ‘The Odyssey’ inspired Christopher Nolan’s adaptation, has delivered a scathing review of the blockbuster, calling its screenplay “abysmal” and saying she “would be ashamed” to have written it",
-    "img": "https://th-i.thgim.com/public/incoming/qh8k1e/article71275902.ece/alternates/LANDSCAPE_1200/CT-03414.jpg",
+    "cat": "Tech",
+    "title": "After OpenAI-Hugging Face AI agent hack, U.S. lawmakers push for control",
+    "desc": "After OpenAI shared that some of its models had caused a security breach at another company, a White House official quoted by Reuters said that U.S. President Donald Trump’s ​tech adviser, Michael Kratsios, was tracking the situation",
+    "img": "https://th-i.thgim.com/public/incoming/2gddpv/article71260959.ece/alternates/LANDSCAPE_1200/OpenAI_56692.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/the-odyssey-translator-emily-wilson-blasts-christopher-nolans-film-calls-screenplay-abysmal/article71275913.ece",
-    "time": "2026-07-28T07:18:59.000Z"
+    "url": "https://www.thehindu.com/sci-tech/technology/after-openai-hugging-face-ai-agent-hack-us-lawmakers-push-for-control/article71260982.ece",
+    "time": "2026-07-28T06:42:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rathanvel seals 99th GM title as India closes in on Grandmaster century",
+    "desc": "The 25-year-old from Coimbatore had completed his three GM norms back in 2022, but repeatedly fell short of the rating requirement, turning what should have been the final step into a prolonged test of patience and mental resilience",
+    "img": "https://th-i.thgim.com/public/incoming/3ygwin/article71239482.ece/alternates/LANDSCAPE_1200/CB09_Chess_1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/rathanvel-seals-99th-gm-title-as-india-closes-in-on-grandmaster-century/article71239477.ece",
+    "time": "2026-07-28T06:13:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Evenepoel wins time trial for back-to-back Tour de France stage victories, Pogacar still leads",
+    "desc": "Evenepoel completed the 26.1-kilometer individual time trial in 32 minutes, 19 seconds, more than a minute faster than Mattias Skjelmose, the previous quickest, before the Belgian rider waited to see Pogacar cross the line with the second-best effort of the day",
+    "img": "https://th-i.thgim.com/public/incoming/g89nrm/article71251073.ece/alternates/LANDSCAPE_1200/2026-07-21T190710Z_1744432417_RC2GIMAFZUZV_RTRMADP_3_CYCLING-FRANCE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/evenepoel-wins-time-trial-for-back-to-back-tour-de-france-stage-victories-pogacar-still-leads/article71251053.ece",
+    "time": "2026-07-28T06:12:14.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "luminaries demand human ethics not be outsourced to AI",
+    "desc": "In mid-July, a group of Nobel laureates, AI scientists, religious leaders, and other luminaries signed the so-called ‘Rome Declaration for an Unarmed and Disarming Peace’. The Declaration calls for an international treaty to ban autonomous systems from accessing nuclear launches while emphasising that the threat is also not so far-fetched",
+    "img": "https://th-i.thgim.com/public/todays-paper/tp-miscellaneous/tp-others/hx40az/article69186170.ece/alternates/LANDSCAPE_1200/A-question-for-GAIDUVAL5.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/science/rome-declaration-convergent-perils-luminaries-human-ethics-outsourced-ai/article71252976.ece",
+    "time": "2026-07-22T10:39:09.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Space Exploration Day",
+    "desc": "If you want to be in space, you’ll need training. A lot of it. Here’s a look at all the different training — from spacewalk to simulation — that astronauts undergo to be efficient and valiant when, after much waiting, they finally get to space!",
+    "img": "https://th-i.thgim.com/public/incoming/vcdr6w/article71239165.ece/alternates/LANDSCAPE_1200/IMG_APTOPIX_Germany_Moon_2_1_ECDCKUA4.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/children/how-are-astronauts-trained/article71189012.ece",
+    "time": "2026-07-22T04:49:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
   }
 ];

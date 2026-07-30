@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "હવે તમે લેપટોપ કે PC પર WhatsAppથી પણ કરી શકશો વીડિયો કોલ, કંપનીએ એક સાથે લોન્ચ કર્યા અનેક ફીચર્સ",
+    "desc": "WhatsApp વેબ પર હવે વીડિયો અને ઓડિયો કોલિંગ સુવિધા શરૂ થઈ ગઈ છે, એટલે હવે તમે લેપટોપ કે PC પર WhatsAppથી પણ વીડિયો કોલ કરી શકશો. નવા અપડેટમાં ગ્રુપ કોલ કંટ્રોલ, સારી વીડિયો ક્વોલિટી અને સ્પષ્ટ ઓડિયો માટેના ફીચર્સ આપવામાં આવ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/whatsapp-web-audio-video-calling-and-many-features-launched-486196 ",
+    "time": "2026-07-30T09:49:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "આઠમાં પગાર પંચ પર સૌથી મોટું અપડેટ! ફિટમેન્ટ ફેક્ટર પર પહેલીવાર સંસદમાં બોલી સરકાર",
+    "desc": "આઠમાં પગાર પંચની લેટેસ્ટ અપડેટ પર કેન્દ્રીય કર્મચારીઓ આતુરતાપૂર્વક રાહ જોઈ રહ્યા છે. હવે મોદી સરકારે સંસદમાં આ મુદ્દે સ્પષ્ટ કર્યું છે કે પંચને પૂરી સ્વતંત્રતા છે. ફિટમેન્ટ ફેક્ટર પર હજુ કોઈ નિર્ણય લેવાયો નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/8th-pay-commission-latest-update-central-government-on-fitment-factor-family-unit-in-sansad-486193 ",
+    "time": "2026-07-30T09:14:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ભારતીય હોકીની ઓળખ કેમ બદલાઈ ? નવી જર્સી પાછળનું સાચું કારણ જાણો",
+    "desc": "પહેલીવાર ભારતીય પુરુષ અને મહિલા હોકી ટીમો FIH હોકી વર્લ્ડ કપ 2026માં તેમની પરંપરાગત વાદળી જર્સીને બદલે કેસરી જર્સી પહેરશે. હોકી ઇન્ડિયાએ આને બ્લૂ એસ્ટ્રોટર્ફ પર ખેલાડીઓની દૃશ્યતા સુધારવાના હેતુથી એક ટેકનિકલ નિર્ણય ગણાવ્યો છે, જ્યારે ભૂતપૂર્વ કેપ્ટન વિરેન રાસ્કિન્હાએ આ બાબતને ભારતીય હોકીના વારસા અને ઓળખ સાથે જોડાયેલી બાબત તરીકે જોતા પ્રશ્નો ઉઠાવ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/why-indian-hockey-team-jersey-changed-from-blue-to-saffron-know-reason-486192 ",
+    "time": "2026-07-30T09:11:00.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "BS-3 વાહનોમાં E20 પેટ્રોલની અસર: કેટલો આવશે ખર્ચ અને ક્યા પાર્ટ્સ બદલવા પડશે? જાણો ઓટો એક્સપર્ટ્સનું ગણિત",
+    "desc": "શું E20 પેટ્રોલનો ઉપયોગ કરવાથી માઇલેજ પર અસર થાય છે? ઈ20 પેટ્રોલને કારણે વાહનો ખરાબ થાય છે? ઈ20 પેટ્રોલના ઉપયોગથી શું વાહનોના પાર્ટ્સ ખરાબ થાય છે? લોકોના મનમાં આ સવાલો ચાલી રહ્યાં છે. આ વચ્ચે કેન્દ્રીય મંત્રી નીતિન ગડકરીએ સંસદમાં જણાવ્યું કે ઈ20 પેટ્રોલને કારણે BS3 વાહનોમાં રબરના પાર્ટ્સ ખરાબ થઈ શકે છે. આવો જાણીએ વિશે ઓટો એક્સપર્ટે મહત્વની જાણકારી આપી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/nitin-gadkari-clarifies-e20-petrol-impact-on-bs-3-vehicles-in-parliament-engine-safe-minor-parts-may-need-replacement-486188 ",
+    "time": "2026-07-30T08:23:05.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "&amp;#039;પેલેટ ગન ચલાવવાના શું નિયમ છે?&amp;#039; સુપ્રીમ કોર્ટે કેન્દ્ર સરકાર પાસે માંગ્યો જવાબ",
     "desc": "દેશની સર્વોચ્ચ અદાલતે પેલેટ ગનના ઉપયોગ અંગે કડક વલણ અપનાવતા કેન્દ્ર સરકાર પાસે જવાબ માંગ્યો છે. અરજીમાં શું માંગણી કરાઈ છે અને કોર્ટે કયા સવાલ ઉઠાવ્યા તથા પેલેટ ગનના ઉપયોગ સંદર્ભે વર્તમાન નિયમો શું છે?",
@@ -387,24 +423,6 @@ const newsData_gu = [
     "time": "2026-07-28T06:00:08.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "એક રિક્ષાચાલકના દીકરાએ શરૂ કર્યું એવું જબરદસ્ત અભિયાન, 200થી વધુ શહેરોમાં ફેલાયું",
-    "desc": "વર્લ્ડ નેચર કન્ઝર્વેશન દિવસ પર ઝી મીડિયાના \"માય અર્થ માય ડ્યૂટી\" અભિયાનની પ્રથમ કહાની સત્યમ દીક્ષિતની સફર પર પ્રકાશ પાડે છે. તેઓ એક યુવાન એન્વાયરમેન્ટલ ચેન્જમેકર છે, જેમણે વ્યક્તિગત સંઘર્ષોને પર્યાવરણ માટેના મિશનમાં ફેરવ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/world-nature-conservation-day-my-earth-my-duty-satyam-dixit-inspirational-story-485959 ",
-    "time": "2026-07-28T05:08:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "શ્રીલંકા સામે ટીમ ઈન્ડિયાની જાહેરાત! બુમરાહ-સુદર્શન પર સસ્પેન્સ, નવા ઓલરાઉન્ડરને મળ્યો મોકો",
-    "desc": "ઝિમ્બાબ્વે પ્રવાસ પૂર્ણ થયા પછી, ભારતીય ક્રિકેટ કંટ્રોલ બોર્ડ (BCCI)એ શ્રીલંકા પ્રવાસ માટે ટેસ્ટ ટીમની જાહેરાત કરી છે. ભારતીય ટીમમાં ઈજાની ચિંતાઓ ઓળખાઈ છે. નીતિશ રેડ્ડી અને વોશિંગ્ટન સુંદરને બાકાત રાખવામાં આવ્યા છે, જ્યારે 33 વર્ષીય ઓલરાઉન્ડરને ટીમમાં સામેલ કરવામાં આવ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/team-india-announced-against-sri-lanka-suspense-on-bumrah-sudarshan-new-all-rounder-gets-a-chance-485958 ",
-    "time": "2026-07-28T04:41:04.000Z"
-  },
-  {
     "cat": "Business",
     "title": "એકબાજુ ક્રૂડ ઓઈલના ભાવ ધડામ, બીજી બાજુ સવારે જાહેર થયા પેટ્રોલ-ડીઝલના નવા ભાવ, જાણો રેટ",
     "desc": "ક્રૂડ ઓઈલના ભાવમાં વૈશ્વિક સ્તરે ભારે ઉથલપાથલ જોવા મળી રહી છે. જો કે ઘરેલુ બજારોમાં પેટ્રોલ અને ડીઝલના ભાવ પર તેની શું અસર પડી છે તે ખાસ જાણો. અત્રે જણાવવાનું કે ઓઈલ વિતરણ કંપનીઓ રોજ સવારે 6 વાગે પેટ્રોલ અને ડીઝલના નવા ભાવ જાહેર કરે છે.",
@@ -412,24 +430,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/crude-oil-price-down-check-latest-petrol-and-diesel-rates-today-485954 ",
     "time": "2026-07-28T04:08:55.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "જૂની પેન્શન યોજના અંગે સરકારે આપ્યું મોટું અપડેટ, સરકારી કર્મચારીઓ માટે જાણવું જરૂરી",
-    "desc": "જો તમે પણ સરકારી કર્મચારી છો અને જૂની પેન્શન યોજના શરૂ થવાની રાહ જોઈ રહ્યા છો, તો આ સમાચાર તમારા માટે ઉપયોગી છે, કારણ કે સરકારે સંસદમાં જૂની પેન્શન યોજના અંગે પોતાનું વલણ સ્પષ્ટ કર્યું છે, ત્યારે સરકારે શું સ્પષ્ટતા કરી છે, તેના વિશે આ લેખમાં જણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/government-gives-major-update-on-old-pension-scheme-check-details-485941 ",
-    "time": "2026-07-27T14:46:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ગંભીરની ખુરશી ખતરામાં ? ઝિમ્બાબ્વેમાં જીત બાદ VVS લક્ષ્મણને નવા હેડ કોચ બનાવવાની માંગ તેજ",
-    "desc": "ઝિમ્બાબ્વે સામે T20 શ્રેણીમાં ભારતની 3-0થી શાનદાર જીત થઈ છે. લક્ષ્મણ અને શ્રેયસ ઐયરનો ડ્રેસિંગ રૂમનો વીડિયો વાયરલ થયા બાદ ગૌતમ ગંભીરને બદલે વીવીએસ લક્ષ્મણને હેડ કોચ નિયુક્ત કરવા અંગે ચાહકોમાં ચર્ચા શરૂ થઈ ગઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/demand-to-make-vvs-laxman-new-head-coach-instead-of-gautam-gambhir-485939 ",
-    "time": "2026-07-27T13:39:12.000Z"
   },
   {
     "cat": "Entertainment",
@@ -637,23 +637,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/maruti-suzuki-eeco-best-selling-car-in-van-segment-in-first-half-of-2026-485078 ",
     "time": "2026-07-18T16:15:37.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Airtelના કરોડો ગ્રાહકોને મોટો ઝટકો, હોટસ્પોટથી અન્ય ડિવાઈસ પર નહીં ચાલે અનલિમિટેડ 5G",
-    "desc": "ઘણા લોકો એરટેલના 5G અનલિમિટેડ પ્લાન વિશે સોશિયલ મીડિયા પર પોસ્ટ કરી રહ્યા છે. કંપનીના જણાવ્યા અનુસાર, 5G અનલિમિટેડ મર્યાદિત ડેટા ઓફર કરે છે અને તે ફક્ત મોબાઇલ ડિવાઈસ માટે છે. તેનો ઉપયોગ અન્ય ડિવાઈસ પર કરી શકાતો નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/airtel-not-allow-unlimited-5g-data-sharing-via-mobile-hotspot-484856 ",
-    "time": "2026-07-16T15:13:30.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "EV, Hybrid, CNG કે Petrol… આગામી 5-10 વર્ષ માટે કઈ કાર ખરીદવી જોઈએ? જાણો કયો વિકલ્પ લાંબા ગાળે બચાવશે રૂપિયા",
-    "desc": "નવી કાર લેતા પહેલાં એ સમજવું જરૂરી છે કે, EV, Hybrid, CNG કે Petrolમાંથી કઈ કારની પસંદગી કરવી? કારણ કે ખોટી પસંદગી સીધી તમારા ખિસ્સા પર અસર કરે છે. ચાલો જાણીએ આ કારો વચ્ચે શું તફાવત છે અને લોકો માટે કયો વિકલ્પ સૌથી યોગ્ય રહેશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/ev-hybrid-cng-or-petrol-which-car-should-you-buy-for-the-next-5-10-years-know-which-option-will-save-you-money-in-the-long-run-484855 ",
-    "time": "2026-07-16T14:49:35.000Z"
   }
 ];
