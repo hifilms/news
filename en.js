@@ -1,12 +1,174 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "16 Indians, including 10 seamen, killed in Middle East conflict: Government",
+    "desc": "Sixteen Indian nationals, including ten seafarers, have died in the West Asia conflict. Seventy-five other Indian nationals sustained injuries in the same regional conflict. In a separate incident, twelve Indian nationals perished at Qatar's Ras Laffan Gas Facility. The government is coordinating with host nations to repatriate mortal remains. Injured individuals received medical treatment and necessary assistance from Indian missions.",
+    "img": "https://static.toiimg.com/photo/msid-132750511,imgsize-61816.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/16-indians-including-10-seamen-killed-in-middle-east-conflict-government/articleshow/132750491.cms",
+    "time": "2026-07-30T21:53:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Parliament passes Vande Mataram bill",
+    "desc": "Parliament passed the Prevention of Insults to National Honour Bill on Thursday. This amendment extends legal protection to the national song Vande Mataram. The DMK opposed the bill, citing concerns about national division and imposition. The BJP defended the amendment, emphasizing respect for the complete Vande Mataram song. This action places Vande Mataram on par with the national anthem for legal protection.",
+    "img": "https://static.toiimg.com/photo/msid-132750489,imgsize-201557.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/parliament-passes-vande-mataram-bill/articleshow/132750482.cms",
+    "time": "2026-07-30T21:46:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Release 3,500 cusecs of water to Tamil Nadu: Cauvery authority to Karnataka",
+    "desc": "The Cauvery Water Management Authority ordered Karnataka to release 3,500 cusecs daily. This directive mandates a total release of 4 TMC of water to Tamil Nadu. Karnataka had appealed the committee's order citing low reservoir levels and drought conditions. State officials stated reservoir levels were significantly lower than last year. Tamil Nadu representatives argued against Karnataka's plea, citing sufficient flow.",
+    "img": "https://static.toiimg.com/photo/msid-132750255,imgsize-174782.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/release-3500-cusecs-of-water-to-tamil-nadu-cauvery-authority-to-karnataka/articleshow/132750252.cms",
+    "time": "2026-07-30T21:28:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP submits breach of privilege notice against Rahul Gandhi",
+    "desc": "BJP submitted a privilege notice against Rahul Gandhi in Lok Sabha. He is accused of demeaning Parliament and insulting citizens with his remarks. BJP seeks an unconditional apology from the Congress leader. The notice cites rules regarding defamatory allegations against individuals. The matter has been sent to the privilege committee for inquiry.",
+    "img": "https://static.toiimg.com/photo/msid-132750245,imgsize-80182.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bjp-submits-breach-of-privilege-notice-against-rahul-gandhi/articleshow/132750242.cms",
+    "time": "2026-07-30T21:12:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'All my taxes are paid in India'",
+    "desc": "R Madhavan had opened up about the real reason behind relocating to Dubai, revealing that the move was driven by his son Vedant's swimming career during the Covid-19 pandemic. The actor had also spoken about life in the UAE, why he believed there were \"three Dubais,\" his enduring connection with India, and even his upcoming South Indian filter coffee venture.",
+    "img": "https://static.toiimg.com/photo/msid-132750240,imgsize-72420.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-madhavan-revealed-why-he-relocated-to-dubai-for-son-vedant-said-all-my-taxes-are-paid-in-india-recalled-earning-a-captains-licence/articleshow/132750222.cms",
+    "time": "2026-07-30T21:10:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ukraine dials India, seeks peace role amid ship attack concerns",
+    "desc": "India's External Affairs Minister discussed Black Sea shipping attacks with Ukraine's counterpart. He reiterated India's stance that such attacks are unacceptable and unequivocally condemned. The minister also highlighted the global impact of multiple conflicts on security. Ukraine's representative briefed him on recent developments and peace efforts. India consistently advocates for dialogue and diplomacy to resolve conflicts.",
+    "img": "https://static.toiimg.com/photo/msid-132750219,imgsize-112260.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ukraine-dials-india-seeks-peace-role-amid-ship-attack-concerns/articleshow/132750207.cms",
+    "time": "2026-07-30T20:59:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Despite Centre’s assurance, people still being called to explain their presence at protest site, says member of Congress’ legal aid",
+    "desc": "Congress’ legal aid Ranjan said that a helpline launched by the party has so far received 300 calls, including 50 calls by young girls and women who were being issued rape and death threats for participating in the protests",
+    "img": "https://th-i.thgim.com/public/incoming/k7v3k4/article71287836.ece/alternates/LANDSCAPE_1200/63_Cockroach_Janta_Party_Protest_20_07_Delhi.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/despite-centres-assurance-people-still-being-called-to-explain-their-presence-at-protest-site-says-member-of-congress-legal-aid/article71287355.ece",
+    "time": "2026-07-30T20:56:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "215 academicians slam Priyanka for 'gaumutra' remark",
+    "desc": "Over two hundred academicians have written an open letter criticizing Priyanka Gandhi Vadra's remark. They stated that dismissing scholars with labels undermines the nation's scientific temper. The academicians defended the IIT Madras director's advocacy of cow urine's potential benefits. They emphasized that scientific temper involves objective examination of claims before acceptance. Mockery is not a substitute for reasoned engagement in public debate, they added.",
+    "img": "https://static.toiimg.com/photo/msid-132750202,imgsize-64536.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/215-academicians-slam-priyanka-for-gaumutra-remark/articleshow/132750192.cms",
+    "time": "2026-07-30T20:55:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "From 617 to 2,000 in 2025, Indians deported from US triple since 2023",
+    "desc": "Four hundred fourteen Indians faced deportation from the US by March 2026. Deportations from the US significantly increased from 2023 to 2025. The United Kingdom and Cyprus also deported Indians, with fifty-seven and fifty-three respectively. Government data shows thousands of unregistered agents were notified on the eMigrate portal. Indian truckers arrested in Arizona are also facing deportation proceedings.",
+    "img": "https://static.toiimg.com/photo/msid-132750184,imgsize-36392.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/from-617-to-2000-in-2025-indians-deported-from-us-triple-since-2023/articleshow/132750172.cms",
+    "time": "2026-07-30T20:50:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Parliament passes paper leak Bill as Opposition walks out of Rajya Sabha",
+    "desc": "Jitendra Singh says the government has made efforts to free medical education from management quota malice while replying to the debate in Upper House; Kharge demands SC-monitored high-powered panel to probe NEET paper leaks and police action against protesters",
+    "img": "https://th-i.thgim.com/public/incoming/p6uzzc/article71287830.ece/alternates/LANDSCAPE_1200/20260730366L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/rajya-sabha-too-passes-bill-on-paper-leaks-opposition-walks-out-of-voting/article71287509.ece",
+    "time": "2026-07-30T20:48:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "After PM row, new Meta protocols for VIP accounts",
+    "desc": "Meta has introduced new protocols for handling prominent individuals' accounts. This follows the temporary removal of Prime Minister Narendra Modi's Facebook video. The company expressed regret and is examining the reasons behind the video's removal. Government officials are scheduled to meet with Meta's global representatives soon. Discussions will cover policy and technical aspects of the incident.",
+    "img": "https://static.toiimg.com/photo/msid-132750152,imgsize-27924.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/after-pm-row-new-meta-protocols-for-vip-accounts/articleshow/132750139.cms",
+    "time": "2026-07-30T20:40:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi reviews safety of seafarers, supply chain constraints",
+    "desc": "Prime Minister Narendra Modi chaired a special security meeting concerning the West Asia crisis. He directed the establishment of a mechanism to aid seafarers and their families. Discussions also covered ensuring uninterrupted fertilizer supply for the upcoming rabi season. The government's strategy to diversify energy sources has mitigated risks effectively. A whole-of-government approach is being continued to safeguard citizens' interests.",
+    "img": "https://static.toiimg.com/photo/msid-132750106,imgsize-92184.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/middle-east-conflict-pm-modi-reviews-safety-of-seafarers-supply-chain-constraints/articleshow/132750090.cms",
+    "time": "2026-07-30T20:27:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "No blanket ban on use of pellet guns for crowd control",
+    "desc": "The Supreme Court ordered the Delhi government to treat all injured protesters. It questioned the feasibility of banning pellet guns for crowd control. The court directed the preservation of ammunition logs for effective investigation. It also emphasized the need for police to have adequate safety gear. The bench reiterated that peaceful protests can sometimes be hijacked by miscreants.",
+    "img": "https://static.toiimg.com/photo/msid-132750000,imgsize-291152.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/supreme-court-no-blanket-ban-on-use-of-pellet-guns-for-crowd-control/articleshow/132749977.cms",
+    "time": "2026-07-30T20:08:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Space department and Isro begins hiring for 746 posts, 92 will be scientist/engineers",
+    "desc": "Isro and DoS have initiated a significant recruitment drive for 746 positions. These openings include regular posts and apprenticeship opportunities for future talent. The drive aims to address a notable vacancy rate within the space department. Administrative roles and scientist/engineer positions are being filled across various centers. This effort seeks to bolster Isro's workforce and operational capabilities.",
+    "img": "https://static.toiimg.com/photo/msid-132749863,imgsize-39798.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/space-department-and-isro-begins-hiring-for-746-posts-92-will-be-scientist/engineers/articleshow/132749809.cms",
+    "time": "2026-07-30T19:48:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Liti's 223kg stunner denies Lovepreet CWG gold by 1kg in weightlifting",
+    "desc": "Liti produced a Commonwealth Games record lift of 223kg in the clean and jerk to move ahead of the Indian and win gold with a total of 389kg, just one kilogram more than Lovepreet. Liti had lifted 166kg in the snatch.",
+    "img": "https://static.toiimg.com/photo/msid-132749353,imgsize-329190.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/david-litis-223kg-stunner-denies-lovepreet-singh-commonwealth-games-gold-by-one-kilogram-in-weightlifting/articleshow/132748642.cms",
+    "time": "2026-07-30T19:44:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Government clears funds for pellet survivor Insha’s gas agency after 8-year wait",
+    "desc": "The J&K government approved a gas agency for Insha Mushtaq eight years later. This rehabilitation pledge was approved on Thursday, reviving a commitment made in 2016. Insha lost her eyesight at fourteen after a pellet gun incident during protests. She has since learned Braille and is pursuing a bachelor's degree. The approval marks a significant turning point for her future.",
+    "img": "https://static.toiimg.com/photo/msid-132749638,imgsize-73930.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-government-clears-funds-for-pellet-survivor-inshas-gas-agency-after-8-year-wait/articleshow/132749627.cms",
+    "time": "2026-07-30T19:20:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "23 heritage sites in Ladakh declared protected monuments",
+    "desc": "Ladakh's Lieutenant Governor Vinai Kumar Saxena declared twenty-three heritage sites protected monuments. This initiative provides legal protection for Ladakh's rich archaeological and historical heritage. Sites in Leh and Kargil districts were notified as protected monuments under a specific act. The administration will now undertake conservation measures and prevent encroachments on these sites. This move reflects a commitment to preserving Ladakh's unique historical legacy for future generations.",
+    "img": "https://static.toiimg.com/photo/msid-132749580,imgsize-351010.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/23-heritage-sites-in-ladakh-declared-protected-monuments/articleshow/132749565.cms",
+    "time": "2026-07-30T19:16:21.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Properties of 5 Pakistan-based terrorist handlers attached in Reasi",
     "desc": "Jammu and Kashmir Police attached properties belonging to five Pakistan-based terrorist handlers in Reasi district. This action aims to prevent the misuse of these assets for terror financing activities. The attached land was linked to a case registered under stringent anti-terror laws. Investigations revealed the accused had exfiltrated to Pakistan for terrorist training and now operate as handlers.",
     "img": "https://static.toiimg.com/photo/msid-132749555,imgsize-303988.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-properties-of-5-pakistan-based-terrorist-handlers-attached-in-reasi/articleshow/132749508.cms",
     "time": "2026-07-30T19:11:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Absolute unity’: Insider exposes UEFA’s furious response inside emergency FIFA boycott meeting",
+    "desc": "UEFA's 55 member associations have unanimously backed a boycott of FIFA competitions, including the World Cup, if FIFA proceeds with its proposed $20 billion commercial restructuring. European football leaders described the plan as an existential threat to the sport, while insiders revealed \"absolute unity\" in opposing the proposal ahead of a September 19 vote by FIFA's member associations.",
+    "img": "https://static.toiimg.com/photo/msid-132749228,imgsize-61904.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/absolute-unity-insider-exposes-uefas-furious-response-inside-emergency-fifa-boycott-meeting/articleshow/132748763.cms",
+    "time": "2026-07-30T19:09:53.000Z"
   },
   {
     "cat": "Entertainment",
@@ -52,15 +214,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/developer-looks-to-expand-frontiers-beyond-coimbatore/article71286935.ece",
     "time": "2026-07-30T17:58:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Rajya Sabha too passes Bill on paper leaks, Opposition walks out of voting",
-    "desc": "Jitendra Singh says the government has made efforts to free medical education from management quota malice while replying to the debate in Upper House; Kharge demands SC-monitored high-powered panel to probe NEET paper leaks and police action against protesters",
-    "img": "https://th-i.thgim.com/public/incoming/33zvic/article71287656.ece/alternates/LANDSCAPE_1200/20260730490L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/rajya-sabha-too-passes-bill-on-paper-leaks-opposition-walks-out-of-voting/article71287509.ece",
-    "time": "2026-07-30T17:57:47.000Z"
   },
   {
     "cat": "Sports",
@@ -117,24 +270,6 @@ const newsData_en = [
     "time": "2026-07-30T17:13:09.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Bankipur assembly byelection sees low voter turnout compared to 2025",
-    "desc": "Workers of the Jan Suraaj Party (JSP) and BJP were involved in heated arguments at several places in Patna; JSP candidate Prashant Kishor alleged that the State misused police machinery to support the BJP candidate",
-    "img": "https://th-i.thgim.com/public/incoming/egtemw/article71284669.ece/alternates/LANDSCAPE_1200/PTI07_30_2026_000112A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/bihar-bankipur-byelection-prashant-kishor-bjp-jsp-rjd-polling-updates-july-30-2026/article71284214.ece",
-    "time": "2026-07-30T17:07:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Karnataka Legislative Council Chairman Horatti says no one, including Chief Minister, has asked him to resign",
-    "desc": "Terming reports about him being asked to resign as just a rumour, Legislative Council Chairman Basavaraj Horatti has categorically stated that no one, including Chief Minister D.K. Shivakumar, had spoken to him on the issue officially and none had sought his resignation",
-    "img": "https://th-i.thgim.com/public/incoming/3cs9xq/article71287571.ece/alternates/LANDSCAPE_1200/_JAI0215.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-legislative-council-chairman-horatti-says-no-one-including-chief-minister-has-asked-him-to-resign/article71286366.ece",
-    "time": "2026-07-30T17:06:05.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘I’m a black African’: Commonwealth Games boxer Aziz Abdul’s racism claim rejected after headbutt disqualification",
     "desc": "Ugandan boxer Aziz Abdul’s Commonwealth Games campaign ended in controversy after he was disqualified against England’s Damar Thomas and accused officials of unfair treatment. Abdul claimed racism played a role in the decision, but Commonwealth Sport president Donald Rukare rejected the allegations, insisting the ruling was a legitimate field-of-play decision and that athletes were treated fairly.",
@@ -151,24 +286,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/uefas-intensifies-opposition-to-fifas-world-cup-plans/article71285184.ece",
     "time": "2026-07-30T17:01:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Swapna, 5 others named accused in Kerala’s Wadakkanchery LIFE Mission case",
-    "desc": "Santhosh Eappen, managing partner of Unitac Builders, has been arraigned as the first accused, his construction firm Sane Ventures the second accused, and the Life Mission project the third accused. Swapna Suresh named and sixth accused",
-    "img": "https://th-i.thgim.com/public/incoming/xm0ib3/article71287555.ece/alternates/LANDSCAPE_1200/Kerala-AssemblyG48FPGLCM.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/cbi-names-six-accused-in-chargesheet-in-kerala-wadakkanchery-life-mission-scam-case/article71286436.ece",
-    "time": "2026-07-30T16:56:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala High Court allows time for State govt. to complete probe into media trial case filed by Dileep",
-    "desc": "Court remarks that the matter will be taken very seriously if there is any further delay; earlier, it had warned that contempt proceedings would be initiated if the direction to fast-track the probe within the prescribed time was not followed",
-    "img": "https://th-i.thgim.com/public/incoming/l2ue8/article71287513.ece/alternates/LANDSCAPE_1200/10018_8_12_2025_14_26_33_1_DILEEP_11.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-allows-time-for-state-govt-to-complete-probe-into-media-trial-case-filed-by-dileep/article71287343.ece",
-    "time": "2026-07-30T16:56:11.000Z"
   },
   {
     "cat": "Entertainment",
@@ -252,15 +369,6 @@ const newsData_en = [
     "time": "2026-07-30T15:14:08.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'How is unelected minister continuing for over six months?' SC raps Bihar govt",
-    "desc": "The Supreme Court questioned the Bihar government regarding a minister's continued service. This minister has served beyond the six-month constitutional limit without legislative election. The court seeks an explanation for this continuation under Article 164(4) of the Constitution. A petition challenges the minister's reappointment after a government change. The court referenced a prior judgment on similar constitutional provisions.",
-    "img": "https://static.toiimg.com/photo/msid-132743811,imgsize-161322.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/how-is-unelected-minister-continuing-for-over-six-months-sc-raps-bihar-govt/articleshow/132743744.cms",
-    "time": "2026-07-30T15:05:22.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Wall Street flat; Nasdaq climbs over 1.5% as tech stocks rally",
     "desc": "Economic data released on Thursday showed the US economy expanded more slowly than economists had expected during the spring. Inflation remained above the Federal Reserve's target in the latest month, although it came in slightly below market expectations.",
@@ -295,15 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-praveen-chithravel-selva-prabhu-make-triple-jump-final-neeraj-chopra-headlines-indias-javelin-trio/articleshow/132742306.cms",
     "time": "2026-07-30T14:06:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NEET-UG 2026 case: CBI links leak to teachers who set paper, did translation work",
-    "desc": "In a shocking revelation, subject experts are accused of memorizing and leaking NEET-UG 2026 exam questions after receiving daily access from home. These reconstructed queries found their way into private coaching classes, with a beautician reportedly formatting them for sale. The scheme's spread across multiple states is now under scrutiny, leading the CBI to file a chargesheet against thirteen individuals implicated in this alleged scam.",
-    "img": "https://static.toiimg.com/photo/msid-132741942,imgsize-168706.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/neet-ug-2026-case-cbi-links-leak-to-teachers-who-set-paper-did-translation-work-report/articleshow/132741695.cms",
-    "time": "2026-07-30T13:45:17.000Z"
   },
   {
     "cat": "Entertainment",
@@ -360,15 +459,6 @@ const newsData_en = [
     "time": "2026-07-30T12:39:56.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Hazlewood eyes series win in India, England before retirement",
-    "desc": "Hazlewood, 35, has played 76 Tests but has never been part of an Australian team that won a Test series in India or England. Australia last won an away Ashes series in 2001, while their last Test series win in India came in 2004.",
-    "img": "https://static.toiimg.com/photo/msid-132740000,imgsize-478925.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/few-boxes-to-tick-josh-hazlewood-eys-bgt-win-in-india-ashes-in-england-before-retirement/articleshow/132739636.cms",
-    "time": "2026-07-30T12:38:18.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "From IIT Bombay to 'Ramayana': Inside Nitesh Tiwari's journey",
     "desc": "Filmmaker Nitesh Tiwari is gaining attention for his ambitious 'Ramayana' epic. He previously directed critically acclaimed films like 'Dangal' and 'Chhichhore'. Tiwari, an IIT Bombay graduate, began his career in advertising. His debut film 'Chillar Party' won a National Award for children's cinema. The 'Ramayana' trailer has generated significant online attention and praise.",
@@ -376,15 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/from-iit-bombay-to-ramayana-inside-nitesh-tiwaris-journey-as-one-of-bollywoods-most-acclaimed-directors/articleshow/132739891.cms",
     "time": "2026-07-30T12:33:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Study so that you are able to meet the arguments of your opponents,’ and why knowledge is the strongest answer to disagreement",
-    "desc": "In his advice, Bhagat Singh champions the importance of informed study as a tool for constructive disagreement. Engaging with significant questions thoughtfully allows for deeper discussions, moving past simplistic slogans. This intellectual approach not only makes debates more fruitful but also enhances one's ability to effect lasting change and embrace civic responsibility.",
-    "img": "https://static.toiimg.com/photo/msid-132735986,imgsize-71716.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/quote-of-the-day-by-bhagat-singh-study-so-that-you-are-able-to-meet-the-arguments-of-your-opponents-and-why-knowledge-is-the-strongest-answer-to-disagreement/articleshow/132735879.cms",
-    "time": "2026-07-30T12:30:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -396,15 +477,6 @@ const newsData_en = [
     "time": "2026-07-30T12:29:36.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Govt summons Meta executives again over temporary restriction of PM Modi's Facebook post",
-    "desc": "India's government has summoned Meta executives to explain a temporary restriction on Prime Minister Modi's video. The social media giant acknowledged the error and has restored the content. New protocols are being introduced for prominent public figures' accounts. This incident highlights ongoing scrutiny of content moderation by tech firms. The government seeks explanations for platform governance and content handling.",
-    "img": "https://static.toiimg.com/photo/msid-132740015,imgsize-108457.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/govt-summons-meta-executives-again-over-temporary-restriction-of-pm-modis-facebook-post/articleshow/132739907.cms",
-    "time": "2026-07-30T12:29:20.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Fewer jobs, delayed onboarding: Why Indian IT sector is getting tougher for freshers",
     "desc": "Experts say the hiring landscape is becoming increasingly project and demand driven rather than a case where freshers were hired in thousands to increase bench strength. The trend reflects a broader reset in the IT sector.",
@@ -412,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/technology/tech-news/fewer-jobs-delayed-onboarding-why-indian-it-sector-is-getting-tougher-for-freshers/articleshow/132736367.cms",
     "time": "2026-07-30T12:28:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "E20 petrol can reduce vehicle mileage by up to 6%: Nitin Gadkari in Parliament",
-    "desc": "E20 petrol may reduce vehicle mileage by two to six percent. Extensive testing has found no engine failures linked to this fuel. Studies indicate improved acceleration and better ride quality with E20. Carbon emissions are reduced by approximately thirty percent compared to E10. Automobile manufacturers continue to honor warranty claims for vehicles using E20.",
-    "img": "https://static.toiimg.com/photo/msid-132739602,imgsize-108419.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/e20-petrol-can-reduce-vehicle-mileage-by-up-to-6-nitin-gadkari-in-parliament/articleshow/132736785.cms",
-    "time": "2026-07-30T12:11:31.000Z"
   },
   {
     "cat": "Entertainment",
@@ -556,15 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/kavin-and-wife-monicka-welcome-twins-actor-shares-heartwarming-announcement-on-the-birth-of-baby-boy-and-baby-girl/articleshow/132736858.cms",
     "time": "2026-07-30T10:43:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Ramayana' star Rakul returns to gym after 1.5-year injury recovery",
-    "desc": "Rakul Preet Singh has shared an emotional update on her fitness journey, revealing she has returned to the gym after nearly one and a half years of recovering from a serious injury. The actress opened up about the mental and emotional lessons the recovery period taught her, even as excitement builds around her upcoming role as Surpanakha in Nitesh Tiwari's Ramayana, whose trailer released this week.",
-    "img": "https://static.toiimg.com/photo/msid-132736117,imgsize-131269.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-star-rakul-preet-singh-returns-to-gym-after-1-5-year-injury-recovery-amid-trailer-release-im-not-chasing-the-version-of-myself-that-existed-before/articleshow/132735669.cms",
-    "time": "2026-07-30T10:17:59.000Z"
   },
   {
     "cat": "Business",
@@ -844,59 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
     "time": "2024-03-12T09:45:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
-    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
-    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
-    "time": "2024-03-11T09:41:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Here’s how much the smartphone costs",
-    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
-    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
-    "time": "2024-03-11T09:36:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
-    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
-    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
-    "time": "2024-03-11T09:19:46.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Former Activision boss reportedly wants to buy TikTok",
-    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
-    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
-    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
