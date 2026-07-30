@@ -1,8 +1,35 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Virat Kohli calls Ajinkya Rahane 'favourite Test batting partner' after latter's international retirement",
-    "desc": "Veteran India batter Ajinkya Rahane announced his retirement from international cricket on July 30. The 38-year-old made the announcement through a social media post, saying the time was right to “move on” from representing the...",
+    "title": "UEFA issues statement, threatens to boycott all FIFA events following discussion of privatising World Cup",
+    "desc": "European football's governing body and all 55 of its member associations have agreed to boycott FIFA competitions if world football's governing body proceeds with a proposal to open ownership stakes in its major tournaments to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/uefa-issues-statement-threatens-to-boycott-all-fifa-events-following-discussion-of-privatising-world-cup-2026-07-30-1049914",
+    "time": "2026-07-30T16:21:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Indian football team to host Brazil in FIFA friendly match in Kolkata, AIFF confirms",
+    "desc": "The All India Football Federation (AIFF) on Thursday, July 30, announced that the Indian men's football team will face five-time FIFA World Cup champions Brazil in an international friendly at Kolkata's Salt Lake Stadium on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/indian-football-team-to-host-brazil-in-fifa-friendly-match-in-kolkata-aiff-confirms-2026-07-30-1049912",
+    "time": "2026-07-30T15:25:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Two Pakistan players fined by ICC for inappropriate celebrations during first Test vs West Indies",
+    "desc": "West Indies beat Pakistan by 90 runs in the first Test at the Brian Lara Cricket Academy in Tarouba, taking a 1-0 lead in the two-match series. This marked Pakistan's eighth consecutive away Test loss....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/two-pakistan-players-fined-by-icc-for-inappropriate-celebrations-during-first-test-vs-west-indies-2026-07-30-1049908",
+    "time": "2026-07-30T14:21:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat Kohli calls Ajinkya Rahane 'favourite Test batting partner' after latter's retirement",
+    "desc": "Veteran India batter Ajinkya Rahane announced his retirement from all-format cricket on July 30. The 38-year-old made the announcement through a social media post, saying the time was right to “move on” from representing the...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-calls-ajinkya-rahane-favourite-test-batting-partner-after-latter-s-international-retirement-2026-07-30-1049902",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/looking-back-at-ajinkya-rahane-s-finest-performances-after-his-retirement-from-all-forms-of-cricket-2026-07-30-1049865",
     "time": "2026-07-30T08:07:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer questions Team India's management over uncapped star's exclusion ahead of SL Tests",
-    "desc": "The Indian team is all set to take on Sri Lanka in a two-game Test series. The two sides will meet in Galle and Colombo for the two Tests, and the first Test of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-questions-team-india-s-management-over-uncapped-star-s-exclusion-ahead-of-sl-tests-2026-07-30-1049850",
-    "time": "2026-07-30T06:37:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ajinkya Rahane announces retirement from international cricket, shares heartfelt note for his fans",
-    "desc": "Veteran India batter Ajinkya Rahane has come forward and announced his retirement from international cricket. He shared an emotional message with his fans on his social media, making the announcement official. At 38 years old,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ajinkya-rahane-announces-retirement-from-international-cricket-2026-07-30-1049843",
-    "time": "2026-07-30T04:49:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Stephen Fleming to take over as England's next Test head coach? Check what reports say",
-    "desc": "It is well known throughout world cricket that England are in search of their next Test head coach. After Brendon McCullum stepped down from the role, the era of Bazball came to an end, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/stephen-fleming-to-take-over-as-england-s-next-test-head-coach-check-what-reports-say-2026-07-30-1049840",
-    "time": "2026-07-30T04:36:47.000Z"
   }
 ];
