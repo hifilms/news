@@ -1,7 +1,25 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Commonwealth Games 2026 India medal tally",
+    "title": "Pakistan dealt major blow, star batter ruled out of second West Indies Test due to injury",
+    "desc": "Pakistan is all set to continue its Test series against the West Indies by taking on the side in the second Test. The two sides are slated to take on each other at the Queen's...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-dealt-major-blow-star-batter-ruled-out-of-second-west-indies-test-due-to-injury-2026-07-31-1049946",
+    "time": "2026-07-31T05:29:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lovepreet Singh clinches weightlifting silver, Seema Kaliramna grabs bronze medal at CWG 2026",
+    "desc": "The Indian contingent has caught the flow at the ongoing Commonwealth Games 2026. Becoming the latest to add to India’s tally at the Games, weightlifter Loverpreet Singh won the silver medal at the Games, delivering...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/lovepreet-singh-clinches-weightlifting-silver-seema-kaliramna-grabs-bronze-medal-at-cwg-2026-2026-07-31-1049939",
+    "time": "2026-07-31T04:22:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India medal tally, full list of winners in Glasgow",
     "desc": "India secured 15 medals so far in the Commonwealth Games 2026. The contingent has produced strong performances in athletics, para athletics, weightlifting and boxing in Glasgow. The country has won three gold, nine silver and...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/neeraj-chopra-qualifies-for-commonwealth-games-javelin-finals-two-more-indians-make-it-to-next-round-2026-07-30-1049880",
     "time": "2026-07-30T10:25:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England appoint Stephen Fleming as new Test coach, reveal new captain after Ben Stokes",
-    "desc": "England have appointed Stephen Fleming as the new Test head coach. He takes over the responsibility from Brendon McCullum, who resigned from his position after England’s 2-1 defeat to New Zealand last month at home....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-appoint-stephen-fleming-as-new-test-coach-reveal-new-captain-after-ben-stokes-2026-07-30-1049877",
-    "time": "2026-07-30T10:01:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Saransh Jain reveals his conversation with India legend after maiden call-up to India's Test team",
-    "desc": "The Indian team is all set to take on Sri Lanka in a two-game Test series; the two sides will take on each other in the first Test of the series at the Galle International...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/saransh-jain-reveals-his-conversation-with-india-legend-after-maiden-call-up-to-india-s-test-team-2026-07-30-1049874",
-    "time": "2026-07-30T09:14:09.000Z"
   }
 ];

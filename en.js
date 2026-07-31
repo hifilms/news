@@ -1,5 +1,320 @@
 const newsData_en = [
   {
+    "cat": "World",
+    "title": "India-based sales agent of Iran’s Mahan Air among entities facing U.S. sanctions",
+    "desc": "The other GSAs of Mahan Air are China-based Shanghai Wings International Logistics Co, which has coordinated the transport of electronics from China to Iran, Russia-based Air Cargo Pro Limited and Shanghai Elite International Travel Co",
+    "img": "https://th-i.thgim.com/public/incoming/tmo5et/article71289028.ece/alternates/LANDSCAPE_1200/2026-07-13T220452Z_104761530_RC23DMAOSK8F_RTRMADP_3_IRAN-CRISIS-YEMEN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/india-based-sales-agent-of-irans-mahan-air-among-entities-facing-us-sanctions/article71288871.ece",
+    "time": "2026-07-31T06:02:14.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Diesel’s desire: an engine for everyone",
+    "desc": "For someone who wished to build an engine for everyone, August turned out to be an auspicious month. On August 10, 1893, Rudolf Diesel’s prime model was powered on its own for the first time. Five years later, on August 9, 1898, Diesel obtained a U.S. patent titled “Internal-combustion engine”. Join A.S.Ganesh as he tries to explain what fuelled Diesel’s desire…",
+    "img": "https://th-i.thgim.com/public/incoming/o3bduy/article71285498.ece/alternates/LANDSCAPE_1200/09istb%20Historical_Diesel_engine_in_Deutsches_Museum.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/diesels-desire-an-engine-for-everyone/article71285487.ece",
+    "time": "2026-07-31T05:59:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why did Cauvery panel order Karnataka to release water?",
+    "desc": "The committee took into account net inflow to the four reservoirs in Karnataka during the current season and compared it with 30-year data. CWRC chief Vineet Gupta told The Hindu that there is a 60% shortfall in the reservoirs",
+    "img": "https://th-i.thgim.com/public/incoming/ixvlqx/article71284270.ece/alternates/LANDSCAPE_1200/IMG_4045.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/cauvery-water-release-cwrc-rationale-karnataka-tamil-nadu-explained/article71284262.ece",
+    "time": "2026-07-31T05:56:10.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump announces deal for 'complete disarmament’ of Hamas",
+    "desc": "A member of the Hamas group’s negotiating team said the movement was making “concessions for the sake of our people in the Gaza Strip, to save them from killing and displacement”. He said the issue of weapons is tied to Israel’s withdrawal, the deployment of the National Committee and reconstruction work in the territory",
+    "img": "https://th-i.thgim.com/public/incoming/wvmpd1/article71288799.ece/alternates/LANDSCAPE_1200/2026-07-30T182050Z_1063475432_RC2HOMAOXQBM_RTRMADP_3_USA-TRUMP.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trump-announces-agreement-for-disarmament-of-hamas/article71288798.ece",
+    "time": "2026-07-31T05:55:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "GBA plans mandating GPS for debris transport vehicles to tackle illegal dumping",
+    "desc": "Greater Bengaluru Development Minister Krishna Byre Gowda pointed out that even if the GBA clears all the debris from the streets, it will reappear, as the root cause of the problem lies in the absence of a system to monitor debris dumping",
+    "img": "https://th-i.thgim.com/public/incoming/eemd3w/article71286321.ece/alternates/LANDSCAPE_1200/DSC_2248.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/bangalore/bengaluru-gba-plans-mandating-gps-for-debris-transport-vehicles-to-tackle-illegal-dumping/article71285974.ece",
+    "time": "2026-07-31T05:55:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "West Bengal BJP president writes to CM, wants chemical park at Singur",
+    "desc": "Singur, has been synonymous with the failed promise of industrialisation in West Bengal, particularly after the Tata Motors decided to move out its proposed small car factory in 2008 owing to protest against forcible land acquisition led by Trinamool Congress chairperson and former Chief Minister Mamata Banerjee",
+    "img": "https://th-i.thgim.com/public/incoming/mbjznd/article71289143.ece/alternates/LANDSCAPE_1200/PTI07_11_2026_000486A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-bjp-president-writes-to-cm-wants-chemical-park-at-singur/article71285891.ece",
+    "time": "2026-07-31T05:51:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Karnataka collects ₹4,779 crore from 68 National Highway toll plazas in 2025-26",
+    "desc": "The Ministry’s data shows that Karnataka’s operational toll plazas increased from 46 in 2021-22 to 52 in 2022-23, 54 in 2023-24, 60 in 2024-25, and 68 in 2025-26, marking an increase of nearly 48% over the five-year period.",
+    "img": "https://th-i.thgim.com/public/incoming/2vtoz8/article71286822.ece/alternates/LANDSCAPE_1200/10213_2-1-2017_18-13-56_KA03FASTTAGLANEINKRISHNAGIRI_5_.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-records-4779-crore-in-toll-collections-from-68-national-highway-fee-plazas-in-2025-26/article71286425.ece",
+    "time": "2026-07-31T05:47:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'If he can do Animal he can play Ram': Dipika Chikhalia backs RK",
+    "desc": "Dipika Chikhalia expresses her full support for Ranbir Kapoor's role as Lord Rama in the highly anticipated film, championing the idea that actors should embrace a variety of characters to showcase their range. While Nitish Bharadwaj previously cautioned Kapoor about maintaining cultural integrity, the grand 'Ramayana' adaptation is set to be released in two parts, with a staggering budget of over Rs 4,000 crore, slated for 2026 and 2027.",
+    "img": "https://static.toiimg.com/photo/msid-132757459,imgsize-753105.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/if-he-can-do-animal-he-can-play-ram-dipika-chikhalia-backs-ranbir-kapoors-casting-in-nitesh-tiwaris-ramayana/articleshow/132757033.cms",
+    "time": "2026-07-31T05:44:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I am sad, I couldn't be selected': 17-year-old woman cricketer dies by suicide",
+    "desc": "According to police, Aditi Chaukhande was training as a cricketer along with her elder brother, Prabal, who is also an upcoming player. On Wednesday night, after having dinner with her mother, Aditi went to her room and allegedly died by suicide. Her brother was out of town at the time of the incident.",
+    "img": "https://static.toiimg.com/photo/msid-132757422,imgsize-100932.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-am-sad-i-couldnt-be-selected-17-year-old-aspiring-woman-cricketer-dies-by-suicide/articleshow/132757393.cms",
+    "time": "2026-07-31T05:42:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Despite Centre’s assurance, people still being called to explain their presence at protest site, says member of Congress’ legal aid",
+    "desc": "Congress’ legal aid Ranjan said that a helpline launched by the party has so far received 300 calls, including 50 calls by young girls and women who were being issued rape and death threats for participating in the protests",
+    "img": "https://th-i.thgim.com/public/incoming/k7v3k4/article71287836.ece/alternates/LANDSCAPE_1200/63_Cockroach_Janta_Party_Protest_20_07_Delhi.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/despite-centres-assurance-people-still-being-called-to-explain-their-presence-at-protest-site-says-member-of-congress-legal-aid/article71287355.ece",
+    "time": "2026-07-31T05:39:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP's Shehzad Poonawalla drops party name from X bio, fuels exit speculation",
+    "desc": "Shehzad Poonawalla's X bio change has sparked rumors about his departure from the BJP. His updated profile omits any mention of the political party affiliation. However, his Instagram bio still lists him as a BJP Spokesperson. Poonawalla joined the BJP in December 2017 and has been a vocal supporter. There has been no official confirmation regarding his status with the party.",
+    "img": "https://static.toiimg.com/photo/msid-132757398,imgsize-70411.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bjps-shehzad-poonawalla-drops-party-name-from-x-bio-fuels-exit-speculation/articleshow/132756701.cms",
+    "time": "2026-07-31T05:38:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "RJ Mahvash joins Aayush Sharma for 'Ragini 3'",
+    "desc": "Ragini MMS 3 is revving up with Shashanka Ghosh at the helm, steering the film towards supernatural thrills. Joining the cast is RJ Mahvash, with principal photography already underway. The horror drama boasts a star-studded lineup, including Aayush Sharma, Junaid Khan, Tamannaah Bhatia, and Nargis Fakhri, who will portray a police officer, as the franchise shifts from eroticism to spine-chilling scares.",
+    "img": "https://static.toiimg.com/photo/msid-132757389,imgsize-380809.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/exclusive-rj-mahvash-joins-aayush-sharma-junaid-khan-tamannaah-bhatia-and-nargis-fakhri-for-ragini-mms-3/articleshow/132757327.cms",
+    "time": "2026-07-31T05:38:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vismaya Mohanlal says criticism never affects her",
+    "desc": "Vismaya Mohanlal is stepping into the limelight with her debut in the film Thudakkam. Despite being under the eyes of the public as Mohanlal's daughter, she embraces the attention that accompanies her unique position. Having grown up outside Kerala, Vismaya doesn't let criticism from social media affect her, preferring to disengage from negative comments. When she's with her father, the public's gaze intensifies.",
+    "img": "https://static.toiimg.com/photo/msid-132757395,imgsize-49660.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/people-will-judge-me-because-im-mohanlals-daughter-vismaya-mohanlal-says-criticism-never-affects-her/articleshow/132757333.cms",
+    "time": "2026-07-31T05:38:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Head of family PM Modi listens': BJP's Raghav Chadha hails 'historic' anti-paper leak Bill",
+    "desc": "Raghav Chadha spoke in Rajya Sabha supporting the anti-paper leak Bill. He stressed institutional solutions are needed to resolve the crisis. The Bill introduces stricter penalties for paper leaks and exam malpractices. Individuals face jail terms and significant fines for unfair means. Parliament approved the Public Examination Amendment Bill after Lok Sabha clearance.",
+    "img": "https://static.toiimg.com/photo/msid-132756843,imgsize-876877.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/govt-acted-historic-decisions-taken-bjps-raghav-chadha-breaks-silence-hails-anti-paper-leak-bill/articleshow/132756706.cms",
+    "time": "2026-07-31T05:10:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'We don't have an MS Dhoni': Ex-England captain's blunt warning to Fleming",
+    "desc": "Michael Vaughan believes Stephen Fleming should start immediately as England's Test coach. Fleming will delay his Test coaching duties until the South Africa tour. Vaughan suggests this delay indicates a reduced appeal of the coaching role. Fleming's IPL success with Chennai Super Kings is noted. Vaughan questions if England has an MS Dhoni-like captain for Fleming.",
+    "img": "https://static.toiimg.com/photo/msid-132756841,imgsize-141938.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/we-dont-have-an-ms-dhoni-ex-england-captains-blunt-warning-to-stephen-fleming/articleshow/132756846.cms",
+    "time": "2026-07-31T05:09:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "How has the Odisha-Chhattisgarh Mahanadi water dispute evolved? Explained",
+    "desc": "The political solution to the interstate water dispute was reinitiated when the Odisha CM, on July 25, 2025, wrote a letter to the Chhattisgarh CM proposing an amicable settlement of the Mahanadi Water Dispute. On August 1, 2025, the Chhattisgarh CM replied to the letter, stating that the matter of settling the dispute between the two States was under consideration.",
+    "img": "https://th-i.thgim.com/public/news/national/swsu5v/article71289059.ece/alternates/LANDSCAPE_1200/90092_20_11_2022_16_36_15_1_SATKOSIA_GORGE_1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/how-has-the-odisha-chhattisgarh-mahanadi-water-dispute-evolved-explained/article71289055.ece",
+    "time": "2026-07-31T05:02:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Does 'Spider-Man: Brand New Day' have an end credits scene?",
+    "desc": "Brand New Day, fans get a tantalizing glimpse of Spider-Man's next adventure in an unknown off-world location. The malfunctioning tracker, echoing visuals from Spider-Man: Into the Spider-Verse, hints at intriguing possibilities. This scene lays the groundwork for potential future collaborations with characters like Nick Fury or a twisted Venomized Spider-Man, expanding the narrative horizon of the superhero universe.",
+    "img": "https://static.toiimg.com/photo/msid-132756685,imgsize-99525.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/does-spider-man-brand-new-day-have-an-end-credits-scene-heres-what-it-means-for-the-franchise/articleshow/132756512.cms",
+    "time": "2026-07-31T05:02:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Chennai Love Story' crosses Rs 37.28 crore worldwide",
+    "desc": "Chennai Love Story has successfully wrapped its first week with respectable box office earnings, although it did experience a noticeable drop on Thursday amidst the weekday viewership. The film's domestic gross reached an impressive Rs 30.88 crore, complemented by overseas collections of Rs 6.40 crore, resulting in a total worldwide gross of Rs 37.28 crore. Throughout the week, the film maintained an average theater occupancy rate of 25.62%.",
+    "img": "https://static.toiimg.com/photo/msid-132756343,imgsize-712464.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/chennai-love-story-box-office-collection-day-7-kiran-abbavaram-starrer-drops-35-crosses-rs-37-28-crore-worldwide/articleshow/132756246.cms",
+    "time": "2026-07-31T04:52:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP blames AAP govt in Punjab for ‘worsening drugs menace’",
+    "desc": "BJP leader Kewal Singh Dhillon said that public faith in the system has eroded to such an extent that families devastated by the drug menace are being forced to put up posters to sell their homes and stage protests.",
+    "img": "https://th-i.thgim.com/public/incoming/x2kyof/article71288889.ece/alternates/LANDSCAPE_1200/IMG_28_BM__Kewal_Singh_D_2_1_URG1PBFO.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/punjab/bjp-blames-aap-govt-in-punjab-for-worsening-drugs-menace/article71286758.ece",
+    "time": "2026-07-31T04:40:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Driven by deception",
+    "desc": "The registration number on a vehicle is supposed to establish its identity. Instead, it is increasingly becoming something criminals can copy, alter and misuse. Across Hyderabad and beyond, cloned number plates are leaving innocent motorists to deal with wrongful traffic challans, police scrutiny and the fear of being linked to crimes they never committed. Naveen Kumar investigates the growing menace and the technology being deployed to counter it",
+    "img": "https://th-i.thgim.com/public/incoming/bzzfyb/article71287766.ece/alternates/LANDSCAPE_1200/30072026_number%20plate%20tamper%2004.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telangana/hyderabad-traffic-challan-vehicle-registration-driven-by-deception/article71287763.ece",
+    "time": "2026-07-31T04:35:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Conditions not best for javelin throwers': Neeraj Chopra after reaching CWG 2026 final",
+    "desc": "Neeraj did enough to secure his place in the 12-man final with a best throw of 79.61m at Scotstoun Stadium. In the gold medal match, he will compete against defending Commonwealth champion Arshad Nadeem, Sri Lanka's Rumesh Tharanga Pathirage, world champion Keshorn Walcott and former world champion Anderson Peters. India's Rohit Yadav and Yash Vir Singh also qualified, giving India three medal hopes in the final.",
+    "img": "https://static.toiimg.com/photo/msid-132756007,imgsize-39213.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/conditions-not-best-for-javelin-throwers-neeraj-chopra-opens-up-on-tough-glasgow-weather/articleshow/132755810.cms",
+    "time": "2026-07-31T04:34:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'First you broke their bones, now filing FIRs': Rahul Gandhi warns PM Modi, Amit Shah to not 'threaten Gen Z into silence'",
+    "desc": "Rahul Gandhi criticized Prime Minister Modi and Home Minister Shah for actions against students. He alleged the government is silencing Generation Z through FIRs and account takedowns. Gandhi demanded a Supreme Court-monitored probe into alleged police brutality at Jantar Mantar. Opposition MPs also protested alleged police action and financial irregularities. The protests occurred before a bill on public examinations was considered.",
+    "img": "https://static.toiimg.com/photo/msid-132755987,imgsize-107439.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/first-you-broke-their-bones-now-filing-firs-rahul-gandhi-warns-pm-modi-amit-shah-to-not-threaten-genz-into-silence/articleshow/132755761.cms",
+    "time": "2026-07-31T04:34:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Jana Nayagan' screenings cancelled in Karnataka",
+    "desc": "Jana Nayagan screenings were cancelled in Mandya after protests erupted over water sharing. Kannada organisation members demonstrated against the Cauvery Water Regulation Authority's directive. Protesters tore down film posters and demanded the show's cancellation. The theatre management subsequently suspended all scheduled film showings. Despite this disruption, the film continued its successful box office run elsewhere.",
+    "img": "https://static.toiimg.com/photo/msid-132755481,imgsize-260784.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thalapathy-vijays-jana-nayagan-screenings-cancelled-in-karnataka-cauvery-water-protests-halt-mandya-shows/articleshow/132755263.cms",
+    "time": "2026-07-31T03:58:16.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Why was Trump’s H-1B fee struck down?",
+    "desc": "What is the H-1B visa programme and who uses it? Why did the Trump administration impose the $100,000 fee? What impact was the policy expected to have on States and employers? Did the President have the authority to impose the fee? Why did the court classify the charge as a tax rather than a penalty?",
+    "img": "https://th-i.thgim.com/public/incoming/igk8h0/article71112269.ece/alternates/LANDSCAPE_1200/iStock-1264230781.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/why-was-trumps-h-1b-fee-struck-down/article71108812.ece",
+    "time": "2026-07-31T03:52:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Ramayana' actress Sai Pallavi’s skincare tips",
+    "desc": "Sai Pallavi emphasizes inner beauty through a healthy diet and hydration. She incorporates regular exercise into her daily routine for overall well-being. The actress prefers natural products over synthetic chemicals for her skin and hair. She believes confidence is more important than physical appearance. Sai Pallavi is currently preparing for her role as Goddess Sita.",
+    "img": "https://static.toiimg.com/photo/msid-132754963,imgsize-1093482.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sai-pallavis-skincare-routine-healthy-diet-natural-products-and-simple-habits-behind-the-ramayana-actress-makeup-free-glow/articleshow/132753979.cms",
+    "time": "2026-07-31T03:38:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Tom Cruise",
+    "desc": "Tom Cruise thrives on embracing his fears, admitting uncertainty has been pivotal in shaping his illustrious career. The celebrated actor is set to star in 'Digger,' directed by Alejandro G. Iñárritu. Known for his relentless ambition and iconic action star persona spanning decades, Cruise has navigated a tumultuous childhood marked by dyslexia. Fans can also look forward to sequels like 'Days of Thunder 2' and 'Top Gun 3.'",
+    "img": "https://static.toiimg.com/photo/msid-132754768,imgsize-116166.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-tom-cruise-you-have-to-just-live-life-and-dont-be-afraid-to-be-afraid-when-the-digger-lead-proved-fear-should-never-stop-you/articleshow/132754526.cms",
+    "time": "2026-07-31T03:35:51.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Seeking job in US? Trump weighs $100,000 work permit fee from foreign graduates",
+    "desc": "The Trump administration is considering a $100,000 fee for international students' work permits. This proposed charge would impact the Optional Practical Training program significantly. US universities and tech firms could face substantial repercussions from this policy change. The Department of Homeland Security is currently discussing the fee's implementation details. Revised regulations for the OPT program are expected later this fall.",
+    "img": "https://static.toiimg.com/photo/msid-132754923,imgsize-104101.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/seeking-job-in-us-trump-weighs-100000-work-permit-fee-from-foreign-graduates/articleshow/132753768.cms",
+    "time": "2026-07-31T03:35:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "2018 tweet about Jared Leto resurfaces amid misconduct allegations",
+    "desc": "Jared Leto faces renewed sexual misconduct allegations detailed in a BBC documentary. Four women accused the actor of assault and misconduct between 2002 and 2016. An old tweet from Dylan Sprouse about Leto's dating patterns has gone viral. Leto has vehemently denied all allegations, calling them categorically false. His talent agency, WME, continues to represent him amid the scrutiny.",
+    "img": "https://static.toiimg.com/photo/msid-132754573,imgsize-266585.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dylan-sprouses-2018-tweet-about-jared-leto-resurfaces-after-sexual-misconduct-allegations-oscar-winner-not-under-criminal-investigation/articleshow/132753498.cms",
+    "time": "2026-07-31T03:24:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Your skin brighter than country's future': Abhijeet Dipke's jab at PM Modi's late night video",
+    "desc": "Abhijeet Dipke, CJP founder, mocked Prime Minister Narendra Modi's recent video message. The Prime Minister discussed the new anti-paper leak Bill passed by Parliament. This legislation aims to create a more reliable examination system for students. PM Modi highlighted decades of paper leak issues affecting governments nationwide. The government is implementing reforms and using technology to ensure exam integrity.",
+    "img": "https://static.toiimg.com/photo/msid-132754488,imgsize-1017508.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/your-skin-brighter-than-countrys-future-abhijeet-dipkes-jab-at-pm-modis-late-night-video/articleshow/132754382.cms",
+    "time": "2026-07-31T03:22:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Who is Seema Kaliramna? The mother and PhD scholar who won CWG bronze",
+    "desc": "Seema Kaliramna secured a bronze medal in the women's discus throw at the Commonwealth Games 2026. She achieved a best throw of 58.65 meters, earning India another medal. Kaliramna made an inspiring comeback after motherhood and pursuing her PhD studies. Her husband and coach, Ravinder Kaliramna, played a significant role in her success. She dedicated her medal to her husband's unwavering support and sacrifices.",
+    "img": "https://static.toiimg.com/photo/msid-132754533,imgsize-68543.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/who-is-seema-kaliramna-the-mother-and-phd-scholar-who-won-commonwealth-games-2026-bronze/articleshow/132754224.cms",
+    "time": "2026-07-31T03:16:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lara Dutta's Kaikeyi look in 'Ramayana' trailer sparks debate",
+    "desc": "Nitesh Tiwari's Ramayana trailer is igniting vibrant conversations across social media. Lara Dutta's take on Queen Kaikeyi is drawing mixed reactions, with some viewers criticizing her contemporary attire and hairstyle. The film plans to release in two installments in October 2026 and 2027, leaving audiences curious about the deeper intricacies of Kaikeyi's character and her motivations. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-132754187,imgsize-296407.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/lara-duttas-kaikeyi-look-in-ramayana-trailer-sparks-debate-is-this-treta-yuga-or-2026/articleshow/132753598.cms",
+    "time": "2026-07-31T03:02:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vismaya Mohanlal reveals how Muay Thai changed her life",
+    "desc": "Vismaya Mohanlal discovered Muay Thai during an extended Thailand holiday. This martial art significantly improved her physical fitness and mental discipline. She weighed nearly 100 kg and struggled with simple daily activities. The pandemic extended her stay, allowing deeper engagement with the sport. Her debut film 'Thudakkam' releases on August 7.",
+    "img": "https://static.toiimg.com/photo/msid-132754015,imgsize-570438.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/i-was-not-fit-at-all-thudakkam-actor-vismaya-mohanlal-reveals-how-muay-thai-changed-her-life/articleshow/132753977.cms",
+    "time": "2026-07-31T02:55:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'This is embarrassing': Outrage erupts after Indian Hockey ditches blue",
+    "desc": "Indian hockey has changed its traditional blue jersey to saffron for upcoming tournaments. This shift has ignited significant criticism from former players and fans alike. Hockey India cited clashes with blue turf as the primary reason for the alteration. Players and coaches collectively chose orange, which is part of the Indian tricolour. The new saffron kits have arrived at national camps for player review.",
+    "img": "https://static.toiimg.com/photo/msid-132753894,imgsize-100384.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/indian-hockey-swaps-jerseys-saffron-replaces-legacy-blue/articleshow/132753895.cms",
+    "time": "2026-07-31T02:40:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Olivia Colman stars in 'Wicker' trailer as a fisherwoman",
+    "desc": "The teaser for the upcoming film 'Wicker,' starring Olivia Colman, has just been unveiled. This offbeat romantic fantasy comedy is set to captivate audiences in theaters this October. It tells the story of a lonely fisherwoman who crafts a husband from wicker, resulting in unforeseen complexities. Alongside Colman, Alexander Skarsgård and Peter Dinklage deliver standout performances in this unique adaptation, with distribution rights acquired by Black Bear.",
+    "img": "https://static.toiimg.com/photo/msid-132753626,imgsize-86812.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/wicker-trailer-the-alex-huston-fischer-directorial-sees-olivia-colman-fall-for-a-husband-made-entirely-of-wicker-played-by-alexander-skarsgard/articleshow/132753295.cms",
+    "time": "2026-07-31T02:19:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Alia gives sweet shout to hubby Ranbir's 'Ramayana' trailer",
+    "desc": "The buzz around Nitesh Tiwari's upcoming film 'Ramayana' is palpable, especially with the recently released trailer capturing pivotal scenes from the ancient epic. Alia Bhatt has expressed her enthusiasm for her husband, Ranbir Kapoor's role as Lord Rama. With Yash starring as the menacing Ravana and Arun Govil reprising his role as King Dashrath, fans eagerly anticipate this cinematic spectacle set to light up screens in Diwali 2026.",
+    "img": "https://static.toiimg.com/photo/msid-132753482,imgsize-613939.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alia-bhatt-gives-a-short-and-sweet-shout-to-husband-ranbir-kapoors-ramayana-trailer/articleshow/132753376.cms",
+    "time": "2026-07-31T02:04:36.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "'Ramayana' actor Shobana's fitness secret at 56",
     "desc": "Acclaimed actress Shobana prioritizes fitness through a strict regimen and balanced nutrition. She often turns to protein shakes to satisfy her ongoing hunger and tailors her diet according to her body’s requirements year-round. Rejecting fast foods like pizza and deep-fried snacks, Shobana stays committed to her health. Fans can look forward to her upcoming role in Nitesh Tiwari's 'Ramayana'.",
@@ -54,15 +369,6 @@ const newsData_en = [
     "time": "2026-07-31T01:18:31.000Z"
   },
   {
-    "cat": "World",
-    "title": "Trump announces deal for 'complete disarmament’ of Hamas",
-    "desc": "A member of the Hamas group’s negotiating team said the movement was making “concessions for the sake of our people in the Gaza Strip, to save them from killing and displacement”. He said the issue of weapons is tied to Israel’s withdrawal, the deployment of the National Committee and reconstruction work in the territory",
-    "img": "https://th-i.thgim.com/public/incoming/wvmpd1/article71288799.ece/alternates/LANDSCAPE_1200/2026-07-30T182050Z_1063475432_RC2HOMAOXQBM_RTRMADP_3_USA-TRUMP.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-announces-agreement-for-disarmament-of-hamas/article71288798.ece",
-    "time": "2026-07-31T01:16:06.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Opposition politicising issue, government has brought in strict law, says BJP",
     "desc": "Government MPs criticized opposition for politicizing the NEET-UG paper leak issue. They highlighted government dialogue with students and a proposed stronger law. Senior ministers held talks with students and activist Sonam Wangchuk. A fast-track court and task force were established to address concerns. The proposed bill aims for stringent punishment and time-bound investigations.",
@@ -90,15 +396,6 @@ const newsData_en = [
     "time": "2026-07-31T01:12:48.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Yahya Abdul-Mateen II reacts to 'Wonder Man' cancellation",
-    "desc": "Yahya Abdul-Mateen II recently shared his reflections on the unforeseen cancellation of Wonder Man. The actor expressed his appreciation for the show's strong connection with audiences and its positive critical reception throughout its brief run. Despite the absence of a second season, he mentioned that the characters might appear in different projects. Abdul-Mateen remains optimistic, viewing this situation as a mere detour in his artistic journey.",
-    "img": "https://static.toiimg.com/photo/msid-132753111,imgsize-70811.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/yahya-abdul-mateen-ii-reacts-to-wonder-man-cancellation-thats-life-everything-will-shake-out/articleshow/132753091.cms",
-    "time": "2026-07-31T01:10:48.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Rohit Sharma's heartfelt note for Ajinkya Rahane",
     "desc": "Ajinkya Rahane represented India in 85 Tests, scoring 5,077 runs, including 12 centuries and 26 fifties, at an average of 38.46. In ODIs, he played 90 matches and scored 2,962 runs, with three centuries and 24 fifties at an average of 35.26. In T20Is, Rahane featured in 20 matches and scored 375 runs, including one half-century.",
@@ -108,24 +405,6 @@ const newsData_en = [
     "time": "2026-07-31T01:07:07.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Netflix sued after unencrypted 'Fortitude' copy stolen",
-    "desc": "Producers have filed a lawsuit against Netflix for a staggering $105 million, claiming that a copy of their film 'Fortitude' was stolen. An unencrypted hard drive containing the film was taken from Netflix's premises, putting the film's distribution and awards campaign at risk. Netflix argues that the film was not delivered with adequate industry protections, spotlighting glaring security flaws in film distribution methods and their implications for business.",
-    "img": "https://static.toiimg.com/photo/msid-132753069,imgsize-76423.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/netflix-faces-105-million-lawsuit-after-unencrypted-master-copy-of-nicolas-cages-fortitude-is-stolen-from-la-office/articleshow/132753056.cms",
-    "time": "2026-07-31T01:01:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Chantels singer Arlene Smith passes away at 84",
-    "desc": "Arlene Smith, a pioneering girl group star, has died at age eighty-four. She was the lead singer and co-writer of the classic doo-wop song \"Maybe.\" The Chantels broke barriers for Black female artists in the late 1950s. Smith later pursued a career in music education after her performing days. Her impactful contributions to music are now being remembered.",
-    "img": "https://static.toiimg.com/photo/msid-132753070,imgsize-375351.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/arlene-smith-lead-singer-of-pioneering-50s-girl-group-the-chantels-passes-away-at-84/articleshow/132752617.cms",
-    "time": "2026-07-31T01:01:12.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "‘Normal’ July rain defies forecast of El Nino impact",
     "desc": "India's July monsoon rainfall exceeded expectations, defying earlier forecasts of below-normal precipitation. This unexpected recovery eased fears of a significant monsoon shortfall for the nation. However, rainfall distribution remained uneven across different regions of the country. Experts now emphasize that El Nino alone cannot explain India's changing rainfall behaviour. Climate change is increasingly altering monsoon patterns, making predictions more complex.",
@@ -133,24 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/normal-july-rain-defies-forecast-of-el-nino-impact/articleshow/132753055.cms",
     "time": "2026-07-31T01:00:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rishab Shetty lauds Nitesh Tiwari's 'Ramayana' trailer",
-    "desc": "Kantara star Rishab Shetty shared his appreciation for the Ramayana-The Introduction trailer. He lauded the film's convincing cinematic world and the team's efforts. Shetty also praised the cast for their responsible portrayal of iconic mythological figures. He highlighted Ranbir Kapoor's divine presence and Yash's impactful performance as Raavana. The music by A.R. Rahman and Hans Zimmer further elevated the trailer's emotions.",
-    "img": "https://static.toiimg.com/photo/msid-132753042,imgsize-328045.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/rishab-shetty-lauds-nitesh-tiwaris-ramayana-trailer-says-ranbir-kapoor-made-us-feel-the-aura-yash-stole-every-shot/articleshow/132753031.cms",
-    "time": "2026-07-31T00:54:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nick Jonas returns to US after family time with PC and Malti",
-    "desc": "Nick Jonas departed Hyderabad airport Thursday night after visiting family. He attended a movie night with Priyanka Chopra and Mahesh Babu. Priyanka Chopra is filming SS Rajamouli's epic 'Varanasi' in Hyderabad. The film also stars Prithviraj Sukumaran and is set for release. Nick Jonas will resume his tour commitments with the Jonas Brothers.",
-    "img": "https://static.toiimg.com/photo/msid-132753034,imgsize-245804.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nick-jonas-flies-out-of-india-after-spending-family-time-with-priyanka-chopra-and-malti-singer-spotted-at-hyderabad-airport-watch/articleshow/132752937.cms",
-    "time": "2026-07-31T00:51:15.000Z"
   },
   {
     "cat": "Politics",
@@ -180,15 +441,6 @@ const newsData_en = [
     "time": "2026-07-31T00:33:03.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'I'm Game' trailer OUT: DQ returns in a gritty action avatar",
-    "desc": "The official trailer for the Malayalam action thriller 'I'm Game' has been released. Dulquer Salmaan returns to Mollywood in a completely new intense avatar. The film promises a fast-paced narrative filled with gambling and revenge. Jr NTR praised the trailer and wished the team success. This movie blends action, mystery, and emotional conflict into a high-stakes thriller.",
-    "img": "https://static.toiimg.com/photo/msid-132752974,imgsize-187891.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/im-game-trailer-dulquer-salmaan-returns-in-a-gritty-action-avatar-jr-ntr-says-hope-this-bet-pays-off/articleshow/132752967.cms",
-    "time": "2026-07-31T00:30:45.000Z"
-  },
-  {
     "cat": "Business",
     "title": "NTT Data Payments to take UPI global",
     "desc": "NTT Data Payment Services is developing a hub-based architecture for cross-border retail payments. This strategy aims to connect India's UPI with other Asian fast payment systems. The company's Adaptis brand unifies its digital payment suite across various markets. This new model moves away from slow, one-to-one country links. Merchants and consumers will transact seamlessly across borders through this interoperable network.",
@@ -214,15 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/zepto-delays-listing-looks-to-raise-1000-crore-in-funding/articleshow/132752901.cms",
     "time": "2026-07-31T00:14:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Jana Nayagan' BO day 8: Vijay's film earns Rs 3.98 crore",
-    "desc": "Thalapathy Vijay's Jana Nayagan saw collections decrease on its eighth day. The film's India net total reached over 153 crore rupees. Worldwide gross collections for Jana Nayagan have now surpassed 260 crore. The Tamil version continues to be the primary revenue driver. Collections are following an expected weekday trend after its opening.",
-    "img": "https://static.toiimg.com/photo/msid-132752897,imgsize-201337.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-box-office-collections-day-8-thalapathy-vijays-film-earns-rs-3-98-crore-worldwide-total-reaches-rs-260-25-crore/articleshow/132752869.cms",
-    "time": "2026-07-31T00:09:01.000Z"
   },
   {
     "cat": "Business",
@@ -270,15 +513,6 @@ const newsData_en = [
     "time": "2026-07-30T23:45:27.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Katy and Justin spotted on a PDA-filled beach date",
-    "desc": "Singer Katy Perry and former Canadian Prime Minister Justin Trudeau were seen enjoying a romantic holiday. The couple celebrated their first dating anniversary while vacationing in Saint-Tropez. They were photographed at Club 55 beach club, sipping champagne and swimming. During their beach outing, they shared affectionate moments and a quick kiss. Perry and Trudeau have been dating since July 2025 and are public with their romance.",
-    "img": "https://static.toiimg.com/photo/msid-132752518,imgsize-394668.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/katy-perry-and-justin-trudeau-share-a-pda-filled-beach-date-couple-celebrates-1-year-together-at-saint-tropez-pics/articleshow/132752491.cms",
-    "time": "2026-07-30T23:33:23.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Formal retail credit access doubles over past decade",
     "desc": "Formal retail credit penetration in India more than doubled over the past decade. Consumption-led lending, including personal loans, drove this significant growth. Credit access expanded to younger borrowers and women across India. Northern and central states saw increased credit activity, while western and southern regions moderated. This shift reflects credit being used for lifestyle rather than asset acquisition.",
@@ -306,15 +540,6 @@ const newsData_en = [
     "time": "2026-07-30T22:51:01.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Spider-Man' records historic Rs 70 crore opening in India",
-    "desc": "Brand New Day achieved the biggest opening day for any non-Indian film. The movie surpassed Avengers: Endgame's previous record with impressive gross collections. Its Hindi dubbed version showed exceptional audience turnout and high occupancy rates. Advance bookings for the film also broke previous Hollywood release records. This historic debut positions the blockbuster for a massive opening weekend.",
-    "img": "https://static.toiimg.com/photo/msid-132752451,imgsize-570128.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/spider-man-brand-new-day-box-office-collection-day-1-tom-holland-zendaya-starrer-scores-rs-70-crore-opening-in-india-dethrones-avengers-endgame-to-record-biggest-debut-for-a-non-indian-film/articleshow/132752159.cms",
-    "time": "2026-07-30T22:50:24.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Where India stand after Lovepreet’s record silver and Seema’s hard-fought bronze",
     "desc": "India added two medals on Day 8 of the 2026 Commonwealth Games, with Lovepreet Singh winning silver in the men’s +110kg weightlifting final after a record-breaking performance and Seema Kaliramna claiming discus bronze. India’s tally rose to 17 medals (3 gold, 10 silver, 4 bronze), while Tejaswin Shankar remained in medal contention in the decathlon and Neeraj Chopra advanced to the javelin final.",
@@ -322,15 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-day-8-medal-table-where-india-stand-after-lovepreets-record-silver-and-seemas-hard-fought-bronze/articleshow/132749926.cms",
     "time": "2026-07-30T22:16:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Ramayana' trailer plays in theatres; audience reacts",
-    "desc": "The Ramayana trailer has been released, generating significant excitement among fans nationwide. Audiences reacted with loud cheers and applause for the epic introductions of key characters. The film's visual effects and performances received widespread global acclaim from viewers. Makers have refined CGI and color grading following earlier feedback on the glimpse. The first part of Ramayana is scheduled for a Diwali 2026 release.",
-    "img": "https://static.toiimg.com/photo/msid-132751480,imgsize-453214.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-trailer-sparks-wild-theatre-reactions-fans-cheer-ranbir-kapoor-and-yashs-big-screen-entries-watch/articleshow/132750455.cms",
-    "time": "2026-07-30T22:09:20.000Z"
   },
   {
     "cat": "Politics",
@@ -378,15 +594,6 @@ const newsData_en = [
     "time": "2026-07-30T21:12:43.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'All my taxes are paid in India'",
-    "desc": "R Madhavan had opened up about the real reason behind relocating to Dubai, revealing that the move was driven by his son Vedant's swimming career during the Covid-19 pandemic. The actor had also spoken about life in the UAE, why he believed there were \"three Dubais,\" his enduring connection with India, and even his upcoming South Indian filter coffee venture.",
-    "img": "https://static.toiimg.com/photo/msid-132750240,imgsize-72420.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-madhavan-revealed-why-he-relocated-to-dubai-for-son-vedant-said-all-my-taxes-are-paid-in-india-recalled-earning-a-captains-licence/articleshow/132750222.cms",
-    "time": "2026-07-30T21:10:23.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Ukraine dials India, seeks peace role amid ship attack concerns",
     "desc": "India's External Affairs Minister discussed Black Sea shipping attacks with Ukraine's counterpart. He reiterated India's stance that such attacks are unacceptable and unequivocally condemned. The minister also highlighted the global impact of multiple conflicts on security. Ukraine's representative briefed him on recent developments and peace efforts. India consistently advocates for dialogue and diplomacy to resolve conflicts.",
@@ -394,15 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/ukraine-dials-india-seeks-peace-role-amid-ship-attack-concerns/articleshow/132750207.cms",
     "time": "2026-07-30T20:59:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Despite Centre’s assurance, people still being called to explain their presence at protest site, says member of Congress’ legal aid",
-    "desc": "Congress’ legal aid Ranjan said that a helpline launched by the party has so far received 300 calls, including 50 calls by young girls and women who were being issued rape and death threats for participating in the protests",
-    "img": "https://th-i.thgim.com/public/incoming/k7v3k4/article71287836.ece/alternates/LANDSCAPE_1200/63_Cockroach_Janta_Party_Protest_20_07_Delhi.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/despite-centres-assurance-people-still-being-called-to-explain-their-presence-at-protest-site-says-member-of-congress-legal-aid/article71287355.ece",
-    "time": "2026-07-30T20:56:00.000Z"
   },
   {
     "cat": "Politics",
@@ -450,24 +648,6 @@ const newsData_en = [
     "time": "2026-07-30T20:27:59.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "No blanket ban on use of pellet guns for crowd control",
-    "desc": "The Supreme Court ordered the Delhi government to treat all injured protesters. It questioned the feasibility of banning pellet guns for crowd control. The court directed the preservation of ammunition logs for effective investigation. It also emphasized the need for police to have adequate safety gear. The bench reiterated that peaceful protests can sometimes be hijacked by miscreants.",
-    "img": "https://static.toiimg.com/photo/msid-132750000,imgsize-291152.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/supreme-court-no-blanket-ban-on-use-of-pellet-guns-for-crowd-control/articleshow/132749977.cms",
-    "time": "2026-07-30T20:08:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Space department and Isro begins hiring for 746 posts, 92 will be scientist/engineers",
-    "desc": "Isro and DoS have initiated a significant recruitment drive for 746 positions. These openings include regular posts and apprenticeship opportunities for future talent. The drive aims to address a notable vacancy rate within the space department. Administrative roles and scientist/engineer positions are being filled across various centers. This effort seeks to bolster Isro's workforce and operational capabilities.",
-    "img": "https://static.toiimg.com/photo/msid-132749863,imgsize-39798.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/space-department-and-isro-begins-hiring-for-746-posts-92-will-be-scientist/engineers/articleshow/132749809.cms",
-    "time": "2026-07-30T19:48:19.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Liti's 223kg stunner denies Lovepreet CWG gold by 1kg in weightlifting",
     "desc": "Liti produced a Commonwealth Games record lift of 223kg in the clean and jerk to move ahead of the Indian and win gold with a total of 389kg, just one kilogram more than Lovepreet. Liti had lifted 166kg in the snatch.",
@@ -475,33 +655,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/david-litis-223kg-stunner-denies-lovepreet-singh-commonwealth-games-gold-by-one-kilogram-in-weightlifting/articleshow/132748642.cms",
     "time": "2026-07-30T19:44:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Government clears funds for pellet survivor Insha’s gas agency after 8-year wait",
-    "desc": "The J&K government approved a gas agency for Insha Mushtaq eight years later. This rehabilitation pledge was approved on Thursday, reviving a commitment made in 2016. Insha lost her eyesight at fourteen after a pellet gun incident during protests. She has since learned Braille and is pursuing a bachelor's degree. The approval marks a significant turning point for her future.",
-    "img": "https://static.toiimg.com/photo/msid-132749638,imgsize-73930.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-government-clears-funds-for-pellet-survivor-inshas-gas-agency-after-8-year-wait/articleshow/132749627.cms",
-    "time": "2026-07-30T19:20:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "23 heritage sites in Ladakh declared protected monuments",
-    "desc": "Ladakh's Lieutenant Governor Vinai Kumar Saxena declared twenty-three heritage sites protected monuments. This initiative provides legal protection for Ladakh's rich archaeological and historical heritage. Sites in Leh and Kargil districts were notified as protected monuments under a specific act. The administration will now undertake conservation measures and prevent encroachments on these sites. This move reflects a commitment to preserving Ladakh's unique historical legacy for future generations.",
-    "img": "https://static.toiimg.com/photo/msid-132749580,imgsize-351010.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/23-heritage-sites-in-ladakh-declared-protected-monuments/articleshow/132749565.cms",
-    "time": "2026-07-30T19:16:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Properties of 5 Pakistan-based terrorist handlers attached in Reasi",
-    "desc": "Jammu and Kashmir Police attached properties belonging to five Pakistan-based terrorist handlers in Reasi district. This action aims to prevent the misuse of these assets for terror financing activities. The attached land was linked to a case registered under stringent anti-terror laws. Investigations revealed the accused had exfiltrated to Pakistan for terrorist training and now operate as handlers.",
-    "img": "https://static.toiimg.com/photo/msid-132749555,imgsize-303988.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-properties-of-5-pakistan-based-terrorist-handlers-attached-in-reasi/articleshow/132749508.cms",
-    "time": "2026-07-30T19:11:36.000Z"
   },
   {
     "cat": "Sports",
@@ -531,15 +684,6 @@ const newsData_en = [
     "time": "2026-07-30T18:36:47.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Vivek Oberoi recalls partner's Rs 100 cr loss, saving baby with leukemia",
-    "desc": "Actor-entrepreneur Vivek Oberoi has opened up about the setbacks that pushed him to reinvent himself beyond acting, saying he refused to become a \"victim\" when opportunities dried up. Reflecting on his entrepreneurial journey, he recalled how his business partner rebuilt his life after suffering losses exceeding Rs 100 crore. Oberoi also shared how meeting an eight-month-old leukemia patient named Sahara during Saathiya inspired his lifelong commitment to helping children battling cancer.",
-    "img": "https://static.toiimg.com/photo/msid-132748465,imgsize-55292.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vivek-oberoi-recalls-how-partner-rebuilt-life-after-rs-100-crore-financial-loss-says-helping-an-8-month-old-leukemia-patient-survive-is-his-greatest-reward/articleshow/132748361.cms",
-    "time": "2026-07-30T18:31:47.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "European football chiefs identify strong candidate to challenge Gianni Infantino amid FIFA's World Cup sell-off row",
     "desc": "Senior European football officials are discussing Paris Saint-Germain president Nasser Al-Khelaifi as a potential challenger to FIFA president Gianni Infantino amid growing opposition to FIFA’s proposed World Cup commercial investment plan. Although Al-Khelaifi has publicly ruled out a presidential bid, discontent over FIFA’s restructuring proposal has intensified debate over the future leadership and governance of world football.",
@@ -547,24 +691,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/european-football-chiefs-identify-strong-candidate-to-challenge-gianni-infantino-amid-fifas-world-cup-sell-off-row/articleshow/132746385.cms",
     "time": "2026-07-30T18:15:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Calcutta High Court stays discontinuation of PDS benefits to woman over SIR deletion",
-    "desc": "The Bengal govt. has issued notifications linking SIR deletions with benefits of public distribution system and Annapurna Bhandar scheme; the Supreme Court has reiterated its position that exclusion from the electoral rolls cannot have consequences unrelated to voting",
-    "img": "https://th-i.thgim.com/public/incoming/7ja8ns/article71287674.ece/alternates/LANDSCAPE_1200/vbk-CALCUTTA-hc-HIGH-COURT.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/calcutta-high-court-stays-discontinuation-of-pds-benefits-to-woman-over-sir-deletion/article71286493.ece",
-    "time": "2026-07-30T18:01:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Developer looks to expand frontiers beyond Coimbatore",
-    "desc": "M.V. Manikandan, Founder and CMD of Adissia Developers, says the company is going to shift its headquarters to Chennai. ‘We expect our turnover to be around ₹2,500 crore in 4-5 years,’ the first generation entrepreneur says",
-    "img": "https://th-i.thgim.com/public/incoming/uxr63w/article71287648.ece/alternates/LANDSCAPE_1200/BVR_0809.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/developer-looks-to-expand-frontiers-beyond-coimbatore/article71286935.ece",
-    "time": "2026-07-30T17:58:36.000Z"
   },
   {
     "cat": "Sports",
@@ -612,15 +738,6 @@ const newsData_en = [
     "time": "2026-07-30T17:01:25.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Nitish Bhardwaj praises Ramayana trailer, warns Ranbir: Don't pollute your vaani now",
-    "desc": "Veteran actor Nitish Bharadwaj lauded Nitesh Tiwari's Ramayana trailer, predicting Oscar success for the film. He praised the grand scale, visual effects, and performances by the cast. Bharadwaj also urged Ranbir Kapoor to choose culturally relevant roles after Animal. He expressed hope for Sai Pallavi's portrayal of Sita and the film's spiritual essence. The epic film is slated for a Diwali 2026 release.",
-    "img": "https://static.toiimg.com/photo/msid-132745757,imgsize-325030.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mahabharats-lord-krishna-nitish-bhardwaj-says-ramayan-will-get-oscar-100-percent-warns-ranbir-kapoor-dont-pollute-your-vaani-now-at-par-with-ranveer-singh-two-dhurandhars/articleshow/132745689.cms",
-    "time": "2026-07-30T16:41:10.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Martina Devi's brave comeback ends in heartbreak, Indian lifter finishes fifth",
     "desc": "In a gripping performance at the Commonwealth Games, Martina Devi Maibam secured a fifth-place finish in weightlifting, showcasing her grit after overcoming initial setbacks. Her total lift of 245kg was impressive but fell just short of medal contention, as she lost on failed attempts against another lifter. England's Emily Campbell captured gold with record-setting lifts, while Martina's determination signals a bright future ahead.",
@@ -630,15 +747,6 @@ const newsData_en = [
     "time": "2026-07-30T16:23:13.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ramayana is like Avatar meets Gladiator in the world of LotR",
-    "desc": "Part 1 has finally been unveiled, giving audiences a glimpse of one of Indian cinema's most ambitious mythological epics. While the four-minute trailer has been praised for its grand visuals, large-scale action sequences and Hollywood-level VFX, producer Namit Malhotra has now revealed the global vision behind the film.",
-    "img": "https://static.toiimg.com/photo/msid-132745257,imgsize-85457.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-yash-starrer-ramayana-is-like-avatar-meets-gladiator-in-the-world-of-the-lord-of-the-rings-says-producer-namit-malhotra/articleshow/132745132.cms",
-    "time": "2026-07-30T16:15:04.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Future India captain? Selector explains why Sooryavanshi was named East Zone vice-captain",
     "desc": "Vaibhav Sooryavanshi, aged fifteen, has been appointed East Zone vice-captain for the upcoming Duleep Trophy. Selectors believe this move invests in the future of Indian cricket and accelerates his development. Ishan Kishan will captain the team, easing immediate leadership pressure on the young player. Sooryavanshi's prior leadership roles and strong IPL performance informed this significant selection.",
@@ -646,15 +754,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/future-india-captain-selector-explains-why-15-year-old-vaibhav-sooryavanshi-was-named-east-zone-vice-captain/articleshow/132745010.cms",
     "time": "2026-07-30T16:08:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Incredibly disappointed': CWG wheelchair medallists forced to race again after shock crash",
-    "desc": "The women’s T54 1500m wheelchair final at the 2026 Commonwealth Games will be rerun after a chaotic race featuring multiple crashes, a disqualification and appeals. Scotland’s Melanie Woods, England’s Ellis Kottas and Australia’s Mikaela Dingley must compete again after initially claiming the medals, with the controversial decision overturning a dramatic record-breaking victory.",
-    "img": "https://static.toiimg.com/photo/msid-132744506,imgsize-194526.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/incredibly-disappointed-commonwealth-games-wheelchair-medallists-forced-to-race-again-after-shock-first-lap-crash/articleshow/132744208.cms",
-    "time": "2026-07-30T15:41:35.000Z"
   },
   {
     "cat": "Business",
@@ -673,33 +772,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/us-stock-market-today-july-30-2026-wall-street-flat-nasdaq-climbs-tech-stocks-rally-dow-jones-sp-500/articleshow/132743219.cms",
     "time": "2026-07-30T14:46:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Viral CWG cleaner performs splits and worm while mopping court",
-    "desc": "Floor cleaner CJ Miller has become one of the biggest viral stars of the 2026 Commonwealth Games after entertaining crowds with energetic dance routines while mopping the netball court. Nicknamed \"Mop Man,\" the professional dancer's performances have amassed millions of views online, transforming routine cleaning breaks into crowd-pleasing spectacles and earning praise from fans worldwide.",
-    "img": "https://static.toiimg.com/photo/msid-132742667,imgsize-945300.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/watch-viral-commonwealth-games-cleaner-dubbed-mop-man-performs-splits-and-worm-while-mopping-court/articleshow/132741322.cms",
-    "time": "2026-07-30T14:24:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Praveen Chithravel and Selva Prabhu make triple jump final",
-    "desc": "Indian athletes secured spots in the Commonwealth Games 2026 finals today. Praveen Chithravel and Selva Prabhu advanced in the men's triple jump event. Neeraj Chopra, Rohit Yadav, and Yash Vir Singh qualified for the men's javelin throw final. All three Indian javelin throwers achieved qualification for the medal round. The athletics competition saw strong performances from the Indian contingent.",
-    "img": "https://static.toiimg.com/photo/msid-132742386,imgsize-102324.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-praveen-chithravel-selva-prabhu-make-triple-jump-final-neeraj-chopra-headlines-indias-javelin-trio/articleshow/132742306.cms",
-    "time": "2026-07-30T14:06:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Composure isn't the opposite of aggression': Sachin's heartfelt tribute to Rahane",
-    "desc": "Ajinkya Rahane announced his retirement from international cricket on Thursday. Sachin Tendulkar led tributes, recalling Rahane's dedication and leadership qualities. Former coach Ravi Shastri praised his yeoman service to Indian cricket. Cheteshwar Pujara and Virender Sehwag also celebrated his career achievements. Rahane retires with 5,077 Test runs and an unbeaten captaincy record.",
-    "img": "https://static.toiimg.com/photo/msid-132741263,imgsize-84960.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/you-showed-that-composure-isnt-the-opposite-of-aggression-sachin-tendulkars-heartfelt-tribute-to-ajinkya-rahane/articleshow/132741007.cms",
-    "time": "2026-07-30T13:07:42.000Z"
   },
   {
     "cat": "World",
@@ -736,15 +808,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/england-reappoints-root-as-test-captain-and-names-new-zealander-fleming-as-coach/article71285376.ece",
     "time": "2026-07-30T11:25:37.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Diesel’s desire: an engine for everyone",
-    "desc": "For someone who wished to build an engine for everyone, August turned out to be an auspicious month. On August 10, 1893, Rudolf Diesel’s prime model was powered on its own for the first time. Five years later, on August 9, 1898, Diesel obtained a U.S. patent titled “Internal-combustion engine”. Join A.S.Ganesh as he tries to explain what fuelled Diesel’s desire…",
-    "img": "https://th-i.thgim.com/public/incoming/o3bduy/article71285498.ece/alternates/LANDSCAPE_1200/09istb%20Historical_Diesel_engine_in_Deutsches_Museum.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/diesels-desire-an-engine-for-everyone/article71285487.ece",
-    "time": "2026-07-30T10:51:05.000Z"
   },
   {
     "cat": "Business",
@@ -810,24 +873,6 @@ const newsData_en = [
     "time": "2026-07-30T07:22:28.000Z"
   },
   {
-    "cat": "Business",
-    "title": "India’s crude oil imports from Russia may touch new record of 3 million barrels per day",
-    "desc": "If shipping through the Red Sea remains unaffected, Indian refiners will continue to have an important supply cushion through Saudi Arabia's East-West (Yanbu) pipeline, which has recently been supplying around 300,000-500,000 barrels per day (kbd) of crude.",
-    "img": "https://static.toiimg.com/photo/msid-132730819,imgsize-845348.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/hormuz-red-sea-disruptions-indias-crude-oil-imports-from-russia-may-touch-new-record-of-3-million-barrels-per-day-heres-why-us-iran-war-middle-east-conflict/articleshow/132730751.cms",
-    "time": "2026-07-30T06:55:27.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Azure tops $100 billion as AI growth helps beat earnings estimates",
-    "desc": "Microsoft reported strong cloud revenue growth and increased paid AI users. Azure revenue surpassed one hundred billion dollars for the first time. Microsoft 365 Copilot now has over thirty million paid seats. Investors are observing returns from significant artificial intelligence spending. The company's shares saw a notable increase after the earnings announcement.",
-    "img": "https://static.toiimg.com/photo/msid-132727900,imgsize-228866.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/microsoft-q4-results-azure-tops-100-billion-as-ai-growth-helps-beat-earnings-estimates/articleshow/132727782.cms",
-    "time": "2026-07-30T05:25:39.000Z"
-  },
-  {
     "cat": "World",
     "title": "Japan quake toll hits 28 as survivors struggle in heat",
     "desc": "The government issued the new tally as Kumamoto officials said they have now extracted four bodies from the mass of rubble, steel and wires of the Aeon shopping mall after a suspected gas blast following the quake",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-complete-schedule-timings-and-medal-events-as-india-eye-medals-on-30th-july-thursday/articleshow/132716416.cms",
     "time": "2026-07-30T02:00:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Emerald Isle spark Test rejuvenation?",
-    "desc": "Sri Lanka are coming off a 0-1 loss in the West Indies in a two-match showdown which ended some three weeks back. Dhananjaya de Silva’s men have greater motivation than ever before as they embark on the twin challenges of regaining their hegemony over India in their own background and hauling their WTC aspirations back on track at this early stage",
-    "img": "https://th-i.thgim.com/public/sport/ac7up/article71283137.ece/alternates/LANDSCAPE_1200/GettyImages-2226765090.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/will-emerald-isle-spark-test-rejuvenation/article71283117.ece",
-    "time": "2026-07-29T18:56:06.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Ukraine says it hit a major Russian oil refinery, hours after Zelenskyy’s meeting with Trump",
-    "desc": "The overnight attack started a fire at the Ryazan refinery, which has a capacity of about 17 million tonnes of oil per year, producing gasoline, diesel fuel, aviation fuel and other petroleum products, according to Ukraine’s General Staff",
-    "img": "https://th-i.thgim.com/public/incoming/tz9dhz/article71281346.ece/alternates/LANDSCAPE_1200/2026-07-29T083706Z_1302573797_RC2KNMAFSNAT_RTRMADP_3_UKRAINE-CRISIS-ATTACK-RYAZAN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international//article71281250.ece",
-    "time": "2026-07-29T13:12:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Children of Blood and Bone’ trailer: Paramount unveils first look at epic fantasy adaptation starring Viola Davis and Idris Elba",
-    "desc": "Paramount Pictures has released the first trailer for ‘Children of Blood and Bone’, bringing Tomi Adeyemi’s bestselling fantasy novel to life with a sprawling ensemble cast led by Thuso Mbedu and directed by ‘The Woman King’ filmmaker Gina Prince-Bythewood",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/frt3p/article71280327.ece/alternates/LANDSCAPE_1200/Children-of-Blood-and-Bone-trailer3-72826-d51c7735b593449cbdac6f11c0fc99df.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/children-of-blood-and-bone-trailer-paramount-unveils-first-look-at-epic-fantasy-adaptation-starring-viola-davis-and-idris-elba/article71280326.ece",
-    "time": "2026-07-29T10:29:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gill reclaims No. 1 spot among ODI batters; Sooryavanshi takes big strides in T20I rankings",
-    "desc": "The absence of Daryl Mitchell saw Shubman Gill move back to become the No. 1 ranked batter in 50-over cricket, the ICC said; Vaibhav Sooryavanshi rose as many as 230 spots to reach 48th in the list of T20I batters",
-    "img": "https://th-i.thgim.com/public/incoming/vno54f/article71280900.ece/alternates/LANDSCAPE_1200/20260719426L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/gill-reclaims-no-1-spot-among-odi-batters-sooryavanshi-takes-big-strides-in-t20i-rankings/article71280874.ece",
-    "time": "2026-07-29T10:05:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Spider-Man: Brand New Day’ director Destin Daniel Cretton on capturing the spectacle without losing the heart",
-    "desc": "Ahead of the film’s release on July 30, filmmaker Destin Daniel Cretton talks about his memory of watching Toby Maguire’s 2002 classic, his shift from making independent human dramas to Marvel superhero films, how he looks at hero’s journey, and more",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/i8it9t/article71276369.ece/alternates/LANDSCAPE_1200/Tom%20Holland%20and%20Destin%20Daniel%20Cretton%20during%20the%20filming%20of%20%E2%80%98Spider-Man%20Brand%20New%20Day%E2%80%99",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/spider-man-brand-new-day-director-destin-daniel-cretton-on-capturing-spectacle-without-losing-heart-tom-holland-marvel-zendaya/article71276177.ece",
-    "time": "2026-07-29T07:20:09.000Z"
   }
 ];

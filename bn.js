@@ -1,5 +1,41 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "১০ দিনেই ২০০০ লোক ঢুকে পড়েছেন সীমান্ত পেরিয়ে! ৯ জনের মৃত্যু! 'চরম সামাজিক জরুরি অবস্থা'?",
+    "desc": "স্পেনের স্বরাষ্ট্র মন্ত্রণালয় দেশব্যাপী জরুরি অবস্থা ঘোষণার দাবি প্রত্যাখ্যান করেছে। তারা বলেছে, অভিবাসন সংকট মোকাবিলায় জাতীয় জরুরি অবস্থা ঘোষণার বিধান প্রযোজ্য নয়। তবে পরিস্থিতি মোকাবিলায় অতিরিক্ত সহায়তা দেওয়ার প্রতিশ্রুতি দিয়েছে তারা। পরে স্বরাষ্ট্র মন্ত্রণালয় জানায়, সীমান্তে অতিরিক্ত নিরাপত্তা জোরদার করতে সশস্ত্র বাহিনী পাঠানো হবে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/border-crisis-9-dead-as-thousands-cross-into-spain-from-morocco-in-fresh-border-crisis_664773.html ",
+    "time": "2026-07-31T05:56:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "মৃত্যুশয্যায় নার্গিস, বাবা সুনীল দত্তের কোন সিদ্ধান্তে দিশেহারা হয়ে পড়েছিলেন সঞ্জয়?",
+    "desc": "আমেরিকার হাসপাতালে কোমার সঙ্গে লড়ছেন মা নার্গিস। ঠিক সেই চরম মুহূর্তে সঞ্জয় দত্তের জীবনে নেমে এল বাবার এক অবিশ্বাস্য নির্দেশ! কেন চিকিৎসাধীন মা-কে ছেড়ে শ্যুটিং সেটে ফিরতে বাধ্য হয়েছিলেন তরুণ সঞ্জয়? বাবার সিদ্ধান্তের নেপথ্যে আসলে কী কারণ ছিল? প্রথম ছবি মুক্তির আগেই চিরতরে বদলে গেল সঞ্জয়ের জীবন!",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/sanjay-dutt-on-sunil-dutts-tough-choice-as-nargis-lay-in-a-coma-couldnt-understand-why_664768.html ",
+    "time": "2026-07-31T04:43:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'আপনার ত্বক দেশের ভবিষ্যতের থেকেও উজ্জ্বল!' সেলফি ভিডিয়ো নিয়ে মোদীকে 'উচ্চ প্রশংসায়' ভরিয়ে দিলেন দীপকে",
+    "desc": "প্রশ্নফাঁস বিরোধী বিল পাসের পর প্রধানমন্ত্রী নরেন্দ্র মোদীর সেলফি ভিডিয়ো ঘিরে রাজনীতি তুঙ্গে। ককরোচ জনতা পার্টির প্রতিষ্ঠাতা অভিজিৎ দীপকে খোঁচা মেরে লেখেন, “আপনার ত্বক দেশের ভবিষ্যতের চেয়েও বেশি উজ্জ্বল!” বিরোধীদের অভিযোগ, ভিডিয়ো বানিয়ে বা কড়া আইন তৈরি করে লাভ নেই, যতক্ষণ না প্রশ্নফাঁস আটকানোর বাস্তব পদক্ষেপ নেওয়া হচ্ছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/abhijeet-dipke-mocks-pms-new-selfie-video-on-exam-reforms-your-skin-is-brighter-than_664766.html ",
+    "time": "2026-07-31T04:10:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "প্রধানমন্ত্রীর পোস্ট ‘উধাও’, ছড়াল বিকৃত ভিডিয়ো! মেটা ইন্ডিয়া প্রধানের বিরুদ্ধে এফআইআর, চাপে ফেসবুক",
+    "desc": "প্রধানমন্ত্রী নরেন্দ্র মোদীর এআই-জেনারেটেড বিকৃত ভিডিয়ো ছড়ানো এবং তাঁর নিজস্ব ফেসবুক পোস্ট 'গায়েব' হয়ে যাওয়ার ঘটনায় চরম বিপাকে মেটা। মেটা ইন্ডিয়া প্রধানের বিরুদ্ধে এফআইআর দায়ের করেছে সাইবার পুলিস। সরকারের কড়া অবস্থানের মুখে পড়ে ভুল স্বীকার করে এখন ভিআইপি অ্যাকাউন্ট সুরক্ষায় বিশেষ নজরদারির আশ্বাস সংস্থার।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/case-filed-against-meta-india-head-over-ai-generated-videos-of-pm-modi_664751.html ",
+    "time": "2026-07-31T03:10:59.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "ভারতের প্রথম মাইক্রোপ্রসেসর তৈরির কাণ্ডারিকে ‘গোমূত্র বিশেষজ্ঞ’ আখ্যা! প্রিয়াঙ্কার মন্তব্যে তীব্র অসন্তোষ ২১৫ শিক্ষাবিদের",
     "desc": "আইআইটি মাদ্রাজের ডিরেক্টরকে 'গৌমূত্র বিশেষজ্ঞ' বলে শিক্ষামহলের ক্ষোভের শিকার কংগ্রেস সাংসদ প্রিয়াঙ্কা গান্ধী। প্রিয়াঙ্কার মন্তব্যে তীব্র অসন্তোষ প্রকাশ করে খোলা চিঠি পাঠালেন দেশের ২১৫ জন উপাচার্য ও শিক্ষাবিদ। জেএনইউ, আইআইটি খড়গপুর, আইআইএম কলকাতার পরিচালকরাও সই করলেন চিঠিতে।",
@@ -115,33 +151,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/indian-railways-launches-online-luggage-booking-via-irctc-portal_664635.html ",
     "time": "2026-07-30T03:45:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "GEN-Z-এর হার্টথ্রব, বিদেশ ফেরত, তুখোড় পড়াশোনায়, দেশের শিক্ষামন্ত্রী বদলে দেওয়া অভিজিত্‍ দীপকের বিয়ে কবে? বিরাট খবর",
-    "desc": "অনিতা দীপকে জানান, কেবল সাম্প্রতিক আন্দোলনের পরই নয়, গত প্রায় দুই বছর ধরে--এমনকি অভিজিৎ যখন বোস্টনে ছিলেন, তখন থেকেই তাঁর জন্য দেশ-বিদেশ থেকে পাত্রীর বিয়ের প্রস্তাব আসছিল। বোস্টনে থাকাকালীন ফোনে বিয়ের কথা উঠলেই তিনি হেসে উড়িয়ে দিতেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/cjp-founder-abhijeet-dipke-flooded-with-marriage-proposals-mother-reveals-his-decision-on-wedding_664605.html ",
-    "time": "2026-07-29T16:19:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "দিল্লিতে পড়ুয়াদের ওপর ‘পুলিসি বর্বরতা’: অমিত শাহের পদত্যাগের দাবি রাহুল গান্ধীর",
-    "desc": "পড়ুয়াদের ওপর পুলিসি পেলেট গান ও পেরেক মারা লাঠির ব্যবহার! দিল্লির আন্দোলনের ঘটনায় সরাসরি স্বরাষ্ট্রমন্ত্রী অমিত শাহের পদত্যাগ দাবি করলেন লোকসভার বিরোধী দলনেতা রাহুল গান্ধী। প্রধানমন্ত্রী মোদীর কাছে তাঁর আর্জি— স্বরাষ্ট্রমন্ত্রীকে বরখাস্ত করে সুপ্রিম কোর্টের মনিটরিংয়ে নিরপেক্ষ তদন্ত কমিটি গঠন করা হোক।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/rahul-gandhi-demands-amit-shah-resignation-delhi-student-protest-2026_664590.html ",
-    "time": "2026-07-29T15:34:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "কৃষক বিদ্রোহে স্তব্ধ রাজধানী: রাজপথ অচল করে ট্রাক্টর-ব্যারিকেড ভেঙে হাজার হাজার জেন-জি ঘিরছে মুখ্যমন্ত্রীর বাড়ি-- আন্দোলনে তোলপাড় শহর",
-    "desc": "প্রতিবাদ চলাকালীন মুখ্যমন্ত্রী মোহন যাদব এবং তাঁর প্রশাসনের পক্ষ থেকে আন্দোলনকারীদের সঙ্গে আলোচনার বার্তা দেওয়া হয়। রাজ্য সরকারের প্রতিনিধিরা জানান যে, সরকার কৃষকদের প্রতি সহানুভূতিশীল এবং তাঁদের সমস্ত যৌক্তিক দাবি গুরুত্ব সহকারে বিবেচনা করতে প্রস্তুত। মু",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/mp-farmers-protest-march-to-cm-mohan-yadavs-residence-demanding-100-moong-procurement-msp_664589.html ",
-    "time": "2026-07-29T15:23:55.000Z"
   },
   {
     "cat": "World",
@@ -322,15 +331,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/dharmendra-pradhan-resigns-priyanka-chopra-celebrates-big-win-vijay-varma-takes-dig-with-accha-chalta-hoon_663985.html ",
     "time": "2026-07-25T11:32:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘নন-লিনিয়ার গল্প আর ডাবল রোল!’ প্রয়াত রাহুল শেষ ছবি ‘ছবিওয়ালা’ নিয়ে কী বলেছিলেন?",
-    "desc": "ছবিতে বাবা ও ছেলে—দুই চরিত্রে অভিনয় করা নিয়ে তিনি জানিয়েছিলেন তাঁর মুগ্ধতার কথা। পরিচালক বাপ্পার এই কম বাজেটের স্বাধীন ছবিতে রাহুলের বিপরীতে রয়েছেন দেবলীনা দত্ত। স্মৃতিকাতরতা, নস্ট্যালজিয়া ও শিল্পীর আবেগ জড়িয়ে থাকা এই ছবি দর্শকহৃদয়ে দাগ কাটছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/rahul-arunoday-banerjee-last-film-chobiwala-actor-final-reaction-bappa_663822.html ",
-    "time": "2026-07-24T11:23:33.000Z"
   },
   {
     "cat": "World",
