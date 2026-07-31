@@ -1,5 +1,50 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Govt",
+    "desc": "Ethanol blending saved consumers nearly thirty rupees per litre on petrol. Global crude prices reached one hundred thirty-five dollars a barrel recently. The government kept fuel prices unchanged for seventy-five days initially. E20 petrol now costs one hundred two rupees per litre in Delhi. Allegations of foodgrain diversion for ethanol were also rejected.",
+    "img": "https://static.toiimg.com/photo/msid-132777074,imgsize-859770.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ethanol-kept-petrol-prices-lower-govt/articleshow/132777073.cms",
+    "time": "2026-07-31T21:50:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vijay's son Jason Sanjay says he'd cast father with Jason Statham",
+    "desc": "Jason Sanjay, son of actor-turned-politician Vijay, is all set to make his directorial debut with Sigma, starring Sundeep Kishan. Ahead of the film's release, the young filmmaker spoke candidly about his decision to stay behind the camera despite being born into one of Tamil cinema's biggest film families. He also shared that if Hollywood star Jason Statham ever wanted to collaborate with him, he would cast his father Vijay without a second thought.",
+    "img": "https://static.toiimg.com/photo/msid-132776846,imgsize-89826.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vijays-son-jason-sanjay-says-hed-cast-father-with-jason-statham-if-given-the-chance-reveals-cinema-wasnt-his-first-dream-i-wanted-to-become-a-pilot/articleshow/132776844.cms",
+    "time": "2026-07-31T21:13:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SC slaps Rs 1 lakh fine on Rajasthan government for harassing official",
+    "desc": "The Supreme Court has ordered Rajasthan to pay one lakh rupees to a government official. This payment is compensation for harassment caused by political interference in a prosecution sanction. The court criticized the joint secretary of the former chief minister for undue influence. Such interference was deemed a blatant display of political dictate by the state. The official was unnecessarily dragged to court, prompting the court's strong observations.",
+    "img": "https://static.toiimg.com/photo/msid-132776676,imgsize-1210013.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sc-slaps-rs-1-lakh-fine-on-rajasthan-government-for-harassing-official/articleshow/132776669.cms",
+    "time": "2026-07-31T20:11:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Cabinet eases captive waterfront norms to spur private investment",
+    "desc": "The Cabinet approved a revised shipping ministry policy for captive waterfronts. This aims to accelerate private investment and provide greater operational certainty. Existing captive users can develop additional facilities to meet enhanced requirements. Government entities can obtain waterfronts on a nomination basis without competitive bidding. The policy extends concession periods and strengthens infrastructure development at major ports.",
+    "img": "https://static.toiimg.com/photo/msid-132776529,imgsize-1105898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cabinet-eases-captive-waterfront-norms-to-spur-private-investment/articleshow/132776524.cms",
+    "time": "2026-07-31T19:42:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Cabinet approved two major tunnel projects in J&amp;K",
+    "desc": "The Cabinet approved two strategic tunnel projects in Jammu and Kashmir. These projects will provide all-weather connectivity between the Kashmir Valley and Jammu. The tunnels will bypass difficult stretches of NH-244 affected by adverse weather conditions. Improved road infrastructure will boost regional connectivity and economic activity. These projects are fully Centre-funded and will be completed in five years.",
+    "img": "https://static.toiimg.com/photo/msid-132776480,imgsize-944119.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cabinet-approved-two-major-tunnel-projects-in-jk/articleshow/132776470.cms",
+    "time": "2026-07-31T19:35:43.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Dilip Tirkey questions process, his federation cites precedent",
     "desc": "Hockey India president Dilip Tirkey questioned the jersey colour change process. He stated the decision lacked executive board discussion and his prior knowledge. Executive director RK Srivastava defended the saffron kit based on technical and performance factors. Other board members also raised concerns about transparency and accountability. This controversy emerges amid ongoing governance scrutiny for Hockey India.",
@@ -72,15 +117,6 @@ const newsData_en = [
     "time": "2026-07-31T17:25:36.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Hubballi-Dharwad Municipal Corporation Commissioner pulls up Larsen & Toubro over delay in issuing water bills",
-    "desc": "Hubballi-Dharwad Municipal Corporation Commissioner Rudresh Ghali on Friday directed Larsen & Toubro, the agency implementing the 24/7 water supply project, to issue water bills to consumers immediately after providing connections, saying the delay was resulting in revenue loss to the civic body",
-    "img": "https://th-i.thgim.com/public/incoming/3hemve/article71292024.ece/alternates/LANDSCAPE_1200/2699_31_7_2026_19_40_37_1_01HUBLIMAYORDURGAMMA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/hubballi-dharwad-municipal-corporation-commissioner-pulls-up-larsen-toubro-over-delay-in-issuing-water-bills/article71291288.ece",
-    "time": "2026-07-31T17:24:49.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.S. lawmaker urges Taiwan to pass drone Bill, warning 'time is short'",
     "desc": "China claims Taiwan is part of its territory and has threatened to use force to seize it. Taiwan has ramped up its defence spending in recent years, but remains reliant on U.S. security support to deter Beijing",
@@ -97,33 +133,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/myanmars-president-outlines-policy-road-map-criticises-asean-peace-plan/article71292005.ece",
     "time": "2026-07-31T17:21:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Storage increases by 2 per cent in Idukki reservoir",
-    "desc": "According to data from the Kerala State Electricity Board (KSEB) Dam Safety Wing, the water level in the dam reached 2,330.90 feet (31% capacity) on Friday, compared to 2,375.98 feet (70% capacity) on the same day last year.",
-    "img": "https://th-i.thgim.com/public/incoming/nn5idy/article71292002.ece/alternates/LANDSCAPE_1200/80693_31_7_2026_19_34_42_1_RESERVOIR.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/storage-increases-by-2-per-cent-in-idukki-reservoir/article71290971.ece",
-    "time": "2026-07-31T17:18:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "IMD forecasts ‘below normal’ rainfall in August",
-    "desc": "After a deficit in June and recovery in July, August rains are predicted at 94% of average; temperatures are likely to be high; western India is likely to be the worst-hit during the second half of the southwest monsoon",
-    "img": "https://th-i.thgim.com/public/incoming/br7aki/article71291855.ece/alternates/LANDSCAPE_1200/20260731328L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/imd-forecasts-below-normal-rainfall-in-august/article71291310.ece",
-    "time": "2026-07-31T17:04:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "History of Cauvery water-sharing talks between Tamil Nadu and Karnataka",
-    "desc": "Archived records from The Hindu show that in the mid-1980s, then-Chief Minister M.G. Ramachandran, or MGR, repeatedly sent senior ministers to Karnataka to seek the release of Cauvery water to protect paddy crops in the delta region. We look back at past diplomatic efforts between the two neighbouring States over the sharing of Cauvery waters.",
-    "img": "https://th-i.thgim.com/public/incoming/3o1ys4/article71291970.ece/alternates/LANDSCAPE_1200/cauvery%20MGR.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-history-of-cauvery-water-sharing-talks-between-tamil-nadu-and-karnataka/article71291969.ece",
-    "time": "2026-07-31T16:59:43.000Z"
   },
   {
     "cat": "Entertainment",
@@ -333,15 +342,6 @@ const newsData_en = [
     "time": "2026-07-31T13:03:31.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Govt summons Meta's global team over PM Modi post restriction, to question algorithmic bias",
-    "desc": "India's government has summoned Meta's global team to discuss Prime Minister Modi's post. Officials will question the social media giant on algorithmic bias and content moderation. Meta's global representatives will also appear before a parliamentary panel for scrutiny. Hyderabad police have also registered cases against Meta India's head. This marks an escalation in the government's oversight of the company's practices.",
-    "img": "https://static.toiimg.com/photo/msid-132768508,imgsize-132155.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/govt-summons-metas-global-team-over-pm-modi-post-restriction-to-question-algorithmic-bias/articleshow/132768495.cms",
-    "time": "2026-07-31T13:00:54.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Musafir Cafe' star Vedika Pinto's sea-facing Mumbai home with Goan-Portuguese charm",
     "desc": "'Musafir Cafe' actor Vedika Pinto gives an intimate tour of her 4000 sq ft Mumbai home, blending contemporary design with Goan-Portuguese touches that pay homage to her father's ancestry. From a restored newspaper artwork bought in Beirut to a painting with a cheeky \"Green Choli\" backstory, Vedika opens up about the stories behind her home's most striking corners.",
@@ -397,15 +397,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Preethi Sanjeev slams Prabhu Deva's Bharatanatyam recital in Chennai",
-    "desc": "A recent Bharatanatyam performance by Prabhu Deva has ignited online discussion. Preethi Sanjeev voiced disappointment over the classical dance presentation. Social media users remain divided on the criticism and Prabhu Deva's intent. Some support strict adherence to classical dance traditions and grammar. Others defend the performance as a tribute and acknowledge his contributions.",
-    "img": "https://static.toiimg.com/photo/msid-132767417,imgsize-125021.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/i-never-expected-prabhu-deva-to-make-such-an-unforgivable-mistake-preethi-sanjeev-slams-prabhu-devas-bharatanatyam-recital-in-chennai/articleshow/132767383.cms",
-    "time": "2026-07-31T12:17:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Arjun on his physical transformation, losing 50 kilos, mental health",
     "desc": "Arjun Kapoor discussed his fitness journey, emphasizing personal well-being over industry expectations. He revealed losing fifty kilos and then twenty more, facing significant mental and physical strain. Routine, therapy, and setting boundaries have helped him build a balanced lifestyle. Shifting workouts to mornings and creating structure became major turning points. He now prioritizes leisure travel and taking necessary breaks for himself.",
     "img": "https://static.toiimg.com/photo/msid-132767434,imgsize-227505.cms",
@@ -421,15 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/satyadev-on-rao-bahadur-i-had-to-sit-for-five-hours-for-prosthetic-we-shot-for-85-days-working-17-hour-days-exclusive/articleshow/132767257.cms",
     "time": "2026-07-31T12:17:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Why Tahir Hussain escaped death penalty in IB officer Ankit Sharma murder case",
-    "desc": "A Delhi court sentenced Tahir Hussain and four others to life imprisonment. They were convicted for the murder of IB officer Ankit Sharma. The court rejected the death penalty, citing reformation possibilities. The prosecution argued the case was rarest of rare. The conviction occurred after the 2020 northeast Delhi riots.",
-    "img": "https://static.toiimg.com/photo/msid-132766463,imgsize-61505.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-riots-2020-why-tahir-hussain-escaped-death-penalty-in-ib-officer-ankit-sharma-murder-case/articleshow/132766366.cms",
-    "time": "2026-07-31T11:42:19.000Z"
   },
   {
     "cat": "Entertainment",

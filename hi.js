@@ -1,7 +1,16 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Neeraj Chopra, Rohit Yadav, Yash headline as India aims gold in javelin",
+    "title": "Neeraj Chopra wins silver, Yash Vir Singh bronze in Commonwealth Games 2026; Rumesh secures historic gold",
+    "desc": "India's Neeraj Chopra settled for the silver medal in the men's javelin throw at the Commonwealth Games 2026. Sri Lanka's Rumesh Pathirage produced a stunning 89.75m effort to clinch a historic gold. India, however, celebrated a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/neeraj-chopra-wins-silver-yash-vir-singh-bronze-in-commonwealth-games-2026-rumesh-tharanga-secures-historic-gold-2026-08-01-1050029",
+    "time": "2026-07-31T21:11:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Neeraj Chopra wins silver, Yash vir Bronze in javlin; Lanka's Rumesh wins gold",
     "desc": "Neeraj Chopra headlines the men's javelin throw final at the Commonwealth Games 2026 in the early hours of August 1. Apart from Neeraj. India’s Rohit Yadav and Yash Vir Singh have also progressed for the...",
     "img": "",
     "src": "indiatvnews.com",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/legendary-milan-and-italy-defender-franco-baresi-dies-at-66-2026-07-31-1049959",
     "time": "2026-07-31T07:14:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Check Commonwealth Games 2026 Day 9 schedule; Where can India shine on July 31?",
-    "desc": "The stage is set for Day 9 of the ongoing Commonwealth Games 2026. The Indian contingent has been performing brilliantly at the event and has a total of 17 medals to its name so far....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/check-commonwealth-games-2026-day-9-schedule-where-can-india-shine-on-july-31-2026-07-31-1049951",
-    "time": "2026-07-31T06:35:10.000Z"
   }
 ];
