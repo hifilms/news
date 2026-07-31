@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "ગુલામોનો ટાપુ... અહીં જન્મ લેતાં જ બાળકો પર થઈ જાય છે માલિકનો હક, જ્યાં આજે પણ અસ્તિત્વમાં છે &amp;#039;અતા&amp;#039; પ્રથા",
+    "desc": "આજે પણ દુનિયાના કોઈક ખૂણે લોકો ગુલામ બનીને જિંદગી જીવી રહ્યા છે. આ કોઈ કલ્પના નથી, પરંતુ એક કડવી વાસ્તવિકતા છે. આજે પણ લોકો અને આવી પરંપરાઓ નિભાવવામાં આવી રહી છે અને ત્યાંની સરકાર ઈચ્છીને પણ કંઈ કરી શકતી નથી. ચાલો જાણીએ આવા જ એક દીપની કહાની, જ્યાં હજુ પણ ગુલામો જીવે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/an-island-of-slaves-here-children-become-the-property-of-their-owners-as-soon-as-they-are-born-where-the-ata-practice-still-exists-today-486319 ",
+    "time": "2026-07-31T17:30:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "કોણ છે અસ્મિતા ડે? સાઇકલ બનાવનારની પુત્રી બની &amp;#039;જૂડો ક્વીન&amp;#039;, કોમનવેલ્થ ગેમ્સમાં ભારતે પહેલીવાર જીત્યો ગોલ્ડ મેડલ",
+    "desc": "કોમનવેલ્થ ગેમ્સ 2026માં ત્રિપુરાની અસ્મિતા ડેએ ઇતિહાસ રચ્યો છે. અસ્મિતા ડેએ જૂડોમાં ગોલ્ડ મેડલ જીતનારી પહેલી ભારતીય ખેલાડી બની ગઈ છે. એક સાધારણ પરિવારમાં જન્મેલી અસ્મિતાના પિતા સાઇકલ મિકેનિક છે અને તેમણે આર્થિક પડકારોનો સામનો કરીને જૂડોને અપનાવ્યું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/who-is-asmita-de-cycle-maker-daughter-becomes-judo-queen-india-wins-first-commonwealth-games-gold-medal-486318 ",
+    "time": "2026-07-31T17:08:56.000Z"
+  },
+  {
     "cat": "Business",
     "title": "આવતીકાલથી તત્કાલ ટિકિટના નવા નિયમો, ટોકન વિના બુકિંગ નહીં, એસી અને સ્લીપર માટે અલગ અલગ ટાઈમ, જાણો",
     "desc": "જો તમે ટ્રેનમાં મુસાફરી કરવાનું વિચારી રહ્યા છો, તો 1 ઓગસ્ટથી અમલમાં આવનારા તત્કાલ ટિકિટ બુકિંગ માટેના નવા નિયમો વિશે જાણવાનું ભૂલશો નહીં. રેલ્વેએ તત્કાલ ટિકિટ માટે નવી ટોકન સિસ્ટમ લાગુ કરી છે. નવા નિયમો હેઠળ, એસી અને સ્લીપર કોચ માટે ટોકન સમય અલગ અલગ છે.",
@@ -342,15 +360,6 @@ const newsData_gu = [
     "time": "2026-07-28T14:39:30.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "દિલ્હી કે પછી ચેન્નાઈ... કઈ ટીમમાં થશે હાર્દિક પંડ્યાની એન્ટ્રી? પૂર્વ ભારતીય દિગ્ગજે કર્યા મોટા ખુલાસા!",
-    "desc": "દિલ્હી કેપિટલ્સની ટીમે ઓક્શન પહેલા જ ટ્રેડમાં રિષભ પંતને પોતાની સાથે જોડવામાં સફળતા મેળવી છે. હવે એવા રિપોર્ટ છે કે, પંત પછી દિલ્હીની નજર મુંબઈના કેપ્ટન હાર્દિક પંડ્યા પર છે. દિલ્હી અને મુંબઈ વચ્ચે હાર્દિક પંડ્યાના ટ્રેડને લઈને વાતચીત ચાલી રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ipl-trade-delhi-or-chennai-which-team-will-hardik-pandya-enter-former-indian-legend-made-a-big-revelation-486024 ",
-    "time": "2026-07-28T13:18:17.000Z"
-  },
-  {
     "cat": "Business",
     "title": "હવે રસોઈ ગેસની ચિંતા થશે દૂર, LPGને લઈને સરકારનો મોટો નિર્ણય! મધ્ય પૂર્વના યુદ્ધના ખતરા વચ્ચે ભારતનો પાવર પ્લાન",
     "desc": "ભારત સરકારે રસોઈ ગેસ અંગે એક મોટો નિર્ણય લીધો છે. સરકાર 2027 સુધીમાં કુલ LPG (રાંધણ ગેસ) આયાતનો આશરે 25% હિસ્સો અમેરિકા પાસેથી ખરીદવાની તૈયારી કરી રહી છે. આ પગલાનો હેતુ મધ્ય પૂર્વ પર નિર્ભરતા ઘટાડવા, ઊર્જા સુરક્ષા વધારવા અને અમેરિકા સાથે વેપાર સંબંધોને વધુ મજબૂત બનાવવાનો છે.",
@@ -376,15 +385,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/huge-investment-from-investors-on-this-ipo-100-filled-in-just-1-hour-gmp-gave-signs-of-huge-earnings-486000 ",
     "time": "2026-07-28T08:48:40.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સોના-ચાંદીના ભાવ ધડામ, એક ઝટકે ભાવમાં મોટો કડાકો, જાણો કેરેટ પ્રમાણે સોનાનો આજનો ભાવ",
-    "desc": "સોના અને ચાંદીના ભાવમાં જબરદસ્ત કડાકો જોવા મળ્યો છે. વૈશ્વિક બજારની સાથે સાથે ભારતીય બજારોમાં પણ ભાવ ખુબ ગગડ્યા છે. ત્યારે જાણો વળી પાછા સોનાના ભાવ કેમ પછડાયા અને રિટેલ બજાર તથા વાયદા બજારમાં શું ભાવ ચાલે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-drop-sharply-today-check-mcx-ibja-latest-rates-aaj-no-sona-no-bhav-485988 ",
-    "time": "2026-07-28T08:04:12.000Z"
   },
   {
     "cat": "Tech",
@@ -547,15 +547,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/cruise-missile-attack-on-ship-carrying-grain-from-ukraine-10-dead-including-4-indian-citizens-kiev-lashes-out-at-russia-485280 ",
     "time": "2026-07-20T17:20:31.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ઈમરાન ખાનની બહેનના ખુલાસાથી પાકિસ્તાનમાં રાજકીય ભૂકંપ, PAK સેનાની ખોલી પોલ",
-    "desc": "પૂર્વ પ્રધાનમંત્રી ઈમરાન ખાનની બહેન નૌરીન નિયાઝીએ આપેલા નિવેદનથી પાકિસ્તાનમાં વિવાદ ઉભો થયો છે. એક ઇન્ટરવ્યુમાં નિયાઝીએ દાવો કર્યો હતો કે, મે 2025માં ભારતના ઓપરેશન સિંદૂર સામે પાકિસ્તાની સેના સંપૂર્ણપણે બેકફૂટ પર આવી ગઈ હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/imran-khan-sister-exposes-pakistan-army-sparks-major-row-485173 ",
-    "time": "2026-07-19T15:32:35.000Z"
   },
   {
     "cat": "Tech",

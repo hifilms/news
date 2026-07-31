@@ -1,21 +1,156 @@
 const newsData_en = [
   {
-    "cat": "Politics",
-    "title": "Technical snags in Vahan, Sarathi portals hit Kerala MVD",
-    "desc": "Frequent downtime disrupts vehicle registration, driving licence and e-challan services, officials say; MVD urges Centre and NIC to improve portals, audit websites and address unresolved software issues; officials attribute recurring problems to system overload, poor connectivity and obsolete ICT devices",
-    "img": "https://th-i.thgim.com/public/incoming/pa0hng/article71291763.ece/alternates/LANDSCAPE_1200/Traffic_01.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/technical-snags-in-vahan-sarathi-portals-hit-kerala-mvd/article71291105.ece",
-    "time": "2026-07-31T16:33:38.000Z"
+    "cat": "Sports",
+    "title": "Dilip Tirkey questions process, his federation cites precedent",
+    "desc": "Hockey India president Dilip Tirkey questioned the jersey colour change process. He stated the decision lacked executive board discussion and his prior knowledge. Executive director RK Srivastava defended the saffron kit based on technical and performance factors. Other board members also raised concerns about transparency and accountability. This controversy emerges amid ongoing governance scrutiny for Hockey India.",
+    "img": "https://static.toiimg.com/photo/msid-132775216,imgsize-44555.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/hockey-jersey-row-hi-president-dilip-tirkey-questions-process-his-federation-cites-precedent/articleshow/132775211.cms",
+    "time": "2026-07-31T18:31:32.000Z"
   },
   {
     "cat": "Politics",
-    "title": "two decades later, all accused who faced trial in constable murder case acquitted;  Geethanandan, three others convicted in related offences",
-    "desc": "​Writing the long-awaited verdict, Judge E. Ayyoobkhan set all of them free, as the prosecution had failed to prove beyond reasonable doubt that there had been a prior conspiracy to murder the police officer. Though the court found Ashokan, the second accused, guilty of delivering the fatal blow to Vinod’s head, the murder charge against him had to be abated as he died during the trial",
-    "img": "https://th-i.thgim.com/public/incoming/crugbc/article71289416.ece/alternates/LANDSCAPE_1200/geethanandan1.jpg",
+    "title": "J&amp;K: Properties of 11 Pak-based terrorist handlers attached in Ramban",
+    "desc": "Jammu and Kashmir Police attached properties of eleven Pakistan-based terrorist handlers in Ramban district. These assets, valued at approximately Rs 90.7 lakh, were seized to prevent terror financing activities. Credible evidence established the accused were operating as handlers from across the border. This action is part of ongoing efforts to dismantle cross-border terror networks. Similar property attachments were carried out in Reasi and Ramban districts recently.",
+    "img": "https://static.toiimg.com/photo/msid-132775118,imgsize-371789.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jk-properties-of-11-pak-based-terrorist-handlers-attached-in-ramban/articleshow/132775139.cms",
+    "time": "2026-07-31T18:28:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Collectors and craftsmen keep fountain pens alive in Hyderabad",
+    "desc": "At the Hyderabad Fountain Pen Club’s monthly gatherings, collectors, hobbyists and craftsmen come together to share pens, inks and paper, exchange stories and celebrate the art of handwriting. Their passion is complemented by the work of veteran city penmakers who continue to handcraft ebonite fountain pens using time-honoured techniques, keeping alive a tradition that has endured well into the digital age",
+    "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/two-decades-later-56-accused-in-constable-vinod-murder-case-acquitted/article71289362.ece",
-    "time": "2026-07-31T16:32:34.000Z"
+    "url": "https://www.thehindu.com/news/cities/Hyderabad/let-the-ink-flow-collectors-and-craftsmen-keep-fountain-pens-alive-in-hyderabad/article71282889.ece",
+    "time": "2026-07-31T18:24:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Chhattisgarh worker shot dead, another wounded in first J&amp;K terror attack on migrants in 21 months",
+    "desc": "Terrorists shot dead a 24-year-old labourer from Chhattisgarh in Kulgam. Another worker from the same state was critically wounded in the attack. Security forces have launched operations to trace the attackers responsible for this incident. This incident marks the first fatal attack on migrant workers since October 18. Officials condemned the attack and directed security forces to intensify operations.",
+    "img": "https://static.toiimg.com/photo/msid-132775068,imgsize-1133585.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/chhattisgarh-worker-shot-dead-another-wounded-in-first-jk-terror-attack-on-migrants-in-21-months/articleshow/132775060.cms",
+    "time": "2026-07-31T18:22:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A genetic blueprint for saving Asia’s iconic hornbills",
+    "desc": "A new study by researchers from CCMB-Hyderabad, and the Nature Conservation Foundation- Mysore has decoded the complete genomes of four species, offering fresh insights into their evolution and population history over millions of years. The findings reveal how past climatic shifts shaped hornbill populations and provide valuable genetic resources to guide conservation strategies for these ecologically important seed dispersers",
+    "img": "https://th-i.thgim.com/public/incoming/tp895l/article71290807.ece/alternates/LANDSCAPE_1200/26TH_EXPLAINER-GEQF306MK.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Hyderabad/a-genetic-blueprint-for-saving-asias-iconic-hornbills/article71290402.ece",
+    "time": "2026-07-31T18:17:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delayed aid, prolonged ordeal",
+    "desc": "For tuberculosis (TB) patients from economically backward regions, financial assistance through government initiatives is as crucial as medication. Delays in disbursing aid are affecting the recovery of patients from across the State as they struggle to afford nutritious food and travel for treatment, writes Nellore Sravani",
+    "img": "https://th-i.thgim.com/public/incoming/cd518x/article71287570.ece/alternates/LANDSCAPE_1200/vjkvg-tb%205.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/delayed-aid-prolonged-ordeal/article71286239.ece",
+    "time": "2026-07-31T18:16:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Modi hails India’s first-ever judo double gold at Commonwealth Games",
+    "desc": "India celebrated a historic judo double gold at the 2026 Commonwealth Games in Glasgow as Harsh Singh and Asmita Dey won their respective finals. Harsh defeated Australia's Joshua Katz in the men's 60kg category, while Asmita overcame Canada's Heidi Quach in Golden Score. Their victories marked India's first-ever double judo gold at a single Commonwealth Games, taking the medal tally to 19.",
+    "img": "https://static.toiimg.com/photo/msid-132774366,imgsize-1069005.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/historic-day-for-indian-judo-modi-hails-indias-first-ever-judo-double-gold-at-commonwealth-games/articleshow/132773792.cms",
+    "time": "2026-07-31T17:45:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I felt that everything was over': Asmita remembers late father after historic judo gold",
+    "desc": "Asmita Dey secured India's first judo gold medal at the Commonwealth Games. She defeated Canada's Heidi Quach in a gripping golden score final match. This historic victory came after overcoming personal tragedy and immense dedication. Harsh Singh also won a gold medal in the men's 60kg judo event. These twin triumphs marked a significant breakthrough for Indian judo.",
+    "img": "https://static.toiimg.com/photo/msid-132773822,imgsize-135342.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/i-felt-that-everything-was-over-asmita-dey-remembers-late-father-after-historic-cwg-judo-gold/articleshow/132773831.cms",
+    "time": "2026-07-31T17:25:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Hubballi-Dharwad Municipal Corporation Commissioner pulls up Larsen & Toubro over delay in issuing water bills",
+    "desc": "Hubballi-Dharwad Municipal Corporation Commissioner Rudresh Ghali on Friday directed Larsen & Toubro, the agency implementing the 24/7 water supply project, to issue water bills to consumers immediately after providing connections, saying the delay was resulting in revenue loss to the civic body",
+    "img": "https://th-i.thgim.com/public/incoming/3hemve/article71292024.ece/alternates/LANDSCAPE_1200/2699_31_7_2026_19_40_37_1_01HUBLIMAYORDURGAMMA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/hubballi-dharwad-municipal-corporation-commissioner-pulls-up-larsen-toubro-over-delay-in-issuing-water-bills/article71291288.ece",
+    "time": "2026-07-31T17:24:49.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. lawmaker urges Taiwan to pass drone Bill, warning 'time is short'",
+    "desc": "China claims Taiwan is part of its territory and has threatened to use force to seize it. Taiwan has ramped up its defence spending in recent years, but remains reliant on U.S. security support to deter Beijing",
+    "img": "https://th-i.thgim.com/public/incoming/osr9o9/article71292022.ece/alternates/LANDSCAPE_1200/Taiwan_US_Representatives_7_956.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-lawmaker-urges-taiwan-to-pass-drone-bill-warning-time-is-short/article71291988.ece",
+    "time": "2026-07-31T17:23:37.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Myanmar's President outlines policy road map, criticises ASEAN peace plan",
+    "desc": "President Min Aung Hlaing said he would spend two years accelerating efforts to build a modern and developed nation based on democracy and a federal system, followed by another three years carrying out build-up at full speed.",
+    "img": "https://th-i.thgim.com/public/incoming/m9orwq/article71292009.ece/alternates/LANDSCAPE_1200/Myanmar_Politics_224_2.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/myanmars-president-outlines-policy-road-map-criticises-asean-peace-plan/article71292005.ece",
+    "time": "2026-07-31T17:21:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Storage increases by 2 per cent in Idukki reservoir",
+    "desc": "According to data from the Kerala State Electricity Board (KSEB) Dam Safety Wing, the water level in the dam reached 2,330.90 feet (31% capacity) on Friday, compared to 2,375.98 feet (70% capacity) on the same day last year.",
+    "img": "https://th-i.thgim.com/public/incoming/nn5idy/article71292002.ece/alternates/LANDSCAPE_1200/80693_31_7_2026_19_34_42_1_RESERVOIR.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/storage-increases-by-2-per-cent-in-idukki-reservoir/article71290971.ece",
+    "time": "2026-07-31T17:18:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "IMD forecasts ‘below normal’ rainfall in August",
+    "desc": "After a deficit in June and recovery in July, August rains are predicted at 94% of average; temperatures are likely to be high; western India is likely to be the worst-hit during the second half of the southwest monsoon",
+    "img": "https://th-i.thgim.com/public/incoming/br7aki/article71291855.ece/alternates/LANDSCAPE_1200/20260731328L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/imd-forecasts-below-normal-rainfall-in-august/article71291310.ece",
+    "time": "2026-07-31T17:04:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "History of Cauvery water-sharing talks between Tamil Nadu and Karnataka",
+    "desc": "Archived records from The Hindu show that in the mid-1980s, then-Chief Minister M.G. Ramachandran, or MGR, repeatedly sent senior ministers to Karnataka to seek the release of Cauvery water to protect paddy crops in the delta region. We look back at past diplomatic efforts between the two neighbouring States over the sharing of Cauvery waters.",
+    "img": "https://th-i.thgim.com/public/incoming/3o1ys4/article71291970.ece/alternates/LANDSCAPE_1200/cauvery%20MGR.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-history-of-cauvery-water-sharing-talks-between-tamil-nadu-and-karnataka/article71291969.ece",
+    "time": "2026-07-31T16:59:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mukesh calls CJP 'sponsored' amid abusive language against PM Modi",
+    "desc": "Veteran actor Mukesh Khanna has weighed in on the ongoing controversy surrounding the recent Gen Z protests, reacting to the self-styled Cockroach Janta Party (CJP) and backing criticism over the alleged use of abusive language against Prime Minister Narendra Modi. The actor described some protesters as \"cockroaches\" and alleged that they did not represent genuine students. His comments come days after actress-politician Kangana Ranaut sparked a row by referring to some protesters as \"gutter chhaap\" and condemning the language used during the demonstrations and on social media.",
+    "img": "https://static.toiimg.com/photo/msid-132773084,imgsize-79376.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mukesh-khanna-calls-cjp-sponsored-says-they-dont-represent-students-or-gen-z-amid-abusive-language-against-pm-narendra-modi-ye-log-sarkar-girane-/articleshow/132772933.cms",
+    "time": "2026-07-31T16:56:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tamim Iqbal hopeful as BCB turns to government over India's Bangladesh tour",
+    "desc": "Bangladesh Cricket Board president Tamim Iqbal is seeking government help to confirm India's tour. The board wants official communication to reassure New Delhi about hosting the series. Recent diplomatic developments have fueled optimism for the postponed cricket matches. India invited Bangladesh's Prime Minister to a summit, and relations are being reset. This progress may translate into sporting action for the subcontinent's major bilateral series.",
+    "img": "https://static.toiimg.com/photo/msid-132773021,imgsize-37993.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/tamim-iqbal-hopeful-as-bcb-turns-to-government-over-indias-bangladesh-tour/articleshow/132773021.cms",
+    "time": "2026-07-31T16:53:27.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump announces deal for 'complete disarmament’ of Hamas",
+    "desc": "A member of the Hamas group’s negotiating team said the movement was making “concessions for the sake of our people in the Gaza Strip, to save them from killing and displacement”. He said the issue of weapons is tied to Israel’s withdrawal, the deployment of the National Committee and reconstruction work in the territory",
+    "img": "https://th-i.thgim.com/public/incoming/wvmpd1/article71288799.ece/alternates/LANDSCAPE_1200/2026-07-30T182050Z_1063475432_RC2HOMAOXQBM_RTRMADP_3_USA-TRUMP.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trump-announces-agreement-for-disarmament-of-hamas/article71288798.ece",
+    "time": "2026-07-31T16:31:55.000Z"
   },
   {
     "cat": "Sports",
@@ -25,24 +160,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/isl-jamshedpur-fc-pull-out-of-2026-27-season-inter-kashi-pay-rs-55-lakh-participation-fees/articleshow/132772245.cms",
     "time": "2026-07-31T16:30:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "IMD forecasts ‘below normal’ rainfall in August",
-    "desc": "After a deficit in June and recovery in July, August rains are predicted at 94% of average; temperatures are likely to be high; western India is likely to be the worst-hit during the second half of the southwest monsoon",
-    "img": "https://th-i.thgim.com/public/incoming/br7aki/article71291855.ece/alternates/LANDSCAPE_1200/20260731328L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/imd-forecasts-below-normal-rainfall-in-august/article71291310.ece",
-    "time": "2026-07-31T16:25:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Asmita Dey, Harsh Singh make history as India’s first gold medallists in judo at Commonwealth Games",
-    "desc": "Harsh Singh clinched a historic gold at the Commonwealth Games as he became the first male judoka from the country to win the title, pulling off an upset win over Australia’s vastly experienced Joshua Katz in the men’s -60kg final",
-    "img": "https://th-i.thgim.com/public/incoming/jramg/article71291753.ece/alternates/LANDSCAPE_1200/PTI07_31_2026_000396A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/asmita-dey-becomes-first-indian-to-win-judo-gold-medal-at-commonwealth-games/article71291697.ece",
-    "time": "2026-07-31T16:23:50.000Z"
   },
   {
     "cat": "Sports",
@@ -63,24 +180,6 @@ const newsData_en = [
     "time": "2026-07-31T16:06:33.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Author Taslima Nasrin returns to Kolkata after 19 years, welcomed by BJP",
-    "desc": "The author will participate in an event at Kolkata’s Rabindra Sadan on Saturday, where Chief Minister Suvendu Adhikari is likely to be present; Ms. Nasrin had to leave Kolkata in November 2007, when violence erupted in the city after some organisations called for action against the author over her writings",
-    "img": "https://th-i.thgim.com/public/incoming/if69v3/article71289691.ece/alternates/LANDSCAPE_1200/20260731109L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/author-taslima-nasrin-returns-to-kolkata-after-19-years-sets-stage-for-politically-symbolic-homecoming-event/article71289681.ece",
-    "time": "2026-07-31T16:00:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala’s Thiruvananthapuram Mayor leans on United Democratic Front government circular to grant 6 months leave to councillor R. Sugathan who is jailed under KAAPA",
-    "desc": "In response to Sugathan's leave application, the UDF government issued a circular on July 20, 2026. Although the Home department rejected the application, it suggested that he can approach the Corporation council through the jail superintendent",
-    "img": "https://th-i.thgim.com/public/incoming/bso1fi/article71291708.ece/alternates/LANDSCAPE_1200/NH31Corporation06.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/keralas-thiruvananthapuram-mayor-leans-on-united-democratic-front-government-circular-to-grant-6-months-leave-to-councillor-r-sugathan-who-is-jailed-under-kaapa/article71289881.ece",
-    "time": "2026-07-31T15:57:30.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Why sanctions Bill for tariffs on Russian oil buyers may fail House test",
     "desc": "Lawmakers from both parties, along with industry trade groups, have raised concerns over a section of the legislation that would allow Trump to impose hefty tariffs on countries that buy significant volumes of Russian oil and gas.",
@@ -97,24 +196,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandanna-suffers-major-hip-injury-on-set-doctors-advise-six-weeks-of-rest/articleshow/132771670.cms",
     "time": "2026-07-31T15:46:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Election victories of Kerala MLAs challenged in High Court",
-    "desc": "Wins of Nemom MLA Rajeev Chandrasekhar, Kazhakuttam MLA V. Muraleedharan, Manalur MLA C. Ravindranath, Guruvayur MLA N.K. Akbar, Kuttanad MLA Reji Cheriyan, and Thrissur MLA Rajan J. Pallan in the May 2026 Assembly elections challenged",
-    "img": "https://th-i.thgim.com/public/incoming/sk9ud8/article71291627.ece/alternates/LANDSCAPE_1200/Kerala%20HC%20%20%20-%20R%20K%20Nithin.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/election-victories-of-kerala-mlas-challenged-in-high-court/article71291460.ece",
-    "time": "2026-07-31T15:45:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "High Court directs Chief Secretary to constitute high-level committee to undertake comprehensive review of the functioning of DVAC",
-    "desc": "The committee, to be headed by the Chief Secretary himself, will review how the DVAC functions, especially with reference to aspects such as leadership and institutional governance, strengthening of institutional capacity, investigation, and preventive vigilance, administrative reforms, and technology and public interface",
-    "img": "https://th-i.thgim.com/public/incoming/8d06e2/article71291431.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiGKIG90C25.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Madurai/high-court-directs-chief-secretary-to-constitute-high-level-committee-to-undertake-comprehensive-review-of-the-functioning-of-dvac/article71291159.ece",
-    "time": "2026-07-31T15:44:18.000Z"
   },
   {
     "cat": "Sports",
@@ -135,24 +216,6 @@ const newsData_en = [
     "time": "2026-07-31T15:35:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kerala to approach Centre after completing preparatory studies for financial aid for Port City project",
-    "desc": "The Centre had informed the State that the memorandum submitted to it lacked feasibility study, techno-economic report or DPR in respect of specified projects, and therefore it is not possible to give specific commitment for financial support or timelines at this stage",
-    "img": "https://th-i.thgim.com/public/incoming/9zgn9e/article71290653.ece/alternates/LANDSCAPE_1200/Stake-sale-at-VGEVG9FJ28.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/the-hindu-impact-kerala-to-approach-centre-after-completing-preparatory-studies-for-financial-aid-for-port-city-project/article71290469.ece",
-    "time": "2026-07-31T15:30:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala High Court orders panchayat to compensate stray dog attack victim",
-    "desc": "The Kerala High Court has ordered the Eruvessy grama panchayat to compensate ₹10,000 to a victim of a stray dog attack dating back to 2007, citing the local body’s failure to fulfill its legal responsibilities.",
-    "img": "https://th-i.thgim.com/public/incoming/87ayid/article71291564.ece/alternates/LANDSCAPE_1200/IMG_iStock-1180115888_2_1_4QBLE3QL.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-orders-panchayat-to-compensate-stray-dog-attack-victim/article71290311.ece",
-    "time": "2026-07-31T15:29:37.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India likely to play waiting game with Bumrah for Sri Lanka Tests",
     "desc": "The 32-year-old was picked in the Shubman Gill-led squad for the series, but subject to fitness clearance. Bumrah missed the third ODI against England at Lord's due to an \"impact injury\" to his left knee but looked very sharp in the two fixtures he did play.",
@@ -160,15 +223,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/india-likely-to-play-waiting-game-with-jasprit-bumrah-for-sri-lanka-tests-exclusive/articleshow/132771076.cms",
     "time": "2026-07-31T15:23:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "3,71,38,182 voters in Andhra Pradesh as per draft Special Intensive Revision of electoral rolls",
-    "desc": "There are 1,82,06,954 male voters, 1,89,28,492 female and 2,736 of the third gender besides 64,502 service electors, says CEO; those who couldn't submit filled-in enumeration forms earlier, can file Form-6 along with prescribed declaration forms for inclusion during claims and objections period from July 31 to Aug. 30",
-    "img": "https://th-i.thgim.com/public/incoming/mw6as8/article71291446.ece/alternates/LANDSCAPE_1200/vjkvg-crda%201.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/37138182-voters-in-andhra-pradesh-as-per-draft-special-intensive-revision-of-electoral-rolls/article71290748.ece",
-    "time": "2026-07-31T15:18:22.000Z"
   },
   {
     "cat": "Sports",
@@ -298,15 +352,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'Not able to eat properly': Preeti reveals weight-cut struggle after reaching CWG final",
-    "desc": "Preeti became the first Indian boxer to reach the final in Glasgow after defeating Zambia's Catherine Mwape 5-0 in the women's 54kg semifinal on Friday. She will face Canada's Scarlett Delgado in the gold medal bout after the Canadian defeated England's Lauren Mackie 4-1 in the other semifinal.",
-    "img": "https://static.toiimg.com/photo/msid-132767654,imgsize-446080.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/not-able-to-eat-food-properly-preeti-pawar-reveals-weight-cut-struggle-after-reaching-commonwealth-games-final/articleshow/132767724.cms",
-    "time": "2026-07-31T12:31:43.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Perfect start! Boxers Preeti Pawar, Ankush Panghal storm into CWG 2026 finals",
     "desc": "Preeti Pawar and Ankush Panghal advanced to their respective finals today. Both boxers secured commanding victories to keep gold medal hopes alive. Pawar dominated her bout, securing a unanimous decision win. Panghal also delivered a strong performance, outclassing his Canadian opponent. These wins guarantee India at least two silver medals in boxing.",
     "img": "https://static.toiimg.com/photo/msid-132767764,imgsize-146748.cms",
@@ -351,15 +396,6 @@ const newsData_en = [
     "time": "2026-07-31T12:21:47.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "FIFA finally breaks silence with defiant response to UEFA boycott threat",
-    "desc": "FIFA has defended its controversial World Cup investment proposal, insisting \"nobody is selling football\" after fierce opposition from UEFA, Concacaf and the AFC. The governing body says member associations will have the final say, but growing resistance, including the resignation of senior adviser Carlos Cordeir, has cast serious doubt over the proposal's chances of approval.",
-    "img": "https://static.toiimg.com/photo/msid-132767400,imgsize-1530105.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/nobody-is-selling-football-fifa-finally-breaks-silence-with-defiant-response-to-uefa-boycott-threat/articleshow/132766480.cms",
-    "time": "2026-07-31T12:18:20.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Preethi Sanjeev slams Prabhu Deva's Bharatanatyam recital in Chennai",
     "desc": "A recent Bharatanatyam performance by Prabhu Deva has ignited online discussion. Preethi Sanjeev voiced disappointment over the classical dance presentation. Social media users remain divided on the criticism and Prabhu Deva's intent. Some support strict adherence to classical dance traditions and grammar. Others defend the performance as a tribute and acknowledge his contributions.",
@@ -387,15 +423,6 @@ const newsData_en = [
     "time": "2026-07-31T12:17:28.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘Love Island USA’ pair Clarke Carraway and Taylor Williams split",
-    "desc": "Love Island USA stars Clarke Carraway and Taylor Williams have ended their relationship. The couple, who met on the show, decided to part ways amicably. Their romance blossomed after Carraway entered the villa as a bombshell contestant. Williams supported Carraway after a horse-riding accident, strengthening their bond. Both stars are now focusing on their individual futures and personal growth.",
-    "img": "https://static.toiimg.com/photo/msid-132766558,imgsize-199098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/love-island-usa-pair-clarke-carraway-and-taylor-williams-split-9-months-after-casa-amor-romance/articleshow/132766466.cms",
-    "time": "2026-07-31T11:45:41.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Why Tahir Hussain escaped death penalty in IB officer Ankit Sharma murder case",
     "desc": "A Delhi court sentenced Tahir Hussain and four others to life imprisonment. They were convicted for the murder of IB officer Ankit Sharma. The court rejected the death penalty, citing reformation possibilities. The prosecution argued the case was rarest of rare. The conviction occurred after the 2020 northeast Delhi riots.",
@@ -403,15 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/delhi-riots-2020-why-tahir-hussain-escaped-death-penalty-in-ib-officer-ankit-sharma-murder-case/articleshow/132766366.cms",
     "time": "2026-07-31T11:42:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Stands in solidarity’: AFC joins UEFA, CONCACAF in opposing FIFA's World Cup plan",
-    "desc": "The Asian Football Confederation opposes FIFA's plan for private investors in commercial rights. This move escalates resistance to FIFA president Gianni Infantino's ambitious commercial proposal. AFC stands in solidarity with UEFA and CONCACAF against the plan. The continental body also called for an urgent review of FIFA's governance. FIFA defends its proposal, stating media reports distorted its intentions.",
-    "img": "https://static.toiimg.com/photo/msid-132766437,imgsize-40628.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/stands-in-solidarity-afc-joins-uefa-concacaf-in-opposing-fifas-world-cup-investment-plan/articleshow/132766393.cms",
-    "time": "2026-07-31T11:40:46.000Z"
   },
   {
     "cat": "Entertainment",
@@ -423,15 +441,6 @@ const newsData_en = [
     "time": "2026-07-31T11:39:01.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Infantino’s closest adviser quits, denounces World Cup plan as ‘bad deal for football’",
-    "desc": "Carlos Cordeiro, one of Gianni Infantino's closest advisers, has resigned in protest over FIFA's controversial World Cup investment proposal, calling it \"a bad deal for football\" and questioning its governance. His departure adds to mounting opposition from UEFA, Concacaf and the AFC, leaving FIFA facing growing internal and external resistance ahead of a crucial member vote.",
-    "img": "https://static.toiimg.com/photo/msid-132765583,imgsize-1021473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/infantinos-inner-circle-cracks-top-fifa-adviser-quits-denounces-world-cup-plan-as-a-bad-deal-for-football/articleshow/132764178.cms",
-    "time": "2026-07-31T11:14:35.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Amid Ramayana trailer, Kangana drops PIC as Sita: 'Aashirwaad to all liberals'",
     "desc": "Kangana Ranaut shared a childhood photograph from a 1997 school play. She portrayed Goddess Sita in the Ramayana during her school days. This memory surfaced amid discussions surrounding the recent Ramayana trailer release. The actress also recently criticized Gen Z protesters in social media posts. Ranaut was last seen in the medical drama-thriller Bharat Bhagya Vidhata.",
@@ -439,24 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amid-ranbir-kapoors-ramayana-trailer-launch-kangana-ranaut-reveals-she-played-sita-drops-pics-from-1997-gives-aashirwad-to-all-the-liberals/articleshow/132765236.cms",
     "time": "2026-07-31T10:57:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Ethanol blending saved consumers Rs 30/litre during crude spike: Govt",
-    "desc": "The petroleum ministry defended India's ethanol blending program on Friday. It stated that blending saved consumers nearly thirty rupees per litre. Food security obligations always take precedence over ethanol production needs. Rice is only one approved feedstock, used when surplus stocks are available. Ethanol blending acts as insurance against global oil price shocks.",
-    "img": "https://static.toiimg.com/photo/msid-132764852,imgsize-1092263.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ethanol-blending-saved-consumers-rs-30/litre-during-crude-spike-govt/articleshow/132764857.cms",
-    "time": "2026-07-31T10:43:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India, Bhutan sign Rs 4,000-crore credit pact, review development projects",
-    "desc": "India and Bhutan reviewed development projects and signed a Rs 4,000-crore credit line. They also expanded cooperation in the health sector and approved new projects. India provided financial and technical assistance for various initiatives. Electric vehicles were handed over as part of green mobility support. The two nations also inaugurated new parks developed under Indian funding.",
-    "img": "https://static.toiimg.com/photo/msid-132764679,imgsize-1206015.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-bhutan-sign-rs-4000-crore-credit-pact-review-development-projects/articleshow/132764264.cms",
-    "time": "2026-07-31T10:35:37.000Z"
   },
   {
     "cat": "Entertainment",
@@ -514,15 +505,6 @@ const newsData_en = [
   },
   {
     "cat": "World",
-    "title": "Trump announces deal for 'complete disarmament’ of Hamas",
-    "desc": "A member of the Hamas group’s negotiating team said the movement was making “concessions for the sake of our people in the Gaza Strip, to save them from killing and displacement”. He said the issue of weapons is tied to Israel’s withdrawal, the deployment of the National Committee and reconstruction work in the territory",
-    "img": "https://th-i.thgim.com/public/incoming/wvmpd1/article71288799.ece/alternates/LANDSCAPE_1200/2026-07-30T182050Z_1063475432_RC2HOMAOXQBM_RTRMADP_3_USA-TRUMP.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-announces-agreement-for-disarmament-of-hamas/article71288798.ece",
-    "time": "2026-07-31T05:55:23.000Z"
-  },
-  {
-    "cat": "World",
     "title": "Why was Trump’s H-1B fee struck down?",
     "desc": "What is the H-1B visa programme and who uses it? Why did the Trump administration impose the $100,000 fee? What impact was the policy expected to have on States and employers? Did the President have the authority to impose the fee? Why did the court classify the charge as a tax rather than a penalty?",
     "img": "https://th-i.thgim.com/public/incoming/igk8h0/article71112269.ece/alternates/LANDSCAPE_1200/iStock-1264230781.jpg",
@@ -538,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/seeking-job-in-us-trump-weighs-100000-work-permit-fee-from-foreign-graduates/articleshow/132753768.cms",
     "time": "2026-07-31T03:35:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When is Neeraj Chopra's Commonwealth Games 2026 javelin final? All you need to know",
-    "desc": "Neeraj Chopra will compete in the Commonwealth Games 2026 javelin final on August 1. He qualified with a throw of 79.61m amidst difficult stadium conditions. Chopra faces strong competition from Arshad Nadeem and Keshorn Walcott. The final will be held at Scotstoun Stadium in Glasgow, Scotland. Fans can watch the event live on Sony Sports channels and SonyLIV.",
-    "img": "https://static.toiimg.com/photo/msid-132753256,imgsize-37115.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/neeraj-chopra-commonwealth-games-2026-final-date-time-live-streaming-and-all-you-need-to-know/articleshow/132753231.cms",
-    "time": "2026-07-31T01:37:33.000Z"
   },
   {
     "cat": "Business",
@@ -628,15 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/formal-retail-credit-access-doubles-over-past-decade/articleshow/132752534.cms",
     "time": "2026-07-30T23:26:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Where India stand after Lovepreet’s record silver and Seema’s hard-fought bronze",
-    "desc": "India added two medals on Day 8 of the 2026 Commonwealth Games, with Lovepreet Singh winning silver in the men’s +110kg weightlifting final after a record-breaking performance and Seema Kaliramna claiming discus bronze. India’s tally rose to 17 medals (3 gold, 10 silver, 4 bronze), while Tejaswin Shankar remained in medal contention in the decathlon and Neeraj Chopra advanced to the javelin final.",
-    "img": "https://static.toiimg.com/photo/msid-132752354,imgsize-1140538.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-day-8-medal-table-where-india-stand-after-lovepreets-record-silver-and-seemas-hard-fought-bronze/articleshow/132749926.cms",
-    "time": "2026-07-30T22:16:58.000Z"
   },
   {
     "cat": "Sports",

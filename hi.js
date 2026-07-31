@@ -1,7 +1,16 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Harsh Singh scripts history to win gold in Judo at Commonwealth Games 2026",
+    "title": "Neeraj Chopra, Rohit Yadav, Yash headline as India aims gold in javelin",
+    "desc": "Neeraj Chopra headlines the men's javelin throw final at the Commonwealth Games 2026 in the early hours of August 1. Apart from Neeraj. India’s Rohit Yadav and Yash Vir Singh have also progressed for the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/commonwealth-games-2026-live-neeraj-chopra-rohit-yadav-yash-headline-as-india-aims-gold-in-javelin-1050027",
+    "time": "2026-07-31T19:04:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Asmita Dey, Harsh Singh win historic golds in Judo at Commonwealth Games 2026",
     "desc": "India's medal tally at the Commonwealth Games (CWG) 2026 in Scotland's Glasgow continued to increase on Friday after judoka Harsh Singh won a gold for the country in men's 60 kg category. Singh defeated Australia's...",
     "img": "",
     "src": "indiatvnews.com",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/check-commonwealth-games-2026-day-9-schedule-where-can-india-shine-on-july-31-2026-07-31-1049951",
     "time": "2026-07-31T06:35:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan dealt major blow, star batter ruled out of second West Indies Test due to injury",
-    "desc": "Pakistan is all set to continue its Test series against the West Indies by taking on the side in the second Test. The two sides are slated to take on each other at the Queen's...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-dealt-major-blow-star-batter-ruled-out-of-second-west-indies-test-due-to-injury-2026-07-31-1049946",
-    "time": "2026-07-31T05:29:43.000Z"
   }
 ];
