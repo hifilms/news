@@ -1,6 +1,42 @@
 const newsData_bn = [
   {
     "cat": "World",
+    "title": "কয়লাখনিতে ভয়াবহ মিথেন-বিস্ফোরণ! সঙ্গে সঙ্গে মৃত্যু ৩২ শ্রমিকের, শ্বাসরোধী অন্ধকার গর্তের ভিতরে আটকে কত?",
+    "desc": "ঘটনায় আরও ১০ জন খনির ভেতরে আটকে পড়েছেন বলে খবর। গতকাল বৃহস্পতিবার বেলুচিস্তানের রাজধানী কোয়েটার কাছে এই দুর্ঘটনাটি ঘটে। পাকিস্তান সরকারের খনি পরিদর্শক ঘানি বালুচ বলেছেন, প্রাথমিক তদন্তে মনে করা হচ্ছে, খনির ভেতরে মিথেন গ্যাস জমে এই বিস্ফোরণ হয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/pakistan-coal-mine-blast-near-quetta-kills-32-as-rescuers-search-for-trapped-miners-build-up-of-methane-gas_664825.html ",
+    "time": "2026-07-31T10:21:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'ত্রেতা যুগ নাকি ২০২৬!', 'রামায়ণ'-এর কৈকেয়ী লুকে কেন ট্রোল লারা?",
+    "desc": "পরিচালক নীতিশ তিওয়ারির ‘রামায়ণ’ ট্রেলারে লারা দত্তের 'রানি কৈকেয়ী' অবতার নিয়ে ট্রোলের বন্যা বয়ে চলেছে। আধুনিক ডিজাইনার ব্লাউজ, স্ট্রেট করা চুল ও কেতাদুরস্ত সাজগোজ নিয়ে প্রশ্ন তুলেছেন দর্শকরা। ত্রেতা যুগের পৌরাণিক চরিত্রের এই 'আধুনিক' রূপকে অনেকে একতা কাপুরের মেগা সিরিয়ালের সঙ্গে তুলনা করে কটাক্ষ করেছেন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/lara-duttas-ramayana-look-as-queen-kaikeyi-ignites-accuracy-debate-designer-blouse-styled-hair_664784.html ",
+    "time": "2026-07-31T08:22:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "চোখের সামনে ক্রেডিট কার্ড ফাঁকা!খোয়ালেন ২.৪৪ লক্ষ টাকা, চরম বিপদে কীর্তি কুলহারি!",
+    "desc": "সিনেমা হলে ছবি দেখার সময় বড়সড় সাইবার জালিয়াতির শিকার হলেন অভিনেত্রী কীর্তি কুলহারি। কোনও পিন বা ওটিপি শেয়ার না করা সত্ত্বেও তাঁর ক্রেডিট কার্ড থেকে চারবারে আড়াই লাখ টাকা গায়েব হয়ে যায়। কোনও স্পাইওয়্যারের মাধ্যমে এই প্রতারণা চালানো হয়েছে বলে অনুমান পুলিসের। আম্বোলি থানায় ইতিমধ্যেই দায়ের হয়েছে এফআইআর।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/actor-kirti-kulhari-loses-rs-2-44-lakh-in-credit-card-fraud-complaint-filed_664780.html ",
+    "time": "2026-07-31T07:52:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'আমাকে ক্ষমা কোরো মা...' শেষ ভিডিয়ো বার্তায় শ্বশুরবাড়ির ভয়ঙ্কর সত্যি ফাঁস সৃষ্টির",
+    "desc": "বিয়ের মাত্র ৮ মাসের মাথায় দেরাদুনের এক তরুণী শিক্ষিকার রহস্যমৃত্যু। মৃত্যুর ঠিক আগে মায়ের জন্য রেকর্ড করা এক জলছলছল ভিডিয়োতে কাঁপা গলায় কী বলতে চেয়েছিলেন তিনি? পুরোহিতের কথায় বিশ্বাস করে একটি পারিবারিক দুর্ঘটনার পর কেন তাঁকে 'অপয়া' বানাল শ্বশুরবাড়ি? পুলিসি তদন্তে বেরিয়ে আসছে এক হাড়হিম করা চিত্র।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/newly-wed-teacher-blames-in-laws-in-video-before-death-they-will-never-change_664776.html ",
+    "time": "2026-07-31T06:58:50.000Z"
+  },
+  {
+    "cat": "World",
     "title": "১০ দিনেই ২০০০ লোক ঢুকে পড়েছেন সীমান্ত পেরিয়ে! ৯ জনের মৃত্যু! 'চরম সামাজিক জরুরি অবস্থা'?",
     "desc": "স্পেনের স্বরাষ্ট্র মন্ত্রণালয় দেশব্যাপী জরুরি অবস্থা ঘোষণার দাবি প্রত্যাখ্যান করেছে। তারা বলেছে, অভিবাসন সংকট মোকাবিলায় জাতীয় জরুরি অবস্থা ঘোষণার বিধান প্রযোজ্য নয়। তবে পরিস্থিতি মোকাবিলায় অতিরিক্ত সহায়তা দেওয়ার প্রতিশ্রুতি দিয়েছে তারা। পরে স্বরাষ্ট্র মন্ত্রণালয় জানায়, সীমান্তে অতিরিক্ত নিরাপত্তা জোরদার করতে সশস্ত্র বাহিনী পাঠানো হবে।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -142,15 +178,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/ramayana-trailer-out-ranbir-kapoor-as-ram-yash-as-ravana-full-cast-controversies_664663.html ",
     "time": "2026-07-30T07:19:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "IRCTC-র বড় খবর! ট্রেনের টিকিট বুকিংয়ে দুর্দান্ত সুবিধা",
-    "desc": "IRCTC পোর্টালে ট্রেনের কনফার্ম টিকিটের সঙ্গে অতিরিক্ত লাগেজ বুক করার সুবিধা চালু করছে। এর ফলে যাত্রীদের আর স্টেশনে ঘণ্টার পর ঘণ্টা দীর্ঘ লাইনে দাঁড়িয়ে সময় নষ্ট করতে হবে না। যাত্রার আগেই লাগেজ বুক করা যাবে, ফলে টিটিই (TTE)-এর অহেতুক জরিমানার ভয় থাকবে না।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/indian-railways-launches-online-luggage-booking-via-irctc-portal_664635.html ",
-    "time": "2026-07-30T03:45:10.000Z"
   },
   {
     "cat": "World",
@@ -313,24 +340,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/mojtaba-khamenei-backs-hezbollah-ties-us-iran-peace-to-lebanon-ceasefire_664097.html ",
     "time": "2026-07-27T03:34:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'আমরা যদি কোনও পুরুষ মানুষকে দেখি, তার নিম্নাঙ্গে দেখি না', বিস্ফোরক শ্রীলেখা",
-    "desc": "'আমি যখন বিজেপি বিরোধী হই, অন্ধভক্ত বিরোধী হই, মোদী বিরোধী হই, আমাকে কেউ দোশদ্রোহী অ্যাখ্যা দিলে যেমন হাস্যকর ব্যাপার। একইরকম হাস্যকর হচ্ছে যদি কেউ মনে করে ওইরকম ছবি, আমি ইচ্ছা করে ছবিটাকে নিয়ে দাঁড়িয়েছি। পেটে তো একটু শিক্ষাদীক্ষা আছে'।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/sreelekha-mitra-protest-kolkata-students-narendra-modi-complaints_664078.html ",
-    "time": "2026-07-26T14:15:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "শিক্ষামন্ত্রীর ইস্তফায় বি-টাউনে উৎসব! প্রিয়াঙ্কার কুর্নিশ, বিজয় বর্মার ‘আচ্ছা চলতা হুঁ’ খোঁচা",
-    "desc": "বিতর্কের মুখে শিক্ষামন্ত্রী ধর্মেন্দ্র প্রধানের পদত্যাগে যন্তর মন্তরের পাশাপাশি উল্লাসে মেতেছে বলিউড। প্রিয়াঙ্কা চোপড়া শিক্ষার্থীদের এই জয়কে কুর্নিশ জানিয়েছেন, বিজয় বর্মা ‘আচ্ছা চলতা হুঁ’ লিখে কটাক্ষ করেছেন এবং বীর দাস একে ছাত্রশক্তির জয় আখ্যা দিয়েছেন। অন্যদিকে সিজিপি-র অভিজিৎ দীপক একে গণতন্ত্রের জয় বলে অভিহিত করেছেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/dharmendra-pradhan-resigns-priyanka-chopra-celebrates-big-win-vijay-varma-takes-dig-with-accha-chalta-hoon_663985.html ",
-    "time": "2026-07-25T11:32:45.000Z"
   },
   {
     "cat": "World",

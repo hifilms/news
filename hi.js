@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "DPL 2026 live streaming details; When and where to watch Delhi Premier League 2026 on TV and online in India?",
+    "desc": "The stage is set for yet another season of the DPL (Delhi Premier League); the tournament returns for yet another edition, and the eight competing teams will look to put in their best performance in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dpl-2026-live-streaming-details-when-and-where-to-watch-delhi-premier-league-2026-on-tv-and-online-in-india-2026-07-31-1049982",
+    "time": "2026-07-31T10:52:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Alzarri Joseph hits back at Daren Sammy, responds to latter's 'denied selection' comments",
+    "desc": "The West Indies are in the midst of a two-game Test series against Pakistan. The first Test of the series was comfortably won by the West Indies. Before the start of the series, CWI (Cricket...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/alzarri-joseph-hits-back-at-daren-sammy-responds-to-latter-s-denied-selection-comments-2026-07-31-1049975",
+    "time": "2026-07-31T09:53:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Michael Vaughan weighs in on Stephen Fleming's absence from upcoming Pakistan series",
+    "desc": "The ECB (England and Wales Cricket Board) came forward and named former New Zealand cricketer Stephen Fleming as their new Test head coach. The decision was made after Brendon McCullum stepped down from his role,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/michael-vaughan-weighs-in-on-stephen-fleming-s-absence-from-upcoming-pakistan-series-2026-07-31-1049962",
+    "time": "2026-07-31T08:40:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Legendary Milan and Italy defender Franco Baresi dies at 66, football fraternity comes forth to pay tribute",
+    "desc": "Franco Baresi, one of the greatest Italian defenders in the history of football, has tragically passed away at the age of 66. It is worth noting that Baresi underwent surgery for a lung nodule back...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/legendary-milan-and-italy-defender-franco-baresi-dies-at-66-2026-07-31-1049959",
+    "time": "2026-07-31T07:14:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Check Commonwealth Games 2026 Day 9 schedule; Where can India shine on July 31?",
+    "desc": "The stage is set for Day 9 of the ongoing Commonwealth Games 2026. The Indian contingent has been performing brilliantly at the event and has a total of 17 medals to its name so far....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/check-commonwealth-games-2026-day-9-schedule-where-can-india-shine-on-july-31-2026-07-31-1049951",
+    "time": "2026-07-31T06:35:10.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Pakistan dealt major blow, star batter ruled out of second West Indies Test due to injury",
     "desc": "Pakistan is all set to continue its Test series against the West Indies by taking on the side in the second Test. The two sides are slated to take on each other at the Queen's...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/uefa-issues-statement-threatens-to-boycott-all-fifa-events-following-discussion-of-privatising-world-cup-2026-07-30-1049914",
     "time": "2026-07-30T16:21:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Indian football team to host Brazil in FIFA friendly match in Kolkata, AIFF confirms",
-    "desc": "The All India Football Federation (AIFF) on Thursday, July 30, announced that the Indian men's football team will face five-time FIFA World Cup champions Brazil in an international friendly at Kolkata's Salt Lake Stadium on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/indian-football-team-to-host-brazil-in-fifa-friendly-match-in-kolkata-aiff-confirms-2026-07-30-1049912",
-    "time": "2026-07-30T15:25:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Two Pakistan players fined by ICC for inappropriate celebrations during first Test vs West Indies",
-    "desc": "West Indies beat Pakistan by 90 runs in the first Test at the Brian Lara Cricket Academy in Tarouba, taking a 1-0 lead in the two-match series. This marked Pakistan's eighth consecutive away Test loss....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/two-pakistan-players-fined-by-icc-for-inappropriate-celebrations-during-first-test-vs-west-indies-2026-07-30-1049908",
-    "time": "2026-07-30T14:21:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Virat Kohli calls Ajinkya Rahane 'favourite Test batting partner' after latter's retirement",
-    "desc": "Veteran India batter Ajinkya Rahane announced his retirement from all-format cricket on July 30. The 38-year-old made the announcement through a social media post, saying the time was right to “move on” from representing the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/virat-kohli-calls-ajinkya-rahane-favourite-test-batting-partner-after-latter-s-international-retirement-2026-07-30-1049902",
-    "time": "2026-07-30T13:26:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Multiple LPL franchises make late changes to squad as playoffs race heats up",
-    "desc": "Dambulla Sixers' Lanka Premier League playoff hopes are no longer in their own hands after a third successive defeat left them needing both a victory in their final league fixture and favourable results elsewhere to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/multiple-lpl-franchises-make-late-changes-to-squad-as-playoffs-race-heats-up-2026-07-30-1049895",
-    "time": "2026-07-30T12:16:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Neeraj Chopra qualifies for Commonwealth Games javelin finals, two more Indians make it to next round",
-    "desc": "Two-time Olympic medallist Neeraj Chopra advanced to the men's javelin throw final at the 2026 Commonwealth Games after registering a best effort of 79.61m in the qualification round on Friday. The Indian secured his place...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/neeraj-chopra-qualifies-for-commonwealth-games-javelin-finals-two-more-indians-make-it-to-next-round-2026-07-30-1049880",
-    "time": "2026-07-30T10:25:39.000Z"
   }
 ];
