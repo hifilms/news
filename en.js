@@ -1,12 +1,255 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Why squander public money on Bhogapuram airport inauguration, ask Left parties",
-    "desc": "The government is spending crores of rupees on arrangements despite the State’s mounting debt burden, and is mobilising students from the Agency region and deploying RTC buses and vehicles of educational institutions causing inconvenience to the public and disrupting classes",
-    "img": "https://via.placeholder.com/600x400?text=News",
+    "title": "Technical snags in Vahan, Sarathi portals hit Kerala MVD",
+    "desc": "Frequent downtime disrupts vehicle registration, driving licence and e-challan services, officials say; MVD urges Centre and NIC to improve portals, audit websites and address unresolved software issues; officials attribute recurring problems to system overload, poor connectivity and obsolete ICT devices",
+    "img": "https://th-i.thgim.com/public/incoming/pa0hng/article71291763.ece/alternates/LANDSCAPE_1200/Traffic_01.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/why-squander-public-money-on-bhogapuram-airport-inauguration-ask-left-parties/article71290454.ece",
-    "time": "2026-07-31T13:51:25.000Z"
+    "url": "https://www.thehindu.com/news/national/kerala/technical-snags-in-vahan-sarathi-portals-hit-kerala-mvd/article71291105.ece",
+    "time": "2026-07-31T16:33:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "two decades later, all accused who faced trial in constable murder case acquitted;  Geethanandan, three others convicted in related offences",
+    "desc": "​Writing the long-awaited verdict, Judge E. Ayyoobkhan set all of them free, as the prosecution had failed to prove beyond reasonable doubt that there had been a prior conspiracy to murder the police officer. Though the court found Ashokan, the second accused, guilty of delivering the fatal blow to Vinod’s head, the murder charge against him had to be abated as he died during the trial",
+    "img": "https://th-i.thgim.com/public/incoming/crugbc/article71289416.ece/alternates/LANDSCAPE_1200/geethanandan1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/two-decades-later-56-accused-in-constable-vinod-murder-case-acquitted/article71289362.ece",
+    "time": "2026-07-31T16:32:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jamshedpur FC pull out of 2026-27 season; Inter Kashi pay Rs 55 lakh participation fees",
+    "desc": "Jamshedpur FC have confirmed they will not participate in the 2026–27 Indian Super League season after opting not to pay the ₹55 lakh participation fee under the new club-led model. The former ISL Shield winners said they will continue supporting grassroots football, while honouring existing player and staff contracts. Meanwhile, Inter Kashi paid most of their fee before the extended deadline.",
+    "img": "https://static.toiimg.com/photo/msid-132772497,imgsize-954073.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/isl-jamshedpur-fc-pull-out-of-2026-27-season-inter-kashi-pay-rs-55-lakh-participation-fees/articleshow/132772245.cms",
+    "time": "2026-07-31T16:30:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "IMD forecasts ‘below normal’ rainfall in August",
+    "desc": "After a deficit in June and recovery in July, August rains are predicted at 94% of average; temperatures are likely to be high; western India is likely to be the worst-hit during the second half of the southwest monsoon",
+    "img": "https://th-i.thgim.com/public/incoming/br7aki/article71291855.ece/alternates/LANDSCAPE_1200/20260731328L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/imd-forecasts-below-normal-rainfall-in-august/article71291310.ece",
+    "time": "2026-07-31T16:25:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Asmita Dey, Harsh Singh make history as India’s first gold medallists in judo at Commonwealth Games",
+    "desc": "Harsh Singh clinched a historic gold at the Commonwealth Games as he became the first male judoka from the country to win the title, pulling off an upset win over Australia’s vastly experienced Joshua Katz in the men’s -60kg final",
+    "img": "https://th-i.thgim.com/public/incoming/jramg/article71291753.ece/alternates/LANDSCAPE_1200/PTI07_31_2026_000396A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/asmita-dey-becomes-first-indian-to-win-judo-gold-medal-at-commonwealth-games/article71291697.ece",
+    "time": "2026-07-31T16:23:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Perfect 5-0! Indian boxers storm into CWG finals after dominant semifinal sweep",
+    "desc": "India's boxing contingent achieved a flawless 5-0 record in the semifinals. Five Indian boxers have now secured spots in the gold medal bouts. Arundhati Choudhary defeated the defending champion in a significant upset victory. Jaismine Lamboria and Preeti Pawar also advanced with dominant performances. Ankush Panghal and Jadumani Singh completed the perfect sweep for India.",
+    "img": "https://static.toiimg.com/photo/msid-132772355,imgsize-46196.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/perfect-5-0-indian-boxers-storm-into-cwg-2026-finals-after-dominant-semifinal-sweep/articleshow/132772352.cms",
+    "time": "2026-07-31T16:23:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Meet the actors behind the blink-and-miss appearances in Ramayana trailer",
+    "desc": "The trailer of Nitesh Tiwari's ambitious mythological epic Ramayana has set social media abuzz since its unveiling on July 30, with fans dissecting every frame of the four-minute spectacle. While the spotlight has largely remained on Ranbir Kapoor as Lord Ram, Sai Pallavi as Sita and Yash as Ravana, several supporting actors have also caught viewers' attention despite their brief appearances.",
+    "img": "https://static.toiimg.com/photo/msid-132771965,imgsize-86637.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/from-vivek-oberoi-to-panchayats-faisal-malik-meet-the-actors-behind-the-blink-and-miss-appearances-in-ramayana-trailer/articleshow/132771885.cms",
+    "time": "2026-07-31T16:06:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Author Taslima Nasrin returns to Kolkata after 19 years, welcomed by BJP",
+    "desc": "The author will participate in an event at Kolkata’s Rabindra Sadan on Saturday, where Chief Minister Suvendu Adhikari is likely to be present; Ms. Nasrin had to leave Kolkata in November 2007, when violence erupted in the city after some organisations called for action against the author over her writings",
+    "img": "https://th-i.thgim.com/public/incoming/if69v3/article71289691.ece/alternates/LANDSCAPE_1200/20260731109L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/author-taslima-nasrin-returns-to-kolkata-after-19-years-sets-stage-for-politically-symbolic-homecoming-event/article71289681.ece",
+    "time": "2026-07-31T16:00:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala’s Thiruvananthapuram Mayor leans on United Democratic Front government circular to grant 6 months leave to councillor R. Sugathan who is jailed under KAAPA",
+    "desc": "In response to Sugathan's leave application, the UDF government issued a circular on July 20, 2026. Although the Home department rejected the application, it suggested that he can approach the Corporation council through the jail superintendent",
+    "img": "https://th-i.thgim.com/public/incoming/bso1fi/article71291708.ece/alternates/LANDSCAPE_1200/NH31Corporation06.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/keralas-thiruvananthapuram-mayor-leans-on-united-democratic-front-government-circular-to-grant-6-months-leave-to-councillor-r-sugathan-who-is-jailed-under-kaapa/article71289881.ece",
+    "time": "2026-07-31T15:57:30.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Why sanctions Bill for tariffs on Russian oil buyers may fail House test",
+    "desc": "Lawmakers from both parties, along with industry trade groups, have raised concerns over a section of the legislation that would allow Trump to impose hefty tariffs on countries that buy significant volumes of Russian oil and gas.",
+    "img": "https://static.toiimg.com/photo/msid-132771607,imgsize-365352.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/tough-road-for-trump-why-sanctions-bill-for-tariffs-on-russian-oil-buyers-may-fail-house-test/articleshow/132770964.cms",
+    "time": "2026-07-31T15:55:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rashmika Mandanna suffers major hip injury on set",
+    "desc": "Actress Rashmika Mandanna sustained a major hip injury while filming an intense dance sequence. Doctors have advised her a complete rest period of six weeks for recovery. This injury will likely impact her ongoing film schedules and endorsement commitments. Mandanna is currently working on several big-budget films and numerous brand endorsements. Fans are sending well wishes for her swift return to full fitness.",
+    "img": "https://static.toiimg.com/photo/msid-132771683,imgsize-77759.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandanna-suffers-major-hip-injury-on-set-doctors-advise-six-weeks-of-rest/articleshow/132771670.cms",
+    "time": "2026-07-31T15:46:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Election victories of Kerala MLAs challenged in High Court",
+    "desc": "Wins of Nemom MLA Rajeev Chandrasekhar, Kazhakuttam MLA V. Muraleedharan, Manalur MLA C. Ravindranath, Guruvayur MLA N.K. Akbar, Kuttanad MLA Reji Cheriyan, and Thrissur MLA Rajan J. Pallan in the May 2026 Assembly elections challenged",
+    "img": "https://th-i.thgim.com/public/incoming/sk9ud8/article71291627.ece/alternates/LANDSCAPE_1200/Kerala%20HC%20%20%20-%20R%20K%20Nithin.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/election-victories-of-kerala-mlas-challenged-in-high-court/article71291460.ece",
+    "time": "2026-07-31T15:45:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "High Court directs Chief Secretary to constitute high-level committee to undertake comprehensive review of the functioning of DVAC",
+    "desc": "The committee, to be headed by the Chief Secretary himself, will review how the DVAC functions, especially with reference to aspects such as leadership and institutional governance, strengthening of institutional capacity, investigation, and preventive vigilance, administrative reforms, and technology and public interface",
+    "img": "https://th-i.thgim.com/public/incoming/8d06e2/article71291431.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiGKIG90C25.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Madurai/high-court-directs-chief-secretary-to-constitute-high-level-committee-to-undertake-comprehensive-review-of-the-functioning-of-dvac/article71291159.ece",
+    "time": "2026-07-31T15:44:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Scotland's Melanie Woods wins gold twice after Commonwealth Games wheelchair race rerun",
+    "desc": "Scotland’s Melanie Woods won the Commonwealth Games women’s T54 1500m gold for a second time after a controversial rerun of the final. Forced to race again following a first-lap crash and appeals, Woods delivered another dominant performance, setting a new Games record. Mauritius’ Noemi Alphonse took silver and Australia’s Eliza Ault-Connell won bronze in a dramatic conclusion.",
+    "img": "https://static.toiimg.com/photo/msid-132771520,imgsize-774249.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/scotlands-melanie-woods-wins-gold-twice-after-bizarre-commonwealth-games-wheelchair-race-rerun/articleshow/132770204.cms",
+    "time": "2026-07-31T15:40:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Top 5 South stories of the day",
+    "desc": "Jana Nayagan shows were cancelled in Karnataka due to protests over the Cauvery water dispute. Kiara Advani's new poster for the film Toxic was unveiled on her birthday. Veteran singer Jamuna Rani passed away at her Bengaluru residence at age 88. Dhruv Vikram was asked by SIFCC to finish his pending film before new projects. Sandeep Reddy Vanga praised the Ramayana trailer, which went viral online.",
+    "img": "https://static.toiimg.com/photo/msid-132771437,imgsize-173507.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-shows-cancelled-kiara-advanis-toxic-poster-jamuna-rani-passes-away-top-5-south-stories-of-the-day/articleshow/132771418.cms",
+    "time": "2026-07-31T15:35:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala to approach Centre after completing preparatory studies for financial aid for Port City project",
+    "desc": "The Centre had informed the State that the memorandum submitted to it lacked feasibility study, techno-economic report or DPR in respect of specified projects, and therefore it is not possible to give specific commitment for financial support or timelines at this stage",
+    "img": "https://th-i.thgim.com/public/incoming/9zgn9e/article71290653.ece/alternates/LANDSCAPE_1200/Stake-sale-at-VGEVG9FJ28.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/the-hindu-impact-kerala-to-approach-centre-after-completing-preparatory-studies-for-financial-aid-for-port-city-project/article71290469.ece",
+    "time": "2026-07-31T15:30:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala High Court orders panchayat to compensate stray dog attack victim",
+    "desc": "The Kerala High Court has ordered the Eruvessy grama panchayat to compensate ₹10,000 to a victim of a stray dog attack dating back to 2007, citing the local body’s failure to fulfill its legal responsibilities.",
+    "img": "https://th-i.thgim.com/public/incoming/87ayid/article71291564.ece/alternates/LANDSCAPE_1200/IMG_iStock-1180115888_2_1_4QBLE3QL.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-orders-panchayat-to-compensate-stray-dog-attack-victim/article71290311.ece",
+    "time": "2026-07-31T15:29:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India likely to play waiting game with Bumrah for Sri Lanka Tests",
+    "desc": "The 32-year-old was picked in the Shubman Gill-led squad for the series, but subject to fitness clearance. Bumrah missed the third ODI against England at Lord's due to an \"impact injury\" to his left knee but looked very sharp in the two fixtures he did play.",
+    "img": "https://static.toiimg.com/photo/msid-132771012,imgsize-398792.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/india-likely-to-play-waiting-game-with-jasprit-bumrah-for-sri-lanka-tests-exclusive/articleshow/132771076.cms",
+    "time": "2026-07-31T15:23:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "3,71,38,182 voters in Andhra Pradesh as per draft Special Intensive Revision of electoral rolls",
+    "desc": "There are 1,82,06,954 male voters, 1,89,28,492 female and 2,736 of the third gender besides 64,502 service electors, says CEO; those who couldn't submit filled-in enumeration forms earlier, can file Form-6 along with prescribed declaration forms for inclusion during claims and objections period from July 31 to Aug. 30",
+    "img": "https://th-i.thgim.com/public/incoming/mw6as8/article71291446.ece/alternates/LANDSCAPE_1200/vjkvg-crda%201.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/37138182-voters-in-andhra-pradesh-as-per-draft-special-intensive-revision-of-electoral-rolls/article71290748.ece",
+    "time": "2026-07-31T15:18:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'It’s just too soon': England reveal why Brook was overlooked for Test captaincy",
+    "desc": "Root's return as full-time Test captain was confirmed on Thursday, along with the appointment of Stephen Fleming as England's new Test head coach after Ben Stokes retired from international cricket and Brendon McCullum stepped down from the role.",
+    "img": "https://static.toiimg.com/photo/msid-132770368,imgsize-402159.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/its-just-too-soon-rob-key-reveals-why-england-overlooked-harry-brook-for-test-captaincy/articleshow/132770116.cms",
+    "time": "2026-07-31T14:42:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Inside Sanjay Dutt's net worth of Rs 295 crore which includes home in Pali hill, luxury cars",
+    "desc": "Sanjay Dutt, born July 29, 1959, has a net worth of approximately Rs 295 crore. His earnings stem from acting, real estate, and various business interests. The actor commands a significant fee per film, reflecting his industry standing. He resides in a Mumbai apartment and owns a Dubai home with his wife. Dutt also possesses a collection of luxury cars and motorcycles.",
+    "img": "https://static.toiimg.com/photo/msid-132770453,imgsize-203643.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/inside-sanjay-dutts-net-worth-reported-to-be-rs-295-crore-which-includes-his-luxury-rs-40-crore-home-at-pali-hill-luxury-car-investments-and-more/articleshow/132770446.cms",
+    "time": "2026-07-31T14:35:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Sardar 2' teaser out: Karthi gears up for his toughest mission",
+    "desc": "The teaser for Sardar 2 has been released, showcasing Karthi's return. This spy thriller promises bigger action and more intense global missions. The film features S.J. Suryah, Malavika Mohanan, and Ashika Ranganath. Directed by P.S. Mithran, it is set for a worldwide release. The sequel appears to be on a much larger scale than the first.",
+    "img": "https://static.toiimg.com/photo/msid-132770367,imgsize-251078.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sardar-2-teaser-out-karthi-gears-up-for-his-toughest-mission-yet-in-p-s-mithrans-spy-thriller-with-bigger-action-intense-spy-missions-and-global-scale/articleshow/132770313.cms",
+    "time": "2026-07-31T14:31:37.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "High taxes on cigarettes hits ITC Q1, net slips 27% to ₹3,579 crore",
+    "desc": "The sharp decline on profit came on the government’s decision to increase excise duty and other taxes on cigarettes. Since this business contributes a major share of the company’s profit, the higher levies weighed on the margins.",
+    "img": "https://th-i.thgim.com/public/incoming/d30njc/article71291150.ece/alternates/LANDSCAPE_1200/ITC-shifts-growGKNG65EOH.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/high-taxes-on-cigarettes-hits-itc-q1-net-slips-27-to-3579-crore/article71291010.ece",
+    "time": "2026-07-31T14:31:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Pak-trained Mujahideen have turned their guns inwards': India slams Islamabad over PoK crackdown",
+    "desc": "India condemned Pakistan's admission of training and arming militants who have turned against the state. The Ministry of External Affairs also criticized Pakistan's harsh crackdown on protesters in Pakistan-occupied Jammu and Kashmir. Over forty civilians were reportedly killed during the violent suppression of peaceful demonstrations. India stated that Pakistan's actions exposed its disdain for the region's innocent inhabitants.",
+    "img": "https://static.toiimg.com/photo/msid-132770075,imgsize-196662.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pak-trained-mujahideen-have-turned-their-guns-inwards-india-slams-islamabad-over-pok-crackdown/articleshow/132769923.cms",
+    "time": "2026-07-31T14:16:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "2030 World Cup co-hosts Spain, Portugal could miss tournament amid FIFA-UEFA clash",
+    "desc": "UEFA’s threat to boycott FIFA competitions has raised the possibility of an unprecedented 2030 World Cup scenario, with co-hosts Spain and Portugal potentially missing their own tournament. The standoff centres on FIFA’s plan to sell a minority stake in commercial rights, which has triggered widespread opposition, internal criticism and fears the centenary World Cup could be reshaped by a historic football power struggle.",
+    "img": "https://static.toiimg.com/photo/msid-132769926,imgsize-457381.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/why-spain-and-portugal-could-miss-2030-world-cup-they-are-set-to-host-if-fifa-and-uefa-fail-to-reach-agreement/articleshow/132769536.cms",
+    "time": "2026-07-31T14:11:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India's first urban ropeway is almost here. Can Varanasi's sky-high commute change how Indian cities travel?",
+    "desc": "Varanasi is launching India's first urban public transport ropeway soon. This aerial system will connect the railway station with Godowlia Chowk. It promises to significantly reduce travel times and ease traffic congestion. The project serves as a test case for aerial mobility in heritage cities. This innovative transport model could influence future urban development across India.",
+    "img": "https://static.toiimg.com/photo/msid-132765669,imgsize-794431.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/explained-indias-first-urban-ropeway-is-almost-here-can-varanasis-sky-high-commute-change-how-indian-cities-travel/articleshow/132764888.cms",
+    "time": "2026-07-31T13:54:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajinikanth turned down Malaysia audio launch for 'Jailer 2'",
+    "desc": "Jailer 2's audio launch venue is reportedly not Malaysia as Rajinikanth wishes to avoid comparisons. He reportedly stated he does not want to compete with Vijay's previous event. This reported decision has sparked discussions among fans and cinema enthusiasts. Makers have not yet officially announced the date or location for the audio launch. Jailer 2 is scheduled for a theatrical release on October 15.",
+    "img": "https://static.toiimg.com/photo/msid-132769565,imgsize-154613.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rajinikanth-turned-down-malaysia-audio-launch-for-jailer-2-to-avoid-comparisons-and-rivalry-with-vijay-report/articleshow/132769542.cms",
+    "time": "2026-07-31T13:51:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Crazy, Stupid, Love' director reveals how Emma Stone stood out",
+    "desc": "Director Glenn Ficarra recalled Emma Stone's impressive audition for Crazy, Stupid, Love. Stone was unfazed by Ryan Gosling's presence during their screen test. She quickly impressed the filmmakers with her natural talent and quick wit. This moment solidified their on-screen chemistry for the iconic romantic comedy. The film, released fifteen years ago, featured a stellar ensemble cast.",
+    "img": "https://static.toiimg.com/photo/msid-132769531,imgsize-356337.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/crazy-stupid-love-director-reveals-how-emma-stone-stood-out-to-pair-with-ryan-gosling-shes-so-brilliant/articleshow/132769469.cms",
+    "time": "2026-07-31T13:49:14.000Z"
   },
   {
     "cat": "Business",
@@ -16,24 +259,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/itr-deadline-on-july-31-2026-top-things-nris-should-keep-in-mind-when-filing-tax-return/articleshow/132768986.cms",
     "time": "2026-07-31T13:24:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Differences in Kerala’s ruling front over PM SHRI out in the open",
-    "desc": "A day after UDF convener Adoor Prakash mentioned the government’s decision to go ahead with the scheme, P.K. Kunhalikutty of the Indian Union Muslim League says no discussions were held in the UDF on the issue; Adoor Prakash too backtracks on his statement, says decision depends on subcommittee’s report",
-    "img": "https://th-i.thgim.com/public/incoming/e2y67r/article71290682.ece/alternates/LANDSCAPE_1200/Kunhalikutty02.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/differences-in-keralas-ruling-front-over-pm-shri-out-in-the-open/article71290295.ece",
-    "time": "2026-07-31T13:23:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala to approach Centre after completing preparatory studies for financial aid for Port City project",
-    "desc": "The Centre had informed the State that the memorandum submitted to it lacked feasibility study, techno-economic report or DPR in respect of specified projects, and therefore it is not possible to give specific commitment for financial support or timelines at this stage",
-    "img": "https://th-i.thgim.com/public/incoming/9zgn9e/article71290653.ece/alternates/LANDSCAPE_1200/Stake-sale-at-VGEVG9FJ28.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/the-hindu-impact-kerala-to-approach-centre-after-completing-preparatory-studies-for-financial-aid-for-port-city-project/article71290469.ece",
-    "time": "2026-07-31T13:17:08.000Z"
   },
   {
     "cat": "Sports",
@@ -61,24 +286,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/govt-summons-metas-global-team-over-pm-modi-post-restriction-to-question-algorithmic-bias/articleshow/132768495.cms",
     "time": "2026-07-31T13:00:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Several dead after Bhiwandi building collapses, rescue underway",
-    "desc": "A four-storey building collapsed in Maharashtra’s Bhiwandi late Thursday night, killing at least nine people. The building had reportedly been declared unsafe, while repair work was underway when the B Wing collapsed. Rescue teams are searching the debris for seven to eight people feared trapped.",
-    "img": "https://th-i.thgim.com/public/incoming/c2scz/article71290512.ece/alternates/LANDSCAPE_1200/Bhiwandi%20building%20collapse%20thumbnail.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-several-dead-after-bhiwandi-building-collapses-rescue-underway/article71290511.ece",
-    "time": "2026-07-31T12:44:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Patient dies after ambulance runs out of oxygen in MP's Mandla; probe ordered",
-    "desc": "They claimed that doctors put him on oxygen and referred him to the district hospital, but the oxygen supply in the ambulance ran out during the journey, following which he died in his father's lap",
-    "img": "https://th-i.thgim.com/public/incoming/qh6pq3/article71290502.ece/alternates/LANDSCAPE_1200/10219_29_12_2024_15_47_28_4_DSC_8631.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/madhya-pradesh/patient-dies-after-ambulance-runs-out-of-oxygen-in-mps-mandla-probe-ordered/article71290464.ece",
-    "time": "2026-07-31T12:44:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -181,15 +388,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Kiara Advani's reported ₹15 crore payday for 'Toxic'",
-    "desc": "Kiara Advani's reported remuneration has significantly increased over her career. She currently charges between five and eight crore rupees per film. Her role in 'Game Changer' earned her an estimated five to seven crore rupees. Advani is set to earn fifteen crore rupees for the upcoming film 'Toxic'. This reported figure places her among India's highest-paid actresses.",
-    "img": "https://static.toiimg.com/photo/msid-132766644,imgsize-183104.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kiara-advani-birthday-special-inside-her-reported-rise-from-rs-5-crore-films-to-rs-15-crore-paycheque-for-yash-and-geetu-mohandas-toxic/articleshow/132766647.cms",
-    "time": "2026-07-31T11:50:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "‘Love Island USA’ pair Clarke Carraway and Taylor Williams split",
     "desc": "Love Island USA stars Clarke Carraway and Taylor Williams have ended their relationship. The couple, who met on the show, decided to part ways amicably. Their romance blossomed after Carraway entered the villa as a bombshell contestant. Williams supported Carraway after a horse-riding accident, strengthening their bond. Both stars are now focusing on their individual futures and personal growth.",
     "img": "https://static.toiimg.com/photo/msid-132766558,imgsize-199098.cms",
@@ -235,15 +433,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Punjabi singer Jassie Gill mourns mother Ravinder Kaur's death",
-    "desc": "Punjabi singer-actor Jassie Gill is mourning his mother Sardarni Ravinder Kaur's death on July 27, 2026. He announced her passing on Instagram, sharing the bhog ceremony is scheduled for August 5 in Ludhiana. He had earlier posted a heartfelt tribute to her. Fans and the Punjabi entertainment industry have poured in condolences and support.",
-    "img": "https://static.toiimg.com/photo/msid-132765349,imgsize-323881.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/punjabi/movies/news/punjabi-singer-jassie-gill-mourns-mother-ravinder-kaurs-death-shares-emotional-tribute-final-prayer-ceremony-to-be-held-in-ludhiana-on-august-5-har-janam-main-tera-putt-hova/articleshow/132765349.cms",
-    "time": "2026-07-31T10:57:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Amid Ramayana trailer, Kangana drops PIC as Sita: 'Aashirwaad to all liberals'",
     "desc": "Kangana Ranaut shared a childhood photograph from a 1997 school play. She portrayed Goddess Sita in the Ramayana during her school days. This memory surfaced amid discussions surrounding the recent Ramayana trailer release. The actress also recently criticized Gen Z protesters in social media posts. Ranaut was last seen in the medical drama-thriller Bharat Bhagya Vidhata.",
     "img": "https://static.toiimg.com/photo/msid-132765236,imgsize-223465.cms",
@@ -259,15 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/ethanol-blending-saved-consumers-rs-30/litre-during-crude-spike-govt/articleshow/132764857.cms",
     "time": "2026-07-31T10:43:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Vadhandhi Season 2' trailer: Sasikumar investigates 'The Mystery of Mani'",
-    "desc": "The Vadhandhi Season 2 trailer has been released, promising a suspenseful investigation. Sasikumar stars as SI Moosa Rasa, probing a skeleton discovery and a prisoner named Maani. The series mixes crime, politics, and human emotions against Madurai's backdrop. It explores guilt, rumour, silence, and justice, questioning the nature of truth. Vadhandhi Season 2 premieres on August 7 on Prime Video.",
-    "img": "https://static.toiimg.com/photo/msid-132764812,imgsize-235169.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vadhandhi-season-2-trailer-out-sasikumar-investigates-the-mystery-of-mani-with-suspense-secrets-and-shocking-revelations-ahead-of-august-7-premiere/articleshow/132764789.cms",
-    "time": "2026-07-31T10:42:27.000Z"
   },
   {
     "cat": "Politics",
@@ -288,42 +468,6 @@ const newsData_en = [
     "time": "2026-07-31T10:32:36.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Gavin Casalegno teases 'surprises' in 'The Summer I Turned Pretty'",
-    "desc": "Gavin Casalegno hints at fan surprises in the upcoming film adaptation. Author Jenny Han always intended a movie to conclude the beloved story. Filming for the movie concluded earlier this year after its announcement. The production team requested fans refrain from filming during the shoot. The film is now wrapped and preparing for its eventual release.",
-    "img": "https://static.toiimg.com/photo/msid-132763990,imgsize-216891.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/gavin-casalegno-teases-surprises-for-fans-in-the-summer-i-turned-pretty-film-im-excited-to-see-peoples-reaction/articleshow/132763995.cms",
-    "time": "2026-07-31T10:08:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Mirzapur: The Movie' trailer to release on August 11",
-    "desc": "The Movie will release on August 11. This highly anticipated film is set for its theatrical debut on September 4. Popular characters return to reprise their iconic roles in the movie. The film revisits the world of 2018, exploring untold stories. Mirzapur: The Movie promises a grander cinematic experience for audiences.",
-    "img": "https://static.toiimg.com/photo/msid-132763415,imgsize-321218.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mirzapur-the-movie-trailer-to-release-on-august-11-ahead-of-september-4-debut-featuring-pankaj-tripathi-ali-fazal-and-shweta-tripathi/articleshow/132763235.cms",
-    "time": "2026-07-31T09:52:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Aarti shares cryptic post amid divorce battle with Ravi Mohan",
-    "desc": "Aarti shared a cryptic social media post amid her ongoing divorce proceedings with Ravi Mohan. Netizens linked her message to singer-healer Kenishaa, who was introduced to Ravi Mohan. The court recently rejected Aarti's plea for higher maintenance, directing Ravi to pay Rs 3 lakh monthly. Kenishaa also announced her departure from Chennai, adding to public discussion. Ravi Mohan continues focusing on his upcoming film projects despite personal life buzz.",
-    "img": "https://static.toiimg.com/photo/msid-132763303,imgsize-177086.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/aarti-shares-cryptic-post-amid-divorce-battle-with-ravi-mohan-if-anyone-says-theyll-heal-you-show-them-the-door-with-your-heels/articleshow/132763290.cms",
-    "time": "2026-07-31T09:49:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Raghav on reports of playing young antagonist in SRK's King",
-    "desc": "Raghav Juyal has denied rumours of playing a young antagonist in Shah Rukh Khan's 'King', calling reports false and revealing the film has a unique plot and shooting style. Earlier reports claimed he'd play Jackie Shroff's son, battling a younger SRK. Directed by Siddharth Anand, 'King' releases December 24, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-132763195,imgsize-135954.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/raghav-juyal-breaks-silence-on-reports-of-playing-young-antagonist-in-shah-rukh-khans-king-teases-a-different-look-in-the-film-this-is-completely-false/articleshow/132763195.cms",
-    "time": "2026-07-31T09:44:28.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ICC 2027 Men’s Cricket World Cup: Full list of venues and Final stadium",
     "desc": "The 14th edition of the ICC Men’s Cricket World Cup will end a 24-year hiatus as the prestigious tournament returns to African soil, featuring a full list of 12 iconic stadiums across South Africa, Zimbabwe, and Namibia.",
@@ -342,42 +486,6 @@ const newsData_en = [
     "time": "2026-07-31T09:01:38.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Saffron-clad Pappu Yadav, opposition stage Ram Temple donation theft skit in Parliament",
-    "desc": "Opposition MPs staged a symbolic protest in Parliament over alleged Ram Temple donation embezzlement. They also demanded Union Home Minister Amit Shah's resignation regarding NEET-UG student protests. Independent MP Pappu Yadav enacted a priest pocketing donations in a street play performance. Rahul Gandhi and other leaders participated in the demonstration.",
-    "img": "https://static.toiimg.com/photo/msid-132763673,imgsize-3015119.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/watch-saffron-clad-pappu-yadav-opposition-stage-ram-temple-donation-theft-skit-in-parliament/articleshow/132762209.cms",
-    "time": "2026-07-31T08:53:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "BJP trying to force Muslims, minorities to worship Hindu deities, says Owaisi; DMK slams Vande Mataram bill as 'fraud'",
-    "desc": "AIMIM leader Asaduddin Owaisi slammed the bill criminalizing insult to Vande Mataram. He stated the bill forces minorities to worship Hindu deities and violates religious freedom. DMK MP A Raja called the legislation a fraud against India's secular fabric. Congress questioned the Home Minister's absence during the bill's passage. Opposition parties argue the government is imposing its views on citizens.",
-    "img": "https://static.toiimg.com/photo/msid-132761921,imgsize-678707.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bjp-trying-to-force-muslims-minorities-to-worship-hindu-deities-says-owaisi-dmk-slams-vande-mataram-bill-as-fraud/articleshow/132761805.cms",
-    "time": "2026-07-31T08:41:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rodriguez returns with a new perspective ahead of Medic UFC fight",
-    "desc": "Daniel Rodriguez returns to the UFC with a new perspective after the longest layoff of his career, heading into his first-ever main event against hometown favourite Uros Medic at UFC Belgrade. In an exclusive conversation with TimesofIndia.com, Rodriguez reflects on a renewed appreciation for the opportunity, explains why surviving the opening round is key against Medic, and reveals why he believes a showdown with Leon Edwards should be next.",
-    "img": "https://static.toiimg.com/photo/msid-132761280,imgsize-48591.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/mma/news/daniel-rodriguez-returns-with-a-new-perspective-ahead-of-uros-medic-ufc-fight-i-wanted-to-be-in-the-best-shape-possible/articleshow/132761246.cms",
-    "time": "2026-07-31T08:13:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Help families file compensation with Russian embassy, match DNA of Indians killed in war: SC to govt",
-    "desc": "The Supreme Court ordered the MEA to appoint a nodal officer for families. This officer will coordinate with families of Indians who joined the Russian military. The court also asked for DNA matching and assistance with compensation claims. The Centre previously stated 217 Indians joined the Russian military, with 49 deaths reported. Efforts are ongoing to verify deaths and trace missing individuals.",
-    "img": "https://static.toiimg.com/photo/msid-132761216,imgsize-731549.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/help-families-file-compensation-with-russian-embassy-bring-bodies-back-of-indians-killed-in-war-sc-to-govt/articleshow/132760037.cms",
-    "time": "2026-07-31T08:08:55.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Jersey change decision taken without my prior knowledge': Tirkey to HI",
     "desc": "In an email sent to executive board members on Friday morning, accessed by TOI, Tirkey said he had sought a written clarification from Hockey India officials regarding the basis of the decision, the process followed and the circumstances under which the change was approved and implemented.",
@@ -385,15 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/toi-exclusive-jersey-change-decision-taken-without-my-prior-knowledge-dilip-tirkey-to-hockey-india-exec-board/articleshow/132760806.cms",
     "time": "2026-07-31T07:49:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Exiled Bangladeshi writer Taslima Nasreen returns to Kolkata after 19 years",
-    "desc": "Exiled writer Taslima Nasreen returned to Kolkata after nearly two decades. She described her visit as an emotional homecoming to her own country. Nasreen is scheduled to attend a public program in the city on August 1. This marks her first public appearance in Kolkata since 2007. Protests over her memoir \"Dwikhandito\" had forced her departure then.",
-    "img": "https://static.toiimg.com/photo/msid-132760389,imgsize-786216.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/exiled-bangladeshi-writer-taslima-nasreen-returns-to-kolkata-after-19-years/articleshow/132760302.cms",
-    "time": "2026-07-31T07:38:43.000Z"
   },
   {
     "cat": "Sports",
@@ -414,15 +513,6 @@ const newsData_en = [
     "time": "2026-07-31T06:59:44.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Son of a tailor, grandson of a vegetable seller: Meet Lovepreet, who won CWG silver",
-    "desc": "Lovepreet Singh lifted a total of 388kg, with 176kg in the snatch and 212kg in the clean and jerk to win silver. The 28-year-old improved on his bronze medal from the 2022 Commonwealth Games in Birmingham by winning silver this time. Liti claimed the gold medal with a total of 389kg (166kg in snatch and 223kg in clean and jerk), while England's Andrew Griffith took bronze with 356kg (165kg in snatch and 191kg in clean and jerk).",
-    "img": "https://static.toiimg.com/photo/msid-132758208,imgsize-38130.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/son-of-a-tailor-grandson-of-a-vegetable-seller-meet-lovepreet-singh-who-won-cwg-silver-after-breaking-games-record/articleshow/132758089.cms",
-    "time": "2026-07-31T06:21:54.000Z"
-  },
-  {
     "cat": "World",
     "title": "Trump announces deal for 'complete disarmament’ of Hamas",
     "desc": "A member of the Hamas group’s negotiating team said the movement was making “concessions for the sake of our people in the Gaza Strip, to save them from killing and displacement”. He said the issue of weapons is tied to Israel’s withdrawal, the deployment of the National Committee and reconstruction work in the territory",
@@ -430,33 +520,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trump-announces-agreement-for-disarmament-of-hamas/article71288798.ece",
     "time": "2026-07-31T05:55:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I am sad, I couldn't be selected': 17-year-old woman cricketer dies by suicide",
-    "desc": "According to police, Aditi Chaukhande was training as a cricketer along with her elder brother, Prabal, who is also an upcoming player. On Wednesday night, after having dinner with her mother, Aditi went to her room and allegedly died by suicide. Her brother was out of town at the time of the incident.",
-    "img": "https://static.toiimg.com/photo/msid-132757422,imgsize-100932.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-am-sad-i-couldnt-be-selected-17-year-old-aspiring-woman-cricketer-dies-by-suicide/articleshow/132757393.cms",
-    "time": "2026-07-31T05:42:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'We don't have an MS Dhoni': Ex-England captain's blunt warning to Fleming",
-    "desc": "Michael Vaughan believes Stephen Fleming should start immediately as England's Test coach. Fleming will delay his Test coaching duties until the South Africa tour. Vaughan suggests this delay indicates a reduced appeal of the coaching role. Fleming's IPL success with Chennai Super Kings is noted. Vaughan questions if England has an MS Dhoni-like captain for Fleming.",
-    "img": "https://static.toiimg.com/photo/msid-132756841,imgsize-141938.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/we-dont-have-an-ms-dhoni-ex-england-captains-blunt-warning-to-stephen-fleming/articleshow/132756846.cms",
-    "time": "2026-07-31T05:09:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Conditions not best for javelin throwers': Neeraj Chopra after reaching CWG 2026 final",
-    "desc": "Neeraj did enough to secure his place in the 12-man final with a best throw of 79.61m at Scotstoun Stadium. In the gold medal match, he will compete against defending Commonwealth champion Arshad Nadeem, Sri Lanka's Rumesh Tharanga Pathirage, world champion Keshorn Walcott and former world champion Anderson Peters. India's Rohit Yadav and Yash Vir Singh also qualified, giving India three medal hopes in the final.",
-    "img": "https://static.toiimg.com/photo/msid-132756007,imgsize-39213.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/conditions-not-best-for-javelin-throwers-neeraj-chopra-opens-up-on-tough-glasgow-weather/articleshow/132755810.cms",
-    "time": "2026-07-31T04:34:29.000Z"
   },
   {
     "cat": "World",
@@ -478,30 +541,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Who is Seema Kaliramna? The mother and PhD scholar who won CWG bronze",
-    "desc": "Seema Kaliramna secured a bronze medal in the women's discus throw at the Commonwealth Games 2026. She achieved a best throw of 58.65 meters, earning India another medal. Kaliramna made an inspiring comeback after motherhood and pursuing her PhD studies. Her husband and coach, Ravinder Kaliramna, played a significant role in her success. She dedicated her medal to her husband's unwavering support and sacrifices.",
-    "img": "https://static.toiimg.com/photo/msid-132754533,imgsize-68543.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/who-is-seema-kaliramna-the-mother-and-phd-scholar-who-won-commonwealth-games-2026-bronze/articleshow/132754224.cms",
-    "time": "2026-07-31T03:16:23.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "When is Neeraj Chopra's Commonwealth Games 2026 javelin final? All you need to know",
     "desc": "Neeraj Chopra will compete in the Commonwealth Games 2026 javelin final on August 1. He qualified with a throw of 79.61m amidst difficult stadium conditions. Chopra faces strong competition from Arshad Nadeem and Keshorn Walcott. The final will be held at Scotstoun Stadium in Glasgow, Scotland. Fans can watch the event live on Sony Sports channels and SonyLIV.",
     "img": "https://static.toiimg.com/photo/msid-132753256,imgsize-37115.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/neeraj-chopra-commonwealth-games-2026-final-date-time-live-streaming-and-all-you-need-to-know/articleshow/132753231.cms",
     "time": "2026-07-31T01:37:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit Sharma's heartfelt note for Ajinkya Rahane",
-    "desc": "Ajinkya Rahane represented India in 85 Tests, scoring 5,077 runs, including 12 centuries and 26 fifties, at an average of 38.46. In ODIs, he played 90 matches and scored 2,962 runs, with three centuries and 24 fifties at an average of 35.26. In T20Is, Rahane featured in 20 matches and scored 375 runs, including one half-century.",
-    "img": "https://static.toiimg.com/photo/msid-132753074,imgsize-36082.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/weve-shared-the-dressing-room-for-so-many-years-rohit-sharmas-heartfelt-note-for-ajinkya-rahane/articleshow/132753066.cms",
-    "time": "2026-07-31T01:07:07.000Z"
   },
   {
     "cat": "Business",
@@ -586,15 +631,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Lovepreet’s silver, Seema’s bronze sparks pride; Neeraj books final spot",
-    "desc": "India added two medals on Day 8 of the 2026 Commonwealth Games, with Lovepreet Singh winning silver in weightlifting and Seema Kaliramna securing bronze in discus. India’s tally reached 17 medals, while Tejaswin Shankar stayed in decathlon medal contention, Neeraj Chopra and two other javelin throwers reached the final, and both Indian triple jumpers advanced to the medal round.",
-    "img": "https://static.toiimg.com/photo/msid-132752464,imgsize-1201341.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/india-at-commonwealth-games-2026-day-8-lovepreets-silver-seemas-bronze-sparks-pride-neeraj-books-final-spot/articleshow/132752434.cms",
-    "time": "2026-07-30T22:51:01.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Where India stand after Lovepreet’s record silver and Seema’s hard-fought bronze",
     "desc": "India added two medals on Day 8 of the 2026 Commonwealth Games, with Lovepreet Singh winning silver in the men’s +110kg weightlifting final after a record-breaking performance and Seema Kaliramna claiming discus bronze. India’s tally rose to 17 medals (3 gold, 10 silver, 4 bronze), while Tejaswin Shankar remained in medal contention in the decathlon and Neeraj Chopra advanced to the javelin final.",
     "img": "https://static.toiimg.com/photo/msid-132752354,imgsize-1140538.cms",
@@ -628,15 +664,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/uefas-intensifies-opposition-to-fifas-world-cup-plans/article71285184.ece",
     "time": "2026-07-30T17:01:25.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "US economy slows as GDP growth slips to 1.5%, consumers keep momentum alive",
-    "desc": "US economic growth slowed to 1.5% in the second quarter, impacted by a significant rise in imports. Strong consumer spending and business investment provided crucial support for the economy during this period. Inflation continued to ease in June, though it remained above the Federal Reserve's target rate. The labor market showed improvement this year, boosting consumer confidence and spending power.",
-    "img": "https://static.toiimg.com/photo/msid-132744081,imgsize-242072.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/us-economy-slows-as-gdp-growth-slips-to-1-5-consumers-keep-momentum-alive/articleshow/132744027.cms",
-    "time": "2026-07-30T15:14:08.000Z"
   },
   {
     "cat": "World",
@@ -738,15 +765,6 @@ const newsData_en = [
     "time": "2026-07-29T18:56:06.000Z"
   },
   {
-    "cat": "World",
-    "title": "Ukraine says it hit a major Russian oil refinery, hours after Zelenskyy’s meeting with Trump",
-    "desc": "The overnight attack started a fire at the Ryazan refinery, which has a capacity of about 17 million tonnes of oil per year, producing gasoline, diesel fuel, aviation fuel and other petroleum products, according to Ukraine’s General Staff",
-    "img": "https://th-i.thgim.com/public/incoming/tz9dhz/article71281346.ece/alternates/LANDSCAPE_1200/2026-07-29T083706Z_1302573797_RC2KNMAFSNAT_RTRMADP_3_UKRAINE-CRISIS-ATTACK-RYAZAN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international//article71281250.ece",
-    "time": "2026-07-29T13:12:20.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Children of Blood and Bone’ trailer: Paramount unveils first look at epic fantasy adaptation starring Viola Davis and Idris Elba",
     "desc": "Paramount Pictures has released the first trailer for ‘Children of Blood and Bone’, bringing Tomi Adeyemi’s bestselling fantasy novel to life with a sprawling ensemble cast led by Thuso Mbedu and directed by ‘The Woman King’ filmmaker Gina Prince-Bythewood",
@@ -763,15 +781,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/gill-reclaims-no-1-spot-among-odi-batters-sooryavanshi-takes-big-strides-in-t20i-rankings/article71280874.ece",
     "time": "2026-07-29T10:05:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi has made a point — let us resolve to leave him alone",
-    "desc": "Fans are rarely given an opportunity to watch a player grow from his teens to his thirties on a live stage. A front-row seat, too, that should not be abused by reaching out to touch the actor performing.",
-    "img": "https://th-i.thgim.com/public/incoming/kc4n7h/article71279969.ece/alternates/LANDSCAPE_1200/2026-07-09T195114Z_1488895311_UP1EM791J5C7U_RTRMADP_3_CRICKET-T20-ENG-IND.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/opinion/columns/sooryavanshi-has-made-a-point-let-us-resolve-to-leave-him-alone/article71277072.ece",
-    "time": "2026-07-29T05:20:33.000Z"
   },
   {
     "cat": "Tech",

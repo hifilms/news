@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Harsh Singh scripts history to win gold in Judo at Commonwealth Games 2026",
+    "desc": "India's medal tally at the Commonwealth Games (CWG) 2026 in Scotland's Glasgow continued to increase on Friday after judoka Harsh Singh won a gold for the country in men's 60 kg category. Singh defeated Australia's...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/harsh-singh-scripts-history-to-win-gold-in-judo-at-commonwealth-games-2026-2026-07-31-1050018",
+    "time": "2026-07-31T15:53:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Asmita Dey wins historic gold in Judo at Commonwealth Games 2026 in Glasgow",
+    "desc": "Judoka Asmita Dey on Friday scripted history and a historic gold medal for India in women's 48 kg category at the Commonwealth Games (CWG) 2026 in Scotland's Glasgow. With this, Dey became the first ever...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/asmita-dey-wins-historic-gold-in-judo-at-commonwealth-games-2026-in-glasgow-2026-07-31-1050016",
+    "time": "2026-07-31T15:29:05.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Preeti Pawar, Ankush Panghal reach boxing final at CWG 2026, team India qualifies for mixed 4x400m relay final",
     "desc": "The Indian contingent continues to soar high at the Commonwealth Games 2026, with boxers Preeti Pawar and Ankush Panghal reaching the final of their respective boxing events; another medal has been assured for India at...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pakistan-dealt-major-blow-star-batter-ruled-out-of-second-west-indies-test-due-to-injury-2026-07-31-1049946",
     "time": "2026-07-31T05:29:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lovepreet Singh clinches weightlifting silver, Seema Kaliramna grabs bronze medal at CWG 2026",
-    "desc": "The Indian contingent has caught the flow at the ongoing Commonwealth Games 2026. Becoming the latest to add to India’s tally at the Games, weightlifter Loverpreet Singh won the silver medal at the Games, delivering...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/lovepreet-singh-clinches-weightlifting-silver-seema-kaliramna-grabs-bronze-medal-at-cwg-2026-2026-07-31-1049939",
-    "time": "2026-07-31T04:22:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India medal tally, full list of winners in Glasgow",
-    "desc": "India secured 15 medals so far in the Commonwealth Games 2026. The contingent has produced strong performances in athletics, para athletics, weightlifting and boxing in Glasgow. The country has won three gold, nine silver and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/commonwealth-games-2026-full-list-of-medal-winners-by-indians-athletes-2026-07-30-1049923",
-    "time": "2026-07-30T18:12:36.000Z"
   }
 ];

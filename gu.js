@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "આવતીકાલથી તત્કાલ ટિકિટના નવા નિયમો, ટોકન વિના બુકિંગ નહીં, એસી અને સ્લીપર માટે અલગ અલગ ટાઈમ, જાણો",
+    "desc": "જો તમે ટ્રેનમાં મુસાફરી કરવાનું વિચારી રહ્યા છો, તો 1 ઓગસ્ટથી અમલમાં આવનારા તત્કાલ ટિકિટ બુકિંગ માટેના નવા નિયમો વિશે જાણવાનું ભૂલશો નહીં. રેલ્વેએ તત્કાલ ટિકિટ માટે નવી ટોકન સિસ્ટમ લાગુ કરી છે. નવા નિયમો હેઠળ, એસી અને સ્લીપર કોચ માટે ટોકન સમય અલગ અલગ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/new-rules-for-tatkal-tickets-from-tomorrow-no-booking-without-token-different-times-for-ac-and-sleeper-know-486313 ",
+    "time": "2026-07-31T16:03:39.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "નકલી દસ્તાવેજોથી PM કિસાન યોજનાનો લાભ લેવો પડી શકે મોંઘો, જાણો ફ્રોડ કરનાર સામે શું થઈ શકે છે કાર્યવાહી?",
     "desc": "પીએમ કિસાન સન્માન નિધિમાં નકલી દસ્તાવેજો રજૂ કરીને લાભ મેળવનારાઓ સામે સરકાર કડક કાર્યવાહી કરી રહી છે. અયોગ્ય સાબિત થશે, તો પ્રાપ્ત રકમ વ્યાજ સાથે વસૂલ કરવામાં આવશે અને કાનૂની કાર્યવાહી પણ શરૂ થઈ શકે છે.",
@@ -376,15 +385,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-drop-sharply-today-check-mcx-ibja-latest-rates-aaj-no-sona-no-bhav-485988 ",
     "time": "2026-07-28T08:04:12.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "₹10 અને ₹20ની પ્લાસ્ટિક નોટ ક્યારે આવશે? સરકારે આપી મંજૂરી, જાણો",
-    "desc": "RBI એ સ્પષ્ટતા કરી છે કે પોલિમર નોટો રજૂ કરવાનો મુખ્ય ઉદ્દેશ્ય નકલી નોટોને રોકવાનો નથી, પરંતુ નોટોનું આયુષ્ય વધારવાનો અને તેમની ગુણવત્તા સુધારવાનો છે. આનાથી લાંબા ગાળે છાપકામ, પરિવહન અને નાશ કરવાનો ખર્ચ પણ ઘટશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/when-will-plastic-notes-of-rs-10-and-rs-20-come-government-has-given-approval-know-485980 ",
-    "time": "2026-07-28T07:25:43.000Z"
   },
   {
     "cat": "Tech",
