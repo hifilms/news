@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Preeti Pawar, Ankush Panghal reach boxing final at CWG 2026, team India qualifies for mixed 4x400m relay final",
+    "desc": "The Indian contingent continues to soar high at the Commonwealth Games 2026, with boxers Preeti Pawar and Ankush Panghal reaching the final of their respective boxing events; another medal has been assured for India at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/preeti-pawar-ankush-panghal-reach-boxing-final-at-cwg-2026-team-india-qualifies-for-mixed-4x400m-relay-final-2026-07-31-1049993",
+    "time": "2026-07-31T12:08:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jasprit Bumrah passes fitness test, cleared to play in upcoming Test series against Sri Lanka",
+    "desc": "In a major development, star India pacer Jasprit Bumrah has reportedly been cleared to play for the Indian team ahead of their two-game Test series against Sri Lanka. It is interesting to note that India...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-passes-fitness-test-cleared-to-play-in-upcoming-test-series-against-sri-lanka-report-2026-07-31-1049988",
+    "time": "2026-07-31T11:26:34.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "DPL 2026 live streaming details; When and where to watch Delhi Premier League 2026 on TV and online in India?",
     "desc": "The stage is set for yet another season of the DPL (Delhi Premier League); the tournament returns for yet another edition, and the eight competing teams will look to put in their best performance in...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/commonwealth-games-2026-full-list-of-medal-winners-by-indians-athletes-2026-07-30-1049923",
     "time": "2026-07-30T18:12:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC announces 12 stadiums to host ODI World Cup 2027, reveals logo",
-    "desc": "The International Cricket Council (ICC) has announced 12 venues for the ICC ODI World Cup 2027, set to be hosted in South Africa, Zimbabwe and Namibia. The venues were revealed at a ceremony in Johannesburg,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/icc-announces-12-stadiums-to-host-odi-world-cup-2027-reveals-logo-2026-07-30-1049920",
-    "time": "2026-07-30T17:25:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "UEFA issues statement, threatens to boycott all FIFA events following discussion of privatising World Cup",
-    "desc": "European football's governing body and all 55 of its member associations have agreed to boycott FIFA competitions if world football's governing body proceeds with a proposal to open ownership stakes in its major tournaments to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/uefa-issues-statement-threatens-to-boycott-all-fifa-events-following-discussion-of-privatising-world-cup-2026-07-30-1049914",
-    "time": "2026-07-30T16:21:16.000Z"
   }
 ];
