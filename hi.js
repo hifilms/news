@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India add another gold medal at Commonwealth Games with famous 1-2 podium finish in shot put F57",
+    "desc": "India have added another gold medal to their kitty at the Commonwealth Games as Soman Rana won the yellow metal in the shot put F57 category, with Shubham Juyal taking the silver in a memorable...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/india-add-another-gold-medal-at-commonwealth-games-with-famous-double-podium-finish-in-shot-put-f57-2026-08-01-1050081",
+    "time": "2026-08-01T11:48:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jadumani Singh settles for silver in boxing; India secure 30th medal in Commonwealth Games 2026",
+    "desc": "India's Jadumani Singh Mandengbam signed off with the silver medal in the men's 55kg boxing event at the Commonwealth Games 2026. He suffered a 5-0 unanimous decision defeat to Australia's Jye Dixon in the final...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/jadumani-singh-settles-for-silver-in-boxing-india-secure-30th-medal-in-commonwealth-games-2026-2026-08-01-1050079",
+    "time": "2026-08-01T11:35:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India secure double podium finish in triple jump at Commonwealth Games, Praveen Chithravel redeems himself",
+    "desc": "Indian athletes Praveen Chithravel and Selva Prabhu Thirumaran propelled India to double delight in the triple jump event at the Commonwealth Games 2026 as they secured a double podium finish on Saturday, August 1. Praveen,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/india-secure-double-podium-finish-in-triple-jump-at-commonwealth-games-praveen-chithravel-redeems-himself-2026-08-01-1050076",
+    "time": "2026-08-01T11:01:32.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Preeti Pawar, Jasmine Lamboria win gold in Commonwealth Games in boxing; India secured 25 medals",
     "desc": "India's Preeti Pawar clinched the women's 54kg boxing gold medal at the Commonwealth Games 2026 after outclassing Canada's Scarlett Savannah Delgado with a commanding 5-0 unanimous decision in the final on Saturday, August 1. It...",
     "img": "",
@@ -10,7 +37,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Double gold for India in boxing; two more medals in triple jump",
+    "title": "Soman Rana wins India's eighth gold medal; Shubham Juyal, Jadumani win silver",
     "desc": "10 Indian boxers will be in action on the penultimate day of the Commonwealth Games 2026. Preeti Pawar, Lovlina Borgohain, Jaismine Lamboria and other pugilists will be in action as they bid for gold medals for...",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-was-vaibhav-sooryavanshi-named-east-zone-s-vice-captain-for-the-duleep-trophy-selector-reveals-2026-08-01-1050052",
     "time": "2026-08-01T06:50:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Who is Yash Vir Singh, the surprise bronze medallist in javelin throw at Commonwealth Games 2026?",
-    "desc": "Yash Vir Singh put in a brilliant performance to snatch a bronze medal in the Men's Javelin throw event at the ongoing Commonwealth Games 2026 on Friday, July 31 (local time). Yash Vir produced a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/who-is-yash-vir-singh-the-surprise-bronze-medallist-from-javelin-throw-at-commonwealth-games-2026-2026-08-01-1050049",
-    "time": "2026-08-01T06:20:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jos Buttler on the verge of scripting history, edges closer to Kieron Pollard's legendary record with fifty",
-    "desc": "Veteran England batter Jos Buttler has been in brilliant form of late, and he has been putting in some brilliant showings at the ongoing The Hundred 2026. Representing Manchester Super Giants, Buttler has been a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jos-buttler-on-the-verge-of-scripting-history-edges-closer-to-kieron-pollard-s-legendary-record-with-fifty-2026-08-01-1050046",
-    "time": "2026-08-01T05:55:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Check Commonwealth Games 2026 Day 10 schedule; Where can India shine on August 1?",
-    "desc": "The stage is set for yet another incredible day at the Commonwealth Games 2026. The marquee event is rapidly approaching its end; August 1 will see more stars taking on each other in hopes of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/check-commonwealth-games-2026-day-10-schedule-where-can-india-shine-on-august-1-2026-08-01-1050041",
-    "time": "2026-08-01T04:07:58.000Z"
   }
 ];
