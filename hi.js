@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India win 16 medals in Commonwealth Games on August 1, check full list of winners",
+    "desc": "India produced one of their most successful days at the Commonwealth Games 2026 on August 1. The contingent won a remarkable haul of 16 medals across boxing, athletics and judo. The country’s biggest contribution came...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/india-win-16-medals-in-commonwealth-games-on-august-1-check-full-list-of-winners-2026-08-02-1050112",
+    "time": "2026-08-01T19:28:15.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sachin Siwach, Ankush Panghal cap historic day for Indian boxing with Commonwealth Games golds",
     "desc": "Indian boxers Sachin Siwach and Ankush Panghal delivered a memorable finish to the Commonwealth Games 2026, winning gold medals in the men’s 60kg and 80kg categories respectively. The victories helped India complete a highly successful...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/india-secure-double-podium-finish-in-triple-jump-at-commonwealth-games-praveen-chithravel-redeems-himself-2026-08-01-1050076",
     "time": "2026-08-01T11:01:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Preeti Pawar, Jasmine Lamboria win gold in Commonwealth Games in boxing; India secured 25 medals",
-    "desc": "India's Preeti Pawar clinched the women's 54kg boxing gold medal at the Commonwealth Games 2026 after outclassing Canada's Scarlett Savannah Delgado with a commanding 5-0 unanimous decision in the final on Saturday, August 1. It...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/preeti-pawar-wins-india-s-6th-gold-medal-in-commonwealth-games-2026-beats-scarlett-delgado-2026-08-01-1050072",
-    "time": "2026-08-01T10:19:41.000Z"
   }
 ];

@@ -1,5 +1,122 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "R Madhavan reveals parenting philosophy with son Vedaant",
+    "desc": "R Madhavan has opened up about the three life lessons his parents instilled in him and how those values shaped not only his successful acting career but also his approach to parenting. The actor reflected on his upbringing, his father's influence, and why he believes teaching children the right values matters more than always being physically present.",
+    "img": "https://static.toiimg.com/photo/msid-132796746,imgsize-102353.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-madhavan-reveals-parenting-philosophy-with-son-vedaant-the-three-life-lessons-his-parents-taught-him-im-not-the-father-who-attends-every-school-event/articleshow/132796740.cms",
+    "time": "2026-08-01T21:23:24.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "July auto sales rev up as Maruti crosses 2L, Tata EVs double",
+    "desc": "Several automakers achieved record July sales, largely due to new sport utility vehicle launches. Maruti Suzuki and Tata Motors reported significant year-on-year growth in their passenger vehicle segments. Mahindra also saw substantial increases in its utility vehicle sales during the month. Hyundai and Kia India posted their best-ever July wholesale volumes, driven by their SUV lineups. Nissan experienced a substantial surge in domestic wholesales following its new Tekton SUV deliveries.",
+    "img": "https://static.toiimg.com/photo/msid-132796745,imgsize-846206.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/july-auto-sales-rev-up-as-maruti-crosses-2l-tata-evs-double/articleshow/132796743.cms",
+    "time": "2026-08-01T21:19:06.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "July GST collections up 15.4% to Rs 2.1 L cr on higher imports",
+    "desc": "Goods and Services Tax collections rose 15.4 percent to Rs 2,11,205 crore in July. This increase was largely due to a 29 percent jump in integrated GST on imports. Strong economic activity and higher commodity prices also contributed to the robust tax collections. Central GST mop-up increased 12.3 percent while state GST grew 8.7 percent. Net collections after refunds went up 15.8 percent, reflecting continued economic resilience.",
+    "img": "https://static.toiimg.com/photo/msid-132796741,imgsize-1589605.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/july-gst-collections-up-15-4-to-rs-2-1-l-cr-on-higher-imports/articleshow/132796739.cms",
+    "time": "2026-08-01T21:16:16.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. embassies urge citizens to ‘consider departing’ from West Asia",
+    "desc": "There were no U.S. strikes on Iran overnight, but Iran’s paramilitary Revolutionary Guard said on Friday (July 31, 2026) it had struck another two tankers in the Strait of Hormuz, and Kuwait said it intercepted drones",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-donald-trump-tehran-mojtaba-khamenei-fresh-strikes-irgc-strait-of-hormuz-ceasefire-deal/article71293385.ece",
+    "time": "2026-08-01T21:03:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "More choices for test centres among key changes for NEET (PG) 2026",
+    "desc": "The reforms are aimed at making the process more convenient for the candidates, according to the Union Health Ministry; a total of 2,73,183 candidates have registered for NEET (PG) 2026 which will be conducted in a single shift across around 340 cities and more than 1,300 examination centres",
+    "img": "https://th-i.thgim.com/public/incoming/7dw35i/article71295974.ece/alternates/LANDSCAPE_1200/20260620125L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/more-choices-for-test-centres-among-key-changes-for-neet-pg-2026/article71295915.ece",
+    "time": "2026-08-01T20:34:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India-China border trade resumes after 6 years",
+    "desc": "India and China have reopened two key Himalayan trade routes after six years. Traditional border trade resumed Saturday through Lipulekh and Shipki La passes. Chinese authorities restricted the initial batch of traders to twenty people. Indian traders can export 36 categories of goods, while Chinese traders bring twenty. A new trade mart was also inaugurated near the international border.",
+    "img": "https://static.toiimg.com/photo/msid-132796676,imgsize-1425288.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-china-border-trade-resumes-after-6-years/articleshow/132796671.cms",
+    "time": "2026-08-01T20:23:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The hopes of two families are dashed as terror attack leaves their sole breadwinners dead",
+    "desc": "Chhattisgarh Chief Minister Vishnu Deo Sai announces an ex gratiaassistance of ₹20 lakh each for the families of the two Chhattisgarh workers killed in a terror attack in Kelam area of south Kashmir’s Kulgam district late on Friday evening",
+    "img": "https://th-i.thgim.com/public/incoming/8j6io2/article71294474.ece/alternates/LANDSCAPE_1200/TH01-Vishnu-BasGVAF3T8OF.5.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/chhattisgarh/kulgam-terrorist-attack-chhattisgarh-government-declares-20-lakh-aid-for-kin-of-two-workers-killed/article71294437.ece",
+    "time": "2026-08-01T19:45:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "No evidence of EVM tampering, says poll official on fourth day",
+    "desc": "“This is not re-counting. This is EVM Checking and Verification process,” Chennai District Election Officer and Greater Chennai Corporation Commissioner G.S. Sameeran said. “It is a 100% transparent exercise to establish the reliability of the EVMs.”",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/bah72x/article71295409.ece/alternates/LANDSCAPE_1200/KOL%20EVM%20AUG%201%20GSS.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/no-evidence-of-evm-tampering-says-poll-official-on-fourth-day/article71295402.ece",
+    "time": "2026-08-01T19:43:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NEET-UG counselling to begin on August 4, academic session from September 8",
+    "desc": "According to the counselling schedule released by the committee, the first round of AIQ counselling for deemed and central universities will be held from August 4 to August 17. The last date for joining will be August 22",
+    "img": "https://th-i.thgim.com/public/incoming/3wjlnc/article71295948.ece/alternates/LANDSCAPE_1200/NEET%20EXAM%20DELHI%202025_04_05_18.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/education/neet-ug-counselling-to-begin-on-august-4-academic-session-from-september-8/article71295945.ece",
+    "time": "2026-08-01T19:34:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will he play today?",
+    "desc": "Lionel Messi has returned to Inter Miami training after Argentina’s 2026 World Cup final run, but the club is yet to decide when he will play again. Head coach Guillermo Hoyos confirmed Messi and Rodrigo De Paul are available for selection against Columbus Crew, though their involvement remains uncertain as Inter Miami manage their workload amid a congested schedule.",
+    "img": "https://static.toiimg.com/photo/msid-132796323,imgsize-808275.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/messi-spotted-in-inter-miami-training-for-first-time-since-world-cup-final-will-he-return-to-action-today/articleshow/132795814.cms",
+    "time": "2026-08-01T19:09:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala CM Satheesan’s chopper journey draws flak from CPI(M)",
+    "desc": "Satheesan reportedly flew aboard the helicopter from Thiruvananthapuram to Kochi to visit his father-in-law, who was undergoing treatment. As Leader of the Opposition, he had criticised the then LDF government for its “extravagance” in hiring the helicopter.",
+    "img": "https://th-i.thgim.com/public/incoming/twuxoz/article71295942.ece/alternates/LANDSCAPE_1200/NH27OommenChandy08.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-cm-satheesans-chopper-journey-draws-flak-from-cpim/article71295696.ece",
+    "time": "2026-08-01T19:07:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rajat Patidar to lead Central Zone in Duleep Trophy, Rinku Singh named vice-captain",
+    "desc": "Off-spinner Saransh Jain has also been named in the squad but he is certain to miss at least the initial part of the domestic season opener since he is a part of the India Test squad to tour Sri Lanka",
+    "img": "https://th-i.thgim.com/public/incoming/4uqz8w/article71295938.ece/alternates/LANDSCAPE_1200/PTI09_15_2025_000100B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/rajat-patidar-to-lead-central-zone-in-duleep-trophy-rinku-singh-named-vice-captain/article71295934.ece",
+    "time": "2026-08-01T19:03:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why fishers in Kerala ignore dire warnings and venture into sea",
+    "desc": "For many fisher families, heightened risk at sea remains secondary to the immediate threat of starvation on land. Government issues ‘stay-at-home’ directives in extreme weather conditions, but no minimum wages or guaranteed compensation is offered, leaving the fishers shorn of livelihood, say their union leaders",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/90rbv4/article71295630.ece/alternates/LANDSCAPE_1200/02tvko-%20Boat.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/why-fishers-in-kerala-ignore-dire-warnings-and-venture-into-sea/article71295439.ece",
+    "time": "2026-08-01T19:02:52.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "‘Every effort being made to maximise Godavari waters for farmers’ benefit’",
     "desc": "Irrigation Minister Uttam Kumar along with Cabinet colleagues Sridhar Babu, Vivek and Laxman Kumar reviews inflows into projects; says landmark projects built during Congress regimes continue to serve the State and rejects claims that water pumped from Yellampalli was Kaleshwaram water",
@@ -34,6 +151,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/kerala-floods-2026-pathanamthitta-reels-under-floods-as-torrential-rain-pounds-district/article71294576.ece",
     "time": "2026-08-01T18:12:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Abhijeet Dipke, Ashutosh Ranka and Saurav Das",
+    "desc": "Fuelled by viral outrage and youthful anger, the Cockroach Janta Party’s rapid rise was driven by three very different men whose skills, ambitions and political histories transformed a satirical online campaign into a national protest that brought down Union Education Minister Dharmendra Pradhan",
+    "img": "https://th-i.thgim.com/public/news/national/pp9soz/article71295800.ece/alternates/LANDSCAPE_1200/CJP_Artx.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/abhijeet-dipke-ashutosh-ranka-and-saurav-das-the-three-faces-of-a-revolt/article71295809.ece",
+    "time": "2026-08-01T17:50:23.000Z"
   },
   {
     "cat": "Sports",
@@ -118,30 +244,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Delimitation is a design to take away the power of people of Tamil Nadu, says Rahul Gandhi",
-    "desc": "Any party supporting the Delimitation Bill in Parliament would be considered betrayer of the people of Tamil Nadu, says the Congress leader; he meets grieving families of NEET aspirants who ended their lives, says the students are working in a system that is not honest with them",
-    "img": "https://th-i.thgim.com/public/news/national/i4yqb2/article71295736.ece/alternates/LANDSCAPE_1200/Rahul%20with%20Neet%20students%20parents.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/delimitation-is-a-design-to-take-away-the-power-of-people-of-tamil-nadu-says-rahul-gandhi/article71294958.ece",
-    "time": "2026-08-01T16:43:07.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Army's intelligence units, Rajasthan police bust counterfeit combat uniform racket in Sriganganagar",
     "desc": "Indian Army intelligence and Rajasthan police seized nearly 1,000 meters of unauthorized combat cloth. This action followed a lead pointing to a local firm supplying counterfeit army-pattern fabric. The coordinated operation on July 30 uncovered a wider network distributing fake military uniforms. Similar counterfeit cloth was previously seized in Bareilly, traced to Sriganganagar. Unauthorized sale of military camouflage cloth is restricted and banned in many sensitive regions.",
     "img": "https://static.toiimg.com/photo/msid-132793187,imgsize-932766.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/armys-intelligence-units-rajasthan-police-bust-counterfeit-combat-uniform-racket-in-sriganganagar/articleshow/132792290.cms",
     "time": "2026-08-01T16:31:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CJP founder Abhijeet Dipke advised to take rest after falling sick",
-    "desc": "Dipke, who was diagnosed with typhoid during the protests in Jantar Mantar seeking the resignation of Dharmendra Pradhan as Union Education Minister, had said he had been unwell for the past few days and was currently undergoing treatment",
-    "img": "https://th-i.thgim.com/public/incoming/o4gp0g/article71295683.ece/alternates/LANDSCAPE_1200/20260730114L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/cjp-founder-abhijeet-dipke-advised-to-take-rest-after-falling-sick/article71295543.ece",
-    "time": "2026-08-01T16:30:33.000Z"
   },
   {
     "cat": "Politics",
@@ -187,15 +295,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/jugni-singer-files-police-complaint-says-viral-jacqueline-fernandez-clip-was-ai-doctored/articleshow/132793076.cms",
     "time": "2026-08-01T16:16:41.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S. embassies urge citizens to ‘consider departing’ from West Asia",
-    "desc": "There were no U.S. strikes on Iran overnight, but Iran’s paramilitary Revolutionary Guard said on Friday (July 31, 2026) it had struck another two tankers in the Strait of Hormuz, and Kuwait said it intercepted drones",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-donald-trump-tehran-mojtaba-khamenei-fresh-strikes-irgc-strait-of-hormuz-ceasefire-deal/article71293385.ece",
-    "time": "2026-08-01T16:08:07.000Z"
   },
   {
     "cat": "Politics",
@@ -306,15 +405,6 @@ const newsData_en = [
     "time": "2026-08-01T14:21:38.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Disappointed with PM Modi': Shehzad Poonawalla’s sarcastic 'dictator' jibe at oppn after quitting BJP",
-    "desc": "Taking a jibe at PM Modi's critics, Shehzad Poonawalla expressed \"disappointment\" with Prime Minister Narendra Modi's leadership style. He sarcastically suggested Modi learn dictatorship from past Congress leaders. Poonawalla cited Indira Gandhi and Jawaharlal Nehru as examples of strong rule. He also mentioned past Congress governments' actions during protests. The former spokesperson concluded Modi had not met Left-liberal expectations.",
-    "img": "https://static.toiimg.com/photo/msid-132791146,imgsize-134812.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/12-years-and-yet-to-become-dictator-shehzad-poonawallas-sarcastic-response-to-pm-modis-critics-after-quitting-bjp/articleshow/132790402.cms",
-    "time": "2026-08-01T14:08:34.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Tejaswin Shankar's week of tears, resilience &amp; history",
     "desc": "Tejaswin finished with 7,976 points in the demanding 10-event competition held over two days. He competed despite dealing with chronic patellar tendinitis (jumper's knee), the same injury that had forced him to pull out of the men's high jump event earlier in the Games.",
@@ -342,15 +432,6 @@ const newsData_en = [
     "time": "2026-08-01T13:38:15.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "PM Modi inaugurates Swami Vivekananda Cultural Youth Centre in Mysuru",
-    "desc": "Prime Minister Narendra Modi inaugurated the Viveka Smaraka youth centre in Mysuru. This centre aims to inspire young Indians with nation-building and service ideals. The Prime Minister highlighted youth strength driving India's economic growth and development. He also emphasized education in mother tongue and promoting local products. The new facility will nurture youth dedicated to national service and societal welfare.",
-    "img": "https://static.toiimg.com/photo/msid-132790453,imgsize-56446.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pilgrimage-for-spiritual-upliftment-pm-modi-inaugurates-swami-vivekananda-cultural-youth-centre-in-mysuru-pitches-nation-first-vision-for-youth/articleshow/132790408.cms",
-    "time": "2026-08-01T13:35:47.000Z"
-  },
-  {
     "cat": "World",
     "title": "Italy suspends EU Schengen free-travel pact with Spain over Ceuta crisis",
     "desc": "Italy does not share a land border with Spain, but the measure — which looks certain to anger ‌Madrid — will impact people travelling by plane or boat between the two countries, meaning they will need to ‌show a passport to gain access",
@@ -367,42 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/he-was-getting-touchy-feely-vijay-varma-opens-up-about-being-harassed-in-an-uncomfortable-encounter-with-a-model-coordinator/articleshow/132790232.cms",
     "time": "2026-08-01T13:11:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Nepali mountaineer Nirmal Purja dies in avalanche; India's medal rush continues in CWG 2026 &amp; more",
-    "desc": "Mountaineer Nirmal Purja died in a Broad Peak avalanche, ending his legendary career. India secured more medals at the Commonwealth Games 2026, reaching a total of thirty. Rahul Gandhi demanded an apology from Prime Minister Modi for NEET students. A stricter anti-paper leak law has now come into force nationwide. Complaints were filed against Rahul Gandhi and Pappu Yadav regarding a protest.",
-    "img": "https://static.toiimg.com/photo/msid-132790221,imgsize-1059672.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-nepali-mountaineer-nirmal-purja-dies-in-avalanche-indias-medal-rush-continues-in-cwg-2026-more/articleshow/132789665.cms",
-    "time": "2026-08-01T13:10:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "UEFA turns up heat on Infantino after FIFA's $20 billion World Cup plan collapse",
-    "desc": "FIFA's ambitious $20 billion commercial venture has been abandoned after facing significant opposition. UEFA expressed a loss of confidence in the current FIFA leadership and its processes. The European body criticised the lack of transparency behind the failed proposal. Several football organisations and advisors also voiced their disapproval of the plan. This setback signals a potential challenge to Gianni Infantino's presidency.",
-    "img": "https://static.toiimg.com/photo/msid-132790108,imgsize-113152.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/no-option-should-be-off-the-table-uefa-turns-up-heat-on-infantino-after-fifas-20-billion-world-cup-plan-collapse/articleshow/132790113.cms",
-    "time": "2026-08-01T13:00:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘How did Hockey India executive board not know?’ Congress questions govt over saffron jersey row",
-    "desc": "Congress leader Mallikarjun Kharge questioned the government regarding the hockey jersey color change. He stated the decision was made without Hockey India Executive Board approval. The traditional blue jersey identity is deeply connected to Indian sports traditions. Hockey India defended the design, citing consultations with players and staff. However, the president claimed no prior knowledge of the implemented decision.",
-    "img": "https://static.toiimg.com/photo/msid-132789321,imgsize-657543.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/how-did-hockey-india-executive-board-not-know-congress-questions-govt-over-saffron-jersey-row/articleshow/132789026.cms",
-    "time": "2026-08-01T12:39:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Central Zone hand Rajat Patidar captaincy, Rinku Singh named deputy",
-    "desc": "Rajat Patidar will captain the Central Zone squad for the upcoming Duleep Trophy tournament. Rinku Singh has been named as his deputy for the prestigious domestic competition. Saransh Jain is expected to miss early matches while with the national Test team. The Central Zone squad features experienced batters and promising young domestic talents. This tournament marks the beginning of India's domestic red-ball cricket season.",
-    "img": "https://static.toiimg.com/photo/msid-132789448,imgsize-55804.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/duleep-trophy-2026-central-zone-hand-rajat-patidar-captaincy-rinku-singh-named-deputy/articleshow/132789341.cms",
-    "time": "2026-08-01T12:38:59.000Z"
   },
   {
     "cat": "Entertainment",
@@ -576,15 +621,6 @@ const newsData_en = [
     "time": "2026-08-01T08:21:28.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Jana Nayagan' BO day 10 [Live]: Vijay starrer sees weekend boost",
-    "desc": "Jana Nayagan continues its successful run in its second weekend. The film collected Rs 0.63 crore on its tenth day. This brings the total India net collection to Rs 184.19 crore. Weekend collections are crucial for the action drama's continued success. The movie remains a top choice for moviegoers in Tamil Nadu.",
-    "img": "https://static.toiimg.com/photo/msid-132785316,imgsize-244255.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-box-office-collection-day-10-live-vijay-and-pooja-hegde-starrer-sees-weekend-boost-crosses-rs-184-crore-in-india/articleshow/132785304.cms",
-    "time": "2026-08-01T08:17:59.000Z"
-  },
-  {
     "cat": "Business",
     "title": "GST collections jump 15.4% to over Rs 2.11 lakh crore in July",
     "desc": "India's gross Goods and Services Tax collections reached over Rs 2.11 lakh crore in July. This represents a significant 15.4 percent increase compared to the previous year. Higher revenues from both domestic transactions and imports contributed to this strong performance. The government also maintained a healthy pace of refunds, totaling Rs 29,968 crore. Net GST revenue after refunds remained robust, indicating sustained growth in the indirect tax base.",
@@ -691,24 +727,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/gst-rate-cuts-slow-down-q1-tax-collection-growth/articleshow/132779222.cms",
     "time": "2026-08-01T00:00:48.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Zepto to delay IPO by 2-3 qtrs, CEO tells staff",
-    "desc": "Zepto will delay its public listing by two to three quarters. The quick commerce startup faced tepid investor response on its valuation. Domestic investors offered valuations significantly lower than its last funding round. The company now seeks Rs 1,000 crore in pre-IPO funding. Zepto aims for a lower valuation of around $4-4.5 billion for this investment.",
-    "img": "https://static.toiimg.com/photo/msid-132779194,imgsize-1065047.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/zepto-to-delay-ipo-by-2-3-qtrs-ceo-tells-staff/articleshow/132779180.cms",
-    "time": "2026-07-31T23:55:46.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Sebi bars Zee’s Chandra, Goenka from market for 1 year",
-    "desc": "Sebi has banned Zee group's Subhash Chandra and Punit Goenka for one year. They fraudulently pledged Zee Entertainment Enterprises land parcels as security for personal loans. Chandra and Goenka misused their positions, risking the company's assets for personal gain. The regulator also imposed fines on Chandra, Goenka, and the company for these fraudulent acts. This action was taken after a thorough investigation into the 2018 transactions.",
-    "img": "https://static.toiimg.com/photo/msid-132779158,imgsize-23988.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/sebi-bars-zees-chandra-goenka-from-mkt-for-1-yr/articleshow/132779151.cms",
-    "time": "2026-07-31T23:53:20.000Z"
   },
   {
     "cat": "World",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/opinion/op-ed/from-pajero-culture-to-street-protests-the-struggle-for-accountability-in-pakistan-occupied-kashmir/article70124264.ece",
     "time": "2026-07-30T10:48:12.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "a quiet case for pluralism in Myanmar",
-    "desc": "In a country where geography mirrors diversity and authority remains contested, elections in Myanmar unfold detached from realities on the ground; with key Opposition forces excluded and large swathes of the nation outside effective participation, the exercise underscores how the absence of pluralism and federal accommodation continue to undermine any meaningful democratic transition",
-    "img": "https://th-i.thgim.com/public/incoming/5nwvs1/article70789771.ece/alternates/LANDSCAPE_1200/AFP_A3EU4F6.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/ballots-without-a-country-a-quiet-case-for-pluralism-in-myanmar/article70788535.ece",
-    "time": "2026-07-30T10:47:27.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Why is the founder of Telegram on Russia’s wanted list",
-    "desc": "The international wanted notice against Pavel Durov comes after the FSB said that Telegram had failed to remove “numerous channels, chats, and bots” allegedly used by “Ukrainian intelligence agencies and terrorist and extremist organisations” to prepare and coordinate acts of “sabotage and terrorism, mass murder, and cyber fraud” in Russia.",
-    "img": "https://th-i.thgim.com/public/incoming/on2zwb/article71284277.ece/alternates/LANDSCAPE_1200/2024-09-17T050018Z_531756498_RC242AAINJT0_RTRMADP_3_FRANCE-SECURITY-RUSSIA-TELEGRAM.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/why-is-the-founder-oftelegramonrussiaswantedlist-explained/article71284265.ece",
-    "time": "2026-07-30T08:10:34.000Z"
   }
 ];
