@@ -1,21 +1,228 @@
 const newsData_en = [
   {
     "cat": "Sports",
+    "title": "Hardik Pandya’s trade gains traction as Mumbai Indians plans to hit reset button",
+    "desc": "Chennai Super Kings has emerged as a possible next stop for the India all-rounder — and, given his profile, there would be no shortage of suitors if he does become available — while Rajasthan Royals, Kolkata Knight Riders and Delhi Capitals have also been understood to be considering the Hardik option",
+    "img": "https://th-i.thgim.com/public/sport/y9zoam/article71295544.ece/alternates/LANDSCAPE_1200/TH02HARDIK.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/hardik-pandyas-trade-gains-traction-as-mumbai-indians-plans-to-hit-reset-button/article71295534.ece",
+    "time": "2026-08-01T15:43:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Forum stages protest seeking clearance for Kalasa-Banduri drinking water in Hubballi",
+    "desc": "Condemning what they termed as stepmotherly treatment of Karnataka by the Union government, members of the Mahadayi Kalasa-Banduri Horata Samiti staged a protest outside Union Minister Pralhad Joshi’s office in Hubballi on Saturday and courted arrest",
+    "img": "https://th-i.thgim.com/public/incoming/tflors/article71295550.ece/alternates/LANDSCAPE_1200/2699_1_8_2026_19_45_36_1_02HUBLIKALASPROTEST.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/forum-stages-protest-seeking-clearance-for-kalasa-banduri-drinking-water-in-hubballi/article71295073.ece",
+    "time": "2026-08-01T15:42:57.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "UPI reaches new milestone in July with highest-ever transaction value of Rs 29.88 lakh crore",
+    "desc": "India's UPI platform achieved its highest monthly transaction value ever. In July, transaction volumes also reached a new record high. The platform processed billions of transactions, surpassing previous records. This sustained growth strengthens India's digital payment ecosystem significantly. UPI is also expanding its global footprint across several countries.",
+    "img": "https://static.toiimg.com/photo/msid-132792434,imgsize-1752971.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/upi-reaches-new-milestone-in-july-with-highest-ever-transaction-value-of-rs-29-88-lakh-crore/articleshow/132792336.cms",
+    "time": "2026-08-01T15:41:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "cloudburst-like event exposes gaps in State’s weather forecasting, disaster preparedness",
+    "desc": "While the IMD failed to issue a red alert in advance despite the impending extreme rainfall event, the State disaster management authorities failed to recognise the unfolding crisis in the ghat regions due to the absence of timely warnings",
+    "img": "https://th-i.thgim.com/public/incoming/vcwsct/article71295450.ece/alternates/LANDSCAPE_1200/80968_1_8_2026_19_54_59_1_IMG_8306.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-floods-2026-cloudburst-like-event-exposes-gaps-in-states-weather-forecasting-disaster-preparedness/article71295370.ece",
+    "time": "2026-08-01T15:29:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "3 Gold, 2 Silver, 2 Bronze: Indian para athletes script history in Glasgow",
+    "desc": "India's para athletes achieved their finest-ever performance at the 2026 Commonwealth Games. They secured seven medals, matching all previous editions combined in a single campaign. Para athletics led the success, contributing six medals including three gold and two silvers. Indian athletes achieved multiple one-two finishes in several track and field events. This historic showing marks a significant leap forward for Indian para sports.",
+    "img": "https://static.toiimg.com/photo/msid-132792212,imgsize-1205462.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/3-gold-2-silver-2-bronze-indian-para-athletes-script-history-with-record-seven-medal-in-glasgow/articleshow/132792150.cms",
+    "time": "2026-08-01T15:24:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "DMK moves SC seeking immediate release of Cauvery water from Karnataka to Tamil Nadu",
+    "desc": "The DMK has petitioned the Supreme Court for immediate Cauvery water release from Karnataka. Karnataka's government faces a directive to release 3,500 cusecs daily for fifteen days. The plea also seeks to clear an accumulated water release shortfall of 9.46 TMC. Karnataka's Chief Minister urged protesters to withdraw their agitation against water releases. The state government will protect farmers' interests while respecting judicial orders.",
+    "img": "https://static.toiimg.com/photo/msid-132792195,imgsize-2258700.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/dmk-moves-sc-seeking-immediate-release-of-cauvery-water-from-karnataka-to-tamil-nadu/articleshow/132792083.cms",
+    "time": "2026-08-01T15:18:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Egg-therapy could turn on its head’: Bengal BJP chief Samik Bhattacharya cautions party workers",
+    "desc": "West Bengal BJP president Samik Bhattacharya cautioned party workers against arrogance and complacency. He warned that the \"egg therapy\" could turn against them if they become overconfident. Bhattacharya acknowledged that extortion culture has not been fully eradicated since the government took power. He emphasized the need to free the business ecosystem from partisan politics. The party is making earnest efforts to build a government for West Bengal.",
+    "img": "https://static.toiimg.com/photo/msid-132792183,imgsize-294594.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/egg-therapy-could-turn-on-its-head-bengal-bjp-chief-samik-bhattacharya-cautions-party-workers/articleshow/132791944.cms",
+    "time": "2026-08-01T15:18:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "IITs, IIMs begin with voluntary urine tests at admission",
+    "desc": "Part of government mission to screen 10 lakh students at 170 central higher education institutes by 2029; under a framework provided by National Drug Dependence Treatment Centre, the test is meant to be confidential, cannot result in any ‘negative repercussions on the students taking it whatsoever’, and should be kept for counselling purposes only",
+    "img": "https://th-i.thgim.com/public/incoming/syjks/article71295377.ece/alternates/LANDSCAPE_1200/CIC-directs-IITGL7G98LA8.5.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/drug-testing-college-students-iits-iims-begin-with-voluntary-urine-tests-at-admission/article71294518.ece",
+    "time": "2026-08-01T15:10:28.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Indian equities ‘probably oversold’: FIIs warm up after months of outflows",
+    "desc": "Foreign investors are showing renewed interest in Indian equities after significant outflows. Geopolitical uncertainties and elevated oil prices continue to pose risks to the outlook. India's domestic economy demonstrates robust performance with healthy sales and credit growth. The Reserve Bank of India is expected to align its monetary policy with the US Federal Reserve. Delays in bond index inclusion reflect global market dynamics, not India's debt concerns.",
+    "img": "https://static.toiimg.com/photo/msid-132792004,imgsize-63548.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indian-equities-probably-oversold-foreign-investors-warm-up-to-india-after-months-of-outflows/articleshow/132792008.cms",
+    "time": "2026-08-01T15:03:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "West Bengal to clear all pending CAA applications within six months, says Suvendu Adhikari",
+    "desc": "West Bengal's Chief Minister Suvendu Adhikari pledged to resolve all pending CAA applications soon. He stated the law grants citizenship and is not meant to revoke it. Nearly twenty-four thousand citizenship certificates have already been issued to eligible refugees. The government will delegate powers to district magistrates for faster application processing. This initiative aims to provide citizenship to persecuted minorities from neighboring countries.",
+    "img": "https://static.toiimg.com/photo/msid-132792003,imgsize-64736.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/west-bengal-to-clear-all-pending-caa-applications-within-six-months-says-suvendu-adhikari/articleshow/132791793.cms",
+    "time": "2026-08-01T15:03:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Prashant Kishor",
+    "desc": "JSP leader accuses Patna SSP of trying to hamper polling; petitions Bihar CEO who says he will order a probe and take action; Mr. Kishor to hold press conference on August 2 to bring evidence into the public domain",
+    "img": "https://th-i.thgim.com/public/incoming/lxqhv4/article71295345.ece/alternates/LANDSCAPE_1200/PTI08_01_2026_000369A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/patna-ssp-played-a-questionable-role-in-bankipur-byelection-prashant-kishor/article71295011.ece",
+    "time": "2026-08-01T14:59:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rumesh Tharanga Pathirage replaces Arshad Nadeem as Neeraj Chopra's biggest rival",
+    "desc": "Rumesh Tharanga Pathirage secured Commonwealth Games gold with a strong throw. Neeraj Chopra returned from injury to claim the silver medal. Yash Vir Singh surprised many by winning a bronze medal. Pathirage's victory establishes him as the current world leader. This event signals a developing rivalry for future competitions.",
+    "img": "https://static.toiimg.com/photo/msid-132791949,imgsize-196274.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/rumesh-tharanga-pathirage-replaces-arshad-nadeem-as-neeraj-chopras-biggest-rival-storms-to-become-new-cwg-javelin-champion/articleshow/132791980.cms",
+    "time": "2026-08-01T14:59:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Donald Trump says he never discussed Infantino's World Cup proposal as FIFA later scraps plan",
+    "desc": "US President Donald Trump said he never discussed FIFA's controversial private investment proposal with Gianni Infantino, distancing himself from speculation over the plan's reported links to Thrive Capital. His comments came before FIFA abandoned the FIFA Forward Enterprise project following fierce global opposition, ending a week-long governance crisis that sparked boycott threats and internal resignations.",
+    "img": "https://static.toiimg.com/photo/msid-132791570,imgsize-94864.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/donald-trump-says-he-never-discussed-infantinos-world-cup-proposal-as-fifa-later-scraps-plan/articleshow/132791583.cms",
+    "time": "2026-08-01T14:56:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Industrialist alleges kidnap threat by A.P. Deputy Speaker Raghu Ramakrishna Raju",
+    "desc": "Madala Srinivasa Rao seeks police protection after a 10-member group allegedly tried to kidnap him at the instance of the Deputy Speaker; preliminary inquiry points to civil dispute linked to a financial transaction, say police",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/industrialist-alleges-kidnap-threat-by-ap-deputy-speaker-raghu-ramakrishna-raju/article71294215.ece",
+    "time": "2026-08-01T14:51:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Kept motivating me': Jadumani Singh credits Sarita Devi for his CWG silver medal journey",
+    "desc": "Jadumani Singh Mandengbam secured a silver medal at the Commonwealth Games. He credited veteran boxer Sarita Devi for her significant support and guidance. Sarita Devi's daily advice and encouragement were crucial to his journey. The young boxer aims to improve and perform well in future competitions. This silver medal will motivate him to work even harder.",
+    "img": "https://static.toiimg.com/photo/msid-132791337,imgsize-89392.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/she-kept-motivating-me-jadumani-singh-credits-sarita-devi-for-his-cwg-silver-medal-journey/articleshow/132791333.cms",
+    "time": "2026-08-01T14:21:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Disappointed with PM Modi': Shehzad Poonawalla’s sarcastic 'dictator' jibe at oppn after quitting BJP",
+    "desc": "Taking a jibe at PM Modi's critics, Shehzad Poonawalla expressed \"disappointment\" with Prime Minister Narendra Modi's leadership style. He sarcastically suggested Modi learn dictatorship from past Congress leaders. Poonawalla cited Indira Gandhi and Jawaharlal Nehru as examples of strong rule. He also mentioned past Congress governments' actions during protests. The former spokesperson concluded Modi had not met Left-liberal expectations.",
+    "img": "https://static.toiimg.com/photo/msid-132791146,imgsize-134812.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/12-years-and-yet-to-become-dictator-shehzad-poonawallas-sarcastic-response-to-pm-modis-critics-after-quitting-bjp/articleshow/132790402.cms",
+    "time": "2026-08-01T14:08:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tejaswin Shankar's week of tears, resilience &amp; history",
+    "desc": "Tejaswin finished with 7,976 points in the demanding 10-event competition held over two days. He competed despite dealing with chronic patellar tendinitis (jumper's knee), the same injury that had forced him to pull out of the men's high jump event earlier in the Games.",
+    "img": "https://static.toiimg.com/photo/msid-132790713,imgsize-537232.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/from-knee-injury-to-indias-first-commonwealth-games-decathlon-medal-tejaswin-shankars-week-of-tears-resilience-and-history/articleshow/132790498.cms",
+    "time": "2026-08-01T13:48:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'A lot of negative thoughts': Jaismine reveals how she went from hospital bed to CWG gold",
+    "desc": "Jaismine Lamboria won the Commonwealth Games 57kg gold medal after a significant illness. She battled a high fever and concussion during the Asian Championships earlier. This victory marked a remarkable comeback after months of uncertainty and pain. Her coaches supported her through the difficult recovery period. The gold medal fulfilled her aim of improving on her previous performance.",
+    "img": "https://static.toiimg.com/photo/msid-132790734,imgsize-106084.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/i-did-have-a-lot-of-negative-thoughts-jaismine-lamboria-reveals-how-she-went-from-hospital-bed-to-cwg-gold/articleshow/132790733.cms",
+    "time": "2026-08-01T13:46:24.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India’s balancing act to attract more investment from China, U.S. and boost trade",
+    "desc": "This balancing act has seen gradual and incremental relaxations in several long-held policies of the government — whether it has to do with FDI in e-commerce, allowing FDI from companies with Chinese ownership, or taking action against the dumping of goods in India by its trade partners.",
+    "img": "https://th-i.thgim.com/public/incoming/t0uwd5/article71294830.ece/alternates/LANDSCAPE_1200/iStock-1548395353.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/indias-balancing-act-to-attract-more-investment-from-china-us-and-boost-trade/article71289259.ece",
+    "time": "2026-08-01T13:38:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi inaugurates Swami Vivekananda Cultural Youth Centre in Mysuru",
+    "desc": "Prime Minister Narendra Modi inaugurated the Viveka Smaraka youth centre in Mysuru. This centre aims to inspire young Indians with nation-building and service ideals. The Prime Minister highlighted youth strength driving India's economic growth and development. He also emphasized education in mother tongue and promoting local products. The new facility will nurture youth dedicated to national service and societal welfare.",
+    "img": "https://static.toiimg.com/photo/msid-132790453,imgsize-56446.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pilgrimage-for-spiritual-upliftment-pm-modi-inaugurates-swami-vivekananda-cultural-youth-centre-in-mysuru-pitches-nation-first-vision-for-youth/articleshow/132790408.cms",
+    "time": "2026-08-01T13:35:47.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Italy suspends EU Schengen free-travel pact with Spain over Ceuta crisis",
+    "desc": "Italy does not share a land border with Spain, but the measure — which looks certain to anger ‌Madrid — will impact people travelling by plane or boat between the two countries, meaning they will need to ‌show a passport to gain access",
+    "img": "https://th-i.thgim.com/public/incoming/3ei27h/article71294688.ece/alternates/LANDSCAPE_1200/AFP_C3Q74MB.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/italy-suspends-eu-schengen-free-travel-pact-with-spain-over-ceuta-crisis/article71294642.ece",
+    "time": "2026-08-01T13:32:25.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran military accuses U.S. of 'escalating tensions' in region",
+    "desc": "There were no U.S. strikes on Iran overnight, but Iran’s paramilitary Revolutionary Guard said on Friday (July 31, 2026) it had struck another two tankers in the Strait of Hormuz, and Kuwait said it intercepted drones",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-donald-trump-tehran-mojtaba-khamenei-fresh-strikes-irgc-strait-of-hormuz-ceasefire-deal/article71293385.ece",
+    "time": "2026-08-01T13:15:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vijay talks about being harassed in an uncomfortable encounter with a model coordinator",
+    "desc": "Vijay Varma revealed he faced harassment from a \"weird\" modelling coordinator early in his career, which nearly shook his confidence. He also recalled being rejected by Hyderabad's Sutradhar School of Acting for lacking commitment. These setbacks taught him about the outside world's challenges, before he was finally accepted into FTII's acting programme.",
+    "img": "https://static.toiimg.com/photo/msid-132790232,imgsize-193557.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/he-was-getting-touchy-feely-vijay-varma-opens-up-about-being-harassed-in-an-uncomfortable-encounter-with-a-model-coordinator/articleshow/132790232.cms",
+    "time": "2026-08-01T13:11:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Nepali mountaineer Nirmal Purja dies in avalanche; India's medal rush continues in CWG 2026 &amp; more",
+    "desc": "Mountaineer Nirmal Purja died in a Broad Peak avalanche, ending his legendary career. India secured more medals at the Commonwealth Games 2026, reaching a total of thirty. Rahul Gandhi demanded an apology from Prime Minister Modi for NEET students. A stricter anti-paper leak law has now come into force nationwide. Complaints were filed against Rahul Gandhi and Pappu Yadav regarding a protest.",
+    "img": "https://static.toiimg.com/photo/msid-132790221,imgsize-1059672.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-nepali-mountaineer-nirmal-purja-dies-in-avalanche-indias-medal-rush-continues-in-cwg-2026-more/articleshow/132789665.cms",
+    "time": "2026-08-01T13:10:15.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "UEFA turns up heat on Infantino after FIFA's $20 billion World Cup plan collapse",
     "desc": "FIFA's ambitious $20 billion commercial venture has been abandoned after facing significant opposition. UEFA expressed a loss of confidence in the current FIFA leadership and its processes. The European body criticised the lack of transparency behind the failed proposal. Several football organisations and advisors also voiced their disapproval of the plan. This setback signals a potential challenge to Gianni Infantino's presidency.",
     "img": "https://static.toiimg.com/photo/msid-132790108,imgsize-113152.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/no-option-should-be-off-the-table-uefa-turns-up-heat-on-infantino-after-fifas-20-billion-world-cup-plan-collapse/articleshow/132790113.cms",
     "time": "2026-08-01T13:00:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi CM launches Lakshmi Yojna portal",
-    "desc": "“Delhi Lakshmi Yojana, which is a scheme that will provide economic empowerment to the sisters of Delhi. The government has allocated a budget of ₹5,100 crore for this. The portal has started from today, and registration has also begun,\" CM Gupta said, addressing the public",
-    "img": "https://th-i.thgim.com/public/news/national/t87hex/article71294350.ece/alternates/LANDSCAPE_1200/CM%20Rekha.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Delhi/delhi-cm-launches-lakshmi-yojna-portal/article71294320.ece",
-    "time": "2026-08-01T12:59:16.000Z"
   },
   {
     "cat": "Politics",
@@ -63,15 +270,6 @@ const newsData_en = [
     "time": "2026-08-01T12:24:33.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Chhattisgarh government declares ₹20 lakh aid for kin of two workers killed",
-    "desc": "Deepak Ratre, a resident of Sakti district, and Bhupendra Bhaina from Sarangarh-Bilaigarh district, both in their 20s, were gunned down at the brick kiln where they were employed in the Kelam area of south Kashmir's Kulgam district late on July 31 evening",
-    "img": "https://th-i.thgim.com/public/incoming/8j6io2/article71294474.ece/alternates/LANDSCAPE_1200/TH01-Vishnu-BasGVAF3T8OF.5.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/chhattisgarh/kulgam-terrorist-attack-chhattisgarh-government-declares-20-lakh-aid-for-kin-of-two-workers-killed/article71294437.ece",
-    "time": "2026-08-01T12:10:38.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Soman Rana wins gold, Shubham Juyal takes silver in Para Shot Put F57",
     "desc": "India achieved a one-two finish in the men's F57 shot put event. Soman Rana secured the gold medal while Shubham Juyal earned the silver medal. Praveen Chithravel and Selva Prabhu Thirumaran added silver and bronze in the triple jump. Soman Rana's journey highlights his resilience and dedication to para athletics. These victories mark a memorable day for Indian athletes at the games.",
@@ -88,15 +286,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-dont-think-my-job-is-done-naseeruddin-shah-explains-why-he-has-no-plans-to-retire-and-rejects-lifetime-achievement-honours-despite-decades-of-success/articleshow/132788776.cms",
     "time": "2026-08-01T12:01:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi dedicates Bhogapuram greenfield airport to the nation",
-    "desc": "The Prime Minister said airports in the country were once named after a single family, and that the NDA government had named them after Valmiki, Sant Ravidas and now Alluri Sitarama Raju, whose name would inspire every passenger flying from Bhogapuram",
-    "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/qegp1r/article71294459.ece/alternates/LANDSCAPE_1200/Modi%20final.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/airports-were-once-named-after-a-single-family-modi-at-bhogapuram/article71294137.ece",
-    "time": "2026-08-01T11:58:55.000Z"
   },
   {
     "cat": "Entertainment",
@@ -117,15 +306,6 @@ const newsData_en = [
     "time": "2026-08-01T11:52:16.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Raids on jewellery establishments in Kerala unearth tax suppression worth ₹70 crore",
-    "desc": "The raids begun at 3 p.m. on July 30 and continued till the morning hours of July 31. So far, a fine of ₹2.87 crore has been collected as part of the raids titled ‘Operation Aurum.’",
-    "img": "https://th-i.thgim.com/public/incoming/gyzz47/article71294415.ece/alternates/LANDSCAPE_1200/IMG_iStock-165654958_2_1_02FHBLCS.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/raids-on-jewellery-establishments-in-kerala-unearth-tax-suppression-worth-70-crore/article71294336.ece",
-    "time": "2026-08-01T11:43:37.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Ken Karunaas to headline Chella Ayyavu's next after 'Gatta Kusthi 2'",
     "desc": "Ken Karunaas will headline Chella Ayyavu's upcoming directorial venture. This project follows Chella Ayyavu's recent success with 'Gatta Kusthi 2'. The actor and director are collaborating for the first time on this film. Story discussions are nearing completion, and an announcement is expected soon. Pre-production will commence after the official reveal of the project.",
@@ -144,24 +324,6 @@ const newsData_en = [
     "time": "2026-08-01T11:27:28.000Z"
   },
   {
-    "cat": "World",
-    "title": "Iran military accuses U.S. of 'escalating tensions' in region",
-    "desc": "There were no U.S. strikes on Iran overnight, but Iran’s paramilitary Revolutionary Guard said on Friday (July 31, 2026) it had struck another two tankers in the Strait of Hormuz, and Kuwait said it intercepted drones",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-donald-trump-tehran-mojtaba-khamenei-fresh-strikes-irgc-strait-of-hormuz-ceasefire-deal/article71293385.ece",
-    "time": "2026-08-01T11:22:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Centre to SC",
-    "desc": "The submission was made in an affidavit filed before the top court by the Ministry of Home Affairs in a plea challenging the indefinite detention of persons declared foreigners in Assam without prospects of deportation",
-    "img": "https://th-i.thgim.com/public/news/national/t8bjaa/article71294099.ece/alternates/LANDSCAPE_1200/iStock-1183307734.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/foreign-citizen-cannot-be-deported-unless-home-country-confirms-nationality-centre-to-sc/article71294038.ece",
-    "time": "2026-08-01T11:18:54.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'I've got a wealth of experience': Joe Root embraces England captaincy return",
     "desc": "Joe Root will lead England's Test team again. He returns with valuable leadership experience from his previous tenure. Root captained England in sixty-five Test matches previously. He is set to begin his second stint as captain soon. England will host Pakistan in the first Test match.",
@@ -169,15 +331,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ive-got-a-wealth-of-experience-joe-root-embraces-england-captaincy-return-after-ben-stokes-retirement/articleshow/132787529.cms",
     "time": "2026-08-01T11:10:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Major incidents that shaped the crowd-control debate",
-    "desc": "The alleged use of a pellet gun in the Sansad march organised by the CJP has revived questions about a weapon that has been repeatedly criticised for causing severe injuries. Here’s a timeline of India’s major incidents",
-    "img": "https://th-i.thgim.com/public/news/national/other-states/sfabnd/article31043517.ece/alternates/LANDSCAPE_1200/DE11-PELLET",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/pellet-gun-usage-major-incidents-in-jammu-kashmir-delhi-protest-that-shaped-the-crowd-control-debate-in-india/article71293763.ece",
-    "time": "2026-08-01T11:09:02.000Z"
   },
   {
     "cat": "Entertainment",
@@ -207,15 +360,6 @@ const newsData_en = [
     "time": "2026-08-01T11:00:18.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Moral policing turns violent, four held for storming factory, attacking entrepreneur, woman in Doddaballapura",
-    "desc": "Police said around 30 persons allegedly barged into the manufacturing unit after breaking open the gate, pelted the car with cement blocks, damaged CCTV cameras, and assaulted the complainant and others with machetes, clubs and knives",
-    "img": "https://th-i.thgim.com/public/incoming/v1rg7p/article71281231.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_TheHindu_UOJAO0REF_R1436878538_0_299.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/moral-policing-turns-violent-four-held-for-storming-factory-attacking-entrepreneur-woman-in-doddaballapura/article71281079.ece",
-    "time": "2026-08-01T10:56:24.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Jaismine Lamboria beats Michaela Walsh to win Women's 57kg Boxing Gold",
     "desc": "Jaismine Lamboria secured the women's 57kg boxing gold medal at the 2026 Commonwealth Games. She defeated Michaela Walsh by a unanimous 5-0 decision in the final bout. This victory marked India's seventh gold medal at the Glasgow 2026 event. The win followed Preeti Pawar's earlier boxing gold medal success. Both boxers showed mutual respect after the memorable competition concluded.",
@@ -241,24 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/my-hands-and-legs-started-trembling-ramayana-actress-kajal-aggarwal-recalls-how-an-assistant-directors-tattoo-gesture-crossed-the-line-after-he-entered-her-caravan-without-permission/articleshow/132787160.cms",
     "time": "2026-08-01T10:44:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Third warning at Bhadrachalam as Godavari crosses 56 feet; villagers evacuated in Eluru district",
-    "desc": "More than 15 lakh cusecs was discharged downstream and the level at the Polavaram dam stood at 11.96 metres; SP K. Pratap Shiva Kishore said pregnant women, senior citizens and patients were being moved first",
-    "img": "https://th-i.thgim.com/public/incoming/uotn9l/article71293893.ece/alternates/LANDSCAPE_1200/10215_1_8_2026_13_15_5_1_IMG_20260801_WA0111.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/third-warning-at-bhadrachalam-as-godavari-crosses-56-feet-villagers-evacuated-in-eluru-district/article71293859.ece",
-    "time": "2026-08-01T10:37:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Tears rolled down my eyes’: Pawan Kalyan on abuse against Modi",
-    "desc": "Speaking at the inauguration of the Bhogapuram airport, the Deputy Chief Minister referred to the recent protests at Jantar Mantar without naming any party, and said Prime Minister Narendra Modi had not taken leave for a single day in his three terms",
-    "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/j94hla/article71294149.ece/alternates/LANDSCAPE_1200/Pawan.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/tears-rolled-down-my-eyes-pawan-kalyan-on-abuse-against-modi/article71293843.ece",
-    "time": "2026-08-01T10:27:50.000Z"
   },
   {
     "cat": "Sports",
@@ -313,24 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rajinikanths-baba-to-vijays-jana-nayagan-how-the-cauvery-dispute-impacted-tamil-films-in-karnataka/articleshow/132786287.cms",
     "time": "2026-08-01T09:38:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Terrorists asked caste, community': Family claims Kulgam victims were 'identified' before being shot",
-    "desc": "Two Chhattisgarh labourers were killed in a terror attack at a brick kiln in Kulgam. Attackers allegedly questioned the victims about their caste and community before opening fire on them. This incident echoes survivor accounts from a previous terror attack in Pahalgam. The victims were identified as Deepak Ratrey and Bhupendra Bhaina from Chhattisgarh. Authorities are coordinating to return the bodies and provide financial assistance to the families.",
-    "img": "https://static.toiimg.com/photo/msid-132786178,imgsize-1047953.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/kulgam-terror-attack-kharge-claims-labourers-were-asked-to-identify-before-being-shot/articleshow/132785948.cms",
-    "time": "2026-08-01T09:28:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Whenever we seek statehood': Farooq Abdullah questions 'timing' of Kulgam terror attack",
-    "desc": "Two migrant labourers were killed in a terrorist attack in Kulgam district. National Conference president Farooq Abdullah questioned the timing of this incident. He noted such attacks occur when his party demands statehood restoration. People's Democratic Party chief Mehbooba Mufti called the killings a security lapse. She requested a high-level investigation and compensation for the victims.",
-    "img": "https://static.toiimg.com/photo/msid-132786176,imgsize-29570.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/whenever-we-seek-statehood-farooq-abdullah-questions-timing-of-kulgam-attack/articleshow/132786131.cms",
-    "time": "2026-08-01T09:27:19.000Z"
   },
   {
     "cat": "Entertainment",
@@ -414,15 +522,6 @@ const newsData_en = [
     "time": "2026-08-01T07:43:46.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "NSA Ajit Doval receives Lokmanya Tilak National Award for national security contribution",
-    "desc": "Union home minister Amit Shah presented the award at a ceremony held on the 106th death anniversary of freedom fighter Lokmanya Bal Gangadhar Tilak. The event took place at the Kataria High School ground in Mukundnagar and was attended by Maharashtra chief minister Devendra Fadnavis, deputy chief ministers Eknath Shinde and Sunetra Pawar, along with several senior political leaders and dignitaries.",
-    "img": "https://static.toiimg.com/photo/msid-132784730,imgsize-54684.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/nsa-ajit-doval-receives-lokmanya-tilak-national-award-for-national-security-contribution/articleshow/132784737.cms",
-    "time": "2026-08-01T07:37:27.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Quote of the day by George Clooney",
     "desc": "George Clooney, celebrated for his remarkable career, recently garnered prestigious awards that reflect his talent and dedication. With a successful Broadway debut alongside notable film accolades, Clooney emphasizes the importance of perspective in the face of public scrutiny. His journey from television to film, coupled with a commitment to family and humanitarian efforts, showcases his ability to juggle multiple passions with grace.",
@@ -430,24 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-george-clooney-youre-never-as-good-as-they-say-you-are-and-youre-never-as-bad-as-they-say-you-are-when-the-oceans-eleven-icon-explained-why-balance-matters-more-than-praise-/articleshow/132784572.cms",
     "time": "2026-08-01T07:29:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CJP founder Abhijeet Dipke falls sick again while meeting people in building parking",
-    "desc": "According to those present, he suddenly felt unwell and moved to the rear of the building, where he vomited. He later returned upstairs to his residence without speaking to the media. Confirming the incident, Dipke's father, Bhagwan Dipke, said doctors had been called to examine his son. Dipke had disclosed on July 25, during the protests at Jantar Mantar in New Delhi, that he had been diagnosed with typhoid.",
-    "img": "https://static.toiimg.com/photo/msid-132784622,imgsize-736325.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cjp-founder-abhijeet-dipke-falls-sick-again-while-meeting-people-in-building-parking/articleshow/132784334.cms",
-    "time": "2026-08-01T07:27:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Seyon' actor Sivakarthikeyan's latest post gets fans talking",
-    "desc": "Sivakarthikeyan's recent Ooty pictures have fans speculating about the 'Seyon' film's shooting location. The actor shared serene images from the scenic hill station, enjoying a peaceful moment. Reports suggest the next schedule for 'Seyon' is expected to commence soon. This rural action film blends mythological elements and is backed by Kamal Haasan. Fans eagerly await an official update from the makers regarding the film's progress.",
-    "img": "https://static.toiimg.com/photo/msid-132784597,imgsize-137221.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/is-seyon-shooting-in-ooty-sivakarthikeyans-latest-post-gets-fans-talking-about-makers-shifting-the-shoot-to-a-new-location/articleshow/132784587.cms",
-    "time": "2026-08-01T07:25:03.000Z"
   },
   {
     "cat": "Business",
@@ -486,33 +567,6 @@ const newsData_en = [
     "time": "2026-08-01T05:56:03.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'His successes make every Indian proud': PM Modi's heartfelt message for Neeraj Chopra",
-    "desc": "Prime Minister Narendra Modi congratulated Indian athletes for their performances. Neeraj Chopra secured a silver medal in the men's javelin throw event. Yash Vir Singh and Yamini Maurya also won bronze and silver medals respectively. Tejaswin Shankar earned a bronze medal in the men's decathlon competition. India's medal tally at the games now stands at twenty-three.",
-    "img": "https://static.toiimg.com/photo/msid-132782035,imgsize-83678.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/his-successes-make-every-indian-proud-pm-modis-heartfelt-message-for-neeraj-chopra-after-cwg-silver/articleshow/132781943.cms",
-    "time": "2026-08-01T05:35:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How Tejaswin Shankar turned an injury scare into a historic CWG medal",
-    "desc": "Tejaswin Shankar secured a historic bronze medal in the Commonwealth Games decathlon. He overcame a sudden leg injury that threatened his participation in the event. Shankar focused on each moment and session to achieve his best performance. He finished the 1,500m race to seal his podium finish. This medal marks his second Commonwealth Games achievement.",
-    "img": "https://static.toiimg.com/photo/msid-132781853,imgsize-47163.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/i-wasnt-even-in-a-position-to-compete-how-tejaswin-shankar-turned-an-injury-scare-into-a-historic-commonwealth-games-medal/articleshow/132781838.cms",
-    "time": "2026-08-01T05:16:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'He could captain India': Why Sooryavanshi was named East Zone vice-captain",
-    "desc": "East Zone selectors appointed Vaibhav Sooryavanshi as vice-captain for the Duleep Trophy. This move aims to develop his leadership skills by observing the captain closely. Experienced players like Abhimanyu Easwaran were not considered for this specific role. Ishan Kishan will lead the team as captain, with Sooryavanshi as his deputy. Both players are seen as future prospects for India's cricket setup.",
-    "img": "https://static.toiimg.com/photo/msid-132781468,imgsize-112528.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/one-day-he-could-captain-india-selectors-explain-why-15-year-old-vaibhav-sooryavanshi-was-named-east-zone-vice-captain/articleshow/132781466.cms",
-    "time": "2026-08-01T04:52:45.000Z"
-  },
-  {
     "cat": "Business",
     "title": "PM Modi to inaugurate Rs 5,640-crore Alluri Sitarama Raju International Airport in Andhra Pradesh — See pics",
     "desc": "Prime Minister Narendra Modi inaugurates the Alluri Sitarama Raju International Airport on Saturday. He will also lay foundation stones for significant development projects worth over seventeen thousand nine hundred crore. The new airport is designed to handle six million passengers annually and boost regional connectivity. Foundation stone will be laid for Andhra Pradesh's first semiconductor manufacturing facility.",
@@ -522,24 +576,6 @@ const newsData_en = [
     "time": "2026-08-01T04:20:05.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Pant trains with MS Dhoni ahead of Sri Lanka Test series; photo goes viral",
-    "desc": "Rishabh Pant trains with MS Dhoni in Ranchi for the upcoming Test series. Pant is preparing for the crucial Sri Lanka series after a recent IPL season. India needs strong performances in this series for the World Test Championship. Dhoni remains away from competitive cricket due to injury concerns. He is reportedly considered for a mentorship role with Chennai Super Kings.",
-    "img": "https://static.toiimg.com/photo/msid-132781030,imgsize-938960.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/rishabh-pant-trains-with-ms-dhoni-ahead-of-sri-lanka-test-series-photo-goes-viral/articleshow/132781009.cms",
-    "time": "2026-08-01T04:05:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "No Pant, no Samson, no Abhishek: Ashwin's India squad for 2027 WC",
-    "desc": "Former spinner Ravichandran Ashwin shared his 2027 ODI World Cup squad selections. He categorized players into 'Yes', 'Maybe', and 'No' lists for the tournament. Ashwin included veteran pacer Bhuvneshwar Kumar in his preferred squad. He believes Bhuvneshwar can perform well in South African conditions. Rishabh Pant and Sanju Samson were notably absent from Ashwin's top picks.",
-    "img": "https://static.toiimg.com/photo/msid-132780588,imgsize-48090.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/no-rishabh-pant-no-sanju-samson-no-abhishek-sharma-ashwins-india-squad-for-2027-odi-world-cup/articleshow/132780406.cms",
-    "time": "2026-08-01T03:34:56.000Z"
-  },
-  {
     "cat": "Business",
     "title": "FIFA abandons $4.2-billion World Cup stake sale plan after global backlash",
     "desc": "FIFA has withdrawn its plan to sell a stake in its commercial operations. Strong opposition from football federations led to the proposal's abandonment. FIFA President Gianni Infantino announced the decision after listening to all views. Major continental bodies like UEFA and CONCACAF rejected the plan. Infantino will now seek other ways to strengthen global football.",
@@ -547,15 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/fifa-abandons-4-2-billion-world-cup-stake-sale-plan-after-global-backlash/articleshow/132780194.cms",
     "time": "2026-08-01T03:23:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why Neeraj Chopra's silver meant more with Yashvir by his side in Glasgow",
-    "desc": "Neeraj Chopra secured a silver medal in the javelin throw at the Commonwealth Games. He shared the podium with fellow Indian Yashvir Singh, who won bronze. Yashvir achieved a personal best throw on his final attempt to claim the medal. Chopra expressed happiness at sharing the podium with another Indian athlete. This silver medal adds to Chopra's extensive collection of career achievements.",
-    "img": "https://static.toiimg.com/photo/msid-132780077,imgsize-40830.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/why-neeraj-chopras-cwg-2026-silver-meant-more-with-yashvir-singh-by-his-side-in-glasgow/articleshow/132780041.cms",
-    "time": "2026-08-01T02:53:35.000Z"
   },
   {
     "cat": "Business",
@@ -592,15 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/commercial-lpg-prices-cut-by-over-rs-200-check-19-kg-cylinder-rates-in-delhi-kolkata/articleshow/132779420.cms",
     "time": "2026-08-01T01:48:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How Yashvir Singh's self-talk inspired a historic javelin bronze at Commonwealth Games",
-    "desc": "Yashvir Singh secured a historic bronze medal with a personal best throw. Neeraj Chopra won the silver medal with his season's best performance. Sri Lanka's Rumesh Tharanga Pathirage claimed the gold medal in the event. Sharing the podium with Yashvir made the achievement more special for Chopra. Both athletes achieved significant milestones during the competition.",
-    "img": "https://static.toiimg.com/photo/msid-132779413,imgsize-36348.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/how-yashvir-singhs-self-talk-inspired-a-historic-javelin-bronze-at-the-commonwealth-games/articleshow/132779409.cms",
-    "time": "2026-08-01T01:14:51.000Z"
   },
   {
     "cat": "Business",
@@ -648,15 +666,6 @@ const newsData_en = [
     "time": "2026-07-31T23:53:20.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Gold loans jump 94% y-o-y, fuel bank credit growth in Q1",
-    "desc": "Gold loans fueled a significant acceleration in bank credit during Q1FY27. This segment expanded by 93.8% year on year, adding substantial value. Overall bank credit also saw robust growth, crossing a significant milestone. Credit to industry recorded its highest first-quarter expansion in recent years. Vehicle loans and medium enterprises also showed strong performance.",
-    "img": "https://static.toiimg.com/photo/msid-132779131,imgsize-74517.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-loans-jump-94-y-o-y-fuel-bank-credit-growth-in-q1/articleshow/132779125.cms",
-    "time": "2026-07-31T23:49:04.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India’s standing after historic six-medal day",
     "desc": "India enjoyed their best day of the 2026 Commonwealth Games, winning six medals to take their tally to 23. Harsh Singh and Asmita Dey claimed historic judo golds, Neeraj Chopra secured javelin silver, Yash Vir Singh won bronze, Tejaswin Shankar earned India's first decathlon medal, and Yamini Mourya added judo silver as India closed on ninth-placed Wales.",
@@ -700,15 +709,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trump-announces-agreement-for-disarmament-of-hamas/article71288798.ece",
     "time": "2026-07-31T16:31:55.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Why sanctions Bill for tariffs on Russian oil buyers may fail House test",
-    "desc": "Lawmakers from both parties, along with industry trade groups, have raised concerns over a section of the legislation that would allow Trump to impose hefty tariffs on countries that buy significant volumes of Russian oil and gas.",
-    "img": "https://static.toiimg.com/photo/msid-132771607,imgsize-365352.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/tough-road-for-trump-why-sanctions-bill-for-tariffs-on-russian-oil-buyers-may-fail-house-test/articleshow/132770964.cms",
-    "time": "2026-07-31T15:55:58.000Z"
   },
   {
     "cat": "Business",
@@ -882,15 +882,6 @@ const newsData_en = [
     "time": "2026-07-30T07:22:28.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Will Emerald Isle spark Test rejuvenation?",
-    "desc": "Sri Lanka are coming off a 0-1 loss in the West Indies in a two-match showdown which ended some three weeks back. Dhananjaya de Silva’s men have greater motivation than ever before as they embark on the twin challenges of regaining their hegemony over India in their own background and hauling their WTC aspirations back on track at this early stage",
-    "img": "https://th-i.thgim.com/public/sport/ac7up/article71283137.ece/alternates/LANDSCAPE_1200/GettyImages-2226765090.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/will-emerald-isle-spark-test-rejuvenation/article71283117.ece",
-    "time": "2026-07-29T18:56:06.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "What is the EU AI transparency code?",
     "desc": "Starting from August 2, the EU mandates labels for AI-generated content to boost transparency online. From deepfakes to manipulated text, find out how this new code seeks to protect users and maintain the integrity of information",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/what-is-the-eu-ai-transparency-code-explained/article71279676.ece",
     "time": "2026-07-29T05:06:21.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "After OpenAI-Hugging Face AI agent hack, U.S. lawmakers push for control",
+    "desc": "After OpenAI shared that some of its models had caused a security breach at another company, a White House official quoted by Reuters said that U.S. President Donald Trump’s ​tech adviser, Michael Kratsios, was tracking the situation",
+    "img": "https://th-i.thgim.com/public/incoming/2gddpv/article71260959.ece/alternates/LANDSCAPE_1200/OpenAI_56692.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/after-openai-hugging-face-ai-agent-hack-us-lawmakers-push-for-control/article71260982.ece",
+    "time": "2026-07-28T06:42:24.000Z"
   }
 ];

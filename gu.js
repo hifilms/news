@@ -1,6 +1,24 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "શું જાહેર સ્થળો પર ગાળ બોલવી ગુનો છે? કયા સંજોગોમાં નોંધાય શકે છે FIR અને કેટલી મળે છે સજા? જાણો",
+    "desc": "જંતર-મંતર પર વિરોધ પ્રદર્શન દરમિયાન વડાપ્રધાન નરેન્દ્ર મોદી વિશે અપશબ્દો અને વાંધાજનક પોસ્ટરો લગાવ્યા બાદ એક ચર્ચા વધુ તીવ્ર બની છે. શું જાહેર સ્થળો પર અપશબ્દોનો ઉપયોગ કરવો એ ગુનો છે? શું દરેક અપમાનજનક ટિપ્પણી માટે FIR નોંધાઈ શકે છે અથવા તેમાં કોઈ ચોક્કસ કાનૂની માપદંડ સામેલ છે? ચાલો વિગતવાર જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/swearing-in-public-places-a-crime-under-what-circumstances-can-an-fir-be-registered-and-what-is-the-punishment-know-486415 ",
+    "time": "2026-08-01T15:19:30.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "762 રૂપિયામાં મળી રહ્યો છે LPG સિલિન્ડર, ગેસ કનેક્શનની પણ જરૂર નથી, જાણો ક્યાંથી મળશે",
+    "desc": "14.2 કિલોના ઘરેલુ LPG સિલિન્ડરની કિંમત પ્રતિ સિલિન્ડર ₹942 છે. જો કે, સામાન્ય નાગરિકોના ઉપયોગ માટે એક એવો LPG સિલિન્ડર પણ છે જેની કિંમત ₹800થી ઓછી છે અને આ માટે કોઈ ગેસ કનેક્શનની પણ જરૂર નથી. ત્યારે આ સિલિન્ડર કેવી રીતે અને ક્યાંથી મળશે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/lpg-cylinder-price-cut-small-5kg-chhotu-cylinder-has-become-cheaper-486414 ",
+    "time": "2026-08-01T14:34:08.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "ભારે વરસાદ બાદ હવે દુષ્કાળનો ભય! IMD-WMOએ ઓગસ્ટ માટે કરી ચિંતાજનક ભવિષ્યવાણી, જાણો",
     "desc": "જુલાઈ મહિનામાં ભારે વરસાદ પછી, શું દેશ પર દુષ્કાળનો પડછાયો છવાઈ રહ્યો છે? હવામાનશાસ્ત્રીઓના મતે, પ્રશાંત મહાસાગરમાં વિકસિત થતો સુપર અલ નીનો ઓગસ્ટમાં ચોમાસાના પવનો પર બ્રેક લગાવી શકે છે. IMD અને WMOની આ ભયંકર ચેતવણીએ લોકોની ચિંતા વધારી દીધી છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -207,15 +225,6 @@ const newsData_gu = [
     "time": "2026-07-31T03:33:25.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "બાળકોના ભવિષ્ય સાથે ચેડાં કરનાર ગેંગને છોડીશું નહીં, એન્ટી પેપર બિલ પાસ થયા બાદ PM મોદી શેર કર્યો વીડિયો",
-    "desc": "વડાપ્રધાન નરેન્દ્ર મોદીએ પેપર સંશોધન બિલ પાસ થયા બાદ ઇન્સ્ટાગ્રામ દ્વારા દેશભરના યુવાનો અને તેમના પરિવારો સાથે સીધો સંવાદ કર્યો છે. વડાપ્રધાન નરેન્દ્ર મોદીએ કહ્યું કે, સંસદે એક મહત્વપૂર્ણ બિલ પાસ કરી દીધું છે, જે દેશની પરીક્ષા સિસ્ટમને વધુ મજબૂત અને વિશ્વસનીય બનાવશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/we-will-not-spare-the-gang-that-is-tampering-with-the-future-of-children-pm-modi-shared-a-video-after-the-anti-paper-bill-was-passed-486226 ",
-    "time": "2026-07-30T17:50:04.000Z"
-  },
-  {
     "cat": "Business",
     "title": "E20 પેટ્રોલ વાહનો માટે સુરક્ષિત, વૈજ્ઞાનિક ચકાસણી બાદ જ કરાયો અમલ, સરકારનો મોટો દાવો",
     "desc": "સરકારે જણાવ્યું છે કે E20 ઇથેનોલ મિશ્રિત પેટ્રોલનો અમલ વ્યાપક વૈજ્ઞાનિક અભ્યાસ, ફિલ્ડ ટ્રાયલ્સ અને ઓટોમોબાઇલ ઉત્પાદકો સહિત વિવિધ હિતધારકો સાથેના પરામર્શ બાદ કરવામાં આવ્યો છે. સરકારના જણાવ્યા મુજબ, કરોડો વાહનોના અનુભવમાં E20થી એન્જિનને કોઈ નોંધપાત્ર નુકસાન, કાટ કે અસાધારણ ઘસારો જોવા મળ્યો નથી અને તે સુરક્ષિત તથા વિશ્વસનીય ઇંધણ છે.",
@@ -331,15 +340,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/finger-clicking-controversy-clicky-ponting-brian-devine-england-club-cricket-486123 ",
     "time": "2026-07-29T12:52:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IPLની સૌથી ધનિક ટીમ બની RCB, ધોનીની CSK ચોથા સ્થાને... જાણો બીજા અને ત્રીજા સ્થાને કોણ છે",
-    "desc": "ઇન્ડિયન પ્રીમિયર લીગ (IPL)નું બિઝનેસ વેલ્યૂ 20 અબજ ડોલરને વટાવી ગઈ છે, તો RCB સૌથી ધનિક ટીમ બની ગઈ છે. ત્યારે આ લેખમાં RCBની બ્રાન્ડ વેલ્યૂ કેટલી છે અને RCB બાદ બીજી કઈ ટીમો સૌથી ધનિક છે, તેના વિશે જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/rcb-becomes-richest-team-check-full-list-of-most-valuable-teams-in-ipl-486121 ",
-    "time": "2026-07-29T12:06:17.000Z"
   },
   {
     "cat": "Business",

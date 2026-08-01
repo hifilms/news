@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Kuldeep Yadav dominates Ben Stokes, ensures comfortable win for Yorkshire in One-Day Cup",
+    "desc": "Star spinner Kuldeep Yadav played a pivotal role in Yorkshire’s seven-wicket win over Durham in the ongoing One-Day Cup. He registered two wickets for only 23 runs in his 10 overs as the Uttar Pradesh-born...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kuldeep-yadav-dominates-ben-stokes-ensures-comfortable-win-for-yorkshire-in-one-day-cup-2026-08-01-1050100",
+    "time": "2026-08-01T14:54:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Joe Root reveals reason behind accepting England's Test captaincy role again",
+    "desc": "Joe Root has outlined his vision for England's Test team after returning as captain. He made it clear that the side will retain key elements of the aggressive approach, called Bazball, developed over the past...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/joe-root-reveals-reason-behind-accepting-england-s-test-captaincy-role-again-2026-08-01-1050096",
+    "time": "2026-08-01T14:07:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Central Zone announce squad for Duleep Trophy, IPL champion named captain, while Rinku named VC",
+    "desc": "Central Zone have confirmed their squad for the upcoming Duleep Trophy. Madhya Pradesh captain Rajat Patidar will lead the side as they seek to retain the domestic first-class title. Notably, the competition begins on August...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/central-zone-announce-squad-for-duleep-trophy-ipl-champion-named-captain-while-rinku-named-vc-2026-08-01-1050091",
+    "time": "2026-08-01T13:33:16.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India add another gold medal at Commonwealth Games with famous 1-2 podium finish in shot put F57",
     "desc": "India have added another gold medal to their kitty at the Commonwealth Games as Soman Rana won the yellow metal in the shot put F57 category, with Shubham Juyal taking the silver in a memorable...",
     "img": "",
@@ -37,7 +64,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Soman Rana wins India's eighth gold medal; Shubham Juyal, Jadumani win silver",
+    "title": "Sakshi Chaudhary clinches India's ninth gold, Unnati Sharma wins bronze",
     "desc": "10 Indian boxers will be in action on the penultimate day of the Commonwealth Games 2026. Preeti Pawar, Lovlina Borgohain, Jaismine Lamboria and other pugilists will be in action as they bid for gold medals for...",
     "img": "",
     "src": "indiatvnews.com",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/fifa-president-infantino-scraps-world-cup-sell-off-plan-after-massive-backlash-2026-08-01-1050061",
     "time": "2026-08-01T08:16:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer makes massive claim over Washington Sundar ahead of Sri Lanka Test",
-    "desc": "The stage is set for a two-game Test series between India and Sri Lanka. The two sides are slated to take on each other in the first Test of the series at the Galle International...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-makes-massive-claim-over-washington-sundar-ahead-of-sri-lanka-test-2026-08-01-1050060",
-    "time": "2026-08-01T08:14:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When is Neeraj Chopra's next javelin event after winning silver at Commonwealth Games 2026?",
-    "desc": "Neeraj Chopra produced a season-best throw of 85.83m to win the silver medal in the javelin event at the Commonwealth Games on Friday (local time). Chopra, who was dealt with a back injury last year,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/when-is-neeraj-chopras-next-event-after-winning-silver-at-commonwealth-games-2026-2026-08-01-1050056",
-    "time": "2026-08-01T07:20:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why was Vaibhav Sooryavanshi named East Zone's vice-captain for the Duleep Trophy? Selector reveals",
-    "desc": "The Duleep Trophy is all set for another season, and the various sides have been announcing their squads for the tournament. With East Zone announcing their squad, many were surprised to find out that 15-year-old...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-was-vaibhav-sooryavanshi-named-east-zone-s-vice-captain-for-the-duleep-trophy-selector-reveals-2026-08-01-1050052",
-    "time": "2026-08-01T06:50:46.000Z"
   }
 ];
