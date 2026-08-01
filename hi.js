@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Tejaswin Shankar scripts history, clinches decathlon bronze medal at Commonwealth Games 2026",
+    "desc": "In a major development, Tejaswin Shankar put forth a brilliant performance and etched his name in the history books at the ongoing Commonwealth Games 2026. He became the first man from India to win a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/tejaswin-shankar-scripts-history-clinches-decathlon-bronze-medal-at-commonwealth-games-2026-2026-08-01-1050032",
+    "time": "2026-08-01T01:35:33.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Neeraj Chopra wins silver, Yash Vir Singh bronze in Commonwealth Games 2026; Rumesh secures historic gold",
     "desc": "India's Neeraj Chopra settled for the silver medal in the men's javelin throw at the Commonwealth Games 2026. Sri Lanka's Rumesh Pathirage produced a stunning 89.75m effort to clinch a historic gold. India, however, celebrated a...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/michael-vaughan-weighs-in-on-stephen-fleming-s-absence-from-upcoming-pakistan-series-2026-07-31-1049962",
     "time": "2026-07-31T08:40:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Legendary Milan and Italy defender Franco Baresi dies at 66, football fraternity comes forth to pay tribute",
-    "desc": "Franco Baresi, one of the greatest Italian defenders in the history of football, has tragically passed away at the age of 66. It is worth noting that Baresi underwent surgery for a lung nodule back...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/legendary-milan-and-italy-defender-franco-baresi-dies-at-66-2026-07-31-1049959",
-    "time": "2026-07-31T07:14:31.000Z"
   }
 ];
