@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "When is Neeraj Chopra's next javelin event after winning silver at Commonwealth Games 2026?",
+    "desc": "Neeraj Chopra produced a season-best throw of 85.83m to win the silver medal in the javelin event at the Commonwealth Games on Friday (local time). Chopra, who was dealt with a back injury last year,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/when-is-neeraj-chopras-next-event-after-winning-silver-at-commonwealth-games-2026-2026-08-01-1050056",
+    "time": "2026-08-01T07:20:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why was Vaibhav Sooryavanshi named East Zone's vice-captain for the Duleep Trophy? Selector reveals",
+    "desc": "The Duleep Trophy is all set for another season, and the various sides have been announcing their squads for the tournament. With East Zone announcing their squad, many were surprised to find out that 15-year-old...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-was-vaibhav-sooryavanshi-named-east-zone-s-vice-captain-for-the-duleep-trophy-selector-reveals-2026-08-01-1050052",
+    "time": "2026-08-01T06:50:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Who is Yash Vir Singh, the surprise bronze medallist in javelin throw at Commonwealth Games 2026?",
+    "desc": "Yash Vir Singh put in a brilliant performance to snatch a bronze medal in the Men's Javelin throw event at the ongoing Commonwealth Games 2026 on Friday, July 31 (local time). Yash Vir produced a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/who-is-yash-vir-singh-the-surprise-bronze-medallist-from-javelin-throw-at-commonwealth-games-2026-2026-08-01-1050049",
+    "time": "2026-08-01T06:20:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jos Buttler on the verge of scripting history, edges closer to Kieron Pollard's legendary record with fifty",
+    "desc": "Veteran England batter Jos Buttler has been in brilliant form of late, and he has been putting in some brilliant showings at the ongoing The Hundred 2026. Representing Manchester Super Giants, Buttler has been a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jos-buttler-on-the-verge-of-scripting-history-edges-closer-to-kieron-pollard-s-legendary-record-with-fifty-2026-08-01-1050046",
+    "time": "2026-08-01T05:55:00.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Check Commonwealth Games 2026 Day 10 schedule; Where can India shine on August 1?",
     "desc": "The stage is set for yet another incredible day at the Commonwealth Games 2026. The marquee event is rapidly approaching its end; August 1 will see more stars taking on each other in hopes of...",
     "img": "",
@@ -37,7 +73,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "Neeraj Chopra wins silver, Yash vir Bronze in javlin; Lanka's Rumesh wins gold",
+    "title": "Neeraj Chopra wins silver, Yash vir Bronze in javelin; Lanka's Rumesh wins gold",
     "desc": "Neeraj Chopra headlines the men's javelin throw final at the Commonwealth Games 2026 in the early hours of August 1. Apart from Neeraj. India’s Rohit Yadav and Yash Vir Singh have also progressed for the...",
     "img": "",
     "src": "indiatvnews.com",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/harsh-singh-scripts-history-to-win-gold-in-judo-at-commonwealth-games-2026-2026-07-31-1050018",
     "time": "2026-07-31T15:53:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Asmita Dey wins historic gold in Judo at Commonwealth Games 2026 in Glasgow",
-    "desc": "Judoka Asmita Dey on Friday scripted history and a historic gold medal for India in women's 48 kg category at the Commonwealth Games (CWG) 2026 in Scotland's Glasgow. With this, Dey became the first ever...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/asmita-dey-wins-historic-gold-in-judo-at-commonwealth-games-2026-in-glasgow-2026-07-31-1050016",
-    "time": "2026-07-31T15:29:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Preeti Pawar, Ankush Panghal reach boxing final at CWG 2026, team India qualifies for mixed 4x400m relay final",
-    "desc": "The Indian contingent continues to soar high at the Commonwealth Games 2026, with boxers Preeti Pawar and Ankush Panghal reaching the final of their respective boxing events; another medal has been assured for India at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/preeti-pawar-ankush-panghal-reach-boxing-final-at-cwg-2026-team-india-qualifies-for-mixed-4x400m-relay-final-2026-07-31-1049993",
-    "time": "2026-07-31T12:08:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jasprit Bumrah passes fitness test, cleared to play in upcoming Test series against Sri Lanka",
-    "desc": "In a major development, star India pacer Jasprit Bumrah has reportedly been cleared to play for the Indian team ahead of their two-game Test series against Sri Lanka. It is interesting to note that India...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-passes-fitness-test-cleared-to-play-in-upcoming-test-series-against-sri-lanka-report-2026-07-31-1049988",
-    "time": "2026-07-31T11:26:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "DPL 2026 live streaming details; When and where to watch Delhi Premier League 2026 on TV and online in India?",
-    "desc": "The stage is set for yet another season of the DPL (Delhi Premier League); the tournament returns for yet another edition, and the eight competing teams will look to put in their best performance in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dpl-2026-live-streaming-details-when-and-where-to-watch-delhi-premier-league-2026-on-tv-and-online-in-india-2026-07-31-1049982",
-    "time": "2026-07-31T10:52:15.000Z"
   }
 ];
