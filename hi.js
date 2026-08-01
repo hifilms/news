@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sachin Siwach, Ankush Panghal cap historic day for Indian boxing with Commonwealth Games golds",
+    "desc": "Indian boxers Sachin Siwach and Ankush Panghal delivered a memorable finish to the Commonwealth Games 2026, winning gold medals in the men’s 60kg and 80kg categories respectively. The victories helped India complete a highly successful...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/sachin-siwach-ankush-panghal-cap-historic-day-for-indian-boxing-with-commonwealth-games-golds-2026-08-02-1050111",
+    "time": "2026-08-01T18:38:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Arundhati Choudhary wins India's 11th Commonwealth Games gold medal, Lovlina Borgohain settles for silver",
+    "desc": "Indian boxer Arundhati Choudhary secured the country's 11th gold medal at the Commonwealth Games after defeating England's Chantelle Reid in the women's 70kg final. Arundhati delivered a dominant performance to register a 5-0 unanimous points...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/arundhati-choudhary-wins-india-s-11th-commonwealth-games-gold-medal-lovlina-borgohain-settles-for-silver-2026-08-01-1050107",
+    "time": "2026-08-01T17:09:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sakshi Chaudhary, Priya Ghanghas win gold in boxing at Commonwealth Games, India's medal tally moved to 33",
+    "desc": "Sakshi Chaudhary delivered a clinical performance to defeat England's Ruby White by a unanimous 5-0 decision and win the women's 51kg boxing gold medal at the Commonwealth Games 2026 in Glasgow. The Indian boxer controlled the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/sakshi-chaudhary-priya-ghanghas-win-consecutive-gold-medals-in-boxing-india-s-medal-tally-moved-to-33-2026-08-01-1050104",
+    "time": "2026-08-01T16:14:33.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Kuldeep Yadav dominates Ben Stokes, ensures comfortable win for Yorkshire in One-Day Cup",
     "desc": "Star spinner Kuldeep Yadav played a pivotal role in Yorkshire’s seven-wicket win over Durham in the ongoing One-Day Cup. He registered two wickets for only 23 runs in his 10 overs as the Uttar Pradesh-born...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/preeti-pawar-wins-india-s-6th-gold-medal-in-commonwealth-games-2026-beats-scarlett-delgado-2026-08-01-1050072",
     "time": "2026-08-01T10:19:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sakshi Chaudhary clinches India's ninth gold, Unnati Sharma wins bronze",
-    "desc": "10 Indian boxers will be in action on the penultimate day of the Commonwealth Games 2026. Preeti Pawar, Lovlina Borgohain, Jaismine Lamboria and other pugilists will be in action as they bid for gold medals for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/commonwealth-games-2026-live-follow-for-latest-updates-preeti-pawar-jaismine-lovlina-borgohain-in-action-2026-08-01-1050068",
-    "time": "2026-08-01T09:25:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Scott Edwards steps down as Netherlands captain, KNCB names all-rounder as successor",
-    "desc": "In a major development, star Dutch wicket-keeper batter Scott Edwards has stepped down from his role as the captain of the national team. It is worth noting that the KNCB (The Royal Dutch Cricket Association)...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/scott-edwards-steps-down-as-netherlands-captain-kncb-names-all-rounder-as-successor-2026-08-01-1050065",
-    "time": "2026-08-01T09:02:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "FIFA president Infantino scraps World Cup sell-off plan after massive backlash",
-    "desc": "FIFA president Gianni Infantino has scrapped his plan to sell World Cup profits to private equity following huge backlash from all corners of the football fraternity, which included a boycott call from the UEFA nations. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/fifa-president-infantino-scraps-world-cup-sell-off-plan-after-massive-backlash-2026-08-01-1050061",
-    "time": "2026-08-01T08:16:08.000Z"
   }
 ];
