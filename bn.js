@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "ছেলেমানুষ ওরা, তাই ক্ষমা করে দিলাম...! যন্তর মন্তরে প্রয়াত মাকে তীব্র কটূক্তির জবাবে নমোর বার্তা",
+    "desc": "ভিডিয়ো বার্তায় প্রধানমন্ত্রী মোদী বলেন, যন্তর মন্তরে যা ঘটেছে তা অত্যন্ত কষ্টদায়ক। দেশের বিভিন্ন প্রান্ত থেকে আসা কিছু তরুণ তাঁকে ও তাঁর প্রয়াত মা-কে অশালীন ভাষায় গালিগালাজ করেছে। কিন্তু তিনি মনে করেন, অল্প বয়সে মানুষ ভুল করে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/pm-modi-forgives-gen-z-protesters-over-derogatory-remarks-in-neet-protest_664947.html ",
+    "time": "2026-08-01T04:52:48.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "‘আর জোড়া লাগা সম্ভব নয়!’, ১৬ বছরের আইনি লড়াই শেষ, বিয়েতে ইতি টানলেন ওমর-পায়েল",
     "desc": "জম্মু ও কাশ্মীরের মুখ্যমন্ত্রী ওমর আবদুল্লাহ এবং তাঁর স্ত্রী পায়েল আবদুল্লাহর ১৭ বছরের দাম্পত্য জীবনের আনুষ্ঠানিক অবসান ঘটিয়ে বিবাহবিচ্ছেদ মঞ্জুর করল সুপ্রিম কোর্ট। দীর্ঘ বছর ধরে আলাদা থাকার পর পারস্পরিক সমঝোতায় সব মামলা প্রত্যাহার করেছেন তারা। সংবিধানের ১৪২ অনুচ্ছেদের বিশেষ ক্ষমতাবলে এই আইনি বিচ্ছেদ মঞ্জুর করেছে আদালত।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -88,15 +97,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/215-academics-open-letter-to-priyanka-gandhi-gaumutra-expert-remark-iit-madras-director_664730.html ",
     "time": "2026-07-30T14:46:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "যন্তরমন্তরের বিরাট আপডেট: পেলেট গানের আঘাতে বিক্ষত সবার যথাযথ চিকিৎসা করান, কেন্দ্রকে কড়া বার্তা সুপ্রিম কোর্টের",
-    "desc": "অবসরপ্রাপ্ত আইপিএস আধিকারিক তথা প্রাক্তন কেন্দ্রীয় তথ্য কমিশনার (CIC) যশবর্ধন আজাদ এবং পেলেট গুলিতে জখম হওয়া দুই ব্যক্তি যৌথভাবে এই জনস্বার্থ মামলাটি দায়ের করেন। আবেদনকারীদের পক্ষে বর্ষীয়ান আইনজীবী বৃন্দা গ্রোভার আদালতে অভিযোগ করেন যে, গত ২০ জুলাই নিট (NEET) প্রশ্নফাঁস কেলেঙ্কারির বিরুদ্ধে ‘সংসদ চলো’ অভিযানে জড়ো হওয়া শিক্ষার্থীদের ওপর ধাতব পেলেট ছোড়া হয়।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/supreme-court-orders-medical-aid-for-students-injured-in-jantar-mantar-pellet-gun-incident-calls-for-raf-ammunition-logs_664729.html ",
-    "time": "2026-07-30T13:54:48.000Z"
   },
   {
     "cat": "Entertainment",

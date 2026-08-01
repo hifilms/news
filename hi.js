@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Check Commonwealth Games 2026 Day 10 schedule; Where can India shine on August 1?",
+    "desc": "The stage is set for yet another incredible day at the Commonwealth Games 2026. The marquee event is rapidly approaching its end; August 1 will see more stars taking on each other in hopes of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/check-commonwealth-games-2026-day-10-schedule-where-can-india-shine-on-august-1-2026-08-01-1050041",
+    "time": "2026-08-01T04:07:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Yamini Mourya adds to India's tally, clinches silver in judo women's 57kg event at Commonwealth Games 2026",
+    "desc": "The Commonwealth Games 2026 is approaching its end, and the Indian contingent is flying high. Clinching medals one after another, it was the sport of judo where India put forth a marvellous showing, winning two...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/yamini-mourya-adds-to-india-s-tally-clinches-silver-in-judo-women-s-57kg-event-at-commonwealth-games-2026-2026-08-01-1050037",
+    "time": "2026-08-01T02:56:10.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Tejaswin Shankar scripts history, clinches decathlon bronze medal at Commonwealth Games 2026",
     "desc": "In a major development, Tejaswin Shankar put forth a brilliant performance and etched his name in the history books at the ongoing Commonwealth Games 2026. He became the first man from India to win a...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/dpl-2026-live-streaming-details-when-and-where-to-watch-delhi-premier-league-2026-on-tv-and-online-in-india-2026-07-31-1049982",
     "time": "2026-07-31T10:52:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Alzarri Joseph hits back at Daren Sammy, responds to latter's 'denied selection' comments",
-    "desc": "The West Indies are in the midst of a two-game Test series against Pakistan. The first Test of the series was comfortably won by the West Indies. Before the start of the series, CWI (Cricket...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/alzarri-joseph-hits-back-at-daren-sammy-responds-to-latter-s-denied-selection-comments-2026-07-31-1049975",
-    "time": "2026-07-31T09:53:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Michael Vaughan weighs in on Stephen Fleming's absence from upcoming Pakistan series",
-    "desc": "The ECB (England and Wales Cricket Board) came forward and named former New Zealand cricketer Stephen Fleming as their new Test head coach. The decision was made after Brendon McCullum stepped down from his role,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/michael-vaughan-weighs-in-on-stephen-fleming-s-absence-from-upcoming-pakistan-series-2026-07-31-1049962",
-    "time": "2026-07-31T08:40:57.000Z"
   }
 ];

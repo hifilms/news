@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "LPG સિલિન્ડરના ભાવથી લઈને ટિકિટ બુકિંગ...આજથી આ 5 ફેરફાર થયા લાગૂ, ખિસ્સા પર પડશે અસર",
+    "desc": "દર મહિનાની પહેલી તારીખે કેટલાક ફેરફાર થતા હોય છે. આ વખતે પણ 1 ઓગસ્ટના રોજ ઓઈલ કંપનીઓએ કોમર્શિયલ ગેસ સિલિન્ડરના ભાવમાં ઘટાડો કર્યો છે. આ ઉપરાંત બીજા પણ કેટલાક ફેરફાર થયા છે. જે તમારે જાણવા જરૂરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/from-lpg-cylinder-price-to-ticket-booking-5-changes-from-today-check-details-486349 ",
+    "time": "2026-08-01T05:28:26.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ઓગસ્ટના પહેલા જ દિવસે મોંઘવારીનો ઝટકો! અમદાવાદ સહિત રાજ્યભરમાં CNGના ભાવમાં ભડકો, જાણો લેટેસ્ટ ભાવ",
+    "desc": "અમદાવાદ સહિત રાજ્યના વાહનચાલકો માટે માઠા સમાચાર આવ્યા છે. અદાણી ગેસ દ્વારા સીએનજી (CNG)ના ભાવમાં ફરી એકવાર મોટો વધારો ઝીંકવામાં આવ્યો છે. સીએનજીના ભાવમાં સીધો રૂ. 94.02નો વધારો કરી દેવાતા દૈનિક મુસાફરી કરતા વાહનચાલકો, ઓટોરિક્ષા ચાલકો અને કેબ ડ્રાઇવરોના બજેટ ખોરવાઈ ગયા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/double-blow-of-inflation-cng-prices-surge-across-the-state-including-ahmedabad-new-price-is-92-10-486334 ",
+    "time": "2026-08-01T04:42:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "નવા મહિનાના પહેલા જ દિવસે મોટા ખુશખબર! એક ઝટકે LPG સિલિન્ડરના ભાવમાં 192 રૂપિયા ઘટ્યા",
+    "desc": "વર્ષ 2026નો ઓગસ્ટ મહિનો આજથી શરૂ થયો અને નવા મહિનાના પહેલા જ દિવસે એક સારા સમાચાર આવ્યા છે. સરકારી ઓઈલ કંપનીઓએ ગેસ સિલિન્ડરના ભાવમાં ફેરફાર કર્યો છે. 19 કિલોવાળો કોમર્શિયલ સિલિન્ડર 192 રૂપિયા સસ્તો થયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/lpg-commercial-gas-cylinder-price-cut-check-latest-rate-486335 ",
+    "time": "2026-08-01T03:21:25.000Z"
+  },
+  {
     "cat": "World",
     "title": "ગુલામોનો ટાપુ... અહીં જન્મ લેતાં જ બાળકો પર થઈ જાય છે માલિકનો હક, જ્યાં આજે પણ અસ્તિત્વમાં છે &amp;#039;અતા&amp;#039; પ્રથા",
     "desc": "આજે પણ દુનિયાના કોઈક ખૂણે લોકો ગુલામ બનીને જિંદગી જીવી રહ્યા છે. આ કોઈ કલ્પના નથી, પરંતુ એક કડવી વાસ્તવિકતા છે. આજે પણ લોકો અને આવી પરંપરાઓ નિભાવવામાં આવી રહી છે અને ત્યાંની સરકાર ઈચ્છીને પણ કંઈ કરી શકતી નથી. ચાલો જાણીએ આવા જ એક દીપની કહાની, જ્યાં હજુ પણ ગુલામો જીવે છે.",
@@ -252,15 +279,6 @@ const newsData_gu = [
     "time": "2026-07-29T12:06:17.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "રાહુલ ગાંધીનો આરોપ- પેલેટગનથી ફાયરિંગનો આદેશ ગૃહ મંત્રાલયે આપ્યો, રિજીજૂ બોલ્યા- ઓર્ડરની કોપી દેખાડો",
-    "desc": "સંસદના મોનસૂન સત્ર દરમિયાન લોકસભામાં એન્ટી પેપર બિલ પર ચર્ચા દરમિયાન ભારે હંગામો અને ઉગ્ર ચર્ચા જોવા મળી. વિપક્ષના નેતા રાહુલ ગાંધીએ દેશમાં સતત થઈ રહેલા પેપરલીક અને રાષ્ટ્રીય પરીક્ષા એજન્સી (NTA)ની ગડબડીઓ મુદ્દે કેન્દ્રની મોદી સરકાર પર આકરા પ્રહાર કર્યા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/rahul-gandhi-makes-serious-allegations-on-pellet-gun-issue-during-discussion-on-anti-paper-leak-bill-486112 ",
-    "time": "2026-07-29T10:03:04.000Z"
-  },
-  {
     "cat": "Business",
     "title": "8મા પગાર પંચ પર સંસદમાં સરકારનું મોટું અપડેટ! જાણો ક્યારે મળશે નવા પગારની ખુશખબર",
     "desc": "કેન્દ્ર સરકારે સંસદમાં સ્પષ્ટતા કરી છે કે 8મું પગાર પંચ તેની રચનાના 18 મહિનાની અંદર, એટલે કે 3 મે, 2027 સુધીમાં તેનો અંતિમ અહેવાલ રજૂ કરશે. હાલમાં, કમિશન વિવિધ કર્મચારી સંગઠનો પાસેથી સૂચનો અને ડેટા એકત્રિત કરવાની પ્રક્રિયામાં છે. ચાલો વિગતોનું અન્વેષણ કરીએ.",
@@ -268,15 +286,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/governments-big-update-in-parliament-on-8th-pay-commission-know-when-you-will-get-the-good-news-of-new-salaries-486104 ",
     "time": "2026-07-29T09:15:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "&amp;#039;સ્ટુડન્ટ, ઇડિયટ અને અંધભક્ત&amp;#039;...રાહુલ ગાંધીના 3 કેટેગરીવાળા નિવેદનથી લોકસભામાં ભારે હોબાળો",
-    "desc": "લોકસભામાં આજે પણ એન્ટી પેપરલીક બિલ પર ચર્ચા ચાલુ છે. ચર્ચાના બીજા દિવસે નેતા વિપક્ષ રાહુલ ગાંધીએ જેવું બોલવાનું શરૂ કર્યું કે હંગામો શરૂ થઈ ગયો. તેમણે કહ્યું કે જે થયું તેમાં કશું ખોટું નથી અને દરેક ભારતીયને તેના પર ગર્વ હોવો જોઈએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/rahul-gandhi-speaks-in-lok-sabha-on-anti-paper-leak-bill-neet-paper-leak-protest-486100 ",
-    "time": "2026-07-29T09:14:09.000Z"
   },
   {
     "cat": "Sports",
@@ -376,15 +385,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/earthquake-in-southern-japan-tsunami-warning-alert-kumamoto-shindo-486007 ",
     "time": "2026-07-28T09:44:34.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "આ IPO પર તૂટી પડ્યા રોકાણકારો! માત્ર 1 કલાકમાં 100% ભરાયો, GMPએ આપ્યા જોરદાર કમાણીના સંકેત",
-    "desc": "પૂજા પ્રિસિઝન એન્જિનિયરિંગ(Poojaa Precision Engg ipo)નો IPO માત્ર 1 કલાકમાં 100 ટકા સબસ્ક્રાઇબ થઈ ગયો છે. આજના IPO માટે GMP 260 રૂપિયા છે. IPO એન્કર રોકાણકારો પાસેથી 45.14 કરોડ રૂપિયા એકત્ર કરવામાં સફળ રહ્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/huge-investment-from-investors-on-this-ipo-100-filled-in-just-1-hour-gmp-gave-signs-of-huge-earnings-486000 ",
-    "time": "2026-07-28T08:48:40.000Z"
   },
   {
     "cat": "Tech",
