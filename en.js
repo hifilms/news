@@ -1,6 +1,186 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "‘Tears rolled down my eyes’: Pawan Kalyan on abuse against Modi",
+    "desc": "Speaking at the inauguration of the Bhogapuram airport, the Deputy Chief Minister referred to the recent protests at Jantar Mantar without naming any party, and said Prime Minister Narendra Modi had not taken leave for a single day in his three terms",
+    "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/j94hla/article71294149.ece/alternates/LANDSCAPE_1200/Pawan.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/tears-rolled-down-my-eyes-pawan-kalyan-on-abuse-against-modi/article71293843.ece",
+    "time": "2026-08-01T10:27:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Centre to SC",
+    "desc": "The submission was made in an affidavit filed before the top court by the Ministry of Home Affairs in a plea challenging the indefinite detention of persons declared foreigners in Assam without prospects of deportation",
+    "img": "https://th-i.thgim.com/public/news/national/t8bjaa/article71294099.ece/alternates/LANDSCAPE_1200/iStock-1183307734.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/foreign-citizen-cannot-be-deported-unless-home-country-confirms-nationality-centre-to-sc/article71294038.ece",
+    "time": "2026-08-01T10:00:42.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "RBI's special swap facility draws $40.8 bn in foreign inflows",
+    "desc": "Foreign exchange inflows under RBI's special swap facility reached $40.816 billion by July end. This figure nearly doubled from $20.718 billion reported just two weeks prior. FCNR(B) deposits were the primary driver, contributing $36.725 billion to the total collections. Overseas foreign currency and external commercial borrowings also added substantial amounts. The facility aims to strengthen the balance of payments and incentivize capital inflows.",
+    "img": "https://static.toiimg.com/photo/msid-132786445,imgsize-127112.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/forex-boost-rbis-special-swap-facility-draws-40-8-billion-in-foreign-inflows-by-july-end/articleshow/132786251.cms",
+    "time": "2026-08-01T09:47:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bhatt recalls how Ajay, Nagarjuna and Pooja's Zakhm faced a three month censor battle",
+    "desc": "Mahesh Bhatt recalled how Zakhm, drawn from his own life, faced months of censorship battles under the NDA government. He was disturbed when Asha Parekh, then CBFC head, suggested clearance from Bal Thackeray or LK Advani. The film underperformed initially but later became a cult classic, with its themes remaining relevant today.",
+    "img": "https://static.toiimg.com/photo/msid-132786442,imgsize-240316.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/asha-parekh-wanted-bal-thackeray-or-lk-advani-to-clear-it-mahesh-bhatt-recalls-how-ajay-devgn-nagarjuna-and-pooja-bhatt-starrer-zakhm-faced-a-three-month-censor-battle/articleshow/132786442.cms",
+    "time": "2026-08-01T09:45:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'In every national security decision, Doval had a role': Amit Shah praises NSA at award ceremony",
+    "desc": "Union Home Minister Amit Shah praised NSA Ajit Doval's significant national security contributions. Doval's strategic advice has strengthened India's defense and foreign policy since 2014. Shah highlighted Doval's instrumental role in every major national security decision made by Prime Minister Modi. The NSA's decades-long career in intelligence has been vital for India's transformation. Doval accepted the Lokmanya Tilak National Award with humility, thanking leaders.",
+    "img": "https://static.toiimg.com/photo/msid-132786396,imgsize-831039.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/in-every-national-security-decision-doval-had-a-role-amit-shah-praises-nsa-at-award-ceremony/articleshow/132786113.cms",
+    "time": "2026-08-01T09:40:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "How the Cauvery dispute impacted Tamil films in Karnataka",
+    "desc": "The Cauvery water dispute has repeatedly impacted Tamil film releases in Karnataka. Protests have led to canceled screenings and postponed movie promotions for various films. Rajinikanth's 'Baba' and Vijay's 'Jana Nayagan' faced disruptions due to escalating tensions. Vikram's 'Thaandavam' suffered from security fears, while Siddharth's 'Chithha' promotions were interrupted. These events highlight the ongoing political consequences affecting the Tamil film industry.",
+    "img": "https://static.toiimg.com/photo/msid-132786332,imgsize-164538.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rajinikanths-baba-to-vijays-jana-nayagan-how-the-cauvery-dispute-impacted-tamil-films-in-karnataka/articleshow/132786287.cms",
+    "time": "2026-08-01T09:38:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Celebrated at birth, pushed into sex work",
+    "desc": "Unlike most communities in India, the Banchhadas in M.P. invest more in their daughters’ upbringing than in their sons’, by giving them better nutrition and clothes, only so that they can force them into sex work and live off their earnings. Branded a ‘criminal tribe’ by the British and now classified as a Scheduled Caste, the community remains on society’s margins as government and NGOs have struggled to break the cycle, reports Mehul Malpani",
+    "img": "https://th-i.thgim.com/public/incoming/psewpg/article71291025.ece/alternates/LANDSCAPE_1200/DSC_5897%20copy.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/celebrated-at-birth-pushed-into-sex-work/article71290516.ece",
+    "time": "2026-08-01T09:32:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Terrorists asked caste, community': Family claims Kulgam victims were 'identified' before being shot",
+    "desc": "Two Chhattisgarh labourers were killed in a terror attack at a brick kiln in Kulgam. Attackers allegedly questioned the victims about their caste and community before opening fire on them. This incident echoes survivor accounts from a previous terror attack in Pahalgam. The victims were identified as Deepak Ratrey and Bhupendra Bhaina from Chhattisgarh. Authorities are coordinating to return the bodies and provide financial assistance to the families.",
+    "img": "https://static.toiimg.com/photo/msid-132786178,imgsize-1047953.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/kulgam-terror-attack-kharge-claims-labourers-were-asked-to-identify-before-being-shot/articleshow/132785948.cms",
+    "time": "2026-08-01T09:28:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Whenever we seek statehood': Farooq Abdullah questions 'timing' of Kulgam terror attack",
+    "desc": "Two migrant labourers were killed in a terrorist attack in Kulgam district. National Conference president Farooq Abdullah questioned the timing of this incident. He noted such attacks occur when his party demands statehood restoration. People's Democratic Party chief Mehbooba Mufti called the killings a security lapse. She requested a high-level investigation and compensation for the victims.",
+    "img": "https://static.toiimg.com/photo/msid-132786176,imgsize-29570.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/whenever-we-seek-statehood-farooq-abdullah-questions-timing-of-kulgam-attack/articleshow/132786131.cms",
+    "time": "2026-08-01T09:27:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Asiatic lion rescued after getting trapped in spiked gate in Gujarat’s Junagadh",
+    "desc": "In the early hours of the day, a lion, aged around one to two years, got trapped in an iron gate while attempting to jump over it in the Grofed area of the city, Deputy Conservator of Forests Akshay Joshi said",
+    "img": "https://th-i.thgim.com/public/incoming/ktpl7u/article71294033.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-01%20at%2014.53.25.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/gujarat/asiatic-lion-rescued-after-getting-trapped-in-spiked-gate-in-gujarats-junagadh/article71294007.ece",
+    "time": "2026-08-01T09:26:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ramayana actor Chetan Hansraj hits back at VFX backlash",
+    "desc": "Chetan Hansraj, who plays Mali in 'Ramayana', praised Yash and Nitesh Tiwari, calling their casting choices fabulous, including Ranbir Kapoor and Sai Pallavi. He dismissed VFX critics as living in dreamland, unaware of the film's true scale. Emotional after wrapping, he called the shoot one of his career's most beautiful experiences.",
+    "img": "https://static.toiimg.com/photo/msid-132785969,imgsize-159744.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/chetan-hansraj-who-plays-mali-in-nitesh-tiwaris-ramayana-hits-back-at-vfx-backlash-says-critics-dont-understand-the-scale-they-are-living-in-dreamland/articleshow/132785969.cms",
+    "time": "2026-08-01T09:11:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Jana Nayagan' star Vijay watched Dhanush's 'Thiruchitrambalam' with fans",
+    "desc": "Actor Vijay watched Dhanush's film Thiruchitrambalam with fans in Hyderabad. He insisted on attending the screening despite security concerns and wore a mask. After the movie concluded, Vijay immediately called Dhanush to commend his acting. The film Thiruchitrambalam was released in August 2022 and received critical acclaim. This event highlights Vijay's appreciation for good cinema and fellow actors' work.",
+    "img": "https://static.toiimg.com/photo/msid-132785631,imgsize-221461.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-star-vijay-watched-dhanushs-thiruchitrambalam-with-fans-in-hyderabad-and-called-the-actor-after-the-screening-to-laud-his-performance-reveals-lyricist-vivek/articleshow/132785613.cms",
+    "time": "2026-08-01T08:44:22.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "US crude bound for Israel for first time since 2023",
+    "desc": "A US crude oil cargo is heading to Israel after almost three years. The Aframax tanker Captain John loaded the oil in Texas on Thursday. This shipment carries approximately 550,000 barrels of West Texas Intermediate crude. The vessel is chartered by the global trading house Vitol for this journey. This event occurs amid ongoing disruptions in the Strait of Hormuz.",
+    "img": "https://static.toiimg.com/photo/msid-132785624,imgsize-396450.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-crude-bound-for-israel-for-first-time-since-2023/articleshow/132785392.cms",
+    "time": "2026-08-01T08:43:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Fallout in West Indies? Alzarri hits back at Sammy over 'declined selection' claim",
+    "desc": "Alzarri Joseph addressed head coach Daren Sammy's comments regarding his Test series absence. Joseph stated his decision stemmed from physical readiness concerns after a lengthy injury layoff. He explained his body was not prepared for another Test series after recent ODI matches. The fast bowler emphasized his commitment to representing West Indies professionally. Joseph clarified personal relationships do not impact his dedication to the team.",
+    "img": "https://static.toiimg.com/photo/msid-132785554,imgsize-1104112.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/fallout-in-west-indies-camp-alzarri-joseph-hits-back-at-daren-sammy-over-declined-selection-claim/articleshow/132785489.cms",
+    "time": "2026-08-01T08:37:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Heavy rain triggers evacuation of several families in Kozhikode rural area",
+    "desc": "Engapuzha town was inundated after river water entered the area following heavy downpour on Saturday, August 1; traders in the area claimed a huge loss as they could not shift the stored items on time",
+    "img": "https://th-i.thgim.com/public/hindi/editorial/x92mh3/article71293755.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-01%20at%2011.29.22%20AM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/heavy-rain-in-kozhikode-flooding/article71293642.ece",
+    "time": "2026-08-01T08:31:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajesh Kumar talks about financial crisis during farming stint",
+    "desc": "Rajesh Kumar, known for Rosesh Sarabhai in 'Sarabhai vs Sarabhai', opened up about leaving acting at 42 for farming, losing everything, and enduring humiliation from recovery agents who abused him over unpaid debts. He even sold his car. Yet these hardships, he says, made him more human, grounded, and instinctive as an actor.",
+    "img": "https://static.toiimg.com/photo/msid-132785444,imgsize-389708.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/recovery-agent-would-call-and-abuse-me-because-i-didnt-have-the-money-to-pay-saiyaara-actor-rajesh-kumar-opens-up-abot-financial-crisis-during-farming-stint/articleshow/132785444.cms",
+    "time": "2026-08-01T08:28:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kim Kardashian shares playful video with Lewis Hamilton",
+    "desc": "In a heartwarming vacation update, Kim Kardashian shared clips brimming with joy, featuring her children and family. The footage showcased lighthearted interactions with boyfriend Lewis Hamilton, including a thrilling dive into a serene lake. Their budding relationship shines through public engagements, while this getaway beautifully illustrates cherished family moments in summer's embrace.",
+    "img": "https://static.toiimg.com/photo/msid-132785403,imgsize-88310.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kim-kardashian-shares-playful-video-with-boyfriend-lewis-hamilton-during-family-lake-vacation/articleshow/132785374.cms",
+    "time": "2026-08-01T08:27:17.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "White House signals Trump is weighing new strikes on Iran",
+    "desc": "There were no U.S. strikes on Iran overnight, but Iran’s paramilitary Revolutionary Guard said on Friday (July 31, 2026) it had struck another two tankers in the Strait of Hormuz, and Kuwait said it intercepted drones",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-donald-trump-tehran-mojtaba-khamenei-fresh-strikes-irgc-strait-of-hormuz-ceasefire-deal/article71293385.ece",
+    "time": "2026-08-01T08:24:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Gwyneth Paltrow joins TikTok with bold debut video",
+    "desc": "Gwyneth Paltrow made a splash by launching her TikTok account with a daring topless montage, breaking the internet with her bold move. She marked her return to acting in 'Marty Supreme' last year, where her steamy moments with co-star Timothée Chalamet became viral sensations. Recently, she faced backlash from critics regarding an Israeli real estate ad campaign.",
+    "img": "https://static.toiimg.com/photo/msid-132785338,imgsize-62416.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/gwyneth-paltrow-joins-tiktok-with-bold-debut-featuring-topless-clips-and-playful-multilingual-introduction/articleshow/132785292.cms",
+    "time": "2026-08-01T08:21:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Jana Nayagan' BO day 10 [Live]: Vijay starrer sees weekend boost",
+    "desc": "Jana Nayagan continues its successful run in its second weekend. The film collected Rs 0.63 crore on its tenth day. This brings the total India net collection to Rs 184.19 crore. Weekend collections are crucial for the action drama's continued success. The movie remains a top choice for moviegoers in Tamil Nadu.",
+    "img": "https://static.toiimg.com/photo/msid-132785316,imgsize-244255.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-box-office-collection-day-10-live-vijay-and-pooja-hegde-starrer-sees-weekend-boost-crosses-rs-184-crore-in-india/articleshow/132785304.cms",
+    "time": "2026-08-01T08:17:59.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Sule demands SIT probe into exam irregularities, all-party meet on reforms",
     "desc": "Whenever the younger generation of a country is disturbed, it is a matter of concern. We are not doing politics. We want justice for our children and transparent examinations, says NCP (SP) leader Supriya Sule",
     "img": "https://th-i.thgim.com/public/incoming/76x8qo/article71293787.ece/alternates/LANDSCAPE_1200/PTI04_28_2025_000121B.jpg",
@@ -34,15 +214,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/nsa-ajit-doval-receives-lokmanya-tilak-national-award-for-national-security-contribution/articleshow/132784737.cms",
     "time": "2026-08-01T07:37:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Celebrated at birth, pushed into sex work",
-    "desc": "Unlike most communities in India, the Banchhadas in M.P. invest more in their daughters’ upbringing than in their sons’, by giving them better nutrition and clothes, only so that they can force them into sex work and live off their earnings. Branded a ‘criminal tribe’ by the British and now classified as a Scheduled Caste, the community remains on society’s margins as government and NGOs have struggled to break the cycle, reports Mehul Malpani",
-    "img": "https://th-i.thgim.com/public/incoming/psewpg/article71291025.ece/alternates/LANDSCAPE_1200/DSC_5897%20copy.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/madhya-pradesh/celebrated-at-birth-pushed-into-sex-work/article71290516.ece",
-    "time": "2026-08-01T07:30:31.000Z"
   },
   {
     "cat": "Entertainment",
@@ -126,15 +297,6 @@ const newsData_en = [
     "time": "2026-08-01T06:51:22.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Heavy rain triggers evacuation of several families in Kozhikode rural area",
-    "desc": "Engapuzha town was inundated after river water entered the area following heavy downpour on Saturday, August 1; traders in the area claimed a huge loss as they could not shift the stored items on time",
-    "img": "https://th-i.thgim.com/public/hindi/editorial/x92mh3/article71293755.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-01%20at%2011.29.22%20AM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/heavy-rain-in-kozhikode-flooding/article71293642.ece",
-    "time": "2026-08-01T06:50:09.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Samara Weaving lands Emma Frost role in 'X-Men.'",
     "desc": "In a thrilling casting announcement, Samara Weaving is set to take on the iconic role of Emma Frost in the upcoming X-Men film. Her determination and talent shone during an extensive audition process that wrapped up this past week. As a telepathic mutant with a rich comic book legacy, Emma promises to bring depth to the franchise.",
@@ -190,15 +352,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "D. Imman makes an emotional statement about betrayal",
-    "desc": "Composer D. Imman discussed his emotional connection to a song about betrayal from the upcoming film 'Niram'. He stated that the lyrics penned by Pa. Vijay resonated deeply with many people. Imman believes music gains meaning when listeners find their own emotions reflected within it. He also encouraged celebrating Tamil cinema's recent National Award recognitions. Imman urged the public to focus on state pride rather than individual award debates.",
-    "img": "https://static.toiimg.com/photo/msid-132782886,imgsize-97045.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/who-hasnt-faced-betrayal-in-life-d-imman-makes-an-emotional-statement-about-why-a-song-from-niram-connected-with-him/articleshow/132782867.cms",
-    "time": "2026-08-01T06:12:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Dhurandhar' maker on casting Ranveer Singh: We wanted performers not stars",
     "desc": "Co-producer Jyoti Deshpande has confirmed that Ranveer Singh has been cast in the film 'Dhurandhar'. Deshpande emphasized the importance of a powerful actor rather than just a high-salaried name for this major project. Having collaborated with Singh on prior hits, she commended his remarkable talent for embodying diverse characters. 'Dhurandhar' has also seen impressive success at the box office.",
     "img": "https://static.toiimg.com/photo/msid-132782880,imgsize-271131.cms",
@@ -216,24 +369,6 @@ const newsData_en = [
     "time": "2026-08-01T06:10:35.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Allu Arjun commitments led to Basil's exit from 'Pluto'",
-    "desc": "Pluto, the Malayalam sci-fi comedy, is experiencing a polarizing reception from viewers during its theatrical release. Actor Neeraj Madhav shared insights that Basil Joseph was a potential candidate for the role played by Althaf Salim. Unfortunately, Basil's commitment to a project with Allu Arjun prevented his involvement. Despite pre-discussions about Althaf for the alien character, ETimes reviewed the film favorably, highlighting its grand aspirations within its financial constraints.",
-    "img": "https://static.toiimg.com/photo/msid-132782741,imgsize-243677.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/neeraj-madhav-reveals-why-basil-joseph-couldnt-star-in-pluto-due-to-allu-arjun-film-and-how-althaf-salim-landed-the-film/articleshow/132782686.cms",
-    "time": "2026-08-01T06:05:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Brooklyn Beckham and Nicola Peltz's wedding: Reported drama inside",
-    "desc": "Brooklyn Beckham and Nicola Peltz's wedding was marred by planning hurdles and family tensions. With a mishap in selecting the bride's dress and an unfortunate rabbi mix-up, the day was already fraught with discomfort. David Beckham's lengthy speech and a dance with Victoria only heightened the friction. The post-wedding brunch served as a reminder of unresolved family issues, with Brooklyn later publicly acknowledging years of pent-up conflict.",
-    "img": "https://static.toiimg.com/photo/msid-132782349,imgsize-93110.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brooklyn-beckham-and-nicola-peltzs-palm-beach-wedding-everything-to-know-about-the-reported-drama/articleshow/132782263.cms",
-    "time": "2026-08-01T05:57:11.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Australia defends teen social media ban after study shows most still online",
     "desc": "The eSafety study painted a sobering picture. It found that children aged 10 ‌to 15 were using social media just as frequently in March ​as they had before the ban came into force on December 10",
@@ -241,42 +376,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/australia-defends-teen-social-media-ban-after-study-shows-most-still-online/article71293555.ece",
     "time": "2026-08-01T05:56:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Ramayana' trailer sparks a hilarious meme fest on Twitter",
-    "desc": "Part One trailer has ignited a fervor online among fans. Ranbir Kapoor’s interpretation of Lord Ram has struck a chord, becoming a viral meme sensation. Yash's dramatic Ravana army moment has been humorously likened to insect swarms. Scheduled for a theatrical release on Diwali 2026, this ambitious project features an impressive cast, heightening excitement for its mythological narrative.",
-    "img": "https://static.toiimg.com/photo/msid-132782279,imgsize-533131.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-trailer-sparks-a-hilarious-meme-fest-on-twitter-as-netizens-react-to-ranbir-kapoors-lord-ram-and-yashs-ravana-avatars-looks-like-colony-of-bees/articleshow/132782019.cms",
-    "time": "2026-08-01T05:47:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Annu Kapoor recalled awkward interview with Nawazuddin Siddiqui",
-    "desc": "Annu Kapoor shared an uncomfortable moment from his interview with Nawazuddin Siddiqui, describing how the actor's offhand remarks about his romantic life felt superficial. He noted that their exchange was mostly characterized by Siddiqui's brief, one-word replies, leaving Kapoor feeling like the conversation lacked depth and engagement. Nevertheless, both artists continue to thrive in their respective film careers.",
-    "img": "https://static.toiimg.com/photo/msid-132782170,imgsize-121554.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-annu-kapoor-slammed-nawazuddin-siddiqui-over-sasta-comment-on-relationships/articleshow/132782073.cms",
-    "time": "2026-08-01T05:44:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jason Sanjay opens up about the journey behind 'Sigma'",
-    "desc": "Jason Sanjay shared insights into the development of his film 'Sigma'. He detailed the collaborative brainstorming sessions that shaped the initial story. Lyca Productions played a crucial role in bringing the project to fruition. Sanjay expressed deep admiration for composer Yuvan Shankar Raja. The film's release is now anticipated later this month.",
-    "img": "https://static.toiimg.com/photo/msid-132782167,imgsize-175675.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/we-didnt-even-have-an-office-just-nonstop-discussions-jason-sanjay-opens-up-about-the-journey-behind-sigma-and-his-admiration-for-yuvan-shankar-raja/articleshow/132782058.cms",
-    "time": "2026-08-01T05:42:40.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "White House signals Trump is weighing new strikes on Iran",
-    "desc": "There were no U.S. strikes on Iran overnight, but Iran’s paramilitary Revolutionary Guard said on Friday (July 31, 2026) it had struck another two tankers in the Strait of Hormuz, and Kuwait said it intercepted drones",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-donald-trump-tehran-mojtaba-khamenei-fresh-strikes-irgc-strait-of-hormuz-ceasefire-deal/article71293385.ece",
-    "time": "2026-08-01T05:35:57.000Z"
   },
   {
     "cat": "Sports",
@@ -288,15 +387,6 @@ const newsData_en = [
     "time": "2026-08-01T05:35:49.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "High Court directs Chief Secretary to constitute high-level committee to undertake comprehensive review of the functioning of DVAC",
-    "desc": "The committee, to be headed by the Chief Secretary himself, will review how the DVAC functions, especially with reference to aspects such as leadership and institutional governance, strengthening of institutional capacity, investigation, and preventive vigilance, administrative reforms, and technology and public interface",
-    "img": "https://th-i.thgim.com/public/incoming/299gp7/article71293602.ece/alternates/LANDSCAPE_1200/9871_6_2_2026_18_47_39_1_DSC_9829.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Madurai/high-court-directs-chief-secretary-to-constitute-high-level-committee-to-undertake-comprehensive-review-of-the-functioning-of-dvac/article71291159.ece",
-    "time": "2026-08-01T05:33:06.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "How Tejaswin Shankar turned an injury scare into a historic CWG medal",
     "desc": "Tejaswin Shankar secured a historic bronze medal in the Commonwealth Games decathlon. He overcame a sudden leg injury that threatened his participation in the event. Shankar focused on each moment and session to achieve his best performance. He finished the 1,500m race to seal his podium finish. This medal marks his second Commonwealth Games achievement.",
@@ -306,33 +396,6 @@ const newsData_en = [
     "time": "2026-08-01T05:16:35.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Niya Backer remembers brother Kalabhavan Navas",
-    "desc": "Niya Backer shared an emotional tribute remembering his brother Kalabhavan Navas. He described Navas as his right hand and childhood companion, deeply missing him. Niya reflected on the lifelong bond shared between siblings, which he considers profound. He offered words of comfort to others experiencing similar losses. The tribute marked the first anniversary of Navas' passing.",
-    "img": "https://static.toiimg.com/photo/msid-132781784,imgsize-225175.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/i-lost-my-right-hand-niya-backer-remembers-brother-kalabhavan-navas-with-an-emotional-post-on-his-first-death-anniversary/articleshow/132781748.cms",
-    "time": "2026-08-01T05:11:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Leptospirosis mortality spirals up in Kerala",
-    "desc": "Kerala has reported 49 deaths—30 confirmed to be due to leptospirosis and 19 suspected cases—in the month of July, 2026 alone. There have been 1,381 confirmed and 922 probable cases of leptospirosis so far in 2026 with total deaths of 115, including 52 probable leptospirosis deaths",
-    "img": "https://th-i.thgim.com/public/incoming/w1mure/article71290146.ece/alternates/LANDSCAPE_1200/IMG_leptospirosis-risk.j_2_1_FOBEJSI7.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/leptospirosis-mortality-spirals-up-in-kerala/article71289608.ece",
-    "time": "2026-08-01T05:09:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ESA notification raises concern among people in hilly regions of Kerala",
-    "desc": "Farmer leaders say that with 131 villages from the State are now included in the draft notification, and nearly 1,500 sq km of farmlands and human habitations fall in the ecologically sensitive area (ESA) category",
-    "img": "https://th-i.thgim.com/public/incoming/97ba8x/article71290592.ece/alternates/LANDSCAPE_1200/80759_30_7_2026_17_35_10_1_KASTURIRANGANPROTEST_1.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/esa-notification-raises-concern-among-people-in-hilly-regions-of-kerala/article71290341.ece",
-    "time": "2026-08-01T04:57:42.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'He could captain India': Why Sooryavanshi was named East Zone vice-captain",
     "desc": "East Zone selectors appointed Vaibhav Sooryavanshi as vice-captain for the Duleep Trophy. This move aims to develop his leadership skills by observing the captain closely. Experienced players like Abhimanyu Easwaran were not considered for this specific role. Ishan Kishan will lead the team as captain, with Sooryavanshi as his deputy. Both players are seen as future prospects for India's cricket setup.",
@@ -340,24 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/one-day-he-could-captain-india-selectors-explain-why-15-year-old-vaibhav-sooryavanshi-was-named-east-zone-vice-captain/articleshow/132781466.cms",
     "time": "2026-08-01T04:52:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ayushmann and Sharvari's pics from 'Yeh Prem Mol Liya' sets go VIRAL",
-    "desc": "Filming for Sooraj Barjatya's romantic family drama 'Yeh Prem Mol Liya' has officially concluded. Ayushmann Khurrana and Sharvari recently wrapped up their scenes for the movie. The film promises to celebrate love and family values with soulful music. Rajshri Productions' iconic character Prem returns to the big screen after twelve years. The highly anticipated movie is reportedly set for a November 2026 release.",
-    "img": "https://static.toiimg.com/photo/msid-132781461,imgsize-735162.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ayushmann-khurrana-and-sharvaris-photos-from-yeh-prem-mol-liya-mumbai-sets-go-viral-sooraj-barjatya-wraps-family-entertainer-pics/articleshow/132780972.cms",
-    "time": "2026-08-01T04:51:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "FIR against Noida woman over ‘abusive’ posts on PM transferred to Delhi amid fresh online threats, doxxing",
-    "desc": "When reached for comment, Deputy Commissioner of Police (New Delhi) Sachin Sharma said the case had not yet been handed over to them as of Friday evening. “We will decide the course of action once we get it,” he said.",
-    "img": "https://th-i.thgim.com/public/incoming/5gxmpt/article71273457.ece/alternates/LANDSCAPE_1200/Cockroach%20Janta%20Party%20CJP%20Protest%20Delhi%2054.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/cjp-stir-fir-against-noida-woman-over-objectional-remarks-on-pm-transferred-to-delhi/article71289838.ece",
-    "time": "2026-08-01T04:34:36.000Z"
   },
   {
     "cat": "Sports",
@@ -457,15 +502,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/pb-abhinandh-utt-season-7-breakthrough-india-rising-table-tennis-star/article71292081.ece",
     "time": "2026-08-01T02:20:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Collectors and craftsmen keep fountain pens alive in Hyderabad",
-    "desc": "At the Hyderabad Fountain Pen Club’s monthly gatherings, collectors, hobbyists and craftsmen come together to share pens, inks and paper, exchange stories and celebrate the art of handwriting. Their passion is complemented by the work of veteran city penmakers who continue to handcraft ebonite fountain pens using time-honoured techniques, keeping alive a tradition that has endured well into the digital age",
-    "img": "https://th-i.thgim.com/public/incoming/f2uy9p/article71293409.ece/alternates/LANDSCAPE_1200/hy31pen1%205.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Hyderabad/let-the-ink-flow-collectors-and-craftsmen-keep-fountain-pens-alive-in-hyderabad/article71282889.ece",
-    "time": "2026-08-01T02:09:57.000Z"
   },
   {
     "cat": "Sports",
@@ -594,33 +630,6 @@ const newsData_en = [
     "time": "2026-07-31T22:53:01.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "16.4% deleted in Haryana draft roll; 10.8% in Andhra Pradesh",
-    "desc": "Draft voter rolls in Haryana and Andhra Pradesh reveal significant exclusions. Over sixteen percent of Haryana's electorate and over ten percent in Andhra were removed. Reasons cited include deaths, permanent shifts, and multiple registrations. However, genuine voters can still be added during the claims period. This process allows for corrections and additions to the electoral rolls.",
-    "img": "https://static.toiimg.com/photo/msid-132778965,imgsize-1079421.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/16-4-deleted-in-haryana-draft-roll-10-8-in-andhra-pradesh/articleshow/132778955.cms",
-    "time": "2026-07-31T22:42:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "I forgive those who abused me &amp; my mother, our job to guide them",
-    "desc": "Prime Minister Narendra Modi will forgive young protesters accused of abuse. He stated these misguided children need guidance and correction, not punishment. The Prime Minister believes punishing them will not change circumstances effectively. Mistakes made at a young age present an opportunity for correction and societal acceptance. This decision indicates that cases against these youngsters will likely be withdrawn.",
-    "img": "https://static.toiimg.com/photo/msid-132778949,imgsize-435040.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-modi-i-forgive-those-who-abused-me-my-mom-our-job-to-guide-them/articleshow/132778945.cms",
-    "time": "2026-07-31T22:34:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tahir Hussain gets life for IB staffer’s killing in 2020 riots",
-    "desc": "A Delhi court sentenced former AAP councillor Tahir Hussain and four others to life imprisonment. They were convicted for the murder of Intelligence Bureau staffer Ankit Sharma. The court found Sharma was lynched solely on account of his religion during the 2020 riots. While the prosecution sought the death penalty, it was declined by the judge. The judge considered educational backgrounds as a mitigating factor for the convicts.",
-    "img": "https://static.toiimg.com/photo/msid-132778941,imgsize-135381.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tahir-hussain-gets-life-for-ib-staffers-killing-in-2020-riots/articleshow/132778934.cms",
-    "time": "2026-07-31T22:27:15.000Z"
-  },
-  {
     "cat": "World",
     "title": "What is behind the communal clashes in Nepal?",
     "desc": "A local dispute over religious celebrations has spiralled into wider unrest in Nepal’s southern plains, exposing growing polarisation, delayed government response and fears over the erosion of long-standing community ties; analysts warn the row reflects mounting challenges to Nepal’s tradition of coexistence",
@@ -630,15 +639,6 @@ const newsData_en = [
     "time": "2026-07-31T22:25:58.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Amid opposition protest, Lok Sabha passes births &amp; deaths bill",
-    "desc": "The Lok Sabha passed the Registration of Births and Deaths (Amendment) Bill, 2026, without any debate. Opposition members disrupted Rajya Sabha proceedings, preventing any business from being transacted. The bill aims to make delayed registrations of births and deaths more stringent. Congress and SP MPs raised issues concerning police actions and alleged temple donation theft. The Rajya Sabha was ultimately adjourned for the entire day.",
-    "img": "https://static.toiimg.com/photo/msid-132778905,imgsize-1615812.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/amid-opposition-protest-lok-sabha-passes-births-deaths-bill/articleshow/132778709.cms",
-    "time": "2026-07-31T22:14:28.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Dilip Tirkey questions process, his federation cites precedent",
     "desc": "Hockey India president Dilip Tirkey questioned the jersey colour change process. He stated the decision lacked executive board discussion and his prior knowledge. Executive director RK Srivastava defended the saffron kit based on technical and performance factors. Other board members also raised concerns about transparency and accountability. This controversy emerges amid ongoing governance scrutiny for Hockey India.",
@@ -646,15 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/hockey-jersey-row-hi-president-dilip-tirkey-questions-process-his-federation-cites-precedent/articleshow/132775211.cms",
     "time": "2026-07-31T18:31:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I felt that everything was over': Asmita remembers late father after historic judo gold",
-    "desc": "Asmita Dey secured India's first judo gold medal at the Commonwealth Games. She defeated Canada's Heidi Quach in a gripping golden score final match. This historic victory came after overcoming personal tragedy and immense dedication. Harsh Singh also won a gold medal in the men's 60kg judo event. These twin triumphs marked a significant breakthrough for Indian judo.",
-    "img": "https://static.toiimg.com/photo/msid-132773822,imgsize-135342.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/i-felt-that-everything-was-over-asmita-dey-remembers-late-father-after-historic-cwg-judo-gold/articleshow/132773831.cms",
-    "time": "2026-07-31T17:25:36.000Z"
   },
   {
     "cat": "World",
@@ -709,15 +700,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/high-taxes-on-cigarettes-hits-itc-q1-net-slips-27-to-3579-crore/article71291010.ece",
     "time": "2026-07-31T14:31:36.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ITR deadline on July 31, 2026: Top things NRIs should keep in mind when filing tax return",
-    "desc": "The return filing process and mandatory return filing requirement for NRIs is broadly similar to that of resident taxpayers, as returns are filed through the same Income Tax e-Filing portal using the applicable ITR form.",
-    "img": "https://static.toiimg.com/photo/msid-132769090,imgsize-442751.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/itr-deadline-on-july-31-2026-top-things-nris-should-keep-in-mind-when-filing-tax-return/articleshow/132768986.cms",
-    "time": "2026-07-31T13:24:34.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/behind-chinas-ai-gift-a-constraint/article71281433.ece",
     "time": "2026-07-30T03:35:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Emerald Isle spark Test rejuvenation?",
+    "desc": "Sri Lanka are coming off a 0-1 loss in the West Indies in a two-match showdown which ended some three weeks back. Dhananjaya de Silva’s men have greater motivation than ever before as they embark on the twin challenges of regaining their hegemony over India in their own background and hauling their WTC aspirations back on track at this early stage",
+    "img": "https://th-i.thgim.com/public/sport/ac7up/article71283137.ece/alternates/LANDSCAPE_1200/GettyImages-2226765090.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/will-emerald-isle-spark-test-rejuvenation/article71283117.ece",
+    "time": "2026-07-29T18:56:06.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "What is the EU AI transparency code?",
+    "desc": "Starting from August 2, the EU mandates labels for AI-generated content to boost transparency online. From deepfakes to manipulated text, find out how this new code seeks to protect users and maintain the integrity of information",
+    "img": "https://th-i.thgim.com/public/news/national/9odytc/article71279838.ece/alternates/LANDSCAPE_1200/iStock-1976099664%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/what-is-the-eu-ai-transparency-code-explained/article71279676.ece",
+    "time": "2026-07-29T05:06:21.000Z"
   }
 ];
