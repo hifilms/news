@@ -1,5 +1,194 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Decision on declaring drought by August end, Chief Minister D.K. Shivakumar",
+    "desc": "Ministers will provide ground report and that will be compiled by the Revenue Department based on the norms; the final assessment would be discussed in the Cabinet and then submitted to the Government, said D.K. Shivakumar",
+    "img": "https://th-i.thgim.com/public/incoming/x5thit/article71297496.ece/alternates/LANDSCAPE_1200/5964_1_8_2026_20_53_24_2_CMDKSHIIVAKUMAR.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/decision-on-declaring-drought-by-august-end-chief-minister-dk-shivakumar/article71297485.ece",
+    "time": "2026-08-02T10:27:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Mekedatu project is permanent solution': Karnataka CM DK Shivakumar on Cauvery water dispute with Tamil Nadu",
+    "desc": "Karnataka chief minister DK Shivakumar views the Mekedatu dam project as a permanent solution. He stated the Supreme Court and central government have already responded to the proposal. Shivakumar urged all stakeholders to move forward without further delays or wasting time. This project aims to bring both states to the table for amicable discussions. The Cauvery water dispute centers on sharing river waters during periods of low rainfall.",
+    "img": "https://static.toiimg.com/photo/msid-132804777,imgsize-106708.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/mekedatu-project-is-permanent-solution-karnataka-cm-dk-shivakumar-on-cauvery-water-dispute-with-tamil-nadu/articleshow/132804775.cms",
+    "time": "2026-08-02T10:16:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Celebrated at birth, pushed into sex work",
+    "desc": "Unlike most communities in India, the Banchhadas in M.P. invest more in their daughters’ upbringing than in their sons’, by giving them better nutrition and clothes, only so that they can force them into sex work and live off their earnings. Branded a ‘criminal tribe’ by the British and now classified as a Scheduled Caste, the community remains on society’s margins as government and NGOs have struggled to break the cycle, reports Mehul Malpani",
+    "img": "https://th-i.thgim.com/public/incoming/psewpg/article71291025.ece/alternates/LANDSCAPE_1200/DSC_5897%20copy.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/celebrated-at-birth-pushed-into-sex-work/article71290516.ece",
+    "time": "2026-08-02T10:15:51.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Rs 20,200 cr injected into equities after months of selling",
+    "desc": "Foreign portfolio investors returned to Indian equities in July after four months of outflows. They invested twenty thousand two hundred crore rupees in stocks during July. This renewed interest stems from attractive valuations and improving corporate earnings. Foreign investors also showed strong interest in the Indian debt market during July. Overseas developments and domestic events will guide future investment directions.",
+    "img": "https://static.toiimg.com/photo/msid-132804668,imgsize-26600.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/fpis-return-to-india-rs-20200-crore-injected-into-equities-after-four-months-of-selling/articleshow/132804672.cms",
+    "time": "2026-08-02T10:08:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "How Blake Lively asked Taylor Swift to share 'statement of support'",
+    "desc": "Reports suggest Blake Lively and Taylor Swift's decade-old friendship ended abruptly. Lively allegedly threatened to leak private texts if Swift did not issue a statement. Swift's lawyers denied these blackmail claims made by Lively's team. The actresses were previously seen together at NFL games and concerts. This alleged fallout occurred after a legal battle involving Justin Baldoni.",
+    "img": "https://static.toiimg.com/photo/msid-132804424,imgsize-241512.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/so-sad-my-bestie-couldnt-how-blake-lively-asked-taylor-swift-to-share-statement-of-support-during-justin-baldoni-case/articleshow/132804420.cms",
+    "time": "2026-08-02T09:57:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "The reason behind actresses' social media exits EXPLAINED",
+    "desc": "Several actresses are leaving social media platforms due to online harassment. Aishwarya Lekshmi and Mamitha Baiju cited mental stress from fake content. Deepfake technology and cyberbullying pose serious threats to women online. Protecting mental well-being is now prioritized over online popularity. Stronger online safety measures and responsible behavior are urgently needed.",
+    "img": "https://static.toiimg.com/photo/msid-132804468,imgsize-136685.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/from-aishwarya-lekshmi-to-mamitha-baiju-the-reason-behind-actresses-social-media-exits-explained/articleshow/132804453.cms",
+    "time": "2026-08-02T09:55:05.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "RBI policy, earnings and other cues to drive market this week",
+    "desc": "The stock market faces a crucial week with key domestic and global events. The Reserve Bank of India's interest rate decision is a major focus for investors. Geopolitical developments in West Asia and crude oil prices will also influence sentiment. Several large companies are set to announce their quarterly earnings results. Foreign investors turned net buyers in July, supporting market confidence.",
+    "img": "https://static.toiimg.com/photo/msid-132804387,imgsize-98704.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-outlook-rbi-policy-earnings-and-middle-east-tensions-to-set-dalal-street-mood-this-week/articleshow/132804366.cms",
+    "time": "2026-08-02T09:46:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "What if 'FRIENDS' had Bollywood version? Internet once reimagined",
+    "desc": "An innovative AI-generated video reinterpreted the classic sitcom 'FRIENDS' as a colorful Bollywood adaptation, featuring popular Indian actors taking on the show’s beloved roles. This imaginative take captivated fans, sparking spirited conversations around casting choices and the essence of friendship viewed through an Indian cultural lens. The project acts as a delightful homage to the show's widespread influence and nostalgic value, merging two distinct entertainment worlds.",
+    "img": "https://static.toiimg.com/photo/msid-132804359,imgsize-40838.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/what-if-friends-had-bollywood-version-internet-once-reimagined-aamir-khan-chandler-bing-hrithik-roshan-as-mike-hannigan-ranbir-kapoor-as-ross-geller-and-more-as-iconic/articleshow/132804321.cms",
+    "time": "2026-08-02T09:40:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "EPFO CEO",
+    "desc": "The recent reforms seek to simplify access to Provident Fund savings rather than merely digitise services, says the EPFO Chief Executive Officer. He explains the rationale behind changes to claim settlement and withdrawals, and says the Social Security Code expands social security coverage to workers in the unorganised sector",
+    "img": "https://th-i.thgim.com/public/incoming/6cix00/article71297312.ece/alternates/LANDSCAPE_1200/_SKP6039.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/technology-must-be-backed-by-process-reforms-epfo-ceo/article71292119.ece",
+    "time": "2026-08-02T09:33:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Friendship Day celebrations turn tragic, as two youths feared drowned in Vizag beach",
+    "desc": "As the group was posing on the rock, a huge wave crashed against it, sweeping a 19-year-old woman into the sea; in an attempt to save the woman, her friend, a 25-year-old man immediately jumped into the water",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Visakhapatnam/friendship-day-celebrations-turn-tragic-as-two-youths-feared-drowned-in-vizag-beach/article71297422.ece",
+    "time": "2026-08-02T09:31:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'He will not be taken back': Mayawati expels former MP Ashok Siddharth from BSP again",
+    "desc": "Bahujan Samaj Party president Mayawati expelled former Rajya Sabha member Ashok Siddarth from the party. Siddarth faced expulsion for indiscipline and violating party directives in several states. The party chief also announced the expulsion of coordinator Randhir Singh Beniwal for similar reasons. Mayawati clarified that senior Uttar Pradesh office-bearers would not hold state roles. Ramji Gautam will continue as Punjab in-charge until upcoming assembly and Lok Sabha polls.",
+    "img": "https://static.toiimg.com/photo/msid-132804250,imgsize-130096.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/he-will-not-be-taken-back-mayawati-expels-former-mp-ashok-siddharth-from-bsp-again/articleshow/132804004.cms",
+    "time": "2026-08-02T09:29:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kangana after meeting two Gen-Z girls in gym: 'You are free to live your life'",
+    "desc": "Kangana Ranaut recently spoke with two young women about growing up in the digital age. They discussed how technology is now inseparable from everyday life for Gen-Z. Ranaut stressed that personal freedom requires accountability and should not harm others. She previously faced criticism for calling Gen-Z the \"gutter generation.\" Ranaut also addressed misleading messages sent to young audiences on social media.",
+    "img": "https://static.toiimg.com/photo/msid-132804231,imgsize-130510.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-after-meeting-two-gen-z-girls-in-gym-you-are-free-to-live-your-life-freedom-needs-accountability/articleshow/132804238.cms",
+    "time": "2026-08-02T09:26:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Al Pacino",
+    "desc": "Al Pacino shared his perspective on the difficulty and impact of change. He believes accepting change leads to positive and greater outcomes. Pacino's career spans iconic roles in films like The Godfather and Serpico. He has fathered four children and has a net worth of USD 40 million. The legendary actor continues to influence cinema and inspire many generations.",
+    "img": "https://static.toiimg.com/photo/msid-132804023,imgsize-252498.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-al-pacino-a-change-is-a-very-difficult-thing-for-us-to-do-but-it-changes-everything-when-you-do-it-a-piece-of-life-advice-from-the-godfather-star/articleshow/132804038.cms",
+    "time": "2026-08-02T09:26:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Amitabh remembered Dharmendra with emotional words",
+    "desc": "In a heartfelt homage to Dharmendra, Amitabh Bachchan celebrated their enduring friendship, which began with Dharmendra’s pivotal endorsement for the legendary film Sholay. Dharmendra's genuine warmth and simplicity have always resonated with Amitabh, leading to memorable on-screen partnerships in classics such as Chupke Chupke and Naseeb, creating a bond that is commemorated within the rich legacy of Bollywood.",
+    "img": "https://static.toiimg.com/photo/msid-132804046,imgsize-116366.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/friendship-day-when-amitabh-bachchan-remembered-dharmendra-with-emotional-words-a-vacuum-that-shall-ever-remain-vacuus/articleshow/132804022.cms",
+    "time": "2026-08-02T09:05:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aarti's mother Sujatha Vijayakumar's special advice to Ravi Mohan",
+    "desc": "Sujatha Vijayakumar urged Ravi Mohan to be a better father to his sons. She rejected his allegations and presented documents supporting her family's claims. The producer stated that Ravi had not cooperated with passport signings for the children. She also announced a memorial event for filmmakers Bharathiraja and K. Bhagyaraj. The ongoing court case between Ravi Mohan and Aarti remains pending.",
+    "img": "https://static.toiimg.com/photo/msid-132803816,imgsize-175597.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/aartis-mother-sujatha-vijayakumars-special-advice-to-ravi-mohan-be-the-father-your-son-will-speak-about-with-pride-like-jason-sanjay-speaks-of-vijay/articleshow/132803790.cms",
+    "time": "2026-08-02T08:52:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mayawati welcomes U.P. govt. decision to restore Sant Ravidas Nagar district name, hits out at Samajwadi Party",
+    "desc": "Government has re-established Sant Ravidas Nagar district, which was created by the BSP government by giving headquarters status to Bhadohi and which was changed by the Samajwadi Party government due to its narrow casteist mindset, for which the party is grateful to the State government, says Mayawati",
+    "img": "https://th-i.thgim.com/public/incoming/livojn/article71293389.ece/alternates/LANDSCAPE_1200/PTI07_10_2026_000166A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/mayawati-welcomes-up-govt-decision-to-restore-sant-ravidas-nagar-district-name-hits-out-at-samajwadi-party/article71291099.ece",
+    "time": "2026-08-02T08:52:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Brad Pitt’s French château winery comes under risk after wildfires",
+    "desc": "Wildfires are currently burning near Brad Pitt's French Château Miraval estate. Firefighters successfully used water from the property's private lake to combat the blaze. Meanwhile, George and Amal Clooney evacuated their Provence home due to the extreme heat wave. Brad Pitt and Angelina Jolie continue their decade-long legal dispute over the estate. The former couple's fight for Château Miraval persists after their separation.",
+    "img": "https://static.toiimg.com/photo/msid-132803785,imgsize-140639.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brad-pitts-french-chteau-winery-comes-under-risk-after-terrible-wildfires-spread-across-europe/articleshow/132803792.cms",
+    "time": "2026-08-02T08:51:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'If visibility is reason, then blue jersey should never be worn again': Sreejesh",
+    "desc": "The Indian men's and women's teams will wear saffron jerseys as their primary kit at the World Cup, which begins on August 15 in the Netherlands and Belgium. The move has drawn criticism from several former India captains. While Sreejesh said he has no problem with the jersey colour changing, he questioned the explanation that blue jerseys are difficult to see on blue hockey turfs.",
+    "img": "https://static.toiimg.com/photo/msid-132803586,imgsize-48220.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/if-visibility-is-the-reason-then-blue-jersey-should-never-be-worn-again-sreejesh/articleshow/132803557.cms",
+    "time": "2026-08-02T08:22:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Blessed to receive films of all kinds’",
+    "desc": "Celebrating another year, music composer Devi Sri Prasad reminisces about his prolific career, having created captivating soundtracks for various Indian films. His passion for musical diversity keeps him invigorated as he skillfully navigates through numerous genres. Prasad attributes his versatility to the influence of directors and scripts, feeling fortunate for the myriad creative challenges he has encountered along the way.",
+    "img": "https://static.toiimg.com/photo/msid-132803531,imgsize-261008.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/music/devi-sri-prasad-aka-dsp-turns-47-pushpa-fame-composer-reflects-on-his-career-says-blessed-to-receive-films-of-all-kinds-exclusive/articleshow/132803451.cms",
+    "time": "2026-08-02T08:20:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Shah Rukh Khan jokingly warned Aamir Khan against working with Kajol before calling her 'magical'",
+    "desc": "Bollywood stars Shah Rukh Khan and Kajol share a celebrated off-screen friendship spanning decades. Their memorable film collaborations, especially with Karan Johar, redefined romance for a generation. Shah Rukh Khan once humorously pranked Aamir Khan about Kajol's acting abilities. Kajol recalls their friendship began with a playful, grumpy request on a film set. This iconic partnership continues to be cherished by audiences across India.",
+    "img": "https://static.toiimg.com/photo/msid-132803508,imgsize-178446.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/happy-friendship-day-when-shah-rukh-khan-jokingly-warned-aamir-khan-against-working-with-kajol-before-calling-her-magical/articleshow/132803516.cms",
+    "time": "2026-08-02T08:17:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why did FIFA scrap its World Cup stake sale?",
+    "desc": "What was FIFA’s plan to sell stakes in the World Cup? What would FIFA’s member associations have gained? Who opposed the proposal and why? Has FIFA faced similar resistance before? How did Gianni Infantino respond to the pushback?",
+    "img": "https://th-i.thgim.com/public/incoming/f8mweq/article71296069.ece/alternates/LANDSCAPE_1200/Canada_FIFA_Congress_Soccer__143.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/why-did-fifa-scrap-its-world-cup-stake-sale/article71296070.ece",
+    "time": "2026-08-02T08:09:48.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "'Jana Nayagan' BO day 11 [Live]: Vijay starrer nears Rs 200 crore",
     "desc": "Thalapathy Vijay's Jana Nayagan continues its strong box office performance nearing Rs 200 crore. The film has shown encouraging trends on its second Sunday, maintaining steady collections. Jana Nayagan's second weekend provided fresh momentum, boosting its overall earnings significantly. Positive family footfalls and sustained fan interest keep the film in a strong position. The action drama is expected to cross the Rs 200 crore India gross mark very soon.",
@@ -45,8 +234,17 @@ const newsData_en = [
     "time": "2026-08-02T07:41:04.000Z"
   },
   {
+    "cat": "Entertainment",
+    "title": "Did you know Ajinkya Deo auditioned for Dashrath? read how he bagged Vishwamitra role",
+    "desc": "Ajinkya Deo initially auditioned for King Dashrath in Nitesh Tiwari's 'Ramayana'. Veteran actor Arun Govil was later finalized for the role of Dashrath. Deo then accepted the significant role of Sage Vishwamitra in the epic film. Several look tests were conducted to finalize his appearance as Vishwamitra. The film, featuring a star-studded cast, is slated for a November 2026 release.",
+    "img": "https://static.toiimg.com/photo/msid-132802737,imgsize-218777.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-casting-trivia-did-you-know-ajinkya-deo-auditioned-for-dashrath-read-how-he-bagged-vishwamitra-role/articleshow/132802456.cms",
+    "time": "2026-08-02T07:33:45.000Z"
+  },
+  {
     "cat": "Sports",
-    "title": "Jasprit Bumrah ruled out of Sri Lanka Test series",
+    "title": "Huge blow! Jasprit Bumrah ruled out of Sri Lanka Tests",
     "desc": "Star bowler Jasprit Bumrah will miss the upcoming Test series against Sri Lanka. He continues to feel discomfort in his left knee after an initial assessment. Stakeholders have decided it is not safe to push him back into cricket. A full recovery is now the primary focus for the Indian team. The two-Test series is scheduled to begin on August 15.",
     "img": "https://static.toiimg.com/photo/msid-132802679,imgsize-67486.cms",
     "src": "indiatimes.com",
@@ -72,15 +270,6 @@ const newsData_en = [
     "time": "2026-08-02T07:20:58.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "EPFO CEO",
-    "desc": "The recent reforms seek to simplify access to Provident Fund savings rather than merely digitise services, says the EPFO Chief Executive Officer. He explains the rationale behind changes to claim settlement and withdrawals, and says the Social Security Code expands social security coverage to workers in the unorganised sector",
-    "img": "https://th-i.thgim.com/public/incoming/6cix00/article71297312.ece/alternates/LANDSCAPE_1200/_SKP6039.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/technology-must-be-backed-by-process-reforms-epfo-ceo/article71292119.ece",
-    "time": "2026-08-02T07:20:05.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Young fan hugs and kisses Kunchacko Boban",
     "desc": "Actor Kunchacko Boban shared a heartwarming moment with a young fan. The actor received an affectionate surprise during a public event in Alappuzha. This event was part of promotions for his latest film Unmadham. Unmadham has recorded growth at the box office after its release. The film features Kunchacko Boban and Lijo Mol in key roles.",
@@ -97,15 +286,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/accepted-only-for-rajinikanth-sir-vijay-sethupathi-reveals-why-he-made-an-exception-for-jailer-2-cameo/articleshow/132801932.cms",
     "time": "2026-08-02T06:58:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Spider-Man: Brand New Day' ending explained",
-    "desc": "The film's ending leaves viewers questioning Peter Parker's current location. MJ and Ned show lingering memories of Peter Parker after the spell. A tracker indicates Spider-Man is now in outer space, not on Earth. This sets up theories about other Spider-Man versions and future Avengers films. The movie explores the aftermath of Doctor Strange's spell on Peter Parker.",
-    "img": "https://static.toiimg.com/photo/msid-132801646,imgsize-410858.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/spider-man-brand-new-day-ending-explained-what-does-the-unearthly-end-credit-scene-mean-heres-what-we-know/articleshow/132801678.cms",
-    "time": "2026-08-02T06:44:36.000Z"
   },
   {
     "cat": "Politics",
@@ -144,15 +324,6 @@ const newsData_en = [
     "time": "2026-08-02T06:25:09.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Sasikumar clarifies his political stand at 'Vadhandhi 2' event",
-    "desc": "Sasikumar has clarified his political stance, stating his sole focus remains on acting. He addressed these rumors at the promotional event for his upcoming web series. The actor explicitly denied any intentions of entering politics during the press meet. This clear statement puts an end to ongoing speculation among fans and industry members. Sasikumar will next be seen in 'Vadhandhi Season 2' premiering on August 7.",
-    "img": "https://static.toiimg.com/photo/msid-132801302,imgsize-144463.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sasikumar-clarifies-his-political-stand-at-vadhandhi-2-event-says-his-only-focus-is-acting/articleshow/132801292.cms",
-    "time": "2026-08-02T06:15:28.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Kerala braces for the possibility of heavy rains on August 2",
     "desc": "The Indian Meteorological Department (IMD) has issued an orange alert for 12 districts; it has warned of heavy rains and the possibility of flash floods, mudslides, and road and neighbourhood inundation in Pathanamthitta, Alappuzha, Kottayam, Ernakulam, Idukki, Thrissur, Palakkad, Malappuram, Kozhikode, Wayanad, Kannur, and Kasargod districts.",
@@ -162,31 +333,13 @@ const newsData_en = [
     "time": "2026-08-02T06:02:05.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Ramayana' cast fees: RK tops list; know what others are charging",
-    "desc": "The highly anticipated Ramayana film has disclosed its star cast remuneration details. Ranbir Kapoor is set to earn an impressive Rs 150 crore for his dual role, while Yash will take home Rs 100 crore for both his performance and co-production role. Other notable stars like Sai Pallavi and Sunny Deol are also receiving significant compensation, and Vivek Oberoi has generously waived his fee for this epic project.",
-    "img": "https://static.toiimg.com/photo/msid-132801081,imgsize-738467.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-ranbir-kapoor-is-highest-paid-in-nitesh-tiwaris-epic-heres-what-yash-sai-pallavi-and-other-stars-are-charging/articleshow/132800866.cms",
-    "time": "2026-08-02T06:01:16.000Z"
-  },
-  {
     "cat": "Sports",
-    "title": "18 years after Saina Nehwal, Tanvi Sharma brings Taipei Open title back to India",
+    "title": "18 years after Nehwal, Tanvi brings Taipei Open title back to India",
     "desc": "Indian badminton player Tanvi Sharma secured her first BWF World Tour title. She defeated Vietnam's Thuy Linh Nguyen in the Taipei Open final. The 17-year-old achieved this victory in just 36 minutes. Tanvi became the youngest finalist in Taipei Open history. This win marks a significant milestone for the young Indian athlete.",
     "img": "https://static.toiimg.com/photo/msid-132800966,imgsize-68543.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/18-years-after-saina-nehwal-tanvi-sharma-brings-taipei-open-title-back-to-india/articleshow/132800965.cms",
     "time": "2026-08-02T05:42:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "SS Rajamouli's 'Varanasi' wraps key sequences: Report",
-    "desc": "Filmmaker SS Rajamouli’s ambitious time-travel epic 'Varanasi' is making significant strides in production. With a devoted crew, major segments are already wrapped up. Mahesh Babu takes center stage as Rudra, a devotee caught in the peril of an asteroid threat in the sacred city. Priyanka Chopra makes her notable return as Mandakini, while Prithviraj Sukumaran embodies the antagonist.",
-    "img": "https://static.toiimg.com/photo/msid-132800972,imgsize-618360.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/varanasi-update-ss-rajamouli-completes-major-shoot-of-mahesh-babu-and-priyanka-chopra-starrer/articleshow/132800936.cms",
-    "time": "2026-08-02T05:39:42.000Z"
   },
   {
     "cat": "World",
@@ -198,33 +351,6 @@ const newsData_en = [
     "time": "2026-08-02T05:25:38.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'In Harihar Nagar' gang reunites",
-    "desc": "After a 16-year hiatus, Malayalam cinema's cherished quartet is set to grace the big screen again in the much-anticipated film 'Pathira Kurukkan'. This spirited comedy entertainer will hit theaters this September, showcasing how the fates of four individuals intertwine in surprising ways. Notably, the talented actor Indrans takes on a crucial role in this delightful story.",
-    "img": "https://static.toiimg.com/photo/msid-132800819,imgsize-387947.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/pathira-kurukkan-announced-in-harihar-nagar-gang-reunites-jagadish-mukesh-siddique-ashokan-return-in-a-comedy-entertainer/articleshow/132800813.cms",
-    "time": "2026-08-02T05:19:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Parthiban seeks law for caste- and religion-free certificates",
-    "desc": "Actor Parthiban has filed a public interest litigation in the Madras High Court. He seeks a new law for caste and religion-free certificates across Tamil Nadu. This petition aims to create a clear legal process for all applicants. The court previously directed the government to frame guidelines for these applications. The case is scheduled for hearing on Monday, August 3.",
-    "img": "https://static.toiimg.com/photo/msid-132800815,imgsize-231915.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/parthiban-moves-high-court-again-seeks-law-for-caste-and-religion-free-certificates-across-tamil-nadu/articleshow/132800810.cms",
-    "time": "2026-08-02T05:19:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jon Bon Jovi's son Romeo Bongiovi on fame and music career",
-    "desc": "Young Romeo Bongiovi, son of iconic musician Jon Bon Jovi, values meaningful interactions over widespread recognition. While studying music at the University of Miami, he channeled his creativity into the band Lawn, which produced their debut EP. Jon is supportive, appreciating Romeo's drive for an independent career and artistic integrity.",
-    "img": "https://static.toiimg.com/photo/msid-132800570,imgsize-139728.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/jon-bon-jovis-son-romeo-bongiovi-says-he-doesnt-really-like-the-idea-of-celebrity-amid-his-music-career/articleshow/132800552.cms",
-    "time": "2026-08-02T04:54:52.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Warm-up match reduced from four days to three ahead of Test series",
     "desc": "India's warm-up match against a Sri Lanka XI has been shortened. The practice game will now be played from August 7 to August 9. This fixture will take place at the NCC Ground in Colombo. The two-Test series against Sri Lanka begins on August 15. This series is part of the ongoing World Test Championship cycle.",
@@ -234,24 +360,6 @@ const newsData_en = [
     "time": "2026-08-02T04:44:41.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Brooklyn Beckham and Nicola Peltz vacation with Elton John",
-    "desc": "Brooklyn Beckham and Nicola Peltz are vacationing with Elton John. The couple enjoyed a yacht trip in the South of France. This trip occurs amidst ongoing family disputes and wedding controversies. They were seen with Elton John and David Furnish on July 29, 2026. The article details their European holiday and past wedding issues.",
-    "img": "https://static.toiimg.com/photo/msid-132800308,imgsize-181947.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brooklyn-beckham-and-nicola-peltz-vacation-with-elton-john-in-france-amid-their-weddings-chaotic-rundown/articleshow/132800323.cms",
-    "time": "2026-08-02T04:43:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Janhvi Kapoor shares candid pics with boyfriend Shikhar",
-    "desc": "Janhvi Kapoor took to Instagram to share heartwarming snapshots featuring her boyfriend Shikhar Pahariya and family. Among the images were charming selfies and family gatherings, punctuated by moments of intimacy like holding hands with Shikhar. The post was a heartfelt showcase of her elegant dresses and carefree dances. Recently, Janhvi captivated audiences in the action drama 'Peddi,' which premiered on June 4.",
-    "img": "https://static.toiimg.com/photo/msid-132800458,imgsize-569358.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/janhvi-kapoor-shares-candid-pics-with-boyfriend-shikhar-pahariya-calls-them-too-cute-not-to-post/articleshow/132800138.cms",
-    "time": "2026-08-02T04:37:06.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'We're very aligned': Joe Root reveals why Fleming won him over instantly",
     "desc": "Joe Root expressed enthusiasm for leading England's Test team again. He cited incoming coach Stephen Fleming as a key reason for his excitement. Fleming's vision has Root looking forward to the team's future prospects. Root also acknowledged the positive impact of Brendon McCullum and Ben Stokes. England's next assignment is a home series against Pakistan in August.",
@@ -259,15 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/were-very-aligned-joe-root-reveals-why-stephen-fleming-won-him-over-instantly/articleshow/132800440.cms",
     "time": "2026-08-02T04:33:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Wrath of the Gods' filmmaker Justin Hardy passes away",
-    "desc": "British filmmaker Justin Hardy has sadly died at sixty-one. He recently concluded production on 'Wrath of the Gods', the final installment of the Wicker Man franchise, which embodies his father Robin Hardy's ultimate creative intent. Alongside directing, he shared his passion for filmmaking through teaching screenwriting and is celebrated for his imaginative talent and deep familial bonds.",
-    "img": "https://static.toiimg.com/photo/msid-132800169,imgsize-73820.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/justin-hardy-son-of-the-wicker-man-director-robin-hardy-passes-away-aged-61-following-a-heart-attack/articleshow/132800154.cms",
-    "time": "2026-08-02T04:22:27.000Z"
   },
   {
     "cat": "Sports",
@@ -286,24 +385,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/punjab/punjabsdalitspower-politics-with-the-purse/article71285072.ece",
     "time": "2026-08-02T03:58:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jack Osbourne shares glimpse of his 4-month-old 'mischievous' child",
-    "desc": "Jack Osbourne shared a sweet moment with his four-month-old daughter, Ozzy Matilda Osbourne. The youngest child already shows a mischievous spark, reminiscent of her grandfather. Ozzy Matilda was born in March 2026, honoring the late rock star. Jack and his wife Aree Osbourne welcomed their daughter into the world. This event offers a glimpse into Jack Osbourne's family life.",
-    "img": "https://static.toiimg.com/photo/msid-132799964,imgsize-296738.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/jack-osbourne-shares-glimpse-of-his-4-month-old-child-little-miss-ozz-already-has-a-mischievous-sparkle/articleshow/132799988.cms",
-    "time": "2026-08-02T03:30:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Salman's authenticity resonates with Gen Z: 'Bhai Ke Dohe' creators",
-    "desc": "Two dedicated students have crafted a tribute to Salman Khan by compiling his social media posts into a delightful book named 'Bhai Ke Dohe'. Featuring his distinctive voice, this compilation unexpectedly resonated with audiences, resulting in a rapid sell-out of the initial print run. The creators are excitedly hopeful that Salman himself will appreciate their homage to his unique thoughts.",
-    "img": "https://static.toiimg.com/photo/msid-132799949,imgsize-529976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khans-authenticity-resonates-with-gen-z-share-creators-of-bhai-ke-dohe-the-collection-of-the-actors-tweets/articleshow/132799855.cms",
-    "time": "2026-08-02T03:29:16.000Z"
   },
   {
     "cat": "Sports",
@@ -376,15 +457,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/heat-wave-bringing-record-breaking-temps-heightened-wildfire-risk-to-parts-of-western-us/article71297047.ece",
     "time": "2026-08-02T00:26:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why did FIFA scrap its World Cup stake sale?",
-    "desc": "What was FIFA’s plan to sell stakes in the World Cup? What would FIFA’s member associations have gained? Who opposed the proposal and why? Has FIFA faced similar resistance before? How did Gianni Infantino respond to the pushback?",
-    "img": "https://th-i.thgim.com/public/incoming/f8mweq/article71296069.ece/alternates/LANDSCAPE_1200/Canada_FIFA_Congress_Soccer__143.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/why-did-fifa-scrap-its-world-cup-stake-sale/article71296070.ece",
-    "time": "2026-08-02T00:10:38.000Z"
   },
   {
     "cat": "Politics",
@@ -522,51 +594,6 @@ const newsData_en = [
     "time": "2026-08-01T20:34:21.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "India-China border trade resumes after 6 years",
-    "desc": "India and China have reopened two key Himalayan trade routes after six years. Traditional border trade resumed Saturday through Lipulekh and Shipki La passes. Chinese authorities restricted the initial batch of traders to twenty people. Indian traders can export 36 categories of goods, while Chinese traders bring twenty. A new trade mart was also inaugurated near the international border.",
-    "img": "https://static.toiimg.com/photo/msid-132796676,imgsize-1425288.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-china-border-trade-resumes-after-6-years/articleshow/132796671.cms",
-    "time": "2026-08-01T20:23:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "The hopes of two families are dashed as terror attack leaves their sole breadwinners dead",
-    "desc": "Chhattisgarh Chief Minister Vishnu Deo Sai announces an ex gratiaassistance of ₹20 lakh each for the families of the two Chhattisgarh workers killed in a terror attack in Kelam area of south Kashmir’s Kulgam district late on Friday evening",
-    "img": "https://th-i.thgim.com/public/incoming/8j6io2/article71294474.ece/alternates/LANDSCAPE_1200/TH01-Vishnu-BasGVAF3T8OF.5.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/chhattisgarh/kulgam-terrorist-attack-chhattisgarh-government-declares-20-lakh-aid-for-kin-of-two-workers-killed/article71294437.ece",
-    "time": "2026-08-01T19:45:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "No evidence of EVM tampering, says poll official on fourth day",
-    "desc": "“This is not re-counting. This is EVM Checking and Verification process,” Chennai District Election Officer and Greater Chennai Corporation Commissioner G.S. Sameeran said. “It is a 100% transparent exercise to establish the reliability of the EVMs.”",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/bah72x/article71295409.ece/alternates/LANDSCAPE_1200/KOL%20EVM%20AUG%201%20GSS.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/no-evidence-of-evm-tampering-says-poll-official-on-fourth-day/article71295402.ece",
-    "time": "2026-08-01T19:43:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NEET-UG counselling to begin on August 4, academic session from September 8",
-    "desc": "According to the counselling schedule released by the committee, the first round of AIQ counselling for deemed and central universities will be held from August 4 to August 17. The last date for joining will be August 22",
-    "img": "https://th-i.thgim.com/public/incoming/3wjlnc/article71295948.ece/alternates/LANDSCAPE_1200/NEET%20EXAM%20DELHI%202025_04_05_18.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/education/neet-ug-counselling-to-begin-on-august-4-academic-session-from-september-8/article71295945.ece",
-    "time": "2026-08-01T19:34:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala CM Satheesan’s chopper journey draws flak from CPI(M)",
-    "desc": "Satheesan reportedly flew aboard the helicopter from Thiruvananthapuram to Kochi to visit his father-in-law, who was undergoing treatment. As Leader of the Opposition, he had criticised the then LDF government for its “extravagance” in hiring the helicopter.",
-    "img": "https://th-i.thgim.com/public/incoming/twuxoz/article71295942.ece/alternates/LANDSCAPE_1200/NH27OommenChandy08.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-cm-satheesans-chopper-journey-draws-flak-from-cpim/article71295696.ece",
-    "time": "2026-08-01T19:07:05.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Rajat Patidar to lead Central Zone in Duleep Trophy, Rinku Singh named vice-captain",
     "desc": "Off-spinner Saransh Jain has also been named in the squad but he is certain to miss at least the initial part of the domestic season opener since he is a part of the India Test squad to tour Sri Lanka",
@@ -574,15 +601,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/rajat-patidar-to-lead-central-zone-in-duleep-trophy-rinku-singh-named-vice-captain/article71295934.ece",
     "time": "2026-08-01T19:03:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Cloudburst damages structures in Kishtwar; rain halts Amarnath Yatra",
-    "desc": "Flash floods in Kishtwar's Chatroo area damaged shops and houses early Saturday. Vehicles were washed away, and the national highway sustained damage from debris. The Amarnath Yatra was suspended from Jammu due to incessant rain. Schools remained closed in several districts as a precautionary measure. Affected shopkeepers and business owners will receive government compensation.",
-    "img": "https://static.toiimg.com/photo/msid-132795530,imgsize-1711291.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cloudburst-damages-structures-in-kishtwar-rain-halts-amarnath-yatra/articleshow/132795533.cms",
-    "time": "2026-08-01T18:27:00.000Z"
   },
   {
     "cat": "Sports",
@@ -601,15 +619,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/indias-record-renewable-generation-in-july-cuts-coals-share-in-power-mix-to-1-year-low/article71295669.ece",
     "time": "2026-08-01T16:23:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Priya Ghanghas defeats Marie-Bathoul Al-Ahmadieh to win Women's 60kg Boxing Gold",
-    "desc": "Priya Ghanghas secured India's fourth boxing gold medal at the 2026 Commonwealth Games. She defeated Canada's Marie-Bathoul Al-Ahmadieh in a close 60kg final bout. The judges awarded Priya the victory by a narrow 4-1 split decision. This win continued India's impressive performance in the boxing ring. PT Usha presented the medals to the victorious athletes.",
-    "img": "https://static.toiimg.com/photo/msid-132793069,imgsize-832993.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-priya-ghanghas-defeats-marie-bathoul-al-ahmadieh-to-win-womens-60kg-boxing-gold/articleshow/132793075.cms",
-    "time": "2026-08-01T16:20:17.000Z"
   },
   {
     "cat": "Entertainment",
@@ -765,24 +774,6 @@ const newsData_en = [
     "time": "2026-08-01T02:20:09.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Check 19-kg cylinder rates in Delhi, Kolkata",
-    "desc": "Commercial Liquefied Petroleum Gas cylinder prices have been reduced effective August 1. A 19 kg cylinder in Kolkata saw a Rs 209 price cut. Delhi experienced a Rs 202 reduction for the same commercial cylinder. This marks the second consecutive month of price decreases for commercial LPG. Domestic LPG cylinder prices remain unchanged during this period.",
-    "img": "https://static.toiimg.com/photo/msid-132779537,imgsize-1227774.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/commercial-lpg-prices-cut-by-over-rs-200-check-19-kg-cylinder-rates-in-delhi-kolkata/articleshow/132779420.cms",
-    "time": "2026-08-01T01:48:58.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Shareholders approve issue of warrants to promoter group entity",
-    "desc": "Zee shareholders approved convertible warrants for promoters, raising over three thousand crore rupees. This approval allows promoters to increase their stake significantly in the company. Institutional shareholders largely opposed the resolution, while non-institutional investors provided strong backing. The company also gained approval for its employee stock option plan for eligible staff. This outcome reverses a previous shareholder rejection of a similar funding proposal.",
-    "img": "https://static.toiimg.com/photo/msid-132779281,imgsize-513136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/shareholders-approve-issue-of-warrants-to-promoter-group-entity/articleshow/132779278.cms",
-    "time": "2026-08-01T00:11:56.000Z"
-  },
-  {
     "cat": "World",
     "title": "What is behind the communal clashes in Nepal?",
     "desc": "A local dispute over religious celebrations has spiralled into wider unrest in Nepal’s southern plains, exposing growing polarisation, delayed government response and fears over the erosion of long-standing community ties; analysts warn the row reflects mounting challenges to Nepal’s tradition of coexistence",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/brazil-withholds-approval-of-trumps-ambassador-pick-deepening-rift-with-us/article71287562.ece",
     "time": "2026-07-30T17:18:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "UEFA intensifies opposition to FIFA’s World Cup plans",
+    "desc": "European football’s governing body will hold an emergency meeting to discuss its response to FIFA’s proposal of a new subsidiary that would allow private investors to have a say in the planning of future World Cups",
+    "img": "https://th-i.thgim.com/public/incoming/6m7gvv/article71285226.ece/alternates/LANDSCAPE_1200/2026-07-28T162945Z_1037867588_RC28KJAED3SY_RTRMADP_3_SOCCER-FIFA-STAKE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/uefas-intensifies-opposition-to-fifas-world-cup-plans/article71285184.ece",
+    "time": "2026-07-30T17:01:25.000Z"
   }
 ];

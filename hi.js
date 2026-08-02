@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Jasprit Bumrah ruled out of Sri Lanka Test series due to knee injury",
+    "desc": "Star India pacer Jasprit Bumrah has been ruled out of the upcoming two-game Test series against Sri Lanka. It is worth noting that India will take on Sri Lanka across two Test matches, with the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-ruled-out-of-sri-lanka-test-series-due-to-knee-injury-2026-08-02-1050146",
+    "time": "2026-08-02T10:16:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tanvi Sharma scripts history, becomes youngest shuttler to win Taipei Open",
+    "desc": "17-year-old Tanvi Sharma has scripted history and become the youngest shuttler to win the Taipei Open in history. The title that the legendary Saina Nehwal had won back in 2008, Tanvi Sharma has brought the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/tanvi-sharma-scripts-history-becomes-youngest-shuttler-to-win-taipei-open-2026-08-02-1050143",
+    "time": "2026-08-02T09:18:30.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Former India cricketer weighs in on Vaibhav Sooryavanshi's appointment as East Zone vice-captain",
     "desc": "The stage is set for another edition of the Duleep Trophy. The marquee tournament is all set to kick off from August 23. Ahead of the tournament, the various sides have been announcing their squad,...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/sakshi-chaudhary-priya-ghanghas-win-consecutive-gold-medals-in-boxing-india-s-medal-tally-moved-to-33-2026-08-01-1050104",
     "time": "2026-08-01T16:14:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kuldeep Yadav dominates Ben Stokes, ensures comfortable win for Yorkshire in One-Day Cup",
-    "desc": "Star spinner Kuldeep Yadav played a pivotal role in Yorkshire’s seven-wicket win over Durham in the ongoing One-Day Cup. He registered two wickets for only 23 runs in his 10 overs as the Uttar Pradesh-born...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kuldeep-yadav-dominates-ben-stokes-ensures-comfortable-win-for-yorkshire-in-one-day-cup-2026-08-01-1050100",
-    "time": "2026-08-01T14:54:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Joe Root reveals reason behind accepting England's Test captaincy role again",
-    "desc": "Joe Root has outlined his vision for England's Test team after returning as captain. He made it clear that the side will retain key elements of the aggressive approach, called Bazball, developed over the past...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/joe-root-reveals-reason-behind-accepting-england-s-test-captaincy-role-again-2026-08-01-1050096",
-    "time": "2026-08-01T14:07:59.000Z"
   }
 ];

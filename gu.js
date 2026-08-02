@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "શું કંઈ મોટું થવાનું છે? અમેરિકાએ 10 દેશોમાં જાહેર કર્યું હાઈ એલર્ટ, નાગરિકોને ઝડપથી બહાર નીકળવાનું કહ્યું",
+    "desc": "મધ્ય પૂર્વમાં યુદ્ધના વધતા ખતરાની વચ્ચે, અમેરિકાએ 10 દેશોમાં રહેતા તેના નાગરિકોને સતર્ક રહેવા અને જરૂર પડ્યે સ્થળાંતર કરવાની સલાહ આપી છે. આ દરમિયાન, ઈરાને પણ સંભવિત યુએસ અને ઇઝરાયલી હુમલાઓના જવાબમાં વ્યાપક લશ્કરી કાર્યવાહી માટે તૈયાર રહેવાનો દાવો કર્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/is-something-big-going-to-happen-america-has-declared-high-alert-in-10-countries-asked-citizens-to-evacuate-quickly-486495 ",
+    "time": "2026-08-02T09:55:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "નોકરીમાં બ્રેક લેનારાઓ માટે મોટા સમાચાર! શું તમારું PF ખાતું બંધ થશે કે ચાલુ રહેશે? જાણો નિયમો",
+    "desc": "જો તમે નોકરી છોડીને 1-2 વર્ષ માટે નોકરીમાંથી બ્રેક લેવાનું વિચારી રહ્યા છો, તો ચિંતા કરવાની કોઈ જરૂર નથી. તમારું EPF ખાતું બંધ થતું નથી અને તમે 58 વર્ષના થાય ત્યાં સુધી વ્યાજ મેળવતા રહે છે. જો કે, અકાળે PF ઉપાડ કરપાત્ર હોઈ શકે છે, જ્યારે બેરોજગારીના કિસ્સામાં 75 ટકા સુધી રકમ ઉપાડવાની જોગવાઈ પણ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/big-news-for-those-taking-a-break-in-their-career-will-your-pf-account-be-closed-or-will-it-continue-know-the-rules-486486 ",
+    "time": "2026-08-02T09:32:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "શ્રીલંકા પ્રવાસ પહેલા ટીમ ઈન્ડિયા માટે ખરાબ સમાચાર, જસપ્રીત બુમરાહ બહાર, આ બોલરની થશે એન્ટ્રી !",
+    "desc": "શ્રીલંકા પ્રવાસ પહેલા ટીમ ઈન્ડિયાની ચિંતા વધી ગઈ છે. સ્ટાર ફાસ્ટ બોલર જસપ્રીત બુમરાહની ફિટનેસ અંગે ખરાબ સમાચાર આવ્યા છે. ડાબા ઘૂંટણમાં તકલીફને કારણે બુમરાહ બે મેચની ટેસ્ટ શ્રેણીમાંથી બહાર થઈ ગયો છે. BCCIની મેડિકલ ટીમ તેની સાથે કોઈ જોખમ લેવા તૈયાર નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-sl-jasprit-bumrah-ruled-out-sri-lanka-test-series-due-to-injury-486484 ",
+    "time": "2026-08-02T09:14:45.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "હવે સસ્તા મળી શકે છે સ્માર્ટફોન! No Cost EMI બંધ કરવાની માંગ ઉઠી, જાણો કારણ",
+    "desc": "તાજેતરમાં મોબાઇલ રિટેલર્સે દાવો કર્યો છે કે 'નો કોસ્ટ EMI' (No Cost EMI) ના કારણે ફોનની કિંમતો વધી રહી છે. હવે Samsung, Apple, Xiaomi, Vivo, Oppo અને Realme જેવી કંપનીઓ પાસે આ સ્કીમ બંધ કરવાની માંગ કરવામાં આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/smartphones-could-soon-be-cheaper-calls-to-scrap-no-cost-emi-gain-momentum-find-out-why-486483 ",
+    "time": "2026-08-02T08:53:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ફિલ્મ રામાયણ માટે રણબીર કપૂર અને સાંઈ પલ્લવીની ફીમાં જમીન આસમાનનું અંતર, જાણો કોને કેટલી ફી મળી",
+    "desc": "4000 કરોડની ફિલ્મ રામાયણ માટે સ્ટાર કાસ્ટને પણ મોટી ફી મળી છે. આ ફિલ્મ 2 પાર્ટમાં બનવાની છે અને તેના માટે કલાકારોએ તગડી ફી ચાર્જ કરી છે. જેમાં રણબીર કપૂર, યશ, સની દેઓલની ફી અને સાંઈ પલ્લવીની ફિલ્મની ફીમાં જમીન આસમાનનું અંતર છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/ramayana-cast-fees-new-story-huge-difference-in-ranbir-kapoor-and-sai-pallavi-fees-for-film-ramayana-486481 ",
+    "time": "2026-08-02T08:19:21.000Z"
+  },
+  {
     "cat": "Business",
     "title": "શું હવે જમીનનું પણ બનશે આધાર કાર્ડ? જાણો શું છે ભૂ-આધાર અને શું છે તેના ફાયદા",
     "desc": "હવે મનુષ્યોની જેમ જમીન અને પ્લોટનો પણ 14 અંકનો 'ભૂ-આધાર' બનશે. જી હા, ટૂંક સમયમાં જ આ વ્યવસ્થા આવી રહી છે. ચાલો જાણીએ કે સામાન્ય આધાર કાર્ડથી તે કેટલું અલગ છે અને તેનાથી સામાન્ય જનતાને શું ફાયદા થશે.",
@@ -333,15 +378,6 @@ const newsData_gu = [
     "time": "2026-07-30T09:49:30.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ભારતીય હોકીની ઓળખ કેમ બદલાઈ ? નવી જર્સી પાછળનું સાચું કારણ જાણો",
-    "desc": "પહેલીવાર ભારતીય પુરુષ અને મહિલા હોકી ટીમો FIH હોકી વર્લ્ડ કપ 2026માં તેમની પરંપરાગત વાદળી જર્સીને બદલે કેસરી જર્સી પહેરશે. હોકી ઇન્ડિયાએ આને બ્લૂ એસ્ટ્રોટર્ફ પર ખેલાડીઓની દૃશ્યતા સુધારવાના હેતુથી એક ટેકનિકલ નિર્ણય ગણાવ્યો છે, જ્યારે ભૂતપૂર્વ કેપ્ટન વિરેન રાસ્કિન્હાએ આ બાબતને ભારતીય હોકીના વારસા અને ઓળખ સાથે જોડાયેલી બાબત તરીકે જોતા પ્રશ્નો ઉઠાવ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/why-indian-hockey-team-jersey-changed-from-blue-to-saffron-know-reason-486192 ",
-    "time": "2026-07-30T09:11:00.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "BS-3 વાહનોમાં E20 પેટ્રોલની અસર: કેટલો આવશે ખર્ચ અને ક્યા પાર્ટ્સ બદલવા પડશે? જાણો ઓટો એક્સપર્ટ્સનું ગણિત",
     "desc": "શું E20 પેટ્રોલનો ઉપયોગ કરવાથી માઇલેજ પર અસર થાય છે? ઈ20 પેટ્રોલને કારણે વાહનો ખરાબ થાય છે? ઈ20 પેટ્રોલના ઉપયોગથી શું વાહનોના પાર્ટ્સ ખરાબ થાય છે? લોકોના મનમાં આ સવાલો ચાલી રહ્યાં છે. આ વચ્ચે કેન્દ્રીય મંત્રી નીતિન ગડકરીએ સંસદમાં જણાવ્યું કે ઈ20 પેટ્રોલને કારણે BS3 વાહનોમાં રબરના પાર્ટ્સ ખરાબ થઈ શકે છે. આવો જાણીએ વિશે ઓટો એક્સપર્ટે મહત્વની જાણકારી આપી છે.",
@@ -376,15 +412,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/tensions-escalates-in-pok-amid-protests-over-elections-and-assembly-seats-clashes-leave-several-dead-486150 ",
     "time": "2026-07-29T17:46:17.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "બાળકોના શિક્ષણનું નો ટેન્શન! દર મહિને ₹5,000ની બચતથી 15 વર્ષમાં બનશે ₹16 લાખથી વધુનું ટેક્સ-ફ્રી ફંડ",
-    "desc": "બાળકોના સુરક્ષિત ભવિષ્ય અને અભ્યાસ માટે પીપીએફ એક શાનદાર વિકલ્પ છે. જો તમે બાળકોના નામ પર દર મહિને માત્ર 5000 રૂપિયા જમા કરો છો તો 15 વર્ષ બાદ તમારી પાસે 16 લાખ રૂપિયાથી વધુનું ટેક્સ ફ્રી ફંડ તૈયાર થઈ જશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/ppf-investment-magic-secure-your-childs-future-with-guaranteed-and-risk-free-returns-486135 ",
-    "time": "2026-07-29T16:18:56.000Z"
   },
   {
     "cat": "World",
