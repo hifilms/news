@@ -1,5 +1,167 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "'A disaster with no alternative': Chhetri on Jamshedpur FC’s ISL exit",
+    "desc": "Sunil Chhetri calls Jamshedpur FC’s exit from the ISL a major setback for Indian football. The Tata Group-owned club plans to shut operations after the Durand Cup. Chhetri praises Tata’s contribution through TFA and Jamshedpur FC, warning that its absence will hurt the league. He urges the owners to “pick heart over head” and reconsider their decision.",
+    "img": "https://static.toiimg.com/photo/msid-132806940,imgsize-109437.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/indian-super-league/top-stories/a-disaster-with-no-alternative-sunil-chhetri-breaks-silence-on-jamshedpur-fcs-shocking-isl-exit/articleshow/132806866.cms",
+    "time": "2026-08-02T12:41:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Can BJP crack Punjab? Inside its strategy to challenge AAP and Congress in 2027",
+    "desc": "The BJP is implementing a detailed strategy to gain ground in Punjab. Prime Minister Modi's visits and outreach to the Ravidassia community are key. The party is acquiring prominent leaders from rival parties to strengthen its organization. New state leadership aims to connect with Sikh voters and expand rural reach. The BJP is also attacking rivals while promising development and prosperity.",
+    "img": "https://static.toiimg.com/photo/msid-132806867,imgsize-135936.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/can-bjp-crack-punjab-inside-its-strategy-to-challenge-aap-and-congress-in-2027/articleshow/132806552.cms",
+    "time": "2026-08-02T12:37:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Akshay Kumar and Neeraj Pandey reunite after more than a decade",
+    "desc": "Akshay Kumar and Neeraj Pandey are teaming up once again to create a biopic centered around the iconic music composer R.D. Burman. Farhan Akhtar is set to portray Burman in what promises to be an extraordinary film. Upon hearing the character's compelling story, Akshay Kumar has accepted a special role. With thorough pre-production efforts, the team is dedicated to faithfully depicting Burman's remarkable musical legacy.",
+    "img": "https://static.toiimg.com/photo/msid-132806865,imgsize-297167.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-and-neeraj-pandey-reunite-after-more-than-a-decade-haiwan-actor-joins-farhan-akhtars-ambitious-r-d-burman-biopic-reports/articleshow/132806831.cms",
+    "time": "2026-08-02T12:36:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Over 26,000 government primary schools shut in U.P. after BJP came to power: Akhilesh Yadav",
+    "desc": "The highest number of closures took place in Lakhimpur Kheri, where 758 schools were shut, followed by Sitapur (650) and Prayagraj (638). In Gorakhpur, the home district of Chief Minister Yogi Adityanath, around 500 primary schools were closed, says Akhilesh Yadav",
+    "img": "https://th-i.thgim.com/public/incoming/pbupkl/article71297738.ece/alternates/LANDSCAPE_1200/20260802111L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/over-26000-government-primary-schools-shut-in-up-after-bjp-came-to-power-akhilesh-yadav/article71297682.ece",
+    "time": "2026-08-02T12:19:01.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "What has changed?",
+    "desc": "Starting August 3, Sebi will implement a new Closing Auction Session for F&O stocks. This session will determine the official closing price after regular trading concludes. Trading hours in the equity derivatives segment will also extend by ten minutes. The pre-open session has been revised with new order entry and matching times. These changes aim for a fairer and more transparent closing price discovery.",
+    "img": "https://static.toiimg.com/photo/msid-132806554,imgsize-1862448.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/new-stock-market-timings-from-august-3-what-has-changed/articleshow/132805930.cms",
+    "time": "2026-08-02T12:15:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Will Chiranjeevi and Nagarjuna team up for multi-starrer?",
+    "desc": "Tollywood grapevine suggests Chiranjeevi and Nagarjuna may star in a multi-starrer film. Director Anil Ravipudi is reportedly developing the script for this ambitious project. The film is envisioned as a commercial entertainer with family emotions and mass moments. Fans anticipate a blend of Chiranjeevi's mass appeal and Nagarjuna's class. An official announcement regarding this potential collaboration is eagerly awaited by audiences.",
+    "img": "https://static.toiimg.com/photo/msid-132806516,imgsize-133640.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/will-chiranjeevi-and-nagarjuna-team-up-for-multi-starrer-fans-await-an-official-announcement/articleshow/132806498.cms",
+    "time": "2026-08-02T12:14:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Spider-Man: Brand New Day' eyes Rs 250 crore net; beats Endgame",
+    "desc": "Brand New Day has achieved remarkable box office success in India. The film surpassed previous franchise entries and Avengers: Endgame collections. Its debut day earnings reached an impressive sixty point six zero crore rupees. By the second day, the movie crossed the hundred crore mark. The film continues to draw large audiences, exceeding expectations.",
+    "img": "https://static.toiimg.com/photo/msid-132804673,imgsize-155879.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/spider-man-brand-new-day-eyes-rs-250-crore-net-in-india-beats-avengers-endgame-and-tom-hollands-other-mcu-films/articleshow/132804673.cms",
+    "time": "2026-08-02T12:06:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Seeing my appa as Chief Minister is a historic revolution': Jason Sanjay",
+    "desc": "Jason Sanjay discussed his father's new role as Chief Minister and its responsibilities. He shared his mother Sangeetha's watchful nature and a childhood car incident. Sanjay recalled appearing with Vijay in a song from the film Vettaikaaran. He humbly stated that dance requires practice and is not a natural talent. His directorial debut film 'Sigma' is generating significant curiosity among audiences.",
+    "img": "https://static.toiimg.com/photo/msid-132806010,imgsize-179130.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/seeing-my-appa-as-chief-minister-is-a-historic-revolution-my-mom-is-like-a-spy-says-thalapathy-vijays-son-jason-sanjay/articleshow/132806004.cms",
+    "time": "2026-08-02T11:49:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Ready to face death': Pappu Yadav defiant after FIR over Ram Temple donation 'theft' skit",
+    "desc": "Pappu Yadav remains defiant after police filed a case against him and other opposition leaders. The FIR stems from a Parliament skit which depicted alleged theft of Ram Temple donations. Yadav stated he is ready to face death to protect people's faith and religious sentiments. Varanasi Police registered the case following a complaint by a religious leader. Another complaint was filed against the MP in the national capital.",
+    "img": "https://static.toiimg.com/photo/msid-132805919,imgsize-236456.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ready-to-face-death-pappu-yadav-defiant-after-fir-over-ram-temple-donation-theft-skit/articleshow/132805584.cms",
+    "time": "2026-08-02T11:42:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'In map of India, our North East is missing': Medallist Lovlina felt ‘hurt’ in Glasgow",
+    "desc": "Lovlina Borgohain said she felt hurt after noticing India’s Northeast was missing from a map at a Glasgow restaurant during a celebratory dinner. The Assam boxer raised the issue with management, who acknowledged the mistake and promised to correct it. BFI president Ajay Singh said there was no confrontation, describing the incident as an aberration.",
+    "img": "https://static.toiimg.com/photo/msid-132805651,imgsize-76713.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/in-map-of-india-our-north-east-is-missing-cwg-2026-medallist-lovlina-borgohain-reveals-feeling-hurt-in-glasgow/articleshow/132805482.cms",
+    "time": "2026-08-02T11:23:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Drugs-free youth crucial for developed India, says PM Modi, launches campaign",
+    "desc": "Prime Minister Narendra Modi says as India has set the goal of becoming a developed country, it is essential for the youth to remain physically and mentally fit, and therefore stay away from drug abuse",
+    "img": "https://th-i.thgim.com/public/incoming/i7az5t/article71297285.ece/alternates/LANDSCAPE_1200/PTI08_02_2026_000107B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/pm-modi-launches-nasha-mukt-yuva-abhiyan-says-drug-free-youth-crucial-for-viksit-bharat/article71297284.ece",
+    "time": "2026-08-02T11:18:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sooraj Pancholi breaks silence on Jiah Khan case years after acquittal",
+    "desc": "In an emotional response following a 14-year trial, Sooraj Pancholi breaks his silence regarding Jiah Khan's demise. Acquitted by a special CBI court, he criticized the misinformation circulating online and requested the media to focus on verified details. Pancholi acknowledged the years lost due to the legal battle and underscored his commitment to honoring Jiah's privacy, advocating for a more considerate approach to reporting such delicate issues.",
+    "img": "https://static.toiimg.com/photo/msid-132805534,imgsize-443887.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sooraj-pancholi-breaks-silence-on-jiah-khan-case-years-after-acquittal-i-chose-to-protect-her-privacy-despite-everything/articleshow/132805529.cms",
+    "time": "2026-08-02T11:12:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "158 exam irregularity cases await trial; CBI seeks fast-track disposal under new anti-paper leak law",
+    "desc": "Over 150 recruitment exam irregularity cases await trial, some dating back two decades. The CBI will ask high courts to move these pending matters to new fast-track courts. Dedicated prosecutors and resources will be provided to expedite the conclusion of these trials. The new anti-paper leak law mandates day-to-day hearings and trials within three months. This initiative follows recent student protests and calls for examination system reforms.",
+    "img": "https://static.toiimg.com/photo/msid-132805394,imgsize-51510.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/158-exam-irregularity-cases-await-trial-cbi-seeks-fast-track-disposal-under-new-anti-paper-leak-law/articleshow/132805390.cms",
+    "time": "2026-08-02T11:05:08.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Top-10 firms add Rs 2.51 lakh crore; Bajaj Finance biggest winner",
+    "desc": "India's largest listed firms saw market value increase by Rs 2.51 lakh crore last week. Nine of the top ten most-valued companies experienced valuation gains on Dalal Street. Bajaj Finance led the surge after reporting strong June-quarter earnings, while Hindustan Unilever declined. The BSE Sensex and NSE Nifty indices climbed significantly, reflecting positive market sentiment. Easing crude oil prices and renewed foreign investor buying boosted risk appetite.",
+    "img": "https://static.toiimg.com/photo/msid-132805159,imgsize-75318.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/market-recap-top-10-firms-add-rs-2-51-lakh-crore-bajaj-finance-biggest-winner/articleshow/132805004.cms",
+    "time": "2026-08-02T10:50:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Here's why Sonu Nigam banned by major music labels",
+    "desc": "Sonu Nigam revealed major music labels banned him after he spoke for singers' rights. He never imagined advocating for a larger cause would cost him work. Nigam stated that while doors closed, he could still perform on stage. Today, these same labels pay royalties, and meetings are now cordial. He felt compelled to continue Lata Mangeshkar's unfinished mission for artists.",
+    "img": "https://static.toiimg.com/photo/msid-132805114,imgsize-89304.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonu-nigam-claims-he-was-banned-by-major-music-labels-after-speaking-up-for-singers-rights-i-never-thought/articleshow/132805084.cms",
+    "time": "2026-08-02T10:45:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'That’s not something': Bhuvneshwar Kumar on India return",
+    "desc": "​Bhuvneshwar Kumar says he is at peace with life outside the Indian team and now plays cricket mainly because of his passion for the game. The veteran pacer credits his family for helping him accept the transition. He also praises the IPL, Virat Kohli and Ravi Shastri for strengthening India’s fast-bowling culture and recalls Praveen Kumar’s influence.",
+    "img": "https://static.toiimg.com/photo/msid-132805025,imgsize-92832.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/thats-not-something-bhuvneshwar-kumar-makes-honest-admission-on-india-return/articleshow/132804653.cms",
+    "time": "2026-08-02T10:38:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hrithik Roshan leases Mumbai office space for Rs 17 lakh per month",
+    "desc": "Hrithik Roshan, the Bollywood superstar, has secured a luxurious office space in the bustling area of Andheri West, Mumbai. The five-year lease with Clearsynth Labs starts at a monthly rent of Rs 17 lakh and spans about 6,000 square feet, complete with seven parking spaces. This agreement begins on April 1, 2026, and will see a rent hike to Rs 19.55 lakh after three years, culminating on March 31, 2031.",
+    "img": "https://static.toiimg.com/photo/msid-132804932,imgsize-262528.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hrithik-roshan-leases-mumbai-office-space-for-rs-17-lakh-per-month-signs-five-year-commercial-rental-deal/articleshow/132804924.cms",
+    "time": "2026-08-02T10:32:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anil Kapoor remembers late dear friend Satish Kaushik on friendship day",
+    "desc": "Anil Kapoor honored his late friend Satish Kaushik on Friendship Day. He shared a heartfelt message and a nostalgic clip remembering their bond. Kapoor described Kaushik as his closest companion through life's ups and downs. He reflected on their lifelong friendship and shared professional journey. Kaushik passed away in March 2023 after a heart attack.",
+    "img": "https://static.toiimg.com/photo/msid-132804923,imgsize-257365.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-miss-my-friend-anil-kapoor-remembers-late-dear-friend-satish-kaushik-on-friendship-day/articleshow/132804928.cms",
+    "time": "2026-08-02T10:30:23.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Decision on declaring drought by August end, Chief Minister D.K. Shivakumar",
     "desc": "Ministers will provide ground report and that will be compiled by the Revenue Department based on the norms; the final assessment would be discussed in the Cabinet and then submitted to the Government, said D.K. Shivakumar",
@@ -7,6 +169,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/karnataka/decision-on-declaring-drought-by-august-end-chief-minister-dk-shivakumar/article71297485.ece",
     "time": "2026-08-02T10:27:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "From differential rates to daily disclosures, here's what's changing",
+    "desc": "The Reserve Bank of India has revised rules for bulk deposits, effective October 2026. Banks can now offer differential interest rates based on liquidity risk under the LCR framework. This move aligns deposit pricing with revised LCR guidelines for better asset-liability management. Mandatory daily public disclosure of bulk deposit rates will enhance transparency for customers. However, uniform rates will continue for similarly placed depositors across all branches.",
+    "img": "https://static.toiimg.com/photo/msid-132804877,imgsize-953372.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-updates-deposit-rules-from-differential-rates-to-daily-disclosures-heres-whats-changing/articleshow/132804857.cms",
+    "time": "2026-08-02T10:26:48.000Z"
   },
   {
     "cat": "Politics",
@@ -163,15 +334,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "‘Blessed to receive films of all kinds’",
-    "desc": "Celebrating another year, music composer Devi Sri Prasad reminisces about his prolific career, having created captivating soundtracks for various Indian films. His passion for musical diversity keeps him invigorated as he skillfully navigates through numerous genres. Prasad attributes his versatility to the influence of directors and scripts, feeling fortunate for the myriad creative challenges he has encountered along the way.",
-    "img": "https://static.toiimg.com/photo/msid-132803531,imgsize-261008.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/music/devi-sri-prasad-aka-dsp-turns-47-pushpa-fame-composer-reflects-on-his-career-says-blessed-to-receive-films-of-all-kinds-exclusive/articleshow/132803451.cms",
-    "time": "2026-08-02T08:20:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "When Shah Rukh Khan jokingly warned Aamir Khan against working with Kajol before calling her 'magical'",
     "desc": "Bollywood stars Shah Rukh Khan and Kajol share a celebrated off-screen friendship spanning decades. Their memorable film collaborations, especially with Karan Johar, redefined romance for a generation. Shah Rukh Khan once humorously pranked Aamir Khan about Kajol's acting abilities. Kajol recalls their friendship began with a playful, grumpy request on a film set. This iconic partnership continues to be cherished by audiences across India.",
     "img": "https://static.toiimg.com/photo/msid-132803508,imgsize-178446.cms",
@@ -189,15 +351,6 @@ const newsData_en = [
     "time": "2026-08-02T08:09:48.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Jana Nayagan' BO day 11 [Live]: Vijay starrer nears Rs 200 crore",
-    "desc": "Thalapathy Vijay's Jana Nayagan continues its strong box office performance nearing Rs 200 crore. The film has shown encouraging trends on its second Sunday, maintaining steady collections. Jana Nayagan's second weekend provided fresh momentum, boosting its overall earnings significantly. Positive family footfalls and sustained fan interest keep the film in a strong position. The action drama is expected to cross the Rs 200 crore India gross mark very soon.",
-    "img": "https://static.toiimg.com/photo/msid-132803166,imgsize-180181.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-box-office-collection-day-11-live-vijay-and-pooja-hegde-starrer-nears-rs-200-crore-milestone-in-india/articleshow/132803154.cms",
-    "time": "2026-08-02T08:04:39.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Indian diaspora in China flags anti-India social media posts, visa curbs at 1st embassy outreach",
     "desc": "Indian diaspora members voiced concerns over anti-India content and visa issues. Ambassador Vikram Doraiswami assured actions were being taken to address these matters. Visa requirements for Chinese citizens traveling to India will be eased soon. The embassy plans to establish a legal assistance framework for professionals. Cultural outreach programs will also be expanded to promote Indian diversity.",
@@ -205,33 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/indian-diaspora-in-china-flags-anti-india-social-media-posts-visa-curbs-at-1st-embassy-outreach/articleshow/132803270.cms",
     "time": "2026-08-02T08:04:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Night Heat' actor Scott Hylands passes away at 83",
-    "desc": "Canadian actor Scott Hylands, a familiar face from 'Night Heat' and 'The X-Files,' has sadly passed away at the age of 83. Hylands enjoyed a prolific career spanning film and television, beginning his journey in the world of theatre. His family shared the news on social media, fondly recalling his memorable and impactful performances.",
-    "img": "https://static.toiimg.com/photo/msid-132803221,imgsize-155444.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/night-heat-and-fargo-actor-scott-hylands-passes-away-at-83/articleshow/132803082.cms",
-    "time": "2026-08-02T07:57:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'The Sopranos' stars pay tribute to Vincent Pastore",
-    "desc": "Vincent Pastore, beloved actor from 'The Sopranos,' has passed away at the age of eighty, leaving behind a legacy of charm and talent. His castmates, including Jamie-Lynn Sigler and Michael Imperioli, shared touching tributes, lamenting the loss of a dear friend. Lorraine Bracco and Joe Pantoliano reflected on his kindness while Stevie Van Zandt described him as an irreplaceable brother, marking this as a profound loss for many.",
-    "img": "https://static.toiimg.com/photo/msid-132802748,imgsize-107447.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/vincent-pastore-passes-away-the-sopranos-cast-jamie-lynn-sigler-michael-imperioli-and-others-honour-their-beloved-costar-with-heartfelt-tributes/articleshow/132802666.cms",
-    "time": "2026-08-02T07:43:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jacqueline's wardrobe malfunction in 'Jugni' clip was AI-edited",
-    "desc": "In a surprising twist, Sonu Thukral has lodged a police complaint regarding his track 'Jugni', claiming a viral snippet from the music video was altered through artificial intelligence. The segment attracted attention due to accusations of a wardrobe malfunction in the original release. The creators have since taken measures by blurring or eliminating the contentious clip. Jacqueline Fernandez and the song’s team remain silent on the issue.",
-    "img": "https://static.toiimg.com/photo/msid-132802881,imgsize-686951.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonu-thukral-claims-clip-of-jacqueline-fernandezs-wardrobe-malfunction-in-jugni-clip-was-ai-edited-files-complaint-report/articleshow/132802625.cms",
-    "time": "2026-08-02T07:41:04.000Z"
   },
   {
     "cat": "Entertainment",
@@ -250,42 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/exclusive-jasprit-bumrah-ruled-out-of-sri-lanka-test-series/articleshow/132802698.cms",
     "time": "2026-08-02T07:32:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Did you know Zendaya's black looks fueled MJ fan theories",
-    "desc": "Zendaya's striking dark outfits during the Spider-Man press tour incited a flurry of theories among fans. Many speculated that her character, MJ, could either meet a tragic fate or evolve into a villain. This intentional styling by Zendaya and her stylist Law Roach certainly ignited conversations online. Nevertheless, the film ultimately revealed that MJ survived, remaining steadfast in her humanity.",
-    "img": "https://static.toiimg.com/photo/msid-132802575,imgsize-75830.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/did-you-know-zendayas-all-black-spider-man-brand-new-day-looks-fueled-mj-theories-fans-wondered-if-she-was-venoms-new-host/articleshow/132802487.cms",
-    "time": "2026-08-02T07:28:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Urmila-RGV's secret marriage rumours resurface",
-    "desc": "A senior journalist has stirred the pot by asserting that Ram Gopal Varma and Urmila Matondkar have married discreetly. This insider news was allegedly shared by actor Chiranjeevi. Upon reaching out to Urmila, the journalist found her quite moved by the inquiry. Meanwhile, Ram Gopal Varma has opted not to address these marriage rumors, despite reports that Urmila yearns for a formal connection with him.",
-    "img": "https://static.toiimg.com/photo/msid-132802374,imgsize-671929.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/urmila-matondkar-and-ram-gopal-varmas-secret-marriage-rumours-resurface-as-senior-journalist-shares-untold-story-report/articleshow/132802215.cms",
-    "time": "2026-08-02T07:20:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Young fan hugs and kisses Kunchacko Boban",
-    "desc": "Actor Kunchacko Boban shared a heartwarming moment with a young fan. The actor received an affectionate surprise during a public event in Alappuzha. This event was part of promotions for his latest film Unmadham. Unmadham has recorded growth at the box office after its release. The film features Kunchacko Boban and Lijo Mol in key roles.",
-    "img": "https://static.toiimg.com/photo/msid-132802217,imgsize-232389.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/kunchacko-boban-wins-hearts-young-fan-hugs-and-kisses-the-unmadham-actor/articleshow/132802190.cms",
-    "time": "2026-08-02T07:13:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay Sethupathi reveals why he made an exception for 'Jailer 2' cameo",
-    "desc": "Vijay Sethupathi explains his cameo in Jailer 2 was an exception for Rajinikanth. He stated he avoids other cameo roles to prevent overshadowing his own films. The actor expressed deep admiration and respect for Superstar Rajinikanth. Jailer 2 is highly anticipated after the blockbuster success of the first film. The sequel is scheduled for a grand theatrical release on October 15.",
-    "img": "https://static.toiimg.com/photo/msid-132801996,imgsize-119738.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/accepted-only-for-rajinikanth-sir-vijay-sethupathi-reveals-why-he-made-an-exception-for-jailer-2-cameo/articleshow/132801932.cms",
-    "time": "2026-08-02T06:58:52.000Z"
   },
   {
     "cat": "Politics",
@@ -322,15 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/capital-one-says-anti-money-laundering-review-led-to-closure-of-over-300-trump-organization-accounts/articleshow/132800979.cms",
     "time": "2026-08-02T06:25:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala braces for the possibility of heavy rains on August 2",
-    "desc": "The Indian Meteorological Department (IMD) has issued an orange alert for 12 districts; it has warned of heavy rains and the possibility of flash floods, mudslides, and road and neighbourhood inundation in Pathanamthitta, Alappuzha, Kottayam, Ernakulam, Idukki, Thrissur, Palakkad, Malappuram, Kozhikode, Wayanad, Kannur, and Kasargod districts.",
-    "img": "https://th-i.thgim.com/public/incoming/dxiuoj/article71297159.ece/alternates/LANDSCAPE_1200/80687_1_8_2026_20_35_12_1_IMG_20260801_WA0286.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Thiruvananthapuram/kerala-braces-for-the-possibility-of-heavy-rains-on-august-2/article71297154.ece",
-    "time": "2026-08-02T06:02:05.000Z"
   },
   {
     "cat": "Sports",
@@ -376,15 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/questions-will-be-asked-ex-india-stars-message-for-gautam-gambhir-before-sri-lanka-tests/articleshow/132800318.cms",
     "time": "2026-08-02T04:20:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Punjab’s Dalits power politics with the purse",
-    "desc": "For generations, caste hierarchy in rural Punjab was written into society’s architecture, much like in other parts of India. Guru Ghar in Chak Hakim village of Phagwara is seen as a symbol of rising social, economic, religious, and political assertiveness of the Dalits, finds Vikas Vasudeva. With Punjab’s Assembly election early next year, all the political parties in the fray are wooing this group that is approximately one-third of the population",
-    "img": "https://th-i.thgim.com/public/incoming/65qe08/article71285074.ece/alternates/LANDSCAPE_1200/02_RVM_0985.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/punjab/punjabsdalitspower-politics-with-the-purse/article71285072.ece",
-    "time": "2026-08-02T03:58:58.000Z"
   },
   {
     "cat": "Sports",
@@ -459,51 +531,6 @@ const newsData_en = [
     "time": "2026-08-02T00:26:39.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Long hours hurting resident docs’ mental health, NMC tells SC",
-    "desc": "Resident doctors face significant psychological distress from long working hours. The National Medical Commission acknowledged these demanding schedules impact their health. The commission stated reasonable working hours are essential for doctor and patient wellbeing. However, NMC expressed inability to enforce this, citing health authorities' domain. A doctors' group highlighted rising suicide cases due to these conditions.",
-    "img": "https://static.toiimg.com/photo/msid-132798601,imgsize-1046465.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/long-hours-hurting-resident-docs-mental-health-nmc-tells-sc/articleshow/132798590.cms",
-    "time": "2026-08-01T23:47:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Railway Board panels suggest premature retirement of 5 officers",
-    "desc": "Railway Board committees recommended premature retirement for five Group A officers. This action targets corruption, lack of integrity, and inefficiency within the service. Two senior administrative grade officers and three junior administrative grade officers were affected. These decisions were made under the Indian Railway Establishment Code provisions. Previously, thirty-two officers were retired in 2022 for similar reasons.",
-    "img": "https://static.toiimg.com/photo/msid-132798572,imgsize-951167.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/railway-board-panels-suggest-premature-retirement-of-5-officers/articleshow/132798567.cms",
-    "time": "2026-08-01T23:35:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CBI files EPFO cheating case against Anil Ambani",
-    "desc": "The CBI has filed a cheating case against Reliance Capital and Anil Ambani. This action stems from an alleged Rs 1,816 crore loss to the Employees’ Provident Fund Organisation. EPFO invested Rs 2,500 crore in Reliance Capital’s debentures which later defaulted. While the issue was settled earlier, ED findings prompted a new fraud case. Anil Ambani denies any wrongdoing in this matter.",
-    "img": "https://static.toiimg.com/photo/msid-132798562,imgsize-591872.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cbi-files-epfo-cheating-case-against-anil-ambani/articleshow/132798558.cms",
-    "time": "2026-08-01T23:27:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "AAP plans pro-choice rally to PM residence",
-    "desc": "Arvind Kejriwal announced a march to the Prime Minister's residence on Tuesday. He demanded consumers have a choice between pure petrol and E20 fuel. Kejriwal also called for E20 fuel to be priced lower than pure petrol. He challenged the government to release scientific studies supporting the E20 fuel policy. The AAP leader advised consumers to consider electric vehicles for future transportation needs.",
-    "img": "https://static.toiimg.com/photo/msid-132798548,imgsize-652028.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/e20-aap-plans-pro-choice-rally-to-pm-residence/articleshow/132798547.cms",
-    "time": "2026-08-01T23:22:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Monsoon hope as WMO sees an El Niño counter",
-    "desc": "India faces a risk of below-normal monsoon rainfall due to El Niño. A positive Indian Ocean Dipole may offer some relief to the country. This oceanic pattern could improve rainfall conditions in southern India. It might prevent the monsoon from slipping into a deficient phase. International forecasts suggest a positive IOD could develop soon.",
-    "img": "https://static.toiimg.com/photo/msid-132798535,imgsize-1776765.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/monsoon-hope-as-wmo-sees-an-el-nio-counter/articleshow/132798533.cms",
-    "time": "2026-08-01T23:05:34.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India’s medal-heavy day delivers seven boxing golds",
     "desc": "India enjoyed its best day of the 2026 Commonwealth Games, winning 16 medals to climb to fourth in the standings with 39 medals overall. A historic boxing campaign delivered seven golds and three silvers, while athletics, para athletics and judo added six more medals. India also reached the mixed 4x400m relay final and remained in contention for more success on the final day.",
@@ -511,15 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-indias-medal-heavy-saturday-delivers-seven-boxing-golds-16-medal-bonanza-and-fourth-place-rise/articleshow/132796848.cms",
     "time": "2026-08-01T22:53:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Judge Ujjal Bhuyan questions SC collegium’s opacity",
-    "desc": "Justice Ujjal Bhuyan questioned the Supreme Court collegium's lack of transparency in judicial appointments. He noted that recent collegium resolutions provided no reasons for their decisions. This opacity, he argued, could allow unsuitable individuals to enter the judiciary. Citizens possess a right to know deliberations concerning judicial elevations and transfers. The JALDI report highlights varying transparency levels across India's higher courts.",
-    "img": "https://static.toiimg.com/photo/msid-132798518,imgsize-613117.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/judge-bhuyan-questions-sc-collegiums-opacity/articleshow/132798513.cms",
-    "time": "2026-08-01T22:43:15.000Z"
   },
   {
     "cat": "Business",
@@ -585,15 +603,6 @@ const newsData_en = [
     "time": "2026-08-01T21:03:02.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "More choices for test centres among key changes for NEET (PG) 2026",
-    "desc": "The reforms are aimed at making the process more convenient for the candidates, according to the Union Health Ministry; a total of 2,73,183 candidates have registered for NEET (PG) 2026 which will be conducted in a single shift across around 340 cities and more than 1,300 examination centres",
-    "img": "https://th-i.thgim.com/public/incoming/7dw35i/article71295974.ece/alternates/LANDSCAPE_1200/20260620125L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/more-choices-for-test-centres-among-key-changes-for-neet-pg-2026/article71295915.ece",
-    "time": "2026-08-01T20:34:21.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Rajat Patidar to lead Central Zone in Duleep Trophy, Rinku Singh named vice-captain",
     "desc": "Off-spinner Saransh Jain has also been named in the squad but he is certain to miss at least the initial part of the domestic season opener since he is a part of the India Test squad to tour Sri Lanka",
@@ -601,15 +610,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/rajat-patidar-to-lead-central-zone-in-duleep-trophy-rinku-singh-named-vice-captain/article71295934.ece",
     "time": "2026-08-01T19:03:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sachin Siwach fights back to win 60kg gold, delivers India's sixth boxing title",
-    "desc": "Sachin Siwach secured the men's 60kg boxing gold medal for India. He achieved this victory through a remarkable comeback in the final round. Ndevelo had led after the initial two rounds of the match. Siwach's persistence paid off with a decisive punch before the bell. This win marked India's sixth boxing gold at the games.",
-    "img": "https://static.toiimg.com/photo/msid-132794441,imgsize-14190.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-sachin-siwach-fights-back-to-win-mens-60kg-boxing-gold-delivers-indias-sixth-boxing-title/articleshow/132794430.cms",
-    "time": "2026-08-01T17:40:27.000Z"
   },
   {
     "cat": "Business",
@@ -675,15 +675,6 @@ const newsData_en = [
     "time": "2026-08-01T13:32:25.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "The silent guardian of Indian cricket whose numbers undersold his legacy",
-    "desc": "Ajinkya Rahane's Test career is one of Indian cricket's greatest statistical paradoxes. His average of 38.46 falls short of the elite, yet the numbers hide a batter who thrived overseas, delivered in crises and played defining roles in historic victories. This data-driven feature explores why Rahane's legacy extends far beyond conventional statistics and career aggregates.",
-    "img": "https://static.toiimg.com/photo/msid-132788453,imgsize-695383.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ajinkya-rahane-the-silent-guardian-of-indian-cricket-whose-numbers-undersold-his-legacy/articleshow/132788236.cms",
-    "time": "2026-08-01T11:52:16.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Indian Oil ramps up spot crude purchases as Middle East disruptions hit supplies",
     "desc": "Indian Oil Corporation has significantly increased its spot crude purchases to nearly eighty-four percent. This strategic shift occurred after Middle East supply routes faced disruptions. The company also diversified imports from West Africa and Latin America. Despite higher crude costs, Indian Oil reported its highest-ever first-quarter crude throughput. Fuel sales and market share saw notable increases during the period.",
@@ -736,24 +727,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/australia-defends-teen-social-media-ban-after-study-shows-most-still-online/article71293555.ece",
     "time": "2026-08-01T05:56:03.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "PM Modi to inaugurate Rs 5,640-crore Alluri Sitarama Raju International Airport in Andhra Pradesh — See pics",
-    "desc": "Prime Minister Narendra Modi inaugurates the Alluri Sitarama Raju International Airport on Saturday. He will also lay foundation stones for significant development projects worth over seventeen thousand nine hundred crore. The new airport is designed to handle six million passengers annually and boost regional connectivity. Foundation stone will be laid for Andhra Pradesh's first semiconductor manufacturing facility.",
-    "img": "https://static.toiimg.com/photo/msid-132783031,imgsize-1266353.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/pm-modi-inaugurate-rs-5640-crore-alluri-sitarama-raju-international-airport-in-andhra-pradesh-see-pics/articleshow/132780911.cms",
-    "time": "2026-08-01T04:20:05.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "FIFA abandons $4.2-billion World Cup stake sale plan after global backlash",
-    "desc": "FIFA has withdrawn its plan to sell a stake in its commercial operations. Strong opposition from football federations led to the proposal's abandonment. FIFA President Gianni Infantino announced the decision after listening to all views. Major continental bodies like UEFA and CONCACAF rejected the plan. Infantino will now seek other ways to strengthen global football.",
-    "img": "https://static.toiimg.com/photo/msid-132780429,imgsize-1122880.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/fifa-abandons-4-2-billion-world-cup-stake-sale-plan-after-global-backlash/articleshow/132780194.cms",
-    "time": "2026-08-01T03:23:23.000Z"
   },
   {
     "cat": "Sports",
@@ -819,15 +792,6 @@ const newsData_en = [
     "time": "2026-07-31T14:31:36.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Why the move is important",
-    "desc": "RBI has already floated the tender to source materials for the polymer notes with its currency printing arm Bharatiya Reserve Bank Note Mudran Pvt Ltd inviting global expressions of interest. The step assumes significance because India has discarded around Rs 50 trillion worth of soiled notes in the last decade.",
-    "img": "https://static.toiimg.com/photo/msid-132765717,imgsize-683217.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/india-to-get-plastic-notes-soon-rbi-polymer-currency-why-the-move-is-important-explained/articleshow/132764423.cms",
-    "time": "2026-07-31T12:26:41.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Pluto’ movie review: A sci-fi comedy that sticks to usual alien narratives",
     "desc": "Sci-fi films are not something that happens often in the Malayalam film industry, which has relatively smaller budgets, with the subgenre of sci-fi comedies appearing even less frequently. Even the rarity of the genre does not really work to the advantage of Pluto.",
@@ -882,21 +846,57 @@ const newsData_en = [
     "time": "2026-07-30T18:36:47.000Z"
   },
   {
-    "cat": "World",
-    "title": "Brazil withholds approval of Trump's ambassador pick, deepening rift with U.S.",
-    "desc": "The administration of President Luiz Inacio Lula da Silva, a leftist, has long had a ​tense relationship with Rubio’s State Department due to what ‌it sees as efforts to influence Latin American politics in favor of conservatives.",
-    "img": "https://th-i.thgim.com/public/incoming/ylaato/article71287602.ece/alternates/LANDSCAPE_1200/Brazil_Lula_WHO_3436_.jpg",
+    "cat": "Entertainment",
+    "title": "The viral Chuvarbot 2.0 secures productisation grant from Kerala Startup Mission",
+    "desc": "The graffiti painting start-up, which garnered social media attention during the 2026 Kerala Assembly elections, has secured a grant of ₹12 lakhs from the Kerala Startup Mission. The product, currently in its prototype stage, is set to launch by the end of 2026",
+    "img": "https://th-i.thgim.com/public/incoming/kxjxmy/article71280241.ece/alternates/LANDSCAPE_1200/Chuvarbot_3.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/brazil-withholds-approval-of-trumps-ambassador-pick-deepening-rift-with-us/article71287562.ece",
-    "time": "2026-07-30T17:18:06.000Z"
+    "url": "https://www.thehindu.com/society/the-viral-chuvarbot-20-secures-productisation-grant-from-kerala-startup-mission/article71275908.ece",
+    "time": "2026-07-30T11:35:57.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "UEFA intensifies opposition to FIFA’s World Cup plans",
-    "desc": "European football’s governing body will hold an emergency meeting to discuss its response to FIFA’s proposal of a new subsidiary that would allow private investors to have a say in the planning of future World Cups",
-    "img": "https://th-i.thgim.com/public/incoming/6m7gvv/article71285226.ece/alternates/LANDSCAPE_1200/2026-07-28T162945Z_1037867588_RC28KJAED3SY_RTRMADP_3_SOCCER-FIFA-STAKE.JPG",
+    "cat": "Tech",
+    "title": "Why is the founder of Telegram on Russia’s wanted list",
+    "desc": "The international wanted notice against Pavel Durov comes after the FSB said that Telegram had failed to remove “numerous channels, chats, and bots” allegedly used by “Ukrainian intelligence agencies and terrorist and extremist organisations” to prepare and coordinate acts of “sabotage and terrorism, mass murder, and cyber fraud” in Russia.",
+    "img": "https://th-i.thgim.com/public/incoming/on2zwb/article71284277.ece/alternates/LANDSCAPE_1200/2024-09-17T050018Z_531756498_RC242AAINJT0_RTRMADP_3_FRANCE-SECURITY-RUSSIA-TELEGRAM.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/uefas-intensifies-opposition-to-fifas-world-cup-plans/article71285184.ece",
-    "time": "2026-07-30T17:01:25.000Z"
+    "url": "https://www.thehindu.com/sci-tech/technology/why-is-the-founder-oftelegramonrussiaswantedlist-explained/article71284265.ece",
+    "time": "2026-07-30T08:10:34.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "What is the EU AI transparency code?",
+    "desc": "Starting from August 2, the EU mandates labels for AI-generated content to boost transparency online. From deepfakes to manipulated text, find out how this new code seeks to protect users and maintain the integrity of information",
+    "img": "https://th-i.thgim.com/public/news/national/9odytc/article71279838.ece/alternates/LANDSCAPE_1200/iStock-1976099664%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/what-is-the-eu-ai-transparency-code-explained/article71279676.ece",
+    "time": "2026-07-29T05:06:21.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "After OpenAI-Hugging Face AI agent hack, U.S. lawmakers push for control",
+    "desc": "After OpenAI shared that some of its models had caused a security breach at another company, a White House official quoted by Reuters said that U.S. President Donald Trump’s ​tech adviser, Michael Kratsios, was tracking the situation",
+    "img": "https://th-i.thgim.com/public/incoming/2gddpv/article71260959.ece/alternates/LANDSCAPE_1200/OpenAI_56692.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/after-openai-hugging-face-ai-agent-hack-us-lawmakers-push-for-control/article71260982.ece",
+    "time": "2026-07-28T06:42:24.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
   }
 ];

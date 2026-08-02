@@ -324,15 +324,6 @@ const newsData_bn = [
     "time": "2026-07-27T03:34:09.000Z"
   },
   {
-    "cat": "World",
-    "title": "মেঝেতে রক্তাক্ত পড়ে, জেরুজালেমে রহস্যমৃত্যু ভারতীয়ের! পূর্বপরিকল্পিত খুন? যিশুক্ষেত্রে আতঙ্কের কালো ছায়া",
-    "desc": "ভারতীয় শ্রমিকের রহস্যমৃত্যু ঘিরে চাঞ্চল্য। জেরুজালেমের কাটামন এলাকার এক অ্যাপার্টমেন্টে ৪০ বছর বয়সি এক ভারতীয় নাগরিকের রক্তাক্ত দেহ উদ্ধার করে পুলিস। খুনের অভিযোগে ইতিমধ্যেই এক সন্দেহভাজনকে গ্রেফতার করা হয়েছে। মৃতের পরিচয় প্রকাশ করেনি ইজরায়েল প্রশাসন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/lot-of-blood-surrounding-indian-worker-found-dead-at-jerusalems-katamon-flat-israeli-man-held_663816.html ",
-    "time": "2026-07-24T10:20:50.000Z"
-  },
-  {
     "cat": "Business",
     "title": "হোয়াটসঅ্যাপের 'ইউজারনেম' ফিচার সুরক্ষা ও গোপনীয়তায় কত বড় চ্যালেঞ্জ?",
     "desc": "WhatsApp is rolling out a new username feature, allowing users to chat without sharing phone numbers. হোয়াটসঅ্যাপের এই নতুন ফিচারে নম্বর গোপন রেখে চ্যাট করার সুযোগ পাবেন ব্যবহারকারীরা, যা সাইবার নিরাপত্তা বাড়াবে এবং ব্যক্তিগত সুরক্ষা নিশ্চিত করবে।",

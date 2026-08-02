@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Lovlina Borgohain points out incorrect India map at Glasgow restaurant, owner issues response",
+    "desc": "Indian boxer Lovlina Borgohain has captured the hearts of many across the country after video of hers has been making the rounds all over social media. In the video that has been going viral, Lovlina...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/lovlina-borgohain-points-out-incorrect-india-map-at-glasgow-restaurant-owner-issues-response-2026-08-02-1050158",
+    "time": "2026-08-02T12:37:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Arshdeep Singh reflects on IPL social media controversy after England ODI series",
+    "desc": "Star India pacer Arshdeep Singh has come forward and given his take on the recent social media controversy that he was involved in during the IPL (Indian Premier League). It is worth noting that Arshdeep...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/arshdeep-singh-reflects-on-ipl-social-media-controversy-after-england-odi-series-2026-08-02-1050154",
+    "time": "2026-08-02T11:34:28.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Jasprit Bumrah ruled out of Sri Lanka Test series due to knee injury",
     "desc": "Star India pacer Jasprit Bumrah has been ruled out of the upcoming two-game Test series against Sri Lanka. It is worth noting that India will take on Sri Lanka across two Test matches, with the...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/sachin-siwach-ankush-panghal-cap-historic-day-for-indian-boxing-with-commonwealth-games-golds-2026-08-02-1050111",
     "time": "2026-08-01T18:38:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Arundhati Choudhary wins India's 11th Commonwealth Games gold medal, Lovlina Borgohain settles for silver",
-    "desc": "Indian boxer Arundhati Choudhary secured the country's 11th gold medal at the Commonwealth Games after defeating England's Chantelle Reid in the women's 70kg final. Arundhati delivered a dominant performance to register a 5-0 unanimous points...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/arundhati-choudhary-wins-india-s-11th-commonwealth-games-gold-medal-lovlina-borgohain-settles-for-silver-2026-08-01-1050107",
-    "time": "2026-08-01T17:09:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sakshi Chaudhary, Priya Ghanghas win gold in boxing at Commonwealth Games, India's medal tally moved to 33",
-    "desc": "Sakshi Chaudhary delivered a clinical performance to defeat England's Ruby White by a unanimous 5-0 decision and win the women's 51kg boxing gold medal at the Commonwealth Games 2026 in Glasgow. The Indian boxer controlled the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/sakshi-chaudhary-priya-ghanghas-win-consecutive-gold-medals-in-boxing-india-s-medal-tally-moved-to-33-2026-08-01-1050104",
-    "time": "2026-08-01T16:14:33.000Z"
   }
 ];
