@@ -1,5 +1,194 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Bumrah ruled out of Sri Lanka Test series, Auqib Nabi set to be drafted in",
+    "desc": "The swelling in Bumrah’s knee seems to be more serious than it initially looked and the Sports Science team at Bengaluru's Centre of Excellence doesn't want to rush the seasoned pacer to the grind of international cricket",
+    "img": "https://th-i.thgim.com/public/incoming/hb9muj/article71298975.ece/alternates/LANDSCAPE_1200/PTI12_30_2024_000252A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/bumrah-ruled-out-of-sri-lanka-test-series-auqib-nabi-set-to-be-drafted-in/article71298971.ece",
+    "time": "2026-08-02T18:55:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Former BJP MP Rebati Tripura steps back from politics, returns to teaching",
+    "desc": "The indigenous leader did not find a senior position in the recently restructured State committee of the BJP; he was one of few tribal leaders who helped the saffron party grow organisation in hills and interior tribal communities",
+    "img": "https://th-i.thgim.com/public/incoming/m20dij/article71298973.ece/alternates/LANDSCAPE_1200/702094714_1460625629200491_8788980753749681742_n.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tripura/former-bjp-mp-rebati-tripura-steps-back-from-politics-returns-to-teaching/article71298196.ece",
+    "time": "2026-08-02T18:51:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Karnataka Cabinet expansion most likely on August 3",
+    "desc": "Sources said that competition is intense among Muslim legislators from Bengaluru that has turned out to be a stress point with elections to five corporations in Greater Bengaluru Authority region expected to be held shortly",
+    "img": "https://th-i.thgim.com/public/incoming/ighcz5/article71298660.ece/alternates/LANDSCAPE_1200/DSC_0984.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-cabinet-expansion-most-likely-on-august-3/article71298605.ece",
+    "time": "2026-08-02T18:46:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Historic highs outweigh India's modest medal tally at Commonwealth Games",
+    "desc": "With several medal-rich sports missing from the programme because of financial constraints in hosting the Games — after the event was moved from Victoria in Australia to Glasgow — expectations were lower than in previous editions. Even so, India found success in new events, celebrated new athletes and produced several landmark performances.",
+    "img": "https://static.toiimg.com/photo/msid-132811339,imgsize-710623.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/mirabai-chanus-hat-trick-of-gold-to-tejaswin-shankars-decathlon-medal-historic-highs-outweigh-indias-modest-medal-tally-at-commonwealth-games/articleshow/132810862.cms",
+    "time": "2026-08-02T17:45:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "A highly satisfying show by the Indian contingent in Glasgow",
+    "desc": "The boxers make a significant contribution to the country’s medal tally; Gulveer, with a double podium finish, turns out to be the brightest star among the athletes; Asmita and Harsh bag historic gold in judo; Mirabai proves her class yet again",
+    "img": "https://th-i.thgim.com/public/incoming/s4bmqv/article71298832.ece/alternates/LANDSCAPE_1200/PTI08_02_2026_000058B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/a-highly-satisfying-show-by-the-indian-contingent-in-glasgow/article71297632.ece",
+    "time": "2026-08-02T17:29:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tamil Nadu government to expand cooperative lending under Singapengal Entrepreneurship Credit Scheme",
+    "desc": "T.N. Chief Minister C. Joseph Vijay has instructed officials to increase loans given under the scheme by 25%. Orders have also been issued to ensure at least 30% of loans across categories are extended to new members",
+    "img": "https://th-i.thgim.com/public/incoming/pkakh7/article71298186.ece/alternates/LANDSCAPE_1200/9870_5_12_2025_12_0_11_2_ER06SHG2.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-to-expand-cooperative-lending-under-singapengal-entrepreneurship-credit-scheme/article71297698.ece",
+    "time": "2026-08-02T17:18:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Cauvery situation slightly better, says Karnataka CM",
+    "desc": "Karnataka begins water release from Kabini and KRS to T.N. owing to rain; Shivakumar appeals to protesters to withdraw the bandh plan on August 13 and reiterates that the Mekedatu project is the way out",
+    "img": "https://th-i.thgim.com/public/incoming/80rra5/article71297474.ece/alternates/LANDSCAPE_1200/20260802013L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-cm-urges-opposition-farmers-and-kannada-organisations-to-withdraw-proposed-aug-13-bandh-against-release-of-cauvery-water-to-tamil-nadu/article71297467.ece",
+    "time": "2026-08-02T17:17:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sonam Wangchuk's wife takes a dig at Bollywood after watching The Odyssey",
+    "desc": "Gitanjali Angmo admired Christopher Nolan's film and urged Bollywood to explore Indian epics. She suggested cinema shapes minds and should serve as a powerful classroom. This comes after Sonam Wangchuk's hunger strike demanding examination reforms. Aamir Khan denied his film '3 Idiots' was inspired by Wangchuk's life. An old video of Khan meeting Wangchuk resurfaced online.",
+    "img": "https://static.toiimg.com/photo/msid-132810986,imgsize-394636.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonam-wangchuks-wife-takes-a-dig-at-bollywood-after-watching-christopher-nolans-the-odyssey-calls-it-a-surreal-experience-cinema-is-more-than-entertainment/articleshow/132810847.cms",
+    "time": "2026-08-02T17:16:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Taslima Nasrin calls for UCC across subcontinent, wants ban on madrasas",
+    "desc": "Ms. Nasrin arrived in Kolkata on July 31, almost 19 years after she was forced to leave the city over violent protests by a mob upset with her writings; claims some madrasas produce jihadis, alleges child abuse, rape",
+    "img": "https://th-i.thgim.com/public/incoming/97e53l/article71298790.ece/alternates/LANDSCAPE_1200/PTI08_01_2026_000567A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/taslima-nasrin-calls-for-ucc-across-subcontinent-wants-ban-on-madrasas/article71298498.ece",
+    "time": "2026-08-02T17:05:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'This is Indian sport at its finest': Iyer applauds India's 39-medal CWG campaign",
+    "desc": "India secured fourth place in the Commonwealth Games 2026 medal standings. The nation achieved a total of thirty-nine medals, including thirteen gold awards. Indian boxers achieved a historic success, topping their sport's medal table. Captain Shreyas Iyer congratulated all athletes for their inspiring national performances. The team's achievements showcased Indian sport at its finest level.",
+    "img": "https://static.toiimg.com/photo/msid-132810666,imgsize-1139307.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/this-is-indian-sport-at-its-finest-shreyas-iyer-applauds-team-indias-39-medal-cwg-campaign/articleshow/132810330.cms",
+    "time": "2026-08-02T17:05:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'2024 movement fooled Bangladesh': Taslima Nasreen's 'lesson' warning over Delhi student protests",
+    "desc": "Exiled author Taslima Nasreen believes Bangladesh's student movement misled people. She drew parallels between past protests and recent demonstrations in Delhi. Nasreen stated that Islamic fundamentalists were behind the Bangladesh movement. This experience reinforced her concerns about the consequences of such actions. The developments in Bangladesh should serve as a cautionary lesson for others.",
+    "img": "https://static.toiimg.com/photo/msid-132810471,imgsize-144075.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/2024-movement-fooled-bangladesh-taslima-nasreens-lesson-warning-over-delhi-student-protests/articleshow/132809879.cms",
+    "time": "2026-08-02T16:55:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Municipal Executive Officer beaten to death in Bihar; wife accuses LJP (RV) MLA of the murder",
+    "desc": "Vimal Kumar was on his way to Patna from Dehri-on-Sone in Rohtas district when he was attacked in a deserted area. The police have arrested his driver Mithilesh Kumar. Vimal’s wife has alleged that MLA Rajiv Ranjan Singh had repeatedly demanded ₹50 lakh from Vimal",
+    "img": "https://th-i.thgim.com/public/incoming/u4ofhn/article71298118.ece/alternates/LANDSCAPE_1200/iStock-523699180.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/bihar-municipal-executive-officer-beaten-to-death-wife-accuses-ljp-rv-mla/article71298114.ece",
+    "time": "2026-08-02T16:53:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Students deserve an apology, not forgiveness",
+    "desc": "After meeting the families of three students who were found dead in Tamil Nadu following the NEET controversy, the Congress leader said the government owed young aspirants “truth, justice and an apology” for failures in the examination system",
+    "img": "https://th-i.thgim.com/public/news/national/maqari/article71298738.ece/alternates/LANDSCAPE_1200/RG.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/rahul-gandhi-to-pm-students-deserve-an-apology-not-forgiveness/article71298567.ece",
+    "time": "2026-08-02T16:46:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Despite recent downpour, monsoon deficit in Wayanad stays at 50%",
+    "desc": "According to data released by the Hume Centre for Ecology and Wildlife Biology, the district received only 802 mm of average rainfall between June 1 and July 31, against the IMD normal of 1,600 mm for the period",
+    "img": "https://th-i.thgim.com/public/incoming/wv57lw/article71295981.ece/alternates/LANDSCAPE_1200/NH25Rain02.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/despite-recent-downpour-monsoon-deficit-in-wayanad-stays-at-50/article71295215.ece",
+    "time": "2026-08-02T16:26:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "M.K. Sanoo never thought continuos Left rule will be dangerous, says Pinarayi Vijayan",
+    "desc": "In what sounded like a veiled criticism of former Kerala Sahitya Akademi president K. Satchidanandan, Leader of the Opposition recalled how gracefully Sanoo had occupied the same position during an earlier tenure of the LDF",
+    "img": "https://th-i.thgim.com/public/incoming/3gvsjh/article71298700.ece/alternates/LANDSCAPE_1200/sanoo_award_01.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/mk-sanoo-never-thought-continuos-left-rule-will-be-dangerous-says-pinarayi-vijayan/article71298269.ece",
+    "time": "2026-08-02T16:25:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Five gold medallists from Bhiwani power India’s best-ever CWG boxing haul",
+    "desc": "Two others from Haryana also contributed a silver and a gold to India’s record haul of ten boxing medals; Bhiwani Boxing Club founder credits the victory to a return to team selection by open trials, rejecting controversial point-based assessment",
+    "img": "https://th-i.thgim.com/public/incoming/3ca7pf/article71298705.ece/alternates/LANDSCAPE_1200/PTI08_02_2026_000059A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/five-gold-medallists-from-bhiwani-power-indias-best-ever-cwg-boxing-haul/article71297996.ece",
+    "time": "2026-08-02T16:24:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress workers detained in Pune ahead of Shah, Doval visit",
+    "desc": "The individuals were taken into custody. The police described the action as a preventive measure. The measure was intended to maintain order during the visit of the Union Home Minister and the National Security Advisor",
+    "img": "https://th-i.thgim.com/public/incoming/igugri/article71298668.ece/alternates/LANDSCAPE_1200/PTI08_01_2026_000272B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/congress-workers-detained-in-pune-ahead-of-shah-doval-visit/article71295270.ece",
+    "time": "2026-08-02T16:17:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "One dead, two missing as heavy rain batters Kannur; Wayanad gets respite",
+    "desc": "Over 2,550 people shifted to relief camps across Kannur, Kasaragod and Wayanad; roads blocked, bridges submerged and landslips disrupt normal life in rain-hit districts; holiday declared for educational institutions in Kannur, Kasaragod and Wayanad on August 3, 2026",
+    "img": "https://th-i.thgim.com/public/incoming/fvciuu/article71298557.ece/alternates/LANDSCAPE_1200/PTI08_02_2026_000403B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/one-dead-two-missing-as-heavy-rain-batters-kannur-wayanad-gets-respite/article71297290.ece",
+    "time": "2026-08-02T16:15:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "China gets just 1 FDI approval in India in FY26, Hong Kong secures 13 proposals",
+    "desc": "India approved only one Chinese FDI proposal worth one crore rupees in 2025-26. Hong Kong received approvals for thirteen proposals totaling six hundred ten crore rupees. Singapore led approved investment values with three thousand two hundred fifty-nine crore rupees. The UK and Thailand also saw significant investment approvals during this period. China's overall FDI contribution to India remains notably small.",
+    "img": "https://static.toiimg.com/photo/msid-132809786,imgsize-31104.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/china-gets-just-1-fdi-approval-in-india-in-fy26-hong-kong-secures-13-proposals/articleshow/132809638.cms",
+    "time": "2026-08-02T16:04:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "death toll rises to 11, over 7,600 people in relief camps",
+    "desc": "Towns in central Kerala remain heavily waterlogged; search operations continue for people reported missing; IMD places all 14 districts on yellow alert on Monday, no heavy rainfall alert for Tuesday and Wednesday; sanitation work launched in places where floodwaters have receded, says CM",
+    "img": "https://th-i.thgim.com/public/incoming/41h484/article71298579.ece/alternates/LANDSCAPE_1200/PTI08_02_2026_000403B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-floods-2026-death-toll-rises-to-11-over-7600-people-in-relief-camps/article71298571.ece",
+    "time": "2026-08-02T16:04:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "DMK accuses State government of sleeping over Cauvery issue",
+    "desc": "Accusing the TVK Government of “sleeping over” a matter of immense importance to the State, Mr. Regupathy alleged Mr. Nirmalkumar had insulted the Opposition parties in Tamil Nadu as well as former Chief Minister M. Karunanidhi through his remarks",
+    "img": "https://th-i.thgim.com/public/incoming/68zdx5/article71298397.ece/alternates/LANDSCAPE_1200/1693_28_3_2025_14_46_27_2_DSC_8840.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/dmk-accuses-state-government-of-sleeping-over-cauvery-issue/article71298380.ece",
+    "time": "2026-08-02T15:55:04.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Govt likely to seek explanation from officials over letter which aided KAAPA-accused BJP councillor to secure leave",
     "desc": "The letter, dated July 20, 2026 and signed by an Under Secretary on behalf of the Additional Chief Secretary, was sent to Mr. Sugathan in response to his request for an escort parole to take part in the council meeting on July 31",
@@ -36,24 +225,6 @@ const newsData_en = [
     "time": "2026-08-02T15:24:43.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Chief Minister comes under Opposition criticism over flood management, participation in private events",
-    "desc": "A video was shared by Muslim Youth League vice-president of Satheesan participating in a lunch at his house and there were reports of Chief Minister using government’s helicopter for private purposes. Pinarayi Vijayan says negligence and lack of coordination has worsened the plight of the flood-affected",
-    "img": "https://th-i.thgim.com/public/incoming/8d1wp6/article71298497.ece/alternates/LANDSCAPE_1200/NH27OommenChandy07.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-floods-2026-chief-minister-comes-under-opposition-criticism-over-flood-management-participation-in-private-events/article71298244.ece",
-    "time": "2026-08-02T15:23:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Authorities sound alert as Godavari continues to rise at Dowleswaram, nears first warning mark",
-    "desc": "Water level at the barrage touches 42.10 feet; 971 houses in 72 habitations submerged, affecting more than 32,000 people due to floods in the Sabari and Godavari rivers in Polavaram district; Eluru district administration intensifies relief and restoration measures in the affected villages of Velairpadu and Kukunoor mandals",
-    "img": "https://th-i.thgim.com/public/incoming/3dbyrg/article71298353.ece/alternates/LANDSCAPE_1200/10215_2_8_2026_20_7_50_2_IMG_20260802_WA0133.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/authorities-sound-alert-as-godavari-continues-to-rise-at-dowleswaram-nears-first-warning-mark/article71297656.ece",
-    "time": "2026-08-02T15:16:15.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Arshdeep picks Bhuvneshwar over Shami; No place for Jasprit Bumrah",
     "desc": "Arshdeep Singh revealed his top five Indian bowlers, placing Bhuvneshwar Kumar first. Mohammed Shami secured the second position on his esteemed list. Kuldeep Yadav and Yuzvendra Chahal followed, completing the spin contingent. Ravichandran Ashwin was humorously placed last due to limited available spots. The omission of Jasprit Bumrah from this selection surprised many fans.",
@@ -81,42 +252,6 @@ const newsData_en = [
     "time": "2026-08-02T15:00:30.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Plantation corporation’s continued possession of over 3,900 ha of lease-expired forestland ‘unauthorised,’ Kerala Forest department tells CEC",
-    "desc": "Plantation Corporation of Kerala has leased, subleased, licensed or otherwise allotted portions of the land to private parties for pineapple cultivation, adversely affecting wildlife movement, habitat connectivity, soil stability, water resources and ecological integrity of the area, says the department",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/6snbdy/article71297756.ece/alternates/LANDSCAPE_1200/3tvkz1-%20PCK%20Forest.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/plantation-corporations-continued-possession-of-over-3900-ha-of-lease-expired-forestland-unauthorised-kerala-forest-department-tells-cec/article71297613.ece",
-    "time": "2026-08-02T14:59:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Sale of fine-quality rice at discounted prices begins in Andhra Pradesh",
-    "desc": "The rice is being sold at ₹52 per kg for BPT super fine and ₹50 per kg for BPT raw through 130 Rythu Bazaars and 500 rice mills, with purchases capped at 10 kg per consumer after Aadhaar verification",
-    "img": "https://th-i.thgim.com/public/incoming/hitmcm/article71298377.ece/alternates/LANDSCAPE_1200/DSC_2710.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/sale-of-fine-quality-rice-at-discounted-prices-begins-in-andhra-pradesh/article71298206.ece",
-    "time": "2026-08-02T14:58:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Municipal Executive Officer beaten to death in Bihar; wife accuses LJP (RV) MLA of the murder",
-    "desc": "Vimal Kumar was on his way to Patna from Dehri-on-Sone in Rohtas district when he was attacked in a deserted area. The police have arrested his driver Mithilesh Kumar. Vimal’s wife has alleged that MLA Rajiv Ranjan Singh had repeatedly demanded ₹50 lakh from Vimal",
-    "img": "https://th-i.thgim.com/public/incoming/u4ofhn/article71298118.ece/alternates/LANDSCAPE_1200/iStock-523699180.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/bihar-municipal-executive-officer-beaten-to-death-wife-accuses-ljp-rv-mla/article71298114.ece",
-    "time": "2026-08-02T14:47:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Decision on declaring drought by August end, Chief Minister D.K. Shivakumar",
-    "desc": "Ministers will provide ground report and that will be compiled by the Revenue Department based on the norms; the final assessment would be discussed in the Cabinet and then submitted to the Government, said D.K. Shivakumar",
-    "img": "https://th-i.thgim.com/public/incoming/x5thit/article71297496.ece/alternates/LANDSCAPE_1200/5964_1_8_2026_20_53_24_2_CMDKSHIIVAKUMAR.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/decision-on-declaring-drought-by-august-end-chief-minister-dk-shivakumar/article71297485.ece",
-    "time": "2026-08-02T14:39:20.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Gold medallist Lamboria named India’s flag-bearer for closing ceremony",
     "desc": "Jaismine Lamboria will carry India’s flag at the Commonwealth Games closing ceremony after winning gold in the women’s 57kg category. The 24-year-old also won bronze in Birmingham in 2022. India will officially receive the Commonwealth Games handover for Ahmedabad 2030, with the ceremony highlighting Indian culture, shared values and the country’s connection with the Commonwealth family.",
@@ -127,7 +262,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "'Not Korean heart...counting fingers': Shehzad Poonawalla's swipe at Rahul Gandhi over Gen Z post",
+    "title": "'Not Korean heart ... counting fingers': Shehzad Poonawalla's swipe at Rahul Gandhi over Gen Z post",
     "desc": "Shehzad Poonawalla criticised Rahul Gandhi's recent social media post. He interpreted Gandhi's gesture as counting corruption and bribes daily. Poonawalla accused the Gandhi family of extensive involvement in corruption. Rahul Gandhi had shared a Korean finger heart gesture on Friendship Day. This outreach aimed to connect with younger audiences on social media.",
     "img": "https://static.toiimg.com/photo/msid-132808495,imgsize-75873.cms",
     "src": "indiatimes.com",
@@ -405,15 +540,6 @@ const newsData_en = [
     "time": "2026-08-02T08:09:48.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Did you know Ajinkya Deo auditioned for Dashrath? read how he bagged Vishwamitra role",
-    "desc": "Ajinkya Deo initially auditioned for King Dashrath in Nitesh Tiwari's 'Ramayana'. Veteran actor Arun Govil was later finalized for the role of Dashrath. Deo then accepted the significant role of Sage Vishwamitra in the epic film. Several look tests were conducted to finalize his appearance as Vishwamitra. The film, featuring a star-studded cast, is slated for a November 2026 release.",
-    "img": "https://static.toiimg.com/photo/msid-132802737,imgsize-218777.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-casting-trivia-did-you-know-ajinkya-deo-auditioned-for-dashrath-read-how-he-bagged-vishwamitra-role/articleshow/132802456.cms",
-    "time": "2026-08-02T07:33:45.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Huge blow! Jasprit Bumrah ruled out of Sri Lanka Tests",
     "desc": "Star bowler Jasprit Bumrah will miss the upcoming Test series against Sri Lanka. He continues to feel discomfort in his left knee after an initial assessment. Stakeholders have decided it is not safe to push him back into cricket. A full recovery is now the primary focus for the Indian team. The two-Test series is scheduled to begin on August 15.",
@@ -475,24 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/india-vs-sri-lanka-warm-up-match-reduced-from-four-days-to-three-ahead-of-test-series/articleshow/132800514.cms",
     "time": "2026-08-02T04:44:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'We're very aligned': Joe Root reveals why Fleming won him over instantly",
-    "desc": "Joe Root expressed enthusiasm for leading England's Test team again. He cited incoming coach Stephen Fleming as a key reason for his excitement. Fleming's vision has Root looking forward to the team's future prospects. Root also acknowledged the positive impact of Brendon McCullum and Ben Stokes. England's next assignment is a home series against Pakistan in August.",
-    "img": "https://static.toiimg.com/photo/msid-132800442,imgsize-1056405.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/were-very-aligned-joe-root-reveals-why-stephen-fleming-won-him-over-instantly/articleshow/132800440.cms",
-    "time": "2026-08-02T04:33:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Questions will be asked': Ex-India star's message for Gambhir",
-    "desc": "Former India wicketkeeper Deep Dasgupta anticipates pressure on coach Gautam Gambhir and captain Shubman Gill. India has lost recent Test series, and this Sri Lanka tour is crucial. The team needs to show clear direction during this transition period. Winning seven out of nine remaining Tests is vital for WTC final hopes. Dasgupta stressed that no Test series can be taken lightly by India.",
-    "img": "https://static.toiimg.com/photo/msid-132800381,imgsize-34180.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/questions-will-be-asked-ex-india-stars-message-for-gautam-gambhir-before-sri-lanka-tests/articleshow/132800318.cms",
-    "time": "2026-08-02T04:20:09.000Z"
   },
   {
     "cat": "Sports",
@@ -684,15 +792,6 @@ const newsData_en = [
     "time": "2026-08-01T10:24:49.000Z"
   },
   {
-    "cat": "Business",
-    "title": "RBI's special swap facility draws $40.8 bn in foreign inflows",
-    "desc": "Foreign exchange inflows under RBI's special swap facility reached $40.816 billion by July end. This figure nearly doubled from $20.718 billion reported just two weeks prior. FCNR(B) deposits were the primary driver, contributing $36.725 billion to the total collections. Overseas foreign currency and external commercial borrowings also added substantial amounts. The facility aims to strengthen the balance of payments and incentivize capital inflows.",
-    "img": "https://static.toiimg.com/photo/msid-132786445,imgsize-127112.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/forex-boost-rbis-special-swap-facility-draws-40-8-billion-in-foreign-inflows-by-july-end/articleshow/132786251.cms",
-    "time": "2026-08-01T09:47:24.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Discovery announces documentary on Operation Sindoor, to premiere on Aug 15",
     "desc": "The documentary follows the events from the strategic deliberations after the Pahalgam terror attack in April last year to the launch and execution of Operation Sindoor on May 7, offering a behind-the-scenes account of the conflict.",
@@ -783,42 +882,6 @@ const newsData_en = [
     "time": "2026-07-31T11:39:01.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "On comeback trail, discus thrower Seema collects bronze medal",
-    "desc": "The 27-year-old from Haryana's Bhiwani returned to the sport after taking a break to manage post-pregnancy complications that included arthritis and a knee injury. She is also pursuing a PhD in Physical Education from Bhiwani's Chaudhary Bansi Lal University",
-    "img": "https://th-i.thgim.com/public/incoming/n2djn8/article71289174.ece/alternates/LANDSCAPE_1200/Screenshot%202026-07-31%20111102.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/athletics/cwg-2026-on-comeback-trail-discus-thrower-seema-collects-bronze-medal/article71289129.ece",
-    "time": "2026-07-31T07:00:12.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "India-based sales agent of Iran’s Mahan Air among entities facing U.S. sanctions",
-    "desc": "The other GSAs of Mahan Air are China-based Shanghai Wings International Logistics Co, which has coordinated the transport of electronics from China to Iran, Russia-based Air Cargo Pro Limited and Shanghai Elite International Travel Co",
-    "img": "https://th-i.thgim.com/public/incoming/tmo5et/article71289028.ece/alternates/LANDSCAPE_1200/2026-07-13T220452Z_104761530_RC23DMAOSK8F_RTRMADP_3_IRAN-CRISIS-YEMEN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/india-based-sales-agent-of-irans-mahan-air-among-entities-facing-us-sanctions/article71288871.ece",
-    "time": "2026-07-31T06:59:44.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Why was Trump’s H-1B fee struck down?",
-    "desc": "What is the H-1B visa programme and who uses it? Why did the Trump administration impose the $100,000 fee? What impact was the policy expected to have on States and employers? Did the President have the authority to impose the fee? Why did the court classify the charge as a tax rather than a penalty?",
-    "img": "https://th-i.thgim.com/public/incoming/igk8h0/article71112269.ece/alternates/LANDSCAPE_1200/iStock-1264230781.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/why-was-trumps-h-1b-fee-struck-down/article71108812.ece",
-    "time": "2026-07-31T03:52:04.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S. military says no U.S. aircraft hit in attempted Iranian attacks",
-    "desc": "U.S. President Donald Trump vowed to hit back hard at Iran after it attacked U.S. bases in Jordan on Wednesday, July 30, as the war in West Asia reignited and again drew in Iran's proxies",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/west-asia-war-live-july-30-2026-updates-us-military-launches-new-strikes-on-iran/article71284158.ece",
-    "time": "2026-07-30T23:45:27.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "The viral Chuvarbot 2.0 secures productisation grant from Kerala Startup Mission",
     "desc": "The graffiti painting start-up, which garnered social media attention during the 2026 Kerala Assembly elections, has secured a grant of ₹12 lakhs from the Kerala Startup Mission. The product, currently in its prototype stage, is set to launch by the end of 2026",
@@ -835,68 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/why-is-the-founder-oftelegramonrussiaswantedlist-explained/article71284265.ece",
     "time": "2026-07-30T08:10:34.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "What is the EU AI transparency code?",
-    "desc": "Starting from August 2, the EU mandates labels for AI-generated content to boost transparency online. From deepfakes to manipulated text, find out how this new code seeks to protect users and maintain the integrity of information",
-    "img": "https://th-i.thgim.com/public/news/national/9odytc/article71279838.ece/alternates/LANDSCAPE_1200/iStock-1976099664%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/what-is-the-eu-ai-transparency-code-explained/article71279676.ece",
-    "time": "2026-07-29T05:06:21.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "After OpenAI-Hugging Face AI agent hack, U.S. lawmakers push for control",
-    "desc": "After OpenAI shared that some of its models had caused a security breach at another company, a White House official quoted by Reuters said that U.S. President Donald Trump’s ​tech adviser, Michael Kratsios, was tracking the situation",
-    "img": "https://th-i.thgim.com/public/incoming/2gddpv/article71260959.ece/alternates/LANDSCAPE_1200/OpenAI_56692.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/after-openai-hugging-face-ai-agent-hack-us-lawmakers-push-for-control/article71260982.ece",
-    "time": "2026-07-28T06:42:24.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
   }
 ];

@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India appoint new fielding coach after T Dilip's departure, to take over from Sri Lanka tour",
+    "desc": "India have appointed former Assam and Railways cricketer Subhadeep Ghosh as the new fielding coach of the men's team. This comes after T Dilip departs from the position. Subhadeep's first assignment will begin with India's...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-appoint-new-fielding-coach-after-t-dilips-departure-to-take-over-from-sri-lanka-tour-2026-08-03-1050177",
+    "time": "2026-08-02T18:34:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Commonwealth Games 2026 final medal tally; where did India finish in standings?",
+    "desc": "Curtains were drawn on the Commonwealth Games 2026 as Glasgow bid adieu to the quadrennial event. The Glasgow Games witnessed 74 nations and territories participating in the event, with the sports truncated to 10 from...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/commonwealth-games-2026-final-medal-tally-where-did-india-finish-in-standings-2026-08-02-1050175",
+    "time": "2026-08-02T18:06:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Check details, timings and India's flag bearer",
+    "desc": "The Commonwealth Games 2026 draws to a close with the closing ceremony scheduled later on August 2 (local time) as Glasgow bids adieu to the quadrennial event, having stepped up to host it. The event...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/commonwealth-games-2026-closing-ceremony-live-streaming-when-and-where-to-watch-check-details-timings-and-indias-flag-bearer-2026-08-02-1050172",
+    "time": "2026-08-02T17:41:49.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "How many medals did India win at Commonwealth Games 2026 in Glasgow?",
     "desc": "India's campaign at the Glasgow Commonwealth Games 2026 came to an end on Sunday evening, drawing the curtains to a pretty impressive run in the Scottish city. India produced several memorable performances at the Glasgow...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/tanvi-sharma-scripts-history-becomes-youngest-shuttler-to-win-taipei-open-2026-08-02-1050143",
     "time": "2026-08-02T09:18:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer weighs in on Vaibhav Sooryavanshi's appointment as East Zone vice-captain",
-    "desc": "The stage is set for another edition of the Duleep Trophy. The marquee tournament is all set to kick off from August 23. Ahead of the tournament, the various sides have been announcing their squad,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-weighs-in-on-vaibhav-sooryavanshi-s-appointment-as-east-zone-vice-captain-2026-08-02-1050140",
-    "time": "2026-08-02T08:09:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hardik Pandya goes bald, sports new look as he offers prayers at Venkateswara Swamy temple",
-    "desc": "Star India all-rounder Hardik Pandya has made headlines after he was spotted with a completely shaved head while offering prayers at the Sri Venkateswara Swamy Temple in Tirumala. It is worth noting that Pandya was...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-goes-bald-sports-new-look-as-he-offers-prayers-at-venkateswara-swamy-temple-watch-2026-08-02-1050137",
-    "time": "2026-08-02T07:07:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Check Commonwealth Games 2026 Day 11 schedule; Where can India shine on August 2?",
-    "desc": "The stage is set for the final day of the ongoing Commonwealth Games 2026, the Indian contingent put forth a marvellous performance throughout the games, and ahead of the final, India have won 39 medals...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/check-commonwealth-games-2026-day-11-schedule-where-can-india-shine-on-august-2-2026-08-02-1050132",
-    "time": "2026-08-02T05:50:03.000Z"
   }
 ];

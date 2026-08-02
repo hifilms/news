@@ -1,6 +1,24 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "SEBIના આદેશ વચ્ચે Zનો વિશ્વાસ, ₹3,143.5 કરોડનું ફંડ રેઇઝિંગ રહેશે યથાવત, શેરહોલ્ડર્સે આપી લીલી ઝંડી",
+    "desc": "SEBIના આદેશ બાદ ઝી એન્ટરટેઈનમેન્ટે પોતાનું પહેલું સત્તાવાર નિવેદન જાહેર કર્યું છે. કંપનીએ જણાવ્યું છે કે, આ આદેશની ₹3,143 કરોડની ભંડોળ એકત્ર કરવાની પ્રક્રિયા પર કોઈ સીધી અસર થશે નહીં અને તમામ જરૂરી કાનૂની પગલાં લેવામાં આવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/zee-confident-amid-sebi-order-fund-raising-of-3143-5-crore-will-remain-unchanged-shareholders-gave-green-signal-486535 ",
+    "time": "2026-08-02T16:44:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "એશિયા કપ 2026 માટે ભારતીય મહિલા ટીમની જાહેરાત, લોર્ડ્સ ટેસ્ટમાં સદી ફટકારનાર ખેલાડી બહાર",
+    "desc": "એશિયા કપ 2026 માટે ભારતીય મહિલા ક્રિકેટ ટીમની 15 સભ્યોની ટીમની જાહેરાત કરવામાં આવી છે. હરમનપ્રીત કૌરના નેતૃત્વ હેઠળની ટીમમાં કોઈ મોટા ફેરફારો કરવામાં આવ્યા નથી. યાસ્તિકા ભાટિયા ફરી એકવાર આ ટુર્નામેન્ટ માટે ટીમમાં સ્થાન મેળવવામાં નિષ્ફળ રહી છે. તો શ્રેયંકા પાટિલની જગ્યાએ પ્રેમા રાવતને તક આપવામાં આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/india-women-squad-for-asia-cup-2026-harmanpreet-kaur-captain-yastika-bhatia-misses-out-486534 ",
+    "time": "2026-08-02T16:00:43.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "રૂપિયા તૈયાર રાખજો! આ અઠવાડિયે IPOની ભરમાર, શેર માર્કેટમાં લિસ્ટ થશે 6 કંપનીઓ; જાણો કેટલો છે પ્રાઈસ બેન્ડ અને GMP",
     "desc": "આ અઠવાડિયે 6 કંપનીઓના IPO ખુલી રહ્યા છે. જેમાં 4 કંપની એસએમઈ (SME) સેગમેન્ટની અને બે કંપની મેઈનબોર્ડ સેગમેન્ટની છે. ચાલો જાણીએ કયો IPO ક્યા દિવસ ખુલી રહ્યો છે ગ્રે માર્કેટમાં GMP શું ચાલી રહ્યું છે?",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -556,15 +574,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/nuclear-war-looms-will-the-oman-talks-last-or-will-they-lead-to-disaster-5-iranian-hideouts-on-trumps-radar-485765 ",
     "time": "2026-07-26T03:09:30.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "અમેરિકામાં નોકરીનું સપનું જોનારા માટે મોટા સમાચાર, સેનેટમાં રજૂ થયું ખાસ બિલ, વિઝા પર લાગી શકે છે 3 વર્ષનો પ્રતિબંધ",
-    "desc": "યુએસ સેનેટમાં રજૂ કરાયેલા H-1B વિઝા સંબંધિત બિલને કારણે અમેરિકામાં કામ કરવા ઇચ્છુક લોકોને મુશ્કેલીનો સામનો કરવો પડી શકે છે. આ બિલમાં આગામી ત્રણ વર્ષ માટે નવા H-1B વિઝા જારી કરવા પર રોક લગાવવાનો પ્રસ્તાવ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/us-senator-tim-sheehy-end-h-1b-abuse-act-halt-visa-for-three-years-485749 ",
-    "time": "2026-07-25T14:27:27.000Z"
   },
   {
     "cat": "Entertainment",
