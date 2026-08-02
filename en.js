@@ -1,5 +1,167 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Govt likely to seek explanation from officials over letter which aided KAAPA-accused BJP councillor to secure leave",
+    "desc": "The letter, dated July 20, 2026 and signed by an Under Secretary on behalf of the Additional Chief Secretary, was sent to Mr. Sugathan in response to his request for an escort parole to take part in the council meeting on July 31",
+    "img": "https://th-i.thgim.com/public/incoming/ppgqxy/article71298521.ece/alternates/LANDSCAPE_1200/80688_14_7_2026_17_54_0_3_RSUGATHAN_KKN3.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/govt-likely-to-seek-explanation-from-officials-over-letter-which-aided-kaapa-accused-bjp-councillor-to-secure-leave/article71298432.ece",
+    "time": "2026-08-02T15:34:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Dhurandhar' composer Shashwat Sachdev recalls wife's support, living in 1 BHK apartment",
+    "desc": "Shashwat Sachdev acknowledges his family's profound sacrifices and unwavering support for his musical journey. His parents dedicated their resources to his education, while his sister paused her own musical pursuits. His wife also made significant sacrifices after his move to Mumbai in 2017. Sachdev believes a divine energy guides his path, not solely his own efforts.",
+    "img": "https://static.toiimg.com/photo/msid-132809274,imgsize-237977.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-composer-shashwat-sachdev-recalls-wifes-support-they-were-living-in-1-bhk-apartment-she-has-worked-just-as-hard-as-i-have/articleshow/132809186.cms",
+    "time": "2026-08-02T15:31:40.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India's deep-sea bet: Centre's 'Samudra Manthan' to churn crude — How it works",
+    "desc": "India is funding half the cost of deepwater oil and gas exploration wells. This new scheme aims to reduce reliance on imported energy supplies. The government will support sixty exploration wells over the next five years. This initiative encourages companies to explore previously avoided offshore areas. Shared infrastructure will also lower development costs for new discoveries.",
+    "img": "https://static.toiimg.com/photo/msid-132809119,imgsize-114884.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-deep-sea-bet-centres-samudra-manthan-to-churn-crude-how-it-works/articleshow/132809122.cms",
+    "time": "2026-08-02T15:30:31.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "What will guide gold, silver prices this week?",
+    "desc": "Gold and silver prices are expected to trade within a narrow range this week. Investors await key US economic data, especially non-farm payrolls, for Fed policy direction. Purchasing managers' index data from major economies will also be closely monitored. Developments concerning the US-Iran conflict and crude oil supplies will influence sentiment. Analysts anticipate gold to trade between Rs 1.40-1.44 lakh per 10 grams.",
+    "img": "https://static.toiimg.com/photo/msid-132809184,imgsize-136958.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/bullion-market-what-will-guide-gold-silver-prices-this-week/articleshow/132809213.cms",
+    "time": "2026-08-02T15:24:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Chief Minister comes under Opposition criticism over flood management, participation in private events",
+    "desc": "A video was shared by Muslim Youth League vice-president of Satheesan participating in a lunch at his house and there were reports of Chief Minister using government’s helicopter for private purposes. Pinarayi Vijayan says negligence and lack of coordination has worsened the plight of the flood-affected",
+    "img": "https://th-i.thgim.com/public/incoming/8d1wp6/article71298497.ece/alternates/LANDSCAPE_1200/NH27OommenChandy07.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-floods-2026-chief-minister-comes-under-opposition-criticism-over-flood-management-participation-in-private-events/article71298244.ece",
+    "time": "2026-08-02T15:23:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Authorities sound alert as Godavari continues to rise at Dowleswaram, nears first warning mark",
+    "desc": "Water level at the barrage touches 42.10 feet; 971 houses in 72 habitations submerged, affecting more than 32,000 people due to floods in the Sabari and Godavari rivers in Polavaram district; Eluru district administration intensifies relief and restoration measures in the affected villages of Velairpadu and Kukunoor mandals",
+    "img": "https://th-i.thgim.com/public/incoming/3dbyrg/article71298353.ece/alternates/LANDSCAPE_1200/10215_2_8_2026_20_7_50_2_IMG_20260802_WA0133.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/authorities-sound-alert-as-godavari-continues-to-rise-at-dowleswaram-nears-first-warning-mark/article71297656.ece",
+    "time": "2026-08-02T15:16:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Arshdeep picks Bhuvneshwar over Shami; No place for Jasprit Bumrah",
+    "desc": "Arshdeep Singh revealed his top five Indian bowlers, placing Bhuvneshwar Kumar first. Mohammed Shami secured the second position on his esteemed list. Kuldeep Yadav and Yuzvendra Chahal followed, completing the spin contingent. Ravichandran Ashwin was humorously placed last due to limited available spots. The omission of Jasprit Bumrah from this selection surprised many fans.",
+    "img": "https://static.toiimg.com/photo/msid-132809002,imgsize-1158108.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/arshdeep-singh-picks-bhuvneshwar-kumar-over-mohammed-shami-no-place-for-jasprit-bumrah/articleshow/132808791.cms",
+    "time": "2026-08-02T15:02:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Yash Chopra replaced Sudesh Berry with Shah Rukh Khan in Darr",
+    "desc": "Actor Sudesh Berry shared he was first chosen for Darr's obsessive lover role. His costumes were ready, but makers reconsidered the casting decision. They felt a bigger actor was needed opposite Sudesh Berry for the climax. Berry believes destiny and blessings played a major role in stars' success. Shah Rukh Khan's career is attributed to destiny and divine favor.",
+    "img": "https://static.toiimg.com/photo/msid-132808985,imgsize-242327.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yash-chopra-replaced-sudesh-berry-with-shah-rukh-khan-in-darr-says-srk-is-blessed-child-of-good-because-he-has-gauri-putr-ganesh-by-his-side-his-wifes-name-is-/articleshow/132808991.cms",
+    "time": "2026-08-02T15:01:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Inside India's broken jobs market and why the 'cockroaches' are fed up",
+    "desc": "India's expanding higher education system produces millions of graduates annually. However, quality job creation has not kept pace with this educational growth. Many educated youth struggle to find stable, well-paying employment opportunities. This mismatch fuels widespread frustration and youth-led protests across the nation. The situation highlights a critical challenge for India's demographic dividend.",
+    "img": "https://static.toiimg.com/photo/msid-132808973,imgsize-140691.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/educated-but-unemployed-inside-indias-broken-jobs-market-and-why-the-cockroaches-are-fed-up/articleshow/132808216.cms",
+    "time": "2026-08-02T15:00:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Plantation corporation’s continued possession of over 3,900 ha of lease-expired forestland ‘unauthorised,’ Kerala Forest department tells CEC",
+    "desc": "Plantation Corporation of Kerala has leased, subleased, licensed or otherwise allotted portions of the land to private parties for pineapple cultivation, adversely affecting wildlife movement, habitat connectivity, soil stability, water resources and ecological integrity of the area, says the department",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/6snbdy/article71297756.ece/alternates/LANDSCAPE_1200/3tvkz1-%20PCK%20Forest.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/plantation-corporations-continued-possession-of-over-3900-ha-of-lease-expired-forestland-unauthorised-kerala-forest-department-tells-cec/article71297613.ece",
+    "time": "2026-08-02T14:59:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Sale of fine-quality rice at discounted prices begins in Andhra Pradesh",
+    "desc": "The rice is being sold at ₹52 per kg for BPT super fine and ₹50 per kg for BPT raw through 130 Rythu Bazaars and 500 rice mills, with purchases capped at 10 kg per consumer after Aadhaar verification",
+    "img": "https://th-i.thgim.com/public/incoming/hitmcm/article71298377.ece/alternates/LANDSCAPE_1200/DSC_2710.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/sale-of-fine-quality-rice-at-discounted-prices-begins-in-andhra-pradesh/article71298206.ece",
+    "time": "2026-08-02T14:58:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Municipal Executive Officer beaten to death in Bihar; wife accuses LJP (RV) MLA of the murder",
+    "desc": "Vimal Kumar was on his way to Patna from Dehri-on-Sone in Rohtas district when he was attacked in a deserted area. The police have arrested his driver Mithilesh Kumar. Vimal’s wife has alleged that MLA Rajiv Ranjan Singh had repeatedly demanded ₹50 lakh from Vimal",
+    "img": "https://th-i.thgim.com/public/incoming/u4ofhn/article71298118.ece/alternates/LANDSCAPE_1200/iStock-523699180.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/bihar-municipal-executive-officer-beaten-to-death-wife-accuses-ljp-rv-mla/article71298114.ece",
+    "time": "2026-08-02T14:47:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Decision on declaring drought by August end, Chief Minister D.K. Shivakumar",
+    "desc": "Ministers will provide ground report and that will be compiled by the Revenue Department based on the norms; the final assessment would be discussed in the Cabinet and then submitted to the Government, said D.K. Shivakumar",
+    "img": "https://th-i.thgim.com/public/incoming/x5thit/article71297496.ece/alternates/LANDSCAPE_1200/5964_1_8_2026_20_53_24_2_CMDKSHIIVAKUMAR.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/decision-on-declaring-drought-by-august-end-chief-minister-dk-shivakumar/article71297485.ece",
+    "time": "2026-08-02T14:39:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gold medallist Lamboria named India’s flag-bearer for closing ceremony",
+    "desc": "Jaismine Lamboria will carry India’s flag at the Commonwealth Games closing ceremony after winning gold in the women’s 57kg category. The 24-year-old also won bronze in Birmingham in 2022. India will officially receive the Commonwealth Games handover for Ahmedabad 2030, with the ceremony highlighting Indian culture, shared values and the country’s connection with the Commonwealth family.",
+    "img": "https://static.toiimg.com/photo/msid-132808578,imgsize-117244.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-gold-medallist-jaismine-lamboria-named-indias-flag-bearer-for-closing-ceremony/articleshow/132808575.cms",
+    "time": "2026-08-02T14:36:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Not Korean heart...counting fingers': Shehzad Poonawalla's swipe at Rahul Gandhi over Gen Z post",
+    "desc": "Shehzad Poonawalla criticised Rahul Gandhi's recent social media post. He interpreted Gandhi's gesture as counting corruption and bribes daily. Poonawalla accused the Gandhi family of extensive involvement in corruption. Rahul Gandhi had shared a Korean finger heart gesture on Friendship Day. This outreach aimed to connect with younger audiences on social media.",
+    "img": "https://static.toiimg.com/photo/msid-132808495,imgsize-75873.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/not-korean-heart-counting-fingers-shehzad-poonawallas-swipe-at-rahul-gandhi-over-friendship-day-post-for-gen-z/articleshow/132808492.cms",
+    "time": "2026-08-02T14:31:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'She was saying mujhe bachaao'",
+    "desc": "Filmmaker Anees Bazmee revisited the difficult reshoot of Laadla after Divya Bharti's untimely death. Nearly the entire film had to be remade, which was a devastating process for everyone. Sridevi eventually agreed to star in the lead role, elevating the movie's quality. She had previously rejected the Tamil and Telugu versions of the same story. Bazmee's script revisions convinced Sridevi to accept the challenging Hindi remake.",
+    "img": "https://static.toiimg.com/photo/msid-132808181,imgsize-282076.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anees-bazmee-recalls-shooting-with-divya-bharti-a-day-before-she-passed-away-her-last-shot-was-her-saying-mujhe-bachaao-after-her-demise-she-was-replaced-by-sridevi/articleshow/132808139.cms",
+    "time": "2026-08-02T14:02:10.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Four killed, two injured in central China apartment building fire",
+    "desc": "Firefighters rescued the six people from the high-rise residential building and sent them to the hospital for treatment. Four of them later died despite medical efforts, while the remaining two are still receiving medical treatment, says sources",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/fire-in-central-chinas-changsha-apartment-building-kills-few/article71297937.ece",
+    "time": "2026-08-02T13:25:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nauheed reveals having two miscarriages when asked about not having kids",
+    "desc": "Actress Nauheed Cyrusi candidly addressed her personal journey with pregnancy loss. She shared her emotional experiences after two miscarriages with her husband. The couple found new purpose and joy in adopting a special needs dog. They have also dedicated themselves to animal welfare work over the years. Nauheed explained her decision against further fertility treatments for now.",
+    "img": "https://static.toiimg.com/photo/msid-132807648,imgsize-237200.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nauheed-cyrusi-reveals-she-went-through-two-miscarriages-when-asked-why-she-doesnt-have-kids-didnt-want-to-do-ivf-our-purpose-in-life-has-to-be-something-more-than-just-getting-babies/articleshow/132807654.cms",
+    "time": "2026-08-02T13:25:22.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "'A disaster with no alternative': Chhetri on Jamshedpur FC’s ISL exit",
     "desc": "Sunil Chhetri calls Jamshedpur FC’s exit from the ISL a major setback for Indian football. The Tata Group-owned club plans to shut operations after the Durand Cup. Chhetri praises Tata’s contribution through TFA and Jamshedpur FC, warning that its absence will hurt the league. He urges the owners to “pick heart over head” and reconsider their decision.",
@@ -9,15 +171,6 @@ const newsData_en = [
     "time": "2026-08-02T12:41:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Can BJP crack Punjab? Inside its strategy to challenge AAP and Congress in 2027",
-    "desc": "The BJP is implementing a detailed strategy to gain ground in Punjab. Prime Minister Modi's visits and outreach to the Ravidassia community are key. The party is acquiring prominent leaders from rival parties to strengthen its organization. New state leadership aims to connect with Sikh voters and expand rural reach. The BJP is also attacking rivals while promising development and prosperity.",
-    "img": "https://static.toiimg.com/photo/msid-132806867,imgsize-135936.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/can-bjp-crack-punjab-inside-its-strategy-to-challenge-aap-and-congress-in-2027/articleshow/132806552.cms",
-    "time": "2026-08-02T12:37:12.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Akshay Kumar and Neeraj Pandey reunite after more than a decade",
     "desc": "Akshay Kumar and Neeraj Pandey are teaming up once again to create a biopic centered around the iconic music composer R.D. Burman. Farhan Akhtar is set to portray Burman in what promises to be an extraordinary film. Upon hearing the character's compelling story, Akshay Kumar has accepted a special role. With thorough pre-production efforts, the team is dedicated to faithfully depicting Burman's remarkable musical legacy.",
@@ -25,15 +178,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-and-neeraj-pandey-reunite-after-more-than-a-decade-haiwan-actor-joins-farhan-akhtars-ambitious-r-d-burman-biopic-reports/articleshow/132806831.cms",
     "time": "2026-08-02T12:36:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Over 26,000 government primary schools shut in U.P. after BJP came to power: Akhilesh Yadav",
-    "desc": "The highest number of closures took place in Lakhimpur Kheri, where 758 schools were shut, followed by Sitapur (650) and Prayagraj (638). In Gorakhpur, the home district of Chief Minister Yogi Adityanath, around 500 primary schools were closed, says Akhilesh Yadav",
-    "img": "https://th-i.thgim.com/public/incoming/pbupkl/article71297738.ece/alternates/LANDSCAPE_1200/20260802111L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttar-pradesh/over-26000-government-primary-schools-shut-in-up-after-bjp-came-to-power-akhilesh-yadav/article71297682.ece",
-    "time": "2026-08-02T12:19:01.000Z"
   },
   {
     "cat": "Business",
@@ -88,15 +232,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/in-map-of-india-our-north-east-is-missing-cwg-2026-medallist-lovlina-borgohain-reveals-feeling-hurt-in-glasgow/articleshow/132805482.cms",
     "time": "2026-08-02T11:23:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Drugs-free youth crucial for developed India, says PM Modi, launches campaign",
-    "desc": "Prime Minister Narendra Modi says as India has set the goal of becoming a developed country, it is essential for the youth to remain physically and mentally fit, and therefore stay away from drug abuse",
-    "img": "https://th-i.thgim.com/public/incoming/i7az5t/article71297285.ece/alternates/LANDSCAPE_1200/PTI08_02_2026_000107B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/pm-modi-launches-nasha-mukt-yuva-abhiyan-says-drug-free-youth-crucial-for-viksit-bharat/article71297284.ece",
-    "time": "2026-08-02T11:18:41.000Z"
   },
   {
     "cat": "Entertainment",
@@ -162,15 +297,6 @@ const newsData_en = [
     "time": "2026-08-02T10:30:23.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Decision on declaring drought by August end, Chief Minister D.K. Shivakumar",
-    "desc": "Ministers will provide ground report and that will be compiled by the Revenue Department based on the norms; the final assessment would be discussed in the Cabinet and then submitted to the Government, said D.K. Shivakumar",
-    "img": "https://th-i.thgim.com/public/incoming/x5thit/article71297496.ece/alternates/LANDSCAPE_1200/5964_1_8_2026_20_53_24_2_CMDKSHIIVAKUMAR.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/decision-on-declaring-drought-by-august-end-chief-minister-dk-shivakumar/article71297485.ece",
-    "time": "2026-08-02T10:27:46.000Z"
-  },
-  {
     "cat": "Business",
     "title": "From differential rates to daily disclosures, here's what's changing",
     "desc": "The Reserve Bank of India has revised rules for bulk deposits, effective October 2026. Banks can now offer differential interest rates based on liquidity risk under the LCR framework. This move aligns deposit pricing with revised LCR guidelines for better asset-liability management. Mandatory daily public disclosure of bulk deposit rates will enhance transparency for customers. However, uniform rates will continue for similarly placed depositors across all branches.",
@@ -189,15 +315,6 @@ const newsData_en = [
     "time": "2026-08-02T10:16:45.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Celebrated at birth, pushed into sex work",
-    "desc": "Unlike most communities in India, the Banchhadas in M.P. invest more in their daughters’ upbringing than in their sons’, by giving them better nutrition and clothes, only so that they can force them into sex work and live off their earnings. Branded a ‘criminal tribe’ by the British and now classified as a Scheduled Caste, the community remains on society’s margins as government and NGOs have struggled to break the cycle, reports Mehul Malpani",
-    "img": "https://th-i.thgim.com/public/incoming/psewpg/article71291025.ece/alternates/LANDSCAPE_1200/DSC_5897%20copy.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/madhya-pradesh/celebrated-at-birth-pushed-into-sex-work/article71290516.ece",
-    "time": "2026-08-02T10:15:51.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Rs 20,200 cr injected into equities after months of selling",
     "desc": "Foreign portfolio investors returned to Indian equities in July after four months of outflows. They invested twenty thousand two hundred crore rupees in stocks during July. This renewed interest stems from attractive valuations and improving corporate earnings. Foreign investors also showed strong interest in the Indian debt market during July. Overseas developments and domestic events will guide future investment directions.",
@@ -214,15 +331,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/so-sad-my-bestie-couldnt-how-blake-lively-asked-taylor-swift-to-share-statement-of-support-during-justin-baldoni-case/articleshow/132804420.cms",
     "time": "2026-08-02T09:57:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "The reason behind actresses' social media exits EXPLAINED",
-    "desc": "Several actresses are leaving social media platforms due to online harassment. Aishwarya Lekshmi and Mamitha Baiju cited mental stress from fake content. Deepfake technology and cyberbullying pose serious threats to women online. Protecting mental well-being is now prioritized over online popularity. Stronger online safety measures and responsible behavior are urgently needed.",
-    "img": "https://static.toiimg.com/photo/msid-132804468,imgsize-136685.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/from-aishwarya-lekshmi-to-mamitha-baiju-the-reason-behind-actresses-social-media-exits-explained/articleshow/132804453.cms",
-    "time": "2026-08-02T09:55:05.000Z"
   },
   {
     "cat": "Business",
@@ -244,24 +352,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "EPFO CEO",
-    "desc": "The recent reforms seek to simplify access to Provident Fund savings rather than merely digitise services, says the EPFO Chief Executive Officer. He explains the rationale behind changes to claim settlement and withdrawals, and says the Social Security Code expands social security coverage to workers in the unorganised sector",
-    "img": "https://th-i.thgim.com/public/incoming/6cix00/article71297312.ece/alternates/LANDSCAPE_1200/_SKP6039.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/technology-must-be-backed-by-process-reforms-epfo-ceo/article71292119.ece",
-    "time": "2026-08-02T09:33:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Friendship Day celebrations turn tragic, as two youths feared drowned in Vizag beach",
-    "desc": "As the group was posing on the rock, a huge wave crashed against it, sweeping a 19-year-old woman into the sea; in an attempt to save the woman, her friend, a 25-year-old man immediately jumped into the water",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Visakhapatnam/friendship-day-celebrations-turn-tragic-as-two-youths-feared-drowned-in-vizag-beach/article71297422.ece",
-    "time": "2026-08-02T09:31:29.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "'He will not be taken back': Mayawati expels former MP Ashok Siddharth from BSP again",
     "desc": "Bahujan Samaj Party president Mayawati expelled former Rajya Sabha member Ashok Siddarth from the party. Siddarth faced expulsion for indiscipline and violating party directives in several states. The party chief also announced the expulsion of coordinator Randhir Singh Beniwal for similar reasons. Mayawati clarified that senior Uttar Pradesh office-bearers would not hold state roles. Ramji Gautam will continue as Punjab in-charge until upcoming assembly and Lok Sabha polls.",
     "img": "https://static.toiimg.com/photo/msid-132804250,imgsize-130096.cms",
@@ -280,48 +370,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Quote of the day by Al Pacino",
-    "desc": "Al Pacino shared his perspective on the difficulty and impact of change. He believes accepting change leads to positive and greater outcomes. Pacino's career spans iconic roles in films like The Godfather and Serpico. He has fathered four children and has a net worth of USD 40 million. The legendary actor continues to influence cinema and inspire many generations.",
-    "img": "https://static.toiimg.com/photo/msid-132804023,imgsize-252498.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-al-pacino-a-change-is-a-very-difficult-thing-for-us-to-do-but-it-changes-everything-when-you-do-it-a-piece-of-life-advice-from-the-godfather-star/articleshow/132804038.cms",
-    "time": "2026-08-02T09:26:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "When Amitabh remembered Dharmendra with emotional words",
     "desc": "In a heartfelt homage to Dharmendra, Amitabh Bachchan celebrated their enduring friendship, which began with Dharmendra’s pivotal endorsement for the legendary film Sholay. Dharmendra's genuine warmth and simplicity have always resonated with Amitabh, leading to memorable on-screen partnerships in classics such as Chupke Chupke and Naseeb, creating a bond that is commemorated within the rich legacy of Bollywood.",
     "img": "https://static.toiimg.com/photo/msid-132804046,imgsize-116366.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/friendship-day-when-amitabh-bachchan-remembered-dharmendra-with-emotional-words-a-vacuum-that-shall-ever-remain-vacuus/articleshow/132804022.cms",
     "time": "2026-08-02T09:05:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Aarti's mother Sujatha Vijayakumar's special advice to Ravi Mohan",
-    "desc": "Sujatha Vijayakumar urged Ravi Mohan to be a better father to his sons. She rejected his allegations and presented documents supporting her family's claims. The producer stated that Ravi had not cooperated with passport signings for the children. She also announced a memorial event for filmmakers Bharathiraja and K. Bhagyaraj. The ongoing court case between Ravi Mohan and Aarti remains pending.",
-    "img": "https://static.toiimg.com/photo/msid-132803816,imgsize-175597.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/aartis-mother-sujatha-vijayakumars-special-advice-to-ravi-mohan-be-the-father-your-son-will-speak-about-with-pride-like-jason-sanjay-speaks-of-vijay/articleshow/132803790.cms",
-    "time": "2026-08-02T08:52:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Mayawati welcomes U.P. govt. decision to restore Sant Ravidas Nagar district name, hits out at Samajwadi Party",
-    "desc": "Government has re-established Sant Ravidas Nagar district, which was created by the BSP government by giving headquarters status to Bhadohi and which was changed by the Samajwadi Party government due to its narrow casteist mindset, for which the party is grateful to the State government, says Mayawati",
-    "img": "https://th-i.thgim.com/public/incoming/livojn/article71293389.ece/alternates/LANDSCAPE_1200/PTI07_10_2026_000166A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttar-pradesh/mayawati-welcomes-up-govt-decision-to-restore-sant-ravidas-nagar-district-name-hits-out-at-samajwadi-party/article71291099.ece",
-    "time": "2026-08-02T08:52:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Brad Pitt’s French château winery comes under risk after wildfires",
-    "desc": "Wildfires are currently burning near Brad Pitt's French Château Miraval estate. Firefighters successfully used water from the property's private lake to combat the blaze. Meanwhile, George and Amal Clooney evacuated their Provence home due to the extreme heat wave. Brad Pitt and Angelina Jolie continue their decade-long legal dispute over the estate. The former couple's fight for Château Miraval persists after their separation.",
-    "img": "https://static.toiimg.com/photo/msid-132803785,imgsize-140639.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brad-pitts-french-chteau-winery-comes-under-risk-after-terrible-wildfires-spread-across-europe/articleshow/132803792.cms",
-    "time": "2026-08-02T08:51:25.000Z"
   },
   {
     "cat": "Sports",
@@ -351,15 +405,6 @@ const newsData_en = [
     "time": "2026-08-02T08:09:48.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Indian diaspora in China flags anti-India social media posts, visa curbs at 1st embassy outreach",
-    "desc": "Indian diaspora members voiced concerns over anti-India content and visa issues. Ambassador Vikram Doraiswami assured actions were being taken to address these matters. Visa requirements for Chinese citizens traveling to India will be eased soon. The embassy plans to establish a legal assistance framework for professionals. Cultural outreach programs will also be expanded to promote Indian diversity.",
-    "img": "https://static.toiimg.com/photo/msid-132803393,imgsize-606269.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/indian-diaspora-in-china-flags-anti-india-social-media-posts-visa-curbs-at-1st-embassy-outreach/articleshow/132803270.cms",
-    "time": "2026-08-02T08:04:34.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Did you know Ajinkya Deo auditioned for Dashrath? read how he bagged Vishwamitra role",
     "desc": "Ajinkya Deo initially auditioned for King Dashrath in Nitesh Tiwari's 'Ramayana'. Veteran actor Arun Govil was later finalized for the role of Dashrath. Deo then accepted the significant role of Sage Vishwamitra in the epic film. Several look tests were conducted to finalize his appearance as Vishwamitra. The film, featuring a star-studded cast, is slated for a November 2026 release.",
@@ -376,15 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/exclusive-jasprit-bumrah-ruled-out-of-sri-lanka-test-series/articleshow/132802698.cms",
     "time": "2026-08-02T07:32:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Abhijeet Dipke, Ashutosh Ranka and Saurav Das",
-    "desc": "Fuelled by viral outrage and youthful anger, the Cockroach Janta Party’s rapid rise was driven by three very different men whose skills, ambitions and political histories transformed a satirical online campaign into a national protest that brought down Union Education Minister Dharmendra Pradhan",
-    "img": "https://th-i.thgim.com/public/news/national/pp9soz/article71295800.ece/alternates/LANDSCAPE_1200/CJP_Artx.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/abhijeet-dipke-ashutosh-ranka-and-saurav-das-the-three-faces-of-a-revolt/article71295809.ece",
-    "time": "2026-08-02T06:33:32.000Z"
   },
   {
     "cat": "Sports",
@@ -468,15 +504,6 @@ const newsData_en = [
     "time": "2026-08-02T02:52:46.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "India win seven boxing golds as Preeti Pawar sets the tone",
-    "desc": "Preeti Pawar initiated India's gold medal streak in boxing at the Commonwealth Games. Several other Indian boxers followed her lead, securing multiple gold medals. Jaismine Lamboria and Sakshi Chaudhary also won their respective finals convincingly. Priya Ghanghas and Arundhati Choudhary added to the gold medal tally with strong performances. However, some Indian boxers like Jadumani Singh and Lovlina Borgohain secured silver and lost their finals.",
-    "img": "https://static.toiimg.com/photo/msid-132799340,imgsize-156252.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-india-win-seven-boxing-golds-as-preeti-pawar-sets-the-tone/articleshow/132799337.cms",
-    "time": "2026-08-02T02:35:23.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Passenger vehicle sales hit top gear as July dispatches jump 33%; Maruti, Hyundai set records",
     "desc": "India's passenger vehicle sales saw robust growth in July. Leading manufacturers like Maruti Suzuki and Hyundai reported record monthly dispatches. Tata Motors and Mahindra & Mahindra also posted substantial increases in their sales. This strong momentum was supported by government demand-boosting measures. Automakers benefited from favorable economic conditions throughout the month.",
@@ -495,15 +522,6 @@ const newsData_en = [
     "time": "2026-08-02T01:57:19.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Misses CWG gold, makes big Asian Games promise: Berwal vows strong comeback",
-    "desc": "Narender Berwal earned a silver medal in the Commonwealth Games boxing finals. He lost a close heavyweight bout to England's Damar Thomas. Berwal expressed determination to improve and succeed at the upcoming Asian Games. Indian boxers experienced several narrow losses, impacting their overall medal potential. The team achieved its most successful Commonwealth Games boxing campaign with ten medals.",
-    "img": "https://static.toiimg.com/photo/msid-132799054,imgsize-32555.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/misses-cwg-gold-makes-big-asian-games-promise-india-boxer-narender-berwal-vows-strong-comeback/articleshow/132799045.cms",
-    "time": "2026-08-02T01:48:09.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Friendships that shaped Bengal’s cinema, literature, art and politics.",
     "desc": "What did Satyajit Ray do when he couldn’t bring himself to say “Action”? Who taught Jyoti Basu to drink Scotch, and why did two artists in Shantiniketan bond over Beethoven instead of Bengal? Revisit the surprising and deeply human friendships that shaped Bengal’s greatest films, books, politics and art.",
@@ -511,15 +529,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/life-and-style/friendship-day-2026-friendships-that-shaped-bengals-cinema-literature-art-and-politics/article71293643.ece",
     "time": "2026-08-02T01:42:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "0-5 down, gold at the end: How boxer Panghal turned the tide to win CWG title",
-    "desc": "Ankush Panghal secured the men's 80kg gold medal with a remarkable comeback victory. He overcame a significant deficit to defeat England's Dimeji Shittu in the final bout. This win contributed to India's most successful boxing campaign ever at the Commonwealth Games. India achieved seven gold and three silver medals in total across the boxing events. The women's team notably secured five gold medals during the competition.",
-    "img": "https://static.toiimg.com/photo/msid-132798974,imgsize-41901.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/0-5-down-gold-at-the-end-how-boxer-ankush-panghal-turned-the-tide-to-win-cwg-title/articleshow/132798964.cms",
-    "time": "2026-08-02T01:15:23.000Z"
   },
   {
     "cat": "World",
@@ -547,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/5-9-crore-returns-filed-till-july-31-deadline-i-t-dept/articleshow/132798495.cms",
     "time": "2026-08-01T22:37:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India soar to fourth place with stunning 16-medal haul",
-    "desc": "India enjoyed its biggest day of the 2026 Commonwealth Games, winning 16 medals to climb to fourth in the standings with one day remaining. A historic boxing haul of seven golds and three silvers led the surge, while medals in para athletics, athletics and judo lifted India's tally to 39 medals (13 gold, 17 silver and nine bronze) in Glasgow.",
-    "img": "https://static.toiimg.com/photo/msid-132796834,imgsize-1374696.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-day-10-medal-table-india-soar-to-fourth-place-after-sensational-16-medal-blitz-in-glasgow/articleshow/132796674.cms",
-    "time": "2026-08-01T21:43:18.000Z"
   },
   {
     "cat": "Business",
@@ -693,24 +693,6 @@ const newsData_en = [
     "time": "2026-08-01T09:47:24.000Z"
   },
   {
-    "cat": "Business",
-    "title": "US crude bound for Israel for first time since 2023",
-    "desc": "A US crude oil cargo is heading to Israel after almost three years. The Aframax tanker Captain John loaded the oil in Texas on Thursday. This shipment carries approximately 550,000 barrels of West Texas Intermediate crude. The vessel is chartered by the global trading house Vitol for this journey. This event occurs amid ongoing disruptions in the Strait of Hormuz.",
-    "img": "https://static.toiimg.com/photo/msid-132785624,imgsize-396450.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/us-crude-bound-for-israel-for-first-time-since-2023/articleshow/132785392.cms",
-    "time": "2026-08-01T08:43:58.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "GST collections jump 15.4% to over Rs 2.11 lakh crore in July",
-    "desc": "India's gross Goods and Services Tax collections reached over Rs 2.11 lakh crore in July. This represents a significant 15.4 percent increase compared to the previous year. Higher revenues from both domestic transactions and imports contributed to this strong performance. The government also maintained a healthy pace of refunds, totaling Rs 29,968 crore. Net GST revenue after refunds remained robust, indicating sustained growth in the indirect tax base.",
-    "img": "https://static.toiimg.com/photo/msid-132783986,imgsize-546231.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gst-collections-jump-15-4-to-over-rs-2-11-lakh-crore-in-july/articleshow/132783496.cms",
-    "time": "2026-08-01T06:58:38.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Discovery announces documentary on Operation Sindoor, to premiere on Aug 15",
     "desc": "The documentary follows the events from the strategic deliberations after the Pahalgam terror attack in April last year to the launch and execution of Operation Sindoor on May 7, offering a behind-the-scenes account of the conflict.",
@@ -837,15 +819,6 @@ const newsData_en = [
     "time": "2026-07-30T23:45:27.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Root",
-    "desc": "The talismanic player has found a second wind in ODIs by leading the scoring charts since the start of 2025. As England tries to reset its one-day game in the lead-up to the 2027 World Cup, the 35-year-old’s role as the nation’s batting lynchpin has never been more pronounced",
-    "img": "https://th-i.thgim.com/public/incoming/dtfswu/article71287719.ece/alternates/LANDSCAPE_1200/GettyImages-2286804576.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/root-purveyor-of-all-round-excellence/article71287693.ece",
-    "time": "2026-07-30T18:36:47.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "The viral Chuvarbot 2.0 secures productisation grant from Kerala Startup Mission",
     "desc": "The graffiti painting start-up, which garnered social media attention during the 2026 Kerala Assembly elections, has secured a grant of ₹12 lakhs from the Kerala Startup Mission. The product, currently in its prototype stage, is set to launch by the end of 2026",
@@ -898,5 +871,32 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
     "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
+    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
+    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
+    "time": "2024-03-12T09:45:05.000Z"
   }
 ];

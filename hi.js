@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "How many medals did India win at Commonwealth Games 2026 in Glasgow?",
+    "desc": "India's campaign at the Glasgow Commonwealth Games 2026 came to an end on Sunday evening, drawing the curtains to a pretty impressive run in the Scottish city. India produced several memorable performances at the Glasgow...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/how-many-medals-did-india-win-at-commonwealth-games-2026-in-glasgow-2026-08-02-1050168",
+    "time": "2026-08-02T15:53:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mirabai Chanu wants to find the missing piece in her illustrious medal cabinet at Asian Games",
+    "desc": "India weightlifting icon Mirabai Chanu has all the other major medals in her cabinet, but an Asian Games podium finish has eluded the great Manipuri. As she clinched a fourth-straight medal and third gold in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/mirabai-chanu-wants-to-find-the-missing-piece-in-her-illustrious-medal-cabinet-at-asian-games-2026-08-02-1050165",
+    "time": "2026-08-02T14:40:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCCI name India squad for upcoming Women's Asia Cup 2026, Prema Rawat retains her spot",
+    "desc": "In a major development, the BCCI (Board of Control for Cricket in India) took centre stage and announced India’s squad for the upcoming Women’s Asia Cup 2026. It is interesting to note that veteran batter...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-name-india-squad-for-upcoming-women-s-asia-cup-2026-prema-rawat-retains-her-spot-2026-08-02-1050161",
+    "time": "2026-08-02T13:29:32.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Lovlina Borgohain points out incorrect India map at Glasgow restaurant, owner issues response",
     "desc": "Indian boxer Lovlina Borgohain has captured the hearts of many across the country after video of hers has been making the rounds all over social media. In the video that has been going viral, Lovlina...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/check-commonwealth-games-2026-day-11-schedule-where-can-india-shine-on-august-2-2026-08-02-1050132",
     "time": "2026-08-02T05:50:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gulveer Singh scripts history with 5000m bronze, becomes first Indian to win two athletics medals at CWG",
-    "desc": "Indian long-distance runner Gulveer Singh created history on Saturday by becoming the first Indian to win a medal in the men's 5000m at the Commonwealth Games. The reigning Asian champion clinched the bronze medal to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/gulveer-singh-5000m-bronze-first-indian-two-athletics-medals-commonwealth-games-2026-08-02-1050113",
-    "time": "2026-08-02T00:58:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India win 16 medals in Commonwealth Games on August 1, check full list of winners",
-    "desc": "India produced one of their most successful days at the Commonwealth Games 2026 on August 1. The contingent won a remarkable haul of 16 medals across boxing, athletics and judo. The country’s biggest contribution came...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/india-win-16-medals-in-commonwealth-games-on-august-1-check-full-list-of-winners-2026-08-02-1050112",
-    "time": "2026-08-01T19:28:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sachin Siwach, Ankush Panghal cap historic day for Indian boxing with Commonwealth Games golds",
-    "desc": "Indian boxers Sachin Siwach and Ankush Panghal delivered a memorable finish to the Commonwealth Games 2026, winning gold medals in the men’s 60kg and 80kg categories respectively. The victories helped India complete a highly successful...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/sachin-siwach-ankush-panghal-cap-historic-day-for-indian-boxing-with-commonwealth-games-golds-2026-08-02-1050111",
-    "time": "2026-08-01T18:38:59.000Z"
   }
 ];
