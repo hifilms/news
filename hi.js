@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Gulveer Singh scripts history with 5000m bronze, becomes first Indian to win two athletics medals at CWG",
+    "desc": "Indian long-distance runner Gulveer Singh created history on Saturday by becoming the first Indian to win a medal in the men's 5000m at the Commonwealth Games. The reigning Asian champion clinched the bronze medal to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/gulveer-singh-5000m-bronze-first-indian-two-athletics-medals-commonwealth-games-2026-08-02-1050113",
+    "time": "2026-08-02T00:58:20.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India win 16 medals in Commonwealth Games on August 1, check full list of winners",
     "desc": "India produced one of their most successful days at the Commonwealth Games 2026 on August 1. The contingent won a remarkable haul of 16 medals across boxing, athletics and judo. The country’s biggest contribution came...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/jadumani-singh-settles-for-silver-in-boxing-india-secure-30th-medal-in-commonwealth-games-2026-2026-08-01-1050079",
     "time": "2026-08-01T11:35:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India secure double podium finish in triple jump at Commonwealth Games, Praveen Chithravel redeems himself",
-    "desc": "Indian athletes Praveen Chithravel and Selva Prabhu Thirumaran propelled India to double delight in the triple jump event at the Commonwealth Games 2026 as they secured a double podium finish on Saturday, August 1. Praveen,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/india-secure-double-podium-finish-in-triple-jump-at-commonwealth-games-praveen-chithravel-redeems-himself-2026-08-01-1050076",
-    "time": "2026-08-01T11:01:32.000Z"
   }
 ];
