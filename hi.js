@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Former India cricketer weighs in on Vaibhav Sooryavanshi's appointment as East Zone vice-captain",
+    "desc": "The stage is set for another edition of the Duleep Trophy. The marquee tournament is all set to kick off from August 23. Ahead of the tournament, the various sides have been announcing their squad,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-weighs-in-on-vaibhav-sooryavanshi-s-appointment-as-east-zone-vice-captain-2026-08-02-1050140",
+    "time": "2026-08-02T08:09:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hardik Pandya goes bald, sports new look as he offers prayers at Venkateswara Swamy temple",
+    "desc": "Star India all-rounder Hardik Pandya has made headlines after he was spotted with a completely shaved head while offering prayers at the Sri Venkateswara Swamy Temple in Tirumala. It is worth noting that Pandya was...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-goes-bald-sports-new-look-as-he-offers-prayers-at-venkateswara-swamy-temple-watch-2026-08-02-1050137",
+    "time": "2026-08-02T07:07:30.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Check Commonwealth Games 2026 Day 11 schedule; Where can India shine on August 2?",
     "desc": "The stage is set for the final day of the ongoing Commonwealth Games 2026, the Indian contingent put forth a marvellous performance throughout the games, and ahead of the final, India have won 39 medals...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/joe-root-reveals-reason-behind-accepting-england-s-test-captaincy-role-again-2026-08-01-1050096",
     "time": "2026-08-01T14:07:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Central Zone announce squad for Duleep Trophy, IPL champion named captain, while Rinku named VC",
-    "desc": "Central Zone have confirmed their squad for the upcoming Duleep Trophy. Madhya Pradesh captain Rajat Patidar will lead the side as they seek to retain the domestic first-class title. Notably, the competition begins on August...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/central-zone-announce-squad-for-duleep-trophy-ipl-champion-named-captain-while-rinku-named-vc-2026-08-01-1050091",
-    "time": "2026-08-01T13:33:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India add another gold medal at Commonwealth Games with famous 1-2 podium finish in shot put F57",
-    "desc": "India have added another gold medal to their kitty at the Commonwealth Games as Soman Rana won the yellow metal in the shot put F57 category, with Shubham Juyal taking the silver in a memorable...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/india-add-another-gold-medal-at-commonwealth-games-with-famous-double-podium-finish-in-shot-put-f57-2026-08-01-1050081",
-    "time": "2026-08-01T11:48:40.000Z"
   }
 ];
