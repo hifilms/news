@@ -1,5 +1,86 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "'Spider-Man' records USD 927 million worldwide box office debut",
+    "desc": "Brand New Day achieved a massive $355 million opening weekend. This performance made it the second-biggest North American debut ever. The film's global earnings reached $927 million in its initial release. This success contributed to the biggest weekend for North American movie theaters. Tom Holland's performance in the movie was highly praised by critics and audiences.",
+    "img": "https://static.toiimg.com/photo/msid-132813724,imgsize-440525.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/spider-man-brand-new-day-records-usd-927-million-worldwide-debut-tom-hollan-starrer-scores-second-biggest-opening-behind-avengers-endgame/articleshow/132813695.cms",
+    "time": "2026-08-02T21:16:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Students continue protests in Ranchi over alleged JPSC, JSSC exam irregularities, demand CBI probe",
+    "desc": "The protesters are demanding cancellation of the 14th JPSC Combined Preliminary Test held on April 19 and an independent probe by central agencies, including the CBI and Enforcement Directorate (ED), into alleged irregularities in recruitment examinations",
+    "img": "https://th-i.thgim.com/public/incoming/d11uid/article71299034.ece/alternates/LANDSCAPE_1200/20260802347L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jharkhand/students-continue-protests-in-ranchi-over-alleged-jpsc-jssc-exam-irregularities-demand-cbi-probe/article71299030.ece",
+    "time": "2026-08-02T21:05:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India secure top-four finish at 2026 Commonwealth Games after historic 39-medal campaign",
+    "desc": "India finished fourth at the 2026 Commonwealth Games in Glasgow with 39 medals (13 gold, 17 silver and nine bronze), despite failing to add to their tally on the final day. A record 16-medal haul on Saturday sealed their position, with boxing leading the charge. The campaign also featured several historic milestones ahead of the 2030 Games in Ahmedabad.",
+    "img": "https://static.toiimg.com/photo/msid-132813653,imgsize-1374696.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/india-secure-top-four-finish-at-2026-commonwealth-games-after-historic-39-medal-campaign/articleshow/132813477.cms",
+    "time": "2026-08-02T20:31:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Om Puri confessed about his affair with maid to his first wife a day before the wedding",
+    "desc": "Seema Kapoor shared details about her marriage to Om Puri and their painful separation. She revealed Om Puri confessed an affair just before their wedding ceremony. Kapoor also alleged Om Puri cheated with his second wife, Nandita, leading to their divorce. She lost her unborn child during the difficult period of their separation. Om Puri passed away in January 2017 at the age of sixty-six.",
+    "img": "https://static.toiimg.com/photo/msid-132813615,imgsize-298708.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/om-puri-confessed-about-his-affair-with-maid-to-his-first-wife-a-day-before-they-got-married-couldnt-cancel-the-wedding-women-these-days-are-more-courageous/articleshow/132813565.cms",
+    "time": "2026-08-02T19:58:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sunil Chhetri",
+    "desc": "Jamshedpur FC, winners of the ISL Winners' Shield in the 2021-22 season, had announced their withdrawal from the ISL on July 31 just hours after missing the deadline for payment of participation fee for the upcoming season, beginning September 4",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/jamshedpur-fc-pulling-out-of-isl-a-punch-in-the-gut-sunil-chhetri/article71298995.ece",
+    "time": "2026-08-02T19:58:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tanveer does it again for Team Petronas TVS Racing",
+    "desc": "Riding a TVS RTR 450cc, the Mysuru racer had to fight a bit hard at the start to gain that early lead. And, once he did, there was no turning back. He kept increasing it and eventually reached home much to the joy of his team",
+    "img": "https://th-i.thgim.com/public/sport/lwuzv0/article71298161.ece/alternates/LANDSCAPE_1200/Overall%20winner.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/tanveer-does-it-again-for-team-petronas-tvs-racing/article71298214.ece",
+    "time": "2026-08-02T19:36:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "M.K. Sanoo never saw continuous LDF rule as dangerous, says Pinarayi Vijayan",
+    "desc": "In what sounded like a veiled criticism of former Kerala Sahitya Akademi president K. Satchidanandan, Leader of the Opposition recalled how gracefully Sanoo had occupied the same position during an earlier tenure of the LDF",
+    "img": "https://th-i.thgim.com/public/incoming/3gvsjh/article71298700.ece/alternates/LANDSCAPE_1200/sanoo_award_01.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/mk-sanoo-never-thought-continuos-left-rule-will-be-dangerous-says-pinarayi-vijayan/article71298269.ece",
+    "time": "2026-08-02T19:31:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Dilip Kumar revealed why he changed his name from Yusuf Khan",
+    "desc": "Dilip Kumar adopted his screen name fearing his father's strong disapproval of the film industry. His father, a strict Pathan, was against his son entering cinema. Devika Rani suggested the name Dilip Kumar, and he debuted in 1944. His early films struggled, but Jugnu became his first major box-office success. Andaaz in 1949 marked his breakthrough as a major Bollywood superstar.",
+    "img": "https://static.toiimg.com/photo/msid-132813382,imgsize-424538.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-dilip-kumar-revealed-why-he-changed-his-name-from-yusuf-khan-i-feared-that-criticism/articleshow/132813340.cms",
+    "time": "2026-08-02T19:22:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SC warns Punjab for ignoring 15-yr-old ruling on dues to Himachal Pradesh",
+    "desc": "The Supreme Court criticized Punjab for its resistance to implementing an old decree. Attorney General Venkataramani proposed a cashless settlement for power dues. Himachal and Haryana agreed to the proposal, while Punjab raised objections. The court warned Punjab of consequences if it fails to comply. A final decision is expected on August 12.",
+    "img": "https://static.toiimg.com/photo/msid-132813385,imgsize-703971.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sc-warns-punjab-for-ignoring-15-yr-old-ruling-on-dues-to-himachal-pradesh/articleshow/132813376.cms",
+    "time": "2026-08-02T19:19:35.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Bumrah ruled out of Sri Lanka Test series, Auqib Nabi set to be drafted in",
     "desc": "The swelling in Bumrah’s knee seems to be more serious than it initially looked and the Sports Science team at Bengaluru's Centre of Excellence doesn't want to rush the seasoned pacer to the grind of international cricket",
@@ -126,15 +207,6 @@ const newsData_en = [
     "time": "2026-08-02T16:26:54.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "M.K. Sanoo never thought continuos Left rule will be dangerous, says Pinarayi Vijayan",
-    "desc": "In what sounded like a veiled criticism of former Kerala Sahitya Akademi president K. Satchidanandan, Leader of the Opposition recalled how gracefully Sanoo had occupied the same position during an earlier tenure of the LDF",
-    "img": "https://th-i.thgim.com/public/incoming/3gvsjh/article71298700.ece/alternates/LANDSCAPE_1200/sanoo_award_01.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/mk-sanoo-never-thought-continuos-left-rule-will-be-dangerous-says-pinarayi-vijayan/article71298269.ece",
-    "time": "2026-08-02T16:25:37.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Five gold medallists from Bhiwani power India’s best-ever CWG boxing haul",
     "desc": "Two others from Haryana also contributed a silver and a gold to India’s record haul of ten boxing medals; Bhiwani Boxing Club founder credits the victory to a return to team selection by open trials, rejecting controversial point-based assessment",
@@ -178,24 +250,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/kerala-floods-2026-death-toll-rises-to-11-over-7600-people-in-relief-camps/article71298571.ece",
     "time": "2026-08-02T16:04:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "DMK accuses State government of sleeping over Cauvery issue",
-    "desc": "Accusing the TVK Government of “sleeping over” a matter of immense importance to the State, Mr. Regupathy alleged Mr. Nirmalkumar had insulted the Opposition parties in Tamil Nadu as well as former Chief Minister M. Karunanidhi through his remarks",
-    "img": "https://th-i.thgim.com/public/incoming/68zdx5/article71298397.ece/alternates/LANDSCAPE_1200/1693_28_3_2025_14_46_27_2_DSC_8840.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/dmk-accuses-state-government-of-sleeping-over-cauvery-issue/article71298380.ece",
-    "time": "2026-08-02T15:55:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Govt likely to seek explanation from officials over letter which aided KAAPA-accused BJP councillor to secure leave",
-    "desc": "The letter, dated July 20, 2026 and signed by an Under Secretary on behalf of the Additional Chief Secretary, was sent to Mr. Sugathan in response to his request for an escort parole to take part in the council meeting on July 31",
-    "img": "https://th-i.thgim.com/public/incoming/ppgqxy/article71298521.ece/alternates/LANDSCAPE_1200/80688_14_7_2026_17_54_0_3_RSUGATHAN_KKN3.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/govt-likely-to-seek-explanation-from-officials-over-letter-which-aided-kaapa-accused-bjp-councillor-to-secure-leave/article71298432.ece",
-    "time": "2026-08-02T15:34:34.000Z"
   },
   {
     "cat": "Entertainment",
@@ -441,15 +495,6 @@ const newsData_en = [
     "time": "2026-08-02T10:26:48.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Mekedatu project is permanent solution': Karnataka CM DK Shivakumar on Cauvery water dispute with Tamil Nadu",
-    "desc": "Karnataka chief minister DK Shivakumar views the Mekedatu dam project as a permanent solution. He stated the Supreme Court and central government have already responded to the proposal. Shivakumar urged all stakeholders to move forward without further delays or wasting time. This project aims to bring both states to the table for amicable discussions. The Cauvery water dispute centers on sharing river waters during periods of low rainfall.",
-    "img": "https://static.toiimg.com/photo/msid-132804777,imgsize-106708.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/mekedatu-project-is-permanent-solution-karnataka-cm-dk-shivakumar-on-cauvery-water-dispute-with-tamil-nadu/articleshow/132804775.cms",
-    "time": "2026-08-02T10:16:45.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Rs 20,200 cr injected into equities after months of selling",
     "desc": "Foreign portfolio investors returned to Indian equities in July after four months of outflows. They invested twenty thousand two hundred crore rupees in stocks during July. This renewed interest stems from attractive valuations and improving corporate earnings. Foreign investors also showed strong interest in the Indian debt market during July. Overseas developments and domestic events will guide future investment directions.",
@@ -486,33 +531,6 @@ const newsData_en = [
     "time": "2026-08-02T09:40:35.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'He will not be taken back': Mayawati expels former MP Ashok Siddharth from BSP again",
-    "desc": "Bahujan Samaj Party president Mayawati expelled former Rajya Sabha member Ashok Siddarth from the party. Siddarth faced expulsion for indiscipline and violating party directives in several states. The party chief also announced the expulsion of coordinator Randhir Singh Beniwal for similar reasons. Mayawati clarified that senior Uttar Pradesh office-bearers would not hold state roles. Ramji Gautam will continue as Punjab in-charge until upcoming assembly and Lok Sabha polls.",
-    "img": "https://static.toiimg.com/photo/msid-132804250,imgsize-130096.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/he-will-not-be-taken-back-mayawati-expels-former-mp-ashok-siddharth-from-bsp-again/articleshow/132804004.cms",
-    "time": "2026-08-02T09:29:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kangana after meeting two Gen-Z girls in gym: 'You are free to live your life'",
-    "desc": "Kangana Ranaut recently spoke with two young women about growing up in the digital age. They discussed how technology is now inseparable from everyday life for Gen-Z. Ranaut stressed that personal freedom requires accountability and should not harm others. She previously faced criticism for calling Gen-Z the \"gutter generation.\" Ranaut also addressed misleading messages sent to young audiences on social media.",
-    "img": "https://static.toiimg.com/photo/msid-132804231,imgsize-130510.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-after-meeting-two-gen-z-girls-in-gym-you-are-free-to-live-your-life-freedom-needs-accountability/articleshow/132804238.cms",
-    "time": "2026-08-02T09:26:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When Amitabh remembered Dharmendra with emotional words",
-    "desc": "In a heartfelt homage to Dharmendra, Amitabh Bachchan celebrated their enduring friendship, which began with Dharmendra’s pivotal endorsement for the legendary film Sholay. Dharmendra's genuine warmth and simplicity have always resonated with Amitabh, leading to memorable on-screen partnerships in classics such as Chupke Chupke and Naseeb, creating a bond that is commemorated within the rich legacy of Bollywood.",
-    "img": "https://static.toiimg.com/photo/msid-132804046,imgsize-116366.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/friendship-day-when-amitabh-bachchan-remembered-dharmendra-with-emotional-words-a-vacuum-that-shall-ever-remain-vacuus/articleshow/132804022.cms",
-    "time": "2026-08-02T09:05:58.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'If visibility is reason, then blue jersey should never be worn again': Sreejesh",
     "desc": "The Indian men's and women's teams will wear saffron jerseys as their primary kit at the World Cup, which begins on August 15 in the Netherlands and Belgium. The move has drawn criticism from several former India captains. While Sreejesh said he has no problem with the jersey colour changing, he questioned the explanation that blue jerseys are difficult to see on blue hockey turfs.",
@@ -520,15 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/if-visibility-is-the-reason-then-blue-jersey-should-never-be-worn-again-sreejesh/articleshow/132803557.cms",
     "time": "2026-08-02T08:22:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When Shah Rukh Khan jokingly warned Aamir Khan against working with Kajol before calling her 'magical'",
-    "desc": "Bollywood stars Shah Rukh Khan and Kajol share a celebrated off-screen friendship spanning decades. Their memorable film collaborations, especially with Karan Johar, redefined romance for a generation. Shah Rukh Khan once humorously pranked Aamir Khan about Kajol's acting abilities. Kajol recalls their friendship began with a playful, grumpy request on a film set. This iconic partnership continues to be cherished by audiences across India.",
-    "img": "https://static.toiimg.com/photo/msid-132803508,imgsize-178446.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/happy-friendship-day-when-shah-rukh-khan-jokingly-warned-aamir-khan-against-working-with-kajol-before-calling-her-magical/articleshow/132803516.cms",
-    "time": "2026-08-02T08:17:27.000Z"
   },
   {
     "cat": "Sports",
@@ -646,15 +655,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/heat-wave-bringing-record-breaking-temps-heightened-wildfire-risk-to-parts-of-western-us/article71297047.ece",
     "time": "2026-08-02T00:26:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India’s medal-heavy day delivers seven boxing golds",
-    "desc": "India enjoyed its best day of the 2026 Commonwealth Games, winning 16 medals to climb to fourth in the standings with 39 medals overall. A historic boxing campaign delivered seven golds and three silvers, while athletics, para athletics and judo added six more medals. India also reached the mixed 4x400m relay final and remained in contention for more success on the final day.",
-    "img": "https://static.toiimg.com/photo/msid-132798500,imgsize-153654.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-indias-medal-heavy-saturday-delivers-seven-boxing-golds-16-medal-bonanza-and-fourth-place-rise/articleshow/132796848.cms",
-    "time": "2026-08-01T22:53:50.000Z"
   },
   {
     "cat": "Business",
