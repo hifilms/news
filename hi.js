@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Check Commonwealth Games 2026 Day 11 schedule; Where can India shine on August 2?",
+    "desc": "The stage is set for the final day of the ongoing Commonwealth Games 2026, the Indian contingent put forth a marvellous performance throughout the games, and ahead of the final, India have won 39 medals...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/check-commonwealth-games-2026-day-11-schedule-where-can-india-shine-on-august-2-2026-08-02-1050132",
+    "time": "2026-08-02T05:50:03.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Gulveer Singh scripts history with 5000m bronze, becomes first Indian to win two athletics medals at CWG",
     "desc": "Indian long-distance runner Gulveer Singh created history on Saturday by becoming the first Indian to win a medal in the men's 5000m at the Commonwealth Games. The reigning Asian champion clinched the bronze medal to...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/india-add-another-gold-medal-at-commonwealth-games-with-famous-double-podium-finish-in-shot-put-f57-2026-08-01-1050081",
     "time": "2026-08-01T11:48:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jadumani Singh settles for silver in boxing; India secure 30th medal in Commonwealth Games 2026",
-    "desc": "India's Jadumani Singh Mandengbam signed off with the silver medal in the men's 55kg boxing event at the Commonwealth Games 2026. He suffered a 5-0 unanimous decision defeat to Australia's Jye Dixon in the final...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/jadumani-singh-settles-for-silver-in-boxing-india-secure-30th-medal-in-commonwealth-games-2026-2026-08-01-1050079",
-    "time": "2026-08-01T11:35:18.000Z"
   }
 ];

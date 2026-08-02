@@ -1,5 +1,185 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "'In Harihar Nagar' gang reunites",
+    "desc": "After a 16-year hiatus, Malayalam cinema's cherished quartet is set to grace the big screen again in the much-anticipated film 'Pathira Kurukkan'. This spirited comedy entertainer will hit theaters this September, showcasing how the fates of four individuals intertwine in surprising ways. Notably, the talented actor Indrans takes on a crucial role in this delightful story.",
+    "img": "https://static.toiimg.com/photo/msid-132800819,imgsize-387947.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/pathira-kurukkan-announced-in-harihar-nagar-gang-reunites-jagadish-mukesh-siddique-ashokan-return-in-a-comedy-entertainer/articleshow/132800813.cms",
+    "time": "2026-08-02T05:19:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Parthiban seeks law for caste- and religion-free certificates",
+    "desc": "Actor Parthiban has filed a public interest litigation in the Madras High Court. He seeks a new law for caste and religion-free certificates across Tamil Nadu. This petition aims to create a clear legal process for all applicants. The court previously directed the government to frame guidelines for these applications. The case is scheduled for hearing on Monday, August 3.",
+    "img": "https://static.toiimg.com/photo/msid-132800815,imgsize-231915.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/parthiban-moves-high-court-again-seeks-law-for-caste-and-religion-free-certificates-across-tamil-nadu/articleshow/132800810.cms",
+    "time": "2026-08-02T05:19:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jon Bon Jovi's son Romeo Bongiovi on fame and music career",
+    "desc": "Young Romeo Bongiovi, son of iconic musician Jon Bon Jovi, values meaningful interactions over widespread recognition. While studying music at the University of Miami, he channeled his creativity into the band Lawn, which produced their debut EP. Jon is supportive, appreciating Romeo's drive for an independent career and artistic integrity.",
+    "img": "https://static.toiimg.com/photo/msid-132800570,imgsize-139728.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/jon-bon-jovis-son-romeo-bongiovi-says-he-doesnt-really-like-the-idea-of-celebrity-amid-his-music-career/articleshow/132800552.cms",
+    "time": "2026-08-02T04:54:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Warm-up match reduced from four days to three ahead of Test series",
+    "desc": "India's warm-up match against a Sri Lanka XI has been shortened. The practice game will now be played from August 7 to August 9. This fixture will take place at the NCC Ground in Colombo. The two-Test series against Sri Lanka begins on August 15. This series is part of the ongoing World Test Championship cycle.",
+    "img": "https://static.toiimg.com/photo/msid-132800536,imgsize-40595.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/india-vs-sri-lanka-warm-up-match-reduced-from-four-days-to-three-ahead-of-test-series/articleshow/132800514.cms",
+    "time": "2026-08-02T04:44:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Brooklyn Beckham and Nicola Peltz vacation with Elton John",
+    "desc": "Brooklyn Beckham and Nicola Peltz are vacationing with Elton John. The couple enjoyed a yacht trip in the South of France. This trip occurs amidst ongoing family disputes and wedding controversies. They were seen with Elton John and David Furnish on July 29, 2026. The article details their European holiday and past wedding issues.",
+    "img": "https://static.toiimg.com/photo/msid-132800308,imgsize-181947.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brooklyn-beckham-and-nicola-peltz-vacation-with-elton-john-in-france-amid-their-weddings-chaotic-rundown/articleshow/132800323.cms",
+    "time": "2026-08-02T04:43:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'We're very aligned': Joe Root reveals why Fleming won him over instantly",
+    "desc": "Joe Root expressed enthusiasm for leading England's Test team again. He cited incoming coach Stephen Fleming as a key reason for his excitement. Fleming's vision has Root looking forward to the team's future prospects. Root also acknowledged the positive impact of Brendon McCullum and Ben Stokes. England's next assignment is a home series against Pakistan in August.",
+    "img": "https://static.toiimg.com/photo/msid-132800442,imgsize-1056405.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/were-very-aligned-joe-root-reveals-why-stephen-fleming-won-him-over-instantly/articleshow/132800440.cms",
+    "time": "2026-08-02T04:33:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala braces for the possibility of heavy rains on August 2",
+    "desc": "The Indian Meteorological Department (IMD) has issued an orange alert for 12 districts; it has warned of heavy rains and the possibility of flash floods, mudslides, and road and neighbourhood inundation in Pathanamthitta, Alappuzha, Kottayam, Ernakulam, Idukki, Thrissur, Palakkad, Malappuram, Kozhikode, Wayanad, Kannur, and Kasargod districts.",
+    "img": "https://th-i.thgim.com/public/incoming/dxiuoj/article71297159.ece/alternates/LANDSCAPE_1200/80687_1_8_2026_20_35_12_1_IMG_20260801_WA0286.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Thiruvananthapuram/kerala-braces-for-the-possibility-of-heavy-rains-on-august-2/article71297154.ece",
+    "time": "2026-08-02T04:25:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Wrath of the Gods' filmmaker Justin Hardy passes away",
+    "desc": "British filmmaker Justin Hardy has sadly died at sixty-one. He recently concluded production on 'Wrath of the Gods', the final installment of the Wicker Man franchise, which embodies his father Robin Hardy's ultimate creative intent. Alongside directing, he shared his passion for filmmaking through teaching screenwriting and is celebrated for his imaginative talent and deep familial bonds.",
+    "img": "https://static.toiimg.com/photo/msid-132800169,imgsize-73820.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/justin-hardy-son-of-the-wicker-man-director-robin-hardy-passes-away-aged-61-following-a-heart-attack/articleshow/132800154.cms",
+    "time": "2026-08-02T04:22:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Questions will be asked': Ex-India star's message for Gambhir",
+    "desc": "Former India wicketkeeper Deep Dasgupta anticipates pressure on coach Gautam Gambhir and captain Shubman Gill. India has lost recent Test series, and this Sri Lanka tour is crucial. The team needs to show clear direction during this transition period. Winning seven out of nine remaining Tests is vital for WTC final hopes. Dasgupta stressed that no Test series can be taken lightly by India.",
+    "img": "https://static.toiimg.com/photo/msid-132800381,imgsize-34180.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/questions-will-be-asked-ex-india-stars-message-for-gautam-gambhir-before-sri-lanka-tests/articleshow/132800318.cms",
+    "time": "2026-08-02T04:20:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Punjab’s Dalits power politics with the purse",
+    "desc": "For generations, caste hierarchy in rural Punjab was written into society’s architecture, much like in other parts of India. Guru Ghar in Chak Hakim village of Phagwara is seen as a symbol of rising social, economic, religious, and political assertiveness of the Dalits, finds Vikas Vasudeva. With Punjab’s Assembly election early next year, all the political parties in the fray are wooing this group that is approximately one-third of the population",
+    "img": "https://th-i.thgim.com/public/incoming/65qe08/article71285074.ece/alternates/LANDSCAPE_1200/02_RVM_0985.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/punjab/punjabsdalitspower-politics-with-the-purse/article71285072.ece",
+    "time": "2026-08-02T03:58:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Maren Morris reveals Taylor Swift and Travis Kelce's heartfelt vows",
+    "desc": "Maren Morris revealed enchanting details from Taylor Swift and Travis Kelce's wedding at Madison Square Garden. The couple exchanged heartfelt vows, each lasting roughly twenty minutes, laced with light-hearted humor. Legendary musicians Paul McCartney and Stevie Nicks graced the occasion with live performances. Attendees included numerous stars from both the music and film industries, while the couple dazzled in custom Dior Haute Couture ensembles.",
+    "img": "https://static.toiimg.com/photo/msid-132799941,imgsize-115749.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/maren-morris-says-taylor-swift-and-travis-kelces-wedding-vows-were-beautiful-and-balanced-love-with-humour/articleshow/132799886.cms",
+    "time": "2026-08-02T03:30:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jack Osbourne shares glimpse of his 4-month-old 'mischievous' child",
+    "desc": "Jack Osbourne shared a sweet moment with his four-month-old daughter, Ozzy Matilda Osbourne. The youngest child already shows a mischievous spark, reminiscent of her grandfather. Ozzy Matilda was born in March 2026, honoring the late rock star. Jack and his wife Aree Osbourne welcomed their daughter into the world. This event offers a glimpse into Jack Osbourne's family life.",
+    "img": "https://static.toiimg.com/photo/msid-132799964,imgsize-296738.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/jack-osbourne-shares-glimpse-of-his-4-month-old-child-little-miss-ozz-already-has-a-mischievous-sparkle/articleshow/132799988.cms",
+    "time": "2026-08-02T03:30:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salman's authenticity resonates with Gen Z: 'Bhai Ke Dohe' creators",
+    "desc": "Two dedicated students have crafted a tribute to Salman Khan by compiling his social media posts into a delightful book named 'Bhai Ke Dohe'. Featuring his distinctive voice, this compilation unexpectedly resonated with audiences, resulting in a rapid sell-out of the initial print run. The creators are excitedly hopeful that Salman himself will appreciate their homage to his unique thoughts.",
+    "img": "https://static.toiimg.com/photo/msid-132799949,imgsize-529976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khans-authenticity-resonates-with-gen-z-share-creators-of-bhai-ke-dohe-the-collection-of-the-actors-tweets/articleshow/132799855.cms",
+    "time": "2026-08-02T03:29:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Chennai Love Story' crosses Rs 41.69 crore worldwide",
+    "desc": "Chennai Love Story continues to impress with its consistent performance during the second weekend, amassing a commendable Rs 2 crore net on its fifth day alone. The film's total net collection in India has surged to Rs 30.50 crore, bolstered by an additional Rs 15 lakhs from overseas markets on its ninth day. Overall, its worldwide gross has escalated to an impressive Rs 41.69 crore.",
+    "img": "https://static.toiimg.com/photo/msid-132799814,imgsize-934712.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/chennai-love-story-box-office-collections-day-9-ravi-namburii-directorial-romantic-drama-crosses-rs-40-crore-worldwide/articleshow/132799778.cms",
+    "time": "2026-08-02T03:15:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Unmadham' records 11.4% growth",
+    "desc": "Kunchacko Boban's latest Malayalam thriller 'Unmadham' saw a positive box office jump on its second day. The film earned an estimated Rs 78 lakhs on Saturday, showing improved collections from Friday. Its total India net collection has now reached Rs 1.48 crore after two days. Occupancy rates improved significantly throughout Saturday, especially during evening shows. The crime thriller follows a police officer investigating a mysterious suicide case.",
+    "img": "https://static.toiimg.com/photo/msid-132799790,imgsize-393148.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/unmadham-box-office-collections-day-2-kunchacko-bobans-thriller-records-11-4-growth-india-net-total-reaches-rs-1-48-crore/articleshow/132799782.cms",
+    "time": "2026-08-02T03:14:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "The promise, the pain and the gold: Asmita Dey's journey to CWG history",
+    "desc": "Asmita Dey's historic Commonwealth Games gold was shaped by far more than what happened on the judo mat. After losing her father, battling a Grade-2 ankle injury and overcoming severe financial hardship, the Tripura judoka found unwavering support in coach Yashapal Solanki, who stood by her like a father. Their emotional embrace after the final told the story of resilience, sacrifice and a dream fulfilled against overwhelming odds.",
+    "img": "https://static.toiimg.com/photo/msid-132799393,imgsize-39907.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/the-promise-the-pain-and-the-gold-asmita-deys-journey-to-commonwealth-games-history/articleshow/132799307.cms",
+    "time": "2026-08-02T02:52:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India win seven boxing golds as Preeti Pawar sets the tone",
+    "desc": "Preeti Pawar initiated India's gold medal streak in boxing at the Commonwealth Games. Several other Indian boxers followed her lead, securing multiple gold medals. Jaismine Lamboria and Sakshi Chaudhary also won their respective finals convincingly. Priya Ghanghas and Arundhati Choudhary added to the gold medal tally with strong performances. However, some Indian boxers like Jadumani Singh and Lovlina Borgohain secured silver and lost their finals.",
+    "img": "https://static.toiimg.com/photo/msid-132799340,imgsize-156252.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-india-win-seven-boxing-golds-as-preeti-pawar-sets-the-tone/articleshow/132799337.cms",
+    "time": "2026-08-02T02:35:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Anthony Hopkins",
+    "desc": "In 2026, veteran actor Anthony Hopkins will unveil his debut album as a composer. His enduring success, he says, stems from a compelling philosophy of self-belief, where he tricks his mind into embracing possibilities until they manifest. This mindset has empowered him to navigate various personal and professional hurdles, illustrating how his long-lasting career aligns with his latest musical aspirations.",
+    "img": "https://static.toiimg.com/photo/msid-132799326,imgsize-53742.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-anthony-hopkins-the-number-one-hack-is-to-believe-in-yourself-completely-even-if-you-think-its-a-lie-you-should-believe-in-yourself-a-life-lesson-on-self-confidence-by-the-veteran-actor-who-is-making-his-classical-music-debut-at-88/articleshow/132799303.cms",
+    "time": "2026-08-02T02:35:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Sarpatta Parambarai 2': Arya starrer is a prequel not sequel?",
+    "desc": "Sarpatta Parambarai 2 is set to be a gripping prequel diving into the narrative's roots. Actress Dushara Vijayan has hinted that the film will delve into the backstories of the boxing clans and their fierce rivalries. Fans can anticipate this exciting chapter to hit theaters after the first film's streaming release, with the shooting for Sarpatta 2 kicking off this month.",
+    "img": "https://static.toiimg.com/photo/msid-132799300,imgsize-406745.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sarpatta-parambarai-2-update-prequel-not-sequel-dushara-vijayan-drops-major-hint-on-arya-starrer-report/articleshow/132799261.cms",
+    "time": "2026-08-02T02:28:05.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Passenger vehicle sales hit top gear as July dispatches jump 33%; Maruti, Hyundai set records",
+    "desc": "India's passenger vehicle sales saw robust growth in July. Leading manufacturers like Maruti Suzuki and Hyundai reported record monthly dispatches. Tata Motors and Mahindra & Mahindra also posted substantial increases in their sales. This strong momentum was supported by government demand-boosting measures. Automakers benefited from favorable economic conditions throughout the month.",
+    "img": "https://static.toiimg.com/photo/msid-132799286,imgsize-2358368.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/passenger-vehicle-sales-hit-top-gear-as-july-dispatches-jump-33-maruti-hyundai-set-records/articleshow/132799163.cms",
+    "time": "2026-08-02T02:27:34.000Z"
+  },
+  {
     "cat": "World",
     "title": "Plane carrying European tourists crashes in Peru, killing 13 people on Nazca Lines viewing flight",
     "desc": "The Nazca Lines are a group of extensive geoglyphs scraped into the desert around Nazca hundreds of years ago by Peru’s Indigenous inhabitants. The lines form images of animals that can only be fully appreciated from planes or viewing towers.",
@@ -126,24 +306,6 @@ const newsData_en = [
     "time": "2026-08-02T00:34:32.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'The Sopranos' actor Vincent Pastore passes away at 80",
-    "desc": "Vincent Pastore, the legendary actor renowned for his iconic role as Big Pussy, has passed away at the age of 80. A stalwart of tough-guy roles, he graced both the big screen in classics like Goodfellas and the small screen in The Sopranos. His manager confirmed the sad news after he had been unreachable for several days. He is survived by his beloved daughter, Renee Pastore.",
-    "img": "https://static.toiimg.com/photo/msid-132798866,imgsize-82777.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-sopranos-actor-vincent-pastore-passes-away-at-80/articleshow/132798861.cms",
-    "time": "2026-08-02T00:29:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Lenin' OTT release date: When and where to watch",
-    "desc": "Akhil Akkineni's film 'Lenin' will premiere on ZEE5 on August 7. The action drama is set in a fictional village in Andhra Pradesh. It blends village politics, relationships, and revenge themes inspired by epics. Bhagyashri Borse stars as Bharathi opposite Akhil Akkineni. The film offers a rural narrative with strong performances and a gripping climax.",
-    "img": "https://static.toiimg.com/photo/msid-132798871,imgsize-424486.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/lenin-ott-release-date-when-and-where-to-watch-akhil-akkineni-and-bhagyashri-borses-rural-action-drama/articleshow/132798865.cms",
-    "time": "2026-08-02T00:29:23.000Z"
-  },
-  {
     "cat": "World",
     "title": "Heat wave bringing record-breaking temps, heightened wildfire risk to parts of western U.S.",
     "desc": "Dangerous heat and warnings were plaguing the region Saturday, and the National Weather Service on Saturday (August 1) forecast a high of 115° Fahrenheit (46° Celsius) in Las Vegas, the hottest temperature of the year",
@@ -151,15 +313,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/heat-wave-bringing-record-breaking-temps-heightened-wildfire-risk-to-parts-of-western-us/article71297047.ece",
     "time": "2026-08-02T00:26:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Jana Nayagan' BO Day 10; Thalapathy Vijay's film jumps 119.7%",
-    "desc": "Thalapathy Vijay's Jana Nayagan saw a significant box office jump on its tenth day. The film collected Rs 7.80 crore India net, a substantial increase from Friday. Its total India net collection has now reached Rs 164.90 crore. Overseas earnings contributed Rs 3 crore on day ten, boosting worldwide gross. The Tamil version remains the primary driver of the film's impressive collections.",
-    "img": "https://static.toiimg.com/photo/msid-132798828,imgsize-338188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-box-office-collection-day-10-thalapathy-vijays-film-jumps-119-7-earns-rs-7-80-crore-on-saturday/articleshow/132798825.cms",
-    "time": "2026-08-02T00:14:45.000Z"
   },
   {
     "cat": "Sports",
@@ -235,7 +388,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Judge Bhuyan questions SC collegium’s opacity",
+    "title": "Judge Ujjal Bhuyan questions SC collegium’s opacity",
     "desc": "Justice Ujjal Bhuyan questioned the Supreme Court collegium's lack of transparency in judicial appointments. He noted that recent collegium resolutions provided no reasons for their decisions. This opacity, he argued, could allow unsuitable individuals to enter the judiciary. Citizens possess a right to know deliberations concerning judicial elevations and transfers. The JALDI report highlights varying transparency levels across India's higher courts.",
     "img": "https://static.toiimg.com/photo/msid-132798518,imgsize-613117.cms",
     "src": "indiatimes.com",
@@ -277,15 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/forex-mop-up-under-rbis-swap-scheme-doubles-to-over-40bn/articleshow/132796830.cms",
     "time": "2026-08-01T21:38:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "R Madhavan reveals parenting philosophy with son Vedaant",
-    "desc": "R Madhavan has opened up about the three life lessons his parents instilled in him and how those values shaped not only his successful acting career but also his approach to parenting. The actor reflected on his upbringing, his father's influence, and why he believes teaching children the right values matters more than always being physically present.",
-    "img": "https://static.toiimg.com/photo/msid-132796746,imgsize-102353.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-madhavan-reveals-parenting-philosophy-with-son-vedaant-the-three-life-lessons-his-parents-taught-him-im-not-the-father-who-attends-every-school-event/articleshow/132796740.cms",
-    "time": "2026-08-01T21:23:24.000Z"
   },
   {
     "cat": "Business",
@@ -360,15 +504,6 @@ const newsData_en = [
     "time": "2026-08-01T19:34:00.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Will he play today?",
-    "desc": "Lionel Messi has returned to Inter Miami training after Argentina’s 2026 World Cup final run, but the club is yet to decide when he will play again. Head coach Guillermo Hoyos confirmed Messi and Rodrigo De Paul are available for selection against Columbus Crew, though their involvement remains uncertain as Inter Miami manage their workload amid a congested schedule.",
-    "img": "https://static.toiimg.com/photo/msid-132796323,imgsize-808275.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/messi-spotted-in-inter-miami-training-for-first-time-since-world-cup-final-will-he-return-to-action-today/articleshow/132795814.cms",
-    "time": "2026-08-01T19:09:08.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Kerala CM Satheesan’s chopper journey draws flak from CPI(M)",
     "desc": "Satheesan reportedly flew aboard the helicopter from Thiruvananthapuram to Kochi to visit his father-in-law, who was undergoing treatment. As Leader of the Opposition, he had criticised the then LDF government for its “extravagance” in hiring the helicopter.",
@@ -441,15 +576,6 @@ const newsData_en = [
     "time": "2026-08-01T18:12:49.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Punjab’s Dalits power politics with the purse",
-    "desc": "For generations, caste hierarchy in rural Punjab was written into society’s architecture, much like in other parts of India. Guru Ghar in Chak Hakim village of Phagwara is seen as a symbol of rising social, economic, religious, and political assertiveness of the Dalits, finds Vikas Vasudeva. With Punjab’s Assembly election early next year, all the political parties in the fray are wooing this group that is approximately one-third of the population",
-    "img": "https://th-i.thgim.com/public/incoming/65qe08/article71285074.ece/alternates/LANDSCAPE_1200/02_RVM_0985.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/punjab/punjabsdalitspower-politics-with-the-purse/article71285072.ece",
-    "time": "2026-08-01T17:44:01.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sachin Siwach fights back to win 60kg gold, delivers India's sixth boxing title",
     "desc": "Sachin Siwach secured the men's 60kg boxing gold medal for India. He achieved this victory through a remarkable comeback in the final round. Ndevelo had led after the initial two rounds of the match. Siwach's persistence paid off with a decisive punch before the bell. This win marked India's sixth boxing gold at the games.",
@@ -459,15 +585,6 @@ const newsData_en = [
     "time": "2026-08-01T17:40:27.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "South American icon plans global Messi petition for 2030 World Cup return",
-    "desc": "Former Bolivia captain Marco Antonio Etcheverry has urged Lionel Messi to continue playing for Argentina until the 2030 World Cup, even proposing a global petition to convince him. The MLS legend praised Messi’s 2026 World Cup performances and said football would not be the same without him, adding to growing calls for the eight-time Ballon d’Or winner to extend his international career.",
-    "img": "https://static.toiimg.com/photo/msid-132793947,imgsize-55376.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/south-american-legend-wants-global-petition-backed-by-millions-to-convince-messi-to-play-at-2030-world-cup/articleshow/132793080.cms",
-    "time": "2026-08-01T17:13:30.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "NEET-PG 2026 gets major overhaul: Centres closer to home, single-shift exam, fewer questions with no change in test duration",
     "desc": "NEET-PG exam sees significant changes for candidate convenience and enhanced security. Candidates now select three preferred states for their examination centre locations. The exam duration remains the same, but questions reduce to 180 for more time. Aadhaar and iris biometrics strengthen registration and exam day security measures. NEET-PG 2026 will be conducted in a single shift for uniform assessment.",
@@ -475,15 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/neet-pg-2026-gets-major-overhaul-centres-closer-to-home-single-shift-exam-less-questions-with-no-change-in-test-duration/articleshow/132793694.cms",
     "time": "2026-08-01T17:07:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay's son Jason Sanjay says father encouraged to build his own identity",
-    "desc": "Jason Sanjay, son of actor-turned-politician and Tamil Nadu Chief Minister Vijay, has opened up about his father's historic election victory, his directorial debut, and the constant public scrutiny surrounding their family. Jason, who recently made his directorial debut with Sigma, spoke candidly about the responsibility that comes with being part of Vijay's family.",
-    "img": "https://static.toiimg.com/photo/msid-132793544,imgsize-52519.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vijays-son-jason-sanjay-says-father-encouraged-him-to-build-his-own-identity-addresses-family-rumours-people-make-assumptions-about-us/articleshow/132793497.cms",
-    "time": "2026-08-01T16:56:22.000Z"
   },
   {
     "cat": "Politics",
@@ -522,33 +630,6 @@ const newsData_en = [
     "time": "2026-08-01T16:20:17.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘My return to Kolkata proves injustice cannot be permanent’: Taslima Nasreen",
-    "desc": "Exiled author Taslima Nasreen returned to Kolkata after nineteen years of absence. She stated her return proves injustice is not permanent and spoke for women's rights. Nasreen expressed concern over rising religious extremism in Bangladesh and curtailed freedom of speech. She lamented not finding a permanent home in the Bengals, though Europe offered security. The writer emphasized her advocacy for equality and human rights, not offense.",
-    "img": "https://static.toiimg.com/photo/msid-132793109,imgsize-94146.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/my-return-to-kolkata-proves-injustice-cannot-be-permanent-taslima-nasreen/articleshow/132792842.cms",
-    "time": "2026-08-01T16:16:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jugni singer files police complaint, says viral Jacqueline clip was AI-doctored",
-    "desc": "Singer Sonu Thukral filed a police complaint alleging that a viral clip from his song \"Jugni,\" featuring Jacqueline Fernandez, was AI-doctored to show a wardrobe malfunction. He shared proof of the complaint on Instagram, promising to speak publicly soon. Neither Jacqueline nor others linked to the song have responded yet.",
-    "img": "https://static.toiimg.com/photo/msid-132793076,imgsize-268250.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/jugni-singer-files-police-complaint-says-viral-jacqueline-fernandez-clip-was-ai-doctored/articleshow/132793076.cms",
-    "time": "2026-08-01T16:16:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Pro-Channi sloganeering draws Congress' ire amid Punjab leadership tussle",
-    "desc": "Congress internal rifts in Punjab persist as Charanjit Singh Channi supporters disrupted party programs. Bhupesh Baghel warned of expulsion for indiscipline, emphasizing unity for upcoming elections. The party high command will decide the chief ministerial face after the Punjab Assembly polls. Baghel stressed strengthening the party at the booth level for electoral success. Warring highlighted the need for a strong organizational structure over individual popularity.",
-    "img": "https://static.toiimg.com/photo/msid-132792728,imgsize-270430.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/watch-pro-channi-sloganeering-draws-congress-ire-amid-amid-punjab-leadership-tussle/articleshow/132792383.cms",
-    "time": "2026-08-01T16:05:34.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Spider-Man: Brand New Day’ director Destin Daniel Cretton on capturing the spectacle without losing the heart",
     "desc": "Ahead of the film’s release on July 30, filmmaker Destin Daniel Cretton talks about his memory of watching Toby Maguire’s 2002 classic, his shift from making independent human dramas to Marvel superhero films, how he looks at hero’s journey, and more",
@@ -585,24 +666,6 @@ const newsData_en = [
     "time": "2026-08-01T15:41:27.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "3 Gold, 2 Silver, 2 Bronze: Indian para athletes script history in Glasgow",
-    "desc": "India's para athletes achieved their finest-ever performance at the 2026 Commonwealth Games. They secured seven medals, matching all previous editions combined in a single campaign. Para athletics led the success, contributing six medals including three gold and two silvers. Indian athletes achieved multiple one-two finishes in several track and field events. This historic showing marks a significant leap forward for Indian para sports.",
-    "img": "https://static.toiimg.com/photo/msid-132792212,imgsize-1205462.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/3-gold-2-silver-2-bronze-indian-para-athletes-script-history-with-record-seven-medal-in-glasgow/articleshow/132792150.cms",
-    "time": "2026-08-01T15:24:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "DMK moves SC seeking immediate release of Cauvery water from Karnataka to Tamil Nadu",
-    "desc": "The DMK has petitioned the Supreme Court for immediate Cauvery water release from Karnataka. Karnataka's government faces a directive to release 3,500 cusecs daily for fifteen days. The plea also seeks to clear an accumulated water release shortfall of 9.46 TMC. Karnataka's Chief Minister urged protesters to withdraw their agitation against water releases. The state government will protect farmers' interests while respecting judicial orders.",
-    "img": "https://static.toiimg.com/photo/msid-132792195,imgsize-2258700.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dmk-moves-sc-seeking-immediate-release-of-cauvery-water-from-karnataka-to-tamil-nadu/articleshow/132792083.cms",
-    "time": "2026-08-01T15:18:42.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Indian equities ‘probably oversold’: FIIs warm up after months of outflows",
     "desc": "Foreign investors are showing renewed interest in Indian equities after significant outflows. Geopolitical uncertainties and elevated oil prices continue to pose risks to the outlook. India's domestic economy demonstrates robust performance with healthy sales and credit growth. The Reserve Bank of India is expected to align its monetary policy with the US Federal Reserve. Delays in bond index inclusion reflect global market dynamics, not India's debt concerns.",
@@ -630,51 +693,6 @@ const newsData_en = [
     "time": "2026-08-01T13:32:25.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Vijay talks about being harassed in an uncomfortable encounter with a model coordinator",
-    "desc": "Vijay Varma revealed he faced harassment from a \"weird\" modelling coordinator early in his career, which nearly shook his confidence. He also recalled being rejected by Hyderabad's Sutradhar School of Acting for lacking commitment. These setbacks taught him about the outside world's challenges, before he was finally accepted into FTII's acting programme.",
-    "img": "https://static.toiimg.com/photo/msid-132790232,imgsize-193557.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/he-was-getting-touchy-feely-vijay-varma-opens-up-about-being-harassed-in-an-uncomfortable-encounter-with-a-model-coordinator/articleshow/132790232.cms",
-    "time": "2026-08-01T13:11:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Dhanush mobbed by fans during 'OM' shoot in Thiruvannamalai",
-    "desc": "Dhanush was mobbed by hundreds of fans during the final shoot of 'OM Chapter 1' near Thiruvannamalai. Videos of the actor navigating the crowd with security have gone viral online. This incident highlights Dhanush's immense popularity and growing fan base across the nation. The highly anticipated film 'OM Chapter 1' is directed by Rajkumar Periasamy. Dhanush also has several other major projects scheduled for release soon.",
-    "img": "https://static.toiimg.com/photo/msid-132789408,imgsize-147887.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/dhanush-mobbed-by-fans-during-om-chapter-1-udhiram-the-blood-wood-shoot-near-annamalaiyar-temple-in-thiruvannamalai-watch/articleshow/132789367.cms",
-    "time": "2026-08-01T12:38:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Allu Arjun to come up with a completely different look for 'AA23'",
-    "desc": "Allu Arjun is preparing for a significant career transformation for his upcoming film. He will reportedly sport a completely different and unique look in 'AA23'. Both the actor and director Lokesh Kanagaraj have extensively researched potential appearances. This collaboration is highly anticipated by fans across the country. The film is expected to be a major cinematic event after 'Pushpa'.",
-    "img": "https://static.toiimg.com/photo/msid-132789215,imgsize-171053.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/aa23-allu-arjun-to-come-up-with-a-completely-different-look-in-lokesh-kanagarajs-film/articleshow/132789207.cms",
-    "time": "2026-08-01T12:26:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Naseeruddin explains why he has no plans to retire",
-    "desc": "Naseeruddin Shah revealed he's turned down multiple lifetime achievement awards, saying he doesn't consider his work done. Speaking at a success party for \"Main Vaapas Aaunga,\" which crossed 50 days in theatres, he thanked audiences for their support. The veteran actor, known for \"Sparsh\" and \"Iqbal,\" continues to earn acclaim in his latest films.",
-    "img": "https://static.toiimg.com/photo/msid-132788776,imgsize-211886.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-dont-think-my-job-is-done-naseeruddin-shah-explains-why-he-has-no-plans-to-retire-and-rejects-lifetime-achievement-honours-despite-decades-of-success/articleshow/132788776.cms",
-    "time": "2026-08-01T12:01:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Inside Vikrant Massey's Rs 1.16 crore Madh Island home with sea views",
-    "desc": "Vikrant Massey, riding high on the success of '12th Fail', shares a stunning sea-facing home in Mumbai's Madh Island with wife Sheetal Thakur. From a 180-degree balcony view the actor calls his \"artist's palette\" to a cosy Boho-themed drawing room, here's a look inside their Rs 1.16 crore dream home.",
-    "img": "https://static.toiimg.com/photo/msid-132787818,imgsize-140242.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/inside-vikrant-masseys-madh-island-home-worth-rs-1-16-crore-with-wife-sheetal-thakur-features-a-stunning-balcony-with-180-degree-arabian-sea-view-boho-interiors-and-a-gorgeous-balcony/articleshow/132787743.cms",
-    "time": "2026-08-01T11:58:33.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "The silent guardian of Indian cricket whose numbers undersold his legacy",
     "desc": "Ajinkya Rahane's Test career is one of Indian cricket's greatest statistical paradoxes. His average of 38.46 falls short of the elite, yet the numbers hide a batter who thrived overseas, delivered in crises and played defining roles in historic victories. This data-driven feature explores why Rahane's legacy extends far beyond conventional statistics and career aggregates.",
@@ -682,15 +700,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ajinkya-rahane-the-silent-guardian-of-indian-cricket-whose-numbers-undersold-his-legacy/articleshow/132788236.cms",
     "time": "2026-08-01T11:52:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ken Karunaas to headline Chella Ayyavu's next after 'Gatta Kusthi 2'",
-    "desc": "Ken Karunaas will headline Chella Ayyavu's upcoming directorial venture. This project follows Chella Ayyavu's recent success with 'Gatta Kusthi 2'. The actor and director are collaborating for the first time on this film. Story discussions are nearing completion, and an announcement is expected soon. Pre-production will commence after the official reveal of the project.",
-    "img": "https://static.toiimg.com/photo/msid-132788332,imgsize-193143.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/after-youth-ken-karunaas-to-headline-chella-ayyavus-next-after-gatta-kusthi-2-success/articleshow/132788313.cms",
-    "time": "2026-08-01T11:43:12.000Z"
   },
   {
     "cat": "Business",
@@ -799,15 +808,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/shareholders-approve-issue-of-warrants-to-promoter-group-entity/articleshow/132779278.cms",
     "time": "2026-08-01T00:11:56.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Cybercriminals widen net as assessees rush to meet I-T return filing deadline",
-    "desc": "Cybercriminals are targeting taxpayers during income tax return filing season. They send fake notices via WhatsApp and use cloned tax portals. These scams aim to steal banking credentials and gain device access. Attackers use malware-laden attachments and phishing websites to deceive victims. This campaign exploits the expectation of official communications from the tax department.",
-    "img": "https://static.toiimg.com/photo/msid-132779268,imgsize-129414.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/cybercriminals-widen-net-as-assessees-rush-to-meet-i-t-return-filing-deadline/articleshow/132779263.cms",
-    "time": "2026-08-01T00:06:35.000Z"
   },
   {
     "cat": "World",

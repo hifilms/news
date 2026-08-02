@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "বিদেশে পড়াশোনা-আন্দোলনে কোটি টাকার ফান্ডিং! বড় বিপাকে সিজেপি প্রধান দীপকে?",
+    "desc": "তিনি প্রশ্ন তুলেছেন, একজন সাধারণ সরকারি কর্মচারীর বেতনের টাকায় কীভাবে তাঁর ছেলের বিদেশে বিপুল খরচে উচ্চশিক্ষা সম্ভব হল। এর পাশাপাশি, নিট পরীক্ষার প্রশ্নফাঁস আন্দোলনের পরিপ্রেক্ষিতে সিজেপি বিক্ষোভকারীদের আইনি সহায়তার জন্য বর্ষীয়ান আইনজীবী ও রাজ্যসভার সংসদ সদস্য কপিল সিব্বলের ঘোষিত ১ কোটি টাকার তহবিল নিয়েও তিনি প্রশ্ন তুলেছেন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/rti-activist-demands-probe-into-cjp-founder-abhijeet-dipkes-finances_665084.html ",
+    "time": "2026-08-02T05:44:37.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "‘অগাস্টে আমার জন্ম, অগাস্টেই নির্বাসন, আজ অগাস্টেই প্রত্যাবর্তন!’ বছর ২০ পর কলকাতার বুকে ইতিহাস ছুঁলেন তসলিমা",
     "desc": "নিজের লেখালেখির কারণে বারবার আক্রমণের শিকার হওয়া তসলিমা অত্যন্ত স্পষ্ট ভাষায় ধর্মীয় মৌলবাদী এবং তথাকথিত প্রগতিশীলদের মুখোশ উন্মোচন করে বলেন, “ইসলামী জিহাদিরা সমালোচকের মুখ বন্ধ করতে হত্যাকে হাতিয়ার করে, আর তথাকথিত সেক্যুলার বামপন্থীরা ব্যবহার করে কুৎসা ও অপবাদ।”",
@@ -133,15 +142,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/sanjay-dutt-on-sunil-dutts-tough-choice-as-nargis-lay-in-a-coma-couldnt-understand-why_664768.html ",
     "time": "2026-07-31T04:43:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'আপনার ত্বক দেশের ভবিষ্যতের থেকেও উজ্জ্বল!' সেলফি ভিডিয়ো নিয়ে মোদীকে 'উচ্চ প্রশংসায়' ভরিয়ে দিলেন দীপকে",
-    "desc": "প্রশ্নফাঁস বিরোধী বিল পাসের পর প্রধানমন্ত্রী নরেন্দ্র মোদীর সেলফি ভিডিয়ো ঘিরে রাজনীতি তুঙ্গে। ককরোচ জনতা পার্টির প্রতিষ্ঠাতা অভিজিৎ দীপকে খোঁচা মেরে লেখেন, “আপনার ত্বক দেশের ভবিষ্যতের চেয়েও বেশি উজ্জ্বল!” বিরোধীদের অভিযোগ, ভিডিয়ো বানিয়ে বা কড়া আইন তৈরি করে লাভ নেই, যতক্ষণ না প্রশ্নফাঁস আটকানোর বাস্তব পদক্ষেপ নেওয়া হচ্ছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/abhijeet-dipke-mocks-pms-new-selfie-video-on-exam-reforms-your-skin-is-brighter-than_664766.html ",
-    "time": "2026-07-31T04:10:49.000Z"
   },
   {
     "cat": "Entertainment",
@@ -322,15 +322,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/man-with-2-big-knives-in-hands-stabs-3-women-one-of-them-pregnant-paris-suitcase-attack-arrest_664362.html ",
     "time": "2026-07-28T10:58:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ভারতের পূর্ণাঙ্গ ক্রিকেট সূচি সামনে, ক্যালেন্ডারে আছে ODI, Test ও T20I, নিউ জিল্যান্ডের সঙ্গে ঐতিহাসিক ১০০ বছরে ১২ ম্যাচ",
-    "desc": "জিম্বাবোয়ে সফর শেষ হতেই ভারত কিন্তু ব্যস্ত হয়ে পড়ছে ভরা আন্তর্জাতিক সূচিতে। ওয়ানডে, টেস্ট ও টি-২০ মিলিয়ে পরের পর দ্বিপাক্ষিক সিরিজ খেলবে টিম ইন্ডিয়া। রয়েছে নিউজিল্যান্ডের বিপক্ষে ১২ ম্যাচের পূর্ণাঙ্গ সিরিজ। যা দুই দেশের ক্রিকেট ইতিহাসে ১০০ বছর পূর্তির বিশেষ মাইলফলক উদ্‌যাপনের অংশ হিসেবে অনুষ্ঠিত হবে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/sports/indias-cricket-schedule-in-2026-till-december_664175.html ",
-    "time": "2026-07-27T10:26:27.000Z"
   },
   {
     "cat": "World",
