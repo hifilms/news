@@ -1,6 +1,231 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Tom Holland records four highest opening weekends of all time",
+    "desc": "Brand New Day' achieved a massive global opening weekend. This blockbuster start positions it as the second-highest opening in box office history. Holland is now the first actor to star in the four biggest global box office openings ever. His Marvel Cinematic Universe appearances have consistently drawn huge audiences worldwide. The actor's net worth is estimated at twenty-five million dollars despite these successes.",
+    "img": "https://static.toiimg.com/photo/msid-132816328,imgsize-457779.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-holland-creates-box-office-history-with-spider-man-brand-new-day-becomes-first-actor-to-star-in-four-highest-opening-weekends-of-all-time/articleshow/132816289.cms",
+    "time": "2026-08-03T02:18:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'I didn't want to be Tom Cruise': Stephen Baldwin says faith pulled him from Hollywood",
+    "desc": "At the height of his fame, Stephen Baldwin stepped away from the Hollywood limelight. The birth of his daughter Alaia inspired him to embrace born-again Christianity, redirecting his passions toward ministry and youth outreach. Today, he focuses on producing Christian films and hosting a podcast, fully content with the spiritual journey he has chosen.",
+    "img": "https://static.toiimg.com/photo/msid-132816531,imgsize-226697.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/i-didnt-want-to-be-tom-cruise-stephen-baldwin-reveals-why-he-left-hollywood-at-the-peak-of-his-career/articleshow/132816387.cms",
+    "time": "2026-08-03T02:13:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "She lost her gold — then won it again: Why Mel Woods claimed David Dixon Award",
+    "desc": "Scottish wheelchair racer Melanie Woods received the David Dixon Award for her outstanding performance. She won two gold medals in the T54 1500m and T54 400m events. Woods demonstrated remarkable resilience and sportsmanship after a controversial race rerun. She accepted the ruling with grace and won again, setting a new record. Her actions embodied the spirit of the Commonwealth Games.",
+    "img": "https://static.toiimg.com/photo/msid-132816470,imgsize-172452.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/she-lost-her-gold-then-won-it-again-why-melanie-woods-claimed-the-david-dixon-award/articleshow/132816378.cms",
+    "time": "2026-08-03T02:05:35.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Oil tumbles over 6% as Trump's Iran talks revive hopes of easing Middle East tensions",
+    "desc": "Oil prices dropped significantly as United States and Iran negotiations offered hope for de-escalation. Uncertainty surrounds these talks and ongoing security risks persist along vital shipping lanes. Brent crude futures experienced a sharp decline after President Trump announced potential discussions with Iran. This followed a substantial rally last month fueled by renewed conflict and tanker attacks.",
+    "img": "https://static.toiimg.com/photo/msid-132816367,imgsize-39284.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-tumbles-over-6-as-trumps-iran-talks-revive-hopes-of-easing-middle-east-tensions/articleshow/132816341.cms",
+    "time": "2026-08-03T02:03:45.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump says Gulf leaders' input weighed heavily in decision to hold off on ordering new Iran strikes",
+    "desc": "It was another turnabout for Mr. Trump, who a day earlier said he is \"losing faith\" in negotiations with Iran and offered the ominous warning that the U.S. military \"will be hitting them very hard\"",
+    "img": "https://th-i.thgim.com/public/incoming/hfkrx1/article71299742.ece/alternates/LANDSCAPE_1200/Trump_MBS_54183.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trump-says-gulf-leaders-input-weighed-heavily-in-decision-to-hold-off-on-ordering-new-iran-strikes/article71299741.ece",
+    "time": "2026-08-03T01:58:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vismaya responds to criticism over student protest remarks",
+    "desc": "Vismaya Mohanlal reaffirms her stance supporting students protesting the NEET paper leak issue. She believes citizens should have freedom to question and express their opinions in a democracy. Dialogue should always take precedence over the use of force, she stated during an interview. Filmmaker Major Ravi defended her comments as compassionate and humanitarian, not political. Vismaya is preparing for her acting debut in an upcoming film scheduled for release soon.",
+    "img": "https://static.toiimg.com/photo/msid-132816237,imgsize-189270.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/i-stand-by-what-i-said-mohanlals-daughter-vismaya-responds-to-criticism-over-student-protest-remarks/articleshow/132816230.cms",
+    "time": "2026-08-03T01:34:06.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Oil prices tumble as Trump cancels attack on Iran to reach nuclear deal",
+    "desc": "On Sunday, August 2, OPEC+ approved an oil production quota increase of around 188,000 barrels ⁠per day from September, the producer group said, in a move that ⁠completes the unwinding of a layer of voluntary output cuts.",
+    "img": "https://th-i.thgim.com/public/incoming/d2xwv9/article71299734.ece/alternates/LANDSCAPE_1200/2026-07-31T061056Z_86316284_RC2ROMAQMVL9_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/oil-prices-tumble-as-trump-cancels-attack-on-iran-to-reach-nuclear-deal/article71299732.ece",
+    "time": "2026-08-03T01:22:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Over to Ahmedabad! Neeraj Chopra receives CWG flag as 2030 countdown begins",
+    "desc": "Glasgow hosted the 2026 Commonwealth Games, concluding with India receiving the hosting rights for 2030. India finished fourth in the medal standings with 39 medals. The closing ceremony showcased India's culture and aspirations for Ahmedabad. Olympic champion Neeraj Chopra and PT Usha accepted the ceremonial baton. Ahmedabad will host the centenary Commonwealth Games in four years.",
+    "img": "https://static.toiimg.com/photo/msid-132816137,imgsize-217886.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/over-to-ahmedabad-neeraj-chopra-pt-usha-receive-cwg-flag-as-indias-countdown-to-historic-2030-commonwealth-games-begins/articleshow/132816110.cms",
+    "time": "2026-08-03T01:16:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Riot’s Spider-Man Birthday Bash: Rihanna and A$AP Rocky go all out; fans share party videos",
+    "desc": "Rihanna and A$AP Rocky marked their son Riot Rose's third birthday with a vibrant Spider-Man theme. Their home was adorned with colorful balloons and banners, setting a festive tone for the celebration. Guests were treated to a delightful cake bar featuring tailored slices with a variety of flavors and toppings.",
+    "img": "https://static.toiimg.com/photo/msid-132816112,imgsize-438067.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/rihanna-and-aap-rocky-host-a-spider-man-themed-party-for-their-son-riots-3rd-birthday-video/articleshow/132816043.cms",
+    "time": "2026-08-03T01:09:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Vishwanath And Sons' actor Suriya opens up on lasting love",
+    "desc": "At a recent film event, actor Suriya emphasized the importance of love and mutual respect in relationships, reminding audiences that affection should be openly shared every day. He pointed out the substantial sacrifices women often make, suggesting they deserve enhanced respect in return. Co-star Mamitha Baiju praised the experience of collaborating with Suriya. The much-anticipated film 'Vishwanath And Sons' will hit theaters on August 14.",
+    "img": "https://static.toiimg.com/photo/msid-132816104,imgsize-147020.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/even-if-you-spend-20-years-with-someone-you-should-love-vishwanath-and-sons-actor-suriya-on-lasting-love/articleshow/132816097.cms",
+    "time": "2026-08-03T01:06:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Unmadham' OTT release: Where to stream",
+    "desc": "Kunchacko Boban's latest film 'Unmadham' is currently running in theatres. Sony LIV is expected to secure the digital premiere rights for this mystery thriller. The movie features Kunchacko Boban as a police officer investigating a cold case. His screenplay aspirations intertwine with his police duties and a disturbing old file. The film's execution and premise have received praise from ETimes.",
+    "img": "https://static.toiimg.com/photo/msid-132816003,imgsize-612636.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/unmadham-ott-release-where-to-stream-kunchacko-boban-and-shahi-kabirs-thriller-online/articleshow/132815993.cms",
+    "time": "2026-08-03T00:32:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Toxic actor Huma DEFENDS Kiara-Yash amid ‘Tabaahi’ row",
+    "desc": "Huma Qureshi slammed trolls for criticising Kiara Advani's intimate scenes with Yash in Toxic's 'Tabaahi', calling it \"sick, disgusting.\" She noted Yash faced no similar backlash despite being married too, and said women in the film will \"have the last laugh.\" Trolls also targeted Kiara's husband, Sidharth Malhotra. Toxic releases August 26.",
+    "img": "https://static.toiimg.com/photo/msid-132815984,imgsize-161693.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/toxic-actor-huma-qureshi-defends-co-stars-kiara-advani-yash-amid-tabaahi-row-calls-trolling-sick-disgusting/articleshow/132815984.cms",
+    "time": "2026-08-03T00:27:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "MP Pappu Yadav attacked at home during presser",
+    "desc": "An independent MP, Pappu Yadav, faced an alleged attack during a news conference. A man threw a slipper while another reportedly brandished a knife at the event. The incident is believed to be linked to his recent protest outside Parliament. Police have detained one suspect and are investigating the other's involvement. The MP's team claims he had received prior death threats.",
+    "img": "https://static.toiimg.com/photo/msid-132815976,imgsize-1230242.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/mp-pappu-yadav-attacked-at-home-during-presser/articleshow/132815972.cms",
+    "time": "2026-08-03T00:22:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Spider-Man: Brand New Day' records Rs 300 crore weekend in India",
+    "desc": "Brand New Day achieved a historic Rs 300 crore opening weekend in India. This Marvel blockbuster became the first Hollywood film to reach this milestone. The film registered the biggest opening day for any non-Indian release. Its collections surpassed Rs 300 crore gross within just four days. This performance set a new benchmark for international films in India.",
+    "img": "https://static.toiimg.com/photo/msid-132815935,imgsize-485504.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/spider-man-brand-new-day-box-office-collection-day-4-tom-holland-zendaya-and-sadie-sink-starrer-becomes-first-hollywood-film-to-register-rs-300-crore-weekend-in-india/articleshow/132815771.cms",
+    "time": "2026-08-03T00:19:51.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. Senate leaders reach funding deal to avoid shutdown during campaign season",
+    "desc": "The Senate is likely to vote on the measure before leaving Washington at week's end for its traditional August recess, a period that many lawmakers want to spend shoring up their re-election prospects rather than working in the nation's capital",
+    "img": "https://th-i.thgim.com/public/incoming/rt89vu/article71299722.ece/alternates/LANDSCAPE_1200/2026-07-11T021519Z_1716374544_RC2CBMA66TBD_RTRMADP_3_USA-CONGRESS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-senate-leaders-reach-funding-deal-to-avoid-shutdown-during-campaign-season/article71299454.ece",
+    "time": "2026-08-03T00:17:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Jana Nayagan' BO day 11: Thalapathy Vijay records 37.2% jump",
+    "desc": "Jana Nayagan achieved a significant Rs 10.70 crore on its second Sunday. The film's India net collection reached Rs 175.60 crore after eleven days. Overseas markets contributed Rs 3 crore, pushing worldwide earnings to Rs 295.92 crore. Tamil version occupancy remained strong, especially during evening shows. This action drama is an official remake of a Telugu film.",
+    "img": "https://static.toiimg.com/photo/msid-132815954,imgsize-179919.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-box-office-collections-day-11-thalapathy-vijay-records-37-2-jump-nears-300-crore-worldwide/articleshow/132815952.cms",
+    "time": "2026-08-03T00:17:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM on national drive",
+    "desc": "Prime Minister Modi launched a campaign for drug-free youth for a developed India. He emphasized that families should seek expert help and foster open communication. Youth overcoming addiction are considered warriors and deserve societal respect and second chances. Enemy nations use drug supply as part of terror plans targeting the country's future. The campaign will run for 100 weeks, organizing various de-addiction activities.",
+    "img": "https://static.toiimg.com/photo/msid-132815933,imgsize-1001802.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/youth-quitting-drugs-real-warriors-pm-on-national-drive/articleshow/132815898.cms",
+    "time": "2026-08-03T00:00:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "10,000 cases pending in SC for 10 yrs, 80,000 in HCs for 30 yrs",
+    "desc": "Despite significant investment, court infrastructure and technology have not reduced decades-old case pendency. Over ten thousand cases remain pending in the Supreme Court for more than ten years. High courts across India have over eighty thousand cases pending for over three decades. The law minister cited judicial responsibility and judicial vacancies as reasons for the delays. New laws and committees have been established to address the growing backlog of cases.",
+    "img": "https://static.toiimg.com/photo/msid-132815737,imgsize-703971.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/10000-cases-pending-in-sc-for-10-yrs-80000-in-hcs-for-30-yrs/articleshow/132815732.cms",
+    "time": "2026-08-02T23:40:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shah Rukh Khan hides bleached hair look for 'King'",
+    "desc": "Bollywood superstar Shah Rukh Khan was seen in London with his family. He appeared to be shielding his new grey hair look for the film 'King'. Fans gathered outside his London residence hoping for a glimpse of the actor. The film 'King' is highly anticipated and stars Suhana Khan. It is slated for a Christmas release, facing competition from major Hollywood films.",
+    "img": "https://static.toiimg.com/photo/msid-132815724,imgsize-376934.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-hides-bleached-hair-for-king-on-family-day-out-in-london-pics/articleshow/132815679.cms",
+    "time": "2026-08-02T23:36:27.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Investments in PE-VC fall 6% to $20.3bn in Jan-July",
+    "desc": "India's private equity and venture capital investments surpassed twenty billion dollars this year. This figure shows a slight decrease compared to the previous year's performance. July saw investments of three billion dollars, remaining stable from last year's figures. Investors maintain long-term confidence in India's private markets despite global challenges. Sectors like renewable energy and B2B software startups are attracting significant investor attention.",
+    "img": "https://static.toiimg.com/photo/msid-132815633,imgsize-1026843.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/investments-in-pe-vc-fall-6-to-20-3bn-in-jan-july/articleshow/132815624.cms",
+    "time": "2026-08-02T22:48:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Glasgow bids farewell to Commonwealth Games with handover to Ahmedabad",
+    "desc": "Overall, it was a fitting finale to a glitzy show that seamlessly blended the finest of Scotland’s music, culture and heritage with India’s rich traditions that showcased the shared values of unity, friendship and hospitality that perhaps best define the Commonwealth spirit",
+    "img": "https://th-i.thgim.com/public/incoming/xf3n7v/article71299147.ece/alternates/LANDSCAPE_1200/PTI08_03_2026_000042A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/glasgow-bids-farewell-to-commonwealth-games-with-handover-to-ahmedabad/article71299150.ece",
+    "time": "2026-08-02T22:31:58.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "West Asia war uncertainty keeps businesses on edge",
+    "desc": "Businesses face significant cost management challenges due to ongoing West Asia conflict. Commodity inflation and freight charges create persistent planning uncertainties for companies. This instability may lead to postponed capital deployment and fewer new job additions. Consumers can expect widespread price increases across various products and services. Companies are considering further pricing interventions to manage margin impacts.",
+    "img": "https://static.toiimg.com/photo/msid-132815581,imgsize-1003185.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/west-asia-war-uncertainty-keeps-businesses-on-edge/articleshow/132815577.cms",
+    "time": "2026-08-02T22:27:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ariana Grande to 'step back' amid health concerns",
+    "desc": "Ariana Grande will take a public break after her tour concludes on September first. She has also exited the West End production of Sunday in the Park With George. This decision follows fan concerns over her appearance in the 'Petal' music video. Actress Jameela Jamil and writer Charli Howard voiced worries about Grande's health. Grande is expected to return for the film 'Focker-in-Law' promotion.",
+    "img": "https://static.toiimg.com/photo/msid-132813912,imgsize-291947.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ariana-grande-to-step-back-from-visibility-post-eternal-sunshine-tour-amid-health-concerns-over-appearance-in-petal-music-video/articleshow/132813909.cms",
+    "time": "2026-08-02T22:25:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ankur Bhattacharjee",
+    "desc": "While India, as hosts, fielded 16 players in the singles events — prompting many to jokingly refer to the tournament as the “India Open” — Ankur arrived only because of the expanded quota. Yet his path to the title was anything but straightforward",
+    "img": "https://th-i.thgim.com/public/incoming/6gzgmc/article71299135.ece/alternates/LANDSCAPE_1200/COMMONWEALTH%20TABLE%20TENNIS%20CHAMPIONSHIP%20NEW%20DELHI%20100.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/had-to-prove-that-i-deserved-to-be-part-of-asian-games-team-ankur-bhattacharjee/article71299138.ece",
+    "time": "2026-08-02T21:47:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "DMK slams Congress for 'trading trust for berths'",
+    "desc": "DMK fiercely responded to Rahul Gandhi's criticism of supporting a bill to increase Lok Sabha seats. Senior DMK MP Dayanidhi Maran accused Congress of betraying trust for ministerial positions. The BJP hopes DMK's anger with Congress will aid its legislative agenda. DMK has indicated openness to the bill after studying its impact. Rahul Gandhi's comments acknowledge the possibility of DMK revising its stance on the bill.",
+    "img": "https://static.toiimg.com/photo/msid-132813904,imgsize-759375.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/dmk-slams-congress-for-trading-trust-for-berths/articleshow/132813899.cms",
+    "time": "2026-08-02T21:37:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "'Spider-Man' records USD 927 million worldwide box office debut",
     "desc": "Brand New Day achieved a massive $355 million opening weekend. This performance made it the second-biggest North American debut ever. The film's global earnings reached $927 million in its initial release. This success contributed to the biggest weekend for North American movie theaters. Tom Holland's performance in the movie was highly praised by critics and audiences.",
     "img": "https://static.toiimg.com/photo/msid-132813724,imgsize-440525.cms",
@@ -19,7 +244,7 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "India secure top-four finish at 2026 Commonwealth Games after historic 39-medal campaign",
+    "title": "India secure top-four finish at 2026 CWG after historic 39-medal campaign",
     "desc": "India finished fourth at the 2026 Commonwealth Games in Glasgow with 39 medals (13 gold, 17 silver and nine bronze), despite failing to add to their tally on the final day. A record 16-medal haul on Saturday sealed their position, with boxing leading the charge. The campaign also featured several historic milestones ahead of the 2030 Games in Ahmedabad.",
     "img": "https://static.toiimg.com/photo/msid-132813653,imgsize-1374696.cms",
     "src": "indiatimes.com",
@@ -106,6 +331,24 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/karnataka/karnataka-cabinet-expansion-most-likely-on-august-3/article71298605.ece",
     "time": "2026-08-02T18:46:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ajinkya Rahane — The eternal crisis-man with a penchant for the big stage",
+    "desc": "When the mood seized him, which wasn’t too often but not rare as hen’s teeth either, Rahane cut a dashing picture at the crease, powerful off the backfoot and felicitous off the front. Lord’s and the MCG seemed to bring the best out of him, maybe because he is a strong student of history and knows the prestige attached with performing optimally there",
+    "img": "https://th-i.thgim.com/public/sport/gcebrx/article71298937.ece/alternates/LANDSCAPE_1200/GettyImages-88862638.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/ajinkya-rahane-tribute-retirment-india-cricketer/article71298929.ece",
+    "time": "2026-08-02T18:42:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "New project, old battles",
+    "desc": "For the farmers of Raigad, the Third Mumbai project is not an isolated development plan but the latest chapter in a 4-decade-long history of land acquisition, delayed justice, and unfulfilled promises. Snehal Mutha traces the past experiences that shaped the resistance to Maharashtra’s newest urban expansion plan",
+    "img": "https://th-i.thgim.com/public/incoming/79evl0/article71281962.ece/alternates/LANDSCAPE_1200/11908_22_7_2026_16_21_50_3_IMG_3928.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/third-mumbai-new-project-old-battles/article71281750.ece",
+    "time": "2026-08-02T17:47:46.000Z"
   },
   {
     "cat": "Sports",
@@ -225,15 +468,6 @@ const newsData_en = [
     "time": "2026-08-02T16:17:17.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "One dead, two missing as heavy rain batters Kannur; Wayanad gets respite",
-    "desc": "Over 2,550 people shifted to relief camps across Kannur, Kasaragod and Wayanad; roads blocked, bridges submerged and landslips disrupt normal life in rain-hit districts; holiday declared for educational institutions in Kannur, Kasaragod and Wayanad on August 3, 2026",
-    "img": "https://th-i.thgim.com/public/incoming/fvciuu/article71298557.ece/alternates/LANDSCAPE_1200/PTI08_02_2026_000403B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/one-dead-two-missing-as-heavy-rain-batters-kannur-wayanad-gets-respite/article71297290.ece",
-    "time": "2026-08-02T16:15:53.000Z"
-  },
-  {
     "cat": "Business",
     "title": "China gets just 1 FDI approval in India in FY26, Hong Kong secures 13 proposals",
     "desc": "India approved only one Chinese FDI proposal worth one crore rupees in 2025-26. Hong Kong received approvals for thirteen proposals totaling six hundred ten crore rupees. Singapore led approved investment values with three thousand two hundred fifty-nine crore rupees. The UK and Thailand also saw significant investment approvals during this period. China's overall FDI contribution to India remains notably small.",
@@ -241,15 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/china-gets-just-1-fdi-approval-in-india-in-fy26-hong-kong-secures-13-proposals/articleshow/132809638.cms",
     "time": "2026-08-02T16:04:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "death toll rises to 11, over 7,600 people in relief camps",
-    "desc": "Towns in central Kerala remain heavily waterlogged; search operations continue for people reported missing; IMD places all 14 districts on yellow alert on Monday, no heavy rainfall alert for Tuesday and Wednesday; sanitation work launched in places where floodwaters have receded, says CM",
-    "img": "https://th-i.thgim.com/public/incoming/41h484/article71298579.ece/alternates/LANDSCAPE_1200/PTI08_02_2026_000403B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-floods-2026-death-toll-rises-to-11-over-7600-people-in-relief-camps/article71298571.ece",
-    "time": "2026-08-02T16:04:28.000Z"
   },
   {
     "cat": "Entertainment",
@@ -378,42 +603,6 @@ const newsData_en = [
     "time": "2026-08-02T12:15:23.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Will Chiranjeevi and Nagarjuna team up for multi-starrer?",
-    "desc": "Tollywood grapevine suggests Chiranjeevi and Nagarjuna may star in a multi-starrer film. Director Anil Ravipudi is reportedly developing the script for this ambitious project. The film is envisioned as a commercial entertainer with family emotions and mass moments. Fans anticipate a blend of Chiranjeevi's mass appeal and Nagarjuna's class. An official announcement regarding this potential collaboration is eagerly awaited by audiences.",
-    "img": "https://static.toiimg.com/photo/msid-132806516,imgsize-133640.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/will-chiranjeevi-and-nagarjuna-team-up-for-multi-starrer-fans-await-an-official-announcement/articleshow/132806498.cms",
-    "time": "2026-08-02T12:14:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Spider-Man: Brand New Day' eyes Rs 250 crore net; beats Endgame",
-    "desc": "Brand New Day has achieved remarkable box office success in India. The film surpassed previous franchise entries and Avengers: Endgame collections. Its debut day earnings reached an impressive sixty point six zero crore rupees. By the second day, the movie crossed the hundred crore mark. The film continues to draw large audiences, exceeding expectations.",
-    "img": "https://static.toiimg.com/photo/msid-132804673,imgsize-155879.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/spider-man-brand-new-day-eyes-rs-250-crore-net-in-india-beats-avengers-endgame-and-tom-hollands-other-mcu-films/articleshow/132804673.cms",
-    "time": "2026-08-02T12:06:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Seeing my appa as Chief Minister is a historic revolution': Jason Sanjay",
-    "desc": "Jason Sanjay discussed his father's new role as Chief Minister and its responsibilities. He shared his mother Sangeetha's watchful nature and a childhood car incident. Sanjay recalled appearing with Vijay in a song from the film Vettaikaaran. He humbly stated that dance requires practice and is not a natural talent. His directorial debut film 'Sigma' is generating significant curiosity among audiences.",
-    "img": "https://static.toiimg.com/photo/msid-132806010,imgsize-179130.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/seeing-my-appa-as-chief-minister-is-a-historic-revolution-my-mom-is-like-a-spy-says-thalapathy-vijays-son-jason-sanjay/articleshow/132806004.cms",
-    "time": "2026-08-02T11:49:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Ready to face death': Pappu Yadav defiant after FIR over Ram Temple donation 'theft' skit",
-    "desc": "Pappu Yadav remains defiant after police filed a case against him and other opposition leaders. The FIR stems from a Parliament skit which depicted alleged theft of Ram Temple donations. Yadav stated he is ready to face death to protect people's faith and religious sentiments. Varanasi Police registered the case following a complaint by a religious leader. Another complaint was filed against the MP in the national capital.",
-    "img": "https://static.toiimg.com/photo/msid-132805919,imgsize-236456.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ready-to-face-death-pappu-yadav-defiant-after-fir-over-ram-temple-donation-theft-skit/articleshow/132805584.cms",
-    "time": "2026-08-02T11:42:27.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'In map of India, our North East is missing': Medallist Lovlina felt ‘hurt’ in Glasgow",
     "desc": "Lovlina Borgohain said she felt hurt after noticing India’s Northeast was missing from a map at a Glasgow restaurant during a celebratory dinner. The Assam boxer raised the issue with management, who acknowledged the mistake and promised to correct it. BFI president Ajay Singh said there was no confrontation, describing the incident as an aberration.",
@@ -421,24 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/in-map-of-india-our-north-east-is-missing-cwg-2026-medallist-lovlina-borgohain-reveals-feeling-hurt-in-glasgow/articleshow/132805482.cms",
     "time": "2026-08-02T11:23:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sooraj Pancholi breaks silence on Jiah Khan case years after acquittal",
-    "desc": "In an emotional response following a 14-year trial, Sooraj Pancholi breaks his silence regarding Jiah Khan's demise. Acquitted by a special CBI court, he criticized the misinformation circulating online and requested the media to focus on verified details. Pancholi acknowledged the years lost due to the legal battle and underscored his commitment to honoring Jiah's privacy, advocating for a more considerate approach to reporting such delicate issues.",
-    "img": "https://static.toiimg.com/photo/msid-132805534,imgsize-443887.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sooraj-pancholi-breaks-silence-on-jiah-khan-case-years-after-acquittal-i-chose-to-protect-her-privacy-despite-everything/articleshow/132805529.cms",
-    "time": "2026-08-02T11:12:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "158 exam irregularity cases await trial; CBI seeks fast-track disposal under new anti-paper leak law",
-    "desc": "Over 150 recruitment exam irregularity cases await trial, some dating back two decades. The CBI will ask high courts to move these pending matters to new fast-track courts. Dedicated prosecutors and resources will be provided to expedite the conclusion of these trials. The new anti-paper leak law mandates day-to-day hearings and trials within three months. This initiative follows recent student protests and calls for examination system reforms.",
-    "img": "https://static.toiimg.com/photo/msid-132805394,imgsize-51510.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/158-exam-irregularity-cases-await-trial-cbi-seeks-fast-track-disposal-under-new-anti-paper-leak-law/articleshow/132805390.cms",
-    "time": "2026-08-02T11:05:08.000Z"
   },
   {
     "cat": "Business",
@@ -450,15 +621,6 @@ const newsData_en = [
     "time": "2026-08-02T10:50:54.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Here's why Sonu Nigam banned by major music labels",
-    "desc": "Sonu Nigam revealed major music labels banned him after he spoke for singers' rights. He never imagined advocating for a larger cause would cost him work. Nigam stated that while doors closed, he could still perform on stage. Today, these same labels pay royalties, and meetings are now cordial. He felt compelled to continue Lata Mangeshkar's unfinished mission for artists.",
-    "img": "https://static.toiimg.com/photo/msid-132805114,imgsize-89304.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonu-nigam-claims-he-was-banned-by-major-music-labels-after-speaking-up-for-singers-rights-i-never-thought/articleshow/132805084.cms",
-    "time": "2026-08-02T10:45:36.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'That’s not something': Bhuvneshwar Kumar on India return",
     "desc": "​Bhuvneshwar Kumar says he is at peace with life outside the Indian team and now plays cricket mainly because of his passion for the game. The veteran pacer credits his family for helping him accept the transition. He also praises the IPL, Virat Kohli and Ravi Shastri for strengthening India’s fast-bowling culture and recalls Praveen Kumar’s influence.",
@@ -466,24 +628,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/thats-not-something-bhuvneshwar-kumar-makes-honest-admission-on-india-return/articleshow/132804653.cms",
     "time": "2026-08-02T10:38:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hrithik Roshan leases Mumbai office space for Rs 17 lakh per month",
-    "desc": "Hrithik Roshan, the Bollywood superstar, has secured a luxurious office space in the bustling area of Andheri West, Mumbai. The five-year lease with Clearsynth Labs starts at a monthly rent of Rs 17 lakh and spans about 6,000 square feet, complete with seven parking spaces. This agreement begins on April 1, 2026, and will see a rent hike to Rs 19.55 lakh after three years, culminating on March 31, 2031.",
-    "img": "https://static.toiimg.com/photo/msid-132804932,imgsize-262528.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hrithik-roshan-leases-mumbai-office-space-for-rs-17-lakh-per-month-signs-five-year-commercial-rental-deal/articleshow/132804924.cms",
-    "time": "2026-08-02T10:32:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anil Kapoor remembers late dear friend Satish Kaushik on friendship day",
-    "desc": "Anil Kapoor honored his late friend Satish Kaushik on Friendship Day. He shared a heartfelt message and a nostalgic clip remembering their bond. Kapoor described Kaushik as his closest companion through life's ups and downs. He reflected on their lifelong friendship and shared professional journey. Kaushik passed away in March 2023 after a heart attack.",
-    "img": "https://static.toiimg.com/photo/msid-132804923,imgsize-257365.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-miss-my-friend-anil-kapoor-remembers-late-dear-friend-satish-kaushik-on-friendship-day/articleshow/132804928.cms",
-    "time": "2026-08-02T10:30:23.000Z"
   },
   {
     "cat": "Business",
@@ -504,15 +648,6 @@ const newsData_en = [
     "time": "2026-08-02T10:08:27.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "How Blake Lively asked Taylor Swift to share 'statement of support'",
-    "desc": "Reports suggest Blake Lively and Taylor Swift's decade-old friendship ended abruptly. Lively allegedly threatened to leak private texts if Swift did not issue a statement. Swift's lawyers denied these blackmail claims made by Lively's team. The actresses were previously seen together at NFL games and concerts. This alleged fallout occurred after a legal battle involving Justin Baldoni.",
-    "img": "https://static.toiimg.com/photo/msid-132804424,imgsize-241512.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/so-sad-my-bestie-couldnt-how-blake-lively-asked-taylor-swift-to-share-statement-of-support-during-justin-baldoni-case/articleshow/132804420.cms",
-    "time": "2026-08-02T09:57:51.000Z"
-  },
-  {
     "cat": "Business",
     "title": "RBI policy, earnings and other cues to drive market this week",
     "desc": "The stock market faces a crucial week with key domestic and global events. The Reserve Bank of India's interest rate decision is a major focus for investors. Geopolitical developments in West Asia and crude oil prices will also influence sentiment. Several large companies are set to announce their quarterly earnings results. Foreign investors turned net buyers in July, supporting market confidence.",
@@ -520,15 +655,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-outlook-rbi-policy-earnings-and-middle-east-tensions-to-set-dalal-street-mood-this-week/articleshow/132804366.cms",
     "time": "2026-08-02T09:46:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "What if 'FRIENDS' had Bollywood version? Internet once reimagined",
-    "desc": "An innovative AI-generated video reinterpreted the classic sitcom 'FRIENDS' as a colorful Bollywood adaptation, featuring popular Indian actors taking on the show’s beloved roles. This imaginative take captivated fans, sparking spirited conversations around casting choices and the essence of friendship viewed through an Indian cultural lens. The project acts as a delightful homage to the show's widespread influence and nostalgic value, merging two distinct entertainment worlds.",
-    "img": "https://static.toiimg.com/photo/msid-132804359,imgsize-40838.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/what-if-friends-had-bollywood-version-internet-once-reimagined-aamir-khan-chandler-bing-hrithik-roshan-as-mike-hannigan-ranbir-kapoor-as-ross-geller-and-more-as-iconic/articleshow/132804321.cms",
-    "time": "2026-08-02T09:40:35.000Z"
   },
   {
     "cat": "Sports",
@@ -603,24 +729,6 @@ const newsData_en = [
     "time": "2026-08-02T05:25:38.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Warm-up match reduced from four days to three ahead of Test series",
-    "desc": "India's warm-up match against a Sri Lanka XI has been shortened. The practice game will now be played from August 7 to August 9. This fixture will take place at the NCC Ground in Colombo. The two-Test series against Sri Lanka begins on August 15. This series is part of the ongoing World Test Championship cycle.",
-    "img": "https://static.toiimg.com/photo/msid-132800536,imgsize-40595.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/india-vs-sri-lanka-warm-up-match-reduced-from-four-days-to-three-ahead-of-test-series/articleshow/132800514.cms",
-    "time": "2026-08-02T04:44:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "The promise, the pain and the gold: Asmita Dey's journey to CWG history",
-    "desc": "Asmita Dey's historic Commonwealth Games gold was shaped by far more than what happened on the judo mat. After losing her father, battling a Grade-2 ankle injury and overcoming severe financial hardship, the Tripura judoka found unwavering support in coach Yashapal Solanki, who stood by her like a father. Their emotional embrace after the final told the story of resilience, sacrifice and a dream fulfilled against overwhelming odds.",
-    "img": "https://static.toiimg.com/photo/msid-132799393,imgsize-39907.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/the-promise-the-pain-and-the-gold-asmita-deys-journey-to-commonwealth-games-history/articleshow/132799307.cms",
-    "time": "2026-08-02T02:52:46.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Passenger vehicle sales hit top gear as July dispatches jump 33%; Maruti, Hyundai set records",
     "desc": "India's passenger vehicle sales saw robust growth in July. Leading manufacturers like Maruti Suzuki and Hyundai reported record monthly dispatches. Tata Motors and Mahindra & Mahindra also posted substantial increases in their sales. This strong momentum was supported by government demand-boosting measures. Automakers benefited from favorable economic conditions throughout the month.",
@@ -628,15 +736,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/passenger-vehicle-sales-hit-top-gear-as-july-dispatches-jump-33-maruti-hyundai-set-records/articleshow/132799163.cms",
     "time": "2026-08-02T02:27:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Land mine blast survivor Soman Rana scripts golden CWG story",
-    "desc": "The triumph was particularly significant for Soman Rana, who was a national-level boxer before the accident abruptly ended his sporting career. He had trained alongside Vijender Singh and represented the Services Sports Control Board at 2005 Senior National Boxing Championships.",
-    "img": "https://static.toiimg.com/photo/msid-132799101,imgsize-75663.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/land-mine-blast-survivor-soman-rana-scripts-golden-cwg-story-with-para-shot-put-title/articleshow/132799105.cms",
-    "time": "2026-08-02T01:57:19.000Z"
   },
   {
     "cat": "Entertainment",
@@ -693,15 +792,6 @@ const newsData_en = [
     "time": "2026-08-01T21:19:06.000Z"
   },
   {
-    "cat": "Business",
-    "title": "July GST collections up 15.4% to Rs 2.1 L cr on higher imports",
-    "desc": "Goods and Services Tax collections rose 15.4 percent to Rs 2,11,205 crore in July. This increase was largely due to a 29 percent jump in integrated GST on imports. Strong economic activity and higher commodity prices also contributed to the robust tax collections. Central GST mop-up increased 12.3 percent while state GST grew 8.7 percent. Net collections after refunds went up 15.8 percent, reflecting continued economic resilience.",
-    "img": "https://static.toiimg.com/photo/msid-132796741,imgsize-1589605.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/july-gst-collections-up-15-4-to-rs-2-1-l-cr-on-higher-imports/articleshow/132796739.cms",
-    "time": "2026-08-01T21:16:16.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.S. embassies urge citizens to ‘consider departing’ from West Asia",
     "desc": "There were no U.S. strikes on Iran overnight, but Iran’s paramilitary Revolutionary Guard said on Friday (July 31, 2026) it had struck another two tankers in the Strait of Hormuz, and Kuwait said it intercepted drones",
@@ -748,24 +838,6 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "UPI reaches new milestone in July with highest-ever transaction value of Rs 29.88 lakh crore",
-    "desc": "India's UPI platform achieved its highest monthly transaction value ever. In July, transaction volumes also reached a new record high. The platform processed billions of transactions, surpassing previous records. This sustained growth strengthens India's digital payment ecosystem significantly. UPI is also expanding its global footprint across several countries.",
-    "img": "https://static.toiimg.com/photo/msid-132792434,imgsize-1752971.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/upi-reaches-new-milestone-in-july-with-highest-ever-transaction-value-of-rs-29-88-lakh-crore/articleshow/132792336.cms",
-    "time": "2026-08-01T15:41:27.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Indian equities ‘probably oversold’: FIIs warm up after months of outflows",
-    "desc": "Foreign investors are showing renewed interest in Indian equities after significant outflows. Geopolitical uncertainties and elevated oil prices continue to pose risks to the outlook. India's domestic economy demonstrates robust performance with healthy sales and credit growth. The Reserve Bank of India is expected to align its monetary policy with the US Federal Reserve. Delays in bond index inclusion reflect global market dynamics, not India's debt concerns.",
-    "img": "https://static.toiimg.com/photo/msid-132792004,imgsize-63548.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indian-equities-probably-oversold-foreign-investors-warm-up-to-india-after-months-of-outflows/articleshow/132792008.cms",
-    "time": "2026-08-01T15:03:43.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "India’s balancing act to attract more investment from China, U.S. and boost trade",
     "desc": "This balancing act has seen gradual and incremental relaxations in several long-held policies of the government — whether it has to do with FDI in e-commerce, allowing FDI from companies with Chinese ownership, or taking action against the dumping of goods in India by its trade partners.",
     "img": "https://th-i.thgim.com/public/incoming/t0uwd5/article71294830.ece/alternates/LANDSCAPE_1200/iStock-1548395353.jpg",
@@ -781,15 +853,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/italy-suspends-eu-schengen-free-travel-pact-with-spain-over-ceuta-crisis/article71294642.ece",
     "time": "2026-08-01T13:32:25.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Indian Oil ramps up spot crude purchases as Middle East disruptions hit supplies",
-    "desc": "Indian Oil Corporation has significantly increased its spot crude purchases to nearly eighty-four percent. This strategic shift occurred after Middle East supply routes faced disruptions. The company also diversified imports from West Africa and Latin America. Despite higher crude costs, Indian Oil reported its highest-ever first-quarter crude throughput. Fuel sales and market share saw notable increases during the period.",
-    "img": "https://static.toiimg.com/photo/msid-132786936,imgsize-1509754.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indian-oil-ramps-up-spot-crude-purchases-as-middle-east-disruptions-hit-supplies/articleshow/132786908.cms",
-    "time": "2026-08-01T10:24:49.000Z"
   },
   {
     "cat": "Entertainment",
@@ -835,68 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/what-is-behind-the-communal-clashes-in-nepal/article71290614.ece",
     "time": "2026-07-31T22:25:58.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S. lawmaker urges Taiwan to pass drone Bill, warning 'time is short'",
-    "desc": "China claims Taiwan is part of its territory and has threatened to use force to seize it. Taiwan has ramped up its defence spending in recent years, but remains reliant on U.S. security support to deter Beijing",
-    "img": "https://th-i.thgim.com/public/incoming/osr9o9/article71292022.ece/alternates/LANDSCAPE_1200/Taiwan_US_Representatives_7_956.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-lawmaker-urges-taiwan-to-pass-drone-bill-warning-time-is-short/article71291988.ece",
-    "time": "2026-07-31T17:23:37.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Myanmar's President outlines policy road map, criticises ASEAN peace plan",
-    "desc": "President Min Aung Hlaing said he would spend two years accelerating efforts to build a modern and developed nation based on democracy and a federal system, followed by another three years carrying out build-up at full speed.",
-    "img": "https://th-i.thgim.com/public/incoming/m9orwq/article71292009.ece/alternates/LANDSCAPE_1200/Myanmar_Politics_224_2.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/myanmars-president-outlines-policy-road-map-criticises-asean-peace-plan/article71292005.ece",
-    "time": "2026-07-31T17:21:32.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Trump announces deal for 'complete disarmament’ of Hamas",
-    "desc": "A member of the Hamas group’s negotiating team said the movement was making “concessions for the sake of our people in the Gaza Strip, to save them from killing and displacement”. He said the issue of weapons is tied to Israel’s withdrawal, the deployment of the National Committee and reconstruction work in the territory",
-    "img": "https://th-i.thgim.com/public/incoming/wvmpd1/article71288799.ece/alternates/LANDSCAPE_1200/2026-07-30T182050Z_1063475432_RC2HOMAOXQBM_RTRMADP_3_USA-TRUMP.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-announces-agreement-for-disarmament-of-hamas/article71288798.ece",
-    "time": "2026-07-31T16:31:55.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "High taxes on cigarettes hits ITC Q1, net slips 27% to ₹3,579 crore",
-    "desc": "The sharp decline on profit came on the government’s decision to increase excise duty and other taxes on cigarettes. Since this business contributes a major share of the company’s profit, the higher levies weighed on the margins.",
-    "img": "https://th-i.thgim.com/public/incoming/d30njc/article71291150.ece/alternates/LANDSCAPE_1200/ITC-shifts-growGKNG65EOH.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/high-taxes-on-cigarettes-hits-itc-q1-net-slips-27-to-3579-crore/article71291010.ece",
-    "time": "2026-07-31T14:31:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Pluto’ movie review: A sci-fi comedy that sticks to usual alien narratives",
-    "desc": "Sci-fi films are not something that happens often in the Malayalam film industry, which has relatively smaller budgets, with the subgenre of sci-fi comedies appearing even less frequently. Even the rarity of the genre does not really work to the advantage of Pluto.",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/gzdpes/article71286462.ece/alternates/LANDSCAPE_1200/pluto.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/pluto-movie-review-a-sci-fi-comedy-that-sticks-to-usual-alien-narratives/article71286486.ece",
-    "time": "2026-07-31T11:39:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "The viral Chuvarbot 2.0 secures productisation grant from Kerala Startup Mission",
-    "desc": "The graffiti painting start-up, which garnered social media attention during the 2026 Kerala Assembly elections, has secured a grant of ₹12 lakhs from the Kerala Startup Mission. The product, currently in its prototype stage, is set to launch by the end of 2026",
-    "img": "https://th-i.thgim.com/public/incoming/kxjxmy/article71280241.ece/alternates/LANDSCAPE_1200/Chuvarbot_3.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/society/the-viral-chuvarbot-20-secures-productisation-grant-from-kerala-startup-mission/article71275908.ece",
-    "time": "2026-07-30T11:35:57.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Why is the founder of Telegram on Russia’s wanted list",
-    "desc": "The international wanted notice against Pavel Durov comes after the FSB said that Telegram had failed to remove “numerous channels, chats, and bots” allegedly used by “Ukrainian intelligence agencies and terrorist and extremist organisations” to prepare and coordinate acts of “sabotage and terrorism, mass murder, and cyber fraud” in Russia.",
-    "img": "https://th-i.thgim.com/public/incoming/on2zwb/article71284277.ece/alternates/LANDSCAPE_1200/2024-09-17T050018Z_531756498_RC242AAINJT0_RTRMADP_3_FRANCE-SECURITY-RUSSIA-TELEGRAM.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/why-is-the-founder-oftelegramonrussiaswantedlist-explained/article71284265.ece",
-    "time": "2026-07-30T08:10:34.000Z"
   }
 ];

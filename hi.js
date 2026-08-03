@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Glasgow passes Commonwealth Games baton to India; Neeraj Chopra, PT Usha receive CWG flag",
+    "desc": "The 2026 Commonwealth Games came to an end after 11 days of competition, with Scotland formally handing over the Commonwealth Games flag and ceremonial baton to India, which will host the landmark centenary edition in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/glasgow-passes-commonwealth-games-baton-to-india-neeraj-chopra-pt-usha-receive-cwg-flag-latest-updates-2026-08-03-1050182",
+    "time": "2026-08-03T01:32:50.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India appoint new fielding coach after T Dilip's departure, to take over from Sri Lanka tour",
     "desc": "India have appointed former Assam and Railways cricketer Subhadeep Ghosh as the new fielding coach of the men's team. This comes after T Dilip departs from the position. Subhadeep's first assignment will begin with India's...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-ruled-out-of-sri-lanka-test-series-due-to-knee-injury-2026-08-02-1050146",
     "time": "2026-08-02T10:16:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tanvi Sharma scripts history, becomes youngest shuttler to win Taipei Open",
-    "desc": "17-year-old Tanvi Sharma has scripted history and become the youngest shuttler to win the Taipei Open in history. The title that the legendary Saina Nehwal had won back in 2008, Tanvi Sharma has brought the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/tanvi-sharma-scripts-history-becomes-youngest-shuttler-to-win-taipei-open-2026-08-02-1050143",
-    "time": "2026-08-02T09:18:30.000Z"
   }
 ];
