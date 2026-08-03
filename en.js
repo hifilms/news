@@ -1,6 +1,114 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "A Cabinet expansion in Karnataka with twists, turns and heartbreak",
+    "desc": "The Cabinet expansion had its twists and turns as the initial list released in the morning underwent changes till the swearing-in at Lok Bhavan in the evening, causing confusion amid legislators not finding their names in the list",
+    "img": "https://th-i.thgim.com/public/incoming/1vkuhp/article71302811.ece/alternates/LANDSCAPE_1200/PTI08_03_2026_000485B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/a-cabinet-expansion-in-karnataka-with-twists-turns-and-heartbreak/article71302265.ece",
+    "time": "2026-08-03T19:18:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "UEFA threatens FIFA with legal action over failed plan to sell World Cup stakes",
+    "desc": "The letter named 18 FIFA executives who it said should retain data, documents and electronic messages as potential evidence. They include Infantino, Zurich-based chief finance officer Thomas Peyer and Arsène Wenger, the coaching great who is FIFA's head of global soccer development",
+    "img": "https://th-i.thgim.com/public/incoming/7nlun1/article71302802.ece/alternates/LANDSCAPE_1200/2026-07-30T174450Z_834707308_RC2HOMA5DYER_RTRMADP_3_SOCCER-FIFA-STAKE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/uefa-threatens-fifa-with-legal-action-over-failed-plan-to-sell-world-cup-stakes/article71302799.ece",
+    "time": "2026-08-03T19:05:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "\"I faced many challenges....\": Weightlifter Mirabai Chanu after hat-trick of CWG gold medals",
+    "desc": "Speaking to ANI, Mirabai said that leading upto CWG 2026, she faced a lot of issues due to injuries, weight management and training and having overcome all these odds placed against her is a massive accomplishment",
+    "img": "https://th-i.thgim.com/public/incoming/yfzd4k/article71302788.ece/alternates/LANDSCAPE_1200/20260803610L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/i-faced-many-challenges-weightlifter-mirabai-chanu-after-hat-trick-of-cwg-gold-medals/article71302785.ece",
+    "time": "2026-08-03T18:42:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mahesh says preconcieved notions about Sunny Leone worked against Jism 2",
+    "desc": "Reflecting on Sunny Leone's contentious start in Bollywood with Jism 2, Mahesh Bhatt revealed that her appearance on Bigg Boss played a crucial role in her casting. The film's distributor made a hefty investment, relying on her internet fame. However, the disconnect between the film's narrative and audience anticipation raised eyebrows, yet Jism 2 ultimately succeeded at the box office due to the intrigue it generated.",
+    "img": "https://static.toiimg.com/photo/msid-132839686,imgsize-340662.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mahesh-bhatt-says-preconcieved-notions-about-sunny-leone-worked-against-their-film-jism-2-they-didnt-want-to-see-an-adult-star-wanting-to-becoming-a-wife/articleshow/132839569.cms",
+    "time": "2026-08-03T18:25:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "heavy rain continues to batter district",
+    "desc": "A total of 964 people from 365 families remain in 32 relief camps in Kozhikode as heavy rain continues and schools remain shut for a second day; more than a dozen relief camps have closed in Wayanad after many displaced families returned home, leaving 584 people in 14 camps",
+    "img": "https://th-i.thgim.com/public/incoming/fh1l5i/article71302754.ece/alternates/LANDSCAPE_1200/RAGESH%2004tvkzkakoodi1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-rains-heavy-rain-continues-to-batter-district/article71302163.ece",
+    "time": "2026-08-03T18:06:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Of 39 medals won by India at CWG, military personnel bag 18 — nearly 50%",
+    "desc": "Indian Army athletes secured sixteen medals at the recent Commonwealth Games. These included eight gold, seven silver, and one bronze medal. Two Indian Navy personnel also contributed silver medals in weightlifting. Combined, services personnel achieved forty-six percent of India's total medal haul. Their performance highlights the Army's commitment to nurturing world-class athletes.",
+    "img": "https://static.toiimg.com/photo/msid-132838172,imgsize-94282.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/of-39-medals-won-by-india-at-cwg-military-personnel-bag-18-nearly-50/articleshow/132838137.cms",
+    "time": "2026-08-03T17:48:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP, Opposition spar at panel meet over Meta’s content moderation practices",
+    "desc": "BJP MPs sought an apology from Meta chief Mark Zuckerberg over the temporary restriction of Prime Minister Narendra Modi’s Facebook post, while Opposition members cautioned against political influence over content moderation and argued that “technology should be regulated, not democracy”.",
+    "img": "https://th-i.thgim.com/public/incoming/d2ch9w/article71302573.ece/alternates/LANDSCAPE_1200/20260730057L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/intention-is-to-destabilise-country-nishikant-dubey-seeks-zuckerbergs-apology-over-restricting-pms-facebook-post/article71302170.ece",
+    "time": "2026-08-03T17:32:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Badarli’s supporters stage protest",
+    "desc": "Followers of Sindhanur MLA Hampanagowda Badarli held a protest in Sindhanur and expressed anguish against Congress party’s high command for not including their leader in the State Cabinet. One of them even tried self-immolation, but the police foiled his attempt",
+    "img": "https://th-i.thgim.com/public/incoming/z094ev/article71302714.ece/alternates/LANDSCAPE_1200/YDRKN_3_8_2026_20_7_53_1_IMG_20260803_WA0109.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/badarlis-supporters-stage-protest/article71301882.ece",
+    "time": "2026-08-03T17:30:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How Pak pacer's British citizenship puts PSL 2027 contract in limbo",
+    "desc": "Mohammad Amir’s British citizenship is set to change his status in the Pakistan Super League, with the fast bowler expected to be classified as an overseas player for PSL 2027. That could affect his Rawalpindi contract, as the team may need to use a foreign-player slot, renegotiate his deal or release him. The PCB is yet to clarify.",
+    "img": "https://static.toiimg.com/photo/msid-132838155,imgsize-110724.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/explained-how-pakistan-pacers-british-citizenship-puts-psl-2027-contract-in-limbo/articleshow/132836754.cms",
+    "time": "2026-08-03T17:29:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Statues of the Buddha, N.T. Rama Rao unveiled at Parasam village",
+    "desc": "The Minister and Nellimarla MLA Lokam Naga Madhavi unveiled the statues in Vizianagaram district; Ms. Madhavi said two roads would be built at a cost of ₹20 lakh and local temples developed with the SriVani Trust’s support",
+    "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/b1ycm/article71300554.ece/alternates/LANDSCAPE_1200/Buddha.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/statues-of-the-buddha-and-nt-rama-rao-unveiled-at-parasam-village/article71300023.ece",
+    "time": "2026-08-03T17:27:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Farmers’ groups protest over drinking water shortage in Kalaburagi, carry empty pots to highlight the issue",
+    "desc": "Members of the Samyukta Kisan Morcha and other farmers’ organisations, along with residents, staged a protest outside the Kalaburagi City Corporation office on Monday, carrying empty pots to highlight the acute drinking water shortage in the city",
+    "img": "https://th-i.thgim.com/public/incoming/wzwcyx/article71302710.ece/alternates/LANDSCAPE_1200/10258_3_8_2026_19_47_25_3_KLB_SKM_PROTEST_2.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/farmers-groups-protest-over-drinking-water-shortage-in-kalaburagi-carry-empty-pots-to-highlight-the-issue/article71301890.ece",
+    "time": "2026-08-03T17:26:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tadoba tiger ‘Explorer’ returns to Andhra Pradesh in search of mate, territory",
+    "desc": "Now a fully grown adult, the tiger has returned to the Jangareddigudem forests months after its remarkable cross-country journey, prompting the State to pursue the relocation of female tigers and the establishment of a breeding population",
+    "img": "https://th-i.thgim.com/public/incoming/25pbjo/article71302211.ece/alternates/LANDSCAPE_1200/IMG_tiger_10237_24_4_202_2_1_MCGBEQUV.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/tadoba-tiger-explorer-returns-to-andhra-pradesh-in-search-of-mate-territory/article71301758.ece",
+    "time": "2026-08-03T17:05:10.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Brij Bhushan Sharan Singh, aide Vinod Tomar acquitted in women wrestlers sexual harassment case",
     "desc": "Additional Chief Judicial Magistrate Ashwini Panwar of the Rouse Avenue Courts also acquitted co-accused Vinod Tomar, former Assistant Secretary of the WFI; Brij Bhushan says the court has honourably acquitted him; Vinesh Phogat says the women wrestlers would challenge the verdict before a higher court",
     "img": "https://th-i.thgim.com/public/incoming/e68ejj/article71300738.ece/alternates/LANDSCAPE_1200/09_Brij_Bhushan_Saran_Singh_03_08_Delhi.jpg",
@@ -55,15 +163,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Riverbanks, low-lying areas of Ernakulam district remain on alert despite relief from heavy rain",
-    "desc": "A total of 110 people remained in relief camps across the district on Monday following heavy downpours over the past few days. Eight camps remained active in the district—four in Muvattupuzha taluk and two each in Kunnathunad and Kothamangalam—while four had been closed.",
-    "img": "https://th-i.thgim.com/public/incoming/nug2me/article71302352.ece/alternates/LANDSCAPE_1200/Monsoon13.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/riverbanks-low-lying-areas-of-ernakulam-district-remain-on-alert-despite-relief-from-heavy-rain/article71302070.ece",
-    "time": "2026-08-03T15:48:59.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "NDA states acted firmly against recruitment scams; opposition failed to curb irregularities: CM Dhami",
     "desc": "Uttarakhand Chief Minister Pushkar Singh Dhami on Monday said that NDA-ruled states have taken firm action against recruitment scams and examination-related irregularities, while alleging that opposition-ruled states failed to curb such malpractices and were marked by widespread irregularities in recruitment processes.",
     "img": "https://static.toiimg.com/photo/msid-132835947,imgsize-50524.cms",
@@ -79,51 +178,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/centre-raises-windfall-tax-on-petrol-diesel-and-atf-exports-from-august-3/articleshow/132835740.cms",
     "time": "2026-08-03T15:39:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Government launches inquiry into recent tiger deaths in Srisailam Reserve",
-    "desc": "Three deaths have been reported recently from deep forest areas within the reserve; causes of the deaths are under investigation and the State government has constituted a committee to ascertain the reasons, says a senior Forest official",
-    "img": "https://th-i.thgim.com/public/incoming/sgkm52/article71302151.ece/alternates/LANDSCAPE_1200/9604_1_7_2026_17_19_14_1_IMG_20260701_WA0024.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/government-launches-inquiry-into-recent-tiger-deaths-in-srisailam-reserve/article71301700.ece",
-    "time": "2026-08-03T15:35:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Across the spectrum, Bankipur’s voters say they have chosen a better alternative in the JSP",
-    "desc": "Voters express anger over the violence against their children by the police during the July 25 Bihar Bandh against irregularities in the NEET-UG exam; many feel the BJP took its voters for granted and the RJD was apathetic",
-    "img": "https://th-i.thgim.com/public/news/national/9ussh0/article71302269.ece/alternates/LANDSCAPE_1200/Banki%20bypoll.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/across-the-spectrum-bankipurs-voters-say-they-have-chosen-a-better-alternative-in-the-jsp/article71301511.ece",
-    "time": "2026-08-03T15:34:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Opposition parties protest outside ‘Makar Dwar’ in Parliament House",
-    "desc": "Members of the Samajwadi Party, who took part in the protest, say till now ₹47,000 has been collected and the money would be donated to the Ram Temple in Ayodhya and a receipt would be taken",
-    "img": "https://th-i.thgim.com/public/incoming/ajchyt/article71301820.ece/alternates/LANDSCAPE_1200/20260803045L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/opposition-parties-protest-outside-makar-dwar-in-parliament-house/article71301582.ece",
-    "time": "2026-08-03T15:29:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala High Court denies appeal against stay on police association rejig",
-    "desc": "An order by the Additional Chief Secretary (Home) abolished the Kerala Police Officers Association and re-distributed its members and assets among two other police associations. A Single Bench stayed the order and a former office-bearer of Kerala Police Association appealed against the stay.",
-    "img": "https://th-i.thgim.com/public/incoming/tle19n/article71302248.ece/alternates/LANDSCAPE_1200/Kerala%20HC%20%20%20-%20R%20K%20Nithin.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-denies-appeal-against-stay-on-police-association-rejig/article71301396.ece",
-    "time": "2026-08-03T15:24:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tadoba tiger ‘Explorer’ returns to Andhra Pradesh in search of mate, territory",
-    "desc": "Now a fully grown adult, the tiger has returned to the Jangareddigudem forests months after its remarkable cross-country journey, prompting the State to pursue the relocation of female tigers and the establishment of a breeding population",
-    "img": "https://th-i.thgim.com/public/incoming/25pbjo/article71302211.ece/alternates/LANDSCAPE_1200/IMG_tiger_10237_24_4_202_2_1_MCGBEQUV.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/tadoba-tiger-explorer-returns-to-andhra-pradesh-in-search-of-mate-territory/article71301758.ece",
-    "time": "2026-08-03T15:19:34.000Z"
   },
   {
     "cat": "Entertainment",
@@ -163,7 +217,7 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Ramanand Sagar's son says Ranbir Kapoor has a lot of baggage after 'Animal': 'Always cast a fresh face'",
+    "title": "Ramanand Sagar's grandson says Ranbir Kapoor has a lot of baggage after 'Animal': 'Always cast a fresh face'",
     "desc": "Shiv Sagar, grandson of Ramanand Sagar, recently commented on the casting for the upcoming Ramayana film. He particularly lauded Yash as Ravan and Sai Pallavi as Sita, highlighting their deep cultural connection. However, Shiv Sagar voiced concerns about Ranbir Kapoor's ability to embody Lord Ram, citing his previous roles. Interestingly, Ranbir himself has expressed uncertainty about fitting this revered character during promotional events.",
     "img": "https://static.toiimg.com/photo/msid-132833687,imgsize-319814.cms",
     "src": "indiatimes.com",
@@ -378,15 +432,6 @@ const newsData_en = [
     "time": "2026-08-03T09:48:40.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Quote of the day by William Shatner",
-    "desc": "William Shatner's quote emphasizes success through punctuality and preparation. He believes consistent effort in ordinary tasks leads to extraordinary achievements. Shatner's early life included acting and commerce studies before his stage debut. His career spanned Broadway, films, and the iconic Star Trek role. The actor's enduring legacy is built on dedication and hard work.",
-    "img": "https://static.toiimg.com/photo/msid-132826941,imgsize-389422.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-william-shatner-any-success-i-have-hadbegan-by-my-showing-up-on-time-being-prepared-and-doing-the-best-possible-job-a-life-lesson-from-the-star-trek-actor-explaining-how-discipline-and-dedication-are-the-ultimate-success-mantra/articleshow/132826988.cms",
-    "time": "2026-08-03T09:46:35.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Aquib Nabi replaces Jasprit Bumrah for Sri Lanka series",
     "desc": "Bumrah’s absence is a significant blow to Shubman Gill’s side ahead of a series India cannot afford to lose if it is to preserve its remote chances of qualifying for the World Test Championship final",
@@ -520,15 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/another-review-on-the-cards-more-changes-likely-in-indias-backroom-staff-after-the-sri-lanka-tests/articleshow/132817898.cms",
     "time": "2026-08-03T03:51:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Overwhelmed by the love': Rahane thanks fans after retirement announcement",
-    "desc": "Ajinkya Rahane expressed gratitude for fan support following his international cricket retirement. He received numerous messages and tributes from the cricketing fraternity. Virat Kohli praised Rahane as his favorite Test batting partner. Sachin Tendulkar recalled Rahane's dedication and composure during his career. Rahane's leadership during India's 2020-21 Australia Test series win was highlighted.",
-    "img": "https://static.toiimg.com/photo/msid-132817904,imgsize-145452.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/overwhelmed-by-your-love-ajinkya-rahane-thanks-fans-after-retirement-announcement/articleshow/132817875.cms",
-    "time": "2026-08-03T03:46:09.000Z"
   },
   {
     "cat": "World",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
     "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
-    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
-    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
-    "time": "2024-03-11T09:41:17.000Z"
   }
 ];

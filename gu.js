@@ -601,14 +601,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/aamir-khan-step-brother-hyder-ali-khan-forced-his-wife-actress-eva-grover-to-sleep-with-directors-said-actress-485729 ",
     "time": "2026-07-25T12:01:43.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "મારુતિએ ગ્રાહકોને આપ્યો મોટો ઝટકો, કારના ભાવમાં ₹30,000 સુધીનો વધારો, જાણો શું છે કારણ",
-    "desc": "મારુતિ સુઝુકીએ મંગળવારે તેની તમામ ગાડીઓના ભાવમાં વધારાની જાહેરાત કરી છે. કંપની વિવિધ કાર મોડલ્સ પર ₹30,000 સુધીનો ભાવ વધારો કરશે. ત્યારે કંપની દ્વારા ભાવમાં કેમ વધારો કરવામાં આવ્યો છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/maruti-suzuki-car-prices-increased-by-up-to-30000-know-why-485361 ",
-    "time": "2026-07-21T11:42:12.000Z"
   }
 ];
