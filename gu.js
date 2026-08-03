@@ -1,6 +1,24 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "LPG છોડીને આ ગેસ તરફ વળી રહ્યા છે લોકો! જુલાઈના આંકડાએ બધાને કર્યા આશ્ચર્યચકિત",
+    "desc": "જુલાઈ દરમિયાન ભારતમાં ઇંધણની માંગના વલણો બદલાતા દેખાયા છે. પેટ્રોલ અને ડીઝલના વેચાણમાં મજબૂત વૃદ્ધિ જોવા મળી હતી, જ્યારે LPGની માંગમાં નોંધપાત્ર ઘટાડો થયો છે. ઔદ્યોગિક અને હોટેલ-રેસ્ટોરન્ટ ક્ષેત્રના ઘણા ગ્રાહકો હવે PNG તરફ વળી રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/people-are-switching-from-lpg-to-png-gas-july-figures-surprised-everyone-486549 ",
+    "time": "2026-08-03T03:56:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "અલાયંસ શોમાં આવી સલમાન ખાને શા માટે કહ્યું, રિતેશ દેશમુખની નોકરી ખતરામાં છે ?",
+    "desc": "સલમાન ખાન સોહેલ ખાનને સપોર્ટ કરવા માટે અલાંયસ શોમાં પહોંચ્યો હતો. આ સ્પેશિયલ એપિસોડમાં તેણે હસતા મોઢે એવું કહ્યું હતું કે રિતેશ દેશમુખની નોકરી ખતરામાં છે. આ એપિસોડ ઓનએર થયા પછી લોકો જાણવા માંગે છે કે સલમાને આવું શા માટે કહ્યું. તો ચાલો તમને જણાવીએ શું છે સાચું કારણ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/know-why-salman-khan-said-riteish-deshmukh-job-at-risk-lock-up-2-vs-alliance-486544 ",
+    "time": "2026-08-03T03:09:59.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "SEBIના આદેશ વચ્ચે Zનો વિશ્વાસ, ₹3,143.5 કરોડનું ફંડ રેઇઝિંગ રહેશે યથાવત, શેરહોલ્ડર્સે આપી લીલી ઝંડી",
     "desc": "SEBIના આદેશ બાદ ઝી એન્ટરટેઈનમેન્ટે પોતાનું પહેલું સત્તાવાર નિવેદન જાહેર કર્યું છે. કંપનીએ જણાવ્યું છે કે, આ આદેશની ₹3,143 કરોડની ભંડોળ એકત્ર કરવાની પ્રક્રિયા પર કોઈ સીધી અસર થશે નહીં અને તમામ જરૂરી કાનૂની પગલાં લેવામાં આવશે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -592,15 +610,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/darshan-jariwala-and-actress-apara-mehta-separation-story-apara-mehta-and-darshan-jariwala-love-marriage-485719 ",
     "time": "2026-07-25T10:21:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "મુસાફિર કૈફેથી લઈ 72 Hours ફિલ્મ ઓટીટી પર રિલીઝ, લિસ્ટ જોઈ નક્કી કરી લો આ વીકેન્ડમાં શું જોવું છે તમારે",
-    "desc": "વીકેન્ડ આવી ગયું છે અને સાથે જ ઓટીટી પર રિલીઝ થયેલી નવી ફિલ્મો અને વેબ સીરીઝનું લીસ્ટ પણ આવી ગયું છે. તો ફટાફટ જાણી લો આ વીકેન્ડમાં ઓટીટી પર નવું શું છે અને સાથે જ કે તમે શું જોવાના છો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/25-july-weekend-new-ott-release-adarsh-baal-vidyalaya-musafir-cafe-on-ott-485679 ",
-    "time": "2026-07-25T05:15:03.000Z"
   },
   {
     "cat": "Tech",

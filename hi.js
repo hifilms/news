@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "BCCI name Jasprit Bumrah's replacement for Sri Lanka series; in-form pacer earns maiden call-up",
+    "desc": "The Indian team is all set to take on Sri Lanka in a two-game Test series. Part of the WTC (World Test Championship) cycle, both teams will take on each other in the first Test...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-name-jasprit-bumrah-s-replacement-for-sri-lanka-series-in-form-pacer-earns-maiden-call-up-2026-08-03-1050193",
+    "time": "2026-08-03T05:07:54.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Glasgow passes Commonwealth Games baton to India; Neeraj Chopra, PT Usha receive CWG flag",
     "desc": "The 2026 Commonwealth Games came to an end after 11 days of competition, with Scotland formally handing over the Commonwealth Games flag and ceremonial baton to India, which will host the landmark centenary edition in...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/arshdeep-singh-reflects-on-ipl-social-media-controversy-after-england-odi-series-2026-08-02-1050154",
     "time": "2026-08-02T11:34:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jasprit Bumrah ruled out of Sri Lanka Test series due to knee injury",
-    "desc": "Star India pacer Jasprit Bumrah has been ruled out of the upcoming two-game Test series against Sri Lanka. It is worth noting that India will take on Sri Lanka across two Test matches, with the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jasprit-bumrah-ruled-out-of-sri-lanka-test-series-due-to-knee-injury-2026-08-02-1050146",
-    "time": "2026-08-02T10:16:53.000Z"
   }
 ];
