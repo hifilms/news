@@ -1,5 +1,77 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Bradley Cooper and Gigi Hadid spark wedding buzz- WATCH",
+    "desc": "Bradley Cooper and Gigi Hadid have sparked secret wedding rumors. The couple was photographed wearing matching gold bands on their left ring fingers. This sighting occurred in Paris after a workout session together. News of a possible wedding follows Gigi's friend Taylor Swift's recent nuptials. Cooper and Hadid began their relationship in October 2023.",
+    "img": "https://static.toiimg.com/photo/msid-132841185,imgsize-440248.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bradley-cooper-and-gigi-hadid-married-in-secret-couple-spotted-wearing-matching-wedding-rings-in-paris-watch/articleshow/132841175.cms",
+    "time": "2026-08-03T21:51:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Report",
+    "desc": "The Delhi High Court has observed that actor Vivek Oberoi appears to have stopped participating in the proceedings of his personality rights lawsuit after securing an interim injunction earlier this year. The observation came during the hearing of an application filed by X Corp, which sought to exclude two posts on the social media platform X from the scope of the interim order passed in Vivek's favour on February 5.",
+    "img": "https://static.toiimg.com/photo/msid-132841153,imgsize-59188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vivek-oberoi-fails-to-respond-in-personality-rights-case-lawyer-withdraws-as-delhi-high-court-excludes-two-x-posts-from-injunction-report/articleshow/132841153.cms",
+    "time": "2026-08-03T21:15:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Baghel asks workers to beware of ‘traitors’ within Punjab Congress",
+    "desc": "Addressing the gathering in Bathinda, he said the next elections will not be fought by the candidates alone, but by the entire party’s rank and file, underlining the need for strengthening the organisation at the grassroots level",
+    "img": "https://th-i.thgim.com/public/incoming/uk18y7/article71302846.ece/alternates/LANDSCAPE_1200/4col_Lead_StoryGLDG7HBC1.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/punjab/baghel-asks-workers-to-beware-of-traitors-within-punjab-congress/article71302264.ece",
+    "time": "2026-08-03T20:53:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Opposition MPs protest over Ram Temple donation theft",
+    "desc": "Members of the Samajwadi Party, who took part in the protest, say till now ₹47,000 has been collected and the money would be donated to the Ram Temple in Ayodhya and a receipt would be taken",
+    "img": "https://th-i.thgim.com/public/incoming/ajchyt/article71301820.ece/alternates/LANDSCAPE_1200/20260803045L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/opposition-parties-protest-outside-makar-dwar-in-parliament-house/article71301582.ece",
+    "time": "2026-08-03T20:52:05.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "New talks 'last chance' for Iran to forge deal, avoid escalation of U.S. strikes: Trump",
+    "desc": "Mr. Trump, speaking at the Oval Office, said he expects negotiations that will reopen the Strait of Hormuz and create a pathway for Iran to address the United States' concerns about its nuclear programme will begin in the next day or two",
+    "img": "https://th-i.thgim.com/public/incoming/gua05s/article71302838.ece/alternates/LANDSCAPE_1200/2026-08-03T192826Z_104726944_RC22RMAZO9HX_RTRMADP_3_USA-TRUMP.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/new-talks-last-chance-for-iran-to-forge-deal-avoid-escalation-of-us-strikes-trump/article71302832.ece",
+    "time": "2026-08-03T20:33:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Flavouring neutral alcohol isn't right in spirit'",
+    "desc": "The FSSAI has prohibited adding rum or whisky flavour to spirits. This practice misrepresents the true nature of alcoholic beverages and misleads consumers. Manufacturers were found using neutral alcohol and adding identical flavouring substances. Several companies, including United Spirits, faced prohibitions and notices. The regulator stressed that characteristic taste should develop naturally through base ingredients.",
+    "img": "https://static.toiimg.com/photo/msid-132841104,imgsize-897715.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/flavouring-neutral-alcohol-isnt-right-in-spirit/articleshow/132841088.cms",
+    "time": "2026-08-03T20:18:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SC expands ambit of Sec 498A to cover cruelty in live-ins too",
+    "desc": "The Supreme Court has extended legal protection to live-in relationships. These relationships are now covered under Section 498A of the IPC. The court stated that the law must adapt to changing societal norms. Cruelty within such relationships will now be punishable by law. This decision aims to protect women from domestic violence and harassment.",
+    "img": "https://static.toiimg.com/photo/msid-132841081,imgsize-1282631.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sc-expands-ambit-of-sec-498a-to-cover-cruelty-in-live-ins-too/articleshow/132841069.cms",
+    "time": "2026-08-03T20:11:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Amid a flood of holiday demands, Collectors weather an online storm",
+    "desc": "As online demands and criticism over rain holidays mount, District Collectors say decisions are guided by weather data and field reports—not social media pressure; school closures during orange, yellow alerts depend on local assessments, they say",
+    "img": "https://th-i.thgim.com/public/incoming/6n8438/article71302566.ece/alternates/LANDSCAPE_1200/Illustration.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/amid-a-flood-of-holiday-demands-collectors-weather-an-online-storm/article71301658.ece",
+    "time": "2026-08-03T19:34:25.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "A Cabinet expansion in Karnataka with twists, turns and heartbreak",
     "desc": "The Cabinet expansion had its twists and turns as the initial list released in the morning underwent changes till the swearing-in at Lok Bhavan in the evening, causing confusion amid legislators not finding their names in the list",
@@ -108,15 +180,6 @@ const newsData_en = [
     "time": "2026-08-03T17:05:10.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Brij Bhushan Sharan Singh, aide Vinod Tomar acquitted in women wrestlers sexual harassment case",
-    "desc": "Additional Chief Judicial Magistrate Ashwini Panwar of the Rouse Avenue Courts also acquitted co-accused Vinod Tomar, former Assistant Secretary of the WFI; Brij Bhushan says the court has honourably acquitted him; Vinesh Phogat says the women wrestlers would challenge the verdict before a higher court",
-    "img": "https://th-i.thgim.com/public/incoming/e68ejj/article71300738.ece/alternates/LANDSCAPE_1200/09_Brij_Bhushan_Saran_Singh_03_08_Delhi.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/brij-bhushan-sharan-singh-vinod-tomar-acquitted-women-wrestler-sexual-harassment-case/article71299981.ece",
-    "time": "2026-08-03T16:57:25.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Siddharth interview",
     "desc": "In this conversation with Shreyas Pande, actors Siddharth and Jimmy Shergil, creator and showrunner Kushal Srivastava and producer Sanjay Routray discuss their upcoming Netflix series Operation Safed Sagar, the connection between ‘Rang De Basanti’ and the show, the actors’ experience of donning the uniform and more.",
@@ -124,33 +187,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/siddharth-interview-jimmy-shergill-operation-safed-sagar/article71302605.ece",
     "time": "2026-08-03T16:42:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Indian sailor missing after vessel hit near Odesa, family seeks help",
-    "desc": "The family of Indian crew member Ramchandra Dubey has appealed to the Government of India to trace him after he went missing when the vessel he was travelling on was struck near Ukraine’s Odesa port on July 25. While two of the four Indian crew members have been confirmed safe, the whereabouts of Ramchandra Dubey and another Indian sailor remain unknown as the Indian Embassy in Kyiv continues to coordinate with Ukrainian authorities.",
-    "img": "https://th-i.thgim.com/public/incoming/u2whbt/article71302557.ece/alternates/LANDSCAPE_1200/SC%203.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/indian-sailor-missing-after-vessel-hit-near-odesa-family-seeks-help/article71302559.ece",
-    "time": "2026-08-03T16:29:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Vinesh Phogat to challenge Brij Bhushan Singh’s acquittal in court",
-    "desc": "Congress MLA and wrestler Vinesh Phogat has said that she and other women wrestlers will challenge the acquittal of former WFI chief Brij Bhushan Sharan Singh. The wrestlers have instructed their lawyers to file an appeal, saying their legal battle is far from over.",
-    "img": "https://th-i.thgim.com/public/incoming/byx5mt/article71302533.ece/alternates/LANDSCAPE_1200/SC.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/vinesh-phogat-to-challenge-brij-bhushan-singhs-acquittal-in-court/article71302537.ece",
-    "time": "2026-08-03T16:24:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Prashant Kishore’s big win in Bankipur: Key takeaways from the crucial Bihar by-polls",
-    "desc": "Prashant Kishore’s victory in the Bankipur bypoll has sparked fresh debate about Bihar’s changing political landscape. From the impact of young voters to challenges facing the BJP and RJD, here’s a look at the key takeaways from one of Bihar’s most closely watched elections.",
-    "img": "https://th-i.thgim.com/public/incoming/f7vzy0/article71302518.ece/alternates/LANDSCAPE_1200/vikram%201%201.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/prashant-kishores-big-win-in-bankipur-key-takeaways-from-the-crucial-bihar-by-polls-analysis/article71302523.ece",
-    "time": "2026-08-03T16:20:53.000Z"
   },
   {
     "cat": "World",
@@ -232,15 +268,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/rbi-sells-149-billion-during-jan-may-to-check-excess-volatility-in-rupee/article71301424.ece",
     "time": "2026-08-03T13:35:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "\"Ethanol policy is flawed\": Arvind Kejriwal on planned march to PM's residence",
-    "desc": "Aam Aadmi Party (AAP) National Convener Arvind Kejriwal on Monday announced that he will march to the Prime Minister's residence tomorrow to personally hand over a petition signed by over 2.33 lakh people against what he termed a \"flawed\" ethanol policy.",
-    "img": "https://static.toiimg.com/photo/msid-132832901,imgsize-57032.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ethanol-policy-is-flawed-arvind-kejriwal-on-planned-march-to-pms-residence/articleshow/132832883.cms",
-    "time": "2026-08-03T13:09:10.000Z"
   },
   {
     "cat": "Entertainment",
@@ -405,15 +432,6 @@ const newsData_en = [
     "time": "2026-08-03T10:09:36.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Anupam Kher joins viral 'Mere Mehboob' trend with 'Khosla Ka Ghosla 2' cast",
-    "desc": "Anupam Kher joined the viral \"Mere Mehboob Qayamat Hogi\" trend along with his Khosla Ka Ghosla co-stars Boman Irani, Ranvir Shorey and Parvin Dabas, dress cv `ing up as his iconic character Kamal Kishore Khosla for the recreation. The trend, which originated from a CJP-led NEET protest in Delhi, has taken social media by storm, coming just weeks ahead of the release of Khosla Ka Ghosla 2.",
-    "img": "https://static.toiimg.com/photo/msid-132827668,imgsize-73348.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anupam-kher-hops-on-viral-mere-mehboob-qayamat-hogi-trend-from-cjp-protest-with-khosla-ka-ghosla-2-co-stars-boman-irani-ranvir-shorey-and-pravin-dabas-ahead-of-august-release-watch/articleshow/132827598.cms",
-    "time": "2026-08-03T10:06:54.000Z"
-  },
-  {
     "cat": "Business",
     "title": "What time will stock market close from today? New timings and rationale explained",
     "desc": "The Closing Auction Session aims to concentrate liquidity at the end of the trading day. The idea is to facilitate smoother execution of large orders and generate a closing price that is more accurate in terms of reflecting overall market demand and supply.",
@@ -421,15 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/what-time-will-stock-market-close-from-today-august-3-2026-sebi-sensex-nifty-new-timings-and-rationale-explained/articleshow/132827364.cms",
     "time": "2026-08-03T10:02:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "R Madhavan revealed his most expensive purchase is a yacht in Dubai",
-    "desc": "Actor R Madhavan purchased a yacht in Dubai, which was his costliest acquisition. This acquisition helped him achieve his ambition of earning a captain's license. He moved to Dubai to support his son Vedaant's swimming career and training. Madhavan also owns luxury cars and motorcycles in addition to his yacht. The yacht represents independence, family experiences, and mastering a new skill.",
-    "img": "https://static.toiimg.com/photo/msid-132827100,imgsize-267293.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-madhavan-revealed-his-most-expensive-purchase-was-a-yacht-in-dubai-and-isnt-ashamed-of-it-i-bought-it-because-i-was-getting-my-captains-license/articleshow/132826825.cms",
-    "time": "2026-08-03T09:48:40.000Z"
   },
   {
     "cat": "Sports",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
     "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
   }
 ];
