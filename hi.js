@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "T Dilip pens heartfelt note after his tenure as India's fielding coach ends",
+    "desc": "The Indian team is all set to take on Sri Lanka in a two-game Test series starting from August 15. Ahead of the series, the BCCI (Board of Control for Cricket in India) came forward...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/t-dilip-pens-heartfelt-note-after-his-tenure-as-india-s-fielding-coach-ends-2026-08-03-1050238",
+    "time": "2026-08-03T11:24:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Not too fussed': Aiden Markram opens up on vacant captaincy spot at Lucknow Super Giants ahead of IPL 2027",
+    "desc": "The IPL (Indian Premier League) 2027 season is looming on the horizon; the 20th edition of the tournament will see the 10 sides battling it out for the title, and ahead of the new season,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/not-too-fussed-aiden-markram-opens-up-on-vacant-captaincy-spot-at-lucknow-super-giants-ahead-of-ipl-2027-2026-08-03-1050226",
+    "time": "2026-08-03T09:38:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vinesh Phogat hits out after Brij Bhushan Singh judgment, says 'entire system protects him'",
+    "desc": "The news of former Wrestling Federation of India (WFI) chief Brij Bhushan Sharan Singh’s acquittal from the high-profile sexual harassment case filed by female wrestlers has caught the eyes of many. It is worth noting...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/vinesh-phogat-hits-out-after-brij-bhushan-singh-judgment-says-entire-system-protects-him-2026-08-03-1050219",
+    "time": "2026-08-03T08:19:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Xabi Alonso reveals getting a 'scar' from Real Madrid, remains positive on his future with Chelsea",
+    "desc": "The 2026-27 Premier League season is right around the corner, and the various sides are hard at work preparing for the new season. With the campaign all set to begin, many eyes will be set...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/xabi-alonso-reveals-getting-a-scar-from-real-madrid-remains-positive-on-his-future-with-chelsea-2026-08-03-1050212",
+    "time": "2026-08-03T07:52:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer opens up on Auqib Nabi's inclusion in India's squad for Sri Lanka series",
+    "desc": "Star India pacer Jasprit Bumrah has been ruled out of the side’s upcoming two-game Test series against Sri Lanka. After reports emerged that Bumrah had cleared his fitness Test for the series, the latest development...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-opens-up-on-auqib-nabi-s-inclusion-in-india-s-squad-for-sri-lanka-series-2026-08-03-1050207",
+    "time": "2026-08-03T07:14:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCCI to review team India's injury crisis after Sri Lanka series amid ongoing injury woes",
+    "desc": "Team India is all set to take on Sri Lanka in a two-game Test series. The two sides will take on each other in the first Test at the Galle International Stadium from August 15....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-to-review-team-india-s-injury-crisis-after-sri-lanka-series-amid-ongoing-injury-woes-reports-2026-08-03-1050202",
+    "time": "2026-08-03T06:35:39.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "BCCI name Jasprit Bumrah's replacement for Sri Lanka series; in-form pacer earns maiden call-up",
     "desc": "The Indian team is all set to take on Sri Lanka in a two-game Test series. Part of the WTC (World Test Championship) cycle, both teams will take on each other in the first Test...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/commonwealth-games-2026-final-medal-tally-where-did-india-finish-in-standings-2026-08-02-1050175",
     "time": "2026-08-02T18:06:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Check details, timings and India's flag bearer",
-    "desc": "The Commonwealth Games 2026 draws to a close with the closing ceremony scheduled later on August 2 (local time) as Glasgow bids adieu to the quadrennial event, having stepped up to host it. The event...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/commonwealth-games-2026-closing-ceremony-live-streaming-when-and-where-to-watch-check-details-timings-and-indias-flag-bearer-2026-08-02-1050172",
-    "time": "2026-08-02T17:41:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How many medals did India win at Commonwealth Games 2026 in Glasgow?",
-    "desc": "India's campaign at the Glasgow Commonwealth Games 2026 came to an end on Sunday evening, drawing the curtains to a pretty impressive run in the Scottish city. India produced several memorable performances at the Glasgow...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/how-many-medals-did-india-win-at-commonwealth-games-2026-in-glasgow-2026-08-02-1050168",
-    "time": "2026-08-02T15:53:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mirabai Chanu wants to find the missing piece in her illustrious medal cabinet at Asian Games",
-    "desc": "India weightlifting icon Mirabai Chanu has all the other major medals in her cabinet, but an Asian Games podium finish has eluded the great Manipuri. As she clinched a fourth-straight medal and third gold in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/mirabai-chanu-wants-to-find-the-missing-piece-in-her-illustrious-medal-cabinet-at-asian-games-2026-08-02-1050165",
-    "time": "2026-08-02T14:40:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI name India squad for upcoming Women's Asia Cup 2026, Prema Rawat retains her spot",
-    "desc": "In a major development, the BCCI (Board of Control for Cricket in India) took centre stage and announced India’s squad for the upcoming Women’s Asia Cup 2026. It is interesting to note that veteran batter...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-name-india-squad-for-upcoming-women-s-asia-cup-2026-prema-rawat-retains-her-spot-2026-08-02-1050161",
-    "time": "2026-08-02T13:29:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lovlina Borgohain points out incorrect India map at Glasgow restaurant, owner issues response",
-    "desc": "Indian boxer Lovlina Borgohain has captured the hearts of many across the country after video of hers has been making the rounds all over social media. In the video that has been going viral, Lovlina...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/lovlina-borgohain-points-out-incorrect-india-map-at-glasgow-restaurant-owner-issues-response-2026-08-02-1050158",
-    "time": "2026-08-02T12:37:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Arshdeep Singh reflects on IPL social media controversy after England ODI series",
-    "desc": "Star India pacer Arshdeep Singh has come forward and given his take on the recent social media controversy that he was involved in during the IPL (Indian Premier League). It is worth noting that Arshdeep...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/arshdeep-singh-reflects-on-ipl-social-media-controversy-after-england-odi-series-2026-08-02-1050154",
-    "time": "2026-08-02T11:34:28.000Z"
   }
 ];

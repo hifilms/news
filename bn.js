@@ -1,6 +1,51 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "পড়ুয়াদের একদম হেনস্থা করবেন না: এখনই যেখানে যত FIR আছে, তুলে নিন-- রাজ্যকে কড়া নির্দেশ সুপ্রিম কোর্টের",
+    "desc": "ফৌজদারি কার্যবিধিতে সরাসরি এফআইআর তুলে নেওয়ার কোনও স্পষ্ট বিধান থাকে না; এর পরিবর্তে পুলিসি ক্লোজার রিপোর্ট জমা দেওয়া, মামলা প্রত্যাহারের জন্য আদালতে আবেদন জানানো কিংবা আদালত কর্তৃক তা বাতিল (Quash) করার আইনি পথ খোলা থাকে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/supreme-court-clarifies-states-can-withdraw-or-close-firs-against-student-protesters_665205.html ",
+    "time": "2026-08-03T11:28:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "কোথা থেকে এল বিদেশে উচ্চশিক্ষার এত এত টাকা? আন্দোলনের ফান্ডিং কীভাবে? বড় সত্যি ফাঁস করলেন অভিজিৎ দীপকে",
+    "desc": "১ অগাস্ট সুরাটের বাসিন্দা অমিত তিওয়ারি অভিজিৎ দীপকের বাবা ভগবানরাও দীপকের সম্পত্তি ও আর্থিক উৎসের বিষয়ে তদন্তের দাবি জানিয়ে আরটিআই করেন। মাসে মাত্র ৬০,০০০ থেকে ৬৫,০০০ টাকা বেতন পাওয়া একজন সরকারি কর্মচারী কীভাবে তাঁর সন্তানদের যুক্তরাষ্ট্রে উচ্চশিক্ষার জন্য পাঠাতে পারেন!",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/cjp-chief-abhijit-dipke-publishes-his-scholarship-letter-to-counter-rti-activist-over-his-us-education-row_665195.html ",
+    "time": "2026-08-03T10:01:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "কালীঘাট শিবিরে বিরাট ধস: মমতা ঘনিষ্ঠ হেভিওয়েট দুই সাংসদ এবার বিক্ষুব্ধ তৃণমূলে? NCPI-তে যোগের বিরাট খবর",
+    "desc": "Kalighat MP's joining NCPI? সংসদদের বর্তমান রাজনৈতিক পরিস্থিতি ও ক্ষমতার সমীকরণ মাথায় রেখে এই যোগাযোগ অত্যন্ত তাৎপর্যপূর্ণ। রাজ্য রাজনীতির বিশ্লেষকদের একাংশ মনে করছেন, এনসিপিআই-এর মাধ্যমে কার্যত এক ধরনের কৌশলগত জোট বা রাজনৈতিক অবস্থান নেওয়ার পথ তৈরি করা হচ্ছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/two-more-tmc-mps-likely-to-switch-camps-speculation-rises-in-national-politics_665192.html ",
+    "time": "2026-08-03T09:26:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "বাঁকিপুরই জেন-জির বদলাপুর? ৩৫ বছরের গেরুয়া দুর্গ পুরো ধসিয়ে দিলেন PK-- ভোটের বড় খবর",
+    "desc": "রাজনৈতিক জীবন শুরুর ক্ষেত্রে প্রশান্ত কিশোর কোনও 'নিরাপদ আসন' (Safe Seat) বেছে নেননি। বিজেপির বহুবছরের দুর্গ বাঁকিপুরকে বেছে নিয়ে তিনি বার্তা দিতে চেয়েছিলেন যে, জন সুরজ পার্টি প্রথাগত জাতি ও ধর্মের রাজনীতির বাইরে উঠে এক নতুন বিকল্প গড়ে তুলতে চায়।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/bankipur-by-election-result-2026-live-prashant-kishor-maintains-strong-lead-of-8000-vote-over-bjp-in-bihar-bastion_665174.html ",
+    "time": "2026-08-03T08:24:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ভয়ংকর খবর: সোম-সকালেই আত্মঘাতী রোহিত শর্মা, তোলপাড় দেশ",
+    "desc": "ঘনিষ্ঠ সূত্রের খবর অনুযায়ী, বহু বছরের পরিশ্রম ও স্বপ্নের প্রজেক্ট এক লহমায় বন্ধ হয়ে যাওয়ার ফলে রোহিত চরম মানসিক চাপে ভুগছিলেন। ব্যবসায়িক লোকসান, ঋণের চাপ এবং ভবিষ্যৎ অনিশ্চয়তা তাঁকে গভীর অবসাদের দিকে ঠেলে দেয়। আর তারপরই এই সিদ্ধান্ত।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/tragedy-hits-startup-world-chaiwalaz-founder-rohit-sharma-passes-away-by-suicide_665162.html ",
+    "time": "2026-08-03T07:25:14.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "ট্রেনের ইঞ্জিনে দাউ দাউ করে আগুন, প্রাণভয়ে কামরায় হুড়োহুড়ি-ছোটাছুটি যাত্রীদের",
     "desc": "লোকো পাইলট ও স্টেশনের দায়িত্বরত কর্মীরা মুহূর্তের মধ্যে জ্বলন্ত ইঞ্জিনটিকে পেছনে থাকা যাত্রীবাহী বগিগুলো থেকে আলাদা করে দেন, ফলে আগুন কামরাগুলোতে ছড়াতে পারেনি। প্রাথমিক অনুমানে শর্ট সার্কিট থেকে অগ্নিকাণ্ডের আশঙ্কা করা হচ্ছে। ঘটনার প্রকৃত কারণ অনুসন্ধানে পূর্ব-মধ্য রেলের তরফে উচ্চপর্যায়ের তদন্ত শুরু হয়েছে।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -97,15 +142,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/i-am-only-15-girl-apologises-in-video-for-abusing-pm-modi-says-first-and-last-mistake_664994.html ",
     "time": "2026-08-01T08:36:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ছেলেমানুষ ওরা, তাই ক্ষমা করে দিলাম...! যন্তর মন্তরে প্রয়াত মাকে তীব্র কটূক্তির জবাবে নমোর বার্তা",
-    "desc": "ভিডিয়ো বার্তায় প্রধানমন্ত্রী মোদী বলেন, যন্তর মন্তরে যা ঘটেছে তা অত্যন্ত কষ্টদায়ক। দেশের বিভিন্ন প্রান্ত থেকে আসা কিছু তরুণ তাঁকে ও তাঁর প্রয়াত মা-কে অশালীন ভাষায় গালিগালাজ করেছে। কিন্তু তিনি মনে করেন, অল্প বয়সে মানুষ ভুল করে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/pm-modi-forgives-gen-z-protesters-over-derogatory-remarks-in-neet-protest_664947.html ",
-    "time": "2026-08-01T04:52:48.000Z"
   },
   {
     "cat": "World",
