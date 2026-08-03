@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Shashank Singh completes move to Pondicherry for 2026-27 domestic season, alleges ill-treatment by CSCS",
+    "desc": "In a major development, India batter Shashank Singh has completed his move to Pondicherry for the upcoming 2026-27 domestic cricket season. It is worth noting that Shashank Singh represented Chhattisgarh in domestic cricket, but alleging...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shashank-singh-completes-move-to-pondicherry-for-2026-27-domestic-season-alleges-ill-treatment-by-cscs-2026-08-03-1050242",
+    "time": "2026-08-03T12:23:37.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "T Dilip pens heartfelt note after his tenure as India's fielding coach ends",
     "desc": "The Indian team is all set to take on Sri Lanka in a two-game Test series starting from August 15. Ahead of the series, the BCCI (Board of Control for Cricket in India) came forward...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-appoint-new-fielding-coach-after-t-dilips-departure-to-take-over-from-sri-lanka-tour-2026-08-03-1050177",
     "time": "2026-08-02T18:34:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Commonwealth Games 2026 final medal tally; where did India finish in standings?",
-    "desc": "Curtains were drawn on the Commonwealth Games 2026 as Glasgow bid adieu to the quadrennial event. The Glasgow Games witnessed 74 nations and territories participating in the event, with the sports truncated to 10 from...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/commonwealth-games-2026-final-medal-tally-where-did-india-finish-in-standings-2026-08-02-1050175",
-    "time": "2026-08-02T18:06:14.000Z"
   }
 ];
