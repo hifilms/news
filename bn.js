@@ -1,6 +1,51 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "ইন্ডিয়া জোটের জন্য মঙ্গলে ভয়ানক অমঙ্গল: বাঁকিপুরে বাজি জিতে একা থাকার পণ পিকের",
+    "desc": "সোমবার ফল প্রকাশের পর সংবাদমাধ্যমের মুখোমুখি হয়ে ভোটকুশলী থেকে রাজনীতিবিদ হয়ে ওঠা প্রশান্ত কিশোর বলেন, 'বাঁকিপুরের মানুষ বহুদিনের পুরনো দলগুলোর বাইরে এসে আমাদের ভোট দিয়েছেন। বিহারের মানুষের ওপরই আমাদের সম্পূর্ণ ভরসা। তাই অন্য কোনও দলের সঙ্গে জোটের কোনও প্রশ্নই ওঠে না।'",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/massive-blow-to-bjp-in-bihar-prashant-kishor-wrests-bankipur-stronghold-in-electoral-debut_665347.html ",
+    "time": "2026-08-04T07:39:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "তৃষার সঙ্গে মুখ্যমন্ত্রীকে জড়িয়ে কুরুচিকর কটূক্তি ‘অশ্লীল নিধি’-র! গ্রেফতার জুনিয়র স্ট্যালিন",
+    "desc": "জনসভায় তোলা মাত্র একটা বিতর্কিত শব্দ, আর তাতেই তামিলনাড়ুর রাজনীতিতে নামল চরম বিপর্যয়! অভিনেত্রী তৃষা ও মুখ্যমন্ত্রী বিজয়কে জড়িয়ে বিস্ফোরক মন্তব্যের পরেই বিরোধী দলনেতা উদয়নিধি স্টালিনের বাড়ির সামনে পৌঁছাল পুলিস। দায়ের পরপর একাধিক জামিনঅযোগ্য মামলা! কিন্তু আটক হওয়ার মুহূর্তেও তিনি বেপরোয়া।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/tamil-nadu-cops-detain-udhayanidhi-stalin-over-vulgar-trisha-remarks-chaos-outside-home_665344.html ",
+    "time": "2026-08-04T07:03:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "বাংলা ছবিতে নতুন রসায়ন! প্রথমবার সৃজিতের সুরে প্লে-ব্যাক অনির্বাণের",
+    "desc": "আক্ষরিক অর্থেই মাল্টিটাস্কার সৃজিত মুখোপাধ্যায়। তাঁর ছবির পরিচালনা মানেই গান, আবহ নিঁখুত। এতদিন পছন্দের কম্পোজিশন ছবির তৈরির আগেই বুক করে রাখতেন তিনি, একথা বাংলা ইন্ডাস্ট্রির প্রায় সব মিউজিক কম্পোজাররা জানেন। কিন্তু এবারে হাতে-কলমে কাজ করছেন তিনি। অন্যদিকে, সমস্ত ব্যান বিতর্ক পিছনে ফেলে কাজে ফিরেছেন অনির্বাণ। কিন্ত সৃজিতের ছবিতে তাঁর কী ভূমিকা?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/srijit-mukherji-composes-first-song-sung-by-anirban-bhattacharya-queen-victoria-aar-goenda-kanaicharan_665340.html ",
+    "time": "2026-08-04T06:21:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "সন্ধ্যাকে না পাওয়ায় নৃশংস কাণ্ড অমিতের! যুবতীর টিচারকে স্কুলে ঢুকে ৩৪ বার কুপিয়ে খুন",
+    "desc": "পুলিসের প্রাথমিক তদন্তে উঠে এসেছে এক চাঞ্চল্যকর তথ্য। নিহত সান্ধ্যা এবং অভিযুক্ত অমিতের পরিচয় ছিল প্রায় দুই বছরের পুরনো। অমিত যখন ওই গ্রামের একটি স্কুলে পড়াশোনা করত, তখন থেকেই সে সন্ধ্যাকে উত্যক্ত এবং পিছু করত।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/masked-stalker-stabs-29-year-old-school-teacher-to-death-on-school_665339.html ",
+    "time": "2026-08-04T06:21:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "স্টারডম ভুলে সোজা লঙ্গরে! কাদা-জলে নেমে আশ্রয়হীনদের মুখে খাবার তুলে দিলেন রণদীপ",
+    "desc": "ভয়াবহ বন্যার কবলে অসম! লাখ লাখ মানুষের হাহাকারের মাঝে এবার পর্দার স্টারডম ছেড়ে সরাসরি ময়দানে নামলেন বলিউড অভিনেতা রণদীপ হুডা। শিবসাগরের দুর্গত এলাকায় নিজের হাতে লঙ্গরের খাবার পরিবেশন ও প্রয়োজনীয় ত্রাণসামগ্রী বণ্টন করলেন জাতীয় পুরস্কারপ্রাপ্ত এই তারকা। \"মানবতার চেয়ে বড় ধর্ম আর নেই\"— তাঁর এই বার্তায় মন জয় করে নিয়েছেন সকলের।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/randeep-hooda-joins-flood-relief-efforts-in-assam-distributes-aid-to-affected-families_665336.html ",
+    "time": "2026-08-04T05:42:36.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "নিখুঁত নিশানায় ৩০ মাথা সাফ! হামজা স্টাইলে 'টার্গেট কিলিং', ভিডিয়োয় দাবি লস্কর নেতার",
     "desc": "পাকিস্তানে বসে একের পর এক লস্কর-ই-তৈবা জঙ্গির রহস্যমৃত্যু! কারা চালাচ্ছে এই গোপন ও নিখুঁত অপারেশন? সম্প্রতি এক ভিডিয়োতে ৩০-এর বেশি সদস্য খতম হওয়ার কথা মেনে নিল লস্কর নিজেই। করাচি থেকে মুজফফরাবাদ— অদৃশ্য কোনও শক্তির আঘাত নাকি ধরাছোঁয়ার বাইরে থাকা ‘অজ্ঞাত বন্দুকবাজ’-এর ভয়? শেষ হতে চলেছে পুরো জঙ্গি নেটওয়ার্ক?",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -70,51 +115,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/cjp-chief-abhijit-dipke-publishes-his-scholarship-letter-to-counter-rti-activist-over-his-us-education-row_665195.html ",
     "time": "2026-08-03T10:01:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "কালীঘাট শিবিরে বিরাট ধস: মমতা ঘনিষ্ঠ হেভিওয়েট দুই সাংসদ এবার বিক্ষুব্ধ তৃণমূলে? NCPI-তে যোগের বিরাট খবর",
-    "desc": "Kalighat MP's joining NCPI? সংসদদের বর্তমান রাজনৈতিক পরিস্থিতি ও ক্ষমতার সমীকরণ মাথায় রেখে এই যোগাযোগ অত্যন্ত তাৎপর্যপূর্ণ। রাজ্য রাজনীতির বিশ্লেষকদের একাংশ মনে করছেন, এনসিপিআই-এর মাধ্যমে কার্যত এক ধরনের কৌশলগত জোট বা রাজনৈতিক অবস্থান নেওয়ার পথ তৈরি করা হচ্ছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/two-more-tmc-mps-likely-to-switch-camps-speculation-rises-in-national-politics_665192.html ",
-    "time": "2026-08-03T09:26:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বাঁকিপুরই জেন-জির বদলাপুর? ৩৫ বছরের গেরুয়া দুর্গ পুরো ধসিয়ে দিলেন PK-- ভোটের বড় খবর",
-    "desc": "রাজনৈতিক জীবন শুরুর ক্ষেত্রে প্রশান্ত কিশোর কোনও 'নিরাপদ আসন' (Safe Seat) বেছে নেননি। বিজেপির বহুবছরের দুর্গ বাঁকিপুরকে বেছে নিয়ে তিনি বার্তা দিতে চেয়েছিলেন যে, জন সুরজ পার্টি প্রথাগত জাতি ও ধর্মের রাজনীতির বাইরে উঠে এক নতুন বিকল্প গড়ে তুলতে চায়।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/bankipur-by-election-result-2026-live-prashant-kishor-maintains-strong-lead-of-8000-vote-over-bjp-in-bihar-bastion_665174.html ",
-    "time": "2026-08-03T08:24:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ভয়ংকর খবর: সাতসকালেই আত্মঘাতী রোহিত শর্মা, তোলপাড় দেশ",
-    "desc": "ঘনিষ্ঠ সূত্রের খবর অনুযায়ী, বহু বছরের পরিশ্রম ও স্বপ্নের প্রজেক্ট এক লহমায় বন্ধ হয়ে যাওয়ার ফলে রোহিত চরম মানসিক চাপে ভুগছিলেন। ব্যবসায়িক লোকসান, ঋণের চাপ এবং ভবিষ্যৎ অনিশ্চয়তা তাঁকে গভীর অবসাদের দিকে ঠেলে দেয়। আর তারপরই এই সিদ্ধান্ত।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/tragedy-hits-startup-world-chaiwalaz-founder-rohit-sharma-passes-away-by-suicide_665162.html ",
-    "time": "2026-08-03T07:25:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ট্রেনের ইঞ্জিনে দাউ দাউ করে আগুন, প্রাণভয়ে কামরায় হুড়োহুড়ি-ছোটাছুটি যাত্রীদের",
-    "desc": "লোকো পাইলট ও স্টেশনের দায়িত্বরত কর্মীরা মুহূর্তের মধ্যে জ্বলন্ত ইঞ্জিনটিকে পেছনে থাকা যাত্রীবাহী বগিগুলো থেকে আলাদা করে দেন, ফলে আগুন কামরাগুলোতে ছড়াতে পারেনি। প্রাথমিক অনুমানে শর্ট সার্কিট থেকে অগ্নিকাণ্ডের আশঙ্কা করা হচ্ছে। ঘটনার প্রকৃত কারণ অনুসন্ধানে পূর্ব-মধ্য রেলের তরফে উচ্চপর্যায়ের তদন্ত শুরু হয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/bihar-simri-bakhtiyarpur-passenger-train-engine-fire-news_665152.html ",
-    "time": "2026-08-03T04:04:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'৩,১৪৩.৫ কোটি টাকার তহবিল সংগ্রহে SEBI-র নির্দেশের কোনও প্রভাব নেই', স্পষ্ট জানাল 'Z'",
-    "desc": "'Z'-র মুখপাত্র বলেন, 'আমরা কোম্পানি সিকিউরিটিজ অ্যান্ড এক্সচেঞ্জ বোর্ড অব ইন্ডিয়া (SEBI)-র জারি করা নির্দেশটি পেয়েছি। এই বিষয়ে আইনি বিশেষজ্ঞদের পরামর্শ নিচ্ছে। কোম্পানির দৃঢ় বিশ্বাস যে, সেবির এই নির্দেশের সাথে তহবিল সংগ্রহের উদ্যোগের কোনও প্রত্যক্ষ সম্পর্ক বা প্রভাব নেই'।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/sebi-order-bears-no-direct-impact-on-rs-3143-5-crore-fund-raising-exercise-says-z_665122.html ",
-    "time": "2026-08-02T16:44:38.000Z"
   },
   {
     "cat": "Entertainment",
@@ -286,24 +286,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/sudipta-chakraborty-quits-lakh-takar-lokkhi-labh-payel-de-new-host_664565.html ",
     "time": "2026-07-29T12:28:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ভয়াবহ বন্যায় অসমে লাখ-লাখ মানুষ বানভাসি, ভিটেহারাদের মাসিহা হয়ে মাঠে নামলেন ভাইজান, বানিয়ে দেবেন বাড়ি",
-    "desc": "অসমের পরিস্থিতির উন্নতি হলেও বেশ কয়েকটি জেলা এখনও বন্যার মোকাবিলা করছে। সরকারি সংস্থা ও বিভিন্ন সহায়তা প্রদানকারী দলের মাধ্যমে ত্রাণ ও পুনর্বাসন কার্যক্রম অব্যাহত রয়েছে। ৯০টি ত্রাণ শিবির ও ৯৮টি ত্রাণ কেন্দ্র ভিটেহারাদের পাশে দাঁড়িয়েছে। আর এবার মাসিহা হয়ে মাঠে নামলেন সলমান খান",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/salman-khan-massive-relief-work-floods-in-assam_664535.html ",
-    "time": "2026-07-29T09:50:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘টাকা ফেরত চাইলে বিপদ!', ৬৮ লক্ষর আর্থিক প্রতারণার অভিযোগে আইনি বিপাকে সোহম",
-    "desc": "সিনেমা তৈরির নামে ৬৮ লক্ষ টাকা নিয়ে প্রতারণা, বিশ্বাসভঙ্গ ও প্রাণনাশের হুমকির অভিযোগে অভিনেতা সোহম চক্রবর্তীর বিরুদ্ধে চারু মার্কেট থানায় লিখিত অভিযোগ করলেন এক ব্যবসায়ী। ‘পাকা দেখা’ সিনেমার লভ্যাংশ না দিয়ে উল্টে প্রভাব খাটিয়ে ভয় দেখানোর অভিযোগ উঠেছে। এর আগেও সোহমের বিরুদ্ধে কোটি টাকার প্রতারণার অভিযোগ উঠেছিল।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/fraud-and-threat-complaint-against-actor-soham-chakraborty_664507.html ",
-    "time": "2026-07-29T08:28:17.000Z"
   },
   {
     "cat": "World",

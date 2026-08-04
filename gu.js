@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "16 ઓગસ્ટ પછી મોંઘા મળશે ગેસ સિલિન્ડર! Indane Gas, HP Gas અને Bharat Gasના કસ્ટમર્સ તરત કરે આ કામ",
+    "desc": "16 ઓગસ્ટ સુધીમાં LPG e-KYC પૂર્ણ કરવામાં બાકી રહેનાર લોકોને સબસિડી ગુમાવવી પડશે. ઇન્ડેન, ભારત ગેસ અને HP ગેસ માટે e-KYC ઓનલાઇન કેવી રીતે પૂર્ણ કરવું તે જાણો અને કયા લોકોને આ કરાવવાની જરૂર પડશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gas-cylinders-will-be-expensive-after-august-16-customers-of-indane-gas-hp-gas-and-bharat-gas-should-do-this-immediately-486699 ",
+    "time": "2026-08-04T07:42:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "4થી 9 ઓગસ્ટ વચ્ચે નેટફ્લિક્સ, હોટસ્ટાર અને પ્રાઈમ પર રિલીઝ થશે આ ફિલ્મો અને વેબ સિરીઝ, જલસો પડશે",
+    "desc": "અત્યારનો સમય એવો છે કે મોટાભાગના લોકો થિયેટરમાં જઈને ફિલ્મો જોવાની જગ્યાએ ઘરે બેસીને જ વેબ સિરીઝ અને ફિલ્મો જોવાનું પસંદ કરે છે. 4 ઓગસ્ટથી લઈને 9 ઓગસ્ટ વચ્ચે કઈ કઈ ફિલ્મો અને વેબ સિરીઝ રિલીઝ થઈ રહી છે તે ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/upcoming-webseries-and-movies-netflix-hotstar-and-prime-between-august-4th-and-9th-486694 ",
+    "time": "2026-08-04T07:18:38.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "&amp;#039;યાત્રીગણ કૃપયા ધ્યાન દે&amp;#039;... શું રેલવે સ્ટેશન પર રોજ કોઈ માઇક પર બોલે છે? જાણો આ સુરીલા અવાજ પાછળનું સિક્રેટ!",
+    "desc": "રેલવે સ્ટેશન પર યાત્રીગણ કૃપયા ધ્યાન દે, કહેનાર સુરીલા અવાજની પાછળ શું સત્ય છે? જો તમને લાગે છે કે કોઈ વ્યક્તિ માઇક પર બેસી દરેક સમયે બોલે છે, તો તમે ખોટા છો. જાણો કઈ રીતે ભારતીય રેલવેની 'CRIS' સિસ્ટમ અને ઓટોમેટિક તકનીક કોઈ ભૂલ વગર તમારા સુધી ટ્રેનની ચોક્કસ જાણકારી પહોંચાડે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/who-says-attention-please-at-railway-stations-human-or-computer-know-the-real-truth-behind-the-voice-486692 ",
+    "time": "2026-08-04T07:02:36.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "8મા પગાર પંચમાં મોટો ટ્વિસ્ટ! પેન્શનરોએ રાખી આ 8 મુખ્ય માંગણીઓ, શું હવે બદલાશે પગારનું માળખું?",
+    "desc": "રેલવે સિનિયર સિટીઝન્સ વેલ્ફેર સોસાયટી (RSCWS)એ 8મા પગાર પંચ સમક્ષ પેન્શન અને પગાર વ્યવસ્થા સંબંધિત આઠ મુખ્ય માંગણીઓ મૂકી છે. આયોગ હાલમાં વિવિધ સંગઠનો પાસેથી સૂચનો લઈ રહ્યું છે અને 2027માં સરકારને તેની અંતિમ ભલામણો સુપરત કરે તેવી અપેક્ષા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/big-twist-in-the-8th-pay-commission-pensioners-have-made-these-8-main-demands-will-the-salary-structure-change-now-486689 ",
+    "time": "2026-08-04T06:42:26.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "મુકેશ અંબાણીએ મધ્યમ વર્ગ માટે ખોલી તિજોરી! Jio આપી રહ્યું છે જબરદસ્ત ડિસ્કાઉન્ટ સાથે 100Mbps ઇન્ટરનેટ સ્પીડ અને 12થી વધુ OTT એપ્સ",
     "desc": "Reliance Jio એ ઇન્ડિપેન્ડન્સ ડે ઓફર હેઠળ પોતાના 100Mbps બ્રોડબેન્ડ પ્લાન પર 6,000 રૂપિયાનું ભારે ડિસ્કાઉન્ટ આપ્યું છે. હવે માત્ર ₹666 પ્રતિ મહિનામાં મેળવો 100Mbps સ્પીડ, 1000+ લાઈવ TV ચેનલો અને Zee5, SonyLiv જેવી OTT એપ્સ. પૂરી માહિતી અહીં વાંચો.",
@@ -405,15 +441,6 @@ const newsData_gu = [
     "time": "2026-08-01T12:11:45.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ભારતની દીકરીઓએ કોમનવેલ્થ ગેમ્સમાં મચાવી ધૂમ, પ્રીતિ બાદ જાસ્મીન લંબોરિયાએ જીત્યો ગોલ્ડ",
-    "desc": "કોમનવેલ્થ ગેમ્સ 2026માં ભારતીય ખેલાડીઓનું પ્રભાવશાળી પ્રદર્શન યથાવત છે. 1 ઓગસ્ટે પણ ભારતે શાનદાર શરૂઆત કરી હતી. પ્રીતિ પવારે કેનેડાની સ્કારલેટ ડેલગાડોને હરાવીને મહિલા 54 કિગ્રા બોક્સિંગ કેટેગરીમાં ગોલ્ડ મેડલ જીત્યો હતો. જે બાદ જાસ્મીન લંબોરિયાએ પણ ભારતને વધુ એક ગોલ્ડ મેડલ અપાવ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/commonwealth-games-2026-indian-boxer-preeti-pawar-win-gold-medal-486383 ",
-    "time": "2026-08-01T11:11:22.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "128KMની દમદાર રેન્જ! માત્ર 30 રૂપિયાથી ઓછામાં ફૂલ ચાર્જ.... Vidaએ લોન્ચ કર્યું શાનદાર નવું ઇલેક્ટ્રિક સ્કૂટર",
     "desc": "Vidaએ ભારતીય બજારમાં પોતાનું નવું સ્કૂટર લોન્ચ કર્યું છે. આ સ્કૂટર 128 કિલોમીટરની રેન્જ આપે છે. તે 3.1kWh ફિક્સ્ડ બેટરી સાથે આવે છે, એટલે કે તમે આ બેટરી સ્કૂટરમાંથી કાઢી શકતા નથી. આનાથી કંપનીના VX2 પોર્ટફોલિયોમાં સ્કૂટરની સંખ્યા પાંચ થઈ ગઈ છે. ચાલો આ સ્કૂટરની ખાસિયતો જોઈએ.",
@@ -592,14 +619,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/4-bollywood-movies-based-on-kargil-war-must-watch-patriotic-movies-on-kargil-vijay-diwas-2026-485790 ",
     "time": "2026-07-26T07:44:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "આમિર ખાનનો સાવકો ભાઈ નીકળ્યો રિયલ વીલન, પત્ની ઈવા ગ્રોવરને ડાયરેક્ટર સાથે સુવા કરતો ફોર્સ, અભિનેત્રીએ જણાવી આપવીતી",
-    "desc": "ટીવી અભિનેત્રી ઈવા ગ્રોવર એક ઈન્ટરવ્યુ દરમિયાન તેના એક્સ હસબંડ વિશે ચોંકાવનારા ખુલાસા કર્યા છે. સૌથી પહેલા જણાવી દઈએ કે ઈવા ગ્રોવરનો પૂર્વ પતિ હૈદર અલી ખાન છે જે આમિર ખાનનો સાવકો ભાઈ છે. અભિનેત્રીના જણાવ્યા અનુસાર હૈદર તેને પૈસા અને કામ માટે ડિરેક્ટર્સ સાથે સુવાનો ફોર્સ કરતો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/aamir-khan-step-brother-hyder-ali-khan-forced-his-wife-actress-eva-grover-to-sleep-with-directors-said-actress-485729 ",
-    "time": "2026-07-25T12:01:43.000Z"
   }
 ];

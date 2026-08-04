@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Ben Stokes plans to become England head coach, questions Joe Root's appointment as captain over Harry Brook",
+    "desc": "Former England captain Ben Stokes has revealed that he wants to return to the national setup as a coach after the end of his playing career. The all-rounder announced his retirement from international cricket during...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ben-stokes-plans-to-become-england-head-coach-questions-joe-root-s-appointment-as-captain-over-harry-brook-2026-08-04-1050302",
+    "time": "2026-08-04T07:42:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Novak Djokovic proposes major changes in tennis, wants to rewrite traditional scoring system",
+    "desc": "Novak Djokovic has called for significant changes to tennis scoring. He proposed a shorter set format while insisting that Grand Slam tournaments should continue to be contested over the best of five sets. The 24-time...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-proposes-major-changes-in-tennis-wants-to-rewrite-traditional-scoring-system-2026-08-04-1050296",
+    "time": "2026-08-04T06:56:03.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Pakistan appoint former South Africa cricketer as new batting coach",
     "desc": "Former South African cricketer Michael Smith has been appointed as the batting coach of the Pakistan men's team. The Pakistan Cricket Board (PCB) has confirmed the latest development on Tuesday morning via an official statement....",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/not-too-fussed-aiden-markram-opens-up-on-vacant-captaincy-spot-at-lucknow-super-giants-ahead-of-ipl-2027-2026-08-03-1050226",
     "time": "2026-08-03T09:38:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vinesh Phogat hits out after Brij Bhushan Singh judgment, says 'entire system protects him'",
-    "desc": "The news of former Wrestling Federation of India (WFI) chief Brij Bhushan Sharan Singh’s acquittal from the high-profile sexual harassment case filed by female wrestlers has caught the eyes of many. It is worth noting...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/vinesh-phogat-hits-out-after-brij-bhushan-singh-judgment-says-entire-system-protects-him-2026-08-03-1050219",
-    "time": "2026-08-03T08:19:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Xabi Alonso reveals getting a 'scar' from Real Madrid, remains positive on his future with Chelsea",
-    "desc": "The 2026-27 Premier League season is right around the corner, and the various sides are hard at work preparing for the new season. With the campaign all set to begin, many eyes will be set...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/xabi-alonso-reveals-getting-a-scar-from-real-madrid-remains-positive-on-his-future-with-chelsea-2026-08-03-1050212",
-    "time": "2026-08-03T07:52:44.000Z"
   }
 ];
