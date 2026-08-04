@@ -1,6 +1,24 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "UPI અને ડિજિટલ પેમેન્ટ પર લાગી શકે છે ચાર્જ ! 6 વર્ષ પછી MDRની વાપસી, સરકાર લાવી નવું બિલ",
+    "desc": "સરકાર પેમેન્ટ એક્ટમાં સુધારો કરવા માટે એક નવું બિલ લાવી રહી છે. નાણા મંત્રાલય આ બિલ સંસદમાં રજૂ કરવા જઈ રહી છે. જો આ બિલ પસાર થાય છે, તો UPI અને ડિજિટલ પેમેન્ટ પર MDR (મર્ચન્ટ ડિસ્કાઉન્ટ રેટ)ની ફરીથી વાપસી થઈ શકે છે અને ડિજિટલ પેમેન્ટ પર ચાર્જ લાગી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/will-upi-payments-stop-being-free-govt-bill-signals-return-of-mdr-on-upi-486744 ",
+    "time": "2026-08-04T13:26:45.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "પાકિસ્તાનમાં થવા જઈ રહ્યો છે તખ્તાપલટ ? ઇસ્લામાબાદ કરાયું સીલ! આસિમ મુનીરે ખેલ્યો મોટો દાવ",
+    "desc": "પાકિસ્તાનમાં સત્તા પલટાની અટકળો વચ્ચે ઇસ્લામાબાદના અનેક વિસ્તારો કન્ટેનરોથી સીલ કરાયા છે. ગૃહમંત્રી મોહસિન નકવીએ દેશના સૌથી મોટા કૌભાંડ અને શાસન વ્યવસ્થા ધ્વસ્ત થવાનો દાવો કર્યો છે. આ નિવેદનોથી રાજકીય તણાવ વધ્યો છે. ત્યારે આગામી સમયમાં પારિસ્તાનમાં મોટી ઉથલપાથલ થવાના સંકેતો દેખાઈ રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/pakistan-coup-rumours-islamabad-sealed-with-containers-asim-munir-486747 ",
+    "time": "2026-08-04T12:50:33.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "માત્ર ₹610 બચાવો અને બનાવો લાખોનું ફંડ, જાણો SBIની ખાસ સ્કીમ",
     "desc": "શું તમે મોટી રકમનું રોકાણ કર્યા વિના એક જ વારમાં 1 લાખ રૂપિયાનું ભંડોળ ઊભું કરવા માંગો છો? જો એમ હોય, તો સ્ટેટ બેંક ઓફ ઇન્ડિયા (SBI)ની \"હર ઘર લખપતિ\" યોજના તમારા માટે ઉપયોગી થઈ શકે છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -556,15 +574,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/tata-motors-suffers-major-blow-due-to-floods-in-gujarat-production-halt-may-affect-supply-of-these-favourite-cars-know-486068 ",
     "time": "2026-07-29T04:29:30.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ટ્રમ્પના યુદ્ધવિરામ વચ્ચે ઈરાનનો મોટો હુમલો, જોર્ડનમાં અમેરિકી બેઝ પર બેલેસ્ટિક મિસાઇલો ઝીંકી, જાણો",
-    "desc": "યુએસ સેન્ટ્રલ કમાન્ડે તેને એક આશ્ચર્યજનક હુમલો કરવાનો પ્રયાસ ગણાવ્યો હતો. સેન્ટકોમ અનુસાર, બધી મિસાઇલો સફળતાપૂર્વક અટકાવવામાં આવી હતી. એક દિવસ પહેલા જ, યુએસ પ્રમુખ ડોનાલ્ડ ટ્રમ્પે જણાવ્યું હતું કે વોશિંગ્ટન અને તેહરાન વચ્ચે વાતચીત સારી રીતે આગળ વધી રહી છે અને ડીલ થવાની સારી તક છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/iran-launches-major-attack-amid-trump-ceasefire-launches-ballistic-missiles-at-us-base-in-jordan-know-486057 ",
-    "time": "2026-07-29T02:25:49.000Z"
   },
   {
     "cat": "Tech",

@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Indian team reaches Sri Lanka for Test series in hopes of reviving WTC campaign",
+    "desc": "The Shubman Gill-led Indian team on Tuesday landed in Sri Lanka ahead of a crucial two-match Test series, beginning August 15. Sri Lanka Cricket shared pictures of the Indian side reaching the island nation for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/indian-team-reaches-sri-lanka-for-test-series-in-hopes-of-reviving-wtc-campaign-2026-08-04-1050347",
+    "time": "2026-08-04T13:43:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mansukh Mandaviya felicitates Indian boxers for historic Commonwealth Games outing",
+    "desc": "Mansukh Mandaviya, Union Sports Minister, on Tuesday felicitated the Indian boxers, who made history for India during the recently concluded Commonwealth Games 2026 in Glasgow. Mandaviya met the boxers at his residence in New Delhi...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/mansukh-mandaviya-felicitates-indian-boxers-for-historic-commonwealth-games-outing-watch-2026-08-04-1050342",
+    "time": "2026-08-04T12:54:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Chamari Athapaththu reaches career-best rankings, surpasses Shafali Verma after Sri Lanka's win over Pakistan",
+    "desc": "Sri Lanka captain Chamari Athapaththu achieved her career-best spot in the ICC women's T20I rankings for batters after helping her team beat Pakistan in the three-match T20I series on Tuesday, August 4. Athapaththu scored 39...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/chamari-athapaththu-reaches-career-best-rankings-surpasses-shafali-verma-after-sri-lankas-win-over-pakistan-2026-08-04-1050333",
+    "time": "2026-08-04T11:44:27.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Neeraj Chopra's next javelin event revealed as ex-Olympic champion to face tough field ahead of Asian Games",
     "desc": "Neeraj Chopra is set to return to action in the Lausanne Diamond League as he faces a tough test in a challenging field. Chopra will be among 10 top athletes in the field for the...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/icc-bans-indian-origin-usa-cricketer-for-eight-years-after-being-found-guilty-by-anti-corruption-tribunal-2026-08-04-1050266",
     "time": "2026-08-04T01:26:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Selva Prabhu reveals reason behind not winning gold medal in Commonwealth Games 2026",
-    "desc": "Selva Prabhu has disclosed that he competed through food poisoning at the Commonwealth Games in Glasgow. The athlete mentioned that the illness left him unable to challenge for the men's triple jump title despite believing...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/selva-prabhu-reveals-reason-behind-not-winning-gold-medal-in-commonwealth-games-2026-2026-08-04-1050263",
-    "time": "2026-08-04T01:04:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shashank Singh completes move to Pondicherry for 2026-27 domestic season, alleges ill-treatment by CSCS",
-    "desc": "In a major development, India batter Shashank Singh has completed his move to Pondicherry for the upcoming 2026-27 domestic cricket season. It is worth noting that Shashank Singh represented Chhattisgarh in domestic cricket, but alleging...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shashank-singh-completes-move-to-pondicherry-for-2026-27-domestic-season-alleges-ill-treatment-by-cscs-2026-08-03-1050242",
-    "time": "2026-08-03T12:23:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "T Dilip pens heartfelt note after his tenure as India's fielding coach ends",
-    "desc": "The Indian team is all set to take on Sri Lanka in a two-game Test series starting from August 15. Ahead of the series, the BCCI (Board of Control for Cricket in India) came forward...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/t-dilip-pens-heartfelt-note-after-his-tenure-as-india-s-fielding-coach-ends-2026-08-03-1050238",
-    "time": "2026-08-03T11:24:29.000Z"
   }
 ];

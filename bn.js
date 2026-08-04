@@ -1,6 +1,33 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "৯২ বছরে থামল পথচলা: প্রয়াত পশ্চিমবঙ্গের প্রাক্তন রাজ্যপাল শিক্ষাবিদ পদ্মশ্রী ডি ওয়াই পাটিল",
+    "desc": "মহারাষ্ট্রের কোলাপুরে ৯২ বছর বয়সে শেষ নিঃশ্বাস ত্যাগ করলেন পশ্চিমবঙ্গের প্রাক্তন রাজ্যপাল, পদ্মশ্রী সম্মানপ্রাপ্ত শিক্ষাবিদ ও বর্ষীয়ান কংগ্রেস নেতা ডি ওয়াই পাটিল। তাঁর মৃত্যুতে শিক্ষা ও রাজনীতি জগতে নেমে এসেছে গভীর শোকের ছায়া। রাহুল গান্ধীসহ বিশিষ্ট ব্যক্তিরা জানান গভীর সমবেদনা।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/former-west-bengal-governor-dy-patil-passes-away-at-92_665436.html ",
+    "time": "2026-08-04T13:28:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "হরমুজের যুদ্ধে 'মৃত' নাবিক আশীষকে নিয়ে বিরাট রহস্য: DNA আর কঙ্কাল কার তাহলে? কিডন্য়াপ হয়ে অন্য দেশে বন্দি? ওকে ফিরিয়ে দিন, স্ত্রীর 'সুপ্রিম' আর্তি",
+    "desc": "হামলার পর ক্যাপ্টেনের কেবিন থেকে ওমানের উপকূলরক্ষী বাহিনী কিছু পোড়া হাড়গোড় উদ্ধার করে। প্রাথমিকভাবে মনে করা হয়েছিল যে সেই অবশিষ্টাংশ ক্যাপ্টেন আশিস কুমারেরই। তবে ওমান পুলিস ও তদন্তকারী সংস্থা যখন ওই হাড়ের সঙ্গে আশিসের ছোট ভাইয়ের ডিএনএ (DNA) নমুনা মেলায়, তখন দেখা যায় ডিএনএ মোটেও মিলছে না।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/hormuz-strait-ship-attack-wife-of-missing-indian-captain-moves-supreme-court-claiming-he-is-alive_665422.html ",
+    "time": "2026-08-04T11:54:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "উদয়নিধি স্টালিনের গ্রেফতারিতে বড় মোড়! পুলিসকে বড় নির্দেশ মাদ্রাজ হাইকোর্টের",
+    "desc": "নদীর জলের কথা বলতে গিয়ে আচমকা টেনে আনলেন জনপ্রিয় নায়িকা তৃষাকে! মুখ্যমন্ত্রীকে নিশানা করতে গিয়ে নারীদের অপমানের দায়ে এক লহমায় ৯টি ধারায় গ্রেফতার ডিএমকে নেতা উদয়নিধি স্টালিন। কিন্তু শ্রীঘরে পৌঁছাতেই কীভাবে উল্টে গেল রাজনৈতিক পাশার দান? পুলিসি হেফাজত থেকে জরুরি আদালতে মুক্তির নেপথ্যে লুকিয়ে কোন নাটকীয় চাল?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/release-udhayanidhi-stalin-today-after-questioning-madras-high-court-tells-cops_665414.html ",
+    "time": "2026-08-04T11:38:24.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "প্রশান্ত কিশোরের চেয়েও ধনী! ডাক্তার স্ত্রী বলছেন, 'ওর দল-কাজ নিয়ে মাথাও ঘামাই না...'",
     "desc": "রাজনীতির সফল কারিগর প্রশান্ত কিশোরকে চেনেন সবাই। কিন্তু আপনি কি জানেন, ধনসম্পত্তির খেলায় স্বামীকেও টেক্কা দিয়েছেন তাঁর আড়ালের স্ত্রী? উপনির্বাচনের সরকারি নথিতেই প্রকাশ পেল সেই চাঞ্চল্যকর তথ্য! কে এই চিকিৎসক ডঃ জাহ্নবী দাস? লাইমলাইটের আড়ালে থেকে কীভাবে গড়ে তুললেন ১০২ কোটি টাকার বিশাল সাম্রাজ্য? জেনে নিন সেই গল্প!",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -115,24 +142,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/saharanpur-shock-52-year-old-bodybuilder-and-college-clerk-shoots-himself-over-humiliation_665255.html ",
     "time": "2026-08-03T14:04:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "সোশ্যাল মিডিয়া থেকে রাজপথ: নিট আন্দোলনে জয়ের পরেই এবার কোন নতুন ইস্যুতে সরব CJP?",
-    "desc": "নিট (NEET) আন্দোলনের পর এবার কোন পথে ‘ককরোচ জনতা পার্টি’ (CJP)? আগামী ৫ অগাস্ট ছত্রপতি সম্ভাজিনগরে বসছে গুরুত্বপূর্ণ বৈঠক। সরকারি চাকরির নিয়োগে সংস্কার থেকে শুরু করে বেকারত্ব ও শূন্যপদ পূরণের মতো নতুন কী কী দাবি উঠতে পারে এই আন্দোলনের তরফে?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/cockroach-janta-party-chhatrapati-sambhajinagar-meeting-august-5-future-roadmap_665242.html ",
-    "time": "2026-08-03T13:01:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "পড়ুয়াদের একদম হেনস্থা করবেন না: এখনই যেখানে যত FIR আছে, তুলে নিন-- রাজ্যকে কড়া নির্দেশ সুপ্রিম কোর্টের",
-    "desc": "ফৌজদারি কার্যবিধিতে সরাসরি এফআইআর তুলে নেওয়ার কোনও স্পষ্ট বিধান থাকে না; এর পরিবর্তে পুলিসি ক্লোজার রিপোর্ট জমা দেওয়া, মামলা প্রত্যাহারের জন্য আদালতে আবেদন জানানো কিংবা আদালত কর্তৃক তা বাতিল (Quash) করার আইনি পথ খোলা থাকে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/supreme-court-clarifies-states-can-withdraw-or-close-firs-against-student-protesters_665205.html ",
-    "time": "2026-08-03T11:28:54.000Z"
   },
   {
     "cat": "Entertainment",
