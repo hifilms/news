@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sai Sudharsan to miss first Test against Sri Lanka? Report hints another setback for India",
+    "desc": "India have been dealing with multiple injury concerns as they gear up to face Sri Lanka in a two-match Test series from August 15 onwards. The Shubman Gill-led side will be missing out on their...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sai-sudharsan-to-miss-first-test-against-sri-lanka-report-hints-another-setback-for-india-2026-08-04-1050363",
+    "time": "2026-08-04T18:16:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Zaheer Khan, former India pacer, joins LPL's Jaffna franchise as co-owner",
+    "desc": "Former India cricketer Zaheer Khan has joined the Lanka Premier League's Jaffna franchise as the co-owner. The Jaffna franchise has been acquired by a Stockholm-based international sports ownership group, Anchor Sports AB. Zaheer, the 2011...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/zaheer-khan-former-india-pacer-joins-lpls-jaffna-franchise-as-co-owner-2026-08-04-1050362",
+    "time": "2026-08-04T17:37:19.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'I want to change the colour of my medal': Lovlina Borgohain eyes Asian Games glory after 2023 Asiad silver",
     "desc": "Lovlina Borgohain won a medal in the only major event that was missing from her illustrious cabinet when she clinched a silver during the Glasgow Commonwealth Games 2026. Lovlina, the 2023 world champion, lost out...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-proposes-major-changes-in-tennis-wants-to-rewrite-traditional-scoring-system-2026-08-04-1050296",
     "time": "2026-08-04T06:56:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan appoint former South Africa cricketer as new batting coach",
-    "desc": "Former South African cricketer Michael Smith has been appointed as the batting coach of the Pakistan men's team. The Pakistan Cricket Board (PCB) has confirmed the latest development on Tuesday morning via an official statement....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-appoint-former-south-africa-cricketer-as-new-batting-coach-2026-08-04-1050281",
-    "time": "2026-08-04T04:41:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI plans to bring in three new pacers if India fail to qualify for WTC final",
-    "desc": "Jasprit Bumrah’s constant battle with injuries has forced BCCI to build a new pace attack in Test cricket. The star pacer will remain the go-to option, but the goal is to develop a strong group...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-plans-to-bring-in-three-new-pacers-if-india-fail-to-qualify-for-wtc-final-2026-08-04-1050275",
-    "time": "2026-08-04T03:21:07.000Z"
   }
 ];
