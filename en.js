@@ -1,5 +1,86 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Day after PK's poll win, PM Modi talks to Nabin, meets Nitish",
+    "desc": "During a recent NDA meeting, government officials emphasized the importance of economic growth and the creation of jobs. The event also saw discussions surrounding India's evolving sports landscape. Prime Minister Modi and Amit Shah were present, and a humorous exchange between Modi and Nitin Nabin generated buzz among the MPs. Subsequently, Modi held discussions with former Bihar CM Nitish Kumar and his JDU associates.",
+    "img": "https://static.toiimg.com/photo/msid-132874493,imgsize-698669.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/day-after-pks-poll-win-pm-modi-talks-to-nabin-meets-nitish/articleshow/132874445.cms",
+    "time": "2026-08-04T21:29:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nora Fatehi addresses dating rumours with Moroccan GK Yassine Bounou",
+    "desc": "Nora Fatehi has finally addressed the dating rumours linking her to Moroccan football star Yassine Bounou, affectionately known as Bono. While reacting to the speculation with a blush, the actor-dancer clarified that the goalkeeper is a \"really good friend\" and praised both his personality and his achievements on the football field.",
+    "img": "https://static.toiimg.com/photo/msid-132873709,imgsize-98384.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nora-fatehi-breaks-silence-on-dating-rumours-with-yassine-bounou-calls-moroccan-goalkeeper-very-kind-and-one-of-the-best-in-the-world/articleshow/132873709.cms",
+    "time": "2026-08-04T21:00:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "From launch to data, tech to Isro facility, pvt firms to get 30-100% subsidy",
+    "desc": "New government schemes will offer significant financial support to Indian private space companies. These initiatives aim to boost domestic launch capabilities and global competitiveness for businesses. Subsidies will cover launch services, technology transfer, and access to ISRO facilities. The programs are designed to lower entry barriers and accelerate private sector growth. This support will make satellite data and infrastructure more affordable for Indian entities.",
+    "img": "https://static.toiimg.com/photo/msid-132873060,imgsize-622585.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/from-launch-to-data-tech-to-isro-facility-pvt-firms-to-get-30-100-subsidy/articleshow/132873060.cms",
+    "time": "2026-08-04T20:33:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NCP asks Sharad Pawar to seek Congress apology or quit INDIA Bloc over ‘gungi gudiya’ remark",
+    "desc": "The NCP accuses the Congress of insulting Sunetra Pawar with its ‘gungi gudiya’ remark, urges Sharad Pawar to seek an apology or leave the INDIA Bloc, and draws parallels with criticism once directed at Indira Gandhi",
+    "img": "https://th-i.thgim.com/public/news/national/5a193e/article71304459.ece/alternates/LANDSCAPE_1200/IMG_Sunetra_Pawar_2_1_OPCU4MUD.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/ncp-asks-sharad-pawar-to-seek-congress-apology-or-quit-india-bloc-over-gungi-gudiya-remark/article71304360.ece",
+    "time": "2026-08-04T20:27:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "For every Rs 100 India spends on R&amp;D, govt gives Rs 48, pvt Rs 45",
+    "desc": "The balance of research and development funding has shifted, with government and private industry now investing nearly the same amount. In recent years, private sector contributions to research have seen a notable rise. Government spending is concentrated on sectors deemed strategic and beneficial to the public. Additionally, multinational corporations are increasingly influential in shaping India's research environment, although the overall research intensity still lags behind other major economies.",
+    "img": "https://static.toiimg.com/photo/msid-132872361,imgsize-1345354.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/for-every-rs-100-india-spends-on-rd-govt-gives-rs-48-pvt-rs-45/articleshow/132872361.cms",
+    "time": "2026-08-04T20:21:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sachin Siwach, Preeti Pawar eye Asian Games gold after record-breaking Boxing medal haul at CWG 2026",
+    "desc": "Speaking to ANI, Sachin, who secured a gold medal in the men's 60 kg final, said that seeing the national flag hoisted after the gold medal win is a \"different kind of happiness\" and a reason why they all play sport",
+    "img": "https://th-i.thgim.com/public/incoming/b3p2mz/article71307001.ece/alternates/LANDSCAPE_1200/PTI08_04_2026_000213B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/sachin-siwach-preeti-pawar-eye-asian-games-gold-after-record-breaking-boxing-medal-haul-at-cwg-2026/article71306998.ece",
+    "time": "2026-08-04T20:00:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "FIFA executive Arsene Wenger backs decision to drop Gianni Infantino's World Cup sell-off plan",
+    "desc": "Wenger's statement on the controversy came after a letter from UEFA's lawyers to Infantino threatening legal action named the French coaching great among 18 executives whose data and communications should be retained as potential evidence",
+    "img": "https://th-i.thgim.com/public/incoming/rh70jp/article71306994.ece/alternates/LANDSCAPE_1200/2026-07-18T180351Z_1307248439_UP1EM7I1E6E56_RTRMADP_3_SOCCER-WORLDCUP-FIFA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/fifa-executive-arsene-wenger-backs-decision-to-drop-gianni-infantinos-world-cup-sell-off-plan/article71306991.ece",
+    "time": "2026-08-04T19:49:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NPCIL cumulatively generates over 1,000 bn units of N-power, avoids 860 million tons of CO2 emissions",
+    "desc": "India has achieved a remarkable milestone in clean energy, generating over one thousand billion units from nuclear power. This achievement helps avoid more than 860 million tonnes of carbon dioxide emissions. The government aims to increase nuclear power capacity to 100 GW by 2047, with an intermediate target of 22 GW by 2031-32. This expansion will involve multiple stakeholders and the introduction of new legislation.",
+    "img": "https://static.toiimg.com/photo/msid-132871594,imgsize-948289.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/big-clean-energy-milestone-npcil-cumulatively-generates-over-1000-bn-units-of-n-power-avoids-860-million-tons-of-co2-emissions/articleshow/132871594.cms",
+    "time": "2026-08-04T19:24:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hurdler Shirse won't compete in Asian Games, played CWG stress fractures on foot",
+    "desc": "Shirse became the first Indian to reach the 110m hurdles finals in the Glasgow Commonwealth Games, with a time of 13.76 seconds. But running with a heavily taped foot, Shirse finished last in an eight-men field, clocking 15.39 seconds while grimacing in pain",
+    "img": "https://th-i.thgim.com/public/incoming/k25x6n/article71306978.ece/alternates/LANDSCAPE_1200/PTI07_27_2026_000288A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/hurdler-shirse-wont-compete-in-asian-games-played-cwg-stress-fractures-on-foot/article71306971.ece",
+    "time": "2026-08-04T19:23:42.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "Will wipe off few players, benefit few others: Gopichand on badminton's new scoring system",
     "desc": "The 15x3 system (three games of 15 points each) will replace the current 21x3 format (three games of 21 points each) next year. The BWF said the shorter format would help in managing player workload in a crowded calendar",
@@ -126,15 +207,6 @@ const newsData_en = [
     "time": "2026-08-04T17:27:47.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "NCP asks Sharad Pawar to seek Congress apology or quit INDIA Bloc over ‘gungi gudiya’ remark",
-    "desc": "The NCP accuses the Congress of insulting Sunetra Pawar with its ‘gungi gudiya’ remark, urges Sharad Pawar to seek an apology or leave the INDIA Bloc, and draws parallels with criticism once directed at Indira Gandhi",
-    "img": "https://th-i.thgim.com/public/news/national/5a193e/article71304459.ece/alternates/LANDSCAPE_1200/IMG_Sunetra_Pawar_2_1_OPCU4MUD.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/maharashtra/ncp-asks-sharad-pawar-to-seek-congress-apology-or-quit-india-bloc-over-gungi-gudiya-remark/article71304360.ece",
-    "time": "2026-08-04T17:24:32.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Supreme Court extends third-party insurance cover of new vehicles by a year",
     "desc": "SC extends cover of new cars to four years, and two-wheelers to six “in the interest of road safety”; it says with vehicles remaining uninsured, accident victims and their families “have no recourse to adequate compensation”",
@@ -187,15 +259,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/karnataka/bjp-demands-apology-from-congress-in-karnataka-for-insulting-constitutional-posts/article71305746.ece",
     "time": "2026-08-04T17:07:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Ahinda groups must develop political awareness, says Yathindra Siddaramaiah",
-    "desc": "Ahinda (minorities, backward classes and Dalit communities) organisations must expand their presence from the State and district levels to villages and strengthen political awareness among people to ensure social and political empowerment, said Urban Development Minister Yathindra Siddaramaiah",
-    "img": "https://th-i.thgim.com/public/incoming/xfqkwy/article71306742.ece/alternates/LANDSCAPE_1200/Mass-transit-prGL7G98NGR.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/ahinda-groups-must-develop-political-awareness-says-yathindra-siddaramaiah/article71305981.ece",
-    "time": "2026-08-04T16:54:10.000Z"
   },
   {
     "cat": "Politics",
@@ -279,15 +342,6 @@ const newsData_en = [
     "time": "2026-08-04T15:01:37.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Uttarakhand CM Dhami welcomes Kanwariyas in Haridwar, inaugurates health camp amid Kanwar Yatra",
-    "desc": "Uttarakhand Chief Minister Pushkar Singh Dhami on Tuesday welcomed Kanwariyas arriving in Haridwar for the annual Kanwar Yatra, showering flower petals on Shiva devotees from a helicopter and washing the feet of five pilgrims as a mark of respect.",
-    "img": "https://static.toiimg.com/photo/msid-132865159,imgsize-111216.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/uttarakhand-cm-dhami-welcomes-kanwariyas-in-haridwar-inaugurates-health-camp-amid-kanwar-yatra/articleshow/132865031.cms",
-    "time": "2026-08-04T14:52:09.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'One lakh people came to see Amitabh Bachchan, the crowd couldn't be controlled,' said Rishi",
     "desc": "The 1982 Coolie accident involving Amitabh Bachchan was a pivotal moment for Indian cinema, showcasing the profound bond between the star and his fans. His comeback to the film set attracted an overwhelming throng of supporters, which led to chaos requiring police intervention. Rishi Kapoor recalled witnessing this overwhelming fanfare, while also commenting on the competitive nature of their industry and the rise of action films during that era.",
@@ -306,24 +360,6 @@ const newsData_en = [
     "time": "2026-08-04T14:35:49.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "How AI Is Solving India's Real Problems",
-    "desc": "India is harnessing the power of artificial intelligence to address its various developmental challenges effectively. In educational settings, AI supports teachers in remote areas, while in agriculture, it assists farmers facing changing climate conditions. The healthcare system is being transformed through AI-driven diagnostics, and access to government services is increasing. Furthermore, AI contributes to strengthening climate resilience and streamlining agricultural loan assessments, prompting significant investments in the necessary infrastructure.",
-    "img": "https://static.toiimg.com/photo/msid-132864141,imgsize-231590.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/from-hype-to-help-how-ai-is-solving-indias-real-problems/articleshow/132863881.cms",
-    "time": "2026-08-04T14:22:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Security on high alert in Jammu &amp; Kashmir: Pakistani drone sighted in Kathua, anti-terror search intensifies in Poonch",
-    "desc": "A Pakistani drone was spotted over Kathua's Hiranagar sector, prompting a security search. Security forces also conducted a large anti-terror operation in Poonch district. An unexploded mortar shell was recovered from a house in Kathua. These events occur amid heightened tensions along the India-Pakistan border. India stated it will safeguard its national interests as needed.",
-    "img": "https://static.toiimg.com/photo/msid-132864224,imgsize-540554.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/security-on-high-alert-in-jammu-kashmir-pakistani-drone-sighted-in-kathua-anti-terror-search-intensifies-in-poonch/articleshow/132863754.cms",
-    "time": "2026-08-04T14:20:13.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Like preparing for IIT and UPSC together’: Father Murali on Sreeshankar’s comeback",
     "desc": "Sreeshankar Murali’s comeback from a career-threatening knee injury has been remarkable, with his father comparing it to preparing for IIT and Civil Services simultaneously. After extensive surgery and rehabilitation, Sreeshankar returned to win Commonwealth Games silver with an 8.09m jump. He now targets the Asian Games, hoping to improve on his previous silver and fight for gold.",
@@ -331,15 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/like-preparing-for-iit-and-upsc-together-father-murali-shares-sreeshankars-comeback-story/articleshow/132863695.cms",
     "time": "2026-08-04T14:01:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'RSS involvement in Sainik Schools increasing', says Rahul Gandhi; Parl panel chief demands evidence",
-    "desc": "Rahul Gandhi alleged increasing RSS involvement in Sainik Schools during a committee meeting. He referred to a media report while making his claim to the panel. The committee chair asked Rahul Gandhi to provide supporting documents for his allegations. Other BJP members also questioned the basis of his statements. Gandhi has previously accused the RSS of capturing public institutions.",
-    "img": "https://static.toiimg.com/photo/msid-132863602,imgsize-30036.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/rss-involvement-in-sainik-schools-increasing-says-rahul-gandhi-parl-panel-chief-demands-evidence/articleshow/132862361.cms",
-    "time": "2026-08-04T13:58:45.000Z"
   },
   {
     "cat": "Entertainment",
@@ -358,15 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bcci-bids-farewell-to-ryan-ten-doeschate-t-dilip-thanks-duo-for-team-india-contributions/articleshow/132862586.cms",
     "time": "2026-08-04T13:36:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Why the hurry?' Punjab Assembly opposes E20 policy, alleges Centre acted under US pressure",
-    "desc": "Punjab's Assembly passed a resolution opposing the Centre's E20 fuel policy. Concerns were raised about potential vehicle damage from the higher ethanol blend. The state questioned the accelerated rollout and alleged external pressure influenced the decision. The Aam Aadmi Party is campaigning nationwide against the policy. They demand consumer choice and lower prices for the blended fuel.",
-    "img": "https://static.toiimg.com/photo/msid-132862503,imgsize-157104.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/why-the-hurry-punjab-assembly-opposes-e20-policy-alleges-centre-acted-under-us-pressure/articleshow/132862013.cms",
-    "time": "2026-08-04T13:33:28.000Z"
   },
   {
     "cat": "Entertainment",
@@ -502,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/suriya-reveals-faith-in-karuppaswamy-inspired-his-karuppu-climax-performance-i-simply-prayed-to-the-statue-and-asked-please-guide-me/articleshow/132858698.cms",
     "time": "2026-08-04T11:10:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kelly Osbourne reportedly SLAMS ex Sid Wilson in Instagram outrage",
-    "desc": "Kelly Osbourne posted cryptic messages on social media recently. These posts appeared shortly after her ex-fiancé Sid Wilson was fired. She mentioned her young son and the need for accountability. Osbourne also discussed child support and the return of her possessions. The artist expressed a desire for happiness and healing for herself.",
-    "img": "https://static.toiimg.com/photo/msid-132858606,imgsize-233914.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/kelly-osbourne-reportedly-slams-ex-sid-wilson-in-instagram-outrage-leave-me-alone-let-me-heal/articleshow/132858616.cms",
-    "time": "2026-08-04T11:05:54.000Z"
   },
   {
     "cat": "Entertainment",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/other-sports/had-to-prove-that-i-deserved-to-be-part-of-asian-games-team-ankur-bhattacharjee/article71299138.ece",
     "time": "2026-08-02T21:47:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sunil Chhetri",
-    "desc": "Jamshedpur FC, winners of the ISL Winners' Shield in the 2021-22 season, had announced their withdrawal from the ISL on July 31 just hours after missing the deadline for payment of participation fee for the upcoming season, beginning September 4",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/jamshedpur-fc-pulling-out-of-isl-a-punch-in-the-gut-sunil-chhetri/article71298995.ece",
-    "time": "2026-08-02T19:58:10.000Z"
   }
 ];
