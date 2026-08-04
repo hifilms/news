@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "મુકેશ અંબાણીએ મધ્યમ વર્ગ માટે ખોલી તિજોરી! Jio આપી રહ્યું છે જબરદસ્ત ડિસ્કાઉન્ટ સાથે 100Mbps ઇન્ટરનેટ સ્પીડ અને 12થી વધુ OTT એપ્સ",
+    "desc": "Reliance Jio એ ઇન્ડિપેન્ડન્સ ડે ઓફર હેઠળ પોતાના 100Mbps બ્રોડબેન્ડ પ્લાન પર 6,000 રૂપિયાનું ભારે ડિસ્કાઉન્ટ આપ્યું છે. હવે માત્ર ₹666 પ્રતિ મહિનામાં મેળવો 100Mbps સ્પીડ, 1000+ લાઈવ TV ચેનલો અને Zee5, SonyLiv જેવી OTT એપ્સ. પૂરી માહિતી અહીં વાંચો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/mukesh-ambani-opened-a-vault-for-the-middle-class-jio-is-offering-100mbps-internet-speed-with-huge-discounts-and-more-than-12-ott-apps-486682 ",
+    "time": "2026-08-04T05:35:28.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "આજે ગોલ્ડ માર્કેટમાં મોટો ફેરફાર: દુનિયામાં મોંઘું અને ભારતમાં સસ્તું વેચાઈ રહ્યું છે સોનું, ભાવમાં 34,000નો ઘટાડો",
+    "desc": "આ વર્ષે સોનાના ભાવમાં નોંધપાત્ર વધઘટ જોવા મળી છે. વૈશ્વિક સ્તરે સોનાના ભાવ વધી રહ્યા છે, પરંતુ ભારતમાં છેલ્લા બે દિવસથી તે ઘટી રહ્યા છે. 10 ગ્રામ સોનું હાલમાં ભારતમાં તેના સર્વકાલીન હાઈ લેવલ કરતાં 34,000 રૂપિયા સસ્તા ભાવે વેચાઈ રહ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/big-change-in-the-gold-market-gold-is-being-sold-expensively-in-the-world-and-cheaply-in-india-price-drops-by-rs-34000-486674 ",
+    "time": "2026-08-04T04:27:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ત્રણ પેટાચૂંટણીએ બદલ્યું રાજકીય ગણિત! શું હવે કોઈ &amp;#039;અભેદ્ય કિલ્લો&amp;#039; સંપૂર્ણ સુરક્ષિત નથી?",
+    "desc": "ત્રણ રાજ્યોની 3 વિધાનસભા સીટો પર યોજાયેલી પેટાચૂંટણીના પરિણામોએ અનેક મોટા રાજકીય સંકેત આપ્યા છે. જેમાં ગુજરાતની સીટ માંજલપુરની વાત કરીએ તો ભાજપ ગઢ બચાવવામાં સફળ તો થયું પરંતુ છૂપો પડકાર પણ જોવા મળ્યો. જ્યારે બાંકીપુરની સીટ પર તો ભાજપે જનસુરાજ પાર્ટી સામે પોતાનો મજબૂત ગઢ ગુમાવી દીધો. દતિયા પણ કોંગ્રેસને ફાળે જતી રહી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/manjalpur-bankipur-datia-by-election-analysis-what-do-the-results-indicate-486664 ",
+    "time": "2026-08-04T03:33:47.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "&amp;#039;ડીલ માટે આ છેલ્લી તક, નહીં થઈ તો...&amp;#039; ટ્રમ્પે ઈરાનને આપી ફરી મોટી ધમકી",
+    "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે ઈરાનને નવી વાતચીત દ્વારા સમાધાન પર પહોંચવાની અંતિમ તક આપી છે. તેમણે કહ્યું કે હોર્મુઝ સ્ટ્રેટને ફરીથી ખોલવા અને ઈરાનના પરમાણુ કાર્યક્રમ પર ચર્ચા કરવા માટે વાતચીત ટૂંક સમયમાં શરૂ થઈ શકે છે. ટ્રમ્પે ઈરાનને ધમકી આપી હતી કે આ તેની છેલ્લી તક છે, અને જો કોઈ ડીલ નહીં થાય, તો અમેરિકા તેના હુમલાઓ વધારી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/this-is-the-last-chance-for-a-deal-if-not-trump-gives-another-big-threat-to-iran-486666 ",
+    "time": "2026-08-04T03:29:00.000Z"
+  },
+  {
     "cat": "Business",
     "title": "પેટ્રોલ પર પ્રતિ લિટર ₹3.5 અને ડીઝલ પર પ્રતિ લિટર ₹24 ટેક્સ ! સરકારે કેમ લીધો આ મોટો નિર્ણય ?",
     "desc": "કેન્દ્ર સરકારે પેટ્રોલ, ડીઝલ, એવિએશન ટર્બાઇન ફ્યુઅલ (ATF) અને ઘરેલુ ક્રૂડ ઓઇલ પર લગાવવામાં આવતા એક્સાઇઝ ટેક્સ અને સેસમાં વધારો કર્યો છે. નવા ભાવ આજથી અમલમાં આવ્યા છે. ત્યારે સવાલે એ છે કે શું હવે પેટ્રોલ-ડીઝલના ભાવ પણ વધશે ?",
@@ -369,15 +405,6 @@ const newsData_gu = [
     "time": "2026-08-01T12:11:45.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "દેશભરમાં કુદરતનું તાંડવ, 80થી વધુના મોત, 7 લાખ લોકો બેઘર... ગુજરાતથી આસામ સુધી જનજીવન અસ્તવ્યસ્ત",
-    "desc": "આસામમાં આ વર્ષે આવેલા પૂરે છેલ્લા છ દાયકાનો રેકોર્ડ તોડી નાખ્યો છે. નદીઓ ભયજનક સપાટીથી ઉપર વહી રહી છે, સેંકડો ગામડાઓ ડૂબી ગયા છે અને લાખો લોકોનું જીવન રાહત શિબિરો પર નિર્ભર છે. ચાલો આપણે આસામના પૂરની પરિસ્થિતિ પર એક નજર કરીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/nature-wrath-across-the-country-more-than-80-deaths-7-lakh-people-homeless-public-life-in-chaos-from-gujarat-to-assam-486388 ",
-    "time": "2026-08-01T11:36:28.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ભારતની દીકરીઓએ કોમનવેલ્થ ગેમ્સમાં મચાવી ધૂમ, પ્રીતિ બાદ જાસ્મીન લંબોરિયાએ જીત્યો ગોલ્ડ",
     "desc": "કોમનવેલ્થ ગેમ્સ 2026માં ભારતીય ખેલાડીઓનું પ્રભાવશાળી પ્રદર્શન યથાવત છે. 1 ઓગસ્ટે પણ ભારતે શાનદાર શરૂઆત કરી હતી. પ્રીતિ પવારે કેનેડાની સ્કારલેટ ડેલગાડોને હરાવીને મહિલા 54 કિગ્રા બોક્સિંગ કેટેગરીમાં ગોલ્ડ મેડલ જીત્યો હતો. જે બાદ જાસ્મીન લંબોરિયાએ પણ ભારતને વધુ એક ગોલ્ડ મેડલ અપાવ્યો છે.",
@@ -385,24 +412,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/commonwealth-games-2026-indian-boxer-preeti-pawar-win-gold-medal-486383 ",
     "time": "2026-08-01T11:11:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "20 વર્ષ પહેલા કર્યા હતા પ્રેમ લગ્ન, હવે પ્રેમી માટે થઈને પત્નીએ પતિને મોતને ઘાટ ઉતારી દીધો!",
-    "desc": "લગ્નેત્તર સંબંધનો અંજામ કેટલો કરુણ આવે છે તેના કિસ્સા આજકાલ ઘણા સામે આવી રહ્યા છે. યુપીથી સામે આવેલા એક કિસ્સામાં પીલીભીતમાં મહિલાની પોલીસે પતિની હત્યાના આરોપમાં ધરપકડ કરી છે. એવું કહેવાય છે કે બંનેના લવમેરેજ હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/tragic-end-of-a-love-marriage-in-uttar-pradesh-pilibhit-486385 ",
-    "time": "2026-08-01T11:00:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "વર્લ્ડ કપ 2027 પહેલા આ ક્રિકેટરનો મોટો નિર્ણય, અચાનક છોડી ટીમની કેપ્ટનશીપ",
-    "desc": "વર્લ્ડ કપમાં દક્ષિણ આફ્રિકા અને બાંગ્લાદેશ જેવી ટીમો સામે જીત મેળવીને હેડલાઇન્સમાં સ્થાન મેળવનાર ડચ કેપ્ટન સ્કોટ એડવર્ડ્સે કેપ્ટનશીપ છોડી દીધી છે. લગભગ ત્રણ વર્ષ સુધી ટીમનું નેતૃત્વ કર્યા પછી એડવર્ડ્સે જણાવ્યું હતું કે તે હવે નેતૃત્વના દબાણથી મુક્ત થઈને એક ખેલાડી તરીકે વધુ યોગદાન આપવા માંગે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/scott-edwards-resigned-as-captain-of-netherlands-before-odi-world-cup-2027-486380 ",
-    "time": "2026-08-01T10:19:10.000Z"
   },
   {
     "cat": "Tech",
@@ -538,15 +547,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/book-a-new-electric-bike-with-260km-range-for-just-rs-799-this-gujarat-based-company-has-launched-3-powerful-models-486039 ",
     "time": "2026-07-28T16:05:01.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "જાપાનમાં 7.1ની તીવ્રતાનો ભીષણ ભૂકંપ, ઘરોમાંથી ભાગ્યા લોકો, સુનામીનું અપાયું એલર્ટ",
-    "desc": "દક્ષિણી જાપાનના ક્યુશુ વિસ્તારમાં મંગળવારે 7.1ની તીવ્રતાનો ભીષણ ભૂકંપ આવ્યો. જે જાપાની શિંદો સ્કેલ પર ઉચ્ચતમ લેવલ 7 પર મપાયો. આંચકા બાદ તરત અરિયાકે અને યાત્સુશિરો સમુદ્ર કાંઠાઓ પર 1 મીટર ઊંચી સુનામીની લહેરોનું એલર્ટ જાહેર કરી લોકોને સુરક્ષિત સ્થળો પર જવાની સલાહ અપાઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/earthquake-in-southern-japan-tsunami-warning-alert-kumamoto-shindo-486007 ",
-    "time": "2026-07-28T09:44:34.000Z"
   },
   {
     "cat": "Tech",

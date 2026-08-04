@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Pakistan appoint former South Africa cricketer as new batting coach",
+    "desc": "Former South African cricketer Michael Smith has been appointed as the batting coach of the Pakistan men's team. The Pakistan Cricket Board (PCB) has confirmed the latest development on Tuesday morning via an official statement....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-appoint-former-south-africa-cricketer-as-new-batting-coach-2026-08-04-1050281",
+    "time": "2026-08-04T04:41:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCCI plans to bring in three new pacers if India fail to qualify for WTC final",
+    "desc": "Jasprit Bumrah’s constant battle with injuries has forced BCCI to build a new pace attack in Test cricket. The star pacer will remain the go-to option, but the goal is to develop a strong group...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-plans-to-bring-in-three-new-pacers-if-india-fail-to-qualify-for-wtc-final-2026-08-04-1050275",
+    "time": "2026-08-04T03:21:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Preeti Pawar opens up on setting tone for India's seven-gold boxing triumph in Commonwealth Games",
+    "desc": "India's boxing contingent won seven gold medals and three silver medals at the Commonwealth Games 2026. Preeti Pawar, who was the first Indian boxer to step into the ring on the final day, secured the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/preeti-pawar-opens-up-on-setting-tone-for-india-s-seven-gold-boxing-triumph-in-commonwealth-games-2026-08-04-1050270",
+    "time": "2026-08-04T02:25:00.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "ICC bans Indian-origin USA cricketer for eight years after being found guilty by Anti-Corruption Tribunal",
     "desc": "ICC has handed an eight-year ban to USA international Bodugum Akhilesh Reddy. An independent ICC Anti-Corruption Tribunal found the 26-year-old guilty of multiple violations linked to the 2025 Abu Dhabi T10 League. The suspension, imposed...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/xabi-alonso-reveals-getting-a-scar-from-real-madrid-remains-positive-on-his-future-with-chelsea-2026-08-03-1050212",
     "time": "2026-08-03T07:52:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer opens up on Auqib Nabi's inclusion in India's squad for Sri Lanka series",
-    "desc": "Star India pacer Jasprit Bumrah has been ruled out of the side’s upcoming two-game Test series against Sri Lanka. After reports emerged that Bumrah had cleared his fitness Test for the series, the latest development...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-opens-up-on-auqib-nabi-s-inclusion-in-india-s-squad-for-sri-lanka-series-2026-08-03-1050207",
-    "time": "2026-08-03T07:14:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI to review team India's injury crisis after Sri Lanka series amid ongoing injury woes",
-    "desc": "Team India is all set to take on Sri Lanka in a two-game Test series. The two sides will take on each other in the first Test at the Galle International Stadium from August 15....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-to-review-team-india-s-injury-crisis-after-sri-lanka-series-amid-ongoing-injury-woes-reports-2026-08-03-1050202",
-    "time": "2026-08-03T06:35:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI name Jasprit Bumrah's replacement for Sri Lanka series; in-form pacer earns maiden call-up",
-    "desc": "The Indian team is all set to take on Sri Lanka in a two-game Test series. Part of the WTC (World Test Championship) cycle, both teams will take on each other in the first Test...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-name-jasprit-bumrah-s-replacement-for-sri-lanka-series-in-form-pacer-earns-maiden-call-up-2026-08-03-1050193",
-    "time": "2026-08-03T05:07:54.000Z"
   }
 ];
