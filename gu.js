@@ -1,6 +1,51 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "માત્ર ₹610 બચાવો અને બનાવો લાખોનું ફંડ, જાણો SBIની ખાસ સ્કીમ",
+    "desc": "શું તમે મોટી રકમનું રોકાણ કર્યા વિના એક જ વારમાં 1 લાખ રૂપિયાનું ભંડોળ ઊભું કરવા માંગો છો? જો એમ હોય, તો સ્ટેટ બેંક ઓફ ઇન્ડિયા (SBI)ની \"હર ઘર લખપતિ\" યોજના તમારા માટે ઉપયોગી થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/sbi-saving-scheme-save-just-rs-610-and-build-a-fund-worth-lakhs-know-sbis-special-scheme-486732 ",
+    "time": "2026-08-04T10:14:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "શ્રીલંકા પ્રવાસ માટે ટીમ ઈન્ડિયા સાથે નહીં જાય સ્ટાર બેટ્સમેન ! ફિટનેસ અંગે ચોંકાવનારું અપડેટ",
+    "desc": "ટીમ ઈન્ડિયા આજે એટલે કે 4 ઓગસ્ટના રોજ શ્રીલંકા પ્રવાસ માટે રવાના થવાની તૈયારીમાં છે. જો કે, અહેવાલો છે કે આ સ્ટાર બેટ્સમેન ટીમ સાથે મુસાફરી કરશે નહીં. તેની ફિટનેસ અંગે એક ચોંકાવનારું અપડેટ સામે આવ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-sl-sai-sudharsan-not-travel-team-india-for-sri-lanka-tour-reports-486728 ",
+    "time": "2026-08-04T09:56:32.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સરકારની મોટી તૈયારી: ટેક્સ સિસ્ટમમાં મોટો ફેરફાર કરવા જઈ રહી છે કેન્દ્ર સરકાર ? જાણો શું બદલાશે",
+    "desc": "સરકાર ટેક્સ સંબંધિત મોટા ફેરફારો કરવાની તૈયારી કરી રહી છે. આ સત્ર દરમિયાન, તે સંસદમાં ટેક્સ અને અન્ય કાયદા (સુધારા) બિલ, 2026 રજૂ કરી શકે છે. આ પ્રસ્તાવમાં વિદેશી રોકાણકારોને ટેક્સ રાહત અને ઉત્પાદન માટે મુક્તિ આપવાની જોગવાઈઓ શામેલ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/governments-big-preparation-is-the-central-government-going-to-make-a-big-change-in-the-tax-system-know-what-will-change-486727 ",
+    "time": "2026-08-04T09:41:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "શ્રીલંકા પ્રવાસ માટે ટીમ ઈન્ડિયામાં જોડાયા 4 નવા ખેલાડી ! નિભાવશે ખાસ જવાબદારી",
+    "desc": "ટીમ ઈન્ડિયાએ શ્રીલંકા પ્રવાસ માટે એક ખાસ પ્લાન બનાવ્યો છે. ટીમ 4 સ્પિનરોને સાથે લઈ જઈ રહી છે, જે નેટ બોલર તરીકે કામ કરશે અને તેની પાછળ એક મોટું કારણ છે, જેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-sl-test-series-4-net-bowlers-join-team-india-for-sri-lanka-tour-486721 ",
+    "time": "2026-08-04T09:16:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ટર્બુલેન્સથી હવામાં જોરદાર હલ્યું એર ઇન્ડિયાનું પ્લેન, છત પર દેખાઈ તિરાડો, દિલ્હી આવતી ફ્લાઈટમાં અનેક ઘાયલ",
+    "desc": "ફૂકેટથી દિલ્હી જતી એર ઇન્ડિયાની ફ્લાઇટમાં અચાનક ભારે હવામાં ઉથલપાથલનો સામનો કરવો પડ્યો. સીટ બેલ્ટ વગરના મુસાફરો કેબિન પેનલ્સ પર ટકરાયા હતા, જેના કારણે ઘણા લોકો ઘાયલ થયા છે. દિલ્હીમાં વિમાનનું ઇમરજન્સી લેન્ડિંગ થયા બાદ ઘાયલોને સારવાર આપવામાં આવી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/air-india-plane-shakes-violently-in-the-air-cracks-visible-on-the-roof-many-people-injured-on-delhi-bound-flight-486718 ",
+    "time": "2026-08-04T08:43:13.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "16 ઓગસ્ટ પછી મોંઘા મળશે ગેસ સિલિન્ડર! Indane Gas, HP Gas અને Bharat Gasના કસ્ટમર્સ તરત કરે આ કામ",
     "desc": "16 ઓગસ્ટ સુધીમાં LPG e-KYC પૂર્ણ કરવામાં બાકી રહેનાર લોકોને સબસિડી ગુમાવવી પડશે. ઇન્ડેન, ભારત ગેસ અને HP ગેસ માટે e-KYC ઓનલાઇન કેવી રીતે પૂર્ણ કરવું તે જાણો અને કયા લોકોને આ કરાવવાની જરૂર પડશે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -387,15 +432,6 @@ const newsData_gu = [
     "time": "2026-08-02T03:05:41.000Z"
   },
   {
-    "cat": "Business",
-    "title": "હવે ભારે ભરખમ સિલિન્ડર ઉપાડવાની ઝંઝટ ખતમ! BPCLએ લોન્ચ કર્યો Bharatgas Lite ZIP, 4 કલાકમાં થશે ડિલિવરી",
-    "desc": "ભારત પેટ્રોલિયમ (BPCL)એ ભારતગેસ લાઈટ ઝિપ લોન્ચ કર્યો છે. આ 10 કિલોગ્રામનો ફાઈબર કમ્પોઝિટ LPG સિલિન્ડર છે, જેની 4 કલાકમાં ડિલિવરી, તુરંત નવું કનેક્શન, હલકું વજન અને પારદર્શક બોડી જેવી આધુનિક સુવિધાઓ મળશે. જાણો તેની વિશેષતાઓ અને કયા શહેરોમાં શરૂ થઈ છે આ સર્વિસ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/now-the-hassle-of-carrying-heavy-cylinders-is-over-bpcl-launches-bharatgas-lite-zip-delivery-will-be-done-in-4-hours-486433 ",
-    "time": "2026-08-01T17:36:26.000Z"
-  },
-  {
     "cat": "World",
     "title": "અમેરિકાએ નાગરિકોને પશ્ચિમ એશિયા છોડવાની આપી સલાહ, શું ઈરાનમાં કંઈક મોટું થવાનું છે ?",
     "desc": "પશ્ચિમ એશિયામાં વધતા તણાવ વચ્ચે અમેરિકાએ પોતાના નાગરિકોને સતર્ક રહેવા અને જરૂર પડે તો વિસ્તાર છોડવા અપીલ કરી છે. તેથી સવાલ ઉભો થાય છે કે, શું અમેરિકા ઈરાનમાં કંઈક મોટું કરવા જઈ રહ્યું છે ? ટ્રમ્પે પણ ઈરાન સામે વધુ કડક સૈન્ય કાર્યવાહીની ચેતવણી આપી છે.",
@@ -403,42 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/us-warns-citizens-as-middle-east-tensions-rise-trump-signals-tough-action-on-iran-486418 ",
     "time": "2026-08-01T16:05:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "શું જાહેર સ્થળો પર ગાળ બોલવી ગુનો છે? કયા સંજોગોમાં નોંધાય શકે છે FIR અને કેટલી મળે છે સજા? જાણો",
-    "desc": "જંતર-મંતર પર વિરોધ પ્રદર્શન દરમિયાન વડાપ્રધાન નરેન્દ્ર મોદી વિશે અપશબ્દો અને વાંધાજનક પોસ્ટરો લગાવ્યા બાદ એક ચર્ચા વધુ તીવ્ર બની છે. શું જાહેર સ્થળો પર અપશબ્દોનો ઉપયોગ કરવો એ ગુનો છે? શું દરેક અપમાનજનક ટિપ્પણી માટે FIR નોંધાઈ શકે છે અથવા તેમાં કોઈ ચોક્કસ કાનૂની માપદંડ સામેલ છે? ચાલો વિગતવાર જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/swearing-in-public-places-a-crime-under-what-circumstances-can-an-fir-be-registered-and-what-is-the-punishment-know-486415 ",
-    "time": "2026-08-01T15:19:30.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "762 રૂપિયામાં મળી રહ્યો છે LPG સિલિન્ડર, ગેસ કનેક્શનની પણ જરૂર નથી, જાણો ક્યાંથી મળશે",
-    "desc": "14.2 કિલોના ઘરેલુ LPG સિલિન્ડરની કિંમત પ્રતિ સિલિન્ડર ₹942 છે. જો કે, સામાન્ય નાગરિકોના ઉપયોગ માટે એક એવો LPG સિલિન્ડર પણ છે જેની કિંમત ₹800થી ઓછી છે અને આ માટે કોઈ ગેસ કનેક્શનની પણ જરૂર નથી. ત્યારે આ સિલિન્ડર કેવી રીતે અને ક્યાંથી મળશે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/lpg-cylinder-price-cut-small-5kg-chhotu-cylinder-has-become-cheaper-486414 ",
-    "time": "2026-08-01T14:34:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ભારે વરસાદ બાદ હવે દુષ્કાળનો ભય! IMD-WMOએ ઓગસ્ટ માટે કરી ચિંતાજનક ભવિષ્યવાણી, જાણો",
-    "desc": "જુલાઈ મહિનામાં ભારે વરસાદ પછી, શું દેશ પર દુષ્કાળનો પડછાયો છવાઈ રહ્યો છે? હવામાનશાસ્ત્રીઓના મતે, પ્રશાંત મહાસાગરમાં વિકસિત થતો સુપર અલ નીનો ઓગસ્ટમાં ચોમાસાના પવનો પર બ્રેક લગાવી શકે છે. IMD અને WMOની આ ભયંકર ચેતવણીએ લોકોની ચિંતા વધારી દીધી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/after-heavy-rains-now-there-is-a-threat-of-drought-imd-wmo-has-made-a-worrying-prediction-for-august-know-486395 ",
-    "time": "2026-08-01T12:27:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ગુજરાતના વિદ્યાર્થીઓ માટે ખુશખબર ! મેડિકલ-ડેન્ટલની 8755 બેઠકો પર આ દિવસથી શરૂ થશે એડમિશન",
-    "desc": "ગુજરાતમાં મેડિકલ અને ડેન્ટલ કોલેજો માટે પ્રવેશ પ્રક્રિયાની જાહેરાત કરવામાં આવી છે. આ પ્રક્રિયા હેઠળ વિદ્યાર્થીઓને રાજ્યની 41 મેડિકલ કોલેજોમાં 7,500 બેઠકો અને 13 ડેન્ટલ કોલેજોમાં 1,255 બેઠકો પર પ્રવેશ આપવામાં આવશે. પ્રવેશ મેળવવા માટે વિદ્યાર્થીઓએ પ્રવેશ સમિતિની વેબસાઇટ પરથી ઓનલાઈન પિન ખરીદવો પડશે અને 12 ઓગસ્ટ સુધીમાં તેમનું રજીસ્ટ્રેશન કરવું પડશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/gujarat-medical-and-dental-college-admission-process-will-begin-for-8755-seats-486393 ",
-    "time": "2026-08-01T12:11:45.000Z"
   },
   {
     "cat": "Tech",

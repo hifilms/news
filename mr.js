@@ -7,14 +7,5 @@ const newsData_mr = [
     "src": "abplive.com",
     "url": "https://marathi.abplive.com/videos/news/india-old-monk-royal-challenge-whisky-banned-in-india-marathi-news-1434375",
     "time": "2026-08-04T07:21:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "शिवसेना पक्ष आणि चिन्हासंदर्भात आज सर्वोच्च न्यायालयात सुनावणी",
-    "desc": "&nbsp;शिवसेना पक्ष आणि चिन्हासंदर्भात आज सर्वोच्च न्यायालयात सुनावणी होणार आहे. ही सुनावणी सरन्यायाधीश सूर्यकांत, न्यायमूर्ती जॉयमला बागची आणि व्ही मोहना यांच्या विशेष खंडपीठासमोर पार पडणार आहे..शिवसेना पक्ष आणि चिन्ह शिंदेंच्या शिवसेनेला देण्याच्या निर्णयावरील आव्हान याचिकेवर आज &nbsp; सुप्रीम कोर्टात सुनावणी होणार आहे... मागील सुनावणीत सर्वोच्च न्यायालयासमोर कपिल सिब्बल यांनी उद्धव ठाकरेंची बाजू मांडली होती. त्यानंतर न्यायालयाने हे प्रकरण ४ ऑगस्ट रोजी सुनावणीसाठी ठेवले होते. त्यानुसार आज सुनावणी होणार आहे.. पक्षाचे मूळ चिन्ह धनुष्यबाण आपल्यालाच मिळेल. चिन्ह आपल्याला मिळालं नाही तर ते गोठवलं जाईल असं वक्तव्य उद्धव ठाकरेंनी संपर्कप्रमुखांच्या बैठकीत केलं होतं &nbsp;त्यामुळे आज कोर्टात नेमकं काय होणार याकडे &nbsp;लक्ष लागलंय.",
-    "img": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/04/1048dfe56962ea70c071daf125c99cec1785807620028987_original.jpeg",
-    "src": "abplive.com",
-    "url": "https://marathi.abplive.com/news/politics/maharashtra-live-news-updates-04-august-2026-shivsena-name-and-symbol-hearing-eknath-shinde-uddhav-thackeray-arvind-kejriwal-e20-prashant-kishore-1434317",
-    "time": "2026-08-04T01:46:24.000Z"
   }
 ];

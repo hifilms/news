@@ -1,6 +1,33 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "প্রশান্ত কিশোরের চেয়েও ধনী! ডাক্তার স্ত্রী বলছেন, 'ওর দল-কাজ নিয়ে মাথাও ঘামাই না...'",
+    "desc": "রাজনীতির সফল কারিগর প্রশান্ত কিশোরকে চেনেন সবাই। কিন্তু আপনি কি জানেন, ধনসম্পত্তির খেলায় স্বামীকেও টেক্কা দিয়েছেন তাঁর আড়ালের স্ত্রী? উপনির্বাচনের সরকারি নথিতেই প্রকাশ পেল সেই চাঞ্চল্যকর তথ্য! কে এই চিকিৎসক ডঃ জাহ্নবী দাস? লাইমলাইটের আড়ালে থেকে কীভাবে গড়ে তুললেন ১০২ কোটি টাকার বিশাল সাম্রাজ্য? জেনে নিন সেই গল্প!",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/meet-dr-jahnavi-das-the-apollo-doctor-richer-than-her-husband-prashant-kishor_665407.html ",
+    "time": "2026-08-04T11:03:34.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "২ সপ্তাহের মৃত শাবককে নিয়ে ৬ দিন সাঁতার! সঙ্গে আরও ১৪ ডলফিন...মায়ের ভালোবাসায় অঝোরে কাঁদছে নেটপাড়া",
+    "desc": "মা যে মা'ই হয়। সে মানুষ হোক বা পশু। অবর্ণণীয় আবেগের আজও কোনও ভাষা নেই। যে ঘটনা পড়তে চলেছেন, তা আপনার চোখ ভিজিয়ে দেবে। হয়তো ঘটনার রেশ কাটাতেও দীর্ঘ সময় লেগে যাবে। তবুও এই ভিডিয়ো দেখুন, ডলফিনের আবেগ দেখুন...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/mother-dolphin-carries-dead-newborn-for-6-days_665403.html ",
+    "time": "2026-08-04T10:22:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'দাঁড়াতেই পারছেন না, কমছে না ব্যথা!’, বন্ধ শ্যুটিং, মারাত্মক চোট পেয়ে মুখ খুললেন রশ্মিকা",
+    "desc": "‘মাইসা’-র শ্যুটিং সেটে নাচের দৃশ্য শুট করতে গিয়ে ভয়াবহ দুর্ঘটনার শিকার ‘জাতীয় ক্রাশ’ রশ্মিকা মান্দানা! ডান নিতম্বের টেন্ডন ছিঁড়ে আলাদা হয়ে যাওয়ায় আচমকাই থমকে গেছে তাঁর কাজ। চিকিৎসকদের কড়া নির্দেশে শ্যুটিং ও জিম বন্ধ। কিন্তু এই মারাত্মক চোটের পর কি সত্যিই তিনি দ্রুত সেটে ফিরতে পারবেন?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/rashmika-mandanna-breaks-silence-after-freak-accident-on-mysaa-set-shares-health-update_665401.html ",
+    "time": "2026-08-04T10:14:33.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "ইন্ডিয়া জোটের জন্য মঙ্গলে ভয়ানক অমঙ্গল: বাঁকিপুরে বাজি জিতে একা থাকার পণ পিকের",
     "desc": "সোমবার ফল প্রকাশের পর সংবাদমাধ্যমের মুখোমুখি হয়ে ভোটকুশলী থেকে রাজনীতিবিদ হয়ে ওঠা প্রশান্ত কিশোর বলেন, 'বাঁকিপুরের মানুষ বহুদিনের পুরনো দলগুলোর বাইরে এসে আমাদের ভোট দিয়েছেন। বিহারের মানুষের ওপরই আমাদের সম্পূর্ণ ভরসা। তাই অন্য কোনও দলের সঙ্গে জোটের কোনও প্রশ্নই ওঠে না।'",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -106,15 +133,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/supreme-court-clarifies-states-can-withdraw-or-close-firs-against-student-protesters_665205.html ",
     "time": "2026-08-03T11:28:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "কোথা থেকে এল বিদেশে উচ্চশিক্ষার এত এত টাকা? আন্দোলনের ফান্ডিং কীভাবে? বড় সত্যি ফাঁস করলেন অভিজিৎ দীপকে",
-    "desc": "১ অগাস্ট সুরাটের বাসিন্দা অমিত তিওয়ারি অভিজিৎ দীপকের বাবা ভগবানরাও দীপকের সম্পত্তি ও আর্থিক উৎসের বিষয়ে তদন্তের দাবি জানিয়ে আরটিআই করেন। মাসে মাত্র ৬০,০০০ থেকে ৬৫,০০০ টাকা বেতন পাওয়া একজন সরকারি কর্মচারী কীভাবে তাঁর সন্তানদের যুক্তরাষ্ট্রে উচ্চশিক্ষার জন্য পাঠাতে পারেন!",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/cjp-chief-abhijit-dipke-publishes-his-scholarship-letter-to-counter-rti-activist-over-his-us-education-row_665195.html ",
-    "time": "2026-08-03T10:01:38.000Z"
   },
   {
     "cat": "Entertainment",
@@ -340,15 +358,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/man-with-2-big-knives-in-hands-stabs-3-women-one-of-them-pregnant-paris-suitcase-attack-arrest_664362.html ",
     "time": "2026-07-28T10:58:08.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "‘জিহাদ ছাড়া পথ নেই!’ হিজবুল্লাহকে সমর্থন জানিয়ে আমেরিকাকে শান্তির শর্ত মোজতবা খামেইনির",
-    "desc": "মোজতবা খামেইনি হিজবুল্লাহর প্রতিরক্ষাকে কৌশলগত দায়িত্ব ঘোষণা করে জানিয়েছেন, জিহাদ ছাড়া পথ নেই। তিনি সতর্ক করেন, যুক্তরাষ্ট্রের সঙ্গে যুদ্ধবিরতি করতে হলে লেবাননে ইসরায়েলি হামলা সম্পূর্ণ বন্ধ করতে হবে। অন্যদিকে, লেবাননের প্রেসিডেন্ট জোসেফ আউন ডোনাল্ড ট্রাম্পের সঙ্গে বৈঠকে ইসরায়েলি সেনা প্রত্যাহারের ওপর জোর দিয়েছেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/mojtaba-khamenei-backs-hezbollah-ties-us-iran-peace-to-lebanon-ceasefire_664097.html ",
-    "time": "2026-07-27T03:34:09.000Z"
   },
   {
     "cat": "Business",

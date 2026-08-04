@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Neeraj Chopra's next javelin event revealed as ex-Olympic champion to face tough field ahead of Asian Games",
+    "desc": "Neeraj Chopra is set to return to action in the Lausanne Diamond League as he faces a tough test in a challenging field. Chopra will be among 10 top athletes in the field for the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/neeraj-chopras-next-javelin-event-revealed-as-ex-olympic-champion-to-face-tough-field-ahead-of-asian-games-2026-08-04-1050321",
+    "time": "2026-08-04T10:20:58.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Ben Stokes plans to become England head coach, questions Joe Root's appointment as captain over Harry Brook",
     "desc": "Former England captain Ben Stokes has revealed that he wants to return to the national setup as a coach after the end of his playing career. The all-rounder announced his retirement from international cricket during...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/t-dilip-pens-heartfelt-note-after-his-tenure-as-india-s-fielding-coach-ends-2026-08-03-1050238",
     "time": "2026-08-03T11:24:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Not too fussed': Aiden Markram opens up on vacant captaincy spot at Lucknow Super Giants ahead of IPL 2027",
-    "desc": "The IPL (Indian Premier League) 2027 season is looming on the horizon; the 20th edition of the tournament will see the 10 sides battling it out for the title, and ahead of the new season,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/not-too-fussed-aiden-markram-opens-up-on-vacant-captaincy-spot-at-lucknow-super-giants-ahead-of-ipl-2027-2026-08-03-1050226",
-    "time": "2026-08-03T09:38:01.000Z"
   }
 ];
