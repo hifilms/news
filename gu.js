@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "Jioએ યુઝર્સ માટે લોન્ચ કર્યો 3-in-1 Plans, હવે એક જ પ્લાનમાં હાઈ-સ્પીડ ઈન્ટરનેટ, 1000+ ટીવી ચેનલ અને 12 OTTની મજા",
+    "desc": "Jioએ તેમના યુઝર્સ માટે એક શાનદાર પ્લાન લોન્ચ કર્યા છે. જિઓએ તેના યુઝર્સને ખુશ કરવા માટે નવા 3-in-1 જિઓ હોમ પ્લાન લોન્ચ કર્યા છે. આ પ્લાનની 400 રૂપિયા મહિનાથી શરૂ થાય છે. આ પ્લાન્સમાં ટીવી, હાઈ-સ્પીડ Wi-Fi, 1000+ લાઈવ ચેનલ અને 12 OTT એપનો ફાયદો મળશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/jio-launches-3-in-1-plans-for-users-now-enjoy-high-speed-internet-1000-plus-tv-channels-and-12-otts-in-a-single-plan-486762 ",
+    "time": "2026-08-04T16:27:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "બ્રેટ લીનું પ્રીતિ ઝિન્ટા સાથે હતું અફેર ? ક્રિકેટરે 15 વર્ષ બાદ તોડ્યું મૌન, જાણો શું કહ્યું",
+    "desc": "ઓસ્ટ્રેલિયાના ભૂતપૂર્વ ફાસ્ટ બોલર બ્રેટ લીએ પ્રીતિ ઝિન્ટા સાથેના અફેર અંગેની અફવાઓ અંગે પહેલીવાર ખુલીને વાત કરી છે. તેણે સ્પષ્ટપણે કહ્યું છે કે તેણે ક્યારેય કોઈ બોલિવૂડ અભિનેત્રીને ડેટ કરી નથી. બ્રેટ લીએ પ્રીતિને તેની સૌથી નજીકના મિત્રોમાંની એક ગણાવી હતી. પ્રીતિએ પણ અગાઉ આ અફવાઓને પાયાવિહોણી ગણાવી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/australian-cricketer-brett-lee-breaks-silence-on-dating-rumors-with-preity-zinta-486761 ",
+    "time": "2026-08-04T16:05:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IPL 2027માં પાકિસ્તાનના મોહમ્મદ આમિરની થશે એન્ટ્રી ? કોહલી અને રોહિત સાથે રમવાનું સપનું થશે સાકાર!",
+    "desc": "પાકિસ્તાનના ભૂતપૂર્વ ફાસ્ટ બોલર મોહમ્મદ આમિર માટે IPLમાં રમવાનો માર્ગ મોકળો થઈ ગયો છે. હવે એ જોવું રસપ્રદ રહેશે કે કોઈ ટીમ ઓક્શનમાં તેના પર બોલી લગાવે છે કે પછી IPLમાં રમવાનું તેનું સપનું ફક્ત સપનું જ રહી જાય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/will-pakistan-cricketer-mohammad-amir-play-ipl-2027-after-securing-british-citizenship-486760 ",
+    "time": "2026-08-04T15:31:38.000Z"
+  },
+  {
     "cat": "Business",
     "title": "UPI અને ડિજિટલ પેમેન્ટ પર લાગી શકે છે ચાર્જ ! 6 વર્ષ પછી MDRની વાપસી, સરકાર લાવી નવું બિલ",
     "desc": "સરકાર પેમેન્ટ એક્ટમાં સુધારો કરવા માટે એક નવું બિલ લાવી રહી છે. નાણા મંત્રાલય આ બિલ સંસદમાં રજૂ કરવા જઈ રહી છે. જો આ બિલ પસાર થાય છે, તો UPI અને ડિજિટલ પેમેન્ટ પર MDR (મર્ચન્ટ ડિસ્કાઉન્ટ રેટ)ની ફરીથી વાપસી થઈ શકે છે અને ડિજિટલ પેમેન્ટ પર ચાર્જ લાગી શકે છે.",
@@ -414,15 +441,6 @@ const newsData_gu = [
     "time": "2026-08-02T06:19:27.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "આજે ભારત-પાકિસ્તાનનો મહામુકાબલો! જાણો ક્યારે, ક્યાં અને કેવી રીતે LIVE જોઈ શકશો",
-    "desc": "જ્યારે પણ ભારત અને પાકિસ્તાન વચ્ચેની મેચ વિશ્વમાં ગમે ત્યાં રમાય થાય છે, ત્યારે તેનો મોટો પડઘો પડે છે. ટીમ ઈન્ડિયા હાલમાં આરામ પર છે, પરંતુ ચાહકો એશિયન લિજેન્ડ્સ લીગ પર ધ્યાન કેન્દ્રિત કરી રહ્યા છે, જ્યાં ઈન્ડિયા રોયલ્સ અને પાકિસ્તાન પેન્થર્સ વચ્ચેની મેચ થોડા કલાકોમાં શરૂ થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/india-pakistan-clash-today-know-when-where-and-how-you-can-watch-live-486465 ",
-    "time": "2026-08-02T06:18:05.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "કંગના-હૃતિકની દુશ્મનીમાં ફરી રેડાયું ઘી, Apology to Hrithik ટ્રેંડ પર કોમેન્ટ કરવા બદલ કંગનાએ ખખડાવ્યો હૃતિક રોશનને",
     "desc": "કંગના રનૌત અને હૃતિક રોશન વચ્ચે દુશ્મનીની આગ ફરી એકવાર સળગી છે. સોશિયલ મીડિયા પર genz અપોલોજી ટુ હૃતિક નામથી એક ટ્રેડ ચલાવી રહ્યા છે જેના પર હૃતિકે કોમેન્ટ કરી હતી. હવે આ કોમેન્ટનો જવાબ આપતા કંગનાએ હૃતિકને કહ્યું છે કે આગમાં ઘી ન નાખો...",
@@ -610,15 +628,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/crime-thriller-hindi-web-series-ott-sony-live-trisha-krishnan-brinda-485808 ",
     "time": "2026-07-26T10:48:39.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "CNG કારનો ક્રેઝ કેમ વધ્યો? Maruti Suzukiના આંકડાએ બધાને કર્યા આશ્ચર્યચકિત!",
-    "desc": "પેટ્રોલ અને ડીઝલના ઊંચા ભાવથી કંટાળીને, ભારતીય ગ્રાહકો હવે વધુને વધુ ઇંધણ-કાર્યક્ષમ વિકલ્પો પસંદ કરી રહ્યા છે. આ માંગના જવાબમાં, મારુતિ સુઝુકીએ નાણાકીય વર્ષ 2027માં 900,000 CNG કાર વેચવાનો લક્ષ્યાંક નક્કી કર્યો છે. નાની કારથી શરૂ થયેલો આ ક્રેઝ હવે SUV સુધી ફેલાઈ ગયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/why-has-the-craze-for-cng-cars-increased-maruti-suzuki-figures-surprised-everyone-485801 ",
-    "time": "2026-07-26T09:03:57.000Z"
   },
   {
     "cat": "Entertainment",

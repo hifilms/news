@@ -1,7 +1,25 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Indian team reaches Sri Lanka for Test series in hopes of reviving WTC campaign",
+    "title": "'I want to change the colour of my medal': Lovlina Borgohain eyes Asian Games glory after 2023 Asiad silver",
+    "desc": "Lovlina Borgohain won a medal in the only major event that was missing from her illustrious cabinet when she clinched a silver during the Glasgow Commonwealth Games 2026. Lovlina, the 2023 world champion, lost out...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/i-want-to-change-the-colour-of-my-medal-lovlina-borgohain-eyes-asian-games-glory-after-2023-asiad-silver-2026-08-04-1050355",
+    "time": "2026-08-04T15:54:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Babar Azam's near four-year wait for Test century continues as Pakistan skipper misses ton in bizarre fashion",
+    "desc": "Babar Azam agonisingly missed out on a Test hundred again as he was dismissed in a bizarre fashion during the second Test against West Indies in Port of Spain. Babar, who was reinstated as Test...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/babar-azams-near-four-year-wait-for-test-century-continues-as-pakistan-skipper-misses-ton-in-bizarre-fashion-2026-08-04-1050352",
+    "time": "2026-08-04T15:16:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Star batter missing as Team India reaches Sri Lanka for Test series in bid to revive WTC campaign",
     "desc": "The Shubman Gill-led Indian team on Tuesday landed in Sri Lanka ahead of a crucial two-match Test series, beginning August 15. Sri Lanka Cricket shared pictures of the Indian side reaching the island nation for...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/bcci-plans-to-bring-in-three-new-pacers-if-india-fail-to-qualify-for-wtc-final-2026-08-04-1050275",
     "time": "2026-08-04T03:21:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Preeti Pawar opens up on setting tone for India's seven-gold boxing triumph in Commonwealth Games",
-    "desc": "India's boxing contingent won seven gold medals and three silver medals at the Commonwealth Games 2026. Preeti Pawar, who was the first Indian boxer to step into the ring on the final day, secured the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/preeti-pawar-opens-up-on-setting-tone-for-india-s-seven-gold-boxing-triumph-in-commonwealth-games-2026-08-04-1050270",
-    "time": "2026-08-04T02:25:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC bans Indian-origin USA cricketer for eight years after being found guilty by Anti-Corruption Tribunal",
-    "desc": "ICC has handed an eight-year ban to USA international Bodugum Akhilesh Reddy. An independent ICC Anti-Corruption Tribunal found the 26-year-old guilty of multiple violations linked to the 2025 Abu Dhabi T10 League. The suspension, imposed...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/icc-bans-indian-origin-usa-cricketer-for-eight-years-after-being-found-guilty-by-anti-corruption-tribunal-2026-08-04-1050266",
-    "time": "2026-08-04T01:26:25.000Z"
   }
 ];
