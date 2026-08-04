@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "ICC bans Indian-origin USA cricketer for eight years after being found guilty by Anti-Corruption Tribunal",
+    "desc": "ICC has handed an eight-year ban to USA international Bodugum Akhilesh Reddy. An independent ICC Anti-Corruption Tribunal found the 26-year-old guilty of multiple violations linked to the 2025 Abu Dhabi T10 League. The suspension, imposed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/icc-bans-indian-origin-usa-cricketer-for-eight-years-after-being-found-guilty-by-anti-corruption-tribunal-2026-08-04-1050266",
+    "time": "2026-08-04T01:26:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Selva Prabhu reveals reason behind not winning gold medal in Commonwealth Games 2026",
+    "desc": "Selva Prabhu has disclosed that he competed through food poisoning at the Commonwealth Games in Glasgow. The athlete mentioned that the illness left him unable to challenge for the men's triple jump title despite believing...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/selva-prabhu-reveals-reason-behind-not-winning-gold-medal-in-commonwealth-games-2026-2026-08-04-1050263",
+    "time": "2026-08-04T01:04:25.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Shashank Singh completes move to Pondicherry for 2026-27 domestic season, alleges ill-treatment by CSCS",
     "desc": "In a major development, India batter Shashank Singh has completed his move to Pondicherry for the upcoming 2026-27 domestic cricket season. It is worth noting that Shashank Singh represented Chhattisgarh in domestic cricket, but alleging...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/bcci-name-jasprit-bumrah-s-replacement-for-sri-lanka-series-in-form-pacer-earns-maiden-call-up-2026-08-03-1050193",
     "time": "2026-08-03T05:07:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Glasgow passes Commonwealth Games baton to India; Neeraj Chopra, PT Usha receive CWG flag",
-    "desc": "The 2026 Commonwealth Games came to an end after 11 days of competition, with Scotland formally handing over the Commonwealth Games flag and ceremonial baton to India, which will host the landmark centenary edition in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/glasgow-passes-commonwealth-games-baton-to-india-neeraj-chopra-pt-usha-receive-cwg-flag-latest-updates-2026-08-03-1050182",
-    "time": "2026-08-03T01:32:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India appoint new fielding coach after T Dilip's departure, to take over from Sri Lanka tour",
-    "desc": "India have appointed former Assam and Railways cricketer Subhadeep Ghosh as the new fielding coach of the men's team. This comes after T Dilip departs from the position. Subhadeep's first assignment will begin with India's...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-appoint-new-fielding-coach-after-t-dilips-departure-to-take-over-from-sri-lanka-tour-2026-08-03-1050177",
-    "time": "2026-08-02T18:34:35.000Z"
   }
 ];

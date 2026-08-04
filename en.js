@@ -1,5 +1,248 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "CWG para champions complain against IOA staff, seek action over alleged 'misconduct'",
+    "desc": "After the recent success of Dilip Gavit and Mohammed Basil, Indian para athletes and coaches have come forward with formal complaints against a member of the IOA media committee. The allegations detail instances of rude behaviour directed at the para athletes, leading to a heated confrontation that spiraled into a brief physical clash. The athletes are calling for the IOA to take action regarding the official's conduct during the Games.",
+    "img": "https://static.toiimg.com/photo/msid-132843981,imgsize-143930.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-para-champions-complain-against-ioa-staff-seek-action-over-alleged-misconduct-disrespectful-behaviour/articleshow/132843957.cms",
+    "time": "2026-08-04T01:48:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Forever grateful': T Dilip bids emotional farewell after five years with Team India",
+    "desc": "T Dilip concluded his five-year tenure as India's fielding coach with a heartfelt farewell message. He significantly transformed the team's fielding culture during his impactful service. The innovative fielding medal ceremony became a memorable dressing-room tradition during his tenure. Dilip cherished being part of numerous team triumphs across various formats.",
+    "img": "https://static.toiimg.com/photo/msid-132843890,imgsize-147102.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/forever-grateful-t-dilip-bids-emotional-farewell-after-five-unforgettable-years-with-india/articleshow/132843887.cms",
+    "time": "2026-08-04T01:32:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Spider Man': FIGHT breaks out in theatre over film's spoilers",
+    "desc": "Brand New Day spiraled into chaos as moviegoers clashed over plot spoilers. This dispute erupted into a physical altercation within the cinema, capturing attention on social media. The incident has once again highlighted the ongoing conversation surrounding proper conduct in theaters. With the Tom Holland film attracting huge audiences, such behavior raises concerns about how people engage with popular cinema releases.",
+    "img": "https://static.toiimg.com/photo/msid-132843829,imgsize-615696.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/spider-man-brand-new-day-fight-breaks-out-in-theatre-over-tom-holland-starrers-spoilers-video-surfaces-online/articleshow/132843829.cms",
+    "time": "2026-08-04T01:26:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Joan Grande’s first comment after Ariana Grande announces her break",
+    "desc": "After her tour concludes, Ariana Grande is set to step away from the limelight. Joan Grande, her proud mother, has shown her full support for this decision. The singer aims to take a break from acting and music engagements, responding to the ongoing public criticism about her appearance and well-being. Moreover, she has decided to withdraw from a West End musical production planned for 2027.",
+    "img": "https://static.toiimg.com/photo/msid-132843753,imgsize-266193.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/ariana-grande-confirms-break-from-spotlight-mama-joan-grande-says-her-daughter-is-magnificent-following-announcement/articleshow/132843753.cms",
+    "time": "2026-08-04T01:07:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Suriya shares update on Lokesh Kanagaraj's 'Rolex'",
+    "desc": "Suriya shared updates on his highly anticipated 'Rolex' project, which is currently being written. His film with 'Aavesham' director Jithu Madhavan has completed shooting and will release soon. 'Vishwanath & Sons' features Suriya as a sharpshooter and is set for an August release. The actor confirmed that the Jithu Madhavan film is a home production. This project is expected to be released towards the end of the current year.",
+    "img": "https://static.toiimg.com/photo/msid-132843724,imgsize-1603028.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/suriya-shares-major-rolex-update-says-lokesh-kanagaraj-is-writing-the-film-amid-allu-arjun-and-kamal-haasan-projects/articleshow/132843706.cms",
+    "time": "2026-08-04T00:56:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Who approved it?’: HI president Dilip Tirkey seeks answers on jersey switch",
+    "desc": "Hockey India president Dilip Tirkey questions the director general's authority. He seeks accountability and transparency in the recent jersey colour change. Tirkey expressed surprise at learning about the redesign through social media. He emphasised the need for governance and consultation for symbolic decisions. The president requested a comprehensive reply with documentary evidence by Tuesday.",
+    "img": "https://static.toiimg.com/photo/msid-132843481,imgsize-124683.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/who-approved-it-hockey-india-president-dilip-tirkey-seeks-answers-on-jersey-switch/articleshow/132843451.cms",
+    "time": "2026-08-04T00:42:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dave Bautista may play Kratos in ‘God of War’ after Ryan Hurst",
+    "desc": "In exciting news for gaming fans, Dave Bautista is rumored to be in discussions to portray Kratos in the God of War series, following an injury to Ryan Hurst that prompted a recasting. Bautista's robust physique and action credentials make him an ideal fit for the iconic role. Production was delayed but is now on track to restart, with Callum Vinson confirmed to play Atreus in the inaugural season.",
+    "img": "https://static.toiimg.com/photo/msid-132843441,imgsize-174751.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/god-of-war-recast-dave-bautista-in-talks-for-kratos-role-after-ryan-hursts-injury/articleshow/132843425.cms",
+    "time": "2026-08-04T00:36:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyanka FLAUNTS her 'Mama' and 'Mamacita' sides in cute video",
+    "desc": "Priyanka Chopra recently shared a video showing her \"mama\" and \"mamacita\" sides. The clip featured her teaching her daughter a mantra and dancing with friends. Nick Jonas also shared family moments from July, including pictures of their daughter Malti. Priyanka also posted stories of Malti watching her song and with her mother. She has resumed shooting for SS Rajamouli's film 'Varanasi' in Hyderabad.",
+    "img": "https://static.toiimg.com/photo/msid-132843402,imgsize-536089.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/watch-priyanka-chopra-flaunts-her-mama-and-mamacita-sides-in-cute-video-with-daughter-malti-and-friends/articleshow/132843402.cms",
+    "time": "2026-08-04T00:34:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shoulder surgery, 7 months out, one unforgettable throw: How Yash Vir Singh won CWG bronze",
+    "desc": "Yash Vir Singh arrived in Glasgow with little attention but left with a Commonwealth Games bronze after a personal-best final throw. In this interview with TimesofIndia.com, he opens up about the injury that nearly derailed his career, the months spent in rehabilitation, Neeraj Chopra's words before his medal-winning attempt and the father who has guided him since his first throws with a bamboo javelin.",
+    "img": "https://static.toiimg.com/photo/msid-132833213,imgsize-81503.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/shoulder-surgery-7-months-out-one-unforgettable-throw-how-yash-vir-singh-won-cwg-bronze/articleshow/132833213.cms",
+    "time": "2026-08-04T00:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Spider-Man' races towards Rs 350 crore gross ahead of IMAX release",
+    "desc": "Brand New Day continues its strong box office run in India. The film collected over twenty-three crore rupees on its fifth day. This collection represents a significant drop from its weekend earnings. The movie is now nearing the three hundred fifty crore gross milestone. An IMAX release is expected to further boost its theatrical performance.",
+    "img": "https://static.toiimg.com/photo/msid-132843412,imgsize-531827.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/spider-man-brand-new-day-box-office-collection-day-5-tom-hollands-blockbuster-sees-first-major-dip-in-india-races-towards-rs-350-crore-gross-ahead-of-imax-release/articleshow/132843151.cms",
+    "time": "2026-08-04T00:27:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Lack of long-term plans to mitigate rain-inducted calamities worrying for Kerala",
+    "desc": "CM blames IMD for delay in relaying weather forecast. However, experts point out that IMD’s 125-year rainfall dataset, covering 110 weather stations across Kerala from 1901 to 2025, has shed enough light on the State’s most vulnerable regions during monsoon and the government need not wait for weather alerts before initiating preparedness measures",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/apfseb/article71302270.ece/alternates/LANDSCAPE_1200/PHOTO-2026-05-25-13-46-07.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/lack-of-long-term-plans-to-mitigate-rain-inducted-calamities-worrying-for-kerala/article71302266.ece",
+    "time": "2026-08-04T00:15:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vijay's 'Jana Nayagan' crosses Rs 300 crore mark worldwide",
+    "desc": "Jana Nayagan continues to perform well at the box office, earning over Rs 3.85 crore on its twelfth day. The film has achieved a total India gross collection of Rs 209.35 crore and Rs 179.45 crore net. Overseas collections have also been strong, contributing Rs 1 crore on day twelve. This brings the worldwide gross collection for Jana Nayagan to Rs 301.35 crore. The political action drama saw a 28.",
+    "img": "https://static.toiimg.com/photo/msid-132843378,imgsize-825289.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-box-office-collection-day-12-cm-vijay-and-pooja-hegde-starrer-crosses-rs-300-crore-worldwide-sees-steady-numbers-on-monday/articleshow/132843365.cms",
+    "time": "2026-08-04T00:14:02.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Lower min age for MD, directors to 18: Parliamentary panel",
+    "desc": "A parliamentary panel suggests lowering the minimum director age to eighteen years. The committee also backs raising the maximum director age to seventy-five years. Special NCLT benches for insolvency matters are recommended for efficient asset resolution. The panel proposes retaining the ten crore net profit threshold for CSR applicability. New provisions will enable seamless re-domiciliation of foreign companies to IFSC.",
+    "img": "https://static.toiimg.com/photo/msid-132843275,imgsize-1200206.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/lower-min-age-for-md-directors-to-18-parliamentary-panel/articleshow/132843267.cms",
+    "time": "2026-08-03T23:52:26.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Changes to boost electronics, investment",
+    "desc": "New tax law amendments are proposed by Finance Minister Nirmala Sitharaman. These changes aim to offer concessions to overseas investors and boost electronics manufacturing. The government plans to extend tax exemptions for specified electronic goods by ten years. It also introduces new exemptions for storing and selling electronic components. These reforms signal a shift towards long-term competitiveness and attracting global capital.",
+    "img": "https://static.toiimg.com/photo/msid-132843263,imgsize-1001905.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/changes-to-boost-electronics-investment/articleshow/132843259.cms",
+    "time": "2026-08-03T23:49:41.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "AI fraud is hitting India’s new net users hardest: Amazon",
+    "desc": "Protecting new online shoppers from AI scams is India's next e-commerce challenge. Amazon's trust chief highlights consumer awareness as critical for digital fraud. Generative AI creates sophisticated scams, but also aids detection efforts. Behavioral data helps distinguish genuine sellers from bad actors effectively. Amazon acts against fraud proactively, not waiting for regulatory mandates.",
+    "img": "https://static.toiimg.com/photo/msid-132843256,imgsize-27714.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/ai-fraud-is-hitting-indias-new-net-users-hardest-amazon/articleshow/132843254.cms",
+    "time": "2026-08-03T23:47:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Government to sell up to 6.5% stake in LIC, may mop up Rs 31k cr",
+    "desc": "The government is selling up to 6.5% of LIC shares through an offer for sale. This divestment aims to meet minimum public shareholding norms ahead of schedule. The offer begins Tuesday and closes Wednesday with a base price of Rs 382. Successful sale will raise approximately Rs 31,400 crore for the government. This move contributes significantly to the government's annual disinvestment target.",
+    "img": "https://static.toiimg.com/photo/msid-132843189,imgsize-937154.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/government-to-sell-up-to-6-5-stake-in-lic-may-mop-up-rs-31k-cr/articleshow/132843178.cms",
+    "time": "2026-08-03T23:36:36.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Low-cost Asean imports worry medical device companies",
+    "desc": "Low-priced medical device imports from China and Malaysia are impacting India's domestic manufacturing capabilities. Imports from Asean countries have increased significantly, affecting local players. Chinese products often enter India through Asean nations, exploiting free trade agreements. Domestic companies are finding it difficult to compete, despite government incentives. Urgent renegotiation of trade agreements is needed to protect local industries.",
+    "img": "https://static.toiimg.com/photo/msid-132843175,imgsize-883396.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/low-cost-asean-imports-worry-medical-device-companies/articleshow/132843167.cms",
+    "time": "2026-08-03T23:33:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aishwarya Rai Bachchan stuns in UNSEEN Cannes pics",
+    "desc": "Unseen photographs from Aishwarya Rai Bachchan's 2026 Cannes debut have surfaced online. The Tony Ward Couture creation featured over 7,000 pearls and 40 meters of silk. This striking ensemble included a pearl-encrusted gown and a dramatic white taffeta cape. The actress embraced various high-fashion looks throughout the festival. These newly released images add to her memorable Cannes fashion history.",
+    "img": "https://static.toiimg.com/photo/msid-132843086,imgsize-503281.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aishwarya-rai-bachchan-stuns-in-unseen-cannes-2026-look-custom-gown-made-of-7000-pearls-and-silk/articleshow/132843083.cms",
+    "time": "2026-08-03T23:22:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "21 Bangladesh nationals detained in J&amp;K’s Ramban",
+    "desc": "Twenty-one Bangladesh nationals were detained in Ramban district last week. Officials are questioning them to learn who facilitated their movement. The group was caught moving in two vehicles during a checking drive. None of them could produce valid identity or travel documents. Investigators are probing if any network assisted these illegal immigrants.",
+    "img": "https://static.toiimg.com/photo/msid-132843135,imgsize-1259668.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/21-bangladesh-nationals-detained-in-jks-ramban/articleshow/132843124.cms",
+    "time": "2026-08-03T23:22:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "J&amp;K: Days after Kulgam terror attack, man with grenade held in Pulwama",
+    "desc": "A suspect was apprehended in Pulwama carrying a hand grenade and anti-national posters. This arrest occurred during a security operation following recent migrant worker killings. Authorities booked the local man under stringent anti-terror laws, including the UAPA. Security forces are increasing patrols and checkpoints across the valley. This intensified security aims to maintain peace and prevent further unlawful activities.",
+    "img": "https://static.toiimg.com/photo/msid-132843108,imgsize-1377227.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jk-days-after-kulgam-terror-attack-man-with-grenade-held-in-pulwama/articleshow/132843084.cms",
+    "time": "2026-08-03T23:10:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India crosses 20k organ transplants/yr for 1st time",
+    "desc": "India performed a record 20,138 organ transplants in 2025, a significant increase over previous years. Delhi-NCR led the nation in transplant procedures, while Tamil Nadu topped deceased organ donors. India now ranks third globally in total organ transplants, after the US and China. Deceased donor transplants continue to fall short of the substantial demand for organs. Government initiatives aim to strengthen organ donation and transplant services across the country.",
+    "img": "https://static.toiimg.com/photo/msid-132843073,imgsize-1495566.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-crosses-20k-organ-transplants/yr-for-1st-time/articleshow/132843064.cms",
+    "time": "2026-08-03T22:46:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Withdraw cases, allow youngsters to continue studies: SC to states",
+    "desc": "The Supreme Court permitted governments to withdraw cases against student protesters. This move aims to allow students to pursue their studies without prosecution fears. However, cases against individuals with criminal records will not be dropped. The court will also establish guidelines for the use of graded force by police. Discussions on modalities for dropping cases against genuine students are ongoing.",
+    "img": "https://static.toiimg.com/photo/msid-132843063,imgsize-1862008.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/withdraw-cases-allow-youngsters-to-continue-studies-sc-to-states/articleshow/132843056.cms",
+    "time": "2026-08-03T22:41:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Spider-Man' crosses USD 1 billion; eyes USD 2.1 billion mark",
+    "desc": "Brand New Day has officially crossed the one billion dollar mark globally. The Tom Holland-led superhero film achieved this historic box office win recently. This achievement marks Holland's second film as a leading man to reach this milestone. The movie is now projected to potentially reach two billion dollars worldwide. Its success continues to set new records in the film industry.",
+    "img": "https://static.toiimg.com/photo/msid-132843049,imgsize-1279139.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/spider-man-brand-new-day-crosses-usd-1-billion-worldwide-tom-holland-starrer-now-eyeing-usd-2-1-billion-lifetime-haul/articleshow/132841398.cms",
+    "time": "2026-08-03T22:40:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Census phase 2 to begin Aug 17, will capture caste, parents’ birth details",
+    "desc": "The Census 2027 population enumeration phase begins August 17 in snow-bound northern areas. This phase will capture caste details for the first time since 1931. Parents' date and birthplace will also be recorded as declared by respondents. Passport and Aadhaar numbers may be collected voluntarily during the exercise. The questionnaire for this significant census phase will be notified soon.",
+    "img": "https://static.toiimg.com/photo/msid-132843053,imgsize-1102816.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/census-phase-2-to-begin-aug-17-will-capture-caste-parents-birth-details/articleshow/132843046.cms",
+    "time": "2026-08-03T22:36:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Opposition toughens stand, washout of session likely",
+    "desc": "Parliament's monsoon session faces potential washout amid opposition demands. Opposition insists on discussing Ram temple donations and police actions. Union ministers criticize opposition for boycotting legislative proceedings. Bills were passed without debate due to the ongoing parliamentary standoff. The government has not yet assured discussions on the opposition's key demands.",
+    "img": "https://static.toiimg.com/photo/msid-132843019,imgsize-1423267.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/opposition-toughens-stand-washout-of-session-likely/articleshow/132842585.cms",
+    "time": "2026-08-03T22:13:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "UPS has attracted just 4% of NPS subscribers: Government",
+    "desc": "The Unified Pension Scheme for central government employees has seen low adoption rates. Only a small percentage of National Pension Trust subscribers have opted for this new scheme. The government introduced UPS with assured pension benefits and gratuity provisions. However, the response has been tepid, prompting an extension of the migration deadline. No changes are currently being considered to replace the Unified Pension Scheme.",
+    "img": "https://static.toiimg.com/photo/msid-132842407,imgsize-828551.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ups-has-attracted-just-4-of-nps-subscribers-government/articleshow/132842166.cms",
+    "time": "2026-08-03T22:09:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "How can transgender ID cards be rendered invalid?",
+    "desc": "The Supreme Court has sought the government's response regarding the Transgender Persons (Protection of Rights) Amendment Act. Concerns were raised that the new law might erase existing benefits for transgender individuals. Senior advocates reported that hormone treatment is being denied due to fear of prosecution. They also alleged the discontinuation of the national portal for transgenders. The court questioned the retrospective invalidation of previously issued transgender identity cards.",
+    "img": "https://static.toiimg.com/photo/msid-132841414,imgsize-1305369.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sc-how-can-transgender-id-cards-be-rendered-invalid/articleshow/132841405.cms",
+    "time": "2026-08-03T22:01:53.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Bradley Cooper and Gigi Hadid spark wedding buzz- WATCH",
     "desc": "Bradley Cooper and Gigi Hadid have sparked secret wedding rumors. The couple was photographed wearing matching gold bands on their left ring fingers. This sighting occurred in Paris after a workout session together. News of a possible wedding follows Gigi's friend Taylor Swift's recent nuptials. Cooper and Hadid began their relationship in October 2023.",
@@ -7,6 +250,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bradley-cooper-and-gigi-hadid-married-in-secret-couple-spotted-wearing-matching-wedding-rings-in-paris-watch/articleshow/132841175.cms",
     "time": "2026-08-03T21:51:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ARAI's study on E20 fuel impact may be made public",
+    "desc": "Government agencies are considering releasing the ARAI study on E20 fuel's impact. This report, submitted in June 2024, studied E10-compatible vehicles. Fuel consumption increased slightly for two-wheelers and cars in the study. Mass emissions met regulatory requirements for all vehicles tested. The release aims to remove misconceptions among vehicle users about E20 fuel.",
+    "img": "https://static.toiimg.com/photo/msid-132841382,imgsize-752155.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/arais-study-on-e20-fuel-impact-may-be-made-public/articleshow/132841173.cms",
+    "time": "2026-08-03T21:18:41.000Z"
   },
   {
     "cat": "Entertainment",
@@ -109,6 +361,15 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
+    "title": "Why you get better care when you stop nodding and start asking why",
+    "desc": "Doctors are trained to approach illness in a particular way — whereas what you want out of treatment may be vastly different. When this is not discussed, a large mismatch in expectations can develop, resulting in a trust deficit and ultimately disappointment",
+    "img": "https://th-i.thgim.com/public/education/lck8ov/article71229308.ece/alternates/LANDSCAPE_1200/iStock-1496640787.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/health/why-you-get-better-care-when-you-stop-nodding-and-start-asking-why/article71300867.ece",
+    "time": "2026-08-03T18:10:01.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "heavy rain continues to batter district",
     "desc": "A total of 964 people from 365 families remain in 32 relief camps in Kozhikode as heavy rain continues and schools remain shut for a second day; more than a dozen relief camps have closed in Wayanad after many displaced families returned home, leaving 584 people in 14 camps",
     "img": "https://th-i.thgim.com/public/incoming/fh1l5i/article71302754.ece/alternates/LANDSCAPE_1200/RAGESH%2004tvkzkakoodi1.jpg",
@@ -153,33 +414,6 @@ const newsData_en = [
     "time": "2026-08-03T17:29:27.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Statues of the Buddha, N.T. Rama Rao unveiled at Parasam village",
-    "desc": "The Minister and Nellimarla MLA Lokam Naga Madhavi unveiled the statues in Vizianagaram district; Ms. Madhavi said two roads would be built at a cost of ₹20 lakh and local temples developed with the SriVani Trust’s support",
-    "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/b1ycm/article71300554.ece/alternates/LANDSCAPE_1200/Buddha.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/statues-of-the-buddha-and-nt-rama-rao-unveiled-at-parasam-village/article71300023.ece",
-    "time": "2026-08-03T17:27:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Farmers’ groups protest over drinking water shortage in Kalaburagi, carry empty pots to highlight the issue",
-    "desc": "Members of the Samyukta Kisan Morcha and other farmers’ organisations, along with residents, staged a protest outside the Kalaburagi City Corporation office on Monday, carrying empty pots to highlight the acute drinking water shortage in the city",
-    "img": "https://th-i.thgim.com/public/incoming/wzwcyx/article71302710.ece/alternates/LANDSCAPE_1200/10258_3_8_2026_19_47_25_3_KLB_SKM_PROTEST_2.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/farmers-groups-protest-over-drinking-water-shortage-in-kalaburagi-carry-empty-pots-to-highlight-the-issue/article71301890.ece",
-    "time": "2026-08-03T17:26:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tadoba tiger ‘Explorer’ returns to Andhra Pradesh in search of mate, territory",
-    "desc": "Now a fully grown adult, the tiger has returned to the Jangareddigudem forests months after its remarkable cross-country journey, prompting the State to pursue the relocation of female tigers and the establishment of a breeding population",
-    "img": "https://th-i.thgim.com/public/incoming/25pbjo/article71302211.ece/alternates/LANDSCAPE_1200/IMG_tiger_10237_24_4_202_2_1_MCGBEQUV.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/tadoba-tiger-explorer-returns-to-andhra-pradesh-in-search-of-mate-territory/article71301758.ece",
-    "time": "2026-08-03T17:05:10.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Siddharth interview",
     "desc": "In this conversation with Shreyas Pande, actors Siddharth and Jimmy Shergil, creator and showrunner Kushal Srivastava and producer Sanjay Routray discuss their upcoming Netflix series Operation Safed Sagar, the connection between ‘Rang De Basanti’ and the show, the actors’ experience of donning the uniform and more.",
@@ -196,15 +430,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/hard-right-reform-uk-vow-to-use-navy-to-stop-small-boats/article71302332.ece",
     "time": "2026-08-03T15:59:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NDA states acted firmly against recruitment scams; opposition failed to curb irregularities: CM Dhami",
-    "desc": "Uttarakhand Chief Minister Pushkar Singh Dhami on Monday said that NDA-ruled states have taken firm action against recruitment scams and examination-related irregularities, while alleging that opposition-ruled states failed to curb such malpractices and were marked by widespread irregularities in recruitment processes.",
-    "img": "https://static.toiimg.com/photo/msid-132835947,imgsize-50524.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/nda-states-acted-firmly-against-recruitment-scams-opposition-failed-to-curb-irregularities-cm-dhami/articleshow/132835698.cms",
-    "time": "2026-08-03T15:45:31.000Z"
   },
   {
     "cat": "Business",
@@ -232,15 +457,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/hockey/tirkey-slams-hockey-india-dg-seeks-detailed-response-on-jersey-change-queries/article71302203.ece",
     "time": "2026-08-03T15:16:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "A seat for JSP's 'school bag': Why Prashant Kishor's Bankipur win is a warning for both BJP and RJD",
-    "desc": "Prashant Kishor achieved a remarkable victory in the Bankipur byelection, effectively breaking the BJP's three-decade dominance on the assembly seat. This triumph represents Kishor's resurgence in politics following his party's prior electoral drubbing in the state. He leveraged this win to critique Bihar's chief minister and emphasize the need for development. The outcome comes as an embarrassment for the current government's leadership.",
-    "img": "https://static.toiimg.com/photo/msid-132835604,imgsize-1346068.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/a-seat-for-jsps-school-bag-why-prashant-kishors-bankipur-win-is-a-warning-for-both-bjp-and-rjd/articleshow/132770925.cms",
-    "time": "2026-08-03T15:04:39.000Z"
   },
   {
     "cat": "Entertainment",
@@ -306,15 +522,6 @@ const newsData_en = [
     "time": "2026-08-03T12:39:39.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "OTT releases this week (August 3 to August 9)",
-    "desc": "The first full week of August brings an exciting mix of fresh OTT premieres, ranging from big-ticket originals and returning fan-favourite series to documentaries, animation and war dramas. Whether you're looking for an emotional love story, an inspiring sports comedy, a gripping historical drama or a fantasy adventure, streaming platforms have something for every kind of viewer this week.",
-    "img": "https://static.toiimg.com/photo/msid-132831572,imgsize-328045.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/ott-releases-this-week-august-3-to-august-9-main-vaapas-aaunga-sterling-point-operation-safed-sagar-the-super-mario-galaxy-movie-and-more/photostory/132831572.cms",
-    "time": "2026-08-03T12:38:58.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "After Arjuna Awardee calls out Indian calendar, AICF moves to find solution",
     "desc": "The All India Chess Federation (AICF) is working to hold the senior National Chess Championship in November-December 2026 after it was initially scheduled for March 2027. Following concerns raised by Grandmaster Abhijeet Gupta, the federation is in talks with stakeholders to finalise dates. AICF said a packed domestic and international calendar had forced the initial postponement.",
@@ -331,15 +538,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/a-highly-satisfying-show-by-the-indian-contingent-in-glasgow/article71297632.ece",
     "time": "2026-08-03T12:07:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When SRK's accidental fall made Rahul and Anjali's first meeting",
-    "desc": "A memorable scene from Kabhi Khushi Kabhie Gham occurred unexpectedly during filming. Shah Rukh Khan's stumble was kept in the final take by director Karan Johar. This unplanned moment added authenticity to Rahul and Anjali's first meeting sequence. Fans continue to cherish this behind-the-scenes trivia about the popular film. The movie, released in 2001, achieved significant international commercial success.",
-    "img": "https://static.toiimg.com/photo/msid-132830845,imgsize-159847.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-shah-rukh-khans-accidental-fall-made-rahul-and-anjalis-first-meeting-in-kabhi-khushi-kabhie-gham-even-more-memorable/articleshow/132830755.cms",
-    "time": "2026-08-03T11:56:21.000Z"
   },
   {
     "cat": "Entertainment",
@@ -360,15 +558,6 @@ const newsData_en = [
     "time": "2026-08-03T11:42:46.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Shah Rukh Khan's 'King' stays locked for Christmas release despite buzz of delay",
-    "desc": "Shah Rukh Khan's film 'King' is confirmed for its December 24, 2026 release. The movie will face significant competition from three major Hollywood blockbusters. 'King' enjoys a home advantage due to Shah Rukh Khan's immense popularity in India. Internationally, the film's distributor will leverage its global appeal for screen placements. Postponing the release would have presented equally challenging competition in 2027.",
-    "img": "https://static.toiimg.com/photo/msid-132829933,imgsize-498281.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khans-king-stays-locked-for-christmas-release-despite-buzz-of-delay-set-for-box-office-clash-with-avengers-doomsday-jumanji-open-world-and-dune-part-three/articleshow/132829933.cms",
-    "time": "2026-08-03T11:29:44.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Where and when banks will remain closed this month",
     "desc": "August brings numerous bank holidays across India, affecting branch operations. Banks will close on specific dates due to regional festivals and national observances. Customers should verify local branch availability before planning visits. Digital banking services will remain accessible throughout these holiday periods. Plan branch-specific transactions in advance to avoid any inconvenience.",
@@ -376,24 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/bank-holidays-in-august-2026-where-and-when-banks-will-remain-closed-this-month/articleshow/132828782.cms",
     "time": "2026-08-03T11:14:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'50 to 70 people used to share one bathroom'",
-    "desc": "Salman Khan made his anticipated appearance on Alliance, discussing his jail experiences. He also addressed Sohail Khan's difficult journey and contestant interactions. Sohail Khan faced challenges and expressed frustration with constant advice from Arslan Goni. Arslan Goni later apologized to Sohail Khan after a heated confrontation. The grand finale of Alliance is scheduled to air on August 7.",
-    "img": "https://static.toiimg.com/photo/msid-132829496,imgsize-334046.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-recalls-his-days-in-jail-while-visiting-sohail-khan-on-alliance-50-to-70-people-used-to-share-one-bathroom-it-was-indian-style-commode-there-would-be-lizards/articleshow/132829430.cms",
-    "time": "2026-08-03T11:08:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Travis Kelce to be country music star?",
-    "desc": "Travis Kelce is reportedly planning a country music album after his NFL career. His wedding performance served as a test run for this new musical endeavor. While some friends express doubts, Kelce remains optimistic about his future. He has a relentless drive and the support of Taylor Swift. This new chapter sees him trading the football field for the recording studio.",
-    "img": "https://static.toiimg.com/photo/msid-132828559,imgsize-294056.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/travis-kelce-to-be-country-music-star-heres-what-the-nfl-star-aims-for-after-his-surprise-performance-at-his-and-taylor-swifts-wedding/articleshow/132828248.cms",
-    "time": "2026-08-03T10:41:15.000Z"
   },
   {
     "cat": "Sports",
@@ -421,15 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/usa-cricketer-akhilesh-reddy-handed-8-year-ban-by-icc-for-corruption-offences/articleshow/132827968.cms",
     "time": "2026-08-03T10:28:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Jana Nayagan' box office day 12 (LIVE): Vijay's film slows down",
-    "desc": "Vijay's latest venture, Jana Nayagan, is proving to be a box office success following its release, having crossed the impressive Rs 200 crore threshold over its second weekend in theaters. However, the film has recently seen a decrease in daily earnings as it began its second week. Current estimates reveal that the total collections in India have reached Rs 206.38 crore, marking a slight slowdown in momentum.",
-    "img": "https://static.toiimg.com/photo/msid-132827812,imgsize-516305.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-box-office-day-12-live-thalapathy-vijays-film-slows-after-rs-200-crore-mark/articleshow/132827748.cms",
-    "time": "2026-08-03T10:09:36.000Z"
   },
   {
     "cat": "Business",
@@ -505,57 +667,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Brij Bhushan acquitted in wrestlers' sexual harassment case; court clears Tomar too",
-    "desc": "A Delhi court acquitted former WFI chief Brij Bhushan Sharan Singh and assistant secretary Vinod Tomar. This verdict concludes a significant legal battle involving allegations from women wrestlers. The case stemmed from protests that brought national attention to wrestling administration issues. Police had filed charges under various sections of the Indian Penal Code against the accused.",
-    "img": "https://static.toiimg.com/photo/msid-132819850,imgsize-108222.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/wrestling/brij-bhushan-sharan-singh-acquitted-in-wrestlers-sexual-harassment-case-delhi-court-clears-vinod-tomar-too/articleshow/132819857.cms",
-    "time": "2026-08-03T05:28:06.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Rupee rises 31 paise on weaker dollar, lower oil prices and continued FII inflows",
-    "desc": "The Indian rupee strengthened against the US dollar on Monday morning. Falling global crude oil prices and a weaker US dollar supported the rupee's rise. Foreign fund inflows and higher forex reserves also provided additional support. Easing geopolitical concerns after US President Donald Trump delayed strikes on Iran helped markets. The Reserve Bank of India's continued intervention further bolstered the currency's performance.",
-    "img": "https://static.toiimg.com/photo/msid-132819674,imgsize-606277.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-rises-31-paise-on-weaker-dollar-lower-oil-prices-and-continued-fii-inflows/articleshow/132819528.cms",
-    "time": "2026-08-03T05:09:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Vozinha! Vozinha!': World Cup star gets hero's welcome in Chile after three delays",
-    "desc": "Vozinha, a breakout star from the 2026 FIFA World Cup, has arrived in Chile. Hundreds of jubilant supporters welcomed the Cape Verde goalkeeper at the airport. His transfer to Colo Colo was delayed on three separate occasions due to documentation issues. The Chilean Football Federation allowed him to wear his nickname on his jersey.",
-    "img": "https://static.toiimg.com/photo/msid-132819488,imgsize-44410.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/vozinha-vozinha-fifa-world-cup-breakout-star-gets-heros-welcome-in-chile-after-three-delays/articleshow/132819490.cms",
-    "time": "2026-08-03T05:02:56.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Japan, US step in to support yen, Tokyo keeps door open for more action",
-    "desc": "Japan and the United States intervened in currency markets to address yen volatility. This joint action followed a September 2025 finance ministers' statement. Tokyo is ready for further intervention if the yen continues to swing. Japan also plans to use the Federal Reserve's FIMA Repo Facility. Economic growth forecasts were cut due to oil prices and a weaker yen.",
-    "img": "https://static.toiimg.com/photo/msid-132819062,imgsize-148346.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/japan-us-step-in-to-support-yen-with-rare-joint-intervention-tokyo-keeps-door-open-for-more-action/articleshow/132818720.cms",
-    "time": "2026-08-03T04:40:11.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "'Displayed exceptional skill, determination': PM Modi hails India's CWG heroes",
     "desc": "Prime Minister Modi congratulated India's athletes for their 39 medals at the Glasgow Games. India secured fourth place despite fewer sports and a smaller contingent. Gulveer Singh made history as the sole double medallist for India. The Commonwealth Games flag was officially handed over to India for 2030. Ahmedabad will host the prestigious centenary edition of the Games.",
     "img": "https://static.toiimg.com/photo/msid-132818816,imgsize-157426.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/displayed-exceptional-skill-determination-and-dedication-pm-modi-hails-indias-glasgow-cwg-heroes/articleshow/132818699.cms",
     "time": "2026-08-03T04:28:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Auqib Nabi replaces Jasprit Bumrah in India Test squad for Sri Lanka series",
-    "desc": "Auqib Nabi claimed 104 wickets across the last two Ranji Trophy seasons, including 60 wickets in the 2025-26 campaign, playing a pivotal role in Jammu and Kashmir's maiden Ranji Trophy triumph. He was also part of the India A squad that toured Sri Lanka recently, where he claimed six wickets in two first-class matches.",
-    "img": "https://static.toiimg.com/photo/msid-132818518,imgsize-21009.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/auqib-nabi-replaces-jasprit-bumrah-in-india-test-squad-for-sri-lanka-series/articleshow/132818475.cms",
-    "time": "2026-08-03T04:14:27.000Z"
   },
   {
     "cat": "Business",
@@ -585,15 +702,6 @@ const newsData_en = [
     "time": "2026-08-03T02:45:04.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Oil tumbles over 6% as Trump's Iran talks revive hopes of easing Middle East tensions",
-    "desc": "Oil prices dropped significantly as United States and Iran negotiations offered hope for de-escalation. Uncertainty surrounds these talks and ongoing security risks persist along vital shipping lanes. Brent crude futures experienced a sharp decline after President Trump announced potential discussions with Iran. This followed a substantial rally last month fueled by renewed conflict and tanker attacks.",
-    "img": "https://static.toiimg.com/photo/msid-132816367,imgsize-39284.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-tumbles-over-6-as-trumps-iran-talks-revive-hopes-of-easing-middle-east-tensions/articleshow/132816341.cms",
-    "time": "2026-08-03T02:03:45.000Z"
-  },
-  {
     "cat": "World",
     "title": "Trump says Gulf leaders' input weighed heavily in decision to hold off on ordering new Iran strikes",
     "desc": "It was another turnabout for Mr. Trump, who a day earlier said he is \"losing faith\" in negotiations with Iran and offered the ominous warning that the U.S. military \"will be hitting them very hard\"",
@@ -601,24 +709,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trump-says-gulf-leaders-input-weighed-heavily-in-decision-to-hold-off-on-ordering-new-iran-strikes/article71299741.ece",
     "time": "2026-08-03T01:58:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Over to Ahmedabad! Neeraj Chopra receives CWG flag as 2030 countdown begins",
-    "desc": "Glasgow hosted the 2026 Commonwealth Games, concluding with India receiving the hosting rights for 2030. India finished fourth in the medal standings with 39 medals. The closing ceremony showcased India's culture and aspirations for Ahmedabad. Olympic champion Neeraj Chopra and PT Usha accepted the ceremonial baton. Ahmedabad will host the centenary Commonwealth Games in four years.",
-    "img": "https://static.toiimg.com/photo/msid-132816137,imgsize-217886.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/over-to-ahmedabad-neeraj-chopra-pt-usha-receive-cwg-flag-as-indias-countdown-to-historic-2030-commonwealth-games-begins/articleshow/132816110.cms",
-    "time": "2026-08-03T01:16:44.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Investments in PE-VC fall 6% to $20.3bn in Jan-July",
-    "desc": "India's private equity and venture capital investments surpassed twenty billion dollars this year. This figure shows a slight decrease compared to the previous year's performance. July saw investments of three billion dollars, remaining stable from last year's figures. Investors maintain long-term confidence in India's private markets despite global challenges. Sectors like renewable energy and B2B software startups are attracting significant investor attention.",
-    "img": "https://static.toiimg.com/photo/msid-132815633,imgsize-1026843.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/investments-in-pe-vc-fall-6-to-20-3bn-in-jan-july/articleshow/132815624.cms",
-    "time": "2026-08-02T22:48:07.000Z"
   },
   {
     "cat": "Sports",
@@ -792,15 +882,6 @@ const newsData_en = [
     "time": "2026-08-01T13:38:15.000Z"
   },
   {
-    "cat": "World",
-    "title": "Italy suspends EU Schengen free-travel pact with Spain over Ceuta crisis",
-    "desc": "Italy does not share a land border with Spain, but the measure — which looks certain to anger ‌Madrid — will impact people travelling by plane or boat between the two countries, meaning they will need to ‌show a passport to gain access",
-    "img": "https://th-i.thgim.com/public/incoming/3ei27h/article71294688.ece/alternates/LANDSCAPE_1200/AFP_C3Q74MB.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/italy-suspends-eu-schengen-free-travel-pact-with-spain-over-ceuta-crisis/article71294642.ece",
-    "time": "2026-08-01T13:32:25.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Discovery announces documentary on Operation Sindoor, to premiere on Aug 15",
     "desc": "The documentary follows the events from the strategic deliberations after the Pahalgam terror attack in April last year to the launch and execution of Operation Sindoor on May 7, offering a behind-the-scenes account of the conflict.",
@@ -817,86 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/australia-defends-teen-social-media-ban-after-study-shows-most-still-online/article71293555.ece",
     "time": "2026-08-01T05:56:03.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "High taxes on cigarettes hits ITC Q1, net slips 27% to ₹3,579 crore",
-    "desc": "The sharp decline on profit came on the government’s decision to increase excise duty and other taxes on cigarettes. Since this business contributes a major share of the company’s profit, the higher levies weighed on the margins.",
-    "img": "https://th-i.thgim.com/public/incoming/d30njc/article71291150.ece/alternates/LANDSCAPE_1200/ITC-shifts-growGKNG65EOH.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/high-taxes-on-cigarettes-hits-itc-q1-net-slips-27-to-3579-crore/article71291010.ece",
-    "time": "2026-07-31T14:31:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Pluto’ movie review: A sci-fi comedy that sticks to usual alien narratives",
-    "desc": "Sci-fi films are not something that happens often in the Malayalam film industry, which has relatively smaller budgets, with the subgenre of sci-fi comedies appearing even less frequently. Even the rarity of the genre does not really work to the advantage of Pluto.",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/gzdpes/article71286462.ece/alternates/LANDSCAPE_1200/pluto.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/pluto-movie-review-a-sci-fi-comedy-that-sticks-to-usual-alien-narratives/article71286486.ece",
-    "time": "2026-07-31T11:39:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "The viral Chuvarbot 2.0 secures productisation grant from Kerala Startup Mission",
-    "desc": "The graffiti painting start-up, which garnered social media attention during the 2026 Kerala Assembly elections, has secured a grant of ₹12 lakhs from the Kerala Startup Mission. The product, currently in its prototype stage, is set to launch by the end of 2026",
-    "img": "https://th-i.thgim.com/public/incoming/kxjxmy/article71280241.ece/alternates/LANDSCAPE_1200/Chuvarbot_3.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/society/the-viral-chuvarbot-20-secures-productisation-grant-from-kerala-startup-mission/article71275908.ece",
-    "time": "2026-07-30T11:35:57.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Why is the founder of Telegram on Russia’s wanted list",
-    "desc": "The international wanted notice against Pavel Durov comes after the FSB said that Telegram had failed to remove “numerous channels, chats, and bots” allegedly used by “Ukrainian intelligence agencies and terrorist and extremist organisations” to prepare and coordinate acts of “sabotage and terrorism, mass murder, and cyber fraud” in Russia.",
-    "img": "https://th-i.thgim.com/public/incoming/on2zwb/article71284277.ece/alternates/LANDSCAPE_1200/2024-09-17T050018Z_531756498_RC242AAINJT0_RTRMADP_3_FRANCE-SECURITY-RUSSIA-TELEGRAM.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/why-is-the-founder-oftelegramonrussiaswantedlist-explained/article71284265.ece",
-    "time": "2026-07-30T08:10:34.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "What is the EU AI transparency code?",
-    "desc": "Starting from August 2, the EU mandates labels for AI-generated content to boost transparency online. From deepfakes to manipulated text, find out how this new code seeks to protect users and maintain the integrity of information",
-    "img": "https://th-i.thgim.com/public/news/national/9odytc/article71279838.ece/alternates/LANDSCAPE_1200/iStock-1976099664%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/what-is-the-eu-ai-transparency-code-explained/article71279676.ece",
-    "time": "2026-07-29T05:06:21.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "After OpenAI-Hugging Face AI agent hack, U.S. lawmakers push for control",
-    "desc": "After OpenAI shared that some of its models had caused a security breach at another company, a White House official quoted by Reuters said that U.S. President Donald Trump’s ​tech adviser, Michael Kratsios, was tracking the situation",
-    "img": "https://th-i.thgim.com/public/incoming/2gddpv/article71260959.ece/alternates/LANDSCAPE_1200/OpenAI_56692.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/after-openai-hugging-face-ai-agent-hack-us-lawmakers-push-for-control/article71260982.ece",
-    "time": "2026-07-28T06:42:24.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
   }
 ];
