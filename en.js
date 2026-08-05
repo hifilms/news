@@ -1,6 +1,87 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Row in Odisha varsity over interference by BJP MLA",
+    "desc": "The University Teachers Association has requested the Vice-Chancellor to take it up with Odisha Governor Haribabu Kambhampati, who is the chancellor of university, and safeguard dignity of teachers and integrity of the university administrative processes",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/odisha/row-in-odisha-varsity-over-interference-by-bjp-mla/article71309859.ece",
+    "time": "2026-08-05T21:42:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Lok Sabha approves Bankers’ Books Evidence Bill without debate",
+    "desc": "The Lok Sabha recently approved the Bankers’ Books Evidence Bill, a significant update from an older statute. This new law modernizes the procedures for presenting digital banking records in legal settings. Despite opposition members’ protests and disruptions in the house, the government stood firm, accusing them of hindering religious initiatives and temple projects. Ultimately, the bill passed through a voice vote before the house adjourned.",
+    "img": "https://static.toiimg.com/photo/msid-132973350,imgsize-101604.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/lok-sabha-approves-bankers-books-evidence-bill-without-debate/articleshow/132973313.cms",
+    "time": "2026-08-05T21:31:25.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Spain's Ceuta seeks transfer of unaccompanied migrant minors to mainland Spain after border rush",
+    "desc": "Though the vast majority of migrants have since returned to Morocco, roughly 1,100 unaccompanied minors who arrived before and during the influx — and cannot be summarily deported — remain, according to the local government",
+    "img": "https://th-i.thgim.com/public/incoming/lx9nf/article71311037.ece/alternates/LANDSCAPE_1200/2026-08-05T164103Z_749281830_RC2ASMA3MJ5P_RTRMADP_3_MIGRATION-EUROPE-SPAIN-CEUTA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/spains-ceuta-seeks-transfer-of-unaccompanied-migrant-minors-to-mainland-spain-after-border-rush/article71311034.ece",
+    "time": "2026-08-05T21:26:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rajya Sabha passes by voice vote bill to raise Supreme Court judge strength",
+    "desc": "The Rajya Sabha approved a bill to increase the Supreme Court's judge count. This legislation replaces an ordinance that raised the sanctioned strength to thirty-eight judges. The bill's passage aims to expedite case disposal and enhance judicial efficiency. It will also provide the Chief Justice greater flexibility in forming constitution benches. India anticipates its first woman Chief Justice in the near future.",
+    "img": "https://static.toiimg.com/photo/msid-132973158,imgsize-198984.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/rajya-sabha-passes-by-voice-vote-bill-to-raise-supreme-court-judge-strength/articleshow/132973008.cms",
+    "time": "2026-08-05T21:21:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rijiju reaches out to Rahul on delimitation bill",
+    "desc": "The government is pushing its delimitation legislation to increase Lok Sabha seats. This bill also proposes one-third reservation for women starting in 2029. Opposition leader Rahul Gandhi rejected the government's outreach for support. The government may reintroduce the Constitution amendment bill soon. Discussions continue regarding the Foreign Contributions Regulation Amendment Bill.",
+    "img": "https://static.toiimg.com/photo/msid-132972980,imgsize-935604.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/rijiju-reaches-out-to-rahul-on-delimitation-bill/articleshow/132972861.cms",
+    "time": "2026-08-05T21:11:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ex-star calls for FIFA chief to quit; cites litany of abuses",
+    "desc": "Luis Figo has called for Gianni Infantino to resign as FIFA president, launching a fierce attack over the collapsed FIFA Forward Enterprise proposal. The former Portugal captain accused Infantino of putting personal interests ahead of football and claimed the controversy had damaged FIFA’s reputation. His comments add to growing pressure on Infantino amid calls for leadership change.",
+    "img": "https://static.toiimg.com/photo/msid-132970437,imgsize-65314.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/he-should-go-now-luis-figo-unleashes-bombshell-rant-tearing-apart-embattled-fifa-boss-infantino/articleshow/132970437.cms",
+    "time": "2026-08-05T20:57:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Meta apologises for ‘error in restricting PM’s video’",
+    "desc": "Meta's CEO Mark Zuckerberg formally apologized to the Indian government over several operational missteps, including issues with paid content amplification. The acknowledgment of these errors comes as officials expressed concerns over the potential loss of safe harbor protection for the platform. As the government reassesses its child online safety regulations, Meta committed to implementing necessary corrective actions to address these concerns.",
+    "img": "https://static.toiimg.com/photo/msid-132972396,imgsize-31034.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/meta-apologises-for-error-in-restricting-pms-video/articleshow/132972236.cms",
+    "time": "2026-08-05T20:55:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Report claims Infantino offered Morocco final for support",
+    "desc": "Gianni Infantino has reportedly been accused of offering Morocco the 2030 FIFA World Cup final in exchange for political support ahead of his re-election battle, claims FIFA has denied. The report comes as pressure grows on the FIFA president following the collapse of the FIFA Forward Enterprise proposal, with Infantino facing increasing scrutiny over his leadership and governance.",
+    "img": "https://static.toiimg.com/photo/msid-132967840,imgsize-95788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/gianni-infantino-promised-morocco-2030-world-cup-final-in-exchange-for-support-says-report/articleshow/132966278.cms",
+    "time": "2026-08-05T19:58:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Praggnanandhaa leads after rapid phase at St. Louis, blitz next",
+    "desc": "The Indian, who is no longer a part of 2026 World Championship, displayed some immaculate technique, precision and the will to win in the rapid section that spanned over nine rounds in this annual edition that is a part of professional chess for several years now",
+    "img": "https://th-i.thgim.com/public/incoming/w6zwsg/article71311009.ece/alternates/LANDSCAPE_1200/763925925_1453098266854788_7399917660853153631_n.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/praggnanandhaa-leads-after-rapid-phase-at-st-louis-blitz-next/article71311004.ece",
+    "time": "2026-08-05T19:56:48.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "RINL employees ask PMO to clear pending salaries, VRS settlements",
     "desc": "The collectives said the plant had an emergency reserve fund of over ₹900 crore and a cash balance of ₹195 crore, and that salaries, VRS-2 and VRS-3 settlements and family and widow pensions remained unpaid",
     "img": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-andhrapradesh/sn7heo/article69973313.ece/alternates/LANDSCAPE_1200/Private-canteenGIMEQG5TT.3.jpg.jpg",
@@ -306,15 +387,6 @@ const newsData_en = [
     "time": "2026-08-05T13:16:57.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Meta CEO Mark Zuckerberg apologises to Centre; Rahul Gandhi meets student protesters, targets PM Modi &amp; more",
-    "desc": "Meta's CEO apologized to the Indian government regarding content moderation and platform issues. Rahul Gandhi met student protesters and criticized the Prime Minister and Home Minister. An India-flagged ship was hit and sank in the Red Sea, though its crew was rescued. Parliamentary affairs minister met Rahul Gandhi to discuss breaking the ongoing Parliament deadlock. Trump's immigration crackdown has reportedly detained parents of active-duty US military personnel.",
-    "img": "https://static.toiimg.com/photo/msid-132930689,imgsize-924752.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-meta-ceo-mark-zuckerberg-apologises-to-centre-rahul-gandhi-meets-student-protesters-targets-pm-modi-more/articleshow/132929049.cms",
-    "time": "2026-08-05T13:05:19.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Musafir Cafe' Season 2: Makers renew romantic series",
     "desc": "Musafir Cafe is returning with Season 2 after winning hearts with its emotional storytelling. Netflix India confirmed the renewal, while creator Sharanya Rajgopal expressed gratitude for the audience’s love. The new chapter will continue Chander, Sudha and Preeti’s journey, with Vikrant Massey, Vedika Pinto and Mahima Makwana reprising their roles.",
@@ -334,30 +406,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "After 'Devdas' fallout Sanjay Leela Bhansali and Kareena Kapoor may finally collaborate",
-    "desc": "Filmmaker Sanjay Leela Bhansali has made strides to reconnect with actress Kareena Kapoor Khan for a pivotal role, potentially burying years of industry rumors about their dynamic. This projected film promises to intertwine elements of mythology with a vast jungle expedition. Ongoing discussions are focused on aligning schedules and finalizing contracts, with pre-production slated for November and filming anticipated to kick off in January 2027.",
-    "img": "https://static.toiimg.com/photo/msid-132926706,imgsize-267029.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-devdas-fallout-sanjay-leela-bhansali-and-kareena-kapoor-khan-may-finally-collaborate-for-dhanush-led-mythology-adventure-report/articleshow/132926491.cms",
-    "time": "2026-08-05T12:23:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Yash on the pressure to play Raavan in Ramayana",
     "desc": "At San Diego Comic-Con, the team behind the Ramayana film launched the trailer and delved into character discussions. Actor Yash, who brings the demon king Ravana to life, expressed the character’s weight in the epic as he bridges the age-old dichotomy between good and evil. Yash's nostalgic ties to the Ramayana further enrich his portrayal.",
     "img": "https://static.toiimg.com/photo/msid-132926568,imgsize-250196.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yash-says-the-biggest-challenge-for-playing-raavan-in-ramayana-was-to-understand-how-he-would-interpret-the-character-when-people-already-know-about-him-and-many-actors-have-played-it-on-screen-its-an-extra-pressure/articleshow/132925927.cms",
     "time": "2026-08-05T12:22:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Probe panel claims unrest 'pre-planned', links Samajwadi MP, MLA",
-    "desc": "Last year, three-member panel had met the CM and submitted its report concerning the violence that erupted near the Shahi Jama Masjid on November 24 in 2024 during an ASI-monitored survey of the mosque. The unrest resulted in four fatalities and injuries to several others. In the document, a sharp demographic shift is observed.",
-    "img": "https://static.toiimg.com/photo/msid-132925797,imgsize-232082.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sambhal-violence-2024-probe-panel-claims-unrest-pre-planned-links-samajwadi-mp-mla/articleshow/132925389.cms",
-    "time": "2026-08-05T12:13:27.000Z"
   },
   {
     "cat": "Entertainment",
@@ -385,15 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/preity-zinta-says-her-kids-are-half-indian-and-half-american-but-culturally-one-hundred-percent-indian-grateful-that-i-have-a-cool-husband-whos-okay-with-me-going-off-for-two-months-for-work/articleshow/132924275.cms",
     "time": "2026-08-05T11:59:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Indian cargo ship engulfed in flames and smoke after projectile strike off Yemen",
-    "desc": "An Indian-flagged cargo vessel was struck by a projectile in Yemeni waters. The ship caught fire and sank off Yemen’s western coast near Hodeidah. All fourteen crew members, including thirteen Indians, were rescued by the Yemeni Coast Guard. The National Resistance Forces blamed Houthi rebels for the unprovoked attack. India's Ministry of External Affairs condemned the incident and called for unimpeded navigation.",
-    "img": "https://static.toiimg.com/photo/msid-132923805,imgsize-3528757.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/watch-indian-cargo-ship-engulfed-in-flames-and-smoke-after-projectile-strike-off-yemen/articleshow/132917645.cms",
-    "time": "2026-08-05T11:51:55.000Z"
   },
   {
     "cat": "Business",
@@ -594,15 +639,6 @@ const newsData_en = [
     "time": "2026-08-05T04:15:24.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Carlos Alcaraz withdraws from Cincinnati Open, US Open title defence in doubt",
-    "desc": "Carlos Alcaraz has officially withdrawn from the Cincinnati Open due to an ongoing wrist injury, raising concerns about his chances of successfully defending his US Open title. This absence not only jeopardizes his ranking points but also limits his preparation on hard courts. Having already missed two Grand Slam events this season, Alcaraz now finds himself at World Number three in the ATP rankings.",
-    "img": "https://static.toiimg.com/photo/msid-132888968,imgsize-42896.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/carlos-alcaraz-withdraws-from-cincinnati-open-us-open-title-defence-in-doubt/articleshow/132888450.cms",
-    "time": "2026-08-05T04:03:23.000Z"
-  },
-  {
     "cat": "Business",
     "title": "SpaceX's first earnings: Revenue soars to $7.8 billion in debut results",
     "desc": "SpaceX has reported a reduced loss alongside increased revenue, mainly driven by its burgeoning Starlink business. With ambitions to dominate global internet services, Starlink's subscriber count has now doubled. The company is heavily investing in artificial intelligence and infrastructure, aiming for an impressive $100 billion in annual revenue by year-end, while also planning to launch new satellites and enhance mobile connectivity.",
@@ -610,15 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/spacexs-first-earnings-revenue-soars-to-7-8-billion-in-debut-results/articleshow/132887606.cms",
     "time": "2026-08-05T03:54:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Neeraj Chopra reflects on 10-month injury struggle after CWG silveer",
-    "desc": "Neeraj Chopra secured the silver medal with a best throw of 85.83m, while debutant Yashvir Singh won bronze as India celebrated two medals in the event. Chopra's final attempt ended in a foul, but his earlier effort was enough to seal second place in his second Commonwealth Games appearance. The Indian javelin star said the last 10 months were extremely difficult and thanked everyone who helped him during his recovery.",
-    "img": "https://static.toiimg.com/photo/msid-132887306,imgsize-44049.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/neeraj-chopra-reflects-on-10-month-injury-struggle-after-cwg-silver-medal-this-one-means-so-much/articleshow/132887306.cms",
-    "time": "2026-08-05T03:33:50.000Z"
   },
   {
     "cat": "Sports",
@@ -810,24 +837,6 @@ const newsData_en = [
     "time": "2026-08-03T16:42:32.000Z"
   },
   {
-    "cat": "World",
-    "title": "Hard-right Reform U.K. vow to use navy to stop small boats",
-    "desc": "They come as Mr. Farage and Reform — which led national polls for around 18 months but have seen that lead disappear in recent weeks — are embroiled in a series of scandals and official probes into their finances",
-    "img": "https://th-i.thgim.com/public/incoming/yf6dch/article71302403.ece/alternates/LANDSCAPE_1200/Britain_Politics_38217.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/hard-right-reform-uk-vow-to-use-navy-to-stop-small-boats/article71302332.ece",
-    "time": "2026-08-03T15:59:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tirkey slams Hockey India DG, seeks detailed response on jersey change queries",
-    "desc": "The Hockey India chief has asked Srivastava to provide the specific authority, approval or delegation under which the decision to change the official jersey was taken, timeline of the change, names, designations and roles of every person involved in the process and copies of all internal correspondence relating to the decision",
-    "img": "https://th-i.thgim.com/public/incoming/gzvada/article71302199.ece/alternates/LANDSCAPE_1200/6744_31_8_2025_17_25_28_1_01_RVM_8215.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/hockey/tirkey-slams-hockey-india-dg-seeks-detailed-response-on-jersey-change-queries/article71302203.ece",
-    "time": "2026-08-03T15:16:54.000Z"
-  },
-  {
     "cat": "Business",
     "title": "RBI sells $14.9 billion during Jan-May to check excess volatility in rupee",
     "desc": "\"The Reserve Bank of India (RBI) regularly monitors the foreign exchange market and intervenes in situations of excess volatility. As per the latest data available from the RBI, the RBI's foreign exchange intervention during January-May 2026 amounted to a net sale of $14.9 billion,\" says Minister of State for Finance",
@@ -835,24 +844,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/rbi-sells-149-billion-during-jan-may-to-check-excess-volatility-in-rupee/article71301424.ece",
     "time": "2026-08-03T13:35:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "A highly satisfying show by the Indian contingent in Glasgow",
-    "desc": "The boxers make a significant contribution to the country’s medal tally; Gulveer, with a double podium finish, turns out to be the brightest star among the athletes; Asmita and Harsh bag historic gold in judo; Mirabai proves her class yet again",
-    "img": "https://th-i.thgim.com/public/incoming/s4bmqv/article71298832.ece/alternates/LANDSCAPE_1200/PTI08_02_2026_000058B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/a-highly-satisfying-show-by-the-indian-contingent-in-glasgow/article71297632.ece",
-    "time": "2026-08-03T12:07:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Aquib Nabi replaces Jasprit Bumrah for Sri Lanka series",
-    "desc": "Bumrah’s absence is a significant blow to Shubman Gill’s side ahead of a series India cannot afford to lose if it is to preserve its remote chances of qualifying for the World Test Championship final",
-    "img": "https://th-i.thgim.com/public/incoming/eg5oby/article71299954.ece/alternates/LANDSCAPE_1200/12205_17_10_2025_12_10_25_3_23_RANJITROPHYMATCHJAMMUANDKASHMIRVSMUMBAITSHER_I_KASHMIRSTADIUMSRINAGAR_SGR_17_10_2025.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/aquib-nabi-replaces-jasprit-bumrah-for-sri-lanka-series/article71299949.ece",
-    "time": "2026-08-03T08:18:19.000Z"
   },
   {
     "cat": "Entertainment",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/pluto-movie-review-a-sci-fi-comedy-that-sticks-to-usual-alien-narratives/article71286486.ece",
     "time": "2026-07-31T11:39:01.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Why is the founder of Telegram on Russia’s wanted list",
+    "desc": "The international wanted notice against Pavel Durov comes after the FSB said that Telegram had failed to remove “numerous channels, chats, and bots” allegedly used by “Ukrainian intelligence agencies and terrorist and extremist organisations” to prepare and coordinate acts of “sabotage and terrorism, mass murder, and cyber fraud” in Russia.",
+    "img": "https://th-i.thgim.com/public/incoming/on2zwb/article71284277.ece/alternates/LANDSCAPE_1200/2024-09-17T050018Z_531756498_RC242AAINJT0_RTRMADP_3_FRANCE-SECURITY-RUSSIA-TELEGRAM.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/why-is-the-founder-oftelegramonrussiaswantedlist-explained/article71284265.ece",
+    "time": "2026-07-30T08:10:34.000Z"
   }
 ];
