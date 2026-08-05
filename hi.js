@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Abdullah Shafique ends Pakistan's 49-year wait; West Indies on backfoot in second Test",
+    "desc": "Abdullah Shafique produced a career-defining innings to put Pakistan in command of the second Test against the West Indies. He became the first batter from his country in nearly five decades to score more than...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abdullah-shafique-ended-pakistan-s-49-year-wait-west-indies-on-backfoot-in-second-test-2026-08-05-1050371",
+    "time": "2026-08-05T01:45:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Himmat Singh's freak final-ball run-out forces Super Over in Delhi Premier League: WATCH",
+    "desc": "Outer Delhi Warriors defeated New Delhi Tigers in a Super Over in the Delhi Premier League. The game moved to the one-over contest after an extraordinary final-ball run-out by captain Himmat Singh tied the scores...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/himmat-singh-s-freak-final-ball-run-out-forces-super-over-in-delhi-premier-league-watch-2026-08-05-1050367",
+    "time": "2026-08-05T01:21:41.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sai Sudharsan to miss first Test against Sri Lanka? Report hints another setback for India",
     "desc": "India have been dealing with multiple injury concerns as they gear up to face Sri Lanka in a two-match Test series from August 15 onwards. The Shubman Gill-led side will be missing out on their...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/neeraj-chopras-next-javelin-event-revealed-as-ex-olympic-champion-to-face-tough-field-ahead-of-asian-games-2026-08-04-1050321",
     "time": "2026-08-04T10:20:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ben Stokes plans to become England head coach, questions Joe Root's appointment as captain over Harry Brook",
-    "desc": "Former England captain Ben Stokes has revealed that he wants to return to the national setup as a coach after the end of his playing career. The all-rounder announced his retirement from international cricket during...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ben-stokes-plans-to-become-england-head-coach-questions-joe-root-s-appointment-as-captain-over-harry-brook-2026-08-04-1050302",
-    "time": "2026-08-04T07:42:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Novak Djokovic proposes major changes in tennis, wants to rewrite traditional scoring system",
-    "desc": "Novak Djokovic has called for significant changes to tennis scoring. He proposed a shorter set format while insisting that Grand Slam tournaments should continue to be contested over the best of five sets. The 24-time...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-proposes-major-changes-in-tennis-wants-to-rewrite-traditional-scoring-system-2026-08-04-1050296",
-    "time": "2026-08-04T06:56:03.000Z"
   }
 ];
