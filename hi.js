@@ -1,7 +1,25 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "When will GT batter join Indian team for Sri Lanka Test series?",
+    "title": "Gujarat CM receives Commonwealth Games flag; marks the beginning of preparations for 2030 event",
+    "desc": "Gujarat Chief Minister Bhupendra Patel was on Wednesday formally presented with the Commonwealth Games flag, marking the start of preparations for the 2030 event, which will be hosted in Ahmedabad in 2030. Deputy CM Harsh...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/gujarat-cm-receives-commonwealth-games-flag-marks-the-beginning-of-preparations-for-2030-event-2026-08-05-1050461",
+    "time": "2026-08-05T13:43:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Aiden Markram to miss rest of the Hundred due to personal reasons, Manchester Super Giants name captain",
+    "desc": "Aiden Markram has left Manchester Super Giants midway through the Hundred due to personal reasons and will be missing the rest of the season. Markram, who has blown hot and cold this season, was appointed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/aiden-markram-to-miss-rest-of-the-hundred-due-to-personal-reasons-manchester-super-giants-name-captain-2026-08-05-1050450",
+    "time": "2026-08-05T12:11:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sai Sudharsan injury update; when will GT batter join Indian team for Sri Lanka Test series?",
     "desc": "Sai Sudharsan's absence from the Indian team that reached Sri Lanka for the two-match Test series raised eyebrows as the batter stayed at the BCCI Centre of Excellence to rehabilitate from the toe injury he...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pakistan-players-in-trouble-could-face-ban-for-featuring-in-unauthorised-league-2026-08-05-1050387",
     "time": "2026-08-05T04:13:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ajit Agarkar can be removed as BCCI's chief selector after Rohit Sharma saga: Report",
-    "desc": "The Board of Control for Cricket in India (BCCI) is in talks to replace Ajit Agarkar with VVS Laxman for the chief selector role. According to reports, the board's senior leadership is considering handing the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ajit-agarkar-could-be-removed-as-bcci-s-chief-selector-after-rohit-sharma-saga-report-2026-08-05-1050376",
-    "time": "2026-08-05T02:42:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abdullah Shafique ends Pakistan's 49-year wait; West Indies on backfoot in second Test",
-    "desc": "Abdullah Shafique produced a career-defining innings to put Pakistan in command of the second Test against the West Indies. He became the first batter from his country in nearly five decades to score more than...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abdullah-shafique-ended-pakistan-s-49-year-wait-west-indies-on-backfoot-in-second-test-2026-08-05-1050371",
-    "time": "2026-08-05T01:45:00.000Z"
   }
 ];

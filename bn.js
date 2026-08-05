@@ -1,5 +1,41 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "‘দুর্গ জয় সহজ নয়!’, ‘বিগ বস বাংলা’ নিয়ে সৌরভের হুংকার; কবে, কখন দেখা যাবে?",
+    "desc": "প্রায় ১০ বছর পর সৌরভ গঙ্গোপাধ্যায়ের সঞ্চালনায় স্টার জলসায় ফিরছে ‘বিগ বস বাংলা’। প্রকাশ্যে আসা প্রমোতে মহারাজের কড়া হুঁশিয়ারি—\"দুর্গ জয় সহজ নয়!\" রাত ৯:৩০ বা ১০:৩০-এর সম্ভাব্য স্লটে দেখা যেতে পারে শো-টি। পাশাপাশি যশ-নুসরত, সায়ক ও অনিন্দ্যর মতো তারকাদের সম্ভাব্য প্রতিযোগী হিসেবে ঘিরে চর্চা এখন তুঙ্গে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/saurav-ganguly-invokes-tagore-vivekananda-in-bigg-boss-bangla-3-promo-time-to-roar-again_665601.html ",
+    "time": "2026-08-05T12:47:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "মোদীর ভিডিয়ো ডিলিট নিয়ে জলঘোলা, মেটার কন্টেন্ট প্রমোশনে গলদ! ক্ষমা চাইলেন জুকারবার্গ",
+    "desc": "শিশু যৌন নিপীড়নমূলক কনটেন্ট (CSAM), ডিপফেক এবং কন্টেন্ট মডারেশনের ত্রুটি নিয়ে কেন্দ্র সরকারের কাছে ক্ষমা চাইলেন মেটা সিইও মার্ক জুকারবার্গ! অন্যদিকে, মেটার অ্যালগরিদম স্বয়ংক্রিয়ভাবে পোস্ট প্রমোট করায় তাদের 'সেফ হারবার' আইনি সুরক্ষাকবচ বাতিল করার ইঙ্গিত দিয়েছে তথ্যপ্রযুক্তি মন্ত্রক।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/mark-zuckerberg-apologises-csam-deepfakes-meta-safe-harbour-it-act_665589.html ",
+    "time": "2026-08-05T12:01:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "খাবার নয় থালায় বিষ? নিষিদ্ধ অ্যানালগ পনির, নিয়ম ভাঙলেই সোজা জেল",
+    "desc": "পনিরের নামে থালায় আসলে কী পরিবেশন করা হচ্ছে—খাঁটি দুধ নাকি কেমিক্যাল মেশানো বিষ? গোডাউনে 'নকল' পনিরের চালান উদ্ধারের পর চরম পদক্ষেপ করল প্রশাসন! রাজ্যজুড়ে জারি হল কড়া নিষেধাজ্ঞা। ভারী জরিমানা আর জেলের খাঁড়া ঝুলিয়ে কি থামানো যাবে জনস্বাস্থ্য নিয়ে খেলা এই অদৃশ্য চক্রকে?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/maharashtra-bans-non-dairy-paneer-violators-face-6-months-in-jail-rs-1-lakh-fine_665588.html ",
+    "time": "2026-08-05T11:45:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "এবার টার্গেট গডকরী, ইথানল মেশানো পেট্রল বেচে লোক ঠকাচ্ছে কেন্দ্র: ফের আন্দোলনে আরশোলারা, গোপন মিটিঙে দীপকে",
+    "desc": "অভিজিৎ দিপকে বলেন, 'প্রথাগত রাজনৈতিক দল ও গণতান্ত্রিক প্রতিষ্ঠানগুলোর ওপর সাধারণ মানুষের আস্থা দিন দিন কমছে। ভারতের এই মুহূর্তে সাধারণ মানুষের ক্ষোভ ও দাবিদাওয়া তুলে ধরার জন্য একটি শক্তিশালী নাগরিক প্রেশার গ্রুপ (Jan-Dabav Samuha) প্রয়োজন। আমরা কোনও নির্বাচনী দল না হয়ে জনগণের আন্দোলন হিসেবেই কাজ করব।'",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/cjp-sets-sight-on-e20-petrol-policy-and-unemployment-abhijeet-dipke-calls-core-team-meeting_665587.html ",
+    "time": "2026-08-05T11:16:45.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "পুলিসের আশঙ্কা ‘প্রমাণহীন’! শর্তসাপেক্ষে মুক্তির নির্দেশ বিতর্কিত ধর্মগুরু আশারামের",
     "desc": "২০১৩ সালের যৌন নির্যাতন মামলায় যাবজ্জীবন সাজাপ্রাপ্ত বিতর্কিত ধর্মগুরু আশারামকে ২০ দিনের প্যারোল দিল রাজস্থান হাইকোর্ট। রাজ্য সরকারের আপত্তি ও পুলিসের নিরাপত্তাসংক্রান্ত আশঙ্কাকে ‘প্রমাণহীন’ বলে খারিজ করে আদালত। দীর্ঘ ১৩ বছর কারাবাস এবং অতীতে জামিনের শর্ত না ভাঙার রেকর্ড বিবেচনা করেই ৮৫ বছর বয়সী আশারামকে এই মুক্তি দেওয়া হয়।",
@@ -88,24 +124,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/rashmika-mandanna-breaks-silence-after-freak-accident-on-mysaa-set-shares-health-update_665401.html ",
     "time": "2026-08-04T10:14:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ইন্ডিয়া জোটের জন্য মঙ্গলে ভয়ানক অমঙ্গল: বাঁকিপুরে বাজি জিতে একা থাকার পণ পিকের",
-    "desc": "সোমবার ফল প্রকাশের পর সংবাদমাধ্যমের মুখোমুখি হয়ে ভোটকুশলী থেকে রাজনীতিবিদ হয়ে ওঠা প্রশান্ত কিশোর বলেন, 'বাঁকিপুরের মানুষ বহুদিনের পুরনো দলগুলোর বাইরে এসে আমাদের ভোট দিয়েছেন। বিহারের মানুষের ওপরই আমাদের সম্পূর্ণ ভরসা। তাই অন্য কোনও দলের সঙ্গে জোটের কোনও প্রশ্নই ওঠে না।'",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/massive-blow-to-bjp-in-bihar-prashant-kishor-wrests-bankipur-stronghold-in-electoral-debut_665347.html ",
-    "time": "2026-08-04T07:39:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "তৃষার সঙ্গে মুখ্যমন্ত্রীকে জড়িয়ে কুরুচিকর কটূক্তি ‘অশ্লীল নিধি’-র! গ্রেফতার জুনিয়র স্ট্যালিন",
-    "desc": "জনসভায় তোলা মাত্র একটা বিতর্কিত শব্দ, আর তাতেই তামিলনাড়ুর রাজনীতিতে নামল চরম বিপর্যয়! অভিনেত্রী তৃষা ও মুখ্যমন্ত্রী বিজয়কে জড়িয়ে বিস্ফোরক মন্তব্যের পরেই বিরোধী দলনেতা উদয়নিধি স্টালিনের বাড়ির সামনে পৌঁছাল পুলিস। দায়ের পরপর একাধিক জামিনঅযোগ্য মামলা! কিন্তু আটক হওয়ার মুহূর্তেও তিনি বেপরোয়া।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/tamil-nadu-cops-detain-udhayanidhi-stalin-over-vulgar-trisha-remarks-chaos-outside-home_665344.html ",
-    "time": "2026-08-04T07:03:15.000Z"
   },
   {
     "cat": "Entertainment",
@@ -286,15 +304,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/what-concerns-has-india-raised-in-the-past-regarding-pakistan-administration-of-pok_664577.html ",
     "time": "2026-07-29T13:31:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'নিজের দলেই গুরুত্ব নেই কঙ্গনার!', ‘অকেজো’ খোঁচার জবাবে সৌরভ মুখ খুলতেই শোরগোল",
-    "desc": "সিজিপি মুখপাত্র সৌরভ দাসকে \"অকেজো ও বেকার\" বলে সরাসরি আক্রমণ করেছিলেন সাংসদ-অভিনেত্রী কঙ্গনা রানাওয়াত। সেই খোঁচা হজম না করে কয়েক ঘণ্টার মধ্যেই পাল্টা তোপ দাগলেন সৌরভ! কঙ্গনার নিজস্ব দলের অন্দরে অবস্থান এবং সাংসদ হিসেবে তাঁর দায়িত্ববোধ নিয়ে এমন কিছু চাঞ্চল্যকর দাবি সামনে আনলেন, যা রাজনৈতিক পাড়ায় নতুন এক ঝড়ের ইঙ্গিত দিচ্ছে...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/cjps-saurav-das-mocks-kangana-ranaut-says-she-is-not-taken-seriously-by-her-own-party_664568.html ",
-    "time": "2026-07-29T12:58:11.000Z"
   },
   {
     "cat": "World",
