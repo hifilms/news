@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "গতি ৮৬৯০ কিমি প্রতি ঘণ্টা, ওজন ৪০০০ কেজি! ভয়ংকর বেগে ছুটল ৫ তলা বাড়ির মতো বড় এই মারণ... মহা বিপর্যয়!",
+    "desc": "প্রায় ৪ হাজার কেজি ওজনের এবং ৫ তলা বাড়ির সমান বড় এই রকেটটি প্রায় ৮৬৯০ কিলোমিটার/ঘণ্টা গতিবেগে চাঁদের গায়ে ধাক্কা মারে। মার্কিন মহাকাশ গবেষণা সংস্থা 'নাসা' (NASA) জানিয়েছে, এই সংঘাতের ফলে পৃথিবীর কোনো বিপদ নেই।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/spacexs-five-story-building-size-4000-kg-rocket-hits-moon-at-8690-kmph-nasa_665631.html ",
+    "time": "2026-08-05T15:10:44.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "'দেখতে খারাপ' মা'কে নিজের বিয়েতে ডাকেইনি ছেলে! জানতে পেরে ছেলের বস করলেন অবিশ্বাস্য কান্ড!",
+    "desc": "নিজের বিয়েতে জন্মদাত্রী মাকে ডাকেননি এক কর্মী। কারণ, মায়ের চেহারা নিয়ে অতিথিদের সামনে লজ্জিত হওয়ার ভয় ছিল তাঁর। মানে, তাঁর বিচারে তাঁর মা দেখতে খারাপ! এদিকে এই অপরাধে ওই কর্মীকে বরখাস্ত করেছেন চিনের এক প্রতিষ্ঠানের সিইও। ঘটনাটি ঘিরে এখন নেট–দুনিয়ায় চলছে ব্যাপক তোলপাড়।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/chinese-ceo-fires-employee-for-excluding-mother-from-wedding-over-looks_665622.html ",
+    "time": "2026-08-05T14:36:43.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "‘দুর্গ জয় সহজ নয়!’, ‘বিগ বস বাংলা’ নিয়ে সৌরভের হুংকার; কবে, কখন দেখা যাবে?",
     "desc": "প্রায় ১০ বছর পর সৌরভ গঙ্গোপাধ্যায়ের সঞ্চালনায় স্টার জলসায় ফিরছে ‘বিগ বস বাংলা’। প্রকাশ্যে আসা প্রমোতে মহারাজের কড়া হুঁশিয়ারি—\"দুর্গ জয় সহজ নয়!\" রাত ৯:৩০ বা ১০:৩০-এর সম্ভাব্য স্লটে দেখা যেতে পারে শো-টি। পাশাপাশি যশ-নুসরত, সায়ক ও অনিন্দ্যর মতো তারকাদের সম্ভাব্য প্রতিযোগী হিসেবে ঘিরে চর্চা এখন তুঙ্গে।",
@@ -97,15 +115,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/release-udhayanidhi-stalin-today-after-questioning-madras-high-court-tells-cops_665414.html ",
     "time": "2026-08-04T11:38:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "প্রশান্ত কিশোরের চেয়েও ধনী! ডাক্তার স্ত্রী বলছেন, 'ওর দল-কাজ নিয়ে মাথাও ঘামাই না...'",
-    "desc": "রাজনীতির সফল কারিগর প্রশান্ত কিশোরকে চেনেন সবাই। কিন্তু আপনি কি জানেন, ধনসম্পত্তির খেলায় স্বামীকেও টেক্কা দিয়েছেন তাঁর আড়ালের স্ত্রী? উপনির্বাচনের সরকারি নথিতেই প্রকাশ পেল সেই চাঞ্চল্যকর তথ্য! কে এই চিকিৎসক ডঃ জাহ্নবী দাস? লাইমলাইটের আড়ালে থেকে কীভাবে গড়ে তুললেন ১০২ কোটি টাকার বিশাল সাম্রাজ্য? জেনে নিন সেই গল্প!",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/meet-dr-jahnavi-das-the-apollo-doctor-richer-than-her-husband-prashant-kishor_665407.html ",
-    "time": "2026-08-04T11:03:34.000Z"
   },
   {
     "cat": "World",
@@ -295,24 +304,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/ramayana-trailer-out-ranbir-kapoor-as-ram-yash-as-ravana-full-cast-controversies_664663.html ",
     "time": "2026-07-30T07:19:08.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "বিক্ষোভ-বিদ্রোহের আগুনে জ্বলছে PoK! পাক জবরদখল ও বর্বর দমনপীড়ন নিয়ে কেন সুর চড়াচ্ছে ভারত?",
-    "desc": "PoK ভারতেরই! আন্তর্জাতিক মঞ্চে এবং দ্বিপাক্ষিক আলোচনায় এই বিষয়ে ভারত বার বার স্পষ্ট বার্তা দিয়ে জানিয়েছে যে, পাকিস্তান নিয়ন্ত্রিত এই অংশকে কোনও বৈধ অঞ্চল হিসেবে ভারত স্বীকার করে না। PoK ফেরতের দাবি জানানো ভারতের বিদেশনীতির অন্যতম অ্যাজেন্ডা।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/what-concerns-has-india-raised-in-the-past-regarding-pakistan-administration-of-pok_664577.html ",
-    "time": "2026-07-29T13:31:09.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ওপেন ফায়ার পাক সেনার, রাস্তায় ছড়িয়ে ছিটিয়ে পড়ল লাশ! 'ওরা ভারতের মতোই শত্রু', PoK-এ ৩২ কাশ্মিরীকে খুনে সাফাই নির্লজ্জ পাক প্রতিরক্ষামন্ত্রীর",
-    "desc": "ভিডিয়োয় দেখা যাচ্ছে পাকিস্তানের নিরাপত্তা বাহিনী মিরপুর শহরে সাধারণ মানুষকে লক্ষ্য করে ওপেন ফায়ার করছে। তারপর নিথর দেহগুলো গাড়িতে তুলছে। রাস্তার ওপর ছড়িয়ে ছিটিয়ে পড়ে রয়েছে লাশ। পাক সেনাবাহিনীর বর্বরতার হাত থেকে বাঁচতে মানুষ প্রাণভয়ে দৌড়াচ্ছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/khawaja-asif-defends-killing-of-32-pok-protestors-saying-they-are-enemies-like-india_664480.html ",
-    "time": "2026-07-29T08:07:24.000Z"
   },
   {
     "cat": "Business",

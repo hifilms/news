@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Australia unveil plan before Border-Gavaskar series, list out preparation options ahead of five-match contest",
+    "desc": "Australia head coach Andrew McDonald has confirmed that his team will not be playing in practice matches before the high-octane Border-Gavaskar series and instead will have a preparatory camp, similar to the sub-continent conditions. The series...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/australia-unveil-plan-before-border-gavaskar-series-list-out-preparation-options-ahead-of-five-match-contest-2026-08-05-1050472",
+    "time": "2026-08-05T15:18:05.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Gujarat CM receives Commonwealth Games flag; marks the beginning of preparations for 2030 event",
     "desc": "Gujarat Chief Minister Bhupendra Patel was on Wednesday formally presented with the Commonwealth Games flag, marking the start of preparations for the 2030 event, which will be hosted in Ahmedabad in 2030. Deputy CM Harsh...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-pulls-out-of-cincinnati-open-will-defending-champion-gain-full-fitness-before-us-open-2026-08-05-1050395",
     "time": "2026-08-05T05:26:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan players in trouble, could face ban for featuring in unauthorised league",
-    "desc": "The Pakistan Cricket Board (PCB) has warned of disciplinary action against former cricketers who participated in the Asian Legends League in Zambia without obtaining the required approvals. In a statement issued after the competition began, the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-players-in-trouble-could-face-ban-for-featuring-in-unauthorised-league-2026-08-05-1050387",
-    "time": "2026-08-05T04:13:17.000Z"
   }
 ];
