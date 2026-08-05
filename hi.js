@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Jos Buttler predicts India star to create history",
+    "desc": "Former England captain Jos Buttler on Wednesday shattered the world record for most runs scored in T20 cricket. Buttler, the 2022 T20 World Cup-winning skipper, achieved the feat during the Hundred 2026 when he smashed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-will-probably-break-this-world-record-jos-buttler-predicts-india-star-to-create-history-2026-08-06-1050486",
+    "time": "2026-08-05T18:33:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jos Buttler breaks Kieron Pollard's world record on return to Manchester Super Giants captaincy in the Hundred",
+    "desc": "Jos Buttler etched his name into the history books as he shattered a massive T20 world record on his return to captaincy for the Manchester Super Giants in the Hundred on Wednesday, August 5. Buttler...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jos-buttler-breaks-kieron-pollards-world-record-on-return-to-manchester-super-giants-captaincy-in-the-hundred-2026-08-05-1050485",
+    "time": "2026-08-05T18:17:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BWF World Championships' draws revealed, Ayush Shetty faces stern test, Sindhu, Lakshya's opponents confirmed",
+    "desc": "The draws of the BWF World Championships, set to take place in New Delhi from August 17 to 23, have been revealed. Asian Championships silver medallist Ayush Shetty will be facing a stern test from...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/bwf-world-championships-draws-revealed-ayush-shetty-faces-stern-test-sindhu-lakshyas-opponents-confirmed-2026-08-05-1050479",
+    "time": "2026-08-05T16:57:03.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Australia unveil plan before Border-Gavaskar series, list out preparation options ahead of five-match contest",
     "desc": "Australia head coach Andrew McDonald has confirmed that his team will not be playing in practice matches before the high-octane Border-Gavaskar series and instead will have a preparatory camp, similar to the sub-continent conditions. The series...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/super-kings-release-faf-du-plessis-mi-cape-town-leave-out-kieron-pollard-ahead-of-upcoming-sa20-season-2026-08-05-1050420",
     "time": "2026-08-05T09:03:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australia pacer suffers calf injury, can return during South Africa series",
-    "desc": "Australia pacer Michael Neser has sustained a right calf strain during a training session. The blow delayed his preparations for the upcoming South Africa series in October. However, he is expected to recover in time...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/australia-pacer-suffers-calf-injury-can-return-during-south-africa-series-2026-08-05-1050410",
-    "time": "2026-08-05T07:31:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan boxer goes missing after Commonwealth Games 2026; what happened in Glasgow?",
-    "desc": "Pakistan boxer Qudratullah has reportedly gone missing in Glasgow ahead of his team's scheduled departure from the Commonwealth Games. It prompted fresh concern over a recurring issue that has affected the country's boxing contingent at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/pakistan-boxer-goes-missing-after-commonwealth-games-2026-what-happened-in-glasgow-2026-08-05-1050398",
-    "time": "2026-08-05T06:02:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Carlos Alcaraz pulls out of Cincinnati Open; will defending champion gain full fitness before US Open?",
-    "desc": "After missing the French Open and Wimbledon, Carlos Alcaraz was expected to return to tennis at the Cincinnati Open. It was believed to be a perfect opportunity for the Spaniard to get back into the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-pulls-out-of-cincinnati-open-will-defending-champion-gain-full-fitness-before-us-open-2026-08-05-1050395",
-    "time": "2026-08-05T05:26:34.000Z"
   }
 ];

@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "શું 2 વારની ચેમ્પિયન ટીમ 2027ના વનડે વર્લ્ડ કપમાંથી બહાર થશે? જાણો આઈસીસી ક્વોલિફિકેશનનું ગણિત!",
+    "desc": "વેસ્ટ ઈન્ડિઝ માટે 2027ના વિશ્વકપમાં સીધો પ્રવેશ મેળવવાનું કામ મુશ્કેલ બની ગયું છે. જાણો આઈસીસી રેન્કિંગનું શું છે ગણિત અને કઈ રીતે ભારત વિરુદ્ધ વેસ્ટ ઈન્ડિઝ અને અફઘાનિસ્તાન વિરુદ્ધ આયર્લેન્ડ સિરીઝ બે ટીમોના ભાગ્યનો નિર્ણય કરશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/explained-will-two-time-champion-miss-2027-odi-world-cup-understanding-the-qualification-math-486857 ",
+    "time": "2026-08-05T17:46:59.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "Ather લાવી રહ્યું છે તેનું સૌથી સસ્તું સ્કૂટર KONARC, આ દિવસે થશે લોન્ચ, જાણો કેટલી હશે કિંમત",
     "desc": "એથર એક નવું અને સસ્તું સ્કૂટર લોન્ચ કરી રહ્યું છે. આ કંપનીનું અત્યાર સુધીનું સૌથી સસ્તું મોડેલ હોઈ શકે છે, તે દમદાર ફીચર્સથી ભરપૂર હશે. કંપનીએ હવે આ સ્કૂટરનું નામ જાહેર કર્યું છે. જે 29 ઓગસ્ટે લોન્ચ થનારા આ સ્કૂટરનું નામ Ather Konark હશે. ત્યારે આ સ્કૂટર શું ખાસ છે અને તેની કિંમત કેટલી હશે, તેના વિશે આ લેખમાં જાણીશું.",
@@ -610,15 +619,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/ramayana-trailer-watch-here-ranbir-kapoor-yash-ramayana-movie-trailer-trending-486151 ",
     "time": "2026-07-30T01:21:46.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "PoKમાં પાકિસ્તાન સેનાનો લોહિયાળ આતંક, ચૂંટણીમાં 20 મોતના દાવાથી હાહાકાર",
-    "desc": "પાકિસ્તાનના કબજાવાળા કાશ્મીરમાં ચૂંટણી અને વિવાદિત સીટોને લઈને જારી આંદોલન વચ્ચે તણાવ વધી ગયો છે. પ્રદર્શનકારીઓ અને સુરક્ષાદળો વચ્ચે થયેલા ઘર્ષણમાં ઘણા લોકોના મોતના દાવાએ સ્થિતિ ગંભીર બનાવી દીધી છે. પાકના રક્ષામંત્રીએ આંદોલનકારીઓ પ્રત્યે કડક વલણ અપનાવતા તેની સાથે વાતચીતનો ઈનકાર કર્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/tensions-escalates-in-pok-amid-protests-over-elections-and-assembly-seats-clashes-leave-several-dead-486150 ",
-    "time": "2026-07-29T17:46:17.000Z"
   },
   {
     "cat": "Entertainment",

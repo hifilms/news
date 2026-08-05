@@ -1,5 +1,104 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "RINL employees ask PMO to clear pending salaries, VRS settlements",
+    "desc": "The collectives said the plant had an emergency reserve fund of over ₹900 crore and a cash balance of ₹195 crore, and that salaries, VRS-2 and VRS-3 settlements and family and widow pensions remained unpaid",
+    "img": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-andhrapradesh/sn7heo/article69973313.ece/alternates/LANDSCAPE_1200/Private-canteenGIMEQG5TT.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Visakhapatnam/rinl-employees-ask-pmo-to-clear-pending-salaries-and-vrs-settlements/article71308726.ece",
+    "time": "2026-08-05T19:07:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Pradeep Rawat's son Vikramaditya recalls actor's final moments",
+    "desc": "Veteran actor Pradeep Rawat's son, Vikramaditya, broke down as he recalled his father's final moments during the actor's last rites held at Oshiwara Crematorium in Mumbai on Wednesday. Speaking to the media after bidding an emotional farewell to his father, Vikramaditya shared how the family initially believed the actor was suffering from a minor stomach infection before doctors diagnosed him with an aggressive and rare form of blood cancer.",
+    "img": "https://static.toiimg.com/photo/msid-132963892,imgsize-105644.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pradeep-rawats-son-vikramaditya-recalls-actors-final-moments-i-saw-doctors-giving-him-cpr-thats-when-i-understood/articleshow/132963892.cms",
+    "time": "2026-08-05T18:55:08.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Bangladesh pro-uprising groups turn on each other on second anniversary",
+    "desc": "Control of campuses has become a battleground for parties and students groups that led the July 2024 movement which ousted Sheikh Hasina and her government. Rights group says at least 17 people were killed in mob violence in July. Six were killed in political violence, a drop from nine in June",
+    "img": "https://th-i.thgim.com/public/incoming/xht7lb/article71310894.ece/alternates/LANDSCAPE_1200/20260707246L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/bangladesh-pro-uprising-groups-turn-on-each-other-on-second-anniversary/article71309789.ece",
+    "time": "2026-08-05T17:53:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJD opposes proposed nuclear plant in Odisha, warns of mass agitation",
+    "desc": "Addressing a press conference, BJD senior general secretary Lekhashree Samantsinghar claimed that a nuclear power plant would pose a serious threat to the health and safety of people living in the state. She accused the BJP's \"double-engine government\" of ignoring public welfare in favour of corporate interests. Samantsinghar added that the consequences of those disasters were still being felt and argued that nuclear power carries significant risks to human life.",
+    "img": "https://static.toiimg.com/photo/msid-132954021,imgsize-107738.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bjd-opposes-proposed-nuclear-plant-in-odisha-warns-of-mass-agitation/articleshow/132953845.cms",
+    "time": "2026-08-05T17:06:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Over 43 lakh voters deleted in draft electoral rolls",
+    "desc": "Over 7 lakh dead, over 14 lakh untraceable, and over 15 lakh permanently shifted voters were recorded; around 1.16 lakh voters refused to sign the enumeration form; claims and objections phase from August 5 to September 4",
+    "img": "https://th-i.thgim.com/public/incoming/zcaqql/article71310811.ece/alternates/LANDSCAPE_1200/PTI07_19_2026_000169B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-sir-over-43-lakh-voters-deleted-in-draft-electoral-rolls/article71310282.ece",
+    "time": "2026-08-05T17:05:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tom and Zendaya's Spider-Man romance gets a South Indian twist",
+    "desc": "Tom Holland and Zendaya's on-screen romance has found an unexpected new home, not in New York City or the Marvel Cinematic Universe, but at a lavish South Indian wedding. The AI video transforms Holland's Peter Parker and Zendaya's MJ into a newlywed couple celebrating one of South India's grandest wedding traditions.",
+    "img": "https://static.toiimg.com/photo/msid-132952890,imgsize-94319.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/spider-man-and-mj-tie-the-knot-tom-holland-and-zendaya-get-a-south-indian-happy-ending-in-viral-ai-wedding-video/articleshow/132952890.cms",
+    "time": "2026-08-05T16:52:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Canal restoration to be expedited to curb waterlogging in Kochi",
+    "desc": "Mullassery Canal restoration to resume on September 1 and be completed by March; inspections against banned single-use plastic to be intensified; authorities order urgent drain cleaning, relocation of shops over drains and faster measures to address waterlogging across the city",
+    "img": "https://th-i.thgim.com/public/incoming/plds92/article71310762.ece/alternates/LANDSCAPE_1200/80968_17_7_2026_16_30_19_2_IMG_7768.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/canal-restoration-to-be-expedited-to-curb-waterlogging-in-kochi/article71310245.ece",
+    "time": "2026-08-05T16:41:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Cabinet Secretary, Home Secretary get one-year extension in service",
+    "desc": "The Appointments Committee of the Cabinet led by Prime Minister Modi approved the extension in service of Somanathan as Cabinet Secretary for a further period of one year beyond August 30, 2026, says an order",
+    "img": "https://th-i.thgim.com/public/incoming/mzxf3f/article71310756.ece/alternates/LANDSCAPE_1200/IMG_Hariharan_memorial_l_2_1_JBD4CB99.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/cabinet-secretary-home-secretary-get-one-year-extension-in-service/article71310569.ece",
+    "time": "2026-08-05T16:38:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "World C'ships: Shetty to face top-ranked Shi Yuqi in opener",
+    "desc": "Ayush Shetty will get the chance to improve his win-loss record against top-ranked Chinese shuttler Shi Yuqi in the first round of the 2026 BWF World Championships in New Delhi that begin on August 17. PV Sindhu, chasing her sixth medal, could face top seed and nemesis An Se Young only in the semi-final.",
+    "img": "https://static.toiimg.com/photo/msid-132952442,imgsize-101035.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/bwf-world-cships-draw-ayush-shetty-gets-blockbuster-start-vs-top-ranked-shi-yuqi-pv-sindhu-in-same-half-as-an-se-young/articleshow/132951992.cms",
+    "time": "2026-08-05T16:37:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Marilyn Monroe's house: All about the quiet California residence",
+    "desc": "Marilyn Monroe's former Los Angeles home, a Spanish-style residence, remains a significant cultural landmark today. The property was acquired by new owners with plans for demolition in 2023. However, the L.A. City Council designated the house a Historic Cultural Monument, halting demolition. The owners then sued the city, claiming an unconstitutional taking of their private property. A court dismissed the case, but the owners reportedly amended their complaint.",
+    "img": "https://static.toiimg.com/photo/msid-132928825,imgsize-270300.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/marilyn-monroes-house-all-about-the-quiet-california-residence-where-she-took-her-last-breath-in-1962/articleshow/132928761.cms",
+    "time": "2026-08-05T16:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "With all eyes on delimitation &amp; FCRA, Parliament monsoon session sinks deeper into deadlock",
+    "desc": "Parliament has hit yet another impasse as the opposition protests continue for the thirteenth day. Despite this, the government succeeded in passing important legislation, including the Bankers' Books Evidence Bill and a bill concerning Supreme Court judges. In an effort to resolve the deadlock, minister Kiren Rijiju met with opposition figures, while Prime Minister Modi focused on discussing strategies with BJP Members of Parliament.",
+    "img": "https://static.toiimg.com/photo/msid-132950753,imgsize-171532.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/with-all-eye-on-delimination-fcra-monsoon-session-sinks-deeper-into-deadlock/articleshow/132949704.cms",
+    "time": "2026-08-05T16:20:10.000Z"
+  },
+  {
     "cat": "Business",
     "title": "RBI governor",
     "desc": "RBI governor Sanjay Malhotra emphasized that the costs of UPI transactions are already subtly included in operations. He expressed it is premature to introduce explicit fees for merchants. The priority lies in enhancing the payment infrastructure and increasing utilization. Any fee implementation should consider potential effects on user engagement and ongoing investment, as consumers do indirectly incur costs, albeit often unnoticed.",
@@ -36,51 +135,6 @@ const newsData_en = [
     "time": "2026-08-05T15:39:31.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Govt. is open to talks, Jharkhand CM tells protesting students",
-    "desc": "Hundreds of students have gathered at a stadium in Ranchi to demand a CBI inquiry into alleged irregularities in competitive exams; the protesters have also called for the cancellation of the Preliminary Test of the 14th JPSC Civil Services Examination, and a review of exams conducted through agencies",
-    "img": "https://th-i.thgim.com/public/incoming/ht0par/article71308419.ece/alternates/LANDSCAPE_1200/20260804528L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-job-aspirants-protest-intensifies-as-five-more-sit-on-hunger-strike-in-ranchi/article71308396.ece",
-    "time": "2026-08-05T15:17:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Karnataka Transport Department seizes 263 illegal bike taxis across Bengaluru",
-    "desc": "A total of 263 vehicles were seized during a special enforcement drive conducted by the Transport Department across Bengaluru as part of a crackdown on the illegal commercial use of private two-wheelers, including bike taxis",
-    "img": "https://th-i.thgim.com/public/incoming/livsh/article71310374.ece/alternates/LANDSCAPE_1200/-REVISED-for-boG7AFFSHFV.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/bangalore/karnataka-transport-department-seizes-263-illegal-bike-taxis-across-bengaluru/article71310299.ece",
-    "time": "2026-08-05T15:10:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "BJP seeks action against those denigrating Hindu religion, temples on social media",
-    "desc": "A delegation led by TTD Board member Bhanu Prakash Reddy submits a representation, including a pen drive containing 39 video clips, to DGP (Cybercrime) Ravi Shankar Ayyanar, seeking registration of FIR and thorough investigation into the matter",
-    "img": "https://th-i.thgim.com/public/incoming/1k9n5d/article71310329.ece/alternates/LANDSCAPE_1200/vjkvg-bhanu%205.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/bjp-seeks-action-against-those-denigrating-hindu-religion-temples-on-social-media/article71309973.ece",
-    "time": "2026-08-05T15:06:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tamil Nadu’s first Mangrove Conservation Centre coming up in Muzhukuthurai",
-    "desc": "The project, with an estimated cost of ₹26.50 crore, aims to establish a dedicated centre for mangrove conservation, ecological restoration, scientific research, and public awareness while strengthening the protection and restoration of Tamil Nadu’s coastal ecosystems",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/e0rcld/article71310343.ece/alternates/LANDSCAPE_1200/image.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadus-first-mangrove-conservation-centre-coming-up-in-muzhukuthurai/article71308566.ece",
-    "time": "2026-08-05T15:05:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Spurt in chikungunya cases highlights need to check vector  population",
-    "desc": "As on August 4, a total of 105 confirmed and 62 probable chikungunya cases have been reported from various parts of the State, primarily Thiruvananthapuram. Intense monsoon rainfall interspersed with spells of hot weather has led to an abundance in Aedes mosquitoes",
-    "img": "https://th-i.thgim.com/public/incoming/un83vr/article71310344.ece/alternates/LANDSCAPE_1200/IMG_IMG_IMG_Aedes_aegypt_2_1_V1F1T8ET.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/spurt-in-chikungunya-cases-highlights-need-to-check-vector-population/article71309822.ece",
-    "time": "2026-08-05T15:04:26.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Trump reportedly ready to do 'everything possible' to keep Infantino as FIFA president",
     "desc": "US President Donald Trump is reportedly willing to do \"everything possible\" to help Gianni Infantino remain FIFA president despite mounting pressure over the failed FIFA Forward Enterprise proposal. While FIFA denies recent contact with the White House, reports claim Trump remains a loyal ally. Infantino now faces a far tougher 2027 re-election battle as opposition within world football grows.",
@@ -88,15 +142,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/donald-trump-reportedly-ready-to-do-everything-possible-to-keep-gianni-infantino-as-fifa-president/articleshow/132927680.cms",
     "time": "2026-08-05T14:36:13.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Ousted Bangladesh PM Sheikh Hasina says ban on her party Awami League should be lifted",
-    "desc": "Ms. Hasina had been ​expected to address the event ⁠virtually by video but delivered only an audio ‌message. It was not immediately clear why she did not appear on video, unlike her party colleagues ‌and her son, who ​spoke before her",
-    "img": "https://th-i.thgim.com/public/incoming/gyrccu/article71309996.ece/alternates/LANDSCAPE_1200/TH10-Reuters-HaGU8G819BV.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/sheikh-hasina-former-bangladesh-pm-awami-league-press-interaction-august-5-2026/article71309979.ece",
-    "time": "2026-08-05T14:33:27.000Z"
   },
   {
     "cat": "Politics",
@@ -369,24 +414,6 @@ const newsData_en = [
     "time": "2026-08-05T11:28:06.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'GDN' first review: R Madhavan's performance as wins hearts",
-    "desc": "R Madhavan's upcoming film 'GDN' has been stirring excitement ahead of its launch on August 7. This biographical depiction brings to life the remarkable journey of G.D. Naidu, widely recognized as the 'Edison of India.' Audiences and critics are lauding Madhavan's portrayal of the inventor. The narrative not only showcases Naidu's groundbreaking innovations but also highlights his resilience against the British regime, setting the stage for an inspiring cinematic experience.",
-    "img": "https://static.toiimg.com/photo/msid-132919912,imgsize-136383.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/gdn-first-review-r-madhavans-performance-as-wins-hearts-as-indias-edison-in-emotional-biopic-ahead-of-august-7-release/articleshow/132919784.cms",
-    "time": "2026-08-05T11:05:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bhumi Pednekar spotted for the first time after NEET protest remarks row",
-    "desc": "Bhumi Pednekar addressed the language used during ongoing protests on Instagram. She emphasized that abusive language is not part of Indian culture. Pednekar stated that respectful communication is essential for national progress and unity. Her remarks have drawn reactions from other public figures and netizens. The actress is currently working on several upcoming film projects.",
-    "img": "https://static.toiimg.com/photo/msid-132919602,imgsize-285001.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bhumi-pednekar-spotted-for-the-first-time-after-neet-protest-remarks-row-actress-skips-questions-on-controversy-watch/articleshow/132919373.cms",
-    "time": "2026-08-05T11:01:39.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "After Pakistan boxer, Uganda athletes go ‘missing’ in Glasgow after CWG campaign",
     "desc": "Scottish police are probing reports of athletes from Pakistan and Uganda going missing after the 2026 Commonwealth Games in Glasgow. Four Ugandan boxers reportedly disappeared, with one seeking asylum, while Pakistani boxer Qudratullah was also reported missing. Pakistan finished with just one medal, a bronze for Fatima Zahra, marking its poorest Commonwealth Games campaign in decades.",
@@ -403,15 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/nearly-half-of-indias-workforce-wants-a-new-job-heres-why/articleshow/132917190.cms",
     "time": "2026-08-05T10:46:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Grave security threat': CJP's Saurav Das alleges media 'breaking into' his house",
-    "desc": "The Cockroach Janta Party began as a satirical online response to a statement by Chief Justice of India Surya Kant but later developed into a broader youth-led campaign. The movement has focused on issues including exam security, administrative reforms and employment-related concerns. Das became one of CJP's most visible representatives due to his background in journalism and his ability to present arguments through data, documents and legal references.",
-    "img": "https://static.toiimg.com/photo/msid-132915382,imgsize-112344.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/grave-security-threat-cjps-saurav-das-alleges-media-breaking-into-his-house/articleshow/132914021.cms",
-    "time": "2026-08-05T10:19:35.000Z"
   },
   {
     "cat": "Sports",
@@ -448,15 +466,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/music/hybe-india-ceo-damien-woochang-lee-interview-bts-tour-katseye-le-sserafim-illit/article71308306.ece",
     "time": "2026-08-05T09:46:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Remake of Dravidian model': Ex-Tamil Nadu CM MK Stalin calls Vijay government's budget a 'waste'",
-    "desc": "Tamil Nadu's opposition leader M.K. Stalin criticized the TVK government's budget as a waste. He stated the budget repackaged old schemes and lacked new vision. The finance minister presented a budget aiming for a $1.5 trillion economy by 2031. Opposition parties also pointed out unfulfilled election promises and debt concerns. The budget included allocations for schools, higher education, and welfare initiatives.",
-    "img": "https://static.toiimg.com/photo/msid-132912430,imgsize-910722.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/remake-of-dravidian-model-ex-tamil-nadu-cm-mk-stalin-calls-vijay-governments-budget-a-waste/articleshow/132911701.cms",
-    "time": "2026-08-05T09:41:36.000Z"
   },
   {
     "cat": "Sports",
@@ -621,15 +630,6 @@ const newsData_en = [
     "time": "2026-08-05T03:13:42.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'You told Sooryavanshi to serve water': Ex-India star questions his debut timing",
-    "desc": "Sooryavanshi earned his maiden India call-up after an outstanding IPL 2026 season. He was picked for the tours of Ireland and England but did not get a game in Ireland. After Sanju Samson struggled with the bat, the team management handed Sooryavanshi his debut in England. However, the teenager had a difficult start, scoring 14, 13 and 15 in the three T20Is he played before being left out of the fifth and final match.",
-    "img": "https://static.toiimg.com/photo/msid-132885941,imgsize-45134.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/you-told-vaibhav-sooryavanshi-to-serve-water-first-ex-india-star-says-15-year-old-should-have-debuted-in-ireland-not-england/articleshow/132885941.cms",
-    "time": "2026-08-05T02:54:29.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Crude steadies below $80 as Hormuz blockade keeps investors on edge",
     "desc": "Oil prices nudged higher on Wednesday after a series of declines, as investors keep a keen eye on the diplomatic maneuvers surrounding the US-Iran standoff. Progress is reportedly being made by negotiators striving to bring an end to the conflict and restore access to the Strait of Hormuz. While US crude and gasoline inventories increased last week, there was a drop in distillate stocks.",
@@ -637,15 +637,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-crude-steadies-below-80-as-hormuz-blockade-keeps-investors-on-edge/articleshow/132884487.cms",
     "time": "2026-08-05T02:08:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I want to be a coach': Ben Stokes eyes England coaching role after retirement",
-    "desc": "Ben Stokes retired from international cricket in June during England's Test series against New Zealand. The 35-year-old had an outstanding career, playing a key role in England's 2019 ODI World Cup triumph and producing his unforgettable match-winning innings in the Ashes Test at Headingley later that year.",
-    "img": "https://static.toiimg.com/photo/msid-132884054,imgsize-56640.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-want-to-be-a-coach-ben-stokes-eyes-england-coaching-role-after-retirement/articleshow/132884054.cms",
-    "time": "2026-08-05T01:46:55.000Z"
   },
   {
     "cat": "Business",
@@ -846,15 +837,6 @@ const newsData_en = [
     "time": "2026-08-03T13:35:01.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Stock markets take winning run to 4th day as crude oil prices drop sharply; Nifty surges 1.6%",
-    "desc": "Foreign fund inflows also added to markets' optimism. Extending the winning momentum to the fourth day, the 30-share BSE Sensex jumped 544.39 points, or 0.70%, to settle at 78,639.03. During the day, it surged 800.46 points, or 1%, to 78,895.10",
-    "img": "https://th-i.thgim.com/public/incoming/doa7ks/article71301176.ece/alternates/LANDSCAPE_1200/20260713083L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/markets/stock-markets-take-winning-run-to-4th-day-as-crude-oil-prices-drop-sharply-nifty-surges-16/article71301115.ece",
-    "time": "2026-08-03T12:39:39.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "A highly satisfying show by the Indian contingent in Glasgow",
     "desc": "The boxers make a significant contribution to the country’s medal tally; Gulveer, with a double podium finish, turns out to be the brightest star among the athletes; Asmita and Harsh bag historic gold in judo; Mirabai proves her class yet again",
@@ -873,30 +855,48 @@ const newsData_en = [
     "time": "2026-08-03T08:18:19.000Z"
   },
   {
-    "cat": "World",
-    "title": "What’s at stake in the latest U.S.-Iran talks?",
-    "desc": "What are the key agreements that may shape the next round of Iran-U.S. talks on Monday? With uncertainty looimg large due to Iran’s rebuttal, here are the key sticking points that might determine the Iran-U.S. talks",
-    "img": "https://th-i.thgim.com/public/incoming/cyk99q/article71300064.ece/alternates/LANDSCAPE_1200/Iraq_US_Iran_19833.jpg",
+    "cat": "Entertainment",
+    "title": "Friendships that shaped Bengal’s cinema, literature, art and politics",
+    "desc": "What did Satyajit Ray do when he couldn’t bring himself to say “Action”? Who taught Jyoti Basu to drink Scotch, and why did two artists in Shantiniketan bond over Beethoven instead of Bengal? Revisit the surprising and deeply human friendships that shaped Bengal’s greatest films, books, politics and art.",
+    "img": "https://th-i.thgim.com/public/incoming/gdsqdi/article71293698.ece/alternates/LANDSCAPE_1200/image%2056.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-israel-us-war-news-donald-trump-mojtaba-khamenei-ceasefire-talks-agreement-lebanon-issue-strait-of-hormuz/article71300054.ece",
-    "time": "2026-08-03T06:18:32.000Z"
+    "url": "https://www.thehindu.com/life-and-style/friendship-day-2026-friendships-that-shaped-bengals-cinema-literature-art-and-politics/article71293643.ece",
+    "time": "2026-08-02T13:39:54.000Z"
   },
   {
-    "cat": "World",
-    "title": "Oil prices tumble as Trump cancels attack on Iran to reach nuclear deal",
-    "desc": "On Sunday, August 2, OPEC+ approved an oil production quota increase of around 188,000 barrels ⁠per day from September, the producer group said, in a move that ⁠completes the unwinding of a layer of voluntary output cuts.",
-    "img": "https://th-i.thgim.com/public/incoming/d2xwv9/article71299734.ece/alternates/LANDSCAPE_1200/2026-07-31T061056Z_86316284_RC2ROMAQMVL9_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ.JPG",
+    "cat": "Entertainment",
+    "title": "‘Spider-Man: Brand New Day’ director Destin Daniel Cretton on capturing the spectacle without losing the heart",
+    "desc": "Ahead of the film’s release on July 30, filmmaker Destin Daniel Cretton talks about his memory of watching Toby Maguire’s 2002 classic, his shift from making independent human dramas to Marvel superhero films, how he looks at hero’s journey, and more",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/i8it9t/article71276369.ece/alternates/LANDSCAPE_1200/Tom%20Holland%20and%20Destin%20Daniel%20Cretton%20during%20the%20filming%20of%20%E2%80%98Spider-Man%20Brand%20New%20Day%E2%80%99",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/oil-prices-tumble-as-trump-cancels-attack-on-iran-to-reach-nuclear-deal/article71299732.ece",
-    "time": "2026-08-03T04:10:46.000Z"
+    "url": "https://www.thehindu.com/entertainment/movies/spider-man-brand-new-day-director-destin-daniel-cretton-on-capturing-spectacle-without-losing-heart-tom-holland-marvel-zendaya/article71276177.ece",
+    "time": "2026-08-01T15:51:57.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Glasgow bids farewell to Commonwealth Games with handover to Ahmedabad",
-    "desc": "Overall, it was a fitting finale to a glitzy show that seamlessly blended the finest of Scotland’s music, culture and heritage with India’s rich traditions that showcased the shared values of unity, friendship and hospitality that perhaps best define the Commonwealth spirit",
-    "img": "https://th-i.thgim.com/public/incoming/xf3n7v/article71299147.ece/alternates/LANDSCAPE_1200/PTI08_03_2026_000042A.jpg",
+    "cat": "Entertainment",
+    "title": "Discovery announces documentary on Operation Sindoor, to premiere on Aug 15",
+    "desc": "The documentary follows the events from the strategic deliberations after the Pahalgam terror attack in April last year to the launch and execution of Operation Sindoor on May 7, offering a behind-the-scenes account of the conflict.",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/ren3at/article71293704.ece/alternates/LANDSCAPE_1200/%E2%80%98Declassified%20Operation%20Sindoor%E2%80%99%20poster",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/glasgow-bids-farewell-to-commonwealth-games-with-handover-to-ahmedabad/article71299150.ece",
-    "time": "2026-08-02T22:31:58.000Z"
+    "url": "https://www.thehindu.com/entertainment/movies/discovery-announces-documentary-on-operation-sindoor-to-premiere-on-aug-15/article71293655.ece",
+    "time": "2026-08-01T06:26:58.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Australia defends teen social media ban after study shows most still online",
+    "desc": "The eSafety study painted a sobering picture. It found that children aged 10 ‌to 15 were using social media just as frequently in March ​as they had before the ban came into force on December 10",
+    "img": "https://th-i.thgim.com/public/incoming/y2ucmv/article71293590.ece/alternates/LANDSCAPE_1200/2026-02-27T225210Z_924785762_RC2DEJA0G75K_RTRMADP_3_VIRGINIA-PRIVACY-CHILDREN-DECISION.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/australia-defends-teen-social-media-ban-after-study-shows-most-still-online/article71293555.ece",
+    "time": "2026-08-01T05:56:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Pluto’ movie review: A sci-fi comedy that sticks to usual alien narratives",
+    "desc": "Sci-fi films are not something that happens often in the Malayalam film industry, which has relatively smaller budgets, with the subgenre of sci-fi comedies appearing even less frequently. Even the rarity of the genre does not really work to the advantage of Pluto.",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/gzdpes/article71286462.ece/alternates/LANDSCAPE_1200/pluto.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/pluto-movie-review-a-sci-fi-comedy-that-sticks-to-usual-alien-narratives/article71286486.ece",
+    "time": "2026-07-31T11:39:01.000Z"
   }
 ];
