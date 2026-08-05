@@ -1,7 +1,25 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "ঢাকার আর্জি সত্ত্বেও সতর্ক ভারত, হাসিনাকে ফেরানোর দাবিতে কেন ধীরে চলো নীতিতে মোদী সরকার?",
+    "desc": "ঢাকার পেশ করা আইনি দাবি আর আন্তর্জাতিক কূটনীতির ফাঁদের মাঝে এক জটিল চাল চালছে ভারত! শেখ হাসিনাকে ফেরানোর তীব্র চাপের মুখেও কেন হুট করে কোনো সিদ্ধান্ত নিচ্ছে না মোদী সরকার? আইন খতিয়ে দেখার আড়ালে কি শুধুই সময় নেওয়া, নাকি সীমান্ত নিরাপত্তা ও আঞ্চলিক স্বার্থের এক নতুন সমীকরণ সাজাচ্ছে দিল্লি?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/bangladeshs-request-to-extradite-sheikh-hasina-being-examined-centre-tells-parliament-panel_665542.html ",
+    "time": "2026-08-05T06:30:46.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "‘দিল্লি থেকে মুখ খুলবেন হাসিনা, ব্ল্যাকআউট ঢাকায়!’, সম্প্রচারে নামলেই আইনি খাঁড়া",
+    "desc": "ক্ষমতাচ্যুত হওয়ার পর এই প্রথম ভারত থেকে প্রকাশ্যে মুখ খুলছেন সাজাপ্রাপ্ত বাংলাদেশের প্রাক্তন প্রধানমন্ত্রী শেখ হাসিনা। কিন্তু তাঁর এই এক ভাষণেই তোলপাড় দুই দেশ! সম্প্রচারে কড়া নিষেধাজ্ঞা জারি করেছে বাংলাদেশ সরকার। তীব্র কূটনৈতিক টানাপোড়েনের মাঝে ভারতের ভূমিকা কী? ডিসেম্বরে দেশে ফিরে কি তবে নতুন কোনও রাজনৈতিক ঝড় তুলতে চলেছেন তিনি?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/bangladesh-warns-media-not-to-air-sheikh-hasinas-virtual-address-from-india_665541.html ",
+    "time": "2026-08-05T05:50:27.000Z"
+  },
+  {
     "cat": "Entertainment",
-    "title": "‘লাগান’-এর দেবা আর নেই! মারণব্যাধির সঙ্গে লড়াই থামল, প্রয়াত অভিনেতা প্রদীপ রাওয়াত",
+    "title": "‘লগান’-এর দেবা আর নেই! মারণব্যাধির সঙ্গে লড়াই থামল, প্রয়াত অভিনেতা প্রদীপ রাওয়াত",
     "desc": "দীর্ঘ পাঁচ বছর ব্লাড ক্যানসারের সঙ্গে লড়াইয়ের পর ৭৪ বছর বয়সে প্রয়াত বর্ষীয়ান অভিনেতা প্রদীপ সিংহ রাওয়াত। বিআর চোপড়ার ‘মহাভারত’-এর অশ্বত্থামা, ‘লগান’-এর দেবা কিংবা ‘গজনি’র ভয়ংকর ভিলেন— রূপালী পর্দায় তাঁর আইকনিক অভিনয় দর্শক চিরকাল মনে রাখবে। এই অভিনেতার প্রয়াণে ভারতীয় সিনেমা ও অনুরাগী মহলে নেমে এসেছে গভীর শোকের ছায়া।",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
@@ -115,15 +133,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/indian-agents-killed-over-30-terrorists-in-pak-lashkar-operatives-big-admission_665326.html ",
     "time": "2026-08-04T05:03:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'মেয়ের মুখটাও চিনতে পারিনি...ভারি বাসন দিয়ে বীভত্‍স...!' চোদ্দর কিশোরীকে গণধর্ষণে গ্রেফতার ৩ নাবালক",
-    "desc": "ঘরের থালাবাসন দিয়ে তাণ্ডব! ১৫ বছরের এক কিশোরীকে পৈশাচিক নির্যাতন, গণধর্ষণ ও খুনের ঘটনায় তোলপাড় শুরু হয়েছে। ঘটনায় ১৭ থেকে ১৯ বছরের ৩ তরুণকে গ্রেফতার করেছে পুলিস। অপরাধের হাড়হিম করা নির্মমতা দেখে ১৭ বছরের ধৃত কিশোরকে ‘নাবালক’ নয়, বরং প্রাপ্তবয়স্ক হিসেবে বিচার করার আবেদন জানিয়েছে প্রশাসন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/3-teens-arrested-for-alleged-rape-and-murder-of-15-year-old-girl-in-assam_665323.html ",
-    "time": "2026-08-04T03:31:07.000Z"
   },
   {
     "cat": "Entertainment",
@@ -313,15 +322,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/13-indian-sailors-trapped-on-vessel-mv-amir1-at-ukraines-chornomorsk-port-amid-drone-strikes_664462.html ",
     "time": "2026-07-29T05:41:51.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "রাশিয়াকে চাপে ফেলতে ট্রাম্পের নতুন বিল! ১০০% শুল্কের হুমকিতে ভারত",
-    "desc": "এই বিলে রাশিয়ার কর্মকর্তাদের ওপর সরাসরি নিষেধাজ্ঞা আরোপের প্রস্তাব করা হয়েছে। পাশাপাশি, যেসব দেশ মস্কোর কাছ থেকে বিপুল পরিমাণে তেল ও গ্যাস কেনা অব্যাহত রাখবে, তাদের ওপর সর্বোচ্চ ১০০ শতাংশ পর্যন্ত শুল্ক বসানোর ক্ষমতা মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পকে দেওয়ার কথা বলা হয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/us-senate-advances-russia-sanctions-bill-potential-100-percent-tariffs-on-indian-oil-imports_664455.html ",
-    "time": "2026-07-29T04:08:24.000Z"
   },
   {
     "cat": "Business",

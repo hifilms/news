@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "EMI લેટ થવા પર શું તરત ખરાબ થઈ જાય છે CIBIL સ્કોર? જાણો કેટલા દિવસ પછી વધે છે મુશ્કેલી",
+    "desc": "જો તમારી લોનની EMI એક, બે કે ત્રણ દિવસ મોડી થાય છે, તો શું તમારા CIBIL સ્કોરને તાત્કાલિક અસર થાય છે. શું બેંક તમને ડિફોલ્ટર ગણવા લાગે છે અને તમારે કઈ મુશ્કેલીનો સામનો કરવો પડી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/does-cibil-score-immediately-deteriorate-when-emi-is-late-know-after-how-many-days-the-problem-increases-486813 ",
+    "time": "2026-08-05T07:59:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Gold Crash Alert! હજુ તો માત્ર ₹34000 ઘટ્યું, શું 37% સસ્તું થશે સોનું ? WGCની મોટી ચેતવણી",
+    "desc": "વર્લ્ડ ગોલ્ડ કાઉન્સિલે સોનાના ઘટતા ભાવ અંગે તેના અહેવાલમાં એક નવી ચેતવણી જાહેર કરી છે. WGCએ ભવિષ્યવાણી કરી છે કે સોનામાં જાન્યુઆરી 2026ના દરથી 37 ટકા સુધીનો ઘટાડો થઈ શકે છે, જો કે તેમણે એ પણ નોંધ્યું છે કે જાપાનીઝ યેન ઘટતા ભાવ માટે નોંધપાત્ર ટેકો તરીકે કાર્ય કરી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-crash-alert-it-has-only-fallen-by-rs-34000-will-gold-become-37-percent-cheaper-wgcs-big-warning-486807 ",
+    "time": "2026-08-05T07:05:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "જંતર-મંતર પર હતું હુમલાનું કાવતરું? પંજાબ પોલીસ દ્વારા ISI સમર્થિત આતંકી મોડ્યુલનો પર્દાફાશ, 9ની ધરપકડ",
+    "desc": "પંજાબ પોલીસે પાકિસ્તાનની ISI સમર્થિત બે આતંકી મોડ્યુલનો પર્દાફાશ કરીને 4 સગીરો સહિત 9 આરોપીઓની ધરપકડ કરી છે. આરોપીઓ જંતર-મંતરની રેકી કરવા, પેટ્રોલ બોમ્બ બનાવવા, રેલવે ટ્રેક પર કેમેરા લગાવવા અને પાકિસ્તાન માટે જાસૂસી કરવામાં સામેલ હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/conspiracy-to-attack-jantar-mantar-punjab-police-busts-isi-backed-terror-module-9-arrests-486805 ",
+    "time": "2026-08-05T06:33:24.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "પનીર વેચનારા માટે મોટા સમાચાર! મહારાષ્ટ્રમાં એનાલોગ પનીર પર લાગ્યો કડક બેન, થઈ શકે છે આજીવન કેદ",
     "desc": "જાહેર આરોગ્યની ચિંતાઓને ધ્યાને રાખીને, મહારાષ્ટ્ર સરકારે તાત્કાલિક અસરથી એનાલોગ અથવા નોન-ડેરી, ચીઝના ઉત્પાદન, વેચાણ, સંગ્રહ, પરિવહન અને વિતરણ પર સંપૂર્ણ પ્રતિબંધ લગાવ્યો છે. સરકાર અને FDAએ સ્પષ્ટપણે જણાવ્યું છે કે તેને અધિકૃત ચીઝ તરીકે વેચવું ગ્રાહકોને ગેરમાર્ગે દોરનારું માનવામાં આવે છે.",
@@ -369,15 +396,6 @@ const newsData_gu = [
     "time": "2026-08-02T16:00:43.000Z"
   },
   {
-    "cat": "Business",
-    "title": "રૂપિયા તૈયાર રાખજો! આ અઠવાડિયે IPOની ભરમાર, શેર માર્કેટમાં લિસ્ટ થશે 6 કંપનીઓ; જાણો કેટલો છે પ્રાઈસ બેન્ડ અને GMP",
-    "desc": "આ અઠવાડિયે 6 કંપનીઓના IPO ખુલી રહ્યા છે. જેમાં 4 કંપની એસએમઈ (SME) સેગમેન્ટની અને બે કંપની મેઈનબોર્ડ સેગમેન્ટની છે. ચાલો જાણીએ કયો IPO ક્યા દિવસ ખુલી રહ્યો છે ગ્રે માર્કેટમાં GMP શું ચાલી રહ્યું છે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/keep-your-money-ready-ipos-galore-this-week-6-companies-will-be-listed-in-the-stock-market-know-what-is-the-price-band-and-gmp-486533 ",
-    "time": "2026-08-02T15:26:46.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "દર મહિને મળશે ₹2,500... 12 કલાકમાં 33,000થી વધુ મહિલાઓએ કરાવ્યું રજીસ્ટ્રેશન, જાણો કોને મળશે આ લાભ",
     "desc": "દિલ્હી લક્ષ્મી યોજના શરૂ થતાં જ તેને જબરદસ્ત પ્રતિસાદ મળી રહ્યો છે. યોજના શરૂ થયાના 12 કલાકમાં જ 33,000થી વધુ મહિલાઓએ રજીસ્ટ્રેશન કરાવ્યું છે. આ યોજના હેઠળ પાત્ર મહિલાઓને દર મહિને ₹2,500ની નાણાકીય સહાય મળશે.",
@@ -385,15 +403,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/delhi-government-women-scheme-delhi-lakshmi-yojana-know-how-to-apply-486532 ",
     "time": "2026-08-02T14:42:09.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "LPGના ભાવમાં ₹385નો ઘટાડો... 16 ઓગસ્ટ પહેલાં કરો આ કામ, નહીં તો મોંઘો પડશે સિલિન્ડર",
-    "desc": "છેલ્લા બે મહિનામાં 19 કિલોના સિલિન્ડરની કિંમતમાં આશરે ₹385નો ઘટાડો થયો છે. હવે, 16 ઓગસ્ટ ઘરેલું LPG ગ્રાહકો માટે એક મહત્વપૂર્ણ તારીખ બની ગઈ છે, જો તમે આ તારીખ સુધીમાં તમારું e-KYC પૂર્ણ નહીં કરો, તો ઘરેલું સિલિન્ડર તમારા માટે મોંઘા થઈ શકે છે અને તમને ડિલિવરીમાં મુશ્કેલીઓનો સામનો કરવો પડી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/lpg-cylinder-price-16-august-deadline-know-how-to-complete-e-kyc-486530 ",
-    "time": "2026-08-02T13:55:54.000Z"
   },
   {
     "cat": "Sports",

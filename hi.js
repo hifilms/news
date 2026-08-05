@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Australia pacer suffers calf injury, can return during South Africa series",
+    "desc": "Australia pacer Michael Neser has sustained a right calf strain during a training session. The blow delayed his preparations for the upcoming South Africa series in October. However, he is expected to recover in time...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/australia-pacer-suffers-calf-injury-can-return-during-south-africa-series-2026-08-05-1050410",
+    "time": "2026-08-05T07:31:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan boxer goes missing after Commonwealth Games 2026; what happened in Glasgow?",
+    "desc": "Pakistan boxer Qudratullah has reportedly gone missing in Glasgow ahead of his team's scheduled departure from the Commonwealth Games. It prompted fresh concern over a recurring issue that has affected the country's boxing contingent at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/pakistan-boxer-goes-missing-after-commonwealth-games-2026-what-happened-in-glasgow-2026-08-05-1050398",
+    "time": "2026-08-05T06:02:05.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Carlos Alcaraz pulls out of Cincinnati Open; will defending champion gain full fitness before US Open?",
     "desc": "After missing the French Open and Wimbledon, Carlos Alcaraz was expected to return to tennis at the Cincinnati Open. It was believed to be a perfect opportunity for the Spaniard to get back into the...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/i-want-to-change-the-colour-of-my-medal-lovlina-borgohain-eyes-asian-games-glory-after-2023-asiad-silver-2026-08-04-1050355",
     "time": "2026-08-04T15:54:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Babar Azam's near four-year wait for Test century continues as Pakistan skipper misses ton in bizarre fashion",
-    "desc": "Babar Azam agonisingly missed out on a Test hundred again as he was dismissed in a bizarre fashion during the second Test against West Indies in Port of Spain. Babar, who was reinstated as Test...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/babar-azams-near-four-year-wait-for-test-century-continues-as-pakistan-skipper-misses-ton-in-bizarre-fashion-2026-08-04-1050352",
-    "time": "2026-08-04T15:16:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Star batter missing as Team India reaches Sri Lanka for Test series in bid to revive WTC campaign",
-    "desc": "The Shubman Gill-led Indian team on Tuesday landed in Sri Lanka ahead of a crucial two-match Test series, beginning August 15. Sri Lanka Cricket shared pictures of the Indian side reaching the island nation for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/indian-team-reaches-sri-lanka-for-test-series-in-hopes-of-reviving-wtc-campaign-2026-08-04-1050347",
-    "time": "2026-08-04T13:43:27.000Z"
   }
 ];
