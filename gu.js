@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "માત્ર AC નહીં, ઘરમાં રહેલા આ 5 ગેજેટ્સ પણ ચુપચાપ વધારી રહ્યા છે વીજ બિલ, એકનો તો દરરોજ થાય છે ઉપયોગ",
+    "desc": "મોટાભાગના લોકો એવું વિચારે છે કે ઘરમાં ફક્ત AC જ વીજ બિલ વધારે છે. જો કે, ગીઝર, હેર ડ્રાયર અને ઇન્ડક્શન કુકટોપ જેવા નાના ગેજેટ્સમાં પણ AC કરતા વધુ વોટેજ રેટિંગ હોય છે. આ દરેક ગેજેટ્સ કેટલી વીજળી વાપરે છે તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/electricity-bill-hidden-power-consumption-5-household-appliances-486826 ",
+    "time": "2026-08-05T10:52:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "મારી સામે જ પ્રોડ્યૂસરે કહ્યું- હું એમની સાથે સૂઈશ પણ કામ નહીં આપું...&amp;quot; બોલિવૂડની કડવી સચ્ચાઈ પર આંચલ ખુરાનાનો ખુલાસો",
+    "desc": "ગંદુ કામ કરીને રોલ નથી જોઈતો! કાસ્ટિંગ કાઉચ અને પ્રોડ્યૂસરની વિકૃત માનસિકતા પર આંચલ ખુરાનાએ મોટો ધડાકો કર્યો છે. મારી સામે જ પ્રોડ્યૂસરે કહ્યું- હું એમની સાથે સૂઈશ પણ કામ નહીં આપું...\" બોલિવૂડની કડવી સચ્ચાઈ પર અભિનેત્રીનો આ બેબાક અંદાજ હાલમાં ચર્ચા છે. તેને ખુલ્લેઆમ કહ્યું છે કે તે ક્યારેય હાઉસ પાર્ટીઓમાં જતી નથી અને એકવાર બોલ્ડ સીન માટે ઓફર ઠુકરાવી દીધી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/aanchal-khurana-speaks-out-on-casting-couch-bold-scenes-and-industry-mindsets-486821 ",
+    "time": "2026-08-05T09:32:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "સાઈ સુદર્શન બહાર થશે તો કોને મળશે તક ? આ વિસ્ફોટક બેટ્સમેનને મળી શકે છે પ્લેઈંગ-11માં સ્થાન",
+    "desc": "શુભમન ગિલના નેતૃત્વમાં ભારતીય ટીમ મંગળવારે શ્રીલંકા સામે બે ટેસ્ટ મેચ માટે કોલંબો પહોંચી હતી, પરંતુ સાઈ સુદર્શન ટીમ સાથે શ્રીલંકા ગયો નથી. તેથી તેના રમવા અંગે સસ્પેન્સ યથાવત છે, ત્યારે જો સાઈ સુદર્શન ટીમમાંથી બહાર થાય છે, તો કોને તક મળી શકે છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/if-sai-sudarshan-is-ruled-out-of-test-series-against-sri-lanka-who-will-get-a-chance-486820 ",
+    "time": "2026-08-05T09:31:18.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "પ્લાસ્ટિકની નોટથી ક્યારથી શોપિંગ કરી શકશો તમે? RBI ગવર્નરે આપી સાચી જાણકારી",
+    "desc": "પ્લાસ્ટિકની નોટ હાલની કાગળ વાળી બેંક નોટ કરતાં ઘણી રીતે અલગ હશે. આ નોટ વધુ ટકાવ, સુરક્ષિત અને પર્યાવરણને અનુકૂળ હશે. કેન્દ્ર સરકારે બે અબજ પોલિમર બેંક નોટ છાપવાની મંજૂરી પહેલાથી જ આપી દીધી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/plastic-notes-when-will-you-be-able-to-shop-using-plastic-notes-rbi-governor-reveals-the-details-486819 ",
+    "time": "2026-08-05T09:22:01.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "શું ₹2,000 થી વધુના UPI વ્યવહારો પર ચાર્જ લાગશે? જાણી લો A થી Z સુધીના નિયમો",
+    "desc": "કેન્દ્ર સરકારે સંસદમાં એક નવું બિલ રજૂ કર્યું છે જેમાં MDR ચાર્જ ફરીથી લાગુ કરવાનો પ્રસ્તાવ છે. આ બિલ પાસ થયું તો ₹2,000થી વધુની UPI ચૂકવણીઓ પર હવે ચાર્જ આપલો પડશે. પરંતુ આ સામાન્ય ગ્રાહકો પાસેથી વસૂલવામાં આવશે નહીં. ચાલો જાણીએ કે આ નિયમો કોને લાગુ પડશે..",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/a-charge-will-apply-to-payments-exceeding-%E2%82%B92000know-the-rules-from-a-to-z-486816 ",
+    "time": "2026-08-05T08:43:06.000Z"
+  },
+  {
     "cat": "Business",
     "title": "EMI લેટ થવા પર શું તરત ખરાબ થઈ જાય છે CIBIL સ્કોર? જાણો કેટલા દિવસ પછી વધે છે મુશ્કેલી",
     "desc": "જો તમારી લોનની EMI એક, બે કે ત્રણ દિવસ મોડી થાય છે, તો શું તમારા CIBIL સ્કોરને તાત્કાલિક અસર થાય છે. શું બેંક તમને ડિફોલ્ટર ગણવા લાગે છે અને તમારે કઈ મુશ્કેલીનો સામનો કરવો પડી શકે છે.",
@@ -360,15 +405,6 @@ const newsData_gu = [
     "time": "2026-08-03T06:58:36.000Z"
   },
   {
-    "cat": "Business",
-    "title": "LPG છોડીને આ ગેસ તરફ વળી રહ્યા છે લોકો! જુલાઈના આંકડાએ બધાને કર્યા આશ્ચર્યચકિત",
-    "desc": "જુલાઈ દરમિયાન ભારતમાં ઇંધણની માંગના વલણો બદલાતા દેખાયા છે. પેટ્રોલ અને ડીઝલના વેચાણમાં મજબૂત વૃદ્ધિ જોવા મળી હતી, જ્યારે LPGની માંગમાં નોંધપાત્ર ઘટાડો થયો છે. ઔદ્યોગિક અને હોટેલ-રેસ્ટોરન્ટ ક્ષેત્રના ઘણા ગ્રાહકો હવે PNG તરફ વળી રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/people-are-switching-from-lpg-to-png-gas-july-figures-surprised-everyone-486549 ",
-    "time": "2026-08-03T03:56:18.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "અલાયંસ શોમાં આવી સલમાન ખાને શા માટે કહ્યું, રિતેશ દેશમુખની નોકરી ખતરામાં છે ?",
     "desc": "સલમાન ખાન સોહેલ ખાનને સપોર્ટ કરવા માટે અલાંયસ શોમાં પહોંચ્યો હતો. આ સ્પેશિયલ એપિસોડમાં તેણે હસતા મોઢે એવું કહ્યું હતું કે રિતેશ દેશમુખની નોકરી ખતરામાં છે. આ એપિસોડ ઓનએર થયા પછી લોકો જાણવા માંગે છે કે સલમાને આવું શા માટે કહ્યું. તો ચાલો તમને જણાવીએ શું છે સાચું કારણ.",
@@ -376,15 +412,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/know-why-salman-khan-said-riteish-deshmukh-job-at-risk-lock-up-2-vs-alliance-486544 ",
     "time": "2026-08-03T03:09:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "SEBIના આદેશ વચ્ચે Zનો વિશ્વાસ, ₹3,143.5 કરોડનું ફંડ રેઇઝિંગ રહેશે યથાવત, શેરહોલ્ડર્સે આપી લીલી ઝંડી",
-    "desc": "SEBIના આદેશ બાદ ઝી એન્ટરટેઈનમેન્ટે પોતાનું પહેલું સત્તાવાર નિવેદન જાહેર કર્યું છે. કંપનીએ જણાવ્યું છે કે, આ આદેશની ₹3,143 કરોડની ભંડોળ એકત્ર કરવાની પ્રક્રિયા પર કોઈ સીધી અસર થશે નહીં અને તમામ જરૂરી કાનૂની પગલાં લેવામાં આવશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/zee-confident-amid-sebi-order-fund-raising-of-3143-5-crore-will-remain-unchanged-shareholders-gave-green-signal-486535 ",
-    "time": "2026-08-02T16:44:20.000Z"
   },
   {
     "cat": "Sports",
@@ -439,15 +466,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/is-something-big-going-to-happen-america-has-declared-high-alert-in-10-countries-asked-citizens-to-evacuate-quickly-486495 ",
     "time": "2026-08-02T09:55:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "શ્રીલંકા પ્રવાસ પહેલા ટીમ ઈન્ડિયા માટે ખરાબ સમાચાર, જસપ્રીત બુમરાહ બહાર, આ બોલરની થશે એન્ટ્રી !",
-    "desc": "શ્રીલંકા પ્રવાસ પહેલા ટીમ ઈન્ડિયાની ચિંતા વધી ગઈ છે. સ્ટાર ફાસ્ટ બોલર જસપ્રીત બુમરાહની ફિટનેસ અંગે ખરાબ સમાચાર આવ્યા છે. ડાબા ઘૂંટણમાં તકલીફને કારણે બુમરાહ બે મેચની ટેસ્ટ શ્રેણીમાંથી બહાર થઈ ગયો છે. BCCIની મેડિકલ ટીમ તેની સાથે કોઈ જોખમ લેવા તૈયાર નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-sl-jasprit-bumrah-ruled-out-sri-lanka-test-series-due-to-injury-486484 ",
-    "time": "2026-08-02T09:14:45.000Z"
   },
   {
     "cat": "Tech",
@@ -630,15 +648,6 @@ const newsData_gu = [
     "time": "2026-07-28T16:05:01.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "CNG ની લાઇનમાં ઊભા રહેવાનું બંધ! આ 5 પેટ્રોલ કાર આપશે 28.65 kmpl સુધીનું ધમાકેદાર માઇલેજ",
-    "desc": "શું તમે પણ નજીકના ભવિષ્યમાં નવી પેટ્રોલ કાર ખરીદવાનો પ્લાન કરી રહ્યાં છો? તો આજે અમે તમને દેશની પાંચ સૌથી વધુ માઇલેજ આપનારી પેટ્રોલ કાર વિશે જણાવીશું. આ કાર શાનદાર ફીચર્સની સાથે માઇલેજમાં પણ દમદાર છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/forget-the-hassle-of-cng-here-are-the-top-5-most-fuel-efficient-petrol-cars-485978 ",
-    "time": "2026-07-28T07:16:58.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "9 વર્ષ નાના ક્રિકેટરને ડેટ કરી રહી છે મૃણાલ ઠાકુર ? વાયરલ વીડિયો બાદ શરૂ થઈ ડેટિંગની ચર્ચા",
     "desc": "અભિનેત્રી મૃણાલ ઠાકુર ફરી એકવાર ચર્ચામાં આવી છે. તેનું નામ ક્રિકેટર યશસ્વી જયસ્વાલ સાથે જોડાઈ રહ્યું છે, જે તેનાથી નવ વર્ષ નાનો છે. સોશિયલ મીડિયા પર બંને સ્ટાર્સ અંગે વિવિધ દાવાઓ કરવામાં આવી રહ્યા છે.",
@@ -646,14 +655,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/is-mrunal-thakur-dating-cricketer-yashasvi-jaiswal-viral-video-sparked-485916 ",
     "time": "2026-07-27T11:06:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "તૃષા કૃષ્ણનની મસ્ટ વોચ ક્રાઈમ થ્રિલર વેબ સીરીઝ, ક્રાઈમ અને અંધશ્રદ્ધાનું પરફેક્ટ કોમ્બિનેશન",
-    "desc": "ક્રાઈમ થ્રિલર ફિલ્મો કરતાં પણ ક્રાઈમ થ્રિલર વેબ સીરીઝ જોવામાં કેટલાક લોકોને વધારે મજા આવતી હોય છે. તો ચાલો આજે તમને બેસ્ટ ક્રાઈમ થ્રિલર વેબ સીરીઝ વિશે જણાવીએ. આ વેબ સીરીઝ તમારો આ શોખ પુરો કરી દેશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/crime-thriller-hindi-web-series-ott-sony-live-trisha-krishnan-brinda-485808 ",
-    "time": "2026-07-26T10:48:39.000Z"
   }
 ];

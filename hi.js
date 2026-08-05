@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "When will GT batter join Indian team for Sri Lanka Test series?",
+    "desc": "Sai Sudharsan's absence from the Indian team that reached Sri Lanka for the two-match Test series raised eyebrows as the batter stayed at the BCCI Centre of Excellence to rehabilitate from the toe injury he...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sai-sudharsan-update-when-will-gt-batter-join-indian-team-for-sri-lanka-test-series-2026-08-05-1050441",
+    "time": "2026-08-05T11:12:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ICC finalises dates for ODI World Cup 2027 qualifier, eyes on former champions as direct qualification on line",
+    "desc": "The International Cricket Council (ICC) has reportedly finalised the dates of the ODI World Cup 2027 qualifier, as teams will battle it out to stake their claim for the 14-team global showpiece which will take...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/icc-finalises-dates-for-odi-world-cup-2027-qualifier-eyes-on-former-champions-as-direct-qualification-on-line-2026-08-05-1050431",
+    "time": "2026-08-05T10:22:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "R Praggnanandhaa tops rapid standings at St Louis, takes key lead ahead of blitz",
+    "desc": "Indian Grandmaster R Praggnanandhaa moved a step closer to qualifying for the Grand Chess Tour Finals after finishing at the top of the rapid standings at the St. Louis Rapid & Blitz tournament. The 20-year-old collected...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/r-praggnanandhaa-tops-rapid-standings-at-st-louis-takes-key-lead-ahead-of-blitz-2026-08-05-1050423",
+    "time": "2026-08-05T09:25:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Super Kings release Faf du Plessis, MI Cape Town leave out Kieron Pollard ahead of upcoming SA20 season",
+    "desc": "Mitchell Marsh, Sam Curran, Joe Root, Phil Salt and Jason Holder are among the biggest overseas names confirmed for the upcoming SA20 season. The six franchises have finalised a significant portion of their squads ahead...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/super-kings-release-faf-du-plessis-mi-cape-town-leave-out-kieron-pollard-ahead-of-upcoming-sa20-season-2026-08-05-1050420",
+    "time": "2026-08-05T09:03:21.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Australia pacer suffers calf injury, can return during South Africa series",
     "desc": "Australia pacer Michael Neser has sustained a right calf strain during a training session. The blow delayed his preparations for the upcoming South Africa series in October. However, he is expected to recover in time...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/abdullah-shafique-ended-pakistan-s-49-year-wait-west-indies-on-backfoot-in-second-test-2026-08-05-1050371",
     "time": "2026-08-05T01:45:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Himmat Singh's freak final-ball run-out forces Super Over in Delhi Premier League: WATCH",
-    "desc": "Outer Delhi Warriors defeated New Delhi Tigers in a Super Over in the Delhi Premier League. The game moved to the one-over contest after an extraordinary final-ball run-out by captain Himmat Singh tied the scores...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/himmat-singh-s-freak-final-ball-run-out-forces-super-over-in-delhi-premier-league-watch-2026-08-05-1050367",
-    "time": "2026-08-05T01:21:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sai Sudharsan to miss first Test against Sri Lanka? Report hints another setback for India",
-    "desc": "India have been dealing with multiple injury concerns as they gear up to face Sri Lanka in a two-match Test series from August 15 onwards. The Shubman Gill-led side will be missing out on their...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sai-sudharsan-to-miss-first-test-against-sri-lanka-report-hints-another-setback-for-india-2026-08-04-1050363",
-    "time": "2026-08-04T18:16:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Zaheer Khan, former India pacer, joins LPL's Jaffna franchise as co-owner",
-    "desc": "Former India cricketer Zaheer Khan has joined the Lanka Premier League's Jaffna franchise as the co-owner. The Jaffna franchise has been acquired by a Stockholm-based international sports ownership group, Anchor Sports AB. Zaheer, the 2011...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/zaheer-khan-former-india-pacer-joins-lpls-jaffna-franchise-as-co-owner-2026-08-04-1050362",
-    "time": "2026-08-04T17:37:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I want to change the colour of my medal': Lovlina Borgohain eyes Asian Games glory after 2023 Asiad silver",
-    "desc": "Lovlina Borgohain won a medal in the only major event that was missing from her illustrious cabinet when she clinched a silver during the Glasgow Commonwealth Games 2026. Lovlina, the 2023 world champion, lost out...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/i-want-to-change-the-colour-of-my-medal-lovlina-borgohain-eyes-asian-games-glory-after-2023-asiad-silver-2026-08-04-1050355",
-    "time": "2026-08-04T15:54:08.000Z"
   }
 ];
