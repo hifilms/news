@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Carlos Alcaraz pulls out of Cincinnati Open; will defending champion gain full fitness before US Open?",
+    "desc": "After missing the French Open and Wimbledon, Carlos Alcaraz was expected to return to tennis at the Cincinnati Open. It was believed to be a perfect opportunity for the Spaniard to get back into the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-pulls-out-of-cincinnati-open-will-defending-champion-gain-full-fitness-before-us-open-2026-08-05-1050395",
+    "time": "2026-08-05T05:26:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan players in trouble, could face ban for featuring in unauthorised league",
+    "desc": "The Pakistan Cricket Board (PCB) has warned of disciplinary action against former cricketers who participated in the Asian Legends League in Zambia without obtaining the required approvals. In a statement issued after the competition began, the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-players-in-trouble-could-face-ban-for-featuring-in-unauthorised-league-2026-08-05-1050387",
+    "time": "2026-08-05T04:13:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ajit Agarkar can be removed as BCCI's chief selector after Rohit Sharma saga: Report",
+    "desc": "The Board of Control for Cricket in India (BCCI) is in talks to replace Ajit Agarkar with VVS Laxman for the chief selector role. According to reports, the board's senior leadership is considering handing the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ajit-agarkar-could-be-removed-as-bcci-s-chief-selector-after-rohit-sharma-saga-report-2026-08-05-1050376",
+    "time": "2026-08-05T02:42:38.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Abdullah Shafique ends Pakistan's 49-year wait; West Indies on backfoot in second Test",
     "desc": "Abdullah Shafique produced a career-defining innings to put Pakistan in command of the second Test against the West Indies. He became the first batter from his country in nearly five decades to score more than...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/indian-team-reaches-sri-lanka-for-test-series-in-hopes-of-reviving-wtc-campaign-2026-08-04-1050347",
     "time": "2026-08-04T13:43:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mansukh Mandaviya felicitates Indian boxers for historic Commonwealth Games outing",
-    "desc": "Mansukh Mandaviya, Union Sports Minister, on Tuesday felicitated the Indian boxers, who made history for India during the recently concluded Commonwealth Games 2026 in Glasgow. Mandaviya met the boxers at his residence in New Delhi...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/mansukh-mandaviya-felicitates-indian-boxers-for-historic-commonwealth-games-outing-watch-2026-08-04-1050342",
-    "time": "2026-08-04T12:54:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Chamari Athapaththu reaches career-best rankings, surpasses Shafali Verma after Sri Lanka's win over Pakistan",
-    "desc": "Sri Lanka captain Chamari Athapaththu achieved her career-best spot in the ICC women's T20I rankings for batters after helping her team beat Pakistan in the three-match T20I series on Tuesday, August 4. Athapaththu scored 39...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/chamari-athapaththu-reaches-career-best-rankings-surpasses-shafali-verma-after-sri-lankas-win-over-pakistan-2026-08-04-1050333",
-    "time": "2026-08-04T11:44:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Neeraj Chopra's next javelin event revealed as ex-Olympic champion to face tough field ahead of Asian Games",
-    "desc": "Neeraj Chopra is set to return to action in the Lausanne Diamond League as he faces a tough test in a challenging field. Chopra will be among 10 top athletes in the field for the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/neeraj-chopras-next-javelin-event-revealed-as-ex-olympic-champion-to-face-tough-field-ahead-of-asian-games-2026-08-04-1050321",
-    "time": "2026-08-04T10:20:58.000Z"
   }
 ];
