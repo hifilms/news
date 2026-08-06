@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "મોંઘો થશે LPG સિલિન્ડર! રસોઈ ગેસ પર ટેક્સ વસૂલવાની તૈયારીમાં સરકાર, ₹18 સુધી વધી શકે છે ભાવ",
+    "desc": "રસોઈ ગેસના ભાવમાં ફરી વધારો થઈ શકે છે, પરંતુ આ વખતે યુદ્ધને કારણે નહીં, પરંતુ સરકાર સિલિન્ડર પર ટેક્સ વસૂલવાની તૈયારી કરી રહી છે. સરકાર ગેસનો બફર સ્ટોક વધારવાની તૈયારીમાં છે, પરંતુ તેનો ખર્ચ ગ્રાહકો પાસેથી વસૂલ કરવામાં આવી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/lpg-price-hike-alert-govt-prepares-to-pass-cost-of-building-buffer-stock-to-consumers-486869 ",
+    "time": "2026-08-06T03:37:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "લોક અપ 2 ની વિનર બની શ્રેયા કાલરા, સોશિયલ મીડિયા ઈન્ફ્લુએન્સરની નેટવર્થ છે કરોડોની",
+    "desc": "નેટફ્લિક્સ પર આવતા રિયાલીટી શો લોક અપ 2 માં વિનર બની છે શ્રેયા કાલરા. સોશિયલ મીડિયા ઈન્ફ્લુએન્સર શ્રેયા કાલરાને રોડીઝ શો થી ઓળખ મળી હતી. ફેમસ થયા પછી શ્રેયા કાલરાની નેટવર્થ કરોડોમાં પહોંચી ચુકી છે. તમે પણ જાણો સોશિયલ મીડિયા ઈન્ફ્લુએન્સર શ્રેયા કાલરાની લાઈફ જર્ની વિશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/shreya-kalra-won-netflix-lock-upp-season-2-shreya-kalra-networth-and-life-journey-social-media-influencer-486858 ",
+    "time": "2026-08-06T02:16:26.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "શું 2 વારની ચેમ્પિયન ટીમ 2027ના વનડે વર્લ્ડ કપમાંથી બહાર થશે? જાણો આઈસીસી ક્વોલિફિકેશનનું ગણિત!",
     "desc": "વેસ્ટ ઈન્ડિઝ માટે 2027ના વિશ્વકપમાં સીધો પ્રવેશ મેળવવાનું કામ મુશ્કેલ બની ગયું છે. જાણો આઈસીસી રેન્કિંગનું શું છે ગણિત અને કઈ રીતે ભારત વિરુદ્ધ વેસ્ટ ઈન્ડિઝ અને અફઘાનિસ્તાન વિરુદ્ધ આયર્લેન્ડ સિરીઝ બે ટીમોના ભાગ્યનો નિર્ણય કરશે.",
@@ -646,14 +664,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/book-a-new-electric-bike-with-260km-range-for-just-rs-799-this-gujarat-based-company-has-launched-3-powerful-models-486039 ",
     "time": "2026-07-28T16:05:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "9 વર્ષ નાના ક્રિકેટરને ડેટ કરી રહી છે મૃણાલ ઠાકુર ? વાયરલ વીડિયો બાદ શરૂ થઈ ડેટિંગની ચર્ચા",
-    "desc": "અભિનેત્રી મૃણાલ ઠાકુર ફરી એકવાર ચર્ચામાં આવી છે. તેનું નામ ક્રિકેટર યશસ્વી જયસ્વાલ સાથે જોડાઈ રહ્યું છે, જે તેનાથી નવ વર્ષ નાનો છે. સોશિયલ મીડિયા પર બંને સ્ટાર્સ અંગે વિવિધ દાવાઓ કરવામાં આવી રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/is-mrunal-thakur-dating-cricketer-yashasvi-jaiswal-viral-video-sparked-485916 ",
-    "time": "2026-07-27T11:06:11.000Z"
   }
 ];

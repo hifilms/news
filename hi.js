@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Xabi Alonso provides crucial health update on Cole Palmer after Juventus friendly; Check details",
+    "desc": "The 2026-27 Premier League season is right around the corner, and several sides will be looking to deliver their best performances in hopes of winning the title. Ahead of the new season, many eyes will...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/xabi-alonso-provides-crucial-health-update-on-cole-palmer-after-juventus-friendly-check-details-2026-08-06-1050510",
+    "time": "2026-08-06T04:31:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Test cricket needs them': Ajinkya Rahane weighs in on senior players' inclusion in Test cricket",
+    "desc": "The stage is set for the Indian team to take on Sri Lanka in a two-game Test series. The two sides are slated to take on each other across two Test matches, starting with the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ajinkya-rahane-weighs-in-on-senior-players-inclusion-in-test-cricket-2026-08-06-1050498",
+    "time": "2026-08-06T02:53:47.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Jaydev Unadkat set to continue County Championship stint, slated to join Sussex's camp",
     "desc": "Veteran India pacer Jaydev Unadkat is all set to make his return to England in the latter stages of the week to continue his stint in the County Championship. Unadkat will be joining Sussex’s camp...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/sai-sudharsan-update-when-will-gt-batter-join-indian-team-for-sri-lanka-test-series-2026-08-05-1050441",
     "time": "2026-08-05T11:12:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC finalises dates for ODI World Cup 2027 qualifier, eyes on former champions as direct qualification on line",
-    "desc": "The International Cricket Council (ICC) has reportedly finalised the dates of the ODI World Cup 2027 qualifier, as teams will battle it out to stake their claim for the 14-team global showpiece which will take...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/icc-finalises-dates-for-odi-world-cup-2027-qualifier-eyes-on-former-champions-as-direct-qualification-on-line-2026-08-05-1050431",
-    "time": "2026-08-05T10:22:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "R Praggnanandhaa tops rapid standings at St Louis, takes key lead ahead of blitz",
-    "desc": "Indian Grandmaster R Praggnanandhaa moved a step closer to qualifying for the Grand Chess Tour Finals after finishing at the top of the rapid standings at the St. Louis Rapid & Blitz tournament. The 20-year-old collected...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/r-praggnanandhaa-tops-rapid-standings-at-st-louis-takes-key-lead-ahead-of-blitz-2026-08-05-1050423",
-    "time": "2026-08-05T09:25:44.000Z"
   }
 ];
