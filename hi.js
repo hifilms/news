@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India vs Pakistan on September 5, check full schedule as women's Asia Cup schedule announced",
+    "desc": "The forthcoming women’s Asia Cup is set to begin on August 28 with Thailand taking on Hong Kong, China. India will open their campaign against Thailand on August 30. Meanwhile, the marquee clash between India...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-pakistan-on-september-5-check-full-schedule-as-women-s-asia-cup-schedule-announced-2026-08-06-1050584",
+    "time": "2026-08-06T13:32:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Barcelona enter race to sign Rodri; Yan Diomande to Real Madrid is imminent, Vini Jr likely to stay",
+    "desc": "After Real Madrid, Barcelona have now entered the race to sign Manchester City and Spanish midfielder Rodri. The FIFA World Cup Golden Ball winner has entered the final year of his contract and hence, the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/barcelona-enter-race-to-sign-rodri-yan-diomande-to-real-madrid-is-imminent-vini-jr-likely-to-stay-2026-08-06-1050576",
+    "time": "2026-08-06T12:07:34.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Shubman Gill suffers injury scare while training ahead of Test series vs Sri Lanka, what exactly happened?",
     "desc": "India captain Shubman Gill suffered a blow to his right thumb while batting in the nets ahead of the two-match Test series against Sri Lanka, slated to begin on August 15. The 26-year-old was struck...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/xabi-alonso-provides-crucial-health-update-on-cole-palmer-after-juventus-friendly-check-details-2026-08-06-1050510",
     "time": "2026-08-06T04:31:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Test cricket needs them': Ajinkya Rahane weighs in on senior players' inclusion in Test cricket",
-    "desc": "The stage is set for the Indian team to take on Sri Lanka in a two-game Test series. The two sides are slated to take on each other across two Test matches, starting with the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ajinkya-rahane-weighs-in-on-senior-players-inclusion-in-test-cricket-2026-08-06-1050498",
-    "time": "2026-08-06T02:53:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jaydev Unadkat set to continue County Championship stint, slated to join Sussex's camp",
-    "desc": "Veteran India pacer Jaydev Unadkat is all set to make his return to England in the latter stages of the week to continue his stint in the County Championship. Unadkat will be joining Sussex’s camp...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jaydev-unadkat-set-to-continue-county-championship-stint-slated-to-join-sussex-s-camp-2026-08-06-1050493",
-    "time": "2026-08-06T01:41:01.000Z"
   }
 ];
