@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Shubman Gill suffers injury scare while training ahead of Test series vs Sri Lanka, what exactly happened?",
+    "desc": "India captain Shubman Gill suffered a blow to his right thumb while batting in the nets ahead of the two-match Test series against Sri Lanka, slated to begin on August 15. The 26-year-old was struck...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-suffers-injury-scare-while-training-ahead-of-test-series-vs-sri-lanka-what-exactly-happened-2026-08-06-1050560",
+    "time": "2026-08-06T10:58:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England announce 16-member squad for Pakistan Tests; Jordan Cox ruled out, Lawrence and Pope return",
+    "desc": "England have recalled Ollie Pope and Dan Lawrence for the opening two Tests of the upcoming three-match series against Pakistan, starting August 19 at Headingley. It is also confirmed that Jacob Bethell will miss the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-announce-16-member-squad-for-pakistan-tests-jordan-cox-ruled-out-lawrence-and-pope-return-2026-08-06-1050554",
+    "time": "2026-08-06T10:05:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'He has lied': Luis Figo asks for Gianni Infantino's resignation amid FIFA World Cup share chaos",
+    "desc": "FIFA president Gianni Infantino has been the talk of the town for quite some time now; with the conclusion of the FIFA World Cup 2026, reports emerged that Infantino had plans to expand the World...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/he-has-lied-luis-figo-asks-for-gianni-infantino-s-resignation-amid-fifa-world-cup-share-chaos-2026-08-06-1050550",
+    "time": "2026-08-06T09:33:04.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Former India cricketer makes massive claim around Yashasvi Jaiswal ahead of ODI World Cup 2027",
     "desc": "The highly anticipated ODI World Cup 2027 is looming on the horizon, the biggest tournament in world cricket. The tournament will see sides from all over the globe battle it out in hopes of getting...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/jaydev-unadkat-set-to-continue-county-championship-stint-slated-to-join-sussex-s-camp-2026-08-06-1050493",
     "time": "2026-08-06T01:41:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jos Buttler predicts India star to create history",
-    "desc": "Former England captain Jos Buttler on Wednesday shattered the world record for most runs scored in T20 cricket. Buttler, the 2022 T20 World Cup-winning skipper, achieved the feat during the Hundred 2026 when he smashed...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-will-probably-break-this-world-record-jos-buttler-predicts-india-star-to-create-history-2026-08-06-1050486",
-    "time": "2026-08-05T18:33:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jos Buttler breaks Kieron Pollard's world record on return to Manchester Super Giants captaincy in the Hundred",
-    "desc": "Jos Buttler etched his name into the history books as he shattered a massive T20 world record on his return to captaincy for the Manchester Super Giants in the Hundred on Wednesday, August 5. Buttler...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jos-buttler-breaks-kieron-pollards-world-record-on-return-to-manchester-super-giants-captaincy-in-the-hundred-2026-08-05-1050485",
-    "time": "2026-08-05T18:17:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BWF World Championships' draws revealed, Ayush Shetty faces stern test, Sindhu, Lakshya's opponents confirmed",
-    "desc": "The draws of the BWF World Championships, set to take place in New Delhi from August 17 to 23, have been revealed. Asian Championships silver medallist Ayush Shetty will be facing a stern test from...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/bwf-world-championships-draws-revealed-ayush-shetty-faces-stern-test-sindhu-lakshyas-opponents-confirmed-2026-08-05-1050479",
-    "time": "2026-08-05T16:57:03.000Z"
   }
 ];
