@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Former India cricketer makes massive claim around Yashasvi Jaiswal ahead of ODI World Cup 2027",
+    "desc": "The highly anticipated ODI World Cup 2027 is looming on the horizon, the biggest tournament in world cricket. The tournament will see sides from all over the globe battle it out in hopes of getting...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-makes-massive-claim-around-yashasvi-jaiswal-ahead-of-odi-world-cup-2027-2026-08-06-1050538",
+    "time": "2026-08-06T08:07:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mitchell Starc opens up on prospect of surpassing Dale Steyn, Kapil Dev in elite list ahead of BAN series",
+    "desc": "The stage is set for a two-game Test series between Australia and Bangladesh. The two sides will meet from August 13th for the first Test in Darwin; furthermore, the second Test of the series will...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mitchell-starc-opens-up-on-prospect-of-surpassing-dale-steyn-kapil-dev-in-elite-list-ahead-of-ban-series-2026-08-06-1050532",
+    "time": "2026-08-06T07:12:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why did Andy Robertson choose to move to Spurs from Liverpool after nine years? Star full-back explains move",
+    "desc": "The latest Premier League season is right around the corner, and the transfer market is in full force. Several huge names have already changed clubs, with veteran Scottish full-back Andy Robertson being one of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/why-did-andy-robertson-choose-to-move-to-spurs-from-liverpool-after-nine-years-star-full-back-explains-move-2026-08-06-1050520",
+    "time": "2026-08-06T06:01:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jos Buttler weighs in on becoming T20 cricket's highest run-getter after MSG's win over Rockets",
+    "desc": "Veteran England batter Jos Buttler etched his name in the history books as he continued his brilliant performance in the ongoing The Hundred 2026. Scoring 51* runs in 20 deliveries, Buttler went on to break...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jos-buttler-weighs-in-on-becoming-t20-cricket-s-highest-run-getter-after-msg-s-win-over-rockets-2026-08-06-1050517",
+    "time": "2026-08-06T05:45:35.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Xabi Alonso provides crucial health update on Cole Palmer after Juventus friendly; Check details",
     "desc": "The 2026-27 Premier League season is right around the corner, and several sides will be looking to deliver their best performances in hopes of winning the title. Ahead of the new season, many eyes will...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/bwf-world-championships-draws-revealed-ayush-shetty-faces-stern-test-sindhu-lakshyas-opponents-confirmed-2026-08-05-1050479",
     "time": "2026-08-05T16:57:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australia unveil plan before Border-Gavaskar series, list out preparation options ahead of five-match contest",
-    "desc": "Australia head coach Andrew McDonald has confirmed that his team will not be playing in practice matches before the high-octane Border-Gavaskar series and instead will have a preparatory camp, similar to the sub-continent conditions. The series...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/australia-unveil-plan-before-border-gavaskar-series-list-out-preparation-options-ahead-of-five-match-contest-2026-08-05-1050472",
-    "time": "2026-08-05T15:18:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gujarat CM receives Commonwealth Games flag; marks the beginning of preparations for 2030 event",
-    "desc": "Gujarat Chief Minister Bhupendra Patel was on Wednesday formally presented with the Commonwealth Games flag, marking the start of preparations for the 2030 event, which will be hosted in Ahmedabad in 2030. Deputy CM Harsh...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/gujarat-cm-receives-commonwealth-games-flag-marks-the-beginning-of-preparations-for-2030-event-2026-08-05-1050461",
-    "time": "2026-08-05T13:43:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Aiden Markram to miss rest of the Hundred due to personal reasons, Manchester Super Giants name captain",
-    "desc": "Aiden Markram has left Manchester Super Giants midway through the Hundred due to personal reasons and will be missing the rest of the season. Markram, who has blown hot and cold this season, was appointed...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/aiden-markram-to-miss-rest-of-the-hundred-due-to-personal-reasons-manchester-super-giants-name-captain-2026-08-05-1050450",
-    "time": "2026-08-05T12:11:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sai Sudharsan injury update; when will GT batter join Indian team for Sri Lanka Test series?",
-    "desc": "Sai Sudharsan's absence from the Indian team that reached Sri Lanka for the two-match Test series raised eyebrows as the batter stayed at the BCCI Centre of Excellence to rehabilitate from the toe injury he...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sai-sudharsan-update-when-will-gt-batter-join-indian-team-for-sri-lanka-test-series-2026-08-05-1050441",
-    "time": "2026-08-05T11:12:08.000Z"
   }
 ];

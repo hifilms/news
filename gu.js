@@ -1,6 +1,51 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "અનાથાશ્રમમાં બાળપણ, 5 રૂપિયાના દૈનિક વેતન પર ટકેલું જીવન... કોણ છે જ્યોતિ રેડ્ડી, જેમણે અમેરિકામાં ઊભી કરી દીધી 1500000000 ની કંપની",
+    "desc": "સાંભળવામાં અને વિચારવામાં થોડું અસંભવ લાગશે પરંતુ આ હકીકત છે. 5 રૂપિયાનું દૈનિક વેતન મેળવતી મજૂર ક્યારેક 150 કરોડની કંપનીની માલિક પણ બની શકે છે, પરંતુ જ્યોતિ રેડ્ડીએ આ સાબિત કરી બતાવ્યું છે અને અમેરિકામાં પોતાની કરોડોની કંપની ઊભી કરી દીધી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/meet-woman-who-was-sent-to-orphanage-at-just-10-struggled-as-labourer-earning-rs-5-per-day-now-she-ceo-of-this-billion-486892 ",
+    "time": "2026-08-06T07:46:24.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "EPF માં મોટો ફેરફાર! સેલેરી લિમિટ ₹25,000 થવાની શક્યતા, કરોડો કર્મચારીઓને PF અને પેન્શનમાં થશે મોટો ફાયદો",
+    "desc": "કેન્દ્ર સરકાર EPF વેજ સીલિંગ 15000 રૂપિયાથી વધારી 25000 રૂપિયા કરવા પર વિચાર કરી રહી છે. તેનાથી 25000 રૂપિયા સુધી બેઝિક પગાર મેળવનાર કર્મચારીઓને ફરજીયાત પીએફ તથા પેન્શનનો ફાયદો મળશે અને નિવૃત્તિ બચતમાં વધારો થશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/epf-wage-ceiling-hike-alert-govt-considers-raising-basic-salary-limit-to-25000-here-is-the-full-calculation-486890 ",
+    "time": "2026-08-06T07:16:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "દિમાગ હલાવી દેશે આ 3 થ્રિલર ફિલ્મો, છેલ્લે સુધી સસ્પેન્સ અકબંધ રહે, એક પણ ફિલ્મ અધુરી નહીં છોડી શકો",
+    "desc": "ઓટીટી પર જોવા માટે તમે કોઈ સારી થ્રિલર ફિલ્મ શોધી રહ્યા છો તો ચાલો આજે તમને 3 ફિલ્મો વિશે જણાવીએ. આ 3 થ્રિલર ફિલ્મો તમારું દિમાગ હલાવી દેશે. એકવાર ફિલ્મ શરુ થશે પછી તેને પુરી કર્યા વિના ઊભા નહીં થઈ શકો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/best-thriller-movies-on-ott-jio-hotstar-thriller-movies-zee5-best-hindi-suspense-movies-486888 ",
+    "time": "2026-08-06T06:50:29.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "પ્રશાંત મહાસાગરમાંથી નીકળ્યો &amp;#039;મહાદાનવ&amp;#039;, હવે ગુજરાત સહિત દેશના ચોમાસા પર લાગશે બ્રેક? જાણો IMDનું એલર્ટ",
+    "desc": "પ્રશાંત મહાસાગરમાં 'ડૉલ્ફિન' વાવાઝોડું તબાહી મચાવી રહ્યું છે. આ દરમિયાન હવામાન વૈજ્ઞાનિકોએ લોકોને ચેતવણી આપી છે. રાહતની વાત એ છે કે આ વાવાઝોડાની સીધી અસર ભારત પર નહીં થાય, પરંતુ ચોમાસાની પ્રવૃત્તિઓ પર થોડી અસર જોવા મળી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/massive-system-emerges-from-the-pacific-ocean-will-it-halt-monsoon-rains-in-india-here-is-the-imds-alert-486887 ",
+    "time": "2026-08-06T06:47:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "રામાયણ ફિલ્મની રિલીઝ ડેટ કંફર્મ, ધનતેરસના દિવસે થિયેટરમાં થશે રિલીઝ",
+    "desc": "રામાયણ ફિલ્મ આ વર્ષે દિવાળી પર રિલીઝ થવાની છે તે વાત તો જગજાહેર છે પણ હવે ફિલ્મ કઈ તારીખે રિલીઝ થવાની છે તે પણ જાહેર કરી દેવામાં આવ્યું છે. રામાયણ ફિલ્મ આ વર્ષે ધનતેરસના દિવસે સિનેમાઘરોમાં રિલીઝ થવાની છે. આ વર્ષે ધનતેરસ 6 નવેમ્બર 2026 અને શુક્રવારે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/ramayana-movie-releasing-on-dhanteras-2026-date-6-november-2026-friday-486883 ",
+    "time": "2026-08-06T06:17:37.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "મોંઘો થશે LPG સિલિન્ડર! રસોઈ ગેસ પર ટેક્સ વસૂલવાની તૈયારીમાં સરકાર, ₹18 સુધી વધી શકે છે ભાવ",
     "desc": "રસોઈ ગેસના ભાવમાં ફરી વધારો થઈ શકે છે, પરંતુ આ વખતે યુદ્ધને કારણે નહીં, પરંતુ સરકાર સિલિન્ડર પર ટેક્સ વસૂલવાની તૈયારી કરી રહી છે. સરકાર ગેસનો બફર સ્ટોક વધારવાની તૈયારીમાં છે, પરંતુ તેનો ખર્ચ ગ્રાહકો પાસેથી વસૂલ કરવામાં આવી શકે છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -360,24 +405,6 @@ const newsData_gu = [
     "time": "2026-08-03T16:09:53.000Z"
   },
   {
-    "cat": "Business",
-    "title": "કેન્દ્રીય કર્મચારીઓ માટે ખુશખબર! DA વધીને 63% થવાની પૂરી સંભાવના, જલદી મળશે એરિયર્સ! જાણો કેટલો વધશે પગાર",
-    "desc": "જૂન 2026ના AICPI-IW આંકડાઓના આધારે કેન્દ્રીય કર્મચારીઓનું મોંઘવારી ભથ્થું (DA) 60%થી વધીને 63% થવાની શક્યતા છે. જો સરકાર આ પ્રસ્તાવને મંજૂરી આપે છે, તો લેવલ-1 થી લેવલ-10 સુધીના કર્મચારીઓના માસિક પગારમાં વધારો થશે અને 6 મહિનાનું એરિયર્સ પણ મળશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/good-news-for-central-employees-da-likely-to-increase-to-63-percent-arrears-will-be-available-soon-know-how-much-salary-will-increase-486640 ",
-    "time": "2026-08-03T15:17:48.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ભારતમાં સોના-ચાંદીના ભાવ ઘટ્યા... ચાંદીમાં ₹1.71 લાખનો ઘટાડો, તો સોનું ₹1.30 લાખે આવી ગયું !",
-    "desc": "3 ઓગસ્ટના રોજ વૈશ્વિક બજારમાં સોનાના ભાવ વધ્યા, પરંતુ ભારતમાં સોનું સસ્તું થયું. સોનાની સાથે ચાંદીના ભાવમાં પણ ઘટાડો થયો. ઇન્ડિયા બુલિયન એન્ડ જ્વેલર્સ એસોસિએશને સોનાના ભાવ જાહેર કર્યા છે. ત્યારે 10 ગ્રામ સોનાનો લેટેસ્ટ ભાવ શું છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-silver-rate-fall-in-india-know-latest-price-of-24-carat-22-carat-gold-486623 ",
-    "time": "2026-08-03T13:07:23.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "ભાજપના ગઢ બાંકીપુરમાં કેવી રીતે પાડ્યું મોટું ગાબડું? પ્રશાંત કિશોરના 5 માસ્ટરસ્ટ્રોકે રચ્યો ઈતિહાસ, જેણે પલટી નાખી આખી રાજકીય રમત",
     "desc": "બિહારની રાજધાની બાંકીપુરમાં વિધાનસભા બેઠક પર 3 ઉમેદવાર મેદાનમાં છે. જન સુરાજ પાર્ટીના સંસ્થાપક પ્રશાંત કિશોર (PK), નીરજ સિન્હા (BJP) અને રેખા ગુપ્તા (RJD)માં મેદાનમાં ઉતર્યા છે. નોંધનીય છે કે, BJPના રાષ્ટ્રીય અધ્યક્ષ નિતિન નવીન રાજયસભા સાંસદ ચૂંટાયા બાદ આ બેઠક ખાલી થઈ હતી. ત્યારબાદ પેટાચૂંટણી યોજાઈ હતી.",
@@ -475,15 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/know-why-salman-khan-said-riteish-deshmukh-job-at-risk-lock-up-2-vs-alliance-486544 ",
     "time": "2026-08-03T03:09:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "દર મહિને મળશે ₹2,500... 12 કલાકમાં 33,000થી વધુ મહિલાઓએ કરાવ્યું રજીસ્ટ્રેશન, જાણો કોને મળશે આ લાભ",
-    "desc": "દિલ્હી લક્ષ્મી યોજના શરૂ થતાં જ તેને જબરદસ્ત પ્રતિસાદ મળી રહ્યો છે. યોજના શરૂ થયાના 12 કલાકમાં જ 33,000થી વધુ મહિલાઓએ રજીસ્ટ્રેશન કરાવ્યું છે. આ યોજના હેઠળ પાત્ર મહિલાઓને દર મહિને ₹2,500ની નાણાકીય સહાય મળશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/delhi-government-women-scheme-delhi-lakshmi-yojana-know-how-to-apply-486532 ",
-    "time": "2026-08-02T14:42:09.000Z"
   },
   {
     "cat": "World",
@@ -619,15 +637,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/nitin-gadkari-clarifies-e20-petrol-impact-on-bs-3-vehicles-in-parliament-engine-safe-minor-parts-may-need-replacement-486188 ",
     "time": "2026-07-30T08:23:05.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "મિડલ ઈસ્ટ ફરી ધધક્યું! સાઉદીની એન્ટ્રીથી હડકંપ, અમેરિકા સાથે મળીને ઈરાકના 7 પ્રાંતોમાં કર્યા હવાઈ હુમલા",
-    "desc": "મિડલ ઈસ્ટમાં ચાલી રહેલા સંઘર્ષમાં હવે અન્ય દેશો પણ ઝંપ લાવતા હોય તેવું લાગે છે. અમેરિકા અને સાઉદી અરબે ઈરાકમાં ઈરાન સમર્થિત જૂથોના ઠેકાણાઓ પર જોઈન્ટ એર સ્ટ્રાઈક કરી. હુમલાઓમાં PMFના ઓછામાં ઓછા 20 સભ્યો માર્યા ગયા અને 32 લોકો ઘાયલ થયાના સમાચાર છે. PMF એ જવાબી કાર્યવાહીની ધમકી પણ આપી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/middle-east-crisis-latest-update-us-saudi-joint-airstrikes-in-iraq-486161 ",
-    "time": "2026-07-30T04:19:09.000Z"
   },
   {
     "cat": "Entertainment",
