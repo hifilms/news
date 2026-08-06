@@ -1,8 +1,53 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Mehidy Hasan Miraz smacks unbeaten century vs CA XI ahead of Bangladesh's marquee series vs Australia",
+    "desc": "Bangladesh all-rounder Mehidy Hasan Miraz played a scintillating knock against Cricket Australia XI in Darwin ahead of the Test series. He smacked an unbeaten century to guide his side out of trouble on the opening...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mehidy-hasan-miraz-smacks-unbeaten-century-vs-ca-xi-ahead-of-bangladesh-s-marquee-series-vs-australia-2026-08-06-1050610",
+    "time": "2026-08-06T18:11:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Viswanathan Anand confirms to run for FIDE deputy president role after backing out initially",
+    "desc": "Five-time world champion Viswanathan Anand has confirmed that he will contest for the post of FIDE deputy president in the governing body's upcoming elections. Earlier, he had said he would stay away from the race...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/viswanathan-anand-confirms-to-run-for-fide-deputy-president-role-after-backing-out-initially-2026-08-06-1050608",
+    "time": "2026-08-06T17:47:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India likely to field two separate teams for FIFA Asean Cup and friendly vs Brazil",
+    "desc": "The All India Football Federation (AIFF) has decided to send separate Indian squads for the inaugural FIFA ASEAN Cup and the international friendly against Brazil after both events were scheduled during overlapping dates. The decision was...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/india-likely-to-field-two-separate-teams-for-fifa-asean-cup-and-friendly-vs-brazil-2026-08-06-1050602",
+    "time": "2026-08-06T16:19:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England pacer announces retirement at just 25 years, issues statement to confirm decision",
+    "desc": "England pacer John Turner has announced his retirement from professional cricket after a prolonged battle with a back injury. He represented the Three Lions in four white-ball internationals, claiming three wickets, during 2024, but hasn’t...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-pacer-announces-retirement-at-just-25-years-issues-statement-to-confirm-decision-2026-08-06-1050599",
+    "time": "2026-08-06T15:29:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Real Madrid sign Yan Diomande, the most expensive player in their club history",
+    "desc": "Real Madrid have completed the signing of teenage sensation Yan Diomande from RB Leipzig. The 19-year-old Ivory Coast forward joins the club after a standout season in the Bundesliga, where he scored 12 goals and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/real-madrid-sign-yan-diomande-the-most-expensive-player-in-their-club-history-2026-08-06-1050593",
+    "time": "2026-08-06T14:32:44.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India vs Pakistan on September 5, check full schedule as women's Asia Cup schedule announced",
-    "desc": "The forthcoming women’s Asia Cup is set to begin on August 28 with Thailand taking on Hong Kong, China. India will open their campaign against Thailand on August 30. Meanwhile, the marquee clash between India...",
+    "desc": "The Asian Cricket Council has announced the schedule for the upcoming Women’s T20 Asia Cup, with the tournament set to begin in Dubai on August 28. Eight teams will compete in the sixth edition of...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-vs-pakistan-on-september-5-check-full-schedule-as-women-s-asia-cup-schedule-announced-2026-08-06-1050584",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/he-has-lied-luis-figo-asks-for-gianni-infantino-s-resignation-amid-fifa-world-cup-share-chaos-2026-08-06-1050550",
     "time": "2026-08-06T09:33:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer makes massive claim around Yashasvi Jaiswal ahead of ODI World Cup 2027",
-    "desc": "The highly anticipated ODI World Cup 2027 is looming on the horizon, the biggest tournament in world cricket. The tournament will see sides from all over the globe battle it out in hopes of getting...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-makes-massive-claim-around-yashasvi-jaiswal-ahead-of-odi-world-cup-2027-2026-08-06-1050538",
-    "time": "2026-08-06T08:07:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mitchell Starc opens up on prospect of surpassing Dale Steyn, Kapil Dev in elite list ahead of BAN series",
-    "desc": "The stage is set for a two-game Test series between Australia and Bangladesh. The two sides will meet from August 13th for the first Test in Darwin; furthermore, the second Test of the series will...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mitchell-starc-opens-up-on-prospect-of-surpassing-dale-steyn-kapil-dev-in-elite-list-ahead-of-ban-series-2026-08-06-1050532",
-    "time": "2026-08-06T07:12:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why did Andy Robertson choose to move to Spurs from Liverpool after nine years? Star full-back explains move",
-    "desc": "The latest Premier League season is right around the corner, and the transfer market is in full force. Several huge names have already changed clubs, with veteran Scottish full-back Andy Robertson being one of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/why-did-andy-robertson-choose-to-move-to-spurs-from-liverpool-after-nine-years-star-full-back-explains-move-2026-08-06-1050520",
-    "time": "2026-08-06T06:01:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jos Buttler weighs in on becoming T20 cricket's highest run-getter after MSG's win over Rockets",
-    "desc": "Veteran England batter Jos Buttler etched his name in the history books as he continued his brilliant performance in the ongoing The Hundred 2026. Scoring 51* runs in 20 deliveries, Buttler went on to break...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jos-buttler-weighs-in-on-becoming-t20-cricket-s-highest-run-getter-after-msg-s-win-over-rockets-2026-08-06-1050517",
-    "time": "2026-08-06T05:45:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Xabi Alonso provides crucial health update on Cole Palmer after Juventus friendly; Check details",
-    "desc": "The 2026-27 Premier League season is right around the corner, and several sides will be looking to deliver their best performances in hopes of winning the title. Ahead of the new season, many eyes will...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/xabi-alonso-provides-crucial-health-update-on-cole-palmer-after-juventus-friendly-check-details-2026-08-06-1050510",
-    "time": "2026-08-06T04:31:33.000Z"
   }
 ];

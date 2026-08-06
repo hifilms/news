@@ -1,6 +1,24 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "'আন্দোলন করলেই জেন জ়ি দেশবিরোধী নয়', বার্তা RSS প্রধান মোহন ভাগবতের",
+    "desc": "\"জেন জি-কে আমি অন্ধভাবে বিশ্বাস করি!\" জেন জি-র আন্দোলন, অধিকার ও প্রশ্নের মুখ বন্ধ না করে তাদের সঙ্গে আলোচনায় বসার বার্তা দিলেন আরএসএস প্রধান মোহন ভাগবত। মুম্বইয়ের এক অনুষ্ঠানে তিনি জানান, প্রতিবাদ করা মানেই দেশবিরোধী হওয়া নয়, বরং তারা আগের চেয়ে অনেক বেশি সৎ প্রজন্ম। শিক্ষা ব্যবস্থা থেকে শুরু করে সমাজমাধ্যম ও আন্তর্জাতিক সম্পর্ক—কী বললেন ভাগবত?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/mohan-bhagwat-backs-gen-z-says-protesting-students-not-anti-national_665795.html ",
+    "time": "2026-08-06T16:27:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'সত্যিটা শ্যামৌপ্তি জানে, কাদা ছোড়াছুড়ি বন্ধ হোক', ৫ মাসেই বিবাহ-বিচ্ছেদের গুঞ্জন! মুখ খুললেন রণজয়",
+    "desc": "বিয়ের মাত্র ৫ মাসের মধ্যেই কি ভাঙছে রণজয়-শ্যামৌপ্তির সংসার? সোশ্যাল মিডিয়ায় কাদা ছোড়াছুড়ি ও তৃতীয় ব্যক্তির প্রবেশের রটনায় চরম ক্ষুব্ধ অভিনেতা। শুটিং সেট থেকেই ভিডিও পোস্ট করে অনুরাগী ও নেটিজেনদের কাছে আকুল আরজি জানালেন রণজয়। ঠিক কী বললেন তিনি?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/ranojoy-bishnu-breaks-silence-on-divorce-rumours-with-shyamoupti-mudly_665788.html ",
+    "time": "2026-08-06T15:00:51.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "যন্তর মন্তরের প্রতিবাদে ১২ বছরের শিশু! অভিজিৎ দীপকে ও সৌরভ দাসের বিরুদ্ধে POCSO ব্যবস্থার দাবি",
     "desc": "২০ জুলাই জন্তর মন্তরে নিট আন্দোলন চলাকালীন ১২ বছরের এক শিশুকে উপস্থিত রাখার অভিযোগে ‘ককোরোচ জনতা পার্টি’ -র নেতা অভিজিৎ দীপকে ও সৌরভ দাসের বিরুদ্ধে পকসো আইনে জিরো এফআইআরের দাবি তুলেছেন এক আইনজীবী। শিশু সুরক্ষা আইন লঙ্ঘনের দায়ে আয়োজকদের বিরুদ্ধে এই ব্যবস্থার আবেদন জানানো হয়।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -28,7 +46,7 @@ const newsData_bn = [
   },
   {
     "cat": "Entertainment",
-    "title": "“চিন্তা করবেন না!” আসামের বন্যায় ভিটেহারাদের ৫০০ ঘর উপহার ‘ভাইজান’-এর",
+    "title": "“চিন্তা করবেন না!” অসমের বন্যায় ভিটেহারাদের ৫০০ ঘর উপহার ‘ভাইজান’-এর",
     "desc": "ভয়াবহ বন্যায় বিপর্যস্ত অসমের মানুষের পাশে দাঁড়ালেন সলমান খান। অভিনেতা রণদীপ হুডার সঙ্গে যোগাযোগ করে ও ‘গ্লোবাল শিখস’ সংস্থার সঙ্গে হাত মিলিয়ে বন্যাকবলিত ৫০০টি পরিবারকে আধা-পাকা ঘর তৈরি করে দেওয়ার সিদ্ধান্ত নিয়েছেন তিনি। ইতিমধ্যেই সবচেয়ে ক্ষতিগ্রস্ত শিবসাগরের নেপালি খুঁটি গ্রামে ২২০টি ঘর বানানোর কাজ শেষ হয়েছে।",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
@@ -124,15 +142,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/rajasthan-high-court-approves-asarams-20-day-parole-despite-states-objections_665573.html ",
     "time": "2026-08-05T09:25:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ঢাকার আর্জি সত্ত্বেও সতর্ক ভারত, হাসিনাকে ফেরানোর দাবিতে কেন ধীরে চলো নীতিতে মোদী সরকার?",
-    "desc": "ঢাকার পেশ করা আইনি দাবি আর আন্তর্জাতিক কূটনীতির ফাঁদের মাঝে এক জটিল চাল চালছে ভারত! শেখ হাসিনাকে ফেরানোর তীব্র চাপের মুখেও কেন হুট করে কোনো সিদ্ধান্ত নিচ্ছে না মোদী সরকার? আইন খতিয়ে দেখার আড়ালে কি শুধুই সময় নেওয়া, নাকি সীমান্ত নিরাপত্তা ও আঞ্চলিক স্বার্থের এক নতুন সমীকরণ সাজাচ্ছে দিল্লি?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/bangladeshs-request-to-extradite-sheikh-hasina-being-examined-centre-tells-parliament-panel_665542.html ",
-    "time": "2026-08-05T06:30:46.000Z"
   },
   {
     "cat": "World",
@@ -313,15 +322,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/durga-idol-made-in-18-days-in-oman-at-a-container-magic-in-wartorn-middle-east_664696.html ",
     "time": "2026-07-30T11:40:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "প্রেমে বিচ্ছেদ চর্চার মাঝেই সোহমের আবেগঘন বার্তা! একের পর এক অঘটন, হল অস্ত্রোপচারও",
-    "desc": "শোলাঙ্কি রায়ের ‘সিঙ্গল’ পোস্টের পরেই তাঁদের সম্পর্কের বিচ্ছেদ নিয়ে তুমুল চর্চা! কিন্তু তার মাঝেই মূল শিরোনামে উঠে এল সোহম মজুমদারের আবেগঘন পোস্ট। হঠাৎ কী এমন ঘটে গেল অভিনেতার জীবনে? স্বজনহারা হওয়া, আকস্মিক অস্ত্রোপচার— চরম পারিবারিক বিপর্যয়ের মুখে দাঁড়িয়ে আজ কোন কঠিন সত্য ফাঁস করলেন অভিনেতা?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/soham-majumdar-emotional-post-on-family-issue-amid-solanki-roy-breakup-rumours_664668.html ",
-    "time": "2026-07-30T08:07:12.000Z"
   },
   {
     "cat": "Business",
