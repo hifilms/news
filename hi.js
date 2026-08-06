@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Jaydev Unadkat set to continue County Championship stint, slated to join Sussex's camp",
+    "desc": "Veteran India pacer Jaydev Unadkat is all set to make his return to England in the latter stages of the week to continue his stint in the County Championship. Unadkat will be joining Sussex’s camp...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jaydev-unadkat-set-to-continue-county-championship-stint-slated-to-join-sussex-s-camp-2026-08-06-1050493",
+    "time": "2026-08-06T01:41:01.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Jos Buttler predicts India star to create history",
     "desc": "Former England captain Jos Buttler on Wednesday shattered the world record for most runs scored in T20 cricket. Buttler, the 2022 T20 World Cup-winning skipper, achieved the feat during the Hundred 2026 when he smashed...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/r-praggnanandhaa-tops-rapid-standings-at-st-louis-takes-key-lead-ahead-of-blitz-2026-08-05-1050423",
     "time": "2026-08-05T09:25:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Super Kings release Faf du Plessis, MI Cape Town leave out Kieron Pollard ahead of upcoming SA20 season",
-    "desc": "Mitchell Marsh, Sam Curran, Joe Root, Phil Salt and Jason Holder are among the biggest overseas names confirmed for the upcoming SA20 season. The six franchises have finalised a significant portion of their squads ahead...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/super-kings-release-faf-du-plessis-mi-cape-town-leave-out-kieron-pollard-ahead-of-upcoming-sa20-season-2026-08-05-1050420",
-    "time": "2026-08-05T09:03:21.000Z"
   }
 ];
