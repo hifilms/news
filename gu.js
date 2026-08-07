@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "જે દીકરા માટે દિવસ-રાત કામ કર્યું તે હવે નથી માનતો માં, 80 વર્ષે એકલા રહે છે એક્ટ્રેસ ઉષા નાડકર્ણી",
+    "desc": "પવિત્ર રિશ્તા ફેમ એક્ટ્રેસ ઉષા નાડકર્ણી 80 વર્ષની ઉંમરે એકલા રહી જીવન પસાર કરે છે. દુ:ખની વાત એ છે કે તેમનો એક દીકરો છે પણ તે દીકરો તેની માતાને વૃદ્ધાવસ્થામાં પણ સ્વીકારવા તૈયાર નથી. ઉષા નાડકર્ણીના જણાવ્યા અનુસાર તેમનો દીકરો તેને માતા માતાનો જ નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/pavitra-rishta-fame-actress-usha-nadkarni-lives-alone-at-age-of-80-son-refuse-to-accept-her-in-old-age-486955 ",
+    "time": "2026-08-07T02:09:15.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "PM મોદીનો નવો ઇન્સ્ટાગ્રામ વીડિયો... વિદ્યાર્થી નહીં, આ વખતે હેન્ડલૂમ ડેને લઈને કરી આ ખાસ અપીલ",
     "desc": "PM મોદીની હાલની રીલો વિદ્યાર્થી આંદોલનો અને યુવાનોના મુદ્દાઓ સાથે જોડાયેલી હતી, પરંતુ આ પહેલીવાર છે જ્યારે તેમણે હાથવણાટ દિવસ અને 'વોકલ ફોર લોકલ'ના સંકલ્પને લઈને એક ખાસ રીલ શેર કરી છે. આવો જાણીએ કે તેમણે આ રીલના માધ્યમથી શું અપીલ કરી છે.",
@@ -682,15 +691,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/ramayana-trailer-watch-here-ranbir-kapoor-yash-ramayana-movie-trailer-trending-486151 ",
     "time": "2026-07-30T01:21:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "30 જુલાઈએ બ્રહ્મ મુહૂર્તમાં રિલીઝ થશે રામાયણ ફિલ્મનું ટ્રેલર, નમિત મલ્હોત્રાએ કર્યું કંફર્મ",
-    "desc": "રામાયણ ફિલ્મનું ટ્રેલર ક્યારે રિલીઝ થશે અને સમય કયો છે તે કંફર્મ કરી દેવામાં આવ્યું છે. 30 જુલાઈ એટલે કે કાલે રામાયણ ફિલ્મનું ટ્રેલર રિલીઝ થઈ જશે. આ ટ્રેલર ક્યારે રિલીઝ થશે તેનો સમય પણ જણાવી દેવામાં આવ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/ramayana-trailer-new-release-ramayana-trailer-will-be-release-on-30-july-during-brahma-muhurta-486086 ",
-    "time": "2026-07-29T06:51:11.000Z"
   },
   {
     "cat": "Tech",

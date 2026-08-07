@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Former India cricketer opens up on 'unfair' treatment of Abhimanyu Easwaran ahead of IND vs SL Tests",
+    "desc": "The Indian team is all set to take on Sri Lanka in a two-game Test series. The two sides will take on each other in the first Test of the series at the Galle International...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-opens-up-on-unfair-treatment-of-abhimanyu-easwaran-ahead-of-ind-vs-sl-tests-2026-08-07-1050615",
+    "time": "2026-08-07T01:39:26.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Mehidy Hasan Miraz smacks unbeaten century vs CA XI ahead of Bangladesh's marquee series vs Australia",
     "desc": "Bangladesh all-rounder Mehidy Hasan Miraz played a scintillating knock against Cricket Australia XI in Darwin ahead of the Test series. He smacked an unbeaten century to guide his side out of trouble on the opening...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/england-announce-16-member-squad-for-pakistan-tests-jordan-cox-ruled-out-lawrence-and-pope-return-2026-08-06-1050554",
     "time": "2026-08-06T10:05:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'He has lied': Luis Figo asks for Gianni Infantino's resignation amid FIFA World Cup share chaos",
-    "desc": "FIFA president Gianni Infantino has been the talk of the town for quite some time now; with the conclusion of the FIFA World Cup 2026, reports emerged that Infantino had plans to expand the World...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/he-has-lied-luis-figo-asks-for-gianni-infantino-s-resignation-amid-fifa-world-cup-share-chaos-2026-08-06-1050550",
-    "time": "2026-08-06T09:33:04.000Z"
   }
 ];
