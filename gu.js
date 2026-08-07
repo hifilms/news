@@ -1,12 +1,75 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "આ વીકેન્ડમાં મળશે ભરપુર મનોરંજન, 7 ઓગસ્ટે ઓટીટી પર રિલીઝ થયેલી નવી ફિલ્મો અને વેબ સીરીઝનું જોઈ લો લિસ્ટ",
+    "desc": "આ વીકેન્ડ પર ઓટીટી પ્લેટફોર્મસ પર જોવા માટે ઘણું બધું છે. બોલીવુડ ફિલ્મોથી લઈ કે ડ્રામા સુધી બધું જ આ વીકેન્ડમાં જોવા મળશે. શનિ-રવિની રજામાં તમે ઓટીટી પર કઈ ફિલ્મ કે વેબ સીરીઝ જોશો તે નક્કી કરો આ લિસ્ટ ચેક કરીને.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/weekend-entertainment-friday-7-august-ott-release-movies-and-web-series-this-weekend-ott-release-487001 ",
+    "time": "2026-08-07T08:50:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "વિરાટ કોહલી સાથે શું છે કોમનવેલ્થ ગેમ્સમાં ગોલ્ડ જીતનારી સાક્ષીનું કનેક્શન? સામે આવ્યું મોટું સત્ય",
+    "desc": "કોમનવેલ્થ ગેમ્સ 2026માં ગોલ્ડ મેડલ જીતનારી મહિલા બોક્સર સાક્ષી ચૌધરીએ એક મોટો ખુલાસો કર્યો છે. તેમણે જણાવ્યું કે વિરાટ કોહલીએ પણ તેમની આ સફરમાં ખૂબ સાથ આપ્યો છે. વિરાટ કોહલી તેમના સ્પોન્સર રહ્યા છે અને તેઓ તેમનો પણ આભાર માનવા માંગે છે. સાક્ષી ચૌધરીએ 51 કિલોગ્રામ કેટેગરીમાં સુવર્ણ ચંદ્રક જીત્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/what-is-the-connection-between-commonwealth-games-gold-medalist-sakshi-and-virat-kohli-the-big-truth-has-been-revealed-486998 ",
+    "time": "2026-08-07T08:29:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ગૉલ ટેસ્ટમાં ભારતીય ટીમ રચશે નવો કીર્તિમાન: અનોખી સિદ્ધિ મેળવનારો ભારત બનશે દુનિયાનો ત્રીજો દેશ",
+    "desc": "ભારતીય ટીમ શ્રીલંકાના પ્રવાશે છે. બંને દેશો વચ્ચે 15 ઓગસ્ટથી બે મેચની ટેસ્ટ સિરીઝ શરૂ થશે. WTC ની દ્રષ્ટિએ આ સિરીઝ ભારત માટે ખુબ મહત્વની છે. આ સાથે ટીમ ઈન્ડિયા 15 ઓગસ્ટે મેદાનમાં ઉતરવાની સાથે એક નવો ઈતિહાસ રચી દેશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/india-set-to-create-history-in-galle-test-against-sri-lanka-will-become-3rd-country-in-the-world-to-achieve-rare-feat-486997 ",
+    "time": "2026-08-07T08:17:57.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સોના-ચાંદીમાં ભયંકર તેજી! ભાવમાં ભડકા પાછળ ડ્રેગનની આ રણનીતિ જવાબદાર? જાણો લેટેસ્ટ રેટ",
+    "desc": "mસોના અને ચાંદીના ભાવમાં અચાનક ભયંકર તેજી જોવા મળી રહી છે. બીજી બાજુ દુનિયાની અનેક કેન્દ્રીય બેંકો પોતાના સોનાનો મોટો હિસ્સો લંડનમાં રાખતી આવી છે. પરંતુ ચીન હવે ધીરે ધીરે પોતાનો ગોલ્ડ રિઝર્વ લંડનથી હટાવીને હોંગકોંગ શિફ્ટ કરી રહ્યું છે. શું આ છે કારણ?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/sharp-increase-in-gold-and-silver-prices-is-china-behind-it-check-latest-gold-rate-486996 ",
+    "time": "2026-08-07T08:15:54.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "AIએ પહેલીવાર લેબમાં બનાવી નાખ્યો નવો વાયરસ! વૈજ્ઞાનિકો પણ હેરાન, શું માણસો માટે છે કોઈ ખતરો?",
+    "desc": "AIએ હવે મેડિકલ સાયન્સમાં કદમ મૂકતા લેબની અંદર આખા વાયરલ જીનોમને ખુદ ડિઝાઇન કરીને 16 નવા વાયરસ તૈયાર કર્યા છે. જોકે રાહતની વાત એ છે કે આ વાયરસ માણસો માટે સુરક્ષિત છે અને બેક્ટેરિયા ખતમ કરવામાં મદદ કરશે, પરંતુ આ ઘટનાએ એક બાબતે ચિંતા વધારી દીધી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/ai-has-created-a-new-virus-in-the-lab-for-the-first-time-even-scientists-are-astonished-does-it-pose-a-threat-to-humans-486995 ",
+    "time": "2026-08-07T08:06:10.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "હોમ બાયર્સ ખાસ ધ્યાન આપે: મકાન લેતા પહેલા આ 6 કાગળો ચેક કરવા જરૂરી, બાદમાં થશે મોટું નુકસાન",
+    "desc": "જો તમે નવું ઘર ખરીદવા જઈ રહ્યાં છો તો તમારે ઘર ખરીદતા પહેલા કેટલીક વાતો જરૂર સમજી લેવી જોઈએ. સાથે તે સમજવું જોઈએ કે ઘર ખરીદતા પહેલા ક્યા-ક્યા ડોક્યુમેન્ટ ચેક કરવાની જરૂર છે. આજે અમે તમને તે વિશે જણાવી રહ્યાં છીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/buying-a-new-home-check-these-6-essential-documents-first-to-avoid-huge-losses-486993 ",
+    "time": "2026-08-07T07:35:47.000Z"
+  },
+  {
     "cat": "World",
     "title": "શું દુબઈ ભારતનો ભાગ બનવાનું હતું? મિડલ ઈસ્ટ પર ચાલતું હતું ઈન્ડિયાનું શાસન! જાણો ઇતિહાસનું ચોંકાવનારું સત્ય",
     "desc": "અનેક ભારતીયો માટે દુબઈ આજે પણ ફરવા માટે મનગમતું સ્થળ છે પરંતુ શું તમને ખબર છે કે એક સમયે દુબઈ લગભગ ભારતનો હિસ્સો બનવાની કગાર પર હતું? ઈતિહાસના પાના ફંફોળવાથી મળેલી આ રસપ્રદ માહિતી તમને પણ અચંબિત કરશે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/indian-history-was-dubai-supposed-to-become-part-of-india-486990 ",
-    "time": "2026-08-07T06:53:12.000Z"
+    "time": "2026-08-07T07:11:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કોકરોચ જનતા પાર્ટીના સંગઠનની જાહેરાત, 12 લોકોને ટીમમાં મળ્યું સ્થાન, કયું પદ સંભાળશે અભિજીત દીપકે?",
+    "desc": "કોકરોચ જનતા પાર્ટીએ પોતાનો વિસ્તાર કરવાનું શરૂ કરી દીધું છે. વીતેલા દિવસે પાર્ટીએ પોતાની કારોબારી સમિતિની જાહેરાત કરી, જેમાં સૌથી મહત્ત્વની જવાબદારી અભિજીત દીપકેને સોંપવામાં આવી છે. તો બીજી તરફ કારોબારી સમિતિમાં કુલ 12 સભ્યો છે, જેમાં પાર્ટીના બંને પ્રવક્તા પણ સામેલ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/cockroach-janata-party-organization-announced-12-members-included-in-the-team-which-post-will-abhijit-deepke-hold-486991 ",
+    "time": "2026-08-07T07:10:04.000Z"
   },
   {
     "cat": "Tech",
@@ -360,24 +423,6 @@ const newsData_gu = [
     "time": "2026-08-05T07:05:47.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "જંતર-મંતર પર હતું હુમલાનું કાવતરું? પંજાબ પોલીસ દ્વારા ISI સમર્થિત આતંકી મોડ્યુલનો પર્દાફાશ, 9ની ધરપકડ",
-    "desc": "પંજાબ પોલીસે પાકિસ્તાનની ISI સમર્થિત બે આતંકી મોડ્યુલનો પર્દાફાશ કરીને 4 સગીરો સહિત 9 આરોપીઓની ધરપકડ કરી છે. આરોપીઓ જંતર-મંતરની રેકી કરવા, પેટ્રોલ બોમ્બ બનાવવા, રેલવે ટ્રેક પર કેમેરા લગાવવા અને પાકિસ્તાન માટે જાસૂસી કરવામાં સામેલ હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/conspiracy-to-attack-jantar-mantar-punjab-police-busts-isi-backed-terror-module-9-arrests-486805 ",
-    "time": "2026-08-05T06:33:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "પનીર વેચનારા માટે મોટા સમાચાર! મહારાષ્ટ્રમાં એનાલોગ પનીર પર લાગ્યો કડક બેન, થઈ શકે છે આજીવન કેદ",
-    "desc": "જાહેર આરોગ્યની ચિંતાઓને ધ્યાને રાખીને, મહારાષ્ટ્ર સરકારે તાત્કાલિક અસરથી એનાલોગ અથવા નોન-ડેરી, ચીઝના ઉત્પાદન, વેચાણ, સંગ્રહ, પરિવહન અને વિતરણ પર સંપૂર્ણ પ્રતિબંધ લગાવ્યો છે. સરકાર અને FDAએ સ્પષ્ટપણે જણાવ્યું છે કે તેને અધિકૃત ચીઝ તરીકે વેચવું ગ્રાહકોને ગેરમાર્ગે દોરનારું માનવામાં આવે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/big-news-for-cheese-sellers-strict-ban-on-analogue-cheese-in-maharashtra-can-lead-to-life-imprisonment-486790 ",
-    "time": "2026-08-05T04:17:18.000Z"
-  },
-  {
     "cat": "Business",
     "title": "હવે પેટ્રોલ પંપ પર ચેક થશે તમારી ગાડીનું ઈન્સ્યોરન્સ! નિયમ તોડ્યો તો સીધો ઘરે પહોંચશે મોટો મેમો!",
     "desc": "દેશમાં 56% વાહનો ઈન્સ્યોરન્સ વગર ચાલી રહ્યા છે. આ બાબતે સુપ્રીમ કોર્ટે કડક વલણ અપનાવતા પેટ્રોલ પંપો પર વીમા વગરના વાહનોને બળતણ ન આપવા અને ANPR કેમેરા દ્વારા ઓટોમેટિક ઈ-ચલાન કાપવાનું સૂચન કર્યું છે. જાણો પૂરો અપડેટ.",
@@ -468,15 +513,6 @@ const newsData_gu = [
     "time": "2026-08-04T12:50:33.000Z"
   },
   {
-    "cat": "Business",
-    "title": "માત્ર ₹610 બચાવો અને બનાવો લાખોનું ફંડ, જાણો SBIની ખાસ સ્કીમ",
-    "desc": "શું તમે મોટી રકમનું રોકાણ કર્યા વિના એક જ વારમાં 1 લાખ રૂપિયાનું ભંડોળ ઊભું કરવા માંગો છો? જો એમ હોય, તો સ્ટેટ બેંક ઓફ ઇન્ડિયા (SBI)ની \"હર ઘર લખપતિ\" યોજના તમારા માટે ઉપયોગી થઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/sbi-saving-scheme-save-just-rs-610-and-build-a-fund-worth-lakhs-know-sbis-special-scheme-486732 ",
-    "time": "2026-08-04T10:14:28.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "શ્રીલંકા પ્રવાસ માટે ટીમ ઈન્ડિયા સાથે નહીં જાય સ્ટાર બેટ્સમેન ! ફિટનેસ અંગે ચોંકાવનારું અપડેટ",
     "desc": "ટીમ ઈન્ડિયા આજે એટલે કે 4 ઓગસ્ટના રોજ શ્રીલંકા પ્રવાસ માટે રવાના થવાની તૈયારીમાં છે. જો કે, અહેવાલો છે કે આ સ્ટાર બેટ્સમેન ટીમ સાથે મુસાફરી કરશે નહીં. તેની ફિટનેસ અંગે એક ચોંકાવનારું અપડેટ સામે આવ્યું છે.",
@@ -484,24 +520,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/ind-vs-sl-sai-sudharsan-not-travel-team-india-for-sri-lanka-tour-reports-486728 ",
     "time": "2026-08-04T09:56:32.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સરકારની મોટી તૈયારી: ટેક્સ સિસ્ટમમાં મોટો ફેરફાર કરવા જઈ રહી છે કેન્દ્ર સરકાર ? જાણો શું બદલાશે",
-    "desc": "સરકાર ટેક્સ સંબંધિત મોટા ફેરફારો કરવાની તૈયારી કરી રહી છે. આ સત્ર દરમિયાન, તે સંસદમાં ટેક્સ અને અન્ય કાયદા (સુધારા) બિલ, 2026 રજૂ કરી શકે છે. આ પ્રસ્તાવમાં વિદેશી રોકાણકારોને ટેક્સ રાહત અને ઉત્પાદન માટે મુક્તિ આપવાની જોગવાઈઓ શામેલ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/governments-big-preparation-is-the-central-government-going-to-make-a-big-change-in-the-tax-system-know-what-will-change-486727 ",
-    "time": "2026-08-04T09:41:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "શ્રીલંકા પ્રવાસ માટે ટીમ ઈન્ડિયામાં જોડાયા 4 નવા ખેલાડી ! નિભાવશે ખાસ જવાબદારી",
-    "desc": "ટીમ ઈન્ડિયાએ શ્રીલંકા પ્રવાસ માટે એક ખાસ પ્લાન બનાવ્યો છે. ટીમ 4 સ્પિનરોને સાથે લઈ જઈ રહી છે, જે નેટ બોલર તરીકે કામ કરશે અને તેની પાછળ એક મોટું કારણ છે, જેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-sl-test-series-4-net-bowlers-join-team-india-for-sri-lanka-tour-486721 ",
-    "time": "2026-08-04T09:16:12.000Z"
   },
   {
     "cat": "Entertainment",

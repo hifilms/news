@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "AFA president opens up on Lionel Messi's future with the national team after FIFA World Cup heartbreak",
+    "desc": "The FIFA World Cup 2026 ended in heartbreak for 2022 champions Argentina and their ace Lionel Messi. Throughout the tournament, Argentina survived several close calls but managed to make it to the final of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/afa-president-opens-up-on-lionel-messi-s-future-with-the-national-team-after-fifa-world-cup-heartbreak-2026-08-07-1050664",
+    "time": "2026-08-07T09:11:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Manav Suthar feel the pressure ahead of his debut tour for India? Former cricketer opines",
+    "desc": "India and Sri Lanka are all set to take on each other in an upcoming two-game Test series. The two sides will meet at the Galle International Stadium on August 15th for the first Test,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-manav-suthar-feel-the-pressure-ahead-of-his-debut-tour-for-india-former-cricketer-opines-2026-08-07-1050659",
+    "time": "2026-08-07T08:22:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer reflected on Hardik Pandya's trade rumours ahead of IPL 2027",
+    "desc": "The IPL (Indian Premier League) 2027 is looming on the horizon, and ahead of the start of the tournament next year, there have been several rumours of potential trades between the franchises flying around. One...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-reflected-on-hardik-pandya-s-trade-rumours-ahead-of-ipl-2027-2026-08-07-1050648",
+    "time": "2026-08-07T07:24:11.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'His time will come': Brendon McCullum throws weight behind Harry Brook for Test captaincy in the future",
     "desc": "England cricket is undergoing massive changes, especially in Test cricket. With the retirement of Ben Stokes from international cricket, the side is looking for its next skipper in Test cricket, and with Joe Root taking...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/viswanathan-anand-confirms-to-run-for-fide-deputy-president-role-after-backing-out-initially-2026-08-06-1050608",
     "time": "2026-08-06T17:47:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India likely to field two separate teams for FIFA Asean Cup and friendly vs Brazil",
-    "desc": "The All India Football Federation (AIFF) has decided to send separate Indian squads for the inaugural FIFA ASEAN Cup and the international friendly against Brazil after both events were scheduled during overlapping dates. The decision was...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/india-likely-to-field-two-separate-teams-for-fifa-asean-cup-and-friendly-vs-brazil-2026-08-06-1050602",
-    "time": "2026-08-06T16:19:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England pacer announces retirement at just 25 years, issues statement to confirm decision",
-    "desc": "England pacer John Turner has announced his retirement from professional cricket after a prolonged battle with a back injury. He represented the Three Lions in four white-ball internationals, claiming three wickets, during 2024, but hasn’t...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-pacer-announces-retirement-at-just-25-years-issues-statement-to-confirm-decision-2026-08-06-1050599",
-    "time": "2026-08-06T15:29:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Real Madrid sign Yan Diomande, the most expensive player in their club history",
-    "desc": "Real Madrid have completed the signing of teenage sensation Yan Diomande from RB Leipzig. The 19-year-old Ivory Coast forward joins the club after a standout season in the Bundesliga, where he scored 12 goals and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/real-madrid-sign-yan-diomande-the-most-expensive-player-in-their-club-history-2026-08-06-1050593",
-    "time": "2026-08-06T14:32:44.000Z"
   }
 ];
