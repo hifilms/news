@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "When and where to watch CPL 2026 live on TV and stream online in India?",
+    "desc": "The 2026 Caribbean Premier League (CPL) is set to begin on September 8, as per Indian Standard Time, with an expanded seven-team competition. The 14th edition of the tournament will run until September 20, featuring...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/when-and-where-to-watch-cpl-2026-live-on-tv-and-stream-online-in-india-2026-08-07-1050722",
+    "time": "2026-08-07T15:46:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ravi Ashwin explores Hardik Pandya's possible move to KKR, asks Mumbai to demand two cricketers in return",
+    "desc": "Former India cricketer Ravichandran Ashwin has suggested that Mumbai Indians should seek a major return if they decide to trade captain Hardik Pandya. It is not being understood that three franchises, including Kolkata Knight Riders...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ravi-ashwin-explores-hardik-pandya-s-possible-move-to-kkr-asks-mumbai-to-demand-two-cricketers-in-return-2026-08-07-1050716",
+    "time": "2026-08-07T14:35:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi begins training for Duleep Trophy; big red-ball test awaits him",
+    "desc": "India's teenage batting prodigy Vaibhav Sooryavanshi has shifted his attention to red-ball cricket ahead of the domestic season. The Rajasthan Royals youngster is currently undergoing an intensive preparation programme at the franchise's High Performance Centre...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-begins-training-for-duleep-trophy-big-red-ball-test-awaits-him-2026-08-07-1050709",
+    "time": "2026-08-07T13:32:10.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Travis Head just beats Alex Carey to win Allan Border Medal, only fifth player to retain prestigious award",
     "desc": "Australia all-rounder Travis Head claimed a second consecutive Allan Border Medal during Cricket Australia's delayed annual awards ceremony in Brisbane. The white-ball opener finished on 153 votes to secure Australian cricket's highest individual honour, just...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/his-time-will-come-brendon-mccullum-throws-weight-behind-harry-brook-for-test-captaincy-in-the-future-2026-08-07-1050641",
     "time": "2026-08-07T06:22:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill sustains finger injury ahead of first Sri Lanka Test, KL Rahul leads India for practice game",
-    "desc": "The Indian team is taking on Sri Lanka Cricket XI in a three-day practice game in preparation for the upcoming two-game Test series between the two sides. With the start of the game, it is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-sustains-finger-injury-ahead-of-first-sri-lanka-test-kl-rahul-leads-india-for-practice-game-2026-08-07-1050635",
-    "time": "2026-08-07T05:08:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Jacks grabs magnificent catch as MI London register brilliant win over London Spirit",
-    "desc": "England batter Will Jacks has caught the eye of many after producing a piece of brilliance in The Hundred 2026. The 23rd game of the tournament saw London Spirit take on MI London at the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-jacks-grabs-magnificent-catch-as-mi-london-register-brilliant-win-over-london-spirit-watch-2026-08-07-1050631",
-    "time": "2026-08-07T04:24:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Where to watch India vs Sri Lanka Cricket XI, Tour Match live on TV and stream online in India?",
-    "desc": "India and Sri Lanka are all set to take on each other in a two-game Test series. The first Test of the series will be held at Galle International Stadium from August 15th. It is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/where-to-watch-india-vs-sri-lanka-cricket-xi-tour-match-live-on-tv-and-stream-online-in-india-2026-08-07-1050621",
-    "time": "2026-08-07T02:46:06.000Z"
   }
 ];

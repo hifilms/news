@@ -324,15 +324,6 @@ const newsData_bn = [
     "time": "2026-07-30T13:34:07.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "রাজেশ খান্নার 'আশীর্বাদ' কি সত্যিই ভূতুড়ে? সত্য সামনে এনে বম্বে হাইকোর্টের ঐতিহাসিক নির্দেশ!",
-    "desc": "বলিউডের প্রথম সুপারস্টার রাজেশ খান্নার আইকনিক বাংলো ‘আশীর্বাদ’ কি সত্যিই কোনও রহস্যময় অভিশাপ বহন করছে? বছরের পর বছর ধরে ‘ভূতুড়ে’ ও ‘অশুভ’ তকমা সেঁটে চলা এই সম্পত্তি নিয়ে এবার গর্জে উঠল বম্বে হাইকোর্ট। আদালতের কোন কড়া নিষেধাজ্ঞা জারি হল? কিসের জেরে ফাঁস হল আসল সত্য?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/bombay-hc-restrains-media-from-calling-rajesh-khannas-home-aashirwad-haunted-cursed_664709.html ",
-    "time": "2026-07-30T13:00:41.000Z"
-  },
-  {
     "cat": "Business",
     "title": "হোয়াটসঅ্যাপের 'ইউজারনেম' ফিচার সুরক্ষা ও গোপনীয়তায় কত বড় চ্যালেঞ্জ?",
     "desc": "WhatsApp is rolling out a new username feature, allowing users to chat without sharing phone numbers. হোয়াটসঅ্যাপের এই নতুন ফিচারে নম্বর গোপন রেখে চ্যাট করার সুযোগ পাবেন ব্যবহারকারীরা, যা সাইবার নিরাপত্তা বাড়াবে এবং ব্যক্তিগত সুরক্ষা নিশ্চিত করবে।",

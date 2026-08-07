@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "WhatsApp પર નવું ફ્રોડ: ભૂલથી પણ ક્લિક ન કરતા, નહિતર WhatsApp થશે હેક, સાયબર વિભાગે જાહેર કરી આ 4 મહત્ત્વની ટીપ્સ",
+    "desc": "તમે પણ WhatsApp વાપરો છો તો સાવધાન થઈ જશો. એક ફાઇલ ખોલશો તો એકાઉન્ટ અને બેંક ખાતું બંને ખાલી થઈ જશે. હવે સાયબર ઠગોએ નવા પ્રકારના સ્કેમ શરૂ કર્યા છે. તમારા વ્હોટસ્એપ પર ‘Statement of Account’ ની ફાઇલ આવે તો ભૂલથી પણ ક્લિક ન કરતા, નહિતર WhatsApp હેક થઈ જશે. RBI કે IT વિભાગના નામે આવતી ફાઇલથી બચવાની સાયબર વિભાગે સલાહ આપી છે આ માટે I4C ની મોટી ચેતવણી જાહેર કરી છે. હવે WhatsApp પર 'ઝિપ ફાઇલ' મોકલી રૂપિયા પડાવતી ગેંગ સક્રિય થઈ છે. ગૃહવિભાગે થોડા દિવસમાં 10 હજારથી વધુ લોકોને શિકાર બનતા બચાવ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/urgent-cyber-advisory-i4c-warns-against-fake-statutory-zip-files-hacking-laptops-whatsapp-487045 ",
+    "time": "2026-08-07T14:36:53.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ઇન્ટરનેશનલ ક્રિકેટમાંથી નિવૃત્તિ લીધા બાદ હવે આ ટીમ માટે રમશે અજિંક્ય રહાણે, મોટી ડીલ કરી સાઈન",
     "desc": "અજિંક્ય રહાણેએ હાલમાં જ ઇન્ટરનેશનલ ક્રિકેટમાંથી નિવૃત્તિ લીધી છે. હવે થોડા જ દિવસો બાદ તેમણે મોટો નિર્ણય લીધો અને પહેલીવાર યોજાઈ રહેલી વિદેશી લીગમાં રમવાનો નિર્ણય કર્યો. રહાણે સિવાય દુનિયાના અનેક સ્ટાર ખેલાડીઓ આ લીગમાં ભાગ લેવાના છે.",
@@ -475,24 +484,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/gold-crash-alert-it-has-only-fallen-by-rs-34000-will-gold-become-37-percent-cheaper-wgcs-big-warning-486807 ",
     "time": "2026-08-05T07:05:47.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "હવે પેટ્રોલ પંપ પર ચેક થશે તમારી ગાડીનું ઈન્સ્યોરન્સ! નિયમ તોડ્યો તો સીધો ઘરે પહોંચશે મોટો મેમો!",
-    "desc": "દેશમાં 56% વાહનો ઈન્સ્યોરન્સ વગર ચાલી રહ્યા છે. આ બાબતે સુપ્રીમ કોર્ટે કડક વલણ અપનાવતા પેટ્રોલ પંપો પર વીમા વગરના વાહનોને બળતણ ન આપવા અને ANPR કેમેરા દ્વારા ઓટોમેટિક ઈ-ચલાન કાપવાનું સૂચન કર્યું છે. જાણો પૂરો અપડેટ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/business-news-of-supreme-court-proposes-no-insurance-no-fuel-rule-for-uninsured-vehicles-486789 ",
-    "time": "2026-08-05T04:09:01.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ક્રૂડ ઓઇલ સસ્તું છતાં સોનું-ચાંદીમાં સતત ઘટાડો! જાણો આજના 24K અને 22Kના નવા ભાવ",
-    "desc": "ગ્લોબલ લેવલે તણાવ ઓછો થવાની આશાએ ક્રૂડ ઓઇલના ભાવમાં નોંધપાત્ર ઘટાડો જોવા મળ્યો હતો. જો કે, સોનું, જે સામાન્ય રીતે ક્રૂડ ઓઇલના ભાવ ઘટે છે ત્યારે વધે છે, આ વખતે ઘટ્યું છે. આનું કારણ શું છે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/despite-cheap-crude-oil-gold-and-silver-continue-to-decline-know-todays-new-prices-of-24k-and-22k-486788 ",
-    "time": "2026-08-05T03:27:12.000Z"
   },
   {
     "cat": "Entertainment",
