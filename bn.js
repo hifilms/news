@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "থামেনি, সাময়িক যুদ্ধবিরতি পশ্চিম এশিয়ায়! এই পরিস্থিতিতেই মোদীকে নেতানিয়াহুর ফোন...",
+    "desc": "ইসরায়েলের প্রধানমন্ত্রী বেঞ্জামিন নেতানিয়াহুর সঙ্গে ফোনে কথা বললেন প্রধানমন্ত্রী নরেন্দ্র মোদী। দীর্ঘ ফোনালাপে দুই নেতা মধ্যপ্রাচ্যের সাম্প্রতিক উত্তেজনা ও ভারত-ইসরায়েল বিশেষ কৌশলগত অংশীদারিত্বের অগ্রগতি নিয়ে আলোচনা করেন। বেসামরিক নাগরিকদের নিরাপত্তা ও শান্তি প্রতিষ্ঠার তাগিদ দেওয়ার পাশাপাশি দ্বিপাক্ষিক সহযোগিতা আরও সুদৃঢ় করার অঙ্গীকার ব্যক্ত করেন মোদী।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/benjamin-netanyahu-calls-pm-narendra-modi-discusses-west-asia-crisis-india-israel-ties_665830.html ",
+    "time": "2026-08-07T05:21:13.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "'আন্দোলন করলেই জেন জ়ি দেশবিরোধী নয়', বার্তা RSS প্রধান মোহন ভাগবতের",
     "desc": "\"জেন জি-কে আমি অন্ধভাবে বিশ্বাস করি!\" জেন জি-র আন্দোলন, অধিকার ও প্রশ্নের মুখ বন্ধ না করে তাদের সঙ্গে আলোচনায় বসার বার্তা দিলেন আরএসএস প্রধান মোহন ভাগবত। মুম্বইয়ের এক অনুষ্ঠানে তিনি জানান, প্রতিবাদ করা মানেই দেশবিরোধী হওয়া নয়, বরং তারা আগের চেয়ে অনেক বেশি সৎ প্রজন্ম। শিক্ষা ব্যবস্থা থেকে শুরু করে সমাজমাধ্যম ও আন্তর্জাতিক সম্পর্ক—কী বললেন ভাগবত?",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -133,15 +142,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/cjp-sets-sight-on-e20-petrol-policy-and-unemployment-abhijeet-dipke-calls-core-team-meeting_665587.html ",
     "time": "2026-08-05T11:16:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "পুলিসের আশঙ্কা ‘প্রমাণহীন’! শর্তসাপেক্ষে মুক্তির নির্দেশ বিতর্কিত ধর্মগুরু আশারামের",
-    "desc": "২০১৩ সালের যৌন নির্যাতন মামলায় যাবজ্জীবন সাজাপ্রাপ্ত বিতর্কিত ধর্মগুরু আশারামকে ২০ দিনের প্যারোল দিল রাজস্থান হাইকোর্ট। রাজ্য সরকারের আপত্তি ও পুলিসের নিরাপত্তাসংক্রান্ত আশঙ্কাকে ‘প্রমাণহীন’ বলে খারিজ করে আদালত। দীর্ঘ ১৩ বছর কারাবাস এবং অতীতে জামিনের শর্ত না ভাঙার রেকর্ড বিবেচনা করেই ৮৫ বছর বয়সী আশারামকে এই মুক্তি দেওয়া হয়।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/rajasthan-high-court-approves-asarams-20-day-parole-despite-states-objections_665573.html ",
-    "time": "2026-08-05T09:25:30.000Z"
   },
   {
     "cat": "World",
@@ -304,15 +304,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/bombay-hc-restrains-media-from-calling-rajesh-khannas-home-aashirwad-haunted-cursed_664709.html ",
     "time": "2026-07-30T13:00:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Gen-Z-দের 'জেনারেশন গাটার' কটাক্ষ কঙ্গনার! পাল্টা ফাঁস পুরোনো ভিডিয়ো, তোপ সোনু সুদের",
-    "desc": "Gen-Z আন্দোলনকারীদের 'জেনারেশন গাটার' বলে ডেকে চরম বিতর্কে কঙ্গনা রানাওয়াত! তাঁর এই মন্তব্যের পরই ২০১৮ সালের কান উৎসবের নাইটপার্টির পুরোনো ভিডিয়ো প্রকাশ্যে এনে কঙ্গনার মানসিকতার সমালোচনা করেছে নেটপাড়া। অন্যদিকে, কঙ্গনার মন্তব্যকে ‘অত্যন্ত লজ্জাজনক’ আখ্যা দিয়ে জনতা ও তরুণ সমাজকে সম্মান জানাতে সতর্ক করলেন অভিনেতা সোনু সুদ।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/internet-digs-kangana-ranauts-old-video-after-she-calls-gen-z-generation-gutter-sonu-sood-slams-her-remark_664699.html ",
-    "time": "2026-07-30T12:23:16.000Z"
   },
   {
     "cat": "World",

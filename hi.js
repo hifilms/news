@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'His time will come': Brendon McCullum throws weight behind Harry Brook for Test captaincy in the future",
+    "desc": "England cricket is undergoing massive changes, especially in Test cricket. With the retirement of Ben Stokes from international cricket, the side is looking for its next skipper in Test cricket, and with Joe Root taking...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/his-time-will-come-brendon-mccullum-throws-weight-behind-harry-brook-for-test-captaincy-in-the-future-2026-08-07-1050641",
+    "time": "2026-08-07T06:22:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shubman Gill sustains finger injury ahead of first Sri Lanka Test, KL Rahul leads India for practice game",
+    "desc": "The Indian team is taking on Sri Lanka Cricket XI in a three-day practice game in preparation for the upcoming two-game Test series between the two sides. With the start of the game, it is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-sustains-finger-injury-ahead-of-first-sri-lanka-test-kl-rahul-leads-india-for-practice-game-2026-08-07-1050635",
+    "time": "2026-08-07T05:08:22.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Will Jacks grabs magnificent catch as MI London register brilliant win over London Spirit",
     "desc": "England batter Will Jacks has caught the eye of many after producing a piece of brilliance in The Hundred 2026. The 23rd game of the tournament saw London Spirit take on MI London at the...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/real-madrid-sign-yan-diomande-the-most-expensive-player-in-their-club-history-2026-08-06-1050593",
     "time": "2026-08-06T14:32:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India vs Pakistan on September 5, check full schedule as women's Asia Cup schedule announced",
-    "desc": "The Asian Cricket Council has announced the schedule for the upcoming Women’s T20 Asia Cup, with the tournament set to begin in Dubai on August 28. Eight teams will compete in the sixth edition of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-pakistan-on-september-5-check-full-schedule-as-women-s-asia-cup-schedule-announced-2026-08-06-1050584",
-    "time": "2026-08-06T13:32:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Barcelona enter race to sign Rodri; Yan Diomande to Real Madrid is imminent, Vini Jr likely to stay",
-    "desc": "After Real Madrid, Barcelona have now entered the race to sign Manchester City and Spanish midfielder Rodri. The FIFA World Cup Golden Ball winner has entered the final year of his contract and hence, the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/barcelona-enter-race-to-sign-rodri-yan-diomande-to-real-madrid-is-imminent-vini-jr-likely-to-stay-2026-08-06-1050576",
-    "time": "2026-08-06T12:07:34.000Z"
   }
 ];
