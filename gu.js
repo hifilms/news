@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "પેટ્રોલમાં ઇથેનોલની જેમ CNG-PNG માં ભેળવાશે બાયોગેસ: દેશમાં 1.50 લાખ નવી રોજગારીનું થશે સર્જાશે, &amp;#039;ગોબરધન&amp;#039; યોજનાને મંજૂરી",
+    "desc": "દેશના CNG અને ઘરેલુ PNG ક્ષેત્રમાં દરરોજ અંદાજે 34-35 મિલિયન મેટ્રિક સ્ટાન્ડર્ડ ક્યુબિક મીટર ગેસ (MMSCMD) નો વપરાશ થાય છે. વાર્ષિક ધોરણે લગભગ 2,60,000 થી 3,00,000 ટન બાયોગેસની જરૂરિયાત રહેશે, જેના કારણે આ યોજના અત્યંત મહત્વપૂર્ણ બની રહે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/biogas-to-be-blended-with-cng-png-cabinet-approves-rs-23731-crore-gobar-dhan-scheme-486965 ",
+    "time": "2026-08-07T03:43:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ભાજપમાં તમારા મનપસંદ નેતા કોણ? રાહુલ ગાંધીએ આપ્યો રસપ્રદ જવાબ, સાથે કારણ પણ જણાવ્યું",
+    "desc": "કોંગ્રેસ નેતા અને લોકસભામાં વિપક્ષના નેતા રાહુલ ગાંધીએ આખરે જણાવી દીધુ કે ભારતીય જનતા પાર્ટીમાં તેમના મનગમતા નેતા કયા છે. તમે પણ આ પ્રશ્નના જવાબની આતુરતાથી રાહુ જોતા હશો તો જવાબ જાણવા માટે આ અહેવાલ ખાસ વાંચો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/who-is-your-favorite-leader-in-bjp-check-what-rahul-gandhi-says-486964 ",
+    "time": "2026-08-07T03:28:49.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "જે દીકરા માટે દિવસ-રાત કામ કર્યું તે હવે નથી માનતો માં, 80 વર્ષે એકલા રહે છે એક્ટ્રેસ ઉષા નાડકર્ણી",
     "desc": "પવિત્ર રિશ્તા ફેમ એક્ટ્રેસ ઉષા નાડકર્ણી 80 વર્ષની ઉંમરે એકલા રહી જીવન પસાર કરે છે. દુ:ખની વાત એ છે કે તેમનો એક દીકરો છે પણ તે દીકરો તેની માતાને વૃદ્ધાવસ્થામાં પણ સ્વીકારવા તૈયાર નથી. ઉષા નાડકર્ણીના જણાવ્યા અનુસાર તેમનો દીકરો તેને માતા માતાનો જ નથી.",
@@ -459,15 +477,6 @@ const newsData_gu = [
     "time": "2026-08-04T09:16:12.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ટર્બુલેન્સથી હવામાં જોરદાર હલ્યું એર ઇન્ડિયાનું પ્લેન, છત પર દેખાઈ તિરાડો, દિલ્હી આવતી ફ્લાઈટમાં અનેક ઘાયલ",
-    "desc": "ફૂકેટથી દિલ્હી જતી એર ઇન્ડિયાની ફ્લાઇટમાં અચાનક ભારે હવામાં ઉથલપાથલનો સામનો કરવો પડ્યો. સીટ બેલ્ટ વગરના મુસાફરો કેબિન પેનલ્સ પર ટકરાયા હતા, જેના કારણે ઘણા લોકો ઘાયલ થયા છે. દિલ્હીમાં વિમાનનું ઇમરજન્સી લેન્ડિંગ થયા બાદ ઘાયલોને સારવાર આપવામાં આવી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/air-india-plane-shakes-violently-in-the-air-cracks-visible-on-the-roof-many-people-injured-on-delhi-bound-flight-486718 ",
-    "time": "2026-08-04T08:43:13.000Z"
-  },
-  {
     "cat": "Business",
     "title": "16 ઓગસ્ટ પછી મોંઘા મળશે ગેસ સિલિન્ડર! Indane Gas, HP Gas અને Bharat Gasના કસ્ટમર્સ તરત કરે આ કામ",
     "desc": "16 ઓગસ્ટ સુધીમાં LPG e-KYC પૂર્ણ કરવામાં બાકી રહેનાર લોકોને સબસિડી ગુમાવવી પડશે. ઇન્ડેન, ભારત ગેસ અને HP ગેસ માટે e-KYC ઓનલાઇન કેવી રીતે પૂર્ણ કરવું તે જાણો અને કયા લોકોને આ કરાવવાની જરૂર પડશે.",
@@ -493,15 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/who-says-attention-please-at-railway-stations-human-or-computer-know-the-real-truth-behind-the-voice-486692 ",
     "time": "2026-08-04T07:02:36.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "8મા પગાર પંચમાં મોટો ટ્વિસ્ટ! પેન્શનરોએ રાખી આ 8 મુખ્ય માંગણીઓ, શું હવે બદલાશે પગારનું માળખું?",
-    "desc": "રેલવે સિનિયર સિટીઝન્સ વેલ્ફેર સોસાયટી (RSCWS)એ 8મા પગાર પંચ સમક્ષ પેન્શન અને પગાર વ્યવસ્થા સંબંધિત આઠ મુખ્ય માંગણીઓ મૂકી છે. આયોગ હાલમાં વિવિધ સંગઠનો પાસેથી સૂચનો લઈ રહ્યું છે અને 2027માં સરકારને તેની અંતિમ ભલામણો સુપરત કરે તેવી અપેક્ષા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/big-twist-in-the-8th-pay-commission-pensioners-have-made-these-8-main-demands-will-the-salary-structure-change-now-486689 ",
-    "time": "2026-08-04T06:42:26.000Z"
   },
   {
     "cat": "Tech",

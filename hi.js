@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Will Jacks grabs magnificent catch as MI London register brilliant win over London Spirit",
+    "desc": "England batter Will Jacks has caught the eye of many after producing a piece of brilliance in The Hundred 2026. The 23rd game of the tournament saw London Spirit take on MI London at the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-jacks-grabs-magnificent-catch-as-mi-london-register-brilliant-win-over-london-spirit-watch-2026-08-07-1050631",
+    "time": "2026-08-07T04:24:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Where to watch India vs Sri Lanka Cricket XI, Tour Match live on TV and stream online in India?",
+    "desc": "India and Sri Lanka are all set to take on each other in a two-game Test series. The first Test of the series will be held at Galle International Stadium from August 15th. It is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/where-to-watch-india-vs-sri-lanka-cricket-xi-tour-match-live-on-tv-and-stream-online-in-india-2026-08-07-1050621",
+    "time": "2026-08-07T02:46:06.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Former India cricketer opens up on 'unfair' treatment of Abhimanyu Easwaran ahead of IND vs SL Tests",
     "desc": "The Indian team is all set to take on Sri Lanka in a two-game Test series. The two sides will take on each other in the first Test of the series at the Galle International...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/barcelona-enter-race-to-sign-rodri-yan-diomande-to-real-madrid-is-imminent-vini-jr-likely-to-stay-2026-08-06-1050576",
     "time": "2026-08-06T12:07:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill suffers injury scare while training ahead of Test series vs Sri Lanka, what exactly happened?",
-    "desc": "India captain Shubman Gill suffered a blow to his right thumb while batting in the nets ahead of the two-match Test series against Sri Lanka, slated to begin on August 15. The 26-year-old was struck...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-suffers-injury-scare-while-training-ahead-of-test-series-vs-sri-lanka-what-exactly-happened-2026-08-06-1050560",
-    "time": "2026-08-06T10:58:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England announce 16-member squad for Pakistan Tests; Jordan Cox ruled out, Lawrence and Pope return",
-    "desc": "England have recalled Ollie Pope and Dan Lawrence for the opening two Tests of the upcoming three-match series against Pakistan, starting August 19 at Headingley. It is also confirmed that Jacob Bethell will miss the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-announce-16-member-squad-for-pakistan-tests-jordan-cox-ruled-out-lawrence-and-pope-return-2026-08-06-1050554",
-    "time": "2026-08-06T10:05:38.000Z"
   }
 ];

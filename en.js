@@ -1,5 +1,167 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Why did KL Rahul lead India at the toss instead of Shubman Gill?",
+    "desc": "KL Rahul captained India in their warm-up match against Sri Lanka XI. Shubman Gill sustained a finger injury during a practice session on Thursday. He will miss the first day of the warm-up game as a precaution. The BCCI medical team is monitoring his progress closely. This match serves as final preparation before the Test series.",
+    "img": "https://static.toiimg.com/photo/msid-133021260,imgsize-87431.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/shubman-gill-injury-ind-vs-sl-warm-up-kl-rahul-lead-india-at-toss-india-vs-sri-lanka/articleshow/133021260.cms",
+    "time": "2026-08-07T04:39:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Centre opposes pleas for income-based creamy layer in SC/ST quotas",
+    "desc": "Union government argues that judicial precedent has laid down creamy layer concept does not apply to SCs and STs; the majority of welfare schemes, except quota for education and State services, already have a means test ensuring ‘benefits of schemes percolate to those who actually deserve them’",
+    "img": "https://th-i.thgim.com/public/incoming/s9ozt1/article71314937.ece/alternates/LANDSCAPE_1200/SC-bars-unauthoG99GA15UQ.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/centre-opposes-pleas-for-income-based-creamy-layer-in-scst-quotas/article71314379.ece",
+    "time": "2026-08-07T04:35:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gill suffers finger injury, Rahul leads India on Day 1 of warm-up game vs SLC XI",
+    "desc": "During practice, Shubman Gill, India’s Test captain, suffered a finger injury, prompting the team to rest him on the first day of the warm-up match for safety. In his stead, KL Rahul is taking charge of the squad. With the Test series looming, there is growing concern about Gill's fitness, and the management is monitoring his recovery closely.",
+    "img": "https://static.toiimg.com/photo/msid-133021206,imgsize-40595.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shubman-gill-suffers-finger-injury-kl-rahul-leads-india-on-day-1-of-warm-up-game-vs-slc-xi/articleshow/133021110.cms",
+    "time": "2026-08-07T04:33:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "What is R Madhavan's biopic drama 'G.D.N.' about?",
+    "desc": "G.D.N. is a captivating biopic that illustrates the remarkable life of inventor G.D. Naidu, portrayed by the talented R. Madhavan. The film captures Naidu's ascent from his modest origins to the forefront of innovation, spotlighting his groundbreaking inventions and the adversities he faced from governmental bodies. Early reviews commend both Madhavan's compelling performance and the film's impressive technical execution, continuing the tradition of celebrating India's dynamic pioneers.",
+    "img": "https://static.toiimg.com/photo/msid-133021133,imgsize-834881.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/g-d-n-explained-cast-plot-and-what-audiences-are-saying-about-r-madhavans-biopic-on-edison-of-india/articleshow/133021062.cms",
+    "time": "2026-08-07T04:27:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "McCullum backs Root, vows to 'develop' Brook into England's next Test captain",
+    "desc": "Brendon McCullum endorses the decision to reappoint Joe Root as England's Test captain, expressing confidence in his leadership. He also hints that Harry Brook is destined to take on the captaincy role in the future. Meanwhile, Stephen Fleming has been named the new Test coach, expected to excel in guiding the squad, with Marcus Trescothick stepping in as interim coach until Fleming takes over.",
+    "img": "https://static.toiimg.com/photo/msid-133020953,imgsize-41920.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/brendon-mccullum-backs-joe-root-vows-to-develop-harry-brook-into-englands-next-test-captain/articleshow/133020644.cms",
+    "time": "2026-08-07T04:18:17.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Will you have to pay to use UPI? FM Sitharaman clarifies who bears MDR",
+    "desc": "In a recent statement, Finance minister Nirmala Sitharaman emphasized that UPI transaction charges will be applicable to merchants rather than customers. She explained that any Merchant Discount Rate (MDR) imposed would be instrumental in enhancing the digital payment ecosystem. Following the passage of an amendment bill in Parliament, a committee will investigate the adjustments to the zero-MDR policy for digital payments.",
+    "img": "https://static.toiimg.com/photo/msid-133020713,imgsize-102258.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/will-you-have-to-pay-to-use-upi-fm-sitharaman-clarifies-who-bears-mdr/articleshow/133020388.cms",
+    "time": "2026-08-07T04:13:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘The Odyssey' is about to become the third R-rated film to reach the billion-dollar club",
+    "desc": "Christopher Nolan's 'The Odyssey' is rapidly approaching the billion-dollar mark at the box office, positioning itself as the third R-rated film ever to do so. Following in the footsteps of 'Deadpool & Wolverine' and 'Joker', it has already amassed over USD 930 million globally. This impressive feat also marks the second time Nolan has directed a film to hit this significant financial benchmark.",
+    "img": "https://static.toiimg.com/photo/msid-133020569,imgsize-114614.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-odyssey-closes-in-on-the-billion-dollar-mark-close-to-becoming-the-third-highest-earning-r-rated-film-to-achieve-the-feat/articleshow/133020517.cms",
+    "time": "2026-08-07T03:53:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Thudakkam' release: Mammootty wishes Vismaya Mohanlal",
+    "desc": "Vismaya Mohanlal is set to debut in the film 'Thudakkam' soon. Mammootty and Kalyani Priyadarshan have sent her warm wishes for the release. Director Jude Anthany Joseph shared his special bond with Vismaya and her mother. Suchitra Mohanlal gifted the director a wristwatch after watching the movie. The drama thriller 'Thudakkam' features Vismaya in the lead role.",
+    "img": "https://static.toiimg.com/photo/msid-133020529,imgsize-271162.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/thudakkam-release-mammootty-wishes-vismaya-mohanlal-kalyani-priyadarshan-says-always-rooting-for-you/articleshow/133020491.cms",
+    "time": "2026-08-07T03:51:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "FCRA Bill is ‘religion-neutral’, Shah assures Christian bodies",
+    "desc": "Delegation meets Amit Shah; member says Home Minister has told them that the government has “no intention to harass the Christian community”; forum flags ‘deemed cessation of assets’ clause; Bill could be taken up for discussion in Parliament on August 12",
+    "img": "https://th-i.thgim.com/public/incoming/m7k9vs/article71314945.ece/alternates/LANDSCAPE_1200/20260801127L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/fcra-bill-is-religion-neutral-shah-assures-christian-bodies/article71314671.ece",
+    "time": "2026-08-07T03:45:11.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Lessons from China’s market-state hybrid model",
+    "desc": "Beijing’s innovation model brings together universities, start-ups, industry and the state to turn research into commercially viable technologies by bridging the ‘valley of death’; the ecosystem is driving China’s push in AI and humanoid robotics through state-backed funding, talent and industrial clusters",
+    "img": "https://th-i.thgim.com/public/news/national/apmtiv/article71314949.ece/alternates/LANDSCAPE_1200/iStock-464512900.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/the-beijing-model-of-innovation/article71313438.ece",
+    "time": "2026-08-07T03:28:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Inside ‘Batwara 1947’: How Asghar Wajahat’s quiet resistance seeps through Sunny Deol’s film",
+    "desc": "As his play ‘Jis Lahore Nai Vekhya, O Jamyai Nai’ finds a new stage with Rajkumar Santoshi’s film ‘Batwara 1947’, the eminent playwright and novelist discusses how the enduring spirit of humanism can triumph over political divisions.",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/j5sg8q/article71304288.ece/alternates/LANDSCAPE_1200/Asghar%20Wajahat%20and%20Sunny%20Deol%20in%20%E2%80%98Batwara%201947%E2%80%99",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/inside-batwara-1947-how-asghar-wajahats-quiet-resistance-seeps-through-sunny-deols-film/article71304118.ece",
+    "time": "2026-08-07T03:25:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Subhash Ghai called 'Dhurandhar' fame Akshaye 'not a baazaaru star'",
+    "desc": "Filmmaker Subhash Ghai reminisced about casting Akshaye Khanna for his film Taal, noting the remarkable intensity and sincerity that the young actor brought to the role. Ghai praised Khanna's unique style and unwavering dedication to authenticity, which he believed significantly contributed to the film's integrity and success. He also expressed gratitude towards A.R. Rahman, Anand Bakshi, and Aishwarya Rai Bachchan for their essential contributions.",
+    "img": "https://static.toiimg.com/photo/msid-133020124,imgsize-242582.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-subhash-ghai-called-dhurandhar-fame-akshaye-khanna-not-a-baazaaru-star-he-speaks-the-truth-acts-the-truth/articleshow/133020022.cms",
+    "time": "2026-08-07T03:15:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Jab honi...'",
+    "desc": "In a recent interview, Huma Qureshi stated that marriage isn't on her horizon just yet. She opened up about her exciting new role as a producer for 'Baby Do Die Do', describing the challenges and rewards of the craft. Along with her brother, she aims to create unique opportunities through their company, Saleem Siblings. The film is already enjoying its fifth successful week of release.",
+    "img": "https://static.toiimg.com/photo/msid-133019779,imgsize-357203.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/huma-qureshi-breaks-silence-on-wedding-rumours-shaadi-jab-honi-hogi-tab-ho-jayegi/articleshow/133019746.cms",
+    "time": "2026-08-07T03:06:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I was India's 12th man for two years': Ajinkya Rahane reveals",
+    "desc": "Ajinkya Rahane, who recently announced his retirement from all forms of cricket, scored 5,077 runs in 85 Tests at an average of 38.46, including 12 centuries and 26 half-centuries. He also played 90 ODIs, scoring 2962 runs at an average of 35.26, including 3 hundreds and 24 fifties. He also featured in 20 T20Is for India.",
+    "img": "https://static.toiimg.com/photo/msid-133019778,imgsize-41617.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-was-indias-12th-man-for-two-years-ajinkya-rahane-reveals-toughest-phase-of-his-career/articleshow/133019778.cms",
+    "time": "2026-08-07T02:55:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All ‘Ramayana’ trailers collectively reach 1 billion views",
+    "desc": "The much-anticipated trailer for Ramayana has already surpassed one billion views across various platforms, capturing immense excitement. Starring Ranbir Kapoor and Sai Pallavi, this cinematic adaptation promises to be an epic adventure, set to hit theaters on November 6th. Directed by Nitesh Tiwari, the film features a stellar ensemble cast and boasts a significant production budget, ensuring a grand experience for audiences.",
+    "img": "https://static.toiimg.com/photo/msid-133019847,imgsize-334940.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-and-sai-pallavis-ramayana-trailer-reaches-1-billion-views-across-all-platforms-and-languages/articleshow/133019771.cms",
+    "time": "2026-08-07T02:54:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "What if 'Obsession' were made in Mollywood?",
+    "desc": "A Malayalam adaptation of Curry Baker's film 'Obsession' is proposed. Naslen is suggested for the lead role of an employee with a supernatural obsession. Kalyani Priyadarshan could portray the childhood friend Nikki in this adaptation. Rahul Sadasivan is considered for directing, bringing his horror expertise. The film could incorporate local folklore and a Kochi setting.",
+    "img": "https://static.toiimg.com/photo/msid-133019646,imgsize-66240.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/what-if-obsession-were-made-in-mollywood-could-curry-bakers-horror-drama-work-as-a-malayalam-film/articleshow/133019611.cms",
+    "time": "2026-08-07T02:47:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "J&K Police file FIR over PDP’s Article 370 anniversary rally, party says ‘blatant misuse of power, authority’",
+    "desc": "The name of former J&K Chief Minister Mufti has been mentioned in the FIR for taking out a rally on August 4 and August 5 in the city, on the seventh anniversary of the abrogation of Article 370, “without prior police permission”",
+    "img": "https://th-i.thgim.com/public/incoming/clulni/article71316126.ece/alternates/LANDSCAPE_1200/PTI07_28_2026_000160A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-police-file-fir-over-pdps-article-370-anniversary-rally-party-says-blatant-misuse-of-power-authority/article71314569.ece",
+    "time": "2026-08-07T02:47:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aditi Rao Hydari praises 'Ramayana' star Ranbir Kapoor: He is incredible",
+    "desc": "Aditi Rao Hydari reflected on her time working alongside Ranbir Kapoor in Rockstar, praising him as a remarkable and persuasive actor. She shared the excitement and intensity she felt stepping onto Sanjay Leela Bhansali's set, particularly her first scene featuring Ranveer Singh, who recognized the significance of this moment for her. Hydari’s appreciation for Bhansali’s passionate directing style was palpable, highlighting his inspiring approach to filmmaking.",
+    "img": "https://static.toiimg.com/photo/msid-133019228,imgsize-189221.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aditi-rao-hydari-says-working-with-ramayana-star-ranbir-kapoor-was-mad-experience-he-is-incredible-can-convince-you-of-anything/articleshow/133019096.cms",
+    "time": "2026-08-07T02:23:58.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "The hands that are shaping Amaravati",
     "desc": "As Andhra Pradesh’s greenfield capital takes shape, stories of migrant workers, women finding new livelihoods, and efforts to balance development with social and environmental concerns reveal the human side of building a new city. Their experiences shed a unique light on how an ambitious project is reshaping lives alongside the landscape of the capital region, writes P. Sujatha Varma",
@@ -25,6 +187,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/telangana/in-telangana-property-owners-locked-out-of-their-own-land/article71315140.ece",
     "time": "2026-08-07T02:17:11.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Oil prices rise 1% as Middle East conflict continues Hormuz shipping disruption",
+    "desc": "On Friday, oil prices experienced a modest rise amid shipping uncertainties in the Strait of Hormuz. Traders exhibit caution regarding transit through this critical route. Meanwhile, US President Donald Trump hinted at a potential resolution to the ongoing conflict. Additionally, Iran and Oman are exploring new transit options for the waterway. As developments unfolded, market trends reversed previous declines.",
+    "img": "https://static.toiimg.com/photo/msid-133018990,imgsize-131462.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-brent-rises-1-as-middle-east-conflict-continues-hormuz-shipping-disruption/articleshow/133018921.cms",
+    "time": "2026-08-07T02:13:49.000Z"
   },
   {
     "cat": "Politics",
@@ -279,15 +450,6 @@ const newsData_en = [
     "time": "2026-08-06T23:08:23.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "FCRA Bill is ‘religion-neutral’, Shah assures Christian bodies",
-    "desc": "Delegation meets Amit Shah; member says Home Minister has told them that the government has “no intention to harass the Christian community”; forum flags ‘deemed cessation of assets’ clause; Bill could be taken up for discussion in Parliament on August 12",
-    "img": "https://th-i.thgim.com/public/incoming/m7k9vs/article71314945.ece/alternates/LANDSCAPE_1200/20260801127L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/fcra-bill-is-religion-neutral-shah-assures-christian-bodies/article71314671.ece",
-    "time": "2026-08-06T23:07:36.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Priyanka joins Russell Crowe in sci-fi action thriller 'Bluefly'",
     "desc": "Priyanka Chopra Jonas has announced her next Hollywood venture, a sci-fi action thriller. She will star opposite Russell Crowe in the film titled 'Bluefly'. The movie's plot involves a deep Congo mission to recover a mysterious downed aircraft. This project marks another significant international role for the acclaimed Indian actress. 'Bluefly' is scheduled for production and release in the future.",
@@ -331,51 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/weeding-out-dead-wood-aim-of-compulsory-retirement-says-supreme-court/articleshow/133017763.cms",
     "time": "2026-08-06T22:23:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "South Africa recalls envoy for attending Zuma meet with businessman Gupta",
-    "desc": "South Africa's diplomatic relations may be on shaky ground as the country has recalled its ambassador to India. This step follows the emergence of images depicting a meeting between ex-president Jacob Zuma and Ajay Gupta, a businessman facing serious corruption accusations. The Gupta brothers, known for their controversial ties during Zuma's term, along with Zuma himself, have staunchly rejected all charges against them, raising questions about accountability.",
-    "img": "https://static.toiimg.com/photo/msid-133017587,imgsize-46328.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/south-africa-recalls-envoy-for-attending-zuma-meet-with-businessman-gupta/articleshow/133017416.cms",
-    "time": "2026-08-06T22:18:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Can't exclude SC/ST creamy layer from quotas: Government to Supreme Court",
-    "desc": "The government is against extending the creamy layer to SC and ST reservation benefits, emphasizing that the challenges these communities face are rooted in more than economic issues. Reservation serves to right historical wrongs and ensure equitable access. The Supreme Court has permitted states to categorize castes within SC groups, but only Parliament holds the power to amend the lists of SC and ST populations eligible for these allocations.",
-    "img": "https://static.toiimg.com/photo/msid-133017109,imgsize-53064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cant-exclude-sc/st-creamy-layer-from-quotas-government-to-supreme-court/articleshow/133016849.cms",
-    "time": "2026-08-06T22:13:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Netanyahu calls PM Modi, discusses bilateral ties, West Asia situation",
-    "desc": "In a significant phone discussion, Prime Minister Narendra Modi and Israeli Prime Minister Benjamin Netanyahu evaluated the progress made in their strategic partnership and bilateral engagements. They also addressed current developments in West Asia, amidst Israel's increasing international scrutiny due to its military actions. This exchange highlights their continued efforts to bolster cooperation and deepen ties between India and Israel.",
-    "img": "https://static.toiimg.com/photo/msid-133016501,imgsize-75658.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/netanyahu-calls-pm-modi-discusses-bilateral-ties-w-asia-situation/articleshow/133015945.cms",
-    "time": "2026-08-06T22:09:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Inside Beaverbrook Hotel, where Tom-Zendaya celebrated marriage party",
-    "desc": "Hollywood couple Tom Holland and Zendaya have reportedly celebrated their marriage with an intimate wedding party in England, months after quietly tying the knot. The Spider-Man co-stars hosted a private celebration on August 4 at Beaverbrook Hotel, a five-star country estate in Surrey, England.",
-    "img": "https://static.toiimg.com/photo/msid-133015891,imgsize-169343.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/inside-beaverbrook-hotel-where-tom-holland-and-zendaya-celebrated-their-intimate-marriage-party-luxury-suites-cost-over-2300-a-night/articleshow/133015671.cms",
-    "time": "2026-08-06T21:42:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tom and Zendaya debut wedding rings; host private reception in London- PICS",
-    "desc": "Hollywood stars Tom Holland and Zendaya have debuted their wedding rings. This public appearance follows months of marriage speculation and rumors. The couple reportedly celebrated their union with family and friends at a hotel. Zendaya has been seen wearing her diamond and gold bands consistently. Tom Holland recently displayed his gold wedding band for the first time.",
-    "img": "https://static.toiimg.com/photo/msid-133015637,imgsize-487106.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/zendaya-and-tom-holland-celebrate-wedding-with-private-reception-in-england-spider-man-brand-new-day-star-finally-debuts-wedding-ring-pics/articleshow/133015624.cms",
-    "time": "2026-08-06T21:13:45.000Z"
   },
   {
     "cat": "Politics",
@@ -450,6 +567,15 @@ const newsData_en = [
     "time": "2026-08-06T18:46:31.000Z"
   },
   {
+    "cat": "Politics",
+    "title": "from prosperity of migration, Kumbanad and other villages in Kerala’s Pathanamthitta fall to an uncertain future",
+    "desc": "A large number of villages in the central Travancore region are left to decay as many in the younger generation, settled abroad, are unwilling to return. Hiran Unnikrishnan takes a road trip through the near-abandoned villages and takes a look at the lives of the elders in the region",
+    "img": "https://th-i.thgim.com/public/incoming/5vh6r9/article71313589.ece/alternates/LANDSCAPE_1200/80693_6_8_2026_16_27_31_3_PULLAD.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/vanishing-villages-from-prosperity-of-migration-kumbanad-and-other-villages-in-keralas-pathanamthitta-fall-to-an-uncertain-future/article71304336.ece",
+    "time": "2026-08-06T18:41:33.000Z"
+  },
+  {
     "cat": "World",
     "title": "EC",
     "desc": "Nomination papers will be accepted at the office of the Chief Election Commissioner on August 13. The scrutiny of nomination papers will be held on August 16. The last date for withdrawal of candidature is August 18",
@@ -477,42 +603,6 @@ const newsData_en = [
     "time": "2026-08-06T17:51:54.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Post PCB consent, APMDC, JSW to fast-track iron ore mining in Prakasam district",
-    "desc": "The joint venture, in which JSW Steel holds 89%, will set up a beneficiation plant for 1.35 million tonnes a year of high grade concentrate; the Consent to Operate is awaited, and the project is likely to be operational by early 2028",
-    "img": "https://th-i.thgim.com/public/incoming/dtk56g/article71314109.ece/alternates/LANDSCAPE_1200/IMG_90092_31-1-2020_17-3_2_1_JND8SVHK.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/post-pcb-consent-apmdc-jsw-to-fast-track-iron-ore-mining-in-prakasam-district/article71312998.ece",
-    "time": "2026-08-06T17:33:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "House panel flags fertilizer shortage, calls for proper mechanism to address it",
-    "desc": "Centre’s responses to scarcity created by West Asia war were largely reactive, parliamentary panel says; it calls for a permanent joint fertilizer command and monitoring cell, to provide ‘continuous, real-time coordination’ on supply of fertilizers during every cropping season",
-    "img": "https://th-i.thgim.com/public/incoming/b2m07g/article71314957.ece/alternates/LANDSCAPE_1200/20260728154L_wJjyKAS.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/house-panel-flags-fertilizer-shortage-calls-for-proper-mechanism-to-address-it/article71314734.ece",
-    "time": "2026-08-06T17:33:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Centre opposes pleas for income-based creamy layer in SC/ST quotas",
-    "desc": "Union government argues that judicial precedent has laid down creamy layer concept does not apply to SCs and STs; the majority of welfare schemes, except quota for education and State services, already have a means test ensuring ‘benefits of schemes percolate to those who actually deserve them’",
-    "img": "https://th-i.thgim.com/public/incoming/s9ozt1/article71314937.ece/alternates/LANDSCAPE_1200/SC-bars-unauthoG99GA15UQ.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/centre-opposes-pleas-for-income-based-creamy-layer-in-scst-quotas/article71314379.ece",
-    "time": "2026-08-06T17:28:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India vs Sri Lanka XI warm-up match: Live streaming, TV channel, date and time",
-    "desc": "India begins Test series preparations with a three-day warm-up match. This fixture offers a valuable chance to adapt to local conditions. Batters will face a stern examination against spin-friendly pitches. The bowling attack also aims to assess conditions and gain practice. Head coach Gautam Gambhir urged players to maximize every session.",
-    "img": "https://static.toiimg.com/photo/msid-133012160,imgsize-44610.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/india-vs-sri-lanka-xi-warm-up-match-live-streaming-tv-channel-date-and-time/articleshow/133012096.cms",
-    "time": "2026-08-06T17:04:20.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Huge ask': ECB explains why Brook missed out as Root returns as Test captain",
     "desc": "Joe Root's return as England's Test captain has caught the cricket world off guard, but the England and Wales Cricket Board deemed his seasoned experience essential for the team's current challenges. While Harry Brook is making strides as a leader of the white-ball teams, focus remains on Root to stabilize the Test side during this transitional phase. Brook is seen as a potential successor, albeit not just yet.",
@@ -520,24 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/huge-ask-ecb-explains-why-harry-brook-missed-out-as-joe-root-returns-as-test-captain/articleshow/133010679.cms",
     "time": "2026-08-06T16:11:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Is Zendaya pregnant with Tom Holland's first child? Truth revealed",
-    "desc": "Zendaya's baby bump photo has gone viral across social media, leaving fans convinced that the actor is expecting her first child with Tom Holland. However, it looks like the viral image is fake and was created using artificial intelligence, with the original photograph dating back to 2023.",
-    "img": "https://static.toiimg.com/photo/msid-133010302,imgsize-118128.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/is-zendaya-pregnant-with-her-first-child-with-tom-holland-truth-behind-viral-baby-bump-photo-revealed/articleshow/133010002.cms",
-    "time": "2026-08-06T15:49:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Salman Khan's 'Ramayana' was shelved due to Sohail's relationship with Pooja Bhatt",
-    "desc": "In the 1990s, Salman Khan was poised to portray Lord Ram in Sohail Khan's ambitious Ramayana film, with Sonali Bendre set to play Sita. The project, which had made significant progress, ultimately faced production challenges due to familial disapproval linked to Sohail Khan's relationship with Pooja Bhatt. As a result, the film was abandoned after about forty percent of it had been completed.",
-    "img": "https://static.toiimg.com/photo/msid-133009121,imgsize-244339.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khans-ramayana-was-shelved-due-to-sohail-khans-relationship-with-pooja-bhatt-the-actress-also-had-spoken-about-the-possibility-of-marriage-reportedly-salim-khan-didnt-approve-of-their-relationship/articleshow/133008866.cms",
-    "time": "2026-08-06T14:46:44.000Z"
   },
   {
     "cat": "Sports",
@@ -558,33 +630,6 @@ const newsData_en = [
     "time": "2026-08-06T14:44:40.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Sunny Deol came to shoot after Dharmendra's demise: 'Kya professionalism hai yaar'",
-    "desc": "In a recent discussion, Sanjeeda Shaikh reflected on her role in the film Ikka and praised Sunny Deol for his remarkable professionalism, continuing to work despite his father's passing. She acknowledged the invaluable lessons in discipline and dedication gleaned from seasoned actors, asserting that maintaining humility and a professional attitude is vital for achieving longevity in the competitive film arena.",
-    "img": "https://static.toiimg.com/photo/msid-133008695,imgsize-269577.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunny-deol-came-to-shoot-after-dharmendras-demise-recalls-his-ikka-co-star-sanjeeda-shaikh-kya-professionalism-hai-iss-level-pe-aa-ke-toh-bol-bhi-sakte-hai-na-/articleshow/133008612.cms",
-    "time": "2026-08-06T14:22:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Saif's sister Saba reveals why she is unmarried: 'Almost married at 19 but..'",
-    "desc": "Saba Ali Khan discussed her unmarried status and private life in a recent vlog. She never experienced a romantic relationship and was introduced to many potential marriage partners. Saba sought a compatible partner, influenced by her father's remarkable qualities and values. She admired Taapsee Pannu's sentiment about needing a man, not just a boy. Saba maintains a close bond with her family while living away from public attention.",
-    "img": "https://static.toiimg.com/photo/msid-133007994,imgsize-380042.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saif-ali-khans-sister-saba-ali-pataudi-reveals-why-she-never-got-married-almost-married-at-19-but-then-after-having-a-father-like-abba-tiger-pataudi/articleshow/133007808.cms",
-    "time": "2026-08-06T13:56:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "FIFA says ‘sorry’ after failed World Cup plan but makes huge decision on Infantino’s future",
-    "desc": "FIFA has apologised for mistakes in handling Gianni Infantino’s failed FIFA Forward Enterprise proposal but reaffirmed its support for the president after a crisis meeting in Morocco. Infantino and secretary general Mattias Grafström admitted errors in the process, while FIFA declared the controversial plan abandoned. Despite the apology, criticism continues ahead of Infantino’s expected re-election bid.",
-    "img": "https://static.toiimg.com/photo/msid-133007466,imgsize-289986.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-says-sorry-after-failed-world-cup-plan-but-makes-huge-decision-on-infantinos-future/articleshow/133004474.cms",
-    "time": "2026-08-06T13:42:52.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Karnataka explores partnership with Anthropic for governance, skilling and deep-tech growth",
     "desc": "CM D.K. Shivakumar sought Anthropic’s expertise on how AI could help reduce fraud in government systems and improve the effectiveness, security and confidentiality of setting question papers for examinations conducted by various government agencies and educational institutions.",
@@ -603,15 +648,6 @@ const newsData_en = [
     "time": "2026-08-06T13:02:18.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ameesha reacts to Preity being compared to her 'Gadar' character Sakina",
-    "desc": "Ameesha Patel graciously acknowledged a fan who highlighted the similarities between Preity Zinta's new character and her beloved role of Sakina. Wishing Preity well, Ameesha demonstrated her support amidst comparisons drawn to films set during the Partition, including 'Gadar' and 'Batwara 1947'. This thoughtful response exemplified her commitment to uplifting fellow performers and celebrating their artistry.",
-    "img": "https://static.toiimg.com/photo/msid-133005028,imgsize-283143.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ameesha-patel-reacts-to-fans-comparing-preity-zintas-character-and-look-in-batwara-1947-to-her-role-sakina-in-gadar-tara-ka-dhyaan-rakhna/articleshow/133004855.cms",
-    "time": "2026-08-06T12:40:58.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "AIFF considers withdrawing from FIFA ASEAN Cup in favour of India vs Brazil game",
     "desc": "AIFF is weighing the option of withdrawing from the inaugural FIFA ASEAN Cup or fielding a second-string side to prioritise the October 3 friendly against Brazil. While most Executive Committee members favour the marquee clash, former India captain Bhaichung Bhutia has urged the federation to back the tournament for its sporting and financial benefits.",
@@ -619,15 +655,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/aiff-considers-withdrawing-from-fifa-asean-cup-in-favour-of-india-vs-brazil-game/articleshow/133004293.cms",
     "time": "2026-08-06T12:38:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Auqib Nabi shouldn't have come as a replacement': Ex-cricketer on India squad",
-    "desc": "Auqib Nabi earned a place in India's Test squad for the Sri Lanka series. He replaces the injured fast bowler Jasprit Bumrah in the team. Nabi's selection follows his strong performances in domestic cricket competitions. He took 104 wickets across two exceptional Ranji Trophy seasons. Nabi becomes the first cricketer from Jammu and Kashmir to reach this milestone.",
-    "img": "https://static.toiimg.com/photo/msid-133004131,imgsize-833003.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/auqib-nabi-shouldnt-have-come-in-as-a-replacement-ex-cricketer-questions-indias-original-squad-selection/articleshow/133003665.cms",
-    "time": "2026-08-06T12:19:17.000Z"
   },
   {
     "cat": "Entertainment",
@@ -673,15 +700,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/supporters-of-imran-khans-party-to-march-toward-islamabad-on-september-27-khyber-pakhtunkhwa-cm/article71312908.ece",
     "time": "2026-08-06T10:04:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England recall Cook, Ollie Pope for Pakistan Tests; Joe Root to lead",
-    "desc": "Ollie Pope, Dan Lawrence and Sam Cook have all returned to the Test squad, while Jordan Cox is also back and is expected to bat at No. 3, according to The Guardian. Cox gets the opportunity after Jacob Bethell was ruled out of the series with an injury.",
-    "img": "https://static.toiimg.com/photo/msid-132996678,imgsize-488953.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/england-recall-cook-ollie-pope-for-pakistan-series-as-post-bazball-era-begins-under-joe-root/articleshow/132996461.cms",
-    "time": "2026-08-06T10:01:11.000Z"
   },
   {
     "cat": "World",
@@ -738,15 +756,6 @@ const newsData_en = [
     "time": "2026-08-06T07:58:54.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Gold, silver price prediction: Is gold, silver price rise sustainable? Check outlook on August 6, 2026",
-    "desc": "MCX Gold has breached from its consolidation and is heading toward the recent swing highs, pointing to an intermediate bullish move underway. Silver has stepped out of its consolidation and is now aligning with the base trend, a near-term recovery looks well on the cards. Much like gold’s positive trend, silver is expected to hold its positive bias and push higher from current levels.",
-    "img": "https://static.toiimg.com/photo/msid-132985778,imgsize-598649.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-price-prediction-today-what-is-the-gold-rate-outlook-for-august-06-2026-should-you-buy-or-sell-mcx-gold-mcx-silver/articleshow/132985461.cms",
-    "time": "2026-08-06T06:27:06.000Z"
-  },
-  {
     "cat": "World",
     "title": "Spain's Ceuta seeks transfer of unaccompanied migrant minors to mainland Spain after border rush",
     "desc": "Though the vast majority of migrants have since returned to Morocco, roughly 1,100 unaccompanied minors who arrived before and during the influx — and cannot be summarily deported — remain, according to the local government",
@@ -790,24 +799,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/boxing/seven-cwg-golds-one-big-challenge-why-indias-boxing-journey-is-far-from-over/articleshow/132980124.cms",
     "time": "2026-08-06T03:38:50.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Crude slips as Iran-Oman talks fuel hopes of peace deal, Hormuz reopening",
-    "desc": "Oil prices edged lower as investors assessed Iran-Oman talks for peace. Brent crude futures fell, and US West Texas Intermediate also declined. Market sentiment focused on diplomatic efforts to resolve tensions between Tehran and Washington. Fresh US inventory data showed crude oil stockpiles increased significantly. Geopolitical risks remain elevated with warnings of retaliatory attacks.",
-    "img": "https://static.toiimg.com/photo/msid-132979735,imgsize-98269.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-crude-slips-as-iran-oman-talks-fuel-hopes-of-peace-deal-hormuz-reopening/articleshow/132979566.cms",
-    "time": "2026-08-06T03:00:53.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Stock recommendations for August 6, 2026",
-    "desc": "Ambuja Cements, Asahi India Glass, and Pfizer - these stocks have been identified as the top buy calls for August 6, 2026 by Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth Management. The expert has also shared outlook on Nifty50 and Bank Nifty:",
-    "img": "https://static.toiimg.com/photo/msid-132979669,imgsize-665624.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-august-06-2026-ambuja-cements-asahi-india-glass-pfizer-best-stocks-to-buy-today/articleshow/132979582.cms",
-    "time": "2026-08-06T02:55:19.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/other-sports/sachin-siwach-preeti-pawar-eye-asian-games-gold-after-record-breaking-boxing-medal-haul-at-cwg-2026/article71306998.ece",
     "time": "2026-08-04T20:00:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "FIFA executive Arsene Wenger backs decision to drop Gianni Infantino's World Cup sell-off plan",
+    "desc": "Wenger's statement on the controversy came after a letter from UEFA's lawyers to Infantino threatening legal action named the French coaching great among 18 executives whose data and communications should be retained as potential evidence",
+    "img": "https://th-i.thgim.com/public/incoming/rh70jp/article71306994.ece/alternates/LANDSCAPE_1200/2026-07-18T180351Z_1307248439_UP1EM7I1E6E56_RTRMADP_3_SOCCER-WORLDCUP-FIFA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/fifa-executive-arsene-wenger-backs-decision-to-drop-gianni-infantinos-world-cup-sell-off-plan/article71306991.ece",
+    "time": "2026-08-04T19:49:14.000Z"
   }
 ];
