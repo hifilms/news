@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Travis Head just beats Alex Carey to win Allan Border Medal, only fifth player to retain prestigious award",
+    "desc": "Australia all-rounder Travis Head claimed a second consecutive Allan Border Medal during Cricket Australia's delayed annual awards ceremony in Brisbane. The white-ball opener finished on 153 votes to secure Australian cricket's highest individual honour, just...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/travis-head-just-beats-alex-carey-to-win-allan-border-medal-only-fifth-player-to-retain-prestigious-award-2026-08-07-1050693",
+    "time": "2026-08-07T11:39:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Is Kolkata ready to host star-studded Brazil after Lionel Messi fiasco, which led to arrest of organiser?",
+    "desc": "Kolkata is set to host one of the most significant fixtures in Indian football history on October 3 after the All India Football Federation (AIFF) secured West Bengal government's backing for an international friendly between...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/is-kolkata-ready-to-host-star-studded-brazil-after-lionel-messi-fiasco-which-led-to-arrest-of-organiser-2026-08-07-1050677",
+    "time": "2026-08-07T10:46:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ajinkya Rahane joins Steve Waugh's ETPL franchise a week after announcing retirement",
+    "desc": "Former India cricketer Ajinkya Rahane announced his retirement from all forms of cricket on July 30. A week later, he signed for Amsterdam Flames as a marquee player for the inaugural European T20 Premier League...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ajinkya-rahane-joins-steve-waugh-s-etpl-franchise-a-week-after-announcing-retirement-2026-08-07-1050671",
+    "time": "2026-08-07T10:10:13.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "AFA president opens up on Lionel Messi's future with the national team after FIFA World Cup heartbreak",
     "desc": "The FIFA World Cup 2026 ended in heartbreak for 2022 champions Argentina and their ace Lionel Messi. Throughout the tournament, Argentina survived several close calls but managed to make it to the final of the...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/where-to-watch-india-vs-sri-lanka-cricket-xi-tour-match-live-on-tv-and-stream-online-in-india-2026-08-07-1050621",
     "time": "2026-08-07T02:46:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer opens up on 'unfair' treatment of Abhimanyu Easwaran ahead of IND vs SL Tests",
-    "desc": "The Indian team is all set to take on Sri Lanka in a two-game Test series. The two sides will take on each other in the first Test of the series at the Galle International...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-opens-up-on-unfair-treatment-of-abhimanyu-easwaran-ahead-of-ind-vs-sl-tests-2026-08-07-1050615",
-    "time": "2026-08-07T01:39:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mehidy Hasan Miraz smacks unbeaten century vs CA XI ahead of Bangladesh's marquee series vs Australia",
-    "desc": "Bangladesh all-rounder Mehidy Hasan Miraz played a scintillating knock against Cricket Australia XI in Darwin ahead of the Test series. He smacked an unbeaten century to guide his side out of trouble on the opening...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mehidy-hasan-miraz-smacks-unbeaten-century-vs-ca-xi-ahead-of-bangladesh-s-marquee-series-vs-australia-2026-08-06-1050610",
-    "time": "2026-08-06T18:11:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Viswanathan Anand confirms to run for FIDE deputy president role after backing out initially",
-    "desc": "Five-time world champion Viswanathan Anand has confirmed that he will contest for the post of FIDE deputy president in the governing body's upcoming elections. Earlier, he had said he would stay away from the race...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/viswanathan-anand-confirms-to-run-for-fide-deputy-president-role-after-backing-out-initially-2026-08-06-1050608",
-    "time": "2026-08-06T17:47:47.000Z"
   }
 ];

@@ -1,5 +1,68 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "ઇન્ટરનેશનલ ક્રિકેટમાંથી નિવૃત્તિ લીધા બાદ હવે આ ટીમ માટે રમશે અજિંક્ય રહાણે, મોટી ડીલ કરી સાઈન",
+    "desc": "અજિંક્ય રહાણેએ હાલમાં જ ઇન્ટરનેશનલ ક્રિકેટમાંથી નિવૃત્તિ લીધી છે. હવે થોડા જ દિવસો બાદ તેમણે મોટો નિર્ણય લીધો અને પહેલીવાર યોજાઈ રહેલી વિદેશી લીગમાં રમવાનો નિર્ણય કર્યો. રહાણે સિવાય દુનિયાના અનેક સ્ટાર ખેલાડીઓ આ લીગમાં ભાગ લેવાના છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/after-retiring-from-international-cricket-ajinkya-rahane-will-now-play-for-this-team-signed-a-big-deal-487028 ",
+    "time": "2026-08-07T12:32:43.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "TATAની મોટી તૈયારી! લાવી રહી છે 6 એરબેગ્સ અને 360 ડિગ્રી કેમેરાવાળી સસ્તી કાર, જાણો",
+    "desc": "ટાટા ટિયાગો ફેસલિફ્ટ પછી, કંપની બીજી કાર માટે ફેસલિફ્ટની યોજના બનાવી રહી છે. ટાટા આ કારને તહેવારોની સીઝન પહેલા લોન્ચ કરે તેવી અપેક્ષા છે. અમે કંપનીની એકમાત્ર સેડાન ટાટા ટિગોર ફેસલિફ્ટ વિશે વાત કરી રહ્યા છીએ. કારના આંતરિક અને બાહ્ય ભાગમાં ઘણા ફેરફારો જોવા મળે તેવી શક્યતા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/tata-big-preparation-it-is-bringing-a-cheap-car-with-6-airbags-and-360-degree-camera-know-487027 ",
+    "time": "2026-08-07T12:28:27.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ખુલવા જઈ રહ્યો છે ભારતનો ₹31500000 કરોડનો સોનાનો ખજાનો, સોનાના વ્યાપારમાં બદલાશે મોટો ખેલ!",
+    "desc": "ભારતીય ઘરોમાં 31000 ટનથી વધુ રેકોર્ડ વગરનું સોનું પડેલું છે. જો ઘરેલું સોનાનો 5% ભાગ અર્થતંત્રમાં સામેલ કરવામાં આવે, તો ભારતના આયાત બિલમાં 90 અબજ ડોલરનો ઘટાડો થશે. Gen Z આ સોનાના બજારમાં મોટો ફેરફાર લાવવા માટે તૈયાર છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/indias-gold-treasure-worth-rs-31500000-crore-is-about-to-be-opened-a-big-game-will-change-in-the-gold-business-487024 ",
+    "time": "2026-08-07T11:25:29.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ઓબામાથી લઈને રાહુલ ગાંધી સુધી... આખરે શું છે &amp;#039;Ask Me Anything&amp;#039;, યુવાનો સાથે સીધા જોડાવા માટે નેતાઓનું બન્યું નવું હથિયાર",
+    "desc": "રાહુલ ગાંધીના ઇન્સ્ટાગ્રામ AMA સેશન બાદ સોશિયલ મીડિયા પર ડિજિટલ વાતચીતનો ટ્રેન્ડ શરૂ થયો છે. ઓબામાથી લઈને એલન મસ્ક સુધીના દિગ્ગજો તેનો ઉપયોગ કરી ચૂક્યા છે. જાણો આખરે શું છે આ Ask Me Anything ફોર્મેટ અને તેની પૂરી કહાની.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/from-obama-to-rahul-gandhi-what-is-ask-me-anything-with-which-big-world-leaders-are-joining-487022 ",
+    "time": "2026-08-07T11:23:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "કરજ ચુકવવા C ગ્રેડ ફિલ્મોમાં કામ કર્યું, આજે પણ થાય છે અફસોસ, વર્ષો પછી છલકાયું સુષ્મિતા મુખર્જીનું દુ:ખ",
+    "desc": "એક્ટ્રેસ સુષ્મિતા મુખર્જી એક સમયે કરજમાં એટલા ડુબી ગયા હતા કે લોકો વસુલી કરવા તેમના ઘર સુધી આવવા લાગ્યા હતા. આવા સમયે તેમણે મજબૂરીમાં સી ગ્રેડ ફિલ્મો કરી અને પોતાના પતિ પર ચઢેલું કરજ ચુકવ્યું હતું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/actress-sushmita-mukherjee-worked-in-c-grade-movies-to-clear-crore-rupees-debt-487017 ",
+    "time": "2026-08-07T10:19:29.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "1 શેર પર 1 ફ્રી Bonus Share! આ સ્મોલકેપ કંપનીએ રોકાણકારોને આપી ખુશખબર, 1 મહિનામાં સ્ટોક 50% ઊછળ્યો",
+    "desc": "ચાવડા ઇન્ફ્રાએ પોતાના રોકાણકારો માટે બોનસ શેરની જાહેરાત કરી છે. રેકોર્ડ ડેટ પર એક શેર રાખનાર રોકાણકારોને એક વધારાનો શેર ફ્રી મળશે. આ સિવાય કંપનીએ ઓથોરાઇઝ્ડ શેર કેપિટલ દબલ કરવાને પણ મંજૂરી આપી છે. એક મહિનામાં કંપનીના શેરની કિંમતમાં 50 ટકાથી વધુની તેજી આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/chavda-infra-shares-jump-50-in-1-month-as-company-approves-11-bonus-issue-for-investors-487016 ",
+    "time": "2026-08-07T10:17:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "LPG સિલિન્ડરમાં કેટલો વધ્યો છે ગેસ? જાણવા માટે અજમાવી જુઓ આ 2 સરળ ટ્રિક",
+    "desc": "જો તમે એલપીજી સિલિન્ડર ભોજન તૈયાર કરવા માટે વાપરતા હોવ અને તમને સતત બાટલો ક્યારે ખતમ થઈ જશે તે ચિંતા સતાવતી હોય તો અમે તમને એવી 2 ટ્રિક જણાવીશું જેના દ્વારા તમે બાટલો કેટલો પત્યો તે અંગે જાણી શકશો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/how-much-gas-is-left-in-an-lpg-cylinder-2-simple-tricks-to-know-487014 ",
+    "time": "2026-08-07T09:59:33.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "આ વીકેન્ડમાં મળશે ભરપુર મનોરંજન, 7 ઓગસ્ટે ઓટીટી પર રિલીઝ થયેલી નવી ફિલ્મો અને વેબ સીરીઝનું જોઈ લો લિસ્ટ",
     "desc": "આ વીકેન્ડ પર ઓટીટી પ્લેટફોર્મસ પર જોવા માટે ઘણું બધું છે. બોલીવુડ ફિલ્મોથી લઈ કે ડ્રામા સુધી બધું જ આ વીકેન્ડમાં જોવા મળશે. શનિ-રવિની રજામાં તમે ઓટીટી પર કઈ ફિલ્મ કે વેબ સીરીઝ જોશો તે નક્કી કરો આ લિસ્ટ ચેક કરીને.",
@@ -351,15 +414,6 @@ const newsData_gu = [
     "time": "2026-08-05T13:46:38.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ભારત સરકાર સામે ઝૂક્યા માર્ક ઝુકરબર્ગ, ડીપફેક અને કન્ટેન્ટમાં ગડબડ મામલે માંગી માફી",
-    "desc": "મેટાના સીઈઓ માર્ક ઝુકરબર્ગે ફેસબુક અને ઇન્સ્ટાગ્રામ પર બાળ યૌન શોષણ કન્ટેન્ટ અને ડીપફેક વીડિયો માટે જાહેરમાં માફી માંગી છે. કંપનીએ તેના અલ્ગોરિધમમાં ગંભીર ખામીઓ સ્વીકારી અને કહ્યું કે પૈસા લઈને ખાસ કન્ટેન્ટ બુસ્ટ કરવામાં આવ્યું હતું. ઝુકરબર્ગે ખાતરી આપી છે કે આ અંગે કડક પગલાં લેવામાં આવી રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/mark-zuckerberg-apologized-for-the-csam-and-deepfake-video-content-486830 ",
-    "time": "2026-08-05T12:23:19.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "માત્ર AC નહીં, ઘરમાં રહેલા આ 5 ગેજેટ્સ પણ ચુપચાપ વધારી રહ્યા છે વીજ બિલ, એકનો તો દરરોજ થાય છે ઉપયોગ",
     "desc": "મોટાભાગના લોકો એવું વિચારે છે કે ઘરમાં ફક્ત AC જ વીજ બિલ વધારે છે. જો કે, ગીઝર, હેર ડ્રાયર અને ઇન્ડક્શન કુકટોપ જેવા નાના ગેજેટ્સમાં પણ AC કરતા વધુ વોટેજ રેટિંગ હોય છે. આ દરેક ગેજેટ્સ કેટલી વીજળી વાપરે છે તેના વિશે આ લેખમાં જાણીશું.",
@@ -495,15 +549,6 @@ const newsData_gu = [
     "time": "2026-08-04T15:31:38.000Z"
   },
   {
-    "cat": "Business",
-    "title": "UPI અને ડિજિટલ પેમેન્ટ પર લાગી શકે છે ચાર્જ ! 6 વર્ષ પછી MDRની વાપસી, સરકાર લાવી નવું બિલ",
-    "desc": "સરકાર પેમેન્ટ એક્ટમાં સુધારો કરવા માટે એક નવું બિલ લાવી રહી છે. નાણા મંત્રાલય આ બિલ સંસદમાં રજૂ કરવા જઈ રહી છે. જો આ બિલ પસાર થાય છે, તો UPI અને ડિજિટલ પેમેન્ટ પર MDR (મર્ચન્ટ ડિસ્કાઉન્ટ રેટ)ની ફરીથી વાપસી થઈ શકે છે અને ડિજિટલ પેમેન્ટ પર ચાર્જ લાગી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/will-upi-payments-stop-being-free-govt-bill-signals-return-of-mdr-on-upi-486744 ",
-    "time": "2026-08-04T13:26:45.000Z"
-  },
-  {
     "cat": "World",
     "title": "પાકિસ્તાનમાં થવા જઈ રહ્યો છે તખ્તાપલટ ? ઇસ્લામાબાદ કરાયું સીલ! આસિમ મુનીરે ખેલ્યો મોટો દાવ",
     "desc": "પાકિસ્તાનમાં સત્તા પલટાની અટકળો વચ્ચે ઇસ્લામાબાદના અનેક વિસ્તારો કન્ટેનરોથી સીલ કરાયા છે. ગૃહમંત્રી મોહસિન નકવીએ દેશના સૌથી મોટા કૌભાંડ અને શાસન વ્યવસ્થા ધ્વસ્ત થવાનો દાવો કર્યો છે. આ નિવેદનોથી રાજકીય તણાવ વધ્યો છે. ત્યારે આગામી સમયમાં પારિસ્તાનમાં મોટી ઉથલપાથલ થવાના સંકેતો દેખાઈ રહ્યા છે.",
@@ -511,15 +556,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/pakistan-coup-rumours-islamabad-sealed-with-containers-asim-munir-486747 ",
     "time": "2026-08-04T12:50:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "શ્રીલંકા પ્રવાસ માટે ટીમ ઈન્ડિયા સાથે નહીં જાય સ્ટાર બેટ્સમેન ! ફિટનેસ અંગે ચોંકાવનારું અપડેટ",
-    "desc": "ટીમ ઈન્ડિયા આજે એટલે કે 4 ઓગસ્ટના રોજ શ્રીલંકા પ્રવાસ માટે રવાના થવાની તૈયારીમાં છે. જો કે, અહેવાલો છે કે આ સ્ટાર બેટ્સમેન ટીમ સાથે મુસાફરી કરશે નહીં. તેની ફિટનેસ અંગે એક ચોંકાવનારું અપડેટ સામે આવ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-sl-sai-sudharsan-not-travel-team-india-for-sri-lanka-tour-reports-486728 ",
-    "time": "2026-08-04T09:56:32.000Z"
   },
   {
     "cat": "Entertainment",
@@ -691,32 +727,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/sambhavna-seth-issue-with-house-help-set-all-night-in-police-station-now-shared-video-486270 ",
     "time": "2026-07-31T07:15:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "હવે તમે લેપટોપ કે PC પર WhatsAppથી પણ કરી શકશો વીડિયો કોલ, કંપનીએ એક સાથે લોન્ચ કર્યા અનેક ફીચર્સ",
-    "desc": "WhatsApp વેબ પર હવે વીડિયો અને ઓડિયો કોલિંગ સુવિધા શરૂ થઈ ગઈ છે, એટલે હવે તમે લેપટોપ કે PC પર WhatsAppથી પણ વીડિયો કોલ કરી શકશો. નવા અપડેટમાં ગ્રુપ કોલ કંટ્રોલ, સારી વીડિયો ક્વોલિટી અને સ્પષ્ટ ઓડિયો માટેના ફીચર્સ આપવામાં આવ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/whatsapp-web-audio-video-calling-and-many-features-launched-486196 ",
-    "time": "2026-07-30T09:49:30.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "BS-3 વાહનોમાં E20 પેટ્રોલની અસર: કેટલો આવશે ખર્ચ અને ક્યા પાર્ટ્સ બદલવા પડશે? જાણો ઓટો એક્સપર્ટ્સનું ગણિત",
-    "desc": "શું E20 પેટ્રોલનો ઉપયોગ કરવાથી માઇલેજ પર અસર થાય છે? ઈ20 પેટ્રોલને કારણે વાહનો ખરાબ થાય છે? ઈ20 પેટ્રોલના ઉપયોગથી શું વાહનોના પાર્ટ્સ ખરાબ થાય છે? લોકોના મનમાં આ સવાલો ચાલી રહ્યાં છે. આ વચ્ચે કેન્દ્રીય મંત્રી નીતિન ગડકરીએ સંસદમાં જણાવ્યું કે ઈ20 પેટ્રોલને કારણે BS3 વાહનોમાં રબરના પાર્ટ્સ ખરાબ થઈ શકે છે. આવો જાણીએ વિશે ઓટો એક્સપર્ટે મહત્વની જાણકારી આપી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/nitin-gadkari-clarifies-e20-petrol-impact-on-bs-3-vehicles-in-parliament-engine-safe-minor-parts-may-need-replacement-486188 ",
-    "time": "2026-07-30T08:23:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "મંત્રમુગ્ઘ કરી દેશે રામાયણની પહેલી ઝલક, રણબીર કપૂર, સાંઈ પલ્લવી સ્ટારર રામાયણ ફિલ્મનું ટ્રેલર રિલીઝ",
-    "desc": "જે ટ્રેલર જોવા માટે લોકો આતુર હતા તે રામાયણ ફિલ્મનું ટ્રેલર રિલીઝ થઈ ગયું છે. 30 જુલાઈ 2026 ના રોજ ફિલ્મનું ટ્રેલર રિલીઝ કરી દેવામાં આવ્યું છે અને આ ટ્રેલર ખરેખર ભવ્ય અને દમદાર છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/ramayana-trailer-watch-here-ranbir-kapoor-yash-ramayana-movie-trailer-trending-486151 ",
-    "time": "2026-07-30T01:21:46.000Z"
   }
 ];
