@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "তৃষার সঙ্গে সম্পর্কে ইতি? বিচ্ছেদের মামলা প্রত্যাহার স্ত্রী সঙ্গীতার, স্বস্তিতে মুখ্যমন্ত্রী বিজয়",
+    "desc": "তামিলনাড়ুর মুখ্যমন্ত্রী সি জোসেফ বিজয় ও তাঁর স্ত্রী সঙ্গীতার বিবাহবিচ্ছেদের মামলায় বড় মোড়! শুক্রবার ভিডিও কনফারেন্সের মাধ্যমে আদালতে নিজের আবেদন আনুষ্ঠানিকভাবে প্রত্যাহার করে নিলেন সঙ্গীতা। দীর্ঘদিনের ব্যক্তিগত টানাপোড়েনের পর এই সিদ্ধান্ত বিজয় ও তাঁর সমর্থকদের জন্য এক বড় স্বস্তি।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/tn-cm-vijay-wife-sangeetha-withdraws-divorce-case-chengalpattu-court_665927.html ",
+    "time": "2026-08-07T17:23:41.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "যন্তর মন্তরের পর এবার দেশজুড়ে ঘাঁটি শক্ত করছে CJP, শীর্ষ নেতৃত্বের পূর্ণাঙ্গ তালিকা প্রকাশ!",
     "desc": "প্রশ্নপত্র ফাঁসের বিরুদ্ধে আন্দোলন করে চর্চায় আসা 'কাকরোচ জনতা পার্টি' তাদের জাতীয় কমিটি ঘোষণা করেছে। ৩০ বছর বয়সী প্রতিষ্ঠাতা অভিজিৎ দীপকে হয়েছেন জাতীয় আহ্বায়ক। এখনই কোনও রাজনৈতিক দল না হলেও, আগামী ৬ মাসে দেশজুড়ে রাজ্য ও শহরভিত্তিক ইউনিট গঠন এবং বিনামূল্যে অনলাইন সদস্য সংগ্রহের মাধ্যমে তারা তৃণমূল স্তরে কাজ বাড়াবে।",
@@ -313,15 +322,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/sanjay-dutt-on-sunil-dutts-tough-choice-as-nargis-lay-in-a-coma-couldnt-understand-why_664768.html ",
     "time": "2026-07-31T04:43:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "বাদশার সঙ্গে চরম টানাপোড়েন? 'কিচ্ছু ঠিক নেই... ক্ষমতার ভয়ে চুপ ছিলাম', তোলপাড় ফেলা স্বীকারোক্তি ইশার",
-    "desc": "র‍্যাপার বাদশার সঙ্গে বিচ্ছেদের গুঞ্জনের মাঝেই নীরবতা ভাঙলেন স্ত্রী ইশা রিখি! ইনস্টাগ্রামে বিস্ফোরক পোস্ট লিখে জানালেন, স্বামীর ক্ষমতা ও প্রতিপত্তির ভয়েই এতদিন মুখ খোলেননি তিনি। ইশার দাবি, এই নীরবতা মেনে নেওয়া ছিল না, ছিল বেঁচে থাকার লড়াই। আর ‘সব ঠিক আছে’ বলে অভিনয় করতে রাজি নন তিনি।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/amid-separation-rumours-badshahs-wife-isha-rikhi-breaks-silence-with-emotional-note-felt-overwhelmed-by-my-husbands-power_664725.html ",
-    "time": "2026-07-30T13:34:07.000Z"
   },
   {
     "cat": "Business",

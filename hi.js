@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Pakistan bans young cricketer Hamza Nazar for two years for disciplinary regulations",
+    "desc": "Pakistan Cricket Board (PCB) has suspended young all-rounder Hamza Nazar for two years after an inquiry found that he provided misleading information and failed to disclose important details during a visa application process. The ban prevents...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-bans-young-cricketer-hamza-nazar-for-two-years-for-disciplinary-regulations-2026-08-07-1050730",
+    "time": "2026-08-07T17:55:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Emilio Gay suffers shoulder injury, remains doubtful for Pakistan Tests as England seek replacement options",
+    "desc": "England's preparations for the Test series against Pakistan have been hit by uncertainty after opener Emilio Gay suffered a right shoulder injury while playing for Durham in the One-Day Cup clash against Middlesex. His injury...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/emilio-gay-suffers-shoulder-injury-remains-doubtful-for-pakistan-tests-as-england-seek-replacement-options-2026-08-07-1050727",
+    "time": "2026-08-07T17:15:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sri Lanka Cricket announces free tickets for marquee Test series against India",
+    "desc": "Sri Lanka Cricket (SLC) has announced free tickets to selected sections for the upcoming two-Test World Test Championship series against India. The first Test will be played at the Galle International Cricket Stadium from August...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sri-lanka-cricket-announces-free-tickets-for-marquee-test-series-against-india-2026-08-07-1050726",
+    "time": "2026-08-07T16:31:35.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "When and where to watch CPL 2026 live on TV and stream online in India?",
     "desc": "The 2026 Caribbean Premier League (CPL) is set to begin on September 8, as per Indian Standard Time, with an expanded seven-team competition. The 14th edition of the tournament will run until September 20, featuring...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/afa-president-opens-up-on-lionel-messi-s-future-with-the-national-team-after-fifa-world-cup-heartbreak-2026-08-07-1050664",
     "time": "2026-08-07T09:11:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Manav Suthar feel the pressure ahead of his debut tour for India? Former cricketer opines",
-    "desc": "India and Sri Lanka are all set to take on each other in an upcoming two-game Test series. The two sides will meet at the Galle International Stadium on August 15th for the first Test,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-manav-suthar-feel-the-pressure-ahead-of-his-debut-tour-for-india-former-cricketer-opines-2026-08-07-1050659",
-    "time": "2026-08-07T08:22:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer reflected on Hardik Pandya's trade rumours ahead of IPL 2027",
-    "desc": "The IPL (Indian Premier League) 2027 is looming on the horizon, and ahead of the start of the tournament next year, there have been several rumours of potential trades between the franchises flying around. One...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-reflected-on-hardik-pandya-s-trade-rumours-ahead-of-ipl-2027-2026-08-07-1050648",
-    "time": "2026-08-07T07:24:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'His time will come': Brendon McCullum throws weight behind Harry Brook for Test captaincy in the future",
-    "desc": "England cricket is undergoing massive changes, especially in Test cricket. With the retirement of Ben Stokes from international cricket, the side is looking for its next skipper in Test cricket, and with Joe Root taking...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/his-time-will-come-brendon-mccullum-throws-weight-behind-harry-brook-for-test-captaincy-in-the-future-2026-08-07-1050641",
-    "time": "2026-08-07T06:22:49.000Z"
   }
 ];

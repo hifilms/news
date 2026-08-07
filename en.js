@@ -1,21 +1,201 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Kerala High Court stays MG University Vice-Chancellor’s order withdrawing funds for conference citing ‘cockroach’ image on poster",
-    "desc": "A petition filed by the union sought to quash the Vice-Chancellor’s order for recovery of funds from them and to declare that the disputed posters had not violated any provisions of the Students’ Code of Conduct Rules, 2005",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-stays-mg-university-vice-chancellors-order-withdrawing-funds-for-conference-citing-cockroach-image-on-poster/article71318718.ece",
-    "time": "2026-08-07T15:50:00.000Z"
+    "title": "Iltija faces FIR, questioning over 'assault' on cop, accuses police of manhandling; Omar calls it 'fixed match'",
+    "desc": "Omar Abdullah, J&K chief minister, labeled the Iltija Mufti incident a contrived event, alleging that agencies are working to bolster the PDP's tarnished political standing. Iltija Mufti faced interrogation regarding an alleged attack on a police officer, asserting that she experienced rough treatment by police during a protest. She emphasised that her struggles represent the desires of all Kashmiris, rather than being a personal crusade.",
+    "img": "https://static.toiimg.com/photo/msid-133040880,imgsize-82476.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/iltija-faces-fir-questioning-over-assault-on-cop-accuses-police-of-manhandling-omar-calls-it-fixed-match/articleshow/133040872.cms",
+    "time": "2026-08-07T18:33:15.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Class VIII student electrocuted at tribal welfare school in Eluru district",
-    "desc": "Kechhala Shiva Parvathi, 13, was drying clothes on an iron window grille when a power cable fell on it, students said; ITDA and Tribal Welfare officials visited the school, and the police have registered a case",
-    "img": "https://th-i.thgim.com/public/incoming/o5epjn/article71286853.ece/alternates/LANDSCAPE_1200/iStock-523699180.jpg",
+    "title": "Police put up posters of Lashkar commander across J&amp;K, declare Rs 15L reward",
+    "desc": "Authorities are on the hunt for Lashkar commander Mohammad Lateef Bhat throughout Kashmir and Jammu, offering a significant cash reward for information that can lead to his capture. Bhat has been linked to the targeted murders of a police officer and two migrants. In a separate incident, an SUV attempted to run over officers at a Ramban checkpoint, resulting in one arrest after the vehicle was seized.",
+    "img": "https://static.toiimg.com/photo/msid-133040871,imgsize-123750.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/police-put-up-posters-of-lashkar-commander-across-jk-declare-rs-15l-reward/articleshow/133040695.cms",
+    "time": "2026-08-07T18:30:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Centre reissues notification on Western Ghats eco-sensitive zone amid deadlock with States",
+    "desc": "Govt. yet to resolve long-standing differences with the six Western Ghats States over the villages and regions that should be included within the zone; States apprehensive about the impact of the notification on farming, infrastructure and other development activities",
+    "img": "https://th-i.thgim.com/public/incoming/gm55bo/article71277751.ece/alternates/LANDSCAPE_1200/Western_Ghats02.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/class-viii-student-electrocuted-at-tribal-welfare-school-in-eluru-district/article71316882.ece",
-    "time": "2026-08-07T15:49:34.000Z"
+    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/centre-reissues-notification-on-western-ghats-eco-sensitive-zone-amid-deadlock-with-states/article71277625.ece",
+    "time": "2026-08-07T18:25:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kochi Corporation among communicable disease hotspots",
+    "desc": "As many as 83 dengue cases, 78 hepatitis A cases and 26 H1N1 cases were reported within the Corporation limits between January and June; authorities intensify preventive measures, including source reduction, to curb the spread",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kochi-corporation-among-communicable-disease-hotspots/article71277748.ece",
+    "time": "2026-08-07T18:24:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Police conducts search ops, patrolling ahead of Independence Day in Jammu outskirts",
+    "desc": "The operation, carried out under the jurisdiction of police post Chowki Choura, covered the stretch from Gala to Thorni, including the villages of Miyari, Juthal and Amb, with the active participation of Village Defence Guard (VDG) members",
+    "img": "https://th-i.thgim.com/public/incoming/cwlfq0/article71319245.ece/alternates/LANDSCAPE_1200/20260807375L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/police-conducts-search-ops-patrolling-ahead-of-independence-day-in-jammu-outskirts/article71319230.ece",
+    "time": "2026-08-07T18:23:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tasmac begins online bookings, but shops see technical snags, long queues",
+    "desc": "Salespersons say problems with the billing machines disrupted regular counter sales; some customers who bought liquor online found bottles broken; the portal, which saw around 700 bookings as of Friday evening, also has a grievance section",
+    "img": "https://th-i.thgim.com/public/incoming/sg49dk/article71319143.ece/alternates/LANDSCAPE_1200/DSC_0261.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tasmac-begins-online-bookings-but-shops-see-technical-snags-long-queues/article71319066.ece",
+    "time": "2026-08-07T18:19:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Former Palani MLA moves High Court for CBI probe into fraudulent registration of math land",
+    "desc": "K.S.N. Venugopalu Senapathi says the investigation is conducted by the CB-CID, which is under the control of the Tamil Nadu government. Since the allegations themselves extend to Registration Department officials and possibly higher authorities, the probe by an agency under the control of the State does not inspire public confidence",
+    "img": "https://th-i.thgim.com/public/incoming/tbl8tc/article71278264.ece/alternates/LANDSCAPE_1200/TH26_SUNDAY-REPG9NGA5B7Q.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Madurai/former-palani-mla-moves-high-court-for-cbi-probe-into-fraudulent-registration-of-math-land/article71277490.ece",
+    "time": "2026-08-07T18:18:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Nellore district targets 50% green cover by 2047",
+    "desc": "District Collector directs all departments to collect details on vacant government lands for plantation, proposals for establishing school nurseries, areas for ‘Vanamahotsav’ plantations, sites for developing palm groves, and areas appropriate for ‘Great Green Wall’ initiative",
+    "img": "https://th-i.thgim.com/public/incoming/gu4evn/article71278070.ece/alternates/LANDSCAPE_1200/10745_28_7_2026_19_22_24_1_IMG_20260728_WA0052.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/nellore-district-targets-50-green-cover-by-2047/article71277563.ece",
+    "time": "2026-08-07T18:06:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "M.S. Swaminathan Research Foundation, civic bodies ink pact on solid waste management, public health project",
+    "desc": "Clean Land, Equitable Air & Resilience (CLEAR) is a four-year transdisciplinary action research programme, which aims to generate environmental and public health data to strengthen waste management systems and health system responses to waste-driven climate risks",
+    "img": "https://th-i.thgim.com/public/incoming/ww9y15/article71277880.ece/alternates/LANDSCAPE_1200/4871_28_7_2026_16_0_7_1_DSC_9558.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/ms-swaminathan-research-foundation-civic-bodies-ink-pact-on-solid-waste-management-public-health-project/article71277618.ece",
+    "time": "2026-08-07T18:06:26.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "‘We are not anyone’s proxy force’: Iranian Kurdish party",
+    "desc": "In an email interview with The Hindu, Rivar Abdanan, a spokesperson of PJAK and a member of the party’s Leadership Council, said PJAK would enter the war only if the ‘existence of the Kurdish people comes under threat’",
+    "img": "https://th-i.thgim.com/public/news/national/ienow8/article71276702.ece/alternates/LANDSCAPE_1200/Rivar%20Abdanan%202026-07-24%20at%2012.43.30%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/we-are-not-anyones-proxy-force-iranian-kurdish-party/article71276653.ece",
+    "time": "2026-08-07T17:23:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Blow up Messi with four bombs strapped to my body': Leaked file reveals World Cup threat",
+    "desc": "A leaked police dossier reportedly reveals Lionel Messi was the main target of multiple terror threats during the 2026 FIFA World Cup. The documents detail alleged bomb threats, stalking incidents and online abuse aimed at players, referees and officials, while also describing heightened security measures involving Cristiano Ronaldo and several other high-profile figures throughout the tournament.",
+    "img": "https://static.toiimg.com/photo/msid-133038682,imgsize-73044.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/blow-up-messi-with-four-bombs-strapped-to-my-body-leaked-police-file-reveals-alleged-world-cup-terror-plot/articleshow/133036749.cms",
+    "time": "2026-08-07T17:18:41.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Hero MotoCorp Q1 PAT down 16.86% at ₹1,417.93 crore",
+    "desc": "The previous year PAT included a one-time gain of ₹722 crore on account of dilution of the company's share of investment in associates consequent to public issue and private placement, Hero MotoCorp said in a statement",
+    "img": "https://th-i.thgim.com/public/incoming/xx3xy6/article71319140.ece/alternates/LANDSCAPE_1200/Hero-MotoCorp-mG1NG8GMNO.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/hero-motocorp-q1-pat-down-1686-at-141793-crore/article71319133.ece",
+    "time": "2026-08-07T17:14:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India counters China's 'map war', assigns official names to 27 Arunachal sites",
+    "desc": "India ahs onsistently rejected Beijing's practice of assigning Chinese names to places in Arunachal Pradesh, describing the exercise as \"vain and preposterous\". India has maintained that such actions do not change the \"undeniable\" fact that the state \"was, is, and will\" remain an integral part of the country. Several of the newly marked locations hold strategic importance because of their proximity to the Line of Actual Control (LAC).",
+    "img": "https://static.toiimg.com/photo/msid-133039144,imgsize-98473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-counters-chinas-map-war-assigns-official-names-to-27-arunachal-sites/articleshow/133038744.cms",
+    "time": "2026-08-07T17:13:32.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Revamp of Model Bilateral Investment Treaty in works, to be presented to Cabinet soon: Secy",
+    "desc": "\"The BIT is under review, and we are looking at many other clauses based on our experience in the negotiations and based on global practices...it is a work in progress. Consultations are underway, and we are reviewing the Model BIT,\" says Anuradha Thakur",
+    "img": "https://th-i.thgim.com/public/incoming/5vuq46/article71319125.ece/alternates/LANDSCAPE_1200/B3_RVM_6359.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/revamp-of-model-bilateral-investment-treaty-in-works-to-be-presented-to-cabinet-soon-secy/article71319094.ece",
+    "time": "2026-08-07T17:02:24.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Overall EV retail sales in July 2026 surge 66% to 3.28 lakh units",
+    "desc": "During the month electric two-wheelers retail sales crossed the two-lakh mark for the first time and surged to 204,362 units up 88% YoY. This segment achieved a market share of 11.2% as compared with a share of 7.7% a year ago. This segment was led by TVS Motor which retailed 55,499 units, up 135% YoY",
+    "img": "https://th-i.thgim.com/public/incoming/phq80j/article71319098.ece/alternates/LANDSCAPE_1200/2026-08-05T103904Z_1634514754_RC28SMA4J2ZW_RTRMADP_3_RIVER-MOBILITY-FUNDRAISING.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/overall-ev-retail-sales-in-july-2026-surge-66-to-328-lakh-units/article71318365.ece",
+    "time": "2026-08-07T16:51:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Stop buying petrol, diesel vehicles until govt clarifies stand': Arvind Kejriwal over E20 fuel concerns",
+    "desc": "Addressing a press conference in Goa, Kejriwal said, \"Till such a time, the government makes its intention clear, I appeal to the people to stop buying petrol and diesel vehicles. The government did not conduct any testing for E20 fuel.\"",
+    "img": "https://static.toiimg.com/photo/msid-133038600,imgsize-51684.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/stop-buying-petrol-diesel-vehicles-until-govt-clarifies-stand-arvind-kejriwal-over-e20-fuel-concerns/articleshow/133038569.cms",
+    "time": "2026-08-07T16:42:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Manchester City reject Barcelona's opening offer for Rodri",
+    "desc": "Manchester City have rejected Barcelona's opening £38.5 million bid for Rodri, valuing the Ballon d'Or-winning midfielder at over £60 million. With Rodri entering the final year of his contract, uncertainty over his future continues. Barcelona remain interested, while City are already exploring potential replacements if the Spain international departs.",
+    "img": "https://static.toiimg.com/photo/msid-133038291,imgsize-100468.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/manchester-city-reject-barcelonas-opening-offer-for-rodri-amid-transfer-uncertainty/articleshow/133038113.cms",
+    "time": "2026-08-07T16:20:48.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Onion, oil or chicken: What made your thali costlier in July",
+    "desc": "In July, the prices for home-cooked thalis surged compared to the previous year, with vegetarian options increasing by four percent and non-vegetarian increasing by nine percent. The rise in costs was driven by expensive onions, vegetable oil, and LPG for vegetarian meals, while non-vegetarian thalis were notably affected by higher broiler chicken prices. Nevertheless, the decline in potato and tomato prices somewhat alleviated these overall increases.",
+    "img": "https://static.toiimg.com/photo/msid-133038104,imgsize-272744.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/onion-oil-or-chicken-what-made-your-thali-costlier-in-july/articleshow/133037992.cms",
+    "time": "2026-08-07T16:10:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "\"Our top priority is pilgrims' safety\": Uttarakhand CM Dhami on Char Dham, Kanwar Yatra",
+    "desc": "Uttarakhand Chief Minister Pushkar Singh Dhami on Friday said that the Char Dham Yatra is being stopped intermittently, keeping in mind the safety of pilgrims as the state continues to face heavy rainfall and landslides.",
+    "img": "https://static.toiimg.com/photo/msid-133038073,imgsize-63710.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/our-top-priority-is-pilgrims-safety-uttarakhand-cm-dhami-on-char-dham-kanwar-yatra/articleshow/133038055.cms",
+    "time": "2026-08-07T16:07:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What a Sri Lanka series win could mean for India's WTC campaign",
+    "desc": "India are currently fifth in the WTC standings with a points percentage of 48.15, while Sri Lanka are sixth with 41.67. Both teams are still within reach of fourth-placed Bangladesh, who have a points percentage of 58.33.",
+    "img": "https://static.toiimg.com/photo/msid-133037684,imgsize-447331.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/currently-fifth-what-a-sri-lanka-series-win-could-mean-for-indias-wtc-campaign/articleshow/133037350.cms",
+    "time": "2026-08-07T15:57:30.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Shakib Al Hasan ready to return to Bangladesh, face trial if assured of security",
+    "desc": "If I get the clearance from the government ‌that my security will be ensured, I am happy to go back, face the court trial and everything that's needed to be done, says Bangladeshi cricket ​great Shakib Al Hasan",
+    "img": "https://th-i.thgim.com/public/incoming/jp9ri3/article71318884.ece/alternates/LANDSCAPE_1200/PTI09_30_2024_000225A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/bangladesh-cricketer-shakib-ready-to-return-to-bangladesh-face-trial-if-assured-of-security/article71318837.ece",
+    "time": "2026-08-07T15:50:24.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Nomura report tests ‘ground zero’; says AI creating more jobs in India than cuts",
+    "desc": "According to the report by Nomura Holdings Inc, AI-driven recruitment continues to be more than job losses in the country. Given the country's vast workforce, India is experiencing the \"largest absolute impact\" of AI across layoffs, hiring freezes and recruitment.",
+    "img": "https://static.toiimg.com/photo/msid-133037696,imgsize-791289.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/more-hirings-than-firings-nomura-report-tests-ground-zero-says-ai-creating-more-jobs-in-india-than-cuts/articleshow/133036953.cms",
+    "time": "2026-08-07T15:41:36.000Z"
   },
   {
     "cat": "Entertainment",
@@ -63,24 +243,6 @@ const newsData_en = [
     "time": "2026-08-07T15:23:34.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Andhra Ministers take anti-drug outreach to ASR district’s remote Paderu hamlet",
-    "desc": "Home Minister V. Anitha and Tribal Welfare Minister Gummadi Sandhya Rani visited Sappiputtu in Paderu mandal, distributed saplings and seeds of alternative crops, and said the government was working towards zero ganja cultivation in the tribal belt",
-    "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/hwhdku/article71276059.ece/alternates/LANDSCAPE_1200/Seed.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Visakhapatnam/andhra-ministers-take-anti-drug-outreach-to-asr-districts-remote-paderu-hamlet/article71275809.ece",
-    "time": "2026-08-07T15:09:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala HC gives State govt. two weeks to inform long-term measures taken after Kalladi debris slip",
-    "desc": "Court asks State to report on establishing a monitoring cell to oversee environmental clearance granted for construction activities, process for consulting area residents before a project is launched, and re-evaluation of project reports pending for more than three years",
-    "img": "https://th-i.thgim.com/public/incoming/nsisby/article71318457.ece/alternates/LANDSCAPE_1200/PTI07_12_2026_000485A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-hc-gives-state-govt-two-weeks-to-inform-long-term-measures-taken-after-kalladi-debris-slip/article71318259.ece",
-    "time": "2026-08-07T14:54:52.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "AITA caps upper age limit for EC members at 70",
     "desc": "A prospective EC member now has to be less than 70 years on the date of filing the nomination but can complete a full term of four years even if he or she turns 70 any time after",
@@ -88,15 +250,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/tennis/aita-caps-upper-age-limit-for-ec-members-at-70/article71318529.ece",
     "time": "2026-08-07T14:53:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SC directs Rajasthan to set up coordination group, river commission to restore polluted rivers",
-    "desc": "The directions come in a suo motu proceeding initiated in September 2025 after the Apex Court took cognisance of reports of extensive pollution in the Jojari, Bandi and Luni rivers flowing through Jodhpur, Pali and Balotra districts",
-    "img": "https://th-i.thgim.com/public/incoming/aljqjl/article71318112.ece/alternates/LANDSCAPE_1200/TH22-Aaratrika-G0CG9O3PA.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/sc-directs-rajasthan-to-set-up-coordination-group-river-commission-to-restore-polluted-rivers/article71317134.ece",
-    "time": "2026-08-07T14:50:44.000Z"
   },
   {
     "cat": "Business",
@@ -360,24 +513,6 @@ const newsData_en = [
     "time": "2026-08-07T10:48:17.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Former Nestle CMD Suresh Narayanan says India Inc needs to shed the ‘elite’ tag",
-    "desc": "Suresh Narayanan shares leadership lessons from his four-decade boardroom. He places trust, authenticity, and purpose as crucial elements, and challenges India's obsession with pedigree. He also reflects on the Maggi crisis and the importance of clear communication in crisis moments.",
-    "img": "https://static.toiimg.com/photo/msid-133029822,imgsize-151524.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/suresh-narayanans-leadership-book-signals-the-death-of-the-charismatic-ceo-urges-india-inc-to-shed-elitism-crutch/articleshow/133029822.cms",
-    "time": "2026-08-07T10:38:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'News, Spice Rani, He Ram': Names on police merit list triggers row in Chhattisgarh",
-    "desc": "According to the CGPSC, the candidates had appeared for document verification, physical tests and the preliminary examination under the same names. Former chief minister Bhupesh Baghel mocked the list after sharing it on X. \"The Public Relations Department should spend Rs 1 crore daily on advertisements to display this achievement at public intersections so that, in the coming days, 'Radio' and 'Space Raja' might also succeed in some examination.\"",
-    "img": "https://static.toiimg.com/photo/msid-133031049,imgsize-121456.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/news-spice-rani-he-ram-names-on-police-merit-list-triggers-row-in-chhattisgarh/articleshow/133030883.cms",
-    "time": "2026-08-07T10:31:41.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Rekha was fat when she joined movies, but the way she groomed herself..,' recalls her brother-in-law",
     "desc": "Tej Sapru, Rekha's brother-in-law, recently praised her remarkable self-transformation. He admired her discipline and determination to evolve as an actress. Sapru recalled Rekha's significant physical changes from her early career days. He also spoke about his relationship with Rekha's sister, Dhanalakshmi. Sapru expressed admiration for Rekha's elegance and talents observed on television.",
@@ -423,15 +558,6 @@ const newsData_en = [
     "time": "2026-08-07T09:38:14.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Avoid Lutyens web': PM Modi's advice to 45 NDA MPs at breakfast meet",
-    "desc": "\"No one should say anything trashy on TV. Maintain full dignity at all times. Engage actively in social media through Facebook, Instagram and X; interact with youth, inform government welfare work, encourage youth for sports activities.\" Modi advised the MPs to follow the party line and calmly present their views on every issue.",
-    "img": "https://static.toiimg.com/photo/msid-133029886,imgsize-216576.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/avoid-lutyens-web-anxiety-from-inside-house-pm-modis-advise-to-45-nda-mps-at-breakfast-meet/articleshow/133029487.cms",
-    "time": "2026-08-07T09:37:35.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'He was my sponsor': How Virat Kohli helped CWG gold medallist Sakshi Chaudhary",
     "desc": "Sakshi Chaudhary proudly claimed gold at the 2026 Commonwealth Games, attributing much of her success to the invaluable support from Virat Kohli's foundation. Making a strategic move to a lighter weight category turned out to be a winning decision. This endeavor led India to an impressive 2026 boxing tally of ten medals, including seven shining golds, marking a triumphant milestone for the nation's athletic representation.",
@@ -439,15 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/he-was-my-sponsor-how-virat-kohli-helped-cwg-gold-medallist-sakshi-chaudhary/articleshow/133029562.cms",
     "time": "2026-08-07T09:30:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Uttarakhand Forward 2.0",
-    "desc": "As Uttarakhand looks towards 2047, the focus is on reducing distress migration, creating opportunities closer to home and building infrastructure suited to its fragile Himalayan terrain. The long-term vision is to balance economic growth with sustainability while preparing Uttarakhand for the challenges of the decades ahead.",
-    "img": "https://static.toiimg.com/photo/msid-133029445,imgsize-81825.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/uttarakhand-forward-2-0-manoj-pant-maps-out-development-roadmap-to-2047/articleshow/133029230.cms",
-    "time": "2026-08-07T09:17:41.000Z"
   },
   {
     "cat": "Sports",
@@ -496,24 +613,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Real Madrid extend Vinicius Jr's contract until 2032",
-    "desc": "Real Madrid has successfully extended Vinicius Jr.'s contract until June 2032, concluding extensive discussions and warding off interest from rival clubs. The Brazilian forward has not only established himself as a pivotal player for the team but has also garnered numerous accolades throughout his career. This extension highlights Real Madrid's commitment to a strong offensive future, solidifying Vinicius's place at the heart of the club's ambitions.",
-    "img": "https://static.toiimg.com/photo/msid-133026387,imgsize-40820.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/375-games-128-goals-14-trophies-real-madrid-extend-vinicius-jrs-contract-until-2032/articleshow/133026242.cms",
-    "time": "2026-08-07T07:19:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan all-rounder Hamza banned for two years over misleading visa information",
-    "desc": "The Pakistan Cricket Board (PCB) has banned all-rounder Hamza Nazar from all forms of cricket for two years after finding that he provided misleading information during a visa application. The board also fined the youngster Rs 1 million, saying it takes cases of misrepresentation and non-disclosure very seriously. The decision was announced on Thursday following an internal inquiry.",
-    "img": "https://static.toiimg.com/photo/msid-133026057,imgsize-58684.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-all-rounder-hamza-nazar-banned-for-two-years-over-misleading-visa-information/articleshow/133026057.cms",
-    "time": "2026-08-07T07:08:42.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "From World champions to a side in panic mode",
     "desc": "Post the IPL, Indian cricket has been grabbed by a sense of despair and dismay. The bubble emphatically burst in Ireland when, against all odds and in an upset of gargantuan proportions, the home side stunned the Men in Blue 2-0 in a T20I series; the Sri Lanka tour will be a big test of Gill’s batsmanship and his man-management skills",
     "img": "https://th-i.thgim.com/public/sport/1121gz/article71315077.ece/alternates/LANDSCAPE_1200/TH07-GILL.jpg",
@@ -556,15 +655,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shubman-gill-suffers-finger-injury-kl-rahul-leads-india-on-day-1-of-warm-up-game-vs-slc-xi/articleshow/133021110.cms",
     "time": "2026-08-07T04:33:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "McCullum backs Root, vows to 'develop' Brook into England's next Test captain",
-    "desc": "Brendon McCullum endorses the decision to reappoint Joe Root as England's Test captain, expressing confidence in his leadership. He also hints that Harry Brook is destined to take on the captaincy role in the future. Meanwhile, Stephen Fleming has been named the new Test coach, expected to excel in guiding the squad, with Marcus Trescothick stepping in as interim coach until Fleming takes over.",
-    "img": "https://static.toiimg.com/photo/msid-133020953,imgsize-41920.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/brendon-mccullum-backs-joe-root-vows-to-develop-harry-brook-into-englands-next-test-captain/articleshow/133020644.cms",
-    "time": "2026-08-07T04:18:17.000Z"
   },
   {
     "cat": "Business",
@@ -774,24 +864,6 @@ const newsData_en = [
     "time": "2026-08-05T19:56:48.000Z"
   },
   {
-    "cat": "World",
-    "title": "Bangladesh pro-uprising groups turn on each other on second anniversary",
-    "desc": "Control of campuses has become a battleground for parties and students groups that led the July 2024 movement which ousted Sheikh Hasina and her government. Rights group says at least 17 people were killed in mob violence in July. Six were killed in political violence, a drop from nine in June",
-    "img": "https://th-i.thgim.com/public/incoming/xht7lb/article71310894.ece/alternates/LANDSCAPE_1200/20260707246L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/bangladesh-pro-uprising-groups-turn-on-each-other-on-second-anniversary/article71309789.ece",
-    "time": "2026-08-05T17:53:46.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Rupee gains 13 paise to close at 95.15 against U.S. dollar post-RBI policy decision",
-    "desc": "At the interbank foreign exchange, the rupee opened at 94.90 against the greenback and traded in a tight range of 94.89-95.25 during the session; it eventually settled at 95.15, higher by 13 paise from its previous close",
-    "img": "https://th-i.thgim.com/public/news/national/4m4m6i/article71309274.ece/alternates/LANDSCAPE_1200/iStock-1334438724.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/markets/rupee-gains-13-paise-to-close-at-9515-against-us-dollar-post-rbi-policy-decision/article71309248.ece",
-    "time": "2026-08-05T11:43:59.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "P.V. Sindhu launches Centre for Sports Excellence in Visakhapatnam",
     "desc": "What began as an initiative focused solely on badminton expanded into a multi-sport project following discussions with Chief Minister N. Chandrababu Naidu and will now cater to seven disciplines — badminton, table tennis, swimming, shooting, football, basketball and chess",
@@ -799,24 +871,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/pv-sindhu-centre-for-sports-excellence-foundation-visakhapatnam-andhra-pradesh-seven-sports-details-dates/article71309053.ece",
     "time": "2026-08-05T11:28:06.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Governor Sanjay Malhotra",
-    "desc": "“We are still at a pilot [stage]. We will test, check as to how they [the polymer notes] perform in the Indian condition, climate and other infrastructure we have put in place,” Sanjay Malhotra said",
-    "img": "https://th-i.thgim.com/public/incoming/1uzxkf/article71308724.ece/alternates/LANDSCAPE_1200/India_Economy_55_84.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/rbi-targeting-polymer-currency-notes-launch-in-early-fy28-sanjay-malhotra/article71308696.ece",
-    "time": "2026-08-05T09:50:15.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "SIAM withdraws earlier letter to Govt that had flagged chloride-related concerns with E20",
-    "desc": "In its earlier letter, auto industry SIAM had said that this kind of contamination had led to the corrosion of auto parts. However, in its clarification on Tuesday night, it said that its concerns had been addressed",
-    "img": "https://th-i.thgim.com/public/incoming/zdzb06/article71308413.ece/alternates/LANDSCAPE_1200/_JAI3341.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/siam-withdraws-earlier-letter-to-govt-that-had-flagged-chloride-related-concerns-with-e20/article71308212.ece",
-    "time": "2026-08-05T07:24:26.000Z"
   },
   {
     "cat": "Sports",
@@ -837,33 +891,6 @@ const newsData_en = [
     "time": "2026-08-05T04:35:22.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Football’s managerial carousel is up and running",
-    "desc": "Legendary midfielder Zidane takes over the French hot seat from Deschamps, Klopp has a huge responsibility with a floundering Germany, as does Mancini with recent under-achiever Italy while Jesus is tasked with guiding Portugal in its quest for the biggest prize",
-    "img": "https://th-i.thgim.com/public/incoming/4trl3j/article71306897.ece/alternates/LANDSCAPE_1200/2026-07-28T104900Z_1975321359_UP1EM7S0U1NIE_RTRMADP_3_SOCCER-FRANCE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/footballs-managerial-carousel-is-up-and-running/article71306890.ece",
-    "time": "2026-08-05T04:15:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sachin Siwach, Preeti Pawar eye Asian Games gold after record-breaking Boxing medal haul at CWG 2026",
-    "desc": "Speaking to ANI, Sachin, who secured a gold medal in the men's 60 kg final, said that seeing the national flag hoisted after the gold medal win is a \"different kind of happiness\" and a reason why they all play sport",
-    "img": "https://th-i.thgim.com/public/incoming/b3p2mz/article71307001.ece/alternates/LANDSCAPE_1200/PTI08_04_2026_000213B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/sachin-siwach-preeti-pawar-eye-asian-games-gold-after-record-breaking-boxing-medal-haul-at-cwg-2026/article71306998.ece",
-    "time": "2026-08-04T20:00:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "FIFA executive Arsene Wenger backs decision to drop Gianni Infantino's World Cup sell-off plan",
-    "desc": "Wenger's statement on the controversy came after a letter from UEFA's lawyers to Infantino threatening legal action named the French coaching great among 18 executives whose data and communications should be retained as potential evidence",
-    "img": "https://th-i.thgim.com/public/incoming/rh70jp/article71306994.ece/alternates/LANDSCAPE_1200/2026-07-18T180351Z_1307248439_UP1EM7I1E6E56_RTRMADP_3_SOCCER-WORLDCUP-FIFA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/fifa-executive-arsene-wenger-backs-decision-to-drop-gianni-infantinos-world-cup-sell-off-plan/article71306991.ece",
-    "time": "2026-08-04T19:49:14.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Australia defends teen social media ban after study shows most still online",
     "desc": "The eSafety study painted a sobering picture. It found that children aged 10 ‌to 15 were using social media just as frequently in March ​as they had before the ban came into force on December 10",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/australia-defends-teen-social-media-ban-after-study-shows-most-still-online/article71293555.ece",
     "time": "2026-08-01T05:56:03.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
   }
 ];
