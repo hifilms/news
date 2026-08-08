@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Lionel Messi's father, Jorge passes away at 68 after battling prolonged health problems",
+    "desc": "Jorge Messi, the father of legendary Argentine forward Lionel Messi has passed away at the age of 68. It is worth noting that Jorge had been battling health problems for quite some time, and during...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/lionel-messi-s-father-jorge-passes-away-at-68-after-battling-prolonged-health-problems-2026-08-08-1050794",
+    "time": "2026-08-08T14:02:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Andrew McDonald reflects on IPL's scheduling ahead of Australia's relentless run of matches",
+    "desc": "The Australian cricket team is all set for a hectic schedule; the side is all set to play 20 Test matches and 12 white-ball matches in the next 12 months. The side begins their run...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/andrew-mcdonald-reflects-on-ipl-s-scheduling-ahead-of-australia-s-relentless-run-of-matches-2026-08-08-1050790",
+    "time": "2026-08-08T13:24:03.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Jemimah Rodrigues ruled out of The Hundred 2026 due to injury, in doubt for upcoming Women's Asia Cup",
     "desc": "In a major blow, star India women’s batter Jemimah Rodrigues has been ruled out of The Hundred Women’s 2026. Representing Southern Brave in the tournament, it is worth noting that Rodrigues reportedly sustained a hamstring...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-requests-uttarakhand-cm-pushkar-singh-dhami-s-help-to-purchase-land-with-late-night-tweet-2026-08-08-1050742",
     "time": "2026-08-08T02:59:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Australia Test players be available for IPL 2027? Head coach hints at possible plan",
-    "desc": "Australia head coach Andrew McDonald has confirmed that the national team will have to make difficult decisions over the participation of their Test players in next year’s IPL as the team prepares for an exceptionally...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-australia-test-players-be-available-for-ipl-2027-head-coach-hints-at-possible-plan-2026-08-08-1050740",
-    "time": "2026-08-08T02:30:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Phoebe Litchfield breaks Shafali Verma's Women's Hundred record as Leeds beat Birmingham",
-    "desc": "Australia international Phoebe Litchfield broke Shafali Verma’s record for fastest half-century in Women’s Hundred history. Representing Sunrisers Leeds, Phoebe smacked a 20-ball half-century, helping her team register a comfortable nine-wicket win at Edgbaston. With that,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/phoebe-litchfield-breaks-shafali-verma-s-women-s-hundred-record-as-leeds-beat-birmingham-2026-08-08-1050738",
-    "time": "2026-08-08T01:58:48.000Z"
   }
 ];
