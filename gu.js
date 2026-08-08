@@ -1,12 +1,21 @@
 const newsData_gu = [
   {
     "cat": "World",
-    "title": "ભારત સહિત 5 દેશ પર 100 ટકા ટેરિફનો હથોડો ઝીંકશે અમેરિકા! રશિયા પર પ્રતિબંધ લગાવનારું બિલ સેનેટમાં પાસ",
+    "title": "ભારત સહિત 5 દેશ પર 100 ટકા ટેરિફનો હથોડો ઝીંકશે અમેરિકા? રશિયા પર પ્રતિબંધ લગાવનારું બિલ સેનેટમાં પાસ",
     "desc": "ભારત માટે એક માઠા સમાચાર આવ્યા છે. રશિયા પાસેથી ઓઈલની ખરીદી કરનારા દેશો પર લગામ કસવાની તૈયારીઓ થઈ રહી છે. અમેરિકી સેનેટે રશિયા અને તેના પાસેથી સૌથી વધુ ઉર્જા ખરીદનારા દેશો પર કાર્યવાહીવાળું બિલ 86-11 મતોથી પાસ કરી દીધુ છે. પ્રસ્તાવમાં રશિયા પાસેથી ઓઈલ-ગેસ ખરીદતા દેશો પર 100 ટકા ટેરિફની જોગવાઈ છે. બિલ હવે અમેરિકી પ્રતિનિધિ સભામાં જશે. મંજૂરી બાદ રાષ્ટ્રપતિ પાસે જશે. જાણો વિગતો.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/big-news-us-senate-passes-russian-energy-sanctions-bill-know-who-may-be-affected-487068 ",
-    "time": "2026-08-08T00:36:06.000Z"
+    "time": "2026-08-08T03:43:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ભોજપુરી સ્ટાર પવન સિંહ ફિલ્મમાં જબરદસ્તી કિસિંગ સીન કરાવે, ના કહો તો સેટ છોડી જતા રહે, એક્ટ્રેસ કાજલ રાઘવાનીનો આરોપ",
+    "desc": "રિયાલિટી શો ભોજપુરી બવાલનો એક પ્રોમો સોશિયલ મીડિયા પર વાયરલ થયો છે જેમાં એક્ટ્રેસ કાજલ રાઘવાની ભોજપુરી ઈંડસ્ટ્રી વિશે ચોંકાવનારા ખુલાસા કરી રહી છે. જેમાં તે એવું પણ કહે છે કે પવન સિંહ ફિલ્મમાં જબરદસ્તી કિસિંગ સીન એડ કરાવે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/reality-show-jio-hotstar-kajal-raghwani-said-pawan-singh-forcefully-add-kissing-scene-in-movies-487070 ",
+    "time": "2026-08-08T02:31:37.000Z"
   },
   {
     "cat": "World",
@@ -718,14 +727,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/powerful-range-of-128km-full-charge-for-less-than-rs-30-vida-launches-a-cool-new-electric-scooter-486356 ",
     "time": "2026-08-01T06:23:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "સંભાવના શેઠ ગરીબ યુવતીની મદદ કરવા જતા ફસાઈ, આખી રાત બેસવું પડ્યું પોલીસ સ્ટેશનમાં, વીડિયો શેર કરી જણાવી આપવીતી",
-    "desc": "સંભાવના શેઠ અને અવિનાશ દ્વિવેદીએ એક વીડિયો શેર કરી જણાવ્યું છે કે તેની કામવાળીના કારણે તેઓ મુસીબતમાં મુકાયા છે અને તેમણે આખી પોલીસ સ્ટેશનમાં પસાર કરવી પડી. આ સમગ્ર ઘટના શું છે ચાલો તમને વિસ્તારપૂર્વક જણાવીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/sambhavna-seth-issue-with-house-help-set-all-night-in-police-station-now-shared-video-486270 ",
-    "time": "2026-07-31T07:15:17.000Z"
   }
 ];

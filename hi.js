@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Rishabh Pant requests Uttarakhand CM Pushkar Singh Dhami's help to purchase land with late-night tweet",
+    "desc": "Star India cricketer Rishabh Pant has requested Uttarakhand Chief Minister Pushkar Singh Dhami to help him acquire land in the state. In a late-night tweet, the keeper-batter mentioned that he wants to move his base...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-requests-uttarakhand-cm-pushkar-singh-dhami-s-help-to-purchase-land-with-late-night-tweet-2026-08-08-1050742",
+    "time": "2026-08-08T02:59:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Australia Test players be available for IPL 2027? Head coach hints at possible plan",
+    "desc": "Australia head coach Andrew McDonald has confirmed that the national team will have to make difficult decisions over the participation of their Test players in next year’s IPL as the team prepares for an exceptionally...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-australia-test-players-be-available-for-ipl-2027-head-coach-hints-at-possible-plan-2026-08-08-1050740",
+    "time": "2026-08-08T02:30:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Phoebe Litchfield breaks Shafali Verma's Women's Hundred record as Leeds beat Birmingham",
+    "desc": "Australia international Phoebe Litchfield broke Shafali Verma’s record for fastest half-century in Women’s Hundred history. Representing Sunrisers Leeds, Phoebe smacked a 20-ball half-century, helping her team register a comfortable nine-wicket win at Edgbaston. With that,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/phoebe-litchfield-breaks-shafali-verma-s-women-s-hundred-record-as-leeds-beat-birmingham-2026-08-08-1050738",
+    "time": "2026-08-08T01:58:48.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "FIFA president Gianni Infantino faces fresh scrutiny over payment linked to alleged affair",
     "desc": "FIFA president Gianni Infantino is facing renewed scrutiny over his time at UEFA. On Friday, August 7, Europe’s governing body confirmed that a departure payment was made to a woman who was alleged to have...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-begins-training-for-duleep-trophy-big-red-ball-test-awaits-him-2026-08-07-1050709",
     "time": "2026-08-07T13:32:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Travis Head just beats Alex Carey to win Allan Border Medal, only fifth player to retain prestigious award",
-    "desc": "Australia all-rounder Travis Head claimed a second consecutive Allan Border Medal during Cricket Australia's delayed annual awards ceremony in Brisbane. The white-ball opener finished on 153 votes to secure Australian cricket's highest individual honour, just...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/travis-head-just-beats-alex-carey-to-win-allan-border-medal-only-fifth-player-to-retain-prestigious-award-2026-08-07-1050693",
-    "time": "2026-08-07T11:39:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Is Kolkata ready to host star-studded Brazil after Lionel Messi fiasco, which led to arrest of organiser?",
-    "desc": "Kolkata is set to host one of the most significant fixtures in Indian football history on October 3 after the All India Football Federation (AIFF) secured West Bengal government's backing for an international friendly between...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/is-kolkata-ready-to-host-star-studded-brazil-after-lionel-messi-fiasco-which-led-to-arrest-of-organiser-2026-08-07-1050677",
-    "time": "2026-08-07T10:46:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ajinkya Rahane joins Steve Waugh's ETPL franchise a week after announcing retirement",
-    "desc": "Former India cricketer Ajinkya Rahane announced his retirement from all forms of cricket on July 30. A week later, he signed for Amsterdam Flames as a marquee player for the inaugural European T20 Premier League...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ajinkya-rahane-joins-steve-waugh-s-etpl-franchise-a-week-after-announcing-retirement-2026-08-07-1050671",
-    "time": "2026-08-07T10:10:13.000Z"
   }
 ];
