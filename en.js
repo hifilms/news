@@ -1,48 +1,201 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Yash calls Kiara 'tabahi', tells her to not get bothered by the controversy: 'Don’t care'",
+    "desc": "Yash lauded Kiara Advani's dedicated performance in their upcoming film 'Toxic'. He encouraged her to ignore external criticism and trust her artistic choices. Yash believes the film's themes and performances are ahead of current audience understanding. He emphasized 'Toxic' as a collaborative Indian cinematic project, not a solo star vehicle. The film, directed by Geetu Mohandas, aims to elevate Indian cinema globally.",
+    "img": "https://static.toiimg.com/photo/msid-47529300.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/yash-lauds-kiara-advani-calls-her-tabahi-tells-her-to-not-get-bothered-by-what-people-say-amid-the-controversy-dont-care-whatever-you-believe-in-you-should-do/articleshow/133057173.cms",
+    "time": "2026-08-08T18:15:17.000Z"
+  },
+  {
     "cat": "Politics",
-    "title": "Seven Cabinet berths for Kalyana Karnataka; Kalaburagi has three Ministers",
-    "desc": "The expansion of Chief Minister D.K. Shivakumar’s Cabinet on Monday has given the Kalyana Karnataka region seven berths in the Council of Ministers, with the induction of Jewargi MLA Dr. Ajay Singh taking Kalaburagi district’s representation to three",
+    "title": "Row in Odisha varsity over interference by BJP MLA",
+    "desc": "The University Teachers Association has requested the Vice-Chancellor to take it up with Odisha Governor Haribabu Kambhampati, who is the chancellor of university, and safeguard dignity of teachers and integrity of the university administrative processes",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/seven-cabinet-berths-for-kalyana-karnataka-kalaburagi-has-three-ministers/article71301346.ece",
-    "time": "2026-08-08T15:14:17.000Z"
+    "url": "https://www.thehindu.com/news/national/odisha/row-in-odisha-varsity-over-interference-by-bjp-mla/article71309859.ece",
+    "time": "2026-08-08T18:13:50.000Z"
   },
   {
     "cat": "Politics",
-    "title": "South Western Railway records highest-ever freight loading in July",
-    "desc": "South Western Railway registered its highest-ever freight loading for the month of July, handling 4.69 million tonnes of originating freight in July 2026, an increase of 11.7% over the 4.2 MT recorded in the corresponding month last year",
-    "img": "https://th-i.thgim.com/public/incoming/qtugqz/article71301871.ece/alternates/LANDSCAPE_1200/2699_3_8_2026_18_52_12_1_04HUBLISWRFREIGHT.JPG",
+    "title": "RINL employees ask PMO to clear pending salaries, VRS settlements",
+    "desc": "The collectives said the plant had an emergency reserve fund of over ₹900 crore and a cash balance of ₹195 crore, and that salaries, VRS-2 and VRS-3 settlements and family and widow pensions remained unpaid",
+    "img": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-andhrapradesh/sn7heo/article69973313.ece/alternates/LANDSCAPE_1200/Private-canteenGIMEQG5TT.3.jpg.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/south-western-railway-records-highest-ever-freight-loading-in-july/article71301399.ece",
-    "time": "2026-08-08T15:13:01.000Z"
+    "url": "https://www.thehindu.com/news/cities/Visakhapatnam/rinl-employees-ask-pmo-to-clear-pending-salaries-and-vrs-settlements/article71308726.ece",
+    "time": "2026-08-08T18:11:46.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Former MLA, MP taken into custody as YSRCP leaders clash with police in Uravakonda",
-    "desc": "Several YSRCP leaders, including the former MLA Visweswara Reddy, former MP Gorantla Madhav and others, were reportedly either taken into preventive custody or placed under house arrest during protests over alleged land encroachment by TDP leaders",
-    "img": "https://via.placeholder.com/600x400?text=News",
+    "title": "Over 43 lakh voters deleted in draft electoral rolls",
+    "desc": "Over 7 lakh dead, over 14 lakh untraceable, and over 15 lakh permanently shifted voters were recorded; around 1.16 lakh voters refused to sign the enumeration form; claims and objections phase from August 5 to September 4",
+    "img": "https://th-i.thgim.com/public/incoming/zcaqql/article71310811.ece/alternates/LANDSCAPE_1200/PTI07_19_2026_000169B.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/former-mla-mp-taken-into-custody-as-ysrcp-leaders-clash-with-police-in-uravakonda/article71301777.ece",
-    "time": "2026-08-08T15:11:29.000Z"
+    "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-sir-over-43-lakh-voters-deleted-in-draft-electoral-rolls/article71310282.ece",
+    "time": "2026-08-08T18:10:09.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Ajay Singh inducted into State Cabinet for first time; Kalaburagi gets third ministerial berth",
-    "desc": "Three-time Congress MLA from the Jewargi Assembly constituency Ajay Singh was inducted into the State Cabinet for the first time, during the expansion of the Cabinet led by Chief Minister D.K. Shivakumar on Monday, becoming the third Minister from Kalaburagi district",
-    "img": "https://th-i.thgim.com/public/incoming/3uau0q/article71301598.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-03%20at%2016.55.22.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/ajay-singh-inducted-into-state-cabinet-for-first-time-kalaburagi-gets-third-ministerial-berth/article71301001.ece",
-    "time": "2026-08-08T15:08:55.000Z"
+    "title": "FIR against 17 for assaulting 4 transporting bovines in J&amp;K",
+    "desc": "Seventeen alleged cow vigilantes are facing legal action in Ramban after assaulting four men who were transporting bovines acquired from a police auction. The brutal incident, which occurred on August 4, resulted in one man suffering life-threatening injuries. This alarming event follows a fatal encounter in April, highlighting ongoing violence linked to cow protection. Investigations into wrongful restraint and assault are currently underway.",
+    "img": "https://static.toiimg.com/photo/msid-133057909,imgsize-207352.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/fir-against-17-for-assaulting-4-transporting-bovines-in-jk/articleshow/133057884.cms",
+    "time": "2026-08-08T18:09:36.000Z"
   },
   {
     "cat": "Politics",
-    "title": "BJP retains Manjalpur Assembly seat in Guj; Satish Patel defeats Congress rival by more than 30,000 votes",
-    "desc": "The bypoll, held on July 30, recorded a voter turnout of 37.5%; the election was necessitated due to the death of senior BJP MLA and former Gujarat Minister Yogesh Patel on June 2 following a prolonged illness.",
-    "img": "https://th-i.thgim.com/public/hindi/editorial/2rqpra/article71299896.ece/alternates/LANDSCAPE_1200/Screenshot%202026-08-03%20100745.png",
+    "title": "Canal restoration to be expedited to curb waterlogging in Kochi",
+    "desc": "Mullassery Canal restoration to resume on September 1 and be completed by March; inspections against banned single-use plastic to be intensified; authorities order urgent drain cleaning, relocation of shops over drains and faster measures to address waterlogging across the city",
+    "img": "https://th-i.thgim.com/public/incoming/plds92/article71310762.ece/alternates/LANDSCAPE_1200/80968_17_7_2026_16_30_19_2_IMG_7768.JPEG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/gujarat/manjalpur-assembly-bypoll-in-gujarat-result/article71299773.ece",
-    "time": "2026-08-08T15:06:56.000Z"
+    "url": "https://www.thehindu.com/news/national/kerala/canal-restoration-to-be-expedited-to-curb-waterlogging-in-kochi/article71310245.ece",
+    "time": "2026-08-08T18:07:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Cabinet Secretary, Home Secretary get one-year extension in service",
+    "desc": "The Appointments Committee of the Cabinet led by Prime Minister Modi approved the extension in service of Somanathan as Cabinet Secretary for a further period of one year beyond August 30, 2026, says an order",
+    "img": "https://th-i.thgim.com/public/incoming/mzxf3f/article71310756.ece/alternates/LANDSCAPE_1200/IMG_Hariharan_memorial_l_2_1_JBD4CB99.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/cabinet-secretary-home-secretary-get-one-year-extension-in-service/article71310569.ece",
+    "time": "2026-08-08T18:07:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Karnataka Transport Department seizes 263 illegal bike taxis across Bengaluru",
+    "desc": "A total of 263 vehicles were seized during a special enforcement drive conducted by the Transport Department across Bengaluru as part of a crackdown on the illegal commercial use of private two-wheelers, including bike taxis",
+    "img": "https://th-i.thgim.com/public/incoming/livsh/article71310374.ece/alternates/LANDSCAPE_1200/-REVISED-for-boG7AFFSHFV.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/bangalore/karnataka-transport-department-seizes-263-illegal-bike-taxis-across-bengaluru/article71310299.ece",
+    "time": "2026-08-08T18:02:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM Modi speaks to US VP Vance, discusses ways to deepen India-US strategic partnership",
+    "desc": "Prime Minister Narendra Modi spoke with US Vice President JD Vance on Saturday. They discussed deepening the India-US Comprehensive Global Strategic Partnership across key areas. PM Modi also congratulated JD Vance and his wife Usha Vance. The Prime Minister conveyed his best wishes to the growing family. This conversation focused on strengthening bilateral relations between the two nations.",
+    "img": "https://static.toiimg.com/photo/msid-133057125,imgsize-1208043.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pm-modi-speaks-to-us-vp-vance-discusses-ways-to-deepen-india-us-strategic-partnership/articleshow/133056929.cms",
+    "time": "2026-08-08T17:45:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Yash breaks silence on 'Toxic' delay and rumours of the film being shelved",
+    "desc": "Actor Yash discussed his upcoming film 'Toxic' at its Bengaluru trailer launch. He highlighted the project's extensive 200-day filming schedule and its diverse cast. Yash explained that the film transcends regional industry boundaries, representing Indian cinema globally. He emphasized that the cast prioritized the film's vision over individual egos. The actor also addressed persistent rumors about the film being shelved.",
+    "img": "https://static.toiimg.com/photo/msid-133056653,imgsize-335889.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yash-breaks-silence-on-toxic-delay-and-rumours-of-the-film-being-shelved-when-you-want-to-do-something-in-life-nothing-should-stop-you/articleshow/133056550.cms",
+    "time": "2026-08-08T17:28:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Uttarakhand CM Dhami transfers Rs 146.32 crore pension benefits to 9.87 lakh beneficiaries",
+    "desc": "Uttarakhand Chief Minister Pushkar Singh Dhami on Saturday transferred Rs 146.32 crore in pension benefits through Direct Benefit Transfer (DBT) to 9,87,017 beneficiaries under various pension schemes of the Social Welfare Department for July 2026.",
+    "img": "https://static.toiimg.com/photo/msid-133056521,imgsize-123228.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/uttarakhand-cm-dhami-transfers-rs-146-32-crore-pension-benefits-to-9-87-lakh-beneficiaries/articleshow/133056501.cms",
+    "time": "2026-08-08T17:20:04.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Supreme Court extends third-party insurance cover of new vehicles by a year",
+    "desc": "SC extends cover of new cars to four years, and two-wheelers to six “in the interest of road safety”; it says with vehicles remaining uninsured, accident victims and their families “have no recourse to adequate compensation”",
+    "img": "https://th-i.thgim.com/public/incoming/3mr36n/article71306844.ece/alternates/LANDSCAPE_1200/2025-09-26T080856Z_573410239_RC2B4FA8G49D_RTRMADP_3_INDIA-MARUTI-FUELEFFICIENCY.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/supreme-court-extends-third-party-insurance-cover-of-new-vehicles-by-a-year/article71305434.ece",
+    "time": "2026-08-08T16:51:37.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "FSSAI warned Diageo that its whisky's 'matured in American oak casks' claim was misleading",
+    "desc": "The FSSAI announced on Sunday (August 2, 2026) it had prohibited sales of Diageo’s Royal Challenge Whisky made in the State of Madhya Pradesh and some ‌whisky and rum brands made in some Indian States by Diageo and India’s ‌Inbrew",
+    "img": "https://th-i.thgim.com/public/incoming/q0kq8z/article71322606.ece/alternates/LANDSCAPE_1200/2026-08-08T090148Z_1698828912_RC20RMAEI4GA_RTRMADP_3_INDIA-REGULATIONS-ALCOHOL-DIAGEO.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/fssai-warned-diageo-that-its-whiskys-matured-in-american-oak-casks-claim-was-misleading/article71322595.ece",
+    "time": "2026-08-08T16:27:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Australia pacer takes 8/25 as Bangladesh bowled out for 54, lose match by an innings",
+    "desc": "Campbell Thompson was the main contributor to Bangladesh’s collapse, taking eight wickets for 25 runs in the second innings at Marrara Oval. The 22-year-old left-arm fast bowler had taken two wickets late on Friday before returning on Saturday morning to claim six more as Bangladesh lost eight wickets for 35 runs.",
+    "img": "https://static.toiimg.com/photo/msid-133055513,imgsize-251752.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/australia-pacer-takes-8/25-as-bangladesh-bowled-out-for-54-lose-match-by-an-innings/articleshow/133055344.cms",
+    "time": "2026-08-08T16:17:12.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "RBI sells $14.9 billion during Jan-May to check excess volatility in rupee",
+    "desc": "\"The Reserve Bank of India (RBI) regularly monitors the foreign exchange market and intervenes in situations of excess volatility. As per the latest data available from the RBI, the RBI's foreign exchange intervention during January-May 2026 amounted to a net sale of $14.9 billion,\" says Minister of State for Finance",
+    "img": "https://th-i.thgim.com/public/incoming/4d13sv/article71301499.ece/alternates/LANDSCAPE_1200/20251202331L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/rbi-sells-149-billion-during-jan-may-to-check-excess-volatility-in-rupee/article71301424.ece",
+    "time": "2026-08-08T16:07:56.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Profit rises 16% to $12.98 billion as buybacks accelerate",
+    "desc": "Berkshire Hathaway showcased impressive growth in its second-quarter results, with notable increases in both operating profit and net income. While revenue surged, the company's cash reserves took a hit from recent stock buybacks. Although Geico struggled, profits rose in BNSF Railway and other sectors. Under the leadership of Greg Abel, the company ramped up share repurchases and made significant investments in stocks during this period.",
+    "img": "https://static.toiimg.com/photo/msid-47529300.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/berkshire-hathaway-q2-earnings-profit-rises-16-to-12-98-billion-as-buybacks-accelerate/articleshow/133055378.cms",
+    "time": "2026-08-08T15:59:53.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Hamas says still ready to go ahead with Gaza plan",
+    "desc": "Hamas informed U.S. President Trump's Board of Peace that it stood by the latest stage of the plan, under which the militants would hand over weapons to a nascent Palestinian governing committee in the war-battered territory.",
+    "img": "https://th-i.thgim.com/public/incoming/hed67w/article71322480.ece/alternates/LANDSCAPE_1200/Israel_Palestinians_Gaza_87681.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/hamas-says-still-ready-to-go-ahead-with-gaza-plan/article71322472.ece",
+    "time": "2026-08-08T15:52:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "UEFA threatens FIFA with legal action over failed plan to sell World Cup stakes",
+    "desc": "The letter named 18 FIFA executives who it said should retain data, documents and electronic messages as potential evidence. They include Infantino, Zurich-based chief finance officer Thomas Peyer and Arsène Wenger, the coaching great who is FIFA's head of global soccer development",
+    "img": "https://th-i.thgim.com/public/incoming/7nlun1/article71302802.ece/alternates/LANDSCAPE_1200/2026-07-30T174450Z_834707308_RC2HOMA5DYER_RTRMADP_3_SOCCER-FIFA-STAKE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/uefa-threatens-fifa-with-legal-action-over-failed-plan-to-sell-world-cup-stakes/article71302799.ece",
+    "time": "2026-08-08T15:31:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "\"I faced many challenges....\": Weightlifter Mirabai Chanu after hat-trick of CWG gold medals",
+    "desc": "Speaking to ANI, Mirabai said that leading upto CWG 2026, she faced a lot of issues due to injuries, weight management and training and having overcome all these odds placed against her is a massive accomplishment",
+    "img": "https://th-i.thgim.com/public/incoming/yfzd4k/article71302788.ece/alternates/LANDSCAPE_1200/20260803610L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/i-faced-many-challenges-weightlifter-mirabai-chanu-after-hat-trick-of-cwg-gold-medals/article71302785.ece",
+    "time": "2026-08-08T15:31:00.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Hard-right Reform U.K. vow to use navy to stop small boats",
+    "desc": "They come as Mr. Farage and Reform — which led national polls for around 18 months but have seen that lead disappear in recent weeks — are embroiled in a series of scandals and official probes into their finances",
+    "img": "https://th-i.thgim.com/public/incoming/yf6dch/article71302403.ece/alternates/LANDSCAPE_1200/Britain_Politics_38217.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/hard-right-reform-uk-vow-to-use-navy-to-stop-small-boats/article71302332.ece",
+    "time": "2026-08-08T15:20:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Samay donates Rs 10 lakh for Assam floods; users ask CM to withdraw FIR",
+    "desc": "Comedian Samay Raina has donated Rs 10 lakh to the Assam Chief Minister’s Relief Fund to support communities affected by the devastating floods in the state. His contribution comes as Assam continues to battle widespread flooding, with thousands of people still reeling from the impact of the deluge.",
+    "img": "https://static.toiimg.com/photo/msid-133055078,imgsize-87736.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/samay-raina-donates-rs-10-lakh-to-assam-flood-relief-cm-himanta-biswa-sarma-thanks-comedian-social-media-users-urge-fir-withdrawal/articleshow/133055058.cms",
+    "time": "2026-08-08T15:20:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tirkey slams Hockey India DG, seeks detailed response on jersey change queries",
+    "desc": "The Hockey India chief has asked Srivastava to provide the specific authority, approval or delegation under which the decision to change the official jersey was taken, timeline of the change, names, designations and roles of every person involved in the process and copies of all internal correspondence relating to the decision",
+    "img": "https://th-i.thgim.com/public/incoming/gzvada/article71302199.ece/alternates/LANDSCAPE_1200/6744_31_8_2025_17_25_28_1_01_RVM_8215.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/hockey/tirkey-slams-hockey-india-dg-seeks-detailed-response-on-jersey-change-queries/article71302203.ece",
+    "time": "2026-08-08T15:15:26.000Z"
   },
   {
     "cat": "Entertainment",
@@ -52,6 +205,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/toxic-trailer-x-review-yashs-nude-scene-leaves-fans-shocked-kiara-advani-nayanthara-huma-qureshi-shine-netizens-call-it-blockbuster-stuff-predict-rs-3000-crore-at-the-box-office/articleshow/133054636.cms",
     "time": "2026-08-08T15:00:15.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Stock markets take winning run to 4th day as crude oil prices drop sharply; Nifty surges 1.6%",
+    "desc": "Foreign fund inflows also added to markets' optimism. Extending the winning momentum to the fourth day, the 30-share BSE Sensex jumped 544.39 points, or 0.70%, to settle at 78,639.03. During the day, it surged 800.46 points, or 1%, to 78,895.10",
+    "img": "https://th-i.thgim.com/public/incoming/doa7ks/article71301176.ece/alternates/LANDSCAPE_1200/20260713083L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/markets/stock-markets-take-winning-run-to-4th-day-as-crude-oil-prices-drop-sharply-nifty-surges-16/article71301115.ece",
+    "time": "2026-08-08T14:54:35.000Z"
   },
   {
     "cat": "Politics",
@@ -432,13 +594,13 @@ const newsData_en = [
     "time": "2026-08-08T11:29:27.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Abhinandh flicks mental switch, lights up Ultimate Table Tennis",
-    "desc": "The 18-year-old’s fearless aggression and tactical awareness brought him success in Season 7 of the league. The performance, coming as it did as he begins the transition to the senior ranks, showed he has the technical ability and temperament to succeed at the highest level",
-    "img": "https://th-i.thgim.com/public/incoming/m38ol9/article71292087.ece/alternates/LANDSCAPE_1200/Abhinandh_lead.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/pb-abhinandh-utt-season-7-breakthrough-india-rising-table-tennis-star/article71292081.ece",
-    "time": "2026-08-08T11:11:57.000Z"
+    "cat": "Entertainment",
+    "title": "Odd jobs that stars like Harry Styles and Christopher Walken used to do before their careers kicked-started",
+    "desc": "Some of our most beloved celebrities of all time started their career from absolutely nothing. From picking up odd shifts at the neighbourhood restaurant to working as a lion tamer, many of these big names in the entertainment industry started from a completely different route. From Harry Styles to Christopher Walken, here is a list of some of the oddest career paths celebs have ventured into before they found their calling.",
+    "img": "https://static.toiimg.com/photo/msid-133051362,imgsize-33314.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/life-before-fame-odd-jobs-that-stars-like-harry-styles-and-christopher-walken-used-to-do-before-their-careers-kicked-started/photostory/133051362.cms",
+    "time": "2026-08-08T11:18:30.000Z"
   },
   {
     "cat": "Entertainment",
@@ -448,15 +610,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/pluto-movie-review-a-sci-fi-comedy-that-sticks-to-usual-alien-narratives/article71286486.ece",
     "time": "2026-08-08T11:10:19.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "India-based sales agent of Iran’s Mahan Air among entities facing U.S. sanctions",
-    "desc": "The other GSAs of Mahan Air are China-based Shanghai Wings International Logistics Co, which has coordinated the transport of electronics from China to Iran, Russia-based Air Cargo Pro Limited and Shanghai Elite International Travel Co",
-    "img": "https://th-i.thgim.com/public/incoming/tmo5et/article71289028.ece/alternates/LANDSCAPE_1200/2026-07-13T220452Z_104761530_RC23DMAOSK8F_RTRMADP_3_IRAN-CRISIS-YEMEN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/india-based-sales-agent-of-irans-mahan-air-among-entities-facing-us-sanctions/article71288871.ece",
-    "time": "2026-08-08T11:09:17.000Z"
   },
   {
     "cat": "Sports",
@@ -495,15 +648,6 @@ const newsData_en = [
     "time": "2026-08-08T10:54:11.000Z"
   },
   {
-    "cat": "World",
-    "title": "What is behind the communal clashes in Nepal?",
-    "desc": "A local dispute over religious celebrations has spiralled into wider unrest in Nepal’s southern plains, exposing growing polarisation, delayed government response and fears over the erosion of long-standing community ties; analysts warn the row reflects mounting challenges to Nepal’s tradition of coexistence",
-    "img": "https://th-i.thgim.com/public/incoming/trqn42/article71291940.ece/alternates/LANDSCAPE_1200/2026-07-30T162852Z_1485335708_RC2DOMADRGOK_RTRMADP_3_NEPAL-PROTESTS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/what-is-behind-the-communal-clashes-in-nepal/article71290614.ece",
-    "time": "2026-08-08T10:48:15.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "SAD backs women's quota, delimitation bills after Badal-PM Modi meet fuels buzz",
     "desc": "Shiromani Akali Dal has expressed strong support for the prompt enactment of the women's reservation bill, emphasizing the need for fair delimitation to ensure equitable state representation. This advocacy follows a meeting between party president Sukhbir Singh Badal and Prime Minister Narendra Modi. Speculation is rife regarding a potential electoral partnership between SAD and BJP, particularly as both parties have faced declining influence in Punjab's political landscape.",
@@ -511,15 +655,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/sad-backs-womens-quota-delimitation-bills-after-badal-pm-modi-meet-fuels-buzz/articleshow/133050813.cms",
     "time": "2026-08-08T10:44:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Someone should change their name to Taylor; we could be champions again: Claire Taylor",
-    "desc": "The 50-year-old was one of the protagonists of an era of English women’s cricket when they ‘talked world domination’ and realised the ambition. She talks with modesty and humour about her history-making career, explaining why she left a lucrative job for a sport that had little money in it, how she developed into a big-match player and whom she looked to for batting inspiration",
-    "img": "https://th-i.thgim.com/public/incoming/opywso/article71292094.ece/alternates/LANDSCAPE_1200/claire.taylor_3.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/claire-taylor-interview-england-world-cup-wisden-cricketer-of-the-year/article71292100.ece",
-    "time": "2026-08-08T10:42:43.000Z"
   },
   {
     "cat": "Entertainment",
@@ -540,51 +675,6 @@ const newsData_en = [
     "time": "2026-08-08T10:26:17.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Mani Ratnam and Aishwarya Rai's timeless bond",
-    "desc": "Aishwarya Rai's journey with Mani Ratnam began in her modeling days when he cast her in 'Iruvar', her film debut. She regards him as her mentor and chief influence in acting. Their collaboration has produced noteworthy films, including 'Guru' and the 'Ponniyin Selvan' series, showcasing their ability to craft unforgettable roles in Indian cinema.",
-    "img": "https://static.toiimg.com/photo/msid-133050343,imgsize-121040.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/mani-ratnam-and-aishwarya-rai-how-a-timeless-director-actress-bond-began/articleshow/133050288.cms",
-    "time": "2026-08-08T10:11:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mom-to-be Samantha shares August update",
-    "desc": "Actress Samantha Ruth Prabhu is preparing for her first child with husband Raj Nidimoru. She recently shared glimpses of her August month, including gym selfies and birthday celebrations. Prabhu confirmed her pregnancy and announced a maternity leave after current film commitments. The couple, married in December 2025, anticipates their baby in December this year. She plans to return to work on a web series post-leave.",
-    "img": "https://static.toiimg.com/photo/msid-133050284,imgsize-1054783.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/mom-to-be-samantha-ruth-prabhu-shares-august-update-with-gym-selfies-childbirth-book-and-more/articleshow/133050265.cms",
-    "time": "2026-08-08T10:08:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Congress not realising own errors': Rijiju draws parallel with Indira Gandhi post Emergency",
-    "desc": "Parliamentary affairs minister Kiren Rijiju criticized the Congress party for its perceived lack of self-awareness. He contrasted the current leadership with former Prime Minister Indira Gandhi's admission of Emergency actions. Rahul Gandhi questioned the delay in implementing the Women's Reservation Bill. He urged its immediate implementation without linking it to delimitation. The bill's passage and subsequent implementation remain a point of contention.",
-    "img": "https://static.toiimg.com/photo/msid-133050216,imgsize-119490.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/congress-not-realising-own-errors-rijiju-draws-parallel-with-indira-gandhi-post-emergency/articleshow/133050210.cms",
-    "time": "2026-08-08T10:03:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Lewis Hamilton's fans rally behind Kim Kardashian after troll comments",
-    "desc": "Lewis Hamilton shared intimate moments with Kim Kardashian on Instagram. His recent post included pictures of their romantic summer activities together. Some followers expressed disapproval of Kim Kardashian's presence in the photos. Many other fans defended the couple and criticized the negative comments. The online discussion highlighted a division among Lewis Hamilton's dedicated fanbase.",
-    "img": "https://static.toiimg.com/photo/msid-133050043,imgsize-222928.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/crazy-to-insult-his-girlfriend-lewis-hamiltons-fans-come-in-support-of-kim-kardashian-after-a-netizen-writes-we-dont-want-to-see-kim-under-his-post/articleshow/133049951.cms",
-    "time": "2026-08-08T09:52:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mrunal slams dating speculation with Yashasvi following viral video",
-    "desc": "Mrunal Thakur addressed dating rumours with cricketer Yashasvi Jaiswal after a viral cafe video, telling social media to stop assuming and focus on real issues instead. She was earlier linked to Dhanush, which she denied. Mrunal will next star with Huma Qureshi in the courtroom drama 'Pooja Meri Jaan' on OTT.",
-    "img": "https://static.toiimg.com/photo/msid-133049919,imgsize-396241.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bro-relax-mrunal-thakur-slams-dating-speculation-with-yashasvi-jaiswal-following-viral-cafe-video/articleshow/133049910.cms",
-    "time": "2026-08-08T09:39:20.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sarfaraz, Rasheed emerge as frontrunners to replace Sudharsan in India Test",
     "desc": "Sai Sudharsan is all but ruled out of India's Sri Lanka Tests due to a foot niggle, with Shaik Rasheed and Sarfaraz Khan emerging as the frontrunners to replace him. Rasheed's recent India A stint and strong feedback from the CoE could give the youngster the edge.",
@@ -592,15 +682,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shaik-rasheed-sarfaraz-khan-emerge-as-frontrunners-to-replace-sai-sudharsan-in-india-test-squad/articleshow/133049814.cms",
     "time": "2026-08-08T09:24:46.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Myanmar's President outlines policy road map, criticises ASEAN peace plan",
-    "desc": "President Min Aung Hlaing said he would spend two years accelerating efforts to build a modern and developed nation based on democracy and a federal system, followed by another three years carrying out build-up at full speed.",
-    "img": "https://th-i.thgim.com/public/incoming/m9orwq/article71292009.ece/alternates/LANDSCAPE_1200/Myanmar_Politics_224_2.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/myanmars-president-outlines-policy-road-map-criticises-asean-peace-plan/article71292005.ece",
-    "time": "2026-08-08T09:14:48.000Z"
   },
   {
     "cat": "Entertainment",
@@ -619,42 +700,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ashleigh-gardner-under-pressure-ex-wife-calls-for-vice-captaincy-to-be-stripped-slams-cricket-australia/articleshow/133049096.cms",
     "time": "2026-08-08T08:47:05.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "High taxes on cigarettes hits ITC Q1, net slips 27% to ₹3,579 crore",
-    "desc": "The sharp decline on profit came on the government’s decision to increase excise duty and other taxes on cigarettes. Since this business contributes a major share of the company’s profit, the higher levies weighed on the margins.",
-    "img": "https://th-i.thgim.com/public/incoming/d30njc/article71291150.ece/alternates/LANDSCAPE_1200/ITC-shifts-growGKNG65EOH.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/high-taxes-on-cigarettes-hits-itc-q1-net-slips-27-to-3579-crore/article71291010.ece",
-    "time": "2026-08-08T08:43:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Changing colours like a chameleon': Mayawati hits Akhilesh over 'Pandit' twist in SP's PDA formula",
-    "desc": "BSP chief Mayawati criticized the Samajwadi Party's changing political stance. She accused the SP of altering its PDA formula for electoral gains. Mayawati stated the SP now targets Brahmin voters after noticing BSP's growing support. She urged all communities to remain vigilant against SP's casteist politics. Such deceptive strategies offer short-term benefits but not societal welfare.",
-    "img": "https://static.toiimg.com/photo/msid-133049211,imgsize-1036573.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/changing-colours-like-a-chameleon-mayawati-hits-akhilesh-over-pandit-twist-in-sps-pda-formula/articleshow/133049154.cms",
-    "time": "2026-08-08T08:31:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Keep your curiosity alive': PM Modi addresses IIT Delhi graduates; highlights rapid tech shift",
-    "desc": "During a momentous Saturday at IIT Delhi's 57th Convocation Ceremony, Prime Minister Narendra Modi inspired the graduates to welcome transformation and continually nurture their thirst for knowledge. He emphasized the importance of mentors and the networks that support their journeys. Modi also spotlighted India's commitment to self-reliance and the birth of innovative sectors, marking the occasion by inaugurating a cutting-edge AI-powered supercomputing facility.",
-    "img": "https://static.toiimg.com/photo/msid-133048778,imgsize-136310.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/keep-your-curiosity-alive-pm-modi-addresses-iit-delhi-graduates-highlights-rapid-tech-shift/articleshow/133048361.cms",
-    "time": "2026-08-08T07:52:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Is India truly independent?' Congress targets Centre over US Bill on Russia sanctions",
-    "desc": "Congress leader Pawan Khera has raised concerns about India's autonomy when it comes to purchasing Russian oil. He criticized the government's unwillingness to confront Parliament over this pressing issue. Additionally, Khera expressed solidarity with students in Jharkhand protesting recruitment irregularities, emphasizing that it's a collective duty of all political parties to address student grievances. Meanwhile, Rahul Gandhi's forthcoming initiative aims to spotlight youth challenges and the aspirations of job seekers.",
-    "img": "https://static.toiimg.com/photo/msid-133048675,imgsize-1503967.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/is-india-truly-independent-congress-targets-centre-over-us-bill-on-russia-sanctions/articleshow/133048580.cms",
-    "time": "2026-08-08T07:49:23.000Z"
   },
   {
     "cat": "Tech",
@@ -684,15 +729,6 @@ const newsData_en = [
     "time": "2026-08-08T07:07:55.000Z"
   },
   {
-    "cat": "World",
-    "title": "Why was Trump’s H-1B fee struck down?",
-    "desc": "What is the H-1B visa programme and who uses it? Why did the Trump administration impose the $100,000 fee? What impact was the policy expected to have on States and employers? Did the President have the authority to impose the fee? Why did the court classify the charge as a tax rather than a penalty?",
-    "img": "https://th-i.thgim.com/public/incoming/igk8h0/article71112269.ece/alternates/LANDSCAPE_1200/iStock-1264230781.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/why-was-trumps-h-1b-fee-struck-down/article71108812.ece",
-    "time": "2026-08-08T06:30:50.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'I may not fit in, but I'll fight': Sarfaraz Khan's cryptic post goes viral",
     "desc": "Sarfaraz Khan's Test career faces uncertainty despite his strong first-class performance. He recently shared a cryptic message reflecting his current situation and determination. The batter was again overlooked for the upcoming Sri Lanka Test series. His fitness has transformed, and he returned to the IPL with good form. Selectors appear to have other middle-order options ahead of him.",
@@ -711,15 +747,6 @@ const newsData_en = [
     "time": "2026-08-08T06:25:48.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'IPL is part of our plan': Coach McDonald explains Australia's strategy",
-    "desc": "Australia's coach Andrew McDonald is committed to judiciously overseeing player availability during the IPL. With a jam-packed international calendar on the horizon, ensuring the well-being of fast bowlers is paramount. Collaboration with medical and coaching teams will empower players to make informed choices. Insights gleaned from 2023 will inform their strategy for juggling numerous commitments.",
-    "img": "https://static.toiimg.com/photo/msid-133047062,imgsize-1280180.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ipl-is-part-of-our-plan-andrew-mcdonald-explains-australias-strategy-before-india-tour-and-ashes/articleshow/133046886.cms",
-    "time": "2026-08-08T05:22:47.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Maadhu’ Balaji on keeping Crazy Mohan’s legacy alive with ‘Chamber of Humour’",
     "desc": "to take his plays and Tamil theatre to more audiences. And for that, he has kickstarted a new concept called “Chamber of Humour”. Instead of large halls, Balaji and his troupe perform evergreen Tamil comedies to a group of audiences in an intimate setting. The group, Crazy Creations, recently performed superhit Tamil comedy play, ‘Marriage Made in Saloon’.",
@@ -736,15 +763,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/shubman-gill-unlikely-to-bat-in-warm-up-game-on-track-for-galle-test-against-sri-lanka/articleshow/133046914.cms",
     "time": "2026-08-08T05:12:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ashish ends India's 10-year wait for javelin medal since Neeraj's gold",
-    "desc": "Ashish Yadav secured a silver medal in the men's javelin throw event. He achieved this significant feat at the World Athletics U20 Championships. Mohommed Ashfaq also broke the men's U20 national record in the 400m race. Amanat Kamboj finished sixth in the women's discus throw final. Basant progressed to the men's high jump final after clearing 2.14m.",
-    "img": "https://static.toiimg.com/photo/msid-133046851,imgsize-196641.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/world-u20-championships-ashish-yadav-ends-indias-10-year-wait-for-javelin-medal-since-neeraj-chopras-historic-gold/articleshow/133046792.cms",
-    "time": "2026-08-08T05:02:19.000Z"
   },
   {
     "cat": "Business",
@@ -808,15 +826,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/food-for-thought-global-food-prices-rise-in-july-as-cereals-sugar-turn-costly/articleshow/133037072.cms",
     "time": "2026-08-07T15:27:56.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "‘No hire, no fire’: US employers unexpectedly cut 23,000 jobs",
-    "desc": "The employment report released by the Labor Department on Friday signalled a sharp deterioration in the US labour market and dealt a political blow to President Donald Trump. Among the biggest job losses, local public schools shed 50,000 positions in July, while restaurants and bars eliminated 26,000 jobs and retailers cut 19,000.",
-    "img": "https://static.toiimg.com/photo/msid-133036519,imgsize-464925.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/no-hire-no-fire-us-employers-unexpectedly-cut-23000-jobs-sharp-reversal-for-labour-market/articleshow/133036162.cms",
-    "time": "2026-08-07T14:20:30.000Z"
   },
   {
     "cat": "Tech",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
     "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
   }
 ];

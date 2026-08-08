@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Former England midfielder points out Liverpool FC's transfer problems ahead of new season",
+    "desc": "The Premier League 2026-27 season is looming on the horizon, and the various sides are quite active in the summer transfer market, and many eyes are set upon the 2024 champions, Liverpool. The side is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/former-england-midfielder-points-out-liverpool-fc-s-transfer-problems-ahead-of-new-season-2026-08-08-1050807",
+    "time": "2026-08-08T17:30:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Legendary Australian pacer sings Vaibhav Sooryavanshi's praises after latter's recent brilliance",
+    "desc": "World cricket has recently been taken by storm by 15-year-old batting prodigy Vaibhav Sooryavanshi. The youngster has been exceptional wherever he has played, winning the orange cap for Rajasthan Royals. He also became the youngest-ever...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/legendary-australian-pacer-sings-vaibhav-sooryavanshi-s-praises-after-latter-s-recent-brilliance-2026-08-08-1050806",
+    "time": "2026-08-08T16:53:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bruno Guimaraes pens heartfelt note to Newcastle United fans after completing major move to Arsenal",
+    "desc": "Star Brazilian midfielder Bruno Guimaraes has officially put pen to paper and completed his permanent transfer to Premier League champions Arsenal. It is worth noting that Arsenal signed Guimaraes on a reported 75 million pounds...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/bruno-guimaraes-pens-heartfelt-note-to-newcastle-united-fans-after-completing-major-move-to-arsenal-2026-08-08-1050801",
+    "time": "2026-08-08T15:41:25.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Lionel Messi's father, Jorge passes away at 68 after battling prolonged health problems",
     "desc": "Jorge Messi, the father of legendary Argentine forward Lionel Messi has passed away at the age of 68. It is worth noting that Jorge had been battling health problems for quite some time, and during...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/uttarakhand-cm-pushkar-dhami-welcomes-rishabh-pant-s-request-promises-help-with-land-purchase-2026-08-08-1050761",
     "time": "2026-08-08T07:26:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Andrew Flintoff resigns from England Lions, set for next chapter in Australia",
-    "desc": "Andrew Flintoff has left his position as England Lions head coach after almost two years in charge. The former England all-rounder is now preparing to take up his new role with Sydney Thunder in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/andrew-flintoff-resigns-from-england-lions-set-for-next-chapter-in-australia-2026-08-08-1050755",
-    "time": "2026-08-08T06:00:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rashid Khan claims six wickets to help Afghanistan beat Ireland in second ODI",
-    "desc": "Star spinner Rashid Khan claimed six wickets as Afghanistan secured a comfortable 92-run win over Ireland in the second ODI of the five-match series at Bready Cricket Club. Notably, the first match of the series...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rashid-khan-claims-six-wickets-to-help-afghanistan-beat-ireland-in-second-odi-2026-08-08-1050748",
-    "time": "2026-08-08T04:24:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rishabh Pant requests Uttarakhand CM Pushkar Singh Dhami's help to purchase land with late-night tweet",
-    "desc": "Star India cricketer Rishabh Pant has requested Uttarakhand Chief Minister Pushkar Singh Dhami to help him acquire land in the state. In a late-night tweet, the keeper-batter mentioned that he wants to move his base...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-requests-uttarakhand-cm-pushkar-singh-dhami-s-help-to-purchase-land-with-late-night-tweet-2026-08-08-1050742",
-    "time": "2026-08-08T02:59:28.000Z"
   }
 ];
