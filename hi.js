@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "FIFA president Gianni Infantino faces fresh scrutiny over payment linked to alleged affair",
+    "desc": "FIFA president Gianni Infantino is facing renewed scrutiny over his time at UEFA. On Friday, August 7, Europe’s governing body confirmed that a departure payment was made to a woman who was alleged to have...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/fifa-president-gianni-infantino-faces-fresh-scrutiny-over-payment-linked-to-alleged-affair-2026-08-08-1050733",
+    "time": "2026-08-08T01:02:19.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Pakistan bans young cricketer Hamza Nazar for two years for disciplinary regulations",
     "desc": "Pakistan Cricket Board (PCB) has suspended young all-rounder Hamza Nazar for two years after an inquiry found that he provided misleading information and failed to disclose important details during a visa application process. The ban prevents...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ajinkya-rahane-joins-steve-waugh-s-etpl-franchise-a-week-after-announcing-retirement-2026-08-07-1050671",
     "time": "2026-08-07T10:10:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "AFA president opens up on Lionel Messi's future with the national team after FIFA World Cup heartbreak",
-    "desc": "The FIFA World Cup 2026 ended in heartbreak for 2022 champions Argentina and their ace Lionel Messi. Throughout the tournament, Argentina survived several close calls but managed to make it to the final of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/afa-president-opens-up-on-lionel-messi-s-future-with-the-national-team-after-fifa-world-cup-heartbreak-2026-08-07-1050664",
-    "time": "2026-08-07T09:11:26.000Z"
   }
 ];
