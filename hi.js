@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Andrew Flintoff resigns from England Lions, set for next chapter in Australia",
+    "desc": "Andrew Flintoff has left his position as England Lions head coach after almost two years in charge. The former England all-rounder is now preparing to take up his new role with Sydney Thunder in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/andrew-flintoff-resigns-from-england-lions-set-for-next-chapter-in-australia-2026-08-08-1050755",
+    "time": "2026-08-08T06:00:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rashid Khan claims six wickets to help Afghanistan beat Ireland in second ODI",
+    "desc": "Star spinner Rashid Khan claimed six wickets as Afghanistan secured a comfortable 92-run win over Ireland in the second ODI of the five-match series at Bready Cricket Club. Notably, the first match of the series...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rashid-khan-claims-six-wickets-to-help-afghanistan-beat-ireland-in-second-odi-2026-08-08-1050748",
+    "time": "2026-08-08T04:24:17.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Rishabh Pant requests Uttarakhand CM Pushkar Singh Dhami's help to purchase land with late-night tweet",
     "desc": "Star India cricketer Rishabh Pant has requested Uttarakhand Chief Minister Pushkar Singh Dhami to help him acquire land in the state. In a late-night tweet, the keeper-batter mentioned that he wants to move his base...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/when-and-where-to-watch-cpl-2026-live-on-tv-and-stream-online-in-india-2026-08-07-1050722",
     "time": "2026-08-07T15:46:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ravi Ashwin explores Hardik Pandya's possible move to KKR, asks Mumbai to demand two cricketers in return",
-    "desc": "Former India cricketer Ravichandran Ashwin has suggested that Mumbai Indians should seek a major return if they decide to trade captain Hardik Pandya. It is not being understood that three franchises, including Kolkata Knight Riders...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ravi-ashwin-explores-hardik-pandya-s-possible-move-to-kkr-asks-mumbai-to-demand-two-cricketers-in-return-2026-08-07-1050716",
-    "time": "2026-08-07T14:35:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi begins training for Duleep Trophy; big red-ball test awaits him",
-    "desc": "India's teenage batting prodigy Vaibhav Sooryavanshi has shifted his attention to red-ball cricket ahead of the domestic season. The Rajasthan Royals youngster is currently undergoing an intensive preparation programme at the franchise's High Performance Centre...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-begins-training-for-duleep-trophy-big-red-ball-test-awaits-him-2026-08-07-1050709",
-    "time": "2026-08-07T13:32:10.000Z"
   }
 ];

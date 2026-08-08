@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "পোড়ারমুখির জন্য সমাজে থাকতেও পারব না: আঠারোর মেয়ের গর্ভে প্রেমিকের সন্তান, নদীতে ডুবিয়ে মেরে দিল বাবা",
+    "desc": "গত ২৮ জুলাই শারীরিক চিকিৎসার অজুহাত দেখিয়ে মেয়েকে ভুল বুঝিয়ে আগ্রায় নিয়ে যান লখপত সিং ও তাঁর জামাই। সেখানে এক আত্মীয়ের বাড়িতে এক রাত কাটানোর পরদিন, অর্থাৎ ২৯ জুলাই সকালে তরুণীকে নিয়ে যাওয়া হয় আগ্রার বাসোনির কাছে চম্বল নদীর তীরে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/shocking-honor-killing-delhi-man-drowns-3-month-pregnant-daughter-in-chambal-river-fearing-social-stigma_665973.html ",
+    "time": "2026-08-08T05:47:41.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "নামেই কেবল ফাইভ স্টার! শহরের নামীদামী হোটেলে মিলল বিপুল পচা মাংস ও দুধ, বড়সড় পদক্ষেপের পথে প্রশাসন",
     "desc": "একাধিক হোটেলে নানা ধরনের অনিয়ম ধরা পড়েছে। আধিকারিকেরা জানিয়েছেন, রান্নাঘর ও গুদামঘর নোংরা ছিল। মেয়াদউত্তীর্ণ খাবার ও ছত্রাক ধরা সবজি রাখা ছিল। নকল ব্র্যান্ডের খাবার এবং এফএসএসএআই (FSSAI)-এর লেবেল ছাড়া খাবার পাওয়া গেছে। এছাড়া নিরামিষ ও আমিষ খাবার আলাদা রাখার নিয়মও মানা হয়নি।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -313,15 +322,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/border-crisis-9-dead-as-thousands-cross-into-spain-from-morocco-in-fresh-border-crisis_664773.html ",
     "time": "2026-07-31T05:56:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "মৃত্যুশয্যায় নার্গিস, বাবা সুনীল দত্তের কোন সিদ্ধান্তে দিশেহারা হয়ে পড়েছিলেন সঞ্জয়?",
-    "desc": "আমেরিকার হাসপাতালে কোমার সঙ্গে লড়ছেন মা নার্গিস। ঠিক সেই চরম মুহূর্তে সঞ্জয় দত্তের জীবনে নেমে এল বাবার এক অবিশ্বাস্য নির্দেশ! কেন চিকিৎসাধীন মা-কে ছেড়ে শ্যুটিং সেটে ফিরতে বাধ্য হয়েছিলেন তরুণ সঞ্জয়? বাবার সিদ্ধান্তের নেপথ্যে আসলে কী কারণ ছিল? প্রথম ছবি মুক্তির আগেই চিরতরে বদলে গেল সঞ্জয়ের জীবন!",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/sanjay-dutt-on-sunil-dutts-tough-choice-as-nargis-lay-in-a-coma-couldnt-understand-why_664768.html ",
-    "time": "2026-07-31T04:43:31.000Z"
   },
   {
     "cat": "Business",
