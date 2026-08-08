@@ -1,5 +1,77 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "169 ગણાથી વધુ સબસ્ક્રાઇબ થયો આ IPO, GMP દેખાડે છે આટલો ફાયદો, જાણો",
+    "desc": "આ કંપનીના IPO 169 ગણાથી વધુ સબ્સક્રાઈબ થયો છે, ગ્રે માર્કેટમાં પણ કંપની સારા નફાના સંકેત આપી રહી છે. કંપની કામગીરી, જાળવણી અને સપોર્ટ સેવાઓ પૂરી પાડે છે. હાલમાં, તે નેટવર્ક કામગીરી અને જાળવણી, ઇલેક્ટ્રિકલ ઇન્ફ્રાસ્ટ્રક્ચર અને નેટવર્ક ડેવલપમેન્ટનું સંચાલન કરે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/this-ipo-was-subscribed-more-than-169-times-gmp-shows-so-much-profit-know-487103 ",
+    "time": "2026-08-08T09:19:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ICCના કયા નિયમને કારણે અફઘાનિસ્તાન વર્લ્ડ કપ 2027 માટે થયું ક્વોલિફાય ? આ ટીમનું તૂટ્યું સપનું",
+    "desc": "અફઘાનિસ્તાને વર્લ્ડ કપ 2027 માટે પોતાનું સ્થાન કન્ફર્મ કરી લીધું છે. ત્યારે આ લેખમાં જાણીશું કે, ICCના કયા નિયમના કારણે અફઘાનિસ્તાન માટે આ સારા સમાચાર આવ્યા છે. તો અફઘાનિસ્તાન ક્વોલિફાય થતાં આ ટીમનું તૂટ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/how-afghanistan-qualified-for-the-2027-world-cup-know-icc-rules-487101 ",
+    "time": "2026-08-08T09:10:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "રિયાલીટી શોમાં શ્વેતા તિવારીનો ધડાકો, કહ્યું પતિઓને ચીટીંગ કરતાં રંગેહાથ પકડ્યા હતા",
+    "desc": "રિયાલીટી શો ટ્રેટર્સ 2 ધમાકેદાર રહેશે તેવું લાગી રહ્યું છે. ખાસ કરીને લોકોની નજર શ્વેતા તિવારી પર રહેવાની છે. કારણ કે આ શોમાં શ્વેતા તિવારી ખુલાસો કરશે કે તેણે તેના પતિઓને ચિટીંગ કરતાં રંગેહાથ પકડ્યા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/tv-actress-shweta-tiwari-said-on-the-traitors-2-that-she-caught-her-husbands-doing-cheating-on-her-487098 ",
+    "time": "2026-08-08T08:52:41.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "EPFOએ 8 PF નિયમોમાં કર્યો ફેરફાર! પૈસા ઉપાડવા, નોમિનેશન અને ક્લેમ પર આવ્યું મોટું અપડેટ",
+    "desc": "EPFOએ EPF, EPS અને EDLI યોજના 2026 હેઠળ PF સંબંધિત ઘણા મહત્વપૂર્ણ ફેરફારો કર્યા છે. નવા નિયમોમાં નોકરી છોડ્યા પછી સંપૂર્ણ PF બેલેન્સ ઉપાડવા માટે 12 મહિનાની બેરોજગારી, ઓનલાઈન નોમિનેશન અને PF અરજીઓના 20 દિવસના સમાધાન જેવી જોગવાઈઓ શામેલ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/epfo-changes-8-pf-rules-big-update-on-withdrawal-nomination-and-claim-487097 ",
+    "time": "2026-08-08T08:36:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "1 કલાક 50 મિનિટની ફિલ્મ તમારા મનમાં ડર વધારી દેશે, ઓટીટી પર સ્ટ્રીમ થયાની સાથે ટ્રેંડ કરવા લાગી ફિલ્મ",
+    "desc": "નેટફ્લિક્સ પર 7 ઓગસ્ટે ધ લાસ્ટ હાઉસ નામની ફિલ્મ રિલીઝ થઈ છે. આ ફિલ્મ સ્ટ્રીમ થયાની ગણતરીની કલાકોમાં ટ્રેંડ કરવા લાગી છે. તેના પરથી તમે અંદાજ લગાવી શકશો કે આ ફિલ્મ કેટલીક જોરદાર હશે. ધ લાસ્ટ હાઉસ ફિલ્મ કેવી છે અને શા માટે જોવી જોઈએ ચાલો તમને જણાવીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/netflix-must-watch-movie-of-the-week-the-last-house-here-is-review-and-rating-487096 ",
+    "time": "2026-08-08T08:10:22.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ફ્લેટ ખરીદ્યા પછી શું આપોઆપ સભ્ય બની જવાય? જાણો મેમ્બરશિપ, ટ્રાન્સફર ફી અને નોમિનેશનના નિયમો",
+    "desc": "અમદાવાદના વેસ્ટ ઝોનમાં ઘરનું ઘર ખરીદવું હવે મધ્યમવર્ગ માટે સોનાની સીડી સમાન બની ગયું છે. લાખો-કરોડો રૂપિયા ખર્ચીને ફ્લેટ ખરીદ્યા પછી પણ જો સોસાયટીના ચોપડે તમારું નામ ન ચઢે, તો માલિકી હક અધૂરો ગણાય! શું તમે જાણો છો કે ફ્લેટની રજિસ્ટ્રી થતાં જ તમે આપોઆપ સોસાયટીના મેમ્બર નથી બની જતા? જાણો કાયદાકીય નિયમો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/flat-registry-vs-society-membership-know-your-legal-rights-under-gujarat-co-operative-law-487089 ",
+    "time": "2026-08-08T07:42:49.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "50% માર્કેટ પર રાજ કરે છે આ 7-સીટર કાર! જાણો કોણ છે દેશની નંબર-1 ફેમિલી કાર, જુલાઈમાં સૌથી વધુ વેચાઈ",
+    "desc": "7-સીટર ફેમિલી કાર ઇચ્છતા ગ્રાહકો પાસે બે વિકલ્પો છે, તેઓ SUV અથવા MPV પસંદ કરી શકે છે. ફેમિલી કાર ઇચ્છતા લોકોની મોટી સંખ્યા MPV પસંદ કરે છે, અને એક કારને આનો સૌથી વધુ ફાયદો થાય છે. આ કાર લગભગ અડધા બજાર પર કબજો કરે છે. ચાલો જોઈએ કે જુલાઈમાં કોણે કેટલી MPV વેચી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/this-7-seater-car-rules-50-percent-of-the-market-know-which-is-the-country-number-1-family-car-sold-most-in-july-487092 ",
+    "time": "2026-08-08T07:27:48.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ગુજરાતીઓને હવે અમેરિકામાં સિટિઝનશિપ મેળવવી અઘરી! USમાં જન્મ લેનારા વિદેશીઓના સંતાનોને નહીં મળે નાગરિકતા",
+    "desc": "ડોનાલ્ડ ટ્રમ્પના નવા કાયદાની ભારતીયો પર મોટી અસર થશે, જેના કારણે ખાસ કરીને ગુજરાતીઓ માટે અમેરિકામાં સિટિઝનશિપ મેળવવી વધુ અઘરી બનશે. ટ્રમ્પના નવા ઓર્ડર મુજબ બર્થરાઇટ સિટિઝનશિપ પર નિયંત્રણો મૂકવામાં આવશે અને બર્થ ટુરિઝમ પર પણ સંપૂર્ણ પ્રતિબંધ મૂકવામાં આવશે, જેથી હવે USમાં જન્મ લેનારા વિદેશીઓના સંતાનોને સીધી નાગરિકતા મળશે નહીં. ટ્રમ્પે જણાવ્યું હતું કે આ અંગે સુપ્રીમનો અગાઉનો ચુકાદો દુર્ભાગ્યપૂર્ણ હતો, પરંતુ તેમના અનુસાર આ નવા આદેશો સુપ્રીમના જૂના ચુકાદા સામે ટકરાશે નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/trump-signs-new-birthright-citizenship-rules-what-it-means-for-indian-and-gujarati-487090 ",
+    "time": "2026-08-08T07:17:10.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "પેટ્રોલ-ડીઝલ છોડો....ઉત્તરાખંડના યુવકે બનાવી હવામાં ઉડતી આ ઈલેક્ટ્રિક કાર, Video જોઈ અચંબિત થશો",
     "desc": "પહાડી રાજ્ય ઉત્તરાખંડના રવિ ટમ્ટાએ ભારતમાં પોતાની ઈલેક્ટ્રિક ફ્લાઈંગ કારનું સફળ પરીક્ષણ કરીને નવો ઈતિહાસ રચી નાખ્યો છે. ખાસ વાત એ પણ છે કે આ કાર પેટ્રોલ-ડીઝલ અને ઝીરો પ્રદૂષણવાળી સ્વદેશી ટેક્નોલોજીથી બનેલી છે જે પહાડી વિસ્તારોમાં ટ્રાફિક, આફતો દરમિયાન રાહત અને બચાવ કાર્ય તથા અવરજવરના પડકારોને ઉકેલવામાં મદદરૂપ થઈ શકશે.",
@@ -504,33 +576,6 @@ const newsData_gu = [
     "time": "2026-08-05T09:22:01.000Z"
   },
   {
-    "cat": "Business",
-    "title": "શું ₹2,000 થી વધુના UPI વ્યવહારો પર ચાર્જ લાગશે? જાણી લો A થી Z સુધીના નિયમો",
-    "desc": "કેન્દ્ર સરકારે સંસદમાં એક નવું બિલ રજૂ કર્યું છે જેમાં MDR ચાર્જ ફરીથી લાગુ કરવાનો પ્રસ્તાવ છે. આ બિલ પાસ થયું તો ₹2,000થી વધુની UPI ચૂકવણીઓ પર હવે ચાર્જ આપલો પડશે. પરંતુ આ સામાન્ય ગ્રાહકો પાસેથી વસૂલવામાં આવશે નહીં. ચાલો જાણીએ કે આ નિયમો કોને લાગુ પડશે..",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/a-charge-will-apply-to-payments-exceeding-%E2%82%B92000know-the-rules-from-a-to-z-486816 ",
-    "time": "2026-08-05T08:43:06.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "EMI લેટ થવા પર શું તરત ખરાબ થઈ જાય છે CIBIL સ્કોર? જાણો કેટલા દિવસ પછી વધે છે મુશ્કેલી",
-    "desc": "જો તમારી લોનની EMI એક, બે કે ત્રણ દિવસ મોડી થાય છે, તો શું તમારા CIBIL સ્કોરને તાત્કાલિક અસર થાય છે. શું બેંક તમને ડિફોલ્ટર ગણવા લાગે છે અને તમારે કઈ મુશ્કેલીનો સામનો કરવો પડી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/does-cibil-score-immediately-deteriorate-when-emi-is-late-know-after-how-many-days-the-problem-increases-486813 ",
-    "time": "2026-08-05T07:59:16.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Gold Crash Alert! હજુ તો માત્ર ₹34000 ઘટ્યું, શું 37% સસ્તું થશે સોનું ? WGCની મોટી ચેતવણી",
-    "desc": "વર્લ્ડ ગોલ્ડ કાઉન્સિલે સોનાના ઘટતા ભાવ અંગે તેના અહેવાલમાં એક નવી ચેતવણી જાહેર કરી છે. WGCએ ભવિષ્યવાણી કરી છે કે સોનામાં જાન્યુઆરી 2026ના દરથી 37 ટકા સુધીનો ઘટાડો થઈ શકે છે, જો કે તેમણે એ પણ નોંધ્યું છે કે જાપાનીઝ યેન ઘટતા ભાવ માટે નોંધપાત્ર ટેકો તરીકે કાર્ય કરી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-crash-alert-it-has-only-fallen-by-rs-34000-will-gold-become-37-percent-cheaper-wgcs-big-warning-486807 ",
-    "time": "2026-08-05T07:05:47.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "તૃષા કૃષ્ણન માટે ડબલ મિનીંગ વાતો કરનાર ઉદયનિધિ સ્ટાલિન પર ભડકી કંગના રનૌત, વાંચો શું કહ્યું અભિનેત્રીએ",
     "desc": "બોલીવુડ અને રાજકારણમાં કોઈ મોટી ઘટના બને અને કંગના રનૌત રિએકશન ન આપે એવું ન બને. તાજેતરમાં જ તમિલનાડુના મુખ્યમંત્રી થલપતિ વિજય અને એક્ટ્રેસ તૃષા કૃષ્ણન મામલે ડબલ મિનીંગ કોમેન્ટ કરનાર રાજનેતા ઉદયનિધિ સ્ટાલિનની ધરપકડ થઈ હતી. હવે આ મામલે કંગનાએ આંકરી પ્રતિક્રિયા આપી છે.",
@@ -565,15 +610,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/jio-launches-3-in-1-plans-for-users-now-enjoy-high-speed-internet-1000-plus-tv-channels-and-12-otts-in-a-single-plan-486762 ",
     "time": "2026-08-04T16:27:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "બ્રેટ લીનું પ્રીતિ ઝિન્ટા સાથે હતું અફેર ? ક્રિકેટરે 15 વર્ષ બાદ તોડ્યું મૌન, જાણો શું કહ્યું",
-    "desc": "ઓસ્ટ્રેલિયાના ભૂતપૂર્વ ફાસ્ટ બોલર બ્રેટ લીએ પ્રીતિ ઝિન્ટા સાથેના અફેર અંગેની અફવાઓ અંગે પહેલીવાર ખુલીને વાત કરી છે. તેણે સ્પષ્ટપણે કહ્યું છે કે તેણે ક્યારેય કોઈ બોલિવૂડ અભિનેત્રીને ડેટ કરી નથી. બ્રેટ લીએ પ્રીતિને તેની સૌથી નજીકના મિત્રોમાંની એક ગણાવી હતી. પ્રીતિએ પણ અગાઉ આ અફવાઓને પાયાવિહોણી ગણાવી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/australian-cricketer-brett-lee-breaks-silence-on-dating-rumors-with-preity-zinta-486761 ",
-    "time": "2026-08-04T16:05:14.000Z"
   },
   {
     "cat": "World",
@@ -709,23 +745,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/kangana-ranaut-latest-statement-for-hrithik-roshan-apology-to-hrithik-roshan-trend-486450 ",
     "time": "2026-08-02T05:55:07.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "યુદ્ધ વચ્ચે પણ હોર્મુઝમાં &amp;#039;ખેલ&amp;#039; શરૂ, આ ખાસ રીતે બજાર સુધી પહોંચી રહ્યું છે સસ્તું ક્રૂડ!",
-    "desc": "જ્યારે હોર્મુઝ સ્ટ્રેટ બંધ કરવામાં આવ્યું ત્યારે ક્રૂડ ઓઇલના ભાવ 120 ડોલર સુધી વધી ગયા હતા. જો કે, યુદ્ધવિરામ પછી તીવ્ર ઘટાડો જોવા મળ્યો. જો કે, હોર્મુઝ દ્વારા તેલ-શટલિંગ ફરી શરૂ થવાથી કિંમતોને નિયંત્રણમાં રાખવામાં મદદ મળશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/even-amidst-the-war-games-have-started-in-hormuz-cheap-crude-is-reaching-the-market-in-this-special-way-486436 ",
-    "time": "2026-08-02T03:05:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "128KMની દમદાર રેન્જ! માત્ર 30 રૂપિયાથી ઓછામાં ફૂલ ચાર્જ.... Vidaએ લોન્ચ કર્યું શાનદાર નવું ઇલેક્ટ્રિક સ્કૂટર",
-    "desc": "Vidaએ ભારતીય બજારમાં પોતાનું નવું સ્કૂટર લોન્ચ કર્યું છે. આ સ્કૂટર 128 કિલોમીટરની રેન્જ આપે છે. તે 3.1kWh ફિક્સ્ડ બેટરી સાથે આવે છે, એટલે કે તમે આ બેટરી સ્કૂટરમાંથી કાઢી શકતા નથી. આનાથી કંપનીના VX2 પોર્ટફોલિયોમાં સ્કૂટરની સંખ્યા પાંચ થઈ ગઈ છે. ચાલો આ સ્કૂટરની ખાસિયતો જોઈએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/powerful-range-of-128km-full-charge-for-less-than-rs-30-vida-launches-a-cool-new-electric-scooter-486356 ",
-    "time": "2026-08-01T06:23:55.000Z"
   }
 ];

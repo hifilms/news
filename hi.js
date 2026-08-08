@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Yashasvi Jaiswal's struggle against left-arm pacers continues; Devdutt Padikkal manages half-century",
+    "desc": "India had a rough start with the bat in the practice game against Sri Lanka XI at the Nondescripts Cricket Ground in Colombo. Young opener Yashasvi Jaiswal struggled to make any sort of impact, scoring...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/yashasvi-jaiswal-s-struggle-against-left-arm-pacers-continues-devdutt-padikkal-manages-half-century-2026-08-08-1050765",
+    "time": "2026-08-08T08:00:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Uttarakhand CM Pushkar Dhami welcomes Rishabh Pant's request, promises help with land purchase",
+    "desc": "Uttarakhand Chief Minister Pushkar Singh Dhami has assured Rishabh Pant of government support after the India keeper-batter sought help in acquiring land in his native state. Dhami on Saturday clarified that the officials would speak...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/uttarakhand-cm-pushkar-dhami-welcomes-rishabh-pant-s-request-promises-help-with-land-purchase-2026-08-08-1050761",
+    "time": "2026-08-08T07:26:13.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Andrew Flintoff resigns from England Lions, set for next chapter in Australia",
     "desc": "Andrew Flintoff has left his position as England Lions head coach after almost two years in charge. The former England all-rounder is now preparing to take up his new role with Sydney Thunder in the...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/emilio-gay-suffers-shoulder-injury-remains-doubtful-for-pakistan-tests-as-england-seek-replacement-options-2026-08-07-1050727",
     "time": "2026-08-07T17:15:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sri Lanka Cricket announces free tickets for marquee Test series against India",
-    "desc": "Sri Lanka Cricket (SLC) has announced free tickets to selected sections for the upcoming two-Test World Test Championship series against India. The first Test will be played at the Galle International Cricket Stadium from August...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sri-lanka-cricket-announces-free-tickets-for-marquee-test-series-against-india-2026-08-07-1050726",
-    "time": "2026-08-07T16:31:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch CPL 2026 live on TV and stream online in India?",
-    "desc": "The 2026 Caribbean Premier League (CPL) is set to begin on September 8, as per Indian Standard Time, with an expanded seven-team competition. The 14th edition of the tournament will run until September 20, featuring...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/when-and-where-to-watch-cpl-2026-live-on-tv-and-stream-online-in-india-2026-08-07-1050722",
-    "time": "2026-08-07T15:46:18.000Z"
   }
 ];
