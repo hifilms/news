@@ -1,5 +1,68 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "રવિન્દ્ર જાડેજા સાથે નામ જોડાયું, પણ નસીબ નહીં: 609 વિકેટ લીધા બાદ પણ, જાડેજાએ છોડી દીધી સૌરાષ્ટ્રની ટીમ",
+    "desc": "ભારતીય ક્રિકેટમાં ઘણા ખેલાડીઓ એવા છે, જેમણે વર્ષોથી સતત શાનદાર પ્રદર્શન કર્યું છે, છતાં ટીમ ઈન્ડિયાના દરવાજા તેમના માટે ક્યારેય ખુલ્યા નથી. ધર્મેન્દ્રસિંહ જાડેજા પણ એક એવા ખેલાડી છે. તેમણે 600થી વધુ વિકેટ લીધી છે, પરંતુ હજુ સુધી ટીમ ઈન્ડિયા માટે રમ્યા નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/why-are-the-team-selectors-ignoring-dharmendrasinh-jadeja-despite-taking-the-most-wickets-in-ranji-487114 ",
+    "time": "2026-08-08T11:58:27.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સોનું ₹7,000 અને ચાંદી ₹13,000 મોંઘી ! મહિનાઓની સુસ્તી બાદ અચાનક કેમ વધવા લાગ્યા ભાવ ?",
+    "desc": "છેલ્લા કેટલાક મહિનાઓની સુસ્તી બાદ આ અઠવાડિયે સોના અને ચાંદીના ભાવમાં અચાનક ઉછાળો જોવા મળ્યો. માત્ર એક અઠવાડિયામાં સોનાના ભાવમાં પ્રતિ 10 ગ્રામ ₹7,000નો વધારો થયો, જ્યારે ચાંદીના ભાવમાં પ્રતિ કિલોગ્રામ ₹13,000નો વધારો થયો છે. ત્યારે આ વધારા પાછળનું કારણ શું છે, તેના પર એક નજર કરીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/why-gold-and-silver-prices-suddenly-increase-know-the-latest-gold-rate-487115 ",
+    "time": "2026-08-08T11:50:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ક્યાંક ડૂબતા શહેરો, તો ક્યાંક દુષ્કાળના ડાકલા! શું &amp;#039;અલ નીનો&amp;#039; બગાડી રહ્યું છે ભારતનું ચોમાસું? જાણો શું થશે અસર",
+    "desc": "દેશમાં ચોમાસાની અનિશ્ચિતતાને કારણે ક્યાંક પૂરની સ્થિતિ, તો ક્યાંક દુષ્કાળનું સંકટ ઊભું થઈ ગયું છે. હવામાનનું આ અસંતુલન અને રૌદ્ર સ્વરૂપ પાછળ 'અલ નીનો' (El Nino) અને 'ગ્લોબલ વોર્મિંગ'નો મોટો ભૂમિકા છે, જેના કારણે આગામી દિવસોમાં ખાદ્ય મોંઘવારી અને સ્વાસ્થ્ય સંબંધી પડકારો ઉભા થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/drowning-cities-in-some-places-drought-in-others-is-el-nino-%E2%80%8B%E2%80%8Bruining-india-monsoon-know-what-the-impact-will-be-487113 ",
+    "time": "2026-08-08T11:19:31.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Jioનો નવો પ્લાન લોન્ચ, માત્ર ₹2,000માં આખું વર્ષ માણો 15+ OTT એપ્સની મજા, સાથે 5G ડેટા પણ ફ્રી",
+    "desc": "જો દર મહિને વિવિધ OTT એપ્સના સબ્સ્ક્રિપ્શન લેવાથી તમારું બજેટ ખોરવાઈ રહ્યું હોય, તો રિલાયન્સ Jio તમારા માટે એક નવો પ્લાન લઈને આવ્યું છે. કંપનીએ ₹550 અને ₹2,000ની કિંમતના બે નવા OTT પ્લાન લોન્ચ કર્યા છે. આ નવા પ્લાનમાં OTT સાથે 5G ઇન્ટરનેટ પણ મળશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/jio-new-ott-pass-rs-550-and-2000-check-all-details-487112 ",
+    "time": "2026-08-08T11:08:49.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "શું કરિયાણાના દુકાનદારો અને વેપારીઓ પર પણ લાગશે UPI ચાર્જ? સામે આવ્યું મોટું અપડેટ!",
+    "desc": "UPIને લઈને એક નવો વિવાદ ઉભો થયો છે. ટીકાકારો કહે છે કે આ UPI ચાર્જ નાના વ્યવસાયોને અસર કરી શકે છે. જોકે, હવે સરકાર તરફથી એક મોટી અપડેટ બહાર પાડવામાં આવી છે, જેમાં કહેવામાં આવ્યું છે કે ગ્રાહકો અને નાના વ્યવસાયોને અસર થશે નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/will-upi-charges-also-be-levied-on-grocery-shopkeepers-and-traders-big-update-revealed-487111 ",
+    "time": "2026-08-08T10:53:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ટીમ ઈન્ડિયાને મોટો ઝટકો, આ ખતરનાક ખેલાડી શ્રીલંકા શ્રેણીમાંથી બહાર, જાણો હવે કોને મળશે તક",
+    "desc": "15 ઓગસ્ટથી શરૂ થઈ રહેલી શ્રીલંકા સામેની બે મેચની ટેસ્ટ શ્રેણી પહેલા ટીમ ઈન્ડિયાને મોટો ઝટકો લાગ્યો છે. ભારતનો નંબર ૩ બેટ્સમેન સાઈ સુદર્શન પગના અંગૂઠામાં ઈજાના કારણે શ્રીલંકા સામેની આખી ટેસ્ટ શ્રેણીમાંથી બહાર થઈ ગયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/bad-news-for-team-india-sai-sudharsan-ruled-out-of-test-series-against-sri-lanka-487110 ",
+    "time": "2026-08-08T10:26:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "7 વર્ષ મોટી હસીનાના પ્રેમમાં ક્લિન બોલ્ડ થયો ભારતીય ક્રિકેટર, T20 કારકિર્દીના પહેલા જ બોલ પર ફટકાર્યો હતો છગ્ગો",
+    "desc": "ભારતીય ક્રિકેટર રમનદીપ સિંહ લગ્નના બંધનમાં બંધાઈ ગયો છે. રમનદીપ ઘરેલુ ક્રિકેટમાં પંજાબ માટે અને IPLમાં કોલકાતા નાઈટ રાઈડર્સ માટે રમે છે. તેણે અભિનેત્રી ચાર્લી ચૌહાણ સાથે લગ્ન કર્યા છે, જે અનેક રિયાલિટી શો ઉપરાંત વિવિધ ટીવી સિરિયલોમાં પણ જોવા મળી ચૂકી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/indian-cricketer-ramandeep-singh-marriage-with-actress-charlie-chauhan-487105 ",
+    "time": "2026-08-08T09:42:09.000Z"
+  },
+  {
     "cat": "Business",
     "title": "169 ગણાથી વધુ સબસ્ક્રાઇબ થયો આ IPO, GMP દેખાડે છે આટલો ફાયદો, જાણો",
     "desc": "આ કંપનીના IPO 169 ગણાથી વધુ સબ્સક્રાઈબ થયો છે, ગ્રે માર્કેટમાં પણ કંપની સારા નફાના સંકેત આપી રહી છે. કંપની કામગીરી, જાળવણી અને સપોર્ટ સેવાઓ પૂરી પાડે છે. હાલમાં, તે નેટવર્ક કામગીરી અને જાળવણી, ઇલેક્ટ્રિકલ ઇન્ફ્રાસ્ટ્રક્ચર અને નેટવર્ક ડેવલપમેન્ટનું સંચાલન કરે છે.",
@@ -486,15 +549,6 @@ const newsData_gu = [
     "time": "2026-08-06T06:17:37.000Z"
   },
   {
-    "cat": "Business",
-    "title": "મોંઘો થશે LPG સિલિન્ડર! રસોઈ ગેસ પર ટેક્સ વસૂલવાની તૈયારીમાં સરકાર, ₹18 સુધી વધી શકે છે ભાવ",
-    "desc": "રસોઈ ગેસના ભાવમાં ફરી વધારો થઈ શકે છે, પરંતુ આ વખતે યુદ્ધને કારણે નહીં, પરંતુ સરકાર સિલિન્ડર પર ટેક્સ વસૂલવાની તૈયારી કરી રહી છે. સરકાર ગેસનો બફર સ્ટોક વધારવાની તૈયારીમાં છે, પરંતુ તેનો ખર્ચ ગ્રાહકો પાસેથી વસૂલ કરવામાં આવી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/lpg-price-hike-alert-govt-prepares-to-pass-cost-of-building-buffer-stock-to-consumers-486869 ",
-    "time": "2026-08-06T03:37:21.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "લોક અપ 2 ની વિનર બની શ્રેયા કાલરા, સોશિયલ મીડિયા ઈન્ફ્લુએન્સરની નેટવર્થ છે કરોડોની",
     "desc": "નેટફ્લિક્સ પર આવતા રિયાલીટી શો લોક અપ 2 માં વિનર બની છે શ્રેયા કાલરા. સોશિયલ મીડિયા ઈન્ફ્લુએન્સર શ્રેયા કાલરાને રોડીઝ શો થી ઓળખ મળી હતી. ફેમસ થયા પછી શ્રેયા કાલરાની નેટવર્થ કરોડોમાં પહોંચી ચુકી છે. તમે પણ જાણો સોશિયલ મીડિયા ઈન્ફ્લુએન્સર શ્રેયા કાલરાની લાઈફ જર્ની વિશે.",
@@ -556,24 +610,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/aanchal-khurana-speaks-out-on-casting-couch-bold-scenes-and-industry-mindsets-486821 ",
     "time": "2026-08-05T09:32:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "સાઈ સુદર્શન બહાર થશે તો કોને મળશે તક ? આ વિસ્ફોટક બેટ્સમેનને મળી શકે છે પ્લેઈંગ-11માં સ્થાન",
-    "desc": "શુભમન ગિલના નેતૃત્વમાં ભારતીય ટીમ મંગળવારે શ્રીલંકા સામે બે ટેસ્ટ મેચ માટે કોલંબો પહોંચી હતી, પરંતુ સાઈ સુદર્શન ટીમ સાથે શ્રીલંકા ગયો નથી. તેથી તેના રમવા અંગે સસ્પેન્સ યથાવત છે, ત્યારે જો સાઈ સુદર્શન ટીમમાંથી બહાર થાય છે, તો કોને તક મળી શકે છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/if-sai-sudarshan-is-ruled-out-of-test-series-against-sri-lanka-who-will-get-a-chance-486820 ",
-    "time": "2026-08-05T09:31:18.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "પ્લાસ્ટિકની નોટથી ક્યારથી શોપિંગ કરી શકશો તમે? RBI ગવર્નરે આપી સાચી જાણકારી",
-    "desc": "પ્લાસ્ટિકની નોટ હાલની કાગળ વાળી બેંક નોટ કરતાં ઘણી રીતે અલગ હશે. આ નોટ વધુ ટકાવ, સુરક્ષિત અને પર્યાવરણને અનુકૂળ હશે. કેન્દ્ર સરકારે બે અબજ પોલિમર બેંક નોટ છાપવાની મંજૂરી પહેલાથી જ આપી દીધી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/plastic-notes-when-will-you-be-able-to-shop-using-plastic-notes-rbi-governor-reveals-the-details-486819 ",
-    "time": "2026-08-05T09:22:01.000Z"
   },
   {
     "cat": "Entertainment",
@@ -736,14 +772,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/baby-smiles-inside-the-womb-upon-hearing-fathers-voice-heartwarming-moment-captured-on-ultrasound-video-goes-viral-486466 ",
     "time": "2026-08-02T06:19:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "કંગના-હૃતિકની દુશ્મનીમાં ફરી રેડાયું ઘી, Apology to Hrithik ટ્રેંડ પર કોમેન્ટ કરવા બદલ કંગનાએ ખખડાવ્યો હૃતિક રોશનને",
-    "desc": "કંગના રનૌત અને હૃતિક રોશન વચ્ચે દુશ્મનીની આગ ફરી એકવાર સળગી છે. સોશિયલ મીડિયા પર genz અપોલોજી ટુ હૃતિક નામથી એક ટ્રેડ ચલાવી રહ્યા છે જેના પર હૃતિકે કોમેન્ટ કરી હતી. હવે આ કોમેન્ટનો જવાબ આપતા કંગનાએ હૃતિકને કહ્યું છે કે આગમાં ઘી ન નાખો...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/kangana-ranaut-latest-statement-for-hrithik-roshan-apology-to-hrithik-roshan-trend-486450 ",
-    "time": "2026-08-02T05:55:07.000Z"
   }
 ];

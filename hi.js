@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Jemimah Rodrigues ruled out of The Hundred 2026 due to injury, in doubt for upcoming Women's Asia Cup",
+    "desc": "In a major blow, star India women’s batter Jemimah Rodrigues has been ruled out of The Hundred Women’s 2026. Representing Southern Brave in the tournament, it is worth noting that Rodrigues reportedly sustained a hamstring...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jemimah-rodrigues-ruled-out-of-the-hundred-2026-due-to-injury-in-doubt-for-upcoming-women-s-asia-cup-2026-08-08-1050784",
+    "time": "2026-08-08T11:42:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sai Sudharsan reportedly ruled out of SL Test series due to injury as fitness issues continue to pile up",
+    "desc": "The Indian team is all set to take on Sri Lanka in a two-game Test series. Starting from August 15, ahead of the series, the side is taking on Sri Lanka Cricket XI in a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sai-sudharsan-reportedly-ruled-out-of-sl-test-series-due-to-injury-as-fitness-issues-continue-to-pile-up-2026-08-08-1050775",
+    "time": "2026-08-08T10:19:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Devdutt Padikkal smashes century to keep India in the fray, middle order continues to shine in Colombo",
+    "desc": "Day 2 of the ongoing tour game between India and Sri Lanka Cricket XI saw the Indian team come in to bat. The day began with the latter stages of Sri Lanka’s innings with the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/devdutt-padikkal-smashes-century-to-keep-india-in-the-fray-middle-order-continues-to-shine-in-colombo-2026-08-08-1050773",
+    "time": "2026-08-08T09:40:13.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Yashasvi Jaiswal's struggle against left-arm pacers continues; Devdutt Padikkal manages half-century",
     "desc": "India had a rough start with the bat in the practice game against Sri Lanka XI at the Nondescripts Cricket Ground in Colombo. Young opener Yashasvi Jaiswal struggled to make any sort of impact, scoring...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/phoebe-litchfield-breaks-shafali-verma-s-women-s-hundred-record-as-leeds-beat-birmingham-2026-08-08-1050738",
     "time": "2026-08-08T01:58:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "FIFA president Gianni Infantino faces fresh scrutiny over payment linked to alleged affair",
-    "desc": "FIFA president Gianni Infantino is facing renewed scrutiny over his time at UEFA. On Friday, August 7, Europe’s governing body confirmed that a departure payment was made to a woman who was alleged to have...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/fifa-president-gianni-infantino-faces-fresh-scrutiny-over-payment-linked-to-alleged-affair-2026-08-08-1050733",
-    "time": "2026-08-08T01:02:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan bans young cricketer Hamza Nazar for two years for disciplinary regulations",
-    "desc": "Pakistan Cricket Board (PCB) has suspended young all-rounder Hamza Nazar for two years after an inquiry found that he provided misleading information and failed to disclose important details during a visa application process. The ban prevents...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-bans-young-cricketer-hamza-nazar-for-two-years-for-disciplinary-regulations-2026-08-07-1050730",
-    "time": "2026-08-07T17:55:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Emilio Gay suffers shoulder injury, remains doubtful for Pakistan Tests as England seek replacement options",
-    "desc": "England's preparations for the Test series against Pakistan have been hit by uncertainty after opener Emilio Gay suffered a right shoulder injury while playing for Durham in the One-Day Cup clash against Middlesex. His injury...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/emilio-gay-suffers-shoulder-injury-remains-doubtful-for-pakistan-tests-as-england-seek-replacement-options-2026-08-07-1050727",
-    "time": "2026-08-07T17:15:57.000Z"
   }
 ];
