@@ -1,6 +1,123 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Velumani, Viswanathan blame Palaniswami for the AIADMK’s weakening and electoral defeats since 2021",
+    "desc": "In an undated letter, they allege that the AIADMK general secretary \"disregarded\" senior BJP leader Amit Shah's proposal of alliance for the 2021 Assembly election. They also accuse him of having missed an opportunity to have an alliance with TVK",
+    "img": "https://th-i.thgim.com/public/incoming/41s90b/article71325698.ece/alternates/LANDSCAPE_1200/S.P.%20Velumani%204.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/velumani-viswanathan-squarely-blame-palaniswami-for-aiadmks-weakening-and-electoral-defeats-since-2021/article71325226.ece",
+    "time": "2026-08-09T16:44:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress to strongly oppose FCRA Bill, warns against repeating 2023 ‘mass suspension’ episode",
+    "desc": "The warning came alongside a reminder that the government had used the absence of a large part of the opposition to push through a slew of major legislation in 2023. It has asked all Opposition MPs to be present in Parliament from August 10 to 12",
+    "img": "https://th-i.thgim.com/public/incoming/abm64m/article71325750.ece/alternates/LANDSCAPE_1200/PTI08_03_2026_000521B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/congress-to-strongly-oppose-fcra-bill-warns-against-repeating-2023-mass-suspension-episode/article71325222.ece",
+    "time": "2026-08-09T16:43:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CM Vijay likely to move resolution in Assembly emphasising on mandatory rendition of ‘Tamil Thai Vazhthu’ first",
+    "desc": "The move comes against the backdrop of a letter from the Union Ministry of Home Affairs on July 9, asking the States and Union Ministries to “strictly comply” with its January 28 directive that the National Song, ‘Vande Mataram’, be played before the National Anthem at official events",
+    "img": "https://th-i.thgim.com/public/incoming/u1wp5o/article71325757.ece/alternates/LANDSCAPE_1200/PTI08_07_2026_000016B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/cm-vijay-likely-to-move-resolution-in-assembly-emphasising-on-mandatory-rendition-of-tamil-thai-vazhthu-first/article71325427.ece",
+    "time": "2026-08-09T16:41:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sonu reveals why he sang Rafi’s song during surgery",
+    "desc": "Sonu Nigam revealed the recurring growth on his left ring finger, treated once before, returned four months later. During surgery, doctor Nilesh Sathbhai played his songs, and Nigam spontaneously sang along, including Mohammed Rafi's Suhani Raat Dhal Chuki. Doctors loved the moment and recorded it, which Nigam later shared on social media.",
+    "img": "https://static.toiimg.com/photo/msid-133071096,imgsize-133862.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonu-nigam-opens-up-about-recurring-health-condition-reveals-why-he-sang-mohammed-rafis-song-during-surgery-it-just-happened-organically/articleshow/133071077.cms",
+    "time": "2026-08-09T16:29:54.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran Guards say won't reopen Hormuz without U.S. meeting Tehran's demands",
+    "desc": "Iran's security chief Mohammad Bagher Zolghadr had laid out on Saturday a list of conditions for reopening the strait, including an end to the \"war and aggression against Iran and its allies in Lebanon, Palestine, Yemen and Iraq”",
+    "img": "https://th-i.thgim.com/public/incoming/kpx6gz/article71325708.ece/alternates/LANDSCAPE_1200/Proposed-HormuzG8DGBVR33.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-guards-say-wont-reopen-hormuz-without-us-meeting-tehrans-demands/article71325696.ece",
+    "time": "2026-08-09T16:14:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shakeel arrested over alleged rape and sexual assault of actress",
+    "desc": "Filmmaker Shakeel Noorani, 73, was arrested for allegedly raping and sexually assaulting a 33-year-old actress he met in 2016. She claims he sedated, threatened and repeatedly assaulted her using a video. Noorani was traced to a Satara farmhouse and arrested. His lawyer denies the charges; he's in custody till August 12.",
+    "img": "https://static.toiimg.com/photo/msid-133070813,imgsize-218131.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/filmmaker-shakeel-noorani-arrested-over-alleged-rape-and-sexual-assault-of-actress-accused-of-sedating-and-threatening-her-lawyer-denies-charges/articleshow/133070810.cms",
+    "time": "2026-08-09T16:10:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Varanasi’: Mahesh Babu's look as Rudhra from SS Rajamouli's magnum opus unveiled",
+    "desc": "Slated for a worldwide release on April 7, 2027, ‘Varanasi’ promises to be an action-packed globe-trotting adventure featuring a star-studded cast, including Mahesh Babu, Priyanka Chopra and Prithviraj Sukumaran, with a soundtrack by Oscar-winning composer MM Keeravani",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/mnow2e/article71325666.ece/alternates/LANDSCAPE_1200/Mahesh.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/varanasi-mahesh-babu-first-look-rudhra-ss-rajamouli-priyanka-chopra-prithviraj-sukumar-globetrotter/article71324729.ece",
+    "time": "2026-08-09T15:59:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PM Modi meets CWG medallists, says ‘Jo khelega, woh khilega’",
+    "desc": "Prime Minister Narendra Modi met India’s Commonwealth Games 2026 medallists in New Delhi and congratulated them after the country finished fourth in Glasgow. Sharing a video, he wrote, \"Always #Cheer4Bharat.\" Modi told athletes, \"Jo khelega, woh khilega\" and led them in chanting \"Bharat Mata ki Jai.\" India won 39 medals, with Ahmedabad set to host the 2030 Games.",
+    "img": "https://static.toiimg.com/photo/msid-133070398,imgsize-156138.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/watch-pm-modi-meets-cwg-medallists-says-jo-khelega-woh-khilega/articleshow/133070255.cms",
+    "time": "2026-08-09T15:56:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "banner in talks with Raj &amp; DK",
+    "desc": "Mythri Movie Makers, riding on Jaat's success, is reportedly eyeing Salman Khan's superhero film directed by Raj & DK. Salman will first wrap Vamshi Paidipally's project before starting this. Another banner is also competing for co-production rights. If secured, the deal would boost Mythri's pan-India and Hindi market presence.",
+    "img": "https://static.toiimg.com/photo/msid-133070262,imgsize-130242.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khans-superhero-film-with-raj-dk-may-get-bankrolled-by-top-telugu-banner-report/articleshow/133070257.cms",
+    "time": "2026-08-09T15:41:31.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Syria says reached deal with Moscow on fate of Russian bases",
+    "desc": "Syria's official SANA news agency quoted the Foreign Ministry as saying that the Hmeimim airbase and Tartus naval base would be turned into \"joint training and capacity-building centres, within new arrangements that preserve mutual interests\".",
+    "img": "https://th-i.thgim.com/public/incoming/dftscg/article71325604.ece/alternates/LANDSCAPE_1200/2026-08-09T130436Z_699510682_RC2AMBABI4JU_RTRMADP_3_SYRIA-RUSSIA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/syria-says-reached-deal-with-moscow-on-fate-of-russian-bases/article71325596.ece",
+    "time": "2026-08-09T15:40:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Kuldeep Yadav play? India coach reveals big selection headache ahead of Galle Test",
+    "desc": "India's spin bowling coach addressed worries about Kuldeep Yadav's fitness after the warm-up match, highlighting that Kuldeep bowled almost twenty overs before taking a precautionary break to evaluate his condition. Fellow spinners Jadeja and Suthar garnered extensive pitch experience with longer spells. Meanwhile, Shubman Gill, returning from a hand injury, participated fully in drills. The team's focus remained on adapting to local conditions in readiness for the upcoming Test series.",
+    "img": "https://static.toiimg.com/photo/msid-133070241,imgsize-83186.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/will-kuldeep-yadav-play-india-coach-reveals-big-selection-headache-ahead-of-galle-test/articleshow/133070219.cms",
+    "time": "2026-08-09T15:38:09.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Accused Thai school shooter had watched violent content online, police say",
+    "desc": "According ‌to ⁠witness interviews, the perpetrator had begun showing interest in studying the use ⁠of firearms for some time, about one to two years, says Atthapol Anusit, Deputy Commissioner of the Provincial Police Region 1",
+    "img": "https://th-i.thgim.com/public/incoming/eadowt/article71325584.ece/alternates/LANDSCAPE_1200/2026-08-09T050237Z_773458663_RC2QUMALOEKO_RTRMADP_3_THAILAND-SHOOTING.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/accused-thai-school-shooter-had-watched-violent-content-online-police-say/article71325556.ece",
+    "time": "2026-08-09T15:34:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India hits 300 GW non-fossil capacity milestone ahead of 2030 target",
+    "desc": "India has now achieved over 300 GW of non-fossil fuel electricity generation capacity. This significant milestone represents more than half of the nation's total installed power capacity. Solar power leads this expansion, followed by wind and hydro energy sources. The country aims to reach 500 GW of non-fossil capacity by the year 2030. Domestic manufacturing for solar equipment has also seen substantial growth.",
+    "img": "https://static.toiimg.com/photo/msid-133070191,imgsize-70290.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/clean-power-push-india-hits-300-gw-non-fossil-capacity-milestone-ahead-of-2030-target/articleshow/133070158.cms",
+    "time": "2026-08-09T15:31:30.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "YSRCP leaders condemn arrest of Amadalavalasa in-charge in Ampolu case",
     "desc": "Chintada Ravikumar and 25 others were arrested over alleged misbehaviour with a woman Sub-Inspector during the former Chief Minister’s July 30 visit to Ampolu; families of some of the accused claimed they were not in town that day",
     "img": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-andhrapradesh/c2p1r5/article67287386.ece/alternates/LANDSCAPE_1200/Copy_of_BJP-LeG8KBNNMHH.3.jpg.jpg",
@@ -9,22 +126,13 @@ const newsData_en = [
     "time": "2026-08-09T15:17:34.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "BJP urges Governor not to accept Horatti’s resignation",
-    "desc": "A delegation of BJP leaders petitioned Governor Thaawarchand Gehlot, urging him not to accept the resignation of Legislative Council Chairman Basavaraj Horatti, on the grounds that he was allegedly forced to quit by the Congress leaders",
-    "img": "https://th-i.thgim.com/public/incoming/agvp2k/article71325468.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-09%20at%2012.26.37.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/bjp-urges-governor-not-to-accept-horattis-resignation/article71325449.ece",
-    "time": "2026-08-09T15:09:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Naidu shines spotlight on tribal artisans’ rich craft",
-    "desc": "At an exhibition organised on International Day of the World’s Indigenous Peoples, the Chief Minister walks through the stalls admiring the handicrafts displaying tribal heritage, sipping the famous Araku Valley Coffee, and sampling unfiltered wild harvest honey",
-    "img": "https://th-i.thgim.com/public/incoming/llk1x0/article71325391.ece/alternates/LANDSCAPE_1200/10215_9_8_2026_19_56_53_1_WHATSAPPIMAGE2026_08_09AT54430PM1.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-shines-spotlight-on-tribal-artisans-rich-craft/article71324716.ece",
-    "time": "2026-08-09T14:57:38.000Z"
+    "cat": "Business",
+    "title": "'$200 billion market in 15 countries': Here's what India can do if US slaps 100% tariffs",
+    "desc": "As the US contemplates imposing substantial tariffs on Russian crude, India is strategically exploring alternative markets to bolster its exports. With fifteen potential markets worth an impressive two hundred billion dollars, Indian exporters are adapting to global challenges. In contrast to the US, where merchandise exports reached eighty-seven billion dollars, shipments to alternative destinations are growing more rapidly, indicating resilient export dynamics.",
+    "img": "https://static.toiimg.com/photo/msid-133070024,imgsize-223950.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/200-billion-market-in-15-countries-heres-what-india-can-do-if-us-slaps-100-tariffs/articleshow/133069941.cms",
+    "time": "2026-08-09T15:15:58.000Z"
   },
   {
     "cat": "Entertainment",
@@ -54,15 +162,6 @@ const newsData_en = [
     "time": "2026-08-09T14:43:27.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Paddy farmers face ₹3.07 lakh crore loss; Samyukta Kisan Morcha calls nationwide protests",
-    "desc": "The protests will seek a legal guarantee for MSP based on the C2+50% formula for paddy and other major crops. SKM demands that the Union government legally guarantee the ₹3,243 MSP for paddy for 2026-27 and ensure procurement",
-    "img": "https://th-i.thgim.com/public/incoming/c9nv4w/article71325274.ece/alternates/LANDSCAPE_1200/Paddy_4.JPG_GOSGACG6PGBG.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/paddy-farmers-face-307-lakh-crore-loss-samyukta-kisan-morcha-calls-nationwide-protests/article71324940.ece",
-    "time": "2026-08-09T14:37:16.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sarfaraz Khan replaces Sai Sudharsan in India squad for Sri Lanka Tests",
     "desc": "India's Test squad sees a new addition as Sarfaraz Khan steps in for the injured Sai Sudharsan ahead of the Sri Lanka series. Sudharsan is sidelined due to a toe injury. The selectors felt Sarfaraz's middle-order experience would be invaluable. After a warm-up triumph, the team gears up for the first Test match starting on August 15.",
@@ -79,24 +178,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/attempt-to-murder-tmc-mps-blame-bjp-for-attack-on-mamata-banerjees-car-claim-cm-suvendu-link/articleshow/133069189.cms",
     "time": "2026-08-09T14:32:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Officials highlight education, welfare for tribals on World Adivasi Day",
-    "desc": "Celebrations held across Chittoor and Sri Sathya Sai districts; Chittoor Collector directs the officials to expedite land titles for eligible tribal farmers cultivating in gap areas and improve drinking water and mobile connectivity in tribal habitations",
-    "img": "https://th-i.thgim.com/public/incoming/pznf0j/article71324932.ece/alternates/LANDSCAPE_1200/10215_9_8_2026_17_1_27_1_WHATSAPPIMAGE2026_08_09AT44432PM.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/officials-highlight-education-welfare-for-tribals-on-world-adivasi-day/article71324600.ece",
-    "time": "2026-08-09T14:32:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Mamata visits residence of Trinamool worker who died in police custody, faces protests",
-    "desc": "Locals raised slogans against the former West Bengal Chief Minister and attacked the vehicle in which she was travelling. She says police did not take adequate security measures despite receiving prior information on her visit",
-    "img": "https://th-i.thgim.com/public/incoming/tqekez/article71324545.ece/alternates/LANDSCAPE_1200/PTI07_21_2026_000406A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/mamata-visits-residence-of-trinamool-worker-who-died-in-police-custody-faces-protests/article71324471.ece",
-    "time": "2026-08-09T14:29:41.000Z"
   },
   {
     "cat": "Entertainment",
@@ -117,15 +198,6 @@ const newsData_en = [
     "time": "2026-08-09T14:18:52.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Police crackdown on public drinking and drunk driving in Kadapa district",
-    "desc": "They book cases against 231 persons for consuming alcohol in public places, while 55 cases were filed against motorists for drunk driving; SP directs the police personnel to maintain strict vigil and take firm action against violators",
-    "img": "https://th-i.thgim.com/public/incoming/isr2kb/article71325162.ece/alternates/LANDSCAPE_1200/10215_9_8_2026_17_36_24_1_WHATSAPPIMAGE2026_08_09AT53435PM.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/police-crackdown-on-public-drinking-and-drunk-driving-in-kadapa-district/article71324937.ece",
-    "time": "2026-08-09T14:15:22.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'That one thing completely changed': Rahane reveals how CSK transformed his IPL career",
     "desc": "In 2023, Ajinkya Rahane reinvented his approach during the IPL while playing for Chennai Super Kings. With an impressive strike rate of 172.48, he showcased a marked evolution, driven by focused preparation and newfound confidence. Embracing a fearless mentality supported by his team, Rahane defied the conventional narrative of athletes slowing down at 35, instead, embarking on a remarkable career resurgence.",
@@ -133,15 +205,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/that-one-thing-completely-changed-ajinkya-rahane-reveals-how-csk-transformed-his-ipl-career/articleshow/133069091.cms",
     "time": "2026-08-09T14:13:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Lack of updated crew record raises safety concerns at Kozhikode fishing harbours",
-    "desc": "Harbour action committee leaders allege that some migrant fishers are suspected of using fake identity documents, including Aadhaar cards, to evade occasional inspections. They say the absence of a systematic record-keeping mechanism could pose serious difficulties in identifying crew members in the event of accidents at sea.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/lack-of-updated-crew-record-raises-safety-concerns-at-kozhikode-fishing-harbours/article71324525.ece",
-    "time": "2026-08-09T14:12:37.000Z"
   },
   {
     "cat": "Entertainment",
@@ -531,33 +594,6 @@ const newsData_en = [
     "time": "2026-08-09T07:49:20.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Batwara 1947' cast fees: Sunny takes home Rs 60 cr; know more",
-    "desc": "Rajkumar Santoshi's upcoming cinematic venture 'Batwara 1947' is anticipated to hit theaters in August 2026. Leading the cast, Sunny Deol is making waves with a reported remuneration of Rs 60 crore, alongside notable actors Preity Zinta and Ali Fazal, who are also set to earn substantial amounts. This historical drama recounts the painful narrative of India's partition, with the first trailer revealing details on July 28, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-133064028,imgsize-574796.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/batwara-1947-cast-salary-revealed-sunny-deol-reportedly-takes-home-rs-60-crore-preity-zinta-rs-10-crore-and-ali-fazal-rs-7-crore-ahead-of-august-14-release/articleshow/133063999.cms",
-    "time": "2026-08-09T07:46:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shah Rukh Khan’s co-stars Sagarika Ghatge and Vivan Bhatena reunite after 20 years,",
-    "desc": "Sagarika Ghatge and Vivan Bhatena are making a delightful comeback in a new film, reuniting after almost 20 years. The actors recently posted a spirited photo from their upcoming project, which is expected to hit theaters in 2027. This film also marks Sagarika's return to acting after embracing motherhood, invoking fond memories for fans of their earlier collaboration.",
-    "img": "https://static.toiimg.com/photo/msid-133064018,imgsize-1173265.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khans-chak-de-india-co-stars-sagarika-ghatge-and-vivan-bhatena-reunite-after-20-years-film-to-release-in-2027/articleshow/133064001.cms",
-    "time": "2026-08-09T07:45:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ravi reacts to 'money follows' remark: 'Reputation is more...'",
-    "desc": "Ravi Kishan, the beloved actor, recently made headlines with his witty take on viral fame and money, resulting in a wave of online engagement. Amidst laughter and memes, he acknowledged the popularity of his antics, highlighting that they resonate with his true self. Kishan opined that a positive reputation is richer than wealth, which tends to accumulate on its own.",
-    "img": "https://static.toiimg.com/photo/msid-133063903,imgsize-296875.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ravi-kishan-explains-he-still-cant-figure-out-why-he-goes-viral-after-money-follows-my-brother-remark-and-memes-reputation-is-more-valuable-than-money/articleshow/133063771.cms",
-    "time": "2026-08-09T07:32:32.000Z"
-  },
-  {
     "cat": "World",
     "title": "Former U.S. President Biden’s cancer has spread, it’s very painful, says son",
     "desc": "In May 2025, just four months after he left office as the oldest sitting President, Joe Biden revealed he had been diagnosed with an aggressive form of prostate cancer that had spread to his bones",
@@ -604,30 +640,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "‘I would have banned Ganguly’: Srinath on Waugh’s wait during 2001 Eden Test toss",
-    "desc": "Javagal Srinath expressed that he might have imposed a ban on Sourav Ganguly for his delay in tossing the coin, though he acknowledged Ganguly's exceptional leadership and his ability to foster new talent. The landscape of Indian cricket saw immense transformation following the match-fixing scandal in the late 1990s, with players united in their commitment to rehabilitating the sport's reputation.",
-    "img": "https://static.toiimg.com/photo/msid-133062123,imgsize-126180.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-would-have-banned-sourav-ganguly-javagal-srinath-on-steve-waughs-wait-during-2001-eden-test-toss/articleshow/133062092.cms",
-    "time": "2026-08-09T04:10:02.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "how Miss Giggles is laughing her way to the top",
     "desc": "The 18-year-old recently became the first Indian squash player to be crowned Junior World champion. How did the ‘very chilled’, ‘happy-go-lucky kid’ conquer the might of Egypt? And what does the future hold for the prodigy who reads opponents and situations better than most?",
     "img": "https://th-i.thgim.com/public/incoming/es0i9w/article71320483.ece/alternates/LANDSCAPE_1200/A1.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/anahat-singh-junior-world-squash-champion-india-la-2028-olympics/article71320486.ece",
     "time": "2026-08-09T04:01:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Basant Meghwal makes history with silver at World Athletics U20 Championships",
-    "desc": "In a groundbreaking performance, Basant Kumar Meghwal elevated himself into the record books by winning a silver medal in the men's high jump, reaching a personal best of 2.21 meters. This victory makes him the first Indian high jumper to achieve this honor at the championship. Additionally, Ashish Yadav's silver medal in javelin throw helped boost India's total medal count to two.",
-    "img": "https://static.toiimg.com/photo/msid-133061926,imgsize-1238400.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/basant-kumar-meghwal-creates-history-with-silver-medal-at-world-athletics-u20-championships/articleshow/133061896.cms",
-    "time": "2026-08-09T03:48:08.000Z"
   },
   {
     "cat": "Business",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/hiroshima-marks-81st-atomic-bomb-anniversary-as-mayor-deplores-pursuit-of-nuclear-weapons/article71312178.ece",
     "time": "2026-08-08T18:50:23.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Auto retail sales in July 2026 surge 26% YoY to 25.91 lakh units",
-    "desc": "Total EV retails touched 3,27,901 units — the highest for any month in history — with 2W and CV EV volumes at all-time records, taking overall EV penetration to about 12.7% from 9.6% a year ago says FADA.",
-    "img": "https://th-i.thgim.com/public/incoming/tk0kjx/article71312864.ece/alternates/LANDSCAPE_1200/2023-11-06T073929Z_1139731681_RC27G3A35FJ1_RTRMADP_3_INDIA-AUTOS-SALES.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/auto-retail-sales-in-july-2026-surge-26-yoy-to-2591-lakh-units/article71312828.ece",
-    "time": "2026-08-08T18:49:28.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Tewolde Gebremariam is Air India’s new CEO",
-    "desc": "“His unique strength lies in managing complex operational landscapes, driving cultural transformation, building competitive global hubs, and developing world-class MRO (Maintenance, Repair, and Overhaul) and aviation training infrastructure,” a press statement from Air India said about Mr. Gebremariam",
-    "img": "https://th-i.thgim.com/public/news/national/pegifu/article71309616.ece/alternates/LANDSCAPE_1200/Air%20India.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/tewolde-gebremariam-air-india-new-ceo/article71309586.ece",
-    "time": "2026-08-08T18:32:13.000Z"
   }
 ];

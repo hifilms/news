@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "એક જ અઠવાડિયામાં સોનાના ભાવમાં 8% નો વધારો, શું અત્યારે ખરીદી કરવી કે ઘટાડાની રાહ જોવી? જાણો",
+    "desc": "આ અઠવાડિયામાં સોનાના ભાવમાં જબરદસ્ત વધારો જોવા મળ્યો છે. અમેરિકી રોજગારીના આંકડાઓને કારણે યુએસ ફેડરલ રિઝર્વ દ્વારા વ્યાજ દર વધારવાની આશા નબળી પડી છે, જ્યારે ડોલર અને અમેરિકી ટ્રેજરી યીલ્ડમાં નરમાઈ આવવાથી સોનાને સપોર્ટ મળ્યો છે. આ સ્થિતિમાં શું સોનું ખરીદવું જોઈએ કે નહીં? ચાલો વિગતવાર જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-prices-rise-by-8-percent-in-a-single-week-should-you-buy-now-or-wait-for-a-decline-know-487255 ",
+    "time": "2026-08-09T18:01:45.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "મોંઘવારીનો વધુ એક ઝટકો! ફરી મોંઘી થશે રોજિંદા વપરાશની ચીજવસ્તુઓ, જાણો કઈ-કઈ વસ્તુઓના વધશે ભાવ",
+    "desc": "સપ્ટેમ્બર ક્વાર્ટરમાં સામાન્ય લોકોને મોંઘવારીનો વધુ એક ઝટકો લાગી શકે છે. જી હા... કારણ કે મોટી FMCG કંપનીઓ કાચા માલની વધતી કિંમતો વચ્ચે ઉત્પાદનોની કિંમતોમાં ફરીથી વધારો કરવા પર વિચાર કરી રહી છે. આનાથી સપ્ટેમ્બરમાં બિસ્કિટ, સાબુ અને શેમ્પૂ જેવી ઘણી વસ્તુઓ મોંઘી થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/another-blow-to-inflation-daily-necessities-will-become-expensive-again-know-which-items-will-see-their-prices-increase-487253 ",
+    "time": "2026-08-09T16:44:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "શ્રીલંકા સામેની મેચ જીત્યા બાદ પણ ભારતીય બેટ્સમેનો કરી રહ્યા હતા બેટિંગ, જાણો શું હતું કારણ",
+    "desc": "ભારતીય ટીમે રવિવારે શ્રીલંકા ક્રિકેટ ઈલેવન સામેની ત્રણ દિવસીય પ્રેક્ટિસ મેચ છ વિકેટથી જીતી લીધી હતી. જોકે, જીત મેળવ્યા બાદ પણ, ભારતીય બેટ્સમેનોએ બેટિંગ ચાલુ રાખી હતી. ત્યારે આ લેખમાં જાણીશું કે મેચ જીત્યા બાદ પણ બેટ્સમેનો કેમ બેટિંગ રમી રહ્યા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/indian-batsmen-kept-batting-even-after-winning-match-against-sri-lanka-487252 ",
+    "time": "2026-08-09T16:03:21.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Video",
     "desc": "રવિવારે પશ્ચિમ બંગાળના હલીશહરમાં પ્રદર્શનકારીઓએ ભૂતપૂર્વ મુખ્યમંત્રી મમતા બેનર્જીના કાફલા પર હુમલો કર્યો હતો. ગાડી પર કાદવ અને જૂતા ફેંકતા ભારે હોબાળો મચી ગયો. આ ઘટના બાદ મમતા બેનર્જીએ કહ્યું કે, જો કાચ ન હોત, તો મારું માથું ફાટી ગયું હોત.",
@@ -504,15 +531,6 @@ const newsData_gu = [
     "time": "2026-08-07T05:02:57.000Z"
   },
   {
-    "cat": "Business",
-    "title": "પેટ્રોલમાં ઇથેનોલની જેમ CNG-PNG માં ભેળવાશે બાયોગેસ: દેશમાં 1.50 લાખ નવી રોજગારીનું થશે સર્જાશે, &amp;#039;ગોબરધન&amp;#039; યોજનાને મંજૂરી",
-    "desc": "દેશના CNG અને ઘરેલુ PNG ક્ષેત્રમાં દરરોજ અંદાજે 34-35 મિલિયન મેટ્રિક સ્ટાન્ડર્ડ ક્યુબિક મીટર ગેસ (MMSCMD) નો વપરાશ થાય છે. વાર્ષિક ધોરણે લગભગ 2,60,000 થી 3,00,000 ટન બાયોગેસની જરૂરિયાત રહેશે, જેના કારણે આ યોજના અત્યંત મહત્વપૂર્ણ બની રહે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/biogas-to-be-blended-with-cng-png-cabinet-approves-rs-23731-crore-gobar-dhan-scheme-486965 ",
-    "time": "2026-08-07T03:43:47.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "ભાજપમાં તમારા મનપસંદ નેતા કોણ? રાહુલ ગાંધીએ આપ્યો રસપ્રદ જવાબ, સાથે કારણ પણ જણાવ્યું",
     "desc": "કોંગ્રેસ નેતા અને લોકસભામાં વિપક્ષના નેતા રાહુલ ગાંધીએ આખરે જણાવી દીધુ કે ભારતીય જનતા પાર્ટીમાં તેમના મનગમતા નેતા કયા છે. તમે પણ આ પ્રશ્નના જવાબની આતુરતાથી રાહુ જોતા હશો તો જવાબ જાણવા માટે આ અહેવાલ ખાસ વાંચો.",
@@ -529,15 +547,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/pavitra-rishta-fame-actress-usha-nadkarni-lives-alone-at-age-of-80-son-refuse-to-accept-her-in-old-age-486955 ",
     "time": "2026-08-07T02:09:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM મોદીનો નવો ઇન્સ્ટાગ્રામ વીડિયો... વિદ્યાર્થી નહીં, આ વખતે હેન્ડલૂમ ડેને લઈને કરી આ ખાસ અપીલ",
-    "desc": "PM મોદીની હાલની રીલો વિદ્યાર્થી આંદોલનો અને યુવાનોના મુદ્દાઓ સાથે જોડાયેલી હતી, પરંતુ આ પહેલીવાર છે જ્યારે તેમણે હાથવણાટ દિવસ અને 'વોકલ ફોર લોકલ'ના સંકલ્પને લઈને એક ખાસ રીલ શેર કરી છે. આવો જાણીએ કે તેમણે આ રીલના માધ્યમથી શું અપીલ કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/pm-modi-new-instagram-reel-not-a-student-this-time-he-made-this-special-appeal-regarding-handloom-day-486953 ",
-    "time": "2026-08-06T17:37:22.000Z"
   },
   {
     "cat": "Tech",
