@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Let them play freely': Former India cricketer backs Rohit-Virat to be India's ranks ahead of ODI WC 2027",
+    "desc": "The Indian team is hard at work preparing for the upcoming ODI World Cup 2027. There has been major discussion over what the Indian squad could look like for the upcoming World Cup. Ahead of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/let-them-play-freely-former-india-cricketer-backs-rohit-virat-to-be-india-s-ranks-ahead-of-odi-wc-2027-2026-08-09-1050854",
+    "time": "2026-08-09T11:58:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Basant Kumar Meghwal scripts history, clinches silver medal at the World Athletics U20 Championships",
+    "desc": "In a major development, Basant Kumar Meghwal has added to India’s tally after he clinched the silver medal at the ongoing World Athletics U20 Championships in the men’s high jump event. Hailing from Anupgarh in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/basant-kumar-meghwal-scripts-history-clinches-silver-medal-at-the-world-athletics-u20-championships-2026-08-09-1050848",
+    "time": "2026-08-09T10:55:48.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Shubman Gill captured practicing warm-up drills ahead of Sri Lanka Test amid injury concerns",
     "desc": "The stage is set for the upcoming two-game Test series between India and Sri Lanka. Both sides will lock horns for the first Test of the series at the Galle International Stadium from August 15th....",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/lionel-messi-s-father-jorge-passes-away-at-68-after-battling-prolonged-health-problems-2026-08-08-1050794",
     "time": "2026-08-08T14:02:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Andrew McDonald reflects on IPL's scheduling ahead of Australia's relentless run of matches",
-    "desc": "The Australian cricket team is all set for a hectic schedule; the side is all set to play 20 Test matches and 12 white-ball matches in the next 12 months. The side begins their run...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/andrew-mcdonald-reflects-on-ipl-s-scheduling-ahead-of-australia-s-relentless-run-of-matches-2026-08-08-1050790",
-    "time": "2026-08-08T13:24:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jemimah Rodrigues ruled out of The Hundred 2026 due to injury, in doubt for upcoming Women's Asia Cup",
-    "desc": "In a major blow, star India women’s batter Jemimah Rodrigues has been ruled out of The Hundred Women’s 2026. Representing Southern Brave in the tournament, it is worth noting that Rodrigues reportedly sustained a hamstring...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jemimah-rodrigues-ruled-out-of-the-hundred-2026-due-to-injury-in-doubt-for-upcoming-women-s-asia-cup-2026-08-08-1050784",
-    "time": "2026-08-08T11:42:14.000Z"
   }
 ];

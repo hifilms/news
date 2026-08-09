@@ -1,6 +1,42 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "સિરીઝ માટે બાંગ્લાદેશ જશે ટીમ ઈન્ડિયા ? BCCIએ તોડ્યું મૌન, હવે સરકારે લેવો પડશે મોટો નિર્ણય",
+    "desc": "ભારત અને બાંગ્લાદેશ વચ્ચે સપ્ટેમ્બરમાં યોજાનારી શ્રેણી હજુ પણ અનિશ્ચિત છે. ભારતીય ટીમ આ શ્રેણી માટે બાંગ્લાદેશ જશે કે નહીં તે અંગે BCCI દ્વારા એક મોટું નિવેદન આપવામાં આવ્યું છે અને તેમનું વલણ સ્પષ્ટ કર્યું છે, હવે આ અંગે સરકાર શું નિર્ણય લે છે, તેના પર બધાની નજર છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/india-vs-bangladesh-white-ball-series-bcci-breaks-silence-487237 ",
+    "time": "2026-08-09T12:02:48.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "અમેરિકા સાથેની વાતચીત વચ્ચે ઇઝરાયેલનું મોટું પગલું, રદ કરી તમામ લશ્કરી રજાઓ; શું ઈરાન પર મોટો હુમલો થવાનો છે?",
+    "desc": "અમેરિકા અને ઈરાન વચ્ચે વાતચીત ચાલી રહી છે. આ દરમિયાન ઇઝરાયેલે એક મોટું પગલું ભર્યું છે. ઇઝરાયેલી લશ્કરી દળોએ તમામ સૈનિકોની રજાઓ રદ કરી દીધી છે. સૂત્રોના જણાવ્યા અનુસાર, વડાપ્રધાન બેન્જામિન નેતન્યાહુ ઈરાન પર નવા મોટા હુમલાની તૈયારી કરી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/israel-big-move-amid-talks-with-america-canceling-all-military-holidays-is-there-going-to-be-a-major-attack-on-iran-487228 ",
+    "time": "2026-08-09T10:57:20.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "AIથી કોને સૌથી વધુ ખતરો? સર્વેએ કર્યા આશ્ચર્યચકિત, જેના હાથમાં AIની કમાન તેમને જ નોકરી ગુમાવવાનો ડર, ઇજનેરો છે રિલેક્સ",
+    "desc": "AIના આવ્યા પછી, ટેક અને અન્ય ક્ષેત્રોમાં છટણી અંગે ચિંતા વધી રહી છે. એક નવા સર્વેમાં એક ચોંકાવનારો ખુલાસો થયો છે. 66 ટકા AI ડેવલપર્સ નોકરી ગુમાવવાનો ડર રાખે છે, જ્યારે એન્જિનિયરો આ ડરથી ડરતા નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/who-is-most-at-risk-from-ai-survey-surprises-those-in-control-of-ai-are-the-only-ones-who-fear-losing-their-jobs-487226 ",
+    "time": "2026-08-09T10:28:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "મોંઘવારીનો વધુ એક માર ! 11 ઓગસ્ટથી આ રાજ્યમાં મોંઘું થશે દૂધ, જાણો ભાવમાં કેટલો થશે વધારો",
+    "desc": "મહારાષ્ટ્રમાં ગ્રાહકોને હવે દૂધની વધુ કિંમત ચૂકવવી પડશે. રાજ્યમાં ગાય અને ભેંસના દૂધના ભાવમાં પ્રતિ લિટર ₹2નો વધારો કરવાનો નિર્ણય લેવામાં આવ્યો છે, જે 11 ઓગસ્ટથી અમલમાં આવશે. ડેરી ઉત્પાદનો પણ મોંઘા થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/maharashtra-milk-price-rise-by-2-rupees-per-liter-cow-buffalo-milk-rate-hike-487225 ",
+    "time": "2026-08-09T10:09:06.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "યશસ્વી જયસ્વાલ પર લાગવાનો હતો બેન, ચિઠ્ઠી પણ લખાઈ ગઈ હતી, રહાણેએ ખોલ્યું મોટું રહસ્ય",
     "desc": "ટીમ ઈન્ડિયાનો સ્ટાર ઓપનર યશસ્વી જયસ્વાલ હાલમાં શ્રીલંકા પ્રવાસ પર છે. તે 15 ઓગસ્ટથી શરૂ થનારી ટેસ્ટ શ્રેણી દરમિયાન એક્શનમાં જોવા મળશે. આ દરમિયાન પૂર્વ ભારતીય ક્રિકેટર અજિંક્ય રહાણેએ તેના વિશે એક ચોંકાવનારો ખુલાસો કર્યો છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -459,15 +495,6 @@ const newsData_gu = [
     "time": "2026-08-07T06:49:48.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "પેટ્રોલમાં ઈથેનોલ બાદ CNG-PNGમાં બાયોગેસ મિક્સ કરવાની સરકારની યોજના, 23 હજાર કરોડની યોજના કરી જાહેર, જાણી લો કઈ છે યોજના",
-    "desc": "દેશના ગ્રામીણ અર્થતંત્ર અને ઊર્જા ક્ષેત્રે મોટો ધડાકો કરતા કેન્દ્ર સરકારે ₹૨૩,૭૩૧ કરોડના વિશાળ બજેટ સાથે 'ગોબરધન' (GOBARdhan) યોજનાને મંજૂરી આપી દીધી છે. રાષ્ટ્રીય સર્ક્યુલર બાયોએનર્જી મિશન હેઠળ શરૂ કરાયેલી આ યોજનાનો મુખ્ય ઉદ્દેશ્ય ગાયના છાણ અને કૃષિ કચરામાંથી બાયોગેસ તથા કમ્પ્રેસ્ડ બાયોગેસ (CBG) નું ઉત્પાદન ઝડપથી વધારવાનો છે. કેન્દ્ર સરકારના આ નિર્ણયથી હવે દેશના ખેડૂતો અને પશુપાલકો માટે કચરામાંથી કમાણી અને વધારાની આવકના નવા દ્વાર ખુલશે.પે ટ્રોલમાં ઈથેનોલ બાદ CNG-PNGમાં બાયોગેસ મિક્સ કરવાની સરકારની યોજના ગણાવાઈ રહી છે. 23 હજાર કરોડની યોજના જાહેર કરી છે. જાણી લો કઈ છે યોજના",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/gobardhan-scheme-gets-%E2%82%B923731-crore-push-govt-approves-bioenergy-mission-to-boost-rural-economy-clean-energy-486934 ",
-    "time": "2026-08-07T06:19:13.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ચેન્નઈ નહીં KKRમાં જોડાશે હાર્દિક પંડ્યા? ₹25 કરોડ સાથે મળશે કેપ્ટનશીપ!",
     "desc": "હાર્દિક પંડ્યા આઈપીએલ 2027મા કઈ ટીમ માટે રમશે, ક્રિકેટ ફેન્સ વચ્ચે આ સવાલની ખુબ ચર્ચા થઈ રહી છે. આ વચ્ચે એક રિપોર્ટમાં દાવો કરવામાં આવ્યો કે હાર્દિકને ટ્રેડ કરવાની રેસમાં કોલકત્તા નાઈટ રાઇડર્સ પણ સામેલ થઈ ગયું છે.",
@@ -540,15 +567,6 @@ const newsData_gu = [
     "time": "2026-08-06T13:40:49.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "હવે ગોબરથી થશે કમાણી! મોદી કેબિનેટે &amp;#039;ગોવર્ધન&amp;#039; યોજનાને આપી મંજૂર, ખેડૂતોની આવક થશે બમણી",
-    "desc": "કેન્દ્ર સરકારે દેશમાં બાયોગેસ ઉત્પાદનને પ્રોત્સાહન આપવાના હેતુથી એક નવી યોજનાને મંજૂરી આપી છે. આ યોજનાનું નામ 'ગોવર્ધન' (GOBARdhan) છે. આશરે 23,731 કરોડ રૂપિયાના કુલ ખર્ચવાળી આ યોજનાને કેન્દ્રીય મંત્રીમંડળે ગુરુવારે મંજૂરીની મહોર મારી દીધી છે. આ ઉપરાંત સરકારે અન્ય કેટલાક મહત્ત્વપૂર્ણ નિર્ણયો પણ લીધા છે. આવો તેની વિગતો જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/now-you-will-earn-money-from-cow-dung-modi-cabinet-approves-govardhan-scheme-farmers-income-will-double-486933 ",
-    "time": "2026-08-06T13:06:17.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ગાલે ટેસ્ટ પહેલા ભારતીય ટીમ માટે ખરાબ સમાચાર, શુભમન ગિલ ઈજાગ્રસ્ત, જાણો કેટલી ગંભીર છે ઈજા",
     "desc": "ભારત અને શ્રીલંકા વચ્ચે ટેસ્ટ શ્રેણી શરૂ થાય તે પહેલાં ખરાબ સમાચાર સામે આવ્યા છે. કેપ્ટન શુભમન ગિલને નેટમાં બેટિંગ કરતી વખતે બોલ વાગવાથી અંગૂઠામાં ઈજા થઈ હતી. તેને તાત્કાલિક મેડિકલ સ્ટાફ પાસેથી સારવાર લેવી પડી હતી.",
@@ -556,15 +574,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/bad-news-for-team-india-before-galle-test-shubman-gill-injured-during-training-486932 ",
     "time": "2026-08-06T12:17:15.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "શું હવે UPI પેમેન્ટ પર લાગશે ચાર્જ? સંસદમાં નવું ટેક્સ સંશોધન બિલ પાસ, જાણો રોકાણથી લઈને ટેક્સ સુધી શું-શું બદલાશે",
-    "desc": "ગુરુવારે લોકસભામાં ટેક્સેશન એન્ડ અધર લોઝ (અમેન્ડમેન્ટ) બિલ પાસ થઈ ગયું છે. સરકાર આ બિલના માધ્યમથી વિદેશી રોકાણને આકર્ષવા, મેક ઇન ઇન્ડિયાને મજબૂત કરવાની સાથે-સાથે 'ઇઝ ઓફ ડૂઇંગ બિઝનેસ'ને આગળ વધારવાનો માસ્ટરપ્લાન તૈયાર કરી રહી છે. જો કે, આ બિલ સામાન્ય જનતા પર પણ અસર કરશે. ચાલો આ બિલ અંગે વિગતવાર જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/will-there-be-charges-on-upi-payments-now-new-tax-amendment-bill-passed-in-parliament-know-what-will-change-from-investment-to-tax-486931 ",
-    "time": "2026-08-06T12:16:20.000Z"
   },
   {
     "cat": "Sports",
@@ -583,15 +592,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/from-kl-rahul-to-ishan-kishan-these-5-players-of-team-india-are-doing-government-jobs-486914 ",
     "time": "2026-08-06T09:55:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "8મા પગાર પંચ પહેલા સરકારી કર્મચારીઓ માટે ખુશીના સમાચાર, DAમાં થશે 3%નો વધારો, જાણો કેટલો વધશે પગાર",
-    "desc": "કેન્દ્ર સરકારના એક કરોડથી વધુ કર્મચારીઓ અને પેન્શનરો માટે ખુશીના સમાચાર સામે આવ્યા છે. કેન્દ્રીય કર્મચારીઓને મોંઘવારી ભથ્થામાં 3%નો વધારો મળી શકે છે, જે બાદ DA 60%થી વધીને 63% થઈ જશે, ત્યારે આ વધારા બાદ તમારો પગાર કેટલો વધશે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/good-news-for-govt-employees-before-8th-pay-commission-da-hike-3-persent-486913 ",
-    "time": "2026-08-06T09:32:46.000Z"
   },
   {
     "cat": "Entertainment",
@@ -646,15 +646,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/ather-konarc-electric-scooter-launch-date-announced-know-price-and-features-486854 ",
     "time": "2026-08-05T15:59:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "MIએ અચાનક લીધો મોટો નિર્ણય, ટ્રેન્ટ બોલ્ટ અને પોલાર્ડને કર્યા રિલીઝ",
-    "desc": "SA20 2026-27 મીની-ઓક્શન પહેલા ડિફેન્ડિંગ ચેમ્પિયન MI કેપ ટાઉને ટ્રેન્ટ બોલ્ટ, કિરોન પોલાર્ડ અને રાસી વાન ડેર ડુસેનને રિલીઝ કરીને એક મોટો નિર્ણય લીધો છે. હવે એવું અનુમાન કરવામાં આવી રહ્યું છે કે મુંબઈ ઇન્ડિયન્સ IPLમાં બોલ્ટ અંગે પણ આવો જ નિર્ણય લઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/sa20-mi-cape-town-releases-trent-boult-and-kieron-pollard-486850 ",
-    "time": "2026-08-05T14:23:09.000Z"
   },
   {
     "cat": "Tech",
