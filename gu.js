@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "મોજતબા ખામેની જીવતા અને સ્વસ્થ છે? ઈરાની એજન્સીએ જાહેર કર્યો વીડિયો, ઇઝરાયલી મીડિયાના દાવાથી મચ્યો હતો હડકંપ",
+    "desc": "ઇઝરાયલી અને અમેરિકન હુમલાઓમાં તેમના પિતા આયાતુલ્લાહ અલી ખામેનીના મૃત્યુ પછી સુપ્રીમ લીડર બનેલા મોજતબા ખામેનીના સ્વાસ્થ્ય અંગે વિશ્વભરના મીડિયામાં વિવિધ અહેવાલો પ્રકાશિત થઈ રહ્યા હતા. હવે, ઈરાને મોજતબાનો એક વીડિયો જાહેર કરીને સસ્પેન્સનો અંત લાવ્યો છે અને એક મોટો સંકેત આપ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/is-mojtaba-khamenei-alive-and-well-iranian-agency-releases-video-israeli-media-claims-cause-uproar-487157 ",
+    "time": "2026-08-09T03:14:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "મચઅવેટેડ ટોક્સિક ફિલ્મનું ધાંસુ ટ્રેલર રિલીઝ, ટ્રેલર જોઈને મુવી જોવાની ટિકિટ કંફર્મ કરી લેશો",
+    "desc": "યશની આગામી ફિલ્મ ટોક્સિકનું હિન્દી ટ્રેલર રિલીઝ થઈ ચુક્યું છે. આ ટ્રેલર રિલીઝ થયાની સાથે ટોપ પર ટ્રેંડ કરવા લાગ્યું છે. ટ્રેલર જોઈને ફિલ્મ એટલી રસપ્રદ લાગે છે કે તમે ફિલ્મ જોવાનું નક્કી કરી લેશો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/actor-yash-toxic-movie-hindi-trailer-toxic-movie-trailer-explain-487155 ",
+    "time": "2026-08-09T02:05:02.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "6,6,6,6... ગુરનૂર બરારની તોફાની બેટિંગ, ટેસ્ટ મેચમાં રમી T20 જેવી ઇનિંગ; વિસ્ફોટક બેટિંગ પર ગંભીરનું રિએક્શન વાયરલ",
     "desc": "ગુરનૂર બરારે શ્રીલંકા XI સામેની વોર્મ-અપ મેચમાં તોફાની ઇનિંગ રમી હતી. બીજા દિવસની અંત સુધીમાં તેમણે 18 બોલમાં 36 રન બનાવી લીધા હતા. તેમની ઇનિંગ જોઈને ગૌતમ ગંભીર પણ ખૂબ જ ખુશ થઈ ગયા હતા.",
@@ -799,23 +817,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/double-tragedy-in-a-day-ferry-fire-in-indonesia-plane-crash-in-peru-18-dead-486526 ",
     "time": "2026-08-02T12:20:18.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "શું કંઈ મોટું થવાનું છે? અમેરિકાએ 10 દેશોમાં જાહેર કર્યું હાઈ એલર્ટ, નાગરિકોને ઝડપથી બહાર નીકળવાનું કહ્યું",
-    "desc": "મધ્ય પૂર્વમાં યુદ્ધના વધતા ખતરાની વચ્ચે, અમેરિકાએ 10 દેશોમાં રહેતા તેના નાગરિકોને સતર્ક રહેવા અને જરૂર પડ્યે સ્થળાંતર કરવાની સલાહ આપી છે. આ દરમિયાન, ઈરાને પણ સંભવિત યુએસ અને ઇઝરાયલી હુમલાઓના જવાબમાં વ્યાપક લશ્કરી કાર્યવાહી માટે તૈયાર રહેવાનો દાવો કર્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/is-something-big-going-to-happen-america-has-declared-high-alert-in-10-countries-asked-citizens-to-evacuate-quickly-486495 ",
-    "time": "2026-08-02T09:55:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ફિલ્મ રામાયણ માટે રણબીર કપૂર અને સાંઈ પલ્લવીની ફીમાં જમીન આસમાનનું અંતર, જાણો કોને કેટલી ફી મળી",
-    "desc": "4000 કરોડની ફિલ્મ રામાયણ માટે સ્ટાર કાસ્ટને પણ મોટી ફી મળી છે. આ ફિલ્મ 2 પાર્ટમાં બનવાની છે અને તેના માટે કલાકારોએ તગડી ફી ચાર્જ કરી છે. જેમાં રણબીર કપૂર, યશ, સની દેઓલની ફી અને સાંઈ પલ્લવીની ફિલ્મની ફીમાં જમીન આસમાનનું અંતર છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/ramayana-cast-fees-new-story-huge-difference-in-ranbir-kapoor-and-sai-pallavi-fees-for-film-ramayana-486481 ",
-    "time": "2026-08-02T08:19:21.000Z"
   }
 ];
