@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Shubman Gill captured practicing warm-up drills ahead of Sri Lanka Test amid injury concerns",
+    "desc": "The stage is set for the upcoming two-game Test series between India and Sri Lanka. Both sides will lock horns for the first Test of the series at the Galle International Stadium from August 15th....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-captured-practicing-warm-up-drills-ahead-of-sri-lanka-test-amid-injury-concerns-2026-08-09-1050842",
+    "time": "2026-08-09T09:12:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Do what's in his hands': Former India cricketer shares wisdom for Mohammed Shami ahead of ODI WC 2027",
+    "desc": "The ODI World Cup 2027 has quickly become one of the most talked-about topics in world cricket. Ahead of the tournament, there is no doubt that the Indian team is being looked at as one...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/do-what-s-in-his-hands-former-india-cricketer-shares-wisdom-for-mohammed-shami-ahead-of-odi-wc-2027-2026-08-09-1050839",
+    "time": "2026-08-09T08:04:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Star India batter touted as replacement for injured Sai Sudharsan for Sri Lanka Test series",
+    "desc": "The stage is set for an upcoming two-game Test series between India and Sri Lanka. The two sides will meet for the first Test at the Galle International Stadium from August 15th; furthermore, the second...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/star-india-batter-touted-as-replacement-for-injured-sai-sudharsan-for-sri-lanka-test-series-reports-2026-08-09-1050834",
+    "time": "2026-08-09T07:05:20.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Charith Asalanka and Eshan Malinga propel Galle Gallants to maiden LPL title",
     "desc": "The LPL (Lanka Premier League) 2026 final saw Jaffna Kings taking on Galle Gallants. The two sides met at the R. Premadasa Stadium in Colombo on August 10th, and the game saw Galle Gallants register...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/jemimah-rodrigues-ruled-out-of-the-hundred-2026-due-to-injury-in-doubt-for-upcoming-women-s-asia-cup-2026-08-08-1050784",
     "time": "2026-08-08T11:42:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sai Sudharsan reportedly ruled out of SL Test series due to injury as fitness issues continue to pile up",
-    "desc": "The Indian team is all set to take on Sri Lanka in a two-game Test series. Starting from August 15, ahead of the series, the side is taking on Sri Lanka Cricket XI in a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sai-sudharsan-reportedly-ruled-out-of-sl-test-series-due-to-injury-as-fitness-issues-continue-to-pile-up-2026-08-08-1050775",
-    "time": "2026-08-08T10:19:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Devdutt Padikkal smashes century to keep India in the fray, middle order continues to shine in Colombo",
-    "desc": "Day 2 of the ongoing tour game between India and Sri Lanka Cricket XI saw the Indian team come in to bat. The day began with the latter stages of Sri Lanka’s innings with the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/devdutt-padikkal-smashes-century-to-keep-india-in-the-fray-middle-order-continues-to-shine-in-colombo-2026-08-08-1050773",
-    "time": "2026-08-08T09:40:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Yashasvi Jaiswal's struggle against left-arm pacers continues; Devdutt Padikkal manages half-century",
-    "desc": "India had a rough start with the bat in the practice game against Sri Lanka XI at the Nondescripts Cricket Ground in Colombo. Young opener Yashasvi Jaiswal struggled to make any sort of impact, scoring...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/yashasvi-jaiswal-s-struggle-against-left-arm-pacers-continues-devdutt-padikkal-manages-half-century-2026-08-08-1050765",
-    "time": "2026-08-08T08:00:29.000Z"
   }
 ];

@@ -306,15 +306,6 @@ const newsData_bn = [
     "time": "2026-08-03T15:35:32.000Z"
   },
   {
-    "cat": "World",
-    "title": "'অলৌকিক কিছু ঘটুক!', ব্রডপিকে ৮,০৪৭ মিটার উঁচুতে তুষারধস, ৪ জনের দেহ উদ্ধার, নিখোঁজ নিমস দাই",
-    "desc": "পাকিস্তানের ৮,০৪৭ মিটার উঁচু ব্রডপিকে ভয়াবহ তুষারধসে নিখোঁজ ১০ পর্বতারোহীর মধ্যে ৪ জনের দেহ উদ্ধার করা হয়েছে। মৃতদের মধ্যে ওমানের নাথিরা আল হারথি ও নেপালি পর্বতারোহী পূর্ণ বাহাদুর গুরুং চিহ্নিত হয়েছেন। বিখ্যাত পর্বতারোহী নিমস দাই-সহ বাকিদের সন্ধানে হেলিকপটার ও আলপাইন ক্লাবের তত্ত্বাবধানে রুদ্ধশ্বাস উদ্ধার অভিযান চলছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/broad-peak-avalanche-kills-four-search-continues-for-others-including-famed-mountaineer-nirmal-purja_664995.html ",
-    "time": "2026-08-01T08:58:45.000Z"
-  },
-  {
     "cat": "Business",
     "title": "হোয়াটসঅ্যাপের 'ইউজারনেম' ফিচার সুরক্ষা ও গোপনীয়তায় কত বড় চ্যালেঞ্জ?",
     "desc": "WhatsApp is rolling out a new username feature, allowing users to chat without sharing phone numbers. হোয়াটসঅ্যাপের এই নতুন ফিচারে নম্বর গোপন রেখে চ্যাট করার সুযোগ পাবেন ব্যবহারকারীরা, যা সাইবার নিরাপত্তা বাড়াবে এবং ব্যক্তিগত সুরক্ষা নিশ্চিত করবে।",

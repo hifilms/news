@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "યશસ્વી જયસ્વાલ પર લાગવાનો હતો બેન, ચિઠ્ઠી પણ લખાઈ ગઈ હતી, રહાણેએ ખોલ્યું મોટું રહસ્ય",
+    "desc": "ટીમ ઈન્ડિયાનો સ્ટાર ઓપનર યશસ્વી જયસ્વાલ હાલમાં શ્રીલંકા પ્રવાસ પર છે. તે 15 ઓગસ્ટથી શરૂ થનારી ટેસ્ટ શ્રેણી દરમિયાન એક્શનમાં જોવા મળશે. આ દરમિયાન પૂર્વ ભારતીય ક્રિકેટર અજિંક્ય રહાણેએ તેના વિશે એક ચોંકાવનારો ખુલાસો કર્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/yashasvi-jaiswal-could-have-faced-ban-rahane-reveals-shocking-secret-487222 ",
+    "time": "2026-08-09T09:25:19.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "કેવી રીતે ખુલશે હોર્મુઝ સ્ટ્રેટ? ઈરાને અમેરિકા સામે રાખી પોતાની મુખ્ય શરતો, જાણો",
+    "desc": "ઈરાને હોર્મુઝ સ્ટ્રેટ ખોલવા અંગે અમેરિકા સમક્ષ પોતાની મુખ્ય માંગણીઓ મૂકી છે. આ માંગણીઓમાં સૌથી મુખ્ય માંગણી એ છે કે અમેરિકા ઈરાન સાથેના યુદ્ધ માટે વળતર ચૂકવે. અમેરિકાએ હજુ સુધી આ માંગણીઓ પર કોઈ નિવેદન બહાર પાડ્યું નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/how-will-the-strait-of-hormuz-open-iran-has-set-its-main-conditions-for-america-know-487204 ",
+    "time": "2026-08-09T08:48:59.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "નવી સેડાન લેતા પહેલા થોડી રાહ જુઓ! માર્કેટમાં આવી રહી છે શાનદાર ફીચર્સવાળી આ 3 નવી કાર!",
     "desc": "જો તમે નવી કાર ખરીદવાનો પ્લાન કરી રહ્યાં છો તો માર્કેટમાં આવનારી કારના અપડેટ પર નજર કરી શકો છો. અહીં જાણો માર્કેટમાં કઈ નવી સેડાન કાર આવવાની છે. અમે તેના ફીચર્સ અને અન્ય માહિતી વિશે જાણકારી આપીશું.",
@@ -549,15 +567,6 @@ const newsData_gu = [
     "time": "2026-08-06T12:16:20.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "જોજો મોડા ન પડતા! તમે પણ IRCTC થી બુક કરો છો ટ્રેન ટિકિટ? તો 1 મિનિટમાં 1.5 લાખ ટિકિટોના આ ખેલથી સાવધાન રહેજો!",
-    "desc": "લાંબી લાઇનથી ક્લિક સુધી, ભારતીય રેલવેએ પેસેન્જર રિઝર્વેશન પ્રક્રિયાને સંપૂર્ણપણે બદલી નાખી છે. આજે, ટેકનોલોજી વિશ્વની સૌથી મોટી જાહેર રિઝર્વેશન સિસ્ટમ્સમાંની એકને શક્તિ આપે છે. સતત આધુનિકીકરણથી બુકિંગ ઝડપી અને વધુ વિશ્વસનીય બન્યું છે. આધુનિક પેસેન્જર રિઝર્વેશન સિસ્ટમ (PRS) મુસાફરીના અનુભવને વધુ સ્માર્ટ અને સરળ બનાવી રહી છે. અમે અહીં તમને વિગતવાર અહેવાલ આપી રહ્યાં છીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/prs-transformation-indian-railways-to-roll-out-next-gen-booking-infrastructure-486921 ",
-    "time": "2026-08-06T11:27:43.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ટીમ ઈન્ડિયામાં બધું બરાબર નથી ? નિવૃત્તિ બાદ અજિંક્ય રહાણેનું મોટું નિવેદન, ગંભીર માટે ખાસ મેસેજ",
     "desc": "તાજેતરમાં આંતરરાષ્ટ્રીય ક્રિકેટને અલવિદા કહેનારા અજિંક્ય રહાણેએ ભારતીય ટેસ્ટ ટીમમાં અનુભવી ખેલાડીઓના અભાવ અંગે ચિંતા વ્યક્ત કરી છે. તેનું માનવું છે કે ટેસ્ટ ક્રિકેટમાં સફળતા માટે ટીમમાં સિનિયર ખેલાડીઓ હોવા અને તેમનું સન્માન કરવું ખૂબ જ મહત્વપૂર્ણ છે.",
@@ -583,24 +592,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/good-news-for-govt-employees-before-8th-pay-commission-da-hike-3-persent-486913 ",
     "time": "2026-08-06T09:32:46.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "અનાથાશ્રમમાં બાળપણ, 5 રૂપિયાના દૈનિક વેતન પર ટકેલું જીવન... કોણ છે જ્યોતિ રેડ્ડી, જેમણે અમેરિકામાં ઊભી કરી દીધી 1500000000 ની કંપની",
-    "desc": "સાંભળવામાં અને વિચારવામાં થોડું અસંભવ લાગશે પરંતુ આ હકીકત છે. 5 રૂપિયાનું દૈનિક વેતન મેળવતી મજૂર ક્યારેક 150 કરોડની કંપનીની માલિક પણ બની શકે છે, પરંતુ જ્યોતિ રેડ્ડીએ આ સાબિત કરી બતાવ્યું છે અને અમેરિકામાં પોતાની કરોડોની કંપની ઊભી કરી દીધી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/meet-woman-who-was-sent-to-orphanage-at-just-10-struggled-as-labourer-earning-rs-5-per-day-now-she-ceo-of-this-billion-486892 ",
-    "time": "2026-08-06T07:46:24.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "EPF માં મોટો ફેરફાર! સેલેરી લિમિટ ₹25,000 થવાની શક્યતા, કરોડો કર્મચારીઓને PF અને પેન્શનમાં થશે મોટો ફાયદો",
-    "desc": "કેન્દ્ર સરકાર EPF વેજ સીલિંગ 15000 રૂપિયાથી વધારી 25000 રૂપિયા કરવા પર વિચાર કરી રહી છે. તેનાથી 25000 રૂપિયા સુધી બેઝિક પગાર મેળવનાર કર્મચારીઓને ફરજીયાત પીએફ તથા પેન્શનનો ફાયદો મળશે અને નિવૃત્તિ બચતમાં વધારો થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/epf-wage-ceiling-hike-alert-govt-considers-raising-basic-salary-limit-to-25000-here-is-the-full-calculation-486890 ",
-    "time": "2026-08-06T07:16:32.000Z"
   },
   {
     "cat": "Entertainment",
@@ -664,15 +655,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/sa20-mi-cape-town-releases-trent-boult-and-kieron-pollard-486850 ",
     "time": "2026-08-05T14:23:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "પાકિસ્તાની બોક્સર બાદ યુગાન્ડાના પણ 4 ખેલાડી ગાયબ, કોમનવેલ્થ ગેમ્સ બાદ ગ્લાસગોમાં હોબાળો",
-    "desc": "કોમનવેલ્થ ગેમ્સ 2026ના સમાપન પછી ગ્લાસગોમાં પાકિસ્તાન અને યુગાન્ડાના ઘણા ખેલાડીઓ ગુમ થયા છે. સ્કોટલેન્ડ પોલીસ આ મામલાની તપાસ કરી રહી છે. યુગાન્ડાના 4 બોક્સર અને પાકિસ્તાની બોક્સર કુદરતુલ્લાહ પોતપોતાની ટીમો સાથે ઘરે પરત ફર્યા નથી. પ્રારંભિક અહેવાલો એવી પણ શક્યતા દર્શાવે છે કે કેટલાક ખેલાડીઓ શરણ મેળવવાનો પ્રયાસ કરી રહ્યા હોઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/after-pakistani-boxer-4-ugandan-boxers-also-missing-glasgow-commonwealth-games-2026-486848 ",
-    "time": "2026-08-05T13:46:38.000Z"
   },
   {
     "cat": "Tech",
@@ -808,14 +790,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/know-why-salman-khan-said-riteish-deshmukh-job-at-risk-lock-up-2-vs-alliance-486544 ",
     "time": "2026-08-03T03:09:59.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "એક જ દિવસે બે મોટી દુર્ઘટના... ઇન્ડોનેશિયામાં ફેરીમાં ભીષણ આગ, પેરૂમાં પ્લેન ક્રેશ, કુલ 18નાં મોત",
-    "desc": "એક જ દિવસે દુનિયાના બે દેશોમાં મોટી દુર્ઘટનાઓ સર્જાઈ. ઇન્ડોનેશિયામાં મુસાફરોથી ભરેલી ફેરીમાં આગ લાગતાં 5 લોકોનાં મોત થયા અને 41 લોકો લાપતા છે. જ્યારે પેરૂમાં નાઝ્કા લાઇન્સ જોવા જતું ટૂરિસ્ટ પ્લેન ક્રેશ થતાં 13 લોકોનાં મોત થયા. બંને અકસ્માતોની તપાસ શરૂ કરવામાં આવી છે અને બચાવ કામગીરી ચાલુ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/double-tragedy-in-a-day-ferry-fire-in-indonesia-plane-crash-in-peru-18-dead-486526 ",
-    "time": "2026-08-02T12:20:18.000Z"
   }
 ];
