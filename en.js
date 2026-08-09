@@ -1,5 +1,221 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "YSRCP leaders condemn arrest of Amadalavalasa in-charge in Ampolu case",
+    "desc": "Chintada Ravikumar and 25 others were arrested over alleged misbehaviour with a woman Sub-Inspector during the former Chief Minister’s July 30 visit to Ampolu; families of some of the accused claimed they were not in town that day",
+    "img": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-andhrapradesh/c2p1r5/article67287386.ece/alternates/LANDSCAPE_1200/Copy_of_BJP-LeG8KBNNMHH.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-leaders-condemn-arrest-of-amadalavalasa-in-charge-in-ampolu-case/article71323966.ece",
+    "time": "2026-08-09T15:17:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP urges Governor not to accept Horatti’s resignation",
+    "desc": "A delegation of BJP leaders petitioned Governor Thaawarchand Gehlot, urging him not to accept the resignation of Legislative Council Chairman Basavaraj Horatti, on the grounds that he was allegedly forced to quit by the Congress leaders",
+    "img": "https://th-i.thgim.com/public/incoming/agvp2k/article71325468.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-09%20at%2012.26.37.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/bjp-urges-governor-not-to-accept-horattis-resignation/article71325449.ece",
+    "time": "2026-08-09T15:09:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Naidu shines spotlight on tribal artisans’ rich craft",
+    "desc": "At an exhibition organised on International Day of the World’s Indigenous Peoples, the Chief Minister walks through the stalls admiring the handicrafts displaying tribal heritage, sipping the famous Araku Valley Coffee, and sampling unfiltered wild harvest honey",
+    "img": "https://th-i.thgim.com/public/incoming/llk1x0/article71325391.ece/alternates/LANDSCAPE_1200/10215_9_8_2026_19_56_53_1_WHATSAPPIMAGE2026_08_09AT54430PM1.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-shines-spotlight-on-tribal-artisans-rich-craft/article71324716.ece",
+    "time": "2026-08-09T14:57:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Britney Spears claims ‘so much Botox’ left her with droopy eye",
+    "desc": "Britney Spears has opened up about an alarming beauty experience, claiming a recent Botox procedure left her with a droopy eye for nearly four weeks. The pop star took to Instagram to warn her followers about being cautious with cosmetic procedures and said she was left embarrassed by the experience.",
+    "img": "https://static.toiimg.com/photo/msid-133069743,imgsize-57545.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/britney-spears-claims-doctor-put-so-much-botox-that-it-left-her-with-droopy-eye-warns-fans-about-cosmetic-procedures-be-careful-with-your-bodies/articleshow/133069569.cms",
+    "time": "2026-08-09T14:56:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ronaldo wedding rumours go badly wrong as hundreds of fans crash another couple’s big day",
+    "desc": "Hundreds of fans and journalists descended on a Madeira cathedral after false rumours claimed Cristiano Ronaldo and Georgina Rodríguez would marry there. Despite public denials, the crowd waited for the couple, only to discover another bride and groom were getting married. Ronaldo never appeared and later appeared to mock the bizarre scenes with laughing emojis on social media.",
+    "img": "https://static.toiimg.com/photo/msid-133069505,imgsize-191628.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/watch-ronaldo-wedding-rumours-go-badly-wrong-as-hundreds-of-fans-crash-another-couples-big-day/articleshow/133068342.cms",
+    "time": "2026-08-09T14:44:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "6,6,6! Siraj goes boom with 3 sixes in final over as India seal six-wicket win",
+    "desc": "Mohammed Siraj stunned Sri Lanka Cricket XI with an explosive 32 off 15 balls, smashing three consecutive sixes in the final over to seal India’s six-wicket win with three balls remaining. His unbeaten cameo included four sixes and a boundary. Yashasvi Jaiswal, Shubman Gill and Rishabh Pant also contributed, giving India valuable preparation ahead of the first Test in Galle.",
+    "img": "https://static.toiimg.com/photo/msid-133069470,imgsize-99535.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/666-mohammed-siraj-goes-boom-with-3-sixes-in-final-over-as-india-seal-six-wicket-win-watch/articleshow/133069274.cms",
+    "time": "2026-08-09T14:43:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Paddy farmers face ₹3.07 lakh crore loss; Samyukta Kisan Morcha calls nationwide protests",
+    "desc": "The protests will seek a legal guarantee for MSP based on the C2+50% formula for paddy and other major crops. SKM demands that the Union government legally guarantee the ₹3,243 MSP for paddy for 2026-27 and ensure procurement",
+    "img": "https://th-i.thgim.com/public/incoming/c9nv4w/article71325274.ece/alternates/LANDSCAPE_1200/Paddy_4.JPG_GOSGACG6PGBG.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/paddy-farmers-face-307-lakh-crore-loss-samyukta-kisan-morcha-calls-nationwide-protests/article71324940.ece",
+    "time": "2026-08-09T14:37:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sarfaraz Khan replaces Sai Sudharsan in India squad for Sri Lanka Tests",
+    "desc": "India's Test squad sees a new addition as Sarfaraz Khan steps in for the injured Sai Sudharsan ahead of the Sri Lanka series. Sudharsan is sidelined due to a toe injury. The selectors felt Sarfaraz's middle-order experience would be invaluable. After a warm-up triumph, the team gears up for the first Test match starting on August 15.",
+    "img": "https://static.toiimg.com/photo/msid-133069961,imgsize-1058016.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/sarfaraz-khan-replaces-sai-sudharsan-in-india-squad-for-sri-lanka-tests/articleshow/133069271.cms",
+    "time": "2026-08-09T14:34:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Attempt to murder': TMC MPs blame BJP for attack on Mamata Banerjee's car, claim CM Suvendu link",
+    "desc": "Trinamool Congress leaders accused the BJP of orchestrating an attack on Mamata Banerjee's vehicle. Stones and objects were reportedly hurled at her car while she traveled to meet a grieving family. TMC MPs described the incident as an attempt to murder and a failure of governance. Mamata Banerjee herself stated the attack could have caused serious injuries or death.",
+    "img": "https://static.toiimg.com/photo/msid-133069327,imgsize-123396.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/attempt-to-murder-tmc-mps-blame-bjp-for-attack-on-mamata-banerjees-car-claim-cm-suvendu-link/articleshow/133069189.cms",
+    "time": "2026-08-09T14:32:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Officials highlight education, welfare for tribals on World Adivasi Day",
+    "desc": "Celebrations held across Chittoor and Sri Sathya Sai districts; Chittoor Collector directs the officials to expedite land titles for eligible tribal farmers cultivating in gap areas and improve drinking water and mobile connectivity in tribal habitations",
+    "img": "https://th-i.thgim.com/public/incoming/pznf0j/article71324932.ece/alternates/LANDSCAPE_1200/10215_9_8_2026_17_1_27_1_WHATSAPPIMAGE2026_08_09AT44432PM.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/officials-highlight-education-welfare-for-tribals-on-world-adivasi-day/article71324600.ece",
+    "time": "2026-08-09T14:32:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mamata visits residence of Trinamool worker who died in police custody, faces protests",
+    "desc": "Locals raised slogans against the former West Bengal Chief Minister and attacked the vehicle in which she was travelling. She says police did not take adequate security measures despite receiving prior information on her visit",
+    "img": "https://th-i.thgim.com/public/incoming/tqekez/article71324545.ece/alternates/LANDSCAPE_1200/PTI07_21_2026_000406A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/mamata-visits-residence-of-trinamool-worker-who-died-in-police-custody-faces-protests/article71324471.ece",
+    "time": "2026-08-09T14:29:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Yash reportedly gets Rs 50 crore",
+    "desc": "A Fairy Tale for Grown-Ups is buzzing over reported cast fees, with Yash allegedly earning Rs 50 crore, Kiara Advani Rs 15 crore, and Nayanthara Rs 12-18 crore. Rukmini Vasanth, Huma Qureshi and Tara Sutaria round out the ensemble. Directed by Geetu Mohandas, the film releases worldwide on August 26, 2026.",
+    "img": "https://static.toiimg.com/photo/msid-133069277,imgsize-198679.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/toxic-how-much-are-yash-kiara-advani-and-nayanthara-charging-for-the-film-reported-fees-revealed/articleshow/133069256.cms",
+    "time": "2026-08-09T14:26:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "The Movie: Makers unveil four new character posters",
+    "desc": "The Movie makers unveiled four new posters of Kaleen Bhaiya, Munna Bhaiya, Guddu Pandit and Bablu Pandit ahead of the August 11 trailer. Directed by Gurmmeet Singh, the film revisits Season 1's world with a large ensemble cast. Produced by Excel Entertainment, it releases worldwide on September 4, 2026, in Hindi and Telugu.",
+    "img": "https://static.toiimg.com/photo/msid-133069219,imgsize-240295.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mirzapur-the-movie-new-posters-out-kaleen-bhaiya-munna-bhaiya-guddu-and-bablu-return/articleshow/133069093.cms",
+    "time": "2026-08-09T14:18:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Police crackdown on public drinking and drunk driving in Kadapa district",
+    "desc": "They book cases against 231 persons for consuming alcohol in public places, while 55 cases were filed against motorists for drunk driving; SP directs the police personnel to maintain strict vigil and take firm action against violators",
+    "img": "https://th-i.thgim.com/public/incoming/isr2kb/article71325162.ece/alternates/LANDSCAPE_1200/10215_9_8_2026_17_36_24_1_WHATSAPPIMAGE2026_08_09AT53435PM.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/police-crackdown-on-public-drinking-and-drunk-driving-in-kadapa-district/article71324937.ece",
+    "time": "2026-08-09T14:15:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'That one thing completely changed': Rahane reveals how CSK transformed his IPL career",
+    "desc": "In 2023, Ajinkya Rahane reinvented his approach during the IPL while playing for Chennai Super Kings. With an impressive strike rate of 172.48, he showcased a marked evolution, driven by focused preparation and newfound confidence. Embracing a fearless mentality supported by his team, Rahane defied the conventional narrative of athletes slowing down at 35, instead, embarking on a remarkable career resurgence.",
+    "img": "https://static.toiimg.com/photo/msid-133069120,imgsize-107090.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/that-one-thing-completely-changed-ajinkya-rahane-reveals-how-csk-transformed-his-ipl-career/articleshow/133069091.cms",
+    "time": "2026-08-09T14:13:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Lack of updated crew record raises safety concerns at Kozhikode fishing harbours",
+    "desc": "Harbour action committee leaders allege that some migrant fishers are suspected of using fake identity documents, including Aadhaar cards, to evade occasional inspections. They say the absence of a systematic record-keeping mechanism could pose serious difficulties in identifying crew members in the event of accidents at sea.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/lack-of-updated-crew-record-raises-safety-concerns-at-kozhikode-fishing-harbours/article71324525.ece",
+    "time": "2026-08-09T14:12:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vijay’s son Jason recalls father's advice, his equation with mother",
+    "desc": "Jason Sanjay, who has grown up around the film industry, revealed that his father Vijay always encouraged him to explore his own interests rather than pushing him towards a particular career. He also recalled how Vijay supported his decision to study filmmaking overseas. Jason also opened up about his equation with his mother Sangeetha.",
+    "img": "https://static.toiimg.com/photo/msid-133068725,imgsize-109468.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vijays-son-jason-sanjay-reveals-father-gave-him-freedom-to-choose-filmmaking-opens-up-on-equation-with-mother-sangeetha/articleshow/133068643.cms",
+    "time": "2026-08-09T13:53:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England get big Emilio Gay boost ahead of their first Test against Pakistan",
+    "desc": "England opener Emilio Gay is expected to recover from a shoulder injury in time for the first Test against Pakistan at Headingley on August 19. Scans reportedly showed no serious damage, allowing him to continue alongside Ben Duckett. England, led by Joe Root, will be without Jacob Bethell, who is sidelined with a knee injury.",
+    "img": "https://static.toiimg.com/photo/msid-133068731,imgsize-101324.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/england-get-big-emilio-gay-boost-ahead-of-their-first-test-against-pakistan/articleshow/133068602.cms",
+    "time": "2026-08-09T13:51:08.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "No Ebola cases found on quarantined river boat, Congo authorities say",
+    "desc": "More than 200 boat passengers were placed in quarantine on August 6 in the port of Maluku, 65 kilometres (40 miles) from Kinshasa, after one traveller who was previously aboard the boat died with symptoms matching the Ebola virus",
+    "img": "https://th-i.thgim.com/public/incoming/csqrr0/article71325014.ece/alternates/LANDSCAPE_1200/2026-08-06T224803Z_2000576380_RC24TMA0DDRJ_RTRMADP_3_HEALTH-EBOLA-BOAT.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/no-ebola-cases-found-on-quarantined-river-boat-congo-authorities-say/article71324985.ece",
+    "time": "2026-08-09T13:34:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Air India turbulence-hit flight captain’s dope test returns 'not negative'; Israel rejects US Gaza proposal &amp; more",
+    "desc": "An Air India captain's dope test returned non-negative after a turbulence-hit flight. Israel rejected the US Gaza peace proposal, demanding Hamas disarm first. Mamata Banerjee alleged her convoy faced stone-pelting during a visit to a deceased worker's family. Russia proposed a direct rail link to India to bypass maritime chokepoints. Pakistan's PML-N softened its stance on PoK protesters, calling most patriotic.",
+    "img": "https://static.toiimg.com/photo/msid-133068366,imgsize-812861.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-air-india-turbulence-hit-flight-captains-dope-test-returns-not-negative-israel-rejects-us-gaza-proposal-more/articleshow/133068247.cms",
+    "time": "2026-08-09T13:22:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jaiswal, Gill get batting practice as India beat Sri Lanka XI by six wickets in warm-up",
+    "desc": "Chasing 207 for victory, India completed the target in 45 overs, finishing on 214 for four with Siraj smashing 32 off just 15 balls, including three successive sixes, to bring the game to an emphatic end",
+    "img": "https://th-i.thgim.com/public/incoming/cz9wsf/article71324857.ece/alternates/LANDSCAPE_1200/04_RVM_3038.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/jaiswal-gill-get-batting-practice-as-india-beat-sri-lanka-xi-by-six-wickets-in-warm-up/article71324834.ece",
+    "time": "2026-08-09T12:54:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Is Cristiano Ronaldo returning to Al-Nassr or getting married first?",
+    "desc": "Cristiano Ronaldo has been given extra time off by Al-Nassr following Portugal’s World Cup exit, with his return reportedly delayed until August 21. His extended absence has fuelled wedding rumours involving Georgina Rodríguez, but both family comments and Ronaldo’s reaction have cast doubt on the speculation. No wedding has been confirmed, leaving his football comeback as the main focus.",
+    "img": "https://static.toiimg.com/photo/msid-133067882,imgsize-614023.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/is-cristiano-ronaldo-returning-to-al-nassr-or-getting-married-first/articleshow/133067525.cms",
+    "time": "2026-08-09T12:49:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Toxic’ trailer: Yash blends melodrama and mayhem in Geetu Mohandas’ violent actioner",
+    "desc": "The film was pushed from its release date of March 19, 2026, due to “escalating military tensions and conflict in West Asia.” Later, it was postponed from June 04, 2026 to August 26, 2026 as the makers were “aligning global distributors”.",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/q0htma/article71321901.ece/alternates/LANDSCAPE_1200/Yash%20in%20double%20role%20in%20%E2%80%98Toxic%20A%20Fairy%20Tale%20for%20Grown-Ups%E2%80%99%20trailer",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/toxic-trailer-yash-blends-melodrama-and-mayhem-in-geetu-mohandas-violent-actioner/article71321107.ece",
+    "time": "2026-08-09T12:43:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Leonardo DiCaprio",
+    "desc": "Leonardo DiCaprio reflects on the power of small ideas to impact lives profoundly. Starting as a child actor, he transformed his career, skyrocketing to fame with the iconic film Titanic. Since then, DiCaprio has become renowned for his versatility, taking on various challenging roles. The narrative of his personal life, alongside his impressive net worth, offers a glimpse into his multifaceted journey.",
+    "img": "https://static.toiimg.com/photo/msid-133065756,imgsize-256690.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-leonardo-dicaprio-the-smallest-seed-of-an-idea-can-grow-it-can-grow-to-define-or-destroy-you-life-lesson-shared-by-inception-actor-about-decisions-and-directions/articleshow/133065271.cms",
+    "time": "2026-08-09T12:30:00.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "India tick boxes in warm-up: Captain Gill fit, Jaiswal finds rhythm, Brar impresses",
     "desc": "Shubman Gill's return to the middle, Yashasvi Jaiswal's fluent knock and Gurnoor Brar's impressive outing gave India plenty of positives in their Colombo warm-up, while a surprise visit from Sri Lanka head coach Gary Kirsten added an interesting subplot ahead of the Galle Test. India won the warm-up match by six-wickets.",
@@ -27,15 +243,6 @@ const newsData_en = [
     "time": "2026-08-09T12:16:25.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Committed to justice for protesting youth; those guilty of irregularities to face strict action, says Jharkhand CM",
-    "desc": "Fresh round of talks between student delegation and State government's concluded on August 9; student leader Ravindra Paswan accused the State government of attempting to fragment the movement and warned of a massive 'Vidhan Sabha Gherao' march on August 10 if demands were not met",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-student-protest-jpsc-jssc-aspirants-demonstration-jmm-hemant-soren-ranchi-live-updates-august-9-2026/article71323953.ece",
-    "time": "2026-08-09T12:14:55.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Gold, silver prices may rise next week as US inflation data, Gulf tensions guide markets",
     "desc": "Gold and silver prices are expected to remain firm next week. Investors will track inflation data from major economies and West Asia developments. Upcoming Chinese economic data will also be important for industrial metals. Analysts predict gold and silver will trade with a positive bias. Volatility is expected to remain elevated due to economic data and geopolitical uncertainty.",
@@ -45,31 +252,13 @@ const newsData_en = [
     "time": "2026-08-09T12:13:51.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "BJP MP lists private Bill on social media ban for children",
-    "desc": "The Bill listed by Baijayant Panda says no child under 13 years shall create an account on any social media or online gaming platform without verified parental consent, and that every intermediary shall provide parental control dashboards",
-    "img": "https://th-i.thgim.com/public/incoming/hugbzp/article71324694.ece/alternates/LANDSCAPE_1200/iStock-1525301733.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bjp-mp-lists-private-bill-on-social-media-ban-for-children/article71324617.ece",
-    "time": "2026-08-09T12:05:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "JNU cancels auditorium booking for discussion on Umar Khalid’s book: Students’ Union",
-    "desc": "The event featuring discussions on the book, organised by the JNUSU on the occasion of the International Day of the World's Indigenous Peoples, was scheduled to take place at the School of Social Sciences-I (SSS-I) auditorium at 3 p.m. on August 10",
-    "img": "https://th-i.thgim.com/public/incoming/da93td/article71324531.ece/alternates/LANDSCAPE_1200/doc7d2j62t90awg32fx7st.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Delhi/jnu-cancels-auditorium-booking-for-discussion-on-umar-khalids-book-students-union/article71324448.ece",
-    "time": "2026-08-09T12:03:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Flights from Bhogapuram to foreign destinations very soon, says Kondapalli Srinivas",
-    "desc": "The Minister says two to three more flights to Hyderabad and Bengaluru are proposed, services to Coimbatore, Pune and Varanasi are in the pipeline, and the immediate target is an annual footfall of 50 lakh passengers",
-    "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/66ylsq/article71317290.ece/alternates/LANDSCAPE_1200/Kondapalli.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Visakhapatnam/flights-from-bhogapuram-to-foreign-destinations-very-soon-says-kondapalli-srinivas/article71317094.ece",
-    "time": "2026-08-09T11:48:54.000Z"
+    "cat": "Sports",
+    "title": "'I’m hungry for more': Chaliha after becoming first Indian to win Korea Masters",
+    "desc": "Ashmita Chaliha won her maiden BWF World Tour title at the Korea Masters, defeating China’s Han Qian Xi in a three-game comeback. The 26-year-old became the first Indian to win the tournament and is set to break into the world’s top 40. The victory caps an impressive return from injury, with Ashmita crediting coach Park Tae-Sang for his support.",
+    "img": "https://static.toiimg.com/photo/msid-133067504,imgsize-63520.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/im-hungry-for-more-ashmita-chaliha-after-becoming-first-indian-to-win-the-korea-masters/articleshow/133067440.cms",
+    "time": "2026-08-09T12:13:24.000Z"
   },
   {
     "cat": "Entertainment",
@@ -79,15 +268,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kiara-advanis-all-white-corset-look-at-yash-and-geetu-mohandas-toxic-trailer-launch-costs-a-whopping-rs-5-7-lakh/articleshow/133066531.cms",
     "time": "2026-08-09T11:23:20.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Citizens form human chain to save Lalbagh from proposed tunnel road project",
-    "desc": "“We will continue to protest and create awareness among the public until the message reaches the High Court of Karnataka about saving Lalbagh from being destroyed due to the proposed tunnel road project,” says President of Lalbagh Walkers Association",
-    "img": "https://th-i.thgim.com/public/incoming/jejlls/article71324633.ece/alternates/LANDSCAPE_1200/DSC_3567.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/citizens-form-human-chain-to-save-lalbagh-from-proposed-tunnel-road-project/article71324366.ece",
-    "time": "2026-08-09T11:21:57.000Z"
   },
   {
     "cat": "Politics",
@@ -187,15 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-box-office-collection-day-18-live-vijay-starrer-eyes-rs-320-crore-worldwide-as-third-weekend-pace-slows-after-worldwide-gross-surpasses-rs-312-crore/articleshow/133065525.cms",
     "time": "2026-08-09T09:56:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Odisha CM to Gen Z",
-    "desc": "I call upon the Gen Z to be aware of the external forces and invisible enemies that operate from foreign soil and attempt to mislead our youths through social media, said Odisha Chief Minister Mohan Charan Majhi",
-    "img": "https://th-i.thgim.com/public/incoming/ks9sbt/article71324394.ece/alternates/LANDSCAPE_1200/20260807220L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/odisha/be-aware-of-external-forces-trying-to-mislead-you-through-social-media-odisha-cm-to-gen-z/article71324382.ece",
-    "time": "2026-08-09T09:53:09.000Z"
   },
   {
     "cat": "World",
@@ -379,30 +550,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Tate McRae and NHL star Jack Hughes split",
-    "desc": "Singer Tate McRae and NHL star Jack Hughes have reportedly ended their brief romance. Sources suggest Hughes initiated the split after noticing relationship red flags. This breakup follows speculation about McRae's political leanings and MAGA support. Fans questioned her dating choice after Hughes met with Donald Trump. McRae has previously supported LGBTQ youth and the Global Fund for Women.",
-    "img": "https://static.toiimg.com/photo/msid-133063913,imgsize-247274.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/why-did-tate-mcrae-and-nhl-star-jack-hughes-split-all-we-know-about-their-short-lived-romance/articleshow/133063908.cms",
-    "time": "2026-08-09T07:34:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Ravi reacts to 'money follows' remark: 'Reputation is more...'",
     "desc": "Ravi Kishan, the beloved actor, recently made headlines with his witty take on viral fame and money, resulting in a wave of online engagement. Amidst laughter and memes, he acknowledged the popularity of his antics, highlighting that they resonate with his true self. Kishan opined that a positive reputation is richer than wealth, which tends to accumulate on its own.",
     "img": "https://static.toiimg.com/photo/msid-133063903,imgsize-296875.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ravi-kishan-explains-he-still-cant-figure-out-why-he-goes-viral-after-money-follows-my-brother-remark-and-memes-reputation-is-more-valuable-than-money/articleshow/133063771.cms",
     "time": "2026-08-09T07:32:32.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mamitha Baiju recalls wanting to meet Suriya in 2015",
-    "desc": "Mollywood star Mamitha Baiju shared a childhood memory of wanting to meet Suriya. She recalled being denied permission to travel and meet the actor in 2015. Now, Baiju is co-starring with Suriya in the upcoming film 'Vishwanath & Sons'. The movie, written and directed by Venky Atluri, is slated for release on August 14, 2026. This project marks a significant moment for Baiju, fulfilling a long-held aspiration.",
-    "img": "https://static.toiimg.com/photo/msid-133063744,imgsize-316751.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/my-parents-didnt-let-me-go-mamitha-baiju-recalls-the-day-she-missed-meeting-suriya-in-2015-and-felt-very-upset-my-parents-didnt-let-me-go/articleshow/133063711.cms",
-    "time": "2026-08-09T07:11:36.000Z"
   },
   {
     "cat": "World",
@@ -414,15 +567,6 @@ const newsData_en = [
     "time": "2026-08-09T06:46:32.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Morgan Freeman to release first music project in August",
-    "desc": "Iconic performer Morgan Freeman is preparing to launch his debut music album, 'Morgan Freeman's Symphonic Blues Experience', on August 14. This blues-centric collection features 12 tracks where Freeman takes on the roles of narrator and producer. The album traces the evolution of blues music through the past hundred years, showcasing Freeman's deep-rooted passion for the genre he's embraced for over twenty-five years.",
-    "img": "https://static.toiimg.com/photo/msid-133063443,imgsize-251119.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/morgan-freeman-to-release-first-ever-music-project-at-89-heres-all-you-need-to-know/articleshow/133063426.cms",
-    "time": "2026-08-09T06:45:57.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Tendulkar gets ‘best batter’ tag, but Lee names this all-rounder as GOAT",
     "desc": "Brett Lee regards Jacques Kallis as the finest cricketer in history, while he believes Sachin Tendulkar to be the top batsman he's ever witnessed. Kallis's dual skills with both bat and ball distinguish him significantly. His impressive performance statistics across all formats reinforce this belief. Lee has also expressed admiration for Kallis's composed attitude before competitions.",
@@ -430,15 +574,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/sachin-tendulkar-gets-best-batter-tag-but-brett-lee-names-this-all-rounder-as-crickets-goat/articleshow/133063292.cms",
     "time": "2026-08-09T06:41:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Alanna Panday announces SECOND PREGNANCY with Ivor McCray",
-    "desc": "In a delightful revelation, Alanna Panday and Ivor McCray are set to expand their family with the arrival of their second child! The couple joyously broke the news on social media. Their son, River, will soon embrace his little sibling. The entire family, including Alanna's cousins Ananya and Ahaan Panday, is buzzing with happiness as preparations begin for this new chapter together.",
-    "img": "https://static.toiimg.com/photo/msid-133063339,imgsize-562085.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alanna-panday-announces-second-pregnancy-with-husband-ivor-mccray-cousins-ahaan-and-ananya-panday-react-one-more-to-love/articleshow/133063314.cms",
-    "time": "2026-08-09T06:39:07.000Z"
   },
   {
     "cat": "Sports",
@@ -495,15 +630,6 @@ const newsData_en = [
     "time": "2026-08-09T03:48:08.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘I can’t imagine the pain’: Nadal’s emotional tribute to Messi after father’s death",
-    "desc": "An outpouring of sympathy enveloped the sports world following the death of Jorge Messi, father of football legend Lionel Messi, at 68 due to a prolonged illness. Rafael Nadal shared a deeply emotional statement for the family, and during a game, Rodrigo De Paul paid homage to Jorge's crucial role in shaping Messi's illustrious career.",
-    "img": "https://static.toiimg.com/photo/msid-133061888,imgsize-116255.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/i-cant-imagine-the-pain-rafael-nadals-emotional-tribute-to-lionel-messi-after-fathers-death/articleshow/133061851.cms",
-    "time": "2026-08-09T03:41:08.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India’s markets have strong domestic cushion, but global risks loom: Sebi",
     "desc": "India's economy is poised for substantial growth in 2026-27, driven by strong domestic demand and increased government spending. While this positive outlook is promising, external factors such as the ongoing Middle East conflict and fluctuating oil prices present significant risks. Additionally, last year saw a historic exodus of foreign investment from Indian equities, but favorable domestic conditions may help mitigate these global challenges.",
@@ -532,39 +658,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "De Paul scores stunner, reveals Messi’s No. 10 jersey in emotional tribute",
-    "desc": "Rodrigo De Paul scored Inter Miami's opening goal with a spectacular long-range strike. He then revealed Lionel Messi's iconic number ten jersey beneath his own shirt. This emotional tribute honored his close friend, who was absent from the match. Messi missed the game after the passing of his father, Jorge Messi, at sixty-eight. De Paul's gesture offered a powerful message of support to his grieving friend.",
-    "img": "https://static.toiimg.com/photo/msid-133061420,imgsize-117218.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/watch-rodrigo-de-paul-scores-stunner-reveals-messis-no-10-jersey-in-emotional-tribute/articleshow/133061407.cms",
-    "time": "2026-08-09T02:03:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pak cricketers face ban after playing in ‘unsanctioned’ Zambia T20 league",
-    "desc": "A potential two-year ban looms for former Pakistan cricketers who participated in an unauthorised Zambian league. The Pakistan Cricket Board has reacted strongly, emphasising that all players must obtain proper approvals before playing. Reports suggest that some cricketers encountered significant troubles regarding payments and accommodation during the tournament. This serious matter unfolds as the ICC intensifies its scrutiny on global franchise cricket activities.",
-    "img": "https://static.toiimg.com/photo/msid-133061357,imgsize-70932.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-cricketers-face-two-year-pcb-ban-after-playing-in-unsanctioned-zambia-t20-league/articleshow/133061347.cms",
-    "time": "2026-08-09T01:42:43.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Premier League champions Arsenal land Newcastle's Guimaraes",
     "desc": "The North London club have agreed a deal reported by British media to be worth ‌around 75 million pounds ($101.16 million) for the Brazil international, adding one of ​the Premier League's most influential midfielders to Mikel Arteta's squad",
     "img": "https://th-i.thgim.com/public/incoming/7ra4t9/article71321522.ece/alternates/LANDSCAPE_1200/Arsenal_Guimaraes_Soccer_41666.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/premier-league-champions-arsenal-land-newcastles-guimaraes/article71321517.ece",
     "time": "2026-08-09T01:28:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "FIFA hits back at ‘concerted effort’ to undermine Infantino amid fresh allegations",
-    "desc": "FIFA has come out in staunch defense of president Gianni Infantino, rebutting fresh allegations and widespread criticism. The organisation has accused unnamed detractors of orchestrating a campaign aimed at destabilising its leadership. While UEFA acknowledged a severance payment to a former employee associated with Infantino, he continues to enjoy robust support from various continental federations despite European discontent.",
-    "img": "https://static.toiimg.com/photo/msid-133061243,imgsize-52318.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/fifa-hits-back-at-concerted-effort-to-undermine-infantino-amid-fresh-allegations/articleshow/133061234.cms",
-    "time": "2026-08-09T01:05:25.000Z"
   },
   {
     "cat": "Entertainment",
@@ -583,15 +682,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/internet/teaching-ai-to-speak-india/article71280380.ece",
     "time": "2026-08-09T00:15:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ravindra Jadeja’s Kuldeep Yadav imitation leaves Gautam Gambhir in splits",
-    "desc": "Ravindra Jadeja entertained teammates by mimicking Kuldeep Yadav’s bowling action, leaving Gautam Gambhir laughing during India’s Colombo warm-up match. Devdutt Padikkal impressed with an unbeaten 142, boosting his chances for the opening Test. Jadeja scored 63 and Manav Suthar added 41 as India reached 357/6. Rishabh Pant and Dhruv Jurel disappointed, managing just two and one respectively.",
-    "img": "https://static.toiimg.com/photo/msid-133056533,imgsize-92995.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/ravindra-jadejas-kuldeep-yadav-imitation-leaves-gautam-gambhir-in-splits-watch/articleshow/133056454.cms",
-    "time": "2026-08-08T23:30:00.000Z"
   },
   {
     "cat": "Sports",
@@ -738,15 +828,6 @@ const newsData_en = [
     "time": "2026-08-08T19:28:54.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Three Indians make finals of World Athletics U20 Championships",
-    "desc": "Yadav topped the men's javelin Group A qualification round with a throw of 69.87m and ended at second spot overall, behind South Africa's title favourite Jan-Hendrik Heymans who won Group B with a 76.02m throw",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/three-indians-make-finals-of-world-athletics-u20-championships/article71315107.ece",
-    "time": "2026-08-08T19:27:19.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Karnataka explores partnership with Anthropic for governance, skilling and deep-tech growth",
     "desc": "CM D.K. Shivakumar sought Anthropic’s expertise on how AI could help reduce fraud in government systems and improve the effectiveness, security and confidentiality of setting question papers for examinations conducted by various government agencies and educational institutions.",
@@ -817,86 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/tewolde-gebremariam-air-india-new-ceo/article71309586.ece",
     "time": "2026-08-08T18:32:13.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Rupee gains 13 paise to close at 95.15 against U.S. dollar post-RBI policy decision",
-    "desc": "At the interbank foreign exchange, the rupee opened at 94.90 against the greenback and traded in a tight range of 94.89-95.25 during the session; it eventually settled at 95.15, higher by 13 paise from its previous close",
-    "img": "https://th-i.thgim.com/public/news/national/y2p8sl/article71309274.ece/alternates/LANDSCAPE_1200/iStock-1334438724.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/markets/rupee-gains-13-paise-to-close-at-9515-against-us-dollar-post-rbi-policy-decision/article71309248.ece",
-    "time": "2026-08-08T17:44:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "In conversation with classical dance guru Girija Chandran who won the  Sangeeth Natak Akademi Award",
-    "desc": "Girija Chandran, who runs Regatta Natya Sangeetha Kendra in Thiruvananthapuram, has never performed on stage, but the 75-year-old dance teacher has trained nearly a lakh students over the past 53 years and the recognition acknowledges her contribution to Mohiniyattam",
-    "img": "https://th-i.thgim.com/public/incoming/v8rj0n/article71289495.ece/alternates/LANDSCAPE_1200/NH20GirijaChandran12.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/dance/girija-chandran-sangeeth-natak-akademi-award-mohiniyattam/article71289184.ece",
-    "time": "2026-08-08T17:31:07.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Profit rises 16% to $12.98 billion as buybacks accelerate",
-    "desc": "Berkshire Hathaway showcased impressive growth in its second-quarter results, with notable increases in both operating profit and net income. While revenue surged, the company's cash reserves took a hit from recent stock buybacks. Although Geico struggled, profits rose in BNSF Railway and other sectors. Under the leadership of Greg Abel, the company ramped up share repurchases and made significant investments in stocks during this period.",
-    "img": "https://static.toiimg.com/photo/msid-47529300.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/berkshire-hathaway-q2-earnings-profit-rises-16-to-12-98-billion-as-buybacks-accelerate/articleshow/133055378.cms",
-    "time": "2026-08-08T15:59:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Siddharth interview",
-    "desc": "In this conversation with Shreyas Pande, actors Siddharth and Jimmy Shergil, creator and showrunner Kushal Srivastava and producer Sanjay Routray discuss their upcoming Netflix series Operation Safed Sagar, the connection between ‘Rang De Basanti’ and the show, the actors’ experience of donning the uniform and more.",
-    "img": "https://th-i.thgim.com/public/incoming/4d41l8/article71302600.ece/alternates/LANDSCAPE_1200/EDITORIAL.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/siddharth-interview-jimmy-shergill-operation-safed-sagar/article71302605.ece",
-    "time": "2026-08-08T15:25:11.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "What makes Indian Railways indigenous world-class tech special",
-    "desc": "Indian Railways is prioritising Kavach deployment on high-density and highly used network routes, which carry nearly 96% of railway traffic. Now, the next-generation Kavach 5.0 is being developed for suburban rail operations with an aim to support higher train frequencies.",
-    "img": "https://static.toiimg.com/photo/msid-133054454,imgsize-948230.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/kavach-what-makes-indian-railways-indigenous-world-class-tech-special/articleshow/133054349.cms",
-    "time": "2026-08-08T14:22:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Toxic’ trailer: Yash blends melodrama and mayhem in Geetu Mohandas’ violent actioner",
-    "desc": "The film was pushed from its release date of March 19, 2026, due to “escalating military tensions and conflict in West Asia.” Later, it was postponed from June 04, 2026 to August 26, 2026 as the makers were “aligning global distributors”.",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/q0htma/article71321901.ece/alternates/LANDSCAPE_1200/Yash%20in%20double%20role%20in%20%E2%80%98Toxic%20A%20Fairy%20Tale%20for%20Grown-Ups%E2%80%99%20trailer",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/toxic-trailer-yash-blends-melodrama-and-mayhem-in-geetu-mohandas-violent-actioner/article71321107.ece",
-    "time": "2026-08-08T13:55:09.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Why NBFC gold loans are growing nearly 70% despite tighter RBI regulations",
-    "desc": "Non-banking financial company gold loans grew nearly seventy percent year-on-year. This expansion significantly outpaced overall retail credit growth for these institutions. The Reserve Bank of India had introduced new rules for gold lending practices. Despite regulatory scrutiny, demand for gold-backed credit remained robust. Credit growth in industry and services sectors showed moderation during this period.",
-    "img": "https://static.toiimg.com/photo/msid-133051583,imgsize-65226.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/why-nbfc-gold-loans-are-growing-nearly-70-despite-tighter-rbi-regulations/articleshow/133051443.cms",
-    "time": "2026-08-08T11:29:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Pluto’ movie review: A sci-fi comedy that sticks to usual alien narratives",
-    "desc": "Sci-fi films are not something that happens often in the Malayalam film industry, which has relatively smaller budgets, with the subgenre of sci-fi comedies appearing even less frequently. Even the rarity of the genre does not really work to the advantage of Pluto.",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/22i6ud/article71286462.ece/alternates/LANDSCAPE_1200/pluto.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/pluto-movie-review-a-sci-fi-comedy-that-sticks-to-usual-alien-narratives/article71286486.ece",
-    "time": "2026-08-08T11:10:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Diesel’s desire: an engine for everyone",
-    "desc": "For someone who wished to build an engine for everyone, August turned out to be an auspicious month. On August 10, 1893, Rudolf Diesel’s prime model was powered on its own for the first time. Five years later, on August 9, 1898, Diesel obtained a U.S. patent titled “Internal-combustion engine”. Join A.S.Ganesh as he tries to explain what fuelled Diesel’s desire…",
-    "img": "https://th-i.thgim.com/public/incoming/o3bduy/article71285498.ece/alternates/LANDSCAPE_1200/09istb%20Historical_Diesel_engine_in_Deutsches_Museum.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/diesels-desire-an-engine-for-everyone/article71285487.ece",
-    "time": "2026-08-08T06:54:25.000Z"
   }
 ];

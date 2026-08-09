@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "Video",
+    "desc": "રવિવારે પશ્ચિમ બંગાળના હલીશહરમાં પ્રદર્શનકારીઓએ ભૂતપૂર્વ મુખ્યમંત્રી મમતા બેનર્જીના કાફલા પર હુમલો કર્યો હતો. ગાડી પર કાદવ અને જૂતા ફેંકતા ભારે હોબાળો મચી ગયો. આ ઘટના બાદ મમતા બેનર્જીએ કહ્યું કે, જો કાચ ન હોત, તો મારું માથું ફાટી ગયું હોત.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/mamata-banerjee-convoy-attacked-halishahar-west-bengal-487240 ",
+    "time": "2026-08-09T12:52:51.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "સિરીઝ માટે બાંગ્લાદેશ જશે ટીમ ઈન્ડિયા ? BCCIએ તોડ્યું મૌન, હવે સરકારે લેવો પડશે મોટો નિર્ણય",
     "desc": "ભારત અને બાંગ્લાદેશ વચ્ચે સપ્ટેમ્બરમાં યોજાનારી શ્રેણી હજુ પણ અનિશ્ચિત છે. ભારતીય ટીમ આ શ્રેણી માટે બાંગ્લાદેશ જશે કે નહીં તે અંગે BCCI દ્વારા એક મોટું નિવેદન આપવામાં આવ્યું છે અને તેમનું વલણ સ્પષ્ટ કર્યું છે, હવે આ અંગે સરકાર શું નિર્ણય લે છે, તેના પર બધાની નજર છે.",
@@ -486,15 +495,6 @@ const newsData_gu = [
     "time": "2026-08-07T06:52:49.000Z"
   },
   {
-    "cat": "Business",
-    "title": "CM કે DyCM નહીં, ગુજરાતના આ મંત્રી છે સૌથી ધનિક, જાણો કેટલી છે સંપત્તિ અને ક્યાંથી કરે છે કરોડોની કમાણી !",
-    "desc": "ગુજરાત સરકારમાં રિવાબા જાડેજા સૌથી ધનિક મંત્રી છે. તેમની સંપત્તિ ₹97.35 કરોડ છે એટલે કે લગભગ ₹100 કરોડની આસપાસ છે. આ સંપત્તિ ચૂંટણી સમયે જાહેર કરવામાં આવેલા સોગંદનામા મુજબ છે. જેમાં મિલકતો, રોકાણ અને અન્ય કાયદેસર સંપત્તિનો સમાવેશ થાય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gujarats-richest-minister-rivaba-jadeja-net-worth-and-income-sources-486951 ",
-    "time": "2026-08-07T06:49:48.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ચેન્નઈ નહીં KKRમાં જોડાશે હાર્દિક પંડ્યા? ₹25 કરોડ સાથે મળશે કેપ્ટનશીપ!",
     "desc": "હાર્દિક પંડ્યા આઈપીએલ 2027મા કઈ ટીમ માટે રમશે, ક્રિકેટ ફેન્સ વચ્ચે આ સવાલની ખુબ ચર્ચા થઈ રહી છે. આ વચ્ચે એક રિપોર્ટમાં દાવો કરવામાં આવ્યો કે હાર્દિકને ટ્રેડ કરવાની રેસમાં કોલકત્તા નાઈટ રાઇડર્સ પણ સામેલ થઈ ગયું છે.",
@@ -547,15 +547,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/best-selling-cars-july-2026-maruti-suzuki-wagonr-price-and-mileage-486944 ",
     "time": "2026-08-06T15:16:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "પીએમ મોદીના વિદેશ પ્રવાસથી ભારતને શું ફાયદો થયો? ૧ રૂપિયાના ખર્ચ સામેનો આ આંકડો જોઈને ચોંકી જશો",
-    "desc": ": પીએમ મોદીના વિદેશી પ્રવાસ દરમિયાન ૨૦૨૧થી લઈને ૨૦૨૫ દરમિયાન એક મોટી રકમ ખર્ચ કરવામાં આવી છે, પરંતુ જો વિદેશી રોકાણ સાથે સરખામણી કરીએ તો દરેક એક રૂપિયાના ખર્ચ પર ૬૬૦૦૦ રૂપિયાનું એફડીઆઈ (FDI) એટલે વિદેશી રોકાણ મળ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/%E2%82%B91-spent-%E2%82%B966000-fdi-gained-pm-modis-foreign-visits-yield-massive-returns-for-india-486943 ",
-    "time": "2026-08-06T14:57:09.000Z"
   },
   {
     "cat": "World",
@@ -628,15 +619,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/shreya-kalra-won-netflix-lock-upp-season-2-shreya-kalra-networth-and-life-journey-social-media-influencer-486858 ",
     "time": "2026-08-06T02:16:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "શું 2 વારની ચેમ્પિયન ટીમ 2027ના વનડે વર્લ્ડ કપમાંથી બહાર થશે? જાણો આઈસીસી ક્વોલિફિકેશનનું ગણિત!",
-    "desc": "વેસ્ટ ઈન્ડિઝ માટે 2027ના વિશ્વકપમાં સીધો પ્રવેશ મેળવવાનું કામ મુશ્કેલ બની ગયું છે. જાણો આઈસીસી રેન્કિંગનું શું છે ગણિત અને કઈ રીતે ભારત વિરુદ્ધ વેસ્ટ ઈન્ડિઝ અને અફઘાનિસ્તાન વિરુદ્ધ આયર્લેન્ડ સિરીઝ બે ટીમોના ભાગ્યનો નિર્ણય કરશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/explained-will-two-time-champion-miss-2027-odi-world-cup-understanding-the-qualification-math-486857 ",
-    "time": "2026-08-05T17:46:59.000Z"
   },
   {
     "cat": "Tech",
@@ -754,15 +736,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/world-richest-leaders-vladimir-putin-trump-rishi-sunak-check-more-know-who-is-at-number-one-486610 ",
     "time": "2026-08-03T10:29:19.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "2026માં 2 ભવિષ્યવાણીઓ પડી સાચી, હવે લિવિંગ નોસ્ટ્રાડેમસએ આપી નવી ખતરનાક ચેતવણી, જાણો",
-    "desc": "વિશ્વમાં અનેક લોકો ભવિષ્યવાણી કરે છે, ત્યારે બ્રાઝિલના લિવિંગ નોસ્ટ્રાડેમસ તરીકે જાણીતા વ્યક્તિએ યુદ્ધ અને ફુટબોલમાં કઈ ટીમની જીતને લઈને પણ ભવિષ્યવાણી કરી હતી, જે બાદ હવે તેમને ત્રીજી ભવિષ્યવાણી પણ હાલ ચર્ચાનો વિષય બન્યો છે અને આ ભવિષ્યવાણી આગળની બે ભવિષ્યવાણી કરતા વધારે ખતરનાક છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/2-prophecies-of-2026-came-true-now-living-nostradamus-has-given-a-new-dangerous-warning-know-486601 ",
-    "time": "2026-08-03T09:40:23.000Z"
   },
   {
     "cat": "Entertainment",

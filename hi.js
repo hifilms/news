@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sarfaraz Khan named Sai Sudharsan's replacement for two-match Test series against Sri Lanka",
+    "desc": "Mumbai star batter Sarfaraz Khan has been named as the replacement for the injured Sai Sudharsan in India's squad for the two-match Test series against Sri Lanka, the Board of Control for Cricket in India...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sarfaraz-khan-named-sai-sudharsans-replacement-for-two-match-test-series-against-sri-lanka-2026-08-09-1050865",
+    "time": "2026-08-09T14:22:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Jo khelega, vo khilega': PM Modi shares Instagram reel after meeting Commonwealth Games medallists",
+    "desc": "Prime Minister Narendra Modi on Sunday, August 9, met Commonwealth Games 2026 medallists at his residence in New Delhi and congratulated them for their performance at the Glasgow Games 2026. Modi shared an Instagram reel...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/jo-khelega-vo-khilega-pm-modi-shares-instagram-reel-after-meeting-commonwealth-games-medallists-2026-08-09-1050863",
+    "time": "2026-08-09T13:34:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer picks standout player for team India ahead of Sri Lanka Test series",
+    "desc": "The Indian team is all set to take on Sri Lanka in a two-game Test series. The two sides will meet at the Galle International Stadium from August 15th, and ahead of the series, there...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-picks-standout-player-for-team-india-ahead-of-sri-lanka-test-series-2026-08-09-1050861",
+    "time": "2026-08-09T13:22:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India defeat Sri Lanka in practice game ahead of Test series, register dominant six-wicket win in Colombo",
+    "desc": "The Indian team managed to get the best of Sri Lanka Cricket XI as they defeated the side by six wickets in the three-day practice game ahead of the two-game Test series between the two...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-defeat-sri-lanka-in-practice-game-ahead-of-test-series-register-dominant-six-wicket-win-in-colombo-2026-08-09-1050858",
+    "time": "2026-08-09T12:58:29.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Let them play freely': Former India cricketer backs Rohit-Virat to be India's ranks ahead of ODI WC 2027",
     "desc": "The Indian team is hard at work preparing for the upcoming ODI World Cup 2027. There has been major discussion over what the Indian squad could look like for the upcoming World Cup. Ahead of...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/charith-asalanka-and-eshan-malinga-propel-galle-gallants-to-maiden-lpl-title-2026-08-09-1050826",
     "time": "2026-08-09T05:38:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former England midfielder points out Liverpool FC's transfer problems ahead of new season",
-    "desc": "The Premier League 2026-27 season is looming on the horizon, and the various sides are quite active in the summer transfer market, and many eyes are set upon the 2024 champions, Liverpool. The side is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/former-england-midfielder-points-out-liverpool-fc-s-transfer-problems-ahead-of-new-season-2026-08-08-1050807",
-    "time": "2026-08-08T17:30:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Legendary Australian pacer sings Vaibhav Sooryavanshi's praises after latter's recent brilliance",
-    "desc": "World cricket has recently been taken by storm by 15-year-old batting prodigy Vaibhav Sooryavanshi. The youngster has been exceptional wherever he has played, winning the orange cap for Rajasthan Royals. He also became the youngest-ever...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/legendary-australian-pacer-sings-vaibhav-sooryavanshi-s-praises-after-latter-s-recent-brilliance-2026-08-08-1050806",
-    "time": "2026-08-08T16:53:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bruno Guimaraes pens heartfelt note to Newcastle United fans after completing major move to Arsenal",
-    "desc": "Star Brazilian midfielder Bruno Guimaraes has officially put pen to paper and completed his permanent transfer to Premier League champions Arsenal. It is worth noting that Arsenal signed Guimaraes on a reported 75 million pounds...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/bruno-guimaraes-pens-heartfelt-note-to-newcastle-united-fans-after-completing-major-move-to-arsenal-2026-08-08-1050801",
-    "time": "2026-08-08T15:41:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lionel Messi's father, Jorge passes away at 68 after battling prolonged health problems",
-    "desc": "Jorge Messi, the father of legendary Argentine forward Lionel Messi has passed away at the age of 68. It is worth noting that Jorge had been battling health problems for quite some time, and during...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/lionel-messi-s-father-jorge-passes-away-at-68-after-battling-prolonged-health-problems-2026-08-08-1050794",
-    "time": "2026-08-08T14:02:52.000Z"
   }
 ];
