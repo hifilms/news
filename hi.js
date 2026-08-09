@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Charith Asalanka and Eshan Malinga propel Galle Gallants to maiden LPL title",
+    "desc": "The LPL (Lanka Premier League) 2026 final saw Jaffna Kings taking on Galle Gallants. The two sides met at the R. Premadasa Stadium in Colombo on August 10th, and the game saw Galle Gallants register...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/charith-asalanka-and-eshan-malinga-propel-galle-gallants-to-maiden-lpl-title-2026-08-09-1050826",
+    "time": "2026-08-09T05:38:42.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Former England midfielder points out Liverpool FC's transfer problems ahead of new season",
     "desc": "The Premier League 2026-27 season is looming on the horizon, and the various sides are quite active in the summer transfer market, and many eyes are set upon the 2024 champions, Liverpool. The side is...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/yashasvi-jaiswal-s-struggle-against-left-arm-pacers-continues-devdutt-padikkal-manages-half-century-2026-08-08-1050765",
     "time": "2026-08-08T08:00:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Uttarakhand CM Pushkar Dhami welcomes Rishabh Pant's request, promises help with land purchase",
-    "desc": "Uttarakhand Chief Minister Pushkar Singh Dhami has assured Rishabh Pant of government support after the India keeper-batter sought help in acquiring land in his native state. Dhami on Saturday clarified that the officials would speak...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/uttarakhand-cm-pushkar-dhami-welcomes-rishabh-pant-s-request-promises-help-with-land-purchase-2026-08-08-1050761",
-    "time": "2026-08-08T07:26:13.000Z"
   }
 ];

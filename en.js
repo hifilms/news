@@ -1,5 +1,167 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Marathon hit! Shubman Gill bats for over an hour in NCC nets",
+    "desc": "Shubman Gill practiced batting after an impact injury on his thumb. He taped around his thumb and focused on spin during his session. The team management is cautious about risking him before crucial upcoming fixtures. India faces several injury concerns and will name a replacement for Sai Sudharsan. Shaik Rasheed, Sarfaraz Khan, and Ruturaj Gaikwad are top contenders for the vacant spot.",
+    "img": "https://static.toiimg.com/photo/msid-133063283,imgsize-135710.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/marathon-hit-shubman-gill-bats-for-over-an-hour-in-ncc-nets/articleshow/133063248.cms",
+    "time": "2026-08-09T06:24:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ajay Devgn to headline ‘Kill’ and ‘Deadlocked’ director Nikhil Nagesh Bhat’s next action drama",
+    "desc": "Ajay Devgn will collaborate with director Nikhil Nagesh Bhat for a new action drama. Principal photography for this Jio Studios project is planned for late 2027. Bhat is currently completing his Hollywood debut film 'Deadlocked' with Jamie Foxx. His recent film 'Kill' garnered international acclaim for its intense action sequences. This collaboration adds another action-oriented title to Devgn's upcoming slate.",
+    "img": "https://static.toiimg.com/photo/msid-133063261,imgsize-311924.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ajay-devgn-to-headline-kill-and-deadlocked-director-nikhil-nagesh-bhats-next-action-drama-shoot-to-begin-in-2027/articleshow/133063253.cms",
+    "time": "2026-08-09T06:20:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ariana Grande's brother Frankie writes note for her concluding concert",
+    "desc": "With a heart full of pride, Frankie Grande celebrated the conclusion of Ariana's North American tour, recognizing both her artistry and the loving family dynamic she has built. Ariana expressed her deep appreciation to her fans for making the last few months so rewarding and joyful. Looking ahead, she will prepare for London performances next month while also sharing her plans for a break from public engagement after September.",
+    "img": "https://static.toiimg.com/photo/msid-133063165,imgsize-239329.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/it-was-a-magical-night-ariana-grandes-brother-frankie-grande-celebrates-her-concluding-concert-in-chicago-with-a-heartfelt-note/articleshow/133063090.cms",
+    "time": "2026-08-09T06:13:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘They called Mohanlal a secondary artist’: Jude on Hindi project",
+    "desc": "Director Jude Anthany Joseph revealed his departure from a planned Bollywood film. He disagreed with the production house's description of Mohanlal as a secondary artist. The filmmaker insisted on confirming Mohanlal's role before completing the screenplay. The production house wanted to evaluate the script before considering any actors. Meanwhile, Jude's latest film 'Thudakkam' is performing well at the box office.",
+    "img": "https://static.toiimg.com/photo/msid-133063122,imgsize-51264.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/they-called-mohanlal-a-secondary-artist-jude-anthany-joseph-reveals-why-he-walked-away-from-ayushmann-khurrana-bollywood-film/articleshow/133063097.cms",
+    "time": "2026-08-09T06:05:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Travis Kelce sparks concerns for his NFL season due to Taylor Swift",
+    "desc": "Sports analyst Bill Simmons raised concerns about Travis Kelce's concentration as he approaches his fourteenth NFL season. Citing Kelce's extravagant wedding as a potential diversion, Simmons questioned his readiness. However, Coach Andy Reid stood by Kelce, asserting his commitment to fitness and his eagerness to play every game. Meanwhile, Taylor Swift seems to be immersed in her music career and navigating her new life as a wife.",
+    "img": "https://static.toiimg.com/photo/msid-133063017,imgsize-259849.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/i-dont-know-where-his-heads-at-travis-kelce-sparks-concerns-for-his-nfl-14th-season-after-marriage-with-taylor-swift/articleshow/133062995.cms",
+    "time": "2026-08-09T06:01:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Politics': Jimmy Shergill shares why 'Satluj’ faced roadblocks",
+    "desc": "In a recent interview, Jimmy Shergill shed light on the challenges faced by politically charged films, revealing that they often unveil uncomfortable truths, making their distribution tricky. He reminisced about his debut, Maachis, which tackled similar topics and received critical acclaim. Shergill expressed gratitude towards director Gulzar for his mentorship on the project. Currently, he is featured in the Netflix series Operation Safed Sagar, captivating audiences with his performance.",
+    "img": "https://static.toiimg.com/photo/msid-133062871,imgsize-602948.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/politics-exists-and-it-will-always-go-on-jimmy-shergill-explains-why-satluj-faced-roadblocks-while-maachis-was-celebrated-amid-global-ott-takedown-of-diljit-dosanjh-starrer/articleshow/133062797.cms",
+    "time": "2026-08-09T05:53:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "What happens if there is no Constitutional Amendment on Delimitation?",
+    "desc": "A fresh delimitation will be triggered by the existing provisions of Articles 81 and 82 after the data of the 2027 Census is published, if they are not amended. Lok Sabha constituencies will be reallocated to States on the basis of the 2027 Census.",
+    "img": "https://th-i.thgim.com/public/incoming/nl789n/article71322124.ece/alternates/LANDSCAPE_1200/PTI08_07_2026_000099A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/what-happens-if-there-is-no-constitutional-amendment-on-delimitation/article71321760.ece",
+    "time": "2026-08-09T05:50:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘The Last House': Here's all you need to know about the thriller series",
+    "desc": "The captivating series 'The Last House' immerses audiences in the life of the Delgado family, who become prisoners in their own home due to an inexplicable force. Over the years, different actors depict the children as they grow along with their harrowing experiences. Headlining the cast, Greta Lee and Wagner Moura deliver impressive performances. You can binge-watch this chilling thriller on Netflix, available worldwide.",
+    "img": "https://static.toiimg.com/photo/msid-133062826,imgsize-94198.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-last-house-heres-all-you-need-to-know-about-the-plot-and-cast-including-the-three-actresses-who-played-ruth-in-the-thriller-series/articleshow/133062685.cms",
+    "time": "2026-08-09T05:48:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘I don’t care how old he is’: Brett Lee’s big warning for Vaibhav Sooryavanshi",
+    "desc": "According to Brett Lee, 15-year-old Vaibhav Sooryavanshi showcases outstanding cricket skills. Following a stellar IPL season, he was quickly called to join India's T20I team, where he shone in the Zimbabwe tour, being honored as Player of the Series. Lee underscores the need to safeguard the young prodigy from extreme pressure, stressing that his biggest hurdle will be maintaining mental fortitude as he progresses in his career.",
+    "img": "https://static.toiimg.com/photo/msid-133062769,imgsize-103736.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-dont-care-how-old-he-is-brett-lees-big-warning-for-vaibhav-sooryavanshi/articleshow/133062739.cms",
+    "time": "2026-08-09T05:40:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Toxic' director Geetu Mohandas calls Yash an emotion",
+    "desc": "The much-anticipated trailer for Yash's film 'Toxic' has officially dropped, creating waves in the cinematic world. Director Geetu Mohandas commended Yash's immense talent and emotional depth, while also addressing skepticism about a female director helming a gangster genre. She expressed heartfelt appreciation for her mother's unwavering support throughout production. Set against the gritty backdrop of the late 1990s, this action-packed thriller is slated for release on August 26, 2026.",
+    "img": "https://static.toiimg.com/photo/msid-133062644,imgsize-790050.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/yash-is-an-emotion-toxic-director-geetu-mohandas-gets-emotional-says-i-will-always-be-indebted-to-him/articleshow/133062608.cms",
+    "time": "2026-08-09T05:22:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Government to hold fresh talks; health of student leader on fast deteriorates",
+    "desc": "The decision for another round of talks was taken after a series of meetings between the government and student groups on Fugust 7 night and throughout Saturday (August 8, 2026) failed to break the deadlock",
+    "img": "https://th-i.thgim.com/public/incoming/tbjka3/article71324099.ece/alternates/LANDSCAPE_1200/PTI08_09_2026_000017B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-exam-stir-government-talks-with-students-devenedra-nath-mahto-fast/article71324075.ece",
+    "time": "2026-08-09T05:12:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ashmita stuns Han to win maiden BWF Tour title at Korea Masters",
+    "desc": "The 26-year-old from Assam overcame a slow start and a testing decider to complete a memorable victory, recovering from the loss of the opening game to stun world No. 35 Han 14-21, 21-14, 21-14 in the summit clash",
+    "img": "https://th-i.thgim.com/public/incoming/40rh8y/article71324071.ece/alternates/LANDSCAPE_1200/GettyImages-2277473105.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/ashmita-stuns-han-to-win-maiden-bwf-tour-title-at-korea-masters/article71324069.ece",
+    "time": "2026-08-09T04:56:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jason Kelce cried watching Travis Kelce and Taylor Swift get married",
+    "desc": "Jason Kelce was visibly moved as he witnessed his brother Travis Kelce tie the knot with Taylor Swift. His wife, Kylie Kelce, revealed that Jason shed tears for various heartfelt reasons during the wedding. Their four daughters graced the ceremony as flower girls, enhancing the sentimental mood. Held at Madison Square Garden last month, the wedding was described by many attendees as a stunning garden-themed celebration.",
+    "img": "https://static.toiimg.com/photo/msid-133062412,imgsize-295099.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/jason-kelce-cried-at-travis-kelce-and-taylor-swifts-wedding-for-many-reasons-reveals-kylie-kelce/articleshow/133062391.cms",
+    "time": "2026-08-09T04:53:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'DC' OTT release: Where to watch Lokesh Kanagaraj film",
+    "desc": "Lokesh Kanagaraj steps into the acting arena with his debut in the newly released film 'DC'. This action-packed gangster tale intertwines thrilling police pursuits with a touch of romance. Following its cinema success, 'DC' has confirmed its partner for digital streaming. Notably, viewers are buzzing about the captivating action sequence before the intermission, contributing to a significant spike in box office earnings on the film's second day.",
+    "img": "https://static.toiimg.com/photo/msid-133062369,imgsize-296885.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/dc-ott-release-where-to-watch-lokesh-kanagaraj-and-wamiqa-gabbis-film-after-the-theatrical-run-report/articleshow/133062344.cms",
+    "time": "2026-08-09T04:47:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Margot Robbie and Ryan Gosling demand combined USD 150 million",
+    "desc": "Margot Robbie and Ryan Gosling are reportedly seeking USD 150 million combined for Barbie 2. Intense salary negotiations have stalled production, raising questions about the film's future. Robbie wants double her previous earnings, reflecting her producer role and film's success. Gosling also seeks a significant pay increase, valuing his contribution to the franchise. An agreement is needed before December, or film rights revert to Mattel.",
+    "img": "https://static.toiimg.com/photo/msid-133062191,imgsize-213430.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/barbie-star-margot-robbie-and-ryan-gosling-demand-combined-usd-150-million-for-sequel-neither-wants-to-undersell-their-value/articleshow/133062178.cms",
+    "time": "2026-08-09T04:22:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Fans left shocked over John Goodman’s changed appearance",
+    "desc": "John Goodman has taken fans by surprise with a recent photograph showcasing his impressive weight loss. Viewers have reacted positively to his transformed look, expressing their joy at seeing the beloved actor in a healthier state. Goodman credits his striking change to significant lifestyle modifications, particularly cutting out sugar and alcohol, which contributed to a remarkable weight loss of around two hundred pounds.",
+    "img": "https://static.toiimg.com/photo/msid-133062137,imgsize-375169.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/john-goodman-unrecognisable-after-200-lbs-weight-loss-fans-call-the-big-lebowski-star-living-legend-after-witnessing-the-massive-transformation/articleshow/133062114.cms",
+    "time": "2026-08-09T04:12:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘I would have banned Ganguly’: Srinath on Waugh’s wait during 2001 Eden Test toss",
+    "desc": "Javagal Srinath expressed that he might have imposed a ban on Sourav Ganguly for his delay in tossing the coin, though he acknowledged Ganguly's exceptional leadership and his ability to foster new talent. The landscape of Indian cricket saw immense transformation following the match-fixing scandal in the late 1990s, with players united in their commitment to rehabilitating the sport's reputation.",
+    "img": "https://static.toiimg.com/photo/msid-133062123,imgsize-126180.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-would-have-banned-sourav-ganguly-javagal-srinath-on-steve-waughs-wait-during-2001-eden-test-toss/articleshow/133062092.cms",
+    "time": "2026-08-09T04:10:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "how Miss Giggles is laughing her way to the top",
+    "desc": "The 18-year-old recently became the first Indian squash player to be crowned Junior World champion. How did the ‘very chilled’, ‘happy-go-lucky kid’ conquer the might of Egypt? And what does the future hold for the prodigy who reads opponents and situations better than most?",
+    "img": "https://th-i.thgim.com/public/incoming/es0i9w/article71320483.ece/alternates/LANDSCAPE_1200/A1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/anahat-singh-junior-world-squash-champion-india-la-2028-olympics/article71320486.ece",
+    "time": "2026-08-09T04:01:29.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "'Lord of the Rings' stars reunite 23 years after the trilogy",
     "desc": "Original Lord of the Rings actors reunited for a dinner gathering. Sean Astin and Dominic Monaghan shared photos of their enjoyable evening. This reunion occurs as excitement builds for a new prequel film. The upcoming movie, The Hunt for Gollum, is set for a 2027 release. Fans appreciate seeing the hobbit actors remain friends after many years.",
@@ -10,7 +172,7 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Basant Meghwal creates history with silver medal at World Athletics U20 C'ships",
+    "title": "Basant Meghwal makes history with silver at World Athletics U20 Championships",
     "desc": "In a groundbreaking performance, Basant Kumar Meghwal elevated himself into the record books by winning a silver medal in the men's high jump, reaching a personal best of 2.21 meters. This victory makes him the first Indian high jumper to achieve this honor at the championship. Additionally, Ashish Yadav's silver medal in javelin throw helped boost India's total medal count to two.",
     "img": "https://static.toiimg.com/photo/msid-133061926,imgsize-1238400.cms",
     "src": "indiatimes.com",
@@ -19,7 +181,7 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "‘Can’t imagine the pain’: Nadal’s emotional tribute to Messi after father’s death",
+    "title": "‘I can’t imagine the pain’: Nadal’s emotional tribute to Messi after father’s death",
     "desc": "An outpouring of sympathy enveloped the sports world following the death of Jorge Messi, father of football legend Lionel Messi, at 68 due to a prolonged illness. Rafael Nadal shared a deeply emotional statement for the family, and during a game, Rodrigo De Paul paid homage to Jorge's crucial role in shaping Messi's illustrious career.",
     "img": "https://static.toiimg.com/photo/msid-133061888,imgsize-116255.cms",
     "src": "indiatimes.com",
@@ -63,15 +225,6 @@ const newsData_en = [
     "time": "2026-08-09T03:24:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "News in Frames",
-    "desc": "Mining, quarrying, deforestation and jhum cultivation may have destabilised slopes and intensified the impact of the deluge; the floods this year have killed 98 people so far, most of them in three districts — Sivasagar, Charaideo, and Jorhat; the Chief Minister has called for science-backed solutions to tackle the issues",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/assam/news-in-frames-the-wounds-beneath-assams-deadly-flood/article71323994.ece",
-    "time": "2026-08-09T03:13:09.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "New Mahesh Babu stills from 'Varanasi' released on his birthday",
     "desc": "Filmmaker SS Rajamouli's upcoming film 'Varanasi' has released new stills today. These images showcase Mahesh Babu as Rudhra during the Africa schedule. Priyanka Chopra plays Mandakini, and Prithviraj Sukumaran is the antagonist. The movie's plot involves an archaeologist finding a cosmic artifact to save the world. 'Varanasi' is slated for a worldwide release in April 2027.",
@@ -79,15 +232,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/mahesh-babu-birthday-ss-rajamouli-unveils-new-varanasi-stills-makers-tease-rudhra-as-witty-vulnerable-and-fierce/articleshow/133061700.cms",
     "time": "2026-08-09T03:11:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Pemmasani calls for art to connect with community",
-    "desc": "Addressing the gathering at ‘Amaravati Chitrakala Veedhi’, Union Minister of State for Rural Development and Communications says art is a reflection of culture and a testimony to history; nearly 800 artists from different regions participate in the event",
-    "img": "https://th-i.thgim.com/public/incoming/44outi/article71322164.ece/alternates/LANDSCAPE_1200/10215_8_8_2026_14_44_52_1_IMG_20260808_WA0029.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/pemmasani-calls-for-art-to-connect-with-community/article71321805.ece",
-    "time": "2026-08-09T02:57:45.000Z"
   },
   {
     "cat": "Entertainment",
@@ -99,15 +243,6 @@ const newsData_en = [
     "time": "2026-08-09T02:56:08.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Panthic’ politics: SAD-BJP renewed alliance could reignite Akali Dal’s core base ahead of 2027 Punjab polls",
-    "desc": "If the Akali Dal’s core support base sees a genuine prospect of returning to power through this alliance, that itself could become a rallying point drawing voters back to the SAD led by Sukhbir Singh Badal",
-    "img": "https://th-i.thgim.com/public/incoming/73blba/article71321625.ece/alternates/LANDSCAPE_1200/6717_29-1-2017_19-45-11_29_CHD_MODI_01.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/sad-bjp-alliance-could-help-akali-dals-core-base-ahead-of-2027-punjab-elections/article71321438.ece",
-    "time": "2026-08-09T02:46:08.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Meghan Markle poses with Prince Harry in selfie from David Foster’s charity event in Canada",
     "desc": "Meghan Markle and Prince Harry recently attended a star-studded event in Canada for the David Foster Foundation, dazzling onlookers as they posed on the red carpet. Meghan paid tribute to Princess Diana by donning her exquisite diamond and sapphire earrings. This appearance followed their earlier trip to the UK, where they enjoyed quality time with their little ones on a memorable family adventure.",
@@ -115,15 +250,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/meghan-markle-poses-with-prince-harry-in-selfie-from-david-fosters-charity-event-in-canada/articleshow/133061547.cms",
     "time": "2026-08-09T02:45:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "The fine art of creating blood donors at home; and resources for those in Chennai seeking to donate blood",
-    "desc": "A leitmotif among blood donation organisations is the increasing difficulty in finding people with “generous veins”; and the solution could strangely be found in the living rooms of households, as illustrated by these two accounts from Chennai of parents inspiring their children to join the cause",
-    "img": "https://th-i.thgim.com/public/incoming/xw5ygb/article71239301.ece/alternates/LANDSCAPE_1200/19dc%20Shaikhs%20.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/chennai/collective-kindness-when-families-support-the-cause-of-blood-donation/article71239297.ece",
-    "time": "2026-08-09T02:44:45.000Z"
   },
   {
     "cat": "Entertainment",
@@ -234,33 +360,6 @@ const newsData_en = [
     "time": "2026-08-09T01:28:22.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Kiara on 'Toxic': 'There will be Kiara before and after this'",
-    "desc": "Kiara Advani is optimistic that her next film, Toxic, will represent a pivotal moment in her career. She acknowledges the support from director Geetu Mohandas and co-star Yash, who both believed in her potential. Advani feels that they have helped her transcend her acting limits with the character Nadia. She eagerly awaits the public's response to the film, which she believes will raise the bar for upcoming projects.",
-    "img": "https://static.toiimg.com/photo/msid-133061296,imgsize-389665.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kiara-advani-says-yash-and-geetu-mohandas-manifested-her-as-nadia-in-toxic-there-will-be-a-kiara-before-and-after-this-film/articleshow/133061268.cms",
-    "time": "2026-08-09T01:25:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Michael B. Jordan and Raye spark dating rumours with recent outing",
-    "desc": "Michael B. Jordan and Raye have sparked dating rumors after a recent Los Angeles outing. The two were spotted together at Six Flags Magic Mountain amusement park on August 7. A TikTok video captured the rumored couple boarding a park ride, fueling fan speculation. While neither has confirmed their relationship, fans are eager for details. Jordan's past relationship was with Lori Harvey, and Raye's past rumors were with Lewis Hamilton.",
-    "img": "https://static.toiimg.com/photo/msid-133061301,imgsize-219571.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/michael-b-jordan-and-raye-head-out-for-an-amusement-park-outing-spark-fresh-dating-rumours/articleshow/133061272.cms",
-    "time": "2026-08-09T01:22:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Thudakkam' BO day 2: Vismaya Mohanlal's film grows 37.3%",
-    "desc": "Vismaya Mohanlal's debut venture 'Thudakkam' experienced a remarkable box office surge on its second day, raking in Rs 3.50 crore net on Saturday, marking a significant rise from Friday's figures. This uplift secured the film's two-day net collection in India at Rs 6.05 crore, with Kerala emerging as the leading contributor. Overall, the film's worldwide gross has reached an impressive Rs 15.42 crore.",
-    "img": "https://static.toiimg.com/photo/msid-133061282,imgsize-267261.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/thudakkam-box-office-collections-day-2-vismaya-mohanlals-film-grows-37-3-india-net-reaches-rs-6-05-crore/articleshow/133061275.cms",
-    "time": "2026-08-09T01:19:41.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "FIFA hits back at ‘concerted effort’ to undermine Infantino amid fresh allegations",
     "desc": "FIFA has come out in staunch defense of president Gianni Infantino, rebutting fresh allegations and widespread criticism. The organisation has accused unnamed detractors of orchestrating a campaign aimed at destabilising its leadership. While UEFA acknowledged a severance payment to a former employee associated with Infantino, he continues to enjoy robust support from various continental federations despite European discontent.",
@@ -268,42 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/fifa-hits-back-at-concerted-effort-to-undermine-infantino-amid-fresh-allegations/articleshow/133061234.cms",
     "time": "2026-08-09T01:05:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'GDN' BO day 2: R. Madhavan's film shows improvement",
-    "desc": "R. Madhavan's period drama, 'GDN', showcased a promising uptick at the box office on its second day, achieving net earnings of Rs 84 lakhs in India on Saturday. This brought its cumulative net collection in India to Rs 1.46 crore across the first two days. The Telugu adaptation of 'GDN' also experienced a slight rise in its earnings, bringing to life the story of the inventive genius G. D. Naidu.",
-    "img": "https://static.toiimg.com/photo/msid-133061229,imgsize-262563.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/gdn-box-office-collection-day-2-r-madhavans-film-shows-improvement-india-net-reaches-rs-1-46-crore/articleshow/133061224.cms",
-    "time": "2026-08-09T00:59:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tara calls 'Toxic' her 'fairytale' and 'dream come true'",
-    "desc": "At the Bengaluru trailer launch for her film Toxic, Tara Sutaria couldn't hold back her emotions. She expressed that this project was a dream realized for the entire team, feeling truly blessed and overwhelmed to be a part of such a remarkable tale. Co-star Yash shared that Tara's involvement led to an expanded role for her. Toxic is set for release on August 26, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-133061202,imgsize-434311.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tara-sutaria-calls-toxic-her-fairytale-and-dream-come-true-yash-reveals-he-expanded-her-role/articleshow/133061191.cms",
-    "time": "2026-08-09T00:50:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'DC' BO day 2: Lokesh Kanagaraj's film jumps 52.3%",
-    "desc": "Lokesh Kanagaraj's acting debut film 'DC' saw a significant box office increase on Saturday. The action film's net collection rose by fifty-two percent from its opening day. Its total India net collection has now reached eleven point one zero crore rupees. Overseas earnings also contributed to the film's growing worldwide gross. The movie follows Devadas protecting a family from police brutality.",
-    "img": "https://static.toiimg.com/photo/msid-133061186,imgsize-170260.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/dc-box-office-collections-day-2-lokesh-kanagarajs-film-jumps-52-3-earns-rs-6-70-crore-worldwide-gross-reaches-rs-17-99-crore/articleshow/133061185.cms",
-    "time": "2026-08-09T00:43:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Jana Nayagan' BO Day 17: Vijay's film records 135% jump",
-    "desc": "Thalapathy Vijay's latest venture, 'Jana Nayagan,' has experienced a remarkable surge at the box office, raking in Rs 2.35 crore in India on its seventeenth day. This impressive figure marks a notable improvement from the previous day's revenue. Notably, the Tamil version has been pivotal in driving the movie's domestic success. Overall, the film has surpassed Rs 312 crore globally, showcasing its widespread appeal.",
-    "img": "https://static.toiimg.com/photo/msid-133061141,imgsize-245006.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-box-office-collection-day-17-thalapathy-vijays-film-records-135-jump-earns-rs-2-35-crore/articleshow/133061137.cms",
-    "time": "2026-08-09T00:27:25.000Z"
   },
   {
     "cat": "Politics",
@@ -612,15 +675,6 @@ const newsData_en = [
     "time": "2026-08-08T19:10:47.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Rajesh Khanna abused me, I was very upset,' recalls veteran actor Tej Sapru",
-    "desc": "Tej Sapru, a seasoned actor, recounted a poignant memory with the legendary Rajesh Khanna on a movie set. In a surprising turn of events, Khanna hurled insults at Sapru, leaving him deeply wounded due to his admiration for the star. The following day, Khanna extended an olive branch, inviting Sapru to his hotel to mend fences.",
-    "img": "https://static.toiimg.com/photo/msid-133058735,imgsize-262230.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajesh-khanna-abused-me-i-was-very-upset-recalls-veteran-actor-tej-sapru-i-think-his-downfall-came-earlier-because-of-that-arrogance/articleshow/133058156.cms",
-    "time": "2026-08-08T19:04:06.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Karnataka explores partnership with Anthropic for governance, skilling and deep-tech growth",
     "desc": "CM D.K. Shivakumar sought Anthropic’s expertise on how AI could help reduce fraud in government systems and improve the effectiveness, security and confidentiality of setting question papers for examinations conducted by various government agencies and educational institutions.",
@@ -693,15 +747,6 @@ const newsData_en = [
     "time": "2026-08-08T18:46:32.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kashmir route outpaces Manali as Ladakh tourism surges",
-    "desc": "In the period from January to July, Ladakh has welcomed a remarkable 330,332 tourists. Air travel continues to be the favored mode of access to this stunning union territory. Among road travelers, the route through Kashmir is increasingly popular over the Manali path. Enhanced infrastructure and well-planned events have fueled this tourism surge, with burgeoning homestays offering fresh job opportunities for the local community.",
-    "img": "https://static.toiimg.com/photo/msid-133058113,imgsize-383764.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/kashmir-route-outpaces-manali-as-ladakh-tourism-surges/articleshow/133057887.cms",
-    "time": "2026-08-08T18:39:53.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Tewolde Gebremariam is Air India’s new CEO",
     "desc": "“His unique strength lies in managing complex operational landscapes, driving cultural transformation, building competitive global hubs, and developing world-class MRO (Maintenance, Repair, and Overhaul) and aviation training infrastructure,” a press statement from Air India said about Mr. Gebremariam",
@@ -711,15 +756,6 @@ const newsData_en = [
     "time": "2026-08-08T18:32:13.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Yash calls Kiara 'tabahi', tells her to not get bothered by the controversy: 'Don’t care'",
-    "desc": "Yash lauded Kiara Advani's dedicated performance in their upcoming film 'Toxic'. He encouraged her to ignore external criticism and trust her artistic choices. Yash believes the film's themes and performances are ahead of current audience understanding. He emphasized 'Toxic' as a collaborative Indian cinematic project, not a solo star vehicle. The film, directed by Geetu Mohandas, aims to elevate Indian cinema globally.",
-    "img": "https://static.toiimg.com/photo/msid-47529300.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/yash-lauds-kiara-advani-calls-her-tabahi-tells-her-to-not-get-bothered-by-what-people-say-amid-the-controversy-dont-care-whatever-you-believe-in-you-should-do/articleshow/133057173.cms",
-    "time": "2026-08-08T18:15:17.000Z"
-  },
-  {
     "cat": "World",
     "title": "Bangladesh pro-uprising groups turn on each other on second anniversary",
     "desc": "Control of campuses has become a battleground for parties and students groups that led the July 2024 movement which ousted Sheikh Hasina and her government. Rights group says at least 17 people were killed in mob violence in July. Six were killed in political violence, a drop from nine in June",
@@ -727,24 +763,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/bangladesh-pro-uprising-groups-turn-on-each-other-on-second-anniversary/article71309789.ece",
     "time": "2026-08-08T18:10:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "FIR against 17 for assaulting 4 transporting bovines in J&amp;K",
-    "desc": "Seventeen alleged cow vigilantes are facing legal action in Ramban after assaulting four men who were transporting bovines acquired from a police auction. The brutal incident, which occurred on August 4, resulted in one man suffering life-threatening injuries. This alarming event follows a fatal encounter in April, highlighting ongoing violence linked to cow protection. Investigations into wrongful restraint and assault are currently underway.",
-    "img": "https://static.toiimg.com/photo/msid-133057909,imgsize-207352.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/fir-against-17-for-assaulting-4-transporting-bovines-in-jk/articleshow/133057884.cms",
-    "time": "2026-08-08T18:09:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM Modi speaks to US VP Vance, discusses ways to deepen India-US strategic partnership",
-    "desc": "Prime Minister Narendra Modi spoke with US Vice President JD Vance on Saturday. They discussed deepening the India-US Comprehensive Global Strategic Partnership across key areas. PM Modi also congratulated JD Vance and his wife Usha Vance. The Prime Minister conveyed his best wishes to the growing family. This conversation focused on strengthening bilateral relations between the two nations.",
-    "img": "https://static.toiimg.com/photo/msid-133057125,imgsize-1208043.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-modi-speaks-to-us-vp-vance-discusses-ways-to-deepen-india-us-strategic-partnership/articleshow/133056929.cms",
-    "time": "2026-08-08T17:45:42.000Z"
   },
   {
     "cat": "Business",
@@ -772,24 +790,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/dance/girija-chandran-sangeeth-natak-akademi-award-mohiniyattam/article71289184.ece",
     "time": "2026-08-08T17:31:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Yash breaks silence on 'Toxic' delay and rumours of the film being shelved",
-    "desc": "Actor Yash discussed his upcoming film 'Toxic' at its Bengaluru trailer launch. He highlighted the project's extensive 200-day filming schedule and its diverse cast. Yash explained that the film transcends regional industry boundaries, representing Indian cinema globally. He emphasized that the cast prioritized the film's vision over individual egos. The actor also addressed persistent rumors about the film being shelved.",
-    "img": "https://static.toiimg.com/photo/msid-133056653,imgsize-335889.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yash-breaks-silence-on-toxic-delay-and-rumours-of-the-film-being-shelved-when-you-want-to-do-something-in-life-nothing-should-stop-you/articleshow/133056550.cms",
-    "time": "2026-08-08T17:28:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Uttarakhand CM Dhami transfers Rs 146.32 crore pension benefits to 9.87 lakh beneficiaries",
-    "desc": "Uttarakhand Chief Minister Pushkar Singh Dhami on Saturday transferred Rs 146.32 crore in pension benefits through Direct Benefit Transfer (DBT) to 9,87,017 beneficiaries under various pension schemes of the Social Welfare Department for July 2026.",
-    "img": "https://static.toiimg.com/photo/msid-133056521,imgsize-123228.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/uttarakhand-cm-dhami-transfers-rs-146-32-crore-pension-benefits-to-9-87-lakh-beneficiaries/articleshow/133056501.cms",
-    "time": "2026-08-08T17:20:04.000Z"
   },
   {
     "cat": "Sports",
@@ -873,24 +873,6 @@ const newsData_en = [
     "time": "2026-08-08T13:02:01.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "India's Gaikwad dethroned! England batter sets new List A record",
-    "desc": "Worcestershire captain Jake Libby has overtaken India’s Ruturaj Gaikwad to record the highest List A batting average ever. His unbeaten 109 against Sussex, his third straight century with the same score, lifted his average to 61.4. Libby now has 2,456 List A runs, including six centuries and 18 fifties, after 56 matches in the format.",
-    "img": "https://static.toiimg.com/photo/msid-133052653,imgsize-966750.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/indias-ruturaj-gaikwad-dethroned-england-batter-sets-new-list-a-batting-average-record/articleshow/133052400.cms",
-    "time": "2026-08-08T12:17:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hegde, Lal impress Ganguly and Yuvraj at DC's Bengaluru trials",
-    "desc": "Shubhang Hegde and Karan Lal emerged as the standout performers at Delhi Capitals' Bengaluru trials, catching the eye of Sourav Ganguly and Yuvraj Singh with their all-round displays. Vidarbha's Aman Mokhade was another player who made a strong impression",
-    "img": "https://static.toiimg.com/photo/msid-133051800,imgsize-126311.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/shubhang-hegde-karan-lal-impress-sourav-ganguly-and-yuvraj-singh-at-delhi-capitals-bengaluru-trials/articleshow/133051533.cms",
-    "time": "2026-08-08T11:35:56.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Why NBFC gold loans are growing nearly 70% despite tighter RBI regulations",
     "desc": "Non-banking financial company gold loans grew nearly seventy percent year-on-year. This expansion significantly outpaced overall retail credit growth for these institutions. The Reserve Bank of India had introduced new rules for gold lending practices. Despite regulatory scrutiny, demand for gold-backed credit remained robust. Credit growth in industry and services sectors showed moderation during this period.",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/why-nbfc-gold-loans-are-growing-nearly-70-despite-tighter-rbi-regulations/articleshow/133051443.cms",
     "time": "2026-08-08T11:29:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Pluto’ movie review: A sci-fi comedy that sticks to usual alien narratives",
+    "desc": "Sci-fi films are not something that happens often in the Malayalam film industry, which has relatively smaller budgets, with the subgenre of sci-fi comedies appearing even less frequently. Even the rarity of the genre does not really work to the advantage of Pluto.",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/22i6ud/article71286462.ece/alternates/LANDSCAPE_1200/pluto.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/pluto-movie-review-a-sci-fi-comedy-that-sticks-to-usual-alien-narratives/article71286486.ece",
+    "time": "2026-08-08T11:10:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "From training in dry ponds with wooden javelin to following Chopra's trail: Rise of Ashish",
+    "desc": "Ashish secured the second spot in the men's javelin final with a best effort of 74.09 metres, which came in his third attempt. His performance earned India a podium finish at the global junior event. It is the first time India have won a medal in javelin throw at the Junior World Championships since Neeraj Chopra's monster 86.48m showing in 2016.",
+    "img": "https://static.toiimg.com/photo/msid-133051212,imgsize-174645.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/ashish-yadavs-road-to-u20-worlds-silver-from-training-in-dry-ponds-with-wooden-javelin-to-following-neeraj-chopras-trail/articleshow/133051131.cms",
+    "time": "2026-08-08T11:08:44.000Z"
   }
 ];

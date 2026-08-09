@@ -315,15 +315,6 @@ const newsData_bn = [
     "time": "2026-08-01T08:58:45.000Z"
   },
   {
-    "cat": "World",
-    "title": "কয়লাখনিতে ভয়াবহ মিথেন-বিস্ফোরণ! সঙ্গে সঙ্গে মৃত্যু ৩২ শ্রমিকের, শ্বাসরোধী অন্ধকার গর্তের ভিতরে আটকে কত?",
-    "desc": "ঘটনায় আরও ১০ জন খনির ভেতরে আটকে পড়েছেন বলে খবর। গতকাল বৃহস্পতিবার বেলুচিস্তানের রাজধানী কোয়েটার কাছে এই দুর্ঘটনাটি ঘটে। পাকিস্তান সরকারের খনি পরিদর্শক ঘানি বালুচ বলেছেন, প্রাথমিক তদন্তে মনে করা হচ্ছে, খনির ভেতরে মিথেন গ্যাস জমে এই বিস্ফোরণ হয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/pakistan-coal-mine-blast-near-quetta-kills-32-as-rescuers-search-for-trapped-miners-build-up-of-methane-gas_664825.html ",
-    "time": "2026-07-31T10:21:54.000Z"
-  },
-  {
     "cat": "Business",
     "title": "হোয়াটসঅ্যাপের 'ইউজারনেম' ফিচার সুরক্ষা ও গোপনীয়তায় কত বড় চ্যালেঞ্জ?",
     "desc": "WhatsApp is rolling out a new username feature, allowing users to chat without sharing phone numbers. হোয়াটসঅ্যাপের এই নতুন ফিচারে নম্বর গোপন রেখে চ্যাট করার সুযোগ পাবেন ব্যবহারকারীরা, যা সাইবার নিরাপত্তা বাড়াবে এবং ব্যক্তিগত সুরক্ষা নিশ্চিত করবে।",
