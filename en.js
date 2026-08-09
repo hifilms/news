@@ -1,6 +1,78 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "7 of 25 high courts without CJs, collegium recommends names for just four",
+    "desc": "The Supreme Court collegium recommended four judges for High Court Chief Justice positions. These appointments aim to fill vacancies in key High Courts across India. The collegium also approved transfers of two judges from Orissa High Court. Orissa High Court faces a significant shortage of judges, impacting its functioning. No representation from Orissa High Court has been appointed to the Supreme Court in eight years.",
+    "img": "https://static.toiimg.com/photo/msid-133074947,imgsize-93278.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/7-of-25-high-courts-without-cjs-collegium-recommends-names-for-just-four/articleshow/133074945.cms",
+    "time": "2026-08-09T20:57:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Recent rain has little impact on national monsoon deficit",
+    "desc": "Recent rains have brought relief to Delhi, Haryana, and eastern Rajasthan, yet the national monsoon deficit persists. States like Bihar and Punjab continue to struggle with below-average rainfall. While the sowing of Kharif crops is nearly finalized across the nation, August's rainfall may enhance water reservoirs for hydropower and upcoming planting seasons, with a low-pressure area potentially raising precipitation levels in eastern India shortly.",
+    "img": "https://static.toiimg.com/photo/msid-133074941,imgsize-84590.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/recent-rain-has-little-impact-on-national-monsoon-deficit/articleshow/133074939.cms",
+    "time": "2026-08-09T20:49:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Madhavan compared beggar finding Rs 100, businessman making Rs 20K cr",
+    "desc": "A past clip of R Madhavan discussing money, wealth and happiness during his podcast appearance with Ranveer Allahbadia has resurfaced and is now gaining attention online. In the conversation, the actor questioned whether having more money necessarily makes a person happier, using an example of a beggar finding Rs 100 and a businessman making a profit of Rs 20,000 crore.",
+    "img": "https://static.toiimg.com/photo/msid-133074934,imgsize-44081.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-madhavan-compared-beggar-finding-rs-100-and-businessman-making-rs-20000-crore-asked-if-money-can-buy-happiness-who-sleeps-happier-that-night/articleshow/133074926.cms",
+    "time": "2026-08-09T20:42:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Official",
+    "desc": "The Indian Navy's search for three missing fishermen continues into its tenth day. Divers are utilizing portable SONAR to enhance underwater surveillance capabilities. INS Kalpeni joined the operation, sailing from Kochi to aid the search efforts. The search initially focused on Gautam Krishna, who went missing off the Neendakara coast. The operation is ongoing off the Kollam and Thiruvananthapuram coasts.",
+    "img": "https://static.toiimg.com/photo/msid-133074893,imgsize-56580.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/search-ops-involving-indian-navy-for-3-missing-fishermen-continue-in-kerala-official/articleshow/133074839.cms",
+    "time": "2026-08-09T20:05:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India coach Park reaping the rewards of hard work",
+    "desc": "For Park Tae-Sang, it is not just a fortnight of good results. It offers a glimpse of his work that he has been putting in Indian badminton, building players who, he hopes, can become the next generation of Indian stars",
+    "img": "https://th-i.thgim.com/public/incoming/ig4gli/article71325993.ece/alternates/LANDSCAPE_1200/2150_18_10_2025_17_48_17_1_BADMINTON_18102025_04.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/india-coach-park-reaping-the-rewards-of-hard-work/article71325968.ece",
+    "time": "2026-08-09T19:56:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former Brazil international arrested after wife makes serious domestic violence allegation",
+    "desc": "Former Brazil international Jadson has been arrested in Brazil following allegations of domestic violence involving his wife. She reportedly accused him of grabbing her neck during an argument, while Jadson denies any physical assault. He was later granted provisional release under court-imposed conditions as authorities continue investigating the allegations, with his legal team stressing his presumption of innocence.",
+    "img": "https://static.toiimg.com/photo/msid-133074038,imgsize-61006.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/former-brazil-international-arrested-after-wife-makes-serious-domestic-violence-allegation/articleshow/133073780.cms",
+    "time": "2026-08-09T18:42:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Harry Potter actress Jessie Cave made £15K in one day on OnlyFans",
+    "desc": "Jessie Cave, best known for playing Lavender Brown in the Harry Potter franchise, has revealed that her OnlyFans account has already earned her more money than she made during her nearly two decades as an actress. Cave said the platform brought in around £15,000, or approximately $20,000, in a single day after she launched her account in 2025.",
+    "img": "https://static.toiimg.com/photo/msid-133074006,imgsize-95118.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/harry-potter-actress-jessie-cave-reveals-she-made-15000-20000-in-one-day-on-onlyfans-more-than-my-entire-acting-career-in-one-year/articleshow/133073896.cms",
+    "time": "2026-08-09T18:42:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Police search 26 locations tied to banned Jamaat-e-Islami J&amp;K",
+    "desc": "Authorities conducted extensive searches at twenty-six locations in Sopore, north Kashmir, specifically targeting the premises of Jamaat-e-Islami J&K. Critical documents and electronic devices were seized amid an investigation into the organization’s potential ties to terrorism. This operation is part of an intensified effort in the area following the tragic shooting of a police officer, highlighting ongoing security threats posed by the banned group.",
+    "img": "https://static.toiimg.com/photo/msid-133073781,imgsize-101470.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/police-search-26-locations-tied-to-banned-jamaat-e-islami-jk/articleshow/133073766.cms",
+    "time": "2026-08-09T18:28:43.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Velumani, Viswanathan blame Palaniswami for the AIADMK’s weakening and electoral defeats since 2021",
     "desc": "In an undated letter, they allege that the AIADMK general secretary \"disregarded\" senior BJP leader Amit Shah's proposal of alliance for the 2021 Assembly election. They also accuse him of having missed an opportunity to have an alliance with TVK",
     "img": "https://th-i.thgim.com/public/incoming/41s90b/article71325698.ece/alternates/LANDSCAPE_1200/S.P.%20Velumani%204.jpg",
@@ -115,15 +187,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/clean-power-push-india-hits-300-gw-non-fossil-capacity-milestone-ahead-of-2030-target/articleshow/133070158.cms",
     "time": "2026-08-09T15:31:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "YSRCP leaders condemn arrest of Amadalavalasa in-charge in Ampolu case",
-    "desc": "Chintada Ravikumar and 25 others were arrested over alleged misbehaviour with a woman Sub-Inspector during the former Chief Minister’s July 30 visit to Ampolu; families of some of the accused claimed they were not in town that day",
-    "img": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-andhrapradesh/c2p1r5/article67287386.ece/alternates/LANDSCAPE_1200/Copy_of_BJP-LeG8KBNNMHH.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-leaders-condemn-arrest-of-amadalavalasa-in-charge-in-ampolu-case/article71323966.ece",
-    "time": "2026-08-09T15:17:34.000Z"
   },
   {
     "cat": "Business",
@@ -486,15 +549,6 @@ const newsData_en = [
     "time": "2026-08-09T09:38:54.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'You'll have to answer for this crime': Rahul slams PM Modi, HM Shah over police action on students",
-    "desc": "Rahul Gandhi criticized Prime Minister Modi and home minister Shah for their response to student protests. He stated that students are the nation's light and he stands with them. Gandhi highlighted student struggles with education and lack of employment opportunities. He warned youth against social media distractions as jobs are shrinking. The Congress leader alleged RSS ideology appointments affected institutional systems.",
-    "img": "https://static.toiimg.com/photo/msid-133065131,imgsize-726476.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/youll-have-to-answer-for-this-crime-rahul-slams-pm-modi-hm-shah-over-police-action-on-students/articleshow/133065103.cms",
-    "time": "2026-08-09T09:37:32.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Morrissey cancels his Las Vegas residency a week before his first show",
     "desc": "Singer Morrissey has cancelled his Las Vegas residency just days before its scheduled start. Fans who purchased tickets will receive full refunds within two to three weeks. This marks another instance of show cancellations for the artist this year. Morrissey's upcoming tour dates across America and Europe remain scheduled. The exact reasons for the sudden Las Vegas cancellation are not yet clear.",
@@ -558,24 +612,6 @@ const newsData_en = [
     "time": "2026-08-09T08:30:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Priyanka Chopra shares 'Varanasi' BTS picture on Mahesh Babu's birthday",
-    "desc": "Priyanka Chopra marks her return to Indian cinema with SS Rajamouli's upcoming film 'Varanasi'. She recently shared a birthday wish for her co-star Mahesh Babu on Instagram. The film is an epic adventure set around the world and through time. Mahesh Babu's first look as Rudhra was also unveiled by the makers. 'Varanasi' is currently in production and scheduled for release in April 2027.",
-    "img": "https://static.toiimg.com/photo/msid-133064284,imgsize-662203.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/happy-birthday-bob-priyanka-chopra-shares-bts-photo-with-mahesh-babu-from-varanasi-africa-schedule-calls-it-the-ultimate-adventure/articleshow/133064267.cms",
-    "time": "2026-08-09T08:13:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sadie Sink on playing Jean Grey in ‘Spider-Man: Brand New Day’",
-    "desc": "In an exciting development, Sadie Sink is poised to take on the role of Jean Grey in the next chapter of the X-Men saga. She revealed that before being cast, she had not delved deeply into the character's world. The opportunity came when Kevin Feige reached out to her directly, a prospect she found captivating. Sink is eager to showcase her unique vision of Jean Grey for all to see.",
-    "img": "https://static.toiimg.com/photo/msid-133064221,imgsize-279733.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sadie-sink-was-not-aware-of-who-jean-grey-was-before-spider-man-im-very-excited-to-bring-my-iteration-of-her-to-life/articleshow/133064204.cms",
-    "time": "2026-08-09T08:04:18.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "West Indies suffer major blow, miss direct qualification for 2027 World Cup",
     "desc": "West Indies and Ireland are set to clash in the qualifiers for the 2027 Cricket World Cup after Afghanistan's recent victory guaranteed their place in the tournament. This will be the third straight World Cup for West Indies where they need to qualify, while Ireland also missed direct entry following their lost against Afghanistan. The tournament is scheduled to take place in South Africa, Zimbabwe, and Namibia.",
@@ -619,15 +655,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/marathon-hit-shubman-gill-bats-for-over-an-hour-in-ncc-nets/articleshow/133063248.cms",
     "time": "2026-08-09T06:24:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘I don’t care how old he is’: Brett Lee’s big warning for Vaibhav Sooryavanshi",
-    "desc": "According to Brett Lee, 15-year-old Vaibhav Sooryavanshi showcases outstanding cricket skills. Following a stellar IPL season, he was quickly called to join India's T20I team, where he shone in the Zimbabwe tour, being honored as Player of the Series. Lee underscores the need to safeguard the young prodigy from extreme pressure, stressing that his biggest hurdle will be maintaining mental fortitude as he progresses in his career.",
-    "img": "https://static.toiimg.com/photo/msid-133062769,imgsize-103736.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-dont-care-how-old-he-is-brett-lees-big-warning-for-vaibhav-sooryavanshi/articleshow/133062739.cms",
-    "time": "2026-08-09T05:40:50.000Z"
   },
   {
     "cat": "Sports",
@@ -756,24 +783,6 @@ const newsData_en = [
     "time": "2026-08-08T20:44:45.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "AITA caps upper age limit for EC members at 70",
-    "desc": "A prospective EC member now has to be less than 70 years on the date of filing the nomination but can complete a full term of four years even if he or she turns 70 any time after",
-    "img": "https://th-i.thgim.com/public/incoming/rctpmz/article71318521.ece/alternates/LANDSCAPE_1200/IMG_TH_-_DRAW_OF_TIE_FOR_2_1_GFA5BCIM.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/tennis/aita-caps-upper-age-limit-for-ec-members-at-70/article71318529.ece",
-    "time": "2026-08-08T20:30:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "We don’t have the one thing that we so desperately want: India’s Mandeep Singh on the Hockey World Cup",
-    "desc": "For someone who has a medal from every other major competition in the sport, at every level – junior and senior Asia Cups, Asian Games, Commonwealth Games, Asian Champions Trophy and the Olympics – that empty space on his medal cabinet is a constant reminder of an unfinished job",
-    "img": "https://th-i.thgim.com/public/incoming/dn0qag/article71317838.ece/alternates/LANDSCAPE_1200/005_RVM_8439.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/hockey/we-dont-have-the-one-thing-that-we-so-desperately-want-indias-mandeep-singh-on-the-hockey-world-cup/article71317588.ece",
-    "time": "2026-08-08T20:19:13.000Z"
-  },
-  {
     "cat": "World",
     "title": "Journalists, rights bodies condemn curbs on media freedom in Pakistan",
     "desc": "Under the new SoPs — Foreign Media Facilitation Guidelines 2026 — the journalists associated with foreign media will have to seek permission from the federal government for travelling to any city outside Islamabad, Lahore and Karachi for news coverage",
@@ -790,15 +799,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-trump-govt-clamps-down-on-birth-tourism/article71317055.ece",
     "time": "2026-08-08T20:05:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "From World champions to a side in panic mode",
-    "desc": "Post the IPL, Indian cricket has been grabbed by a sense of despair and dismay. The bubble emphatically burst in Ireland when, against all odds and in an upset of gargantuan proportions, the home side stunned the Men in Blue 2-0 in a T20I series; the Sri Lanka tour will be a big test of Gill’s batsmanship and his man-management skills",
-    "img": "https://th-i.thgim.com/public/sport/wrubft/article71315077.ece/alternates/LANDSCAPE_1200/TH07-GILL.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/from-world-champions-to-a-side-in-panic-mode/article71315072.ece",
-    "time": "2026-08-08T19:56:20.000Z"
   },
   {
     "cat": "Entertainment",
@@ -826,15 +826,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/bangladesh-to-hold-presidential-election-on-august-20-ec/article71315019.ece",
     "time": "2026-08-08T19:47:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jos Buttler backs Vaibhav Sooryavanshi to break his all-time T20 runs record",
-    "desc": "It's really cool, actually, to think you've got the most T20 runs out of anyone. Someone will surpass it one day - and his name's probably [Vaibhav] Sooryavanshi - but it's a proud moment, Buttler said",
-    "img": "https://th-i.thgim.com/public/incoming/rd2tjt/article71315125.ece/alternates/LANDSCAPE_1200/20260719378L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/jos-buttler-backs-vaibhav-sooryavanshi-to-break-his-all-time-t20-runs-record/article71315118.ece",
-    "time": "2026-08-08T19:47:40.000Z"
   },
   {
     "cat": "World",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/hiroshima-marks-81st-atomic-bomb-anniversary-as-mayor-deplores-pursuit-of-nuclear-weapons/article71312178.ece",
     "time": "2026-08-08T18:50:23.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Auto retail sales in July 2026 surge 26% YoY to 25.91 lakh units",
+    "desc": "Total EV retails touched 3,27,901 units — the highest for any month in history — with 2W and CV EV volumes at all-time records, taking overall EV penetration to about 12.7% from 9.6% a year ago says FADA.",
+    "img": "https://th-i.thgim.com/public/incoming/tk0kjx/article71312864.ece/alternates/LANDSCAPE_1200/2023-11-06T073929Z_1139731681_RC27G3A35FJ1_RTRMADP_3_INDIA-AUTOS-SALES.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/auto-retail-sales-in-july-2026-surge-26-yoy-to-2591-lakh-units/article71312828.ece",
+    "time": "2026-08-08T18:49:28.000Z"
   }
 ];
