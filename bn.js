@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "প্লিজ তুমি আমাদের মেরো না মা: দুই বাচ্চাকে বিষ মেশানো লেমোনেড খাইয়ে লাইভ ভিডিয়োয় ঝাঁপ দিল পুনম, গায়ে কাঁটা দেওয়া ভিডিয়ো",
+    "desc": "ঘটনাটি ঘটেছে হরিয়ানার ফাতেহাবাদ জেলার ভূনা (Bhuna) এলাকার একটি গ্রামে। মৃত ওই মহিলার নাম পুনম এবং তাঁর বয়স ত্রিশ। তাঁর স্বামী রামমেহের পেশায় রাজমিস্ত্রি। স্থানীয় ও পুলিস সূত্রে জানা গিয়েছে, বেশ কিছুদিন ধরেই তাঁদের পরিবারে তুমুল অশান্তি চলছিল।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/domestic-discord-leads-to-double-infanticide-and-suicide-horrific-incident-shocks-haryana-fatehabad_666384.html ",
+    "time": "2026-08-10T14:24:21.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "বলিউডের স্টার বানাব! সিনেমার টোপ দিয়ে লাগাতার ধর্ষণ-ব্ল্যাকমেইল, গ্রেফতার জনপ্রিয় পরিচালক",
     "desc": "৭৩ বছর বয়সী প্রবীণ পরিচালক শাকিল নূরানীকে ধর্ষণের অভিযোগে গ্রেফতার করেছে মুম্বই পুলিস। অভিযোগ, ছবির স্ক্রিপ্ট আলোচনার কথা বলে ডেকে এনে অচেতন করে ধর্ষণ করে সে। তারপর আপত্তিকর ভিডিয়ো বানিয়ে চার বছর ধরে অত্যাচার চালায় সে।",
@@ -106,24 +115,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/india-stares-at-100-percent-tariff-threat-after-us-senate-clears-russia-sanctions-bill_665980.html ",
     "time": "2026-08-08T06:46:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "পোড়ার মুখীর জন্য সমাজে থাকতেও পারব না: আঠারোর মেয়ের গর্ভে প্রেমিকের সন্তান, নদীতে ডুবিয়ে মেরে দিল বাবা",
-    "desc": "গত ২৮ জুলাই শারীরিক চিকিৎসার অজুহাত দেখিয়ে মেয়েকে ভুল বুঝিয়ে আগ্রায় নিয়ে যান লখপত সিং ও তাঁর জামাই। সেখানে এক আত্মীয়ের বাড়িতে এক রাত কাটানোর পরদিন, অর্থাৎ ২৯ জুলাই সকালে তরুণীকে নিয়ে যাওয়া হয় আগ্রার বাসোনির কাছে চম্বল নদীর তীরে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/shocking-honor-killing-delhi-man-drowns-3-month-pregnant-daughter-in-chambal-river-fearing-social-stigma_665973.html ",
-    "time": "2026-08-08T05:47:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "নামেই কেবল ফাইভ স্টার! শহরের নামীদামী হোটেলে মিলল বিপুল পচা মাংস ও দুধ, বড়সড় পদক্ষেপের পথে প্রশাসন",
-    "desc": "একাধিক হোটেলে নানা ধরনের অনিয়ম ধরা পড়েছে। আধিকারিকেরা জানিয়েছেন, রান্নাঘর ও গুদামঘর নোংরা ছিল। মেয়াদউত্তীর্ণ খাবার ও ছত্রাক ধরা সবজি রাখা ছিল। নকল ব্র্যান্ডের খাবার এবং এফএসএসএআই (FSSAI)-এর লেবেল ছাড়া খাবার পাওয়া গেছে। এছাড়া নিরামিষ ও আমিষ খাবার আলাদা রাখার নিয়মও মানা হয়নি।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/bengaluru-food-safety-raid-expired-food-seized-at-top-5-star-hotels_665950.html ",
-    "time": "2026-08-08T03:00:38.000Z"
   },
   {
     "cat": "Entertainment",
@@ -241,15 +232,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/randeep-hooda-joins-flood-relief-efforts-in-assam-distributes-aid-to-affected-families_665336.html ",
     "time": "2026-08-04T05:42:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "অসমের বন্যায় বন্দি মা, ভেসে গেছে ঘরবাড়ি: কান্নায় ভেঙে পড়লেন ছোটপর্দার জনপ্রিয় অভিনেত্রী দেবলীনা",
-    "desc": "সব শেষ হয়ে গেল... কিছুই আর অবশিষ্ট নেই! আসামের ভয়াবহ বন্যায় আটকে দেবলীনা ভট্টাচার্যের মা। ভেসে গেছে দিদিমা ও মাসির ঘরবাড়ি। এতদিন মনের কষ্ট চেপে রাখার পর এবার সোশ্যাল মিডিয়ায় অঝোরে কাঁদলেন টেলিভিশনের 'গোপী বহু'। কী জানালেন অভিনেত্রী?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/devoleena-bhattacharjee-cries-assam-floods-family-trapped_665281.html ",
-    "time": "2026-08-03T15:35:32.000Z"
   },
   {
     "cat": "Business",

@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Scotland, Netherlands hit out at ICC over World Cup 2027 format changes, say they are 'deeply disappointed'",
+    "desc": "Cricket Scotland and Royal Dutch Cricket Association (KNCB) on Monday hit out at the International Cricket Council over the changes to the format of the upcoming ODI World Cup 2027, set to be played in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/scotland-netherlands-hit-out-at-icc-over-world-cup-2027-format-changes-say-they-are-deeply-disappointed-2026-08-10-1050959",
+    "time": "2026-08-10T15:21:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How Jay Shah played crucial role in developing BCCI's CoE from 40 acres barren land in two years",
+    "desc": "Former BCCI secretary Jay Shah played a pivotal role in developing the BCCI Centre of Excellence from a barren land of 40 acres in just two years, current secretary Devajit Saikia and head of CoE...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/how-jay-shah-played-crucial-role-in-developing-bccis-coe-from-40-acres-barren-land-in-two-years-2026-08-10-1050953",
+    "time": "2026-08-10T14:05:01.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Jemimah Rodrigues puts inaugural Champions Trophy in her sight, eyes more success after World Cup win",
     "desc": "India star batter Jemimah Rodrigues is excited for the upcoming Champions Trophy, as women's cricket is set to get another ICC event in addition to the ODI and the T20 World Cups. India, the winners...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/absolutely-ready-veteran-india-pacer-gives-his-take-on-potential-india-return-ahead-of-odi-world-cup-2027-2026-08-10-1050889",
     "time": "2026-08-10T05:11:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India's spin bowling coach weighs in on Devdutt Padikkal's chance ahead first Sri Lanka Test",
-    "desc": "The Indian team put in a good showing as they took on Sri Lanka in a three-day tour game ahead of their two-game series. Led by KL Rahul in the clash, India put forth a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-s-spin-bowling-coach-weighs-in-on-devdutt-padikkal-s-chance-ahead-first-sri-lanka-test-2026-08-10-1050883",
-    "time": "2026-08-10T04:16:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Team India clear the air over Shubman Gill amid injury concerns ahead of first Sri Lanka Test",
-    "desc": "India and Sri Lanka are all set to take on each other in the first Test of the upcoming two-game Test series. The two sides are slated to meet at the Galle International Stadium on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/team-india-clear-the-air-over-shubman-gill-amid-injury-concerns-ahead-of-first-sri-lanka-test-2026-08-10-1050878",
-    "time": "2026-08-10T03:18:35.000Z"
   }
 ];
