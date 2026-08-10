@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Narendra naam se nafrat hai': Boxer Berwal shares Pakistani rival's hilarious 2015 remark with PM Modi",
+    "desc": "Prime Minister Narendra Modi has caught all the headlines of late as he hosted the various Commonwealth Games medal winners at his residence on August 9th. The Prime Minister interacted with the various winners, including...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/narendra-naam-se-nafrat-hai-boxer-berwal-shares-pakistani-rival-s-hilarious-2015-remark-with-pm-modi-2026-08-10-1050901",
+    "time": "2026-08-10T07:09:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Every tear felt like a gold medal': PM Modi interacts with Commonwealth Games champion Mirabai Chanu",
+    "desc": "Prime Minister Narendra Modi hosted the various Commonwealth Games 2026 medal winners at his residence on Sunday, August 9th. At his residence, PM Modi interacted with the medal winners and congratulated them on their stellar...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/every-tear-felt-like-a-gold-medal-pm-modi-interacts-with-commonwealth-games-champion-mirabai-chanu-watch-2026-08-10-1050894",
+    "time": "2026-08-10T05:58:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Absolutely ready': Veteran India pacer gives his take on potential India return ahead of ODI World Cup 2027",
+    "desc": "The ODI World Cup 2027 has quickly become one of the most discussed topics in world cricket ahead of the start of the competition. Slated to be held next year, there is no doubt that...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/absolutely-ready-veteran-india-pacer-gives-his-take-on-potential-india-return-ahead-of-odi-world-cup-2027-2026-08-10-1050889",
+    "time": "2026-08-10T05:11:40.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India's spin bowling coach weighs in on Devdutt Padikkal's chance ahead first Sri Lanka Test",
     "desc": "The Indian team put in a good showing as they took on Sri Lanka in a three-day tour game ahead of their two-game series. Led by KL Rahul in the clash, India put forth a...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-defeat-sri-lanka-in-practice-game-ahead-of-test-series-register-dominant-six-wicket-win-in-colombo-2026-08-09-1050858",
     "time": "2026-08-09T12:58:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Let them play freely': Former India cricketer backs Rohit-Virat to be India's ranks ahead of ODI WC 2027",
-    "desc": "The Indian team is hard at work preparing for the upcoming ODI World Cup 2027. There has been major discussion over what the Indian squad could look like for the upcoming World Cup. Ahead of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/let-them-play-freely-former-india-cricketer-backs-rohit-virat-to-be-india-s-ranks-ahead-of-odi-wc-2027-2026-08-09-1050854",
-    "time": "2026-08-09T11:58:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Basant Kumar Meghwal scripts history, clinches silver medal at the World Athletics U20 Championships",
-    "desc": "In a major development, Basant Kumar Meghwal has added to India’s tally after he clinched the silver medal at the ongoing World Athletics U20 Championships in the men’s high jump event. Hailing from Anupgarh in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/basant-kumar-meghwal-scripts-history-clinches-silver-medal-at-the-world-athletics-u20-championships-2026-08-09-1050848",
-    "time": "2026-08-09T10:55:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill captured practicing warm-up drills ahead of Sri Lanka Test amid injury concerns",
-    "desc": "The stage is set for the upcoming two-game Test series between India and Sri Lanka. Both sides will lock horns for the first Test of the series at the Galle International Stadium from August 15th....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-captured-practicing-warm-up-drills-ahead-of-sri-lanka-test-amid-injury-concerns-2026-08-09-1050842",
-    "time": "2026-08-09T09:12:37.000Z"
   }
 ];
