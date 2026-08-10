@@ -1,6 +1,33 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Protesters march to Jharkhand Assembly; 5 injured in clashes",
+    "desc": "Students, aspirants continue sit-in in Ranchi seeking cancellation of JSSC-CGL exam and CBI probe into irregularities; police deny use of force; former JPSC Chairman arrested; march comes day after State government agreed to cancel three exams",
+    "img": "https://th-i.thgim.com/public/incoming/976iwa/article71329928.ece/alternates/LANDSCAPE_1200/PTI08_10_2026_000504B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-assembly-march-student-protest-jpsc-examination-jssc-cgl-exam-updates-on-august-10/article71327529.ece",
+    "time": "2026-08-10T20:01:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "how son preference fuels female foeticide rackets in Maharashtra",
+    "desc": "The arrest of a retired government doctor by the Kolhapur police on July 31 for allegedly orchestrating a sophisticated female foeticide ring shows that illegal abortion networks continue to operate in secret across the State",
+    "img": "https://th-i.thgim.com/public/news/cities/Delhi/5a7u2j/article71329925.ece/alternates/LANDSCAPE_1200/10_BM_Chandrakant%20Gaikwad.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/protectors-turn-predators-how-son-preference-fuels-female-foeticide-rackets-in-maharashtra/article71329924.ece",
+    "time": "2026-08-10T19:59:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England, Bayern Munich star Harry Kane set to receive 'Golden Shoe' award",
+    "desc": "As per the official website of his club Bayern Munich, this is the second time Harry is going to receive the prestigious honour, joining the elite list of players having won it twice, with only legends Lionel Messi and Cristiano Ronaldo having won it more",
+    "img": "https://th-i.thgim.com/public/incoming/btpki8/article71329911.ece/alternates/LANDSCAPE_1200/England_France_WCup_Soccer__912.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/england-bayern-munich-star-harry-kane-set-to-receive-golden-shoe-award/article71329894.ece",
+    "time": "2026-08-10T19:23:02.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Tamil Nadu Assured Pension Scheme will be implemented as soon as Centre sanctions borrowing of ₹11,000 crore, says Marie Wilson",
     "desc": "Until then, we have decided to give an interim payout to those who retired or are retiring on or after January 1, 2026. We will implement the scheme as soon as the Union government accords sanction, says the Finance Minister",
     "img": "https://th-i.thgim.com/public/incoming/f64pnq/article71328827.ece/alternates/LANDSCAPE_1200/Magistrate-direG12G6TRLE.3.jpg.jpg",
@@ -55,15 +82,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Protesters march to Jharkhand Assembly; 5 injured in lathi charge",
-    "desc": "Students, job aspirants continue sit-in at Jaipal Singh Munda Stadium in Ranchi seeking cancellation of JSSC-CGL exam and a CBI probe into recruitment irregularities; police deny use of force; former JPSC chairman Khiangte arrested; march comes a day after State govt. agreed to cancel three exams",
-    "img": "https://th-i.thgim.com/public/incoming/px8qua/article71327536.ece/alternates/LANDSCAPE_1200/PTI08_10_2026_000112A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-assembly-march-student-protest-jpsc-examination-jssc-cgl-exam-updates-on-august-10/article71327529.ece",
-    "time": "2026-08-10T17:45:29.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Gandhi temple getting ready for I-day celebrations",
     "desc": "The Gandhi Mandiram-Freedom Fighters Smruthi Vanam came up on 50 cents of an old park allotted by the Municipal Corporation on January 30, 2022; hundreds of students will take part in the Independence Day programme",
     "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/ksuhq7/article71327686.ece/alternates/LANDSCAPE_1200/Gandhi%20temple.jpeg",
@@ -115,15 +133,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ar-rahmans-son-ar-ameen-is-safe-and-doing-fine-after-chennai-car-accident-assures-sister-khatija-as-she-clarifies-what-happened/articleshow/133118455.cms",
     "time": "2026-08-10T16:28:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "At least 10 people injured by pellets on July 20, shows RTI response",
-    "desc": "According to RTI responses by two hospitals to Trinamool Congress spokesperson Saket Gokhale, 10 people were brought in to hospital with pellet injuries during Jantar Mantar stir; hospital sources confirmed the authenticity of the response",
-    "img": "https://th-i.thgim.com/public/incoming/g2z1x4/article71329571.ece/alternates/LANDSCAPE_1200/TH22-Ashna-AnotGHVG9OQKL.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/at-least-10-people-injured-by-pellets-on-july-20-shows-rti-response/article71329189.ece",
-    "time": "2026-08-10T16:22:31.000Z"
   },
   {
     "cat": "Business",
@@ -261,33 +270,6 @@ const newsData_en = [
     "time": "2026-08-10T13:12:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Congress sets 3 non-negotiables for Parliament; Vande Mataram to be sung from  Red Fort ramparts &amp; more",
-    "desc": "Rahul Gandhi has called upon Amit Shah to respond to the police's crackdown on student demonstrators, emphasizing the need for accountability. In a historic moment, Vande Mataram will echo from the ramparts of the Red Fort for the very first time. Meanwhile, a government office in Thailand experienced a shooting incident involving a local government representative. Bangladesh's Prime Minister has advocated for strengthened relationships with India.",
-    "img": "https://static.toiimg.com/photo/msid-133108383,imgsize-849037.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-congress-sets-3-non-negotiables-for-parliament-vande-mataram-to-be-sung-from-red-fort-ramparts-more/articleshow/133104932.cms",
-    "time": "2026-08-10T13:05:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Use of force against peaceful protesters wrong': Rahul Gandhi condemns police action on Jharkhand students",
-    "desc": "Rahul Gandhi condemned police action against protesting students in Jharkhand. Students marched towards the Assembly seeking recruitment process fairness and accountability. Police used force, including tear gas and water cannons, after barricades were breached. The Jharkhand government faces calls to address student demands and resolve issues. CID arrested the former JPSC Chairman in connection with the investigation.",
-    "img": "https://static.toiimg.com/photo/msid-133108009,imgsize-95774.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/use-of-force-against-peaceful-protesters-wrong-rahul-gandhi-condemns-police-action-on-jharkhand-students/articleshow/133107795.cms",
-    "time": "2026-08-10T12:58:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Crackdown on students, PM Modi's apology, Ram temple theft: Congress sets 3 non-negotiables for Parliament",
-    "desc": "Lok Sabha leader of opposition Rahul Gandhi reiterated that the Union home minister Amit Shah must make a statement on police action against students protesting against NEET paper leak. The Congress leader said apart from Amit Shah's statement PM Modi should apologise for what happened and he called for an accountablity over the donation theft in Ayodhya Ram Mandir. Rahul said opposition was not \"interested in Amit Shah's fantasy conversations\".",
-    "img": "https://static.toiimg.com/photo/msid-133108485,imgsize-63524.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/crackdown-on-students-pm-modis-apology-ram-temple-theft-congress-sets-3-non-negotiables-for-parliament/articleshow/133106400.cms",
-    "time": "2026-08-10T12:50:35.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Actor pauses shoots after workout injury",
     "desc": "Actress Elli AvrRam is recovering from a foot fracture after a workout accident. A 10-kg dumbbell fell directly on her foot, causing the injury. She has been on bed rest and avoided putting weight on her injured foot. AvrRam shared her recovery journey on Instagram, documenting her progress. She looks forward to returning to work after receiving medical clearance.",
@@ -331,15 +313,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/keep-building-on-this-momentum-neeraj-chopra-celebrates-indias-world-athletics-u20-cships-display/articleshow/133104915.cms",
     "time": "2026-08-10T12:29:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Right wing commentator TG Mohandas gets bail over controversial remarks on NEET student protest",
-    "desc": "Mohandas was produced before the Thiruvananthapuram Additional Chief Judicial First Class Magistrate Court for remand proceedings. Judge Mithun Gopi G S granted him bail after hearing arguments from both sides. Police had taken Mohandas into custody from his residence in Mattancherry, Kochi, on Sunday evening. His arrest was formally recorded on Monday. The prosecution asked the court to allow Mohandas to remain in custody for further investigation.",
-    "img": "https://static.toiimg.com/photo/msid-133105534,imgsize-111150.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/right-wing-commentator-tg-mohandas-gets-bail-over-controversial-remarks-on-neet-student-protest/articleshow/133103131.cms",
-    "time": "2026-08-10T12:29:12.000Z"
   },
   {
     "cat": "Entertainment",
@@ -792,24 +765,6 @@ const newsData_en = [
     "time": "2026-08-09T04:01:29.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "FIFA warns of effort to undermine Infantino as leadership crisis deepens",
-    "desc": "FIFA’s came amid an increasingly bitter ‌standoff over Mr. Infantino’s leadership following the collapse of his proposal ​to raise about $4.2 billion by selling a stake in the commercial ⁠rights of the World Cup and other tournaments",
-    "img": "https://th-i.thgim.com/public/incoming/lzyqhq/article71323034.ece/alternates/LANDSCAPE_1200/Colombia_Inauguration_97759.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/fifa-warns-of-effort-to-undermine-infantino-as-leadership-crisis-deepens/article71323029.ece",
-    "time": "2026-08-09T02:04:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Premier League champions Arsenal land Newcastle's Guimaraes",
-    "desc": "The North London club have agreed a deal reported by British media to be worth ‌around 75 million pounds ($101.16 million) for the Brazil international, adding one of ​the Premier League's most influential midfielders to Mikel Arteta's squad",
-    "img": "https://th-i.thgim.com/public/incoming/7ra4t9/article71321522.ece/alternates/LANDSCAPE_1200/Arsenal_Guimaraes_Soccer_41666.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/premier-league-champions-arsenal-land-newcastles-guimaraes/article71321517.ece",
-    "time": "2026-08-09T01:28:22.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Maadhu’ Balaji on keeping Crazy Mohan’s legacy alive with ‘Chamber of Humour’",
     "desc": "to take his plays and Tamil theatre to more audiences. And for that, he has kickstarted a new concept called “Chamber of Humour”. Instead of large halls, Balaji and his troupe perform evergreen Tamil comedies to a group of audiences in an intimate setting. The group, Crazy Creations, recently performed superhit Tamil comedy play, ‘Marriage Made in Saloon’.",
@@ -898,5 +853,50 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/dance/girija-chandran-sangeeth-natak-akademi-award-mohiniyattam/article71289184.ece",
     "time": "2026-08-08T17:31:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Siddharth interview",
+    "desc": "In this conversation with Shreyas Pande, actors Siddharth and Jimmy Shergil, creator and showrunner Kushal Srivastava and producer Sanjay Routray discuss their upcoming Netflix series Operation Safed Sagar, the connection between ‘Rang De Basanti’ and the show, the actors’ experience of donning the uniform and more.",
+    "img": "https://th-i.thgim.com/public/incoming/4d41l8/article71302600.ece/alternates/LANDSCAPE_1200/EDITORIAL.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/siddharth-interview-jimmy-shergill-operation-safed-sagar/article71302605.ece",
+    "time": "2026-08-08T15:25:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Pluto’ movie review: A sci-fi comedy that sticks to usual alien narratives",
+    "desc": "Sci-fi films are not something that happens often in the Malayalam film industry, which has relatively smaller budgets, with the subgenre of sci-fi comedies appearing even less frequently. Even the rarity of the genre does not really work to the advantage of Pluto.",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/22i6ud/article71286462.ece/alternates/LANDSCAPE_1200/pluto.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/pluto-movie-review-a-sci-fi-comedy-that-sticks-to-usual-alien-narratives/article71286486.ece",
+    "time": "2026-08-08T11:10:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Diesel’s desire: an engine for everyone",
+    "desc": "For someone who wished to build an engine for everyone, August turned out to be an auspicious month. On August 10, 1893, Rudolf Diesel’s prime model was powered on its own for the first time. Five years later, on August 9, 1898, Diesel obtained a U.S. patent titled “Internal-combustion engine”. Join A.S.Ganesh as he tries to explain what fuelled Diesel’s desire…",
+    "img": "https://th-i.thgim.com/public/incoming/o3bduy/article71285498.ece/alternates/LANDSCAPE_1200/09istb%20Historical_Diesel_engine_in_Deutsches_Museum.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/diesels-desire-an-engine-for-everyone/article71285487.ece",
+    "time": "2026-08-08T06:54:25.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "What is the EU AI transparency code?",
+    "desc": "Starting from August 2, the EU mandates labels for AI-generated content to boost transparency online. From deepfakes to manipulated text, find out how this new code seeks to protect users and maintain the integrity of information",
+    "img": "https://th-i.thgim.com/public/news/national/b0sala/article71279838.ece/alternates/LANDSCAPE_1200/iStock-1976099664%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/what-is-the-eu-ai-transparency-code-explained/article71279676.ece",
+    "time": "2026-08-08T01:41:37.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Australia defends teen social media ban after study shows most still online",
+    "desc": "The eSafety study painted a sobering picture. It found that children aged 10 ‌to 15 were using social media just as frequently in March ​as they had before the ban came into force on December 10",
+    "img": "https://th-i.thgim.com/public/incoming/y2ucmv/article71293590.ece/alternates/LANDSCAPE_1200/2026-02-27T225210Z_924785762_RC2DEJA0G75K_RTRMADP_3_VIRGINIA-PRIVACY-CHILDREN-DECISION.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/australia-defends-teen-social-media-ban-after-study-shows-most-still-online/article71293555.ece",
+    "time": "2026-08-01T05:56:03.000Z"
   }
 ];
