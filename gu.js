@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "ઘણા દિવસોથી તળાવમાં રહે છે 16 વર્ષનો યુવક, કહ્યું: શરીરને બાળી રહ્યો છે જીન, VIDEO વાયરલ",
+    "desc": "પશ્ચિમ બંગાળના મુર્શિદાબાદમાં એક 16 વર્ષનો યુવક ઘણા દિવસોથી તળાવમાં રહે છે. તેનો દાવો છે કે પાણીમાંથી બહાર નીકળતાની સાથે જ તેને આખા શરીરમાં તીવ્ર બળતરાનો અનુભવ થાય છે, પરંતુ પાણીની અંદર રહેવાથી રાહત મળે છે. તે આ માટે કોઈ અદ્રશ્ય શક્તિ અથવા જીન ને જવાબદાર માને છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/16-year-old-boy-lives-in-lake-for-many-days-says-jinn-is-burning-his-body-video-goes-viral-487307 ",
+    "time": "2026-08-10T10:01:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "&amp;#039;મને નરેન્દ્ર નામથી જ નફરત થઈ ગઈ&amp;#039; કોમનવેલ્થ ગેમ્સના સિલ્વર મેડલિસ્ટે PM મોદીને કેમ કહ્યું આવું ?",
+    "desc": "વડાપ્રધાન નરેન્દ્ર મોદી રવિવારે કોમનવેલ્થ ગેમ્સમાં મેડલ જીતનાર ખેલાડીઓને મળ્યા હતા. આ દરમિયાન ખેલાડીઓએ તેમના અનુભવ શેર કર્યા હતા. રમતગમત મંત્રી મનસુખ માંડવિયા, રમતગમત રાજ્ય મંત્રી રક્ષા ખડસે અને ભારતીય ઓલિમ્પિક એસોસિએશન (IOA)ના પ્રમુખ પી.ટી. ઉષા પણ આ દરમિયાન હાજર રહ્યા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/i-hate-the-name-narendra-why-commonwealth-games-silver-medalist-say-this-to-pm-modi-487302 ",
+    "time": "2026-08-10T09:07:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "અંદર ચાલી રહ્યું હતું વિધાનસભા સત્ર, બહાર પહોંચી ગયા વિદ્યાર્થીઓ, ઝારખંડમાં સ્ટૂડન્ટનું રિવોલ્યૂશન, જાણો",
+    "desc": "ઝારખંડ વિધાનસભા સત્ર દરમિયાન, રાંચીમાં JPSC વિરુદ્ધ વિરોધ કરી રહેલા વિદ્યાર્થીઓ બેરિકેડ્સ ઓળંગીને વિધાનસભા પરિસરમાં પહોંચ્યા. કેટલાક અંદર ઘૂસી ગયા અને જમીન પર બેસીને વિરોધ કરી રહ્યા હતા. ડુમરીના ધારાસભ્ય જયરામ મહતો બહાર આવ્યા અને તેમની સાથે જોડાયા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/the-assembly-session-was-going-on-inside-students-reached-outside-student-revolution-in-jharkhand-know-487300 ",
+    "time": "2026-08-10T08:37:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "15 એપિસોડની ભારતીય ટ્રેનની યાત્રા પર આધારિત જોવા જેવી સીરીઝ, યુટ્યુબ પર જોઈ શકો છો ફ્રીમાં",
+    "desc": "દુરદર્શન પર એક એવી સીરીઝ રિલીઝ કરવામાં આવી હતી જે દેશભરમાં લોકપ્રિય થઈ હતી. શ્યામ બેનેગલની આ સીરીઝને ભારતીય રેલ્વેએ સ્પોન્સર કરી હતી. આ સીરીઝના દરેક એપિસોડ મજેદાર છે જેને તમે યુટ્યુબ પર ફ્રીમાં જોઈ શકો છો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/shyam-benegal-yatra-series-on-youtube-15-episode-sponsored-by-indian-railways-487293 ",
+    "time": "2026-08-10T07:50:03.000Z"
+  },
+  {
     "cat": "World",
     "title": "ચા ઠંડી પડે તે પહેલાં જ યુદ્ધ પૂરું થઈ ગયું! આ દેશે 45 મિનિટથી ઓછા સમયમાં સ્વીકારી શરણાગતિ, જાણો વિશ્વના સૌથી ટૂંકા યુદ્ધની વાર્તા",
     "desc": "શું તમે વિશ્વાસ કરશો કે ઇતિહાસમાં એક એવું યુદ્ધ થયું હતું જે ચાનો કપ ઠંડો થાય તે પહેલાં જ સમાપ્ત થઈ ગયું? અમે 1896ના એંગ્લો-ઝાંઝીબાર યુદ્ધ વિશે વાત કરી રહ્યા છીએ, જે ખૂબ જ જોરશોરથી શરૂ થયું હતું, પરંતુ 38થી 40 મિનિટમાં એકતરફી યુદ્ધ સમાપ્ત થઈ ગયું હતું.",
@@ -450,15 +486,6 @@ const newsData_gu = [
     "time": "2026-08-07T10:19:29.000Z"
   },
   {
-    "cat": "Business",
-    "title": "1 શેર પર 1 ફ્રી Bonus Share! આ સ્મોલકેપ કંપનીએ રોકાણકારોને આપી ખુશખબર, 1 મહિનામાં સ્ટોક 50% ઊછળ્યો",
-    "desc": "ચાવડા ઇન્ફ્રાએ પોતાના રોકાણકારો માટે બોનસ શેરની જાહેરાત કરી છે. રેકોર્ડ ડેટ પર એક શેર રાખનાર રોકાણકારોને એક વધારાનો શેર ફ્રી મળશે. આ સિવાય કંપનીએ ઓથોરાઇઝ્ડ શેર કેપિટલ દબલ કરવાને પણ મંજૂરી આપી છે. એક મહિનામાં કંપનીના શેરની કિંમતમાં 50 ટકાથી વધુની તેજી આવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/chavda-infra-shares-jump-50-in-1-month-as-company-approves-11-bonus-issue-for-investors-487016 ",
-    "time": "2026-08-07T10:17:47.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "LPG સિલિન્ડરમાં કેટલો વધ્યો છે ગેસ? જાણવા માટે અજમાવી જુઓ આ 2 સરળ ટ્રિક",
     "desc": "જો તમે એલપીજી સિલિન્ડર ભોજન તૈયાર કરવા માટે વાપરતા હોવ અને તમને સતત બાટલો ક્યારે ખતમ થઈ જશે તે ચિંતા સતાવતી હોય તો અમે તમને એવી 2 ટ્રિક જણાવીશું જેના દ્વારા તમે બાટલો કેટલો પત્યો તે અંગે જાણી શકશો.",
@@ -511,15 +538,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/indian-history-was-dubai-supposed-to-become-part-of-india-486990 ",
     "time": "2026-08-07T07:11:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "કોકરોચ જનતા પાર્ટીના સંગઠનની જાહેરાત, 12 લોકોને ટીમમાં મળ્યું સ્થાન, કયું પદ સંભાળશે અભિજીત દીપકે?",
-    "desc": "કોકરોચ જનતા પાર્ટીએ પોતાનો વિસ્તાર કરવાનું શરૂ કરી દીધું છે. વીતેલા દિવસે પાર્ટીએ પોતાની કારોબારી સમિતિની જાહેરાત કરી, જેમાં સૌથી મહત્ત્વની જવાબદારી અભિજીત દીપકેને સોંપવામાં આવી છે. તો બીજી તરફ કારોબારી સમિતિમાં કુલ 12 સભ્યો છે, જેમાં પાર્ટીના બંને પ્રવક્તા પણ સામેલ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/cockroach-janata-party-organization-announced-12-members-included-in-the-team-which-post-will-abhijit-deepke-hold-486991 ",
-    "time": "2026-08-07T07:10:04.000Z"
   },
   {
     "cat": "Tech",
@@ -727,14 +745,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/mukesh-ambani-opened-a-vault-for-the-middle-class-jio-is-offering-100mbps-internet-speed-with-huge-discounts-and-more-than-12-ott-apps-486682 ",
     "time": "2026-08-04T05:35:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Karan Aujla એ સમય રૈનાના શોમાં કરી કમાલ, કપલને સ્પોન્સર કરી માલદીવ્સની ટિકિટ",
-    "desc": "સમય રૈનાના શો ઈંડિયાઝ ગોટ લેટન્ટના લેટેસ્ટ એપિસોડની ગેસ્ટ પેનલમાં સિંગર કરન ઔજલા પણ સામેલ થયો હતો. આ એપિસોડમાં આવેલા એક કપલનું સપનું પુરું કરવા માટે કરન ઔજલાએ તેમને માલદીવ્યની ટિકિટ સ્પોન્સર કરી છે. કરન ઔજલાએ આ કામ કરી દર્શકોનું દિલ જીતી લીધું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/karan-aujla-gift-maldives-trip-to-couple-in-samay-raina-show-in-indias-got-latent-2-486579 ",
-    "time": "2026-08-03T06:58:36.000Z"
   }
 ];

@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Entertainment",
+    "title": "বলিউডের স্টার বানাব! সিনেমার টোপ দিয়ে লাগাতার ধর্ষণ-ব্ল্যাকমেইল, গ্রেফতার জনপ্রিয় পরিচালক",
+    "desc": "৭৩ বছর বয়সী প্রবীণ পরিচালক শাকিল নূরানীকে ধর্ষণের অভিযোগে গ্রেফতার করেছে মুম্বই পুলিস। অভিযোগ, ছবির স্ক্রিপ্ট আলোচনার কথা বলে ডেকে এনে অচেতন করে ধর্ষণ করে সে। তারপর আপত্তিকর ভিডিয়ো বানিয়ে চার বছর ধরে অত্যাচার চালায় সে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/filmmaker-shakeel-noorani-arrested-for-allegedly-physically-assault-33-year-old-actress_666277.html ",
+    "time": "2026-08-10T07:55:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "রবীন্দ্রপ্রয়াণের দিনে দেখা মর্মান্তিক দৃশ্য! সেন্সরের আপত্তি সত্ত্বেও কেন ‘বাইশে শ্রাবণ’ নাম বদলাননি মৃণাল সেন?",
     "desc": "বিশ্বকবির প্রয়াণের দিনে নিমতলা শ্মশানে ঘটে যাওয়া এক মর্মান্তিক ঘটনা ভুলতে পারেননি মৃণাল সেন। এক অসহায় পিতার কোলের মৃত শিশু হারিয়ে গিয়েছিল জনসমুদ্রে! সেই স্মৃতি থেকেই তৈরি ছবি 'বাইশে শ্রাবণ'। সেন্সর বোর্ডের প্রচণ্ড চাপ এবং 'অশ্রদ্ধার' অভিযোগ সত্ত্বেও কেন ছবির নাম বদলাতে রাজি হননি কিংবদন্তি পরিচালক? জানুন সেই ঐতিহাসিক বিতর্কের পেছনের গল্প",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -133,15 +142,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/cjp-national-office-bearers-full-list-abhijeet-dipke-as-convener-saurav-das-and-ashutosh-ranka-will-be-co-conveners_665903.html ",
     "time": "2026-08-07T11:50:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "১৫ অগাস্টের আগেই উড়বে মেয়রের অফিস, মেট্রো, স্কুল? ভয়ংকর ইমেলে হাড়হিম হুমকি:...শহর জুড়ে হাই অ্যালার্ট",
-    "desc": "মেয়রের অফিশিয়াল ইমেল আইডিতে আসা এই বার্তায় শহরের একাধিক জায়গায় কার বোমা ও আইইডি বিস্ফোরণের হুমকি দেওয়া হয়। অভিভাবকদের স্পষ্ট করে বলা হয়েছে, তাঁরা যেন শিশুদের স্কুলে না পাঠান এবং তাঁদের মেট্রোয় যাতায়াত করতে না দেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/bomb-threat-shakes-mumbai-mayors-office-metro-schools-stock-exchange-termed-target_665889.html ",
-    "time": "2026-08-07T11:16:50.000Z"
   },
   {
     "cat": "Entertainment",

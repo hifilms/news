@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Jose Mourinho reflects on almost joining Manchester United after Sir Alex's departure in 2013",
+    "desc": "Legendary former Manchester United head coach Sir Alex Ferguson recently came forward and talked about the conversation that he had with Jose Mourinho after the former’s departure as the side’s head coach back in 2013....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/jose-mourinho-reflects-on-almost-joining-manchester-united-after-sir-alex-s-departure-in-2013-2026-08-10-1050916",
+    "time": "2026-08-10T09:01:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'That innings changed everything': Ajinkya Rahane reveals the moment that rejuvenated his IPL career",
+    "desc": "Former India cricketer Ajinkya Rahane recently came forward and talked about his recently rejuvenated IPL (Indian Premier League) career. It is worth noting that Rahane recently took to social media and announced his retirement from...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/that-innings-changed-everything-ajinkya-rahane-reveals-the-moment-that-rejuvenated-his-ipl-career-2026-08-10-1050908",
+    "time": "2026-08-10T07:53:00.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Narendra naam se nafrat hai': Boxer Berwal shares Pakistani rival's hilarious 2015 remark with PM Modi",
     "desc": "Prime Minister Narendra Modi has caught all the headlines of late as he hosted the various Commonwealth Games medal winners at his residence on August 9th. The Prime Minister interacted with the various winners, including...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/jo-khelega-vo-khilega-pm-modi-shares-instagram-reel-after-meeting-commonwealth-games-medallists-2026-08-09-1050863",
     "time": "2026-08-09T13:34:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer picks standout player for team India ahead of Sri Lanka Test series",
-    "desc": "The Indian team is all set to take on Sri Lanka in a two-game Test series. The two sides will meet at the Galle International Stadium from August 15th, and ahead of the series, there...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-picks-standout-player-for-team-india-ahead-of-sri-lanka-test-series-2026-08-09-1050861",
-    "time": "2026-08-09T13:22:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India defeat Sri Lanka in practice game ahead of Test series, register dominant six-wicket win in Colombo",
-    "desc": "The Indian team managed to get the best of Sri Lanka Cricket XI as they defeated the side by six wickets in the three-day practice game ahead of the two-game Test series between the two...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-defeat-sri-lanka-in-practice-game-ahead-of-test-series-register-dominant-six-wicket-win-in-colombo-2026-08-09-1050858",
-    "time": "2026-08-09T12:58:29.000Z"
   }
 ];
