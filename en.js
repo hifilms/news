@@ -1,21 +1,165 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Tamil Nadu Assured Pension Scheme will be implemented as soon as Centre sanctions borrowing of ₹11,000 crore, says Marie Wilson",
+    "desc": "Until then, we have decided to give an interim payout to those who retired or are retiring on or after January 1, 2026. We will implement the scheme as soon as the Union government accords sanction, says the Finance Minister",
+    "img": "https://th-i.thgim.com/public/incoming/f64pnq/article71328827.ece/alternates/LANDSCAPE_1200/Magistrate-direG12G6TRLE.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-assured-pension-scheme-will-be-implemented-as-soon-as-centre-sanctions-borrowing-of-11000-crore-says-marie-wilson/article71328359.ece",
+    "time": "2026-08-10T17:56:28.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran ties Strait of Hormuz reopening to U.S. concessions on several demands",
+    "desc": "Iran and the U.S. are not engaged in direct talks, and Tehran will not start them ⁠as long as Washington breaches an interim deal signed in June, Mr. Aragchi said, adding that messages were being exchanged through intermediaries.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-august-10-2026-hormuz-strait-reopen-us-iran-talks/article71326809.ece",
+    "time": "2026-08-10T17:56:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "SpaceX retail investors turn net sellers for first time since IPO; offload $4.5 million worth of shares",
+    "desc": "Retail investors turned into net sellers of SpaceX shares as of August 7, marking the end of a buying frenzy. This change coincided with a stock price recovery, indicating that individuals may be taking profits. The shares have struggled post-IPO, dropping beneath the initial offering price. Investors who were hopeful at the launch might now be looking to reduce their losses, even amidst a slight recovery in recent days.",
+    "img": "https://static.toiimg.com/photo/msid-133126614,imgsize-58470.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/spacex-retail-investors-turn-net-sellers-for-first-time-since-ipo-offload-4-5-million-worth-of-shares/articleshow/133126012.cms",
+    "time": "2026-08-10T17:52:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Karnataka takes cautious first step to introduce digital evaluation of SSLC and II PU examination",
+    "desc": "Following the Central Board of Secondary Education (CBSE) footsteps, the Karnataka School Examination and Assessment Board is planning to implement digital evaluation of SSLC and II PU answer scripts. However, it is being cautious in the rollout",
+    "img": "https://th-i.thgim.com/public/incoming/lg1ia8/article71329829.ece/alternates/LANDSCAPE_1200/22_mn%20SSLC%20Examinations%203.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-takes-cautious-first-step-to-introduce-digital-evaluation-of-sslc-and-ii-pu-examination/article71328570.ece",
+    "time": "2026-08-10T17:48:08.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Colombia quake leaves 69 dead, with more trapped under rubble",
+    "desc": "The tremor, with an epicenter 100 km deep in the San Jose del Palmar municipality, killed at least 40 people in the Risaralda region; Twenty-seven people were killed in the Valle del Cauca department, and two more died in the city of Manizales",
+    "img": "https://th-i.thgim.com/public/incoming/5tgc4h/article71329836.ece/alternates/LANDSCAPE_1200/2026-08-10T173312Z_1698968549_RC2MVMAY7OYP_RTRMADP_3_COLOMBIA-QUAKE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/74-magnitude-earthquake-shakes-colombia-and-ecuador-prompting-people-to-evacuate-buildings/article71328788.ece",
+    "time": "2026-08-10T17:47:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Swell waves likely along coast of Thiruvananthapuram on Tuesday",
+    "desc": "Issuing alerts to fishermen and coastal residents, the National Centre for Oceanographic Studies and Research (INCOIS) has informed that, as part of the swell surge, waves ranging in height from 1.0 to 1.6 meters and sea erosion are likely along the coasts from Kappil to Pozhiyur in Thiruvananthapuram district till 11.30 pm on Tuesday",
+    "img": "https://th-i.thgim.com/public/incoming/ospdxs/article71329835.ece/alternates/LANDSCAPE_1200/NH02Weather03.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/swell-waves-likely-along-coast-of-thiruvananthapuram-on-tuesday/article71328839.ece",
+    "time": "2026-08-10T17:46:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Protesters march to Jharkhand Assembly; 5 injured in lathi charge",
+    "desc": "Students, job aspirants continue sit-in at Jaipal Singh Munda Stadium in Ranchi seeking cancellation of JSSC-CGL exam and a CBI probe into recruitment irregularities; police deny use of force; former JPSC chairman Khiangte arrested; march comes a day after State govt. agreed to cancel three exams",
+    "img": "https://th-i.thgim.com/public/incoming/px8qua/article71327536.ece/alternates/LANDSCAPE_1200/PTI08_10_2026_000112A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-assembly-march-student-protest-jpsc-examination-jssc-cgl-exam-updates-on-august-10/article71327529.ece",
+    "time": "2026-08-10T17:45:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Gandhi temple getting ready for I-day celebrations",
+    "desc": "The Gandhi Mandiram-Freedom Fighters Smruthi Vanam came up on 50 cents of an old park allotted by the Municipal Corporation on January 30, 2022; hundreds of students will take part in the Independence Day programme",
+    "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/ksuhq7/article71327686.ece/alternates/LANDSCAPE_1200/Gandhi%20temple.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/indias-first-temple-for-mahatma-gandhi-readies-for-independence-day/article71327260.ece",
+    "time": "2026-08-10T17:31:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tiger Shroff won’t play for Mumbai FC in Durand Cup; here's why",
+    "desc": "Shroff was included in Mumbai FC’s squad for the tournament on July 28, leading to speculation that he could make his competitive debut for the club. However, he confirmed that a last-minute work commitment will prevent him from travelling to Shillong for Mumbai FC’s next match.",
+    "img": "https://static.toiimg.com/photo/msid-133122893,imgsize-615025.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/really-unfortunate-tiger-shroff-wont-play-for-mumbai-fc-in-durand-cup-heres-why/articleshow/133122182.cms",
+    "time": "2026-08-10T17:23:02.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Final vote delayed in parts of Pakistan-administered Kashmir over security fears",
+    "desc": "Clashes in the region have led to road closures and an internet blackout, posing a sensitive challenge for ‌Pakistan, which frequently criticises New Delhi’s handling of dissent in Indian-administered Kashmir but is now facing anger in the territory under its ‌own control",
+    "img": "https://th-i.thgim.com/public/incoming/24kb9x/article71329745.ece/alternates/LANDSCAPE_1200/Pakistan_Kashmir_Elections__7775.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/final-vote-delayed-in-parts-of-pakistan-administered-kashmir-over-security-fears/article71329728.ece",
+    "time": "2026-08-10T17:05:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Former Minister M.R.K. Panneerselvam sparks lively exchanges in Tamil Nadu Assembly",
+    "desc": "He says that in the past, he would relax only after 8 a.m. because his leader, Kalaignar [M. Karunanidhi], would call him up early in the morning. “You [the Ministers] seem very relaxed,” he says. Minister for Water Resources N. Anand responds that Mr. Vijay will call him up and other Ministers even about repairing a vaikal (canal) and ask whether the work has been completed",
+    "img": "https://th-i.thgim.com/public/incoming/5e6hxz/article71329705.ece/alternates/LANDSCAPE_1200/Panneerselvam%203.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/former-minister-mrk-panneerselvam-sparks-lively-exchanges-in-tamil-nadu-assembly/article71329590.ece",
+    "time": "2026-08-10T17:01:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "CINTAA president Poonam Dhillon hits back at allegations by members, calls it deeply offensive",
+    "desc": "In a surprising turn of events, eight executive members of CINTAA have stepped down, citing deep-rooted issues in leadership and decision-making processes. They demand fresh elections to restore accountability. However, President Poonam Dhillon has vehemently rejected these claims, characterizing them as offensive fabrications motivated by the discontent of those seeking control. This discord has caused notable emotional turmoil for the president.",
+    "img": "https://static.toiimg.com/photo/msid-133121971,imgsize-209353.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/cintaa-president-poonam-dhillon-hits-back-at-allegations-by-members-calls-it-deeply-offensive-you-wouldnt-believe-how-vulgar/articleshow/133121241.cms",
+    "time": "2026-08-10T16:57:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "AR Rahman’s son AR Ameen is safe and doing fine, assures sister Khatija",
+    "desc": "AR Rahman’s son and singer AR Ameen was involved in a car accident in Chennai on Monday morning. His sister Khatija Rahman has now shared an update on his health, assuring fans that Ameen is safe and doing fine while also clarifying details surrounding the accident.",
+    "img": "https://static.toiimg.com/photo/msid-133118940,imgsize-117217.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ar-rahmans-son-ar-ameen-is-safe-and-doing-fine-after-chennai-car-accident-assures-sister-khatija-as-she-clarifies-what-happened/articleshow/133118455.cms",
+    "time": "2026-08-10T16:28:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "At least 10 people injured by pellets on July 20, shows RTI response",
+    "desc": "According to RTI responses by two hospitals to Trinamool Congress spokesperson Saket Gokhale, 10 people were brought in to hospital with pellet injuries during Jantar Mantar stir; hospital sources confirmed the authenticity of the response",
+    "img": "https://th-i.thgim.com/public/incoming/g2z1x4/article71329571.ece/alternates/LANDSCAPE_1200/TH22-Ashna-AnotGHVG9OQKL.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/at-least-10-people-injured-by-pellets-on-july-20-shows-rti-response/article71329189.ece",
+    "time": "2026-08-10T16:22:31.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "‘Broken overnight’: How stock market’s new closing auction is making traders jittery",
+    "desc": "Brokerages found themselves responding to a surge of client queries, while retail investors turned to social media after noticing that the official closing prices appeared to differ from where stocks had traded during the day.",
+    "img": "https://static.toiimg.com/photo/msid-133116955,imgsize-1973783.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/broken-overnight-how-stock-markets-new-closing-auction-is-making-traders-jittery/articleshow/133113819.cms",
+    "time": "2026-08-10T15:59:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tukaram Mundhe recalls friend’s ‘heartbreak’ over Madhuri's marriage",
+    "desc": "IAS officer and Maharashtra FDA Commissioner Tukaram Mundhe recently recalled a humorous incident from his UPSC preparation days. During his Unstoppable Tukaram interaction in Pune, Mundhe remembered how his friend Pankaj, later a Customs Commissioner, suddenly broke down after learning that Bollywood star Madhuri Dixit had married Dr Shriram Nene in 1999.",
+    "img": "https://static.toiimg.com/photo/msid-133116088,imgsize-95455.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/madhuri-dixit-got-married-ias-officer-tukaram-mundhe-recalls-friends-heartbreak-over-madhuris-marriage-to-dr-shriram-nene-during-upsc-days/articleshow/133115841.cms",
+    "time": "2026-08-10T15:52:09.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India’s power demand hits new peak, evening supply gap widens to 3,045 MW",
+    "desc": "In May, India's power consumption surged to an unprecedented 270.8 GW, reflecting heightened energy needs across the nation. However, June faced a significant power shortfall of 3,045 MW, mainly affecting the northern states. This gap in electricity supply resulted from limitations in the transmission and distribution networks. While thermal energy continued to dominate the scene, there was an uptick in renewable energy contributions.",
+    "img": "https://static.toiimg.com/photo/msid-133116121,imgsize-1482771.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-power-demand-hits-new-peak-evening-supply-gap-widens-to-3045-mw/articleshow/133115279.cms",
+    "time": "2026-08-10T15:51:16.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Devendra Mahto, on 9-day fast, hospitalised; aide says injured in lathicharge",
     "desc": "Several agitators and four policemen were injured during a clash near the Jharkhand assembly on Monday, as police used water cannons, tear gas and lathi-charged job aspirants protesting against the alleged irregularities in recruitment examinations, officials said. Pankaj Kumar, an aide of Mahto who was with him in the hospital, claimed that he was injured during lathi-charge by police near the assembly.",
     "img": "https://static.toiimg.com/photo/msid-133115212,imgsize-86374.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/jharkhand-protest-devendra-mahto-on-fast-for-9-days-hospitalised-after-drastic-drop-in-blood-sugar/articleshow/133114855.cms",
     "time": "2026-08-10T15:44:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "UPI payments will remain free: Nirmala Sitharaman",
-    "desc": "Parliament passed the Taxation and Other Laws (Amendment) Bill, 2026, with Finance Minister Nirmala Sitharaman clarifying that the legislation does not impose any tax or transaction charge on UPI payments. The Bill also seeks to attract foreign investment, promote domestic electronics manufacturing and ease operations for foreign cloud companies and fund managers in India.",
-    "img": "https://th-i.thgim.com/public/news/national/w6mf2z/article71329430.ece/alternates/LANDSCAPE_1200/Kwarka%20on%20FCRA.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-upi-payments-will-remain-free-nirmala-sitharaman/article71329431.ece",
-    "time": "2026-08-10T15:39:40.000Z"
   },
   {
     "cat": "Business",
@@ -27,49 +171,13 @@ const newsData_en = [
     "time": "2026-08-10T15:27:50.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Anilkumar to inaugurate Independence Day celebrations in Kozhikode",
-    "desc": "As many as 22 platoons comprising personnel from various police units, Excise department, National Cadet Corps, Fire and Rescue Services, Forest department, Scouts and Guides, and the Student Police Cadet will participate in the parade.",
-    "img": "https://th-i.thgim.com/public/incoming/a2l412/article71329287.ece/alternates/LANDSCAPE_1200/Cardamom-plantaGGSGAJLH0.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/anilkumar-to-inaugurate-independence-day-celebrations-in-kozhikode/article71328888.ece",
-    "time": "2026-08-10T15:11:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Shah will reply to debate on students’ agitation but Opposition must listen peacefully: Kiren Rijiju",
-    "desc": "Union Minister Kiren Rijiju said the government is ready to respond to the Opposition’s concerns over students’ agitation, but urged Opposition members to listen peacefully during the debate. Rijiju’s remarks came amid protests and disruptions in Parliament over the issue.",
-    "img": "https://th-i.thgim.com/public/incoming/wfv0ga/article71329231.ece/alternates/LANDSCAPE_1200/20260810303L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/shorts/shah-will-reply-to-debate-on-students-agitation-but-opposition-must-listen-peacefully-kiren-rijiju/article71329258.ece",
-    "time": "2026-08-10T15:06:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Ethanol blending in diesel fails flash-point test: Government",
-    "desc": "Tests found that ethanol-blended diesel did not meet the required diesel flash-point specification because the flash point fell sharply in the presence of ethanol, Minister of State for Petroleum and Natural Gas Suresh Gopi said",
-    "img": "https://th-i.thgim.com/public/incoming/u9zhi8/article71329054.ece/alternates/LANDSCAPE_1200/2026-08-06T142728Z_260342470_RC2ASMA6E590_RTRMADP_3_USA-TRUMP-TARIFF-INDIA-ETHANOL.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/ethanol-blending-in-diesel-fails-flash-point-test-government/article71329022.ece",
-    "time": "2026-08-10T15:03:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "B.Y. Vijayendra plays down viral video, says there is no ambiguity in support to Bidadi farmers",
-    "desc": "A day after a video of his alleged comments on the Bidadi Township Project went viral embarrassing the party, BJP State president B.Y. Vijayendra said that there was no ambiguity within the party regarding protection of farmers’ interests in Bidadi",
-    "img": "https://th-i.thgim.com/public/incoming/avri7v/article71329200.ece/alternates/LANDSCAPE_1200/PTI07_21_2026_000177B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/by-vijayendra-plays-down-viral-video-says-there-is-no-ambiguity-in-support-to-bidadi-farmers/article71328847.ece",
-    "time": "2026-08-10T14:59:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tamil Nadu Assured Pension Scheme will be implemented as soon as Centre sanctions borrowing of ₹11,000 crore, says Marie Wilson",
-    "desc": "Until then, we have decided to give an interim payout to those who retired or are retiring on or after January 1, 2026. We will implement the scheme as soon as the Union government accords sanction, says the Finance Minister",
-    "img": "https://th-i.thgim.com/public/incoming/f64pnq/article71328827.ece/alternates/LANDSCAPE_1200/Magistrate-direG12G6TRLE.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-assured-pension-scheme-will-be-implemented-as-soon-as-centre-sanctions-borrowing-of-11000-crore-says-marie-wilson/article71328359.ece",
-    "time": "2026-08-10T14:56:38.000Z"
+    "cat": "Sports",
+    "title": "'You can laugh at solution': Sindhu reacts to monkey-proof Worlds preps",
+    "desc": "PV Sindhu praised organisers preparing Delhi’s BWF World Championships venue after animals disrupted the India Open earlier this year. The Indira Gandhi Stadium has been upgraded with sealed vents, double doors, anti-pest gel and predator-call machines. According to TimesofIndia.com, four men trained to imitate langur calls have also been hired to deter monkeys. Sindhu called the efforts uniquely Indian and warmly welcoming.",
+    "img": "https://static.toiimg.com/photo/msid-133113859,imgsize-84219.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/you-can-laugh-at-the-solution-pv-sindhu-reacts-to-monkey-proof-world-cships-preparations/articleshow/133112897.cms",
+    "time": "2026-08-10T15:13:05.000Z"
   },
   {
     "cat": "World",
@@ -297,15 +405,6 @@ const newsData_en = [
     "time": "2026-08-10T11:34:18.000Z"
   },
   {
-    "cat": "World",
-    "title": "Iran ties Strait of Hormuz reopening to U.S. concessions on several demands",
-    "desc": "Iran and the U.S. are not engaged in direct talks, and Tehran will not start them ⁠as long as Washington breaches an interim deal signed in June, Mr. Aragchi said, adding that messages were being exchanged through intermediaries.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-august-10-2026-hormuz-strait-reopen-us-iran-talks/article71326809.ece",
-    "time": "2026-08-10T11:32:47.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "OTT releases this week (August 10-August 16): 'Cocktail 2' and more",
     "desc": "The coming week brings a diverse selection of films, series and documentaries across major streaming platforms. From the return of Jack Reacher and the final chapter of Kanan Stark’s story to the theatrical-style spectacle of ‘Cocktail 2’ and new international dramas, there is plenty to explore for viewers looking for fresh OTT content.",
@@ -360,24 +459,6 @@ const newsData_en = [
     "time": "2026-08-10T10:53:27.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "25 years of 'Dil Chahta Hai': Sonali Kulkarni revisits her character",
-    "desc": "Sonali Kulkarni reminisces about her role as Pooja in Dil Chahta Hai, a character she felt a deep connection to due to her honesty and youthful spirit. She highlights the creative contributions of costume designer Arjun Bhasin and Adhuna in defining Pooja's striking visual style. The film not only influenced her fashion sense but also presented a fresh portrayal of young Indians at that time.",
-    "img": "https://static.toiimg.com/photo/msid-133097969,imgsize-352426.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/on-25-years-of-dil-chahta-hai-sonali-kulkarni-recalls-connecting-with-her-character-i-have-poojas-ease/articleshow/133097714.cms",
-    "time": "2026-08-10T10:46:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kim Kardashian wants to ‘top’ Taylor Swift’s lavish wedding",
-    "desc": "In a bid to steal the spotlight, Kim Kardashian is reportedly planning a wedding that could outdo Taylor Swift's impressive guest list. Teaming up with her new love, Lewis Hamilton, Kim dreams of a spectacular celebration that shines brighter than all her previous three marriages. Their whirlwind romance has them both excited about hosting what they envision to be the ultimate star-studded affair.",
-    "img": "https://static.toiimg.com/photo/msid-133097563,imgsize-264304.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kim-kardashian-wants-to-top-taylor-swifts-lavish-wedding-with-a-bigger-star-studded-affair-shes-now-dreaming-up-ways/articleshow/133097079.cms",
-    "time": "2026-08-10T10:39:00.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Russia’s share in India’s oil imports jumps to all-time high of 48%, even as U.S. readies 100% tariffs",
     "desc": "The U.S. Senate has passed a bill that will see tariffs of up to 100% being levied on top 5 countries importing Russian oil and gas; the Bill now awaits passage in the House of Representatives",
@@ -385,15 +466,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/russias-share-in-indias-oil-imports-jump-to-all-time-high-of-48-despite-100-tariffs-threat-from-us/article71327681.ece",
     "time": "2026-08-10T10:34:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Deepika Padukone films for 'Raaka' in eighth month of pregnancy",
-    "desc": "In an impressive display of dedication, Deepika Padukone is currently shooting her segments for the upcoming film 'Raaka', even as she approaches the final weeks of her pregnancy. Scheduled to deliver in September, she is working closely with the production team to wrap up her scenes. This commitment has left fellow cast members astonished. Set for a 2027 release, 'Raaka' is expected to be a stunning sci-fi fantasy film.",
-    "img": "https://static.toiimg.com/photo/msid-133096555,imgsize-56520.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/deepika-padukone-films-for-allu-arjuns-raaka-in-eighth-month-of-pregnancy-atlee-and-team-impressed-by-her-dedication-ahead-of-delivery/articleshow/133096177.cms",
-    "time": "2026-08-10T10:18:57.000Z"
   },
   {
     "cat": "Sports",
@@ -412,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/brazil-footballer-falls-into-tunnel-while-celebrating-goal-suffers-ankle-injury-watch/articleshow/133094475.cms",
     "time": "2026-08-10T09:39:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Self-appointed protector': BJP questions Cong's silence on Tejpal rape conviction",
-    "desc": "The Bharatiya Janata Party has questioned why the Congress party remains tight-lipped about the recent conviction of Tarun Tejpal. The former Tehelka editor-in-chief received a ten-year prison sentence for sexual assault from 2013. BJP officials allege that Tejpal has ties to the Congress party during the UPA regime. Following this, the Bombay High Court reversed a lower court's decision, calling it 'perverse'.",
-    "img": "https://static.toiimg.com/photo/msid-133094386,imgsize-779467.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/self-appointed-protector-bjp-questions-congs-silence-on-tejpal-rape-conviction/articleshow/133094347.cms",
-    "time": "2026-08-10T09:20:56.000Z"
   },
   {
     "cat": "Sports",
@@ -450,15 +513,6 @@ const newsData_en = [
     "time": "2026-08-10T08:40:01.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Uttarakhand Forward 2.0",
-    "desc": "As Uttarakhand looks to expand tourism without compromising the forests and biodiversity that define the state, the focus is shifting from mass tourism to low-impact, community-led ecotourism. The long-term vision is to spread tourism beyond crowded destinations, create livelihoods in remote areas and build a model rooted in conservation, local participation and a smaller carbon footprint.",
-    "img": "https://static.toiimg.com/photo/msid-133091319,imgsize-405702.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/uttarakhand-forward-2-0-prasanna-kumar-patro-lays-out-uttarakhands-ecotourism-roadmap/articleshow/133090814.cms",
-    "time": "2026-08-10T08:01:35.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Narendra naam se nafrat...’: Berwal’s Pak boxer story leaves PM Modi laughing",
     "desc": "Prime Minister Narendra Modi heard memorable stories from India's Commonwealth Games medalists. Boxer Narender Berwal shared an amusing anecdote about a Pakistani opponent's reaction. Jadumani Singh recounted his significant victory on Kargil Vijay Diwas. He dedicated his win to Indian Army heroes, which Modi praised. India achieved its best-ever boxing haul at the Glasgow Games.",
@@ -475,24 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/australia-u-19s-neel-patel-ready-to-embrace-india-challenge-the-wickets-will-be-quite-different-exclusive/articleshow/133090005.cms",
     "time": "2026-08-10T07:51:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India end campaign with three-medal haul",
-    "desc": "India's World Athletics U20 Championships campaign concluded with three medals. This performance matches the country's medal tally from the 2021 and 2022 editions. Ashish Yadav and Basant Kumar Meghwal secured silver medals for India. Shahnavaz Khan then added a bronze medal in the men's long jump. The team's consistent medal performance highlights global junior level improvement.",
-    "img": "https://static.toiimg.com/photo/msid-133088596,imgsize-242592.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/world-athletics-u20-championships-india-end-campaign-with-three-medal-haul/articleshow/133088284.cms",
-    "time": "2026-08-10T06:49:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rishabh Pant's football skills steal show during India vs SL warm-up",
-    "desc": "Rishabh Pant displayed unique football skills during India's warm-up match against Sri Lanka. He used his feet to kick wide deliveries away instead of his bat. Pant took twenty-one balls to score his first run in the second innings. After a slow start, he changed gears and hit three sixes. India won the warm-up game by six wickets before the Test series.",
-    "img": "https://static.toiimg.com/photo/msid-133087901,imgsize-41893.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/rishabh-pants-football-skills-steal-show-during-india-vs-sri-lanka-warm-up-match-watch/articleshow/133087901.cms",
-    "time": "2026-08-10T06:36:36.000Z"
   },
   {
     "cat": "Sports",
@@ -556,15 +592,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/meta-will-soon-face-another-high-stakes-trial-in-us/article71326861.ece",
     "time": "2026-08-10T04:31:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jannik Sinner withdraws from Cincinnati with injury, US Open return now in focus",
-    "desc": "Jannik Sinner has withdrawn from the Cincinnati Open due to a right knee injury. This withdrawal impacts his preparations for the upcoming US Open tournament. He is focusing on recovery and hopes to be ready for the Grand Slam. Carlos Alcaraz also withdrew from Cincinnati with a wrist injury. Both top players' fitness remains a concern before the US Open.",
-    "img": "https://static.toiimg.com/photo/msid-133081914,imgsize-56144.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/jannik-sinner-withdraws-from-cincinnati-open-with-knee-injury-us-open-return-now-in-focus/articleshow/133081622.cms",
-    "time": "2026-08-10T04:26:24.000Z"
   },
   {
     "cat": "World",
@@ -801,24 +828,6 @@ const newsData_en = [
     "time": "2026-08-09T00:15:19.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Smash, bang, whimper: the rise and fall of Bazball",
-    "desc": "Now that the most discussed and debated style of playing Test cricket since Bodyline has ended, how do we assess its legacy? What worked and what didn’t? Could it have lasted longer? And how will it be remembered?",
-    "img": "https://th-i.thgim.com/public/incoming/frjb1d/article71320470.ece/alternates/LANDSCAPE_1200/GettyImages-2221108646.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/bazball-ends-ben-stokes-brendon-mccullum-test-cricket-analysis-rise-and-fall/article71320474.ece",
-    "time": "2026-08-08T23:19:58.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Houthi attacks kill five in Yemen as rebels target oil-rich Marib",
-    "desc": "A separate source close to the Saudi military told AFP that the Saudi-led coalition supporting the Yemeni government since 2015 would not stand \"idly by\" as the Houthis step up their attacks, adding that Marib was a \"red line\"",
-    "img": "https://th-i.thgim.com/public/incoming/ynfv69/article71318742.ece/alternates/LANDSCAPE_1200/2026-08-07T125003Z_403117402_RC20PMAHVHFT_RTRMADP_3_IRAN-CRISIS-SAUDI-HOUTHIS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/several-killed-as-houthi-attacks-yemen-rebels-target-oil-rich-marib-updates/article71318726.ece",
-    "time": "2026-08-08T22:03:30.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Hero MotoCorp Q1 PAT down 16.86% at ₹1,417.93 crore",
     "desc": "The previous year PAT included a one-time gain of ₹722 crore on account of dilution of the company's share of investment in associates consequent to public issue and private placement, Hero MotoCorp said in a statement",
@@ -844,15 +853,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/overall-ev-retail-sales-in-july-2026-surge-66-to-328-lakh-units/article71318365.ece",
     "time": "2026-08-08T20:44:45.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Journalists, rights bodies condemn curbs on media freedom in Pakistan",
-    "desc": "Under the new SoPs — Foreign Media Facilitation Guidelines 2026 — the journalists associated with foreign media will have to seek permission from the federal government for travelling to any city outside Islamabad, Lahore and Karachi for news coverage",
-    "img": "https://th-i.thgim.com/public/incoming/rrtqul/article71315066.ece/alternates/LANDSCAPE_1200/Pakistan_Media_89434.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/journalists-rights-bodies-condemn-curbs-on-media-freedom-in-pakistan/article71315055.ece",
-    "time": "2026-08-08T20:06:37.000Z"
   },
   {
     "cat": "Entertainment",
@@ -891,12 +891,12 @@ const newsData_en = [
     "time": "2026-08-08T18:49:28.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Tewolde Gebremariam is Air India’s new CEO",
-    "desc": "“His unique strength lies in managing complex operational landscapes, driving cultural transformation, building competitive global hubs, and developing world-class MRO (Maintenance, Repair, and Overhaul) and aviation training infrastructure,” a press statement from Air India said about Mr. Gebremariam",
-    "img": "https://th-i.thgim.com/public/news/national/pegifu/article71309616.ece/alternates/LANDSCAPE_1200/Air%20India.jpg",
+    "cat": "Entertainment",
+    "title": "In conversation with classical dance guru Girija Chandran who won the  Sangeeth Natak Akademi Award",
+    "desc": "Girija Chandran, who runs Regatta Natya Sangeetha Kendra in Thiruvananthapuram, has never performed on stage, but the 75-year-old dance teacher has trained nearly a lakh students over the past 53 years and the recognition acknowledges her contribution to Mohiniyattam",
+    "img": "https://th-i.thgim.com/public/incoming/v8rj0n/article71289495.ece/alternates/LANDSCAPE_1200/NH20GirijaChandran12.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/tewolde-gebremariam-air-india-new-ceo/article71309586.ece",
-    "time": "2026-08-08T18:32:13.000Z"
+    "url": "https://www.thehindu.com/entertainment/dance/girija-chandran-sangeeth-natak-akademi-award-mohiniyattam/article71289184.ece",
+    "time": "2026-08-08T17:31:07.000Z"
   }
 ];
