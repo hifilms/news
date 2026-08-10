@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India's spin bowling coach weighs in on Devdutt Padikkal's chance ahead first Sri Lanka Test",
+    "desc": "The Indian team put in a good showing as they took on Sri Lanka in a three-day tour game ahead of their two-game series. Led by KL Rahul in the clash, India put forth a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-s-spin-bowling-coach-weighs-in-on-devdutt-padikkal-s-chance-ahead-first-sri-lanka-test-2026-08-10-1050883",
+    "time": "2026-08-10T04:16:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Team India clear the air over Shubman Gill amid injury concerns ahead of first Sri Lanka Test",
+    "desc": "India and Sri Lanka are all set to take on each other in the first Test of the upcoming two-game Test series. The two sides are slated to meet at the Galle International Stadium on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/team-india-clear-the-air-over-shubman-gill-amid-injury-concerns-ahead-of-first-sri-lanka-test-2026-08-10-1050878",
+    "time": "2026-08-10T03:18:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why did VVS Laxman not take over as India's head coach after Rahul Dravid's exit? Former batter reveals",
+    "desc": "Team India is all set to take on Sri Lanka in a two-game Test series that is slated to kick off from August 15th. The two sides will meet for the first Test of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-did-vvs-laxman-not-take-over-as-india-s-head-coach-after-rahul-dravid-s-exit-former-batter-reveals-2026-08-10-1050874",
+    "time": "2026-08-10T02:03:01.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sarfaraz Khan named Sai Sudharsan's replacement for two-match Test series against Sri Lanka",
     "desc": "Mumbai star batter Sarfaraz Khan has been named as the replacement for the injured Sai Sudharsan in India's squad for the two-match Test series against Sri Lanka, the Board of Control for Cricket in India...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-captured-practicing-warm-up-drills-ahead-of-sri-lanka-test-amid-injury-concerns-2026-08-09-1050842",
     "time": "2026-08-09T09:12:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Do what's in his hands': Former India cricketer shares wisdom for Mohammed Shami ahead of ODI WC 2027",
-    "desc": "The ODI World Cup 2027 has quickly become one of the most talked-about topics in world cricket. Ahead of the tournament, there is no doubt that the Indian team is being looked at as one...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/do-what-s-in-his-hands-former-india-cricketer-shares-wisdom-for-mohammed-shami-ahead-of-odi-wc-2027-2026-08-09-1050839",
-    "time": "2026-08-09T08:04:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Star India batter touted as replacement for injured Sai Sudharsan for Sri Lanka Test series",
-    "desc": "The stage is set for an upcoming two-game Test series between India and Sri Lanka. The two sides will meet for the first Test at the Galle International Stadium from August 15th; furthermore, the second...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/star-india-batter-touted-as-replacement-for-injured-sai-sudharsan-for-sri-lanka-test-series-reports-2026-08-09-1050834",
-    "time": "2026-08-09T07:05:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Charith Asalanka and Eshan Malinga propel Galle Gallants to maiden LPL title",
-    "desc": "The LPL (Lanka Premier League) 2026 final saw Jaffna Kings taking on Galle Gallants. The two sides met at the R. Premadasa Stadium in Colombo on August 10th, and the game saw Galle Gallants register...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/charith-asalanka-and-eshan-malinga-propel-galle-gallants-to-maiden-lpl-title-2026-08-09-1050826",
-    "time": "2026-08-09T05:38:42.000Z"
   }
 ];
