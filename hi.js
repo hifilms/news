@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Jemimah Rodrigues puts inaugural Champions Trophy in her sight, eyes more success after World Cup win",
+    "desc": "India star batter Jemimah Rodrigues is excited for the upcoming Champions Trophy, as women's cricket is set to get another ICC event in addition to the ODI and the T20 World Cups. India, the winners...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jemimah-rodrigues-puts-inaugural-champions-trophy-in-her-sight-eyes-more-success-after-world-cup-win-2026-08-10-1050941",
+    "time": "2026-08-10T12:24:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "T20 Mumbai League set to expand as MCA invites bid for ninth team; check which region will have a side",
+    "desc": "The T20 Mumbai League is set to expand, as the Maharashtra Cricket Association (MCA) has invited bids for the right to operate a new team in the prestigious state franchise tournament. Once a team is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/t20-mumbai-league-set-to-expand-as-mca-invites-bid-for-ninth-team-check-which-region-will-have-a-side-2026-08-10-1050937",
+    "time": "2026-08-10T11:38:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Which IPL franchises are interested in Hardik Pandya trade deal as talks hog limelight?",
+    "desc": "A Hardik Pandya trade deal has gathered interest in recent weeks. A top-quality all-rounder, an Indian finisher, a seam-bowling all-rounder and a captain with proven results. Hardik offers pretty much everything that a team demands,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/which-ipl-franchises-are-interested-in-hardik-pandya-trade-deal-as-talks-hog-limelight-2026-08-10-1050925",
+    "time": "2026-08-10T10:39:51.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Jose Mourinho reflects on almost joining Manchester United after Sir Alex's departure in 2013",
     "desc": "Legendary former Manchester United head coach Sir Alex Ferguson recently came forward and talked about the conversation that he had with Jose Mourinho after the former’s departure as the side’s head coach back in 2013....",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/team-india-clear-the-air-over-shubman-gill-amid-injury-concerns-ahead-of-first-sri-lanka-test-2026-08-10-1050878",
     "time": "2026-08-10T03:18:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why did VVS Laxman not take over as India's head coach after Rahul Dravid's exit? Former batter reveals",
-    "desc": "Team India is all set to take on Sri Lanka in a two-game Test series that is slated to kick off from August 15th. The two sides will meet for the first Test of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-did-vvs-laxman-not-take-over-as-india-s-head-coach-after-rahul-dravid-s-exit-former-batter-reveals-2026-08-10-1050874",
-    "time": "2026-08-10T02:03:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sarfaraz Khan named Sai Sudharsan's replacement for two-match Test series against Sri Lanka",
-    "desc": "Mumbai star batter Sarfaraz Khan has been named as the replacement for the injured Sai Sudharsan in India's squad for the two-match Test series against Sri Lanka, the Board of Control for Cricket in India...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sarfaraz-khan-named-sai-sudharsans-replacement-for-two-match-test-series-against-sri-lanka-2026-08-09-1050865",
-    "time": "2026-08-09T14:22:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Jo khelega, vo khilega': PM Modi shares Instagram reel after meeting Commonwealth Games medallists",
-    "desc": "Prime Minister Narendra Modi on Sunday, August 9, met Commonwealth Games 2026 medallists at his residence in New Delhi and congratulated them for their performance at the Glasgow Games 2026. Modi shared an Instagram reel...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/jo-khelega-vo-khilega-pm-modi-shares-instagram-reel-after-meeting-commonwealth-games-medallists-2026-08-09-1050863",
-    "time": "2026-08-09T13:34:58.000Z"
   }
 ];
