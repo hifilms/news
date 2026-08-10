@@ -1,5 +1,176 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Sarfaraz Khan's first reaction after India call-up for Sri Lanka Test series",
+    "desc": "Sarfaraz Khan has been added to India's Test squad for the Sri Lanka series. He replaces Sai Sudharsan, who is recovering from a toe injury. This marks a significant moment for the batter after a long wait. The upcoming series is crucial for India's World Test Championship final hopes. India will play two Test matches against Sri Lanka starting August 15.",
+    "img": "https://static.toiimg.com/photo/msid-133077111,imgsize-31636.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/sarfaraz-khans-first-reaction-after-india-call-up-for-sri-lanka-test-series/articleshow/133077111.cms",
+    "time": "2026-08-10T01:09:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'DC' BO day 3: Lokesh Kanagaraj’s film jumps 36.4%",
+    "desc": "The film DC achieved a notable 36.4% increase in its India net collection on Sunday. Its third day earnings reached Rs 9.55 crore, contributing to a total of Rs 20.95 crore. The Tamil version performed strongly, securing Rs 6.60 crore with high afternoon occupancy. State-wise collections showed Tamil Nadu leading with Rs 3.30 crore on the third day. Overseas markets added Rs 2.",
+    "img": "https://static.toiimg.com/photo/msid-133077054,imgsize-232914.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/dc-box-office-collections-day-3-lokesh-kanagarajs-film-jumps-36-4-sunday-collection-crosses-rs-9-cr/articleshow/133077049.cms",
+    "time": "2026-08-10T00:47:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Big B questions Preity for NOT REPLYING to his b'day wishes",
+    "desc": "During a light-hearted moment on Kaun Banega Crorepati, Amitabh Bachchan jokingly called out Preity Zinta for not responding to his birthday wishes. The episode welcomed Preity and co-star Sunny Deol, who are promoting their upcoming film Batwara 1947, a historical drama reflecting on India's Partition. This marks Preity's return to cinema after a five-year break, while Sunny has been busy with several recent releases.",
+    "img": "https://static.toiimg.com/photo/msid-133077036,imgsize-426664.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-questions-preity-zinta-for-not-replying-to-his-birthday-wishes-i-have-a-huge-complaint-with-you/articleshow/133077018.cms",
+    "time": "2026-08-10T00:40:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kim and Lewis share loved-up pics from romantic getaway",
+    "desc": "Kim Kardashian and Lewis Hamilton shared photos from a recent romantic getaway. The couple posed for selfies and cozy pictures, showing their affection. They have been romantically linked since November 2025 and are often seen together. Hamilton recently spent time with Kardashian's children on a lake trip. The pair's matching fashion sense has also captivated their fans.",
+    "img": "https://static.toiimg.com/photo/msid-133077020,imgsize-403613.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kim-kardashian-and-lewis-hamilton-get-cosy-in-loved-up-photos-from-romantic-getaway-pics/articleshow/133076982.cms",
+    "time": "2026-08-10T00:34:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pant — an enigma at the crossroads",
+    "desc": "Having been replaced as India’s Test vice-captain, he can focus on his primary disciplines without having to attend lengthy team discussions or the distraction of being pulled in different directions; the team needs the most potent version of the player to come to the fore",
+    "img": "https://th-i.thgim.com/public/incoming/gob26o/article71325829.ece/alternates/LANDSCAPE_1200/2223672910.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/pant-an-enigma-at-the-crossroads/article71325824.ece",
+    "time": "2026-08-10T00:32:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘House of the Dragon 3’ finale release details",
+    "desc": "Mark your calendars! The House of the Dragon season 3 finale episode eight arrives on August 10, 2026. Anticipation builds for a brutal showdown between the Targaryens and Hightowers. Episode seven's revelation of Rhaena Targaryen as the new Sheepstealer rider diverges from the book, while Aegon’s reunion with Sunfyre prepares audiences for the fierce Battle of Tumbleton ahead. Expect unexpected turns and character developments in this exciting finale.",
+    "img": "https://static.toiimg.com/photo/msid-133077001,imgsize-38266.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/house-of-the-dragon-season-3-finale-episode-when-and-where-to-watch-the-last-chapter-of-the-series/articleshow/133076994.cms",
+    "time": "2026-08-10T00:25:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A flood of woes in Assam",
+    "desc": "Most people across Assam’s flood-prone districts know what to expect during six rainy months in a year, but the residents of Sivasagar and Charaideo, two historically safer districts along the Assam-Nagaland border, were not prepared for what hit them following a spell of heavy rainfall from July 18 to 22. The scale of devastation that occurred at an unprecedented speed has increased the challenge of recovering from the shock, with 99 dead and 7.21 lakh people affected, reports Rahul Karmakar",
+    "img": "https://th-i.thgim.com/public/incoming/9q2l6m/article71325005.ece/alternates/LANDSCAPE_1200/2150_24_7_2026_13_37_44_1_GUWAHATIFLOOD_24072026_06.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/assam/a-flood-of-woes-in-assam/article71324998.ece",
+    "time": "2026-08-10T00:18:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Spider-Man' to hit Rs 500 crore at Indian box office today!",
+    "desc": "Brand New Day continues its impressive box office run in India. The film has already surpassed Avengers: Endgame and Avatar: The Way of Water. Its second week collections remained exceptionally strong, adding significant revenue. The movie is now approaching the historic Rs 500 crore gross milestone. Final figures will determine if it becomes the first Hollywood film to achieve this.",
+    "img": "https://static.toiimg.com/photo/msid-133076832,imgsize-477450.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/spider-man-brand-new-day-box-office-collection-day-11-tom-holland-starrer-hits-rs-500-crore-mark-becomes-first-hollywood-film-to-hit-milestone-in-india/articleshow/133076827.cms",
+    "time": "2026-08-09T23:33:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bruce-Demi's daughter Tallulah weds Justin Acee; shares wedding pics",
+    "desc": "Tallulah Willis, daughter of Bruce Willis and Demi Moore, tied the knot with musician Justin Acee in a small ceremony in Sun Valley, Idaho, on Saturday, August 8. She looked stunning in a custom Balenciaga gown, with sisters Rumer and Scout helping her get ready.",
+    "img": "https://static.toiimg.com/photo/msid-133076778,imgsize-378992.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/bruce-willis-and-demi-moores-daughter-tallulah-willis-marries-justin-acee-in-whimsical-wedding-lucy-liu-andrew-garfield-zac-posen-and-other-stars-attend-pics/articleshow/133075885.cms",
+    "time": "2026-08-09T22:57:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "To bypass Bosphorus &amp; Hormuz, Russia moots direct rail link to India",
+    "desc": "Russia has proposed a direct rail corridor to connect to the Indian Ocean, aiming to circumvent the perilous straits. This ambitious route would pass through Turkmenistan, Iran, Afghanistan, and Pakistan. However, experts highlight significant logistical and financial hurdles. For New Delhi, gaining Pakistan's commitment to security cooperation is essential. If realized, this corridor might provide a vital overland freight option to reduce reliance on maritime routes.",
+    "img": "https://static.toiimg.com/photo/msid-133076769,imgsize-88386.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/to-bypass-bosphorus-hormuz-russia-moots-direct-rail-link-to-india/articleshow/133076764.cms",
+    "time": "2026-08-09T22:50:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Dope test of turbulent Air India flight’s pilot ‘not negative’, sent for confirmation, says government",
+    "desc": "Following a serious incident involving altitude loss on an Air India flight, the pilot was subjected to a dope screening test. The results were not definitively negative, thereby calling for additional confirmatory tests. As a result, seventeen passengers and crew members were hospitalized. In response, the aviation ministry has initiated an investigation and temporarily removed both pilots from their flying duties until the inquiry concludes.",
+    "img": "https://static.toiimg.com/photo/msid-133076752,imgsize-99016.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/dope-test-of-turbulent-ai-flights-pilot-not-negative-sent-for-confirmation-says-government/articleshow/133076744.cms",
+    "time": "2026-08-09T22:37:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India among top nations in quantum technology, says science minister Jitendra Singh",
+    "desc": "India is now at par with global leaders in advanced technology and manufacturing. Technology and artificial intelligence have significantly improved access to opportunities and education. Chandrayaan's discovery of water molecules on the Moon showcases India's specific capabilities. Opening the space and nuclear sectors to private companies has spurred rapid expansion. This progress indicates a fast pace in both manufacturing and technological development.",
+    "img": "https://static.toiimg.com/photo/msid-133076741,imgsize-41608.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-among-top-nations-in-quantum-technology-says-science-minister-jitendra-singh/articleshow/133076727.cms",
+    "time": "2026-08-09T22:29:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Won’t stop demanding accountability",
+    "desc": "Rahul Gandhi has raised concerns regarding Home Minister Amit Shah's muted response to police actions against students protesting at Jantar Mantar over paper leaks. Jairam Ramesh reminded the minister of his silence during a previous security incident in Parliament, emphasizing the need for accountability as the monsoon session nears its conclusion, with opposition members urging the government to address the youth's grievances.",
+    "img": "https://static.toiimg.com/photo/msid-133076721,imgsize-111364.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/rahul-to-amit-shah-wont-stop-demanding-accountability/articleshow/133076636.cms",
+    "time": "2026-08-09T22:17:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Pushing One Health approach, U.P. priorities early identification and reporting of emerging zoonotic diseases",
+    "desc": "Mukesh Kumar Meshram, Additional Chief Secretary, Animal Husbandry, Dairy Development and Fisheries Department said that under the RISE Global Health Security (RISE GHS) Project, the Animal Husbandry Department, in collaboration with the Forest and Wildlife Department, successfully conducted active surveillance for Avian Influenza among wild migratory birds at 19 Ramsar and other important wetland sites",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/pushing-one-health-approach-up-priorities-early-identification-and-reporting-of-emerging-zoonotic-diseases/article71325413.ece",
+    "time": "2026-08-09T22:17:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Spider-Man' hits USD 1.67 bn worldwide; 'The Odyssey' tops USD 1.1 bn",
+    "desc": "Brand New Day continues its impressive box office run, earning USD 144.5 million domestically. Christopher Nolan's The Odyssey also crossed USD 1 billion globally, becoming his biggest hit. These films have propelled Hollywood to its strongest box office year since the pandemic began. Ticket sales are currently running 18.5% ahead of last year's performance. Summer theatrical revenue is projected to reach USD 4 billion on Monday.",
+    "img": "https://static.toiimg.com/photo/msid-133075165,imgsize-393657.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/spider-man-brand-new-day-earns-usd-1-67-billion-worldwide-in-just-10-days-the-odyssey-sets-new-box-office-record-for-christopher-nolan/articleshow/133074949.cms",
+    "time": "2026-08-09T22:00:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Government may be going slow on FCRA to woo DMK, NCP(SP) for delimitation",
+    "desc": "As Parliament approaches its closing week, the FCRA amendment bill is notably absent from Monday's Lok Sabha agenda, signaling a possible political strategy from the government. The legislation's contentious nature is drawing connections to the pending delimitation exercise. Opposition groups, including DMK and NCP(SP), have raised alarms over its provisions. It seems the government wishes to foster a detailed discussion to address these criticisms.",
+    "img": "https://static.toiimg.com/photo/msid-133075163,imgsize-94420.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/government-may-be-going-slow-on-fcra-to-woo-dmk-ncpsp-for-delimitation/articleshow/133075158.cms",
+    "time": "2026-08-09T21:58:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ED chargesheets against RCom, Reliance Infra in 40k crore bank fraud",
+    "desc": "The Enforcement Directorate has formally charged Reliance Communications and Reliance Infrastructure with serious financial offenses, including money laundering involving over forty thousand crore rupees in misappropriated bank funds. The allegations indicate substantial financial misconduct by both companies and related individuals. The agency is pursuing the confiscation of properties worth more than eight thousand crore rupees, stemming from a deliberate scheme to misdirect public funds from vital infrastructure projects.",
+    "img": "https://static.toiimg.com/photo/msid-133075156,imgsize-104856.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ed-chargesheets-against-rcom-reliance-infra-in-40k-crore-bank-fraud/articleshow/133075153.cms",
+    "time": "2026-08-09T21:49:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Government",
+    "desc": "Since the inception of the Pradhan Mantri Awas Yojna, over one crore urban houses have been built, representing a significant achievement in housing development. Since 2015, 1.25 crore houses have gained approval, with nearly one crore allocated to women. Furthermore, PMAY-Urban 2.0 introduced over 2.09 lakh houses for EWS families, while 1.4 lakh homes were sanctioned for pucca construction under the Beneficiary Led Construction scheme.",
+    "img": "https://static.toiimg.com/photo/msid-133075149,imgsize-51560.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/one-crore-homes-completed-and-delivered-under-pm-scheme-government/articleshow/133075146.cms",
+    "time": "2026-08-09T21:41:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ED director Rahul Navin's tenure extended by a year",
+    "desc": "Rahul Navin received a one-year extension as ED director, which ends his fixed tenure. His service is now extended until August 2027, including post-superannuation service. Navin's tenure began in September 2023 and was appointed ED director in August 2024. He has established a roadmap for completing probes and auctioning attached properties. This roadmap aims to return assets to rightful claimants and fraud victims.",
+    "img": "https://static.toiimg.com/photo/msid-133074967,imgsize-32542.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ed-director-rahul-navins-tenure-extended-by-a-year/articleshow/133074961.cms",
+    "time": "2026-08-09T21:27:37.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "7 of 25 high courts without CJs, collegium recommends names for just four",
     "desc": "The Supreme Court collegium recommended four judges for High Court Chief Justice positions. These appointments aim to fill vacancies in key High Courts across India. The collegium also approved transfers of two judges from Orissa High Court. Orissa High Court faces a significant shortage of judges, impacting its functioning. No representation from Orissa High Court has been appointed to the Supreme Court in eight years.",
@@ -70,33 +241,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/police-search-26-locations-tied-to-banned-jamaat-e-islami-jk/articleshow/133073766.cms",
     "time": "2026-08-09T18:28:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Velumani, Viswanathan blame Palaniswami for the AIADMK’s weakening and electoral defeats since 2021",
-    "desc": "In an undated letter, they allege that the AIADMK general secretary \"disregarded\" senior BJP leader Amit Shah's proposal of alliance for the 2021 Assembly election. They also accuse him of having missed an opportunity to have an alliance with TVK",
-    "img": "https://th-i.thgim.com/public/incoming/41s90b/article71325698.ece/alternates/LANDSCAPE_1200/S.P.%20Velumani%204.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/velumani-viswanathan-squarely-blame-palaniswami-for-aiadmks-weakening-and-electoral-defeats-since-2021/article71325226.ece",
-    "time": "2026-08-09T16:44:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Congress to strongly oppose FCRA Bill, warns against repeating 2023 ‘mass suspension’ episode",
-    "desc": "The warning came alongside a reminder that the government had used the absence of a large part of the opposition to push through a slew of major legislation in 2023. It has asked all Opposition MPs to be present in Parliament from August 10 to 12",
-    "img": "https://th-i.thgim.com/public/incoming/abm64m/article71325750.ece/alternates/LANDSCAPE_1200/PTI08_03_2026_000521B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/congress-to-strongly-oppose-fcra-bill-warns-against-repeating-2023-mass-suspension-episode/article71325222.ece",
-    "time": "2026-08-09T16:43:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CM Vijay likely to move resolution in Assembly emphasising on mandatory rendition of ‘Tamil Thai Vazhthu’ first",
-    "desc": "The move comes against the backdrop of a letter from the Union Ministry of Home Affairs on July 9, asking the States and Union Ministries to “strictly comply” with its January 28 directive that the National Song, ‘Vande Mataram’, be played before the National Anthem at official events",
-    "img": "https://th-i.thgim.com/public/incoming/u1wp5o/article71325757.ece/alternates/LANDSCAPE_1200/PTI08_07_2026_000016B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/cm-vijay-likely-to-move-resolution-in-assembly-emphasising-on-mandatory-rendition-of-tamil-thai-vazhthu-first/article71325427.ece",
-    "time": "2026-08-09T16:41:36.000Z"
   },
   {
     "cat": "Entertainment",
@@ -396,24 +540,6 @@ const newsData_en = [
     "time": "2026-08-09T11:23:20.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Dialogue, not batons’: Jharkhand CM Soren's message to youth protesting for 'justice' over exam leaks",
-    "desc": "Jharkhand's Chief Minister Hemant Soren addressed the ongoing protests, urging young demonstrators to reject political affiliations. His commitment to transparency and justice regarding recruitment exam irregularities was clear as he highlighted the importance of discussions over confrontation. Soren warns that misinformation from rival factions aims to stir unrest, while the protests now stretch into their sixteenth day, keeping conversations alive.",
-    "img": "https://static.toiimg.com/photo/msid-133066476,imgsize-1313210.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dialogue-not-batons-jharkhand-cm-sorens-message-to-youth-protesting-for-justice-over-exam-leaks/articleshow/133066372.cms",
-    "time": "2026-08-09T11:11:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Anti-people': Congress vows to oppose FCRA Bill, Venugopal accuses Centre of targeting NGOs",
-    "desc": "Opposition parties plan to strongly protest the proposed Foreign Contribution Regulation Amendment Bill. This legislation is expected to be introduced in Parliament during the Monsoon Session. Congress leaders allege the bill targets minorities and NGOs, deeming it unconstitutional. They also raise concerns about student protest handling and delimitation proposals. Opposition parties are preparing for parliamentary debates and potential legislative actions.",
-    "img": "https://static.toiimg.com/photo/msid-133066498,imgsize-610772.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/anti-people-congress-vows-to-oppose-fcra-bill-venugopal-accuses-centre-of-targeting-ngos/articleshow/133066331.cms",
-    "time": "2026-08-09T11:10:59.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Crude, Hormuz &amp; more: What will drive stock market this week",
     "desc": "This week, Dalal Street will closely observe global geopolitical shifts and local economic data. Investors will pay attention to fluctuations in crude oil prices and news from the Strait of Hormuz. In addition, important domestic inflation figures and updates on foreign exchange reserves are on the horizon. The Q1 FY27 earnings season is set to pick up pace with numerous company results.",
@@ -459,24 +585,6 @@ const newsData_en = [
     "time": "2026-08-09T10:11:17.000Z"
   },
   {
-    "cat": "World",
-    "title": "Yemen’s Houthis claim attack on Aramco facility as Saudi says fire extinguished",
-    "desc": "Saudi Energy ‌Ministry did not immediately specify the cause of the fire; Houthis spokesperson said the attack on the facility was launched in response to incursions by drones from the Gulf monarchy into northwest Yemen",
-    "img": "https://th-i.thgim.com/public/incoming/ujaw30/article71324269.ece/alternates/LANDSCAPE_1200/SAUDI%20ARABIA%20ARAMCO",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/fire-extinguished-at-aramco-facility-in-jizan-says-saudi-arabia/article71324246.ece",
-    "time": "2026-08-09T10:09:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Part 1 Trailer: Nagarjuna hails ‘brilliant’ cut",
-    "desc": "Part 1\" as \"brilliant,\" lauding Ranbir Kapoor and Yash's performances. He noted rising audience expectations from trailers. The film, also starring Sai Pallavi, Sunny Deol and Ravi Dubey, releases in Indian theatres on November 8, 2026, ahead of international markets by two days.",
-    "img": "https://static.toiimg.com/photo/msid-133065731,imgsize-193985.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-really-liked-yash-and-ranbir-nagarjuna-praises-nitesh-tiwaris-ramayana-trailer-calls-it-brilliant-says-trailers-can-make-a-lot-of-difference-to-a-films-opening/articleshow/133065698.cms",
-    "time": "2026-08-09T10:06:25.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Centre weighs 200% increase in foreign investment approval threshold",
     "desc": "India's government is considering raising the foreign investment approval threshold significantly. This move aims to attract larger overseas investments and simplify the process. The current Rs 5,000 crore limit has been in place since 2015. Changes to downstream investment rules are also being explored to facilitate capital. These efforts are part of a broader strategy to boost economic growth.",
@@ -484,15 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/government-weighs-raising-fdi-approval-threshold-to-rs-15000-crore-from-rs-5000-crore-report/articleshow/133065304.cms",
     "time": "2026-08-09T10:04:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Jana Nayagan' BO Day 18 (Live): Vijay's film eyes Rs 320 crore worldwide",
-    "desc": "Jana Nayagan continues its theatrical run, showing a gradual slowdown in its third weekend. The film has garnered significant box office collections across India and overseas markets. Its total India net collection has reached Rs 188.50 crore and worldwide gross Rs 312.86 crore. The political action drama features Thalapathy Vijay in a lead role. The movie's performance reflects its strong audience reception since its release.",
-    "img": "https://static.toiimg.com/photo/msid-133065624,imgsize-879738.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-box-office-collection-day-18-live-vijay-starrer-eyes-rs-320-crore-worldwide-as-third-weekend-pace-slows-after-worldwide-gross-surpasses-rs-312-crore/articleshow/133065525.cms",
-    "time": "2026-08-09T09:56:08.000Z"
   },
   {
     "cat": "World",
@@ -531,15 +630,6 @@ const newsData_en = [
     "time": "2026-08-09T09:41:04.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Amitabh Bachchan shot dangerous tiger scene himself in ‘Khoon Pasina’ after Abhishek was born",
-    "desc": "Mohan Baggad recounted Amitabh Bachchan's daring tiger stunt in Khoon Pasina. The actor gained confidence after learning his son Abhishek was born. He declared himself a lion, mirroring his newborn son's arrival. Baggad also faced dangers, including a tiger attack during filming. Dharmendra also performed dangerous animal scenes without stunt doubles.",
-    "img": "https://static.toiimg.com/photo/msid-133065145,imgsize-315990.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-shot-dangerous-tiger-scene-himself-in-khoon-pasina-after-abhishek-was-born-action-master-recalls-a-lion-has-been-born-in-my-house/articleshow/133065134.cms",
-    "time": "2026-08-09T09:39:46.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Four of top 10 firms add Rs 1.43 lakh crore; SBI bags biggest gains",
     "desc": "Dalal Street wrapped up last week on a high note, showcasing impressive gains among leading firms. State Bank of India saw a remarkable surge in its market value, joining industry giants Reliance Industries and TCS, which also experienced robust growth. Conversely, several other major companies faced decreases in their market valuations. Despite some volatility, overall market indices noted steady gains as the week closed.",
@@ -549,24 +639,6 @@ const newsData_en = [
     "time": "2026-08-09T09:38:54.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Morrissey cancels his Las Vegas residency a week before his first show",
-    "desc": "Singer Morrissey has cancelled his Las Vegas residency just days before its scheduled start. Fans who purchased tickets will receive full refunds within two to three weeks. This marks another instance of show cancellations for the artist this year. Morrissey's upcoming tour dates across America and Europe remain scheduled. The exact reasons for the sudden Las Vegas cancellation are not yet clear.",
-    "img": "https://static.toiimg.com/photo/msid-133064999,imgsize-124110.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/morrissey-cancels-all-four-las-vegas-residency-shows-just-days-before-opening-night-refunds-promised-to-fans-but-september-to-december-shows-remain-scheduled/articleshow/133064981.cms",
-    "time": "2026-08-09T09:20:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Scott Eastwood recalls how Kevin Costner was asked to leave set",
-    "desc": "Scott Eastwood recounted a memorable incident involving his legendary father, Clint Eastwood, while on set. In a moment that showcased Clint's commitment to professionalism, he sent actor Kevin Costner home during the filming of 'A Perfect World' due to Costner's inflated ego. Upon his return the following day, Costner was rejuvenated and ready to act, demonstrating Clint's no-nonsense approach to maintaining order and discipline on set.",
-    "img": "https://static.toiimg.com/photo/msid-133064933,imgsize-233030.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/well-send-him-home-then-scott-eastwood-recalls-how-kevin-costner-was-asked-to-leave-a-perfect-world-set-by-clint-eastwood/articleshow/133064886.cms",
-    "time": "2026-08-09T09:11:55.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Gary Kirsten keeps close eye on India as Sri Lanka set visitors 207-run chase",
     "desc": "Sri Lanka's coach Gary Kirsten watched India's final warm-up match as they gear up for the upcoming Test series. Chasing a target of 207 runs after Sri Lanka Cricket XI's declaration, Devdutt Padikkal showcased his talent with an unbeaten 142, bolstering arguments for his selection at number three. However, India's Sai Sudharsan will miss out due to a toe injury.",
@@ -574,15 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/gary-kirsten-keeps-close-eye-on-india-as-sri-lanka-set-visitors-207-run-chase-in-warm-up/articleshow/133064617.cms",
     "time": "2026-08-09T09:04:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay Deverakonda seeks Goddess Mahankali’s blessings",
-    "desc": "Actors Vijay Deverakonda and Anand Deverakonda visited the Sri Simhavahini Mahankali Temple. They joined the Bonalu celebrations in Hyderabad's Old City on August 9. Director Sandeep Reddy Vanga also accompanied them for the auspicious temple visit. The trio offered prayers and sought blessings from Goddess Mahankali. They were seen interacting with devotees amidst the festive atmosphere.",
-    "img": "https://static.toiimg.com/photo/msid-133064632,imgsize-857278.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/vijay-deverakonda-seeks-goddess-mahankalis-blessings-at-lal-darwaza-bonalu-festivities-with-brother-anand-and-sandeep-reddy-vanga-as-fans-gather-to-see-the-stars-i-had-a-good-darshan/articleshow/133064534.cms",
-    "time": "2026-08-09T08:51:57.000Z"
   },
   {
     "cat": "Sports",
@@ -601,15 +664,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/australia-head-coach-mcdonald-flags-tough-calls-on-players-ipl-participation-ahead-of-packed-2027-schedule/article71322891.ece",
     "time": "2026-08-09T08:32:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Katy Perry",
-    "desc": "In a candid 2012 interview promoting her documentary film, Katy Perry shared a powerful message about embracing life’s ups and downs. Delving into her personal struggles, including her divorce, she highlighted the importance of accepting all facets of oneself, both the triumphs and the setbacks. This encouraging sentiment resonates strongly in today’s era of social media, reminding us to own our experiences.",
-    "img": "https://static.toiimg.com/photo/msid-133064378,imgsize-32800.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-katy-perry-i-am-strong-but-i-am-also-a-woman-who-goes-through-all-kinds-of-problems-and-highs-and-lows-the-roar-singers-lesson-on-accepting-all-parts-of-yourself/articleshow/133064350.cms",
-    "time": "2026-08-09T08:30:00.000Z"
   },
   {
     "cat": "Sports",
@@ -682,15 +736,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/indias-markets-have-strong-domestic-cushion-but-global-risks-loom-sebi/articleshow/133061474.cms",
     "time": "2026-08-09T02:34:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How Chess preserves an ideal in a fractured world",
-    "desc": "Aarav Dengla traces the journeys of chess players caught between their game and the politics of their countries. From Viktor Korchnoi’s defection from the Soviet Union to Alireza Firouzja’s break with Iran and Ian Nepomniachtchi playing under the FIDE flag after opposing Russia’s war, he explores how FIDE has stood between players and geopolitical upheavals, providing a neutral ground for those who could no longer compete under their national flags. For these stateless kings, the banner did not erase identity - it protected their freedom to play.",
-    "img": "https://static.toiimg.com/photo/msid-133061457,imgsize-1147923.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/the-stateless-kings-how-chess-preserves-an-ideal-in-a-fractured-world/articleshow/133061451.cms",
-    "time": "2026-08-09T02:21:07.000Z"
   },
   {
     "cat": "Sports",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/markets/sensex-climbs-374-points-on-buying-in-reliance-icici-bank-nifty-ends-flat/article71313269.ece",
     "time": "2026-08-08T18:57:49.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S. requests Filipino pastor’s extradition on sex-trafficking charges: Philippine Ambassador",
-    "desc": "The 2021 U.S. indictment alleges girls and women between the ages of 12 and 25 were recruited as personal assistants for Quiboloy to prepare his meals, clean his residence, give him massages, and have sex with him",
-    "img": "https://th-i.thgim.com/public/incoming/xheeua/article71313099.ece/alternates/LANDSCAPE_1200/Philippines_US_Religious_Leader_82611.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-requests-filipino-pastors-extradition-on-sex-trafficking-charges-philippine-ambassador/article71313074.ece",
-    "time": "2026-08-08T18:54:04.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Supporters of Imran Khan's party to march toward Islamabad on September 27: Khyber Pakhtunkhwa  CM",
-    "desc": "Referring to the completion of three years since what he termed Khan's \"abduction\", Suhail Afridi alleged that the former prime minister has been kept in solitary confinement and his sisters faced mistreatment while attempting to meet him in prison",
-    "img": "https://th-i.thgim.com/public/incoming/qx824n/article71313011.ece/alternates/LANDSCAPE_1200/2026-02-13T142308Z_1108202242_RC20LJA22I9Y_RTRMADP_3_PAKISTAN-POLITICS-KHAN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/supporters-of-imran-khans-party-to-march-toward-islamabad-on-september-27-khyber-pakhtunkhwa-cm/article71312908.ece",
-    "time": "2026-08-08T18:52:48.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "South Korea military",
-    "desc": "In a statement carried by North Korean state media on Wednesday, Kim Yo Jong — the sister of leader Kim Jong Un — said Pyongyang's \"leadership will set up additional military options which are obviously due to Japan's transformation\".",
-    "img": "https://th-i.thgim.com/public/incoming/q7sbzc/article71313005.ece/alternates/LANDSCAPE_1200/2025-09-12T093317Z_612832270_RC2PEV9AHBSL_RTRMADP_3_NORTHKOREA-UN-RIGHTS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/north-korea-fires-ballistic-missile-south-korea-military/article71312985.ece",
-    "time": "2026-08-08T18:51:19.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Hiroshima marks 81st atomic bomb anniversary as Mayor deplores pursuit of nuclear weapons",
-    "desc": "Prime Minister Sanae Takaichi, who attended the memorial for the first time as Prime Minister, said she will take “a realistic approach” toward achieving a world where nuclear weapons are never used, within the framework of the United Nations' treaty to prevent the spread of nuclear weapons",
-    "img": "https://th-i.thgim.com/public/incoming/h0yo0q/article71312187.ece/alternates/LANDSCAPE_1200/2026-08-05T235422Z_1572241638_RC2NSMAIAGIW_RTRMADP_3_WW2-ANNIVERSARY-HIROSHIMA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/hiroshima-marks-81st-atomic-bomb-anniversary-as-mayor-deplores-pursuit-of-nuclear-weapons/article71312178.ece",
-    "time": "2026-08-08T18:50:23.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Auto retail sales in July 2026 surge 26% YoY to 25.91 lakh units",
-    "desc": "Total EV retails touched 3,27,901 units — the highest for any month in history — with 2W and CV EV volumes at all-time records, taking overall EV penetration to about 12.7% from 9.6% a year ago says FADA.",
-    "img": "https://th-i.thgim.com/public/incoming/tk0kjx/article71312864.ece/alternates/LANDSCAPE_1200/2023-11-06T073929Z_1139731681_RC27G3A35FJ1_RTRMADP_3_INDIA-AUTOS-SALES.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/auto-retail-sales-in-july-2026-surge-26-yoy-to-2591-lakh-units/article71312828.ece",
-    "time": "2026-08-08T18:49:28.000Z"
   }
 ];
