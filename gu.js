@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "સોનું ફરી ચમક્યું! બે મહિનાના રેકોર્ડ હાઈએ પહોંચ્યો ભાવ, ચેક કરો લેટેસ્ટ રેટ",
+    "desc": "અમેરિકા અને ઈરાન વચ્ચેની અનિશ્ચિતતા વચ્ચે તાજેતરના દિવસોમાં સોનાના ભાવ ઘટીને 3,900 ડોલર પ્રતિ ઔંસ થયા હતા, પરંતુ મંગળવારે આંતરરાષ્ટ્રીય બજારમાં તેના ભાવમાં તીવ્ર વધારો જોવા મળ્યો, જે 4,480 ડોલર પ્રતિ ઔંસ પર પહોંચી ગયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-shines-again-price-hits-two-month-record-high-check-latest-rate-487365 ",
+    "time": "2026-08-11T04:15:40.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "વૈશ્વિક અનિશ્ચિતતાઓને પગલે ક્રૂડ ઓઈલના ભાવમાં ફરી ભડકો, જાણો કેટલે પહોંચ્યા પેટ્રોલ-ડીઝલના ભાવ?",
+    "desc": "અમેરિકા અને ઈરાન વચ્ચે જે ડામાડોળ પરિસ્થિતિ જોવા મળી રહી છે તેની અસર વૈશ્વિક બજારમાં ક્રૂડ ઓઈલના ભાવ પર જોવા મળી રહી છે. આજે ક્રૂડ ઓઈલનો ભાવ ઉછળીને વીકલી હાઈની નજીક પહોંચી ગયો. જાણો પેટ્રોલ ડીઝલના લેટેસ્ટ રેટ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/crude-oil-prices-have-surged-again-check-today-petrol-diesel-latest-price-in-gujarat-major-cities-487358 ",
+    "time": "2026-08-11T03:10:05.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran-US War: ટ્રમ્પનો વળતો પ્રહાર, કહ્યું: ઈરાન અમેરિકાને વળતર આપે, યુદ્ધમાં બંને દેશોને અત્યાર સુધી કેટલું નુકશાન થયું ? જાણો",
+    "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે હવે માંગ કરી છે કે ઈરાન દાયકાઓથી ચાલી રહેલા સંઘર્ષ માટે વળતર ચૂકવે. તેમણે તેમના સલાહકારોને એમ પણ કહ્યું છે કે ઈરાન સાથે ભવિષ્યમાં થતી કોઈપણ વાટાઘાટોમાં ઘાયલો અને માર્યા ગયેલા લોકો માટે વળતરનો સમાવેશ થવો જોઈએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/trump-said-iran-should-compensate-america-how-much-damage-has-both-countries-suffered-in-the-war-so-far-find-out-487357 ",
+    "time": "2026-08-11T02:56:04.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "વિરોધ પ્રદર્શનો દરમિયાન પોલીસ લાઠીચાર્જ...શું કહે છે નિયમો અને કાયદો?",
     "desc": "જ્યારે જ્યારે પણ વિરોધ પ્રદર્શનો જોઈએ છીએ ત્યારે મગજમાં એ સવાલ તો આવતો હશે કે પોલીસ પ્રદર્શનકારીઓ પર ક્યાં સુધી લાઠીચાર્જ કરી શકે નહીં? શાંતિપૂર્ણ પ્રદર્શન દરમિયાન પોલીસના શું પાવર છે? કઈ પરિસ્થિતિમાં બળ પ્રયોગ કરી શકાય અને દેખાવકારોના શું અધિકાર છે?",
@@ -324,15 +351,6 @@ const newsData_gu = [
     "time": "2026-08-08T15:14:40.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ફાઉન્ડેશનથી રિંગ સુધીની સફર : કોમનવેલ્થ ચેમ્પિયન અંકુશ પંઘાલે ડો. સુભાષ ચંદ્રાના લીધા આશીર્વાદ",
-    "desc": "સ્કોટલેન્ડના ગ્લાસગોમાં આયોજિત કોમનવેલ્થ ગેમ્સ 2026માં ભારત માટે મેડલ જીતનારા ખેલાડીઓમાં અંકુશ પંઘાલનો સમાવેશ થાય છે. ભારતે આ ગેમ્સમાં કુલ 39 મેડલ જીત્યા હતા, જેમાં 13 ગોલ્ડ, 17 સિલ્વર અને 9 બ્રોન્ઝનો સમાવેશ થાય છે. જેમાં અંકુશ પંઘાલે બોક્સિંગમાં ગોલ્ડ મેડલ જીત્યો હતો. દેશને ગૌરવ અપાવનાર સ્ટાર બોક્સરે ડૉ. સુભાષ ચંદ્રાના આશીર્વાદ લીધા હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/commonwealth-games-gold-medalist-ankush-panghal-meet-dr-subhash-chandra-487127 ",
-    "time": "2026-08-08T13:59:08.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "કન્ટેન્ટ ક્રિએટર્સે મોટો ઝટકો! Xએ બંધ કર્યો રેવેન્યુ શેરિંગ પ્રોગ્રામ, જાણો રૂપિયા કમાવવાની નવી રીત",
     "desc": "બોટ અકાઉન્ટ્સની સમસ્યાને ખતમ કરવા માટે એક્સે પોતાનો જૂનો રેવેન્યુ શેરિંગ પ્રોગ્રામ બંધ કરી દીધો છે. કંપનીએ હવે તેની જગ્યાએ નવો 'ઓરિજિનલ કન્ટેન્ટ રિવોર્ડ્સ પ્રોગ્રામ' શરૂ કર્યો છે. જાણો નવા નિયમો હેઠળ હવે ક્રિએટર્સ પ્લેટફોર્મથી કેવી રીતે કમાણી કરી શકશે.",
@@ -405,15 +423,6 @@ const newsData_gu = [
     "time": "2026-08-08T09:42:09.000Z"
   },
   {
-    "cat": "Business",
-    "title": "169 ગણાથી વધુ સબસ્ક્રાઇબ થયો આ IPO, GMP દેખાડે છે આટલો ફાયદો, જાણો",
-    "desc": "આ કંપનીના IPO 169 ગણાથી વધુ સબ્સક્રાઈબ થયો છે, ગ્રે માર્કેટમાં પણ કંપની સારા નફાના સંકેત આપી રહી છે. કંપની કામગીરી, જાળવણી અને સપોર્ટ સેવાઓ પૂરી પાડે છે. હાલમાં, તે નેટવર્ક કામગીરી અને જાળવણી, ઇલેક્ટ્રિકલ ઇન્ફ્રાસ્ટ્રક્ચર અને નેટવર્ક ડેવલપમેન્ટનું સંચાલન કરે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/this-ipo-was-subscribed-more-than-169-times-gmp-shows-so-much-profit-know-487103 ",
-    "time": "2026-08-08T09:19:02.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ICCના કયા નિયમને કારણે અફઘાનિસ્તાન વર્લ્ડ કપ 2027 માટે થયું ક્વોલિફાય ? આ ટીમનું તૂટ્યું સપનું",
     "desc": "અફઘાનિસ્તાને વર્લ્ડ કપ 2027 માટે પોતાનું સ્થાન કન્ફર્મ કરી લીધું છે. ત્યારે આ લેખમાં જાણીશું કે, ICCના કયા નિયમના કારણે અફઘાનિસ્તાન માટે આ સારા સમાચાર આવ્યા છે. તો અફઘાનિસ્તાન ક્વોલિફાય થતાં આ ટીમનું તૂટ્યું છે.",
@@ -430,15 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/tv-actress-shweta-tiwari-said-on-the-traitors-2-that-she-caught-her-husbands-doing-cheating-on-her-487098 ",
     "time": "2026-08-08T08:52:41.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "EPFOએ 8 PF નિયમોમાં કર્યો ફેરફાર! પૈસા ઉપાડવા, નોમિનેશન અને ક્લેમ પર આવ્યું મોટું અપડેટ",
-    "desc": "EPFOએ EPF, EPS અને EDLI યોજના 2026 હેઠળ PF સંબંધિત ઘણા મહત્વપૂર્ણ ફેરફારો કર્યા છે. નવા નિયમોમાં નોકરી છોડ્યા પછી સંપૂર્ણ PF બેલેન્સ ઉપાડવા માટે 12 મહિનાની બેરોજગારી, ઓનલાઈન નોમિનેશન અને PF અરજીઓના 20 દિવસના સમાધાન જેવી જોગવાઈઓ શામેલ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/epfo-changes-8-pf-rules-big-update-on-withdrawal-nomination-and-claim-487097 ",
-    "time": "2026-08-08T08:36:12.000Z"
   },
   {
     "cat": "Entertainment",
@@ -583,15 +583,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/ai-has-created-a-new-virus-in-the-lab-for-the-first-time-even-scientists-are-astonished-does-it-pose-a-threat-to-humans-486995 ",
     "time": "2026-08-07T08:06:10.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "શું દુબઈ ભારતનો ભાગ બનવાનું હતું? મિડલ ઈસ્ટ પર ચાલતું હતું ઈન્ડિયાનું શાસન! જાણો ઇતિહાસનું ચોંકાવનારું સત્ય",
-    "desc": "અનેક ભારતીયો માટે દુબઈ આજે પણ ફરવા માટે મનગમતું સ્થળ છે પરંતુ શું તમને ખબર છે કે એક સમયે દુબઈ લગભગ ભારતનો હિસ્સો બનવાની કગાર પર હતું? ઈતિહાસના પાના ફંફોળવાથી મળેલી આ રસપ્રદ માહિતી તમને પણ અચંબિત કરશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/indian-history-was-dubai-supposed-to-become-part-of-india-486990 ",
-    "time": "2026-08-07T07:11:14.000Z"
   },
   {
     "cat": "Tech",

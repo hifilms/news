@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "T Dilip reflects on Virat Kohli's influence on Indian team in terms of setting fielding standards",
+    "desc": "Former India fielding coach T Dilip believes Virat Kohli’s intensity remains one of his biggest strengths on the field. He said that the former captain continues to raise the standards of those around him, adding...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/t-dilip-reflects-on-virat-kohli-s-influence-on-indian-team-in-terms-of-setting-fielding-standards-2026-08-11-1050984",
+    "time": "2026-08-11T03:53:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ajinkya Rahane reveals chat with Sachin Tendulkar after his sudden retirement announcement",
+    "desc": "Former India cricketer Ajinkya Rahane announced his retirement late last month. Since then, he has signed for Amsterdam Flames in the European T20 competition. In the meantime, the Mumbai batter revealed that it was legendary...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ajinkya-rahane-reveals-chat-with-sachin-tendulkar-after-his-sudden-retirement-announcement-2026-08-11-1050979",
+    "time": "2026-08-11T03:15:14.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Afghanistan earn direct entry into ODI World Cup 2027 after hard-fought win over Ireland",
     "desc": "Afghanistan have booked a direct place in the upcoming ODI World Cup 2027 after a hard-fought win over Ireland in the third ODI at Civil Service Cricket Club, Belfast, on Monday, August 10. The Rahmat...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/which-ipl-franchises-are-interested-in-hardik-pandya-trade-deal-as-talks-hog-limelight-2026-08-10-1050925",
     "time": "2026-08-10T10:39:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jose Mourinho reflects on almost joining Manchester United after Sir Alex's departure in 2013",
-    "desc": "Legendary former Manchester United head coach Sir Alex Ferguson recently came forward and talked about the conversation that he had with Jose Mourinho after the former’s departure as the side’s head coach back in 2013....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/jose-mourinho-reflects-on-almost-joining-manchester-united-after-sir-alex-s-departure-in-2013-2026-08-10-1050916",
-    "time": "2026-08-10T09:01:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'That innings changed everything': Ajinkya Rahane reveals the moment that rejuvenated his IPL career",
-    "desc": "Former India cricketer Ajinkya Rahane recently came forward and talked about his recently rejuvenated IPL (Indian Premier League) career. It is worth noting that Rahane recently took to social media and announced his retirement from...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/that-innings-changed-everything-ajinkya-rahane-reveals-the-moment-that-rejuvenated-his-ipl-career-2026-08-10-1050908",
-    "time": "2026-08-10T07:53:00.000Z"
   }
 ];
