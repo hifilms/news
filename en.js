@@ -1,12 +1,48 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "NASA invites ISRO to join Moon Base programme",
+    "desc": "NASA has officially invited the Indian Space Research Organisation (ISRO) to collaborate on its ambitious Moon Base programme, as announced during the recent ninth meeting of the India-U.S. Civil Space Joint Working Group in Bengaluru.",
+    "img": "https://th-i.thgim.com/public/incoming/nxaoix/article71332449.ece/alternates/LANDSCAPE_1200/2026-06-30T210438Z_1786015746_RC2BQLA8NKLC_RTRMADP_3_SPACE-NASA-LANDERS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/science/nasa-invites-isro-to-join-moon-base-programme/article71332292.ece",
+    "time": "2026-08-11T21:23:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Hemant Soren calls BJP a ‘parasite’ as Jharkhand bandh hits normal life",
+    "desc": "In Assembly address, he says a conspiracy was being hatched from Lucknow where the company behind alleged irregularities was located in an attempt to mislead the youth of Jharkhand; a mixed response was witnessed during the Jharkhand bandh call given by the BJP over the police action on the students",
+    "img": "https://th-i.thgim.com/public/incoming/x4r2ec/article71334002.ece/alternates/LANDSCAPE_1200/PTI08_11_2026_000107A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-cm-hemant-soren-calls-bjp-a-parasite/article71332841.ece",
+    "time": "2026-08-11T21:01:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Nations Cup was a great success, now determined to win World Cup: Salima Tete",
+    "desc": "India head into the World Cup on the back of winning the FIH Nations Cup in New Zealand, and Tete believes the momentum from that success can propel the team to another medal-winning campaign on the biggest stage, the World Cup, to be held at jointly hosted by the Netherlands and Belgium from August 15 to 30",
+    "img": "https://th-i.thgim.com/public/news/national/4kuf1v/article71333952.ece/alternates/LANDSCAPE_1200/AFP__20260729__C32U6GM__v1__HighRes__FhockeyIndWcAsiad2026Oly2028.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/hockey/nations-cup-was-a-great-success-now-determined-to-win-world-cup-salima-tete/article71333935.ece",
+    "time": "2026-08-11T19:17:08.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Kerala CPI(M) State secretary  accuses CMO of harbouring synthetic drug peddlers",
     "desc": "CPI(M) State secretary M.V. Govindan says police “inadvertently” arrested Youth Congress leaders Muhammad Hussien and P.A. Abdul Salam and P. Abbas based on anonymous information without realising their political heft. He alleges that the accused managed Chief Minister’s social media handles, including the dissemination of social media reels lionising Satheesan",
     "img": "https://th-i.thgim.com/public/incoming/c8izdd/article71333316.ece/alternates/LANDSCAPE_1200/Opposition-sharGR6GBHB69.3.jpg.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/kerala-cpim-state-secretary-accuses-cmo-of-harbouring-synthetic-drug-peddlers/article71332729.ece",
-    "time": "2026-08-11T18:42:01.000Z"
+    "time": "2026-08-11T19:12:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Virat’s intensity inspires 5 others to stretch limits when fielding with him: T Dilip",
+    "desc": "“When it comes to Virat Kohli, intensity is non-negotiable. You have seen him in the powerplay, how he is as a batsman, whether at cover or short mid-wicket, with his reflexes and with his dives, is admirable,” Dilip said",
+    "img": "https://th-i.thgim.com/public/incoming/fdc3w5/article71333932.ece/alternates/LANDSCAPE_1200/2189483252.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/virats-intensity-inspires-5-others-to-stretch-limits-when-fielding-with-him-t-dilip/article71333928.ece",
+    "time": "2026-08-11T19:00:21.000Z"
   },
   {
     "cat": "Politics",
@@ -73,30 +109,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Actor Prakash Raj claims his name deleted from electoral rolls in Bengaluru",
-    "desc": "In a video post he shared on his 'X' account, the actor claimed that he was one of the 65 lakh voters whose voting rights had been deleted after the Special Intensive Revision of electoral rolls",
-    "img": "https://th-i.thgim.com/public/incoming/scriyh/article71333110.ece/alternates/LANDSCAPE_1200/PTI04_28_2026_000600B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/sir-actor-prakash-raj-claims-his-name-deleted-from-electoral-rolls-in-bengaluru/article71333103.ece",
-    "time": "2026-08-11T17:20:20.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "FIR against ex-TMC MLA over 'hurried' cremation of rape victim",
     "desc": "In a significant development, an FIR has been filed against former TMC MLA Nirmal Ghosh and two individuals in connection with the alleged swift cremation of a junior doctor last year. The doctor's father alleged that the cremation was executed hastily to thwart an autopsy and cover up evidence. Meanwhile, the CBI is independently delving into the related rape and murder investigation.",
     "img": "https://static.toiimg.com/photo/msid-133161401,imgsize-87572.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/rg-kar-case-fir-against-ex-tmc-mla-over-hurried-cremation-of-rape-victim/articleshow/133161241.cms",
     "time": "2026-08-11T17:15:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Centre’s panel on demographic changes reaches Jammu, meets local groups",
-    "desc": "“Jagti is home to more than 5,000 Kashmiri Pandit families. The committee met the residents and interacted with them. It listened carefully to their sentiments and suggestions,” says Relief and Rehabilitation Commissioner (Migrants) Arvind Karwani",
-    "img": "https://th-i.thgim.com/public/incoming/wkan17/article71333702.ece/alternates/LANDSCAPE_1200/PTI08_11_2026_000347B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/centres-panel-on-demographic-changes-reaches-jammu-meets-local-groups/article71333579.ece",
-    "time": "2026-08-11T17:01:49.000Z"
   },
   {
     "cat": "Sports",
@@ -124,24 +142,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/70-dead-204-roads-blocked-himachal-pradesh-reels-under-monsoon-fury-damage-tops-rs-910-crore/articleshow/133160297.cms",
     "time": "2026-08-11T16:42:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Supreme Court agrees to Tamil Nadu government’s plea for early hearing of Cauvery water dispute",
-    "desc": "T.N. Government said Karnataka had continued to defy the orders of the Cauvery Tribunal for allocation of water to its neighbour except a few times when there were inevitable surpluses in the reservoirs on account of floods",
-    "img": "https://th-i.thgim.com/public/incoming/modvi9/article71327275.ece/alternates/LANDSCAPE_1200/TH03-KDR--replaGMHGBH060.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/supreme-court-agrees-to-tn-government-plea-to-hear-cauvery-water-dispute-early/article71327167.ece",
-    "time": "2026-08-11T16:35:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Karnataka govt to evaluate CWRC recommendation",
-    "desc": "Responding to the CWRC recommendation on releasing Cauvery water to Tamil Nadu, Karnataka ministers Santosh Lad and Ajay Singh said the state government will review the proposal before making a decision. The matter will be evaluated by the Chief Minister and the concerned minister before a final call is taken.",
-    "img": "https://th-i.thgim.com/public/incoming/7c4jd/article71333668.ece/alternates/LANDSCAPE_1200/TH10-KDR-SupremGUOGCH4KO.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/shorts/cauvery-water-release-to-tn-karnataka-govt-to-evaluate-cwrc-recommendation/article71333669.ece",
-    "time": "2026-08-11T16:28:31.000Z"
   },
   {
     "cat": "Business",
@@ -315,15 +315,6 @@ const newsData_en = [
     "time": "2026-08-11T12:51:57.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "UK-based OCI holder booked under new Maharashtra law",
-    "desc": "Pune Police registered an FIR against a UK OCI cardholder for alleged religious conversion attempts. The accused allegedly spoke about Jesus and made statements about Hindu deities. In a separate case, a 21-year-old man was arrested under the Maharashtra Freedom of Religion Act. This development follows a wider debate over religious conversion and foreign funding. Maharashtra CM Devendra Fadnavis stated that transparent organizations have nothing to fear.",
-    "img": "https://static.toiimg.com/photo/msid-133154566,imgsize-63394.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pune-conversion-case-uk-based-oci-holder-booked-under-new-maharashtra-law/articleshow/133154566.cms",
-    "time": "2026-08-11T12:49:09.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Munna Bhaiya comeback thrills fans",
     "desc": "Excitement is palpable as the trailer for Mirzapur The Movie drops, fueling fan enthusiasm. Returning favorites such as Guddu Pandit and Munna Bhaiya navigate the tumultuous power plays, while viewers buzz about Ravi Kishan’s striking return. This adaptation broadens the narrative, emphasizing the ongoing battle for the coveted Gaddi of Mirzapur.",
@@ -340,15 +331,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/sukriti-kakar-engaged-to-shoumik-shetty-shares-proposal-photos-prakriti-kakar-welcomes-brother-in-law/articleshow/133153491.cms",
     "time": "2026-08-11T12:28:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Ethanol-diesel blending may not be viable, tests flag sharp drop in flash point",
-    "desc": "Recent tests indicate that blending ethanol with diesel is not a viable option, as there is a significant decrease in flash points. In response, the government is investigating the use of ethanol as a cleaner cooking fuel to lessen dependency on LPG imports. Oil retailers have assessed the potential for ethanol-diesel blending through their dedicated research centers.",
-    "img": "https://static.toiimg.com/photo/msid-133154228,imgsize-193758.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ethanol-diesel-blending-may-not-be-viable-tests-flag-sharp-drop-in-flash-point/articleshow/133154106.cms",
-    "time": "2026-08-11T12:17:57.000Z"
   },
   {
     "cat": "Sports",
@@ -855,15 +837,6 @@ const newsData_en = [
     "time": "2026-08-09T15:34:16.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Jaiswal, Gill get batting practice as India beat Sri Lanka XI by six wickets in warm-up",
-    "desc": "Chasing 207 for victory, India completed the target in 45 overs, finishing on 214 for four with Siraj smashing 32 off just 15 balls, including three successive sixes, to bring the game to an emphatic end",
-    "img": "https://th-i.thgim.com/public/incoming/cz9wsf/article71324857.ece/alternates/LANDSCAPE_1200/04_RVM_3038.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/jaiswal-gill-get-batting-practice-as-india-beat-sri-lanka-xi-by-six-wickets-in-warm-up/article71324834.ece",
-    "time": "2026-08-09T12:54:56.000Z"
-  },
-  {
     "cat": "Business",
     "title": "UPI stays free for users, vast majority of transactions to remain free for merchants as well, says government",
     "desc": "The government said any future merchant discount rate (MDR), if introduced, would apply only to a limited set of merchant transactions above a specified threshold and at a nominal rate, which would be lower than typical debit and credit card MDRs",
@@ -898,5 +871,32 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-maadhu-balaji-on-keeping-crazy-mohans-legacy-alive-with-chamber-of-humour/article71320617.ece",
     "time": "2026-08-09T00:15:45.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Teaching AI to speak India",
+    "desc": "Artificial intelligence can chat, translate and answer questions but only if it understands your language. At IIT Madras, researchers at AI4Bharat are travelling across India, collecting voices, preserving dialects and teaching AI to understand the country’s incredible linguistic diversity.",
+    "img": "https://th-i.thgim.com/public/incoming/y693sa/article71280832.ece/alternates/LANDSCAPE_1200/iStock-1066071372.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/internet/teaching-ai-to-speak-india/article71280380.ece",
+    "time": "2026-08-09T00:15:19.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Hero MotoCorp Q1 PAT down 16.86% at ₹1,417.93 crore",
+    "desc": "The previous year PAT included a one-time gain of ₹722 crore on account of dilution of the company's share of investment in associates consequent to public issue and private placement, Hero MotoCorp said in a statement",
+    "img": "https://th-i.thgim.com/public/incoming/xx3xy6/article71319140.ece/alternates/LANDSCAPE_1200/Hero-MotoCorp-mG1NG8GMNO.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/hero-motocorp-q1-pat-down-1686-at-141793-crore/article71319133.ece",
+    "time": "2026-08-08T20:48:47.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Revamp of Model Bilateral Investment Treaty in works, to be presented to Cabinet soon: Secy",
+    "desc": "\"The BIT is under review, and we are looking at many other clauses based on our experience in the negotiations and based on global practices...it is a work in progress. Consultations are underway, and we are reviewing the Model BIT,\" says Anuradha Thakur",
+    "img": "https://th-i.thgim.com/public/incoming/5vuq46/article71319125.ece/alternates/LANDSCAPE_1200/B3_RVM_6359.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/revamp-of-model-bilateral-investment-treaty-in-works-to-be-presented-to-cabinet-soon-secy/article71319094.ece",
+    "time": "2026-08-08T20:46:24.000Z"
   }
 ];
