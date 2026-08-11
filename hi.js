@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "What will happen to WTC 2025-27 points table if India win Sri Lanka Test series 2-0?",
+    "desc": "India are set to meet Sri Lanka for a crucial two-match Test series in a few days as they look to make their push for the World Test Championship final. The Shubman Gill-led team has...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/what-will-happen-to-wtc-2025-27-points-table-if-india-win-sri-lanka-test-series-2026-08-11-1051071",
+    "time": "2026-08-11T15:25:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "After Nations Cup success, India women's hockey team captain eyes World Cup gold",
+    "desc": "Following their victory in the Nations Cup, India are now eyeing glory at the upcoming women's Hockey World Cup 2026. Women's team skipper Salima Tete is determined to end the long wait for a medal...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/hockey/after-nations-cup-success-india-womens-hockey-team-captain-eyes-world-cup-gold-2026-08-11-1051066",
+    "time": "2026-08-11T14:39:53.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Lionel Messi takes indefinite break from football after father's death, no return date set",
     "desc": "Argentine legend Lionel Messi has reportedly taken a break from football following the death of his father, Jorge Messi. His father, Jorge, passed away a few days ago at a clinic in Rosario after a...",
     "img": "",
@@ -10,7 +28,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "South Africa name Bjorn Fortuin as captain Namibia white-ball tour, Duan Jansen gets maiden call up",
+    "title": "South Africa name Bjorn Fortuin as captain for Namibia white-ball tour, Duan Jansen gets maiden call up",
     "desc": "South Africa have named their squad for the white-ball tour of Namibia, as Bjorn Fortuin will be captaining the side to kick off a busy summer for the Proteas men's side. Most of the regular...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/can-cameron-green-and-beau-webster-coexist-in-australia-s-playing-xi-vs-bangladesh-latter-answers-2026-08-11-1051006",
     "time": "2026-08-11T07:36:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "E-Cricket can have Olympics future amid IOC's e-sports interest, says Rajan Navani at GEPL Season 3 finale",
-    "desc": "Can the Olympics ever have esports in the mix? It’s not a fresh discussion. The International Olympic Committee (IOC) announced plans in 2023 to create the Olympic Esports Games. The idea moved an inch closer...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/gepl-founder-rajan-navani-targets-olympics-future-for-e-cricket-after-ioc-s-interest-in-e-sports-2026-08-11-1051000",
-    "time": "2026-08-11T06:44:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "West Indies, two-time ODI world champions, set to play third consecutive qualifiers",
-    "desc": "After Afghanistan became the 10th team to qualify for the ODI World Cup 2027, West Indies’ future is once again sealed, as the Caribbeans will have to feature in the qualifiers once again to guarantee...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/west-indies-two-time-odi-world-champions-set-to-play-third-consecutive-qualifiers-2026-08-11-1050990",
-    "time": "2026-08-11T05:07:11.000Z"
   }
 ];

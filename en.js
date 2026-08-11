@@ -1,30 +1,210 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Kerala Police face flak for violating Supreme Court orders and law to be followed while arresting Dr. Ram, T.G. Mohandas",
-    "desc": "Legal sources say that the Supreme Court has clearly recognised two distinct obligations on the part of the police that the arrested person should be informed of the grounds/reasons for arrest; and a relative/friend should be informed of the fact of the arrest",
-    "img": "https://th-i.thgim.com/public/incoming/hy7tt7/article71332306.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-11%20at%2010.26.25.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-police-face-flak-for-violating-supreme-court-orders-and-law-to-be-followed-while-arresting-dr-ram-tg-mohandas/article71331922.ece",
-    "time": "2026-08-11T12:48:27.000Z"
+    "title": "MP Parimal Nathwani urges Jharkhand CM Hemant Soren to resolve students' demands through dialogue following lathi charge",
+    "desc": "posted, \"Earnestly request Hon'ble CM Shri Hemant Soren and the Jharkhand government to sympathetically consider the demands of the students. I strongly believe that a peaceful resolution through dialogue is the best way forward to protect the aspirations of our young candidates.\"",
+    "img": "https://static.toiimg.com/photo/msid-133159071,imgsize-232754.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/mp-parimal-nathwani-urges-jharkhand-cm-hemant-soren-to-resolve-students-demands-through-dialogue-following-lathi-charge/articleshow/133159045.cms",
+    "time": "2026-08-11T15:33:05.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Schools closed in Himachal’s Kullu in view of heavy rains; orange alert issued in three districts",
-    "desc": "The Mandi-Manali stretch of the Kirathpur-Manali National Highway was closed to vehicular traffic following a landslip near the Jhalogi tunnel in Mandi district. The road will be opened after the rain stops and the situation is normalised, says officials",
-    "img": "https://th-i.thgim.com/public/incoming/dqbrvk/article71332312.ece/alternates/LANDSCAPE_1200/PTI08_11_2026_000284B.jpg",
+    "title": "Former Kerala Minister Ganesh Kumar’s festering dispute with NSS leadership erupts in public domain",
+    "desc": "Ganesh Kumar, who was dropped from the NSS director board following internal disputes in June, launches an oblique attack against the social organisation’s general secretary G. Sukumaran Nair, accusing the incumbent leadership of corruption, nepotism and “misplaced notions” of one-upmanship",
+    "img": "https://th-i.thgim.com/public/incoming/meonq6/article71333410.ece/alternates/LANDSCAPE_1200/80968_24_8_2024_18_51_43_4_NIT_8907.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/himachal-pradesh/schools-closed-in-himachals-kullu-in-view-of-heavy-rains-orange-alert-issued-in-three-districts/article71332069.ece",
-    "time": "2026-08-11T12:39:19.000Z"
+    "url": "https://www.thehindu.com/news/national/kerala/former-kerala-minister-ganesh-kumars-festering-dispute-with-nss-leadership-erupts-in-public-domain/article71333139.ece",
+    "time": "2026-08-11T15:31:14.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Direct tax collections rise sharply to Rs 8.11 lakh crore; non-corporate taxes lead",
+    "desc": "India's direct tax collections have surged impressively, seeing an increase of over twenty-three percent. As of August 10, gross direct tax collections reached a staggering Rs 9.55 lakh crore. The bulk of these collections stemmed from non-corporate tax receipts, while both corporate tax collections and Securities Transaction Tax experienced notable year-on-year growth. Nevertheless, government-issued refunds only saw a slight uptick during this period.",
+    "img": "https://static.toiimg.com/photo/msid-133159034,imgsize-83198.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/direct-tax-collections-rise-sharply-to-rs-8-11-lakh-crore-non-corporate-taxes-lead/articleshow/133158822.cms",
+    "time": "2026-08-11T15:29:19.000Z"
   },
   {
     "cat": "Politics",
-    "title": "PM asks everyone to participate in ‘Har Ghar Tiranga’ campaign on Independence Day",
-    "desc": "‘On this Independence Day, let us celebrate the Tricolour at every home, in every heart,’ Modi says; the NDA’s parliamentary party group waves the national flag at its weekly meeting in the Parliament House complex",
-    "img": "https://th-i.thgim.com/public/incoming/mylv1g/article71332374.ece/alternates/LANDSCAPE_1200/PTI08_11_2026_000029B.jpg",
+    "title": "Kerala CPI(M) State secretary  accuses CMO of harbouring synthetic drug peddlers",
+    "desc": "CPI(M) State secretary M.V. Govindan says police “inadvertently” arrested Youth Congress leaders Muhammad Hussien and P.A. Abdul Salam and P. Abbas based on anonymous information without realising their political heft. He alleges that the accused managed Chief Minister’s social media handles, including the dissemination of social media reels lionising Satheesan",
+    "img": "https://th-i.thgim.com/public/incoming/c8izdd/article71333316.ece/alternates/LANDSCAPE_1200/Opposition-sharGR6GBHB69.3.jpg.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/pm-asks-everyone-to-participate-in-har-ghar-tiranga-campaign-on-independence-day/article71332184.ece",
-    "time": "2026-08-11T12:30:26.000Z"
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-cpim-state-secretary-accuses-cmo-of-harbouring-synthetic-drug-peddlers/article71332729.ece",
+    "time": "2026-08-11T15:14:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Suriya reveals why his 1,700 sq ft Mumbai home feels better",
+    "desc": "Actor Suriya enjoys the intimate charm of his 1700 sq ft home in Mumbai, a space filled with warmth and comfort. The couple moved here to reinforce family ties with Jyotika's parents during the pandemic. Their transition underscores the significance of family in challenging times. Don't miss Suriya's upcoming film 'Vishwanath and Sons,' releasing on August 14.",
+    "img": "https://static.toiimg.com/photo/msid-133158798,imgsize-669184.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vishwanath-and-sons-star-suriya-reveals-why-his-1700-sq-ft-mumbai-home-feels-better-than-chennai-bungalow/articleshow/133158617.cms",
+    "time": "2026-08-11T15:11:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala Muttil tree-felling case: two accused appear before Chottanikkara court in cheating case",
+    "desc": "The court had issued non-bailable warrants to three following their failure to appear on Monday in connection with a petition filed by M.M. Aliyar, proprietor of Malabar Timber Industries, Karimugal, alleging fraud in the sale of timber from illegally felled trees in 2021,",
+    "img": "https://th-i.thgim.com/public/incoming/70le82/article71332830.ece/alternates/LANDSCAPE_1200/IMG_09tvwy-police-probe-_2_1_4V8M7DLS.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-muttil-tree-felling-case-chottanikkara-court-issues-non-bailable-warrants-to-augustine-brothers-in-cheating-case/article71332575.ece",
+    "time": "2026-08-11T15:09:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "As Polavaram looms, Koyas cast one last net in Godavari floods",
+    "desc": "Using the traditional bamboo-framed Pander Valla, Koya fishers make the most of the flood season on the Godavari, Sabari and their tributaries as the Polavaram project threatens to submerge their villages and disrupt centuries-old ties with the rivers",
+    "img": "https://th-i.thgim.com/public/incoming/rivxh8/article71333117.ece/alternates/LANDSCAPE_1200/10237_11_8_2026_19_51_35_1_DSC04445.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/as-polavaram-looms-koyas-cast-one-last-net-in-godavari-floods/article71332918.ece",
+    "time": "2026-08-11T15:00:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'I don't aim for a bulky body'",
+    "desc": "Veteran actor Sunny Deol, at 68, continues to embrace action-hero roles, starring in the upcoming period drama 'Batwara 1947'. He says that age doesn't dictate his choices, as he still feels like a young hero and maintains his fitness for energy and health. The actor opens up on his fitness secrets, his diet and how he is not in the mood to step down as an action star anytime soon.",
+    "img": "https://static.toiimg.com/photo/msid-47529300.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunny-deol-reveals-his-fitness-regime-at-68-as-he-continues-action-packed-roles-i-dont-aim-for-a-bulky-body-no-diet-as-i-ended-up-eating-samosas-desi-ghee-parathas/articleshow/133158069.cms",
+    "time": "2026-08-11T14:49:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Actor Prakash Raj claims his name deleted from electoral rolls in Bengaluru",
+    "desc": "In a video post he shared on his 'X' account, the actor claimed that he was one of the 65 lakh voters whose voting rights had been deleted after the Special Intensive Revision of electoral rolls",
+    "img": "https://th-i.thgim.com/public/incoming/scriyh/article71333110.ece/alternates/LANDSCAPE_1200/PTI04_28_2026_000600B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/sir-actor-prakash-raj-claims-his-name-deleted-from-electoral-rolls-in-bengaluru/article71333103.ece",
+    "time": "2026-08-11T14:43:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Loophole’ got right wing commentator TG Mohandas bail, says Kerala minister",
+    "desc": "K. Muraleedharan, the Health Minister of Kerala, indicated that TG Mohandas obtained bail thanks to a technicality in the law. In response, BJP MLA V. Muraleedharan criticized this as an example of the state's selective retaliation. Mohandas was detained over comments related to a student protest in New Delhi and faced charges under new legislations alongside the IT Act due to a complaint regarding videos that allegedly disrupted public order.",
+    "img": "https://static.toiimg.com/photo/msid-133158009,imgsize-134792.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/loophole-got-right-wing-commentator-tg-mohandas-bail-says-kerala-minister/articleshow/133157818.cms",
+    "time": "2026-08-11T14:40:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "In Kolkata, At the Still Point brings two performances that explore belonging",
+    "desc": "At the eighth edition of At the Still Point, Madhya Pradesh’s Gram Art Project and Manipuri artiste Surjit Nongmeikapam use Cotton Stainers and Fountain to explore women’s labour, seed sovereignty, memory, violence, displacement and what it means to find — or lose — a sense of home.",
+    "img": "https://th-i.thgim.com/public/incoming/q7hbr6/article71327089.ece/alternates/LANDSCAPE_1200/Surjit%202.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/life-and-style/in-kolkata-at-the-still-point-brings-two-performances-that-explore-belonging/article71327081.ece",
+    "time": "2026-08-11T14:36:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PSG vs Aston Villa, UEFA vs FIFA and the Somali ref barred from the World Cup",
+    "desc": "The disharmony between UEFA and FIFA has increased since, with UEFA leading the campaign to oust Infantino from the FIFA presidency over his recent — aborted — plan to sell an interest in the World Cup",
+    "img": "https://th-i.thgim.com/public/incoming/tkxx87/article71332872.ece/alternates/LANDSCAPE_1200/UEFA_Super_Cup_66174.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/super-cup-psg-vs-aston-villa-uefa-vs-fifa-and-the-somali-ref-barred-from-the-world-cup/article71332713.ece",
+    "time": "2026-08-11T13:58:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "After being denied a direct spot, how can Windies qualify for the 2027 WC?",
+    "desc": "West Indies, two-time ODI World Cup champions, will miss out on direct qualification for the 2027 tournament and must go through the Qualifier in February. Winning it secures direct entry to the second round, while finishing second to fourth means another hurdle. Having missed the 2023 World Cup and 2025 Champions Trophy, the Caribbean side cannot afford another setback.",
+    "img": "https://static.toiimg.com/photo/msid-133156615,imgsize-127588.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/after-being-denied-a-direct-spot-how-can-west-indies-qualify-for-the-2027-odi-world-cup/articleshow/133156408.cms",
+    "time": "2026-08-11T13:49:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "HC rules in the favour of Janhvi, orders removal of obscene content from 5000 pages",
+    "desc": "The Delhi High Court has ordered removal of some online content targeting Janhvi Kapoor. The court clarified that personality rights cannot be broadly applied to restrict expression. It asked Kapoor's lawyers to narrow down unlawful content claims for action. Blanket removal requests for fan pages and dynamic injunctions were rejected by the judge. The case aims to bring clarity to celebrity personality rights in the digital age.",
+    "img": "https://static.toiimg.com/photo/msid-133156596,imgsize-254886.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/delhi-high-court-rules-in-the-favour-of-janhvi-kapoor-as-it-orders-removal-of-obscene-content-from-5000-pages-on-the-internet-her-plea-covered-allegedly-pornographic-ai-fake-content/articleshow/133156474.cms",
+    "time": "2026-08-11T13:48:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Badminton World championships",
+    "desc": "The 34-year-old believes the next generation will eventually have to take over, and that thought keeps him on his toes; the veteran adds that he’ll put in everything to get back to the top 10 within the next two years",
+    "img": "https://th-i.thgim.com/public/sport/4no4fq/article71332711.ece/alternates/LANDSCAPE_1200/PRANNOY.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/hs-prannoy-not-ready-to-give-up-torch-comeback-world-championships-delhi-2026-interview/article71332535.ece",
+    "time": "2026-08-11T13:35:10.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "What is MDR that is being proposed for UPI transactions, who pays the final cost? Explained",
+    "desc": "The government has clarified that UPI will continue to remain free for consumers and no transaction charges will be applicable to person-to-person payments. The government has also said that if an MDR is introduced in the future it will only be applicable to a limited category of merchant transactions.",
+    "img": "https://static.toiimg.com/photo/msid-133155950,imgsize-569029.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/what-is-mdr-that-is-being-proposed-for-upi-transactions-who-pays-the-final-cost-explained/articleshow/133155789.cms",
+    "time": "2026-08-11T13:25:10.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "India’s Russian oil imports hit 48% as U.S. readies 100% tariffs",
+    "desc": "Russia’s share of India’s crude oil imports hit an all-time high of 48% in June 2026, even as the United States moves closer to imposing tariffs of up to 100% on countries buying Russian oil and gas. India imported 8.7 million metric tonnes of Russian crude in June, while overall crude imports fell sharply. The UAE also recorded a historic 17.5% share, meaning Russia and the UAE together accounted for nearly two-thirds of India’s oil imports.",
+    "img": "https://th-i.thgim.com/public/news/national/85hk7i/article71332466.ece/alternates/LANDSCAPE_1200/Chamoli%20flash%20flood.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-indias-russian-oil-imports-hit-48-as-us-readies-100-tariffs/article71332467.ece",
+    "time": "2026-08-11T13:10:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Duan Jansen, Marco’s twin brother, earns maiden South Africa call-up for Namibia tour",
+    "desc": "Duan Jansen, twin brother of Marco, has received his maiden South Africa call-up for the Namibia tour. The Proteas will play a T20I tri-series against Namibia and Zimbabwe before a historic three-match ODI series against Namibia. Bjorn Fortuin will captain the squad, while several domestic performers have earned opportunities to strengthen South Africa’s international depth.",
+    "img": "https://static.toiimg.com/photo/msid-133155571,imgsize-82330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/duan-jansen-marcos-twin-brother-earns-maiden-south-africa-call-up-for-namibia-tour/articleshow/133155140.cms",
+    "time": "2026-08-11T13:02:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Eetha' New Release Date: Shraddha and Laxman Utekar film moves to December 4",
+    "desc": "Shraddha Kapoor's highly anticipated biopic Eetha has shifted its release date. The film will now premiere on December 4, avoiding a box-office clash. This new date places Eetha against an upcoming comedy film. The movie is based on the life of Vithabai Narayangaonkar. Makers plan to launch the trailer from Narayangaon.",
+    "img": "https://static.toiimg.com/photo/msid-133155510,imgsize-512168.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shraddha-kapoors-eetha-new-release-date-laman-utekars-film-moves-to-dec-4-averts-box-office-clash-with-yashs-toxic-set-to-clash-with-prabhas-fauji/articleshow/133155003.cms",
+    "time": "2026-08-11T13:01:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Old allies, new equation? Why SAD and BJP may join hands for 2027 Punjab assembly elections",
+    "desc": "Haryana chief minister Nayab Singh Saini has categorically denied any prospective alliance with Shiromani Akali Dal for 2027 Punjab assembly elections. However, recent discussions between Prime Minister Narendra Modi and SAD leader Sukhbir Singh Badal have led to renewed speculation around possible tie-up. After the meeting, SAD, whose electoral fortunes have waned significantly, changed its perspective on delimitation. The BJP is reportedly keen on dominating any potential alliance.",
+    "img": "https://static.toiimg.com/photo/msid-133156246,imgsize-120794.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/old-allies-new-equation-why-sad-and-bjp-may-join-hands-for-2027-punjab-assembly-elections/articleshow/133151042.cms",
+    "time": "2026-08-11T12:58:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "MEA rejects China’s 'objections' on Arunachal; Nasa invites Isro for Moon base program &amp; more",
+    "desc": "India firmly reaffirmed its position on Arunachal Pradesh, dismissing China's recent objections as unfounded. In Jharkhand, police clashed with activists as 110 ABVP members were detained. In a significant development, Syria's former leader Bashar al-Assad has been sentenced to death for his involvement in crimes against humanity. Meanwhile, NASA has extended an invitation to ISRO to collaborate on the Moon Base program, aiming for enhanced space cooperation.",
+    "img": "https://static.toiimg.com/photo/msid-133156289,imgsize-90258.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-mea-rejects-chinas-objections-on-arunachal-nasa-invites-isro-for-moon-base-program-more/articleshow/133154348.cms",
+    "time": "2026-08-11T12:51:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "UK-based OCI holder booked under new Maharashtra law",
+    "desc": "Pune Police registered an FIR against a UK OCI cardholder for alleged religious conversion attempts. The accused allegedly spoke about Jesus and made statements about Hindu deities. In a separate case, a 21-year-old man was arrested under the Maharashtra Freedom of Religion Act. This development follows a wider debate over religious conversion and foreign funding. Maharashtra CM Devendra Fadnavis stated that transparent organizations have nothing to fear.",
+    "img": "https://static.toiimg.com/photo/msid-133154566,imgsize-63394.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pune-conversion-case-uk-based-oci-holder-booked-under-new-maharashtra-law/articleshow/133154566.cms",
+    "time": "2026-08-11T12:49:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Munna Bhaiya comeback thrills fans",
+    "desc": "Excitement is palpable as the trailer for Mirzapur The Movie drops, fueling fan enthusiasm. Returning favorites such as Guddu Pandit and Munna Bhaiya navigate the tumultuous power plays, while viewers buzz about Ravi Kishan’s striking return. This adaptation broadens the narrative, emphasizing the ongoing battle for the coveted Gaddi of Mirzapur.",
+    "img": "https://static.toiimg.com/photo/msid-133154935,imgsize-321218.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/mirzapur-the-movie-trailer-social-media-review-guddu-munna-and-kaleen-bhaiya-return-fans-call-munna-bhaiya-comeback-goated/articleshow/133154777.cms",
+    "time": "2026-08-11T12:47:43.000Z"
   },
   {
     "cat": "Entertainment",
@@ -54,15 +234,6 @@ const newsData_en = [
     "time": "2026-08-11T11:58:20.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Notices to 80,140 voters in Nandyal district over discrepancies in draft roll",
-    "desc": "The revision began with 14,05,443 voters in the district, of whom 12,25,937 were identified as genuine; the final electoral roll is to be published on October 3, and hearings must be set at least seven days after a notice is served",
-    "img": "https://th-i.thgim.com/public/incoming/42ici0/article71211448.ece/alternates/LANDSCAPE_1200/vjkvg-sir%204.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/notices-to-80140-voters-in-nandyal-district-over-discrepancies-in-draft-roll/article71331712.ece",
-    "time": "2026-08-11T11:57:25.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Delhi high court denies bail to Olympic medalist Sushil Kumar in murder case",
     "desc": "Justice Purushaindra Kumar dismissed Kumar's bail plea on August 6, citing concerns about his ability to influence witnesses, his conduct before his arrest, the seriousness of the alleged offence and his ability to affect the outcome of the ongoing trial.",
@@ -70,24 +241,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/off-the-field/premeditated-and-gruesome-assault-delhi-high-court-denies-bail-to-olympic-medalist-sushil-kumar-in-murder-case/articleshow/133152292.cms",
     "time": "2026-08-11T11:43:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Netaji’s daughter moves Supreme Court for repatriation of his ashes from Tokyo temple",
-    "desc": "Netaji is believed to have died in an air crash at Taihoku (Taipei) while travelling onward from Singapore after the Japanese surrendered to the Allied Powers in 1945. His mortal remains were transported to Tokyo in early September 1945",
-    "img": "https://th-i.thgim.com/public/incoming/lsguv3/article71331462.ece/alternates/LANDSCAPE_1200/C_RVM_2485.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/netajis-daughter-moves-supreme-court-for-repatriation-of-his-ashes-from-tokyo-temple/article71331402.ece",
-    "time": "2026-08-11T11:43:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Lower Bhavani farmers resume protest seeking G.O. for release of water",
-    "desc": "Last week, over 500 farmers had assembled at Erode Collectorate, urging the government to release water into the LBP canal to save standing crops; they had temporarily called off the protest after the DRO’s assurance that a G.O. would be issued for the release of water",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/whmw7a/article71331814.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-11%20at%2014.49.19.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/lower-bhavani-farmers-resume-protest-seeking-go-for-release-of-water/article71331634.ece",
-    "time": "2026-08-11T11:42:13.000Z"
   },
   {
     "cat": "Politics",
@@ -126,15 +279,6 @@ const newsData_en = [
     "time": "2026-08-11T11:32:04.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Despite high demand, Centre rejects Saudi’s plea to operate flights to Kerala’s Thiruvananthapuram airport",
-    "desc": "Union Minister says Centre is currently promoting international operations from non-metro airports, including Thiruvananthapuram, by Indian carriers, either directly or through domestic operations. Hence, non-metro airports are not being granted new Point of Call status under ASAs to foreign carriers",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/9snv0m/article71332066.ece/alternates/LANDSCAPE_1200/TRV%20T2%20new%20for%20Web1.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/despite-high-demand-centre-rejects-saudis-plea-to-operate-flights-to-keralas-thiruvananthapuram-airport/article71332023.ece",
-    "time": "2026-08-11T11:27:21.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Badminton World C'ships: Schedule, dates, venue, Indian players and more",
     "desc": "The BWF World Championships 2026 will be held in New Delhi from August 17 to 23, featuring five events across singles and doubles. The tournament begins with opening rounds before progressing to the Round of 32, Round of 16, quarter-finals, semi-finals and finals. Indian stars including PV Sindhu, Lakshya Sen and Satwik-Chirag will compete on home soil.",
@@ -142,33 +286,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/badminton-world-championships-2026-schedule-full-fixtures-dates-venue-indian-players-and-more/articleshow/133150505.cms",
     "time": "2026-08-11T11:16:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Discontent answered with bullets': MEA slams Pakistan over PoK crackdown",
-    "desc": "India's external affairs ministry has strongly denounced Pakistan's actions concerning Pakistan-occupied Kashmir, where protests were met with brutality, leading to numerous fatalities. The Joint Awami Action Committee, prohibited from operating, led rallies demanding a fair distribution of refugee seats. Additionally, upcoming elections in the region were marred by violence and claims of electoral fraud, prompting India to call on the global community to hold Pakistan accountable for these violations.",
-    "img": "https://static.toiimg.com/photo/msid-133152433,imgsize-2048551.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/discontent-answered-with-bullets-mea-slams-pakistan-over-pok-crackdown/articleshow/133152314.cms",
-    "time": "2026-08-11T11:16:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Arunachal is integral part of India, nothing can change this': MEA on China's fresh 'objections'",
-    "desc": "The external affairs ministry firmly asserts the integral status of Arunachal Pradesh as part of India. This statement is a response to China's persistent efforts to impose Chinese names on various places in the state. A total of twenty-seven historically and strategically important locations have been officially identified on the Survey of India map. New Delhi categorically dismisses China's renaming initiatives as invalid.",
-    "img": "https://static.toiimg.com/photo/msid-133152316,imgsize-51802.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/arunachal-is-integral-part-of-india-nothing-can-change-this-mea-on-chinas-fresh-objections/articleshow/133151560.cms",
-    "time": "2026-08-11T11:11:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Former DMK Minister M.R.K. Panneerselvam sparks lively exchanges in Tamil Nadu Assembly",
-    "desc": "He says that in the past, he would relax only after 8 a.m. because his leader, Kalaignar [M. Karunanidhi], would call him up early in the morning. “You [the Ministers] seem very relaxed,” he says. Minister for Water Resources N. Anand responds that Mr. Vijay will call him up and other Ministers even about repairing a vaikal (canal) and ask whether the work has been completed",
-    "img": "https://th-i.thgim.com/public/incoming/424vky/article71329705.ece/alternates/LANDSCAPE_1200/Panneerselvam%203.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/former-minister-mrk-panneerselvam-sparks-lively-exchanges-in-tamil-nadu-assembly/article71329590.ece",
-    "time": "2026-08-11T11:00:25.000Z"
   },
   {
     "cat": "Entertainment",
@@ -189,15 +306,6 @@ const newsData_en = [
     "time": "2026-08-11T10:41:46.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Sonia Gandhi",
-    "desc": "July 29, 2026, was an important but unacknowledged day in our political history as the Supreme Court upheld CBI's clean chit to Dr. Manmohan Singh in the alleged coal block allocation scam, said Sonia Gandhi",
-    "img": "https://th-i.thgim.com/public/incoming/d51d3u/article71330891.ece/alternates/LANDSCAPE_1200/PTI12_05_2025_000495B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/history-will-indeed-remember-manmohan-singh-kindly-as-most-consequential-pm-sonia-gandhi/article71330884.ece",
-    "time": "2026-08-11T10:36:51.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Rs 10, Rs 20 polymer notes get field-trial nod: What will change from paper currency?",
     "desc": "India is preparing to roll out polymer banknotes for initial trials shortly. The Reserve Bank of India plans to launch one billion pieces each of Rs 10 and Rs 20 denominations. These innovative polymer notes will coexist with current paper currency, with the goal of improving the longevity of lower denomination notes. Additionally, parliament discussions included topics on inflation and taxation strategies.",
@@ -205,15 +313,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/rs-10-rs-20-polymer-notes-get-field-trial-nod-what-will-change-from-paper-currency/articleshow/133149829.cms",
     "time": "2026-08-11T10:27:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kochi Corporation proposes new waste treatment facility at Brahmapuram amidst Opposition protest",
-    "desc": "G3 Renewables Private Limited, which operates a facility at Willingdon Island for the Cochin Port Authority, has submitted a proposal to run a plant for the Corporation for which it has sought three acres of land on a 25-year lease",
-    "img": "https://th-i.thgim.com/public/incoming/8yi8qs/article71331984.ece/alternates/LANDSCAPE_1200/CAG-flags-KochiG79G8DT73.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kochi-corporation-proposes-new-waste-treatment-facility-at-brahmapuram-amidst-opposition-protest/article71331370.ece",
-    "time": "2026-08-11T10:23:25.000Z"
   },
   {
     "cat": "Business",
@@ -342,24 +441,6 @@ const newsData_en = [
     "time": "2026-08-11T09:08:59.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Drop Shot Ep. 6",
-    "desc": "Jaipur’s heritage-inspired luxury watches, R. Madhavan on portraying forgotten Indian heroes, Siddharth on bringing Kargil War hero Squadron Leader Ajay Ahuja’s story to the screen in Operation Safed Sagar, and an inspiring bamboo plantation project working to restore Coimbatore’s lakes and ecosystems.",
-    "img": "https://th-i.thgim.com/public/incoming/o1y4mq/article71322081.ece/alternates/LANDSCAPE_1200/DROP%20SHOT%20-%20METRO%20PLUS%20EPI%2006.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-drop-shot-ep-6-jaipur-watches-unsung-heroes-kargils-ajay-ahuja-bamboo-led-lake-restoration/article71322132.ece",
-    "time": "2026-08-11T09:02:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Drop Shot Ep. 4",
-    "desc": "In this episode, we capture the excitement surrounding Vijay’s Jana Nayagan as fans celebrate what could be the actor’s final film and director H. Vinoth shares insights into the much-awaited release. We then explore The Keeper of the Wells, as Chennai-based author Zhayynn James discusses his debut novel inspired by the historic Seven Wells neighbourhood of North Chennai. Finally, we head to Mumbai for a look at designer Gaurav Gupta’s latest bridal couture collection, Light Song, where sculptural silhouettes, intricate craftsmanship and contemporary design redefine modern bridal fashion.",
-    "img": "https://th-i.thgim.com/public/news/national/ebb04v/article71267292.ece/alternates/LANDSCAPE_1200/Screenshot%202026-07-25%20at%2010.26.36%E2%80%AFPM.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-drop-shot-ep-4-jana-nayagan-fever-the-keeper-of-the-wells-gaurav-guptas-light-song/article71267288.ece",
-    "time": "2026-08-11T08:59:25.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Inside Nupur Sanon and Stebin Ben’s sea facing Bandra Mumbai home",
     "desc": "Nupur Sanon and Stebin Ben, newlyweds basking in love, have made their home in a stunning sea-facing apartment nestled in Bandra. With a chic minimalist design enriched with lush greenery and personal touches, the breathtaking ocean view evokes memories of Dubai for Nupur. Their living space, adorned with awards and a piano, beautifully showcases their mutual passion for music, making this residence a perfect blend of creativity and comfort.",
@@ -396,15 +477,6 @@ const newsData_en = [
     "time": "2026-08-11T08:26:52.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Jana Nayagan' box office LIVE: Vijay's film crosses Rs 318 crore worldwide",
-    "desc": "Thalapathy Vijay's final film 'Jana Nayagan' continues its theatrical run. The movie has achieved a significant India net collection of Rs 193.18 crore. Its worldwide gross collection has now reached Rs 318.09 crore. Overseas markets have contributed Rs 93.20 crore to the film's total. The political action drama stars Pooja Hegde and Bobby Deol.",
-    "img": "https://static.toiimg.com/photo/msid-133147798,imgsize-1152434.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-box-office-collection-day-20-live-thalapathy-vijays-last-film-nears-rs-194-crore-in-india-worldwide-total-crosses-rs-318-crore/articleshow/133147647.cms",
-    "time": "2026-08-11T08:22:23.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Preparation’: Sooryavanshi sweats it out in nets ahead of Duleep Trophy – Watch",
     "desc": "Vaibhav Sooryavanshi is gearing up for the Duleep Trophy following a standout performance in Zimbabwe, where he emerged as India's top run-scorer. Appointed as the vice-captain for the East Zone team, this role not only acknowledges his talent but is designed to prepare him for future leadership. The Duleep Trophy will be an important opportunity for Sooryavanshi to hone his skills in longer format cricket.",
@@ -412,33 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/preparation-vaibhav-sooryavanshi-sweats-it-out-in-nets-ahead-of-duleep-trophy-challenge-watch/articleshow/133147326.cms",
     "time": "2026-08-11T08:04:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Are Vishnu Vishal and Arunraja Kamaraj facing dispute over shelved film?",
-    "desc": "Vishnu Vishal's anticipated film with Arunraja Kamaraj is encountering serious production hurdles. The actor has decided to lodge a formal complaint against the director due to ongoing delays. Issues such as script modifications and escalating costs have hampered the project's momentum. Both parties are currently negotiating to find an acceptable solution to their differences, leaving the fate of this sports action drama up in the air.",
-    "img": "https://static.toiimg.com/photo/msid-133147010,imgsize-44120.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/are-vishnu-vishal-and-arunraja-kamaraj-facing-dispute-over-shelved-film-heres-the-truth-exclusive/articleshow/133146928.cms",
-    "time": "2026-08-11T08:01:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Glen Powell and Michelle Randolph share a kiss in Paris",
-    "desc": "In a charming display of affection, actors Glen Powell and Michelle Randolph were recently captured enjoying a romantic moment in Paris. Their relationship, which began making headlines last November, has been filled with shared experiences across multiple cities. As Powell prepares for his upcoming films, Randolph has her own projects in the works, further igniting the buzz around their budding romance.",
-    "img": "https://static.toiimg.com/photo/msid-133146814,imgsize-192079.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/glen-powell-and-michelle-randolph-share-a-kiss-in-paris-fans-sent-into-a-frenzy/articleshow/133146785.cms",
-    "time": "2026-08-11T07:40:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "RGV’s ‘Police Company’ is ‘more dangerous than D Company’",
-    "desc": "Filmmaker Ram Gopal Varma has announced his next crime drama, 'Police Company', a film inspired by a special police squad that killed over 300 gangsters between 1997 and 2004. Harshvardhan Rane will play a character inspired by encounter specialist Daya Nayak in the project, which Varma describes as being \"more dangerous\" than his earlier underworld saga, 'D Company.'",
-    "img": "https://static.toiimg.com/photo/msid-133146403,imgsize-152328.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ram-gopal-varma-announces-police-company-with-harshvardhan-rane-as-daya-nayak-inspired-by-mumbais-encounter-squad-that-killed-more-than-300-gangsters-more-dangerous-than-d-company/articleshow/133145375.cms",
-    "time": "2026-08-11T07:27:24.000Z"
   },
   {
     "cat": "Sports",
@@ -457,15 +502,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/australia-adds-optional-gender-identity-sexual-orientation-questions-to-census/article71330900.ece",
     "time": "2026-08-11T07:22:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Emraan gets ₹10–12cr; Disha , Shabana Azmi in multi-crore bracket",
-    "desc": "Emraan Hashmi is set to reprise his role as Shivam Pandit in the highly anticipated sequel, Awarapan 2, scheduled for release on August 14. He is believed to be earning between ten and twelve crore rupees for his portrayal. Disha Patani's involvement in the film has garnered her a paycheck of five crore rupees, while esteemed veteran Shabana Azmi's compensation ranges from two to five crore rupees.",
-    "img": "https://static.toiimg.com/photo/msid-133146121,imgsize-193741.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/awarapan-2-salary-report-emraan-hashmi-reportedly-takes-rs-10-12-crore-in-returning-role-of-shivam-pandit-disha-patani-earns-rs-5-crore-ahead-of-august-14-release/articleshow/133145976.cms",
-    "time": "2026-08-11T07:19:45.000Z"
   },
   {
     "cat": "Sports",
@@ -567,15 +603,6 @@ const newsData_en = [
     "time": "2026-08-11T04:32:55.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Ayush Shetty up for Shi Yuqi challenge",
-    "desc": "The road ahead is set to get even tougher. Ayush, ranked World No. 23, will face World No. 1 Shi Yuqi of China in the opening round of the World Championships. Last week, an intrigued Ayush followed the Worlds draw live. There was little reaction when he learnt that Shi would be his firstround opponent — perhaps understandable given the daunting challenge.",
-    "img": "https://static.toiimg.com/photo/msid-133142082,imgsize-36486.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/badminton/bwf-world-championships-ayush-shetty-up-for-shi-yuqi-challenge/articleshow/133142049.cms",
-    "time": "2026-08-11T04:24:33.000Z"
-  },
-  {
     "cat": "Business",
     "title": "$500 bn AI boom: Nvidia, Wall Street giants join hands for chip, data centre push",
     "desc": "Nvidia has joined forces with six prominent financial institutions to enhance AI infrastructure funding. The collaboration will see these firms create platforms aimed at financing companies that purchase Nvidia hardware. The goal is to harness over $500 billion in external capital, positioning AI chips as a fresh asset class that encourages the growth of AI technology and data centers.",
@@ -583,33 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/500-billion-ai-boom-nvidia-wall-street-giants-join-hands-for-chip-data-centre-push/articleshow/133141372.cms",
     "time": "2026-08-11T04:11:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘A terrible mistake’: Donald Trump warns FIFA against replacing Infantino",
-    "desc": "US President Donald Trump has come to FIFA president Gianni Infantino's defense, labeling any potential replacement as a grave error. Infantino is currently navigating tumultuous waters, facing resistance from football confederations upset over a World Cup profit sale idea. These groups have claimed that FIFA's actions signify a serious breach of trust.",
-    "img": "https://static.toiimg.com/photo/msid-133141552,imgsize-64006.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/a-terrible-mistake-trump-warns-fifa-against-replacing-infantino-amid-growing-revolt/articleshow/133141490.cms",
-    "time": "2026-08-11T03:53:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sarfaraz Khan's return: A 17kg weight loss, relentless fight and a Test recall",
-    "desc": "“I may not fit in, but I’ll fight with everything I’ve got.” Just 48 hours later, the 28-yearold was rewarded for his seemingly endless ‘fight’ when he replaced the injured Sai Sudharsan in the Indian squad for the Test series against Sri Lanka. After finally receiving the news he had been waiting for, Sarfaraz shared his first post on social media, posting a couple of pictures in the Team India travelling jersey.",
-    "img": "https://static.toiimg.com/photo/msid-133141166,imgsize-33836.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/sarfaraz-khans-return-a-17kg-weight-loss-relentless-fight-and-a-test-recall/articleshow/133141043.cms",
-    "time": "2026-08-11T03:11:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Non-negotiable’: T Dilip reveals what still sets Virat Kohli apart in the field",
-    "desc": "Former fielding coach T Dilip praised Virat Kohli's consistent on-field intensity. Kohli's dedication during practice mirrored his match-day performance, inspiring others. Dilip's most cherished moment was India's 2024 T20 World Cup victory in Barbados. He also noted the fielding medal ceremony positively impacted the team's attitude. Dilip's tenure saw India achieve significant success across various cricket formats.",
-    "img": "https://static.toiimg.com/photo/msid-133140969,imgsize-450471.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/intensity-is-non-negotiable-t-dilip-reveals-what-still-sets-virat-kohli-apart-in-the-field/articleshow/133140940.cms",
-    "time": "2026-08-11T03:00:09.000Z"
   },
   {
     "cat": "Business",
@@ -655,15 +655,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/england-bayern-munich-star-harry-kane-set-to-receive-golden-shoe-award/article71329894.ece",
     "time": "2026-08-10T19:23:02.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "SpaceX retail investors turn net sellers for first time since IPO; offload $4.5 million worth of shares",
-    "desc": "Retail investors turned into net sellers of SpaceX shares as of August 7, marking the end of a buying frenzy. This change coincided with a stock price recovery, indicating that individuals may be taking profits. The shares have struggled post-IPO, dropping beneath the initial offering price. Investors who were hopeful at the launch might now be looking to reduce their losses, even amidst a slight recovery in recent days.",
-    "img": "https://static.toiimg.com/photo/msid-133126614,imgsize-58470.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/spacex-retail-investors-turn-net-sellers-for-first-time-since-ipo-offload-4-5-million-worth-of-shares/articleshow/133126012.cms",
-    "time": "2026-08-10T17:52:04.000Z"
   },
   {
     "cat": "World",
@@ -837,15 +828,6 @@ const newsData_en = [
     "time": "2026-08-09T12:22:59.000Z"
   },
   {
-    "cat": "World",
-    "title": "Pentagon pushes defence companies to boost weapons production after concerns of depleted stocks",
-    "desc": "Deputy Defence Secretary Steve Feinberg wrote to industry leaders, giving them no more than 21 days to submit plans to “drive significantly faster, more aggressive delivery schedules and/or increased production for critical capabilities,” according to a memo obtained by The Washington Post.",
-    "img": "https://th-i.thgim.com/public/incoming/atrr41/article71324232.ece/alternates/LANDSCAPE_1200/iStock-2278741415.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/pentagon-pushes-defence-companies-to-boost-weapons-production-after-concerns-of-depleted-stocks/article71324197.ece",
-    "time": "2026-08-09T09:52:12.000Z"
-  },
-  {
     "cat": "Business",
     "title": "UPI stays free for users, vast majority of transactions to remain free for merchants as well, says government",
     "desc": "The government said any future merchant discount rate (MDR), if introduced, would apply only to a limited set of merchant transactions above a specified threshold and at a nominal rate, which would be lower than typical debit and credit card MDRs",
@@ -873,15 +855,6 @@ const newsData_en = [
     "time": "2026-08-09T08:32:11.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Padikkal seals No. 3 spot with stylish hundred as Jaiswal, Pant fail",
-    "desc": "At the end of the second day, India finished its first innings at 357 for eight in 90 overs. Padikkal’s artistic unbeaten 142 and a gritty 63 (retired out) by veteran Ravindra Jadeja were the highlights, while Manav Suthar (41) also impressed with the bat on his maiden overseas international assignment",
-    "img": "https://th-i.thgim.com/public/news/national/mueoko/article71322885.ece/alternates/LANDSCAPE_1200/Devdutt%20Padikkal.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/padikkal-seals-no-3-spot-with-stylish-hundred-as-jaiswal-pant-fail/article71322843.ece",
-    "time": "2026-08-09T07:49:20.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Transfer to core from satellite?",
     "desc": "You can transfer gains from your satellite to a core portfolio but not the other way around; this constraint is very important to protect the excess gains you may have in any of your core portfolios",
@@ -898,5 +871,32 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-maadhu-balaji-on-keeping-crazy-mohans-legacy-alive-with-chamber-of-humour/article71320617.ece",
     "time": "2026-08-09T00:15:45.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Teaching AI to speak India",
+    "desc": "Artificial intelligence can chat, translate and answer questions but only if it understands your language. At IIT Madras, researchers at AI4Bharat are travelling across India, collecting voices, preserving dialects and teaching AI to understand the country’s incredible linguistic diversity.",
+    "img": "https://th-i.thgim.com/public/incoming/y693sa/article71280832.ece/alternates/LANDSCAPE_1200/iStock-1066071372.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/internet/teaching-ai-to-speak-india/article71280380.ece",
+    "time": "2026-08-09T00:15:19.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Hero MotoCorp Q1 PAT down 16.86% at ₹1,417.93 crore",
+    "desc": "The previous year PAT included a one-time gain of ₹722 crore on account of dilution of the company's share of investment in associates consequent to public issue and private placement, Hero MotoCorp said in a statement",
+    "img": "https://th-i.thgim.com/public/incoming/xx3xy6/article71319140.ece/alternates/LANDSCAPE_1200/Hero-MotoCorp-mG1NG8GMNO.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/hero-motocorp-q1-pat-down-1686-at-141793-crore/article71319133.ece",
+    "time": "2026-08-08T20:48:47.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Revamp of Model Bilateral Investment Treaty in works, to be presented to Cabinet soon: Secy",
+    "desc": "\"The BIT is under review, and we are looking at many other clauses based on our experience in the negotiations and based on global practices...it is a work in progress. Consultations are underway, and we are reviewing the Model BIT,\" says Anuradha Thakur",
+    "img": "https://th-i.thgim.com/public/incoming/5vuq46/article71319125.ece/alternates/LANDSCAPE_1200/B3_RVM_6359.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/revamp-of-model-bilateral-investment-treaty-in-works-to-be-presented-to-cabinet-soon-secy/article71319094.ece",
+    "time": "2026-08-08T20:46:24.000Z"
   }
 ];

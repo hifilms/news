@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "બાંગ્લાદેશ પ્રવાસ પર સસ્પેન્સ વચ્ચે ટીમ ઈન્ડિયાની નવી T20 સિરીઝ, આ દેશ સામે રમશે 3 મેચ, તારીખો જાહેર",
+    "desc": "ભારત બાંગ્લાદેશનો પ્રવાસ કરશે કે નહીં તેના પર સસ્પેન્સ છે, પરંતુ ટીમ ઈન્ડિયા હવે અફઘાનિસ્તાન સામે T20 સિરીઝ રમશે. અફઘાનિસ્તાન ક્રિકેટ બોર્ડ (ACB)એ ટીમ ઈન્ડિયા સામેની ત્રણ T20 આંતરરાષ્ટ્રીય મેચની તારીખોની જાહેરાત કરી છે. ભારતીય ક્રિકેટ કંટ્રોલ બોર્ડ (BCCI) તરફથી લીલી ઝંડી મળ્યા બાદ બોર્ડે આ જાહેરાત કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/india-vs-afghanistan-t20-series-2026-schedule-arun-jaitley-stadium-delhi-487434 ",
+    "time": "2026-08-11T15:53:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "નિવૃત્તિ લેતાની સાથે જ વાગી ફોનની રિંગ, વિરાટ-રોહિત નહીં આ દિગ્ગજ ક્રિકેટરે કર્યો હતો પહેલો કોલ? રહાણે હવે કર્યો ખુલાસો",
+    "desc": "અજિંક્ય રહાણેએ માત્ર 10 દિવસ પહેલા જ નિવૃત્તિની જાહેરાત કરીને બધાને ચોંકાવી દીધા હતા. રહાણે લાંબા સમયથી સેલેક્ટર્સની રડારથી દૂર હતા. ઘણા મહિનાઓ રાહ જોયા બાદ તેમણે નિવૃત્તિની જાહેરાત કરવાનો નિર્ણય લીધો. હવે તેમણે ખુલાસો કર્યો છે કે, નિવૃત્તિની જાહેરાત બાદ તેમને પહેલો ફોન કોણે કર્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/phone-ring-as-soon-as-he-retired-this-legend-not-virat-rohit-made-the-first-call-ajinkya-rahane-now-reveals-487433 ",
+    "time": "2026-08-11T15:41:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ફૂકેટ-દિલ્હી ફ્લાઈટનો પાયલોટ ગાંજો પીને પ્લેન ઉડાવી રહ્યો હતો? બીજો ડોપ ટેસ્ટ પણ પોઝિટિવ-રિપોર્ટ",
+    "desc": "થાઈલેન્ડના ફૂકેટથી દિલ્હી આવી રહેલી એર ઈન્ડિયાની ફ્લાઈટના બે પાયલોટમાંથી એકનો ડોપ ટેસ્ટ ફેલ હોવાનો દાવો થઈ રહ્યો છે. આ ફ્લાઈટ 4 ઓગસ્ટના રોજ જોરદાર ટર્બ્યુલન્સમાં ફસાઈ હતી અને અચાનક 300 ફૂટ નીચે આવી ગઈ હતી. ફ્લાઈટમાં 137 મુસાફરો અને 8 ક્રૂ સભ્યો હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/air-india-phuket-delhi-flight-turbulence-case-shocking-result-of-pilot-second-dope-test-487432 ",
+    "time": "2026-08-11T15:40:52.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "8મા પગાર પંચે બહાર પાડ્યું નવું નોટિફિકેશન, સરકારી કર્મચારીઓ માટે જાણવું જરૂરી",
+    "desc": "સરકારી કર્મચારીઓ 8મા પગાર પંચની ભલામણોની આતુરતાથી રાહ જોઈ રહ્યા છે. આ દરમિયાન પગાર પંચે એક લેટેસ્ટ નોટિફિકેશન બહાર પાડ્યું છે. ત્યારે આ નોટિફિકેશન શેના વિશે છે અને તેમાં કઈ બાબતોનો ઉલ્લેખ કરવામાં આવ્યો છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-new-notification-regarding-guidelines-for-appointment-of-consultants-487429 ",
+    "time": "2026-08-11T14:19:48.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "₹40,000ની સેલેરીમાં પણ ખરીદી શકશો ₹50 લાખનું ઘર, નહીં લેવું પડે એક પણ રૂપિયો કરજ! અપનાવો 50-50 ફોર્મુલા",
+    "desc": "જો તમે ₹40,000ના પગારદાર છો અને અમદાવાદ જેવા વિસ્તારોમાં ઘર ખરીદવા માંગો છો, તો આ સપનું હકીકત બની શકે છે, જો તમે ચોક્કસ નિયમોનું કડક પાલન કરશો તો આ શક્ય છે. ત્યારે આ માટે તમારે શું કરવાની જરૂર છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/house-construction-formula-how-to-buy-rs-50-lakh-house-with-40000-salary-487421 ",
+    "time": "2026-08-11T13:24:49.000Z"
+  },
+  {
     "cat": "World",
     "title": "ભારતીયો માટે ખુશીના સમાચાર, હવે UAEના વિઝા મળશે બિલકુલ ફ્રી ! જાણી લો શું છે નિયમ",
     "desc": "અબુ ધાબીના કલ્ચર એન્ડ ટુરિઝમ ડિપાર્ટમેન્ટે એક નવો પ્રોગ્રામ શરૂ કર્યો છે. આ પહેલ હેઠળ ભારતીય પાસપોર્ટ ધારકોને UAEની મુલાકાત લેવા માટે મફત વિઝા મળશે. ત્યારે આ અંગેનો નિયમ અને પ્રોસેસ શું છે, તેના વિશે આ લેખમાં જાણીશું.",
@@ -297,15 +342,6 @@ const newsData_gu = [
     "time": "2026-08-09T18:01:45.000Z"
   },
   {
-    "cat": "Business",
-    "title": "મોંઘવારીનો વધુ એક ઝટકો! ફરી મોંઘી થશે રોજિંદા વપરાશની ચીજવસ્તુઓ, જાણો કઈ-કઈ વસ્તુઓના વધશે ભાવ",
-    "desc": "સપ્ટેમ્બર ક્વાર્ટરમાં સામાન્ય લોકોને મોંઘવારીનો વધુ એક ઝટકો લાગી શકે છે. જી હા... કારણ કે મોટી FMCG કંપનીઓ કાચા માલની વધતી કિંમતો વચ્ચે ઉત્પાદનોની કિંમતોમાં ફરીથી વધારો કરવા પર વિચાર કરી રહી છે. આનાથી સપ્ટેમ્બરમાં બિસ્કિટ, સાબુ અને શેમ્પૂ જેવી ઘણી વસ્તુઓ મોંઘી થઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/another-blow-to-inflation-daily-necessities-will-become-expensive-again-know-which-items-will-see-their-prices-increase-487253 ",
-    "time": "2026-08-09T16:44:54.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "શ્રીલંકા સામેની મેચ જીત્યા બાદ પણ ભારતીય બેટ્સમેનો કરી રહ્યા હતા બેટિંગ, જાણો શું હતું કારણ",
     "desc": "ભારતીય ટીમે રવિવારે શ્રીલંકા ક્રિકેટ ઈલેવન સામેની ત્રણ દિવસીય પ્રેક્ટિસ મેચ છ વિકેટથી જીતી લીધી હતી. જોકે, જીત મેળવ્યા બાદ પણ, ભારતીય બેટ્સમેનોએ બેટિંગ ચાલુ રાખી હતી. ત્યારે આ લેખમાં જાણીશું કે મેચ જીત્યા બાદ પણ બેટ્સમેનો કેમ બેટિંગ રમી રહ્યા હતા.",
@@ -349,15 +385,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/who-is-most-at-risk-from-ai-survey-surprises-those-in-control-of-ai-are-the-only-ones-who-fear-losing-their-jobs-487226 ",
     "time": "2026-08-09T10:28:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "મોંઘવારીનો વધુ એક માર ! 11 ઓગસ્ટથી આ રાજ્યમાં મોંઘું થશે દૂધ, જાણો ભાવમાં કેટલો થશે વધારો",
-    "desc": "મહારાષ્ટ્રમાં ગ્રાહકોને હવે દૂધની વધુ કિંમત ચૂકવવી પડશે. રાજ્યમાં ગાય અને ભેંસના દૂધના ભાવમાં પ્રતિ લિટર ₹2નો વધારો કરવાનો નિર્ણય લેવામાં આવ્યો છે, જે 11 ઓગસ્ટથી અમલમાં આવશે. ડેરી ઉત્પાદનો પણ મોંઘા થઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/maharashtra-milk-price-rise-by-2-rupees-per-liter-cow-buffalo-milk-rate-hike-487225 ",
-    "time": "2026-08-09T10:09:06.000Z"
   },
   {
     "cat": "Sports",
@@ -475,15 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/indian-cricketer-ramandeep-singh-marriage-with-actress-charlie-chauhan-487105 ",
     "time": "2026-08-08T09:42:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICCના કયા નિયમને કારણે અફઘાનિસ્તાન વર્લ્ડ કપ 2027 માટે થયું ક્વોલિફાય ? આ ટીમનું તૂટ્યું સપનું",
-    "desc": "અફઘાનિસ્તાને વર્લ્ડ કપ 2027 માટે પોતાનું સ્થાન કન્ફર્મ કરી લીધું છે. ત્યારે આ લેખમાં જાણીશું કે, ICCના કયા નિયમના કારણે અફઘાનિસ્તાન માટે આ સારા સમાચાર આવ્યા છે. તો અફઘાનિસ્તાન ક્વોલિફાય થતાં આ ટીમનું તૂટ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/how-afghanistan-qualified-for-the-2027-world-cup-know-icc-rules-487101 ",
-    "time": "2026-08-08T09:10:22.000Z"
   },
   {
     "cat": "Entertainment",
