@@ -1,5 +1,104 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "‘House of the Dragon 3’: Phia Saban on her character Helaena’s death scene",
+    "desc": "In an insightful interview, Phia Saban shared her experience portraying Helaena Targaryen and the somber fate her character meets. Throughout the season, ominous visions and Helaena's turmoil signaled her tragic path. Emma D'Arcy characterized her as the moral backbone of the series, whose death thrusts Rhaenyra into a more isolated and grim leadership. The highly awaited concluding season of House of the Dragon is scheduled for release in 2028.",
+    "img": "https://static.toiimg.com/photo/msid-133140034,imgsize-276566.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/house-of-the-dragon-3-phia-saban-talks-about-helaenas-final-scene-says-she-is-just-trying-her-best/articleshow/133140013.cms",
+    "time": "2026-08-11T01:02:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'DC' vs 'GDN' BO day 4: Lokesh Kanagaraj starrer leads Madhavan's film",
+    "desc": "Following its opening weekend, DC film has outperformed GDN in attracting audience members, grossing over five crore rupees on its initial Monday in India. With its worldwide total now surpassing forty-three crore rupees, it showcases its financial success. Meanwhile, GDN is gradually gaining traction as positive reviews circulate. Each movie provides a distinct cinematic experience for its viewers, catering to different tastes.",
+    "img": "https://static.toiimg.com/photo/msid-133140009,imgsize-91050.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/dc-vs-gdn-box-office-collection-day-4-lokesh-kanagaraj-starrer-leads-madhavans-film-by-40-crore/articleshow/133139999.cms",
+    "time": "2026-08-11T00:55:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Jana Nayagan' BO day 19: Vijay starrer takes a lead over Suriya's 'Karuppu'",
+    "desc": "Jana Nayagan is on a remarkable theatrical journey, closing in on an impressive Rs 320 crore globally. Despite a minor dip in momentum on Monday following a robust third weekend, the film’s India net earnings stand at Rs 193.05 crore, complemented by an overseas gross of Rs 93.20 crore. This achievement surpasses Suriya's Karuppu by Rs 22 crore, showcasing Vijay's unwavering popularity among his loyal fans.",
+    "img": "https://static.toiimg.com/photo/msid-133139961,imgsize-129379.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-box-office-collection-day-19-vijay-and-pooja-hegde-starrer-takes-a-lead-over-suriyas-karuppu-earns-rs-320-crore/articleshow/133139955.cms",
+    "time": "2026-08-11T00:47:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kim Kardashian's LA home targeted in burglary: Reports",
+    "desc": "Kim Kardashian's Hidden Hills residence was reportedly targeted over the weekend. A 27-year-old man was arrested on suspicion of burglary at the property. Security guards witnessed the man loading items into a vehicle and called authorities. The suspect allegedly took a staff member's vehicle for a joyride. Kardashian and her family were not home as the house undergoes renovations.",
+    "img": "https://static.toiimg.com/photo/msid-133139913,imgsize-224060.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kim-kardashians-usd-60-million-los-angeles-home-targeted-in-burglary-27-year-old-man-arrested-reports/articleshow/133139718.cms",
+    "time": "2026-08-11T00:19:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Emraan shuts down rumours of playing Mehmood in RD Burman biopic",
+    "desc": "Emraan Hashmi has denied reports of playing Mehmood in Farhan Akhtar's RD Burman biopic, calling them untrue on Instagram. Farhan is said to play Burman, while Akshay Kumar will portray Rajesh Khanna. Burman and Mehmood shared a close bond. Emraan's Awarapan 2 releases August 14.",
+    "img": "https://static.toiimg.com/photo/msid-133139905,imgsize-226814.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/emraan-hashmi-shuts-down-rumours-of-playing-mehmood-in-farhan-akhtars-rd-burman-biopic-not-approached/articleshow/133139876.cms",
+    "time": "2026-08-11T00:14:02.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran ties Strait of Hormuz reopening to U.S. concessions on several demands",
+    "desc": "Iran and the U.S. are not engaged in direct talks, and Tehran will not start them ⁠as long as Washington breaches an interim deal signed in June, Mr. Aragchi said, adding that messages were being exchanged through intermediaries.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-august-10-2026-hormuz-strait-reopen-us-iran-talks/article71326809.ece",
+    "time": "2026-08-10T23:57:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delhi High Court seeks The Caravan’s stand in defamation case by Nitin Gadkari’s son",
+    "desc": "The application, which forms part of a lawsuit by Mr. Nikhil Gadkari and his company Cian Agro Industries and Infrastructure Ltd, seeks directions to take down articles linking him and his company to the sale of beef or bovine meat products",
+    "img": "https://th-i.thgim.com/public/incoming/t1gmn3/article71330093.ece/alternates/LANDSCAPE_1200/DHC.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/delhi-high-court-seeks-the-caravans-stand-in-defamation-case-by-nitin-gadkaris-son/article71329352.ece",
+    "time": "2026-08-10T23:18:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Angelina on 'dealing with trauma' amid Brad's 'suicidal' confession",
+    "desc": "Angelina Jolie discusses her upcoming film 'Without Blood' which explores trauma and healing. The film stars Salma Hayek and Demian Bichir in a drama about conflict. Jolie was drawn to the novel's examination of universal human truths and memory. Her comments emerge as ex-husband Brad Pitt discussed past suicidal thoughts. 'Without Blood' is scheduled for a September 18, 2026 theatrical release.",
+    "img": "https://static.toiimg.com/photo/msid-133139624,imgsize-410638.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/angelina-jolie-opens-up-about-dealing-with-trauma-in-new-directorial-without-blood-amid-ex-husband-brad-pitts-suicidal-confession/articleshow/133139576.cms",
+    "time": "2026-08-10T22:50:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Brad Pitt reveals he is 'NOT SOBER' after 7 yrs of sobriety",
+    "desc": "Brad Pitt shared deeply personal struggles with suicidal thoughts during a challenging period. He described the pain as oppressive, seeking relief from overwhelming family issues. Pitt's survival instincts ultimately helped him navigate this dark and difficult time. The actor's struggles occurred amid his divorce from Angelina Jolie and estrangement from children. This period marked a significant low point in his otherwise successful career.",
+    "img": "https://static.toiimg.com/photo/msid-133138508,imgsize-278177.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brad-pitt-reveals-he-is-not-sober-admits-being-suicidal-amid-family-stuff-with-ex-wife-angelina-jolie-kids/articleshow/133137611.cms",
+    "time": "2026-08-10T22:24:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Brad Pitt says ‘family stuff’ affected his mental health; suicidal thoughts",
+    "desc": "Brad Pitt has opened up about his mental health struggles, revealing that “family stuff” contributed to a difficult period amid his long-running legal battle with Angelina Jolie. The Oscar-winning actor also discussed returning to drinking after seven years of sobriety and recalled a period when emotional pain left him understanding suicidal thoughts.",
+    "img": "https://static.toiimg.com/photo/msid-133137604,imgsize-71580.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brad-pitt-says-family-stuff-affected-his-mental-health-amid-angelina-jolie-legal-battle-reveals-return-to-drinking-recalls-suicidal-thoughts/articleshow/133137599.cms",
+    "time": "2026-08-10T21:43:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "For Jharkhand’s job aspirants, it was a march for lost years",
+    "desc": "Protesters say State has been battling paper leaks, exam cancellations since its formation; job aspirants say they want a CBI probe into recruitment anomalies as they do not trust State authorities; they question police for putting up barbed barricades like ‘on border’ and warn that youth will give an answer through votes",
+    "img": "https://th-i.thgim.com/public/incoming/9vysxy/article71329942.ece/alternates/LANDSCAPE_1200/PTI08_10_2026_000506B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/for-jharkhands-job-aspirants-it-was-a-march-for-lost-years/article71329576.ece",
+    "time": "2026-08-10T21:11:15.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Protesters march to Jharkhand Assembly; 5 injured in clashes",
     "desc": "Students, aspirants continue sit-in in Ranchi seeking cancellation of JSSC-CGL exam and CBI probe into irregularities; police deny use of force; former JPSC Chairman arrested; march comes day after State government agreed to cancel three exams",
@@ -36,15 +135,6 @@ const newsData_en = [
     "time": "2026-08-10T17:56:28.000Z"
   },
   {
-    "cat": "World",
-    "title": "Iran ties Strait of Hormuz reopening to U.S. concessions on several demands",
-    "desc": "Iran and the U.S. are not engaged in direct talks, and Tehran will not start them ⁠as long as Washington breaches an interim deal signed in June, Mr. Aragchi said, adding that messages were being exchanged through intermediaries.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-august-10-2026-hormuz-strait-reopen-us-iran-talks/article71326809.ece",
-    "time": "2026-08-10T17:56:16.000Z"
-  },
-  {
     "cat": "Business",
     "title": "SpaceX retail investors turn net sellers for first time since IPO; offload $4.5 million worth of shares",
     "desc": "Retail investors turned into net sellers of SpaceX shares as of August 7, marking the end of a buying frenzy. This change coincided with a stock price recovery, indicating that individuals may be taking profits. The shares have struggled post-IPO, dropping beneath the initial offering price. Investors who were hopeful at the launch might now be looking to reduce their losses, even amidst a slight recovery in recent days.",
@@ -61,15 +151,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/karnataka/karnataka-takes-cautious-first-step-to-introduce-digital-evaluation-of-sslc-and-ii-pu-examination/article71328570.ece",
     "time": "2026-08-10T17:48:08.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Colombia quake leaves 69 dead, with more trapped under rubble",
-    "desc": "The tremor, with an epicenter 100 km deep in the San Jose del Palmar municipality, killed at least 40 people in the Risaralda region; Twenty-seven people were killed in the Valle del Cauca department, and two more died in the city of Manizales",
-    "img": "https://th-i.thgim.com/public/incoming/5tgc4h/article71329836.ece/alternates/LANDSCAPE_1200/2026-08-10T173312Z_1698968549_RC2MVMAY7OYP_RTRMADP_3_COLOMBIA-QUAKE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/74-magnitude-earthquake-shakes-colombia-and-ecuador-prompting-people-to-evacuate-buildings/article71328788.ece",
-    "time": "2026-08-10T17:47:56.000Z"
   },
   {
     "cat": "Politics",
@@ -97,15 +178,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/really-unfortunate-tiger-shroff-wont-play-for-mumbai-fc-in-durand-cup-heres-why/articleshow/133122182.cms",
     "time": "2026-08-10T17:23:02.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Final vote delayed in parts of Pakistan-administered Kashmir over security fears",
-    "desc": "Clashes in the region have led to road closures and an internet blackout, posing a sensitive challenge for ‌Pakistan, which frequently criticises New Delhi’s handling of dissent in Indian-administered Kashmir but is now facing anger in the territory under its ‌own control",
-    "img": "https://th-i.thgim.com/public/incoming/24kb9x/article71329745.ece/alternates/LANDSCAPE_1200/Pakistan_Kashmir_Elections__7775.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/final-vote-delayed-in-parts-of-pakistan-administered-kashmir-over-security-fears/article71329728.ece",
-    "time": "2026-08-10T17:05:24.000Z"
   },
   {
     "cat": "Politics",
@@ -160,15 +232,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/indias-power-demand-hits-new-peak-evening-supply-gap-widens-to-3045-mw/articleshow/133115279.cms",
     "time": "2026-08-10T15:51:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Devendra Mahto, on 9-day fast, hospitalised; aide says injured in lathicharge",
-    "desc": "Several agitators and four policemen were injured during a clash near the Jharkhand assembly on Monday, as police used water cannons, tear gas and lathi-charged job aspirants protesting against the alleged irregularities in recruitment examinations, officials said. Pankaj Kumar, an aide of Mahto who was with him in the hospital, claimed that he was injured during lathi-charge by police near the assembly.",
-    "img": "https://static.toiimg.com/photo/msid-133115212,imgsize-86374.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/jharkhand-protest-devendra-mahto-on-fast-for-9-days-hospitalised-after-drastic-drop-in-blood-sugar/articleshow/133114855.cms",
-    "time": "2026-08-10T15:44:21.000Z"
   },
   {
     "cat": "Business",
@@ -289,15 +352,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Sandeep Reddy Vanga and Vijay Deverakonda join Bonalu celebrations with fans",
-    "desc": "Telugu cinema luminaries embraced the spirit of Bonalu in Hyderabad, with actors Vijay Deverakonda and Sandeep Reddy Vanga gracing the Mahankali temple to engage with eager fans. Actress Faria Abdullah joined the celebrations at another temple, dancing fervently to the beats of traditional dappu. This festive time not only allowed celebrities to step away from their hectic projects but also to unite with their admirers in a meaningful cultural experience.",
-    "img": "https://static.toiimg.com/photo/msid-133105877,imgsize-114174.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/arjun-reddy-duo-sandeep-reddy-vanga-and-vijay-deverakonda-join-bonalu-celebrations-with-fans-in-hyderabad-faria-abdullah-joins-with-special-dance/articleshow/133105327.cms",
-    "time": "2026-08-10T12:31:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "A few things you can expect from ‘House of the Dragon’ season 4",
     "desc": "With the ‘House of the Dragon’ season 3 finale ending on a major note, including Helaena’s death and Aemond and Aegon meeting again, fans are already buzzing with excitement over the coming final season. While season 4 will be released in 2028, here are a few things you can expect from the upcoming finale of the series.",
     "img": "https://static.toiimg.com/photo/msid-133101923,imgsize-373293.cms",
@@ -333,24 +387,6 @@ const newsData_en = [
     "time": "2026-08-10T11:56:38.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ranbir, Alia, Vicky’s ‘Love &amp; War’ sparks Rs 300 crore distribution rights",
-    "desc": "Sanjay Leela Bhansali’s highly anticipated film 'Love & War' is drawing significant interest from distribution companies eager to secure its theatrical rights. With over Rs 200 crore already generated through non-theatrical ventures, the film's shooting is nearing completion. Starring Ranbir Kapoor, Alia Bhatt, and Vicky Kaushal, this grand period drama is set to premiere in theaters on January 21, 2027.",
-    "img": "https://static.toiimg.com/photo/msid-133103146,imgsize-899737.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-alia-bhatt-and-vicky-kaushals-love-war-sparks-rs-300-crore-distribution-rights-battle-as-major-production-houses-compete-for-film-reports/articleshow/133102727.cms",
-    "time": "2026-08-10T11:56:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ram Gopal Varma says ‘AI will be the new religion’ as AGI, ASI evolve",
-    "desc": "Filmmaker Ram Gopal Varma has sparked fresh online debate after predicting on social media that Artificial Intelligence (AI) will inevitably evolve into Artificial General Intelligence (AGI) and Artificial Super Intelligence (ASI) to replace organised religion. Drawing historical parallels to technological turning points, RGV argued that AI's undeniable omnipresence and predictive precision will leave no room for human scepticism, making alignment with AI systems essential for survival.",
-    "img": "https://static.toiimg.com/photo/msid-133102600,imgsize-68793.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ram-gopal-varma-claims-ai-will-be-the-new-religion-and-replace-organised-religion-as-agi-and-asi-evolve-ai-religion-will-not-need-temples-priests-or-holy-books/articleshow/133102267.cms",
-    "time": "2026-08-10T11:53:08.000Z"
-  },
-  {
     "cat": "Business",
     "title": "ONGC, Shell Energy India sign MoU to explore deepwater blocks, LNG sourcing opportunities",
     "desc": "ONGC and Shell Energy India have entered into a memorandum of understanding to collaboratively delve into potential joint ventures. Their focus will be on assessing opportunities in deepwater and ultra-deepwater oil and gas exploration, alongside investigating LNG sourcing alternatives to bolster India's economic framework. This strategic partnership is designed to improve energy accessibility while ensuring long-term energy security for the nation.",
@@ -358,51 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/ongc-shell-energy-india-sign-mou-to-explore-deepwater-blocks-lng-sourcing-opportunities/articleshow/133102020.cms",
     "time": "2026-08-10T11:51:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Will Ajith Kumar and Shankar join hands for their first collaboration?",
-    "desc": "Fans are buzzing with anticipation for the potential collaboration between Ajith Kumar and Shankar, which would be their first cinematic partnership. Before this exciting venture, Ajith Kumar might wrap up his projects Dare Devil and Mankatha 2. Meanwhile, Shankar is also weighing this film before diving into his grand Velpari project. However, official word from either of the stars is still awaited.",
-    "img": "https://static.toiimg.com/photo/msid-133101791,imgsize-147046.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/will-ajith-kumar-and-shankar-join-hands-for-their-first-collaboration-heres-what-we-know/articleshow/133101727.cms",
-    "time": "2026-08-10T11:42:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Amitabh Bachchan apologises for ‘Huge Error’ in X post numbering",
-    "desc": "Amitabh Bachchan acknowledged a numbering mistake in his recent X posts. Fans humorously reacted to the veteran actor's minor sequence error. One user humorously linked the mix-up to examination paper leak controversies. Another follower compared the slip to Bachchan's film 'Do Aur Do Paanch'. The actor's reference to 'Ef Sunil' also became a talking point.",
-    "img": "https://static.toiimg.com/photo/msid-133101136,imgsize-492957.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-apologises-for-huge-error-in-x-post-numbering-as-fans-flood-comments-with-jantar-mantar-number-leak-protest-memes/articleshow/133101003.cms",
-    "time": "2026-08-10T11:34:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "OTT releases this week (August 10-August 16): 'Cocktail 2' and more",
-    "desc": "The coming week brings a diverse selection of films, series and documentaries across major streaming platforms. From the return of Jack Reacher and the final chapter of Kanan Stark’s story to the theatrical-style spectacle of ‘Cocktail 2’ and new international dramas, there is plenty to explore for viewers looking for fresh OTT content.",
-    "img": "https://static.toiimg.com/photo/msid-133100050,imgsize-78682.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/ott-releases-this-week-august-10-august-16-cocktail-2-aakhri-sawaal-reacher-season-4-a-child-of-my-own-and-more/photostory/133100050.cms",
-    "time": "2026-08-10T11:23:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shruti Haasan on rehoming Persian cat Aslan after severe allergy",
-    "desc": "Actor Shruti Haasan opened up about suffering from a serious allergy after bringing home her Persian kitten, Aslan. Despite her efforts to alleviate the painful rashes and boils that impacted her health and career, she ultimately had to make the heart-wrenching choice to find Aslan a new, loving family. Haasan underscored the importance of ensuring a compatible home for the pet's well-being.",
-    "img": "https://static.toiimg.com/photo/msid-133100365,imgsize-228417.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/shruti-haasan-opens-up-about-rehoming-persian-cat-aslan-after-severe-allergy-says-it-was-heartbreaking/articleshow/133100309.cms",
-    "time": "2026-08-10T11:21:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sandeep Reddy Vanga adopts unique shooting plan for Prabhas’ 'Spirit'",
-    "desc": "Director Sandeep Reddy Vanga has introduced a unique filming routine for the eagerly awaited film 'Spirit,' featuring Prabhas. The crew will film for five consecutive days before taking a one-month hiatus. This strategy is designed to enhance post-production efforts and meticulous planning. Vanga anticipates that this distinctive approach will considerably elevate the film's quality, thus heightening expectations for this pan-India action saga.",
-    "img": "https://static.toiimg.com/photo/msid-133099392,imgsize-247034.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/sandeep-reddy-vanga-adopts-unique-shooting-plan-for-prabhas-spirit-says-output-is-shaping-up-well/articleshow/133099292.cms",
-    "time": "2026-08-10T11:06:06.000Z"
   },
   {
     "cat": "Sports",
@@ -505,15 +496,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "‘That was not ordinary’: Modi praises Lovlina for objecting to distorted India map",
-    "desc": "Prime Minister Narendra Modi met with Indian athletes after the Commonwealth Games. He specifically commended boxer Lovlina Borgohain for her stand against a distorted map. Mirabai Chanu shared her emotional journey to a gold medal win. Athletes recounted their experiences and achievements during the informal gathering. The Prime Minister highlighted how their medals inspire the younger generation.",
-    "img": "https://static.toiimg.com/photo/msid-133087501,imgsize-83318.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/that-video-was-not-ordinary-pm-modi-praises-lovlina-for-objecting-to-distorted-india-map-watch/articleshow/133087442.cms",
-    "time": "2026-08-10T06:12:54.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "High jumper Pooja, women’s 4x400m team disappoint; India end World Athletics U20 Championships with 3 medals",
     "desc": "Ashish Yadav had opened India's medal account with a silver in the men's javelin throw; Basant Kumar Meghwal and Shahnavaz Khan added a silver and bronze respectively in the men's high jump and long jump",
     "img": "https://th-i.thgim.com/public/incoming/tx2fpb/article71327174.ece/alternates/LANDSCAPE_1200/_DSC6046.jpg",
@@ -601,15 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/gurnoor-brar-is-an-exciting-player-expect-a-lot-from-him-zaheer-khan-exclusive/articleshow/133077454.cms",
     "time": "2026-08-10T02:18:52.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Brent crude jumps over 1% as traders await Hormuz reopening",
-    "desc": "On Monday, oil prices surged amid ongoing uncertainty surrounding the reopening of the Hormuz Strait. While Iran and Oman are closing in on an agreement for a shipping lane, Iran's demands for concessions from the U.S. linger. Adding to market tensions, Houthi rebels targeted Saudi Aramco's Jazan refinery, igniting a fire, along with numerous attacks in the Red Sea and Gulf of Aden, raising serious concerns about oil shipment security.",
-    "img": "https://static.toiimg.com/photo/msid-133077500,imgsize-127552.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/oil-price-today-brent-crude-jumps-over-1-as-traders-await-hormuz-reopening/articleshow/133077402.cms",
-    "time": "2026-08-10T02:05:36.000Z"
   },
   {
     "cat": "World",
@@ -837,15 +810,6 @@ const newsData_en = [
     "time": "2026-08-08T18:57:49.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Auto retail sales in July 2026 surge 26% YoY to 25.91 lakh units",
-    "desc": "Total EV retails touched 3,27,901 units — the highest for any month in history — with 2W and CV EV volumes at all-time records, taking overall EV penetration to about 12.7% from 9.6% a year ago says FADA.",
-    "img": "https://th-i.thgim.com/public/incoming/tk0kjx/article71312864.ece/alternates/LANDSCAPE_1200/2023-11-06T073929Z_1139731681_RC27G3A35FJ1_RTRMADP_3_INDIA-AUTOS-SALES.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/auto-retail-sales-in-july-2026-surge-26-yoy-to-2591-lakh-units/article71312828.ece",
-    "time": "2026-08-08T18:49:28.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "In conversation with classical dance guru Girija Chandran who won the  Sangeeth Natak Akademi Award",
     "desc": "Girija Chandran, who runs Regatta Natya Sangeetha Kendra in Thiruvananthapuram, has never performed on stage, but the 75-year-old dance teacher has trained nearly a lakh students over the past 53 years and the recognition acknowledges her contribution to Mohiniyattam",
@@ -898,5 +862,41 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/australia-defends-teen-social-media-ban-after-study-shows-most-still-online/article71293555.ece",
     "time": "2026-08-01T05:56:03.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
   }
 ];
