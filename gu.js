@@ -1,6 +1,60 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "ATMમાંથી હવે નીકળશે પ્લાસ્ટિકની નોટ! RBIનો મોટો પ્લાન, ₹10-₹20ની નોટથી થશે શરૂઆત, જાણો",
+    "desc": "એ નોંધવું જોઈએ કે સરકારે રિઝર્વ બેંકને 10 રૂપિયા અને 20 રૂપિયાની પ્લાસ્ટિક નોટો રજૂ કરવાની મંજૂરી આપી છે. તેને હાલમાં બે અબજ પ્લાસ્ટિક નોટો છાપવાની મંજૂરી મળી છે, જેનો ઉપયોગ પાયલોટ પરીક્ષણ માટે કરવામાં આવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/plastic-notes-will-now-be-issued-from-atms-rbis-big-plan-will-start-with-rs-10-rs-20-notes-know-487407 ",
+    "time": "2026-08-11T09:47:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "દિલ્હી કેપિટલ્સના ક્રિકેટરની ધરપકડ, રેપ અને પ્રાઇવેટ વીડિયો રેકોર્ડ કરવાનો છે આરોપ",
+    "desc": "દિલ્હી કેપિટલ્સના વિકેટકીપર-બેટ્સમેન અભિષેક પોરેલની મંગળવારે હુગલીથી લગ્નના બહાને રેપના આરોપસર ધરપકડ કરવામાં આવી હતી. મેડિકલ સ્ટુડન્ટની ફરિયાદ બાદ મોગરા પોલીસ સ્ટેશનમાં કેસ નોંધવામાં આવ્યો હતો. FIRમાં પીડિતાએ પ્રાઇવેટ ક્ષણોનું રેકોર્ડિંગ, ઉત્પીડન અને બળજબરીથી અલગ રાખવા સહિતના અનેક ગંભીર આરોપો લગાવ્યા છે. હાઈકોર્ટે ધરપકડનો આદેશ આપ્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/delhi-capitals-cricketer-abhishek-porel-arrested-on-rape-charges-487406 ",
+    "time": "2026-08-11T09:36:37.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "27 KM માઈલેજ, 5.81 લાખ કિંમત, જુલાઈમાં સૌથી વધુ વેચાતા મોડેલ્સની લિસ્ટમાં રહી આ કાર, જાણો",
+    "desc": "હ્યુન્ડાઇના પોર્ટફોલિયોમાં એક એવી કાર છે જે ટાટા પંચ સાથે સીધી ટક્કર આપે છે. અમે વાત કરી રહ્યા છીએ હ્યુન્ડાઇ એક્સટર વિશે, જેની શરૂઆતની એક્સ-શોરૂમ કિંમત 5.81 લાખ રૂપિયા છે. આ કાર સ્ટાન્ડર્ડ તરીકે છ એરબેગ્સ સાથે આવે છે, અને તેને પેટ્રોલ અને CNG બંને સાથે ખરીદી શકાય છે. ચાલો જાણીએ કે જુલાઈમાં આ કાર કેટલી વેચાઈ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/27-km-mileage-price-5-81-lakh-here-is-the-list-of-the-best-selling-models-in-july-know-the-cars-487405 ",
+    "time": "2026-08-11T09:32:04.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "આઝાદી સમયે ભારત પાસે કેટલા રૂપિયા હતા? કેવું હતું દેશનું પ્રથમ બજેટ? જાણો 1947ની કહાની",
+    "desc": "15 ઓગસ્ટ 2026ના ભારતને આઝાદી મળ્યાના 79 વર્ષ પૂરા થઈ રહ્યાં છે. દેશ 80મો સ્વાતંત્રતા દિવસ મનાવવા માટે તૈયાર છે. આ તકે આવો જાણીએ આઝાદી બાદ ભારતનું અર્થતંત્ર કેવું હતું? કેટલો ખજાનો હતો? દેશનું પ્રથમ બજેટ કેવી રીતે નક્કી થયું હતું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/how-much-wealth-did-india-have-in-1947-the-story-of-indias-economy-and-first-budget-after-independence-487404 ",
+    "time": "2026-08-11T09:21:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "સરફરાજ ખાનની વાપસીથી કોનું કપાશે પત્તુ ? મેચ પહેલા પ્લેઈંગ-11 અંગે મોટો ખુલાસો",
+    "desc": "ભારત અને શ્રીલંકા વચ્ચેની પહેલી ટેસ્ટ મેચ 15 ઓગસ્ટે રમાશે. બધાની નજર સરફરાઝ ખાન પર રહેશે. લાંબા વિરામ બાદ ટીમમાં વાપસી કર્યા બાદ તે પ્લેઇંગ ઇલેવનમાં સ્થાન મેળવે છે કે નહીં તે જોવું રસપ્રદ રહેશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-sl-1st-test-india-playing-xi-sarfaraz-khan-in-dhruv-jurel-out-mohammad-kaif-487401 ",
+    "time": "2026-08-11T09:08:38.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "27 KM માઇલેજ, સનરૂફ, કિંમત ₹5.59 લાખ! આ છે દેશમાં સૌથી વધુ વેચાતી કોમ્પેક્ટ SUV",
+    "desc": "ભારતીય ઓટો માર્કેટમાં ગ્રાહકોની પસંદ હંમેશા બદલાતી રહી છે. છેલ્લા કેટલાક વર્ષોથી કોમ્પેક્ટ SUVs નો ક્રેઝ વધી રહ્યો છે. લગભગ દરેક ઓટો કંપનીઓની કાર આ સેગમેન્ટમાં ઉપલબ્ધ છે. આજે અમે તમને જુલાઈમાં સૌથી વધુ વેચાનારી કોમ્પેક્ટ એસયુવી વિશે જણાવીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/india-top-selling-compact-suv-offers-27-km-mileage-sunroof-at-starting-price-of-5-59-lakh-487387 ",
+    "time": "2026-08-11T07:28:59.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "દર ત્રણ મહિને DR હાઈક, 25% સુધી પહોંચે તો પેન્શનમાં મર્જ? પેન્શનરો માટે શું થવાની છે જાહેરાત",
     "desc": "ભારત પેન્શનર્સ સમાજ (BPS)ના બેનર હેઠળ લગભગ 10 લાખ પેન્શનરોએ માંગ કરી છે કે કમિશન દર ત્રણ મહિને વધતા જતા ફુગાવાને ધ્યાનમાં રાખીને DRમાં સુધારો કરે. વધુમાં, તેઓ માંગ કરે છે કે એકવાર DR 25 ટકા સુધી પહોંચે પછી તેને પેન્શનમાં મર્જ કરવામાં આવે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -333,15 +387,6 @@ const newsData_gu = [
     "time": "2026-08-08T17:42:52.000Z"
   },
   {
-    "cat": "Business",
-    "title": "UPIને લઈને સરકારની સ્પષ્ટતા, સામાન્ય યુઝર્સને નહીં થાય અસર, ફક્ત આ લોકો માટે બદલાયો નિયમ",
-    "desc": "સરકારે જણાવ્યું છે કે સામાન્ય યુઝર્સ માટે UPI ફ્રી રહેશે. P2P ટ્રાન્ઝેક્શન અને મોટાભાગના મર્ચન્ટ પેમેન્ટ પર કોઈ ચાર્જ લેવામાં આવશે નહીં. લોન્ગ ટર્મ માટે UPI સુનિશ્ચિત કરવા માટે ચોક્કસ મર્યાદાથી વધુ મર્ચન્ટ પેમેન્ટ પર MDR (મર્ચન્ટ ડિસ્કાઉન્ટ રેટ) લાગુ થઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/government-big-decision-upi-will-stay-free-for-all-rules-changed-for-some-merchants-487146 ",
-    "time": "2026-08-08T16:00:30.000Z"
-  },
-  {
     "cat": "World",
     "title": "કુદરતનું રૌદ્ર સ્વરૂપ: ૭.૧ ના ભૂકંપ બાદ દરિયામાંથી ઉઠ્યું મહાદૈત્ય &amp;#039;ટાઈફૂન ડોલ્ફિન&amp;#039;, ૧૯૮ ની સ્પીડે આખેઆખા શહેરને ભરખી જશે!",
     "desc": "જાપાનમાં કુદરતે એવું ખતરનાક સ્વરૂપ ધારણ કર્યું છે ..જેને જોઈને રૂવાડા ઉભા થઈ જાય. તાજેતરના ભૂકંપના આંચકાઓ બાદ હવે સમુદ્રમાંથી ઉઠેલા મહાતોફાન ટાયકૂન ડોલ્ફિને જાપાનમાં તબાહી મચાવી છે...198 કિલોમીટર પ્રતિ કલાકના ખોફનાક ઝડપે ફૂંકાતા પવન અને મુશળધાર વરસાદના કારણે ઓકિનાવા અને કાગોશિમાના અઢી લાખ લોકોને તાત્કાલિક ઘર ખાલી કરવાનો આદેશ આપવામાં આવ્યો છે...ત્યારે કેવી છે વાવાઝોડાની અસર..જોઈએ આ ખાસ અહેવાલમાં..",
@@ -522,24 +567,6 @@ const newsData_gu = [
     "time": "2026-08-07T08:50:33.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "વિરાટ કોહલી સાથે શું છે કોમનવેલ્થ ગેમ્સમાં ગોલ્ડ જીતનારી સાક્ષીનું કનેક્શન? સામે આવ્યું મોટું સત્ય",
-    "desc": "કોમનવેલ્થ ગેમ્સ 2026માં ગોલ્ડ મેડલ જીતનારી મહિલા બોક્સર સાક્ષી ચૌધરીએ એક મોટો ખુલાસો કર્યો છે. તેમણે જણાવ્યું કે વિરાટ કોહલીએ પણ તેમની આ સફરમાં ખૂબ સાથ આપ્યો છે. વિરાટ કોહલી તેમના સ્પોન્સર રહ્યા છે અને તેઓ તેમનો પણ આભાર માનવા માંગે છે. સાક્ષી ચૌધરીએ 51 કિલોગ્રામ કેટેગરીમાં સુવર્ણ ચંદ્રક જીત્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/what-is-the-connection-between-commonwealth-games-gold-medalist-sakshi-and-virat-kohli-the-big-truth-has-been-revealed-486998 ",
-    "time": "2026-08-07T08:29:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ગૉલ ટેસ્ટમાં ભારતીય ટીમ રચશે નવો કીર્તિમાન: અનોખી સિદ્ધિ મેળવનારો ભારત બનશે દુનિયાનો ત્રીજો દેશ",
-    "desc": "ભારતીય ટીમ શ્રીલંકાના પ્રવાશે છે. બંને દેશો વચ્ચે 15 ઓગસ્ટથી બે મેચની ટેસ્ટ સિરીઝ શરૂ થશે. WTC ની દ્રષ્ટિએ આ સિરીઝ ભારત માટે ખુબ મહત્વની છે. આ સાથે ટીમ ઈન્ડિયા 15 ઓગસ્ટે મેદાનમાં ઉતરવાની સાથે એક નવો ઈતિહાસ રચી દેશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/india-set-to-create-history-in-galle-test-against-sri-lanka-will-become-3rd-country-in-the-world-to-achieve-rare-feat-486997 ",
-    "time": "2026-08-07T08:17:57.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "AIએ પહેલીવાર લેબમાં બનાવી નાખ્યો નવો વાયરસ! વૈજ્ઞાનિકો પણ હેરાન, શું માણસો માટે છે કોઈ ખતરો?",
     "desc": "AIએ હવે મેડિકલ સાયન્સમાં કદમ મૂકતા લેબની અંદર આખા વાયરલ જીનોમને ખુદ ડિઝાઇન કરીને 16 નવા વાયરસ તૈયાર કર્યા છે. જોકે રાહતની વાત એ છે કે આ વાયરસ માણસો માટે સુરક્ષિત છે અને બેક્ટેરિયા ખતમ કરવામાં મદદ કરશે, પરંતુ આ ઘટનાએ એક બાબતે ચિંતા વધારી દીધી છે.",
@@ -655,32 +682,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/jio-launches-3-in-1-plans-for-users-now-enjoy-high-speed-internet-1000-plus-tv-channels-and-12-otts-in-a-single-plan-486762 ",
     "time": "2026-08-04T16:27:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "4થી 9 ઓગસ્ટ વચ્ચે નેટફ્લિક્સ, હોટસ્ટાર અને પ્રાઈમ પર રિલીઝ થશે આ ફિલ્મો અને વેબ સિરીઝ, જલસો પડશે",
-    "desc": "અત્યારનો સમય એવો છે કે મોટાભાગના લોકો થિયેટરમાં જઈને ફિલ્મો જોવાની જગ્યાએ ઘરે બેસીને જ વેબ સિરીઝ અને ફિલ્મો જોવાનું પસંદ કરે છે. 4 ઓગસ્ટથી લઈને 9 ઓગસ્ટ વચ્ચે કઈ કઈ ફિલ્મો અને વેબ સિરીઝ રિલીઝ થઈ રહી છે તે ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/upcoming-webseries-and-movies-netflix-hotstar-and-prime-between-august-4th-and-9th-486694 ",
-    "time": "2026-08-04T07:18:38.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "&amp;#039;યાત્રીગણ કૃપયા ધ્યાન દે&amp;#039;... શું રેલવે સ્ટેશન પર રોજ કોઈ માઇક પર બોલે છે? જાણો આ સુરીલા અવાજ પાછળનું સિક્રેટ!",
-    "desc": "રેલવે સ્ટેશન પર યાત્રીગણ કૃપયા ધ્યાન દે, કહેનાર સુરીલા અવાજની પાછળ શું સત્ય છે? જો તમને લાગે છે કે કોઈ વ્યક્તિ માઇક પર બેસી દરેક સમયે બોલે છે, તો તમે ખોટા છો. જાણો કઈ રીતે ભારતીય રેલવેની 'CRIS' સિસ્ટમ અને ઓટોમેટિક તકનીક કોઈ ભૂલ વગર તમારા સુધી ટ્રેનની ચોક્કસ જાણકારી પહોંચાડે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/who-says-attention-please-at-railway-stations-human-or-computer-know-the-real-truth-behind-the-voice-486692 ",
-    "time": "2026-08-04T07:02:36.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "મુકેશ અંબાણીએ મધ્યમ વર્ગ માટે ખોલી તિજોરી! Jio આપી રહ્યું છે જબરદસ્ત ડિસ્કાઉન્ટ સાથે 100Mbps ઇન્ટરનેટ સ્પીડ અને 12થી વધુ OTT એપ્સ",
-    "desc": "Reliance Jio એ ઇન્ડિપેન્ડન્સ ડે ઓફર હેઠળ પોતાના 100Mbps બ્રોડબેન્ડ પ્લાન પર 6,000 રૂપિયાનું ભારે ડિસ્કાઉન્ટ આપ્યું છે. હવે માત્ર ₹666 પ્રતિ મહિનામાં મેળવો 100Mbps સ્પીડ, 1000+ લાઈવ TV ચેનલો અને Zee5, SonyLiv જેવી OTT એપ્સ. પૂરી માહિતી અહીં વાંચો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/mukesh-ambani-opened-a-vault-for-the-middle-class-jio-is-offering-100mbps-internet-speed-with-huge-discounts-and-more-than-12-ott-apps-486682 ",
-    "time": "2026-08-04T05:35:28.000Z"
   }
 ];
