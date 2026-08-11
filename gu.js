@@ -1,6 +1,24 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "દર ત્રણ મહિને DR હાઈક, 25% સુધી પહોંચે તો પેન્શનમાં મર્જ? પેન્શનરો માટે શું થવાની છે જાહેરાત",
+    "desc": "ભારત પેન્શનર્સ સમાજ (BPS)ના બેનર હેઠળ લગભગ 10 લાખ પેન્શનરોએ માંગ કરી છે કે કમિશન દર ત્રણ મહિને વધતા જતા ફુગાવાને ધ્યાનમાં રાખીને DRમાં સુધારો કરે. વધુમાં, તેઓ માંગ કરે છે કે એકવાર DR 25 ટકા સુધી પહોંચે પછી તેને પેન્શનમાં મર્જ કરવામાં આવે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-dr-high-every-three-months-what-is-going-to-happen-for-pensioners-announced-487375 ",
+    "time": "2026-08-11T06:01:36.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "બાબા વેંગાની બે ભવિષ્યવાણીઓ પડી સાચી, 2026માં ફક્ત ચાર મહિના બાકી, શું બાકીની ત્રણ પણ પડશે સાચી?",
+    "desc": "બાબા વેંગાની ભવિષ્યવાણીઓ ફક્ત તેમને ફોલો કરનારા જ નહીં પરંતુ સામાન્ય લોકોમાં પણ જિજ્ઞાસાનો વિષય બને છે. તેમના સમર્થકો કહે છે કે તેમની બે ભવિષ્યવાણીઓ પહેલાથી જ સાચી પડી છે, અને ત્રણ હજી આવવાની બાકી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/two-of-baba-vengas-predictions-came-true-only-four-months-left-in-2026-will-the-remaining-three-also-come-true-487370 ",
+    "time": "2026-08-11T05:07:40.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "સોનું ફરી ચમક્યું! બે મહિનાના રેકોર્ડ હાઈએ પહોંચ્યો ભાવ, ચેક કરો લેટેસ્ટ રેટ",
     "desc": "અમેરિકા અને ઈરાન વચ્ચેની અનિશ્ચિતતા વચ્ચે તાજેતરના દિવસોમાં સોનાના ભાવ ઘટીને 3,900 ડોલર પ્રતિ ઔંસ થયા હતા, પરંતુ મંગળવારે આંતરરાષ્ટ્રીય બજારમાં તેના ભાવમાં તીવ્ર વધારો જોવા મળ્યો, જે 4,480 ડોલર પ્રતિ ઔંસ પર પહોંચી ગયો છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -288,15 +306,6 @@ const newsData_gu = [
     "time": "2026-08-09T05:47:14.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "કોકરોચ પ્રોટેસ્ટ પછી રાજીનામું આપનારા ધર્મેન્દ્ર પ્રધાને તોડ્યું મૌન, કહ્યું: &amp;quot;10 વર્ષમાં 20 કરોડ બાળકો...&amp;quot;",
-    "desc": "કોકરોચ પાર્ટી વિરોધ પછી રાજીનામું આપનારા ભૂતપૂર્વ શિક્ષણ પ્રધાન ધર્મેન્દ્ર પ્રધાને પોતાનું મૌન તોડ્યું છે. તેમણે કહ્યું કે, જેનજી આપણું પોતાનું બાળક છે. કેટલાક લોકોએ તેમને ગેરમાર્ગે દોરવાનો પ્રયાસ કર્યો છે. ઓડિશામાં પ્રધાનના બીજેડી કાર્યકરો સતત સૂત્રોચ્ચાર કરી રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/dharmendra-pradhan-who-resigned-after-the-cockroach-protest-broke-his-silence-487169 ",
-    "time": "2026-08-09T04:32:32.000Z"
-  },
-  {
     "cat": "World",
     "title": "મોજતબા ખામેની જીવતા અને સ્વસ્થ છે? ઈરાની એજન્સીએ જાહેર કર્યો વીડિયો, ઇઝરાયલી મીડિયાના દાવાથી મચ્યો હતો હડકંપ",
     "desc": "ઇઝરાયલી અને અમેરિકન હુમલાઓમાં તેમના પિતા આયાતુલ્લાહ અલી ખામેનીના મૃત્યુ પછી સુપ્રીમ લીડર બનેલા મોજતબા ખામેનીના સ્વાસ્થ્ય અંગે વિશ્વભરના મીડિયામાં વિવિધ અહેવાલો પ્રકાશિત થઈ રહ્યા હતા. હવે, ઈરાને મોજતબાનો એક વીડિયો જાહેર કરીને સસ્પેન્સનો અંત લાવ્યો છે અને એક મોટો સંકેત આપ્યો છે.",
@@ -322,15 +331,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/6-6-6-6-gurnoor-brar-stormy-batting-t20-like-innings-in-test-match-gambhir-reaction-on-explosive-batting-goes-viral-487154 ",
     "time": "2026-08-08T17:42:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "આસામથી હિમાચલ સુધી જળપ્રલય! પૂર અને ભૂસ્ખલને મચાવી તબાહી, દેશભરમાં વરસાદે વધારી ચિંતા",
-    "desc": "આસામથી લઈને હિમાચલ અને આગ્રા સુધી વરસાદે એવું રૌદ્ર સ્વરૂપ ધારણ કર્યું છે કે, ક્યાંક ગામો પાણીમાં ડુબી ગયા છે. તો ક્યાંક રસ્તાઓ ધસી પડ્યા છે. પહાડો ધસી રહ્યા છે અને નદીઓ ગાંડીતૂર બની ગઈ છે. આસામમાં પૂરના કારણે અત્યાર સુધીમાં 98 લોકોના મોત થઈ ચૂક્યા છે. જ્યારે દોઢ લાખથી વધુ લોકો પ્રભાવિત થયા છે ત્યારે શું છે ભારે વરસાદ અને પૂરની સ્થિતિ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/floods-from-assam-to-himachal-floods-and-landslides-wreak-havoc-rains-increase-concern-across-the-country-487147 ",
-    "time": "2026-08-08T16:36:49.000Z"
   },
   {
     "cat": "Business",
@@ -378,15 +378,6 @@ const newsData_gu = [
     "time": "2026-08-08T11:58:27.000Z"
   },
   {
-    "cat": "Business",
-    "title": "સોનું ₹7,000 અને ચાંદી ₹13,000 મોંઘી ! મહિનાઓની સુસ્તી બાદ અચાનક કેમ વધવા લાગ્યા ભાવ ?",
-    "desc": "છેલ્લા કેટલાક મહિનાઓની સુસ્તી બાદ આ અઠવાડિયે સોના અને ચાંદીના ભાવમાં અચાનક ઉછાળો જોવા મળ્યો. માત્ર એક અઠવાડિયામાં સોનાના ભાવમાં પ્રતિ 10 ગ્રામ ₹7,000નો વધારો થયો, જ્યારે ચાંદીના ભાવમાં પ્રતિ કિલોગ્રામ ₹13,000નો વધારો થયો છે. ત્યારે આ વધારા પાછળનું કારણ શું છે, તેના પર એક નજર કરીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/why-gold-and-silver-prices-suddenly-increase-know-the-latest-gold-rate-487115 ",
-    "time": "2026-08-08T11:50:36.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Jioનો નવો પ્લાન લોન્ચ, માત્ર ₹2,000માં આખું વર્ષ માણો 15+ OTT એપ્સની મજા, સાથે 5G ડેટા પણ ફ્રી",
     "desc": "જો દર મહિને વિવિધ OTT એપ્સના સબ્સ્ક્રિપ્શન લેવાથી તમારું બજેટ ખોરવાઈ રહ્યું હોય, તો રિલાયન્સ Jio તમારા માટે એક નવો પ્લાન લઈને આવ્યું છે. કંપનીએ ₹550 અને ₹2,000ની કિંમતના બે નવા OTT પ્લાન લોન્ચ કર્યા છે. આ નવા પ્લાનમાં OTT સાથે 5G ઇન્ટરનેટ પણ મળશે.",
@@ -394,15 +385,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/jio-new-ott-pass-rs-550-and-2000-check-all-details-487112 ",
     "time": "2026-08-08T11:08:49.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "શું કરિયાણાના દુકાનદારો અને વેપારીઓ પર પણ લાગશે UPI ચાર્જ? સામે આવ્યું મોટું અપડેટ!",
-    "desc": "UPIને લઈને એક નવો વિવાદ ઉભો થયો છે. ટીકાકારો કહે છે કે આ UPI ચાર્જ નાના વ્યવસાયોને અસર કરી શકે છે. જોકે, હવે સરકાર તરફથી એક મોટી અપડેટ બહાર પાડવામાં આવી છે, જેમાં કહેવામાં આવ્યું છે કે ગ્રાહકો અને નાના વ્યવસાયોને અસર થશે નહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/will-upi-charges-also-be-levied-on-grocery-shopkeepers-and-traders-big-update-revealed-487111 ",
-    "time": "2026-08-08T10:53:48.000Z"
   },
   {
     "cat": "Sports",
@@ -486,15 +468,6 @@ const newsData_gu = [
     "time": "2026-08-08T04:13:20.000Z"
   },
   {
-    "cat": "World",
-    "title": "ભારત સહિત 5 દેશ પર 100 ટકા ટેરિફનો હથોડો ઝીંકશે અમેરિકા? રશિયા પર પ્રતિબંધ લગાવનારું બિલ સેનેટમાં પાસ",
-    "desc": "ભારત માટે એક માઠા સમાચાર આવ્યા છે. રશિયા પાસેથી ઓઈલની ખરીદી કરનારા દેશો પર લગામ કસવાની તૈયારીઓ થઈ રહી છે. અમેરિકી સેનેટે રશિયા અને તેના પાસેથી સૌથી વધુ ઉર્જા ખરીદનારા દેશો પર કાર્યવાહીવાળું બિલ 86-11 મતોથી પાસ કરી દીધુ છે. પ્રસ્તાવમાં રશિયા પાસેથી ઓઈલ-ગેસ ખરીદતા દેશો પર 100 ટકા ટેરિફની જોગવાઈ છે. બિલ હવે અમેરિકી પ્રતિનિધિ સભામાં જશે. મંજૂરી બાદ રાષ્ટ્રપતિ પાસે જશે. જાણો વિગતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/big-news-us-senate-passes-russian-energy-sanctions-bill-know-who-may-be-affected-487068 ",
-    "time": "2026-08-08T03:43:17.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ભોજપુરી સ્ટાર પવન સિંહ ફિલ્મમાં જબરદસ્તી કિસિંગ સીન કરાવે, ના કહો તો સેટ છોડી જતા રહે, એક્ટ્રેસ કાજલ રાઘવાનીનો આરોપ",
     "desc": "રિયાલિટી શો ભોજપુરી બવાલનો એક પ્રોમો સોશિયલ મીડિયા પર વાયરલ થયો છે જેમાં એક્ટ્રેસ કાજલ રાઘવાની ભોજપુરી ઈંડસ્ટ્રી વિશે ચોંકાવનારા ખુલાસા કરી રહી છે. જેમાં તે એવું પણ કહે છે કે પવન સિંહ ફિલ્મમાં જબરદસ્તી કિસિંગ સીન એડ કરાવે છે.",
@@ -502,15 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/reality-show-jio-hotstar-kajal-raghwani-said-pawan-singh-forcefully-add-kissing-scene-in-movies-487070 ",
     "time": "2026-08-08T02:31:37.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "‘એક પર હુમલો, બધા પર હુમલો…’ પાકિસ્તાન, સાઉદી અરેબિયા અને તુર્કીએ બનાવ્યું ઈસ્લામિક નાટો, જાણો શું છે મક્કા જોઈન્ટ ડિફેન્સ એગ્રીમેન્ટ?",
-    "desc": "મક્કામાં આયોજિત શિખર સંમેલન દરમિયાન પાકિસ્તાન, સાઉદી અરેબિયા અને તુર્કીએ 'મક્કા જોઈન્ટ ડિફેન્સ એગ્રીમેન્ટ' હેઠળ ડીલ પર હસ્તાક્ષર કર્યા છે. આ ડીલ મુજબ, કોઈપણ એક દેશ પર થયેલો હુમલો ત્રણેય દેશો પર હુમલો ગણવામાં આવશે. જાણો 'મક્કા જોઈન્ટ ડિફેન્સ એગ્રીમેન્ટ' સાથે જોડાયેલી મુખ્ય બાબતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/an-attack-on-one-an-attack-on-all-pakistan-saudi-arabia-and-turkey-formed-an-islamic-nato-know-what-is-the-mecca-joint-defense-agreement-487067 ",
-    "time": "2026-08-07T18:04:22.000Z"
   },
   {
     "cat": "Sports",
@@ -592,15 +556,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/maruti-suzuki-dominates-july-sales-compact-hatchback-hits-23398-units-delivered-486989 ",
     "time": "2026-08-07T06:52:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ચેન્નઈ નહીં KKRમાં જોડાશે હાર્દિક પંડ્યા? ₹25 કરોડ સાથે મળશે કેપ્ટનશીપ!",
-    "desc": "હાર્દિક પંડ્યા આઈપીએલ 2027મા કઈ ટીમ માટે રમશે, ક્રિકેટ ફેન્સ વચ્ચે આ સવાલની ખુબ ચર્ચા થઈ રહી છે. આ વચ્ચે એક રિપોર્ટમાં દાવો કરવામાં આવ્યો કે હાર્દિકને ટ્રેડ કરવાની રેસમાં કોલકત્તા નાઈટ રાઇડર્સ પણ સામેલ થઈ ગયું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/will-hardik-pandya-join-kkr-instead-of-csk-25-crore-offer-along-with-captaincy-role-486973 ",
-    "time": "2026-08-07T05:02:57.000Z"
   },
   {
     "cat": "Entertainment",

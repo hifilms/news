@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "GEPL founder Rajan Navani targets Olympics future for e-cricket after IOC's interest in e-sports",
+    "desc": "Can the Olympics ever have esports in the mix? It’s not a fresh discussion. The International Olympic Committee (IOC) announced plans in 2023 to create the Olympic Esports Games. The idea moved an inch closer...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/gepl-founder-rajan-navani-targets-olympics-future-for-e-cricket-after-ioc-s-interest-in-e-sports-2026-08-11-1051000",
+    "time": "2026-08-11T06:44:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "West Indies, two-time ODI world champions, set to play third consecutive qualifiers",
+    "desc": "After Afghanistan became the 10th team to qualify for the ODI World Cup 2027, West Indies’ future is once again sealed, as the Caribbeans will have to feature in the qualifiers once again to guarantee...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/west-indies-two-time-odi-world-champions-set-to-play-third-consecutive-qualifiers-2026-08-11-1050990",
+    "time": "2026-08-11T05:07:11.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "T Dilip reflects on Virat Kohli's influence on Indian team in terms of setting fielding standards",
     "desc": "Former India fielding coach T Dilip believes Virat Kohli’s intensity remains one of his biggest strengths on the field. He said that the former captain continues to raise the standards of those around him, adding...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/jemimah-rodrigues-puts-inaugural-champions-trophy-in-her-sight-eyes-more-success-after-world-cup-win-2026-08-10-1050941",
     "time": "2026-08-10T12:24:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "T20 Mumbai League set to expand as MCA invites bid for ninth team; check which region will have a side",
-    "desc": "The T20 Mumbai League is set to expand, as the Maharashtra Cricket Association (MCA) has invited bids for the right to operate a new team in the prestigious state franchise tournament. Once a team is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/t20-mumbai-league-set-to-expand-as-mca-invites-bid-for-ninth-team-check-which-region-will-have-a-side-2026-08-10-1050937",
-    "time": "2026-08-10T11:38:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Which IPL franchises are interested in Hardik Pandya trade deal as talks hog limelight?",
-    "desc": "A Hardik Pandya trade deal has gathered interest in recent weeks. A top-quality all-rounder, an Indian finisher, a seam-bowling all-rounder and a captain with proven results. Hardik offers pretty much everything that a team demands,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/which-ipl-franchises-are-interested-in-hardik-pandya-trade-deal-as-talks-hog-limelight-2026-08-10-1050925",
-    "time": "2026-08-10T10:39:51.000Z"
   }
 ];
