@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why did Joburg Super Kings release Faf du Plessis ahead of SA20 2027? Former Proteas all-rounder opines",
+    "desc": "Joburg Super Kings made a bold decision by releasing their long-time captain Faf du Plessis as all the teams confirmed their retained squads and pre-auction signings earlier in August. The decision followed soon after the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-did-joburg-super-kings-release-faf-du-plessis-ahead-of-sa20-2027-former-proteas-all-rounder-opines-2026-08-11-1051083",
+    "time": "2026-08-11T18:17:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India tour of Bangladesh in limbo after ACB confirms dates for T20I series in Delhi after BCCI's nod",
+    "desc": "The Afghanistan Cricket Board (ACB) has confirmed the dates for a T20I series against India in Delhi next month. The ACB sent the message to all the stakeholders about the schedule of the series after...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-tour-of-bangladesh-in-limbo-after-acb-confirms-dates-for-t20i-series-in-delhi-after-bccis-nod-2026-08-11-1051080",
+    "time": "2026-08-11T17:38:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Co-owners Jonty Rhodes, John Abraham unveil Rotterdam Dockers jersey ahead of maiden ETPL",
+    "desc": "Ahead of the inaugural edition of the European T20 Premier League (ETPL), co-owners of Rotterdam Dockers - Jonty Rhodes and John Abraham - have unveiled the jerseys of the franchise during an event in Mumbai...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/co-owners-jonty-rhodes-john-abraham-unveil-rotterdam-dockers-jersey-ahead-of-maiden-etpl-2026-08-11-1051077",
+    "time": "2026-08-11T17:01:54.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "What will happen to WTC 2025-27 points table if India win Sri Lanka Test series 2-0?",
     "desc": "India are set to meet Sri Lanka for a crucial two-match Test series in a few days as they look to make their push for the World Test Championship final. The Shubman Gill-led team has...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/tiger-shroff-pulls-out-of-durand-cup-2026-reveals-reason-watch-2026-08-11-1051033",
     "time": "2026-08-11T10:22:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Delhi Capitals opener Abishek Porel arrested by Hooghly police over rape allegations",
-    "desc": "Delhi Capitals and Bengal’s keeper-batter Abishek Porel was arrested by Hooghly police on Tuesday, August 11, in connection with a case involving allegations of sexual relations on the promise of marriage. Police took Porel into...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/delhi-capitals-opener-abishek-porel-arrested-by-hooghly-police-over-rape-allegations-2026-08-11-1051027",
-    "time": "2026-08-11T09:25:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vidarsa Vinod shares journey from nearly quitting shooting to making India's Asian Games squad",
-    "desc": "Vidarsa Vinod from Kozhikode has been selected for the 10m Air Rifle and 50m Rifle 3 Positions in the upcoming Asian Games 2026 in Aichi-Nagoya. However, her journey that began with an NCC rifle wasn’t...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/vidarsa-vinod-shares-journey-from-nearly-quitting-shooting-to-making-india-s-asian-games-squad-2026-08-11-1051013",
-    "time": "2026-08-11T08:25:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Can Cameron Green and Beau Webster coexist in Australia's playing XI vs Bangladesh? Latter answers",
-    "desc": "Australia all-rounder Beau Webster has proved his mettle so far in the Test circuit. His performance has earned him a genuine place in Australia’s top six. However, with Cameron Green also in the mix, Webster...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/can-cameron-green-and-beau-webster-coexist-in-australia-s-playing-xi-vs-bangladesh-latter-answers-2026-08-11-1051006",
-    "time": "2026-08-11T07:36:20.000Z"
   }
 ];

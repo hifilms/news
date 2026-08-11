@@ -1,21 +1,183 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "MP Parimal Nathwani urges Jharkhand CM Hemant Soren to resolve students' demands through dialogue following lathi charge",
-    "desc": "posted, \"Earnestly request Hon'ble CM Shri Hemant Soren and the Jharkhand government to sympathetically consider the demands of the students. I strongly believe that a peaceful resolution through dialogue is the best way forward to protect the aspirations of our young candidates.\"",
-    "img": "https://static.toiimg.com/photo/msid-133159071,imgsize-232754.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/mp-parimal-nathwani-urges-jharkhand-cm-hemant-soren-to-resolve-students-demands-through-dialogue-following-lathi-charge/articleshow/133159045.cms",
-    "time": "2026-08-11T15:33:05.000Z"
+    "title": "Kerala CPI(M) State secretary  accuses CMO of harbouring synthetic drug peddlers",
+    "desc": "CPI(M) State secretary M.V. Govindan says police “inadvertently” arrested Youth Congress leaders Muhammad Hussien and P.A. Abdul Salam and P. Abbas based on anonymous information without realising their political heft. He alleges that the accused managed Chief Minister’s social media handles, including the dissemination of social media reels lionising Satheesan",
+    "img": "https://th-i.thgim.com/public/incoming/c8izdd/article71333316.ece/alternates/LANDSCAPE_1200/Opposition-sharGR6GBHB69.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-cpim-state-secretary-accuses-cmo-of-harbouring-synthetic-drug-peddlers/article71332729.ece",
+    "time": "2026-08-11T18:42:01.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Former Kerala Minister Ganesh Kumar’s festering dispute with NSS leadership erupts in public domain",
-    "desc": "Ganesh Kumar, who was dropped from the NSS director board following internal disputes in June, launches an oblique attack against the social organisation’s general secretary G. Sukumaran Nair, accusing the incumbent leadership of corruption, nepotism and “misplaced notions” of one-upmanship",
-    "img": "https://th-i.thgim.com/public/incoming/meonq6/article71333410.ece/alternates/LANDSCAPE_1200/80968_24_8_2024_18_51_43_4_NIT_8907.JPG",
+    "title": "CWMA endorses CWRC’s direction to Karnataka to release 12,000 cusecs of water a day for 15 days to Tamil Nadu",
+    "desc": "Karnataka Chief Minister Shivakumar says a decision on the next course of action will be taken after carefully assessing the water availability in the State; CWMA chairperson says Karnataka is in a “comfortable position” to comply with the order",
+    "img": "https://th-i.thgim.com/public/incoming/dwsefn/article71333760.ece/alternates/LANDSCAPE_1200/TH10-KDR-SupremGUOGCH4KO.3.jpg.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/former-kerala-minister-ganesh-kumars-festering-dispute-with-nss-leadership-erupts-in-public-domain/article71333139.ece",
-    "time": "2026-08-11T15:31:14.000Z"
+    "url": "https://www.thehindu.com/news/national/cwma-endorses-cwrcs-direction-to-karnataka-to-release-12000-cusecs-of-water-a-day-for-15-days-to-tamil-nadu/article71333241.ece",
+    "time": "2026-08-11T18:23:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mamata Banerjee protests ‘deeply hurtful’ remarks against Netaji by BJP MP",
+    "desc": "Slogans are also raised against the TMC chairperson at Shyambazar, where she participated in the protest; this is the second time the former West Bengal CM has been called a ‘thief’ at her public events",
+    "img": "https://th-i.thgim.com/public/incoming/h98alz/article71333877.ece/alternates/LANDSCAPE_1200/20260811268L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/mamata-banerjee-protests-deeply-hurtful-remarks-against-netaji-by-bjp-mp/article71333572.ece",
+    "time": "2026-08-11T18:23:07.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "China, Indonesia navies to hold drills in sensitive waters to east of Taiwan",
+    "desc": "“The exercise will ​focus on communication drills and at-sea replenishment, aiming to enhance the ⁠joint operational capabilities of the two navies, deepen practical cooperation, and jointly safeguard regional ‌peace and stability,” says China’s Defence Ministry",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/china-indonesia-navies-to-hold-drills-in-sensitive-waters-to-east-of-taiwan/article71333879.ece",
+    "time": "2026-08-11T18:12:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "FSSAI tightens pan masala packaging norms; bans plastic, foil and synthetic laminates",
+    "desc": "India's food regulatory authority has implemented a ban on plastic packaging for pan masala. The new regulations require the use of sustainable materials such as paper, paperboard, or other naturally sourced options, explicitly prohibiting synthetic polymers and laminates. However, the use of tin and glass containers for pan masala remains allowed. These changes will come into effect following their publication in the official gazette.",
+    "img": "https://static.toiimg.com/photo/msid-133162822,imgsize-167090.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/fssai-tightens-pan-masala-packaging-norms-bans-plastic-foil-and-synthetic-laminates/articleshow/133162799.cms",
+    "time": "2026-08-11T17:59:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Over 23,000 posts vacant in 28 Central health institutions: Health Ministry",
+    "desc": "The 18 AIIMS institutions, which have 4,850 sanctioned faculty posts in 2026-27, have 1,645 vacancies, or about 34% of the sanctioned strength. The data furnished by Minister Anupriya Patel also show a decline in the number of sanctioned posts in some institutions",
+    "img": "https://th-i.thgim.com/public/incoming/8utvpu/article71333825.ece/alternates/LANDSCAPE_1200/bl09-Think1-MaiGUUGC42G8.5.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/over-23000-posts-vacant-in-28-central-health-institutions-health-ministry/article71333397.ece",
+    "time": "2026-08-11T17:36:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why Messi didn't visit Kerala? Sports department tells govt in 'highly confidential manner'",
+    "desc": "Kerala’s Sports Department has submitted a confidential inquiry report into the failed proposal to bring Lionel Messi and Argentina’s football team to the state. The probe examined whether proper procedures and agreements were followed. While reports suggest serious findings, Sports Minister O J Janeesh withheld details. Former minister V Abdurahiman rejected allegations, saying the government suffered no financial loss.",
+    "img": "https://static.toiimg.com/photo/msid-133161867,imgsize-119256.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/why-messi-didnt-visit-kerala-sports-department-tells-govt-in-highly-confidential-manner/articleshow/133161359.cms",
+    "time": "2026-08-11T17:33:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rosario Dawson reveals her Spider-Man: Brand New Day scene was cut",
+    "desc": "Brand New Day but was cut from the final film. The actress shared her mother’s amusing reaction over being unable to post BTS photos and spoke about her special connection to Spider-Man. Dawson also expressed hope of returning as Claire Temple in Marvel’s universe someday.",
+    "img": "https://static.toiimg.com/photo/msid-133161878,imgsize-75657.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/rosario-dawson-reveals-her-spider-man-brand-new-day-scene-was-cut-says-mom-was-upset-over-bts-photos-i-hope-i-get-to-be-claire-temple-again/articleshow/133161851.cms",
+    "time": "2026-08-11T17:31:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Actor Prakash Raj claims his name deleted from electoral rolls in Bengaluru",
+    "desc": "In a video post he shared on his 'X' account, the actor claimed that he was one of the 65 lakh voters whose voting rights had been deleted after the Special Intensive Revision of electoral rolls",
+    "img": "https://th-i.thgim.com/public/incoming/scriyh/article71333110.ece/alternates/LANDSCAPE_1200/PTI04_28_2026_000600B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/sir-actor-prakash-raj-claims-his-name-deleted-from-electoral-rolls-in-bengaluru/article71333103.ece",
+    "time": "2026-08-11T17:20:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "FIR against ex-TMC MLA over 'hurried' cremation of rape victim",
+    "desc": "In a significant development, an FIR has been filed against former TMC MLA Nirmal Ghosh and two individuals in connection with the alleged swift cremation of a junior doctor last year. The doctor's father alleged that the cremation was executed hastily to thwart an autopsy and cover up evidence. Meanwhile, the CBI is independently delving into the related rape and murder investigation.",
+    "img": "https://static.toiimg.com/photo/msid-133161401,imgsize-87572.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/rg-kar-case-fir-against-ex-tmc-mla-over-hurried-cremation-of-rape-victim/articleshow/133161241.cms",
+    "time": "2026-08-11T17:15:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Centre’s panel on demographic changes reaches Jammu, meets local groups",
+    "desc": "“Jagti is home to more than 5,000 Kashmiri Pandit families. The committee met the residents and interacted with them. It listened carefully to their sentiments and suggestions,” says Relief and Rehabilitation Commissioner (Migrants) Arvind Karwani",
+    "img": "https://th-i.thgim.com/public/incoming/wkan17/article71333702.ece/alternates/LANDSCAPE_1200/PTI08_11_2026_000347B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/centres-panel-on-demographic-changes-reaches-jammu-meets-local-groups/article71333579.ece",
+    "time": "2026-08-11T17:01:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "New Zealand, France confirm FIFA U20 WC participation amid UEFA boycott threats",
+    "desc": "The 24-team tournament will be the first FIFA event to take place since UEFA's 55 member associations unanimously backed a boycott of FIFA competitions following Infantino's proposal to sell 20% of the commercial rights to the World Cup to private investors for about $4.2 billion. Infantino later abandoned the plan.",
+    "img": "https://static.toiimg.com/photo/msid-133160624,imgsize-289986.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/new-zealand-join-france-in-confirming-fifa-u20-womens-world-cup-participation-amid-uefa-boycott-threats/articleshow/133160433.cms",
+    "time": "2026-08-11T16:59:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "R Madhavan backs audience getting angry at films even before release",
+    "desc": "Actor R Madhavan strongly believes that audiences hold the title of 'master' within the film industry, underlining their right to share their dissatisfaction regarding films. He points out that social media has enhanced this voice, granting viewers unprecedented influence. Madhavan notes the significant impact that audience opinions have on filmmakers and their loved ones while teasing several upcoming projects across diverse languages.",
+    "img": "https://static.toiimg.com/photo/msid-133160687,imgsize-182866.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-madhavan-says-the-audience-is-absolutely-correct-for-getting-irritated-or-angry-with-a-film-even-before-release-if-the-actor-is-pompous-and-the-director-has-not-done-his-job/articleshow/133160112.cms",
+    "time": "2026-08-11T16:49:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "70 dead, 204 roads blocked: Himachal Pradesh reels under monsoon fury; damage tops Rs 910 crore",
+    "desc": "Himachal Pradesh has been severely affected by monsoon rains, resulting in 70 fatalities and 204 roadblocks. Damages to public property have skyrocketed to over Rs 910 crore. The primary causes of these tragic deaths include landslides and mishaps from steep terrains. Additionally, 93 lives were lost due to road accidents during this challenging period. Restoration efforts are ongoing but are significantly hindered by continuous rain, creating additional hazards.",
+    "img": "https://static.toiimg.com/photo/msid-133160522,imgsize-244182.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/70-dead-204-roads-blocked-himachal-pradesh-reels-under-monsoon-fury-damage-tops-rs-910-crore/articleshow/133160297.cms",
+    "time": "2026-08-11T16:42:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court agrees to Tamil Nadu government’s plea for early hearing of Cauvery water dispute",
+    "desc": "T.N. Government said Karnataka had continued to defy the orders of the Cauvery Tribunal for allocation of water to its neighbour except a few times when there were inevitable surpluses in the reservoirs on account of floods",
+    "img": "https://th-i.thgim.com/public/incoming/modvi9/article71327275.ece/alternates/LANDSCAPE_1200/TH03-KDR--replaGMHGBH060.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/supreme-court-agrees-to-tn-government-plea-to-hear-cauvery-water-dispute-early/article71327167.ece",
+    "time": "2026-08-11T16:35:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Karnataka govt to evaluate CWRC recommendation",
+    "desc": "Responding to the CWRC recommendation on releasing Cauvery water to Tamil Nadu, Karnataka ministers Santosh Lad and Ajay Singh said the state government will review the proposal before making a decision. The matter will be evaluated by the Chief Minister and the concerned minister before a final call is taken.",
+    "img": "https://th-i.thgim.com/public/incoming/7c4jd/article71333668.ece/alternates/LANDSCAPE_1200/TH10-KDR-SupremGUOGCH4KO.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/shorts/cauvery-water-release-to-tn-karnataka-govt-to-evaluate-cwrc-recommendation/article71333669.ece",
+    "time": "2026-08-11T16:28:31.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India’s LPG dependence on U.S.",
+    "desc": "India’s reliance on the U.S. for two-thirds of its LPG assumes significance, signalling prudent diversification of sources amid the crisis in the narrow Strait of Hormuz, which suggests that the country’s LPG security cannot be anchored to a single geography",
+    "img": "https://th-i.thgim.com/public/incoming/ucmdc7/article71331083.ece/alternates/LANDSCAPE_1200/2026-03-27T161753Z_1283682783_RC2B2KAL76JZ_RTRMADP_3_USA-ECONOMY.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/indias-lpg-dependence-on-the-us-explained/article71331052.ece",
+    "time": "2026-08-11T16:22:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rhea Chakraborty says ‘people inside jail are better than people outside’",
+    "desc": "Rhea Chakraborty opened up about her 27 days in prison during a candid interaction with Tanmay Bhat. The actress recalled how inmates spent their time singing, dancing and making thecha, while observing that everyone was treated equally inside. She also joked about jail food and revisited the intense scrutiny she faced during Sushant Singh Rajput’s case.",
+    "img": "https://static.toiimg.com/photo/msid-133159333,imgsize-43745.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rhea-chakraborty-recalls-jail-days-says-people-inside-are-better-than-people-outside-reveals-inmates-timepass-and-food-served-in-prison/articleshow/133159300.cms",
+    "time": "2026-08-11T15:52:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Urmila drops cryptic note after ex-husband Mohsin shares second wedding PICS",
+    "desc": "Mohsin Akhtar celebrated his second wedding reception with Nidhaa Bhatt, as he shared photos and expressed his love for her, describing her as both his home and his peace. Meanwhile, his ex-wife, Urmila Matondkar, shared a mysterious message touching on themes of love and loyalty. Earlier this year, Mohsin made headlines as he announced his second marriage following a decade-long union that ended in divorce.",
+    "img": "https://static.toiimg.com/photo/msid-133159270,imgsize-309263.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/urmila-matondkar-drops-cryptic-note-after-ex-husband-mohsin-akhtar-drops-second-wedding-pics-i-like-love-loyalty-and-time/articleshow/133158938.cms",
+    "time": "2026-08-11T15:48:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "MP Parimal Nathwani urges Jharkhand CM Hemant Soren to resolve students' demands through dialogue following lathi charge",
+    "desc": "posted, \"Earnestly request Hon'ble CM Shri Hemant Soren and the Jharkhand government to sympathetically consider the demands of the students. I strongly believe that a peaceful resolution through dialogue is the best way forward to protect the aspirations of our young candidates.\"",
+    "img": "https://static.toiimg.com/photo/msid-133159071,imgsize-37186.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/mp-parimal-nathwani-urges-jharkhand-cm-hemant-soren-to-resolve-students-demands-through-dialogue-following-lathi-charge/articleshow/133159045.cms",
+    "time": "2026-08-11T15:33:05.000Z"
   },
   {
     "cat": "Business",
@@ -27,15 +189,6 @@ const newsData_en = [
     "time": "2026-08-11T15:29:19.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kerala CPI(M) State secretary  accuses CMO of harbouring synthetic drug peddlers",
-    "desc": "CPI(M) State secretary M.V. Govindan says police “inadvertently” arrested Youth Congress leaders Muhammad Hussien and P.A. Abdul Salam and P. Abbas based on anonymous information without realising their political heft. He alleges that the accused managed Chief Minister’s social media handles, including the dissemination of social media reels lionising Satheesan",
-    "img": "https://th-i.thgim.com/public/incoming/c8izdd/article71333316.ece/alternates/LANDSCAPE_1200/Opposition-sharGR6GBHB69.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-cpim-state-secretary-accuses-cmo-of-harbouring-synthetic-drug-peddlers/article71332729.ece",
-    "time": "2026-08-11T15:14:25.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Suriya reveals why his 1,700 sq ft Mumbai home feels better",
     "desc": "Actor Suriya enjoys the intimate charm of his 1700 sq ft home in Mumbai, a space filled with warmth and comfort. The couple moved here to reinforce family ties with Jyotika's parents during the pandemic. Their transition underscores the significance of family in challenging times. Don't miss Suriya's upcoming film 'Vishwanath and Sons,' releasing on August 14.",
@@ -45,24 +198,6 @@ const newsData_en = [
     "time": "2026-08-11T15:11:55.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Kerala Muttil tree-felling case: two accused appear before Chottanikkara court in cheating case",
-    "desc": "The court had issued non-bailable warrants to three following their failure to appear on Monday in connection with a petition filed by M.M. Aliyar, proprietor of Malabar Timber Industries, Karimugal, alleging fraud in the sale of timber from illegally felled trees in 2021,",
-    "img": "https://th-i.thgim.com/public/incoming/70le82/article71332830.ece/alternates/LANDSCAPE_1200/IMG_09tvwy-police-probe-_2_1_4V8M7DLS.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-muttil-tree-felling-case-chottanikkara-court-issues-non-bailable-warrants-to-augustine-brothers-in-cheating-case/article71332575.ece",
-    "time": "2026-08-11T15:09:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "As Polavaram looms, Koyas cast one last net in Godavari floods",
-    "desc": "Using the traditional bamboo-framed Pander Valla, Koya fishers make the most of the flood season on the Godavari, Sabari and their tributaries as the Polavaram project threatens to submerge their villages and disrupt centuries-old ties with the rivers",
-    "img": "https://th-i.thgim.com/public/incoming/rivxh8/article71333117.ece/alternates/LANDSCAPE_1200/10237_11_8_2026_19_51_35_1_DSC04445.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/as-polavaram-looms-koyas-cast-one-last-net-in-godavari-floods/article71332918.ece",
-    "time": "2026-08-11T15:00:58.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'I don't aim for a bulky body'",
     "desc": "Veteran actor Sunny Deol, at 68, continues to embrace action-hero roles, starring in the upcoming period drama 'Batwara 1947'. He says that age doesn't dictate his choices, as he still feels like a young hero and maintains his fitness for energy and health. The actor opens up on his fitness secrets, his diet and how he is not in the mood to step down as an action star anytime soon.",
@@ -70,15 +205,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunny-deol-reveals-his-fitness-regime-at-68-as-he-continues-action-packed-roles-i-dont-aim-for-a-bulky-body-no-diet-as-i-ended-up-eating-samosas-desi-ghee-parathas/articleshow/133158069.cms",
     "time": "2026-08-11T14:49:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Actor Prakash Raj claims his name deleted from electoral rolls in Bengaluru",
-    "desc": "In a video post he shared on his 'X' account, the actor claimed that he was one of the 65 lakh voters whose voting rights had been deleted after the Special Intensive Revision of electoral rolls",
-    "img": "https://th-i.thgim.com/public/incoming/scriyh/article71333110.ece/alternates/LANDSCAPE_1200/PTI04_28_2026_000600B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/sir-actor-prakash-raj-claims-his-name-deleted-from-electoral-rolls-in-bengaluru/article71333103.ece",
-    "time": "2026-08-11T14:43:02.000Z"
   },
   {
     "cat": "Politics",
@@ -225,15 +351,6 @@ const newsData_en = [
     "time": "2026-08-11T12:17:57.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Air India CEO meets MoCA, DGCA amid Phuket flight turbulence probe",
-    "desc": "Air India's departing CEO recently conferred with government representatives about a serious turbulence event that led to injuries and hospitalizations of those on board. The investigation is focused on potential mechanical failures and pilot behavior. Interestingly, the pilot's initial test for psychoactive substances did not return negative. Further steps will depend on the outcomes of the ongoing investigations and confirmation tests.",
-    "img": "https://static.toiimg.com/photo/msid-133153733,imgsize-972727.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/air-india-ceo-meets-moca-dgca-amid-phuket-flight-turbulence-probe/articleshow/133153102.cms",
-    "time": "2026-08-11T11:58:20.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Delhi high court denies bail to Olympic medalist Sushil Kumar in murder case",
     "desc": "Justice Purushaindra Kumar dismissed Kumar's bail plea on August 6, citing concerns about his ability to influence witnesses, his conduct before his arrest, the seriousness of the alleged offence and his ability to affect the outcome of the ongoing trial.",
@@ -241,15 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/off-the-field/premeditated-and-gruesome-assault-delhi-high-court-denies-bail-to-olympic-medalist-sushil-kumar-in-murder-case/articleshow/133152292.cms",
     "time": "2026-08-11T11:43:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Discussed India-US ties': Sergio Gor holds talks with NSA Ajit Doval",
-    "desc": "On Tuesday, US Ambassador Sergio Gor engaged in significant talks with National Security Advisor Ajit Doval, focusing on enhancing strategic ties between Washington and New Delhi. Gor emphasized the importance of these discussions for global security, following his prior meeting with Foreign Secretary Vikram Misri on Monday. This diplomatic dialogue came just days after US Vice President J D Vance's conversation with PM Modi, highlighting the ongoing collaboration.",
-    "img": "https://static.toiimg.com/photo/msid-133153083,imgsize-83531.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/discussed-india-us-ties-us-ambassador-sergio-gor-meets-nsa-ajit-doval/articleshow/133153039.cms",
-    "time": "2026-08-11T11:40:29.000Z"
   },
   {
     "cat": "Business",
@@ -397,30 +505,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Quote of the day by Bill Cosby",
-    "desc": "Bill Cosby teaches us a valuable lesson about the futility of trying to please everyone to avoid failure. By striving to satisfy the masses, we risk losing our individuality and vision. Cosby, who rose from modest beginnings in Philadelphia, pursued comedy while studying and fully embraced entertainment as his career. His decades-long journey significantly influenced minorities in the industry and left a lasting impact.",
-    "img": "https://static.toiimg.com/photo/msid-133149319,imgsize-185233.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-bill-cosby-i-dont-know-the-key-to-success-but-the-key-to-failure-is-trying-to-please-everybody-a-lesson-from-the-i-spy-star-on-how-important-it-is-to-live-for-yourself/articleshow/133149232.cms",
-    "time": "2026-08-11T09:31:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Urmila Matondkar's ex-husband Mohsin drops reception PICS from second wedding",
     "desc": "Mohsin Akhtar, Urmila Matondkar's ex-husband, recently shared reception photos with his new wife Nidhaa Bhatt. He expressed his deep gratitude and love for his wife in a heartfelt romantic note. Netizens reacted positively to the beautiful couple's pictures and offered blessings. However, some trolls questioned his promises and his past marriage to Urmila. Mohsin and Urmila were married in 2016 and their union attracted attention.",
     "img": "https://static.toiimg.com/photo/msid-133149207,imgsize-404751.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/urmila-matondkars-ex-husband-mohsin-akhtar-drops-reception-pics-months-after-second-wedding-with-nidhaa-bhatt-says-grateful-to-god-for-bringing-you-into-my-life-netizens-react/articleshow/133148925.cms",
     "time": "2026-08-11T09:22:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘SRK paid compliment’: Neha Dhupia on SRK’s reaction to ‘only sex or Shah Rukh’ quote",
-    "desc": "In a recent interview, Neha Dhupia revisited her iconic \"Only s** or Shah Rukh Khan sells\" quote from early in her career, revealing that SRK himself once responded to it in a newspaper interview, calling her \"a very intelligent girl.\" The actress also admitted that despite years of fame, she still gets a little starstruck around the superstar at parties.",
-    "img": "https://static.toiimg.com/photo/msid-133149139,imgsize-139972.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/srk-has-paid-me-a-compliment-neha-dhupia-recalls-shah-rukh-khans-reaction-to-her-iconic-only-s-or-shah-rukh-khan-sells-quote-admits-she-still-gets-nervous-around-him/articleshow/133147562.cms",
-    "time": "2026-08-11T09:20:51.000Z"
   },
   {
     "cat": "World",
@@ -430,24 +520,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trump-secretly-flew-out-of-turkiye-after-nato-summit-because-of-iran-threat-report/article71331472.ece",
     "time": "2026-08-11T09:10:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anne Hathaway proudly shows off her baby bump",
-    "desc": "Anne Hathaway recently showcased her baby bump at a film premiere. She continued to proudly display her pregnancy while visiting Jimmy Kimmel Live. The actress wore a black blouse and trousers, highlighting her growing baby bump. This appearance follows online rumors about her pregnancy, which she addressed humorously. Hathaway and her husband are expecting their third child, with two sons already.",
-    "img": "https://static.toiimg.com/photo/msid-133148995,imgsize-192711.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/anne-hathaway-flaunts-a-baby-bump-in-a-new-outing-she-stuns-in-an-all-black-fit-while-heading-to-jimmy-kimmel-live/articleshow/133148938.cms",
-    "time": "2026-08-11T09:08:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Inside Nupur Sanon and Stebin Ben’s sea facing Bandra Mumbai home",
-    "desc": "Nupur Sanon and Stebin Ben, newlyweds basking in love, have made their home in a stunning sea-facing apartment nestled in Bandra. With a chic minimalist design enriched with lush greenery and personal touches, the breathtaking ocean view evokes memories of Dubai for Nupur. Their living space, adorned with awards and a piano, beautifully showcases their mutual passion for music, making this residence a perfect blend of creativity and comfort.",
-    "img": "https://static.toiimg.com/photo/msid-133148778,imgsize-238894.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/inside-nupur-sanon-and-stebin-bens-sea-facing-bandra-mumbai-home-with-dubai-like-views-and-ms-dhoni-guru-randhawa-as-neighbours/articleshow/133148386.cms",
-    "time": "2026-08-11T08:56:40.000Z"
   },
   {
     "cat": "Tech",
@@ -565,33 +637,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/league-points-will-stick-around-why-opening-games-are-crucial-at-hockey-world-cup/articleshow/133142914.cms",
     "time": "2026-08-11T05:28:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘MSN’ reunion after 10 years? Will Neymar join Messi and Suárez at Inter Miami",
-    "desc": "Neymar’s contract dilemma at Santos stirs rumours about a possible transfer. Inter Miami aim to revive the legendary MSN trio as Lionel Messi and Luis Suárez have already joined forces in Florida. This potential shift could serve as a nostalgic finale for the renowned Barcelona trio. Ultimately, Neymar's choice will shape the future of this much-anticipated reunion.",
-    "img": "https://static.toiimg.com/photo/msid-133142974,imgsize-133984.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/msn-reunion-after-10-years-will-neymar-join-messi-and-surez-at-inter-miami/articleshow/133142843.cms",
-    "time": "2026-08-11T05:23:54.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India’s LPG dependence on U.S.",
-    "desc": "India’s reliance on the U.S. for two-thirds of its LPG assumes significance, signalling prudent diversification of sources amid the crisis in the narrow Strait of Hormuz, which suggests that the country’s LPG security cannot be anchored to a single geography",
-    "img": "https://th-i.thgim.com/public/incoming/ucmdc7/article71331083.ece/alternates/LANDSCAPE_1200/2026-03-27T161753Z_1283682783_RC2B2KAL76JZ_RTRMADP_3_USA-ECONOMY.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/indias-lpg-dependence-on-the-us-explained/article71331052.ece",
-    "time": "2026-08-11T05:03:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Deepanshu suspended, out of Asian Games",
-    "desc": "It has been learnt that Deepanshu’s sample was collected by dope control officers at the Lucknow camp. The sample was subsequently tested at the National Dope Testing Laboratory (NDTL), where it returned positive for stanozolol. The latest doping case is particularly serious as it is Deepanshu’s second offence. He had earlier served a threeyear ban for a doping violation involving the same prohibited substance.",
-    "img": "https://static.toiimg.com/photo/msid-133142597,imgsize-20742.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/doping-blow-deepanshu-suspended-out-of-asian-games/articleshow/133142416.cms",
-    "time": "2026-08-11T04:51:38.000Z"
   },
   {
     "cat": "Sports",
@@ -819,15 +864,6 @@ const newsData_en = [
     "time": "2026-08-09T12:54:56.000Z"
   },
   {
-    "cat": "World",
-    "title": "Iran Guards say they won’t reopen Hormuz without U.S. meeting all Tehran’s conditions",
-    "desc": "Iran's security chief Mohammad Bagher Zolghadr on Saturday (August 8) laid out a list of demands for reopening the strait, including an end to the ‘war and aggression against Iran and its allies in Lebanon, Palestine, Yemen and Iraq’",
-    "img": "https://th-i.thgim.com/public/incoming/5w6orp/article71324478.ece/alternates/LANDSCAPE_1200/2026-08-06T132146Z_488707972_RC2YSMA0C0J5_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-guards-say-wont-reopen-hormuz-without-us-meeting-all-tehrans-conditions/article71324444.ece",
-    "time": "2026-08-09T12:22:59.000Z"
-  },
-  {
     "cat": "Business",
     "title": "UPI stays free for users, vast majority of transactions to remain free for merchants as well, says government",
     "desc": "The government said any future merchant discount rate (MDR), if introduced, would apply only to a limited set of merchant transactions above a specified threshold and at a nominal rate, which would be lower than typical debit and credit card MDRs",
@@ -846,15 +882,6 @@ const newsData_en = [
     "time": "2026-08-09T09:42:02.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Australia head coach McDonald flags tough calls on players' IPL participation ahead of packed 2027 schedule",
-    "desc": "The IPL window in 2027 is expected to fall between Australia’s five-Test tour of India and a possible World Test Championship final, making it the only substantial period available for the team’s senior fast bowlers to rest and undergo conditioning ahead of the Ashes",
-    "img": "https://th-i.thgim.com/public/incoming/4b1s4c/article71322900.ece/alternates/LANDSCAPE_1200/2188465996.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/australia-head-coach-mcdonald-flags-tough-calls-on-players-ipl-participation-ahead-of-packed-2027-schedule/article71322891.ece",
-    "time": "2026-08-09T08:32:11.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Transfer to core from satellite?",
     "desc": "You can transfer gains from your satellite to a core portfolio but not the other way around; this constraint is very important to protect the excess gains you may have in any of your core portfolios",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-maadhu-balaji-on-keeping-crazy-mohans-legacy-alive-with-chamber-of-humour/article71320617.ece",
     "time": "2026-08-09T00:15:45.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Teaching AI to speak India",
-    "desc": "Artificial intelligence can chat, translate and answer questions but only if it understands your language. At IIT Madras, researchers at AI4Bharat are travelling across India, collecting voices, preserving dialects and teaching AI to understand the country’s incredible linguistic diversity.",
-    "img": "https://th-i.thgim.com/public/incoming/y693sa/article71280832.ece/alternates/LANDSCAPE_1200/iStock-1066071372.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/internet/teaching-ai-to-speak-india/article71280380.ece",
-    "time": "2026-08-09T00:15:19.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Hero MotoCorp Q1 PAT down 16.86% at ₹1,417.93 crore",
-    "desc": "The previous year PAT included a one-time gain of ₹722 crore on account of dilution of the company's share of investment in associates consequent to public issue and private placement, Hero MotoCorp said in a statement",
-    "img": "https://th-i.thgim.com/public/incoming/xx3xy6/article71319140.ece/alternates/LANDSCAPE_1200/Hero-MotoCorp-mG1NG8GMNO.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/hero-motocorp-q1-pat-down-1686-at-141793-crore/article71319133.ece",
-    "time": "2026-08-08T20:48:47.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Revamp of Model Bilateral Investment Treaty in works, to be presented to Cabinet soon: Secy",
-    "desc": "\"The BIT is under review, and we are looking at many other clauses based on our experience in the negotiations and based on global practices...it is a work in progress. Consultations are underway, and we are reviewing the Model BIT,\" says Anuradha Thakur",
-    "img": "https://th-i.thgim.com/public/incoming/5vuq46/article71319125.ece/alternates/LANDSCAPE_1200/B3_RVM_6359.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/revamp-of-model-bilateral-investment-treaty-in-works-to-be-presented-to-cabinet-soon-secy/article71319094.ece",
-    "time": "2026-08-08T20:46:24.000Z"
   }
 ];
