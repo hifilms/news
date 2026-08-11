@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Lionel Messi takes indefinite break from football after father's death, no return date set",
+    "desc": "Argentine legend Lionel Messi has reportedly taken a break from football following the death of his father, Jorge Messi. His father, Jorge, passed away a few days ago at a clinic in Rosario after a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/lionel-messi-takes-indefinite-break-from-football-after-fathers-death-no-return-date-set-2026-08-11-1051055",
+    "time": "2026-08-11T12:29:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "South Africa name Bjorn Fortuin as captain Namibia white-ball tour, Duan Jansen gets maiden call up",
+    "desc": "South Africa have named their squad for the white-ball tour of Namibia, as Bjorn Fortuin will be captaining the side to kick off a busy summer for the Proteas men's side. Most of the regular...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-name-bjorn-fortuin-as-captain-namibia-white-ball-tour-duan-jansen-gets-maiden-call-up-2026-08-11-1051053",
+    "time": "2026-08-11T12:10:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Moises Henriques named Portugal captain for T20 World Cup Europe qualifiers after his switch from Australia",
+    "desc": "Moises Henriques will lead Portugal in their bid to reach the T20 World Cup for the first time. The former Australia all-rounder will be taking charge of the side at the T20 World Cup Europe...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/moises-henriques-named-portugal-captain-for-t20-world-cup-europe-qualifiers-after-his-switch-from-australia-2026-08-11-1051042",
+    "time": "2026-08-11T11:10:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Klaasen, Miller, Allen head to ILT20, Stoinis returns as teams announce pre-auction signings",
+    "desc": "The ILT20 will have more star international players making their debuts, as South African stars Heinrich Klaasen and David Miller and New Zealand's Finn Allen have penned deals with the franchises. Klaasen and Miller have...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/klaasen-miller-allen-head-to-ilt20-stoinis-returns-as-teams-announce-pre-auction-signings-2026-08-11-1051040",
+    "time": "2026-08-11T11:06:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tiger Shroff pulls out of Durand Cup 2026, reveals reason",
+    "desc": "Tiger Shroff will miss Mumbay FC’s Durand Cup 2026 group-stage match against Nongkseh SS&CC in Shillong on Tuesday after a last-minute work commitment forced him to pull out. The 36-year-old actor had registered with Mumbay...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/tiger-shroff-pulls-out-of-durand-cup-2026-reveals-reason-watch-2026-08-11-1051033",
+    "time": "2026-08-11T10:22:21.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Delhi Capitals opener Abishek Porel arrested by Hooghly police over rape allegations",
     "desc": "Delhi Capitals and Bengal’s keeper-batter Abishek Porel was arrested by Hooghly police on Tuesday, August 11, in connection with a case involving allegations of sexual relations on the promise of marriage. Police took Porel into...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/west-indies-two-time-odi-world-champions-set-to-play-third-consecutive-qualifiers-2026-08-11-1050990",
     "time": "2026-08-11T05:07:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "T Dilip reflects on Virat Kohli's influence on Indian team in terms of setting fielding standards",
-    "desc": "Former India fielding coach T Dilip believes Virat Kohli’s intensity remains one of his biggest strengths on the field. He said that the former captain continues to raise the standards of those around him, adding...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/t-dilip-reflects-on-virat-kohli-s-influence-on-indian-team-in-terms-of-setting-fielding-standards-2026-08-11-1050984",
-    "time": "2026-08-11T03:53:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ajinkya Rahane reveals chat with Sachin Tendulkar after his sudden retirement announcement",
-    "desc": "Former India cricketer Ajinkya Rahane announced his retirement late last month. Since then, he has signed for Amsterdam Flames in the European T20 competition. In the meantime, the Mumbai batter revealed that it was legendary...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ajinkya-rahane-reveals-chat-with-sachin-tendulkar-after-his-sudden-retirement-announcement-2026-08-11-1050979",
-    "time": "2026-08-11T03:15:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Afghanistan earn direct entry into ODI World Cup 2027 after hard-fought win over Ireland",
-    "desc": "Afghanistan have booked a direct place in the upcoming ODI World Cup 2027 after a hard-fought win over Ireland in the third ODI at Civil Service Cricket Club, Belfast, on Monday, August 10. The Rahmat...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/afghanistan-earn-direct-entry-into-odi-world-cup-2027-after-hard-fought-win-over-ireland-2026-08-10-1050971",
-    "time": "2026-08-10T18:12:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sourav Ganguly and his wife receive death threats, complaint filed; police begin investigation",
-    "desc": "Former India captain Sourav Ganguly and his wife received several threatening letters in the last few months, including one that warned of killing him and his wife, Dona Ganguly. A complaint was filed by Ganguly,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sourav-ganguly-and-his-wife-receive-death-threats-complaint-filed-police-begin-investigation-2026-08-10-1050967",
-    "time": "2026-08-10T17:15:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mitchell Starc set to surpass Kapil Dev, Dale Steyn in major record list as Australia host Bangladesh",
-    "desc": "Australia star fast-bowler Mitchell Starc is set to go past India legend Kapil Dev and South Africa icon Dale Steyn in the list of most wickets taken in Test cricket's history. Starc gears up for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mitchell-starc-set-to-surpass-kapil-dev-dale-steyn-in-major-record-list-as-australia-host-bangladesh-2026-08-10-1050964",
-    "time": "2026-08-10T16:18:54.000Z"
   }
 ];
