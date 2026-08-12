@@ -1,39 +1,174 @@
 const newsData_en = [
   {
-    "cat": "Politics",
-    "title": "DG Prisons orders probe into source of mobile phone used by Prajwal Revanna inside Bengaluru jail",
-    "desc": "Director-General of Prisons and Correctional Services Alok Kumar has ordered a departmental inquiry to trace the source of the mobile phone and SIM card allegedly used by former Hassan MP and convicted sexual assault accused Prajwal Revanna inside Bengaluru Central Prison at Parappana Agrahara.",
-    "img": "https://th-i.thgim.com/public/incoming/n0qxy4/article71337718.ece/alternates/LANDSCAPE_1200/DSC_5745.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/bangalore/dg-prisons-orders-probe-into-source-of-mobile-phone-used-by-prajwal-revanna-inside-bengaluru-jail/article71337485.ece",
-    "time": "2026-08-12T15:45:27.000Z"
+    "cat": "Entertainment",
+    "title": "Travis Kelce calls Taylor Swift wedding ‘the best night of my life’",
+    "desc": "Travis Kelce has opened up about his wedding to Taylor Swift, calling the celebration “the best night of my life” and “a crazy night” full of celebration. The Kansas City Chiefs star also reflected on tying the knot at Madison Square Garden and thanked everyone who attended, before shifting his focus back to football.",
+    "img": "https://static.toiimg.com/photo/msid-133190991,imgsize-111503.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/travis-kelce-calls-taylor-swift-wedding-a-crazy-night-and-the-best-night-of-my-life-full-of-a-lot-of-celebration/articleshow/133190907.cms",
+    "time": "2026-08-12T18:18:56.000Z"
   },
   {
     "cat": "Politics",
-    "title": "U.S. Court drops charges, Rahul Gandhi attacks Modi",
-    "desc": "The U.S. has dismissed criminal charges against Adani Group chairman Gautam Adani, his nephew Sagar Adani and former Adani Green Energy CEO Vneet Jaain. What exactly did the U.S. case allege, why did prosecutors bring charges, and why were they dismissed?",
-    "img": "https://th-i.thgim.com/public/news/national/c85sse/article71337706.ece/alternates/LANDSCAPE_1200/mamata.jpg",
+    "title": "Justice Varma’s withdrawal from probe cannot end statutory inquiry, says Lok Sabha panel",
+    "desc": "The panel says a statutory inquiry cannot depend on the ‘unilateral’ decision of a judge under inquiry, especially after the ‘evidence has substantially come on record’. It says Justice Varma was given a reasonable opportunity to make his case before it",
+    "img": "https://th-i.thgim.com/public/incoming/6j5p0t/article71338218.ece/alternates/LANDSCAPE_1200/vbk-16-9-Justice%20Yashwant%20Varma.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/adani-case-us-court-drops-charges-rahul-gandhi-attacks-modi/article71337707.ece",
-    "time": "2026-08-12T15:42:33.000Z"
+    "url": "https://www.thehindu.com/news/national/justice-varmas-withdrawal-from-probe-cannot-end-statutory-inquiry-says-lok-sabha-panel/article71337801.ece",
+    "time": "2026-08-12T17:53:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "SL vs IND Tests",
+    "desc": "A spate of retirements, injuries and selectorial interventions have left the squad in a state of flux; coach Gambhir and captain Gill will be looking at the two-Test series as a chance to get over transition blues and chase success",
+    "img": "https://th-i.thgim.com/public/incoming/nzy4ft/article71337283.ece/alternates/LANDSCAPE_1200/PTI08_04_2026_000521B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/sl-vs-ind-tests-india-arrives-in-the-emerald-isle-seeking-a-fresh-path-in-tests/article71337009.ece",
+    "time": "2026-08-12T17:49:30.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Govt revises ACC PLI timelines for Ola Electric; unlocks up to ₹7,240 crore",
+    "desc": "The MHI revision is much more than a timeline extension. The approval secures a full five-year PLI window through CY2031 for Ola Electric's 20 GWh allocation and unlocks up to ₹7,240 crore in cumulative PLI incentives, the company said in a statement",
+    "img": "https://th-i.thgim.com/public/incoming/1s7bye/article71338191.ece/alternates/LANDSCAPE_1200/Ola-Consumers-GESFUV3B9.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/govt-revises-acc-pli-timelines-for-ola-electric-unlocks-up-to-7240-crore/article71338180.ece",
+    "time": "2026-08-12T17:42:13.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Heavy monsoon and sea surges batter Kollam beach",
-    "desc": "Despite the escalating crisis, a multi-crore coastal protection initiative designed to halt the erosion remains caught in administrative limbo. Initiated four years ago by the Kerala Coastal Development Corporation, the project relies on offshore geo-tube technology to break wave energy underwater and promote natural sand accumulation",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/9onqic/article71337272.ece/alternates/LANDSCAPE_1200/13tvko-Kollam%20beach.jpg",
+    "title": "Bellad",
+    "desc": "Deputy Leader of the Opposition in the Legislative Assembly Arvind Bellad on Wednesday says that renovation work of Dr. Mallikarjun Mansur Kala Bhavan in Dharwad will be completed and made available for public use soon",
+    "img": "https://th-i.thgim.com/public/incoming/jjzvez/article71338179.ece/alternates/LANDSCAPE_1200/2699_12_8_2026_19_37_55_1_13HUBLIBELLADINSPECTION.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/heavy-monsoon-and-sea-surges-batter-kollam-beach/article71337161.ece",
-    "time": "2026-08-12T15:42:04.000Z"
+    "url": "https://www.thehindu.com/news/national/karnataka/mallikarjun-mansur-kala-bhavan-to-be-opened-for-public-soon-bellad/article71337084.ece",
+    "time": "2026-08-12T17:40:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "FC Goa crash out of AFC Champions League Two after 0-3 loss",
+    "desc": "FC Goa’s AFC Champions League Two campaign ended with a 0-3 loss to Turkmenistan’s FC Arkadag. After a goalless first half, Arkadag scored three times in 17 minutes after the break to seal victory. FC Goa will now compete in the AFC Challenge League, while Arkadag advance to the Champions League Two group stage, with the draw on August 18.",
+    "img": "https://static.toiimg.com/photo/msid-133189576,imgsize-96151.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/fc-goa-crash-out-of-afc-champions-league-two-after-0-3-loss-to-turkmenistans-fc-arkadag/articleshow/133189509.cms",
+    "time": "2026-08-12T17:32:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "SBI uses AI to underwrite nearly ₹1 lakh crore in MSME loans in FY26",
+    "desc": "\"In FY26, in 12 months, we can underwrite loans up to ₹5 crore, both covering the new-to-bank customers, as well as existing customers. Almost ₹1 lakh crore we were able to underwrite,\" says SBI Managing Director",
+    "img": "https://th-i.thgim.com/public/incoming/vnsg76/article71338146.ece/alternates/LANDSCAPE_1200/SBI-Q3-FY26-netG1JFI8K5B.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/sbi-uses-ai-to-underwrite-nearly-1-lakh-crore-in-msme-loans-in-fy26/article71338121.ece",
+    "time": "2026-08-12T17:29:23.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "The legacy that still divides Cuba",
+    "desc": "A century after his birth, Fidel Castro remains one of the most influential and controversial figures of the 20th century. Supporters credit him with transforming Cuba through education, healthcare and anti-colonial politics, while critics point to authoritarian rule and economic challenges.",
+    "img": "https://th-i.thgim.com/public/incoming/6ltlw8/article71338064.ece/alternates/LANDSCAPE_1200/Black%20and%20Red%20Dynamic%20Bold%20World%20Affairs%20and%20News%20YouTube%20Thumbnail.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/100-years-of-fidel-castro-the-legacy-that-still-divides-cuba/article71338070.ece",
+    "time": "2026-08-12T16:59:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan players 'more focused on earning money': Ex-chief selector claims",
+    "desc": "Former Pakistan spinner Iqbal Qasim criticised young cricketers for prioritising money and league contracts over improving skills and game awareness. He also questioned selectors’ lack of vision and warned against interference in cricket administration. Recalling his playing days, Qasim highlighted the importance of independent preparation, discipline and representing Pakistan, saying financial rewards naturally follow improved performance.",
+    "img": "https://static.toiimg.com/photo/msid-133188409,imgsize-70932.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-players-more-focused-on-earning-money-former-chief-selector-makes-huge-claim/articleshow/133187760.cms",
+    "time": "2026-08-12T16:40:43.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Kerala Police reconstitute team probing attack on ED officials",
-    "desc": "Investigation has entered its final stages and a large team is no longer considered necessary. Most of the accused have already secured bail, while the focus of the investigation has shifted to the alleged conspiracy behind the attack",
+    "title": "Rajya Sabha passes Bills to change Kerala’s name, strengthen NCDC",
+    "desc": "The Lok Sabha passed the Kerala (Alteration of Name) Bill, 2026, on August 11. The Kerala Assembly passed a resolution in 2024, urging the Centre to bring a law to change the name of the State to Keralam",
+    "img": "https://th-i.thgim.com/public/incoming/1oz5dl/article71337306.ece/alternates/LANDSCAPE_1200/20260812166L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/parliament-passes-bill-to-rename-kerala-as-keralam/article71337234.ece",
+    "time": "2026-08-12T16:39:39.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Putin threatens retaliation for Western seizures of Russian commercial vessels",
+    "desc": "Mr. Putin added that the Russian response wouldn't necessarily come in the waters where the Russian ships were seized, noting that Moscow could retaliate “in any area where we see it as necessary and appropriate,” including in the Pacific",
+    "img": "https://th-i.thgim.com/public/incoming/wbpjmw/article71337963.ece/alternates/LANDSCAPE_1200/AFP__20260812__C4FP6HU__v1__HighRes__RussiaPoliticsArmy.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/putin-threatens-retaliation-for-western-seizures-of-russian-commercial-vessels/article71337826.ece",
+    "time": "2026-08-12T16:33:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Civil Surgeon faces probe over alleged use of false caste certificate",
+    "desc": "The former resident of Indukurpet mandal in Nellore district has been facing allegations of obtaining a false Scheduled Caste (SC) certificate around 40 years ago and rising to such a senior position using SC reservations",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-police-reconstitute-team-probing-attack-on-ed-officials/article71336958.ece",
-    "time": "2026-08-12T15:27:49.000Z"
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/civil-surgeon-faces-probe-for-alleged-use-of-false-caste-certificate/article71337033.ece",
+    "time": "2026-08-12T16:33:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Drone helps locate woman lost overnight in Nellore forest",
+    "desc": "Nagadasari Ratnamma of Obulayapalle village had gone to collect firewood on Monday and spent the night under a tree; a team from the police, the Special Branch and the Forest Department found her near the Mamidikona base camp",
+    "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/8tf1re/article71335350.ece/alternates/LANDSCAPE_1200/Woman%20nellore.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/woman-lost-in-nellore-forest-for-a-night-traced-with-drone/article71334961.ece",
+    "time": "2026-08-12T16:33:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Amidst tussle, NCSC panel to probe all of Centre’s de-reservation proposals from last three years",
+    "desc": "The NCSC and the Centre have been clashing over the issue of de-reserving government posts for the last two years with the commission saying that de-reservation proposals are often incomplete and do not reveal alternate efforts made to fill the reserved posts",
+    "img": "https://th-i.thgim.com/public/incoming/lc12e4/article71337941.ece/alternates/LANDSCAPE_1200/Untitled%20design%2057.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/amidst-tussle-ncsc-panel-to-probe-all-of-centres-de-reservation-proposals-from-last-three-years/article71337011.ece",
+    "time": "2026-08-12T16:25:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Emraan's film leads, collects Rs 2.05 cr",
+    "desc": "Emraan Hashmi's 'Awarapan 2' takes the lead in advance bookings, raking in Rs 2.05 crore, while Sunny Deol's 'Batwara 1947' trails with Rs 53.21 lakh. Notably, the Delhi-NCR area is driving the ticket sales for both films. Future performance at the box office will rely heavily on walk-in attendance and spontaneous bookings.",
+    "img": "https://static.toiimg.com/photo/msid-133187954,imgsize-322775.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/emraan-hashmis-awarapan-2-edges-past-sunny-deols-batwara-1947-in-advance-bookings-ahead-of-big-independence-day-clash-collects-rs-2-5-crore/articleshow/133187864.cms",
+    "time": "2026-08-12T16:16:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "How power struggle at Tata group is deepening with exit of Ratan Tata’s key allies",
+    "desc": "The battle for influence within the Tata Group after the death of former chairman Ratan Tata in 2024 has led to the exit of several senior leaders who were closely associated with him, altering the leadership dynamics at India's largest business conglomerate.",
+    "img": "https://static.toiimg.com/photo/msid-133187841,imgsize-388875.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/n-chandrasekaran-steps-down-how-power-struggle-at-tata-group-is-deepening-with-exit-of-ratan-tatas-key-allies/articleshow/133187749.cms",
+    "time": "2026-08-12T16:11:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Toll rises to 103; 87,000 remain affected in four districts",
+    "desc": "Around 86,800 people are still affected by the floods in Golaghat, Jorhat, Nagaon and Sivasagar. Golaghat remains the worst-hit district, with more than 42,000 people affected. Nagaon has around 20,000 affected residents, while Sivasagar has about 15,000. The situation has nevertheless improved compared with Tuesday, when nearly 1.13 lakh people were affected across the four districts. Authorities are continuing relief operations in the affected areas.",
+    "img": "https://static.toiimg.com/photo/msid-133186641,imgsize-338176.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/assam-floods-toll-rises-to-103-87000-remain-affected-in-four-districts/articleshow/133186618.cms",
+    "time": "2026-08-12T15:59:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL and Pixel 11 Pro Fold launch: What to expect?",
+    "desc": "Under the hood, the Pixel 11 series is believed to operate on Android 17 out of the box while promising 7 years of OS updates and 7 years of security updates. Gemini is expected to dominate the show with some new upgrades",
+    "img": "https://th-i.thgim.com/public/sci-tech/technology/gadgets/qs7hsq/article71331653.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-11%20at%2012.30.56%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/gadgets/google-pixel-11-pixel-11-pro-pixel-11-pro-xl-and-pixel-11-pro-fold-launch-what-to-expect/article71331641.ece",
+    "time": "2026-08-12T15:55:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘I’m doing well’",
+    "desc": "Actor Jr NTR has successfully completed shoulder surgery at KIMS Hospitals and conveyed heartfelt thanks to his fans, friends, and family for their support. The arthroscopic surgery was executed by a skilled team of orthopaedic surgeons. With an eye towards recovery, Jr NTR is now embarking on a supervised rehabilitation regimen, with doctors optimistic about his full recovery in the next two to three months.",
+    "img": "https://static.toiimg.com/photo/msid-133187299,imgsize-1282281.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/jr-ntr-health-update-dragon-actor-thanks-fans-after-successful-surgery-says-im-doing-well-see-you-soon/articleshow/133187262.cms",
+    "time": "2026-08-12T15:49:28.000Z"
   },
   {
     "cat": "Entertainment",
@@ -45,49 +180,13 @@ const newsData_en = [
     "time": "2026-08-12T15:25:27.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Drone search locates woman lost overnight in Nellore forest",
-    "desc": "Nagadasari Ratnamma of Obulayapalle village had gone to collect firewood on Monday and spent the night under a tree; a team from the police, the Special Branch and the Forest Department found her near the Mamidikona base camp",
-    "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/8tf1re/article71335350.ece/alternates/LANDSCAPE_1200/Woman%20nellore.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/woman-lost-in-nellore-forest-for-a-night-traced-with-drone/article71334961.ece",
-    "time": "2026-08-12T15:19:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Civil Surgeon faces probe for alleged use of false caste certificate",
-    "desc": "The former resident of Indukurpet mandal in Nellore district has been facing allegations of obtaining a false Scheduled Caste (SC) certificate around 40 years ago and rising to such a senior position using SC reservations",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/civil-surgeon-faces-probe-for-alleged-use-of-false-caste-certificate/article71337033.ece",
-    "time": "2026-08-12T15:14:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Sexual history of survivors continues to shadow rape trials despite legal bar, say experts",
-    "desc": "In a scathing indictment in the Tarun Tejpal conviction case, the Bombay High Court found the trial court’s 'noticeable silence' striking as 'graphic details of the victim’s past sexual history' were used to attack her credibility",
-    "img": "https://th-i.thgim.com/public/incoming/qou4hd/article71331914.ece/alternates/LANDSCAPE_1200/NorthIndia.1.FeGDMFCHPHC.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/sexual-history-of-survivors-continues-to-shadow-rape-trials-despite-legal-bar-say-experts/article71336475.ece",
-    "time": "2026-08-12T14:47:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Students take out Tricolour march in Hubballi, carry 150-foot-long national flag",
-    "desc": "Around 700 students took part in ‘Tiranga Rally’ carrying a 150-foot Tricolour march in Hubballi on Wednesday as part of Independence Day celebrations seeking to promote patriotism, national unity and awareness about the freedom struggle",
-    "img": "https://th-i.thgim.com/public/incoming/kyha8e/article71337352.ece/alternates/LANDSCAPE_1200/2699_12_8_2026_17_57_45_1_13HUBLITIRGANGA_2.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/students-take-out-150-foot-tricolour-march-in-hubballi/article71336603.ece",
-    "time": "2026-08-12T14:43:06.000Z"
-  },
-  {
     "cat": "Sports",
-    "title": "SL vs IND Tests",
-    "desc": "A spate of retirements, injuries and selectorial interventions has left the squad in a state of flux; coach Gambhir and captain Gill will be looking at the two-Test series as a chance to get over transition blues and chase success",
-    "img": "https://th-i.thgim.com/public/incoming/nzy4ft/article71337283.ece/alternates/LANDSCAPE_1200/PTI08_04_2026_000521B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/sl-vs-ind-tests-india-arrives-in-the-emerald-isle-seeking-a-fresh-path-in-tests/article71337009.ece",
-    "time": "2026-08-12T14:33:35.000Z"
+    "title": "'Leo, stay strong': Ronaldo sends message to Messi after father's death",
+    "desc": "Jorge Messi, 68, died last week after a long illness. Lionel Messi shared an emotional statement about his father's death on Wednesday, reflecting on his final World Cup and his wish to win the tournament for Jorge.",
+    "img": "https://static.toiimg.com/photo/msid-133185795,imgsize-535573.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/leo-stay-strong-cristiano-ronaldo-sends-message-to-lionel-messi-after-fathers-death/articleshow/133185409.cms",
+    "time": "2026-08-12T14:35:33.000Z"
   },
   {
     "cat": "Sports",
@@ -115,6 +214,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-sara-ali-khan-spoke-about-growing-up-with-a-singe-mother-after-amrita-singh-saif-ali-khans-divorce-at-a-very-early-age-i-realised-that-koi-aapke-liye-kuch-karne-nai-wala-hai-exclusive/articleshow/133184886.cms",
     "time": "2026-08-12T14:04:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I feel bad when father sells milk': Javelin medallist says ‘searching for job’",
+    "desc": "Ashish Yadav’s journey from helping his father sell milk in Mirzapur to winning a World U-20 javelin silver medal has been remarkable. Training in Hisar improved his throw by nearly 20 metres, despite a knee injury. However, his family’s financial struggles continue, and he is still seeking employment. Inspired by Neeraj Chopra, Ashish now targets 80m.",
+    "img": "https://static.toiimg.com/photo/msid-133185182,imgsize-156690.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/i-feel-bad-when-father-sells-milk-javelin-medallist-says-searching-for-job/articleshow/133184703.cms",
+    "time": "2026-08-12T14:00:44.000Z"
   },
   {
     "cat": "Politics",
@@ -360,15 +468,6 @@ const newsData_en = [
     "time": "2026-08-12T10:33:23.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Demi Moore posts about her daughter Tallulah’s wedding",
-    "desc": "Demi Moore shared glimpses of her daughter Tallulah Willis' wedding dress fitting. The custom luxury gown took over seven hundred hours to finalize. Tallulah Willis recently married her longtime partner Justin Acee in Idaho. Her elder sisters Rumer and Scout Willis were present for the fitting. The family celebrated precious moments leading up to the beautiful wedding day.",
-    "img": "https://static.toiimg.com/photo/msid-133179369,imgsize-189651.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/demi-moore-shares-glimpses-of-daughter-tallulah-willis-wedding-dress-fitting-with-rumer-and-scout-all-the-tender-moments-leading-up-to-her-beautiful-day/articleshow/133179325.cms",
-    "time": "2026-08-12T10:29:28.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'India not banana republic': Rijiju says FCRA important to keep eyes on foreign fundings",
     "desc": "Union minister Kiren Rijiju said India was not a \"banana republic\" and that there should be rules and regulations to spend foreign funds. The proposed legislation, aimed to manage the gap in the regulation of foregin fundings to NGOs and curb the proselytisation, was fiercely criticised the opposition that termed the bill \"anti minority\". Union minister Nityanand Rai moved the motion in the Lok Sabha after the House resumed proceedings.",
@@ -394,15 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/from-trainee-to-tata-chairman-the-remarkable-rise-of-ratan-tatas-pick-n-chandrasekaran/articleshow/133177928.cms",
     "time": "2026-08-12T09:57:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Dhurandhar' actor Rakesh Bedi says people who adulterate food must be charged with murder",
-    "desc": "Rakesh Bedi, the esteemed veteran actor, has raised urgent alarms about the rampant adulteration of food and alcohol. He firmly asserts that those who compromise consumer safety should face harsh repercussions. Notably, he pointed out that numerous alcoholic drinks marketed in India are not authentic. Bedi believes that food adulterators should even be charged with attempted murder, emphasizing his commitment to advocating for public well-being through social media.",
-    "img": "https://static.toiimg.com/photo/msid-133178068,imgsize-169566.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-actor-rakesh-bedi-raises-concern-over-adulteration-of-food-and-alcohol-amid-tukaram-mundhes-statewide-crackdown-a-person-who-adulterates-food-should-be-charged-with-murder/articleshow/133177852.cms",
-    "time": "2026-08-12T09:49:14.000Z"
   },
   {
     "cat": "Sports",
@@ -457,24 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/standoff-with-noel-tata-what-led-to-n-chandrasekarans-exit-as-tata-sons-chairman/articleshow/133174654.cms",
     "time": "2026-08-12T07:31:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jammu &amp; Kashmir set to host Irani Cup in Srinagar after four decades",
-    "desc": "In October, the historic Sher-I-Kashmir Stadium in Srinagar will welcome the Irani Cup match, featuring a showdown between Jammu and Kashmir and the Rest of India. As this highlights the region's cricketing resurgence since 1986, crucial upgrades are necessary for live broadcasts and accommodating fans, setting the stage for Jammu and Kashmir to defend their Ranji Trophy title shortly after.",
-    "img": "https://static.toiimg.com/photo/msid-133174478,imgsize-104372.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/jammu-kashmir-set-to-host-irani-cup-at-srinagars-sher-i-kashmir-stadium-after-four-decades/articleshow/133174405.cms",
-    "time": "2026-08-12T07:10:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘I don't know who made the decision’: Ex-India batter on Bumrah's workload",
-    "desc": "India's growing injury list has placed the Centre of Excellence under scrutiny. Several key players are currently dealing with various fitness issues and injuries. Jasprit Bumrah's knee swelling has led to his absence from the Sri Lanka Test series. Former batter Subramaniam Badrinath clarified the COE's role in providing player information. He stressed workload management and consistent monitoring are crucial for player fitness.",
-    "img": "https://static.toiimg.com/photo/msid-133173926,imgsize-997675.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-dont-know-who-made-the-decision-ex-india-batter-on-jasprit-bumrahs-workload-and-coe-scrutiny/articleshow/133173815.cms",
-    "time": "2026-08-12T06:50:38.000Z"
   },
   {
     "cat": "Entertainment",
@@ -532,24 +604,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'I would be very worried': Former Sri Lankan cricketer names India's biggest weapon",
-    "desc": "Former Sri Lanka all-rounder Farveez Maharoof anticipates India fielding three spinners in the upcoming Test. He believes young Manav Suthar might get the nod over Saransh Jain for bounce. Maharoof also highlighted Rishabh Pant as a significant threat to the Sri Lankan team. Pant's ability to change games quickly worries the former player immensely. Sri Lanka expects to counter Pant with significant spin bowling options.",
-    "img": "https://static.toiimg.com/photo/msid-133169171,imgsize-106542.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-would-be-very-worried-former-sri-lankan-cricketer-names-indias-biggest-weapon/articleshow/133169139.cms",
-    "time": "2026-08-12T03:40:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sundar's Sri Lanka Test availability in doubt, chances of joining team 'very slim'",
-    "desc": "Washington Sundar's participation in the second Test is uncertain due to injury concerns. The Indian team management prefers caution after recent player injuries. Jasprit Bumrah and Akash Deep also face uncertain return timelines from their injuries. Selectors may not name a replacement if Washington Sundar is ruled out. The medical team is carefully assessing player fitness for upcoming tours.",
-    "img": "https://static.toiimg.com/photo/msid-133168965,imgsize-995673.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/washington-sundars-sri-lanka-test-availability-in-doubt-chances-of-joining-team-very-slim/articleshow/133168788.cms",
-    "time": "2026-08-12T03:19:16.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Cristiano Ronaldo’s World Cup career in graphics",
     "desc": "Portugal’s Round of 16 defeat to Spain brought an end to captain Cristiano Ronaldo’s World Cup career. Despite one of the greatest careers in football history, he retires from the tournament without ever winning the FIFA World Cup. Here is a graphical look at his career and achievements.",
     "img": "https://th-i.thgim.com/public/incoming/nvxirk/article71204190.ece/alternates/LANDSCAPE_1200/Russia_Soccer_WCup_Portugal_Spain_71311.jpg-f9277.jpg",
@@ -568,30 +622,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Did Messi, Mbappé, Haaland and Harry Kane really attend?",
-    "desc": "Cristiano Ronaldo and Georgina Rodriguez have officially married after a decade together. Viral images claiming to show Lionel Messi and others at the wedding are fake. These images were digitally manipulated or created using artificial intelligence. The couple kept their intimate ceremony in Portugal extremely private. Social media users should verify information and avoid mistaking fake content for reality.",
-    "img": "https://static.toiimg.com/photo/msid-133168201,imgsize-181136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/fact-check-did-lionel-messi-kylian-mbapp-erling-haaland-and-harry-kane-really-attend-the-cristiano-ronaldo-wedding/articleshow/133168101.cms",
-    "time": "2026-08-12T02:33:40.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "'Rare for a kid to say, 'I want to be an athlete': What India needs for a squash boom",
     "desc": "Indian squash is enjoying a surge of attention, fuelled by Anahat Singh’s historic World Junior title and a growing pool of top-ranked professionals. But India's star squash player Veer Chotrani believes sustained success requires more than courts and funding. India needs stronger coaching, training partners and a professional ecosystem at home, while families must increasingly view sport as a viable career alongside education.",
     "img": "https://static.toiimg.com/photo/msid-133160113,imgsize-74563.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/very-rare-for-a-kid-to-tell-parents-i-want-to-be-an-athlete-what-india-needs-for-a-squash-boom/articleshow/133159278.cms",
     "time": "2026-08-12T02:30:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kaif 'surprised' by BCCI's struggle to hire medical professionals amid injury crisis",
-    "desc": "India is grappling with a significant player injury crisis, forcing discussions about the effectiveness of the BCCI's Centre of Excellence. Ex-cricketer Mohammad Kaif expressed astonishment at the board's challenges in securing suitable hires. VVS Laxman added that prospective staff appointments encountered last-minute obstacles. Given the BCCI's robust financial resources, this inability to draw in top talent is perplexing, especially with crucial matches on the horizon.",
-    "img": "https://static.toiimg.com/photo/msid-133167648,imgsize-672994.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mohammed-kaif-surprised-by-bccis-struggle-to-hire-top-medical-professionals-amid-injury-crisis/articleshow/133167555.cms",
-    "time": "2026-08-12T01:15:29.000Z"
   },
   {
     "cat": "Sports",
@@ -702,15 +738,6 @@ const newsData_en = [
     "time": "2026-08-11T09:10:02.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "Google Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL and Pixel 11 Pro Fold launch: What to expect?",
-    "desc": "Under the hood, the Pixel 11 series is believed to operate on Android 17 out of the box while promising 7 years of OS updates and 7 years of security updates. Gemini is expected to dominate the show with some new upgrades",
-    "img": "https://th-i.thgim.com/public/sci-tech/technology/gadgets/qs7hsq/article71331653.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-11%20at%2012.30.56%20PM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/gadgets/google-pixel-11-pixel-11-pro-pixel-11-pro-xl-and-pixel-11-pro-fold-launch-what-to-expect/article71331641.ece",
-    "time": "2026-08-11T08:46:11.000Z"
-  },
-  {
     "cat": "World",
     "title": "Australia adds optional gender identity, sexual orientation questions to census",
     "desc": "For a proportion of the population, … collecting this information is very important; but for other people, it's information that they simply don't want to share, said Australian Bureau of Statistics Chief Statistician David Gruen",
@@ -756,15 +783,6 @@ const newsData_en = [
     "time": "2026-08-10T19:23:02.000Z"
   },
   {
-    "cat": "World",
-    "title": "Imran Khan’s supporters to protest across Pakistan if he is not allowed to meet party colleagues",
-    "desc": "Sohail Afridi, the Chief Minister of Khyber Pakhtunkhwa, a province governed by Khan’s party, said in a press conference that Prime Minister Shehbaz Sharif and key ministers in his cabinet will be held responsible if anything happens to 73-year-old Khan in prison",
-    "img": "https://th-i.thgim.com/public/incoming/xt5tam/article71329013.ece/alternates/LANDSCAPE_1200/Imran-Khan-s-soGCCGA1KS1.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/imran-khans-supporters-to-protest-across-pakistan-if-he-is-not-allowed-to-meet-party-colleagues/article71328970.ece",
-    "time": "2026-08-10T14:36:43.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Delhi HC restrains misuse of Tabu’s name, image; orders takedown of AI-generated obscene content",
     "desc": "The court’s order comes on actor Tabu’s suit against several individuals and online platforms, alleging unauthorised exploitation of her personality rights, circulation of defamatory material, sale of merchandise using her photographs and dissemination of manipulated and AI-generated content",
@@ -783,15 +801,6 @@ const newsData_en = [
     "time": "2026-08-10T10:34:43.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "High jumper Pooja, women’s 4x400m team disappoint; India end World Athletics U20 Championships with 3 medals",
-    "desc": "Ashish Yadav had opened India's medal account with a silver in the men's javelin throw; Basant Kumar Meghwal and Shahnavaz Khan added a silver and bronze respectively in the men's high jump and long jump",
-    "img": "https://th-i.thgim.com/public/incoming/tx2fpb/article71327174.ece/alternates/LANDSCAPE_1200/_DSC6046.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/high-jumper-pooja-womens-4x400m-team-disappoint-india-end-world-athletics-u20-championships-with-3-medals/article71327136.ece",
-    "time": "2026-08-10T06:11:10.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Meta will soon face another high-stakes trial in U.S.",
     "desc": "The federal trial, one of the most consequential among a myriad of legal proceedings targeting social networks in the United States, will begin on August 12, 2026 with jury selection at a federal court in Oakland",
@@ -808,42 +817,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/toxic-trailer-yash-blends-melodrama-and-mayhem-in-geetu-mohandas-violent-actioner/article71321107.ece",
     "time": "2026-08-10T03:22:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Varanasi’: Mahesh Babu's look as Rudhra from SS Rajamouli's magnum opus unveiled",
-    "desc": "Slated for a worldwide release on April 7, 2027, ‘Varanasi’ promises to be an action-packed globe-trotting adventure featuring a star-studded cast, including Mahesh Babu, Priyanka Chopra and Prithviraj Sukumaran, with a soundtrack by Oscar-winning composer MM Keeravani",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/mnow2e/article71325666.ece/alternates/LANDSCAPE_1200/Mahesh.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/varanasi-mahesh-babu-first-look-rudhra-ss-rajamouli-priyanka-chopra-prithviraj-sukumar-globetrotter/article71324729.ece",
-    "time": "2026-08-09T15:59:01.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "UPI stays free for users, vast majority of transactions to remain free for merchants as well, says government",
-    "desc": "The government said any future merchant discount rate (MDR), if introduced, would apply only to a limited set of merchant transactions above a specified threshold and at a nominal rate, which would be lower than typical debit and credit card MDRs",
-    "img": "https://th-i.thgim.com/public/incoming/ibz0xa/article71323952.ece/alternates/LANDSCAPE_1200/bl25-Think1-MidGUIGA15G9.5.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/upi-stays-free-for-users-vast-majority-of-transactions-to-remain-free-for-merchants-as-well-says-government/article71323950.ece",
-    "time": "2026-08-09T09:49:45.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "FSSAI warned Diageo that its whisky's 'matured in American oak casks' claim was misleading",
-    "desc": "The FSSAI announced on Sunday (August 2, 2026) it had prohibited sales of Diageo’s Royal Challenge Whisky made in the State of Madhya Pradesh and some ‌whisky and rum brands made in some Indian States by Diageo and India’s ‌Inbrew",
-    "img": "https://th-i.thgim.com/public/incoming/q0kq8z/article71322606.ece/alternates/LANDSCAPE_1200/2026-08-08T090148Z_1698828912_RC20RMAEI4GA_RTRMADP_3_INDIA-REGULATIONS-ALCOHOL-DIAGEO.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/fssai-warned-diageo-that-its-whiskys-matured-in-american-oak-casks-claim-was-misleading/article71322595.ece",
-    "time": "2026-08-09T09:42:02.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Transfer to core from satellite?",
-    "desc": "You can transfer gains from your satellite to a core portfolio but not the other way around; this constraint is very important to protect the excess gains you may have in any of your core portfolios",
-    "img": "https://th-i.thgim.com/public/incoming/grmudj/article71324114.ece/alternates/LANDSCAPE_1200/iStock-1465618017.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/transfer-to-core-from-satellite/article71324106.ece",
-    "time": "2026-08-09T05:30:54.000Z"
   },
   {
     "cat": "Tech",
@@ -898,5 +871,32 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
     "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
+    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
+    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
+    "time": "2024-03-12T09:45:05.000Z"
   }
 ];

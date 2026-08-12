@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "AUS vs BAN 1st Test live streaming details; when and where to watch match in India?",
+    "desc": "Australia and Bangladesh are set to face each other for the first time in the history of the World Test Championship as the Asian side tours Down Under for a two-match rubber. The last time...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/aus-vs-ban-1st-test-live-streaming-details-when-and-where-to-watch-match-in-india-2026-08-12-1051194",
+    "time": "2026-08-12T18:28:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India-Pakistan match at Asian Games to carry special significance, traditional way not used",
+    "desc": "There will be special significance to the India-Pakistan possible match in the Asian Games 2026. The two Asian hog the limelight whenever they are expected to meet in a cricket match. The three matches in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-pakistan-match-at-asian-games-to-carry-special-significance-traditional-way-not-used-2026-08-12-1051193",
+    "time": "2026-08-12T18:02:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PSG vs Aston Villa UEFA Super Cup live streaming; when and where to watch match in India?",
+    "desc": "Paris Saint-Germain and Aston Villa are all set to lock horns in the UEFA Super Cup, an annual match which acts as a curtain raiser to the European club season. The match is played between...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/psg-vs-aston-villa-uefa-super-cup-live-streaming-when-and-where-to-watch-match-in-india-2026-08-12-1051189",
+    "time": "2026-08-12T17:18:34.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "No Neeraj Chopra-Arshad Nadeem clash in Lausanne Diamond League as Pakistani athlete to miss event",
     "desc": "There won't be a clash between the two latest Olympic champions - Arshad Nadeem and Neeraj Chopra - in the Lausanne Diamond League as the Pakistani star will be skipping the event to prepare for...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/is-litton-das-fit-to-play-bangladesh-s-first-test-vs-australia-in-darwin-najmul-shanto-answers-2026-08-12-1051118",
     "time": "2026-08-12T06:57:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Afghanistan set to host India in three-match T20I series in Delhi; check details",
-    "desc": "The Board of Control for Cricket in India (BCCI) have confirmed the upcoming three-match T20I series against Afghanistan. The series will kick off on September 13, with the second and third matches being played on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/afghanistan-set-to-host-india-in-three-match-t20i-series-in-delhi-check-details-2026-08-12-1051109",
-    "time": "2026-08-12T05:44:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hazlewood, Lyon return, Beau Webster finds place as Australia announce playing XI for Bangladesh Test",
-    "desc": "Veteran Australia pacer Josh Hazlewood returns to red-ball cricket as Australia have named him in the playing XI for the opening Test against Bangladesh in Darwin. He has been a force to reckon with in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/hazlewood-lyon-return-beau-webster-finds-place-as-australia-announce-playing-xi-for-bangladesh-test-2026-08-12-1051105",
-    "time": "2026-08-12T05:14:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abishek Porel's case deferred to September 14 as government seek more time from Calcutta High Court",
-    "desc": "The Calcutta High Court deferred the hearing of a petition involving Bengal cricketer Abishek Porel to September 14, after the West Bengal government sought additional time to continue its investigation following his arrest. Notably, the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abishek-porel-s-case-deferred-to-september-14-as-government-seek-more-time-from-calcutta-high-court-2026-08-12-1051101",
-    "time": "2026-08-12T04:31:35.000Z"
   }
 ];
