@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Sri Lanka finally announce squad for first Test vs India, starting August 15",
+    "desc": "Sri Lanka have finally announced a 16-member squad for the first Test against India, starting August 15 at the Galle International Cricket Stadium. Dhananjaya de Silva has been appointed as captain, while Kamindu Mendis will...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sri-lanka-finally-announce-squad-for-first-test-vs-india-starting-august-15-2026-08-12-1051132",
+    "time": "2026-08-12T09:12:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rohit Sharma set for television debut with own show",
+    "desc": "Former India captain Rohit Sharma is moving into television, with Sony Entertainment Television preparing to launch The Rohit Sharma Show. The programme will also be available on Sony LIV, although the broadcaster has not disclosed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-set-for-television-debut-with-own-show-how-many-cricketers-participated-in-indian-reality-shows-2026-08-12-1051127",
+    "time": "2026-08-12T08:32:53.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Is Litton Das fit to play Bangladesh's first Test vs Australia in Darwin? Najmul Shanto answers",
     "desc": "Bangladesh captain Najmul Hossain Shanto has confirmed that keeper-batter Litton Das is available for selection for the first Test against Bangladesh in Darwin. The 31-year-old is cleared just in time for the first Test after...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-did-joburg-super-kings-release-faf-du-plessis-ahead-of-sa20-2027-former-proteas-all-rounder-opines-2026-08-11-1051083",
     "time": "2026-08-11T18:17:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India tour of Bangladesh in limbo after ACB confirms dates for T20I series in Delhi after BCCI's nod",
-    "desc": "The Afghanistan Cricket Board (ACB) has confirmed the dates for a T20I series against India in Delhi next month. The ACB sent the message to all the stakeholders about the schedule of the series after...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-tour-of-bangladesh-in-limbo-after-acb-confirms-dates-for-t20i-series-in-delhi-after-bccis-nod-2026-08-11-1051080",
-    "time": "2026-08-11T17:38:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Co-owners Jonty Rhodes, John Abraham unveil Rotterdam Dockers jersey ahead of maiden ETPL",
-    "desc": "Ahead of the inaugural edition of the European T20 Premier League (ETPL), co-owners of Rotterdam Dockers - Jonty Rhodes and John Abraham - have unveiled the jerseys of the franchise during an event in Mumbai...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/co-owners-jonty-rhodes-john-abraham-unveil-rotterdam-dockers-jersey-ahead-of-maiden-etpl-2026-08-11-1051077",
-    "time": "2026-08-11T17:01:54.000Z"
   }
 ];

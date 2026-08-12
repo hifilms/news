@@ -1,5 +1,50 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "'মিষ্টির দোকানে গিয়ে খালি পেটে ফিরে আসা অপরাধ', স্ত্রীর পরকীয়া তোপে অকপট গোবিন্দা",
+    "desc": "নব্বইয়ের দশকের পরকীয়ার অভিযোগ থেকে নবাগত কোমলের সঙ্গে নাম জড়ানো— বিতর্কের তীব্র আগুনের মাঝেই ‘মিষ্টির দোকান’ তত্ত্ব টেনে নতুন ধোঁয়াশা তৈরি করলেন গোবিন্দা। সহ-অভিনেত্রীদের প্রেম, প্রয়াত মায়ের প্রশ্রয় আর স্ত্রী সুনীতার ক্ষোভের মাঝে অভিনেতার এই বিস্ফোরক স্বীকারোক্তি কি বহুদিনের দাম্পত্য ভাঙনের ইঙ্গিত, নাকি নেপথ্যে রয়েছে অন্য কোনও গল্প?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/govinda-accepts-wife-sunita-ahujas-cheating-claims-sad-if-you-exit-a-mithai-shop-hungry_666646.html ",
+    "time": "2026-08-12T09:32:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "বিজয়-পত্নী ডিভোর্সের মামলা তুলে নিতেই তৃষার বিস্ফোরক পোস্ট! কাকে নিশানা?",
+    "desc": "বিজয় ও সঙ্গীতার ২৬ বছরের দাম্পত্য ভাঙার আইনি লড়াই হঠাৎ থমকে গেলেও আসল রহস্য যেন আরও ঘনীভূত হল। সঙ্গীতা মামলা ফিরিয়ে নিতেই তৃশার এক বিস্ফোরক বার্তা— “এই বয়সে নাটক লজ্জাজনক!” এটি কি শুধুই কোনও ক্ষোভ, নাকি আইনি সমাধানের নেপথ্যে ঘনিয়ে উঠছে সম্পর্কের আরও বড় কোনও ঝড়?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/trisha-shares-cryptic-posts-after-vijays-wife-withdraws-divorce-plea-drama-at-this-age_666624.html ",
+    "time": "2026-08-12T08:05:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "২৫০ কেজিরও বেশি পচা মাংস! শহরজুড়ে খাবারের নামে বিষ পাঁচতারা হোটেল-পাবের, ভয়াবহ ললিত ও স্কাই লাউঞ্জ",
+    "desc": "শহরের একাধিক পাঁচতারা ও তিনতারা হোটেলের সঙ্গেই অভিজাত সব পাবগুলিতে বিরাট অভিযান চালিয়েছে এফএসডিএ। সেখান থেকে জব্দ হয়েছে ২৫০ কেজিরও বেশি পচা মাংস, ২০৭ কেজি নষ্ট সবজি, ৩২ লিটার মেয়াদোত্তীর্ণ দুধ এবং ৩ কেজি বাসি বেকারি",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/over-250-kg-of-rotten-meat-and-207-kg-of-spoiled-vegetables-raids-on-upscale-hotels-and-pubs-across-the-city_666623.html ",
+    "time": "2026-08-12T07:55:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "৪০ বছরের সম্পর্কে দাঁড়ি! টাটা সন্সের চেয়ারম্যান পদ থেকে ইস্তফা এন চন্দ্রশেখরনের- দায়িত্বে কে?",
+    "desc": "পুনর্নিয়োগ ঘিরে বিতর্কের মাঝেই বুধবার টাটা সন্সের চেয়ারম্যান পদ থেকে ইস্তফা দেওয়ার কথা ঘোষণা করেছেন এন চন্দ্রশেখরন। পদত্যাগ বিবৃতিতে এন চন্দ্রশেখরন জানিয়েছেন, কর্মী, বিনিয়োগকারী ও অংশীদারদের স্বার্থে প্রতিষ্ঠানের ভবিষ্যৎ পরিচালন পদ্ধতি সম্পর্কে নেতৃত্বের স্পষ্ট বার্তা জরুরি।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/tata-sons-chairman-n-chandrasekaran-resigns-to-serve-out-term-till-february_666621.html ",
+    "time": "2026-08-12T07:37:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "আন্তর্জাতিক মঞ্চে রবীন্দ্র-দর্শন! ভারত, সিঙ্গাপুর ও আমেরিকার যৌথ উদ্যোগে আসছে ‘দ্য টেগোর ট্রিলজি’",
+    "desc": "রবীন্দ্রনাথ ঠাকুরের কালজয়ী নৃত্যনাট্য 'শাপমোচন', 'শ্যামা' ও 'মায়ার খেলা' অবলম্বনে সিঙ্গাপুর, ভারত ও যুক্তরাজ্যের যৌথ উদ্যোগে নির্মিত হচ্ছে আন্তর্জাতিক চলচ্চিত্র প্রকল্প ‘দ্য টেগোর ট্রিলজি’। পরিচালক অরিন্দম দে ও সুরকার বিক্রম ঘোষের সৃজনশীলতায় 'Soul Bound', 'Soul Lost' ও 'Soul Found'—এই তিন ইংরেজি ছবির মাধ্যমে ঠাকুরের বিশ্বজনীন মানবতাবাদী দর্শনকে মে ২০২৭-এ আন্তর্জাতিক পর্দায় তুলে ধরা হবে",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/three-english-films-with-international-cast-music-tagores-dance-drama-the-tagore-trilogy_666619.html ",
+    "time": "2026-08-12T07:24:39.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "মহা বিপর্যয়! ৪৫ বাঘের মৃত্য়ু, ৫০ জন মানুষেরও মৃত্যু! কী এই 'ক্যাট-২২' সংকট?",
     "desc": "এ বছরের প্রথম আট মাসেই বন্যপ্রাণীর আক্রমণে অন্তত ৫০ জনের মৃত্যু হয়েছে। তবে, প্রায় একই সময়ে ৪৫টিরও বেশি বাঘও মারা গিয়েছে। মধ্যপ্রদেশ বন দফতরের সাম্প্রতিক পরিসংখ্যান অনুযায়ী, এ বছর মানুষের মৃত্যুর ক্ষেত্রে বাঘের আক্রমণই সবচেয়ে বড় কারণ হয়ে দাঁড়িয়েছে।",
@@ -70,24 +115,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/madhya-pradesh-ghanshyam-raised-4-children-alone-when-died-none-of-them-came-to-say-goodbye_666460.html ",
     "time": "2026-08-11T07:09:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ইঞ্চির দূরত্বে যাচ্ছে ট্রেন! লাইনে আটকে সন্তানরা, নিজের শরীর দিয়ে আগলালেন 'মানব-ঢাল' মা",
-    "desc": "প্ল্যাটফর্ম ও দেওয়ালের মাঝের সংকীর্ণ ফাঁকে দুই সন্তানকে নিয়ে আটকে পড়েন এক মহিলা। ধেয়ে আসা চলন্ত ট্রেনের হাত থেকে বাচ্চাদের বাঁচাতে নিজের শরীর দিয়ে আগলে ‘ঢাল’ হয়ে দাঁড়ান তিনি। ট্রেনটি গায়ে ঘেঁষে গেলেও অলৌকিকভাবে বেঁচে যায় পুরো পরিবার। মায়ের এই সাহসিকতার প্রশংসার পাশাপাশি ওই বিপজ্জনক জায়গায় যাওয়া নিয়ে উঠেছে প্রশ্নও।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/mother-lies-over-children-as-train-brushes-past-her-in-horrifying-moment-on-camera_666452.html ",
-    "time": "2026-08-11T05:30:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "১৭ দিনের সত্যাগ্রহ, ৯ দিনের অনশন...! রক্তে শর্করা কম, সংকটজনক অবস্থায় হাসপাতালে দেবেন্দ্রনাথ",
-    "desc": "নিয়োগ দুর্নীতির প্রতিবাদে টানা ৯ দিন অনশনের পর অসুস্থ হয়ে হাসপাতালে ভর্তি ছাত্রনেতা দেবেন্দ্রনাথ মাহাতো। এদিকে পড়ুয়াদের বিধানসভা ঘেরাও কর্মসূচি ঘিরে রণক্ষেত্রের চেহারা নেয় রাঁচি। আন্দোলনকারীদের ওপর টিয়ার গ্যাস ও লাঠিচার্জের তীব্র সমালোচনা করেছেন বিরোধী দলনেতা রাহুল গান্ধী। নিরপেক্ষ তদন্ত ও পরীক্ষা বাতিলের দাবিতে এখনও অনড় আন্দোলনকারীরা।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/jpsc-protests-activist-devendra-mahto-hospitalised-after-9-day-hunger-strike_666437.html ",
-    "time": "2026-08-11T03:16:32.000Z"
   },
   {
     "cat": "Entertainment",
@@ -241,59 +268,5 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/bangladesh-warns-media-not-to-air-sheikh-hasinas-virtual-address-from-india_665541.html ",
     "time": "2026-08-05T05:50:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘লগান’-এর দেবা আর নেই! মারণব্যাধির সঙ্গে লড়াই থামল, প্রয়াত অভিনেতা প্রদীপ রাওয়াত",
-    "desc": "দীর্ঘ পাঁচ বছর ব্লাড ক্যানসারের সঙ্গে লড়াইয়ের পর ৭৪ বছর বয়সে প্রয়াত বর্ষীয়ান অভিনেতা প্রদীপ সিংহ রাওয়াত। বিআর চোপড়ার ‘মহাভারত’-এর অশ্বত্থামা, ‘লগান’-এর দেবা কিংবা ‘গজনি’র ভয়ংকর ভিলেন— রূপালী পর্দায় তাঁর আইকনিক অভিনয় দর্শক চিরকাল মনে রাখবে। এই অভিনেতার প্রয়াণে ভারতীয় সিনেমা ও অনুরাগী মহলে নেমে এসেছে গভীর শোকের ছায়া।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/actor-pradeep-rawat-known-for-ghajini-and-lagaan-dies-at-74-after-cancer-battle_665538.html ",
-    "time": "2026-08-05T05:19:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'দাঁড়াতেই পারছেন না, কমছে না ব্যথা!’, বন্ধ শ্যুটিং, মারাত্মক চোট পেয়ে মুখ খুললেন রশ্মিকা",
-    "desc": "‘মাইসা’-র শ্যুটিং সেটে নাচের দৃশ্য শুট করতে গিয়ে ভয়াবহ দুর্ঘটনার শিকার ‘জাতীয় ক্রাশ’ রশ্মিকা মান্দানা! ডান নিতম্বের টেন্ডন ছিঁড়ে আলাদা হয়ে যাওয়ায় আচমকাই থমকে গেছে তাঁর কাজ। চিকিৎসকদের কড়া নির্দেশে শ্যুটিং ও জিম বন্ধ। কিন্তু এই মারাত্মক চোটের পর কি সত্যিই তিনি দ্রুত সেটে ফিরতে পারবেন?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/rashmika-mandanna-breaks-silence-after-freak-accident-on-mysaa-set-shares-health-update_665401.html ",
-    "time": "2026-08-04T10:14:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "বাংলা ছবিতে নতুন রসায়ন! প্রথমবার সৃজিতের সুরে প্লে-ব্যাক অনির্বাণের",
-    "desc": "আক্ষরিক অর্থেই মাল্টিটাস্কার সৃজিত মুখোপাধ্যায়। তাঁর ছবির পরিচালনা মানেই গান, আবহ নিঁখুত। এতদিন পছন্দের কম্পোজিশন ছবির তৈরির আগেই বুক করে রাখতেন তিনি, একথা বাংলা ইন্ডাস্ট্রির প্রায় সব মিউজিক কম্পোজাররা জানেন। কিন্তু এবারে হাতে-কলমে কাজ করছেন তিনি। অন্যদিকে, সমস্ত ব্যান বিতর্ক পিছনে ফেলে কাজে ফিরেছেন অনির্বাণ। কিন্ত সৃজিতের ছবিতে তাঁর কী ভূমিকা?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/srijit-mukherji-composes-first-song-sung-by-anirban-bhattacharya-queen-victoria-aar-goenda-kanaicharan_665340.html ",
-    "time": "2026-08-04T06:21:48.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "হোয়াটসঅ্যাপের 'ইউজারনেম' ফিচার সুরক্ষা ও গোপনীয়তায় কত বড় চ্যালেঞ্জ?",
-    "desc": "WhatsApp is rolling out a new username feature, allowing users to chat without sharing phone numbers. হোয়াটসঅ্যাপের এই নতুন ফিচারে নম্বর গোপন রেখে চ্যাট করার সুযোগ পাবেন ব্যবহারকারীরা, যা সাইবার নিরাপত্তা বাড়াবে এবং ব্যক্তিগত সুরক্ষা নিশ্চিত করবে।",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/07/aiwise-cinematic-close-up-portrait-of-a-woman-using-whatsapp-on-0-jpg-1782966779094_1782966780343-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/whatsapp-username-feature-2026-why-hiding-your-phone-number-is-key-to-better-privacy-014-309657.html",
-    "time": "2026-07-19T18:58:53.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
-    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
-    "time": "2026-06-01T03:50:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
-    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
-    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
-    "src": "oneindia.com",
-    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
-    "time": "2026-05-23T05:15:29.000Z"
   }
 ];
