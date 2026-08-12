@@ -1,5 +1,59 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Babulal Marandi slams visit by police officers to Jharkhand protest site",
+    "desc": "Ranchi’s Deputy Commissioner Manjunath Bhajantri, on the other hand, said that he had visited to ask whether the protesters were facing any difficulties or not. He also asked the students to consider a practical, implementable next step",
+    "img": "https://th-i.thgim.com/public/incoming/1eo2gm/article71335226.ece/alternates/LANDSCAPE_1200/babulal%20marandi.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-protests-lop-babulal-marandi-ranchi-dc-ssp-visit-exam-irregularities/article71335076.ece",
+    "time": "2026-08-12T20:45:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Indian fencing team secures five more medals at Commonwealth championships",
+    "desc": "Dominating the field in senior women’s foil, senior men’s epee, and senior men’s sabre, Team India’s stellar day three performance brought the nation’s overall combined medal count to an extraordinary 29 medals — comprising 8 Gold, 7 Silver, and 14 Bronze",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/indian-fencing-team-secures-five-more-medals-at-commonwealth-championships/article71338356.ece",
+    "time": "2026-08-12T20:41:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "A blockbuster $12.5B deal as Josh Kushner and Bob Iger agree to buy the Lakers, AP source says",
+    "desc": "The Lakers were valued last year at $10 billion — a record for a pro sports team — when Mark Walter purchased a controlling stake from the Buss family, which had owned the team since 1979",
+    "img": "https://th-i.thgim.com/public/incoming/x3cnid/article71338348.ece/alternates/LANDSCAPE_1200/2212826200.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/a-blockbuster-125b-deal-as-josh-kushner-and-bob-iger-agree-to-buy-the-lakers-ap-source-says/article71338336.ece",
+    "time": "2026-08-12T19:49:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hayden backs Gill to rise to Test challenge, says India has ‘job to do’ ahead of WTC final",
+    "desc": "India is currently fifth in the WTC 2025-27 standings, having won four and lost four of their nine matches, with one draw. Hayden said the team’s record highlighted the challenges facing India in the longest format despite their strength in white-ball cricket",
+    "img": "https://th-i.thgim.com/public/incoming/1u6e18/article71338345.ece/alternates/LANDSCAPE_1200/11_Twenty_20_IPL_Match_30_03_Chandigarh.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/hayden-backs-gill-to-rise-to-test-challenge-says-india-has-job-to-do-ahead-of-wtc-final/article71338326.ece",
+    "time": "2026-08-12T19:38:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kangana clarifies ‘Generation Gutter’ remark: ‘Not referring to all youth’",
+    "desc": "BJP MP Kangana Ranaut has clarified her “Generation Gutter” remarks, saying she was not referring to all young people. She said her comments were aimed at those who “label themselves as cockroaches” and defended her criticism of videos from a Jantar Mantar protest over the NEET-UG paper leak. A case has also been filed against her.",
+    "img": "https://static.toiimg.com/photo/msid-133192462,imgsize-66544.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-clarifies-generation-gutter-remark-i-was-not-referring-to-all-youth-but-those-who-label-themselves-as-cockroaches/articleshow/133192445.cms",
+    "time": "2026-08-12T19:22:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Portfolio allocation done, Karnataka Chief Minister D.K. Shivakumar huddles with Ministers to strategise on countering opposition",
+    "desc": "The new Ministers are likely to be under prepared due to lack of time to prepare, and the CM has advised his Cabinet colleagues to work as a team to counter the opposition, said a source",
+    "img": "https://th-i.thgim.com/public/incoming/mnwwuo/article71337828.ece/alternates/LANDSCAPE_1200/CM%207.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/portfolio-allocation-done-karnataka-chief-minister-dk-shivakumar-huddles-with-ministers-to-strategise-on-countering-opposition/article71337674.ece",
+    "time": "2026-08-12T18:57:39.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Travis Kelce calls Taylor Swift wedding ‘the best night of my life’",
     "desc": "Travis Kelce has opened up about his wedding to Taylor Swift, calling the celebration “the best night of my life” and “a crazy night” full of celebration. The Kansas City Chiefs star also reflected on tying the knot at Madison Square Garden and thanked everyone who attended, before shifting his focus back to football.",
@@ -81,15 +135,6 @@ const newsData_en = [
     "time": "2026-08-12T16:40:43.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Rajya Sabha passes Bills to change Kerala’s name, strengthen NCDC",
-    "desc": "The Lok Sabha passed the Kerala (Alteration of Name) Bill, 2026, on August 11. The Kerala Assembly passed a resolution in 2024, urging the Centre to bring a law to change the name of the State to Keralam",
-    "img": "https://th-i.thgim.com/public/incoming/1oz5dl/article71337306.ece/alternates/LANDSCAPE_1200/20260812166L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/parliament-passes-bill-to-rename-kerala-as-keralam/article71337234.ece",
-    "time": "2026-08-12T16:39:39.000Z"
-  },
-  {
     "cat": "World",
     "title": "Putin threatens retaliation for Western seizures of Russian commercial vessels",
     "desc": "Mr. Putin added that the Russian response wouldn't necessarily come in the waters where the Russian ships were seized, noting that Moscow could retaliate “in any area where we see it as necessary and appropriate,” including in the Pacific",
@@ -97,33 +142,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/putin-threatens-retaliation-for-western-seizures-of-russian-commercial-vessels/article71337826.ece",
     "time": "2026-08-12T16:33:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Civil Surgeon faces probe over alleged use of false caste certificate",
-    "desc": "The former resident of Indukurpet mandal in Nellore district has been facing allegations of obtaining a false Scheduled Caste (SC) certificate around 40 years ago and rising to such a senior position using SC reservations",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/civil-surgeon-faces-probe-for-alleged-use-of-false-caste-certificate/article71337033.ece",
-    "time": "2026-08-12T16:33:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Drone helps locate woman lost overnight in Nellore forest",
-    "desc": "Nagadasari Ratnamma of Obulayapalle village had gone to collect firewood on Monday and spent the night under a tree; a team from the police, the Special Branch and the Forest Department found her near the Mamidikona base camp",
-    "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/8tf1re/article71335350.ece/alternates/LANDSCAPE_1200/Woman%20nellore.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/woman-lost-in-nellore-forest-for-a-night-traced-with-drone/article71334961.ece",
-    "time": "2026-08-12T16:33:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Amidst tussle, NCSC panel to probe all of Centre’s de-reservation proposals from last three years",
-    "desc": "The NCSC and the Centre have been clashing over the issue of de-reserving government posts for the last two years with the commission saying that de-reservation proposals are often incomplete and do not reveal alternate efforts made to fill the reserved posts",
-    "img": "https://th-i.thgim.com/public/incoming/lc12e4/article71337941.ece/alternates/LANDSCAPE_1200/Untitled%20design%2057.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/amidst-tussle-ncsc-panel-to-probe-all-of-centres-de-reservation-proposals-from-last-three-years/article71337011.ece",
-    "time": "2026-08-12T16:25:50.000Z"
   },
   {
     "cat": "Entertainment",
@@ -433,15 +451,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Preity Zinta stuns in Rs 42,500 fuchsia farshi salwar set for 'Batwara 1947'",
-    "desc": "Preity Zinta embraced traditional elegance for the press tour of her upcoming film 'Batwara 1947', opting for a fuchsia farshi salwar set from the homegrown label, Devnaagri paired with pointy-toe block heels by Aprajita Toor. Here's a complete breakdown of the actress's promotional look, along with more details about the period drama set for release on August 14.",
-    "img": "https://static.toiimg.com/photo/msid-133179723,imgsize-95125.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/preity-zinta-exudes-elegance-in-rs-42500-fuchsia-farshi-salwar-set-for-batwara-1947-press-tour/articleshow/133179528.cms",
-    "time": "2026-08-12T10:41:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Shah Rukh Khan's witty response about his voluminous hair at 60 leaves people in splits",
     "desc": "Bollywood star Shah Rukh Khan's old video talking about his hair has now gone viral again. He humorously deflected the inquiry with a signature witty remark to the audience. This playful response highlighted his ability to entertain even during casual conversations. His hair has been a consistent feature in his iconic film roles over decades. Shah Rukh Khan's charm extends beyond the screen, captivating fans with his quick wit.",
     "img": "https://static.toiimg.com/photo/msid-133179669,imgsize-290682.cms",
@@ -466,15 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/how-difficult-is-it-to-become-a-doctor-or-engineer-in-india/articleshow/133177741.cms",
     "time": "2026-08-12T10:33:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'India not banana republic': Rijiju says FCRA important to keep eyes on foreign fundings",
-    "desc": "Union minister Kiren Rijiju said India was not a \"banana republic\" and that there should be rules and regulations to spend foreign funds. The proposed legislation, aimed to manage the gap in the regulation of foregin fundings to NGOs and curb the proselytisation, was fiercely criticised the opposition that termed the bill \"anti minority\". Union minister Nityanand Rai moved the motion in the Lok Sabha after the House resumed proceedings.",
-    "img": "https://static.toiimg.com/photo/msid-133179090,imgsize-102228.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-not-banana-republic-rijiju-says-fcra-important-to-keep-eyes-on-foreign-fundings/articleshow/133178073.cms",
-    "time": "2026-08-12T10:17:05.000Z"
   },
   {
     "cat": "Sports",
