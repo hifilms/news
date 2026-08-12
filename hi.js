@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Is Litton Das fit to play Bangladesh's first Test vs Australia in Darwin? Najmul Shanto answers",
+    "desc": "Bangladesh captain Najmul Hossain Shanto has confirmed that keeper-batter Litton Das is available for selection for the first Test against Bangladesh in Darwin. The 31-year-old is cleared just in time for the first Test after...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/is-litton-das-fit-to-play-bangladesh-s-first-test-vs-australia-in-darwin-najmul-shanto-answers-2026-08-12-1051118",
+    "time": "2026-08-12T06:57:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Afghanistan set to host India in three-match T20I series in Delhi; check details",
+    "desc": "The Board of Control for Cricket in India (BCCI) have confirmed the upcoming three-match T20I series against Afghanistan. The series will kick off on September 13, with the second and third matches being played on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/afghanistan-set-to-host-india-in-three-match-t20i-series-in-delhi-check-details-2026-08-12-1051109",
+    "time": "2026-08-12T05:44:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hazlewood, Lyon return, Beau Webster finds place as Australia announce playing XI for Bangladesh Test",
+    "desc": "Veteran Australia pacer Josh Hazlewood returns to red-ball cricket as Australia have named him in the playing XI for the opening Test against Bangladesh in Darwin. He has been a force to reckon with in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/hazlewood-lyon-return-beau-webster-finds-place-as-australia-announce-playing-xi-for-bangladesh-test-2026-08-12-1051105",
+    "time": "2026-08-12T05:14:34.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Abishek Porel's case deferred to September 14 as government seek more time from Calcutta High Court",
     "desc": "The Calcutta High Court deferred the hearing of a petition involving Bengal cricketer Abishek Porel to September 14, after the West Bengal government sought additional time to continue its investigation following his arrest. Notably, the...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/co-owners-jonty-rhodes-john-abraham-unveil-rotterdam-dockers-jersey-ahead-of-maiden-etpl-2026-08-11-1051077",
     "time": "2026-08-11T17:01:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What will happen to WTC 2025-27 points table if India win Sri Lanka Test series 2-0?",
-    "desc": "India are set to meet Sri Lanka for a crucial two-match Test series in a few days as they look to make their push for the World Test Championship final. The Shubman Gill-led team has...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/what-will-happen-to-wtc-2025-27-points-table-if-india-win-sri-lanka-test-series-2026-08-11-1051071",
-    "time": "2026-08-11T15:25:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "After Nations Cup success, India women's hockey team captain eyes World Cup gold",
-    "desc": "Following their victory in the Nations Cup, India are now eyeing glory at the upcoming women's Hockey World Cup 2026. Women's team skipper Salima Tete is determined to end the long wait for a medal...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/hockey/after-nations-cup-success-india-womens-hockey-team-captain-eyes-world-cup-gold-2026-08-11-1051066",
-    "time": "2026-08-11T14:39:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lionel Messi takes indefinite break from football after father's death, no return date set",
-    "desc": "Argentine legend Lionel Messi has reportedly taken a break from football following the death of his father, Jorge Messi. His father, Jorge, passed away a few days ago at a clinic in Rosario after a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/lionel-messi-takes-indefinite-break-from-football-after-fathers-death-no-return-date-set-2026-08-11-1051055",
-    "time": "2026-08-11T12:29:06.000Z"
   }
 ];
