@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "EPFOના નવા નિયમો લાગુ... ઈમરજન્સીમાં પણ નહીં ઉપાડી શકો PFના બધા પૈસા",
+    "desc": "EPF બચત જે કર્મચારીના ભવિષ્ય માટે બનાવાયેલ હતી, હવે ફક્ત નિવૃત્તિ પછી જ નહીં પરંતુ જરૂરિયાતના સમયગાળા દરમિયાન કોઈપણ સમયે પણ તેનો ઉપયોગ કરી શકાય છે. ત્યારે PF ફંડ ઉપાડવા અંગેના EPFOના નવા નિયમો લાગુ કરવામાં આવ્યા છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/epfo-new-rule-know-how-much-withdraw-pf-for-emergency-situations-487548 ",
+    "time": "2026-08-12T13:57:26.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "કેટલી સંપત્તિના માલિક છે વિધાનસભાના અધ્યક્ષ શંકર ચૌધરી ? આંકડો જાણીને ચોંકી જશો!",
+    "desc": "ઉત્તર ગુજરાતના દિગ્ગજ નેતા શંકર ચૌધરી હાલમાં ગુજરાત વિધાનસભાના અધ્યક્ષ તરીકે મહત્વની જવાબદારી સંભાળી રહ્યા છે. શંકર ચૌધરી 2022ની વિધાનસભા ચૂંટણીમાં થરાદ બેઠક પરથી ચૂંટાઈ આવ્યા હતા. તેમની સંપત્તિની વાત કરીએ તો તેઓ જમીન-મકાન, બેંક ડિપોઝિટ, રોકાણ, સોના-ચાંદી સહિત કરોડોની મિલકત ધરાવે છે, જેના વિશે આ લેખમાં વિસ્તારથી જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gujarat-assembly-speaker-shankar-chaudhary-net-worth-know-his-total-property-487546 ",
+    "time": "2026-08-12T13:10:10.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "વર્લ્ડ કપ 2027 બાદ જસપ્રીત બુમરાહ ફક્ત T20 જ રમશે! BCCIએ બનાવ્યો ખાસ પ્લાન, જાણો શું છે કારણ",
     "desc": "જસપ્રીત બુમરાહની ઈજા ટીમ ઈન્ડિયા માટે એક મોટી સમસ્યા સાબિત થઈ છે. BCCIનો ટાર્ગેટ તેને 2027ના વનડે વર્લ્ડ કપ સુધી ફિટ રાખવાનો છે. અહેવાલો અનુસાર, બુમરાહ આ મોટી ટુર્નામેન્ટ પછી ક્રિકેટના લાંબા ફોર્મેટથી દૂર થઈ શકે છે.",
@@ -279,15 +297,6 @@ const newsData_gu = [
     "time": "2026-08-10T16:17:13.000Z"
   },
   {
-    "cat": "Business",
-    "title": "રશિયા તો ફક્ત બહાનું... ભારત છે અસલી ટાર્ગેટ! ટ્રમ્પના 100% ટેરિફ બિલ અંગે એક્સપર્ટની ચેતવણી",
-    "desc": "રશિયન ઓઈલના મુખ્ય ખરીદદારો પર 100 ટકા સુધીના ટેરિફ લાદવાની સત્તા આપતું બિલ અમેરિકન સેનેટમાં પસાર થયું છે. એક્સપર્ટની દલીલ છે કે આ પગલું ભારત વિરોધી છે. કારણ કે આ બિલ અમલમાં આવતા રશિયા પાસેથી ઓઈલ ખરીદતા દેશો પર 100% સુધીનો ટેરિફ લાદવાનો ભય રહેલો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/us-senate-passes-russia-sanctions-bill-100-percent-tariff-threat-on-india-says-expert-487346 ",
-    "time": "2026-08-10T15:37:02.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "શું ભારતીય રસોડામાં LPGનું સ્થાન લેશે એથનોલ? સરકારે જણાવ્યો ભવિષ્યનો પ્લાન",
     "desc": "શું એથનોલ ભારતીય રસોડામાં વપરાતું આગામી ઇંધણ બની શકે છે? જેમ-જેમ ભારતમાં આ બાયોફ્યુલનો ઉપયોગ વધી રહ્યો છે, તેમ-તેમ આ પ્રશ્ન પણ ઉઠવા લાગ્યો છે કે, શું LPGની સાથે-સાથે એથનોલ પણ ભારતીય રસોડામાં પોતાનું સ્થાન બનાવી શકે છે?",
@@ -295,15 +304,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/will-ethanol-replace-lpg-in-indian-kitchens-government-reveals-future-plans-487332 ",
     "time": "2026-08-10T15:12:52.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "5 કે 10 નહીં, આટલા કરોડની સંપત્તિના માલિક છે DyCM હર્ષ સંઘવી, જાણો ક્યાંથી કરે છે કમાણી",
-    "desc": "ગુજરાતના DyCM હર્ષ સંઘવી યુવા નેતા તરીકે રાજકારણમાં ઝડપથી આગળ વધ્યા છે. 2012માં ધારાસભ્ય બન્યા બાદ તેમણે ગૃહમંત્રી સહિત અનેક મહત્વની જવાબદારીઓ સંભાળી અને 2025માં DyCM બન્યા. 2022ની ચૂંટણી એફિડેવિટ મુજબ તેમની જાહેર સંપત્તિ ₹17.42 કરોડ હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/harsh-sanghvi-net-worth-how-much-property-does-gujarat-dycm-own-487331 ",
-    "time": "2026-08-10T14:59:18.000Z"
   },
   {
     "cat": "World",
@@ -412,15 +412,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/nikita-rawal-latest-news-female-fan-kissed-nikita-rawal-on-red-carpet-video-viral-487256 ",
     "time": "2026-08-10T02:10:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "શ્રીલંકા સામેની મેચ જીત્યા બાદ પણ ભારતીય બેટ્સમેનો કરી રહ્યા હતા બેટિંગ, જાણો શું હતું કારણ",
-    "desc": "ભારતીય ટીમે રવિવારે શ્રીલંકા ક્રિકેટ ઈલેવન સામેની ત્રણ દિવસીય પ્રેક્ટિસ મેચ છ વિકેટથી જીતી લીધી હતી. જોકે, જીત મેળવ્યા બાદ પણ, ભારતીય બેટ્સમેનોએ બેટિંગ ચાલુ રાખી હતી. ત્યારે આ લેખમાં જાણીશું કે મેચ જીત્યા બાદ પણ બેટ્સમેનો કેમ બેટિંગ રમી રહ્યા હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/indian-batsmen-kept-batting-even-after-winning-match-against-sri-lanka-487252 ",
-    "time": "2026-08-09T16:03:21.000Z"
   },
   {
     "cat": "World",
@@ -664,14 +655,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/electricity-bill-hidden-power-consumption-5-household-appliances-486826 ",
     "time": "2026-08-05T10:52:32.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Jioએ યુઝર્સ માટે લોન્ચ કર્યો 3-in-1 Plans, હવે એક જ પ્લાનમાં હાઈ-સ્પીડ ઈન્ટરનેટ, 1000+ ટીવી ચેનલ અને 12 OTTની મજા",
-    "desc": "Jioએ તેમના યુઝર્સ માટે એક શાનદાર પ્લાન લોન્ચ કર્યા છે. જિઓએ તેના યુઝર્સને ખુશ કરવા માટે નવા 3-in-1 જિઓ હોમ પ્લાન લોન્ચ કર્યા છે. આ પ્લાનની 400 રૂપિયા મહિનાથી શરૂ થાય છે. આ પ્લાન્સમાં ટીવી, હાઈ-સ્પીડ Wi-Fi, 1000+ લાઈવ ચેનલ અને 12 OTT એપનો ફાયદો મળશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/jio-launches-3-in-1-plans-for-users-now-enjoy-high-speed-internet-1000-plus-tv-channels-and-12-otts-in-a-single-plan-486762 ",
-    "time": "2026-08-04T16:27:23.000Z"
   }
 ];

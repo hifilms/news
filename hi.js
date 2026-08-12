@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "No Neeraj Chopra-Arshad Nadeem clash in Lausanne Diamond League as Pakistani athlete to miss event",
+    "desc": "There won't be a clash between the two latest Olympic champions - Arshad Nadeem and Neeraj Chopra - in the Lausanne Diamond League as the Pakistani star will be skipping the event to prepare for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/no-neeraj-chopra-arshad-nadeem-clash-in-lausanne-diamond-league-as-pakistani-athlete-to-miss-event-2026-08-12-1051178",
+    "time": "2026-08-12T14:53:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lionel Messi hints at retirement, shares emotional note on social media after losing father",
+    "desc": "Argentine football legend Lionel Messi has hinted at retirement, casting doubts over continuing in the sport after losing his father, Jorge Messi. The Argentina captain shared an emotional post on social media, where he paid...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/lionel-messi-hints-at-retirement-shares-emotional-note-on-social-media-after-losing-father-2026-08-12-1051170",
+    "time": "2026-08-12T13:39:53.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Babar Azam ends near two-year wait in ICC rankings after guiding Pakistan to win over West Indies",
     "desc": "Pakistan Test captain Babar Azam on Wednesday ended his near two-year wait for a place in the top 10 of the ICC Test batters' rankings. Babar has been rewarded for his recent performance in the...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/abishek-porel-s-case-deferred-to-september-14-as-government-seek-more-time-from-calcutta-high-court-2026-08-12-1051101",
     "time": "2026-08-12T04:31:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hardik Pandya wants to rejoin Gujarat Titans as captain, franchise rejects: Report",
-    "desc": "Star India all-rounder Hardik Pandya is set to leave Mumbai Indians ahead of IPL 2027. His return to the franchise hasn’t been successful and following which, both the franchise and the player are planning to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-wants-to-rejoin-gujarat-titans-as-captain-franchise-rejects-report-2026-08-12-1051091",
-    "time": "2026-08-12T02:32:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Andrew Flintoff's son Rocky breaks Somerset's 136-year-old record with blistering show in One-Day Cup",
-    "desc": "Rocky Flintoff has entered Lancashire’s record books after producing a remarkable maiden century for the county’s senior side. At just 18 years and 126 days, the son of former England all-rounder Andrew Flintoff struck 123...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/andrew-flintoff-s-son-rocky-breaks-somerset-s-136-year-old-record-with-blistering-show-in-one-day-cup-2026-08-12-1051089",
-    "time": "2026-08-12T01:55:11.000Z"
   }
 ];
