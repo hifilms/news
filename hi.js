@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Abishek Porel's case deferred to September 14 as government seek more time from Calcutta High Court",
+    "desc": "The Calcutta High Court deferred the hearing of a petition involving Bengal cricketer Abishek Porel to September 14, after the West Bengal government sought additional time to continue its investigation following his arrest. Notably, the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/abishek-porel-s-case-deferred-to-september-14-as-government-seek-more-time-from-calcutta-high-court-2026-08-12-1051101",
+    "time": "2026-08-12T04:31:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hardik Pandya wants to rejoin Gujarat Titans as captain, franchise rejects: Report",
+    "desc": "Star India all-rounder Hardik Pandya is set to leave Mumbai Indians ahead of IPL 2027. His return to the franchise hasn’t been successful and following which, both the franchise and the player are planning to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-wants-to-rejoin-gujarat-titans-as-captain-franchise-rejects-report-2026-08-12-1051091",
+    "time": "2026-08-12T02:32:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Andrew Flintoff's son Rocky breaks Somerset's 136-year-old record with blistering show in One-Day Cup",
+    "desc": "Rocky Flintoff has entered Lancashire’s record books after producing a remarkable maiden century for the county’s senior side. At just 18 years and 126 days, the son of former England all-rounder Andrew Flintoff struck 123...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/andrew-flintoff-s-son-rocky-breaks-somerset-s-136-year-old-record-with-blistering-show-in-one-day-cup-2026-08-12-1051089",
+    "time": "2026-08-12T01:55:11.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Cristiano Ronaldo marries Argentina's Georgina Rodriguez",
     "desc": "Cristiano Ronaldo and his longtime partner Georgina Rodriguez have married in a private civil ceremony in Cascais, Portugal. They were dating for more than 10 years after meeting in Madrid and have since been one...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/lionel-messi-takes-indefinite-break-from-football-after-fathers-death-no-return-date-set-2026-08-11-1051055",
     "time": "2026-08-11T12:29:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "South Africa name Bjorn Fortuin as captain for Namibia white-ball tour, Duan Jansen gets maiden call up",
-    "desc": "South Africa have named their squad for the white-ball tour of Namibia, as Bjorn Fortuin will be captaining the side to kick off a busy summer for the Proteas men's side. Most of the regular...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-name-bjorn-fortuin-as-captain-namibia-white-ball-tour-duan-jansen-gets-maiden-call-up-2026-08-11-1051053",
-    "time": "2026-08-11T12:10:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Moises Henriques named Portugal captain for T20 World Cup Europe qualifiers after his switch from Australia",
-    "desc": "Moises Henriques will lead Portugal in their bid to reach the T20 World Cup for the first time. The former Australia all-rounder will be taking charge of the side at the T20 World Cup Europe...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/moises-henriques-named-portugal-captain-for-t20-world-cup-europe-qualifiers-after-his-switch-from-australia-2026-08-11-1051042",
-    "time": "2026-08-11T11:10:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Klaasen, Miller, Allen head to ILT20, Stoinis returns as teams announce pre-auction signings",
-    "desc": "The ILT20 will have more star international players making their debuts, as South African stars Heinrich Klaasen and David Miller and New Zealand's Finn Allen have penned deals with the franchises. Klaasen and Miller have...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/klaasen-miller-allen-head-to-ilt20-stoinis-returns-as-teams-announce-pre-auction-signings-2026-08-11-1051040",
-    "time": "2026-08-11T11:06:07.000Z"
   }
 ];

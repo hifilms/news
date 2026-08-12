@@ -1,5 +1,194 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Nivin Pauly urges young women to break free from restrictions",
+    "desc": "Nivin Pauly revealed that his acting journey was inspired by 'The Alchemist,' encouraging students to conquer self-doubt and seize new opportunities. He emphasized the role of educators, stating that mentorship should extend to all learners, not just the top achievers. Pauly also advocated for young women to defy societal limitations on their ambitions. His latest film, 'Bethlehem Kudumba Unit,' is set to be released on August 21.",
+    "img": "https://static.toiimg.com/photo/msid-133169959,imgsize-477898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/when-doubts-arise-you-must-make-a-decision-nivin-pauly-urges-young-women-to-break-free-from-restrictions/articleshow/133169917.cms",
+    "time": "2026-08-12T04:23:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Hundreds offer ‘bali tharpanam’ at Aluva in Kerala’s Ernakulam",
+    "desc": "Many, including women and elderly, from various places turned up at the Siva temple premises on the banks of the Periyar River from the morning to perform the ritual. Over 40 balitharas (booths) were set up for the ceremonies",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/cjlo11/article71335024.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-12%20at%2008.04.35.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/karkidaka-vavu-hundreds-offer-bali-tharpanam-at-aluva-in-keralas-ernakulam/article71334960.ece",
+    "time": "2026-08-12T04:22:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Raaka': Deepika, Janhvi, Rashmika's character details LEAKED",
+    "desc": "New character details for Allu Arjun's film Raaka have reportedly leaked online. Deepika Padukone will portray a pregnant woman in the Puranic Vedic era. Janhvi Kapoor is set to play a fierce tribal queen in the narrative. Rashmika Mandanna will guide and protect Deepika's character through dangers. The ambitious film is slated for a December 2027 release.",
+    "img": "https://static.toiimg.com/photo/msid-133169200,imgsize-622306.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/raaka-deepika-padukone-janhvi-kapoor-and-rashmika-mandannas-character-details-leaked-from-allu-arjun-starrer/articleshow/133169069.cms",
+    "time": "2026-08-12T04:15:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All you need to know about Cristiano Ronaldo’s wife, Georgina Rodriguez",
+    "desc": "In a heartwarming celebration, Georgina Rodriguez and Cristiano Ronaldo have become husband and wife, capping off their years of togetherness. The pair, who have two children, saw Rodriguez shift from her start as a luxury sales assistant to a successful model and entrepreneur with her own athleisure brand. Their joyous civil ceremony in Portugal was joyfully announced on social media.",
+    "img": "https://static.toiimg.com/photo/msid-133169547,imgsize-310051.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/who-is-cristiano-ronaldos-wife-georgina-rodriguez-all-about-the-model-and-business-owner/articleshow/133169501.cms",
+    "time": "2026-08-12T04:01:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'There is no success in life without a woman,' says 'Soori",
+    "desc": "During an esteemed award ceremony in Chennai, actor Soori paid tribute to an IAS officer, underscoring the crucial contributions women make both in personal spheres and society at large. He acknowledged the immense sacrifices women undertake while nurturing families. Additionally, Soori teased details about his forthcoming film 'Mandadi' and an exciting collaboration with director R Ravikumar, signaling his continuous commitment to dynamic and challenging roles in his acting career.",
+    "img": "https://static.toiimg.com/photo/msid-133169304,imgsize-160829.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/there-is-no-success-in-life-that-is-complete-without-a-woman-says-mandadi-star-soori/articleshow/133169290.cms",
+    "time": "2026-08-12T03:51:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I would be very worried': Former Sri Lankan cricketer names India's biggest weapon",
+    "desc": "Former Sri Lanka all-rounder Farveez Maharoof anticipates India fielding three spinners in the upcoming Test. He believes young Manav Suthar might get the nod over Saransh Jain for bounce. Maharoof also highlighted Rishabh Pant as a significant threat to the Sri Lankan team. Pant's ability to change games quickly worries the former player immensely. Sri Lanka expects to counter Pant with significant spin bowling options.",
+    "img": "https://static.toiimg.com/photo/msid-133169171,imgsize-106542.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-would-be-very-worried-former-sri-lankan-cricketer-names-indias-biggest-weapon/articleshow/133169139.cms",
+    "time": "2026-08-12T03:40:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mallika Sherawat claims Tom Cruise has a crush on her",
+    "desc": "In an exciting revelation, Mallika Sherawat shared on The Traitors Season 2 that Hollywood star Tom Cruise has developed a crush on her. Not only that, but he is also sending her videos from their time together at parties. The highly anticipated show, hosted by Karan Johar, is set to premiere on August 13, 2026, and fans are eager to tune in for more celebrity insights!",
+    "img": "https://static.toiimg.com/photo/msid-133169134,imgsize-319447.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/tom-cruise-has-a-crush-on-me-mallika-sherawat-claims-the-mission-impossible-star-messages-her/articleshow/133168982.cms",
+    "time": "2026-08-12T03:36:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anupam is NOT INTERESTED in being remembered as great actor",
+    "desc": "Veteran actor Anupam Kher recently shared his thoughts on what legacy truly means. He believes his cinematic journey is still in its early stages, with much more to achieve. Above all else, Kher hopes to be remembered as a good human being, asserting that positively impacting lives is far more meaningful than any awards. Fans can anticipate his upcoming role in 'Khosla Ka Ghosla 2', set to release in 2026.",
+    "img": "https://static.toiimg.com/photo/msid-133168927,imgsize-397886.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anupam-kher-is-not-interested-in-being-remembered-as-great-actor-want-to-be-remembered-as-a-good-human-being/articleshow/133168690.cms",
+    "time": "2026-08-12T03:18:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anne Hathaway to keep baby's gender private: 'We're not saying'",
+    "desc": "Anne Hathaway announced her pregnancy with her third child and husband Adam Shulman. She revealed they will not be sharing the baby's gender with the public. Her sons Jonathan and Jack are reportedly very excited about their new sibling. Hathaway also addressed speculation about a fake baby bump during recent appearances. Her film 'The End of Oak Street' is set for an August 14, 2026 release.",
+    "img": "https://static.toiimg.com/photo/msid-133168877,imgsize-262159.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/pregnant-anne-hathaway-reveals-plans-to-keep-babys-gender-hidden-we-know-but-were-not-saying/articleshow/133168127.cms",
+    "time": "2026-08-12T03:12:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Suriya reveals why he stopped watching his father Sivakumar’s films",
+    "desc": "Actor Suriya has taken significant steps to establish his individuality, consciously stepping out from the fame of his father. To maintain his unique acting style, he avoided watching any of his father's classic films. He lauded the creative team of 'Vishwanath And Sons' for their infectious enthusiasm in the project. The movie promises to deliver a touching emotional journey, set to hit theaters on August 14.",
+    "img": "https://static.toiimg.com/photo/msid-133168715,imgsize-71732.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vishwanath-and-sons-star-suriya-reveals-why-he-stopped-watching-his-father-sivakumars-films-my-ego-was-triggered/articleshow/133168688.cms",
+    "time": "2026-08-12T03:02:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Parl Panel flags shortfall in achieving even 25% of skill development targets under action plan for persons with disabilities",
+    "desc": "A parliamentary committee raised alarm bells over the skill development initiative aimed at persons with disabilities, highlighting a persistent struggle to achieve training goals. There has been a notable deficit in the number of individuals trained as compared to targets set. The committee urged implementing a stronger, industry-integrated strategy to enhance employment results. In response, the Department of Empowerment of Persons with Disabilities acknowledged these suggestions.",
+    "img": "https://static.toiimg.com/photo/msid-133168697,imgsize-60350.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/parl-panel-flags-shortfall-in-achieving-even-25-of-skill-development-targets-under-action-plan-for-persons-with-disabilities/articleshow/133168595.cms",
+    "time": "2026-08-12T03:02:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Cha Eun Woo to lead ‘Bon Appétit, Your Majesty’ spin-off series",
+    "desc": "Cha Eun Woo is set to take the lead in a highly anticipated spin-off series rooted in the beloved drama 'Bon Appétit, Your Majesty'. This fresh installment promises a unique storyline while maintaining the charm of the original universe. Fans of the popular idol are eagerly looking forward to seeing him step into the role that was once portrayed by Lee Chae Min.",
+    "img": "https://static.toiimg.com/photo/msid-133168466,imgsize-67332.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/the-wonderfools-cha-eun-woo-cast-in-upcoming-spin-off-series-of-bon-apptit-your-majesty/articleshow/133168437.cms",
+    "time": "2026-08-12T02:52:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Saif flaunts his bowling skills on London cricket field",
+    "desc": "Saif Ali Khan showcased his impressive bowling skills in a London cricket match, dressed in classic whites, relishing every moment of the game. Cricket runs deep in his lineage, as both his father and grandfather have made significant marks in the sport's history. His son, Taimur, is currently honing his cricket abilities in London. Anticipation builds for Saif's upcoming film, 'Haiwaan', set to hit theaters this September.",
+    "img": "https://static.toiimg.com/photo/msid-133168229,imgsize-1033522.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/watch-saif-ali-khan-shows-off-his-bowling-skills-on-london-cricket-field-fans-say-khandani-cricketer-hai/articleshow/133168045.cms",
+    "time": "2026-08-12T02:34:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Did Messi, Mbappé, Haaland and Harry Kane really attend?",
+    "desc": "Cristiano Ronaldo and Georgina Rodriguez have officially married after a decade together. Viral images claiming to show Lionel Messi and others at the wedding are fake. These images were digitally manipulated or created using artificial intelligence. The couple kept their intimate ceremony in Portugal extremely private. Social media users should verify information and avoid mistaking fake content for reality.",
+    "img": "https://static.toiimg.com/photo/msid-133168201,imgsize-181136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/fact-check-did-lionel-messi-kylian-mbapp-erling-haaland-and-harry-kane-really-attend-the-cristiano-ronaldo-wedding/articleshow/133168101.cms",
+    "time": "2026-08-12T02:33:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I want to be an athlete' is rare for Indian kids",
+    "desc": "Indian squash is enjoying a surge of attention, fuelled by Anahat Singh’s historic World Junior title and a growing pool of top-ranked professionals. But India's star squash player Veer Chotrani believes sustained success requires more than courts and funding. India needs stronger coaching, training partners and a professional ecosystem at home, while families must increasingly view sport as a viable career alongside education.",
+    "img": "https://static.toiimg.com/photo/msid-133160113,imgsize-74563.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/very-rare-for-a-kid-to-tell-parents-i-want-to-be-an-athlete-what-india-needs-for-a-squash-boom/articleshow/133159278.cms",
+    "time": "2026-08-12T02:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Venky Atluri pays respect to Suriya on stage",
+    "desc": "Director Venky Atluri showed respect to actor Suriya at a promotional event for their upcoming film. The director initially pitched a different biopic idea which faced rights issues. Suriya desired a lighter genre after several intense roles and action films. Atluri then narrated the concept for 'Vishwanath & Sons' over the phone. This romantic family drama is scheduled for a theatrical release on August 14, 2026.",
+    "img": "https://static.toiimg.com/photo/msid-133168137,imgsize-324546.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/watch-vishwanath-sons-director-venky-atluri-pays-respect-to-suriya-on-stage-video-wins-hearts/articleshow/133168103.cms",
+    "time": "2026-08-12T02:27:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vishnu Vishal and Arunraja Kamaraj's film shelved",
+    "desc": "Actor Vishnu Vishal has officially announced the cancellation of his project with Arunraja Kamaraj, citing creative differences and budget constraints as the primary reasons. After dedicating ten months to this highly awaited film, he is now redirecting his energy towards upcoming releases and new ventures. The legal proceedings associated with the shelved project are expected to take some additional time to finalize.",
+    "img": "https://static.toiimg.com/photo/msid-133168078,imgsize-44120.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vishnu-vishal-and-arunraja-kamarajs-film-shelved-due-to-creative-differences-we-have-decided-not-to-take-this-project-forward/articleshow/133168053.cms",
+    "time": "2026-08-12T02:19:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘KSBKBT2’: Samaira tries to run away from her engagement",
+    "desc": "In a whirlwind of preparations for her engagement, Samaira secretly plots her escape. Tripti, seeking to slow things down, engineers a car accident with Parag to postpone their arrival. Vaishnavi desperately looks for Tulsi, who is preoccupied with an urgent matter. Family members gather, expressing their feelings and showering blessings upon Samaira. The episode trails off as Rounak discovers Sid lurking near the venue, leaving viewers in suspense.",
+    "img": "https://static.toiimg.com/photo/msid-133167967,imgsize-63781.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/tv/news/hindi/kyunki-saas-bhi-kabhi-bahu-thi-2-august-11-written-update-tripti-and-sid-plan-to-stop-the-engagement-as-samaira-tries-to-run-away/articleshow/133167949.cms",
+    "time": "2026-08-12T02:06:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ahead of SL Tests, former all-rounder picks uncapped Brar as India's 'x-factor'",
+    "desc": "India is set to face Sri Lanka in a Test series starting August 15 in Galle. Former Sri Lankan all-rounder Farveez Maharoof has expressed his support for uncapped pacer Gurnoor Brar, stating that his bounce, pace, and competitive nature could prove crucial. Additionally, Maharoof praised Indian captain Shubman Gill, noting his impressive Test average of around seventy this year, highlighting his skill and consistency.",
+    "img": "https://static.toiimg.com/photo/msid-133167849,imgsize-108410.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ahead-of-sri-lanka-tests-former-all-rounder-picks-uncapped-gurnoor-brar-as-indias-x-factor/articleshow/133167808.cms",
+    "time": "2026-08-12T01:53:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'GDN' BO day 5: Earns Rs 3.58 Cr India net",
+    "desc": "R. Madhavan's inspiring biographical film 'G.D.N.' has grossed Rs 3.58 crore in net collections across India. The Tamil version is brilliantly leading in the domestic box office, showcasing its popularity. Following its successful theatrical run, 'G.D.N.' has bagged streaming rights with Netflix. The film poignantly narrates the life of industrialist G. D. Naidu, with outstanding performances from Jayaram, Sathyaraj, and Karunakaran praised by critics.",
+    "img": "https://static.toiimg.com/photo/msid-133167820,imgsize-145475.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/gdn-box-office-collections-day-5-r-madhavans-biographical-drama-earns-rs-3-58-cr-india-net-tamil-version-contributes-rs-3-25-cr/articleshow/133167793.cms",
+    "time": "2026-08-12T01:49:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jack Lowden to be the next James Bond? 'Slow Horses' star top contender",
+    "desc": "Scottish actor Jack Lowden is reportedly being seriously considered for the next James Bond role. Richard Osman teased Lowden's potential casting on his podcast, sparking widespread internet discussion. Lowden, known for 'Slow Horses', would be the first Scottish Bond since Sean Connery. Producers suggest the new 007's identity may be revealed by the end of this year. The next James Bond film is slated for a 2028 theatrical release.",
+    "img": "https://static.toiimg.com/photo/msid-133167706,imgsize-246415.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jack-lowden-to-be-the-next-james-bond-slow-horses-star-could-be-first-scottish-actor-since-sean-connery-to-play-007/articleshow/133167562.cms",
+    "time": "2026-08-12T01:34:04.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Will it be visible from India?",
     "desc": "A solar eclipse is when the Sun, Moon and Earth are in alignment, and the Moon passes directly between the Sun and Earth, casting a shadow on our planet and blocking some of the fiery ball’s light.",
@@ -63,51 +252,6 @@ const newsData_en = [
     "time": "2026-08-12T00:50:19.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Lucy Davis says she has an incurable form of cancer",
-    "desc": "In a heartfelt announcement, actress Lucy Davis shared her stage four breast cancer diagnosis, which has now metastasized to her bones. Embracing the inevitable, she is dedicated to savoring precious moments with her family and friends. Humor and acceptance serve as her guiding lights during this tough journey, as Davis aims to persist in her professional commitments and her passion for animal rights.",
-    "img": "https://static.toiimg.com/photo/msid-133167492,imgsize-161681.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-office-star-lucy-davis-reveals-incurable-cancer-diagnosis-im-trying-to-live-out-whatever-might-be-left-of-my-life/articleshow/133167479.cms",
-    "time": "2026-08-12T00:45:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Spider-Man' nears Rs 520 cr; 'Awarapan 2', 'Batwara 1947' open advance sales",
-    "desc": "Brand New Day maintains strong Indian box office momentum on its thirteenth day. The film achieved an estimated Rs 8.50 crore net collection on its second Tuesday. Advance bookings show Awarapan 2 leading over Batwara 1947 for the weekend. Awarapan 2 has sold significantly more tickets than Batwara 1947. Both new films are set to release this upcoming Independence Day weekend.",
-    "img": "https://static.toiimg.com/photo/msid-133167469,imgsize-599147.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/spider-man-brand-new-day-box-office-collections-day-13-tom-holland-starrer-nears-rs-520-crore-gross-in-india-despite-awarapan-2-and-batwara-1947-opening-advance-ticket-sales/articleshow/133167425.cms",
-    "time": "2026-08-12T00:39:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jr NTR to undergo shoulder surgery in Hyderabad",
-    "desc": "Jr NTR will undergo shoulder surgery at KIMS Hospitals in Hyderabad on August 12. This procedure follows an evaluation of an injury sustained by the actor in July. Doctors have advised six to eight weeks of complete rest for his recovery. His team has requested privacy for the actor during his treatment period. Further updates on his health will be shared after the surgery.",
-    "img": "https://static.toiimg.com/photo/msid-133167438,imgsize-240393.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/jr-ntr-to-undergo-shoulder-surgery-in-hyderabad-team-asks-fans-and-media-to-respect-dragon-actors-privacy/articleshow/133167432.cms",
-    "time": "2026-08-12T00:28:40.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Jana Nayagan' BO day 20: Vijay starrer sees weekday dip",
-    "desc": "Jana Nayagan's theatrical earnings saw another decline on its twentieth day. The film collected sixty-five lakhs in India, a slight drop from yesterday. Its total India net collection has now reached one hundred ninety-three point seven zero crores. Worldwide gross collections for the political drama stand at three hundred eighteen point eight three crores. Overseas collections have significantly contributed to the film's overall success.",
-    "img": "https://static.toiimg.com/photo/msid-133167404,imgsize-160644.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-box-office-collections-day-20-thalapathy-vijay-starrer-sees-weekday-dip-india-net-collection-reaches-rs-193-70-cr/articleshow/133167400.cms",
-    "time": "2026-08-12T00:14:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Julie Andrews OUT of 'The Princess Diaries 3': 'I'm retired'",
-    "desc": "Julie Andrews confirmed she will not reprise her role as Queen Clarisse Renaldi. She feels retired and believes the film can flourish without her presence. Anne Hathaway remains committed to her role as Mia Thermopolis in the sequel. Development faced delays due to Hathaway's other franchise commitments. The Princess Diaries 3 is still in development for Disney.",
-    "img": "https://static.toiimg.com/photo/msid-133167258,imgsize-358563.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/julie-andrews-not-returning-for-the-princess-diaries-3-with-anne-hathaway-i-think-im-retired/articleshow/133167230.cms",
-    "time": "2026-08-11T23:36:28.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Chandigarh body seeks Vice-Presidents’ help to halt auction of Panjab University heritage furniture in U.S.",
     "desc": "Chandigarh administration told the Vice-President that heritage items belonging to Panjab University had been listed for sale by a Chicago-based auction house, which includes a set of eight dining chairs, described as student residence chairs of PU, with an estimated price of $12,000-$15,000",
@@ -115,33 +259,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/chandigarh-body-seeks-vice-presidents-help-to-halt-auction-of-panjab-university-heritage-furniture-in-us/article71332624.ece",
     "time": "2026-08-11T23:08:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Taylor Swift to be inducted into Nashville Songwriters Hall of Fame",
-    "desc": "Taylor Swift and Lyle Lovett will join the Nashville Songwriters Hall of Fame. Shawn Camp and Lee Thomas Miller are also elected as contemporary songwriters. Bruce Channel will be honored as a veteran songwriter for his contributions. These esteemed artists will be formally inducted at a gala later this year. Their achievements recognize significant impact on the music industry.",
-    "img": "https://static.toiimg.com/photo/msid-133167190,imgsize-449504.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/taylor-swift-youngest-star-to-be-inducted-into-nashville-songwriters-hall-of-fame-lyle-lovett-bruce-channel-and-other-stars-to-be-honoured/articleshow/133165267.cms",
-    "time": "2026-08-11T23:08:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Atif Aslam tells Indian fans ‘I miss you guys’ after 10-year ban",
-    "desc": "Atif Aslam has opened up about his 10-year absence from India, saying the ban on Pakistani artistes changed his career but pushed him to explore himself as a musician. He told Indian fans “I miss you guys” and said his music continues to reach them, adding, “I thank those who have banned me.”",
-    "img": "https://static.toiimg.com/photo/msid-133167123,imgsize-43661.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/atif-aslam-tells-indian-fans-i-miss-you-guys-after-10-year-ban-says-restrictions-helped-him-discover-himself-i-thank-those-who-banned-me/articleshow/133167114.cms",
-    "time": "2026-08-11T22:30:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Raye and Michael B. Jordan's relationship status revealed!",
-    "desc": "Raye and Michael B Jordan were recently seen together at a theme park, fueling dating rumors. However, sources indicate their connection is professional, involving a movie soundtrack project. This collaboration explains their recent public appearances outside of studio settings. While some reports suggest mutual liking, others deny any romantic involvement between the two. Both stars have maintained private personal lives away from the public eye.",
-    "img": "https://static.toiimg.com/photo/msid-133166492,imgsize-362408.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/raye-and-michael-b-jordans-relationship-status-revealed-after-six-flags-spotting-duo-working-on-film-project-together/articleshow/133165261.cms",
-    "time": "2026-08-11T22:13:22.000Z"
   },
   {
     "cat": "Politics",
@@ -216,15 +333,6 @@ const newsData_en = [
     "time": "2026-08-11T18:49:43.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Mamata Banerjee protests ‘deeply hurtful’ remarks against Netaji by BJP MP",
-    "desc": "Slogans are also raised against the TMC chairperson at Shyambazar, where she participated in the protest; this is the second time the former West Bengal CM has been called a ‘thief’ at her public events",
-    "img": "https://th-i.thgim.com/public/incoming/h98alz/article71333877.ece/alternates/LANDSCAPE_1200/20260811268L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/mamata-banerjee-protests-deeply-hurtful-remarks-against-netaji-by-bjp-mp/article71333572.ece",
-    "time": "2026-08-11T18:23:07.000Z"
-  },
-  {
     "cat": "World",
     "title": "China, Indonesia navies to hold drills in sensitive waters to east of Taiwan",
     "desc": "“The exercise will ​focus on communication drills and at-sea replenishment, aiming to enhance the ⁠joint operational capabilities of the two navies, deepen practical cooperation, and jointly safeguard regional ‌peace and stability,” says China’s Defence Ministry",
@@ -243,15 +351,6 @@ const newsData_en = [
     "time": "2026-08-11T17:33:11.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rosario Dawson reveals her Spider-Man: Brand New Day scene was cut",
-    "desc": "Brand New Day but was cut from the final film. The actress shared her mother’s amusing reaction over being unable to post BTS photos and spoke about her special connection to Spider-Man. Dawson also expressed hope of returning as Claire Temple in Marvel’s universe someday.",
-    "img": "https://static.toiimg.com/photo/msid-133161878,imgsize-75657.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/rosario-dawson-reveals-her-spider-man-brand-new-day-scene-was-cut-says-mom-was-upset-over-bts-photos-i-hope-i-get-to-be-claire-temple-again/articleshow/133161851.cms",
-    "time": "2026-08-11T17:31:11.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "New Zealand, France confirm FIFA U20 WC participation amid UEFA boycott threats",
     "desc": "The 24-team tournament will be the first FIFA event to take place since UEFA's 55 member associations unanimously backed a boycott of FIFA competitions following Infantino's proposal to sell 20% of the commercial rights to the World Cup to private investors for about $4.2 billion. Infantino later abandoned the plan.",
@@ -259,15 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/new-zealand-join-france-in-confirming-fifa-u20-womens-world-cup-participation-amid-uefa-boycott-threats/articleshow/133160433.cms",
     "time": "2026-08-11T16:59:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "R Madhavan backs audience getting angry at films even before release",
-    "desc": "Actor R Madhavan strongly believes that audiences hold the title of 'master' within the film industry, underlining their right to share their dissatisfaction regarding films. He points out that social media has enhanced this voice, granting viewers unprecedented influence. Madhavan notes the significant impact that audience opinions have on filmmakers and their loved ones while teasing several upcoming projects across diverse languages.",
-    "img": "https://static.toiimg.com/photo/msid-133160687,imgsize-182866.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-madhavan-says-the-audience-is-absolutely-correct-for-getting-irritated-or-angry-with-a-film-even-before-release-if-the-actor-is-pompous-and-the-director-has-not-done-his-job/articleshow/133160112.cms",
-    "time": "2026-08-11T16:49:14.000Z"
   },
   {
     "cat": "Business",
@@ -279,24 +369,6 @@ const newsData_en = [
     "time": "2026-08-11T16:22:53.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rhea Chakraborty says ‘people inside jail are better than people outside’",
-    "desc": "Rhea Chakraborty opened up about her 27 days in prison during a candid interaction with Tanmay Bhat. The actress recalled how inmates spent their time singing, dancing and making thecha, while observing that everyone was treated equally inside. She also joked about jail food and revisited the intense scrutiny she faced during Sushant Singh Rajput’s case.",
-    "img": "https://static.toiimg.com/photo/msid-133159333,imgsize-43745.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rhea-chakraborty-recalls-jail-days-says-people-inside-are-better-than-people-outside-reveals-inmates-timepass-and-food-served-in-prison/articleshow/133159300.cms",
-    "time": "2026-08-11T15:52:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Urmila drops cryptic note after ex-husband Mohsin shares second wedding PICS",
-    "desc": "Mohsin Akhtar celebrated his second wedding reception with Nidhaa Bhatt, as he shared photos and expressed his love for her, describing her as both his home and his peace. Meanwhile, his ex-wife, Urmila Matondkar, shared a mysterious message touching on themes of love and loyalty. Earlier this year, Mohsin made headlines as he announced his second marriage following a decade-long union that ended in divorce.",
-    "img": "https://static.toiimg.com/photo/msid-133159270,imgsize-309263.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/urmila-matondkar-drops-cryptic-note-after-ex-husband-mohsin-akhtar-drops-second-wedding-pics-i-like-love-loyalty-and-time/articleshow/133158938.cms",
-    "time": "2026-08-11T15:48:09.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Direct tax collections rise sharply to Rs 8.11 lakh crore; non-corporate taxes lead",
     "desc": "India's direct tax collections have surged impressively, seeing an increase of over twenty-three percent. As of August 10, gross direct tax collections reached a staggering Rs 9.55 lakh crore. The bulk of these collections stemmed from non-corporate tax receipts, while both corporate tax collections and Securities Transaction Tax experienced notable year-on-year growth. Nevertheless, government-issued refunds only saw a slight uptick during this period.",
@@ -304,15 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/direct-tax-collections-rise-sharply-to-rs-8-11-lakh-crore-non-corporate-taxes-lead/articleshow/133158822.cms",
     "time": "2026-08-11T15:29:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'I don't aim for a bulky body'",
-    "desc": "Veteran actor Sunny Deol, at 68, continues to embrace action-hero roles, starring in the upcoming period drama 'Batwara 1947'. He says that age doesn't dictate his choices, as he still feels like a young hero and maintains his fitness for energy and health. The actor opens up on his fitness secrets, his diet and how he is not in the mood to step down as an action star anytime soon.",
-    "img": "https://static.toiimg.com/photo/msid-47529300.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunny-deol-reveals-his-fitness-regime-at-68-as-he-continues-action-packed-roles-i-dont-aim-for-a-bulky-body-no-diet-as-i-ended-up-eating-samosas-desi-ghee-parathas/articleshow/133158069.cms",
-    "time": "2026-08-11T14:49:32.000Z"
   },
   {
     "cat": "Entertainment",
@@ -340,15 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/after-being-denied-a-direct-spot-how-can-west-indies-qualify-for-the-2027-odi-world-cup/articleshow/133156408.cms",
     "time": "2026-08-11T13:49:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "HC rules in the favour of Janhvi, orders removal of obscene content from 5000 pages",
-    "desc": "The Delhi High Court has ordered removal of some online content targeting Janhvi Kapoor. The court clarified that personality rights cannot be broadly applied to restrict expression. It asked Kapoor's lawyers to narrow down unlawful content claims for action. Blanket removal requests for fan pages and dynamic injunctions were rejected by the judge. The case aims to bring clarity to celebrity personality rights in the digital age.",
-    "img": "https://static.toiimg.com/photo/msid-133156596,imgsize-254886.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/delhi-high-court-rules-in-the-favour-of-janhvi-kapoor-as-it-orders-removal-of-obscene-content-from-5000-pages-on-the-internet-her-plea-covered-allegedly-pornographic-ai-fake-content/articleshow/133156474.cms",
-    "time": "2026-08-11T13:48:48.000Z"
   },
   {
     "cat": "Sports",
@@ -451,30 +505,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Hai iss desh ke, ladte hai padosi desh ke liye'",
-    "desc": "A heated exchange has ignited between Naseeruddin Shah and Piyush Mishra, drawing Kangana Ranaut into the fray as she backs Mishra. This controversy escalated after Shah previously admonished Bollywood for its silence on student protests. In response, Mishra challenged Shah's own record on similar issues, leading Ranaut to launch a fierce critique, branding Shah a fox.",
-    "img": "https://static.toiimg.com/photo/msid-133149822,imgsize-335838.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-slams-naseeruddin-shah-after-piyush-mishras-reaction-to-his-dog-comment-woh-iss-desh-ke-hai-lekin-ladte-padosi-desh-ke-liye-hai/articleshow/133149693.cms",
-    "time": "2026-08-11T09:54:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Teams from Thiruvanananthapuram excel at the latest edition of Destiny dance championship",
     "desc": "Among the winners at the fifth and final edition of Destiny held in Chennai were the college dance crews from Sree Chitra Thirunal College of Engineering and College of Engineering Trivandrum and a crew from Polestar Dance Studio",
     "img": "https://th-i.thgim.com/public/incoming/4m1o9c/article71331533.ece/alternates/LANDSCAPE_1200/11tvm%20abrupt.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/Thiruvananthapuram/dance-crews-thiruvananthapuram-triumphs-destiny-5-dance-competition-chennai/article71331090.ece",
     "time": "2026-08-11T09:53:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Allen, Miller and Klaasen among big names for Season 5",
-    "desc": "Finn Allen, David Miller and Heinrich Klaasen will make their ILT20 debuts in the fifth season of the competition, while Marcus Stoinis returns as the six franchises finalise their pre-auction signings ahead of the October 1 player auction.",
-    "img": "https://static.toiimg.com/photo/msid-133145226,imgsize-472419.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ilt20-finn-allen-david-miller-and-heinrich-klaasen-among-big-names-for-season-5/articleshow/133144721.cms",
-    "time": "2026-08-11T09:50:00.000Z"
   },
   {
     "cat": "Sports",
@@ -493,15 +529,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/upi-and-the-cost-of-policy-reversal/article71328209.ece",
     "time": "2026-08-11T09:35:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Urmila Matondkar's ex-husband Mohsin drops reception PICS from second wedding",
-    "desc": "Mohsin Akhtar, Urmila Matondkar's ex-husband, recently shared reception photos with his new wife Nidhaa Bhatt. He expressed his deep gratitude and love for his wife in a heartfelt romantic note. Netizens reacted positively to the beautiful couple's pictures and offered blessings. However, some trolls questioned his promises and his past marriage to Urmila. Mohsin and Urmila were married in 2016 and their union attracted attention.",
-    "img": "https://static.toiimg.com/photo/msid-133149207,imgsize-404751.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/urmila-matondkars-ex-husband-mohsin-akhtar-drops-reception-pics-months-after-second-wedding-with-nidhaa-bhatt-says-grateful-to-god-for-bringing-you-into-my-life-netizens-react/articleshow/133148925.cms",
-    "time": "2026-08-11T09:22:53.000Z"
   },
   {
     "cat": "World",
@@ -567,15 +594,6 @@ const newsData_en = [
     "time": "2026-08-11T06:14:56.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘The biggest peak of my sporting life’: Bindra reflects on historic Olympic gold",
-    "desc": "Indian shooting icon Abhinav Bindra commemorated the 18th anniversary of his remarkable gold medal victory at the Beijing Olympics. He reflected on this individual medal as the pinnacle of his athletic journey. Bindra’s victory not only brought glory to him but also ended a lengthy pursuit for India’s individual Olympic gold. Post-retirement, he actively promotes sports in India through his foundation.",
-    "img": "https://static.toiimg.com/photo/msid-133143879,imgsize-115097.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/shooting/the-biggest-peak-of-my-sporting-life-abhinav-bindra-reflects-on-historic-olympic-gold-18-years-on/articleshow/133143819.cms",
-    "time": "2026-08-11T06:07:25.000Z"
-  },
-  {
     "cat": "World",
     "title": "Former Air Force Secretary says he’ll sue Trump administration to restore his security clearance",
     "desc": "As my mother taught me years ago, you stand up to bullies, said Former Air Force Secretary Frank Kendall adding that he’ll sue the administration, noting it has a history of retaliating against critics by stripping their clearances",
@@ -594,15 +612,6 @@ const newsData_en = [
     "time": "2026-08-11T05:45:09.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Why opening games are crucial at Hockey World Cup",
-    "desc": "The upcoming FIH Men’s and Women’s World Cups in Belgium and the Netherlands will be played under a new three-stage format, making the league phase even more crucial as points earned in the opening round will be carried forward to the next stage. That is, the result achieved against a team played in the league counts for the final ranking in the new pool in the next phase.",
-    "img": "https://static.toiimg.com/photo/msid-133143082,imgsize-51200.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/league-points-will-stick-around-why-opening-games-are-crucial-at-hockey-world-cup/articleshow/133142914.cms",
-    "time": "2026-08-11T05:28:02.000Z"
-  },
-  {
     "cat": "Business",
     "title": "$500 bn AI boom: Nvidia, Wall Street giants join hands for chip, data centre push",
     "desc": "Nvidia has joined forces with six prominent financial institutions to enhance AI infrastructure funding. The collaboration will see these firms create platforms aimed at financing companies that purchase Nvidia hardware. The goal is to harness over $500 billion in external capital, positioning AI chips as a fresh asset class that encourages the growth of AI technology and data centers.",
@@ -612,15 +621,6 @@ const newsData_en = [
     "time": "2026-08-11T04:11:03.000Z"
   },
   {
-    "cat": "Business",
-    "title": "US president-led media venture posts $238 m loss",
-    "desc": "In the second quarter, Trump Media faced a dramatic loss of $238 million despite seeing its revenue more than double. However, operating losses expanded significantly, prompting the company to abandon new ventures like online betting and cryptocurrency. Their focus has shifted to the Truth API service, aimed at trading firms, while a nuclear fusion project with TAE Technologies remains on track.",
-    "img": "https://static.toiimg.com/photo/msid-133140640,imgsize-67406.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/trump-media-q2-results-us-president-led-media-ventrue-posts-238-million-loss-as-crypto-holdings-tumble/articleshow/133140532.cms",
-    "time": "2026-08-11T02:38:43.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Rajasthan stuck in '12, Manipur in '23: How states with CWG medals promoting sports?",
     "desc": "India’s states celebrated 39 Commonwealth Games medals, but how much are their sports departments actually promoting those achievements? This investigation tracks the social-media activity of state sports bodies, revealing glaring gaps, from Rajasthan’s last Facebook post in 2012 and Manipur’s silence to Haryana’s limited outreach. In contrast, states like Tamil Nadu show how one can promote grassroots athletes consistently on social media.",
@@ -628,15 +628,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/rajasthan-stuck-in-2012-manipur-in-2023-how-actively-are-states-with-cwg-medals-promoting-sports/articleshow/133122092.cms",
     "time": "2026-08-11T02:30:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Oil prices hold near one-week high as Strait of Hormuz reopening remains in limbo",
-    "desc": "Oil prices are hovering near recent highs as prospects for a US-Iran agreement fade. On Tuesday morning, both WTI and Brent crude benchmarks experienced slight upticks. The situation is complicated by US demands for compensation, hindering the potential reopening of the crucial Strait of Hormuz. Iran insists that sanctions must be lifted for the vital waterway to function, amidst ongoing geopolitical tensions that are influencing market volatility and supply issues.",
-    "img": "https://static.toiimg.com/photo/msid-133140329,imgsize-86180.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-hold-near-one-week-high-as-strait-of-hormuz-reopening-remains-in-limbo/articleshow/133140281.cms",
-    "time": "2026-08-11T02:03:56.000Z"
   },
   {
     "cat": "World",
@@ -774,15 +765,6 @@ const newsData_en = [
     "time": "2026-08-09T19:56:22.000Z"
   },
   {
-    "cat": "World",
-    "title": "Iran Guards say won't reopen Hormuz without U.S. meeting Tehran's demands",
-    "desc": "Iran's security chief Mohammad Bagher Zolghadr had laid out on Saturday a list of conditions for reopening the strait, including an end to the \"war and aggression against Iran and its allies in Lebanon, Palestine, Yemen and Iraq”",
-    "img": "https://th-i.thgim.com/public/incoming/kpx6gz/article71325708.ece/alternates/LANDSCAPE_1200/Proposed-HormuzG8DGBVR33.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-guards-say-wont-reopen-hormuz-without-us-meeting-tehrans-demands/article71325696.ece",
-    "time": "2026-08-09T16:14:48.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Varanasi’: Mahesh Babu's look as Rudhra from SS Rajamouli's magnum opus unveiled",
     "desc": "Slated for a worldwide release on April 7, 2027, ‘Varanasi’ promises to be an action-packed globe-trotting adventure featuring a star-studded cast, including Mahesh Babu, Priyanka Chopra and Prithviraj Sukumaran, with a soundtrack by Oscar-winning composer MM Keeravani",
@@ -790,24 +772,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/varanasi-mahesh-babu-first-look-rudhra-ss-rajamouli-priyanka-chopra-prithviraj-sukumar-globetrotter/article71324729.ece",
     "time": "2026-08-09T15:59:01.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Syria says reached deal with Moscow on fate of Russian bases",
-    "desc": "Syria's official SANA news agency quoted the Foreign Ministry as saying that the Hmeimim airbase and Tartus naval base would be turned into \"joint training and capacity-building centres, within new arrangements that preserve mutual interests\".",
-    "img": "https://th-i.thgim.com/public/incoming/dftscg/article71325604.ece/alternates/LANDSCAPE_1200/2026-08-09T130436Z_699510682_RC2AMBABI4JU_RTRMADP_3_SYRIA-RUSSIA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/syria-says-reached-deal-with-moscow-on-fate-of-russian-bases/article71325596.ece",
-    "time": "2026-08-09T15:40:22.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Accused Thai school shooter had watched violent content online, police say",
-    "desc": "According ‌to ⁠witness interviews, the perpetrator had begun showing interest in studying the use ⁠of firearms for some time, about one to two years, says Atthapol Anusit, Deputy Commissioner of the Provincial Police Region 1",
-    "img": "https://th-i.thgim.com/public/incoming/eadowt/article71325584.ece/alternates/LANDSCAPE_1200/2026-08-09T050237Z_773458663_RC2QUMALOEKO_RTRMADP_3_THAILAND-SHOOTING.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/accused-thai-school-shooter-had-watched-violent-content-online-police-say/article71325556.ece",
-    "time": "2026-08-09T15:34:16.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +862,41 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/karnataka/karnataka-explores-partnership-with-anthropic-for-governance-skilling-and-deep-tech-growth/article71312525.ece",
     "time": "2026-08-08T19:02:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "In conversation with classical dance guru Girija Chandran who won the  Sangeeth Natak Akademi Award",
+    "desc": "Girija Chandran, who runs Regatta Natya Sangeetha Kendra in Thiruvananthapuram, has never performed on stage, but the 75-year-old dance teacher has trained nearly a lakh students over the past 53 years and the recognition acknowledges her contribution to Mohiniyattam",
+    "img": "https://th-i.thgim.com/public/incoming/v8rj0n/article71289495.ece/alternates/LANDSCAPE_1200/NH20GirijaChandran12.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/dance/girija-chandran-sangeeth-natak-akademi-award-mohiniyattam/article71289184.ece",
+    "time": "2026-08-08T17:31:07.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Diesel’s desire: an engine for everyone",
+    "desc": "For someone who wished to build an engine for everyone, August turned out to be an auspicious month. On August 10, 1893, Rudolf Diesel’s prime model was powered on its own for the first time. Five years later, on August 9, 1898, Diesel obtained a U.S. patent titled “Internal-combustion engine”. Join A.S.Ganesh as he tries to explain what fuelled Diesel’s desire…",
+    "img": "https://th-i.thgim.com/public/incoming/o3bduy/article71285498.ece/alternates/LANDSCAPE_1200/09istb%20Historical_Diesel_engine_in_Deutsches_Museum.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/diesels-desire-an-engine-for-everyone/article71285487.ece",
+    "time": "2026-08-08T06:54:25.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "What is the EU AI transparency code?",
+    "desc": "Starting from August 2, the EU mandates labels for AI-generated content to boost transparency online. From deepfakes to manipulated text, find out how this new code seeks to protect users and maintain the integrity of information",
+    "img": "https://th-i.thgim.com/public/news/national/b0sala/article71279838.ece/alternates/LANDSCAPE_1200/iStock-1976099664%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/what-is-the-eu-ai-transparency-code-explained/article71279676.ece",
+    "time": "2026-08-08T01:41:37.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
   }
 ];
