@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Cristiano Ronaldo marries Argentina's Georgina Rodriguez",
+    "desc": "Cristiano Ronaldo and his longtime partner Georgina Rodriguez have married in a private civil ceremony in Cascais, Portugal. They were dating for more than 10 years after meeting in Madrid and have since been one...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/cristiano-ronaldo-marries-argentina-s-georgina-rodriguez-everything-you-need-to-know-2026-08-12-1051085",
+    "time": "2026-08-12T01:07:02.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why did Joburg Super Kings release Faf du Plessis ahead of SA20 2027? Former Proteas all-rounder opines",
     "desc": "Joburg Super Kings made a bold decision by releasing their long-time captain Faf du Plessis as all the teams confirmed their retained squads and pre-auction signings earlier in August. The decision followed soon after the...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/klaasen-miller-allen-head-to-ilt20-stoinis-returns-as-teams-announce-pre-auction-signings-2026-08-11-1051040",
     "time": "2026-08-11T11:06:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tiger Shroff pulls out of Durand Cup 2026, reveals reason",
-    "desc": "Tiger Shroff will miss Mumbay FC’s Durand Cup 2026 group-stage match against Nongkseh SS&CC in Shillong on Tuesday after a last-minute work commitment forced him to pull out. The 36-year-old actor had registered with Mumbay...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/tiger-shroff-pulls-out-of-durand-cup-2026-reveals-reason-watch-2026-08-11-1051033",
-    "time": "2026-08-11T10:22:21.000Z"
   }
 ];
