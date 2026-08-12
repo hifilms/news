@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Babar Azam ends near two-year wait in ICC rankings after guiding Pakistan to win over West Indies",
+    "desc": "Pakistan Test captain Babar Azam on Wednesday ended his near two-year wait for a place in the top 10 of the ICC Test batters' rankings. Babar has been rewarded for his recent performance in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/babar-azam-ends-near-two-year-wait-in-icc-rankings-after-guiding-pakistan-to-win-over-west-indies-2026-08-12-1051161",
+    "time": "2026-08-12T12:12:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sports Ministry suspends recognition of Table Tennis Federation of India",
+    "desc": "The Indian sports ministry has suspended the recognition of the Table Tennis Federation of India. The ministry cited \"governance deficiencies\" as the reason behind the move. The ministry has asked the Indian Olympic Association to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/sports-ministry-suspends-recognition-of-table-tennis-federation-of-india-2026-08-12-1051145",
+    "time": "2026-08-12T10:27:04.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sri Lanka finally announce squad for first Test vs India, starting August 15",
     "desc": "Sri Lanka have finally announced a 16-member squad for the first Test against India, starting August 15 at the Galle International Cricket Stadium. Dhananjaya de Silva has been appointed as captain, while Kamindu Mendis will...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/andrew-flintoff-s-son-rocky-breaks-somerset-s-136-year-old-record-with-blistering-show-in-one-day-cup-2026-08-12-1051089",
     "time": "2026-08-12T01:55:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cristiano Ronaldo marries Argentina's Georgina Rodriguez",
-    "desc": "Cristiano Ronaldo and his longtime partner Georgina Rodriguez have married in a private civil ceremony in Cascais, Portugal. They were dating for more than 10 years after meeting in Madrid and have since been one...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/cristiano-ronaldo-marries-argentina-s-georgina-rodriguez-everything-you-need-to-know-2026-08-12-1051085",
-    "time": "2026-08-12T01:07:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why did Joburg Super Kings release Faf du Plessis ahead of SA20 2027? Former Proteas all-rounder opines",
-    "desc": "Joburg Super Kings made a bold decision by releasing their long-time captain Faf du Plessis as all the teams confirmed their retained squads and pre-auction signings earlier in August. The decision followed soon after the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-did-joburg-super-kings-release-faf-du-plessis-ahead-of-sa20-2027-former-proteas-all-rounder-opines-2026-08-11-1051083",
-    "time": "2026-08-11T18:17:05.000Z"
   }
 ];

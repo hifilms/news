@@ -72,15 +72,6 @@ const newsData_bn = [
     "time": "2026-08-11T12:59:37.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "বুকের রক্ত শুকিয়ে যাবে হড়পা দেখলে! দানবীয় ক্লাউডবার্স্টে মারাত্মক জলের তোড়, কয়েক সেকেন্ডে পাতার মতো ভেসে গেল বিরাট লোহার ব্রিজ",
-    "desc": "যোশীমঠে মহা বিপর্যয়! উত্তরাখণ্ডের চামোলিতে মেঘভাঙা বৃষ্টিতে বান। পাতার মতো ভেসে গেল দীর্ঘ ব্রিজ! চামোলি ফ্ল্যাশ ফ্লাডের আকস্মিক বন্যাজলে বিপর্যস্ত উত্তরাখণ্ড। চামোলিতে লাগাতার বর্ষণ চলছে। সোমবার দুপুরে সেখানে হঠাৎই অতি ভারী বৃষ্টির কারণে 'তমাক নালা'-য় তীব্র জলোচ্ছ্বাস ও হড়পা বান দেখা দেয়।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/joshimath-cloudburst-flood-in-chamoli-40-meter-bridge-swept-away-uttarakhand-flash-flood-washes-away-vehicles_666482.html ",
-    "time": "2026-08-11T09:19:47.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "বন্যা কেড়েছে ভিটেমাটি, থামেনি অনুশীলন! সোনার পদক গলায় তাঁবুতে ফিরলেন ক্যারাটে-কন্যা",
     "desc": "গলায় জ্বলজ্বল করছে জাতীয় ক্যারাটে চ্যাম্পিয়নশিপের সোনা, অথচ মাথার ওপর নেই এক চিলতে ছাদ! বন্যায় ভিটেমাটি ও আয়ের সম্বল হারিয়ে বাঁধের ওপর প্লাস্টিকের তাঁবুতেই ঠাঁই হয়েছে অসমের ১৭ বছরের মেয়ে জনমনির। চরম অভাব ও প্রতিকূলতার সঙ্গে লড়াই করে আনা দেশের এই গৌরবও মুছতে পারল না তাঁর গৃহহীন হওয়ার নির্মম যন্ত্রণা।",
@@ -97,24 +88,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/short-film-punorjanmo-nandan-screening-surya_666480.html ",
     "time": "2026-08-11T09:13:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "“শুধু আপিল জমা হলেই হবে না, নিষ্পত্তি কোথায়?”, এসআইআর মামলায় সুপ্রিম তোপ",
-    "desc": "এসআইআর মামলায় সুপ্রিম কোর্ট ট্রাইব্যুনালের ধীরগতি নিয়ে উষ্মা প্রকাশ করে জানিয়েছে, \"এই গতিতে চললে পরবর্তী নির্বাচন চলে আসবে।\" নির্বাচন কমিশনের কাছে ২৫ আগস্টের মধ্যে রিপোর্ট তলব করা হয়েছে। অধীরের একগুচ্ছ দাবিতে নড়েচড়ে বসল শীর্ষ আদালত!",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/supreme-court-bengal-sir-case-tribunal-adhir-ranjan-chowdhury-speed-election-commission-report_666462.html ",
-    "time": "2026-08-11T07:55:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘সৎকার করুন, ডেথ সার্টিফিকেটটা পাঠিয়ে দেবেন!’, শেষবেলায় বাবার নিথর দেহের সামনে দাঁড়ানোরও সময় হল না ৪ সন্তানের",
-    "desc": "স্ত্রীর মৃত্যুর পর একা হাতে চার সন্তানকে মানুষ করেছিলেন বৃদ্ধ ঘনশ্যাম। ভিটেমাটি বেচে সন্তানদের হাতে সব তুলে দেওয়ার পর শেষ বয়সে স্থান হয়েছিল বৃদ্ধাশ্রমে। পক্ষাঘাতগ্রস্ত বাবার মৃত্যুর পরও শেষ দেখা দেখতে এল না কোনও সন্তান! সন্তানহীন অনাথের মতো বিদায় নেওয়া পিতার মৃত্যুর পর এখন কেবল সার্টিফিকেটের লোভে সরব তারা— চরম অমানবিকতার এক করুণ দলিল।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/madhya-pradesh-ghanshyam-raised-4-children-alone-when-died-none-of-them-came-to-say-goodbye_666460.html ",
-    "time": "2026-08-11T07:09:45.000Z"
   },
   {
     "cat": "Entertainment",
@@ -261,12 +234,30 @@ const newsData_bn = [
     "time": "2026-08-05T12:47:42.000Z"
   },
   {
-    "cat": "World",
-    "title": "‘দিল্লি থেকে মুখ খুলবেন হাসিনা, ব্ল্যাকআউট ঢাকায়!’, সম্প্রচারে নামলেই আইনি খাঁড়া",
-    "desc": "ক্ষমতাচ্যুত হওয়ার পর এই প্রথম ভারত থেকে প্রকাশ্যে মুখ খুলছেন সাজাপ্রাপ্ত বাংলাদেশের প্রাক্তন প্রধানমন্ত্রী শেখ হাসিনা। কিন্তু তাঁর এই এক ভাষণেই তোলপাড় দুই দেশ! সম্প্রচারে কড়া নিষেধাজ্ঞা জারি করেছে বাংলাদেশ সরকার। তীব্র কূটনৈতিক টানাপোড়েনের মাঝে ভারতের ভূমিকা কী? ডিসেম্বরে দেশে ফিরে কি তবে নতুন কোনও রাজনৈতিক ঝড় তুলতে চলেছেন তিনি?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/bangladesh-warns-media-not-to-air-sheikh-hasinas-virtual-address-from-india_665541.html ",
-    "time": "2026-08-05T05:50:27.000Z"
+    "cat": "Business",
+    "title": "হোয়াটসঅ্যাপের 'ইউজারনেম' ফিচার সুরক্ষা ও গোপনীয়তায় কত বড় চ্যালেঞ্জ?",
+    "desc": "WhatsApp is rolling out a new username feature, allowing users to chat without sharing phone numbers. হোয়াটসঅ্যাপের এই নতুন ফিচারে নম্বর গোপন রেখে চ্যাট করার সুযোগ পাবেন ব্যবহারকারীরা, যা সাইবার নিরাপত্তা বাড়াবে এবং ব্যক্তিগত সুরক্ষা নিশ্চিত করবে।",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/07/aiwise-cinematic-close-up-portrait-of-a-woman-using-whatsapp-on-0-jpg-1782966779094_1782966780343-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/whatsapp-username-feature-2026-why-hiding-your-phone-number-is-key-to-better-privacy-014-309657.html",
+    "time": "2026-07-19T18:58:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের একলাফে বাড়ল, ১৯ কেজির সিলিন্ডারের দাম কলকাতায় কত?",
+    "desc": "১ জুন থেকে ১৯ কেজি বাণিজ্যিক এলপিজি সিলিন্ডারের দাম ফের বাড়ল, কলকাতা ও দিল্লিতে দাম বৃদ্ধির বিস্তারিত তালিকা। Commercial LPG cylinder prices hiked in Indian cities from June 1 due to global crude oil trends.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/06/pti05-02-2026-000102b-jpg-1780285666777_1780285667978-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/lpg-commercial-cylinder-gas-price-surge-kolkata-mumbai-delhi-june-price-list-014-307911.html",
+    "time": "2026-06-01T03:50:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ফের বাড়ল পেট্রোল-ডিজেলের দাম! দশদিনের মধ্যে তৃতীয়বার মহার্ঘ হল জ্বালানির দাম",
+    "desc": "পেট্রোল ও ডিজেলের দাম বৃদ্ধি পাওয়ায় নাজেহাল সাধারণ মানুষ; শনিবার প্রতি লিটারে পেট্রল ৮৭ পয়সা ও ডিজেল ৯১ পয়সা দামি হয়েছে। Fuel prices surge for the 3rd time this month affecting Delhi, Kolkata, and Mumbai.",
+    "img": "https://imagesvs.oneindia.com/webp/bn/img/2026/05/pti05-16-2026-000070b-jpg-1779513081489_1779513086708-1200x675.jpg",
+    "src": "oneindia.com",
+    "url": "https://bengali.oneindia.com/business/petrol-diesel-price-hike-today-petrol-diesel-price-today-in-delhi-kolkata-mumbai-014-307407.html",
+    "time": "2026-05-23T05:15:29.000Z"
   }
 ];
