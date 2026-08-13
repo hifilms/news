@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "ઘટી ગયા સોનાના ભાવ ચાંદી પણ ફિક્કી પડી, ઘટેલા ભાવે સોનું ખરીદવાની તક, જાણો આજનો લેટેસ્ટ રેટ",
+    "desc": "સોના અને ચાંદીમાં ભારે ઉથલપાથલનો માહોલ છે. અમેરિકામાં બહાર પડેલા મોંઘવારી દરના આંકડામાં ઘટાડો નોંધાયા બાદ સોનાના ભાવમાં તેજી જોવા મળી હતી પરંતુ આજે ઘર આંગણે કિમતી ધાતુઓનો ભાવ ઘટ્યો છે. પરંતુ વ્યાજ દર પણ જૂના લેવલ પર યથાવત રહેવાથી સોનામાં વધુ તેજી અપેક્ષિત છે. જાણો આજના સોના અને ચાંદીના ભાવ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-saw-a-decline-today-check-latest-rates-of-mcx-ibja-aaj-no-sona-no-bhav-487583 ",
+    "time": "2026-08-13T06:55:03.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ટાટા સન્સ કે ટાટા ટ્રસ્ટ્સ... કોણ છે અસલી બોસ? જાણો કોના હાથમાં છે ટાટા ગ્રુપની ચાવી?",
+    "desc": "એન. ચંદ્રશેખરને ટાટા સન્સના ચેરમેન પદેથી રાજીનામું આપી દીધું છે. ટાટા સન્સની 66 ટકા ભાગીદારી ટાટા ટ્રસ્ટ્સની પાસે છે, જેના ચેરમેન નોએલ ટાટા છે. ટાટા ટ્રસ્ટ્સ ટાટા સન્સના નીતિગત નિર્ણયોને નિયંત્રિત કરે છે. જ્યારે ટાટા સન્સ સમૂહની હોલ્ડિંગ કંપની છે. તે ગ્રુપની કંપનીઓને પ્રમોટર છે. તેવામાં મામલો ખુબ જટિલ થઈ જાય છે કે કોણ કોનું બોસ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/tata-trusts-vs-tata-sons-who-holds-more-power-and-who-truly-controls-the-tata-empire-487581 ",
+    "time": "2026-08-13T06:33:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "લાલ કિલ્લા હુમલા પાછળ અલ-કાયદાનો હાથ? ભારતમાં નવી રીતે ફેલાવ્યું ખતરનાક નેટવર્ક; UNના રિપોર્ટમાં મોટો ખુલાસો",
+    "desc": "અલ-કાયદા ભારતના પાડોશી દેશ બાંગ્લાદેશમાં પણ પોતાનું નેટવર્ક ફેલાવવાનો પ્રયાસ કરી રહ્યું છે. તમને જણાવી દઈએ કે દિલ્હીના લાલ કિલ્લાના ધમાકા મામલે નેશનલ ઇન્વેસ્ટિગેશન એજન્સી (NIA) એ 11 આરોપીઓ વિરૂદ્ધ લગભગ 7500 પાનાની ચાર્જશીટ દાખલ કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/un-report-says-al-qaeda-offshoot-behind-red-fort-blast-interest-in-developing-chemical-weapons-487579 ",
+    "time": "2026-08-13T06:07:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "એર ઇન્ડિયાએ છૂપાવી હકીકત? ટર્બ્યુલન્સ નહીં, હવામાં જ વિમાનની અનેક સિસ્ટમમાં આવી હતી મોટી ખામી, રિપોર્ટમાં ખુલાસો",
+    "desc": "ફુકેટથી દિલ્હી આવી રહેલી એર ઇન્ડિયાની ફ્લાઇટ અંગે પહેલાં જણાવવામાં આવ્યું હતું કે ટર્બ્યુલન્સ (હવાના ઝાટકા)ના કારણે ફ્લાઇટ 300 મીટર નીચે જતી રહી હતી. પરંતુ હવે એક નવા રિપોર્ટમાં સામે આવ્યું છે કે વિમાનમાં કેટલીક ટેકનિકલ સમસ્યાઓ હતી. આ અંગે એર ઇન્ડિયા દ્વારા કોઈ માહિતી આપવામાં આવી નહોતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/air-india-hid-the-truth-not-turbulence-many-malfunctions-occurred-in-many-systems-of-the-aircraft-in-mid-air-487576 ",
+    "time": "2026-08-13T05:36:41.000Z"
+  },
+  {
     "cat": "World",
     "title": "અમેરિકામાં કામ કરતા ગુજરાતીઓ માટે ખરાબ સમાચાર, નવી ફીએ ટેન્શન વધાર્યું, જાણો કઈ રીતે",
     "desc": "અમેરિકામાં કામ કરતા ગુજરાતીઓમાં પણ નોકરી મા્ટે હંમેશાથી H-1B વિઝા લોકપ્રિય રહ્યા છે. ધીરે ધીરે તેના દ્વારા ગ્રીન કાર્ડનું પ્લાનિંગ કરતા લોકો માટે એક માઠા સમાચાર છે. સરકારનો એક નિયમ ભારતીયોને શું ટેન્શન આપી રહ્યો છે તે ખાસ જાણો.",
@@ -288,15 +324,6 @@ const newsData_gu = [
     "time": "2026-08-11T07:28:59.000Z"
   },
   {
-    "cat": "Business",
-    "title": "દર ત્રણ મહિને DR હાઈક, 25% સુધી પહોંચે તો પેન્શનમાં મર્જ? પેન્શનરો માટે શું થવાની છે જાહેરાત",
-    "desc": "ભારત પેન્શનર્સ સમાજ (BPS)ના બેનર હેઠળ લગભગ 10 લાખ પેન્શનરોએ માંગ કરી છે કે કમિશન દર ત્રણ મહિને વધતા જતા ફુગાવાને ધ્યાનમાં રાખીને DRમાં સુધારો કરે. વધુમાં, તેઓ માંગ કરે છે કે એકવાર DR 25 ટકા સુધી પહોંચે પછી તેને પેન્શનમાં મર્જ કરવામાં આવે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-dr-high-every-three-months-what-is-going-to-happen-for-pensioners-announced-487375 ",
-    "time": "2026-08-11T06:01:36.000Z"
-  },
-  {
     "cat": "World",
     "title": "બાબા વેંગાની બે ભવિષ્યવાણીઓ પડી સાચી, 2026માં ફક્ત ચાર મહિના બાકી, શું બાકીની ત્રણ પણ પડશે સાચી?",
     "desc": "બાબા વેંગાની ભવિષ્યવાણીઓ ફક્ત તેમને ફોલો કરનારા જ નહીં પરંતુ સામાન્ય લોકોમાં પણ જિજ્ઞાસાનો વિષય બને છે. તેમના સમર્થકો કહે છે કે તેમની બે ભવિષ્યવાણીઓ પહેલાથી જ સાચી પડી છે, અને ત્રણ હજી આવવાની બાકી છે.",
@@ -304,15 +331,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/two-of-baba-vengas-predictions-came-true-only-four-months-left-in-2026-will-the-remaining-three-also-come-true-487370 ",
     "time": "2026-08-11T05:07:40.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સોનું ફરી ચમક્યું! બે મહિનાના રેકોર્ડ હાઈએ પહોંચ્યો ભાવ, ચેક કરો લેટેસ્ટ રેટ",
-    "desc": "અમેરિકા અને ઈરાન વચ્ચેની અનિશ્ચિતતા વચ્ચે તાજેતરના દિવસોમાં સોનાના ભાવ ઘટીને 3,900 ડોલર પ્રતિ ઔંસ થયા હતા, પરંતુ મંગળવારે આંતરરાષ્ટ્રીય બજારમાં તેના ભાવમાં તીવ્ર વધારો જોવા મળ્યો, જે 4,480 ડોલર પ્રતિ ઔંસ પર પહોંચી ગયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-shines-again-price-hits-two-month-record-high-check-latest-rate-487365 ",
-    "time": "2026-08-11T04:15:40.000Z"
   },
   {
     "cat": "World",
@@ -360,15 +378,6 @@ const newsData_gu = [
     "time": "2026-08-10T12:16:49.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "હાર્દિક પંડ્યા કેપ્ટન, બુમરાહ-આકાશ દીપ ફાસ્ટ બોલર, સુદર્શન અને પરાગ ઓપનર્સ, ભારતની &amp;#039;ઈન્જર્ડ પ્લેઇંગ-11&amp;#039;",
-    "desc": "ભારતીય ખેલાડીઓ માટે હાલમાં ઈજાઓ સૌથી મોટી સમસ્યા છે. ભારતીય ટીમમાં હાલ એટલા ખેલાડીઓ ઈજાગ્રસ્ત છે કે એક આખી પ્લેઈંગ ઈલેવન બની જાય. ત્યારે ઈન્જર્ડ પ્લેઈંગ ઇલેવનમાં કોનો કોનો સમાવેશ થાય છે, તેના પર એક નજર કરીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/hardik-pandya-captain-bumrah-akash-deep-fast-bowlers-indias-injured-playing-11-487313 ",
-    "time": "2026-08-10T11:24:44.000Z"
-  },
-  {
     "cat": "World",
     "title": "શું રશિયાથી ભારત સુધી શરૂ થશે ટ્રેન? કોને થશે સૌથી મોટો ફાયદો, શું પાકિસ્તાન-અફઘાનિસ્તાન થશે સંમત?",
     "desc": "મિડલ ઈસ્ટમાં ચાલી રહેલા તણાવ વચ્ચે રશિયાથી ભારત સુધી રેલ કનેક્ટિવિટીની ચર્ચા થઈ રહી છે. ત્યારે આ પ્લાનનો સૌથી મોટો પડકાર એ જ છે કે રેલ લાઇન એવા ઘણા દેશોમાંથી પસાર થશે, જ્યાં રાજકીય અને સુરક્ષા પરિસ્થિતિઓ જટિલ છે. પાકિસ્તાન અને અફઘાનિસ્તાનની સહમતિ વગર આ માર્ગ વ્યવહારિક રૂપ લઈ શકતો નથી.",
@@ -385,24 +394,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/typhoon-dolphin-havoc-in-china-over-1-million-evacuated-blue-warning-issued-487311 ",
     "time": "2026-08-10T11:18:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ઘણા દિવસોથી તળાવમાં રહે છે 16 વર્ષનો યુવક, કહ્યું: શરીરને બાળી રહ્યો છે જીન, VIDEO વાયરલ",
-    "desc": "પશ્ચિમ બંગાળના મુર્શિદાબાદમાં એક 16 વર્ષનો યુવક ઘણા દિવસોથી તળાવમાં રહે છે. તેનો દાવો છે કે પાણીમાંથી બહાર નીકળતાની સાથે જ તેને આખા શરીરમાં તીવ્ર બળતરાનો અનુભવ થાય છે, પરંતુ પાણીની અંદર રહેવાથી રાહત મળે છે. તે આ માટે કોઈ અદ્રશ્ય શક્તિ અથવા જીન ને જવાબદાર માને છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/16-year-old-boy-lives-in-lake-for-many-days-says-jinn-is-burning-his-body-video-goes-viral-487307 ",
-    "time": "2026-08-10T10:01:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "અંદર ચાલી રહ્યું હતું વિધાનસભા સત્ર, બહાર પહોંચી ગયા વિદ્યાર્થીઓ, ઝારખંડમાં સ્ટૂડન્ટનું રિવોલ્યૂશન, જાણો",
-    "desc": "ઝારખંડ વિધાનસભા સત્ર દરમિયાન, રાંચીમાં JPSC વિરુદ્ધ વિરોધ કરી રહેલા વિદ્યાર્થીઓ બેરિકેડ્સ ઓળંગીને વિધાનસભા પરિસરમાં પહોંચ્યા. કેટલાક અંદર ઘૂસી ગયા અને જમીન પર બેસીને વિરોધ કરી રહ્યા હતા. ડુમરીના ધારાસભ્ય જયરામ મહતો બહાર આવ્યા અને તેમની સાથે જોડાયા હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/the-assembly-session-was-going-on-inside-students-reached-outside-student-revolution-in-jharkhand-know-487300 ",
-    "time": "2026-08-10T08:37:23.000Z"
   },
   {
     "cat": "Entertainment",
@@ -457,15 +448,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/who-is-most-at-risk-from-ai-survey-surprises-those-in-control-of-ai-are-the-only-ones-who-fear-losing-their-jobs-487226 ",
     "time": "2026-08-09T10:28:02.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "કેવી રીતે ખુલશે હોર્મુઝ સ્ટ્રેટ? ઈરાને અમેરિકા સામે રાખી પોતાની મુખ્ય શરતો, જાણો",
-    "desc": "ઈરાને હોર્મુઝ સ્ટ્રેટ ખોલવા અંગે અમેરિકા સમક્ષ પોતાની મુખ્ય માંગણીઓ મૂકી છે. આ માંગણીઓમાં સૌથી મુખ્ય માંગણી એ છે કે અમેરિકા ઈરાન સાથેના યુદ્ધ માટે વળતર ચૂકવે. અમેરિકાએ હજુ સુધી આ માંગણીઓ પર કોઈ નિવેદન બહાર પાડ્યું નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/how-will-the-strait-of-hormuz-open-iran-has-set-its-main-conditions-for-america-know-487204 ",
-    "time": "2026-08-09T08:48:59.000Z"
   },
   {
     "cat": "Tech",

@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Australia register lowest Test score vs Bangladesh after Hasan Mahmud claims six in Darwin",
+    "desc": "Australia were bundled for only 198 runs in the first innings against Bangladesh in Darwin. Just three days prior to the opening Test, the Najmul Shanto-led side were bowled out for 54 runs against Cricket...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/australia-register-lowest-test-score-vs-bangladesh-after-hasan-mahmud-claims-six-in-darwin-2026-08-13-1051227",
+    "time": "2026-08-13T06:40:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How did solar eclipse captivate cricket, football, F1 fans across Europe? WATCH",
+    "desc": "Sporting venues across England, Austria and Spain were transformed by an unusual celestial display on Wednesday evening as a partial solar eclipse drew the attention of spectators, athletes and fans. At Edgbaston, supporters watching Birmingham Phoenix...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/how-did-solar-eclipse-captivate-cricket-football-f1-fans-across-europe-watch-2026-08-13-1051223",
+    "time": "2026-08-13T06:06:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PSG lift back-to-back UEFA Super Cups as Desire Doue's late strike helps Paris beat Aston Villa",
+    "desc": "Paris Saint-Germain began their 2026/27 season with another European trophy as they beat Aston Villa 2-1 in a fiercely contested UEFA Super Cup encounter at the Red Bull Arena in Salzburg. Desire Doue delivered the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/psg-lift-back-to-back-uefa-super-cups-as-desire-doue-s-late-strike-helps-paris-beat-aston-villa-2026-08-13-1051215",
+    "time": "2026-08-13T04:59:57.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Taskin Ahmed's funny dance goes viral after dismissing Cameron Green: WATCH",
     "desc": "Bangladesh made an early statement in their first Test in Australia since 2003. The Najmul Shanto-led side left the hosts reeling at 74/4 before the opening session ended in Darwin. Bangladesh’s pace attack took advantage...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/babar-azam-ends-near-two-year-wait-in-icc-rankings-after-guiding-pakistan-to-win-over-west-indies-2026-08-12-1051161",
     "time": "2026-08-12T12:12:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sports Ministry suspends recognition of Table Tennis Federation of India",
-    "desc": "The Indian sports ministry has suspended the recognition of the Table Tennis Federation of India. The ministry cited \"governance deficiencies\" as the reason behind the move. The ministry has asked the Indian Olympic Association to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/sports-ministry-suspends-recognition-of-table-tennis-federation-of-india-2026-08-12-1051145",
-    "time": "2026-08-12T10:27:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sri Lanka finally announce squad for first Test vs India, starting August 15",
-    "desc": "Sri Lanka have finally announced a 16-member squad for the first Test against India, starting August 15 at the Galle International Cricket Stadium. Dhananjaya de Silva has been appointed as captain, while Kamindu Mendis will...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sri-lanka-finally-announce-squad-for-first-test-vs-india-starting-august-15-2026-08-12-1051132",
-    "time": "2026-08-12T09:12:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit Sharma set for television debut with own show",
-    "desc": "Former India captain Rohit Sharma is moving into television, with Sony Entertainment Television preparing to launch The Rohit Sharma Show. The programme will also be available on Sony LIV, although the broadcaster has not disclosed...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-set-for-television-debut-with-own-show-how-many-cricketers-participated-in-indian-reality-shows-2026-08-12-1051127",
-    "time": "2026-08-12T08:32:53.000Z"
   }
 ];
