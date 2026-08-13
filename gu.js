@@ -1,5 +1,59 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "બનારસી સાડી સાથે સારા તેંડુલકરે પહેર્યું 17,500 નું બ્લાઉઝ, સાડીની કિંમત જાણી ચોંકી જશો",
+    "desc": "સોશિયલ મીડિયા પર સારા તેંડુલકરનો સાડી લુક છવાયેલો છે. સારા તેંડુલકરે બનારસી સાડીને અલગ જ રીતે સ્ટાઈલ કરી છે અને તેનો આ લુક ઈંટરનેટ પર ચર્ચામાં છે. જો કે સારા તેંડુલકરના લુકની સાથે તેણે પહરેલા બ્લાઉઝ અને સાડીની કિંમત પણ ચર્ચામાં છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/sara-tendulkar-corset-blouse-and-banarasi-saree-price-banarasi-saree-styling-487628 ",
+    "time": "2026-08-13T12:22:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "સરફરાઝ-પડિકલની એન્ટ્રી, આ બે ખેલાડીનું કપાશે પત્તું ! પ્રથમ ટેસ્ટમાં આવી હશે ભારતની પ્લેઇંગ XI",
+    "desc": "ભારત અને શ્રીલંકાના ક્રિકેટ ચાહકો 15 ઓગસ્ટથી આતુરતાથી રાહ જોઈ રહ્યા છે, કારણ કે આ દિવસથી બંને દેશો વચ્ચે એક રોમાંચક ટેસ્ટ શ્રેણી શરૂ થશે. ત્યારે પ્રથમ ટેસ્ટમાં ભારતની પ્લેઈંગ-11 કેવી હશે, તેના પર એક નજર કરીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/india-vs-sri-lanka-1st-test-team-india-probable-playing-xi-sarfaraz-in-jurel-out-487627 ",
+    "time": "2026-08-13T12:21:36.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "GRM Overseasનું ઘરેલુ અને ઇન્ટરનેશનલ માર્કેટમાં જબરદસ્ત પ્રદર્શન, શાનદાર ગ્રોથ સાથે કુલ રેવેન્યુ ₹427 કરોડને પાર",
+    "desc": "GRM Overseasની Q1FY27માં કુલ રેવેન્યુ 427 કરોડ રૂપિયા નોંધાઈ છે, જે વાર્ષિક ધોરણે 27.7 ટકાનો વધારો છે. EBITDA 36 કરોડ અને PAT 21 કરોડ રૂપિયા પર પહોંચ્યો છે. ઘરેલુ બ્રાન્ડેડ સેગમેન્ટ અને આંતરરાષ્ટ્રીય કારોબાર બન્નેમાં વધારો જોવા મળ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/grm-overseas-q1-results-tremendous-performance-in-domestic-and-international-markets-total-revenue-crosses-427-crore-with-excellent-growth-487626 ",
+    "time": "2026-08-13T12:19:53.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "1 રૂપિયામાં ચાલશે 1 KM! મારુતિ લાવી રહી છે 7 સીટર શાનદાર કાર, જાણો વિગત",
+    "desc": "મારૂતિ સુઝુકી એક નવી કાર લાવી રહી છે, જે અર્ટિગાના સેગમેન્ટમાં હશે. આ કાર ઈલેક્ટ્રિક પાવરટ્રેનની સાથે આવશે. મારૂતિની અપકમિંગ કાર એક 7 સીટર ઈલેક્ટ્રિક એમપીવી હશે. આ કાર સિંગલ ચાર્જમાં 500 કિલોમીટર સુધીની રેન્જ ઓફર કરી શકે છે, આવો જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/maruti-suzuki-electric-7-seater-mpv-coming-soon-inspired-by-e-vitara-with-impressive-range-and-space-487625 ",
+    "time": "2026-08-13T12:07:41.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "અમીરોની સંખ્યામાં જોરદાર ઉછાળો! 5.35 લાખ લોકોની વાર્ષિક કમાણી 1 કરોડ પાર, 100 કરોડ કમાનારાની સંખ્યા જાણીને ઉઠી જશે હોશ",
+    "desc": "દેશમાં વાર્ષિક એક કરોડ કે તેથી વધુ કમાણી કરનારાઓનો આંકડો વધવાની અસર ટેક્સ કલેક્શન પર પણ જોવા મળી રહી છે. આ જ કારણ છે કે દેશનું ડાયરેક્ટ ટેક્સ કલેક્શન 8.11 લાખ કરોડ રૂપિયા પર પહોંચી ગયું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/huge-jump-in-the-number-of-rich-people-5-35-lakh-people-annual-income-crosses-1-crore-knowing-the-number-of-people-earning-100-crores-will-blow-your-mind-487612 ",
+    "time": "2026-08-13T11:15:08.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "TATA ગ્રુપનો અસલી માલિક કોણ, કેવી રીતે ચાલે છે 25 લાખ કરોડનું સામ્રાજ્ય ?",
+    "desc": "1868માં જમશેદજી ટાટાએ સ્થાપેલું ટાટા ગ્રુપ આજે અનેક ક્ષેત્રોમાં કાર્યરત ભારતનું સૌથી મોટું બિઝનેસ ગ્રુપ છે. ત્યારે TATA ગ્રુપનો અસલી માલિક કોણ છે અને આ વિશાળ સામ્રાજ્ય કેવી રીતે ચાલે છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/who-is-the-real-owner-of-tata-group-know-its-ownership-structure-487603 ",
+    "time": "2026-08-13T10:48:27.000Z"
+  },
+  {
     "cat": "Business",
     "title": "ઘટી ગયા સોનાના ભાવ ચાંદી પણ ફિક્કી પડી, ઘટેલા ભાવે સોનું ખરીદવાની તક, જાણો આજનો લેટેસ્ટ રેટ",
     "desc": "સોના અને ચાંદીમાં ભારે ઉથલપાથલનો માહોલ છે. અમેરિકામાં બહાર પડેલા મોંઘવારી દરના આંકડામાં ઘટાડો નોંધાયા બાદ સોનાના ભાવમાં તેજી જોવા મળી હતી પરંતુ આજે ઘર આંગણે કિમતી ધાતુઓનો ભાવ ઘટ્યો છે. પરંતુ વ્યાજ દર પણ જૂના લેવલ પર યથાવત રહેવાથી સોનામાં વધુ તેજી અપેક્ષિત છે. જાણો આજના સોના અને ચાંદીના ભાવ.",
@@ -270,15 +324,6 @@ const newsData_gu = [
     "time": "2026-08-11T10:33:58.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ATMમાંથી હવે નીકળશે પ્લાસ્ટિકની નોટ! RBIનો મોટો પ્લાન, ₹10-₹20ની નોટથી થશે શરૂઆત, જાણો",
-    "desc": "એ નોંધવું જોઈએ કે સરકારે રિઝર્વ બેંકને 10 રૂપિયા અને 20 રૂપિયાની પ્લાસ્ટિક નોટો રજૂ કરવાની મંજૂરી આપી છે. તેને હાલમાં બે અબજ પ્લાસ્ટિક નોટો છાપવાની મંજૂરી મળી છે, જેનો ઉપયોગ પાયલોટ પરીક્ષણ માટે કરવામાં આવશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/plastic-notes-will-now-be-issued-from-atms-rbis-big-plan-will-start-with-rs-10-rs-20-notes-know-487407 ",
-    "time": "2026-08-11T09:47:05.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "દિલ્હી કેપિટલ્સના ક્રિકેટરની ધરપકડ, રેપ અને પ્રાઇવેટ વીડિયો રેકોર્ડ કરવાનો છે આરોપ",
     "desc": "દિલ્હી કેપિટલ્સના વિકેટકીપર-બેટ્સમેન અભિષેક પોરેલની મંગળવારે હુગલીથી લગ્નના બહાને રેપના આરોપસર ધરપકડ કરવામાં આવી હતી. મેડિકલ સ્ટુડન્ટની ફરિયાદ બાદ મોગરા પોલીસ સ્ટેશનમાં કેસ નોંધવામાં આવ્યો હતો. FIRમાં પીડિતાએ પ્રાઇવેટ ક્ષણોનું રેકોર્ડિંગ, ઉત્પીડન અને બળજબરીથી અલગ રાખવા સહિતના અનેક ગંભીર આરોપો લગાવ્યા છે. હાઈકોર્ટે ધરપકડનો આદેશ આપ્યો હતો.",
@@ -295,15 +340,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/27-km-mileage-price-5-81-lakh-here-is-the-list-of-the-best-selling-models-in-july-know-the-cars-487405 ",
     "time": "2026-08-11T09:32:04.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "આઝાદી સમયે ભારત પાસે કેટલા રૂપિયા હતા? કેવું હતું દેશનું પ્રથમ બજેટ? જાણો 1947ની કહાની",
-    "desc": "15 ઓગસ્ટ 2026ના ભારતને આઝાદી મળ્યાના 79 વર્ષ પૂરા થઈ રહ્યાં છે. દેશ 80મો સ્વાતંત્રતા દિવસ મનાવવા માટે તૈયાર છે. આ તકે આવો જાણીએ આઝાદી બાદ ભારતનું અર્થતંત્ર કેવું હતું? કેટલો ખજાનો હતો? દેશનું પ્રથમ બજેટ કેવી રીતે નક્કી થયું હતું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/how-much-wealth-did-india-have-in-1947-the-story-of-indias-economy-and-first-budget-after-independence-487404 ",
-    "time": "2026-08-11T09:21:56.000Z"
   },
   {
     "cat": "Sports",
@@ -603,24 +639,6 @@ const newsData_gu = [
     "time": "2026-08-06T06:50:29.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "રામાયણ ફિલ્મની રિલીઝ ડેટ કંફર્મ, ધનતેરસના દિવસે થિયેટરમાં થશે રિલીઝ",
-    "desc": "રામાયણ ફિલ્મ આ વર્ષે દિવાળી પર રિલીઝ થવાની છે તે વાત તો જગજાહેર છે પણ હવે ફિલ્મ કઈ તારીખે રિલીઝ થવાની છે તે પણ જાહેર કરી દેવામાં આવ્યું છે. રામાયણ ફિલ્મ આ વર્ષે ધનતેરસના દિવસે સિનેમાઘરોમાં રિલીઝ થવાની છે. આ વર્ષે ધનતેરસ 6 નવેમ્બર 2026 અને શુક્રવારે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/ramayana-movie-releasing-on-dhanteras-2026-date-6-november-2026-friday-486883 ",
-    "time": "2026-08-06T06:17:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "લોક અપ 2 ની વિનર બની શ્રેયા કાલરા, સોશિયલ મીડિયા ઈન્ફ્લુએન્સરની નેટવર્થ છે કરોડોની",
-    "desc": "નેટફ્લિક્સ પર આવતા રિયાલીટી શો લોક અપ 2 માં વિનર બની છે શ્રેયા કાલરા. સોશિયલ મીડિયા ઈન્ફ્લુએન્સર શ્રેયા કાલરાને રોડીઝ શો થી ઓળખ મળી હતી. ફેમસ થયા પછી શ્રેયા કાલરાની નેટવર્થ કરોડોમાં પહોંચી ચુકી છે. તમે પણ જાણો સોશિયલ મીડિયા ઈન્ફ્લુએન્સર શ્રેયા કાલરાની લાઈફ જર્ની વિશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/shreya-kalra-won-netflix-lock-upp-season-2-shreya-kalra-networth-and-life-journey-social-media-influencer-486858 ",
-    "time": "2026-08-06T02:16:26.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Ather લાવી રહ્યું છે તેનું સૌથી સસ્તું સ્કૂટર KONARC, આ દિવસે થશે લોન્ચ, જાણો કેટલી હશે કિંમત",
     "desc": "એથર એક નવું અને સસ્તું સ્કૂટર લોન્ચ કરી રહ્યું છે. આ કંપનીનું અત્યાર સુધીનું સૌથી સસ્તું મોડેલ હોઈ શકે છે, તે દમદાર ફીચર્સથી ભરપૂર હશે. કંપનીએ હવે આ સ્કૂટરનું નામ જાહેર કર્યું છે. જે 29 ઓગસ્ટે લોન્ચ થનારા આ સ્કૂટરનું નામ Ather Konark હશે. ત્યારે આ સ્કૂટર શું ખાસ છે અને તેની કિંમત કેટલી હશે, તેના વિશે આ લેખમાં જાણીશું.",
@@ -628,14 +646,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/ather-konarc-electric-scooter-launch-date-announced-know-price-and-features-486854 ",
     "time": "2026-08-05T15:59:37.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "માત્ર AC નહીં, ઘરમાં રહેલા આ 5 ગેજેટ્સ પણ ચુપચાપ વધારી રહ્યા છે વીજ બિલ, એકનો તો દરરોજ થાય છે ઉપયોગ",
-    "desc": "મોટાભાગના લોકો એવું વિચારે છે કે ઘરમાં ફક્ત AC જ વીજ બિલ વધારે છે. જો કે, ગીઝર, હેર ડ્રાયર અને ઇન્ડક્શન કુકટોપ જેવા નાના ગેજેટ્સમાં પણ AC કરતા વધુ વોટેજ રેટિંગ હોય છે. આ દરેક ગેજેટ્સ કેટલી વીજળી વાપરે છે તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/electricity-bill-hidden-power-consumption-5-household-appliances-486826 ",
-    "time": "2026-08-05T10:52:32.000Z"
   }
 ];

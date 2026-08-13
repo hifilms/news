@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Savita Punia confident India can challenge world's best at Women's Hockey World Cup",
+    "desc": "India will enter the FIH Women’s Hockey World Cup with renewed confidence after winning the Nations Cup. Goalkeeper Savita Punia believes that the team has shown it can compete against the strongest sides in international...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/hockey/savita-punia-confident-india-can-challenge-world-s-best-at-women-s-hockey-world-cup-2026-08-13-1051279",
+    "time": "2026-08-13T12:02:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lionel Messi returns to action as substitute for first time since father Jorge's death",
+    "desc": "Lionel Messi returned to action for Inter Miami on Thursday morning, just days after attending the funeral of his father Jorge in Argentina. The 39-year-old came on at half-time during Miami’s 3-2 defeat to Leon...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/lionel-messi-returns-to-action-as-substitute-for-first-time-since-father-jorge-s-death-2026-08-13-1051270",
+    "time": "2026-08-13T11:17:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ashleigh Gardner breaks silence after ex-wife's explosive criticism over alleged affair with teammate",
+    "desc": "Australia women’s vice-captain Ashleigh Gardner has addressed the personal fallout from the breakdown of her marriage after allegations concerning a relationship with teammate Georgia Voll became public. Gardner’s ex-wife Monica Wright had criticised Cricket Australia...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ashleigh-gardner-breaks-silence-after-ex-wife-s-explosive-criticism-over-alleged-affair-with-teammate-2026-08-13-1051258",
+    "time": "2026-08-13T10:19:08.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "England lift midnight curfew after Ben Stokes' international retirement, Joe Root confirms",
     "desc": "Following England’s Ashes defeat in Australia, the management introduced a midnight curfew for players during any series. The decision was made after controversy involving Harry Brook at a nightclub in Australia. However, just one series...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/taskin-ahmed-s-funny-dance-goes-viral-after-dismissing-cameron-green-watch-2026-08-13-1051210",
     "time": "2026-08-13T04:25:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "AUS vs BAN 1st Test live streaming details; when and where to watch match in India?",
-    "desc": "Australia and Bangladesh are set to face each other for the first time in the history of the World Test Championship as the Asian side tours Down Under for a two-match rubber. The last time...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/aus-vs-ban-1st-test-live-streaming-details-when-and-where-to-watch-match-in-india-2026-08-12-1051194",
-    "time": "2026-08-12T18:28:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India-Pakistan match at Asian Games to carry special significance, traditional way not used",
-    "desc": "There will be special significance to the India-Pakistan possible match in the Asian Games 2026. The two Asian hog the limelight whenever they are expected to meet in a cricket match. The three matches in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-pakistan-match-at-asian-games-to-carry-special-significance-traditional-way-not-used-2026-08-12-1051193",
-    "time": "2026-08-12T18:02:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PSG vs Aston Villa UEFA Super Cup live streaming; when and where to watch match in India?",
-    "desc": "Paris Saint-Germain and Aston Villa are all set to lock horns in the UEFA Super Cup, an annual match which acts as a curtain raiser to the European club season. The match is played between...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/psg-vs-aston-villa-uefa-super-cup-live-streaming-when-and-where-to-watch-match-in-india-2026-08-12-1051189",
-    "time": "2026-08-12T17:18:34.000Z"
   }
 ];
