@@ -1,5 +1,50 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Nicole Kidman was WARNED NOT TO MARRY Tom Cruise",
+    "desc": "Nicole Kidman discussed her marriage to Tom Cruise in a recent interview. She stated people warned her that marrying the star would affect her career. Kidman expressed her disregard for such warnings, prioritizing her love for Cruise. Following their divorce, her acting career experienced significant professional growth. She later won an Academy Award for her role in 'The Hours'.",
+    "img": "https://static.toiimg.com/photo/msid-133223971,imgsize-348686.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/nicole-kidman-reveals-she-was-warned-not-to-marry-tom-cruise-was-told-it-would-affect-your-career/articleshow/133223935.cms",
+    "time": "2026-08-13T20:58:16.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Nepal’s former PM Deuba returns after over five months abroad for treatment",
+    "desc": "Mr. Deuba and his wife, former Foreign Minister Arzu Rana Deuba, were seriously injured during violent protests on September 9, 2025, when anti-government demonstrations led by the Gen Z movement swept across Nepal and resulted in the fall of the K.P. Sharma Oli government",
+    "img": "https://th-i.thgim.com/public/incoming/zaz82p/article71342767.ece/alternates/LANDSCAPE_1200/2026-08-13T090053Z_1103403678_RC2JXMAPRSU4_RTRMADP_3_NEPAL-POLITICS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/nepals-former-pm-deuba-returns-after-over-five-months-abroad-for-treatment/article71342758.ece",
+    "time": "2026-08-13T20:34:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ronaldo and Georgina’s secret wedding had just 5 people present with Zero outside guests",
+    "desc": "Cristiano Ronaldo and Georgina Rodriguez kept their August 11 wedding in Cascais remarkably private, reportedly limiting the ceremony to themselves and their five children. The couple had faced intense speculation over the guest list, location and arrangements before secretly marrying and confirming the news afterwards. Their intimate ceremony contrasted sharply with false reports that had drawn hundreds to Madeira.",
+    "img": "https://static.toiimg.com/photo/msid-133223993,imgsize-191932.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/who-were-they-cristiano-ronaldo-and-georginas-secret-wedding-had-just-five-people-present-with-zero-outside-guests/articleshow/133221571.cms",
+    "time": "2026-08-13T20:31:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Six workers dead, 14 injured as water, debris enter tunnel in Uttarakhand’s Chamoli",
+    "desc": "22 people were trapped inside the tunnel and 20 were brought out; of them, six were declared dead, while 14 others have sustained injuries and are undergoing treatment; information about the remaining two workers was not immediately available",
+    "img": "https://th-i.thgim.com/public/news/national/kx0qdg/article71342689.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-13%20at%2023.55.00.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttarakhand/uttarakhand-chamoli-workers-feared-inside-under-construction-thdc-tunnel/article71342539.ece",
+    "time": "2026-08-13T20:04:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Sumit Sarkar, eminent scholar of modern Indian history, dies at 87",
+    "desc": "His works include Swadeshi Movement in Bengal, 1903-1908 (1973), Modern India (1989), and Writing Social History (1998), among others. He also co-edited Women and Social Reform in Modern India (2007) and Caste in Modern India (2013) with his wife, Tanika Sarkar.",
+    "img": "https://th-i.thgim.com/public/news/national/c0uk7z/article71342694.ece/alternates/LANDSCAPE_1200/historian.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/sumit-sarkar-eminent-scholar-of-modern-indian-history-dies-at-87/article71342624.ece",
+    "time": "2026-08-13T19:10:49.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "97 MoUs, envisaging over ₹67,542 crore in investment, signed at TVK government’s first investment conclave",
     "desc": "All these projects are expected to be grounded within six months to one year, says Industries Secretary S. Vijayakumar. Around 25 companies are coming to Tamil Nadu for the first time, points out Deepak Jacob, Managing Director and Chief Executive Officer of Guidance Tamil Nadu",
@@ -34,42 +79,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/probe-at-farm-in-erode-finds-several-exotic-species-without-proper-supporting-documents/article71341561.ece",
     "time": "2026-08-13T17:42:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Sukhbir Singh Badal injured in knife attack inside Nanded gurdwara",
-    "desc": "Shiromani Akali Dal president and former Punjab Deputy Chief Minister Sukhbir Singh Badal was injured in a knife attack inside a gurdwara in Maharashtra’s Nanded district. The incident occurred at Gurdwara Mata Sahib Devan Ji Mugat when an attacker allegedly dressed in Nihang attire struck him with a kirpan, causing an injury to his hand.",
-    "img": "https://th-i.thgim.com/public/incoming/3clh9z/article71342548.ece/alternates/LANDSCAPE_1200/_colombia%20.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/sukhbir-singh-badal-injured-in-knife-attack-inside-nanded-gurdwara/article71342565.ece",
-    "time": "2026-08-13T17:04:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kharge alleges caste discrimination over Haldwani ‘shuddhikaran’ incident",
-    "desc": "Congress president and Leader of Opposition in the Rajya Sabha Mallikarjun Kharge raised the issue of the reported ‘shuddhikaran’ (purification ceremony) conducted at Haldwani’s Ramlila Ground after his public rally on August 8. Speaking in Parliament, Kharge said he had only spoken about public issues and questioned whether such actions were compatible with constitutional values, democracy and social justice.",
-    "img": "https://th-i.thgim.com/public/incoming/uvzt9g/article71342545.ece/alternates/LANDSCAPE_1200/Screenshot%202026-08-13%20at%2010.26.11%E2%80%AFPM.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/kharge-alleges-caste-discrimination-over-haldwani-shuddhikaran-incident/article71342546.ece",
-    "time": "2026-08-13T16:56:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Monsoon Session fell victim to Rahul Gandhi’s ‘arrogance, indiscipline’, says BJP",
-    "desc": "Senior BJP MP Ravi Shankar Prasad said at a press conference that the Monsoon Session of Parliament “fell victim to the arrogance, indiscipline, and unruliness of one leader”, referring to the Leader of the Opposition in the Lok Sabha",
-    "img": "https://th-i.thgim.com/public/incoming/x44ofs/article71342516.ece/alternates/LANDSCAPE_1200/Screenshot%202026-08-13%20221512.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/monsoon-session-fell-victim-to-rahul-gandhis-arrogance-indiscipline-says-bjp/article71341989.ece",
-    "time": "2026-08-13T16:47:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Ahead of Punjab polls, is Akali Dal set to rejoin NDA?",
-    "desc": "In this week’s Talk Politics, The Hindu’s Nistula Hebbar looks at the possibility of the Shiromani Akali Dal rejoining the BJP-led NDA ahead of the Punjab Assembly elections. What is driving the possible rapprochement, and what could it mean for Punjab’s political landscape?",
-    "img": "https://th-i.thgim.com/public/incoming/37um64/article71342512.ece/alternates/LANDSCAPE_1200/talking%20politics.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/ahead-of-punjab-polls-is-akali-dal-set-to-rejoin-nda-talking-politics/article71342513.ece",
-    "time": "2026-08-13T16:45:53.000Z"
   },
   {
     "cat": "Politics",
@@ -396,15 +405,6 @@ const newsData_en = [
     "time": "2026-08-13T10:58:33.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘Awarapan’ ending explained: Revisiting Shivam and Aliyah’s tragic love story",
-    "desc": "As Emraan Hashmi and Disha Patani's Awarapan 2 gears up for its August 14 release, here's a complete recap of the 2007 original starring Emraan Hashmi and Shriya Saran, tracing Shivam's tragic love story and the events that set the stage for his unexpected return in the sequel.",
-    "img": "https://static.toiimg.com/photo/msid-133209370,imgsize-103586.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/awarapan-ending-explained-revisiting-emraan-hashmi-as-shivam-shriya-saran-as-aliyah-and-their-tragic-love-story-from-2007-ahead-of-disha-patani-starrer-awarapan-2-release-on-august-14/articleshow/133209170.cms",
-    "time": "2026-08-13T10:57:20.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "62-year-old assailant had been working at Nanded gurdwara for 2 years as 'sevadar'",
     "desc": "Sukhbir Singh Badal faced an unsettling attack during his visit to Mata Sahib Gurdwara in Nanded, Maharashtra, where an assailant attempted to stab him. Fortunately, security personnel quickly intervened to subdue the attacker, who had been living at the gurdwara for two years. Badal suffered a hand injury and received necessary medical care, while a security inspector was also injured.",
@@ -648,15 +648,6 @@ const newsData_en = [
     "time": "2026-08-13T02:50:49.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'We have the upper hand': Sri Lanka captain warns India ahead of Galle Test",
-    "desc": "Sri Lankan captain Dhananjaya de Silva expects a spin-focused Test series against India. He believes the Galle pitch will gradually favor spinners after initial batting conditions. De Silva highlighted the importance of player temperament for scoring runs on aging wickets. He noted Prabath Jayasuriya's strong record at Galle as a key advantage. India's absence of Jasprit Bumrah is considered a significant loss for them.",
-    "img": "https://static.toiimg.com/photo/msid-133196075,imgsize-60256.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/we-have-the-upper-hand-sri-lanka-captains-warning-to-india-ahead-of-galle-test/articleshow/133196043.cms",
-    "time": "2026-08-13T02:29:53.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Oil prices slip as Opec cuts demand forecast, Iran war keeps supply risks alive",
     "desc": "Oil prices have witnessed a decline due to lowered global demand forecasts and a notable increase in US inventories. Both Opec and the IEA have adjusted their oil demand growth projections downward for the near future. Ongoing tensions in the Strait of Hormuz and Bab el-Mandeb Strait are amplifying supply concerns, while negotiations between Iran and the US remain inconclusive.",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/meta-will-soon-face-another-high-stakes-trial-in-us/article71326861.ece",
     "time": "2026-08-10T04:31:54.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Teaching AI to speak India",
+    "desc": "Artificial intelligence can chat, translate and answer questions but only if it understands your language. At IIT Madras, researchers at AI4Bharat are travelling across India, collecting voices, preserving dialects and teaching AI to understand the country’s incredible linguistic diversity.",
+    "img": "https://th-i.thgim.com/public/incoming/y693sa/article71280832.ece/alternates/LANDSCAPE_1200/iStock-1066071372.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/internet/teaching-ai-to-speak-india/article71280380.ece",
+    "time": "2026-08-09T00:15:19.000Z"
   }
 ];
