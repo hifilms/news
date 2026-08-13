@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Taskin Ahmed's funny dance goes viral after dismissing Cameron Green: WATCH",
+    "desc": "Bangladesh made an early statement in their first Test in Australia since 2003. The Najmul Shanto-led side left the hosts reeling at 74/4 before the opening session ended in Darwin. Bangladesh’s pace attack took advantage...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/taskin-ahmed-s-funny-dance-goes-viral-after-dismissing-cameron-green-watch-2026-08-13-1051210",
+    "time": "2026-08-13T04:25:16.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "AUS vs BAN 1st Test live streaming details; when and where to watch match in India?",
     "desc": "Australia and Bangladesh are set to face each other for the first time in the history of the World Test Championship as the Asian side tours Down Under for a two-match rubber. The last time...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-set-for-television-debut-with-own-show-how-many-cricketers-participated-in-indian-reality-shows-2026-08-12-1051127",
     "time": "2026-08-12T08:32:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Is Litton Das fit to play Bangladesh's first Test vs Australia in Darwin? Najmul Shanto answers",
-    "desc": "Bangladesh captain Najmul Hossain Shanto has confirmed that keeper-batter Litton Das is available for selection for the first Test against Bangladesh in Darwin. The 31-year-old is cleared just in time for the first Test after...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/is-litton-das-fit-to-play-bangladesh-s-first-test-vs-australia-in-darwin-najmul-shanto-answers-2026-08-12-1051118",
-    "time": "2026-08-12T06:57:28.000Z"
   }
 ];

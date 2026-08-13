@@ -1,6 +1,24 @@
 const newsData_gu = [
   {
     "cat": "World",
+    "title": "અમેરિકામાં કામ કરતા ગુજરાતીઓ માટે ખરાબ સમાચાર, નવી ફીએ ટેન્શન વધાર્યું, જાણો કઈ રીતે",
+    "desc": "અમેરિકામાં કામ કરતા ગુજરાતીઓમાં પણ નોકરી મા્ટે હંમેશાથી H-1B વિઝા લોકપ્રિય રહ્યા છે. ધીરે ધીરે તેના દ્વારા ગ્રીન કાર્ડનું પ્લાનિંગ કરતા લોકો માટે એક માઠા સમાચાર છે. સરકારનો એક નિયમ ભારતીયોને શું ટેન્શન આપી રહ્યો છે તે ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/bad-news-for-indians-working-in-usa-h-1b-visa-rule-change-new-extension-fees-487573 ",
+    "time": "2026-08-13T04:34:10.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ગૂગલે ભારતમાં ચાર Pixel સ્માર્ટફોન લોન્ચ કર્યા, રૂમાલની જેમ સ્ક્રીન વાળી શકાશે, જાણો ફીચર્સ-કિંમત",
+    "desc": "જેની આતુરતાપૂર્વક રાહ જોવાતી હતી કે ગૂગલ પિક્સલ 11 સિરીઝ ભારતમાં આખરે લોન્ચ થઈ ગઈ છે. જેમાં 4 સ્માર્ટફોન છે. એક ફોલ્ડેબલ ફોન પણ છે. એઆઈ પર પૂરેપૂરું ફોક્સ કરાયું છે. આ સાથે કેમેરા ઉપર પણ ભાર મૂકાયો છે. જાણો તેના ફીચર્સ અને કિંમત...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/google-pixel-11-series-launched-in-india-check-features-price-pixel-11-pro-pixel-11-pro-fold-487559 ",
+    "time": "2026-08-13T02:08:52.000Z"
+  },
+  {
+    "cat": "World",
     "title": "શું ટ્રમ્પે પોતાને જગાડવા માટે યુવતી હાયર કરી? મિસ્ટ્રી ગર્લ સોશિયલ મીડિયામાં વાયરલ",
     "desc": "ડોનાલ્ડ ટ્રમ્પનો એક વીડિયો વાયરલ થઈ રહ્યો છે. જેમાં તેઓ મીટિંગ દરમિયાન ઊંઘતા જોવા મળે છે. એક મહિલા ત્યાં પાછળ ઊભી છે અને જેવી તે પોતાના પેટ પર હાથ મૂકે છે કે ટ્રમ્પની ઊંઘ ઉડી જાય છે. ત્યારે ઓનલાઈન એ ચર્ચા થવા લાગી છે કે ટ્રમ્પે પોતાને ઊંઘમાંથી જગાડવા માટે એક છોકરી હાયર કરી રાખી છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -457,15 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/upcoming-sedan-cars-2026-planning-to-buy-a-new-sedan-wait-for-these-3-upcoming-cars-from-skoda-vw-and-mercedes-487179 ",
     "time": "2026-08-09T05:47:14.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "મોજતબા ખામેની જીવતા અને સ્વસ્થ છે? ઈરાની એજન્સીએ જાહેર કર્યો વીડિયો, ઇઝરાયલી મીડિયાના દાવાથી મચ્યો હતો હડકંપ",
-    "desc": "ઇઝરાયલી અને અમેરિકન હુમલાઓમાં તેમના પિતા આયાતુલ્લાહ અલી ખામેનીના મૃત્યુ પછી સુપ્રીમ લીડર બનેલા મોજતબા ખામેનીના સ્વાસ્થ્ય અંગે વિશ્વભરના મીડિયામાં વિવિધ અહેવાલો પ્રકાશિત થઈ રહ્યા હતા. હવે, ઈરાને મોજતબાનો એક વીડિયો જાહેર કરીને સસ્પેન્સનો અંત લાવ્યો છે અને એક મોટો સંકેત આપ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/is-mojtaba-khamenei-alive-and-well-iranian-agency-releases-video-israeli-media-claims-cause-uproar-487157 ",
-    "time": "2026-08-09T03:14:13.000Z"
   },
   {
     "cat": "Entertainment",

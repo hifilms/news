@@ -1,5 +1,239 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Amit Shah ready to 'answer all questions'; Opposition slams 'undemocratic' time limit",
+    "desc": "Scheduled to end on Thursday, the Monsoon Session of Parliament has seen little business (with no Question Hour and several Bills being passed amid disruptions) as the Opposition demanded Amit Shah's response to the use of police excess on protestors",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/parliament-monsoon-session-2026-live-august-13-2026/article71339498.ece",
+    "time": "2026-08-13T04:31:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "US states to commemorate 'India Day' on August 15",
+    "desc": "Delaware proclaimed August 15, 2026, as India Day, joining New York and New Jersey. Governor Matthew Meyer highlighted the growing Indian-American community's contributions to Delaware. New Jersey Governor Mikie Sherrill and New York Governor Kathy Hochul also issued similar proclamations. These declarations recognize the Indian-American community's significant contributions to society. The proclamations coincide with India's upcoming 80th Independence Day celebrations.",
+    "img": "https://static.toiimg.com/photo/msid-133197736,imgsize-53174.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/from-new-york-to-delaware-us-states-to-commemorate-india-day-on-august-15/articleshow/133197798.cms",
+    "time": "2026-08-13T04:28:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Not any individual, however big a name': Gavaskar's message ahead of SL Tests",
+    "desc": "Advocating for a team-centric outlook, Sunil Gavaskar insists that Indian cricket must move beyond idolizing individual players. He argues that a cohesive strategy is key for India’s ambitions to qualify for the World Test Championship final, especially as they prepare to face Sri Lanka. Gavaskar also applauded the Indian Premier League for its effective management, which has significantly increased global investments in the sport.",
+    "img": "https://static.toiimg.com/photo/msid-133197752,imgsize-1304014.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/not-any-individual-however-big-a-name-sunil-gavaskars-strong-message-ahead-of-sri-lanka-tests/articleshow/133197548.cms",
+    "time": "2026-08-13T04:26:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘I don’t have to mark my attendance every Friday’: Ashok Selvan",
+    "desc": "Ashok Selvan captivates audiences once again in 'Anbil Avan', a film that delves into the intricacies of love and partnership. The title teaser features Selvan and Preity Mukhundhan, showcasing their journey as a newly married couple. With careful selection of scripts, Selvan aims to resonate with viewers authentically. The teaser hints at unforeseen hurdles in their relationship.",
+    "img": "https://static.toiimg.com/photo/msid-133197668,imgsize-150228.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/i-dont-have-to-mark-my-attendance-every-friday-ashok-selvan-opens-up-at-anbil-avan-title-teaser/articleshow/133197649.cms",
+    "time": "2026-08-13T04:18:52.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India looking to expand strategic petroleum reserves with new facilities in MP, Rajasthan",
+    "desc": "India plans new petroleum reserves at Bina and Bikaner to boost energy security. Additional storage capacity is also being added at Mangalore for greater supply resilience. The government is also developing reserves at Padur and Chandikhol under its expansion plan. These projects aim to meet global benchmarks for crude oil storage. The nation is exploring more cavern sites amid global geopolitical uncertainties.",
+    "img": "https://static.toiimg.com/photo/msid-133197181,imgsize-664240.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-looking-to-expand-strategic-petroleum-reserves-with-new-facilities-in-mp-rajasthan/articleshow/133197082.cms",
+    "time": "2026-08-13T03:52:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Aakhri Sawal' OTT: When, where to watch Sanjay Dutt's film",
+    "desc": "Sanjay Dutt leads in the riveting drama 'Aakhri Sawal', under the direction of Abhijeet Mohan Warang. Starting August 13, 2026, on Lionsgate Play, the film centers on Professor Gopal Nadkarni, whose intense dispute with student Vicky ignites a widespread public uproar involving numerous influential figures. With themes of dark secrets and evolving convictions, the narrative challenges both the characters and the audience’s perceptions as tensions escalate.",
+    "img": "https://static.toiimg.com/photo/msid-133197147,imgsize-683623.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aakhri-sawal-ott-release-when-and-where-to-watch-sanjay-dutts-film-on-truth-and-ideology/articleshow/133197044.cms",
+    "time": "2026-08-13T03:51:34.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Inside the Google executive moves that led to its big AI reshuffle",
+    "desc": "The changes mark a further erosion of DeepMind’s autonomy, which Google has chipped away at since buying the London-based lab in 2014 in an ongoing push for its AI to power more ‌of its software and make more money",
+    "img": "https://th-i.thgim.com/public/incoming/pk0cik/article71339424.ece/alternates/LANDSCAPE_1200/2026-08-11T125028Z_1247704185_RC29YJAK2S12_RTRMADP_3_FRANCE-GOOGLE-ANTITRUST-ARTIFICIAL.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/inside-the-google-executive-moves-that-led-to-its-big-ai-reshuffle/article71339422.ece",
+    "time": "2026-08-13T03:45:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NEET-PG aspirants get wrong exam city texts after NBEMS glitch",
+    "desc": "NEET-PG 2026 aspirants received incorrect SMS alerts regarding their allotted examination cities. A technical glitch caused the National Board of Examinations in Medical Sciences to send wrong messages. The board has since issued corrected SMSes and emails to affected candidates. Aspirants are advised to verify their exam city details on the official NBEMS applicant portal. Candidates should rely only on official communications and avoid misinformation.",
+    "img": "https://static.toiimg.com/photo/msid-133197049,imgsize-53964.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/neet-pg-aspirants-get-wrong-exam-city-texts-after-nbems-glitch/articleshow/133196961.cms",
+    "time": "2026-08-13T03:44:42.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "See Trump's posts first? Media groups sue over Truth Social’s paid access",
+    "desc": "Press groups have filed a lawsuit against Trump Media & Technology Group. They challenge a new service offering paying customers early access to President Trump's posts. The lawsuit seeks to prevent exclusive release of official government information on the platform. Trump's firm defends the paid access service, calling the suit an attempt to censor him. Meanwhile, TMTG shares experienced a decline and reported a significant financial loss.",
+    "img": "https://static.toiimg.com/photo/msid-133196972,imgsize-36950.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/see-trumps-posts-first-media-groups-sue-over-truth-socials-paid-access/articleshow/133196875.cms",
+    "time": "2026-08-13T03:42:50.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Parliament panel questions why rising oil &amp; gas capex isn’t boosting production",
+    "desc": "A parliamentary committee is increasingly scrutinizing whether the surge in oil and gas investments actually translates to higher domestic output. With a notable rise in capital expenditure, projections indicate a decline in crude oil production. The committee demands a comprehensive report detailing potential production benefits stemming from reforms, stressing the urgency of establishing clear performance metrics and accountability for these investments.",
+    "img": "https://static.toiimg.com/photo/msid-133197020,imgsize-147484.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/parl-panel-questions-why-rising-capex-in-oil-gas-sector-is-not-leading-to-higher-production/articleshow/133196951.cms",
+    "time": "2026-08-13T03:42:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Humko PATAL se bahar nikal diye'",
+    "desc": "Ravi Kishan expressed deep appreciation for the creativity and online presence of Gen Z. He praised their cleverness, which has played a significant part in his popularity. The actor warmly invited this new generation to the Parliament, recognizing it as the major panchayat of the nation. He remarked on Prime Minister Modi's attentiveness to their voices on social platforms and thanked Gen Z for helping him emerge from anonymity.",
+    "img": "https://static.toiimg.com/photo/msid-133196852,imgsize-59230.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ravi-kishan-bows-down-to-gen-z-amid-social-media-buzz-aaplog-humko-paataal-se-bahar-nikal-diye/articleshow/133196794.cms",
+    "time": "2026-08-13T03:26:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Gillian Anderson and David Duchovny to RETURN in 'The X-Files' reboot",
+    "desc": "Series creator Chris Carter indicated potential returns for David Duchovny and Gillian Anderson. He believes both actors will appear in the upcoming Ryan Coogler reboot. Carter is unsure how the new series will affect the original X-Files storyline. He also expressed interest in developing more X-Files projects himself. The franchise previously spawned two feature films and multiple television seasons.",
+    "img": "https://static.toiimg.com/photo/msid-133196836,imgsize-562291.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-x-files-gillian-anderson-and-david-duchovny-are-pretty-sure-to-return-as-scully-and-mulder-in-ryan-cooglers-reboot/articleshow/133196544.cms",
+    "time": "2026-08-13T03:24:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "From dried village ponds to Oregon’s fields, Ashish Yadav’s silver forged in hardship",
+    "desc": "Ashish Yadav made history by clinching a silver medal in javelin at the U20 World Athletics Championships held in Oregon. With a remarkable throw of 74.09 meters, he has broken a decade-long drought for India in this event. His athletic journey, which started on humble training grounds in his village, is now leading him toward the ambitious goal of surpassing the 80-meter mark in upcoming meets.",
+    "img": "https://static.toiimg.com/photo/msid-133196729,imgsize-62360.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/from-dried-village-ponds-to-oregons-fields-ashish-yadavs-silver-forged-in-hardship/articleshow/133196699.cms",
+    "time": "2026-08-13T03:14:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All about the latest season of ‘Reacher’",
+    "desc": "Alan Ritchson returns as Jack Reacher in the much-awaited fourth season, which brings to life Lee Child's gripping novel 'Gone Tomorrow.' Now streaming, viewers are already raving about the intense plot twists and high-octane action featured in the early episodes. The season sees Reacher delving into a sprawling conspiracy stemming from a chance encounter in Philadelphia. All earlier seasons and a spin-off can also be binge-watched on the platform.",
+    "img": "https://static.toiimg.com/photo/msid-133196722,imgsize-44416.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/reacher-season-4-all-you-need-to-know-about-alan-ritchsons-latest-thriller-series/articleshow/133196668.cms",
+    "time": "2026-08-13T03:13:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Cakeu Walku' song OUT: Priyanka Chopra says 'Let's goooo'",
+    "desc": "The first song 'Cakeu Walku' from Fahadh Faasil's movie 'Don't Trouble the Trouble' has been released. This track introduces Suri's character and the film's entertaining vibe. Priyanka Chopra shared a glimpse of the song on her Instagram account. The movie is backed by producers associated with the 'Baahubali' franchise. 'Don't Trouble the Trouble' is set to release on September 11, 2026.",
+    "img": "https://static.toiimg.com/photo/msid-133196508,imgsize-169787.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/cakeu-walku-song-from-fahadh-faasils-dont-trouble-the-trouble-unveiled-priyanka-chopra-says-lets-goooo/articleshow/133196405.cms",
+    "time": "2026-08-13T02:57:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Cauvery water dispute hearing in Supreme Court posted to August 17 as Judge falls ill",
+    "desc": "The case was expected to be heard on August 13 regarding Tamil Nadu’s plea for Karnataka to implement a July 30 CWMA decision to release 3500 cusecs for 15 days from its Kabini and Krishna Raja Sagara reservoirs",
+    "img": "https://th-i.thgim.com/public/incoming/bbuqbx/article70621377.ece/alternates/LANDSCAPE_1200/INDEX_SUPREME_COURT_02_08_7.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/cauvery-dispute-posted-to-august-17-as-judge-down-with-viral-fever/article71335351.ece",
+    "time": "2026-08-13T02:57:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hardik Pandya's Gujarat Titans trade collapses over captaincy demand",
+    "desc": "Hardik Pandya's anticipated transfer from Mumbai Indians has hit a snag as negotiations with Gujarat Titans failed due to differing views on his captaincy expectations. Having previously secured a title with Gujarat, Pandya's prospects remain in limbo after a lackluster season with Mumbai. Currently, he's prioritizing his fitness ahead of India's upcoming series against Afghanistan.",
+    "img": "https://static.toiimg.com/photo/msid-133196339,imgsize-101648.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/hardik-pandyas-gujarat-titans-trade-collapses-over-captaincy-demand/articleshow/133196258.cms",
+    "time": "2026-08-13T02:50:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Wait for it': KKR posts Hardik Pandya video amid IPL trade buzz",
+    "desc": "Mumbai Indians finished ninth in the 10-team IPL 2026 table, with four wins from 14 matches. Under Hardik Pandya, MI have reached the playoffs only once in three seasons. Pandya also had a difficult individual campaign. He scored 206 runs and took four wickets in 10 matches. The 32-year-old has not played competitive cricket since the end of IPL 2026.",
+    "img": "https://static.toiimg.com/photo/msid-133196323,imgsize-45971.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/wait-for-it-kkr-posts-hardik-pandya-video-amid-ipl-trade-buzz-watch/articleshow/133196177.cms",
+    "time": "2026-08-13T02:46:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'We have the upper hand': Sri Lanka captain warns India ahead of Galle Test",
+    "desc": "Sri Lankan captain Dhananjaya de Silva expects a spin-focused Test series against India. He believes the Galle pitch will gradually favor spinners after initial batting conditions. De Silva highlighted the importance of player temperament for scoring runs on aging wickets. He noted Prabath Jayasuriya's strong record at Galle as a key advantage. India's absence of Jasprit Bumrah is considered a significant loss for them.",
+    "img": "https://static.toiimg.com/photo/msid-133196075,imgsize-60256.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/we-have-the-upper-hand-sri-lanka-captains-warning-to-india-ahead-of-galle-test/articleshow/133196043.cms",
+    "time": "2026-08-13T02:29:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vivek-Yash enact Vidyutjihva-Ravana scene- WATCH",
+    "desc": "Vivek Oberoi and Yash shared jovial moments on the 'Ramayana' film sets. They were seen rehearsing their intense combat sequence for the epic. Yash plays Ravana, and Oberoi portrays Vidyutjihva in the mythological film. The trailer has already teased their significant battle scene. This Nitesh Tiwari directorial is being mounted as a two-part epic.",
+    "img": "https://static.toiimg.com/photo/msid-133195954,imgsize-468070.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-vivek-oberoi-and-yash-share-a-warm-bts-moment-before-clashing-in-epic-vidyutjihva-vs-ravana-combat-scene-watch/articleshow/133195940.cms",
+    "time": "2026-08-13T02:29:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Suvinder reveals how Dhar drew line on cussing in Dhurandhar 2",
+    "desc": "The Revenge'. He praised the director and writers for crafting powerful dialogues that resonate with the audience. Notably, Vicky also reflected on their previous collaboration in the film 'Satluj'. 'Dhurandhar: The Revenge' marks a thrilling continuation of the immensely successful spy thriller series, which has enjoyed remarkable box office achievements worldwide.",
+    "img": "https://static.toiimg.com/photo/msid-133195989,imgsize-798135.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/suvinder-vicky-reveals-how-aditya-dhar-drew-the-line-on-abusive-words-in-dhurandhar-2-he-said-we-will-not-go-to-mothers-and-sisters/articleshow/133195937.cms",
+    "time": "2026-08-13T02:20:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Korean Kanakaraju' BO day 6: Varun Tej’s horror comedy maintains pace",
+    "desc": "Varun Tej's latest film 'Korean Kanakaraju' has proven to be a consistent performer at the box office. On its sixth day of release, it garnered Rs 1.32 crore, bringing its total net collection in India to Rs 18.22 crore. Additionally, it has achieved Rs 4.60 crore from overseas markets, continuing to draw audiences throughout its theatrical run despite a slight drop on weekdays.",
+    "img": "https://static.toiimg.com/photo/msid-133195990,imgsize-182596.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/box-office/korean-kanakaraju-box-office-collection-day-6-varun-tejs-horror-comedy-maintains-pace-surpasses-rs-25-crore-worldwide/articleshow/133195957.cms",
+    "time": "2026-08-13T02:20:27.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Oil prices slip as Opec cuts demand forecast, Iran war keeps supply risks alive",
+    "desc": "Oil prices have witnessed a decline due to lowered global demand forecasts and a notable increase in US inventories. Both Opec and the IEA have adjusted their oil demand growth projections downward for the near future. Ongoing tensions in the Strait of Hormuz and Bab el-Mandeb Strait are amplifying supply concerns, while negotiations between Iran and the US remain inconclusive.",
+    "img": "https://static.toiimg.com/photo/msid-133195998,imgsize-126926.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-slip-as-opec-cuts-2026-demand-forecast-iran-war-keeps-supply-risks-alive/articleshow/133195863.cms",
+    "time": "2026-08-13T02:20:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "About OTT series ‘Conversations With A Killer: The Charles Manson Tapes’",
+    "desc": "Director Joe Berlinger's new docuseries examines Charles Manson's manipulation of his followers. The series details how Manson's \"family\" committed horrifying murders under his orders. It features interviews with former cult members and audio recordings from Manson himself. Berlinger challenges the race war motive, suggesting drug deals gone wrong instead. The documentary offers an unfiltered look into Manson's psyche and criminal activities.",
+    "img": "https://static.toiimg.com/photo/msid-133195976,imgsize-426586.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/conversations-with-a-killer-the-charles-manson-tapes-all-about-the-new-docu-series-with-never-before-seen-footage-of-manson-and-his-family/articleshow/133195956.cms",
+    "time": "2026-08-13T02:19:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Irumudi' trailer: Ravi Teja plays a flawed family man",
+    "desc": "The trailer for Ravi Teja's upcoming film 'Irumudi' has just dropped, providing intriguing insights into its storyline. In this movie, Ravi Teja steps into the shoes of a middle-class father who is deeply worried about the safety of girls in his village. As mysterious deaths unfold, his protective instincts are challenged, leading to personal revelations. His journey of transformation during the annual Ayyappa Deeksha highlights the narrative depth.",
+    "img": "https://static.toiimg.com/photo/msid-133195794,imgsize-187204.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/irumudi-trailer-out-ravi-teja-plays-a-flawed-family-man-mystery-surrounds-young-girls-deaths/articleshow/133195767.cms",
+    "time": "2026-08-13T01:53:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Very, very difficult': Can Kuldeep Yadav become India's next spin leader?",
+    "desc": "Kuldeep Yadav has played 18 Tests for India and taken 79 wickets in 34 innings. He has a bowling average of 22.35, an economy rate of 3.53 and a strike rate of 37.9. He has taken four four-wicket hauls and five five-wicket hauls. His best innings figures are 5/40, while his best match figures are 8/113. Kuldeep has also been a successful limited-overs bowler. He has 194 wickets from 121 ODIs at an average of 27.04. In 54 T20Is, he has taken 95 wickets at an average of 13.74.",
+    "img": "https://static.toiimg.com/photo/msid-133195723,imgsize-30543.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/very-very-difficult-murali-kartik-on-kuldeep-yadavs-chance-to-become-indias-next-spin-leader/articleshow/133195701.cms",
+    "time": "2026-08-13T01:41:03.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "'Thudakkam' BO day 6: Worldwide gross reaches Rs 31.54 Cr",
     "desc": "Vismaya Mohanlal's debut film 'Thudakkam' continues to show impressive performance at the box office. On its sixth day, it garnered Rs 1.61 crore, revealing a promising upward trend. The net earnings in India have accumulated to Rs 15.21 crore, while the total worldwide gross stands at Rs 31.54 crore. ETimes rated the film at 3.0 out of 5 stars, showcasing its moderate appeal.",
@@ -16,6 +250,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/ariana-grandes-post-confirms-rekindling-romance-with-ricky-alvarez-new-pic-shows-the-couple-in-matching-fits/articleshow/133195605.cms",
     "time": "2026-08-13T01:19:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tukaram Mundhe to inspect film sets? FWICE writes to FDA",
+    "desc": "Maharashtra FDA Commissioner Tukaram Mundhe is set to conduct surprise inspections at film studios soon. This initiative came after the Federation of Western India Cine Employees urged for food safety checks due to ongoing concerns about unsafe food prepared for film crews, raising serious health risks. The FWICE demands that production houses and caterers be held responsible for ensuring food quality for the cast and crew.",
+    "img": "https://static.toiimg.com/photo/msid-133195546,imgsize-328329.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tukaram-mundhe-to-inspect-film-sets-next-fwice-seeks-fda-action-on-food-quality-at-shooting-locations/articleshow/133195521.cms",
+    "time": "2026-08-13T01:06:43.000Z"
   },
   {
     "cat": "Entertainment",
@@ -72,24 +315,6 @@ const newsData_en = [
     "time": "2026-08-13T00:36:20.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Jana Nayagan' BO Day 21: Thalapathy Vijay film holds at Rs 65 lakhs",
-    "desc": "Thalapathy Vijay's film 'Jana Nayagan' maintained its steady theatrical run on Wednesday. The movie recorded Rs 65 lakhs in India net collection on its twenty-first day. Its overall India net collection has now reached Rs 194.35 crore. Worldwide gross collections for the film stand at Rs 319.57 crore. The H Vinoth directorial continues to perform well in its third week.",
-    "img": "https://static.toiimg.com/photo/msid-133195403,imgsize-283565.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-box-office-collection-day-21-thalapathy-vijay-film-holds-at-rs-65-lakhs-india-net-reaches-rs-194-35-cr/articleshow/133195396.cms",
-    "time": "2026-08-13T00:17:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Spider-Man' scores another Rs 100 crore on week 2",
-    "desc": "Brand New Day achieved Rs 100 crore in its second week. The film's India net collection now stands at approximately Rs 438 crore. Discounted tickets boosted weekday sales significantly across major cinema chains. This superhero movie has already become the highest-earning Hollywood release in India. Spider-Man: Brand New Day is now nearing the Rs 550 crore box office milestone.",
-    "img": "https://static.toiimg.com/photo/msid-133195323,imgsize-219547.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/spider-man-brand-new-day-box-office-collection-day-14-tom-holland-starrer-scores-another-rs-100-crore-in-week-2-india-gross-nears-rs-525-crore/articleshow/133195259.cms",
-    "time": "2026-08-13T00:01:36.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "After 10 defeats &amp; two home clean sweeps, Amit Mishra says 'give Gambhir time'",
     "desc": "The worst for India under Gambhir's coaching has come in the Tests. In the six Test series that India have played since Gambhir took charge as head coach (one-off Test against Afghanistan not included), they have won just two - against Bangladesh and West Indies at home.",
@@ -97,15 +322,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/after-ten-defeats-in-19-tests-and-wtc-hopes-fading-amit-mishra-says-give-gautam-gambhir-more-time/articleshow/133183331.cms",
     "time": "2026-08-12T23:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nick Reiner was 'lying in wait' before murdering parents",
-    "desc": "A Los Angeles County grand jury indicted Nick Reiner for his parents' murder. The indictment includes an allegation that he was lying in wait before the attack. This major step toward trial allows prosecutors to bypass a preliminary hearing. Reiner is also seeking unpaid trust funds to aid his defense. The grand jury process ensures secrecy for the ongoing investigation.",
-    "img": "https://static.toiimg.com/photo/msid-133192972,imgsize-519990.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/rob-and-michele-reiner-murder-new-indictment-alleges-nick-reiner-was-lying-in-wait-before-killing-parents/articleshow/133192904.cms",
-    "time": "2026-08-12T21:35:18.000Z"
   },
   {
     "cat": "Politics",
@@ -162,31 +378,13 @@ const newsData_en = [
     "time": "2026-08-12T19:38:14.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Kangana clarifies ‘Generation Gutter’ remark: ‘Not referring to all youth’",
-    "desc": "BJP MP Kangana Ranaut has clarified her “Generation Gutter” remarks, saying she was not referring to all young people. She said her comments were aimed at those who “label themselves as cockroaches” and defended her criticism of videos from a Jantar Mantar protest over the NEET-UG paper leak. A case has also been filed against her.",
-    "img": "https://static.toiimg.com/photo/msid-133192462,imgsize-66544.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-clarifies-generation-gutter-remark-i-was-not-referring-to-all-youth-but-those-who-label-themselves-as-cockroaches/articleshow/133192445.cms",
-    "time": "2026-08-12T19:22:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Portfolio allocation done, Karnataka Chief Minister D.K. Shivakumar huddles with Ministers to strategise on countering opposition",
-    "desc": "The new Ministers are likely to be under prepared due to lack of time to prepare, and the CM has advised his Cabinet colleagues to work as a team to counter the opposition, said a source",
-    "img": "https://th-i.thgim.com/public/incoming/mnwwuo/article71337828.ece/alternates/LANDSCAPE_1200/CM%207.JPEG",
+    "cat": "Sports",
+    "title": "Moment of reckoning for Gill — the skipper and the batter",
+    "desc": "The 0-2 loss to South Africa has left India languishing mid-table, with just four wins from nine matches. They must win seven of their nine remaining games — two each away in Sri Lanka and New Zealand, and five early next year at home against the Aussies — to move into the finals under their own steam, a tall order at the best of times",
+    "img": "https://th-i.thgim.com/public/incoming/g52yem/article71338287.ece/alternates/LANDSCAPE_1200/th04-cri-ind-sqG91FD1K1K.3.jpg.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/portfolio-allocation-done-karnataka-chief-minister-dk-shivakumar-huddles-with-ministers-to-strategise-on-countering-opposition/article71337674.ece",
-    "time": "2026-08-12T18:57:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Travis Kelce calls Taylor Swift wedding ‘the best night of my life’",
-    "desc": "Travis Kelce has opened up about his wedding to Taylor Swift, calling the celebration “the best night of my life” and “a crazy night” full of celebration. The Kansas City Chiefs star also reflected on tying the knot at Madison Square Garden and thanked everyone who attended, before shifting his focus back to football.",
-    "img": "https://static.toiimg.com/photo/msid-133190991,imgsize-111503.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/travis-kelce-calls-taylor-swift-wedding-a-crazy-night-and-the-best-night-of-my-life-full-of-a-lot-of-celebration/articleshow/133190907.cms",
-    "time": "2026-08-12T18:18:56.000Z"
+    "url": "https://www.thehindu.com/sport/moment-of-reckoning-for-gill-the-skipper-and-the-batter/article71338264.ece",
+    "time": "2026-08-12T18:54:35.000Z"
   },
   {
     "cat": "Sports",
@@ -261,15 +459,6 @@ const newsData_en = [
     "time": "2026-08-12T16:33:55.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Emraan's film leads, collects Rs 2.05 cr",
-    "desc": "Emraan Hashmi's 'Awarapan 2' takes the lead in advance bookings, raking in Rs 2.05 crore, while Sunny Deol's 'Batwara 1947' trails with Rs 53.21 lakh. Notably, the Delhi-NCR area is driving the ticket sales for both films. Future performance at the box office will rely heavily on walk-in attendance and spontaneous bookings.",
-    "img": "https://static.toiimg.com/photo/msid-133187954,imgsize-322775.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/emraan-hashmis-awarapan-2-edges-past-sunny-deols-batwara-1947-in-advance-bookings-ahead-of-big-independence-day-clash-collects-rs-2-5-crore/articleshow/133187864.cms",
-    "time": "2026-08-12T16:16:54.000Z"
-  },
-  {
     "cat": "Business",
     "title": "How power struggle at Tata group is deepening with exit of Ratan Tata’s key allies",
     "desc": "The battle for influence within the Tata Group after the death of former chairman Ratan Tata in 2024 has led to the exit of several senior leaders who were closely associated with him, altering the leadership dynamics at India's largest business conglomerate.",
@@ -279,15 +468,6 @@ const newsData_en = [
     "time": "2026-08-12T16:11:36.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Toll rises to 103; 87,000 remain affected in four districts",
-    "desc": "Around 86,800 people are still affected by the floods in Golaghat, Jorhat, Nagaon and Sivasagar. Golaghat remains the worst-hit district, with more than 42,000 people affected. Nagaon has around 20,000 affected residents, while Sivasagar has about 15,000. The situation has nevertheless improved compared with Tuesday, when nearly 1.13 lakh people were affected across the four districts. Authorities are continuing relief operations in the affected areas.",
-    "img": "https://static.toiimg.com/photo/msid-133186641,imgsize-338176.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/assam-floods-toll-rises-to-103-87000-remain-affected-in-four-districts/articleshow/133186618.cms",
-    "time": "2026-08-12T15:59:44.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Google Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL and Pixel 11 Pro Fold launch: What to expect?",
     "desc": "Under the hood, the Pixel 11 series is believed to operate on Android 17 out of the box while promising 7 years of OS updates and 7 years of security updates. Gemini is expected to dominate the show with some new upgrades",
@@ -295,24 +475,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/gadgets/google-pixel-11-pixel-11-pro-pixel-11-pro-xl-and-pixel-11-pro-fold-launch-what-to-expect/article71331641.ece",
     "time": "2026-08-12T15:55:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘I’m doing well’",
-    "desc": "Actor Jr NTR has successfully completed shoulder surgery at KIMS Hospitals and conveyed heartfelt thanks to his fans, friends, and family for their support. The arthroscopic surgery was executed by a skilled team of orthopaedic surgeons. With an eye towards recovery, Jr NTR is now embarking on a supervised rehabilitation regimen, with doctors optimistic about his full recovery in the next two to three months.",
-    "img": "https://static.toiimg.com/photo/msid-133187299,imgsize-1282281.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/jr-ntr-health-update-dragon-actor-thanks-fans-after-successful-surgery-says-im-doing-well-see-you-soon/articleshow/133187262.cms",
-    "time": "2026-08-12T15:49:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Paris Jackson opens up about two failed engagements",
-    "desc": "Paris Jackson has opened up about her two failed engagements, including her first secret engagement and her split from music producer Justin Long. Recalling her first relationship, she said the love felt real despite both being on drugs. Jackson also explained why she ended her second engagement and why she plans to be more selective in love.",
-    "img": "https://static.toiimg.com/photo/msid-133186903,imgsize-63078.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/paris-jackson-opens-up-about-two-failed-engagements-the-first-one-was-real-to-me-even-though-we-were-strung-out-on-drugs/articleshow/133186872.cms",
-    "time": "2026-08-12T15:25:27.000Z"
   },
   {
     "cat": "Sports",
@@ -342,15 +504,6 @@ const newsData_en = [
     "time": "2026-08-12T14:04:25.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "When Sara spoke about growing up with a single mom after Saif-Amrita's divorce",
-    "desc": "Sara Ali Khan had opened up on gaining stregnth from within and how growing up with a single mother after her parents got divorced taught her many things from a young age. She will be seen next in 'Udta Teer' with Ayushmann Khurrana again. The film, which was earlier scheduled for a September 11 release, will now arrive n theatres on October 9.",
-    "img": "https://static.toiimg.com/photo/msid-133185236,imgsize-263036.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-sara-ali-khan-spoke-about-growing-up-with-a-singe-mother-after-amrita-singh-saif-ali-khans-divorce-at-a-very-early-age-i-realised-that-koi-aapke-liye-kuch-karne-nai-wala-hai-exclusive/articleshow/133184886.cms",
-    "time": "2026-08-12T14:04:14.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'I feel bad when father sells milk': Javelin medallist says ‘searching for job’",
     "desc": "Ashish Yadav’s journey from helping his father sell milk in Mirzapur to winning a World U-20 javelin silver medal has been remarkable. Training in Hisar improved his throw by nearly 20 metres, despite a knee injury. However, his family’s financial struggles continue, and he is still seeking employment. Inspired by Neeraj Chopra, Ashish now targets 80m.",
@@ -360,24 +513,6 @@ const newsData_en = [
     "time": "2026-08-12T14:00:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Delete posts, apologise’: Bengal CM Adhikari orders action over derogatory posts about Netaji",
-    "desc": "West Bengal chief minister Suvendu Adhikari has ordered action against those making offensive comments online. He has directed law enforcement to apprehend social media users who disparage historical icon Netaji Subhas Chandra Bose. Additionally, Adhikari has mandated that MLAs establish public service centers named for Netaji, each receiving thirty thousand rupees in monthly state assistance to ensure service delivery to their constituents.",
-    "img": "https://static.toiimg.com/photo/msid-133185165,imgsize-954489.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delete-posts-apologise-bengal-cm-adhikari-orders-action-over-derogatory-posts-about-netaji/articleshow/133185141.cms",
-    "time": "2026-08-12T14:00:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Chiranjeevi says audiences are not staying home because of OTT",
-    "desc": "Celebrating the success of Varun Tej's latest venture, Korean Kanakaraju, Chiranjeevi emphasized the importance of quality content in attracting audiences back to theaters, as opposed to relying solely on OTT platforms. He commended director Merlapaka Gandhi for creating a horror comedy that has resonated well with viewers, evidenced by its impressive box office performance across India.",
-    "img": "https://static.toiimg.com/photo/msid-133185179,imgsize-548199.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/chiranjeevi-says-audiences-will-come-to-theatres-for-good-content-it-is-wrong-to-say-people-are-staying-home-and-watching-ott/articleshow/133184910.cms",
-    "time": "2026-08-12T14:00:15.000Z"
-  },
-  {
     "cat": "Business",
     "title": "‘Don’t pay attention to gossip, conspiracies you hear’: What N Chandrasekaran told Tata Sons staff",
     "desc": "Speaking at a town hall meeting held at Bombay House in the afternoon, Chandrasekaran reportedly said he had been \"touched with the love and affection\" shown to him by employees throughout his career and looked back on his 40-year journey with the Tata Group.",
@@ -385,33 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/dont-pay-attention-to-gossip-conspiracies-you-hear-what-n-chandrasekaran-told-tata-sons-staff/articleshow/133184586.cms",
     "time": "2026-08-12T13:54:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ahn Pan-seok’s cause of death revealed",
-    "desc": "South Korean director Ahn Pan-seok, known for 'Behind the White Tower' and 'Spring Night', passed away at 64 after battling lung cancer and suffering a brain hemorrhage. His final project, ENA's 'Love Doctor' starring Choo Young-woo and Kim So-hyun, remains set to premiere in October as planned.",
-    "img": "https://static.toiimg.com/photo/msid-133184712,imgsize-213461.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/korean/ahn-pan-seok-passes-away-at-64-behind-the-white-tower-directors-cause-of-death-revealed/articleshow/133184684.cms",
-    "time": "2026-08-12T13:47:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi Police’s ‘Kuchu Puchu’ Gen-Z twist to warn Delhiites about Chinese manjha",
-    "desc": "In a recent social media post, the police urged residents to enjoy kite flying but stay away from banned Chinese manjha and plastic-coated strings, which can cause serious injuries to people and animals. “Dear Kuchu Puchu, Patang Udao but Say NO to Chinese Manjha, Samjhe?” the police wrote, giving its usual safety messaging a more playful, social media-friendly tone.",
-    "img": "https://static.toiimg.com/photo/msid-133184720,imgsize-264444.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-polices-kuchu-puchu-gen-z-twist-to-warn-delhiites-about-chinese-manjha/articleshow/133182602.cms",
-    "time": "2026-08-12T13:44:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kareena's birthday note for Sara includes pumpkin sabzi and yoghurt",
-    "desc": "Kareena Kapoor Khan took to social media to send heartfelt birthday wishes to Sara Ali Khan, sharing a lovely family photo. In her message, she affectionately highlighted Sara's favorite foods. Over the years, Sara has expressed her close bond with Kareena, who has played a nurturing role in the lives of Sara and Ibrahim. Meanwhile, Sara is gearing up for the release of her upcoming film, 'Udta Teer'.",
-    "img": "https://static.toiimg.com/photo/msid-133184342,imgsize-256873.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kareena-kapoor-khan-wishes-sara-ali-khans-plate-is-always-full-as-she-pens-birthday-note-pumpkin-sabzi-and-yoghurts/articleshow/133184277.cms",
-    "time": "2026-08-12T13:24:41.000Z"
   },
   {
     "cat": "Sports",
@@ -433,39 +541,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "English all-rounder forced to retire aged 30 after neck, spinal cord injury",
-    "desc": "Lamb suffered a disc herniation in his neck earlier this season, which led to a spinal cord injury. He underwent surgery last month but continued to deal with the effects of the injury. After taking medical advice, the right-arm bowler decided to retire for the sake of his long-term health.",
-    "img": "https://static.toiimg.com/photo/msid-133182851,imgsize-429070.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/english-all-rounder-danny-lamb-forced-to-retire-from-cricket-aged-30-after-neck-spinal-cord-injury/articleshow/133182568.cms",
-    "time": "2026-08-12T12:45:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kumar Sanu recalls singing in front of Dawood Ibrahim, performed for Abu Salem despite police warning",
-    "desc": "Singer Kumar Sanu revealed performing at events for Dawood Ibrahim and Abu Salem. He sang at Dawood's relative's birthday celebration in Dubai. Sanu later agreed to perform at Abu Salem's show after declining a money request. Police warned Sanu against attending Abu Salem's event and threatened arrest. Despite warnings, Sanu performed and returned safely from Dubai.",
-    "img": "https://static.toiimg.com/photo/msid-133182888,imgsize-264703.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kumar-sanu-recalls-singing-in-front-of-dawood-ibrahim-at-his-brothers-birthday-party-went-to-dubai-to-perform-for-abu-salems-show-despite-warning-from-police-give-me-security/articleshow/133182770.cms",
-    "time": "2026-08-12T12:30:01.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Hours after Gautam Gambhir's visit to Galle, lawn mower hits the pitch",
     "desc": "Sri Lanka held a closed-door practice session in Galle as India coaches Gautam Gambhir and Sitanshu Kotak briefly inspected the pitch. Groundstaff worked extensively on the surface, which could influence India’s choice between three spinners or three seamers. Rain remains a concern ahead of the Test. India will resume training Thursday after completing an intensive preparation camp in Colombo.",
     "img": "https://static.toiimg.com/photo/msid-133182611,imgsize-153460.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/hours-after-gautam-gambhirs-visit-to-galle-lawn-mower-hits-the-pitch/articleshow/133182162.cms",
     "time": "2026-08-12T12:16:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Land has been allotted': Tripura CM fulfils promise to CWG medallist Asmita",
-    "desc": "Tripura Chief Minister Manik Saha felicitated Commonwealth Games gold medallist Asmita Dey, presenting her with Rs 10 lakh and allotting land in Agartala to build a house. Dey, who became India’s first Commonwealth Games gold-winning judoka, was praised for overcoming hardships. Saha urged her to stay focused, maintain discipline and aim for another medal at the Asian Games.",
-    "img": "https://static.toiimg.com/photo/msid-133181523,imgsize-100108.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/land-has-been-allotted-tripura-cm-fulfils-promise-to-cwg-medallist-asmita-dey/articleshow/133180778.cms",
-    "time": "2026-08-12T11:48:23.000Z"
   },
   {
     "cat": "Business",
@@ -486,69 +567,6 @@ const newsData_en = [
     "time": "2026-08-12T10:53:40.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "BWF World C'ships: Who are the Indian players competing in New Delhi?",
-    "desc": "The BWF World Championships 2026 will take place in New Delhi from August 17-23, marking the tournament’s return to India after 17 years. India will compete across all five disciplines, with stars including Lakshya Sen, PV Sindhu, Satwiksairaj Rankireddy and Chirag Shetty. The tournament will feature preliminary rounds through August 20, followed by quarter-finals, semi-finals and finals.",
-    "img": "https://static.toiimg.com/photo/msid-133179574,imgsize-38990.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/badminton/bwf-world-championships-2026-who-are-the-indian-players-competing-in-new-delhi/articleshow/133178122.cms",
-    "time": "2026-08-12T10:35:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Big four reunite as Australia begin 20-Test year with Bangladesh series",
-    "desc": "The first Test at Marrara Stadium in Darwin will be Bangladesh's first Test tour of Australia in more than 20 years. It also starts a 12-month period in which Australia are scheduled to play at least 20 Tests, including series against South Africa, India and England.",
-    "img": "https://static.toiimg.com/photo/msid-133178845,imgsize-538469.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/big-four-reunite-as-australia-begin-20-test-marathon-season-with-bangladesh-series/articleshow/133178105.cms",
-    "time": "2026-08-12T10:10:11.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "The remarkable rise of Ratan Tata’s pick N Chandrasekaran",
-    "desc": "Popularly known as Chandra in corporate circles, he became the first non-Parsi chairman in the Tata Group's 150-year history and was personally chosen for the role by the late Ratan Tata. The Tata Group expanded significantly under his leadership. According to company figures, aggregate revenue increased from Rs 7.89 lakh crore in FY20 to Rs 16.24 lakh crore in FY26.",
-    "img": "https://static.toiimg.com/photo/msid-133177978,imgsize-388875.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/from-trainee-to-tata-chairman-the-remarkable-rise-of-ratan-tatas-pick-n-chandrasekaran/articleshow/133177928.cms",
-    "time": "2026-08-12T09:57:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sri Lanka announce 16-member squad for India Test, Kusal Mendis ruled out",
-    "desc": "Sri Lanka Cricket has revealed its lineup for the forthcoming Test series against India. Niroshan Dickwella makes his return to the Test squad following injury recovery. Dhananjaya de Silva will lead the team, with Kamindu Mendis serving as vice-captain. The squad boasts three specialist spin bowlers alongside a formidable pace unit. This series forms an essential part of the ICC World Test Championship cycle.",
-    "img": "https://static.toiimg.com/photo/msid-133177549,imgsize-56114.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/sri-lanka-announce-16-member-squad-for-india-test-kusal-mendis-ruled-out/articleshow/133177479.cms",
-    "time": "2026-08-12T09:21:42.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "‘Emergence of Indian barrels notable’: Why Russia is buying gasoline from India for the first time",
-    "desc": "Kpler data shows the first cargo arrived on August 5, with additional shipments expected to follow. Nayara Energy Ltd, the Indian refiner backed by Russia's largest oil producer Rosneft PJSC, has emerged as a supplier.",
-    "img": "https://static.toiimg.com/photo/msid-133176840,imgsize-747855.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/emergence-of-indian-barrels-notable-why-russia-is-buying-gasoline-from-india-for-the-first-time/articleshow/133176542.cms",
-    "time": "2026-08-12T08:57:15.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Why India's next challenge is demand",
-    "desc": "India's ethanol program surpassed eight hundred crore liters in the latest supply year. Grain-based feedstocks now dominate ethanol production, accounting for seventy-six percent in July. Maize and surplus FCI grains significantly contributed to this growing grain-based ethanol supply. Sugarcane-based ethanol supplies saw a decrease in their share of the monthly mix. The industry now focuses on expanding demand to match increased production capacity.",
-    "img": "https://static.toiimg.com/photo/msid-133175899,imgsize-92056.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/ethanol-supplies-cross-800-crore-litres-why-indias-next-challenge-is-demand/articleshow/133175353.cms",
-    "time": "2026-08-12T08:37:14.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "What led to N Chandrasekaran’s exit as Tata Sons chairman",
-    "desc": "The 63-year-old Chandrasekaran, who has been associated with the Tata Group for four decades, informed the Tata Sons board on Wednesday that he would not seek another term after his tenure expires on February 20, 2027.",
-    "img": "https://static.toiimg.com/photo/msid-133174871,imgsize-356844.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/standoff-with-noel-tata-what-led-to-n-chandrasekarans-exit-as-tata-sons-chairman/articleshow/133174654.cms",
-    "time": "2026-08-12T07:31:45.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Last Seen’ trailer: Patrick Brammall searches for his missing daughter in Apple TV’s new thriller",
     "desc": "Apple TV has released the first trailer for ‘Last Seen’, a new Australian thriller starring Patrick Brammall as a former detective who receives a distress call that could finally reveal what happened to his daughter, who vanished 11 years earlier",
@@ -556,24 +574,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/last-seen-trailer-patrick-brammall-searches-for-his-missing-daughter-in-apple-tvs-new-thriller/article71335313.ece",
     "time": "2026-08-12T06:08:50.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Gold prices rise, but will silver continue to outperform? Check August 12, 2026 outlook",
-    "desc": "Gold finally broke out of its long consolidation range last week, gaining over 7%, its strongest weekly rise since January. The rally has continued this week, with gold now up around 8.7% this month and trading near $4,400/oz.",
-    "img": "https://static.toiimg.com/photo/msid-133172824,imgsize-566455.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-india-where-is-gold-silver-rate-headed-on-august-12-2026-mcx-gold-futures-outlook-us-iran-war-middle-east-tensions/articleshow/133172731.cms",
-    "time": "2026-08-12T06:02:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India-Afghanistan T20I series confirmed, Delhi to host three matches before Asian Games",
-    "desc": "Afghanistan will host India for a three-match T20I series in Delhi. The series is scheduled to take place from September 13 to September 17, 2026. This contest will serve as preparation for India's Asian Games squad. Players will get valuable T20I game time and assess combinations. The Asian Games cricket competition begins later in September 2026.",
-    "img": "https://static.toiimg.com/photo/msid-133172735,imgsize-1213998.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-afghanistan-t20i-series-confirmed-delhi-to-host-three-matches-before-asian-games/articleshow/133172235.cms",
-    "time": "2026-08-12T06:00:31.000Z"
   },
   {
     "cat": "Entertainment",
@@ -765,24 +765,6 @@ const newsData_en = [
     "time": "2026-08-11T05:53:16.000Z"
   },
   {
-    "cat": "World",
-    "title": "Iran ties Strait of Hormuz reopening to U.S. concessions on several demands",
-    "desc": "Iran and the U.S. are not engaged in direct talks, and Tehran will not start them ⁠as long as Washington breaches an interim deal signed in June, Mr. Aragchi said, adding that messages were being exchanged through intermediaries.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-august-10-2026-hormuz-strait-reopen-us-iran-talks/article71326809.ece",
-    "time": "2026-08-10T23:57:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England, Bayern Munich star Harry Kane set to receive 'Golden Shoe' award",
-    "desc": "As per the official website of his club Bayern Munich, this is the second time Harry is going to receive the prestigious honour, joining the elite list of players having won it twice, with only legends Lionel Messi and Cristiano Ronaldo having won it more",
-    "img": "https://th-i.thgim.com/public/incoming/btpki8/article71329911.ece/alternates/LANDSCAPE_1200/England_France_WCup_Soccer__912.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/england-bayern-munich-star-harry-kane-set-to-receive-golden-shoe-award/article71329894.ece",
-    "time": "2026-08-10T19:23:02.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Delhi HC restrains misuse of Tabu’s name, image; orders takedown of AI-generated obscene content",
     "desc": "The court’s order comes on actor Tabu’s suit against several individuals and online platforms, alleging unauthorised exploitation of her personality rights, circulation of defamatory material, sale of merchandise using her photographs and dissemination of manipulated and AI-generated content",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
     "time": "2024-03-11T10:20:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
+    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
+    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
+    "time": "2024-03-11T10:00:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
+    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
+    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
+    "time": "2024-03-11T09:41:17.000Z"
   }
 ];
