@@ -1,5 +1,131 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "'Thudakkam' BO day 6: Worldwide gross reaches Rs 31.54 Cr",
+    "desc": "Vismaya Mohanlal's debut film 'Thudakkam' continues to show impressive performance at the box office. On its sixth day, it garnered Rs 1.61 crore, revealing a promising upward trend. The net earnings in India have accumulated to Rs 15.21 crore, while the total worldwide gross stands at Rs 31.54 crore. ETimes rated the film at 3.0 out of 5 stars, showcasing its moderate appeal.",
+    "img": "https://static.toiimg.com/photo/msid-133195633,imgsize-400603.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/thudakkam-box-office-collections-day-6-vismaya-mohanlals-debut-film-sees-0-6-growth-worldwide-gross-reaches-rs-31-54-cr/articleshow/133195624.cms",
+    "time": "2026-08-13T01:22:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ariana Grande’s post confirms rekindling romance with Ricky Alvarez",
+    "desc": "In a surprising twist, Ariana Grande appears to have confirmed her relationship with ex-boyfriend Ricky Alvarez through a charming Instagram photo collection from her tour. Speculation surrounding their romance has been fueled by altered song lyrics and Alvarez's attendance at her shows. After a one-year relationship that ended in 2016, the pair are approaching their renewed connection with care, particularly after Grande's recent split.",
+    "img": "https://static.toiimg.com/photo/msid-133195627,imgsize-190476.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/ariana-grandes-post-confirms-rekindling-romance-with-ricky-alvarez-new-pic-shows-the-couple-in-matching-fits/articleshow/133195605.cms",
+    "time": "2026-08-13T01:19:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jenna Ortega's 'Then and Now' photos ALARM fans",
+    "desc": "Jenna Ortega's recent appearance has sparked social media concern regarding her physique. Fans noted a drastic transformation, drawing comparisons to past images. The actress candidly recalled child actor pressures, including going without food. This has led to comparisons with Ariana Grande's public body scrutiny. Ortega's career continues to rise despite these ongoing discussions.",
+    "img": "https://static.toiimg.com/photo/msid-133195532,imgsize-359686.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jenna-ortegas-then-and-now-photos-alarm-fans-actress-appearance-raises-concerns-about-hollywoods-extreme-thinness-trend/articleshow/133195372.cms",
+    "time": "2026-08-13T01:03:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'DC' vs 'GDN' BO day 6: Lokesh's film crosses Rs 58 Cr",
+    "desc": "On its sixth day since hitting theaters, DC maintained a commendable box office performance, garnering around five crore rupees in India alone. This brings its global gross collection to an impressive fifty-eight point six two crore. In the meantime, R Madhavan's GDN has made a mark, accumulating four point four six crore worldwide, with its Tamil version playing a crucial role in boosting overall sales.",
+    "img": "https://static.toiimg.com/photo/msid-133195526,imgsize-433133.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/dc-vs-gdn-box-office-collections-day-6-lokesh-kanagarajs-film-crosses-rs-58-cr-worldwide-r-madhavans-film-sees-rs-36-lakhs/articleshow/133195508.cms",
+    "time": "2026-08-13T01:00:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "David Foster on red carpet ‘snub’ with Meghan Markle, Prince Harry",
+    "desc": "In response to rumors of snubbing Meghan Markle and Prince Harry at his foundation event, David Foster clarified the situation. He insisted that they had greeted each other privately before any public appearances. Foster condemned media reports that misinterpreted the simple arrangement for photographs as tension, emphasizing their strong friendship and the couple's kind interactions with attendees amid talk of clickbait drama.",
+    "img": "https://static.toiimg.com/photo/msid-133195471,imgsize-252834.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/david-foster-reacts-to-red-carpet-snub-with-meghan-markle-and-prince-harry-anyone-watching-can-see-there-was-no-awkward-moment/articleshow/133195458.cms",
+    "time": "2026-08-13T00:41:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anupama Parameswaran recalls ‘narcissistic abuse’",
+    "desc": "Actress Anupama Parameswaran spoke about enduring narcissistic abuse for two years. She described a relationship marked by control and emotional suffering. Her family and friends noticed significant changes in her behavior. The actress also stated the relationship negatively affected her career choices. She compared her former partner's behavior to characters from the film Anniyan.",
+    "img": "https://static.toiimg.com/photo/msid-133195465,imgsize-447530.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/anupama-parameswaran-confirms-breakup-recalls-narcissistic-abuse-it-was-like-living-with-an-anniyan/articleshow/133195463.cms",
+    "time": "2026-08-13T00:38:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Maa Inti Bangaaram' Hindi OTT: Where to stream Samantha film",
+    "desc": "Samantha Ruth Prabhu's gripping action thriller 'Maa Inti Bangaaram' is now making waves among Hindi audiences as it streams on SonyLIV. Having previously captivated viewers in South Indian languages, this broader release highlights the film's growth and popularity. Under the direction of Nandini Reddy, it earned positive reviews during its original theatrical run, showcasing a pivotal moment in the actress's diverse career.",
+    "img": "https://static.toiimg.com/photo/msid-133195462,imgsize-915640.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/maa-inti-bangaaram-hindi-ott-release-where-to-stream-samantha-ruth-prabhus-action-drama/articleshow/133195450.cms",
+    "time": "2026-08-13T00:36:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "J&K Minister Satish Sharma flags issue of ‘defiance, disrespect’ of bureaucrat with CM Omar Abdullah",
+    "desc": "Mr. Sharma, who holds several portfolios including Transport, in a letter to the Chief Minister sought the transfer of J&K Transport Commissioner Vishesh Paul Mahajan, who was posted at the position by the Lieutenant-Governor in December 2024",
+    "img": "https://th-i.thgim.com/public/incoming/wq939t/article71339293.ece/alternates/LANDSCAPE_1200/PTI03_10_2025_000394B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-minister-satish-sharma-flags-issue-of-defiance-disrespect-of-bureaucrat-with-cm-omar-abdullah/article71336609.ece",
+    "time": "2026-08-13T00:36:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Jana Nayagan' BO Day 21: Thalapathy Vijay film holds at Rs 65 lakhs",
+    "desc": "Thalapathy Vijay's film 'Jana Nayagan' maintained its steady theatrical run on Wednesday. The movie recorded Rs 65 lakhs in India net collection on its twenty-first day. Its overall India net collection has now reached Rs 194.35 crore. Worldwide gross collections for the film stand at Rs 319.57 crore. The H Vinoth directorial continues to perform well in its third week.",
+    "img": "https://static.toiimg.com/photo/msid-133195403,imgsize-283565.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-box-office-collection-day-21-thalapathy-vijay-film-holds-at-rs-65-lakhs-india-net-reaches-rs-194-35-cr/articleshow/133195396.cms",
+    "time": "2026-08-13T00:17:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Spider-Man' scores another Rs 100 crore on week 2",
+    "desc": "Brand New Day achieved Rs 100 crore in its second week. The film's India net collection now stands at approximately Rs 438 crore. Discounted tickets boosted weekday sales significantly across major cinema chains. This superhero movie has already become the highest-earning Hollywood release in India. Spider-Man: Brand New Day is now nearing the Rs 550 crore box office milestone.",
+    "img": "https://static.toiimg.com/photo/msid-133195323,imgsize-219547.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/spider-man-brand-new-day-box-office-collection-day-14-tom-holland-starrer-scores-another-rs-100-crore-in-week-2-india-gross-nears-rs-525-crore/articleshow/133195259.cms",
+    "time": "2026-08-13T00:01:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "After 10 defeats &amp; two home clean sweeps, Amit Mishra says 'give Gambhir time'",
+    "desc": "The worst for India under Gambhir's coaching has come in the Tests. In the six Test series that India have played since Gambhir took charge as head coach (one-off Test against Afghanistan not included), they have won just two - against Bangladesh and West Indies at home.",
+    "img": "https://static.toiimg.com/photo/msid-133184370,imgsize-411176.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/after-ten-defeats-in-19-tests-and-wtc-hopes-fading-amit-mishra-says-give-gautam-gambhir-more-time/articleshow/133183331.cms",
+    "time": "2026-08-12T23:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nick Reiner was 'lying in wait' before murdering parents",
+    "desc": "A Los Angeles County grand jury indicted Nick Reiner for his parents' murder. The indictment includes an allegation that he was lying in wait before the attack. This major step toward trial allows prosecutors to bypass a preliminary hearing. Reiner is also seeking unpaid trust funds to aid his defense. The grand jury process ensures secrecy for the ongoing investigation.",
+    "img": "https://static.toiimg.com/photo/msid-133192972,imgsize-519990.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/rob-and-michele-reiner-murder-new-indictment-alleges-nick-reiner-was-lying-in-wait-before-killing-parents/articleshow/133192904.cms",
+    "time": "2026-08-12T21:35:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rape survivors don’t need court approval to terminate pregnancies up to 24 weeks: Madhya Pradesh High Court",
+    "desc": "The High Court cited a verdict its Division Bench in Jabalpur had earlier delivered, clarifying that under the provisions of the Medical Termination of Pregnancy (MTP) Act, 1971, survivors of sexual assault, rape, or incest, with pregnancies up to 24 weeks, who want to undergo an abortion do not require judicial proceedings under Article 226 of the Constitution",
+    "img": "https://th-i.thgim.com/public/incoming/tcndn5/article71338376.ece/alternates/LANDSCAPE_1200/IMG_NCLAT-approves-_G51D_2_1_8TDJ40P5.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/rape-survivors-dont-need-court-approval-to-terminate-pregnancies-up-to-24-weeks-madhya-pradesh-high-court/article71337419.ece",
+    "time": "2026-08-12T21:17:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan javelin thrower Arshad Nadeem to skip Diamond League meet in Lausanne",
+    "desc": "Arshad’s long-time coach, Salman Butt, said the javelin thrower was presently training in Lahore but would soon leave for South Africa, where he will train for a few weeks under his coach, Terseus Liebenberg, and local trainers",
+    "img": "https://th-i.thgim.com/public/incoming/hw3f1z/article71338372.ece/alternates/LANDSCAPE_1200/2026-07-31T192628Z_1982518758_UP1EM7V1I02IK_RTRMADP_3_GAMES-COMMONWEALTH.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/athletics/pakistan-javelin-thrower-arshad-nadeem-to-skip-diamond-league-meet-in-lausanne/article71338359.ece",
+    "time": "2026-08-12T20:55:45.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Babulal Marandi slams visit by police officers to Jharkhand protest site",
     "desc": "Ranchi’s Deputy Commissioner Manjunath Bhajantri, on the other hand, said that he had visited to ask whether the protesters were facing any difficulties or not. He also asked the students to consider a practical, implementable next step",
@@ -63,15 +189,6 @@ const newsData_en = [
     "time": "2026-08-12T18:18:56.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Justice Varma’s withdrawal from probe cannot end statutory inquiry, says Lok Sabha panel",
-    "desc": "The panel says a statutory inquiry cannot depend on the ‘unilateral’ decision of a judge under inquiry, especially after the ‘evidence has substantially come on record’. It says Justice Varma was given a reasonable opportunity to make his case before it",
-    "img": "https://th-i.thgim.com/public/incoming/6j5p0t/article71338218.ece/alternates/LANDSCAPE_1200/vbk-16-9-Justice%20Yashwant%20Varma.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/justice-varmas-withdrawal-from-probe-cannot-end-statutory-inquiry-says-lok-sabha-panel/article71337801.ece",
-    "time": "2026-08-12T17:53:49.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "SL vs IND Tests",
     "desc": "A spate of retirements, injuries and selectorial interventions have left the squad in a state of flux; coach Gambhir and captain Gill will be looking at the two-Test series as a chance to get over transition blues and chase success",
@@ -90,15 +207,6 @@ const newsData_en = [
     "time": "2026-08-12T17:42:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Bellad",
-    "desc": "Deputy Leader of the Opposition in the Legislative Assembly Arvind Bellad on Wednesday says that renovation work of Dr. Mallikarjun Mansur Kala Bhavan in Dharwad will be completed and made available for public use soon",
-    "img": "https://th-i.thgim.com/public/incoming/jjzvez/article71338179.ece/alternates/LANDSCAPE_1200/2699_12_8_2026_19_37_55_1_13HUBLIBELLADINSPECTION.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/mallikarjun-mansur-kala-bhavan-to-be-opened-for-public-soon-bellad/article71337084.ece",
-    "time": "2026-08-12T17:40:30.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "FC Goa crash out of AFC Champions League Two after 0-3 loss",
     "desc": "FC Goa’s AFC Champions League Two campaign ended with a 0-3 loss to Turkmenistan’s FC Arkadag. After a goalless first half, Arkadag scored three times in 17 minutes after the break to seal victory. FC Goa will now compete in the AFC Challenge League, while Arkadag advance to the Champions League Two group stage, with the draw on August 18.",
@@ -106,6 +214,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/fc-goa-crash-out-of-afc-champions-league-two-after-0-3-loss-to-turkmenistans-fc-arkadag/articleshow/133189509.cms",
     "time": "2026-08-12T17:32:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "How sustainable is India’s E20 push?",
+    "desc": "In August, the government told the Lok Sabha that the ethanol blending programme had helped save around ₹2 lakh crore in foreign exchange. However, Opposition leaders, including Rahul Gandhi and Arvind Kejriwal, have launched campaigns against E20, saying it harms vehicles and that the government is forcing it on people",
+    "img": "https://th-i.thgim.com/public/incoming/m20epw/article71338155.ece/alternates/LANDSCAPE_1200/India_Blended_Fuel_32341.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/how-sustainable-is-indias-e20-push/article71338150.ece",
+    "time": "2026-08-12T17:31:51.000Z"
   },
   {
     "cat": "Business",
@@ -289,48 +406,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Khushi gets Delhi HC protection against obscene content",
-    "desc": "Khushi Kapoor secured a Delhi High Court order directing platforms to remove obscene content and unauthorised merchandise using her identity. Justice Jyoti Singh also signalled a John Doe order for interim protection. This comes a day after similar directions for sister Janhvi Kapoor, amid rising personality rights cases at Delhi HC.",
-    "img": "https://static.toiimg.com/photo/msid-133184354,imgsize-231239.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-sister-janhvi-kapoor-khushi-kapoor-gets-delhi-hc-protection-against-obscene-content-unauthorised-merchandise/articleshow/133184345.cms",
-    "time": "2026-08-12T13:25:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Kareena's birthday note for Sara includes pumpkin sabzi and yoghurt",
     "desc": "Kareena Kapoor Khan took to social media to send heartfelt birthday wishes to Sara Ali Khan, sharing a lovely family photo. In her message, she affectionately highlighted Sara's favorite foods. Over the years, Sara has expressed her close bond with Kareena, who has played a nurturing role in the lives of Sara and Ibrahim. Meanwhile, Sara is gearing up for the release of her upcoming film, 'Udta Teer'.",
     "img": "https://static.toiimg.com/photo/msid-133184342,imgsize-256873.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kareena-kapoor-khan-wishes-sara-ali-khans-plate-is-always-full-as-she-pens-birthday-note-pumpkin-sabzi-and-yoghurts/articleshow/133184277.cms",
     "time": "2026-08-12T13:24:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jr NTR undergoes successful shoulder surgery at KIMS",
-    "desc": "Jr NTR has successfully completed his shoulder surgery at KIMS Hospitals as of Wednesday. The procedure, arthroscopic in nature, was executed to facilitate a rapid and thorough recovery. The actor is set to engage in a carefully planned rehabilitation program under the guidance of medical professionals. He anticipates resuming his regular activities in about two to three months, all while preparing for his forthcoming film 'Dragon', directed by Prashanth Neel.",
-    "img": "https://static.toiimg.com/photo/msid-133184244,imgsize-2141487.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/dragon-star-jr-ntr-undergoes-shoulder-successful-surgery-at-kims-hospitals-releases-official-statement-and-recovery-details/articleshow/133184173.cms",
-    "time": "2026-08-12T13:17:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Salman Khan on working with Arab cinema in 7 Dogs",
-    "desc": "Salman Khan opens up about his international film '7 Dogs', calling it a true big-screen experience with grand scale and action. He praises Arab cinema's growing ambition and the film's cultural blend, believing Indian audiences will connect with it. '7 Dogs' releases in India in Hindi and English on August 21, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-133184085,imgsize-155365.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-on-working-with-arab-cinema-in-7-dogs-its-the-kind-of-film-one-wants-to-experience-in-a-theater/articleshow/133184076.cms",
-    "time": "2026-08-12T13:09:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Akshay Kumar never creates unnecessary complications for directors or writers': Anees Bazmee",
-    "desc": "Anees Bazmee expressed his satisfaction with his collaborative relationship with Akshay Kumar, highlighting the actor's versatility and reliability. He commended Akshay's professionalism and his confidence in the creative crew. With anticipation for their next comedy-drama film, Bazmee believes that authentic narratives and unforgettable characters are key to achieving enduring success in cinema.",
-    "img": "https://static.toiimg.com/photo/msid-133184056,imgsize-284490.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-never-creates-unnecessary-complications-for-directors-or-writers-anees-bazmee-on-his-association-with-haiwaan-actor-exclusive/articleshow/133184010.cms",
-    "time": "2026-08-12T13:08:51.000Z"
   },
   {
     "cat": "Sports",
@@ -369,15 +450,6 @@ const newsData_en = [
     "time": "2026-08-12T12:30:01.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ED arrests ex-treasurer of Cong's Chhattisgarh unit in Rs 3,000 cr liquor scam",
-    "desc": "The Enforcement Directorate has apprehended Ramgopal Agarwal, the former treasurer of the Congress party in Chhattisgarh, as part of an investigation into a staggering Rs 3,000 crore liquor scam. Allegations state that cash proceeds were funneled directly to Agarwal during his tenure. Following his arrest, he has been placed in ED custody for a week. The scam allegedly involved a network managing illicit commissions and sales.",
-    "img": "https://static.toiimg.com/photo/msid-133182844,imgsize-48082.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ed-arrests-ex-treasurer-of-congs-chhattisgarh-unit-in-rs-3000-cr-liquor-scam/articleshow/133182659.cms",
-    "time": "2026-08-12T12:26:54.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Hours after Gautam Gambhir's visit to Galle, lawn mower hits the pitch",
     "desc": "Sri Lanka held a closed-door practice session in Galle as India coaches Gautam Gambhir and Sitanshu Kotak briefly inspected the pitch. Groundstaff worked extensively on the surface, which could influence India’s choice between three spinners or three seamers. Rain remains a concern ahead of the Test. India will resume training Thursday after completing an intensive preparation camp in Colombo.",
@@ -394,42 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/land-has-been-allotted-tripura-cm-fulfils-promise-to-cwg-medallist-asmita-dey/articleshow/133180778.cms",
     "time": "2026-08-12T11:48:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When Mumtaz revealed Kapoors were strict about their Bahus",
-    "desc": "Mumtaz recalled her romance with Shammi Kapoor, revealing the Kapoor family's strict rules on bahus working in films led to their split. She also opened up about her marriage to Mayur Madhvani, both their extramarital affairs, her cancer battle, and body image struggles, saying, \"Had it not been for my husband, I'd have been dead.\"",
-    "img": "https://static.toiimg.com/photo/msid-133181070,imgsize-264765.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-mumtaz-revealed-kapoors-were-strict-about-their-bahus-not-working-in-films-while-recalling-her-split-with-shammihe-was-18-years-older-than-me/articleshow/133181027.cms",
-    "time": "2026-08-12T11:28:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When singer Rahul Sipligunj recalled meeting Rihanna at the Oscars",
-    "desc": "Singer Rahul Sipligunj shared the spotlight with global sensation Rihanna at the Oscars, captivating the audience with his performance alongside Kaala Bhairava of the popular Naatu Naatu song. Meanwhile, back in India, an FIR has been filed against him in Visakhapatnam following claims of harassment related to a marriage dispute. In a social media post, Sipligunj acknowledged the allegations, hinting at their potential validity.",
-    "img": "https://static.toiimg.com/photo/msid-133180696,imgsize-946433.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/when-naatu-naatu-singer-rahul-sipligunj-met-rihanna-at-the-oscars-and-revealed-what-she-told-him-we-were-too-shy-to-ask-for-photo/articleshow/133180638.cms",
-    "time": "2026-08-12T11:15:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nayanthara seeks blessings at Siddhivinayak Temple in Mumbai",
-    "desc": "Actress Nayanthara visited Mumbai's Siddhivinayak Temple with her husband and twin sons. She is currently in the city for the shoot of her upcoming film tentatively titled SVC63. This project stars Bollywood superstar Salman Khan and is directed by Vamshi Paidipally. The film's makers have planned a six-week schedule in Mumbai for this large-scale production. Nayanthara also has another major project, the gangster thriller Toxic, with actor Yash.",
-    "img": "https://static.toiimg.com/photo/msid-133180567,imgsize-1020009.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/nayanthara-seeks-blessings-at-siddhivinayak-temple-with-vignesh-shivan-and-twin-sons-amid-mumbai-shoot/articleshow/133180469.cms",
-    "time": "2026-08-12T11:07:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Radhika Pandit celebrates 10 years of engagement with 'Toxic' star Yash",
-    "desc": "Radhika Pandit and Yash recently celebrated ten unforgettable years since their engagement on December 8th, a journey that began on the beloved television series Nanda Gokula. Their marriage in 2016 has blossomed into a beautiful family with two kids. Yash took a moment to thank Radhika for her steadfast support during the challenging filming of his anticipated film, Toxic, directed by Geetu Mohandas, coming to theaters on August 26th.",
-    "img": "https://static.toiimg.com/photo/msid-133180419,imgsize-708745.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/yash-and-radhika-pandit-celebrate-10-years-of-engagement-toxic-stars-wife-says-you-will-always-be-my-favourite-yes/articleshow/133180325.cms",
-    "time": "2026-08-12T11:02:56.000Z"
   },
   {
     "cat": "Business",
@@ -450,15 +486,6 @@ const newsData_en = [
     "time": "2026-08-12T10:53:40.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Shah Rukh Khan's witty response about his voluminous hair at 60 leaves people in splits",
-    "desc": "Bollywood star Shah Rukh Khan's old video talking about his hair has now gone viral again. He humorously deflected the inquiry with a signature witty remark to the audience. This playful response highlighted his ability to entertain even during casual conversations. His hair has been a consistent feature in his iconic film roles over decades. Shah Rukh Khan's charm extends beyond the screen, captivating fans with his quick wit.",
-    "img": "https://static.toiimg.com/photo/msid-133179669,imgsize-290682.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khans-witty-response-about-his-voluminous-hair-at-60-leaves-people-in-splits-throwback-video-goes-viral-bohot-si-cheezein-hai-jo-watch/articleshow/133179440.cms",
-    "time": "2026-08-12T10:41:09.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "BWF World C'ships: Who are the Indian players competing in New Delhi?",
     "desc": "The BWF World Championships 2026 will take place in New Delhi from August 17-23, marking the tournament’s return to India after 17 years. India will compete across all five disciplines, with stars including Lakshya Sen, PV Sindhu, Satwiksairaj Rankireddy and Chirag Shetty. The tournament will feature preliminary rounds through August 20, followed by quarter-finals, semi-finals and finals.",
@@ -466,15 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/bwf-world-championships-2026-who-are-the-indian-players-competing-in-new-delhi/articleshow/133178122.cms",
     "time": "2026-08-12T10:35:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "How difficult is it to become a doctor or an engineer in India?",
-    "desc": "The NEET crisis began with a leaked paper and was followed by the resignation of the education minister. But beneath the political storm lies an older Indian story, familiar from 3 Idiots to Kota coaching rooms, millions chasing a small pool of prized seats, even as thousands of other seats go empty.",
-    "img": "https://static.toiimg.com/photo/msid-133178861,imgsize-340618.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/how-difficult-is-it-to-become-a-doctor-or-engineer-in-india/articleshow/133177741.cms",
-    "time": "2026-08-12T10:33:23.000Z"
   },
   {
     "cat": "Sports",
@@ -504,15 +522,6 @@ const newsData_en = [
     "time": "2026-08-12T09:21:42.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Babar returns to ICC top 10, Masood returns to training ahead of England series",
-    "desc": "Babar Azam, the captain of Pakistan, has made a significant comeback, re-entering the top ten Test rankings. Abdullah Shafique and Sajid Khan have also shown impressive progress in their rankings. Leading the Test batters is Travis Head, while Jasprit Bumrah sits atop the bowlers. In the all-rounders category, Ravindra Jadeja maintains his stronghold. Meanwhile, Shan Masood is back in training as the team gears up for the upcoming England series.",
-    "img": "https://static.toiimg.com/photo/msid-133177465,imgsize-47948.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/babar-azam-returns-to-icc-test-top-10-shan-masood-returns-to-training-ahead-of-england-series/articleshow/133177384.cms",
-    "time": "2026-08-12T09:17:19.000Z"
-  },
-  {
     "cat": "Business",
     "title": "‘Emergence of Indian barrels notable’: Why Russia is buying gasoline from India for the first time",
     "desc": "Kpler data shows the first cargo arrived on August 5, with additional shipments expected to follow. Nayara Energy Ltd, the Indian refiner backed by Russia's largest oil producer Rosneft PJSC, has emerged as a supplier.",
@@ -529,15 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/ethanol-supplies-cross-800-crore-litres-why-indias-next-challenge-is-demand/articleshow/133175353.cms",
     "time": "2026-08-12T08:37:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How SA20 is reshaping South Africa’s talent hunt, from schools to the big stage",
-    "desc": "Chris Morris explains how the SA20’s expanding scouting network, school tournaments and Under-23 pathway are helping unearth South Africa’s next generation of cricketers while giving youngsters early exposure to international stars and the pressure of packed stadiums.",
-    "img": "https://static.toiimg.com/photo/msid-133175008,imgsize-122606.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/sa20/how-sa20-is-reshaping-south-africas-talent-hunt-from-schools-to-the-big-stage/articleshow/133174754.cms",
-    "time": "2026-08-12T07:39:32.000Z"
   },
   {
     "cat": "Business",
@@ -810,15 +810,6 @@ const newsData_en = [
     "time": "2026-08-10T04:31:54.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘Toxic’ trailer: Yash blends melodrama and mayhem in Geetu Mohandas’ violent actioner",
-    "desc": "The film was pushed from its release date of March 19, 2026, due to “escalating military tensions and conflict in West Asia.” Later, it was postponed from June 04, 2026 to August 26, 2026 as the makers were “aligning global distributors”.",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/q0htma/article71321901.ece/alternates/LANDSCAPE_1200/Yash%20in%20double%20role%20in%20%E2%80%98Toxic%20A%20Fairy%20Tale%20for%20Grown-Ups%E2%80%99%20trailer",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/toxic-trailer-yash-blends-melodrama-and-mayhem-in-geetu-mohandas-violent-actioner/article71321107.ece",
-    "time": "2026-08-10T03:22:03.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Teaching AI to speak India",
     "desc": "Artificial intelligence can chat, translate and answer questions but only if it understands your language. At IIT Madras, researchers at AI4Bharat are travelling across India, collecting voices, preserving dialects and teaching AI to understand the country’s incredible linguistic diversity.",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
     "time": "2024-03-12T09:45:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
+    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
+    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
+    "time": "2024-03-11T10:20:19.000Z"
   }
 ];
