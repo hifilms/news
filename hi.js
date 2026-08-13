@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India opt out of FIFA ASEAN Cup to make way for much-awaited Brazil friendly in Kolkata",
+    "desc": "Indian football has made a significant call ahead of a busy international calendar, with the All India Football Federation (AIFF) deciding to withdraw the national team from the inaugural FIFA ASEAN Cup. The move has...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/india-opt-out-of-fifa-asean-cup-to-make-way-for-much-awaited-brazil-friendly-in-kolkata-2026-08-13-1051302",
+    "time": "2026-08-13T15:57:13.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Savita Punia confident India can challenge world's best at Women's Hockey World Cup",
     "desc": "India will enter the FIH Women’s Hockey World Cup with renewed confidence after winning the Nations Cup. Goalkeeper Savita Punia believes that the team has shown it can compete against the strongest sides in international...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/psg-lift-back-to-back-uefa-super-cups-as-desire-doue-s-late-strike-helps-paris-beat-aston-villa-2026-08-13-1051215",
     "time": "2026-08-13T04:59:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Taskin Ahmed's funny dance goes viral after dismissing Cameron Green: WATCH",
-    "desc": "Bangladesh made an early statement in their first Test in Australia since 2003. The Najmul Shanto-led side left the hosts reeling at 74/4 before the opening session ended in Darwin. Bangladesh’s pace attack took advantage...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/taskin-ahmed-s-funny-dance-goes-viral-after-dismissing-cameron-green-watch-2026-08-13-1051210",
-    "time": "2026-08-13T04:25:16.000Z"
   }
 ];

@@ -1,5 +1,95 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "97 MoUs, envisaging over ₹67,542 crore in investment, signed at TVK government’s first investment conclave",
+    "desc": "All these projects are expected to be grounded within six months to one year, says Industries Secretary S. Vijayakumar. Around 25 companies are coming to Tamil Nadu for the first time, points out Deepak Jacob, Managing Director and Chief Executive Officer of Guidance Tamil Nadu",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/gofoox/article71340915.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-13%20at%2016.00.13.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/97-mous-worth-over-67542-crore-signed-at-tvk-governments-first-investment-conclave/article71339833.ece",
+    "time": "2026-08-13T18:26:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "UPSC agrees in Supreme Court to defer Odisha DGP selection meeting",
+    "desc": "A petition against the Odisha DGP selection process alleges that the process was in violation of the Supreme Court’s Prakash Singh judgment; it also alleges that the Odisha government was trying to include a junior officer, who was given promotion only a day back, in the list of candidates",
+    "img": "https://th-i.thgim.com/public/incoming/vaz88i/article71342670.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiGR7FV5KAC.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/odisha/upsc-agrees-in-supreme-court-to-defer-odisha-dgp-selection-meeting/article71342388.ece",
+    "time": "2026-08-13T18:16:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Chief Minister Revanth Reddy promises better life for urban poor",
+    "desc": "Revanth lays stone for Indiramma Towers in Kukatpally, which envisages affordable housing for poor with four 10-storey towers coming up – each tower having 120 houses with 12 flats on each floor; on the issue of disputes over lands under Section 22, he says no one will lose ownership",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telangana/chief-minister-revanth-reddy-promises-better-life-for-urban-poor/article71342285.ece",
+    "time": "2026-08-13T18:05:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Probe at farm in Erode finds several exotic species without proper supporting documents",
+    "desc": "The latest find at the farm has also highlighted gaps in the verification process, particularly in establishing the provenance of animals and ensuring that the documents submitted by owners correspond to the animals actually held at their facilities",
+    "img": "https://th-i.thgim.com/public/incoming/xnwyy4/article71342204.ece/alternates/LANDSCAPE_1200/Video-of-actor-GFDGCM8LB.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/probe-at-farm-in-erode-finds-several-exotic-species-without-proper-supporting-documents/article71341561.ece",
+    "time": "2026-08-13T17:42:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Sukhbir Singh Badal injured in knife attack inside Nanded gurdwara",
+    "desc": "Shiromani Akali Dal president and former Punjab Deputy Chief Minister Sukhbir Singh Badal was injured in a knife attack inside a gurdwara in Maharashtra’s Nanded district. The incident occurred at Gurdwara Mata Sahib Devan Ji Mugat when an attacker allegedly dressed in Nihang attire struck him with a kirpan, causing an injury to his hand.",
+    "img": "https://th-i.thgim.com/public/incoming/3clh9z/article71342548.ece/alternates/LANDSCAPE_1200/_colombia%20.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/sukhbir-singh-badal-injured-in-knife-attack-inside-nanded-gurdwara/article71342565.ece",
+    "time": "2026-08-13T17:04:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kharge alleges caste discrimination over Haldwani ‘shuddhikaran’ incident",
+    "desc": "Congress president and Leader of Opposition in the Rajya Sabha Mallikarjun Kharge raised the issue of the reported ‘shuddhikaran’ (purification ceremony) conducted at Haldwani’s Ramlila Ground after his public rally on August 8. Speaking in Parliament, Kharge said he had only spoken about public issues and questioned whether such actions were compatible with constitutional values, democracy and social justice.",
+    "img": "https://th-i.thgim.com/public/incoming/uvzt9g/article71342545.ece/alternates/LANDSCAPE_1200/Screenshot%202026-08-13%20at%2010.26.11%E2%80%AFPM.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/kharge-alleges-caste-discrimination-over-haldwani-shuddhikaran-incident/article71342546.ece",
+    "time": "2026-08-13T16:56:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Monsoon Session fell victim to Rahul Gandhi’s ‘arrogance, indiscipline’, says BJP",
+    "desc": "Senior BJP MP Ravi Shankar Prasad said at a press conference that the Monsoon Session of Parliament “fell victim to the arrogance, indiscipline, and unruliness of one leader”, referring to the Leader of the Opposition in the Lok Sabha",
+    "img": "https://th-i.thgim.com/public/incoming/x44ofs/article71342516.ece/alternates/LANDSCAPE_1200/Screenshot%202026-08-13%20221512.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/monsoon-session-fell-victim-to-rahul-gandhis-arrogance-indiscipline-says-bjp/article71341989.ece",
+    "time": "2026-08-13T16:47:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ahead of Punjab polls, is Akali Dal set to rejoin NDA?",
+    "desc": "In this week’s Talk Politics, The Hindu’s Nistula Hebbar looks at the possibility of the Shiromani Akali Dal rejoining the BJP-led NDA ahead of the Punjab Assembly elections. What is driving the possible rapprochement, and what could it mean for Punjab’s political landscape?",
+    "img": "https://th-i.thgim.com/public/incoming/37um64/article71342512.ece/alternates/LANDSCAPE_1200/talking%20politics.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/ahead-of-punjab-polls-is-akali-dal-set-to-rejoin-nda-talking-politics/article71342513.ece",
+    "time": "2026-08-13T16:45:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CAG finds 98% shortfall in Green India Mission forest cover targets, red-flags multiple lapses",
+    "desc": "The Comptroller and Auditor General raised concerns about the inadequacies within the Green India Mission program, noting that the goal of increasing forest cover was far from realized over a decade. The audit pointed to significant issues in planning and financial oversight, which severely undermined the mission's objectives. Key vulnerable areas were neglected during afforestation, diminishing efforts to combat climate change.",
+    "img": "https://static.toiimg.com/photo/msid-133218279,imgsize-512470.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cag-finds-98-shortfall-in-green-india-mission-forest-cover-targets-red-flags-multiple-lapses/articleshow/133218279.cms",
+    "time": "2026-08-13T16:08:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sushant was ‘very much disturbed’ after Disha Salian’s death: Shweta",
+    "desc": "Sushant Singh Rajput’s sister Shweta Singh Kirti has recalled how the actor was “very much disturbed” after Disha Salian’s death and repeatedly said that “they will not even spare him.” In a recent interview, Shweta also alleged foul play in Sushant’s death, questioned unanswered aspects of the case and opened up about her grief.",
+    "img": "https://static.toiimg.com/photo/msid-133218305,imgsize-85246.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sushant-singh-rajput-was-very-much-disturbed-after-disha-salians-death-says-sister-shweta-singh-kirti-he-kept-saying-they-will-not-even-spare-him/articleshow/133218271.cms",
+    "time": "2026-08-13T16:01:25.000Z"
+  },
+  {
     "cat": "Business",
     "title": "India’s critical mineral push: Govt plans processing parks in 4 states",
     "desc": "India is set to establish four specialized parks dedicated to critical mineral processing, targeting lithium and nickel first. The initiative, spearheaded by state governments with central technical assistance, is aligned with the National Critical Mineral Mission aimed at bolstering self-reliance. This move is crucial in propelling India’s transition toward green energy, ensuring a sustainable future.",
@@ -7,6 +97,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/indias-critical-mineral-push-govt-plans-processing-parks-in-4-states-lithium-and-nickel-in-focus/articleshow/133217831.cms",
     "time": "2026-08-13T15:48:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Majority of students innocent': BCI reverses ban on NALSAR 2026 batch over CJI invite row",
+    "desc": "The Bar Council of India has revised its previous directive concerning NALSAR graduates. Students from NALSAR's 2026 cohort can now pursue enrollment with state bar councils. This update followed significant backlash against the original ruling, which prevented these students from becoming advocates due to their association with a protest. The regulator emphasized that the majority of the students were uninvolved and innocent.",
+    "img": "https://static.toiimg.com/photo/msid-133217902,imgsize-1065097.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/majority-of-students-innocent-bci-reverses-ban-on-nalsars-2026-batch-over-cji-invite-row/articleshow/133217740.cms",
+    "time": "2026-08-13T15:47:12.000Z"
   },
   {
     "cat": "Business",
@@ -18,24 +117,6 @@ const newsData_en = [
     "time": "2026-08-13T15:39:08.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Har Ghar Tiranga’ rallies held in Ongole, Nellore",
-    "desc": "Ongole Trunk Road was packed with more than 3,000 participants, including students, government staff from various departments and locals, all carrying national flags, while a rally featuring a massive 275-foot national flag was organised near the Collectorate in Nellore",
-    "img": "https://th-i.thgim.com/public/incoming/56lbsi/article71342029.ece/alternates/LANDSCAPE_1200/9604_13_8_2026_16_59_50_3_WHATSAPPIMAGE2026_08_13AT160419.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/har-ghar-tiranga-rallies-held-in-ongole-nellore/article71341539.ece",
-    "time": "2026-08-13T15:29:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "97 MoUs, envisaging over ₹67,542 crore in investment, signed at TVK government’s first investment conclave",
-    "desc": "All these projects are expected to be grounded within six months to one year, says Industries Secretary S. Vijayakumar. Around 25 companies are coming to Tamil Nadu for the first time, points out Deepak Jacob, Managing Director and Chief Executive Officer of Guidance Tamil Nadu",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/gofoox/article71340915.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-13%20at%2016.00.13.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/97-mous-worth-over-67542-crore-signed-at-tvk-governments-first-investment-conclave/article71339833.ece",
-    "time": "2026-08-13T15:29:02.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Rashmika Mandanna says, 'hustling like now seems scary'",
     "desc": "Actress Rashmika Mandanna is taking a break to heal from a hip bone injury, prioritizing rest and quality time with family. This experience has prompted her to reflect on the importance of slowing down amidst life's hustle. She feels grateful for the love and encouragement she's receiving during her recovery. Fans can look forward to her upcoming films, 'Mysaa' and 'Ranabaali'.",
@@ -43,15 +124,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandanna-reflects-on-slowing-down-during-hip-injury-recovery-expresses-gratitude-on-positivity-and-prayers-hustling-like-a-crazy-person-now-seems-scary/articleshow/133217316.cms",
     "time": "2026-08-13T15:15:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CPI(M) accuses Kerala CM V.D. Satheesan of making false claims on MDMA case accused",
-    "desc": "Satheesan said he had met the accused only after he was injured in a police action during the LDF govt. rule. Govindan displays photos of the CM with the accused purportedly taken before the date",
-    "img": "https://th-i.thgim.com/public/incoming/yy3b25/article71342006.ece/alternates/LANDSCAPE_1200/CM-Satheesans-GISGBAT32.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/cpim-accuses-kerala-cm-vd-satheesan-of-making-false-claims-on-mdma-case-accused/article71341572.ece",
-    "time": "2026-08-13T15:13:18.000Z"
   },
   {
     "cat": "Politics",
@@ -333,15 +405,6 @@ const newsData_en = [
     "time": "2026-08-13T10:57:20.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Vijay Sethupathi’s ‘Train’ gets CBFC U/A certificate",
-    "desc": "Vijay Sethupathi's upcoming action thriller film 'Train' has received its censor certificate. The Central Board of Film Certification has cleared the movie with a U/A rating. Producer Kalaippuli S Thanu confirmed the film's release is scheduled for August. The recently released teaser shows a speeding train controlled by dangerous individuals. Vijay Sethupathi's character is seen fighting back alone against the threats.",
-    "img": "https://static.toiimg.com/photo/msid-133209079,imgsize-562880.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/vijay-sethupathi-starrer-train-completes-cbfc-formalities-check-out-details-here-release-date-and-more/articleshow/133208827.cms",
-    "time": "2026-08-13T10:39:37.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "62-year-old assailant had been working at Nanded gurdwara for 2 years as 'sevadar'",
     "desc": "Sukhbir Singh Badal faced an unsettling attack during his visit to Mata Sahib Gurdwara in Nanded, Maharashtra, where an assailant attempted to stab him. Fortunately, security personnel quickly intervened to subdue the attacker, who had been living at the gurdwara for two years. Badal suffered a hand injury and received necessary medical care, while a security inspector was also injured.",
@@ -412,15 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/jab-dekho-pakistan-ke-prem-mein-yeh-mare-rahte-hain-kangana-ranaut-defends-calling-naseeruddin-shah-lomdi-as-she-reacted-to-his-dog-comment/articleshow/133205346.cms",
     "time": "2026-08-13T08:44:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Successful in business, not debate’: Parliament Monsoon Session ends with 12 Bills passed, Lok Sabha productivity at 19%",
-    "desc": "Parliament's Monsoon Session concluded with twelve bills passed by both houses. Lok Sabha productivity reached nineteen percent while Rajya Sabha recorded thirty-nine percent. Opposition parties repeatedly disrupted proceedings and avoided government-offered discussions. The Public Examinations Bill was the only legislation fully discussed in Lok Sabha. Minister Kiren Rijiju expressed disappointment with the quality of parliamentary debates.",
-    "img": "https://static.toiimg.com/photo/msid-133205191,imgsize-33734.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/successful-in-business-not-debate-parliament-monsoon-session-ends-with-12-bills-passed-lok-sabha-productivity-at-19/articleshow/133204913.cms",
-    "time": "2026-08-13T08:35:23.000Z"
   },
   {
     "cat": "Business",
@@ -592,15 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/hardik-pandyas-gujarat-titans-trade-collapses-over-captaincy-demand/articleshow/133196258.cms",
     "time": "2026-08-13T02:50:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Wait for it': KKR posts Hardik Pandya video amid IPL trade buzz",
-    "desc": "Mumbai Indians finished ninth in the 10-team IPL 2026 table, with four wins from 14 matches. Under Hardik Pandya, MI have reached the playoffs only once in three seasons. Pandya also had a difficult individual campaign. He scored 206 runs and took four wickets in 10 matches. The 32-year-old has not played competitive cricket since the end of IPL 2026.",
-    "img": "https://static.toiimg.com/photo/msid-133196323,imgsize-45971.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/wait-for-it-kkr-posts-hardik-pandya-video-amid-ipl-trade-buzz-watch/articleshow/133196177.cms",
-    "time": "2026-08-13T02:46:34.000Z"
   },
   {
     "cat": "Sports",
@@ -846,33 +891,6 @@ const newsData_en = [
     "time": "2026-08-11T14:36:02.000Z"
   },
   {
-    "cat": "World",
-    "title": "India’s Russian oil imports hit 48% as U.S. readies 100% tariffs",
-    "desc": "Russia’s share of India’s crude oil imports hit an all-time high of 48% in June 2026, even as the United States moves closer to imposing tariffs of up to 100% on countries buying Russian oil and gas. India imported 8.7 million metric tonnes of Russian crude in June, while overall crude imports fell sharply. The UAE also recorded a historic 17.5% share, meaning Russia and the UAE together accounted for nearly two-thirds of India’s oil imports.",
-    "img": "https://th-i.thgim.com/public/news/national/85hk7i/article71332466.ece/alternates/LANDSCAPE_1200/Chamoli%20flash%20flood.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-indias-russian-oil-imports-hit-48-as-us-readies-100-tariffs/article71332467.ece",
-    "time": "2026-08-11T13:10:30.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "UPI and the cost of policy reversal",
-    "desc": "The government’s proposal to allow an MDR of 0.25–0.5% on UPI transactions above ₹2,000 reverses a decade-long policy; taxing the payment rail could weaken incentives for banks and fintechs to invest in UPI while undermining its role in financial inclusion, formalisation and wider digital adoption",
-    "img": "https://th-i.thgim.com/public/incoming/2er02t/article71329684.ece/alternates/LANDSCAPE_1200/DSC_5839.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/upi-and-the-cost-of-policy-reversal/article71328209.ece",
-    "time": "2026-08-11T09:35:43.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "report",
-    "desc": "After boarding the legacy Air Force One jet in Ankara in view of television cameras, Donald Trump was secretly shuttled minutes later to a smaller plane — an Air Force C-32A — via an airport catering truck typically used to load meals and other supplies",
-    "img": "https://th-i.thgim.com/public/incoming/6igql6/article71331477.ece/alternates/LANDSCAPE_1200/Turkey_NATO_Summit_Trump_67111.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-secretly-flew-out-of-turkiye-after-nato-summit-because-of-iran-threat-report/article71331472.ece",
-    "time": "2026-08-11T09:10:02.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Meta will soon face another high-stakes trial in U.S.",
     "desc": "The federal trial, one of the most consequential among a myriad of legal proceedings targeting social networks in the United States, will begin on August 12, 2026 with jury selection at a federal court in Oakland",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/meta-will-soon-face-another-high-stakes-trial-in-us/article71326861.ece",
     "time": "2026-08-10T04:31:54.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Teaching AI to speak India",
-    "desc": "Artificial intelligence can chat, translate and answer questions but only if it understands your language. At IIT Madras, researchers at AI4Bharat are travelling across India, collecting voices, preserving dialects and teaching AI to understand the country’s incredible linguistic diversity.",
-    "img": "https://th-i.thgim.com/public/incoming/y693sa/article71280832.ece/alternates/LANDSCAPE_1200/iStock-1066071372.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/internet/teaching-ai-to-speak-india/article71280380.ece",
-    "time": "2026-08-09T00:15:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Karnataka explores partnership with Anthropic for governance, skilling and deep-tech growth",
-    "desc": "CM D.K. Shivakumar sought Anthropic’s expertise on how AI could help reduce fraud in government systems and improve the effectiveness, security and confidentiality of setting question papers for examinations conducted by various government agencies and educational institutions.",
-    "img": "https://th-i.thgim.com/public/news/national/karnataka/qs12uq/article71313384.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-06%20at%2017.14.14.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-explores-partnership-with-anthropic-for-governance-skilling-and-deep-tech-growth/article71312525.ece",
-    "time": "2026-08-08T19:02:03.000Z"
   }
 ];
