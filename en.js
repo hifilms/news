@@ -1,12 +1,183 @@
 const newsData_en = [
   {
     "cat": "Business",
+    "title": "India’s critical mineral push: Govt plans processing parks in 4 states",
+    "desc": "India is set to establish four specialized parks dedicated to critical mineral processing, targeting lithium and nickel first. The initiative, spearheaded by state governments with central technical assistance, is aligned with the National Critical Mineral Mission aimed at bolstering self-reliance. This move is crucial in propelling India’s transition toward green energy, ensuring a sustainable future.",
+    "img": "https://static.toiimg.com/photo/msid-133217913,imgsize-171766.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-critical-mineral-push-govt-plans-processing-parks-in-4-states-lithium-and-nickel-in-focus/articleshow/133217831.cms",
+    "time": "2026-08-13T15:48:14.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "US wholesale inflation slows to 4.7% in July: What comes next for Fed, consumers",
+    "desc": "In July, wholesale prices in the United States exhibited a cooling trend, providing a much-needed breath of fresh air. The decline in energy costs significantly reduced producer price pressures throughout the month. While consumer inflation also saw a slight dip, financial constraints persist for many households. Notably, wholesale inflation excluding food and energy showed improvement year-on-year.",
+    "img": "https://static.toiimg.com/photo/msid-133217749,imgsize-205128.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-wholesale-inflation-slows-to-4-7-in-july-what-comes-next-for-fed-consumers/articleshow/133217375.cms",
+    "time": "2026-08-13T15:39:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Har Ghar Tiranga’ rallies held in Ongole, Nellore",
+    "desc": "Ongole Trunk Road was packed with more than 3,000 participants, including students, government staff from various departments and locals, all carrying national flags, while a rally featuring a massive 275-foot national flag was organised near the Collectorate in Nellore",
+    "img": "https://th-i.thgim.com/public/incoming/56lbsi/article71342029.ece/alternates/LANDSCAPE_1200/9604_13_8_2026_16_59_50_3_WHATSAPPIMAGE2026_08_13AT160419.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/har-ghar-tiranga-rallies-held-in-ongole-nellore/article71341539.ece",
+    "time": "2026-08-13T15:29:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "97 MoUs, envisaging over ₹67,542 crore in investment, signed at TVK government’s first investment conclave",
+    "desc": "All these projects are expected to be grounded within six months to one year, says Industries Secretary S. Vijayakumar. Around 25 companies are coming to Tamil Nadu for the first time, points out Deepak Jacob, Managing Director and Chief Executive Officer of Guidance Tamil Nadu",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/gofoox/article71340915.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-13%20at%2016.00.13.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/97-mous-worth-over-67542-crore-signed-at-tvk-governments-first-investment-conclave/article71339833.ece",
+    "time": "2026-08-13T15:29:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rashmika Mandanna says, 'hustling like now seems scary'",
+    "desc": "Actress Rashmika Mandanna is taking a break to heal from a hip bone injury, prioritizing rest and quality time with family. This experience has prompted her to reflect on the importance of slowing down amidst life's hustle. She feels grateful for the love and encouragement she's receiving during her recovery. Fans can look forward to her upcoming films, 'Mysaa' and 'Ranabaali'.",
+    "img": "https://static.toiimg.com/photo/msid-133217386,imgsize-869728.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandanna-reflects-on-slowing-down-during-hip-injury-recovery-expresses-gratitude-on-positivity-and-prayers-hustling-like-a-crazy-person-now-seems-scary/articleshow/133217316.cms",
+    "time": "2026-08-13T15:15:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CPI(M) accuses Kerala CM V.D. Satheesan of making false claims on MDMA case accused",
+    "desc": "Satheesan said he had met the accused only after he was injured in a police action during the LDF govt. rule. Govindan displays photos of the CM with the accused purportedly taken before the date",
+    "img": "https://th-i.thgim.com/public/incoming/yy3b25/article71342006.ece/alternates/LANDSCAPE_1200/CM-Satheesans-GISGBAT32.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/cpim-accuses-kerala-cm-vd-satheesan-of-making-false-claims-on-mdma-case-accused/article71341572.ece",
+    "time": "2026-08-13T15:13:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'No clear information': Nepal ‘loses’ papers of centuries-old treaty defining borders with India",
+    "desc": "Nepal's foreign minister announced that the country might have misplaced the original Sugauli Treaty papers, which played a critical role in establishing its borders with British India after the Anglo-Nepalese War. This comes at a time when border disputes with India have intensified. The government plans to systematically assess numerous international agreements, seeking to amend or renew any that are no longer pertinent.",
+    "img": "https://static.toiimg.com/photo/msid-133216592,imgsize-53512.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-clear-information-nepal-loses-papers-of-centuries-old-treaty-defining-borders-with-india/articleshow/133215575.cms",
+    "time": "2026-08-13T14:58:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "How parties are vying for Dalit votes amid Mayawati’s shrinking base",
+    "desc": "A notable evolution in Dalit politics is unfolding in Uttar Pradesh, marked by a decline in the Bahujan Samaj Party's dominance. The Bharatiya Janata Party and the Samajwadi Party are actively courting Dalit voters ahead of elections, and the Congress party is also working to regain its historic connections. Meanwhile, Chandrashekhar Azad is establishing a distinct political identity, foreshadowing a significant shift in the Dalit electoral landscape.",
+    "img": "https://static.toiimg.com/photo/msid-133216153,imgsize-1106761.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/2027-up-assembly-elections-how-parties-are-vying-for-dalit-votes-amid-mayawatis-shrinking-base/articleshow/133213851.cms",
+    "time": "2026-08-13T14:35:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Delhi HC asks how far a famous family name’s reputation extends",
+    "desc": "Aaradhya Bachchan filed a Delhi High Court case against fake online information. The court is examining if family reputation can be treated like a trademark. It will also consider if fake news violates intellectual property rights. The case explores defamation within intellectual property law frameworks. The matter will be heard again on September fifteenth.",
+    "img": "https://static.toiimg.com/photo/msid-133215735,imgsize-241366.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aaradhya-bachchan-case-delhi-hc-asks-how-far-a-famous-family-names-reputation-extends-across-generations-abhishek-bachchan-filed-suit-to-protect-her-personality-rights-in-2023/articleshow/133215398.cms",
+    "time": "2026-08-13T14:24:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'No NALSAR 2026 graduate will be enrolled as advocate': BCI amid CJI convocation invite row",
+    "desc": "The Bar Council of India has put a pause on NALSAR's enrollments for the 2026 law graduates. This decision comes in the wake of an alleged smear campaign against Chief Justice Surya Kant's presence at the convocation. The Council demands a comprehensive report from NALSAR within three days, requiring identification of those behind this campaign. The situation will be reviewed on August 19, 2026.",
+    "img": "https://static.toiimg.com/photo/msid-133215966,imgsize-1065097.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-nalsar-2026-graduate-will-be-enrolled-as-advocate-bci-amid-cji-convocation-invite-row/articleshow/133215636.cms",
+    "time": "2026-08-13T14:22:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'I thought I'd die': Manisha on the scary space she was in when diagnosed with Stage 4 cancer",
+    "desc": "Manisha Koirala opens up about her profound fear and feelings of isolation following her stage IV ovarian cancer diagnosis. After undergoing treatment in New York, she celebrated being cancer-free. Reflecting on her journey, Koirala emphasized how her illness heightened her awareness of the solitude patients face. Now, she prioritizes authentic relationships, connection to nature, and cherishing life's moments.",
+    "img": "https://static.toiimg.com/photo/msid-133215162,imgsize-271251.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-thought-id-die-says-manisha-koirala-as-she-recalls-the-night-she-found-out-about-having-stage-iv-ovarian-cancer-scariest-darkest-space-very-lonely/articleshow/133214870.cms",
+    "time": "2026-08-13T14:06:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sunny Deol on his partition roles in Batwara 1947 and Gadar",
+    "desc": "Ahead of \"Batwara 1947\" (August 14), Sunny Deol distinguishes his character Sikandar Mirza from Tara Singh in \"Gadar,\" calling this a family story. He recalled Partition-era tales of his family helping others. The film reunites him with director Rajkumar Santoshi after 30 years and co-star Preity Zinta, while \"Gadar 3\" remains in development.",
+    "img": "https://static.toiimg.com/photo/msid-133214510,imgsize-309187.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/things-were-so-erratic-there-was-just-disbelief-all-over-sunny-deol-on-his-partition-roles-in-batwara-1947-and-gadar/articleshow/133214494.cms",
+    "time": "2026-08-13T13:52:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "From erotic fantasy to Indian identity, a famous Italian calendar finds a new story",
+    "desc": "The 2027 edition of the Pirelli Calendar pays homage to India, showcasing a stunning lineup of local talent. Initiated by renowned Norwegian photographer Sølve Sundsbø alongside the late Raghu Rai, the project has been lovingly completed by his daughter Avani Rai. This iteration embraces outdoor settings, featuring both celebrated icons and skilled local artisans, reflecting a profound evolution from sensual imagery to the celebration of cultural identity and diverse narratives.",
+    "img": "https://static.toiimg.com/photo/msid-133213805,imgsize-221376.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/from-erotic-fantasy-to-indian-identity-a-famous-italian-calendar-finds-a-new-story/articleshow/133213615.cms",
+    "time": "2026-08-13T13:42:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Real 'Sena' battle: 'Sin' of defection should not be rewarded, Uddhav camp tells SC",
+    "desc": "Uddhav Thackeray's Shiv Sena faction argued in the Supreme Court today. They stated constitutional provisions should not encourage anti-defection law violations. The court heard arguments on the party symbol dispute and faction recognition. Arguments focused on distinguishing splits from disqualification proceedings. The hearing continues on August 18, with the court considering the nature of a party split.",
+    "img": "https://static.toiimg.com/photo/msid-133213692,imgsize-68910.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/real-sena-battle-sin-of-defection-should-not-be-rewarded-uddhav-camp-tells-sc/articleshow/133213579.cms",
+    "time": "2026-08-13T13:32:09.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Russia holding 'productive' talks with countries including India for cooperation in Arctic region",
+    "desc": "The Arctic region is considered to be above 66 degrees north latitude, which, together with the Antarctic region, represents nearly 90% of the ice sheet of the planet and stores 70% of fresh water source",
+    "img": "https://th-i.thgim.com/public/incoming/p4t1gr/article71341317.ece/alternates/LANDSCAPE_1200/2026-08-13T083737Z_372622521_RC2KXMAI29GJ_RTRMADP_3_RUSSIA-JAPAN-KURIL.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/russia-holding-productive-talks-with-countries-including-india-for-cooperation-in-arctic-region/article71341174.ece",
+    "time": "2026-08-13T13:28:00.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "India has “reassuring” talks with U.S., including on Bill that proposes 100% tariffs",
     "desc": "The U.S. Senate earlier this week passed the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, which proposes tariffs of up to 100% on countries that import oil from Russia in large quantities. This would like include India, if it become law.",
     "img": "https://th-i.thgim.com/public/incoming/achtat/article71341048.ece/alternates/LANDSCAPE_1200/India-secures-lGTUGA18LS.4.jpg.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/india-has-reassuring-talks-with-us-including-on-bill-that-proposes-100-tariffs/article71341005.ece",
-    "time": "2026-08-13T12:47:46.000Z"
+    "time": "2026-08-13T13:27:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Batwara 1947' FIRST REVIEWS out: Sunny Deol holds strong impact in this story of human spirit",
+    "desc": "The highly anticipated film 'Batwara 1947', featuring Sunny Deol and Preity Zinta, is set to premiere on August 15, 2026. Director Ramesh Taurani lauds the film for its poignant narrative capturing the essence of the Partition era. He praised Sunny Deol’s powerful performance, while also recognizing Preity Zinta and Shabana Azmi for their remarkable and genuine portrayals, highlighting themes of bravery and kindness amidst historical turmoil.",
+    "img": "https://static.toiimg.com/photo/msid-133213604,imgsize-350680.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/batwara-1947-first-reviews-out-sunny-deols-performance-holds-strong-impact-preity-zinta-is-a-joy-to-watch-onscreen-in-this-story-of-resilience-and-human-spirit/articleshow/133213516.cms",
+    "time": "2026-08-13T13:14:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "No prize money, so what do Badminton champions actually get?",
+    "desc": "Set against the backdrop of New Delhi, the 2026 BWF World Championships will unfold from August 17 to 23. Unlike typical competitions, this prestigious tournament will not feature cash prizes but rather offer players valuable ranking points and the opportunity to represent their nations with pride. These ranking points are essential for future competitions, including Olympic qualifications, while other BWF World Tour tournaments do incentivize top athletes with monetary rewards.",
+    "img": "https://static.toiimg.com/photo/msid-133213259,imgsize-121060.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/bwf-world-championships-2026-no-prize-money-so-what-do-badminton-champions-actually-get/articleshow/133212720.cms",
+    "time": "2026-08-13T13:05:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jackie Shroff kneels to honour Vyjayanthimala",
+    "desc": "Jackie Shroff touched veteran actress Vyjayanthimala's feet in a viral video marking her 93rd birthday, calling her \"one of his favourites.\" Fans praised his humility and her graceful presence. Vyjayanthimala, cinema's first female superstar, dancer, and former parliamentarian, remains a beloved icon, with this video also putting last year's false health rumours to rest.",
+    "img": "https://static.toiimg.com/photo/msid-133213258,imgsize-174217.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/jackie-shroff-kneels-down-touches-and-kisses-vyjayanthimalas-feet-as-she-turns-93-calls-the-jewel-thief-actress-his-favourite/articleshow/133213075.cms",
+    "time": "2026-08-13T13:00:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'PM Modi does not sleep at night, Shah disappeared': Rahul mocks BJP, says India expressing itself",
+    "desc": "Rahul Gandhi firmly asserted that the Congress party's primary function is to enhance the expression of India’s citizens. He articulated concerns about the government's tendencies to silence dissent and manipulate information. Furthermore, Gandhi lambasted the government’s foreign policy strategies and the failure of the RSS to comprehend the complexities of contemporary Indian society.",
+    "img": "https://static.toiimg.com/photo/msid-133212729,imgsize-64776.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pm-modi-does-not-sleep-at-night-shah-disappeared-rahul-mocks-bjp-says-india-expressing-itself/articleshow/133212457.cms",
+    "time": "2026-08-13T12:57:50.000Z"
   },
   {
     "cat": "Politics",
@@ -28,15 +199,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Seven-judge Supreme Court Bench to hear if legislative privilege overrides free speech",
-    "desc": "A three-judge Bench headed by Chief Justice of India Surya Kant passed the order in a case travelling back to April 2003; The Hindu had published an editorial criticising then Tamil Nadu Chief Minister Jayalalithaa.",
-    "img": "https://th-i.thgim.com/public/incoming/11c6m2/article71340565.ece/alternates/LANDSCAPE_1200/12_UNNAO_RAPE_CASE_HEARING_SUPREME_COURT_29_12_DELHI.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/seven-judge-bench-to-hear-if-legislative-privilege-overrides-free-speech/article71340392.ece",
-    "time": "2026-08-13T12:22:47.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Bengal govt strips BJP MP Ananta Maharaj of Banga Bibhushan award over 'insulting' remarks against Netaji",
     "desc": "In a significant move, the West Bengal government has rescinded the Banga Bibhushan award granted to Ananta Maharaj. This decision arose from his controversial comments questioning Netaji Subhas Chandra Bose’s leadership and the establishment of the Azad Hind Fauj. The remarks have sparked strong backlash from various political factions and groups, underscoring the deep emotions tied to the legacy of this revered freedom fighter.",
     "img": "https://static.toiimg.com/photo/msid-133211786,imgsize-384684.cms",
@@ -52,6 +214,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/prahaar-the-untold-story-of-ujjwal-nikam-new-release-date-rajkummar-rao-and-wamiqa-gabbi-starrer-to-arrive-on-october-2026/articleshow/133211272.cms",
     "time": "2026-08-13T12:07:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Pooja reveals she has no plans to marry Maneck Contractor despite being engaged for 8 years",
+    "desc": "After eight years, Pooja Bedi prefers to stay engaged to Maneck Contractor, viewing this commitment as sufficient without the need for a legal marriage. For her, engagement eliminates the need for formalities, simplifying financial obligations, especially with children from prior marriages. Their aspirations for life together don't conform to conventional marriage expectations, but the strong love from their families cements their relationship as robust as any legal commitment.",
+    "img": "https://static.toiimg.com/photo/msid-133211368,imgsize-387583.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pooja-bedi-reveals-she-has-no-plans-to-marry-maneck-contractor-despite-being-engaged-for-8-years-after-the-commitment-is-there-all-youre-really-doing-is-signing-a-piece-of-paper/articleshow/133210924.cms",
+    "time": "2026-08-13T12:03:24.000Z"
   },
   {
     "cat": "Entertainment",
@@ -81,15 +252,6 @@ const newsData_en = [
     "time": "2026-08-13T11:53:29.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Agitating students accuse govt. of withholding health details of Devendra Mahto to weaken stir",
-    "desc": "Mahto is undergoing treatment at the Sadar Hospital, and he had written to the Ranchi civil surgeon on Wednesday, August 13 night, seeking permission to return to the protest site at Jaipal Singh Munda Stadium.",
-    "img": "https://th-i.thgim.com/public/incoming/65e6bk/article71340177.ece/alternates/LANDSCAPE_1200/PTI08_11_2026_000423B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-protest-agitating-students-accuse-govt-of-withholding-health-details-of-devendra-mahto-to-weaken-stir/article71340147.ece",
-    "time": "2026-08-13T11:51:26.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Sonu Nigam buys commercial office space in Andheri for Rs 1 crore",
     "desc": "Renowned singer Sonu Nigam has made a strategic investment by acquiring a commercial office in Andheri West for a hefty sum of one crore rupees. This latest addition enhances his already impressive real estate portfolio in Mumbai. Previously, he successfully sold land parcels in Karjat, while his father also made a significant investment on Madh Island.",
@@ -108,15 +270,6 @@ const newsData_en = [
     "time": "2026-08-13T11:34:38.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Himanta appeals for peace along Assam-Arunachal border, says boundaries can never divide hearts",
-    "desc": "A fresh clash erupted between protestors from Assam and Arunachal Pradesh in Dhemaji district, forcing the police from the neighbouring State to fire in the air to control the mob even as the indefinite economic blockade against the Himalayan State entered its second day.",
-    "img": "https://th-i.thgim.com/public/incoming/n43viv/article71340475.ece/alternates/LANDSCAPE_1200/PTI08_12_2026_000134B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/himanta-appeals-for-peace-along-assam-arunachal-border-says-boundaries-can-never-divide-hearts/article71340290.ece",
-    "time": "2026-08-13T11:29:22.000Z"
-  },
-  {
     "cat": "Business",
     "title": "What can get you hired &amp; at a premium",
     "desc": "Experts believe that the era of broad-based recruitment and hefty pay hikes in the Indian IT sector is over. Companies are now tightening hiring at the entry level, while at the same time competing to get experienced professionals in select areas.",
@@ -133,24 +286,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/jr-ntr-discharged-from-hospital-post-successful-shoulder-surgery-begins-structured-rehabilitation-for-complete-recovery/articleshow/133209825.cms",
     "time": "2026-08-13T11:12:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "possible Vigilance inquiry referral hinges on confirmation of involvement of government funds and resultant loss to the exchequer",
-    "desc": "Chief Minister V.D. Satheesan has ordered a multi-agency inquiry headed by the Finance department into the previous LDF government’s failed and “costly” bid to hold the Argentine football team’s exhibition match in Kochi in 2025 as a precursor to a likely anti-corruption inquiry referral",
-    "img": "https://th-i.thgim.com/public/incoming/qli6vz/article71340689.ece/alternates/LANDSCAPE_1200/Messi-visit-rowG5OGCMDL4.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/messi-visit-row-in-kerala-possible-vigilance-inquiry-referral-hinges-on-confirmation-of-involvement-of-government-funds-and-resultant-loss-to-the-exchequer/article71340414.ece",
-    "time": "2026-08-13T11:11:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Naidu opens Seed Access Road second phase, two steel bridges at Amaravati",
-    "desc": "The ₹1,519-crore road runs from Rayapudi through Venkatapalem, Penumaka and Undavalli, and its third phase will link the capital region to NH-16; a 110-metre bridge crosses the Buckingham Canal and a 280-metre span the Kondaveeti Vagu",
-    "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/5wnh1b/article71340685.ece/alternates/LANDSCAPE_1200/Naidu%20uncle%20bridge.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-opens-seed-access-road-second-phase-two-steel-bridges-at-amaravati/article71340528.ece",
-    "time": "2026-08-13T11:09:49.000Z"
   },
   {
     "cat": "Politics",
@@ -208,7 +343,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "62-year-old assailant had been living at Nanded gurdwara for 2 years",
+    "title": "62-year-old assailant had been working at Nanded gurdwara for 2 years as 'sevadar'",
     "desc": "Sukhbir Singh Badal faced an unsettling attack during his visit to Mata Sahib Gurdwara in Nanded, Maharashtra, where an assailant attempted to stab him. Fortunately, security personnel quickly intervened to subdue the attacker, who had been living at the gurdwara for two years. Badal suffered a hand injury and received necessary medical care, while a security inspector was also injured.",
     "img": "https://static.toiimg.com/photo/msid-133208797,imgsize-1335053.cms",
     "src": "indiatimes.com",
@@ -223,24 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/stop-being-a-princess-australian-crowd-targets-steve-smith-over-sight-screen-delay-watch/articleshow/133208284.cms",
     "time": "2026-08-13T10:33:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Harrison Ford",
-    "desc": "For Harrison Ford, the journey of growth is never-ending. He recognizes his acting talents but shies away from the title of master, ensuring he remains humble amid accolades. His formative years were marked by battling shyness while firmly pursuing acting. With a career that has thrived for decades, Ford's filmography boasts numerous successes that continue to resonate with audiences.",
-    "img": "https://static.toiimg.com/photo/msid-133207917,imgsize-41960.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-harrison-ford-i-dont-think-ive-mastered-anything-im-still-wrestling-with-the-same-problems-as-i-always-did-all-about-the-indiana-jones-actors-humble-words-of-wisdom-on-life-long-growth-and-self-improvement/articleshow/133207853.cms",
-    "time": "2026-08-13T10:30:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Orthodox-Jacobite Church dispute: Kerala HC urges resolution through civil court before deciding on police protection",
-    "desc": "Division Bench closes appeals filed by members of Jacobite faction relating to management of six churches in Palakkad, Ernakulam and Kollam. High Court expresses hope that measures proposed by the State will ‘ensure lasting peace’ in the Church dispute",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/vrx40f/article71340521.ece/alternates/LANDSCAPE_1200/Kerala%20HC%20%20%20-%20R%20K%20Nithin.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/orthodox-jacobite-church-dispute-kerala-hc-urges-resolution-through-civil-court-before-deciding-on-police-protection/article71340321.ece",
-    "time": "2026-08-13T10:20:57.000Z"
   },
   {
     "cat": "Business",
@@ -270,24 +387,6 @@ const newsData_en = [
     "time": "2026-08-13T09:52:48.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Suriya's 'Vishwanath And Sons' clocks Rs 200 crore in pre-release business",
-    "desc": "Suriya's latest film, 'Vishwanath And Sons', has made impressive strides in pre-release revenue. Advance ticket sales in Tamil Nadu kicked off at a steady pace and hopes are running high. The film's box office performance is crucial for its success, with non-theatrical rights playing a key role in its overall value. Ultimately, the audience's reaction and positive buzz will dictate its fate.",
-    "img": "https://static.toiimg.com/photo/msid-133207167,imgsize-149659.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vishwanath-and-sons-clocks-rs-200-crore-in-pre-release-business-suriya-starrer-surpasses-rs-7-crore-in-advance-bookings/articleshow/133207139.cms",
-    "time": "2026-08-13T09:44:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "What does a ‘River Board’ mean for India?",
-    "desc": "Cauvery Water Management Authority (CWMA) chairperson called for the establishment of a river board that will “own, operate, manage, and regulate” reservoirs in the entire Cauvery basin; experience of intra-State river boards are not encouraging",
-    "img": "https://th-i.thgim.com/public/incoming/rnziat/article71340401.ece/alternates/LANDSCAPE_1200/IMG_1552.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/what-does-a-river-board-mean-for-india-explained/article71340361.ece",
-    "time": "2026-08-13T09:43:57.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Sorry for the pain': Australian cricketer breaks silence on cheating allegations",
     "desc": "Australian cricket vice-captain Ashleigh Gardner has openly shared her emotions regarding the recent end of her relationship with Monica Wright. In her statement, she offered sincere apologies for the distress caused and confirmed that Cricket Australia fully supports her ongoing role. Gardner reflected with gratitude on their time together and conveyed her best wishes for Wright, requesting space for both of them to navigate this situation privately.",
@@ -295,24 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/off-the-field/sorry-for-the-pain-australian-cricketer-breaks-silence-on-cheating-allegations-involving-estranged-wife/articleshow/133206813.cms",
     "time": "2026-08-13T09:34:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Withdraw circulars restricting workers from speaking to media, CITU tells Vizag Steel Plant",
-    "desc": "Ch. Narasinga Rao said the circulars of August 10 were aimed at suppressing workers’ voices; the union also sought the reinstatement of contract workers removed from the plant and ₹1 crore for each family bereaved in the June 8 accident",
-    "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/pti211/article71340368.ece/alternates/LANDSCAPE_1200/Unkuls.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/withdraw-circulars-restricting-workers-from-speaking-to-media-citu-tells-vizag-steel-plant/article71339876.ece",
-    "time": "2026-08-13T09:26:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anil and Nana in talks to reunite as Uday-Majnu for Nadiadwala's film",
-    "desc": "Anil Kapoor and Nana Patekar are in talks to reunite as Uday-Majnu for Firoz Nadiadwala's kid-friendly zombie comedy, directed by Ahmed Khan and starring Tiger Shroff. The film begins shooting in early 2027. Kapoor was last seen in \"War 2,\" while Patekar recently appeared in \"O'Romeo,\" based on Hussain Zaidi's book.",
-    "img": "https://static.toiimg.com/photo/msid-133206488,imgsize-299650.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/welcome-duo-anil-kapoor-and-nana-patekar-in-talks-to-reunite-as-uday-majnu-for-firoz-nadiadwalas-zombie-comedy-with-tiger-shroff/articleshow/133206350.cms",
-    "time": "2026-08-13T09:09:23.000Z"
   },
   {
     "cat": "Entertainment",
@@ -333,24 +414,6 @@ const newsData_en = [
     "time": "2026-08-13T08:44:30.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Whole atmosphere...'",
-    "desc": "Reflecting on the dynamic 1990s Bollywood scene, Anu Malik shared memories of Kumar Sanu's distinct charisma in the recording studio. He admired Sanu's method of recording tracks based solely on the composer's instincts, without prior listening. Malik highlighted the enduring legacy of Sanu's voice in the music landscape and expressed a strong wish to work together once more, honoring their shared history filled with iconic, chart-topping songs.",
-    "img": "https://static.toiimg.com/photo/msid-133205486,imgsize-585090.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/his-voice-will-always-live-on-anu-malik-recalls-how-the-whole-atmosphere-would-change-because-of-kumar-sanus-charm-in-the-recording-studio-during-the-90s-era/articleshow/133205440.cms",
-    "time": "2026-08-13T08:43:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Guru Randhawa embraces 'Sisu Mindset' amid 'Fine Shyt' row",
-    "desc": "Facing trolling with his new release 'Fine Shyt', singer Guru Randhawa turned to the Finnish 'Sisu mindset' as a source of strength to tackle criticism. He also shared insights about his track 'SIX', which merges hip-hop with Punjabi beats, along with mentioning his successful partnership with Kiran Bajwa. The music video for 'Fine Shyt' launched on August 6, adding to his repertoire.",
-    "img": "https://static.toiimg.com/photo/msid-133204152,imgsize-509718.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/guru-randhawa-takes-on-fine-shyt-trolls-with-finnish-sisu-mindset-and-declares-rest-of-the-years-are-mine-im-in-my-own-lane/articleshow/133204069.cms",
-    "time": "2026-08-13T08:36:40.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "‘Successful in business, not debate’: Parliament Monsoon Session ends with 12 Bills passed, Lok Sabha productivity at 19%",
     "desc": "Parliament's Monsoon Session concluded with twelve bills passed by both houses. Lok Sabha productivity reached nineteen percent while Rajya Sabha recorded thirty-nine percent. Opposition parties repeatedly disrupted proceedings and avoided government-offered discussions. The Public Examinations Bill was the only legislation fully discussed in Lok Sabha. Minister Kiren Rijiju expressed disappointment with the quality of parliamentary debates.",
@@ -358,15 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/successful-in-business-not-debate-parliament-monsoon-session-ends-with-12-bills-passed-lok-sabha-productivity-at-19/articleshow/133204913.cms",
     "time": "2026-08-13T08:35:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Safed Sagar' actor Siddharth's Rs 70 crore net worth revealed",
-    "desc": "With a career spanning over twenty years, actor Siddharth has made his mark in various film industries, amassing an estimated net worth of seventy crore rupees through his work in films and endorsements. Renowned for selecting diverse roles and not adhering to a crowded release calendar, Siddharth's notable films include 'Boys,' 'Bommarillu,' and the soon-to-be-released 'Safed Sagar,' showcasing his adaptability in the ever-changing cinematic world.",
-    "img": "https://static.toiimg.com/photo/msid-133205121,imgsize-136701.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/siddharths-net-worth-revealed-a-look-at-safed-sagar-actors-rs-70-crore-fortune/articleshow/133205100.cms",
-    "time": "2026-08-13T08:22:23.000Z"
   },
   {
     "cat": "Business",
@@ -378,15 +432,6 @@ const newsData_en = [
     "time": "2026-08-13T08:06:15.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Barbie 2' stalled over Margot Robbie, Ryan Gosling's fee hike?",
-    "desc": "Barbie sequel negotiations have reportedly stalled after multiple offers were rejected. The creative team seeks significant pay increases and upfront compensation for the film. Ryan Gosling reportedly wants twenty million dollars to reprise his role as Ken. Warner Bros. and the creative team remain at an impasse over financial demands. A sequel will not proceed unless the studio agrees to the team's terms.",
-    "img": "https://static.toiimg.com/photo/msid-133204784,imgsize-351246.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/barbie-2-stalled-over-margot-robbie-ryan-gosling-greta-gerwigs-fee-hike/articleshow/133204102.cms",
-    "time": "2026-08-13T08:05:00.000Z"
-  },
-  {
     "cat": "World",
     "title": "U.S. ambassador to Israel denounces settler siege on Palestinians as ‘terror’",
     "desc": "The remarks are especially striking from Huckabee, an evangelical Christian pastor who in the past has embraced Jewish settlement in the West Bank, which Israel has occupied since 1967, and rejected the idea of a Palestinian state.",
@@ -394,15 +439,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/us-ambassador-to-israel-denounces-settler-siege-on-palestinians-as-terror/article71340019.ece",
     "time": "2026-08-13T07:42:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Cockroaches found in restaurant of hostel for legislators in Bengaluru",
-    "desc": "Regarding the canteen of the Karnataka Health Department in Arogya Soudha in Bengaluru, officials said, food products were not stored in accordance with FSSAI guidelines and pest control measures had not been carried out, leaving the premises in an unhygienic condition",
-    "img": "https://th-i.thgim.com/public/incoming/8au7x0/article71339708.ece/alternates/LANDSCAPE_1200/arogya_soudha_04.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/expired-food-items-seized-from-karnataka-health-department-canteen-in-arogya-soudha-in-bengaluru-cockroaches-found-in-kitchen-of-restaurant-in-legislators-home/article71339704.ece",
-    "time": "2026-08-13T07:34:28.000Z"
   },
   {
     "cat": "Business",
@@ -421,24 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mitchell-starc-scripts-history-breaks-all-time-left-arm-test-record/articleshow/133203698.cms",
     "time": "2026-08-13T07:33:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Light to moderate rain likely in Andhra Pradesh till August 16",
-    "desc": "The IMD said the well-marked low-pressure area over the north Bay of Bengal is moving north-westwards and may concentrate into a depression by Thursday evening; strong surface winds of 40-50 kmph are likely across the State",
-    "img": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-andhrapradesh/mwowwy/article71330245.ece/alternates/LANDSCAPE_1200/Sudden-rainfallG3TGCHEAR.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/light-to-moderate-rain-likely-in-andhra-pradesh-till-august-16/article71339732.ece",
-    "time": "2026-08-13T07:28:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Parliament Monsoon Session ends amid disruptions; Lok Sabha, Rajya Sabha adjourned sine die",
-    "desc": "The Monsoon Session of Parliament concluded with both houses adjourned sine die. Repeated disruptions and political confrontations marked the proceedings throughout the session. The Rajya Sabha passed the Mines and Minerals Amendment Bill after skipping question hour. Opposition MPs continued protests in the Lok Sabha demanding statements from ministers. The session ended after weeks of political confrontation and frequent disruptions.",
-    "img": "https://static.toiimg.com/photo/msid-133203259,imgsize-239336.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/parliament-monsoon-session-ends-amid-disruptions-lok-sabha-rajya-sabha-adjourned-sine-die/articleshow/133203214.cms",
-    "time": "2026-08-13T07:10:07.000Z"
   },
   {
     "cat": "Sports",
@@ -520,15 +538,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/why-was-syrias-former-president-sentenced-to-death-explained/article71339557.ece",
     "time": "2026-08-13T04:45:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'More than pressure, it’s responsibility': Harmanpreet on India’s WC medal drought",
-    "desc": "Harmanpreet Singh, captain of India's hockey team, shows optimism ahead of the World Cup, determined to break a 51-year medal drought. The team's rigorous training includes mentoring newcomers on managing expectations for their first World Cup. With several skilled drag flickers in the squad, pressure is alleviated off the captain. Valuable insights gained from recent Pro League matches against Pakistan and England further bolster their confidence.",
-    "img": "https://static.toiimg.com/photo/msid-133198050,imgsize-1327896.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/hockey/more-than-pressure-its-responsibility-harmanpreet-singh-on-indias-world-cup-medal-drought/articleshow/133197985.cms",
-    "time": "2026-08-13T04:44:04.000Z"
   },
   {
     "cat": "Sports",
@@ -837,24 +846,6 @@ const newsData_en = [
     "time": "2026-08-11T14:36:02.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "PSG vs Aston Villa, UEFA vs FIFA and the Somali ref barred from the World Cup",
-    "desc": "The disharmony between UEFA and FIFA has increased since, with UEFA leading the campaign to oust Infantino from the FIFA presidency over his recent — aborted — plan to sell an interest in the World Cup",
-    "img": "https://th-i.thgim.com/public/incoming/tkxx87/article71332872.ece/alternates/LANDSCAPE_1200/UEFA_Super_Cup_66174.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/super-cup-psg-vs-aston-villa-uefa-vs-fifa-and-the-somali-ref-barred-from-the-world-cup/article71332713.ece",
-    "time": "2026-08-11T13:58:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Badminton World championships",
-    "desc": "The 34-year-old believes the next generation will eventually have to take over, and that thought keeps him on his toes; the veteran adds that he’ll put in everything to get back to the top 10 within the next two years",
-    "img": "https://th-i.thgim.com/public/sport/4no4fq/article71332711.ece/alternates/LANDSCAPE_1200/PRANNOY.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/hs-prannoy-not-ready-to-give-up-torch-comeback-world-championships-delhi-2026-interview/article71332535.ece",
-    "time": "2026-08-11T13:35:10.000Z"
-  },
-  {
     "cat": "World",
     "title": "India’s Russian oil imports hit 48% as U.S. readies 100% tariffs",
     "desc": "Russia’s share of India’s crude oil imports hit an all-time high of 48% in June 2026, even as the United States moves closer to imposing tariffs of up to 100% on countries buying Russian oil and gas. India imported 8.7 million metric tonnes of Russian crude in June, while overall crude imports fell sharply. The UAE also recorded a historic 17.5% share, meaning Russia and the UAE together accounted for nearly two-thirds of India’s oil imports.",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/internet/teaching-ai-to-speak-india/article71280380.ece",
     "time": "2026-08-09T00:15:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Karnataka explores partnership with Anthropic for governance, skilling and deep-tech growth",
+    "desc": "CM D.K. Shivakumar sought Anthropic’s expertise on how AI could help reduce fraud in government systems and improve the effectiveness, security and confidentiality of setting question papers for examinations conducted by various government agencies and educational institutions.",
+    "img": "https://th-i.thgim.com/public/news/national/karnataka/qs12uq/article71313384.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-06%20at%2017.14.14.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-explores-partnership-with-anthropic-for-governance-skilling-and-deep-tech-growth/article71312525.ece",
+    "time": "2026-08-08T19:02:03.000Z"
   }
 ];

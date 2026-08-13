@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "&amp;#039;જે દિવસે RSSનો અવાજ દબાવવામાં આવશે, હું રક્ષા કરીશ&amp;#039;...જાણો રાહુલ ગાંધીએ આવું કેમ કહ્યું?",
+    "desc": "લોકસભામાં વિપક્ષના નેતા રાહુલ ગાંધીનું કહેવું છે કે તેઓ RSSની વિચારધારાથી અસહમત હોઈ શકે છે પરંતુ જે દિવસે દેશમાં સંઘની અભિવ્યક્તિની આઝાદીને ખતમ કરવાની કોશિશ થશે તે દિવસે તેઓ પોતે તેમની રક્ષા કરશે...જાણો રાહુલ ગાંધીએ આવું કેમ કહ્યું?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/rahul-gandhi-big-statement-on-bjp-and-rss-freedom-of-expression-at-rachnatmak-congress-convention-487652 ",
+    "time": "2026-08-13T15:38:36.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "પેન્શન ₹1,000થી વધીને ₹7,500 થશે ? સરકારે લોકસભામાં આપ્યો જવાબ",
+    "desc": "EPS-95 હેઠળ લઘુત્તમ પેન્શન ₹1,000થી વધારીને ₹7,500 કરવાની લાંબા સમયથી માંગ કરવામાં આવી રહી છે. સરકારને 10 ઓગસ્ટના રોજ લોકસભામાં આ મુદ્દા પર પ્રશ્ન કરવામાં આવ્યો હતો, ત્યારે સરકારે શું જવાબ આપ્યો છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/will-eps-95-pension-hike-from-1000-to-7500-govt-gave-answer-in-lok-sabha-487632 ",
+    "time": "2026-08-13T13:29:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "રાષ્ટ્રધ્વજ આપણી અસ્મિતાનું પ્રતીક: &amp;#039;ફ્લેગ કોડ&amp;#039;ના આ નિયમો જાણવા દરેક ભારતીય માટે છે અનિવાર્ય",
+    "desc": "ભારતીય રાષ્ટ્રીય ધ્વજ એ માત્ર કાપડનો ટુકડો નથી, પરંતુ ૧૪૦ કરોડ દેશવાસીઓની આશાઓ, આકાંક્ષાઓ અને રાષ્ટ્રપ્રેમનું પવિત્ર પ્રતીક છે. રાષ્ટ્રીય ધ્વજની ગરિમા અને માન-મર્યાદા અકબંધ રહે તે માટે ભારત સરકારના ગૃહ મંત્રાલય દ્વારા ‘ફ્લેગ કોડ ઓફ ઈન્ડિયા, ૨૦૦૨’ અને ‘રાષ્ટ્રીય ગૌરવ અપમાન નિવારણ અધિનિયમ, ૧૯૭૧’ અંતર્ગત કડક નિયમો અને માર્ગદર્શિકા નક્કી કરવામાં આવી છે, જેનું પાલન કરવું દરેક નાગરિકની નૈતિક ફરજ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/national-flag-guidelines-important-rules-under-the-flag-code-of-india-you-need-to-know-487631 ",
+    "time": "2026-08-13T13:26:47.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "બનારસી સાડી સાથે સારા તેંડુલકરે પહેર્યું 17,500 નું બ્લાઉઝ, સાડીની કિંમત જાણી ચોંકી જશો",
     "desc": "સોશિયલ મીડિયા પર સારા તેંડુલકરનો સાડી લુક છવાયેલો છે. સારા તેંડુલકરે બનારસી સાડીને અલગ જ રીતે સ્ટાઈલ કરી છે અને તેનો આ લુક ઈંટરનેટ પર ચર્ચામાં છે. જો કે સારા તેંડુલકરના લુકની સાથે તેણે પહરેલા બ્લાઉઝ અને સાડીની કિંમત પણ ચર્ચામાં છે.",
@@ -306,15 +333,6 @@ const newsData_gu = [
     "time": "2026-08-11T12:07:34.000Z"
   },
   {
-    "cat": "Business",
-    "title": "EPFથી 60 વર્ષની ઉંમર સુધીમાં કેવી રીતે બનશે 5 કરોડનું રિટાયરમેન્ટ ફંડ? જાણો બેસિક સેલરી અને કમ્પાઉન્ડિંગનું કેલ્ક્યુલેશન",
-    "desc": "શું માત્ર EPF દ્વારા કર્મચારી 60 વર્ષની ઉંમર સુધીમાં 5 કરોડનું રિટાયરમેન્ટ ભંડ બનાવી શકે છે? 30 વર્ષની નોકરી, સેલરી ગ્રોથ, EPF યોગદાન અને 8.25% ના અનુમાનિત વ્યાજ દરના આધારે તેનો જવાબ તમારી બેસિક સેલરી અને યોગદાન પર નિર્ભર કરે છે. ચાલો તેના વિશે વિગતવાર સમજીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/how-to-build-a-retirement-fund-of-rs-5-crore-from-epf-by-the-age-of-60-know-the-calculation-of-basic-salary-and-compounding-487415 ",
-    "time": "2026-08-11T11:43:40.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "JioHotstarને ભૂલી જાઓ... આ ચેનલ પર જોવા મળશે ભારત vs શ્રીલંકા ટેસ્ટ મેચ, જાણો કેટલા વાગ્યે થશે શરૂ",
     "desc": "ભારત અને શ્રીલંકા વચ્ચેની ટેસ્ટ શ્રેણીની પહેલી મેચ 15 ઓગસ્ટથી ગાલેમાં શરૂ થશે. તમે આ શ્રેણીની મેચો સ્ટાર સ્પોર્ટ્સ અથવા જિયો હોટસ્ટાર પર જોઈ શકશો નહીં. ત્યારે આ લેખમાં જાણીશું કે આ મેચોનું લાઈવ પ્રસારણ અને સ્ટ્રીમિંગ ક્યાં થશે.",
@@ -376,15 +394,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/trump-said-iran-should-compensate-america-how-much-damage-has-both-countries-suffered-in-the-war-so-far-find-out-487357 ",
     "time": "2026-08-11T02:56:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "વિરોધ પ્રદર્શનો દરમિયાન પોલીસ લાઠીચાર્જ...શું કહે છે નિયમો અને કાયદો?",
-    "desc": "જ્યારે જ્યારે પણ વિરોધ પ્રદર્શનો જોઈએ છીએ ત્યારે મગજમાં એ સવાલ તો આવતો હશે કે પોલીસ પ્રદર્શનકારીઓ પર ક્યાં સુધી લાઠીચાર્જ કરી શકે નહીં? શાંતિપૂર્ણ પ્રદર્શન દરમિયાન પોલીસના શું પાવર છે? કઈ પરિસ્થિતિમાં બળ પ્રયોગ કરી શકાય અને દેખાવકારોના શું અધિકાર છે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/police-lathicharge-during-protests-rules-and-law-in-india-487348 ",
-    "time": "2026-08-10T16:17:13.000Z"
   },
   {
     "cat": "World",
@@ -457,15 +466,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/nikita-rawal-latest-news-female-fan-kissed-nikita-rawal-on-red-carpet-video-viral-487256 ",
     "time": "2026-08-10T02:10:24.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "અમેરિકા સાથેની વાતચીત વચ્ચે ઇઝરાયેલનું મોટું પગલું, રદ કરી તમામ લશ્કરી રજાઓ; શું ઈરાન પર મોટો હુમલો થવાનો છે?",
-    "desc": "અમેરિકા અને ઈરાન વચ્ચે વાતચીત ચાલી રહી છે. આ દરમિયાન ઇઝરાયેલે એક મોટું પગલું ભર્યું છે. ઇઝરાયેલી લશ્કરી દળોએ તમામ સૈનિકોની રજાઓ રદ કરી દીધી છે. સૂત્રોના જણાવ્યા અનુસાર, વડાપ્રધાન બેન્જામિન નેતન્યાહુ ઈરાન પર નવા મોટા હુમલાની તૈયારી કરી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/israel-big-move-amid-talks-with-america-canceling-all-military-holidays-is-there-going-to-be-a-major-attack-on-iran-487228 ",
-    "time": "2026-08-09T10:57:20.000Z"
   },
   {
     "cat": "Tech",
