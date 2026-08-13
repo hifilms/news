@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "England lift midnight curfew after Ben Stokes' international retirement, Joe Root confirms",
+    "desc": "Following England’s Ashes defeat in Australia, the management introduced a midnight curfew for players during any series. The decision was made after controversy involving Harry Brook at a nightclub in Australia. However, just one series...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-lift-midnight-curfew-after-ben-stokes-international-retirement-joe-root-confirms-2026-08-13-1051252",
+    "time": "2026-08-13T09:42:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Stop being a princess'",
+    "desc": "Steve Smith’s attempt to deal with a sight-screen problem during Australia’s first Test against Bangladesh in Darwin was met with an unexpected response from the crowd. The incident happened in the second session of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/stop-being-a-princess-australia-fan-shouts-at-steve-smith-during-first-test-vs-bangladesh-in-darwin-watch-2026-08-13-1051241",
+    "time": "2026-08-13T08:28:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mitchell Starc sets new world record in first Test against Bangladesh in Darwin",
+    "desc": "On International Left-Handers Day, Mitchell Starc produced a milestone perfectly suited to the occasion. The Australian quick dismissed Shadman Islam for 20 runs in Darwin to move to 434 Test wickets, surpassing Sri Lanka’s Rangana...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mitchell-starc-sets-new-world-record-in-first-test-against-bangladesh-in-darwin-2026-08-13-1051237",
+    "time": "2026-08-13T07:37:35.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Australia register lowest Test score vs Bangladesh after Hasan Mahmud claims six in Darwin",
     "desc": "Australia were bundled for only 198 runs in the first innings against Bangladesh in Darwin. Just three days prior to the opening Test, the Najmul Shanto-led side were bowled out for 54 runs against Cricket...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/psg-vs-aston-villa-uefa-super-cup-live-streaming-when-and-where-to-watch-match-in-india-2026-08-12-1051189",
     "time": "2026-08-12T17:18:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "No Neeraj Chopra-Arshad Nadeem clash in Lausanne Diamond League as Pakistani athlete to miss event",
-    "desc": "There won't be a clash between the two latest Olympic champions - Arshad Nadeem and Neeraj Chopra - in the Lausanne Diamond League as the Pakistani star will be skipping the event to prepare for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/no-neeraj-chopra-arshad-nadeem-clash-in-lausanne-diamond-league-as-pakistani-athlete-to-miss-event-2026-08-12-1051178",
-    "time": "2026-08-12T14:53:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lionel Messi hints at retirement, shares emotional note on social media after losing father",
-    "desc": "Argentine football legend Lionel Messi has hinted at retirement, casting doubts over continuing in the sport after losing his father, Jorge Messi. The Argentina captain shared an emotional post on social media, where he paid...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/lionel-messi-hints-at-retirement-shares-emotional-note-on-social-media-after-losing-father-2026-08-12-1051170",
-    "time": "2026-08-12T13:39:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Babar Azam ends near two-year wait in ICC rankings after guiding Pakistan to win over West Indies",
-    "desc": "Pakistan Test captain Babar Azam on Wednesday ended his near two-year wait for a place in the top 10 of the ICC Test batters' rankings. Babar has been rewarded for his recent performance in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/babar-azam-ends-near-two-year-wait-in-icc-rankings-after-guiding-pakistan-to-win-over-west-indies-2026-08-12-1051161",
-    "time": "2026-08-12T12:12:34.000Z"
   }
 ];

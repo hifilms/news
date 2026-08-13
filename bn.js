@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "World",
+    "title": "পাকজেলে ইমরানের মৃতদেহ? তুলকালাম সারা বিশ্ব: রাজপথে PTI, কান্নায় লুটিয়ে পড়ছে দেশবাসী-- এবার আসরে আমেরিকাও",
+    "desc": "তবে ইমরান খানের দল পাকিস্তান তেহরিক-ই-ইনসাফ (PTI), তাঁর পরিবার এবং আইনজীবীদের দীর্ঘদিন ধরে তাঁর সঙ্গে দেখা করতে দেওয়া হচ্ছে না বলে অভিযোগ করা হয়েছে। পিটিআই নেতারা অভিযোগ তুলেছেন যে শেহবাজ শরিফের নেতৃত্বাধীন সরকার এবং সেনা কর্তৃপক্ষ পরিকল্পিতভাবে ইমরান খানকে বিচ্ছিন্ন করে রাখছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/us-lawmakers-urge-marco-rubio-to-press-pakistan-over-imran-khan-and-bushra-bibis-jail-conditions_666789.html ",
+    "time": "2026-08-13T09:19:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "জেল না পাঁচতারা হোটেল? ধর্ষণে জেলবন্দি প্রাক্তন সাংসদের মোবাইলে ৯০ পর্ন VIDEO! মেয়েদের আপত্তিকর ছবিতে ছড়াছড়ি",
+    "desc": "যাবজ্জীবন সাজাপ্রাপ্ত প্রাক্তন সাংসদ প্রজ্বল রেভান্নার জেলের সেল থেকে উদ্ধার হয়েছে মোবাইল ফোন ও ৯০টি পর্ন ভিডিয়ো। কঠোর নিরাপত্তার চাদরে ঘেরা কেন্দ্রীয় কারাগারে কীভাবে পৌঁছাল এই গোপন ডিভাইস? কার অদৃশ্য ইশারায় জেলের অন্দরে চলত এমন কর্মকাণ্ড? এই চাঞ্চল্যকর তথ্যে এখন বড় প্রশ্নের মুখে জেল প্রশাসন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/90-porn-videos-found-on-ex-jds-mp-prajwal-revannas-phone-seized-from-prison-cell_666776.html ",
+    "time": "2026-08-13T07:25:19.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "ভোরের আলো ফুটতেই প্রবল কম্পন! ৫.৫ মাত্রার ভূমিকম্পে কেঁপে উঠল লে",
     "desc": "ভোরে ৫.৫ মাত্রার মাঝারি ভূমিকম্পে কেঁপে ওঠে লাদাখের লেহ অঞ্চল। ন্যাশনাল সেন্টার ফর সিসমোলজি জানিয়েছে, ভূপৃষ্ঠ থেকে মাত্র ১০ কিলোমিটার গভীরে ছিল এই অগভীর ভূমিকম্পের কেন্দ্রস্থল। সকালের এই কম্পনের জেরে স্থানীয়দের মধ্যে সাময়িক আতঙ্ক ছড়ালেও সৌভাগ্যবশত কোনো বড় ধরনের ক্ষয়ক্ষতি বা হতাহতের খবর পাওয়া যায়নি।",
@@ -88,15 +106,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/three-english-films-with-international-cast-music-tagores-dance-drama-the-tagore-trilogy_666619.html ",
     "time": "2026-08-12T07:24:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "মহা বিপর্যয়! ৪৫ বাঘের মৃত্য়ু, ৫০ জন মানুষেরও মৃত্যু! কী এই 'ক্যাট-২২' সংকট?",
-    "desc": "এ বছরের প্রথম আট মাসেই বন্যপ্রাণীর আক্রমণে অন্তত ৫০ জনের মৃত্যু হয়েছে। তবে, প্রায় একই সময়ে ৪৫টিরও বেশি বাঘও মারা গিয়েছে। মধ্যপ্রদেশ বন দফতরের সাম্প্রতিক পরিসংখ্যান অনুযায়ী, এ বছর মানুষের মৃত্যুর ক্ষেত্রে বাঘের আক্রমণই সবচেয়ে বড় কারণ হয়ে দাঁড়িয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/50-humans-killed-45-tigers-dead-in-just-8-months-cat-22-in-madhya-pradesh_666541.html ",
-    "time": "2026-08-11T15:02:19.000Z"
   },
   {
     "cat": "World",
@@ -241,24 +250,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/petrol-bomb-attack-at-shakib-al-hasans-home-hours-after-joining-hasinas-presser_665699.html ",
     "time": "2026-08-06T06:10:15.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "গতি ৮৬৯০ কিমি প্রতি ঘণ্টা, ওজন ৪০০০ কেজি! ভয়ংকর বেগে ছুটল ৫ তলা বাড়ির মতো বড় এই মারণ... মহা বিপর্যয়!",
-    "desc": "প্রায় ৪ হাজার কেজি ওজনের এবং ৫ তলা বাড়ির সমান বড় এই রকেটটি প্রায় ৮৬৯০ কিলোমিটার/ঘণ্টা গতিবেগে চাঁদের গায়ে ধাক্কা মারে। মার্কিন মহাকাশ গবেষণা সংস্থা 'নাসা' (NASA) জানিয়েছে, এই সংঘাতের ফলে পৃথিবীর কোনো বিপদ নেই।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/spacexs-five-story-building-size-4000-kg-rocket-hits-moon-at-8690-kmph-nasa_665631.html ",
-    "time": "2026-08-05T15:10:44.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "'দেখতে খারাপ' মা'কে নিজের বিয়েতে ডাকেইনি ছেলে! জানতে পেরে ছেলের বস করলেন অবিশ্বাস্য কান্ড!",
-    "desc": "নিজের বিয়েতে জন্মদাত্রী মাকে ডাকেননি এক কর্মী। কারণ, মায়ের চেহারা নিয়ে অতিথিদের সামনে লজ্জিত হওয়ার ভয় ছিল তাঁর। মানে, তাঁর বিচারে তাঁর মা দেখতে খারাপ! এদিকে এই অপরাধে ওই কর্মীকে বরখাস্ত করেছেন চিনের এক প্রতিষ্ঠানের সিইও। ঘটনাটি ঘিরে এখন নেট–দুনিয়ায় চলছে ব্যাপক তোলপাড়।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/chinese-ceo-fires-employee-for-excluding-mother-from-wedding-over-looks_665622.html ",
-    "time": "2026-08-05T14:36:43.000Z"
   },
   {
     "cat": "Business",
