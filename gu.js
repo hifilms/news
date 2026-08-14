@@ -1,6 +1,33 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "સોનાના ભાવમાં ઘટાડો, 1.40 લાખ રૂપિયા પર પહોંચ્યો ગોલ્ડ રેટ, જાણો કેમ ઘટ્યા",
+    "desc": "આજે, શુક્રવારે અને 14 ઓગસ્ટના રોજ સોનાના ભાવમાં થોડો ઘટાડો થયો છે. બુલિયન બજારમાં સોનાના ભાવમાં 45 રૂપિયાનો ઘટાડો થયો છે. 24 કેરેટ સોનાના 10 ગ્રામનો ભાવ 153230 રૂપિયા છે. બુલિયન બજારમાં 22 કેરેટ સોનાનો ભાવ 140360 રૂપિયા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-price-drops-bullion-market-and-reaches-rs-1-40-lakh-know-why-it-fell-487746 ",
+    "time": "2026-08-14T14:45:29.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "મારુતિ જેવી માઇલેજ, મહિન્દ્રા જેવો પાવર, આ કંપની લાવી રહી છે ખાસ 7-સીટર SUV",
+    "desc": "ભારતીય બજારમાં એક નવી SUV લોન્ચ થવા જઈ રહી છે. આ SUV બ્રાન્ડની પહેલી પ્લગ-ઇન હાઇબ્રિડ હશે, જે શક્તિશાળી સુવિધાઓથી સજ્જ હશે. આવનારી MGની SUV હાલની હેક્ટર કરતાં લાંબી હોવાની ધારણા છે, એટલે કે તેમાં સાત લોકો બેસી શકશે. આ કારમાં પેટ્રોલ એન્જિન અને બેટરી સેટઅપ બંને હશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/mileage-like-maruti-power-like-mahindra-mg-company-is-bringing-a-special-7-seater-hector-hawk-suv-487744 ",
+    "time": "2026-08-14T14:11:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "15 ઓગસ્ટે ભૂલથી પણ આ 6 હિલ સ્ટેશન પર ન જતા, નહીં તો થશે પસ્તાવો, ટ્રિપ બની જશે માથાનો દુખાવો!",
+    "desc": "જો તમે 15 ઓગસ્ટે પર્વતોમાં આરામદાયક રજા માણવા માંગતા હો, તો ચોમાસાની ઋતુ દરમિયાન ભારે ભીડ, ટ્રાફિક જામ અને ભૂસ્ખલનનું જોખમ હોવાથી આ લોકપ્રિય હિલ સ્ટેશનોએ જવાનું ટાળો. તમારી સફર પહેલાં હવામાન અને રસ્તાની સ્થિતિ ચેક કરવાનું ભૂલશો નહીં.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/stay-away-from-these-6-hill-stations-on-august-15-otherwise-it-wont-be-fun-the-trip-will-become-a-big-hassle-487724 ",
+    "time": "2026-08-14T13:14:09.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "ઝી એન્ટરટેઇનમેન્ટને SAT તરફથી મોટી રાહત, SEBIના આદેશ પર રોક, શેરમાં જોરદાર ઉછાળો",
     "desc": "ZEE એન્ટરટેઈનમેન્ટ એન્ટરપ્રાઇઝ લિમિટેડ (ZEEL)ને સિક્યોરિટીઝ એપેલેટ ટ્રિબ્યુનલ (SAT) દ્વારા મોટી રાહત આપવામાં આવી છે. SATએ કંપની સામેના SEBIના આદેશ પર સ્ટે આપ્યો છે. SATની રાહતથી ZEE એન્ટરટેઈનમેન્ટને 3,143 કરોડ રૂપિયા એકત્ર કરવાનો માર્ગ મોકળો થયો છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -286,15 +313,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/jasprit-bumrah-may-be-play-only-t20-after-world-cup-2027-bcci-injury-plan-487528 ",
     "time": "2026-08-12T11:28:17.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "આવતીકાલે બેંકો રહેશે બંધ ! જાણો RBIએ 13 ઓગસ્ટે કેમ આપી રજા",
-    "desc": "આવતીકાલે એટલે ગુરુવારે બેંકો બંધ રહેવાની છે. જો તમે 13 ઓગસ્ટના રોજ કોઈ કામ માટે બેંક શાખાની મુલાકાત લેવાનું આયોજન કરી રહ્યા છો, તો એ જાણી લો કે તમારા રાજ્યમાં બેંકો ખુલ્લી છે કે નહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/bank-holiday-tomorrow-banks-will-be-closed-on-august-13-know-why-487515 ",
-    "time": "2026-08-12T09:55:53.000Z"
   },
   {
     "cat": "World",
@@ -610,14 +628,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/ai-has-created-a-new-virus-in-the-lab-for-the-first-time-even-scientists-are-astonished-does-it-pose-a-threat-to-humans-486995 ",
     "time": "2026-08-07T08:06:10.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "34KMની માઇલેજ, ₹5 લાખથી ઓછી કિંમત! જુલાઈમાં 23,398 લોકોએ ખરીદી મારુતિની આ પોપ્યુલર કાર",
-    "desc": "મારૂતિ સુઝુકી માટે જુલાઈનો મહિનો શાનદાર રહ્યો છે. આમ તો કંપની ભારતમાં દર મહિને સૌથી વધુ ગાડીઓ વેચે છે, પરંતુ જુલાઈની કહાની ખાસ છે. ટોપ સેલિંગ-5 મોડલોમાં મારૂતિની ચાર કાર સામેલ છે. તેમાં મારૂતિની કોમ્પેક્ટ સેડાનથી લઈને 7 સીટર સુધી સામેલ છે. આવો આવી એક કારની કહાની જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/maruti-suzuki-dominates-july-sales-compact-hatchback-hits-23398-units-delivered-486989 ",
-    "time": "2026-08-07T06:52:49.000Z"
   }
 ];

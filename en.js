@@ -1,21 +1,183 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Gandhi's letter to India, as told through TOI",
-    "desc": "From his South Africa years to the freedom struggle, Mahatma Gandhi repeatedly used newspapers to address India’s public. Alok Sharma sifts through letters Gandhi wrote to TOI, illuminating his positions on Satyagraha, the Rowlatt Act, Dalit representation, Hindu-Muslim unity and the hardships faced by Indians in South Africa.",
-    "img": "https://static.toiimg.com/photo/msid-133241866,imgsize-152116.cms",
+    "title": "What US, UK and others think about India at 80",
+    "desc": "India's standing on the global stage reveals a mixed bag of perceptions among nations, with only 45% viewing it favorably. While Pakistan's outlook remains critical, Sri Lanka showcases significant support. Since 2025, favorability has waned in several countries, yet noteworthy improvements have emerged in Germany and the UK, highlighting the complexities and challenges of India's international reputation.",
+    "img": "https://static.toiimg.com/photo/msid-133246112,imgsize-1675112.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/gandhis-letter-to-india-as-told-through-toi/articleshow/133240690.cms",
-    "time": "2026-08-14T12:42:17.000Z"
+    "url": "https://timesofindia.indiatimes.com/india/pew-survey-what-us-uk-and-others-think-about-india-at-80/articleshow/133244590.cms",
+    "time": "2026-08-14T15:43:17.000Z"
   },
   {
     "cat": "Politics",
-    "title": "BJP attacks Minister Zameer Ahmed Khan for writing to Karnataka CM seeking exemption from flag-hoisting responsibility on I-Day",
-    "desc": "The Minister informed the CM that he was not in a position to take up the responsibility of hoisting the flag in Vijayanagara district as he needed to focus on preparations for the forthcoming polls to various local bodies",
-    "img": "https://th-i.thgim.com/public/incoming/ckr9ca/article71345135.ece/alternates/LANDSCAPE_1200/_DSC0248.jpg",
+    "title": "Karur Stampede: Supreme Court stay on govt. jobs for victims’ families| Above the Fold| 14.08.2026",
+    "desc": "the Chamoli tunnel tragedy that killed seven workers, waste during the Kanwar Yatra, a White House report flagging India over China’s tariff evasions, and the Supreme Court quashing a hate speech case against Rahul Gandhi over Savarkar remarks.",
+    "img": "https://th-i.thgim.com/public/news/national/51yycl/article71346643.ece/alternates/LANDSCAPE_1200/AUGUST%2014%202.png",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/bjp-attacks-minister-bz-zameer-ahmed-khan-for-writing-to-karnataka-cm-seeking-exemption-from-flag-hoisting-responsibility-on-independence-day/article71344959.ece",
-    "time": "2026-08-14T12:42:12.000Z"
+    "url": "https://www.thehindu.com/videos/watch-karur-stampede-supreme-court-stay-on-govt-jobs-for-victims-families-above-the-fold-14082026/article71346645.ece",
+    "time": "2026-08-14T15:38:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Centre notifies 40 questions for second phase",
+    "desc": "For the first time, Census 2027 will ask parents’ particulars, details of bank accounts, Aadhaar, passport, voter ID number, driving licence among others; this is also the first Census since 1931 to enumerate caste as well",
+    "img": "https://th-i.thgim.com/public/incoming/jhszzh/article71344181.ece/alternates/LANDSCAPE_1200/80968_16_6_2026_14_48_9_2_7O3A0570.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/census-2027-to-have-40-questions-including-details-of-caste-covid-vaccination-id-proofs/article71344141.ece",
+    "time": "2026-08-14T15:24:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Sunil Amrith On 'The Burning Earth' And The Unequal Costs Of Environmental Destruction",
+    "desc": "Sunil Amrith is the Renu and Anand Dhawan Professor of History at Yale University with a secondary appointment as professor at the Yale School of the Environment. He serves as Director of the Macmillan Centre for International and Area Studies and Yale's Vice Provost for International Affairs. He has received the 2016 Infosys Prize in Humanities, a 2017 MacArthur Fellowship, and the 2025 Toynbee Prize in Global History, among others. He has authored five books that put Asia at the heart of global history. In this conversation, he discusses his book, 'The Burning Earth'.",
+    "img": "https://static.toiimg.com/photo/msid-133244981,imgsize-75956.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sunil-amrith-on-the-burning-earth-and-the-unequal-costs-of-environmental-destruction/articleshow/133244981.cms",
+    "time": "2026-08-14T14:58:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SC/ST Commission has no power to adjudicate land disputes or direct mutation of Revenue records: Karnataka High Court",
+    "desc": "The Karnataka State Commission for Scheduled Castes and Scheduled Tribes has no jurisdiction to adjudicate disputes over immovable property or issue binding directions to Revenue or Forest authorities for the mutation of land records, the High Court of Karnataka has ruled",
+    "img": "https://th-i.thgim.com/public/incoming/n7kf48/article71346451.ece/alternates/LANDSCAPE_1200/IMG_BG_HIGH_COURT_2020_1_1_7EGD2FPM.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/scst-commission-has-no-power-to-adjudicate-land-disputes-or-direct-mutation-of-revenue-records-karnataka-high-court/article71345710.ece",
+    "time": "2026-08-14T14:46:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Murder case accused found dead in Kozhikode",
+    "desc": "The 34-year-old had been arrested by police in connection with the death of a young woman who was reportedly in a relationship with him. She was found dead inside his workshop at Malikkadavu on January 24",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/murder-case-accused-found-dead-in-kozhikode/article71344550.ece",
+    "time": "2026-08-14T14:44:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "R Madhavan treated son Vedaant like an adult ever since he was 5 years old",
+    "desc": "Actor R Madhavan shares his journey as a parent to Vedaant, a promising swimmer. He emphasizes the critical role of discipline while balancing the perks of being in the spotlight. Madhavan candidly expresses that Vedaant's fame is fleeting and reminds him of the many talented swimmers who need recognition and support, highlighting the delicate balance between privilege and genuine parental care.",
+    "img": "https://static.toiimg.com/photo/msid-133244876,imgsize-293269.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-madhavan-treated-son-vedaant-like-an-adult-ever-since-he-was-5-years-old-heres-the-one-lesson-he-taught-his-son-he-can-become-news-very-quickly-if-he-doesnt-know-how-to-keep-his-ducks/articleshow/133244762.cms",
+    "time": "2026-08-14T14:39:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "President Droupadi Murmu approves 78 gallantry awards, including 13 posthumous",
+    "desc": "The President has also approved one Bar to Shaurya Chakra, five Bars to Sena Medals (Gallantry) and 36 Sena Medals (Gallantry), including five posthumous awards. The list also includes three Nao Sena Medals (Gallantry) and five Vayu Sena Medals (Gallantry). The awards have been approved to recognise gallantry among personnel of the Defence Forces and Central Armed Police Forces.",
+    "img": "https://static.toiimg.com/photo/msid-133244599,imgsize-183872.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/president-droupadi-murmu-approves-78-gallantry-awards-including-13-posthumous/articleshow/133244418.cms",
+    "time": "2026-08-14T14:27:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Greatest threat': How India, Pakistan view each other; data lays bare deep animosity",
+    "desc": "A recent survey by Pew highlights that Indians and Pakistanis regard each other as their principal geopolitical adversaries. Unfavorable opinions dominate across the border, with India marking Pakistan as the major threat while Pakistan responds in kind. There is a notable distrust regarding the other’s dedication to peaceful relations, amplified by contrasting global alliances influencing each country’s strategic outlook.",
+    "img": "https://static.toiimg.com/photo/msid-133240186,imgsize-1597812.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/greatest-threat-how-india-pakistan-view-each-other-data-lays-bare-deep-animosity/articleshow/133238982.cms",
+    "time": "2026-08-14T14:23:48.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Wall Street drifts near record highs; economic data in focus",
+    "desc": "The bond market was largely steady after government data showed that consumer spending at US retailers declined from the previous month. The reading caught economists off guard, as they had expected retail sales to post another monthly increase.",
+    "img": "https://static.toiimg.com/photo/msid-133244534,imgsize-370312.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-stock-market-today-august-14-2026-wall-street-down-jones-industrial-average-sp-500-nasdaq-composite-us-iran-war-crude-oil-prices/articleshow/133244412.cms",
+    "time": "2026-08-14T14:21:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Cannot imagine': Rajnath Singh's sharp 'Gandhi surname' attack on Rahul Gandhi over PM hug jibe",
+    "desc": "Rajnath Singh said he was particularly upset that the comments came from the Leader of Opposition in the Lok Sabha. He accused Gandhi of lowering the dignity associated with the post and questioned whether such conduct was appropriate for someone holding a key constitutional position. The defence minister also defended Modi's record as Prime Minister and his standing abroad.",
+    "img": "https://static.toiimg.com/photo/msid-133243840,imgsize-108962.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cannot-imagine-rajnath-singhs-sharp-gandhi-surname-attack-on-rahul-gandhi-over-pm-hug-jibe/articleshow/133241570.cms",
+    "time": "2026-08-14T14:11:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Blood is thicker than water'",
+    "desc": "Ashmit Patel acknowledges his relationship with sister Ameesha Patel has faced challenges. He stresses their family connection remains constant, unaffected by public perception. Ashmit affirmed his commitment to protect his elder sister throughout his life. He also shared his happiness and parents' thrill over Ameesha's 'Gadar 2' success. Their private family interactions are not always visible to the public.",
+    "img": "https://static.toiimg.com/photo/msid-133243779,imgsize-233748.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ashmit-patel-says-relationship-with-sister-ameesha-patel-has-ups-and-downs-but-blood-is-thicker-than-water-i-will-always-protect-her-till-my-last-breath/articleshow/133243701.cms",
+    "time": "2026-08-14T14:02:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jemimah Rodrigues' injury rules her out of Asia Cup and Asian Games",
+    "desc": "Jemimah Rodrigues is out of the Women's Asia Cup and Asian Games due to a hamstring tear. Pratika Rawal replaces Rodrigues in the Asia Cup squad after recovering from injury. India will compete in the Asia Cup starting August 28, facing Pakistan on September 5. The hamstring injury also prevents Rodrigues from participating in the Asian Games.",
+    "img": "https://static.toiimg.com/photo/msid-133243271,imgsize-93066.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/big-blow-for-india-as-jemimah-rodrigues-injury-rules-her-out-of-asia-cup-and-asian-games/articleshow/133243163.cms",
+    "time": "2026-08-14T13:46:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Director explains why Vinod Kambli's life is becoming a series, not a film",
+    "desc": "With the V. Shantaram biopic delayed to 2027, director Abhijeet Deshpande will next helm Kambli, a series on cricketer Vinod Kambli's rise and struggles. He explains a series format suits the story better than a film. Casting is pending; shooting targets a November 2026 start.",
+    "img": "https://static.toiimg.com/photo/msid-133243182,imgsize-226654.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/director-abhijeet-deshpande-explains-why-vinod-kamblis-life-is-becoming-a-series-not-a-film-so-much-material-and-drama/articleshow/133243134.cms",
+    "time": "2026-08-14T13:38:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'I tried to push her away'",
+    "desc": "Filmmaker Anurag Kashyap and Shubhra Shetty share details about their eleven-year relationship. They discussed facing self-consciousness due to their significant age difference. Kashyap initially tried to distance himself from Shetty to protect her career. Their bond grew through shared interests like books, movies, and festivals. The couple now resides in Bengaluru, having moved from Mumbai.",
+    "img": "https://static.toiimg.com/photo/msid-133242989,imgsize-284993.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anurag-kashyap-opens-up-about-being-age-shamed-for-dating-20-years-younger-shubhra-shetty-at-one-point-i-was-so-consious-i-tried-to-push-her-away/articleshow/133242855.cms",
+    "time": "2026-08-14T13:28:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ravindra Jadeja two short from 350 Test wickets, set to join Kapil Dev in elite club",
+    "desc": "Ravindra Jadeja is just two wickets away from a remarkable milestone in his Test cricket journey, aiming for 350 Test wickets against Sri Lanka. With over 4,000 Test runs and beyond 300 wickets already to his name, Jadeja is establishing himself as one of India's finest all-rounders. Achieving this will see him join the illustrious ranks of Kapil Dev.",
+    "img": "https://static.toiimg.com/photo/msid-133242840,imgsize-101598.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ravindra-jadeja-two-short-from-350-test-wickets-set-to-join-kapil-dev-in-elite-club/articleshow/133242741.cms",
+    "time": "2026-08-14T13:23:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India hopes to revive WTC fortunes on Sri Lankan shores",
+    "desc": "Gill’s men will draw inspiration from a superior head-to-head record; the visiting side’s batters need to come good to make life easier for their bowlers; left-arm spinner Prabath could be the trump card for the home team",
+    "img": "https://th-i.thgim.com/public/incoming/o1lmlz/article71345850.ece/alternates/LANDSCAPE_1200/20260814274L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/india-hopes-to-revive-wtc-fortunes-on-sri-lankan-shores/article71345857.ece",
+    "time": "2026-08-14T13:18:45.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India's forex reserves climb to $707 billion, rise $14.1 billion in a week",
+    "desc": "India's foreign exchange reserves jumped a notable $14.136 billion, reaching a total of $707.002 billion for the week ending August 7. This surge was largely driven by a $9.946 billion rise in foreign currency assets, complemented by a $3.995 billion increase in gold reserves. These noteworthy gains come on the heels of strategic initiatives from the government and the RBI aimed at boosting foreign exchange inflows.",
+    "img": "https://static.toiimg.com/photo/msid-133242005,imgsize-104150.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-forex-reserves-climb-to-707-billion-rise-14-1-billion-in-a-week/articleshow/133241847.cms",
+    "time": "2026-08-14T12:54:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ajay Devgn rents out 7,802 sq feet Juhu bungalow for Rs 10.61 crore",
+    "desc": "Ajay Devgn and his mother have entered into a five-year lease for their Juhu bungalow, generating an impressive rental income of Rs 10.61 crore. Florian Hurel Salons Private Limited will occupy the 7,802.75 sq ft space, which requires a security deposit of Rs 48 lakh, alongside annual rent increases. This property has a notable history, having been linked to a significant loan transaction involving the actor.",
+    "img": "https://static.toiimg.com/photo/msid-133242067,imgsize-183649.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ajay-devgn-rents-out-7802-sq-feet-juhu-bungalow-with-an-estimated-total-rental-income-of-rs-10-61-crore-for-a-five-year-lease-agreement/articleshow/133241877.cms",
+    "time": "2026-08-14T12:52:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Gandhi's letter to India, as told through TOI",
+    "desc": "From his South Africa years to the freedom struggle, Mahatma Gandhi repeatedly used newspapers to address India’s public. Alok Sharma sifts through letters Gandhi wrote to TOI, illuminating his positions on Satyagraha, the Rowlatt Act, Dalit representation, Hindu-Muslim unity and the hardships faced by Indians in South Africa.",
+    "img": "https://static.toiimg.com/photo/msid-133242303,imgsize-170424.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/gandhis-letter-to-india-as-told-through-toi/articleshow/133240690.cms",
+    "time": "2026-08-14T12:42:17.000Z"
   },
   {
     "cat": "Politics",
@@ -34,15 +196,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-delhi-hc-gets-bomb-threat-us-loses-45-reaper-drones-in-iran-war-more/articleshow/133240674.cms",
     "time": "2026-08-14T12:32:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Mounting criticism in Kerala over Centre’s Mines and Minerals Amendment Act",
-    "desc": "Leader of the Opposition Pinarayi Vijayan terms the MMDR amendment Act an assault on the federal structure envisaged by the Constitution; he alleges that the legislation formed part of a broader policy to open India’s precious mineral wealth to private monopolies",
-    "img": "https://th-i.thgim.com/public/incoming/5ap18/article71345357.ece/alternates/LANDSCAPE_1200/Nearby-PinarayiGUHGC9J7J.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/mounting-criticism-in-kerala-over-centres-mines-and-minerals-amendment-act/article71345248.ece",
-    "time": "2026-08-14T12:23:50.000Z"
   },
   {
     "cat": "Politics",
@@ -81,15 +234,6 @@ const newsData_en = [
     "time": "2026-08-14T11:51:02.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Sumit Sarkar, eminent scholar of modern Indian history, dies at 87",
-    "desc": "His works include Swadeshi Movement in Bengal, 1903-1908 (1973), Modern India (1989), and Writing Social History (1998), among others. He also co-edited Women and Social Reform in Modern India (2007) and Caste in Modern India (2013) with his wife, Tanika Sarkar.",
-    "img": "https://th-i.thgim.com/public/news/national/c0uk7z/article71342694.ece/alternates/LANDSCAPE_1200/historian.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/sumit-sarkar-eminent-scholar-of-modern-indian-history-dies-at-87/article71342624.ece",
-    "time": "2026-08-14T11:50:35.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Just because you're 55 doesn't mean there's no romance,' says R Madhavan",
     "desc": "Actor R Madhavan believes romance remains relevant for older individuals. He is open to portraying mature and meaningful relationships on screen. Madhavan also stated he avoids scenes depicting women being slapped. His upcoming film GDN explores inventor GD Naidu's life and a relationship. The biographical drama is scheduled for a theatrical release on August 7.",
@@ -97,15 +241,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/just-because-youre-55-doesnt-mean-theres-no-romance-says-r-madhavan-as-he-admits-he-wont-exploring-romantic-relationships-on-screen-not-going-to-be-alaipayuthey/articleshow/133239450.cms",
     "time": "2026-08-14T11:25:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Nearly one in two adults in Andhra Pradesh overweight, says Health Minister",
-    "desc": "Satya Kumar Yadav said the force would draw officials from the Health, Education, Sports, and Women and Child Welfare departments, and that an action plan based on the conference’s recommendations would go to the Chief Minister",
-    "img": "https://th-i.thgim.com/public/incoming/ir8rc9/article71306568.ece/alternates/LANDSCAPE_1200/9604_28_6_2026_23_8_54_1_VSP29_HEALTH_1.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/nearly-one-in-two-adults-in-andhra-pradesh-overweight-says-health-minister/article71341691.ece",
-    "time": "2026-08-14T11:21:23.000Z"
   },
   {
     "cat": "Entertainment",
@@ -163,15 +298,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Hold separate TET papers for maths, physics and biology, teachers’ body asks government",
-    "desc": "The association said candidates in the mathematics-science category had to answer questions from subjects outside their specialisation, unlike those taking Telugu, Hindi, English or social studies, and that TET marks carry 20% weightage in recruitment",
-    "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/asbave/article71345051.ece/alternates/LANDSCAPE_1200/Teachers.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/hold-separate-tet-papers-for-maths-physics-and-biology-teachers-body-asks-government/article71341776.ece",
-    "time": "2026-08-14T10:13:28.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "‘Congress responsible for Partition’: CM Yogi says India would be different if Modi were PM in 1947",
     "desc": "Speaking at an event in Lucknow marking Partition Horrors Remembrance Day, CM Yogi said the Congress had failed the country by prioritising political power and alleged that the consequences of Partition continue to affect India. “Had Narendra Modi been the Prime Minister of India at the time of Independence, nobody would have been able to damage India in the slightest,” he said.",
     "img": "https://static.toiimg.com/photo/msid-133237502,imgsize-143992.cms",
@@ -187,24 +313,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/first-time-we-did-something-like-this-former-women-naxalites-share-their-raipur-ramp-walk-experience/articleshow/133236445.cms",
     "time": "2026-08-14T10:03:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Man allegedly kills father, injures aunt in Chittoor district",
-    "desc": "The 22-year-old had reportedly visited his father at Ksheerasagaram village on Thursday night to discuss the division of family property, and returned around midnight after an argument; a special team has been formed to trace him",
-    "img": "https://th-i.thgim.com/public/incoming/pdjoek/article71298118.ece/alternates/LANDSCAPE_1200/iStock-523699180.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/man-allegedly-kills-father-injures-aunt-in-chittoor-district/article71344052.ece",
-    "time": "2026-08-14T10:01:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala launches My Police Station project to enhance citizen-friendly services",
-    "desc": "Speaking at State-level launch of the initiative at Peroorkada police station in Thiruvananthapuram, Chief Minister V.D. Satheesan says the project seeks to make the police a 'friend' and a source of support for people, while retaining the deterrent role of the force against crime",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/dwhnzu/article71344836.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-14%20at%2013.29.13.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-launches-my-police-station-project-to-enhance-citizen-friendly-services/article71344833.ece",
-    "time": "2026-08-14T09:41:37.000Z"
   },
   {
     "cat": "Entertainment",
@@ -315,24 +423,6 @@ const newsData_en = [
     "time": "2026-08-14T08:39:59.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "SC quashes all FIRs against Samay Raina, Ranveer Allahabadia in ‘India’s Got Latent’ case",
-    "desc": "Along with Raina, the court quashed the FIRs and related proceedings against comedians Vipul Goyal, Balraj Paramjeet Singh Ghai, Sonali Thakkar and Nishant Jagdish Tanwar. The proceedings stemmed from jokes made by the five, which were flagged by the M/s SMA Cure Foundation, an organisation working with people affected by Spinal Muscular Atrophy and other rare diseases.",
-    "img": "https://static.toiimg.com/photo/msid-133233578,imgsize-62610.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sc-quashes-all-firs-against-samay-raina-ranveer-allahabadia-in-indias-got-latent-case/articleshow/133233102.cms",
-    "time": "2026-08-14T08:34:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Har Ghar Tiranga’ rallies held in Ongole, Nellore",
-    "desc": "Ongole Trunk Road was packed with more than 3,000 participants, including students, government staff from various departments and locals, all carrying national flags, while a rally featuring a massive 275-foot national flag was organised near the Collectorate in Nellore",
-    "img": "https://th-i.thgim.com/public/incoming/56lbsi/article71342029.ece/alternates/LANDSCAPE_1200/9604_13_8_2026_16_59_50_3_WHATSAPPIMAGE2026_08_13AT160419.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/har-ghar-tiranga-rallies-held-in-ongole-nellore/article71341539.ece",
-    "time": "2026-08-14T08:32:14.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Week or 10 days of preparation helps’: Shubman Gill wants time to adapt before Test series",
     "desc": "India captain Shubman Gill stresses adequate preparation time for the World Test Championship campaign. The team needs to win several matches to reach the championship final. Players require time to adapt to different conditions and formats of play. Team India begins its campaign against Sri Lanka in Galle, a venue known for spin. This series offers an opportunity to start the new cycle strongly.",
@@ -340,15 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/week-or-10-days-of-preparation-helps-shubman-gill-wants-time-to-adapt-before-test-series/articleshow/133233361.cms",
     "time": "2026-08-14T08:28:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Batwara 1947' Twitter review: Sunny Deol earns praise",
-    "desc": "The theatrical release of Sunny Deol's latest venture, 'Batwara 1947', is taking the audience by storm, as social media bursts with reviews. Viewers are lauding Deol's intense and heartfelt performance in this adaptation of a play focused on the events surrounding the 1947 Partition. Notably, 'Batwara 1947' is navigating a competitive landscape filled with other opening films.",
-    "img": "https://static.toiimg.com/photo/msid-133233035,imgsize-514411.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/batwara-1947-twitter-review-sunny-deol-earns-praise-for-his-intense-vulnerability-and-emotional-performance-fans-say-aankhon-mein-jo-emotion-hai-woh-kai-baar-dialogues-se-zyada-powerful-lagta-hai/articleshow/133233018.cms",
-    "time": "2026-08-14T08:21:31.000Z"
   },
   {
     "cat": "Entertainment",
@@ -369,31 +450,13 @@ const newsData_en = [
     "time": "2026-08-14T08:02:41.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Vishwanath And Sons' BO day 1 [Live]: Suriya starrer eyes bigger opening",
-    "desc": "Suriya's latest venture, 'Vishwanath And Sons,' has officially hit theaters, garnering praise from audiences. The film's heartwarming family themes and light-hearted narrative have resonated well, reflected in its opening day earnings of Rs 2.33 crore net across India. Enthusiastic viewer reactions suggest a promising weekend boost, with upcoming days being crucial for assessing the film's sustained success at the box office.",
-    "img": "https://static.toiimg.com/photo/msid-133232854,imgsize-149659.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vishwanath-and-sons-box-office-collection-day-1-live-suriya-starrer-eyes-bigger-opening-than-karuppu-after-positive-reviews/articleshow/133232835.cms",
-    "time": "2026-08-14T07:56:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Siddhant's V. Shantaram biopic NOT SHELVED, says director",
-    "desc": "The much-anticipated V Shantaram biopic with Siddhant Chaturvedi remains on the agenda, despite facing setbacks. Director Abhijeet Shirish Deshpande has announced that filming will now commence in April 2027, following recent production delays. Excitingly, the creative team is set to introduce new casting as they prepare for a fresh start in the coming year. Read on to know more in detail.",
-    "img": "https://static.toiimg.com/photo/msid-133232688,imgsize-660835.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/siddhant-chaturvedi-and-tamannaah-bhatia-starrer-v-shantaram-biopic-not-shelved-shoot-pushed-to-2027-director-abhijeet-deshpande-clarifies-we-were-delayed-by-two-months-and-then-the-whole-schedule-went-haywire/articleshow/133232564.cms",
-    "time": "2026-08-14T07:49:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kitu Gidwani calls Bollywood \"fake industry\"",
-    "desc": "Kitu Gidwani called Bollywood a \"fake industry\" lacking royalty structures, comparing it to Hollywood's SAG-AFTRA system. She criticized the absence of intellectual property rights for actors and slammed the industry for denying older women powerful roles, instead typecasting them as generic mothers or \"daadis\" once they turn 30.",
-    "img": "https://static.toiimg.com/photo/msid-133232644,imgsize-184005.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kitu-gidwani-calls-bollywood-fake-industry-slams-lack-of-royalties-and-roles-for-older-women/articleshow/133232619.cms",
-    "time": "2026-08-14T07:47:28.000Z"
+    "cat": "Tech",
+    "title": "Camera Looks, a built-in teleprompter and AI that earns its place",
+    "desc": "Google’s Pixel 11 series lets you choose how your photos look at the moment of capture and puts a teleprompter inside the camera app, with the return of the notification light reserved for the Pro models, from ₹89,999",
+    "img": "https://th-i.thgim.com/public/incoming/rzjqrv/article71340819.ece/alternates/LANDSCAPE_1200/Portfolio%202.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/gadgets/google-pixel-11-series-first-look-camera-looks-a-built-in-teleprompter-and-ai-that-earns-its-place/article71340770.ece",
+    "time": "2026-08-14T07:50:32.000Z"
   },
   {
     "cat": "Sports",
@@ -423,15 +486,6 @@ const newsData_en = [
     "time": "2026-08-14T06:54:30.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Big B recalls strangers walking into Dharmendra's home: 'Had a massive...'",
-    "desc": "Amitabh Bachchan reminisced fondly about Dharmendra's generosity, recalling how his home served as a sanctuary for many from his village. Strangers would enter with the assumption of being welcomed by his wife, showcasing Dharmendra's openness. Often, he would not even recognize his visitors, which underscores the remarkable kindness and big-hearted nature of this legendary actor. Read on to know more.",
-    "img": "https://static.toiimg.com/photo/msid-133231033,imgsize-538933.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-recalls-strangers-walking-into-dharmendras-home-and-an-open-door-free-for-all-hospitality-warmth-and-generosity-he-had-a-massive-heart/articleshow/133230941.cms",
-    "time": "2026-08-14T06:34:13.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘This could be my last WC’: Manpreet Singh eyes title to end India’s 51-year wait",
     "desc": "Manpreet Singh aims for India's second World Cup title after Olympic success. He believes the team possesses the necessary talent and experience for victory. The veteran midfielder approaches this as potentially his final World Cup appearance. India will focus on each match, respecting all opponents throughout the tournament. The squad's strong defence and fitness will support their attacking game.",
@@ -439,15 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/this-could-be-my-last-world-cup-manpreet-singh-eyes-title-to-end-indias-51-year-wait/articleshow/133230874.cms",
     "time": "2026-08-14T06:29:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Shouldn’t govt give employment?’ Supreme Court stays HC order on jobs for Karur stampede victims' kin",
-    "desc": "The Supreme Court has stayed a Madras High Court order regarding government jobs. This order had previously struck down the Tamil Nadu government's decision for stampede victims' relatives. The Supreme Court questioned the challenge to the government's policy for affected families. The High Court had quashed appointments, citing existing guidelines and potential demands. The Supreme Court's stay provides interim relief to the Tamil Nadu government.",
-    "img": "https://static.toiimg.com/photo/msid-133230742,imgsize-193064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/shouldnt-govt-give-employment-supreme-court-stays-hc-order-on-jobs-for-karur-stampede-victims-kin/articleshow/133230654.cms",
-    "time": "2026-08-14T06:21:54.000Z"
   },
   {
     "cat": "Sports",
@@ -459,15 +504,6 @@ const newsData_en = [
     "time": "2026-08-14T06:15:21.000Z"
   },
   {
-    "cat": "Tech",
-    "title": "Camera Looks, a built-in teleprompter and AI that earns its place",
-    "desc": "Google’s Pixel 11 series lets you choose how your photos look at the moment of capture and puts a teleprompter inside the camera app, with the return of the notification light reserved for the Pro models, from ₹89,999",
-    "img": "https://th-i.thgim.com/public/incoming/rzjqrv/article71340819.ece/alternates/LANDSCAPE_1200/Portfolio%202.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/gadgets/google-pixel-11-series-first-look-camera-looks-a-built-in-teleprompter-and-ai-that-earns-its-place/article71340770.ece",
-    "time": "2026-08-14T06:07:01.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Will gold price rally now face profit booking? Check August 14, 2026 outlook",
     "desc": "MCX Gold October futures are witnessing profit booking after a strong rally over the past several sessions. Prices are currently trading near Rs 1,52,400–Rs 1,52,600, where the recent up move appears to be facing resistance.",
@@ -475,15 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-what-is-the-gold-rate-outlook-for-august-14-2026-should-you-buy-or-sell-mcx-gold/articleshow/133230416.cms",
     "time": "2026-08-14T06:06:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "1,057 police, fire and correctional personnel receive gallantry, service medals",
-    "desc": "Over one thousand personnel received Gallantry and Service Medals this Independence Day. Gallantry Medals recognized exceptional courage and actions in critical situations. Many gallantry awards went to personnel serving in Left Wing Extremism-affected areas. President's Medals for Distinguished Service honored special records in their respective fields. Meritorious Service Medals acknowledged valuable service marked by devotion to duty.",
-    "img": "https://static.toiimg.com/photo/msid-133230265,imgsize-260052.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/80th-independence-day-1057-police-fire-and-correctional-personnel-receive-gallantry-service-medals/articleshow/133230207.cms",
-    "time": "2026-08-14T05:49:05.000Z"
   },
   {
     "cat": "Sports",
@@ -531,15 +558,6 @@ const newsData_en = [
     "time": "2026-08-14T04:33:47.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Kangana says 'Shabana Azmi-type people' were at NEET protest",
-    "desc": "Kangana Ranaut took to social media to clarify her earlier 'Generation Gutter' remark, asserting that her comments were specifically directed at certain protesters at Jantar Mantar. She emphasized that the demonstration was not representative of the entire Gen-Z population. Additionally, Ranaut challenged her critics to pinpoint any quotes that were directed at the whole generation, making it clear that her stance is not against the youth as a whole.",
-    "img": "https://static.toiimg.com/photo/msid-133228518,imgsize-572732.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-says-shabana-azmi-type-people-were-at-neet-protest-how-is-it-a-gen-z-protest/articleshow/133228350.cms",
-    "time": "2026-08-14T04:00:47.000Z"
-  },
-  {
     "cat": "Business",
     "title": "'Shadow transshipment network': US names India among 40 nations helping China evade tariffs",
     "desc": "A US report names India among over forty nations facing risks of transshipping Chinese goods. These countries could become conduits for products avoiding American import tariffs. The White House warns of intensified detection and penalties for such trade practices. India is categorized in the top-risk tier alongside major industrial economies. This development complicates ongoing trade negotiations between Washington and New Delhi.",
@@ -556,24 +574,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-sooryavanshi-doesnt-have-that-ex-india-great-explains-rohit-sharma-virat-kohlis-big-edge/articleshow/133228030.cms",
     "time": "2026-08-14T03:22:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "For Satwik, Chirag’s pain is his own as the pair eyes gold",
-    "desc": "Satwiksairaj Rankireddy and Chirag Shetty are preparing to make a comeback at the World Championships after overcoming significant injuries. Their bond as a pair deepens as they navigate the pressures that come with setbacks. With a focus on returning pain-free, the Indian team is eager to enhance their medal aspirations in this home event, while Rankireddy also fine-tunes his smash technique to prioritise long-term sustainability.",
-    "img": "https://static.toiimg.com/photo/msid-133228148,imgsize-90888.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/badminton/bwf-world-championships-for-satwiksairaj-rankireddy-chirag-shettys-pain-is-his-own-as-the-pair-eyes-gold/articleshow/133228126.cms",
-    "time": "2026-08-14T03:20:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Give him clarity’: Ashwin’s blunt message to Gambhir over Sarfaraz's future",
-    "desc": "Sarfaraz Khan's return to the Indian Test squad creates a selection dilemma. He competes with Dhruv Jurel for a spot in the upcoming Sri Lanka series. Former spinner Ravichandran Ashwin believes Jurel might get the nod for the first Test. Ashwin suggests team management should offer Sarfaraz clarity on his role. Spin conditions in Galle could favor Sarfaraz's batting technique against bowlers.",
-    "img": "https://static.toiimg.com/photo/msid-133227540,imgsize-75234.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/give-him-clarity-ashwins-blunt-message-to-gautam-gambhir-over-sarfaraz-khans-india-future/articleshow/133227464.cms",
-    "time": "2026-08-14T02:40:58.000Z"
   },
   {
     "cat": "Business",
@@ -655,33 +655,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/india-has-reassuring-talks-with-us-including-on-bill-that-proposes-100-tariffs/article71341005.ece",
     "time": "2026-08-13T13:27:21.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "What can get you hired &amp; at a premium",
-    "desc": "Experts believe that the era of broad-based recruitment and hefty pay hikes in the Indian IT sector is over. Companies are now tightening hiring at the entry level, while at the same time competing to get experienced professionals in select areas.",
-    "img": "https://static.toiimg.com/photo/msid-133210069,imgsize-1059795.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indian-it-sector-job-market-is-changing-what-can-get-you-hired-at-a-premium/articleshow/133209023.cms",
-    "time": "2026-08-13T11:22:28.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India's trade deficit widens 31.5% to $15bn in July; electronics exports surge 11-fold",
-    "desc": "In July, India faced a significant expansion in its trade deficit, as imports surged ahead of exports. Over the first four months of the fiscal year, cumulative trade gaps widened considerably. Nevertheless, merchandise exports reached impressive heights in July, with electronics manufacturing emerging as a crucial growth sector. Additionally, the rise in mobile phone production and exports contributed to significant employment opportunities.",
-    "img": "https://static.toiimg.com/photo/msid-133209646,imgsize-130692.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-trade-portfolio-deficit-widens-31-5-to-15bn-in-july-electronics-exports-surge-11-fold/articleshow/133208954.cms",
-    "time": "2026-08-13T11:04:29.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Bill a concern for India, but ‘talks have been reassuring’",
-    "desc": "The proposed Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 would empower the US President to levy tariffs of up to 100% on countries that purchase large volumes of crude oil and natural gas from Russia.",
-    "img": "https://static.toiimg.com/photo/msid-133208170,imgsize-662283.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/us-tariff-threat-on-russian-oil-bill-a-concern-for-india-but-talks-have-been-reassuring/articleshow/133207983.cms",
-    "time": "2026-08-13T10:14:52.000Z"
   },
   {
     "cat": "Tech",
@@ -837,15 +810,6 @@ const newsData_en = [
     "time": "2026-08-12T14:04:25.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "CRICKET",
-    "desc": "The 26-year-old has made a noticeable change to his load-up, gathering the ball closer to his body allowing him to rip the leg-break a little bit more without hampering the amount of turn for his googly",
-    "img": "https://th-i.thgim.com/public/incoming/vbxlfr/article71336597.ece/alternates/LANDSCAPE_1200/10216_12_8_2026_17_56_14_2_12_08_2026_JHATHAVEDH_6.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/cricket-leg-spinner-jhathavedhs-apprenticeship-with-ashwin-has-worked-wonders/article71335658.ece",
-    "time": "2026-08-12T12:45:19.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Last Seen’ trailer: Patrick Brammall searches for his missing daughter in Apple TV’s new thriller",
     "desc": "Apple TV has released the first trailer for ‘Last Seen’, a new Australian thriller starring Patrick Brammall as a former detective who receives a distress call that could finally reveal what happened to his daughter, who vanished 11 years earlier",
@@ -898,5 +862,41 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/diesels-desire-an-engine-for-everyone/article71285487.ece",
     "time": "2026-08-08T06:54:25.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "What is the EU AI transparency code?",
+    "desc": "Starting from August 2, the EU mandates labels for AI-generated content to boost transparency online. From deepfakes to manipulated text, find out how this new code seeks to protect users and maintain the integrity of information",
+    "img": "https://th-i.thgim.com/public/news/national/b0sala/article71279838.ece/alternates/LANDSCAPE_1200/iStock-1976099664%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/what-is-the-eu-ai-transparency-code-explained/article71279676.ece",
+    "time": "2026-08-08T01:41:37.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
   }
 ];

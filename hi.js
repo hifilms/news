@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Ayush Badoni shares Virat Kohli's advice to him, says ready for any role to play for India",
+    "desc": "Ayush Badoni is currently in India’s scheme of things as far as ODI cricket is concerned. The Delhi all-rounder received a call-up for the ODI series against New Zealand after Washington Sundar was ruled out,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ayush-badoni-shares-virat-kohli-s-advice-to-him-says-ready-for-any-role-to-play-for-india-2026-08-14-1051408",
+    "time": "2026-08-14T15:27:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Churchill Brothers buys Jamshedpur FC for merely Rs 100, likely to play upcoming ISL",
+    "desc": "Tata Steel has agreed to transfer its entire stake in Jamshedpur Football and Sporting Private Limited (JFSPL), the company behind Jamshedpur FC, to Churchill Brothers Sports Club Private Limited for a nominal consideration of Rs...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/churchill-brothers-buys-jamshedpur-fc-for-merely-rs-100-likely-to-play-upcoming-isl-2026-08-14-1051404",
+    "time": "2026-08-14T14:35:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jemimah Rodrigues ruled out of Asia Cup, Asian Games; BCCI announce ODI World Cup star as replacement",
+    "desc": "Star India batter Jemimah Rodrigues has been ruled out of the upcoming Asia Cup, starting Friday, August 28. The Mumbai-born picked up a hamstring injury during The Hundred in England, which subsequently ruled her out...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jemimah-rodrigues-ruled-out-of-asia-cup-asian-games-bcci-announce-odi-world-cup-star-as-replacement-2026-08-14-1051398",
+    "time": "2026-08-14T13:51:12.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Priyansh Arya defends Punjab Kings after IPL 2026 collapse, says 'we didn't suffer because of any individual'",
     "desc": "Punjab Kings made a flying start to their IPL 2026 campaign, winning six of their first seven matches, with their game against Kolkata Knight Riders washed out due to rain. The Shreyas Iyer-led side quickly...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ricky-ponting-slams-australia-after-the-latter-s-subpar-show-against-bangladesh-in-darwin-test-2026-08-14-1051336",
     "time": "2026-08-14T05:51:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tanzid Hasan scripts history, smashes marvellous century against Australia in first Test",
-    "desc": "Bangladesh took on Australia in the first Test of the ongoing series. The two sides met for the first Test of the series in Mackay. The clash saw Australia come in to bat first, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/tanzid-hasan-scripts-history-smashes-marvellous-century-against-australia-in-first-test-2026-08-14-1051332",
-    "time": "2026-08-14T04:59:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer weighs in on Sarfaraz Khan's inclusion in India's squad ahead of first SL Test",
-    "desc": "The Indian team is all set to take on Sri Lanka in a two-game Test series. The two sides will take on each other in the first Test of the series at the Galle International...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-weighs-in-on-sarfaraz-khan-s-inclusion-in-india-s-squad-ahead-of-first-sl-test-2026-08-14-1051325",
-    "time": "2026-08-14T03:38:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Technology saved me': Steve Smith admits edging Edabot Hossain's delivery after day 1 of ongoing BAN Test",
-    "desc": "Australia kicked off their two-game Test series against Bangladesh by taking on the side for the first Test of the series at the Marrara Stadium, Darwin, from August 13th. The clash began with Australia coming...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/technology-saved-me-steve-smith-admits-edging-edabot-hossain-s-delivery-after-day-1-of-ongoing-ban-test-2026-08-14-1051319",
-    "time": "2026-08-14T02:33:40.000Z"
   }
 ];
