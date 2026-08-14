@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Priyansh Arya defends Punjab Kings after IPL 2026 collapse, says 'we didn't suffer because of any individual'",
+    "desc": "Punjab Kings made a flying start to their IPL 2026 campaign, winning six of their first seven matches, with their game against Kolkata Knight Riders washed out due to rain. The Shreyas Iyer-led side quickly...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/priyansh-arya-defends-punjab-kings-after-ipl-2026-collapse-says-we-didn-t-suffer-because-of-any-individual-2026-08-14-1051387",
+    "time": "2026-08-14T12:39:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Auqib Nabi not in contention; one between Gurnoor Brar and Prasidh Krishna to play first Test vs Sri Lanka",
+    "desc": "Indian team returns to red-ball cricket in the first Test against Sri Lanka, starting August 15 in Galle. On the eve of the match, captain Shubman Gill clarified that Jammu and Kashmir pacer Auqib Nabi...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/auqib-nabi-not-in-contention-one-between-gurnoor-brar-and-prasidh-krishna-to-play-first-test-vs-sri-lanka-2026-08-14-1051377",
+    "time": "2026-08-14T11:25:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bhuvneshwar Kumar, Mohammed Shami should get a chance in Indian team: Navdeep Saini",
+    "desc": "Delhi and Kolkata Knight Riders pacer Navdeep Saini believes veteran fast bowlers Mohammed Shami and Bhuvneshwar Kumar deserve another opportunity with the Indian team. Despite continuing to prove their worth in domestic cricket and the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bhuvneshwar-kumar-mohammed-shami-should-get-a-chance-in-indian-team-navdeep-saini-2026-08-14-1051370",
+    "time": "2026-08-14T10:45:38.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "VVS Laxman slated to take over as BCCI's next director of cricket ahead of major reshuffle",
     "desc": "In a major development, the BCCI (Board of Control for Cricket in India) is looking for a major reshuffle in its board, and according to reports, it looks like time for a new director of...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/technology-saved-me-steve-smith-admits-edging-edabot-hossain-s-delivery-after-day-1-of-ongoing-ban-test-2026-08-14-1051319",
     "time": "2026-08-14T02:33:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vinay Kumar named new Karnataka head coach ahead of upcoming domestic season",
-    "desc": "In a major development, the KSCA (Karnataka State Cricket Association) has come forward and named former India cricketer Vinay Kumar as Karnataka’s head coach ahead of the upcoming domestic season. At 42 years old, Vinay...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vinay-kumar-named-new-karnataka-head-coach-ahead-of-upcoming-domestic-season-2026-08-14-1051315",
-    "time": "2026-08-14T01:34:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India opt out of FIFA ASEAN Cup to make way for much-awaited Brazil friendly in Kolkata",
-    "desc": "Indian football has made a significant call ahead of a busy international calendar, with the All India Football Federation (AIFF) deciding to withdraw the national team from the inaugural FIFA ASEAN Cup. The move has...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/india-opt-out-of-fifa-asean-cup-to-make-way-for-much-awaited-brazil-friendly-in-kolkata-2026-08-13-1051302",
-    "time": "2026-08-13T15:57:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Savita Punia confident India can challenge world's best at Women's Hockey World Cup",
-    "desc": "India will enter the FIH Women’s Hockey World Cup with renewed confidence after winning the Nations Cup. Goalkeeper Savita Punia believes that the team has shown it can compete against the strongest sides in international...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/hockey/savita-punia-confident-india-can-challenge-world-s-best-at-women-s-hockey-world-cup-2026-08-13-1051279",
-    "time": "2026-08-13T12:02:06.000Z"
   }
 ];

@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "ઝી એન્ટરટેઇનમેન્ટને SAT તરફથી મોટી રાહત, SEBIના આદેશ પર રોક, શેરમાં જોરદાર ઉછાળો",
+    "desc": "ZEE એન્ટરટેઈનમેન્ટ એન્ટરપ્રાઇઝ લિમિટેડ (ZEEL)ને સિક્યોરિટીઝ એપેલેટ ટ્રિબ્યુનલ (SAT) દ્વારા મોટી રાહત આપવામાં આવી છે. SATએ કંપની સામેના SEBIના આદેશ પર સ્ટે આપ્યો છે. SATની રાહતથી ZEE એન્ટરટેઈનમેન્ટને 3,143 કરોડ રૂપિયા એકત્ર કરવાનો માર્ગ મોકળો થયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/zee-entertainment-gets-big-relief-from-sat-sebi-order-stays-shares-surge-487718 ",
+    "time": "2026-08-14T11:17:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ફાલ્ગુની પાઠકના ગરબા પાસની કિંમત જાણી નેટિઝન્સ આઘાતમાં! બોલ્યા- કિડની ગીરવે મૂકવી પડશે",
+    "desc": "નવરાત્રી આવે અને ફાલ્ગુની પાઠકના ગરબાની ચર્ચા ન થાય તે શક્ય નથી. ફાલ્ગુની પાઠક દર વખતે મુંબઈમાં પોતાના ખાસ નવરાત્રી કોન્સર્ટ દ્વારા ગરબાપ્રેમીઓને ઝૂમવાની તક આપે છે. ગરબા ક્વીનના નામથી પ્રખ્યાત ફાલ્ગુની પાઠકના ગરબાના પાસના ભાવે લોકોના હોશ ઉડાવી દીધા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/people-shocked-to-know-the-price-of-falguni-pathak-navratri-utsav-garba-pass-487715 ",
+    "time": "2026-08-14T10:42:57.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "ધર્મેન્દ્ર પ્રધાન પછી આ વ્યક્તિનું રાજીનામુ માગી રહ્યા છે કોકરોચ, CJIએ કર્યું એલાન",
     "desc": "BCI એટલે કે બાર કાઉંસિલ ઓફ ઈન્ડિયાના અધ્યક્ષ મનન કુમાર મિશ્રા સામે કોકરોચ જનતા પાર્ટી ખુલીને સામે આવી રહી છે, પાર્ટીના પ્રવક્તા સૌરભ દાસે તેમની રાજીનામાની માંગ કરી છે, જો કે તેના પર મનન કુમાર મિશ્રા તરફથી કોઈ પ્રતિક્રીયા આવી નથી.",
@@ -306,15 +324,6 @@ const newsData_gu = [
     "time": "2026-08-12T07:11:37.000Z"
   },
   {
-    "cat": "Business",
-    "title": "પાન-મસાલા અને ગુટખાના શોખીનો માટે મોટો ઝટકો: FSSAIએ આ વસ્તુ પર મૂક્યો પ્રતિબંધ, નવા નિયમો જાહેર",
-    "desc": "પાન મસાલાના પેકેજિંગમાં ઉપયોગમાં લેવાતા પ્લાસ્ટિક પર પ્રતિબંધ મૂક્યો છે. નવા નિયમો હેઠળ કંપનીઓ હવે ફક્ત કાગળ, ટીન અથવા ગ્લાસ કન્ટેનરમાં જ પાન મસાલા પેક કરીને વેચી શકશે. કંપનીઓએ નવા ઇકો-ફ્રેન્ડલી વિકલ્પો તરફ વળવું પડશે. FSSAI એ ફૂડ સેફ્ટી એન્ડ સ્ટાન્ડર્ડ પેકેજિંગ એમેન્ડમેન્ટ રેગ્યુલેશન 2026 ને નોટિફાય કર્યું છે. આ નવા નિયમો તાત્કાલિક અમલમાં આવી ગયા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/big-blow-for-pan-masala-and-gutkha-enthusiasts-fssai-bans-this-item-announces-new-rules-487488 ",
-    "time": "2026-08-12T06:47:55.000Z"
-  },
-  {
     "cat": "World",
     "title": "શું 2028માં ફરીથી અમેરિકાના રાષ્ટ્રપતિ બનશે ટ્રમ્પ? ત્રીજા કાર્યકાળને લઈને તોડ્યું મૌન, જાણો",
     "desc": "યુએસ પ્રમુખ ડોનાલ્ડ ટ્રમ્પે કહ્યું કે તેઓ 2028માં ત્રીજી રાષ્ટ્રપતિની ચૂંટણી લડવાનો ઇરાદો ધરાવે છે, પરંતુ યુએસ બંધારણમાં કડક 22મો સુધારો તેમને આમ કરવાથી રોકી રહ્યો છે. તેમણે તુર્કીની મુલાકાત દરમિયાન સુરક્ષા જોખમો, હોર્મુઝ સ્ટ્રેટમાં યુએસ પ્રભુત્વ અને મજબૂત અર્થતંત્ર વિશે પણ ખુલ્લેઆમ વાત કરી.",
@@ -376,15 +385,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/indians-can-get-free-3-month-uae-visa-check-eligibility-and-rules-487416 ",
     "time": "2026-08-11T12:07:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "JioHotstarને ભૂલી જાઓ... આ ચેનલ પર જોવા મળશે ભારત vs શ્રીલંકા ટેસ્ટ મેચ, જાણો કેટલા વાગ્યે થશે શરૂ",
-    "desc": "ભારત અને શ્રીલંકા વચ્ચેની ટેસ્ટ શ્રેણીની પહેલી મેચ 15 ઓગસ્ટથી ગાલેમાં શરૂ થશે. તમે આ શ્રેણીની મેચો સ્ટાર સ્પોર્ટ્સ અથવા જિયો હોટસ્ટાર પર જોઈ શકશો નહીં. ત્યારે આ લેખમાં જાણીશું કે આ મેચોનું લાઈવ પ્રસારણ અને સ્ટ્રીમિંગ ક્યાં થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/india-vs-sri-lanka-live-streaming-when-and-where-to-watch-ind-vs-sl-test-match-live-487411 ",
-    "time": "2026-08-11T10:33:58.000Z"
   },
   {
     "cat": "Tech",
@@ -475,15 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/this-country-surrendered-in-less-than-45-minutes-know-the-story-of-the-shortest-war-in-the-world-487276 ",
     "time": "2026-08-10T05:56:37.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "US-Iran મહાયુદ્ધને લઈને મોટો ખુલાસો! પરમાણુ હથિયાર નહીં, ટ્રમ્પ આ શરત પર ખત્મ કરી શકે છે યુદ્ધ, જાણો",
-    "desc": "અમેરિકા અને ઈરાન વચ્ચે લાંબા સમયથી જંગ ચાલી રહી છે, ત્યારે ગઈ કાલે એટલે કે 09 ઓગસ્ટ અને રવિવારના રોજ ઈરાને અમેરિકા સામે અમુક શરતો પર સમાધાન કરવા ઈચ્છા જણાવી હતી, જો કે તેના પર અમેરિકા તરફથી કોઈ જવાબ મળ્યો નથી, ત્યારે હવે અમેરિકામાં ચૂંટણી આવી રહી છે અને ટ્રમ્પ આ ચૂંટણી જીતવા માટે કોઈ પણ શરતો માની શકે છે અને યુદ્ધ ખત્મ કરવા અને હોર્મુંઝ ખોલવા માટે પીછે હટ કરી શકે છે. ત્યારે એ કઈ શર્ત છે, જેના પર ટ્રમ્પ પરમાણુ ડીલને પણ છોડી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/big-revelation-about-us-iran-war-no-nuclear-weapons-trump-can-end-the-war-on-this-condition-know-487260 ",
-    "time": "2026-08-10T03:05:24.000Z"
   },
   {
     "cat": "Entertainment",
@@ -610,15 +601,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/actress-sushmita-mukherjee-worked-in-c-grade-movies-to-clear-crore-rupees-debt-487017 ",
     "time": "2026-08-07T10:19:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "આ વીકેન્ડમાં મળશે ભરપુર મનોરંજન, 7 ઓગસ્ટે ઓટીટી પર રિલીઝ થયેલી નવી ફિલ્મો અને વેબ સીરીઝનું જોઈ લો લિસ્ટ",
-    "desc": "આ વીકેન્ડ પર ઓટીટી પ્લેટફોર્મસ પર જોવા માટે ઘણું બધું છે. બોલીવુડ ફિલ્મોથી લઈ કે ડ્રામા સુધી બધું જ આ વીકેન્ડમાં જોવા મળશે. શનિ-રવિની રજામાં તમે ઓટીટી પર કઈ ફિલ્મ કે વેબ સીરીઝ જોશો તે નક્કી કરો આ લિસ્ટ ચેક કરીને.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/weekend-entertainment-friday-7-august-ott-release-movies-and-web-series-this-weekend-ott-release-487001 ",
-    "time": "2026-08-07T08:50:33.000Z"
   },
   {
     "cat": "Tech",
