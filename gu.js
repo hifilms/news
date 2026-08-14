@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "કોકરોચ જનતા પાર્ટી આવતીકાલથી શરૂ કરવા જઈ રહી છે આ અભિયાન, અભિજીત દીપકેના ગામથી થશે શરૂઆત",
+    "desc": "અભિજીત દીપકેએ જણાવ્યું કે, અમે એવી ઘણી ટીમો બનાવી છે જે ગામડાઓમાં જશે અને ત્યાંના લોકો તથા સરપંચોને શાળાઓની સ્થિતિ સુધારવા માટે પગલાં ભરવા વિનંતી કરશે, કારણ કે અમે આ કામ સામૂહિક ભાગીદારી દ્વારા પૂરું કરવા માંગીએ છીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/cockroach-janata-party-is-going-to-start-this-campaign-from-tomorrow-it-will-start-from-abhijeet-deepke-village-487752 ",
+    "time": "2026-08-14T17:52:22.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "અલ નીનો તોડશે બધા રેકોર્ડ! 2026ના અંતમાં આવશે 70 વર્ષની સૌથી મોટી કુદરતી આફત?",
+    "desc": "હવામાનશાસ્ત્રીઓએ 2026ના અંત અને 2027ની શરૂઆતમાં એક મોટું રેડ એલર્ટ જાહેર કર્યું છે. યુએસ ઓશનિક એન્ડ એટમોસ્ફેરિક એડમિનિસ્ટ્રેશન (NOAA)ના એક નવા અહેવાલ મુજબ, આ ઘટના 1950 પછીના તમામ રેકોર્ડ તોડી શકે છે, જે ભારત સહિત વિશ્વભરના હવામાન અને ચોમાસાને ગંભીર અસર કરી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/el-nino-will-break-all-records-will-the-biggest-natural-disaster-in-70-years-come-at-the-end-of-2026-487748 ",
+    "time": "2026-08-14T16:13:57.000Z"
+  },
+  {
     "cat": "Business",
     "title": "સોનાના ભાવમાં ઘટાડો, 1.40 લાખ રૂપિયા પર પહોંચ્યો ગોલ્ડ રેટ, જાણો કેમ ઘટ્યા",
     "desc": "આજે, શુક્રવારે અને 14 ઓગસ્ટના રોજ સોનાના ભાવમાં થોડો ઘટાડો થયો છે. બુલિયન બજારમાં સોનાના ભાવમાં 45 રૂપિયાનો ઘટાડો થયો છે. 24 કેરેટ સોનાના 10 ગ્રામનો ભાવ 153230 રૂપિયા છે. બુલિયન બજારમાં 22 કેરેટ સોનાનો ભાવ 140360 રૂપિયા છે.",
@@ -297,15 +315,6 @@ const newsData_gu = [
     "time": "2026-08-12T13:57:26.000Z"
   },
   {
-    "cat": "Business",
-    "title": "કેટલી સંપત્તિના માલિક છે વિધાનસભાના અધ્યક્ષ શંકર ચૌધરી ? આંકડો જાણીને ચોંકી જશો!",
-    "desc": "ઉત્તર ગુજરાતના દિગ્ગજ નેતા શંકર ચૌધરી હાલમાં ગુજરાત વિધાનસભાના અધ્યક્ષ તરીકે મહત્વની જવાબદારી સંભાળી રહ્યા છે. શંકર ચૌધરી 2022ની વિધાનસભા ચૂંટણીમાં થરાદ બેઠક પરથી ચૂંટાઈ આવ્યા હતા. તેમની સંપત્તિની વાત કરીએ તો તેઓ જમીન-મકાન, બેંક ડિપોઝિટ, રોકાણ, સોના-ચાંદી સહિત કરોડોની મિલકત ધરાવે છે, જેના વિશે આ લેખમાં વિસ્તારથી જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gujarat-assembly-speaker-shankar-chaudhary-net-worth-know-his-total-property-487546 ",
-    "time": "2026-08-12T13:10:10.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "વર્લ્ડ કપ 2027 બાદ જસપ્રીત બુમરાહ ફક્ત T20 જ રમશે! BCCIએ બનાવ્યો ખાસ પ્લાન, જાણો શું છે કારણ",
     "desc": "જસપ્રીત બુમરાહની ઈજા ટીમ ઈન્ડિયા માટે એક મોટી સમસ્યા સાબિત થઈ છે. BCCIનો ટાર્ગેટ તેને 2027ના વનડે વર્લ્ડ કપ સુધી ફિટ રાખવાનો છે. અહેવાલો અનુસાર, બુમરાહ આ મોટી ટુર્નામેન્ટ પછી ક્રિકેટના લાંબા ફોર્મેટથી દૂર થઈ શકે છે.",
@@ -385,15 +394,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/phone-ring-as-soon-as-he-retired-this-legend-not-virat-rohit-made-the-first-call-ajinkya-rahane-now-reveals-487433 ",
     "time": "2026-08-11T15:41:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ફૂકેટ-દિલ્હી ફ્લાઈટનો પાયલોટ ગાંજો પીને પ્લેન ઉડાવી રહ્યો હતો? બીજો ડોપ ટેસ્ટ પણ પોઝિટિવ-રિપોર્ટ",
-    "desc": "થાઈલેન્ડના ફૂકેટથી દિલ્હી આવી રહેલી એર ઈન્ડિયાની ફ્લાઈટના બે પાયલોટમાંથી એકનો ડોપ ટેસ્ટ ફેલ હોવાનો દાવો થઈ રહ્યો છે. આ ફ્લાઈટ 4 ઓગસ્ટના રોજ જોરદાર ટર્બ્યુલન્સમાં ફસાઈ હતી અને અચાનક 300 ફૂટ નીચે આવી ગઈ હતી. ફ્લાઈટમાં 137 મુસાફરો અને 8 ક્રૂ સભ્યો હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/air-india-phuket-delhi-flight-turbulence-case-shocking-result-of-pilot-second-dope-test-487432 ",
-    "time": "2026-08-11T15:40:52.000Z"
   },
   {
     "cat": "World",
@@ -619,14 +619,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/actress-sushmita-mukherjee-worked-in-c-grade-movies-to-clear-crore-rupees-debt-487017 ",
     "time": "2026-08-07T10:19:29.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "AIએ પહેલીવાર લેબમાં બનાવી નાખ્યો નવો વાયરસ! વૈજ્ઞાનિકો પણ હેરાન, શું માણસો માટે છે કોઈ ખતરો?",
-    "desc": "AIએ હવે મેડિકલ સાયન્સમાં કદમ મૂકતા લેબની અંદર આખા વાયરલ જીનોમને ખુદ ડિઝાઇન કરીને 16 નવા વાયરસ તૈયાર કર્યા છે. જોકે રાહતની વાત એ છે કે આ વાયરસ માણસો માટે સુરક્ષિત છે અને બેક્ટેરિયા ખતમ કરવામાં મદદ કરશે, પરંતુ આ ઘટનાએ એક બાબતે ચિંતા વધારી દીધી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/ai-has-created-a-new-virus-in-the-lab-for-the-first-time-even-scientists-are-astonished-does-it-pose-a-threat-to-humans-486995 ",
-    "time": "2026-08-07T08:06:10.000Z"
   }
 ];

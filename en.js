@@ -1,6 +1,123 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Concerned citizens urge CJI to uphold liberty of Umar Khalid and Sharjeel Imam",
+    "desc": "The signatories, who wrote to CJI on the eve of India’s 80th Independence day, invoked the Supreme Court’s 2021 judgment in K.A. Najeeb, which held that prolonged incarceration can violate an accused person’s fundamental right to a speedy trial under Article 21 of the Constitution",
+    "img": "https://th-i.thgim.com/public/incoming/8rds3f/article71347185.ece/alternates/LANDSCAPE_1200/Umar-Khalid_G01GSFG8OCM3.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/concerned-citizens-urge-cji-to-uphold-liberty-of-umar-khalid-and-sharjeel-imam/article71346955.ece",
+    "time": "2026-08-14T18:23:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Cockroaches, expired food: Maharashtra FDA suspends 14 licences linked to Blinkit, Zepto, Instamart",
+    "desc": "The Maharashtra FDA took decisive action by suspending licenses for fourteen food outlets affiliated with quick-commerce services like Blinkit and Zepto, citing significant hygiene breaches. Inspections uncovered problems in pest management, storage conditions, and temperature regulation. In response, some establishments were temporarily closed, while others received official notices to rectify non-compliance, highlighting the urgent need for online food operators to maintain strict safety standards.",
+    "img": "https://static.toiimg.com/photo/msid-133248623,imgsize-944068.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cockroaches-expired-food-maharashtra-fda-suspends-14-licences-linked-to-blinkit-zepto-instamart/articleshow/133248610.cms",
+    "time": "2026-08-14T17:26:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Gen Z and Gen Alpha labels distance youth from Indian culture",
+    "desc": "Ramayan actor Sunil Lahri has sparked debate with his comments on Gen Z and Gen Alpha, saying such labels are taking younger generations “away from us” and are not rooted in Indian culture. He urged schools to incorporate Gurukul values into modern education, arguing that traditional learning can help preserve Indian sanskar, respect and cultural identity.",
+    "img": "https://static.toiimg.com/photo/msid-133248244,imgsize-81759.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayan-actor-sunil-lahri-says-gen-z-gen-alpha-labels-are-taking-younger-generation-away-from-us-urges-schools-to-revive-gurukul-system/articleshow/133248110.cms",
+    "time": "2026-08-14T17:11:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Lok Sabha panel seeks Rahul Gandhi's response on privilege notices over remarks against Amit Shah",
+    "desc": "Rahul Gandhi has been served a Lok Sabha notice regarding privilege complaints raised by BJP MPs Anurag Thakur and Sanjay Jaiswal. The complaints accuse Gandhi of using inappropriate and disrespectful language towards Amit Shah. He is required to submit a response to the Secretariat by August 28, after which the Speaker will assess both the complaints and his reply.",
+    "img": "https://static.toiimg.com/photo/msid-133248234,imgsize-904915.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/lok-sabha-panel-seeks-rahul-gandhis-response-on-privilege-notices-over-remarks-against-amit-shah/articleshow/133248206.cms",
+    "time": "2026-08-14T17:10:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'What if': Shoaib Akhtar expresses big 'Imran Khan' regret",
+    "desc": "Shoaib took 178 wickets in 46 Tests during his international career, which ended during the 2011 World Cup in India amid reported differences with then Pakistan captain Shahid Afridi. He also took 247 wickets in 163 ODIs and 21 wickets in 15 T20Is.",
+    "img": "https://static.toiimg.com/photo/msid-133247008,imgsize-1027349.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/what-if-shoaib-akhtar-expresses-big-imran-khan-regret-reflects-on-career/articleshow/133246549.cms",
+    "time": "2026-08-14T17:00:06.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Lower oil prices, not Iran’s nuclear programme, now top priority: U.S.",
+    "desc": "‘Goal number one is to keep oil and gas cheap for Americans; and then obviously goal number two is ensure that Iran never gets a nuclear weapon,’ says Vice President J.D. Vance; the U.S. is set to announce new ‘economic punishment’ for Iran soon",
+    "img": "https://th-i.thgim.com/public/incoming/vxc3kl/article71347042.ece/alternates/LANDSCAPE_1200/AFP_C4ME3ZR.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/lower-oil-prices-not-irans-nuclear-programme-now-top-priority-us/article71347037.ece",
+    "time": "2026-08-14T16:56:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India's green bonds find footing as stable 'greenium' underscores investor appetite",
+    "desc": "New Delhi sold 50 billion rupees ($524 ⁠million) of 30-year sovereign green bonds, at a so-called greenium of four basis points on Friday, leading to an average premium of four bps ‌in the fiscal half-year, the highest since such sales began in the second half of fiscal 2023",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/indias-green-bonds-find-footing-as-stable-greenium-underscores-investor-appetite/article71347030.ece",
+    "time": "2026-08-14T16:53:51.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Coal demand to touch 1.6 billion tonnes by 2030; need transparent, market-driven pricing: Official",
+    "desc": "\"Coal demand is projected to rise further to an estimated 1.6 billion tonnes by 2030,\" Dutt said, adding that we are at an \"inflection point\" where we are shifting from a scarcity scenario to one of surplus",
+    "img": "https://th-i.thgim.com/public/incoming/dsb2hk/article71347021.ece/alternates/LANDSCAPE_1200/2026-08-13T121116Z_1330222640_RC2TA6ANUCVR_RTRMADP_3_INDIA-MINING.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/coal-demand-to-touch-16-billion-tonnes-by-2030-need-transparent-market-driven-pricing-official/article71347007.ece",
+    "time": "2026-08-14T16:47:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Woman’s death in Bengaluru accident becomes flashpoint for residents’ anger over bad roads in Electronics City Phase 2",
+    "desc": "Following Medha Prithviraj’s death, residents have been demanding better roads in Electronics City Phase 1. While most roads in the area are narrow and pothole-filled, several other stretches have been dug up for civic works.",
+    "img": "https://th-i.thgim.com/public/news/national/karnataka/y0bbcq/article71344557.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-14%20at%2012.50.43%201.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/bangalore/womans-death-in-bengaluru-accident-becomes-flashpoint-for-residents-anger-over-bad-roads-in-electronics-city-phase-2/article71344368.ece",
+    "time": "2026-08-14T16:38:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "President Murmu approves 78 gallantry awards",
+    "desc": "President Droupadi Murmu has approved a total of seventy-eight gallantry awards, including nine Kirti Chakras and nineteen Shaurya Chakras, recognizing the exceptional bravery of defence personnel and central armed police forces. Many of these awards are awarded posthumously. This recognition underscores the remarkable commitment and courage displayed by individuals across the Army, Navy, and Air Force, emphasizing the nation's deep respect and appreciation for their service.",
+    "img": "https://static.toiimg.com/photo/msid-133246604,imgsize-157464.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/president-murmu-approves-78-gallantry-awards/articleshow/133246351.cms",
+    "time": "2026-08-14T16:01:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Allegations of illegal sand mining against E.V. Velu will be probed, says the Tiruvannamalai Collector",
+    "desc": "Vandana Garg’s reaction came after an NGO lodged a complaint with the DVAC, alleging that a large quantity of sand from the dry lake bed was illegally mined by Mr. Velu and his supporters for levelling an open land to organise the DMK’s northern zone youth wing conference on December 14 last year",
+    "img": "https://th-i.thgim.com/public/incoming/n802gm/article71346725.ece/alternates/LANDSCAPE_1200/Madras-High-CouG8CG7PURH.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/allegations-of-illegal-sand-mining-against-ev-velu-will-be-probed-says-the-tiruvannamalai-collector/article71345708.ece",
+    "time": "2026-08-14T15:51:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ronaldo wedding had four guests; prenup details emerge",
+    "desc": "A newly surfaced marriage certificate has revealed that Cristiano Ronaldo and Georgina Rodríguez’s secret wedding had four additional witnesses beyond their five children. The ceremony took place at their Cascais home on August 11, with Ronaldo’s longtime friend and Georgina’s sister among those present. Notably, Ronaldo’s mother Dolores and sisters Elma and Katia were absent from the intimate ceremony.",
+    "img": "https://static.toiimg.com/photo/msid-133246286,imgsize-223024.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/ronaldos-secret-wedding-rocked-by-new-twist-after-leaked-marriage-certificate-reveals-4-surprise-witnesses/articleshow/133241460.cms",
+    "time": "2026-08-14T15:50:49.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Trump admin accuses over 40 nations including India of helping China evade tariffs",
+    "desc": "The White House report classifies more than 40 countries into three separate tiers based on their alleged role in transshipment activities. India has been placed in Tier 1, labelled \"Diversified Scale Leaders\", alongside Canada, the European Union, Israel, Japan, Mexico, South Korea and Taiwan.",
+    "img": "https://static.toiimg.com/photo/msid-133246200,imgsize-346590.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/trump-admin-accuses-over-40-nations-including-india-of-helping-china-evade-tariffs-what-it-means/articleshow/133245956.cms",
+    "time": "2026-08-14T15:46:56.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "What US, UK and others think about India at 80",
     "desc": "India's standing on the global stage reveals a mixed bag of perceptions among nations, with only 45% viewing it favorably. While Pakistan's outlook remains critical, Sri Lanka showcases significant support. Since 2025, favorability has waned in several countries, yet noteworthy improvements have emerged in Germany and the UK, highlighting the complexities and challenges of India's international reputation.",
     "img": "https://static.toiimg.com/photo/msid-133246112,imgsize-1675112.cms",
@@ -9,49 +126,22 @@ const newsData_en = [
     "time": "2026-08-14T15:43:17.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Karur Stampede: Supreme Court stay on govt. jobs for victims’ families| Above the Fold| 14.08.2026",
-    "desc": "the Chamoli tunnel tragedy that killed seven workers, waste during the Kanwar Yatra, a White House report flagging India over China’s tariff evasions, and the Supreme Court quashing a hate speech case against Rahul Gandhi over Savarkar remarks.",
-    "img": "https://th-i.thgim.com/public/news/national/51yycl/article71346643.ece/alternates/LANDSCAPE_1200/AUGUST%2014%202.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-karur-stampede-supreme-court-stay-on-govt-jobs-for-victims-families-above-the-fold-14082026/article71346645.ece",
-    "time": "2026-08-14T15:38:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Centre notifies 40 questions for second phase",
-    "desc": "For the first time, Census 2027 will ask parents’ particulars, details of bank accounts, Aadhaar, passport, voter ID number, driving licence among others; this is also the first Census since 1931 to enumerate caste as well",
-    "img": "https://th-i.thgim.com/public/incoming/jhszzh/article71344181.ece/alternates/LANDSCAPE_1200/80968_16_6_2026_14_48_9_2_7O3A0570.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/census-2027-to-have-40-questions-including-details-of-caste-covid-vaccination-id-proofs/article71344141.ece",
-    "time": "2026-08-14T15:24:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Sunil Amrith On 'The Burning Earth' And The Unequal Costs Of Environmental Destruction",
-    "desc": "Sunil Amrith is the Renu and Anand Dhawan Professor of History at Yale University with a secondary appointment as professor at the Yale School of the Environment. He serves as Director of the Macmillan Centre for International and Area Studies and Yale's Vice Provost for International Affairs. He has received the 2016 Infosys Prize in Humanities, a 2017 MacArthur Fellowship, and the 2025 Toynbee Prize in Global History, among others. He has authored five books that put Asia at the heart of global history. In this conversation, he discusses his book, 'The Burning Earth'.",
-    "img": "https://static.toiimg.com/photo/msid-133244981,imgsize-75956.cms",
+    "cat": "Entertainment",
+    "title": "‘Toxic’ star Rukmini Vasanth says Yash fan girl moment was ‘Incredible’",
+    "desc": "Actress Rukmini Vasanth is thrilled about her role in the highly anticipated film Toxic. She plays Melissa, delving deep into her character's journey within this expansive narrative. Vasanth is particularly eager to share the screen with the talented actor Yash. Directed by Geetu Mohandas, this gangster action thriller will hit theaters on August 26, 2026, promising an adventure for viewers.",
+    "img": "https://static.toiimg.com/photo/msid-133245955,imgsize-1619115.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sunil-amrith-on-the-burning-earth-and-the-unequal-costs-of-environmental-destruction/articleshow/133244981.cms",
-    "time": "2026-08-14T14:58:38.000Z"
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/toxic-star-rukmini-vasanth-says-she-was-curious-to-discover-melissas-place-in-the-geetu-mohandas-directorial-being-a-yash-sir-fan-girl-and-getting-to-share-screen-space-was-incredible/articleshow/133245933.cms",
+    "time": "2026-08-14T15:33:36.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "SC/ST Commission has no power to adjudicate land disputes or direct mutation of Revenue records: Karnataka High Court",
-    "desc": "The Karnataka State Commission for Scheduled Castes and Scheduled Tribes has no jurisdiction to adjudicate disputes over immovable property or issue binding directions to Revenue or Forest authorities for the mutation of land records, the High Court of Karnataka has ruled",
-    "img": "https://th-i.thgim.com/public/incoming/n7kf48/article71346451.ece/alternates/LANDSCAPE_1200/IMG_BG_HIGH_COURT_2020_1_1_7EGD2FPM.jpg",
+    "cat": "Sports",
+    "title": "India hopes to revive WTC fortunes on Sri Lankan shores",
+    "desc": "Gill’s men will draw inspiration from a superior head-to-head record; the visiting side’s batters need to come good to make life easier for their bowlers; left-arm spinner Prabath could be the trump card for the home team",
+    "img": "https://th-i.thgim.com/public/incoming/o1lmlz/article71345850.ece/alternates/LANDSCAPE_1200/20260814274L.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/scst-commission-has-no-power-to-adjudicate-land-disputes-or-direct-mutation-of-revenue-records-karnataka-high-court/article71345710.ece",
-    "time": "2026-08-14T14:46:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Murder case accused found dead in Kozhikode",
-    "desc": "The 34-year-old had been arrested by police in connection with the death of a young woman who was reportedly in a relationship with him. She was found dead inside his workshop at Malikkadavu on January 24",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/murder-case-accused-found-dead-in-kozhikode/article71344550.ece",
-    "time": "2026-08-14T14:44:37.000Z"
+    "url": "https://www.thehindu.com/sport/cricket/india-hopes-to-revive-wtc-fortunes-on-sri-lankan-shores/article71345857.ece",
+    "time": "2026-08-14T15:12:25.000Z"
   },
   {
     "cat": "Entertainment",
@@ -144,15 +234,6 @@ const newsData_en = [
     "time": "2026-08-14T13:23:56.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "India hopes to revive WTC fortunes on Sri Lankan shores",
-    "desc": "Gill’s men will draw inspiration from a superior head-to-head record; the visiting side’s batters need to come good to make life easier for their bowlers; left-arm spinner Prabath could be the trump card for the home team",
-    "img": "https://th-i.thgim.com/public/incoming/o1lmlz/article71345850.ece/alternates/LANDSCAPE_1200/20260814274L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/india-hopes-to-revive-wtc-fortunes-on-sri-lankan-shores/article71345857.ece",
-    "time": "2026-08-14T13:18:45.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India's forex reserves climb to $707 billion, rise $14.1 billion in a week",
     "desc": "India's foreign exchange reserves jumped a notable $14.136 billion, reaching a total of $707.002 billion for the week ending August 7. This surge was largely driven by a $9.946 billion rise in foreign currency assets, complemented by a $3.995 billion increase in gold reserves. These noteworthy gains come on the heels of strategic initiatives from the government and the RBI aimed at boosting foreign exchange inflows.",
@@ -205,6 +286,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/gobardhan-scheme-how-india-plans-to-turn-cattle-dung-crop-waste-and-garbage-into-fuel/articleshow/133238782.cms",
     "time": "2026-08-14T12:11:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Focus on Galle, eye on The Oval: 'Goal is to play WTC final,' says Shubman Gill",
+    "desc": "Shubman Gill's World Test Championship (WTC) mission begins in Galle, where India need a strong run of results to keep their hopes of reaching next year's final alive. With the captain stressing the importance of preparation, India head into the series opener against Sri Lanka with a rejigged squad, a potential three-spin attack and their eyes firmly on The Oval, where the final of the WTC will be played",
+    "img": "https://static.toiimg.com/photo/msid-133240871,imgsize-59234.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/focus-on-galle-eye-on-the-oval-goal-is-to-play-wtc-final-says-shubman-gill/articleshow/133240748.cms",
+    "time": "2026-08-14T12:06:23.000Z"
   },
   {
     "cat": "Sports",
@@ -297,24 +387,6 @@ const newsData_en = [
     "time": "2026-08-14T10:17:16.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Congress responsible for Partition’: CM Yogi says India would be different if Modi were PM in 1947",
-    "desc": "Speaking at an event in Lucknow marking Partition Horrors Remembrance Day, CM Yogi said the Congress had failed the country by prioritising political power and alleged that the consequences of Partition continue to affect India. “Had Narendra Modi been the Prime Minister of India at the time of Independence, nobody would have been able to damage India in the slightest,” he said.",
-    "img": "https://static.toiimg.com/photo/msid-133237502,imgsize-143992.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/congress-responsible-for-partition-cm-yogi-says-india-would-be-different-if-modi-were-pm-in-1947/articleshow/133236797.cms",
-    "time": "2026-08-14T10:13:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'First time we did something like this': Former women Naxalites share their Raipur ramp-walk experience",
-    "desc": "The women, all from Sukma, took part in a Swadeshi fashion show organised as part of rehabilitation efforts for former Naxalites. Sukma SP Mayank Gurjar said the event also gave them an opportunity to promote Swadeshi products. For some of the women, the experience was unlike anything they had done before. One former Naxalite said she surrendered in 2026 and travelled to Raipur for six days of training.",
-    "img": "https://static.toiimg.com/photo/msid-133236720,imgsize-151376.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/first-time-we-did-something-like-this-former-women-naxalites-share-their-raipur-ramp-walk-experience/articleshow/133236445.cms",
-    "time": "2026-08-14T10:03:27.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Awarapan 2’ movie review: Emraan Hashmi’s faded sequel doesn’t rise from the riches of its past",
     "desc": "Even if the action sequences, lighting, and camerawork have improved multifold from 2007, the sequel struggles to hold itself together as it imagines the world of ‘Awarapan’ purely as a generic genre piece, when its soul lies elsewhere",
@@ -342,15 +414,6 @@ const newsData_en = [
     "time": "2026-08-14T09:33:19.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Astronauts' land on road craters: Over 100 Jaipur residents stage unique protest against potholes",
-    "desc": "Gokulpura residents staged a protest on Pratap Circle Road, highlighting poor road conditions. Two individuals dressed as astronauts entered water-filled potholes, simulating a lunar landscape. This unusual demonstration aimed to draw attention to neglected infrastructure and drainage issues. Residents have sought attention from local officials for several months regarding these problems. Tenders for road and drainage work have been awarded and will commence after the monsoon.",
-    "img": "https://static.toiimg.com/photo/msid-133235509,imgsize-253352.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/astronauts-land-on-road-craters-over-100-jaipur-residents-stage-unique-protest-against-potholes/articleshow/133235286.cms",
-    "time": "2026-08-14T09:24:00.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Quote of the day by iconic American singer-songwriter Dolly Parton",
     "desc": "Dolly Parton, a music industry legend, built a vast business empire from humble beginnings. Her inspirational quote, \"Storms make trees take deeper roots,\" reflects life's challenges. These hardships fortify individuals, developing greater strength and determination over time. Parton's career spans decades, featuring iconic songs like 'Jolene' and '9 to 5'. Her journey from poverty to success offers a powerful example of resilience and achievement.",
@@ -358,15 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/quote-of-the-day-of-dolly-parton-storms-make-trees-take-deeper-roots-shares-iconic-american-singer-songwriter-philanthropist-and-businesswoman/articleshow/133235506.cms",
     "time": "2026-08-14T09:23:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Iran president Pezeshkian to visit India for BRICS summit amid Middle East tensions",
-    "desc": "Iran has signalled that it sees India as a potential partner in efforts to ease tensions in West Asia, with Iranian Foreign Minister Abbas Araghchi saying New Delhi could play a greater role in de-escalating the ongoing crisis. Araghchi made the remarks during his visit to India in June. He said Tehran did not see a military solution to the conflict and believed that negotiations offered only viable way forward.",
-    "img": "https://static.toiimg.com/photo/msid-133235310,imgsize-74596.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/iran-president-pezeshkian-to-visit-india-for-brics-summit-amid-middle-east-tensions/articleshow/133235023.cms",
-    "time": "2026-08-14T09:19:07.000Z"
   },
   {
     "cat": "Sports",
@@ -403,15 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/magudam-twitter-review-gv-prakash-is-the-only-saviour-fans-express-disappointement-over-vishals-debut-directorial/articleshow/133233661.cms",
     "time": "2026-08-14T08:57:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Sonakshi Sinha recalls feeling someone lift her at 4 AM",
-    "desc": "Sonakshi Sinha shared a spooky 4 a.m. incident where she felt someone lifting her and froze in fear, unsure if it was real or a dream. Shaken, she warned the \"presence\" not to return the next night. She's since avoided horror films, admitting she watches scary scenes with her eyes barely open.",
-    "img": "https://static.toiimg.com/photo/msid-133234010,imgsize-444239.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonakshi-sinha-recalls-feeling-someone-lift-her-at-4-am-says-i-just-froze/articleshow/133233965.cms",
-    "time": "2026-08-14T08:50:06.000Z"
   },
   {
     "cat": "Sports",
@@ -478,15 +523,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "When and where to watch India vs Sri Lanka live",
-    "desc": "India is set to kick off a thrilling two-match Test series against Sri Lanka on August 15, with the inaugural game taking place at the picturesque Galle International Stadium. This series is vital for India's Test squad as they work on rebuilding. Fans won’t want to miss a minute, as both matches will be broadcast live on Sony Sports Network and available on SonyLIV.",
-    "img": "https://static.toiimg.com/photo/msid-133231454,imgsize-912174.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/ind-vs-sl-test-series-when-and-where-to-watch-india-vs-sri-lanka-live/articleshow/133231239.cms",
-    "time": "2026-08-14T06:54:30.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "‘This could be my last WC’: Manpreet Singh eyes title to end India’s 51-year wait",
     "desc": "Manpreet Singh aims for India's second World Cup title after Olympic success. He believes the team possesses the necessary talent and experience for victory. The veteran midfielder approaches this as potentially his final World Cup appearance. India will focus on each match, respecting all opponents throughout the tournament. The squad's strong defence and fitness will support their attacking game.",
     "img": "https://static.toiimg.com/photo/msid-133230933,imgsize-44434.cms",
@@ -513,24 +549,6 @@ const newsData_en = [
     "time": "2026-08-14T06:06:56.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Ronaldo returns to Al-Nassr training days after marrying Georgina",
-    "desc": "Cristiano Ronaldo has returned to training with Al-Nassr after his wedding. He confirmed his marriage to Georgina Rodriguez earlier this week. The couple exchanged vows in a private civil ceremony in Portugal. Ronaldo's return to club football follows his final World Cup campaign. Al-Nassr begin their domestic season this Saturday.",
-    "img": "https://static.toiimg.com/photo/msid-133229653,imgsize-107222.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/back-cristiano-ronaldo-returns-to-al-nassr-training-days-after-marrying-georgina-rodriguez/articleshow/133229596.cms",
-    "time": "2026-08-14T05:12:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tanzid Hasan Tamim creates history in Australia with maiden Test century",
-    "desc": "Tanzid Hasan Tamim achieved a historic Test century on Australian soil. Hasan Mahmud delivered a career-best bowling performance, taking six wickets. Australia was dismissed for 198, their lowest Test total against Bangladesh. Taskin Ahmed also reached 300 international wickets during the match. Bangladesh secured a significant first-innings lead over the hosts.",
-    "img": "https://static.toiimg.com/photo/msid-133229569,imgsize-63540.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/tanzid-hasan-tamim-creates-history-in-australia-with-sensational-maiden-test-century/articleshow/133229533.cms",
-    "time": "2026-08-14T05:08:01.000Z"
-  },
-  {
     "cat": "World",
     "title": "Nepal cancels conference on Tibetan studies amid China pressure debate",
     "desc": "Cancellation of the conference, in which around 700 participants were to take part, including scholars from China, has stoked a controversy over whether the Nepal government has succumbed to pressure from Beijing, which has in recent years steadily expanded its influence in Kathmandu",
@@ -540,24 +558,6 @@ const newsData_en = [
     "time": "2026-08-14T04:50:18.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘Full support’ for Infantino: Six Arab federations defy growing revolt over WC plan",
-    "desc": "Six Arab football federations have declared their full support for FIFA president Gianni Infantino. This backing comes after his controversial World Cup investment plan faced significant global opposition. The declaration exposes a divide within the Asian football bloc, with Qatar and Lebanon supporting Infantino. Several European and Oceanic football associations have withdrawn their support for Infantino's re-election.",
-    "img": "https://static.toiimg.com/photo/msid-133229257,imgsize-53830.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/full-support-for-infantino-six-arab-federations-defy-growing-revolt-over-world-cup-plan/articleshow/133229239.cms",
-    "time": "2026-08-14T04:43:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit Sharma to coach Mumbai Indians? Ashwin makes bold prediction",
-    "desc": "Ravichandran Ashwin believes Rohit Sharma could join the Mumbai Indians franchise after his playing career concludes. He suggests Virat Kohli might prefer a break from cricket before considering coaching roles. The former spinner sees growing franchise cricket creating specialist positions for retired players. Roles like mentor and director of cricket will become increasingly common for successful cricketers. Ashwin feels Rohit's tactical acumen makes him invaluable for Mumbai Indians post-retirement.",
-    "img": "https://static.toiimg.com/photo/msid-133229122,imgsize-74178.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/rohit-sharma-to-coach-mumbai-indians-ashwin-makes-bold-prediction/articleshow/133229023.cms",
-    "time": "2026-08-14T04:33:47.000Z"
-  },
-  {
     "cat": "Business",
     "title": "'Shadow transshipment network': US names India among 40 nations helping China evade tariffs",
     "desc": "A US report names India among over forty nations facing risks of transshipping Chinese goods. These countries could become conduits for products avoiding American import tariffs. The White House warns of intensified detection and penalties for such trade practices. India is categorized in the top-risk tier alongside major industrial economies. This development complicates ongoing trade negotiations between Washington and New Delhi.",
@@ -565,15 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/india-among-countries-flagged-by-us-over-chinese-goods-transshipment-risks/articleshow/133227986.cms",
     "time": "2026-08-14T03:29:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Sooryavanshi doesn’t have that’: Ex-India great explains Rohit-Kohli’s big edge",
-    "desc": "Harbhajan Singh argues that selection for Virat Kohli and Rohit Sharma should rely on their performance rather than age. He highlights that both players have the potential to be key contributors in the upcoming World Cup, assuming they maintain their fitness. Drawing inspiration from Lionel Messi, Harbhajan emphasizes that it’s their fitness and performance that should influence their places on the ODI team.",
-    "img": "https://static.toiimg.com/photo/msid-133228167,imgsize-1306552.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-sooryavanshi-doesnt-have-that-ex-india-great-explains-rohit-sharma-virat-kohlis-big-edge/articleshow/133228030.cms",
-    "time": "2026-08-14T03:22:14.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
     "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
   }
 ];
