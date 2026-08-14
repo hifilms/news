@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "ધર્મેન્દ્ર પ્રધાન પછી આ વ્યક્તિનું રાજીનામુ માગી રહ્યા છે કોકરોચ, CJIએ કર્યું એલાન",
+    "desc": "BCI એટલે કે બાર કાઉંસિલ ઓફ ઈન્ડિયાના અધ્યક્ષ મનન કુમાર મિશ્રા સામે કોકરોચ જનતા પાર્ટી ખુલીને સામે આવી રહી છે, પાર્ટીના પ્રવક્તા સૌરભ દાસે તેમની રાજીનામાની માંગ કરી છે, જો કે તેના પર મનન કુમાર મિશ્રા તરફથી કોઈ પ્રતિક્રીયા આવી નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/after-dharmendra-pradhan-cockroaches-are-demanding-this-person-resignation-cji-made-an-announcement-487712 ",
+    "time": "2026-08-14T09:29:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "સની દેઓલની એક્ટિંગ જીતી લેશે દિલ, જાણો કેવી છે મલ્ટી સ્ટારર ફિલ્મ બટવારા 1947",
+    "desc": "આજે સિનેમાઘરોમાં સની દેઓલની ફિલ્મ બટવારા 1947 રિલીઝ થઈ છે. આ ફિલ્મથી અભિનેત્રી પ્રીતિ ઝિંટા લાંબા બ્રેક પછી બોલીવુડમાં કમબેક કરી રહી છે. તમે પણ આ ફિલ્મ જોવા જવાનું વિચારી રહ્યા છો તો પહેલા વાંચી લો ફિલ્મ કેવી છે ?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/film-review-gujarati-sunny-deol-movie-batwara-1947-review-487700 ",
+    "time": "2026-08-14T07:31:35.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Zee Entertainment ને SAT તરફથી મોટી રાહત: SEBI ના બેન પર સ્ટે, ₹3,143 કરોડના વોરન્ટ જાહેર કરવાનો માર્ગ મોકળો",
     "desc": "ઝી એન્ટરટેઈનમેન્ટ માટે SAT ની આ રાહત એટલા માટે મોટી છે, કારણ કે તેનાથી શેરધારકોની મંજૂરીથી શરૂ થયેલી ₹3,143.5 કરોડના ફંડ એકત્ર કરવાની પ્રક્રિયાને આગળ વધારવાનો માર્ગ ખુલી ગયો છે. હવે નગર કાયદાકીય પ્રક્રિયા અને વોરંટ ઈશ્યૂની આગામી પ્રક્રિયા પર રહેશે.",
@@ -295,15 +313,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/big-blow-for-pan-masala-and-gutkha-enthusiasts-fssai-bans-this-item-announces-new-rules-487488 ",
     "time": "2026-08-12T06:47:55.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "TATAમાં શું ચાલી રહ્યું છે? ટાટા સન્સના ચેરમેન એન ચંદ્રશેખરને અચાનક AGM પહેલા રાજીનામું આપ્યું",
-    "desc": "ટાટા સમૂહ સંબંધિત એક મોટા સમાચાર સામે આવ્યા છે. ટાટા સન્સના ચેરમેન પદેથી એન ચંદ્રશેખરને રાજીનામું ધરી દીધુ છે. 18 ઓગસ્ટના રોજ થનારી ટાટા સન્સની વાર્ષિક સામાન્ય બેઠક એટલે કે AGM પહેલા તેમણે રાજીનામું આપી દીધુ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/big-news-tata-sons-chairman-n-chandrasekaran-resigns-before-agm-487486 ",
-    "time": "2026-08-12T06:38:23.000Z"
   },
   {
     "cat": "World",
@@ -628,14 +637,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/maruti-suzuki-dominates-july-sales-compact-hatchback-hits-23398-units-delivered-486989 ",
     "time": "2026-08-07T06:52:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "જે દીકરા માટે દિવસ-રાત કામ કર્યું તે હવે નથી માનતો માં, 80 વર્ષે એકલા રહે છે એક્ટ્રેસ ઉષા નાડકર્ણી",
-    "desc": "પવિત્ર રિશ્તા ફેમ એક્ટ્રેસ ઉષા નાડકર્ણી 80 વર્ષની ઉંમરે એકલા રહી જીવન પસાર કરે છે. દુ:ખની વાત એ છે કે તેમનો એક દીકરો છે પણ તે દીકરો તેની માતાને વૃદ્ધાવસ્થામાં પણ સ્વીકારવા તૈયાર નથી. ઉષા નાડકર્ણીના જણાવ્યા અનુસાર તેમનો દીકરો તેને માતા માતાનો જ નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/pavitra-rishta-fame-actress-usha-nadkarni-lives-alone-at-age-of-80-son-refuse-to-accept-her-in-old-age-486955 ",
-    "time": "2026-08-07T02:09:15.000Z"
   }
 ];

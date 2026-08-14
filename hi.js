@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "VVS Laxman slated to take over as BCCI's next director of cricket ahead of major reshuffle",
+    "desc": "In a major development, the BCCI (Board of Control for Cricket in India) is looking for a major reshuffle in its board, and according to reports, it looks like time for a new director of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vvs-laxman-slated-to-take-over-as-bcci-s-next-director-of-cricket-ahead-of-major-reshuffle-report-2026-08-14-1051361",
+    "time": "2026-08-14T09:06:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mitchell Starc surpasses Kapil Dev, inches ever closer to historic milestone with two wickets against BAN",
+    "desc": "Australia continues to fight back against Bangladesh on day 2 of the ongoing first Test between the two sides. It is worth noting that Australia was limited to a score of 189 runs in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mitchell-starc-surpasses-kapil-dev-inches-ever-closer-to-historic-milestone-with-two-wickets-against-ban-2026-08-14-1051352",
+    "time": "2026-08-14T07:51:26.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Will Devdutt Padikkal impress for India ahead of Sri Lanka Test series? Former cricketer opines",
     "desc": "The stage is set for the upcoming two-game Test series between India and Sri Lanka. The two sides will meet each other in the first Test of the series at the Galle International Stadium from...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/hockey/savita-punia-confident-india-can-challenge-world-s-best-at-women-s-hockey-world-cup-2026-08-13-1051279",
     "time": "2026-08-13T12:02:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lionel Messi returns to action as substitute for first time since father Jorge's death",
-    "desc": "Lionel Messi returned to action for Inter Miami on Thursday morning, just days after attending the funeral of his father Jorge in Argentina. The 39-year-old came on at half-time during Miami’s 3-2 defeat to Leon...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/lionel-messi-returns-to-action-as-substitute-for-first-time-since-father-jorge-s-death-2026-08-13-1051270",
-    "time": "2026-08-13T11:17:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ashleigh Gardner breaks silence after ex-wife's explosive criticism over alleged affair with teammate",
-    "desc": "Australia women’s vice-captain Ashleigh Gardner has addressed the personal fallout from the breakdown of her marriage after allegations concerning a relationship with teammate Georgia Voll became public. Gardner’s ex-wife Monica Wright had criticised Cricket Australia...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ashleigh-gardner-breaks-silence-after-ex-wife-s-explosive-criticism-over-alleged-affair-with-teammate-2026-08-13-1051258",
-    "time": "2026-08-13T10:19:08.000Z"
   }
 ];
