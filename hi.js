@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Will Devdutt Padikkal impress for India ahead of Sri Lanka Test series? Former cricketer opines",
+    "desc": "The stage is set for the upcoming two-game Test series between India and Sri Lanka. The two sides will meet each other in the first Test of the series at the Galle International Stadium from...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-devdutt-padikkal-impress-for-india-ahead-of-sri-lanka-test-series-former-cricketer-opines-2026-08-14-1051344",
+    "time": "2026-08-14T06:52:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ricky Ponting slams Australia after the latter's subpar show against Bangladesh in Darwin Test",
+    "desc": "Australia has been put to the test against Bangladesh in the first Test. The two sides met at the Marrara Stadium, Darwin, on August 13th, and Bangladesh have been exceptional in the game so far,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ricky-ponting-slams-australia-after-the-latter-s-subpar-show-against-bangladesh-in-darwin-test-2026-08-14-1051336",
+    "time": "2026-08-14T05:51:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tanzid Hasan scripts history, smashes marvellous century against Australia in first Test",
+    "desc": "Bangladesh took on Australia in the first Test of the ongoing series. The two sides met for the first Test of the series in Mackay. The clash saw Australia come in to bat first, and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/tanzid-hasan-scripts-history-smashes-marvellous-century-against-australia-in-first-test-2026-08-14-1051332",
+    "time": "2026-08-14T04:59:21.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Former India cricketer weighs in on Sarfaraz Khan's inclusion in India's squad ahead of first SL Test",
     "desc": "The Indian team is all set to take on Sri Lanka in a two-game Test series. The two sides will take on each other in the first Test of the series at the Galle International...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ashleigh-gardner-breaks-silence-after-ex-wife-s-explosive-criticism-over-alleged-affair-with-teammate-2026-08-13-1051258",
     "time": "2026-08-13T10:19:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England lift midnight curfew after Ben Stokes' international retirement, Joe Root confirms",
-    "desc": "Following England’s Ashes defeat in Australia, the management introduced a midnight curfew for players during any series. The decision was made after controversy involving Harry Brook at a nightclub in Australia. However, just one series...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-lift-midnight-curfew-after-ben-stokes-international-retirement-joe-root-confirms-2026-08-13-1051252",
-    "time": "2026-08-13T09:42:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Stop being a princess'",
-    "desc": "Steve Smith’s attempt to deal with a sight-screen problem during Australia’s first Test against Bangladesh in Darwin was met with an unexpected response from the crowd. The incident happened in the second session of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/stop-being-a-princess-australia-fan-shouts-at-steve-smith-during-first-test-vs-bangladesh-in-darwin-watch-2026-08-13-1051241",
-    "time": "2026-08-13T08:28:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mitchell Starc sets new world record in first Test against Bangladesh in Darwin",
-    "desc": "On International Left-Handers Day, Mitchell Starc produced a milestone perfectly suited to the occasion. The Australian quick dismissed Shadman Islam for 20 runs in Darwin to move to 434 Test wickets, surpassing Sri Lanka’s Rangana...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mitchell-starc-sets-new-world-record-in-first-test-against-bangladesh-in-darwin-2026-08-13-1051237",
-    "time": "2026-08-13T07:37:35.000Z"
   }
 ];

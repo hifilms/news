@@ -1,6 +1,42 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "Zee Entertainment ને SAT તરફથી મોટી રાહત: SEBI ના બેન પર સ્ટે, ₹3,143 કરોડના વોરન્ટ જાહેર કરવાનો માર્ગ મોકળો",
+    "desc": "ઝી એન્ટરટેઈનમેન્ટ માટે SAT ની આ રાહત એટલા માટે મોટી છે, કારણ કે તેનાથી શેરધારકોની મંજૂરીથી શરૂ થયેલી ₹3,143.5 કરોડના ફંડ એકત્ર કરવાની પ્રક્રિયાને આગળ વધારવાનો માર્ગ ખુલી ગયો છે. હવે નગર કાયદાકીય પ્રક્રિયા અને વોરંટ ઈશ્યૂની આગામી પ્રક્રિયા પર રહેશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/major-relief-for-zee-entertainment-sat-stays-sebi-order-paves-way-for-%E2%82%B93143-crore-warrant-issue-487698 ",
+    "time": "2026-08-14T07:10:26.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "BSNL ની બમ્પર ઓફર: માત્ર ₹1 માં નવું કનેક્શન, 365 ને બદલે 412 દિવસ સુધી ચાલશે વાર્ષિક પ્લાન!",
+    "desc": "સ્વતંત્રતા દિવસ પર બીએસએનએલે ગ્રાહકોને ખાસ ભેટ આપી છે. 1 રૂપિયામાં ફ્રીડમ પ્લાન અને વાર્ષિક રિચાર્જ પર 47 દિવસનો વધારાનો લાભ મળશે. એટલે કે 2399 રૂપિયાનો પ્લાન હવે 412 દિવસ સુધી ચાલશે. આ ઓફર 12 સપ્ટેમ્બર 2026 સુધી ઉપલબ્ધ રહેશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/bsnl-independence-day-offer-get-new-connection-for-1-and-412-days-validity-on-annual-plan-487694 ",
+    "time": "2026-08-14T06:30:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "આઝાદી બાદ સૌથી પહેલા ક્યાં ફરકાવાયો હતો તિરંગો? લાલ કિલ્લો નહીં પરંતુ આ છે જવાબ",
+    "desc": "શું તમને ખબર છે કે 15 ઓગસ્ટ 1947ના રોજ આઝાદી મળી ત્યારે દેશમાં સૌ પ્રથમવાર તિરંગો લાલ કિલ્લા પર નહતો ફરકાવવામાં આવ્યો. આજે અમે તમને જણાવીશું કે આઝાદી બાદ સૌથી પહેલા ઝંડો ક્યાં ફરકાવાયો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/where-was-the-tricolor-hoisted-for-the-first-time-after-independence-not-red-fort-487693 ",
+    "time": "2026-08-14T06:22:57.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ટ્રમ્પના નવા ફરમાનથી દુનિયામાં હડકંપ! હવે આ વસ્તુ પર લગાવ્યો 100% ટેરિફ, જાણો કોને થશે અસર",
+    "desc": "ચીનની સાથે વધતા ટ્રેડ વિવાદ વચ્ચે અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે એક મોટો નિર્ણય કર્યો. તેમણે આયાત થનાર ડ્રોન પર 100 ટકા ટેરિફ લગાવ્યો છે. ટ્રમ્પના આ નિર્ણયની સીધી અસર ડિફેન્સ સેક્ટર પર પડી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/trump-imposes-100-tariff-on-drone-imports-amid-escalating-trade-tensions-with-china-487682 ",
+    "time": "2026-08-14T04:52:12.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "એકબાજુ ક્રૂડ ઓઈલના ભાવ ગગડ્યા, બીજી બાજુ જાહેર થયા પેટ્રોલ-ડીઝલના લેટેસ્ટ રેટ",
     "desc": "ક્રૂડ ઓઈલના ભાવમાં કડાકો જોવા મળ્યો છે ત્યારે ભારતમાં આજે પેટ્રોલ ડીઝલના નવા જાહેર ભાવમાં કોઈ ફેરફાર છે કે નહીં તે જાણો. ઓઈલ વિતરણ કંપનીઓ રોજ સવારે 6 વાગે લેટેસ્ટ ભાવ જાહેર કરે છે. તથા ઈથેનોલ વગરનું પેટ્રોલ શું ભાવે મળે છે અને દેશમાં ક્યાં કયાં તે વેચાય છે તે પણ વિગતો જાણો.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -295,15 +331,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/shraddha-kapoor-eetha-movie-release-postpone-due-to-yash-movie-toxic-eetha-new-release-date-4-december-487457 ",
     "time": "2026-08-12T02:44:38.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "શું હજું પણ મળે છે ઈથેનોલ વગરનું પેટ્રોલ? ક્યાં મળે છે અને એક લીટર પેટ્રોલનો શું ભાવ",
-    "desc": "E20 પેટ્રોલની વાતો વચ્ચે હવે એ પણ ચર્ચા છે કે શું ઈથેનોલ વગરનું પેટ્રોલ દેશમાં મળે છે ખરું? જો મળે તો કયા શહેરોમાં મળે છે અને તેનો ભાવ પ્રતિ લીટર શું હોય છે. વિગતો ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/where-can-we-get-ethanol-free-petrol-and-at-what-price-487435 ",
-    "time": "2026-08-11T16:29:55.000Z"
   },
   {
     "cat": "Sports",
@@ -610,14 +637,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/pavitra-rishta-fame-actress-usha-nadkarni-lives-alone-at-age-of-80-son-refuse-to-accept-her-in-old-age-486955 ",
     "time": "2026-08-07T02:09:15.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "34 KM માઈલેજ, 5 લાખથી ઓછી કિંમત... મારુતિની આ કાર ખરીદવા લોકોની પડાપડી !",
-    "desc": "જુલાઈ મહિનો મારુતિ સુઝુકી માટે શાનદાર રહ્યો છે. આમ તો કંપની દર મહિને ભારતમાં સૌથી વધુ વાહનોનું વેચાણ કરે છે, પરંતુ જુલાઈ મારુતિ ખાસ રહ્યો છે. ટોપ-5 સૌથી વધુ વેચાતા મોડેલોમાંથી 4 મારુતિ સુઝુકીના છે, જેમાં કોમ્પેક્ટ સેડાનથી લઈને 7 સીટર કારનો સમાવેશ થાય છે. આવી જ એક મારુતિની કાર છે, જેના 23,398 મોડલ જુલાઈમાં વેચાયા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/best-selling-cars-july-2026-maruti-suzuki-wagonr-price-and-mileage-486944 ",
-    "time": "2026-08-06T15:16:14.000Z"
   }
 ];
