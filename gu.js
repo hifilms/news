@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "એકબાજુ ક્રૂડ ઓઈલના ભાવ ગગડ્યા, બીજી બાજુ જાહેર થયા પેટ્રોલ-ડીઝલના લેટેસ્ટ રેટ",
+    "desc": "ક્રૂડ ઓઈલના ભાવમાં કડાકો જોવા મળ્યો છે ત્યારે ભારતમાં આજે પેટ્રોલ ડીઝલના નવા જાહેર ભાવમાં કોઈ ફેરફાર છે કે નહીં તે જાણો. ઓઈલ વિતરણ કંપનીઓ રોજ સવારે 6 વાગે લેટેસ્ટ ભાવ જાહેર કરે છે. તથા ઈથેનોલ વગરનું પેટ્રોલ શું ભાવે મળે છે અને દેશમાં ક્યાં કયાં તે વેચાય છે તે પણ વિગતો જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/petrol-diesel-latest-price-today-where-is-ethanol-free-petrol-available-and-at-what-price-487680 ",
+    "time": "2026-08-14T04:30:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ધમાકેદાર ફિલ્મ માલામાલ વીકલીની સીક્વલ કંફર્મ, કોમેડી ફિલ્મથી એલ્વિશ યાદવ બોલીવુડમાં કરશે એન્ટ્રી",
+    "desc": "માલામાલ વીકલી ફિલ્મ યાદ છે ? પરેશ રાવલ, રાજપાલ યાદવ, ઓમ પુરીની ધમાકેદાર ફિલ્મની સીક્વલ ફાઈનલ થઈ ગઈ છે. માલામાલ વીકલી 2 ફિલ્મમાં પરેશ રાવલ, રિતેશ દેશમુખ સહિતના કલાકારો સાથે એલ્વિશ યાદવ પણ જોવા મળશે તેવી ચર્ચાઓ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/malamal-weekly-2-movie-elvish-yadav-bollywood-riteish-deshmukh-paresh-rawal-487662 ",
+    "time": "2026-08-14T02:37:36.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "326 કિમી રેન્જ, એડવાન્સ ફીચર્સ... Punch અને Nexonને ટક્કર આપવા આવી રહી છે નવી ઇલેક્ટ્રિક કાર",
     "desc": "વિએતનામની ઇલેક્ટ્રિક કાર કંપની VinFast ભારતમાં પોતાની નવી સેકન્ડ જનરેશન VF 5 SUVનું ટેસ્ટિંગ કરી રહી છે. 4 મીટરથી નાની આ ઇલેક્ટ્રિક SUV ટાટા પંચ EV, નેક્સોન EV અને મહિન્દ્રા XEV 3XO EVને ટક્કર આપશે. તેમાં નવી ડિઝાઇન, પ્રીમિયમ કેબિન, 29.6 kWh અને 37.23 kWh બેટરી વિકલ્પ સાથે 326 કિમી સુધીની રેન્જ મળવાની શક્યતા છે.",
@@ -315,24 +333,6 @@ const newsData_gu = [
     "time": "2026-08-11T15:40:52.000Z"
   },
   {
-    "cat": "Business",
-    "title": "8મા પગાર પંચે બહાર પાડ્યું નવું નોટિફિકેશન, સરકારી કર્મચારીઓ માટે જાણવું જરૂરી",
-    "desc": "સરકારી કર્મચારીઓ 8મા પગાર પંચની ભલામણોની આતુરતાથી રાહ જોઈ રહ્યા છે. આ દરમિયાન પગાર પંચે એક લેટેસ્ટ નોટિફિકેશન બહાર પાડ્યું છે. ત્યારે આ નોટિફિકેશન શેના વિશે છે અને તેમાં કઈ બાબતોનો ઉલ્લેખ કરવામાં આવ્યો છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-new-notification-regarding-guidelines-for-appointment-of-consultants-487429 ",
-    "time": "2026-08-11T14:19:48.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "₹40,000ની સેલેરીમાં પણ ખરીદી શકશો ₹50 લાખનું ઘર, નહીં લેવું પડે એક પણ રૂપિયો કરજ! અપનાવો 50-50 ફોર્મુલા",
-    "desc": "જો તમે ₹40,000ના પગારદાર છો અને અમદાવાદ જેવા વિસ્તારોમાં ઘર ખરીદવા માંગો છો, તો આ સપનું હકીકત બની શકે છે, જો તમે ચોક્કસ નિયમોનું કડક પાલન કરશો તો આ શક્ય છે. ત્યારે આ માટે તમારે શું કરવાની જરૂર છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/house-construction-formula-how-to-buy-rs-50-lakh-house-with-40000-salary-487421 ",
-    "time": "2026-08-11T13:24:49.000Z"
-  },
-  {
     "cat": "World",
     "title": "ભારતીયો માટે ખુશીના સમાચાર, હવે UAEના વિઝા મળશે બિલકુલ ફ્રી ! જાણી લો શું છે નિયમ",
     "desc": "અબુ ધાબીના કલ્ચર એન્ડ ટુરિઝમ ડિપાર્ટમેન્ટે એક નવો પ્રોગ્રામ શરૂ કર્યો છે. આ પહેલ હેઠળ ભારતીય પાસપોર્ટ ધારકોને UAEની મુલાકાત લેવા માટે મફત વિઝા મળશે. ત્યારે આ અંગેનો નિયમ અને પ્રોસેસ શું છે, તેના વિશે આ લેખમાં જાણીશું.",
@@ -349,15 +349,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/india-vs-sri-lanka-live-streaming-when-and-where-to-watch-ind-vs-sl-test-match-live-487411 ",
     "time": "2026-08-11T10:33:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "દિલ્હી કેપિટલ્સના ક્રિકેટરની ધરપકડ, રેપ અને પ્રાઇવેટ વીડિયો રેકોર્ડ કરવાનો છે આરોપ",
-    "desc": "દિલ્હી કેપિટલ્સના વિકેટકીપર-બેટ્સમેન અભિષેક પોરેલની મંગળવારે હુગલીથી લગ્નના બહાને રેપના આરોપસર ધરપકડ કરવામાં આવી હતી. મેડિકલ સ્ટુડન્ટની ફરિયાદ બાદ મોગરા પોલીસ સ્ટેશનમાં કેસ નોંધવામાં આવ્યો હતો. FIRમાં પીડિતાએ પ્રાઇવેટ ક્ષણોનું રેકોર્ડિંગ, ઉત્પીડન અને બળજબરીથી અલગ રાખવા સહિતના અનેક ગંભીર આરોપો લગાવ્યા છે. હાઈકોર્ટે ધરપકડનો આદેશ આપ્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/delhi-capitals-cricketer-abhishek-porel-arrested-on-rape-charges-487406 ",
-    "time": "2026-08-11T09:36:37.000Z"
   },
   {
     "cat": "Tech",
@@ -628,14 +619,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/best-selling-cars-july-2026-maruti-suzuki-wagonr-price-and-mileage-486944 ",
     "time": "2026-08-06T15:16:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "દિમાગ હલાવી દેશે આ 3 થ્રિલર ફિલ્મો, છેલ્લે સુધી સસ્પેન્સ અકબંધ રહે, એક પણ ફિલ્મ અધુરી નહીં છોડી શકો",
-    "desc": "ઓટીટી પર જોવા માટે તમે કોઈ સારી થ્રિલર ફિલ્મ શોધી રહ્યા છો તો ચાલો આજે તમને 3 ફિલ્મો વિશે જણાવીએ. આ 3 થ્રિલર ફિલ્મો તમારું દિમાગ હલાવી દેશે. એકવાર ફિલ્મ શરુ થશે પછી તેને પુરી કર્યા વિના ઊભા નહીં થઈ શકો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/best-thriller-movies-on-ott-jio-hotstar-thriller-movies-zee5-best-hindi-suspense-movies-486888 ",
-    "time": "2026-08-06T06:50:29.000Z"
   }
 ];

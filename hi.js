@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Former India cricketer weighs in on Sarfaraz Khan's inclusion in India's squad ahead of first SL Test",
+    "desc": "The Indian team is all set to take on Sri Lanka in a two-game Test series. The two sides will take on each other in the first Test of the series at the Galle International...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-weighs-in-on-sarfaraz-khan-s-inclusion-in-india-s-squad-ahead-of-first-sl-test-2026-08-14-1051325",
+    "time": "2026-08-14T03:38:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Technology saved me': Steve Smith admits edging Edabot Hossain's delivery after day 1 of ongoing BAN Test",
+    "desc": "Australia kicked off their two-game Test series against Bangladesh by taking on the side for the first Test of the series at the Marrara Stadium, Darwin, from August 13th. The clash began with Australia coming...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/technology-saved-me-steve-smith-admits-edging-edabot-hossain-s-delivery-after-day-1-of-ongoing-ban-test-2026-08-14-1051319",
+    "time": "2026-08-14T02:33:40.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Vinay Kumar named new Karnataka head coach ahead of upcoming domestic season",
     "desc": "In a major development, the KSCA (Karnataka State Cricket Association) has come forward and named former India cricketer Vinay Kumar as Karnataka’s head coach ahead of the upcoming domestic season. At 42 years old, Vinay...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/mitchell-starc-sets-new-world-record-in-first-test-against-bangladesh-in-darwin-2026-08-13-1051237",
     "time": "2026-08-13T07:37:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australia register lowest Test score vs Bangladesh after Hasan Mahmud claims six in Darwin",
-    "desc": "Australia were bundled for only 198 runs in the first innings against Bangladesh in Darwin. Just three days prior to the opening Test, the Najmul Shanto-led side were bowled out for 54 runs against Cricket...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/australia-register-lowest-test-score-vs-bangladesh-after-hasan-mahmud-claims-six-in-darwin-2026-08-13-1051227",
-    "time": "2026-08-13T06:40:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How did solar eclipse captivate cricket, football, F1 fans across Europe? WATCH",
-    "desc": "Sporting venues across England, Austria and Spain were transformed by an unusual celestial display on Wednesday evening as a partial solar eclipse drew the attention of spectators, athletes and fans. At Edgbaston, supporters watching Birmingham Phoenix...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/how-did-solar-eclipse-captivate-cricket-football-f1-fans-across-europe-watch-2026-08-13-1051223",
-    "time": "2026-08-13T06:06:01.000Z"
   }
 ];

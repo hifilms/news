@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "সুড়ঙ্গে ভয়াবহ বিপর্যয়! হুড়হুড় করে ঢুকে পড়ল জল-জঞ্জাল-কাদা, চাপা মৃত ৭, আহত ১৪",
+    "desc": "টিএইচডিসি জলবিদ্যুৎ প্রকল্পের নির্মীয়মাণ সুড়ঙ্গে ধস নেমে মর্মান্তিক দুর্ঘটনা ঘটেছে। হঠাৎ কাদা ও জল ঢুকে পড়ায় ৭ জন শ্রমিকের মৃত্যু হয়েছে এবং ১৪ জন আহত হয়েছেন। ভেতরে আটকে থাকা এক শ্রমিককে উদ্ধারে এনডিআরএফ ও এসডিআরএফ-এর যৌথ অভিযান চলছে। মুখ্যমন্ত্রী পুষ্কর সিং ধামী পরিস্থিতি নিজে তদারকি করছেন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/uttarakhands-chamoli-tunnel-collapse-7-killed-14-injured-1-trapped_666886.html ",
+    "time": "2026-08-14T03:37:48.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "CJI সূর্যকান্তকে বয়কটের জের: দেশবিখ্যাত আইনকলেজ NALSAR-এর ছাত্রদের ওকালতির লাইসেন্সে কোপ বার কাউন্সিলের",
     "desc": "বার কাউন্সিল অব ইন্ডিয়ার চেয়ারম্যান মনন কুমার মিশ্র সমস্ত রাজ্যের বার কাউন্সিলগুলোকে নির্দেশ জারি করে জানিয়েছেন, পরবর্তী নির্দেশ না দেওয়া পর্যন্ত নালসারের ২০২৬ ব্যাচের কোনও ছাত্র বা ছাত্রীকে যেন আইনজীবী হিসেবে তালিকাভুক্ত না করা হয়।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -160,15 +169,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/trisha-shares-cryptic-posts-after-vijays-wife-withdraws-divorce-plea-drama-at-this-age_666624.html ",
     "time": "2026-08-12T08:05:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "২৫০ কেজিরও বেশি পচা মাংস! শহরজুড়ে খাবারের নামে বিষ পাঁচতারা হোটেল-পাবের, ভয়াবহ ললিত ও স্কাই লাউঞ্জ",
-    "desc": "শহরের একাধিক পাঁচতারা ও তিনতারা হোটেলের সঙ্গেই অভিজাত সব পাবগুলিতে বিরাট অভিযান চালিয়েছে এফএসডিএ। সেখান থেকে জব্দ হয়েছে ২৫০ কেজিরও বেশি পচা মাংস, ২০৭ কেজি নষ্ট সবজি, ৩২ লিটার মেয়াদোত্তীর্ণ দুধ এবং ৩ কেজি বাসি বেকারি",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/over-250-kg-of-rotten-meat-and-207-kg-of-spoiled-vegetables-raids-on-upscale-hotels-and-pubs-across-the-city_666623.html ",
-    "time": "2026-08-12T07:55:59.000Z"
   },
   {
     "cat": "Entertainment",
