@@ -1,6 +1,42 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "21 CBI personnel awarded medals for distinguished service",
+    "desc": "The President’s Medal for Distinguished Service was conferred on Assistant Inspector General of Police Shobha Dutta, Additional Superintendent of Police Manoj Banerjee, Additional Superintendent of Police Ginni Rana, Deputy Superintendent of Police Sanjay Kumar Samal, Assistant Sub-Inspector Ramesh Chand, and Assistant Sub-Inspector Madan Lal Dhiman",
+    "img": "https://th-i.thgim.com/public/incoming/eqr6iv/article71259578.ece/alternates/LANDSCAPE_1200/CBI-files-chargGOCG7G67O.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/21-cbi-personnel-awarded-medals-for-distinguished-service/article71345107.ece",
+    "time": "2026-08-14T20:37:29.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Jason Arday, former Cambridge University professor at centre of plagiarism scandal, found dead",
+    "desc": "Arday died after being found unresponsive in south London, according to British media; the plagiarism scandal erupted after some academics and media reports accused Arday, who became Cambridge’s youngest black professor in 2023, of plagiarising parts of his doctoral thesis",
+    "img": "https://th-i.thgim.com/public/incoming/fpm89x/article71347281.ece/alternates/LANDSCAPE_1200/Jason-Arday-at-GFIGC4NU7.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/jason-arday-former-cambridge-university-professor-at-centre-of-plagiarism-scandal-found-dead-uk-media/article71347279.ece",
+    "time": "2026-08-14T20:25:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Presenter claims Ronaldo kin had no notice",
+    "desc": "Cristiano Ronaldo’s wedding secrecy has taken another twist after Portuguese presenter Cristina Ferreira claimed his family may have learned about the ceremony just “30 seconds beforehand.” Ronaldo’s mother and siblings were absent when he married Georgina Rodríguez in Cascais on August 11. However, Ferreira’s comments remain unconfirmed, with no indication from Ronaldo or his family that they were deliberately excluded.",
+    "img": "https://static.toiimg.com/photo/msid-133251432,imgsize-175734.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/30-seconds-beforehand-ronaldos-mother-and-sisters-allegedly-snubbed-from-secret-wedding-with-no-warning/articleshow/133250740.cms",
+    "time": "2026-08-14T19:34:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Defence production rises nearly four-fold to ₹1.78 lakh crore, says Rajnath Singh",
+    "desc": "Addressing soldiers through Akashvani on the eve of the 80th Independence Day, Mr. Singh highlighted the transformation of the defence sector over the past 12 years under initiatives such as ‘Aatmanirbhar Bharat’ and ‘Make in India’",
+    "img": "https://th-i.thgim.com/public/incoming/csdd47/article71325264.ece/alternates/LANDSCAPE_1200/20260809163L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/defence-production-rises-nearly-four-fold-to-178-lakh-crore-says-rajnath-singh/article71346269.ece",
+    "time": "2026-08-14T18:55:08.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Concerned citizens urge CJI to uphold liberty of Umar Khalid and Sharjeel Imam",
     "desc": "The signatories, who wrote to CJI on the eve of India’s 80th Independence day, invoked the Supreme Court’s 2021 judgment in K.A. Najeeb, which held that prolonged incarceration can violate an accused person’s fundamental right to a speedy trial under Article 21 of the Constitution",
     "img": "https://th-i.thgim.com/public/incoming/8rds3f/article71347185.ece/alternates/LANDSCAPE_1200/Umar-Khalid_G01GSFG8OCM3.3.jpg.jpg",
@@ -73,30 +109,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Woman’s death in Bengaluru accident becomes flashpoint for residents’ anger over bad roads in Electronics City Phase 2",
-    "desc": "Following Medha Prithviraj’s death, residents have been demanding better roads in Electronics City Phase 1. While most roads in the area are narrow and pothole-filled, several other stretches have been dug up for civic works.",
-    "img": "https://th-i.thgim.com/public/news/national/karnataka/y0bbcq/article71344557.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-14%20at%2012.50.43%201.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/bangalore/womans-death-in-bengaluru-accident-becomes-flashpoint-for-residents-anger-over-bad-roads-in-electronics-city-phase-2/article71344368.ece",
-    "time": "2026-08-14T16:38:10.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "President Murmu approves 78 gallantry awards",
     "desc": "President Droupadi Murmu has approved a total of seventy-eight gallantry awards, including nine Kirti Chakras and nineteen Shaurya Chakras, recognizing the exceptional bravery of defence personnel and central armed police forces. Many of these awards are awarded posthumously. This recognition underscores the remarkable commitment and courage displayed by individuals across the Army, Navy, and Air Force, emphasizing the nation's deep respect and appreciation for their service.",
     "img": "https://static.toiimg.com/photo/msid-133246604,imgsize-157464.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/president-murmu-approves-78-gallantry-awards/articleshow/133246351.cms",
     "time": "2026-08-14T16:01:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Allegations of illegal sand mining against E.V. Velu will be probed, says the Tiruvannamalai Collector",
-    "desc": "Vandana Garg’s reaction came after an NGO lodged a complaint with the DVAC, alleging that a large quantity of sand from the dry lake bed was illegally mined by Mr. Velu and his supporters for levelling an open land to organise the DMK’s northern zone youth wing conference on December 14 last year",
-    "img": "https://th-i.thgim.com/public/incoming/n802gm/article71346725.ece/alternates/LANDSCAPE_1200/Madras-High-CouG8CG7PURH.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/allegations-of-illegal-sand-mining-against-ev-velu-will-be-probed-says-the-tiruvannamalai-collector/article71345708.ece",
-    "time": "2026-08-14T15:51:33.000Z"
   },
   {
     "cat": "Sports",
@@ -250,42 +268,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ajay-devgn-rents-out-7802-sq-feet-juhu-bungalow-with-an-estimated-total-rental-income-of-rs-10-61-crore-for-a-five-year-lease-agreement/articleshow/133241877.cms",
     "time": "2026-08-14T12:52:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Gandhi's letter to India, as told through TOI",
-    "desc": "From his South Africa years to the freedom struggle, Mahatma Gandhi repeatedly used newspapers to address India’s public. Alok Sharma sifts through letters Gandhi wrote to TOI, illuminating his positions on Satyagraha, the Rowlatt Act, Dalit representation, Hindu-Muslim unity and the hardships faced by Indians in South Africa.",
-    "img": "https://static.toiimg.com/photo/msid-133242303,imgsize-170424.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/gandhis-letter-to-india-as-told-through-toi/articleshow/133240690.cms",
-    "time": "2026-08-14T12:42:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Karnataka BJP MLA's daughter booked for 'assaulting' woman cop over temple entry queue",
-    "desc": "During temple festivities, B Suresh Gowda's daughter, a Karnataka BJP MLA, was accused of assaulting a woman police sub-inspector. The altercation began over access to the queue, leading to allegations of abuse and physical confrontation by the officer. In response, the MLA's daughter filed a counter-complaint currently under investigation. The MLA expressed regret for the incident and emphasized the need for appropriate legal action.",
-    "img": "https://static.toiimg.com/photo/msid-133241561,imgsize-466045.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/karnataka-bjp-mlas-daughter-booked-for-assaulting-woman-cop-over-temple-entry-queue/articleshow/133241436.cms",
-    "time": "2026-08-14T12:32:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi HC gets bomb threat; US loses 45 Reaper drones in Iran war, &amp; more",
-    "desc": "A bomb threat email targeted the Delhi High Court ahead of Independence Day celebrations. Reports indicate the US military lost forty-five Reaper drones in its conflict with Iran. The Supreme Court disapproved of the Bar Council of India's action against NALSAR students. Congress questioned the Centre's approach to the caste census format. Former Manchester United and Aston Villa goalkeeper Jimmy Rimmer has died at seventy-eight.",
-    "img": "https://static.toiimg.com/photo/msid-133241468,imgsize-120240.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-delhi-hc-gets-bomb-threat-us-loses-45-reaper-drones-in-iran-war-more/articleshow/133240674.cms",
-    "time": "2026-08-14T12:32:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "How India plans to turn cattle dung, crop waste and garbage into fuel",
-    "desc": "India's GOBARdhan scheme targets ten-fold growth in compressed biogas production. This initiative aims to convert agricultural residue and cattle dung into valuable fuel. The government provides capital assistance and assured demand for producers. This framework seeks to build a national bioenergy industry from organic waste. The scheme intends to enhance energy security and rural development.",
-    "img": "https://static.toiimg.com/photo/msid-133241172,imgsize-236676.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/gobardhan-scheme-how-india-plans-to-turn-cattle-dung-crop-waste-and-garbage-into-fuel/articleshow/133238782.cms",
-    "time": "2026-08-14T12:11:25.000Z"
   },
   {
     "cat": "Sports",
@@ -585,15 +567,6 @@ const newsData_en = [
     "time": "2026-08-14T02:14:04.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'I'd love players to be mobbed like IPL cricketers': Esports eyes mainstream appeal",
-    "desc": "At the Esports World Cup in Paris, chess has emerged as an unlikely test of how far esports can stretch. Mike McCabe explains why the game's centuries-old appeal fits alongside digital titles, what Paris has proved about the EWC's ability to travel, and why its future may depend on creating players with the recognition of IPL stars. His vision points to a broader shift in how esports defines games, audiences and sporting fame.",
-    "img": "https://static.toiimg.com/photo/msid-133226814,imgsize-82546.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/esports/news/id-love-players-to-be-mobbed-like-ipl-cricketers-the-push-to-make-esports-mainstream/articleshow/133226808.cms",
-    "time": "2026-08-14T00:57:46.000Z"
-  },
-  {
     "cat": "World",
     "title": "Nepal’s former PM Deuba returns after over five months abroad for treatment",
     "desc": "Mr. Deuba and his wife, former Foreign Minister Arzu Rana Deuba, were seriously injured during violent protests on September 9, 2025, when anti-government demonstrations led by the Gen Z movement swept across Nepal and resulted in the fall of the K.P. Sharma Oli government",
@@ -729,24 +702,6 @@ const newsData_en = [
     "time": "2026-08-12T19:38:14.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Moment of reckoning for Gill — the skipper and the batter",
-    "desc": "The 0-2 loss to South Africa has left India languishing mid-table, with just four wins from nine matches. They must win seven of their nine remaining games — two each away in Sri Lanka and New Zealand, and five early next year at home against the Aussies — to move into the finals under their own steam, a tall order at the best of times",
-    "img": "https://th-i.thgim.com/public/incoming/g52yem/article71338287.ece/alternates/LANDSCAPE_1200/th04-cri-ind-sqG91FD1K1K.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/moment-of-reckoning-for-gill-the-skipper-and-the-batter/article71338264.ece",
-    "time": "2026-08-12T18:54:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "SL vs IND Tests",
-    "desc": "A spate of retirements, injuries and selectorial interventions have left the squad in a state of flux; coach Gambhir and captain Gill will be looking at the two-Test series as a chance to get over transition blues and chase success",
-    "img": "https://th-i.thgim.com/public/incoming/nzy4ft/article71337283.ece/alternates/LANDSCAPE_1200/PTI08_04_2026_000521B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/sl-vs-ind-tests-india-arrives-in-the-emerald-isle-seeking-a-fresh-path-in-tests/article71337009.ece",
-    "time": "2026-08-12T17:49:30.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Govt revises ACC PLI timelines for Ola Electric; unlocks up to ₹7,240 crore",
     "desc": "The MHI revision is much more than a timeline extension. The approval secures a full five-year PLI window through CY2031 for Ola Electric's 20 GWh allocation and unlocks up to ₹7,240 crore in cumulative PLI incentives, the company said in a statement",
@@ -790,15 +745,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/gadgets/google-pixel-11-pixel-11-pro-pixel-11-pro-xl-and-pixel-11-pro-fold-launch-what-to-expect/article71331641.ece",
     "time": "2026-08-12T15:55:33.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Adopted Indian women find 'missing piece' when DNA test reveals they are sisters",
-    "desc": "Growing up, neither was aware that they had a sister. Then, as teenagers ‌in 1996, while living just 100 miles (130 km) apart, they ‌crossed ⁠paths at a gathering for adopted children and felt ⁠an unusually strong connection",
-    "img": "https://th-i.thgim.com/public/incoming/foep3a/article71337069.ece/alternates/LANDSCAPE_1200/2026-08-12T105453Z_1261354623_RC2BWMAO2OOQ_RTRMADP_3_NETHERLANDS-ADOPTION-SISTERS-REUNION.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/adopted-indian-women-find-missing-piece-when-dna-test-reveals-they-are-sisters/article71336969.ece",
-    "time": "2026-08-12T14:04:25.000Z"
   },
   {
     "cat": "Entertainment",
@@ -898,5 +844,59 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
     "time": "2024-03-12T09:46:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
+    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
+    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
+    "time": "2024-03-12T09:45:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
+    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
+    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
+    "time": "2024-03-11T10:20:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
+    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
+    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
+    "time": "2024-03-11T10:00:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
+    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
+    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
+    "time": "2024-03-11T09:41:17.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Here’s how much the smartphone costs",
+    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
+    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
+    "time": "2024-03-11T09:36:12.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
+    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
+    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
+    "time": "2024-03-11T09:19:46.000Z"
   }
 ];
