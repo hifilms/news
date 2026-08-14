@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Vinay Kumar named new Karnataka head coach ahead of upcoming domestic season",
+    "desc": "In a major development, the KSCA (Karnataka State Cricket Association) has come forward and named former India cricketer Vinay Kumar as Karnataka’s head coach ahead of the upcoming domestic season. At 42 years old, Vinay...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vinay-kumar-named-new-karnataka-head-coach-ahead-of-upcoming-domestic-season-2026-08-14-1051315",
+    "time": "2026-08-14T01:34:28.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India opt out of FIFA ASEAN Cup to make way for much-awaited Brazil friendly in Kolkata",
     "desc": "Indian football has made a significant call ahead of a busy international calendar, with the All India Football Federation (AIFF) deciding to withdraw the national team from the inaugural FIFA ASEAN Cup. The move has...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/how-did-solar-eclipse-captivate-cricket-football-f1-fans-across-europe-watch-2026-08-13-1051223",
     "time": "2026-08-13T06:06:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PSG lift back-to-back UEFA Super Cups as Desire Doue's late strike helps Paris beat Aston Villa",
-    "desc": "Paris Saint-Germain began their 2026/27 season with another European trophy as they beat Aston Villa 2-1 in a fiercely contested UEFA Super Cup encounter at the Red Bull Arena in Salzburg. Desire Doue delivered the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/psg-lift-back-to-back-uefa-super-cups-as-desire-doue-s-late-strike-helps-paris-beat-aston-villa-2026-08-13-1051215",
-    "time": "2026-08-13T04:59:57.000Z"
   }
 ];
