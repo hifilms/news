@@ -1,5 +1,113 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "'Magudam' earns Rs 60 lakhs India net",
+    "desc": "Vishal's directorial debut, 'Magudam', had a quiet debut at the Indian box office, earning Rs 60 lakhs on its opening day. The Tamil rendition drew in Rs 40 lakhs, while the Telugu version contributed another Rs 20 lakhs. Featuring Vishal in dual roles as a gangster and his son, the film received mixed reviews, with ETimes rating it two stars.",
+    "img": "https://static.toiimg.com/photo/msid-133253563,imgsize-330687.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/magudam-box-office-collections-day-1-vishals-directorial-debut-earns-rs-60-lakhs-india-net-records-15-overall-occupancy/articleshow/133253556.cms",
+    "time": "2026-08-15T00:32:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All about Sunidhi Chauhan’s home in Mumbai",
+    "desc": "Amidst the chaos of her successful career, Sunidhi Chauhan finds solace in her Mumbai abode. The apartment boasts charming wooden details and cozy cream furniture, creating a warm ambiance. Notably, a distinct section of the residence is allocated for dance practice and brainstorming, equipped with a dressing area and shelves showcasing her accolades. This home beautifully mirrors the artist's need for both relaxation and inspiration.",
+    "img": "https://static.toiimg.com/photo/msid-133253558,imgsize-225615.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/sunidhi-chauhans-mumbai-home-a-look-into-the-desi-girl-singers-cozy-apartment-with-wooden-accents/articleshow/133253554.cms",
+    "time": "2026-08-15T00:31:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Awarapan 2' opens with Rs 27 crore haul",
+    "desc": "Emraan Hashmi's 'Awarapan 2' has achieved a strong opening at the Indian box office. The film earned an estimated Rs 21 crore net on its first day. This collection marks Emraan Hashmi's biggest opening day at the box office. The sequel significantly surpassed the original 'Awarapan's' opening day earnings. Advance bookings and walk-in audiences contributed to the film's successful debut.",
+    "img": "https://static.toiimg.com/photo/msid-133253532,imgsize-561094.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/awarapan-2-box-office-collection-day-1-emraan-hashmi-starrer-opens-with-rs-27-crore-haul-becomes-actors-biggest-opener/articleshow/133253377.cms",
+    "time": "2026-08-15T00:14:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Vishwanath and Sons' BO day 1",
+    "desc": "Vishwanath and Sons opened strongly, earning Rs 27.51 crore worldwide on its first day. The film collected Rs 15.15 crore net in India, with Tamil and Telugu versions performing well. Tamil Nadu led state-wise collections, contributing Rs 7.25 crore to the domestic gross. The movie explores a family-oriented subject connecting a business tycoon and an Olympian. Its ending is described as sensible, smart, and satisfying by ETimes.",
+    "img": "https://static.toiimg.com/photo/msid-133253525,imgsize-346805.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vishwanath-and-sons-box-office-collections-day-1-suriyas-family-entertainer-opens-strongly-mamitha-baiju-film-earns-rs-15-15-cr-india-net/articleshow/133253506.cms",
+    "time": "2026-08-15T00:10:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lord's to Lahore: A look at India's milestone Tests before the 600th at Galle",
+    "desc": "The men-in-Blue, led by Shubman Gill, are set to become only the third team after England and Australia to reach the milestone, that too on the day when the nation is celebrating its 80th Independence Day from the colonial rule..",
+    "img": "https://static.toiimg.com/photo/msid-133253114,imgsize-1255513.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-play-600th-test-at-galle-what-happened-in-1st-100th-200th-300th-400th-and-500th-tests/articleshow/133251542.cms",
+    "time": "2026-08-14T23:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Deflating the wind in the willows",
+    "desc": "Kashmir’s famed ₹700-crore bat-making industry supports at least 50,000 livelihoods. Since 2021, its bats have made their way to cricket grounds around the world, with 47 international players using Kashmir willow bats in major tournaments. But a shortage of willow, climate change, and smuggling are putting the industry under pressure. Peerzada Ashiq reports on its rise and the challenges threatening its future",
+    "img": "https://th-i.thgim.com/public/incoming/1ek8xt/article71346989.ece/alternates/LANDSCAPE_1200/10-SPOTLIGHT-13-08-2026.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/kashmirs-bat-making-industry-deflating-the-wind-in-the-willows/article71346986.ece",
+    "time": "2026-08-14T23:18:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Four arrested in Mumbai in connection with ₹30 crore Ponzi, multi-level marketing scheme",
+    "desc": "Police said the company was accepting illegal investments, even in the form of cash, promising continuous, fixed returns of 5-7% monthly, without obtaining any license/registration from the Reserve Bank of India or the Securities and Exchange Board of India",
+    "img": "https://th-i.thgim.com/public/incoming/o2bghy/article70889925.ece/alternates/LANDSCAPE_1200/IMG_vbk-HANDCUFF-arrest_2_1_46C98QUC.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/mumbai/four-arrested-in-mumbai-in-connection-with-30-crore-ponzi-multi-level-marketing-scheme/article71347096.ece",
+    "time": "2026-08-14T23:09:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Upset by Centre’s response on business rules, reservation report, Omar Abdullah warns of Gen Z-style agitation in J&K",
+    "desc": "J&K CM Omar Abdullah accused the Centre of dilly dallying on the issue of Transaction of Business Rules, mandatory to be drafted as per the J&K Reorganisation Act to define the roles and domains of the office of Chief Minister, the Council of Ministers and the Lok Bhavan",
+    "img": "https://th-i.thgim.com/public/incoming/89m5pr/article71347455.ece/alternates/LANDSCAPE_1200/PTI08_08_2026_000334A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/upset-by-centres-response-on-business-rules-reservationreport-omar-abdullah-warns-of-gen-z-styleagitationin-jk/article71346920.ece",
+    "time": "2026-08-14T23:01:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ryanair mocks Argentina after World Cup winner Rodri spotted on ultra-low-budget flight",
+    "desc": "Ryanair joined the viral reaction to Rodri’s budget flight from Madrid to Liverpool with a cheeky message aimed at Argentina. The airline tagged the Argentina national team while declaring, “We only fly winners,” referencing Spain’s World Cup triumph and Rodri’s Golden Ball. The post quickly went viral, adding football rivalry to the Manchester City star’s unlikely journey home.",
+    "img": "https://static.toiimg.com/photo/msid-133253280,imgsize-60750.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/ryanair-brutally-mocks-argentina-after-world-cup-winner-rodri-spotted-on-ultra-low-budget-flight/articleshow/133251743.cms",
+    "time": "2026-08-14T22:42:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Heated Rivalry' star Christina Chang's Indian bridal look woos fans",
+    "desc": "Actress Christina Chang wed her partner Soam Lall in a beautiful ceremony. The couple exchanged vows at Calamigos Ranch in Malibu, California. Chang wore an intricately embroidered Indian bridal lehenga for the celebration. They also had a second white wedding ceremony with a different gown. The couple has been together for sixteen years and shares a daughter.",
+    "img": "https://static.toiimg.com/photo/msid-133253256,imgsize-463837.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/heated-rivalry-star-christina-chang-marries-longtime-love-soam-lall-in-intimate-wedding-celebration-fans-in-awe-of-her-indian-bridal-look/articleshow/133251732.cms",
+    "time": "2026-08-14T22:26:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Thousands participate in Tiranga Yatra in Bihar, Jharkhand",
+    "desc": "Bihar Chief Minister Samrat Choudhary led the Tiranga Yatra as part of the ‘Har Ghar Tiranga’ campaign-2026 in Munger district, whereas the 209 CoBRA Battalion (CRPF) organised a motorcycle Tiranga Yatra to foster patriotism, national integration, and respect for the Tricolour in Jharkhand",
+    "img": "https://th-i.thgim.com/public/incoming/qujx5v/article71347453.ece/alternates/LANDSCAPE_1200/20260814150L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/thousands-participate-in-tiranga-yatra-in-bihar-jharkhand/article71345887.ece",
+    "time": "2026-08-14T22:25:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rodri stuns passengers on ultra-budget Ryanair flight to Liverpool after World Cup glory",
+    "desc": "World Cup Golden Ball winner Rodri stunned fellow passengers by boarding a budget Ryanair flight from Madrid to Liverpool. The Manchester City star attempted to stay unnoticed under a cap and sunglasses, but his personalised suitcase gave him away. Despite his superstar status, Rodri remained approachable, even accepting a World Cup sticker from a travelling family before heading back to England.",
+    "img": "https://static.toiimg.com/photo/msid-133251559,imgsize-107086.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/watch-world-cup-golden-ball-winner-rodri-shocks-passengers-by-boarding-ultra-budget-ryanair-flight-to-liverpool/articleshow/133251506.cms",
+    "time": "2026-08-14T21:36:50.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "21 CBI personnel awarded medals for distinguished service",
     "desc": "The President’s Medal for Distinguished Service was conferred on Assistant Inspector General of Police Shobha Dutta, Additional Superintendent of Police Manoj Banerjee, Additional Superintendent of Police Ginni Rana, Deputy Superintendent of Police Sanjay Kumar Samal, Assistant Sub-Inspector Ramesh Chand, and Assistant Sub-Inspector Madan Lal Dhiman",
@@ -16,6 +124,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/jason-arday-former-cambridge-university-professor-at-centre-of-plagiarism-scandal-found-dead-uk-media/article71347279.ece",
     "time": "2026-08-14T20:25:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Vishwanath and Sons’ movie review: A charming Suriya and Mamitha Baiju carry Venky Atluri’s wholesome entertainer",
+    "desc": "What if Suriya plays a Bruce Wayne-esque character who uses his superpower of wealth to fix his own personal problems? Despite a few conveniences, Venky Atluri’s ‘Vishwanath and Sons’ is a satisfying family entertainer with some progressive ideas and standout performances",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/yajr6/article71345042.ece/alternates/LANDSCAPE_1200/VAS.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/vishwanath-and-sons-movie-review-suriya-mamitha-baiju-venky-atluri-radhika-sarathkumar-wholesome-entertainer/article71344969.ece",
+    "time": "2026-08-14T20:01:54.000Z"
   },
   {
     "cat": "Sports",
@@ -108,15 +225,6 @@ const newsData_en = [
     "time": "2026-08-14T16:47:22.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "President Murmu approves 78 gallantry awards",
-    "desc": "President Droupadi Murmu has approved a total of seventy-eight gallantry awards, including nine Kirti Chakras and nineteen Shaurya Chakras, recognizing the exceptional bravery of defence personnel and central armed police forces. Many of these awards are awarded posthumously. This recognition underscores the remarkable commitment and courage displayed by individuals across the Army, Navy, and Air Force, emphasizing the nation's deep respect and appreciation for their service.",
-    "img": "https://static.toiimg.com/photo/msid-133246604,imgsize-157464.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/president-murmu-approves-78-gallantry-awards/articleshow/133246351.cms",
-    "time": "2026-08-14T16:01:51.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Ronaldo wedding had four guests; prenup details emerge",
     "desc": "A newly surfaced marriage certificate has revealed that Cristiano Ronaldo and Georgina Rodríguez’s secret wedding had four additional witnesses beyond their five children. The ceremony took place at their Cascais home on August 11, with Ronaldo’s longtime friend and Georgina’s sister among those present. Notably, Ronaldo’s mother Dolores and sisters Elma and Katia were absent from the intimate ceremony.",
@@ -133,15 +241,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/trump-admin-accuses-over-40-nations-including-india-of-helping-china-evade-tariffs-what-it-means/articleshow/133245956.cms",
     "time": "2026-08-14T15:46:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "What US, UK and others think about India at 80",
-    "desc": "India's standing on the global stage reveals a mixed bag of perceptions among nations, with only 45% viewing it favorably. While Pakistan's outlook remains critical, Sri Lanka showcases significant support. Since 2025, favorability has waned in several countries, yet noteworthy improvements have emerged in Germany and the UK, highlighting the complexities and challenges of India's international reputation.",
-    "img": "https://static.toiimg.com/photo/msid-133246112,imgsize-1675112.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pew-survey-what-us-uk-and-others-think-about-india-at-80/articleshow/133244590.cms",
-    "time": "2026-08-14T15:43:17.000Z"
   },
   {
     "cat": "Entertainment",
@@ -171,24 +270,6 @@ const newsData_en = [
     "time": "2026-08-14T14:39:47.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "President Droupadi Murmu approves 78 gallantry awards, including 13 posthumous",
-    "desc": "The President has also approved one Bar to Shaurya Chakra, five Bars to Sena Medals (Gallantry) and 36 Sena Medals (Gallantry), including five posthumous awards. The list also includes three Nao Sena Medals (Gallantry) and five Vayu Sena Medals (Gallantry). The awards have been approved to recognise gallantry among personnel of the Defence Forces and Central Armed Police Forces.",
-    "img": "https://static.toiimg.com/photo/msid-133244599,imgsize-183872.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/president-droupadi-murmu-approves-78-gallantry-awards-including-13-posthumous/articleshow/133244418.cms",
-    "time": "2026-08-14T14:27:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Greatest threat': How India, Pakistan view each other; data lays bare deep animosity",
-    "desc": "A recent survey by Pew highlights that Indians and Pakistanis regard each other as their principal geopolitical adversaries. Unfavorable opinions dominate across the border, with India marking Pakistan as the major threat while Pakistan responds in kind. There is a notable distrust regarding the other’s dedication to peaceful relations, amplified by contrasting global alliances influencing each country’s strategic outlook.",
-    "img": "https://static.toiimg.com/photo/msid-133240186,imgsize-1597812.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/greatest-threat-how-india-pakistan-view-each-other-data-lays-bare-deep-animosity/articleshow/133238982.cms",
-    "time": "2026-08-14T14:23:48.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Wall Street drifts near record highs; economic data in focus",
     "desc": "The bond market was largely steady after government data showed that consumer spending at US retailers declined from the previous month. The reading caught economists off guard, as they had expected retail sales to post another monthly increase.",
@@ -196,15 +277,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/us-stock-market-today-august-14-2026-wall-street-down-jones-industrial-average-sp-500-nasdaq-composite-us-iran-war-crude-oil-prices/articleshow/133244412.cms",
     "time": "2026-08-14T14:21:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Cannot imagine': Rajnath Singh's sharp 'Gandhi surname' attack on Rahul Gandhi over PM hug jibe",
-    "desc": "Rajnath Singh said he was particularly upset that the comments came from the Leader of Opposition in the Lok Sabha. He accused Gandhi of lowering the dignity associated with the post and questioned whether such conduct was appropriate for someone holding a key constitutional position. The defence minister also defended Modi's record as Prime Minister and his standing abroad.",
-    "img": "https://static.toiimg.com/photo/msid-133243840,imgsize-108962.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cannot-imagine-rajnath-singhs-sharp-gandhi-surname-attack-on-rahul-gandhi-over-pm-hug-jibe/articleshow/133241570.cms",
-    "time": "2026-08-14T14:11:13.000Z"
   },
   {
     "cat": "Entertainment",
@@ -333,15 +405,6 @@ const newsData_en = [
     "time": "2026-08-14T10:51:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘Vishwanath and Sons’ movie review: A charming Suriya and Mamitha Baiju carry Venky Atluri’s wholesome entertainer",
-    "desc": "What if Suriya plays a Bruce Wayne-esque character who uses his superpower of wealth to fix his own personal problems? Despite a few conveniences, Venky Atluri’s ‘Vishwanath and Sons’ is a satisfying family entertainer with some progressive ideas and standout performances",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/yajr6/article71345042.ece/alternates/LANDSCAPE_1200/VAS.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/vishwanath-and-sons-movie-review-suriya-mamitha-baiju-venky-atluri-radhika-sarathkumar-wholesome-entertainer/article71344969.ece",
-    "time": "2026-08-14T10:50:27.000Z"
-  },
-  {
     "cat": "Business",
     "title": "800 kmph in 5.3 seconds: China train sets third record in six months",
     "desc": "China's experimental maglev train achieved 800 kmph in just 5.3 seconds. This remarkable acceleration sets a new world record for short-distance travel. The technology is not intended for passenger transport due to extreme acceleration levels. Instead, it may find future uses in rocketry and military aircraft. Researchers are exploring its potential for industrial transport and specialized elevators.",
@@ -396,15 +459,6 @@ const newsData_en = [
     "time": "2026-08-14T09:33:19.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Quote of the day by iconic American singer-songwriter Dolly Parton",
-    "desc": "Dolly Parton, a music industry legend, built a vast business empire from humble beginnings. Her inspirational quote, \"Storms make trees take deeper roots,\" reflects life's challenges. These hardships fortify individuals, developing greater strength and determination over time. Parton's career spans decades, featuring iconic songs like 'Jolene' and '9 to 5'. Her journey from poverty to success offers a powerful example of resilience and achievement.",
-    "img": "https://static.toiimg.com/photo/msid-133235575,imgsize-610425.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/quote-of-the-day-of-dolly-parton-storms-make-trees-take-deeper-roots-shares-iconic-american-singer-songwriter-philanthropist-and-businesswoman/articleshow/133235506.cms",
-    "time": "2026-08-14T09:23:39.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "The all-weather finger spinner India needs after Ravindra Jadeja",
     "desc": "Manav Suthar is a classical left-arm spinner who stands out in modern cricket for his artistry, skill, and dedication. Praised by experts like Maninder Singh, Suthar impresses with his seamless action, wrist magic, and high revolutions on the ball. His adaptability and work ethic have earned him recognition in both domestic and international cricket, marking him as replacement for Ravindra Jadeja and an all-weather finger spinner.",
@@ -414,30 +468,12 @@ const newsData_en = [
     "time": "2026-08-14T09:18:51.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Dhruv Vikram shares peaceful beach video amid Anupama's break up speculations",
-    "desc": "Dhruv Vikram posted a peaceful beach video on his Instagram Story. This post gained attention amid breakup speculations with Anupama Parameswaran. Anupama Parameswaran recently discussed experiencing narcissistic abuse in a past relationship. Social media users linked her comments to rumors about her and Dhruv. The actors are currently working together on the film Bison Kaalamaadan.",
-    "img": "https://static.toiimg.com/photo/msid-133234324,imgsize-131795.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/bison-actor-dhruv-vikram-shares-peaceful-beach-video-amid-anupama-parameswarans-break-up-speculations/articleshow/133234291.cms",
-    "time": "2026-08-14T09:00:08.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Selection criteria was diluted as soon as elected dispensation took over TTFI, says Bharadwaj",
     "desc": "“Our main idea was those who perform consistently at the world circuit should feature in India’s team for major tournaments and they deserve to be given a bit of leeway from participating in domestic tournaments in an already crammed calendar,” says Vasanth Bharadwaj",
     "img": "https://th-i.thgim.com/public/incoming/nnaheh/article71344845.ece/alternates/LANDSCAPE_1200/Screenshot%202026-08-14%20141756.png",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/selection-criteria-was-diluted-as-soon-as-elected-dispensation-took-over-says-bharadwaj/article71344795.ece",
-    "time": "2026-08-14T08:57:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Magudam' X review: Fans express disappointement over Vishal's debut directorial",
-    "desc": "Vishal makes waves with his directorial debut 'Magudam', released today. Early reactions on social media reveal a split audience; while some rave about the thrilling action scenes and the captivating music by GV Prakash Kumar, others voice their concerns over the film's screenplay and execution. With opinions divided, all eyes are now on how the second half of the film unfolds to deliver its final verdict.",
-    "img": "https://static.toiimg.com/photo/msid-133234226,imgsize-199950.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/magudam-twitter-review-gv-prakash-is-the-only-saviour-fans-express-disappointement-over-vishals-debut-directorial/articleshow/133233661.cms",
     "time": "2026-08-14T08:57:31.000Z"
   },
   {
@@ -459,15 +495,6 @@ const newsData_en = [
     "time": "2026-08-14T08:28:47.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Sonu Nigam confesses he uses auto-tune sometimes for THIS reason",
-    "desc": "Singer Sonu Nigam candidly discussed his use of auto-tune technology in some of his songs. He stated that contemporary music production often requires careful pitch adjustments. According to Nigam, auto-tune ought to complement powerful vocal abilities instead of covering flaws. He also mentioned his participation in Rajkumar Santoshi's latest movie, where he performed a song crafted by renowned composer AR Rahman.",
-    "img": "https://static.toiimg.com/photo/msid-133233113,imgsize-225458.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sonu-nigam-confesses-he-uses-auto-tune-sometimes-previously-everything-was-live-sarangi-strings-so-our-pitch-didnt-have-to-be-perfect-but-now-/articleshow/133233051.cms",
-    "time": "2026-08-14T08:12:16.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "TATA Steel sells 100% stake in Jamshedpur FC to Churchill Brothers",
     "desc": "Tata Steel has officially sanctioned the sale of its entire ownership stake in Jamshedpur FC for a minimal price. The agreement includes the transfer of the ISL sporting rights to Churchill Brothers Sports Club, as well as the contracts for players and coaching staff, which will move to the Goa-based club starting September 2026. This strategic decision allows Tata Steel to focus on enhancing grassroots football initiatives.",
@@ -486,15 +513,6 @@ const newsData_en = [
     "time": "2026-08-14T07:50:32.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "How to stop Vaibhav Sooryavanshi? Harbhajan Singh reveals the only way",
-    "desc": "Harbhajan Singh suggests bowlers must attack Vaibhav Sooryavanshi to succeed. He believes containing the young batter is not an effective strategy. Sooryavanshi's aggressive style forces elite bowlers to reconsider their approach. The former spinner emphasises taking wickets over defensive bowling tactics. Accepting boundaries is part of the risk when facing this talented player.",
-    "img": "https://static.toiimg.com/photo/msid-133232073,imgsize-104926.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/how-to-stop-vaibhav-sooryavanshi-harbhajan-singh-reveals-the-only-way/articleshow/133231993.cms",
-    "time": "2026-08-14T07:26:34.000Z"
-  },
-  {
     "cat": "World",
     "title": "North Korea slams U.S.-South Korea military drills, threatens to exercise self-defence",
     "desc": "Mr. Kim has ignored the U.S. and South Korea's offers to resume diplomacy and has focussed on taking steps to bolster his nuclear arsenal since his summitry with U.S. President Donald Trump broke down in 2019",
@@ -502,24 +520,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/north-korea-slams-us-south-korea-military-drills-threatens-to-exercise-self-defence/article71343931.ece",
     "time": "2026-08-14T07:04:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘This could be my last WC’: Manpreet Singh eyes title to end India’s 51-year wait",
-    "desc": "Manpreet Singh aims for India's second World Cup title after Olympic success. He believes the team possesses the necessary talent and experience for victory. The veteran midfielder approaches this as potentially his final World Cup appearance. India will focus on each match, respecting all opponents throughout the tournament. The squad's strong defence and fitness will support their attacking game.",
-    "img": "https://static.toiimg.com/photo/msid-133230933,imgsize-44434.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/this-could-be-my-last-world-cup-manpreet-singh-eyes-title-to-end-indias-51-year-wait/articleshow/133230874.cms",
-    "time": "2026-08-14T06:29:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘You can’t play forever’: Hayden’s blunt message on Rohit Sharma’s future",
-    "desc": "Matthew Hayden pointed out that Rohit Sharma is the architect of his own cricket destiny. As a veteran, Rohit must consider his desire and endurance for the rigorous schedules, especially following his retirement from the Test and T20I formats. His recent performance against England showcases his enduring talent, and the spotlight will only intensify as the 2027 World Cup in Africa looms ahead.",
-    "img": "https://static.toiimg.com/photo/msid-133230696,imgsize-125848.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/you-cant-play-forever-matthew-haydens-blunt-message-on-rohit-sharmas-future/articleshow/133230644.cms",
-    "time": "2026-08-14T06:15:21.000Z"
   },
   {
     "cat": "Business",
@@ -691,15 +691,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/a-blockbuster-125b-deal-as-josh-kushner-and-bob-iger-agree-to-buy-the-lakers-ap-source-says/article71338336.ece",
     "time": "2026-08-12T19:49:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hayden backs Gill to rise to Test challenge, says India has ‘job to do’ ahead of WTC final",
-    "desc": "India is currently fifth in the WTC 2025-27 standings, having won four and lost four of their nine matches, with one draw. Hayden said the team’s record highlighted the challenges facing India in the longest format despite their strength in white-ball cricket",
-    "img": "https://th-i.thgim.com/public/incoming/1u6e18/article71338345.ece/alternates/LANDSCAPE_1200/11_Twenty_20_IPL_Match_30_03_Chandigarh.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/hayden-backs-gill-to-rise-to-test-challenge-says-india-has-job-to-do-ahead-of-wtc-final/article71338326.ece",
-    "time": "2026-08-12T19:38:14.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
     "time": "2024-03-11T09:19:46.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Former Activision boss reportedly wants to buy TikTok",
+    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
+    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
+    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
