@@ -1,5 +1,50 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "'Cocktail 2' OTT release X review: Netizens call it rage bait",
+    "desc": "Cocktail 2, starring Kriti Sanon and Shahid Kapoor, is now streaming on OTT. The film explores trust and relationships, leading to a complicated love triangle. Viewers have criticized the movie's nonsensical storyline and character decisions. Rashmika Mandanna's dialogue delivery also faced audience scrutiny. Despite mixed reviews, the film has generated significant online conversation.",
+    "img": "https://static.toiimg.com/photo/msid-133267527,imgsize-350771.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/cocktail-2-ott-release-sparks-debate-and-garners-mixed-reviews-netizens-call-shahid-kapoor-kriti-sanon-and-rashmika-mandanna-starrer-a-rage-bait/articleshow/133267514.cms",
+    "time": "2026-08-15T20:22:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BCI chairman apologises to law students amid enrolment ban controversy",
+    "desc": "Without specifying the controversy or NALSAR, Mr. Mishra apologises for his words or letters that may have hurt students; says they should be free to form and express their own opinions; seeks dialogue and mutual respect",
+    "img": "https://th-i.thgim.com/public/incoming/chzq/article71350759.ece/alternates/LANDSCAPE_1200/Screenshot%202026-08-16%20014256.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bci-chairman-apologises-to-law-students-amid-enrolment-ban-controversy/article71350433.ece",
+    "time": "2026-08-15T20:14:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Chaos at Kozhikode Corporation’s I-Day flag-hoisting as councillors simultaneously sing national anthem, Vande Mataram",
+    "desc": "​As Mayor and councillors from CPI(M)-led ruling front and Congress-led UDF began singing Jana Gana Mana, BJP councillors, about seven of them, started singing the full version of Vande Mataram. Both groups persisted despite the resulting confusion",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/923g5c/article71349023.ece/alternates/LANDSCAPE_1200/flag.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/chaos-at-kozhikode-corporations-i-day-flag-hoisting-as-councillors-simultaneously-sing-national-anthem-vande-mataram/article71348991.ece",
+    "time": "2026-08-15T20:01:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sohail Khan breaks silence on sudden weight loss after his viral video sparks health concerns",
+    "desc": "Sohail Khan recently opened up about his impressive weight loss, clarifying that it stemmed from his experiences on a reality show. He faced a stomach infection in the first week, which led to his five-week stay, but it was the encouragement he received from contestants that truly inspired him. Khan firmly dismissed claims of using Ozempic or any fat-burning supplements for his transformation.",
+    "img": "https://static.toiimg.com/photo/msid-133267418,imgsize-360799.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sohail-khan-breaks-silence-on-sudden-weight-loss-after-his-viral-video-sparks-health-concerns-denies-taking-ozempic-fat-burning-supplements/articleshow/133267264.cms",
+    "time": "2026-08-15T19:08:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "No outsiders attended T.N. Cabinet meetings, says Social Justice Minister",
+    "desc": "Addressing the continuing incidents of honour killings in Tamil Nadu and the demand for a dedicated law to prevent them, the Minister says a decision will be made only after the K.N. Basha Commission’s report was submitted.",
+    "img": "https://th-i.thgim.com/public/incoming/dwjkl8/article71349993.ece/alternates/LANDSCAPE_1200/DSC_4935.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/no-outsiders-attended-tn-cabinet-meetings-says-social-justice-minister/article71349860.ece",
+    "time": "2026-08-15T18:18:15.000Z"
+  },
+  {
     "cat": "World",
     "title": "Myanmar says over 3,00,000 Rohingya refugees verified for repatriation as exodus enters ninth year",
     "desc": "The operation drove more than 7,00,000 Rohingya across the border into Bangladesh, joining hundreds of thousands of others already living there for decades in the wake of waves of previous violence perpetrated by Myanmar's military",
@@ -72,15 +117,6 @@ const newsData_en = [
     "time": "2026-08-15T17:06:55.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "BCI chairman apologises to law students amid enrolment ban controversy",
-    "desc": "Without specifying the controversy or NALSAR, Mr. Mishra apologises for his words or letters that may have hurt students; says they should be free to form and express their own opinions; seeks dialogue, mutual respect",
-    "img": "https://th-i.thgim.com/public/incoming/8alu4a/article71350556.ece/alternates/LANDSCAPE_1200/1740910157782.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bci-chairman-apologises-to-law-students-amid-enrolment-ban-controversy/article71350433.ece",
-    "time": "2026-08-15T17:00:00.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Even as government considers MDR charge on UPI, data shows cash usage quickening in economy",
     "desc": "An analysis by The Hindu shows that the growth in the value of UPI transactions has been consistently slowing since 2021-22, although the current rate of growth is still higher than that of cash with the public",
@@ -144,15 +180,6 @@ const newsData_en = [
     "time": "2026-08-15T15:43:51.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Mahua Moitra seeks Lok Sabha Speaker's intervention over alleged eviction bid from Circuit House",
-    "desc": "‘Any Women’s Reservation Bill seeking to bring in more women is a matter of jest unless your august office can protect the 74 women who have battled great odds to enter this House,’ the TMC MP writes in her letter to Om Birla",
-    "img": "https://th-i.thgim.com/public/incoming/hfrh49/article71350350.ece/alternates/LANDSCAPE_1200/20260812160L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/mahua-moitra-seeks-lok-sabha-speakers-intervention-over-alleged-eviction-bid-from-circuit-house/article71350066.ece",
-    "time": "2026-08-15T15:39:04.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘We will try not to make mistakes’: Harmanpreet vows India will learn from Wales win",
     "desc": "India marked a stellar opening in the Hockey World Cup, defeating Wales 3-1. Harmanpreet Singh, the captain, shined with two penalty corner goals. Despite a late strike from Wales, which highlighted room for growth, the Indian forward line proved effective, earning numerous penalty corners. With such a performance, the squad is confident in their quest for a medal in the tournament.",
@@ -160,15 +187,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/we-will-try-not-to-make-mistakes-harmanpreet-singh-vows-india-will-learn-from-wales-win/articleshow/133265192.cms",
     "time": "2026-08-15T15:36:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala govt. has deceived poor, homeless people, says Pinarayi Vijayan",
-    "desc": "Under revised PMAY-U 2.0 guidelines, beneficiaries are required to bear 25% of the total project cost, amounting to ₹1 lakh; Kerala Leader of the Opposition says State government’s decision to bow to anti-people conditions imposed by the Centre cannot be accepted",
-    "img": "https://th-i.thgim.com/public/incoming/v67g2/article71350283.ece/alternates/LANDSCAPE_1200/05tvnearby1_GGFGNEG72CRI.5.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/cut-in-life-mission-allocation-kerala-govt-has-deceived-poor-homeless-people-says-pinarayi-vijayan/article71350128.ece",
-    "time": "2026-08-15T15:20:46.000Z"
   },
   {
     "cat": "Business",
@@ -196,15 +214,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/xiaomi-bets-on-premium-phones-connected-homes-as-indias-smartphone-market-flattens/article71349737.ece",
     "time": "2026-08-15T15:04:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "APIIC tableau bags first prize at I-Day event in Tirupati",
-    "desc": "Minister for Endowments Anam Ramanarayana Reddy hoists the national flag and receives a guard of honour from the police, presents a cheque for ₹1,031 crore to the 74,956 members of 10,351 self help groups (SHGs)",
-    "img": "https://th-i.thgim.com/public/incoming/fcvxtf/article71350219.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-15%20at%2014.17.31.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/apiic-tableau-bags-first-prize-at-i-day-celebrations-in-tirupati/article71349352.ece",
-    "time": "2026-08-15T15:02:38.000Z"
   },
   {
     "cat": "Sports",
@@ -538,24 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/awarapan-2-ott-release-when-and-where-to-stream-emraan-hashmi-and-disha-patani-starrer-sequel-online-after-its-theatrical-release/articleshow/133260026.cms",
     "time": "2026-08-15T09:59:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rashmika Mandanna’s injury delays Allu Arjun’s 'Raaka' shoot by 45 days",
-    "desc": "Actress Rashmika Mandanna is on the mend following a significant hip injury that has delayed the 'Raaka' film shoot by approximately forty-five days. Director Atlee has taken the initiative to ensure that she fully recovers before resuming her demanding roles. The film crew remains supportive, emphasizing that her health is the top priority. Anticipated return to the set is expected around late September or early October.",
-    "img": "https://static.toiimg.com/photo/msid-133260012,imgsize-886064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandannas-injury-delays-allu-arjuns-raaka-by-nearly-45-daysuntil-september-or-october-as-atlee-prioritises-recovery-health-needs-to-come-first/articleshow/133259955.cms",
-    "time": "2026-08-15T09:52:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nana Patekar recalls Kargil War experience",
-    "desc": "Actor Nana Patekar, driven by a desire to aid soldiers, requested permission during the 1999 Kargil War. His military training from the film Prahaar played a pivotal role in securing his clearance. Over a span of two weeks, he engaged with Army troops near the Line of Control, faced challenging conditions, and even volunteered at a military hospital. This meaningful involvement deepened his respect for the sacrifices of soldiers.",
-    "img": "https://static.toiimg.com/photo/msid-133259911,imgsize-129715.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nana-patekar-recalls-kargil-war-experience-after-george-fernandes-granted-special-permission-referencing-his-prahaar-training-i-was-76-kg-came-back-at-56-kg/articleshow/133259692.cms",
-    "time": "2026-08-15T09:42:22.000Z"
   },
   {
     "cat": "Politics",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/gadgets/google-pixel-11-pixel-11-pro-pixel-11-pro-xl-and-pixel-11-pro-fold-launch-what-to-expect/article71331641.ece",
     "time": "2026-08-12T15:55:33.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Meta will soon face another high-stakes trial in U.S.",
+    "desc": "The federal trial, one of the most consequential among a myriad of legal proceedings targeting social networks in the United States, will begin on August 12, 2026 with jury selection at a federal court in Oakland",
+    "img": "https://th-i.thgim.com/public/incoming/36h44q/article71316172.ece/alternates/LANDSCAPE_1200/Meta_New_Mexico_6716_.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/meta-will-soon-face-another-high-stakes-trial-in-us/article71326861.ece",
+    "time": "2026-08-10T04:31:54.000Z"
   }
 ];
