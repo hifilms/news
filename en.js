@@ -1,5 +1,185 @@
 const newsData_en = [
   {
+    "cat": "World",
+    "title": "Myanmar says over 3,00,000 Rohingya refugees verified for repatriation as exodus enters ninth year",
+    "desc": "The operation drove more than 7,00,000 Rohingya across the border into Bangladesh, joining hundreds of thousands of others already living there for decades in the wake of waves of previous violence perpetrated by Myanmar's military",
+    "img": "https://th-i.thgim.com/public/incoming/xj3oqs/article71350672.ece/alternates/LANDSCAPE_1200/Myanmar_Rohingya_15162.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/myanmar-says-over-300000-rohingya-refugees-verified-for-repatriation-as-exodus-enters-ninth-year/article71350651.ece",
+    "time": "2026-08-15T18:14:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "PICS",
+    "desc": "Deepika Padukone and Ranveer Singh who are expecting their second child soon were spotted at the airport flying to Bengaluru. Ranveer Singh is reportedly shifting his film's shooting schedule to Mumbai. This change allows him to stay close to his wife during this important time. The actor is prioritizing family commitments over overseas filming plans.",
+    "img": "https://static.toiimg.com/photo/msid-133266363,imgsize-405005.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/doting-husband-ranveer-singh-drops-deepika-padukone-and-daughter-dua-at-the-airport-her-pregnancy-glow-is-hard-to-miss-as-she-flaunts-baby-bump-in-a-rare-appearance/articleshow/133266181.cms",
+    "time": "2026-08-15T17:30:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I now know I was wrong': Hikaru on chaotic EWC match against Firouzja",
+    "desc": "Hikaru Nakamura finished third at the 2026 Esports World Cup after Alireza Firouzja forfeited their match following technical issues and multiple disconnections. Initially blaming chess.com, Nakamura later learned the problems were caused by the EWC. He apologised for his comments, admitted he jumped to conclusions, and earned $145,000 plus valuable Club Championship points for Falcons Esports.",
+    "img": "https://static.toiimg.com/photo/msid-133266078,imgsize-130795.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/i-now-know-i-was-wrong-hikaru-nakamura-breaks-silence-after-chaotic-ewc-match-against-alireza-firouzja/articleshow/133265883.cms",
+    "time": "2026-08-15T17:27:08.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Israeli airstrike on southern Lebanon kills 7 people, Lebanese state media say",
+    "desc": "Israel and the Lebanese government announced a “framework agreement” on June 26, laying out a plan for Israeli forces to withdraw from southern Lebanon, in exchange for the disarmament of the Iran-backed Hezbollah militant group.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-us-war-west-asia-conflict-donald-trump-strait-of-hormuz-rising-oil-prices-live-updates-august-15-2026/article71348347.ece",
+    "time": "2026-08-15T17:23:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What happened when India last hosted BWF World Championships",
+    "desc": "New Delhi is set to welcome the prestigious 2026 Badminton World Championships after a long hiatus of seventeen years. The last event in 2009 in Hyderabad witnessed China's commanding presence, highlighted by Lin Dan's monumental victory. With the stakes higher than ever, India prepares to write a new chapter in this thrilling sport, reflecting the dramatic shifts in international badminton.",
+    "img": "https://static.toiimg.com/photo/msid-133266300,imgsize-68736.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/flashback-what-happened-when-india-last-hosted-bwf-world-championships/articleshow/133266196.cms",
+    "time": "2026-08-15T17:20:39.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Street rallies held as Taliban government marks five years ruling Afghanistan",
+    "desc": "Hundreds gathered around a square beside the former U.S. embassy, while fresh flowers were thrown from military helicopters over a parade of athletes that featured only men because women are banned from sport in Afghanistan",
+    "img": "https://th-i.thgim.com/public/incoming/gav9rc/article71350574.ece/alternates/LANDSCAPE_1200/AP08_15_2026_000886B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/street-rallies-held-as-taliban-government-marks-five-years-ruling-afghanistan/article71350558.ece",
+    "time": "2026-08-15T17:17:41.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Yemen government says Houthi missiles kill at least four civilians in port city",
+    "desc": "The armed forces aligned with the Yemeni government said the attack ‌targeted civilian infrastructure and national assets at the port. Initial ‌reports ⁠said four civilians were killed and several fishing boats ⁠were set on fire",
+    "img": "https://th-i.thgim.com/public/incoming/v69bib/article71350582.ece/alternates/LANDSCAPE_1200/2026-08-15T154105Z_2074904564_RC23ZMAYBDN6_RTRMADP_3_IRAN-CRISIS-YEMEN-SAUDI-MOCHA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/yemen-government-says-houthi-missiles-kill-at-least-four-civilians-in-port-city/article71350552.ece",
+    "time": "2026-08-15T17:15:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Padikkal or Sudharsan? Manjrekar makes No. 3 call: 'He looks formidable'",
+    "desc": "On the first day in Galle, Devdutt Padikkal shone brightly, scoring an unbeaten 131 runs. His technique against Sri Lanka's spinners garnered high praise from Sanjay Manjrekar, who noted Padikkal's impressive back-foot play and attacking style. This stellar performance strengthens his candidacy for the number three batting slot and marks a notable milestone in the young Indian cricketer's career.",
+    "img": "https://static.toiimg.com/photo/msid-133266040,imgsize-69614.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/godsent-for-india-sanjay-manjrekar-makes-no-3-call-tips-devdutt-padikkal-ahead-of-sai-sudharsan/articleshow/133265985.cms",
+    "time": "2026-08-15T17:06:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BCI chairman apologises to law students amid enrolment ban controversy",
+    "desc": "Without specifying the controversy or NALSAR, Mr. Mishra apologises for his words or letters that may have hurt students; says they should be free to form and express their own opinions; seeks dialogue, mutual respect",
+    "img": "https://th-i.thgim.com/public/incoming/8alu4a/article71350556.ece/alternates/LANDSCAPE_1200/1740910157782.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bci-chairman-apologises-to-law-students-amid-enrolment-ban-controversy/article71350433.ece",
+    "time": "2026-08-15T17:00:00.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Even as government considers MDR charge on UPI, data shows cash usage quickening in economy",
+    "desc": "An analysis by The Hindu shows that the growth in the value of UPI transactions has been consistently slowing since 2021-22, although the current rate of growth is still higher than that of cash with the public",
+    "img": "https://th-i.thgim.com/public/business/ij4ipv/article71350535.ece/alternates/LANDSCAPE_1200/TH16_UPI_edited.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/even-as-government-considers-mdr-charge-on-upi-data-shows-cash-usage-quickening-in-economy/article71345365.ece",
+    "time": "2026-08-15T16:49:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM’s I-Day speech — Reforms, AI skilling for youth, free online coaching and a warning on ‘dimagi Naxal’",
+    "desc": "In his 13th address to the nation, the first in 80 years that saw Vande Mataram preceding the national anthem, Narendra Modi directly spoke to some of the challenges facing India’s economy, security, and domestic anxieties, while evoking a ‘grave threat’ from ‘ideological Naxalites’",
+    "img": "https://th-i.thgim.com/public/sport/cricket/c0qrw4/article71348584.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-15%20at%209.37.39%20AM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/pm-modi-lays-out-seven-point-sapta-dhara-framework-for-viksit-bharat/article71348519.ece",
+    "time": "2026-08-15T16:48:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Saif says his sons Taimur, Jeh are scared of the wars happening in the world",
+    "desc": "Saif Ali Khan recently addressed his children's concerns about the world’s conflicts and their safety. He reassured them that India's armed forces safeguard the nation, instilling pride. Furthermore, the actor shared his wish for enhanced tourism opportunities in the stunning Kashmir region, reminiscing about his mother's notable cinematic legacy there. Additionally, Saif is gearing up for his upcoming thriller film Haiwaan alongside Akshay Kumar.",
+    "img": "https://static.toiimg.com/photo/msid-133265682,imgsize-238274.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saif-ali-khan-says-his-sons-taimur-jeh-are-scared-of-the-wars-happening-in-the-world-talks-about-his-connection-with-kashmir-i-tell-them-the-army-is-protecting-us/articleshow/133265628.cms",
+    "time": "2026-08-15T16:25:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ferran Torres trains with PSG for the first time after 2031 deal",
+    "desc": "Ferran Torres has joined Paris Saint-Germain from Barcelona for a reported €50 million, signing until 2031 just weeks after scoring Spain’s World Cup-winning goal against Argentina. The 26-year-old will wear PSG’s No. 9 shirt and reunite with Luis Enrique, arriving after a productive Barcelona campaign that saw him score 21 goals across all competitions.",
+    "img": "https://static.toiimg.com/photo/msid-133265573,imgsize-70206.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/ferran-torres-begins-psg-chapter-as-world-cup-hero-trains-for-first-time-after-2031-deal/articleshow/133258702.cms",
+    "time": "2026-08-15T16:18:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Desire to play is not a problem’: Ali on Pakistan’s Test cricket downfall",
+    "desc": "Former Pakistan captain Azhar Ali blamed the decline of departmental cricket for the country’s Test struggles. He called the system a key “nursery” for developing players and criticised the PCB’s frequent changes to domestic cricket. Azhar also stressed that departmental teams provide vital financial security, allowing young cricketers to support their families while pursuing the sport professionally.",
+    "img": "https://static.toiimg.com/photo/msid-133265295,imgsize-56502.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/desire-to-play-is-not-a-problem-azhar-ali-on-pakistans-test-cricket-downfall/articleshow/133265160.cms",
+    "time": "2026-08-15T15:45:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hrithik, Saba spotted hand-in-hand after a movie date, amid break-up rumours",
+    "desc": "After a screenshot ignited break-up rumors between Hrithik Roshan and Saba Azad, the speculation was swiftly quelled when the couple was spotted together at Juhu PVR, hand-in-hand. Their affectionate public appearance confirmed that their relationship, which has been public since 2021, remains strong. Hrithik also continues to maintain an amicable bond with his ex-wife, Sussanne Khan, and her current partner.",
+    "img": "https://static.toiimg.com/photo/msid-133265269,imgsize-393112.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hrithik-roshan-saba-azad-spotted-hand-in-hand-after-a-movie-date-amid-break-up-rumours-after-a-screenshot-claimed-the-krrish-actor-to-be-on-a-dating-app-pics-inside/articleshow/133265170.cms",
+    "time": "2026-08-15T15:44:02.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India’s forex demand shifts beyond metros as tier-2, tier-3 cities take 53% share",
+    "desc": "Emerging from the shadows of larger cities, smaller Indian towns now contribute to over 50% of foreign exchange demand. The appetite for leisure travel fuels this growth, with travelers aged 25 to 40 at the forefront. The US dollar continues to dominate as the most preferred currency, while digital forex transactions see a promising annual increase.",
+    "img": "https://static.toiimg.com/photo/msid-133265270,imgsize-95100.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-forex-demand-shifts-beyond-metros-as-tier-2-tier-3-cities-take-53-share/articleshow/133265257.cms",
+    "time": "2026-08-15T15:43:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mahua Moitra seeks Lok Sabha Speaker's intervention over alleged eviction bid from Circuit House",
+    "desc": "‘Any Women’s Reservation Bill seeking to bring in more women is a matter of jest unless your august office can protect the 74 women who have battled great odds to enter this House,’ the TMC MP writes in her letter to Om Birla",
+    "img": "https://th-i.thgim.com/public/incoming/hfrh49/article71350350.ece/alternates/LANDSCAPE_1200/20260812160L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/mahua-moitra-seeks-lok-sabha-speakers-intervention-over-alleged-eviction-bid-from-circuit-house/article71350066.ece",
+    "time": "2026-08-15T15:39:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘We will try not to make mistakes’: Harmanpreet vows India will learn from Wales win",
+    "desc": "India marked a stellar opening in the Hockey World Cup, defeating Wales 3-1. Harmanpreet Singh, the captain, shined with two penalty corner goals. Despite a late strike from Wales, which highlighted room for growth, the Indian forward line proved effective, earning numerous penalty corners. With such a performance, the squad is confident in their quest for a medal in the tournament.",
+    "img": "https://static.toiimg.com/photo/msid-133265224,imgsize-201517.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/we-will-try-not-to-make-mistakes-harmanpreet-singh-vows-india-will-learn-from-wales-win/articleshow/133265192.cms",
+    "time": "2026-08-15T15:36:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala govt. has deceived poor, homeless people, says Pinarayi Vijayan",
+    "desc": "Under revised PMAY-U 2.0 guidelines, beneficiaries are required to bear 25% of the total project cost, amounting to ₹1 lakh; Kerala Leader of the Opposition says State government’s decision to bow to anti-people conditions imposed by the Centre cannot be accepted",
+    "img": "https://th-i.thgim.com/public/incoming/v67g2/article71350283.ece/alternates/LANDSCAPE_1200/05tvnearby1_GGFGNEG72CRI.5.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/cut-in-life-mission-allocation-kerala-govt-has-deceived-poor-homeless-people-says-pinarayi-vijayan/article71350128.ece",
+    "time": "2026-08-15T15:20:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Tesco’s India GCC transforms from a basic dashboard to cockpit in last 20 years",
+    "desc": "Its team in Bengaluru developed several AI algorithms that helped deliver around 670 million personalised offers to approximately 14-15 million customers of the British retail chain. The GCC processes payroll worth around £5.5-6 billion annually from India for the retailer’s 340,000 employees worldwide. The team connects store, customer, supply-chain, market and competition data and translates it into decisions aimed at driving growth and profitability",
+    "img": "https://th-i.thgim.com/public/business/phq5vq/article71350260.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-15%20at%206.32.55%20PM_edited.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/tescos-india-gcc-transforms-from-a-basic-dashboard-to-cockpit-in-last-20-years/article71322186.ece",
+    "time": "2026-08-15T15:13:36.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Ram Gopal Varma says ‘industry runs on flop movies, not the hit ones’",
     "desc": "the apparent lack of accountability among directors. He argues that many producers act merely as investors, distant from the creative process. This has led to rampant budget overruns, disrupting schedules in Telugu cinema. Varma advocates for a shift towards Bollywood's more corporate approach, emphasizing the need for financial discipline and enhanced accountability among directors to rectify these issues.",
@@ -36,15 +216,6 @@ const newsData_en = [
     "time": "2026-08-15T14:59:03.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "BJP says Sonia Gandhi opposed singing of full Vande Mataram, demands apology; Congress rejects charge",
-    "desc": "The controversy assumes significance against the backdrop of guidelines issued by the Home Ministry in February, and reiterated in July, on the observance of the national song, and the subsequent passage of the Prevention of Insults to National Honour (Amendment) Act, 2026",
-    "img": "https://th-i.thgim.com/public/incoming/zg2qr4/article71349134.ece/alternates/LANDSCAPE_1200/PTI08_15_2026_000355B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bjp-claims-sonia-objected-to-full-version-of-vande-mataram-at-event-congress-denies-charge/article71349117.ece",
-    "time": "2026-08-15T14:56:06.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India begins with a solid win over Wales",
     "desc": "Captain Harmanpreet nets a brace after Sanjay puts the former champion ahead; Fulton’s men score all three goals from penalty corners; the European side pulls one back in the final minutes of the Pool-D contest",
@@ -52,15 +223,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/hockey/world-cup-hockey-india-begins-with-a-solid-win-over-wales/article71350169.ece",
     "time": "2026-08-15T14:50:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Amid Onam supply gap, looms of Chendamangalam call for a tech update",
-    "desc": "The traditional weavers of the famed handloom industry, in and around Chendamangalam village in North Paravur taluk of Ernakulam district, say the demand during the Onam season has been encouraging, though the cooperative-based sector finds it difficult to supply enough",
-    "img": "https://th-i.thgim.com/public/incoming/tks6ck/article71350086.ece/alternates/LANDSCAPE_1200/Weaving07.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/amid-onam-supply-gap-looms-of-chendamangalam-call-for-a-tech-update/article71349849.ece",
-    "time": "2026-08-15T14:36:24.000Z"
   },
   {
     "cat": "Entertainment",
@@ -72,15 +234,6 @@ const newsData_en = [
     "time": "2026-08-15T14:36:21.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Preserve Kerala’s achievements in various sectors, Minister Mons Joseph urges people",
-    "desc": "He was inaugurating the Independence Day celebrations in Kottayam. Minister P.C. Vishnunadh, while hoisted the national flag at Pathanamthitta, says Independence Day is an occasion to remember with pride the achievements the country had made over the years",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/preserve-keralas-achievements-in-various-sectors-minister-mons-joseph-urges-people/article71349662.ece",
-    "time": "2026-08-15T14:29:42.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "IND vs SL Test Day 1",
     "desc": "Devdutt Padikkal and then K.L. Rahul got to their respective fifties; Sri Lankan spinners at times erred with their line and length, and if southpaw Padikkal was quick to cut, Rahul preferred the slow-violence of dabs and glides",
@@ -88,15 +241,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/india-srilanka-test-match-day-1-match-updates/article71348548.ece",
     "time": "2026-08-15T14:29:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Independence Day celebrations highlight progress, honour freedom fighters",
-    "desc": "Ministers hoist national flags across Kurnool, Nandyal and Anantapur districts; honouring the family members of freedom fighters, Bharath says it is essential to honour the descendants of freedom fighters and remember the sacrifices they made",
-    "img": "https://th-i.thgim.com/public/incoming/yu3dgg/article71349812.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-15%20at%2014.27.22%201.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/independence-day-celebrations-highlight-progress-honour-freedom-fighters/article71349329.ece",
-    "time": "2026-08-15T14:24:22.000Z"
   },
   {
     "cat": "Entertainment",
@@ -108,40 +252,13 @@ const newsData_en = [
     "time": "2026-08-15T14:23:09.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "CM Vijay",
-    "desc": "Delivering his I-Day address after hoisting the national flag at the ramparts of Fort St. George, CM Vijay thanked the people for breaking away from “caste and religious considerations” and rejecting “money and muscle power”",
-    "img": "https://th-i.thgim.com/public/incoming/upf7yd/article71350019.ece/alternates/LANDSCAPE_1200/CM%20SPEAKIUNG%20T6.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/we-want-people-of-tamil-nadu-to-develop-zero-tolerance-for-corruption-cm-vijay/article71348864.ece",
-    "time": "2026-08-15T14:21:54.000Z"
-  },
-  {
     "cat": "Sports",
-    "title": "‘It is frustrating’: Satwik opens up on recurring shoulder injury ahead of BWF Worlds",
+    "title": "‘It is frustrating’: Satwik opens up on recurring injury ahead of BWF Worlds",
     "desc": "Despite managing a lingering shoulder injury, Satwiksairaj Rankireddy is determined to elevate his game alongside Chirag Shetty at the forthcoming World Championships. This Indian duo aims to retain their bold playing style, understanding that the initial strokes in rallies will be pivotal for their triumph. The thrill of playing at home fuels their ambition to highlight the sport's expansion.",
     "img": "https://static.toiimg.com/photo/msid-133264312,imgsize-40498.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/it-is-frustrating-satwiksairaj-rankireddy-opens-up-on-recurring-shoulder-injury-ahead-of-bwf-world-championships/articleshow/133264248.cms",
     "time": "2026-08-15T14:13:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tear gas, water cannons used against Qaumi Insaf morcha protesters, Punjab Bandh call on August 21",
-    "desc": "Some protesters attempted to remove barricades and barbed wire, and some others tried to pull them down using a tractor as they attempted to proceed towards the residence of the Punjab Governor at the Lok Bhavan in Chandigarh",
-    "img": "https://th-i.thgim.com/public/incoming/4k7czq/article71349878.ece/alternates/LANDSCAPE_1200/PTI08_15_2026_000655B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tear-gas-water-cannons-used-against-qaumi-insaf-morcha-protesters-punjab-bandh-call-on-aug-21/article71349805.ece",
-    "time": "2026-08-15T13:56:44.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Even as government considers MDR charge on UPI, data shows cash usage quickening in economy",
-    "desc": "An analysis by The Hindu shows that the growth in the value of UPI transactions has been consistently slowing since 2021-22, although the current rate of growth is still higher than that of cash with the public",
-    "img": "https://th-i.thgim.com/public/incoming/hq3hlz/article71349879.ece/alternates/LANDSCAPE_1200/2026-07-14T094031Z_1366071718_RC2UCLA7PW45_RTRMADP_3_INDIA-CENBANK-RATES.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/even-as-government-considers-mdr-charge-on-upi-data-shows-cash-usage-quickening-in-economy/article71345365.ece",
-    "time": "2026-08-15T13:53:50.000Z"
   },
   {
     "cat": "Sports",
@@ -151,15 +268,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/bwf-world-championships-beyond-smashes-drops-the-conditions-could-decide-the-winner/articleshow/133263764.cms",
     "time": "2026-08-15T13:53:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CM launches distribution of smart ration cards",
-    "desc": "Chief Minister faults the previous Bharat Rashtra Samithi government for not issuing new ration cards and for failing to provide sanna biyyam to beneficiaries; BRS and BJP are two sides of the same coin, he says",
-    "img": "https://th-i.thgim.com/public/incoming/knysne/article71349811.ece/alternates/LANDSCAPE_1200/MEMAU_15_8_2026_18_34_6_1_9004.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/cm-launches-distribution-of-smart-ration-cards/article71349681.ece",
-    "time": "2026-08-15T13:50:17.000Z"
   },
   {
     "cat": "Politics",
@@ -286,15 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sharmila-tagore-converted-to-islam-after-marrying-tiger-pataudi-and-taught-children-about-it-recalls-saba-ali-pataudi-we-didnt-practice-hinduism-but-our-parents-never-imposed-any-religion-on-saif-soha-or-me/articleshow/133262070.cms",
     "time": "2026-08-15T12:13:14.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Israeli airstrike on southern Lebanon kills 7 people, Lebanese state media say",
-    "desc": "Israel and the Lebanese government announced a “framework agreement” on June 26, laying out a plan for Israeli forces to withdraw from southern Lebanon, in exchange for the disarmament of the Iran-backed Hezbollah militant group.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-us-war-west-asia-conflict-donald-trump-strait-of-hormuz-rising-oil-prices-live-updates-august-15-2026/article71348347.ece",
-    "time": "2026-08-15T11:57:21.000Z"
   },
   {
     "cat": "Entertainment",
@@ -432,15 +531,6 @@ const newsData_en = [
     "time": "2026-08-15T10:15:27.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Hazlewood scripts history vs Bangladesh, achieves what no Oz pacer has",
-    "desc": "Josh Hazlewood made a memorable Test comeback against Bangladesh, taking 6/89 in Darwin and reaching 301 Test wickets, becoming only the ninth Australian to achieve the milestone. He also became the first Australian fast bowler to claim a five-wicket haul against Bangladesh in international cricket. His performance surpassed Ian Harvey’s previous best figures for an Australian pacer.",
-    "img": "https://static.toiimg.com/photo/msid-133260122,imgsize-83992.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/josh-hazlewood-scripts-history-against-bangladesh-achieves-what-no-australian-pacer-has/articleshow/133260088.cms",
-    "time": "2026-08-15T10:04:17.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Awarapan 2' OTT release: When and where to stream Emraan Hashmi and Disha Patani starrer?",
     "desc": "The romantic thriller Awarapan 2, starring Emraan Hashmi and Disha Patani, released in theatres on August 14. A sequel to Hashmi's 2007 film 'Awarapan', the movie has already surpassed the lifetime collection of its predecessor on opening day itself, raking in over Rs. 21 crore at the box office despite stiff competition from 'Batwara 1947' and 'Vishwanath & Sons'. With its theatrical run now underway, here's where you'll be able to watch it online once it heads to streaming.",
@@ -505,84 +595,21 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Vishal celebrates 22 years in Tamil cinema with ‘Magudam’ directorial debut",
-    "desc": "Celebrating a remarkable twenty-two years in cinema, actor Vishal steps into the director's shoes with his film 'Magudam.' The audience responses have been varied, reflecting the film's complexity. Meanwhile, GV Prakash Kumar's captivating background score has won accolades, adding depth to the storytelling. Vishal's impressive dual role has sparked discussions, marking a pivotal moment in his artistic journey as he pursues his passion for film direction.",
-    "img": "https://static.toiimg.com/photo/msid-133259594,imgsize-98843.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vishal-celebrates-22-years-in-tamil-cinema-with-magudam-directorial-debut-same-discipline-dedication-and-passion/articleshow/133259589.cms",
-    "time": "2026-08-15T09:11:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "India’s 80th Independence Day: Big B, R Madhavan and others post patriotic messages",
-    "desc": "Indian film stars celebrated the nation's 80th Independence Day with social media posts. Celebrities shared patriotic messages and personal reflections on August 15. Actors like Ram Charan and Akshay Kumar extended wishes for a better tomorrow. Anupam Kher reflected on India's post-independence journey and generational freedom. Prominent figures from various film industries marked this significant national occasion.",
-    "img": "https://static.toiimg.com/photo/msid-133259400,imgsize-283310.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/independence-day-2026-amitabh-bachchan-r-madhavan-anupam-kher-akshay-kumar-ajay-devgn-priyanka-chopra-yash-ravi-kishan-and-other-stars-celebrate-indias-80th-year-of-freedom-with-messages-of-freedom-unity-and-hope/articleshow/133259269.cms",
-    "time": "2026-08-15T09:01:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Coco 2’ confirmed with release set for 2029",
-    "desc": "The exciting announcement of Coco 2 has been made, confirming its theatrical release for November 2029. In this much-anticipated sequel, Benjamin Bratt returns as Ernesto De La Cruz, and Miguel, now a teenager, must confront him. The film will be brought to life under the direction of Lee Unkrich and Adrian Molina, promising a captivating continuation of the beloved story.",
-    "img": "https://static.toiimg.com/photo/msid-133259222,imgsize-420693.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/coco-2-confirmed-production-house-confirms-new-project-with-ernesto-de-la-cruzs-return-as-the-villain/articleshow/133259180.cms",
-    "time": "2026-08-15T08:47:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Awarapan 2' BO Day 2 [LIVE]: Emraan Hashmi sequel crosses Rs 40 crore",
-    "desc": "Emraan Hashmi's 'Awarapan 2' is off to a blockbuster start at the box office, building on a career-best opening day with strong momentum on Saturday. Released as part of a crowded Independence Day weekend, the sequel to the 2007 cult classic has emerged as the front-runner among this week's big releases, comfortably outpacing its competition. Here's a live look at how the numbers are shaping up on Day 2.",
+    "title": "'Awarapan 2' BO Day 2: Emraan Hashmi film pushes past Rs 72 crore globally",
+    "desc": "Emraan Hashmi's 'Awarapan 2' is off to a blockbuster start at the box office, building on a career-best opening day with strong momentum on Saturday. Released as part of a crowded Independence Day weekend, the sequel to the 2007 cult classic has emerged as the front-runner among this week's big releases, comfortably outpacing its competition. Here's a look at how the numbers shaped up on Day 2.",
     "img": "https://static.toiimg.com/photo/msid-133258885,imgsize-133939.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/awarapan-2-box-office-collection-day-2-live-emraan-hashmi-and-disha-patani-film-eyes-rs-30-crore-milestone-amid-batwara-1947-clash-after-strong-independence-day-opening-and-global-haul-of-rs-28-crore/articleshow/133258857.cms",
     "time": "2026-08-15T08:15:56.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "30 Tests, 30 venues: Yashavi Jaiswal follows Tendulkar's footsteps",
-    "desc": "When Yashasvi Jaiswal walked out to bat in Galle for the first Test against Sri Lanka, he was playing the 30th Test of his career. The milestone came with an unusual record - Jaiswal has played each of his first 30 Tests at a different venue. The India opener has never played a Test at the same ground twice. His journey began in Roseau in July 2023 and, after stops across the Caribbean, South Africa, India, England and Australia, he reached his 30th Test in Galle on Saturday.",
-    "img": "https://static.toiimg.com/photo/msid-133258517,imgsize-33693.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/30-tests-30-venues-yashavi-jaiswal-follows-sachin-tendulkars-footsteps-with-rare-feat/articleshow/133258476.cms",
-    "time": "2026-08-15T07:48:36.000Z"
-  },
-  {
     "cat": "Entertainment",
-    "title": "'Batwara 1947' BO Day 2 [LIVE]: Sunny Deol film crosses Rs 15 crore milestone",
-    "desc": "Sunny Deol's Batwara 1947 is having a slow-burn start at the box office, and Day 2 collections are trickling in as the Rajkumar Santoshi directorial looks to build on its opening day numbers. Released smack in the middle of a crowded Independence Day weekend, the film is up against stiff competition, most notably from Emraan Hashmi's Awarapan 2, which released on the very same day. Here's a live look at how the numbers are shaping up.",
+    "title": "'Batwara 1947' BO Day 2: Sunny Deol filmhits Rs 26.41 crore globally",
+    "desc": "Sunny Deol's Batwara 1947 is having a slow-burn start at the box office, and Day 2 collections trickling in as the Rajkumar Santoshi directorial looks to build on its opening day numbers. Released smack in the middle of a crowded Independence Day weekend, the film is up against stiff competition, most notably from Emraan Hashmi's Awarapan 2, which released on the very same day. Here's a look at how the numbers shaped up.",
     "img": "https://static.toiimg.com/photo/msid-133258330,imgsize-130306.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/batwara-1947-box-office-collection-day-2-live-sunny-deol-film-eyes-rs-10-crore-milestone-amid-independence-day-boost-and-opening-day-global-haul-of-rs-8-34-crore/articleshow/133258195.cms",
     "time": "2026-08-15T07:35:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hazlewood makes Australian Test history, joins elite club with 300th wicket",
-    "desc": "Josh Hazlewood marked a significant chapter in his career by taking his 300th Test wicket, joining an illustrious group of Australian bowlers. This achievement underscores Australia's strength, with four bowlers each having over 300 Test wickets on the field together. This historic moment unfolded during the first Test match against Bangladesh in Darwin, with Hazlewood achieving his impressive 14th five-wicket haul as well.",
-    "img": "https://static.toiimg.com/photo/msid-133257655,imgsize-112036.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/josh-hazlewood-makes-australian-test-history-joins-elite-club-with-300th-wicket/articleshow/133257567.cms",
-    "time": "2026-08-15T06:39:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Chaos in Galle! Jaiswal's bizarre run-out leaves Rahul and India stunned",
-    "desc": "During India's prestigious 600th Test match, Yashasvi Jaiswal faced a comical run-out involving KL Rahul. A chaotic mix-up left both players at the same crease after an unexpected collision. As Jaiswal tried to backtrack, Rahul mistakenly saw this as a cue to advance. This quirky moment occurred while both were vying for essential points in the World Test Championship.",
-    "img": "https://static.toiimg.com/photo/msid-133256939,imgsize-93338.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/chaos-in-galle-yashasvi-jaiswals-bizarre-run-out-leaves-kl-rahul-and-india-stunned-watch/articleshow/133256864.cms",
-    "time": "2026-08-15T05:53:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "SL player hit on helmet by KL Rahul sweep",
-    "desc": "A scary moment unfolded during the first Test between India and Sri Lanka in Galle when Nishan Madushka was hit on the helmet by a KL Rahul sweep. The incident happened off the final delivery of Prabath Jayasuriya's over. Rahul went down low and played a well-timed sweep, but Madushka, stationed at short leg, was directly in the path of the shot.",
-    "img": "https://static.toiimg.com/photo/msid-133256942,imgsize-48472.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/scary-moment-in-galle-nishan-madushka-hit-on-helmet-by-kl-rahul-sweep/articleshow/133256780.cms",
-    "time": "2026-08-15T05:51:24.000Z"
   },
   {
     "cat": "Business",
@@ -619,15 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/no-go-to-go-ahead-pm-modi-hails-samudra-manthan-for-deep-sea-exploration-in-independence-day-speech/articleshow/133255062.cms",
     "time": "2026-08-15T03:34:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How EWC's unexpected move accelerated its global plans",
-    "desc": "Paris was not originally part of the Esports World Cup’s immediate expansion plan, but the 2026 move from Riyadh has accelerated its ambitions to become a global, rotating event. Faisal Bin Homran, chief product officer of the Esports Foundation, says EWC is now ready to travel, while Riyadh remains its hub. He also reveals plans for physical qualifiers in key markets, including a potential “Road to EWC India”.",
-    "img": "https://static.toiimg.com/photo/msid-133255013,imgsize-51365.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/esports/from-riyadh-to-paris-how-ewcs-unexpected-move-accelerated-its-global-plans/articleshow/133254949.cms",
-    "time": "2026-08-15T03:29:22.000Z"
   },
   {
     "cat": "World",
@@ -837,15 +855,6 @@ const newsData_en = [
     "time": "2026-08-13T08:56:30.000Z"
   },
   {
-    "cat": "World",
-    "title": "U.S. ambassador to Israel denounces settler siege on Palestinians as ‘terror’",
-    "desc": "The remarks are especially striking from Huckabee, an evangelical Christian pastor who in the past has embraced Jewish settlement in the West Bank, which Israel has occupied since 1967, and rejected the idea of a Palestinian state.",
-    "img": "https://th-i.thgim.com/public/incoming/dfoqpp/article71340075.ece/alternates/LANDSCAPE_1200/Mideast_Wars_90705.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-ambassador-to-israel-denounces-settler-siege-on-palestinians-as-terror/article71340019.ece",
-    "time": "2026-08-13T07:42:15.000Z"
-  },
-  {
     "cat": "Business",
     "title": "How sustainable is India’s E20 push?",
     "desc": "In August, the government told the Lok Sabha that the ethanol blending programme had helped save around ₹2 lakh crore in foreign exchange. However, Opposition leaders, including Rahul Gandhi and Arvind Kejriwal, have launched campaigns against E20, saying it harms vehicles and that the government is forcing it on people",
@@ -853,15 +862,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/how-sustainable-is-indias-e20-push/article71338150.ece",
     "time": "2026-08-13T06:38:36.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Why was Syria’s former President sentenced to death",
-    "desc": "The judicial proceedings against the Assad brothers and their loyalists were the results of the efforts by the NCTJ to investigate serious human right abuses during the “previous regime” and hold those responsible to account",
-    "img": "https://th-i.thgim.com/public/incoming/mqsm6i/article71339569.ece/alternates/LANDSCAPE_1200/2026-08-11T092944Z_1769915961_RC29WMAXFZH1_RTRMADP_3_SYRIA-JUSTICE-ASSAD.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/why-was-syrias-former-president-sentenced-to-death-explained/article71339557.ece",
-    "time": "2026-08-13T04:45:36.000Z"
   },
   {
     "cat": "Tech",

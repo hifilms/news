@@ -1,6 +1,33 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "સ્વતંત્રતા દિવસે સદી ફટકારનાર પ્રથમ ખેલાડી કોણ હતો ? દેવદત્ત પડિકલ સાથે IPLમાં મચાવે છે તબાહી",
+    "desc": "દેવદત્ત પડિકલે શ્રીલંકા સામે ગાલે ટેસ્ટના પહેલા દિવસે સદી ફટકારીને ભારતીય ટીમને મજબૂત સ્થિતિમાં મૂકી દીધી. સ્વતંત્રતા દિવસે સદી ફટકારીને પડિકલ એક વિશિષ્ટ ક્લબમાં જોડાઈ ગયો છે. પરંતુ શું તમે જાણો છો કે 15 ઓગસ્ટના રોજ આંતરરાષ્ટ્રીય ક્રિકેટમાં સદી ફટકારનાર પ્રથમ ભારતીય બેટ્સમેન કોણ હતો ?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/who-was-the-first-player-to-score-century-on-independence-day-487843 ",
+    "time": "2026-08-15T16:02:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "વસ્તી ગણતરી દરમિયાન ખોટી માહિતી આપવી પડી શકે છે મોંઘી, કયા સંજોગોમાં થઈ શકે છે જેલ કે દંડ? જાણો નિયમો",
+    "desc": "ગૃહ મંત્રાલયે વસ્તી ગણતરીમાં પૂછવામાં આવનારા 40 પ્રશ્નોનું એક લિસ્ટ જાહેર કર્યું છે. ચાલો જાણીએ કે, જો આ પ્રશ્નોના ખોટા જવાબ આપવામાં આવે તો શું થઈ શકે છે. શું કોઈ ગુનો નોંધાઈ શકે છે? ચાલો જાણીએ આ પ્રશ્નોના જવાબ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/giving-false-information-during-the-census-can-be-costly-under-what-circumstances-can-you-be-jailed-or-fined-know-rules-487842 ",
+    "time": "2026-08-15T15:47:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "26 KM માઇલેજ અને 6 એરબેગ... મારુતિની આ કાર ખરીદવા લોકોની પડાપડી ! જાણો કેટલી છે કિંમત",
+    "desc": "ભારતીય બજારમાં મારુતિ સુઝુકી સૌથી વધુ ગાડીઓનું વેચાણ કરે છે. જુલાઈમાં કંપનીએ 1.96 લાખથી વધુ વાહનોનું વેચાણ કર્યું હતું, જેમાં મારુતિ સુઝુકી ડિઝાયર તેનું સૌથી વધુ વેચાતું મોડેલ હતું. જોકે, મારુતિ પાસે એક એવી ગાડી પણ છે, જેનું માર્કેટમાં કોઈ સ્પર્ધક નથી, જુલાઈમાં તેના 13,000થી વધુ યુનિટ વેચાયા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/maruti-suzuki-eeco-july-2026-sales-check-eeco-van-price-and-mileage-487841 ",
+    "time": "2026-08-15T15:20:07.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "સ્વતંત્રતા દિવસે ભારતનો દબદબો, હોકી વર્લ્ડ કપમાં વેલ્સને 3-1થી ધૂળ ચટાડી",
     "desc": "વર્લ્ડ કપમાં ભારતનો ઇતિહાસ ખાસ પ્રભાવશાળી રહ્યો નથી. ભારતે 1975માં પોતાનો એકમાત્ર વર્લ્ડ કપ ખિતાબ જીત્યો હતો. જો કે, ટીમ ઇન્ડિયાએ 2026માં પોતાના શાનાદર પ્રદર્શનથી બધાને ચોંકાવી દીધા છે અને પહેલી જ મેચમાં વેલ્સને 3-1થી હરાવ્યું છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -214,15 +241,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/mileage-like-maruti-power-like-mahindra-mg-company-is-bringing-a-special-7-seater-hector-hawk-suv-487744 ",
     "time": "2026-08-14T14:11:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "15 ઓગસ્ટે ભૂલથી પણ આ 6 હિલ સ્ટેશન પર ન જતા, નહીં તો થશે પસ્તાવો, ટ્રિપ બની જશે માથાનો દુખાવો!",
-    "desc": "જો તમે 15 ઓગસ્ટે પર્વતોમાં આરામદાયક રજા માણવા માંગતા હો, તો ચોમાસાની ઋતુ દરમિયાન ભારે ભીડ, ટ્રાફિક જામ અને ભૂસ્ખલનનું જોખમ હોવાથી આ લોકપ્રિય હિલ સ્ટેશનોએ જવાનું ટાળો. તમારી સફર પહેલાં હવામાન અને રસ્તાની સ્થિતિ ચેક કરવાનું ભૂલશો નહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/stay-away-from-these-6-hill-stations-on-august-15-otherwise-it-wont-be-fun-the-trip-will-become-a-big-hassle-487724 ",
-    "time": "2026-08-14T13:14:09.000Z"
   },
   {
     "cat": "Business",
