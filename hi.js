@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Devdutt Padikkal's dominating century, KL Rahul's impactful knock help India establish authority vs Sri Lanka",
+    "desc": "Devdutt Padikkal marked his return to India’s Test side with a superb unbeaten 131 as India finished a rain-interrupted opening day of the first Test against Sri Lanka on 288 for 4 in Galle. Notably,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/devdutt-padikkal-s-dominating-century-kl-rahul-s-impactful-knock-help-india-establish-authority-vs-sri-lanka-on-day-1-2026-08-15-1051483",
+    "time": "2026-08-15T13:47:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harmanpreet Singh strikes twice as India register convincing 3-1 win over Wales in Hockey World Cup",
+    "desc": "India opened their Hockey World Cup campaign with a convincing 3-1 victory over Wales at the Wagener Stadium in Amstelveen, Netherlands, on Saturday, with captain Harmanpreet Singh scoring twice to help the team make a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/hockey/harmanpreet-singh-strikes-twice-as-india-register-convincing-3-1-win-over-wales-in-hockey-world-cup-2026-08-15-1051481",
+    "time": "2026-08-15T13:22:58.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "KL Rahul leaves retired hurt, what happened to India opener in first Test against Sri Lanka in Galle?",
     "desc": "Star India batter KL Rahul was forced to leave the field during the final session of India’s opening Test against Sri Lanka in Galle. The veteran batter complained of cramps ahead of the start of...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/babar-azam-suffers-injury-scare-ruled-out-of-warm-up-clash-before-three-match-test-series-vs-england-2026-08-15-1051451",
     "time": "2026-08-15T07:51:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Jasprit Bumrah not playing India vs Sri Lanka 1st Test in Galle?",
-    "desc": "India and Sri Lanka took on each other in the first Test of the ongoing two-game series. The two sides met at the Galle International Stadium for the clash on August 15th, and the clash...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-jasprit-bumrah-not-playing-india-vs-sri-lanka-1st-test-in-galle-2026-08-15-1051447",
-    "time": "2026-08-15T07:02:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Josh Hazlewood sets new record with six-wicket haul in first Test vs Bangladesh in Darwin",
-    "desc": "Star pacer Josh Hazlewood became the ninth Australian bowler to pick up 300 wickets in Test cricket. He reached the milestone on Day 3 of Australia’s opening Test against Bangladesh in Darwin. He registered the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/josh-hazlewood-sets-new-record-with-six-wicket-haul-in-first-test-vs-bangladesh-in-darwin-2026-08-15-1051446",
-    "time": "2026-08-15T06:54:13.000Z"
   }
 ];

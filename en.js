@@ -1,21 +1,291 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Ram Gopal Varma says ‘industry runs on flop movies, not the hit ones’",
+    "desc": "the apparent lack of accountability among directors. He argues that many producers act merely as investors, distant from the creative process. This has led to rampant budget overruns, disrupting schedules in Telugu cinema. Varma advocates for a shift towards Bollywood's more corporate approach, emphasizing the need for financial discipline and enhanced accountability among directors to rectify these issues.",
+    "img": "https://static.toiimg.com/photo/msid-133264984,imgsize-646417.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/industry-runs-on-flop-movies-not-the-hit-ones-ram-gopal-varma-blames-producers-and-directors-for-telugu-cinemas-downfall-exclusive/articleshow/133264955.cms",
+    "time": "2026-08-15T15:11:06.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Xiaomi bets on premium phones, connected homes as India’s smartphone market flattens",
+    "desc": "The Indian smartphone industry has slightly de-grown in the first half of calendar 2026. For the second half of 2026, Xiaomi expects the market to remain broadly flat or potentially decline. Also, rising memory and storage costs still remain a pressure point for handset makers",
+    "img": "https://th-i.thgim.com/public/business/65gvdt/article71350224.ece/alternates/LANDSCAPE_1200/Sandeep%20Sarma%20Associate%20Director%20Marketing%20%20PR.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/xiaomi-bets-on-premium-phones-connected-homes-as-indias-smartphone-market-flattens/article71349737.ece",
+    "time": "2026-08-15T15:04:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "APIIC tableau bags first prize at I-Day event in Tirupati",
+    "desc": "Minister for Endowments Anam Ramanarayana Reddy hoists the national flag and receives a guard of honour from the police, presents a cheque for ₹1,031 crore to the 74,956 members of 10,351 self help groups (SHGs)",
+    "img": "https://th-i.thgim.com/public/incoming/fcvxtf/article71350219.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-15%20at%2014.17.31.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/apiic-tableau-bags-first-prize-at-i-day-celebrations-in-tirupati/article71349352.ece",
+    "time": "2026-08-15T15:02:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘The way he has prepared’: India coach explains key to Padikkal’s maiden century",
+    "desc": "Devdutt Padikkal scored an unbeaten 131 on his maiden international century. His improved back-foot game was credited by batting coach Sitanshu Kotak. Padikkal adapted well to Sri Lanka's spin-heavy bowling attack. KL Rahul also contributed significantly before retiring hurt from the match. Sri Lanka's coach praised both Indian batters for their performances.",
+    "img": "https://static.toiimg.com/photo/msid-133264765,imgsize-116979.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/the-way-he-has-prepared-himself-india-coach-explains-key-to-devdutt-padikkals-maiden-test-century/articleshow/133264699.cms",
+    "time": "2026-08-15T14:59:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP says Sonia Gandhi opposed singing of full Vande Mataram, demands apology; Congress rejects charge",
+    "desc": "The controversy assumes significance against the backdrop of guidelines issued by the Home Ministry in February, and reiterated in July, on the observance of the national song, and the subsequent passage of the Prevention of Insults to National Honour (Amendment) Act, 2026",
+    "img": "https://th-i.thgim.com/public/incoming/zg2qr4/article71349134.ece/alternates/LANDSCAPE_1200/PTI08_15_2026_000355B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bjp-claims-sonia-objected-to-full-version-of-vande-mataram-at-event-congress-denies-charge/article71349117.ece",
+    "time": "2026-08-15T14:56:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India begins with a solid win over Wales",
+    "desc": "Captain Harmanpreet nets a brace after Sanjay puts the former champion ahead; Fulton’s men score all three goals from penalty corners; the European side pulls one back in the final minutes of the Pool-D contest",
+    "img": "https://th-i.thgim.com/public/incoming/u0wkhp/article71350162.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-15%20at%2018.49.58.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/hockey/world-cup-hockey-india-begins-with-a-solid-win-over-wales/article71350169.ece",
+    "time": "2026-08-15T14:50:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Amid Onam supply gap, looms of Chendamangalam call for a tech update",
+    "desc": "The traditional weavers of the famed handloom industry, in and around Chendamangalam village in North Paravur taluk of Ernakulam district, say the demand during the Onam season has been encouraging, though the cooperative-based sector finds it difficult to supply enough",
+    "img": "https://th-i.thgim.com/public/incoming/tks6ck/article71350086.ece/alternates/LANDSCAPE_1200/Weaving07.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/amid-onam-supply-gap-looms-of-chendamangalam-call-for-a-tech-update/article71349849.ece",
+    "time": "2026-08-15T14:36:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Govinda reacts to Sunita Ahuja age-shaming him amid affair rumours with Komal",
+    "desc": "Actor Govinda has chosen to respond to his wife Sunita Ahuja's criticisms through a video message. In this heartfelt address, he defended his career decisions and dismissed her claims of meddling in his affairs. He also addressed discussions regarding age gaps with co-star Komal, cautioning his wife to keep personal disputes private and not resort to public slander, especially after her recent remarks about his movie.",
+    "img": "https://static.toiimg.com/photo/msid-133264522,imgsize-224476.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govinda-reacts-sunita-ahuja-age-shaming-him-amid-affair-rumours-with-komal-rani-swarnkar-says-shes-leaving-no-stone-unturned-to-defame-him-greatest-artists-of-the-country-have-worked-with-youngsters/articleshow/133264434.cms",
+    "time": "2026-08-15T14:36:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Preserve Kerala’s achievements in various sectors, Minister Mons Joseph urges people",
+    "desc": "He was inaugurating the Independence Day celebrations in Kottayam. Minister P.C. Vishnunadh, while hoisted the national flag at Pathanamthitta, says Independence Day is an occasion to remember with pride the achievements the country had made over the years",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/preserve-keralas-achievements-in-various-sectors-minister-mons-joseph-urges-people/article71349662.ece",
+    "time": "2026-08-15T14:29:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IND vs SL Test Day 1",
+    "desc": "Devdutt Padikkal and then K.L. Rahul got to their respective fifties; Sri Lankan spinners at times erred with their line and length, and if southpaw Padikkal was quick to cut, Rahul preferred the slow-violence of dabs and glides",
+    "img": "https://th-i.thgim.com/public/incoming/2wh8pd/article71349266.ece/alternates/LANDSCAPE_1200/PTI08_15_2026_000582A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/india-srilanka-test-match-day-1-match-updates/article71348548.ece",
+    "time": "2026-08-15T14:29:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Independence Day celebrations highlight progress, honour freedom fighters",
+    "desc": "Ministers hoist national flags across Kurnool, Nandyal and Anantapur districts; honouring the family members of freedom fighters, Bharath says it is essential to honour the descendants of freedom fighters and remember the sacrifices they made",
+    "img": "https://th-i.thgim.com/public/incoming/yu3dgg/article71349812.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-15%20at%2014.27.22%201.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/independence-day-celebrations-highlight-progress-honour-freedom-fighters/article71349329.ece",
+    "time": "2026-08-15T14:24:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Exclusive! Munawar Faruqui says ‘Traitors 2’ elimination was about betrayal",
+    "desc": "Munawar Faruqui faced an early exit from The Traitors 2, which left him feeling heartbroken. He revealed that it wasn't merely the game he mourned, but the sense of betrayal he felt from his peers. He noted Shalini Passi's potential to excel as a traitor. The second season of The Traitors made its debut on August 13, 2026.",
+    "img": "https://static.toiimg.com/photo/msid-133264372,imgsize-242324.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/why-munawar-faruqui-broke-down-during-the-traitors-2-elimination-i-love-to-trust-people-and-when-that-trust-breaks-exclusive/articleshow/133264315.cms",
+    "time": "2026-08-15T14:23:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CM Vijay",
+    "desc": "Delivering his I-Day address after hoisting the national flag at the ramparts of Fort St. George, CM Vijay thanked the people for breaking away from “caste and religious considerations” and rejecting “money and muscle power”",
+    "img": "https://th-i.thgim.com/public/incoming/upf7yd/article71350019.ece/alternates/LANDSCAPE_1200/CM%20SPEAKIUNG%20T6.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/we-want-people-of-tamil-nadu-to-develop-zero-tolerance-for-corruption-cm-vijay/article71348864.ece",
+    "time": "2026-08-15T14:21:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘It is frustrating’: Satwik opens up on recurring shoulder injury ahead of BWF Worlds",
+    "desc": "Despite managing a lingering shoulder injury, Satwiksairaj Rankireddy is determined to elevate his game alongside Chirag Shetty at the forthcoming World Championships. This Indian duo aims to retain their bold playing style, understanding that the initial strokes in rallies will be pivotal for their triumph. The thrill of playing at home fuels their ambition to highlight the sport's expansion.",
+    "img": "https://static.toiimg.com/photo/msid-133264312,imgsize-40498.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/it-is-frustrating-satwiksairaj-rankireddy-opens-up-on-recurring-shoulder-injury-ahead-of-bwf-world-championships/articleshow/133264248.cms",
+    "time": "2026-08-15T14:13:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tear gas, water cannons used against Qaumi Insaf morcha protesters, Punjab Bandh call on August 21",
+    "desc": "Some protesters attempted to remove barricades and barbed wire, and some others tried to pull them down using a tractor as they attempted to proceed towards the residence of the Punjab Governor at the Lok Bhavan in Chandigarh",
+    "img": "https://th-i.thgim.com/public/incoming/4k7czq/article71349878.ece/alternates/LANDSCAPE_1200/PTI08_15_2026_000655B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tear-gas-water-cannons-used-against-qaumi-insaf-morcha-protesters-punjab-bandh-call-on-aug-21/article71349805.ece",
+    "time": "2026-08-15T13:56:44.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Even as government considers MDR charge on UPI, data shows cash usage quickening in economy",
+    "desc": "An analysis by The Hindu shows that the growth in the value of UPI transactions has been consistently slowing since 2021-22, although the current rate of growth is still higher than that of cash with the public",
+    "img": "https://th-i.thgim.com/public/incoming/hq3hlz/article71349879.ece/alternates/LANDSCAPE_1200/2026-07-14T094031Z_1366071718_RC2UCLA7PW45_RTRMADP_3_INDIA-CENBANK-RATES.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/even-as-government-considers-mdr-charge-on-upi-data-shows-cash-usage-quickening-in-economy/article71345365.ece",
+    "time": "2026-08-15T13:53:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BWF World C'ships: Beyond smashes, drops, the conditions could decide the winner",
+    "desc": "At the BWF World Championships in Delhi, starting from Monday, the biggest challenge may not come from the opponent across the net. Drafts, heat and humidity could prove decisive as the world's best adapt to tricky conditions.",
+    "img": "https://static.toiimg.com/photo/msid-133263836,imgsize-618331.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/bwf-world-championships-beyond-smashes-drops-the-conditions-could-decide-the-winner/articleshow/133263764.cms",
+    "time": "2026-08-15T13:53:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CM launches distribution of smart ration cards",
+    "desc": "Chief Minister faults the previous Bharat Rashtra Samithi government for not issuing new ration cards and for failing to provide sanna biyyam to beneficiaries; BRS and BJP are two sides of the same coin, he says",
+    "img": "https://th-i.thgim.com/public/incoming/knysne/article71349811.ece/alternates/LANDSCAPE_1200/MEMAU_15_8_2026_18_34_6_1_9004.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telangana/cm-launches-distribution-of-smart-ration-cards/article71349681.ece",
+    "time": "2026-08-15T13:50:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Food regulator failed to penalise 2,430 firms: CAG",
+    "desc": "A recent audit by the CAG exposed the FSSAI's oversight in failing to penalize 2,430 food businesses that delayed their annual returns. Collectively, these businesses accumulated penalties exceeding Rs 5.60 crore due to late or non-filing. The audit, covering 2017-18 through 2022-23, underscores major enforcement shortcomings. While FSSAI has issued improvement notices to a portion of these businesses, no licenses have been suspended or revoked as of August 2023.",
+    "img": "https://static.toiimg.com/photo/msid-133263778,imgsize-111866.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/food-regulator-failed-to-penalise-2430-firms-cag/articleshow/133263698.cms",
+    "time": "2026-08-15T13:41:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Doctors pledge two hours a week for free care to poor",
+    "desc": "In a commendable effort, twenty-seven doctors in Delhi are dedicating two hours each week to provide free consultations, targeting the underprivileged population. This initiative not only facilitates access to essential medical expertise but also combines in-person visits at hospitals with the convenience of telemedicine. The program aspires to eliminate financial barriers to healthcare, with aspirations of expanding this altruistic venture across the nation.",
+    "img": "https://static.toiimg.com/photo/msid-133263724,imgsize-191278.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/doctors-pledge-two-hours-a-week-for-free-care-to-poor/articleshow/133263624.cms",
+    "time": "2026-08-15T13:36:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "SRK's Independence day post wins the internet: 'We should do our bit to make the country proud'",
+    "desc": "Shah Rukh Khan delivered a touching message of unity and pride for Independence Day, celebrating India's rich diversity. Excitingly, he also shared insights about his upcoming project, King, an action-packed thriller helmed by director Siddharth Anand. The film features a star-studded cast, including his own daughter, Suhana Khan. Fans can look forward to its release on December 24, 2026.",
+    "img": "https://static.toiimg.com/photo/msid-133263663,imgsize-245813.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-says-theres-something-special-about-being-indian-as-he-drops-independence-day-wishes-with-pic-in-white-kurta-may-we-do-our-little-bit-to-make-the-country-proud/articleshow/133263650.cms",
+    "time": "2026-08-15T13:32:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Padikkal's 131 headlines India's dominant Day 1 at 288/2 in Galle on Independence Day",
+    "desc": "Devdutt Padikkal starred for India with an impressive unbeaten score of 131, guiding the team to 288/2 at the end of day one. Yashasvi Jaiswal kicked off the innings with vigor until a run-out prematurely halted his momentum. KL Rahul, having partnered well with Padikkal, had to retire hurt on 77.",
+    "img": "https://static.toiimg.com/photo/msid-133263552,imgsize-96142.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/devdutt-padikkals-131-headlines-indias-dominant-day-1-at-288/2-in-galle-on-independence-day/articleshow/133263406.cms",
+    "time": "2026-08-15T13:25:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harmanpreet Singh's brace powers India to 3-1 win over Wales in World Cup opener",
+    "desc": "India began their FIH Hockey World Cup campaign with a strong 3-1 victory over Wales. Captain Harmanpreet Singh scored two goals, leading the team's dominant performance. Sanjay opened the scoring for India in the eighth minute of the match. Wales managed to pull one goal back late in the game. India secured three points from their opening Pool D fixture.",
+    "img": "https://static.toiimg.com/photo/msid-133263578,imgsize-159565.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/harmanpreet-singhs-brace-powers-india-to-3-1-win-over-wales-in-fih-world-cup-opener/articleshow/133263446.cms",
+    "time": "2026-08-15T13:23:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KL Rahul injury scare? India coach gives big update after batter retires hurt",
+    "desc": "KL Rahul is “fine now” after retiring hurt with cramps during India’s Test against Sri Lanka, batting coach Sitanshu Kotak said. Rahul scored 77 off 162 balls and shared a 150-run stand with Devdutt Padikkal. Padikkal hit an unbeaten 131 on his Test comeback, while India finished day one strongly at 288 for two.",
+    "img": "https://static.toiimg.com/photo/msid-133263531,imgsize-70512.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/kl-rahul-injury-scare-india-coach-gives-crucial-update-after-batter-retires-hurt-on-day-1-of-galle-test/articleshow/133263441.cms",
+    "time": "2026-08-15T13:20:32.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "What is the latest Mining Amendment Act about?",
+    "desc": "The opposition to the proposed act primarily centres on a potential subversion to the federal structure of how revenue from mining resources is taxed, especially in resource-rich and States which particularly depend on taxing the resources for revenue.",
+    "img": "https://th-i.thgim.com/public/incoming/ppzw5v/article71349108.ece/alternates/LANDSCAPE_1200/iStock-1088331722.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/what-is-the-latest-mining-amendment-act-about-explained/article71348935.ece",
+    "time": "2026-08-15T13:17:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Padikkal joins Virat Kohli after historic Independence Day ton vs Sri Lanka",
+    "desc": "On Independence Day, Devdutt Padikkal made history by becoming the second Indian and the first to score an international Test century on August 15. His remarkable innings had him finishing Day 1 undefeated at 131 runs, solidifying his place at number three in the batting order. This impressive achievement marks the end of India's long wait for a Test century from that position.",
+    "img": "https://static.toiimg.com/photo/msid-133263162,imgsize-902920.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/devdutt-padikkal-joins-virat-kohli-in-elite-club-after-historic-independence-day-ton-vs-sri-lanka/articleshow/133262917.cms",
+    "time": "2026-08-15T12:58:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "A ton of class! Devdutt Padikkal makes the long wait count",
+    "desc": "Devdutt Padikkal last played a Test for India during the 2024 Border-Gavaskar Trophy in Australia. After waiting 632 days, the left-hander seized his opportunity. Karnataka captaincy, role clarity and work on his game against spin reaped rewards as he put India in a dominant position with his maiden ton and a 150-run stand with his statemate and coffee partner KL Rahul on the opening day of the first Test in Galle.",
+    "img": "https://static.toiimg.com/photo/msid-133262924,imgsize-79831.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/a-ton-of-class-devdutt-padikkal-makes-the-long-wait-count/articleshow/133262813.cms",
+    "time": "2026-08-15T12:50:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Remove bulletproof glass or I won't speak': Ex-officer recalls PM Modi's demand on I-Day 2014",
+    "desc": "Former defence secretary RK Mathur has recalled how Prime Minister Narendra Modi insisted on removing the bulletproof glass barrier from the Red Fort before delivering his first Independence Day address as Prime Minister in 2014. Speaking about the episode, Mathur said he and the then Director of the Intelligence Bureau (IB) had briefed Modi about the security arrangements ahead of August 15.",
+    "img": "https://static.toiimg.com/photo/msid-133262725,imgsize-77716.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/remove-bulletproof-glass-or-i-wont-speak-ex-officer-recalls-pm-modis-demand-on-i-day-2014/articleshow/133262173.cms",
+    "time": "2026-08-15T12:33:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aamir, Kiran look stressed, their son Azad Rao cries outside pet clinic",
+    "desc": "Aamir Khan, along with Kiran Rao, recently made a trip to a pet clinic in Mumbai with their son Azad, who seemed quite emotional during the visit. While the exact reason for their presence at the clinic remains unconfirmed, it has ignited speculation regarding the health of their beloved pet.",
+    "img": "https://static.toiimg.com/photo/msid-133262700,imgsize-320791.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khan-kiran-rao-look-stressed-as-son-azad-rao-cries-while-they-are-spotted-outside-a-pet-clinic-in-mumbai-sparking-concern-over-their-cats-health/articleshow/133262518.cms",
+    "time": "2026-08-15T12:31:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Suriya and Mamitha Baiju starrer 'Vishwanath and Sons' OTT release details",
+    "desc": "Suriya's latest film, 'Vishwanath And Sons’, is receiving rave reviews at the box office. In an exciting development, Netflix has secured the digital streaming rights for the film. Viewers can anticipate its arrival on the platform sometime around September or October 2026. The film made a remarkable debut, earning approximately Rs 15.15 crore net in India on its opening day.",
+    "img": "https://static.toiimg.com/photo/msid-133262590,imgsize-1110970.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vishwanath-and-sons-ott-release-when-and-where-will-suriya-and-mamitha-baiju-starrer-stream-digitally-after-its-theatrical-run/articleshow/133262542.cms",
+    "time": "2026-08-15T12:25:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Smartphone to be locked for missed EMI? RBI’s new rules for lenders, defaulting borrowers explained",
+    "desc": "The Reserve Bank of India (RBI) has laid out some guidelines for lenders on recovery of loans, and whether they can block or lock the device that has been purchased via EMI financing. This new framework will come into effect from January 1, 2027.",
+    "img": "https://static.toiimg.com/photo/msid-133262385,imgsize-458257.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/smartphone-to-be-locked-for-missed-emi-rbis-new-rules-for-lenders-defaulting-borrowers-explained/articleshow/133262187.cms",
+    "time": "2026-08-15T12:20:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Saba reveals Sharmila Tagore guided them towards Islam, never imposed any religion",
     "desc": "Saba Pataudi reflects on her family's unique interfaith dynamics, highlighting her strong connection to Islam, the faith she follows. She recounts how her mother embraced Islam upon marrying Mansoor Ali Khan Pataudi, nurturing an environment where spirituality thrived. The children were educated about Islamic values while being free to explore their individual beliefs, celebrating diverse traditions from various religions and communities.",
     "img": "https://static.toiimg.com/photo/msid-133262435,imgsize-492554.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sharmila-tagore-converted-to-islam-after-marrying-tiger-pataudi-and-taught-children-about-it-recalls-saba-ali-pataudi-we-didnt-practice-hinduism-but-our-parents-never-imposed-any-religion-on-saif-soha-or-me/articleshow/133262070.cms",
     "time": "2026-08-15T12:13:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Gautamnagar’s long struggle for a rail underpass",
-    "desc": "Frequent movement of MMTS, passenger and freight trains has made the Gautamnagar level crossing a major bottleneck in Malkajgiri, with gates remaining shut for up to an hour during peak periods. While commuters seek a RUB or LHS, delays in land acquisition, funding and coordination have held up several railway projects. The proposed ₹34-crore RUB now offers hope of relief",
-    "img": "https://th-i.thgim.com/public/incoming/4j4d9y/article71346870.ece/alternates/LANDSCAPE_1200/DSC6824.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/waiting-at-the-gates-gautamnagars-long-struggle-for-a-rail-underpass/article71346631.ece",
-    "time": "2026-08-15T11:58:06.000Z"
   },
   {
     "cat": "World",
@@ -28,7 +298,7 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Govinda reacts to Sunita Ahuja’s remark",
+    "title": "Govinda reacts to Sunita Ahuja’s remarks",
     "desc": "Govinda has made a public plea for his wife, Sunita Ahuja, to cease her use of foul language, notably phrases referencing mothers and sisters. Concerned about the effects of such behavior on impressionable youth, the actor highlighted the responsibilities of public figures. Sunita's frank comments about their life together have also caught the public's attention, igniting lively discussions among supporters.",
     "img": "https://static.toiimg.com/photo/msid-133262072,imgsize-230014.cms",
     "src": "indiatimes.com",
@@ -100,7 +370,7 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Steve Smith creates history in Darwin, equals Joe Root's world record in 124 Tests",
+    "title": "Steve Smith creates history, equals Joe Root's world record in 124 Tests",
     "desc": "In a thrilling display of skill, Steve Smith has matched Joe Root's remarkable world record for non-wicketkeeper Test catches, reaching 218 during the first Test against Bangladesh. Smith's achievement, accomplished with three catches at second slip, showcases his talent as he reaches this landmark in far fewer matches than Root. This puts Smith at the pinnacle of the all-time catching leaderboard.",
     "img": "https://static.toiimg.com/photo/msid-133261478,imgsize-65212.cms",
     "src": "indiatimes.com",
@@ -117,24 +387,6 @@ const newsData_en = [
     "time": "2026-08-15T11:05:41.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "One crore jobs by 2030 and reforms in exams are top priorities of Bihar govt., says Chief Minister",
-    "desc": "Amid students’ agitation in the country, CM Samrat Choudhary asserted in his first I-Day speech that to ensure the prompt redressal of their grievances, a ‘Student Support Portal’ will be launched on August 17 to receive applications from across Bihar",
-    "img": "https://th-i.thgim.com/public/incoming/1qskr4/article71349244.ece/alternates/LANDSCAPE_1200/PTI08_15_2026_000212B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar-chief-minister-promises-one-crore-jobs-by-2030-and-reforms-in-exams/article71349086.ece",
-    "time": "2026-08-15T11:00:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "PM’s I-Day speech — Reforms, AI skilling for youth, free online coaching and a warning on ‘dimagi Naxal’",
-    "desc": "In his 13th address to the nation, the first in 80 years that saw Vande Mataram preceding the national anthem, Narendra Modi directly spoke to some of the challenges facing India’s economy, security, and domestic anxieties, while evoking a ‘grave threat’ from ‘ideological Naxalites’",
-    "img": "https://th-i.thgim.com/public/sport/cricket/c0qrw4/article71348584.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-15%20at%209.37.39%20AM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/pm-modi-lays-out-seven-point-sapta-dhara-framework-for-viksit-bharat/article71348519.ece",
-    "time": "2026-08-15T10:54:30.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "IPL cricketer Abishek Porel denied bail in alleged rape case",
     "desc": "Abishek Porel, Delhi Capitals and Bengal cricketer, has been denied bail in an alleged rape and blackmail case involving a medical student. Arrested in Hooghly on August 11, he was sent to 14 days of judicial custody. The complainant alleged he promised marriage, later threatened to share private photos and illegally confined her during an April incident.",
@@ -144,24 +396,6 @@ const newsData_en = [
     "time": "2026-08-15T10:47:11.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "CM Vijay",
-    "desc": "Delivering his I-Day address after hoisting the national flag at the ramparts of Fort St. George, CM Vijay thanked the people for breaking away from “caste and religious considerations” and rejecting “money and muscle power”",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/o4ufs2/article71349254.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-15%20at%2009.24.31.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/we-want-people-of-tamil-nadu-to-develop-zero-tolerance-for-corruption-cm-vijay/article71348864.ece",
-    "time": "2026-08-15T10:42:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Mehbooba asks Centre to reflect if India has lived up to Constitution’s vision",
-    "desc": "“The BJP government at the Centre should think if, after 80 years, we have realised the dream of India as envisioned in the Constitution,” Ms. Mufti told reporters after attending the Independence Day function at Bakshi Stadium.",
-    "img": "https://th-i.thgim.com/public/incoming/5jul63/article71348861.ece/alternates/LANDSCAPE_1200/18-Peoples%E2%80%99%20Democratic%20Party%20PDP%20leader%20Iltija%20Mufti-SGR-07-08-2026.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/mehbooba-asks-centre-to-reflect-if-india-has-lived-up-to-constitutions-vision/article71348838.ece",
-    "time": "2026-08-15T10:39:09.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Nvidia’s SpaceX bet: Chipmaker discloses $21 billion stake in Elon Musk-owned rocket firm",
     "desc": "Nvidia owns about 123 million shares of SpaceX, estimated at around $17 billion. Additionally, the chip giant invested in Elon Musk's xAI prior to its merger with SpaceX. As part of their collaboration, SpaceX will employ Nvidia's technology exclusively for its data centers. Furthermore, Nvidia has pledged over $100 billion towards AI companies and infrastructure, aiming to bolster SpaceX's computing capabilities by 2027.",
@@ -169,15 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/nvidias-spacex-bet-chipmaker-discloses-21-billion-stake-in-elon-musk-owned-rocket-firm/articleshow/133260442.cms",
     "time": "2026-08-15T10:30:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Return what was taken away from J&K: Omar Abdullah in his I-Day speech",
-    "desc": "Referring to the protest in Pakistan Occupied Kashmir (PoK) Mr. Abdullah said, “They are our own people. The J&K Assembly has seats earmarked for them. If 2019 had not happened to J&K, people there (in PoK) would have been agitating to join this part.”",
-    "img": "https://th-i.thgim.com/public/incoming/s0l5ja/article71349169.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-15%20at%2011.59.12%20AM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/committed-to-goal-of-jks-state-restoration-its-constitutional-guarantees-omar/article71348703.ece",
-    "time": "2026-08-15T10:29:20.000Z"
   },
   {
     "cat": "Politics",
@@ -216,15 +441,6 @@ const newsData_en = [
     "time": "2026-08-15T10:04:17.000Z"
   },
   {
-    "cat": "Business",
-    "title": "What is the latest Mining Amendment Act about?",
-    "desc": "The opposition to the proposed act primarily centres on a potential subversion to the federal structure of how revenue from mining resources is taxed, especially in resource-rich and States which particularly depend on taxing the resources for revenue.",
-    "img": "https://th-i.thgim.com/public/incoming/ppzw5v/article71349108.ece/alternates/LANDSCAPE_1200/iStock-1088331722.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/what-is-the-latest-mining-amendment-act-about-explained/article71348935.ece",
-    "time": "2026-08-15T10:04:05.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Awarapan 2' OTT release: When and where to stream Emraan Hashmi and Disha Patani starrer?",
     "desc": "The romantic thriller Awarapan 2, starring Emraan Hashmi and Disha Patani, released in theatres on August 14. A sequel to Hashmi's 2007 film 'Awarapan', the movie has already surpassed the lifetime collection of its predecessor on opening day itself, raking in over Rs. 21 crore at the box office despite stiff competition from 'Batwara 1947' and 'Vishwanath & Sons'. With its theatrical run now underway, here's where you'll be able to watch it online once it heads to streaming.",
@@ -250,24 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nana-patekar-recalls-kargil-war-experience-after-george-fernandes-granted-special-permission-referencing-his-prahaar-training-i-was-76-kg-came-back-at-56-kg/articleshow/133259692.cms",
     "time": "2026-08-15T09:42:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "BJP claims Sonia 'objected' to full version of Vande Mataram at event, Congress denies charge",
-    "desc": "The Congress asserted that there was no attempt to stop the singing of the full version of the national song and Ms. Gandhi was only asking for a chair for party chief Mallikarjun Kharge as he was standing for a while",
-    "img": "https://th-i.thgim.com/public/incoming/zg2qr4/article71349134.ece/alternates/LANDSCAPE_1200/PTI08_15_2026_000355B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bjp-claims-sonia-objected-to-full-version-of-vande-mataram-at-event-congress-denies-charge/article71349117.ece",
-    "time": "2026-08-15T09:36:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "After 80 years of independence, electricity finally reaches UP village",
-    "desc": "For generations, darkness was a way of life in Raja Bagh village in Uttar Pradesh’s Barabanki district. But just days before India celebrated its 80th Independence Day, the village witnessed a historic moment as electricity reached homes for the first time.",
-    "img": "https://th-i.thgim.com/public/incoming/5vdeit/article71349126.ece/alternates/LANDSCAPE_1200/Savarkar%20Rahul%20Thumbnail.jpg.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/after-80-years-of-independence-electricity-finally-reaches-up-village/article71349128.ece",
-    "time": "2026-08-15T09:34:16.000Z"
   },
   {
     "cat": "Politics",
@@ -333,67 +531,13 @@ const newsData_en = [
     "time": "2026-08-15T08:47:16.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Chaos at Kozhikode Corporation’s I-Day flag-hoisting as councillors simultaneously sing national anthem, Vande Mataram",
-    "desc": "​As Mayor and councillors from CPI(M)-led ruling front and Congress-led UDF began singing Jana Gana Mana, BJP councillors, about 13 of them, started singing the full version of Vande Mataram. Both groups persisted despite the resulting confusion",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/923g5c/article71349023.ece/alternates/LANDSCAPE_1200/flag.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/chaos-at-kozhikode-corporations-i-day-flag-hoisting-as-councillors-simultaneously-sing-national-anthem-vande-mataram/article71348991.ece",
-    "time": "2026-08-15T08:38:00.000Z"
-  },
-  {
     "cat": "Entertainment",
-    "title": "Emraan Hashmi confirms the possibility of ‘Awarapan 3'",
-    "desc": "Emraan Hashmi has hinted at the exciting chance of a third film in the Awarapan series, showing his appreciation for the fan support of the latest installment. During a promotional event in Mumbai, he teased the potential storyline for Awarapan 3, following the recent thrill of Awarapan 2's rescue mission set in Bangkok. Fans are buzzing with anticipation for what's next in this beloved franchise.",
-    "img": "https://static.toiimg.com/photo/msid-133258890,imgsize-353448.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/emraan-hashmi-teases-awarapan-3-during-awarapan-2-theatre-visit-with-disha-patani-as-fans-cheer-hopefully-awarapan-3-very-soon/articleshow/133258872.cms",
-    "time": "2026-08-15T08:16:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Awarapan 2' BO Day 2 [LIVE]: Emraan Hashmi sequel crosses Rs 30 crore",
+    "title": "'Awarapan 2' BO Day 2 [LIVE]: Emraan Hashmi sequel crosses Rs 40 crore",
     "desc": "Emraan Hashmi's 'Awarapan 2' is off to a blockbuster start at the box office, building on a career-best opening day with strong momentum on Saturday. Released as part of a crowded Independence Day weekend, the sequel to the 2007 cult classic has emerged as the front-runner among this week's big releases, comfortably outpacing its competition. Here's a live look at how the numbers are shaping up on Day 2.",
     "img": "https://static.toiimg.com/photo/msid-133258885,imgsize-133939.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/awarapan-2-box-office-collection-day-2-live-emraan-hashmi-and-disha-patani-film-eyes-rs-30-crore-milestone-amid-batwara-1947-clash-after-strong-independence-day-opening-and-global-haul-of-rs-28-crore/articleshow/133258857.cms",
     "time": "2026-08-15T08:15:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hariharan he is learning Gen Z language; netizens call him GOAT",
-    "desc": "Veteran singer Hariharan recently shared a video attempting to decode popular Gen Z slang. He is now preparing to connect with his fans in person at a Mumbai concert. Hariharan has enjoyed a distinguished career spanning over four decades in Indian cinema. He has recorded thousands of songs in multiple languages and received the Padma Shri award. His iconic songs continue to be celebrated by audiences across generations.",
-    "img": "https://static.toiimg.com/photo/msid-133258520,imgsize-520701.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hariharan-attempts-to-understand-gen-z-language-and-slang-like-slay-no-cap-and-goat-in-fun-video-netizens-praise-his-efforts-i-may-have-spent-a-little-too-much-time-slowly-getting-there-watch/articleshow/133258322.cms",
-    "time": "2026-08-15T08:01:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Yash says 'Toxic' is made for Gen Z; Actor talks about freedom, rules and the next generation",
-    "desc": "Kannada star Yash returns to cinema after four years with two major projects. His film 'Toxic' explores themes relevant to the younger generation's perspective. Yash believes each generation finds its own path and voice. The movie addresses conversations and issues Gen Z has with older generations. 'Toxic' is set to release worldwide on August 26.",
-    "img": "https://static.toiimg.com/photo/msid-133258593,imgsize-697122.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/yash-explains-why-toxic-will-resonate-with-gen-z-and-their-questions-about-older-generations-why-are-there-such-rigid-rules-why-should-we-have-to-do-things-a-certain-way/articleshow/133258554.cms",
-    "time": "2026-08-15T07:54:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Mahua Moitra alleges she was asked to vacate Circuit House late at night",
-    "desc": "Trinamool Congress MP Mahua Moitra has alleged that she was asked to vacate the Nadia Circuit House late at night despite having checked in and being allotted accommodation. The Krishnanagar MP questioned the timing of the order and said she would not leave the premises in the middle of the night.",
-    "img": "https://th-i.thgim.com/public/incoming/3drh6o/article71348939.ece/alternates/LANDSCAPE_1200/Savarkar%20Rahul%20Thumbnail%202.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/mahua-moitra-alleges-she-was-asked-to-vacate-circuit-house-late-at-night/article71348941.ece",
-    "time": "2026-08-15T07:53:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Vishwanath And Sons' BO Day 2 [LIVE]: Suriya starrer holds strong",
-    "desc": "Suriya's latest release, 'Vishwanath and Sons,' has shown commendable box office performance on its second day. Attracting family audiences, the film continued its strong opening from Friday. Although there was a slight decrease in occupancy from opening day, Saturday's earnings have pushed the film's India net total to approximately Rs. 18.21 crore. The positive feedback suggests it may enjoy increased traction through the remainder of the weekend.",
-    "img": "https://static.toiimg.com/photo/msid-133258530,imgsize-124290.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vishwanath-and-sons-box-office-collection-day-2-live-suriya-and-mamitha-baiju-starrer-holds-strong-nears-rs-20-crore-as-it-eyes-a-big-weekend/articleshow/133258523.cms",
-    "time": "2026-08-15T07:50:50.000Z"
   },
   {
     "cat": "Sports",
@@ -406,7 +550,7 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Batwara 1947' BO Day 2 [LIVE]: Sunny Deol film crosses Rs 10 crore milestone",
+    "title": "'Batwara 1947' BO Day 2 [LIVE]: Sunny Deol film crosses Rs 15 crore milestone",
     "desc": "Sunny Deol's Batwara 1947 is having a slow-burn start at the box office, and Day 2 collections are trickling in as the Rajkumar Santoshi directorial looks to build on its opening day numbers. Released smack in the middle of a crowded Independence Day weekend, the film is up against stiff competition, most notably from Emraan Hashmi's Awarapan 2, which released on the very same day. Here's a live look at how the numbers are shaping up.",
     "img": "https://static.toiimg.com/photo/msid-133258330,imgsize-130306.cms",
     "src": "indiatimes.com",
@@ -421,15 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/josh-hazlewood-makes-australian-test-history-joins-elite-club-with-300th-wicket/articleshow/133257567.cms",
     "time": "2026-08-15T06:39:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Sure sign of his desperation’: Congress hits back at PM Modi over ‘dimaagi Naxals’ remark",
-    "desc": "Congress general secretary Jairam Ramesh called Prime Minister Narendra Modi's 'dimaagi Naxals' remark a sign of desperation. Prime Minister Modi stated that armed Naxalism has been eliminated but ideological influence remains a concern. Congress president Mallikarjun Kharge criticized the government's performance and divisive politics during Independence Day. He credited previous Congress governments with fundamental rights initiatives for the people. The BJP attacked Rahul Gandhi's absence from the Red Fort celebrations.",
-    "img": "https://static.toiimg.com/photo/msid-133257590,imgsize-1031019.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sure-sign-of-his-desperation-congress-hits-back-at-pm-modi-over-dimaagi-naxals-remark/articleshow/133255730.cms",
-    "time": "2026-08-15T06:34:19.000Z"
   },
   {
     "cat": "Sports",
@@ -477,33 +612,6 @@ const newsData_en = [
     "time": "2026-08-15T05:16:12.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Gambhir, Shubman hoist tricolour in Galle",
-    "desc": "India began Independence Day with a special moment in Galle as head coach Gautam Gambhir, captain Shubman Gill and the Team India players gathered to hoist the Tricolour ahead of the first Test against Sri Lanka. The occasion was even more special for Indian cricket as the team is playing its 600th Test on India's 80th Independence Day.",
-    "img": "https://static.toiimg.com/photo/msid-133256133,imgsize-68772.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/independence-day-gautam-gambhir-shubman-gill-hoist-tricolour-ahead-of-indias-historic-600th-test/articleshow/133256085.cms",
-    "time": "2026-08-15T04:53:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India's 600th Test: Here's who made India's XI in Galle",
-    "desc": "India captain Shubman Gill won the toss and elected to bat first against Sri Lanka in the opening Test of the two-match series in Galle on Saturday. Gill said the pitch looked good and the weather conditions were also favourable for a full day of cricket.",
-    "img": "https://static.toiimg.com/photo/msid-133255744,imgsize-53800.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/indias-600th-test-shubman-gill-opts-to-bat-vs-sri-lanka-heres-who-made-indias-xi-in-galle/articleshow/133255707.cms",
-    "time": "2026-08-15T04:24:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India eyes 2036 Olympics, PM Modi announces nationwide talent hunt for children aged 5-15",
-    "desc": "India is a strong contender to host the 2036 Olympics and plans a nationwide talent hunt. This program will identify young athletes aged five to fifteen for specialized training. The initiative aims to improve India's participation across many Olympic disciplines. India is also preparing to host the 2030 Commonwealth Games in Ahmedabad. The government seeks to expand the nation's sporting talent pool and global event hosting.",
-    "img": "https://static.toiimg.com/photo/msid-133255654,imgsize-40208.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/india-eyes-2036-olympics-pm-modi-announces-nationwide-talent-hunt-for-children-aged-5-15/articleshow/133255614.cms",
-    "time": "2026-08-15T04:16:14.000Z"
-  },
-  {
     "cat": "Business",
     "title": "‘No-go’ to ‘go-ahead’: PM Modi hails ‘Samudra Manthan' for deep-sea exploration in Independence Day speech",
     "desc": "To speed up offshore exploration, the government approved Samudra Manthan – the National Offshore Exploration Scheme on July 31, 2026. The scheme has been allocated Rs 84,084 crore for Phase I, covering the period up to FY2030-31.",
@@ -529,33 +637,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/jason-arday-former-cambridge-university-professor-at-centre-of-plagiarism-scandal-found-dead-uk-media/article71347279.ece",
     "time": "2026-08-15T03:12:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rishabh Pant on brink of history, eyes record no Indian has achieved in Tests",
-    "desc": "Rishabh Pant is about to reach a monumental achievement in Test cricket, needing only three sixes to collect his hundred. This success would welcome him into an esteemed circle of Test players. Additionally, the historic Galle International Cricket Stadium is celebrating its 50th Test match. With his powerful and aggressive style, Pant's performance will be critical on the tough pitch conditions ahead.",
-    "img": "https://static.toiimg.com/photo/msid-133254647,imgsize-80508.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/rishabh-pant-on-brink-of-history-eyes-record-no-indian-batter-has-achieved-in-tests/articleshow/133254599.cms",
-    "time": "2026-08-15T02:58:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India's red-ball reset: Gill leads India into 600th Test vs spin-heavy Sri Lanka",
-    "desc": "Only England (1,097) and Australia (883) have played more Tests than India. Since beginning their Test journey at Lord’s in 1932, India have won 186 matches, lost 188 and drawn 224, with one famous tie. The significance of the occasion, however, is matched by the challenge facing Gill’s men. India have slipped to fifth in the World Test Championship standings after losing 10 of their 20 Tests under Gambhir.",
-    "img": "https://static.toiimg.com/photo/msid-133253838,imgsize-44992.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/indias-red-ball-reset-shubman-gill-leads-india-into-600th-test-against-spin-heavy-sri-lanka/articleshow/133253814.cms",
-    "time": "2026-08-15T01:35:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lord's to Lahore: A look at India's milestone Tests before the 600th at Galle",
-    "desc": "The men-in-Blue, led by Shubman Gill, are set to become only the third team after England and Australia to reach the milestone, that too on the day when the nation is celebrating its 80th Independence Day from the colonial rule..",
-    "img": "https://static.toiimg.com/photo/msid-133253114,imgsize-1255513.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-play-600th-test-at-galle-what-happened-in-1st-100th-200th-300th-400th-and-500th-tests/articleshow/133251542.cms",
-    "time": "2026-08-14T23:30:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -702,15 +783,6 @@ const newsData_en = [
     "time": "2026-08-14T07:04:15.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Will gold price rally now face profit booking? Check August 14, 2026 outlook",
-    "desc": "MCX Gold October futures are witnessing profit booking after a strong rally over the past several sessions. Prices are currently trading near Rs 1,52,400–Rs 1,52,600, where the recent up move appears to be facing resistance.",
-    "img": "https://static.toiimg.com/photo/msid-133230592,imgsize-656777.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-what-is-the-gold-rate-outlook-for-august-14-2026-should-you-buy-or-sell-mcx-gold/articleshow/133230416.cms",
-    "time": "2026-08-14T06:06:56.000Z"
-  },
-  {
     "cat": "World",
     "title": "Nepal cancels conference on Tibetan studies amid China pressure debate",
     "desc": "Cancellation of the conference, in which around 700 participants were to take part, including scholars from China, has stoked a controversy over whether the Nepal government has succumbed to pressure from Beijing, which has in recent years steadily expanded its influence in Kathmandu",
@@ -826,77 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/gadgets/google-pixel-11-pixel-11-pro-pixel-11-pro-xl-and-pixel-11-pro-fold-launch-what-to-expect/article71331641.ece",
     "time": "2026-08-12T15:55:33.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Meta will soon face another high-stakes trial in U.S.",
-    "desc": "The federal trial, one of the most consequential among a myriad of legal proceedings targeting social networks in the United States, will begin on August 12, 2026 with jury selection at a federal court in Oakland",
-    "img": "https://th-i.thgim.com/public/incoming/36h44q/article71316172.ece/alternates/LANDSCAPE_1200/Meta_New_Mexico_6716_.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/meta-will-soon-face-another-high-stakes-trial-in-us/article71326861.ece",
-    "time": "2026-08-10T04:31:54.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Teaching AI to speak India",
-    "desc": "Artificial intelligence can chat, translate and answer questions but only if it understands your language. At IIT Madras, researchers at AI4Bharat are travelling across India, collecting voices, preserving dialects and teaching AI to understand the country’s incredible linguistic diversity.",
-    "img": "https://th-i.thgim.com/public/incoming/y693sa/article71280832.ece/alternates/LANDSCAPE_1200/iStock-1066071372.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/internet/teaching-ai-to-speak-india/article71280380.ece",
-    "time": "2026-08-09T00:15:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Karnataka explores partnership with Anthropic for governance, skilling and deep-tech growth",
-    "desc": "CM D.K. Shivakumar sought Anthropic’s expertise on how AI could help reduce fraud in government systems and improve the effectiveness, security and confidentiality of setting question papers for examinations conducted by various government agencies and educational institutions.",
-    "img": "https://th-i.thgim.com/public/news/national/karnataka/qs12uq/article71313384.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-06%20at%2017.14.14.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-explores-partnership-with-anthropic-for-governance-skilling-and-deep-tech-growth/article71312525.ece",
-    "time": "2026-08-08T19:02:03.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Diesel’s desire: an engine for everyone",
-    "desc": "For someone who wished to build an engine for everyone, August turned out to be an auspicious month. On August 10, 1893, Rudolf Diesel’s prime model was powered on its own for the first time. Five years later, on August 9, 1898, Diesel obtained a U.S. patent titled “Internal-combustion engine”. Join A.S.Ganesh as he tries to explain what fuelled Diesel’s desire…",
-    "img": "https://th-i.thgim.com/public/incoming/o3bduy/article71285498.ece/alternates/LANDSCAPE_1200/09istb%20Historical_Diesel_engine_in_Deutsches_Museum.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/diesels-desire-an-engine-for-everyone/article71285487.ece",
-    "time": "2026-08-08T06:54:25.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "What is the EU AI transparency code?",
-    "desc": "Starting from August 2, the EU mandates labels for AI-generated content to boost transparency online. From deepfakes to manipulated text, find out how this new code seeks to protect users and maintain the integrity of information",
-    "img": "https://th-i.thgim.com/public/news/national/b0sala/article71279838.ece/alternates/LANDSCAPE_1200/iStock-1976099664%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/what-is-the-eu-ai-transparency-code-explained/article71279676.ece",
-    "time": "2026-08-08T01:41:37.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
   }
 ];

@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "প্রেম ভাঙল হৃতিক-সাবার? ডেটিং অ্যাপ প্রোফাইল ভাইরাল, তোলপাড় বি-টাউন",
+    "desc": "বলিউড তারকা হৃতিক রোশন ও সাবা আজাদের প্রেম ভেঙে যাওয়ার গুঞ্জন এখন তুঙ্গে। একটি ডেটিং অ্যাপে অভিনেতার প্রোফাইল ভাইরাল হওয়ার পর থেকেই এই জল্পনা শুরু হয়। যদিও এ বিষয়ে জুটির পক্ষ থেকে কোনো মন্তব্য করা হয়নি। অতীতে কঙ্গনার সঙ্গে দ্বন্দ্বের প্রসঙ্গ টেনে অনুরাগীদের মনে নানান প্রশ্ন দানা বাঁধছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/is-hrithik-roshan-single-again-screenshot-of-actors-alleged-raya-profile-sparks-breakup-buzz-with-saba-azad_667071.html ",
+    "time": "2026-08-15T12:36:56.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "কমনওয়েলথ থেকে অলিম্পিক্স! মহাযজ্ঞের মেগা ভিশন মোদীর! লালকেল্লা থেকে খেলবিশ্ব শুনল ভারতের রণদুন্দুভি",
     "desc": "প্রধানমন্ত্রীর পাখির চোখ অলিম্পিক্স। ২০৩৬ সালে 'গ্রেটেস্ট শো অন আর্থ'-এ দারুণ কিছু করতে মরিয়া ভারত। দেশের পরবর্তী প্রজন্মের ক্রীড়াবিদদের খুঁজে বের করতে ও তাদের গড়ে তুলতে মোদী দেশজুড়ে প্রতিভা অন্বেষণ কর্মসূচি শুরুর কথাও ঘোষণা করেছেন ১৫ অগাস্ট।",
@@ -124,15 +133,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/uttarakhands-chamoli-tunnel-collapse-7-killed-14-injured-1-trapped_666886.html ",
     "time": "2026-08-14T03:37:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CJI সূর্যকান্তকে বয়কটের জের: দেশবিখ্যাত আইনকলেজ NALSAR-এর ছাত্রদের ওকালতির লাইসেন্সে কোপ বার কাউন্সিলের",
-    "desc": "বার কাউন্সিল অব ইন্ডিয়ার চেয়ারম্যান মনন কুমার মিশ্র সমস্ত রাজ্যের বার কাউন্সিলগুলোকে নির্দেশ জারি করে জানিয়েছেন, পরবর্তী নির্দেশ না দেওয়া পর্যন্ত নালসারের ২০২৬ ব্যাচের কোনও ছাত্র বা ছাত্রীকে যেন আইনজীবী হিসেবে তালিকাভুক্ত না করা হয়।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/bci-halts-lawyer-enrolment-for-nalsar-2026-graduates-amid-cji-convocation-boycott-row_666873.html ",
-    "time": "2026-08-13T15:54:06.000Z"
   },
   {
     "cat": "World",
@@ -304,15 +304,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/swarup-biswas-physical-assault-false-case-withdrawn-simran-paul-apologizes_666036.html ",
     "time": "2026-08-08T09:25:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "উত্তাল ষাটের দশকে ‘গুপী-বাঘা’র জন্মকথা! সৃজিতের লেন্সে ‘মহারাজা তোমারে সেলাম’, দেখা যাবে রুদ্রনীল-জীতু-ঋত্বিকদের",
-    "desc": "সত্যজিৎ রায়ের প্রতি সৃজিত মুখোপাধ্যায়ের অন্ধ অনুরাগের কথা টলিপাড়ার কারোরই অজানা নয়। এমনকি গুরু পূর্ণিমার দিনে অন্য একটি ছবির প্রচার অনুষ্ঠানেও সত্যজিতের স্মরণে তৈরি বিশেষ পোশাকে সেজে উঠতে দেখা গিয়েছিল তাঁকে। সেই কিংবদন্তি স্রষ্টাকেই তাই নিজের নতুন প্রজেক্টের মূল বিষয় হিসেবে নির্বাচন করেছেন তিনি।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/srijit-mukherjis-next-maharaja-tomare-selam-movie-making-of-goopy-gyne-bagha-byne_665996.html ",
-    "time": "2026-08-08T07:50:21.000Z"
   },
   {
     "cat": "Business",
