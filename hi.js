@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "KL Rahul leaves retired hurt, what happened to India opener in first Test against Sri Lanka in Galle?",
+    "desc": "Star India batter KL Rahul was forced to leave the field during the final session of India’s opening Test against Sri Lanka in Galle. The veteran batter complained of cramps ahead of the start of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-leaves-retired-hurt-what-happened-to-india-opener-in-first-test-against-sri-lanka-in-galle-2026-08-15-1051477",
+    "time": "2026-08-15T12:12:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Devdutt Padikkal smacks maiden Test century as India in complete control of opening Test vs Sri Lanka",
+    "desc": "India’s new number three Devdutt Padikkal has scripted a sensational century against Sri Lanka in the opening of the two-match series at Galle. The 26-year-old arrived at the crease after Yashasvi Jaiswal departed for 32...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/devdutt-padikkal-smacks-maiden-test-century-as-india-in-complete-control-of-opening-test-vs-sri-lanka-2026-08-15-1051471",
+    "time": "2026-08-15T11:07:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Premier League announce multiple changes to rules ahead of new season",
+    "desc": "English football is set for one of its biggest sets of law changes in years. The 2026-27 season is set to bring measures aimed at reducing delays and increasing the amount of time the ball...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/premier-league-announce-multiple-changes-to-rules-ahead-of-new-season-2026-08-15-1051470",
+    "time": "2026-08-15T10:53:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch the Men's FIH Hockey World Cup 2026 live on TV and stream online in India?",
+    "desc": "The stage is set for yet another edition of the men’s FIH Hockey World Cup. It has been over 50 years since the Indian team won the tournament, and the side will be looking to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/hockey/when-and-where-to-watch-the-men-s-fih-hockey-world-cup-2026-live-on-tv-and-stream-online-in-india-2026-08-15-1051463",
+    "time": "2026-08-15T09:34:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Australia remain on backfoot after losing four wickets on Day 3 of first Test vs Bangladesh",
+    "desc": "Bangladesh’s impressive showing with the bat ended with the team posting 426 runs on the board in the first innings. Mehidy Hasan Miraz played a fine knock of 65 runs on the morning of Day...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/australia-remain-on-backfoot-after-losing-four-wickets-on-day-3-of-first-test-vs-bangladesh-2026-08-15-1051461",
+    "time": "2026-08-15T09:28:08.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Going through pain': Inter Miami head coach gives crucial update on Lionel Messi's availability",
     "desc": "The news of the passing of Lionel Messi’s father, Jorge, has taken world football by storm. It is worth noting that Jorge Messi passed away after battling health issues at the age of 68, with...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/josh-hazlewood-sets-new-record-with-six-wicket-haul-in-first-test-vs-bangladesh-in-darwin-2026-08-15-1051446",
     "time": "2026-08-15T06:54:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Sarfaraz Khan not playing India vs Sri Lanka 1st Test in Galle?",
-    "desc": "Sarfaraz Khan replaced Sai Sudharsan in India’s squad for the two-match Test series against Sri Lanka, starting August 15 in Galle. The latter fractured her right toe and the Indian team didn’t want to risk...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-sarfaraz-khan-not-playing-india-vs-sri-lanka-1st-test-in-galle-2026-08-15-1051445",
-    "time": "2026-08-15T06:24:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Want India to host 2036 Olympics': PM Modi outlines goals for sports sector, announces launch of talent hunt",
-    "desc": "Prime Minister Narendra Modi addressed the crowd in the Independence Day speech and outlined the various goals that the country is looking forward to in the sports sector. Setting an ambitious target for India in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/want-india-to-host-2036-olympics-pm-modi-outlines-goals-for-sports-sector-announces-launch-of-talent-hunt-2026-08-15-1051436",
-    "time": "2026-08-15T03:34:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IND vs SL 1st Test, Day 1 LIVE SCORE: Devdutt Padikkal completes half-century, Rahul nearing his",
-    "desc": "India and Sri Lanka are all set to take on each other in the first Test of the upcoming two-game series. The teams meet at the Galle International Stadium, with day 1 of the clash...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-sl-1st-test-day-1-live-score-india-aim-to-get-off-to-good-start-to-galle-test-1051433",
-    "time": "2026-08-15T03:21:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How will weather in Galle fare on day 1 of the first Test?",
-    "desc": "India and Sri Lanka are all set to take on each other in the first Test of the upcoming two-game Test series. The teams will take on each other at the Galle International Stadium for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-sl-weather-report-how-will-weather-in-galle-fare-on-day-1-of-the-first-test-2026-08-15-1051430",
-    "time": "2026-08-15T02:51:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Where to watch India vs Sri Lanka, 1st Test live on TV and stream online?",
-    "desc": "The stage is set for the beginning of the first Test between India and Sri Lanka. The two sides will take on each other across two Test matches, with the first one kicking off at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/where-to-watch-india-vs-sri-lanka-1st-test-live-on-tv-and-stream-online-2026-08-15-1051423",
-    "time": "2026-08-15T01:45:01.000Z"
   }
 ];

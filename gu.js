@@ -1,6 +1,60 @@
 const newsData_gu = [
   {
     "cat": "Sports",
+    "title": "આઉટ નહોતો છતાં KL રાહુલે કેમ છોડ્યું મેદાન ? ટીમ ઈન્ડિયાને લાગ્યો મોટો ઝટકો",
+    "desc": "ભારત શ્રીલંકા સામે પોતાની 600મી ટેસ્ટ મેચ રમી રહ્યું છે. આ ઐતિહાસિક મેચ ગાલે ઈન્ટરનેશનલ સ્ટેડિયમમાં રમાઈ રહી છે, ત્યારે ભારતીય ટીમનો ઓપનર કેએલ રાહુલ આઉટ ના હોવા છતાં પેવેલિયન પાછો ફર્યો હતો. ટી બ્રેક બાદ તે બેટિંગ કરવા તો આવ્યો પણ તેને એક પણ બોલ રમ્યા વગર મેદાન છોડવું પડ્યું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/india-vs-sri-lanka-1st-test-match-kl-rahul-retired-hurt-team-india-487810 ",
+    "time": "2026-08-15T11:40:24.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સોનામાં 2700 અને ચાંદીમાં 2500 રૂપિયાનો ઉછાળો, સતત વધતા ગોલ્ડમાં રોકાણ કરવું કે નહીં? જાણો શું કહી રહ્યા છે એક્સપર્ટ",
+    "desc": "મિડલ ઈસ્ટમાં તણાવ વધતા સોના-ચાંદીના ભાવમાં મોટો ઘટાડો જોવા મળ્યો હતો. પરંતુ હવે અમેરિકામાં મોંઘવારી દરના આંકડા સામે આવ્યા બાદ સોના-ચાંદીના ભાવમાં તેજી જોવા મળી રહી છે. સોનામાં સતત બીજા અઠવાડિયે વધારો જોવા મળ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-price-rises-by-rs-2700-and-silver-by-rs-2500-should-you-invest-in-continuously-rising-gold-or-not-know-what-experts-are-saying-487809 ",
+    "time": "2026-08-15T11:23:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "15 ઓગસ્ટ પહેલા 26 જાન્યુઆરી હતો ભારતનો સ્વતંત્રતા દિવસ, જાણો કેમ બદલવામાં આવી તારીખ, શું છે તેની પાછળની કહાની",
+    "desc": "ભારતમાં પહેલા સ્વતંત્રતા દિવસ 15 ઓગસ્ટના રોજ નહીં, પરંતુ 26 જાન્યુઆરીએ ઉજવવામાં આવતો હતો. 26 જાન્યુઆરી, 1930ના રોજ, કોંગ્રેસના આહ્વાન પર પ્રથમ વખત દેશભરમાં સ્વતંત્રતા દિવસ ઉજવવામાં આવ્યો. આ દિવસે લોકોએ બ્રિટિશ શાસનથી સંપૂર્ણ સ્વતંત્રતા કે પૂર્ણ સ્વરાજ મેળવવાની પ્રતિજ્ઞા લીધી. વિવિધ સ્થળોએ સભાઓ યોજાઈ અને રાષ્ટ્રધ્વજ ફરકાવવામાં આવ્યો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/before-august-15-india-independence-day-was-january-26-know-full-details-487808 ",
+    "time": "2026-08-15T11:05:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "આવતા વર્ષે 15 ઓગસ્ટ બનશે ખાસ: દેશને મળશે &amp;#039;બુલેટ&amp;#039;ની રફ્તાર, 320 km/hની ઝડપે દોડશે ટ્રેન, બુલેટ ટ્રેન પર ગ્રાઉન્ડ રિપોર્ટ",
+    "desc": "15 ઓગસ્ટ, 2027થી ભારતમાં બુલેટ ટ્રેન શરૂ કરવાની તૈયારીઓ ચાલી રહી છે. પ્રથમ તબક્કામાં, આ ટ્રેન ગુજરાતના સુરત અને બીલીમોરા વચ્ચે આશરે 50 કિલોમીટરનું અંતર કાપશે. ચાલો ટ્રેનની સંપૂર્ણ વિગતો સમજીએ, તેની સ્પીડથી લઈને ભાડા, કીલોમીટર, સ્ટેશનો અને રૂટ વિશે વધારે જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/august-15-next-year-will-be-special-the-train-will-run-at-a-speed-of-320-km-zee-news-ground-report-on-bullet-train-487798 ",
+    "time": "2026-08-15T10:06:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "સોનિયા ગાંધીએ કાર્યકરોને વંદે માતરમ ગાતા રોક્યા? ભાજપના આરોપ પર કોંગ્રેસે આપ્યો જવાબ",
+    "desc": "દેશ આજે 80મો સ્વતંત્રતા દિવસ ઉજવી રહ્યો છે. શનિવારે કોંગ્રેસના હેડક્વાર્ટરમાં પણ વંદે માતરમ્ ગીત ગવાયું. પરંતુ ભાજપનો એવો આરોપ છે કે કોંગ્રેસ નેતા સોનિયા ગાંધીએ બીજા અંતરા બાદ તેને રોકવાની કોશિશ કરી. જો કે કોંગ્રેસ નેતા જયરામ રમેશે આ આરોપો પર સ્પષ્ટતા કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/independence-day-celebration-at-congress-headquarter-full-vande-matarma-played-sonia-gandhi-487797 ",
+    "time": "2026-08-15T09:45:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "10મી ઓવરના 5મા બોલ પર એવું તો શું થયું કે શ્રીલંકન ખેલાડીને તાત્કાલિક છોડવું પડ્યું મેદાન, જુઓ Video",
+    "desc": "ભારત સામે ગાલે ટેસ્ટના પહેલા દિવસે શ્રીલંકાના નિશાન મદુષ્કાને ઈજા થઈ હતી. શોર્ટ લેગ પર ફિલ્ડિંગ કરતી વખતે તેને કેએલ રાહુલનો એક પાવરફુલ શોટ હેલ્મેટ પર વાગ્યો હતો. જે બાદ તેને મેદાન છોડવું પડ્યું હતું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-sl-1st-test-nishan-madushka-helmet-injury-kl-rahul-shot-487796 ",
+    "time": "2026-08-15T09:43:50.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "15મી ઓગસ્ટે મેદાનમાં ઉતરતા જ ભારતીય ટીમે રચ્યો ઈતિહાસ, આ રેકોર્ડ બનાવનાર વિશ્વનો ત્રીજો દેશ બન્યો",
     "desc": "આજે ભારત 80મો સ્વતંત્રતા દિવસ ઉજવી રહ્યો છે અને આ સાથે ભારતીય ટીમે પણ ઈતિહાસ રચ્યો છે. 15 ઓગસ્ટે મેદાનમાં ઉતરતા જ ભારતના નામે એક એવો રેકોર્ડ નોંધાયો છે, જે આના પહેલા ફક્ત બે દેશો જ આવું કરી શક્યા છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -180,15 +234,6 @@ const newsData_gu = [
     "time": "2026-08-14T10:42:57.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ધર્મેન્દ્ર પ્રધાન પછી આ વ્યક્તિનું રાજીનામુ માગી રહ્યા છે કોકરોચ, CJIએ કર્યું એલાન",
-    "desc": "BCI એટલે કે બાર કાઉંસિલ ઓફ ઈન્ડિયાના અધ્યક્ષ મનન કુમાર મિશ્રા સામે કોકરોચ જનતા પાર્ટી ખુલીને સામે આવી રહી છે, પાર્ટીના પ્રવક્તા સૌરભ દાસે તેમની રાજીનામાની માંગ કરી છે, જો કે તેના પર મનન કુમાર મિશ્રા તરફથી કોઈ પ્રતિક્રીયા આવી નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/after-dharmendra-pradhan-cockroaches-are-demanding-this-person-resignation-cji-made-an-announcement-487712 ",
-    "time": "2026-08-14T09:29:36.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "સની દેઓલની એક્ટિંગ જીતી લેશે દિલ, જાણો કેવી છે મલ્ટી સ્ટારર ફિલ્મ બટવારા 1947",
     "desc": "આજે સિનેમાઘરોમાં સની દેઓલની ફિલ્મ બટવારા 1947 રિલીઝ થઈ છે. આ ફિલ્મથી અભિનેત્રી પ્રીતિ ઝિંટા લાંબા બ્રેક પછી બોલીવુડમાં કમબેક કરી રહી છે. તમે પણ આ ફિલ્મ જોવા જવાનું વિચારી રહ્યા છો તો પહેલા વાંચી લો ફિલ્મ કેવી છે ?",
@@ -214,15 +259,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/bsnl-independence-day-offer-get-new-connection-for-1-and-412-days-validity-on-annual-plan-487694 ",
     "time": "2026-08-14T06:30:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "આઝાદી બાદ સૌથી પહેલા ક્યાં ફરકાવાયો હતો તિરંગો? લાલ કિલ્લો નહીં પરંતુ આ છે જવાબ",
-    "desc": "શું તમને ખબર છે કે 15 ઓગસ્ટ 1947ના રોજ આઝાદી મળી ત્યારે દેશમાં સૌ પ્રથમવાર તિરંગો લાલ કિલ્લા પર નહતો ફરકાવવામાં આવ્યો. આજે અમે તમને જણાવીશું કે આઝાદી બાદ સૌથી પહેલા ઝંડો ક્યાં ફરકાવાયો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/where-was-the-tricolor-hoisted-for-the-first-time-after-independence-not-red-fort-487693 ",
-    "time": "2026-08-14T06:22:57.000Z"
   },
   {
     "cat": "World",
@@ -439,15 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/shraddha-kapoor-eetha-movie-release-postpone-due-to-yash-movie-toxic-eetha-new-release-date-4-december-487457 ",
     "time": "2026-08-12T02:44:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "બાંગ્લાદેશ પ્રવાસ પર સસ્પેન્સ વચ્ચે ટીમ ઈન્ડિયાની નવી T20 સિરીઝ, આ દેશ સામે રમશે 3 મેચ, તારીખો જાહેર",
-    "desc": "ભારત બાંગ્લાદેશનો પ્રવાસ કરશે કે નહીં તેના પર સસ્પેન્સ છે, પરંતુ ટીમ ઈન્ડિયા હવે અફઘાનિસ્તાન સામે T20 સિરીઝ રમશે. અફઘાનિસ્તાન ક્રિકેટ બોર્ડ (ACB)એ ટીમ ઈન્ડિયા સામેની ત્રણ T20 આંતરરાષ્ટ્રીય મેચની તારીખોની જાહેરાત કરી છે. ભારતીય ક્રિકેટ કંટ્રોલ બોર્ડ (BCCI) તરફથી લીલી ઝંડી મળ્યા બાદ બોર્ડે આ જાહેરાત કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/india-vs-afghanistan-t20-series-2026-schedule-arun-jaitley-stadium-delhi-487434 ",
-    "time": "2026-08-11T15:53:50.000Z"
   },
   {
     "cat": "World",
