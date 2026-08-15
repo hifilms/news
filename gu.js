@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "લાલ કિલ્લા પરથી PM મોદીએ Gen-Zને આપી આ ભેટ? મળશે ફ્રી કોચિંગ, વિદેશી યુનિવર્સિટીઝ, સસ્તો ડેટા...",
+    "desc": "પીએમ મોદીએ આજે લાલ કિલ્લા પરથી જણાવ્યું કે કઈ રીતે ભારત સરકાર યુવાઓ માટે સતત કામ કરી રહી છે. હવે દેશના નાના શહેરો અને ગામડાઓના હોશિયાર છોકરાઓએ મોંઘી કોચિંગ ફીના કારણે પરેશાન થવું પડશે નહીં. જાણો વિગતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/pm-modi-independence-speech-from-red-fort-free-coaching-foreign-universities-487773 ",
+    "time": "2026-08-15T05:21:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "લાલ કિલ્લા પરથી PM Modi ની મોટી જાહેરાત: &amp;#039;સપ્તધારા&amp;#039;થી બદલશે દેશની તસવીર; જાણો 7 શક્તિઓનો અર્થ",
+    "desc": "80મા સ્વતંત્રતા દિવસ પર પ્રધાનમંત્રી નરેન્દ્ર મોદીએ લાલ કિલ્લા પરથી સતત 13મી વખત ત્રિરંગો લહેરાવીને નવો ઇતિહાસ રચ્યો છે. આ પ્રસંગે તેમણે 2047 સુધીમાં ભારતને વિકસિત રાષ્ટ્ર બનાવવા માટે 'સપ્તધારા'નું વિઝન દેશ સમક્ષ રજૂ કર્યું. ચાલો જાણીએ શું છે આ સપ્તધારાની 7 શક્તિઓ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/pm-modis-big-announcement-from-red-fort-countrys-picture-will-change-with-saptadhara-know-the-meaning-of-7-powers-487768 ",
+    "time": "2026-08-15T04:59:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "લાલ કિલ્લા પરથી PM મોદીના 13મા સંબોધને તોડ્યા જૂના રેકોર્ડ, 80મા સ્વતંત્રતા દિવસે રચાયો ઇતિહાસ",
+    "desc": "80મા સ્વતંત્રતા દિવસે, વડા પ્રધાન નરેન્દ્ર મોદીએ સતત 13મી વખત લાલ કિલ્લા પરથી ત્રિરંગો લહેરાવીને ઇતિહાસ રચ્યો છે. \"વંદે માતરમ\" ની 150મી વર્ષગાંઠ અને \"વિકસિત ભારત 2047\" ના સંકલ્પ વચ્ચે, વડા પ્રધાને યુવા શક્તિ અને ભારતના સુવર્ણ ભવિષ્યનું વિઝન રજૂ કર્યું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/pm-modis-13th-address-from-the-red-fort-broke-old-records-history-was-created-on-the-80th-independence-day-487770 ",
+    "time": "2026-08-15T04:23:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "સેમીકન્ડક્ટરથી લઈને ભારતને પરમાણુ સુપરપાવર બનાવવા સુધી...PM મોદીએ જણાવ્યો &amp;#039;મિશન 2047 પ્લાન&amp;#039;",
+    "desc": "ભારતે 2027 સુધી વિક્સિત દેશ બનવાનો લક્ષ્યાંક નક્કી કરી લીધો છે. આ માટે એનર્જી સેક્ટરમાં પોતાને આત્મનિર્ભર બનાવવા માટે ભારતે મોટું પગલું ભર્યું છે. પરમાણુ ઉર્જાથી લઈને સેમીકન્ડક્ટર ચિપ મેકિંગમાં ભારત હવે દુનિયાની સામે મોટું ઉદાહરણ રજૂ કરશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/pm-modi-independence-day-speech-red-fort-energy-security-semi-conductor-plan-487769 ",
+    "time": "2026-08-15T04:16:21.000Z"
+  },
+  {
     "cat": "World",
     "title": "ઇન્ડોનેશિયામાં 7.7ની તીવ્રતાનો ભૂકંપ, પત્તાની જેમ ધરાશાયી થઈ ઇમારતો, તબાહીના દ્રશ્યોથી હાહાકાર",
     "desc": "ઇન્ડોનેશિયામાં 7.7ની તીવ્રતાના ભૂકંપને કારણે ઇમારતો પત્તાની જેવી પડી ગઈ. ઘણા લોકોના મોતની આશંકા છે. ભૂકંપ બાદ સુનામીની ચેતવણી જાહેર કરવામાં આવી છે, અને દરિયાકાંઠાના વિસ્તારોના રહેવાસીઓને ઉંચી જમીન પર સ્થળાંતર કરવાની સલાહ આપવામાં આવી છે.",
@@ -198,15 +234,6 @@ const newsData_gu = [
     "time": "2026-08-13T16:09:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "&amp;#039;જે દિવસે RSSનો અવાજ દબાવવામાં આવશે, હું રક્ષા કરીશ&amp;#039;...જાણો રાહુલ ગાંધીએ આવું કેમ કહ્યું?",
-    "desc": "લોકસભામાં વિપક્ષના નેતા રાહુલ ગાંધીનું કહેવું છે કે તેઓ RSSની વિચારધારાથી અસહમત હોઈ શકે છે પરંતુ જે દિવસે દેશમાં સંઘની અભિવ્યક્તિની આઝાદીને ખતમ કરવાની કોશિશ થશે તે દિવસે તેઓ પોતે તેમની રક્ષા કરશે...જાણો રાહુલ ગાંધીએ આવું કેમ કહ્યું?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/rahul-gandhi-big-statement-on-bjp-and-rss-freedom-of-expression-at-rachnatmak-congress-convention-487652 ",
-    "time": "2026-08-13T15:38:36.000Z"
-  },
-  {
     "cat": "Business",
     "title": "પેન્શન ₹1,000થી વધીને ₹7,500 થશે ? સરકારે લોકસભામાં આપ્યો જવાબ",
     "desc": "EPS-95 હેઠળ લઘુત્તમ પેન્શન ₹1,000થી વધારીને ₹7,500 કરવાની લાંબા સમયથી માંગ કરવામાં આવી રહી છે. સરકારને 10 ઓગસ્ટના રોજ લોકસભામાં આ મુદ્દા પર પ્રશ્ન કરવામાં આવ્યો હતો, ત્યારે સરકારે શું જવાબ આપ્યો છે, તેના વિશે આ લેખમાં જાણીશું.",
@@ -214,15 +241,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/will-eps-95-pension-hike-from-1000-to-7500-govt-gave-answer-in-lok-sabha-487632 ",
     "time": "2026-08-13T13:29:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "રાષ્ટ્રધ્વજ આપણી અસ્મિતાનું પ્રતીક: &amp;#039;ફ્લેગ કોડ&amp;#039;ના આ નિયમો જાણવા દરેક ભારતીય માટે છે અનિવાર્ય",
-    "desc": "ભારતીય રાષ્ટ્રીય ધ્વજ એ માત્ર કાપડનો ટુકડો નથી, પરંતુ ૧૪૦ કરોડ દેશવાસીઓની આશાઓ, આકાંક્ષાઓ અને રાષ્ટ્રપ્રેમનું પવિત્ર પ્રતીક છે. રાષ્ટ્રીય ધ્વજની ગરિમા અને માન-મર્યાદા અકબંધ રહે તે માટે ભારત સરકારના ગૃહ મંત્રાલય દ્વારા ‘ફ્લેગ કોડ ઓફ ઈન્ડિયા, ૨૦૦૨’ અને ‘રાષ્ટ્રીય ગૌરવ અપમાન નિવારણ અધિનિયમ, ૧૯૭૧’ અંતર્ગત કડક નિયમો અને માર્ગદર્શિકા નક્કી કરવામાં આવી છે, જેનું પાલન કરવું દરેક નાગરિકની નૈતિક ફરજ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/national-flag-guidelines-important-rules-under-the-flag-code-of-india-you-need-to-know-487631 ",
-    "time": "2026-08-13T13:26:47.000Z"
   },
   {
     "cat": "Entertainment",
@@ -295,24 +313,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/tata-trusts-vs-tata-sons-who-holds-more-power-and-who-truly-controls-the-tata-empire-487581 ",
     "time": "2026-08-13T06:33:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "લાલ કિલ્લા હુમલા પાછળ અલ-કાયદાનો હાથ? ભારતમાં નવી રીતે ફેલાવ્યું ખતરનાક નેટવર્ક; UNના રિપોર્ટમાં મોટો ખુલાસો",
-    "desc": "અલ-કાયદા ભારતના પાડોશી દેશ બાંગ્લાદેશમાં પણ પોતાનું નેટવર્ક ફેલાવવાનો પ્રયાસ કરી રહ્યું છે. તમને જણાવી દઈએ કે દિલ્હીના લાલ કિલ્લાના ધમાકા મામલે નેશનલ ઇન્વેસ્ટિગેશન એજન્સી (NIA) એ 11 આરોપીઓ વિરૂદ્ધ લગભગ 7500 પાનાની ચાર્જશીટ દાખલ કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/un-report-says-al-qaeda-offshoot-behind-red-fort-blast-interest-in-developing-chemical-weapons-487579 ",
-    "time": "2026-08-13T06:07:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "એર ઇન્ડિયાએ છૂપાવી હકીકત? ટર્બ્યુલન્સ નહીં, હવામાં જ વિમાનની અનેક સિસ્ટમમાં આવી હતી મોટી ખામી, રિપોર્ટમાં ખુલાસો",
-    "desc": "ફુકેટથી દિલ્હી આવી રહેલી એર ઇન્ડિયાની ફ્લાઇટ અંગે પહેલાં જણાવવામાં આવ્યું હતું કે ટર્બ્યુલન્સ (હવાના ઝાટકા)ના કારણે ફ્લાઇટ 300 મીટર નીચે જતી રહી હતી. પરંતુ હવે એક નવા રિપોર્ટમાં સામે આવ્યું છે કે વિમાનમાં કેટલીક ટેકનિકલ સમસ્યાઓ હતી. આ અંગે એર ઇન્ડિયા દ્વારા કોઈ માહિતી આપવામાં આવી નહોતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/air-india-hid-the-truth-not-turbulence-many-malfunctions-occurred-in-many-systems-of-the-aircraft-in-mid-air-487576 ",
-    "time": "2026-08-13T05:36:41.000Z"
   },
   {
     "cat": "World",

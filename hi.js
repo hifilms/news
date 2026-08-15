@@ -1,7 +1,25 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "IND vs SL 1st Test, Day 1 LIVE SCORE: India aim to get off to good start to Galle Test",
+    "title": "Why is Sarfaraz Khan not playing India vs Sri Lanka 1st Test in Galle?",
+    "desc": "Sarfaraz Khan replaced Sai Sudharsan in India’s squad for the two-match Test series against Sri Lanka, starting August 15 in Galle. The latter fractured her right toe and the Indian team didn’t want to risk...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-sarfaraz-khan-not-playing-india-vs-sri-lanka-1st-test-in-galle-2026-08-15-1051445",
+    "time": "2026-08-15T06:24:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Want India to host 2036 Olympics': PM Modi outlines goals for sports sector, announces launch of talent hunt",
+    "desc": "Prime Minister Narendra Modi addressed the crowd in the Independence Day speech and outlined the various goals that the country is looking forward to in the sports sector. Setting an ambitious target for India in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/want-india-to-host-2036-olympics-pm-modi-outlines-goals-for-sports-sector-announces-launch-of-talent-hunt-2026-08-15-1051436",
+    "time": "2026-08-15T03:34:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IND vs SL 1st Test, Day 1 LIVE SCORE: Padikkal-Rahul stay on course after Jaiswal's departure",
     "desc": "India and Sri Lanka are all set to take on each other in the first Test of the upcoming two-game series. The teams meet at the Galle International Stadium, with day 1 of the clash...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ayush-badoni-shares-virat-kohli-s-advice-to-him-says-ready-for-any-role-to-play-for-india-2026-08-14-1051408",
     "time": "2026-08-14T15:27:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Churchill Brothers buy Jamshedpur FC for merely Rs 100, likely to play upcoming ISL",
-    "desc": "Tata Steel has agreed to transfer its entire stake in Jamshedpur Football and Sporting Private Limited (JFSPL), the company behind Jamshedpur FC, to Churchill Brothers Sports Club Private Limited for a nominal consideration of Rs...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/churchill-brothers-buys-jamshedpur-fc-for-merely-rs-100-likely-to-play-upcoming-isl-2026-08-14-1051404",
-    "time": "2026-08-14T14:35:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jemimah Rodrigues ruled out of Asia Cup, Asian Games; BCCI announce ODI World Cup star as replacement",
-    "desc": "Star India batter Jemimah Rodrigues has been ruled out of the upcoming Asia Cup, starting Friday, August 28. The Mumbai-born picked up a hamstring injury during The Hundred in England, which subsequently ruled her out...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jemimah-rodrigues-ruled-out-of-asia-cup-asian-games-bcci-announce-odi-world-cup-star-as-replacement-2026-08-14-1051398",
-    "time": "2026-08-14T13:51:12.000Z"
   }
 ];
