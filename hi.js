@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Going through pain': Inter Miami head coach gives crucial update on Lionel Messi's availability",
+    "desc": "The news of the passing of Lionel Messi’s father, Jorge, has taken world football by storm. It is worth noting that Jorge Messi passed away after battling health issues at the age of 68, with...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/going-through-pain-inter-miami-head-coach-gives-crucial-update-on-lionel-messi-s-availability-2026-08-15-1051460",
+    "time": "2026-08-15T09:10:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "UPT20 League begins in style as CM Yogi Adityanath hosts coin toss before opening match",
+    "desc": "Uttar Pradesh Chief Minister Yogi Adityanath was present at the opening ceremony of the ongoing UPT20 League as he kicked off the latest edition of the tournament in style. The fourth edition of the tournament...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/upt20-league-begins-in-style-as-cm-yogi-adityanath-hosts-coin-toss-before-opening-match-2026-08-15-1051456",
+    "time": "2026-08-15T08:21:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Babar Azam suffers injury scare, ruled out of warm-up clash before three-match Test series vs England",
+    "desc": "Pakistan captain Babar Azam has been ruled out of the remainder of his side’s warm-up match against Professional County Club Select XI after being struck on the hand while batting. The incident happened when the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/babar-azam-suffers-injury-scare-ruled-out-of-warm-up-clash-before-three-match-test-series-vs-england-2026-08-15-1051451",
+    "time": "2026-08-15T07:51:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is Jasprit Bumrah not playing India vs Sri Lanka 1st Test in Galle?",
+    "desc": "India and Sri Lanka took on each other in the first Test of the ongoing two-game series. The two sides met at the Galle International Stadium for the clash on August 15th, and the clash...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-jasprit-bumrah-not-playing-india-vs-sri-lanka-1st-test-in-galle-2026-08-15-1051447",
+    "time": "2026-08-15T07:02:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Josh Hazlewood sets new record with six-wicket haul in first Test vs Bangladesh in Darwin",
+    "desc": "Star pacer Josh Hazlewood became the ninth Australian bowler to pick up 300 wickets in Test cricket. He reached the milestone on Day 3 of Australia’s opening Test against Bangladesh in Darwin. He registered the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/josh-hazlewood-sets-new-record-with-six-wicket-haul-in-first-test-vs-bangladesh-in-darwin-2026-08-15-1051446",
+    "time": "2026-08-15T06:54:13.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why is Sarfaraz Khan not playing India vs Sri Lanka 1st Test in Galle?",
     "desc": "Sarfaraz Khan replaced Sai Sudharsan in India’s squad for the two-match Test series against Sri Lanka, starting August 15 in Galle. The latter fractured her right toe and the Indian team didn’t want to risk...",
     "img": "",
@@ -19,7 +64,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "IND vs SL 1st Test, Day 1 LIVE SCORE: Padikkal-Rahul stay on course after Jaiswal's departure",
+    "title": "IND vs SL 1st Test, Day 1 LIVE SCORE: Devdutt Padikkal completes half-century, Rahul nearing his",
     "desc": "India and Sri Lanka are all set to take on each other in the first Test of the upcoming two-game series. The teams meet at the Galle International Stadium, with day 1 of the clash...",
     "img": "",
     "src": "indiatvnews.com",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/where-to-watch-india-vs-sri-lanka-1st-test-live-on-tv-and-stream-online-2026-08-15-1051423",
     "time": "2026-08-15T01:45:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India vs Sri Lanka 1st Test Pitch Report, how will surface at Galle International Stadium play?",
-    "desc": "India will begin their two-match Test series against Sri Lanka at the Galle International Cricket Stadium on Saturday, August 15. The series holds extreme importance in their World Test Championship cycle, especially after a series...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-sri-lanka-1st-test-pitch-report-how-will-surface-at-galle-international-stadium-play-2026-08-14-1051419",
-    "time": "2026-08-14T18:15:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "TNPL bans Tamil Nadu Ranji Trophy cricketer, BCCI fines 1 lakh for breaching code of conduct",
-    "desc": "One of Tamil Nadu’s Ranji Trophy cricketers has been fined Rs 1 lakh by the BCCI’s Anti-Corruption and Security Unit and barred from the ongoing Tamil Nadu Premier League after a mobile phone was found...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/tnpl-bans-tamil-nadu-ranji-trophy-cricketer-bcci-fines-1-lakh-for-breaching-code-of-conduct-2026-08-14-1051415",
-    "time": "2026-08-14T17:42:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Alejandro Garnacho explains reasons to join Aston Villa on loan after just one season at Chelsea",
-    "desc": "It has been a rough couple of seasons for Alejandro Garnacho in the Premier League. In the 2024-25 season, the Argentina youngster played 58 matches for Manchester United, scoring 12 goals and assisting 10. However,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/alejandro-garnacho-explains-reasons-to-join-aston-villa-on-loan-after-just-one-season-at-chelsea-2026-08-14-1051414",
-    "time": "2026-08-14T17:07:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill set to become first Indian captain to register major milestone in WTC history",
-    "desc": "India captain Shubman Gill has been a force to reckon with in red-ball cricket. The 26-year-old has scored 950 runs in eight matches in the ongoing World Test Championship and is currently the third-highest run-scorer...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-set-to-become-first-indian-captain-to-register-major-milestone-in-wtc-history-2026-08-14-1051412",
-    "time": "2026-08-14T16:15:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ayush Badoni shares Virat Kohli's advice to him, says ready for any role to play for India",
-    "desc": "Ayush Badoni is currently in India’s scheme of things as far as ODI cricket is concerned. The Delhi all-rounder received a call-up for the ODI series against New Zealand after Washington Sundar was ruled out,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ayush-badoni-shares-virat-kohli-s-advice-to-him-says-ready-for-any-role-to-play-for-india-2026-08-14-1051408",
-    "time": "2026-08-14T15:27:04.000Z"
   }
 ];

@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "15મી ઓગસ્ટે મેદાનમાં ઉતરતા જ ભારતીય ટીમે રચ્યો ઈતિહાસ, આ રેકોર્ડ બનાવનાર વિશ્વનો ત્રીજો દેશ બન્યો",
+    "desc": "આજે ભારત 80મો સ્વતંત્રતા દિવસ ઉજવી રહ્યો છે અને આ સાથે ભારતીય ટીમે પણ ઈતિહાસ રચ્યો છે. 15 ઓગસ્ટે મેદાનમાં ઉતરતા જ ભારતના નામે એક એવો રેકોર્ડ નોંધાયો છે, જે આના પહેલા ફક્ત બે દેશો જ આવું કરી શક્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/team-india-historic-record-600th-test-on-independence-day-in-galle-487791 ",
+    "time": "2026-08-15T09:05:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "આવારાપન 2 ફિલ્મે બોક્સ ઓફિસ પર દેખાડ્યો દમ, ઓપનિંગ ડે પર છપ્પરફાડ કલેકશન કર્યું",
+    "desc": "15 ઓગસ્ટના એક દિવસ અગાઉ બોક્સ ઓફિસ પર 2 દમદાર ફિલ્મો રિલીઝ થઈ છે. એક છે સની દેઓલની ફિલ્મ બટવારા 1947 અને બીજી છે ઈમરાન હાશમીની આવારાપન 2 ફિલ્મ. જેમાંથી બોક્સ ઓફિસ આવારાપન 2 સારી કમાણી કરી રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/emraan-hashmi-movie-awarapan-2-first-day-box-office-collection-latest-487788 ",
+    "time": "2026-08-15T08:07:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "આઝાદી બાદ પહેલીવાર લાલ કિલ્લા પર ગૂંજ્યું વંદે માતરમ્, પીએમ મોદીએ ફરકાવ્યો તિરંગો",
+    "desc": "80માં સ્વતંત્રતા દિવસે પીએમ મોદીએ દેશવાસીઓને શુભકામના આપી અને અગણીત સ્વતંત્રતા સેનાનીઓના સાહસ, સર્વોચ્ચ બલિદાનને કૃતજ્ઞતાપૂર્વક નમન કરતા શ્રદ્ધાંજલિ આપી. જેમના સંઘર્ષથી દેશને અમૂલ્ય આઝાદી મળી. લાલ કિલ્લાની પ્રાચીરથી પીએમ મોદીએ તિરંગો ફરકાવ્યો અને દેશને સંબોધન પણ કર્યું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/80th-independence-day-pm-modi-hoists-national-flag-at-red-fort-487756 ",
+    "time": "2026-08-15T07:06:57.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "15 ઓગસ્ટથી પેટ્રોલ પર ₹0 થયો ટેક્સ, ડીઝલ પર સરકારે ₹1.5 લીટર કર્યો ઘટાડો... શું આજથી તમારા માટે સસ્તું થયું પેટ્રોલ-ડિઝલ?",
+    "desc": "15 ઓગસ્ટથી પેટ્રોલ અને ડિઝલના, ATF પર વિંડફોલ ટેક્સ ઓછો કરવામાં આવ્યો છે, સરકાર તરફથી ટેક્સ ઘટાડા પછી તમારા માટે પેટ્રોલ અને ડિઝલના ભાવ ઘટશે. વિંડફોલ ટેક્સ શું હોય છે અને તેનો ઉપયોગ સરકાર કેમ કરે છે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/petrol-price-reduced-by-rs-0-and-diesel-by-rs-1-5-from-august-15-has-oil-become-cheaper-for-you-from-today-487780 ",
+    "time": "2026-08-15T06:48:11.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "લાલ કિલ્લા પરથી PM મોદીએ Gen-Zને આપી આ ભેટ? મળશે ફ્રી કોચિંગ, વિદેશી યુનિવર્સિટીઝ, સસ્તો ડેટા...",
     "desc": "પીએમ મોદીએ આજે લાલ કિલ્લા પરથી જણાવ્યું કે કઈ રીતે ભારત સરકાર યુવાઓ માટે સતત કામ કરી રહી છે. હવે દેશના નાના શહેરો અને ગામડાઓના હોશિયાર છોકરાઓએ મોંઘી કોચિંગ ફીના કારણે પરેશાન થવું પડશે નહીં. જાણો વિગતો.",
@@ -43,15 +79,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/7-7-magnitude-earthquake-in-indonesia-buildings-collapse-like-cards-scenes-of-devastation-are-shocking-487760 ",
     "time": "2026-08-15T03:30:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "&amp;#039;નાના સપના નહીં, મોટા વિઝનથી જ મહાન બનશે રાષ્ટ્ર&amp;#039;, લાલ કિલ્લ પરથી PM મોદીનું આહ્વાન",
-    "desc": "80માં સ્વતંત્રતા દિવસે પીએમ મોદીએ દેશવાસીઓને શુભકામના આપી અને અગણીત સ્વતંત્રતા સેનાનીઓના સાહસ, સર્વોચ્ચ બલિદાનને કૃતજ્ઞતાપૂર્વક નમન કરતા શ્રદ્ધાંજલિ આપી. જેમના સંઘર્ષથી દેશને અમૂલ્ય આઝાદી મળી. લાલ કિલ્લાની પ્રાચીરથી પીએમ મોદીએ તિરંગો ફરકાવ્યો અને દેશને સંબોધન પણ કર્યું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/80th-independence-day-pm-modi-hoists-national-flag-at-red-fort-487756 ",
-    "time": "2026-08-15T03:24:23.000Z"
   },
   {
     "cat": "Politics",
@@ -351,15 +378,6 @@ const newsData_gu = [
     "time": "2026-08-12T15:58:23.000Z"
   },
   {
-    "cat": "Business",
-    "title": "EPFOના નવા નિયમો લાગુ... ઈમરજન્સીમાં પણ નહીં ઉપાડી શકો PFના બધા પૈસા",
-    "desc": "EPF બચત જે કર્મચારીના ભવિષ્ય માટે બનાવાયેલ હતી, હવે ફક્ત નિવૃત્તિ પછી જ નહીં પરંતુ જરૂરિયાતના સમયગાળા દરમિયાન કોઈપણ સમયે પણ તેનો ઉપયોગ કરી શકાય છે. ત્યારે PF ફંડ ઉપાડવા અંગેના EPFOના નવા નિયમો લાગુ કરવામાં આવ્યા છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/epfo-new-rule-know-how-much-withdraw-pf-for-emergency-situations-487548 ",
-    "time": "2026-08-12T13:57:26.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "વર્લ્ડ કપ 2027 બાદ જસપ્રીત બુમરાહ ફક્ત T20 જ રમશે! BCCIએ બનાવ્યો ખાસ પ્લાન, જાણો શું છે કારણ",
     "desc": "જસપ્રીત બુમરાહની ઈજા ટીમ ઈન્ડિયા માટે એક મોટી સમસ્યા સાબિત થઈ છે. BCCIનો ટાર્ગેટ તેને 2027ના વનડે વર્લ્ડ કપ સુધી ફિટ રાખવાનો છે. અહેવાલો અનુસાર, બુમરાહ આ મોટી ટુર્નામેન્ટ પછી ક્રિકેટના લાંબા ફોર્મેટથી દૂર થઈ શકે છે.",
@@ -430,15 +448,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/india-vs-afghanistan-t20-series-2026-schedule-arun-jaitley-stadium-delhi-487434 ",
     "time": "2026-08-11T15:53:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "નિવૃત્તિ લેતાની સાથે જ વાગી ફોનની રિંગ, વિરાટ-રોહિત નહીં આ દિગ્ગજ ક્રિકેટરે કર્યો હતો પહેલો કોલ? રહાણે હવે કર્યો ખુલાસો",
-    "desc": "અજિંક્ય રહાણેએ માત્ર 10 દિવસ પહેલા જ નિવૃત્તિની જાહેરાત કરીને બધાને ચોંકાવી દીધા હતા. રહાણે લાંબા સમયથી સેલેક્ટર્સની રડારથી દૂર હતા. ઘણા મહિનાઓ રાહ જોયા બાદ તેમણે નિવૃત્તિની જાહેરાત કરવાનો નિર્ણય લીધો. હવે તેમણે ખુલાસો કર્યો છે કે, નિવૃત્તિની જાહેરાત બાદ તેમને પહેલો ફોન કોણે કર્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/phone-ring-as-soon-as-he-retired-this-legend-not-virat-rohit-made-the-first-call-ajinkya-rahane-now-reveals-487433 ",
-    "time": "2026-08-11T15:41:29.000Z"
   },
   {
     "cat": "World",
@@ -621,15 +630,6 @@ const newsData_gu = [
     "time": "2026-08-08T04:13:21.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "ભોજપુરી સ્ટાર પવન સિંહ ફિલ્મમાં જબરદસ્તી કિસિંગ સીન કરાવે, ના કહો તો સેટ છોડી જતા રહે, એક્ટ્રેસ કાજલ રાઘવાનીનો આરોપ",
-    "desc": "રિયાલિટી શો ભોજપુરી બવાલનો એક પ્રોમો સોશિયલ મીડિયા પર વાયરલ થયો છે જેમાં એક્ટ્રેસ કાજલ રાઘવાની ભોજપુરી ઈંડસ્ટ્રી વિશે ચોંકાવનારા ખુલાસા કરી રહી છે. જેમાં તે એવું પણ કહે છે કે પવન સિંહ ફિલ્મમાં જબરદસ્તી કિસિંગ સીન એડ કરાવે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/reality-show-jio-hotstar-kajal-raghwani-said-pawan-singh-forcefully-add-kissing-scene-in-movies-487070 ",
-    "time": "2026-08-08T02:31:37.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "TATAની મોટી તૈયારી! લાવી રહી છે 6 એરબેગ્સ અને 360 ડિગ્રી કેમેરાવાળી સસ્તી કાર, જાણો",
     "desc": "ટાટા ટિયાગો ફેસલિફ્ટ પછી, કંપની બીજી કાર માટે ફેસલિફ્ટની યોજના બનાવી રહી છે. ટાટા આ કારને તહેવારોની સીઝન પહેલા લોન્ચ કરે તેવી અપેક્ષા છે. અમે કંપનીની એકમાત્ર સેડાન ટાટા ટિગોર ફેસલિફ્ટ વિશે વાત કરી રહ્યા છીએ. કારના આંતરિક અને બાહ્ય ભાગમાં ઘણા ફેરફારો જોવા મળે તેવી શક્યતા છે.",
@@ -637,14 +637,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/tata-big-preparation-it-is-bringing-a-cheap-car-with-6-airbags-and-360-degree-camera-know-487027 ",
     "time": "2026-08-07T12:28:27.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ઓબામાથી લઈને રાહુલ ગાંધી સુધી... આખરે શું છે &amp;#039;Ask Me Anything&amp;#039;, યુવાનો સાથે સીધા જોડાવા માટે નેતાઓનું બન્યું નવું હથિયાર",
-    "desc": "રાહુલ ગાંધીના ઇન્સ્ટાગ્રામ AMA સેશન બાદ સોશિયલ મીડિયા પર ડિજિટલ વાતચીતનો ટ્રેન્ડ શરૂ થયો છે. ઓબામાથી લઈને એલન મસ્ક સુધીના દિગ્ગજો તેનો ઉપયોગ કરી ચૂક્યા છે. જાણો આખરે શું છે આ Ask Me Anything ફોર્મેટ અને તેની પૂરી કહાની.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/from-obama-to-rahul-gandhi-what-is-ask-me-anything-with-which-big-world-leaders-are-joining-487022 ",
-    "time": "2026-08-07T11:23:09.000Z"
   }
 ];

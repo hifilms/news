@@ -1,6 +1,33 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "অসুস্থ ছেলে! ইন্ডিগো ফ্লাইট বাতিল করতেই মেজাজ হারালেন 'মা', বিমানবন্দরে ভাঙচুর",
+    "desc": "যান্ত্রিক ত্রুটির কারণে ভুবনেশ্বর থেকে কলকাতা যাওয়ার ইন্ডিগো ফ্লাইট বাতিল হওয়ায় বিমানবন্দরে তীব্র বিক্ষোভ ও তাণ্ডব চালান এক মহিলা যাত্রী। নির্ধারিত সময়ে ফ্লাইট না পাওয়ায় তিনি ডিপার্চার লাউঞ্জে জিনিসপত্র ভাঙচুর করেন এবং ক্ষোভে লাগেজ বেল্টের ওপর উঠে পড়েন। পরবর্তীতে সিআইএসএফ কর্মীরা এসে পরিস্থিতি নিয়ন্ত্রণে আনেন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/woman-passenger-causes-commotion-at-bhubaneshwar-airport-after-indigo-flight-cancellation-airline-responds_667034.html ",
+    "time": "2026-08-15T09:06:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ক্যাপ্টেন সোনিয়া সিং চৌহান কে? পতাকা উত্তোলনে নমোর সাহায্যে ছিলেন, লালকেল্লায় এই আর্মি অফিসার ভাইরাল",
+    "desc": "লালকেল্লায় স্বাধীনতা দিবস উদযাপনের সময় প্রধানমন্ত্রী মোদীকে পতাকা উত্তোলনে সাহায্য করেছিলেন এক মহিলা আর্মি অফিসার। তাঁকে নিয়েই এখন বিস্তর চর্চা। কে এই ক্যাপ্টেন সোনিয়া সিং চৌহান। ১৫ অগস্টের ঐতিহাসিক আয়োজনে কী ছিল তাঁর ভূমিকা? জেনে নিন...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/who-is-captain-sonia-singh-chauhan-he-army-officer-who-assisted-pm-modi-in-hoisting-the-flag-india-80th-independence-day_667032.html ",
+    "time": "2026-08-15T08:59:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "স্বাধীনতার ৮০ বছরে লালকেল্লায় ইতিহাস! এই প্রথমবার আনুষ্ঠানিকভাবে বাজল সম্পূর্ণ ‘বন্দে মাতরম’",
+    "desc": "স্বাধীনতার ৮০তম বর্ষে লালকেল্লায় এক ঐতিহাসিক মুহূর্ত তৈরি হল। প্রধানমন্ত্রী নরেন্দ্র মোদীর উপস্থিতিতে এই প্রথমবার জাতীয় সংগীতের পাশাপাশি সম্পূর্ণ ‘বন্দে মাতরম’ জাতীয় গানটি আনুষ্ঠানিকভাবে বাজানো হয়। চলতি বছর গানটির ১৫০ বছর পূর্তি হচ্ছে এবং সম্প্রতি এটিকে জাতীয় সংগীতের সমান আইনি সুরক্ষা প্রদান করা হয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/vande-mataram-played-for-1st-time-during-independence-day-celebrations-at-red-fort_667024.html ",
+    "time": "2026-08-15T06:30:13.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "কৃষি, সফল পাওয়ার ও গ্রিন এনার্জি! লালকেল্লা থেকে ‘সপ্তধারা’ ঘোষণা প্রধানমন্ত্রীর, 'বিকশিত ভারত' গড়ার মহা-পরিকল্পনা",
     "desc": "স্বাধীনতা দিবসের ভাষণে প্রধানমন্ত্রী নরেন্দ্র মোদী ভারতের অগ্রগতির ‘সপ্তধারা’ ঘোষণা করেছেন। এর মধ্যে রয়েছে ম্যানুফ্যাকচারিং, কৃষি, প্রযুক্তি, গতিশক্তি, রক্ষা শক্তি, গ্রিন এনার্জি এবং সফট পাওয়ার। এই সাতটি ধারার মাধ্যমে ২০৪৭ সালের মধ্যে দেশকে একটি আত্মনির্ভর ও উন্নত রাষ্ট্রে পরিণত করার লক্ষ্য নেওয়া হয়েছে।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -97,24 +124,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/bci-halts-lawyer-enrolment-for-nalsar-2026-graduates-amid-cji-convocation-boycott-row_666873.html ",
     "time": "2026-08-13T15:54:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বাইকের দুরন্ত সফরে হাজার হাজার কিমি পাড়ি: ১২ জনের বাইকারের দলে, ২৪-এর ছটফটে তরুণী ঋদ্ধিকে কেড়ে নিল খ্যাপা ট্রাক",
-    "desc": "দুর্ঘটনার খবর পাওয়ামাত্রই ধামতরি পুরনিগমের মেয়র ঘটনাস্থলে পৌঁছন এবং ব্যক্তিগতভাবে উদ্যোগ নিয়ে মুম্বইয়ে রিদ্ধির পরিবারের সদস্যদের সঙ্গে যোগাযোগ করে দুর্ঘটনার বিষয়টি জানান। এই কঠিন সময়ে মৃতার পরিবারকে সবরকম প্রশাসনিক ও মানবিক সাহায্য করার আশ্বাস দিয়েছেন তিনি।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/24-year-old-biker-dies-after-trailer-collides-with-her-motorcycle-on-nh-30_666870.html ",
-    "time": "2026-08-13T15:11:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "নেতাজি বিতর্কের মাঝেই মুখ্যমন্ত্রীর ভূয়সী প্রশংসা সুদীপের! 'বাংলার মানুষ ধন্য ধন্য করবে'",
-    "desc": "'নেতাজি সুভাষচন্দ্র বসু বাংলা এবং বাঙালি শুধু নয়, দেশবাসীর মধ্যে যে আত্মিক যোগ..,মুখ্যমন্ত্রী যথার্থভাবে সঠিক সময়ে পদক্ষেপ নিয়ে এদের শায়েস্তা করতে পারেন, তাহলে বাংলার মানুষ ধন্য ধন্য করবে। আমাদের বিশ্বাস শুভেন্দু অধিকারী সেটা করতে সক্ষম হবে'।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/netaji-controversy-sudip-bandyopadhyay-praises-shuvendu-adhikari-role_666849.html ",
-    "time": "2026-08-13T13:51:21.000Z"
   },
   {
     "cat": "World",
