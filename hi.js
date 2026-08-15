@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "IND vs SL 1st Test, Day 1 LIVE SCORE: India aim to get off to good start to Galle Test",
+    "desc": "India and Sri Lanka are all set to take on each other in the first Test of the upcoming two-game series. The teams meet at the Galle International Stadium, with day 1 of the clash...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-sl-1st-test-day-1-live-score-india-aim-to-get-off-to-good-start-to-galle-test-1051433",
+    "time": "2026-08-15T03:21:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How will weather in Galle fare on day 1 of the first Test?",
+    "desc": "India and Sri Lanka are all set to take on each other in the first Test of the upcoming two-game Test series. The teams will take on each other at the Galle International Stadium for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-sl-weather-report-how-will-weather-in-galle-fare-on-day-1-of-the-first-test-2026-08-15-1051430",
+    "time": "2026-08-15T02:51:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Where to watch India vs Sri Lanka, 1st Test live on TV and stream online?",
+    "desc": "The stage is set for the beginning of the first Test between India and Sri Lanka. The two sides will take on each other across two Test matches, with the first one kicking off at...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/where-to-watch-india-vs-sri-lanka-1st-test-live-on-tv-and-stream-online-2026-08-15-1051423",
+    "time": "2026-08-15T01:45:01.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India vs Sri Lanka 1st Test Pitch Report, how will surface at Galle International Stadium play?",
     "desc": "India will begin their two-match Test series against Sri Lanka at the Galle International Cricket Stadium on Saturday, August 15. The series holds extreme importance in their World Test Championship cycle, especially after a series...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/jemimah-rodrigues-ruled-out-of-asia-cup-asian-games-bcci-announce-odi-world-cup-star-as-replacement-2026-08-14-1051398",
     "time": "2026-08-14T13:51:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Priyansh Arya defends Punjab Kings after IPL 2026 collapse, says 'we didn't suffer because of any individual'",
-    "desc": "Punjab Kings made a flying start to their IPL 2026 campaign, winning six of their first seven matches, with their game against Kolkata Knight Riders washed out due to rain. The Shreyas Iyer-led side quickly...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/priyansh-arya-defends-punjab-kings-after-ipl-2026-collapse-says-we-didn-t-suffer-because-of-any-individual-2026-08-14-1051387",
-    "time": "2026-08-14T12:39:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Auqib Nabi not in contention; one between Gurnoor Brar and Prasidh Krishna to play first Test vs Sri Lanka",
-    "desc": "Indian team returns to red-ball cricket in the first Test against Sri Lanka, starting August 15 in Galle. On the eve of the match, captain Shubman Gill clarified that Jammu and Kashmir pacer Auqib Nabi...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/auqib-nabi-not-in-contention-one-between-gurnoor-brar-and-prasidh-krishna-to-play-first-test-vs-sri-lanka-2026-08-14-1051377",
-    "time": "2026-08-14T11:25:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bhuvneshwar Kumar, Mohammed Shami should get a chance in Indian team: Navdeep Saini",
-    "desc": "Delhi and Kolkata Knight Riders pacer Navdeep Saini believes veteran fast bowlers Mohammed Shami and Bhuvneshwar Kumar deserve another opportunity with the Indian team. Despite continuing to prove their worth in domestic cricket and the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bhuvneshwar-kumar-mohammed-shami-should-get-a-chance-in-indian-team-navdeep-saini-2026-08-14-1051370",
-    "time": "2026-08-14T10:45:38.000Z"
   }
 ];
