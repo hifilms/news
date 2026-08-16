@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'No excuses': Pat Cummins opens up after Bangladesh topple Australia in first Test with sensational show",
+    "desc": "Bangladesh and Australia took on each other in the first Test of the ongoing two-game series. The two sides met each other in Darwin for the first Test, and, much to everyone’s surprise, Bangladesh managed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/no-excuses-pat-cummins-opens-up-after-bangladesh-topple-australia-in-first-test-with-sensational-show-2026-08-16-1051533",
+    "time": "2026-08-16T09:15:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "WTC updated points table after Bangladesh's historic Test victory against Australia",
+    "desc": "Bangladesh put forth a marvellous performance in the first Test of the ongoing two-game series against Australia. The two sides met in Darwin for the clash, where Bangladesh managed to register their first-ever Test victory...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/wtc-updated-points-table-after-bangladesh-s-historic-test-victory-against-australia-2026-08-16-1051527",
+    "time": "2026-08-16T07:32:29.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Bangladesh dismantle Australia in Darwin, register historic first Test win down under",
     "desc": "Bangladesh has scripted history, coming to play against Australia on their home soil; the side has managed to topple the side and register a nine-wicket victory. It is worth noting that the side took on...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/hockey/when-and-where-to-watch-the-men-s-fih-hockey-world-cup-2026-live-on-tv-and-stream-online-in-india-2026-08-15-1051463",
     "time": "2026-08-15T09:34:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australia remain on backfoot after losing four wickets on Day 3 of first Test vs Bangladesh",
-    "desc": "Bangladesh’s impressive showing with the bat ended with the team posting 426 runs on the board in the first innings. Mehidy Hasan Miraz played a fine knock of 65 runs on the morning of Day...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/australia-remain-on-backfoot-after-losing-four-wickets-on-day-3-of-first-test-vs-bangladesh-2026-08-15-1051461",
-    "time": "2026-08-15T09:28:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Going through pain': Inter Miami head coach gives crucial update on Lionel Messi's availability",
-    "desc": "The news of the passing of Lionel Messi’s father, Jorge, has taken world football by storm. It is worth noting that Jorge Messi passed away after battling health issues at the age of 68, with...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/going-through-pain-inter-miami-head-coach-gives-crucial-update-on-lionel-messi-s-availability-2026-08-15-1051460",
-    "time": "2026-08-15T09:10:30.000Z"
   }
 ];

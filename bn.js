@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "'কী করছেন'! ১৭-র শরীরে কামাতুর স্পর্শ...চলন্ত বাইকে চরম অশালীনতা ড্রাইভারের, ভিডিয়ো ভাইরাল",
+    "desc": "এক রোমহর্ষক ভিডিয়োতে কেঁপে গিয়েছে নেটপাড়া। দেখা গিয়েছে যে র‍্যাপিডোর ড্রাইভার এক নাবালককে হেনস্থা করছেন! তাঁকে আপত্তিকর ভাবে স্পর্শ করছেন বারবার। এ বিষয়ে র‍্যাপিডোর দেওয়া তথ্য অনুযায়ী, ওই ক্যাপ্টেনকে প্ল্যাটফর্ম থেকে স্থায়ী ভাবে নিষিদ্ধ করা হয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/rapido-bike-driver-harasses-minor-boy-by-touching-inappropriately_667124.html ",
+    "time": "2026-08-16T09:13:42.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "বাংলা সিনেমায় এক যুগের অবসান! প্রয়াত জাতীয় পুরস্কারপ্রাপ্ত পরিচালক রাজা সেন",
     "desc": "টলিউডে নেমে এল গভীর শোকের ছায়া!দীর্ঘদিন অসুস্থতার সঙ্গে লড়াইয়ের পর কলকাতার এসএসকেএম হাসপাতালে শেষ নিঃশ্বাস ত্যাগ করলেন জাতীয় পুরস্কারপ্রাপ্ত বর্ষীয়ান পরিচালক রাজা সেন। 'দামু' থেকে শুরু করে একাধিক কালজয়ী ছবির স্রষ্টার চিরবিদায়ে বাংলা চলচ্চিত্র জগতে একটি যুগের অবসান।",
@@ -133,15 +142,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/school-thik-karo-abhijeet-dipke-announces-cjp-campaign-for-independence-day-says-rural-kids-failed-in-worst-way_666906.html ",
     "time": "2026-08-14T05:37:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "সুড়ঙ্গে ভয়াবহ বিপর্যয়! হুড়হুড় করে ঢুকে পড়ল জল-জঞ্জাল-কাদা, চাপা মৃত ৭, আহত ১৪",
-    "desc": "টিএইচডিসি জলবিদ্যুৎ প্রকল্পের নির্মীয়মাণ সুড়ঙ্গে ধস নেমে মর্মান্তিক দুর্ঘটনা ঘটেছে। হঠাৎ কাদা ও জল ঢুকে পড়ায় ৭ জন শ্রমিকের মৃত্যু হয়েছে এবং ১৪ জন আহত হয়েছেন। ভেতরে আটকে থাকা এক শ্রমিককে উদ্ধারে এনডিআরএফ ও এসডিআরএফ-এর যৌথ অভিযান চলছে। মুখ্যমন্ত্রী পুষ্কর সিং ধামী পরিস্থিতি নিজে তদারকি করছেন।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/uttarakhands-chamoli-tunnel-collapse-7-killed-14-injured-1-trapped_666886.html ",
-    "time": "2026-08-14T03:37:48.000Z"
   },
   {
     "cat": "World",
@@ -286,15 +286,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/avika-gor-hospitalised-after-working-with-104-degree-fever_666047.html ",
     "time": "2026-08-08T11:59:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "কেন নিজের বোনেরাও জানতে পারেননি সইফের বিয়ের খবর? ৩৩ বছর পর গোপন বিয়ে নিয়ে সোহার বোমা",
-    "desc": "১৯৯১ সালে ২১ বছরের সইফ আলি খান ও বয়সে বড় অমৃতা সিংয়ের আচমকা বিয়ে শোরগোল ফেলেছিল বলিউডে। কিন্তু এতদিন পর দুই বোন সোহা ও সাবার এক বিস্ফোরক বয়ানে তৈরি হলো নতুন রহস্য! স্কুলের প্রিন্সিপালের ঘর থেকে আসা গোপন নির্দেশ আর সম্পূর্ণ আড়ালে ঘটা সেই বিয়ের নেপথ্যে আসলে কী লুকিয়ে ছিল?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/soha-ali-khan-saba-pataudi-reveal-why-they-didnt-attend-saif-ali-khans-wedding-with-amrita-singh_666045.html ",
-    "time": "2026-08-08T11:35:29.000Z"
   },
   {
     "cat": "Business",

@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "17 KM માઇલેજ, સનરૂફ અને ADAS! આ ફેમિલી SUV પર મળી રહ્યું છે ₹2.45 લાખનું બમ્પર ડિસ્કાઉન્ટ",
+    "desc": "ઓગસ્ટ 2026મા Honda Elevate ખરીદવાનો પ્લાન હોય તો તમારા માટે સારા સમાચાર છે. Great Honda Fest કેમ્પેન હેઠળ આ મિડ-સાઇઝ એસયુવી પર 2.45 લાખ સુધીનું ડિસ્કાઉન્ટ આપવામાં આવી રહ્યું છે. તેમાં કેશ ડિસ્કાઉન્ટ, એક્સચેન્જ બોનસ, લોયલ્ટી અને કોર્પોરેટ ઓફર સામેલ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/17-km-mileage-sunroof-and-adas-bumper-discount-of-2-45-lakh-offered-on-this-family-suv-487895 ",
+    "time": "2026-08-16T08:03:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "બાંગ્લાદેશની જીતથી ભારતીય ટીમને આંચકો, WTC પોઇન્ટ્સ ટેબલમાં 5મા સ્થાને ફેંકાઈ",
+    "desc": "બાંગ્લાદેશ ક્રિકેટ ટીમે ઓસ્ટ્રેલિયાને તેના ઘરમાં હરાવી ઈતિહાસ રચી દીધો છે. ટેસ્ટ ક્રિકેટમાં બાંગ્લાદેશની ઓસ્ટ્રેલિયાના ઘરમાં આ પ્રથમ જીત છે. આ જીત સાથે બાંગ્લાદેશે વર્લ્ડ ટેસ્ટ ચેમ્પિયનશિપના પોઈન્ટ ટેબલમાં મોટી છલાંગ લગાવી છે. બાંગ્લાદેશની ટીમ આ જીત સાથે ટેબલમાં પાંચમાં સ્થાને પહોંચી ગઈ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/wtc-india-setback-after-bangladesh-victory-slips-to-5th-position-in-wtc-points-table-487892 ",
+    "time": "2026-08-16T07:12:54.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "KBCમાં દુનિયાના સૌથી નીચા ડૉક્ટર! 3 ફૂટ ઊંચાઈ, સર્કસની ઓફર ઠુકરાવી કર્યું MBBS, ચોંકી ગયા અમિતાભ બચ્ચન",
     "desc": "સૌથી નીચા ડોક્ટર તરીકે જાણીતા ગણેશ બારૈયા અમિતાભ બચ્ચનના શો કૌન બનેગા કરોડપતિ 18 માં દેખાયા હતા. તેમણે શોમાં પોતાના સંઘર્ષો વર્ણવ્યા હતા. તેમણે સમજાવ્યું હતું કે તેમના નાના કદના કારણે તેમને એમબીબીએસમાં પ્રવેશ મળતો નહોતો. જો કે, તેમણે હાર માનવાનો ઇનકાર કર્યો હતો અને આજે તેઓ ડૉક્ટર બન્યા હતા.",
@@ -160,15 +178,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/emraan-hashmi-movie-awarapan-2-first-day-box-office-collection-latest-487788 ",
     "time": "2026-08-15T08:07:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "આઝાદી બાદ પહેલીવાર લાલ કિલ્લા પર ગૂંજ્યું વંદે માતરમ્, પીએમ મોદીએ ફરકાવ્યો તિરંગો",
-    "desc": "80માં સ્વતંત્રતા દિવસે પીએમ મોદીએ દેશવાસીઓને શુભકામના આપી અને અગણીત સ્વતંત્રતા સેનાનીઓના સાહસ, સર્વોચ્ચ બલિદાનને કૃતજ્ઞતાપૂર્વક નમન કરતા શ્રદ્ધાંજલિ આપી. જેમના સંઘર્ષથી દેશને અમૂલ્ય આઝાદી મળી. લાલ કિલ્લાની પ્રાચીરથી પીએમ મોદીએ તિરંગો ફરકાવ્યો અને દેશને સંબોધન પણ કર્યું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/80th-independence-day-pm-modi-hoists-national-flag-at-red-fort-487756 ",
-    "time": "2026-08-15T07:06:57.000Z"
   },
   {
     "cat": "Business",
@@ -423,15 +432,6 @@ const newsData_gu = [
     "time": "2026-08-13T10:48:27.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ઘટી ગયા સોનાના ભાવ ચાંદી પણ ફિક્કી પડી, ઘટેલા ભાવે સોનું ખરીદવાની તક, જાણો આજનો લેટેસ્ટ રેટ",
-    "desc": "સોના અને ચાંદીમાં ભારે ઉથલપાથલનો માહોલ છે. અમેરિકામાં બહાર પડેલા મોંઘવારી દરના આંકડામાં ઘટાડો નોંધાયા બાદ સોનાના ભાવમાં તેજી જોવા મળી હતી પરંતુ આજે ઘર આંગણે કિમતી ધાતુઓનો ભાવ ઘટ્યો છે. પરંતુ વ્યાજ દર પણ જૂના લેવલ પર યથાવત રહેવાથી સોનામાં વધુ તેજી અપેક્ષિત છે. જાણો આજના સોના અને ચાંદીના ભાવ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-saw-a-decline-today-check-latest-rates-of-mcx-ibja-aaj-no-sona-no-bhav-487583 ",
-    "time": "2026-08-13T06:55:03.000Z"
-  },
-  {
     "cat": "World",
     "title": "અમેરિકામાં કામ કરતા ગુજરાતીઓ માટે ખરાબ સમાચાર, નવી ફીએ ટેન્શન વધાર્યું, જાણો કઈ રીતે",
     "desc": "અમેરિકામાં કામ કરતા ગુજરાતીઓમાં પણ નોકરી મા્ટે હંમેશાથી H-1B વિઝા લોકપ્રિય રહ્યા છે. ધીરે ધીરે તેના દ્વારા ગ્રીન કાર્ડનું પ્લાનિંગ કરતા લોકો માટે એક માઠા સમાચાર છે. સરકારનો એક નિયમ ભારતીયોને શું ટેન્શન આપી રહ્યો છે તે ખાસ જાણો.",
@@ -655,14 +655,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/content-creators-get-a-big-blow-x-shuts-down-revenue-sharing-program-know-new-way-to-earn-money-487128 ",
     "time": "2026-08-08T13:57:15.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Jioનો નવો પ્લાન લોન્ચ, માત્ર ₹2,000માં આખું વર્ષ માણો 15+ OTT એપ્સની મજા, સાથે 5G ડેટા પણ ફ્રી",
-    "desc": "જો દર મહિને વિવિધ OTT એપ્સના સબ્સ્ક્રિપ્શન લેવાથી તમારું બજેટ ખોરવાઈ રહ્યું હોય, તો રિલાયન્સ Jio તમારા માટે એક નવો પ્લાન લઈને આવ્યું છે. કંપનીએ ₹550 અને ₹2,000ની કિંમતના બે નવા OTT પ્લાન લોન્ચ કર્યા છે. આ નવા પ્લાનમાં OTT સાથે 5G ઇન્ટરનેટ પણ મળશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/jio-new-ott-pass-rs-550-and-2000-check-all-details-487112 ",
-    "time": "2026-08-08T11:08:49.000Z"
   }
 ];
