@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "ભારત-શ્રીલંકા ટેસ્ટના ત્રીજા દિવસે પણ વરસાદ બનશે વિલન ? જાણો કેવું રહેશે હવામાન",
+    "desc": "ભારત અને શ્રીલંકા વચ્ચે ગાલેમાં ચાલી રહેલી ટેસ્ટ મેચના બીજા દિવસે વરસાદ પડ્યો હતો. જેના કારણે મેચ મોડી શરૂ થઈ હતી, ત્યારે શું ત્રીજા દિવસે પણ વરસાદ મેચની મજા બગાડશે ? આ લેખમાં જાણીશું કે આવતીકાલનું હવામાન કેવું રહેશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/india-vs-sri-lanka-1st-test-3rd-day-weather-update-rain-prediction-galle-487923 ",
+    "time": "2026-08-16T15:12:54.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "વિદેશી રોકાણકારો ફરી એક્ટિવ! ભારતીય શેરોમાં સતત બીજા મહિને મોટું રોકાણ",
+    "desc": "ભારતીય શેરબજારમાં વિદેશી રોકાણકારો (FPI)ની ઘર વાપસી જોવા મળી રહી છે. જુલાઈ બાદ ઓગસ્ટના પ્રથમ 15 દિવસમાં પણ FPIએ ₹16,621 કરોડનું રોકાણ કર્યું છે. આકર્ષક વેલ્યુએશન, મજબૂત કોર્પોરેટ કમાણી, અમેરિકામાં વ્યાજદર ઘટાડાની આશા અને રૂપિયાની સ્થિરતાના કારણે ભારત તરફ વિદેશી મૂડીનો પ્રવાહ વધ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/fpi-return-foreign-investors-continue-buying-indian-stocks-in-august-487922 ",
+    "time": "2026-08-16T14:41:53.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "આ છે દુનિયાનો સૌથી અનોખો ટાપુ, જ્યાં દર 6 મહિને બદલાય છે દેશનું પ્રશાસન; જાણો શું છે તેનો ઈતિહાસ",
+    "desc": "ફ્રાન્સ અને સ્પિન વચ્ચે બિદાસોઆ નદીમાં આવેલો ફીઝન્ટ આઈલેન્ડ દુનિયાના સૌથી અનોખા વિસ્તારોમાં સામેલ છે. આ નાના ટાપુનું પ્રશાસન દર છ મહિને બન્ને દેશો વચ્ચે બદલાય છે. 1659ની ટ્રીટી ઓફ ધ પાયરેનીઝ સાથે જોડાયેલી આ જગ્યાની કહાની ખૂબ જ રસપ્રદ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/this-is-the-most-unique-island-in-the-world-where-the-country-administration-changes-every-6-months-history-of-pheasant-island-487917 ",
+    "time": "2026-08-16T12:45:00.000Z"
+  },
+  {
     "cat": "Business",
     "title": "8મા પગાર પંચમાં બેઝિક પગાર થઈ જશે ₹69,000 ! ફિટમેન્ટ ફેક્ટર પર મોટું અપડેટ",
     "desc": "દેશમાં કર્મચારીઓ માટે પહેલું પગાર પંચ આઝાદી પહેલા લાગુ કરવામાં આવ્યું હતું. આજ સુધીમાં સાત પગાર પંચ લાગુ કરવામાં આવ્યા છે અને દરેક પગાર પંચ બાદ પગારમાં મોટો વધારો થયો છે. ત્યારે 8મા પગાર પંચમાં બેઝિક પગાર અંગે મોટું અપડેટ સામે આવ્યું છે.",
@@ -432,15 +459,6 @@ const newsData_gu = [
     "time": "2026-08-13T12:07:41.000Z"
   },
   {
-    "cat": "Business",
-    "title": "અમીરોની સંખ્યામાં જોરદાર ઉછાળો! 5.35 લાખ લોકોની વાર્ષિક કમાણી 1 કરોડ પાર, 100 કરોડ કમાનારાની સંખ્યા જાણીને ઉઠી જશે હોશ",
-    "desc": "દેશમાં વાર્ષિક એક કરોડ કે તેથી વધુ કમાણી કરનારાઓનો આંકડો વધવાની અસર ટેક્સ કલેક્શન પર પણ જોવા મળી રહી છે. આ જ કારણ છે કે દેશનું ડાયરેક્ટ ટેક્સ કલેક્શન 8.11 લાખ કરોડ રૂપિયા પર પહોંચી ગયું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/huge-jump-in-the-number-of-rich-people-5-35-lakh-people-annual-income-crosses-1-crore-knowing-the-number-of-people-earning-100-crores-will-blow-your-mind-487612 ",
-    "time": "2026-08-13T11:15:08.000Z"
-  },
-  {
     "cat": "World",
     "title": "અમેરિકામાં કામ કરતા ગુજરાતીઓ માટે ખરાબ સમાચાર, નવી ફીએ ટેન્શન વધાર્યું, જાણો કઈ રીતે",
     "desc": "અમેરિકામાં કામ કરતા ગુજરાતીઓમાં પણ નોકરી મા્ટે હંમેશાથી H-1B વિઝા લોકપ્રિય રહ્યા છે. ધીરે ધીરે તેના દ્વારા ગ્રીન કાર્ડનું પ્લાનિંગ કરતા લોકો માટે એક માઠા સમાચાર છે. સરકારનો એક નિયમ ભારતીયોને શું ટેન્શન આપી રહ્યો છે તે ખાસ જાણો.",
@@ -475,15 +493,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/hardik-pandya-trade-rumors-sparks-after-delhi-capitals-post-487554 ",
     "time": "2026-08-12T15:58:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "વર્લ્ડ કપ 2027 બાદ જસપ્રીત બુમરાહ ફક્ત T20 જ રમશે! BCCIએ બનાવ્યો ખાસ પ્લાન, જાણો શું છે કારણ",
-    "desc": "જસપ્રીત બુમરાહની ઈજા ટીમ ઈન્ડિયા માટે એક મોટી સમસ્યા સાબિત થઈ છે. BCCIનો ટાર્ગેટ તેને 2027ના વનડે વર્લ્ડ કપ સુધી ફિટ રાખવાનો છે. અહેવાલો અનુસાર, બુમરાહ આ મોટી ટુર્નામેન્ટ પછી ક્રિકેટના લાંબા ફોર્મેટથી દૂર થઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/jasprit-bumrah-may-be-play-only-t20-after-world-cup-2027-bcci-injury-plan-487528 ",
-    "time": "2026-08-12T11:28:17.000Z"
   },
   {
     "cat": "World",
@@ -583,24 +592,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/ukraine-launched-one-of-deadliest-attack-on-russia-many-killed-487317 ",
     "time": "2026-08-10T12:29:57.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "કુદરતનો કોપ: ભૂકંપ બાદ હવે ‘ટાઈફૂન ડોલ્ફિન’ ગળી જવા તૈયાર, 10 લાખ લોકોનું સ્થળાંતર",
-    "desc": "કુદરતનું ફરી એકવાર સૌથી વિનાશક અને ખૌફનાક સ્વરૂપ સામે આવ્યું છે. પૂર્વોતર એશિયાથી લઈને ચીન અને તાઈવાન સુધી ટાઈકૂન ડોલ્ફિન નામના આ મહાદૈત્યે તબાહીનું એવું તાંડવ મચાવ્યું છે. જેણે માનવ વસાહતોને હચમચાવી નાખી છે. 198 કિલોમીટર પ્રતિ કલાકની ઝડપે ફૂંકાતા પવન અને આકાશમાંથી વરસતી આફતે લાખો લોકોના શ્વાસ અદ્ધર કરી દીધા છે. અત્યારસુધી 10 લાખ લોકોનું સ્થળાંતર કરાયું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/from-japan-to-china-super-typhoon-dolphin-leaves-trail-of-destruction-over-1000000-evacuated-487316 ",
-    "time": "2026-08-10T12:16:49.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "શું રશિયાથી ભારત સુધી શરૂ થશે ટ્રેન? કોને થશે સૌથી મોટો ફાયદો, શું પાકિસ્તાન-અફઘાનિસ્તાન થશે સંમત?",
-    "desc": "મિડલ ઈસ્ટમાં ચાલી રહેલા તણાવ વચ્ચે રશિયાથી ભારત સુધી રેલ કનેક્ટિવિટીની ચર્ચા થઈ રહી છે. ત્યારે આ પ્લાનનો સૌથી મોટો પડકાર એ જ છે કે રેલ લાઇન એવા ઘણા દેશોમાંથી પસાર થશે, જ્યાં રાજકીય અને સુરક્ષા પરિસ્થિતિઓ જટિલ છે. પાકિસ્તાન અને અફઘાનિસ્તાનની સહમતિ વગર આ માર્ગ વ્યવહારિક રૂપ લઈ શકતો નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/will-the-train-from-russia-to-india-start-who-will-benefit-the-most-will-pakistan-afghanistan-agree-487312 ",
-    "time": "2026-08-10T11:23:46.000Z"
   },
   {
     "cat": "Entertainment",

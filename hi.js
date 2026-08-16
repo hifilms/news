@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India continue batting onslaught in rain-marred day 2, set up crucial third day in Galle",
+    "desc": "India and Sri Lanka continued their ongoing first Test of the series. The two sides met for day 2 of the clash at the Galle International Stadium on August 16th. It is worth noting that...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-continue-batting-onslaught-in-rain-marred-day-2-set-up-crucial-third-day-in-galle-2026-08-16-1051551",
+    "time": "2026-08-16T13:09:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "AB de Villiers hails star India batter after magnificent show against Sri Lanka in Galle",
+    "desc": "The Indian team took on Sri Lanka in the first Test of the ongoing two-game series. The two sides met at the Galle International Stadium for the clash, and the performance of star batter Devdutt...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ab-de-villiers-hails-star-india-batter-after-magnificent-show-against-sri-lanka-in-galle-2026-08-16-1051549",
+    "time": "2026-08-16T12:40:46.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Mehidy Hasan Miraz scripts history, achieves massive with stellar all-round show against Australia",
     "desc": "Bangladesh scripted history and defeated Australia in the first Test of the ongoing two-game series. The two sides met for the first Test in Darwin, and Bangladesh registered a nine-wicket win, defeating Australia on their...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/hockey/harmanpreet-singh-strikes-twice-as-india-register-convincing-3-1-win-over-wales-in-hockey-world-cup-2026-08-15-1051481",
     "time": "2026-08-15T13:22:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KL Rahul leaves retired hurt, what happened to India opener in first Test against Sri Lanka in Galle?",
-    "desc": "Star India batter KL Rahul was forced to leave the field during the final session of India’s opening Test against Sri Lanka in Galle. The veteran batter complained of cramps ahead of the start of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-leaves-retired-hurt-what-happened-to-india-opener-in-first-test-against-sri-lanka-in-galle-2026-08-15-1051477",
-    "time": "2026-08-15T12:12:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Devdutt Padikkal smacks maiden Test century as India in complete control of opening Test vs Sri Lanka",
-    "desc": "India’s new number three Devdutt Padikkal has scripted a sensational century against Sri Lanka in the opening of the two-match series at Galle. The 26-year-old arrived at the crease after Yashasvi Jaiswal departed for 32...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/devdutt-padikkal-smacks-maiden-test-century-as-india-in-complete-control-of-opening-test-vs-sri-lanka-2026-08-15-1051471",
-    "time": "2026-08-15T11:07:24.000Z"
   }
 ];
