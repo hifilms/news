@@ -1,21 +1,57 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "landowners meet Minister, Chalakudy MP",
+    "desc": "A section of the landowners, whose holdings have remained effectively frozen for nearly three decades, met Higher Education Minister Roji M. John and Chalakudy MP Benny Behanan on Sunday and submitted a memorandum seeking their intervention.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/sabari-rail-project-delay-leaves-landowners-in-limbo/article71353248.ece",
+    "time": "2026-08-16T19:51:08.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Strikes kill 19 in Russia and Ukraine",
+    "desc": "Over the past week, President Zelenskyy said Ukrainian cities had been pummelled by “more than 1,550 attack drones, nearly 1,560 guided aerial bombs, and 62 missiles”, as he renewed his appeal to allies for more air defence",
+    "img": "https://th-i.thgim.com/public/incoming/1uy868/article71353921.ece/alternates/LANDSCAPE_1200/2026-08-16T132621Z_1142941815_RC2JZMA7YR7J_RTRMADP_3_UKRAINE-CRISIS-DONETSK-ATTACK.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/strikes-kill-several-people-in-russia-and-ukraine/article71353917.ece",
+    "time": "2026-08-16T19:42:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Army Chief Dhiraj Seth visits Nepal to strengthen military ties",
+    "desc": "He will attend an investiture ceremony at Rashtrapati Bhawan, where the Nepalese President will confer on him the honorary rank of General of the Nepali Army, in keeping with the unique tradition between the Indian and Nepali Armies",
+    "img": "https://th-i.thgim.com/public/incoming/w5acxz/article71353907.ece/alternates/LANDSCAPE_1200/20260816338L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/army-chief-dhiraj-seth-nepal-visit-defence-and-military-ties/article71353111.ece",
+    "time": "2026-08-16T19:16:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Junior doctors in A.P. to withdraw emergency services from Monday demanding stipend hike",
+    "desc": "Emergency services, including in the Intensive Care Unit, Casualty and Labour Room in 19 govt. medical colleges in State likely to be affected; Andhra Pradesh Junior Doctors' Association says it was forced to intensify the ongoing agitation as the State government failed to respond to its demands",
+    "img": "https://th-i.thgim.com/public/incoming/m5a7le/article71353776.ece/alternates/LANDSCAPE_1200/6726_16_8_2026_21_32_58_1_000001PROTEST.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/junior-doctors-in-ap-to-withdraw-emergency-services-from-monday-demanding-stipend-hike/article71352771.ece",
+    "time": "2026-08-16T19:05:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "22,000 lawyers on Kerala’s bar council rolls unaccounted for",
+    "desc": "There are around 81,000 lawyers on the rolls of Bar Council of Kerala, of whom only 27,000 have certificates of practice that is mandatory of practising law. The certificates of around 25,000 lawyers are pending with various varsities for verification",
+    "img": "https://th-i.thgim.com/public/incoming/e3hwtq/article71353868.ece/alternates/LANDSCAPE_1200/advocate.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/22000-lawyers-on-keralas-bar-council-rolls-unaccounted-for/article71353162.ece",
+    "time": "2026-08-16T18:39:36.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Chidambaram says he’s proud to be a ‘dimagi Naxal’; Rijiju says PM didn’t mean Opposition leaders",
     "desc": "Addressing the nation on the 80th Independence Day, Prime Minister Modi on August 15 warned the country about “dimagi Naxals” who have allegedly entrenched themselves in the system and continue to pose a threat to society",
     "img": "https://th-i.thgim.com/public/incoming/fempmq/article71353242.ece/alternates/LANDSCAPE_1200/PTI08_12_2026_000274B.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/only-those-who-support-maoists-separatists-are-dimagi-naxals-rijiju-after-oppositions-criticism/article71353198.ece",
     "time": "2026-08-16T17:45:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "After Jharkhand protesters burn Soren, Rahul effigies, government calls them for fourth round of talks",
-    "desc": "Protesters say Congress had promised to withdraw support from JMM-led regime if demand for CBI probe was not addressed by August 15; plan to gherao CM’s residence on August 20 if demands are not heard",
-    "img": "https://th-i.thgim.com/public/incoming/izhxiz/article71350762.ece/alternates/LANDSCAPE_1200/PTI08_15_2026_000703A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-students-demand-congress-to-withdraw-support-from-jmm-coalition-cm-sorens-resignation/article71350761.ece",
-    "time": "2026-08-16T17:36:41.000Z"
   },
   {
     "cat": "Politics",
@@ -34,15 +70,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/annamalailevels-graft-charges-against-some-tamil-nadu-ministers-claims-to-have-audio-clip/article71353265.ece",
     "time": "2026-08-16T17:13:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Junior doctors in A.P. to withdraw emergency services from Monday demanding stipend hike",
-    "desc": "Emergency services, including in the Intensive Care Unit, Casualty and Labour Room in 19 govt. medical colleges in State likely to be affected; Andhra Pradesh Junior Doctors' Association says it was forced to intensify the ongoing agitation as the State government failed to respond to its demands",
-    "img": "https://th-i.thgim.com/public/incoming/m5a7le/article71353776.ece/alternates/LANDSCAPE_1200/6726_16_8_2026_21_32_58_1_000001PROTEST.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/junior-doctors-in-ap-to-withdraw-emergency-services-from-monday-demanding-stipend-hike/article71352771.ece",
-    "time": "2026-08-16T17:10:35.000Z"
   },
   {
     "cat": "Entertainment",
@@ -144,33 +171,6 @@ const newsData_en = [
     "time": "2026-08-16T15:59:23.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Agniveer recruitment list for CAPFs will come from armed forces",
-    "desc": "This indicates that ex-Agniveers may not be allowed to apply directly to the CAPFs for recruitment under the Agniveer quota; though the armed forces do not have caste-based quotas, CAPF caste quotas will apply for recruitment of ex-Agniveers",
-    "img": "https://th-i.thgim.com/public/incoming/sbpa2c/article71353490.ece/alternates/LANDSCAPE_1200/PTI08_02_2026_000114A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/agniveer-recruitment-list-for-capfs-will-come-from-armed-forces/article71352838.ece",
-    "time": "2026-08-16T15:53:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "BTech student from Arunachal Pradesh found dead in Kerala; Minister promises probe as students blame credits-based ‘year back’ system",
-    "desc": "State Higher Education Minister says around 20 students of the college were facing difficulties following the year-back system. The Minister said the A.P.J. Abdul Kalam Technological University had recently decided to put on hold the ‘year back’ system and all colleges affiliated with the university were supposed to comply with the decision",
-    "img": "https://th-i.thgim.com/public/incoming/2ir25o/article71352333.ece/alternates/LANDSCAPE_1200/Roji_m_john_02.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/btech-student-from-arunachal-found-dead-in-kerala-minister-promises-probe-as-students-blame-credits-based-year-back-system/article71352107.ece",
-    "time": "2026-08-16T15:49:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Sabari rail project delay leaves landowners in limbo",
-    "desc": "A section of the landowners, whose holdings have remained effectively frozen for nearly three decades, met Higher Education Minister Roji M. John and Chalakudy MP Benny Behanan on Sunday and submitted a memorandum seeking their intervention.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/sabari-rail-project-delay-leaves-landowners-in-limbo/article71353248.ece",
-    "time": "2026-08-16T15:46:49.000Z"
-  },
-  {
     "cat": "Business",
     "title": "FPIs turn buyers again, pump Rs 16,621 crore into Indian equities in August",
     "desc": "In August, foreign investors turned the tide by purchasing Indian equities, building on the positive momentum from July's inflows. This shift follows a period of substantial selling earlier in the year. With attractive valuations and promising corporate earnings, renewed interest from foreign investors is evident, particularly in the domestic consumption sectors such as healthcare and consumer durables, though fluctuations in global markets may influence these trends.",
@@ -178,15 +178,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/fpis-turn-buyers-again-pump-rs-16621-crore-into-indian-equities-in-august/articleshow/133278037.cms",
     "time": "2026-08-16T15:38:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Asish Banerjee, former Bengal Minister and Trinamool leader, found dead in party office",
-    "desc": "Leader leaves note saying he was not involved in corruption and that attempts were being made to malign him; Chief Minister Suvendu Adhikari calls Ashis Banerjee a “decent political leader”; Mamata Banerjee says time to “reflect on the human cost of relentless political hostility”",
-    "img": "https://th-i.thgim.com/public/incoming/wlvc7m/article71352078.ece/alternates/LANDSCAPE_1200/HP0dEGZbcAARv8X.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/asish-banerjee-former-bengal-minister-and-trinamool-leader-found-dead-in-party-office/article71352050.ece",
-    "time": "2026-08-16T15:37:56.000Z"
   },
   {
     "cat": "Business",
@@ -403,15 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/jnu-recruitment-row-vc-rejects-irregularities-charges-calls-allegations-fake-propaganda/articleshow/133274673.cms",
     "time": "2026-08-16T11:49:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "The Yashwant Varma saga explained",
-    "desc": "Justice Yashwant Varma's residence was engulfed in flames, leading to the shocking discovery of burnt currency notes. A subsequent parliamentary inquiry confirmed serious charges against him, prompting his resignation. The Centre's pursuit of impeachment aims to set a strong precedential framework for judicial accountability. This case also poses critical questions about the interplay between a judge's resignation and ongoing disciplinary proceedings, potentially impacting future cases of judicial misconduct.",
-    "img": "https://static.toiimg.com/photo/msid-133274712,imgsize-974937.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/from-burnt-cash-to-possibly-the-first-impeachment-of-a-judge-the-yashwant-varma-saga-explained/articleshow/133274200.cms",
-    "time": "2026-08-16T11:45:26.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/indias-green-bonds-find-footing-as-stable-greenium-underscores-investor-appetite/article71347030.ece",
     "time": "2026-08-14T16:53:51.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Coal demand to touch 1.6 billion tonnes by 2030; need transparent, market-driven pricing: Official",
+    "desc": "\"Coal demand is projected to rise further to an estimated 1.6 billion tonnes by 2030,\" Dutt said, adding that we are at an \"inflection point\" where we are shifting from a scarcity scenario to one of surplus",
+    "img": "https://th-i.thgim.com/public/incoming/dsb2hk/article71347021.ece/alternates/LANDSCAPE_1200/2026-08-13T121116Z_1330222640_RC2TA6ANUCVR_RTRMADP_3_INDIA-MINING.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/coal-demand-to-touch-16-billion-tonnes-by-2030-need-transparent-market-driven-pricing-official/article71347007.ece",
+    "time": "2026-08-14T16:47:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How Indian badminton grew up between Hyderabad and Delhi",
+    "desc": "The 17 years of quiet, unglamorous institution-building between the first time the country hosted the World championships in 2009 and the upcoming edition in the capital have transformed the sport’s fortunes. The Hindu speaks to P.V. Sindhu, H.S. Prannoy, P. Gopi Chand, Ayush Shetty and BAI general secretary Sanjay Mishra to discover what this journey has entailed",
+    "img": "https://th-i.thgim.com/public/incoming/m2bise/article71346917.ece/alternates/LANDSCAPE_1200/STADIUM%20DEL.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/other-sports/india-badminton-revolution-hyderabad-2009-delhi-2026-bwf-world-championships-sindhu-gopichand-saina-prannoy-ayush/article71346780.ece",
+    "time": "2026-08-14T16:14:31.000Z"
   }
 ];
