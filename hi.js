@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Mehidy Hasan Miraz scripts history, achieves massive with stellar all-round show against Australia",
+    "desc": "Bangladesh scripted history and defeated Australia in the first Test of the ongoing two-game series. The two sides met for the first Test in Darwin, and Bangladesh registered a nine-wicket win, defeating Australia on their...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mehidy-hasan-miraz-scripts-history-achieves-massive-with-stellar-all-round-show-against-australia-2026-08-16-1051544",
+    "time": "2026-08-16T11:33:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer weighs in on Sai Sudharsan's absence after Padikkal's century against Sri Lanka",
+    "desc": "The Indian team took on Sri Lanka in the first Test of the ongoing two-game series. The clash between the two teams began with India coming in to bat first, and the side put in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-weighs-in-on-sai-sudharsan-s-absence-after-padikkal-s-century-against-sri-lanka-2026-08-16-1051537",
+    "time": "2026-08-16T10:30:17.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'No excuses': Pat Cummins opens up after Bangladesh topple Australia in first Test with sensational show",
     "desc": "Bangladesh and Australia took on each other in the first Test of the ongoing two-game series. The two sides met each other in Darwin for the first Test, and, much to everyone’s surprise, Bangladesh managed...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/devdutt-padikkal-smacks-maiden-test-century-as-india-in-complete-control-of-opening-test-vs-sri-lanka-2026-08-15-1051471",
     "time": "2026-08-15T11:07:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Premier League announce multiple changes to rules ahead of new season",
-    "desc": "English football is set for one of its biggest sets of law changes in years. The 2026-27 season is set to bring measures aimed at reducing delays and increasing the amount of time the ball...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/premier-league-announce-multiple-changes-to-rules-ahead-of-new-season-2026-08-15-1051470",
-    "time": "2026-08-15T10:53:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch the Men's FIH Hockey World Cup 2026 live on TV and stream online in India?",
-    "desc": "The stage is set for yet another edition of the men’s FIH Hockey World Cup. It has been over 50 years since the Indian team won the tournament, and the side will be looking to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/hockey/when-and-where-to-watch-the-men-s-fih-hockey-world-cup-2026-live-on-tv-and-stream-online-in-india-2026-08-15-1051463",
-    "time": "2026-08-15T09:34:58.000Z"
   }
 ];
