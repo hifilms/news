@@ -1,6 +1,15 @@
 const newsData_bn = [
   {
     "cat": "Entertainment",
+    "title": "বাংলা সিনেমায় এক যুগের অবসান! প্রয়াত জাতীয় পুরস্কারপ্রাপ্ত পরিচালক রাজা সেন",
+    "desc": "টলিউডে নেমে এল গভীর শোকের ছায়া!দীর্ঘদিন অসুস্থতার সঙ্গে লড়াইয়ের পর কলকাতার এসএসকেএম হাসপাতালে শেষ নিঃশ্বাস ত্যাগ করলেন জাতীয় পুরস্কারপ্রাপ্ত বর্ষীয়ান পরিচালক রাজা সেন। 'দামু' থেকে শুরু করে একাধিক কালজয়ী ছবির স্রষ্টার চিরবিদায়ে বাংলা চলচ্চিত্র জগতে একটি যুগের অবসান।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/veteran-bengali-film-director-raja-sen-passes-away-at-sskm-hospital_667112.html ",
+    "time": "2026-08-16T06:11:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "প্রেম ভাঙল হৃতিক-সাবার? ডেটিং অ্যাপ প্রোফাইল ভাইরাল, তোলপাড় বি-টাউন",
     "desc": "বলিউড তারকা হৃতিক রোশন ও সাবা আজাদের প্রেম ভেঙে যাওয়ার গুঞ্জন এখন তুঙ্গে। একটি ডেটিং অ্যাপে অভিনেতার প্রোফাইল ভাইরাল হওয়ার পর থেকেই এই জল্পনা শুরু হয়। যদিও এ বিষয়ে জুটির পক্ষ থেকে কোনো মন্তব্য করা হয়নি। অতীতে কঙ্গনার সঙ্গে দ্বন্দ্বের প্রসঙ্গ টেনে অনুরাগীদের মনে নানান প্রশ্ন দানা বাঁধছে।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -286,15 +295,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/soha-ali-khan-saba-pataudi-reveal-why-they-didnt-attend-saif-ali-khans-wedding-with-amrita-singh_666045.html ",
     "time": "2026-08-08T11:35:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘স্বরূপ বিশ্বাস শ্লীলতাহানি করেননি...!', রূপটান শিল্পীর উল্টো সুর, ভিডিয়োয় বিস্ফোরক স্বীকারোক্তি",
-    "desc": "টলিউড ফেডারেশনের প্রাক্তন সভাপতি স্বরূপ বিশ্বাসের বিরুদ্ধে শ্লীলতাহানির অভিযোগ তুলে ক্ষমা চাইলেন মেকআপ আর্টিস্ট সিমরন পাল। তবে ‘ঘরশত্রু বিভীষণ’-এর প্ররোচনায় মিথ্যা কেস করার বিস্ফোরক স্বীকারোক্তি উস্কে দিয়েছে নতুন বিতর্ক। কার চক্রান্তে অকারণে এক মাস জেল খাটলেন স্বরূপ? নাকি পর্দার পিছনের গোপন রাজনৈতিক ও ইন্ডাস্ট্রির ক্ষমতার লড়াই ঢাকা পড়ল রহস্যের আড়ালে?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/swarup-biswas-physical-assault-false-case-withdrawn-simran-paul-apologizes_666036.html ",
-    "time": "2026-08-08T09:25:13.000Z"
   },
   {
     "cat": "Business",

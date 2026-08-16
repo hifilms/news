@@ -1,6 +1,42 @@
 const newsData_gu = [
   {
     "cat": "Entertainment",
+    "title": "KBCમાં દુનિયાના સૌથી નીચા ડૉક્ટર! 3 ફૂટ ઊંચાઈ, સર્કસની ઓફર ઠુકરાવી કર્યું MBBS, ચોંકી ગયા અમિતાભ બચ્ચન",
+    "desc": "સૌથી નીચા ડોક્ટર તરીકે જાણીતા ગણેશ બારૈયા અમિતાભ બચ્ચનના શો કૌન બનેગા કરોડપતિ 18 માં દેખાયા હતા. તેમણે શોમાં પોતાના સંઘર્ષો વર્ણવ્યા હતા. તેમણે સમજાવ્યું હતું કે તેમના નાના કદના કારણે તેમને એમબીબીએસમાં પ્રવેશ મળતો નહોતો. જો કે, તેમણે હાર માનવાનો ઇનકાર કર્યો હતો અને આજે તેઓ ડૉક્ટર બન્યા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/worlds-shortest-doctor-in-kbc-3-feet-tall-rejected-circus-offer-to-get-mbbs-amitabh-bachchan-was-shocked-487864 ",
+    "time": "2026-08-16T05:31:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "5 દિવસ ભારે વરસાદની ચેતવણી, આજે ગુજરાત સહિત 16 રાજ્યો માટે એલર્ટ, જાણો આ અઠવાડિયે કેવું રહેશે હવામાન?",
+    "desc": "દેશના 16 રાજ્યોમાં આજે ગાજવીજ અને તોફાની પવનો સાથે વરસાદ પડી શકે છે. તો બીજી તરફ હવામાન વિભાગે આગામી 5 દિવસ માટે હવામાનનું અપડેટ આપ્યું છે. દિલ્હી સહિત ઘણા રાજ્યોમાં હવામાન આજે બદલાઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/warning-of-heavy-rain-for-5-days-alert-issued-for-16-states-today-find-out-what-the-weather-will-be-like-this-week-487863 ",
+    "time": "2026-08-16T05:09:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "&amp;#039;તો હું ભાષણ નહીં આપું&amp;#039;, જ્યારે સ્વતંત્રતા દિવસ પહેલા જીદ પર બેસી ગયા હતા PM મોદી",
+    "desc": "ભૂતપૂર્વ રક્ષા સચિવ આર.કે. માથુરે યાદ કર્યું કે 2014માં પહેલી વાર લાલ કિલ્લાના પ્રાચીર પરથી રાષ્ટ્રને સંબોધન કરતા પહેલા, પીએમ મોદી જીદ પકડીને બેસી ગયા હતા. તેમણે જણાવ્યું કે જો બુલેટપ્રૂફ કાચ દૂર નહીં થાય તો તેઓ પોતાનું ભાષણ નહીં આપે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/then-i-wont-give-a-speech-when-pm-modi-stubbornly-sat-down-before-independence-day-487860 ",
+    "time": "2026-08-16T04:39:06.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ડોનાલ્ડ ટ્રમ્પ ત્રીજી વખત બનશે પ્રમુખ? 2028ની ચૂંટણી લડવાની અટકળો, જાણો સોશિયલ મીડિયા પોસ્ટમાં શું આપ્યા સંકેત?",
+    "desc": "અમેરિકામાં આગામી પ્રમુખ પદની ચૂંટણી 2028માં યોજાશે અને વર્તમાન પ્રમુખ ટ્રમ્પે ચૂંટણી અંગે મોટો સંકેત આપ્યો છે. તેમણે એક સોશિયલ મીડિયા પોસ્ટ લખી છે, જેમાં તેમણે પોતાની રાજકીય કારકિર્દીની ત્રીજી પ્રમુખ પદની ચૂંટણી લડવાના સંકેત આપ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/will-donald-trump-become-president-for-a-third-time-speculation-mounts-about-a-2028-run-find-out-what-hints-were-dropped-in-his-social-media-post-487859 ",
+    "time": "2026-08-16T03:52:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "અંતે ગોવિંદાનો ગુસ્સો ફુટ્યો, જાહેરમાં કહ્યું સુનીતા હદમાં રહેજે... લોકઅપ 2 નો પણ કર્યો ઉલ્લેખ",
     "desc": "અત્યાર સુધી તો માત્ર સુનીતા આહુજા જ ગોવિંદા અને કોમલ રાની સ્વર્ણકાર માટે મીડિયા સામે બોલતી હતી. હવે જ્યારે સુનીતા આહુજાએ કેમેરા સામે ગોવિંદાને સુગર ડેડી કહી દીધો છે તો ગોવિંદાનો ગુસ્સો પણ ફુટ્યો છે. તેણે પણ જાહેરમાં સુનીતા આહુજાને હદમાં રહેવા ચેતવણી આપી દીધી છે...",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -214,24 +250,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/independence-day-2026-pm-modi-turban-look-2014-to-2026-487757 ",
     "time": "2026-08-15T02:53:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ભારત આઝાદ થયું છતાં ગોવામાં કેમ હતું પોર્ટુગીઝ શાસન? કઈ રીતે મુક્ત થયું, જાણો &amp;#039;ઓપરેશન વિજય&amp;#039; વિશે",
-    "desc": "શું તમને ખબર છે કે ભારત જ્યારે 15 ઓગસ્ટ 1947ના દિવસે આઝાદ થયું હતું ત્યારે એવા પણ કેટલાક વિસ્તારો હતા જેમને તે દિવસે આઝાદીની ઉજવણી કરવા મળી નહતી. જેમાં ગોવા અને દીવ દમણ સહિત કેટલાક વિસ્તારોનો સમાવેશ થાય છે. કઈ રીતે ઓપરેશન વિજયથી ગોવાને ભારત સાથે જોડાયું તે જાણવા ઈતિહાસ પર ફેરવો નજર.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/why-was-portuguese-rule-in-goa-even-though-india-became-independent-know-about-operation-vijay-487753 ",
-    "time": "2026-08-15T01:16:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "કોકરોચ જનતા પાર્ટી આવતીકાલથી શરૂ કરવા જઈ રહી છે આ અભિયાન, અભિજીત દીપકેના ગામથી થશે શરૂઆત",
-    "desc": "અભિજીત દીપકેએ જણાવ્યું કે, અમે એવી ઘણી ટીમો બનાવી છે જે ગામડાઓમાં જશે અને ત્યાંના લોકો તથા સરપંચોને શાળાઓની સ્થિતિ સુધારવા માટે પગલાં ભરવા વિનંતી કરશે, કારણ કે અમે આ કામ સામૂહિક ભાગીદારી દ્વારા પૂરું કરવા માંગીએ છીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/cockroach-janata-party-is-going-to-start-this-campaign-from-tomorrow-it-will-start-from-abhijeet-deepke-village-487752 ",
-    "time": "2026-08-14T17:52:22.000Z"
   },
   {
     "cat": "Tech",
@@ -585,15 +603,6 @@ const newsData_gu = [
     "time": "2026-08-10T11:23:46.000Z"
   },
   {
-    "cat": "World",
-    "title": "ઊંઘમાંથી જાગ્યો દરિયાઈ રાક્ષસ! ડ્રેગનને ડૂબાડી શાંઘાઈને તબાહ કરી નાખ્યું, 150 વર્ષમાં ક્યારેય ન જોઈ હોય તેવી તબાહી મચાવી",
-    "desc": "કુદરત જ્યારે વિકરાળ સ્વરૂપ ધારણ કરે છે ત્યારે વિજ્ઞાન અને પ્રગતિ લાચાર બની જાય છે. ખાસ કરીને, જ્યારે તોફાનોની વાત આવે છે, ત્યારે ડોલ્ફિન નામનું વાવાઝોડું હાલમાં ચીનના એ શહેરને તબાહ કરી રહ્યું છે જેને એડવાન્સ ટેકનોલોજી અને વિજ્ઞાનનું હબ ગણવામાં આવે છે. 150 કિલોમીટરની ઝડપે ફૂંકાયેલા પવનોને કારણે 10 લાખ લોકોને અસર પહોંચી છે અને અનેક ઘરોમાં વીજળી નથી. ચીન અને જાપાન જ નહીં આ વાવાઝોડું ભારતને પણ ગંભીર અસર કરશે જોઈએ આ અહેવાલમાં...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/typhoon-dolphin-havoc-in-china-over-1-million-evacuated-blue-warning-issued-487311 ",
-    "time": "2026-08-10T11:18:26.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "15 એપિસોડની ભારતીય ટ્રેનની યાત્રા પર આધારિત જોવા જેવી સીરીઝ, યુટ્યુબ પર જોઈ શકો છો ફ્રીમાં",
     "desc": "દુરદર્શન પર એક એવી સીરીઝ રિલીઝ કરવામાં આવી હતી જે દેશભરમાં લોકપ્રિય થઈ હતી. શ્યામ બેનેગલની આ સીરીઝને ભારતીય રેલ્વેએ સ્પોન્સર કરી હતી. આ સીરીઝના દરેક એપિસોડ મજેદાર છે જેને તમે યુટ્યુબ પર ફ્રીમાં જોઈ શકો છો.",
@@ -655,23 +664,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/jio-new-ott-pass-rs-550-and-2000-check-all-details-487112 ",
     "time": "2026-08-08T11:08:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "રિયાલીટી શોમાં શ્વેતા તિવારીનો ધડાકો, કહ્યું પતિઓને ચીટીંગ કરતાં રંગેહાથ પકડ્યા હતા",
-    "desc": "રિયાલીટી શો ટ્રેટર્સ 2 ધમાકેદાર રહેશે તેવું લાગી રહ્યું છે. ખાસ કરીને લોકોની નજર શ્વેતા તિવારી પર રહેવાની છે. કારણ કે આ શોમાં શ્વેતા તિવારી ખુલાસો કરશે કે તેણે તેના પતિઓને ચિટીંગ કરતાં રંગેહાથ પકડ્યા હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/tv-actress-shweta-tiwari-said-on-the-traitors-2-that-she-caught-her-husbands-doing-cheating-on-her-487098 ",
-    "time": "2026-08-08T08:52:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "50% માર્કેટ પર રાજ કરે છે આ 7-સીટર કાર! જાણો કોણ છે દેશની નંબર-1 ફેમિલી કાર, જુલાઈમાં સૌથી વધુ વેચાઈ",
-    "desc": "7-સીટર ફેમિલી કાર ઇચ્છતા ગ્રાહકો પાસે બે વિકલ્પો છે, તેઓ SUV અથવા MPV પસંદ કરી શકે છે. ફેમિલી કાર ઇચ્છતા લોકોની મોટી સંખ્યા MPV પસંદ કરે છે, અને એક કારને આનો સૌથી વધુ ફાયદો થાય છે. આ કાર લગભગ અડધા બજાર પર કબજો કરે છે. ચાલો જોઈએ કે જુલાઈમાં કોણે કેટલી MPV વેચી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/this-7-seater-car-rules-50-percent-of-the-market-know-which-is-the-country-number-1-family-car-sold-most-in-july-487092 ",
-    "time": "2026-08-08T07:27:48.000Z"
   }
 ];

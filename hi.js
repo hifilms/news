@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Bangladesh dismantle Australia in Darwin, register historic first Test win down under",
+    "desc": "Bangladesh has scripted history, coming to play against Australia on their home soil; the side has managed to topple the side and register a nine-wicket victory. It is worth noting that the side took on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-dismantle-australia-in-darwin-register-historic-first-test-win-down-under-2026-08-16-1051516",
+    "time": "2026-08-16T05:11:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer backs Devdutt Padikkal to continue onslaught against Sri Lanka after day 1 century",
+    "desc": "The Indian team put in a good show against Sri Lanka on day 1 of the ongoing first Test between the two sides. The teams met at the Galle International Stadium, and India came in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-backs-devdutt-padikkal-to-continue-onslaught-against-sri-lanka-after-day-1-century-2026-08-16-1051515",
+    "time": "2026-08-16T05:05:33.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Devdutt Padikkal's dominating century, KL Rahul's impactful knock help India establish authority vs Sri Lanka",
     "desc": "Devdutt Padikkal marked his return to India’s Test side with a superb unbeaten 131 as India finished a rain-interrupted opening day of the first Test against Sri Lanka on 288 for 4 in Galle. Notably,...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/going-through-pain-inter-miami-head-coach-gives-crucial-update-on-lionel-messi-s-availability-2026-08-15-1051460",
     "time": "2026-08-15T09:10:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "UPT20 League begins in style as CM Yogi Adityanath hosts coin toss before opening match",
-    "desc": "Uttar Pradesh Chief Minister Yogi Adityanath was present at the opening ceremony of the ongoing UPT20 League as he kicked off the latest edition of the tournament in style. The fourth edition of the tournament...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/upt20-league-begins-in-style-as-cm-yogi-adityanath-hosts-coin-toss-before-opening-match-2026-08-15-1051456",
-    "time": "2026-08-15T08:21:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Babar Azam suffers injury scare, ruled out of warm-up clash before three-match Test series vs England",
-    "desc": "Pakistan captain Babar Azam has been ruled out of the remainder of his side’s warm-up match against Professional County Club Select XI after being struck on the hand while batting. The incident happened when the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/babar-azam-suffers-injury-scare-ruled-out-of-warm-up-clash-before-three-match-test-series-vs-england-2026-08-15-1051451",
-    "time": "2026-08-15T07:51:24.000Z"
   }
 ];
