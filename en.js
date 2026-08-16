@@ -1,6 +1,42 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "'Spider-Man' LAGS BEHIND 'Awarapan 2' by HUGE margin",
+    "desc": "Brand New Day has earned more than ten crore rupees on day seventeen at the Indian box office. The film's cumulative net earnings in India now stand at over four hundred fifty-seven crore rupees, making it the top-grossing film in the country. Analysts anticipate that it will soon surpass the six hundred crore barrier, further cementing its blockbuster status.",
+    "img": "https://static.toiimg.com/photo/msid-133268644,imgsize-668907.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/spider-man-brand-new-day-box-office-collection-day-17-tom-holland-starrer-sees-big-jump-on-third-saturday-still-lags-behind-massive-awarapan-2-earnings/articleshow/133268642.cms",
+    "time": "2026-08-16T00:45:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Fauzi': Anupam Kher says 'Proud to be part of this magnum opus'",
+    "desc": "The upcoming movie 'Fauzi' starring Prabhas has released a new poster. This period action drama is set against a historical backdrop and will release worldwide. Anupam Kher and Mithun Chakraborty are also featured in important roles. Prabhas reportedly portrays a British Indian soldier in this fictional story. The film is scheduled for a grand theatrical release on December 3, 2026.",
+    "img": "https://static.toiimg.com/photo/msid-133268630,imgsize-356720.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/fauzi-anupam-kher-says-proud-to-be-part-of-this-magnum-opus-prabhas-starrer-gets-new-independence-day-poster/articleshow/133268626.cms",
+    "time": "2026-08-16T00:31:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Vishwanath and Sons' vs 'Jana Nayagan' box office collections",
+    "desc": "Vishwanath and Sons saw significant box office growth on its second day. The film collected over twenty-two crore rupees in India on Saturday. Its Tamil and Telugu versions contributed strongly to the overall collections. Worldwide gross collections for the film have now surpassed seventy-four crore rupees. Meanwhile, Jana Nayagan continues its theatrical run, nearing its final stage.",
+    "img": "https://static.toiimg.com/photo/msid-133268577,imgsize-411760.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vishwanath-and-sons-vs-jana-nayagan-box-office-collections-suriyas-film-grows-45on-day-2-vijays-film-earns-rs-196-15-crore-in-24-days/articleshow/133268575.cms",
+    "time": "2026-08-16T00:11:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Moon Base",
+    "desc": "NASA has invited ISRO to participate in its latest lunar programme, which seeks to build a human outpost near the Moon’s south pole, where sunlight is available for longer periods and permanently shadowed craters contain significant deposits of water ice",
+    "img": "https://th-i.thgim.com/public/incoming/ozliz1/article71350557.ece/alternates/LANDSCAPE_1200/2026-05-26T205651Z_2102108279_RC27HLAE8TK8_RTRMADP_3_SPACE-MOON.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/science/moon-base-indias-lunar-future/article71350559.ece",
+    "time": "2026-08-15T20:41:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "'Cocktail 2' OTT release X review: Netizens call it rage bait",
     "desc": "Cocktail 2, starring Kriti Sanon and Shahid Kapoor, is now streaming on OTT. The film explores trust and relationships, leading to a complicated love triangle. Viewers have criticized the movie's nonsensical storyline and character decisions. Rashmika Mandanna's dialogue delivery also faced audience scrutiny. Despite mixed reviews, the film has generated significant online conversation.",
     "img": "https://static.toiimg.com/photo/msid-133267527,imgsize-350771.cms",
@@ -405,15 +441,6 @@ const newsData_en = [
     "time": "2026-08-15T12:13:14.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Govinda reacts to Sunita Ahuja’s remarks",
-    "desc": "Govinda has made a public plea for his wife, Sunita Ahuja, to cease her use of foul language, notably phrases referencing mothers and sisters. Concerned about the effects of such behavior on impressionable youth, the actor highlighted the responsibilities of public figures. Sunita's frank comments about their life together have also caught the public's attention, igniting lively discussions among supporters.",
-    "img": "https://static.toiimg.com/photo/msid-133262072,imgsize-230014.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govinda-strongly-reacts-to-sunita-ahujas-remarks-urges-her-to-be-mindful-of-repeated-abusive-language-involving-family-if-people-start-abusing-your-mother-and-sister-we-will-be-embarrassed/articleshow/133262069.cms",
-    "time": "2026-08-15T11:55:48.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Padikkal smashes maiden Test century, makes strong case at no. 3 in Galle",
     "desc": "In a stellar performance, Devdutt Padikkal notched his maiden Test century against Sri Lanka in Galle, becoming the second Indian left-hander this century to achieve this feat at the number three position. His remarkable innings provided India with the much-needed stability they've been seeking in that spot. Padikkal's stellar form from the Ranji Trophy carried over to the international stage, and he joyfully celebrated with his coaches and teammates.",
@@ -486,15 +513,6 @@ const newsData_en = [
     "time": "2026-08-15T11:26:47.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Saba Pataudi recalls Saif Ali Khan stealing her favourite T-shirt",
-    "desc": "In a nostalgic moment, Saba Pataudi shared delightful memories of mischief with her brother Saif Ali Khan, underlining the strong familial bonds of the Pataudi clan. She expressed admiration for Saif's relentless work ethic and inherent talent for acting. Saba also praised Kareena Kapoor's boldness and honesty, showcasing how the family thrives on both independence and a deep-rooted commitment to one another.",
-    "img": "https://static.toiimg.com/photo/msid-133261150,imgsize-441456.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saba-pataudi-recalls-saif-ali-khan-stealing-her-favourite-t-shirt-calls-kareena-kapoor-very-straightforward-and-supportive-kareena-is-not-dramatic-she-is-entertaining-and-doesnt-pretend-to-be-anyone-else/articleshow/133261126.cms",
-    "time": "2026-08-15T11:05:41.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "IPL cricketer Abishek Porel denied bail in alleged rape case",
     "desc": "Abishek Porel, Delhi Capitals and Bengal cricketer, has been denied bail in an alleged rape and blackmail case involving a medical student. Arrested in Hooghly on August 11, he was sent to 14 days of judicial custody. The complainant alleged he promised marriage, later threatened to share private photos and illegally confined her during an April incident.",
@@ -513,24 +531,6 @@ const newsData_en = [
     "time": "2026-08-15T10:30:56.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Midnight wasn't the end: What happened in the first few hours of Independent India",
-    "desc": "India's liberation from British rule was celebrated at midnight on August 15, 1947, as Jawaharlal Nehru captivated everyone with his famed 'Tryst with Destiny' speech. Following this historic moment, the newly formed government not only celebrated freedom but also faced daunting challenges related to governance and nation-building, with Lord Mountbatten taking charge as the first Governor-General during a time marked by the chaos of Partition.",
-    "img": "https://static.toiimg.com/photo/msid-133259650,imgsize-190625.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/midnight-wasnt-the-end-what-happened-in-the-first-few-hours-of-independent-india/articleshow/133259650.cms",
-    "time": "2026-08-15T10:20:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CJI Surya Kant urges young lawyers to shoulder responsibility of future, says ‘much remains to be done’",
-    "desc": "Chief Justice Surya Kant addressed young lawyers at the Supreme Court Bar Association's event. He acknowledged India's progress while stressing much remains to be done. The responsibility of the legal profession will soon rest on their shoulders. He highlighted the historical connection between law and India's freedom struggle. Young lawyers are encouraged to protect and carry forward justice institutions.",
-    "img": "https://static.toiimg.com/photo/msid-133260372,imgsize-63500.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cji-surya-kant-urges-young-lawyers-to-shoulder-responsibility-of-future-says-much-remains-to-be-done/articleshow/133260315.cms",
-    "time": "2026-08-15T10:17:18.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Injury scare’ for Babar Azam ahead of England Tests as Pakistan captain rested",
     "desc": "Pakistan captain Babar Azam sustained a hand injury during a warm-up match. He was forced to retire from the game as a precautionary measure. Azam is expected to return to training on Monday before the series begins. The three-Test series against England is scheduled to start on August 19. His availability remains a key talking point for the visiting team.",
@@ -538,24 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/injury-scare-for-babar-azam-ahead-of-england-tests-as-pakistan-captain-rested/articleshow/133260322.cms",
     "time": "2026-08-15T10:15:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Awarapan 2' OTT release: When and where to stream Emraan Hashmi and Disha Patani starrer?",
-    "desc": "The romantic thriller Awarapan 2, starring Emraan Hashmi and Disha Patani, released in theatres on August 14. A sequel to Hashmi's 2007 film 'Awarapan', the movie has already surpassed the lifetime collection of its predecessor on opening day itself, raking in over Rs. 21 crore at the box office despite stiff competition from 'Batwara 1947' and 'Vishwanath & Sons'. With its theatrical run now underway, here's where you'll be able to watch it online once it heads to streaming.",
-    "img": "https://static.toiimg.com/photo/msid-133260067,imgsize-110025.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/awarapan-2-ott-release-when-and-where-to-stream-emraan-hashmi-and-disha-patani-starrer-sequel-online-after-its-theatrical-release/articleshow/133260026.cms",
-    "time": "2026-08-15T09:59:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Public services neglected': CJP's new campaign to check facilities at public hospitals",
-    "desc": "The Cockroach Janata Party will launch a statewide campaign to assess the conditions in public hospitals. This initiative follows their \"School Thik Karo\" campaign, which audits the amenities in government schools. The party founder alleged that patients face long delays and poor facilities in public healthcare. They aim to document infrastructure deficiencies and treatment access issues in hospitals. Findings will be used to press for improvements in public education and healthcare.",
-    "img": "https://static.toiimg.com/photo/msid-133259755,imgsize-131592.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/public-services-neglected-cjps-new-campaign-to-check-facilities-at-public-hospitals/articleshow/133259713.cms",
-    "time": "2026-08-15T09:31:16.000Z"
   },
   {
     "cat": "Sports",
@@ -574,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/why-indias-gcc-boom-is-facing-a-talent-problem-and-what-companies-want-next/articleshow/133259644.cms",
     "time": "2026-08-15T09:19:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Ireland’s Independence Day?’ Congress mocks PM Modi over Tricolour pocket square",
-    "desc": "In his post, Khera wrote, \"Lagta hai sahib ne Urdu mein Tiranga pehna hai. Ya phir Bharat India ki jagah Ireland ka Independence Day mana rahay hain. (Looks like the sahib is wearing the Tricolour in Urdu. Or perhaps, instead of India, he is celebrating Ireland's Independence Day).\" PM Modi delivered his 13th consecutive Independence Day address from the Red Fort, continuing a tradition that began in 2014.",
-    "img": "https://static.toiimg.com/photo/msid-133259605,imgsize-42744.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/irelands-independence-day-congress-mocks-pm-modi-over-tricolour-pocket-square/articleshow/133259581.cms",
-    "time": "2026-08-15T09:13:42.000Z"
   },
   {
     "cat": "Entertainment",
@@ -898,5 +871,32 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/meta-will-soon-face-another-high-stakes-trial-in-us/article71326861.ece",
     "time": "2026-08-10T04:31:54.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Teaching AI to speak India",
+    "desc": "Artificial intelligence can chat, translate and answer questions but only if it understands your language. At IIT Madras, researchers at AI4Bharat are travelling across India, collecting voices, preserving dialects and teaching AI to understand the country’s incredible linguistic diversity.",
+    "img": "https://th-i.thgim.com/public/incoming/y693sa/article71280832.ece/alternates/LANDSCAPE_1200/iStock-1066071372.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/internet/teaching-ai-to-speak-india/article71280380.ece",
+    "time": "2026-08-09T00:15:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Karnataka explores partnership with Anthropic for governance, skilling and deep-tech growth",
+    "desc": "CM D.K. Shivakumar sought Anthropic’s expertise on how AI could help reduce fraud in government systems and improve the effectiveness, security and confidentiality of setting question papers for examinations conducted by various government agencies and educational institutions.",
+    "img": "https://th-i.thgim.com/public/news/national/karnataka/qs12uq/article71313384.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-06%20at%2017.14.14.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-explores-partnership-with-anthropic-for-governance-skilling-and-deep-tech-growth/article71312525.ece",
+    "time": "2026-08-08T19:02:03.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Diesel’s desire: an engine for everyone",
+    "desc": "For someone who wished to build an engine for everyone, August turned out to be an auspicious month. On August 10, 1893, Rudolf Diesel’s prime model was powered on its own for the first time. Five years later, on August 9, 1898, Diesel obtained a U.S. patent titled “Internal-combustion engine”. Join A.S.Ganesh as he tries to explain what fuelled Diesel’s desire…",
+    "img": "https://th-i.thgim.com/public/incoming/o3bduy/article71285498.ece/alternates/LANDSCAPE_1200/09istb%20Historical_Diesel_engine_in_Deutsches_Museum.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/diesels-desire-an-engine-for-everyone/article71285487.ece",
+    "time": "2026-08-08T06:54:25.000Z"
   }
 ];
