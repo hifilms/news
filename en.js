@@ -1,12 +1,219 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Chidambaram says he’s proud to be a ‘dimagi Naxal’; Rijiju says PM didn’t mean Opposition leaders",
+    "desc": "Addressing the nation on the 80th Independence Day, Prime Minister Modi on August 15 warned the country about “dimagi Naxals” who have allegedly entrenched themselves in the system and continue to pose a threat to society",
+    "img": "https://th-i.thgim.com/public/incoming/fempmq/article71353242.ece/alternates/LANDSCAPE_1200/PTI08_12_2026_000274B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/only-those-who-support-maoists-separatists-are-dimagi-naxals-rijiju-after-oppositions-criticism/article71353198.ece",
+    "time": "2026-08-16T17:45:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "After Jharkhand protesters burn Soren, Rahul effigies, government calls them for fourth round of talks",
+    "desc": "Protesters say Congress had promised to withdraw support from JMM-led regime if demand for CBI probe was not addressed by August 15; plan to gherao CM’s residence on August 20 if demands are not heard",
+    "img": "https://th-i.thgim.com/public/incoming/izhxiz/article71350762.ece/alternates/LANDSCAPE_1200/PTI08_15_2026_000703A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-students-demand-congress-to-withdraw-support-from-jmm-coalition-cm-sorens-resignation/article71350761.ece",
+    "time": "2026-08-16T17:36:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A uniform 50% increase in LS seats is pulling the wool over someone’s eyes, says Praveen Chakravarty",
+    "desc": "Commenting on the Gen Z protests that led to the resignation of Union Education Minister Dharmendra Pradhan, he says the younger generation seek a radical change and don’t like the entrenched politics of the establishment",
+    "img": "https://th-i.thgim.com/public/incoming/o5oqiv/article71353589.ece/alternates/LANDSCAPE_1200/datacongress_27.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/a-uniform-50-increase-in-ls-seats-is-pulling-the-wool-over-someones-eyes-says-praveen-chakravarty/article71353328.ece",
+    "time": "2026-08-16T17:33:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Annamalai levels graft charge against some Tamil Nadu Ministers, claims to have audio clip",
+    "desc": "However, the founder of We The Leaders did not name anyone. He also claimed to have an audio clip to prove his claim. He urged Chief Minister C. Joseph Vijay to “bridle” his Ministers and officials",
+    "img": "https://th-i.thgim.com/public/incoming/37o2a5/article71353758.ece/alternates/LANDSCAPE_1200/2085_13_7_2026_13_21_54_4_DSC_8651.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/annamalailevels-graft-charges-against-some-tamil-nadu-ministers-claims-to-have-audio-clip/article71353265.ece",
+    "time": "2026-08-16T17:13:48.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Junior doctors in A.P. to withdraw emergency services from Monday demanding stipend hike",
     "desc": "Emergency services, including in the Intensive Care Unit, Casualty and Labour Room in 19 govt. medical colleges in State likely to be affected; Andhra Pradesh Junior Doctors' Association says it was forced to intensify the ongoing agitation as the State government failed to respond to its demands",
-    "img": "https://th-i.thgim.com/public/incoming/pij0lt/article71353384.ece/alternates/LANDSCAPE_1200/0003Docs.jpg",
+    "img": "https://th-i.thgim.com/public/incoming/m5a7le/article71353776.ece/alternates/LANDSCAPE_1200/6726_16_8_2026_21_32_58_1_000001PROTEST.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/andhra-pradesh/junior-doctors-in-ap-to-withdraw-emergency-services-from-monday-demanding-stipend-hike/article71352771.ece",
-    "time": "2026-08-16T15:08:02.000Z"
+    "time": "2026-08-16T17:10:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All about 'F1' star Brad Pitt’s stunning car collection",
+    "desc": "Brad Pitt boasts an impressive lineup of exquisite vehicles. Among his collection is a striking Lamborghini Aventador, with a price tag of USD 254,799. He also owns a luxurious Bentley Continental GT worth USD 225,000. For an eco-friendly twist, the star drives a high-performance electric Porsche Taycan Turbo S, rounded off with the sophisticated Aston Martin Vanquish Carbon, showcasing his taste for the finer things.",
+    "img": "https://static.toiimg.com/photo/msid-133276264,imgsize-268219.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brad-pitts-luxurious-car-collection-from-smooth-electric-cars-to-rare-carbon-fibre-editions/articleshow/133276201.cms",
+    "time": "2026-08-16T17:09:03.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Hamas expects meeting with Kushner as U.S. pushes Gaza plan",
+    "desc": "Hamas on July 30 said that it would hand over its weapons to a new Palestinian governing body as part of the latest stage in a Gaza ceasefire declared by Mr. Trump, who hailed their agreement as a \"major milestone\".",
+    "img": "https://th-i.thgim.com/public/incoming/fpz7l1/article71353748.ece/alternates/LANDSCAPE_1200/Mideast_Wars_Gaza_75268.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/hamas-expects-meeting-with-kushner-as-us-pushes-gaza-plan/article71353724.ece",
+    "time": "2026-08-16T16:58:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ronaldo drops bombshell retirement hint, reveals plans for life after football",
+    "desc": "Cristiano Ronaldo has suggested the 2026-27 season could be the final year of his playing career, saying he wants to leave a “spectacular legacy”. The 41-year-old remains contracted to Al Nassr until June 2027 and has begun planning life after football, including spending more time with family, travelling and playing padel.",
+    "img": "https://static.toiimg.com/photo/msid-133278782,imgsize-69390.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/cristiano-ronaldo-drops-bombshell-retirement-hint-this-is-probably-my-last-year-reveals-plans-after-football/articleshow/133278732.cms",
+    "time": "2026-08-16T16:56:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Arsenal crush Man City 3-0 in Community Shield, hand Maresca nightmare start",
+    "desc": "Arsenal thrashed Manchester City 3-0 in the Community Shield, scoring within 24 seconds through Riccardo Calafiori. Kai Havertz and Martin Odegaard added further goals as City struggled. Erling Haaland had just seven touches before being substituted, while Rodri’s absence exposed midfield concerns. Arsenal captain Odegaard said the team is ready to challenge for trophies again.",
+    "img": "https://static.toiimg.com/photo/msid-133278784,imgsize-236112.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/arsenal-crush-manchester-city-3-0-in-community-shield-hand-enzo-maresca-nightmare-start/articleshow/133278634.cms",
+    "time": "2026-08-16T16:47:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "JNU Vice-Chancellor terms allegations of irregularities in recruitment a ‘malicious campaign’",
+    "desc": "Santishree Dhulipudi Pandit says there is no evidence. JNU administration says disgruntled left-leaning JNUTA figures are behind the 'political campaign’ to embarrass the varsity and the Centre, in the wake of defeats in the Delhi HC involving two ‘urban Naxal’ cases",
+    "img": "https://th-i.thgim.com/public/incoming/jxdw19/article71353690.ece/alternates/LANDSCAPE_1200/JNU_DSC_0247.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/jnu-vice-chancellor-terms-allegations-of-irregularities-in-recruitment-a-malicious-campaign/article71353126.ece",
+    "time": "2026-08-16T16:40:47.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Israel’s Ben Gvir advocates killing ’30 to 40’ people in Gaza nightly while speaking to ex-hostage",
+    "desc": "In the past, similar statements by Ben-Gvir and other Israeli officials were widely condemned. Many have been presented to the UN’s world court as evidence of genocidal intent. Israel denies it has committed genocide in Gaza.",
+    "img": "https://th-i.thgim.com/public/incoming/7viujp/article71353674.ece/alternates/LANDSCAPE_1200/2026-07-22T183728Z_189417872_RC26JMADP6F8_RTRMADP_3_ISRAEL-RELIGION.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/israels-ben-gvir-advocates-killing-30-to-40-people-in-gaza-nightly-while-speaking-to-ex-hostage/article71353658.ece",
+    "time": "2026-08-16T16:35:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why the Visakhapatnam airport shut, and what still flies from INS Dega",
+    "desc": "The 10.45 p.m. IndiGo to Delhi was the final scheduled service from the civil enclave at INS Dega. From 12.01 a.m. on Monday, every airline flight moves to Bhogapuram, and the code VTZ moves with them",
+    "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/jaqga/article71353542.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-16%20at%207.25.15%20PM%201.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Visakhapatnam/why-the-visakhapatnam-airport-shut-and-what-still-flies-from-ins-dega/article71352471.ece",
+    "time": "2026-08-16T16:27:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "UP CM Yogi pays tribute to Atal Bihari Vajpayee, recalls his 'Nation First' politics",
+    "desc": "Uttar Pradesh Chief Minister Yogi Adityanath on Sunday paid tribute to former Prime Minister and Bharat Ratna Atal Bihari Vajpayee on his death anniversary at the Atal Bihari Vajpayee Convention Centre in Lucknow, recalling his six-decade-long political career and his commitment to public service, democratic values and national interest.",
+    "img": "https://static.toiimg.com/photo/msid-133278604,imgsize-180160.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/up-cm-yogi-pays-tribute-to-atal-bihari-vajpayee-recalls-his-nation-first-politics/articleshow/133278605.cms",
+    "time": "2026-08-16T16:22:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "State draws inspiration from freedom fighter Gouthu Latchanna’s ideals, say Ministers",
+    "desc": "Various Ministers participate in the State-level birth anniversary celebrations of Sardar Gouthu Latchanna, organised by the BC Welfare Corporation in Vijayawada, and recall his contribution to the freedom movement and struggle for the rights of Backward Classes and other sections of society",
+    "img": "https://th-i.thgim.com/public/incoming/hwwjmg/article71353609.ece/alternates/LANDSCAPE_1200/DSC_5258.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/state-draws-inspiration-from-freedom-fighter-gouthu-latchannas-ideals-say-ministers/article71353454.ece",
+    "time": "2026-08-16T16:11:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Four months on, Karnataka yet to see multi-pair kidney swap transplant",
+    "desc": "Under kidney paired exchange, a donor who is medically incompatible with their intended recipient can donate to another compatible recipient, while the second donor gives a kidney to the first recipient. A multi-pair exchange extends this arrangement to three or more donor-recipient pairs.",
+    "img": "https://th-i.thgim.com/public/incoming/s85pap/article71341439.ece/alternates/LANDSCAPE_1200/Institute%20of%20Nephro-Urology%202.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/four-months-on-karnataka-yet-to-see-multi-pair-kidney-swap-transplant/article71341251.ece",
+    "time": "2026-08-16T16:09:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Arsenal’s Calafiori scripts history with fastest-ever Community Shield goal in 118 years",
+    "desc": "Riccardo Calafiori scored after just 23 seconds against Manchester City to give Arsenal a record-breaking start in the 2026 Community Shield. His strike became the fastest goal in the competition’s 118-year history, beating Liverpool legend Gary McAllister’s previous Cardiff record. Arsenal then doubled their advantage through Kai Havertz, giving Mikel Arteta’s side an impressive opening to the season.",
+    "img": "https://static.toiimg.com/photo/msid-133278287,imgsize-155172.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/arsenals-calafiori-scripts-history-sets-stunning-118-year-record-with-fastest-ever-community-shield-goal/articleshow/133277582.cms",
+    "time": "2026-08-16T15:59:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Agniveer recruitment list for CAPFs will come from armed forces",
+    "desc": "This indicates that ex-Agniveers may not be allowed to apply directly to the CAPFs for recruitment under the Agniveer quota; though the armed forces do not have caste-based quotas, CAPF caste quotas will apply for recruitment of ex-Agniveers",
+    "img": "https://th-i.thgim.com/public/incoming/sbpa2c/article71353490.ece/alternates/LANDSCAPE_1200/PTI08_02_2026_000114A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/agniveer-recruitment-list-for-capfs-will-come-from-armed-forces/article71352838.ece",
+    "time": "2026-08-16T15:53:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BTech student from Arunachal Pradesh found dead in Kerala; Minister promises probe as students blame credits-based ‘year back’ system",
+    "desc": "State Higher Education Minister says around 20 students of the college were facing difficulties following the year-back system. The Minister said the A.P.J. Abdul Kalam Technological University had recently decided to put on hold the ‘year back’ system and all colleges affiliated with the university were supposed to comply with the decision",
+    "img": "https://th-i.thgim.com/public/incoming/2ir25o/article71352333.ece/alternates/LANDSCAPE_1200/Roji_m_john_02.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/btech-student-from-arunachal-found-dead-in-kerala-minister-promises-probe-as-students-blame-credits-based-year-back-system/article71352107.ece",
+    "time": "2026-08-16T15:49:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Sabari rail project delay leaves landowners in limbo",
+    "desc": "A section of the landowners, whose holdings have remained effectively frozen for nearly three decades, met Higher Education Minister Roji M. John and Chalakudy MP Benny Behanan on Sunday and submitted a memorandum seeking their intervention.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/sabari-rail-project-delay-leaves-landowners-in-limbo/article71353248.ece",
+    "time": "2026-08-16T15:46:49.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "FPIs turn buyers again, pump Rs 16,621 crore into Indian equities in August",
+    "desc": "In August, foreign investors turned the tide by purchasing Indian equities, building on the positive momentum from July's inflows. This shift follows a period of substantial selling earlier in the year. With attractive valuations and promising corporate earnings, renewed interest from foreign investors is evident, particularly in the domestic consumption sectors such as healthcare and consumer durables, though fluctuations in global markets may influence these trends.",
+    "img": "https://static.toiimg.com/photo/msid-133278074,imgsize-56008.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/fpis-turn-buyers-again-pump-rs-16621-crore-into-indian-equities-in-august/articleshow/133278037.cms",
+    "time": "2026-08-16T15:38:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Asish Banerjee, former Bengal Minister and Trinamool leader, found dead in party office",
+    "desc": "Leader leaves note saying he was not involved in corruption and that attempts were being made to malign him; Chief Minister Suvendu Adhikari calls Ashis Banerjee a “decent political leader”; Mamata Banerjee says time to “reflect on the human cost of relentless political hostility”",
+    "img": "https://th-i.thgim.com/public/incoming/wlvc7m/article71352078.ece/alternates/LANDSCAPE_1200/HP0dEGZbcAARv8X.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/asish-banerjee-former-bengal-minister-and-trinamool-leader-found-dead-in-party-office/article71352050.ece",
+    "time": "2026-08-16T15:37:56.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Rs 6,400-crore IPO rush: 7 companies set to tap primary market next week",
+    "desc": "The IPO market anticipates a busy week with seven companies planning public offerings. These upcoming issues aim to collectively raise more than Rs 6,400 crore from investors. Horizon Industrial Parks and Lalithaa Jewellery Mart will launch their initial public offerings on August 17. Shankesh Jewellers and Sunshine Pictures are scheduled to open their issues on August 18.",
+    "img": "https://static.toiimg.com/photo/msid-133277968,imgsize-111792.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/rs-6400-crore-ipo-rush-7-companies-set-to-tap-primary-market-next-week/articleshow/133277944.cms",
+    "time": "2026-08-16T15:32:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NTA admits errors, orders fresh NET for 3 subjects",
+    "desc": "National Testing Agency acknowledged extensive errors in UGC-NET English, Commerce, and Sociology papers. Fresh examinations for these three subjects have been ordered by the agency. These re-tests are scheduled to take place on September 9 and 10. The decision came after multiple complaints regarding factual and typographical errors were received. Results for the other 84 subjects will be declared as scheduled.",
+    "img": "https://static.toiimg.com/photo/msid-133277891,imgsize-174140.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/nta-admits-errors-orders-fresh-net-for-3-subjects/articleshow/133277880.cms",
+    "time": "2026-08-16T15:21:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Govinda says Sunita Ahuja wanted him on Lock Upp",
+    "desc": "Govinda broke his silence on Sunita Ahuja's public allegations, accusing her of interfering in his work and defaming him. He urged her to stop humiliating industry newcomers and defended working with younger co-stars. Sunita had earlier called him actress Komal's \"sugar daddy\" and mocked their age gap and her clothing.",
+    "img": "https://static.toiimg.com/photo/msid-133277824,imgsize-289749.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govinda-says-sunita-ahuja-wanted-him-on-lock-upp-not-leaving-any-chance-to-get-me-defamed/articleshow/133277810.cms",
+    "time": "2026-08-16T15:11:07.000Z"
   },
   {
     "cat": "Sports",
@@ -36,24 +243,6 @@ const newsData_en = [
     "time": "2026-08-16T14:52:39.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Two screening staff injured as passenger’s gun goes off at Varanasi airport",
-    "desc": "The licensed firearm went off during inspection after the passenger declared it at the screening counter. A woman was injured in her leg and a man in his thumb and both have been admitted to a private hospital",
-    "img": "https://th-i.thgim.com/public/incoming/wffplu/article71352273.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-16%20at%2012.48.24.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttar-pradesh/injured-after-air-india-express-passengers-gun-goes-off-at-varanasi-airport/article71352195.ece",
-    "time": "2026-08-16T14:33:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Only those who support Maoists, separatists are ‘dimagi Naxals’: Rijiju after Opposition's criticism",
-    "desc": "Addressing the nation on the 80th Independence Day, Prime Minister Modi on August 15 warned the country about “dimagi Naxals” who have allegedly entrenched themselves in the system and continue to pose a threat to society",
-    "img": "https://th-i.thgim.com/public/incoming/fempmq/article71353242.ece/alternates/LANDSCAPE_1200/PTI08_12_2026_000274B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/only-those-who-support-maoists-separatists-are-dimagi-naxals-rijiju-after-oppositions-criticism/article71353198.ece",
-    "time": "2026-08-16T14:26:53.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Unwanted record’: Ex-captain stunned after bizarre blunder by Pak at World Cup",
     "desc": "Pakistan's hockey captain received a green card after gear was forgotten. This incident occurred during their opening World Cup match against England. The team failed to produce necessary protective equipment for a penalty corner. Former captain Salman Akbar criticised the lack of preparation and organisation. This lapse raises serious questions about the team's readiness for major events.",
@@ -64,39 +253,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "AP State Climate Change Cell suggests steps to mitigate impact on energy sector",
-    "desc": "Expecting a negative influence on infrastructure and methods used to produce and transfer energy, and discovering that the sector in a majority of the State’s northern and central regions is very highly vulnerable, the cell prescribes eight adaptation measures to combat it",
-    "img": "https://th-i.thgim.com/public/incoming/b8uasw/article71353214.ece/alternates/LANDSCAPE_1200/06Tide.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-state-climate-change-cell-suggests-steps-to-mitigate-impact-on-energy-sector/article71353075.ece",
-    "time": "2026-08-16T14:21:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala BJP leader P.C. George makes a U-turn in election funds misappropriation allegation",
-    "desc": "He says he had no knowledge of the actual election funds received in Poonjar. He instead accuses two local BJP leaders of misleading him into believing that ₹4.5 crore has been received for the constituency",
-    "img": "https://th-i.thgim.com/public/incoming/hx5le6/article71353158.ece/alternates/LANDSCAPE_1200/IMG_6663_30_11_2024_9_38_2_1_KOFR75DN.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-bjp-leader-pc-george-makes-a-u-turn-in-election-funds-misappropriation-allegation/article71352316.ece",
-    "time": "2026-08-16T14:05:54.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "How donated milk is saving India’s most vulnerable newborns",
     "desc": "Human milk banks in India serve a critical purpose by delivering much-needed nourishment to at-risk infants. Generous lactating mothers donate their surplus milk, helping those newborns who can’t receive it from their biological mothers. Every donation undergoes thorough screening and pasteurisation to ensure safety, highlighting the significant impact these banks have on the health of premature and sick children.",
     "img": "https://static.toiimg.com/photo/msid-133276918,imgsize-1308827.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/beyond-bloodline-how-donated-milk-is-saving-indias-most-vulnerable-newborns/articleshow/133275910.cms",
     "time": "2026-08-16T14:02:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala Police initiate probe against educational channels that offer test paper clues",
-    "desc": "An estimated 40 lakh school students are taking the Onam examinations, which will conclude on August 20. On August 16, the General Education department petitioned State Police Chief to conduct a detailed criminal inquiry into Instagram and YouTube channels that lure students by promising definitive clues about the mid-term Onam test papers",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-police-are-investigating-instagram-and-youtube-educational-channels-that-offer-test-paper-clues-to-lure-anxious-school-students-taking-onam-mid-term-examinations/article71352558.ece",
-    "time": "2026-08-16T13:54:37.000Z"
   },
   {
     "cat": "Entertainment",
@@ -115,15 +277,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/going-to-go-back-to-bed-now-devdutt-padikkal-after-career-best-167-in-galle-test/articleshow/133276560.cms",
     "time": "2026-08-16T13:47:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Bharath urges public to utilise free medical camp in Kurnool",
-    "desc": "A free medical camp is being held at Gauri Gopal Hospital on the 16th of every month for the residents of Kurnool constituency to mark the birthday of his father, former Rajya Sabha member T.G. Venkatesh",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/bharath-urges-public-to-utilise-free-medical-camp-in-kurnool/article71353039.ece",
-    "time": "2026-08-16T13:45:24.000Z"
   },
   {
     "cat": "Sports",
@@ -279,15 +432,6 @@ const newsData_en = [
     "time": "2026-08-16T11:40:48.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Human cost of relentless political hostility': Mamata Banerjee on TMC leader's suicide",
-    "desc": "The harassment and mental pressure he faced, despite his long record of public service, should make all of us pause and reflect on the human cost of relentless political hostility\". Meanwhile, West Begal chief minister Suvendu Adhikari said he would ensure probe into suicide.",
-    "img": "https://static.toiimg.com/photo/msid-133274601,imgsize-93212.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/human-cost-of-relentless-political-hostility-mamata-banerjee-on-tmc-leaders-suicide/articleshow/133274331.cms",
-    "time": "2026-08-16T11:39:28.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Suriya's 'Vishwanath and Sons' crosses Rs 100 crore in 2 days",
     "desc": "Suriya's recent release, 'Vishwanath and Sons', has made a remarkable impact at the box office by surpassing the Rs 100 crore milestone globally. Achieving this remarkable feat within just two days post-release showcases the movie's strong reception. This also marks Suriya's second film of 2026 to reach this impressive figure. Additionally, it has been reported that Netflix has acquired the digital streaming rights for this blockbuster.",
@@ -342,15 +486,6 @@ const newsData_en = [
     "time": "2026-08-16T10:54:30.000Z"
   },
   {
-    "cat": "World",
-    "title": "‘Propitious environment needs to be created’: Bangladesh says PM Tarique Rahman will not visit India until Hasina’s extradition",
-    "desc": "Officials from Bangladesh and India have been in contact in recent weeks about the possibility of a visit by the PM, a Foreign Ministry official said, stating that the process has been “vitiated by Sheikh Hasina's open media interactions”",
-    "img": "https://th-i.thgim.com/public/incoming/hcxzt9/article71352565.ece/alternates/LANDSCAPE_1200/Bangladesh_Election_20424.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bangladesh-says-pm-tarique-rahman-will-not-visit-india-until-sheikh-hasinas-extradition/article71352525.ece",
-    "time": "2026-08-16T10:49:03.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Padikkal falls for 167, joins Dravid and Pujara in Sri Lanka record list",
     "desc": "Devdutt Padikkal's remarkable 150-run milestone during a rain-interrupted Test match highlights his growing prowess as a cricketer. He joins the elite ranks of Rahul Dravid and Cheteshwar Pujara with this achievement from the number three position. The match faced multiple delays due to weather, and despite losing Rishabh Pant and KL Rahul after resumption, Padikkal's performance stands out as a defining moment in his career.",
@@ -378,15 +513,6 @@ const newsData_en = [
     "time": "2026-08-16T10:13:47.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "TMC leader's suicide case: CM Suvendu Adhikari vows probe into possible 'threat' angle",
-    "desc": "Asish Banerjee Banerjee was found dead on Sunday morning at a Trinamool Congress office in Rampurhat, Birbhum district. Police said his body was found hanging and was sent for post-mortem examination. The exact circumstances surrounding his death remain unclear. A teacher by profession, Banerjee had represented the Rampurhat Assembly constituency five times. TMC legislator Kunal Ghosh called for an impartial probe.",
-    "img": "https://static.toiimg.com/photo/msid-133273318,imgsize-86619.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tmc-leaders-suicide-case-cm-suvendu-adhikari-vows-probe-into-possible-threat-angle/articleshow/133273026.cms",
-    "time": "2026-08-16T10:11:13.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Govt fixes refinery-wise output targets; Reliance gets biggest quota",
     "desc": "India is establishing production benchmarks for its refineries and upstream firms, aimed at fortifying the domestic LPG supply system. Reliance Industries leads with the highest targets assigned to its refinery. It is imperative that companies ensure sufficient infrastructure for LPG storage and transportation. These production benchmarks will undergo reviews and updates biannually.",
@@ -394,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/india-cooks-up-lpg-safety-net-govt-fixes-refinery-wise-output-targets-reliance-gets-biggest-quota/articleshow/133272915.cms",
     "time": "2026-08-16T10:08:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "32-year wait, title hopes at stake as India face stern England test",
-    "desc": "On Monday, India are set to clash with England in a pivotal Pool D match of the Hockey World Cup. England, fresh from a significant victory against Pakistan, pose a formidable challenge. India must improve their finishing and maintain high energy levels against the skillful European side. With their last win over England dating back to 1994, a win here is crucial for India's aspirations of advancing in the tournament.",
-    "img": "https://static.toiimg.com/photo/msid-133273130,imgsize-157336.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/hockey-world-cup-32-year-wait-title-hopes-at-stake-as-india-face-stern-england-test/articleshow/133273091.cms",
-    "time": "2026-08-16T10:03:16.000Z"
   },
   {
     "cat": "Entertainment",
@@ -477,24 +594,6 @@ const newsData_en = [
     "time": "2026-08-16T09:02:29.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Gangai Amaran reveals SP Balasubrahmanyam's LAST WISH",
-    "desc": "Gangai Amaran revealed touching memories of SPB's final days. In his last moments, SPB expressed a heartfelt wish to reunite with his close friend Ilaiyaraaja. Their bond, forged long before their illustrious careers, was evident as SPB lent his voice to thousands of songs composed by Ilaiyaraaja and others. His remarkable musical legacy continues to resonate with audiences across generations.",
-    "img": "https://static.toiimg.com/photo/msid-133272293,imgsize-95762.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/gangai-amaran-reveals-sp-balasubrahmanyams-last-wish-six-years-after-the-veteran-singers-demise-he-wanted-to-see-ilaiyaraaja/articleshow/133272278.cms",
-    "time": "2026-08-16T08:37:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Aravind Swamy and Trisha's 'Sathuranga Vettai 2' signs off revival",
-    "desc": "Sathuranga Vettai 2 is set to hit theaters after multiple postponements. Financier Madurai Anbuchezhiyan has stepped in, agreeing to release the film without requiring upfront fees, reigniting optimism among the creators and fans alike. The late producer Manobala was dedicated to solving the myriad release challenges. Starring Arvind Swamy and Trisha, this film promises to deliver excitement to audiences.",
-    "img": "https://static.toiimg.com/photo/msid-133272243,imgsize-281680.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sathuranga-vettai-2-signs-off-revival-aravind-swamy-and-trisha-starrer-to-get-release-date-soon/articleshow/133272234.cms",
-    "time": "2026-08-16T08:32:26.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Very embarrassing’: Ponting tears apart Australia after Bangladesh shock",
     "desc": "Bangladesh made history by defeating Pat Cummins' Australian team by nine wickets, prompting former Aussie captains Ricky Ponting and Matthew Hayden to advocate for significant team alterations. With the selectors facing mounting pressure to rejuvenate the faltering Australian side, Hayden proposed adding Sam Konstas and Matt Renshaw to strengthen the lineup. This match is notable as it marks Australia's first Test loss to Bangladesh on their own soil.",
@@ -502,15 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/very-embarrassing-defeat-ricky-ponting-tears-apart-australia-after-bangladesh-shock/articleshow/133272199.cms",
     "time": "2026-08-16T08:31:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Batwara 1947 Day 3 [LIVE]: Sunny starrer eyes to cross Rs 30 cr",
-    "desc": "With a net earning of Rs 20.65 crore in India, Batwara 1947 has made a notable mark at the box office. Bringing together Sunny Deol and Rajkumar Santoshi after a long gap, the film also features a comeback from Preity Zinta, who returns to the screen after an eight-year pause. Though it faced a tough release window, its earnings have shown a positive reception across the country.",
-    "img": "https://static.toiimg.com/photo/msid-133272223,imgsize-906651.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/batwara-1947-box-office-collection-day-3-live-sunny-deol-and-preity-zinta-starrer-eyes-to-cross-rs-30-crore-mark-on-first-sunday/articleshow/133272207.cms",
-    "time": "2026-08-16T08:29:54.000Z"
   },
   {
     "cat": "Business",
@@ -577,30 +667,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "'Team didn’t have confidence in me': Jadeja’s candid revelation that left him 'disturbed'",
-    "desc": "Ravindra Jadeja opened up about the challenges he faced early in his career regarding his batting position. He acknowledged that batting lower in the order deeply impacted his confidence and self-belief. Jadeja noted that the team's lack of trust in his batting capabilities contributed to his struggles. His reflections came on the heels of India’s impressive Day 1, highlighted by Devdutt Padikkal achieving his first Test century against Sri Lanka.",
-    "img": "https://static.toiimg.com/photo/msid-133270659,imgsize-101598.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/team-didnt-have-confidence-in-me-ravindra-jadejas-candid-revelation-that-left-him-disturbed/articleshow/133270543.cms",
-    "time": "2026-08-16T05:59:04.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Bangladesh claim first test win in Australia as Green ton in vain",
     "desc": "Mominul Haque cut Beau Webster to the fence for the winning ‌runs to seal Bangladesh's first test win in Australia within four days ​in stifling heat at Marrara Oval, foiling a valiant century from ⁠home all-rounder Cameron Green.",
     "img": "https://th-i.thgim.com/public/incoming/h6bwte/article71352086.ece/alternates/LANDSCAPE_1200/AP08_16_2026_000002A.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/bangladesh-claim-first-test-win-in-australia-as-green-ton-in-vain/article71352079.ece",
     "time": "2026-08-16T05:29:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bangladesh create history in Australia, register first-ever win on Australian soil",
-    "desc": "Bangladesh achieved an impressive nine-wicket victory over Australia during the Test in Darwin, marking a pivotal moment in cricket history. Mehidy Hasan Miraz emerged as a standout player, contributing vital runs and taking crucial wickets. Cameron Green's century was not enough to salvage Australia's pride, increasing the pressure on the home side after suffering another defeat to the rising Bangladeshi team.",
-    "img": "https://static.toiimg.com/photo/msid-133270389,imgsize-93366.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bangladesh-stun-australia-with-historic-win-register-first-ever-test-victory-on-australian-soil/articleshow/133270378.cms",
-    "time": "2026-08-16T05:25:33.000Z"
   },
   {
     "cat": "Business",
@@ -826,77 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/indias-green-bonds-find-footing-as-stable-greenium-underscores-investor-appetite/article71347030.ece",
     "time": "2026-08-14T16:53:51.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Coal demand to touch 1.6 billion tonnes by 2030; need transparent, market-driven pricing: Official",
-    "desc": "\"Coal demand is projected to rise further to an estimated 1.6 billion tonnes by 2030,\" Dutt said, adding that we are at an \"inflection point\" where we are shifting from a scarcity scenario to one of surplus",
-    "img": "https://th-i.thgim.com/public/incoming/dsb2hk/article71347021.ece/alternates/LANDSCAPE_1200/2026-08-13T121116Z_1330222640_RC2TA6ANUCVR_RTRMADP_3_INDIA-MINING.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/coal-demand-to-touch-16-billion-tonnes-by-2030-need-transparent-market-driven-pricing-official/article71347007.ece",
-    "time": "2026-08-14T16:47:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How Indian badminton grew up between Hyderabad and Delhi",
-    "desc": "The 17 years of quiet, unglamorous institution-building between the first time the country hosted the World championships in 2009 and the upcoming edition in the capital have transformed the sport’s fortunes. The Hindu speaks to P.V. Sindhu, H.S. Prannoy, P. Gopi Chand, Ayush Shetty and BAI general secretary Sanjay Mishra to discover what this journey has entailed",
-    "img": "https://th-i.thgim.com/public/incoming/m2bise/article71346917.ece/alternates/LANDSCAPE_1200/STADIUM%20DEL.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/india-badminton-revolution-hyderabad-2009-delhi-2026-bwf-world-championships-sindhu-gopichand-saina-prannoy-ayush/article71346780.ece",
-    "time": "2026-08-14T16:14:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Isa Guha",
-    "desc": "The former England cricketer discusses her journey from World Cup winner to pioneering commentator in this interview. She talks about how she broke in as a pundit, why different countries demand different broadcast styles, when she knew she had arrived in the commentary booth and why she founded a charity that advances equity, diversity and inclusion in cricket",
-    "img": "https://th-i.thgim.com/public/incoming/trvyvo/article71346818.ece/alternates/LANDSCAPE_1200/GettyImages-2161187519.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/isa-guha-england-womens-cricket-commentary-south-asian-representation/article71346849.ece",
-    "time": "2026-08-14T16:14:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India hopes to revive WTC fortunes on Sri Lankan shores",
-    "desc": "Gill’s men will draw inspiration from a superior head-to-head record; the visiting side’s batters need to come good to make life easier for their bowlers; left-arm spinner Prabath could be the trump card for the home team",
-    "img": "https://th-i.thgim.com/public/incoming/o1lmlz/article71345850.ece/alternates/LANDSCAPE_1200/20260814274L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/india-hopes-to-revive-wtc-fortunes-on-sri-lankan-shores/article71345857.ece",
-    "time": "2026-08-14T15:12:25.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Rupee gains 3 paise to 95.42 against U.S. dollar",
-    "desc": "At the interbank foreign exchange market, the rupee opened at 95.39 and moved in a tight range of 95.38 to 95.44 against the American currency before ending the session at 95.42 (provisional), up 3 paise from its previous close",
-    "img": "https://th-i.thgim.com/public/incoming/veobce/article71345394.ece/alternates/LANDSCAPE_1200/BIZ-RBI-FCNR-DEG4QGB8UHN.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/markets/rupee-gains-3-paise-to-9542-against-us-dollar/article71345346.ece",
-    "time": "2026-08-14T11:51:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Awarapan 2’ movie review: Emraan Hashmi’s faded sequel doesn’t rise from the riches of its past",
-    "desc": "Even if the action sequences, lighting, and camerawork have improved multifold from 2007, the sequel struggles to hold itself together as it imagines the world of ‘Awarapan’ purely as a generic genre piece, when its soul lies elsewhere",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/fwk2m4/article71344847.ece/alternates/LANDSCAPE_1200/Emraan%20Hashmi%20in%20%E2%80%98Awarapan%202%E2%80%99",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/awarapan-2-movie-review-emraan-hashmis-faded-sequel-doesnt-rise-from-the-riches-of-its-past/article71344732.ece",
-    "time": "2026-08-14T09:35:36.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "North Korea slams U.S.-South Korea military drills, threatens to exercise self-defence",
-    "desc": "Mr. Kim has ignored the U.S. and South Korea's offers to resume diplomacy and has focussed on taking steps to bolster his nuclear arsenal since his summitry with U.S. President Donald Trump broke down in 2019",
-    "img": "https://th-i.thgim.com/public/incoming/wqft9r/article71343942.ece/alternates/LANDSCAPE_1200/NORTHKOREA-MISSILESUSA",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/north-korea-slams-us-south-korea-military-drills-threatens-to-exercise-self-defence/article71343931.ece",
-    "time": "2026-08-14T07:04:15.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India has “reassuring” talks with U.S., including on Bill that proposes 100% tariffs",
-    "desc": "The U.S. Senate earlier this week passed the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, which proposes tariffs of up to 100% on countries that import oil from Russia in large quantities. This would like include India, if it become law.",
-    "img": "https://th-i.thgim.com/public/incoming/achtat/article71341048.ece/alternates/LANDSCAPE_1200/India-secures-lGTUGA18LS.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/india-has-reassuring-talks-with-us-including-on-bill-that-proposes-100-tariffs/article71341005.ece",
-    "time": "2026-08-13T13:27:21.000Z"
   }
 ];

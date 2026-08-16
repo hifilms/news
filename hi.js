@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Cristiano Ronaldo drops retirement bombshell, says 'probably my last year' of football",
+    "desc": "Cristiano Ronaldo has given his clearest indication yet that he could retire from professional football at the end of the 2026-27 season, saying it is 'probably my last year.' The 41-year-old, who continues to play...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/cristiano-ronaldo-drops-retirement-bombshell-says-probably-my-last-year-of-football-latest-updates-2026-08-16-1051563",
+    "time": "2026-08-16T17:03:00.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India continue batting onslaught in rain-marred day 2, set up crucial third day in Galle",
     "desc": "India and Sri Lanka continued their ongoing first Test of the series. The two sides met for day 2 of the clash at the Galle International Stadium on August 16th. It is worth noting that...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/devdutt-padikkal-s-dominating-century-kl-rahul-s-impactful-knock-help-india-establish-authority-vs-sri-lanka-on-day-1-2026-08-15-1051483",
     "time": "2026-08-15T13:47:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harmanpreet Singh strikes twice as India register convincing 3-1 win over Wales in Hockey World Cup",
-    "desc": "India opened their Hockey World Cup campaign with a convincing 3-1 victory over Wales at the Wagener Stadium in Amstelveen, Netherlands, on Saturday, with captain Harmanpreet Singh scoring twice to help the team make a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/hockey/harmanpreet-singh-strikes-twice-as-india-register-convincing-3-1-win-over-wales-in-hockey-world-cup-2026-08-15-1051481",
-    "time": "2026-08-15T13:22:58.000Z"
   }
 ];
