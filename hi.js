@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Mikel Arteta fires warning shots at his competitors after dominant win in Community Shield final",
+    "desc": "The Community Shield final saw defending Premier League champions Arsenal take on Manchester City. The two sides met at Wembley in London for the clash on August 16th, and it was Arsenal who came out...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/mikel-arteta-fires-warning-shots-at-his-competitors-after-dominant-win-in-community-shield-final-2026-08-17-1051596",
+    "time": "2026-08-17T06:34:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Manchester Super Giants script history, clinch maiden Hundred title with stellar show against Trent Rockets",
+    "desc": "The Men’s Hundred 2026 final saw Manchester Super Giants taking on defending champions Trent Rockets. The two sides met at Lord’s Cricket Ground in London on August 16th for the clash, and Manchester Super Giants...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/manchester-super-giants-script-history-clinch-maiden-hundred-title-with-stellar-show-against-trent-rockets-2026-08-17-1051588",
+    "time": "2026-08-17T05:27:26.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Cristiano Ronaldo drops retirement bombshell, says 'probably my last year' of football",
     "desc": "Cristiano Ronaldo has given his clearest indication yet that he could retire from professional football at the end of the 2026-27 season, saying it is 'probably my last year.' The 41-year-old, who continues to play...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-dismantle-australia-in-darwin-register-historic-first-test-win-down-under-2026-08-16-1051516",
     "time": "2026-08-16T05:11:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer backs Devdutt Padikkal to continue onslaught against Sri Lanka after day 1 century",
-    "desc": "The Indian team put in a good show against Sri Lanka on day 1 of the ongoing first Test between the two sides. The teams met at the Galle International Stadium, and India came in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-backs-devdutt-padikkal-to-continue-onslaught-against-sri-lanka-after-day-1-century-2026-08-16-1051515",
-    "time": "2026-08-16T05:05:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Devdutt Padikkal's dominating century, KL Rahul's impactful knock help India establish authority vs Sri Lanka",
-    "desc": "Devdutt Padikkal marked his return to India’s Test side with a superb unbeaten 131 as India finished a rain-interrupted opening day of the first Test against Sri Lanka on 288 for 4 in Galle. Notably,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/devdutt-padikkal-s-dominating-century-kl-rahul-s-impactful-knock-help-india-establish-authority-vs-sri-lanka-on-day-1-2026-08-15-1051483",
-    "time": "2026-08-15T13:47:13.000Z"
   }
 ];
