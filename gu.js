@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "ઉજ્જૈનના નાગચંદ્રેશ્વર મંદિરમાં નાસભાગ જેવી સ્થિતિ, ઘણા શ્રદ્ધાળુઓ બેરિકેડ પર પડ્યા",
+    "desc": "ઉજ્જૈનના મહાકાલેશ્વર મંદિરમાં ભારે ભીડ વચ્ચે, હરસિદ્ધિ મંદિરની સામે બેરિકેડેડ વિસ્તારમાં અચાનક દબાણ વધી ગયું હતું. ઘણા ભક્તો બીમાર પડ્યા છે, અને કેટલાક ઘાયલ થયા છે. ઘટનાસ્થળે હાજર સુરક્ષા કર્મચારીઓએ ભક્તોને બહાર કાઢ્યા અને તેમને હોસ્પિટલમાં લઈ ગયા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/stampede-at-nagchandreshwar-temple-in-ujjains-mahakal-temple-complex-many-devotees-injured-487963 ",
+    "time": "2026-08-17T07:06:30.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "27 વર્ષીય એક્ટ્રેસ અનન્યા રાજનું મોત, પરિવારે 1 મહિના પછી આપી જાણકારી",
     "desc": "27 વર્ષીય અભિનેત્રી અનન્યા રાજનું મોત થયું હોવાના સમાચાર સામે આવ્યા છે. સૌથી આશ્ચર્યજનક વાત એ છે કે અભિનેત્રીનું મોત 1 મહિના પહેલા થઈ ગયું છે અને પરિવારે 1 મહિના પછી આ દુખદ સમાચાર જાહેર કર્યા છે.",
@@ -439,15 +448,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/vinfast-begins-testing-second-gen-vf-5-ev-in-india-to-rival-tata-punch-ev-487654 ",
     "time": "2026-08-13T16:09:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "પેન્શન ₹1,000થી વધીને ₹7,500 થશે ? સરકારે લોકસભામાં આપ્યો જવાબ",
-    "desc": "EPS-95 હેઠળ લઘુત્તમ પેન્શન ₹1,000થી વધારીને ₹7,500 કરવાની લાંબા સમયથી માંગ કરવામાં આવી રહી છે. સરકારને 10 ઓગસ્ટના રોજ લોકસભામાં આ મુદ્દા પર પ્રશ્ન કરવામાં આવ્યો હતો, ત્યારે સરકારે શું જવાબ આપ્યો છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/will-eps-95-pension-hike-from-1000-to-7500-govt-gave-answer-in-lok-sabha-487632 ",
-    "time": "2026-08-13T13:29:43.000Z"
   },
   {
     "cat": "Entertainment",

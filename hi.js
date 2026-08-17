@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Shubman Gill grabs stunning catch to send Kamindu Mendis packing as India dominate Sri Lanka on day 3",
+    "desc": "The Indian team continued their brilliance from the first two days of the ongoing first Test against Sri Lanka and have been brilliant on day 3 of the clash as well. After batting for two...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-grabs-stunning-catch-to-send-kamindu-mendis-packing-as-india-dominate-sri-lanka-on-day-3-watch-2026-08-17-1051608",
+    "time": "2026-08-17T08:58:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer weighs in on Dhruv Jurel's dismissal after day 2 heroics of the ongoing Sri Lanka Test",
+    "desc": "The Indian team has been in brilliant form as they took on Sri Lanka in the first Test of the ongoing series. The two sides met at the Galle International Stadium from August 15th, and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-weighs-in-on-dhruv-jurel-s-dismissal-after-day-2-heroics-of-the-ongoing-sri-lanka-test-2026-08-17-1051601",
+    "time": "2026-08-17T07:42:51.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Mikel Arteta fires warning shots at his competitors after dominant win in Community Shield final",
     "desc": "The Community Shield final saw defending Premier League champions Arsenal take on Manchester City. The two sides met at Wembley in London for the clash on August 16th, and it was Arsenal who came out...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/no-excuses-pat-cummins-opens-up-after-bangladesh-topple-australia-in-first-test-with-sensational-show-2026-08-16-1051533",
     "time": "2026-08-16T09:15:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "WTC updated points table after Bangladesh's historic Test victory against Australia",
-    "desc": "Bangladesh put forth a marvellous performance in the first Test of the ongoing two-game series against Australia. The two sides met in Darwin for the clash, where Bangladesh managed to register their first-ever Test victory...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/wtc-updated-points-table-after-bangladesh-s-historic-test-victory-against-australia-2026-08-16-1051527",
-    "time": "2026-08-16T07:32:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bangladesh dismantle Australia in Darwin, register historic first Test win down under",
-    "desc": "Bangladesh has scripted history, coming to play against Australia on their home soil; the side has managed to topple the side and register a nine-wicket victory. It is worth noting that the side took on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-dismantle-australia-in-darwin-register-historic-first-test-win-down-under-2026-08-16-1051516",
-    "time": "2026-08-16T05:11:55.000Z"
   }
 ];
