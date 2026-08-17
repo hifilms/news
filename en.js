@@ -1,5 +1,113 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Yash says wife 'Won't be happy' with his intimate scenes",
+    "desc": "Yash, the acclaimed Kannada actor, recently opened up about his wife Radhika Pandit's feelings toward intimate scenes. He stated that although she may experience discomfort, her trust in him as an actor remains unwavering. Acknowledging his own struggles with these scenes, he emphasized their importance for advancing the film's storyline. The highly anticipated action film 'Toxic' will hit global theaters on August 26, 2026.",
+    "img": "https://static.toiimg.com/photo/msid-133284270,imgsize-249126.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/toxic-star-yash-has-over-14-million-social-media-followers-but-follows-only-wife-radhika-pandit/articleshow/133284255.cms",
+    "time": "2026-08-17T00:49:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Awarapan 2' screening turns chaotic, audience gets angry, unable to breathe as AC goes off",
+    "desc": "During a recent screening of Awarapan 2 in Ghaziabad, moviegoers faced significant discomfort due to inadequate air conditioning. The auditorium turned uncomfortably hot and humid, leading to difficulties in breathing. Despite multiple complaints to the management, the situation remained unaddressed, resulting in many patrons exiting the cinema before the film's interval. This event underscores a glaring shortfall in customer service standards at the venue.",
+    "img": "https://static.toiimg.com/photo/msid-133284256,imgsize-226812.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/awarapan-2-screening-turns-chaotic-movie-goers-find-it-difficult-to-breathe-as-ac-goes-off-in-ghaziabad-theatre-express-anger-deficient-service-zero-accountability/articleshow/133284248.cms",
+    "time": "2026-08-17T00:44:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'I, Nobody' OTT release date confirmed",
+    "desc": "Prithviraj Sukumaran's thriller 'I, Nobody' will soon be available on JioHotstar. The film centers on an ordinary government employee caught in a dangerous criminal situation. It was released theatrically on July 9, 2026, and received mixed reviews. Parvathy Thiruvothu and Hakkim Shajahan also feature in important roles. The movie will begin streaming on August 25, 2026, for audiences.",
+    "img": "https://static.toiimg.com/photo/msid-133284225,imgsize-263259.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/i-nobody-ott-release-date-confirmed-when-and-where-to-stream-prithviraj-sukumaran-and-parvathy-thiruvothus-thriller/articleshow/133284221.cms",
+    "time": "2026-08-17T00:26:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Batwara 1947' box office collection day 3",
+    "desc": "Batwara 1947 has amassed an impressive net collection of Rs 26.50 crore in India, contributing to a global total of Rs 37 crore. However, the film is encountering fierce competition from Awarapan 2, especially in its opening weekend. To reach the breakeven point, it needs to earn an additional Rs 100.75 crore. The box office figures from Monday will play a critical role in determining its fate",
+    "img": "https://static.toiimg.com/photo/msid-133284207,imgsize-350121.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/batwara-1947-box-office-collection-day-3-the-sunny-deol-preity-zinta-starrer-sees-huge-drop-on-sunday-makes-rs-26-50-crore-total-net-in-the-first-weekend/articleshow/133284198.cms",
+    "time": "2026-08-17T00:19:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Vishwanath and Sons' BO day 3 vs 'Jana Nayagan'",
+    "desc": "Vishwanath and Sons raked in over 110 crore rupees globally during its opening weekend, though its third day saw a slight dip in net collections within India. However, the Tamil and Telugu versions of the film performed exceptionally well, demonstrating impressive audience turnout. In contrast, Jana Nayagan climbed past 320 crore rupees in worldwide earnings after twenty-five days, boasting a stronger opening weekend than Vishwanath and Sons.",
+    "img": "https://static.toiimg.com/photo/msid-133284177,imgsize-355651.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/box-office/vishwanath-and-sons-box-office-collections-day-3-vs-jana-nayagan-suriya-film-hits-rs-110-22-cr-worldwide-vijay-film-reaches-rs-321-75-cr/articleshow/133284171.cms",
+    "time": "2026-08-17T00:09:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Spider-Man' crosses Rs 550 crore at Indian box office",
+    "desc": "Brand New Day continues its strong box office run in India. The film earned approximately Rs 22.80 crore net during its third weekend. This performance allowed the movie to cross Rs 466 crore net in India. Its gross collection has now surpassed Rs 557 crore, setting a new record. The superhero film remains the highest-grossing Hollywood movie in India.",
+    "img": "https://static.toiimg.com/photo/msid-133284095,imgsize-440525.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/spider-man-brand-new-day-box-office-collection-day-18-tom-holland-and-zendaya-starrer-crosses-rs-550-crore-in-india-on-third-weekend-amid-competition-from-awarapan-2-batwara-1947/articleshow/133284000.cms",
+    "time": "2026-08-17T00:04:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cancelo joins Barca permanently after Al Hilal exit, set to sign on Tuesday",
+    "desc": "João Cancelo is set to return to Barcelona for a third spell after terminating his Al Hilal contract by mutual agreement. The Portugal international will join the Spanish champions as a free agent after two previous loan spells, having helped Barcelona win LaLiga last season. Cancelo is expected in Barcelona on Tuesday to complete his move and sign a permanent contract.",
+    "img": "https://static.toiimg.com/photo/msid-133284087,imgsize-98256.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/joo-cancelo-set-to-sign-permanently-for-barcelona-on-tuesday-as-free-agent-after-al-hilal-contract-termination/articleshow/133283987.cms",
+    "time": "2026-08-16T23:55:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Awarapan 2' box office collection day 3: Emraan's film crosses Rs 80 cr on Sunday",
+    "desc": "Awarapan 2 has made a remarkable impact, surpassing the lifetime earnings of its predecessor on its very first day. Thanks to the Independence Day weekend boost, it attracted impressive ticket sales. The strong box office performance in its opening weekend has already labeled it a success, achieving a rapid affirmation of its financial viability.",
+    "img": "https://static.toiimg.com/photo/msid-133284073,imgsize-179743.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/awarapan-2-box-office-collection-day-3-the-emraan-hashmi-film-races-ahead-of-batwara-1947-with-a-huge-mark-on-sunday-inches-towards-rs-100-crore-becomes-the-8th-highest-grosser-of-hindi-cinema-in-2026/articleshow/133284029.cms",
+    "time": "2026-08-16T23:49:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kylie-Timothee, Justin-Hailey attend Jordyn and Karl's wedding",
+    "desc": "Jordyn Woods and Karl-Anthony Towns exchanged wedding vows in Malibu. The intimate ceremony took place overlooking the ocean on Saturday, August 15. Kylie Jenner and Timothee Chalamet were among the notable celebrity guests. Woods wore a strapless white gown while Towns donned a classic black tuxedo. The couple began dating in 2020 after years of close friendship.",
+    "img": "https://static.toiimg.com/photo/msid-133283944,imgsize-510249.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jordyn-woods-weds-karl-anthony-towns-kylie-jenner-timothee-chalamet-justin-bieber-and-hailey-bieber-attend-star-studded-malibu-wedding-pics/articleshow/133283910.cms",
+    "time": "2026-08-16T23:16:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Barcelona finally get Rodri after third offer as Man City accept €76.5m deal",
+    "desc": "Barcelona have reportedly agreed a €76.5 million deal to sign Rodri from Manchester City. The Spain captain is set to return to La Liga after seven trophy-filled seasons in England. Rodri, who won the 2026 World Cup and Golden Ball, could be presented before Barcelona’s Joan Gamper Trophy match, while City prepare to lose their midfield anchor.",
+    "img": "https://static.toiimg.com/photo/msid-133283936,imgsize-70118.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/barcelona-finally-get-ballon-dor-winner-rodri-after-third-offer-as-man-city-reportedly-accept-76-5m-deal/articleshow/133283887.cms",
+    "time": "2026-08-16T23:04:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Johnny Depp to return as Jack Sparrow in 'Pirates 6'?",
+    "desc": "Producer Jerry Bruckheimer confirmed discussions with Johnny Depp for Pirates of the Caribbean 6. A new screenplay is currently being developed for the long-awaited film. Sources suggest Margot Robbie's character might lead the next installment. Depp's Captain Jack Sparrow could appear in a supporting role. This franchise has generated billions worldwide across its previous films.",
+    "img": "https://static.toiimg.com/photo/msid-133282204,imgsize-121950.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/johnny-depp-to-return-as-jack-sparrow-in-pirates-of-the-caribbean-6-producer-jerry-bruckheimer-shares-update/articleshow/133282195.cms",
+    "time": "2026-08-16T21:43:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Spider-Man: Brand New Day' swings past USD 2 billion mark",
+    "desc": "Brand New Day continues its historic run atop the box office charts. The Odyssey secured second place with strong weekend ticket sales and global earnings. New dinosaur films, The End of Oak Street and Paw Patrol, battled for third. The End of Oak Street earned twenty-one million dollars while Paw Patrol garnered twenty point five million. Overall summer box office sales are strong and nearing record-breaking figures.",
+    "img": "https://static.toiimg.com/photo/msid-133282019,imgsize-476042.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/spider-man-brand-new-day-becomes-second-fastest-film-to-cross-usd-2-billion-at-global-box-office-the-odyssey-hits-usd-1-2-billion-after-china-release/articleshow/133281998.cms",
+    "time": "2026-08-16T21:13:37.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "landowners meet Minister, Chalakudy MP",
     "desc": "A section of the landowners, whose holdings have remained effectively frozen for nearly three decades, met Higher Education Minister Roji M. John and Chalakudy MP Benny Behanan on Sunday and submitted a memorandum seeking their intervention.",
@@ -142,24 +250,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/up-cm-yogi-pays-tribute-to-atal-bihari-vajpayee-recalls-his-nation-first-politics/articleshow/133278605.cms",
     "time": "2026-08-16T16:22:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "State draws inspiration from freedom fighter Gouthu Latchanna’s ideals, say Ministers",
-    "desc": "Various Ministers participate in the State-level birth anniversary celebrations of Sardar Gouthu Latchanna, organised by the BC Welfare Corporation in Vijayawada, and recall his contribution to the freedom movement and struggle for the rights of Backward Classes and other sections of society",
-    "img": "https://th-i.thgim.com/public/incoming/hwwjmg/article71353609.ece/alternates/LANDSCAPE_1200/DSC_5258.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/state-draws-inspiration-from-freedom-fighter-gouthu-latchannas-ideals-say-ministers/article71353454.ece",
-    "time": "2026-08-16T16:11:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Four months on, Karnataka yet to see multi-pair kidney swap transplant",
-    "desc": "Under kidney paired exchange, a donor who is medically incompatible with their intended recipient can donate to another compatible recipient, while the second donor gives a kidney to the first recipient. A multi-pair exchange extends this arrangement to three or more donor-recipient pairs.",
-    "img": "https://th-i.thgim.com/public/incoming/s85pap/article71341439.ece/alternates/LANDSCAPE_1200/Institute%20of%20Nephro-Urology%202.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/four-months-on-karnataka-yet-to-see-multi-pair-kidney-swap-transplant/article71341251.ece",
-    "time": "2026-08-16T16:09:18.000Z"
   },
   {
     "cat": "Sports",
@@ -324,15 +414,6 @@ const newsData_en = [
     "time": "2026-08-16T12:47:14.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Government seeks stakeholder comments on nuclear rules and regulations",
-    "desc": "In a significant move towards enhancing its nuclear energy capabilities, the Indian government has introduced revised regulations aimed at facilitating atomic power growth. These new guidelines establish comprehensive licensing and safety protocols for the engagement of private sector operators. Companies can now obtain preliminary approvals prior to selecting sites or technologies, with financial security measures in place to cover potential nuclear damage.",
-    "img": "https://static.toiimg.com/photo/msid-133275820,imgsize-73390.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/government-seeks-stakeholder-comments-on-nuclear-rules-and-regulations/articleshow/133275645.cms",
-    "time": "2026-08-16T12:46:37.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Actor Ananya Raj passes away at 27",
     "desc": "Actor Ananya Raj, known for '7 Hours to Go', 'The Final Exit' and 'Ghost', passed away at 27 on July 15 after battling physical and mental health issues for over a year. Her family shared the news on Instagram, calling her a \"strong spirited girl.\" She also worked in regional films like 'Thaggede Le'.",
@@ -378,24 +459,6 @@ const newsData_en = [
     "time": "2026-08-16T12:01:21.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Sunny speaks why he avoids pan masala endorsements",
-    "desc": "Sunny Deol firmly refuses pan masala endorsements, citing personal beliefs, and admits ads mysteriously elude him despite his stature. Meanwhile, Maharashtra's FDA has issued show-cause notices to Shah Rukh Khan, Ajay Devgn and Tiger Shroff over their Vimal Elaichi ad, alleging surrogate promotion of banned pan masala and tobacco products.",
-    "img": "https://static.toiimg.com/photo/msid-133274838,imgsize-236553.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunny-deol-speaks-why-he-avoids-pan-masala-endorsements-mera-zameer-nahi-manta/articleshow/133274800.cms",
-    "time": "2026-08-16T11:53:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "VC rejects irregularities charges, calls allegations ‘fake propaganda’",
-    "desc": "The university administration said more than 400 faculty interviews had been conducted and over 200 positions filled since February 2022. It claimed that nearly 70 per cent of those appointed belonged to reserved and marginalised categories. The administration said it had received no complaints from candidates about interview process. According to the university, selection committees include three domain experts, a nominee of the Visitor, concerned dean and the vice chancellor.",
-    "img": "https://static.toiimg.com/photo/msid-133274747,imgsize-95104.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/jnu-recruitment-row-vc-rejects-irregularities-charges-calls-allegations-fake-propaganda/articleshow/133274673.cms",
-    "time": "2026-08-16T11:49:14.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'We weren’t able to catch': Smith admits Australia were 'outplayed' after Bangladesh defeat",
     "desc": "Bangladesh secured their first-ever Test victory on Australian soil in Darwin. The team achieved this historic win by defeating Australia by nine wickets. Australia struggled with batting across both innings, failing to build partnerships. Steve Smith acknowledged Bangladesh's superior performance while backing Australia. The team aims to bounce back after this unexpected defeat.",
@@ -414,24 +477,6 @@ const newsData_en = [
     "time": "2026-08-16T11:40:48.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Suriya's 'Vishwanath and Sons' crosses Rs 100 crore in 2 days",
-    "desc": "Suriya's recent release, 'Vishwanath and Sons', has made a remarkable impact at the box office by surpassing the Rs 100 crore milestone globally. Achieving this remarkable feat within just two days post-release showcases the movie's strong reception. This also marks Suriya's second film of 2026 to reach this impressive figure. Additionally, it has been reported that Netflix has acquired the digital streaming rights for this blockbuster.",
-    "img": "https://static.toiimg.com/photo/msid-133274327,imgsize-1314949.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/suriya-and-mamitha-baiju-starrer-vishwanath-and-sons-crosses-rs-100-crore-worldwide-in-just-two-days/articleshow/133274258.cms",
-    "time": "2026-08-16T11:24:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "director defends her style",
-    "desc": "Sanjay Leela Bhansali stood up for Aishwarya Rai Bachchan amidst fashion critiques at global events, emphasizing her significant role in representing India beyond just physical appearances. Originally, Bhansali had envisioned Aishwarya and Salman Khan for the lead roles in Bajirao Mastani, but unforeseen circumstances led to her departure, resulting in the film featuring Ranveer Singh and Deepika Padukone instead.",
-    "img": "https://static.toiimg.com/photo/msid-133274227,imgsize-264437.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-sanjay-leela-bhansali-defended-aishwarya-rai-bachchans-fashion-choices-if-she-wears-something-she-is-representing-the-country/articleshow/133274186.cms",
-    "time": "2026-08-16T11:15:17.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Best win of my career’",
     "desc": "Thiago Agustin Tirante stunned Novak Djokovic 2-6, 6-4, 6-4 in the Cincinnati Open’s second round, earning the biggest win of his career. The Argentine stayed composed despite Djokovic’s resistance and physical struggles. Tirante, ranked 50th, will next face Martin Landaluce, after improving his record against top-10 opponents to four wins and one loss.",
@@ -439,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/novak-djokovic-suffers-shock-cincinnati-defeat-as-thiago-tirante-says-best-win-of-my-career/articleshow/133273880.cms",
     "time": "2026-08-16T11:07:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Yash on wife Radhika’s reaction to his bold scenes in Toxic",
-    "desc": "Sunny Deol firmly rejects pan masala endorsements, calling it something his conscience won't allow, saying \"mera zameer nahi manta.\" He admits he doesn't know why advertisers overlook him despite his stature. Amid scrutiny over Bollywood's pan masala ads, Sunny stays firm on his stance. He's currently in 'Batwara 1947', with 'Ramayana' next.",
-    "img": "https://static.toiimg.com/photo/msid-133273899,imgsize-232863.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yash-on-wife-radhika-pandits-reaction-to-his-bold-scenes-in-toxic-feels-every-partner-will-be-uncomfortable-she-trusts-me/articleshow/133273876.cms",
-    "time": "2026-08-16T11:00:13.000Z"
   },
   {
     "cat": "Sports",
@@ -502,87 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/india-cooks-up-lpg-safety-net-govt-fixes-refinery-wise-output-targets-reliance-gets-biggest-quota/articleshow/133272915.cms",
     "time": "2026-08-16T10:08:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anurag on why Bollywood bends to power and South doesn't",
-    "desc": "Anurag Kashyap says Bollywood bends to power while South cinema doesn't, since the latter isn't dependent on Hindi audiences. He believes the first compromise opens doors that can't be shut, and industry insiders, though aware and ashamed, feel powerless to resist. His last film, 'Bandar,' earned praise but underperformed commercially.",
-    "img": "https://static.toiimg.com/photo/msid-133273107,imgsize-202043.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anurag-kashyap-on-why-bollywood-bends-to-power-and-south-doesnt-they-sometimes-feel-ashamed-but/articleshow/133273095.cms",
-    "time": "2026-08-16T10:00:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Toxic' Vulgarity Debate: Yash says he hasn’t even kissed",
-    "desc": "A Fairytale for Grown-Ups'. He reassured fans that the film respects boundaries and avoids crossing into vulgarity. Comments from Rashmika Mandanna, who dubbed him 'Mr Showoff,' were also discussed; Yash emphasized that such opinions shouldn't dictate how he sees himself. As the release date approaches, anticipation for 'Toxic' builds within the audience.",
-    "img": "https://static.toiimg.com/photo/msid-133273094,imgsize-100970.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-havent-even-kissed-yash-addresses-toxic-intimate-scenes-explains-his-take-on-vulgarity/articleshow/133273058.cms",
-    "time": "2026-08-16T09:59:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Yash reacts to Allu Aravind’s ‘Who was Yash before 'KGF'?’ remark",
-    "desc": "Rocking Star Yash addressed Allu Aravind's past remarks about his fame before KGF. He acknowledged a successful film can boost an actor's career significantly. Yash emphasized that cinema is a collective effort involving many dedicated individuals. He stated that audiences are discerning and recognize true talent and hard work. The actor is now preparing for his upcoming film Toxic, slated for release.",
-    "img": "https://static.toiimg.com/photo/msid-133273052,imgsize-1228286.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/yash-reacts-to-allu-aravinds-who-was-yash-before-kgf-comment-cinema-doesnt-just-belong-to-a-producer/articleshow/133273033.cms",
-    "time": "2026-08-16T09:55:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Clearly, there’s something wrong’: Gavaskar questions India’s fitness methods",
-    "desc": "Sunil Gavaskar, the legendary former captain, raises concerns regarding the fitness and training methodologies of the Indian cricket team. He points out that the spate of hamstring injuries suggests flaws in the existing training strategies. Furthermore, Gavaskar questions the rationale behind limiting bowlers' net sessions in the name of biomechanics, insisting that match fitness should take priority over purely gym-focused conditioning.",
-    "img": "https://static.toiimg.com/photo/msid-133273023,imgsize-20050.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/clearly-theres-something-wrong-sunil-gavaskar-questions-indias-fitness-methods-amid-injury-crisis/articleshow/133272993.cms",
-    "time": "2026-08-16T09:52:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Thousands of fans collect to say goodbye to Bonnie Tyler in Swansea",
-    "desc": "Swansea became a sea of fans mourning the legendary Bonnie Tyler, as her coffin adorned with the Welsh flag made its way home from Portugal. Fans took to the streets, joyously singing 'Total Eclipse of the Heart,' a testament to her profound influence. A service will be conducted for close friends and family, with a public livestream embracing all who wish to celebrate her remarkable contributions to music and culture.",
-    "img": "https://static.toiimg.com/photo/msid-133272784,imgsize-22944.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/bonnie-tylers-coffin-brought-back-to-swansea-thousands-of-fans-attend-procession-to-pay-their-final-respects/articleshow/133272766.cms",
-    "time": "2026-08-16T09:29:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Meenakshi Chaudhary hails her 'GOAT' star Vijay’s professionalism",
-    "desc": "Meenakshi Chaudhary lauded actor Vijay for his outstanding professionalism and punctual nature during their collaboration on the film GOAT. She highlighted his remarkable discipline and consistent respect for everyone's time on set. Additionally, she expressed joy in Vijay's recent rise to Chief Minister of Tamil Nadu, feeling honored to witness such an inspiring milestone achieved by a co-star, which motivates the entire film industry.",
-    "img": "https://static.toiimg.com/photo/msid-133272332,imgsize-175128.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/meenakshi-chaudhary-hails-her-goat-star-vijays-professionalism-says-he-always-respects-others-time/articleshow/133272318.cms",
-    "time": "2026-08-16T09:29:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "actor recalls breaking off engagement",
-    "desc": "Govinda's past engagement to Sunita Ahuja was broken due to his strong feelings for Neelam Kothari. He admitted comparing Sunita Ahuja to Neelam Kothari and wanted her to change. Sunita Ahuja contacted him again, leading him to recommit to their relationship. Recent reports suggest trouble in Govinda and Sunita Ahuja's marriage. Govinda has also responded to Sunita Ahuja's viral video and spoken about family matters.",
-    "img": "https://static.toiimg.com/photo/msid-133272660,imgsize-246367.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-govinda-revealed-he-wanted-to-marry-neelam-kothari-i-asked-sunita-to-leave-me/articleshow/133272502.cms",
-    "time": "2026-08-16T09:10:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Saif spotted with Kareena and sons at airport",
-    "desc": "Saif Ali Khan celebrated his birthday at the airport with Kareena Kapoor Khan and sons Taimur and Jeh, dressed casually before their trip. Kareena shared holiday photos on Instagram, calling him her \"forever ride or die.\" Married since 2012, the couple share two sons. Saif next stars in 'Haiwaan,' releasing September 11, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-47529300.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saif-ali-khan-spotted-with-kareena-kapoor-khan-and-sons-at-airport-back-from-haiwaan-acttors-birthday-getaway/articleshow/133272481.cms",
-    "time": "2026-08-16T09:02:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Very embarrassing’: Ponting tears apart Australia after Bangladesh shock",
-    "desc": "Bangladesh made history by defeating Pat Cummins' Australian team by nine wickets, prompting former Aussie captains Ricky Ponting and Matthew Hayden to advocate for significant team alterations. With the selectors facing mounting pressure to rejuvenate the faltering Australian side, Hayden proposed adding Sam Konstas and Matt Renshaw to strengthen the lineup. This match is notable as it marks Australia's first Test loss to Bangladesh on their own soil.",
-    "img": "https://static.toiimg.com/photo/msid-133272246,imgsize-118296.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/very-embarrassing-defeat-ricky-ponting-tears-apart-australia-after-bangladesh-shock/articleshow/133272199.cms",
-    "time": "2026-08-16T08:31:47.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +853,50 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/other-sports/india-badminton-revolution-hyderabad-2009-delhi-2026-bwf-world-championships-sindhu-gopichand-saina-prannoy-ayush/article71346780.ece",
     "time": "2026-08-14T16:14:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Isa Guha",
+    "desc": "The former England cricketer discusses her journey from World Cup winner to pioneering commentator in this interview. She talks about how she broke in as a pundit, why different countries demand different broadcast styles, when she knew she had arrived in the commentary booth and why she founded a charity that advances equity, diversity and inclusion in cricket",
+    "img": "https://th-i.thgim.com/public/incoming/trvyvo/article71346818.ece/alternates/LANDSCAPE_1200/GettyImages-2161187519.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/isa-guha-england-womens-cricket-commentary-south-asian-representation/article71346849.ece",
+    "time": "2026-08-14T16:14:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India hopes to revive WTC fortunes on Sri Lankan shores",
+    "desc": "Gill’s men will draw inspiration from a superior head-to-head record; the visiting side’s batters need to come good to make life easier for their bowlers; left-arm spinner Prabath could be the trump card for the home team",
+    "img": "https://th-i.thgim.com/public/incoming/o1lmlz/article71345850.ece/alternates/LANDSCAPE_1200/20260814274L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/india-hopes-to-revive-wtc-fortunes-on-sri-lankan-shores/article71345857.ece",
+    "time": "2026-08-14T15:12:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Rupee gains 3 paise to 95.42 against U.S. dollar",
+    "desc": "At the interbank foreign exchange market, the rupee opened at 95.39 and moved in a tight range of 95.38 to 95.44 against the American currency before ending the session at 95.42 (provisional), up 3 paise from its previous close",
+    "img": "https://th-i.thgim.com/public/incoming/veobce/article71345394.ece/alternates/LANDSCAPE_1200/BIZ-RBI-FCNR-DEG4QGB8UHN.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/markets/rupee-gains-3-paise-to-9542-against-us-dollar/article71345346.ece",
+    "time": "2026-08-14T11:51:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Awarapan 2’ movie review: Emraan Hashmi’s faded sequel doesn’t rise from the riches of its past",
+    "desc": "Even if the action sequences, lighting, and camerawork have improved multifold from 2007, the sequel struggles to hold itself together as it imagines the world of ‘Awarapan’ purely as a generic genre piece, when its soul lies elsewhere",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/fwk2m4/article71344847.ece/alternates/LANDSCAPE_1200/Emraan%20Hashmi%20in%20%E2%80%98Awarapan%202%E2%80%99",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/awarapan-2-movie-review-emraan-hashmis-faded-sequel-doesnt-rise-from-the-riches-of-its-past/article71344732.ece",
+    "time": "2026-08-14T09:35:36.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India has “reassuring” talks with U.S., including on Bill that proposes 100% tariffs",
+    "desc": "The U.S. Senate earlier this week passed the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, which proposes tariffs of up to 100% on countries that import oil from Russia in large quantities. This would like include India, if it become law.",
+    "img": "https://th-i.thgim.com/public/incoming/achtat/article71341048.ece/alternates/LANDSCAPE_1200/India-secures-lGTUGA18LS.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/india-has-reassuring-talks-with-us-including-on-bill-that-proposes-100-tariffs/article71341005.ece",
+    "time": "2026-08-13T13:27:21.000Z"
   }
 ];
