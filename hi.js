@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Ayush Shetty stuns World No.1 Shi Yuqi in biggest win of his career at Badminton World Championships",
+    "desc": "Ayush Shetty has announced himself on the biggest stage in style as the 21-year-old Indian pulled off a stunning three-game victory over world No.1 Shi Yuqi of China on the opening day of the BWF World...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/ayush-shetty-stuns-world-no-1-shi-yuqi-in-biggest-win-of-his-career-at-badminton-world-championships-2026-08-17-1051646",
+    "time": "2026-08-17T15:12:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PV Sindhu gets off to stellar start at Badminton World Championships, registers exceptional win in round 1",
+    "desc": "The Badminton World Championships 2026 kicked off in perfect fashion for ace India shuttler PV Sindhu. Taking on Irish star Sophia Noble in the first round, PV Sindhu registered a straight-sets win. The two stars...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/pv-sindhu-gets-off-to-stellar-start-at-badminton-world-championships-registers-exceptional-win-in-round-1-2026-08-17-1051635",
+    "time": "2026-08-17T13:19:53.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Dickwella-Sonal headline Day 3 of Galle Test, resilient knocks help keep Sri Lanka afloat",
     "desc": "Day 3 of the ongoing first Test between India and Sri Lanka proved to be a roller coaster of emotions for the fans. The day began with India losing their final wicket and posting a...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/cristiano-ronaldo-drops-retirement-bombshell-says-probably-my-last-year-of-football-latest-updates-2026-08-16-1051563",
     "time": "2026-08-16T17:03:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India continue batting onslaught in rain-marred day 2, set up crucial third day in Galle",
-    "desc": "India and Sri Lanka continued their ongoing first Test of the series. The two sides met for day 2 of the clash at the Galle International Stadium on August 16th. It is worth noting that...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-continue-batting-onslaught-in-rain-marred-day-2-set-up-crucial-third-day-in-galle-2026-08-16-1051551",
-    "time": "2026-08-16T13:09:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "AB de Villiers hails star India batter after magnificent show against Sri Lanka in Galle",
-    "desc": "The Indian team took on Sri Lanka in the first Test of the ongoing two-game series. The two sides met at the Galle International Stadium for the clash, and the performance of star batter Devdutt...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ab-de-villiers-hails-star-india-batter-after-magnificent-show-against-sri-lanka-in-galle-2026-08-16-1051549",
-    "time": "2026-08-16T12:40:46.000Z"
   }
 ];
