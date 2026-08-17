@@ -1,21 +1,210 @@
 const newsData_en = [
   {
-    "cat": "Politics",
-    "title": "OMR sheets altered, signatures forged, says SIT report on Group-I 2018 recruitment",
-    "desc": "Data entry operators, security guards, electricians, and private lecturers evaluated the answer sheets in a resort for 84 days, duplicate OMR sheets were printed using the barcode numbers of the candidates, claims the report submitted by the Special Investigation Team recently",
-    "img": "https://th-i.thgim.com/public/incoming/qzl197/article71357011.ece/alternates/LANDSCAPE_1200/vjkvg-group_2.JPG",
+    "cat": "Sports",
+    "title": "India gains big lead despite Dinusha-Dickwella fightback",
+    "desc": "The left-handers put on 146 for the sixth wicket as Sri Lanka ends up with 284 in its first innings in response to the visitor’s 462; Suthar claims a four-for while fellow left-arm spinner Jadeja scalps three",
+    "img": "https://th-i.thgim.com/public/incoming/udvask/article71355887.ece/alternates/LANDSCAPE_1200/PTI08_17_2026_000236A.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/omr-sheets-altered-signatures-forged-says-sit-report-on-group-i-2018-recruitment/article71355928.ece",
-    "time": "2026-08-17T15:08:18.000Z"
+    "url": "https://www.thehindu.com/sport/cricket/india-versus-sri-lanka-test-match-report-august-17/article71355001.ece",
+    "time": "2026-08-17T18:00:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "From career-threatening injury to Masters triumph, Chaliha’s Korean journey comes full circle",
+    "desc": "Ashmita Chaliha’s comeback from a serious knee injury has taken her from a career low outside the world’s top 200 to winning the Korea Masters title this year. After months of mentally difficult rehabilitation, she returned through smaller tournaments to regain fitness and confidence. Her title triumph reflects patience and resilience, as she rebuilt her career one match at a time.",
+    "img": "https://static.toiimg.com/photo/msid-133303415,imgsize-140406.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/from-career-threatening-injury-to-masters-triumph-ashmita-chalihas-korean-journey-comes-full-circle/articleshow/133303111.cms",
+    "time": "2026-08-17T17:44:17.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Mega DSC process transparent, merit-based, says Naidu; Lokesh challenges Opposition to debate",
-    "desc": "Chandrababu Naidu accuses the YSRCP of adopting ‘hit-and-run’ politics by making allegations outside the House, and says he will remain fully accountable to the people and leave it to the people to judge the conduct of those levelling allegations against the government",
-    "img": "https://th-i.thgim.com/public/incoming/oyk78k/article71357163.ece/alternates/LANDSCAPE_1200/DSC_5605.JPG",
+    "title": "Gangster Shahzad Bhatti picked operatives through social media",
+    "desc": "Bhatti, who operates from UAE, is also a social media influencer; police say he offered money to youth to throw grenades and plant explosives near critical installations and to install cameras near air bases, railway stations and roads; the footage was then allegedly relayed to Pakistan",
+    "img": "https://th-i.thgim.com/public/news/national/dti9o1/article71357064.ece/alternates/LANDSCAPE_1200/Shahzad%20Bhatti.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/mega-dsc-process-transparent-merit-based-says-naidu-lokesh-challenges-opposition-to-debate/article71356584.ece",
-    "time": "2026-08-17T15:07:48.000Z"
+    "url": "https://www.thehindu.com/news/national/gangster-shahzad-bhatti-picked-operatives-through-social-media/article71356899.ece",
+    "time": "2026-08-17T17:38:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Opium farmers demand more farming licences, ₹1 lakh per kilogram",
+    "desc": "Ahead of the announcement of the opium licensing policy for 2026-27, scheduled for September, opium farmers from Madhya Pradesh, Rajasthan and Uttar Pradesh have urged the Union Government to formulate it in a manner that benefits the country and farmers",
+    "img": "https://th-i.thgim.com/public/incoming/axxn6u/article71009445.ece/alternates/LANDSCAPE_1200/SRNIA_18-5-2016_16-39-14_14-POPPY-SGR-18-05-2016.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/opium-farmers-demand-more-farming-licences-1-lakh-per-kilogram/article71357211.ece",
+    "time": "2026-08-17T17:36:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CM Revanth opens MCR TIMS Sanathnagar with focus on affordable, quality healthcare",
+    "desc": "The 1,082-bed facility, built at a cost of ₹1,126 crore, is positioned as a corporate-level public hospital with 37 medical departments; CM says specialists serving additional hours in government hospitals would be recognised and incentivised",
+    "img": "https://th-i.thgim.com/public/incoming/zbhcxd/article71357587.ece/alternates/LANDSCAPE_1200/_DSC8768.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Hyderabad/cm-revanth-opens-mcr-tims-sanathnagar-with-focus-on-affordable-quality-healthcare/article71357486.ece",
+    "time": "2026-08-17T17:35:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Jharkhand CM announces cancellation of JSSC-CGL exams; protest to continue till CBI probe demand is met, say students",
+    "desc": "“Our demand for a CBI investigation remains unfulfilled. Our hunger strike will not end until the CBI inquiry takes place. It is a matter of great happiness that the JSSC-CGL exam has been cancelled. We will call off the agitation only after the CBI inquiry is conducted, not before,” say students",
+    "img": "https://th-i.thgim.com/public/incoming/4dty3/article71357755.ece/alternates/LANDSCAPE_1200/20260817606L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/hemant-sorent-announces-jssc-cgl-exam-cancellation-after-emergency-cabinet-meeting/article71357634.ece",
+    "time": "2026-08-17T17:29:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Show composure’: Fulton’s message to India ahead of must-not-lose Pakistan clash",
+    "desc": "Following India's defeat in the Hockey World Cup, coach Craig Fulton emphasised the necessity for stricter defensive discipline. He urged players to maintain composure and enhance their defensive strategies ahead of the critical match against Pakistan. Midfielder Manpreet Singh echoed his sentiments, pinpointing defensive errors as pivotal to their loss. A point against Pakistan is essential for India's progression to the next round.",
+    "img": "https://static.toiimg.com/photo/msid-133302465,imgsize-220356.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/hockey-world-cup-show-a-bit-of-composure-fultons-message-to-india-ahead-of-must-not-lose-pakistan-clash/articleshow/133302422.cms",
+    "time": "2026-08-17T17:10:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Marijne questions FIH over China’s penalty stroke, later deletes posts",
+    "desc": "Indian women's hockey coach questioned the penalty-stroke rule interpretation after a draw. He shared footage and sought clarification from the International Hockey Federation. Former players also expressed their views on the controversial penalty-stroke action. The coach later removed his social media posts regarding the incident. FIH had not responded to clarification requests at the time of publication.",
+    "img": "https://static.toiimg.com/photo/msid-133301805,imgsize-93058.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/hockey-world-cup-india-coach-marijne-questions-fih-over-chinas-penalty-stroke-later-deletes-posts/articleshow/133301780.cms",
+    "time": "2026-08-17T16:35:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "I leave it to the MLAs to decide whether they should get up when the Chief Minister arrives, says Tamil Nadu Assembly Speaker",
+    "desc": "It is not compulsory to stand up whenever the Chief Minister or the Leader of the Opposition arrives. However, showing respect is part of Tamil culture and tradition. The individual members should decide for themselves whether or not to follow it, says Speaker J.C.D. Prabhakar",
+    "img": "https://th-i.thgim.com/public/incoming/2db77r/article71357526.ece/alternates/LANDSCAPE_1200/DisqualificatioGUIGA9MKO.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/i-leave-it-to-the-mlas-to-decide-whether-they-should-get-up-when-the-chief-minister-arrives-says-tamil-nadu-assembly-speaker/article71356655.ece",
+    "time": "2026-08-17T16:20:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Eight killed in hotel fire in West Bengal’s Tarapith",
+    "desc": "The fire erupted around 4.30 a.m. on the ground floor of the four-storey hotel in the temple town of Tarapith, when most of the guests were asleep. Out of the eight deceased, five were from Garo Hills of Meghalaya and three were from Alipurduar district of West Bengal.",
+    "img": "https://th-i.thgim.com/public/incoming/unakmj/article71355052.ece/alternates/LANDSCAPE_1200/PTI08_17_2026_000038B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/seven-killed-several-injured-in-hotel-fire-in-west-bengals-tarapith/article71354899.ece",
+    "time": "2026-08-17T16:17:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court",
+    "desc": "Impeding elephant corridors is not a solution to human-animal conflicts, says SC; it directs Centre to conduct a national survey to remove obstructions from routes and ensure a ban on the use of fireballs and spikes to drive away elephants",
+    "img": "https://th-i.thgim.com/public/incoming/wx5udi/article71356108.ece/alternates/LANDSCAPE_1200/peria_9869_12_8_2026_19_49_59_3_DSC5400%201.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/states-cant-create-blockades-in-elephant-corridors-sc/article71356053.ece",
+    "time": "2026-08-17T16:16:22.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India set for record soyoil imports as Russia-Ukraine war disrupts sunflower shipments",
+    "desc": "Russia and Ukraine account for most of India’s sunflower oil imports, which are likely to fall to 180,000 metric tons in August, the ​lowest since February 2026 and ‌down 28% from a month earlier, the dealers said.",
+    "img": "https://th-i.thgim.com/public/incoming/25pk23/article71357530.ece/alternates/LANDSCAPE_1200/2011-05-13T030247Z_01_SIN802_RTRMDNP_3_CHINA-SOYOIL.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/india-set-for-record-soyoil-imports-as-russia-ukraine-war-disrupts-sunflower-shipments/article71357494.ece",
+    "time": "2026-08-17T16:10:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Groundwater that glows yellow-green in U.P.",
+    "desc": "Decades of industrial waste dumping have contaminated groundwater with chromium (VI) across parts of three Uttar Pradesh districts, exposing villagers to unsafe water and serious health risks. Despite years of complaints and court intervention, the government’s efforts to identify contaminated areas, provide safe drinking water and healthcare, and clean up toxic waste remain slow and inadequate.",
+    "img": "https://th-i.thgim.com/public/incoming/tzoerq/article71322823.ece/alternates/LANDSCAPE_1200/SPOTLIGHT%20Kanpur%20Severe%20Groundwater%20Pollution%2017.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/contaminated-groundwater-in-uttar-pradesh-poses-health-risks/article71322801.ece",
+    "time": "2026-08-17T16:10:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Pollution is pretty insane’: Antonsen wants India Open to move out of Delhi winter",
+    "desc": "Danish badminton player Anders Antonsen has voiced concerns regarding the BWF's scheduling of the India Open, criticising the January-February timeframe due to the heavy winter pollution in Delhi. He chose to miss this year's tournament, incurring a fine as a result. Antonsen believes that the winter air quality severely hampers athletes' performance and calls for improved conditions in future competitions.",
+    "img": "https://static.toiimg.com/photo/msid-133301278,imgsize-46356.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/pollution-is-pretty-insane-anders-antonsen-calls-for-india-open-to-move-out-of-delhi-winter/articleshow/133301218.cms",
+    "time": "2026-08-17T16:03:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ayush Shetty stuns World No. 1 Shi Yu Qi; India 5-0 on Day 1",
+    "desc": "Ayush Shetty produced the biggest win of his career on Day 1 at the BWF World Championships, stunning top seed and defending champion Shi Yu Qi in a thrilling contest. Led by the young Indian's heroics and PV Sindhu's comfortable win, India made a perfect 5-0 start on the opening day of the tournament in New Delhi.",
+    "img": "https://static.toiimg.com/photo/msid-133301247,imgsize-100123.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/bwf-world-championships-ayush-shetty-stuns-world-no-1-shi-yu-qi-india-5-0-on-day-1/articleshow/133301177.cms",
+    "time": "2026-08-17T16:03:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Nitin's 'Nabin' team: BJP hits reset button with eye on Uttar Pradesh and 'Mission 2029'",
+    "desc": "The Bharatiya Janata Party has unveiled its dynamic new national team of office-bearers, strategically assembled to tackle both the upcoming assembly elections and the 2029 Lok Sabha contest. This diverse lineup features a mix of seasoned politicians and fresh talent, representing various regions. Some notable figures are making returns, while others have been sidelined, highlighting the party's commitment to revitalizing its organizational framework for future challenges.",
+    "img": "https://static.toiimg.com/photo/msid-133301291,imgsize-963102.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/nitins-nabin-team-bjp-hits-reset-button-with-eye-on-uttar-pradesh-and-mission-2029/articleshow/133300886.cms",
+    "time": "2026-08-17T15:58:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "LDF meeting skips crucial internal issues, decides to focus on local body bypolls",
+    "desc": "Convener T.P. Ramakrishnan says CPI’s demand for the Deputy Leader of the Opposition post was not on the meeting’s agenda. He denied that the CPI’s ire and the feuding within allies such as INL had prompted the CPI(M) to defer the meeting",
+    "img": "https://th-i.thgim.com/public/incoming/ktv9q/article71357491.ece/alternates/LANDSCAPE_1200/80692_2_4_2026_14_6_15_1_03TVKZTPRAMAKRISHNAN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/ldf-meeting-skips-crucial-internal-issues-decides-to-focus-on-local-body-bypolls/article71357101.ece",
+    "time": "2026-08-17T15:58:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Alia shares UNSEEN family pics with Ranbir and Raha",
+    "desc": "Alia Bhatt delighted fans by sharing heartwarming family snapshots featuring her husband Ranbir Kapoor and their daughter, Raha. The collection includes adorable moments, like Raha playfully tugging at her mother's ear. These candid images reflect the joy of their shared experiences since Alia and Ranbir tied the knot in April 2022, shortly before welcoming Raha in November 2022.",
+    "img": "https://static.toiimg.com/photo/msid-133301040,imgsize-648968.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alia-bhatt-shares-unseen-family-pictures-with-ranbir-kapoor-and-daughter-raha-calls-them-good-old-days/articleshow/133300965.cms",
+    "time": "2026-08-17T15:53:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anurag Kashyap hails 'Pallaburusu'; calls the film 'dramedy unmissable'",
+    "desc": "Filmmaker Anurag Kashyap has praised the new Telugu film Pallaburusu, describing it as a delightful blend of drama and comedy that surprises with its charm. The movie navigates family dynamics and personal egos, while showcasing performances by Sudhakar Reddy and Murlidhar Goud. Released on August 14, Pallaburusu is a breath of fresh air in a genre often dominated by action and intensity.",
+    "img": "https://static.toiimg.com/photo/msid-133300943,imgsize-2174092.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/anurag-kashyap-reviews-telugu-film-pallaburusu-calls-it-unmissable-compares-debut-director-uday-chauhan-to-venkatesh-maha/articleshow/133300883.cms",
+    "time": "2026-08-17T15:45:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Initial investigation finds no signs of foul play",
+    "desc": "Hayden Panettiere passes away at 36 in Greenville, South Carolina. TheScreamandHeroesactress was found unresponsive on Sunday and pronounced dead at the scene. Police say the initial investigation has found no signs of foul play or suspicious circumstances. Her official cause of death remains unconfirmed, with an autopsy pending.",
+    "img": "https://static.toiimg.com/photo/msid-133300830,imgsize-74004.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/hayden-panettiere-passes-away-at-36-initial-investigation-finds-no-signs-of-foul-play-or-suspicious-circumstances-as-police-probe-actress-sudden-demise/articleshow/133300774.cms",
+    "time": "2026-08-17T15:35:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Have to follow medical advice': Babar doubtful for England opener",
+    "desc": "Pakistan captain Babar Azam remains doubtful for Wednesday’s first Test against England as he recovers from a finger injury. He bats briefly in the nets but will undergo further assessment before a match-day decision. Opener Shan Masood, also recovering from a fractured finger, trains fully and appears closer to returning. Pakistan pacer Mohammad Abbas says medical advice will guide both selections.",
+    "img": "https://static.toiimg.com/photo/msid-133300801,imgsize-44090.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/well-have-to-follow-medical-advice-pakistan-captain-babar-azam-doubtful-for-england-opener/articleshow/133300713.cms",
+    "time": "2026-08-17T15:33:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "RGV's 'Police Company' to be two-part project; Harshavardhan as Daya Nayak",
+    "desc": "Ram Gopal Varma’s much-anticipated film 'Police Company' has officially begun production, with Harshvardhan Rane taking on the role of Daya Nayak. This gripping crime thriller, set against the backdrop of the Mumbai Police Encounter Squad’s fierce operations in the late 1990s, will unfold over two theatrical parts, aiming for a mid-2027 release for the first chapter. The project is generously financed by Bhushan Kumar’s T-Series and is being filmed consecutively.",
+    "img": "https://static.toiimg.com/photo/msid-133300656,imgsize-634162.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ram-gopal-varmas-police-company-to-be-made-as-two-part-franchise-starring-harshvardhan-rane-as-daya-nayak-report/articleshow/133300560.cms",
+    "time": "2026-08-17T15:26:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India’s 32-year England jinx continues as late goals seal 2-4 defeat",
+    "desc": "England secured a 4-2 victory over India in their Hockey World Cup Pool D match. India led 2-1 at halftime after goals from Harmanpreet and Dilpreet Singh. England responded strongly in the second half, scoring three times to seal the win. This defeat means India must draw against Pakistan to advance. The result extends India's winless streak against England in the World Cup.",
+    "img": "https://static.toiimg.com/photo/msid-133300586,imgsize-166069.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/hockey-world-cup-indias-32-year-england-jinx-continues-as-late-goals-seal-2-4-defeat/articleshow/133300556.cms",
+    "time": "2026-08-17T15:21:50.000Z"
   },
   {
     "cat": "Entertainment",
@@ -28,39 +217,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Halal Fayidha Co-operative Society denies investment scam allegations",
-    "desc": "The society denied allegations that it has collapsed or that an investment scam has taken place. It said that it had never accepted deposits and that the money collected from members constituted only share capital.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/halal-fayidha-co-operative-society-denies-investment-scam-allegations/article71355772.ece",
-    "time": "2026-08-17T14:42:09.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "CM Vijay defines priorities, but his real test begins now",
     "desc": "Tamil Nadu's new Chief Minister Vijay's government has completed its first hundred days. The administration has focused heavily on welfare programs and social initiatives. Significant investment commitments have also been secured for the state's development. The government has implemented measures to address women's safety and curb drug use. But now delivery of these promises will be closely watched.",
     "img": "https://static.toiimg.com/photo/msid-133299911,imgsize-1036168.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/100-days-of-tvk-government-cm-vijay-defines-priorities-but-his-real-test-begins-now/articleshow/133299642.cms",
     "time": "2026-08-17T14:42:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "A.P. Chief Minister warns of severe water stress due to El Niño",
-    "desc": "Chandrababu Naidu urges farmers to avoid water-intensive crops in areas facing acute shortages, and says that the State is likely to receive substantially below-normal rainfall this year, with water availability declining in major river basins, reservoirs, and projects",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-chief-minister-warns-of-severe-water-stress-due-to-el-nino/article71356653.ece",
-    "time": "2026-08-17T14:38:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CM Vijay announces full crop loan waiver of up to ₹75,000",
-    "desc": "Those who had obtained loans in the range of ₹75,000 to ₹1,00,000 would receive a maximum waiver of ₹75,000, and those who had taken loans exceeding ₹1 lakh would be given a maximum waiver of ₹35,000",
-    "img": "https://th-i.thgim.com/public/incoming/mwwcmd/article71356948.ece/alternates/LANDSCAPE_1200/PTI08_15_2026_000342A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/cm-vijay-announces-full-crop-loan-waiver-of-up-to-75000/article71356344.ece",
-    "time": "2026-08-17T14:34:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -90,24 +252,6 @@ const newsData_en = [
     "time": "2026-08-17T14:28:31.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Former court staffer gets 37-year-sentence for misappropriating funds in Kallakurichi",
-    "desc": "The investigators found that the accused had allegedly reused case numbers of Motor Accident Claims cases that had already been settled and closed, diverted court funds and transferred the money to the bank accounts of her son and associates",
-    "img": "https://th-i.thgim.com/public/incoming/snty5r/article71356466.ece/alternates/LANDSCAPE_1200/iStock-1905024012%202.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/former-court-staffer-gets-37-year-sentence-for-misappropriating-funds-in-kallakurichi/article71356257.ece",
-    "time": "2026-08-17T14:26:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Nitin Nabin announces his team; Smriti Irani, Ram Madhav make a comeback, Amit Malviya out",
-    "desc": "The appointment with the most sharp signalling, however, appears to be in the BJP’s social media team. After a long stint at the helm, Amit Malviya will no longer be in charge. Deepak Mhaskey from Chhattisgarh replaces him.",
-    "img": "https://th-i.thgim.com/public/incoming/w6kz13/article71356946.ece/alternates/LANDSCAPE_1200/MixCollage-17-Aug-2026-07-52-PM-1925.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bjp-reshuffle-vasundhara-raje-ram-madhav-smriti-irani-vice-presidents-general-secretaries-organisational-overhaul/article71355824.ece",
-    "time": "2026-08-17T14:25:33.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Wall Street near record highs; all eyes on corporate earnings, oil prices",
     "desc": "The rally that has carried Wall Street to record levels has been fuelled largely by strong corporate profits. Companies in the S&P 500 are expected to post roughly 50% growth in earnings per share for the spring quarter compared with the same period a year earlier, according to FactSet.",
@@ -117,15 +261,6 @@ const newsData_en = [
     "time": "2026-08-17T14:22:20.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Residents step up protest for cattle underpass at Chombala",
-    "desc": "The protesters are urging authorities to construct a CUP near Chombala Block Office, citing concerns that access to the Government Veterinary Hospital and the mini stadium would be cut off once the National Highway construction is completed.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/residents-step-up-protest-for-cattle-underpass-at-chombala/article71356454.ece",
-    "time": "2026-08-17T14:16:34.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'It's a lady's sport': The challenge of badminton in Uganda, Canada, Bulgaria",
     "desc": "The 2026 BWF World Championships highlight badminton’s global reach, with top representation from Asian powerhouses and Denmark. While nations like Bulgaria, Uganda, and South Africa have fewer athletes and limited resources, their stories underscore dedication and growth.",
@@ -133,15 +268,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/its-a-ladys-sport-the-challenge-of-badminton-in-uganda-canada-bulgaria/articleshow/133299259.cms",
     "time": "2026-08-17T14:11:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "KWC chairperson",
-    "desc": "Speaking after a sitting of the KWC at the Kozhikode Collectorate conference hall, P. Sathidevi said all government offices and private institutions should have functional internal committees and details of the committees should be prominently displayed.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/ensure-functional-internal-committees-at-all-workplaces-kwc-chairperson/article71356539.ece",
-    "time": "2026-08-17T14:09:00.000Z"
   },
   {
     "cat": "World",
@@ -169,15 +295,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/georgina-rodrguez-reveals-actual-reason-she-and-cristiano-ronaldo-chose-to-marry-in-their-living-room/articleshow/133295267.cms",
     "time": "2026-08-17T13:42:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India gains big lead despite Dinusha-Dickwella fightback",
-    "desc": "The two left-handers put on 146 for the sixth wicket as Sri Lanka ends up with 284 in its first innings in response to the visitor’s 462; Manav claims a four-for while fellow left-arm spinner Jadeja scalps three",
-    "img": "https://th-i.thgim.com/public/incoming/udvask/article71355887.ece/alternates/LANDSCAPE_1200/PTI08_17_2026_000236A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/india-versus-sri-lanka-test-match-report-august-17/article71355001.ece",
-    "time": "2026-08-17T13:42:23.000Z"
   },
   {
     "cat": "Sports",
@@ -387,15 +504,6 @@ const newsData_en = [
     "time": "2026-08-17T10:35:41.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "RK Menon says Shahid might NOT DO Dingko Singh biopic",
-    "desc": "Filmmaker Raja Krishna Menon is dedicatedly working on a biopic centered around the inspiring life of boxer Ngangom Dingko Singh. Known for his remarkable influence in the region, Dingko's story calls for a younger talent to take on the lead role as Menon shifts his focus away from earlier favorite Shahid Kapoor. He remains hopeful that the right conditions will soon fall into place for this ambitious project.",
-    "img": "https://static.toiimg.com/photo/msid-133292720,imgsize-631606.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/raja-krishna-menon-says-shahid-kapoor-might-not-be-interested-in-doing-dingko-singh-biopic-now-heres-why/articleshow/133291924.cms",
-    "time": "2026-08-17T09:44:53.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Parents watching me live probably after 13 years': Arjun after World C'ships opener win",
     "desc": "MR Arjun’s BWF World Championships win was special as his parents watched him play live for the first time in 13 years. Arjun and Hariharan Amsakarunan beat Ireland’s Scott Guildea and Paul Reynolds before an injury retirement. Strong support from the home crowd boosted the pair, helping them secure a confident start to India’s campaign in New Delhi.",
@@ -403,15 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/parents-watching-me-live-probably-after-13-years-mr-arjun-savours-world-championships-opener-win/articleshow/133292172.cms",
     "time": "2026-08-17T09:32:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Malti Marie embraces her desi side",
-    "desc": "Priyanka Chopra Jonas shared recent family pictures and travel moments. She posted photos of her daughter Malti Marie enjoying snacks and prayers. Malti Marie also embraced her Indian heritage wearing a traditional chaniya choli. Priyanka Chopra Jonas is preparing for her upcoming Telugu film 'Varanasi'. The epic action-adventure is scheduled for a worldwide release in April 2027.",
-    "img": "https://static.toiimg.com/photo/msid-133292371,imgsize-247910.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-jonas-shares-quiet-family-time-pics-malti-marie-embraces-her-desi-side-pays-tribute-to-nana-ashok-chopra/articleshow/133292164.cms",
-    "time": "2026-08-17T09:27:07.000Z"
   },
   {
     "cat": "Sports",
@@ -495,15 +594,6 @@ const newsData_en = [
     "time": "2026-08-17T05:45:03.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'He’s been quietly toiling': KL reveals Padikkal’s quiet grind behind century",
-    "desc": "In a remarkable performance, Devdutt Padikkal achieved his first Test century, scoring an impressive 167 in Galle. KL Rahul praised Padikkal's dedication over the years that led to this well-deserved chance. His experience with India A provided him crucial insights into local conditions. This milestone century alleviates the psychological pressure for the promising young batter. India’s total reached 462, thanks to significant contributions from Padikkal, Rahul, and Jurel.",
-    "img": "https://static.toiimg.com/photo/msid-133287015,imgsize-100408.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/hes-been-quietly-toiling-kl-rahul-reveals-devdutt-padikkals-quiet-grind-behind-breakthrough-ton/articleshow/133286886.cms",
-    "time": "2026-08-17T05:01:29.000Z"
-  },
-  {
     "cat": "Business",
     "title": "BMRCL could have earned ₹103.77 crore more from Nagasandra property: CAG",
     "desc": "The CAG, in its Performance Audit of implementation of Phase 1 and Phase 2 of the Namma Metro rail project, found that BMRCL did not adequately safeguard its financial interests while determining the premium for the property",
@@ -520,15 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-falls-17-paise-to-95-59-against-us-dollar-as-fcnr-swap-deadline-weighs-down-sentiment/articleshow/133286610.cms",
     "time": "2026-08-17T04:34:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How India’s WTC final hopes hurt after Bangladesh's win over Australia: Explained",
-    "desc": "Cameron Green's maiden Test century at home delayed the result, but Bangladesh had already taken control of the match after three-and-a-half days of cricket on a Marrara Stadium pitch that offered a good contest between bat and ball.",
-    "img": "https://static.toiimg.com/photo/msid-133286383,imgsize-146757.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/how-indias-wtc-final-hopes-take-a-hit-after-bangladeshs-historic-win-over-australia-explained/articleshow/133286100.cms",
-    "time": "2026-08-17T04:30:25.000Z"
   },
   {
     "cat": "Business",
@@ -550,48 +631,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "PV Sindhu, Ayush Shetty among Indians in action; full schedule",
-    "desc": "India have won at least one medal at every edition of the BWF World Championships since 2011, and the home contingent will look to continue that run this year. Lakshya Sen and Ayush Shetty will also be among the Indian players hoping to make an impact in the men's singles event.",
-    "img": "https://static.toiimg.com/photo/msid-133285632,imgsize-152930.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/badminton/bwf-world-championships-day-1-pv-sindhu-ayush-shetty-among-indians-in-action-full-schedule/articleshow/133285506.cms",
-    "time": "2026-08-17T03:13:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rain could play spoilsport as India’s dominance faces weather hurdle on Day 3 in Galle",
-    "desc": "The third day of the Test match between India and Sri Lanka is marred by significant rain interruptions, complicating the game. India is currently in a strong position, thanks to Devdutt Padikkal's impressive score of 167 runs. The team aims to boost their score before the bowling unit takes the stage.",
-    "img": "https://static.toiimg.com/photo/msid-133284594,imgsize-138372.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/rain-could-play-spoilsport-as-indias-dominance-faces-weather-hurdle-on-day-3-in-galle/articleshow/133284557.cms",
-    "time": "2026-08-17T01:40:15.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Robles",
     "desc": "He has high hopes about Spain’s future in table tennis, credits UTT for the evolution of the sport in India and shares the recipe for staying in the top 100 for more than a decade",
     "img": "https://th-i.thgim.com/public/incoming/8y9wbi/article71353874.ece/alternates/LANDSCAPE_1200/robles.jpeg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/olympics-is-always-the-biggest-stage-robles/article71353870.ece",
     "time": "2026-08-17T01:32:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "17 years on, from Hyderabad to New Delhi: How India became a badminton powerhouse",
-    "desc": "India hosts the World Championships as a badminton powerhouse. The sport's popularity and participation have significantly increased across the nation. Indian players have achieved consistent success at the World Championships and Olympics. Para-badminton also shows substantial growth with numerous international medals. New Delhi's hosting marks a new chapter in India's badminton journey.",
-    "img": "https://static.toiimg.com/photo/msid-133279344,imgsize-157602.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/badminton/17-years-on-from-hyderabad-to-new-delhi-how-india-became-a-badminton-powerhouse/articleshow/133279177.cms",
-    "time": "2026-08-17T01:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Awarapan 2' box office collection day 3: Emraan's film crosses Rs 80 cr on Sunday",
-    "desc": "Awarapan 2 has made a remarkable impact, surpassing the lifetime earnings of its predecessor on its very first day. Thanks to the Independence Day weekend boost, it attracted impressive ticket sales. The strong box office performance in its opening weekend has already labeled it a success, achieving a rapid affirmation of its financial viability.",
-    "img": "https://static.toiimg.com/photo/msid-133284073,imgsize-179743.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/awarapan-2-box-office-collection-day-3-the-emraan-hashmi-film-races-ahead-of-batwara-1947-with-a-huge-mark-on-sunday-inches-towards-rs-100-crore-becomes-the-8th-highest-grosser-of-hindi-cinema-in-2026/articleshow/133284029.cms",
-    "time": "2026-08-16T23:49:41.000Z"
   },
   {
     "cat": "World",
@@ -837,15 +882,6 @@ const newsData_en = [
     "time": "2026-08-14T09:35:36.000Z"
   },
   {
-    "cat": "Business",
-    "title": "India has “reassuring” talks with U.S., including on Bill that proposes 100% tariffs",
-    "desc": "The U.S. Senate earlier this week passed the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, which proposes tariffs of up to 100% on countries that import oil from Russia in large quantities. This would like include India, if it become law.",
-    "img": "https://th-i.thgim.com/public/incoming/achtat/article71341048.ece/alternates/LANDSCAPE_1200/India-secures-lGTUGA18LS.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/india-has-reassuring-talks-with-us-including-on-bill-that-proposes-100-tariffs/article71341005.ece",
-    "time": "2026-08-13T13:27:21.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "What happens when AI begins to design viruses?",
     "desc": "The Stanford experiment does not show that AI can casually manufacture dangerous human viruses; it shows that computers are beginning to move from analysing biological information towards proposing biological designs that scientists can physically build. This requires appropriate governance and safeguards",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/inside-the-google-executive-moves-that-led-to-its-big-ai-reshuffle/article71339422.ece",
     "time": "2026-08-13T03:45:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL and Pixel 11 Pro Fold launch: What to expect?",
-    "desc": "Under the hood, the Pixel 11 series is believed to operate on Android 17 out of the box while promising 7 years of OS updates and 7 years of security updates. Gemini is expected to dominate the show with some new upgrades",
-    "img": "https://th-i.thgim.com/public/sci-tech/technology/gadgets/qs7hsq/article71331653.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-11%20at%2012.30.56%20PM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/gadgets/google-pixel-11-pixel-11-pro-pixel-11-pro-xl-and-pixel-11-pro-fold-launch-what-to-expect/article71331641.ece",
-    "time": "2026-08-12T15:55:33.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Meta will soon face another high-stakes trial in U.S.",
-    "desc": "The federal trial, one of the most consequential among a myriad of legal proceedings targeting social networks in the United States, will begin on August 12, 2026 with jury selection at a federal court in Oakland",
-    "img": "https://th-i.thgim.com/public/incoming/36h44q/article71316172.ece/alternates/LANDSCAPE_1200/Meta_New_Mexico_6716_.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/meta-will-soon-face-another-high-stakes-trial-in-us/article71326861.ece",
-    "time": "2026-08-10T04:31:54.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Teaching AI to speak India",
-    "desc": "Artificial intelligence can chat, translate and answer questions but only if it understands your language. At IIT Madras, researchers at AI4Bharat are travelling across India, collecting voices, preserving dialects and teaching AI to understand the country’s incredible linguistic diversity.",
-    "img": "https://th-i.thgim.com/public/incoming/y693sa/article71280832.ece/alternates/LANDSCAPE_1200/iStock-1066071372.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/internet/teaching-ai-to-speak-india/article71280380.ece",
-    "time": "2026-08-09T00:15:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Karnataka explores partnership with Anthropic for governance, skilling and deep-tech growth",
-    "desc": "CM D.K. Shivakumar sought Anthropic’s expertise on how AI could help reduce fraud in government systems and improve the effectiveness, security and confidentiality of setting question papers for examinations conducted by various government agencies and educational institutions.",
-    "img": "https://th-i.thgim.com/public/news/national/karnataka/qs12uq/article71313384.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-06%20at%2017.14.14.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-explores-partnership-with-anthropic-for-governance-skilling-and-deep-tech-growth/article71312525.ece",
-    "time": "2026-08-08T19:02:03.000Z"
   }
 ];
