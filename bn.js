@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "'আমি ওকে হারাতে চাই না...', ২০ বছরের ছোট প্রেমিকাকে কবে বিয়ে করছেন অনুরাগ?",
+    "desc": "প্রায় এক দশক ধরে একসঙ্গে থাকা পরিচালক অনুরাগ কাশ্যপ ও শুভ্রা শেট্টির সম্পর্ক নিয়ে চর্চা তুঙ্গে। বয়সের ২০ বছরের ফারাক এবং বিয়ে নিয়ে শুভ্রার অনাগ্রহ সত্ত্বেও দুজনে একে অপরের প্রতি গভীর ভালোবাসার কথা জানিয়েছেন। অতীতের দুটি বিচ্ছেদের পর অনুরাগ স্পষ্ট জানিয়েছেন যে তিনি এই সম্পর্ক হারাতে নারাজ।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/anurag-kashyap-on-marriage-with-20-year-younger-girlfriend-shubhra-shetty-dont-want-to-lose-this_667272.html ",
+    "time": "2026-08-17T11:25:19.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "'মুডটাই বিগড়ে দিল...' হানিমুনে পিরিয়ড! স্ত্রীকে কিল-চড়-লাথি-ঘুষি বর্বর স্বামীর, অকথ্য অত্যাচার",
     "desc": "হানিমুনের আনন্দ মুহূর্তে বদলে গেল এক বিভীষিকায়! পিরিয়ড শুরু হওয়ায় স্ত্রীকে বেধড়ক মারধর ও শ্বাসরোধ করার অভিযোগ উঠল স্বামীর বিরুদ্ধে। কিন্তু ঠিক কী কারণে এমন অমানবিক আচরণ করলেন বর? দীর্ঘ তিন বছর পর এই চাঞ্চল্যকর ঘটনায় পুলিসের হস্তক্ষেপে যে সত্য সামনে এল, তা জানলে শিউরে উঠবেন।",
@@ -277,15 +286,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/short-film-punorjanmo-nandan-screening-surya_666480.html ",
     "time": "2026-08-11T09:13:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "বলিউডের স্টার বানাব! সিনেমার টোপ দিয়ে লাগাতার ধর্ষণ-ব্ল্যাকমেইল, গ্রেফতার জনপ্রিয় পরিচালক",
-    "desc": "৭৩ বছর বয়সী প্রবীণ পরিচালক শাকিল নূরানীকে ধর্ষণের অভিযোগে গ্রেফতার করেছে মুম্বই পুলিস। অভিযোগ, ছবির স্ক্রিপ্ট আলোচনার কথা বলে ডেকে এনে অচেতন করে ধর্ষণ করে সে। তারপর আপত্তিকর ভিডিয়ো বানিয়ে চার বছর ধরে অত্যাচার চালায় সে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/filmmaker-shakeel-noorani-arrested-for-allegedly-physically-assault-33-year-old-actress_666277.html ",
-    "time": "2026-08-10T07:55:57.000Z"
   },
   {
     "cat": "Business",

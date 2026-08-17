@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Dickwella-Sonal headline Day 3 of Galle Test, resilient knocks help keep Sri Lanka afloat",
+    "desc": "Day 3 of the ongoing first Test between India and Sri Lanka proved to be a roller coaster of emotions for the fans. The day began with India losing their final wicket and posting a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dickwella-sonal-headline-day-3-of-galle-test-resilient-knocks-help-keep-sri-lanka-afloat-2026-08-17-1051629",
+    "time": "2026-08-17T12:05:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ravindra Jadeja etches name in history books, joins elite list as he clinches major Test milestone",
+    "desc": "The Indian team took on Sri Lanka on the third day of the ongoing first Test between the two sides. Taking on each other in Galle, India came in to bat in the first innings...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ravindra-jadeja-etches-name-in-history-books-joins-elite-list-as-he-clinches-major-test-milestone-2026-08-17-1051623",
+    "time": "2026-08-17T11:08:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Probably our worst performance': Harry Maguire slams Manchester United after pre-season loss to AC Milan",
+    "desc": "The Premier League 2026-27 season is right around the corner, and ahead of the season, the various sides are hard at work preparing for it. 20-time league winners Manchester United are in the middle of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/probably-our-worst-performance-harry-maguire-slams-manchester-united-after-pre-season-loss-to-ac-milan-2026-08-17-1051620",
+    "time": "2026-08-17T10:36:24.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Shubman Gill grabs stunning catch to send Kamindu Mendis packing as India dominate Sri Lanka on day 3",
     "desc": "The Indian team continued their brilliance from the first two days of the ongoing first Test against Sri Lanka and have been brilliant on day 3 of the clash as well. After batting for two...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ab-de-villiers-hails-star-india-batter-after-magnificent-show-against-sri-lanka-in-galle-2026-08-16-1051549",
     "time": "2026-08-16T12:40:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mehidy Hasan Miraz scripts history, achieves massive with stellar all-round show against Australia",
-    "desc": "Bangladesh scripted history and defeated Australia in the first Test of the ongoing two-game series. The two sides met for the first Test in Darwin, and Bangladesh registered a nine-wicket win, defeating Australia on their...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mehidy-hasan-miraz-scripts-history-achieves-massive-with-stellar-all-round-show-against-australia-2026-08-16-1051544",
-    "time": "2026-08-16T11:33:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer weighs in on Sai Sudharsan's absence after Padikkal's century against Sri Lanka",
-    "desc": "The Indian team took on Sri Lanka in the first Test of the ongoing two-game series. The clash between the two teams began with India coming in to bat first, and the side put in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-weighs-in-on-sai-sudharsan-s-absence-after-padikkal-s-century-against-sri-lanka-2026-08-16-1051537",
-    "time": "2026-08-16T10:30:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'No excuses': Pat Cummins opens up after Bangladesh topple Australia in first Test with sensational show",
-    "desc": "Bangladesh and Australia took on each other in the first Test of the ongoing two-game series. The two sides met each other in Darwin for the first Test, and, much to everyone’s surprise, Bangladesh managed...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/no-excuses-pat-cummins-opens-up-after-bangladesh-topple-australia-in-first-test-with-sensational-show-2026-08-16-1051533",
-    "time": "2026-08-16T09:15:09.000Z"
   }
 ];
