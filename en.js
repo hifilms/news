@@ -1,5 +1,41 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "Opium farmers demand more farming licences, ₹1 lakh per kg",
+    "desc": "Ahead of the announcement of the opium licensing policy for 2026-27, scheduled for September, opium farmers from Madhya Pradesh, Rajasthan and Uttar Pradesh have urged the Union Government to formulate it in a manner that benefits the country and farmers",
+    "img": "https://th-i.thgim.com/public/incoming/axxn6u/article71009445.ece/alternates/LANDSCAPE_1200/SRNIA_18-5-2016_16-39-14_14-POPPY-SGR-18-05-2016.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/opium-farmers-demand-more-farming-licences-1-lakh-per-kilogram/article71357211.ece",
+    "time": "2026-08-17T20:35:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court",
+    "desc": "Impeding elephant corridors is not a solution to human-animal conflicts, says SC; it directs Centre to conduct a national survey to remove obstructions from routes and ensure a ban on the use of fireballs and spikes to drive away elephants",
+    "img": "https://th-i.thgim.com/public/incoming/wx5udi/article71356108.ece/alternates/LANDSCAPE_1200/peria_9869_12_8_2026_19_49_59_3_DSC5400%201.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/states-cant-create-blockades-in-elephant-corridors-sc/article71356053.ece",
+    "time": "2026-08-17T20:27:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Prithviraj Chavan alleges over 56,000 duplicate voters in Maharashtra",
+    "desc": "The former Maharashtra CM noted that despite a higher vote share in the 2024 Assembly polls compared to 2019, he lost the election and claimed there were 56,118 duplicate voters in the area after analysing voter lists",
+    "img": "https://th-i.thgim.com/public/incoming/hxrkri/article71357837.ece/alternates/LANDSCAPE_1200/IMG_1845.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/prithviraj-chavan-alleges-over-56000-duplicate-voters-in-maharashtra/article71356434.ece",
+    "time": "2026-08-17T18:53:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Seven dead in stampede at temple in Bihar’s Lakhisarai",
+    "desc": "Eyewitnesses say that two trains full of devotees had reached Lakhisarai railway station, and the devotees, mostly women, rushed to offer Ganga water to Lord Shiva; they add that the stampede happened due to lack of crowd management and rumour of an electric pole snapping",
+    "img": "https://th-i.thgim.com/public/incoming/kak8gi/article71354824.ece/alternates/LANDSCAPE_1200/PTI08_17_2026_000009B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/ashok-dham-temple-stampede-lakhisarai-august-17-2026/article71354800.ece",
+    "time": "2026-08-17T18:31:34.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "India gains big lead despite Dinusha-Dickwella fightback",
     "desc": "The left-handers put on 146 for the sixth wicket as Sri Lanka ends up with 284 in its first innings in response to the visitor’s 462; Suthar claims a four-for while fellow left-arm spinner Jadeja scalps three",
@@ -28,30 +64,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Opium farmers demand more farming licences, ₹1 lakh per kilogram",
-    "desc": "Ahead of the announcement of the opium licensing policy for 2026-27, scheduled for September, opium farmers from Madhya Pradesh, Rajasthan and Uttar Pradesh have urged the Union Government to formulate it in a manner that benefits the country and farmers",
-    "img": "https://th-i.thgim.com/public/incoming/axxn6u/article71009445.ece/alternates/LANDSCAPE_1200/SRNIA_18-5-2016_16-39-14_14-POPPY-SGR-18-05-2016.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/opium-farmers-demand-more-farming-licences-1-lakh-per-kilogram/article71357211.ece",
-    "time": "2026-08-17T17:36:52.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "CM Revanth opens MCR TIMS Sanathnagar with focus on affordable, quality healthcare",
     "desc": "The 1,082-bed facility, built at a cost of ₹1,126 crore, is positioned as a corporate-level public hospital with 37 medical departments; CM says specialists serving additional hours in government hospitals would be recognised and incentivised",
     "img": "https://th-i.thgim.com/public/incoming/zbhcxd/article71357587.ece/alternates/LANDSCAPE_1200/_DSC8768.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/Hyderabad/cm-revanth-opens-mcr-tims-sanathnagar-with-focus-on-affordable-quality-healthcare/article71357486.ece",
     "time": "2026-08-17T17:35:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Jharkhand CM announces cancellation of JSSC-CGL exams; protest to continue till CBI probe demand is met, say students",
-    "desc": "“Our demand for a CBI investigation remains unfulfilled. Our hunger strike will not end until the CBI inquiry takes place. It is a matter of great happiness that the JSSC-CGL exam has been cancelled. We will call off the agitation only after the CBI inquiry is conducted, not before,” say students",
-    "img": "https://th-i.thgim.com/public/incoming/4dty3/article71357755.ece/alternates/LANDSCAPE_1200/20260817606L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/hemant-sorent-announces-jssc-cgl-exam-cancellation-after-emergency-cabinet-meeting/article71357634.ece",
-    "time": "2026-08-17T17:29:47.000Z"
   },
   {
     "cat": "Sports",
@@ -72,33 +90,6 @@ const newsData_en = [
     "time": "2026-08-17T16:35:21.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "I leave it to the MLAs to decide whether they should get up when the Chief Minister arrives, says Tamil Nadu Assembly Speaker",
-    "desc": "It is not compulsory to stand up whenever the Chief Minister or the Leader of the Opposition arrives. However, showing respect is part of Tamil culture and tradition. The individual members should decide for themselves whether or not to follow it, says Speaker J.C.D. Prabhakar",
-    "img": "https://th-i.thgim.com/public/incoming/2db77r/article71357526.ece/alternates/LANDSCAPE_1200/DisqualificatioGUIGA9MKO.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/i-leave-it-to-the-mlas-to-decide-whether-they-should-get-up-when-the-chief-minister-arrives-says-tamil-nadu-assembly-speaker/article71356655.ece",
-    "time": "2026-08-17T16:20:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Eight killed in hotel fire in West Bengal’s Tarapith",
-    "desc": "The fire erupted around 4.30 a.m. on the ground floor of the four-storey hotel in the temple town of Tarapith, when most of the guests were asleep. Out of the eight deceased, five were from Garo Hills of Meghalaya and three were from Alipurduar district of West Bengal.",
-    "img": "https://th-i.thgim.com/public/incoming/unakmj/article71355052.ece/alternates/LANDSCAPE_1200/PTI08_17_2026_000038B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/seven-killed-several-injured-in-hotel-fire-in-west-bengals-tarapith/article71354899.ece",
-    "time": "2026-08-17T16:17:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Supreme Court",
-    "desc": "Impeding elephant corridors is not a solution to human-animal conflicts, says SC; it directs Centre to conduct a national survey to remove obstructions from routes and ensure a ban on the use of fireballs and spikes to drive away elephants",
-    "img": "https://th-i.thgim.com/public/incoming/wx5udi/article71356108.ece/alternates/LANDSCAPE_1200/peria_9869_12_8_2026_19_49_59_3_DSC5400%201.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/states-cant-create-blockades-in-elephant-corridors-sc/article71356053.ece",
-    "time": "2026-08-17T16:16:22.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India set for record soyoil imports as Russia-Ukraine war disrupts sunflower shipments",
     "desc": "Russia and Ukraine account for most of India’s sunflower oil imports, which are likely to fall to 180,000 metric tons in August, the ​lowest since February 2026 and ‌down 28% from a month earlier, the dealers said.",
@@ -106,15 +97,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/india-set-for-record-soyoil-imports-as-russia-ukraine-war-disrupts-sunflower-shipments/article71357494.ece",
     "time": "2026-08-17T16:10:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Groundwater that glows yellow-green in U.P.",
-    "desc": "Decades of industrial waste dumping have contaminated groundwater with chromium (VI) across parts of three Uttar Pradesh districts, exposing villagers to unsafe water and serious health risks. Despite years of complaints and court intervention, the government’s efforts to identify contaminated areas, provide safe drinking water and healthcare, and clean up toxic waste remain slow and inadequate.",
-    "img": "https://th-i.thgim.com/public/incoming/tzoerq/article71322823.ece/alternates/LANDSCAPE_1200/SPOTLIGHT%20Kanpur%20Severe%20Groundwater%20Pollution%2017.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttar-pradesh/contaminated-groundwater-in-uttar-pradesh-poses-health-risks/article71322801.ece",
-    "time": "2026-08-17T16:10:26.000Z"
   },
   {
     "cat": "Sports",
@@ -142,15 +124,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/nitins-nabin-team-bjp-hits-reset-button-with-eye-on-uttar-pradesh-and-mission-2029/articleshow/133300886.cms",
     "time": "2026-08-17T15:58:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "LDF meeting skips crucial internal issues, decides to focus on local body bypolls",
-    "desc": "Convener T.P. Ramakrishnan says CPI’s demand for the Deputy Leader of the Opposition post was not on the meeting’s agenda. He denied that the CPI’s ire and the feuding within allies such as INL had prompted the CPI(M) to defer the meeting",
-    "img": "https://th-i.thgim.com/public/incoming/ktv9q/article71357491.ece/alternates/LANDSCAPE_1200/80692_2_4_2026_14_6_15_1_03TVKZTPRAMAKRISHNAN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/ldf-meeting-skips-crucial-internal-issues-decides-to-focus-on-local-body-bypolls/article71357101.ece",
-    "time": "2026-08-17T15:58:11.000Z"
   },
   {
     "cat": "Entertainment",
@@ -441,15 +414,6 @@ const newsData_en = [
     "time": "2026-08-17T10:53:47.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Must apologise': Rijiju invokes Manmohan Singh to defend PM Modi's 'dimagi naxal' remark",
-    "desc": "In defense of Prime Minister Modi's controversial term 'dimagi naxal,' Kiren Rijiju pointed to former PM Manmohan Singh's criticism, asserting that such individuals, associated with Maoism, oppose the Indian Constitution. This sparked backlash from opposition figures like Jairam Ramesh, who likened it to the 'urban naxal' controversy, and Arvind Kejriwal, who humorously embraced the label, declaring his love for patriotism as a 'dimagi naxal.'",
-    "img": "https://static.toiimg.com/photo/msid-133294470,imgsize-909245.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/must-apologise-rijiju-invokes-manmohan-singh-to-defend-pm-modis-dimagi-naxal-remark/articleshow/133293567.cms",
-    "time": "2026-08-17T10:53:29.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Easy option is to call for change’: McDonald resists Australia shake-up after shock",
     "desc": "Australia's coach Andrew McDonald advises against immediate team changes after a historic loss. He believes the team still possesses significant potential for future matches. McDonald stressed that selection decisions require careful consideration and a long-term perspective. Veteran spinner Nathan Lyon received the coach's backing following a challenging outing. Marnus Labuschagne's need for runs was acknowledged while noting technical improvements.",
@@ -466,15 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-stays-in-contention-for-sinquefield-cup-title-despite-draw-against-levon-aronian/articleshow/133294300.cms",
     "time": "2026-08-17T10:50:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Blend of experience &amp; energy': PM Modi, Nabin congratulate BJP's new national office-bearers",
-    "desc": "Prime Minister Narendra Modi commended the newly appointed national office-bearers of the Bharatiya Janata Party. He highlighted the team's blend of experience, vitality, and strong grassroots ties. Nitin Nabin leads this refreshed squad, which features thirteen vice presidents and a new treasurer, maintaining prominent positions for individuals like Piyush Goyal and B L Santosh, while introducing new national secretaries to bolster the party's framework.",
-    "img": "https://static.toiimg.com/photo/msid-133294409,imgsize-1156523.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/blend-of-experience-energy-pm-modi-nabin-congratulate-bjps-new-national-office-bearers/articleshow/133294226.cms",
-    "time": "2026-08-17T10:49:37.000Z"
   },
   {
     "cat": "Business",
@@ -898,5 +853,50 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/inside-the-google-executive-moves-that-led-to-its-big-ai-reshuffle/article71339422.ece",
     "time": "2026-08-13T03:45:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL and Pixel 11 Pro Fold launch: What to expect?",
+    "desc": "Under the hood, the Pixel 11 series is believed to operate on Android 17 out of the box while promising 7 years of OS updates and 7 years of security updates. Gemini is expected to dominate the show with some new upgrades",
+    "img": "https://th-i.thgim.com/public/sci-tech/technology/gadgets/qs7hsq/article71331653.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-11%20at%2012.30.56%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/gadgets/google-pixel-11-pixel-11-pro-pixel-11-pro-xl-and-pixel-11-pro-fold-launch-what-to-expect/article71331641.ece",
+    "time": "2026-08-12T15:55:33.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Meta will soon face another high-stakes trial in U.S.",
+    "desc": "The federal trial, one of the most consequential among a myriad of legal proceedings targeting social networks in the United States, will begin on August 12, 2026 with jury selection at a federal court in Oakland",
+    "img": "https://th-i.thgim.com/public/incoming/36h44q/article71316172.ece/alternates/LANDSCAPE_1200/Meta_New_Mexico_6716_.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/meta-will-soon-face-another-high-stakes-trial-in-us/article71326861.ece",
+    "time": "2026-08-10T04:31:54.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Teaching AI to speak India",
+    "desc": "Artificial intelligence can chat, translate and answer questions but only if it understands your language. At IIT Madras, researchers at AI4Bharat are travelling across India, collecting voices, preserving dialects and teaching AI to understand the country’s incredible linguistic diversity.",
+    "img": "https://th-i.thgim.com/public/incoming/y693sa/article71280832.ece/alternates/LANDSCAPE_1200/iStock-1066071372.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/internet/teaching-ai-to-speak-india/article71280380.ece",
+    "time": "2026-08-09T00:15:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Karnataka explores partnership with Anthropic for governance, skilling and deep-tech growth",
+    "desc": "CM D.K. Shivakumar sought Anthropic’s expertise on how AI could help reduce fraud in government systems and improve the effectiveness, security and confidentiality of setting question papers for examinations conducted by various government agencies and educational institutions.",
+    "img": "https://th-i.thgim.com/public/news/national/karnataka/qs12uq/article71313384.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-06%20at%2017.14.14.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-explores-partnership-with-anthropic-for-governance-skilling-and-deep-tech-growth/article71312525.ece",
+    "time": "2026-08-08T19:02:03.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
   }
 ];
