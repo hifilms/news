@@ -1,5 +1,95 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Anirudh Ravichander and Kavya Maran to marry in Greece?",
+    "desc": "Rumors about a potential wedding between Anirudh Ravichander and Kavya Maran are making headlines again. With whispers of a picturesque destination wedding in Greece later this year, the intrigue grows. Veteran actor Y Gee Mahendra has sparked more curiosity with his remarks. As of now, Anirudh and Kavya remain tight-lipped, leaving fans eager for an official announcement on the date and location.",
+    "img": "https://static.toiimg.com/photo/msid-133309015,imgsize-149349.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/anirudh-ravichander-and-kavya-maran-to-marry-in-greece-wedding-dates-locked-for-post-diwali-report/articleshow/133308999.cms",
+    "time": "2026-08-18T00:55:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Vishwanath And Sons’ vs ‘Jana Nayagan’ BO: Suriya' film gains pace",
+    "desc": "Suriya's Vishwanath And Sons is gaining significant traction during its initial week, amassing over 120 crore globally within just four days. Meanwhile, Vijay's Jana Nayagan continues to captivate audiences, enjoying a successful run for twenty-five days and achieving over 322 crore worldwide. The contrasting box office paths of both films highlight their unique cinematic appeals.",
+    "img": "https://static.toiimg.com/photo/msid-133308803,imgsize-140888.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vishwanath-and-sons-vs-jana-nayagan-box-office-collection-suriya-and-mamitha-baiju-starrer-gains-pace-as-thalapathy-vijay-starrer-crosses-rs-322-crore-worldwide/articleshow/133308799.cms",
+    "time": "2026-08-18T00:41:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Batwara 1947' box office collection day 4: Sunny Deol, Preity Zinta's film sees 72 percent drop",
+    "desc": "Sunny Deol's film 'Batwara 1947' experienced a sharp box office decline on its first Monday. The Partition drama earned only two crore rupees on August seventeenth. This significant drop occurred after an underwhelming opening weekend collection. The film's four-day net collection in India now stands at twenty-eight point five crore. Meanwhile, 'Awarapan 2' continues its strong box office performance.",
+    "img": "https://static.toiimg.com/photo/msid-133308926,imgsize-321464.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/batwara-1947-box-office-collection-day-4-sunny-deol-preity-zintas-film-sees-72-percent-drop-on-monday-struggles-to-cross-rs-30-crore-while-awarapan-2-inches-towards-rs-100-crore/articleshow/133308901.cms",
+    "time": "2026-08-18T00:30:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Spider-Man' crosses Rs 560 crore; eyes Rs 600 crore mark in India",
+    "desc": "Brand New Day crossed Rs 560 crore gross in India on Monday. The film recorded a sharp decline in collections during its third week. It matched Batwara 1947's Monday collection despite fewer shows. The movie earned Rs 2 crore net on its nineteenth day. Its overall India net collection reached an estimated Rs 469.05 crore.",
+    "img": "https://static.toiimg.com/photo/msid-133308920,imgsize-710495.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/spider-man-brand-new-day-box-office-collection-day-19-tom-holland-starrer-crosses-rs-560-crore-mark-in-india-matches-batwara-1947-haul-on-monday/articleshow/133308680.cms",
+    "time": "2026-08-18T00:24:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Awarapan 2' box office collection day 4: Emraan's film crosses Rs 90 crore",
+    "desc": "Awarapan 2 has kicked off with an outstanding box office performance, eclipsing the entire lifetime earnings of its predecessor. With an impressive collection of Rs 22 crore on its opening day and a substantial rise over the weekend, the film's total revenue soared to Rs 91 crore during its extended opening period.",
+    "img": "https://static.toiimg.com/photo/msid-133308834,imgsize-321885.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/awarapan-2-box-office-collection-day-4-the-emraan-hashmi-disha-patani-starrer-holds-well-on-monday-crosses-rs-90-crore-while-batwara-1947-sees-further-decline/articleshow/133308807.cms",
+    "time": "2026-08-18T00:05:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Doomsday' scores USD 100 mn in presales; eyes USD 1 billion opening",
+    "desc": "Doomsday is showing strong early ticket sales, exceeding previous MCU releases. Dune: Part Three also enters the race with high demand for premium screenings. Both films will benefit from the extended holiday season for box office gains. Premium formats like IMAX will be a key battleground for these anticipated movies.",
+    "img": "https://static.toiimg.com/photo/msid-133308600,imgsize-394751.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/avengers-doomsday-races-ahead-of-spider-man-brand-new-day-presales-film-gears-up-for-historic-holiday-box-office-clash-with-dune-part-three/articleshow/133308594.cms",
+    "time": "2026-08-17T23:05:36.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Trump’s envoy says Hamas disarmament could begin within 30 days",
+    "desc": "The comments came as Jared Kushner and Netanyahu agreed that an American general would verify Hamas’s disarmament, an Israeli official said, as the premier insisted there would be no Israeli pullout from Gaza until then",
+    "img": "https://th-i.thgim.com/public/incoming/yydtvx/article71358085.ece/alternates/LANDSCAPE_1200/Mideast_Wars_Gaza_75268.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/trumps-envoy-says-hamas-disarmament-could-begin-within-30-days/article71358083.ece",
+    "time": "2026-08-17T22:42:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taylor Swift, Selena Gomez plan babies around same time: Report",
+    "desc": "Taylor Swift and Selena Gomez are reportedly planning to welcome their first children around the same time and become godmothers to each other’s future babies, according to a report. The longtime friends, who have shared a close bond for nearly two decades, have often described their relationship as sisterhood while supporting each other through personal and professional milestones.",
+    "img": "https://static.toiimg.com/photo/msid-133307305,imgsize-95715.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/taylor-swift-and-selena-gomez-plan-to-welcome-babies-around-the-same-time-become-godmothers-to-each-others-children-report/articleshow/133306866.cms",
+    "time": "2026-08-17T22:09:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hollywood pays tribute",
+    "desc": "Actress Hayden Panettiere, known for 'Heroes' and 'Nashville', has tragically passed away. She was found unresponsive in South Carolina and pronounced deceased at the scene. Investigations into her death are ongoing, with no foul play indicated at this time. Panettiere had openly discussed her struggles with addiction and mental health. Numerous stars have shared their grief and paid tribute to the talented actress.",
+    "img": "https://static.toiimg.com/photo/msid-133306598,imgsize-190658.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/hayden-panettiere-passes-away-connie-britton-viola-davis-selma-blair-and-other-hollywood-stars-pay-tribute/articleshow/133306432.cms",
+    "time": "2026-08-17T21:49:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Wolves icon and former captain Mike Bailey dies aged 84 after long dementia battle",
+    "desc": "Wolverhampton Wanderers legend and former captain Mike Bailey has died aged 84 following a long battle with dementia. Bailey spent 11 years at Wolves, making 436 appearances and leading the club to League Cup glory in 1974. He also earned two England caps and later enjoyed a managerial career. His family had previously said they believed years of heading footballs contributed to his dementia.",
+    "img": "https://static.toiimg.com/photo/msid-133306594,imgsize-71696.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/legendary-wolves-captain-and-former-england-star-mike-bailey-dies-aged-84-after-long-dementia-battle/articleshow/133306324.cms",
+    "time": "2026-08-17T21:46:29.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Opium farmers demand more farming licences, ₹1 lakh per kg",
     "desc": "Ahead of the announcement of the opium licensing policy for 2026-27, scheduled for September, opium farmers from Madhya Pradesh, Rajasthan and Uttar Pradesh have urged the Union Government to formulate it in a manner that benefits the country and farmers",
@@ -288,15 +378,6 @@ const newsData_en = [
     "time": "2026-08-17T13:37:55.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Proud to be a 'dimagi Naxal': Kejriwal",
-    "desc": "In a bold assertion following Prime Minister Modi's Independence Day address, Arvind Kejriwal embraced the term 'dimagi naxal'. He defined this concept as one that involves questioning the government and expressing concerns over BJP policies. Kejriwal jestingly included the likes of Bhagat Singh and B.R. Ambedkar among the 'dimagi naxals', emphasizing his own patriotism and firm stance against any anti-India ideologies. P.",
-    "img": "https://static.toiimg.com/photo/msid-133298150,imgsize-53222.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/proud-to-be-a-dimagi-naxal-kejriwal/articleshow/133298048.cms",
-    "time": "2026-08-17T13:11:39.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Big B leases three floors in Andheri; to get Rs 33L monthly",
     "desc": "Amitabh Bachchan has signed a lease for three commercial floors in Andheri West, Mumbai, with a nutrition brand committing to pay Rs 33 lakh monthly. The five-year lease includes an impressive nine parking slots and a security deposit. This deals underscores Bachchan's significant role in Mumbai's premium real estate scene while he anticipates the release of films like 'Section 84' and 'Brahmāstra Part 2'.",
@@ -306,33 +387,6 @@ const newsData_en = [
     "time": "2026-08-17T12:56:29.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘Jana Nayagan’ OTT: When and where to watch Vijay’s final film",
-    "desc": "Jana Nayagan, the much-anticipated final film of Vijay, is set to premiere on Zee5 starting August 21. This political action drama has garnered a varied reception but has enjoyed strong box office success. Despite facing numerous obstacles prior to its release, the film achieved impressive global earnings. Fans can now enjoy Vijay's poignant farewell from the comfort of their homes.",
-    "img": "https://static.toiimg.com/photo/msid-133297289,imgsize-1083934.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-ott-find-out-when-and-where-to-watch-vijay-thalapathys-final-film-online/articleshow/133297220.cms",
-    "time": "2026-08-17T12:34:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hema Malini reviews Sunny Deol’s ‘Batwara 1947’ ‘Simply Brilliant’",
-    "desc": "Hema Malini showered accolades on the film 'Batwara 1947', commending its profound message of compassion and togetherness. She specifically highlighted the direction and remarkable performances by Sunny Deol and Shabana Azmi. Furthermore, she congratulated producer Aamir Khan for this timely cinematic endeavor. Malini reflected on her strong connection with Dharmendra's sons, Sunny and Bobby, reiterating the importance of family unity, a sentiment shared by Dharmendra.",
-    "img": "https://static.toiimg.com/photo/msid-133297068,imgsize-390833.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hema-malini-reviews-sunny-deols-batwara-1947-simply-brilliant-and-praises-aamir-khan-for-backing-film-with-message-of-humanity-and-harmony/articleshow/133297027.cms",
-    "time": "2026-08-17T12:27:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "BJP’s new national team has 10 women, 6 minority community leaders",
-    "desc": "In a significant reshuffle, the BJP has unveiled its new national team led by President Nitin Nabin. Key appointments include Smriti Irani as national general secretary, alongside a notable increase in women's representation and leaders from various minority communities. The party prioritized administrative and organizational expertise, showcasing its commitment to geographical diversity and social inclusion across the nation.",
-    "img": "https://static.toiimg.com/photo/msid-133297612,imgsize-96800.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bjps-new-national-team-has-10-women-6-minority-community-leaders/articleshow/133297005.cms",
-    "time": "2026-08-17T12:27:05.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Suthar, Jadeja spin India into commanding 178-run lead over Sri Lanka",
     "desc": "Indian spinners Suthar and Jadeja secured seven wickets on day three of the Galle Test. Sri Lanka were bowled out for 284, trailing India by 178 runs. Sonal Dinusha scored a maiden international hundred while Niroshan Dickwella made 80. Their partnership delayed the Sri Lankan collapse against the Indian attack. India hold a substantial first-innings lead after the rain-affected day.",
@@ -340,42 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/ind-vs-sl-1st-test-suthar-jadeja-spin-india-into-commanding-178-run-lead-over-sri-lanka-in-galle/articleshow/133296966.cms",
     "time": "2026-08-17T12:25:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "BJP announces major rejig; ex-Congresswoman claims Trump admin weighing nuclear option against Iran &amp; more",
-    "desc": "The BJP revealed its new national team, appointing Smriti Irani and Piyush Goyal to key positions. A US politician alleged discussions about nuclear weapons for Iran without evidence. Chief economic adviser Nageswaran recommended a lower ethanol blend amid ongoing controversy. A fabricated Iran nuclear quote from an Indian account reached Israeli media and US politicians. Eight pilgrims died in a West Bengal hotel fire due to toxic smoke.",
-    "img": "https://static.toiimg.com/photo/msid-133296455,imgsize-123370.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-bjp-announces-major-rejig-ex-congresswoman-claims-trump-admin-weighing-nuclear-option-against-iran-more/articleshow/133295927.cms",
-    "time": "2026-08-17T12:06:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'It was all mine'",
-    "desc": "After the triumphant releases of Gadar and Indian, Sunny Deol confronted tough hurdles in his career. Corporate upheavals and a dearth of viable scripts impeded his progress. His forays into directing and producing placed him under notable financial stress. Still, Deol’s resilience shone through as he remained content, celebrating a successful resurgence with his recent film Gadar 2.",
-    "img": "https://static.toiimg.com/photo/msid-133296463,imgsize-787670.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunny-deol-recalls-gadar-and-indian-doing-better-than-aamir-khans-lagaan-talks-about-being-in-over-59-crore-debt-the-money-i-owed-was-all-mine/articleshow/133296339.cms",
-    "time": "2026-08-17T12:05:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rhea says her father lost job because of her controversy",
-    "desc": "Rhea Chakraborty revealed her father lost a superintendent job after employers discovered his surname, following Sushant Singh Rajput's 2020 death and her subsequent arrest. On Farah Khan's vlog, she opened up on the ordeal and PTSD. On The Traitors, Mallika Sherawat's jibe about her jail time reopened old wounds.",
-    "img": "https://static.toiimg.com/photo/msid-133295830,imgsize-364437.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rhea-chakraborty-says-her-father-lost-job-because-of-her-controversy-they-found-out-his-surname/articleshow/133295792.cms",
-    "time": "2026-08-17T11:44:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Why BJP has turned to its 'giant killer' before UP elections",
-    "desc": "Smriti Irani is reappointed as a general secretary for the BJP's national team, a move that highlights the party's strategic push in Uttar Pradesh ahead of upcoming elections. Following setbacks in the recent Lok Sabha elections, her previous success in Amethi positions her as a critical asset. This role will see her coordinating with state units and overseeing candidate selections.",
-    "img": "https://static.toiimg.com/photo/msid-133295353,imgsize-98752.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/smriti-irani-gets-key-party-role-why-bjp-has-turned-to-its-giant-killer-before-up-elections/articleshow/133295057.cms",
-    "time": "2026-08-17T11:28:16.000Z"
   },
   {
     "cat": "Sports",
@@ -405,15 +423,6 @@ const newsData_en = [
     "time": "2026-08-17T10:59:54.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Ramayana designers address backlash over Kaikeyi, Sita costumes",
-    "desc": "The costume designers of Ramayana have responded to critiques on character attire. Their goal was to achieve international acclaim and work closely with the director to craft Sita's vision. Kaikeyi's outfit represents Mother Earth and deep emotional conflict during a pivotal moment. The team prioritized faith over strict adherence to historical accuracy in their designs. This eagerly awaited film is set to hit theaters for Diwali 2026.",
-    "img": "https://static.toiimg.com/photo/msid-133294466,imgsize-341260.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-designers-address-backlash-over-lara-duttas-kaikeyi-and-sai-pallavis-sita-costumes-chose-faith-over-authenticity/articleshow/133294284.cms",
-    "time": "2026-08-17T10:53:47.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Easy option is to call for change’: McDonald resists Australia shake-up after shock",
     "desc": "Australia's coach Andrew McDonald advises against immediate team changes after a historic loss. He believes the team still possesses significant potential for future matches. McDonald stressed that selection decisions require careful consideration and a long-term perspective. Veteran spinner Nathan Lyon received the coach's backing following a challenging outing. Marnus Labuschagne's need for runs was acknowledged while noting technical improvements.",
@@ -441,24 +450,6 @@ const newsData_en = [
     "time": "2026-08-17T10:48:52.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Why Shah Rukh Khan, Ajay Devgn and Tiger Shroff received FDA notices- EXPLAINED",
-    "desc": "The Maharashtra FDA is scrutinizing a controversial advertising campaign by a pan masala brand. This investigation aims to determine if the campaign indirectly promotes pan masala consumption. Notices have been issued to prominent actors Shah Rukh Khan, Ajay Devgn, and Tiger Shroff, who are required to clarify their roles and disclose endorsement agreements. Consequences may include fines and potential bans on their endorsements.",
-    "img": "https://static.toiimg.com/photo/msid-133294027,imgsize-64264.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/why-shah-rukh-khan-ajay-devgn-and-tiger-shroff-received-fda-notices-pan-masala-advertisement-controversy-explained/articleshow/133293956.cms",
-    "time": "2026-08-17T10:36:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hayden Panettiere’s net worth",
-    "desc": "The talented actress Hayden Panettiere, famed for her roles in 'Heroes' and 'Nashville,' has sadly passed away, leaving behind a legacy and a net worth of six million dollars. Struggling with addiction and postpartum depression after welcoming her daughter Kaya, who mostly lives with her father in Ukraine, she touched many hearts.",
-    "img": "https://static.toiimg.com/photo/msid-133294026,imgsize-250403.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/all-about-hayden-panettieres-net-worth-a-look-into-the-nashville-and-heroes-stars-earnings/articleshow/133293977.cms",
-    "time": "2026-08-17T10:35:41.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Parents watching me live probably after 13 years': Arjun after World C'ships opener win",
     "desc": "MR Arjun’s BWF World Championships win was special as his parents watched him play live for the first time in 13 years. Arjun and Hariharan Amsakarunan beat Ireland’s Scott Guildea and Paul Reynolds before an injury retirement. Strong support from the home crowd boosted the pair, helping them secure a confident start to India’s campaign in New Delhi.",
@@ -466,15 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/parents-watching-me-live-probably-after-13-years-mr-arjun-savours-world-championships-opener-win/articleshow/133292172.cms",
     "time": "2026-08-17T09:32:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Dada, this is not done': When Ganguly nearly gave up India captaincy over a prank",
-    "desc": "It happened on April Fool’s Day in 2005, a day before India began a one-day series against Pakistan in Kochi. With the pressure of playing their familiar rivals already building, Yuvraj Singh and Harbhajan Singh decided to play a prank on Ganguly.",
-    "img": "https://static.toiimg.com/photo/msid-133291969,imgsize-954134.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/dada-this-is-not-done-when-ganguly-nearly-gave-up-india-captaincy-over-a-prank-by-sachin-yuvraj/articleshow/133291455.cms",
-    "time": "2026-08-17T09:04:17.000Z"
   },
   {
     "cat": "Entertainment",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
     "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
   }
 ];
