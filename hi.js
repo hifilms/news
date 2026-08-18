@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "KL Rahul embraces Devdutt Padikkal, air-kisses him after surviving close call",
+    "desc": "KL Rahul survived a dramatic LBW scare before eventually falling for 35 to Prabath Jayasuriya during India’s second innings in the first Test against Sri Lanka in Galle on Tuesday, August 18. The India opener...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-embraces-devdutt-padikkal-air-kisses-him-after-surviving-close-call-watch-2026-08-18-1051697",
+    "time": "2026-08-18T08:21:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tejaswin Shankar, Vidit Gujrathi, Divya Deshmukh among Arjuna Awardees, no Khel Ratna this year: Full list",
+    "desc": "The National Sports Awards 2025 were announced by the Ministry of Youth Affairs and Sports on Tuesday, August 18. 17 athletes will be receiving the Arjuna Award, while the list also included one lifetime Arjuna...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/tejaswin-shankar-vidit-gujrathi-divya-deshmukh-gopichand-s-daughter-among-arjuna-awardees-full-list-2026-08-18-1051696",
+    "time": "2026-08-18T08:18:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "David Warner fined, ordered to use breathalyser after drink-and-drive arrest in April",
+    "desc": "David Warner has been fined Aus $1,500 (Rs 1.01 lakhs) and ordered to use a vehicle breathalyser lock for 12 months after being convicted of drink-driving in Sydney. The former Australia opener was sentenced by...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/david-warner-fined-ordered-to-use-breathalyser-after-drink-and-drive-arrest-in-april-2026-08-18-1051691",
+    "time": "2026-08-18T07:26:24.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Star Sri Lanka cricketer taken to hospital for scans after freak injury on Day 4 of Galle Test",
     "desc": "Star Sri Lanka batter Dinesh Chandimal was taken to hospital for a precautionary scan after suffering an injury to his shoulder and neck during Sri Lanka’s first Test against India in Galle. The incident happened...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ravindra-jadeja-etches-name-in-history-books-joins-elite-list-as-he-clinches-major-test-milestone-2026-08-17-1051623",
     "time": "2026-08-17T11:08:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Probably our worst performance': Harry Maguire slams Manchester United after pre-season loss to AC Milan",
-    "desc": "The Premier League 2026-27 season is right around the corner, and ahead of the season, the various sides are hard at work preparing for it. 20-time league winners Manchester United are in the middle of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/probably-our-worst-performance-harry-maguire-slams-manchester-united-after-pre-season-loss-to-ac-milan-2026-08-17-1051620",
-    "time": "2026-08-17T10:36:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shubman Gill grabs stunning catch to send Kamindu Mendis packing as India dominate Sri Lanka on day 3",
-    "desc": "The Indian team continued their brilliance from the first two days of the ongoing first Test against Sri Lanka and have been brilliant on day 3 of the clash as well. After batting for two...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shubman-gill-grabs-stunning-catch-to-send-kamindu-mendis-packing-as-india-dominate-sri-lanka-on-day-3-watch-2026-08-17-1051608",
-    "time": "2026-08-17T08:58:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer weighs in on Dhruv Jurel's dismissal after day 2 heroics of the ongoing Sri Lanka Test",
-    "desc": "The Indian team has been in brilliant form as they took on Sri Lanka in the first Test of the ongoing series. The two sides met at the Galle International Stadium from August 15th, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-weighs-in-on-dhruv-jurel-s-dismissal-after-day-2-heroics-of-the-ongoing-sri-lanka-test-2026-08-17-1051601",
-    "time": "2026-08-17T07:42:51.000Z"
   }
 ];
