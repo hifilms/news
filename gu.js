@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "BJPના યુવા મોરચાના અધ્યક્ષ બન્યા ગુજરાતના સાંસદ, દેશભરના Gen-Zને જોડવાની મોટી જવાબદારી, જાણો કોણ છે હેમાંગ જોશી",
+    "desc": "ભારતીય જનતા પાર્ટીએ નવી રાષ્ટ્રીય કારોબારીની જાહેરાત કરી છે અને તેજસ્વી સૂર્યાની જગ્યાએ હેમાંગ જોશીને BJYMના નવા રાષ્ટ્રીય અધ્યક્ષ તરીકે સ્થાન આપ્યું છે. યુવાનોને ભાજપ સાથે જોડવાનું કામ તેમને સોંપવામાં આવશે. સવાલ એ છે કે તેઓ Gen-Zને પક્ષ સાથે જોડવામાં કેટલા સફળ થશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/gujarat-mp-becomes-bjps-yuva-morcha-president-big-responsibility-to-connect-gen-z-know-who-hemang-joshi-is-488021 ",
+    "time": "2026-08-18T03:35:32.000Z"
+  },
+  {
     "cat": "World",
     "title": "ટ્રમ્પની ધમકી બાદ વધુ એક યુદ્ધના ભણકારા ! જાણો આ વખતે કોણ હશે આમને સામને",
     "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે કહ્યું છે કે જો ઓમાન હોર્મુઝ સ્ટ્રેટમાં ઈરાની જહાજોના નાકાબંધીમાં દખલ કરશે તો તેના પર બોમ્બમારો કરશે. આ ધમકીથી મિડલ ઈસ્ટમાં ફરી એકવાર તણાવ વધી ગયો છે. ટ્રમ્પની ધમકી એવા સમયે આવી છે, જ્યારે ઈરાન અને ઓમાન હોર્મુઝ સ્ટ્રેટ અંગે ડીલ પર પહોંચવાની આરે છે.",
@@ -331,15 +340,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/august-15-next-year-will-be-special-the-train-will-run-at-a-speed-of-320-km-zee-news-ground-report-on-bullet-train-487798 ",
     "time": "2026-08-15T10:06:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "સોનિયા ગાંધીએ કાર્યકરોને વંદે માતરમ ગાતા રોક્યા? ભાજપના આરોપ પર કોંગ્રેસે આપ્યો જવાબ",
-    "desc": "દેશ આજે 80મો સ્વતંત્રતા દિવસ ઉજવી રહ્યો છે. શનિવારે કોંગ્રેસના હેડક્વાર્ટરમાં પણ વંદે માતરમ્ ગીત ગવાયું. પરંતુ ભાજપનો એવો આરોપ છે કે કોંગ્રેસ નેતા સોનિયા ગાંધીએ બીજા અંતરા બાદ તેને રોકવાની કોશિશ કરી. જો કે કોંગ્રેસ નેતા જયરામ રમેશે આ આરોપો પર સ્પષ્ટતા કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/independence-day-celebration-at-congress-headquarter-full-vande-matarma-played-sonia-gandhi-487797 ",
-    "time": "2026-08-15T09:45:27.000Z"
   },
   {
     "cat": "Sports",
