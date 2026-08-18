@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "মন্নতে আতঙ্ক! শাহরুখের ঘরে জোড়া সাপ! একটিকে কোনও রকমে ধরা গেলেও অন্যটি...",
+    "desc": "মন্নতে জোড়া সাপ! মুম্বইয়ের সমুদ্রের ধারে দাঁড়িয়ে থাকা মন্নত শাহরুখ খানের নিছক বাড়ি নয়, তা স্বপ্নপুরী। তাঁর কোটি কোটি ভক্তের কাছে তা স্বপ্নের ঠিকানা। সেই মন্নতেই প্রিয় তারকার ঘরে এ কী কাণ্ড! আঁতকে উঠল গোটা দেশ!",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/snakes-in-shah-rukh-khans-house-snakes-in-mannat-8-foot-snake-rescued-from-shah-rukh-khans-mannat_667415.html ",
+    "time": "2026-08-18T14:08:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'সবুজ ফাইল' ও I-PAC মামলায় আরও বড় বিপদে মমতা: সুপ্রিম কোর্টে ধুন্ধুমার, মেনকা গুরুস্বামীকে তোপ, বিচারপতিরা বললেন বড় কথা",
+    "desc": "এসভি রাজু আরও বলেন, সরকার বদল হয়েছে বলেই মূল অভিযোগের প্রাসঙ্গিকতা হারিয়ে যায় না; অপরাধ সংঘটনের সময়কার পরিস্থিতি বিবেচনা করেই আদালতকে সিদ্ধান্ত নিতে হবে। পরিবর্তিত রাজনৈতিক ও প্রশাসনিক প্রেক্ষাপটে মামলার চূড়ান্ত নিষ্পত্তির রূপরেখা কী হবে, তা নিয়ে বিস্তারিত শুনানি জারি রেখেছে শীর্ষ আদালত।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/ipac-raid-obstruction-case-supreme-court-witnesses-fierce-arguments-over-cbi-probe-and-regime-change-in-bengal_667410.html ",
+    "time": "2026-08-18T13:08:38.000Z"
+  },
+  {
     "cat": "World",
     "title": "বিশ্বের বড়দা ট্রাম্পের মুখে হঠাৎ ভারতের মুখ্য নির্বাচন কমিশনার জ্ঞানেশ কুমারের নাম কেন? কী রহস্য পিছনে?",
     "desc": "ডোনাল্ড ট্রাম্পের মুখে জ্ঞানেশ কুমারের নাম! সহসা বিশ্বের শক্তিশালী দেশের সর্বময় কর্তা ডোনাল্ড ট্রাম্পের মুখে ভারতের নির্বাচন এবং মুখ্য নির্বাচন কমিশনার জ্ঞানেশ কুমারের প্রশংসা শোনা গেল! ভারতের নির্বাচন ব্যবস্থার উদাহরণ টেনে মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প মন্তব্য করায় তা ঘিরে খুব স্বাভাবিক ভাবেই শুরু হয়েছে নানা চর্চা।",
@@ -133,15 +151,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/rajasthan-govt-restricts-entry-of-outsiders-photography-and-interviews-as-cjp-plans-school-visits_667185.html ",
     "time": "2026-08-17T04:09:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "কাশীধামে আতঙ্ক! বারাণসী বিমানবন্দরে যাত্রীর বন্দুক থেকেই বেরিয়ে এল পর পর গুলি! শিশু-সহ চারজনই...",
-    "desc": "রবিবার সকালে বারাণসী বিমানবন্দরে আচমকা গুলি চলার ঘটনায় ছড়াল ব্যাপক চাঞ্চল্য। সকাল সাড়ে ৯টা নাগাদ নিরাপত্তা সংক্রান্ত পরীক্ষার সময় এক যাত্রীর বন্দুক থেকেই আচমকা গুলি চলল। এক শিশু, এক মহিলা এবং দুই নিরাপত্তাকর্মী-সহ মোট চারজন আহত হন এতে। আহতদের দ্রুত হাসপাতালে ভর্তি করা হয়। চিকিৎসকরা জানিয়েছেন, তাঁদের অবস্থা স্থিতিশীল।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/air-india-express-passengers-7-point-62-mm-pistol-goes-off-at-varanasi-airport-four-shot_667164.html ",
-    "time": "2026-08-16T14:57:05.000Z"
   },
   {
     "cat": "World",

@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Babar Azam ruled out of first Test vs England, Pakistan announce new captain",
+    "desc": "Pakistan captain Babar Azam has been ruled out of the first Test against England, owing to an injury to his right hand which he suffered during the warm-up clash against Professional County Club Select XI...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/babar-azam-ruled-out-of-first-test-vs-england-pakistan-announce-new-captain-2026-08-18-1051735",
+    "time": "2026-08-18T12:56:54.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Devdutt Padikkal becomes third Indian cricketer to record major feat in Test cricket",
     "desc": "Devdutt Padikkal was expected to be Sai Sudharsan’s backup in the first Test against Sri Lanka at Galle. However, the Tamil Nadu cricketer was ruled out with a hand injury, allowing Padikkal to play only...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/australia-announce-squad-for-second-test-vs-bangladesh-playing-xi-member-dropped-2026-08-18-1051672",
     "time": "2026-08-18T05:04:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ayush Shetty stuns World No.1 Shi Yuqi in biggest win of his career at Badminton World Championships",
-    "desc": "Ayush Shetty has announced himself on the biggest stage in style as the 21-year-old Indian pulled off a stunning three-game victory over world No.1 Shi Yuqi of China on the opening day of the BWF World...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/ayush-shetty-stuns-world-no-1-shi-yuqi-in-biggest-win-of-his-career-at-badminton-world-championships-2026-08-17-1051646",
-    "time": "2026-08-17T15:12:45.000Z"
   }
 ];

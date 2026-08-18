@@ -1,6 +1,24 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "નીતિન નવીનની નવી ટીમમાં કયા નેતા પાસે કેટલી છે નેટવર્થ? જાણો કોણ છે સૌથી અમીર અને કોણ છે સૌથી યુવા",
+    "desc": "ભાજપ પ્રમુખ નીતિન નવીનની નવી ટીમની જાહેરાત કરી દેવામાં આવી છે. ભાજપની નવી ટીમમાં કુલ 65 સભ્યોની રાષ્ટ્રીય કારોબારીમાં 51 નવા ચહેરાઓને તક આપવામાં આવી છે. ત્યારે ચૂંટણી એફિડેવિટ અને સત્તાવાર આંકડાઓના વિશ્લેષણથી આ નવા હોદ્દેદારોની નેટવર્થ અને જાહેર કરાયેલી સંપત્તિઓ સામે આવી છે. ચાલો જાણીએ કોણે સૌથી અમીર નેતા અને કેટલી છે તેમની સંપત્તિ?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/which-leader-in-nitin-naveen-new-team-has-a-net-worth-know-who-is-the-richest-488087 ",
+    "time": "2026-08-18T13:47:55.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ZMCLના ફ્યુચર પ્લાન પર CEO રક્તિમ દાસનો મોટો ખુલાસો, અનિલ સિંઘવી સાથેની ખાસ વાતચીતમાં જણાવી આગામી રણનીતિ!",
+    "desc": "ઝી બિઝનેસના મેનેજિંગ એડિટર અનિલ સિંઘવી સાથેની એક ખાસ વાતચીતમાં ઝી મીડિયાના CEO રક્તિમ દાસે ત્રિમાસિક પરિણામો, ડિજિટલ વ્યૂહરચના, નવા પ્રોજેક્ટ્સ અને ભવિષ્યના ગ્રોથ આઉટલુક અંગે વિગતવાર ચર્ચા કરી. કંપનીની QoQ રેવન્યૂ 21% વધી છે, જ્યારે EBITDAમાં પણ મજબૂત સુધારો જોવા મળ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/zee-media-future-plan-ceo-raktim-das-exclusive-interview-with-anil-singhvi-488088 ",
+    "time": "2026-08-18T13:26:48.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "ભાજપની નવી ટીમમાં એકમાત્ર મંત્રી પીયૂષ ગોયલને મળી જવાબદારી, શું મોદી કેબિનેટમાં થવાની છે કંઈક નવા-જૂની? જાણો",
     "desc": "ભાજપ અધ્યક્ષ નિતિન નવીનની ટીમમાં એકમાત્ર મંત્રી પીયૂષ ગોયલને સામેલ કરવામાં આવ્યા છે. ભાજપની નવી ટીમમાં કેન્દ્રીય મંત્રી પીયૂષ ગોયલને સામેલ કરવામાં આવતા અનેક અટકળો લાગવા લાગી છે. કારણ કે, ભાજપ એક વ્યક્તિ-એક પદના પેટર્ન પર ચાલતી રહી છે. જો કે, કેટલાક અપવાદ પણ રહ્યા છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -351,15 +369,6 @@ const newsData_gu = [
     "time": "2026-08-15T16:02:14.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "વસ્તી ગણતરી દરમિયાન ખોટી માહિતી આપવી પડી શકે છે મોંઘી, કયા સંજોગોમાં થઈ શકે છે જેલ કે દંડ? જાણો નિયમો",
-    "desc": "ગૃહ મંત્રાલયે વસ્તી ગણતરીમાં પૂછવામાં આવનારા 40 પ્રશ્નોનું એક લિસ્ટ જાહેર કર્યું છે. ચાલો જાણીએ કે, જો આ પ્રશ્નોના ખોટા જવાબ આપવામાં આવે તો શું થઈ શકે છે. શું કોઈ ગુનો નોંધાઈ શકે છે? ચાલો જાણીએ આ પ્રશ્નોના જવાબ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/giving-false-information-during-the-census-can-be-costly-under-what-circumstances-can-you-be-jailed-or-fined-know-rules-487842 ",
-    "time": "2026-08-15T15:47:41.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "26 KM માઇલેજ અને 6 એરબેગ... મારુતિની આ કાર ખરીદવા લોકોની પડાપડી ! જાણો કેટલી છે કિંમત",
     "desc": "ભારતીય બજારમાં મારુતિ સુઝુકી સૌથી વધુ ગાડીઓનું વેચાણ કરે છે. જુલાઈમાં કંપનીએ 1.96 લાખથી વધુ વાહનોનું વેચાણ કર્યું હતું, જેમાં મારુતિ સુઝુકી ડિઝાયર તેનું સૌથી વધુ વેચાતું મોડેલ હતું. જોકે, મારુતિ પાસે એક એવી ગાડી પણ છે, જેનું માર્કેટમાં કોઈ સ્પર્ધક નથી, જુલાઈમાં તેના 13,000થી વધુ યુનિટ વેચાયા હતા.",
@@ -448,15 +457,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/el-nino-will-break-all-records-will-the-biggest-natural-disaster-in-70-years-come-at-the-end-of-2026-487748 ",
     "time": "2026-08-14T16:13:57.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સોનાના ભાવમાં ઘટાડો, 1.40 લાખ રૂપિયા પર પહોંચ્યો ગોલ્ડ રેટ, જાણો કેમ ઘટ્યા",
-    "desc": "આજે, શુક્રવારે અને 14 ઓગસ્ટના રોજ સોનાના ભાવમાં થોડો ઘટાડો થયો છે. બુલિયન બજારમાં સોનાના ભાવમાં 45 રૂપિયાનો ઘટાડો થયો છે. 24 કેરેટ સોનાના 10 ગ્રામનો ભાવ 153230 રૂપિયા છે. બુલિયન બજારમાં 22 કેરેટ સોનાનો ભાવ 140360 રૂપિયા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-price-drops-bullion-market-and-reaches-rs-1-40-lakh-know-why-it-fell-487746 ",
-    "time": "2026-08-14T14:45:29.000Z"
   },
   {
     "cat": "Tech",
@@ -637,14 +637,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/two-of-baba-vengas-predictions-came-true-only-four-months-left-in-2026-will-the-remaining-three-also-come-true-487370 ",
     "time": "2026-08-11T05:07:40.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran-US War: ટ્રમ્પનો વળતો પ્રહાર, કહ્યું: ઈરાન અમેરિકાને વળતર આપે, યુદ્ધમાં બંને દેશોને અત્યાર સુધી કેટલું નુકશાન થયું ? જાણો",
-    "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે હવે માંગ કરી છે કે ઈરાન દાયકાઓથી ચાલી રહેલા સંઘર્ષ માટે વળતર ચૂકવે. તેમણે તેમના સલાહકારોને એમ પણ કહ્યું છે કે ઈરાન સાથે ભવિષ્યમાં થતી કોઈપણ વાટાઘાટોમાં ઘાયલો અને માર્યા ગયેલા લોકો માટે વળતરનો સમાવેશ થવો જોઈએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/trump-said-iran-should-compensate-america-how-much-damage-has-both-countries-suffered-in-the-war-so-far-find-out-487357 ",
-    "time": "2026-08-11T02:56:04.000Z"
   }
 ];
