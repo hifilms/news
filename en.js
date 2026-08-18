@@ -1,12 +1,237 @@
 const newsData_en = [
   {
-    "cat": "Politics",
-    "title": "Bombay HC grants bail to convict Sachin Andure, suspends his life sentence",
-    "desc": "Dabholkar's daughter Mukta had filed an appeal before the Bombay HC challenging the acquittals in the case and the exclusion of UAPA charges against Andure and Kalaskar; she alleged in her plea that the murder was part of a larger conspiracy by right-wing extremists.",
-    "img": "https://th-i.thgim.com/public/incoming/9jss1i/article71359500.ece/alternates/LANDSCAPE_1200/Narendra_Dabholkar06.jpg",
+    "cat": "World",
+    "title": "Media",
+    "desc": "The Houthis \"targeted the Aramco refinery in Jazan with several drones, in response to airspace violations over the governorates of Saada and Hajjah\" in Yemen, Houthi news agency Saba said August 18, citing a military source",
+    "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/maharashtra/dabholkar-murder-hc-grants-bail-to-convict-sachin-andure-suspends-his-life-sentence/article71359443.ece",
-    "time": "2026-08-18T15:20:53.000Z"
+    "url": "https://www.thehindu.com/news/international/houthis-target-refinery-in-southern-saudi-arabia-media/article71362143.ece",
+    "time": "2026-08-18T17:53:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Keralam CM denies CPI(M) accusation that govt. has ceded executive power to Lok Bhavan",
+    "desc": "UDF government has strongly protested the Governor’s summoning of the State Police Chief without informing or seeking the government’s consent. It is not the first time Lok Bhavan has summoned department heads without the government’s approval. It has happened several times during the LDF dispensation, says V.D. Satheesan",
+    "img": "https://th-i.thgim.com/public/incoming/y87any/article71361127.ece/alternates/LANDSCAPE_1200/Vande-Mataram-sG6UGDAPCU.5.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/keralam-cm-denies-cpim-accusation-that-govt-has-ceded-executive-power-to-rss-controlled-lok-bhavan/article71360842.ece",
+    "time": "2026-08-18T17:25:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Spain captain joins star-studded squad",
+    "desc": "Barcelona has officially announced the signing of Spain captain Rodri from Manchester City. The accomplished midfielder has signed a contract keeping him at the club until 2030. Rodri arrives after playing a central role in Spain's World Cup triumph and winning the Ballon d'Or. This move strengthens Barcelona's squad for their third consecutive La Liga title push. Real Madrid had also reportedly shown interest in the talented Spanish midfielder.",
+    "img": "https://static.toiimg.com/photo/msid-133328628,imgsize-92090.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/barcelona-officially-sign-rodri-from-man-city-spain-captain-joins-star-studded-squad/articleshow/133328511.cms",
+    "time": "2026-08-18T17:24:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Govt announces scheme to incentivise gas companies to expand PNG network",
+    "desc": "The government has unveiled a dynamic incentive scheme designed to enhance piped gas connections across the nation. By offering distribution companies access to more affordable domestic gas for newly activated connections, the initiative seeks to transform over 50 lakh previously unbilled accounts into operational ones. This strategic move is anticipated to expedite the payback period related to capital investments, encouraging a rapid proliferation of piped cooking gas installations in households.",
+    "img": "https://static.toiimg.com/photo/msid-133328128,imgsize-74590.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/govt-announces-scheme-to-incentivise-gas-companies-to-expand-png-network/articleshow/133328128.cms",
+    "time": "2026-08-18T17:14:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shubhra Shetty recalls parents’ reaction to Anurag Kashyap relationship",
+    "desc": "Shubhra Shetty has opened up about her relationship with filmmaker Anurag Kashyap and revealed how her parents reacted to their 20-year age gap. She shared that her mother jokingly calls Anurag a “bakra” and considers him a “henpecked husband.” Shubhra also recalled meeting him while working at Phantom Films and how their romance began.",
+    "img": "https://static.toiimg.com/photo/msid-133328257,imgsize-82441.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shubhra-shetty-recalls-her-parents-reaction-to-her-relationship-with-anurag-kashyap-my-mom-calls-him-a-bakra-she-thinks-he-is-like-a-henpecked-husband/articleshow/133328130.cms",
+    "time": "2026-08-18T17:11:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Keralam Chief Minister V.D. Satheesan accuses CPI(M) of orchestrating vilification campaign against UDF government",
+    "desc": "Satheesan says CPI(M) accusation that the government has not protested against the Adani Port’s sale of 49% of shares of the Vizhinjam International Port was false and he was not aware of the veracity or contemporariness of an RTI reply that the government had not conveyed its disapproval over the breach of contract to Adani Ports",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/keralam-chief-minister-vd-satheesan-accuses-cpim-of-orchestrating-vilification-campaign-against-udf-government/article71360692.ece",
+    "time": "2026-08-18T17:05:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "JSSC-CGL exam cancellation to end one protest triggers another as 2,000 fear job loss",
+    "desc": "While the decision, which was among the major demands of the exam protesters, was likely to quell the agitation, the government was now faced with a fresh concern as the candidates who cleared the JSSC-CGL exam fear losing their jobs",
+    "img": "https://th-i.thgim.com/public/incoming/4zr1g5/article71360339.ece/alternates/LANDSCAPE_1200/20260818026L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-jssc-cgl-exam-cancellation-to-end-one-protest-triggers-another-as-2000-fear-job-loss/article71360260.ece",
+    "time": "2026-08-18T17:02:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Knockout dream, survival at stake in blockbuster clash",
+    "desc": "India and Pakistan face off in a vital Hockey World Cup match on Wednesday. India need at least a draw to advance, while Pakistan must win. England have already secured a place in the next round after winning both their matches. The historic Wagener Stadium in Amstelveen will host this high-pressure contest. This match revives one of hockey's most storied rivalries with significant implications.",
+    "img": "https://static.toiimg.com/photo/msid-133328086,imgsize-210274.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/india-vs-pakistan-hockey-world-cup-knockout-dream-survival-at-stake-in-blockbuster-clash/articleshow/133327797.cms",
+    "time": "2026-08-18T17:01:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "H1N1 cases spike across the country",
+    "desc": "Doctors say no cause for alarm, but children with asthma may need intervention; Delhi reports six times the number of cases as last year; early testing and treatment may stem the infection’s spread, along with flu vaccines for the elderly",
+    "img": "https://th-i.thgim.com/public/incoming/1vurru/article71362019.ece/alternates/LANDSCAPE_1200/h1n1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/health/h1n1-cases-spike-across-the-country/article71361535.ece",
+    "time": "2026-08-18T16:54:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "U.P. SIT report on Ram Temple embezzlement an eyewash to save BJP-linked individuals, says Opposition",
+    "desc": "The Opposition demanded the report be made public adding that a selective leak giving clean chits, amounts to a calculated strategy by the ruling Bharatiya Janata Party (BJP), to set a narrative in favour of the Vishva Hindu Parishad",
+    "img": "https://th-i.thgim.com/public/incoming/ankcmc/article71272407.ece/alternates/LANDSCAPE_1200/PTI11_25_2025_000185B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/up-sit-report-on-ram-temple-embezzlementan-eyewash-to-save-bjp-linked-individuals-says-opposition/article71361583.ece",
+    "time": "2026-08-18T16:48:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India needs six more wickets on the final day to go one up",
+    "desc": "Sri Lanka reaches 84 for four in its pursuit of 372; Suthar scalps a couple while pacers Siraj and Prasidh claim one apiece; Pant’s blistering 66 and useful contributions by Padikkal and Rahul help the visiting side score 193 in its second essay",
+    "img": "https://th-i.thgim.com/public/incoming/mn61ul/article71359749.ece/alternates/LANDSCAPE_1200/20260818088L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/india-versus-sri-lanka-test-day-4-report-august-18/article71359315.ece",
+    "time": "2026-08-18T16:34:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Stolen Thirumangai Alwar bronze idol returns to Kumbakonam temple after nearly 70 years",
+    "desc": "On February 12, 2020, the Idol Wing-CID registered a case on a complaint, filed by the executive officer of the Sri Soundararaja Perumal Temple, of the theft of four idols from the temple between 1957 and 1967. The idols are the bronze statue of Thirumangai Alwar and the metal idols of Kaalinga Narthana Krishnar, Vishnu, and Sridevi. The Idol Wing traced the Thirumangai Alwar statue to the Ashmolean Museum in the United Kingdom",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/6r0weu/article71361627.ece/alternates/LANDSCAPE_1200/695db5b7-5456-4c2c-8c2e-7adb3972339b.jfif",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/stolen-thirumangai-alwar-bronze-idol-returns-to-kumbakonam-temple-after-nearly-70-years/article71360532.ece",
+    "time": "2026-08-18T16:33:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Corporation drive to crack down on illegal constructions",
+    "desc": "Mayor V.V.Rajesh said on Tuesday that those who have carried out illegal constructions should remove it themselves, failing which the civic body will demolish the constructions and make the owner pay for the cost of demolition",
+    "img": "https://th-i.thgim.com/public/incoming/drj4dy/article71361879.ece/alternates/LANDSCAPE_1200/NH28Mayor05.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/corporation-drive-to-crack-down-on-illegal-constructions/article71361081.ece",
+    "time": "2026-08-18T16:19:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India routs South Africa, jumps to top of the table",
+    "desc": "The 6-1 win is the biggest for the country in the women’s section of the showpiece; Marijne’s side now needs only a draw against England in its final pool game to seal a spot in the second round",
+    "img": "https://th-i.thgim.com/public/incoming/8yzm8k/article71361897.ece/alternates/LANDSCAPE_1200/20260818_fih_hockey_world_cup_belgium__netherlands_2026_w_india_vs_south_africa_-__ep_5961_20260818.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/hockey/hockey-world-cup-india-routs-south-africa-jumps-to-top-of-the-table/article71361903.ece",
+    "time": "2026-08-18T16:15:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "FDA's Mundhe warns SRK, Ajay, Tiger could face Rs 10L fine",
+    "desc": "In a significant enforcement move, the Maharashtra FDA has issued show-cause notices to three Bollywood stars linked to an elaichi advertisement suspected of violating food safety standards. The actors could face hefty fines if their explanations do not satisfy the authorities. This crackdown reflects an intensified effort by the FDA to address illegal gutka and pan masala products throughout the region.",
+    "img": "https://static.toiimg.com/photo/msid-133326720,imgsize-509001.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/fdas-tukaram-mundhe-warns-shah-rukh-khan-ajay-devgn-and-tiger-shroff-could-face-rs-10-lakh-fine-over-elaichi-ad-legal-action-can-be-taken/articleshow/133326670.cms",
+    "time": "2026-08-18T16:08:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Vice-President to be chief guest at Onam week celebrations this year",
+    "desc": "The event, to be organised extensively at 35 venues in the capital city from August 24 to 30, will be formally opened by Chief Minister V.D. Satheesan on August 24, informed Tourism, Culture and Cinema Minister P.C. Vishnunadh here on Tuesday",
+    "img": "https://th-i.thgim.com/public/incoming/5mbwti/article71361764.ece/alternates/LANDSCAPE_1200/TH%20TRI-08%202.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/vice-president-to-be-chief-guest-at-onam-week-celebrations-this-year/article71361112.ece",
+    "time": "2026-08-18T16:03:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan suffer major blow as captain Babar ruled out of 1st Test vs England",
+    "desc": "Pakistan captain Babar Azam misses the first Test against England due to a finger injury, with Salman Agha taking charge. Babar hopes to return for the second Test at Lord’s. Shan Masood also returns after recovering from injury. England, meanwhile, begin a new era with Joe Root as captain following Ben Stokes’ retirement, while Marcus Trescothick takes interim coaching duties.",
+    "img": "https://static.toiimg.com/photo/msid-133327038,imgsize-44090.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-suffer-major-blow-as-captain-babar-azam-ruled-out-of-first-test-against-england/articleshow/133326962.cms",
+    "time": "2026-08-18T16:03:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "AISA national president calls for unity against politics of hate and division",
+    "desc": "Neha Bora urges students and youth to unitedly resist policies that prioritised political interests over students’ welfare, and askes them to oppose policies promoting private and corporate educational institutions at the cost of public institutions",
+    "img": "https://th-i.thgim.com/public/incoming/fyfx2u/article71361816.ece/alternates/LANDSCAPE_1200/DSC_5882.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/aisa-national-president-calls-for-unity-against-politics-of-hate-and-division/article71361424.ece",
+    "time": "2026-08-18T16:00:42.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "What Trump’s latest safeguard tariff move on quartz surface products means for India",
+    "desc": "The US accounted for 72.5% of India’s quartz surface-product exports in FY2026, according to a Global Trade Research Initiative (GTRI) report. India’s move does not amount to a formal WTO dispute at this stage. During the consultations, India could challenge the US assessment of increased imports and injury to domestic producers.",
+    "img": "https://static.toiimg.com/photo/msid-133326729,imgsize-895061.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/what-trumps-latest-safeguard-tariff-move-on-quartz-surface-products-means-for-india/articleshow/133325771.cms",
+    "time": "2026-08-18T15:50:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Goa govt moves SC seeking enhanced punishment for ex-Tehelka editor Tarun Tejpal in rape case",
+    "desc": "The Bombay high court (Goa) had recently convicted and sentenced Tejpal to ten years of rigorous imprisonment in the rape case. Tejpal was convicted under Sections 376 (2)(f) (person who is a guardian or in a position of trust or authority rapes a woman), 354-A (sexual harassment) and 354-B (using criminal force on a woman with an intent to disrobe her) of the IPC.",
+    "img": "https://static.toiimg.com/photo/msid-133326421,imgsize-779467.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/goa-govt-moves-sc-seeking-enhanced-punishment-for-ex-tehelka-editor-tarun-tejpal-in-rape-case/articleshow/133326351.cms",
+    "time": "2026-08-18T15:45:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Raj Kundra recalls 63 days in jail, weight loss, Shilpa’s divorce rumours",
+    "desc": "Raj Kundra recalls his difficult 63-day stint in Mumbai’s Arthur Road Jail following his 2021 arrest in the pornography case. He reveals surviving largely on Parle-G biscuits and water, losing 17-18 kg and struggling with Shilpa Shetty’s divorce rumours. Kundra says her reassurance eventually gave him the strength to face the crisis.",
+    "img": "https://static.toiimg.com/photo/msid-133326624,imgsize-49768.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/raj-kundra-recalls-63-days-in-jail-during-pornography-case-survived-on-parle-g-and-lost-17-18-kg-shilpa-shettys-divorce-rumours-made-him-feel-like-ending-my-life/articleshow/133326575.cms",
+    "time": "2026-08-18T15:44:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘He is a goon and a criminal’: Vinesh Phogat’s sharp attack on Brij Bhushan Singh",
+    "desc": "Wrestler Vinesh Phogat labelled Brij Bhushan Sharan Singh a goon and criminal. She accused the BJP of supporting him despite sexual harassment allegations. Phogat questioned Singh's wealth and alleged land encroachment in Gonda. She drew parallels between past police actions and recent protests. The wrestler stated that money is used for atrocities against women.",
+    "img": "https://static.toiimg.com/photo/msid-133326650,imgsize-1024036.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/wrestling/he-is-a-goon-and-a-criminal-vinesh-phogats-sharp-attack-on-brij-bhushan-sharan-singh/articleshow/133326601.cms",
+    "time": "2026-08-18T15:43:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BWF World C'ships: Lakshya Sen advances, Treesa-Gayatri in pre-quarters",
+    "desc": "Lakshya Sen fights back from losing the opening game to beat Austria’s Collins Valentine Filimon 16-21, 21-8, 21-4 and reach the World Championships’ second round. Treesa Jolly and Gayatri Gopichand also advance after defeating 16th seeds Lam/Lee in straight games. Unnati Hooda progresses too, while India’s mixed doubles pairs suffer opening-round exits.",
+    "img": "https://static.toiimg.com/photo/msid-133326634,imgsize-131313.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/bwf-world-championships-lakshya-sen-stages-stunning-comeback-to-reach-next-round-treesa-jolly-gayatri-gopichand-in-pre-quarters/articleshow/133326454.cms",
+    "time": "2026-08-18T15:43:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "AAP leader Satyendar Jain arrested in Delhi Jal Board corruption case",
+    "desc": "The case includes charges under provisions relating to bribery, criminal breach of trust, cheating and criminal conspiracy. The case was registered on the complaint of Directorate of Vigilance, GNCTD regarding large-scale irregularities, manipulation of tender conditions and criminal conspiracy in the tendering process relating to augmentation/upgradation of Sewage Treatment Plants (STPs) of the Delhi Jal Board (DJB).",
+    "img": "https://static.toiimg.com/photo/msid-133326455,imgsize-34196.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/aap-leader-satyendar-jain-arrested-in-delhi-jal-board-corruption-case/articleshow/133326426.cms",
+    "time": "2026-08-18T15:39:03.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Can India extradite Sheikh Hasina under the 2013 treaty with Bangladesh?",
+    "desc": "Under Article 6 of the treaty, extradition may be refused if the offence is of a political character; Article 8 says either country can reject extradition if accusations have not been made in \"good faith\" or \"in the interest of justice\"",
+    "img": "https://th-i.thgim.com/public/incoming/p7k99h/article71359248.ece/alternates/LANDSCAPE_1200/Bangladesh-turnGK4GBQP2B.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/india-bangladesh-extradition-treaty-sheikh-hasina-extradition/article71359241.ece",
+    "time": "2026-08-18T15:32:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rahane’s hilarious Shastri mimicry steals the show during Galle Test",
+    "desc": "Former India captain Ajinkya Rahane entertained viewers during the Galle Test with a hilarious imitation of former head coach Ravi Shastri. Making his Test commentary debut, Rahane showcased his lighter side while recalling his long association with Shastri, including India’s 2020-21 Border-Gavaskar Trophy triumph. His impression added humour to the broadcast and gave fans a glimpse of his personality beyond cricket analysis.",
+    "img": "https://static.toiimg.com/photo/msid-133326358,imgsize-108395.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/ajinkya-rahanes-hilarious-ravi-shastri-mimicry-steals-the-show-during-ind-vs-sl-test-watch/articleshow/133325635.cms",
+    "time": "2026-08-18T15:24:05.000Z"
   },
   {
     "cat": "Entertainment",
@@ -18,13 +243,22 @@ const newsData_en = [
     "time": "2026-08-18T15:20:48.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ED conducts searches in Keralam in CMRL pay-off case involving Pinarayi Vijayan’s daughter",
-    "desc": "Searches at eight locations in Kozhikode are a follow-up to searches conducted on May 27 at Pinarayi’s residence in Thiruvananthapuram, his ancestral home in Kannur, and residence of former Public Works Minister P.A. Mohamed Riyas",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/7epy5y/article71359247.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-18%20at%2012.14.59.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/ed-raids-underway-in-keralam-in-cmrl-pay-off-case-involving-pinarayi-vijayans-daughter/article71358993.ece",
-    "time": "2026-08-18T15:18:49.000Z"
+    "cat": "Business",
+    "title": "US-Canada tariff clock ticks: Last-minute talks to avert Trump’s 50% tariffs",
+    "desc": "The race against time for a tariff agreement unfolds between the United States and Canada, as President Trump has set a firm deadline, warning of hefty tariffs on Canadian imports. With negotiations proving to be both intense and fragile, both nations are eager to find common ground before the clock runs out, especially given the economic implications of renewed tariffs amidst ongoing trade disputes and rising tensions.",
+    "img": "https://static.toiimg.com/photo/msid-133326140,imgsize-41386.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-canada-tariff-clock-ticks-last-minute-talks-to-avert-trumps-50-tariffs/articleshow/133326129.cms",
+    "time": "2026-08-18T15:20:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Dominant India crush South Africa 6-1 to go top of Group D",
+    "desc": "The Indian women's hockey team showcased their prowess by defeating South Africa decisively, 6-1. This thrilling win has catapulted India to the forefront of Pool D in the FIH Hockey World Cup. Key contributions came from Sunelita Toppo and Navneet Kaur, part of the six-player scoring lineup. Now, India need just one point against England to solidify their place in the next round, marking a pivotal moment in the tournament.",
+    "img": "https://static.toiimg.com/photo/msid-133326254,imgsize-194454.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/womens-hockey-world-cup-dominant-india-crush-south-africa-6-1-to-go-top-of-group-d/articleshow/133326145.cms",
+    "time": "2026-08-18T15:17:14.000Z"
   },
   {
     "cat": "Business",
@@ -46,39 +280,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Keralam Chief Minister V.D. Satheesan accuses CPI(M) of orchestrating vilification campaign against UDF government",
-    "desc": "Satheesan says CPI(M) accusation that the government has not protested against the Adani Port’s sale of 49% of shares of the Vizhinjam International Port was false and he was not aware of the veracity or contemporariness of an RTI reply that the government had not conveyed its disapproval over the breach of contract to Adani Ports",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/keralam-chief-minister-vd-satheesan-accuses-cpim-of-orchestrating-vilification-campaign-against-udf-government/article71360692.ece",
-    "time": "2026-08-18T15:02:03.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Vijay government to give women employees 365 days maternity leave for third child",
     "desc": "Announcing the change in the state assembly during the demand for grants for his department, minister D Sarathkumar said the decision was aimed at strengthening the state's focus on social welfare and women's empowerment. The state had gradually increased maternity leave for its women employees over the years. The original 90-day provision was increased to six months in 2011, followed by an increase to nine months in 2016.",
     "img": "https://static.toiimg.com/photo/msid-133325325,imgsize-121141.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/vijay-government-to-give-women-employees-365-days-maternity-leave-for-third-child/articleshow/133324932.cms",
     "time": "2026-08-18T14:29:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Keralam CM denies CPI(M) accusation that govt. has ceded executive power to 'RSS-controlled' Lok Bhavan",
-    "desc": "UDF government has strongly protested the Governor’s summoning of the State Police Chief without informing or seeking the government’s consent. It is not the first time Lok Bhavan has summoned department heads without the government’s approval. It has happened several times during the LDF dispensation, says V.D. Satheesan",
-    "img": "https://th-i.thgim.com/public/incoming/y87any/article71361127.ece/alternates/LANDSCAPE_1200/Vande-Mataram-sG6UGDAPCU.5.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/keralam-cm-denies-cpim-accusation-that-govt-has-ceded-executive-power-to-rss-controlled-lok-bhavan/article71360842.ece",
-    "time": "2026-08-18T14:28:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Jagan asks govt. to put out all the stops in tracing missing fishermen",
-    "desc": "Involve the Coast Guard, the Navy, the Fisheries Department, and the district administration, and make use of available technology and communication systems at sea to bring the eight fishermen back to safety, the YSRCP chief says",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/jagan-asks-govt-to-put-out-all-the-stops-in-tracing-missing-fishermen/article71360377.ece",
-    "time": "2026-08-18T14:24:43.000Z"
   },
   {
     "cat": "Sports",
@@ -88,15 +295,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/arjuna-awards-full-list-national-sports-awards-2025-announced/article71359526.ece",
     "time": "2026-08-18T14:20:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Cabinet clears quota for BCs in local bodies, direct election of Mayors in Andhra Pradesh",
-    "desc": "It approves 34% reservation in rural bodies and 33⅓% in urban bodies; Chief Minister Chandrababu Naidu asks officials to complete the process of conducting the local body elections before October to avoid losing Central funds",
-    "img": "https://th-i.thgim.com/public/incoming/f3y3h/article71361114.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-18%20at%2012.28.51%20PM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/cabinet-clears-quota-for-bcs-in-local-bodies-direct-election-of-mayors-in-andhra-pradesh/article71360701.ece",
-    "time": "2026-08-18T14:12:31.000Z"
   },
   {
     "cat": "Entertainment",
@@ -124,15 +322,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/eight-wickets-to-fast-bowlers-on-a-14-wicket-day-galle-test-refuses-to-follow-the-script/articleshow/133324324.cms",
     "time": "2026-08-18T13:53:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India needs six more wickets on the final day to go one up",
-    "desc": "Sri Lanka reaches 84 for four in its pursuit of 372; Suthar scalps a couple while pacers Siraj and Prasidh claim one apiece; Pant’s breezy 66 and useful contributions by Padikkal and Rahul help the visiting side score 193 in its second essay",
-    "img": "https://th-i.thgim.com/public/incoming/mn61ul/article71359749.ece/alternates/LANDSCAPE_1200/20260818088L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/india-versus-sri-lanka-test-day-4-report-august-18/article71359315.ece",
-    "time": "2026-08-18T13:49:22.000Z"
   },
   {
     "cat": "Entertainment",
@@ -405,15 +594,6 @@ const newsData_en = [
     "time": "2026-08-18T10:17:46.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Dia recalls feeling safe with R Madhavan during RHTDM",
-    "desc": "Dia Mirza opened up about her co-stars over two decades. She called Jimmy Sheirgill \"ever-evolving,\" recalled feeling safe with R Madhavan during her debut at 19, praised Amitabh Bachchan's discipline, and called Salman Khan \"the most generous\" person she's worked with. She was last seen in Operation Safed Sagar.",
-    "img": "https://static.toiimg.com/photo/msid-133318727,imgsize-199330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dia-mirza-recalls-feeling-safe-with-r-madhavan-during-her-debut-at-19-in-rehnaa-hai-terre-dil-mein-hes-a-total-gentleman/articleshow/133318683.cms",
-    "time": "2026-08-18T10:11:07.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘He quit his job’: Unnati’s emotional tribute to father after World C'ships debut win",
     "desc": "Making a remarkable debut at the BWF World Championships, Unnati Hooda scored a swift victory in straight games. She expressed heartfelt thanks to her father, who sacrificed his career to coach her diligently. Inspired by Ayush Shetty's surprising triumph over a top competitor, Unnati is determined to focus on her performance and give her best throughout the tournament.",
@@ -421,33 +601,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/he-quit-his-job-unnati-hoodas-emotional-tribute-to-father-after-world-championships-debut-win/articleshow/133318134.cms",
     "time": "2026-08-18T09:54:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Isha Koppikar says nation above political party",
-    "desc": "Isha Koppikar hit back at being called \"andhbhakt,\" clarifying her devotion is to India, not any political party. In an Instagram video, she spoke on patriotism, urging people to contribute to the nation. She'd earlier faced trolling over her democracy remarks. She's known for films like 'Fiza' and 'Company'.",
-    "img": "https://static.toiimg.com/photo/msid-133318027,imgsize-340701.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/call-me-andhbhakt-isha-koppikar-says-her-devotion-is-for-india-not-any-political-party-watch-video/articleshow/133317993.cms",
-    "time": "2026-08-18T09:46:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Bangladesh does not want Teesta dispute to hurt ties with India, says minister Shahiduddin",
-    "desc": "The Teesta begins in the Himalayas and flows through Sikkim and West Bengal before entering Bangladesh. It eventually joins the Jamuna, which is the Bangladeshi name for the Brahmaputra. The river is particularly important to northern Bangladesh, where farmers depend on its water. It is also important to West Bengal for irrigation and power generation, with several districts in North Bengal relying on its waters.",
-    "img": "https://static.toiimg.com/photo/msid-133317673,imgsize-29500.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bangladesh-does-not-want-teesta-dispute-to-hurt-ties-with-india-says-minister-shahiduddin/articleshow/133317594.cms",
-    "time": "2026-08-18T09:25:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Tell us our crime': JSSC-CGL exam cancellation ends one protest, sparks another as 2,000 fear job loss",
-    "desc": "Successful JSSC-CGL candidates protested the Jharkhand government's decision to cancel recruitment exams. They fear losing their government jobs after the cancellation announcement on Monday night. Protesters demanded a CBI probe and an opportunity to defend themselves against allegations. The government defended the cancellation to restore confidence in the recruitment system. Fresh vacancies will provide opportunities for deserving candidates after reforms.",
-    "img": "https://static.toiimg.com/photo/msid-133316568,imgsize-226336.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/tell-us-our-crime-jssc-cgl-exam-cancellation-ends-one-protest-sparks-another-as-2000-fear-job-loss/articleshow/133316120.cms",
-    "time": "2026-08-18T08:31:17.000Z"
   },
   {
     "cat": "Sports",
@@ -495,15 +648,6 @@ const newsData_en = [
     "time": "2026-08-18T07:58:16.000Z"
   },
   {
-    "cat": "World",
-    "title": "Can Bangladesh extradite Sheikh Hasina under the treaty with India?",
-    "desc": "Under Article 6 of the treaty, extradition may be refused if the offence of which it is requested is of a political character; Article 8 says either of the two countries can reject extradition if accusations have not been made in 'good faith’ or ‘in the interest of justice’.",
-    "img": "https://th-i.thgim.com/public/incoming/p7k99h/article71359248.ece/alternates/LANDSCAPE_1200/Bangladesh-turnGK4GBQP2B.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/india-bangladesh-extradition-treaty-sheikh-hasina-extradition/article71359241.ece",
-    "time": "2026-08-18T07:43:03.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "The man who refused to stay ordinary",
     "desc": "Virat Kohli's career began with a modest debut in 2008. He achieved numerous accolades, including World Cups and the Asia Cup. Kohli then captained India to significant Test match victories overseas. He broke Sachin Tendulkar's ODI century record during the 2023 World Cup. Kohli retired from Tests and T20Is after winning IPL titles.",
@@ -520,24 +664,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-got-really-angry-ashwin-reveals-the-manjrekar-criticism-he-initially-hated-but-later-called-a-guru/articleshow/133313711.cms",
     "time": "2026-08-18T06:36:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How Devdutt Padikkal's alertness saved KL Rahul's wicket in Galle",
-    "desc": "KL Rahul looked set to walk back when Prabath Jayasuriya trapped him on the back pad in the 11th over. KL Rahul was not confident about taking the review and was almost walking back. But Padikkal quickly asked him to review the decision. It turned out to be a crucial call. KL Rahul looked relieved and gave Padikkal a big hug, thanking his partner for convincing him to take the review.",
-    "img": "https://static.toiimg.com/photo/msid-133312976,imgsize-47851.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/how-devdutt-padikkals-alertness-saved-kl-rahuls-wicket-in-galle-watch/articleshow/133312838.cms",
-    "time": "2026-08-18T05:50:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What India need vs Pakistan",
-    "desc": "India have to beat or draw against Pakistan to keep their hopes of reaching the second round alive. England are currently top of Pool D with six points. India are second with three points, while Pakistan and Wales have one point each after two matches. The top two teams from each pool will move into the second round. The bottom two teams will play in the 9th-16th classification matches. India had started their campaign with a 3-1 win over Wales.",
-    "img": "https://static.toiimg.com/photo/msid-133312017,imgsize-77880.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/indias-hockey-world-cup-2026-qualification-scenarios-what-india-need-against-pakistan/articleshow/133311817.cms",
-    "time": "2026-08-18T04:55:00.000Z"
   },
   {
     "cat": "World",
@@ -592,24 +718,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trumps-envoy-says-hamas-disarmament-could-begin-within-30-days/article71358083.ece",
     "time": "2026-08-18T01:34:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How Bangladesh beat lure of white-ball riches to save its Tests",
-    "desc": "Bangladesh’s pace resources have now become the talk of the cricket town. They had shown their potential in demolishing Pakistan — both at home and away in last two years. The Test win in Darwin is the realisation of the talent and the immaculate process focusing on Test cricket put in place by the Bangladesh Cricket Board (BCB).",
-    "img": "https://static.toiimg.com/photo/msid-133309137,imgsize-71308.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/how-bangladesh-beat-lure-of-white-ball-riches-to-save-its-tests/articleshow/133309118.cms",
-    "time": "2026-08-18T01:26:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "74% big-turn deliveries: Manav Suthar out-turns Jadeja, Kuldeep in Galle",
-    "desc": "Manav Suthar played an important role in keeping the Sri Lankan batters under pressure. He also produced the highest percentage of deliveries with a large turn in the match so far. As many as 74% of his deliveries turned more than 4.5 degrees, the best among all the spinners. Suthar returned figures of 4/76 as India bowled Sri Lanka out for 284 after posting 462 in their first innings at the Galle International Stadium.",
-    "img": "https://static.toiimg.com/photo/msid-133309032,imgsize-27258.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/manav-suthar-out-turns-ravindra-jadeja-kuldeep-yadav-with-74-big-turn-deliveries-in-galle/articleshow/133309017.cms",
-    "time": "2026-08-18T01:01:46.000Z"
   },
   {
     "cat": "Sports",
@@ -682,24 +790,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/olympics-is-always-the-biggest-stage-robles/article71353870.ece",
     "time": "2026-08-17T01:32:55.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Strikes kill 19 in Russia and Ukraine",
-    "desc": "Over the past week, President Zelenskyy said Ukrainian cities had been pummelled by “more than 1,550 attack drones, nearly 1,560 guided aerial bombs, and 62 missiles”, as he renewed his appeal to allies for more air defence",
-    "img": "https://th-i.thgim.com/public/incoming/1uy868/article71353921.ece/alternates/LANDSCAPE_1200/2026-08-16T132621Z_1142941815_RC2JZMA7YR7J_RTRMADP_3_UKRAINE-CRISIS-DONETSK-ATTACK.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/strikes-kill-several-people-in-russia-and-ukraine/article71353917.ece",
-    "time": "2026-08-16T19:42:28.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Hamas expects meeting with Kushner as U.S. pushes Gaza plan",
-    "desc": "Hamas on July 30 said that it would hand over its weapons to a new Palestinian governing body as part of the latest stage in a Gaza ceasefire declared by Mr. Trump, who hailed their agreement as a \"major milestone\".",
-    "img": "https://th-i.thgim.com/public/incoming/fpz7l1/article71353748.ece/alternates/LANDSCAPE_1200/Mideast_Wars_Gaza_75268.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/hamas-expects-meeting-with-kushner-as-us-pushes-gaza-plan/article71353724.ece",
-    "time": "2026-08-16T16:58:55.000Z"
   },
   {
     "cat": "Sports",
@@ -808,95 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/what-is-the-latest-mining-amendment-act-about-explained/article71348935.ece",
     "time": "2026-08-15T13:17:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When a Kerala Facebook collective brought Rajinikanth’s iconic Baashha roaring back in a throwback to analogue cinema",
-    "desc": "The screening was about more than the superstar or the film. It was an attempt to recreate the movie-going experience of pre-digital era and draw attention to a fast disappearing world of film reels, projectors and theatre jobs",
-    "img": "https://th-i.thgim.com/public/news/cities/Kochi/owk6d1/article71344096.ece/alternates/LANDSCAPE_1200/B1.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/when-a-kerala-facebook-collective-brought-rajinikanths-iconic-baashha-roaring-back-in-a-throwback-to-analogue-cinema/article71343975.ece",
-    "time": "2026-08-15T05:16:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Vishwanath and Sons’ movie review: A charming Suriya and Mamitha Baiju carry Venky Atluri’s wholesome entertainer",
-    "desc": "What if Suriya plays a Bruce Wayne-esque character who uses his superpower of wealth to fix his own personal problems? Despite a few conveniences, Venky Atluri’s ‘Vishwanath and Sons’ is a satisfying family entertainer with some progressive ideas and standout performances",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/yajr6/article71345042.ece/alternates/LANDSCAPE_1200/VAS.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/vishwanath-and-sons-movie-review-suriya-mamitha-baiju-venky-atluri-radhika-sarathkumar-wholesome-entertainer/article71344969.ece",
-    "time": "2026-08-14T20:01:54.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India's green bonds find footing as stable 'greenium' underscores investor appetite",
-    "desc": "New Delhi sold 50 billion rupees ($524 ⁠million) of 30-year sovereign green bonds, at a so-called greenium of four basis points on Friday, leading to an average premium of four bps ‌in the fiscal half-year, the highest since such sales began in the second half of fiscal 2023",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/indias-green-bonds-find-footing-as-stable-greenium-underscores-investor-appetite/article71347030.ece",
-    "time": "2026-08-14T16:53:51.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Coal demand to touch 1.6 billion tonnes by 2030; need transparent, market-driven pricing: Official",
-    "desc": "\"Coal demand is projected to rise further to an estimated 1.6 billion tonnes by 2030,\" Dutt said, adding that we are at an \"inflection point\" where we are shifting from a scarcity scenario to one of surplus",
-    "img": "https://th-i.thgim.com/public/incoming/dsb2hk/article71347021.ece/alternates/LANDSCAPE_1200/2026-08-13T121116Z_1330222640_RC2TA6ANUCVR_RTRMADP_3_INDIA-MINING.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/coal-demand-to-touch-16-billion-tonnes-by-2030-need-transparent-market-driven-pricing-official/article71347007.ece",
-    "time": "2026-08-14T16:47:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Awarapan 2’ movie review: Emraan Hashmi’s faded sequel doesn’t rise from the riches of its past",
-    "desc": "Even if the action sequences, lighting, and camerawork have improved multifold from 2007, the sequel struggles to hold itself together as it imagines the world of ‘Awarapan’ purely as a generic genre piece, when its soul lies elsewhere",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/fwk2m4/article71344847.ece/alternates/LANDSCAPE_1200/Emraan%20Hashmi%20in%20%E2%80%98Awarapan%202%E2%80%99",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/awarapan-2-movie-review-emraan-hashmis-faded-sequel-doesnt-rise-from-the-riches-of-its-past/article71344732.ece",
-    "time": "2026-08-14T09:35:36.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "What happens when AI begins to design viruses?",
-    "desc": "The Stanford experiment does not show that AI can casually manufacture dangerous human viruses; it shows that computers are beginning to move from analysing biological information towards proposing biological designs that scientists can physically build. This requires appropriate governance and safeguards",
-    "img": "https://th-i.thgim.com/public/incoming/s10mbe/article71340049.ece/alternates/LANDSCAPE_1200/IMG_iStock-1446239060_2_1_NVC38GDD.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/health/what-happens-when-ai-begins-to-design-viruses/article71339862.ece",
-    "time": "2026-08-13T08:56:30.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Inside the Google executive moves that led to its big AI reshuffle",
-    "desc": "The changes mark a further erosion of DeepMind’s autonomy, which Google has chipped away at since buying the London-based lab in 2014 in an ongoing push for its AI to power more ‌of its software and make more money",
-    "img": "https://th-i.thgim.com/public/incoming/pk0cik/article71339424.ece/alternates/LANDSCAPE_1200/2026-08-11T125028Z_1247704185_RC29YJAK2S12_RTRMADP_3_FRANCE-GOOGLE-ANTITRUST-ARTIFICIAL.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/inside-the-google-executive-moves-that-led-to-its-big-ai-reshuffle/article71339422.ece",
-    "time": "2026-08-13T03:45:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL and Pixel 11 Pro Fold launch: What to expect?",
-    "desc": "Under the hood, the Pixel 11 series is believed to operate on Android 17 out of the box while promising 7 years of OS updates and 7 years of security updates. Gemini is expected to dominate the show with some new upgrades",
-    "img": "https://th-i.thgim.com/public/sci-tech/technology/gadgets/qs7hsq/article71331653.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-11%20at%2012.30.56%20PM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/gadgets/google-pixel-11-pixel-11-pro-pixel-11-pro-xl-and-pixel-11-pro-fold-launch-what-to-expect/article71331641.ece",
-    "time": "2026-08-12T15:55:33.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Meta will soon face another high-stakes trial in U.S.",
-    "desc": "The federal trial, one of the most consequential among a myriad of legal proceedings targeting social networks in the United States, will begin on August 12, 2026 with jury selection at a federal court in Oakland",
-    "img": "https://th-i.thgim.com/public/incoming/36h44q/article71316172.ece/alternates/LANDSCAPE_1200/Meta_New_Mexico_6716_.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/meta-will-soon-face-another-high-stakes-trial-in-us/article71326861.ece",
-    "time": "2026-08-10T04:31:54.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Teaching AI to speak India",
-    "desc": "Artificial intelligence can chat, translate and answer questions but only if it understands your language. At IIT Madras, researchers at AI4Bharat are travelling across India, collecting voices, preserving dialects and teaching AI to understand the country’s incredible linguistic diversity.",
-    "img": "https://th-i.thgim.com/public/incoming/y693sa/article71280832.ece/alternates/LANDSCAPE_1200/iStock-1066071372.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/internet/teaching-ai-to-speak-india/article71280380.ece",
-    "time": "2026-08-09T00:15:19.000Z"
   }
 ];

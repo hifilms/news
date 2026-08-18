@@ -1,6 +1,24 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "આ રાજ્ય સરકારે મહિલાઓને આપી મોટી ભેટ, હવે ત્રીજા બાળકના જન્મ પર પણ આખું વર્ષ મળશે મેટરનિટી લીવ",
+    "desc": "આ બદલાવ માર્ચ 2026માં જાહેર કરવામાં આવેલા સરકારી આદેશ દ્વારા કરવામાં આવ્યો હતો, જે હેઠળ અગાઉ બે બાળકો સુધી 365 દિવસની મેટરનિટી લીવ મળતી હતી, જ્યારે ત્રીજા સંતાનના જન્મ પર 12 અઠવાડિયાની રજા નક્કી કરવામાં આવી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/this-state-government-has-given-a-big-gift-to-women-now-even-on-the-birth-of-a-third-child-you-will-get-a-whole-year-of-maternity-leave-488111 ",
+    "time": "2026-08-18T17:56:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "દિલ્હી સરકારના પૂર્વ મંત્રી સત્યેન્દ્ર જૈનની ધરપકડ, જલ બોર્ડ કૌભાંડમાં ACBની મોટી કાર્યવાહી",
+    "desc": "દિલ્હી સરકારના પૂર્વ મંત્રી સત્યેન્દ્ર જૈનની ACB દ્વારા ધરપકડ કરવામાં આવી છે. તેમની જલ બોર્ડ કૌભાંડના સંબંધમાં ધરપકડ કરવામાં આવી છે. આ કેસમાં ACBએ પાંચ અન્ય વ્યક્તિઓની પણ ધરપકડ કરી છે, જેમાં જળ બોર્ડના અધિકારીઓ પણ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/former-minister-satyendra-jain-arrested-acb-takes-major-action-in-jal-board-scam-488107 ",
+    "time": "2026-08-18T16:06:03.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "નીતિન નવીનની નવી ટીમમાં કયા નેતા પાસે કેટલી છે નેટવર્થ? જાણો કોણ છે સૌથી અમીર અને કોણ છે સૌથી યુવા",
     "desc": "ભાજપ પ્રમુખ નીતિન નવીનની નવી ટીમની જાહેરાત કરી દેવામાં આવી છે. ભાજપની નવી ટીમમાં કુલ 65 સભ્યોની રાષ્ટ્રીય કારોબારીમાં 51 નવા ચહેરાઓને તક આપવામાં આવી છે. ત્યારે ચૂંટણી એફિડેવિટ અને સત્તાવાર આંકડાઓના વિશ્લેષણથી આ નવા હોદ્દેદારોની નેટવર્થ અને જાહેર કરાયેલી સંપત્તિઓ સામે આવી છે. ચાલો જાણીએ કોણે સૌથી અમીર નેતા અને કેટલી છે તેમની સંપત્તિ?",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -322,15 +340,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/warning-of-heavy-rain-for-5-days-alert-issued-for-16-states-today-find-out-what-the-weather-will-be-like-this-week-487863 ",
     "time": "2026-08-16T05:09:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "&amp;#039;તો હું ભાષણ નહીં આપું&amp;#039;, જ્યારે સ્વતંત્રતા દિવસ પહેલા જીદ પર બેસી ગયા હતા PM મોદી",
-    "desc": "ભૂતપૂર્વ રક્ષા સચિવ આર.કે. માથુરે યાદ કર્યું કે 2014માં પહેલી વાર લાલ કિલ્લાના પ્રાચીર પરથી રાષ્ટ્રને સંબોધન કરતા પહેલા, પીએમ મોદી જીદ પકડીને બેસી ગયા હતા. તેમણે જણાવ્યું કે જો બુલેટપ્રૂફ કાચ દૂર નહીં થાય તો તેઓ પોતાનું ભાષણ નહીં આપે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/then-i-wont-give-a-speech-when-pm-modi-stubbornly-sat-down-before-independence-day-487860 ",
-    "time": "2026-08-16T04:39:06.000Z"
   },
   {
     "cat": "World",

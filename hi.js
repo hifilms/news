@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Lakshya Sen rallies past Filimon after early scare to enter second round at BWF World Championships",
+    "desc": "Lakshya Sen had to dig deep before finding his rhythm, but once the Indian star got going, there was little his opponent could do. Sen bounced back from a first-game setback to defeat Austria's Collins...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/lakshya-sen-rallies-past-filimon-after-early-scare-to-enter-second-round-at-bwf-world-championships-2026-08-18-1051754",
+    "time": "2026-08-18T15:39:02.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Babar Azam ruled out of first Test vs England, Pakistan announce new captain",
     "desc": "Pakistan captain Babar Azam has been ruled out of the first Test against England, owing to an injury to his right hand which he suffered during the warm-up clash against Professional County Club Select XI...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/babar-azam-still-remains-doubtful-for-opening-test-against-england-what-happened-to-pakistan-captain-2026-08-18-1051677",
     "time": "2026-08-18T05:46:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australia announce squad for second Test vs Bangladesh, playing XI member dropped",
-    "desc": "After an embarrassing nine-wicket defeat to Bangladesh in the opening Test of the two-match series, Australia have dropped opener Jake Weatherald. Following his disappointing show in both innings, the team management wanted to bring someone...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/australia-announce-squad-for-second-test-vs-bangladesh-playing-xi-member-dropped-2026-08-18-1051672",
-    "time": "2026-08-18T05:04:34.000Z"
   }
 ];

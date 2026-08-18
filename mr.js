@@ -1,11 +1,1 @@
-const newsData_mr = [
-  {
-    "cat": "Politics",
-    "title": "डॉ. नरेंद्र दाभोलकर प्रकरणातील मुख्य आरोपी सचिन अंदुरेला जामीन मंजूर",
-    "desc": "&nbsp;शिवसेना पक्ष आणि चिन्हासंदर्भात आज दुपारी 2 वाजता पुन्हा सुनावणी होणार आहे. आजही ठाकरेंच्या शिवसेनेकडून वकील कपिल सिब्बल युक्तीवाद करणार आहेत. या आधीच्या सुनावणीत कपिल सिब्बल यांनी निवडणूक आयोगाच्या निर्णयावर आणि केवळ विधिमंडळातील संख्याबळावर पक्षाची मालकी ठरवण्याच्या पद्धतीवर तीव्र आक्षेप घेतला आहे. तसेच दहाव्या अनुसूचीचा हवाला देत पक्षांतर केलेले आमदार अपात्र ठरावे, अशी मागणी करण्यात आली आहे. आजदेखील सिब्बल यांचा जोरदार युक्तीवाद होण्याची शक्यता आहे. सरन्यायाधीश सूर्यकांत, न्यायमूर्ती जॉयमाल्य बागची आणि न्यायमूर्ती व्ही. मोहना यांच्यासमोर ही सुनावणी सुरू आहे.",
-    "img": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/18/0555bdd95c9837d1e81abc9449d5acbf1787017949642987_original.jpeg",
-    "src": "abplive.com",
-    "url": "https://marathi.abplive.com/news/maharashtra-live-news-updates-18-august-2026-shivsena-name-and-symbol-hearing-in-supreme-court-uddhav-thackeray-eknath-shinde-devendra-fadnavis-manoj-jarange-maharashtra-politics-1435877",
-    "time": "2026-08-18T01:53:04.000Z"
-  }
-];
+const newsData_mr = [];
