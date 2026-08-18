@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Devdutt Padikkal becomes third Indian cricketer to record major feat in Test cricket",
+    "desc": "Devdutt Padikkal was expected to be Sai Sudharsan’s backup in the first Test against Sri Lanka at Galle. However, the Tamil Nadu cricketer was ruled out with a hand injury, allowing Padikkal to play only...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/devdutt-padikkal-becomes-third-indian-cricketer-to-record-major-feat-in-test-cricket-2026-08-18-1051725",
+    "time": "2026-08-18T11:30:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Unnati Hooda shares father's ultimate sacrifice after winning BWF World Championship opener",
+    "desc": "Unnati Hooda began her BWF World Championships campaign with a straight-game victory over Myanmar’s Thet Htar Thuzar in New Delhi. The 18-year-old won 22-20, 21-16 and will now meet 13th seed Michelle Li of Canada...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/unnati-hooda-shares-father-s-ultimate-sacrifice-after-winning-bwf-world-championship-opener-2026-08-18-1051717",
+    "time": "2026-08-18T10:45:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rishabh Pant becomes fastest-ever to 100 Test sixes, joins elite four-player club",
+    "desc": "Star India batter Rishabh Pant created history on Day 4 of the first Test against Sri Lanka in Galle. The keeper-batter became the first Indian player to hit 100 sixes in the longest format of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-becomes-fastest-ever-to-100-test-sixes-joins-elite-four-player-club-who-are-the-other-three-2026-08-18-1051708",
+    "time": "2026-08-18T09:57:22.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "KL Rahul embraces Devdutt Padikkal, air-kisses him after surviving close call",
     "desc": "KL Rahul survived a dramatic LBW scare before eventually falling for 35 to Prabath Jayasuriya during India’s second innings in the first Test against Sri Lanka in Galle on Tuesday, August 18. The India opener...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/ayush-shetty-stuns-world-no-1-shi-yuqi-in-biggest-win-of-his-career-at-badminton-world-championships-2026-08-17-1051646",
     "time": "2026-08-17T15:12:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PV Sindhu gets off to stellar start at Badminton World Championships, registers exceptional win in round 1",
-    "desc": "The Badminton World Championships 2026 kicked off in perfect fashion for ace India shuttler PV Sindhu. Taking on Irish star Sophia Noble in the first round, PV Sindhu registered a straight-sets win. The two stars...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/pv-sindhu-gets-off-to-stellar-start-at-badminton-world-championships-registers-exceptional-win-in-round-1-2026-08-17-1051635",
-    "time": "2026-08-17T13:19:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Dickwella-Sonal headline Day 3 of Galle Test, resilient knocks help keep Sri Lanka afloat",
-    "desc": "Day 3 of the ongoing first Test between India and Sri Lanka proved to be a roller coaster of emotions for the fans. The day began with India losing their final wicket and posting a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dickwella-sonal-headline-day-3-of-galle-test-resilient-knocks-help-keep-sri-lanka-afloat-2026-08-17-1051629",
-    "time": "2026-08-17T12:05:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ravindra Jadeja etches name in history books, joins elite list as he clinches major Test milestone",
-    "desc": "The Indian team took on Sri Lanka on the third day of the ongoing first Test between the two sides. Taking on each other in Galle, India came in to bat in the first innings...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ravindra-jadeja-etches-name-in-history-books-joins-elite-list-as-he-clinches-major-test-milestone-2026-08-17-1051623",
-    "time": "2026-08-17T11:08:40.000Z"
   }
 ];

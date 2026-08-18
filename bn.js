@@ -1,6 +1,51 @@
 const newsData_bn = [
   {
     "cat": "World",
+    "title": "বিশ্বের বড়দা ট্রাম্পের মুখে হঠাৎ ভারতের মুখ্য নির্বাচন কমিশনার জ্ঞানেশ কুমারের নাম কেন? কী রহস্য পিছনে?",
+    "desc": "ডোনাল্ড ট্রাম্পের মুখে জ্ঞানেশ কুমারের নাম! সহসা বিশ্বের শক্তিশালী দেশের সর্বময় কর্তা ডোনাল্ড ট্রাম্পের মুখে ভারতের নির্বাচন এবং মুখ্য নির্বাচন কমিশনার জ্ঞানেশ কুমারের প্রশংসা শোনা গেল! ভারতের নির্বাচন ব্যবস্থার উদাহরণ টেনে মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প মন্তব্য করায় তা ঘিরে খুব স্বাভাবিক ভাবেই শুরু হয়েছে নানা চর্চা।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/donald-trump-and-gyanesh-kumar-trump-praises-india-trump-cites-gyanesh-kumar-indias-voter-id-system_667406.html ",
+    "time": "2026-08-18T12:20:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Zee Media-র সাফল্যের গল্প: প্রথম কোয়ার্টারে ফলাফলের পর CEO রক্তিম দাস জানালেন কোম্পানির ভবিষ্যৎ রূপরেখা",
+    "desc": "QoQ আয় ২১% বৃদ্ধি আর EBITDA মুনাফায় ফেরা! Zee Media-র দুর্দান্ত পারফর্ম্যান্সের পর আগামী দিনের ব্লু-প্রিন্ট ঠিক কী? এক্সক্লুসিভ আড্ডায় Zee Media-র সিইও রক্তিম দাস তুলে ধরলেন 'Digital Brain', AI নিউজরুম, 'Zee Bharat'-এর রিলঞ্চ এবং WION-এর ভবিষ্যৎ পরিকল্পনা।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/zee-media-zmcl-q1-results-future-plans-ceo-raktim-das_667405.html ",
+    "time": "2026-08-18T12:18:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ক্যাটরিনার ‘নো-কিসিং’ রুল ভেঙেছিল হৃতিকের জন্যেই! চাঞ্চল্যকর তথ্য ফাঁস করলেন জোয়া",
+    "desc": "বলিউডের জনপ্রিয় ছবি ‘জিন্দেগি না মিলেগি দোবারা’-তে ক্যাটরিনা কাইফ তাঁর দীর্ঘদিনের অন-স্ক্রিন কিসিং নিয়ম ভেঙেছিলেন। কিন্তু ঠিক কী এমন পরিস্থিতি তৈরি হয়েছিল, যার কারণে প্রথমবার চুম্বনের দৃশ্যে রাজি হলেন অভিনেত্রী? পরিচালক জোয়া আখতারের সেই গোপন ও চমকপ্রদ তথ্য জানলে আপনার চোখ কপালে উঠবে!",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/why-katrina-kaif-agreed-to-first-on-screen-kiss-with-hrithik-roshan-in-znmd_667397.html ",
+    "time": "2026-08-18T11:44:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "রাজ্য সরকারি কর্মীদের বকেয়া DA নিয়ে বিরাট আপডেট: কোর্টরুমে তুমুল উত্তেজনা, ক্ষুব্ধ আদালত-- বাকি টাকা কবে? জেনে নিন",
+    "desc": "পিএফ অ্যাকাউন্টে দু’বছরের ‘লক-ইন পিরিয়ড’ সংক্রান্ত তথ্য শুনে চরম অসন্তোষ প্রকাশ করেন বিচারপতি মিশ্র। তিনি জানতে চান, 'লক-ইন পিরিয়ড এল কোথা থেকে? আমাদের রায়ে তো এমন কোনও শর্তের কথা বলা হয়নি।' এই বিষয়ে সলিসিটর জেনারেল তুষার মেহতা সময় চেয়ে জানান যে, বিষয়টি খতিয়ে না দেখে তিনি এখনই মন্তব্য করতে পারছেন না।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/supreme-court-da-hearing-bengal-claims-65-percent-arrears-paid-employees-allege-massive-deprivation-and-illegal-lock-in_667386.html ",
+    "time": "2026-08-18T11:02:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "মৃত্যুদণ্ডের পদ্ধতি বদলে যাচ্ছে? ক্যাপিটাল পানিশমেন্ট হিসেবে ফাঁসি বহাল থাকছে না? বিরাট কথা বলল সুপ্রিম কোর্ট",
+    "desc": "এক মামলার শুনাতিতেই এবার যুগান্তকারী মন্তব্য দেশের শীর্ষ আদালতের। কী বলল সুপ্রিম কোর্ট? মৃত্যুদণ্ডপ্রাপ্ত আসামিদের সাজা কার্যকর করার উপায় হিসেবে গলায় ফাঁস লাগিয়ে ঝুলিয়ে দেওয়া বা ফাঁসি দেওয়ার পদ্ধতিতেই আস্থা রাখল দেশের সর্বোচ্চ আদালত তথা সুপ্রিম কোর্ট।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/supreme-court-on-hanging-less-painful-lethal-injection-for-death-penalty-supreme-court-says-no-sc-not-willing-to-review-alternative-methods_667384.html ",
+    "time": "2026-08-18T10:33:34.000Z"
+  },
+  {
+    "cat": "World",
     "title": "'একটু দেখা করব সন্ধেবেলা?' হঠাত্‍ ফোন পেয়ে বাড়ি থেকে বেরোতেই গলায় তিনটে গুলি, ঝাঁঝরা হয়ে গেল জনপ্রিয় ভ্লগার",
     "desc": "সোশ্যাল মিডিয়া ইনফ্লুয়েন্সারকে নৃশংসভাবে গুলি করে খুনের ঘটনা ঘটল। স্থান পাকিস্তানের ইসলামাবাদ। ট্যাক্সিলা (Taxila) এলাকায় মাত্র ২৮ বছর বয়সে দুষ্কৃতীদের গুলিতে প্রাণ হারালেন জনপ্রিয় টিকটকার শামসু বিবি, সোশ্যাল মিডিয়ায় আয়েশা গিলামনা (Ayesha Gilamana) নামে পরিচিত ছিলেন। এই হামলায় তাঁর ১৫ বছর বয়সী ছোট বোন আসিমাও গুরুতর জখম হয়ে হাসপাতালে চিকিৎসাধীন।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -115,15 +160,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/a-week-of-extreme-heatwave-in-europe-shot-up-deaths-by-16000_667138.html ",
     "time": "2026-08-16T10:45:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'কী করছেন'! ১৭-র শরীরে কামাতুর স্পর্শ...চলন্ত বাইকে চরম অশালীনতা ড্রাইভারের, ভিডিয়ো ভাইরাল",
-    "desc": "এক রোমহর্ষক ভিডিয়োতে কেঁপে গিয়েছে নেটপাড়া। দেখা গিয়েছে যে র‍্যাপিডোর ড্রাইভার এক নাবালককে হেনস্থা করছেন! তাঁকে আপত্তিকর ভাবে স্পর্শ করছেন বারবার। এ বিষয়ে র‍্যাপিডোর দেওয়া তথ্য অনুযায়ী, ওই ক্যাপ্টেনকে প্ল্যাটফর্ম থেকে স্থায়ী ভাবে নিষিদ্ধ করা হয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/rapido-bike-driver-harasses-minor-boy-by-touching-inappropriately_667124.html ",
-    "time": "2026-08-16T09:13:42.000Z"
   },
   {
     "cat": "Entertainment",

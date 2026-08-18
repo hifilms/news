@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "ભાજપની નવી ટીમમાં એકમાત્ર મંત્રી પીયૂષ ગોયલને મળી જવાબદારી, શું મોદી કેબિનેટમાં થવાની છે કંઈક નવા-જૂની? જાણો",
+    "desc": "ભાજપ અધ્યક્ષ નિતિન નવીનની ટીમમાં એકમાત્ર મંત્રી પીયૂષ ગોયલને સામેલ કરવામાં આવ્યા છે. ભાજપની નવી ટીમમાં કેન્દ્રીય મંત્રી પીયૂષ ગોયલને સામેલ કરવામાં આવતા અનેક અટકળો લાગવા લાગી છે. કારણ કે, ભાજપ એક વ્યક્તિ-એક પદના પેટર્ન પર ચાલતી રહી છે. જો કે, કેટલાક અપવાદ પણ રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/piyush-goyal-the-only-minister-in-the-new-bjp-team-has-been-given-responsibility-is-there-anything-new-or-old-going-to-happen-in-the-modi-cabinet-know-488074 ",
+    "time": "2026-08-18T11:17:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "બેટ અને બોલ વચ્ચે ગેપ હતી છતાં જુરેલને અપાયો આઉટ, શું ટીમ ઈન્ડિયા સાથે થયો અન્યાય ?",
+    "desc": "ગાલે ટેસ્ટના બીજી ઈનિંગમાં ધ્રુવ જુરેલને અસિતા ફર્નાન્ડોના બોલ પર વિવાદાસ્પદ રીતે આઉટ આપવામાં આવ્યો હતો. મેદાન પરના અમ્પાયરે તેને નોટ આઉટ જાહેર કર્યો હતો અને રિપ્લેમાં બેટ અને બોલ વચ્ચે ગેપ દેખાતી હતી છતાં થર્ડ અમ્પાયરે સ્નિકોમીટર પરની નોર્મલ સ્પાઇકના આધારે આઉટ આપ્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/dhruv-jurel-given-out-despite-being-gap-between-bat-and-ball-injustice-with-team-india-488071 ",
+    "time": "2026-08-18T10:54:22.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ટાટા સન્સના ઇતિહાસમાં પ્રથમવાર: કોરમ પૂર્ણ ન થતાં AGM સ્થગિત, જાણો હવે ક્યારે મળશે બેઠક",
+    "desc": "મંગળવારે ટાટા સન્સની વાર્ષિક બેઠક ટળી. તેનું કારણ કોરમ પૂર્ણ ન થવું હતું. ટાટા સન્સના ઈતિહાસમાં પ્રથમવાર બન્યું છે જ્યારે AGM સ્થગિત થઈ છે. હવે એજીએમની નવી તારીખ જાહેર કરવામાં આવશે. જે માટે ચેરમેન બોર્ડની સાથે ચર્ચા કરશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/tata-sons-adjourns-agm-over-quorum-shortfall-chairman-to-decide-next-meeting-date-488070 ",
+    "time": "2026-08-18T10:51:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "આવારાપન 2માં પરેશ રાવલના દીકરાએ પણ કરી છે એક્ટિંગ, શું તમે તેને ઓળખ્યો?",
+    "desc": "\"આવારાપન 2\" માં ફક્ત વામિકા ગબ્બીના ભાઈ પૂરણ ગબ્બી જ નહીં, પણ પરેશ રાવલનો દીકરો પણ છે. ચાલો તમને તેના વિશે જણાવીએ કે આવારાપન 2માં કયા રોલ માટે તેને પસંદ કરવામાં આવ્યો હતો અને તેની એક્ટિગ જો તેમે આવારાપન 2 જોયું છે તો કેવી લાગી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/paresh-rawal-son-has-also-acted-in-aavarapan-2-did-you-recognize-him-488067 ",
+    "time": "2026-08-18T10:18:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ભારત-શ્રીલંકા ટેસ્ટ વચ્ચે ખરાબ સમાચાર, આ ક્રિકેટર ઈજાગ્રસ્ત થતાં તાત્કાલિક ખસેડાયો હોસ્પિટલ",
+    "desc": "ભારત સામે ગાલે ટેસ્ટના ચોથા દિવસે શ્રીલંકાને મોટો ઝટકો લાગ્યો. અનુભવી બેટ્સમેન દિનેશ ચંદીમલ બાઉન્ડ્રી બચાવવાનો પ્રયાસ કરતી વખતે ડીપ મિડ-વિકેટ પર પડી ગયો, જેના કારણે તેને જમણા ખભા અને ગરદનમાં ઈજા થઈ. મેદાન પર પ્રાથમિક તપાસ બાદ વધુ તપાસ માટે તેને હોસ્પિટલમાં લઈ જવામાં આવ્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/dinesh-chandimal-injured-during-ind-vs-sl-1st-test-hospitalized-for-scan-488066 ",
+    "time": "2026-08-18T10:17:07.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "LIVE મેચમાં અમ્પાયર સાથે ભયાનક અકસ્માત, તાત્કાલિક ICUમાં કરવા પડ્યા દાખલ, જુઓ Video",
     "desc": "દિલ્હી પ્રીમિયર લીગ વચ્ચે એક ભયાનક ઘટના બની છે. એક મેચ દરમિયાન બેટ્સમેન દ્વારા ફટકારવામાં આવેલ એક શોટ સીધો અમ્પાયરના ગાલ પર વાગ્યો હતો. બોલ એટલો જોરથી વાગ્યો કે અમ્પાયર તરત જ મેદાન પર ઢળી પડ્યા, જેના કારણે તેમને તાત્કાલિક હોસ્પિટલ લઈ જવામાં આવ્યા હતા.",
@@ -360,15 +405,6 @@ const newsData_gu = [
     "time": "2026-08-15T09:43:50.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "15મી ઓગસ્ટે મેદાનમાં ઉતરતા જ ભારતીય ટીમે રચ્યો ઈતિહાસ, આ રેકોર્ડ બનાવનાર વિશ્વનો ત્રીજો દેશ બન્યો",
-    "desc": "આજે ભારત 80મો સ્વતંત્રતા દિવસ ઉજવી રહ્યો છે અને આ સાથે ભારતીય ટીમે પણ ઈતિહાસ રચ્યો છે. 15 ઓગસ્ટે મેદાનમાં ઉતરતા જ ભારતના નામે એક એવો રેકોર્ડ નોંધાયો છે, જે આના પહેલા ફક્ત બે દેશો જ આવું કરી શક્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/team-india-historic-record-600th-test-on-independence-day-in-galle-487791 ",
-    "time": "2026-08-15T09:05:56.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "આવારાપન 2 ફિલ્મે બોક્સ ઓફિસ પર દેખાડ્યો દમ, ઓપનિંગ ડે પર છપ્પરફાડ કલેકશન કર્યું",
     "desc": "15 ઓગસ્ટના એક દિવસ અગાઉ બોક્સ ઓફિસ પર 2 દમદાર ફિલ્મો રિલીઝ થઈ છે. એક છે સની દેઓલની ફિલ્મ બટવારા 1947 અને બીજી છે ઈમરાન હાશમીની આવારાપન 2 ફિલ્મ. જેમાંથી બોક્સ ઓફિસ આવારાપન 2 સારી કમાણી કરી રહી છે.",
@@ -430,15 +466,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/mileage-like-maruti-power-like-mahindra-mg-company-is-bringing-a-special-7-seater-hector-hawk-suv-487744 ",
     "time": "2026-08-14T14:11:03.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ઝી એન્ટરટેઇનમેન્ટને SAT તરફથી મોટી રાહત, SEBIના આદેશ પર રોક, શેરમાં જોરદાર ઉછાળો",
-    "desc": "ZEE એન્ટરટેઈનમેન્ટ એન્ટરપ્રાઇઝ લિમિટેડ (ZEEL)ને સિક્યોરિટીઝ એપેલેટ ટ્રિબ્યુનલ (SAT) દ્વારા મોટી રાહત આપવામાં આવી છે. SATએ કંપની સામેના SEBIના આદેશ પર સ્ટે આપ્યો છે. SATની રાહતથી ZEE એન્ટરટેઈનમેન્ટને 3,143 કરોડ રૂપિયા એકત્ર કરવાનો માર્ગ મોકળો થયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/zee-entertainment-gets-big-relief-from-sat-sebi-order-stays-shares-surge-487718 ",
-    "time": "2026-08-14T11:17:39.000Z"
   },
   {
     "cat": "Entertainment",
