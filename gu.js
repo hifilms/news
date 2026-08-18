@@ -450,15 +450,6 @@ const newsData_gu = [
     "time": "2026-08-14T07:31:35.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Zee Entertainment ને SAT તરફથી મોટી રાહત: SEBI ના બેન પર સ્ટે, ₹3,143 કરોડના વોરન્ટ જાહેર કરવાનો માર્ગ મોકળો",
-    "desc": "ઝી એન્ટરટેઈનમેન્ટ માટે SAT ની આ રાહત એટલા માટે મોટી છે, કારણ કે તેનાથી શેરધારકોની મંજૂરીથી શરૂ થયેલી ₹3,143.5 કરોડના ફંડ એકત્ર કરવાની પ્રક્રિયાને આગળ વધારવાનો માર્ગ ખુલી ગયો છે. હવે નગર કાયદાકીય પ્રક્રિયા અને વોરંટ ઈશ્યૂની આગામી પ્રક્રિયા પર રહેશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/major-relief-for-zee-entertainment-sat-stays-sebi-order-paves-way-for-%E2%82%B93143-crore-warrant-issue-487698 ",
-    "time": "2026-08-14T07:10:26.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "BSNL ની બમ્પર ઓફર: માત્ર ₹1 માં નવું કનેક્શન, 365 ને બદલે 412 દિવસ સુધી ચાલશે વાર્ષિક પ્લાન!",
     "desc": "સ્વતંત્રતા દિવસ પર બીએસએનએલે ગ્રાહકોને ખાસ ભેટ આપી છે. 1 રૂપિયામાં ફ્રીડમ પ્લાન અને વાર્ષિક રિચાર્જ પર 47 દિવસનો વધારાનો લાભ મળશે. એટલે કે 2399 રૂપિયાનો પ્લાન હવે 412 દિવસ સુધી ચાલશે. આ ઓફર 12 સપ્ટેમ્બર 2026 સુધી ઉપલબ્ધ રહેશે.",
@@ -628,15 +619,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/trump-said-iran-should-compensate-america-how-much-damage-has-both-countries-suffered-in-the-war-so-far-find-out-487357 ",
     "time": "2026-08-11T02:56:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "15 એપિસોડની ભારતીય ટ્રેનની યાત્રા પર આધારિત જોવા જેવી સીરીઝ, યુટ્યુબ પર જોઈ શકો છો ફ્રીમાં",
-    "desc": "દુરદર્શન પર એક એવી સીરીઝ રિલીઝ કરવામાં આવી હતી જે દેશભરમાં લોકપ્રિય થઈ હતી. શ્યામ બેનેગલની આ સીરીઝને ભારતીય રેલ્વેએ સ્પોન્સર કરી હતી. આ સીરીઝના દરેક એપિસોડ મજેદાર છે જેને તમે યુટ્યુબ પર ફ્રીમાં જોઈ શકો છો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/shyam-benegal-yatra-series-on-youtube-15-episode-sponsored-by-indian-railways-487293 ",
-    "time": "2026-08-10T07:50:03.000Z"
   },
   {
     "cat": "Tech",

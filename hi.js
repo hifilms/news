@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Star Sri Lanka cricketer taken to hospital for scans after freak injury on Day 4 of Galle Test",
+    "desc": "Star Sri Lanka batter Dinesh Chandimal was taken to hospital for a precautionary scan after suffering an injury to his shoulder and neck during Sri Lanka’s first Test against India in Galle. The incident happened...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/star-sri-lanka-cricketer-taken-to-hospital-for-scans-after-freak-injury-on-day-4-of-galle-test-2026-08-18-1051683",
+    "time": "2026-08-18T06:21:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Babar Azam still remains doubtful for opening Test against England; what happened to Pakistan captain?",
+    "desc": "Babar Azam’s availability remains doubtful for Pakistan’s first Test against England, slated to begin on August 19 in Leeds. The star batter is still recovering from a finger injury and the team management is expected...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/babar-azam-still-remains-doubtful-for-opening-test-against-england-what-happened-to-pakistan-captain-2026-08-18-1051677",
+    "time": "2026-08-18T05:46:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Australia announce squad for second Test vs Bangladesh, playing XI member dropped",
+    "desc": "After an embarrassing nine-wicket defeat to Bangladesh in the opening Test of the two-match series, Australia have dropped opener Jake Weatherald. Following his disappointing show in both innings, the team management wanted to bring someone...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/australia-announce-squad-for-second-test-vs-bangladesh-playing-xi-member-dropped-2026-08-18-1051672",
+    "time": "2026-08-18T05:04:34.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Ayush Shetty stuns World No.1 Shi Yuqi in biggest win of his career at Badminton World Championships",
     "desc": "Ayush Shetty has announced himself on the biggest stage in style as the 21-year-old Indian pulled off a stunning three-game victory over world No.1 Shi Yuqi of China on the opening day of the BWF World...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-weighs-in-on-dhruv-jurel-s-dismissal-after-day-2-heroics-of-the-ongoing-sri-lanka-test-2026-08-17-1051601",
     "time": "2026-08-17T07:42:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mikel Arteta fires warning shots at his competitors after dominant win in Community Shield final",
-    "desc": "The Community Shield final saw defending Premier League champions Arsenal take on Manchester City. The two sides met at Wembley in London for the clash on August 16th, and it was Arsenal who came out...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/mikel-arteta-fires-warning-shots-at-his-competitors-after-dominant-win-in-community-shield-final-2026-08-17-1051596",
-    "time": "2026-08-17T06:34:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Manchester Super Giants script history, clinch maiden Hundred title with stellar show against Trent Rockets",
-    "desc": "The Men’s Hundred 2026 final saw Manchester Super Giants taking on defending champions Trent Rockets. The two sides met at Lord’s Cricket Ground in London on August 16th for the clash, and Manchester Super Giants...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/manchester-super-giants-script-history-clinch-maiden-hundred-title-with-stellar-show-against-trent-rockets-2026-08-17-1051588",
-    "time": "2026-08-17T05:27:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cristiano Ronaldo drops retirement bombshell, says 'probably my last year' of football",
-    "desc": "Cristiano Ronaldo has given his clearest indication yet that he could retire from professional football at the end of the 2026-27 season, saying it is 'probably my last year.' The 41-year-old, who continues to play...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/cristiano-ronaldo-drops-retirement-bombshell-says-probably-my-last-year-of-football-latest-updates-2026-08-16-1051563",
-    "time": "2026-08-16T17:03:00.000Z"
   }
 ];
