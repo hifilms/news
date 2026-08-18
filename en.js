@@ -1,5 +1,86 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Hayden Panettiere’s mother says family tried to ‘get rid of’ Brian Hickerson",
+    "desc": "Hayden Panettiere’s mother, Lesley Vogel, has spoken out after her daughter’s death, raising concerns about Brian Hickerson, Panettiere’s on-off boyfriend. Vogel said the family had been trying to “get rid of” Hickerson for years and revealed he was with Panettiere when she went into cardiac arrest. Her cause of death remains under investigation.",
+    "img": "https://static.toiimg.com/photo/msid-133332175,imgsize-100282.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/hayden-panettieres-mother-speaks-out-after-daughters-death-says-family-tried-to-get-rid-of-on-off-boyfriend-brian-hickerson-we-had-been-concerned-for-years/articleshow/133332146.cms",
+    "time": "2026-08-18T21:08:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "H1N1 cases on the rise, experts say no cause for alarm",
+    "desc": "Doctors say no cause for alarm, but children with asthma may need intervention; Delhi reports six times the number of cases as last year; early testing and treatment may stem the infection’s spread, along with flu vaccines for the elderly",
+    "img": "https://th-i.thgim.com/public/incoming/1vurru/article71362019.ece/alternates/LANDSCAPE_1200/h1n1.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/health/h1n1-cases-spike-across-the-country/article71361535.ece",
+    "time": "2026-08-18T20:25:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP puts Vinod Tawde, who played role in Bihar win, in charge of UP",
+    "desc": "The BJP has designated Vinod Tawde as its new state in-charge for Uttar Pradesh, while Satish Poonia takes the helm in Punjab. Additionally, Tarun Chugh has been entrusted with managing Gujarat's party affairs. These strategic appointments are pivotal as the BJP gears up for the imminent state elections, ensuring that influential leaders are aligned for key electoral battles.",
+    "img": "https://static.toiimg.com/photo/msid-133332030,imgsize-69872.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bjp-puts-vinod-tawde-who-played-role-in-bihar-win-in-charge-of-up/articleshow/133332018.cms",
+    "time": "2026-08-18T20:13:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Goa moves SC, seeks life imprisonment for Tejpal for sex assault",
+    "desc": "In a significant move, the Goa government has approached the Supreme Court, requesting a harsher sentence for Tarun Tejpal in a sexual assault case. The state argues that his current penalty is insufficient given the severity of the crime. They emphasize that Tejpal exploited his position of power, suggesting that time should not lessen the consequences for such an offense.",
+    "img": "https://static.toiimg.com/photo/msid-133331988,imgsize-779467.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/goa-moves-sc-seeks-life-imprisonment-for-tejpal-for-sex-assault/articleshow/133331982.cms",
+    "time": "2026-08-18T19:59:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "80% of Delhi is unplanned, fire preparedness ‘average’: Chief Fire Officer",
+    "desc": "Delhi’s fire risks are growing amid unplanned construction, weak compliance, inadequate manpower and congested roads, Delhi Fire Services Chief Fire Officer A.K. Malik said on Tuesday. In an interaction with The Hindu, he assesses the city’s fire-safety preparedness, gaps in enforcement and infrastructure, changing fire risks and measures to improve response",
+    "img": "https://th-i.thgim.com/public/incoming/wtuwcy/article71361264.ece/alternates/LANDSCAPE_1200/DFS%20CHIEF%20MALIK%20DELHI%202026_18_08_8.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/80-of-delhi-is-unplanned-fire-preparedness-average-chieffireofficer/article71361344.ece",
+    "time": "2026-08-18T19:42:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Egypt boss Hossam Hassan ‘collapses’ as two wives clash in ugly hotel brawl",
+    "desc": "Egypt manager Hossam Hassan was reportedly caught in a physical altercation between his two wives at a hotel on Egypt’s North Coast. Hassan allegedly collapsed while trying to intervene, while reports later claimed he divorced his first wife, Howaida. However, his lawyer denied any health crisis. The incident has drawn widespread attention following Egypt’s recent World Cup campaign.",
+    "img": "https://static.toiimg.com/photo/msid-133331832,imgsize-143394.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/egypt-boss-hossam-hassan-collapses-as-two-wives-allegedly-break-into-ugly-hotel-brawl-before-he-divorces-first-wife/articleshow/133330984.cms",
+    "time": "2026-08-18T19:39:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Goa moves Supreme Court to enhance sentence of Tarun Tejpal in 2013 rape case",
+    "desc": "The State said the sentence was inadequate but clarified that it did not want to challenge or reopen the findings or conclusions on merit recorded by the Bombay High Court in a judgment on August 6",
+    "img": "https://th-i.thgim.com/public/incoming/litkgq/article71362229.ece/alternates/LANDSCAPE_1200/2_Tarun_Tejpal.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/goa-moves-supreme-court-to-enhance-sentence-of-tarun-tejpal-in-2013-rape-case/article71362029.ece",
+    "time": "2026-08-18T19:17:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Delhi Police affidavit in Supreme Court is rich with numbers, but quiet on fixing accountability",
+    "desc": "The affidavit says over 240 police personnel, including women officers, were injured in the violence on July 20; around 218 protestors were injured and received treatment; the police had to prevent the protestors from causing damage to vital installations near Parliament",
+    "img": "https://th-i.thgim.com/public/incoming/bpwjls/article70621377.ece/alternates/LANDSCAPE_1200/INDEX_SUPREME_COURT_02_08_7.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/neet-protests-delhi-police-affidavit-in-supreme-court-is-rich-with-numbers-but-quiet-on-fixing-accountability/article71361703.ece",
+    "time": "2026-08-18T19:07:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Biomining to clear ‘legacy waste’ at Njeliyanparamba progressing steadily: Mayor",
+    "desc": "The initiative, which began in March 2026, aims to clear around 2.33 lakh cubic metres of ‘legacy waste’ accumulated across the 12.6-acre dumping site and reclaim the entire land for productive use by July 2027.",
+    "img": "https://th-i.thgim.com/public/incoming/1788hg/article71361253.ece/alternates/LANDSCAPE_1200/11073_18_8_2026_19_15_8_2_19TVKZ7_MAYOR.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/biomining-to-clear-legacy-waste-at-njeliyanparamba-progressing-steadily-mayor/article71360846.ece",
+    "time": "2026-08-18T18:40:50.000Z"
+  },
+  {
     "cat": "World",
     "title": "Media",
     "desc": "The Houthis \"targeted the Aramco refinery in Jazan with several drones, in response to airspace violations over the governorates of Saada and Hajjah\" in Yemen, Houthi news agency Saba said August 18, citing a military source",
@@ -45,24 +126,6 @@ const newsData_en = [
     "time": "2026-08-18T17:11:11.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Keralam Chief Minister V.D. Satheesan accuses CPI(M) of orchestrating vilification campaign against UDF government",
-    "desc": "Satheesan says CPI(M) accusation that the government has not protested against the Adani Port’s sale of 49% of shares of the Vizhinjam International Port was false and he was not aware of the veracity or contemporariness of an RTI reply that the government had not conveyed its disapproval over the breach of contract to Adani Ports",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/keralam-chief-minister-vd-satheesan-accuses-cpim-of-orchestrating-vilification-campaign-against-udf-government/article71360692.ece",
-    "time": "2026-08-18T17:05:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "JSSC-CGL exam cancellation to end one protest triggers another as 2,000 fear job loss",
-    "desc": "While the decision, which was among the major demands of the exam protesters, was likely to quell the agitation, the government was now faced with a fresh concern as the candidates who cleared the JSSC-CGL exam fear losing their jobs",
-    "img": "https://th-i.thgim.com/public/incoming/4zr1g5/article71360339.ece/alternates/LANDSCAPE_1200/20260818026L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-jssc-cgl-exam-cancellation-to-end-one-protest-triggers-another-as-2000-fear-job-loss/article71360260.ece",
-    "time": "2026-08-18T17:02:05.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Knockout dream, survival at stake in blockbuster clash",
     "desc": "India and Pakistan face off in a vital Hockey World Cup match on Wednesday. India need at least a draw to advance, while Pakistan must win. England have already secured a place in the next round after winning both their matches. The historic Wagener Stadium in Amstelveen will host this high-pressure contest. This match revives one of hockey's most storied rivalries with significant implications.",
@@ -72,24 +135,6 @@ const newsData_en = [
     "time": "2026-08-18T17:01:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "H1N1 cases spike across the country",
-    "desc": "Doctors say no cause for alarm, but children with asthma may need intervention; Delhi reports six times the number of cases as last year; early testing and treatment may stem the infection’s spread, along with flu vaccines for the elderly",
-    "img": "https://th-i.thgim.com/public/incoming/1vurru/article71362019.ece/alternates/LANDSCAPE_1200/h1n1.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/health/h1n1-cases-spike-across-the-country/article71361535.ece",
-    "time": "2026-08-18T16:54:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "U.P. SIT report on Ram Temple embezzlement an eyewash to save BJP-linked individuals, says Opposition",
-    "desc": "The Opposition demanded the report be made public adding that a selective leak giving clean chits, amounts to a calculated strategy by the ruling Bharatiya Janata Party (BJP), to set a narrative in favour of the Vishva Hindu Parishad",
-    "img": "https://th-i.thgim.com/public/incoming/ankcmc/article71272407.ece/alternates/LANDSCAPE_1200/PTI11_25_2025_000185B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/up-sit-report-on-ram-temple-embezzlementan-eyewash-to-save-bjp-linked-individuals-says-opposition/article71361583.ece",
-    "time": "2026-08-18T16:48:02.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India needs six more wickets on the final day to go one up",
     "desc": "Sri Lanka reaches 84 for four in its pursuit of 372; Suthar scalps a couple while pacers Siraj and Prasidh claim one apiece; Pant’s blistering 66 and useful contributions by Padikkal and Rahul help the visiting side score 193 in its second essay",
@@ -97,24 +142,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/india-versus-sri-lanka-test-day-4-report-august-18/article71359315.ece",
     "time": "2026-08-18T16:34:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Stolen Thirumangai Alwar bronze idol returns to Kumbakonam temple after nearly 70 years",
-    "desc": "On February 12, 2020, the Idol Wing-CID registered a case on a complaint, filed by the executive officer of the Sri Soundararaja Perumal Temple, of the theft of four idols from the temple between 1957 and 1967. The idols are the bronze statue of Thirumangai Alwar and the metal idols of Kaalinga Narthana Krishnar, Vishnu, and Sridevi. The Idol Wing traced the Thirumangai Alwar statue to the Ashmolean Museum in the United Kingdom",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/6r0weu/article71361627.ece/alternates/LANDSCAPE_1200/695db5b7-5456-4c2c-8c2e-7adb3972339b.jfif",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/chennai/stolen-thirumangai-alwar-bronze-idol-returns-to-kumbakonam-temple-after-nearly-70-years/article71360532.ece",
-    "time": "2026-08-18T16:33:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Corporation drive to crack down on illegal constructions",
-    "desc": "Mayor V.V.Rajesh said on Tuesday that those who have carried out illegal constructions should remove it themselves, failing which the civic body will demolish the constructions and make the owner pay for the cost of demolition",
-    "img": "https://th-i.thgim.com/public/incoming/drj4dy/article71361879.ece/alternates/LANDSCAPE_1200/NH28Mayor05.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/corporation-drive-to-crack-down-on-illegal-constructions/article71361081.ece",
-    "time": "2026-08-18T16:19:08.000Z"
   },
   {
     "cat": "Sports",
@@ -135,15 +162,6 @@ const newsData_en = [
     "time": "2026-08-18T16:08:43.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Vice-President to be chief guest at Onam week celebrations this year",
-    "desc": "The event, to be organised extensively at 35 venues in the capital city from August 24 to 30, will be formally opened by Chief Minister V.D. Satheesan on August 24, informed Tourism, Culture and Cinema Minister P.C. Vishnunadh here on Tuesday",
-    "img": "https://th-i.thgim.com/public/incoming/5mbwti/article71361764.ece/alternates/LANDSCAPE_1200/TH%20TRI-08%202.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/vice-president-to-be-chief-guest-at-onam-week-celebrations-this-year/article71361112.ece",
-    "time": "2026-08-18T16:03:05.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Pakistan suffer major blow as captain Babar ruled out of 1st Test vs England",
     "desc": "Pakistan captain Babar Azam misses the first Test against England due to a finger injury, with Salman Agha taking charge. Babar hopes to return for the second Test at Lord’s. Shan Masood also returns after recovering from injury. England, meanwhile, begin a new era with Joe Root as captain following Ben Stokes’ retirement, while Marcus Trescothick takes interim coaching duties.",
@@ -151,15 +169,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-suffer-major-blow-as-captain-babar-azam-ruled-out-of-first-test-against-england/articleshow/133326962.cms",
     "time": "2026-08-18T16:03:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "AISA national president calls for unity against politics of hate and division",
-    "desc": "Neha Bora urges students and youth to unitedly resist policies that prioritised political interests over students’ welfare, and askes them to oppose policies promoting private and corporate educational institutions at the cost of public institutions",
-    "img": "https://th-i.thgim.com/public/incoming/fyfx2u/article71361816.ece/alternates/LANDSCAPE_1200/DSC_5882.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/aisa-national-president-calls-for-unity-against-politics-of-hate-and-division/article71361424.ece",
-    "time": "2026-08-18T16:00:42.000Z"
   },
   {
     "cat": "Business",
@@ -378,24 +387,6 @@ const newsData_en = [
     "time": "2026-08-18T12:48:45.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘PM CARES? Hardly’: Congress jabs govt for utilising only 0.01% of relief fund",
-    "desc": "Domestic donations to the PM CARES Fund fell by 30 per cent to nearly Rs 479 crore in the financial year 2024-25, while foreign donations declined by 18 per cent to Rs 92.8 lakh, according to the fund's latest audit report. The total balance in the PM CARES Fund stood at Rs 8,452 crore as on March 31, 2025, compared with Rs 7,173 crore a year earlier.",
-    "img": "https://static.toiimg.com/photo/msid-133322262,imgsize-114744.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-cares-hardly-congress-jabs-govt-for-utilising-only-0-01-of-relief-fund/articleshow/133322262.cms",
-    "time": "2026-08-18T12:36:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Pak SC directs govt to shift Imran to hospital; blast near Kabul school injures around 50 children, and more",
-    "desc": "Pakistan's Supreme Court ordered the government to move Imran Khan to a hospital for his health. The Supreme Court rejected pleas to replace hanging as the death penalty method. Bihar transferred seventeen senior IPS officers amid controversy over police actions. A hand grenade explosion near a Kabul school injured approximately fifty children. Rishabh Pant became the first Indian to hit one hundred Test sixes.",
-    "img": "https://static.toiimg.com/photo/msid-133321844,imgsize-120708.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-pak-sc-directs-govt-to-shift-imran-to-hospital-blast-near-kabul-school-injures-around-50-children-and-more/articleshow/133321844.cms",
-    "time": "2026-08-18T12:33:38.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Niki Walia reveals she was first approached for Shefali Shah's role in 'Dil Dhadakne Do'",
     "desc": "Actress Niki Walia disclosed that she was originally selected for a role in Dil Dhadakne Do, having completed multiple readings and getting her passport ready for the project. She noted that director Zoya Akhtar arranged for her flight from the UK to participate in casting. Walia admitted that a creative decision resulted in Shefali Shah replacing her, lamenting the chance she missed to embody the character in the film.",
@@ -450,24 +441,6 @@ const newsData_en = [
     "time": "2026-08-18T12:18:49.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Ritabrata Banerjee to remain Bengal LoP till decision on plea within 2 months, says HC",
-    "desc": "The bench of Justices Shampa Sarkar and Ajay Kumar Gupta directed that the challenge to his appointment be decided by a single judge within two months. The case was filed by Sobhandeb Chattopadhyay, a TMC MLA from the Mamata Banerjee camp, who had challenged assembly speaker Rathindra Bose's decision to appoint Ritabrata Banerjee as the leader of opposition.",
-    "img": "https://static.toiimg.com/photo/msid-133322033,imgsize-84976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ritabrata-banerjee-to-remain-bengal-lop-till-decision-on-plea-within-2-months-says-hc/articleshow/133321981.cms",
-    "time": "2026-08-18T12:14:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Gandhi, Nehru, Patel sang the same Vande Mataram’: Kharge hits back at BJP amid row",
-    "desc": "The BJP had criticised the Congress after a video from the party headquarters showed Kharge and Sonia Gandhi speaking while Vande Mataram was being performed during the August 15 Independence Day programme. The BJP accused Congress leadership of disrespecting the national song and sought an apology. The issue remained part of the political discourse in Goa as two stanzas of Vande Mataram were sung in the event attended by Kharge.",
-    "img": "https://static.toiimg.com/photo/msid-133321601,imgsize-82204.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/gandhi-nehru-patel-sang-the-same-vande-mataram-kharge-hits-back-at-bjp-amid-row/articleshow/133321273.cms",
-    "time": "2026-08-18T11:55:51.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Upasana Singh accuses Poonam Dhillon of 'Dictatorship'",
     "desc": "CINTAA's general secretary and former treasurer have raised serious concerns about the leadership's undemocratic conduct. Multiple executive committee members have stepped down, expressing a breakdown of trust in the current regime. Allegations include suppression of member opinions in meetings, issuance of show-cause notices, and media manipulation. The association's elections are set for September 12, amidst escalating tensions among members.",
@@ -475,15 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/cintaa-row-deepens-as-upasana-singh-accuses-poonam-dhillon-and-padmini-kolhapure-of-dictatorship-show-cause-notices-to-those-people-who-dont-say-yes-madam-to-them/articleshow/133321255.cms",
     "time": "2026-08-18T11:48:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Brahmin vote up for grabs in 2027? How Akhilesh is manoeuvring his 'PDA' politics to change UP's caste calculus",
-    "desc": "Akhilesh Yadav is strategically extending his political outreach to Brahmins in preparation for the 2027 elections. He asserts that this community has suffered greatly under the current regime. This initiative seeks to enlarge his political coalition, moving beyond his usual support base. Mayawati rebuts this tactic, labeling it as political trickery. The Brahmin vote is crucial, drawing attention from various political factions.",
-    "img": "https://static.toiimg.com/photo/msid-133321938,imgsize-776364.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/brahmin-vote-up-for-grabs-in-2027-how-akhilesh-yadav-is-expanding-his-pda-to-change-ups-caste-calculus/articleshow/133318675.cms",
-    "time": "2026-08-18T11:44:06.000Z"
   },
   {
     "cat": "Entertainment",
@@ -556,15 +520,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/upi-stays-free-for-users-vast-majority-of-transactions-to-remain-free-for-merchants-as-well-says-government/article71323950.ece",
     "time": "2026-08-18T10:48:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay HITS BACK as Dolly Singh calls him 'biggest RED FLAG'",
-    "desc": "Dolly Singh humorously dubbed Vijay Varma the country's biggest red flag during his award acceptance speech at the Indian Film Festival of Melbourne. Varma's witty comeback added to the laughter, effectively turning the playful jab into a moment of delight. This playful banter captured the attention of social media, inciting a flurry of reactions as fans celebrated Varma's talent for navigating complex cinematic roles.",
-    "img": "https://static.toiimg.com/photo/msid-133319304,imgsize-428874.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/terrible-compliments-vijay-varma-subtly-hits-back-after-dolly-singh-calls-him-nations-biggest-red-flag-on-stage-at-iffm-2026/articleshow/133319108.cms",
-    "time": "2026-08-18T10:34:15.000Z"
   },
   {
     "cat": "Business",
@@ -655,15 +610,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/18-years-of-ruthless-virat-kohli-the-man-who-refused-to-stay-ordinary/articleshow/133314205.cms",
     "time": "2026-08-18T07:11:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ashwin reveals the Manjrekar criticism he initially hated but later called a 'guru'",
-    "desc": "After facing backlash during his first tour to Australia, Ravichandran Ashwin experienced a strong critique from Sanjay Manjrekar that stung him deeply. However, rather than succumbing to negativity, Ashwin leveraged this feedback to enhance his bowling skills and fitness. In a surprising move, he later reached out to Manjrekar to express gratitude for the constructive criticism, a transformative moment that shaped his approach to feedback throughout his esteemed career.",
-    "img": "https://static.toiimg.com/photo/msid-133313836,imgsize-1144177.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-got-really-angry-ashwin-reveals-the-manjrekar-criticism-he-initially-hated-but-later-called-a-guru/articleshow/133313711.cms",
-    "time": "2026-08-18T06:36:20.000Z"
   },
   {
     "cat": "World",
@@ -898,5 +844,59 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/what-is-the-latest-mining-amendment-act-about-explained/article71348935.ece",
     "time": "2026-08-15T13:17:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When a Kerala Facebook collective brought Rajinikanth’s iconic Baashha roaring back in a throwback to analogue cinema",
+    "desc": "The screening was about more than the superstar or the film. It was an attempt to recreate the movie-going experience of pre-digital era and draw attention to a fast disappearing world of film reels, projectors and theatre jobs",
+    "img": "https://th-i.thgim.com/public/news/cities/Kochi/owk6d1/article71344096.ece/alternates/LANDSCAPE_1200/B1.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/when-a-kerala-facebook-collective-brought-rajinikanths-iconic-baashha-roaring-back-in-a-throwback-to-analogue-cinema/article71343975.ece",
+    "time": "2026-08-15T05:16:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Vishwanath and Sons’ movie review: A charming Suriya and Mamitha Baiju carry Venky Atluri’s wholesome entertainer",
+    "desc": "What if Suriya plays a Bruce Wayne-esque character who uses his superpower of wealth to fix his own personal problems? Despite a few conveniences, Venky Atluri’s ‘Vishwanath and Sons’ is a satisfying family entertainer with some progressive ideas and standout performances",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/yajr6/article71345042.ece/alternates/LANDSCAPE_1200/VAS.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/vishwanath-and-sons-movie-review-suriya-mamitha-baiju-venky-atluri-radhika-sarathkumar-wholesome-entertainer/article71344969.ece",
+    "time": "2026-08-14T20:01:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Awarapan 2’ movie review: Emraan Hashmi’s faded sequel doesn’t rise from the riches of its past",
+    "desc": "Even if the action sequences, lighting, and camerawork have improved multifold from 2007, the sequel struggles to hold itself together as it imagines the world of ‘Awarapan’ purely as a generic genre piece, when its soul lies elsewhere",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/fwk2m4/article71344847.ece/alternates/LANDSCAPE_1200/Emraan%20Hashmi%20in%20%E2%80%98Awarapan%202%E2%80%99",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/awarapan-2-movie-review-emraan-hashmis-faded-sequel-doesnt-rise-from-the-riches-of-its-past/article71344732.ece",
+    "time": "2026-08-14T09:35:36.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "What happens when AI begins to design viruses?",
+    "desc": "The Stanford experiment does not show that AI can casually manufacture dangerous human viruses; it shows that computers are beginning to move from analysing biological information towards proposing biological designs that scientists can physically build. This requires appropriate governance and safeguards",
+    "img": "https://th-i.thgim.com/public/incoming/s10mbe/article71340049.ece/alternates/LANDSCAPE_1200/IMG_iStock-1446239060_2_1_NVC38GDD.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/health/what-happens-when-ai-begins-to-design-viruses/article71339862.ece",
+    "time": "2026-08-13T08:56:30.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Inside the Google executive moves that led to its big AI reshuffle",
+    "desc": "The changes mark a further erosion of DeepMind’s autonomy, which Google has chipped away at since buying the London-based lab in 2014 in an ongoing push for its AI to power more ‌of its software and make more money",
+    "img": "https://th-i.thgim.com/public/incoming/pk0cik/article71339424.ece/alternates/LANDSCAPE_1200/2026-08-11T125028Z_1247704185_RC29YJAK2S12_RTRMADP_3_FRANCE-GOOGLE-ANTITRUST-ARTIFICIAL.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/inside-the-google-executive-moves-that-led-to-its-big-ai-reshuffle/article71339422.ece",
+    "time": "2026-08-13T03:45:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL and Pixel 11 Pro Fold launch: What to expect?",
+    "desc": "Under the hood, the Pixel 11 series is believed to operate on Android 17 out of the box while promising 7 years of OS updates and 7 years of security updates. Gemini is expected to dominate the show with some new upgrades",
+    "img": "https://th-i.thgim.com/public/sci-tech/technology/gadgets/qs7hsq/article71331653.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-11%20at%2012.30.56%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/gadgets/google-pixel-11-pixel-11-pro-pixel-11-pro-xl-and-pixel-11-pro-fold-launch-what-to-expect/article71331641.ece",
+    "time": "2026-08-12T15:55:33.000Z"
   }
 ];
