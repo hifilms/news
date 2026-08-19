@@ -1,9 +1,189 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "National Medical Commission proposes single licence for doctors to practise across India",
+    "desc": "Once the State Medical Council grants registration and the Ethics and Medical Registration Board allots the Unique Identification (UID) number, a doctor will not require fresh registration or a separate licence to practise in another State or Union Territory",
+    "img": "https://th-i.thgim.com/public/incoming/qmaeve/article71364756.ece/alternates/LANDSCAPE_1200/iStock-852404126.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/national-medical-commission-proposes-uid-for-doctors/article71364491.ece",
+    "time": "2026-08-19T18:12:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "South Indian movies arriving on OTT and theatre this week",
+    "desc": "This week promises an exciting lineup of new films across various platforms. The romantic comedy Bethlehem Kudumba Unit features the talented duo of Nivin Pauly and Mamitha Baiju, while Ravi Teja showcases a heartfelt father-daughter story in the Telugu drama Irumudi. In the action thriller Khalifa-The Ruler, audiences can look forward to performances by Mohanlal and Prithviraj Sukumaran.",
+    "img": "https://static.toiimg.com/photo/msid-133338783,imgsize-293896.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/thalapathy-vijays-jana-nayagan-to-mohanlal-and-prithiviraj-sukumarans-khalifa-the-ruler-south-indian-movies-arriving-on-ott-and-theatre-this-week/articleshow/133338739.cms",
+    "time": "2026-08-19T18:00:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former wrestler arrested in Delhi opium case; claims drug use in ‘akhadas’",
+    "desc": "In a dramatic turn of events, Delhi Police have arrested Amit Sheoran, a former national-level wrestler, after he spent three years on the run from charges of opium smuggling. Sheoran's claims that fellow wrestlers resort to opium to enhance training efforts have stirred controversy. His identification as a key figure by another arrested supplier highlights the ongoing battle against organised crime in the region.",
+    "img": "https://static.toiimg.com/photo/msid-133355339,imgsize-79236.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/wrestling/former-wrestler-on-run-since-2023-arrested-in-delhi-opium-case-claims-drug-use-in-akhadas/articleshow/133355177.cms",
+    "time": "2026-08-19T17:34:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Karnataka High Court refuses to quash case against married man accused of abetting nursing student’s suicide.",
+    "desc": "The High Court of Karnataka has refused to quash criminal proceedings against a married man accused of abetting a 22-year-old woman’s suicide by repeatedly stalking and threatening her, and sabotaging her marriage prospects by allegedly claiming to prospective grooms that he was in a relationship with her",
+    "img": "https://th-i.thgim.com/public/incoming/cowfcs/article71366509.ece/alternates/LANDSCAPE_1200/SC_ST-CommissioG2MGDB1AC.1.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-refuses-to-quash-case-against-married-man-accused-of-abetting-nursing-students-suicide/article71365635.ece",
+    "time": "2026-08-19T17:33:03.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Israeli strikes hit an air base hours after a Turkish delegation visit, Syrian officials say",
+    "desc": "Two Syrian officials who spoke on condition of anonymity said the Turkish delegation had visited the air base in the northwestern province of Idlib on August 17 to review rehabilitation work underway at the facility",
+    "img": "https://th-i.thgim.com/public/incoming/g405fz/article71366485.ece/alternates/LANDSCAPE_1200/2026-08-18T131400Z_1697512477_RC201NAG04QG_RTRMADP_3_SYRIA-SECURITY-AIRBASE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/israeli-strikes-hit-an-air-base-hours-after-a-turkish-delegation-visit-syrian-officials-say/article71366480.ece",
+    "time": "2026-08-19T17:29:10.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Response to anti-drugs campaign is overwhelming: Keralam Home Minister Ramesh Chennithala",
+    "desc": "As of the 76th day of the Operation Toofan campaign, 10,213 cases have been registered and 9,941 persons have been arrested; drugs worth more than ₹100 crore have been seized; no one will receive protection because of political affiliation, says Ramesh Chennithala",
+    "img": "https://th-i.thgim.com/public/incoming/das87f/article71359618.ece/alternates/LANDSCAPE_1200/80968_11_7_2026_20_2_5_1_7O3A2733.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/response-to-anti-drugs-campaign-is-overwhelming-says-keralam-home-minister/article71365495.ece",
+    "time": "2026-08-19T17:09:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CWC backs two-stanza Vande Mataram, seeks to expand student outreach to 800 cities",
+    "desc": "Rahul seeks report on education reforms from Congress Chief Ministers, says he will stand by students; CWC raises Ram Mandir donation issue, demands that Lok Sabha seats be frozen at 543; Kharge says Modi government has destroyed the future of students, wants ‘education to employment’ roadmap",
+    "img": "https://th-i.thgim.com/public/incoming/z6mma4/article71365859.ece/alternates/LANDSCAPE_1200/20260819361L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/stand-on-vande-mataram-clear-congress-to-only-sing-two-stanza-in-party-says-venugopal/article71365654.ece",
+    "time": "2026-08-19T17:07:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Cannot afford any mistake’: Harmanpreet Singh rues India’s lapses despite Pakistan win",
+    "desc": "In a nail-biting showdown at the Hockey World Cup, India triumphed over Pakistan, much to the delight of fans. Captain Harmanpreet Singh highlighted essential defensive weaknesses that need addressing for the challenges ahead. With praises from the coach regarding the team's attacking strategy and chances created, India now look forward to battle in the next round, where the competition will only intensify.",
+    "img": "https://static.toiimg.com/photo/msid-133354356,imgsize-138351.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/cannot-afford-any-mistake-harmanpreet-singh-rues-indias-lapses-despite-pakistan-win/articleshow/133354197.cms",
+    "time": "2026-08-19T16:55:28.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "China successfully recovers rocket stage on land for first time",
+    "desc": "Elon Musk's SpaceX and Jeff Bezos' Blue Origin have been recovering rockets since 2015, helping drive down launch costs by reusing hardware that would otherwise be discarded after carrying satellites and other payloads toward space",
+    "img": "https://th-i.thgim.com/public/incoming/mc13wt/article71366392.ece/alternates/LANDSCAPE_1200/AP08_19_2026_000367B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/china-successfully-recovers-rocket-stage-on-land-for-first-time/article71366382.ece",
+    "time": "2026-08-19T16:48:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Southern Zonal Council to meet near Mamallapuram on August 20",
+    "desc": "Union Home Minister Amit Shah will chair meet, with Tamil Nadu Chief Minister C. Joseph Vijay as vice chair; Council, which includes all southern States, UTs, is a statutory body whose recommendations are advisory in nature",
+    "img": "https://th-i.thgim.com/public/incoming/t8yrd6/article71365841.ece/alternates/LANDSCAPE_1200/PTI08_12_2026_000317B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/southern-zonal-council-to-meet-near-mamallapuram-on-august-20/article71364759.ece",
+    "time": "2026-08-19T16:44:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ED claims to have seized handwritten notes of Veena relating to fund transfer to Dubai",
+    "desc": "The notes contain the “names of persons, amounts handled, spent” besides the amount transferred to Dubai. The searches conducted on the premises related to Veena and the promoters of CMRL on May 27, 2026, yielded the documents, it says",
+    "img": "https://th-i.thgim.com/public/incoming/xhg0fv/article71366366.ece/alternates/LANDSCAPE_1200/ED-widens-CMRL-GM2G3F20B.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/ed-claims-to-have-seized-handwritten-notes-of-veena-relating-to-fund-transfer-to-dubai/article71366235.ece",
+    "time": "2026-08-19T16:32:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "First in 43 years! Azan Awais matches unwanted Pakistan record in England Test",
+    "desc": "Pakistan's opening batsman, Azan Awais, faced an unfortunate fate as he was dismissed on the very first ball of the Test match by a brilliant lbw delivery from Ollie Robinson. Joining the ranks of elite England bowlers, Robinson's stellar performance continued, leading to him claiming four wickets. Pakistan struggled significantly, reaching just 150/7 by the tea break, after Robinson's dominant spell.",
+    "img": "https://static.toiimg.com/photo/msid-133353580,imgsize-97746.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/first-in-43-years-azan-awais-matches-unwanted-pakistan-record-in-england-test/articleshow/133353502.cms",
+    "time": "2026-08-19T16:24:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "EBG Group to invest ₹45 crore in Ongole wellness centre project",
+    "desc": "Spiritual guru Sri Sri Ravi Shankar lays foundation stone for Carlton Wellness Retreat, Sri Sri Panchakarma and Tattva Centre and Sri Sri Ravishankar Vidya Mandir; the proposed project will bring together hospitality, preventive wellness and education in one place",
+    "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/mopdkt/article71366323.ece/alternates/LANDSCAPE_1200/Sri%20sri%20sri.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ebg-group-to-invest-45-crore-in-ongole-wellness-centre-project/article71365650.ece",
+    "time": "2026-08-19T16:22:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tahsildar in Dindigul district relieved from post after ordering collection of CPI, CPI(M) members’ details",
+    "desc": "M. Ayyasamy, the tahsildar of Guziliamparai in Dindigul district, issued the order on August 18 and directed officials to submit the details by the evening, failing which action would be taken; later, the Dindigul Collector issued an official note stating the Tahsildar’s order was being “immediately withdrawn”",
+    "img": "https://th-i.thgim.com/public/incoming/grq0my/article71364079.ece/alternates/LANDSCAPE_1200/10216_19_8_2026_12_31_1_1_19_08_2026_THASILDAR_AYYASAMY.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/in-tn-tahsildar-suspended-for-ordering-collection-of-details-of-communist-party-members/article71363219.ece",
+    "time": "2026-08-19T16:14:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tamil Nadu government order to prevent student participation in Left, CJP protests sparks controversy, withdrawn",
+    "desc": "The directive was based on a part of the agenda of the Law and Order Meeting chaired by the Chief Secretary, a couple of days after the resignation of Union Education Minister Dharmendra Pradhan following massive protests by students at Jantar Mantar steered by the CJP.",
+    "img": "https://th-i.thgim.com/public/incoming/ioj0qi/article71363855.ece/alternates/LANDSCAPE_1200/BVR_9300_01.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-order-seeking-steps-to-prevent-students-from-protesting-withdrawn-after-row/article71363796.ece",
+    "time": "2026-08-19T16:12:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Amit Shah to chair meeting with CMs, top officials of southern states to resolve inter-state issues",
+    "desc": "In Mahabalipuram, Home Minister Amit Shah will oversee the Southern Zonal Council meeting, where crucial discussions about water sharing and education priorities among states will take place. Following this, he is set to travel to Siliguri to inaugurate new border security projects, and engage with personnel from Sashastra Seema Bal. His visit will wrap up with a comprehensive review meeting on border security.",
+    "img": "https://static.toiimg.com/photo/msid-133352896,imgsize-64302.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/amit-shah-to-chair-meeting-with-cms-top-officials-of-southern-states-to-resolve-inter-state-issues/articleshow/133352896.cms",
+    "time": "2026-08-19T16:06:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Arrest warrant issued against Mahua Moitra for hurting religious sentiments",
+    "desc": "‘The series of disobedience of the order of this court...goes to show the lackadaisical approach of the accused to comply with the court order and accordingly, this court is left with no other option but to issue a warrant of arrest against her,’ the court says",
+    "img": "https://th-i.thgim.com/public/incoming/6wp4nl/article71364904.ece/alternates/LANDSCAPE_1200/15th-PTI-MP-MahG6UGDAPV5.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/arrest-warrant-against-tmc-mp-mahua-moitra-for-not-honouring-court-summons-in-hate-speech-case/article71364895.ece",
+    "time": "2026-08-19T16:05:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Speechless' Garret Tan silences Lakshya Sen and Delhi crowd at BWF World C'ships",
+    "desc": "American teenager Garret Tan stunned Lakshya Sen, the 14th seed and the 2021 World Championships bronze medallist, in a thrilling three-set match at the Delhi World Championships. Overcoming crowd pressure, a head injury and Sen’s aggressive play, Tan triumphed 19-21, 21-19, 21-17, marking the biggest win of his career.",
+    "img": "https://static.toiimg.com/photo/msid-133352866,imgsize-119005.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/speechless-garret-tan-silences-lakshya-sen-and-delhi-crowd-at-bwf-world-championships/articleshow/133352771.cms",
+    "time": "2026-08-19T15:58:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Most people were interested in money’",
+    "desc": "Suresh Oberoi recalls his 2004 BJP stint, when he met LK Advani and Atal Bihari Vajpayee, and explains why he eventually distanced himself from active politics. He calls himself an RSS and Mohan Bhagwat fan, praises Narendra Modi, Amit Shah and Yogi Adityanath, and shares his views on protests, activism and public figures speaking without research.",
+    "img": "https://static.toiimg.com/photo/msid-133352743,imgsize-75211.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/suresh-oberoi-recalls-2004-bjp-stint-says-narendra-modi-amit-shah-yogi-adityanath-are-fine-calls-himself-rss-mohan-bhagwat-fan-but-adds-most-people-were-simply-interested-in-making-money/articleshow/133352661.cms",
+    "time": "2026-08-19T15:46:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajinikanth's‘Jailer 2’ first single ‘Ala Bolelo’ dancer revealed",
+    "desc": "The much-awaited promo for the song 'Ala Bolelo' from Rajinikanth's blockbuster Jailer 2 has just dropped. Featuring the talented Shamna Kassim, this track is quickly captivating fans across the globe. With a star-studded ensemble including Mohanlal, Vijay Sethupathi, and Hrithik Roshan, this sequel promises excitement when it hits theaters worldwide on October 15. Anirudh Ravichander returns to deliver the music for this grand spectacle.",
+    "img": "https://static.toiimg.com/photo/msid-133352319,imgsize-171796.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jailer-2-first-single-promo-out-like-tamannaahs-kaavaalaa-shamna-kassim-to-bring-the-magic-with-ala-bolelo-in-rajinikanth-starrer/articleshow/133352235.cms",
+    "time": "2026-08-19T15:27:48.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "India extend dominance over Pakistan with 5-3 thriller, seal next-round spot",
     "desc": "In a thrilling Pool D showdown, India triumphed over Pakistan with a score of 5-3. With Harmanpreet Singh and Abhishek each netting two goals, India showcased their strength. Pakistan's Hannan Shahid and Sufyan Khan put up a valiant effort by scoring, yet India held their ground during the nail-biting final quarter, securing their advancement to the next stage of the World Cup.",
-    "img": "https://static.toiimg.com/photo/msid-133352134,imgsize-218672.cms",
+    "img": "https://static.toiimg.com/photo/msid-133352371,imgsize-127833.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/hockey-world-cup-india-extend-dominance-over-pakistan-with-5-3-thriller-seal-next-round-spot/articleshow/133352075.cms",
     "time": "2026-08-19T15:14:47.000Z"
@@ -37,57 +217,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Action against SFI leader in Calicut varsity snowballs into controversy",
-    "desc": "While the SFI’s State leadership terms the sacking of M. Abhinand from the varsity hostel as a ‘revengeful act’ by the Vice-Chancellor, the varsity authorities claim that no political or personal reasons were involved in the action taken against him",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/action-against-sfi-leader-in-calicut-varsity-snowballs-into-controversy/article71365390.ece",
-    "time": "2026-08-19T14:47:10.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Government planning to bring E10 back? Clamour grows after top bureaucrat's remark",
     "desc": "E20 is petrol containing 20% ethanol and 80% petrol. The government has promoted higher ethanol blending as a way to reduce crude oil imports, save foreign exchange and improve India's energy security. India also achieved its 20% blending target ahead of the original 2030 deadline. However, the nationwide shift has generated concerns among some vehicle owners, particularly those with older vehicles.",
     "img": "https://static.toiimg.com/photo/msid-133351302,imgsize-79794.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/government-planning-to-bring-e10-back-clamour-grows-after-top-bureaucrats-remark/articleshow/133351117.cms",
     "time": "2026-08-19T14:47:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Mayura Hotel at Bal Bhavan to get ₹2-crore upgrade, Government Museum renovation to be completed within six months",
-    "desc": "Tourism Minister K.J. George instructs officials to prepare a development plan focused on modern infrastructure, ensure quality food, give greater priority to children’s preferred snacks and food items on the hotel menu, and create a convenient environment for visitors",
-    "img": "https://th-i.thgim.com/public/incoming/ctldbj/article71365723.ece/alternates/LANDSCAPE_1200/IMG_Government_Museum_Ba_2_1_C7D6BITK.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-mayura-hotel-at-bal-bhavan-to-get-2-crore-upgrade-government-museum-renovation-to-be-completed-within-six-months/article71365575.ece",
-    "time": "2026-08-19T14:41:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kasaragod Collector proposes Periye as AIIMS site, submits report to Keralam govt.",
-    "desc": "Central requirements include a minimum of 200 acres of land at a suitable location, road connectivity, adequate availability of water and electricity and land and infrastructure facilities. Collector Arjun Pandian says the site meets all requirements. The move is likely to benefit endosulfan exposure victims",
-    "img": "https://th-i.thgim.com/public/incoming/tj3hm/article71365739.ece/alternates/LANDSCAPE_1200/State-revenue-aGHIFKBTTL.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kasaragod-collector-proposes-periye-as-aiims-site-submits-report-to-keralam-govt/article71365344.ece",
-    "time": "2026-08-19T14:35:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Mohamed Riyas after ED searches in CMRL pay-off case",
-    "desc": "Claiming that he had not done anything wrong, the CPI(M) leader said that the details about his wife’s business venture had been mentioned in the affidavit submitted along with the nomination papers for the Keralam Assembly elections",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/not-going-to-get-scared-and-run-away-mohamed-riyas-after-ed-searches-in-cmrl-pay-off-case/article71363848.ece",
-    "time": "2026-08-19T14:35:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NGO demands CBI probe into Coimbatore Scheduled Caste student Amuthan’s murder",
-    "desc": "The murderers, who were drugged, had used rods, logs and other weapons; it had happened in a broad daylight close to the college grounds in Coimbatore district, said A. Kathir executive director of Evidence, an NGO",
-    "img": "https://th-i.thgim.com/public/incoming/y9519j/article71346550.ece/alternates/LANDSCAPE_1200/A.%20Kathir%203.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Madurai/evidence-demands-cbi-probe-into-coimbatore-sc-youth-murder-case/article71346408.ece",
-    "time": "2026-08-19T14:34:53.000Z"
   },
   {
     "cat": "Entertainment",
@@ -432,15 +567,6 @@ const newsData_en = [
     "time": "2026-08-19T09:51:47.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Sunita Ahuja withdraws divorce case against Govinda",
-    "desc": "Sunita Ahuja has withdrawn her divorce case against Govinda, confirmed his manager Shashi Sinha, who expressed disappointment over the public spectacle. Sunita had earlier called Govinda a \"sugar daddy\" over his co-star Komal Rani Swarnkar, alleging an affair, to which Govinda responded, accusing her of interfering in his work and trying to defame him.",
-    "img": "https://static.toiimg.com/photo/msid-133344040,imgsize-242837.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-months-of-speculation-sunita-ahuja-withdraws-divorce-case-against-govinda-manager-reveals/articleshow/133343951.cms",
-    "time": "2026-08-19T09:51:04.000Z"
-  },
-  {
     "cat": "World",
     "title": "Congo’s Ebola outbreak reaches 5,000 cases as it outpaces response efforts at unprecedented speed",
     "desc": "Data from Congo’s Ministry of Health showed the outbreak had so far recorded 5,021 cases, including 2,378 deaths as of Sunday (August 16, 2026), as it rages in some of the most challenging conditions imaginable fuelled by insecurity, displacement and intense population movements",
@@ -448,24 +574,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/congos-ebola-outbreak-reaches-5000-cases-as-it-outpaces-response-efforts-at-unprecedented-speed/article71364105.ece",
     "time": "2026-08-19T09:47:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rio Raj’s ‘Ram In Leela’ is now 'Ram And Leela', film censored U/A",
-    "desc": "In a recent announcement, Rio Raj's romantic comedy has been renamed 'Ram And Leela' prior to its release. Following this change, the film has received a U/A certificate from the censor board. It follows Ram's adventurous journey to find a bride, where he unexpectedly falls for Leela during a train ride. The film is set to hit theaters on August 21, coinciding with other significant launches.",
-    "img": "https://static.toiimg.com/photo/msid-133343675,imgsize-224668.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rio-rajs-ram-in-leela-is-now-ram-and-leela-film-censored-u/a-gets-a-last-minute-title-change-ahead-of-august-21-release/articleshow/133343610.cms",
-    "time": "2026-08-19T09:33:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "UP moving strongly towards $1 trillion economy; state has edge in infrastructure, logistics: CM Yogi Adityanath",
-    "desc": "Uttar Pradesh is moving strongly towards becoming a USD 1 trillion economy, said chief minister Yogi Adityanath, highlighting the state's advantages in infrastructure, logistics, industrial growth and good governance as key drivers of its economic expansion.",
-    "img": "https://static.toiimg.com/photo/msid-133343216,imgsize-203710.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/up-moving-strongly-towards-1-trillion-economy-state-has-edge-in-infrastructure-logistics-cm-yogi-adityanath/articleshow/133343217.cms",
-    "time": "2026-08-19T09:15:37.000Z"
   },
   {
     "cat": "Sports",
@@ -484,15 +592,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/life-and-style/fashion/skims-is-coming-to-india-what-kim-kardashians-shapewear-empire-means-for-indias-booming-market/article71339823.ece",
     "time": "2026-08-19T07:51:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Aishwarya and I started dating in Jaipur': Abhishek reveals wife, daughter and his dad's connection to JPP",
-    "desc": "In a recent interview, Abhishek Bachchan revealed the heartfelt journey behind his kabaddi team, proudly rooted in his personal life. He chose Jaipur for its sentimental value, infusing the team’s identity with his daughter’s beloved color. His active role in shaping the team during its foundational days was key to its progress. The attendance of high-profile celebrities during the team’s debut match significantly elevated the sport's profile.",
-    "img": "https://static.toiimg.com/photo/msid-133340943,imgsize-387496.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aishwarya-and-i-started-dating-in-jaipur-abhishek-bachchan-reveals-his-wife-daughter-aaradhya-and-father-amitabh-bachchans-emotional-connection-for-him-choosing-jaipur-pink-panthers/articleshow/133340706.cms",
-    "time": "2026-08-19T07:24:11.000Z"
   },
   {
     "cat": "Business",
@@ -520,15 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/shiprocket-shares-make-strong-debut-stock-lists-at-35-premium-over-ipo-price-at-rs-131/articleshow/133338554.cms",
     "time": "2026-08-19T06:01:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘When I was at my lowest’: PV Sindhu reveals Kohli’s message during career low",
-    "desc": "PV Sindhu opened up about her strong friendship with Virat Kohli, whom she regards as a brother figure. During a challenging time in her career, Kohli provided her with invaluable guidance, encouraging her to embrace her authentic playing style. This heartfelt exchange transformed Sindhu's outlook on overcoming hurdles, and she remains inspired by Kohli's achievements as they learn from one another.",
-    "img": "https://static.toiimg.com/photo/msid-133338038,imgsize-929508.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/when-i-was-at-my-lowest-pv-sindhu-reveals-virat-kohlis-advice-that-completely-changed-her-perspective/articleshow/133337962.cms",
-    "time": "2026-08-19T05:08:40.000Z"
   },
   {
     "cat": "Sports",
@@ -657,15 +747,6 @@ const newsData_en = [
     "time": "2026-08-18T07:58:16.000Z"
   },
   {
-    "cat": "World",
-    "title": "Student shot classmate to death then killed himself at school in Philippines, mayor says",
-    "desc": "The suspect initially fired at a teacher, but it was not clear if the teacher was hit; he then shot a fellow student, who died, before shooting himself, Zamboanga City Mayor Khymer Adan Olaso said",
-    "img": "https://th-i.thgim.com/public/incoming/eiz6ep/article71358840.ece/alternates/LANDSCAPE_1200/AP08_18_2026_000002A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/philippines-university-high-school-zamboanga-city-shooting-death-august-18-2026/article71358837.ece",
-    "time": "2026-08-18T04:42:01.000Z"
-  },
-  {
     "cat": "Business",
     "title": "U.S. FDA classifies Aurobindo arm’s North Carolina plant VAI",
     "desc": "With the unit classified as Voluntary Action Indicated (VAI), pending applications for multiple inhalers and other dosage forms filed from this facility can now progress through the U.S. FDA’s review process, the parent company said",
@@ -682,15 +763,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/its-a-special-win-and-i-am-really-happy-with-the-way-i-played-today-ayush-shetty/article71357500.ece",
     "time": "2026-08-18T01:49:50.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Trump’s envoy says Hamas disarmament could begin within 30 days",
-    "desc": "The comments came as Jared Kushner and Netanyahu agreed that an American general would verify Hamas’s disarmament, an Israeli official said, as the premier insisted there would be no Israeli pullout from Gaza until then",
-    "img": "https://th-i.thgim.com/public/incoming/yydtvx/article71358085.ece/alternates/LANDSCAPE_1200/Mideast_Wars_Gaza_75268.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trumps-envoy-says-hamas-disarmament-could-begin-within-30-days/article71358083.ece",
-    "time": "2026-08-18T01:34:00.000Z"
   },
   {
     "cat": "Sports",
@@ -736,15 +808,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/hayden-panettiere-heroes-and-nashville-actress-dies-at-36-us-media-reports/article71355003.ece",
     "time": "2026-08-17T07:38:58.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "BMRCL could have earned ₹103.77 crore more from Nagasandra property: CAG",
-    "desc": "The CAG, in its Performance Audit of implementation of Phase 1 and Phase 2 of the Namma Metro rail project, found that BMRCL did not adequately safeguard its financial interests while determining the premium for the property",
-    "img": "https://th-i.thgim.com/public/incoming/zaxz7e/article71354908.ece/alternates/LANDSCAPE_1200/Namma_Metro_136.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/bangalore/bmrcl-could-have-earned-10377-crore-more-from-nagasandra-property-cag/article71346519.ece",
-    "time": "2026-08-17T04:43:03.000Z"
   },
   {
     "cat": "Entertainment",
@@ -835,68 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/gadgets/google-pixel-11-pixel-11-pro-pixel-11-pro-xl-and-pixel-11-pro-fold-launch-what-to-expect/article71331641.ece",
     "time": "2026-08-12T15:55:33.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ChatGPT was down globally, here’s what the company has to say",
-    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
-    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
-    "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
   }
 ];
