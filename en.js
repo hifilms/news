@@ -1,6 +1,24 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Southern Zonal Council to meet near Mamallapuram on August 20",
+    "desc": "Union Home Minister Amit Shah will chair the meeting, with Tamil Nadu Chief Minister C. Joseph Vijay as vice chair; the Council, which includes all southern States and UTs, is a statutory body whose recommendations are advisory in nature",
+    "img": "https://th-i.thgim.com/public/incoming/8702wr/article71366635.ece/alternates/LANDSCAPE_1200/b826eb74-b4f5-416e-83ef-b72f4e376ece.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/southern-zonal-council-to-meet-near-mamallapuram-on-august-20/article71364759.ece",
+    "time": "2026-08-19T19:19:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "FIR registered against seven in Bengaluru",
+    "desc": "The FIR states that on August 18, between 12 noon and 2.30 p.m., one Santosh and six others gathered near the gate in front of the Corporation Commissioner’s office at Byatarayanapura and staged a protest.",
+    "img": "https://th-i.thgim.com/public/incoming/rzr77k/article71366631.ece/alternates/LANDSCAPE_1200/IMG_iStock-1249181745_2_1_209E4IOT.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/protest-over-hotel-licence-rejection-fir-registered-against-seven-in-bengaluru/article71364307.ece",
+    "time": "2026-08-19T19:17:03.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "National Medical Commission proposes single licence for doctors to practise across India",
     "desc": "Once the State Medical Council grants registration and the Ethics and Medical Registration Board allots the Unique Identification (UID) number, a doctor will not require fresh registration or a separate licence to practise in another State or Union Territory",
     "img": "https://th-i.thgim.com/public/incoming/qmaeve/article71364756.ece/alternates/LANDSCAPE_1200/iStock-852404126.jpg",
@@ -54,15 +72,6 @@ const newsData_en = [
     "time": "2026-08-19T17:09:42.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "CWC backs two-stanza Vande Mataram, seeks to expand student outreach to 800 cities",
-    "desc": "Rahul seeks report on education reforms from Congress Chief Ministers, says he will stand by students; CWC raises Ram Mandir donation issue, demands that Lok Sabha seats be frozen at 543; Kharge says Modi government has destroyed the future of students, wants ‘education to employment’ roadmap",
-    "img": "https://th-i.thgim.com/public/incoming/z6mma4/article71365859.ece/alternates/LANDSCAPE_1200/20260819361L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/stand-on-vande-mataram-clear-congress-to-only-sing-two-stanza-in-party-says-venugopal/article71365654.ece",
-    "time": "2026-08-19T17:07:48.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Cannot afford any mistake’: Harmanpreet Singh rues India’s lapses despite Pakistan win",
     "desc": "In a nail-biting showdown at the Hockey World Cup, India triumphed over Pakistan, much to the delight of fans. Captain Harmanpreet Singh highlighted essential defensive weaknesses that need addressing for the challenges ahead. With praises from the coach regarding the team's attacking strategy and chances created, India now look forward to battle in the next round, where the competition will only intensify.",
@@ -81,24 +90,6 @@ const newsData_en = [
     "time": "2026-08-19T16:48:28.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Southern Zonal Council to meet near Mamallapuram on August 20",
-    "desc": "Union Home Minister Amit Shah will chair meet, with Tamil Nadu Chief Minister C. Joseph Vijay as vice chair; Council, which includes all southern States, UTs, is a statutory body whose recommendations are advisory in nature",
-    "img": "https://th-i.thgim.com/public/incoming/t8yrd6/article71365841.ece/alternates/LANDSCAPE_1200/PTI08_12_2026_000317B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/southern-zonal-council-to-meet-near-mamallapuram-on-august-20/article71364759.ece",
-    "time": "2026-08-19T16:44:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ED claims to have seized handwritten notes of Veena relating to fund transfer to Dubai",
-    "desc": "The notes contain the “names of persons, amounts handled, spent” besides the amount transferred to Dubai. The searches conducted on the premises related to Veena and the promoters of CMRL on May 27, 2026, yielded the documents, it says",
-    "img": "https://th-i.thgim.com/public/incoming/xhg0fv/article71366366.ece/alternates/LANDSCAPE_1200/ED-widens-CMRL-GM2G3F20B.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/ed-claims-to-have-seized-handwritten-notes-of-veena-relating-to-fund-transfer-to-dubai/article71366235.ece",
-    "time": "2026-08-19T16:32:48.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "First in 43 years! Azan Awais matches unwanted Pakistan record in England Test",
     "desc": "Pakistan's opening batsman, Azan Awais, faced an unfortunate fate as he was dismissed on the very first ball of the Test match by a brilliant lbw delivery from Ollie Robinson. Joining the ranks of elite England bowlers, Robinson's stellar performance continued, leading to him claiming four wickets. Pakistan struggled significantly, reaching just 150/7 by the tea break, after Robinson's dominant spell.",
@@ -109,48 +100,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "EBG Group to invest ₹45 crore in Ongole wellness centre project",
-    "desc": "Spiritual guru Sri Sri Ravi Shankar lays foundation stone for Carlton Wellness Retreat, Sri Sri Panchakarma and Tattva Centre and Sri Sri Ravishankar Vidya Mandir; the proposed project will bring together hospitality, preventive wellness and education in one place",
-    "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/mopdkt/article71366323.ece/alternates/LANDSCAPE_1200/Sri%20sri%20sri.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ebg-group-to-invest-45-crore-in-ongole-wellness-centre-project/article71365650.ece",
-    "time": "2026-08-19T16:22:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tahsildar in Dindigul district relieved from post after ordering collection of CPI, CPI(M) members’ details",
-    "desc": "M. Ayyasamy, the tahsildar of Guziliamparai in Dindigul district, issued the order on August 18 and directed officials to submit the details by the evening, failing which action would be taken; later, the Dindigul Collector issued an official note stating the Tahsildar’s order was being “immediately withdrawn”",
-    "img": "https://th-i.thgim.com/public/incoming/grq0my/article71364079.ece/alternates/LANDSCAPE_1200/10216_19_8_2026_12_31_1_1_19_08_2026_THASILDAR_AYYASAMY.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/in-tn-tahsildar-suspended-for-ordering-collection-of-details-of-communist-party-members/article71363219.ece",
-    "time": "2026-08-19T16:14:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tamil Nadu government order to prevent student participation in Left, CJP protests sparks controversy, withdrawn",
-    "desc": "The directive was based on a part of the agenda of the Law and Order Meeting chaired by the Chief Secretary, a couple of days after the resignation of Union Education Minister Dharmendra Pradhan following massive protests by students at Jantar Mantar steered by the CJP.",
-    "img": "https://th-i.thgim.com/public/incoming/ioj0qi/article71363855.ece/alternates/LANDSCAPE_1200/BVR_9300_01.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-order-seeking-steps-to-prevent-students-from-protesting-withdrawn-after-row/article71363796.ece",
-    "time": "2026-08-19T16:12:22.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Amit Shah to chair meeting with CMs, top officials of southern states to resolve inter-state issues",
     "desc": "In Mahabalipuram, Home Minister Amit Shah will oversee the Southern Zonal Council meeting, where crucial discussions about water sharing and education priorities among states will take place. Following this, he is set to travel to Siliguri to inaugurate new border security projects, and engage with personnel from Sashastra Seema Bal. His visit will wrap up with a comprehensive review meeting on border security.",
     "img": "https://static.toiimg.com/photo/msid-133352896,imgsize-64302.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/amit-shah-to-chair-meeting-with-cms-top-officials-of-southern-states-to-resolve-inter-state-issues/articleshow/133352896.cms",
     "time": "2026-08-19T16:06:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Arrest warrant issued against Mahua Moitra for hurting religious sentiments",
-    "desc": "‘The series of disobedience of the order of this court...goes to show the lackadaisical approach of the accused to comply with the court order and accordingly, this court is left with no other option but to issue a warrant of arrest against her,’ the court says",
-    "img": "https://th-i.thgim.com/public/incoming/6wp4nl/article71364904.ece/alternates/LANDSCAPE_1200/15th-PTI-MP-MahG6UGDAPV5.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/arrest-warrant-against-tmc-mp-mahua-moitra-for-not-honouring-court-summons-in-hate-speech-case/article71364895.ece",
-    "time": "2026-08-19T16:05:06.000Z"
   },
   {
     "cat": "Sports",
@@ -558,15 +513,6 @@ const newsData_en = [
     "time": "2026-08-19T09:58:26.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Congress may move court if Pune curfew blocks Rahul Gandhi’s ‘Chhatron ki Goonj’ event",
-    "desc": "Congress may approach courts if Pune administration halts Rahul Gandhi's student convention. The party secured college permission for the August 22 event, facing a fortnight's gathering ban. This ban, imposed for protests and festivals, is seen as targeting the Congress program. Previous attempts to block similar conventions occurred in Dehradun, Allahabad, and Kota. The party believes the BJP is attempting to disrupt its youth outreach efforts.",
-    "img": "https://static.toiimg.com/photo/msid-133344005,imgsize-52722.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/congress-may-move-court-if-pune-curfew-blocks-rahul-gandhis-chhatron-ki-goonj-event/articleshow/133343941.cms",
-    "time": "2026-08-19T09:51:47.000Z"
-  },
-  {
     "cat": "World",
     "title": "Congo’s Ebola outbreak reaches 5,000 cases as it outpaces response efforts at unprecedented speed",
     "desc": "Data from Congo’s Ministry of Health showed the outbreak had so far recorded 5,021 cases, including 2,378 deaths as of Sunday (August 16, 2026), as it rages in some of the most challenging conditions imaginable fuelled by insecurity, displacement and intense population movements",
@@ -898,5 +844,59 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/gadgets/google-pixel-11-pixel-11-pro-pixel-11-pro-xl-and-pixel-11-pro-fold-launch-what-to-expect/article71331641.ece",
     "time": "2026-08-12T15:55:33.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
+    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
+    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
+    "time": "2024-03-12T09:45:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
+    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
+    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
+    "time": "2024-03-11T10:20:19.000Z"
   }
 ];
