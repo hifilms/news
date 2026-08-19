@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "PV Sindhu recalls Virat Kohli's advice during difficult phase, says conversation changed her perspective",
+    "desc": "Two-time Olympic medallist PV Sindhu has recalled how a conversation with Virat Kohli helped her deal with one of the toughest phases of her career. During an episode of the RCB podcast, she spoke about...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/pv-sindhu-recalls-virat-kohli-s-advice-during-difficult-phase-says-conversation-changed-her-perspective-2026-08-19-1051795",
+    "time": "2026-08-19T06:08:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rishabh Pant surpasses Shubman Gill to become India's all-time leading run-scorer in WTC history",
+    "desc": "Star India keeper-batter Rishabh Pant played a blistering knock against Sri Lanka in the second innings of the opening Test at Galle. The 28-year-old scored 66 off 69 balls, lifting his WTC aggregate to 2,885...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-surpasses-shubman-gill-to-become-india-s-all-time-leading-run-scorer-in-wtc-history-check-list-2026-08-19-1051789",
+    "time": "2026-08-19T05:17:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bayern Munich's Jamal Musiala collapses twice in three days on pitch, issues statement",
+    "desc": "Jamal Musiala has disclosed that he has been diagnosed with absence seizures after suffering another collapse during Bayern Munich’s 4-2 victory over Heidenheim. The Bayern midfielder went down shortly after entering the game as players...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/bayern-munich-s-jamal-musiala-collapses-twice-in-three-days-on-pitch-issues-statement-2026-08-19-1051787",
+    "time": "2026-08-19T04:54:29.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Lakshya Sen rallies past Filimon after early scare to enter second round at BWF World Championships",
     "desc": "Lakshya Sen had to dig deep before finding his rhythm, but once the Indian star got going, there was little his opponent could do. Sen bounced back from a first-game setback to defeat Austria's Collins...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/tejaswin-shankar-vidit-gujrathi-divya-deshmukh-gopichand-s-daughter-among-arjuna-awardees-full-list-2026-08-18-1051696",
     "time": "2026-08-18T08:18:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "David Warner fined, ordered to use breathalyser after drink-and-drive arrest in April",
-    "desc": "David Warner has been fined Aus $1,500 (Rs 1.01 lakhs) and ordered to use a vehicle breathalyser lock for 12 months after being convicted of drink-driving in Sydney. The former Australia opener was sentenced by...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/david-warner-fined-ordered-to-use-breathalyser-after-drink-and-drive-arrest-in-april-2026-08-18-1051691",
-    "time": "2026-08-18T07:26:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Star Sri Lanka cricketer taken to hospital for scans after freak injury on Day 4 of Galle Test",
-    "desc": "Star Sri Lanka batter Dinesh Chandimal was taken to hospital for a precautionary scan after suffering an injury to his shoulder and neck during Sri Lanka’s first Test against India in Galle. The incident happened...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/star-sri-lanka-cricketer-taken-to-hospital-for-scans-after-freak-injury-on-day-4-of-galle-test-2026-08-18-1051683",
-    "time": "2026-08-18T06:21:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Babar Azam still remains doubtful for opening Test against England; what happened to Pakistan captain?",
-    "desc": "Babar Azam’s availability remains doubtful for Pakistan’s first Test against England, slated to begin on August 19 in Leeds. The star batter is still recovering from a finger injury and the team management is expected...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/babar-azam-still-remains-doubtful-for-opening-test-against-england-what-happened-to-pakistan-captain-2026-08-18-1051677",
-    "time": "2026-08-18T05:46:38.000Z"
   }
 ];

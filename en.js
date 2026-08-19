@@ -1,6 +1,159 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Jharkhand Govt. releases list of 44 recruitment exams cancelled due to irregularities",
+    "desc": "In the official notification, the State government said that a request will be made to the High Court to constitute a fast-track court for the trial of cases registered regarding irregularities and misconduct in JPSC/JSSC",
+    "img": "https://th-i.thgim.com/public/incoming/6woj5q/article71362253.ece/alternates/LANDSCAPE_1200/20260818028L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-government-releases-list-of-recruitment-exams-cancelled-due-to-irregularities/article71362249.ece",
+    "time": "2026-08-19T06:25:58.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Indian refiners forced to buy oil at premium; Russian discounts vanish",
+    "desc": "The surge in available crude following the temporary truce had also increased the discounts offered on Russian and Venezuelan oil. Since then, the discount on Russian crude has largely disappeared, while the price reduction on Venezuelan barrels has narrowed substantially.",
+    "img": "https://static.toiimg.com/photo/msid-133339482,imgsize-845348.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/price-of-middle-east-conflict-indian-refiners-forced-to-buy-oil-at-premium-russian-discounts-vanish/articleshow/133339450.cms",
+    "time": "2026-08-19T06:20:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Stock lists at 35% premium over IPO price at Rs 131",
+    "desc": "Shiprocket's stock debuted with a robust performance, entering the market at a notable premium. The e-commerce logistics platform experienced high interest from investors during its initial public offering, which was nearly 100 times oversubscribed by diverse investor groups. The proceeds from the IPO will be allocated towards enhancing marketing strategies, advancing technology, and addressing debts, as well as exploring potential acquisition opportunities.",
+    "img": "https://static.toiimg.com/photo/msid-133339078,imgsize-46442.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/shiprocket-shares-make-strong-debut-stock-lists-at-35-premium-over-ipo-price-at-rs-131/articleshow/133338554.cms",
+    "time": "2026-08-19T06:01:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Inside Vivek Oberoi’s Mumbai home where Goan farmhouse aesthetics",
+    "desc": "Vivek Oberoi's home in Mumbai is a serene escape, echoing the charm of Goan farmhouses. Adorned with antique furnishings and natural accents, the space embodies his essence. A beloved pet cow, Kamadhenu, enhances the earthy vibe. This intimate refuge starkly contrasts with his public persona, offering a genuine glimpse into his life. The design embraces uniqueness and seamlessly merges indoor and outdoor spaces, giving it a lived-in feel.",
+    "img": "https://static.toiimg.com/photo/msid-133338841,imgsize-424515.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/inside-vivek-oberois-mumbai-home-where-goan-farmhouse-aesthetics-family-heirlooms-and-pet-cow-kamadhenu-create-rustic-retreat/articleshow/133338811.cms",
+    "time": "2026-08-19T05:52:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajshri Deshpande on cancer diagnosis as a ‘wake-up call’: ‘I want to do more’",
+    "desc": "'Sacred Games' actress Rajshri Deshpande has opened up on how her Grade 1 breast cancer diagnosis in March became a wake-up call to prioritise self-love, ease the mental stress of her social work, and pursue her passions, including a course at London's Royal Academy of Dramatic Art.",
+    "img": "https://static.toiimg.com/photo/msid-133338725,imgsize-120426.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajshri-deshpande-opens-up-on-how-breast-cancer-diagnosis-was-a-wake-up-call-im-glad-that-god-and-my-parents-love-gave-me-another-chance-to-live-i-want-to-do-more/articleshow/133338536.cms",
+    "time": "2026-08-19T05:49:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Soha on daughter's online privacy: Actor cuts back on Inaaya posts",
+    "desc": "Soha Ali Khan has changed her approach to sharing daughter Inaaya's photographs online. She now shares fewer images due to evolving privacy concerns and online risks. The digital world has become a scarier place, prompting this reassessment of public sharing. Ali Khan believes parents must consider the long-term implications of posting children's images. She emphasizes the importance of informed consent and future privacy rights for children.",
+    "img": "https://static.toiimg.com/photo/msid-133338543,imgsize-183212.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/soha-ali-khan-calls-the-world-different-and-scarier-place-and-why-she-stopped-sharing-daughter-inaayas-photos-online-even-posting-things-about-you-when-youre-too-young-should-have-informed-consent/articleshow/133338506.cms",
+    "time": "2026-08-19T05:40:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Kate Winslet",
+    "desc": "Academy Award winner Kate Winslet champions self-acceptance and embracing one's unique identity. She emphasizes that true worth comes from within, not external validation or societal pressures. Winslet's early life and career show a journey of overcoming challenges and finding her voice. Her iconic roles, including Titanic, highlight her enduring presence in cinema. The actress consistently promotes authenticity and believing in one's inherent value.",
+    "img": "https://static.toiimg.com/photo/msid-133329468,imgsize-203328.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-kate-winslet-worth-is-about-owning-your-right-to-be-you-feeling-brave-enough-to-believe-that-you-are-worth-it-powerful-life-lesson-by-titanic-star-on-the-importance-of-embracing-your-true-self/articleshow/133329292.cms",
+    "time": "2026-08-19T05:35:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tahsildar in Dindigul suspended for ordering collection of CPI, CPI(M) members’ details",
+    "desc": "M. Ayyasamy, the tahsildar of Guziliamparai in Dindigul district, issued the order on August 18 and directed officials to submit the details by the evening, failing which action would be taken; later, the Dindigul Collector issued an official note stating the Tahsildar’s order was being “immediately withdrawn”",
+    "img": "https://th-i.thgim.com/public/incoming/ikzmva/article71363233.ece/alternates/LANDSCAPE_1200/CPIM%2024th%20party%20congress%20%203.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/in-tn-tahsildar-suspended-for-ordering-collection-of-details-of-communist-party-members/article71363219.ece",
+    "time": "2026-08-19T05:28:51.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "What drives corporate investment?",
+    "desc": "Corporate investment as a share of GDP in India has declined sharply since demonetisation, with the fall persisting despite tax cuts and a low-interest-rate regime; smaller firms face higher interest costs, while larger firms are more constrained by demand; reviving investment requires government expenditure to push profitability up",
+    "img": "https://th-i.thgim.com/public/news/national/eneed6/article71362064.ece/alternates/LANDSCAPE_1200/iStock-1405176819.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Economy/what-drives-corporate-investment/article71360385.ece",
+    "time": "2026-08-19T05:24:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘When I was at my lowest’: PV Sindhu reveals Kohli’s message during career low",
+    "desc": "PV Sindhu opened up about her strong friendship with Virat Kohli, whom she regards as a brother figure. During a challenging time in her career, Kohli provided her with invaluable guidance, encouraging her to embrace her authentic playing style. This heartfelt exchange transformed Sindhu's outlook on overcoming hurdles, and she remains inspired by Kohli's achievements as they learn from one another.",
+    "img": "https://static.toiimg.com/photo/msid-133338038,imgsize-929508.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/when-i-was-at-my-lowest-pv-sindhu-reveals-virat-kohlis-advice-that-completely-changed-her-perspective/articleshow/133337962.cms",
+    "time": "2026-08-19T05:08:40.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'We need to meet': Envoy says PM Modi wants Bangladesh PM Tarique Rahman's visit to be 'memorable'",
+    "desc": "India's High Commissioner emphasized Prime Minister Modi's desire for a memorable visit. He assured Prime Minister Rahman of an appropriate and honorable reception. This engagement aims to benefit people and businesses in both nations. India calls for trust and dialogue to address current bilateral differences. Both countries should build on shared history and aspirations for future prosperity.",
+    "img": "https://static.toiimg.com/photo/msid-133337726,imgsize-606566.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/we-need-to-meet-envoy-says-pm-modi-wants-bangladesh-pm-tarique-rahmans-visit-to-be-memorable/articleshow/133337520.cms",
+    "time": "2026-08-19T05:00:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "THIS Dhurandhar, Awarapan 2 actor came to Mumbai with Rs 5000, sold insurance policies",
+    "desc": "After years of struggling to find his place in acting, Suvinder Vicky's career took off at the remarkable age of 50 with his role in Netflix's 'Kohrra'. Arriving in Mumbai nearly broke, he initially sold insurance to survive. His captivating performance in 'Kohrra' earned him widespread acclaim, paving the way for his exciting new venture, 'Awarapan 2', solidifying his status in Bollywood.",
+    "img": "https://static.toiimg.com/photo/msid-133337734,imgsize-261401.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/emraan-hasmis-awarapan-2-co-star-also-seen-in-dhurandhar-came-to-mumbai-with-rs-5000-his-career-started-at-the-age-of-50-after-one-hit-series-sold-insurance-policies-to-earn-a-living/articleshow/133337681.cms",
+    "time": "2026-08-19T04:51:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India romp past SA to register biggest win in Women's Hockey World Cup",
+    "desc": "Knowing they needed a big win, Sjoerd Marijne’s side came out all guns blazing, looking for goals from the word go. However, it was South Africa who had the first shot on goal within minutes, and for a moment, it seemed things might not be as easy for India.",
+    "img": "https://static.toiimg.com/photo/msid-133337281,imgsize-185452.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/hockey-world-cup/india-romp-past-south-africa-to-register-biggest-win-in-womens-hockey-world-cup-history/articleshow/133336893.cms",
+    "time": "2026-08-19T04:23:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Joe Root on the verge of history, Ricky Ponting’s all-time record in sight",
+    "desc": "Joe Root, the captain of England, is set to take on Pakistan at Headingley beginning Wednesday. He requires seventy-nine runs to eclipse Ricky Ponting's esteemed home Test record and is striving to become England's highest run-scorer at Headingley. With just a stone's throw from twelve thousand international runs accumulated on English grounds, this series signifies an important evolution in English cricket.",
+    "img": "https://static.toiimg.com/photo/msid-133337019,imgsize-69042.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/joe-root-on-the-verge-of-history-ricky-pontings-all-time-record-in-sight/articleshow/133336974.cms",
+    "time": "2026-08-19T04:19:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Bayern’s Musiala diagnosed with neurological disorder after two on-field collapses",
+    "desc": "‘I know these can seem scary at first glance — but for me, ‌they're currently part of my everyday life; I'm receiving the best medical care for this and am very optimistic,’ said Jamal Musiala",
+    "img": "https://th-i.thgim.com/public/incoming/29s5sg/article71363298.ece/alternates/LANDSCAPE_1200/2026-08-15T152258Z_1069298657_UP1EM8F16Q81A_RTRMADP_3_SOCCER-GERMANY-FCB-RBL.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/bayerns-musiala-diagnosed-with-neurological-disorder-after-two-on-field-collapses/article71363281.ece",
+    "time": "2026-08-19T04:12:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Raaka' UPDATE: Will Smith to join Allu Arjun film",
+    "desc": "Hollywood star Will Smith may join Allu Arjun and Atlee's upcoming sci-fi action epic 'Raaka'. Discussions for Smith's role as the primary antagonist have reportedly continued for nearly a year. Shah Rukh Khan could also participate in the international shooting schedule after September. The film 'Raaka' reportedly features two distinct timelines, blending historical and modern elements. Deepika Padukone and Mrunal Thakur are linked to lead roles in the movie.",
+    "img": "https://static.toiimg.com/photo/msid-133336923,imgsize-400856.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/raaka-update-will-smith-to-join-allu-arjun-and-atlees-action-flick-bad-boys-star-may-shoot-overseas-reports/articleshow/133336913.cms",
+    "time": "2026-08-19T04:02:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘We need more than 12,000 firefighters but have only about 2,500’",
+    "desc": "Delhi’s fire risks are growing amid unplanned construction, weak compliance, inadequate manpower and congested roads, Delhi Fire Services Chief Fire Officer A.K. Malik said on Tuesday. In an interaction with The Hindu, he assesses the city’s fire-safety preparedness, gaps in enforcement and infrastructure, changing fire risks and measures to improve response",
+    "img": "https://th-i.thgim.com/public/incoming/wtuwcy/article71361264.ece/alternates/LANDSCAPE_1200/DFS%20CHIEF%20MALIK%20DELHI%202026_18_08_8.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/80-of-delhi-is-unplanned-fire-preparedness-average-chieffireofficer/article71361344.ece",
+    "time": "2026-08-19T03:54:41.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Jharkhand govt releases list of 44 recruitment exams cancelled over irregularities",
     "desc": "The government said the cancellations followed \"complaints regarding irregularities in ongoing examinations conducted by the Jharkhand Public Service Commission (JPSC) and executed through TDPL, and based on facts brought before the government during the CID investigation.\"",
     "img": "https://static.toiimg.com/photo/msid-133336440,imgsize-111674.cms",
@@ -97,15 +250,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/vinayan-questions-sukumaris-death-asks-was-the-news-that-she-died-after-her-clothes-caught-fire-really-true/articleshow/133335271.cms",
     "time": "2026-08-19T02:07:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘We need more than 12,000 firefighters but have only about 2,500’",
-    "desc": "Delhi’s fire risks are growing amid unplanned construction, weak compliance, inadequate manpower and congested roads, Delhi Fire Services Chief Fire Officer A.K. Malik said on Tuesday. In an interaction with The Hindu, he assesses the city’s fire-safety preparedness, gaps in enforcement and infrastructure, changing fire risks and measures to improve response",
-    "img": "https://th-i.thgim.com/public/incoming/wtuwcy/article71361264.ece/alternates/LANDSCAPE_1200/DFS%20CHIEF%20MALIK%20DELHI%202026_18_08_8.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Delhi/80-of-delhi-is-unplanned-fire-preparedness-average-chieffireofficer/article71361344.ece",
-    "time": "2026-08-19T01:43:03.000Z"
   },
   {
     "cat": "Entertainment",
@@ -244,15 +388,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Frank Beard, drummer of iconic rock band ZZ Top, passes away at 77",
-    "desc": "ZZ Top drummer Frank Beard has died at the age of seventy-seven. He was a founding member of the iconic Texas rock band. Beard kept the beat for their biggest hits like \"Sharp Dressed Man.\" The band sold over fifty million records worldwide during their career. He was known for his signature backbeat and innovative drumming style.",
-    "img": "https://static.toiimg.com/photo/msid-133333971,imgsize-448622.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/frank-beard-drummer-of-iconic-rock-band-zz-top-passes-away-at-77/articleshow/133333375.cms",
-    "time": "2026-08-18T22:16:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Hayden found 'unresponsive' by boyfriend's brother",
     "desc": "Hayden Panettiere died over the weekend at her South Carolina apartment. Brian and Zach Hickerson were present at the residence when paramedics arrived. An autopsy revealed no signs of trauma and police saw no foul play. Panettiere had a tumultuous relationship with Brian Hickerson for years. The actor had openly discussed her struggles with addiction and depression.",
     "img": "https://static.toiimg.com/photo/msid-133332599,imgsize-104546.cms",
@@ -277,15 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/jamal-musiala-collapses-again-during-bayern-match-reveals-whats-really-wrong-in-shocking-statement/articleshow/133332109.cms",
     "time": "2026-08-18T21:19:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hayden Panettiere’s mother says family tried to ‘get rid of’ Brian Hickerson",
-    "desc": "Hayden Panettiere’s mother, Lesley Vogel, has spoken out after her daughter’s death, raising concerns about Brian Hickerson, Panettiere’s on-off boyfriend. Vogel said the family had been trying to “get rid of” Hickerson for years and revealed he was with Panettiere when she went into cardiac arrest. Her cause of death remains under investigation.",
-    "img": "https://static.toiimg.com/photo/msid-133332175,imgsize-100282.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/hayden-panettieres-mother-speaks-out-after-daughters-death-says-family-tried-to-get-rid-of-on-off-boyfriend-brian-hickerson-we-had-been-concerned-for-years/articleshow/133332146.cms",
-    "time": "2026-08-18T21:08:36.000Z"
   },
   {
     "cat": "Politics",
@@ -342,15 +468,6 @@ const newsData_en = [
     "time": "2026-08-18T18:53:09.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Biomining to clear ‘legacy waste’ at Njeliyanparamba progressing steadily: Mayor",
-    "desc": "The initiative, which began in March 2026, aims to clear around 2.33 lakh cubic metres of ‘legacy waste’ accumulated across the 12.6-acre dumping site and reclaim the entire land for productive use by July 2027.",
-    "img": "https://th-i.thgim.com/public/incoming/1788hg/article71361253.ece/alternates/LANDSCAPE_1200/11073_18_8_2026_19_15_8_2_19TVKZ7_MAYOR.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/biomining-to-clear-legacy-waste-at-njeliyanparamba-progressing-steadily-mayor/article71360846.ece",
-    "time": "2026-08-18T18:40:50.000Z"
-  },
-  {
     "cat": "World",
     "title": "Media",
     "desc": "The Houthis \"targeted the Aramco refinery in Jazan with several drones, in response to airspace violations over the governorates of Saada and Hajjah\" in Yemen, Houthi news agency Saba said August 18, citing a military source",
@@ -367,33 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/barcelona-officially-sign-rodri-from-man-city-spain-captain-joins-star-studded-squad/articleshow/133328511.cms",
     "time": "2026-08-18T17:24:35.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "What drives corporate investment?",
-    "desc": "Corporate investment as a share of GDP in India has declined sharply since demonetisation, with the fall persisting despite tax cuts and a low-interest-rate regime; smaller firms face higher interest costs, while larger firms are more constrained by demand; reviving investment requires government expenditure to push profitability up",
-    "img": "https://th-i.thgim.com/public/news/national/eneed6/article71362064.ece/alternates/LANDSCAPE_1200/iStock-1405176819.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/what-drives-corporate-investment/article71360385.ece",
-    "time": "2026-08-18T17:22:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Govt announces scheme to incentivise gas companies to expand PNG network",
-    "desc": "The government has unveiled a dynamic incentive scheme designed to enhance piped gas connections across the nation. By offering distribution companies access to more affordable domestic gas for newly activated connections, the initiative seeks to transform over 50 lakh previously unbilled accounts into operational ones. This strategic move is anticipated to expedite the payback period related to capital investments, encouraging a rapid proliferation of piped cooking gas installations in households.",
-    "img": "https://static.toiimg.com/photo/msid-133328128,imgsize-74590.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/govt-announces-scheme-to-incentivise-gas-companies-to-expand-png-network/articleshow/133328128.cms",
-    "time": "2026-08-18T17:14:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shubhra Shetty recalls parents’ reaction to Anurag Kashyap relationship",
-    "desc": "Shubhra Shetty has opened up about her relationship with filmmaker Anurag Kashyap and revealed how her parents reacted to their 20-year age gap. She shared that her mother jokingly calls Anurag a “bakra” and considers him a “henpecked husband.” Shubhra also recalled meeting him while working at Phantom Films and how their romance began.",
-    "img": "https://static.toiimg.com/photo/msid-133328257,imgsize-82441.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shubhra-shetty-recalls-her-parents-reaction-to-her-relationship-with-anurag-kashyap-my-mom-calls-him-a-bakra-she-thinks-he-is-like-a-henpecked-husband/articleshow/133328130.cms",
-    "time": "2026-08-18T17:11:11.000Z"
   },
   {
     "cat": "Sports",
@@ -423,24 +513,6 @@ const newsData_en = [
     "time": "2026-08-18T16:15:51.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "FDA's Mundhe warns SRK, Ajay, Tiger could face Rs 10L fine",
-    "desc": "In a significant enforcement move, the Maharashtra FDA has issued show-cause notices to three Bollywood stars linked to an elaichi advertisement suspected of violating food safety standards. The actors could face hefty fines if their explanations do not satisfy the authorities. This crackdown reflects an intensified effort by the FDA to address illegal gutka and pan masala products throughout the region.",
-    "img": "https://static.toiimg.com/photo/msid-133326720,imgsize-509001.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/fdas-tukaram-mundhe-warns-shah-rukh-khan-ajay-devgn-and-tiger-shroff-could-face-rs-10-lakh-fine-over-elaichi-ad-legal-action-can-be-taken/articleshow/133326670.cms",
-    "time": "2026-08-18T16:08:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan suffer major blow as captain Babar ruled out of 1st Test vs England",
-    "desc": "Pakistan captain Babar Azam misses the first Test against England due to a finger injury, with Salman Agha taking charge. Babar hopes to return for the second Test at Lord’s. Shan Masood also returns after recovering from injury. England, meanwhile, begin a new era with Joe Root as captain following Ben Stokes’ retirement, while Marcus Trescothick takes interim coaching duties.",
-    "img": "https://static.toiimg.com/photo/msid-133327038,imgsize-44090.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-suffer-major-blow-as-captain-babar-azam-ruled-out-of-first-test-against-england/articleshow/133326962.cms",
-    "time": "2026-08-18T16:03:03.000Z"
-  },
-  {
     "cat": "Business",
     "title": "What Trump’s latest safeguard tariff move on quartz surface products means for India",
     "desc": "The US accounted for 72.5% of India’s quartz surface-product exports in FY2026, according to a Global Trade Research Initiative (GTRI) report. India’s move does not amount to a formal WTO dispute at this stage. During the consultations, India could challenge the US assessment of increased imports and injury to domestic producers.",
@@ -450,33 +522,6 @@ const newsData_en = [
     "time": "2026-08-18T15:50:30.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Raj Kundra recalls 63 days in jail, weight loss, Shilpa’s divorce rumours",
-    "desc": "Raj Kundra recalls his difficult 63-day stint in Mumbai’s Arthur Road Jail following his 2021 arrest in the pornography case. He reveals surviving largely on Parle-G biscuits and water, losing 17-18 kg and struggling with Shilpa Shetty’s divorce rumours. Kundra says her reassurance eventually gave him the strength to face the crisis.",
-    "img": "https://static.toiimg.com/photo/msid-133326624,imgsize-49768.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/raj-kundra-recalls-63-days-in-jail-during-pornography-case-survived-on-parle-g-and-lost-17-18-kg-shilpa-shettys-divorce-rumours-made-him-feel-like-ending-my-life/articleshow/133326575.cms",
-    "time": "2026-08-18T15:44:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘He is a goon and a criminal’: Vinesh Phogat’s sharp attack on Brij Bhushan Singh",
-    "desc": "Wrestler Vinesh Phogat labelled Brij Bhushan Sharan Singh a goon and criminal. She accused the BJP of supporting him despite sexual harassment allegations. Phogat questioned Singh's wealth and alleged land encroachment in Gonda. She drew parallels between past police actions and recent protests. The wrestler stated that money is used for atrocities against women.",
-    "img": "https://static.toiimg.com/photo/msid-133326650,imgsize-1024036.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/wrestling/he-is-a-goon-and-a-criminal-vinesh-phogats-sharp-attack-on-brij-bhushan-sharan-singh/articleshow/133326601.cms",
-    "time": "2026-08-18T15:43:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BWF World C'ships: Lakshya Sen advances, Treesa-Gayatri in pre-quarters",
-    "desc": "Lakshya Sen fights back from losing the opening game to beat Austria’s Collins Valentine Filimon 16-21, 21-8, 21-4 and reach the World Championships’ second round. Treesa Jolly and Gayatri Gopichand also advance after defeating 16th seeds Lam/Lee in straight games. Unnati Hooda progresses too, while India’s mixed doubles pairs suffer opening-round exits.",
-    "img": "https://static.toiimg.com/photo/msid-133326634,imgsize-131313.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/badminton/bwf-world-championships-lakshya-sen-stages-stunning-comeback-to-reach-next-round-treesa-jolly-gayatri-gopichand-in-pre-quarters/articleshow/133326454.cms",
-    "time": "2026-08-18T15:43:48.000Z"
-  },
-  {
     "cat": "World",
     "title": "Can India extradite Sheikh Hasina under the 2013 treaty with Bangladesh?",
     "desc": "Under Article 6 of the treaty, extradition may be refused if the offence is of a political character; Article 8 says either country can reject extradition if accusations have not been made in \"good faith\" or \"in the interest of justice\"",
@@ -484,24 +529,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/india-bangladesh-extradition-treaty-sheikh-hasina-extradition/article71359241.ece",
     "time": "2026-08-18T15:32:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rahane’s hilarious Shastri mimicry steals the show during Galle Test",
-    "desc": "Former India captain Ajinkya Rahane entertained viewers during the Galle Test with a hilarious imitation of former head coach Ravi Shastri. Making his Test commentary debut, Rahane showcased his lighter side while recalling his long association with Shastri, including India’s 2020-21 Border-Gavaskar Trophy triumph. His impression added humour to the broadcast and gave fans a glimpse of his personality beyond cricket analysis.",
-    "img": "https://static.toiimg.com/photo/msid-133326358,imgsize-108395.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/ajinkya-rahanes-hilarious-ravi-shastri-mimicry-steals-the-show-during-ind-vs-sl-test-watch/articleshow/133325635.cms",
-    "time": "2026-08-18T15:24:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When Juhi Chawla dropped RARE throwback pic with Sunny Deol",
-    "desc": "On his special day, Juhi Chawla took to social media to share a nostalgic throwback photo, celebrating Sunny Deol's birthday. She fondly remembered their shared warmth and shyness in the film industry, where they've collaborated on several iconic projects. As Sunny Deol's latest film, 'Batwara 1947,' hit theaters last Friday, Juhi, who recently appeared in Netflix's 'Friday Night Plan,' sent her heartfelt wishes to her co-star.",
-    "img": "https://static.toiimg.com/photo/msid-133326300,imgsize-611116.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-juhi-chawla-dropped-rare-throwback-picture-with-batwara-1947-actor-sunny-deol-on-his-65th-birthday-in-2021/articleshow/133326252.cms",
-    "time": "2026-08-18T15:20:48.000Z"
   },
   {
     "cat": "Business",
@@ -549,15 +576,6 @@ const newsData_en = [
     "time": "2026-08-18T13:53:32.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "India on verge of massive win as Sri Lanka four down in chase of 372",
-    "desc": "India are on the brink of victory in the first Test against Sri Lanka, having pulled the hosts down to just 84 runs for four wickets. Rishabh Pant's explosive innings of 66 has paved the way for a challenging target. Sri Lanka now confronts a daunting task on the final day, as India's bowlers tighten their grip with critical wickets already claimed.",
-    "img": "https://static.toiimg.com/photo/msid-133324122,imgsize-170989.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/ind-vs-sl-1st-test-india-on-verge-of-massive-win-as-sri-lanka-four-down-in-chase-of-372/articleshow/133323952.cms",
-    "time": "2026-08-18T13:30:48.000Z"
-  },
-  {
     "cat": "Business",
     "title": "How long can the world &amp; India absorb the US-Iran war oil shock?",
     "desc": "In its August outlook on oil, US Energy Information Administration estimates that it will take until early 2027 for oil production and trade patterns to generally return to pre-conflict status. For how long can the global economy, and India, survive an oil shock that may be snowballing slowly to possibly hit hard?",
@@ -565,15 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/how-long-can-the-world-india-absorb-the-us-iran-war-oil-shock/articleshow/133323569.cms",
     "time": "2026-08-18T13:25:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "After 1,800 km dash, reserves Surya-Pramuthesh endure golden point heartbreak",
-    "desc": "A surprise call-up turned a Karnataka State Championships exit into a World Championships debut for mixed doubles team Ashith Surya and Amrutha Pramuthesh. The Indian reserves flew 1,800 km to Delhi and pushed Turkey’s Emre Sonmez and Uasemen Bektas through a 73-minute thriller, losing despite seven match points. Their defeat featured the first golden point at the Worlds in 11 years.",
-    "img": "https://static.toiimg.com/photo/msid-133322254,imgsize-115223.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/badminton/after-1800-km-dash-reserves-ashith-surya-amrutha-pramuthesh-endure-golden-point-heartbreak/articleshow/133322128.cms",
-    "time": "2026-08-18T12:23:45.000Z"
   },
   {
     "cat": "Business",
@@ -594,24 +603,6 @@ const newsData_en = [
     "time": "2026-08-18T10:48:36.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Why branches will remain shut in Tripura on August 19",
-    "desc": "On August 19, banks across Tripura will be closed in observance of a regional holiday. Other states will also experience bank holidays later this month to honor various festivals. While branch operations will be halted, digital banking services will continue to function normally. Customers should adjust their plans accordingly to account for these closures while still being able to access online and ATM banking throughout the holidays.",
-    "img": "https://static.toiimg.com/photo/msid-133319195,imgsize-109956.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/banks-closed-tomorrow-why-branches-will-remain-shut-in-tripura-on-august-19/articleshow/133318435.cms",
-    "time": "2026-08-18T10:31:41.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Why India is considering sugar imports as prices hit record levels",
-    "desc": "India is considering limited duty-free sugar imports and tighter stock limits. These measures aim to boost domestic supplies and control record high sugar prices. Wholesale sugar prices have climbed nearly twenty percent since early August. Festival season demand typically increases sweetener consumption sharply each year. The government is examining several policy options to manage market conditions.",
-    "img": "https://static.toiimg.com/photo/msid-133318873,imgsize-185888.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/why-india-is-considering-sugar-imports-as-prices-hit-record-levels/articleshow/133318646.cms",
-    "time": "2026-08-18T10:17:46.000Z"
-  },
-  {
     "cat": "World",
     "title": "Trump says it is time to get rid of U.S. Senate's filibuster custom",
     "desc": "The “filibuster” is the Senate rule that requires 60 of the chamber’s 100 members to agree to pass most legislation. Republicans hold a 53-47 majority in the Senate and a 219-213 majority in the House of Representatives.",
@@ -619,15 +610,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/trump-says-it-is-time-to-get-rid-of-us-senates-filibuster-custom/article70224146.ece",
     "time": "2026-08-18T08:19:41.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India eyes first cargo ship along Arctic Route to Russia",
-    "desc": "Located along Russia’s Arctic coastline, Arkhangelsk lies on the Northern Dvina River and serves as a major cargo centre connected to the Northern Sea Route. The NSR stretches about 5,600 km across Russia’s Arctic waters. Much of the route remains covered by thick ice for most of the year.",
-    "img": "https://static.toiimg.com/photo/msid-133316170,imgsize-661462.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/northern-sea-route-in-focus-india-eyes-first-cargo-ship-along-arctic-route-to-russia-why-it-matters/articleshow/133315990.cms",
-    "time": "2026-08-18T08:10:12.000Z"
   },
   {
     "cat": "Entertainment",
@@ -700,15 +682,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/india-set-for-record-soyoil-imports-as-russia-ukraine-war-disrupts-sunflower-shipments/article71357494.ece",
     "time": "2026-08-17T16:10:53.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "report",
-    "desc": "Iranian and Omani officials have been talking for weeks on future maritime navigation arrangements through the shipping route, and the Foreign Ministry in Tehran said earlier August 17, that the two sides were working on a joint declaration",
-    "img": "https://th-i.thgim.com/public/incoming/olulm5/article71356371.ece/alternates/LANDSCAPE_1200/AP08_17_2026_000002A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-threatens-to-bomb-oman-if-it-gets-in-way-of-iran-deal-report/article71356308.ece",
-    "time": "2026-08-17T13:51:29.000Z"
   },
   {
     "cat": "Business",
@@ -819,24 +792,6 @@ const newsData_en = [
     "time": "2026-08-16T04:21:48.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Tesco’s India GCC transforms from a basic dashboard to cockpit in last 20 years",
-    "desc": "Its team in Bengaluru developed several AI algorithms that helped deliver around 670 million personalised offers to approximately 14-15 million customers of the British retail chain. The GCC processes payroll worth around £5.5-6 billion annually from India for the retailer’s 340,000 employees worldwide. The team connects store, customer, supply-chain, market and competition data and translates it into decisions aimed at driving growth and profitability",
-    "img": "https://th-i.thgim.com/public/business/phq5vq/article71350260.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-15%20at%206.32.55%20PM_edited.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/tescos-india-gcc-transforms-from-a-basic-dashboard-to-cockpit-in-last-20-years/article71322186.ece",
-    "time": "2026-08-15T15:13:36.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Xiaomi bets on premium phones, connected homes as India’s smartphone market flattens",
-    "desc": "The Indian smartphone industry has slightly de-grown in the first half of calendar 2026. For the second half of 2026, Xiaomi expects the market to remain broadly flat or potentially decline. Also, rising memory and storage costs still remain a pressure point for handset makers",
-    "img": "https://th-i.thgim.com/public/business/65gvdt/article71350224.ece/alternates/LANDSCAPE_1200/Sandeep%20Sarma%20Associate%20Director%20Marketing%20%20PR.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/xiaomi-bets-on-premium-phones-connected-homes-as-indias-smartphone-market-flattens/article71349737.ece",
-    "time": "2026-08-15T15:04:38.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "When a Kerala Facebook collective brought Rajinikanth’s iconic Baashha roaring back in a throwback to analogue cinema",
     "desc": "The screening was about more than the superstar or the film. It was an attempt to recreate the movie-going experience of pre-digital era and draw attention to a fast disappearing world of film reels, projectors and theatre jobs",
@@ -892,11 +847,56 @@ const newsData_en = [
   },
   {
     "cat": "Tech",
-    "title": "Meta will soon face another high-stakes trial in U.S.",
-    "desc": "The federal trial, one of the most consequential among a myriad of legal proceedings targeting social networks in the United States, will begin on August 12, 2026 with jury selection at a federal court in Oakland",
-    "img": "https://th-i.thgim.com/public/incoming/36h44q/article71316172.ece/alternates/LANDSCAPE_1200/Meta_New_Mexico_6716_.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/meta-will-soon-face-another-high-stakes-trial-in-us/article71326861.ece",
-    "time": "2026-08-10T04:31:54.000Z"
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
+    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
+    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
+    "time": "2024-03-12T09:45:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
+    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
+    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
+    "time": "2024-03-11T10:20:19.000Z"
   }
 ];
