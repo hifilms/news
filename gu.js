@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "બદલવા જઈ રહ્યો છે બેંકિંગ સાથે જોડાયેલો 135 વર્ષ જૂનો કાયદો, હવે કોર્ટમાં માન્ય રહેશે ડિજિટલ રેકોર્ડ",
+    "desc": "ડિજિટલ બેંકિંગ રેકોર્ડનો ઉપયોગ હવે કોર્ટમાં પુરાવા તરીકે થઈ શકે છે. બેંકર્સ બુક્સ એવિડન્સ બિલ, 2026ને રાજ્યસભાએ મંજૂર કર્યું છે અને લોકસભા દ્વારા પણ તેને પસાર કરવામાં આવ્યું છે. નવો કાયદો 1891ના જૂના માળખાને બદલે છે અને ઇલેક્ટ્રોનિક, સર્વર, વર્ચ્યુઅલ અને ક્લાઉડ રેકોર્ડને કાનૂની અધિકારક્ષેત્ર હેઠળ લાવે છે. એકાઉન્ટ સ્ટેટમેન્ટ અને ટ્રાન્ઝેક્શન હિસ્ટી જેવા રેકોર્ડ હવે ચોક્કસ શરતો હેઠળ કોર્ટમાં રજૂ કરી શકાય છે. આ ડિજિટલ બેંકિંગના કાનૂની ઉપયોગ માટે માર્ગ સરળ કરે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/135-year-old-law-related-to-banking-is-going-to-be-changed-now-digital-records-will-be-admissible-in-court-488135 ",
+    "time": "2026-08-19T03:26:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કોલકાતાની હોટલ શિખામાં ભીષણ આગ, 8થી વધારે લોકોના મોતના સમાચાર, જાણો",
+    "desc": "કોલકાતામાં હોટલ શિખામાં આજે એટલે કે 19 ઓગસ્ટે વહેલી સવારે ભીષણ આગ લાગી, જેમાં ઓછામાં ઓછા 8થી વધારે લોકોના મોત થયા હોવાના અહેવાલ છે. આ ઘટના શહેરના હોટલ શિખામાં બની હતી. બિલ્ડિંગમાં ફસાયેલા લોકોને બચાવવાના પ્રયાસો ચાલી રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/massive-fire-breaks-out-in-hotel-shikha-in-kolkata-more-than-8-people-dead-know-the-news-488125 ",
+    "time": "2026-08-19T02:56:46.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "આ રાજ્ય સરકારે મહિલાઓને આપી મોટી ભેટ, હવે ત્રીજા બાળકના જન્મ પર પણ આખું વર્ષ મળશે મેટરનિટી લીવ",
     "desc": "આ બદલાવ માર્ચ 2026માં જાહેર કરવામાં આવેલા સરકારી આદેશ દ્વારા કરવામાં આવ્યો હતો, જે હેઠળ અગાઉ બે બાળકો સુધી 365 દિવસની મેટરનિટી લીવ મળતી હતી, જ્યારે ત્રીજા સંતાનના જન્મ પર 12 અઠવાડિયાની રજા નક્કી કરવામાં આવી હતી.",
@@ -331,15 +349,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/worlds-shortest-doctor-in-kbc-3-feet-tall-rejected-circus-offer-to-get-mbbs-amitabh-bachchan-was-shocked-487864 ",
     "time": "2026-08-16T05:31:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "5 દિવસ ભારે વરસાદની ચેતવણી, આજે ગુજરાત સહિત 16 રાજ્યો માટે એલર્ટ, જાણો આ અઠવાડિયે કેવું રહેશે હવામાન?",
-    "desc": "દેશના 16 રાજ્યોમાં આજે ગાજવીજ અને તોફાની પવનો સાથે વરસાદ પડી શકે છે. તો બીજી તરફ હવામાન વિભાગે આગામી 5 દિવસ માટે હવામાનનું અપડેટ આપ્યું છે. દિલ્હી સહિત ઘણા રાજ્યોમાં હવામાન આજે બદલાઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/warning-of-heavy-rain-for-5-days-alert-issued-for-16-states-today-find-out-what-the-weather-will-be-like-this-week-487863 ",
-    "time": "2026-08-16T05:09:56.000Z"
   },
   {
     "cat": "World",
