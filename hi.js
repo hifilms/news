@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India roar past Pakistan 5-3 in Hockey World Cup 2026, book top-8 spot in thrilling clash",
+    "desc": "The Indian men's hockey team delivered when it mattered most, defeating arch-rivals Pakistan 5-3 in a high-voltage Pool D clash at the Hockey World Cup 2026 in Amstelveen. After suffering a setback against England in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/hockey/india-roar-past-pakistan-5-3-in-hockey-world-cup-2026-book-top-8-spot-in-thrilling-clash-2026-08-19-1051868",
+    "time": "2026-08-19T14:59:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lakshya Sen suffers shocking defeat to 18-year-old, knocked out of BWF World Championship",
+    "desc": "Lakshya Sen's BWF World Championships campaign ended in the men's singles Round of 32 after Garrett Tan produced a late surge to defeat the Indian shuttler in New Delhi. The contest went to a deciding...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/lakshya-sen-suffers-shocking-defeat-to-18-year-old-knocked-out-of-bwf-world-championship-2026-08-19-1051853",
+    "time": "2026-08-19T12:53:34.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Ollie Robinson makes English cricket history, also matches Kapil Dev's 43-year-old feat",
     "desc": "Ollie Robinson made an immediate impact on the opening day of the first Test against Pakistan at Headingley. He struck on the first delivery itself, sending Azan Awais packing and, with that, set a new...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/yashasvi-jaiswal-s-hit-him-a-six-i-ll-take-you-to-ipl-leads-to-niroshan-dickwella-s-dismissal-at-galle-2026-08-19-1051804",
     "time": "2026-08-19T07:16:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Where to watch England vs Pakistan 1st Test live on TV and stream online in India?",
-    "desc": "England host Pakistan for the first of the three-match series, starting August 19 in Leeds. The match is England's first since Ben Stokes announced his international retirement and Brendon McCullum left his position as head...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/where-to-watch-england-vs-pakistan-1st-test-live-on-tv-and-stream-online-in-india-2026-08-19-1051800",
-    "time": "2026-08-19T06:48:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PV Sindhu recalls Virat Kohli's advice during difficult phase, says conversation changed her perspective",
-    "desc": "Two-time Olympic medallist PV Sindhu has recalled how a conversation with Virat Kohli helped her deal with one of the toughest phases of her career. During an episode of the RCB podcast, she spoke about...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/pv-sindhu-recalls-virat-kohli-s-advice-during-difficult-phase-says-conversation-changed-her-perspective-2026-08-19-1051795",
-    "time": "2026-08-19T06:08:00.000Z"
   }
 ];
