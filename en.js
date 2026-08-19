@@ -1,6 +1,114 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "12.5 percent growth on Day 5 over Monday: Sunny Deol's 'Batwara 1947' crosses Rs 30 crore",
+    "desc": "Batwara 1947's box office journey shows a sharp downward turn. The film collected approximately thirty crore rupees after five days. Weekday performances have been particularly underwhelming for the period drama. The movie has recovered only twenty-four point five percent of its budget. This leaves the film with a considerable distance to cover profitability.",
+    "img": "https://static.toiimg.com/photo/msid-133334710,imgsize-286750.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/12-5-percent-growth-on-day-5-over-monday-sunny-deols-batwara-1947-crosses-rs-30-crore-in-5-days-recovers-only-24-percent-of-its-budget-awarapan-2-races-ahead-with-rs-100-crore-mark/articleshow/133334685.cms",
+    "time": "2026-08-19T00:34:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'DC' BO day 12: Lokesh Kanagaraj starrer earns Rs 1.81 Cr",
+    "desc": "The movie 'DC' earned Rs 1.81 crore on its twelfth day. Its India net collection has now surpassed fifty-eight crore rupees. The Tamil version contributed a larger share of the domestic earnings. Overseas gross collections have reached twenty-one point five zero crore rupees. This brings the film's worldwide gross to eighty-eight point nine three crore rupees.",
+    "img": "https://static.toiimg.com/photo/msid-133334691,imgsize-328473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/dc-box-office-collections-day-12-lokesh-kanagaraj-starrer-earns-rs-1-81-cr-film-records-9-5-drop/articleshow/133334684.cms",
+    "time": "2026-08-19T00:27:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Vishwanath and Sons' BO day 5 vs 'Jana Nayagan'",
+    "desc": "On its fifth day, Vishwanath and Sons garnered a net total of Rs 6.35 crore, although this marked an 18.6 percent decline in daily earnings from Monday's figures. The film also benefited from international screenings, contributing an additional Rs 2.00 crore to its gross. Overall, the film's worldwide gross has now reached an impressive Rs 128.60 crore, while Jana Nayagan maintains its robust performance with total earnings of Rs 323.",
+    "img": "https://static.toiimg.com/photo/msid-133334644,imgsize-318566.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vishwanath-and-sons-box-office-collections-day-5-vs-jana-nayagan-suriya-starrer-earns-rs-6-35-cr-18-6-drop-in-daily-collection/articleshow/133334637.cms",
+    "time": "2026-08-19T00:08:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Awarapan 2' box office collection day 5: Emraan delivers the first Rs 100 crore solo lead film",
+    "desc": "Emraan Hashmi's sequel 'Awarapan 2' has successfully hit the Rs 100 crore milestone in India, achieving this impressive feat just five days post-release. After a strong opening day with Rs 22 crore, the film experienced substantial growth over the weekend. With a net collection of Rs 100.75 crore in India and a total of Rs 144.13 crore globally, the film's success is noteworthy considering its budget of Rs 45 crore.",
+    "img": "https://static.toiimg.com/photo/msid-133334640,imgsize-279641.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/awarapan-2-box-office-collection-day-5-emraan-hashmi-delivers-the-first-rs-100-crore-solo-lead-film-of-his-career-earns-122-percent-return-on-investment/articleshow/133334546.cms",
+    "time": "2026-08-19T00:07:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What is Jamal Musiala suffering from? ‘Absence seizures’ explained",
+    "desc": "Jamal Musiala has revealed he has been diagnosed with brief absence seizures, caused by temporary abnormal brain activity. The episodes led to collapses during two Bayern Munich friendlies but are treatable and being managed by specialists. Musiala says he feels well, has medical clearance to continue football, remains optimistic and asks for privacy regarding further details.",
+    "img": "https://static.toiimg.com/photo/msid-133334516,imgsize-107332.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/jamal-musialas-absence-seizures-explained-what-causes-them-what-happens-during-episodes-and-how-dangerous-they-are/articleshow/133334436.cms",
+    "time": "2026-08-18T23:44:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tom Holland to earn USD 100 MILLION for 'Spider-Man: Brand New Day'",
+    "desc": "Tom Holland is reportedly earning a massive USD 100 million for his role. This staggering sum includes a base salary of USD 20 million and backend bonuses. His earnings have significantly increased since his debut as Spider-Man in 2016. The actor's compensation grew from USD 250,000 to USD 10 million for previous films. This substantial pay rise positions Holland among Hollywood's highest-paid young stars.",
+    "img": "https://static.toiimg.com/photo/msid-133334487,imgsize-357178.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-holland-set-to-earn-usd-100-million-for-spider-man-brand-new-day-after-usd-2-billion-box-office-haul/articleshow/133334483.cms",
+    "time": "2026-08-18T23:21:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NTA removes 600 experts, brings 4-tier paper checks",
+    "desc": "The National Testing Agency is undergoing a significant overhaul by replacing existing experts with specialized newcomers. To ensure quality, a rigorous four-tier reviewing system will be introduced to meticulously evaluate every examination paper. This reform comes on the heels of notable mistakes discovered in recent assessments. Additionally, the agency is welcoming fresh personnel and relocating its offices while implementing enhanced security measures and a thorough audit process.",
+    "img": "https://static.toiimg.com/photo/msid-133334418,imgsize-87822.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/nta-removes-600-experts-brings-4-tier-paper-checks/articleshow/133334410.cms",
+    "time": "2026-08-18T22:53:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Captain of ship attacked in Hormuz dead or alive? SC seeks report from government",
+    "desc": "The Supreme Court has instructed the Union government to look into the baffling case of Capt Ashish Kumar's disappearance. His wife presented a petition with ransom calls and WhatsApp messages hinting at his possible survival. After DNA tests disproved his presumed death following a ship attack, the court is now requesting a status report on the efforts to locate him from the Solicitor General by Monday.",
+    "img": "https://static.toiimg.com/photo/msid-133334379,imgsize-1305369.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/captain-of-ship-attacked-in-hormuz-dead-or-alive-sc-seeks-report-from-government/articleshow/133334360.cms",
+    "time": "2026-08-18T22:30:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Frank Beard, drummer of iconic rock band ZZ Top, passes away at 77",
+    "desc": "ZZ Top drummer Frank Beard has died at the age of seventy-seven. He was a founding member of the iconic Texas rock band. Beard kept the beat for their biggest hits like \"Sharp Dressed Man.\" The band sold over fifty million records worldwide during their career. He was known for his signature backbeat and innovative drumming style.",
+    "img": "https://static.toiimg.com/photo/msid-133333971,imgsize-448622.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/frank-beard-drummer-of-iconic-rock-band-zz-top-passes-away-at-77/articleshow/133333375.cms",
+    "time": "2026-08-18T22:16:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hayden found 'unresponsive' by boyfriend's brother",
+    "desc": "Hayden Panettiere died over the weekend at her South Carolina apartment. Brian and Zach Hickerson were present at the residence when paramedics arrived. An autopsy revealed no signs of trauma and police saw no foul play. Panettiere had a tumultuous relationship with Brian Hickerson for years. The actor had openly discussed her struggles with addiction and depression.",
+    "img": "https://static.toiimg.com/photo/msid-133332599,imgsize-104546.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/hayden-panettiere-death-case-boyfriend-was-at-apartment-when-his-brother-found-actress-unresponsive/articleshow/133332185.cms",
+    "time": "2026-08-18T22:06:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Trump's voter ID praise follows Gyanesh Kumar",
+    "desc": "Recently, US President Donald Trump commended India’s voter ID system after a meeting between Indian election official Gyanesh Kumar and US Ambassador Sergio Gor. Kumar detailed the extensive issuance of photo identity cards and impressive voter turnout in India. He emphasized that the rigorous examination of elections by political parties contributes to high public trust in the electoral process.",
+    "img": "https://static.toiimg.com/photo/msid-133332201,imgsize-70908.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/trumps-voter-id-praise-follows-gyanesh-kumar-sergio-gor-meet/articleshow/133332198.cms",
+    "time": "2026-08-18T21:26:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jamal Musiala collapses again during Bayern match, reveals shocking health diagnosis",
+    "desc": "Jamal Musiala has revealed he has been diagnosed with brief, temporary absence seizures caused by a neurological dysfunction. After two recent collapses, against Leipzig and Heidenheim, he says he is receiving specialist treatment, feels optimistic, and faces no additional health risk. With medical clearance, Musiala intends to continue playing football and pursuing his career.",
+    "img": "https://static.toiimg.com/photo/msid-133332180,imgsize-85238.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/jamal-musiala-collapses-again-during-bayern-match-reveals-whats-really-wrong-in-shocking-statement/articleshow/133332109.cms",
+    "time": "2026-08-18T21:19:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Hayden Panettiere’s mother says family tried to ‘get rid of’ Brian Hickerson",
     "desc": "Hayden Panettiere’s mother, Lesley Vogel, has spoken out after her daughter’s death, raising concerns about Brian Hickerson, Panettiere’s on-off boyfriend. Vogel said the family had been trying to “get rid of” Hickerson for years and revealed he was with Panettiere when she went into cardiac arrest. Her cause of death remains under investigation.",
     "img": "https://static.toiimg.com/photo/msid-133332175,imgsize-100282.cms",
@@ -180,15 +288,6 @@ const newsData_en = [
     "time": "2026-08-18T15:50:30.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Goa govt moves SC seeking enhanced punishment for ex-Tehelka editor Tarun Tejpal in rape case",
-    "desc": "The Bombay high court (Goa) had recently convicted and sentenced Tejpal to ten years of rigorous imprisonment in the rape case. Tejpal was convicted under Sections 376 (2)(f) (person who is a guardian or in a position of trust or authority rapes a woman), 354-A (sexual harassment) and 354-B (using criminal force on a woman with an intent to disrobe her) of the IPC.",
-    "img": "https://static.toiimg.com/photo/msid-133326421,imgsize-779467.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/goa-govt-moves-sc-seeking-enhanced-punishment-for-ex-tehelka-editor-tarun-tejpal-in-rape-case/articleshow/133326351.cms",
-    "time": "2026-08-18T15:45:16.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Raj Kundra recalls 63 days in jail, weight loss, Shilpa’s divorce rumours",
     "desc": "Raj Kundra recalls his difficult 63-day stint in Mumbai’s Arthur Road Jail following his 2021 arrest in the pornography case. He reveals surviving largely on Parle-G biscuits and water, losing 17-18 kg and struggling with Shilpa Shetty’s divorce rumours. Kundra says her reassurance eventually gave him the strength to face the crisis.",
@@ -214,15 +313,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/bwf-world-championships-lakshya-sen-stages-stunning-comeback-to-reach-next-round-treesa-jolly-gayatri-gopichand-in-pre-quarters/articleshow/133326454.cms",
     "time": "2026-08-18T15:43:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "AAP leader Satyendar Jain arrested in Delhi Jal Board corruption case",
-    "desc": "The case includes charges under provisions relating to bribery, criminal breach of trust, cheating and criminal conspiracy. The case was registered on the complaint of Directorate of Vigilance, GNCTD regarding large-scale irregularities, manipulation of tender conditions and criminal conspiracy in the tendering process relating to augmentation/upgradation of Sewage Treatment Plants (STPs) of the Delhi Jal Board (DJB).",
-    "img": "https://static.toiimg.com/photo/msid-133326455,imgsize-34196.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/aap-leader-satyendar-jain-arrested-in-delhi-jal-board-corruption-case/articleshow/133326426.cms",
-    "time": "2026-08-18T15:39:03.000Z"
   },
   {
     "cat": "World",
@@ -286,15 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mukesh-khanna-backs-fda-notice-to-shah-rukh-khan-ajay-devgn-and-tiger-shroff-over-indirect-promotion-of-pan-masala-they-should-apologise/articleshow/133326097.cms",
     "time": "2026-08-18T15:11:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Vijay government to give women employees 365 days maternity leave for third child",
-    "desc": "Announcing the change in the state assembly during the demand for grants for his department, minister D Sarathkumar said the decision was aimed at strengthening the state's focus on social welfare and women's empowerment. The state had gradually increased maternity leave for its women employees over the years. The original 90-day provision was increased to six months in 2011, followed by an increase to nine months in 2016.",
-    "img": "https://static.toiimg.com/photo/msid-133325325,imgsize-121141.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/vijay-government-to-give-women-employees-365-days-maternity-leave-for-third-child/articleshow/133324932.cms",
-    "time": "2026-08-18T14:29:12.000Z"
   },
   {
     "cat": "Sports",
@@ -397,15 +478,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Quote of the day by Amanda Seyfried",
-    "desc": "Amanda Seyfried shared wisdom on ignoring hateful words from insecure people. She explained that cruel behavior often stems from personal dissatisfaction and fear. Seyfried's own career demonstrates perseverance despite public scrutiny and pressure. She now focuses on her personal life and farm away from Hollywood. The actress began her career young and has an extensive filmography.",
-    "img": "https://static.toiimg.com/photo/msid-133322142,imgsize-52230.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-amanda-seyfried-you-dont-have-to-listen-to-those-mean-girlsyou-know-inside-they-feel-bad-about-themselves-too-but-they-dont-want-to-admit-it-to-anybody-the-mamma-mia-stars-words-about-dealing-with-harsh-comments-and-hate/articleshow/133322041.cms",
-    "time": "2026-08-18T12:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Annu Kapoor on Priyanka Chopra’s refusal to KISS in '7 Khoon Maaf': 'Used to call her as beti'",
     "desc": "During a recent discussion, Annu Kapoor shared his thoughts on the Priyanka Chopra Jonas controversy surrounding an intimate scene in '7 Khoon Maaf.' He clarified that his earlier comments had been exaggerated, perhaps for the sake of publicity. Kapoor emphasized his paternal regard for Priyanka, expressing discomfort with the scene to director Vishal Bhardwaj, who ultimately agreed to modify the film.",
     "img": "https://static.toiimg.com/photo/msid-133322278,imgsize-193335.cms",
@@ -441,33 +513,6 @@ const newsData_en = [
     "time": "2026-08-18T12:18:49.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Upasana Singh accuses Poonam Dhillon of 'Dictatorship'",
-    "desc": "CINTAA's general secretary and former treasurer have raised serious concerns about the leadership's undemocratic conduct. Multiple executive committee members have stepped down, expressing a breakdown of trust in the current regime. Allegations include suppression of member opinions in meetings, issuance of show-cause notices, and media manipulation. The association's elections are set for September 12, amidst escalating tensions among members.",
-    "img": "https://static.toiimg.com/photo/msid-133321390,imgsize-571077.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/cintaa-row-deepens-as-upasana-singh-accuses-poonam-dhillon-and-padmini-kolhapure-of-dictatorship-show-cause-notices-to-those-people-who-dont-say-yes-madam-to-them/articleshow/133321255.cms",
-    "time": "2026-08-18T11:48:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Govinda defends his long-standing late coming reputation",
-    "desc": "Govinda candidly reflected on the challenges of his rigorous shooting schedules, emphasizing the struggle to maintain punctuality amidst demanding multiple shifts. Filmmakers, eager for his participation, would often rearrange their schedules. He pointed out that co-stars received compensation for their waiting times on set. Govinda also fondly reminisced about his extensive collaborations with notable actors Kader Khan and Shakti Kapoor.",
-    "img": "https://static.toiimg.com/photo/msid-133321189,imgsize-241500.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govinda-defends-his-long-standing-late-coming-reputation-kiske-andar-itni-taaqat-hai-ki-4-5-shifts-kare-aur-time-pe-aaye/articleshow/133321128.cms",
-    "time": "2026-08-18T11:41:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Saif and Kiara to star in Kanika Dhillon's directorial debut",
-    "desc": "Saif Ali Khan and Kiara Advani will star in writer Kanika Dhillon's directorial debut, a supernatural thriller produced by Excel Entertainment. The script is being finalised, with shooting expected later this year. Kanika, known for Haseen Dillruba and Manmarziyaan, also produces under Kathha Pictures, which backed Do Patti.",
-    "img": "https://static.toiimg.com/photo/msid-133320886,imgsize-236639.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saif-ali-khan-and-kiara-advani-to-star-in-kanika-dhillons-directorial-debut-reports/articleshow/133320837.cms",
-    "time": "2026-08-18T11:32:24.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India's chip story enters next phase: 5-6 semiconductor projects may go commercial by end of 2026",
     "desc": "By late 2026, India is poised to launch five to six semiconductor projects into commercial production. The second phase of the India Semiconductor Mission aims to expand its reach significantly, focusing on chip design, manufacturing, and advanced research. Moreover, the government emphasizes building a skilled workforce in semiconductor manufacturing. Semicon India 2026 is set to bring together global industry leaders to promote partnerships and investments.",
@@ -475,33 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/indias-chip-story-enters-next-phase-5-6-semiconductor-projects-may-go-commercial-by-end-of-2026/articleshow/133320153.cms",
     "time": "2026-08-18T11:24:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Justin Chatwin talks about Hayden Panettiere",
-    "desc": "In a heartfelt recollection, actor Justin Chatwin opened up about collaborating with Hayden Panettiere on her last film. He shared how she bravely spoke about her struggles with addiction and experiences of domestic violence. During their last encounter, he sensed a deep sense of isolation surrounding her. Chatwin expressed admiration for her authenticity and beauty, especially as Panettiere made her comeback to the screen following her memoir release.",
-    "img": "https://static.toiimg.com/photo/msid-133320305,imgsize-265430.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/justin-chatwin-talks-about-hayden-panettiere-after-her-passing-she-had-a-beautiful-heart/articleshow/133320166.cms",
-    "time": "2026-08-18T11:10:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'You are public servant'",
-    "desc": "Actor Imran Khan recently emphasized that voicing concerns about government officials doesn't equate to disloyalty. He believes that it is the citizens who, ultimately, embody the nation's spirit, not just politicians. Khan has stood by student demonstrators who faced police suppression during a protest. He openly criticized the way the establishment has treated youth striving to express their views.",
-    "img": "https://static.toiimg.com/photo/msid-133320280,imgsize-408836.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/imran-khan-says-criticising-the-government-is-not-the-same-as-criticising-the-country-you-are-public-servant-report/articleshow/133319880.cms",
-    "time": "2026-08-18T11:10:05.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Zoya breaks silence on Kalki’s in ZNMD",
-    "desc": "Zoya Akhtar, marking 15 years of Zindagi Na Milegi Dobara, defended Kalki Koechlin's Natasha, calling her \"clear-headed\" and denying she was the villain. Zoya compared her to Dil Chahta Hai's Subodh and confirmed a sequel is in the works. The film also starred Hrithik Roshan and Katrina Kaif.",
-    "img": "https://static.toiimg.com/photo/msid-133320129,imgsize-171151.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/natasha-is-not-the-villain-zoya-akhtar-breaks-silence-on-kalki-koechlins-character-in-zindagi-na-milegi-dobara/articleshow/133320117.cms",
-    "time": "2026-08-18T11:04:26.000Z"
   },
   {
     "cat": "Sports",
@@ -558,15 +576,6 @@ const newsData_en = [
     "time": "2026-08-18T09:54:35.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "No Khel Ratna recommendation for 2025, 17 athletes get Arjuna Awards",
-    "desc": "In a surprising turn, India's prestigious Khel Ratna award will not have a recipient in 2025, marking this as the third time since its establishment in 1991-92. Meanwhile, the Arjuna Award will honor seventeen exceptional athletes for their achievements, while coaches are set to receive the Dronacharya Awards. Additionally, the Army Paralympic Node will be recognized with the Rashtriya Khel Protsahan Puruskar for its significant contributions to sports.",
-    "img": "https://static.toiimg.com/photo/msid-133316479,imgsize-1016346.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/no-khel-ratna-recommendation-for-2025-17-names-get-arjuna-awards/articleshow/133316388.cms",
-    "time": "2026-08-18T08:28:07.000Z"
-  },
-  {
     "cat": "World",
     "title": "Trump says it is time to get rid of U.S. Senate's filibuster custom",
     "desc": "The “filibuster” is the Senate rule that requires 60 of the chamber’s 100 members to agree to pass most legislation. Republicans hold a 53-47 majority in the Senate and a 219-213 majority in the House of Representatives.",
@@ -583,15 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/northern-sea-route-in-focus-india-eyes-first-cargo-ship-along-arctic-route-to-russia-why-it-matters/articleshow/133315990.cms",
     "time": "2026-08-18T08:10:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rishabh Pant creates history, becomes first Indian to achieve this feat in Tests",
-    "desc": "India's star wicketkeeper batter Rishabh Pant created history on Tuesday during the first Test against Sri Lanka in Galle. The India wicketkeeper-batter became the first Indian cricketer to hit 100 sixes in Test cricket. Pant reached the milestone with a big six off Lahiru Kumara. The shot also brought up his 20th Test fifty.",
-    "img": "https://static.toiimg.com/photo/msid-133316168,imgsize-27542.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/rishabh-pant-creates-history-becomes-first-indian-to-achieve-this-feat-in-tests/articleshow/133316107.cms",
-    "time": "2026-08-18T08:09:05.000Z"
   },
   {
     "cat": "Entertainment",
@@ -837,15 +837,6 @@ const newsData_en = [
     "time": "2026-08-15T15:04:38.000Z"
   },
   {
-    "cat": "Business",
-    "title": "What is the latest Mining Amendment Act about?",
-    "desc": "The opposition to the proposed act primarily centres on a potential subversion to the federal structure of how revenue from mining resources is taxed, especially in resource-rich and States which particularly depend on taxing the resources for revenue.",
-    "img": "https://th-i.thgim.com/public/incoming/ppzw5v/article71349108.ece/alternates/LANDSCAPE_1200/iStock-1088331722.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Industry/what-is-the-latest-mining-amendment-act-about-explained/article71348935.ece",
-    "time": "2026-08-15T13:17:21.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "When a Kerala Facebook collective brought Rajinikanth’s iconic Baashha roaring back in a throwback to analogue cinema",
     "desc": "The screening was about more than the superstar or the film. It was an attempt to recreate the movie-going experience of pre-digital era and draw attention to a fast disappearing world of film reels, projectors and theatre jobs",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/gadgets/google-pixel-11-pixel-11-pro-pixel-11-pro-xl-and-pixel-11-pro-fold-launch-what-to-expect/article71331641.ece",
     "time": "2026-08-12T15:55:33.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Meta will soon face another high-stakes trial in U.S.",
+    "desc": "The federal trial, one of the most consequential among a myriad of legal proceedings targeting social networks in the United States, will begin on August 12, 2026 with jury selection at a federal court in Oakland",
+    "img": "https://th-i.thgim.com/public/incoming/36h44q/article71316172.ece/alternates/LANDSCAPE_1200/Meta_New_Mexico_6716_.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/meta-will-soon-face-another-high-stakes-trial-in-us/article71326861.ece",
+    "time": "2026-08-10T04:31:54.000Z"
   }
 ];
