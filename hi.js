@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Satwik-Chirag enter BWF World Championships pre-quarterfinals after walkover",
+    "desc": "Satwiksairaj Rankireddy and Chirag Shetty moved into the pre-quarterfinals of the BWF World Championships 2026 without hitting a shuttle on Wednesday after Alexander Dunn and Adam Pringle withdrew from their scheduled men's doubles match in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/satwik-chirag-enter-bwf-world-championships-pre-quarterfinals-after-walkover-2026-08-19-1051816",
+    "time": "2026-08-19T08:47:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Manav Suthar claims six-wicket haul as India decimate Sri Lanka to win first Test in Galle",
+    "desc": "India registered a comfortable 165-run win in the opening of the two-match Test series against Sri Lanka in Galle. Chasing 372 runs in the final innings, the Dhananjaya de Silva-led side lost four wickets in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/manav-suthar-claims-six-wicket-haul-as-india-decimate-sri-lanka-to-win-first-test-in-galle-2026-08-19-1051811",
+    "time": "2026-08-19T08:08:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Yashasvi Jaiswal's 'hit him a six, I'll take you to IPL' leads to Niroshan Dickwella's dismissal at Galle",
+    "desc": "Yashasvi Jaiswal’s on-field banter with Niroshan Dickwella led to the latter’s dismissal in the 59th over of Sri Lanka’s second innings. He arrived at the crease with Sri Lanka needing to sustain their resistance against...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/yashasvi-jaiswal-s-hit-him-a-six-i-ll-take-you-to-ipl-leads-to-niroshan-dickwella-s-dismissal-at-galle-2026-08-19-1051804",
+    "time": "2026-08-19T07:16:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Where to watch England vs Pakistan 1st Test live on TV and stream online in India?",
+    "desc": "England host Pakistan for the first of the three-match series, starting August 19 in Leeds. The match is England's first since Ben Stokes announced his international retirement and Brendon McCullum left his position as head...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/where-to-watch-england-vs-pakistan-1st-test-live-on-tv-and-stream-online-in-india-2026-08-19-1051800",
+    "time": "2026-08-19T06:48:54.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "PV Sindhu recalls Virat Kohli's advice during difficult phase, says conversation changed her perspective",
     "desc": "Two-time Olympic medallist PV Sindhu has recalled how a conversation with Virat Kohli helped her deal with one of the toughest phases of her career. During an episode of the RCB podcast, she spoke about...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/devdutt-padikkal-becomes-third-indian-cricketer-to-record-major-feat-in-test-cricket-2026-08-18-1051725",
     "time": "2026-08-18T11:30:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Unnati Hooda shares father's ultimate sacrifice after winning BWF World Championship opener",
-    "desc": "Unnati Hooda began her BWF World Championships campaign with a straight-game victory over Myanmar’s Thet Htar Thuzar in New Delhi. The 18-year-old won 22-20, 21-16 and will now meet 13th seed Michelle Li of Canada...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/unnati-hooda-shares-father-s-ultimate-sacrifice-after-winning-bwf-world-championship-opener-2026-08-18-1051717",
-    "time": "2026-08-18T10:45:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rishabh Pant becomes fastest-ever to 100 Test sixes, joins elite four-player club",
-    "desc": "Star India batter Rishabh Pant created history on Day 4 of the first Test against Sri Lanka in Galle. The keeper-batter became the first Indian player to hit 100 sixes in the longest format of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-becomes-fastest-ever-to-100-test-sixes-joins-elite-four-player-club-who-are-the-other-three-2026-08-18-1051708",
-    "time": "2026-08-18T09:57:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KL Rahul embraces Devdutt Padikkal, air-kisses him after surviving close call",
-    "desc": "KL Rahul survived a dramatic LBW scare before eventually falling for 35 to Prabath Jayasuriya during India’s second innings in the first Test against Sri Lanka in Galle on Tuesday, August 18. The India opener...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-embraces-devdutt-padikkal-air-kisses-him-after-surviving-close-call-watch-2026-08-18-1051697",
-    "time": "2026-08-18T08:21:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tejaswin Shankar, Vidit Gujrathi, Divya Deshmukh among Arjuna Awardees, no Khel Ratna this year: Full list",
-    "desc": "The National Sports Awards 2025 were announced by the Ministry of Youth Affairs and Sports on Tuesday, August 18. 17 athletes will be receiving the Arjuna Award, while the list also included one lifetime Arjuna...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/tejaswin-shankar-vidit-gujrathi-divya-deshmukh-gopichand-s-daughter-among-arjuna-awardees-full-list-2026-08-18-1051696",
-    "time": "2026-08-18T08:18:47.000Z"
   }
 ];
