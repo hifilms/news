@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India's tour of Bangladesh is very likely to be postponed again, BCB president Tamim Iqbal indicates",
+    "desc": "India’s tour of Bangladesh is set to be postponed again. It was scheduled to take place in September, but Bangladesh Cricket Board president Tamim Iqbal has confirmed that the two boards are still discussing the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-s-tour-of-bangladesh-is-very-likely-to-be-postponed-again-bcb-president-tamim-iqbal-indicates-2026-08-20-1051990",
+    "time": "2026-08-20T18:20:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Carlos Alcaraz missed French Open, Wimbledon; will he feature in US Open? Spaniard confirms",
+    "desc": "Defending champion Carlos Alcaraz will return to competitive tennis at the US Open after spending almost four months on the sidelines with a wrist injury. The 23-year-old has been absent since the Barcelona Open in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-missed-french-open-wimbledon-will-he-feature-in-us-open-spaniard-confirms-2026-08-20-1051986",
+    "time": "2026-08-20T17:54:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India progress to top 8 of Women's Hockey World Cup after 0-0 draw against England",
+    "desc": "Following a 0-0 draw in the final group game against England, India have secured a place in the second round of the Women’s Hockey World Cup. They finished second in the group with five points,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/hockey/indian-progress-to-top-8-of-women-s-hockey-world-cup-after-0-0-draw-against-england-2026-08-20-1051985",
+    "time": "2026-08-20T17:33:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PV Sindhu eliminated from BWF World Championships, speculates Wang Zhi Yi's injury break as tactic",
+    "desc": "PV Sindhu’s bid for a second gold in the BWF World Championships ended on Thursday, August 20, after the Indian star lost to China’s Wang Zhi Yi in the women’s singles pre-quarterfinals at the Indira...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/pv-sindhu-eliminated-from-bwf-world-championships-speculates-wang-zhi-yi-s-injury-break-as-tactic-2026-08-20-1051980",
+    "time": "2026-08-20T16:35:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Joe Root equals Sachin Tendulkar's world record in Test cricket with half-century against Pakistan",
+    "desc": "Joe Root rediscovered his form in England’s first Test against Pakistan at Headingley in Leeds. After an underwhelming three-match series against New Zealand, Root responded strongly in his first outing as captain as he once...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/joe-root-equals-sachin-tendulkar-s-world-record-in-test-cricket-with-half-century-against-pakistan-2026-08-20-1051977",
+    "time": "2026-08-20T15:50:53.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Bangladesh Cricket Board suspends BPL for 2026-27 season, president Tamim Iqbal explains reason",
     "desc": "Bangladesh Cricket Board president Tamim Iqbal has confirmed that the Bangladesh Premier League’s 2026-27 season is uncertain amid issues concerning the financial and operational departments. Tamim said the BCB has suffered substantial losses from the...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/gayatri-gopichand-treesa-jolly-stun-japanese-pair-move-to-quarters-of-bwf-world-championship-2026-08-20-1051938",
     "time": "2026-08-20T10:05:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Dinesh Karthik points out worrying signs for India despite dominant win in first Sri Lanka Test",
-    "desc": "The stage is set for the second and final Test of the ongoing series between India and Sri Lanka. The first Test of the series was dominantly won by the Indian team as they registered...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dinesh-karthik-points-out-worrying-signs-for-india-despite-dominant-win-in-first-sri-lanka-test-2026-08-20-1051934",
-    "time": "2026-08-20T09:25:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Manchester United legend slams new signing ahead of upcoming PL season, questions star midfielder's ability",
-    "desc": "The Premier League 2026-27 season is right around the corner. The new season is all set to kick off on August 21, and all 20 sides will hope to put in their best performance throughout...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/manchester-united-legend-slams-new-signing-ahead-of-upcoming-pl-season-questions-star-midfielder-s-ability-2026-08-20-1051928",
-    "time": "2026-08-20T08:56:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mohammed Kaif expresses concern for star India spinner ahead of second Sri Lanka Test in Colombo",
-    "desc": "The Indian team is all set to take on Sri Lanka in the second Test of the ongoing two-game series. The two sides are slated to take on each other at the R. Premadasa Stadium...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mohammed-kaif-expresses-concern-for-star-india-spinner-ahead-of-second-sri-lanka-test-in-colombo-2026-08-20-1051920",
-    "time": "2026-08-20T07:44:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Very difficult to keep him out': R Ashwin opens up on India's number three options ahead of crucial NZ tour",
-    "desc": "The Indian team is currently amidst a two-game Test series against Sri Lanka, and having won the first Test, India will be hoping to put in a good show for the second clash of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/very-difficult-to-keep-him-out-r-ashwin-opens-up-on-india-s-number-three-options-ahead-of-crucial-nz-tour-2026-08-20-1051910",
-    "time": "2026-08-20T06:26:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pulwama welcomes return of Royal Premier League, fans gather in numbers to witness season opener",
-    "desc": "The second edition of the RPL (Royal Premier League) made its return to Pulwama. The tournament kicked off on August 19th, and the conflict-affected area was quick to turn into a celebration of cricket as...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pulwama-welcomes-return-of-royal-premier-league-fans-gather-in-numbers-to-witness-season-opener-2026-08-20-1051899",
-    "time": "2026-08-20T04:59:35.000Z"
   }
 ];
