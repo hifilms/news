@@ -1,5 +1,50 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "‘Govinda and Komal were planning to marry’: Sunita on divorce case",
+    "desc": "Sunita Ahuja has revealed during a phone conversation with Rakhi Sawant that Govinda and his alleged girlfriend Komal Rani Swarnakar were “planning to get married.” Her comments came after she withdrew her divorce petition against Govinda. Rakhi supported Sunita, urged her to stay strong and focus on the actor’s reported Rs 200 crore property.",
+    "img": "https://static.toiimg.com/photo/msid-133387492,imgsize-78304.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govinda-and-komal-rani-swarnakar-were-planning-to-get-married-sunita-ahuja-tell-rakhi-sawant-on-call-as-she-reveals-the-reason-behind-withdrew-her-divorce-petition/articleshow/133387480.cms",
+    "time": "2026-08-20T20:40:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Deliveries at Keralam’s Kozhikode Government Women and Children’s Hospital decline",
+    "desc": "According to Health department, there were a total of 5,201 deliveries (2,729 normal and 2,472 C-section) in 2020-21. This number came down to 2,238 (1,387 normal and 851 C-section) in 2025-26. A large number of people from the urban areas of Kozhikode are dependant on the hospital",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/xtbjmy/article71368384.ece/alternates/LANDSCAPE_1200/preg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/deliveries-at-keralams-kozhikode-government-women-and-childrens-hospital-decline/article71368209.ece",
+    "time": "2026-08-20T20:40:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Not a marketing stunt’: Ronaldinho, 46, confirms return to football after 11 years",
+    "desc": "Ronaldinho is set to make a professional football comeback with Italian third-tier club Ravenna, 11 years after his last competitive appearance. The 46-year-old Brazilian has confirmed he will play in an official match, with the club hoping he can score the final goal of his career. Ronaldinho has also joined Ravenna’s ownership group and will be presented to around 6,000 fans in Italy.",
+    "img": "https://static.toiimg.com/photo/msid-133386490,imgsize-99144.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/not-a-marketing-stunt-ronaldinho-46-confirms-return-to-professional-football-to-score-final-goal-of-his-career/articleshow/133385654.cms",
+    "time": "2026-08-20T19:16:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "When adventurism takes a dangerous turn",
+    "desc": "Wannabe adventurists perform motorbike stunts on roads, venture into unknown forests, and step into unfamiliar waterbodies, posing risk to their lives as well as others’. An attempt to read their thoughts and to elicit response from govt. authorities who usually bail out the adventure-seekers of distress",
+    "img": "https://th-i.thgim.com/public/incoming/fgz4ac/article71370835.ece/alternates/LANDSCAPE_1200/6678_8_2_2022_17_37_5_5_RESCUEOPERATION_5.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/when-adventurism-takes-a-dangerous-turn/article71366638.ece",
+    "time": "2026-08-20T19:06:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "IUML orders probe into resolution against Minister Basheer; Jaleel questions ‘ED silence’",
+    "desc": "The resolution alleged that money was being collected in connection with admissions to EMEA College of Arts and Science, Kondotty, and named Minister Basheer in connection with the allegation. The IUML district committee directed the camp facilitator and the constituency committee to investigate the incident and submit reports.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/iuml-orders-probe-into-resolution-against-minister-basheer-jaleel-questions-ed-silence/article71369788.ece",
+    "time": "2026-08-20T18:54:49.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Dubai invests $9.3 billion across 147 projects in India over 10 years",
     "desc": "About 7,579 new Indian companies join the Dubai Chamber of Commerce during the first half of 2026, according to data released by Dubai Chambers, a non-profit public entity that supports Dubai’s vision as a global player by empowering businesses",
@@ -144,15 +189,6 @@ const newsData_en = [
     "time": "2026-08-20T16:06:30.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Tamil Nadu CM Vijay seeks fair, equitable treatment of southern States from Centre",
-    "desc": "At the 31st meeting of the Southern Zonal Council held at Mamallapuram and presided over by Union Home Minister Amit Shah, Mr. Vijay said the southern States have consistently been among the principal drivers of the nation’s economic growth",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/gly2j9/article71368564.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-20%20at%2012.48.41.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/southern-zonal-council-meet-tamil-nadu-cm-vijay-seeks-fair-equitable-treatment-of-southern-states-from-centre/article71368332.ece",
-    "time": "2026-08-20T15:57:16.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "US Open sets tennis history with record $5.5m prize for singles champions",
     "desc": "The 2026 US Open will offer a record $108 million in player compensation. Singles champions will each receive $5.5 million, a significant increase from previous years. Even first-round losers will earn a record $140,000, reflecting broader prize money hikes. A new player support program and a Grand Slam Player Council were also announced. This initiative aims to strengthen financial support and player involvement in tournament decisions.",
@@ -160,15 +196,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/us-open-sets-tennis-history-with-record-5-5m-prize-for-singles-champions/articleshow/133382337.cms",
     "time": "2026-08-20T15:57:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Andaman and Nicobar Islands withdraws call for interest in private sector-led data centre project",
-    "desc": "The withdrawal comes even as The Hindu reported that the local Nicobarese population on Great Nicobar Island said that they were not informed of any such plans for a data centre in the sea areas around GNI",
-    "img": "https://th-i.thgim.com/public/incoming/qb7eks/article71121082.ece/alternates/LANDSCAPE_1200/20260428529L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andaman-and-nicobar-islands-withdraws-call-for-interest-in-private-sector-led-data-centre-project/article71369820.ece",
-    "time": "2026-08-20T15:54:37.000Z"
   },
   {
     "cat": "Entertainment",
@@ -180,33 +207,6 @@ const newsData_en = [
     "time": "2026-08-20T15:52:41.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "boat operators asked to follow safety norms",
-    "desc": "An order from Senior Port Conservator said boats should not be operated for tourism purposes without valid registration, survey and insurance certificates and other statutory documents. Boat owners and crew should ensure that all passengers wear quality life jackets meeting prescribed standards, the order said.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/onam-rush-boat-operators-asked-to-follow-safety-norms/article71368923.ece",
-    "time": "2026-08-20T15:45:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Woman dies as lift falls while stepping out at an Ongole apartment",
-    "desc": "Vanitha, 45, reached for the corridor floor as the lift dropped beneath her at Sai Surya Enclave on Sunday evening; she died of a heart attack in hospital that night, the police said. No case has been registered. The CCTV footage surfaced on Thursday",
-    "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/wa2yen/article71370238.ece/alternates/LANDSCAPE_1200/Untitled%20design2.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/woman-dies-after-lift-accident-in-ongole-apartment/article71368910.ece",
-    "time": "2026-08-20T15:44:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Karnataka High Court orders CCTV audit at all police stations across State",
-    "desc": "The court issues the directions after observing that CCTV cameras at the Whitefield police station in Bengaluru are non-functional for a certain period in 2024, as the system lacked a working UPS apparatus for about 11 months",
-    "img": "https://th-i.thgim.com/public/incoming/slew5s/article71370299.ece/alternates/LANDSCAPE_1200/6788_19-8-2020_18-3-45_3_HIGH_COURT_03.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-orders-cctv-audit-at-all-police-stations-across-state/article71369726.ece",
-    "time": "2026-08-20T15:44:11.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Brazil officials inspect Kolkata stadium ahead of historic India clash",
     "desc": "A five-member Brazilian Football Confederation delegation inspected Kolkata’s Salt Lake Stadium ahead of the October 3 India-Brazil friendly. The officials reviewed the pitch, training areas, dressing rooms, toilets and hygiene facilities. West Bengal Sports Minister Indranil Khan said they were satisfied with preparations. Brazil, ranked fifth globally, will face India in the country’s biggest-ever football fixture.",
@@ -214,15 +214,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/brazil-officials-inspect-kolkata-stadium-ahead-of-historic-india-clash/articleshow/133381734.cms",
     "time": "2026-08-20T15:43:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Akhil Joyan’s mortal remains to reach Kasaragod on August 24",
-    "desc": "The body will be transported by road from Ukraine to Chisinau, the capital of the Republic of Moldova, and from there flown to Mangaluru via Istanbul by Turkish Airlines. The remains are scheduled to reach Bengaluru on August 23. They will then be transported by ambulance to Akhil’s home at Vellarikundu in Kasaragod on August 24.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/akhil-joyans-mortal-remains-to-reach-kasaragod-on-august-24/article71369734.ece",
-    "time": "2026-08-20T15:38:38.000Z"
   },
   {
     "cat": "Entertainment",
@@ -550,33 +541,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Emraan Hashmi’s ‘serial kisser’ image was deliberately left out of ‘Awarapan 2’",
-    "desc": "In Awarapan 2, the absence of kissing scenes marks a significant shift away from Emraan Hashmi's earlier portrayal. Writer Bilal Siddiqui indicated that this deliberate choice serves the narrative well. The narrative focuses on Shivam, whose character development is deeply tied to the memory of his late lover. The filmmakers believed that including a forced kiss would detract from Shivam's ongoing struggle and personal evolution.",
-    "img": "https://static.toiimg.com/photo/msid-133373095,imgsize-347076.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/emraan-hashmis-serial-kisser-image-was-deliberately-left-out-of-awarapan-2-writer-bilal-siddiqui-reveals-why-it-was-never-considered/articleshow/133373071.cms",
-    "time": "2026-08-20T09:53:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'RSS believes it knows the truth for everyone': Rahul Gandhi attacks Sangh over ideology",
-    "desc": "A Tribute to Rajiv Gandhi's Vision\" programme, the Gandhi Scion described the ideological contest in India as a deeper struggle over how people understand themselves, freedom and their place in society. The Congress leader also drew a distinction between the RSS's worldview and Mahatma Gandhi's idea of 'Swaraj', saying no organisation or individual could claim to know what is true for another person.",
-    "img": "https://static.toiimg.com/photo/msid-133373057,imgsize-88276.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/rss-believes-it-knows-the-truth-for-everyone-rahul-gandhi-attacks-sangh-over-ideology/articleshow/133372967.cms",
-    "time": "2026-08-20T09:52:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Treesa-Gayatri stun 7th seeds to reach quarters, medal one win away",
-    "desc": "Treesa Jolly and Gayatri Gopichand secured a World Championships quarterfinal spot. The unseeded Indian pair defeated Japan's seventh seeds in straight games. Treesa's aggressive play and Gayatri's structural support proved decisive. This victory marks a significant step in their comeback after Treesa's injury. A medal is now guaranteed with one more win at the event.",
-    "img": "https://static.toiimg.com/photo/msid-133372997,imgsize-145736.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/badminton/bwf-worlds-treesa-jolly-gayatri-gopichand-stun-7th-seeds-to-reach-quarters-medal-one-win-away/articleshow/133372913.cms",
-    "time": "2026-08-20T09:49:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Botticelli’s Madonna and Child comes to Bengaluru",
     "desc": "The Renaissance painting is part of One Mother, Many Mother Tongues, a new exhibition, co-curated by Naman Ahuja and Andrea Anastasio, which explores how the visual motif of mother and child migrates across borders, changing identity according to region, religion, language, and culture",
     "img": "https://th-i.thgim.com/public/life-and-style/i11uy1/article71368128.ece/alternates/LANDSCAPE_1200/IMG_2224.JPG",
@@ -898,5 +862,41 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
     "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
+    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
+    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
+    "time": "2024-03-12T09:45:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
+    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
+    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
+    "time": "2024-03-11T10:20:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
+    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
+    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
+    "time": "2024-03-11T10:00:44.000Z"
   }
 ];
