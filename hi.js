@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Dinesh Karthik points out worrying signs for India despite dominant win in first Sri Lanka Test",
+    "desc": "The stage is set for the second and final Test of the ongoing series between India and Sri Lanka. The first Test of the series was dominantly won by the Indian team as they registered...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dinesh-karthik-points-out-worrying-signs-for-india-despite-dominant-win-in-first-sri-lanka-test-2026-08-20-1051934",
+    "time": "2026-08-20T09:25:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Manchester United legend slams new signing ahead of upcoming PL season, questions star midfielder's ability",
+    "desc": "The Premier League 2026-27 season is right around the corner. The new season is all set to kick off on August 21, and all 20 sides will hope to put in their best performance throughout...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/manchester-united-legend-slams-new-signing-ahead-of-upcoming-pl-season-questions-star-midfielder-s-ability-2026-08-20-1051928",
+    "time": "2026-08-20T08:56:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mohammed Kaif expresses concern for star India spinner ahead of second Sri Lanka Test in Colombo",
+    "desc": "The Indian team is all set to take on Sri Lanka in the second Test of the ongoing two-game series. The two sides are slated to take on each other at the R. Premadasa Stadium...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mohammed-kaif-expresses-concern-for-star-india-spinner-ahead-of-second-sri-lanka-test-in-colombo-2026-08-20-1051920",
+    "time": "2026-08-20T07:44:59.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Very difficult to keep him out': R Ashwin opens up on India's number three options ahead of crucial NZ tour",
     "desc": "The Indian team is currently amidst a two-game Test series against Sri Lanka, and having won the first Test, India will be hoping to put in a good show for the second clash of the...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/lakshya-sen-suffers-shocking-defeat-to-18-year-old-knocked-out-of-bwf-world-championship-2026-08-19-1051853",
     "time": "2026-08-19T12:53:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ollie Robinson makes English cricket history, also matches Kapil Dev's 43-year-old feat",
-    "desc": "Ollie Robinson made an immediate impact on the opening day of the first Test against Pakistan at Headingley. He struck on the first delivery itself, sending Azan Awais packing and, with that, set a new...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ollie-robinson-makes-english-cricket-history-also-matches-kapil-dev-s-43-year-old-feat-2026-08-19-1051847",
-    "time": "2026-08-19T12:27:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch India vs Pakistan FIH Men's Hockey World Cup clash?",
-    "desc": "India will meet Pakistan in a decisive Pool D encounter at the FIH Men’s Hockey World Cup 2026 on Wednesday, August 19. The match will be played at the Wagener Hockey Stadium in Amstelveen, Netherlands....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/hockey/when-and-where-to-watch-india-vs-pakistan-fih-men-s-hockey-world-cup-clash-2026-08-19-1051837",
-    "time": "2026-08-19T10:56:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Ben Stokes not playing in England vs Pakistan 1st Test in Leeds?",
-    "desc": "England set to host Pakistan in a three-match Test series, starting August 19 at Headingley. It marks their first outing since former captain Ben Stokes announced his retirement from international cricket. Notably, after the first...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-ben-stokes-not-playing-in-england-vs-pakistan-1st-test-in-leeds-2026-08-19-1051826",
-    "time": "2026-08-19T10:06:42.000Z"
   }
 ];

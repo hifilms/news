@@ -1,9 +1,243 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Amit Shah chairs Southern Zonal Council meeting in Tamil Nadu Vijay, DKS among key participants",
+    "title": "‘Homemaker’ is a gender-neutral term: What did the Karnataka High Court say?",
+    "desc": "The court observed that every woman who renders services to her family members at home is liable to be regarded as a “homemaker” irrespective of the fact that she holds higher a qualification, let it be a degree, postgraduate degree or a doctorate",
+    "img": "https://th-i.thgim.com/public/incoming/r9aoah/article71368439.ece/alternates/LANDSCAPE_1200/IMG_TH_-_USA-LEGAL__2_1_EGDBQR68.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/homemaker-is-a-gender-neutral-term-what-did-the-karnataka-high-court-say/article71368318.ece",
+    "time": "2026-08-20T09:23:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Botticelli’s Madonna and Child comes to Bengaluru",
+    "desc": "The Renaissance painting is part of One Mother, Many Mother Tongues, a new exhibition, co-curated by Naman Ahuja and Andrea Anastasio, which explores how the visual motif of mother and child migrates across borders, changing identity according to region, religion, language, and culture",
+    "img": "https://th-i.thgim.com/public/life-and-style/i11uy1/article71368128.ece/alternates/LANDSCAPE_1200/IMG_2224.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/bangalore/botticellis-madonna-and-child-comes-to-bengaluru/article71367741.ece",
+    "time": "2026-08-20T09:08:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All you need to know about ‘Outer Banks’ season 5",
+    "desc": "Get ready for the gripping final chapter of Outer Banks, launching on Netflix this Thursday, the 20th! As the Pogues dive into a quest for Blackbeard's Blue Crown, they also grapple with the emotional fallout from JJ's death. Unexpected alliances with Rafe Cameron come into play as they confront formidable foes. This season promises ten action-packed episodes featuring beloved characters in a thrilling finale that fans won’t want to miss.",
+    "img": "https://static.toiimg.com/photo/msid-133371274,imgsize-141918.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/when-and-where-to-watch-outer-banks-5-who-is-in-the-cast-and-more-heres-all-you-need-to-know-about-the-upcoming-season/articleshow/133371100.cms",
+    "time": "2026-08-20T08:36:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Matthew Perry",
+    "desc": "Matthew Perry's poignant remark highlights the importance of seizing every opportunity, as life can change in unexpected ways. He secured the iconic role of Chandler Bing in 'Friends' when a sci-fi pilot he auditioned for fell through. Transitioning from a promising junior tennis player, Perry pursued a dream in acting that soared with 'Friends', elevating his wealth significantly. Tragically, he passed away in 2023 due to an accidental overdose.",
+    "img": "https://static.toiimg.com/photo/msid-133370913,imgsize-259962.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-matthew-perry-you-never-know-where-one-thing-will-leadtake-every-opportunity-because-something-might-come-of-it-the-friends-stars-wisdom-on-never-missing-out-on-anything-no-matter-how-small-or-big-it-may-seem/articleshow/133370844.cms",
+    "time": "2026-08-20T08:30:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rajiv Gandhi helped prepare India for promise of 21st century, says Congress",
+    "desc": "“Perhaps the most meaningful tribute to Rajiv Ji would be to strengthen India's timeless spirit of empathy, harmony and reconciliation, while nurturing intellectual freedom, innovation and the aspirations of our young people,” Mallikarjun Kharge said",
+    "img": "https://th-i.thgim.com/public/incoming/ku4mpr/article71368064.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-20%20at%208.37.05%20AM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/rajiv-gandhi-birth-anniversary-tributes/article71367965.ece",
+    "time": "2026-08-20T08:28:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When and why did Sunita Ahuja seek divorce from Govinda? Timeline of petition EXPLAINED",
+    "desc": "In a surprising turn of events, Sunita Ahuja has chosen to withdraw her divorce petition against actor Govinda, following the couple's public remarks regarding his connection with Komal Rani Swarnkar. The petition, submitted in December 2024 on grounds of adultery and cruelty, has been officially retracted, as confirmed by Govinda's manager. The couple has yet to disclose the motivations behind this unexpected decision.",
+    "img": "https://static.toiimg.com/photo/msid-133370889,imgsize-50850.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-and-why-did-sunita-ahuja-seek-divorce-from-govinda-timeline-of-petition-cheating-allegations-latest-development-explained/articleshow/133370859.cms",
+    "time": "2026-08-20T08:25:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Vishwanath And Sons’ BO [Live]: Suriya starrer faces usual weekday slowdown",
+    "desc": "Suriya's 'Vishwanath And Sons' is enjoying a solid theatrical run as it approaches its first week, having amassed a remarkable total gross of Rs 90 crore across India. While it has experienced the typical weekday drop in collections post a robust opening weekend, its net earnings currently stand at Rs 77.83 crore. The anticipated second weekend will be pivotal for determining the film's box office success.",
+    "img": "https://static.toiimg.com/photo/msid-133370266,imgsize-157324.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vishwanath-and-sons-box-office-collection-day-7-live-suriya-and-mamitha-baiju-starrer-faces-usual-weekday-slowdown-surpasses-rs-90-crore-in-india/articleshow/133370131.cms",
+    "time": "2026-08-20T08:16:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ED claims to have seized handwritten notes of Veena relating to fund transfer to Dubai",
+    "desc": "The notes contain the “names of persons, amounts handled, spent” besides the amount transferred to Dubai. The searches conducted on the premises related to Veena and the promoters of CMRL on May 27, 2026, yielded the documents, it says",
+    "img": "https://th-i.thgim.com/public/incoming/agyorl/article71366366.ece/alternates/LANDSCAPE_1200/ED-widens-CMRL-GM2G3F20B.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/ed-claims-to-have-seized-handwritten-notes-of-veena-relating-to-fund-transfer-to-dubai/article71366235.ece",
+    "time": "2026-08-20T08:04:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tamil Nadu government order to prevent student participation in Left, CJP protests sparks controversy, withdrawn",
+    "desc": "The directive was based on a part of the agenda of the Law and Order Meeting chaired by the Chief Secretary, a couple of days after the resignation of Union Education Minister Dharmendra Pradhan following massive protests by students at Jantar Mantar steered by the CJP.",
+    "img": "https://th-i.thgim.com/public/incoming/ioj0qi/article71363855.ece/alternates/LANDSCAPE_1200/BVR_9300_01.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-order-seeking-steps-to-prevent-students-from-protesting-withdrawn-after-row/article71363796.ece",
+    "time": "2026-08-20T07:46:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "J&K CM Omar",
+    "desc": "His remarks came in response to an undated video in which a young woman could be seen raising her voice against the Ladakh Police at a checkpoint. The girl in the video said, \"We are Gen Z and we are not going to tolerate this.\"",
+    "img": "https://th-i.thgim.com/public/incoming/l6rlhp/article71367923.ece/alternates/LANDSCAPE_1200/08-Workers%20convention%20in%20Srinagar-11-07-2026.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jampk-cm-omar-abdullah-warns-against-using-gen-z-as-a-threat/article71367901.ece",
+    "time": "2026-08-20T07:41:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Govinda's Rs 170 crore wealth revealed, a look at his expensive lifestyle",
+    "desc": "Renowned actor Govinda boasts an impressive net worth of approximately Rs 170 crore, the result of his remarkable journey in the film industry. His wealth encompasses prime real estate locations in Mumbai and other cities, complemented by a collection of high-end vehicles rich in variety with notable SUVs and sedans. His financial achievements stem from a blend of cinematic success, endorsements, and production opportunities.",
+    "img": "https://static.toiimg.com/photo/msid-133368980,imgsize-293812.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govindas-rs-170-crore-wealth-revealed-a-look-at-his-expensive-mumbai-home-multiple-properties-and-premium-car-collection/articleshow/133368882.cms",
+    "time": "2026-08-20T07:40:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "No last-minute call and 2800 km dash this time: Qamran Iqbal arrives early, ready for Duleep Trophy challenge",
+    "desc": "Called up less than 24 hours before the Ranji Trophy final, Qamran Iqbal travelled nearly 2,800 km from Srinagar to Hubballi before scoring an unbeaten 160 that helped Jammu and Kashmir win their maiden title. The 24-year-old reflects on the whirlwind journey, J&K's rise and his ambition to shine in the Duleep Trophy. North Zone will take on West Zone at the BCCI’s Centre of Excellence (CoE) from Sunday.",
+    "img": "https://static.toiimg.com/photo/msid-133368924,imgsize-92153.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/no-last-minute-call-and-2800-km-dash-this-time-qamran-iqbal-arrives-early-ready-for-duleep-trophy-challenge/articleshow/133368216.cms",
+    "time": "2026-08-20T07:34:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Census training programme deferred in Manipur’s Imphal West amid protests over NRC demand",
+    "desc": "Protestors Wednesday (August 19) burnt effigies of politicians and took out rallies in different parts of Manipur's valley districts on the second day of the 48-hour general strike called by the Campaign for Just and Fair Delimitation (JFD) to press for updation of the NRC before the census exercise is conducted in the State.",
+    "img": "https://th-i.thgim.com/public/incoming/kbddau/article71367947.ece/alternates/LANDSCAPE_1200/20260819415L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/manipur/census-training-programme-deferred-in-manipurs-imphal-west-amid-protests-over-nrc-demand/article71367913.ece",
+    "time": "2026-08-20T07:28:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bengal, J&K, Ladakh and five other State Collectors empowered to grant citizenship under CAA",
+    "desc": "The MHA order is significant as the amendments to the CAA Rules, which first came into effect on March 11, 2024, have been notified after the BJP came to power in West Bengal this year",
+    "img": "https://th-i.thgim.com/public/incoming/od8kv3/article71367984.ece/alternates/LANDSCAPE_1200/PTI11_13_2025_000304B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/district-collectors-in-eight-states-uts-empowered-to-grant-citizenship-under-caa-bjp-bengal-win/article71367931.ece",
+    "time": "2026-08-20T07:23:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Niu Lai’: Chinese animation becomes most profitable film in cinema history",
+    "desc": "Chinese animated film ‘Niu Lai’ has become the most profitable film in cinema history by box-office-to-production-cost ratio, turning a reported production budget of only a few hundred dollars into more than $4.3 million in theatrical ticket sales",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/ro45m4/article71368134.ece/alternates/LANDSCAPE_1200/HQCIlxDWoAAnZmk.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/niu-lai-chinese-animation-becomes-most-profitable-film-in-cinema-history/article71368141.ece",
+    "time": "2026-08-20T07:22:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Veteran actress Sowcar Janaki hospitalized at 94, undergoes treatment",
+    "desc": "The esteemed Sowcar Janaki, a 94-year-old veteran actress, is currently receiving treatment in an intensive care unit in Chennai due to recent health complications. Her extensive career includes over four hundred films across various languages. With immense support pouring in from fans and fellow industry members, everyone is hoping for her swift recovery. Notably, she received the Padma Shri award in 2022, reflecting her tremendous contributions to the arts.",
+    "img": "https://static.toiimg.com/photo/msid-133368482,imgsize-124264.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/veteran-actress-sowcar-janaki-hospitalized-at-94-undergoes-icu-treatment-in-chennai/articleshow/133368410.cms",
+    "time": "2026-08-20T07:21:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Don’t go chasing the IPL’: Pujara’s plea for Manav Suthar after Galle heroics",
+    "desc": "Cheteshwar Pujara has encouraged young spinner Manav Suthar to prioritize his development in Test cricket, emphasizing the importance of maintaining his natural bowling style for the longer format instead of adapting to white-ball games. Having performed admirably in his first two Tests, Pujara sees the flighted deliveries of Suthar as essential for success. Recently, India celebrated a notable World Test Championship triumph.",
+    "img": "https://static.toiimg.com/photo/msid-133368462,imgsize-63028.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/dont-go-chasing-the-ipl-cheteshwar-pujaras-plea-for-manav-suthar-after-galle-heroics/articleshow/133368356.cms",
+    "time": "2026-08-20T07:20:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Paradise' actor Nani's fitness SECRET: No gym workouts",
+    "desc": "Actor Nani maintains a consistent fitness approach through regular workouts. He is preparing for his upcoming film 'The Paradise' in a rugged new avatar. Nani prefers cardio and constant activity over intense gym sessions for fitness. He believes in eating familiar foods and avoiding restrictive diets for healthy eating. Nani's period action drama 'The Paradise' is set for a September 2026 release.",
+    "img": "https://static.toiimg.com/photo/msid-133368366,imgsize-57898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-paradise-star-nanis-fitness-secret-no-gym-workouts-prefers-traditional-food-cardio-keeps-him-active/articleshow/133368279.cms",
+    "time": "2026-08-20T07:17:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Unauthorised structures outside Pakistan High Commission pulled down in Delhi",
+    "desc": "Visuals showed that the demolition left a trail of rubble outside the mission, with broken metal railings and gates, twisted metal frames, roofing sheets, bricks and chunks of concrete and plaster strewn across the paved area.",
+    "img": "https://th-i.thgim.com/public/incoming/5da9tp/article71368122.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-20%20at%2011.57.18%20AM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/unauthorised-structures-outside-pakistan-high-commission-pulled-down-in-delhi/article71368075.ece",
+    "time": "2026-08-20T07:14:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Awarapan 2' BO Day 2 [LIVE]: Emraan Hashmi sequel eyes Rs 110 crore India net",
+    "desc": "Emraan Hashmi's 'Awarapan 2' is wrapping up its first week in theatres on a commanding note, having already crossed the Rs. 100 crore mark in India net collections earlier in its run. As the film enters the final day of its opening week, the numbers reflect the natural cool-off of a strong theatrical run rather than any sign of trouble, with the film continuing to add steadily to an already impressive tally. Here's a live look at how Day 7 is shaping up.",
+    "img": "https://static.toiimg.com/photo/msid-133371527,imgsize-179153.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/awarapan-2-box-office-collection-day-7-live-emraan-hashmi-and-disha-patani-film-eyes-rs-110-crore-india-net-after-crossing-rs-150-crore-worldwide/articleshow/133368062.cms",
+    "time": "2026-08-20T07:10:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Maruti International issues official statement over Dhamaal rights",
+    "desc": "Indra Kumar and Ashok Thakeria face an alleged Rs 1.50 crore fraud case over 'Dhamaal' rights after Vikas Sahni's FIR. Sahni claims Maruti International sold him rights already given to Shemaroo in 2015. Maruti International says the matter will be \"resolved mutually.\" 'Dhamaal' (2007) is a cult classic; 'Dhamaal 4' released recently.",
+    "img": "https://static.toiimg.com/photo/msid-133368100,imgsize-142616.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amid-rs-1-50-crore-fraud-case-dhamaal-maker-issues-official-statement-over-the-films-rights/articleshow/133367997.cms",
+    "time": "2026-08-20T07:08:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Has Vijay Sethupathi decided to step out of ‘Arasan’? Here’s the truth",
+    "desc": "Vijay Sethupathi remains committed to his role in Vetri Maaran's highly anticipated film 'Arasan'. Recent speculation suggested he might leave due to production delays and scheduling conflicts. However, a reliable source associated with the film has swiftly refuted these claims. He will play a significant role alongside Silambarasan, eliminating concerns regarding his exit from the project.",
+    "img": "https://static.toiimg.com/photo/msid-133367986,imgsize-204385.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/has-vijay-sethupathi-decided-to-step-out-of-silambarasan-and-vetri-maarans-arasan-heres-the-truth-exclusive/articleshow/133367923.cms",
+    "time": "2026-08-20T07:05:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Club Kid’ trailer: Jordan Firstman’s Cannes breakout brings his wild queer comedy to the screen",
+    "desc": "A24 has released the first trailer for Jordan Firstman’s feature directorial debut, starring the comedian as a washed-up New York party promoter whose chaotic life is upended when he discovers he has a 10-year-old son he never knew existed",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/6x5m2g/article71368086.ece/alternates/LANDSCAPE_1200/CLUB-KID-Jordan-FIRSTMAN-.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/club-kid-trailer-jordan-firstmans-cannes-breakout-brings-his-wild-queer-comedy-to-the-screen/article71368088.ece",
+    "time": "2026-08-20T06:58:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Panic in Amethi as 29 copper spheres emerge from ground during house construction; Archaeology (ASI) team examines suspected ammunition",
+    "desc": "During construction work in Bhanauli village, workers discovered twenty-nine large metal spheres buried deep within the ground. These intriguing copper spheres, each measuring sixty centimeters across, resembled ancient munitions. Local police and the Uttar Pradesh Archaeology Department quickly secured the unusual find. Specialists are now engaged in examining the spheres to determine their historical significance and origin, with plans for additional archaeological research to ascertain their context.",
+    "img": "https://static.toiimg.com/photo/msid-133367059,imgsize-100085.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/panic-in-amethi-as-29-copper-spheres-emerge-from-ground-during-house-construction-archaeology-asi-team-examines-suspected-ammunition/articleshow/133366804.cms",
+    "time": "2026-08-20T06:52:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Batwara 1947' BO Day 7 [LIVE]: Sunny Deol film targets Rs 35 crore",
+    "desc": "The Sunny Deol-led and Rajkumar Santoshi-directed period drama 'Batwara 1947' is heading into the final stretch of its first week in theatres, and the numbers make clear that the film's theatrical journey has settled into a quiet, tapering rhythm. After a promising extended weekend, the Partition drama has struggled to hold on to shows through the working week, and Day 7 is shaping up to be its slowest yet. Here's a live look at how the numbers are shaping up.",
+    "img": "https://static.toiimg.com/photo/msid-133366964,imgsize-93476.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/batwara-1947-box-office-collection-day-7-live-sunny-deol-film-targets-rs-35-crore-after-weekday-slowdown-and-eyes-stronger-second-weekend-amid-emraan-hashmis-awarapan-2-even-as-worldwide-gross-crosses-rs-45-crore/articleshow/133366849.cms",
+    "time": "2026-08-20T06:38:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Salman's sister Arpita's restaurant serves fish for Rs 10,000, champagne at Rs 1,88,550",
+    "desc": "A popular lavish restaurant owned by Arpita Khan Sharma, boasts luxurious decor and a gourmet dining journey. Dishes like the Salt Crusted Red Snapper can reach ten thousand rupees, alongside enticing offerings like truffle pasta and various preparations of salmon and lobster. Guests can indulge in a variety of fine wines and bubbling champagnes, while Gauri Khan's Torii provides upscale culinary experiences at more accessible prices.",
+    "img": "https://static.toiimg.com/photo/msid-133366947,imgsize-382970.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khans-sister-arpita-khans-luxury-restaurant-serves-its-popular-fish-dish-for-rs-10000-most-expensive-champagne-is-sold-at-rs-188550/articleshow/133366819.cms",
+    "time": "2026-08-20T06:36:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Amit Shah chairs Southern Zonal Council meeting in Tamil Nadu; Vijay, DKS among key participants",
     "desc": "In Tamil Nadu, Union Home Minister Amit Shah presided over a pivotal Southern Zonal Council meeting, gathering representatives from five states alongside three Union Territories. The discussions focused on crucial matters such as water sharing and infrastructure advancements. This council acts as a vital forum for fostering dialogue between state governments and the Centre, demonstrating a commitment to cooperative federalism and effective dispute resolution.",
-    "img": "https://static.toiimg.com/photo/msid-133366689,imgsize-69317.cms",
+    "img": "https://static.toiimg.com/photo/msid-133367132,imgsize-48306.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/amit-shah-chairs-southern-zonal-council-meeting-in-tamil-nadu-vijay-dks-among-key-participants-key-points/articleshow/133366572.cms",
     "time": "2026-08-20T06:25:58.000Z"
@@ -36,24 +270,6 @@ const newsData_en = [
     "time": "2026-08-20T06:18:57.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Emraan’s Shivam Pandit to return? Writer reveals Awarapan 3 plans",
-    "desc": "Awarapan 2, Emraan Hashmi's biggest hit, has crossed Rs 150 crore worldwide, redeeming its 2007 flop predecessor. The open-ended climax has sparked talk of Awarapan 3. Writer Bilal Siddiqui confirms no concrete plans yet, revealing he's only exchanged messages with producer Vishesh Bhatt. He's thrilled by the film's success while staying grounded, hoping a sequel takes shape soon.",
-    "img": "https://static.toiimg.com/photo/msid-133366564,imgsize-192917.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/post-awarapan-2-will-emraan-hashmis-shivam-pandit-return-writer-bilal-siddiqui-reveals-awarapan-3-plans/articleshow/133366546.cms",
-    "time": "2026-08-20T06:17:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Ranger' climax reshoot: Ajay Devgn oversees high-octane action block",
-    "desc": "Ajay Devgn is reportedly directing the climax action sequence for his upcoming film 'Ranger'. The director requested Devgn's expertise to enhance the scene's scale and impact. This revised action block is currently being reshot at Golden Tobacco Studio in Vile Parle. The film's narrative centers on wildlife conservation and a conflict with poachers. A special song featuring Tamannaah Bhatia will be filmed after the climax concludes.",
-    "img": "https://static.toiimg.com/photo/msid-133366514,imgsize-251765.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ajay-devgn-steps-behind-the-camera-for-ranger-climax-reshoot-as-makers-aim-for-a-grander-action-spectacle-featuring-sanjay-dutt-report/articleshow/133366464.cms",
-    "time": "2026-08-20T06:13:15.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "G.O. issued on 33.33% quota for Backward Classes in ULB elections in Andhra Pradesh",
     "desc": "Elections to be conducted for 100 out of 123 ULBs in the State; G.O. also highlights the 16th Finance Commission’s Operational Guidelines, under which a duly constituted ULB is essential for accessing Finance Commission grants",
@@ -61,24 +277,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/andhra-pradesh/go-issued-on-3333-quota-for-backward-classes-in-ulb-elections-in-andhra-pradesh/article71365844.ece",
     "time": "2026-08-20T06:11:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "David Krumholtz announces break from Hollywood",
-    "desc": "Actor David Krumholtz has decided to embark on an indefinite break from his Hollywood journey, driven by a desire to focus on healing personal challenges. He emphasized that this is not retirement, merely a pause in his acting career. Grateful for his past work and the unwavering support from fans, Krumholtz also mentioned his upcoming role in 'Mr.",
-    "img": "https://static.toiimg.com/photo/msid-133366422,imgsize-181572.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oppenheimer-star-david-krumholtz-announces-break-from-hollywood-my-mental-health-is-vital-to-my-family/articleshow/133366354.cms",
-    "time": "2026-08-20T06:07:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "District collectors in eight States, UTs empowered to grant citizenship under CAA; central panels phased out",
-    "desc": "The MHA order is significant as the amendments to the CAA Rules, which first came into effect on March 11, 2024, have been notified after the BJP came to power in West Bengal this year",
-    "img": "https://th-i.thgim.com/public/incoming/od8kv3/article71367984.ece/alternates/LANDSCAPE_1200/PTI11_13_2025_000304B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/district-collectors-in-eight-states-uts-empowered-to-grant-citizenship-under-caa-bjp-bengal-win/article71367931.ece",
-    "time": "2026-08-20T06:06:43.000Z"
   },
   {
     "cat": "Business",
@@ -90,24 +288,6 @@ const newsData_en = [
     "time": "2026-08-20T06:02:12.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rajinikanth’s ‘Dharman’ villain revealed: THIS young actor joins the cast",
-    "desc": "Excitement is building around Rajinikanth's upcoming Tamil film Dharman. Reports suggest that Ram Pothineni, a popular Telugu actor, may step into the role of the antagonist. This collaboration is set to result in a thrilling showdown between the two stars. Directed by Ashwath Marimuthu and featuring music by Anirudh Ravichander, the film will also see performances from Simran and Raashi Khanna.",
-    "img": "https://static.toiimg.com/photo/msid-133365984,imgsize-197270.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rajinikanths-dharman-villain-revealed-this-young-telugu-actor-to-lock-horns-with-superstar-actor/articleshow/133365941.cms",
-    "time": "2026-08-20T05:54:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Census training programme deferred in Manipur’s Imphal West amid protests over NRC demand",
-    "desc": "Protestors Wednesday (August 19) burnt effigies of politicians and took out rallies in different parts of Manipur's valley districts on the second day of the 48-hour general strike called by the Campaign for Just and Fair Delimitation (JFD) to press for updation of the NRC before the census exercise is conducted in the State.",
-    "img": "https://th-i.thgim.com/public/incoming/kbddau/article71367947.ece/alternates/LANDSCAPE_1200/20260819415L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/manipur/census-training-programme-deferred-in-manipurs-imphal-west-amid-protests-over-nrc-demand/article71367913.ece",
-    "time": "2026-08-20T05:48:32.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Kohli was better than Sachin in Tests': AB de Villiers makes huge claim",
     "desc": "In a recent statement, AB de Villiers commended Virat Kohli for taking India's Test batting to new heights on foreign soil, following in the footsteps of Sachin Tendulkar. Tendulkar was the first to show that subcontinent players could thrive in tough situations, but de Villiers argues that Kohli has redefined excellence.",
@@ -115,15 +295,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/virat-kohli-was-better-than-sachin-tendulkar-in-tests-ab-de-villiers-makes-huge-claim/articleshow/133365372.cms",
     "time": "2026-08-20T05:47:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "J&K CM Omar",
-    "desc": "His remarks came in response to an undated video in which a young woman could be seen raising her voice against the Ladakh Police at a checkpoint. The girl in the video said, \"We are Gen Z and we are not going to tolerate this.\"",
-    "img": "https://th-i.thgim.com/public/incoming/l6rlhp/article71367923.ece/alternates/LANDSCAPE_1200/08-Workers%20convention%20in%20Srinagar-11-07-2026.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jampk-cm-omar-abdullah-warns-against-using-gen-z-as-a-threat/article71367901.ece",
-    "time": "2026-08-20T05:39:57.000Z"
   },
   {
     "cat": "Politics",
@@ -151,24 +322,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/andhra-pradesh/local-body-polls-in-andhra-pradesh-a-race-against-time-for-funds-constitutional-compliance-explainer/article71367848.ece",
     "time": "2026-08-20T05:28:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Varun Tej Konidela calls Ram Charan a ‘father figure’",
-    "desc": "Varun Tej Konidela views Ram Charan's success as inspiration, not competition. He desires to share the screen with his admired cousin and father. The actor navigates family comparisons by focusing on personal growth and ambition. His recent film 'Korean Kanagaraju' received positive audience reactions. Varun Tej will also act with his father in the upcoming movie 'Bhari'.",
-    "img": "https://static.toiimg.com/photo/msid-133365221,imgsize-246385.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/i-see-his-effort-and-everything-where-i-want-to-get-someday-varun-tej-on-father-figure-and-cousin-ram-charans-success-comparisons-and-their-close-bond/articleshow/133365200.cms",
-    "time": "2026-08-20T05:22:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mahesh Babu's 'Varanasi' to feature six songs, confirms MM Keeravaani",
-    "desc": "Acclaimed music composer MM Keeravaani has officially confirmed the creation of six songs for the highly anticipated film Varanasi. He has also shared that work on the background score is set to commence in September. Featuring stars like Mahesh Babu and renowned director SS Rajamouli, this ambitious period piece aims to captivate audiences with its expansive narrative and rich cinematic experience.",
-    "img": "https://static.toiimg.com/photo/msid-133365157,imgsize-251609.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/mahesh-babus-varanasi-to-feature-six-songs-background-score-work-to-begin-in-september-confirms-oscar-winning-composer-mm-keeravaani/articleshow/133365121.cms",
-    "time": "2026-08-20T05:19:31.000Z"
   },
   {
     "cat": "Business",
@@ -225,15 +378,6 @@ const newsData_en = [
     "time": "2026-08-20T04:42:42.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Josh Radnor says the ‘How I Met Your Mother’ cast is not close anymore",
-    "desc": "Josh Radnor recently opened up about the changing dynamics among the How I Met Your Mother cast, stating that they are not as tightly connected now. He described this gradual separation as a natural occurrence, similar to how friendships can wane after college. Despite his enduring love for his castmates, whom he considers family, he confirmed that they have drifted apart over the years.",
-    "img": "https://static.toiimg.com/photo/msid-133364314,imgsize-38206.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/i-have-love-for-all-these-people-how-i-met-your-mother-star-josh-radnor-opens-up-about-losing-touch-with-former-castmates-and-how-they-drifted-apart-after-nine-seasons/articleshow/133364207.cms",
-    "time": "2026-08-20T04:36:35.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Granite, grass and a helipad: Trump shows off his White House construction projects",
     "desc": "During a recent briefing, President Trump showcased key updates on White House renovations. He emphasized the stunning white granite driveway's completion and tackled technical aspects of the helipad's slope. Proudly, he mentioned enhancements to the exterior and landscaping. Additionally, he touched upon the ongoing ballroom construction and its significance for national security, aiming to reassure the public about progress in the iconic residence.",
@@ -241,24 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/world/us/granite-grass-and-a-helipad-trump-shows-off-his-white-house-construction-projects/articleshow/133363356.cms",
     "time": "2026-08-20T04:32:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Katharine Hepburn",
-    "desc": "Katharine Hepburn championed the idea of personal responsibility in shaping one’s life. She believed that individuals have the capacity to shift their viewpoints and navigate challenges effectively. Hepburn’s illustrious career serves as a testament to her philosophy, as she faced and conquered numerous obstacles in Hollywood. Her journey was underscored by resilience and a fierce dedication to her craft, establishing an enduring legacy through her distinctive acting style.",
-    "img": "https://static.toiimg.com/photo/msid-133364129,imgsize-187963.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-katharine-hepburn-we-are-taught-you-must-blame-your-father-your-sisters-your-brothers-but-its-always-your-fault-because-if-you-wanted-to-change-youre-the-one-who-has-got-to-change-the-spitfire-stars-lesson-on-taking-accountability-for-your-actions-in-life/articleshow/133364092.cms",
-    "time": "2026-08-20T04:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tamil actor Vimal turns vegetable vendor at hometown market",
-    "desc": "Tamil actor Vimal recently visited a weekly market in his hometown near Manapparai. He joined local vendors and helped sell vegetables, drawing significant public attention. Videos of his interaction with traders and customers quickly went viral on social media platforms. This appearance offered a different glimpse of the actor away from film sets. Vimal's gesture came amid recent news of a cheque bounce case conviction.",
-    "img": "https://static.toiimg.com/photo/msid-133364130,imgsize-183954.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/tamil-actor-vimal-turns-vegetable-vendor-at-hometown-market-in-tiruchirappalli-wins-hearts-with-down-to-earth-gesture-amid-cheque-bounce-controversy-watch-video/articleshow/133364119.cms",
-    "time": "2026-08-20T04:26:58.000Z"
   },
   {
     "cat": "Sports",
@@ -279,24 +405,6 @@ const newsData_en = [
     "time": "2026-08-20T03:51:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Aditi Shankar lauds Anupama's personal revelations and 'honesty'",
-    "desc": "Actress Aditi Shankar praised Anupama Parameswaran for her courageous personal story. She watched Anupama's interview and admired the actress's honesty. Aditi believes Anupama's experience can help others understand difficult relationships. She stated that Anupama did not intend to hurt anyone with her comments. Aditi Shankar made these remarks while promoting her film Once More.",
-    "img": "https://static.toiimg.com/photo/msid-133363450,imgsize-141690.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/aditi-shankar-lauds-anupama-parameswarans-personal-revelations-and-honesty-it-can-create-awareness-among-many-people/articleshow/133363427.cms",
-    "time": "2026-08-20T03:48:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shabana Azmi called 'Gadar' provocative which sees Muslims as the 'other', Sunny had reacted strongly",
-    "desc": "Ek Prem Katha', which Azmi criticized for its approach to nationalism. In defense, Deol pointed out the film's popularity among audiences, asserting it had no malicious intent. Their new roles offer a fresh perspective on a complex historical narrative.",
-    "img": "https://static.toiimg.com/photo/msid-133363385,imgsize-239647.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunny-deols-batwara-1947-co-star-shabana-azmi-had-called-his-film-gadar-provocative-which-sees-muslims-as-the-other-he-reacted-strongly-shes-supposed-to-be-educated-and-well-read/articleshow/133363340.cms",
-    "time": "2026-08-20T03:45:51.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Iranian women’s kabaddi team finds safe haven in India ahead of Asian Games",
     "desc": "The Iranian women's kabaddi team is hard at work in Sonipat, intensifying their preparations for the upcoming Asian Games. Arriving on August thirteenth, they engage in rigorous training sessions at the Sports Authority of India centre, practicing twice a day. Recent geopolitical tensions have posed challenges for the team, making this training opportunity vital for gaining crucial competitive experience and a sense of security.",
@@ -306,42 +414,6 @@ const newsData_en = [
     "time": "2026-08-20T03:31:49.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘I've forgotten who I am’: Apoorva Makhija on moving to New York to escape pressure",
-    "desc": "Content creator and social media personality Apoorva Makhija, better known as The Rebel Kid, is entering a new chapter away from the relentless spotlight of Indian social media. The 25-year-old has moved to New York to pursue an MBA at NYU Stern, a decision she says is partly driven by her desire to understand herself beyond the persona she has built online. While Apoorva continues to embrace the unpredictable journey that has brought her fame, she admits that the constant demand to remain relevant has made her question who she is away from the digital world.",
-    "img": "https://static.toiimg.com/photo/msid-133363156,imgsize-127153.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ive-genuinely-forgotten-who-i-am-when-im-not-the-rebel-kid-apoorva-makhija-opens-up-about-moving-to-new-york-to-get-away-from-constant-pressure-to-stay-relevant-and-her-plans-beyond-bollywood/articleshow/133363027.cms",
-    "time": "2026-08-20T03:27:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Deaths caused by snakebites a ‘notifiable disease’ says Maharashtra Health Minister Prakash Abitkar",
-    "desc": "In the wake of the snakebite incident at a tribal residential ashram school in Japtalai village, Dhanora taluka, Gadchiroli, where six schoolgirls were bitten, with three losing their lives, the Public Health Department initiated steps to notify the disease.",
-    "img": "https://th-i.thgim.com/public/incoming/il9s19/article71367677.ece/alternates/LANDSCAPE_1200/15bm-alok-farmeG7I329E9V3jpgjpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/maharashtra/deaths-caused-by-snakebites-a-notifiable-disease-says-maharashtra-health-minister-prakash-abitkar/article71363896.ece",
-    "time": "2026-08-20T03:21:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ED claims to have seized handwritten notes of Veena relating to fund transfer to Dubai",
-    "desc": "The notes contain the “names of persons, amounts handled, spent” besides the amount transferred to Dubai. The searches conducted on the premises related to Veena and the promoters of CMRL on May 27, 2026, yielded the documents, it says",
-    "img": "https://th-i.thgim.com/public/incoming/agyorl/article71366366.ece/alternates/LANDSCAPE_1200/ED-widens-CMRL-GM2G3F20B.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/ed-claims-to-have-seized-handwritten-notes-of-veena-relating-to-fund-transfer-to-dubai/article71366235.ece",
-    "time": "2026-08-20T03:13:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Mohamed Riyas after ED searches in CMRL pay-off case",
-    "desc": "Claiming that he had not done anything wrong, the CPI(M) leader said that the details about his wife’s business venture had been mentioned in the affidavit submitted along with the nomination papers for the Keralam Assembly elections",
-    "img": "https://th-i.thgim.com/public/incoming/68cu5/article71367665.ece/alternates/LANDSCAPE_1200/IMG_80688_23_1_2024_20_9_2_1_GDCKU8AG.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/not-going-to-get-scared-and-run-away-mohamed-riyas-after-ed-searches-in-cmrl-pay-off-case/article71363848.ece",
-    "time": "2026-08-20T03:11:15.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India beat Pakistan 5-3 but defensive woes raise alarm at World Cup",
     "desc": "India triumphed over Pakistan with a score of 5-3 in their last pool encounter, showcasing impressive skills as skipper Harmanpreet Singh and Abhishek each scored two goals. Pakistan faced an early exit from the tournament due to this setback, allowing India to move forward in the FIH World Cup, where they will now prepare for matches against England and the Netherlands.",
@@ -349,24 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/hockey/india-beat-pakistan-5-3-but-defensive-woes-raise-alarm-at-world-cup/articleshow/133362798.cms",
     "time": "2026-08-20T03:09:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SC orders clinics for periodic health checkup of captive elephants",
-    "desc": "The Supreme Court has mandated that the Centre set up specialized clinics for captive elephants, ensuring they receive essential periodic health checkups. Additionally, the ruling requires DNA mapping of each captive elephant to combat illegal trade. The court emphasizes the importance of maintaining these animals' welfare, instructing states to complete DNA profiling to thwart unlawful commercial activities and transfers.",
-    "img": "https://static.toiimg.com/photo/msid-133362795,imgsize-200841.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sc-orders-clinics-for-periodic-health-checkup-of-captive-elephants/articleshow/133362744.cms",
-    "time": "2026-08-20T03:05:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Plea in High Court accuses Special Court of trying to determine if Savarkar was ‘brave or coward’",
-    "desc": "The petitioner, claiming to possess expert knowledge of Savarkar’s life, contended that the subject before the Special Court is limited. He argues the court should only determine whether Savarkar wrote about beating up a Muslim in his books, and not go beyond this aspect.",
-    "img": "https://th-i.thgim.com/public/incoming/d4nzau/article71367657.ece/alternates/LANDSCAPE_1200/Title-SwatantrGAMFR1VKJ.2.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/maharashtra/savarkar-defamation-case-high-court-plea-accuses-court-of-trying-to-determine-if-savarkar-brave-or-coward/article71365972.ece",
-    "time": "2026-08-20T03:05:35.000Z"
   },
   {
     "cat": "Sports",
@@ -415,21 +469,21 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "After 'Ramayana', Ranbir to start 'Brahmastra 2' with Alia in April 2027",
-    "desc": "Director Ayan Mukerji and Ranbir Kapoor are gearing up for 'Brahmastra 2,' with the actor set to begin filming in April 2027 after wrapping 'Ramayana Part 2.' Alia Bhatt returns as Isha, while Deepika Padukone is reportedly in talks for a key role.",
-    "img": "https://static.toiimg.com/photo/msid-133361576,imgsize-130966.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-ramayana-ranbir-kapoor-to-start-brahmastra-2-with-alia-bhatt-in-april-2027-as-ayan-mukerji-in-talks-with-deepika-padukone-for-sequel-report/articleshow/133361535.cms",
-    "time": "2026-08-20T01:26:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Second marriage in my kundali': Govinda's old comments go viral amid spat with Sunita",
     "desc": "Govinda and Sunita Ahuja's marriage is once again at the center of attention amid divorce rumors. In a resurfaced interview, Govinda revealed insights about his kundali and a possible second marriage. Recently, Sunita was seen in court, leading to heightened speculation about their status. However, Govinda's manager has refuted claims of separation, emphasizing that Sunita has retracted her divorce filing.",
     "img": "https://static.toiimg.com/photo/msid-133361473,imgsize-224476.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/second-marriage-in-my-kundali-govindas-old-statement-goes-viral-amid-spat-with-sunita-ahuja-and-rumours-of-affair-with-komal-rani-the-actor-once-said-he-was-resisting-divya-bhartis-charm/articleshow/133361449.cms",
     "time": "2026-08-20T01:05:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Suresh Oberoi says actors should have researched before supporting CJP protests",
+    "desc": "Veteran actor Suresh Oberoi questioned Bollywood personalities supporting CJP protests. He stressed public figures must understand issues before speaking publicly. Oberoi cited US Embassy advisories and alleged protest funding concerns. He stated his focus remains on acting, not activism or protests. Oberoi criticized violent protest methods and stone-pelting at police.",
+    "img": "https://static.toiimg.com/photo/msid-133361374,imgsize-247725.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/suresh-oberoi-says-actors-should-have-researched-before-supporting-cjp-protests-for-neet-paper-leak-are-they-all-students-you-are-responsible-before-speaking-just-understand/articleshow/133361362.cms",
+    "time": "2026-08-20T00:46:57.000Z"
   },
   {
     "cat": "Entertainment",
@@ -468,15 +522,6 @@ const newsData_en = [
     "time": "2026-08-20T00:09:46.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Response to anti-drugs campaign is overwhelming: Keralam Home Minister Ramesh Chennithala",
-    "desc": "As of the 76th day of the Operation Toofan campaign, 10,213 cases have been registered and 9,941 persons have been arrested; drugs worth more than ₹100 crore have been seized; no one will receive protection because of political affiliation, says Ramesh Chennithala",
-    "img": "https://th-i.thgim.com/public/incoming/das87f/article71359618.ece/alternates/LANDSCAPE_1200/80968_11_7_2026_20_2_5_1_7O3A2733.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/response-to-anti-drugs-campaign-is-overwhelming-says-keralam-home-minister/article71365495.ece",
-    "time": "2026-08-20T00:08:19.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sakshi Chaudhary",
     "desc": "Believes the Asian Games would be tougher than the Commonwealth Games and is up for the challenge; says the process of reducing from 54 to 51 kg was difficult but is happy that the move paid rich dividends",
@@ -484,33 +529,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/i-will-try-to-win-the-asian-games-gold-sakshichaudhary/article71366603.ece",
     "time": "2026-08-19T19:20:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Southern Zonal Council to meet near Mamallapuram on August 20",
-    "desc": "Union Home Minister Amit Shah will chair the meeting, with Tamil Nadu Chief Minister C. Joseph Vijay as vice chair; the Council, which includes all southern States and UTs, is a statutory body whose recommendations are advisory in nature",
-    "img": "https://th-i.thgim.com/public/incoming/8702wr/article71366635.ece/alternates/LANDSCAPE_1200/b826eb74-b4f5-416e-83ef-b72f4e376ece.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/southern-zonal-council-to-meet-near-mamallapuram-on-august-20/article71364759.ece",
-    "time": "2026-08-19T19:19:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "FIR registered against seven in Bengaluru",
-    "desc": "The FIR states that on August 18, between 12 noon and 2.30 p.m., one Santosh and six others gathered near the gate in front of the Corporation Commissioner’s office at Byatarayanapura and staged a protest.",
-    "img": "https://th-i.thgim.com/public/incoming/rzr77k/article71366631.ece/alternates/LANDSCAPE_1200/IMG_iStock-1249181745_2_1_209E4IOT.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/protest-over-hotel-licence-rejection-fir-registered-against-seven-in-bengaluru/article71364307.ece",
-    "time": "2026-08-19T19:17:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former wrestler arrested in Delhi opium case; claims drug use in ‘akhadas’",
-    "desc": "In a dramatic turn of events, Delhi Police have arrested Amit Sheoran, a former national-level wrestler, after he spent three years on the run from charges of opium smuggling. Sheoran's claims that fellow wrestlers resort to opium to enhance training efforts have stirred controversy. His identification as a key figure by another arrested supplier highlights the ongoing battle against organised crime in the region.",
-    "img": "https://static.toiimg.com/photo/msid-133355339,imgsize-79236.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/wrestling/former-wrestler-on-run-since-2023-arrested-in-delhi-opium-case-claims-drug-use-in-akhadas/articleshow/133355177.cms",
-    "time": "2026-08-19T17:34:35.000Z"
   },
   {
     "cat": "World",
@@ -541,39 +559,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "First in 43 years! Azan Awais matches unwanted Pakistan record in England Test",
-    "desc": "Pakistan's opening batsman, Azan Awais, faced an unfortunate fate as he was dismissed on the very first ball of the Test match by a brilliant lbw delivery from Ollie Robinson. Joining the ranks of elite England bowlers, Robinson's stellar performance continued, leading to him claiming four wickets. Pakistan struggled significantly, reaching just 150/7 by the tea break, after Robinson's dominant spell.",
-    "img": "https://static.toiimg.com/photo/msid-133353580,imgsize-97746.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/first-in-43-years-azan-awais-matches-unwanted-pakistan-record-in-england-test/articleshow/133353502.cms",
-    "time": "2026-08-19T16:24:15.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "'Speechless' Garret Tan silences Lakshya Sen and Delhi crowd at BWF World C'ships",
     "desc": "American teenager Garret Tan stunned Lakshya Sen, the 14th seed and the 2021 World Championships bronze medallist, in a thrilling three-set match at the Delhi World Championships. Overcoming crowd pressure, a head injury and Sen’s aggressive play, Tan triumphed 19-21, 21-19, 21-17, marking the biggest win of his career.",
     "img": "https://static.toiimg.com/photo/msid-133352866,imgsize-119005.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/speechless-garret-tan-silences-lakshya-sen-and-delhi-crowd-at-bwf-world-championships/articleshow/133352771.cms",
     "time": "2026-08-19T15:58:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India extend dominance over Pakistan with 5-3 thriller, seal next-round spot",
-    "desc": "In a thrilling Pool D showdown, India triumphed over Pakistan with a score of 5-3. With Harmanpreet Singh and Abhishek each netting two goals, India showcased their strength. Pakistan's Hannan Shahid and Sufyan Khan put up a valiant effort by scoring, yet India held their ground during the nail-biting final quarter, securing their advancement to the next stage of the World Cup.",
-    "img": "https://static.toiimg.com/photo/msid-133352371,imgsize-127833.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/hockey-world-cup-india-extend-dominance-over-pakistan-with-5-3-thriller-seal-next-round-spot/articleshow/133352075.cms",
-    "time": "2026-08-19T15:14:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Displaced by war, Yevheniia and Polina keep Ukraine's flag flying high",
-    "desc": "Ukrainian badminton players Yevheniia Kantemyr and Polina Buhrova were forced to flee their war-torn hometown of Kharkiv to continue their careers in Italy. Despite personal loss and displacement, they are competing at the BWF World Championships in New Delhi, proudly representing Ukraine and voicing strong opposition to Russian athletes' participation in sport.",
-    "img": "https://static.toiimg.com/photo/msid-133346623,imgsize-96297.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/badminton/homeless-but-not-broken-displaced-by-war-yevheniia-kantemyr-and-polina-buhrova-keep-ukraines-flag-flying-high/articleshow/133346589.cms",
-    "time": "2026-08-19T11:25:26.000Z"
   },
   {
     "cat": "Business",
@@ -628,15 +619,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/life-and-style/fashion/skims-is-coming-to-india-what-kim-kardashians-shapewear-empire-means-for-indias-booming-market/article71339823.ece",
     "time": "2026-08-19T07:51:01.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Indian refiners forced to buy oil at premium; Russian discounts vanish",
-    "desc": "The surge in available crude following the temporary truce had also increased the discounts offered on Russian and Venezuelan oil. Since then, the discount on Russian crude has largely disappeared, while the price reduction on Venezuelan barrels has narrowed substantially.",
-    "img": "https://static.toiimg.com/photo/msid-133339482,imgsize-845348.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/price-of-middle-east-conflict-indian-refiners-forced-to-buy-oil-at-premium-russian-discounts-vanish/articleshow/133339450.cms",
-    "time": "2026-08-19T06:20:43.000Z"
   },
   {
     "cat": "Business",
@@ -702,15 +684,6 @@ const newsData_en = [
     "time": "2026-08-18T16:15:51.000Z"
   },
   {
-    "cat": "World",
-    "title": "Can India extradite Sheikh Hasina under the 2013 treaty with Bangladesh?",
-    "desc": "Under Article 6 of the treaty, extradition may be refused if the offence is of a political character; Article 8 says either country can reject extradition if accusations have not been made in \"good faith\" or \"in the interest of justice\"",
-    "img": "https://th-i.thgim.com/public/incoming/p7k99h/article71359248.ece/alternates/LANDSCAPE_1200/Bangladesh-turnGK4GBQP2B.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/india-bangladesh-extradition-treaty-sheikh-hasina-extradition/article71359241.ece",
-    "time": "2026-08-18T15:32:47.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India needs stricter coal allocation implementation for fair treatment to power generators with adequate inventories",
     "desc": "India may not need another overhaul of its coal-allocation policy but it must stress on sharper implementation, accountability and provide differentiated treatment to producers who face constant shortages and benefit at the cost of the disciplined ones.",
@@ -718,15 +691,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/india-needs-stricter-coal-allocation-implementation-for-fair-treatment-to-power-generators-with-adequate-inventories/article71361246.ece",
     "time": "2026-08-18T15:13:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Khalifa' Twitter review: Prithviraj Sukumaran's intro impress",
-    "desc": "The much-anticipated movie 'Khalifa', starring Prithviraj Sukumaran, premiered in theaters on August 20, coinciding perfectly with the festive Onam season. Initial feedback from viewers on social media has been overwhelmingly positive, with particular mention of Prithviraj's captivating introduction and Jakes Bejoy's impressive score. However, some viewers expressed concerns over a predictable narrative in parts, making the film's ultimate success hinge on the impact of its second half.",
-    "img": "https://static.toiimg.com/photo/msid-133365988,imgsize-351203.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/khalifa-twitter-review-prithviraj-sukumarans-entry-sequence-and-jakes-bejoys-bgm-win-praise-as-an-onam-winner-but-mohanlal-starrer-faces-criticism-on-its-narration/articleshow/133325714.cms",
-    "time": "2026-08-18T14:51:58.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +862,41 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/gadgets/google-pixel-11-pixel-11-pro-pixel-11-pro-xl-and-pixel-11-pro-fold-launch-what-to-expect/article71331641.ece",
     "time": "2026-08-12T15:55:33.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
   }
 ];

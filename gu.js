@@ -1,12 +1,57 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "&amp;#039;મારા પપ્પા મારી માસી સાથે ભાગી ગયા&amp;#039;: દીકરીના સોશિયલ મીડિયા પર મોટા ખુલાસા",
+    "desc": "જ્યારે કોઈ વ્યક્તિ તમને દગો આપે ત્યારે એના ઘા રૂઝાવા બહુ જ સમય લાગે છે. એ તમને માનસિક રીતે તોડી નાખવા માટે પૂરતો છે. આવો જ એક ખુલાસો કર્યો છે એક દીકરીએ જેને કહ્યું છે કે મારા પપ્પા મારી માસીને લઈને ભાગી ગયા એ બાદનો મારી માતાનો સંઘર્ષ મારી આંખો સામે છે જાણી લો કોણ છે આ દીકરી જેને આ ખુલાસા કર્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/my-father-ran-away-with-my-aunt-jewelry-designer-opens-up-about-family-betrayal-and-her-mothers-inspiring-resilience-488249 ",
+    "time": "2026-08-20T09:16:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કોંગ્રેસ &amp;#039;વંદે માતરમ&amp;#039;ના પ્રથમ બે ફકરા જ ગાશે, પરંતુ કેમ? જાણો 1937ના એ પ્રસ્તાવ વિશે",
+    "desc": "રાષ્ટ્રગીત વંદે માતરમના તમામ 6 પદના ગાયનના આદેશ બાદ 15 ઓગસ્ટના રોજ કોંગ્રેસ હેડક્વાર્ટરમાં આયોજિત થયેલા સ્વતંત્રતા દિવસ સમારોહના એક કાર્યક્રમમાં સોનિયા ગાંધી આખુ રાષ્ટ્રગીત વગાડવા દરમિયાન એક કાર્યકર સાથે વાતચીત કરતા જોવા મળ્યા હતા અને ત્યારબાદ વિવાદે જન્મ લીધો હતો. આખરે કેમ ચર્ચામાં છે 1937નો એ પ્રસ્તાવ...ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/why-congress-will-sing-only-first-two-paragraph-of-vande-mataram-know-about-1937-resolution-488248 ",
+    "time": "2026-08-20T09:02:42.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "નસીબ હોય તો આવા! 5000 કિલો સોના-ચાંદી ભરેલું જહાજ મળ્યું, જાણી લો કોનું છે આ જહાજ",
+    "desc": "નસીબ હોય તો આવા, તમે અંદાજ પણ નહીં લગાવી શકો પણ દરિયામાંથી 5000 કિલો સોનું અને ચાંદી ભરેલું એક જહાજ મળી આવ્યું છે. આ ખજાનો બ્રિટનના રાજ પરિવારનો હતો. આશરે 400 વર્ષ પૂર્વે ડૂબેલા આ જહાજના અવશેષો મળી આવતાં હવે આ સોનું અને ચાંદીને બહાર કાઢવાની પ્રક્રિયા હાથ ધરાશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/royal-shipwreck-400-year-old-royal-shipwreck-found-with-5000-kg-of-gold-and-silver-blessing-of-burnt-island-488246 ",
+    "time": "2026-08-20T08:13:49.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "10માં ધોરણના બે વિદ્યાર્થીઓેએ પ્રિન્સિપાલને 27 વખત ચાકૂના ઘા ઝીંક્યા, મોત પહેલા મહિલાએ કોને કહ્યું હતું બાબુ?",
     "desc": "તેલંગણાના નાલગોન્ડા જિલ્લામાં હત્યા કેસમાં પોલીસને મોટો ખુલાસો કર્યો અને હત્યાના આરોપમાં બાબુ શબ્દના આધારે બે સગીરોની અટકાયત કરી. જાણો કઈ રીતે બાબુ શબ્દએ પોલીસને કરી મદદ?તેલંગણાના નલગોન્ડા જિલ્લાથી એક અત્યંત ચોંકાવનારો મામલો સામે આવ્યો છે જ્યાં એક મહિલા પ્રિન્સિપાલની હત્યા મામલે પોલીસે મોટો ખુલાસો કરીને જણાવ્યું કે કઈ રીતે બાબુ શબ્દથી ગૂંચવાયેલું કોકડું ઉકેલી શકાયુ. જાણો વિગતો.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/two-10th-students-accused-of-stabbing-principal-27-times-how-police-solved-the-mystery-488239 ",
-    "time": "2026-08-20T06:35:09.000Z"
+    "time": "2026-08-20T08:09:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ધુરંધર અને એનિમલ ફિલ્મ કરતાં પણ ખતરનાક છે યશની ફિલ્મ ટોક્સિક, એક્શન અને બોલ્ડ સીનમાં 5 સ્ટાર રેટિંગ",
+    "desc": "યશની ફિલ્મ ટોક્સિક રિલીઝ થાય તે પહેલા જ ઈંટરનેટ પર છવાઈ ગઈ છે. ટોક્સિક ફિલ્મ એનિમલ અને ધુરંધર કરતાં પણ એક્શન અને બોલ્ડ સીનમાં આગળ છે. ડાર્ક થીમ અને બોલ્ડ કંટેન્ટના કારણે ફિલ્મને યૂકે સેંસર બોર્ડે 18 પ્લસ સર્ટિફિકેટ આપ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/toxic-movie-uk-censor-board-toxic-movie-run-time-18-plus-certificate-488245 ",
+    "time": "2026-08-20T08:08:53.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "USમાં થયેલી એક બેઠકને લીધે ભારતમાં એક ઝટકે સોના-ચાંદીના ભાવમાં બંપર વધારો, જાણો આજનો લેટેસ્ટ રેટ",
+    "desc": "અમેરિકામાં એક બેઠક થઈ અને તેની અસર ભારતમાં સોના અને ચાંદીના ભાવમાં જોવા મળી રહી છે. આજે સોના અને ચાંદીના ભાવમાં મોટો વધારો જોવા મળ્યો છે. જો તમે પણ લેવાનું વિચારતા હોવ તો ફટાફટ વાયદા બજાર અને રિટેલ બજારના રેટ ખાસ ચેક કરો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/sudden-big-jump-in-gold-and-silver-prices-today-check-mcx-ibja-latest-rates-488244 ",
+    "time": "2026-08-20T07:53:09.000Z"
   },
   {
     "cat": "Politics",
@@ -306,15 +351,6 @@ const newsData_gu = [
     "time": "2026-08-18T06:45:12.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "BJPના યુવા મોરચાના અધ્યક્ષ બન્યા ગુજરાતના સાંસદ, દેશભરના Gen-Zને જોડવાની મોટી જવાબદારી, જાણો કોણ છે હેમાંગ જોશી",
-    "desc": "ભારતીય જનતા પાર્ટીએ નવી રાષ્ટ્રીય કારોબારીની જાહેરાત કરી છે અને તેજસ્વી સૂર્યાની જગ્યાએ હેમાંગ જોશીને BJYMના નવા રાષ્ટ્રીય અધ્યક્ષ તરીકે સ્થાન આપ્યું છે. યુવાનોને ભાજપ સાથે જોડવાનું કામ તેમને સોંપવામાં આવશે. સવાલ એ છે કે તેઓ Gen-Zને પક્ષ સાથે જોડવામાં કેટલા સફળ થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/gujarat-mp-becomes-bjps-yuva-morcha-president-big-responsibility-to-connect-gen-z-know-who-hemang-joshi-is-488021 ",
-    "time": "2026-08-18T03:35:32.000Z"
-  },
-  {
     "cat": "World",
     "title": "ટ્રમ્પની ધમકી બાદ વધુ એક યુદ્ધના ભણકારા ! જાણો આ વખતે કોણ હશે આમને સામને",
     "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે કહ્યું છે કે જો ઓમાન હોર્મુઝ સ્ટ્રેટમાં ઈરાની જહાજોના નાકાબંધીમાં દખલ કરશે તો તેના પર બોમ્બમારો કરશે. આ ધમકીથી મિડલ ઈસ્ટમાં ફરી એકવાર તણાવ વધી ગયો છે. ટ્રમ્પની ધમકી એવા સમયે આવી છે, જ્યારે ઈરાન અને ઓમાન હોર્મુઝ સ્ટ્રેટ અંગે ડીલ પર પહોંચવાની આરે છે.",
@@ -439,15 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/ind-vs-sl-1st-test-cheteshwar-pujara-blames-kl-rahul-for-yashasvi-jaiswal-run-out-487908 ",
     "time": "2026-08-16T10:18:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "WTC પોઈન્ટ ટેબલમાં મોટી ઉથલપાથલ... ટીમ ઈન્ડિયાને રેસમાં ટકી રહેવા હવે શું કરવું પડશે ?",
-    "desc": "ડાર્વિન ટેસ્ટમાં મળેલી હાર બાદ ઓસ્ટ્રેલિયા સામે હવે શ્રેણી બચાવવાનો પડકાર છે, જ્યારે બાંગ્લાદેશ બીજા મોટા અપસેટ પર નજર રાખશે. બંને ટીમો વચ્ચે બીજી ટેસ્ટ મેચ 22 ઓગસ્ટથી મેકેના ગ્રેટ બેરિયર રીફ એરેના ખાતે રમાશે. પ્રથમ ટેસ્ટમાં મળેલી જીતથી બાંગ્લાદેશને શ્રેણીમાં લીડ મળી છે અને સાથે જ WTC ફાઇનલ માટે પણ દાવેદારી જાળવી રાખી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/wtc-points-table-update-after-bangladesh-beat-australia-india-wtc-point-487898 ",
-    "time": "2026-08-16T09:32:11.000Z"
   },
   {
     "cat": "Tech",
@@ -673,23 +700,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/us-president-donald-trump-shocking-revelation-about-switching-planes-in-turkey-487470 ",
     "time": "2026-08-12T04:43:50.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ભારતીયો માટે ખુશીના સમાચાર, હવે UAEના વિઝા મળશે બિલકુલ ફ્રી ! જાણી લો શું છે નિયમ",
-    "desc": "અબુ ધાબીના કલ્ચર એન્ડ ટુરિઝમ ડિપાર્ટમેન્ટે એક નવો પ્રોગ્રામ શરૂ કર્યો છે. આ પહેલ હેઠળ ભારતીય પાસપોર્ટ ધારકોને UAEની મુલાકાત લેવા માટે મફત વિઝા મળશે. ત્યારે આ અંગેનો નિયમ અને પ્રોસેસ શું છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/indians-can-get-free-3-month-uae-visa-check-eligibility-and-rules-487416 ",
-    "time": "2026-08-11T12:07:34.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "બાબા વેંગાની બે ભવિષ્યવાણીઓ પડી સાચી, 2026માં ફક્ત ચાર મહિના બાકી, શું બાકીની ત્રણ પણ પડશે સાચી?",
-    "desc": "બાબા વેંગાની ભવિષ્યવાણીઓ ફક્ત તેમને ફોલો કરનારા જ નહીં પરંતુ સામાન્ય લોકોમાં પણ જિજ્ઞાસાનો વિષય બને છે. તેમના સમર્થકો કહે છે કે તેમની બે ભવિષ્યવાણીઓ પહેલાથી જ સાચી પડી છે, અને ત્રણ હજી આવવાની બાકી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/two-of-baba-vengas-predictions-came-true-only-four-months-left-in-2026-will-the-remaining-three-also-come-true-487370 ",
-    "time": "2026-08-11T05:07:40.000Z"
   }
 ];

@@ -1,5 +1,32 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "৮ বছর পর ফিরল সেই ম্যাজিক! লাদাখের রাস্তায় দেব-শুভশ্রীর নাচ, নস্ট্যালজিয়ায় বুঁদ",
+    "desc": "দেব-শুভশ্রী জুটি দীর্ঘ আট বছর পর ‘দেশু ৭’ ছবির মাধ্যমে আবার বড় পর্দায় ফিরছেন। সম্প্রতি এই ছবির শ্যুটিং শেষ হওয়ায় সেটজুড়ে উদযাপনে মেতে ওঠেন দুই তারকা। কেক কাটার পর লাদাখের রাস্তায় ‘মালা রে’-র ছন্দে পা মিলিয়ে দেব ও শুভশ্রী সেট মাতিয়ে তোলেন। ভিডিয়ো সামনে আসতেই...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/dev-subhashree-desu-7-shooting-wrap-up-danced-on-mala-re_667658.html ",
+    "time": "2026-08-20T09:28:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "সাক্ষী অনন্য সুন্দর সবুজ ভূস্বর্গের চেনাব, বিশ্বের উচ্চতম রেলসেতু দিয়ে 100 Kmph গতিতে ছুটল গর্বের Vande Bharat",
+    "desc": "বিশ্বের উচ্চতম রেলসেতু চেনাব ব্রিজ দিয়ে 100 Kmph গতিতে ছুটল Vande Bharat! অনুমোদিত গতিসীমা বাড়ার ফলে কাটরা-বানিহাল রুটে যাত্রার সময় কমবে এবং কৌশলগত ভাবে গুরুত্বপূর্ণ এই রেল করিডোরে ট্রেন পরিচালনার দক্ষতাও বৃদ্ধি পাবে বলেও আশা করা হচ্ছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/vande-bharat-crosses-worlds-highest-chenab-bridge-at-nearly-100-kmph_667627.html ",
+    "time": "2026-08-20T07:27:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "৪ মাসে ২২ জনকে ফাঁসি! 'আতঙ্কে' বিচারকের আদালত থেকে সরল ১০০ খুনের মামলা",
+    "desc": "ফাস্ট-ট্র্যাক আদালতের বিচারক রবি কুমার দিবাকর মাত্র চার মাসে ১০ মামলায় ২২ জনকে মৃত্যুদণ্ড দিয়েছেন। এই চরম রায়ের ফলে আইনজীবী ও বিচারপ্রার্থীদের মধ্যে তীব্র আতঙ্ক তৈরি হয়। পরিস্থিতি নিয়ন্ত্রণে আনতে বিচারকের বেঞ্চ থেকে প্রায় ১০০ বিচারাধীন খুনের মামলা অন্য আদালতে স্থানান্তরিত করা হয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/100-murder-cases-shifted-from-up-judge-who-sentenced-22-to-death-in-4-months_667621.html ",
+    "time": "2026-08-20T06:43:52.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "'ছয় মারলেই তোমাকে IPL খেলাব', Live TV-তে যশস্বীর টোপ! প্রলোভনে পা দিয়েই শ্রীলঙ্কার স্টার...",
     "desc": "যশস্বী জয়সওয়াল চালাকি করেই ডিকওয়েলার ফোকাস এমন ঘুরিয়ে দিলেন যে, শেষপর্যন্ত শ্রীলঙ্কার স্টার উইকেটই ছুড়ে দিয়ে এলেন। জয়ের জন্য শ্রীলঙ্কার ২৮৮ রানের প্রয়োজন ছিল। কিন্তু যশস্বীর প্ররোচনায় পা দিয়েই বড় শট খেলতে গিয়েই ডিকওয়েলা মাত্র ১০ রানে আউট হয়ে যান।",
@@ -144,15 +171,6 @@ const newsData_bn = [
     "time": "2026-08-18T12:20:28.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Zee Media-র সাফল্যের গল্প: প্রথম কোয়ার্টারে ফলাফলের পর CEO রক্তিম দাস জানালেন কোম্পানির ভবিষ্যৎ রূপরেখা",
-    "desc": "QoQ আয় ২১% বৃদ্ধি আর EBITDA মুনাফায় ফেরা! Zee Media-র দুর্দান্ত পারফর্ম্যান্সের পর আগামী দিনের ব্লু-প্রিন্ট ঠিক কী? এক্সক্লুসিভ আড্ডায় Zee Media-র সিইও রক্তিম দাস তুলে ধরলেন 'Digital Brain', AI নিউজরুম, 'Zee Bharat'-এর রিলঞ্চ এবং WION-এর ভবিষ্যৎ পরিকল্পনা।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/zee-media-zmcl-q1-results-future-plans-ceo-raktim-das_667405.html ",
-    "time": "2026-08-18T12:18:36.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ক্যাটরিনার ‘নো-কিসিং’ রুল ভেঙেছিল হৃতিকের জন্যেই! চাঞ্চল্যকর তথ্য ফাঁস করলেন জোয়া",
     "desc": "বলিউডের জনপ্রিয় ছবি ‘জিন্দেগি না মিলেগি দোবারা’-তে ক্যাটরিনা কাইফ তাঁর দীর্ঘদিনের অন-স্ক্রিন কিসিং নিয়ম ভেঙেছিলেন। কিন্তু ঠিক কী এমন পরিস্থিতি তৈরি হয়েছিল, যার কারণে প্রথমবার চুম্বনের দৃশ্যে রাজি হলেন অভিনেত্রী? পরিচালক জোয়া আখতারের সেই গোপন ও চমকপ্রদ তথ্য জানলে আপনার চোখ কপালে উঠবে!",
@@ -160,15 +178,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/why-katrina-kaif-agreed-to-first-on-screen-kiss-with-hrithik-roshan-in-znmd_667397.html ",
     "time": "2026-08-18T11:44:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "রাজ্য সরকারি কর্মীদের বকেয়া DA নিয়ে বিরাট আপডেট: কোর্টরুমে তুমুল উত্তেজনা, ক্ষুব্ধ আদালত-- বাকি টাকা কবে? জেনে নিন",
-    "desc": "পিএফ অ্যাকাউন্টে দু’বছরের ‘লক-ইন পিরিয়ড’ সংক্রান্ত তথ্য শুনে চরম অসন্তোষ প্রকাশ করেন বিচারপতি মিশ্র। তিনি জানতে চান, 'লক-ইন পিরিয়ড এল কোথা থেকে? আমাদের রায়ে তো এমন কোনও শর্তের কথা বলা হয়নি।' এই বিষয়ে সলিসিটর জেনারেল তুষার মেহতা সময় চেয়ে জানান যে, বিষয়টি খতিয়ে না দেখে তিনি এখনই মন্তব্য করতে পারছেন না।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/supreme-court-da-hearing-bengal-claims-65-percent-arrears-paid-employees-allege-massive-deprivation-and-illegal-lock-in_667386.html ",
-    "time": "2026-08-18T11:02:03.000Z"
   },
   {
     "cat": "World",
@@ -331,15 +340,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/trisha-shares-cryptic-posts-after-vijays-wife-withdraws-divorce-plea-drama-at-this-age_666624.html ",
     "time": "2026-08-12T08:05:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "আন্তর্জাতিক মঞ্চে রবীন্দ্র-দর্শন! ভারত, সিঙ্গাপুর ও আমেরিকার যৌথ উদ্যোগে আসছে ‘দ্য টেগোর ট্রিলজি’",
-    "desc": "রবীন্দ্রনাথ ঠাকুরের কালজয়ী নৃত্যনাট্য 'শাপমোচন', 'শ্যামা' ও 'মায়ার খেলা' অবলম্বনে সিঙ্গাপুর, ভারত ও যুক্তরাজ্যের যৌথ উদ্যোগে নির্মিত হচ্ছে আন্তর্জাতিক চলচ্চিত্র প্রকল্প ‘দ্য টেগোর ট্রিলজি’। পরিচালক অরিন্দম দে ও সুরকার বিক্রম ঘোষের সৃজনশীলতায় 'Soul Bound', 'Soul Lost' ও 'Soul Found'—এই তিন ইংরেজি ছবির মাধ্যমে ঠাকুরের বিশ্বজনীন মানবতাবাদী দর্শনকে মে ২০২৭-এ আন্তর্জাতিক পর্দায় তুলে ধরা হবে",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/three-english-films-with-international-cast-music-tagores-dance-drama-the-tagore-trilogy_666619.html ",
-    "time": "2026-08-12T07:24:39.000Z"
   },
   {
     "cat": "Sports",
