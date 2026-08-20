@@ -1,7 +1,52 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "আহা কী দেখিলাম, জন্ম জন্মান্তরেও ভুলিব না! মহাকাশ থেকে তোলা মহাকুম্ভের স্বর্গীয় দৃশ্য! আশ্চর্য কী দেখা গেল সেই ছবিতে?",
+    "desc": "মহাকাশ থেকে তোলা ছবিটি শেয়ার করেছেন নাসা-র মহাকাশচারী ডন পেটিট। আন্তর্জাতিক মহাকাশ স্টেশন থেকে নেওয়া ২০২৫ সালের প্রয়াগ মহাকুম্ভ মেলার এই ছবিটিকে তিনি তাঁর তোলা 'বেস্ট শট' বা সেরা ছবি বলে অভিহিত করেছেন। সত্যিই অসাধারণ সে ছবি!",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/maha-kumbh-image-from-space-astronaut-shares-breathtaking-image-of-prayagraj-maha-kumbh-2025-taken-from-space_667694.html ",
+    "time": "2026-08-20T12:20:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ও আমাকে ঠকিয়েছে, তাই মেরে দিলাম! স্ত্রীর অফিসের সামনে গিয়ে গুলিতে ঝাঁঝরা করল ব্যাংককর্মী, তারপর হাড়হিম হোয়াটস অ্যাপ স্টেটাস",
+    "desc": "এরপর তিনি হোয়াটসঅ্যাপ স্ট্যাটাসে লেখেন, স্ত্রী প্রতারণা করায় তিনি তাঁকে খুন করেছেন এবং এখন বোনকেও মেরে নিজে আত্মহত্যা করবেন। বাড়িতে ফিরে তিনি তাঁর মানসিক প্রতিবন্ধী বোন শিবাকে গুলি করেন এবং শেষে নিজে গুলি চালিয়ে আত্মহত্যা করেন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/lucknow-sbi-employee-kills-wife-and-sister-posts-whatsapp-status-before-suicide_667687.html ",
+    "time": "2026-08-20T10:52:28.000Z"
+  },
+  {
     "cat": "Entertainment",
-    "title": "৮ বছর পর ফিরল সেই ম্যাজিক! লাদাখের রাস্তায় দেব-শুভশ্রীর নাচ, নস্ট্যালজিয়ায় বুঁদ",
+    "title": "বাবার খোঁজে শহরে এসে অচেনা প্রতারকের সঙ্গ! প্রকাশ্যে 'কেয়ার অফ জার্নি'র নতুন গল্প",
+    "desc": "গ্রামের এক ছেলে নিখোঁজ বাবার সন্ধানে কলকাতায় এসে এক একাকী প্রতারকের মুখোমুখি হয়, যা তাঁদের মধ্যে এক অপ্রত্যাশিত ও আবেগঘন সম্পর্কের জন্ম দেয়। প্রতীক সরকার পরিচালিত ‘কেয়ার অফ জার্নি’ ছবিতে অভিনয়ে রয়েছেন বনি সেনগুপ্ত, দর্শনা বণিক ও ত্রিশাঞ্জিত চৌধুরী।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/c/o-a-journey-explores-an-unexpected-bond-between-a-village-boy-and-a-lonely-conman-featuring-bonny-sengupta-darshana-banik_667677.html ",
+    "time": "2026-08-20T10:43:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'গাড়ির ডানদিকটা...'! রাতের কলকাতায় বেপরোয়া লরির ধাক্কা জয়জিতের গাড়িতে, কী ঘটেছিল?",
+    "desc": "রাতের কলকাতায় মারাত্মক দুর্ঘটনার কবলে পড়ল টলিউড অভিনেতা জয়জিৎ বন্দ্যোপাধ্যায়ের গাড়ি। গতিবেগে আসা বেপরোয়া এক লরির ধাক্কায় ক্ষতিগ্রস্থ হয় ডান দিক। মৃত্যুর মুখ থেকে অল্পের জন্য রক্ষা পেলেও, ঘটনার পর পুলিসের পদক্ষেপে জন্ম নিয়েছে নতুন বিতর্ক।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/actor-joyjit-banerjee-met-fatal-accident-tollygunge-police-complaint_667666.html ",
+    "time": "2026-08-20T10:07:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "জেলেই অসুস্থ, হাসপাতালে আনতেই শেষ! প্রয়াত ১৯৮৪ দাঙ্গার যাবজ্জীবন সাজাপ্রাপ্ত সজ্জন কুমার",
+    "desc": "২০২৫ সালের ফেব্রুয়ারিতে রাউস অ্যাভিনিউ আদালত সরস্বতী বিহার এলাকায় বাবা ও ছেলেকে জীবন্ত পুড়িয়ে মারার মামলায় তাঁকে আবারও যাবজ্জীবন কারাদণ্ড দেয়। যদিও চলতি বছরের জানুয়ারিতে জনকপুরী ও বিকাশপুরীর দাঙ্গা সংক্রান্ত মামলায় প্রমাণের অভাবে তিনি খালাস পেয়েছিলেন।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/1984-anti-sikh-riots-convict-sajjan-kumar-dies-at-80-in-delhi-hospital_667664.html ",
+    "time": "2026-08-20T09:51:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "৮ বছর পর ফিরল সেই ম্যাজিক! লাদাখের রাস্তায় দেব-শুভশ্রীর নাচ, নস্টালজিয়ায় বুঁদ",
     "desc": "দেব-শুভশ্রী জুটি দীর্ঘ আট বছর পর ‘দেশু ৭’ ছবির মাধ্যমে আবার বড় পর্দায় ফিরছেন। সম্প্রতি এই ছবির শ্যুটিং শেষ হওয়ায় সেটজুড়ে উদযাপনে মেতে ওঠেন দুই তারকা। কেক কাটার পর লাদাখের রাস্তায় ‘মালা রে’-র ছন্দে পা মিলিয়ে দেব ও শুভশ্রী সেট মাতিয়ে তোলেন। ভিডিয়ো সামনে আসতেই...",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
@@ -117,15 +162,6 @@ const newsData_bn = [
     "time": "2026-08-19T04:44:21.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘কেন্দ্রীয় বিদ্যালয়’ মার্জার নয়, এবার প্রতিবাদে ফুঁসে উঠল ‘জেন আলফা’ পড়ুয়ারা!",
-    "desc": "মোনস্ট্রেশন মাল্টিপারপাসকে কেন্দ্রীয় বিদ্যালয়ের সঙ্গে যুক্ত করার প্রস্তাবের বিরুদ্ধে ভোপালে তীব্র প্রতিবাদ জানিয়েছে ‘জেন আলফা’ পড়ুয়ারা। তাঁদের আশঙ্কা, এই সিদ্ধান্তের ফলে স্কুলের পরীক্ষামূলক শিক্ষা ও উদ্ভাবনী স্বকীয়তা নষ্ট হবে। অবিলম্বে এই মার্জার প্রস্তাব প্রত্যাহারের দাবিতে প্রিন্সিপালের কাছে স্মারকলিপি জমা দিয়ে বৃহত্তর আন্দোলনের হুঁশিয়ারি দিয়েছেন তাঁরা।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/gen-alpha-protest-in-bhopal-regional-school-students-oppose-kendriya-vidyalaya-merger_667451.html ",
-    "time": "2026-08-19T04:19:53.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "কেন 'ন্যাড়া' হয়ে তিরুপতিতে নয়নতারা? মাথা মুণ্ডনের ভাইরাল ছবির আসল রহস্য ফাঁস",
     "desc": "দাবি করা হচ্ছে যে অভিনেত্রী নয়নতারা তাঁর আসন্ন ছবি ‘টক্সিক’-এর মুক্তির আগে তিরুমালা মন্দিরে গিয়ে মাথা ন্যাড়া করেছেন। তবে তথ্য যাচাই করে জানা গিয়েছে যে, গত এপ্রিল মাসের একটি পুরোনো মন্দির দর্শনের ছবি ডিজিটাল কারসাজির মাধ্যমে এডিট করে এই ভুয়ো দাবি ছড়ানো হয়েছে।",
@@ -151,15 +187,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/snakes-in-shah-rukh-khans-house-snakes-in-mannat-8-foot-snake-rescued-from-shah-rukh-khans-mannat_667415.html ",
     "time": "2026-08-18T14:08:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'সবুজ ফাইল' ও I-PAC মামলায় আরও বড় বিপদে মমতা: সুপ্রিম কোর্টে ধুন্ধুমার, মেনকা গুরুস্বামীকে তোপ, বিচারপতিরা বললেন বড় কথা",
-    "desc": "এসভি রাজু আরও বলেন, সরকার বদল হয়েছে বলেই মূল অভিযোগের প্রাসঙ্গিকতা হারিয়ে যায় না; অপরাধ সংঘটনের সময়কার পরিস্থিতি বিবেচনা করেই আদালতকে সিদ্ধান্ত নিতে হবে। পরিবর্তিত রাজনৈতিক ও প্রশাসনিক প্রেক্ষাপটে মামলার চূড়ান্ত নিষ্পত্তির রূপরেখা কী হবে, তা নিয়ে বিস্তারিত শুনানি জারি রেখেছে শীর্ষ আদালত।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/ipac-raid-obstruction-case-supreme-court-witnesses-fierce-arguments-over-cbi-probe-and-regime-change-in-bengal_667410.html ",
-    "time": "2026-08-18T13:08:38.000Z"
   },
   {
     "cat": "World",
@@ -313,42 +340,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/us-lawmakers-urge-marco-rubio-to-press-pakistan-over-imran-khan-and-bushra-bibis-jail-conditions_666789.html ",
     "time": "2026-08-13T09:19:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "মহানায়ক উত্তম কুমারের জন্ম শতবর্ষে কলকাতায় বিশেষ প্রদর্শনী: 'উত্তম",
-    "desc": "মহানায়ক উত্তম কুমারের জন্ম শতবর্ষ উপলক্ষে কলকাতার আইসিসিআর-এর যামিনী রায় গ্যালারিতে আগামী ২০ থেকে ২৪ আগস্ট, ২০২৬ পর্যন্ত আয়োজিত হতে চলেছে বিশেষ প্রদর্শনী 'উত্তম - দ্যা মহানায়ক'। বিশিষ্ট সংগ্রাহক সুদীপ্ত চন্দের দুই দশকের দুর্লভ পোস্টার, বুকলেট, রেকর্ড ও ছবির এক অপূর্ব সম্ভার নিয়ে এই আয়োজন নতুন প্রজন্মকে সমৃদ্ধ করবে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/uttam-kumar-centenary-exhibition-sudipta-chanda-iccr-kolkata-2026_666707.html ",
-    "time": "2026-08-12T13:38:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'মিষ্টির দোকানে গিয়ে খালি পেটে ফিরে আসা অপরাধ', স্ত্রীর পরকীয়া তোপে অকপট গোবিন্দা",
-    "desc": "নব্বইয়ের দশকের পরকীয়ার অভিযোগ থেকে নবাগত কোমলের সঙ্গে নাম জড়ানো— বিতর্কের তীব্র আগুনের মাঝেই ‘মিষ্টির দোকান’ তত্ত্ব টেনে নতুন ধোঁয়াশা তৈরি করলেন গোবিন্দা। সহ-অভিনেত্রীদের প্রেম, প্রয়াত মায়ের প্রশ্রয় আর স্ত্রী সুনীতার ক্ষোভের মাঝে অভিনেতার এই বিস্ফোরক স্বীকারোক্তি কি বহুদিনের দাম্পত্য ভাঙনের ইঙ্গিত, নাকি নেপথ্যে রয়েছে অন্য কোনও গল্প?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/govinda-accepts-wife-sunita-ahujas-cheating-claims-sad-if-you-exit-a-mithai-shop-hungry_666646.html ",
-    "time": "2026-08-12T09:32:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "বিজয়-পত্নী ডিভোর্সের মামলা তুলে নিতেই তৃষার বিস্ফোরক পোস্ট! কাকে নিশানা?",
-    "desc": "বিজয় ও সঙ্গীতার ২৬ বছরের দাম্পত্য ভাঙার আইনি লড়াই হঠাৎ থমকে গেলেও আসল রহস্য যেন আরও ঘনীভূত হল। সঙ্গীতা মামলা ফিরিয়ে নিতেই তৃশার এক বিস্ফোরক বার্তা— “এই বয়সে নাটক লজ্জাজনক!” এটি কি শুধুই কোনও ক্ষোভ, নাকি আইনি সমাধানের নেপথ্যে ঘনিয়ে উঠছে সম্পর্কের আরও বড় কোনও ঝড়?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/trisha-shares-cryptic-posts-after-vijays-wife-withdraws-divorce-plea-drama-at-this-age_666624.html ",
-    "time": "2026-08-12T08:05:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "বন্যা কেড়েছে ভিটেমাটি, থামেনি অনুশীলন! সোনার পদক গলায় তাঁবুতে ফিরলেন ক্যারাটে-কন্যা",
-    "desc": "গলায় জ্বলজ্বল করছে জাতীয় ক্যারাটে চ্যাম্পিয়নশিপের সোনা, অথচ মাথার ওপর নেই এক চিলতে ছাদ! বন্যায় ভিটেমাটি ও আয়ের সম্বল হারিয়ে বাঁধের ওপর প্লাস্টিকের তাঁবুতেই ঠাঁই হয়েছে অসমের ১৭ বছরের মেয়ে জনমনির। চরম অভাব ও প্রতিকূলতার সঙ্গে লড়াই করে আনা দেশের এই গৌরবও মুছতে পারল না তাঁর গৃহহীন হওয়ার নির্মম যন্ত্রণা।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/sports/assam-girl-wins-national-karate-gold-returns-home-to-family-living-in-tent_666481.html ",
-    "time": "2026-08-11T09:18:46.000Z"
   },
   {
     "cat": "Business",

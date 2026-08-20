@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "How did Babar Azam ruin Pakistan's fast-bowling culture? Former cricketer explains",
+    "desc": "Pakistan have a history of producing legendary fast bowlers. Their former captain Imran Khan is one of them, while his bowling partners, Wasim Akram and Waqar Younis, formed a deadly trio. Later in the years,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/how-did-babar-azam-ruin-pakistan-s-fast-bowling-culture-former-cricketer-explains-2026-08-20-1051956",
+    "time": "2026-08-20T11:51:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Diamond Harbour FC out of ISL 2026-27 as AIFF confirm 13 teams for next season",
+    "desc": "The All India Football Federation has confirmed that 13 clubs will compete in the 2026-27 Indian Super League season. The tournament will be played in a double round-robin competition, that is, on a home-and-away basis,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/diamond-harbour-fc-out-of-isl-2026-27-as-aiff-confirm-13-teams-for-next-season-2026-08-20-1051947",
+    "time": "2026-08-20T11:02:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gayatri Gopichand, Treesa Jolly stun Japanese pair, move to quarters of BWF World Championship",
+    "desc": "Treesa Jolly and Gayatri Gopichand moved into the quarter-finals of the BWF World Championships after defeating seventh seeds Rin Iwanaga and Kie Nakanishi of Japan 21-16, 21-12 at the Indira Gandhi Stadium in New Delhi....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/gayatri-gopichand-treesa-jolly-stun-japanese-pair-move-to-quarters-of-bwf-world-championship-2026-08-20-1051938",
+    "time": "2026-08-20T10:05:01.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Dinesh Karthik points out worrying signs for India despite dominant win in first Sri Lanka Test",
     "desc": "The stage is set for the second and final Test of the ongoing series between India and Sri Lanka. The first Test of the series was dominantly won by the Indian team as they registered...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/josh-tongue-and-ollie-robinson-split-headingley-ball-in-half-after-spectacular-day-1-against-pakistan-2026-08-20-1051889",
     "time": "2026-08-20T02:40:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Joe Root scrips history, surpasses Jacques Kallis in elite list in first Test against Pakistan",
-    "desc": "England and Pakistan kicked off the first Test of their ongoing series by taking on each other on August 19 for the first day. The two sides met at Headingley in Leeds for the clash;...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/joe-root-scrips-history-surpasses-jacques-kallis-in-elite-list-in-first-test-against-pakistan-2026-08-20-1051885",
-    "time": "2026-08-20T01:34:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India roar past Pakistan 5-3 in Hockey World Cup 2026, book top-8 spot in thrilling clash",
-    "desc": "The Indian men's hockey team delivered when it mattered most, defeating arch-rivals Pakistan 5-3 in a high-voltage Pool D clash at the Hockey World Cup 2026 in Amstelveen. After suffering a setback against England in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/hockey/india-roar-past-pakistan-5-3-in-hockey-world-cup-2026-book-top-8-spot-in-thrilling-clash-2026-08-19-1051868",
-    "time": "2026-08-19T14:59:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lakshya Sen suffers shocking defeat to 18-year-old, knocked out of BWF World Championship",
-    "desc": "Lakshya Sen's BWF World Championships campaign ended in the men's singles Round of 32 after Garrett Tan produced a late surge to defeat the Indian shuttler in New Delhi. The contest went to a deciding...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/lakshya-sen-suffers-shocking-defeat-to-18-year-old-knocked-out-of-bwf-world-championship-2026-08-19-1051853",
-    "time": "2026-08-19T12:53:34.000Z"
   }
 ];
