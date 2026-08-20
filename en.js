@@ -1,5 +1,113 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Manav Suthar scripts history, equals 93-year-old Indian Test record",
+    "desc": "In a stunning debut, Manav Suthar has made history as the first spinner to secure five wickets in both his first home and away Tests, a remarkable achievement not seen since Mohammad Nisar in 1933. At just a young age, he also became the youngest Indian to claim ten wickets in a single Test match, eclipsing Harbhajan Singh's previous record.",
+    "img": "https://static.toiimg.com/photo/msid-133361373,imgsize-81956.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/manav-suthar-scripts-history-equals-93-year-old-record-after-stunning-sri-lanka-test-show/articleshow/133361364.cms",
+    "time": "2026-08-20T00:47:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Demon Hunter sues over 'KPop Demon Hunters', claims trademark confusion",
+    "desc": "Christian metal band Demon Hunter has filed a trademark lawsuit alleging \"substantial confusion\" between their brand and the streaming hit \"KPop Demon Hunters,\" citing fans who mistakenly bought concert tickets and industry contacts who mixed up the two. Here's what the lawsuit claims and how the two groups differ.",
+    "img": "https://static.toiimg.com/photo/msid-133361363,imgsize-126135.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/christian-metal-band-demon-hunter-files-trademark-lawsuit-against-streaming-giant-over-animated-film-kpop-demon-hunters-claims-confusion-over-music-shows-and-merchandise/articleshow/133361332.cms",
+    "time": "2026-08-20T00:42:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Prince Harry and Meghan Markle to move back to the UK",
+    "desc": "Reports suggest that Prince Harry and Meghan Markle are set to visit the United Kingdom this month. Their children, Archie and Lilibet, are anticipated to start school in Britain soon. The couple plans to reside in a private home rather than any royal estate. King Charles has been made aware and is reportedly supportive of their plans.",
+    "img": "https://static.toiimg.com/photo/msid-133361357,imgsize-214405.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/prince-harry-and-meghan-markle-are-shifting-to-the-uk-after-6-years-archie-and-lilibet-to-start-school-next-month-report/articleshow/133361352.cms",
+    "time": "2026-08-20T00:39:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'DC' BO day 13: Lokesh Kanagaraj's film earns Rs 1.56 crore",
+    "desc": "DC's daily earnings dropped on its thirteenth day of theatrical release. The film collected an estimated Rs 1.56 crore India net on Wednesday. Its India net total reached Rs 60.13 crore after thirteen days. The Tamil version contributed more to the domestic collection than Telugu. Worldwide gross collection stands at Rs 90.73 crore, nearing the Rs 100 crore milestone.",
+    "img": "https://static.toiimg.com/photo/msid-133361335,imgsize-253081.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/dc-box-office-collections-day-13-lokesh-kanagarajs-film-earns-rs-1-56-crore-worldwide-gross-reaches-rs-90-73-crore/articleshow/133361323.cms",
+    "time": "2026-08-20T00:33:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Batwara 1947’ box office collection day 6: Sunny's film likely to suffer loss of Rs 80 cr",
+    "desc": "Sunny Deol's historical drama 'Batwara 1947' has disappointed at the box office. The film collected only around Rs 32 crore net in India. Its earnings dropped below two crore rupees on the first Wednesday. Mounted on a reported budget of one hundred twenty crore rupees, the film is under pressure. The movie has recovered only about twenty-five percent of its reported budget.",
+    "img": "https://static.toiimg.com/photo/msid-133361326,imgsize-191469.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/batwara-1947-box-office-collection-day-6-the-sunny-deol-starrer-disappoints-may-suffer-a-loss-of-rs-80-crore-as-it-nets-only-rs-32-crore-by-the-end-of-six-days-awarapan-2-is-a-hit/articleshow/133361307.cms",
+    "time": "2026-08-20T00:31:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Five minutes, 28 covers, 300 tyres: How Galle's 130-member groundstaff beat the rain",
+    "desc": "The rain may have tested Galle, but its groundstaff never blinked. Meet the 130-member groundstaff, who raced against the weather, mastered the art of covering the ground and ensured precious playing time was not lost during the first Test between India vs Sri Test played at the Galle International Cricket Stadium.",
+    "img": "https://static.toiimg.com/photo/msid-133349734,imgsize-122020.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/five-minutes-28-covers-300-tyres-how-galles-130-member-groundstaff-beat-the-rain/articleshow/133349352.cms",
+    "time": "2026-08-20T00:30:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India’s schedule on BWF Worlds Day 4: Shetty, Sindhu aim for last-eight spot",
+    "desc": "India will have five key matches on Day 4 of the BWF World Championships. Ayush Shetty faces Indonesia’s Alwi Farhan, while PV Sindhu takes on China’s Wang Zhi Yi. Treesa Jolly-Gayatri Gopichand Pullela, Dhruv Kapila-Tanisha Crasto and Satwiksairaj Rankireddy-Chirag Shetty will also compete in the Round of 16, keeping India’s campaign busy.",
+    "img": "https://static.toiimg.com/photo/msid-133354116,imgsize-120426.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/indias-full-schedule-on-bwf-world-championships-day-4-ayush-shetty-pv-sindhu-aim-for-last-eight-spot/articleshow/133353930.cms",
+    "time": "2026-08-20T00:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Vishwanath and Sons' BO day 6 vs 'Jana Nayagan'",
+    "desc": "Vishwanath and Sons earned Rs 5.10 crore on its sixth day. The film's India net collection reached Rs 77.40 crore after six days. Overseas markets added Rs 1 crore to its Day 6 earnings. Worldwide gross collection for the movie now stands at Rs 135.49 crore. Jana Nayagan has collected Rs 197.26 crore in India net.",
+    "img": "https://static.toiimg.com/photo/msid-133361271,imgsize-236324.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vishwanath-and-sons-box-office-collections-day-6-vs-jana-nayagan-suriyas-film-records-19-7-drop-thalapathy-vijays-movie-stays-at-rs-323-21-crore/articleshow/133361260.cms",
+    "time": "2026-08-20T00:10:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Awarapan 2' box office collection day 6: Emraan's film sees 16 percent drop on Wednesday",
+    "desc": "Awarapan 2 is proving to be a box office hit, amassing an impressive Rs 107.50 crore net across India by its sixth day. The film's take surged on Saturday, thanks to the holiday and extra screenings, though earnings saw a modest decline on Wednesday. The sequel capitalizes on the first film's lingering popularity and its emotionally resonant storyline.",
+    "img": "https://static.toiimg.com/photo/msid-133361266,imgsize-194340.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/awarapan-2-box-office-collection-day-6-the-emraan-hashmi-starrer-sees-drop-on-wednesday-crosses-rs-150-crore-worldwide/articleshow/133361220.cms",
+    "time": "2026-08-20T00:09:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Response to anti-drugs campaign is overwhelming: Keralam Home Minister Ramesh Chennithala",
+    "desc": "As of the 76th day of the Operation Toofan campaign, 10,213 cases have been registered and 9,941 persons have been arrested; drugs worth more than ₹100 crore have been seized; no one will receive protection because of political affiliation, says Ramesh Chennithala",
+    "img": "https://th-i.thgim.com/public/incoming/das87f/article71359618.ece/alternates/LANDSCAPE_1200/80968_11_7_2026_20_2_5_1_7O3A2733.JPEG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/response-to-anti-drugs-campaign-is-overwhelming-says-keralam-home-minister/article71365495.ece",
+    "time": "2026-08-20T00:08:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Spider-Man: Brand New Day': Tom Holland film sees 29.4% fall as total nears Rs. 474 crore",
+    "desc": "Brand New Day' continued its theatrical run on Day 21, with the Tom Holland-led superhero film recording another weekday decline in domestic collections. Tom Holland's superhero film records a 29.4% drop and earns Rs 1.80 crore in India. Check Day 21 earnings, Week 1 and Week 2 collections, language-wise performance and the film's total India net.",
+    "img": "https://static.toiimg.com/photo/msid-133361216,imgsize-86184.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/spider-man-brand-new-day-box-office-collection-day-21-tom-holland-and-zendaya-starrer-sees-29-4-fall-as-total-nears-rs-474-crore/articleshow/133361205.cms",
+    "time": "2026-08-20T00:03:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NCERT recasts political science textbook panel; 4 with RSS links among 20 members",
+    "desc": "NCERT has recast the team for preparing political science textbooks for Classes XI and XII, with one of the two books slated to be ready by Nov. The 20-member panel includes faculty from JNU, DU, IGNOU and NLU Delhi, among others. At least four members have links, past or present, with organisations associated with RSS-BJP.",
+    "img": "https://static.toiimg.com/photo/msid-133361069,imgsize-83398.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ncert-recasts-political-science-textbook-panel-4-with-rss-links-among-20-members/articleshow/133360982.cms",
+    "time": "2026-08-19T23:21:44.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Southern Zonal Council to meet near Mamallapuram on August 20",
     "desc": "Union Home Minister Amit Shah will chair the meeting, with Tamil Nadu Chief Minister C. Joseph Vijay as vice chair; the Council, which includes all southern States and UTs, is a statutory body whose recommendations are advisory in nature",
@@ -61,15 +169,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/israeli-strikes-hit-an-air-base-hours-after-a-turkish-delegation-visit-syrian-officials-say/article71366480.ece",
     "time": "2026-08-19T17:29:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Response to anti-drugs campaign is overwhelming: Keralam Home Minister Ramesh Chennithala",
-    "desc": "As of the 76th day of the Operation Toofan campaign, 10,213 cases have been registered and 9,941 persons have been arrested; drugs worth more than ₹100 crore have been seized; no one will receive protection because of political affiliation, says Ramesh Chennithala",
-    "img": "https://th-i.thgim.com/public/incoming/das87f/article71359618.ece/alternates/LANDSCAPE_1200/80968_11_7_2026_20_2_5_1_7O3A2733.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/response-to-anti-drugs-campaign-is-overwhelming-says-keralam-home-minister/article71365495.ece",
-    "time": "2026-08-19T17:09:42.000Z"
   },
   {
     "cat": "Sports",
@@ -225,24 +324,6 @@ const newsData_en = [
     "time": "2026-08-19T13:20:46.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Modi govt's Gen Z outreach: One Union minister to visit one university every day",
-    "desc": "The proposed initiative, called 'One Day, One University', is aimed at strengthening the government's engagement with young people. During these visits, ministers are expected to hold discussions with students, hear their views on issues affecting the country and explain government schemes meant for students and young people. The plan comes at a time when student protests over the NEET paper leak issue have intensified in parts of the country.",
-    "img": "https://static.toiimg.com/photo/msid-133349668,imgsize-149086.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/modi-govts-gen-z-outreach-one-union-minister-to-visit-one-university-every-day/articleshow/133349310.cms",
-    "time": "2026-08-19T13:08:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kiren Rijiju rejects China incursion claim; US envoy Sergio Gor visits Srinagar, and more",
-    "desc": "Union minister Kiren Rijiju acknowledged border delineation problems in Arunachal Pradesh while rejecting Chinese incursion claims. US Ambassador Sergio Gor visited Srinagar and will review the travel advisory for Jammu and Kashmir. A Bengal court issued an arrest warrant for TMC MP Mahua Moitra in a hate speech case. Rahul Gandhi supported tribal residents protesting the Ken-Betwa River Link Project in Bundelkhand.",
-    "img": "https://static.toiimg.com/photo/msid-133348177,imgsize-106154.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-kiren-rijiju-rejects-china-incursion-claim-us-envoy-sergio-gor-visits-srinagar-and-more/articleshow/133348177.cms",
-    "time": "2026-08-19T12:52:17.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "English singer Laura performs Pakistan's anthem ahead of England Test",
     "desc": "English singer Laura Wright performed Pakistan’s national anthem before the first Test at Headingley. England captain Joe Root won the toss and chose to bowl, with Ollie Robinson taking a wicket from the first ball and removing Shan Masood soon after. Pakistan slipped to 6-2 before rain interrupted play. Robinson finished with 2-12 as Pakistan reached 23-2 at lunch.",
@@ -250,24 +331,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/watch-english-singer-laura-wright-performs-pakistans-national-anthem-ahead-of-1st-test-against-england/articleshow/133348144.cms",
     "time": "2026-08-19T12:34:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "The Citizen Historian",
-    "desc": "Professor Sumit Sarkar significantly impacted the understanding of Indian nationalism, illuminating its intricacies through comprehensive analysis. He explored the evolution of nationalism, internal disputes, and collective movements, while challenging conventional binaries. His focus on ordinary people's cravings for justice defined his contributions as a public thinker and citizen historian. This article pays tribute to his influential teaching and the lasting academic heritage he leaves behind.",
-    "img": "https://static.toiimg.com/photo/msid-133341150,imgsize-20346.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/sumit-sarkar-the-citizen-historian/articleshow/133341150.cms",
-    "time": "2026-08-19T12:14:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "FSSAI action prompts Amway, Emami, four other brands to drop '100%' product claims",
-    "desc": "FSSAI said Bonn Biscuits had used a \"100%\" claim in an advertisement for its Bonn Cummin Flavor Jeera Bite Biscuits, 76 gm. The company has since removed the claim from its website. Emami was also asked to address its use of a 100 per cent claim for Zhandu Honey. According to FSSAI, the company complied with its advisory and took corrective action.",
-    "img": "https://static.toiimg.com/photo/msid-133348147,imgsize-83000.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/fssai-action-prompts-amway-emami-four-other-brands-to-drop-100-product-claims/articleshow/133348092.cms",
-    "time": "2026-08-19T12:12:51.000Z"
   },
   {
     "cat": "Sports",
@@ -324,24 +387,6 @@ const newsData_en = [
     "time": "2026-08-19T11:50:09.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Yash starrer receives strong adult rating than ‘Dhurandhar’ in UK",
-    "desc": "Yash's upcoming film 'Toxic' has received a strict adult certification in the UK. The British Board of Film Classification rated it highly for violence and sex. This suggests the movie will contain graphic content for mature audiences. The film's UK certification details are now a major talking point. 'Toxic' is scheduled for a theatrical release on August 26.",
-    "img": "https://static.toiimg.com/photo/msid-133347253,imgsize-193597.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/toxic-gets-adult-certificate-in-uk-did-yash-starrer-received-stronger-adult-rating-than-ranveer-singhs-dhurandhar-the-revenge/articleshow/133347229.cms",
-    "time": "2026-08-19T11:46:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "3 killed, 3 injured after truck gas tank explodes at Delhi CNG station while refuelling",
-    "desc": "A fire service officer said all six injured people were taken to hospital, where they were receiving treatment. Further information about the rest three is awaited. Fire service personnel also took precautionary measures at the station and worked to bring the situation under control. The cause of the explosion has not yet been established. An investigation is underway to determine what led to the gas tank bursting.",
-    "img": "https://static.toiimg.com/photo/msid-133347007,imgsize-113738.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/truck-gas-tank-explodes-at-delhi-cng-station-while-refuelling-six-injured-in-blast/articleshow/133346886.cms",
-    "time": "2026-08-19T11:36:46.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Displaced by war, Yevheniia and Polina keep Ukraine's flag flying high",
     "desc": "Ukrainian badminton players Yevheniia Kantemyr and Polina Buhrova were forced to flee their war-torn hometown of Kharkiv to continue their careers in Italy. Despite personal loss and displacement, they are competing at the BWF World Championships in New Delhi, proudly representing Ukraine and voicing strong opposition to Russian athletes' participation in sport.",
@@ -349,15 +394,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/homeless-but-not-broken-displaced-by-war-yevheniia-kantemyr-and-polina-buhrova-keep-ukraines-flag-flying-high/articleshow/133346589.cms",
     "time": "2026-08-19T11:25:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Police Company' shoot halt: FWICE reportedly halts day-one over ₹1.32cr dues",
-    "desc": "Ram Gopal Varma's new film 'Police Company' faced a shooting halt on its first day. Representatives from FWICE stopped production over unpaid dues from an earlier film. The Federation insisted on settling the outstanding amount before filming could continue. This dispute involved workers from the 2018 movie 'Officer' and amounted to over Rs 1 crore. Filming resumed after producers cleared the pending Rs 1.",
-    "img": "https://static.toiimg.com/photo/msid-133346644,imgsize-203300.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/police-company-shoot-halted-for-2-hours-on-day-1-fwice-intervenes-over-ram-gopal-varmas-pending-dues-reports/articleshow/133346528.cms",
-    "time": "2026-08-19T11:20:52.000Z"
   },
   {
     "cat": "Sports",
@@ -370,48 +406,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "‘A boy gave me Rs 12'",
-    "desc": "In an unexpected twist, renowned singer Sonu Nigam took to the streets, performing incognito as a humble street musician. Disguised as an elderly beggar in Juhu, he captivated passersby with his poignant, unplugged renditions of his own hits. Among his humble audience, a young boy named Shahbaaz gifted him twelve rupees, which Nigam cherishes by framing.",
-    "img": "https://static.toiimg.com/photo/msid-133346209,imgsize-257496.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-sonu-nigam-sang-on-mumbai-streets-for-3-hours-as-beggar-a-boy-gave-me-rs-12-and-asked-uncle-did-you-have-breakfast-/articleshow/133346023.cms",
-    "time": "2026-08-19T11:06:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "When Ananya Raj shared her excitement about making her Tollywood debut",
     "desc": "Actress Ananya Raj, known for her roles in '7 Hours To Go' and 'Ghost,' has passed away. Her family announced the tragic news on her social media handle recently. Raj also made her Tollywood debut with the film 'Thaggede Le' a few years ago. In an interview a few years ago, she expressed excitement for her Telugu cinema debut and the intense thriller role.",
     "img": "https://static.toiimg.com/photo/msid-133345635,imgsize-236499.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/its-a-proud-moment-for-me-when-ananya-raj-shared-her-excitement-about-making-her-tollywood-debut-with-thaggede-le/articleshow/133345432.cms",
     "time": "2026-08-19T10:49:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kangana slams Baba Ramdev amid 'gutter generation' row",
-    "desc": "Kangana Ranaut slammed Baba Ramdev on Instagram, telling him not to \"day dream\" about her past or give her character lessons, amid their escalating row over her \"gutter generation\" remark on Gen Z. Ramdev had earlier questioned her past while criticising the comment. Kangana was last seen in 'Bharat Bhagya Vidhata', now streaming on ZEE5.",
-    "img": "https://static.toiimg.com/photo/msid-133345415,imgsize-214666.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-slams-baba-ramdev-amid-gutter-generation-row-dont-day-dream-about-my-jawani-no-fraud-detected-here/articleshow/133345389.cms",
-    "time": "2026-08-19T10:42:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Is Prabhas’ ‘Spirit’ to have a release shift? makers respond",
-    "desc": "The highly anticipated film 'Spirit' featuring Prabhas is set to hit theaters on March 5, 2027. The production team has reassured fans about sticking to this release date, dispelling any worries about delays. This intense police drama marks the first collaboration between Prabhas and director Sandeep Reddy Vanga, with Triptii Dimri taking on the role of the female lead, showcasing the duo's exciting new venture amidst Prabhas' packed schedule.",
-    "img": "https://static.toiimg.com/photo/msid-133345399,imgsize-260173.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/is-prabhas-spirit-set-to-miss-its-march-5-2027-release-date-heres-the-official-statement-from-the-makers/articleshow/133345356.cms",
-    "time": "2026-08-19T10:39:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Nidhhi Agerwal questioned by ED in betting Apps case",
-    "desc": "Nidhhi Agerwal, the talented actress, has recently appeared before the Enforcement Directorate for interrogation. This questioning is part of a larger investigation into illegal betting applications, which has ensnared several celebrities from Tollywood. Authorities are delving into the promotional roles these stars played for such platforms after a complaint surfaced regarding online gambling endorsements.",
-    "img": "https://static.toiimg.com/photo/msid-133345234,imgsize-136789.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/nidhhi-agerwal-questioned-by-ed-in-betting-apps-case-the-raja-saab-actress-appears-at-hyderabad-office/articleshow/133345122.cms",
-    "time": "2026-08-19T10:34:10.000Z"
   },
   {
     "cat": "Sports",
@@ -441,24 +441,6 @@ const newsData_en = [
     "time": "2026-08-19T10:31:00.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Ramayana' star Rakul Preet Singh stuns in Rs 38K black halter gown: PICS",
-    "desc": "Rakul Preet Singh made a striking style statement in a black halter neck maxi dress from The Bling Empire, priced at Rs. 38,499.30, featuring hand-applied sequins and crystal embellishments for a sleek, contemporary glamour look. Here's a closer look at her outfit, jewellery, glam and upcoming film 'Ramayana' Part 1.",
-    "img": "https://static.toiimg.com/photo/msid-133345063,imgsize-136569.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-star-rakul-preet-singh-stuns-in-a-rs-38k-worth-black-halter-neck-gown-and-serious-old-world-glamour-pics/articleshow/133344915.cms",
-    "time": "2026-08-19T10:29:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Chaos! Medvedev loses cool, breaks two advertising boards at Cincinnati",
-    "desc": "Daniil Medvedev suffered a dramatic Cincinnati Open defeat, wasting three match points before losing to Brandon Nakashima 6-7(3), 7-6(4), 6-1. Frustration boiled over as the Russian damaged advertising boards, knocked over microphones and received a code violation. Nakashima, fresh from a Canadian Open final run, advanced to face Nuno Borges in the next round.",
-    "img": "https://static.toiimg.com/photo/msid-133345088,imgsize-60398.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/chaos-daniil-medvedev-loses-cool-breaks-two-advertising-boards-at-cincinnati-open-watch/articleshow/133344746.cms",
-    "time": "2026-08-19T10:29:11.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "World Test C'ship: What India's Galle win means for their road to The Oval",
     "desc": "The win came in India’s first Test assignment since their 0-2 home series loss to South Africa in November last year. The rain-affected match went into the fifth day after India had taken control of the contest.",
@@ -484,15 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/cabinet-clears-4-railway-multitracking-projects-worth-rs-9450-crore-across-4-states-key-details/articleshow/133343833.cms",
     "time": "2026-08-19T10:12:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I made a huge mistake': Nick Kyrgios admits he tested positive for cocaine",
-    "desc": "Nick Kyrgios has admitted testing positive for cocaine at a tournament in Mallorca in June, calling it a “huge mistake” and taking responsibility. The former Wimbledon finalist said injuries and career struggles affected him, but admitted they did not excuse his actions. The ITIA confirmed the positive result and imposed a provisional suspension, which Kyrgios has not appealed.",
-    "img": "https://static.toiimg.com/photo/msid-133344435,imgsize-63774.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/i-made-a-huge-mistake-nick-kyrgios-admits-he-tested-positive-for-cocaine/articleshow/133343658.cms",
-    "time": "2026-08-19T10:08:53.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +871,32 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
     "time": "2024-03-11T10:20:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
+    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
+    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
+    "time": "2024-03-11T10:00:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
+    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
+    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
+    "time": "2024-03-11T09:41:17.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Here’s how much the smartphone costs",
+    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
+    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
+    "time": "2024-03-11T09:36:12.000Z"
   }
 ];
