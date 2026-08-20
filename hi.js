@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Josh Tongue and Ollie Robinson split Headingley ball in half after spectacular day 1 against Pakistan",
+    "desc": "England and Pakistan kicked off their Test series with the first Test at Headingley in Leeds from August 19th, and the game began with Pakistan coming in to bat first. The side were unable to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/josh-tongue-and-ollie-robinson-split-headingley-ball-in-half-after-spectacular-day-1-against-pakistan-2026-08-20-1051889",
+    "time": "2026-08-20T02:40:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Joe Root scrips history, surpasses Jacques Kallis in elite list in first Test against Pakistan",
+    "desc": "England and Pakistan kicked off the first Test of their ongoing series by taking on each other on August 19 for the first day. The two sides met at Headingley in Leeds for the clash;...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/joe-root-scrips-history-surpasses-jacques-kallis-in-elite-list-in-first-test-against-pakistan-2026-08-20-1051885",
+    "time": "2026-08-20T01:34:05.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India roar past Pakistan 5-3 in Hockey World Cup 2026, book top-8 spot in thrilling clash",
     "desc": "The Indian men's hockey team delivered when it mattered most, defeating arch-rivals Pakistan 5-3 in a high-voltage Pool D clash at the Hockey World Cup 2026 in Amstelveen. After suffering a setback against England in...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/satwik-chirag-enter-bwf-world-championships-pre-quarterfinals-after-walkover-2026-08-19-1051816",
     "time": "2026-08-19T08:47:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Manav Suthar claims six-wicket haul as India decimate Sri Lanka to win first Test in Galle",
-    "desc": "India registered a comfortable 165-run win in the opening of the two-match Test series against Sri Lanka in Galle. Chasing 372 runs in the final innings, the Dhananjaya de Silva-led side lost four wickets in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/manav-suthar-claims-six-wicket-haul-as-india-decimate-sri-lanka-to-win-first-test-in-galle-2026-08-19-1051811",
-    "time": "2026-08-19T08:08:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Yashasvi Jaiswal's 'hit him a six, I'll take you to IPL' leads to Niroshan Dickwella's dismissal at Galle",
-    "desc": "Yashasvi Jaiswal’s on-field banter with Niroshan Dickwella led to the latter’s dismissal in the 59th over of Sri Lanka’s second innings. He arrived at the crease with Sri Lanka needing to sustain their resistance against...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/yashasvi-jaiswal-s-hit-him-a-six-i-ll-take-you-to-ipl-leads-to-niroshan-dickwella-s-dismissal-at-galle-2026-08-19-1051804",
-    "time": "2026-08-19T07:16:40.000Z"
   }
 ];

@@ -1,6 +1,213 @@
 const newsData_en = [
   {
     "cat": "Sports",
+    "title": "Iranian women’s kabaddi team finds safe haven in India ahead of Asian Games",
+    "desc": "The Iranian women's kabaddi team is hard at work in Sonipat, intensifying their preparations for the upcoming Asian Games. Arriving on August thirteenth, they engage in rigorous training sessions at the Sports Authority of India centre, practicing twice a day. Recent geopolitical tensions have posed challenges for the team, making this training opportunity vital for gaining crucial competitive experience and a sense of security.",
+    "img": "https://static.toiimg.com/photo/msid-133363210,imgsize-197414.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/iranian-womens-kabaddi-team-finds-safe-haven-in-india-ahead-of-asian-games/articleshow/133363192.cms",
+    "time": "2026-08-20T03:31:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Deaths caused by snakebites a ‘notifiable disease’ says Maharashtra Health Minister Prakash Abitkar",
+    "desc": "In the wake of the snakebite incident at a tribal residential ashram school in Japtalai village, Dhanora taluka, Gadchiroli, where six schoolgirls were bitten, with three losing their lives, the Public Health Department initiated steps to notify the disease.",
+    "img": "https://th-i.thgim.com/public/incoming/il9s19/article71367677.ece/alternates/LANDSCAPE_1200/15bm-alok-farmeG7I329E9V3jpgjpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/deaths-caused-by-snakebites-a-notifiable-disease-says-maharashtra-health-minister-prakash-abitkar/article71363896.ece",
+    "time": "2026-08-20T03:21:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ED claims to have seized handwritten notes of Veena relating to fund transfer to Dubai",
+    "desc": "The notes contain the “names of persons, amounts handled, spent” besides the amount transferred to Dubai. The searches conducted on the premises related to Veena and the promoters of CMRL on May 27, 2026, yielded the documents, it says",
+    "img": "https://th-i.thgim.com/public/incoming/agyorl/article71366366.ece/alternates/LANDSCAPE_1200/ED-widens-CMRL-GM2G3F20B.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/ed-claims-to-have-seized-handwritten-notes-of-veena-relating-to-fund-transfer-to-dubai/article71366235.ece",
+    "time": "2026-08-20T03:13:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Mohamed Riyas after ED searches in CMRL pay-off case",
+    "desc": "Claiming that he had not done anything wrong, the CPI(M) leader said that the details about his wife’s business venture had been mentioned in the affidavit submitted along with the nomination papers for the Keralam Assembly elections",
+    "img": "https://th-i.thgim.com/public/incoming/1x6xf2/article71367665.ece/alternates/LANDSCAPE_1200/IMG_80688_23_1_2024_20_9_2_1_GDCKU8AG.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/not-going-to-get-scared-and-run-away-mohamed-riyas-after-ed-searches-in-cmrl-pay-off-case/article71363848.ece",
+    "time": "2026-08-20T03:11:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India beat Pakistan 5-3 but defensive woes raise alarm at World Cup",
+    "desc": "India triumphed over Pakistan with a score of 5-3 in their last pool encounter, showcasing impressive skills as skipper Harmanpreet Singh and Abhishek each scored two goals. Pakistan faced an early exit from the tournament due to this setback, allowing India to move forward in the FIH World Cup, where they will now prepare for matches against England and the Netherlands.",
+    "img": "https://static.toiimg.com/photo/msid-133362887,imgsize-193766.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/india-beat-pakistan-5-3-but-defensive-woes-raise-alarm-at-world-cup/articleshow/133362798.cms",
+    "time": "2026-08-20T03:09:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SC orders clinics for periodic health checkup of captive elephants",
+    "desc": "The Supreme Court has mandated that the Centre set up specialized clinics for captive elephants, ensuring they receive essential periodic health checkups. Additionally, the ruling requires DNA mapping of each captive elephant to combat illegal trade. The court emphasizes the importance of maintaining these animals' welfare, instructing states to complete DNA profiling to thwart unlawful commercial activities and transfers.",
+    "img": "https://static.toiimg.com/photo/msid-133362795,imgsize-200841.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sc-orders-clinics-for-periodic-health-checkup-of-captive-elephants/articleshow/133362744.cms",
+    "time": "2026-08-20T03:05:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Plea in High Court accuses Special Court of trying to determine if Savarkar was ‘brave or coward’",
+    "desc": "The petitioner, claiming to possess expert knowledge of Savarkar’s life, contended that the subject before the Special Court is limited. He argues the court should only determine whether Savarkar wrote about beating up a Muslim in his books, and not go beyond this aspect.",
+    "img": "https://th-i.thgim.com/public/incoming/d4nzau/article71367657.ece/alternates/LANDSCAPE_1200/Title-SwatantrGAMFR1VKJ.2.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/savarkar-defamation-case-high-court-plea-accuses-court-of-trying-to-determine-if-savarkar-brave-or-coward/article71365972.ece",
+    "time": "2026-08-20T03:05:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Pavithra Gowda's ex-husband Sanjay Singh passes away",
+    "desc": "Pavithra Gowda's ex-husband, Sanjay Singh, reportedly passed away eight months ago in Rajasthan. Currently, Gowda faces charges as a primary suspect in the Renukaswamy murder case. In a development, accused Pradosh has requested court approval to become an approver in the investigation. During police questioning, Gowda experienced dizziness. As part of the inquiry, investigators confiscated three vehicles from actor Darshan's home.",
+    "img": "https://static.toiimg.com/photo/msid-133362743,imgsize-267733.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/pavithra-gowdas-former-husband-sanjay-singh-died-months-ago-after-liver-related-complications-in-rajasthan-amid-renukaswamy-murder-case-report/articleshow/133362683.cms",
+    "time": "2026-08-20T03:03:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Poornima shares rare throwback wedding photo with late husband K Bhagyaraj",
+    "desc": "In a heartfelt tribute, Poornima Bhagyaraj unveiled a touching wedding photo with her late husband, K Bhagyaraj. She openly shared her profound sense of loss, conveying how she misses him daily. Their love story, spanning over four decades, blossomed in the cinematic realm. K Bhagyaraj, a renowned filmmaker and actor, left us at the age of seventy-three. Poornima ensures his beautiful memories live on through her heartfelt social media posts.",
+    "img": "https://static.toiimg.com/photo/msid-133362616,imgsize-124258.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/poornima-bhagyaraj-shares-rare-throwback-wedding-photo-with-late-husband-k-bhagyaraj-with-heartfelt-note-missing-you-everyday/articleshow/133362515.cms",
+    "time": "2026-08-20T02:58:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sandra Bullock on Bryan Randall’s passing 3 years ago",
+    "desc": "In a heartfelt reflection, Sandra Bullock spoke about the heartbreaking journey following the loss of her partner, Bryan Randall, who died three years ago. He had specifically asked her to keep his ALS diagnosis out of the public eye. Bullock candidly described the struggles of caregiving and how she had started the grieving process well in advance. With time to heal, she is finally ready to embrace acting again.",
+    "img": "https://static.toiimg.com/photo/msid-133362512,imgsize-105214.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sandra-bullock-reflects-on-partner-bryan-randalls-death-als-diagnosis-and-years-of-grief-my-person-left-a-lot-earlier-than-the-body-left/articleshow/133362454.cms",
+    "time": "2026-08-20T02:54:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Manav Suthar, Padikkal strengthen case as India’s next long-term Test assets",
+    "desc": "Manav Suthar and Devdutt Padikkal have emerged as key players for India. Suthar claimed seventeen wickets in his first two Test matches. Padikkal scored a majestic 167 in his return to the team. Both players showcased significant skills during the recent Test series. Their performances offer promising long-term prospects for Indian cricket.",
+    "img": "https://static.toiimg.com/photo/msid-133362469,imgsize-1011949.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/manav-suthar-devdutt-padikkal-strengthen-case-as-indias-next-long-term-test-assets/articleshow/133362351.cms",
+    "time": "2026-08-20T02:51:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hayden Panettiere's 'Heroes' dad slams 'misogynistic' press treatment",
+    "desc": "Jack Coleman, the 'Heroes' actor who played the father of Hayden Panettiere's character Claire Bennet, has posted an emotional tribute to his late co-star following her death this week at 36 years old. \"I'm heartbroken. I couldn't begin to put my thoughts into words until now, and they will be inadequate,\" Coleman wrote on Instagram alongside a carousel of photos of the two actors from the Heroes set over the years.",
+    "img": "https://static.toiimg.com/photo/msid-133362286,imgsize-105605.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/hayden-panettieres-heroes-dad-jack-coleman-slams-misogynistic-and-predatory-press-questions-aimed-at-her-as-a-teen-star-no-one-especially-a-teenager-should-be-targeted-that-way/articleshow/133362170.cms",
+    "time": "2026-08-20T02:39:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Manav Suthar spins India to 165-run win, seals historic victory in Galle",
+    "desc": "Manav Suthar delivered a dazzling performance, leading India to victory over Sri Lanka by claiming a remarkable ten wickets, including a stunning five-wicket haul. Prasidh Krishna's fiery bowling in the final innings also played a crucial role as Sri Lanka's robust start crumbled on the last day. This triumph bolsters India's hopes in the ongoing World Test Championship.",
+    "img": "https://static.toiimg.com/photo/msid-133362138,imgsize-126088.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/manav-suthar-spins-india-to-165-run-win-seals-historic-victory-in-galle/articleshow/133362110.cms",
+    "time": "2026-08-20T02:30:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gave up IIT, slept on roads: How Rajasthan's 1st AGM put Udaipur on global chess map",
+    "desc": "Udaipur’s Chandrajeet Singh Rajawat turned a difficult childhood passion for chess into a successful career. He left home as a teenager, faced financial struggles, slept at railway stations and stadiums, and kept playing despite setbacks. His persistence eventually brought recognition, coaching opportunities and his own academy, Kingdom of Chess, which now operates across around 30 countries.",
+    "img": "https://static.toiimg.com/photo/msid-133351115,imgsize-160070.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/gave-up-iit-left-home-slept-on-roads-how-rajasthans-first-agm-put-udaipur-on-global-chess-map/articleshow/133350794.cms",
+    "time": "2026-08-20T02:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rashmika Mandanna playfully calls out Vijay Deverakonda",
+    "desc": "Vijay Deverakonda's shooting schedule came to an unexpected halt due to heavy rains, giving him a rare opportunity to spend quality time with his family. He delighted fans by sharing a sweet photo on Instagram of himself cozied up between his parents. Meanwhile, Rashmika Mandanna humorously hinted at deserving more credit for her photography, receiving cheerful responses from fans. The pair will soon reunite on-screen in their upcoming film, Ranabaali.",
+    "img": "https://static.toiimg.com/photo/msid-133362094,imgsize-308999.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/can-you-give-me-credit-for-all-the-other-photos-rashmika-mandanna-playfully-calls-out-vijay-deverakonda-after-clicking-his-cosy-nap-with-parents/articleshow/133362063.cms",
+    "time": "2026-08-20T02:25:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sanjjanaa Galrani defends Trisha amid Vijay political row",
+    "desc": "Actress Sanjjanaa Galrani has come to the defense of Trisha, addressing the recent political criticism directed towards her. Galrani expressed her confusion over why Trisha's involvement in discussions about Vijay's political career was necessary, insisting that attention should remain on Vijay's governance and work ethics. She urged the importance of respecting Trisha’s personal and professional journey, especially after her appearance at an Independence Day event.",
+    "img": "https://static.toiimg.com/photo/msid-133362062,imgsize-180601.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sanjjanaa-galrani-questions-targeting-a-woman-and-defends-trisha-amid-vijay-political-row-if-you-have-the-guts-talk-professionally-about-thalapathy-vijay/articleshow/133362040.cms",
+    "time": "2026-08-20T02:22:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "DEA to investigate Hayden Panettiere’s sudden passing",
+    "desc": "The unexpected death of Hayden Panettiere on August 16 has prompted a thorough investigation, now involving the Drug Enforcement Administration. While the coroner's office has yet to establish an official cause of death, there were mentions of overdose and cardiac arrest during the emergency call. Known for her candid discussions about addiction and mental health, Panettiere's passing raises significant concerns.",
+    "img": "https://static.toiimg.com/photo/msid-133362031,imgsize-186052.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/hayden-panettieres-death-investigation-widens-as-dea-steps-in-to-assist-authorities-report/articleshow/133361969.cms",
+    "time": "2026-08-20T02:18:31.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Crude remains above $90 as Hormuz operations remain disrupted",
+    "desc": "Oil prices have settled at elevated levels, staying above ninety dollars per barrel. Investors are weighing the unpredictable US-Iran situation and the potential impacts on shipping routes through the Strait of Hormuz. While intermittent Middle East assaults bolster market sentiment, the absence of further escalations keeps a lid on price surges. Additionally, the UAE's suspension of financial transactions with Iran has raised regional tensions.",
+    "img": "https://static.toiimg.com/photo/msid-133361882,imgsize-120176.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-brent-crude-remains-above-90-per-barrel-as-hormuz-operations-remains-disrupted/articleshow/133361820.cms",
+    "time": "2026-08-20T02:07:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Strong values around Test cricket’: Gary Kirsten reveals chat with Gambhir",
+    "desc": "Gautam Gambhir and Gary Kirsten engaged in an enlightening conversation about the myriad challenges of coaching and the foundational principles of Test cricket. With Gambhir leading India and Kirsten at the helm for Sri Lanka, their aligned perspectives on team strategies emerged. Gambhir's impressive coaching record is complemented by Kirsten's previous support of him, while India recently enjoyed a memorable victory against Sri Lanka in the Galle Test.",
+    "img": "https://static.toiimg.com/photo/msid-133361852,imgsize-1196392.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/strong-values-around-test-cricket-gary-kirsten-reveals-key-talking-point-with-gautam-gambhir-in-galle/articleshow/133361812.cms",
+    "time": "2026-08-20T02:04:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ravi Mohan files defamation case against 'Bro Club' producer",
+    "desc": "Actor Ravi Mohan has initiated legal proceedings against producer Shruthi Nallappa for defamation. The issue centers around unpaid dues connected to the film 'Bro Club.' Reports indicate that Nallappa reached out to Netflix and industry associations concerning these pending payments. Ravi's legal team claims that such actions have tarnished his reputation and affected his business interests.",
+    "img": "https://static.toiimg.com/photo/msid-133361618,imgsize-279590.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/ravi-mohan-files-defamation-case-against-bro-club-producer-shruthi-nallappa-over-alleged-defamatory-communications-to-streaming-giant-as-madras-high-court-issues-notice-report/articleshow/133361602.cms",
+    "time": "2026-08-20T01:34:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "After 'Ramayana', Ranbir to start 'Brahmastra 2' with Alia in April 2027",
+    "desc": "Director Ayan Mukerji and Ranbir Kapoor are gearing up for 'Brahmastra 2,' with the actor set to begin filming in April 2027 after wrapping 'Ramayana Part 2.' Alia Bhatt returns as Isha, while Deepika Padukone is reportedly in talks for a key role.",
+    "img": "https://static.toiimg.com/photo/msid-133361576,imgsize-130966.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-ramayana-ranbir-kapoor-to-start-brahmastra-2-with-alia-bhatt-in-april-2027-as-ayan-mukerji-in-talks-with-deepika-padukone-for-sequel-report/articleshow/133361535.cms",
+    "time": "2026-08-20T01:26:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Post Malone and Christy Lee get engaged",
+    "desc": "In an exciting turn of events, Grammy-winning artist Post Malone has officially proposed to fashion stylist Christy Lee, with their friends sharing joyful photos and details online. A close companion of Lee confirmed the engagement and shared snapshots, including a delightful image of them kissing and a close-up of the sparkling ring. The couple has maintained their relationship's privacy since they were first linked about a year ago.",
+    "img": "https://static.toiimg.com/photo/msid-133361467,imgsize-216140.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/post-malone-and-christy-lee-are-engaged-as-friends-confirm-and-share-glimpses-of-the-couples-celebration-my-mom-and-dad-got-engaged/articleshow/133361439.cms",
+    "time": "2026-08-20T01:04:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Archenaa Ravi engaged to Shawn Antony",
+    "desc": "Actress Archenaa Ravi and producer Shawn Antony announced their engagement on social media. The couple shared intimate pictures from their ceremony held on Sunday, August 16. They spoke about their journey together, acknowledging both good and difficult times. Archenaa Ravi began her career in modeling before transitioning into acting roles. Shawn Antony is known for producing successful Malayalam films like Manjummel Boys.",
+    "img": "https://static.toiimg.com/photo/msid-133361445,imgsize-332364.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/attu-actress-archenaa-ravi-gets-engaged-to-manjummel-boys-producer-shawn-antony-after-reportedly-dating-since-2023-pics/articleshow/133361432.cms",
+    "time": "2026-08-20T01:01:06.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Manav Suthar scripts history, equals 93-year-old Indian Test record",
     "desc": "In a stunning debut, Manav Suthar has made history as the first spinner to secure five wickets in both his first home and away Tests, a remarkable achievement not seen since Mohammad Nisar in 1933. At just a young age, he also became the youngest Indian to claim ten wickets in a single Test match, eclipsing Harbhajan Singh's previous record.",
     "img": "https://static.toiimg.com/photo/msid-133361373,imgsize-81956.cms",
@@ -109,6 +316,24 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
+    "title": "If accused has right to silence, cops have right to arrest: SC",
+    "desc": "Counsel for Sumit Roy emphasized his right to silence in a land-grabbing case, while the Supreme Court highlighted the police's equal authority to make arrests. Following court directives, Roy presented himself to the investigation officer but chose not to respond to the questions asked by the authorities. The court had previously granted him interim pre-arrest bail, providing some protection amidst this legal turmoil.",
+    "img": "https://static.toiimg.com/photo/msid-133360330,imgsize-107128.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/if-accused-has-right-to-silence-cops-have-right-to-arrest-sc/articleshow/133360107.cms",
+    "time": "2026-08-19T22:15:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sakshi Chaudhary",
+    "desc": "Believes the Asian Games would be tougher than the Commonwealth Games and is up for the challenge; says the process of reducing from 54 to 51 kg was difficult but is happy that the move paid rich dividends",
+    "img": "https://th-i.thgim.com/public/incoming/4khc2/article71366624.ece/alternates/LANDSCAPE_1200/45_Gold_Medalist_Indian_Boxer_06_08_Delhi.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/i-will-try-to-win-the-asian-games-gold-sakshichaudhary/article71366603.ece",
+    "time": "2026-08-19T19:20:56.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Southern Zonal Council to meet near Mamallapuram on August 20",
     "desc": "Union Home Minister Amit Shah will chair the meeting, with Tamil Nadu Chief Minister C. Joseph Vijay as vice chair; the Council, which includes all southern States and UTs, is a statutory body whose recommendations are advisory in nature",
     "img": "https://th-i.thgim.com/public/incoming/8702wr/article71366635.ece/alternates/LANDSCAPE_1200/b826eb74-b4f5-416e-83ef-b72f4e376ece.jpg",
@@ -127,21 +352,21 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
+    "title": "Carrying capacity study of hill stations in Keralam remains incomplete",
+    "desc": "Keralam government sanctions ₹30 lakh for completing carrying-capacity study, consultancy and research activities. The carrying-capacity study of hill stations such as Wayanad and Idukki was launched by the government to rein in mass tourism and assess its environmental and infrastructural impact",
+    "img": "https://th-i.thgim.com/public/incoming/bud8f0/article71366588.ece/alternates/LANDSCAPE_1200/80759_28_5_2025_17_46_7_1_MUNNAR.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/carrying-capacity-study-of-hill-stations-in-keralam-remains-incomplete/article71365663.ece",
+    "time": "2026-08-19T18:47:01.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "National Medical Commission proposes single licence for doctors to practise across India",
     "desc": "Once the State Medical Council grants registration and the Ethics and Medical Registration Board allots the Unique Identification (UID) number, a doctor will not require fresh registration or a separate licence to practise in another State or Union Territory",
     "img": "https://th-i.thgim.com/public/incoming/qmaeve/article71364756.ece/alternates/LANDSCAPE_1200/iStock-852404126.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/national-medical-commission-proposes-uid-for-doctors/article71364491.ece",
     "time": "2026-08-19T18:12:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "South Indian movies arriving on OTT and theatre this week",
-    "desc": "This week promises an exciting lineup of new films across various platforms. The romantic comedy Bethlehem Kudumba Unit features the talented duo of Nivin Pauly and Mamitha Baiju, while Ravi Teja showcases a heartfelt father-daughter story in the Telugu drama Irumudi. In the action thriller Khalifa-The Ruler, audiences can look forward to performances by Mohanlal and Prithviraj Sukumaran.",
-    "img": "https://static.toiimg.com/photo/msid-133338783,imgsize-293896.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/thalapathy-vijays-jana-nayagan-to-mohanlal-and-prithiviraj-sukumarans-khalifa-the-ruler-south-indian-movies-arriving-on-ott-and-theatre-this-week/articleshow/133338739.cms",
-    "time": "2026-08-19T18:00:00.000Z"
   },
   {
     "cat": "Sports",
@@ -151,15 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/wrestling/former-wrestler-on-run-since-2023-arrested-in-delhi-opium-case-claims-drug-use-in-akhadas/articleshow/133355177.cms",
     "time": "2026-08-19T17:34:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Karnataka High Court refuses to quash case against married man accused of abetting nursing student’s suicide.",
-    "desc": "The High Court of Karnataka has refused to quash criminal proceedings against a married man accused of abetting a 22-year-old woman’s suicide by repeatedly stalking and threatening her, and sabotaging her marriage prospects by allegedly claiming to prospective grooms that he was in a relationship with her",
-    "img": "https://th-i.thgim.com/public/incoming/cowfcs/article71366509.ece/alternates/LANDSCAPE_1200/SC_ST-CommissioG2MGDB1AC.1.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-refuses-to-quash-case-against-married-man-accused-of-abetting-nursing-students-suicide/article71365635.ece",
-    "time": "2026-08-19T17:33:03.000Z"
   },
   {
     "cat": "World",
@@ -198,15 +414,6 @@ const newsData_en = [
     "time": "2026-08-19T16:24:15.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Amit Shah to chair meeting with CMs, top officials of southern states to resolve inter-state issues",
-    "desc": "In Mahabalipuram, Home Minister Amit Shah will oversee the Southern Zonal Council meeting, where crucial discussions about water sharing and education priorities among states will take place. Following this, he is set to travel to Siliguri to inaugurate new border security projects, and engage with personnel from Sashastra Seema Bal. His visit will wrap up with a comprehensive review meeting on border security.",
-    "img": "https://static.toiimg.com/photo/msid-133352896,imgsize-64302.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/amit-shah-to-chair-meeting-with-cms-top-officials-of-southern-states-to-resolve-inter-state-issues/articleshow/133352896.cms",
-    "time": "2026-08-19T16:06:03.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Speechless' Garret Tan silences Lakshya Sen and Delhi crowd at BWF World C'ships",
     "desc": "American teenager Garret Tan stunned Lakshya Sen, the 14th seed and the 2021 World Championships bronze medallist, in a thrilling three-set match at the Delhi World Championships. Overcoming crowd pressure, a head injury and Sen’s aggressive play, Tan triumphed 19-21, 21-19, 21-17, marking the biggest win of his career.",
@@ -243,15 +450,6 @@ const newsData_en = [
     "time": "2026-08-19T15:14:47.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Robin Williams’ children reactivate his Instagram account 12 years after his death",
-    "desc": "In a heartfelt tribute to their father, Robin Williams' children have brought his Instagram account back to life after twelve long years. This initiative celebrates what would have been his 75th birthday and aims to uphold his genuine legacy, while also addressing concerns over AI misuse. Followers can expect to see a collection of his cherished stories, photos, and videos, all shared with a sense of warmth and remembrance.",
-    "img": "https://static.toiimg.com/photo/msid-133351975,imgsize-228577.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/robin-williams-kids-reactivate-his-instagram-account-12-years-after-his-death-to-fight-ai-want-this-to-be-a-safe-trusted-place/articleshow/133351616.cms",
-    "time": "2026-08-19T15:04:07.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Shetty, Sindhu into pre-quarters; Lakshya, Unnati suffer exits",
     "desc": "Ayush Shetty and PV Sindhu advanced to the BWF World Championships pre-quarterfinals with straight-game wins. Shetty beat Dumindu Abeywickrama and will face Alwi Farhan next, while Sindhu defeated Wen Yu Zhang. Lakshya Sen suffered a three-game upset against Garret Tan, and Unnati Hooda lost a close battle to Michelle Li. India also progressed in mixed and men’s doubles.",
@@ -259,69 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/bwf-world-championships-ayush-shetty-pv-sindhu-qualify-for-pre-quarterfinals-lakshya-sen-unnati-hooda-suffer-heartbreaking-exits/articleshow/133351644.cms",
     "time": "2026-08-19T14:59:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay Deverakonda’s sweet rainy-day escape goes viral",
-    "desc": "Vijay Deverakonda embraced a cozy rainy day, resting with his parents after his shoot got called off. His wife, Rashmika Mandanna, captured this heartwarming moment in a photo taken at the actor’s cherished childhood spot. Fans eagerly await their next on-screen appearance together in the upcoming period drama 'Ranabaali', which draws inspiration from authentic events of the 1850s, marking their third successful collaboration.",
-    "img": "https://static.toiimg.com/photo/msid-133351549,imgsize-17758.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/from-cancelled-shoot-to-childhood-comfort-vijay-deverakondas-sweet-rainy-day-escape-goes-viral/articleshow/133351549.cms",
-    "time": "2026-08-19T14:50:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Government planning to bring E10 back? Clamour grows after top bureaucrat's remark",
-    "desc": "E20 is petrol containing 20% ethanol and 80% petrol. The government has promoted higher ethanol blending as a way to reduce crude oil imports, save foreign exchange and improve India's energy security. India also achieved its 20% blending target ahead of the original 2030 deadline. However, the nationwide shift has generated concerns among some vehicle owners, particularly those with older vehicles.",
-    "img": "https://static.toiimg.com/photo/msid-133351302,imgsize-79794.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/government-planning-to-bring-e10-back-clamour-grows-after-top-bureaucrats-remark/articleshow/133351117.cms",
-    "time": "2026-08-19T14:47:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Radhika praises Suriya’s ‘Vishwanath And Sons’ performance",
-    "desc": "Radhika Sarathkumar praised Suriya's remarkable commitment in 'Vishwanath And Sons', commending his impressive journey filled with hard work. She also acknowledged director Venky Atluri for his thoughtful approach to the narrative, and highlighted Mamitha Baiju as the perfect fit for her role. The film's strong box office performance is a testament to the exceptional teamwork and dedication of the entire cast and crew.",
-    "img": "https://static.toiimg.com/photo/msid-133351121,imgsize-146880.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/radhika-praises-suriyas-vishwanath-and-sons-performance-he-came-to-this-level-through-his-own-efforts/articleshow/133351092.cms",
-    "time": "2026-08-19T14:21:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Two Mumbai doctors to receive Pakistan’s highest civilian honour for keeping Jinnah’s illness secret",
-    "desc": "In a remarkable recognition, two Parsi physicians have been nominated posthumously for Pakistan's prestigious civilian award. They upheld the confidentiality surrounding Muhammad Ali Jinnah's terminal health condition prior to Partition, demonstrating a silent commitment to their professional ethics. This discreet dedication played an inadvertent yet significant role in the formation of Pakistan. The award ceremony is scheduled for March 2027.",
-    "img": "https://static.toiimg.com/photo/msid-133350510,imgsize-478654.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/two-mumbai-doctors-to-receive-pakistans-highest-civilian-honour-for-keeping-jinnahs-illness-secret/articleshow/133350510.cms",
-    "time": "2026-08-19T14:01:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Tough when you don't play much Test': Lanka coach Kirsten after India loss",
-    "desc": "Sri Lanka coach Gary Kirsten says his team must turn recent progress into results after losing the Galle Test to India by 165 runs. He points to limited Test cricket as a challenge but says six more Tests in the next six months will help. Kirsten also stresses the need for a bowling attack capable of taking 20 wickets consistently.",
-    "img": "https://static.toiimg.com/photo/msid-133350284,imgsize-164482.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/tough-when-you-dont-play-much-test-cricket-sri-lanka-head-coach-gary-kirsten-after-india-loss/articleshow/133350201.cms",
-    "time": "2026-08-19T13:38:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mamitha Baiju expresses happiness about her role in ‘Vishwanath And Sons’",
-    "desc": "Mamitha Baiju enjoyed an unforgettable experience following the release of her film. During a heartfelt thanksgiving event, she expressed gratitude for the audience's response. The joy and excitement of children reacting to her character moved her profoundly, evoking cherished memories of her own childhood. This emotional bond with the audience made the film's triumph incredibly meaningful for her.",
-    "img": "https://static.toiimg.com/photo/msid-133350116,imgsize-170636.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/mamitha-baiju-expresses-happiness-about-her-role-in-suriyas-vishwanath-and-sons-seeing-children-celebrate-my-character-made-me-very-happy/articleshow/133350082.cms",
-    "time": "2026-08-19T13:30:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kangana Ranaut reacts to Bengaluru murder case",
-    "desc": "Kangana Ranaut reacted to the Bengaluru murder case, where a woman and her lover allegedly killed her husband and five-year-old son, warning against \"westernised\" relationship culture on Instagram. She criticised normalising \"body counts\" and trends like ghosting, cautioning that a \"blue drum\" tragedy could hit anyone's family. She's currently seen in 'Bharat Bhagya Vidhata'.",
-    "img": "https://static.toiimg.com/photo/msid-133349852,imgsize-246028.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-reacts-to-bengaluru-murder-case-warns-against-westernised-relationship-culture/articleshow/133349811.cms",
-    "time": "2026-08-19T13:20:46.000Z"
   },
   {
     "cat": "Sports",
@@ -342,51 +477,6 @@ const newsData_en = [
     "time": "2026-08-19T12:09:53.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Chiranjeevi’s ‘Mega158’ first half edit locked after 40-day shoot",
-    "desc": "Chiranjeevi's highly anticipated project 'Mega158' is making impressive strides as production continues. With approximately forty days of shooting now completed, the first half of the movie is already in the editing phase. Fans can expect an exhilarating large-scale action sequence featuring Chiranjeevi just before the interval. The film is set to debut in the Telugu film industry during the vibrant Sankranthi season of 2027.",
-    "img": "https://static.toiimg.com/photo/msid-133348073,imgsize-111552.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/chiranjeevis-mega158-first-half-edit-locked-after-40-day-shoot-bobby-kolli-directorial-to-feature-big-action-block/articleshow/133347981.cms",
-    "time": "2026-08-19T12:08:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jennifer Hudson joins ‘PAW Patrol’ universe",
-    "desc": "The Dino Movie voice cast. She voices Lilian Ledes, a reporter investigating prehistoric creatures. Her assignment becomes a fight for survival when she encounters a dinosaur. The PAW Patrol must rescue her from this dangerous situation. This animated adventure arrives in Indian cinemas on August 21.",
-    "img": "https://static.toiimg.com/photo/msid-133347797,imgsize-254102.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jennifer-hudson-joins-the-paw-patrol-universe-says-every-child-has-a-superpower/articleshow/133347709.cms",
-    "time": "2026-08-19T12:00:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I don't need Rodri': Mourinho after Madrid lose transfer battle to Barca",
-    "desc": "José Mourinho says Real Madrid can manage without Rodri after the midfielder chooses Barcelona despite Madrid making “a very good offer.” Mourinho says Rodri’s uncertainty made him reconsider the move. “I don't need Rodri. We have solutions, quality players,” he says, insisting Madrid have enough strength. Mourinho also says the club’s transfer business is effectively finished.",
-    "img": "https://static.toiimg.com/photo/msid-133347767,imgsize-56170.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/i-dont-need-rodri-jos-mourinho-after-real-madrid-lose-transfer-battle-to-barcelona/articleshow/133347447.cms",
-    "time": "2026-08-19T11:59:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kala Hiran producer moves Supreme Court",
-    "desc": "'Kala Hiran' producer Amit Jani has moved the Supreme Court against a Delhi HC order that removed the film's teaser and promotional content over Salman Khan's personality rights. Justice Jyoti Singh had ruled makers couldn't exploit Khan's identity commercially. Jani calls the decision unjust, noting Khan doesn't appear in the film.",
-    "img": "https://static.toiimg.com/photo/msid-133347493,imgsize-202771.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-personality-rights-case-kala-hiran-amit-jani-moves-supreme-court-against-delhi-hc-order/articleshow/133347464.cms",
-    "time": "2026-08-19T11:54:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Inside Bhagyashree’s palatial Mumbai home: Ganesha tree, temple and more",
-    "desc": "Bhagyashree has lived a life that could easily belong in a fairytale. Born into the royal family of Sangli, the Maine Pyar Kiya actor is a real-life princess who grew up surrounded by the grandeur and traditions of royalty. Today, decades after making her Bollywood debut, she may have made Mumbai her home, but the palatial sensibilities of her upbringing are unmistakably reflected in her residence. From a dramatic black entrance door and statement walls to plush velvet seating, elegant chandeliers, a private temple and expansive outdoor spaces, Bhagyashree's Mumbai home blends traditional grandeur with contemporary luxury.",
-    "img": "https://static.toiimg.com/photo/msid-133347361,imgsize-161281.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/inside-salman-khans-maine-pyar-kiya-co-star-bhagyashrees-palatial-mumbai-home-from-dramatic-black-entrance-plush-velvet-sofas-private-temple-all-white-kitchen-naturally-formed-ganesha-on-tree-that-made-her-buy-it/articleshow/133346190.cms",
-    "time": "2026-08-19T11:50:09.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Displaced by war, Yevheniia and Polina keep Ukraine's flag flying high",
     "desc": "Ukrainian badminton players Yevheniia Kantemyr and Polina Buhrova were forced to flee their war-torn hometown of Kharkiv to continue their careers in Italy. Despite personal loss and displacement, they are competing at the BWF World Championships in New Delhi, proudly representing Ukraine and voicing strong opposition to Russian athletes' participation in sport.",
@@ -394,33 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/homeless-but-not-broken-displaced-by-war-yevheniia-kantemyr-and-polina-buhrova-keep-ukraines-flag-flying-high/articleshow/133346589.cms",
     "time": "2026-08-19T11:25:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Every Test match victory is special': KL Rahul after 165-run victory vs SL",
-    "desc": "KL Rahul said India’s 165-run win over Sri Lanka boosted confidence in handling spin-friendly conditions. He praised the team for executing its plans and credited thorough preparation for their success. Rahul also lauded Devdutt Padikkal’s maiden Test century, calling it a defining moment that helped set up the victory and hoping the young batter carries his confidence into future matches.",
-    "img": "https://static.toiimg.com/photo/msid-133345982,imgsize-79514.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/every-test-match-victory-is-special-indias-vice-captain-kl-rahul-after-165-run-victory-in-galle-test/articleshow/133345910.cms",
-    "time": "2026-08-19T11:14:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When Ananya Raj shared her excitement about making her Tollywood debut",
-    "desc": "Actress Ananya Raj, known for her roles in '7 Hours To Go' and 'Ghost,' has passed away. Her family announced the tragic news on her social media handle recently. Raj also made her Tollywood debut with the film 'Thaggede Le' a few years ago. In an interview a few years ago, she expressed excitement for her Telugu cinema debut and the intense thriller role.",
-    "img": "https://static.toiimg.com/photo/msid-133345635,imgsize-236499.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/its-a-proud-moment-for-me-when-ananya-raj-shared-her-excitement-about-making-her-tollywood-debut-with-thaggede-le/articleshow/133345432.cms",
-    "time": "2026-08-19T10:49:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harry Brook reclaims No.1 as Jasprit Bumrah retains top spot",
-    "desc": "Harry Brook has reclaimed the top spot in the ICC Test batting rankings. Jasprit Bumrah retained his position as the world's leading Test bowler. Bangladesh players saw significant gains after their historic victory over Australia. Afghanistan's dominance in the ODI series also resulted in player ranking movements. Several players from both teams achieved career-best rankings following recent performances.",
-    "img": "https://static.toiimg.com/photo/msid-133345159,imgsize-158519.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/icc-test-rankings-harry-brook-reclaims-no-1-as-jasprit-bumrah-retains-top-spot/articleshow/133344910.cms",
-    "time": "2026-08-19T10:32:06.000Z"
   },
   {
     "cat": "Sports",
@@ -441,15 +504,6 @@ const newsData_en = [
     "time": "2026-08-19T10:31:00.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "World Test C'ship: What India's Galle win means for their road to The Oval",
-    "desc": "The win came in India’s first Test assignment since their 0-2 home series loss to South Africa in November last year. The rain-affected match went into the fifth day after India had taken control of the contest.",
-    "img": "https://static.toiimg.com/photo/msid-133344872,imgsize-885741.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/world-test-championship-what-indias-galle-win-means-for-their-road-to-the-oval/articleshow/133344219.cms",
-    "time": "2026-08-19T10:28:21.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Russia turns to Asia for refined fuel, set to receive nearly 270,000 tonnes in Aug",
     "desc": "Russia is importing refined fuel from Asian nations this month. Ukrainian attacks on its oil refineries have reduced domestic fuel production significantly. India supplies about one-third of these crucial refined fuel imports. These shipments use ship-to-ship transfers to obscure their origins. Russia has also tightened its own fuel export curbs to manage shortages.",
@@ -468,15 +522,6 @@ const newsData_en = [
     "time": "2026-08-19T10:12:11.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Youngest Indian to take 10-wicket haul in away Test",
-    "desc": "Manav Suthar became the youngest Indian to take ten wickets in an away Test. His performance secured India's victory against Sri Lanka in Galle. Suthar joined an elite group of Indian spinners with this achievement. Captain Shubman Gill praised the young bowler's promising future contributions. This win earned India crucial World Test Championship points.",
-    "img": "https://static.toiimg.com/photo/msid-133344339,imgsize-88515.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/manav-suthar-creates-history-youngest-indian-to-take-10-wicket-haul-in-away-test/articleshow/133344221.cms",
-    "time": "2026-08-19T10:01:26.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Govt to offer distributors extra lower-priced domestic natural gas for every new connection",
     "desc": "Approved by the government and effective from September 1, the benefit will apply to new domestic PNG connections added above a specified threshold for each geographical area. India has around 17.4 million domestic PNG connections at present.",
@@ -493,15 +538,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/congos-ebola-outbreak-reaches-5000-cases-as-it-outpaces-response-efforts-at-unprecedented-speed/article71364105.ece",
     "time": "2026-08-19T09:47:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Manav Suthar's ten-wicket haul floors Sri Lanka as India conquer Galle challenge",
-    "desc": "Manav Suthar's second Test five-for and Devdutt Padikkal's maiden century powered India to a crushing 165-run win over Sri Lanka in in the first Test Galle. The young left-arm spinner stamped his authority on a dramatic second session, picking up three wickets in an over to wrap up Sri Lanka's second innings quickly.",
-    "img": "https://static.toiimg.com/photo/msid-133342021,imgsize-90338.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/manav-suthars-ten-wicket-haul-floors-sri-lanka-as-india-conquer-galle-challenge/articleshow/133341982.cms",
-    "time": "2026-08-19T08:14:06.000Z"
   },
   {
     "cat": "Business",
@@ -547,15 +583,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/bayerns-musiala-diagnosed-with-neurological-disorder-after-two-on-field-collapses/article71363281.ece",
     "time": "2026-08-19T04:12:40.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "US-Canada tariff row eases: Trump pauses 50% levies after last-minute deal",
-    "desc": "The United States and Canada have agreed to delay significant tariffs on imports. This pause allows both nations more time to negotiate a comprehensive trade agreement. President Donald Trump announced the tariff delay on social media after last-minute talks. The tariffs would have impacted approximately five percent of Canadian exports to the US. This development occurs amid already strained relations between the two countries.",
-    "img": "https://static.toiimg.com/photo/msid-133335733,imgsize-129526.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/us-canada-tariff-row-eases-trump-pauses-50-levies-after-last-minute-deal/articleshow/133335629.cms",
-    "time": "2026-08-19T02:44:22.000Z"
   },
   {
     "cat": "World",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
     "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
-    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
-    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
-    "time": "2024-03-11T09:41:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Here’s how much the smartphone costs",
-    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
-    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
-    "time": "2024-03-11T09:36:12.000Z"
   }
 ];
