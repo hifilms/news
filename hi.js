@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Very difficult to keep him out': R Ashwin opens up on India's number three options ahead of crucial NZ tour",
+    "desc": "The Indian team is currently amidst a two-game Test series against Sri Lanka, and having won the first Test, India will be hoping to put in a good show for the second clash of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/very-difficult-to-keep-him-out-r-ashwin-opens-up-on-india-s-number-three-options-ahead-of-crucial-nz-tour-2026-08-20-1051910",
+    "time": "2026-08-20T06:26:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pulwama welcomes return of Royal Premier League, fans gather in numbers to witness season opener",
+    "desc": "The second edition of the RPL (Royal Premier League) made its return to Pulwama. The tournament kicked off on August 19th, and the conflict-affected area was quick to turn into a celebration of cricket as...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pulwama-welcomes-return-of-royal-premier-league-fans-gather-in-numbers-to-witness-season-opener-2026-08-20-1051899",
+    "time": "2026-08-20T04:59:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer weighs in on Ravindra Jadeja's effectiveness after first Sri Lanka Test",
+    "desc": "The Indian team put on a good show in the first Test of the ongoing two-game series against Sri Lanka. The two sides met for the first Test of the series at the Galle International...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-weighs-in-on-ravindra-jadeja-s-effectiveness-after-first-sri-lanka-test-2026-08-20-1051896",
+    "time": "2026-08-20T04:22:59.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Josh Tongue and Ollie Robinson split Headingley ball in half after spectacular day 1 against Pakistan",
     "desc": "England and Pakistan kicked off their Test series with the first Test at Headingley in Leeds from August 19th, and the game began with Pakistan coming in to bat first. The side were unable to...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-ben-stokes-not-playing-in-england-vs-pakistan-1st-test-in-leeds-2026-08-19-1051826",
     "time": "2026-08-19T10:06:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Babar Azam not playing in England vs Pakistan 1st Test in Leeds?",
-    "desc": "Pakistan Test captain Babar Azam has been ruled out of the first Test against England. The 31-year-old injured his right hand during the warm-up against Professional County Club Select XI and did not return after...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-babar-azam-not-playing-in-england-vs-pakistan-1st-test-in-leeds-2026-08-19-1051824",
-    "time": "2026-08-19T09:50:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Nick Kyrgios tests positive for cocaine, provisionally suspended from Tennis",
-    "desc": "Nick Kyrgios has been provisionally suspended from tennis after testing positive for cocaine during the Mallorca Open in June. The Australian provided a sample on June 22 while competing at the tournament. The sample contained...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/nick-kyrgios-tests-positive-for-cocaine-provisionally-suspended-from-tennis-2026-08-19-1051821",
-    "time": "2026-08-19T09:30:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Satwik-Chirag enter BWF World Championships pre-quarterfinals after walkover",
-    "desc": "Satwiksairaj Rankireddy and Chirag Shetty moved into the pre-quarterfinals of the BWF World Championships 2026 without hitting a shuttle on Wednesday after Alexander Dunn and Adam Pringle withdrew from their scheduled men's doubles match in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/satwik-chirag-enter-bwf-world-championships-pre-quarterfinals-after-walkover-2026-08-19-1051816",
-    "time": "2026-08-19T08:47:10.000Z"
   }
 ];
