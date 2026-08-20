@@ -1,6 +1,33 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "বিরাট পদক্ষেপ কেন্দ্রের! নাগরিকত্বের তৃতীয় সংশোধনী বিধি কার্যকর করল নয়া দিল্লি! নতুন বিধিতে কী আছে?",
+    "desc": "নাগরিকত্বের তৃতীয় সংশোধনী বিধি জারি, ক্ষমতা পেলেন জেলা শাসকরা। নাগরিকত্ব সংক্রান্ত আবেদনের প্রক্রিয়ায় বড়সড় পরিবর্তন আনল কেন্দ্র। ১৯ আগস্ট, ২০২৬-এ গেজেট বিজ্ঞপ্তি প্রকাশ করে The Citizenship (Third Amendment) Rules, 2026 কার্যকর করল কেন্দ্রীয় স্বরাষ্ট্র মন্ত্রক।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/citizenship-third-amendment-rules-2026-authorization-and-delegation-of-powers-to-district-collectors_667729.html ",
+    "time": "2026-08-20T15:09:28.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "রাবণের মতো দশ মাথা নিয়ে সমুদ্র থেকে বিদ্যুৎগতিতে ধেয়ে আসছে রক্তচক্ষু এল নিনো! ৯০ শতাংশ খেলাই বাকি",
+    "desc": "প্রশান্ত মহাসাগরে 'এল নিনো'-র আগমন ঘটেছে, এটা এতদিনে জানা হয়ে গিয়েছে। কিন্তু যেটা জানা ছিল না, ক্রমশ জানা যাচ্ছে, এবং প্রাথমিক পূর্বাভাসের চেয়েও এটি অনেক দ্রুত শক্তিশালী হয়ে উঠছে। মধ্য ও পূর্ব প্রশান্ত মহাসাগরের বায়ুমণ্ডলের বাতাস এবং সমুদ্রের জলের অস্বাভাবিক উষ্ণতার কারণে সৃষ্ট এই জলবায়ুগত পরিবর্তন ইতিমধ্যেই বৃষ্টিপাত ও তাপমাত্রার স্বাভাবিক ধরন বদলে দিতে শুরু করেছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/deadliest-el-nino-fully-arrived-el-nino-done-enough-damage-across-world_667700.html ",
+    "time": "2026-08-20T13:31:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "পিএইচডি, ২৪ ঘণ্টা বাড়িতে থাকেন না, তো? ছেলে হোন বা মেয়ে, পরিবারের যত্ন নিলেই লিঙ্গ নির্বিশেষে তিনি হোমমেকার, পিরিয়ড: হাইকোর্ট",
+    "desc": "পরবর্তীতে তিনি এই রায়কে চ্যালেঞ্জ করে কর্ণাটক হাইকোর্টের দ্বারস্থ হন এবং দাবি করেন যে, দুর্ঘটনার ফলে তাঁর স্থায়ী অক্ষমতার কারণে তিনি পরিবারের গৃহস্থালি দায়িত্ব আগের মতো পালন করতে পারছেন না, তাই হোমমেকার হিসেবে তাঁর ক্ষতিপূরণ প্রাপ্য।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/homemaker-is-gender-neutral-karnataka-high-court-rules-men-and-working-professionals-included-in-valuation-of-family-care_667696.html ",
+    "time": "2026-08-20T12:37:41.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "আহা কী দেখিলাম, জন্ম জন্মান্তরেও ভুলিব না! মহাকাশ থেকে তোলা মহাকুম্ভের স্বর্গীয় দৃশ্য! আশ্চর্য কী দেখা গেল সেই ছবিতে?",
     "desc": "মহাকাশ থেকে তোলা ছবিটি শেয়ার করেছেন নাসা-র মহাকাশচারী ডন পেটিট। আন্তর্জাতিক মহাকাশ স্টেশন থেকে নেওয়া ২০২৫ সালের প্রয়াগ মহাকুম্ভ মেলার এই ছবিটিকে তিনি তাঁর তোলা 'বেস্ট শট' বা সেরা ছবি বলে অভিহিত করেছেন। সত্যিই অসাধারণ সে ছবি!",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -117,24 +144,6 @@ const newsData_bn = [
     "time": "2026-08-19T09:54:28.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "মহিলা সরকারি কর্মীদের জন্য বিরাট সুখবর! ৩ নম্বর সন্তান হলে মিলবে এক বছরের ছুটি, সরকারের বড় ঘোষণা",
-    "desc": "আগের নিয়ম অনুযায়ী, যাদের দুইয়ের কম সন্তান ছিল, তারা ৩৬৫ দিনের ছুটি পেতেন। কিন্তু দুটি বা তার বেশি সন্তান থাকলে ১২ সপ্তাহের মাতৃত্বকালীন ছুটি মিলত। সুপ্রিম কোর্টের নির্দেশ মেনে এই সুবিধা চালু হলেও, এবার তামিলনাড়ু সরকার সব সন্তান জন্মদানের ক্ষেত্রেই মেয়াদের সামঞ্জস্য নিয়ে এল।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/tamil-nadu-govt-announces-365-days-maternity-leave-for-third-child_667506.html ",
-    "time": "2026-08-19T08:41:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "হস্টেলে ফেরার পথে মেডিক্যাল কলেজ ক্যামপাসে আধ ঘণ্টায় বিকৃতকামের শিকার দুই তরুণী ইনটার্ন, তোলপাড়",
-    "desc": "খানপুর কালান মহিলা থানার এক আধিকারিক জানান, ইন্টার্ন চিকিৎসকদের দায়ের করা অভিযোগের ভিত্তিতে পুলিস দ্রুত ব্যবস্থা গ্রহণ করে। অভিযুক্ত ব্যক্তি ক্যাম্পাসেরই একটি নির্মীয়মাণ অংশে শ্রমিক হিসেবে কাজ করছিল। গত ১৬ই আগস্ট পুলিস অভিযুক্তকে গ্রেফতার করে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/2-female-mbbs-interns-sexually-harassed-at-haryana-government-medical-college-accused-construction-worker-arrested_667505.html ",
-    "time": "2026-08-19T08:37:06.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "জিতেই ৬০০ টেস্টের মাইলস্টোন ভারতের, সুতারের ভয়াল ঘূর্ণিঝড়ে গলে উড়ে গেল শ্রীলঙ্কা,  WTC পয়েন্ট টেবলে এখন কোথায় গিলরা?",
     "desc": "ভারতের ৬০০ তম টেস্ট ম্যাচে দুরন্ত জয়। শ্রীলঙ্কায় টেস্ট জিতল ভারত। গলে ১৬৫ রানে টেস্ট জয় শুভমন গিলদের। ম্যাচে দুই ইনিংস মিলিয়ে ১০ উইকেট মানব সুতারের। দুই ম্যাচের টেস্ট সিরিজের ১-০ এগিয়ে গেল ভারত। পরবর্তী টেস্ট ম্যাচ কলম্বোয়। সেঞ্চুরি দেবদত্ত পাড়িক্কলের।",
@@ -142,24 +151,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/sports/ind-vs-sl-1st-test-wtc-points-table-update_667497.html ",
     "time": "2026-08-19T08:34:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘এক মাস আগেও তো দেশবিরোধী ছিলাম!’ NDA-র অফার পেতেই কটাক্ষ অভিজিৎ দীপকের",
-    "desc": "কেন্দ্রীয় মন্ত্রী রামদাস আটওয়ালে সিজিপি প্রতিষ্ঠাতা অভিজিৎ দীপকে-কে এনডিএ জোটে যোগদানের প্রস্তাব দিয়েছেন। তবে এই অফার পেয়ে তীব্র কটাক্ষ করেছেন তরুণ এই ছাত্রনেতা। ইনস্টাগ্রাম পোস্টে তিনি প্রশ্ন তোলেন, মাত্র এক মাস আগে যন্তর-মন্তরের ছাত্র আন্দোলনের সময় যাঁদের কাছে তিনি ‘দেশবিরোধী’ ছিলেন, আজ কীভাবে তাঁদের জোটে যোগ দেবেন?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/abhijeet-dipke-reacts-to-offer-to-join-nda-camp-wasnt-i-anti-national-for-you-a-month-ago_667455.html ",
-    "time": "2026-08-19T05:16:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ভোর ৪টেয় ফোন, দিনে ২০ ঘণ্টা কাজ! মুখ্যমন্ত্রী বিজয়ের রুটিন দেখে তাজ্জব সকলে",
-    "desc": "সিনেমা ছেড়ে রাজনীতিতে নেমেই তাক লাগিয়েছেন জোসেফ বিজয়। প্রতিদিন প্রায় ১৮ থেকে ২০ ঘণ্টা কাজ করে ভোর চারটে থেকেই প্রশাসনিক তৎপরতা শুরু করছেন তিনি। বিলাসবহুল জীবন ছেড়ে কেন এক অদ্ভুত ‘রাজনৈতিক সন্ন্যাসী’র পথ বেছে নিলেন তামিলনাড়ুর এই মুখ্যমন্ত্রী? তাঁর এই কঠোর পরিশ্রমের আসল রহস্য ঘিরে দানা বাঁধছে তীব্র কৌতূহল।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/tamil-nadu-chief-minister-vijays-schedule-reveals-18-20-hour-days-4-am-calls_667453.html ",
-    "time": "2026-08-19T04:44:21.000Z"
   },
   {
     "cat": "Entertainment",
@@ -331,15 +322,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/zee-5-bangla-slate-launch-new-series-lalbazaar-2-aloor-dosh-anirban-bhattacharya-to-sourav-das-anjan-dutt_666810.html ",
     "time": "2026-08-13T10:46:49.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "পাকজেলে ইমরানের মৃতদেহ? তুলকালাম সারা বিশ্ব: রাজপথে PTI, কান্নায় লুটিয়ে পড়ছে দেশবাসী-- এবার আসরে আমেরিকাও",
-    "desc": "তবে ইমরান খানের দল পাকিস্তান তেহরিক-ই-ইনসাফ (PTI), তাঁর পরিবার এবং আইনজীবীদের দীর্ঘদিন ধরে তাঁর সঙ্গে দেখা করতে দেওয়া হচ্ছে না বলে অভিযোগ করা হয়েছে। পিটিআই নেতারা অভিযোগ তুলেছেন যে শেহবাজ শরিফের নেতৃত্বাধীন সরকার এবং সেনা কর্তৃপক্ষ পরিকল্পিতভাবে ইমরান খানকে বিচ্ছিন্ন করে রাখছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/us-lawmakers-urge-marco-rubio-to-press-pakistan-over-imran-khan-and-bushra-bibis-jail-conditions_666789.html ",
-    "time": "2026-08-13T09:19:21.000Z"
   },
   {
     "cat": "Business",

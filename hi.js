@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Bangladesh Cricket Board suspends BPL for 2026-27 season, president Tamim Iqbal explains reason",
+    "desc": "Bangladesh Cricket Board president Tamim Iqbal has confirmed that the Bangladesh Premier League’s 2026-27 season is uncertain amid issues concerning the financial and operational departments. Tamim said the BCB has suffered substantial losses from the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-cricket-board-suspends-bpl-for-2026-27-season-president-tamim-iqbal-explains-reason-2026-08-20-1051973",
+    "time": "2026-08-20T15:01:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ayush Shetty knocked out; India's campaign in men's singles ends at BWF World Championships",
+    "desc": "India’s men’s singles campaign at the BWF World Championships ended on Thursday after Ayush Shetty was beaten by Indonesia’s Alwi Farhan in the Round of 16 at the Indira Gandhi Indoor Stadium in New Delhi....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/ayush-shetty-knocked-out-india-s-campaign-in-men-s-singles-ends-at-bwf-world-championships-2026-08-20-1051962",
+    "time": "2026-08-20T13:16:51.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "How did Babar Azam ruin Pakistan's fast-bowling culture? Former cricketer explains",
     "desc": "Pakistan have a history of producing legendary fast bowlers. Their former captain Imran Khan is one of them, while his bowling partners, Wasim Akram and Waqar Younis, formed a deadly trio. Later in the years,...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pulwama-welcomes-return-of-royal-premier-league-fans-gather-in-numbers-to-witness-season-opener-2026-08-20-1051899",
     "time": "2026-08-20T04:59:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer weighs in on Ravindra Jadeja's effectiveness after first Sri Lanka Test",
-    "desc": "The Indian team put on a good show in the first Test of the ongoing two-game series against Sri Lanka. The two sides met for the first Test of the series at the Galle International...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-weighs-in-on-ravindra-jadeja-s-effectiveness-after-first-sri-lanka-test-2026-08-20-1051896",
-    "time": "2026-08-20T04:22:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Josh Tongue and Ollie Robinson split Headingley ball in half after spectacular day 1 against Pakistan",
-    "desc": "England and Pakistan kicked off their Test series with the first Test at Headingley in Leeds from August 19th, and the game began with Pakistan coming in to bat first. The side were unable to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/josh-tongue-and-ollie-robinson-split-headingley-ball-in-half-after-spectacular-day-1-against-pakistan-2026-08-20-1051889",
-    "time": "2026-08-20T02:40:10.000Z"
   }
 ];
