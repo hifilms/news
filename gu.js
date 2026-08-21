@@ -1,6 +1,33 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "પેલેટ ગન પીડિત વિદ્યાર્થીને લઈને સંસદ માર્ગ પોલીસ મથક પહોંચ્યા રાહુલ ગાંધી, પછી ધરણા પર બેસી ગયા",
+    "desc": "કોંગ્રેસ નેતા રાહુલ ગાંધી આજે અચાનક સંસદ માર્ગ પોલીસ મથક પહોંચ્યા. તેઓ જંતર મંતર પર વિદ્યાર્થી પ્રદર્શન દરમિયાન ઉપયોગમાં લેવાયેલી પેલેટ ગનના ઉપયોગ સંબંધિત તપાસની જાણકારી માટે ડીસીપી ઓફિસ પહોંચ્યા હતા. ડીસીપીને મળ્યા બાદ તેઓ ધરણા ઉપર પણ બેસી ગયા. જાણો વિગતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/congress-mp-rahul-gandhi-dcp-office-parliament-street-police-station-jantar-mantar-protest-488345 ",
+    "time": "2026-08-21T08:27:12.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સોના-ચાંદીના ભાવમાં આજે પણ ભયંકર ઉછાળો, ખરીદી ક્યાંક સપનું ન બની જાય! જાણો આજનો લેટેસ્ટ રેટ",
+    "desc": "સોના અને ચાંદીના ભાવમાં ભારે ઉતાર ચડાવ જોવા મળી રહ્યા છે. ગઈ કાલે જે ભારે તેજી જોવા મળી હતી તે આજે પણ ચાલુ છે. વાયદા બજાર અને રિટેલ બજારમાં બંને કિંમતી ધાતુઓના ભાવ ઉછળ્યા છે. જાણો આજના લેટેસ્ટ રેટ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-see-big-increase-today-check-mcx-ibja-latest-rates-488341 ",
+    "time": "2026-08-21T07:52:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "સાડી પહેરી આવ્યો, પાણી છાંટ્યું, મુંબઈમાં એરહોસ્ટેસની સાથે કિન્નરના વેશમાં આવેલા વ્યક્તિએ કર્યો બળાત્કાર",
+    "desc": "જાણકારી પ્રમાણે મહિલાનો બીમાર પતિ હોસ્પિટલમાં દાખલ છે. ત્યારે કિન્નરના વેશમાં આવેલા આરોપીએ દાવો કર્યો કે તે ખરાબ નજર ઉતારી તેના બીમાર પતિને સાજો કરી શકે છે, પીડિતા તેની વાતોમાં આવી ગઈ અને ઘરનો દરવાજો ખોલી દીધો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/shocking-incident-in-mumbai-air-hostess-targeted-under-the-pretense-of-healing-sick-husband-488338 ",
+    "time": "2026-08-21T07:36:04.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "જયપુરમાં શાળાની હાલત જોવા પહોંચેલા CJPના કાર્યકરોને ગ્રામીણોએ ભગાડી મૂક્યા, હાથાપાઈ-મારપીટનો પણ આરોપ",
     "desc": "કોકરોચ જનતા પાર્ટીએ હવે 'સ્કૂલ ઠીક કરો' અભિયાન શરૂ કર્યું છે અને આ અભિયાન હેઠળ રાજસ્થાનના પાટનગર જયપુરના બગરુ વિસ્તારમાં આવેલા રામપુરા-કંવરપુરા ગામની સરકારી શાળામાં સીજેપીના કાર્યકરો પહોંચ્યા તો તેમને મારપીટ કરીને ગ્રામીણોએ ભગાડી મૂક્યા હોવાનો આરોપ લાગ્યો છે. જાણો વિગતો.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -351,15 +378,6 @@ const newsData_gu = [
     "time": "2026-08-18T16:06:03.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "નીતિન નવીનની નવી ટીમમાં કયા નેતા પાસે કેટલી છે નેટવર્થ? જાણો કોણ છે સૌથી અમીર અને કોણ છે સૌથી યુવા",
-    "desc": "ભાજપ પ્રમુખ નીતિન નવીનની નવી ટીમની જાહેરાત કરી દેવામાં આવી છે. ભાજપની નવી ટીમમાં કુલ 65 સભ્યોની રાષ્ટ્રીય કારોબારીમાં 51 નવા ચહેરાઓને તક આપવામાં આવી છે. ત્યારે ચૂંટણી એફિડેવિટ અને સત્તાવાર આંકડાઓના વિશ્લેષણથી આ નવા હોદ્દેદારોની નેટવર્થ અને જાહેર કરાયેલી સંપત્તિઓ સામે આવી છે. ચાલો જાણીએ કોણે સૌથી અમીર નેતા અને કેટલી છે તેમની સંપત્તિ?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/which-leader-in-nitin-naveen-new-team-has-a-net-worth-know-who-is-the-richest-488087 ",
-    "time": "2026-08-18T13:47:55.000Z"
-  },
-  {
     "cat": "Business",
     "title": "ZMCLના ફ્યુચર પ્લાન પર CEO રક્તિમ દાસનો મોટો ખુલાસો, અનિલ સિંઘવી સાથેની ખાસ વાતચીતમાં જણાવી આગામી રણનીતિ!",
     "desc": "ઝી બિઝનેસના મેનેજિંગ એડિટર અનિલ સિંઘવી સાથેની એક ખાસ વાતચીતમાં ઝી મીડિયાના CEO રક્તિમ દાસે ત્રિમાસિક પરિણામો, ડિજિટલ વ્યૂહરચના, નવા પ્રોજેક્ટ્સ અને ભવિષ્યના ગ્રોથ આઉટલુક અંગે વિગતવાર ચર્ચા કરી. કંપનીની QoQ રેવન્યૂ 21% વધી છે, જ્યારે EBITDAમાં પણ મજબૂત સુધારો જોવા મળ્યો છે.",
@@ -502,15 +520,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/team-didnot-trust-my-batting-ravindra-jadeja-pain-spilled-out-during-the-galle-test-told-how-he-was-discriminated-against-487926 ",
     "time": "2026-08-16T17:05:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "યશસ્વી જયસ્વાલ રાજસ્થાન રોયલ્સથી થશે અલગ ? હાર્દિક પંડ્યા સાથે થઈ શકે છે મોટી ટ્રેડ ડીલ",
-    "desc": "IPL 2027 પહેલા સ્ટાર બેટ્સમેન યશસ્વી જયસ્વાલના ટ્રેડ અંગે અટકળો તેજ બની છે. અહેવાલો અનુસાર, રાજસ્થાન રોયલ્સ ટીમ મેનેજમેન્ટ જયસ્વાલના વલણથી નાખુશ છે. 15 વર્ષીય બેટ્સમેન વૈભવ સૂર્યવંશીનું વધતું કદ પણ આ નિર્ણય પાછળનું કારણ હોઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/will-yashasvi-jaiswal-to-leave-rajasthan-royals-big-trade-deal-possible-with-hardik-pandya-487925 ",
-    "time": "2026-08-16T15:58:52.000Z"
   },
   {
     "cat": "World",
@@ -673,15 +682,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/vinfast-begins-testing-second-gen-vf-5-ev-in-india-to-rival-tata-punch-ev-487654 ",
     "time": "2026-08-13T16:09:00.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "1 રૂપિયામાં ચાલશે 1 KM! મારુતિ લાવી રહી છે 7 સીટર શાનદાર કાર, જાણો વિગત",
-    "desc": "મારૂતિ સુઝુકી એક નવી કાર લાવી રહી છે, જે અર્ટિગાના સેગમેન્ટમાં હશે. આ કાર ઈલેક્ટ્રિક પાવરટ્રેનની સાથે આવશે. મારૂતિની અપકમિંગ કાર એક 7 સીટર ઈલેક્ટ્રિક એમપીવી હશે. આ કાર સિંગલ ચાર્જમાં 500 કિલોમીટર સુધીની રેન્જ ઓફર કરી શકે છે, આવો જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/maruti-suzuki-electric-7-seater-mpv-coming-soon-inspired-by-e-vitara-with-impressive-range-and-space-487625 ",
-    "time": "2026-08-13T12:07:41.000Z"
   },
   {
     "cat": "World",

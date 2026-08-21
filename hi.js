@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Gayatri-Treesa script history, assure medal for India with QF win at BWF World Championships 2026",
+    "desc": "In a historic moment for India, the duo of Gayatri Gopichand and Treesa Jolly have stunned fourth-seed China's Jia Yifan and Zhang Shuxian and have entered the semi-finals of the ongoing BWF World Championships 2026....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/gayatri-treesa-script-history-assure-medal-for-india-with-qf-win-at-bwf-world-championships-2026-2026-08-21-1052039",
+    "time": "2026-08-21T08:30:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former Sri Lanka cricketer questions India's batting attack despite comfortable win in Galle Test",
+    "desc": "The Indian team managed to register a dominant win as they took on Sri Lanka in the first Test of the ongoing two-game series. The two sides met at the Galle International Stadium for the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-sri-lanka-cricketer-questions-india-s-batting-attack-despite-comfortable-win-in-galle-test-2026-08-21-1052037",
+    "time": "2026-08-21T08:12:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Phil Simmons advises Bangladesh not to get arrogant ahead of Mackay clash after Test win against Australia",
+    "desc": "The stage is set for the second and final Test of the ongoing series between Australia and Bangladesh. The two sides are slated to take on each other at the Great Barrier Reef Arena in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/phil-simmons-advises-bangladesh-not-to-get-arrogant-ahead-of-mackay-clash-after-test-win-against-australia-2026-08-21-1052031",
+    "time": "2026-08-21T07:36:00.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Matt Renshaw returns as Australia name playing XI for second Bangladesh Test in Mackay",
     "desc": "The stage is set for the second and final Test of the ongoing series between Australia and Bangladesh. The two sides are slated to take on each other at the Great Barrier Reef Arena, Mackay,...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/hockey/indian-progress-to-top-8-of-women-s-hockey-world-cup-after-0-0-draw-against-england-2026-08-20-1051985",
     "time": "2026-08-20T17:33:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PV Sindhu eliminated from BWF World Championships, speculates Wang Zhi Yi's injury break as tactic",
-    "desc": "PV Sindhu’s bid for a second gold in the BWF World Championships ended on Thursday, August 20, after the Indian star lost to China’s Wang Zhi Yi in the women’s singles pre-quarterfinals at the Indira...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/pv-sindhu-eliminated-from-bwf-world-championships-speculates-wang-zhi-yi-s-injury-break-as-tactic-2026-08-20-1051980",
-    "time": "2026-08-20T16:35:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Joe Root equals Sachin Tendulkar's world record in Test cricket with half-century against Pakistan",
-    "desc": "Joe Root rediscovered his form in England’s first Test against Pakistan at Headingley in Leeds. After an underwhelming three-match series against New Zealand, Root responded strongly in his first outing as captain as he once...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/joe-root-equals-sachin-tendulkar-s-world-record-in-test-cricket-with-half-century-against-pakistan-2026-08-20-1051977",
-    "time": "2026-08-20T15:50:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bangladesh Cricket Board suspends BPL for 2026-27 season, president Tamim Iqbal explains reason",
-    "desc": "Bangladesh Cricket Board president Tamim Iqbal has confirmed that the Bangladesh Premier League’s 2026-27 season is uncertain amid issues concerning the financial and operational departments. Tamim said the BCB has suffered substantial losses from the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-cricket-board-suspends-bpl-for-2026-27-season-president-tamim-iqbal-explains-reason-2026-08-20-1051973",
-    "time": "2026-08-20T15:01:26.000Z"
   }
 ];

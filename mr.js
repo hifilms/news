@@ -7,14 +7,5 @@ const newsData_mr = [
     "src": "abplive.com",
     "url": "https://marathi.abplive.com/news/maharashtra-live-news-updates-21-august-2026-shivsena-name-and-symbol-hearing-in-supreme-court-uddhav-thackeray-eknath-shinde-marathi-auto-taxi-devendra-fadnavis-manoj-jarange-maharashtra-politics-1436220",
     "time": "2026-08-21T01:17:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "वंदे मातारमबाबत काँग्रेसचा ठराव, अमित शाहांचा हल्लाबोल",
-    "desc": "वंदे मातारमबाबत काँग्रेसचा ठराव, अमित शाहांचा हल्लाबोल संपूर्ण वंदे मातरमचा कायदा झाल्यानंतर सुरू झालेला वाद शमण्याची चिन्हं नाहीत... काँग्रेसनं काल झालेल्या कार्यकारिणी बैठकीत वंदे मातरमची दोनच कडवी म्हणण्याचा ठराव केलाय... खरंतर १९३७ साली तत्कालिन नेत्यांनी केलेलाच ठराव लागू राहील असा निर्णय घेतलाय... मात्र यावरून भाजपनं काँग्रेसवर टिकेची झोड उठवलीये... केंद्रीय गृहमंत्र्यांनी तर वंदे मातरम तोडल्यामुळेच फाळणी झाल्याचा आरोप आता काँग्रेसवर केलाय... बघुयात राष्ट्रीय गीतावरून रंगलेल्या राजकारणाचा हा पुढला अंक...'वंदे मातरम' या राष्ट्रगीताबाबत काँग्रेस कार्यसमितीने घेतलेल्या निर्णयावर केंद्रीय गृहमंत्री अमित शाह यांनी जोरदार हल्लाबोल केला आहे. काँग्रेस पक्ष पुन्हा एकदा तुष्टीकरणाचे राजकारण करत असल्याची जोरदार टीका शाह यांनी केली. काँग्रेसचा हा निर्णय देशविरोधी असल्याचा बोचरा वारही त्यांनी केला. &nbsp;",
-    "img": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/08/20/c9aeed6684e8d41f008a4507d91eee1b17872444395611343_original.png",
-    "src": "abplive.com",
-    "url": "https://marathi.abplive.com/videos/news/amit-shah-criticized-congress-on-vande-mataram-congress-reply-bjp-rahul-gandhi-1436210",
-    "time": "2026-08-20T16:51:04.000Z"
   }
 ];
