@@ -1,5 +1,68 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Laapataa Ladies actor files FIR against Paid Paalki makers; AICWA backs him",
+    "desc": "Laapataa Ladies actor Satendra Soni has filed a Zero FIR against Paid Paalki filmmaker Pushpendra Singh and wife, actor Pragati Chauhan, alleging assault, wrongful confinement, intimidation and non-payment of dues. The All Indian Cine Workers Association (AICWA) has backed Soni and actor Shreedhar Dubey, calling for a fair, transparent investigation and strict legal action.",
+    "img": "https://static.toiimg.com/photo/msid-133413592,imgsize-126781.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/laapataa-ladies-actor-satendra-soni-files-fir-against-paid-paalki-filmmaker-pushpendra-singh-wife-pragati-chauhan-over-alleged-assault-and-non-payment-aicwa-demands-fair-probe/articleshow/133413583.cms",
+    "time": "2026-08-21T20:49:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Neeraj Chopra finishes second, Pathirage wins title in Lausanne Diamond League",
+    "desc": "His 88.05m throw in the second round, which fetched him the second spot in the nine-man star-studded field, was his best after the 88.16m he recorded while winning the Paris Diamond League in June 2025",
+    "img": "https://th-i.thgim.com/public/incoming/fs3mpk/article71375344.ece/alternates/LANDSCAPE_1200/Switzerland_Diamond_League_Athletics_58277.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/neeraj-chopra-finishes-second-pathirage-wins-title-in-lausanne-diamond-league/article71375340.ece",
+    "time": "2026-08-21T20:38:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court trims law practice requirement to 1 year for judicial service",
+    "desc": "Successful applicants with a year’s legal practice would undergo one year of intensive training at the concerned State judicial academy, followed by a final year of law clerkship with senior judicial officers and High Court judges",
+    "img": "https://th-i.thgim.com/public/incoming/4n6gkw/article71372641.ece/alternates/LANDSCAPE_1200/PTI08_13_2026_000565A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/supreme-court-reduces-three-year-mandatory-legal-practice-to-one-year-for-the-entry-level-judicial-exam/article71372618.ece",
+    "time": "2026-08-21T20:08:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Chopra finishes 2nd as Sri Lanka’s Pathirage wins again",
+    "desc": "Rumesh Tharanga Pathirage edged Neeraj Chopra by just nine centimetres to beat him for the third time this season at the Lausanne Diamond League. Chopra briefly led with an 88.05m second-round throw, but Pathirage responded with 88.14m. Chopra settled for silver, while Anderson Peters took third, with the result also boosting Chopra’s hopes of reaching the Diamond League Final.",
+    "img": "https://static.toiimg.com/photo/msid-133413441,imgsize-79506.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/lausanne-diamond-league-neeraj-chopra-finishes-second-by-9cm-as-sri-lankas-pathirage-seals-third-straight-win/articleshow/133410611.cms",
+    "time": "2026-08-21T19:56:21.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "After Rahul’s dharna, police register FIR on pellet gun use at Delhi protest",
+    "desc": "Rahul Gandhi sat in a dharna after Sahil Lochab, a 19-year-old who lost his eyesight after being hit by pellets during the protest, said the police had refused to register an FIR on his complaint",
+    "img": "https://th-i.thgim.com/public/incoming/731opu/article71375286.ece/alternates/LANDSCAPE_1200/RAHUL%20PRIYANKA%20PROTEST_21_08_67.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/delhi-police-fir-over-pellet-injuries-to-youth-during-july-20-protest/article71373663.ece",
+    "time": "2026-08-21T19:22:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Rahul ends over-6-hour dharna after FIR registered on pellet victim’s complaint",
+    "desc": "The leader of the Opposition sat in a dharna after Sahil Lochab, a 19-year-old who lost his eyesight after being hit by pellets during the protest, said the police had refused to register an FIR on his complaint",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/rahul-gandhi-delhi-dharna-congress-cjp-protest-pellet-gun/article71372891.ece",
+    "time": "2026-08-21T19:21:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Women’s hockey World Cup: India goes down fighting to Netherlands, suffers first loss",
+    "desc": "Jansen and Matla’s penalty-corner goals take the defending champion into the semifinals; Marijne’s side pays the price for squandering the limited chances; however, the draw between Australia and China leaves the door open for all three sides",
+    "img": "https://th-i.thgim.com/public/incoming/3t2p95/article71375280.ece/alternates/LANDSCAPE_1200/AFP_C6969XT.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/hockey/womens-hockey-world-cup-india-goes-down-fighting-to-netherlands-suffers-first-loss/article71375283.ece",
+    "time": "2026-08-21T19:00:51.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "FIH Women's Hockey World Cup: India go down 0-2 to Netherlands",
     "desc": "The defeat leaves India with a tough task in their final second-round match. India will face Australia on Sunday and need a win to keep their hopes of reaching the semi-finals alive. Australia were held to a 1-1 draw by China in another second-round match earlier on Friday.",
@@ -19,24 +82,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "After Rahul’s dharna, police register FIR on pellet gun use at Delhi protest",
-    "desc": "Rahul Gandhi sat in a dharna after Sahil Lochab, a 19-year-old who lost his eyesight after being hit by pellets during the protest, said the police had refused to register an FIR on his complaint",
-    "img": "https://th-i.thgim.com/public/incoming/nje4mu/article71373678.ece/alternates/LANDSCAPE_1200/PTI08_21_2026_000267A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/delhi-police-fir-over-pellet-injuries-to-youth-during-july-20-protest/article71373663.ece",
-    "time": "2026-08-21T17:15:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SC relaxes rule to apply for judicial service, one-year practice now enough",
-    "desc": "Successful applicants with a year’s legal practice would undergo one year of intensive training at the concerned State judicial academy, followed by a final year of law clerkship with senior judicial officers and High Court judges",
-    "img": "https://th-i.thgim.com/public/incoming/4n6gkw/article71372641.ece/alternates/LANDSCAPE_1200/PTI08_13_2026_000565A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/supreme-court-reduces-three-year-mandatory-legal-practice-to-one-year-for-the-entry-level-judicial-exam/article71372618.ece",
-    "time": "2026-08-21T17:10:25.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Kerala High Court issues notice to VACB Director on petition against DGP",
     "desc": "Petition filed by an assistant motor vehicles inspector says that S. Sreejith ‘engaged in systematic corruption, including the formation of an unofficial Transport Commissioner’s Squad, to victimise subordinate staff and to facilitate illicit transactions’ during his tenure as Transport Commissioner",
     "img": "https://th-i.thgim.com/public/incoming/dbkvac/article71375110.ece/alternates/LANDSCAPE_1200/JC-6_-Suresh-RaGCEGB6EET.3.jpg.jpg",
@@ -52,15 +97,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/lausanne-diamond-league-why-neeraj-chopra-has-more-at-stake-today-than-settling-score-with-pathirage/articleshow/133409174.cms",
     "time": "2026-08-21T16:49:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Now, protesters at Jantar Mantar seek overhaul of reservation system",
-    "desc": "On Friday (August 21) morning, the protesters, many of whom were mobilised by different organisations representing people from “general” castes such as Karni Sena and Ranbir Sena, arrived at Jantar Mantar despite public statements from the Delhi Police saying that no permission had been granted for a demonstration at this site",
-    "img": "https://th-i.thgim.com/public/incoming/6wao35/article71375053.ece/alternates/LANDSCAPE_1200/20260821434L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/delhi-jantar-mantar-anti-reservation-protest-august-21-2026-updates/article71373484.ece",
-    "time": "2026-08-21T16:40:49.000Z"
   },
   {
     "cat": "Entertainment",
@@ -88,24 +124,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/indian-payments-firms-raised-58-bn-in-last-five-years/article71374804.ece",
     "time": "2026-08-21T16:19:58.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Bihar Minister’s remark on impact of sugar price rise invites criticism",
-    "desc": "‘Due to increasing cases of diabetic patients, people are not taking sweets. Everyone is suffering from diabetes. I don’t think the price rise of sugar will make much difference for people,’ says State Minister Shrawan Kumar",
-    "img": "https://th-i.thgim.com/public/news/9t5lxj/article71374873.ece/alternates/LANDSCAPE_1200/shrawon%20kumar%20bihar%20minister.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/bihar-ministers-remark-on-impact-of-sugar-price-rise-invites-criticism/article71373569.ece",
-    "time": "2026-08-21T16:15:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Opposition blames ethanol blending policy for rise in sugar prices",
-    "desc": "Sugar prices up from ₹48 to ₹67 a kg over last three months, says Congress, blaming the diversion of sugarcane for fuel; asks why policy has not resulted in petrol price cut despite falling global crude rates",
-    "img": "https://th-i.thgim.com/public/incoming/yrkl4o/article71372202.ece/alternates/LANDSCAPE_1200/20260712217L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/aap-targets-centre-over-spike-in-sugar-prices/article71369396.ece",
-    "time": "2026-08-21T16:13:13.000Z"
   },
   {
     "cat": "World",
@@ -142,15 +160,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/legal/news/mental-age-of-8-or-9-years-cannot-automatically-mean-adult-woman-lacks-sexual-capacity-gauhati-hc-acquits-rape-convict/articleshow/133408134.cms",
     "time": "2026-08-21T15:50:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala High Court suspends sentence of Geethanandan, three others",
-    "desc": "Trial court had awarded them five years’ rigorous imprisonment and imposed a fine of ₹36,000 each in connection with the attempt to murder a senior civil police officer and the abduction of a forest range officer. HC orders that all four be released on bail",
-    "img": "https://th-i.thgim.com/public/incoming/vqsqf4/article71374817.ece/alternates/LANDSCAPE_1200/2003-Muthanga-tGV4GAV9F4.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/muthanga-violence-kerala-high-court-suspends-sentence-of-geethanandan-three-others/article71374160.ece",
-    "time": "2026-08-21T15:49:48.000Z"
   },
   {
     "cat": "Entertainment",
@@ -297,33 +306,6 @@ const newsData_en = [
     "time": "2026-08-21T13:20:32.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'A border state': Akali leader Majithia fuels buzz over SAD-BJP reunion, gives this reason",
-    "desc": "Bikram Singh Majithia of the Shiromani Akali Dal expressed that public sentiment is leaning towards an alliance with the BJP. He highlighted Punjab's strategic location and the importance of social harmony as pivotal factors. The two parties had a longstanding relationship before parting ways over farm laws. Majithia emphasised that the final decision will come from the leadership of both sides, leaving the results of this potential collaboration uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-133405591,imgsize-120794.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/a-border-state-akali-leader-majithia-fuels-buzz-over-sad-bjp-reunion-gives-this-reason/articleshow/133405573.cms",
-    "time": "2026-08-21T13:14:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'His personal views': Punjab Congress distances itself from Deepender Hooda over Sajjan Kumar tribute row",
-    "desc": "Punjab Congress leaders distanced the party from Deepender Singh Hooda's remarks. Hooda described Sajjan Kumar, a 1984 riots convict, as a nationwide role model. The party stated its support for riot victims and their affected families. Hooda's comments drew sharp criticism from Sikh groups and opposition parties. Sajjan Kumar, convicted in the 1984 anti-Sikh riots, died recently.",
-    "img": "https://static.toiimg.com/photo/msid-133405294,imgsize-765511.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/his-personal-views-punjab-congress-distances-itself-from-deepender-hooda-over-sajjan-kumar-tribute-row/articleshow/133405142.cms",
-    "time": "2026-08-21T13:01:14.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "FIR lodged over protester's pellet injury; govt explains why T'gana CM's US visit was scrapped, and more",
-    "desc": "In a significant action, Delhi Police have filed an FIR concerning a student protester’s complaint about a pellet injury. Meanwhile, the Ministry of External Affairs has denied political clearance for Telangana CM Revanth Reddy's trip to the US, deeming the visit inappropriate. In another incident, an Andhra MP's son faced charges after allegedly causing a fatal incident involving his Aston Martin.",
-    "img": "https://static.toiimg.com/photo/msid-133404958,imgsize-125991.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-fir-lodged-over-protesters-pellet-injury-govt-explains-why-tgana-cms-us-visit-was-scrapped-and-more/articleshow/133404566.cms",
-    "time": "2026-08-21T12:58:55.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Satwik-Chirag crash out of BWF World Championsips after straight-game loss to Liang-Wang",
     "desc": "Satwiksairaj Rankireddy and Chirag Shetty lost their quarter-final match at the BWF World Championships. The Indian men's doubles pair was defeated by China's Liang Wei Keng and Wang Chang. This loss ended India's hopes for a medal in the men's doubles event. Earlier, Treesa Jolly and Gayatri Gopichand secured a historic medal for India. They will now face top seeds in the women's doubles semi-finals.",
@@ -378,15 +360,6 @@ const newsData_en = [
     "time": "2026-08-21T12:23:31.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Police register FIR on protester's pellet injury complaint",
-    "desc": "Delhi Police registered an FIR regarding a student protester's alleged pellet-gun injury. Rahul Gandhi staged a sit-in after alleging the complaint was initially refused. The student, Sahil Lochab, claims over 200 pellets lodged in his body. He stated his vision in one eye remains unclear after surgery. The protest concerned alleged irregularities and the NEET paper-leak controversy.",
-    "img": "https://static.toiimg.com/photo/msid-133404168,imgsize-1471874.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/rahul-gandhi-dharna-police-register-fir-on-protesters-pellet-injury-complaint-says-report/articleshow/133404092.cms",
-    "time": "2026-08-21T12:18:23.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Joe Root creates history in Headingly, moves past Steve Smith in Test cricket",
     "desc": "In a remarkable achievement, Joe Root has eclipsed Steve Smith to become the foremost fielder for Test cricket catches. This significant milestone was celebrated with a crisp catch at leg slip during the opening Test. With a strategic bowling effort, England's attack secured Root's record-breaking moment, allowing the team to establish a commanding lead against Pakistan in the match, further embellishing Root's impressive cricket legacy.",
@@ -432,15 +405,6 @@ const newsData_en = [
     "time": "2026-08-21T11:28:12.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Congress’s renewed youth outreach: How CJP has forced political parties to course correct",
-    "desc": "Student protests at Jantar Mantar have prompted political parties to rethink their youth engagement strategies. The Congress party is now focusing on youth issues and expanding its outreach programs nationwide. Rahul Gandhi's recent actions highlight the party's renewed commitment to addressing student concerns. The Congress Working Committee has proposed an education-to-employment roadmap for young people. This shift reflects a broader effort to regain support among the nation's youth.",
-    "img": "https://static.toiimg.com/photo/msid-133406187,imgsize-673340.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/congresss-renewed-youth-outreach-how-cjp-has-forced-political-parties-to-course-correct/articleshow/133402006.cms",
-    "time": "2026-08-21T11:20:29.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Tamannaah Bhatia stuns in Rs 52K dress and 1 lakh pumps",
     "desc": "Tamannaah Bhatia stepped out in a sophisticated Maje layered-effect dress worth around ₹52,205, pairing the statement outfit with Chloé Andrea slingback pumps and jewellery from her own brand. Here’s a closer look at her latest fashion outing, understated glam and work front.",
@@ -457,15 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kareena-kapoor-khan-is-not-pregnant-singham-again-actress-team-confirms/articleshow/133402478.cms",
     "time": "2026-08-21T11:09:03.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Programme not appropriate': MEA on rejecting clearance for Revanth Reddy's US visit",
-    "desc": "Telangana Chief Minister Revanth Reddy's planned visit to the US has been denied political clearance by the Ministry of External Affairs, which found the proposed activities unsuitable. However, he has secured clearance for his trip to the UK. As a result, the Chief Minister's office confirmed the cancellation of the US portion, prompting an earlier return to Hyderabad than originally planned.",
-    "img": "https://static.toiimg.com/photo/msid-133402163,imgsize-718336.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/programme-not-appropriate-mea-on-rejecting-clearance-for-revanth-reddys-us-visit/articleshow/133402115.cms",
-    "time": "2026-08-21T10:56:32.000Z"
   },
   {
     "cat": "Entertainment",
@@ -493,24 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/sbi-cash-withdrawal-rules-change-from-october-1-rs-15-fee-after-four-free-transactions/articleshow/133401205.cms",
     "time": "2026-08-21T10:32:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Attention-seeking': Nadda says Rahul's sit-in bid to divert attention from Vande Mataram row",
-    "desc": "Union minister JP Nadda slammed Rahul Gandhi for staging a protest outside a police station, labeling it a desperate bid for media coverage. Nadda asserted that the demonstration was merely an effort to distract from the ongoing Vande Mataram controversy tied to Congress. Meanwhile, Rahul Gandhi sought to address police brutality towards students—an issue the Supreme Court is currently reviewing following the July 20 incident.",
-    "img": "https://static.toiimg.com/photo/msid-133401445,imgsize-948580.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/attention-seeking-nadda-says-rahuls-sit-in-bid-to-divert-attention-from-vande-mataram-row/articleshow/133401362.cms",
-    "time": "2026-08-21T10:27:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ashwin Mushran FINALLY ADDRESSES Goa accident controversy",
-    "desc": "Actor Ashwin Mushran has taken to social media to address accusations regarding his involvement in a biker incident in Goa. He shared an enigmatic video suggesting potential consequences for the spread of false information. Local leader Amol Kanekar accused Mushran of participating in the accident, but authorities have confirmed that he was not behind the wheel; rather, his driver was responsible.",
-    "img": "https://static.toiimg.com/photo/msid-133400925,imgsize-304460.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/lage-raho-munna-bhai-actor-ashwin-mushran-finally-addresses-goa-accident-controversy-if-you-spew-venom-or-post-unverified-information/articleshow/133400211.cms",
-    "time": "2026-08-21T10:09:28.000Z"
   },
   {
     "cat": "Entertainment",
@@ -655,24 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-august-21-2026-dlf-pg-electroplast-ltd-sansera-engineerng-stocks-to-buy-today/articleshow/133392017.cms",
     "time": "2026-08-21T03:37:57.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "US vows toughest-ever Iran sanctions, presses China to help reopen Hormuz",
-    "desc": "The United States is preparing unprecedented sanctions against Iran. These measures aim to increase economic pressure on Tehran significantly. Washington also seeks cooperation from China regarding Iranian oil trade. China rejects sanctions and advocates for diplomatic solutions to the conflict. The Strait of Hormuz remains a critical point in this ongoing dispute.",
-    "img": "https://static.toiimg.com/photo/msid-133390883,imgsize-91272.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/one-two-punch-us-vows-toughest-ever-iran-sanctions-presses-china-to-help-reopen-hormuz/articleshow/133390802.cms",
-    "time": "2026-08-21T02:14:06.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Brent hovers near $94 as US-Iran conflict continues to squeeze energy supply",
-    "desc": "On Friday, oil prices held steady, with Brent crude nearing $94 per barrel amid ongoing supply disruptions triggered by the US-Iran conflict. Both Brent and WTI benchmarks are poised for a second consecutive weekly increase. President Trump earlier issued threats of retaliation against nations backing Iran, as the ongoing war has resulted in significant casualties and interruptions to oil and gas supplies.",
-    "img": "https://static.toiimg.com/photo/msid-133390906,imgsize-98269.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/brent-hovers-near-94-as-us-iran-conflict-continues-to-squeeze-energy-supply/articleshow/133390846.cms",
-    "time": "2026-08-21T02:11:48.000Z"
   },
   {
     "cat": "World",
@@ -898,5 +817,14 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
     "time": "2024-03-11T09:19:46.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Former Activision boss reportedly wants to buy TikTok",
+    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
+    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
+    "time": "2024-03-11T09:08:25.000Z"
   }
 ];

@@ -1,8 +1,8 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Can Indian javelin star beat Sri Lanka's Rumesh Pathirage?",
-    "desc": "Neeraj Chopra will compete at the Lausanne Diamond League as he looks to strengthen his position in the race for qualification to the Diamond League Final and the Ultimate Athletics Championships in Budapest. The Indian javelin...",
+    "title": "Neeraj finishes second with season-best throw of 88.05 metres",
+    "desc": "Neeraj Chopra competed at the Lausanne Diamond League and finished second with a season-best throw of 88.05 metres. Sri Lanka's Rumesh Pathirage, who won the gold medal in the Commonwealth Games, once again topped the...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/neeraj-chopra-live-at-lussane-diamond-league-2026-live-updates-results-javelin-throw-highlights-winner-rumesh-pathirage-1052105",
