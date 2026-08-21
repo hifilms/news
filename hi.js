@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "US Open scripts history, sets record prize money for singles champions ahead of 2026 edition; Check details",
+    "desc": "The stage is set for yet another season of the US Open. Ahead of the latest edition of the marquee tournament, the US Open is set to offer the biggest prize money in Grand Slam...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/us-open-scripts-history-sets-record-prize-money-for-singles-champions-ahead-of-2026-edition-check-details-2026-08-21-1051999",
+    "time": "2026-08-21T02:50:03.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India's tour of Bangladesh is very likely to be postponed again, BCB president Tamim Iqbal indicates",
     "desc": "India’s tour of Bangladesh is set to be postponed again. It was scheduled to take place in September, but Bangladesh Cricket Board president Tamim Iqbal has confirmed that the two boards are still discussing the...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/diamond-harbour-fc-out-of-isl-2026-27-as-aiff-confirm-13-teams-for-next-season-2026-08-20-1051947",
     "time": "2026-08-20T11:02:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gayatri Gopichand, Treesa Jolly stun Japanese pair, move to quarters of BWF World Championship",
-    "desc": "Treesa Jolly and Gayatri Gopichand moved into the quarter-finals of the BWF World Championships after defeating seventh seeds Rin Iwanaga and Kie Nakanishi of Japan 21-16, 21-12 at the Indira Gandhi Stadium in New Delhi....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/gayatri-gopichand-treesa-jolly-stun-japanese-pair-move-to-quarters-of-bwf-world-championship-2026-08-20-1051938",
-    "time": "2026-08-20T10:05:01.000Z"
   }
 ];
