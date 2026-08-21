@@ -1,5 +1,131 @@
 const newsData_en = [
   {
+    "cat": "World",
+    "title": "Five years after Taliban takeover, life in Afghanistan marred by many struggles",
+    "desc": "While the Taliban have retained power, a weak economy, suffocating restrictions on women, international isolation and growing tensions with Pakistan remain key challenges; widespread poverty, unemployment and dependence on humanitarian assistance are the reality for millions",
+    "img": "https://th-i.thgim.com/public/incoming/typ0ze/article71370671.ece/alternates/LANDSCAPE_1200/AFP_C4QT49E.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/five-years-after-taliban-takeover-life-in-afghanistan-marred-by-many-struggles/article71369494.ece",
+    "time": "2026-08-21T00:54:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Joe Root scripts history, becomes first player to achieve this feat",
+    "desc": "In a groundbreaking achievement, Joe Root has scored 3,000 runs as captain in the World Test Championship, marking a historic moment during England's first Test against Pakistan at Headingley. Root's remarkable batting skills have firmly established him atop the WTC captaincy run charts. His stellar performance has not only propelled England to a commanding first-innings advantage but also reinforces his legacy in Test cricket.",
+    "img": "https://static.toiimg.com/photo/msid-133390431,imgsize-71334.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/joe-root-scripts-history-becomes-first-player-to-achieve-this-feat/articleshow/133390425.cms",
+    "time": "2026-08-21T00:50:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Meghan Markle and Prince Harry's California neighbours react to their UK shift",
+    "desc": "Meghan Markle and Prince Harry are moving back to the United Kingdom after six years. Their children, Prince Archie and Princess Lilibet, will also relocate and start school. Neighbours in Montecito expressed relief and a desire for increased privacy following their departure. The royal couple plans to reside on private property and will not hold royal status. They will retain their Santa Barbara estate while making this significant transition.",
+    "img": "https://static.toiimg.com/photo/msid-133390410,imgsize-206531.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/meghan-markle-and-prince-harrys-uk-shift-montecito-neighbours-react-the-town-is-exhausted-by-the-never-ending-drama/articleshow/133390388.cms",
+    "time": "2026-08-21T00:47:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Khalifa'BO day 1: Prithviraj film earns Rs 4.90 crore",
+    "desc": "Prithviraj Sukumaran's film 'Khalifa' has opened to a positive box office response. The movie collected an estimated India net of Rs 4.90 crore on its first day. Kerala emerged as the film's biggest market, contributing significantly to its gross earnings. The Vysakh directorial recorded an overall occupancy of 46% across its shows. 'Khalifa' marks a reunion of Prithviraj Sukumaran and director Vysakh after their previous collaboration.",
+    "img": "https://static.toiimg.com/photo/msid-133390396,imgsize-179906.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/khalifa-box-office-collections-day-1-prithviraj-sukumaran-film-earns-rs-4-90-crore-india-gross-reaches-rs-5-68-crore/articleshow/133390393.cms",
+    "time": "2026-08-21T00:42:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kangana on Sharmila Tagore's comment on 'Vande Mantaram': 'Come out of Hindu Muslim mindset'",
+    "desc": "The conversation surrounding the religious undertones of Vande Mataram has reignited. Esteemed actress Sharmila Tagore voiced her apprehensions regarding its acceptance by followers of monotheistic religions. In contrast, Kangana Ranaut interpreted the verses as powerful symbols, advocating for an inclusive understanding that transcends religious boundaries. This dialogue underscores the historical importance and national identity encapsulated in Vande Mataram.",
+    "img": "https://static.toiimg.com/photo/msid-133390397,imgsize-302225.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-reacts-to-sharmila-tagores-comment-on-vande-mantaram-shocked-to-see-as-an-artist-her-views-are-so-limiting-please-come-out-of-hindu-muslim-mindset/articleshow/133390361.cms",
+    "time": "2026-08-21T00:42:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Vishwanath and Sons' BO day 7: Suriya starrer earns Rs 4.20 crore",
+    "desc": "On its seventh day, Vishwanath and Sons amassed an impressive Rs 4.20 crore, pushing its first-week net total in India to Rs 81.60 crore. With an additional Rs 1 crore from international markets, the worldwide gross reached Rs 141.32 crore. Notably, the Telugu version outperformed its Tamil counterpart, with Andhra Pradesh and Telangana proving to be the biggest revenue generators on day seven.",
+    "img": "https://static.toiimg.com/photo/msid-133390347,imgsize-298288.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vishwanath-and-sons-box-office-collections-day-7-suriya-starrer-earns-rs-4-20-crore-17-6-drop-from-day-6/articleshow/133390346.cms",
+    "time": "2026-08-21T00:26:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Awarapan 2' box office collection Day 7: Emraan's film wraps up first week with solid Rs 113 cr",
+    "desc": "Emraan Hashmi's 'Awarapan 2' has emerged as a blockbuster sensation, raking in over 113 crore rupees in just one week. Leveraging the buzz of the Independence Day holiday, the film has maintained impressive momentum, heralding a remarkable resurgence for the actor. This achievement positions the film among the most lucrative post-COVID releases during the Independence Day weekend.",
+    "img": "https://static.toiimg.com/photo/msid-133390313,imgsize-163131.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/awarapan-2-box-office-collection-day-7-emraan-hashmi-starrer-wraps-up-first-week-with-solid-rs-113-crore-is-a-hit-with-151-percent-roi/articleshow/133390145.cms",
+    "time": "2026-08-21T00:15:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Spider-Man: Brand New Day' eyes USD 2.2 billion worldwide",
+    "desc": "Brand New Day\" continues its impressive box office run. It has earned Rs 568 crore in India after completing its third week. Globally, the film has grossed approximately USD 2.04 billion to date. This superhero movie is now aiming to surpass USD 2.2 billion worldwide. It has also become the fastest film to cross USD 800 million globally.",
+    "img": "https://static.toiimg.com/photo/msid-133390295,imgsize-479572.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/spider-man-brand-new-day-box-office-collection-day-22-tom-holland-starrer-ends-third-week-with-rs-568-crore-haul-in-india-eyes-usd-2-2-billion-worldwide/articleshow/133389922.cms",
+    "time": "2026-08-21T00:12:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taylor Swift to drop new music? Empire State Building turns green",
+    "desc": "Taylor Swift fans are buzzing with speculation about a significant upcoming announcement. Mysterious green 'TS' logos have appeared in various locations, fueling fan theories. The Empire State Building's recent green illumination further intensified these rumors. Fans are connecting the color green to Swift's album 'Reputation' and her signature. Speculation centers on new music or a re-recorded album release.",
+    "img": "https://static.toiimg.com/photo/msid-133389872,imgsize-409901.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/taylor-swift-to-drop-new-music-post-marriage-to-travis-kelce-empire-state-building-turns-green-mysterious-ts-logos-fuel-speculation/articleshow/133389749.cms",
+    "time": "2026-08-20T23:35:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Messi and Ronaldo shirts go head-to-head in auction, with one selling six times more",
+    "desc": "A Lionel Messi shirt worn during Barcelona’s 2012 friendly against Manchester United has sold for $66,107 at auction, more than six times the price of Cristiano Ronaldo’s Real Madrid shirt. Signed by Messi for former United masseur Rod Thornley, the jersey topped a collection featuring shirts from Ryan Giggs, Paul Scholes, David Beckham, Nicky Butt and Gary Neville.",
+    "img": "https://static.toiimg.com/photo/msid-133389806,imgsize-50672.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/messi-and-ronaldo-shirts-from-same-collection-go-head-to-head-at-auction-with-one-selling-for-six-times-more/articleshow/133387601.cms",
+    "time": "2026-08-20T23:13:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Charles Melton sparks marriage buzz; hints at secret wedding",
+    "desc": "Actor Charles Melton has reportedly married his partner Camille Summers-Valli. The couple welcomed their first child earlier this year, a daughter. They have largely kept their relationship and child private from public view. Melton was previously in a public relationship with Camila Mendes. He is also in negotiations for a role in the live-action Naruto movie.",
+    "img": "https://static.toiimg.com/photo/msid-133389717,imgsize-436665.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/beef-2-star-charles-melton-secretly-married-camille-summers-valli-actor-calls-partner-his-wife/articleshow/133389713.cms",
+    "time": "2026-08-20T22:39:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Brian, Hayden Panettiere’s on-and-off BF, breaks silence through lawyer",
+    "desc": "Brian Hickerson, Hayden Panettiere’s on-and-off boyfriend, has broken his silence through his lawyer following the actress’ sudden death at 36. His statement comes after Panettiere’s mother, Lesley Vogel, raised concerns about Hickerson’s presence when her daughter died. Authorities say the investigation remains ongoing, while preliminary findings have shown no signs of foul play.",
+    "img": "https://static.toiimg.com/photo/msid-133389716,imgsize-95670.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brian-hickerson-hayden-panettieres-on-and-off-boyfriend-breaks-silence-through-lawyer-after-actress-sudden-death-at-36-following-her-mothers-statement/articleshow/133389712.cms",
+    "time": "2026-08-20T22:39:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Alia to have extended role opposite Ranbir-Deepika",
+    "desc": "Alia Bhatt will have an extended appearance in Brahmastra 2, reportedly shooting for twenty-five days. Ranbir Kapoor is expected to portray a dual role in the upcoming sequel. Deepika Padukone is in talks to play a leading role as Amrita. The film's script is finalized, and shooting is planned for approximately one hundred twenty-five days. Ranbir Kapoor is scheduled to begin filming the highly anticipated sequel in April 2027.",
+    "img": "https://static.toiimg.com/photo/msid-133387604,imgsize-212890.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/brahmastra-part-2-alia-bhatt-to-have-an-extended-appearance-feature-as-parallel-lead-with-deepika-padukone-in-ranbir-kapoor-starrer/articleshow/133387602.cms",
+    "time": "2026-08-20T21:52:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Terry Dyson, Spurs legend who won Double and hit only Arsenal hat-trick, dies aged 91",
+    "desc": "Tottenham Hotspur legend Terry Dyson has died aged 91. A key member of the club’s historic 1960-61 Double-winning side, Dyson scored in the FA Cup Final and twice in the 1963 European Cup Winners’ Cup Final. He also remains the only Spurs player to score a hat-trick against Arsenal, cementing his place in Tottenham history.",
+    "img": "https://static.toiimg.com/photo/msid-133387577,imgsize-141058.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/terry-dyson-spurs-legend-who-won-1960-61-double-and-remains-only-player-to-hit-arsenal-hat-trick-dies-aged-91/articleshow/133387424.cms",
+    "time": "2026-08-20T21:13:00.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "‘Govinda and Komal were planning to marry’: Sunita on divorce case",
     "desc": "Sunita Ahuja has revealed during a phone conversation with Rakhi Sawant that Govinda and his alleged girlfriend Komal Rani Swarnakar were “planning to get married.” Her comments came after she withdrew her divorce petition against Govinda. Rakhi supported Sunita, urged her to stay strong and focus on the actor’s reported Rs 200 crore property.",
@@ -306,24 +432,6 @@ const newsData_en = [
     "time": "2026-08-20T13:54:37.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Amit Shah hails South's development in CMs meet, cites 3 pillars of progress",
-    "desc": "\"The people of South India and the governments have also established many excellent traditions in the fields of innovation and revenue generation.\" He said that \"the whole of India should learn from South India in these two areas,\" as per the home ministery's statement.",
-    "img": "https://static.toiimg.com/photo/msid-133379395,imgsize-196140.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/amit-shah-hails-souths-development-in-cms-meet-cites-3-pillars-of-progress/articleshow/133379081.cms",
-    "time": "2026-08-20T13:36:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Battle for UP's 'Aadhi Aabadi': Why parties are wooing women voters like never before ahead of 2027 polls",
-    "desc": "Uttar Pradesh elections now prioritize women voters, who are a significant electoral force. Women's turnout has consistently surpassed men's in recent polls. Parties are actively wooing women with welfare schemes and cash transfers. Both the BJP and Samajwadi Party are making substantial promises to female voters. Winning the trust of over six crore women voters will be crucial for electoral success.",
-    "img": "https://static.toiimg.com/photo/msid-133377404,imgsize-1576833.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/battle-for-ups-aadhi-aabadi-why-parties-are-wooing-women-voters-like-never-before-ahead-of-2027-polls/articleshow/133377404.cms",
-    "time": "2026-08-20T13:16:37.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Trump’s new H-1B visa reality for Indians: Unpredictable costs, tougher odds, greater risks",
     "desc": "H-1B visas have long been the main road for Indian professionals who are seeking employment, long-term career opportunities, and eventually even the green card in the US. But over the past two years, several changes in the H-1B visa application and selection criterion have added a huge layer of uncertainty.",
@@ -361,84 +469,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "India’s first Asiad heptathlon gold medallist Barman suspended after positive doping test",
-    "desc": "Former Asian Games champion Swapna Barman has been provisionally suspended by NADA after testing positive for Boldenone, a banned anabolic-androgenic steroid. Barman, 29, made history by becoming India’s first Asian Games gold medallist in the heptathlon at Jakarta 2018. She represented India at the 2016 Olympics and retired earlier this month, citing persistent injuries and physical strain.",
-    "img": "https://static.toiimg.com/photo/msid-133377501,imgsize-46498.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/indias-first-asian-games-heptathlon-gold-medallist-swapna-barman-suspended-after-positive-doping-test/articleshow/133375414.cms",
-    "time": "2026-08-20T12:30:38.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Emraan wasn't convinced about Awarapan 2 at first",
-    "desc": "Producer Vishesh Bhatt reveals Emraan Hashmi was initially unsure about 'Awarapan 2,' calling the decision \"emotional\" rather than business-driven. Emraan preferred following up on 'Jannat' instead, but Vishesh persisted. The re-release trend's success eventually convinced Emraan. Released August 14, 'Awarapan 2' is now Emraan's highest-grossing film despite competition from 'Batwara 1947.'",
-    "img": "https://static.toiimg.com/photo/msid-133377204,imgsize-194013.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/emraan-hashmi-wasnt-convinced-about-awarapan-2-at-first-says-vishesh-bhatt-why-not-jannat/articleshow/133377174.cms",
-    "time": "2026-08-20T12:17:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'You were my first crush': Sunidhi's sweet confession to Big B",
-    "desc": "Sunidhi Chauhan graced the set of Kaun Banega Crorepati 18, where she playfully revealed her long-time crush on Amitabh Bachchan, leaving the iconic actor in good spirits. In a memorable moment, she performed the classic tune 'Yeh Mera Dil,' enchanting viewers. The captivating promo sparked an outpouring of admiration from fans who celebrate both artistic legends as they continue to thrive in their respective domains of music and film.",
-    "img": "https://static.toiimg.com/photo/msid-133377117,imgsize-1335322.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/you-were-my-first-crush-sunidhi-chauhans-confession-got-amitabh-bachchans-heartwinning-reply-leaves-the-singer-blush-watch/articleshow/133376893.cms",
-    "time": "2026-08-20T12:14:29.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Sam Curran ruled out for rest of English season with groin injury, Test comeback delayed",
     "desc": "England all-rounder Sam Curran will miss the rest of the season due to surgery. He will undergo an operation on Friday for a groin injury. This setback ends his hopes of a Test comeback this summer. Another all-rounder, Will Jacks, is also recovering from appendix surgery. Both players' availability for the Sri Lanka series remains uncertain.",
     "img": "https://static.toiimg.com/photo/msid-133377020,imgsize-60422.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/sam-curran-ruled-out-for-rest-of-english-season-with-groin-injury-test-comeback-delayed/articleshow/133376929.cms",
     "time": "2026-08-20T12:10:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Jailer 2' first song 'Ala Bolelo' promo sparks debate over Malayalam pronunciation",
-    "desc": "The recent promo for the song 'Ala Bolelo' from Jailer 2 has sparked dissatisfaction among fans in Kerala due to reported mispronunciations of Malayalam words. Fans took to social media to voice their disappointment, urging for more respect towards the language. The complete song is set to drop on August 21, while the highly anticipated film will hit theaters in October 2026.",
-    "img": "https://static.toiimg.com/photo/msid-133376356,imgsize-821828.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/jailer-2-song-ala-bolelo-promo-upsets-kerala-fans-over-malayalam-pronunciation-hire-a-lyric-writer-and-singer-who-knows-malayalam/articleshow/133376210.cms",
-    "time": "2026-08-20T11:52:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'UGC regulation under reconsideration', govt tells SC on controversial equity rules",
-    "desc": "The 2026 regulations had already been kept in abeyance by the top court on January 29. At the time, the court said the provisions were \"prima facie vague\" and could have \"very sweeping consequences\", warning that they could potentially divide society and have a \"dangerous impact\". The court had also asked the Centre and the UGC to respond to three petitions challenging the new framework.",
-    "img": "https://static.toiimg.com/photo/msid-133375691,imgsize-84950.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ugc-regulation-under-reconsideration-govt-tells-sc-on-controversial-equity-rules/articleshow/133375324.cms",
-    "time": "2026-08-20T11:24:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Don 3' row: Ranveer Singh's father submits plea to IMPPA",
-    "desc": "In a notable turn of events, Ranveer Singh's father has submitted a plea to the IMPPA concerning the ongoing Don 3 conflict. Excel Entertainment is demanding a staggering forty-five crore rupees in damages from the actor. The IMPPA is set to examine the documents presented by Singh's father. This news comes right after reports of Singh's departure from the project, while he has already commenced filming his latest movie, Pralay.",
-    "img": "https://static.toiimg.com/photo/msid-133375337,imgsize-756623.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/don-3-row-ranveer-singhs-father-jagjit-singh-bhavnani-submits-plea-to-imppa-on-actors-behalf-report/articleshow/133375271.cms",
-    "time": "2026-08-20T11:11:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Football fan groups call for FIFA prez Infantino’s resignation, launch petition",
-    "desc": "Football fan groups worldwide have launched the #InfantinoOut petition, calling for FIFA president Gianni Infantino to resign over his attempt to sell future World Cup profits to private investors. Around 40 national groups backed the campaign, criticising his leadership and lack of transparency. They also cited his support for the European Super League and biennial World Cups as reasons for their demands.",
-    "img": "https://static.toiimg.com/photo/msid-133375294,imgsize-39506.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/football-fan-groups-call-for-fifa-president-gianni-infantinos-resignation-launch-petition/articleshow/133375119.cms",
-    "time": "2026-08-20T11:08:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Suniel Shetty and wife Mana seek blessings at Golden Temple",
-    "desc": "Recently, actor Suniel Shetty and his wife Mana Shetty were spotted at the iconic Golden Temple in Amritsar, where they embraced tranquility and spirituality. During their visit, Suniel offered heartfelt prayers, asking for divine blessings. Adding a personal touch, he picked up Aam Papad for Mana from a nearby shop, reflecting their deep connection and down-to-earth spirit in this sacred setting.",
-    "img": "https://static.toiimg.com/photo/msid-133375209,imgsize-534737.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/suniel-shetty-and-wife-mana-seek-blessings-at-golden-temple-in-amritsar-actor-buys-aam-papad-for-her-at-local-shop/articleshow/133374786.cms",
-    "time": "2026-08-20T11:05:53.000Z"
   },
   {
     "cat": "Business",
@@ -448,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/nse-shares-may-trade-on-its-platform-under-permitted-to-trade-route-source/articleshow/133374230.cms",
     "time": "2026-08-20T10:59:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When Annu Kapoor received Anil Kapoor’s check",
-    "desc": "Annu Kapoor experienced a surprising moment when he received a cheque for ten thousand rupees from Anil Kapoor, believing it to be a benevolent gift from the film makers of Mashaal. His good fortune took a turn when Boney Kapoor showed up to claim Anil's due payment. Staying true to his principles, Annu graciously handed back the cheque to its rightful owner.",
-    "img": "https://static.toiimg.com/photo/msid-133374995,imgsize-210557.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/annu-kapoor-was-once-mistaken-for-anil-kapoor-during-mashaal-i-thought-yash-chopra-felt-pity-for-me-he-felt-pity-for-poor-man/articleshow/133374715.cms",
-    "time": "2026-08-20T10:55:55.000Z"
   },
   {
     "cat": "Sports",
@@ -478,57 +505,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "ICC makes U-turn on Gaddafi Stadium pitch demerit point",
-    "desc": "The ICC has withdrawn the demerit point given to Lahore’s Gaddafi Stadium pitch after reviewing an appeal by the PCB. The Appeals Panel examined match footage, referee reports and captains’ comments before finding the pitch satisfactory. It said the surface did not show excessive unevenness, seam movement or spin. Pakistan had won the ODI series 2-1.",
-    "img": "https://static.toiimg.com/photo/msid-133374646,imgsize-111988.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/icc-makes-u-turn-on-gaddafi-stadium-pitch-demerit-point/articleshow/133374469.cms",
-    "time": "2026-08-20T10:49:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Akshay Kumar once revealed some producers failed to pay his dues",
-    "desc": "sAkshay Kumar recently spoke about facing payment issues with some producers. He explained that he prefers to disengage rather than confront such situations. The actor's comments resurfaced amid discussions about his role in 'Dil Toh Pagal Hai'. However, he has not linked these past dues to that specific film. Kumar's upcoming releases include 'Welcome to the Jungle' and 'Haiwaan'.",
-    "img": "https://static.toiimg.com/photo/msid-133374503,imgsize-150819.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/that-is-cheating-haiwaan-actor-akshay-kumar-once-revealed-some-producers-did-not-clear-his-dues/articleshow/133374447.cms",
-    "time": "2026-08-20T10:46:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Dialogue shoot wrapped",
-    "desc": "Golmaal 5's dialogue shoot is reportedly complete, with only two songs, including the title track, left to film. The star cast is impressed with Rohit Shetty's efficient team. Makers denied release date rumours, calling them \"false and baseless,\" and urged media to avoid spreading misleading information about the film.",
-    "img": "https://static.toiimg.com/photo/msid-133374261,imgsize-194335.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/golmaal-5-dialogue-shoot-done-for-ajay-devgn-and-akshay-kumar-starrer-just-two-songs-left-reports/articleshow/133374226.cms",
-    "time": "2026-08-20T10:35:07.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "'We hope for the players' support': BWF on India Open in Delhi pollution",
     "desc": "BWF secretary general Thomas Lund defends the India Open's February scheduling despite Delhi's pollution concerns, urges players to support the calendar and outlines the sport's plans for a 15-point scoring system, greater technology use and synthetic shuttlecocks.",
     "img": "https://static.toiimg.com/photo/msid-133373646,imgsize-113927.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/we-hope-for-the-players-support-bwf-secretary-general-on-india-open-in-delhi-pollution/articleshow/133373537.cms",
     "time": "2026-08-20T10:12:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Poonam Pandey DEFENDS Govinda amid wife's allegations",
-    "desc": "In a surprising turn of events, Poonam Pandey has stepped up to defend Govinda amid his wife Sunita Ahuja's allegations. Pandey firmly supported Govinda, rejecting claims of his involvement with another woman. Meanwhile, Sunita was spotted at a family court with their son Yashvardhan, igniting divorce rumors. However, Govinda's manager later reassured fans that Sunita has decided to withdraw her earlier divorce petition.",
-    "img": "https://static.toiimg.com/photo/msid-133373674,imgsize-756516.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/poonam-pandey-defends-govinda-amid-wife-sunita-ahujas-affair-allegations-itne-achche-pati-dev-mile-hai/articleshow/133372485.cms",
-    "time": "2026-08-20T10:08:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Soori’s sports drama ‘Mandaadi’ clears censorship, set for September release",
-    "desc": "The sports action film 'Mandaadi' by Soori has been awarded a U/A 16+ certification by the CBFC. Set to launch in theaters worldwide on September tenth, this film promises to captivate audiences with high-octane action sequences filmed amidst the sea. Soori undertook numerous daring stunts for an exhilarating viewing experience, and the film's unusual oceanic setting has sparked considerable excitement among viewers.",
-    "img": "https://static.toiimg.com/photo/msid-133372762,imgsize-172630.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sooris-mandaadi-clears-censorship-sports-drama-set-in-unusual-sea-back-drop-s-to-release-on-september-10/articleshow/133372748.cms",
-    "time": "2026-08-20T10:04:33.000Z"
   },
   {
     "cat": "Entertainment",
@@ -576,33 +558,6 @@ const newsData_en = [
     "time": "2026-08-20T06:58:43.000Z"
   },
   {
-    "cat": "Business",
-    "title": "I-T uncovers Rs 1.29 lakh crore trail",
-    "desc": "The probe comes as the rupee remains under significant pressure. The Reserve Bank of India has been regularly selling dollars in the foreign exchange market to contain volatility and prevent sharp, disorderly movements in the currency.",
-    "img": "https://static.toiimg.com/photo/msid-133366334,imgsize-614155.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/overseas-remittance-in-focus-i-t-uncovers-rs-1-29-lakh-crore-trail-money-sent-to-china-uae-more/articleshow/133365723.cms",
-    "time": "2026-08-20T06:02:12.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Gold, silver price prediction: Where are gold, silver headed? Check outlook on August 20, 2026",
-    "desc": "MCX Gold has entered a consolidation phase following the descending triangle breakout, but as the prices are continuing to hold above the formation is a positive sign & keeps the near-term trend in the bullish bias.",
-    "img": "https://static.toiimg.com/photo/msid-133365051,imgsize-702877.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-price-prediction-today-what-is-the-gold-rate-outlook-for-august-20-2026-should-you-buy-or-sell-mcx-gold-mcx-silver/articleshow/133364965.cms",
-    "time": "2026-08-20T05:12:34.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Granite, grass and a helipad: Trump shows off his White House construction projects",
-    "desc": "During a recent briefing, President Trump showcased key updates on White House renovations. He emphasized the stunning white granite driveway's completion and tackled technical aspects of the helipad's slope. Proudly, he mentioned enhancements to the exterior and landscaping. Additionally, he touched upon the ongoing ballroom construction and its significance for national security, aiming to reassure the public about progress in the iconic residence.",
-    "img": "https://static.toiimg.com/photo/msid-133364214,imgsize-1107054.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/world/us/granite-grass-and-a-helipad-trump-shows-off-his-white-house-construction-projects/articleshow/133363356.cms",
-    "time": "2026-08-20T04:32:53.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Gave up IIT, slept on roads: How Rajasthan's 1st AGM put Udaipur on global chess map",
     "desc": "Udaipur’s Chandrajeet Singh Rajawat turned a difficult childhood passion for chess into a successful career. He left home as a teenager, faced financial struggles, slept at railway stations and stadiums, and kept playing despite setbacks. His persistence eventually brought recognition, coaching opportunities and his own academy, Kingdom of Chess, which now operates across around 30 countries.",
@@ -610,15 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/gave-up-iit-left-home-slept-on-roads-how-rajasthans-first-agm-put-udaipur-on-global-chess-map/articleshow/133350794.cms",
     "time": "2026-08-20T02:30:00.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Crude remains above $90 as Hormuz operations remain disrupted",
-    "desc": "Oil prices have settled at elevated levels, staying above ninety dollars per barrel. Investors are weighing the unpredictable US-Iran situation and the potential impacts on shipping routes through the Strait of Hormuz. While intermittent Middle East assaults bolster market sentiment, the absence of further escalations keeps a lid on price surges. Additionally, the UAE's suspension of financial transactions with Iran has raised regional tensions.",
-    "img": "https://static.toiimg.com/photo/msid-133361882,imgsize-120176.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-brent-crude-remains-above-90-per-barrel-as-hormuz-operations-remains-disrupted/articleshow/133361820.cms",
-    "time": "2026-08-20T02:07:40.000Z"
   },
   {
     "cat": "Sports",
@@ -646,15 +592,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/china-successfully-recovers-rocket-stage-on-land-for-first-time/article71366382.ece",
     "time": "2026-08-19T16:48:28.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Received income tax notice under Section 143(3)? What is faceless assessment &amp; how you should respond",
-    "desc": "This article explains what faceless scrutiny is. How does it work? Why are notices issued? And what are the timelines taxpayers should be aware of? Followed by some practical tips for preparing a clear and evidence-based response.",
-    "img": "https://static.toiimg.com/photo/msid-133342364,imgsize-553642.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/received-income-tax-notice-under-section-1433-what-is-faceless-assessment-how-you-should-respond/articleshow/133340405.cms",
-    "time": "2026-08-19T10:31:00.000Z"
   },
   {
     "cat": "World",
@@ -898,5 +835,41 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
     "time": "2024-03-11T10:00:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
+    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
+    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
+    "time": "2024-03-11T09:41:17.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Here’s how much the smartphone costs",
+    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
+    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
+    "time": "2024-03-11T09:36:12.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
+    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
+    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
+    "time": "2024-03-11T09:19:46.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Former Activision boss reportedly wants to buy TikTok",
+    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
+    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
+    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
