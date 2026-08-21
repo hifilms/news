@@ -1,8 +1,188 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "FIH Women's Hockey World Cup: India go down 0-2 to Netherlands",
+    "desc": "The defeat leaves India with a tough task in their final second-round match. India will face Australia on Sunday and need a win to keep their hopes of reaching the semi-finals alive. Australia were held to a 1-1 draw by China in another second-round match earlier on Friday.",
+    "img": "https://static.toiimg.com/photo/msid-133411484,imgsize-74874.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/fih-womens-hockey-world-cup-india-go-down-0-2-to-netherlands/articleshow/133411291.cms",
+    "time": "2026-08-21T17:56:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jamal Musiala to miss Supercup opener as Bayern reveal cause of worrying collapses",
+    "desc": "Bayern Munich will not risk Jamal Musiala in Saturday’s German Supercup against Borussia Dortmund after two recent collapses. Musiala has been diagnosed with brief, treatable absence seizures, with Bayern linking the episodes to a change in medication. The 23-year-old is training individually while his treatment is adjusted, with the club prioritising his recovery before his return to competitive action.",
+    "img": "https://static.toiimg.com/photo/msid-133410067,imgsize-85238.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/jamal-musiala-to-miss-bayerns-supercup-opener-as-club-reveals-shocking-cause-behind-recent-collapses/articleshow/133409815.cms",
+    "time": "2026-08-21T17:16:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "After Rahul’s dharna, police register FIR on pellet gun use at Delhi protest",
+    "desc": "Rahul Gandhi sat in a dharna after Sahil Lochab, a 19-year-old who lost his eyesight after being hit by pellets during the protest, said the police had refused to register an FIR on his complaint",
+    "img": "https://th-i.thgim.com/public/incoming/nje4mu/article71373678.ece/alternates/LANDSCAPE_1200/PTI08_21_2026_000267A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/delhi-police-fir-over-pellet-injuries-to-youth-during-july-20-protest/article71373663.ece",
+    "time": "2026-08-21T17:15:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SC relaxes rule to apply for judicial service, one-year practice now enough",
+    "desc": "Successful applicants with a year’s legal practice would undergo one year of intensive training at the concerned State judicial academy, followed by a final year of law clerkship with senior judicial officers and High Court judges",
+    "img": "https://th-i.thgim.com/public/incoming/4n6gkw/article71372641.ece/alternates/LANDSCAPE_1200/PTI08_13_2026_000565A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/supreme-court-reduces-three-year-mandatory-legal-practice-to-one-year-for-the-entry-level-judicial-exam/article71372618.ece",
+    "time": "2026-08-21T17:10:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala High Court issues notice to VACB Director on petition against DGP",
+    "desc": "Petition filed by an assistant motor vehicles inspector says that S. Sreejith ‘engaged in systematic corruption, including the formation of an unofficial Transport Commissioner’s Squad, to victimise subordinate staff and to facilitate illicit transactions’ during his tenure as Transport Commissioner",
+    "img": "https://th-i.thgim.com/public/incoming/dbkvac/article71375110.ece/alternates/LANDSCAPE_1200/JC-6_-Suresh-RaGCEGB6EET.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-issues-notice-to-vacb-director-on-petition-against-dgp/article71374970.ece",
+    "time": "2026-08-21T16:59:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why Chopra has more at stake than revenge against Pathirage",
+    "desc": "Neeraj Chopra faces Rumesh Tharanga Pathirage for the third time this season in Lausanne, looking to end his rival’s 2-0 advantage. Chopra also needs valuable Diamond League points to secure qualification for the Brussels final. Pathirage arrives in dominant form, having won eight of nine competitions and produced the world-leading 92.62m throw this season.",
+    "img": "https://static.toiimg.com/photo/msid-133409416,imgsize-156595.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/lausanne-diamond-league-why-neeraj-chopra-has-more-at-stake-today-than-settling-score-with-pathirage/articleshow/133409174.cms",
+    "time": "2026-08-21T16:49:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Now, protesters at Jantar Mantar seek overhaul of reservation system",
+    "desc": "On Friday (August 21) morning, the protesters, many of whom were mobilised by different organisations representing people from “general” castes such as Karni Sena and Ranbir Sena, arrived at Jantar Mantar despite public statements from the Delhi Police saying that no permission had been granted for a demonstration at this site",
+    "img": "https://th-i.thgim.com/public/incoming/6wao35/article71375053.ece/alternates/LANDSCAPE_1200/20260821434L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/delhi-jantar-mantar-anti-reservation-protest-august-21-2026-updates/article71373484.ece",
+    "time": "2026-08-21T16:40:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ravi Kishan joins 'Friends'? Video shows actor advising Joey",
+    "desc": "An AI-generated video places Ravi Kishan in a 'Friends' sitcom scene. The clip shows him interacting with Joey Tribbiani in a humorous crossover. Kishan's response about money and recognition is seamlessly inserted into the show. Netizens are amused by the realistic and entertaining AI edit. This viral moment adds to the actor's growing internet fame. Read on to know more in detail.",
+    "img": "https://static.toiimg.com/photo/msid-133409201,imgsize-618514.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ravi-kishan-joins-friends-ai-generated-video-shows-actor-advising-joey-on-money-and-fame-netizens-react-goat-is-everywhere/articleshow/133408299.cms",
+    "time": "2026-08-21T16:27:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "\"Today you are students; tomorrow you will be scientists, artists, leaders\": UP CM calls for deeper India-Japan youth ties",
+    "desc": "Speaking at an interaction in Lucknow with Yamanashi Governor Kotaro Nagasaki, 13 Japanese high school students, and 20 local students from schools across the city, the chief minister urged the younger generation to build lasting connections across borders.",
+    "img": "https://static.toiimg.com/photo/msid-133409148,imgsize-212064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/today-you-are-students-tomorrow-you-will-be-scientists-artists-leaders-up-cm-calls-for-deeper-india-japan-youth-ties/articleshow/133409089.cms",
+    "time": "2026-08-21T16:23:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Indian payments firms raised $5.8 bn in last five years",
+    "desc": "Five biggest recipients — CRED and PhonePe, with roughly $1 billion each, Pine Labs with $641 million, Razorpay with $535 million and BharatPe with $440 million -- accounted for about 66% of disclosed capital raised",
+    "img": "https://th-i.thgim.com/public/incoming/dqeklj/article71374987.ece/alternates/LANDSCAPE_1200/BIZ-TAXATION-BIGC4GBVLRC.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/indian-payments-firms-raised-58-bn-in-last-five-years/article71374804.ece",
+    "time": "2026-08-21T16:19:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bihar Minister’s remark on impact of sugar price rise invites criticism",
+    "desc": "‘Due to increasing cases of diabetic patients, people are not taking sweets. Everyone is suffering from diabetes. I don’t think the price rise of sugar will make much difference for people,’ says State Minister Shrawan Kumar",
+    "img": "https://th-i.thgim.com/public/news/9t5lxj/article71374873.ece/alternates/LANDSCAPE_1200/shrawon%20kumar%20bihar%20minister.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/bihar-ministers-remark-on-impact-of-sugar-price-rise-invites-criticism/article71373569.ece",
+    "time": "2026-08-21T16:15:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Opposition blames ethanol blending policy for rise in sugar prices",
+    "desc": "Sugar prices up from ₹48 to ₹67 a kg over last three months, says Congress, blaming the diversion of sugarcane for fuel; asks why policy has not resulted in petrol price cut despite falling global crude rates",
+    "img": "https://th-i.thgim.com/public/incoming/yrkl4o/article71372202.ece/alternates/LANDSCAPE_1200/20260712217L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/aap-targets-centre-over-spike-in-sugar-prices/article71369396.ece",
+    "time": "2026-08-21T16:13:13.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Imran Khan ‘tortured, isolated’ in jail: sister",
+    "desc": "Jailed former Prime Minister Imran Khan’s sister on Friday (August 21) alleged that her brother was being tortured and subjected to isolation in prison, as she detailed his deteriorating health and ongoing treatment for a retinal haemorrhage.",
+    "img": "https://th-i.thgim.com/public/incoming/q29sa1/article71374922.ece/alternates/LANDSCAPE_1200/imran.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/imran-khan-tortured-isolated-in-jail-sister/article71374921.ece",
+    "time": "2026-08-21T16:06:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "World no. 1 Jannik Sinner withdraws from US Open 2026 due to injury",
+    "desc": "Jannik Sinner, currently ranked world number one, has made the tough choice to withdraw from the 2026 US Open due to a persistent right knee injury that necessitates additional recovery time. He shared his disappointment on August 21, but even with this setback, Sinner is projected to keep his top ranking despite missing this important Grand Slam event at the end of the season.",
+    "img": "https://static.toiimg.com/photo/msid-133408820,imgsize-65500.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/world-no-1-jannik-sinner-withdraws-from-us-open-2026-due-to-injury/articleshow/133408503.cms",
+    "time": "2026-08-21T16:05:52.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Gold, silver shine brighter: Bullion prices hit 3-month highs as weak dollar boosts demand",
+    "desc": "Gold and silver prices climbed significantly on Friday, reaching levels not seen in over three months. A weaker US dollar and positive global market trends encouraged buying in both precious metals. Gold of 99.9 percent purity rose by Rs 1,200 to Rs 1,63,500 per 10 grams. Silver posted an even stronger move, increasing by Rs 5,000 to Rs 2,50,000 per kilogram.",
+    "img": "https://static.toiimg.com/photo/msid-133408532,imgsize-243262.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-shine-brighter-bullion-prices-hit-3-month-highs-as-weak-dollar-boosts-demand/articleshow/133408301.cms",
+    "time": "2026-08-21T15:50:27.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "‘Mental age’ of 8 or 9 years cannot automatically mean adult woman lacks sexual capacity: Gauhati HC acquits rape convict",
+    "desc": "Justice Sanjeev Kumar Sharma allowed the appeal filed by P. Rohmingsanga and set aside the judgment dated June 18, 2024, by which the Sessions Court, Lunglei Judicial District, had convicted him under Section 376(2)(l) of the Indian Penal Code and sentenced him to 10 years' rigorous imprisonment and a fine of Rs 3,000.",
+    "img": "https://static.toiimg.com/photo/msid-133408527,imgsize-408815.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/legal/news/mental-age-of-8-or-9-years-cannot-automatically-mean-adult-woman-lacks-sexual-capacity-gauhati-hc-acquits-rape-convict/articleshow/133408134.cms",
+    "time": "2026-08-21T15:50:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala High Court suspends sentence of Geethanandan, three others",
+    "desc": "Trial court had awarded them five years’ rigorous imprisonment and imposed a fine of ₹36,000 each in connection with the attempt to murder a senior civil police officer and the abduction of a forest range officer. HC orders that all four be released on bail",
+    "img": "https://th-i.thgim.com/public/incoming/vqsqf4/article71374817.ece/alternates/LANDSCAPE_1200/2003-Muthanga-tGV4GAV9F4.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/muthanga-violence-kerala-high-court-suspends-sentence-of-geethanandan-three-others/article71374160.ece",
+    "time": "2026-08-21T15:49:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nandini Reddy remembers ‘affectionate’ Sowcar Janaki",
+    "desc": "Director Nandini Reddy honored veteran actress Sowcar Janaki following her recent passing. Janaki, who starred in Reddy's film Anni Manchi Sakunamule, was remembered fondly. The director shared cherished moments and a handwritten note from the late artist. Sowcar Janaki passed away at ninety-four after a brief illness. Her extensive career spanned several decades and multiple Indian film industries.",
+    "img": "https://static.toiimg.com/photo/msid-133408352,imgsize-1109490.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/director-nandini-reddy-recalls-working-with-sowcar-janaki-on-her-last-film-remembers-her-as-most-affectionate-artist/articleshow/133408321.cms",
+    "time": "2026-08-21T15:40:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Sowcar’ Janaki, the versatile face of Tamil cinema known for majestic roles and finesses",
+    "desc": "Even though many female actors played opposite Sivaji Ganesan, ‘Sowcar’ Janaki’s acting and roles in films such as Puthiya Paravai, Uyarntha Manithan and Mahakavi Kalidas measured up to the thespian’s. Her songs, body language and delivery of dialogues made fans sit up and take notice of her performances",
+    "img": "https://th-i.thgim.com/public/incoming/2kbi6n/article71373605.ece/alternates/LANDSCAPE_1200/THVGN_22-9-2013_13-3-41_SOWCARJANAKI.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/sowcar-janaki-the-versatile-face-of-tamil-cinema-known-for-majestic-roles-and-finesses-dies/article71373607.ece",
+    "time": "2026-08-21T15:32:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How two 23-year-olds ended India's 15-year medal wait while keeping another streak alive",
+    "desc": "Treesa Jolly and Gayatri Gopichand were sidelined for months after the former suffered an ankle injury. On Friday, they made history as the first Indian women's doubles pair to win a medal at the World Badminton Championships since 2011. In a world that endorses calmness and patience, 23-year-old Treesa brings everyone, including the Indira Gandhi Indoor Stadium, to its feet.",
+    "img": "https://static.toiimg.com/photo/msid-133407849,imgsize-104387.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/healed-by-time-fuelled-by-the-wait-how-treesa-jolly-and-gayatri-gopichand-ended-indias-15-year-medal-wait-while-keeping-another-streak-alive/articleshow/133407733.cms",
+    "time": "2026-08-21T15:17:05.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Govinda's manager DENIES second marriage claims made by Sunita",
-    "desc": "Ssunita Ahuja claimed Govinda planned a second marriage, which his manager strongly denied. Govinda's manager expressed shock and stated no second marriage is happening. He mentioned Ssunita withdrew her divorce petition after making these claims. The manager urged Ssunita to consider their children's well-being amidst the controversy. Govinda remains focused on his work and has not spoken against his wife.",
+    "desc": "Sunita Ahuja claimed Govinda planned a second marriage, which his manager strongly denied. Govinda's manager expressed shock and stated no second marriage is happening. He mentioned Sunita withdrew her divorce petition after making these claims. The manager urged Sunita to consider their children's well-being amidst the controversy. Govinda remains focused on his work and has not spoken against his wife.",
     "img": "https://static.toiimg.com/photo/msid-133407846,imgsize-599232.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govindas-manager-denies-second-marriage-claims-made-by-ssunita-ahuja-there-must-be-something-going-in-her-mind-that-she-made-those-claims/articleshow/133407726.cms",
@@ -18,13 +198,13 @@ const newsData_en = [
     "time": "2026-08-21T15:08:19.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "After junior doctors, contract, and paramedical staff: second stir grips Andhra’s health department",
-    "desc": "The JAC’s plan runs from black badges and lunch-hour protests to a shutdown of online work and a State-wide dharna, ending in a duty boycott with safeguards for emergency services; the government did not respond even after the June 17 protest, its chairman said",
-    "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/7ihp4l/article71374553.ece/alternates/LANDSCAPE_1200/Nurses.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/after-junior-doctors-contract-and-paramedical-staff-second-stir-grips-andhras-health-department/article71372613.ece",
-    "time": "2026-08-21T15:04:18.000Z"
+    "cat": "Sports",
+    "title": "Root’s captaincy return begins in style as England crush Pakistan by innings and 103 runs",
+    "desc": "Under the leadership of Joe Root, England launched a new chapter with a resounding innings victory over Pakistan. Their fast bowlers effectively dismantled the Pakistani lineup in both innings. Contributions from Harry Brook and Jordan Cox bolstered England's batting in the first innings. This triumph marks England's largest innings win at Headingley, granting them a 1-0 advantage in the three-match series.",
+    "img": "https://static.toiimg.com/photo/msid-133407765,imgsize-869507.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/joe-roots-captaincy-return-begins-in-style-as-england-crush-pakistan-by-innings-and-103-runs-in-1st-test/articleshow/133407547.cms",
+    "time": "2026-08-21T15:06:03.000Z"
   },
   {
     "cat": "Sports",
@@ -34,33 +214,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/badminton-world-championships-treesa-gayatri-in-semifinals-assured-of-medal/article71373184.ece",
     "time": "2026-08-21T14:56:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Sowcar’ Janaki, the versatile face of Tamil cinema known for majestic roles and finesses",
-    "desc": "Even though many female actors played opposite Sivaji Ganesan, ‘Sowcar’ Janaki’s acting and roles in films such as Puthiya Paravai, Uyarntha Manithan and Mahakavi Kalidas measured up to the thespian’s. Her songs, body language and delivery of dialogues made fans sit up and take notice of her performances",
-    "img": "https://th-i.thgim.com/public/incoming/2kbi6n/article71373605.ece/alternates/LANDSCAPE_1200/THVGN_22-9-2013_13-3-41_SOWCARJANAKI.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/sowcar-janaki-the-versatile-face-of-tamil-cinema-known-for-majestic-roles-and-finesses-dies/article71373607.ece",
-    "time": "2026-08-21T14:44:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Yadgir DC appeals to labourers to work under VB-G RAM G",
-    "desc": "​Observing the crowd of job seekers, the Deputy Commissioner approached the labourers to explain the enhanced features of the rural employment programme and urged them to stay in their villages rather than migrate to urban centres for work",
-    "img": "https://th-i.thgim.com/public/incoming/84abtt/article71374419.ece/alternates/LANDSCAPE_1200/YDRKN_13_7_2026_16_13_35_1_IMG_20260523_WA0033.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/yadgir-dc-appeals-to-labourers-to-work-under-vb-g-ram-g/article71373653.ece",
-    "time": "2026-08-21T14:43:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Now, protesters at Jantar Mantar seek overhaul of reservation system",
-    "desc": "On Friday (August 21) morning, the protesters, many of whom were mobilised by different organisations representing people from “general” castes such as Karni Sena and Ranbir Sena, arrived at Jantar Mantar despite public statements from the Delhi Police saying that no permission had been granted for a demonstration at this site",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/delhi-jantar-mantar-anti-reservation-protest-august-21-2026-updates/article71373484.ece",
-    "time": "2026-08-21T14:37:31.000Z"
   },
   {
     "cat": "Entertainment",
@@ -361,48 +514,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Veteran actor Sowcar Janaki passes away at 94",
-    "desc": "Sowcar Janaki, the iconic veteran actor, passed away on August 21 at the remarkable age of 94. Hospitalized in Chennai for age-related ailments, she received dedicated medical attention in her final days. Over an incredible career spanning many decades, Janaki contributed to over 400 films across various languages. Recognized for her talents, she was a recipient of both the Kalaimamani award and the Padma Shri for her contributions to cinema.",
-    "img": "https://static.toiimg.com/photo/msid-133400905,imgsize-769219.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/veteran-actor-sowcar-janaki-passes-away-at-94-in-chennai-after-age-related-health-issues/articleshow/133400830.cms",
-    "time": "2026-08-21T10:08:21.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'What's going on in the country?' Kejriwal slams BJP over attack on CJP volunteers in Rajasthan",
-    "desc": "Arvind Kejriwal has accused BJP supporters of assaulting volunteers from the Cockroach Janata Party during their inspection of a local school. Reports indicate that the volunteers faced violence and had their vehicles damaged by villagers. They expressed frustration over police inaction, demanding that those responsible be arrested within 48 hours.",
-    "img": "https://static.toiimg.com/photo/msid-133400199,imgsize-1205315.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/whats-going-on-in-the-country-kejriwal-slams-bjp-over-attack-on-cjp-volunteers-in-rajasthan/articleshow/133400137.cms",
-    "time": "2026-08-21T09:50:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "‘God of War’: Dave Bautista officially cast as Kratos, replacing Ryan Hurst in Prime Video series",
     "desc": "Dave Bautista has officially been cast as Kratos in Prime Video’s live-action ‘God of War’ series, replacing Ryan Hurst after the original star suffered an on-set injury that forced Amazon and Sony to recast the role",
     "img": "https://th-i.thgim.com/public/incoming/793wwy/article71373044.ece/alternates/LANDSCAPE_1200/US%20BAUTISTA%20PIT%20BULL%20RESCUES",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/god-of-war-dave-bautista-officially-cast-as-kratos-replacing-ryan-hurst-in-prime-video-series/article71373054.ece",
     "time": "2026-08-21T09:47:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Salman's gym outlet in Delhi- Greater Kailash-I caught fire",
-    "desc": "A fire broke out at Salman Khan's gym franchise in Delhi's Greater Kailash-I on Thursday night, with police confirming no casualties as staff were evacuated before the fire brigade arrived. A short circuit is suspected. Meanwhile, Salman is shooting \"Monster\" with Dil Raju and Nayanthara, and will host Bigg Boss 20 from September 6, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-133399558,imgsize-143425.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khans-gym-outlet-in-delhi-greater-kailash-i-caught-fire-no-casualties-reported/articleshow/133399550.cms",
-    "time": "2026-08-21T09:25:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Politics of anarchy’: BJP attacks Rahul Gandhi over police station protest",
-    "desc": "The BJP criticized Rahul Gandhi for protesting outside a police station. He sought an FIR regarding alleged pellet gun injuries suffered by a student. The BJP stated an FIR was already registered and a committee was investigating. Rahul Gandhi accused the Home Minister of being scared of justice. The Congress leader continued his protest until an FIR was filed.",
-    "img": "https://static.toiimg.com/photo/msid-133399450,imgsize-924049.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/politics-of-anarchy-bjp-attacks-rahul-gandhi-over-police-station-protest/articleshow/133399315.cms",
-    "time": "2026-08-21T09:15:36.000Z"
   },
   {
     "cat": "Entertainment",
@@ -459,15 +576,6 @@ const newsData_en = [
     "time": "2026-08-21T07:31:28.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Going to come harder': Bangladesh brace for wounded Australia in second Test",
-    "desc": "The result was Bangladesh's first Test victory on Australian soil and was described by Australian media as the \"Darwin Disaster\". Simmons said his players cannot afford to relax when they face the World Test Championship leaders in Mackay from Saturday.",
-    "img": "https://static.toiimg.com/photo/msid-133396428,imgsize-788255.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/they-are-going-to-come-harder-bangladesh-brace-for-wounded-australia-in-second-test/articleshow/133395819.cms",
-    "time": "2026-08-21T07:13:25.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Gold is rally, but should you buy? Check August 21, 2026 outlook",
     "desc": "MCX Gold October futures continue to trade with a firm bullish bias, with prices holding near Rs 1,60,900 after extending their recent uptrend. The chart shows a clear sequence of higher highs and higher lows, supported by positive moving-average alignment and sustained buying interest.",
@@ -484,15 +592,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/indians-aboard-cargo-ship-hijacked-by-pirates-off-somalias-coast/article71372096.ece",
     "time": "2026-08-21T06:43:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "After shocking Darwin defeat, Australia make big change for Bangladesh Test",
-    "desc": "Australia has named Matthew Renshaw as their opener for the upcoming second Test match, stepping in for Jake Weatherald following a disappointing loss in the first Test. Veteran spinner Nathan Lyon remains a key figure in the lineup. Facing Bangladesh in Mackay, Australia is determined to even the series after the initial defeat.",
-    "img": "https://static.toiimg.com/photo/msid-133395116,imgsize-120690.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/after-shocking-darwin-defeat-australia-make-big-change-for-bangladesh-test/articleshow/133395069.cms",
-    "time": "2026-08-21T06:13:09.000Z"
   },
   {
     "cat": "Sports",
@@ -540,15 +639,6 @@ const newsData_en = [
     "time": "2026-08-21T04:34:40.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Thrissur girl who broke 22-year-old record, now aiming for Asiad gold",
-    "desc": "Ancy Sojan recently broke Anju Bobby George's 22-year-old national long jump record. She is now preparing for the upcoming Aichi-Nagoya Asian Games in Japan. Sojan will compete in two Indian events before heading to Japan. Her father's recovery from injury remains a personal concern for her. Nattika village, her training ground, lacks adequate sports facilities.",
-    "img": "https://static.toiimg.com/photo/msid-133393073,imgsize-111094.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/ancy-sojan-thrissur-girl-who-broke-22-year-old-record-now-aiming-for-asiad-gold/articleshow/133392997.cms",
-    "time": "2026-08-21T04:28:43.000Z"
-  },
-  {
     "cat": "Business",
     "title": "How much crude is actually flowing through Hormuz",
     "desc": "US officials assert that oil is moving through the Strait of Hormuz at a pace far exceeding market projections. External data indicates a drop in oil tanker activity and a decline in global stockpiles. This divergence raises questions about the true amount of crude oil flowing into worldwide markets. Additionally, shadow fleets attempting to mask their locations complicate monitoring efforts, leading to potential volatility in oil prices and supply predictions.",
@@ -585,15 +675,6 @@ const newsData_en = [
     "time": "2026-08-21T02:11:48.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "'Pakistan a poor side': Former England great delivers blunt verdict",
-    "desc": "Stuart Broad called Pakistan a poor side and expects England to win the series. Pakistan's batting struggled, being bowled out for 171 on the first day. England then took a significant first-innings lead of 195 runs. Several England batters scored half-centuries, with Harry Brook narrowly missing a century. Broad's comments add pressure on Pakistan to recover in the ongoing contest.",
-    "img": "https://static.toiimg.com/photo/msid-133390804,imgsize-967838.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-a-poor-side-former-england-great-delivers-blunt-verdict/articleshow/133390766.cms",
-    "time": "2026-08-21T01:59:16.000Z"
-  },
-  {
     "cat": "World",
     "title": "Five years after Taliban takeover, life in Afghanistan marred by many struggles",
     "desc": "While the Taliban have retained power, a weak economy, suffocating restrictions on women, international isolation and growing tensions with Pakistan remain key challenges; widespread poverty, unemployment and dependence on humanitarian assistance are the reality for millions",
@@ -601,15 +682,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/five-years-after-taliban-takeover-life-in-afghanistan-marred-by-many-struggles/article71369494.ece",
     "time": "2026-08-21T00:54:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Joe Root scripts history, becomes first player to achieve this feat",
-    "desc": "In a groundbreaking achievement, Joe Root has scored 3,000 runs as captain in the World Test Championship, marking a historic moment during England's first Test against Pakistan at Headingley. Root's remarkable batting skills have firmly established him atop the WTC captaincy run charts. His stellar performance has not only propelled England to a commanding first-innings advantage but also reinforces his legacy in Test cricket.",
-    "img": "https://static.toiimg.com/photo/msid-133390431,imgsize-71334.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/joe-root-scripts-history-becomes-first-player-to-achieve-this-feat/articleshow/133390425.cms",
-    "time": "2026-08-21T00:50:21.000Z"
   },
   {
     "cat": "Business",
@@ -720,24 +792,6 @@ const newsData_en = [
     "time": "2026-08-19T07:51:01.000Z"
   },
   {
-    "cat": "Business",
-    "title": "What drives corporate investment?",
-    "desc": "Corporate investment as a share of GDP in India has declined sharply since demonetisation, with the fall persisting despite tax cuts and a low-interest-rate regime; smaller firms face higher interest costs, while larger firms are more constrained by demand; reviving investment requires government expenditure to push profitability up",
-    "img": "https://th-i.thgim.com/public/news/national/eneed6/article71362064.ece/alternates/LANDSCAPE_1200/iStock-1405176819.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/what-drives-corporate-investment/article71360385.ece",
-    "time": "2026-08-19T06:17:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bayern’s Musiala diagnosed with neurological disorder after two on-field collapses",
-    "desc": "‘I know these can seem scary at first glance — but for me, ‌they're currently part of my everyday life; I'm receiving the best medical care for this and am very optimistic,’ said Jamal Musiala",
-    "img": "https://th-i.thgim.com/public/incoming/29s5sg/article71363298.ece/alternates/LANDSCAPE_1200/2026-08-15T152258Z_1069298657_UP1EM8F16Q81A_RTRMADP_3_SOCCER-GERMANY-FCB-RBL.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/bayerns-musiala-diagnosed-with-neurological-disorder-after-two-on-field-collapses/article71363281.ece",
-    "time": "2026-08-19T04:12:40.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Camera Looks, a built-in teleprompter and AI that earns its place",
     "desc": "Google’s Pixel 11 series lets you choose how your photos look at the moment of capture and puts a teleprompter inside the camera app, with the return of the notification light reserved for the Pro models, from ₹89,999",
@@ -844,14 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
     "time": "2024-03-11T09:19:46.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Former Activision boss reportedly wants to buy TikTok",
-    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
-    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
-    "time": "2024-03-11T09:08:25.000Z"
   }
 ];

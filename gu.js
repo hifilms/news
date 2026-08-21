@@ -1,6 +1,24 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "જંતર-મંતર પર એકઠા થયા જનરલ કેટેગરીના હજારો લોકો, UGCના નવા નિયમો અને અનામતનો કર્યો વિરોધ, જાણો",
+    "desc": "શુક્રવારે દિલ્હીના જંતર મંતર પર હજારો સામાન્ય વર્ગના પ્રદર્શનકારીઓએ UGCના સમાનતા નિયમો વિરુદ્ધ પ્રદર્શન કર્યું અને જાતિ આધારિત અનામતમાં સુધારાની માંગ કરી. પ્રદર્શન દરમિયાન કેટલાક લોકોએ SC/ST કાયદાનો પણ વિરોધ કર્યો અને તેને રદ કરવાની માંગ કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/thousands-of-people-from-the-general-category-gathered-at-jantar-mantar-protested-against-ugcs-new-rules-and-reservations-know-488403 ",
+    "time": "2026-08-21T16:22:44.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "2050 સુધી દુનિયાના સૌથી મોટો શહેરો કયા હશે? ટોપમાં ભારતના આ બે સિટીનો થશે સમાવેશ, રિપોર્ટમાં ખુલાસો",
+    "desc": "2050 સુધીમાં, વિશ્વના સૌથી વધુ વસ્તી ધરાવતા શહેરો બદલાઈ શકે છે. સંયુક્ત રાષ્ટ્રનો અંદાજ છે કે ઢાકા 5.21 કરોડની વસ્તી સાથે આગળ વધી શકે છે, જ્યારે નવી દિલ્હી 3.39 કરોડ સાથે ટોચના શહેરોમાં સ્થાન મેળવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/which-will-be-the-largest-cities-in-the-world-by-2050-these-two-indian-cities-will-be-included-in-the-top-reveals-the-report-488402 ",
+    "time": "2026-08-21T16:01:53.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "પુત્રને બચાવવા જતા પહાડ પરથી પડવાથી પિતાનું મોત, આઘાતમાં માતાએ પણ ટૂંકાવ્યું જીવન; જાણો સમગ્ર મામલો",
     "desc": "છત્રપતિ સંભાજીનગરના તિસગાંવ વિસ્તારમાં એક દર્દનાક ઘટના સામે આવી છે. 18 વર્ષનો કુણાલ ચાંદવડે પરેશાન થઈને ખવડ્યા પહાડ પાસે પહોંચી ગયો હતો. માહિતી મળતા તેના માતા-પિતા પણ ત્યાં પહોંચ્યા અને તેને સમજાવવા લાગ્યા. લગભગ ત્રણ કલાક સુધી સમજાવ્યા બાદ પિતા પુત્ર પાસે પહોંચ્યા. બન્ને પહાડ પરથી નીચે પડી ગયા.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -396,15 +414,6 @@ const newsData_gu = [
     "time": "2026-08-19T07:46:51.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "કોણ છે IAS તુકારામ મુંડે ? 21 વર્ષની નોકરીમાં 25 ટ્રાન્સફર, હવે FDAમાં બની ગયા રિયલ લાઈફ સિંઘમ",
-    "desc": "હાલના દિવસોમાં, IAS અધિકારી તુકારામ મુંડે ફરી એકવાર મહારાષ્ટ્રમાં હેડલાઇન્સમાં છે. તેનું કારણ બોમ્બે હાઈકોર્ટનો તાજેતરનો નિર્ણય છે. કોર્ટે તેમના નેતૃત્વ હેઠળના FDAને પુણેમાં એક મીઠાઈની દુકાનનું લાઇસન્સ સસ્પેન્ડ કરવા બદલ 5 લાખ રૂપિયાનું વળતર ચૂકવવાનો આદેશ આપ્યો છે. કોર્ટે સ્પષ્ટપણે કહ્યું કે FDAના ઇરાદા સારા હોઈ શકે છે, પરંતુ તેઓ વધુ પડતા કામ કરી રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/who-is-ias-tukaram-munde-25-transfers-in-21-years-of-service-now-he-has-become-a-real-life-singham-in-fda-488144 ",
-    "time": "2026-08-19T06:26:43.000Z"
-  },
-  {
     "cat": "Business",
     "title": "બદલવા જઈ રહ્યો છે બેંકિંગ સાથે જોડાયેલો 135 વર્ષ જૂનો કાયદો, હવે કોર્ટમાં માન્ય રહેશે ડિજિટલ રેકોર્ડ",
     "desc": "ડિજિટલ બેંકિંગ રેકોર્ડનો ઉપયોગ હવે કોર્ટમાં પુરાવા તરીકે થઈ શકે છે. બેંકર્સ બુક્સ એવિડન્સ બિલ, 2026ને રાજ્યસભાએ મંજૂર કર્યું છે અને લોકસભા દ્વારા પણ તેને પસાર કરવામાં આવ્યું છે. નવો કાયદો 1891ના જૂના માળખાને બદલે છે અને ઇલેક્ટ્રોનિક, સર્વર, વર્ચ્યુઅલ અને ક્લાઉડ રેકોર્ડને કાનૂની અધિકારક્ષેત્ર હેઠળ લાવે છે. એકાઉન્ટ સ્ટેટમેન્ટ અને ટ્રાન્ઝેક્શન હિસ્ટી જેવા રેકોર્ડ હવે ચોક્કસ શરતો હેઠળ કોર્ટમાં રજૂ કરી શકાય છે. આ ડિજિટલ બેંકિંગના કાનૂની ઉપયોગ માટે માર્ગ સરળ કરે છે.",
@@ -475,15 +484,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/dashcam-sunroof-and-much-more-only-85-people-will-get-this-powerful-jeep-compass-85th-anniversary-edition-488059 ",
     "time": "2026-08-18T08:39:03.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સોનું ખરીદનારાઓ માટે મોટા સમાચાર! ભાવમાં ઘટાડો, ₹38,000 સુધી સસ્તું થયું છે ગોલ્ડ",
-    "desc": "MCX પર સોનાનો ભાવ 0.55 ટકા ઘટીને 1,55,090 પ્રતિ 10 ગ્રામ થયો, જ્યારે ચાંદી 1 ટકા ઘટીને 2,35,655 રૂપિયા પ્રતિ કિલોગ્રામ પર ટ્રેડ થઈ રહી હતી. ચાલો જાણીએ કે આ ઘટાડા પાછળના કારણો શું છે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/big-news-for-gold-buyers-prices-drop-gold-becomes-cheaper-by-up-to-rs-38000-488047 ",
-    "time": "2026-08-18T06:45:12.000Z"
   },
   {
     "cat": "World",
@@ -673,14 +673,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/bad-news-for-indians-working-in-usa-h-1b-visa-rule-change-new-extension-fees-487573 ",
     "time": "2026-08-13T04:34:10.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "શું ટ્રમ્પે પોતાને જગાડવા માટે યુવતી હાયર કરી? મિસ્ટ્રી ગર્લ સોશિયલ મીડિયામાં વાયરલ",
-    "desc": "ડોનાલ્ડ ટ્રમ્પનો એક વીડિયો વાયરલ થઈ રહ્યો છે. જેમાં તેઓ મીટિંગ દરમિયાન ઊંઘતા જોવા મળે છે. એક મહિલા ત્યાં પાછળ ઊભી છે અને જેવી તે પોતાના પેટ પર હાથ મૂકે છે કે ટ્રમ્પની ઊંઘ ઉડી જાય છે. ત્યારે ઓનલાઈન એ ચર્ચા થવા લાગી છે કે ટ્રમ્પે પોતાને ઊંઘમાંથી જગાડવા માટે એક છોકરી હાયર કરી રાખી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/donald-trump-sleeping-video-and-mystery-girl-goes-viral-on-social-media-487556 ",
-    "time": "2026-08-12T17:23:49.000Z"
   }
 ];

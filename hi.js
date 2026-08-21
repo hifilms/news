@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Can Indian javelin star beat Sri Lanka's Rumesh Pathirage?",
+    "desc": "Neeraj Chopra will compete at the Lausanne Diamond League as he looks to strengthen his position in the race for qualification to the Diamond League Final and the Ultimate Athletics Championships in Budapest. The Indian javelin...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/neeraj-chopra-live-at-lussane-diamond-league-2026-live-updates-results-javelin-throw-highlights-winner-rumesh-pathirage-1052105",
+    "time": "2026-08-21T18:00:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch Neeraj Chopra live at Lausanne Diamond League?",
+    "desc": "Neeraj Chopra will return to action at the Lausanne Diamond League on Friday, with the Indian javelin star set to face one of his fiercest competitors in Sri Lanka’s Rumesh Tharanga Pathirage, in a major...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/when-and-where-to-watch-neeraj-chopra-live-at-lausanne-diamond-league-2026-08-21-1052104",
+    "time": "2026-08-21T17:46:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan move to bottom of WTC points table after shambolic defeat to England",
+    "desc": "England, under new captain Joe Root, secured a dominant innings-and-103-run victory over Pakistan in the first Test at Headingley. Despite this, they remain seventh in the World Test Championship 2025-27 standings. Pakistan, meanwhile, moved to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-move-to-bottom-of-wtc-points-table-after-shambolic-defeat-to-england-check-full-table-2026-08-21-1052101",
+    "time": "2026-08-21T16:37:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch Premier League live on TV and stream online in India?",
+    "desc": "The Premier League returns in the early hours of Saturday with Arsenal beginning their title defence against Coventry City. However, the biggest question of the 2026-27 season is whether the champions can hold their nerve...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/when-and-where-to-watch-premier-league-live-on-tv-and-stream-online-in-india-2026-08-21-1052097",
+    "time": "2026-08-21T16:02:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jannik Sinner ruled out of US Open, world number 1 issues statement, explains reason",
+    "desc": "World No. 1 Jannik Sinner will miss the US Open after withdrawing from the Grand Slam with a right knee injury. His team confirmed the development on Friday. Notably, the withdrawal ends Sinner’s run of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/jannik-sinner-ruled-out-of-us-open-world-number-1-issues-statement-explains-reason-2026-08-21-1052096",
+    "time": "2026-08-21T15:27:57.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Joe Root's England return to winning ways as hosts hammer Pakistan to win first Test at Headingley",
     "desc": "England have not won a single Test series in the World Test Championship since their away win against New Zealand in December 2024. Since then, they hosted India and New Zealand and played the Ashes...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/kuldeep-yadav-s-form-is-concerning-india-coach-sairaj-bahutule-backs-star-spinner-ahead-of-colombo-test-2026-08-21-1052068",
     "time": "2026-08-21T11:26:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Can Manchester United go on to win the 2026-27 Premier League? Head coach opines",
-    "desc": "The stage is set for the 2026-27 Premier League season. The 20 teams will be hard at work preparing for the upcoming season, and ahead of the new season, many eyes will be set upon...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/can-manchester-united-go-on-to-win-the-2026-27-premier-league-head-coach-opines-2026-08-21-1052060",
-    "time": "2026-08-21T10:42:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sri Lanka ring in crucial changes, name squad for upcoming second Test against India in Colombo",
-    "desc": "India and Sri Lanka are all set to take on each other in the second Test of the ongoing series. The two sides are slated to meet at the Sinhalese Sports Club Ground, Colombo, from...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sri-lanka-ring-in-crucial-changes-name-squad-for-upcoming-second-test-against-india-in-colombo-2026-08-21-1052051",
-    "time": "2026-08-21T10:03:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Gayatri-Treesa script history, assure medal for India with QF win at BWF World Championships 2026",
-    "desc": "In a historic moment for India, the duo of Gayatri Gopichand and Treesa Jolly have stunned fourth-seed China's Jia Yifan and Zhang Shuxian and have entered the semi-finals of the ongoing BWF World Championships 2026....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/gayatri-treesa-script-history-assure-medal-for-india-with-qf-win-at-bwf-world-championships-2026-2026-08-21-1052039",
-    "time": "2026-08-21T08:30:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former Sri Lanka cricketer questions India's batting attack despite comfortable win in Galle Test",
-    "desc": "The Indian team managed to register a dominant win as they took on Sri Lanka in the first Test of the ongoing two-game series. The two sides met at the Galle International Stadium for the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-sri-lanka-cricketer-questions-india-s-batting-attack-despite-comfortable-win-in-galle-test-2026-08-21-1052037",
-    "time": "2026-08-21T08:12:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Phil Simmons advises Bangladesh not to get arrogant ahead of Mackay clash after Test win against Australia",
-    "desc": "The stage is set for the second and final Test of the ongoing series between Australia and Bangladesh. The two sides are slated to take on each other at the Great Barrier Reef Arena in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/phil-simmons-advises-bangladesh-not-to-get-arrogant-ahead-of-mackay-clash-after-test-win-against-australia-2026-08-21-1052031",
-    "time": "2026-08-21T07:36:00.000Z"
   }
 ];
