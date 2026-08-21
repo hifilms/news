@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "સરકારી યોજનાનો કમાલ, દર મહિને કરો 1200 રૂપિયાનું રોકાણ, વ્યાજથી મળશે 4.74 લાખ",
+    "desc": "સુકન્યા સમૃદ્ધિ યોજનામાં દર મહિને 1200 રૂપિયા જમા કરી દીકરીના ભવિષ્ય માટે સારૂ ફંડ તૈયાર કરી શકાય છે. 1200 રૂપિયાની માસિક બચતથી 8.2% વ્યાજદર પર આશરે 4.74 લાખનું વ્યાજ બની શકે છે. આ યોજનામાં 15 વર્ષ સુધી પૈસા જમા કરવાના હોય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/daughter-future-wallet-invest-1200-monthly-under-govt-scheme-to-earn-4-74-lakh-in-interest-alone-488361 ",
+    "time": "2026-08-21T11:09:26.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ખાંડના ભાવમાં ઉછાળા પાછળ ઇથેનોલ જવાબદાર? જાણો ભાવ પાછળનું આખું ગણિત",
+    "desc": "દેશમાં અનેક જગ્યાએ ખાંડના ભાવમાં તોતિંગ વધારો થયો છે, અને પ્રતિ કિલોનો ભાવ 70 રૂપિયા સુધી પહોંચી ગયો છે, જેના કારણે લોકોને વધુ એક મોંઘવારી માર લાગી રહ્યો છે, તહેવારોની સિઝન શરૂ થાય તે પહેલાં, જ ખાંડે અનેક લોકો માટે ચિંતા ઉભી કરી છે. ખાસ કરીને ગૃહીણીઓ માટે તેમના બજેટ તુટ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/is-ethanol-responsible-for-the-rise-in-sugar-prices-know-the-entire-math-behind-the-price-488360 ",
+    "time": "2026-08-21T10:57:07.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "8મા પગાર પંચમાં Terms of Reference બદલાશે? જાણો કર્મચારીઓ પર શું થશે અસર",
+    "desc": "8માં પગાર પંચની કેન્દ્ર સરકારના કર્મચારીઓ રાહ જોઈ રહ્યા છે, ત્યારે છેલ્લા કેટલાક મહિનાઓથી, કેટલીક મોટી સંસ્થાઓ સાથે મુખ્ય કર્મચારી સંગઠનો અને હિસ્સેદારોએ ToRમાં ફેરફારની માંગ કરી રહ્યા છે. ભૂતકાળમાં પણ તેમાં ફેરફાર કરવામાં આવ્યા છે અને તેમની માંગ પ્રમાણે આ વર્ષ પણ તેમાં ફેરફાર કરવામાં આવે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/will-the-terms-of-reference-change-in-the-8th-pay-commission-know-what-will-be-the-impact-on-employees-488352 ",
+    "time": "2026-08-21T09:50:26.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "પેલેટ ગન પીડિત વિદ્યાર્થીને લઈને સંસદ માર્ગ પોલીસ મથક પહોંચ્યા રાહુલ ગાંધી, પછી ધરણા પર બેસી ગયા",
     "desc": "કોંગ્રેસ નેતા રાહુલ ગાંધી આજે અચાનક સંસદ માર્ગ પોલીસ મથક પહોંચ્યા. તેઓ જંતર મંતર પર વિદ્યાર્થી પ્રદર્શન દરમિયાન ઉપયોગમાં લેવાયેલી પેલેટ ગનના ઉપયોગ સંબંધિત તપાસની જાણકારી માટે ડીસીપી ઓફિસ પહોંચ્યા હતા. ડીસીપીને મળ્યા બાદ તેઓ ધરણા ઉપર પણ બેસી ગયા. જાણો વિગતો.",
@@ -369,15 +396,6 @@ const newsData_gu = [
     "time": "2026-08-18T17:56:34.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "દિલ્હી સરકારના પૂર્વ મંત્રી સત્યેન્દ્ર જૈનની ધરપકડ, જલ બોર્ડ કૌભાંડમાં ACBની મોટી કાર્યવાહી",
-    "desc": "દિલ્હી સરકારના પૂર્વ મંત્રી સત્યેન્દ્ર જૈનની ACB દ્વારા ધરપકડ કરવામાં આવી છે. તેમની જલ બોર્ડ કૌભાંડના સંબંધમાં ધરપકડ કરવામાં આવી છે. આ કેસમાં ACBએ પાંચ અન્ય વ્યક્તિઓની પણ ધરપકડ કરી છે, જેમાં જળ બોર્ડના અધિકારીઓ પણ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/former-minister-satyendra-jain-arrested-acb-takes-major-action-in-jal-board-scam-488107 ",
-    "time": "2026-08-18T16:06:03.000Z"
-  },
-  {
     "cat": "Business",
     "title": "ZMCLના ફ્યુચર પ્લાન પર CEO રક્તિમ દાસનો મોટો ખુલાસો, અનિલ સિંઘવી સાથેની ખાસ વાતચીતમાં જણાવી આગામી રણનીતિ!",
     "desc": "ઝી બિઝનેસના મેનેજિંગ એડિટર અનિલ સિંઘવી સાથેની એક ખાસ વાતચીતમાં ઝી મીડિયાના CEO રક્તિમ દાસે ત્રિમાસિક પરિણામો, ડિજિટલ વ્યૂહરચના, નવા પ્રોજેક્ટ્સ અને ભવિષ્યના ગ્રોથ આઉટલુક અંગે વિગતવાર ચર્ચા કરી. કંપનીની QoQ રેવન્યૂ 21% વધી છે, જ્યારે EBITDAમાં પણ મજબૂત સુધારો જોવા મળ્યો છે.",
@@ -486,15 +504,6 @@ const newsData_gu = [
     "time": "2026-08-17T10:35:11.000Z"
   },
   {
-    "cat": "Business",
-    "title": "આજથી ખુલ્યો 1700 કરોડનો IPO! GMP દેખાડે છે 29નો ફાયદો, જાણો",
-    "desc": "લલિતા જ્વેલરી માર્ટનો IPO આજે રિટેલ રોકાણકારો માટે ખુલ્યો છે, ગ્રે માર્કેટમાં IPO મજબૂત સ્થિતિમાં જોવા મળી રહ્યો છે. રોકાણકારોને 19 ઓગસ્ટ સુધી IPOમાં રોકાણ કરવાની તક છે, કંપનીએ એક લોટમાં 74 શેર રાખ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/1700-crore-ipo-opens-today-gmp-shows-29-percent-profit-know-487977 ",
-    "time": "2026-08-17T10:15:40.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "27 વર્ષીય એક્ટ્રેસ અનન્યા રાજનું મોત, પરિવારે 1 મહિના પછી આપી જાણકારી",
     "desc": "27 વર્ષીય અભિનેત્રી અનન્યા રાજનું મોત થયું હોવાના સમાચાર સામે આવ્યા છે. સૌથી આશ્ચર્યજનક વાત એ છે કે અભિનેત્રીનું મોત 1 મહિના પહેલા થઈ ગયું છે અને પરિવારે 1 મહિના પછી આ દુખદ સમાચાર જાહેર કર્યા છે.",
@@ -511,15 +520,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/actress-model-antara-banerjee-arrested-injured-herself-and-railway-employee-487941 ",
     "time": "2026-08-17T02:09:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "&amp;#039;ટીમને મારી બેટિંગ પર ભરોસો નહોતો...&amp;#039; ગાલે ટેસ્ટ વચ્ચે રવિન્દ્ર જાડેજાનું છલકાયું દર્દ, જણાવ્યું તેમની સાથે કેવી રીતે થયો ભેદભાવ",
-    "desc": "રવિન્દ્ર જાડેજાએ તેમના આંતરરાષ્ટ્રીય કરિયરના શરૂઆતના સંઘર્ષોને લઈને મોટો ખુલાસો કર્યો છે. જાડેજાએ જણાવ્યું કે, ભારતીય ટીમમાં સતત નીચલા ક્રમે બેટિંગ કરવાથી તેમના આત્મવિશ્વાસ પર અસર પડી હતી અને તેમને લાગતું હતું કે, ટીમને તેમની બેટિંગ પર પૂરો ભરોસો નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/team-didnot-trust-my-batting-ravindra-jadeja-pain-spilled-out-during-the-galle-test-told-how-he-was-discriminated-against-487926 ",
-    "time": "2026-08-16T17:05:16.000Z"
   },
   {
     "cat": "World",
@@ -648,24 +648,6 @@ const newsData_gu = [
     "time": "2026-08-14T10:42:57.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "સની દેઓલની એક્ટિંગ જીતી લેશે દિલ, જાણો કેવી છે મલ્ટી સ્ટારર ફિલ્મ બટવારા 1947",
-    "desc": "આજે સિનેમાઘરોમાં સની દેઓલની ફિલ્મ બટવારા 1947 રિલીઝ થઈ છે. આ ફિલ્મથી અભિનેત્રી પ્રીતિ ઝિંટા લાંબા બ્રેક પછી બોલીવુડમાં કમબેક કરી રહી છે. તમે પણ આ ફિલ્મ જોવા જવાનું વિચારી રહ્યા છો તો પહેલા વાંચી લો ફિલ્મ કેવી છે ?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/film-review-gujarati-sunny-deol-movie-batwara-1947-review-487700 ",
-    "time": "2026-08-14T07:31:35.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "BSNL ની બમ્પર ઓફર: માત્ર ₹1 માં નવું કનેક્શન, 365 ને બદલે 412 દિવસ સુધી ચાલશે વાર્ષિક પ્લાન!",
-    "desc": "સ્વતંત્રતા દિવસ પર બીએસએનએલે ગ્રાહકોને ખાસ ભેટ આપી છે. 1 રૂપિયામાં ફ્રીડમ પ્લાન અને વાર્ષિક રિચાર્જ પર 47 દિવસનો વધારાનો લાભ મળશે. એટલે કે 2399 રૂપિયાનો પ્લાન હવે 412 દિવસ સુધી ચાલશે. આ ઓફર 12 સપ્ટેમ્બર 2026 સુધી ઉપલબ્ધ રહેશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/bsnl-independence-day-offer-get-new-connection-for-1-and-412-days-validity-on-annual-plan-487694 ",
-    "time": "2026-08-14T06:30:21.000Z"
-  },
-  {
     "cat": "World",
     "title": "ટ્રમ્પના નવા ફરમાનથી દુનિયામાં હડકંપ! હવે આ વસ્તુ પર લગાવ્યો 100% ટેરિફ, જાણો કોને થશે અસર",
     "desc": "ચીનની સાથે વધતા ટ્રેડ વિવાદ વચ્ચે અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે એક મોટો નિર્ણય કર્યો. તેમણે આયાત થનાર ડ્રોન પર 100 ટકા ટેરિફ લગાવ્યો છે. ટ્રમ્પના આ નિર્ણયની સીધી અસર ડિફેન્સ સેક્ટર પર પડી શકે છે.",
@@ -673,15 +655,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/trump-imposes-100-tariff-on-drone-imports-amid-escalating-trade-tensions-with-china-487682 ",
     "time": "2026-08-14T04:52:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "326 કિમી રેન્જ, એડવાન્સ ફીચર્સ... Punch અને Nexonને ટક્કર આપવા આવી રહી છે નવી ઇલેક્ટ્રિક કાર",
-    "desc": "વિએતનામની ઇલેક્ટ્રિક કાર કંપની VinFast ભારતમાં પોતાની નવી સેકન્ડ જનરેશન VF 5 SUVનું ટેસ્ટિંગ કરી રહી છે. 4 મીટરથી નાની આ ઇલેક્ટ્રિક SUV ટાટા પંચ EV, નેક્સોન EV અને મહિન્દ્રા XEV 3XO EVને ટક્કર આપશે. તેમાં નવી ડિઝાઇન, પ્રીમિયમ કેબિન, 29.6 kWh અને 37.23 kWh બેટરી વિકલ્પ સાથે 326 કિમી સુધીની રેન્જ મળવાની શક્યતા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/vinfast-begins-testing-second-gen-vf-5-ev-in-india-to-rival-tata-punch-ev-487654 ",
-    "time": "2026-08-13T16:09:00.000Z"
   },
   {
     "cat": "World",

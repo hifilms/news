@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Kuldeep Yadav's form is concerning? India coach Sairaj Bahutule backs star spinner ahead of Colombo Test",
+    "desc": "India spin bowling coach Sairaj Bahutule has backed Kuldeep Yadav ahead of the second Test against Sri Lanka. The star spinner struggled to live up to expectations in the Galle Test, after which some of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kuldeep-yadav-s-form-is-concerning-india-coach-sairaj-bahutule-backs-star-spinner-ahead-of-colombo-test-2026-08-21-1052068",
+    "time": "2026-08-21T11:26:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Can Manchester United go on to win the 2026-27 Premier League? Head coach opines",
+    "desc": "The stage is set for the 2026-27 Premier League season. The 20 teams will be hard at work preparing for the upcoming season, and ahead of the new season, many eyes will be set upon...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/can-manchester-united-go-on-to-win-the-2026-27-premier-league-head-coach-opines-2026-08-21-1052060",
+    "time": "2026-08-21T10:42:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sri Lanka ring in crucial changes, name squad for upcoming second Test against India in Colombo",
+    "desc": "India and Sri Lanka are all set to take on each other in the second Test of the ongoing series. The two sides are slated to meet at the Sinhalese Sports Club Ground, Colombo, from...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sri-lanka-ring-in-crucial-changes-name-squad-for-upcoming-second-test-against-india-in-colombo-2026-08-21-1052051",
+    "time": "2026-08-21T10:03:50.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Gayatri-Treesa script history, assure medal for India with QF win at BWF World Championships 2026",
     "desc": "In a historic moment for India, the duo of Gayatri Gopichand and Treesa Jolly have stunned fourth-seed China's Jia Yifan and Zhang Shuxian and have entered the semi-finals of the ongoing BWF World Championships 2026....",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/us-open-scripts-history-sets-record-prize-money-for-singles-champions-ahead-of-2026-edition-check-details-2026-08-21-1051999",
     "time": "2026-08-21T02:50:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India's tour of Bangladesh is very likely to be postponed again, BCB president Tamim Iqbal indicates",
-    "desc": "India’s tour of Bangladesh is set to be postponed again. It was scheduled to take place in September, but Bangladesh Cricket Board president Tamim Iqbal has confirmed that the two boards are still discussing the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-s-tour-of-bangladesh-is-very-likely-to-be-postponed-again-bcb-president-tamim-iqbal-indicates-2026-08-20-1051990",
-    "time": "2026-08-20T18:20:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Carlos Alcaraz missed French Open, Wimbledon; will he feature in US Open? Spaniard confirms",
-    "desc": "Defending champion Carlos Alcaraz will return to competitive tennis at the US Open after spending almost four months on the sidelines with a wrist injury. The 23-year-old has been absent since the Barcelona Open in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-missed-french-open-wimbledon-will-he-feature-in-us-open-spaniard-confirms-2026-08-20-1051986",
-    "time": "2026-08-20T17:54:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India progress to top 8 of Women's Hockey World Cup after 0-0 draw against England",
-    "desc": "Following a 0-0 draw in the final group game against England, India have secured a place in the second round of the Women’s Hockey World Cup. They finished second in the group with five points,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/hockey/indian-progress-to-top-8-of-women-s-hockey-world-cup-after-0-0-draw-against-england-2026-08-20-1051985",
-    "time": "2026-08-20T17:33:13.000Z"
   }
 ];
