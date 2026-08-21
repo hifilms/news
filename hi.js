@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Matt Renshaw returns as Australia name playing XI for second Bangladesh Test in Mackay",
+    "desc": "The stage is set for the second and final Test of the ongoing series between Australia and Bangladesh. The two sides are slated to take on each other at the Great Barrier Reef Arena, Mackay,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/matt-renshaw-returns-as-australia-name-playing-xi-for-second-bangladesh-test-in-mackay-2026-08-21-1052021",
+    "time": "2026-08-21T06:22:32.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer backs Devdutt Padikkal to put his best foot forward ahead of gruelling New Zealand tour",
+    "desc": "The Indian team got off to a good start to their ongoing two-game Test series against Sri Lanka. Taking on the side in the first Test in Galle, India managed to register a 165-run victory...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-backs-devdutt-padikkal-to-put-his-best-foot-forward-ahead-of-gruelling-new-zealand-tour-2026-08-21-1052009",
+    "time": "2026-08-21T04:51:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Joe Root continues to smash records, becomes first captain to achieve huge feat in WTC history",
+    "desc": "England and Pakistan continued their ongoing first Test by taking on each other on the second day of the clash. After Pakistan was bundled out for a score of 171 runs in the first innings...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/joe-root-continues-to-smash-records-becomes-first-captain-to-achieve-huge-feat-in-wtc-history-2026-08-21-1052007",
+    "time": "2026-08-21T04:04:59.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "US Open scripts history, sets record prize money for singles champions ahead of 2026 edition; Check details",
     "desc": "The stage is set for yet another season of the US Open. Ahead of the latest edition of the marquee tournament, the US Open is set to offer the biggest prize money in Grand Slam...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-cricket-board-suspends-bpl-for-2026-27-season-president-tamim-iqbal-explains-reason-2026-08-20-1051973",
     "time": "2026-08-20T15:01:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ayush Shetty knocked out; India's campaign in men's singles ends at BWF World Championships",
-    "desc": "India’s men’s singles campaign at the BWF World Championships ended on Thursday after Ayush Shetty was beaten by Indonesia’s Alwi Farhan in the Round of 16 at the Indira Gandhi Indoor Stadium in New Delhi....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/ayush-shetty-knocked-out-india-s-campaign-in-men-s-singles-ends-at-bwf-world-championships-2026-08-20-1051962",
-    "time": "2026-08-20T13:16:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How did Babar Azam ruin Pakistan's fast-bowling culture? Former cricketer explains",
-    "desc": "Pakistan have a history of producing legendary fast bowlers. Their former captain Imran Khan is one of them, while his bowling partners, Wasim Akram and Waqar Younis, formed a deadly trio. Later in the years,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-did-babar-azam-ruin-pakistan-s-fast-bowling-culture-former-cricketer-explains-2026-08-20-1051956",
-    "time": "2026-08-20T11:51:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Diamond Harbour FC out of ISL 2026-27 as AIFF confirm 13 teams for next season",
-    "desc": "The All India Football Federation has confirmed that 13 clubs will compete in the 2026-27 Indian Super League season. The tournament will be played in a double round-robin competition, that is, on a home-and-away basis,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/diamond-harbour-fc-out-of-isl-2026-27-as-aiff-confirm-13-teams-for-next-season-2026-08-20-1051947",
-    "time": "2026-08-20T11:02:50.000Z"
   }
 ];
