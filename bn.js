@@ -333,15 +333,6 @@ const newsData_bn = [
     "time": "2026-08-13T12:48:28.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘ওরা আমাকেও ছাড়বে না...’ মৃত্যুর আগে কেন বলেছিলেন সুশান্ত? ৬ বছর পর চাঞ্চল্যকর তথ্য ফাঁস দিদির",
-    "desc": "অভিনেতার মৃত্যুর পর বারবার অভিযোগের আঙুল উঠেছে বান্ধবী রিয়া চক্রবর্তীর দিকে। পরিবারের তরফেও দাবি করা হয়েছিল সুশান্ত আত্মহত্যা করেননি। দেখতে দেখতে ছ’বছর অতিক্রান্ত। ক্লিন চিট পেয়েছেন রিয়া। প্রয়াত অভিনেতা সুশান্ত সিং রাজপুতের মৃত্যুর এতদিন পর বিস্ফোরক দাবি করলেন তাঁর বোন শ্বেতা সিং কীর্তি।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/sushant-singh-rajputs-sister-reiterates-foul-play-claim-something-was-not-right_666832.html ",
-    "time": "2026-08-13T12:23:17.000Z"
-  },
-  {
     "cat": "Business",
     "title": "হোয়াটসঅ্যাপের 'ইউজারনেম' ফিচার সুরক্ষা ও গোপনীয়তায় কত বড় চ্যালেঞ্জ?",
     "desc": "WhatsApp is rolling out a new username feature, allowing users to chat without sharing phone numbers. হোয়াটসঅ্যাপের এই নতুন ফিচারে নম্বর গোপন রেখে চ্যাট করার সুযোগ পাবেন ব্যবহারকারীরা, যা সাইবার নিরাপত্তা বাড়াবে এবং ব্যক্তিগত সুরক্ষা নিশ্চিত করবে।",

@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "પુત્રને બચાવવા જતા પહાડ પરથી પડવાથી પિતાનું મોત, આઘાતમાં માતાએ પણ ટૂંકાવ્યું જીવન; જાણો સમગ્ર મામલો",
+    "desc": "છત્રપતિ સંભાજીનગરના તિસગાંવ વિસ્તારમાં એક દર્દનાક ઘટના સામે આવી છે. 18 વર્ષનો કુણાલ ચાંદવડે પરેશાન થઈને ખવડ્યા પહાડ પાસે પહોંચી ગયો હતો. માહિતી મળતા તેના માતા-પિતા પણ ત્યાં પહોંચ્યા અને તેને સમજાવવા લાગ્યા. લગભગ ત્રણ કલાક સુધી સમજાવ્યા બાદ પિતા પુત્ર પાસે પહોંચ્યા. બન્ને પહાડ પરથી નીચે પડી ગયા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/father-dies-after-falling-from-mountain-while-trying-to-save-son-mother-also-ends-her-life-in-shock-know-the-entire-matter-488401 ",
+    "time": "2026-08-21T15:25:56.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "21થી 31 ઓગસ્ટ દરમિયાન 6 દિવસ માટે બેંકો બંધ રહેશે, જાણી લો નહીંતર થશે ધક્કો !",
+    "desc": "ઓગસ્ટ મહિનાના છેલ્લા 10 દિવસ હવે બાકી રહ્યા છે. જો તમે આ 10 દિવસોમાં બેંકની કોઈ કામ કરવાનું વિચારી રહ્યા છો, તો તમારે પહેલા જાણવું જોઈએ કે બેંકો ક્યારે બંધ રહેશે, નહીંતર તમારે ધરમનો ધક્કો થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/banks-will-be-closed-for-6-days-from-august-21-to-31-know-this-or-else-there-will-be-a-setback-488399 ",
+    "time": "2026-08-21T14:11:56.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ભારતની ટોપ 5 CNG SUV, એવરેજમાં છે બધાથી આગળ! જાણો કિંમત અને ખાસિયતો",
+    "desc": "દેશમાં પેટ્રોલ અને ડીઝલના ભાવમાં વધારો થવાને કારણે, લોકો હવે CNG કાર ખરીદવાનું વધારે પસંદ કરી રહ્યા છે. જો તમે CNG SUV ખરીદવાનું વિચારી રહ્યા છો, તો આ સ્ટોરીમાં તમને દેશની પાંચ સૌથી સારા એવરેજની CNG SUV વિશે જણાવીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/top-5-cng-suvs-in-india-ahead-of-all-others-in-terms-of-average-know-the-price-and-features-488391 ",
+    "time": "2026-08-21T13:42:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "બહાર જમતા હો તો આ 4 વાતોનું રાખજો ધ્યાન, તુકારામ મુંઢેએ આપી ખાસ સલાહ",
+    "desc": "આજકાલ બહાર જમવું એ આપણી મોટાભાગના લોકોનો જીવનનો ભાગ બની ગયો છે. પછી ભલે તે અઠવાડિયાના છેલ્લા દિવસે હોય કે કોઈ પ્રસંગ માટે, મિત્રો અને પરિવાર સાથે બહાર જમવાનું કોને ગમતું નથી? પરંતુ બહાર ખાવાથી ઘણીવાર આપણા સ્વાસ્થ્ય પર ખરાબ અસર પડી શકે છે. મહારાષ્ટ્ર ફૂડ એન્ડ ડ્રગ એડમિનિસ્ટ્રેશન (FDA) દ્વારા તાજેતરના પગલાં અને દરોડાએ ખોરાકની શુદ્ધતા અને સ્વચ્છતા અંગે ઘણા પ્રશ્નો ઉભા કર્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/if-you-are-eating-out-keep-these-4-things-in-mind-tukaram-munde-gives-special-advice-488388 ",
+    "time": "2026-08-21T12:51:12.000Z"
+  },
+  {
     "cat": "Business",
     "title": "સરકારી યોજનાનો કમાલ, દર મહિને કરો 1200 રૂપિયાનું રોકાણ, વ્યાજથી મળશે 4.74 લાખ",
     "desc": "સુકન્યા સમૃદ્ધિ યોજનામાં દર મહિને 1200 રૂપિયા જમા કરી દીકરીના ભવિષ્ય માટે સારૂ ફંડ તૈયાર કરી શકાય છે. 1200 રૂપિયાની માસિક બચતથી 8.2% વ્યાજદર પર આશરે 4.74 લાખનું વ્યાજ બની શકે છે. આ યોજનામાં 15 વર્ષ સુધી પૈસા જમા કરવાના હોય છે.",
@@ -369,15 +405,6 @@ const newsData_gu = [
     "time": "2026-08-19T06:26:43.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "કોલકાતાની હોટલ શિખામાં ભીષણ આગ, 8થી વધારે લોકોના મોતના સમાચાર, જાણો",
-    "desc": "કોલકાતામાં હોટલ શિખામાં આજે એટલે કે 19 ઓગસ્ટે વહેલી સવારે ભીષણ આગ લાગી, જેમાં ઓછામાં ઓછા 8થી વધારે લોકોના મોત થયા હોવાના અહેવાલ છે. આ ઘટના શહેરના હોટલ શિખામાં બની હતી. બિલ્ડિંગમાં ફસાયેલા લોકોને બચાવવાના પ્રયાસો ચાલી રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/massive-fire-breaks-out-in-hotel-shikha-in-kolkata-more-than-8-people-dead-know-the-news-488125 ",
-    "time": "2026-08-19T04:34:22.000Z"
-  },
-  {
     "cat": "Business",
     "title": "બદલવા જઈ રહ્યો છે બેંકિંગ સાથે જોડાયેલો 135 વર્ષ જૂનો કાયદો, હવે કોર્ટમાં માન્ય રહેશે ડિજિટલ રેકોર્ડ",
     "desc": "ડિજિટલ બેંકિંગ રેકોર્ડનો ઉપયોગ હવે કોર્ટમાં પુરાવા તરીકે થઈ શકે છે. બેંકર્સ બુક્સ એવિડન્સ બિલ, 2026ને રાજ્યસભાએ મંજૂર કર્યું છે અને લોકસભા દ્વારા પણ તેને પસાર કરવામાં આવ્યું છે. નવો કાયદો 1891ના જૂના માળખાને બદલે છે અને ઇલેક્ટ્રોનિક, સર્વર, વર્ચ્યુઅલ અને ક્લાઉડ રેકોર્ડને કાનૂની અધિકારક્ષેત્ર હેઠળ લાવે છે. એકાઉન્ટ સ્ટેટમેન્ટ અને ટ્રાન્ઝેક્શન હિસ્ટી જેવા રેકોર્ડ હવે ચોક્કસ શરતો હેઠળ કોર્ટમાં રજૂ કરી શકાય છે. આ ડિજિટલ બેંકિંગના કાનૂની ઉપયોગ માટે માર્ગ સરળ કરે છે.",
@@ -385,15 +412,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/135-year-old-law-related-to-banking-is-going-to-be-changed-now-digital-records-will-be-admissible-in-court-488135 ",
     "time": "2026-08-19T03:26:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "આ રાજ્ય સરકારે મહિલાઓને આપી મોટી ભેટ, હવે ત્રીજા બાળકના જન્મ પર પણ આખું વર્ષ મળશે મેટરનિટી લીવ",
-    "desc": "આ બદલાવ માર્ચ 2026માં જાહેર કરવામાં આવેલા સરકારી આદેશ દ્વારા કરવામાં આવ્યો હતો, જે હેઠળ અગાઉ બે બાળકો સુધી 365 દિવસની મેટરનિટી લીવ મળતી હતી, જ્યારે ત્રીજા સંતાનના જન્મ પર 12 અઠવાડિયાની રજા નક્કી કરવામાં આવી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/this-state-government-has-given-a-big-gift-to-women-now-even-on-the-birth-of-a-third-child-you-will-get-a-whole-year-of-maternity-leave-488111 ",
-    "time": "2026-08-18T17:56:34.000Z"
   },
   {
     "cat": "Business",
@@ -628,15 +646,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/el-nino-will-break-all-records-will-the-biggest-natural-disaster-in-70-years-come-at-the-end-of-2026-487748 ",
     "time": "2026-08-14T16:13:57.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "મારુતિ જેવી માઇલેજ, મહિન્દ્રા જેવો પાવર, આ કંપની લાવી રહી છે ખાસ 7-સીટર SUV",
-    "desc": "ભારતીય બજારમાં એક નવી SUV લોન્ચ થવા જઈ રહી છે. આ SUV બ્રાન્ડની પહેલી પ્લગ-ઇન હાઇબ્રિડ હશે, જે શક્તિશાળી સુવિધાઓથી સજ્જ હશે. આવનારી MGની SUV હાલની હેક્ટર કરતાં લાંબી હોવાની ધારણા છે, એટલે કે તેમાં સાત લોકો બેસી શકશે. આ કારમાં પેટ્રોલ એન્જિન અને બેટરી સેટઅપ બંને હશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/mileage-like-maruti-power-like-mahindra-mg-company-is-bringing-a-special-7-seater-hector-hawk-suv-487744 ",
-    "time": "2026-08-14T14:11:03.000Z"
   },
   {
     "cat": "Entertainment",
