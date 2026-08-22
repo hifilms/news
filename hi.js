@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Kate Cross set to retire from all forms of cricket after conclusion of home summer",
+    "desc": "In a major development, veteran England pacer Kate Cross recently came forward and announced that she will be retiring from professional cricket at the end of the home summer. She will be bringing the curtain...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kate-cross-set-to-retire-from-all-forms-of-cricket-after-conclusion-of-home-summer-2026-08-22-1052109",
+    "time": "2026-08-22T01:50:05.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Neeraj finishes second with season-best throw of 88.05 metres",
     "desc": "Neeraj Chopra competed at the Lausanne Diamond League and finished second with a season-best throw of 88.05 metres. Sri Lanka's Rumesh Pathirage, who won the gold medal in the Commonwealth Games, once again topped the...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/usman-ali-ends-54-year-wait-with-five-wicket-haul-in-first-test-against-england-in-leeds-2026-08-21-1052079",
     "time": "2026-08-21T12:38:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kuldeep Yadav's form is concerning? India coach Sairaj Bahutule backs star spinner ahead of Colombo Test",
-    "desc": "India spin bowling coach Sairaj Bahutule has backed Kuldeep Yadav ahead of the second Test against Sri Lanka. The star spinner struggled to live up to expectations in the Galle Test, after which some of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kuldeep-yadav-s-form-is-concerning-india-coach-sairaj-bahutule-backs-star-spinner-ahead-of-colombo-test-2026-08-21-1052068",
-    "time": "2026-08-21T11:26:38.000Z"
   }
 ];
