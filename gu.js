@@ -1,12 +1,48 @@
 const newsData_gu = [
   {
     "cat": "Politics",
-    "title": "માતાપિતાની જાણ બહાર ખરીદી લીધો હતો આઈફોન? હપ્તા કેવી રીતે ભરવા તેની મથામણમાં હતો પુત્ર, આખો પરિવાર ખતમ",
+    "title": "રડતી માતાની આજીજી, બેટા હું મારું મંગળસૂત્ર કાઢીને ફેંકી રહી છું, આપણે અલગ રહીશું પણ દીકરાની જીદથી માતા-પિતાના પણ થયા મોત",
+    "desc": "ગઈકાલથી આ કેસ જબરદસ્ત ચર્ચામાં છે. છત્રપતિ સંભાજીનગરમાં એક પુત્રનો પિતા સાથે મોબાઇલ ફોન પરના વિવાદમાં 200 ફૂટ ઉડી ખીણમાં કૂદકો અને એ સમયે માતાએ દીકરાને કરેલી વિનવણીઓ તમારા આત્માને હચમચાવી મૂકશે. એક આખો પરિવાર પૂરો થઈ ગયો છે પણ આ ઘટનાની ઈનસાઈડ સ્ટોરી જબરદસ્ત છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/chhatrapati-sambhajinagar-tragedy-11th-grader-to-death-over-mobile-phone-emi-dispute-parents-leap-into-ravine-after-him-488450 ",
+    "time": "2026-08-22T08:59:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "માતા-પિતા સાથે શું માથાકૂટ ચાલતી હતી? આઈફોનનો હપ્તો કેવી રીતે ભરવો તેની મથામણમાં હતો પુત્ર! આખો પરિવાર ખતમ",
     "desc": "મહારાષ્ટ્રના છત્રપતિ સંભાજીનગરમાંથી એક એવો મામલો સામે આવ્યો જેણે દેશને હચમચાવી નાખ્યો છે. કુણાલે એક એવી જીદ કરી જેમાં આખો પરિવાર પહાડ પરથી પડીને ખલાસ થઈ ગયો. હવે આ મામલે એક મોટા અપડેટ સામે આવ્યા છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/kunal-fater-mother-death-case-big-update-iphone-emi-dispute-chhatrapati-sambhajinagar-maharashtra-488425 ",
-    "time": "2026-08-22T06:22:37.000Z"
+    "time": "2026-08-22T08:32:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "છોકરીએ અડધી રાત સુધી ખરીદી કરી અને લગ્નની સવારે ફોન બંધ કરી દીધો, ઘરે સગાસંબધીઓ આવી ગયા ને...",
+    "desc": "લૂંટેરી દુલ્હના કિસ્સા માટે ગુજરાત પણ ફેમસ છે. આ પ્રકારના કેસો રાજ્યમાં ઓછા થયા છે પણ બંધ થયા નથી. આંધ્ર પ્રદેશના કડપામાં એક મહિલાએ લગ્નના બહાને એક યુવાનને ₹6 લાખમાં ઉતારી લીધો છે. લગ્નની સવારે જ ફોન બંધ કરીને ભાગી જતાં છોકરો દોડતો થઈ ગયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/luteri-dulhan-scam-in-andhra-pradesh-bride-takes-inr-6-lakhs-for-wedding-shopping-switches-off-phone-on-marriage-morning-488441 ",
+    "time": "2026-08-22T08:02:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Govinda ના પરિવારના વિવાદમાં રાખી સાવંતની એન્ટ્રી, સુનીતા આહુજાએ કહ્યું, ગોવિંદા બીજા લગ્ન કરવાની તૈયારીમાં હતો",
+    "desc": "ગોવિંદા અને સુનીતા આહુજાના વિવાદમાં હવે રાખી સાવંતની એન્ટ્રી થઈ ગઈ છે. આ મામલે રાખી સાવંતે મીડિયાની હાજરીમાં સુનીતા આહુજાને ફોન લગાડ્યો અને તેની સાથે વાત કરી. તેમાં સુનીતા આહુજાએ ચોંકાવનારી વાત લોકોની સામે જાહેર કરી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/govinda-want-to-marry-komal-says-sunita-ahuja-to-rakhi-sawant-why-sunita-ahuja-withdrawn-divorce-case-488440 ",
+    "time": "2026-08-22T07:51:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "બોબી દેઓલની ફિલ્મ બંદર ઓટીટી રિલીઝ માટે તૈયાર, આ તારીખથી Zee5 પર જોઈ શકાશે",
+    "desc": "બોબી દેઓલની ફિલ્મ બંદર જો તમે થિયેટરમાં જોવા નથી ગયા અને ઓટીટી પર જોવા માટે રાહ જોઈ રહ્યા છો તો હવે આ ફિલ્મ જોવા માટે તૈયાર થઈ જાવ. બોબી દેઓલની ફિલ્મ બંદર ઝી5 પર રિલીઝ થવા માટે તૈયાર છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/bobby-deol-bandar-movie-ott-release-date-new-movie-premiere-on-zee5-bandar-488437 ",
+    "time": "2026-08-22T07:11:02.000Z"
   },
   {
     "cat": "Business",
@@ -351,15 +387,6 @@ const newsData_gu = [
     "time": "2026-08-19T10:48:23.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "માતા કે પત્ની નહીં આ છે જીવ લેનારી ડાકણ! પ્રેમીને પામવા પતિ અને પુત્રને પતાવી દીધો, 5 વર્ષના દીકરાની શું હતી ભૂલ?",
-    "desc": "પ્રેમ આંધળો હોય છે એ તો તમે સાંભળ્યું હશે પણ આટલો આંધળો હોય એ તમે વિચારી પણ નહીં શકો, બેંગલુરુમાં સોશિયલ મીડિયામાં મળેલા પ્રેમીને પામવા માટે એક પત્નીએ પોતાના 5 વર્ષના સગા દીકરા અને પતિની હત્યા કરી દીધી છે. એક પત્નીએ ડાકણ બનીને પતિ અને દીકરાને પતાવી દીધા છે. યુવતીઓ પ્રેમ સંબંધમાં હવે હદ વટાવી રહી છે. હજુ સિયાનો કેસ તો ઉભો છે ત્યાં પ્રેમમાં અંધ મહિલાનો ચોંકાવનારો કેસ સામે આવ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/betrayal-in-bengaluru-wife-and-lover-choke-husband-and-son-to-death-over-illicit-relationship-488165 ",
-    "time": "2026-08-19T10:06:36.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ફ્રીમાં ક્યાં અને ક્યારે જોઈ શકશો ભારત vs પાકિસ્તાન હોકી વર્લ્ડ કપની મેચ ? એક ક્લિકમાં જાણી લો વિગત",
     "desc": "હોકી વર્લ્ડ કપ 2026માં ભારત અને પાકિસ્તાન વચ્ચે આજે એટલે કે 19 ઓગસ્ટના રોજ એક હાઇ-વોલ્ટેજ મેચ રમાશે. આ મેચ બંને ટીમો માટે મહત્વપૂર્ણ છે અને એક શાનદાર ટક્કર જોવા મળવાની છે, ત્યારે આ મેચ ફ્રીમાં ક્યાં અને ક્યારે લાઇવ જોઈ શકશો, તેના વિશે આ લેખમાં જાણીશું.",
@@ -504,15 +531,6 @@ const newsData_gu = [
     "time": "2026-08-17T12:50:11.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ગાલે ટેસ્ટ વચ્ચે અચાનક બદલાઈ ગયા અમ્પાયર, જાણો રોડ ટકરને કેમ છોડવું પડ્યું મેદાન",
-    "desc": "ભારત અને શ્રીલંકા વચ્ચે રમાઈ રહેલી ગાલે ટેસ્ટના પહેલા બે દિવસ અમ્પાયરિંગ કરનાર રોડ ટકર ત્રીજા દિવસે મેદાનમાં ઉતર્યા નહોતા. તેથી ટીવી અમ્પાયર અહસાન રઝા ત્રીજા દિવસે રોડ ટકરની જગ્યાએ મેદાન પર અમ્પાયરિંગ માટે ઉતર્યા હતા. ત્યારે સવાલ એ છે કે રોડ ટકરને એવું શું થયું કે અમ્પાયરિંગ કરવા આવ્યા નહોતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-sl-1st-test-why-the-umpire-suddenly-change-know-reason-487978 ",
-    "time": "2026-08-17T10:35:11.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "27 વર્ષીય એક્ટ્રેસ અનન્યા રાજનું મોત, પરિવારે 1 મહિના પછી આપી જાણકારી",
     "desc": "27 વર્ષીય અભિનેત્રી અનન્યા રાજનું મોત થયું હોવાના સમાચાર સામે આવ્યા છે. સૌથી આશ્ચર્યજનક વાત એ છે કે અભિનેત્રીનું મોત 1 મહિના પહેલા થઈ ગયું છે અને પરિવારે 1 મહિના પછી આ દુખદ સમાચાર જાહેર કર્યા છે.",
@@ -619,33 +637,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/7-7-magnitude-earthquake-in-indonesia-buildings-collapse-like-cards-scenes-of-devastation-are-shocking-487760 ",
     "time": "2026-08-15T03:30:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "સુનીતા આહુજાએ પતિ ગોવિંદાને કહ્યો રાની સ્વર્ણકારનો Sugar Daddy, પતિ પર વરસાવી ફિટકાર",
-    "desc": "છેલ્લા કેટલાક સમયથી ગોવિંદા તેની આગામી ફિલ્મની કો એક્ટર રાની સ્વર્ણકાર સાથે જાહેરમાં જોવા મળે છે. જેને લઈને સુનીતા આહુજા ભડકી છે. સુનીતા આહુજાએ એવું પણ કહી દીધું છે કે ગોવિંદા કોમલ રાની સ્વર્ણકારનો સુગર ડેડી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/sunita-ahuja-says-govinda-is-rani-swarnkar-sugar-daddy-sunita-ahuja-reaction-goes-viral-487758 ",
-    "time": "2026-08-15T03:03:50.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "અલ નીનો તોડશે બધા રેકોર્ડ! 2026ના અંતમાં આવશે 70 વર્ષની સૌથી મોટી કુદરતી આફત?",
-    "desc": "હવામાનશાસ્ત્રીઓએ 2026ના અંત અને 2027ની શરૂઆતમાં એક મોટું રેડ એલર્ટ જાહેર કર્યું છે. યુએસ ઓશનિક એન્ડ એટમોસ્ફેરિક એડમિનિસ્ટ્રેશન (NOAA)ના એક નવા અહેવાલ મુજબ, આ ઘટના 1950 પછીના તમામ રેકોર્ડ તોડી શકે છે, જે ભારત સહિત વિશ્વભરના હવામાન અને ચોમાસાને ગંભીર અસર કરી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/el-nino-will-break-all-records-will-the-biggest-natural-disaster-in-70-years-come-at-the-end-of-2026-487748 ",
-    "time": "2026-08-14T16:13:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ફાલ્ગુની પાઠકના ગરબા પાસની કિંમત જાણી નેટિઝન્સ આઘાતમાં! બોલ્યા- કિડની ગીરવે મૂકવી પડશે",
-    "desc": "નવરાત્રી આવે અને ફાલ્ગુની પાઠકના ગરબાની ચર્ચા ન થાય તે શક્ય નથી. ફાલ્ગુની પાઠક દર વખતે મુંબઈમાં પોતાના ખાસ નવરાત્રી કોન્સર્ટ દ્વારા ગરબાપ્રેમીઓને ઝૂમવાની તક આપે છે. ગરબા ક્વીનના નામથી પ્રખ્યાત ફાલ્ગુની પાઠકના ગરબાના પાસના ભાવે લોકોના હોશ ઉડાવી દીધા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/people-shocked-to-know-the-price-of-falguni-pathak-navratri-utsav-garba-pass-487715 ",
-    "time": "2026-08-14T10:42:57.000Z"
   },
   {
     "cat": "World",

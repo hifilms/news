@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Bangladesh fightback against resilient Australia as roller coaster of day 1 ends in Mackay",
+    "desc": "Australia and Bangladesh kicked off the second and final Test of their ongoing series. The two sides took on each other at the Great Barrier Reef Arena in Mackay from August 22nd, and it is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-fightback-against-resilient-australia-as-roller-coaster-of-day-1-ends-in-mackay-2026-08-22-1052140",
+    "time": "2026-08-22T09:07:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Does Arsenal need Julian Alvarez upfront despite excellent start to PL season? Head coach reveals",
+    "desc": "The Premier League 2026-27 season kicked off with Arsenal taking on Coventry City. The two sides met at the Emirates Stadium in London on August 22nd, and Arsenal registered a dominant win as the side...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/does-arsenal-need-julian-alvarez-upfront-despite-excellent-start-to-pl-season-head-coach-reveals-2026-08-22-1052135",
+    "time": "2026-08-22T07:41:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Arsenal get off to perfect start to Premier League 2026-27 season, register stellar win over Coventry City",
+    "desc": "The Premier League 2026-27 season kicked off on August 22nd, and the season opener saw defending champions Arsenal take on Coventry City. The two sides met at the Emirates Stadium in London for the clash,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/arsenal-get-off-to-perfect-start-to-premier-league-2026-27-season-register-stellar-win-over-coventry-city-2026-08-22-1052130",
+    "time": "2026-08-22T06:50:31.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Leandro Paredes handed hefty 10-match suspension for fighting after FIFA World Cup 2026 final",
     "desc": "In a major development, Argentina midfielder Leandro Paredes has been handed a hefty 10-match ban by FIFA after he was involved in an on-field fight with Spanish players after the conclusion of the FIFA World...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pakistan-move-to-bottom-of-wtc-points-table-after-shambolic-defeat-to-england-check-full-table-2026-08-21-1052101",
     "time": "2026-08-21T16:37:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch Premier League live on TV and stream online in India?",
-    "desc": "The Premier League returns in the early hours of Saturday with Arsenal beginning their title defence against Coventry City. However, the biggest question of the 2026-27 season is whether the champions can hold their nerve...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/when-and-where-to-watch-premier-league-live-on-tv-and-stream-online-in-india-2026-08-21-1052097",
-    "time": "2026-08-21T16:02:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jannik Sinner ruled out of US Open, world number 1 issues statement, explains reason",
-    "desc": "World No. 1 Jannik Sinner will miss the US Open after withdrawing from the Grand Slam with a right knee injury. His team confirmed the development on Friday. Notably, the withdrawal ends Sinner’s run of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/jannik-sinner-ruled-out-of-us-open-world-number-1-issues-statement-explains-reason-2026-08-21-1052096",
-    "time": "2026-08-21T15:27:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Joe Root's England return to winning ways as hosts hammer Pakistan to win first Test at Headingley",
-    "desc": "England have not won a single Test series in the World Test Championship since their away win against New Zealand in December 2024. Since then, they hosted India and New Zealand and played the Ashes...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/joe-root-s-england-return-to-winning-ways-as-hosts-hammer-pakistan-to-win-first-test-at-headingley-2026-08-21-1052093",
-    "time": "2026-08-21T15:00:44.000Z"
   }
 ];

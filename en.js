@@ -1,9 +1,261 @@
 const newsData_en = [
   {
     "cat": "Sports",
-    "title": "Sanat Sangwan, a Virat Kohli, Lewis Hamilton fan, ready for next big challenge",
+    "title": "'Don't be desperate for wickets': Gautam Gambhir's message to Kuldeep Yadav",
+    "desc": "India returned to winning ways in the World Test Championship after a 165-run victory over Sri Lanka in the first Test at the Galle International Stadium on Wednesday. Four days after that win, the visitors will be back in action in Colombo for the second and final Test. India will be pleased with most aspects of their performance in Galle, but Kuldeep's form remains one of the major talking points.",
+    "img": "https://static.toiimg.com/photo/msid-133421219,imgsize-31750.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/dont-be-desperate-for-wickets-gautam-gambhirs-message-to-kuldeep-yadav/articleshow/133421163.cms",
+    "time": "2026-08-22T09:19:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Rankings don't matter': Under fire Gambhir says India 'not struggling' in Tests",
+    "desc": "India go into the second Test against Sri Lanka in Colombo with a 1-0 lead after their 165-run win in Galle. But the series has also kept the focus on a team that is trying to build a new Test side after the departure of some of its biggest names.",
+    "img": "https://static.toiimg.com/photo/msid-133421010,imgsize-676508.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/rankings-do-not-matter-under-fire-gautam-gambhir-says-india-not-struggling-in-tests/articleshow/133420994.cms",
+    "time": "2026-08-22T09:08:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Silambarasan CONFIRMS his political stand and praises Vijay",
+    "desc": "Silambarasan TR states he has no immediate plans to enter politics. He acknowledges his father T Rajendar's dedication to public life. The actor keeps the door open for a potential future political entry. He believes it is too early to judge Vijay's government performance. Silambarasan remains focused on his cinema career for now.",
+    "img": "https://static.toiimg.com/photo/msid-133420795,imgsize-134118.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/arasan-actor-silambarasan-confirms-his-political-stand-and-praises-vijays-government-for-now-he-is-doing-well/articleshow/133420778.cms",
+    "time": "2026-08-22T08:51:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'No compromise': BJP passes resolution against Congress on Vande Mataram; vows natiowide protest",
+    "desc": "The BJP has condemned the Congress party's decision to sing only two stanzas of Vande Mataram. This move is seen by the BJP as undermining the national song's significance and legacy. The party passed a resolution to protect the honor and national character of the complete Vande Mataram. Union Home Minister Amit Shah also attacked the Congress Working Committee's resolution as anti-national.",
+    "img": "https://static.toiimg.com/photo/msid-133420594,imgsize-101273.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bjp-condemns-congress-decision-on-vande-mataram-passes-resolution/articleshow/133420564.cms",
+    "time": "2026-08-22T08:31:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "When Sunita opened up about pain in her marriage to Govinda",
+    "desc": "In a reflective moment, Sunita Ahuja opened up about her enduring connection with Govinda, emphasizing both the struggles and the growth she experienced over the years. Despite facing emotional challenges, she discovered her own strength and identity. Ahuja acknowledged Govinda as her childhood love, hinting at themes of forgiveness, and described how their relationship blossomed into a frank friendship.",
+    "img": "https://static.toiimg.com/photo/msid-133420566,imgsize-637005.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-sunita-ahuja-opened-up-about-the-pain-in-her-marriage-to-govinda-if-he-changes-and-respects-my-expectations-i-would-forgive-him/articleshow/133420479.cms",
+    "time": "2026-08-22T08:27:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "IndiGo A321neo grounded after tail impact during Gorakhpur landing",
+    "desc": "An IndiGo Airbus A321neo aircraft experienced a tail impact during its landing approach. The flight from Delhi to Gorakhpur made a successful landing on its third attempt. Scratches were observed around the APU inlet during a post-flight inspection. The aircraft remains grounded at Gorakhpur airport for necessary maintenance. Technical and regulatory clearances are awaited before the plane resumes operations.",
+    "img": "https://static.toiimg.com/photo/msid-133420418,imgsize-119260.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/indigo-a321neo-grounded-after-tail-impact-during-gorakhpur-landing/articleshow/133420385.cms",
+    "time": "2026-08-22T08:12:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Amit Shah meets hill leaders to discuss 'permanent political solution' for Darjeeling",
+    "desc": "The meeting is expected to focus on the BJP's pre-poll promise of a \"permanent political solution\" for the Gorkha community and other residents of the hills who have, for decades, demanded a separate Gorkhaland State",
+    "img": "https://th-i.thgim.com/public/incoming/kwnhr2/article71376959.ece/alternates/LANDSCAPE_1200/HQQtIpVaUAAfUna.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/amit-shah-meets-hill-leaders-to-discuss-permanent-political-solution-for-darjeeling/article71376943.ece",
+    "time": "2026-08-22T08:05:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "How a landmark child safety trial could reshape Facebook, Insta",
+    "desc": "Twenty-nine US states are suing Meta, alleging exploitative product design targeting young users. The lawsuit claims Meta concealed internal research about potential harms to teenagers. States seek substantial financial penalties and court-ordered product redesigns for Facebook and Instagram. A former Meta engineer will testify as a key witness in the ongoing trial. This case could significantly influence future social media platform regulations globally.",
+    "img": "https://static.toiimg.com/photo/msid-133420282,imgsize-41208.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/29-states-vs-meta-how-a-landmark-child-safety-trial-could-reshape-facebook-and-instagram/articleshow/133420026.cms",
+    "time": "2026-08-22T08:03:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "All about Pawan Singh's family home in Bihar",
+    "desc": "Pawan Singh recently took his followers on a heartfelt tour of his ancestral home in Arrah, Bihar. The picturesque house, painted in traditional white and orange, boasts a spacious verandah and an L-shaped design. Inside, the walls are adorned with family photos and heartfelt gifts from fans. With properties in Lucknow and Mumbai, Singh cherishes his visits home, where his uncle, a vital mentor, currently resides.",
+    "img": "https://static.toiimg.com/photo/msid-133420105,imgsize-236563.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/bhojpuri/movies/news/all-about-bhojpuri-bawaal-star-pawan-singhs-home-in-bihar-from-carved-jharokas-to-display-setups-for-trophies/articleshow/133420061.cms",
+    "time": "2026-08-22T07:54:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Why is Jadavpur University in Kolkata on the boil?",
+    "desc": "The dispute between the two student groups — ABVP and Left student unions — including the Students Federation of India (SFI), started on Wednesday (August 19) over a ‘general body’ meeting. The ABVP supporters claimed that the Left-wing supporters cannot call such a meeting as no student union exists at the university.",
+    "img": "https://th-i.thgim.com/public/incoming/y5u1jo/article71376798.ece/alternates/LANDSCAPE_1200/PTI08_21_2026_000617B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/why-is-jadavpur-university-in-kolkata-on-the-boil-explained/article71376802.ece",
+    "time": "2026-08-22T07:54:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Sooryavanshi hasn’t played as much red-ball cricket’: Dravid’s blunt assessment",
+    "desc": "Rahul Dravid advocates for a well-balanced strategy for aspiring cricketer Vaibhav Sooryavanshi. He points out the crucial role of red-ball cricket alongside white-ball fixtures in a player's development. Such diverse training is anticipated to aid Sooryavanshi's growth. Dravid encourages patience as the youngster starts his professional path, reaffirming the sport's dedication to cultivating future Test cricket players.",
+    "img": "https://static.toiimg.com/photo/msid-133420090,imgsize-834936.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-sooryavanshi-hasnt-played-as-much-red-ball-cricket-rahul-dravids-blunt-assessment-of-test-prospects/articleshow/133419993.cms",
+    "time": "2026-08-22T07:53:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Traders in Kozhikode flay continued delay in arrest of suspect",
+    "desc": "The protesters aligned under the Kammath Lane Gold and Silver Merchants’ Association who observed a half-day shutdown on Saturday demanded that the investigation be handed over to a senior police officer or an SIT to get the deserving attention",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/kozhikode/gold-fraud-traders-in-kozhikode-flay-continued-delay-in-arrest-of-suspect/article71376849.ece",
+    "time": "2026-08-22T07:46:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ramayana's Bhojpuri trailer takes internet by storm",
+    "desc": "A fan-made Bhojpuri trailer of Nitesh Tiwari's 'Ramayana', starring Ranbir Kapoor, Sai Pallavi and Yash, has gone viral, with netizens hilariously reacting and demanding an official release. Yash recently clarified the film's Rs 4,000 crore budget covers promotion too. 'Ramayana' releases in two parts, with Part 1 arriving this Diwali.",
+    "img": "https://static.toiimg.com/photo/msid-133419969,imgsize-289618.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayanas-bhojpuri-trailer-takes-internet-by-storm-fans-demand-official-release-waiting-for-ravi-kishans-voice-watch/articleshow/133419958.cms",
+    "time": "2026-08-22T07:44:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Vishwanath And Sons’ BO day 9 [Live]: Suriya’s film nears another milestone",
+    "desc": "Vishwanath And Sons appears to be experiencing a decline as it heads into its second weekend, with a net collection of thirty-three lakh on day nine. The movie's India gross is approaching one hundred crore rupees, fueled by a strong six crore earnings on its fifth day. The film's future in theaters now rests on its upcoming weekend performance.",
+    "img": "https://static.toiimg.com/photo/msid-133419965,imgsize-117962.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vishwanath-and-sons-box-office-collection-day-9-live-suriya-and-mamitha-baijus-film-nears-another-milestone-in-india/articleshow/133419942.cms",
+    "time": "2026-08-22T07:43:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Neeraj Chopra finishes second, Pathirage wins title in Lausanne Diamond League",
+    "desc": "His 88.05m throw in the second round, which fetched him the second spot in the nine-man star-studded field, was his best after the 88.16m he recorded while winning the Paris Diamond League in June 2025",
+    "img": "https://th-i.thgim.com/public/incoming/fs3mpk/article71375344.ece/alternates/LANDSCAPE_1200/Switzerland_Diamond_League_Athletics_58277.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/neeraj-chopra-finishes-second-pathirage-wins-title-in-lausanne-diamond-league/article71375340.ece",
+    "time": "2026-08-22T07:31:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Samuel L. Jackson",
+    "desc": "In a refreshing take on success, Samuel L. Jackson reveals his preference for personal fulfillment over the pursuit of awards. Instead of chasing critical acclaim, he selects roles that excite him. With a career that skyrocketed from small beginnings in films like 'Jungle Fever' to iconic performances in 'Pulp Fiction,' Jackson champions self-made success driven by passion and enjoyment.",
+    "img": "https://static.toiimg.com/photo/msid-133419810,imgsize-76771.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-samuel-l-jackson-i-was-never-going-to-let-the-oscars-be-a-measure-of-my-success-or-failure-my-yardstick-of-success-is-my-happiness-words-of-wisdom-by-the-avengers-star-explaining-why-seeking-external-validation-holds-no-worth/articleshow/133419792.cms",
+    "time": "2026-08-22T07:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bhansali to begin Madhubala biopic after 'Love and War' wrap",
+    "desc": "Sanjay Leela Bhansali will start his Madhubala biopic in September. He is finishing his film 'Love and War' with Ranbir Kapoor and Alia Bhatt. Sara Arjun will portray the iconic actress Madhubala in the upcoming project. The production team will transform sets from his current film. This biopic will explore Madhubala's celebrated life and career.",
+    "img": "https://static.toiimg.com/photo/msid-133419775,imgsize-299354.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sanjay-leela-bhansali-to-begin-madhubala-biopic-with-sara-arjun-in-september-after-wrapping-love-and-war-with-ranbir-kapoor-alia-bhat-and-vicky-kaushal/articleshow/133419201.cms",
+    "time": "2026-08-22T07:26:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "RSS leaders",
+    "desc": "Whether it is an issue such as NEET or other systemic problems, concerns about the future are being raised among young people, and these concerns need to be understood and addressed, RSS Sah Sarkaryavah C.R. Mukunda said",
+    "img": "https://th-i.thgim.com/public/incoming/5nu4q4/article71375259.ece/alternates/LANDSCAPE_1200/VSP22_RSS%203.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/concerns-of-youth-should-be-understood-and-addressed-rss-leaders/article71374159.ece",
+    "time": "2026-08-22T07:24:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Deepika LIKES post slamming Vanga's brother over 'Spirit' row",
+    "desc": "Deepika Padukone's recent exit from Sandeep Reddy Vanga's film 'Spirit' has ignited discussions again, as reports suggest her departure was tied to a demand for a ten percent profit share. This situation has raised eyebrows about potential gender bias within the film industry. Fans have rallied behind Padukone on social media, while the role has now been taken over by Triptii Dimri for the project.",
+    "img": "https://static.toiimg.com/photo/msid-133419699,imgsize-448414.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-likes-post-slamming-sandeep-reddy-vangas-brother-over-spirit-profit-share-row/articleshow/133419524.cms",
+    "time": "2026-08-22T07:17:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Five killed, several injured in Bihar's Champaran as bus ploughs into crowd attending cultural programme",
+    "desc": "\"While trying to avert a head-on collision with a truck, the bus ploughed into a crowd attending a cultural event on the roadside, killing five men and injuring several others,\" Narkatiyaganj Sub-divisional Police Officer (SDPO) Ajay Prakash Singh told PTI",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/bihar/five-killed-several-injured-in-bihars-champaran-as-bus-ploughs-into-crowd-attending-cultural-programme/article71376831.ece",
+    "time": "2026-08-22T07:12:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Suchitra Mohanlal on Pranav, Vismaya's marriage plans",
+    "desc": "Suchitra Mohanlal stated that her children will decide their marriage plans. She emphasized that no pressure will be placed on Pranav and Vismaya. The couple can choose to marry or not marry whenever they wish. Grandchildren are also a decision for her adult children to make. Vismaya Mohanlal has recently begun her acting career.",
+    "img": "https://static.toiimg.com/photo/msid-133419617,imgsize-330173.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/they-are-adults-now-wont-force-them-to-marry-suchitra-mohanlal-on-pranav-vismayas-marriage-plans/articleshow/133419580.cms",
+    "time": "2026-08-22T07:09:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Akshay and Saif’s song filmed at Mumbai college",
+    "desc": "Priyadarshan's 'Haiwaan' has shot a promotional song at Mumbai's SNDT College, uniting Akshay Kumar, Saif Ali Khan, Saiyami Kher and Shriya Pilgaonkar. Composed by Pritam, choreographed by Bosco Martis, the song marks Khan-Kumar's reunion since 2008's 'Tashan'. Produced by Venkat K Narayana and Shailaja Desai Fenn, 'Haiwaan' releases theatrically on September 11, 2026.",
+    "img": "https://static.toiimg.com/photo/msid-133419215,imgsize-286182.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/haiwaan-akshay-kumar-and-saif-ali-khans-promotional-song-filmed-at-mumbai-college-reports/articleshow/133419185.cms",
+    "time": "2026-08-22T06:48:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Didn't back him': Gill questioned after Kuldeep bowled just 25 overs in Galle",
+    "desc": "Kuldeep bowled only 25 overs across India’s two innings in the Test and took one wicket, while left-arm spinner Manav Suthar and Ravindra Jadeja bowled around 44 overs each and shared 14 wickets. India won the Test by 165 runs.",
+    "img": "https://static.toiimg.com/photo/msid-133419071,imgsize-87146.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/shubman-gill-didnt-back-him-india-captain-questioned-after-kuldeep-yadav-bowled-just-25-overs-in-galle/articleshow/133418822.cms",
+    "time": "2026-08-22T06:44:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "5 Tamil movies that portrayed the many shades of Chennai",
+    "desc": "Chennai's multifaceted identity and urban evolution have been richly portrayed in Tamil films. Stories like 'Madras' and 'Vada Chennai' shed light on North Chennai's gritty streets and complex politics. Meanwhile, 'Chennai 600028' celebrates the enthusiasm of suburban youth and cricket. Historical narratives in films like 'Madrasapattinam' and 'Angadi Theru' reveal the city's contrasting timelines, showcasing its heritage while documenting its remarkable journey.",
+    "img": "https://static.toiimg.com/photo/msid-133419166,imgsize-297077.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/madras-day-2026-from-karthis-madras-to-dhanushs-vada-chennai-5-tamil-movies-that-portrayed-the-many-shades-of-the-city/articleshow/133419152.cms",
+    "time": "2026-08-22T06:43:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Chiranjeevi’s birthday: Pawan Kalyan calls him ‘my hero’",
+    "desc": "Pawan Kalyan celebrated his elder brother Chiranjeevi's birthday by reminiscing about their cherished childhood moments. He fondly recalled Chiranjeevi's return home during summer breaks and highlighted the pride he felt walking alongside him in school. Pawan expressed admiration for Chiranjeevi's relentless efforts and accomplishments in the film industry, declaring him his sole hero.",
+    "img": "https://static.toiimg.com/photo/msid-133419105,imgsize-1239136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/chiranjeevis-birthday-pawan-kalyan-shares-childhood-memories-with-the-megastar-says-my-annaya-was-always-my-hero/articleshow/133418990.cms",
+    "time": "2026-08-22T06:38:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dolly Parton shares new health update with fans",
+    "desc": "In light of her recent health concerns, Dolly Parton expresses her relief at feeling much better. She is enthusiastic about upcoming projects and events, particularly the grand opening of a museum in Nashville highlighting her legacy—set to be the largest exhibition celebrating her work globally. Parton’s journey continues with a mix of healing and enthusiasm for the future.",
+    "img": "https://static.toiimg.com/photo/msid-133419088,imgsize-68280.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/dolly-parton-shares-a-health-update-i-am-dealing-with-some-issues-that-i-just-didnt-pay-attention-to-/articleshow/133419062.cms",
+    "time": "2026-08-22T06:36:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Poonam Dhillon admitted to Lilavati Hospital",
+    "desc": "Veteran actress Poonam Dhillon is recuperating at Lilavati Hospital following a dengue diagnosis. Her treatment is progressing well, and she is expected to be discharged soon. In the meantime, Dhillon is facing serious allegations of authoritarianism within the CINTAA organization. General secretary Upasana Singh has claimed that unfair show-cause notices were issued, prompting resigning members to advocate for fresh elections to ensure transparency.",
+    "img": "https://static.toiimg.com/photo/msid-133418949,imgsize-460304.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/actress-poonam-dhillon-hospitalised-at-mumbais-lilavati-hospital-cintaa-president-diagnosed-with-dengue/articleshow/133418902.cms",
+    "time": "2026-08-22T06:24:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Arnold's selfie from Jagannath Ratha Yatra in LA goes viral",
+    "desc": "Arnold Schwarzenegger surprised fans by attending an ISKCON Ratha Yatra in Los Angeles. His action-comedy series 'Fubar' was recently cancelled by Netflix after two seasons. Schwarzenegger confirmed that the long-awaited 'King Conan' sequel is finally moving forward. Filming for the new 'King Conan' movie is scheduled to begin in 2027. The actor expressed excitement about reprising his iconic warrior role on the big screen.",
+    "img": "https://static.toiimg.com/photo/msid-133418913,imgsize-403082.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/arnold-schwarzeneggers-selfie-from-jagannath-ratha-yatra-in-los-angeles-goes-viral-pic/articleshow/133418862.cms",
+    "time": "2026-08-22T06:22:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sanat Sangwan, a Kohli &amp; Lewis Hamilton fan, ready for next challenge",
     "desc": "Delhi opener Sanat Sangwan was one of the breakout stars of the 2025-26 Ranji Trophy season. The 25-year-old amassed 828 runs at an average of 69, including three hundreds, and is gearing up for the next big challenge of his career in the upcoming Duleep Trophy, starting from Sunday at the BCCI's Centre of Excellence (CoE) in Bengaluru.",
-    "img": "https://static.toiimg.com/photo/msid-133418538,imgsize-56158.cms",
+    "img": "https://static.toiimg.com/photo/msid-133419179,imgsize-72132.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/duleep-trophy-sanat-sangwan-a-virat-kohli-and-lewis-hamilton-fan-ready-for-next-big-challenge/articleshow/133418395.cms",
     "time": "2026-08-22T06:13:13.000Z"
@@ -118,30 +370,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Lokesh Kanagaraj reveals his tough ‘DC’ transformation",
-    "desc": "In a stunning transition, filmmaker Lokesh Kanagaraj has stepped into the acting arena through the film 'DC'. He dedicated an impressive fifty days and ninety sessions to prepare for his role as Devadas. Praised for its engaging narrative and stellar performances, 'DC' has also achieved commercial triumph, grossing over one hundred crore rupees worldwide, showcasing Kanagaraj's versatility beyond directing as he successfully enters the realm of acting.",
-    "img": "https://static.toiimg.com/photo/msid-133418009,imgsize-251270.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/lokesh-kanagaraj-reveals-his-tough-dc-transformation-as-the-film-hits-100-crore-50-days-90-sessions-and-two-workouts-a-day/articleshow/133417980.cms",
-    "time": "2026-08-22T05:22:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Chiranjeevi's next film with Bobby Kolli is officially titled 'Kaaka'",
     "desc": "Megastar Chiranjeevi's latest action thriller has been unveiled with the title 'Kaaka'. The film's sneak peek introduces us to Chiranjeevi's character, Satyam, who seems to live a double life as a gangster. Fans eagerly await its worldwide debut on January 13, 2027, a promising date that aligns with the festive Sankranthi celebrations.",
     "img": "https://static.toiimg.com/photo/msid-133417981,imgsize-1500363.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/chiranjeevis-kaaka-glimpse-megastar-plays-a-simple-aqua-factory-supervisor-with-a-secret-sankranthi-release-confirmed/articleshow/133417939.cms",
     "time": "2026-08-22T05:20:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Harry Styles and Zoë Kravitz arrive in NYC together",
-    "desc": "Harry Styles and Zoë Kravitz arrived in New York City together. The couple was spotted at the airport just five days before his residency. Styles will perform thirty shows at Madison Square Garden starting August twenty-sixth. The actress has previously accompanied him on tour dates. They were first linked in late twenty-twenty-five and are now engaged.",
-    "img": "https://static.toiimg.com/photo/msid-133417872,imgsize-296439.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/harry-styles-and-zo-kravitz-spotted-in-nyc-days-before-the-singers-30-day-residency-at-madison-square-garden/articleshow/133417853.cms",
-    "time": "2026-08-22T05:09:48.000Z"
   },
   {
     "cat": "Politics",
@@ -162,15 +396,6 @@ const newsData_en = [
     "time": "2026-08-22T05:04:52.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Who was Sowcar Janaki? The legendary actress who spanned generations",
-    "desc": "Beloved veteran actress Sowcar Janaki has left us at the age of ninety-four. With a dazzling career stretching over seventy years, she shone brightly in Tamil, Telugu, Kannada, and Malayalam films. Transitioning seamlessly from lead roles to powerful character parts, her remarkable talent has cemented an enduring legacy that continues to inspire the South Indian cinema landscape.",
-    "img": "https://static.toiimg.com/photo/msid-133417737,imgsize-71738.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/who-was-sowcar-janaki-the-legendary-actress-who-spanned-generations/articleshow/133417719.cms",
-    "time": "2026-08-22T05:01:53.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "HMT-made tractor, ‘70s jeep among planters at Srinagar's first-ever 'waste-to-wonder' garden",
     "desc": "“The lights of the garden are run by solar panels. It’s the first garden with zero carbon emissions. All the installations in the garden are donated. We have not purchased any installation,” Masooma Banoo, Director, Floriculture, Kashmir, told The Hindu",
@@ -178,24 +403,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/hmt-made-tractor-70s-jeep-among-planters-at-srinagars-first-ever-waste-to-wonder-garden/article71374942.ece",
     "time": "2026-08-22T04:45:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Ahead of MHA-Ladakh talks in September, Centre’s outreach sees withdrawal of cases against Leh protestors",
-    "desc": "Ladakh’s key civil society groups, including Leh Apex Body (LAB) and Kargil Democratic Alliance (KDA), earlier this week submitted a list of “non-negotiable” demands to the administration and insisted on the withdrawal of pending cases against locals, who were arrested after the September 2025 violence in Leh.",
-    "img": "https://th-i.thgim.com/public/incoming/j3l362/article71376432.ece/alternates/LANDSCAPE_1200/12205_26_9_2025_13_29_25_1_01_CURFEW_LEH_26_09_2025.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/ladakh/ahead-of-mha-ladakh-talks-in-september-centres-outreach-sees-withdrawal-of-cases-against-leh-protestors/article71374523.ece",
-    "time": "2026-08-22T04:31:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "After Rahul’s dharna, police register FIR on pellet gun use at Delhi protest",
-    "desc": "Rahul Gandhi sat in a dharna after Sahil Lochab, a 19-year-old who lost his eyesight after being hit by pellets during the protest, said the police had refused to register an FIR on his complaint",
-    "img": "https://th-i.thgim.com/public/incoming/731opu/article71375286.ece/alternates/LANDSCAPE_1200/RAHUL%20PRIYANKA%20PROTEST_21_08_67.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/delhi-police-fir-over-pellet-injuries-to-youth-during-july-20-protest/article71373663.ece",
-    "time": "2026-08-22T04:27:20.000Z"
   },
   {
     "cat": "Sports",
@@ -216,15 +423,6 @@ const newsData_en = [
     "time": "2026-08-22T04:20:19.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Priyanka rocks RACY tee with pic of Nick",
-    "desc": "Priyanka Chopra attended the Jonas Brothers concert at Madison Square Garden. She wore a t-shirt featuring a provocative image of her husband, Nick Jonas. This outfit choice garnered significant attention from fans and media outlets. The Jonas Brothers recently kicked off their 'Burning Up Tour All Over Again'. Chopra is currently busy with her upcoming Indian and Hollywood film projects.",
-    "img": "https://static.toiimg.com/photo/msid-133417163,imgsize-333419.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-rocks-racy-tee-with-pic-of-nick-jonas-as-she-cheers-for-jonas-brothers-at-madison-square-garden-gig/articleshow/133416654.cms",
-    "time": "2026-08-22T04:15:17.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Starc unleashes havoc as Australia bowl Bangladesh out for 64 in second Test",
     "desc": "After winning the toss, Australia captain Pat Cummins chose to bowl first, and Mitchell Starc made an immediate impact. The left-arm fast bowler finished with 6/12 after completing the sixth-fastest five-wicket haul in Test cricket.",
@@ -243,15 +441,6 @@ const newsData_en = [
     "time": "2026-08-22T04:02:18.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Nayanthara serves pure Onam elegance in Kerala saree",
-    "desc": "Nayanthara has recently graced her fans with stunning photos showcasing her in a traditional Kerala saree for Onam celebrations. This festive moment comes just ahead of her two major film releases this August. Fans can look forward to her performance alongside Yash in the action-packed film Toxic, as well as her lead role in the romantic movie Hi, directed by Vishnu Edavan. It's a thrilling time for the beloved actress.",
-    "img": "https://static.toiimg.com/photo/msid-133416955,imgsize-109316.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/nayanthara-serves-pure-onam-elegance-in-kerala-saree-toxic-actress-latest-look-wins-the-internet/articleshow/133416944.cms",
-    "time": "2026-08-22T03:56:09.000Z"
-  },
-  {
     "cat": "Business",
     "title": "'Unfair': Canada suspends trade talks with US, PM Carney says will match tariffs 'dollar for dollar'",
     "desc": "In response to unfair trade terms imposed by the United States, Canada has decided to suspend its trade negotiations. With significant tariffs on Canadian imports set to take effect at midnight, Prime Minister Carney announced that Canada will retaliate with equivalent tariffs. Negotiators are being recalled to Ottawa, reflecting the uncertainty in discussions as Canada now shifts its focus towards boosting domestic economic growth and seeking new international trade opportunities.",
@@ -261,33 +450,6 @@ const newsData_en = [
     "time": "2026-08-22T03:51:35.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Cannot live like this, says West Bengal man detained again in ‘illegal immigrants’ drive",
-    "desc": "“Every time someone asks us where we are from, our fear cannot be described. Once you say West Bengal and if you’re a Muslim, the instant reply is, ‘Go to Bangladesh’. What does it take to prove that we are Indians?”, Rafikul Biswas questioned.",
-    "img": "https://th-i.thgim.com/public/incoming/i2cm7d/article71376489.ece/alternates/LANDSCAPE_1200/Untitled%20design%204.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/bangalore/cannot-live-like-this-says-west-bengal-man-detained-again-in-illegal-immigrants-drive/article71374196.ece",
-    "time": "2026-08-22T03:37:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "David Harbour shares a cryptic comment about ‘Avengers: Doomsday'",
-    "desc": "Doomsday. He suggested a deeper exploration of Tony Stark's enduring influence on the Marvel Universe. Anticipation builds as the film promises to showcase Dr Doom as the primary villain, showcasing his formidable powers amid a darker narrative. Fans can expect an epic gathering of iconic Marvel heroes for a stunning showdown.",
-    "img": "https://static.toiimg.com/photo/msid-133416770,imgsize-193670.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/david-harbour-might-have-just-spoiled-a-major-plot-point-for-doomsday/articleshow/133416702.cms",
-    "time": "2026-08-22T03:36:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "SV Rajendra Singh Babu praises Yash",
-    "desc": "Director SV Rajendra Singh Babu addressed criticism of Yash's upcoming film 'Toxic'. His daughter Rishika Singh questioned intimate visuals and female portrayal in the movie. Babu stated his daughter's comments were her personal opinion and everyone has a right to their view. He praised Yash as a Kohinoor diamond for Kannada cinema's national reach. The filmmaker also lauded the ambition and scale of the 'Toxic' project.",
-    "img": "https://static.toiimg.com/photo/msid-133416477,imgsize-357721.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/yash-is-like-the-kohinoor-diamond-veteran-filmmaker-sv-rajendra-singh-babu-reacts-to-toxic-criticism/articleshow/133416458.cms",
-    "time": "2026-08-22T03:25:18.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India take on Netherlands in crucial hockey clash with semi-final hopes at stake",
     "desc": "Advancing in the FIH Pro League hinges on India's ability to triumph over the Netherlands and Argentina. After racking up three points from earlier victories, the Indian hockey team faces hurdles due to inconsistency. It's essential for them to transform potential scoring opportunities into goals and to reduce defensive blunders. The upcoming games will be pivotal for their advancement in the tournament.",
@@ -295,33 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/hockey/india-take-on-netherlands-in-crucial-hockey-clash-with-semi-final-hopes-at-stake/articleshow/133416581.cms",
     "time": "2026-08-22T03:20:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Thalapathy Vijay’s son Jason Sanjay reveals family secret",
-    "desc": "Director Jason Sanjay opens up about his highly anticipated film 'Sigma' and reflects on the support of his mother, whom he considers his greatest ally. He candidly shares his struggles with expressing his emotions to his parents. Set to hit theaters on October 2, 'Sigma' has already garnered attention through its vibrant promotional campaign featuring Sundeep Kishan.",
-    "img": "https://static.toiimg.com/photo/msid-133416589,imgsize-137906.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thalapathy-vijays-son-jason-sanjay-reveals-family-secret-my-mother-is-my-biggest-pillar-but-i-can-share-everything-only-with-my-sister/articleshow/133416565.cms",
-    "time": "2026-08-22T03:18:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Alia Bhatt spotted on 'Tumbbad 2' sets- PICS",
-    "desc": "Alia Bhatt has officially joined the cast of the highly anticipated Tumbbad 2. She was recently spotted on the film's sets, adding excitement to the production. The actress's casting marks her first full-fledged venture into the horror genre. Filming is underway for sequences set around a river and an old fort. Tumbbad 2 is scheduled for a December 3, 2027 theatrical release.",
-    "img": "https://static.toiimg.com/photo/msid-133416572,imgsize-491471.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alia-bhatt-spotted-on-tumbbad-2-sets-joins-sohum-shah-and-nawazuddin-siddiqui-in-sequel-of-horror-universe/articleshow/133416094.cms",
-    "time": "2026-08-22T03:16:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Termination of Pune anganwadi worker revoked after outrage",
-    "desc": "Reshma alias Devyani Pardhi, a tribal Anganwadi worker serving at Numberwadi in Ambegaon taluka in Pune, had made social media reels showing the quality of white dried peas in her video; she had claimed that the peas remained uncooked despite being pressure cooked in the cooker for up to 10 whistles.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/maharashtra/termination-of-pune-anganwadi-worker-revoked-after-outrage/article71374733.ece",
-    "time": "2026-08-22T03:12:16.000Z"
   },
   {
     "cat": "Sports",
@@ -369,24 +504,6 @@ const newsData_en = [
     "time": "2026-08-22T02:33:45.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Sivakarthikeyan reacts to ‘Future CM’ call during Chennai event",
-    "desc": "Actor Sivakarthikeyan's recent event appearance saw a fan call him the future Chief Minister. He responded with a smile and a shush gesture, which went viral online. This playful reaction has fueled discussions about his potential entry into politics. Sivakarthikeyan also shared personal anecdotes about his wife Aarthi and their early marriage. The actor continues to focus on his acting career while speculation grows.",
-    "img": "https://static.toiimg.com/photo/msid-133416162,imgsize-305157.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sivakarthikeyan-reacts-to-future-cm-call-during-chennai-event/articleshow/133416154.cms",
-    "time": "2026-08-22T02:33:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Ram and Leela' BO day 1: Rio Raj's film earns Rs 20 lakh",
-    "desc": "The romantic comedy Ram and Leela opened in theaters on the last day. It recorded an estimated India net collection of twenty lakh rupees on its first day. The film achieved an overall occupancy rate of sixteen point five two percent on Friday. Viewers have praised the performances of Rio Raj and Vartika Jain. The movie's first weekend will offer a clearer picture of its theatrical prospects.",
-    "img": "https://static.toiimg.com/photo/msid-133416100,imgsize-568932.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/ram-and-leela-box-office-collections-day-1-rio-raj-and-vartika-jains-film-earns-rs-20-lakh-records-16-52-occupancy/articleshow/133416087.cms",
-    "time": "2026-08-22T02:24:06.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India officially bids for 2028 Thomas &amp; Uber Cup Finals, Delhi in contention",
     "desc": "In an exciting development, India has put forward its proposal to host the 2028 Thomas and Uber Cup Finals in Delhi. With its well-established infrastructure and a history of successful event management, Delhi is set to be a fitting venue. This event will be a significant addition to India's history, having previously hosted the championships, and showcasing the men's team's remarkable victory in the 2022 Thomas Cup.",
@@ -394,51 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/india-officially-bids-for-2028-thomas-uber-cup-finals-delhi-in-contention/articleshow/133416011.cms",
     "time": "2026-08-22T02:18:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Avengers: Endgame Encore' to be 4 mins longer than original",
-    "desc": "Endgame Encore returns to theaters with new footage this September. This extended cut will connect the film more closely to Avengers: Doomsday. The re-release is strategically timed before the epic conclusion to the Infinity Saga. Marvel Studios has also revealed an essential homework list on Disney+ for fans. This collection prepares audiences for the upcoming theatrical releases later this year.",
-    "img": "https://static.toiimg.com/photo/msid-133415846,imgsize-516633.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/avengers-endgame-encore-runtime-revealed-mcu-re-release-to-be-4-minutes-longer-than-original-new-footage-to-connect-to-avengers-doomsday/articleshow/133415734.cms",
-    "time": "2026-08-22T02:06:01.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Beyond the walls of Siddhavatam Fort",
-    "desc": "Once a strategic military outpost and briefly the administrative headquarters of the Cuddapah district, the fort witnessed shifting centres of power. Its history, inscriptions, temples, sculptures, and architectural remains reveal the rich cultural legacy of this centuries-old monument, which is nestled between the Palakonda and Veligonda hill ranges, situated on the left bank of the Penna River.",
-    "img": "https://th-i.thgim.com/public/incoming/lbxsi/article71374941.ece/alternates/LANDSCAPE_1200/10215_19_8_2026_21_31_13_1_19082026APINFOCUS_SIDDHAVATAM1JPG.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Visakhapatnam/beyond-the-walls-of-siddhavatam-fort/article71373272.ece",
-    "time": "2026-08-22T01:54:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "People gather together for Jimmy Cricket’s funeral procession",
-    "desc": "A heartfelt farewell unfolded as thousands of fans and family members flocked to comedian Jimmy Cricket's funeral procession. Attendees donned bow ties and elements of his memorable stage costume as a tribute. The requiem Mass was led by his son, Fr. Frankiel Mulgrew, at Salford Cathedral, with many fellow artists present to honor the cherished entertainer, who passed away at the age of eighty earlier this month.",
-    "img": "https://static.toiimg.com/photo/msid-133415813,imgsize-167261.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jimmy-crickets-funeral-friends-fans-and-family-pay-tribute-by-wearing-his-iconic-bowtie-and-costume/articleshow/133415803.cms",
-    "time": "2026-08-22T01:37:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Batwara 1947’ Day 8 Drop: India net slips to ₹75 lakh; worldwide gross nears ₹49.02cr",
-    "desc": "Batwara 1947 faced a significant box office slump on its second Friday, reporting earnings of less than one crore rupees for its eighth day. With worldwide gross nearing fifty crore, the film now transitions into its second weekend. The Indian net collection on day eight was around seventy-five lakhs, marking a steep decline of forty-four percent from the prior day.",
-    "img": "https://static.toiimg.com/photo/msid-133415727,imgsize-134142.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/batwara-1947-box-office-collections-day-8-sunny-deol-starrer-earns-rs-75-lakhs-on-friday-worldwide-gross-reaches-rs-49-02-crore/articleshow/133415718.cms",
-    "time": "2026-08-22T01:15:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Khalifa' BO day 2: Prithviraj Sukumaran starrer earns Rs 2.30 crore",
-    "desc": "Prithviraj Sukumaran's film Khalifa experienced a steep domestic earnings decline on its second day. The movie's India net collection dropped fifty-seven percent from its opening day figure. Overseas markets continued to contribute strongly to the film's overall earnings. Khalifa recorded an overall occupancy of thirty-two percent across its Malayalam 2D shows. The film's combined domestic and international earnings reached nineteen point nine zero crore rupees.",
-    "img": "https://static.toiimg.com/photo/msid-133415722,imgsize-378554.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/khalifa-box-office-collections-day-2-prithviraj-sukumaran-starrer-earns-rs-2-30-crore-drops-57/articleshow/133415712.cms",
-    "time": "2026-08-22T01:14:18.000Z"
   },
   {
     "cat": "Sports",
@@ -450,33 +522,6 @@ const newsData_en = [
     "time": "2026-08-22T01:07:54.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "A dry spell along the Cauvery",
-    "desc": "A weak monsoon has left farmers on both sides of the Cauvery struggling with dwindling water supplies. In Karnataka, farmers are worried about irrigation even as the State faces pressure to release water to Tamil Nadu, where large tracts of paddy fields remain barren. The competing demands have sharpened tensions between the two States",
-    "img": "https://th-i.thgim.com/public/incoming/dr1bqw/article71373962.ece/alternates/LANDSCAPE_1200/TH%20TRI-14%204.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/farmers-along-the-cauvery-face-a-severe-water-crisis-and-tensions-between-karnataka-and-tamil-nadu/article71373960.ece",
-    "time": "2026-08-21T22:44:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Neeraj Chopra finishes second, Pathirage wins title in Lausanne Diamond League",
-    "desc": "His 88.05m throw in the second round, which fetched him the second spot in the nine-man star-studded field, was his best after the 88.16m he recorded while winning the Paris Diamond League in June 2025",
-    "img": "https://th-i.thgim.com/public/incoming/fs3mpk/article71375344.ece/alternates/LANDSCAPE_1200/Switzerland_Diamond_League_Athletics_58277.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/neeraj-chopra-finishes-second-pathirage-wins-title-in-lausanne-diamond-league/article71375340.ece",
-    "time": "2026-08-21T20:38:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Supreme Court trims law practice requirement to 1 year for judicial service",
-    "desc": "Successful applicants with a year’s legal practice would undergo one year of intensive training at the concerned State judicial academy, followed by a final year of law clerkship with senior judicial officers and High Court judges",
-    "img": "https://th-i.thgim.com/public/incoming/4n6gkw/article71372641.ece/alternates/LANDSCAPE_1200/PTI08_13_2026_000565A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/supreme-court-reduces-three-year-mandatory-legal-practice-to-one-year-for-the-entry-level-judicial-exam/article71372618.ece",
-    "time": "2026-08-21T20:08:40.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Chopra finishes 2nd as Sri Lanka’s Pathirage wins again",
     "desc": "Rumesh Tharanga Pathirage edged Neeraj Chopra by just nine centimetres to beat him for the third time this season at the Lausanne Diamond League. Chopra briefly led with an 88.05m second-round throw, but Pathirage responded with 88.14m. Chopra settled for silver, while Anderson Peters took third, with the result also boosting Chopra’s hopes of reaching the Diamond League Final.",
@@ -484,33 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/lausanne-diamond-league-neeraj-chopra-finishes-second-by-9cm-as-sri-lankas-pathirage-seals-third-straight-win/articleshow/133410611.cms",
     "time": "2026-08-21T19:56:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "FIH Women's Hockey World Cup: India go down 0-2 to Netherlands",
-    "desc": "The defeat leaves India with a tough task in their final second-round match. India will face Australia on Sunday and need a win to keep their hopes of reaching the semi-finals alive. Australia were held to a 1-1 draw by China in another second-round match earlier on Friday.",
-    "img": "https://static.toiimg.com/photo/msid-133411484,imgsize-74874.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/fih-womens-hockey-world-cup-india-go-down-0-2-to-netherlands/articleshow/133411291.cms",
-    "time": "2026-08-21T17:56:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jamal Musiala to miss Supercup opener as Bayern reveal cause of worrying collapses",
-    "desc": "Bayern Munich will not risk Jamal Musiala in Saturday’s German Supercup against Borussia Dortmund after two recent collapses. Musiala has been diagnosed with brief, treatable absence seizures, with Bayern linking the episodes to a change in medication. The 23-year-old is training individually while his treatment is adjusted, with the club prioritising his recovery before his return to competitive action.",
-    "img": "https://static.toiimg.com/photo/msid-133410067,imgsize-85238.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/jamal-musiala-to-miss-bayerns-supercup-opener-as-club-reveals-shocking-cause-behind-recent-collapses/articleshow/133409815.cms",
-    "time": "2026-08-21T17:16:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why Chopra has more at stake than revenge against Pathirage",
-    "desc": "Neeraj Chopra faces Rumesh Tharanga Pathirage for the third time this season in Lausanne, looking to end his rival’s 2-0 advantage. Chopra also needs valuable Diamond League points to secure qualification for the Brussels final. Pathirage arrives in dominant form, having won eight of nine competitions and produced the world-leading 92.62m throw this season.",
-    "img": "https://static.toiimg.com/photo/msid-133409416,imgsize-156595.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/lausanne-diamond-league-why-neeraj-chopra-has-more-at-stake-today-than-settling-score-with-pathirage/articleshow/133409174.cms",
-    "time": "2026-08-21T16:49:57.000Z"
   },
   {
     "cat": "Business",
@@ -568,15 +586,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "How two 23-year-olds ended India's 15-year medal wait while keeping another streak alive",
-    "desc": "Treesa Jolly and Gayatri Gopichand were sidelined for months after the former suffered an ankle injury. On Friday, they made history as the first Indian women's doubles pair to win a medal at the World Badminton Championships since 2011. In a world that endorses calmness and patience, 23-year-old Treesa brings everyone, including the Indira Gandhi Indoor Stadium, to its feet.",
-    "img": "https://static.toiimg.com/photo/msid-133407849,imgsize-104387.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/badminton/healed-by-time-fuelled-by-the-wait-how-treesa-jolly-and-gayatri-gopichand-ended-indias-15-year-medal-wait-while-keeping-another-streak-alive/articleshow/133407733.cms",
-    "time": "2026-08-21T15:17:05.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Treesa and Gayatri continue dream run, ensure maiden medal",
     "desc": "The unseeded duo stuns World No. 4 Jia and Zhang in the quarterfinals to maintain India’s proud record of at least one podium finish in each edition of the showpiece since 2011; Wei and Chang prove too good for Satwik and Chirag",
     "img": "https://th-i.thgim.com/public/incoming/rsftpy/article71373209.ece/alternates/LANDSCAPE_1200/20260821095L.jpg",
@@ -628,15 +637,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/football/pep-guardiola-post-pep-premier-league-arteta-carrick-alonso-maresca/article71373759.ece",
     "time": "2026-08-21T13:16:23.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Rs 15 fee after four free transactions",
-    "desc": "SBI customers will face charges for cash withdrawals exceeding four free monthly transactions. A fee of Rs 15 plus GST applies to Basic Savings Bank Deposit accounts. Digital transactions remain free, and Aadhaar Enabled Payment System transactions are now counted. Interest rates on bulk term deposits were revised earlier this month. SBI reported a profit increase for the first quarter of FY27.",
-    "img": "https://static.toiimg.com/photo/msid-133401496,imgsize-50184.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/sbi-cash-withdrawal-rules-change-from-october-1-rs-15-fee-after-four-free-transactions/articleshow/133401205.cms",
-    "time": "2026-08-21T10:32:16.000Z"
   },
   {
     "cat": "Entertainment",
