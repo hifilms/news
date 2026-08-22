@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Manchester United suffer embarrassing 2-0 defeat to newly promoted Hull City",
+    "desc": "Manchester United’s new Premier League campaign began with a 2-0 defeat at newly promoted Hull City on Saturday. Semi Ajayi and Nobel Mendy scored within the opening 38 minutes from set-pieces as the hosts made...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/manchester-united-suffer-embarrassing-2-0-defeat-to-newly-promoted-hull-city-2026-08-22-1052168",
+    "time": "2026-08-22T14:48:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Treesa Jolly, Gayatri Gopichand scare world number one, settle for bronze in BWF World Championships",
+    "desc": "Gayatri Gopichand and Treesa Jolly secured a bronze medal at the BWF World Championships. They pushed the defending champions Liu Sheng Shu and Tan Ning to three games in the semi-finals, but couldn’t push their...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/treesa-jolly-gayatri-gopichand-scare-world-number-one-settle-for-bronze-in-bwf-world-championships-2026-08-22-1052164",
+    "time": "2026-08-22T13:36:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Australia should move on from Marnus Labuschagne, says Ricky Ponting after another flop show",
+    "desc": "Marnus Labuschagne’s position in Australia’s Test side has come under renewed scrutiny after he was dismissed for four runs in the second Test against Bangladesh in Mackay. His future in the Test squad is currently...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/australia-should-move-on-from-marnus-labuschagne-says-ricky-ponting-after-another-flop-show-2026-08-22-1052160",
+    "time": "2026-08-22T13:02:58.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Abhishek Bachchan sees 'new horizon' for cricket with European T20 Premier League",
     "desc": "The European T20 Premier League is set to begin on August 26, with Rotterdam Dockers taking on Amsterdam Flames in the opening game of the tournament. The tournament is expected to provide much-needed exposure for...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/leandro-paredes-handed-hefty-10-match-suspension-for-fighting-after-fifa-world-cup-2026-final-2026-08-22-1052123",
     "time": "2026-08-22T05:47:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mitchell Starc achieves massive milestone, surpasses Dale Steyn in elite list with six-wicket haul against BAN",
-    "desc": "Australia took on Bangladesh in the second and final Test of the ongoing series between the two sides. The teams locked horns at the Great Barrier Reef Arena, Mackay, from August 22nd, and Australia began...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mitchell-starc-achieves-massive-milestone-surpasses-dale-steyn-in-elite-list-with-six-wicket-haul-against-ban-2026-08-22-1052119",
-    "time": "2026-08-22T04:32:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mohammed Kaif opens up on India's number three conundrum ahead of second Sri Lanka Test",
-    "desc": "The Indian team is all set to take on Sri Lanka in the second Test of the ongoing two-game series. The two sides are slated to meet at the Sinhalese Sports Club Ground, Colombo, on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mohammed-kaif-opens-up-on-india-s-number-three-conundrum-ahead-of-second-sri-lanka-test-2026-08-22-1052114",
-    "time": "2026-08-22T03:40:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kate Cross set to retire from all forms of cricket after conclusion of home summer",
-    "desc": "In a major development, veteran England pacer Kate Cross recently came forward and announced that she will be retiring from professional cricket at the end of the home summer. She will be bringing the curtain...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kate-cross-set-to-retire-from-all-forms-of-cricket-after-conclusion-of-home-summer-2026-08-22-1052109",
-    "time": "2026-08-22T01:50:05.000Z"
   }
 ];

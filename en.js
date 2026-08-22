@@ -1,12 +1,93 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "35-acre business centre planned in Gadag under PPP model",
-    "desc": "H.K. Patil, Gadag MLA, said that as the project was being implemented through a PPP model, private participants should not view it solely from a profit perspective but also contribute with a sense of public service.",
-    "img": "https://th-i.thgim.com/public/incoming/it81nw/article71377595.ece/alternates/LANDSCAPE_1200/2699_22_8_2026_16_38_43_1_23HUBLI_GBCENTRE_2.JPG",
+    "title": "Excise steps up vigil on Wayanad borders ahead of Onam",
+    "desc": "Excise officials say intensive inspections will be conducted at various places, including Adivasi settlements, to curb the manufacture and the sale of illicit liquor. Schools and colleges will remain under surveillance to check the sale of narcotic products",
+    "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/35-acre-business-centre-planned-in-gadag-under-ppp-model/article71377371.ece",
-    "time": "2026-08-22T12:26:04.000Z"
+    "url": "https://www.thehindu.com/news/national/kerala/excise-steps-up-vigil-on-wayanad-borders-ahead-of-onam/article71378160.ece",
+    "time": "2026-08-22T14:50:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Uprooting RSS, BJP is a task still left to be done, says AISA leader Neha Bora",
+    "desc": "“It’s not just enough to defeat the BJP in elections. It is important to defeat them politically, at coffee table discussions, at dinner table discussions, at tea stores, in classrooms, on WhatsApp groups, on social media, through memes, through jokes, and through songs”",
+    "img": "https://th-i.thgim.com/public/incoming/6eh9ud/article71378216.ece/alternates/LANDSCAPE_1200/80692_22_8_2026_19_43_3_1_23TVKZKAIRALI.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/uprooting-rss-bjp-is-a-task-still-left-to-be-done-says-aisa-leader-neha-bora/article71377696.ece",
+    "time": "2026-08-22T14:45:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Karnataka bans sale of analogue paneer under the name ‘paneer’ for one year",
+    "desc": "Under the food safety regulations, paneer is a standardised milk product, and milk fat is an essential constituent. The use of vegetable oil, vegetable fat or other non-dairy ingredients in place of milk fat or milk solids is not permitted in a product sold as paneer",
+    "img": "https://th-i.thgim.com/public/incoming/84877j/article71378278.ece/alternates/LANDSCAPE_1200/IMG_paneer_2_1_CPCVHT5L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-bans-sale-of-analogue-paneer-under-the-name-paneer-for-one-year/article71377649.ece",
+    "time": "2026-08-22T14:37:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajesh Kumar was in Rs 2 crore debt as left acting for farming on Sadhguru's advice",
+    "desc": "Actor Rajesh Kumar left acting for farming in Gaya, Bihar, driven by spiritual beliefs. He faced significant debt and setbacks over five years of horticulture. Despite financial struggles, Kumar maintained a positive outlook and learned valuable lessons. His debt has now significantly reduced, with only a small portion remaining. This experience marked a period of profound personal growth and learning for him.",
+    "img": "https://static.toiimg.com/photo/msid-133426170,imgsize-228126.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sarabhai-vs-sarabhai-actor-rajesh-kumar-was-in-rs-2-crore-debt-before-saiyaara-as-left-acting-for-farming-on-sadhgurus-advice-because-of-his-grace-i-wont-call-it-failure/articleshow/133426094.cms",
+    "time": "2026-08-22T14:28:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'You don't belong to anyone else, but yourself': Rahul Gandhi's  message to young women",
+    "desc": "During a dynamic gathering in Pune, Rahul Gandhi championed women's independence and personal identity. However, discord erupted between student groups, necessitating police intervention and resulting in multiple arrests. Political factions exchanged blame over allegations of disrupted activities and financial support. The primary focus of the event was to confront significant student challenges, such as job scarcity and examination irregularities, against the backdrop of rising political tension related to youth agendas.",
+    "img": "https://static.toiimg.com/photo/msid-133426162,imgsize-58100.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/you-dont-belong-to-anyone-else-but-yourself-rahul-gandhis-message-to-young-women/articleshow/133426026.cms",
+    "time": "2026-08-22T14:24:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kamal Amrohi charged Rs 10,000 per scene as a writer for 'Mughal-E-Azam'",
+    "desc": "Tajdar Amrohi insists that his father was instrumental in crafting the dialogues for the timeless classic Mughal-E-Azam. He highlights that Kamal Amrohi received a fee of ten thousand rupees for each scene, which significantly raised the stature of screenwriters within the Indian cinema landscape. In total, he earned two lakh rupees for his contributions, yet the family continues to debate the film's writing credits.",
+    "img": "https://static.toiimg.com/photo/msid-133425823,imgsize-335246.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kamal-amrohi-charged-rs-10000-per-scene-as-a-writer-for-mughal-e-azam-went-on-to-earn-rs-2-lakh-for-the-film-reveals-his-son-opens-up-on-fall-out-with-k-asif/articleshow/133425683.cms",
+    "time": "2026-08-22T14:00:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Treesa-Gayatri lose BWF World Championships semifinal to China, settle for bronze",
+    "desc": "In a remarkable achievement for Indian badminton, Treesa Jolly and Gayatri Gopichand clinched a historic bronze medal at the BWF World Championships. Their journey included a thrilling upset against the world number four pair in the quarterfinals, though they faced a tough semifinals defeat against the top-seeded Chinese duo. This accomplishment finally brings a women's doubles medal to India after years of anticipation.",
+    "img": "https://static.toiimg.com/photo/msid-133425308,imgsize-79766.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/treesa-gayatri-lose-bwf-world-championships-semifinal-to-china-secure-indias-first-womens-doubles-medal-since-2011/articleshow/133425210.cms",
+    "time": "2026-08-22T13:28:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India holds egde as Sri Lanka looks to draw level",
+    "desc": "In a batting unit that leant heavily on vice-captain K.L. Rahul and his Karnataka mate Padikkal, it is also time for Yashasvi Jaiswal and skipper Gill to join the party; while for Sri Lanka, the fixture offers a chance to draw level",
+    "img": "https://th-i.thgim.com/public/incoming/vn8mb0/article71377771.ece/alternates/LANDSCAPE_1200/PTI08_22_2026_000273B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/india-vs-sri-lanka-tests-india-holds-egde-as-sri-lanka-looks-to-draw-level/article71377791.ece",
+    "time": "2026-08-22T13:17:34.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Imran Khan’s sister files contempt plea over violation of Pakistan top court’s hospitalisation order",
+    "desc": "The Supreme Court had ordered that Imran Khan be kept in the hospital till the next hearing on Sept. 16; however, he was taken to the state-run PIMS in Islamabad during the night of August 20-21 for medical examination and treatment before being returned to Adiala Jail",
+    "img": "https://th-i.thgim.com/public/incoming/zgbmax/article71377388.ece/alternates/LANDSCAPE_1200/AP08_21_2026_000567B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/imran-khans-sister-files-contempt-plea-over-violation-of-pakistan-top-courts-hospitalisation-order/article71377376.ece",
+    "time": "2026-08-22T13:04:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Govinda SPOTTED outside hospital amid Sunita's 2nd marriage claims",
+    "desc": "Recently, Govinda was spotted departing a Mumbai hospital amidst ongoing marital difficulties. His manager has refuted speculations regarding a supposed second marriage. Sunita Ahuja mentioned that she withdrew her divorce petition due to these rumored plans. However, Govinda's team has expressed disbelief, labeling Sunita's assertions as baseless. The couple's relationship woes remain a hot topic for public conversation.",
+    "img": "https://static.toiimg.com/photo/msid-133424328,imgsize-425761.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govinda-spotted-outside-mumbai-hospital-amid-sunita-ahujas-second-marriage-claims-says-theek-hoon/articleshow/133424274.cms",
+    "time": "2026-08-22T12:26:37.000Z"
   },
   {
     "cat": "Entertainment",
@@ -63,15 +144,6 @@ const newsData_en = [
     "time": "2026-08-22T11:32:25.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Extended search operations urged for missing fishermen in sea off Andhra Pradesh",
-    "desc": "East Coast Mechanised Fishing Boat Owners Association of India President Vasupalli Janakiram argued that standard short-term rescue protocols are inadequate and demanded that the Indian Coast Guard and Indian Navy maintain an extended, wide-area search until the missing fishermen are located",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Visakhapatnam/extended-search-operations-urged-for-missing-fishermen-in-sea-off-andhra-pradesh/article71377116.ece",
-    "time": "2026-08-22T11:23:23.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Suresh recalls struggling for son Vivek Oberoi's debut",
     "desc": "Suresh Oberoi recalled struggling to get son Vivek his debut in 'Company', going door to door with his pictures. Vivek, however, claimed he landed the role on his own merit as \"Vivek Anand,\" facing rejections before RGV cast him. Vivek's next project is Nitesh Tiwari's 'Ramayana'.",
@@ -81,24 +153,6 @@ const newsData_en = [
     "time": "2026-08-22T11:21:50.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Keralam Survey Director ordered to pay ₹1 lakh compensation",
-    "desc": "An 82-year-old Kerala man is set to receive ₹1 lakh in compensation after the State Information Commission found that a Public Information Officer gave a false and misleading reply to his RTI application seeking access to his property records",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/failure-to-provide-information-keralam-survey-director-ordered-to-pay-1-lakh-compensation/article71376981.ece",
-    "time": "2026-08-22T11:21:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "M.K. Stalin says ‘bitter medicine’ is good for party’s health",
-    "desc": "“We have to acknowledge our mistakes first. We must admit them openly. The organisation suffers because of the performance of an individual,” he said while addressing the party’s high-level executive committee, which adopted the proposals to revamp the party organisation",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/mho87n/article71377411.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-22%20at%2016.22.04.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/dmk-revamp-mk-stalin-says-bitter-medicine-is-good-for-partys-health/article71377320.ece",
-    "time": "2026-08-22T11:21:06.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Puneet Vashisht reveals his scenes were CUT from SRK's 'Josh'",
     "desc": "Puneet Vashisht revealed that his vibrant performance in 'Josh' unintentionally led to reduced screen time, overshadowing Shah Rukh Khan. He trained the Bollywood icon in dance, a twist that inadvertently attracted attention towards him. Reflecting on the industry's challenges, Vashisht candidly discussed the rise of nepotism and his battles with depression and alcoholism, emphasizing his growth and lessons learned from a tumultuous time.",
@@ -106,33 +160,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/puneet-vashisht-reveals-his-scenes-were-removed-from-shah-rukh-khans-josh-had-trained-shahrukh-bhai-and-i-was-cut-out/articleshow/133422822.cms",
     "time": "2026-08-22T11:16:07.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Imran Khan’s sister files contempt plea over violation of Pakistan top court’s hospitalisation order",
-    "desc": "The Supreme Court had ordered that Imran Khan be kept in the hospital till the next hearing on Sept. 16; however, he was taken to the state-run PIMS in Islamabad during the night of August 20-21 for medical examination and treatment before being returned to Adiala Jail",
-    "img": "https://th-i.thgim.com/public/incoming/zgbmax/article71377388.ece/alternates/LANDSCAPE_1200/AP08_21_2026_000567B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/imran-khans-sister-files-contempt-plea-over-violation-of-pakistan-top-courts-hospitalisation-order/article71377376.ece",
-    "time": "2026-08-22T11:15:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Four years after Supreme Court-formed panel’s nudge, Assam mum on construction in Kaziranga animal corridors",
-    "desc": "In March 2022, the Central Empowered Committee sought a response “without delay” from the Assam Chief Secretary on the list of activities undertaken in each of the nine corridors in violation of the Supreme Court’s order on April 12, 2019",
-    "img": "https://th-i.thgim.com/public/incoming/jxnwda/article71377147.ece/alternates/LANDSCAPE_1200/2150_30_9_2024_15_48_33_1_RHINO_30092024_02.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/assam/four-years-after-supreme-court-formed-panels-nudge-assam-mum-on-construction-in-kaziranga-animal-corridors/article71377030.ece",
-    "time": "2026-08-22T11:15:08.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Jharkhand exam protesters accuse government of 'betrayal' as High Court stays several job test cancellations",
-    "desc": "The BJP extended its support to the protesters and accused Congress leader Rahul Gandhi of showcasing a \"duplicitous attitude\" over students' welfare. The ruling JMM, on the other hand, alleged the BJP was using students to further its political interests",
-    "img": "https://th-i.thgim.com/public/incoming/3e17y/article71377078.ece/alternates/LANDSCAPE_1200/IMG_RNMCY_20-6-2012_11-4_5_1_U5DN7SJA.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-exam-protesters-accuse-government-of-betrayal-as-high-court-stays-several-job-test-cancellations/article71377044.ece",
-    "time": "2026-08-22T11:08:19.000Z"
   },
   {
     "cat": "Sports",
@@ -154,7 +181,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Why Samajwadi Party never split? Akhilesh Yadav points out 'benefit' of dynastic politics",
+    "title": "'Sometimes dynastic politics has its benefits': Akhilesh on how 5 family MPs helped SP",
     "desc": "Akhilesh Yadav pointed to the presence of multiple members of his family in the SP and suggested that this had helped prevent a split in the party. \"Have you ever wondered why the entire party did not split? Because there are five MPs from the same family. We also have several Muslim MPs, and some staunch socialists, so our numbers would not decrease,\" he said.",
     "img": "https://static.toiimg.com/photo/msid-133422740,imgsize-79842.cms",
     "src": "indiatimes.com",
@@ -189,42 +216,6 @@ const newsData_en = [
     "time": "2026-08-22T10:45:20.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Farmers in Mandya urged to shift to short-duration, dryland crops",
-    "desc": "Mandya Deputy Commissioner Dr. Kumar directed officials to encourage farmers to cultivate semi-dryland crops such as ragi, jowar, sesame, cowpea, black gram and horse gram, which require less water and can be harvested in a shorter period.",
-    "img": "https://th-i.thgim.com/public/incoming/oq5bhp/article71377289.ece/alternates/LANDSCAPE_1200/KARNTAKA_CAUVERY5964_20_8_2026_11_37_53_4_MARILINGAIAHSHOWINGHISNURSERY.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-monsoon-deficit-farmers-in-mandya-urged-to-shift-to-short-duration-dryland-crops/article71377182.ece",
-    "time": "2026-08-22T10:42:05.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Darjeeling MP after Amit Shah’s key meeting",
-    "desc": "The meeting was expected to address the agenda of finding a \"permanent political solution\" to the long-standing issues of Darjeeling hills within the ambit of constitutional framework, in lines with the BJP's pre-poll promise for the affairs of Darjeeling hills",
-    "img": "https://th-i.thgim.com/public/incoming/aejvto/article71377124.ece/alternates/LANDSCAPE_1200/HQPuMNSbsAA3w0V.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/amit-shah-meets-hill-leaders-to-discuss-permanent-political-solution-for-darjeeling/article71376943.ece",
-    "time": "2026-08-22T10:36:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Where to relish grand sadya this Onam in Thiruvananthapuram",
-    "desc": "Thiruvonam falls on August 26 and here is a list of places in Thiruvananthapuram that serve sadya with an array of traditional dishes and payasams. Group packages with a host of entertainment programmes, games, pookkalam etc have also been arranged at some of these venues",
-    "img": "https://th-i.thgim.com/public/incoming/868yq5/article71377230.ece/alternates/LANDSCAPE_1200/onam_sadya_04.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/food/features/onam-sadya-thiruvananthapuram-places-thiruvonam/article71377181.ece",
-    "time": "2026-08-22T10:31:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Patna HC",
-    "desc": "The Bench made the remarks while dismissing a plea seeking permission for 300 devotees to take part in an annual religious procession in Bihar's Siwan, where attendance has been restricted to maintain law and order",
-    "img": "https://th-i.thgim.com/public/incoming/xd56d0/article71377269.ece/alternates/LANDSCAPE_1200/Patna-High-CourG6RGCD3IP.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar/right-to-practice-religion-subject-to-reasonable-restrictions-in-interest-of-public-order-patna-hc/article71377187.ece",
-    "time": "2026-08-22T10:30:18.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Awarapan 2 BO Day 9 [LIVE]: Emraan starrer to cross Rs 125 cr",
     "desc": "Awarapan 2 remains a strong contender in theaters, pulling in Rs 1.65 crore on its ninth day. With an impressive total net collection of Rs 120.90 crore in India, the filmmakers cleverly tapped into nostalgia by remixing classic songs to lure audiences back to the screens. This approach seems to be paying off, allowing Awarapan 2 to maintain solid performance alongside its competitor, Batwara 1947.",
@@ -232,15 +223,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/awarapan-2-box-office-collection-day-9-live-emraan-hashmi-and-disha-patani-starrer-is-set-to-cross-rs-125-crore-amid-clash-with-batwara-1947/articleshow/133422032.cms",
     "time": "2026-08-22T10:25:48.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "BJP legislators in Hubbali protesting to ‘reclaim temple land’  court arrest; police clamped prohibitory orders as a precaution",
-    "desc": "Protesting against what they termed as encroachment over temple pond to lay road, Deputy Leader of Opposition in the Legislative Assembly Arvind Bellad, BJP legislators Mahesh Tenginakai, Pradeep Shettar, Sri Rama Sene chief Pramod Mutalik and scores of BJP and Hindutva activists courted arrest.",
-    "img": "https://th-i.thgim.com/public/incoming/vgjbxv/article71377243.ece/alternates/LANDSCAPE_1200/2699_22_8_2026_14_17_24_2_23HUBLITEMPLELANDPROTEST.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/bjp-legislators-in-hubbali-protesting-to-reclaim-temple-land-court-arrest-police-clamped-prohibitory-orders-as-a-precaution/article71377021.ece",
-    "time": "2026-08-22T10:23:42.000Z"
   },
   {
     "cat": "Entertainment",
@@ -369,15 +351,6 @@ const newsData_en = [
     "time": "2026-08-22T09:08:54.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Silambarasan CONFIRMS his political stand and praises Vijay",
-    "desc": "Silambarasan TR states he has no immediate plans to enter politics. He acknowledges his father T Rajendar's dedication to public life. The actor keeps the door open for a potential future political entry. He believes it is too early to judge Vijay's government performance. Silambarasan remains focused on his cinema career for now.",
-    "img": "https://static.toiimg.com/photo/msid-133420795,imgsize-134118.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/arasan-actor-silambarasan-confirms-his-political-stand-and-praises-vijays-government-for-now-he-is-doing-well/articleshow/133420778.cms",
-    "time": "2026-08-22T08:51:44.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "'No compromise': BJP passes resolution against Congress on Vande Mataram; vows nationwide protest",
     "desc": "The BJP has condemned the Congress party's decision to sing only two stanzas of Vande Mataram. This move is seen by the BJP as undermining the national song's significance and legacy. The party passed a resolution to protect the honor and national character of the complete Vande Mataram. Union Home Minister Amit Shah also attacked the Congress Working Committee's resolution as anti-national.",
@@ -385,24 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/bjp-condemns-congress-decision-on-vande-mataram-passes-resolution/articleshow/133420564.cms",
     "time": "2026-08-22T08:31:16.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When Sunita opened up about pain in her marriage to Govinda",
-    "desc": "In a reflective moment, Sunita Ahuja opened up about her enduring connection with Govinda, emphasizing both the struggles and the growth she experienced over the years. Despite facing emotional challenges, she discovered her own strength and identity. Ahuja acknowledged Govinda as her childhood love, hinting at themes of forgiveness, and described how their relationship blossomed into a frank friendship.",
-    "img": "https://static.toiimg.com/photo/msid-133420566,imgsize-637005.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-sunita-ahuja-opened-up-about-the-pain-in-her-marriage-to-govinda-if-he-changes-and-respects-my-expectations-i-would-forgive-him/articleshow/133420479.cms",
-    "time": "2026-08-22T08:27:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "IndiGo A321neo grounded after tail impact during Gorakhpur landing",
-    "desc": "An IndiGo Airbus A321neo aircraft experienced a tail impact during its landing approach. The flight from Delhi to Gorakhpur made a successful landing on its third attempt. Scratches were observed around the APU inlet during a post-flight inspection. The aircraft remains grounded at Gorakhpur airport for necessary maintenance. Technical and regulatory clearances are awaited before the plane resumes operations.",
-    "img": "https://static.toiimg.com/photo/msid-133420418,imgsize-119260.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/indigo-a321neo-grounded-after-tail-impact-during-gorakhpur-landing/articleshow/133420385.cms",
-    "time": "2026-08-22T08:12:53.000Z"
   },
   {
     "cat": "Business",
@@ -414,24 +369,6 @@ const newsData_en = [
     "time": "2026-08-22T08:03:21.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "All about Pawan Singh's family home in Bihar",
-    "desc": "Pawan Singh recently took his followers on a heartfelt tour of his ancestral home in Arrah, Bihar. The picturesque house, painted in traditional white and orange, boasts a spacious verandah and an L-shaped design. Inside, the walls are adorned with family photos and heartfelt gifts from fans. With properties in Lucknow and Mumbai, Singh cherishes his visits home, where his uncle, a vital mentor, currently resides.",
-    "img": "https://static.toiimg.com/photo/msid-133420105,imgsize-236563.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/bhojpuri/movies/news/all-about-bhojpuri-bawaal-star-pawan-singhs-home-in-bihar-from-carved-jharokas-to-display-setups-for-trophies/articleshow/133420061.cms",
-    "time": "2026-08-22T07:54:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Why is Jadavpur University in Kolkata on the boil?",
-    "desc": "The dispute between the two student groups — ABVP and Left student unions — including the Students Federation of India (SFI), started on Wednesday (August 19) over a ‘general body’ meeting. The ABVP supporters claimed that the Left-wing supporters cannot call such a meeting as no student union exists at the university.",
-    "img": "https://th-i.thgim.com/public/incoming/y5u1jo/article71376798.ece/alternates/LANDSCAPE_1200/PTI08_21_2026_000617B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/west-bengal/why-is-jadavpur-university-in-kolkata-on-the-boil-explained/article71376802.ece",
-    "time": "2026-08-22T07:54:09.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Sooryavanshi hasn’t played as much red-ball cricket’: Dravid’s blunt assessment",
     "desc": "Rahul Dravid advocates for a well-balanced strategy for aspiring cricketer Vaibhav Sooryavanshi. He points out the crucial role of red-ball cricket alongside white-ball fixtures in a player's development. Such diverse training is anticipated to aid Sooryavanshi's growth. Dravid encourages patience as the youngster starts his professional path, reaffirming the sport's dedication to cultivating future Test cricket players.",
@@ -439,15 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-sooryavanshi-hasnt-played-as-much-red-ball-cricket-rahul-dravids-blunt-assessment-of-test-prospects/articleshow/133419993.cms",
     "time": "2026-08-22T07:53:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Traders in Kozhikode flay continued delay in arrest of suspect",
-    "desc": "The protesters aligned under the Kammath Lane Gold and Silver Merchants’ Association who observed a half-day shutdown on Saturday demanded that the investigation be handed over to a senior police officer or an SIT to get the deserving attention",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/kozhikode/gold-fraud-traders-in-kozhikode-flay-continued-delay-in-arrest-of-suspect/article71376849.ece",
-    "time": "2026-08-22T07:46:56.000Z"
   },
   {
     "cat": "Sports",
@@ -505,15 +433,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Kuldeep Yadav or Saransh Jain? India face selection dilemma ahead of Colombo Test",
-    "desc": "Kuldeep Yadav is currently navigating a challenging phase in his cricketing career after being excluded from the latest series. His IPL stint with Delhi Capitals has not met expectations, and he only managed to secure one wicket in the initial Test against Sri Lanka. Rumors indicate that Saransh Jain could be a potential replacement, aimed at providing the team with more dynamic options.",
-    "img": "https://static.toiimg.com/photo/msid-133418105,imgsize-108054.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/kuldeep-yadav-or-saransh-jain-india-face-selection-dilemma-ahead-of-colombo-test/articleshow/133418057.cms",
-    "time": "2026-08-22T05:33:21.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "‘Blown away and hammered’: Ex-England captain says Pakistan lack ‘spirit’",
     "desc": "Michael Vaughan expressed serious concern over Pakistan's recent Test performance. England secured a comprehensive innings victory in the opening match. Pakistan's batting collapsed twice, showing a lack of confidence. Vaughan noted tactical shortcomings and a skill gap between the teams. The defeat marked a new era for England under captain Root.",
     "img": "https://static.toiimg.com/photo/msid-133417252,imgsize-101554.cms",
@@ -565,15 +484,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/many-tunisians-missing-after-migrant-boat-sinks-off-tunisia-group-says/article71376441.ece",
     "time": "2026-08-22T02:52:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Manav Suthar can become one of the best bowlers in the world’: Jayasuriya",
-    "desc": "Prabath Jayasuriya shares insights on his long-awaited Test debut and impressive performances with the Sri Lankan team. Following a disappointing first Test, he emphasizes the need for more defined bowling strategies. Identifying the likes of Joe Root, Kane Williamson, and Steve Smith as tough opponents, he remains optimistic about Sri Lanka's chances of reaching the World Test Championship final.",
-    "img": "https://static.toiimg.com/photo/msid-133416285,imgsize-93382.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/manav-suthar-can-become-one-of-the-best-bowlers-in-the-world-jayasuriya-heaps-big-praise/articleshow/133416255.cms",
-    "time": "2026-08-22T02:49:56.000Z"
   },
   {
     "cat": "Business",
@@ -828,15 +738,6 @@ const newsData_en = [
     "time": "2026-08-20T06:58:43.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Sakshi Chaudhary",
-    "desc": "Believes the Asian Games would be tougher than the Commonwealth Games and is up for the challenge; says the process of reducing from 54 to 51 kg was difficult but is happy that the move paid rich dividends",
-    "img": "https://th-i.thgim.com/public/incoming/pkxocm/article71366624.ece/alternates/LANDSCAPE_1200/45_Gold_Medalist_Indian_Boxer_06_08_Delhi.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/i-will-try-to-win-the-asian-games-gold-sakshichaudhary/article71366603.ece",
-    "time": "2026-08-19T19:20:56.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Camera Looks, a built-in teleprompter and AI that earns its place",
     "desc": "Google’s Pixel 11 series lets you choose how your photos look at the moment of capture and puts a teleprompter inside the camera app, with the return of the notification light reserved for the Pro models, from ₹89,999",
@@ -898,5 +799,59 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
     "time": "2024-03-12T09:45:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
+    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
+    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
+    "time": "2024-03-11T10:20:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
+    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
+    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
+    "time": "2024-03-11T10:00:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
+    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
+    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
+    "time": "2024-03-11T09:41:17.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Here’s how much the smartphone costs",
+    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
+    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
+    "time": "2024-03-11T09:36:12.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
+    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
+    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
+    "time": "2024-03-11T09:19:46.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Former Activision boss reportedly wants to buy TikTok",
+    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
+    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
+    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
