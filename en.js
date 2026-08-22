@@ -1,5 +1,68 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "When R Madhavan said his net worth would be more if he was cautious with money",
+    "desc": "Actor R Madhavan had once shared insights about his financial choices, suggesting they may have influenced his current net worth. He values his previous experiences as pivotal for his acting evolution. Interestingly, he expresses surprise at being viewed as intimidating, clarifying that he never intended to exert fear on set.",
+    "img": "https://static.toiimg.com/photo/msid-133430933,imgsize-206965.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-r-madhavan-said-his-net-worth-would-have-been-more-if-he-was-money-minded-and-financially-more-cautious-wife-sarita-pointed-it-out-to-him-bohot-fizool-paise-udaaye-hai/articleshow/133430900.cms",
+    "time": "2026-08-22T20:06:28.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "What are the U.S.’s latest allegations against India?",
+    "desc": "Why has the U.S. accused India of violating what it considers fair trade practices? How many countries have been named in the Great Transhipment Scam? What do these allegations mean for India? Can they impact India’s growth story?",
+    "img": "https://th-i.thgim.com/public/incoming/qvwno/article71378949.ece/alternates/LANDSCAPE_1200/Trump_China_83239.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/what-are-the-uss-latest-allegations-against-india-explained/article71378950.ece",
+    "time": "2026-08-22T20:01:42.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "What did Trump say about India’s voting system?",
+    "desc": "Why is the President pushing for stricter voter ID rules in the U.S.? How are elections conducted in the U.S. and how are they different from those in India? What is the SAVE America Act? What do Americans think about the requirement of a photo ID?",
+    "img": "https://th-i.thgim.com/public/incoming/t01m6u/article71378942.ece/alternates/LANDSCAPE_1200/2267246326.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/what-did-trump-say-about-indias-voting-system-explained/article71378943.ece",
+    "time": "2026-08-22T19:35:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "60% rebate spurs B-Khata conversion, but fails to attract substantial interest",
+    "desc": "When the conversion was first announced, the fixed charges were 5% of the guidance value in the area. However, a poor response prompted the government to reduce the charges to 2% and set August 23 as the deadline for the rebate period",
+    "img": "https://th-i.thgim.com/public/incoming/lzf1mi/article71378565.ece/alternates/LANDSCAPE_1200/Bengaluru_skyline_12.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/bangalore/60-rebate-spurs-b-khata-conversion-but-fails-to-attract-substantial-interest/article71378274.ece",
+    "time": "2026-08-22T19:19:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "While Madras went to bed early, Chennai stays up",
+    "desc": "From closing up about 9 p.m. to queuing up for a plate of biriyani around 3 a.m., the city has come a long way; pubs emerged in the 1980s, and following an IT boom and a growing night-shift workforce in the late 90s, tea shops stayed open, eateries mushroomed, and sports facilities and gyms extended their hours, keeping the city alive at night",
+    "img": "https://th-i.thgim.com/public/incoming/d6dlkj/article71378931.ece/alternates/LANDSCAPE_1200/1693_22_8_2026_19_39_21_2_BVR_6700.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/while-madras-went-to-bed-early-chennai-stays-up/article71376518.ece",
+    "time": "2026-08-22T19:05:49.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Mirza Fakhrul Islam Alamgir",
+    "desc": "The former BNP general secretary, who steered the party through the difficult years of the Hasina government, when Khaleda Zia was in jail, and Tarique Rahman was in exile in the U.K., has been elected President of Bangladesh",
+    "img": "https://th-i.thgim.com/public/news/national/aj6ar4/article71378761.ece/alternates/LANDSCAPE_1200/mirza%20fakhrul%20islam_art.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/mirza-fakhrul-islam-alamgir-the-man-who-steadied-the-ship/article71378766.ece",
+    "time": "2026-08-22T18:32:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mallika responds to Shalini Passi's comment on her 'fake' green dress: 'Jealousy'",
+    "desc": "In a lighthearted response to the buzz surrounding her green dress on The Traitors Season 2, Mallika Sherawat playfully downplayed the concerns, labeling the outfit as the show's primary dilemma. Shalini Passi raised doubts about its authenticity, challenging its connection to Dolce & Gabbana. Mallika hinted that envy may be influencing the critiques of her look, while neither she nor the fashion brand has verified the dress's source.",
+    "img": "https://static.toiimg.com/photo/msid-133429800,imgsize-221821.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mallika-sherawat-responds-to-shalini-passis-comment-on-her-fake-green-dress-my-figure-glamour-is-creating-jealousy-i-understand/articleshow/133429692.cms",
+    "time": "2026-08-22T18:11:20.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Ernakulam District Kudumbashree Mission eyeing return of ₹4 crore from its 250 Onam fairs",
     "desc": "The stalls set up across the district offer an eclectic blend of products ranging from pickles and snacks to vegetables and flowers. Marketed under the campaign ‘Onam with Kudumbashree’ targets to offer a range of unadulterated and quality products to the public",
@@ -145,15 +208,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "60% rebate spurs B-Khata conversion, but fails to attract substantial interest",
-    "desc": "When the conversion was first announced, the fixed charges were 5% of the guidance value in the area. However, a poor response prompted the government to reduce the charges to 2% and set August 23 as the deadline for the rebate period",
-    "img": "https://th-i.thgim.com/public/incoming/lzf1mi/article71378565.ece/alternates/LANDSCAPE_1200/Bengaluru_skyline_12.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/bangalore/60-rebate-spurs-b-khata-conversion-but-fails-to-attract-substantial-interest/article71378274.ece",
-    "time": "2026-08-22T15:52:39.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Plus One higher secondary improvement examinations from October 12",
     "desc": "After Minister for General Education N. Samsudheen received a number of petitions stating that the current pattern was putting students under a lot of stress, it was decided to hold the exams from October 12 to 17.",
     "img": "https://th-i.thgim.com/public/incoming/eb6igu/article71378545.ece/alternates/LANDSCAPE_1200/iStock-2175454420.jpg",
@@ -187,15 +241,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/badminton/patience-six-weeks-of-work-and-belief-pullela-gopichand-explains-treesa-jolly-gayatri-gopichands-world-championships-breakthrough/articleshow/133426903.cms",
     "time": "2026-08-22T15:32:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Minister calls for public action on cleanliness, plastic-free society",
-    "desc": "Participating in the Swarna Andhra-Swachh Andhra programme in Banganapalle, Janardhan Reddy says government is conducting the initiative on the third Saturday of every month to raise awareness about issues such as the ban on single-use plastics, the use of eco-friendly products, and waste management",
-    "img": "https://th-i.thgim.com/public/incoming/dzjmuk/article71378441.ece/alternates/LANDSCAPE_1200/10215_22_8_2026_16_43_36_1_IMG_20260822_WA0075.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/minister-calls-for-public-action-on-cleanliness-plastic-free-society/article71377241.ece",
-    "time": "2026-08-22T15:17:03.000Z"
   },
   {
     "cat": "Entertainment",
@@ -279,15 +324,6 @@ const newsData_en = [
     "time": "2026-08-22T12:01:33.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "New immigration rule for international flyers from Sept 1",
-    "desc": "International travelers will soon need e-boarding passes on smartphones for immigration clearance. Physical boarding passes will no longer be stamped by immigration authorities from September one. This change aims to streamline the process and reduce passenger inconvenience. A pilot project is also underway to eliminate immigration stamping for Indian passport holders. The Bureau of Immigration is implementing these modernization efforts across airports.",
-    "img": "https://static.toiimg.com/photo/msid-133423553,imgsize-139120.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-more-boarding-pass-stamps-new-immigration-rule-for-international-flyers-from-sept-1/articleshow/133423553.cms",
-    "time": "2026-08-22T11:55:49.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Inat and the recipe for being Djokovic",
     "desc": "What makes Novak Djokovic what he is? He needs fear and anger for his fangs; he is a gentle family man, and he’s going for tennis glory. A riveting new documentary reveals some fascinating answers",
@@ -295,15 +331,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/inat-and-the-recipe-for-being-novak-djokovic/article71377007.ece",
     "time": "2026-08-22T11:36:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Treating assembly like cinema set': MK Stalin takes dig at CM Vijay's 'conduct'",
-    "desc": "Speaking at a DMK executive meeting, Stalin also accused Vijay's government of concentrating on changing the names of welfare schemes introduced during the DMK's previous tenure. Stalin's remarks came as the DMK executive meeting also focused on changes to the party's organisational structure, including measures aimed at bringing more young people into key positions.",
-    "img": "https://static.toiimg.com/photo/msid-133423223,imgsize-72223.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/treating-assembly-like-cinema-set-mk-stalin-takes-dig-at-cm-vijays-conduct/articleshow/133422837.cms",
-    "time": "2026-08-22T11:35:41.000Z"
   },
   {
     "cat": "Sports",
@@ -403,24 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/aus-vs-ban-2nd-test-mitchell-starc-shoriful-islam-take-six-each-as-18-wickets-fall-on-day-1/articleshow/133421564.cms",
     "time": "2026-08-22T10:05:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "SLB’s next to star Kareena and Dhanush; director reveals update",
-    "desc": "Dhanush and Kareena Kapoor are in advanced talks for Sanjay Leela Bhansali's mythological jungle adventure, director S Mithran confirmed. It would mark their first collaboration, and Mithran's Bollywood debut. Kareena hasn't been officially signed yet. Shoot is expected to begin January 2027, adding to Dhanush's growing Hindi filmography.",
-    "img": "https://static.toiimg.com/photo/msid-133421789,imgsize-200386.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sanjay-leela-bhansalis-next-to-star-kareena-kapoor-and-dhanush-director-s-mithran-reveals-update/articleshow/133421774.cms",
-    "time": "2026-08-22T10:04:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "In 1970, 'Mera Naam Joker' failed in India but became a sensation in Russia",
-    "desc": "Mera Naam Joker achieved significant popularity in Russia after its 1972 release. Hollywood dramas were banned, creating a void for Indian cinema. Raj Kapoor was already a beloved figure due to earlier successful films. The film resonated with audiences seeking dramatic and relatable entertainment. This cinematic connection fostered a lasting cultural bridge between the nations.",
-    "img": "https://static.toiimg.com/photo/msid-133421714,imgsize-293793.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/in-1970-raj-kapoors-mera-naam-joker-failed-at-the-indian-box-office-but-became-a-sensation-in-russia-soon-after-its-release/articleshow/133421570.cms",
-    "time": "2026-08-22T10:03:03.000Z"
   },
   {
     "cat": "Business",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
     "time": "2024-03-11T09:41:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Here’s how much the smartphone costs",
-    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
-    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
-    "time": "2024-03-11T09:36:12.000Z"
   }
 ];
