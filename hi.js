@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Carlos Alcaraz to pair with Selena Williams to play US Open mixed doubles",
+    "desc": "Serena Williams and Carlos Alcaraz will team up in mixed doubles at the 2026 US Open after receiving a wild card from the USTA. The partnership will put both players on court as they return...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-to-pair-with-selena-williams-to-play-us-open-mixed-doubles-2026-08-22-1052181",
+    "time": "2026-08-22T17:57:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch Real Madrid vs Espanyol live on TV and stream online in India?",
+    "desc": "Real Madrid set to begin their 2026-27 LaLiga campaign early Sunday night when Jose Mourinho takes his revamped side to face Espanyol at the RCDE Stadium. The match marks Mourinho’s first competitive game since returning...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/when-and-where-to-watch-real-madrid-vs-espanyol-live-on-tv-and-stream-online-in-india-2026-08-22-1052176",
+    "time": "2026-08-22T16:33:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mitchell Starc becomes leading wicket-taker in WTC history with six-wicket haul; check full list",
+    "desc": "Australia pacer Mitchell Starc wreaked havoc in the second Test against Bangladesh in Mackay. He claimed a six-wicket haul as Bangladesh were dismissed for only 64 runs in the first innings. With that, Starc became...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mitchell-starc-becomes-leading-wicket-taker-in-wtc-history-with-six-wicket-haul-check-full-list-2026-08-22-1052174",
+    "time": "2026-08-22T15:53:24.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Manchester United suffer embarrassing 2-0 defeat to newly promoted Hull City",
     "desc": "Manchester United’s new Premier League campaign began with a 2-0 defeat at newly promoted Hull City on Saturday. Semi Ajayi and Nobel Mendy scored within the opening 38 minutes from set-pieces as the hosts made...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-fightback-against-resilient-australia-as-roller-coaster-of-day-1-ends-in-mackay-2026-08-22-1052140",
     "time": "2026-08-22T09:07:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Does Arsenal need Julian Alvarez upfront despite excellent start to PL season? Head coach reveals",
-    "desc": "The Premier League 2026-27 season kicked off with Arsenal taking on Coventry City. The two sides met at the Emirates Stadium in London on August 22nd, and Arsenal registered a dominant win as the side...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/does-arsenal-need-julian-alvarez-upfront-despite-excellent-start-to-pl-season-head-coach-reveals-2026-08-22-1052135",
-    "time": "2026-08-22T07:41:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Arsenal get off to perfect start to Premier League 2026-27 season, register stellar win over Coventry City",
-    "desc": "The Premier League 2026-27 season kicked off on August 22nd, and the season opener saw defending champions Arsenal take on Coventry City. The two sides met at the Emirates Stadium in London for the clash,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/arsenal-get-off-to-perfect-start-to-premier-league-2026-27-season-register-stellar-win-over-coventry-city-2026-08-22-1052130",
-    "time": "2026-08-22T06:50:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Leandro Paredes handed hefty 10-match suspension for fighting after FIFA World Cup 2026 final",
-    "desc": "In a major development, Argentina midfielder Leandro Paredes has been handed a hefty 10-match ban by FIFA after he was involved in an on-field fight with Spanish players after the conclusion of the FIFA World...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/leandro-paredes-handed-hefty-10-match-suspension-for-fighting-after-fifa-world-cup-2026-final-2026-08-22-1052123",
-    "time": "2026-08-22T05:47:51.000Z"
   }
 ];

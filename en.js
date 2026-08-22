@@ -1,30 +1,201 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Excise steps up vigil on Wayanad borders ahead of Onam",
-    "desc": "Excise officials say intensive inspections will be conducted at various places, including Adivasi settlements, to curb the manufacture and the sale of illicit liquor. Schools and colleges will remain under surveillance to check the sale of narcotic products",
-    "img": "https://via.placeholder.com/600x400?text=News",
+    "title": "Ernakulam District Kudumbashree Mission eyeing return of ₹4 crore from its 250 Onam fairs",
+    "desc": "The stalls set up across the district offer an eclectic blend of products ranging from pickles and snacks to vegetables and flowers. Marketed under the campaign ‘Onam with Kudumbashree’ targets to offer a range of unadulterated and quality products to the public",
+    "img": "https://th-i.thgim.com/public/incoming/ol5vt3/article71378868.ece/alternates/LANDSCAPE_1200/kudumbasree_01.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/excise-steps-up-vigil-on-wayanad-borders-ahead-of-onam/article71378160.ece",
-    "time": "2026-08-22T14:50:48.000Z"
+    "url": "https://www.thehindu.com/news/national/kerala/ernakulam-district-kudumbashree-mission-eyeing-return-of-4-crore-from-its-250-onam-fairs/article71377668.ece",
+    "time": "2026-08-22T17:57:56.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Uprooting RSS, BJP is a task still left to be done, says AISA leader Neha Bora",
-    "desc": "“It’s not just enough to defeat the BJP in elections. It is important to defeat them politically, at coffee table discussions, at dinner table discussions, at tea stores, in classrooms, on WhatsApp groups, on social media, through memes, through jokes, and through songs”",
-    "img": "https://th-i.thgim.com/public/incoming/6eh9ud/article71378216.ece/alternates/LANDSCAPE_1200/80692_22_8_2026_19_43_3_1_23TVKZKAIRALI.JPG",
+    "title": "CPI(M) seeks Chief Secretary’s removal; CPI questions T.N. Chief Minister’s ‘silence’ on circular",
+    "desc": "Participating in a demonstration in Chennai, CPI(M) State secretary P. Shanmugam asks why the services of Chief Secretary M. Sai Kumar have been extended despite being appointed by the EC and not the T.N. government",
+    "img": "https://th-i.thgim.com/public/incoming/1hc8q1/article71378243.ece/alternates/LANDSCAPE_1200/protest%20%20-02.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/uprooting-rss-bjp-is-a-task-still-left-to-be-done-says-aisa-leader-neha-bora/article71377696.ece",
-    "time": "2026-08-22T14:45:05.000Z"
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/cpim-seeks-chief-secretarys-removal-cpi-questions-tn-chief-ministers-silence-on-circular/article71378215.ece",
+    "time": "2026-08-22T17:56:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Serena Williams teams up with Carlos Alcaraz for US Open mixed doubles comeback",
+    "desc": "In an electrifying pairing, tennis legends Serena Williams and rising star Carlos Alcaraz will join forces for the mixed doubles at the US Open. This unique collaboration between champions from different eras promises to captivate fans, especially as Alcaraz aims to reclaim his singles title after injury recovery. With a lineup of elite competitors, this mixed doubles event is poised to be a tournament highlight.",
+    "img": "https://static.toiimg.com/photo/msid-133428971,imgsize-121442.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/serena-williams-teams-up-with-carlos-alcaraz-for-us-open-mixed-doubles-comeback/articleshow/133428939.cms",
+    "time": "2026-08-22T17:44:36.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Karnataka bans sale of analogue paneer under the name ‘paneer’ for one year",
-    "desc": "Under the food safety regulations, paneer is a standardised milk product, and milk fat is an essential constituent. The use of vegetable oil, vegetable fat or other non-dairy ingredients in place of milk fat or milk solids is not permitted in a product sold as paneer",
-    "img": "https://th-i.thgim.com/public/incoming/84877j/article71378278.ece/alternates/LANDSCAPE_1200/IMG_paneer_2_1_CPCVHT5L.jpg",
+    "title": "Infant dead, two injured in fire at NICU in Madhya Pradesh’s Chhindwara",
+    "desc": "A radiant warmer machine in the Neonatal Intensive Care Unit caught fire due to sparks in its filament coil, causing injuries to three children; the three newborns were referred to the government medical college in Jabalpur where one of them died; the other two are stable, says District Collector",
+    "img": "https://th-i.thgim.com/public/incoming/osyku9/article71378234.ece/alternates/LANDSCAPE_1200/PTI08_22_2026_000296B.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-bans-sale-of-analogue-paneer-under-the-name-paneer-for-one-year/article71377649.ece",
-    "time": "2026-08-22T14:37:24.000Z"
+    "url": "https://www.thehindu.com/news/national/madhya-pradesh/infant-dead-two-injured-in-fire-at-nicu-in-madhya-pradeshs-chhindwara/article71378038.ece",
+    "time": "2026-08-22T17:23:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Dhols, chants and belief: How Delhi turned a World Championships semi-final into a homecoming",
+    "desc": "A packed Indira Gandhi Indoor Stadium created an unforgettable atmosphere as Treesa Jolly and Gayatri Gopichand battled China's top seeds in the BWF World Championships semi-finals. Chants, dhols and unwavering support drove the Indian pair throughout their 64-minute contest. Though the eventual bronze medallists fell short, Delhi's passionate crowd emerged as one of the tournament's defining stories.",
+    "img": "https://static.toiimg.com/photo/msid-133428363,imgsize-112915.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/dhols-chants-and-belief-how-delhi-turned-a-world-championships-semi-final-into-a-homecoming/articleshow/133428331.cms",
+    "time": "2026-08-22T17:20:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'One Sasti copy'",
+    "desc": "In a recent interview, Taapsee Pannu claimed that she has never crossed paths with Kangana Ranaut, despite their ongoing rivalry. Kangana hit back, critiquing Pannu's comments regarding her background. Their disputes have been a focal point since 2019, primarily surrounding nepotism in the industry. Additionally, Pannu mentioned that she is not interested in pursuing a political career at present, focusing instead on her upcoming role in the revenge thriller Gandhari.",
+    "img": "https://static.toiimg.com/photo/msid-133428493,imgsize-248535.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-slams-taapsee-pannu-after-she-reacts-to-her-feud-with-the-queen-actress-today-she-crossed-all-limits-shamelessly-ridiculing-my-upbringing/articleshow/133428346.cms",
+    "time": "2026-08-22T17:19:23.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "26/11 case: Mumbai Police seek Interpol route to try Pakistani terrorist Hafiz Saeed, 5 others",
+    "desc": "Special public prosecutor Ujjwal Nikam told the special court hearing terror cases that the Mumbai Police had submitted an interim report on Friday regarding the proclamation orders issued against the accused in July. The six include Lashkar-e-Taiba founders Hafiz Saeed and Zaki-ur-Rehman Lakhvi, along with Sajid Mir, Abu Alqama, Asim alias Abu Qahafa and Major Abdur Rehman Pasha.",
+    "img": "https://static.toiimg.com/photo/msid-133427076,imgsize-57906.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/26/11-case-mumbai-police-seek-interpol-route-to-try-pakistani-terrorist-hafiz-saeed-5-others/articleshow/133426972.cms",
+    "time": "2026-08-22T17:05:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NIA searches 10 J&amp;K locations linked to Pakistan-based LeT handlers",
+    "desc": "The National Investigation Agency has launched extensive searches throughout Jammu and Kashmir to dismantle a cross-border conspiracy linked to the Pakistan-based militant group Lashkar e Taiba. This investigation, prompted by the seizure of a grenade and ammunition from a local resident, focuses on a network of domestic over-ground operatives supporting terrorism. The agency aims to uncover all parties associated with this conspiracy in its ongoing probe.",
+    "img": "https://static.toiimg.com/photo/msid-133427625,imgsize-101224.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/nia-searches-10-jk-locations-linked-to-pakistan-based-let-handlers/articleshow/133427625.cms",
+    "time": "2026-08-22T16:59:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cricket adds star power as India clears 492-athlete Asian Games contingent",
+    "desc": "The contingent comprises 265 male and 227 female athletes and will compete across 35 disciplines at the Games, scheduled from Sept 19 to Oct 4. The list of accompanying support staff has not yet been issued. Athletics leads the numbers with 73 athletes (35 men, 38 women), followed by hockey 40, shooting 30 and cricket 30. Kabaddi has 24, rowing 22, sepak takraw 21, badminton 20, fencing 20, wrestling 16 and esports 15.",
+    "img": "https://static.toiimg.com/photo/msid-133428173,imgsize-50203.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/cricket-adds-star-power-as-india-clears-492-athlete-asian-games-contingent/articleshow/133427990.cms",
+    "time": "2026-08-22T16:57:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyanka says she wouldn't have loved Nick if he didn't embrace her Indian culture",
+    "desc": "With a focus on cultural respect in multicultural marriages, Priyanka Chopra reflected on her loving relationship with Nick Jonas. She also introduced her documentary 'Cycle of Love', which showcases an inspiring narrative about unity. Looking ahead, Chopra is gearing up for her role in SS Rajamouli's 'Varanasi' in 2027, alongside her return in 'Citadel' season two and the new project 'Bluefly'.",
+    "img": "https://static.toiimg.com/photo/msid-133427979,imgsize-284773.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-says-she-wouldnt-have-loved-nick-jonas-if-he-didnt-embrace-her-indian-culture-important-to-have-a-sense-of-respect-for-your-partners-roots/articleshow/133427948.cms",
+    "time": "2026-08-22T16:44:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Village students shifted to vacant house after attack on CJP activists in Rajasthan",
+    "desc": "About 20 students of the government primary school, who turned up for attending classes, were shifted to a vacant house situated nearby; the children were earlier studying in a cattle enclosure in unhygienic conditions; this was just a day after Cockroach Janta Party (CJP) activists were hounded out following their failed attempt to inspect the school",
+    "img": "https://th-i.thgim.com/public/incoming/lhqz1n/article71378697.ece/alternates/LANDSCAPE_1200/21th-iqbal-CJP-G6JGE95G9.4.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/rajasthan/village-students-shifted-to-vacant-house-after-attack-on-cjp-activists-in-rajasthan/article71378304.ece",
+    "time": "2026-08-22T16:34:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Indian men’s team lose 1-3 to Netherlands to crash out of semifinal race",
+    "desc": "India needed to win this match at all costs to reach the last four stage, but despite a good start, the team committed mistakes in the final 10 minutes to get knocked out of podium contention",
+    "img": "https://th-i.thgim.com/public/incoming/e155o2/article71378688.ece/alternates/LANDSCAPE_1200/PTI08_19_2026_000556B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/hockey/hockey-world-championships-indian-mens-team-lose-1-3-to-netherlands-to-crash-out-of-semifinal-race/article71378662.ece",
+    "time": "2026-08-22T16:30:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India's semifinal hopes end after 1-3 loss to Netherlands",
+    "desc": "The defeat leaves India without a point in the second round. India had already lost to England in the first round, and even a victory against Argentina on Monday would take them to only three points. That will not be enough to reach the semifinals. India will instead play in the fifth-eighth place classification matches after their final second-round game against Argentina.",
+    "img": "https://static.toiimg.com/photo/msid-133427425,imgsize-52299.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/hockey-world-cup-indias-semifinal-hopes-end-after-1-3-loss-to-netherlands/articleshow/133427277.cms",
+    "time": "2026-08-22T16:28:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kareena Kapoor Khan breaks silence on her viral pregnancy claims in a hilarious way",
+    "desc": "Kareena Kapoor Khan playfully tackled the swirling rumors about her pregnancy by sharing a social media update. In her post, she featured a humorous image of a man with a protruding belly, cleverly referencing a food baby. When approached by the paparazzi, she responded with light-heartedness. Her sister-in-law, Saba Pataudi, had previously downplayed the chatter, attributing it to a flattering angle.",
+    "img": "https://static.toiimg.com/photo/msid-133427605,imgsize-293721.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kareena-kapoor-khan-breaks-silence-on-her-viral-pregnancy-claims-denies-in-a-hilarious-way-pagal-kar-dete-ho-yaar/articleshow/133427498.cms",
+    "time": "2026-08-22T16:15:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "3,289 forest offence cases registered in Chamarajanagar forest circle since 2010-11",
+    "desc": "According to the data, the highest number of cases, 2,256, was registered in the M.M. Hills Wildlife Division, followed by 793 cases in the BRT Tiger Reserve and 240 cases in the Cauvery Wildlife Division",
+    "img": "https://th-i.thgim.com/public/incoming/2q8d9o/article71378595.ece/alternates/LANDSCAPE_1200/_KMK5066.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/3289-forest-offence-cases-registered-in-chamarajanagar-forest-circle-since-2010-11/article71374406.ece",
+    "time": "2026-08-22T16:03:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "In 1983, Shekhar Kapur's ‘Masoom’ opened to an empty theatre",
+    "desc": "Shekhar Kapur revealed the unforeseen journey of his first film, Masoom. Initially, theaters were nearly empty, and distributors contemplated pulling out. Yet, through powerful word of mouth, the film experienced a remarkable turnaround, becoming a cherished cult classic. Now, Kapur is eagerly working on a sequel to the iconic 1983 film, reigniting interest in its story.",
+    "img": "https://static.toiimg.com/photo/msid-133427246,imgsize-400910.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/in-1983-shekhar-kapurs-directorial-debut-masoom-opened-to-an-empty-theatre-but-later-was-crowned-as-a-cult-classic-there-were-only-two-people-and-one-of-them-was-me/articleshow/133427132.cms",
+    "time": "2026-08-22T15:54:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "60% rebate spurs B-Khata conversion, but fails to attract substantial interest",
+    "desc": "When the conversion was first announced, the fixed charges were 5% of the guidance value in the area. However, a poor response prompted the government to reduce the charges to 2% and set August 23 as the deadline for the rebate period",
+    "img": "https://th-i.thgim.com/public/incoming/lzf1mi/article71378565.ece/alternates/LANDSCAPE_1200/Bengaluru_skyline_12.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/bangalore/60-rebate-spurs-b-khata-conversion-but-fails-to-attract-substantial-interest/article71378274.ece",
+    "time": "2026-08-22T15:52:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Plus One higher secondary improvement examinations from October 12",
+    "desc": "After Minister for General Education N. Samsudheen received a number of petitions stating that the current pattern was putting students under a lot of stress, it was decided to hold the exams from October 12 to 17.",
+    "img": "https://th-i.thgim.com/public/incoming/eb6igu/article71378545.ece/alternates/LANDSCAPE_1200/iStock-2175454420.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/plus-one-higher-secondary-improvement-examinations-from-october-12/article71378307.ece",
+    "time": "2026-08-22T15:48:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kozhikode beach fire station returns to original location",
+    "desc": "The move comes amid concerns that relocating the beach fire station to Meenchanda would delay responses to emergencies in key commercial areas such as S.M. Street, Valiyangadi, and Palayam, where the risk of fire accidents is relatively high",
+    "img": "https://th-i.thgim.com/public/incoming/dgscy/article71378483.ece/alternates/LANDSCAPE_1200/11073_22_8_2026_20_46_12_1_23TVKZ1_FIRESTATION.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kozhikode-beach-fire-station-returns-to-original-location/article71378406.ece",
+    "time": "2026-08-22T15:48:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "From tape-ball to 'dream of Harmanpreet’s wicket', Maryam follows her father’s dream",
+    "desc": "Hong Kong's vice-captain Maryam Bibi is gearing up for a pivotal challenge as she faces India. Her cricketing journey began with tape-ball games and has evolved into representing her nation on a larger stage. With aspirations to honor her father's dream, Bibi sees the match not only as a competitive opportunity but also as a source of inspiration for aspiring young female cricketers.",
+    "img": "https://static.toiimg.com/photo/msid-133427137,imgsize-1111153.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/from-tape-ball-cricket-to-dream-of-harmanpreets-wicket-maryam-bibi-follows-her-fathers-unfulfilled-dream/articleshow/133427056.cms",
+    "time": "2026-08-22T15:45:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pullela Gopichand explains Treesa-Gayatri's World Championships breakthrough",
+    "desc": "Chief badminton national coach Pullela Gopichand credited six weeks of tactical preparation, improved rotation and patience for Treesa Jolly and Gayatri Gopichand's historic bronze medal at the BWF World Championships in New Delhi. Despite their semi-final loss to China's Liu Sheng Shu and Tan Ning, Gopichand praised the duo's progress and expressed optimism for India's Asian Games campaign.",
+    "img": "https://static.toiimg.com/photo/msid-133426999,imgsize-62786.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/patience-six-weeks-of-work-and-belief-pullela-gopichand-explains-treesa-jolly-gayatri-gopichands-world-championships-breakthrough/articleshow/133426903.cms",
+    "time": "2026-08-22T15:32:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Minister calls for public action on cleanliness, plastic-free society",
+    "desc": "Participating in the Swarna Andhra-Swachh Andhra programme in Banganapalle, Janardhan Reddy says government is conducting the initiative on the third Saturday of every month to raise awareness about issues such as the ban on single-use plastics, the use of eco-friendly products, and waste management",
+    "img": "https://th-i.thgim.com/public/incoming/dzjmuk/article71378441.ece/alternates/LANDSCAPE_1200/10215_22_8_2026_16_43_36_1_IMG_20260822_WA0075.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/minister-calls-for-public-action-on-cleanliness-plastic-free-society/article71377241.ece",
+    "time": "2026-08-22T15:17:03.000Z"
   },
   {
     "cat": "Entertainment",
@@ -180,15 +351,6 @@ const newsData_en = [
     "time": "2026-08-22T11:04:54.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Sometimes dynastic politics has its benefits': Akhilesh on how 5 family MPs helped SP",
-    "desc": "Akhilesh Yadav pointed to the presence of multiple members of his family in the SP and suggested that this had helped prevent a split in the party. \"Have you ever wondered why the entire party did not split? Because there are five MPs from the same family. We also have several Muslim MPs, and some staunch socialists, so our numbers would not decrease,\" he said.",
-    "img": "https://static.toiimg.com/photo/msid-133422740,imgsize-79842.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/why-samajwadi-party-never-split-akhilesh-yadav-points-out-benefit-of-dynastic-politics/articleshow/133422401.cms",
-    "time": "2026-08-22T11:04:28.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Stars who stay away from technology",
     "desc": "While social media and phones are all the rage and are how everyone stays connected with the world, there are a couple of celebrities who tend to stay away from technology through and through. From Ed Sheeran to Dolly Parton, some of the biggest names in the industry appreciate the simpler times of life. Here is a list of some of your favorite names who tend to stay away from phones.",
@@ -261,24 +423,6 @@ const newsData_en = [
     "time": "2026-08-22T10:03:03.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Drew Starkey opens up about the ‘Outer Banks’ ending",
-    "desc": "In a heartfelt reflection on the end of 'Outer Banks', Drew Starkey revealed that filming his final scenes alongside Madelyn Cline felt akin to parting with a beloved sister. Overwhelmed by emotion, he admitted to shedding tears during the farewell of his character, Rafe Cameron. Starkey treasured his friendship with Cline and was deeply moved by the camaraderie of the crew on their last day together.",
-    "img": "https://static.toiimg.com/photo/msid-133421725,imgsize-297802.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/drew-starkey-talks-about-filming-outer-banks-with-madelyn-cline-i-was-saying-goodbye-to-one-of-my-sisters/articleshow/133421707.cms",
-    "time": "2026-08-22T09:59:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Will not step down': Manan Mishra reiterates stance as plea in SC seeks his removal as BCI chief",
-    "desc": "\"I have served as the Chairman of the Bar Council of India for 12 to 14 years because I was elected. Manan Mishra represents 25 lakh lawyers; he will not step down simply,\" Mishra said. The lawyers demanding his resignation also sought the implementation of an Advocate Protection Act and questioned the proposed increase in registration fees at State Bar Councils.",
-    "img": "https://static.toiimg.com/photo/msid-133421441,imgsize-21408.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/will-not-step-down-manan-mishra-reiterates-stance-as-plea-in-sc-seeks-his-removal-as-bci-chief/articleshow/133421344.cms",
-    "time": "2026-08-22T09:50:24.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Report",
     "desc": "Non-banking financial companies anticipate steady growth ahead. Credit demand remains robust despite global geopolitical uncertainties. NBFC earnings showed strong growth in the first quarter of FY27. Vehicle financiers experienced accelerated asset under management growth. Gold financiers saw moderated growth and yield pressures.",
@@ -306,33 +450,6 @@ const newsData_en = [
     "time": "2026-08-22T09:44:25.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "When late Sridevi took painting tips from Salman Khan",
-    "desc": "Sridevi secretly loved painting in her free time. She once revealed this on Salman Khan's 'Dus Ka Dum', telling him she used his painting technique. Boney Kapoor shared that one painting was inspired by Sonam Kapoor after watching 'Saawariya', and was expected to fetch Rs 8-10 lakh at a Dubai auction that never happened.",
-    "img": "https://static.toiimg.com/photo/msid-133421289,imgsize-217400.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-late-sridevi-took-painting-tips-from-salman-khan-revealed-she-came-home-to-learn-the-technique-lekin-meri-painting-toh-bahut-buri-hoti-hai/articleshow/133421279.cms",
-    "time": "2026-08-22T09:31:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Susan Sarandon",
-    "desc": "Susan Sarandon, the esteemed actress, cherishes the process of getting older, viewing it as a valuable phase of life. She asserts that authentic beauty is derived from personal character and self-respect, rather than superficial looks. Challenging societal norms that highlight physical attractiveness, Sarandon promotes the idea of embracing aging as a natural and beautiful journey.",
-    "img": "https://static.toiimg.com/photo/msid-133421212,imgsize-352639.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-susan-sarandon-i-look-forward-to-being-older-when-what-you-look-like-becomes-less-and-less-an-issue-and-what-you-are-is-the-point-the-blue-beetle-stars-advice-on-how-aging-is-a-good-thing/articleshow/133421159.cms",
-    "time": "2026-08-22T09:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jason Sanjay clarifies his acting plans, opens up about love life, and first salary",
-    "desc": "Filmmaker Jason Sanjay is prioritizing his directorial debut, 'Sigma', which releases soon. He revealed that acting is a possibility after his current project concludes. Sanjay prefers rom-coms and sci-fi genres for any future acting roles. He also shared his preferences for a partner, including a love for Tamil cinema. His early career included working at a theatre to watch movies for free.",
-    "img": "https://static.toiimg.com/photo/msid-133421176,imgsize-213390.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sigma-star-jason-sanjay-clarifies-his-acting-plans-opens-up-about-love-life-and-first-salary-ill-act-if-something-interesting-comes/articleshow/133421135.cms",
-    "time": "2026-08-22T09:20:31.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Don't be desperate for wickets': Gautam Gambhir's message to Kuldeep Yadav",
     "desc": "India returned to winning ways in the World Test Championship after a 165-run victory over Sri Lanka in the first Test at the Galle International Stadium on Wednesday. Four days after that win, the visitors will be back in action in Colombo for the second and final Test. India will be pleased with most aspects of their performance in Galle, but Kuldeep's form remains one of the major talking points.",
@@ -349,15 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/rankings-do-not-matter-under-fire-gautam-gambhir-says-india-not-struggling-in-tests/articleshow/133420994.cms",
     "time": "2026-08-22T09:08:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'No compromise': BJP passes resolution against Congress on Vande Mataram; vows nationwide protest",
-    "desc": "The BJP has condemned the Congress party's decision to sing only two stanzas of Vande Mataram. This move is seen by the BJP as undermining the national song's significance and legacy. The party passed a resolution to protect the honor and national character of the complete Vande Mataram. Union Home Minister Amit Shah also attacked the Congress Working Committee's resolution as anti-national.",
-    "img": "https://static.toiimg.com/photo/msid-133420594,imgsize-101273.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bjp-condemns-congress-decision-on-vande-mataram-passes-resolution/articleshow/133420564.cms",
-    "time": "2026-08-22T08:31:16.000Z"
   },
   {
     "cat": "Business",
@@ -450,15 +558,6 @@ const newsData_en = [
     "time": "2026-08-22T04:04:00.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Bichu Devi’s journey to India’s No. 1",
-    "desc": "Bichu Devi Kharibam unexpectedly became India's hockey goalkeeper after initially wanting to play football. Her height and athleticism were noticed, leading her to the national team trials. She developed her skills with the help of coaches and fellow player Savita Punia. A crucial last-gasp save secured India's place in the World Cup second round. This performance marked a significant achievement for the dedicated young athlete.",
-    "img": "https://static.toiimg.com/photo/msid-133417040,imgsize-7797950.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/hockey/from-football-dream-to-hockey-hero-bichu-devis-journey-to-indias-no-1/articleshow/133417023.cms",
-    "time": "2026-08-22T04:02:18.000Z"
-  },
-  {
     "cat": "Business",
     "title": "'Unfair': Canada suspends trade talks with US, PM Carney says will match tariffs 'dollar for dollar'",
     "desc": "In response to unfair trade terms imposed by the United States, Canada has decided to suspend its trade negotiations. With significant tariffs on Canadian imports set to take effect at midnight, Prime Minister Carney announced that Canada will retaliate with equivalent tariffs. Negotiators are being recalled to Ottawa, reflecting the uncertainty in discussions as Canada now shifts its focus towards boosting domestic economic growth and seeking new international trade opportunities.",
@@ -466,15 +565,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/unfair-canada-suspends-trade-talks-with-us-pm-carney-says-will-match-tariffs-dollar-for-dollar/articleshow/133416901.cms",
     "time": "2026-08-22T03:51:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India take on Netherlands in crucial hockey clash with semi-final hopes at stake",
-    "desc": "Advancing in the FIH Pro League hinges on India's ability to triumph over the Netherlands and Argentina. After racking up three points from earlier victories, the Indian hockey team faces hurdles due to inconsistency. It's essential for them to transform potential scoring opportunities into goals and to reduce defensive blunders. The upcoming games will be pivotal for their advancement in the tournament.",
-    "img": "https://static.toiimg.com/photo/msid-133416601,imgsize-110248.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/hockey/india-take-on-netherlands-in-crucial-hockey-clash-with-semi-final-hopes-at-stake/articleshow/133416581.cms",
-    "time": "2026-08-22T03:20:11.000Z"
   },
   {
     "cat": "World",
@@ -493,24 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/4-3-million-vehicles-recalled-in-china-over-safety-risks-tesla-accounts-for-2-98-million/articleshow/133416035.cms",
     "time": "2026-08-22T02:41:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mitchell Starc unleashes carnage on Bangladesh, storms past Dale Steyn",
-    "desc": "Mitchell Starc took five wickets in the first session against Bangladesh. He surpassed Dale Steyn on the list of Test wicket-takers. Starc's remarkable figures were 5-11 from nine overs. This performance came after Bangladesh won the opening Test match. Australia aims to level the series in the second Test.",
-    "img": "https://static.toiimg.com/photo/msid-133416160,imgsize-68090.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mitchell-starc-unleashes-carnage-on-bangladesh-storms-past-dale-steyn/articleshow/133416133.cms",
-    "time": "2026-08-22T02:33:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Headingley horror! Pakistan create unwanted Test record in crushing defeat",
-    "desc": "Pakistan achieved an unwanted Test record by losing their opening wicket for zero runs in both innings. This rare feat occurred for the seventh time in their Test match history. England's bowlers dominated the match, securing an innings victory inside three days. Ollie Robinson and Josh Tongue were instrumental in Pakistan's batting collapses. The result gave England a lead in the ongoing three-match series.",
-    "img": "https://static.toiimg.com/photo/msid-133415703,imgsize-117370.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/headingley-horror-pakistan-create-unwanted-test-record-in-crushing-england-defeat/articleshow/133415698.cms",
-    "time": "2026-08-22T01:07:54.000Z"
   },
   {
     "cat": "Business",
@@ -684,15 +756,6 @@ const newsData_en = [
     "time": "2026-08-20T16:57:58.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "TNPL",
-    "desc": "The opener sizzles on his captaincy debut with a 17-ball 48 before the latter scores an unbeaten 65 with his team under pressure; the 2018 champion recovers from 76 for seven to post 157; Shoaib’s four-for goes in vain for the Madurai outfit",
-    "img": "https://th-i.thgim.com/public/incoming/l4rlsu/article71370051.ece/alternates/LANDSCAPE_1200/DSC_0674.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/tnpl-tushar-starts-and-pradosh-finishes-as-tamizhans-get-past-panthers/article71370012.ece",
-    "time": "2026-08-20T15:04:11.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "How Sainath Ganuwad’s self-funded Marathi short brings rebellion in the classroom",
     "desc": "‘Zadavar Korleli Gosht (A Story Carved on a Tree)’ recently won the Best Film award at the Bengaluru International Short Film Festival. The filmmaker, Sainath Ganuwad, discusses infusing political ideas in the film, and the conversation that it sparked at the festival.",
@@ -835,23 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
     "time": "2024-03-11T09:36:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
-    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
-    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
-    "time": "2024-03-11T09:19:46.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Former Activision boss reportedly wants to buy TikTok",
-    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
-    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
-    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
