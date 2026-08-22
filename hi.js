@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Leandro Paredes handed hefty 10-match suspension for fighting after FIFA World Cup 2026 final",
+    "desc": "In a major development, Argentina midfielder Leandro Paredes has been handed a hefty 10-match ban by FIFA after he was involved in an on-field fight with Spanish players after the conclusion of the FIFA World...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/leandro-paredes-handed-hefty-10-match-suspension-for-fighting-after-fifa-world-cup-2026-final-2026-08-22-1052123",
+    "time": "2026-08-22T05:47:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mitchell Starc achieves massive milestone, surpasses Dale Steyn in elite list with six-wicket haul against BAN",
+    "desc": "Australia took on Bangladesh in the second and final Test of the ongoing series between the two sides. The teams locked horns at the Great Barrier Reef Arena, Mackay, from August 22nd, and Australia began...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mitchell-starc-achieves-massive-milestone-surpasses-dale-steyn-in-elite-list-with-six-wicket-haul-against-ban-2026-08-22-1052119",
+    "time": "2026-08-22T04:32:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mohammed Kaif opens up on India's number three conundrum ahead of second Sri Lanka Test",
+    "desc": "The Indian team is all set to take on Sri Lanka in the second Test of the ongoing two-game series. The two sides are slated to meet at the Sinhalese Sports Club Ground, Colombo, on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mohammed-kaif-opens-up-on-india-s-number-three-conundrum-ahead-of-second-sri-lanka-test-2026-08-22-1052114",
+    "time": "2026-08-22T03:40:51.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Kate Cross set to retire from all forms of cricket after conclusion of home summer",
     "desc": "In a major development, veteran England pacer Kate Cross recently came forward and announced that she will be retiring from professional cricket at the end of the home summer. She will be bringing the curtain...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/joe-root-s-england-return-to-winning-ways-as-hosts-hammer-pakistan-to-win-first-test-at-headingley-2026-08-21-1052093",
     "time": "2026-08-21T15:00:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Joe Root breaks Steve Smith's all-time Test record in first Test against Pakistan in Headingley",
-    "desc": "Joe Root broke Steve Smith’s record for most catches in Test cricket history. The England Test captain claimed his 219th during Pakistan’s second innings against England at Headingley and with that, overtook Smith’s tally of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/joe-root-breaks-steve-smith-s-all-time-test-record-in-first-test-against-pakistan-in-headingley-2026-08-21-1052089",
-    "time": "2026-08-21T14:10:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Satwik-Chirag knocked out of BWF World Championships after straight-game defeat",
-    "desc": "Satwiksairaj Rankireddy and Chirag Shetty’s World Championships campaign ended in the quarter-finals as the former world No. 1 pair suffered a straight-game defeat to China’s Olympic silver medallists Liang Wei Kang and Wang Chang at...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/satwik-chirag-knocked-out-of-bwf-world-championships-after-straight-game-defeat-2026-08-21-1052085",
-    "time": "2026-08-21T13:26:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Usman Ali ends 54-year wait with five-wicket haul in first Test against England in Leeds",
-    "desc": "Ali Usman produced a standout spell for Pakistan in the first Test against England at Headingley. The spinner claimed a five-wicket haul as the hosts were bundled out for 409 runs, after securing an advantage...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/usman-ali-ends-54-year-wait-with-five-wicket-haul-in-first-test-against-england-in-leeds-2026-08-21-1052079",
-    "time": "2026-08-21T12:38:33.000Z"
   }
 ];

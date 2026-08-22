@@ -1,6 +1,24 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "માતાપિતાની જાણ બહાર ખરીદી લીધો હતો આઈફોન? હપ્તા કેવી રીતે ભરવા તેની મથામણમાં હતો પુત્ર, આખો પરિવાર ખતમ",
+    "desc": "મહારાષ્ટ્રના છત્રપતિ સંભાજીનગરમાંથી એક એવો મામલો સામે આવ્યો જેણે દેશને હચમચાવી નાખ્યો છે. કુણાલે એક એવી જીદ કરી જેમાં આખો પરિવાર પહાડ પરથી પડીને ખલાસ થઈ ગયો. હવે આ મામલે એક મોટા અપડેટ સામે આવ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/kunal-fater-mother-death-case-big-update-iphone-emi-dispute-chhatrapati-sambhajinagar-maharashtra-488425 ",
+    "time": "2026-08-22T06:22:37.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "29 વર્ષની રાહનો આવ્યો અંત! આવી રહ્યો છે આ કાપડની કંપનીનો IPO, જાણો ડિટેલ",
+    "desc": "છેલ્લા કેટલાક સમયથી IPO માર્કેટમાં અનેક દિગ્ગજ કંપનીઓ આવી છે, જો કે અનેક કંપનીઓ હાલમાં પણ આવી રહી છે, 1997માં સ્થાપિત મધુર નીટ ક્રાફ્ટ્સ લિમિટેડ, કાપડ ઉત્પાદન કંપની છે. તેનો 53.28 કરોડ રૂપિયાનો IPO 24 ઓગસ્ટે ખુલવા જઈ રહ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/the-29-year-wait-is-over-this-textile-company-ipo-is-coming-know-the-details-488423 ",
+    "time": "2026-08-22T05:39:16.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "જંતર-મંતર પર એકઠા થયા જનરલ કેટેગરીના હજારો લોકો, UGCના નવા નિયમો અને અનામતનો કર્યો વિરોધ, જાણો",
     "desc": "શુક્રવારે દિલ્હીના જંતર મંતર પર હજારો સામાન્ય વર્ગના પ્રદર્શનકારીઓએ UGCના સમાનતા નિયમો વિરુદ્ધ પ્રદર્શન કર્યું અને જાતિ આધારિત અનામતમાં સુધારાની માંગ કરી. પ્રદર્શન દરમિયાન કેટલાક લોકોએ SC/ST કાયદાનો પણ વિરોધ કર્યો અને તેને રદ કરવાની માંગ કરી છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -351,15 +369,6 @@ const newsData_gu = [
     "time": "2026-08-19T09:48:28.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "અરબ સાગરમાં બદલાયું હવામાનનું ગણિત! સેટેલાઈટ તસવીરોથી ચોમાસાને લઈને વધી વૈજ્ઞાનિકોની ચિંતા, જાણો ક્યારે વિદાય લેશે વરસાદ",
-    "desc": "ઓગસ્ટમાં વરસાદ અને ત્યારબાદ ભેજ વચ્ચે, નવી સેટેલાઇટ ફોટાઓએ લોકોને આશ્ચર્યચકિત કરી દીધા છે. INSAT-3DS સેટેલાઈટના નવા ફોટાએ અરબી સમુદ્ર પર વાદળોની વિચિત્ર શાંતિ દર્શાવતો ફોટો આપ્યો છે. પરિણામે, વરસાદના પવનો સાવ ધીમા પડી ગયા છે, જેના કારણે અનેક રાજ્યોમાં વરસાદની શક્યતા ઓછી થઈ ગઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/satellite-captures-strange-movement-in-arabian-sea-monsoon-slows-down-know-what-scientists-are-saying-488162 ",
-    "time": "2026-08-19T09:40:06.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "અભિનેત્રી આયેશા ખાને સગાઈ કરી કે જ્વેલરીનું પ્રમોશન કરે છે ! તમને શું લાગે છે ?",
     "desc": "અભિનેત્રી આયેશા ખાને સોશિયલ મીડિયા માથે લીધું છે. તેણે ઈંસ્ટાગ્રામ પર કેટલાક ફોટો શેર કર્યા છે જેમાં તે પોતાની સગાઈની રીંગ દેખાડે છે. હવે કેટલાક લોકોને લાગે છે કે તેણે ખરેખર સગાઈ કરી છે અને કેટલાક લોકો આ ફોટોને જ્વેલરીનું પ્રમોશન ગણે છે.",
@@ -430,15 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/dhruv-jurel-given-out-despite-being-gap-between-bat-and-ball-injustice-with-team-india-488071 ",
     "time": "2026-08-18T10:54:22.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ટાટા સન્સના ઇતિહાસમાં પ્રથમવાર: કોરમ પૂર્ણ ન થતાં AGM સ્થગિત, જાણો હવે ક્યારે મળશે બેઠક",
-    "desc": "મંગળવારે ટાટા સન્સની વાર્ષિક બેઠક ટળી. તેનું કારણ કોરમ પૂર્ણ ન થવું હતું. ટાટા સન્સના ઈતિહાસમાં પ્રથમવાર બન્યું છે જ્યારે AGM સ્થગિત થઈ છે. હવે એજીએમની નવી તારીખ જાહેર કરવામાં આવશે. જે માટે ચેરમેન બોર્ડની સાથે ચર્ચા કરશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/tata-sons-adjourns-agm-over-quorum-shortfall-chairman-to-decide-next-meeting-date-488070 ",
-    "time": "2026-08-18T10:51:40.000Z"
   },
   {
     "cat": "Entertainment",
