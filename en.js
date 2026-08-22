@@ -1,6 +1,87 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Bilal Siddiqui says Shivam’s story can continue",
+    "desc": "Bilal Siddiqui has revealed that the possibility of 'Awarapan 3' is on the horizon for Shivam's journey. He mentioned that the conclusion of the sequel offers avenues for continued storytelling. Given the enthusiastic reception of 'Awarapan 2', fan engagement could catalyze the franchise's revival. However, as of now, no specific plot or development for a third film is in progress.",
+    "img": "https://static.toiimg.com/photo/msid-133415618,imgsize-193741.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/awarapan-3-update-bilal-siddiqui-says-shivams-journey-can-continue-but-theres-no-story-as-such-just-yet/articleshow/133415606.cms",
+    "time": "2026-08-22T00:41:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Javed Akhtar recalls R.D. Burman’s struggles",
+    "desc": "A Love Story,' highlighting its profound influence on cinema. He reminisced about R.D. Burman's challenging times, noting how the celebrated composer faced career lows and isolation. During this phase, Akhtar chose to turn down projects featuring objectionable themes. The film’s music, however, boldly defied norms and became a landmark in the industry.",
+    "img": "https://static.toiimg.com/photo/msid-133415599,imgsize-163747.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/javed-akhtar-recalls-r-d-burmans-comeback-with-1942-a-love-story-he-was-fully-aware-that-this-album-would-bring-him-back/articleshow/133415593.cms",
+    "time": "2026-08-22T00:33:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Irumudi' BO day 1: Ravi Teja film earns Rs 14.80 crore in India",
+    "desc": "Ravi Teja's latest release, 'Irumudi', has made a remarkable debut at the box office, raking in Rs 14.80 crore on its opening day across India. The film enjoyed a robust turnout, particularly in the Telugu-speaking regions. With an additional Rs 7 crore from international audiences, its total global earnings stand strong at Rs 24.20 crore.",
+    "img": "https://static.toiimg.com/photo/msid-133415591,imgsize-223941.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/irumudi-box-office-collections-day-1-ravi-teja-film-earns-rs-14-80-crore-in-india-worldwide-gross-reaches-rs-24-20-crore/articleshow/133415586.cms",
+    "time": "2026-08-22T00:29:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Brian Hickerson's brother details Hayden Panettiere's final moments",
+    "desc": "Hayden Panettiere's boyfriend, Brian Hickerson, performed CPR and administered Narcan after finding her unconscious. His brother, Zach Hickerson, arrived and called 911 while Brian administered the medication. They jointly performed CPR until emergency services arrived at the Airbnb location. Police confirmed no signs of foul play in the actress's death investigation. The cause and manner of her death remain pending further official inquiry.",
+    "img": "https://static.toiimg.com/photo/msid-133415575,imgsize-68194.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brian-hickersons-brother-breaks-silence-on-hayden-panettieres-death-reveals-actress-was-given-cpr-and-narcan/articleshow/133415426.cms",
+    "time": "2026-08-22T00:23:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Bethlehem Kudumba Unit' BO day 1",
+    "desc": "Bethlehem Kudumba Unit opened strongly at the Indian box office during the Onam season. The romantic comedy collected Rs 4.70 crore net on its opening day. Kerala drove the initial box office collection, contributing Rs 4.40 crore. Audiences and critics have provided positive reactions to the film's performances. The movie explores themes of first love and second chances in familiar surroundings.",
+    "img": "https://static.toiimg.com/photo/msid-133415541,imgsize-300713.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/bethlehem-kudumba-unit-box-office-collections-day-1-nivin-pauly-film-opens-with-rs-4-70-crore-mamitha-baiju-starrer-records-58-occupancy/articleshow/133415538.cms",
+    "time": "2026-08-21T23:58:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Michael' sequel to dive into abuse allegation",
+    "desc": "Actor Jaafar Jackson, who portrayed his late uncle Michael Jackson in the biopic 'Michael', has said he hopes the sequel will provide greater insight into the child sexual abuse allegations against the King of Pop from his point of view, according to People.",
+    "img": "https://static.toiimg.com/photo/msid-133415490,imgsize-100500.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jaafar-jackson-says-michael-sequel-will-offer-insight-into-abuse-allegations-from-singers-point-of-view/articleshow/133415412.cms",
+    "time": "2026-08-21T23:43:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Brad's daughter Vivienne posts ad to drop 'Pitt' surname",
+    "desc": "Vivienne Jolie-Pitt is legally dropping her father's surname, publishing court notices. Her siblings Zahara and Maddox have also pursued similar name changes. Shiloh Jolie-Pitt was the first to officially remove the 'Pitt' surname. Vivienne has been professionally using only the 'Jolie' surname. These changes occur amid ongoing estrangement from their father, Brad Pitt.",
+    "img": "https://static.toiimg.com/photo/msid-133415331,imgsize-345264.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brad-pitt-and-angelina-jolies-daughter-vivienne-posts-newspaper-ad-to-officially-drop-fathers-surname-in-legal-name-change/articleshow/133415243.cms",
+    "time": "2026-08-21T23:04:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ravi Kishan’s daughter Rivva says 'need my father's permission’ for dating",
+    "desc": "Rivva Kishan opens up about why dating is not on her priority list, joking that anyone hoping to win her heart will first need father Ravi Kishan’s permission and should know how to cook pure vegetarian food. The actor also discusses nepotism, career pressure, her father’s advice, politics and her determination to focus on acting.",
+    "img": "https://static.toiimg.com/photo/msid-133415391,imgsize-94307.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ravi-kishans-daughter-rivva-kishan-says-she-is-not-at-all-in-dating-phase-if-someone-wants-to-win-my-heart-theyll-need-my-fathers-permission/articleshow/133415383.cms",
+    "time": "2026-08-21T23:04:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A dry spell along the Cauvery",
+    "desc": "A weak monsoon has left farmers on both sides of the Cauvery struggling with dwindling water supplies. In Karnataka, farmers are worried about irrigation even as the State faces pressure to release water to Tamil Nadu, where large tracts of paddy fields remain barren. The competing demands have sharpened tensions between the two States",
+    "img": "https://th-i.thgim.com/public/incoming/dr1bqw/article71373962.ece/alternates/LANDSCAPE_1200/TH%20TRI-14%204.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/farmers-along-the-cauvery-face-a-severe-water-crisis-and-tensions-between-karnataka-and-tamil-nadu/article71373960.ece",
+    "time": "2026-08-21T22:44:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Laapataa Ladies actor files FIR against Paid Paalki makers; AICWA backs him",
     "desc": "Laapataa Ladies actor Satendra Soni has filed a Zero FIR against Paid Paalki filmmaker Pushpendra Singh and wife, actor Pragati Chauhan, alleging assault, wrongful confinement, intimidation and non-payment of dues. The All Indian Cine Workers Association (AICWA) has backed Soni and actor Shreedhar Dubey, calling for a fair, transparent investigation and strict legal action.",
     "img": "https://static.toiimg.com/photo/msid-133413592,imgsize-126781.cms",
@@ -79,15 +160,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/jamal-musiala-to-miss-bayerns-supercup-opener-as-club-reveals-shocking-cause-behind-recent-collapses/articleshow/133409815.cms",
     "time": "2026-08-21T17:16:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala High Court issues notice to VACB Director on petition against DGP",
-    "desc": "Petition filed by an assistant motor vehicles inspector says that S. Sreejith ‘engaged in systematic corruption, including the formation of an unofficial Transport Commissioner’s Squad, to victimise subordinate staff and to facilitate illicit transactions’ during his tenure as Transport Commissioner",
-    "img": "https://th-i.thgim.com/public/incoming/dbkvac/article71375110.ece/alternates/LANDSCAPE_1200/JC-6_-Suresh-RaGCEGB6EET.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-issues-notice-to-vacb-director-on-petition-against-dgp/article71374970.ece",
-    "time": "2026-08-21T16:59:51.000Z"
   },
   {
     "cat": "Sports",
@@ -307,6 +379,15 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
+    "title": "Who will seize control of the post-Pep Premier League era?",
+    "desc": "With Guardiola abdicating the throne and leaving his kingdom after six top-flight English titles in 10 years, there will be an almighty war of succession. The 2026-27 Premier League season will be the battleground to decide whom the power is transferred to",
+    "img": "https://th-i.thgim.com/public/incoming/9cg60m/article71373824.ece/alternates/LANDSCAPE_1200/GettyImages-2278041052.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/pep-guardiola-post-pep-premier-league-arteta-carrick-alonso-maresca/article71373759.ece",
+    "time": "2026-08-21T13:16:23.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Satwik-Chirag crash out of BWF World Championsips after straight-game loss to Liang-Wang",
     "desc": "Satwiksairaj Rankireddy and Chirag Shetty lost their quarter-final match at the BWF World Championships. The Indian men's doubles pair was defeated by China's Liang Wei Keng and Wang Chang. This loss ended India's hopes for a medal in the men's doubles event. Earlier, Treesa Jolly and Gayatri Gopichand secured a historic medal for India. They will now face top seeds in the women's doubles semi-finals.",
     "img": "https://static.toiimg.com/photo/msid-133405146,imgsize-239424.cms",
@@ -351,15 +432,6 @@ const newsData_en = [
     "time": "2026-08-21T12:24:35.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Johnny Depp",
-    "desc": "During his appearance at Cannes, Johnny Depp delved into the topic of social conformity versus individuality. He shared a poignant quote relating to the challenge many individuals encounter in being authentic. Recognizing that conformity might be a valid path for some, Depp revealed his inclination to transcend conventional norms, highlighting how his past experiences influenced this perspective.",
-    "img": "https://static.toiimg.com/photo/msid-133398684,imgsize-121950.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-johnny-depp-everybody-would-love-to-be-able-to-be-themselves-but-they-cant-if-you-want-to-live-that-kind-of-life-i-wish-you-the-best-ill-be-on-the-other-side-the-ebenezer-stars-words-on-rejecting-conformity-and-letting-your-true-nature-shine/articleshow/133398578.cms",
-    "time": "2026-08-21T12:23:31.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Joe Root creates history in Headingly, moves past Steve Smith in Test cricket",
     "desc": "In a remarkable achievement, Joe Root has eclipsed Steve Smith to become the foremost fielder for Test cricket catches. This significant milestone was celebrated with a crisp catch at leg slip during the opening Test. With a strategic bowling effort, England's attack secured Root's record-breaking moment, allowing the team to establish a commanding lead against Pakistan in the match, further embellishing Root's impressive cricket legacy.",
@@ -376,69 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistans-ali-usman-becomes-first-visiting-left-arm-spinner-in-16-years-to-achieve-this-feat-in-england/articleshow/133403135.cms",
     "time": "2026-08-21T11:37:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anthony Hopkins aka 'THOR's Odin says 'Life is running out'",
-    "desc": "Sir Anthony Hopkins, now 88, openly shares thoughts on mortality and his cherished roots in Wales. With a sense of urgency, he yearns to revisit his homeland, employing Google Street View to stroll down memory lane. Following a six-decade journey, he proudly launches his debut album, 'Life Is A Dream'. Having maintained sobriety for fifty years, Hopkins remains busy, eyeing future film opportunities and an anticipated Carnegie Hall concert.",
-    "img": "https://static.toiimg.com/photo/msid-133403053,imgsize-519146.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/anthony-hopkins-says-lifetime-is-running-out-as-he-opens-up-on-returning-to-wales-sobriety-and-his-debut-album-at-88/articleshow/133402833.cms",
-    "time": "2026-08-21T11:31:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When Kareena Kapoor Khan revealed her pregnancy craving",
-    "desc": "Kareena Kapoor Khan recalled her significant pregnancy craving for pizza. She shared a video showing her making a pizza sandwich. The actor admitted to demolishing one pizza after another during pregnancy. Her fondness for pizza continues, as she remains a devoted fan. Kapoor Khan also asked followers about their own pregnancy comfort foods.",
-    "img": "https://static.toiimg.com/photo/msid-133403036,imgsize-122128.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-kareena-kapoor-khan-revealed-pregnancy-craving-says-i-was-a-pizza-guzzling-girl/articleshow/133402909.cms",
-    "time": "2026-08-21T11:29:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jr NTR, Kamal Haasan and others mourn",
-    "desc": "Veteran South Indian actress Sowcar Janaki passed away on Friday at ninety-four. Many actors from the South Indian film industry shared their condolences and paid tribute. Kamal Haasan remembered her as an irreplaceable acting artist of cinema. Jr NTR and Vishnu Manchu also paid respects to the legendary actress. Her career spanned several decades and included over four hundred films.",
-    "img": "https://static.toiimg.com/photo/msid-133402927,imgsize-1300330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sowcar-janaki-passes-away-at-94-jr-ntr-kamal-haasan-prabhu-deva-and-others-remember-the-legendary-actress/articleshow/133402785.cms",
-    "time": "2026-08-21T11:28:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Tamannaah Bhatia stuns in Rs 52K dress and 1 lakh pumps",
-    "desc": "Tamannaah Bhatia stepped out in a sophisticated Maje layered-effect dress worth around ₹52,205, pairing the statement outfit with Chloé Andrea slingback pumps and jewellery from her own brand. Here’s a closer look at her latest fashion outing, understated glam and work front.",
-    "img": "https://static.toiimg.com/photo/msid-133402676,imgsize-101420.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tamannaah-bhatia-stuns-in-rs-52k-layered-scarf-skirt-dress-with-pumps-worth-nearly-rs-1-lakh/articleshow/133402428.cms",
-    "time": "2026-08-21T11:16:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kareena Kapoor Khan not expecting third child",
-    "desc": "Kareena Kapoor Khan is not pregnant, despite viral videos sparking speculation about a third child with Saif Ali Khan. Hindustan Times confirmed the rumors are false. The couple, parents to Taimur and Jeh, recently returned from a beach holiday celebrating Saif's 56th birthday. Meanwhile, Saif will reunite with Akshay Kumar in \"Haiwaan.\"",
-    "img": "https://static.toiimg.com/photo/msid-133402554,imgsize-176547.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kareena-kapoor-khan-is-not-pregnant-singham-again-actress-team-confirms/articleshow/133402478.cms",
-    "time": "2026-08-21T11:09:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Akshay Kumar’s hilarious reaction to journalist’s pan masala ad question goes viral",
-    "desc": "During a lively promotional event, Akshay Kumar chuckled in response to a journalist's inquiry regarding his recent endorsement of Acer. This question took a turn when the journalist connected it to the pan masala controversy embroiling several celebrities. Following the announcement of Akshay becoming the brand ambassador, the Maharashtra FDA issued show-cause notices to various actors for potential surrogate advertising.",
-    "img": "https://static.toiimg.com/photo/msid-133402210,imgsize-448328.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumars-hilarious-reaction-to-journalists-pan-masala-ad-question-goes-viral-actor-laughs-after-sab-kesar-bech-rahe-hain-remark/articleshow/133402186.cms",
-    "time": "2026-08-21T10:55:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "KR$NA on 'Boom Shaka' becoming student protests anthem",
-    "desc": "KR$NA was taken aback when his track 'Boom Shaka' unexpectedly transformed into a protest anthem, becoming a staple in student-led demonstrations showcased in social media videos. This viral success was unforeseen for the artist, who remarked on the distinct path of rap in India versus its Western counterparts. He is also judging the talent show 'Legacy' alongside Raftaar.",
-    "img": "https://static.toiimg.com/photo/msid-133402202,imgsize-631621.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rapper-krna-opens-up-about-his-song-boom-shaka-becoming-anthem-of-student-protests-basically-its-just-the-right-time-and-place/articleshow/133402120.cms",
-    "time": "2026-08-21T10:55:27.000Z"
   },
   {
     "cat": "Business",
@@ -541,57 +550,12 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "What changes from Aug 24 &amp; how many connections can you have",
-    "desc": "Telecom providers must stop individuals from obtaining more than nine mobile connections. A new system starts August twenty-fourth, initially verifying connections post-facto. Operators will use subscriber photos from the Digital Intelligence Platform for checks. Real-time identification and prevention of excess connections are mandated by November thirtieth. This aims to enforce existing limits across all licensed service areas.",
-    "img": "https://static.toiimg.com/photo/msid-133393888,imgsize-73680.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/sim-card-rules-2026-what-changes-from-august-24-and-how-many-connections-can-you-have/articleshow/133393839.cms",
-    "time": "2026-08-21T05:12:04.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Rupee continues to rally, opens 9 paise stronger against US dollar",
-    "desc": "On Friday morning, the rupee showed signs of strength against the US dollar. Despite the upward trend, high crude oil prices and ongoing geopolitical tensions are pressuring the currency. The Reserve Bank of India anticipates notable foreign currency inflows this year, though these have yet to result in significant rupee gains. Additionally, domestic equities began trading on a slightly weaker note.",
-    "img": "https://static.toiimg.com/photo/msid-133393822,imgsize-113154.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-continues-to-rally-opens-9-paise-stronger-against-us-dollar/articleshow/133393360.cms",
-    "time": "2026-08-21T05:06:47.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Lip plumpers, collagen and more: How is Ozempic boosting a new beauty market",
-    "desc": "Weight-loss drugs are creating new demands in beauty and nutrition sectors. Companies are developing products to address nutritional gaps and emerging beauty concerns. Nestle and Tata Consumer are preparing protein and fiber-rich offerings for these consumers. Beauty brands are promoting makeup alternatives to cosmetic procedures for users. This trend is driven by pharmaceutical advancements and growing patient bases.",
-    "img": "https://static.toiimg.com/photo/msid-133393712,imgsize-188054.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/lip-plumpers-collagen-and-more-how-is-ozempic-boosting-a-new-beauty-market/articleshow/133393304.cms",
-    "time": "2026-08-21T04:57:17.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "How Supreme Court’s new ruling changes the definition of ‘industry’",
     "desc": "The majority held that ‘industry’ under the IRC must be interpreted based on its own specific text and statutory context, unburdened by the legacy of the 1978 precedent; Chief Justice Kant noted that while the core principles of the 1978 ruling had stood the test of time, the 1978 judgment would no longer act as the “sheet anchor” for interpreting ‘industry’ under the IRC",
     "img": "https://th-i.thgim.com/public/incoming/gkqaav/article71372181.ece/alternates/LANDSCAPE_1200/_DSC9163.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/how-supreme-courts-new-ruling-changes-the-definition-of-industry-explainer/article71372126.ece",
     "time": "2026-08-21T04:34:40.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "How much crude is actually flowing through Hormuz",
-    "desc": "US officials assert that oil is moving through the Strait of Hormuz at a pace far exceeding market projections. External data indicates a drop in oil tanker activity and a decline in global stockpiles. This divergence raises questions about the true amount of crude oil flowing into worldwide markets. Additionally, shadow fleets attempting to mask their locations complicate monitoring efforts, leading to potential volatility in oil prices and supply predictions.",
-    "img": "https://static.toiimg.com/photo/msid-133392736,imgsize-126926.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/middle-east-oil-squeeze-how-much-crude-is-actually-flowing-through-hormuz/articleshow/133392035.cms",
-    "time": "2026-08-21T04:00:51.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Stock market recommendations for today",
-    "desc": "DLF, PG Electroplast Ltd, and Sansera Engineering - these are the top stocks to buy identified by Hitesh Rathi, Technical Analyst (Equity & Derivatives) at Angel One for August 20, 2026. Let’s take a look:",
-    "img": "https://static.toiimg.com/photo/msid-133392036,imgsize-682168.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-august-21-2026-dlf-pg-electroplast-ltd-sansera-engineerng-stocks-to-buy-today/articleshow/133392017.cms",
-    "time": "2026-08-21T03:37:57.000Z"
   },
   {
     "cat": "World",
@@ -691,15 +655,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/israeli-strikes-hit-an-air-base-hours-after-a-turkish-delegation-visit-syrian-officials-say/article71366480.ece",
     "time": "2026-08-19T17:29:10.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "China successfully recovers rocket stage on land for first time",
-    "desc": "Elon Musk's SpaceX and Jeff Bezos' Blue Origin have been recovering rockets since 2015, helping drive down launch costs by reusing hardware that would otherwise be discarded after carrying satellites and other payloads toward space",
-    "img": "https://th-i.thgim.com/public/incoming/mc13wt/article71366392.ece/alternates/LANDSCAPE_1200/AP08_19_2026_000367B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/china-successfully-recovers-rocket-stage-on-land-for-first-time/article71366382.ece",
-    "time": "2026-08-19T16:48:28.000Z"
   },
   {
     "cat": "Business",
