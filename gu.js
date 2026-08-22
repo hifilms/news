@@ -1,12 +1,75 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "17% મોંઘુ થયું સોનું, શું હવે કિંમત 1.70 લાખને વટાવી જશે? જાણો એક્સપર્ટ પાસેથી",
+    "desc": "સોનાના ભાવ જૂન 2026ના લોઅર લેવલથી લગભગ 17 ટકા વધીને 1.62 લાખ રૂપિયા પ્રતિ 10 ગ્રામ થયા છે. કોમેક્સ ગોલ્ડ પણ આંતરરાષ્ટ્રીય બજારમાં લગભગ 16 ટકા વધ્યો છે. સેન્ટ્રલ બેંક ખરીદી, ગોલ્ડ ETFમાં રોકાણનું વળતર, યુએસ સરકારના દેવાની અપેક્ષાઓ અને ફુગાવાની ચિંતાઓએ સોનાને મજબૂત બનાવ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-price-gold-has-become-17-percent-more-expensive-will-the-price-now-cross-1-70-lakh-know-from-experts-488481 ",
+    "time": "2026-08-22T12:18:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "શું સામાન્ય વ્યક્તિ પણ ખરીદી શકે છે બુલેટપ્રૂફ જેકેટ, તેને બનાવનારી દુનિયાની પહેલી કંપની કોણ હતી? જાણો",
+    "desc": "બુલેટપ્રૂફ જેકેટનો ઉપયોગ સામાન્ય રીતે ગોળીથી બચવા માટે પહેરવામાં આવે છે. કારણે કે આધુનિક સોફ્ટ બોડી આર્મરમાં ઉપયોગમાં લેવાતા મજબૂત ફાઇબર ગોળીને પકડીને તેની ઊર્જાને શોષી લે છે. તેનાથી ગોળીના શરીરમાં ઘૂસવાની શક્યતા ઘટી જાય છે. પરંતુ શું તમે જાણો છો કે, સૌથી પહેલા કોણે બનાવ્યું હતું બુલેટપ્રૂફ જેકેટ? ચાલો જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/can-a-common-person-also-buy-a-bulletproof-jacket-who-was-the-first-company-in-the-world-to-make-it-know-488479 ",
+    "time": "2026-08-22T12:02:21.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ચોમાસામાં કેટલું હોવું જોઈએ કારના ટાયરનું પ્રેશર? જાણો સાચો જવાબ અને ધ્યાન રાખવા જેવી બાબત",
+    "desc": "વરસાદની ઋતુમાં સેફ ડ્રાઇવિંગ માટે યોગ્ય ટાયર પ્રેશર જાળવવું ખૂબ જ મહત્વપૂર્ણ છે. વધુ પડતા અને ઓછા ફૂલેલા ટાયર તમારી કારની પકડ, બ્રેકિંગ અને બેલેન્સને અસર કરી શકે છે. ઉત્પાદક દ્વારા ભલામણ કરાયેલ ટાયર પ્રેશરને વળગી રહો અને નિયમિતપણે તમારા ટાયર ગ્રિપ અને ચલાવવાની રીતને ચેક કરો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/what-should-be-the-car-tire-pressure-during-monsoon-know-the-correct-answer-and-things-to-keep-in-mind-488478 ",
+    "time": "2026-08-22T11:49:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "માતા માટે જીવી લે ને... યુવકને બચાવવા માટે સરપંચે કરી હતી ભાવુક અપીલ, એળે ગઈ અને આખો પરિવાર ખલાસ",
+    "desc": "મહારાષ્ટ્રના છત્રપતિ સંભાજીનગરમાં એક મોબાઈલ ફોનને પગલે થયેલા વિવાદે આખા પરિવારનો અંત આણ્યો. પુત્રને બચાવવામાં પિતા પણ ખાઈમાં પડ્યા અને માતા પણ પડી. ત્રણેયના મોત નિપજ્યા. આ કેસમાં સરપંચની વાતો પણ હચમચાવી નાખે તેવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/chhatrapati-sambhajinagar-tragedy-sarpanch-made-an-emotional-appeal-ma-mate-jivi-le-488475 ",
+    "time": "2026-08-22T11:02:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "કોણ છે રાતોરાત સ્ટાર બનેલી Gen-Z ક્રિકેટર ? તેના એક સેલિબ્રેશન પર &amp;#039;ઘાયલ&amp;#039; થયા ફેન્સ, Video વાયરલ",
+    "desc": "મહિલા દિલ્હી પ્રીમિયર લીગમાં રમી રહેલી 20 વર્ષીય ક્રિકેટર મેધાવી બિધૂડી રાતોરાત સોશિયલ મીડિયા પર છવાઈ ગઈ છે. આ પાછળનું કારણ વિકેટ લીધા બાદ તેણે જે અંદાજમાં સેલિબ્રેશન કર્યું હતું, તે ફેન્સને ખૂબ જ પસંદ આવી રહ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/women-dpl-2026-medhavi-bidhuri-gen-z-cricketer-celebration-viral-488463 ",
+    "time": "2026-08-22T10:20:32.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "રડતી માતાની આજીજી, બેટા હું મારું મંગળસૂત્ર કાઢીને ફેંકી રહી છું, આપણે અલગ રહીશું પણ દીકરાની જીદથી માતા-પિતાના પણ થયા મોત",
     "desc": "ગઈકાલથી આ કેસ જબરદસ્ત ચર્ચામાં છે. છત્રપતિ સંભાજીનગરમાં એક પુત્રનો પિતા સાથે મોબાઇલ ફોન પરના વિવાદમાં 200 ફૂટ ઉડી ખીણમાં કૂદકો અને એ સમયે માતાએ દીકરાને કરેલી વિનવણીઓ તમારા આત્માને હચમચાવી મૂકશે. એક આખો પરિવાર પૂરો થઈ ગયો છે પણ આ ઘટનાની ઈનસાઈડ સ્ટોરી જબરદસ્ત છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/chhatrapati-sambhajinagar-tragedy-11th-grader-to-death-over-mobile-phone-emi-dispute-parents-leap-into-ravine-after-him-488450 ",
-    "time": "2026-08-22T08:59:02.000Z"
+    "time": "2026-08-22T10:08:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Inside Story! બેટા બેટા બેટા... માનું આક્રંદ દીકરાને ન પીગળાવી શક્યું, મા-બાપ પણ મરી ગયા, iPhoneની EMI બની મોતનું કારણ",
+    "desc": "બેટા બેટા બેટા.. તું ના મરીશ, હું તારા વિના નહીં જીવી શકું, આખી જિંદગી તારી સાથે જીવીશ પતિને પણ છોડી દઈશ, લોકોએ કહ્યું દીકરા માની જા માની વાત, પણ કૃણાલ ખભા ઉંચા કરીને વારંવાર કહેતો રહ્યો હવે મારી પાસે રસ્તો નથી બચ્યો હવે મારે તો મરવું પડશે. એક iPhoneની EMI ત્રણ લોકોના મોતનું કારણ બની છે. તમારે ઘરે દીકરો કે દીકરી છે તો આ ઈનસાઈડ સ્ટોરી તમારે ખરેખર વાંચવી જોઈએ",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/chhatrapati-sambhajinagar-tragedy-11th-grader-jumps-to-death-over-mobile-phone-emi-dispute-parents-leap-into-ravine-after-him-488460 ",
+    "time": "2026-08-22T10:05:06.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "30ની ઉંમરે સાવધાન! આજે કરેલી આ 4 ભૂલો રિટાયરમેન્ટ પછી કરાવશે પસ્તાવો, જાણો",
+    "desc": "30 વર્ષની ઉંમર એ જીવનનો એક એવો તબક્કો છે, જ્યાં આપણે કારકિર્દી અને પરિવારનું સંતુલન જાળવી રાખીએ છીએ. આ સમય દરમિયાન, લોકો ઘણીવાર નિવૃત્તિ આયોજનને આવતીકાલ સુધી મુલતવી રાખે છે. ચાલો જોઈએ કે રોકાણમાં વિલંબ, ફક્ત તમારા પેન્શન (PF) પર આધાર રાખવો અને ઈમરજન્સી ફંડ બનાવવામાં નિષ્ફળ જવાથી તમારી વૃદ્ધાવસ્થા કેવી રીતે જટિલ બની શકે છે. યોગ્ય નાણાકીય નિર્ણયો વહેલા લેવા એ આરામદાયક નિવૃત્તિની ચાવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/be-careful-at-the-age-of-30-know-these-4-mistakes-made-today-that-you-will-regret-after-retirement-488458 ",
+    "time": "2026-08-22T09:48:22.000Z"
   },
   {
     "cat": "Politics",
@@ -351,15 +414,6 @@ const newsData_gu = [
     "time": "2026-08-19T11:44:29.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "અમેરિકી રાજદૂત સર્જિયો ગોરે જમ્મુ કાશ્મીર વિશે આપ્યું મોટું નિવેદન, પાકિસ્તાનને લાગશે મરચાં",
-    "desc": "અમેરિકાએ જમ્મુ અને કાશ્મીર માટે કઈક એવું કહી દીધુ છે કે પાકિસ્તાનને બરાબરના મરચા લાગશે. અમેરિકાના ભારત ખાતેના રાજદૂત સર્જિયો ગોરે એક મોટું નિવેદન આપતા કહ્યું કે જમ્મુ કાશ્મીર ભારતનો મહત્વનો હિસ્સો છે. જાણો તેમણે વધુમાં શું કહ્યું?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/us-ambassador-to-india-sergio-gor-big-statement-on-jammu-and-kashmir-488176 ",
-    "time": "2026-08-19T11:41:15.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "35 રૂપિયામાં 153 KM... લોકો આ સ્કૂટરના બન્યા દીવાના, વેચાણમાં 307%નો ઉછાળો",
     "desc": "ચેતક બજાજ માટે એક શાનદાર પ્રોડક્ટ સાબિત થઈ રહી છે. ઇલેક્ટ્રિક અવતારમાં લોન્ચ થયા પછી આ ઇલેક્ટ્રિક સ્કૂટરનું વેચાણ સતત વધી રહ્યું છે. જુલાઈ મહિનો સ્કૂટર માટે શાનદાર મહિનો હતો. કારણ કે, ગયા વર્ષના જુલાઈની સરખામણીમાં વેચાણમાં 307 ટકાનો વધારો થયો હતો. જૂનની સરખામણીમાં જુલાઈમાં પણ વેચાણમાં વધારો થયો છે.",
@@ -367,15 +421,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/bajaj-chetak-electric-scooter-july-2026-sales-know-price-and-range-488175 ",
     "time": "2026-08-19T11:25:46.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "આ ભાજપ જ કરી શકે! ૩૩માંથી ૧૨ જિલ્લાની કલેક્ટર પદની ધુરા મહિલાઓના હાથમાં, 36 ટકા મહિલા અનામત",
-    "desc": "આપણે હંમેશાં મહિલા અનામતની વાતો કરીએ છીએ પણ શું મહિલાઓને એ હકો આપીએ છીએ. જવાબ છે બિલકુલ ના.... હા સમાજમાં મહિલાઓની ભૂમિકા વધી છે પણ 33 ટકા તો નથી પણ દેશના છત્તીસગઢ રાજ્યમાં ખરેખર મહિલા અનામતનો વાયદો પળાયો છે. રાજ્યના 33 જિલ્લામાંથી 12 જિલ્લામાં કલેક્ટર મહિલા છે. મહિલા IASનો આ રાજ્યમાં દબદબો છે અને મુખ્યમંત્રી વિષ્ણુદેવ સાયને આભારી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/power-of-women-in-administration-12-out-of-33-districts-in-chhattisgarh-led-by-woman-collectors-488173 ",
-    "time": "2026-08-19T11:15:19.000Z"
   },
   {
     "cat": "Tech",
@@ -414,15 +459,6 @@ const newsData_gu = [
     "time": "2026-08-19T09:24:58.000Z"
   },
   {
-    "cat": "Business",
-    "title": "₹25 લાખની હોમ લોન, 4% વ્યાજ સબસિડી... મોદી સરકાર તમને કરશે પોતાનું ઘર લેવામાં મદદ, જાણો યોજના વિશે",
-    "desc": "મોદી સરકાર જે લોકો પાસે પોતાનું ઘર નથી તેના માટે ખાસ યોજના લાવી રહી છે, જો કે તેના માટે અમુક શર્તો રાખવામાં આવી છે. જેમાં તમારી આવકનો પણ સમાવેશ કરવામાં આવ્યો છે, જેમાં વધારેમાં વધારે 9 લાખ રૂપિયાની વાર્ષિક આવક ધરાવતા લોકો પણ અરજી કરી શકે છે. આવકને ત્રણ કેટેગરીમાં રાખવામાં આવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/home-loan-of-25-lakh-4-percent-interest-subsidy-modi-government-will-help-you-buy-your-own-house-know-about-the-scheme-488158 ",
-    "time": "2026-08-19T09:17:10.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "ભૂલી જશો ટાટા-મહિન્દ્રાની કાર, Hyundai એ નવી Tucson પરથી ઉઠાવ્યો પડદો, જાણો",
     "desc": "હાલમાં ગ્રાહકો બજારમાં TATA અને મહિન્દ્રાએ મોટી અને બોલ્ડ ગાડી ખરીદી રહ્યા છે, SUV ગાડીઓ તરફ ગ્રાહકો આગળ વધી રહ્યા છે. ત્યારે હ્યુન્ડાઇએ માર્કેટમાં નવી ગાડી લોન્ચ કરી છે, હ્યુન્ડાઇએ ટક્સન ગાડી માર્કેટમાં લોન્ચ કરી છે.",
@@ -430,33 +466,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/forget-tata-mahindra-cars-hyundai-unveils-new-tucson-know-more-details-488149 ",
     "time": "2026-08-19T07:48:20.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સોના-ચાંદીના ભાવમાં આજે મોટો કડાકો, ઘટેલા ભાવે સોનું ખરીદવાની શાનદાર તક! જાણો આજનો રેટ",
-    "desc": "કિમતી ધાતુ સોના અને ચાંદીના ભાવમાં આજે વાયદા બજાર અને રિટેલ બજાર બંનેમાં ભારે ઘટાડો જોવા મળ્યો છે. આ વર્ષે સોના અને ચાંદીના ભાવમાં સતત ઉતાર ચડાવ જોવા મળ્યા છે. જો તમે પણ સોનું કે ચાંદી ખરીદવાનું વિચારતા હોવ તો ફટાફટ લેટેસ્ટ રેટ ખાસ ચેક કરો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/big-drop-in-gold-and-silver-prices-today-check-today-ibja-and-latest-mcx-prices-aaj-no-sona-chandi-no-bhav-488148 ",
-    "time": "2026-08-19T07:46:51.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "બદલવા જઈ રહ્યો છે બેંકિંગ સાથે જોડાયેલો 135 વર્ષ જૂનો કાયદો, હવે કોર્ટમાં માન્ય રહેશે ડિજિટલ રેકોર્ડ",
-    "desc": "ડિજિટલ બેંકિંગ રેકોર્ડનો ઉપયોગ હવે કોર્ટમાં પુરાવા તરીકે થઈ શકે છે. બેંકર્સ બુક્સ એવિડન્સ બિલ, 2026ને રાજ્યસભાએ મંજૂર કર્યું છે અને લોકસભા દ્વારા પણ તેને પસાર કરવામાં આવ્યું છે. નવો કાયદો 1891ના જૂના માળખાને બદલે છે અને ઇલેક્ટ્રોનિક, સર્વર, વર્ચ્યુઅલ અને ક્લાઉડ રેકોર્ડને કાનૂની અધિકારક્ષેત્ર હેઠળ લાવે છે. એકાઉન્ટ સ્ટેટમેન્ટ અને ટ્રાન્ઝેક્શન હિસ્ટી જેવા રેકોર્ડ હવે ચોક્કસ શરતો હેઠળ કોર્ટમાં રજૂ કરી શકાય છે. આ ડિજિટલ બેંકિંગના કાનૂની ઉપયોગ માટે માર્ગ સરળ કરે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/135-year-old-law-related-to-banking-is-going-to-be-changed-now-digital-records-will-be-admissible-in-court-488135 ",
-    "time": "2026-08-19T03:26:30.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ZMCLના ફ્યુચર પ્લાન પર CEO રક્તિમ દાસનો મોટો ખુલાસો, અનિલ સિંઘવી સાથેની ખાસ વાતચીતમાં જણાવી આગામી રણનીતિ!",
-    "desc": "ઝી બિઝનેસના મેનેજિંગ એડિટર અનિલ સિંઘવી સાથેની એક ખાસ વાતચીતમાં ઝી મીડિયાના CEO રક્તિમ દાસે ત્રિમાસિક પરિણામો, ડિજિટલ વ્યૂહરચના, નવા પ્રોજેક્ટ્સ અને ભવિષ્યના ગ્રોથ આઉટલુક અંગે વિગતવાર ચર્ચા કરી. કંપનીની QoQ રેવન્યૂ 21% વધી છે, જ્યારે EBITDAમાં પણ મજબૂત સુધારો જોવા મળ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/zee-media-future-plan-ceo-raktim-das-exclusive-interview-with-anil-singhvi-488088 ",
-    "time": "2026-08-18T13:26:48.000Z"
   },
   {
     "cat": "Sports",
@@ -520,15 +529,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/ravindra-jadeja-completes-350-test-wickets-joins-kapil-dev-elite-club-487985 ",
     "time": "2026-08-17T13:37:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "શ્રીલંકાએ માત્ર 90 રનમાં ગુમાવી હતી 5 વિકેટ, ભારતને દેખાઈ રહી હતી ઇનિંગ્સથી જીત, પછી KL રાહુલની એક ભૂલ અને પલટાઈ બાજી",
-    "desc": "માનવ સુથારની ચાર વિકેટ અને જાડેજાની ત્રણ વિકેટની મદદથી ભારતે શ્રીલંકાને 284 રનમાં ઓલઆઉટ કરી દીધું, જેના કારણે પ્રથમ ઇનિંગના આધારે 178 રનની લીડ મળી છે. જો કે, એક સમયે એવું લાગી રહ્યું હતું કે શ્રીલંકા 200 રન પણ નહી બનાવી શકે, કારણ કે શ્રીલંકાએ માત્ર 90 રનમાં જ 5 વિકેટ ગુમાવી દીધી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-sl-kl-rahul-drops-catch-dictwella-scores-80-sri-lanka-comeback-487983 ",
-    "time": "2026-08-17T12:50:11.000Z"
   },
   {
     "cat": "Entertainment",
