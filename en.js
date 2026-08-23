@@ -1,6 +1,87 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "'Irumudi' BO day 2: India net for Ravi Teja's film reaches Rs 31.40 Cr",
+    "desc": "Ravi Teja's latest action drama, 'Irumudi', witnessed a positive trend in its box office collections on the second day of release, with earnings surpassing Rs 31 crore in domestic markets. The total worldwide gross now stands at Rs 47.45 crore, showcasing significant contributions from the Telugu version. Andhra Pradesh and Telangana emerged as the dominant regions driving this success.",
+    "img": "https://static.toiimg.com/photo/msid-133433168,imgsize-398252.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/irumudi-box-office-collections-day-2-ravi-tejas-film-records-5-2-growth-india-net-reaches-rs-31-40-cr/articleshow/133433161.cms",
+    "time": "2026-08-23T00:46:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Awarapan 2' Day 9: Emraan's film crosses Rs 180 cr worldwide",
+    "desc": "Awarapan 2 has taken the box office by storm, crossing the landmark of one hundred crore rupees. After a remarkable surge in earnings on its ninth day, the film's total net collection in India now stands at one hundred twenty-seven point five zero crore. Additionally, overseas collections have played a significant role in boosting its overall global revenue. This action-packed sequel follows the footsteps of the beloved 2007 movie Awarapan.",
+    "img": "https://static.toiimg.com/photo/msid-133433139,imgsize-540929.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/awarapan-2-box-office-collection-day-9-emraan-hashmi-and-disha-patani-starrer-surpasses-rs-180-crore-mark-worldwide-amid-batwara-1947-clash/articleshow/133433133.cms",
+    "time": "2026-08-23T00:30:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ronaldo becomes first player in the Football history to achieve unprecedented feat",
+    "desc": "Cristiano Ronaldo has reached an incredible milestone in football by scoring in twenty-five consecutive league seasons. This unprecedented achievement highlights his enduring talent, having maintained an unbroken scoring streak that dates back to the 2002-03 season. With a career total of nine hundred seventy-seven goals, he remains focused on reaching the remarkable one thousand goal mark in his illustrious career.",
+    "img": "https://static.toiimg.com/photo/msid-133433160,imgsize-873171.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/cristiano-ronaldo-becomes-first-player-in-the-football-history-to-achieve-unprecedented-feat/articleshow/133427435.cms",
+    "time": "2026-08-23T00:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Vishwanath and Sons' BO day 9 vs 'DC'",
+    "desc": "Vishwanath and Sons achieved remarkable success by earning over seven crore rupees on its ninth day. The family drama has now amassed a staggering worldwide gross collection of over one hundred sixty crore rupees. On the other hand, DC is also making waves with increased earnings on its sixteenth day, as its worldwide gross collection approaches ninety-six crore rupees.",
+    "img": "https://static.toiimg.com/photo/msid-133433135,imgsize-349982.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vishwanath-and-sons-box-office-collections-day-9-vs-dc-suriya-mamitha-baijus-film-jumps-61-1-lokesh-kanagaraj-film-hits-rs-95-89-cr-worldwide/articleshow/133433132.cms",
+    "time": "2026-08-23T00:26:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Sowing the seeds of a solar power intervention",
+    "desc": "India’s emerging agrivoltaics model enables farmers to grow crops beneath solar panels, offering a way to generate electricity while diversifying income. Vanita Bhatnagar speaks to farmers and agri-researchers to find out how high upfront costs, financing constraints, and uneven policy support are preventing more farmers from taking up projects beyond the pilots",
+    "img": "https://th-i.thgim.com/public/incoming/ni01ye/article71378859.ece/alternates/LANDSCAPE_1200/6744_14_8_2026_17_39_51_1_02_KUNDANPURA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/rajasthan/sowing-the-seeds-of-a-solar-power-intervention/article71378860.ece",
+    "time": "2026-08-23T00:16:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Bethlehem Kudumba Unit' BO day 2 vs 'Khalifa'",
+    "desc": "Bethlehem Kudumba Unit saw a substantial increase in collections on its second day. The film's India net collection reached twelve point zero five crore rupees. Khalifa experienced a decline in theatrical earnings on its third day. Its India net collection now stands at nine point six five crore rupees. Bethlehem Kudumba Unit has taken the lead over Khalifa in box office performance.",
+    "img": "https://static.toiimg.com/photo/msid-133433079,imgsize-323531.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/bethlehem-kudumba-unit-box-office-day-2-vs-khalifa-nivin-pauly-mamitha-baijus-film-hits-rs-37-25-cr-worldwide/articleshow/133433074.cms",
+    "time": "2026-08-23T00:08:40.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Canada retaliates as trade war with U.S. escalates",
+    "desc": "Negotiations between the neighbouring countries broke down on August 21 in Washington, putting into force new 50% U.S. tariffs impacting about $20 billion worth of goods, or 5.5% of Canadian exports to the United States",
+    "img": "https://th-i.thgim.com/public/incoming/w75w72/article71379058.ece/alternates/LANDSCAPE_1200/2026-08-22T170244Z_675973054_RC2R3NALRP00_RTRMADP_3_USA-TRUMP-TARIFFS-CANADA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/canada-retaliates-as-trade-war-with-us-escalates/article71379056.ece",
+    "time": "2026-08-22T22:11:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Australia lead by 101 runs; Mitchell Starc and Shoriful Islam take 6 wickets each",
+    "desc": "Mitchell Starc tore through Bangladesh with a six-wicket haul after removing Shadman Islam with the first ball, but Shoriful Islam hit back with six wickets of his own as 18 wickets tumbled on a dramatic first day",
+    "img": "https://th-i.thgim.com/public/incoming/pcho7r/article71377129.ece/alternates/LANDSCAPE_1200/AFP__20260822__C69Q2ZJ__v1__HighRes__CricketAusBan.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/autralia-versus-bangaldesh-second-test-day-1-report-august-22/article71377072.ece",
+    "time": "2026-08-22T21:27:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lando Norris on pole for Dutch Grand Prix as Russell cruises to sprint win",
+    "desc": "As rain started to fall on the Zandvoort track, McLaren's Norris made the most of his final run to reclaim pole by 0.102 of a second from George Russell, whose Mercedes teammate Kimi Antonelli — the standings leader — was third",
+    "img": "https://th-i.thgim.com/public/incoming/62b3o5/article71378963.ece/alternates/LANDSCAPE_1200/2026-08-22T152441Z_1682718825_UP1EM8M16E3TQ_RTRMADP_3_MOTOR-F1-NETHERLANDS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/motorsport/lando-norris-on-pole-for-dutch-grand-prix-as-russell-cruises-to-sprint-win/article71378962.ece",
+    "time": "2026-08-22T21:21:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "When R Madhavan said his net worth would be more if he was cautious with money",
     "desc": "Actor R Madhavan had once shared insights about his financial choices, suggesting they may have influenced his current net worth. He values his previous experiences as pivotal for his acting evolution. Interestingly, he expresses surprise at being viewed as intimidating, clarifying that he never intended to exert fear on set.",
     "img": "https://static.toiimg.com/photo/msid-133430933,imgsize-206965.cms",
@@ -163,15 +244,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Indian men’s team lose 1-3 to Netherlands to crash out of semifinal race",
-    "desc": "India needed to win this match at all costs to reach the last four stage, but despite a good start, the team committed mistakes in the final 10 minutes to get knocked out of podium contention",
-    "img": "https://th-i.thgim.com/public/incoming/e155o2/article71378688.ece/alternates/LANDSCAPE_1200/PTI08_19_2026_000556B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/hockey/hockey-world-championships-indian-mens-team-lose-1-3-to-netherlands-to-crash-out-of-semifinal-race/article71378662.ece",
-    "time": "2026-08-22T16:30:17.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "India's semifinal hopes end after 1-3 loss to Netherlands",
     "desc": "The defeat leaves India without a point in the second round. India had already lost to England in the first round, and even a victory against Argentina on Monday would take them to only three points. That will not be enough to reach the semifinals. India will instead play in the fifth-eighth place classification matches after their final second-round game against Argentina.",
     "img": "https://static.toiimg.com/photo/msid-133427425,imgsize-52299.cms",
@@ -205,24 +277,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/in-1983-shekhar-kapurs-directorial-debut-masoom-opened-to-an-empty-theatre-but-later-was-crowned-as-a-cult-classic-there-were-only-two-people-and-one-of-them-was-me/articleshow/133427132.cms",
     "time": "2026-08-22T15:54:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Plus One higher secondary improvement examinations from October 12",
-    "desc": "After Minister for General Education N. Samsudheen received a number of petitions stating that the current pattern was putting students under a lot of stress, it was decided to hold the exams from October 12 to 17.",
-    "img": "https://th-i.thgim.com/public/incoming/eb6igu/article71378545.ece/alternates/LANDSCAPE_1200/iStock-2175454420.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/plus-one-higher-secondary-improvement-examinations-from-october-12/article71378307.ece",
-    "time": "2026-08-22T15:48:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kozhikode beach fire station returns to original location",
-    "desc": "The move comes amid concerns that relocating the beach fire station to Meenchanda would delay responses to emergencies in key commercial areas such as S.M. Street, Valiyangadi, and Palayam, where the risk of fire accidents is relatively high",
-    "img": "https://th-i.thgim.com/public/incoming/dgscy/article71378483.ece/alternates/LANDSCAPE_1200/11073_22_8_2026_20_46_12_1_23TVKZ1_FIRESTATION.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kozhikode-beach-fire-station-returns-to-original-location/article71378406.ece",
-    "time": "2026-08-22T15:48:19.000Z"
   },
   {
     "cat": "Sports",
@@ -379,48 +433,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Stars who stay away from technology",
-    "desc": "While social media and phones are all the rage and are how everyone stays connected with the world, there are a couple of celebrities who tend to stay away from technology through and through. From Ed Sheeran to Dolly Parton, some of the biggest names in the industry appreciate the simpler times of life. Here is a list of some of your favorite names who tend to stay away from phones.",
-    "img": "https://static.toiimg.com/photo/msid-133422409,imgsize-315608.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/from-ed-sheeran-to-elton-john-stars-who-stay-away-from-technology/photostory/133422409.cms",
-    "time": "2026-08-22T10:50:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Singer Shaan, his wife buy Rs 48 cr, 6,300 sq ft Bandra apartment",
     "desc": "Singer Shaan and wife Radhika Mukherjee bought a Rs 48 crore luxury home in Mumbai. This sprawling residence merges three apartments across one and a half floors. The purchase maintains Shaan's family connection to the Bandra neighborhood. Shaan also reunited with Saif Ali Khan for a new song after twenty years. The song is for the upcoming film 'Haiwaan' directed by Priyadarshan.",
     "img": "https://static.toiimg.com/photo/msid-133422381,imgsize-597195.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/singer-shaan-and-his-wife-buy-rs-48-crore-6300-sq-ft-bandra-apartment-deets-inside/articleshow/133422344.cms",
     "time": "2026-08-22T10:48:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Deepika only met Sandeep once, says no narration happened",
-    "desc": "Deepika Padukone exited Sandeep Reddy Vanga's 'Spirit' in April 2025 over an 8-hour workday demand. The row resurfaced after Pranay Reddy claimed she sought a 10% profit share. Deepika liked a post supporting her stance. Triptii Dimri replaced her; Deepika now has 'King' and 'Raaka' lined up.",
-    "img": "https://static.toiimg.com/photo/msid-133422329,imgsize-123661.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-only-met-sandeep-reddy-vanga-once-says-no-narration-happened-would-never-work-with-him-report/articleshow/133422315.cms",
-    "time": "2026-08-22T10:45:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Awarapan 2 BO Day 9 [LIVE]: Emraan starrer to cross Rs 125 cr",
-    "desc": "Awarapan 2 remains a strong contender in theaters, pulling in Rs 1.65 crore on its ninth day. With an impressive total net collection of Rs 120.90 crore in India, the filmmakers cleverly tapped into nostalgia by remixing classic songs to lure audiences back to the screens. This approach seems to be paying off, allowing Awarapan 2 to maintain solid performance alongside its competitor, Batwara 1947.",
-    "img": "https://static.toiimg.com/photo/msid-133422088,imgsize-696818.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/awarapan-2-box-office-collection-day-9-live-emraan-hashmi-and-disha-patani-starrer-is-set-to-cross-rs-125-crore-amid-clash-with-batwara-1947/articleshow/133422032.cms",
-    "time": "2026-08-22T10:25:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Mini Mathur CALLS OUT men for asking women about having kids",
-    "desc": "After her victory on the reality show 'Alliance', Mini Mathur is using her platform to tackle body shaming head-on. She challenged men to reconsider their comments about women's appearances and advocated for respect regarding personal boundaries. Mathur also expressed her discontent with the labels 'housewife' and 'homemaker', emphasizing her fulfillment in balancing domestic life with her successful career as a former MTV VJ.",
-    "img": "https://static.toiimg.com/photo/msid-133421785,imgsize-280558.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mini-mathur-calls-out-men-for-asking-women-about-having-kids-apni-advice-apne-paas-rakhiye/articleshow/133421770.cms",
-    "time": "2026-08-22T10:05:58.000Z"
   },
   {
     "cat": "Sports",
@@ -448,15 +466,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/rbi-sees-forex-inflows-of-7285-billion-via-fcnr-b-ofcb-ecb-swap-facility/article71377108.ece",
     "time": "2026-08-22T09:44:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mitchell Starc and Shoriful Islam take 6 wickets each",
-    "desc": "Mitchell Starc tore through Bangladesh with a six-wicket haul after removing Shadman Islam with the first ball, but Shoriful Islam hit back with six wickets of his own as 18 wickets tumbled on a dramatic first day",
-    "img": "https://th-i.thgim.com/public/incoming/pcho7r/article71377129.ece/alternates/LANDSCAPE_1200/AFP__20260822__C69Q2ZJ__v1__HighRes__CricketAusBan.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/autralia-versus-bangaldesh-second-test-day-1-report-august-22/article71377072.ece",
-    "time": "2026-08-22T09:44:25.000Z"
   },
   {
     "cat": "Sports",
@@ -550,15 +559,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "‘Blown away and hammered’: Ex-England captain says Pakistan lack ‘spirit’",
-    "desc": "Michael Vaughan expressed serious concern over Pakistan's recent Test performance. England secured a comprehensive innings victory in the opening match. Pakistan's batting collapsed twice, showing a lack of confidence. Vaughan noted tactical shortcomings and a skill gap between the teams. The defeat marked a new era for England under captain Root.",
-    "img": "https://static.toiimg.com/photo/msid-133417252,imgsize-101554.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/blown-away-and-hammered-ex-england-captain-says-pakistan-lack-spirit-after-embarrassing-defeat/articleshow/133417129.cms",
-    "time": "2026-08-22T04:21:04.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Starc unleashes havoc as Australia bowl Bangladesh out for 64 in second Test",
     "desc": "After winning the toss, Australia captain Pat Cummins chose to bowl first, and Mitchell Starc made an immediate impact. The left-arm fast bowler finished with 6/12 after completing the sixth-fastest five-wicket haul in Test cricket.",
     "img": "https://static.toiimg.com/photo/msid-133417084,imgsize-643257.cms",
@@ -619,15 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-shine-brighter-bullion-prices-hit-3-month-highs-as-weak-dollar-boosts-demand/articleshow/133408301.cms",
     "time": "2026-08-21T15:50:27.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "‘Mental age’ of 8 or 9 years cannot automatically mean adult woman lacks sexual capacity: Gauhati HC acquits rape convict",
-    "desc": "Justice Sanjeev Kumar Sharma allowed the appeal filed by P. Rohmingsanga and set aside the judgment dated June 18, 2024, by which the Sessions Court, Lunglei Judicial District, had convicted him under Section 376(2)(l) of the Indian Penal Code and sentenced him to 10 years' rigorous imprisonment and a fine of Rs 3,000.",
-    "img": "https://static.toiimg.com/photo/msid-133408527,imgsize-408815.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/legal/news/mental-age-of-8-or-9-years-cannot-automatically-mean-adult-woman-lacks-sexual-capacity-gauhati-hc-acquits-rape-convict/articleshow/133408134.cms",
-    "time": "2026-08-21T15:50:26.000Z"
   },
   {
     "cat": "Entertainment",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
     "time": "2024-03-11T09:41:17.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Here’s how much the smartphone costs",
+    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
+    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
+    "time": "2024-03-11T09:36:12.000Z"
   }
 ];
