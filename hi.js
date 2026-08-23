@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Devdutt Padikkal continues red-hot form, smashes consecutive century to keep SL at bay in 2nd Test",
+    "desc": "India and Sri Lanka took on each other in the second Test of the ongoing series. The two sides met at the Sinhalese Sports Club Ground, Colombo, from August 23, and India came in to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/devdutt-padikkal-continues-red-hot-form-smashes-consecutive-century-to-keep-sl-at-bay-in-2nd-test-2026-08-23-1052217",
+    "time": "2026-08-23T11:03:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Karn Sharma, 4-time IPL winner, announces retirement from professional cricket",
+    "desc": "In a major development, veteran India spinner Karn Sharma has come forward and announced his retirement from professional cricket. At 38 years old, Karn Sharma announced his decision to hang up his boots. It is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/karn-sharma-4-time-ipl-winner-announces-retirement-from-professional-cricket-2026-08-23-1052213",
+    "time": "2026-08-23T10:18:30.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Former India cricketer backs team India to support Kuldeep Yadav after his exclusion from second Test's XI",
     "desc": "The Indian team took on Sri Lanka in the second Test of the series. The two sides met at the Sinhalese Sports Club Ground, Colombo, from August 23, and India came in to bat first....",
     "img": "",
@@ -28,7 +46,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "IND vs SL 2nd Test, Day 1 LIVE SCORE: India three down, Padikkal key",
+    "title": "IND vs SL 2nd Test, Day 1 LIVE SCORE: India post 300 as day 1 comes to an end",
     "desc": "India and Sri Lanka take on each other in the second Test of the ongoing series between the two sides. The teams meet at the Sinhalese Sports Club Ground, Colombo, for the clash, and the game...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/manchester-united-suffer-embarrassing-2-0-defeat-to-newly-promoted-hull-city-2026-08-22-1052168",
     "time": "2026-08-22T14:48:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Treesa Jolly, Gayatri Gopichand scare world number one, settle for bronze in BWF World Championships",
-    "desc": "Gayatri Gopichand and Treesa Jolly secured a bronze medal at the BWF World Championships. They pushed the defending champions Liu Sheng Shu and Tan Ning to three games in the semi-finals, but couldn’t push their...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/treesa-jolly-gayatri-gopichand-scare-world-number-one-settle-for-bronze-in-bwf-world-championships-2026-08-22-1052164",
-    "time": "2026-08-22T13:36:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australia should move on from Marnus Labuschagne, says Ricky Ponting after another flop show",
-    "desc": "Marnus Labuschagne’s position in Australia’s Test side has come under renewed scrutiny after he was dismissed for four runs in the second Test against Bangladesh in Mackay. His future in the Test squad is currently...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/australia-should-move-on-from-marnus-labuschagne-says-ricky-ponting-after-another-flop-show-2026-08-22-1052160",
-    "time": "2026-08-22T13:02:58.000Z"
   }
 ];

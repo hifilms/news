@@ -1,6 +1,60 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "રસોઈ ગેસને લઈ મોટા ફેરફાર! સરકારે LPG કનેક્શન પર બનાવ્યો આ નવો નિયમ",
+    "desc": "સરકાર દેશના પાઇપલાઇન નેટવર્ક ધરાવતા વિસ્તારોમાં LPG સિલિન્ડરને બદલે PNG (પાઇપ્ડ નેચરલ ગેસ)ને પ્રોત્સાહન આપવાની તૈયારી કરી રહી છે. પેટ્રોલિયમ મંત્રાલયે રાજ્યો અને કેન્દ્રશાસિત પ્રદેશોને જિલ્લા સ્તરે નોડલ અધિકારીઓની નિમણૂક કરવા અને PNG કનેક્શન વધારવા માટે ગેસ કંપનીઓ સાથે કામ કરવા જણાવ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/big-change-regarding-cooking-gas-government-has-made-this-new-rule-on-lpg-connection-488624 ",
+    "time": "2026-08-23T12:20:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "સારાંશ જૈને રેડ બોલ ક્રિકેટ માટે છોડી હતી IPL ! કોચે જણાવી અંદરની વાત",
+    "desc": "મધ્યપ્રદેશ રણજી ટીમના હેડ કોચ ચંદ્રકાંત પંડિત કે જેમણે સારાંશ જૈનને નજીકથી રમતા જોયો છે અને તેની પ્રગતિમાં મુખ્ય ભૂમિકા ભજવી છે, તેમણે એક ઇન્ટરવ્યુમાં ખુલાસો કર્યો હતો કે સારાંશે તેના રેડ-બોલ ક્રિકેટ પર ધ્યાન કેન્દ્રિત કરવા માટે IPLમાં મળતી તક પણ જવા દીધી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/saransh-jain-left-ipl-to-play-test-cricket-coach-reveals-inside-story-488623 ",
+    "time": "2026-08-23T12:10:49.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "અમેરિકા-ઈરાનમાં ફરી થશે &amp;quot;મહાયુદ્ધ&amp;quot;? ટ્રમ્પે જાહેર કર્યો હોર્મુઝનો નવો મેપ, નવા પ્રતિબંધો પર ઈરાનની ધમકી",
+    "desc": "હોર્મુઝ સ્ટ્રેટ પર ઈરાન અને અમેરિકા વચ્ચેનો વિવાદ વધુ વકર્યો છે. આ મુદ્દો હવે ડોનાલ્ડ ટ્રમ્પના નવા મેપ અને ઈરાન પર લગાવવામાં આવી રહેલા આર્થિક પ્રતિબંધો પર કેન્દ્રિત છે, જેના પર ઈરાને સીધી ધમકી આપી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/will-a-war-break-out-again-between-america-and-iran-trump-releases-new-map-of-hormuz-iran-threatens-new-sanctions-488622 ",
+    "time": "2026-08-23T12:00:56.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "US-ભારત ટ્રેડ ડીલ પર નવું અપડેટ, ઓક્ટોબરમાં સમજુતી ફાઇનલ કરવા આવશે રુબિયો; શું બોલ્યા સર્જિયો ગોર?",
+    "desc": "ભારત અને અમેરિકા વચ્ચે લાંબા સમયથી ચાલી રહેલી ટ્રેડ ડીલ હવે અંતિમ તબક્કામાં પહોંચી ગઈ છે. અમેરિકાના રાજદૂત સર્જિયો ગોરના જણાવ્યા અનુસાર, ડીલના મોટાભાગના ભાગો પર સહમતિ બની ચૂકી છે અને હવે કાનૂની તથા ટેકનિકલ ભાષાને આખરી ઓપ આપવામાં આવી રહ્યો છે. આ દરમિયાન અમેરિકાના વિદેશ મંત્રી માર્કો રુબિયો ઓક્ટોબરમાં ફરીથી ભારતની મુલાકાતે આવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/new-update-on-us-india-trade-deal-rubio-will-come-to-finalize-the-agreement-in-october-what-did-sergio-gore-say-488599 ",
+    "time": "2026-08-23T11:13:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "પર્સનલ લાઈફ ચર્ચાનો વિષય બનતા ગોવિંદા ધુંઆફુઆ થયો, કાનૂની નોટિસ જાહેર કરી આપી ચેતવણી",
+    "desc": "ગોવિંદા અને સુનીતા આહુજાની સમસ્યાઓ છેલ્લા ઘણા સમયથી ચર્ચાનો વિષય છે. તેવામાં હવે આ મામલે ગોવિંદા ધુંઆફુઆ થયો છે તેણે લીગલ નોટિસ જાહેર કરી જણાવી દીધું છે કે તેના પરિવાર કે અંગત જીવન વિશે ખોટી માહિતી ફેલાવનાર વિરુદ્ધ 100 કરોડનો દાવો કરવામાં આવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/govinda-take-legal-help-govinda-issue-legal-notice-over-personal-life-488596 ",
+    "time": "2026-08-23T10:40:31.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "iPhoneની જીદે ઉજાડ્યો આખો પરિવાર! 5 સેકન્ડમાં 3 લોકોએ ગુમાવ્યો જીવ, કેમ છે લોકોમાં આવો ક્રેઝ?",
+    "desc": "મહારાષ્ટ્રના છત્રપતિ સંભાજીનગરમાં એક દુ:ખદ ઘટના સામે આવી છે, જ્યાં એક યુવકે આઇફોનના કારણે આત્મહત્યા કરી લીધી. ત્યારબાદ તેના પિતા અને માતાનું પણ અવસાન થયું. પ્રશ્ન એ ઉભો થાય છે કે આઇફોન માટે આટલો ક્રેઝ કેમ છે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/the-iphone-stubbornness-destroyed-the-entire-family-why-is-there-such-a-craze-among-people-488586 ",
+    "time": "2026-08-23T09:38:35.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "₹20 લાખ સુધીની લોન, ઓછા વ્યાજે, કોઈ ગેરંટી નહીં! મોદી સરકારની આ યોજનાના જાણો ફાયદા",
     "desc": "સરકારે મુદ્રા યોજનાને ચાર કેટેગરીમાં બદલી છે, આ ચાર કેટેગરીઓમાં શિશુ, કિશોર, તરુણ અને તરુણ પ્લસ છે. સરકારે 2024માં તરુણ પ્લસ કેટેગરી શરૂ કરી હતી. આ નવી કેટેગરીમાં લાભાર્થીઓને 10 લાખ રૂપિાથી 20 લાખ રૂપિયા સુધીની લોન મળે છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -261,24 +315,6 @@ const newsData_gu = [
     "time": "2026-08-21T10:57:07.000Z"
   },
   {
-    "cat": "Business",
-    "title": "8મા પગાર પંચમાં Terms of Reference બદલાશે? જાણો કર્મચારીઓ પર શું થશે અસર",
-    "desc": "8માં પગાર પંચની કેન્દ્ર સરકારના કર્મચારીઓ રાહ જોઈ રહ્યા છે, ત્યારે છેલ્લા કેટલાક મહિનાઓથી, કેટલીક મોટી સંસ્થાઓ સાથે મુખ્ય કર્મચારી સંગઠનો અને હિસ્સેદારોએ ToRમાં ફેરફારની માંગ કરી રહ્યા છે. ભૂતકાળમાં પણ તેમાં ફેરફાર કરવામાં આવ્યા છે અને તેમની માંગ પ્રમાણે આ વર્ષ પણ તેમાં ફેરફાર કરવામાં આવે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/will-the-terms-of-reference-change-in-the-8th-pay-commission-know-what-will-be-the-impact-on-employees-488352 ",
-    "time": "2026-08-21T09:50:26.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સોના-ચાંદીના ભાવમાં આજે પણ ભયંકર ઉછાળો, ખરીદી ક્યાંક સપનું ન બની જાય! જાણો આજનો લેટેસ્ટ રેટ",
-    "desc": "સોના અને ચાંદીના ભાવમાં ભારે ઉતાર ચડાવ જોવા મળી રહ્યા છે. ગઈ કાલે જે ભારે તેજી જોવા મળી હતી તે આજે પણ ચાલુ છે. વાયદા બજાર અને રિટેલ બજારમાં બંને કિંમતી ધાતુઓના ભાવ ઉછળ્યા છે. જાણો આજના લેટેસ્ટ રેટ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-prices-see-big-increase-today-check-mcx-ibja-latest-rates-488341 ",
-    "time": "2026-08-21T07:52:13.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "એક સમયે રેખા અમિતાભ બચ્ચનને પોતાનો પતિ માનવા લાગી હતી... બોલીવુડના ફેમસ ડિરેક્ટરે કર્યો ખુલાસો",
     "desc": "અમિતાભ બચ્ચન અને રેખાની લવ સ્ટોરીની ચર્ચાઓનો કોઈ અંત નથી. તેવામાં વધુ એકવાર રેખા અને અમિતાભ બચ્ચનની પ્રેમ કહાનીનો એક કિસ્સો ચર્ચામાં આવ્યો છે. વાત તે સમયની છે જ્યારે રેખા અમિતાભ બચ્ચનના પ્રેમમાં ભાન ભુલી ગઈ હતી અને તેને લગ્ન વિના જ બિગ બીને પતિ માનવા લાગી હતી.",
@@ -441,15 +477,6 @@ const newsData_gu = [
     "time": "2026-08-19T07:48:20.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "બેટ અને બોલ વચ્ચે ગેપ હતી છતાં જુરેલને અપાયો આઉટ, શું ટીમ ઈન્ડિયા સાથે થયો અન્યાય ?",
-    "desc": "ગાલે ટેસ્ટના બીજી ઈનિંગમાં ધ્રુવ જુરેલને અસિતા ફર્નાન્ડોના બોલ પર વિવાદાસ્પદ રીતે આઉટ આપવામાં આવ્યો હતો. મેદાન પરના અમ્પાયરે તેને નોટ આઉટ જાહેર કર્યો હતો અને રિપ્લેમાં બેટ અને બોલ વચ્ચે ગેપ દેખાતી હતી છતાં થર્ડ અમ્પાયરે સ્નિકોમીટર પરની નોર્મલ સ્પાઇકના આધારે આઉટ આપ્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/dhruv-jurel-given-out-despite-being-gap-between-bat-and-ball-injustice-with-team-india-488071 ",
-    "time": "2026-08-18T10:54:22.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "આવારાપન 2માં પરેશ રાવલના દીકરાએ પણ કરી છે એક્ટિંગ, શું તમે તેને ઓળખ્યો?",
     "desc": "\"આવારાપન 2\" માં ફક્ત વામિકા ગબ્બીના ભાઈ પૂરણ ગબ્બી જ નહીં, પણ પરેશ રાવલનો દીકરો પણ છે. ચાલો તમને તેના વિશે જણાવીએ કે આવારાપન 2માં કયા રોલ માટે તેને પસંદ કરવામાં આવ્યો હતો અને તેની એક્ટિગ જો તેમે આવારાપન 2 જોયું છે તો કેવી લાગી.",
@@ -457,15 +484,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/paresh-rawal-son-has-also-acted-in-aavarapan-2-did-you-recognize-him-488067 ",
     "time": "2026-08-18T10:18:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ભારત-શ્રીલંકા ટેસ્ટ વચ્ચે ખરાબ સમાચાર, આ ક્રિકેટર ઈજાગ્રસ્ત થતાં તાત્કાલિક ખસેડાયો હોસ્પિટલ",
-    "desc": "ભારત સામે ગાલે ટેસ્ટના ચોથા દિવસે શ્રીલંકાને મોટો ઝટકો લાગ્યો. અનુભવી બેટ્સમેન દિનેશ ચંદીમલ બાઉન્ડ્રી બચાવવાનો પ્રયાસ કરતી વખતે ડીપ મિડ-વિકેટ પર પડી ગયો, જેના કારણે તેને જમણા ખભા અને ગરદનમાં ઈજા થઈ. મેદાન પર પ્રાથમિક તપાસ બાદ વધુ તપાસ માટે તેને હોસ્પિટલમાં લઈ જવામાં આવ્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/dinesh-chandimal-injured-during-ind-vs-sl-1st-test-hospitalized-for-scan-488066 ",
-    "time": "2026-08-18T10:17:07.000Z"
   },
   {
     "cat": "Tech",
@@ -549,24 +567,6 @@ const newsData_gu = [
     "time": "2026-08-16T03:52:39.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "અંતે ગોવિંદાનો ગુસ્સો ફુટ્યો, જાહેરમાં કહ્યું સુનીતા હદમાં રહેજે... લોકઅપ 2 નો પણ કર્યો ઉલ્લેખ",
-    "desc": "અત્યાર સુધી તો માત્ર સુનીતા આહુજા જ ગોવિંદા અને કોમલ રાની સ્વર્ણકાર માટે મીડિયા સામે બોલતી હતી. હવે જ્યારે સુનીતા આહુજાએ કેમેરા સામે ગોવિંદાને સુગર ડેડી કહી દીધો છે તો ગોવિંદાનો ગુસ્સો પણ ફુટ્યો છે. તેણે પણ જાહેરમાં સુનીતા આહુજાને હદમાં રહેવા ચેતવણી આપી દીધી છે...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/govinda-viral-video-for-sunita-ahuja-govinda-warns-sunita-ahuja-says-stay-in-your-limits-487857 ",
-    "time": "2026-08-16T03:23:00.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "શું બંધ થઈ જશે તમારો iPhone X? Appleના આ અચાનક નિર્ણયથી વધાર્યું યુઝર્સનું ટેન્શન!",
-    "desc": "એપલે સત્તાવાર રીતે તેના iPhone X ને સત્તાવાર રીતે ઓબ્સોલીટ યાદીમાં મૂક્યો છે. પરિણામે, કંપની અથવા તેના ઓફિશિયલ સર્વિસ સેન્ટરો પર ફોનની ઓફિશિયલ હાર્ડવેર સમારકામ કરશે નહીં. આનાથી પ્રશ્નો ઉભા થાય છે કે શું આ નિર્ણયથી યૂઝર્સના ડિવાઈસનું કામ કરવાનું બંધ કરશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/will-your-iphone-x-stop-working-this-sudden-decision-by-apple-has-raised-concerns-among-users-487856 ",
-    "time": "2026-08-16T03:19:28.000Z"
-  },
-  {
     "cat": "World",
     "title": "ઇન્ડોનેશિયામાં 7.7ની તીવ્રતાનો ભૂકંપ, પત્તાની જેમ ધરાશાયી થઈ ઇમારતો, તબાહીના દ્રશ્યોથી હાહાકાર",
     "desc": "ઇન્ડોનેશિયામાં 7.7ની તીવ્રતાના ભૂકંપને કારણે ઇમારતો પત્તાની જેવી પડી ગઈ. ઘણા લોકોના મોતની આશંકા છે. ભૂકંપ બાદ સુનામીની ચેતવણી જાહેર કરવામાં આવી છે, અને દરિયાકાંઠાના વિસ્તારોના રહેવાસીઓને ઉંચી જમીન પર સ્થળાંતર કરવાની સલાહ આપવામાં આવી છે.",
@@ -574,14 +574,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/7-7-magnitude-earthquake-in-indonesia-buildings-collapse-like-cards-scenes-of-devastation-are-shocking-487760 ",
     "time": "2026-08-15T03:30:12.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ટ્રમ્પના નવા ફરમાનથી દુનિયામાં હડકંપ! હવે આ વસ્તુ પર લગાવ્યો 100% ટેરિફ, જાણો કોને થશે અસર",
-    "desc": "ચીનની સાથે વધતા ટ્રેડ વિવાદ વચ્ચે અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે એક મોટો નિર્ણય કર્યો. તેમણે આયાત થનાર ડ્રોન પર 100 ટકા ટેરિફ લગાવ્યો છે. ટ્રમ્પના આ નિર્ણયની સીધી અસર ડિફેન્સ સેક્ટર પર પડી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/trump-imposes-100-tariff-on-drone-imports-amid-escalating-trade-tensions-with-china-487682 ",
-    "time": "2026-08-14T04:52:12.000Z"
   }
 ];
