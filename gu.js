@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "0 રન પર જ આઉટ હતો પડિકલ... શ્રીલંકાને આ ભૂલો પડી ગઈ ભારે, ભારતીય બેટ્સમેને ધોળા દિવસે દેખાડ્યા તારા",
+    "desc": "ટીમ ઈન્ડિયાનો યુવા બેટ્સમેન દેવદત્ત પડિકલ હાલમાં શ્રીલંકાની ધરતી પર ધૂમ મચાવી રહ્યો છે. છેલ્લી મેચમાં 211 રન અને હવે તેણે કોલંબોમાં ફરી એકવાર વિરોધી ટીમના બોલરોને હંફાવ્યા હતા અને શાનદાર સદી ફટકારી હતી. જો કે, શ્રીલંકા તેને શૂન્ય રને આઉટ કરી શકી હોત, પરંતુ તેમણે કરી આ બે ભૂલો તેમને ભારે પડી ગઈ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/devdutt-padikkal-smashes-century-after-sri-lanka-drops-2-easy-catch-488635 ",
+    "time": "2026-08-23T14:45:08.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "DA વધારા પછી સેલરી પર કેટલો લાગે છે ટેક્સ? 1 રૂપિયાની પણ ભૂલ પડી શકે છે ભારે, જાણો ITRના નિયમ",
+    "desc": "કેન્દ્ર સરકારના કર્મચારીઓ અને પેન્શનર્સ માટે DA (મોંઘવારી ભથ્થું) અને DR (મોંઘવારી રાહત) મોંઘવારી સામે રાહત આપતો ખૂબ જ મહત્ત્વનો ભાગ છે. પરંતુ DAને લઈને એક જરૂરી વાત એ છે કે, તે સંપૂર્ણપણે ટેક્સ-ફ્રી નથી. DAએ સેલરીનો જ એક ભાગ ગણવામાં આવે છે અને કર્મચારીની કુલ ટેક્સેબલ આવકમાં સામેલ થાય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/how-much-tax-is-levied-on-salary-after-da-increase-even-a-mistake-of-1-rupee-can-be-huge-know-itr-rules-488634 ",
+    "time": "2026-08-23T14:44:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ભારે વરસાદ માટે થઈ જાવ તૈયાર ! બંગાળની ખાડીમાં સક્રિય થયું લો-પ્રેશર",
+    "desc": "બંગાળની ખાડીમાં લો-પ્રેશર સક્રિય થતાં દેશના અનેક રાજ્યોમાં ભારે વરસાદની આગાહી કરવામાં આવી છે. ઓડિશા અને છત્તીસગઢમાં અતિભારે વરસાદની શક્યતા છે. બિહાર, ઝારખંડ, પશ્ચિમ બંગાળ, મધ્ય પ્રદેશ, ઉત્તર પ્રદેશ, ઉત્તરાખંડ સહિતના રાજ્યોમાં પણ ભારે વરસાદ પડશે. ઉત્તર-પૂર્વના રાજ્યોમાં ગાજવીજ અને વીજળી સાથે વરસાદની આગાહી કરવામાં આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/bay-of-bengal-low-pressure-heavy-rain-alert-across-multiple-states-488633 ",
+    "time": "2026-08-23T13:55:52.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "આ યોજનામાં કોઈપણ રિસ્ક વિના મળશે FD કરતા પણ વધુ વ્યાજ, RBIની આ સ્કીમ આપશે શાનદાર રિટર્ન! જાણો",
+    "desc": "જો તમે શેરબજારમાં રિસ્ક લીધા વગર અને FDના કરતા વધુ વ્યાજની અપેક્ષામાં અલગ સ્કીમ શોધી રહ્યા છો, તો RBIની આ સ્કીમ તમારા માટે ખાસ બની શકે છે. RBIની 'ફ્લોટિંગ રેટ સેવિંગ્સ બોન્ડ્સ' (Floating Rate Savings Bonds) સ્કીમ રોકાણકારો માટે એક સારો વિકલ્પ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/this-scheme-will-get-more-interest-than-fd-without-any-risk-this-scheme-of-rbi-will-give-great-returns-know-488632 ",
+    "time": "2026-08-23T13:49:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "યશસ્વી જયસ્વાલ પર લાગશે પ્રતિબંધ ? આ ભૂલ પડી શકે છે ભારે, જાણો શું છે સમગ્ર મામલો",
+    "desc": "ટીમ ઈન્ડિયાના સ્ટાર ઓપનર યશસ્વી જયસ્વાલને ICC કાર્યવાહીનો સામનો કરવો પડી શકે છે. કોલંબોમાં રમાઈ રહેલી બીજી ટેસ્ટ મેચના પહેલા દિવસે આઉટ થયા બાદ તેનો શ્રીલંકાના બોલર અસિથા ફર્નાન્ડો સાથે ઝઘડો થયો હતો. બંને ખેલાડીઓ મેદાન પર બબાલ કરતા જોવા મળ્યા હતા. આ વિવાદાસ્પદ ઘટના બાદ જયસ્વાલ પર કડક સજાનો ખતરો મંડરાઈ રહ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/yashasvi-jaiswal-in-threat-of-ban-after-headbutt-with-asitha-fernando-488625 ",
+    "time": "2026-08-23T12:59:01.000Z"
+  },
+  {
     "cat": "Business",
     "title": "રસોઈ ગેસને લઈ મોટા ફેરફાર! સરકારે LPG કનેક્શન પર બનાવ્યો આ નવો નિયમ",
     "desc": "સરકાર દેશના પાઇપલાઇન નેટવર્ક ધરાવતા વિસ્તારોમાં LPG સિલિન્ડરને બદલે PNG (પાઇપ્ડ નેચરલ ગેસ)ને પ્રોત્સાહન આપવાની તૈયારી કરી રહી છે. પેટ્રોલિયમ મંત્રાલયે રાજ્યો અને કેન્દ્રશાસિત પ્રદેશોને જિલ્લા સ્તરે નોડલ અધિકારીઓની નિમણૂક કરવા અને PNG કનેક્શન વધારવા માટે ગેસ કંપનીઓ સાથે કામ કરવા જણાવ્યું છે.",
@@ -286,33 +331,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/top-5-cng-suvs-in-india-ahead-of-all-others-in-terms-of-average-know-the-price-and-features-488391 ",
     "time": "2026-08-21T13:42:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "બહાર જમતા હો તો આ 4 વાતોનું રાખજો ધ્યાન, તુકારામ મુંઢેએ આપી ખાસ સલાહ",
-    "desc": "આજકાલ બહાર જમવું એ આપણી મોટાભાગના લોકોનો જીવનનો ભાગ બની ગયો છે. પછી ભલે તે અઠવાડિયાના છેલ્લા દિવસે હોય કે કોઈ પ્રસંગ માટે, મિત્રો અને પરિવાર સાથે બહાર જમવાનું કોને ગમતું નથી? પરંતુ બહાર ખાવાથી ઘણીવાર આપણા સ્વાસ્થ્ય પર ખરાબ અસર પડી શકે છે. મહારાષ્ટ્ર ફૂડ એન્ડ ડ્રગ એડમિનિસ્ટ્રેશન (FDA) દ્વારા તાજેતરના પગલાં અને દરોડાએ ખોરાકની શુદ્ધતા અને સ્વચ્છતા અંગે ઘણા પ્રશ્નો ઉભા કર્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/if-you-are-eating-out-keep-these-4-things-in-mind-tukaram-munde-gives-special-advice-488388 ",
-    "time": "2026-08-21T12:51:12.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સરકારી યોજનાનો કમાલ, દર મહિને કરો 1200 રૂપિયાનું રોકાણ, વ્યાજથી મળશે 4.74 લાખ",
-    "desc": "સુકન્યા સમૃદ્ધિ યોજનામાં દર મહિને 1200 રૂપિયા જમા કરી દીકરીના ભવિષ્ય માટે સારૂ ફંડ તૈયાર કરી શકાય છે. 1200 રૂપિયાની માસિક બચતથી 8.2% વ્યાજદર પર આશરે 4.74 લાખનું વ્યાજ બની શકે છે. આ યોજનામાં 15 વર્ષ સુધી પૈસા જમા કરવાના હોય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/daughter-future-wallet-invest-1200-monthly-under-govt-scheme-to-earn-4-74-lakh-in-interest-alone-488361 ",
-    "time": "2026-08-21T11:09:26.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ખાંડના ભાવમાં ઉછાળા પાછળ ઇથેનોલ જવાબદાર? જાણો ભાવ પાછળનું આખું ગણિત",
-    "desc": "દેશમાં અનેક જગ્યાએ ખાંડના ભાવમાં તોતિંગ વધારો થયો છે, અને પ્રતિ કિલોનો ભાવ 70 રૂપિયા સુધી પહોંચી ગયો છે, જેના કારણે લોકોને વધુ એક મોંઘવારી માર લાગી રહ્યો છે, તહેવારોની સિઝન શરૂ થાય તે પહેલાં, જ ખાંડે અનેક લોકો માટે ચિંતા ઉભી કરી છે. ખાસ કરીને ગૃહીણીઓ માટે તેમના બજેટ તુટ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/is-ethanol-responsible-for-the-rise-in-sugar-prices-know-the-entire-math-behind-the-price-488360 ",
-    "time": "2026-08-21T10:57:07.000Z"
   },
   {
     "cat": "Entertainment",

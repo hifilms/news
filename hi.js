@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India get off to stellar start to second Test, Devdutt Padikkal's century keeps SL on their toes on day 1",
+    "desc": "The Indian team kicked off the second Test of the ongoing series between the two sides. The teams met at the Sinhalese Sports Club Ground, Colombo, from August 23rd, and the game began with India...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-get-off-to-stellar-start-to-second-test-devdutt-padikkal-s-century-keeps-sl-on-their-toes-on-day-1-2026-08-23-1052232",
+    "time": "2026-08-23T13:41:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "GT coach not surprised with Manav Suthar's success, sees 'promising future for him'",
+    "desc": "The Indian team is in the midst of a Test series against Sri Lanka. The side put forth a marvellous performance in the first Test, registering a 165-run victory to take the lead in the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/gt-coach-not-surprised-with-manav-suthar-s-success-sees-promising-future-for-him-2026-08-23-1052228",
+    "time": "2026-08-23T13:02:06.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Devdutt Padikkal continues red-hot form, smashes consecutive century to keep SL at bay in 2nd Test",
     "desc": "India and Sri Lanka took on each other in the second Test of the ongoing series. The two sides met at the Sinhalese Sports Club Ground, Colombo, from August 23, and India came in to...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/when-and-where-to-watch-real-madrid-vs-espanyol-live-on-tv-and-stream-online-in-india-2026-08-22-1052176",
     "time": "2026-08-22T16:33:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mitchell Starc becomes leading wicket-taker in WTC history with six-wicket haul; check full list",
-    "desc": "Australia pacer Mitchell Starc wreaked havoc in the second Test against Bangladesh in Mackay. He claimed a six-wicket haul as Bangladesh were dismissed for only 64 runs in the first innings. With that, Starc became...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mitchell-starc-becomes-leading-wicket-taker-in-wtc-history-with-six-wicket-haul-check-full-list-2026-08-22-1052174",
-    "time": "2026-08-22T15:53:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Manchester United suffer embarrassing 2-0 defeat to newly promoted Hull City",
-    "desc": "Manchester United’s new Premier League campaign began with a 2-0 defeat at newly promoted Hull City on Saturday. Semi Ajayi and Nobel Mendy scored within the opening 38 minutes from set-pieces as the hosts made...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/manchester-united-suffer-embarrassing-2-0-defeat-to-newly-promoted-hull-city-2026-08-22-1052168",
-    "time": "2026-08-22T14:48:49.000Z"
   }
 ];
