@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Former India cricketer backs team India to support Kuldeep Yadav after his exclusion from second Test's XI",
+    "desc": "The Indian team took on Sri Lanka in the second Test of the series. The two sides met at the Sinhalese Sports Club Ground, Colombo, from August 23, and India came in to bat first....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-backs-team-india-to-support-kuldeep-yadav-after-his-exclusion-from-second-test-s-xi-2026-08-23-1052209",
+    "time": "2026-08-23T08:19:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "WTC updated points table after Australia decimate Bangladesh in Mackay to level two-game series",
+    "desc": "Australia put forth a magnificent performance against Bangladesh as they registered a brilliant win in the second Test of the series. The two teams met at the Great Barrier Reef Arena in Mackay for the clash,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/wtc-updated-points-table-after-australia-decimate-bangladesh-in-mackay-to-level-two-game-series-2026-08-23-1052202",
+    "time": "2026-08-23T06:58:02.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Why is Kuldeep Yadav not playing India vs Sri Lanka 2nd Test in Colombo?",
     "desc": "Team India took on Sri Lanka in the second Test of the ongoing series between the two sides. The teams met at the Sinhalese Sports Club Ground, Colombo, for the clash on August 23rd, and...",
     "img": "",
@@ -10,7 +28,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "IND vs SL 2nd Test, Day 1 LIVE SCORE: India two down, Devdutt Padikkal key",
+    "title": "IND vs SL 2nd Test, Day 1 LIVE SCORE: India three down, Padikkal key",
     "desc": "India and Sri Lanka take on each other in the second Test of the ongoing series between the two sides. The teams meet at the Sinhalese Sports Club Ground, Colombo, for the clash, and the game...",
     "img": "",
     "src": "indiatvnews.com",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/australia-should-move-on-from-marnus-labuschagne-says-ricky-ponting-after-another-flop-show-2026-08-22-1052160",
     "time": "2026-08-22T13:02:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Abhishek Bachchan sees 'new horizon' for cricket with European T20 Premier League",
-    "desc": "The European T20 Premier League is set to begin on August 26, with Rotterdam Dockers taking on Amsterdam Flames in the opening game of the tournament. The tournament is expected to provide much-needed exposure for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/abhishek-bachchan-sees-new-horizon-for-cricket-with-european-t20-premier-league-2026-08-22-1052154",
-    "time": "2026-08-22T11:32:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Zubin Bharucha joins Mumbai Indians after spending 16 years with Rajasthan Royals in IPL",
-    "desc": "After a successful 16-year stint with Rajasthan Royals, Zubin Bharucha has joined Mumbai Indians as director of performance. He was associated with Rajasthan since the inaugural season and played a pivotal role in developing talents...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/zubin-bharucha-joins-mumbai-indians-after-spending-16-years-with-rajasthan-royals-in-ipl-2026-08-22-1052150",
-    "time": "2026-08-22T10:49:11.000Z"
   }
 ];

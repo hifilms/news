@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "₹20 લાખ સુધીની લોન, ઓછા વ્યાજે, કોઈ ગેરંટી નહીં! મોદી સરકારની આ યોજનાના જાણો ફાયદા",
+    "desc": "સરકારે મુદ્રા યોજનાને ચાર કેટેગરીમાં બદલી છે, આ ચાર કેટેગરીઓમાં શિશુ, કિશોર, તરુણ અને તરુણ પ્લસ છે. સરકારે 2024માં તરુણ પ્લસ કેટેગરી શરૂ કરી હતી. આ નવી કેટેગરીમાં લાભાર્થીઓને 10 લાખ રૂપિાથી 20 લાખ રૂપિયા સુધીની લોન મળે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/loans-up-to-rs-20-lakh-at-low-interest-no-guarantee-know-the-benefits-of-this-scheme-of-modi-government-488575 ",
+    "time": "2026-08-23T08:54:22.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "મેદાન પર જ યશસ્વી જયસ્વાલનો શ્રીલંકાના બોલર સાથે ઝઘડો... ધક્કામુક્કી પર આવી ગયો મામલો",
+    "desc": "શ્રીલંકા સામેની બીજી ટેસ્ટની પહેલી ઇનિંગમાં યશસ્વી જયસ્વાલ 45 રન બનાવીને આઉટ થયો હતો. ડ્રેસિંગ રૂમમાં પાછા ફરતા પહેલા તેનો શ્રીલંકાના બોલર અસિથા ફર્નાન્ડો સાથે શાબ્દિક બોલાચાલી થઈ હતી અને પરિસ્થિતિ ધક્કામુક્કી સુધી પહોંચી ગઈ હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-sl-2nd-test-yashasvi-jaiswal-fight-with-sri-lankan-bowler-asitha-fernando-488574 ",
+    "time": "2026-08-23T08:51:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ના સીલ તૂટી, ના કવર ફાટ્યું! શું છે એન્ડોસ્કોપિક કેમેરો, જેનાથી પ્રોફેસરે લીક કરી દીધું પેપર, આવી રીતે કરે છે કામ",
+    "desc": "છત્તીસગઢમાં પેપર લીકનો એક એવો હાઈ-ટેક મામલો સામે આવ્યો છે જેણે સુરક્ષાના દાવાઓની પોલ ખોલી દીધી છે. એક પ્રોફેસરે સીલ તોડ્યા વગર, સોયથી કાંણું પાડીને એન્ડોસ્કોપિક કેમેરાની મદદથી બંધ લિફાફાની અંદરનું પેપર લીક કરી દીધું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/professor-used-endoscope-camera-needle-to-leak-agriculture-exam-paper-in-chhattisgarh-488559 ",
+    "time": "2026-08-23T08:15:43.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "વાઘા-અટારી બોર્ડર બંધ, પણ &amp;#039;સિંદૂરની જીત, કેવી રીતે સરહદ પાર કરીને ભારત પહોંચી 150 પાકિસ્તાની દુલ્હન? જાણો",
     "desc": "સરહદો દુશ્મનોને રોકવાનું કામ કરે છે, પરંતુ જ્યાં પ્રેમ અને વિશ્વાસ હોય છે, ત્યાં કોઈ પણ દેશની સરહદો તેને રોકી શકતી નથી. વાઘા બોર્ડર બંધ થવાને કારણે ઘણી દુલ્હનો પાકિસ્તાનમાં ફસાયેલી હતી, પરંતુ હવે તેઓ હવાઈ માર્ગે ભારત પહોંચી ગઈ છે.",
@@ -243,15 +270,6 @@ const newsData_gu = [
     "time": "2026-08-21T09:50:26.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "પેલેટ ગન પીડિત વિદ્યાર્થીને લઈને સંસદ માર્ગ પોલીસ મથક પહોંચ્યા રાહુલ ગાંધી, પછી ધરણા પર બેસી ગયા",
-    "desc": "કોંગ્રેસ નેતા રાહુલ ગાંધી આજે અચાનક સંસદ માર્ગ પોલીસ મથક પહોંચ્યા. તેઓ જંતર મંતર પર વિદ્યાર્થી પ્રદર્શન દરમિયાન ઉપયોગમાં લેવાયેલી પેલેટ ગનના ઉપયોગ સંબંધિત તપાસની જાણકારી માટે ડીસીપી ઓફિસ પહોંચ્યા હતા. ડીસીપીને મળ્યા બાદ તેઓ ધરણા ઉપર પણ બેસી ગયા. જાણો વિગતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/congress-mp-rahul-gandhi-dcp-office-parliament-street-police-station-jantar-mantar-protest-488345 ",
-    "time": "2026-08-21T08:27:12.000Z"
-  },
-  {
     "cat": "Business",
     "title": "સોના-ચાંદીના ભાવમાં આજે પણ ભયંકર ઉછાળો, ખરીદી ક્યાંક સપનું ન બની જાય! જાણો આજનો લેટેસ્ટ રેટ",
     "desc": "સોના અને ચાંદીના ભાવમાં ભારે ઉતાર ચડાવ જોવા મળી રહ્યા છે. ગઈ કાલે જે ભારે તેજી જોવા મળી હતી તે આજે પણ ચાલુ છે. વાયદા બજાર અને રિટેલ બજારમાં બંને કિંમતી ધાતુઓના ભાવ ઉછળ્યા છે. જાણો આજના લેટેસ્ટ રેટ.",
@@ -261,24 +279,6 @@ const newsData_gu = [
     "time": "2026-08-21T07:52:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "સાડી પહેરી આવ્યો, પાણી છાંટ્યું, મુંબઈમાં એરહોસ્ટેસની સાથે કિન્નરના વેશમાં આવેલા વ્યક્તિએ કર્યો બળાત્કાર",
-    "desc": "જાણકારી પ્રમાણે મહિલાનો બીમાર પતિ હોસ્પિટલમાં દાખલ છે. ત્યારે કિન્નરના વેશમાં આવેલા આરોપીએ દાવો કર્યો કે તે ખરાબ નજર ઉતારી તેના બીમાર પતિને સાજો કરી શકે છે, પીડિતા તેની વાતોમાં આવી ગઈ અને ઘરનો દરવાજો ખોલી દીધો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/shocking-incident-in-mumbai-air-hostess-targeted-under-the-pretense-of-healing-sick-husband-488338 ",
-    "time": "2026-08-21T07:36:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "જયપુરમાં શાળાની હાલત જોવા પહોંચેલા CJPના કાર્યકરોને ગ્રામીણોએ ભગાડી મૂક્યા, હાથાપાઈ-મારપીટનો પણ આરોપ",
-    "desc": "કોકરોચ જનતા પાર્ટીએ હવે 'સ્કૂલ ઠીક કરો' અભિયાન શરૂ કર્યું છે અને આ અભિયાન હેઠળ રાજસ્થાનના પાટનગર જયપુરના બગરુ વિસ્તારમાં આવેલા રામપુરા-કંવરપુરા ગામની સરકારી શાળામાં સીજેપીના કાર્યકરો પહોંચ્યા તો તેમને મારપીટ કરીને ગ્રામીણોએ ભગાડી મૂક્યા હોવાનો આરોપ લાગ્યો છે. જાણો વિગતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/locals-strongly-protest-against-cjp-workers-who-came-to-visit-govt-school-in-jaipur-bagru-488334 ",
-    "time": "2026-08-21T06:19:44.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "એક સમયે રેખા અમિતાભ બચ્ચનને પોતાનો પતિ માનવા લાગી હતી... બોલીવુડના ફેમસ ડિરેક્ટરે કર્યો ખુલાસો",
     "desc": "અમિતાભ બચ્ચન અને રેખાની લવ સ્ટોરીની ચર્ચાઓનો કોઈ અંત નથી. તેવામાં વધુ એકવાર રેખા અને અમિતાભ બચ્ચનની પ્રેમ કહાનીનો એક કિસ્સો ચર્ચામાં આવ્યો છે. વાત તે સમયની છે જ્યારે રેખા અમિતાભ બચ્ચનના પ્રેમમાં ભાન ભુલી ગઈ હતી અને તેને લગ્ન વિના જ બિગ બીને પતિ માનવા લાગી હતી.",
@@ -286,15 +286,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/rekha-accepted-amitabh-bachchan-as-her-husband-once-said-umrao-jaan-film-director-muzaffar-ali-488299 ",
     "time": "2026-08-21T02:40:12.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સસ્તા LPG માટે ચાલી રહ્યું છે કામ, ભારતીય કંપનીઓએ બનાવી એક મજબૂત યોજના",
-    "desc": "ભારતમાં સસ્તા LPG માટે પ્રયાસો ચાલી રહ્યા છે, જેના ભાગરૂપે ઇન્ડિયન ઓઇલે 2027માં LPG આયાત કરવા માટે અલ્જીરિયાની સોનાટ્રેક સાથે કરાર કર્યો છે. આ કરાર હેઠળ ઇન્ડિયન ઓઇલ એક મોટા ગેસ કેરિયર દ્વારા દર મહિને આશરે 45,000થી 55,000 મેટ્રિક ટન LPG આયાત કરશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/indian-oil-deal-with-algeria-sonatrach-for-lpg-supply-reduce-gulf-dependence-488293 ",
-    "time": "2026-08-20T15:38:20.000Z"
   },
   {
     "cat": "Sports",
@@ -324,15 +315,6 @@ const newsData_gu = [
     "time": "2026-08-20T13:35:58.000Z"
   },
   {
-    "cat": "Business",
-    "title": "SBI ગ્રાહકો માટે મોટા સમાચાર ! બેંકે FDના વ્યાજ દરોમાં કર્યો બદલાવ, જાણો હવે કેટલું મળશે વળતર",
-    "desc": "સ્ટેટ બેંક ઓફ ઈન્ડિયાએ અમુક મુદત માટે ₹3 કરોડ અને તેથી વધુની ફિક્સ્ડ ડિપોઝિટ પર વ્યાજ દર ઘટાડ્યા છે. નવા દર 15 ઓગસ્ટ, 2026થી અમલમાં આવ્યા છે. જો કે, આ ફેરફાર ₹3 કરોડથી ઓછી રકમની સ્ટાન્ડર્ડ રિટેલ FDને અસર કરશે નહીં.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/sbi-revised-fd-interest-rates-new-rates-effective-from-august-15-488265 ",
-    "time": "2026-08-20T12:29:00.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "મોંઢામાં ડૂચો અને બહેનના હાથ બાંધેલા હતા, પિતાએ ૧ રૂપિયામાં બહેનને વેચી દીધી, કંગનાનો દર્દનાક ખુલાસો",
     "desc": "એક્ટ્રેસ કંગના શર્માએ હાલમાં જ એક પોડકાસ્ટમાં જણાવ્યું છે કે એનું બાળપણ ખૂબ જ તકલીફોમાં ગયું છે. કંગનાએ કહ્યું કે એમના પિતાએ બહેનને એક રૂપિયામાં વેચી મારી હતી, એના લગ્ન થયા હતા એ પરિવાર વેશ્યાવૃત્તિનો ધંધો કરતો હતો.",
@@ -340,15 +322,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/tied-up-with-cloth-in-mouth-father-sold-my-sister-for-re-1-actress-kangna-sharmas-heartbreaking-revelation-488264 ",
     "time": "2026-08-20T11:59:06.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "8મું પગાર પંચ લાગુ થવામાં વિલંબ થશે તો પણ નહીં થાય નુકસાન, એકસાથે મળશે મોટી રકમ ! જાણો કેવી રીતે",
-    "desc": "સરકારી કર્મચારીઓ 8મા પગાર પંચની આતુરતાથી રાહ જોઈ રહ્યા છે, ત્યારે સામાન્ય રીતે તેમના મનમાં બે સવાલ છે કે, 8મું પગાર પંચ ક્યારે લાગુ થશે અને જો અમલીકરણમાં વિલંબ થશે, તો એરિયર કેટલું મળશે ? તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-arrears-calculation-government-employee-salary-hike-488262 ",
-    "time": "2026-08-20T11:23:25.000Z"
   },
   {
     "cat": "World",
@@ -493,15 +466,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/dinesh-chandimal-injured-during-ind-vs-sl-1st-test-hospitalized-for-scan-488066 ",
     "time": "2026-08-18T10:17:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "LIVE મેચમાં અમ્પાયર સાથે ભયાનક અકસ્માત, તાત્કાલિક ICUમાં કરવા પડ્યા દાખલ, જુઓ Video",
-    "desc": "દિલ્હી પ્રીમિયર લીગ વચ્ચે એક ભયાનક ઘટના બની છે. એક મેચ દરમિયાન બેટ્સમેન દ્વારા ફટકારવામાં આવેલ એક શોટ સીધો અમ્પાયરના ગાલ પર વાગ્યો હતો. બોલ એટલો જોરથી વાગ્યો કે અમ્પાયર તરત જ મેદાન પર ઢળી પડ્યા, જેના કારણે તેમને તાત્કાલિક હોસ્પિટલ લઈ જવામાં આવ્યા હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/umpire-dharmesh-bhardwaj-hit-on-face-by-ball-rushed-to-icu-during-dpl-2026-match-488063 ",
-    "time": "2026-08-18T09:27:32.000Z"
   },
   {
     "cat": "Tech",
