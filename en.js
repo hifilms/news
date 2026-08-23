@@ -1,5 +1,41 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Mirzapur's Anangsha Biswas still gets uncomfortable messages",
+    "desc": "Mirzapur actress Anangsha Biswas opens up about the unexpected consequences of playing Zarina, revealing that she still receives uncomfortable messages from people who confuse her on-screen persona with her real-life personality. The actress also discusses returning as Zarina for the film, working with Ravi Kishan and Pramod Pathak, her weight-loss struggles, and why she believes actors must remain humble.",
+    "img": "https://static.toiimg.com/photo/msid-133446416,imgsize-84841.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mirzapur-actress-anangsha-biswas-reveals-she-still-gets-uncomfortable-messages-like-aap-ek-raat-ke-kya-lengi-since-season-1-main-zarina-jaisi-ekdum-nahi-hoon/articleshow/133446387.cms",
+    "time": "2026-08-23T20:01:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Heartbreak for India as Oz advance to semis after goalless Hockey WC draw",
+    "desc": "Indian women’s Hockey World Cup campaign ended after Australia held them to a 0-0 draw and advanced to the semifinals on goals scored. Australia had two goals ruled out after reviews, while India missed key chances and penalty corners. Despite a strong second-half push and removing their goalkeeper late on, India could not find the winner and will now play for fifth place.",
+    "img": "https://static.toiimg.com/photo/msid-133446019,imgsize-163487.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/hockey-india-league/top-stories/heartbreak-for-india-as-australia-advance-to-semifinals-after-goalless-hockey-world-cup-draw/articleshow/133445932.cms",
+    "time": "2026-08-23T19:07:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aditya Seal and Anushka Ranjan welcome twin baby girls Vira and Mahi",
+    "desc": "Aditya Seal and Anushka Ranjan have welcomed twin baby girls. The couple announced the arrival of their daughters, Vira Ranjan Seal and Mahi Ranjan Seal, on Instagram. Sharing their joy with fans, they called the newborns their “sunshines” and said their hearts are full of love and gratitude as they begin this new chapter of parenthood.",
+    "img": "https://static.toiimg.com/photo/msid-133445759,imgsize-87618.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aditya-seal-and-anushka-ranjan-welcome-twin-baby-girls-announce-names-vira-and-mahi-call-daughters-their-sunshines/articleshow/133445699.cms",
+    "time": "2026-08-23T18:49:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "DMK’s regional satraps among 22 who will lose district secretary posts",
+    "desc": "Thirty-three additional district units will be created and 55 new faces are likely to assume office as the DMK is set for a revamp following its defeat in the recent Assembly election, say party sources",
+    "img": "https://th-i.thgim.com/public/news/national/dvs0zk/article71381729.ece/alternates/LANDSCAPE_1200/stalin%20dmk.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/dmks-regional-satraps-among-22-who-will-lose-district-secretary-posts/article71381677.ece",
+    "time": "2026-08-23T18:33:16.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Amit Shah to attend national security strategies conference in Delhi",
     "desc": "The officers will be deliberating on various contemporary matters and challenges including terrorism, cybercrimes, financial frauds, narcotics menace, challenges posed by encrypted communication apps, infiltration and illegal immigration etc. It will also discuss aviation and port security, as also bringing back fugitives involved in terrorist and smuggling activities with enhanced coordination between Central and state agencies.",
@@ -117,15 +153,6 @@ const newsData_en = [
     "time": "2026-08-23T15:08:01.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "In Karnataka, employment generation under VB-G RAM G yet to pick up",
-    "desc": "While 61.48 lakh person-days and 36.15 lakh person-days were generated in July and August, respectively, under MGNREGA across Karnataka in 2025, only about 17.98 lakh person-days and 26.27 lakh person-days were generated in July and August, respectively, this year under the newly launched VB-G RAM G scheme",
-    "img": "https://th-i.thgim.com/public/incoming/pm5vnf/article71381394.ece/alternates/LANDSCAPE_1200/Workers_2.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/in-karnataka-employment-generation-under-vb-g-ram-g-yet-to-pick-up/article71380795.ece",
-    "time": "2026-08-23T14:55:47.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sooryavanshi's red-ball struggles continue; Gharami's 146 leads East Zone's recovery",
     "desc": "Sudip Gharami smashed 146 as East Zone recovered strongly to reach 355/6 against North East on the opening day of the Duleep Trophy. Gharami shared a 150-run sixth-wicket stand with Shahbaz Ahmed, who remained unbeaten on 100. Kumar Kushagra also scored 55, while Jotin Singh took 3/55. East Zone finished the day in a strong position.",
@@ -133,15 +160,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/duleep-trophy-vaibhav-sooryavanshis-red-ball-struggles-continue-sudip-gharamis-146-leads-east-zones-recovery/articleshow/133441354.cms",
     "time": "2026-08-23T14:51:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Internal inquiry on into police 'hosting' ED attack case-accused during official Onam celebrations",
-    "desc": "Social media reels of CPI(M)’s former Corporation councillor and prime accused in the case, along with other accused, taking part in the celebrations in front of the station house went viral. The episode became a major source of embarrassment for the UDF government. Home Minister Ramesh Chennithala ordered an intelligence inquiry",
-    "img": "https://th-i.thgim.com/public/incoming/4fwa4n/article71380903.ece/alternates/LANDSCAPE_1200/EDRAID_NH27EDraid18.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/internal-probe-faults-museum-police-for-hosting-ed-attack-case-accused-during-official-onam-celebrations-in-keralam/article71380874.ece",
-    "time": "2026-08-23T14:41:01.000Z"
   },
   {
     "cat": "Politics",
@@ -178,15 +196,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/how-ananta-maharaj-row-exposed-old-fault-lines-over-netaji/articleshow/133440770.cms",
     "time": "2026-08-23T14:28:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala HC allows breast cancer patient to be impleaded in case on 'exorbitant’ prices of medicines",
-    "desc": "The initial petition, filed by another patient diagnosed with HR Positive HER2-Negative Metastatic Breast Cancer, sought directives to the Centre to take over the medication’s patent and make it available at the lowest price possible. She died when the case was pending in court. Another patient then sought to be impleaded in the plea.",
-    "img": "https://th-i.thgim.com/public/incoming/jljtd5/article71381499.ece/alternates/LANDSCAPE_1200/iStock-2261177990%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-hc-allows-breast-cancer-patient-to-be-impleaded-in-case-on-exorbitant-prices-of-medicines/article71381039.ece",
-    "time": "2026-08-23T14:25:13.000Z"
   },
   {
     "cat": "Sports",
@@ -304,15 +313,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/dropped-on-0-and-1-devdutt-padikkal-makes-sri-lanka-pay-with-another-century-in-colombo/articleshow/133438511.cms",
     "time": "2026-08-23T11:06:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'There won't be a teleprompter': Sanjay Raut dares PM Modi, Shah to sing full Vande Mataram",
-    "desc": "Sanjay Raut challenged Prime Minister Modi and Amit Shah to sing Vande Mataram without teleprompters. He also questioned the government's economic record and rising inflation. The BJP condemned the Congress decision to sing only two stanzas of the national song. Congress leaders accused the BJP of politicizing patriotism and nationalism for political gain. Both parties are trading charges over the national song's recitation and its significance.",
-    "img": "https://static.toiimg.com/photo/msid-133438259,imgsize-1487839.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/there-wont-be-a-teleprompter-sanjay-raut-dares-pm-modi-shah-to-sing-full-vande-mataram/articleshow/133438163.cms",
-    "time": "2026-08-23T10:50:20.000Z"
   },
   {
     "cat": "Sports",
@@ -556,24 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/its-finally-real-national-treasure-3-finally-happening-as-jon-turteltaub-confirms-script-is-approved-and-nicolas-cage-may-return/articleshow/133435887.cms",
     "time": "2026-08-23T07:05:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Arhaan Khan turns social media trolling over hair loss speculation into a joke by saying",
-    "desc": "Arhaan Khan humorously responded to social media users speculating about his hair loss. He shifted focus to his enjoyable Bali holiday pictures and experiences. The young filmmaker-in-the-making shared moments with friends and family during his trip. Internet users mistook his beanie-covered hair for signs of balding. Arhaan chose a lighthearted approach instead of engaging with the online chatter.",
-    "img": "https://static.toiimg.com/photo/msid-133435885,imgsize-855029.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/beanie-hair-ko-balding-bol-diya-arhaan-khan-turns-social-media-trolling-over-hair-loss-speculation-into-a-joke-by-saying-koi-nahi-enjoy-my-bali-photos/articleshow/133435867.cms",
-    "time": "2026-08-23T07:01:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Saiyami says 'A Rs 1,000 cr film doesn't mean you get respect'",
-    "desc": "Saiyami Kher emphasizes the importance of an actor's reputation over box office performance. For her, the audience's respect is far more significant than the monetary earnings from a film. The digital debut of 'Ghoomer' allowed it to reach a broader viewer base. She appreciates filmmakers who endorse her talent based on merit, recognizing the importance of balancing business with artistic values.",
-    "img": "https://static.toiimg.com/photo/msid-133435658,imgsize-539645.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/haiwaan-actress-saiyami-kher-opens-up-on-on-ghoomer-failure-and-bollywoods-box-office-obsession-a-rs-1000-crore-film-doesnt-mean-you-get-respect/articleshow/133435612.cms",
-    "time": "2026-08-23T06:38:10.000Z"
   },
   {
     "cat": "World",
@@ -898,5 +880,23 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/bangalore/botticellis-madonna-and-child-comes-to-bengaluru/article71367741.ece",
     "time": "2026-08-20T09:08:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Niu Lai’: Chinese animation becomes most profitable film in cinema history",
+    "desc": "Chinese animated film ‘Niu Lai’ has become the most profitable film in cinema history by box-office-to-production-cost ratio, turning a reported production budget of only a few hundred dollars into more than $4.3 million in theatrical ticket sales",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/ro45m4/article71368134.ece/alternates/LANDSCAPE_1200/HQCIlxDWoAAnZmk.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/niu-lai-chinese-animation-becomes-most-profitable-film-in-cinema-history/article71368141.ece",
+    "time": "2026-08-20T07:22:30.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Club Kid’ trailer: Jordan Firstman’s Cannes breakout brings his wild queer comedy to the screen",
+    "desc": "A24 has released the first trailer for Jordan Firstman’s feature directorial debut, starring the comedian as a washed-up New York party promoter whose chaotic life is upended when he discovers he has a 10-year-old son he never knew existed",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/6x5m2g/article71368086.ece/alternates/LANDSCAPE_1200/CLUB-KID-Jordan-FIRSTMAN-.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/club-kid-trailer-jordan-firstmans-cannes-breakout-brings-his-wild-queer-comedy-to-the-screen/article71368088.ece",
+    "time": "2026-08-20T06:58:43.000Z"
   }
 ];
