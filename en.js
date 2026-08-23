@@ -1,6 +1,222 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Bret Michaels cancels all tour dates to recover from kidney stone surgery",
+    "desc": "Bret Michaels has postponed all forthcoming tour engagements to focus on his recovery. Following recent surgery to remove kidney stones, medical professionals have recommended an extended period of rest for him to fully recuperate. This decision affects his scheduled performances and industry anniversary events. Michaels extends his sincere apologies to fans for these unexpected cancellations.",
+    "img": "https://static.toiimg.com/photo/msid-133433781,imgsize-291627.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/bret-michaels-cancels-the-remainder-of-the-live-and-amplified-tour-as-he-recovers-from-his-kidney-stone-surgery-he-will-be-taking-the-next-several-months-off-to-heal/articleshow/133433751.cms",
+    "time": "2026-08-23T03:14:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shoriful Islam makes history with record seven-wicket haul against Australia",
+    "desc": "Shoriful Islam achieved a historic seven-wicket haul against Australia in the second Test. His exceptional bowling figures of 7/48 marked a significant achievement for Bangladesh cricket. Australia secured a first-innings lead of 146 runs after being bowled out for 210. Earlier, Mitchell Starc's six-wicket haul had restricted Bangladesh to just 64 runs. Bangladesh face a challenging task to avoid defeat.",
+    "img": "https://static.toiimg.com/photo/msid-133433754,imgsize-112606.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shoriful-islam-makes-bangladesh-history-with-record-seven-wicket-haul-against-australia/articleshow/133433725.cms",
+    "time": "2026-08-23T03:10:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Yash sends a strong message on ‘North-South’ comparison at ‘Toxic’ event",
+    "desc": "During a recent event, actor Yash expressed his gratitude towards the Telugu audience, emphasizing the expanding influence of cinema. He highlighted that talent and diligence transcend language barriers, fostering unity among viewers. Yash inspired students to aim high and accept their failures, encouraging the youth to rise above regional differences in the film industry. His much-anticipated project, 'Toxic', is scheduled for release on August 26.",
+    "img": "https://static.toiimg.com/photo/msid-133433731,imgsize-117974.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/dont-take-cinema-too-seriously-yash-advises-students-and-sends-a-strong-message-on-north-south-comparison-at-toxic-pre-release-event/articleshow/133433720.cms",
+    "time": "2026-08-23T03:05:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India face must-win Australia clash, need Netherlands favour to keep World Cup dream alive",
+    "desc": "As the World Cup intensifies, India's women's hockey team prepares for a decisive match against Australia. To keep their championship hopes alive, they require not only a win but also a loss for China against the Netherlands. The team's unwavering spirit hasn't wavered, yet their ongoing struggle to capitalize on scoring chances presents a daunting challenge. India is eager to put forth a formidable effort in this critical encounter.",
+    "img": "https://static.toiimg.com/photo/msid-133433727,imgsize-222060.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/india-face-must-win-australia-clash-need-netherlands-favour-to-keep-world-cup-dream-alive/articleshow/133433718.cms",
+    "time": "2026-08-23T03:04:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Abinaya Rajarajan breaks U20 national record with stunning 11.34s in Bhubaneswar",
+    "desc": "During the World Athletics Continental Tour Silver meet, Abinaya Rajarajan made headlines by breaking the U20 national record in the women's 100m sprint. Rohit Yadav also distinguished himself by winning the men's javelin title with a remarkable throw. Furthermore, both Ancy Sojan and Murali Sreeshankar emerged victorious in their long jump events, contributing to a series of impressive displays by Indian athletes throughout the competition.",
+    "img": "https://static.toiimg.com/photo/msid-133433601,imgsize-98938.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/abinaya-rajarajan-breaks-u20-national-record-with-stunning-11-34s-in-bhubaneswar/articleshow/133433592.cms",
+    "time": "2026-08-23T02:59:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Medical device makers flag new sterilisation labelling rule",
+    "desc": "New government rules require medical device firms to print outsourced sterilisation licence numbers. This change, effective six months after August 14, 2026, faces industry opposition. Manufacturers fear increased compliance burdens and potential export delays. The Association of Indian Medical Device Industry seeks reconsideration of this new labelling requirement. They emphasize ensuring patient safety without hindering export competitiveness.",
+    "img": "https://static.toiimg.com/photo/msid-133433670,imgsize-63460.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/medical-device-makers-flag-new-sterilisation-labelling-rule/articleshow/133433651.cms",
+    "time": "2026-08-23T02:53:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Cold medicines for under-4s face curbs over safety concerns",
+    "desc": "The Centre has restricted combination cold medicines for young children. Fixed-dose combinations of chlorpheniramine maleate and phenylephrine hydrochloride are now banned. These combinations pose risks and safer alternatives are available for children. Manufacturers must now prominently display warnings on all affected drug labels. This regulatory action follows extensive reviews and recommendations from expert committees.",
+    "img": "https://static.toiimg.com/photo/msid-133433636,imgsize-213074.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cold-medicines-for-under-4s-face-curbs-over-safety-concerns/articleshow/133433621.cms",
+    "time": "2026-08-23T02:48:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Pluto' OTT release: When and where to watch",
+    "desc": "Neeraj Madhav's film 'Pluto' is officially streaming on OTT, offering audiences a unique blend of comedy and science fiction. Initially released in theaters on July 30, the film explores the engaging journey of a young man who encounters a stranded alien. With its comedic flair and deeper emotional contexts, 'Pluto' invites viewers to dive into an extraordinary tale that seamlessly bridges otherworldly experiences with relatable human moments.",
+    "img": "https://static.toiimg.com/photo/msid-133433640,imgsize-626356.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/pluto-ott-release-date-when-and-where-to-watch-neeraj-madhav-althaf-salims-sci-fi-comedy/articleshow/133433626.cms",
+    "time": "2026-08-23T02:47:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Man United, Tottenham suffer shock defeats in season opener",
+    "desc": "Manchester United and Tottenham Hotspur experienced surprising opening-day Premier League losses. Promoted Hull City defeated Manchester United 2-0, while Brentford secured a 3-0 victory over Tottenham. Other promoted clubs like Ipswich and Leeds United achieved victories in their respective matches. Everton also began their campaign with a win against Crystal Palace. Arsenal had already secured a win in their title defence.",
+    "img": "https://static.toiimg.com/photo/msid-133433614,imgsize-183182.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/epl/top-stories/premier-league-manchester-united-tottenham-hotspur-suffer-shock-defeats-in-season-opener/articleshow/133433589.cms",
+    "time": "2026-08-23T02:42:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sunny Deol's Batwara 1947 crosses Rs 51 cr worldwide on Day 9",
+    "desc": "In its ninth day of release, Batwara 1947 managed to earn Rs 1.15 crore, bringing its total net collection in India to Rs 35.50 crore. Additionally, the film's overseas earnings accounted for Rs 9.00 crore, resulting in a global gross of Rs 51.12 crore. Unfortunately, the film directed by Rajkumar Santoshi did not achieve the expected success at the box office.",
+    "img": "https://static.toiimg.com/photo/msid-133433588,imgsize-1269811.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/batwara-1947-box-office-collection-day-9-sunny-deol-and-preity-zinta-starrer-crosses-rs-51-crore-worldwide-amid-awarapan-2-clash/articleshow/133433584.cms",
+    "time": "2026-08-23T02:35:30.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. lawmakers  to Trump administration",
+    "desc": "“Under Trump, ICE has hired unqualified officers and agents and rushed them through training programs with reduced use of force instruction. Many of these officers and agents should not have been hired at all, much less let loose on American streets with a badge, a gun, and electric shock gloves,” the Indian American Congressman Shri Thanedar said.",
+    "img": "https://th-i.thgim.com/public/incoming/xuaqiw/article71380054.ece/alternates/LANDSCAPE_1200/2026-08-11T142841Z_1080413838_RC2DWMA8JQRI_RTRMADP_3_USA-ELECTIONS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/stop-electric-shock-glove-plan-for-ice-us-lawmakers-to-trump-administration/article71380045.ece",
+    "time": "2026-08-23T02:34:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Siddharth REACTS to hypermasculinity in Indian cinema",
+    "desc": "In a refreshing take, actor Siddharth advocates for softer masculinity within Indian cinema. Recognized for his consistent portrayal of male protagonists, he acknowledges the importance of hypermasculine roles but pushes for wider representation. His recent project, 'Operation Safed Sagar,' illustrates young boys on a journey of self-discovery, exploring heroism and courage in a relatable light.",
+    "img": "https://static.toiimg.com/photo/msid-133433575,imgsize-632740.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/operation-safed-sagar-actor-siddharth-reacts-to-hypermasculinity-in-indian-cinema-my-kind-of-masculinity-will-always-have-its-place/articleshow/133433542.cms",
+    "time": "2026-08-23T02:32:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "No work, no study, no training: 8.7 crore Indian youth caught in a career gap",
+    "desc": "With over eight crore Indian youth facing unemployment, a lack of vital skills hampers their job prospects. Financial barriers restrict many students from accessing crucial paid training programs, while graduates frequently settle for low-paying positions to assist their families financially. There is a stark career mismatch, as only a fraction of graduates find appropriate roles, making subsidized training and earn-as-you-learn opportunities essential for career advancement.",
+    "img": "https://static.toiimg.com/photo/msid-133433563,imgsize-52900.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-work-no-study-no-training-8-7-crore-indian-youth-caught-in-a-career-gap/articleshow/133433540.cms",
+    "time": "2026-08-23T02:31:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Two students injured in a mishap at Yash’s ‘Toxic’ pre-release event",
+    "desc": "During the pre-release event of Yash's highly anticipated film 'Toxic' in Hyderabad, a sound and lighting rig unexpectedly collapsed, resulting in injuries for two students, one of whom lost consciousness. Yash paused his address to inquire about their well-being, drawing attention to significant safety and crowd management issues at such large-scale events, casting a shadow over the exciting launch celebration.",
+    "img": "https://static.toiimg.com/photo/msid-133433485,imgsize-99067.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/two-students-injured-in-a-mishap-at-yashs-toxic-pre-release-event-sound-setup-collapses-at-hyderabad-venue/articleshow/133433473.cms",
+    "time": "2026-08-23T02:16:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Mychal Threets shares mental health update",
+    "desc": "Mychal Threets, beloved host of Reading Rainbow, recently opened up about his five-day stay in a psychiatric facility for mental health reasons. He expressed deep apologies to his fans for any worry caused and extended heartfelt thanks to his support network, including staff and loved ones, as he continues to navigate his mental health journey with optimism and hope.",
+    "img": "https://static.toiimg.com/photo/msid-133433400,imgsize-283407.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/reading-rainbow-mychal-threets-reassures-fans-he-is-fine-after-a-5-day-psychiatric-hold-i-am-not-okay-but-i-have-hope/articleshow/133433307.cms",
+    "time": "2026-08-23T02:01:54.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran security chief threatens neighbors against new U.S. economic measures",
+    "desc": "Mohsen Rezaei said Iran would target oil-shipping routes out of the Persian Gulf - alternatives to the Strait of Hormuz - if neighbours join what he described as the economic war against Iran; those neighbours would be considered enemies and “we will target their interests,” he said.",
+    "img": "https://th-i.thgim.com/public/incoming/la5u29/article71380032.ece/alternates/LANDSCAPE_1200/2026-08-10T075525Z_2037129379_RC2A6MAKWMCJ_RTRMADP_3_IRAN-CRISIS-REZAEI.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/iran-security-chief-threatens-neighbors-against-new-us-economic-measures/article71380026.ece",
+    "time": "2026-08-23T01:52:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Anbe Diana' OTT release: When and where to watch",
+    "desc": "Anbe Diana will premiere on August 28, 2026. This romantic comedy follows a relationship between different cultural backgrounds. The film stars Pari Elavazhagan and Ramya Ranganathan in lead roles. It received a 3 out of 5 rating from ETimes for its comedy. The movie's story focuses on family opposition and traditional expectations.",
+    "img": "https://static.toiimg.com/photo/msid-133433336,imgsize-545544.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/anbe-diana-ott-release-confirmed-when-and-where-to-watch-pari-elavazhagan-ramya-ranganathans-film-online/articleshow/133433317.cms",
+    "time": "2026-08-23T01:48:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Spider-Man' grosses over Rs 575 crore in India on Day 24",
+    "desc": "Brand New Day is making waves at Indian box offices, having surpassed four hundred crore rupees in net earnings. As it approaches the five hundred crore milestone domestically, the film continues to shine globally, with total earnings exceeding two billion US dollars. This blockbuster is enjoying remarkable success even in its fourth week of release.",
+    "img": "https://static.toiimg.com/photo/msid-133433261,imgsize-510092.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/spider-man-brand-new-day-box-office-collection-day-24-tom-holland-and-zendaya-starrer-grosses-over-rs-575-crore-in-india-crosses-usd-2-06-billion-worldwide/articleshow/133433254.cms",
+    "time": "2026-08-23T01:34:09.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Canada retaliates as trade war with U.S. escalates",
+    "desc": "Negotiations between the neighbouring countries broke down on August 21 in Washington, putting into force new 50% U.S. tariffs impacting about $20 billion worth of goods, or 5.5% of Canadian exports to the United States",
+    "img": "https://th-i.thgim.com/public/incoming/w75w72/article71379058.ece/alternates/LANDSCAPE_1200/2026-08-22T170244Z_675973054_RC2R3NALRP00_RTRMADP_3_USA-TRUMP-TARIFFS-CANADA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/canada-retaliates-as-trade-war-with-us-escalates/article71379056.ece",
+    "time": "2026-08-23T01:26:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Yash and Dil Raju to team up for Telugu movie?",
+    "desc": "Kannada superstar Yash is rumored to be teaming up with renowned Telugu producer Dil Raju for an exciting new project. Raju has shown great eagerness to collaborate with Yash, who is currently managing a packed schedule. The actor also opened up about the widespread collaboration for his upcoming venture 'Toxic'.",
+    "img": "https://static.toiimg.com/photo/msid-133433234,imgsize-194529.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/yash-and-dil-raju-to-team-up-for-telugu-movie-producer-hints-at-possible-collaboration-video/articleshow/133433227.cms",
+    "time": "2026-08-23T01:13:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Sowing the seeds of a solar power intervention",
+    "desc": "India’s emerging agrivoltaics model enables farmers to grow crops beneath solar panels, offering a way to generate electricity while diversifying income. Vanita Bhatnagar speaks to farmers and agri-researchers to find out how high upfront costs, financing constraints, and uneven policy support are preventing more farmers from taking up projects beyond the pilots",
+    "img": "https://th-i.thgim.com/public/incoming/ni01ye/article71378859.ece/alternates/LANDSCAPE_1200/6744_14_8_2026_17_39_51_1_02_KUNDANPURA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/rajasthan/sowing-the-seeds-of-a-solar-power-intervention/article71378860.ece",
+    "time": "2026-08-23T01:12:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pujara backs Padikkal at No. 3, says Sai Sudharsan must remain in India’s Test plans",
+    "desc": "Cheteshwar Pujara reminisces about his remarkable innings at the Sinhalese Sports Club back in 2015, expressing admiration for Devdutt Padikkal's potential to fill the number three batting position. He emphasizes that Padikkal must deliver consistent performances to solidify his role. Additionally, Pujara advocates for considering Sai Sudharsan for upcoming Test selections, noting that Padikkal can establish himself with impressive displays against formidable teams.",
+    "img": "https://static.toiimg.com/photo/msid-133433225,imgsize-79318.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/pujara-backs-padikkal-at-no-3-says-sai-sudharsan-must-remain-in-indias-test-plans/articleshow/133433220.cms",
+    "time": "2026-08-23T01:08:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Akhilesh’s ‘25 paise’ remark triggers row with RLD, Mayawati demands apology",
+    "desc": "RLD chief Jayant Chaudhary said, “If you had to use some cheap words in the political battle, you could have said it by taking my name. There was no issue…Targeting the Jat community and saying we taught them ABCD?”",
+    "img": "https://th-i.thgim.com/public/incoming/70gg30/article71376612.ece/alternates/LANDSCAPE_1200/PTI08_11_2026_000081A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/akhilesh-must-apologise-to-jats-for-insulting-family-of-charan-singh-mayawati/article71376609.ece",
+    "time": "2026-08-23T01:03:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India seek 2-0 sweep: Gill, Jaiswal look to bounce back; Kuldeep to miss out?",
+    "desc": "In the upcoming second Test, India strives to maintain their winning momentum. Padikkal and Pant showcased impressive performances in the previous match, while captain Gill and Jaiswal are set on enhancing their scores in Colombo. The selectors are faced with the dilemma of choosing between Kuldeep Yadav and Saransh Jain. A triumph would significantly enhance India's standing in the World Test Championship.",
+    "img": "https://static.toiimg.com/photo/msid-133433205,imgsize-108708.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/india-seek-2-0-sweep-shubman-gill-yashasvi-jaiswal-look-to-bounce-back-kuldeep-to-miss-out/articleshow/133433181.cms",
+    "time": "2026-08-23T00:58:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "'Irumudi' BO day 2: India net for Ravi Teja's film reaches Rs 31.40 Cr",
     "desc": "Ravi Teja's latest action drama, 'Irumudi', witnessed a positive trend in its box office collections on the second day of release, with earnings surpassing Rs 31 crore in domestic markets. The total worldwide gross now stands at Rs 47.45 crore, showcasing significant contributions from the Telugu version. Andhra Pradesh and Telangana emerged as the dominant regions driving this success.",
     "img": "https://static.toiimg.com/photo/msid-133433168,imgsize-398252.cms",
@@ -36,15 +252,6 @@ const newsData_en = [
     "time": "2026-08-23T00:26:49.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Sowing the seeds of a solar power intervention",
-    "desc": "India’s emerging agrivoltaics model enables farmers to grow crops beneath solar panels, offering a way to generate electricity while diversifying income. Vanita Bhatnagar speaks to farmers and agri-researchers to find out how high upfront costs, financing constraints, and uneven policy support are preventing more farmers from taking up projects beyond the pilots",
-    "img": "https://th-i.thgim.com/public/incoming/ni01ye/article71378859.ece/alternates/LANDSCAPE_1200/6744_14_8_2026_17_39_51_1_02_KUNDANPURA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/rajasthan/sowing-the-seeds-of-a-solar-power-intervention/article71378860.ece",
-    "time": "2026-08-23T00:16:53.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Bethlehem Kudumba Unit' BO day 2 vs 'Khalifa'",
     "desc": "Bethlehem Kudumba Unit saw a substantial increase in collections on its second day. The film's India net collection reached twelve point zero five crore rupees. Khalifa experienced a decline in theatrical earnings on its third day. Its India net collection now stands at nine point six five crore rupees. Bethlehem Kudumba Unit has taken the lead over Khalifa in box office performance.",
@@ -52,15 +259,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/bethlehem-kudumba-unit-box-office-day-2-vs-khalifa-nivin-pauly-mamitha-baijus-film-hits-rs-37-25-cr-worldwide/articleshow/133433074.cms",
     "time": "2026-08-23T00:08:40.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Canada retaliates as trade war with U.S. escalates",
-    "desc": "Negotiations between the neighbouring countries broke down on August 21 in Washington, putting into force new 50% U.S. tariffs impacting about $20 billion worth of goods, or 5.5% of Canadian exports to the United States",
-    "img": "https://th-i.thgim.com/public/incoming/w75w72/article71379058.ece/alternates/LANDSCAPE_1200/2026-08-22T170244Z_675973054_RC2R3NALRP00_RTRMADP_3_USA-TRUMP-TARIFFS-CANADA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/canada-retaliates-as-trade-war-with-us-escalates/article71379056.ece",
-    "time": "2026-08-22T22:11:26.000Z"
   },
   {
     "cat": "Sports",
@@ -261,24 +459,6 @@ const newsData_en = [
     "time": "2026-08-22T16:15:50.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "3,289 forest offence cases registered in Chamarajanagar forest circle since 2010-11",
-    "desc": "According to the data, the highest number of cases, 2,256, was registered in the M.M. Hills Wildlife Division, followed by 793 cases in the BRT Tiger Reserve and 240 cases in the Cauvery Wildlife Division",
-    "img": "https://th-i.thgim.com/public/incoming/2q8d9o/article71378595.ece/alternates/LANDSCAPE_1200/_KMK5066.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/3289-forest-offence-cases-registered-in-chamarajanagar-forest-circle-since-2010-11/article71374406.ece",
-    "time": "2026-08-22T16:03:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "In 1983, Shekhar Kapur's ‘Masoom’ opened to an empty theatre",
-    "desc": "Shekhar Kapur revealed the unforeseen journey of his first film, Masoom. Initially, theaters were nearly empty, and distributors contemplated pulling out. Yet, through powerful word of mouth, the film experienced a remarkable turnaround, becoming a cherished cult classic. Now, Kapur is eagerly working on a sequel to the iconic 1983 film, reigniting interest in its story.",
-    "img": "https://static.toiimg.com/photo/msid-133427246,imgsize-400910.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/in-1983-shekhar-kapurs-directorial-debut-masoom-opened-to-an-empty-theatre-but-later-was-crowned-as-a-cult-classic-there-were-only-two-people-and-one-of-them-was-me/articleshow/133427132.cms",
-    "time": "2026-08-22T15:54:15.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "From tape-ball to 'dream of Harmanpreet’s wicket', Maryam follows her father’s dream",
     "desc": "Hong Kong's vice-captain Maryam Bibi is gearing up for a pivotal challenge as she faces India. Her cricketing journey began with tape-ball games and has evolved into representing her nation on a larger stage. With aspirations to honor her father's dream, Bibi sees the match not only as a competitive opportunity but also as a source of inspiration for aspiring young female cricketers.",
@@ -304,24 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sarabhai-vs-sarabhai-actor-rajesh-kumar-was-in-rs-2-crore-debt-before-saiyaara-as-left-acting-for-farming-on-sadhgurus-advice-because-of-his-grace-i-wont-call-it-failure/articleshow/133426094.cms",
     "time": "2026-08-22T14:28:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'You don't belong to anyone else, but yourself': Rahul Gandhi's  message to young women",
-    "desc": "During a dynamic gathering in Pune, Rahul Gandhi championed women's independence and personal identity. However, discord erupted between student groups, necessitating police intervention and resulting in multiple arrests. Political factions exchanged blame over allegations of disrupted activities and financial support. The primary focus of the event was to confront significant student challenges, such as job scarcity and examination irregularities, against the backdrop of rising political tension related to youth agendas.",
-    "img": "https://static.toiimg.com/photo/msid-133426162,imgsize-58100.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/you-dont-belong-to-anyone-else-but-yourself-rahul-gandhis-message-to-young-women/articleshow/133426026.cms",
-    "time": "2026-08-22T14:24:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kamal Amrohi charged Rs 10,000 per scene as a writer for 'Mughal-E-Azam'",
-    "desc": "Tajdar Amrohi insists that his father was instrumental in crafting the dialogues for the timeless classic Mughal-E-Azam. He highlights that Kamal Amrohi received a fee of ten thousand rupees for each scene, which significantly raised the stature of screenwriters within the Indian cinema landscape. In total, he earned two lakh rupees for his contributions, yet the family continues to debate the film's writing credits.",
-    "img": "https://static.toiimg.com/photo/msid-133425823,imgsize-335246.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kamal-amrohi-charged-rs-10000-per-scene-as-a-writer-for-mughal-e-azam-went-on-to-earn-rs-2-lakh-for-the-film-reveals-his-son-opens-up-on-fall-out-with-k-asif/articleshow/133425683.cms",
-    "time": "2026-08-22T14:00:39.000Z"
   },
   {
     "cat": "Sports",
@@ -352,33 +514,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Govinda SPOTTED outside hospital amid Sunita's 2nd marriage claims",
-    "desc": "Recently, Govinda was spotted departing a Mumbai hospital amidst ongoing marital difficulties. His manager has refuted speculations regarding a supposed second marriage. Sunita Ahuja mentioned that she withdrew her divorce petition due to these rumored plans. However, Govinda's team has expressed disbelief, labeling Sunita's assertions as baseless. The couple's relationship woes remain a hot topic for public conversation.",
-    "img": "https://static.toiimg.com/photo/msid-133424328,imgsize-425761.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govinda-spotted-outside-mumbai-hospital-amid-sunita-ahujas-second-marriage-claims-says-theek-hoon/articleshow/133424274.cms",
-    "time": "2026-08-22T12:26:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Saif Ali Khan compares Priyadarshan to father Tiger Pataudi",
-    "desc": "Saif Ali Khan opens up about his much-anticipated film 'Haiwaan', praising director Priyadarshan and likening him to his late father, Tiger Pataudi. He also shares his thoughts on the latest viral memes dubbing him as 'Gen Z before Gen Z'. Marking their seventh collaboration, 'Haiwaan' stars Akshay Kumar alongside Khan and is set to hit theaters on September 11, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-133423796,imgsize-446180.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saif-ali-khan-compares-haiwaan-director-priyadarshan-to-his-father-tiger-pataudi-both-cricketers-and-both-lost-an-eye-but-/articleshow/133423764.cms",
-    "time": "2026-08-22T12:01:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kangana calls Karisma the 'Original Fashionista'",
-    "desc": "Kangana Ranaut shared a throwback picture on Instagram, calling Karisma Kapoor the \"original fashionista\" she \"worshipped\" in the 90s. She also declared herself \"Gen Alpha\" in a separate post. Kangana was last seen in 'Bharat Bhagya Vidhaata', which streamed on OTT August 14, and will next appear in 'Queen 2'.",
-    "img": "https://static.toiimg.com/photo/msid-133423775,imgsize-369989.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-calls-karisma-kapoor-the-original-fashionista-says-she-worshipped-her-in-the-90s-shares-rare-pic/articleshow/133423739.cms",
-    "time": "2026-08-22T12:01:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Inat and the recipe for being Djokovic",
     "desc": "What makes Novak Djokovic what he is? He needs fear and anger for his fangs; he is a gentle family man, and he’s going for tennis glory. A riveting new documentary reveals some fascinating answers",
     "img": "https://th-i.thgim.com/public/society/zdp5d8/article71377360.ece/alternates/LANDSCAPE_1200/GettyImages-2160307313.jpg",
@@ -394,60 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/kuldeep-yadav-or-saransh-jain-the-subplot-thickens-as-colombo-braces-for-a-different-script/articleshow/133422963.cms",
     "time": "2026-08-22T11:32:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Suresh recalls struggling for son Vivek Oberoi's debut",
-    "desc": "Suresh Oberoi recalled struggling to get son Vivek his debut in 'Company', going door to door with his pictures. Vivek, however, claimed he landed the role on his own merit as \"Vivek Anand,\" facing rejections before RGV cast him. Vivek's next project is Nitesh Tiwari's 'Ramayana'.",
-    "img": "https://static.toiimg.com/photo/msid-133423041,imgsize-218430.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/suresh-oberoi-recalls-struggling-for-son-vivek-oberois-debut-went-door-to-door/articleshow/133423002.cms",
-    "time": "2026-08-22T11:21:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Puneet Vashisht reveals his scenes were CUT from SRK's 'Josh'",
-    "desc": "Puneet Vashisht revealed that his vibrant performance in 'Josh' unintentionally led to reduced screen time, overshadowing Shah Rukh Khan. He trained the Bollywood icon in dance, a twist that inadvertently attracted attention towards him. Reflecting on the industry's challenges, Vashisht candidly discussed the rise of nepotism and his battles with depression and alcoholism, emphasizing his growth and lessons learned from a tumultuous time.",
-    "img": "https://static.toiimg.com/photo/msid-133422916,imgsize-355702.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/puneet-vashisht-reveals-his-scenes-were-removed-from-shah-rukh-khans-josh-had-trained-shahrukh-bhai-and-i-was-cut-out/articleshow/133422822.cms",
-    "time": "2026-08-22T11:16:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Test cricket is dying': Chaminda Vaas urges boards to protect format",
-    "desc": "The former Sri Lanka pacer made the comments amid a growing debate over the future of bilateral cricket and the increasing importance of franchise-based T20 leagues. Vaas, who took 400 wickets in ODIs and 355 in Tests, said cricket boards need to work together to protect the traditional formats.",
-    "img": "https://static.toiimg.com/photo/msid-133422766,imgsize-38928.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/test-cricket-is-dying-chaminda-vaas-urges-boards-to-protect-format/articleshow/133422464.cms",
-    "time": "2026-08-22T11:05:34.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "After calling Gen Z 'Gutter Generation', Kangana now says she's 'Gen Alpha'",
-    "desc": "Kangana Ranaut, after calling Gen Z protesters \"gutter generation,\" now declares she \"identifies as Gen Alpha\" in a new Instagram post. She had earlier softened her stance, calling Gen Z \"assets of the country.\" Kangana was last seen in 'Bharat Bhagya Vidhaata' and will soon debut in Hollywood with 'Blessed Be the Evil'.",
-    "img": "https://static.toiimg.com/photo/msid-133422753,imgsize-104324.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-calling-gen-z-gutter-generation-kangana-ranaut-now-says-shes-gen-alpha/articleshow/133422703.cms",
-    "time": "2026-08-22T11:04:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Singer Shaan, his wife buy Rs 48 cr, 6,300 sq ft Bandra apartment",
-    "desc": "Singer Shaan and wife Radhika Mukherjee bought a Rs 48 crore luxury home in Mumbai. This sprawling residence merges three apartments across one and a half floors. The purchase maintains Shaan's family connection to the Bandra neighborhood. Shaan also reunited with Saif Ali Khan for a new song after twenty years. The song is for the upcoming film 'Haiwaan' directed by Priyadarshan.",
-    "img": "https://static.toiimg.com/photo/msid-133422381,imgsize-597195.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/singer-shaan-and-his-wife-buy-rs-48-crore-6300-sq-ft-bandra-apartment-deets-inside/articleshow/133422344.cms",
-    "time": "2026-08-22T10:48:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Starc, Islam take six each as 18 wickets fall on Day 1",
-    "desc": "Mitchell Starc made a stunning start to the second Test against Bangladesh, taking a wicket with the first ball of the match before finishing the opening day with six wickets. Bangladesh's Shoriful Islam later matched Starc's six-wicket haul as 18 wickets fell on a dramatic day of Test cricket on Saturday.",
-    "img": "https://static.toiimg.com/photo/msid-133421801,imgsize-43858.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/aus-vs-ban-2nd-test-mitchell-starc-shoriful-islam-take-six-each-as-18-wickets-fall-on-day-1/articleshow/133421564.cms",
-    "time": "2026-08-22T10:05:22.000Z"
   },
   {
     "cat": "Business",
@@ -496,48 +577,12 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "‘Sooryavanshi hasn’t played as much red-ball cricket’: Dravid’s blunt assessment",
-    "desc": "Rahul Dravid advocates for a well-balanced strategy for aspiring cricketer Vaibhav Sooryavanshi. He points out the crucial role of red-ball cricket alongside white-ball fixtures in a player's development. Such diverse training is anticipated to aid Sooryavanshi's growth. Dravid encourages patience as the youngster starts his professional path, reaffirming the sport's dedication to cultivating future Test cricket players.",
-    "img": "https://static.toiimg.com/photo/msid-133420090,imgsize-834936.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-sooryavanshi-hasnt-played-as-much-red-ball-cricket-rahul-dravids-blunt-assessment-of-test-prospects/articleshow/133419993.cms",
-    "time": "2026-08-22T07:53:11.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Neeraj Chopra finishes second, Pathirage wins title in Lausanne Diamond League",
     "desc": "His 88.05m throw in the second round, which fetched him the second spot in the nine-man star-studded field, was his best after the 88.16m he recorded while winning the Paris Diamond League in June 2025",
     "img": "https://th-i.thgim.com/public/incoming/fs3mpk/article71375344.ece/alternates/LANDSCAPE_1200/Switzerland_Diamond_League_Athletics_58277.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/neeraj-chopra-finishes-second-pathirage-wins-title-in-lausanne-diamond-league/article71375340.ece",
     "time": "2026-08-22T07:31:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Didn't back him': Gill questioned after Kuldeep bowled just 25 overs in Galle",
-    "desc": "Kuldeep bowled only 25 overs across India’s two innings in the Test and took one wicket, while left-arm spinner Manav Suthar and Ravindra Jadeja bowled around 44 overs each and shared 14 wickets. India won the Test by 165 runs.",
-    "img": "https://static.toiimg.com/photo/msid-133419071,imgsize-87146.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/shubman-gill-didnt-back-him-india-captain-questioned-after-kuldeep-yadav-bowled-just-25-overs-in-galle/articleshow/133418822.cms",
-    "time": "2026-08-22T06:44:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sanat Sangwan, a Kohli &amp; Lewis Hamilton fan, ready for next challenge",
-    "desc": "Delhi opener Sanat Sangwan was one of the breakout stars of the 2025-26 Ranji Trophy season. The 25-year-old amassed 828 runs at an average of 69, including three hundreds, and is gearing up for the next big challenge of his career in the upcoming Duleep Trophy, starting from Sunday at the BCCI's Centre of Excellence (CoE) in Bengaluru.",
-    "img": "https://static.toiimg.com/photo/msid-133419179,imgsize-72132.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/duleep-trophy-sanat-sangwan-a-virat-kohli-and-lewis-hamilton-fan-ready-for-next-big-challenge/articleshow/133418395.cms",
-    "time": "2026-08-22T06:13:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Say no to captaincy’: Ex-India cricketer’s big warning for Rishabh Pant",
-    "desc": "Rishabh Pant's comeback to the Delhi Capitals ignites discussions regarding future captaincy. Former batsman Wasim Jaffer advises Pant to concentrate on regaining his batting form rather than taking on leadership duties just yet. Meanwhile, Axar Patel's captaincy is under the microscope following a lackluster season, with KL Rahul emerging as a possible alternative for the captaincy role.",
-    "img": "https://static.toiimg.com/photo/msid-133418700,imgsize-100226.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/say-no-to-captaincy-ex-india-cricketers-big-warning-for-rishabh-pant-after-dc-return/articleshow/133418547.cms",
-    "time": "2026-08-22T06:05:59.000Z"
   },
   {
     "cat": "Business",
@@ -556,15 +601,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/hockey/womens-hockey-world-cup-india-goes-down-fighting-to-netherlands-suffers-first-loss/article71375283.ece",
     "time": "2026-08-22T05:35:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Starc unleashes havoc as Australia bowl Bangladesh out for 64 in second Test",
-    "desc": "After winning the toss, Australia captain Pat Cummins chose to bowl first, and Mitchell Starc made an immediate impact. The left-arm fast bowler finished with 6/12 after completing the sixth-fastest five-wicket haul in Test cricket.",
-    "img": "https://static.toiimg.com/photo/msid-133417084,imgsize-643257.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mitchell-starc-unleashes-havoc-as-australia-bowl-bangladesh-out-for-64-after-darwin-disaster/articleshow/133416924.cms",
-    "time": "2026-08-22T04:04:00.000Z"
   },
   {
     "cat": "Business",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
     "time": "2024-03-12T09:45:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
-    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
-    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
-    "time": "2024-03-11T09:41:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Here’s how much the smartphone costs",
-    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
-    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
-    "time": "2024-03-11T09:36:12.000Z"
   }
 ];
