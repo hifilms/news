@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why is Kuldeep Yadav not playing India vs Sri Lanka 2nd Test in Colombo?",
+    "desc": "Team India took on Sri Lanka in the second Test of the ongoing series between the two sides. The teams met at the Sinhalese Sports Club Ground, Colombo, for the clash on August 23rd, and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-kuldeep-yadav-not-playing-india-vs-sri-lanka-2nd-test-in-colombo-2026-08-23-1052196",
+    "time": "2026-08-23T05:36:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IND vs SL 2nd Test, Day 1 LIVE SCORE: India two down, Devdutt Padikkal key",
+    "desc": "India and Sri Lanka take on each other in the second Test of the ongoing series between the two sides. The teams meet at the Sinhalese Sports Club Ground, Colombo, for the clash, and the game...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-sl-2nd-test-day-1-live-score-india-opt-to-bat-first-in-colombo-hope-for-good-start-in-crucial-clash-1052192",
+    "time": "2026-08-23T04:32:06.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Carlos Alcaraz to pair with Selena Williams to play US Open mixed doubles",
     "desc": "Serena Williams and Carlos Alcaraz will team up in mixed doubles at the 2026 US Open after receiving a wild card from the USTA. The partnership will put both players on court as they return...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/zubin-bharucha-joins-mumbai-indians-after-spending-16-years-with-rajasthan-royals-in-ipl-2026-08-22-1052150",
     "time": "2026-08-22T10:49:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former Australia cricketer hails Vaibhav Sooryavanshi's talent, compares his hype to Adam Gilchrist",
-    "desc": "The Indian team is well into a Test series against Sri Lanka, having won the first Test of the series; the Shubman Gill-led side is hard at work preparing for the second Test, which is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-australia-cricketer-hails-vaibhav-sooryavanshi-s-talent-compares-his-hype-to-adam-gilchrist-2026-08-22-1052143",
-    "time": "2026-08-22T09:23:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bangladesh fightback against resilient Australia as roller coaster of day 1 ends in Mackay",
-    "desc": "Australia and Bangladesh kicked off the second and final Test of their ongoing series. The two sides took on each other at the Great Barrier Reef Arena in Mackay from August 22nd, and it is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bangladesh-fightback-against-resilient-australia-as-roller-coaster-of-day-1-ends-in-mackay-2026-08-22-1052140",
-    "time": "2026-08-22T09:07:00.000Z"
   }
 ];
