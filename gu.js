@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "2027ની વિધાનસભા ચૂંટણી BJPનો નવો ગેમપ્લાન તૈયાર! Gen-Zથી બૂથ સુધી કેવી રીતે બદલાશે રણનીતિ? જાણો",
+    "desc": "ભારતીય જનતા પાર્ટી (BJP)એ આવતા વર્ષે યોજાનારી વિધાનસભા ચૂંટણી અને 2029ની લોકોસભા ચૂંટણી માટે તૈયારીઓ શરૂ કરી દીધી છે. આગામી ચૂંટણીઓમાં યુવા મતદારો ખાસ કરીને 'Gen Z'ને પાર્ટી સાથે જોડવા પર સૌથી વધુ ભાર મૂકવામાં આવ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/bjp-new-game-plan-ready-for-2027-assembly-elections-how-will-the-strategy-change-from-gen-z-to-the-booth-know-488638 ",
+    "time": "2026-08-23T16:40:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ભારતમાં ખાંડ ₹60ને પાર, તો પાકિસ્તાન મોંઘી ખાંડ સસ્તા ભાવે વેચવા મજબૂર! બંને દેશોની કહાની આટલી અલગ કેમ ?",
+    "desc": "ભારતમાં ખાંડની અછત અને વધતી માંગને કારણે ભાવ વધી રહ્યા છે, જ્યારે પાકિસ્તાનમાં સરપ્લસ સ્ટોક અને રોકડની તંગીને કારણે દેશને નુકસાન સાથે ખાંડ વેચવાની ફરજ પડી રહી છે. ત્યારે આ લેખમાં જાણીશું કે પાકિસ્તાન અને ભારતની ખાંડની કહાની આટલી અલગ કેમ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/india-sugar-price-crosses-rs-60-pakistan-sell-costlier-sugar-cheaply-why-488637 ",
+    "time": "2026-08-23T15:53:49.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "0 રન પર જ આઉટ હતો પડિકલ... શ્રીલંકાને આ ભૂલો પડી ગઈ ભારે, ભારતીય બેટ્સમેને ધોળા દિવસે દેખાડ્યા તારા",
     "desc": "ટીમ ઈન્ડિયાનો યુવા બેટ્સમેન દેવદત્ત પડિકલ હાલમાં શ્રીલંકાની ધરતી પર ધૂમ મચાવી રહ્યો છે. છેલ્લી મેચમાં 211 રન અને હવે તેણે કોલંબોમાં ફરી એકવાર વિરોધી ટીમના બોલરોને હંફાવ્યા હતા અને શાનદાર સદી ફટકારી હતી. જો કે, શ્રીલંકા તેને શૂન્ય રને આઉટ કરી શકી હોત, પરંતુ તેમણે કરી આ બે ભૂલો તેમને ભારે પડી ગઈ.",
@@ -304,15 +322,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/which-will-be-the-largest-cities-in-the-world-by-2050-these-two-indian-cities-will-be-included-in-the-top-reveals-the-report-488402 ",
     "time": "2026-08-21T16:01:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "પુત્રને બચાવવા જતા પહાડ પરથી પડવાથી પિતાનું મોત, આઘાતમાં માતાએ પણ ટૂંકાવ્યું જીવન; જાણો સમગ્ર મામલો",
-    "desc": "છત્રપતિ સંભાજીનગરના તિસગાંવ વિસ્તારમાં એક દર્દનાક ઘટના સામે આવી છે. 18 વર્ષનો કુણાલ ચાંદવડે પરેશાન થઈને ખવડ્યા પહાડ પાસે પહોંચી ગયો હતો. માહિતી મળતા તેના માતા-પિતા પણ ત્યાં પહોંચ્યા અને તેને સમજાવવા લાગ્યા. લગભગ ત્રણ કલાક સુધી સમજાવ્યા બાદ પિતા પુત્ર પાસે પહોંચ્યા. બન્ને પહાડ પરથી નીચે પડી ગયા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/father-dies-after-falling-from-mountain-while-trying-to-save-son-mother-also-ends-her-life-in-shock-know-the-entire-matter-488401 ",
-    "time": "2026-08-21T15:25:56.000Z"
   },
   {
     "cat": "Business",
