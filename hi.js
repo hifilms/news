@@ -1,7 +1,16 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Dhruv Jurel smashes second Test ton, shows off signature 'Jai Jawan, Jai Kisan' tattoo to celebrate",
+    "title": "India continue dominant show in Colombo, produce exceptional performances to keep SL at bay on Day 2",
+    "desc": "The Indian team continued their second Test of the ongoing series against Sri Lanka. Day 2 of the clash began with India on a score of 300/5, and the side began the day with Dhruv...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-continue-dominant-show-in-colombo-produce-exceptional-performances-to-keep-sl-at-bay-on-day-2-2026-08-24-1052298",
+    "time": "2026-08-24T12:53:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Dhruv Jurel smashes second Test ton, shows off 'Jai Jawan, Jai Kisan' tattoo to celebrate",
     "desc": "India and Sri Lanka took on each other on day 2 of the ongoing second Test, and the clash saw India continue to showcase their batting prowess. Beginning the day on a score of 300/5,...",
     "img": "",
     "src": "indiatvnews.com",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/gt-coach-not-surprised-with-manav-suthar-s-success-sees-promising-future-for-him-2026-08-23-1052228",
     "time": "2026-08-23T13:02:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Devdutt Padikkal continues red-hot form, smashes consecutive century to keep SL at bay in 2nd Test",
-    "desc": "India and Sri Lanka took on each other in the second Test of the ongoing series. The two sides met at the Sinhalese Sports Club Ground, Colombo, from August 23, and India came in to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/devdutt-padikkal-continues-red-hot-form-smashes-consecutive-century-to-keep-sl-at-bay-in-2nd-test-2026-08-23-1052217",
-    "time": "2026-08-23T11:03:36.000Z"
   }
 ];

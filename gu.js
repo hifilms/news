@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "કાર ખરીદવી છે પણ બજેટ નથી તો ચિંતા ના કરો, આ સરકારી બેંક આપી રહી છે સૌથી સસ્તી લોન !",
+    "desc": "ઓછા વ્યાજ દરે કાર લોન મેળવવા માટે તમારો ક્રેડિટ સ્કોર સારો હોવો જરૂરી છે. 750 કે તેથી વધુનો સ્કોર સારો માનવામાં આવે છે અને બેંકો લોન આપવા માટે સહમત થાય છે. ત્યારે આ લેખમાં જાણીશું કે કઈ બેંક સૌથી ઓછા વ્યાજ દરે લોન આપી રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/car-loan-interest-rates-know-which-bank-is-offering-cheapest-car-loan-488754 ",
+    "time": "2026-08-24T14:13:32.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "સદીનું સૌથી મજબૂત &amp;#039;El Nino&amp;#039; વધારશે ભારતની ચિંતા! નબળા વરસાદ અને રેકોર્ડબ્રેક ગરમીનું જોખમ",
     "desc": "બ્રિટનના હવામાન વિજ્ઞાન વિભાગે પ્રશાંત મહાસાગરમાં વિકસિત થઈ રહેલા મજબૂત El Nino ને લઈને ચેતવણી આપી છે. તેના કારણે 2027 દુનિયાનું સૌથી ગરમ વર્ષ બની શકે છે. તેની ભારત પર શું અસર પડશે, આવો જાણીએ.",
@@ -322,15 +331,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/women-dpl-2026-medhavi-bidhuri-gen-z-cricketer-celebration-viral-488463 ",
     "time": "2026-08-22T10:20:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Inside Story! બેટા બેટા બેટા... માનું આક્રંદ દીકરાને ન પીગળાવી શક્યું, મા-બાપ પણ મરી ગયા, iPhoneની EMI બની મોતનું કારણ",
-    "desc": "બેટા બેટા બેટા.. તું ના મરીશ, હું તારા વિના નહીં જીવી શકું, આખી જિંદગી તારી સાથે જીવીશ પતિને પણ છોડી દઈશ, લોકોએ કહ્યું દીકરા માની જા માની વાત, પણ કૃણાલ ખભા ઉંચા કરીને વારંવાર કહેતો રહ્યો હવે મારી પાસે રસ્તો નથી બચ્યો હવે મારે તો મરવું પડશે. એક iPhoneની EMI ત્રણ લોકોના મોતનું કારણ બની છે. તમારે ઘરે દીકરો કે દીકરી છે તો આ ઈનસાઈડ સ્ટોરી તમારે ખરેખર વાંચવી જોઈએ",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/chhatrapati-sambhajinagar-tragedy-11th-grader-jumps-to-death-over-mobile-phone-emi-dispute-parents-leap-into-ravine-after-him-488460 ",
-    "time": "2026-08-22T10:05:06.000Z"
   },
   {
     "cat": "Entertainment",
