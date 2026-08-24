@@ -1,11 +1,65 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Kashmera Shah backs Sunita Ahuja amid Govinda-Komal dating row",
+    "desc": "Kashmera Shah has spoken about the ongoing controversy surrounding Govinda and Sunita Ahuja, including the divorce buzz and reports linking the actor to actress Komal Rani Swarnkar. At Abhishek Kumar’s birthday party, Kashmera chose to support Sunita and said she would protect her family and stand with the women in it.",
+    "img": "https://static.toiimg.com/photo/msid-133479044,imgsize-85089.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kashmera-shah-backs-sunita-ahuja-after-she-withdrew-divorce-petition-and-claimed-govinda-planned-to-marry-komal-rani-swarnkar-i-will-stand-with-the-women-in-my-family/articleshow/133478970.cms",
+    "time": "2026-08-24T20:46:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress targets Modi government on price rise, 'ravaging’ the pathway from education to employment",
+    "desc": "The party flags rising prices of food items, including sugar, onions, and milk; ‘Where are the jobs after graduation?’ Congress president Mallikarjun Kharge asks, pointing out that graduates account for 67% of unemployed Indians aged 20 to 29 years",
+    "img": "https://th-i.thgim.com/public/incoming/q58h80/article71384422.ece/alternates/LANDSCAPE_1200/Why-didnt-you-GDKGEB8SD.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/congress-targets-modi-government-on-price-rise-ravagingthe-pathway-from-education-to-employment/article71384172.ece",
+    "time": "2026-08-24T20:31:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Remember Malini Sharma from Raaz? She now runs a farmstay",
+    "desc": "Remember Malini Sharma? The actress who became a familiar face in the early 2000s with Raaz, popular music videos and television quietly walked away from Bollywood. More than two decades later, she is living a completely different life in the Sahyadris, where she runs a farmstay, grows vegetables and cooks for guests using produce from her own farm.",
+    "img": "https://static.toiimg.com/photo/msid-133478265,imgsize-67780.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/remember-malini-sharma-from-raaz-she-quietly-disappeared-from-bollywood-years-ago-now-she-runs-a-farmstay-in-the-sahyadris-grows-vegetables-and-cooks-for-guests/articleshow/133478230.cms",
+    "time": "2026-08-24T19:52:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. government actively pursuing V-C appointment issue in courts, Higher Education Minister tells Assembly",
+    "desc": "Presenting the Demand for Grants for his department, he announces that the government will implement a Career Advancement Scheme for teachers of government-aided arts and science colleges, government and government-aided engineering colleges, and polytechnic colleges from September 1",
+    "img": "https://th-i.thgim.com/public/incoming/agy1cu/article71386148.ece/alternates/LANDSCAPE_1200/EDU%20MINISTER%20A1.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-government-actively-pursuing-v-c-appointment-issue-in-courts-higher-education-minister-tells-assembly/article71385848.ece",
+    "time": "2026-08-24T19:20:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Malappuram set for Onam celebrations from August 26",
+    "desc": "The five-day celebrations will include music, theatre, folk and traditional performances. The opening day will feature the Kanaran Show by Harish Kanaran and Nirmal Palazhi, followed by a music programme by Fazila Banu and her troupe.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/malappuram-set-for-onam-celebrations-from-august-26/article71384386.ece",
+    "time": "2026-08-24T19:17:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "the changing face of Chennai’s cinema industry",
+    "desc": "Over 84 years, Kodambakkam, the heart of Tamil cinema, has changed beyond recognition, and so has the Tamil film world. Surviving all odds, cinemas have evolved from a single projector and four intervals to the IMAX of today, while filmmaking has moved on from the expensive process of shooting on celluloid to embracing digital technology",
+    "img": "https://th-i.thgim.com/public/incoming/1logjb/article71384858.ece/alternates/LANDSCAPE_1200/AVM%20STUDIOS%20CINEMA%20PRODUCTION%20HERITAGE%20MUSEUM%20MK%20STALIN%20_08.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/from-celluloid-to-digital-the-changing-face-of-chennais-cinema-industry/article71383278.ece",
+    "time": "2026-08-24T19:10:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Did Kangana slams Kriti over her Raksha Bandhan ad?",
     "desc": "Kriti Sanon's Raksha Bandhan jewellery ad, featuring a bralette-style Indo-Western outfit, sparked backlash for feeling inappropriate for the festival. Kangana Ranaut seemingly reacted on Instagram Stories, calling the ad \"intentionally creepy.\" Netizens slammed Kriti on X, though she hasn't responded. Both actors' recent films, Cocktail 2 and Bharat Bhagya Vidhaata, drew mixed results.",
     "img": "https://static.toiimg.com/photo/msid-133475487,imgsize-198327.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/did-kangana-ranaut-slam-kriti-sanon-over-her-raksha-bandhan-ad-asks-why-would-you-tie-rakhi-in-bikini/articleshow/133475482.cms",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/did-kangana-ranaut-slams-kriti-sanon-over-her-raksha-bandhan-ad-asks-why-would-you-tie-rakhi-in-bikini/articleshow/133475482.cms",
     "time": "2026-08-24T17:57:32.000Z"
   },
   {
@@ -45,33 +99,6 @@ const newsData_en = [
     "time": "2026-08-24T17:11:19.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Madras High Court dismisses petitions for CBI  investigation into fraudulent registration of Palani Math land",
-    "desc": "The Madurai Bench takes note of the CB-CID’s status report on the progress of the investigation and allows the agency to proceed further. Former Palani MLA K.S.N. Venugopalu Senapathi of the AIADMK, chairperson of Palani Municipality R. Uma Maheshwari Pradeep, and Annapoorani Sivakumar were the petitioners",
-    "img": "https://th-i.thgim.com/public/incoming/xl296z/article71385966.ece/alternates/LANDSCAPE_1200/9871_24_8_2026_19_6_2_3_HIGHCOURTBENCH__03.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Madurai/madras-high-court-dismisses-petitions-forcbi-investigation-into-fraudulent-registration-ofpalanimath-land/article71385349.ece",
-    "time": "2026-08-24T17:09:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Govt did not honour promises made for a month, slams govt’s credibility: CJP Spokesperson",
-    "desc": "CJP spokesperson says the government has failed to honour promises made a month ago, questioning its credibility and commitment. The spokesperson criticised the government over the delay and said the unfulfilled assurances have raised concerns among those affected.",
-    "img": "https://th-i.thgim.com/public/incoming/m7z9ya/article71385931.ece/alternates/LANDSCAPE_1200/20260823041L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/shorts/watch-govt-did-not-honour-promises-made-for-a-month-slams-govts-credibility-cjp-spokesperson/article71385934.ece",
-    "time": "2026-08-24T16:53:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "The man behind Maharashtra’s FDA crackdown: Tukaram Mundhe",
-    "desc": "Tukaram Mundhe, Maharashtra’s Food and Drug Administration Commissioner, is leading an aggressive crackdown on food safety violations across the state. From raids on restaurants and food outlets to action against adulteration and unsafe practices, Mundhe’s enforcement drive has drawn widespread attention.",
-    "img": "https://th-i.thgim.com/public/news/national/qsbti6/article71385875.ece/alternates/LANDSCAPE_1200/For%20pressmeet%20%20Speeches%201.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/watch-the-man-behind-maharashtras-fda-crackdown-tukaram-mundhe/article71385878.ece",
-    "time": "2026-08-24T16:50:05.000Z"
-  },
-  {
     "cat": "World",
     "title": "Yemen’s Houthis claim attack on Saudi oil tanker in Red Sea",
     "desc": "The strike was accurate and direct, resulting in a fire breaking out aboard the vessel and causing a number of other ships that were present in the target area to flee, the Houthis said in a statement.",
@@ -99,24 +126,6 @@ const newsData_en = [
     "time": "2026-08-24T16:22:54.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Keralam CM Satheesan urges Modi to halt transfer of Mangaluru from Palakkad railway division",
-    "desc": "In a letter to the Prime Minister, he says the bifurcation of the division, which was announced without any consultation with the State, has caused serious concern in Keralam owing to its ‘long-term implications for the railway infrastructure and development prospects.’",
-    "img": "https://th-i.thgim.com/public/incoming/6bgq5j/article71384801.ece/alternates/LANDSCAPE_1200/VDsatheesan02.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/keralam-cm-satheesan-urges-modi-to-halt-transfer-of-mangaluru-from-palakkad-railway-division/article71384631.ece",
-    "time": "2026-08-24T16:18:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala High Court directs State to consider renaming ‘Mental Health Centres’, citing concerns of stigma",
-    "desc": "Division Bench notes that when other hospitals are not termed 'Centres of Physical Health’, there is no reason for these centres to be tagged as ‘Mental Health Centres’, with the disrepute of catering to a particular kind of disorder or illness.",
-    "img": "https://th-i.thgim.com/public/incoming/w204xz/article71385793.ece/alternates/LANDSCAPE_1200/25tvnearby.one_G10FOV4K0.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-directs-state-to-consider-renaming-mental-health-centres-citing-concerns-of-stigma/article71385380.ece",
-    "time": "2026-08-24T16:10:54.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Iran blacklists 45 tankers over Strait of Hormuz rules amid fresh US sanctions threat",
     "desc": "Iran has blacklisted 45 tankers for breaching its navigation regulations in the Strait of Hormuz. The repercussions for vessels engaging in ship-to-ship transfers with these tankers could be dire, including hefty fines and detentions. This move intensifies the existing tensions in the vital waterway amid rising conflicts and sanctions, as the Persian Gulf Strait Authority warns of strict enforcement in light of threats from the United States.",
@@ -124,15 +133,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/iran-blacklists-45-tankers-over-strait-of-hormuz-rules-amid-fresh-us-sanctions-threat/articleshow/133472985.cms",
     "time": "2026-08-24T16:10:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Search widens for missing crew as hopes fade after Bay of Bengal shipwreck",
-    "desc": "The search for 22 missing crew members of the Panama-flagged MV Ocean Winner has been expanded after the bulk carrier sank in the Bay of Bengal on August 22. Two Chinese crew members were rescued, but there has been no sign of the others.",
-    "img": "https://th-i.thgim.com/public/news/national/uc08mc/article71385706.ece/alternates/LANDSCAPE_1200/Copy%20of%20Copy%20of%20NEWS%20VIDEOS%20Thumbnail%20new.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/watch-search-widens-for-missing-crew-as-hopes-fade-after-bay-of-bengal-shipwreck/article71385709.ece",
-    "time": "2026-08-24T15:54:43.000Z"
   },
   {
     "cat": "Entertainment",
@@ -268,15 +268,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/us-treasury-secretary-scott-bessent-economic-sanctions-threat-on-iran-washington-tehran/article71383499.ece",
     "time": "2026-08-24T12:19:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Citizens have right to know': CJP demands states come clean on funding, facilities in govt schools",
-    "desc": "Abhijeet Dipke is on a mission to uncover the state of government school infrastructure and staffing. He is probing ministers about the conditions of renovations and the number of teacher vacancies across various states. Additionally, he seeks insights on school funding and emphasizes the pressing need for more institutions. With an urge for immediate enhancements in public education, he raises flags about basic facilities and the workloads faced by educators.",
-    "img": "https://static.toiimg.com/photo/msid-133465397,imgsize-949694.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/citizens-have-right-to-know-cjp-demands-states-come-clean-on-funding-facilities-in-govt-schools/articleshow/133464818.cms",
-    "time": "2026-08-24T12:09:10.000Z"
   },
   {
     "cat": "Entertainment",
@@ -504,15 +495,6 @@ const newsData_en = [
     "time": "2026-08-24T07:19:36.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Shah Rukh Khan's 'Mannat' to have few new floors,' reveals Anand Pandit",
-    "desc": "Anand Pandit, a prominent filmmaker, has also ventured into the world of luxury real estate, serving a clientele that includes numerous Bollywood stars. One of his significant projects is the extensive renovation of Shah Rukh Khan's iconic Mannat bungalow, alongside the redevelopment of his original Mumbai residence, both aimed at enhancing their grandeur. Pandit's business enjoys a robust reputation within the film industry.",
-    "img": "https://static.toiimg.com/photo/msid-133455608,imgsize-367294.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khans-mannat-to-have-few-new-floors-reveals-anand-pandit-as-he-opens-up-on-the-renovation-of-the-actors-iconic-mumbai-house/articleshow/133455388.cms",
-    "time": "2026-08-24T07:12:26.000Z"
-  },
-  {
     "cat": "World",
     "title": "Oil falls as Trump pledges economic war on Iran",
     "desc": "Oil prices fell as investors awaited details of President Donald Trump’s fresh economic pressure campaign against Iran, while Asian markets traded mostly lower. Brent crude fell 2.3% to around $92 a barrel, with investors also eyeing Nvidia’s earnings and the Jackson Hole meeting",
@@ -574,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-climbs-to-95-64-against-us-dollar-iran-sanctions-crude-prices-in-focus/articleshow/133451146.cms",
     "time": "2026-08-24T04:30:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Ranveer submits formal defence against Farhan's Rs 45 crore, warns IMPPA to not intervene",
-    "desc": "Ranveer Singh's attorneys have contested the jurisdiction of the Indian Motion Picture Producers Association regarding the 'Don 3' controversy. They assert that the association lacks the authority to adjudicate this matter. Meanwhile, Excel Entertainment is pursuing compensation for Singh's withdrawal from the project. His legal team has indicated potential legal measures should the association rule unfavorably. Currently, the association's lawyers are scrutinizing the situation.",
-    "img": "https://static.toiimg.com/photo/msid-133451119,imgsize-243267.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-submits-formal-defence-against-farhan-akhtars-rs-45-crore-compensation-claim-over-don-3-threatens-legal-action-if-film-body-intervenes/articleshow/133450985.cms",
-    "time": "2026-08-24T04:25:30.000Z"
   },
   {
     "cat": "Business",
@@ -846,24 +819,6 @@ const newsData_en = [
     "time": "2026-08-21T07:55:45.000Z"
   },
   {
-    "cat": "Business",
-    "title": "How Supreme Court’s new ruling changes the definition of ‘industry’",
-    "desc": "The majority held that ‘industry’ under the IRC must be interpreted based on its own specific text and statutory context, unburdened by the legacy of the 1978 precedent; Chief Justice Kant noted that while the core principles of the 1978 ruling had stood the test of time, the 1978 judgment would no longer act as the “sheet anchor” for interpreting ‘industry’ under the IRC",
-    "img": "https://th-i.thgim.com/public/incoming/gkqaav/article71372181.ece/alternates/LANDSCAPE_1200/_DSC9163.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/how-supreme-courts-new-ruling-changes-the-definition-of-industry-explainer/article71372126.ece",
-    "time": "2026-08-21T04:34:40.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Supreme Court scraps worker-friendly 1978 ‘industry’ precedent for new labour code",
-    "desc": "‘Industry’ under the Industrial Relations Code will be interpreted in its ‘own text and context’, says the top court; the 1978 verdict had enabled workers employed in a wide range of jobs to have a legal recourse, including collective bargaining, against unfair labour practices by employers",
-    "img": "https://th-i.thgim.com/public/incoming/exrfit/article71368007.ece/alternates/LANDSCAPE_1200/12_UNNAO_RAPE_CASE_HEARING_SUPREME_COURT_29_12_DELHI.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/supreme-court-upholds-definition-of-industry-as-per-industrial-relations-code-2020/article71367986.ece",
-    "time": "2026-08-20T22:26:37.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Camera Looks, a built-in teleprompter and AI that earns its place",
     "desc": "Google’s Pixel 11 series lets you choose how your photos look at the moment of capture and puts a teleprompter inside the camera app, with the return of the notification light reserved for the Pro models, from ₹89,999",
@@ -898,5 +853,50 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
     "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
+    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
+    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
+    "time": "2024-03-12T09:45:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
+    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
+    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
+    "time": "2024-03-11T10:20:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
+    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
+    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
+    "time": "2024-03-11T10:00:44.000Z"
   }
 ];
