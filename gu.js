@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "અમેરિકાની નવી H-1B યોજના, 98 લાખથી વધુ ફીની તૈયારી; ભારતીયો પર થશે સીધી અસર",
+    "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે ગયા વર્ષે 2025માં H-1B વિઝા માટે અરજી કરનારાઓની ફી વધારીને એક લાખ ડોલર કરી દીધી હતી. તેમના આ નિર્ણય પર ભારે વિવાદ પણ થયો હતો અને હવે એક નવો નિર્ણય સામે આવ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/america-new-h-1b-scheme-preparation-for-fees-of-more-than-98-lakhs-will-have-a-direct-impact-on-indians-488769 ",
+    "time": "2026-08-24T17:58:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ત્રીજા દિવસે જ ખતમ થઈ જશે મેચ ? શ્રીલંકા પર મંડરાઈ રહ્યો છે મોટો ખતરો",
+    "desc": "ભારત સામેની બીજી ટેસ્ટની પહેલી ઇનિંગમાં શ્રીલંકાની શરૂઆત ખૂબ જ ખરાબ રહી છે, શ્રીલંકાએ ફક્ત 8 રનના સ્કોર પર જ બે વિકેટ ગુમાવી દીધી છે. પરિસ્થિતિને જોતાં ત્રીજા દિવસનું પ્રથમ સેશન શ્રીલંકા માટે મહત્વપૂર્ણ રહેશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-sl-2nd-test-sri-lanka-follow-on-threat-colombo-test-488760 ",
+    "time": "2026-08-24T16:05:33.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ખાંડના ભાવ વધવાનું કારણ ઇથેનોલ નથી, તો કેમ વધ્યા ભાવ ? સરકારે આપ્યા બે કારણ",
+    "desc": "દેશમાં ખાંડ અને ગોળના ભાવ આસમાને પહોંચી ગયા છે અને આ વધતી જતી મોંઘવારીના કારણે રાજકીય રાજકીય વાતાવરણ પણ ગરમાયું છે. જ્યારે વિપક્ષે આરોપ લગાવ્યો હતો કે ખાંડનો ઉપયોગ ઇથેનોલના ઉત્પાદન માટે કરવામાં આવી રહ્યો છે, ત્યારે કેન્દ્રીય મંત્રીએ ભાવ વધારા પાછળનું વાસ્તવિક કારણ જણાવ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/why-sugar-price-hike-minister-pralhad-joshi-gave-two-reasons-488758 ",
+    "time": "2026-08-24T15:39:41.000Z"
+  },
+  {
     "cat": "Business",
     "title": "કાર ખરીદવી છે પણ બજેટ નથી તો ચિંતા ના કરો, આ સરકારી બેંક આપી રહી છે સૌથી સસ્તી લોન !",
     "desc": "ઓછા વ્યાજ દરે કાર લોન મેળવવા માટે તમારો ક્રેડિટ સ્કોર સારો હોવો જરૂરી છે. 750 કે તેથી વધુનો સ્કોર સારો માનવામાં આવે છે અને બેંકો લોન આપવા માટે સહમત થાય છે. ત્યારે આ લેખમાં જાણીશું કે કઈ બેંક સૌથી ઓછા વ્યાજ દરે લોન આપી રહી છે.",
@@ -313,15 +340,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/what-should-be-the-car-tire-pressure-during-monsoon-know-the-correct-answer-and-things-to-keep-in-mind-488478 ",
     "time": "2026-08-22T11:49:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "માતા માટે જીવી લે ને... યુવકને બચાવવા માટે સરપંચે કરી હતી ભાવુક અપીલ, એળે ગઈ અને આખો પરિવાર ખલાસ",
-    "desc": "મહારાષ્ટ્રના છત્રપતિ સંભાજીનગરમાં એક મોબાઈલ ફોનને પગલે થયેલા વિવાદે આખા પરિવારનો અંત આણ્યો. પુત્રને બચાવવામાં પિતા પણ ખાઈમાં પડ્યા અને માતા પણ પડી. ત્રણેયના મોત નિપજ્યા. આ કેસમાં સરપંચની વાતો પણ હચમચાવી નાખે તેવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/chhatrapati-sambhajinagar-tragedy-sarpanch-made-an-emotional-appeal-ma-mate-jivi-le-488475 ",
-    "time": "2026-08-22T11:02:09.000Z"
   },
   {
     "cat": "Sports",

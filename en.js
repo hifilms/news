@@ -1,30 +1,156 @@
 const newsData_en = [
   {
-    "cat": "Politics",
-    "title": "Railways to operate 60 extra trains services for 2027 Pushkarams",
-    "desc": "The police and transportation departments were directed to prepare a report on route maps, entry and exit points at the railway stations, including Godavari and Rajamahendravaram railway stations, and walking routes to guide visitors during the Pushkarams.",
-    "img": "https://th-i.thgim.com/public/incoming/nv6a4t/article71385538.ece/alternates/LANDSCAPE_1200/10237_24_8_2026_19_44_40_1_WHATSAPPIMAGE2026_08_24AT65622PM.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/railways-to-operate-60-extra-trains-services-for-2027-pushkarams/article71385145.ece",
-    "time": "2026-08-24T15:20:29.000Z"
+    "cat": "Entertainment",
+    "title": "Did Kangana slams Kriti over her Raksha Bandhan ad?",
+    "desc": "Kriti Sanon's Raksha Bandhan jewellery ad, featuring a bralette-style Indo-Western outfit, sparked backlash for feeling inappropriate for the festival. Kangana Ranaut seemingly reacted on Instagram Stories, calling the ad \"intentionally creepy.\" Netizens slammed Kriti on X, though she hasn't responded. Both actors' recent films, Cocktail 2 and Bharat Bhagya Vidhaata, drew mixed results.",
+    "img": "https://static.toiimg.com/photo/msid-133475487,imgsize-198327.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/did-kangana-ranaut-slam-kriti-sanon-over-her-raksha-bandhan-ad-asks-why-would-you-tie-rakhi-in-bikini/articleshow/133475482.cms",
+    "time": "2026-08-24T17:57:32.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Trump’s ‘Operation Economic Outcast’ against Iran: What sanctions threat could mean for India",
+    "desc": "The Donald Trump administration said on Monday that the new US sanctions are intended to shut off every potential source of revenue for Iran, while warning other countries that continuing their economic ties with Tehran could expose them to retaliation.",
+    "img": "https://static.toiimg.com/photo/msid-133475367,imgsize-569547.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/trumps-operation-economic-outcast-against-iran-what-sanctions-threat-could-mean-for-india/articleshow/133475234.cms",
+    "time": "2026-08-24T17:52:28.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Merchant Navy sailor killed in Russian drone strike laid to rest in Kasaragod",
-    "desc": "The mortal remains of 26-year-old Merchant Navy sailor Akhil Joyan, who was killed in a Russian drone strike on a cargo vessel off Ukraine’s Odessa coast, were laid to rest at his native Vellarikundu on August 24.",
-    "img": "https://via.placeholder.com/600x400?text=News",
+    "title": "Supreme Court asks Centre to respond to plea to reduce percentile for NEET-SS in-service candidates",
+    "desc": "A Bench headed by Justice P.S. Narasimha heard senior advocate P. Wilson, for the Tamil Nadu Medical Officers Association, on an application seeking the Centre to return 100% of the unfilled in-service seats to the State",
+    "img": "https://th-i.thgim.com/public/incoming/j3o5yc/article70621377.ece/alternates/LANDSCAPE_1200/INDEX_SUPREME_COURT_02_08_7.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/merchant-navy-sailor-killed-in-russian-drone-strike-laid-to-rest-in-kasaragod/article71384241.ece",
-    "time": "2026-08-24T15:15:13.000Z"
+    "url": "https://www.thehindu.com/news/national/supreme-court-asks-centre-to-respond-to-plea-to-reduce-percentile-for-neet-ss-in-service-candidates/article71385526.ece",
+    "time": "2026-08-24T17:28:13.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Putin tells Jaishankar",
+    "desc": "Mr. Jaishankar briefed the Russian President, who said PM Modi looks forward to meeting Mr. Putin at the SCO summit, then welcoming him to India for the BRICS Summit, and later the annual bilateral summit",
+    "img": "https://th-i.thgim.com/public/incoming/5ete37/article71384515.ece/alternates/LANDSCAPE_1200/PTI08_24_2026_000344B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/jaishankar-meets-russian-president-putin-discusses-bilateral-ties-global-developments/article71384497.ece",
+    "time": "2026-08-24T17:11:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'We started poorly': Craig Fulton rues slow start as India crash out of WC semis",
+    "desc": "India's journey in the FIH Men's Hockey World Cup 2026 came to an end with a disappointing 5-3 defeat against Argentina. Struggling with a sluggish start and mounting pressure, the Indian team fell behind early and faced challenges in regaining momentum. A late surge saw them net three goals in the final quarter, but it wasn't enough. Next, they will face off in a playoff for seventh place.",
+    "img": "https://static.toiimg.com/photo/msid-133474111,imgsize-81894.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/we-started-poorly-craig-fulton-rues-slow-start-as-india-crash-out-of-hockey-world-cup-semis/articleshow/133473889.cms",
+    "time": "2026-08-24T17:11:19.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Home Minister injured by drone battery as Amaravati Championship kicks off in Tirupati",
-    "desc": "The battery of a drone flying low falls directly onto the right hand of Vangalapudi Anitha who was present on the dais during the inaugural event, however, completes her speech with a bandage on her hand",
-    "img": "https://th-i.thgim.com/public/incoming/1x58vc/article71385435.ece/alternates/LANDSCAPE_1200/10745_24_8_2026_18_40_13_1_IMG_20260824_WA0027.JPG",
+    "title": "Madras High Court dismisses petitions for CBI  investigation into fraudulent registration of Palani Math land",
+    "desc": "The Madurai Bench takes note of the CB-CID’s status report on the progress of the investigation and allows the agency to proceed further. Former Palani MLA K.S.N. Venugopalu Senapathi of the AIADMK, chairperson of Palani Municipality R. Uma Maheshwari Pradeep, and Annapoorani Sivakumar were the petitioners",
+    "img": "https://th-i.thgim.com/public/incoming/xl296z/article71385966.ece/alternates/LANDSCAPE_1200/9871_24_8_2026_19_6_2_3_HIGHCOURTBENCH__03.JPG",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/home-minister-injured-by-drone-battery-as-amaravati-championship-kicks-off-in-tirupati/article71385208.ece",
-    "time": "2026-08-24T15:06:52.000Z"
+    "url": "https://www.thehindu.com/news/cities/Madurai/madras-high-court-dismisses-petitions-forcbi-investigation-into-fraudulent-registration-ofpalanimath-land/article71385349.ece",
+    "time": "2026-08-24T17:09:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Govt did not honour promises made for a month, slams govt’s credibility: CJP Spokesperson",
+    "desc": "CJP spokesperson says the government has failed to honour promises made a month ago, questioning its credibility and commitment. The spokesperson criticised the government over the delay and said the unfulfilled assurances have raised concerns among those affected.",
+    "img": "https://th-i.thgim.com/public/incoming/m7z9ya/article71385931.ece/alternates/LANDSCAPE_1200/20260823041L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/shorts/watch-govt-did-not-honour-promises-made-for-a-month-slams-govts-credibility-cjp-spokesperson/article71385934.ece",
+    "time": "2026-08-24T16:53:11.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The man behind Maharashtra’s FDA crackdown: Tukaram Mundhe",
+    "desc": "Tukaram Mundhe, Maharashtra’s Food and Drug Administration Commissioner, is leading an aggressive crackdown on food safety violations across the state. From raids on restaurants and food outlets to action against adulteration and unsafe practices, Mundhe’s enforcement drive has drawn widespread attention.",
+    "img": "https://th-i.thgim.com/public/news/national/qsbti6/article71385875.ece/alternates/LANDSCAPE_1200/For%20pressmeet%20%20Speeches%201.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/watch-the-man-behind-maharashtras-fda-crackdown-tukaram-mundhe/article71385878.ece",
+    "time": "2026-08-24T16:50:05.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Yemen’s Houthis claim attack on Saudi oil tanker in Red Sea",
+    "desc": "The strike was accurate and direct, resulting in a fire breaking out aboard the vessel and causing a number of other ships that were present in the target area to flee, the Houthis said in a statement.",
+    "img": "https://th-i.thgim.com/public/incoming/vg4rli/article71385812.ece/alternates/LANDSCAPE_1200/2026-08-03T132244Z_1643636918_RC2TJMAU4AUN_RTRMADP_3_YEMEN-CRISIS-SAUDI-TANKERS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/yemens-houthis-claim-attack-on-saudi-oil-tanker-in-red-sea/article71385806.ece",
+    "time": "2026-08-24T16:25:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "After handcuff footage, ECB takes big call on Carse before Pakistan 2nd Test",
+    "desc": "England drop Brydon Carse from the second Test against Pakistan after footage shows the fast bowler in handcuffs outside a Derby nightclub. The Cricket Regulator is investigating the incident. Carse was reportedly released without charge after celebrating Durham’s County Championship win. The episode adds to recent disciplinary concerns involving England players following other nightclub-related incidents.",
+    "img": "https://static.toiimg.com/photo/msid-133473293,imgsize-70230.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/after-handcuff-footage-ecb-takes-big-call-on-brydon-carse-ahead-of-pakistan-2nd-test/articleshow/133472971.cms",
+    "time": "2026-08-24T16:23:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Actor slams AI-made marriage clips",
+    "desc": "Jamie Lever debunked viral AI-generated videos claiming she's marrying Govinda's son Yashvardhan Ahuja, calling them \"completely fake.\" She said she initially found the clips funny but grew concerned as people began congratulating her, and genuine marriage proposals stopped coming. She clarified Yashvardhan is her younger brother, with whom she's working on \"Hero Ki Horrorine.\"",
+    "img": "https://static.toiimg.com/photo/msid-133473275,imgsize-273451.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/is-johny-levers-daughter-jamie-lever-marrying-govindas-son-yashvrdhn-ahuja-heres-the-truth/articleshow/133473257.cms",
+    "time": "2026-08-24T16:22:54.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Keralam CM Satheesan urges Modi to halt transfer of Mangaluru from Palakkad railway division",
+    "desc": "In a letter to the Prime Minister, he says the bifurcation of the division, which was announced without any consultation with the State, has caused serious concern in Keralam owing to its ‘long-term implications for the railway infrastructure and development prospects.’",
+    "img": "https://th-i.thgim.com/public/incoming/6bgq5j/article71384801.ece/alternates/LANDSCAPE_1200/VDsatheesan02.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/keralam-cm-satheesan-urges-modi-to-halt-transfer-of-mangaluru-from-palakkad-railway-division/article71384631.ece",
+    "time": "2026-08-24T16:18:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala High Court directs State to consider renaming ‘Mental Health Centres’, citing concerns of stigma",
+    "desc": "Division Bench notes that when other hospitals are not termed 'Centres of Physical Health’, there is no reason for these centres to be tagged as ‘Mental Health Centres’, with the disrepute of catering to a particular kind of disorder or illness.",
+    "img": "https://th-i.thgim.com/public/incoming/w204xz/article71385793.ece/alternates/LANDSCAPE_1200/25tvnearby.one_G10FOV4K0.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-directs-state-to-consider-renaming-mental-health-centres-citing-concerns-of-stigma/article71385380.ece",
+    "time": "2026-08-24T16:10:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Iran blacklists 45 tankers over Strait of Hormuz rules amid fresh US sanctions threat",
+    "desc": "Iran has blacklisted 45 tankers for breaching its navigation regulations in the Strait of Hormuz. The repercussions for vessels engaging in ship-to-ship transfers with these tankers could be dire, including hefty fines and detentions. This move intensifies the existing tensions in the vital waterway amid rising conflicts and sanctions, as the Persian Gulf Strait Authority warns of strict enforcement in light of threats from the United States.",
+    "img": "https://static.toiimg.com/photo/msid-133473072,imgsize-70740.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/iran-blacklists-45-tankers-over-strait-of-hormuz-rules-amid-fresh-us-sanctions-threat/articleshow/133472985.cms",
+    "time": "2026-08-24T16:10:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Search widens for missing crew as hopes fade after Bay of Bengal shipwreck",
+    "desc": "The search for 22 missing crew members of the Panama-flagged MV Ocean Winner has been expanded after the bulk carrier sank in the Bay of Bengal on August 22. Two Chinese crew members were rescued, but there has been no sign of the others.",
+    "img": "https://th-i.thgim.com/public/news/national/uc08mc/article71385706.ece/alternates/LANDSCAPE_1200/Copy%20of%20Copy%20of%20NEWS%20VIDEOS%20Thumbnail%20new.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-search-widens-for-missing-crew-as-hopes-fade-after-bay-of-bengal-shipwreck/article71385709.ece",
+    "time": "2026-08-24T15:54:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Actress slams Sonu, Taapsee, Rakhi",
+    "desc": "Kangana Ranaut hit back at critics including Rakhi Sawant, Taapsee Pannu, Ashutosh Rana, Sonu Sood and Baba Ramdev, calling them \"failed, stupid, and disgusting\" for their remarks about her. She accused them of seeking media attention through abuse, said \"enough is enough,\" and slammed Baba Ramdev for allegedly making derogatory comments about women while invoking \"Sanatan Dharm.\"",
+    "img": "https://static.toiimg.com/photo/msid-133472154,imgsize-149743.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/koi-kehta-hai-taang-uthati-hai-kangana-ranaut-fires-back-at-ashutosh-rana-sonu-sood-taapsee-pannu-baba-ramdev-watch-video/articleshow/133472138.cms",
+    "time": "2026-08-24T15:34:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India's 2026 Hockey WC semi-final race ends with 3-5 loss to Argentina",
+    "desc": "India’s men’s hockey team exit the 2026 World Cup semi-final race after losing 3-5 to Argentina. Two early goals put India on the back foot, while poor passing and missed penalty corners hurt their comeback hopes. Sukhjeet scores twice and Hardik adds a penalty stroke, but Argentina’s five-goal haul seals victory. India now play for seventh or eighth place.",
+    "img": "https://static.toiimg.com/photo/msid-133471998,imgsize-96254.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/indias-2026-hockey-world-cup-semi-final-race-ends-with-3-5-loss-to-argentina/articleshow/133471890.cms",
+    "time": "2026-08-24T15:19:54.000Z"
   },
   {
     "cat": "Politics",
@@ -36,24 +162,6 @@ const newsData_en = [
     "time": "2026-08-24T14:55:23.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "CPI(M), Congress leaders trade barbs over rail division split",
-    "desc": "While CPM district secretary E.N. Suresh Babu challenged Congress MP V.K. Sreekandan to stage an indefinite hunger strike in front of the Railway Ministry in Delhi, Sreekandan hit back, saying those with the courage to protest should take on the BJP instead of targeting him",
-    "img": "https://th-i.thgim.com/public/incoming/arc7r/article71385394.ece/alternates/LANDSCAPE_1200/6678_27_3_2024_16_18_7_4_VKSREEKANDAN_1.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/cpim-congress-leaders-trade-barbs-over-rail-division-split/article71385247.ece",
-    "time": "2026-08-24T14:55:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Transgender person moves Kerala High Court against denial of entry to Sabarimala",
-    "desc": "Petitioner contends that there are no valid statutory provisions, executive orders, or notified rules that authorise such exclusion, nor any informal restrictions enforced by the police or temple authorities on the entry of transgender persons",
-    "img": "https://th-i.thgim.com/public/incoming/9asilr/article71385347.ece/alternates/LANDSCAPE_1200/Sabarimala112.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/transgender-person-moves-kerala-high-court-against-denial-of-entry-to-sabarimala/article71384978.ece",
-    "time": "2026-08-24T14:51:38.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Clip of Govinda’s wife praying goes viral",
     "desc": "Sunita Ahuja was seen praying at Khatu Shyam temple amid ongoing rumours of marital discord with Govinda. This follows her recent appearance outside a Mumbai family court with son Harshvardhan, which fuelled divorce speculation. Manager Shashi Sinha earlier said Sunita withdrew her petition, but she has since unfollowed Govinda on Instagram, reigniting rumours after 37 years of marriage.",
@@ -61,24 +169,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amid-divorce-rumours-with-govinda-sunita-ahuja-visits-khatu-shyam-temple-viral-video-emerges-days-after-family-court-appearance-watch/articleshow/133471254.cms",
     "time": "2026-08-24T14:49:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "10 Bills passed in Karnataka Legislature without debate amid BJP protest on last day of session",
-    "desc": "Among the Bills was the controversial Karnataka Government Parks (Preservation) (Amendment) Bill, 2026, which allows 5% of park land to be sold, leased, gifted, exchanged or mortgaged for public utility projects undertaken by government departments, statutory authorities, government companies or local bodies",
-    "img": "https://th-i.thgim.com/public/incoming/3jxhyj/article71384170.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-14%20at%2012.02.36.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-legislative-assembly-passes-8-bills-in-an-hour-without-debate-amid-bjp-protest/article71384067.ece",
-    "time": "2026-08-24T14:31:22.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Srisailam darshan tickets available online from August 25",
-    "desc": "To facilitate easy access for devotees, 90% of the tickets are being made available through the State government’s ‘Mana Mitra’ WhatsApp service, while the remaining 10% of tickets can be obtained via the APTS website",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/srisailam-darshan-tickets-available-online-from-august-25/article71385061.ece",
-    "time": "2026-08-24T14:23:03.000Z"
   },
   {
     "cat": "Business",
@@ -324,15 +414,6 @@ const newsData_en = [
     "time": "2026-08-24T09:49:31.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "CM Dhami inaugurates self-help group stalls under Sashakt Behna Utsav Yojana in Dehradun",
-    "desc": "CM Dhami also purchased rakhis made by the women of local self-help groups and appreciated their skills and hard work. The Chief Minister encouraged their efforts and said that the Sashakt Behna Utsav Yojana has provided livelihood opportunities to a large number of women, with many also benefiting from the initiative last year.",
-    "img": "https://static.toiimg.com/photo/msid-133460007,imgsize-79450.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/cm-dhami-inaugurates-self-help-group-stalls-under-sashakt-behna-utsav-yojana-in-dehradun/articleshow/133460008.cms",
-    "time": "2026-08-24T09:42:18.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Yashasvi Jaiswal, Asitha Fernando fined 25% match fee for Colombo Test altercation",
     "desc": "Yashasvi Jaiswal and Asitha Fernando faced penalties for their on-field clash during a recent match. The International Cricket Council announced Level 1 sanctions after both athletes acknowledged their wrongdoing. The tension flared up following Fernando's dismissal of Jaiswal, culminating in heated words exchanged between them. Their teammates, along with Sri Lanka's captain, quickly stepped in to diffuse the situation.",
@@ -367,15 +448,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/inat-and-the-recipe-for-being-novak-djokovic/article71377007.ece",
     "time": "2026-08-24T09:05:33.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi HC summons Iyer-Mitra, media portals over alleged disclosure of Saurav Das's address",
-    "desc": "The Delhi High Court has issued summons to commentator Abhijit Iyer-Mitra and several media platforms in a plea filed by Cockroach Janta Party (CJP) leader Saurav Das, alleging that his residential address and other personal details were published online without consent. X told the court that the posts allegedly containing Das's address had been removed and were no longer accessible.",
-    "img": "https://static.toiimg.com/photo/msid-133458828,imgsize-161772.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-hc-summons-iyer-mitra-media-portals-over-alleged-disclosure-of-saurav-dass-address/articleshow/133458829.cms",
-    "time": "2026-08-24T08:51:37.000Z"
   },
   {
     "cat": "Sports",
@@ -423,24 +495,6 @@ const newsData_en = [
     "time": "2026-08-24T07:24:57.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Bollywood icon who wanted his house with no windows",
-    "desc": "Actor Abhay Deol has crafted a unique eco-friendly glass house in North Goa, defying traditional designs with a windowless approach. This innovative space is intended to provide a breezy outdoor ambiance within. The colorful furnishings and rustic touches make the expansive living room a perfect getaway, reflecting Abhay's desire to harmoniously blend his professional and personal worlds while staying true to his independent lifestyle.",
-    "img": "https://static.toiimg.com/photo/msid-133455994,imgsize-30102.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/abhay-deol-the-bollywood-actor-from-the-deol-family-asked-his-architect-to-build-a-house-with-no-windows/articleshow/133455909.cms",
-    "time": "2026-08-24T07:24:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Suchitra on why Pranav, Vismaya are not fluent in Malayalam",
-    "desc": "Suchitra Mohanlal shared insights into her children's limited fluency in Malayalam, attributing it to their boarding school education where English was predominantly spoken. Both Pranav and Vismaya were immersed in an English-speaking environment. Vismaya, who recently embarked on her acting career, requires ample time to grasp her dialogues, reading scripts in English and often taking a month for thorough preparation.",
-    "img": "https://static.toiimg.com/photo/msid-133455955,imgsize-255668.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/that-is-my-fault-suchitra-mohanlal-explains-why-pranav-mohanlal-vismaya-mohanlal-are-not-fluent-in-malayalam/articleshow/133455893.cms",
-    "time": "2026-08-24T07:23:04.000Z"
-  },
-  {
     "cat": "Business",
     "title": "‘75% global trade will be covered’: India negotiating trade deals with 8-9 more groups of countries",
     "desc": "Speaking to business representatives from India and Japan, Goyal said India has a sizeable domestic market while also opening itself to the global economy through nine free trade agreements signed over the past four years.",
@@ -477,15 +531,6 @@ const newsData_en = [
     "time": "2026-08-24T06:57:52.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Retired hurt on Day 1, Pant returns to smash 95m six and damage solar panel",
-    "desc": "Pant, who had retired hurt on the opening day after being struck on his left arm, resumed his innings after Saransh Jain was dismissed early on Monday. He joined Dhruv Jurel as India looked to build a competitive first-innings total.",
-    "img": "https://static.toiimg.com/photo/msid-133454229,imgsize-148365.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/ind-vs-sl-rishabh-pants-95m-monster-six-damages-solar-panel-on-colombo-stadium-roof-watch/articleshow/133453844.cms",
-    "time": "2026-08-24T06:49:48.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Worst of gold price dips over? Check outlook for August 24, 2026 week",
     "desc": "Looking ahead, market participants will closely monitor further developments in US Treasury operations, fiscal policy discussions, and upcoming economic data releases, which are expected to remain key drivers for gold prices in the near term.",
@@ -511,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/this-india-will-fight-and-reply-yashasvi-jaiswals-comment-goes-viral-after-asitha-fernando-spat/articleshow/133452632.cms",
     "time": "2026-08-24T05:50:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "UEFA chief Ceferin rules out FIFA bid, but warns Infantino: ‘Quit or face rival’",
-    "desc": "UEFA president Aleksander Ceferin will not challenge Gianni Infantino for FIFA president. Infantino faces a potential challenger in next year's FIFA presidential election. This comes after Infantino's abandoned plan to sell FIFA competition rights. Ceferin believes Infantino lacks broad support from the football community. He also reminded Infantino of UEFA's past support for his rise.",
-    "img": "https://static.toiimg.com/photo/msid-133451969,imgsize-100285.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/uefa-president-aleksander-ceferin-rules-out-fifa-bid-but-warns-gianni-infantino-quit-or-face-rival/articleshow/133451897.cms",
-    "time": "2026-08-24T05:18:43.000Z"
   },
   {
     "cat": "Business",
@@ -583,15 +619,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/fast-moving-wildfire-amid-shifting-winds-threatens-reno-nevada-forcing-thousands-to-evacuate/article71383006.ece",
     "time": "2026-08-24T01:17:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Awarapan 2' box office collection day 10: Emraan Hashmi's film nears Rs 140 crore",
-    "desc": "Awarapan 2 is enjoying an impressive box office journey, surpassing the Rs 136 crore net mark in India. The film made a strong opening with Rs 22 crore and achieved a remarkable first-week collection of Rs 113.50 crore. Following a successful second weekend, its domestic net collection grew to Rs 127.50 crore and the worldwide gross soared to Rs 193.00 crore.",
-    "img": "https://static.toiimg.com/photo/msid-133448766,imgsize-226812.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/awarapan-2-box-office-collection-day-10-emraan-hashmis-film-nears-rs-140-crore-net-in-india-after-an-impressive-second-weekend-declared-a-big-hit/articleshow/133448757.cms",
-    "time": "2026-08-24T00:17:12.000Z"
   },
   {
     "cat": "Sports",
@@ -747,15 +774,6 @@ const newsData_en = [
     "time": "2026-08-22T21:21:58.000Z"
   },
   {
-    "cat": "World",
-    "title": "Imran Khan’s sister files contempt plea over violation of Pakistan top court’s hospitalisation order",
-    "desc": "The Supreme Court had ordered that Imran Khan be kept in the hospital till the next hearing on Sept. 16; however, he was taken to the state-run PIMS in Islamabad during the night of August 20-21 for medical examination and treatment before being returned to Adiala Jail",
-    "img": "https://th-i.thgim.com/public/incoming/zgbmax/article71377388.ece/alternates/LANDSCAPE_1200/AP08_21_2026_000567B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/imran-khans-sister-files-contempt-plea-over-violation-of-pakistan-top-courts-hospitalisation-order/article71377376.ece",
-    "time": "2026-08-22T13:04:05.000Z"
-  },
-  {
     "cat": "Business",
     "title": "RBI sees forex inflows of $72.85 billion via FCNR (B), OFCB, ECB Swap facility",
     "desc": "The position of forex inflows as reported by Authorised Dealer Banks to the RBI till August 21, 2026 includes $64.40 billion by way of FCNR (B) deposits; $4.86 billion via OFCBs and $2.59 billion by ECBs",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
     "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
   }
 ];
