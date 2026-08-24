@@ -1,6 +1,96 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "'Batwara 1947' box office collection day 10: The film struggles to touch Rs 40 cr",
+    "desc": "Batwara 1947's performance at the box office has been underwhelming following its release. Despite a promising start on Saturday, the film's earnings plummeted as the weekdays progressed, with only a minor boost seen on Tuesday. The second weekend didn't bring the revival it desperately needed, indicating a strong possibility of the movie being labeled a flop due to its poor trajectory.",
+    "img": "https://static.toiimg.com/photo/msid-133448832,imgsize-350121.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/batwara-1947-box-office-collection-day-10-sunny-deol-preity-zintas-film-struggles-to-touch-rs-40-crore-after-the-second-weekend-while-awarapan-2-inches-towards-rs-140-crore/articleshow/133448827.cms",
+    "time": "2026-08-24T00:38:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Vishwanath and Sons' BO day 10 vs 'DC'",
+    "desc": "Vishwanath and Sons has crossed Rs 100 crore in India net collections. The film also added Rs 1.50 crore from overseas markets on its tenth day. Meanwhile, DC recorded a decline in earnings on its seventeenth day. DC's worldwide gross collection has reached Rs 97.52 crore. The Tamil movie collected an estimated India net of Rs 1.41 crore on Day 17.",
+    "img": "https://static.toiimg.com/photo/msid-133448813,imgsize-354213.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vishwanath-and-sons-box-office-collections-day-10-vs-dc-suriya-starrer-crosses-rs-100-crore-india-net/articleshow/133448808.cms",
+    "time": "2026-08-24T00:31:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Awarapan 2' box office collection day 10: Emraan Hashmi's film nears Rs 140 crore",
+    "desc": "Awarapan 2 is enjoying an impressive box office journey, surpassing the Rs 136 crore net mark in India. The film made a strong opening with Rs 22 crore and achieved a remarkable first-week collection of Rs 113.50 crore. Following a successful second weekend, its domestic net collection grew to Rs 127.50 crore and the worldwide gross soared to Rs 193.00 crore.",
+    "img": "https://static.toiimg.com/photo/msid-133448766,imgsize-226812.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/awarapan-2-box-office-collection-day-10-emraan-hashmis-film-nears-rs-140-crore-net-in-india-after-an-impressive-second-weekend-declared-a-big-hit/articleshow/133448757.cms",
+    "time": "2026-08-24T00:17:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Khalifa' BO day 4 vs 'Bethlehem Kudumba Unit'",
+    "desc": "Khalifa's box office performance remained steady on its fourth day. Bethlehem Kudumba Unit showed consistent growth in collections over the weekend. Khalifa has accumulated over eleven crore rupees in India net collections. Bethlehem Kudumba Unit's worldwide gross collection has reached sixty-one crore rupees. The Onam box office battle shows differing trends for both films.",
+    "img": "https://static.toiimg.com/photo/msid-133448725,imgsize-389860.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/khalifa-box-office-collections-day-4-vs-bethlehem-kudumba-unit-prithviraj-sukumarans-film-records-1-1-drop-nivin-paulys-movie-mints-rs-61-05-crore-worldwide/articleshow/133448718.cms",
+    "time": "2026-08-24T00:06:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "TV and film veteran Shelley Fabares passes away at 82",
+    "desc": "Actress Shelley Fabares, known for \"The Donna Reed Show,\" has died at 82. She began her career as a child and later starred in \"One Day at a Time.\" Fabares also had a music career and appeared in films with Elvis Presley. She was a dedicated advocate for Alzheimer's awareness and underwent a liver transplant. Her family remembers her kindness, wit, courage, and beautiful spirit.",
+    "img": "https://static.toiimg.com/photo/msid-133448628,imgsize-462172.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/shelley-fabares-star-of-the-donna-reed-show-girl-happy-coach-passes-away-at-82/articleshow/133448554.cms",
+    "time": "2026-08-23T23:54:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranbir-Alia-Deepika's 'Brahmastra 2' to have Rs 550 crore budget?",
+    "desc": "Brahmastra 2 is reportedly receiving a massive investment of Rs 550 crore. The film's production scale is significantly larger than its predecessor. Ranbir Kapoor may portray a double role as Shiva and Dev. Alia Bhatt will reprise Isha while Deepika Padukone might play Amruta. Filming is expected to commence in April 2027 after other projects.",
+    "img": "https://static.toiimg.com/photo/msid-133448573,imgsize-501629.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-alia-bhatt-deepika-padukones-brahmastra-2-to-have-rs-550-crore-budget-details-inside/articleshow/133448568.cms",
+    "time": "2026-08-23T23:36:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Digging for gold",
+    "desc": "Parliament passed the Mines and Minerals (Development and Regulation) Amendment Bill, 2026, which put the extraction and management of minerals in the hands of the Central government. Many in Odisha, one of India’s most mineral-rich States, fear that the new law will impact the State’s fiscal health, while also disrupting the Centre-State relationship. Satyasundar Barik delves into the amendment’s far-reaching implications through the views of multiple stakeholders",
+    "img": "https://th-i.thgim.com/public/incoming/l1z0zl/article71376672.ece/alternates/LANDSCAPE_1200/90092_18_8_2026_19_24_53_5_CHROMITE_MININING_18.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/odisha/spotlight-digging-for-gold/article71376668.ece",
+    "time": "2026-08-23T22:49:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hollywood stars call for better protection for child actors",
+    "desc": "Melissa Gilbert advocates for enhanced child actor protections and support. She feels a deep connection to young performers who have died. Gilbert highlights the industry's pressure on children to work while unwell. She recalls personal experiences of working through illness and grief. The former child star believes young actors deserve the right to be children.",
+    "img": "https://static.toiimg.com/photo/msid-133448064,imgsize-105022.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/melissa-gilbert-joins-anna-paquin-to-call-for-better-protection-for-child-actors-in-hollywood-after-hayden-panettieres-death/articleshow/133446490.cms",
+    "time": "2026-08-23T22:13:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Spider-Man' crosses USD 2.22 billion worldwide",
+    "desc": "Brand New Day is nearing all-time box office records domestically. The film has now grossed over two billion dollars worldwide. Insidious: Out of the Further opened strongly, earning sixty million dollars globally. The Odyssey maintained its impressive box office grip, earning nineteen million dollars. PAW Patrol: The Dino Movie also performed well, earning thirty-five million dollars.",
+    "img": "https://static.toiimg.com/photo/msid-133446550,imgsize-350482.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/spider-man-brand-new-day-holds-no-1-spot-as-it-crosses-usd-2-22-billion-at-box-office-tom-holland-starrer-becomes-fifth-highest-grossing-film-of-all-time/articleshow/133446544.cms",
+    "time": "2026-08-23T21:43:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harry Kane is Germany's player of the year, Vincent Kompany gets coach's award",
+    "desc": "Kane scored 61 goals across all competitions, including the German Supercup for Bayern last season, helping the team defend its Bundesliga title and win the German Cup; he scored a hat trick in the cup final",
+    "img": "https://th-i.thgim.com/public/incoming/mxc50j/article71382231.ece/alternates/LANDSCAPE_1200/Germany_Supercup_Soccer_2_655.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/football/harry-kane-is-germanys-player-of-the-year-vincent-kompany-gets-coachs-award/article71382229.ece",
+    "time": "2026-08-23T21:32:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Mirzapur's Anangsha Biswas still gets uncomfortable messages",
     "desc": "Mirzapur actress Anangsha Biswas opens up about the unexpected consequences of playing Zarina, revealing that she still receives uncomfortable messages from people who confuse her on-screen persona with her real-life personality. The actress also discusses returning as Zarina for the film, working with Ravi Kishan and Pramod Pathak, her weight-loss struggles, and why she believes actors must remain humble.",
     "img": "https://static.toiimg.com/photo/msid-133446416,imgsize-84841.cms",
@@ -34,15 +124,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/dmks-regional-satraps-among-22-who-will-lose-district-secretary-posts/article71381677.ece",
     "time": "2026-08-23T18:33:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Amit Shah to attend national security strategies conference in Delhi",
-    "desc": "The officers will be deliberating on various contemporary matters and challenges including terrorism, cybercrimes, financial frauds, narcotics menace, challenges posed by encrypted communication apps, infiltration and illegal immigration etc. It will also discuss aviation and port security, as also bringing back fugitives involved in terrorist and smuggling activities with enhanced coordination between Central and state agencies.",
-    "img": "https://static.toiimg.com/photo/msid-133444865,imgsize-50168.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/amit-shah-to-attend-national-security-strategies-conference-in-delhi/articleshow/133444664.cms",
-    "time": "2026-08-23T17:57:52.000Z"
   },
   {
     "cat": "Politics",
@@ -187,15 +268,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/sl-vs-ind-second-test-it-is-time-for-our-all-rounders-and-lower-order-to-score-india-batting-coach-kotak/article71381468.ece",
     "time": "2026-08-23T14:33:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "How Ananta Maharaj row exposed old fault lines over Netaji",
-    "desc": "Recent remarks questioned Netaji's freedom struggle contributions and the Indian National Army's achievements. Historical records and Nehru's statements contradict claims of him being a 'war criminal'. Bose's political journey involved disagreements with Congress and alliances for independence. Various political groups now claim facets of Netaji's ideology and nationalism. Debates continue over his death and the preservation of his legacy.",
-    "img": "https://static.toiimg.com/photo/msid-133440921,imgsize-245177.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/how-ananta-maharaj-row-exposed-old-fault-lines-over-netaji/articleshow/133440770.cms",
-    "time": "2026-08-23T14:28:27.000Z"
   },
   {
     "cat": "Sports",
@@ -468,42 +540,6 @@ const newsData_en = [
     "time": "2026-08-23T08:34:05.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Aishwarya Lekshmi's parents wanted her to marry a doctor",
-    "desc": "In a revealing discussion, filmmaker Allepey Ashraf examined Aishwarya Lekshmi's life choices against her parents' vision for a medical profession and traditional domesticity. After obtaining her medical degree, Aishwarya boldly charted her course in modeling and acting, a pivot that her parents found hard to embrace at first. Ashraf emphasized that Aishwarya symbolizes the shifting cultural norms of the new generation.",
-    "img": "https://static.toiimg.com/photo/msid-133436656,imgsize-115169.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/gatta-kushti-actress-aishwarya-lekshmis-parents-wanted-her-to-marry-a-doctor-had-1-kg-gold-ready-for-her-wedding-reveals-director-allepey-ashraf/articleshow/133436630.cms",
-    "time": "2026-08-23T08:15:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Four injured at Yash’s ‘Toxic’ event in Hyderabad; case filed",
-    "desc": "During a pre-release event for the film 'Toxic' at Malla Reddy University in Hyderabad, a sound box system unexpectedly collapsed, injuring four individuals. The incident took place while Rocking Star Yash was engaging with his fans on Saturday night. Authorities have initiated a case against both the event management team and the university's administration. The movie is set to premiere worldwide on August 26.",
-    "img": "https://static.toiimg.com/photo/msid-133436582,imgsize-1433264.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/four-injured-at-yashs-toxic-event-in-hyderabad-as-sound-structure-collapses-police-register-case-against-management-and-event-manager-report/articleshow/133436516.cms",
-    "time": "2026-08-23T08:03:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hayden Panettiere’s mom says she did not force her daughter to do anything",
-    "desc": "Lesley Vogel, mother of actress Hayden Panettiere, has firmly rejected claims of pressuring her daughter into acting. She emphasized that, although she was a strong presence in Hayden's life, she never resorted to abusive practices. Vogel highlighted that the early days of her daughter's career were primarily aimed at funding her college education. Meanwhile, Hayden has openly discussed the stress and demands she faced as a child in the industry.",
-    "img": "https://static.toiimg.com/photo/msid-133436520,imgsize-250403.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/hayden-panettieres-mother-claims-she-did-not-force-her-daughter-to-work-as-a-child-i-was-not-abusive-by-any-stretch/articleshow/133436502.cms",
-    "time": "2026-08-23T07:58:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Hence, proved': Taapsee Pannu hits back at Kangana Ranaut",
-    "desc": "The ongoing rivalry between Taapsee Pannu and Kangana Ranaut has flared up once more. In response to Kangana's sharp criticism of her upcoming film, Taapsee took to Instagram to post a cryptic Story, adding fuel to the fire. This feud, characterized by a history of jabs and exchanges, dates back several years to a past social media comment that sparked their contentious dynamic.",
-    "img": "https://static.toiimg.com/photo/msid-133436199,imgsize-426112.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hence-proved-taapsee-pannu-hits-back-with-a-cryptic-note-after-kangana-ranaut-calls-her-sasti-copy-and-makes-a-b-grade-dig/articleshow/133436146.cms",
-    "time": "2026-08-23T07:45:16.000Z"
-  },
-  {
     "cat": "World",
     "title": "No rush for Bangladesh PM Tarique Rahman’s India visit, national interest priority: Minister",
     "desc": "State Minister for Foreign Affairs’ remarks came amid continuing uncertainty over PM Rahman's visit to New Delhi. India has invited him for a bilateral visit as well as to attend the outreach session of the upcoming BRICS summit on September 12-13",
@@ -513,33 +549,6 @@ const newsData_en = [
     "time": "2026-08-23T07:44:15.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Vishwanath and Sons' BO: Suriya starrer eyes Rs 100 crore domestic net",
-    "desc": "Vishwanath And Sons has encountered a decline in box office performance during its second weekend. After a solid opening week, the film grossed Rs 81.60 crore in India. On its second Friday, earnings dropped to Rs 4.50 crore, with Rs 7.25 crore collected on Saturday. Currently, its net collection in India is around Rs 93.80 crore, making it critical to surpass the Rs 100 crore milestone.",
-    "img": "https://static.toiimg.com/photo/msid-133436170,imgsize-217147.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vishwanath-and-sons-box-office-collection-day-10-live-suriya-and-mamitha-baiju-starrer-eyes-rs-100-crore-domestic-net-amid-slower-second-weekend/articleshow/133436162.cms",
-    "time": "2026-08-23T07:33:51.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "In 1975, why was ' Sholay' declared a flop?",
-    "desc": "Despite being a box office triumph, Bollywood classic Sholay was initially labeled a flop, drawing concern from newspapers about its hefty budget's impact on the film industry. Director Ramesh Sippy faced immense pressure during the Emergency to alter the ending. However, in a heartfelt 50th anniversary re-release, the original climax was brought back, earning overwhelming love and acclaim from audiences.",
-    "img": "https://static.toiimg.com/photo/msid-133435994,imgsize-342356.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/in-1975-amitabh-bachchan-and-dharmendras-sholay-made-rs-50-crores-then-why-was-it-declared-a-flop/articleshow/133435909.cms",
-    "time": "2026-08-23T07:20:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Awarapan 2': Emraan Hashmi sequel surges to Rs 193 crore globally",
-    "desc": "Awarapan 2 continues to hold strong as it heads into its second weekend, with the film showing renewed strength through its second week after settling into a steady weekday rhythm. Emraan Hashmi's sequel has comfortably outpaced its Independence Day rivals and shows no signs of slowing down meaningfully, adding healthy sums on both Day 8 and Day 9. Here's a closer look at the Day 10 collections.",
-    "img": "https://static.toiimg.com/photo/msid-133436075,imgsize-93918.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/awarapan-2-box-office-collection-day-10-live-emraan-hashmi-and-disha-patani-film-eyes-rs-130-crore-india-net-after-strong-second-weekend-as-worldwide-haul-crosses-rs-180-crore/articleshow/133436033.cms",
-    "time": "2026-08-23T07:18:22.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Before AI, there was the Mechanical Turk: The chess machine that wasn’t",
     "desc": "The Mechanical Turk first appeared in 1770 as a chess-playing machine that astonished audiences across Europe and the Americas. It played Benjamin Franklin and Napoleon Bonaparte, but the secret was a skilled chess player hidden inside its cabinet. Despite widespread suspicion, the illusion endured for decades. Its story offers a striking reminder that the impression of an autonomous mind can hide the reality behind it.",
@@ -547,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/before-ai-there-was-the-mechanical-turk-the-chess-machine-that-wasnt/articleshow/133436010.cms",
     "time": "2026-08-23T07:15:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'National Treasure 3' confirmed by Jon Turteltaub",
-    "desc": "Director Jon Turteltaub confirmed National Treasure 3 is in development. A script has been written and approved by both the director and Disney. Nicolas Cage is expected to reprise his role as Benjamin Gates. Producer Jerry Bruckheimer has also given his blessing for the screenplay. This news renews significant interest in the adventure franchise.",
-    "img": "https://static.toiimg.com/photo/msid-133435932,imgsize-316555.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/its-finally-real-national-treasure-3-finally-happening-as-jon-turteltaub-confirms-script-is-approved-and-nicolas-cage-may-return/articleshow/133435887.cms",
-    "time": "2026-08-23T07:05:43.000Z"
   },
   {
     "cat": "World",
@@ -676,66 +676,12 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "Report",
-    "desc": "Non-banking financial companies anticipate steady growth ahead. Credit demand remains robust despite global geopolitical uncertainties. NBFC earnings showed strong growth in the first quarter of FY27. Vehicle financiers experienced accelerated asset under management growth. Gold financiers saw moderated growth and yield pressures.",
-    "img": "https://static.toiimg.com/photo/msid-133421476,imgsize-170176.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/nbfcs-stay-on-growth-track-as-asset-quality-remains-stable-report/articleshow/133421416.cms",
-    "time": "2026-08-22T09:46:41.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "RBI sees forex inflows of $72.85 billion via FCNR (B), OFCB, ECB Swap facility",
     "desc": "The position of forex inflows as reported by Authorised Dealer Banks to the RBI till August 21, 2026 includes $64.40 billion by way of FCNR (B) deposits; $4.86 billion via OFCBs and $2.59 billion by ECBs",
     "img": "https://th-i.thgim.com/public/incoming/ty0bjp/article71377167.ece/alternates/LANDSCAPE_1200/RBI-issues-striG1JGBVF77.4.jpg.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/rbi-sees-forex-inflows-of-7285-billion-via-fcnr-b-ofcb-ecb-swap-facility/article71377108.ece",
     "time": "2026-08-22T09:44:30.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "How a landmark child safety trial could reshape Facebook, Insta",
-    "desc": "Twenty-nine US states are suing Meta, alleging exploitative product design targeting young users. The lawsuit claims Meta concealed internal research about potential harms to teenagers. States seek substantial financial penalties and court-ordered product redesigns for Facebook and Instagram. A former Meta engineer will testify as a key witness in the ongoing trial. This case could significantly influence future social media platform regulations globally.",
-    "img": "https://static.toiimg.com/photo/msid-133420282,imgsize-41208.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/29-states-vs-meta-how-a-landmark-child-safety-trial-could-reshape-facebook-and-instagram/articleshow/133420026.cms",
-    "time": "2026-08-22T08:03:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Neeraj Chopra finishes second, Pathirage wins title in Lausanne Diamond League",
-    "desc": "His 88.05m throw in the second round, which fetched him the second spot in the nine-man star-studded field, was his best after the 88.16m he recorded while winning the Paris Diamond League in June 2025",
-    "img": "https://th-i.thgim.com/public/incoming/fs3mpk/article71375344.ece/alternates/LANDSCAPE_1200/Switzerland_Diamond_League_Athletics_58277.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/neeraj-chopra-finishes-second-pathirage-wins-title-in-lausanne-diamond-league/article71375340.ece",
-    "time": "2026-08-22T07:31:14.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "US-Canada trade standoff: 50% tariff kicks in as Ottawa vows 'dollar-for-dollar' response",
-    "desc": "Trade negotiations between the United States and Canada fell apart after a three-day face-off. Canada called a halt to discussions, criticizing the US for presenting proposals that were both unfair and detrimental. In a dramatic move, the US introduced hefty tariffs on Canadian goods, prompting Canada to respond with an equal retaliatory measure. This failure to reach an agreement casts uncertainty over North American trade relations moving forward.",
-    "img": "https://static.toiimg.com/photo/msid-133418207,imgsize-52076.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/us-canada-trade-standoff-50-tariff-kicks-in-as-ottawa-vows-dollar-for-dollar-response/articleshow/133417998.cms",
-    "time": "2026-08-22T05:40:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Women’s Hockey World Cup: India goes down fighting to Netherlands, suffers first loss",
-    "desc": "Jansen and Matla’s penalty-corner goals take the defending champion into the semifinals; Marijne’s side pays the price for squandering the limited chances; however, the draw between Australia and China leaves the door open for all three sides",
-    "img": "https://th-i.thgim.com/public/incoming/3t2p95/article71375280.ece/alternates/LANDSCAPE_1200/AFP_C6969XT.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/hockey/womens-hockey-world-cup-india-goes-down-fighting-to-netherlands-suffers-first-loss/article71375283.ece",
-    "time": "2026-08-22T05:35:08.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "'Unfair': Canada suspends trade talks with US, PM Carney says will match tariffs 'dollar for dollar'",
-    "desc": "In response to unfair trade terms imposed by the United States, Canada has decided to suspend its trade negotiations. With significant tariffs on Canadian imports set to take effect at midnight, Prime Minister Carney announced that Canada will retaliate with equivalent tariffs. Negotiators are being recalled to Ottawa, reflecting the uncertainty in discussions as Canada now shifts its focus towards boosting domestic economic growth and seeking new international trade opportunities.",
-    "img": "https://static.toiimg.com/photo/msid-133416914,imgsize-106130.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/unfair-canada-suspends-trade-talks-with-us-pm-carney-says-will-match-tariffs-dollar-for-dollar/articleshow/133416901.cms",
-    "time": "2026-08-22T03:51:35.000Z"
   },
   {
     "cat": "World",
@@ -748,30 +694,12 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting",
-    "desc": "In a groundbreaking move, China has launched an extensive automotive recall, impacting 4.3 million vehicles across multiple manufacturers including Tesla. Safety regulators have raised alarms about the potential difficulty occupants may face in opening doors during emergency situations. Tesla is responsible for almost three million of these recalls, focusing on solutions such as software enhancements and additional warning labels.",
-    "img": "https://static.toiimg.com/photo/msid-133416213,imgsize-44846.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/4-3-million-vehicles-recalled-in-china-over-safety-risks-tesla-accounts-for-2-98-million/articleshow/133416035.cms",
-    "time": "2026-08-22T02:41:33.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "Indian payments firms raised $5.8 bn in last five years",
     "desc": "Five biggest recipients — CRED and PhonePe, with roughly $1 billion each, Pine Labs with $641 million, Razorpay with $535 million and BharatPe with $440 million -- accounted for about 66% of disclosed capital raised",
     "img": "https://th-i.thgim.com/public/incoming/dqeklj/article71374987.ece/alternates/LANDSCAPE_1200/BIZ-TAXATION-BIGC4GBVLRC.3.jpg.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/indian-payments-firms-raised-58-bn-in-last-five-years/article71374804.ece",
     "time": "2026-08-21T16:19:58.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Imran Khan ‘tortured, isolated’ in jail: sister",
-    "desc": "Jailed former Prime Minister Imran Khan’s sister on Friday (August 21) alleged that her brother was being tortured and subjected to isolation in prison, as she detailed his deteriorating health and ongoing treatment for a retinal haemorrhage.",
-    "img": "https://th-i.thgim.com/public/incoming/q29sa1/article71374922.ece/alternates/LANDSCAPE_1200/imran.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/imran-khan-tortured-isolated-in-jail-sister/article71374921.ece",
-    "time": "2026-08-21T16:06:16.000Z"
   },
   {
     "cat": "Entertainment",
@@ -898,5 +826,77 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/club-kid-trailer-jordan-firstmans-cannes-breakout-brings-his-wild-queer-comedy-to-the-screen/article71368088.ece",
     "time": "2026-08-20T06:58:43.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Camera Looks, a built-in teleprompter and AI that earns its place",
+    "desc": "Google’s Pixel 11 series lets you choose how your photos look at the moment of capture and puts a teleprompter inside the camera app, with the return of the notification light reserved for the Pro models, from ₹89,999",
+    "img": "https://th-i.thgim.com/public/incoming/rzjqrv/article71340819.ece/alternates/LANDSCAPE_1200/Portfolio%202.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/gadgets/google-pixel-11-series-first-look-camera-looks-a-built-in-teleprompter-and-ai-that-earns-its-place/article71340770.ece",
+    "time": "2026-08-16T04:21:48.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "What happens when AI begins to design viruses?",
+    "desc": "The Stanford experiment does not show that AI can casually manufacture dangerous human viruses; it shows that computers are beginning to move from analysing biological information towards proposing biological designs that scientists can physically build. This requires appropriate governance and safeguards",
+    "img": "https://th-i.thgim.com/public/incoming/s10mbe/article71340049.ece/alternates/LANDSCAPE_1200/IMG_iStock-1446239060_2_1_NVC38GDD.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/health/what-happens-when-ai-begins-to-design-viruses/article71339862.ece",
+    "time": "2026-08-13T08:56:30.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
+    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
+    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
+    "time": "2024-03-12T09:45:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
+    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
+    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
+    "time": "2024-03-11T10:20:19.000Z"
   }
 ];
