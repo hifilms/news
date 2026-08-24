@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Dhruv Jurel smashes second Test ton, shows off signature 'Jai Jawan, Jai Kisan' tattoo to celebrate",
+    "desc": "India and Sri Lanka took on each other on day 2 of the ongoing second Test, and the clash saw India continue to showcase their batting prowess. Beginning the day on a score of 300/5,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dhruv-jurel-smashes-second-test-ton-shows-off-signature-jai-jawan-jai-kisan-tattoo-to-celebrate-2026-08-24-1052288",
+    "time": "2026-08-24T11:21:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How can Australia’s Test team benefit from their upcoming ODI series against SA? Pat Cummins opines",
+    "desc": "Australia is gearing up for several ODI assignments, with the ODI World Cup 2027 looming on the horizon; the various teams are hard at work preparing for the tournament. However, the Australian cricket team is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/how-can-australia-s-test-team-benefit-from-their-upcoming-odi-series-against-sa-pat-cummins-opines-2026-08-24-1052286",
+    "time": "2026-08-24T10:57:34.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ICC announce sanctions for Yashasvi Jaiswal and Asitha Fernando after on-field altercation in second Test",
+    "desc": "In a major development, the ICC (International Cricket Council) has come forward and announced sanctions for India batter Yashasvi Jaiswal and Sri Lanka’s Asitha Fernando after the duo were involved in an altercation with each...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/icc-announce-sanctions-for-yashasvi-jaiswal-and-asitha-fernando-after-on-field-altercation-in-second-test-2026-08-24-1052276",
+    "time": "2026-08-24T09:49:05.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Former India cricketer questions Dhruv Jurel's batting position as India dismantle Sri Lanka in Colombo",
     "desc": "Team India is putting in a brilliant performance against Sri Lanka. The two sides met in Colombo for the second Test of the series. On day 1 of the clash, India posted a total of...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/devdutt-padikkal-continues-red-hot-form-smashes-consecutive-century-to-keep-sl-at-bay-in-2nd-test-2026-08-23-1052217",
     "time": "2026-08-23T11:03:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Karn Sharma, 4-time IPL winner, announces retirement from professional cricket",
-    "desc": "In a major development, veteran India spinner Karn Sharma has come forward and announced his retirement from professional cricket. At 38 years old, Karn Sharma announced his decision to hang up his boots. It is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/karn-sharma-4-time-ipl-winner-announces-retirement-from-professional-cricket-2026-08-23-1052213",
-    "time": "2026-08-23T10:18:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer backs team India to support Kuldeep Yadav after his exclusion from second Test's XI",
-    "desc": "The Indian team took on Sri Lanka in the second Test of the series. The two sides met at the Sinhalese Sports Club Ground, Colombo, from August 23, and India came in to bat first....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-backs-team-india-to-support-kuldeep-yadav-after-his-exclusion-from-second-test-s-xi-2026-08-23-1052209",
-    "time": "2026-08-23T08:19:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "WTC updated points table after Australia decimate Bangladesh in Mackay to level two-game series",
-    "desc": "Australia put forth a magnificent performance against Bangladesh as they registered a brilliant win in the second Test of the series. The two teams met at the Great Barrier Reef Arena in Mackay for the clash,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/wtc-updated-points-table-after-australia-decimate-bangladesh-in-mackay-to-level-two-game-series-2026-08-23-1052202",
-    "time": "2026-08-23T06:58:02.000Z"
   }
 ];

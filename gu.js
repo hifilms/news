@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "સદીનું સૌથી મજબૂત &amp;#039;El Nino&amp;#039; વધારશે ભારતની ચિંતા! નબળા વરસાદ અને રેકોર્ડબ્રેક ગરમીનું જોખમ",
+    "desc": "બ્રિટનના હવામાન વિજ્ઞાન વિભાગે પ્રશાંત મહાસાગરમાં વિકસિત થઈ રહેલા મજબૂત El Nino ને લઈને ચેતવણી આપી છે. તેના કારણે 2027 દુનિયાનું સૌથી ગરમ વર્ષ બની શકે છે. તેની ભારત પર શું અસર પડશે, આવો જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/strongest-el-ni%C3%B1o-of-the-century-to-raise-indias-concerns-risk-of-weak-monsoon-and-record-heat-488726 ",
+    "time": "2026-08-24T10:54:27.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ફોનમાં 5G તો પણ ઇન્ટરનેટ છે ધીમું ? ફક્ત નેટવર્ક જ નથી, આ 5 કારણો પણ હોઈ શકે છે જવાબદાર",
+    "desc": "જો તમારા ફોનમાં 5G આઇકન દેખાય પછી પણ તમારા મોબાઈલમાં ઇન્ટરનેટ સ્પીડ ધીમી હોય, તો તેનો અર્થ એ નથી કે ફોન ખરાબ થઈ રહ્યો છે. તેનું કારણ શું હોઈ શકે છે અને તેને કેવી રીતે ઠીક કરવું તે જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/even-though-the-phone-has-5g-the-internet-is-still-slow-its-not-just-the-network-these-5-reasons-could-also-be-responsible-488724 ",
+    "time": "2026-08-24T10:44:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "હર્ષા ભોગલે પર ભડક્યો યશસ્વી જયસ્વાલ, કહ્યું- ‘કંઈ ખબર ન હોય તો ચૂપ રહો!’",
+    "desc": "કોલંબો ટેસ્ટના પહેલા દિવસે અસિથા ફર્નાન્ડો સાથે થયેલા ઝઘડા અંગે યશસ્વી જયસ્વાલે પોતાનું મૌન તોડ્યું છે. તેણે હર્ષ ભોગલેના એક વીડિયો પર પ્રતિક્રિયા આપતા કહ્યું છે કે જો કોઈને આ મામલાની સંપૂર્ણ વિગતો ખબર ન હોય તો ચૂપ રહેવું જોઈએ. યશસ્વી જયસ્વાલની પ્રતિક્રિયા સોશિયલ મીડિયા પર વાયરલ થઈ રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/yashasvi-jaiswal-slammed-harsha-bhogle-over-ashitha-fernando-controversy-488723 ",
+    "time": "2026-08-24T10:23:08.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "કાર રોકવા માટે પહેલા ક્લચ દબાવવો કે બ્રેક? આજે જ જાણી લો સાચી રીત",
+    "desc": "કાર ચલાવતા પહેલા, તેને કેવી રીતે રોકવી તે જાણવું મહત્વપૂર્ણ છે. ક્લચ પહેલા દબાવો કે બ્રેક, તે પ્રશ્ન ઘણીવાર ઉદ્ભવે છે. ચાલો કાર રોકવાની સાચી રીત જાણીએ અને મોટા ભાગના લોકો આ ભુલ કરે છે તેના કારણે ગાડીની એવરેજ ઓછી પણ આવે છે અને એન્જીન પર વધારે લોડ પડી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/should-you-press-the-clutch-or-the-brake-first-to-stop-the-car-find-out-the-correct-way-today-488714 ",
+    "time": "2026-08-24T09:54:56.000Z"
+  },
+  {
     "cat": "Business",
     "title": "₹1.64 લાખ પર પહોંચ્યું સોનું, શું ફરી તોડશે મોંઘવારીનો રેકોર્ડ? ચાંદીના ભાવમાં આજે અચાનક ઘટાડો",
     "desc": "સોનાના ભાવ ફરી વધવા લાગ્યા છે. આજે 10 ગ્રામ સોનાના ભાવમાં 3100 રૂપિયાથી વધુનો વધારો થયો છે, જ્યારે ચાંદીના ભાવમાં અચાનક ઘટાડો થયો છે. કેમ સોના અને ચાંદીના ભાવમાં વધઘટ થઈ રહી છે? ચાલો તેના વિશે જાણીએ.",
@@ -225,15 +261,6 @@ const newsData_gu = [
     "time": "2026-08-22T15:04:37.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "રડતી માતાની આજીજી, બેટા હું મારું મંગળસૂત્ર કાઢીને ફેંકી રહી છું, આપણે અલગ રહીશું પણ દીકરાની જીદથી માતા-પિતાના પણ થયા મોત",
-    "desc": "ગઈકાલથી આ કેસ જબરદસ્ત ચર્ચામાં છે. છત્રપતિ સંભાજીનગરમાં એક પુત્રનો પિતા સાથે મોબાઇલ ફોન પરના વિવાદમાં 200 ફૂટ ઉડી ખીણમાં કૂદકો અને એ સમયે માતાએ દીકરાને કરેલી વિનવણીઓ તમારા આત્માને હચમચાવી મૂકશે. એક આખો પરિવાર પૂરો થઈ ગયો છે પણ આ ઘટનાની ઈનસાઈડ સ્ટોરી જબરદસ્ત છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/chhatrapati-sambhajinagar-tragedy-11th-grader-to-death-over-mobile-phone-emi-dispute-parents-leap-into-ravine-after-him-488450 ",
-    "time": "2026-08-22T14:44:36.000Z"
-  },
-  {
     "cat": "Business",
     "title": "માત્ર 1 દિવસ બાકી... ફટાફટ પતાવી લો આ કામ, નહીંતર બંધ થઈ જશે LPG કનેક્શન !",
     "desc": "જો તમે પણ LPG ગ્રાહક છો અને હજુ સુધી LPG e-KYC કરાવ્યું નથી, તો ફટાફટ આ કામ પહેલા પૂરું કરી લેજો. કારણ કે 23 ઓગસ્ટ e-KYC માટેની છેલ્લી તારીખ છે, જો તમે e-KYC નહીં કરાવો તો તમારું LPG કનેક્શનને સસ્પેન્ડ થઈ શકે છે.",
@@ -304,15 +331,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/chhatrapati-sambhajinagar-tragedy-11th-grader-jumps-to-death-over-mobile-phone-emi-dispute-parents-leap-into-ravine-after-him-488460 ",
     "time": "2026-08-22T10:05:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "છોકરીએ અડધી રાત સુધી ખરીદી કરી અને લગ્નની સવારે ફોન બંધ કરી દીધો, ઘરે સગાસંબધીઓ આવી ગયા ને...",
-    "desc": "લૂંટેરી દુલ્હના કિસ્સા માટે ગુજરાત પણ ફેમસ છે. આ પ્રકારના કેસો રાજ્યમાં ઓછા થયા છે પણ બંધ થયા નથી. આંધ્ર પ્રદેશના કડપામાં એક મહિલાએ લગ્નના બહાને એક યુવાનને ₹6 લાખમાં ઉતારી લીધો છે. લગ્નની સવારે જ ફોન બંધ કરીને ભાગી જતાં છોકરો દોડતો થઈ ગયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/luteri-dulhan-scam-in-andhra-pradesh-bride-takes-inr-6-lakhs-for-wedding-shopping-switches-off-phone-on-marriage-morning-488441 ",
-    "time": "2026-08-22T08:02:37.000Z"
   },
   {
     "cat": "Entertainment",
@@ -432,15 +450,6 @@ const newsData_gu = [
     "time": "2026-08-20T08:08:53.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "ટીમ ઈન્ડિયાને WTC ફાઇનલમાં પહોંચવા માટે હજુ કેટલી જીતની જરૂર ? બદલાઈ ગયું સમીકરણ",
-    "desc": "ભારતે ગાલેમાં રમાયેલી પહેલી મેચ 165 રનથી જીતીને શ્રેણીમાં 1-0ની લીડ મેળવી છે. ભારતે આ મેચમાં બેટિંગ અને બોલિંગ બંનેમાં શાનદાર પ્રદર્શન કર્યું. હવે, ભારતીય ટીમને વર્લ્ડ ટેસ્ટ ચેમ્પિયનશિપ માટે ક્વોલિફાય થવા માટે કેટલી વધુ મેચ જીતવાની જરૂર છે ? તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/wtc-final-scenario-how-many-more-wins-does-team-india-need-to-reach-final-488215 ",
-    "time": "2026-08-19T15:59:26.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "શા માટે દીકરા સાથે સુનીતા આહૂજા પહોંચી ફેમેલી કોર્ટ ? સાચું કારણ આવ્યું સામે",
     "desc": "ગોવિંદા અને સુનીતા આહૂજાની લડાઈ કેમેરા સામે થયા પછી સુનીતા આહૂજા પહેલીવાર ફેમેલી કોર્ટમાં જોવા મળી હતી. આ સમયે તેનો દીકરો તેની સાથે જોવા મળ્યો હતો. સુનીતા આહુજા કોર્ટમાં શા માટે ગઈ હતી તેનું કારણ પણ સામે આવ્યું છે.",
@@ -538,15 +547,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/this-is-the-most-unique-island-in-the-world-where-the-country-administration-changes-every-6-months-history-of-pheasant-island-487917 ",
     "time": "2026-08-16T12:45:00.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "17 KM માઇલેજ, સનરૂફ અને ADAS! આ ફેમિલી SUV પર મળી રહ્યું છે ₹2.45 લાખનું બમ્પર ડિસ્કાઉન્ટ",
-    "desc": "ઓગસ્ટ 2026મા Honda Elevate ખરીદવાનો પ્લાન હોય તો તમારા માટે સારા સમાચાર છે. Great Honda Fest કેમ્પેન હેઠળ આ મિડ-સાઇઝ એસયુવી પર 2.45 લાખ સુધીનું ડિસ્કાઉન્ટ આપવામાં આવી રહ્યું છે. તેમાં કેશ ડિસ્કાઉન્ટ, એક્સચેન્જ બોનસ, લોયલ્ટી અને કોર્પોરેટ ઓફર સામેલ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/17-km-mileage-sunroof-and-adas-bumper-discount-of-2-45-lakh-offered-on-this-family-suv-487895 ",
-    "time": "2026-08-16T08:03:10.000Z"
   },
   {
     "cat": "World",
