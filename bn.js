@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "'আমার পরিবারকে একেবারে শেষ করে দিল'! আইফোনের জেরে ৩ মৃত্যুর পর রহস্য বাড়াল মায়ের বিস্ফোরক পোস্ট",
+    "desc": "তদন্তে নেমে পুলিস জানতে পেরেছে, ঠিক এক বছর আগেও কুণাল একই জায়গায় গিয়ে আত্মহত্যার চেষ্টা করেছিলেন। ছয় বছর আগে তাদের বড় ছেলের মৃত্যুর পর থেকেই পরিবারটির কলহ চরম আকার ধারণ করে। মানসিক অশান্তির কারণে মুরলীধর দীর্ঘদিন বাড়ি ফিরতেন না।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/maharashtra-teens-mothers-old-video-surfaces-after-hill-tragedy_668007.html ",
+    "time": "2026-08-24T04:38:03.000Z"
+  },
+  {
     "cat": "World",
     "title": "'কিচ্ছু দেব না'... কানাডার উপর ৫০% শুল্ক আরোপ ট্রাম্পের, এবার ডলারে-ডলারে 'বন্ধু'কে বুঝে নেবে কানাডা! হুঙ্কার প্রধানমন্ত্রীর",
     "desc": "মার্ক কার্নি আর রেয়াত করলেন না ডোনাল্ড ট্রাম্পকে। সাফ জানিয়ে দিলেন আগামী ৮ সেপ্টেম্বর থেকে আমেরিকার পণ্যের উপর 'ডলার-ফর-ডলার' পাল্টা শুল্ক আরোপ করবে কানাডা। ট্রাম্প প্রায় ২০ বিলিয়ন আমেরিকার ডলার মূল্যের কানাডীয় পণ্যের উপর ৫০ শতাংশ শুল্ক চাপানোর পরই এই সিদ্ধান্ত নিয়েছেন কার্নি।",
@@ -133,15 +142,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/6-indians-onboard-hijacked-cargo-ship-carrying-turkish-weapons-near-somalia_667751.html ",
     "time": "2026-08-21T03:26:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "বিরাট পদক্ষেপ কেন্দ্রের! নাগরিকত্বের তৃতীয় সংশোধনী বিধি কার্যকর করল নয়া দিল্লি! নতুন বিধিতে কী আছে?",
-    "desc": "নাগরিকত্বের তৃতীয় সংশোধনী বিধি জারি, ক্ষমতা পেলেন জেলা শাসকরা। নাগরিকত্ব সংক্রান্ত আবেদনের প্রক্রিয়ায় বড়সড় পরিবর্তন আনল কেন্দ্র। ১৯ আগস্ট, ২০২৬-এ গেজেট বিজ্ঞপ্তি প্রকাশ করে The Citizenship (Third Amendment) Rules, 2026 কার্যকর করল কেন্দ্রীয় স্বরাষ্ট্র মন্ত্রক।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/citizenship-third-amendment-rules-2026-authorization-and-delegation-of-powers-to-district-collectors_667729.html ",
-    "time": "2026-08-20T15:09:28.000Z"
   },
   {
     "cat": "World",

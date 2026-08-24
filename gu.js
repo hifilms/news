@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "ન વરસાદ ન ખરાબ રોશની, માત્ર 10 બોલમાં ટેસ્ટ મેચ ખતમ; ક્રિકેટ ઇતિહાસનો સૌથી નાનો મુકાબલો",
+    "desc": "ઈંગ્લેન્ડ અને વેસ્ટ ઈન્ડિઝ વચ્ચે વર્ષ 2009મા એક ટેસ્ટ મેચ રમાઈ જે માત્ર 10 બોલમાં ખતમ થઈ ગઈ હતી. ટેસ્ટ ઈતિહાસનો આ અત્યાર સુધીનો સૌથી નાનો મુકાબલો છે. મેચ સમાપ્ત થવાનું કારણ વરસાદ કે ખરાબ પ્રકાશ નહોતું, પરંતુ મેચ રેફરીએ મેદાનને ખતરનાક ગણાવી મેચ રદ્દ કરવાનો નિર્ણય કર્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/eng-vs-wi-2009-why-the-shortest-test-match-in-history-was-called-off-after-just-10-balls-488670 ",
+    "time": "2026-08-24T05:39:18.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "₹18,000 બેઝિક પે હવે કેટલું થશે? 8મા પગાર પંચમાં ફિટમેન્ટ ફેક્ટરનું જાણો આખું ગણિત",
+    "desc": "8મા CPC પર વાત ચાલી રહી છે અને ફિટમેન્ટ ફેક્ટર હજુ નક્કી થયું નથી. ફિટમેન્ટ ફેક્ટરનો સૌથી ઓછો અંદાજ 1.83થી 2.0ની વચ્ચે છે, જ્યારે ઉદ્યોગનો સરેરાશ અંદાજ 2.0થી 2.57ની વચ્ચે છે. કેન્દ્ર સરકારની મંજૂરી પછી જ કમિશનની ભલામણો લાગુ કરવામાં આવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/how-much-will-the-basic-pay-of-rs-18000-be-now-know-the-complete-math-of-fitment-factor-in-the-8th-pay-commission-488651 ",
+    "time": "2026-08-24T04:13:55.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "મહારાષ્ટ્રના અમરાવતીમાં મોટી દુર્ધટના, મહિલા હોસ્પિટલના SNCUમાં લાગી ભીષણ આગ, ત્રણ નવજાત બાળકોના મોત",
     "desc": "મહારાષ્ટ્રના અમરાવતી જિલ્લામાં મહિલા હોસ્પિટલના SNCU વોર્ડમાં ગઈકાલે મોડી રાત્રે આગ લાગી હતી, જેના કારણે મોટા પ્રમાણમાં ગભરાટ ફેલાયો હતો. આ ઘટનામાં ઓછામાં ઓછા ત્રણ નવજાત શિશુઓના મોત થયા છે. ફાયર ફાઇટર ઘટનાસ્થળે પહોંચ્યા હતા અને આગ પર કાબુ મેળવવાનો પ્રયાસ કર્યો હતો.",
@@ -315,15 +333,6 @@ const newsData_gu = [
     "time": "2026-08-22T07:11:02.000Z"
   },
   {
-    "cat": "Business",
-    "title": "29 વર્ષની રાહનો આવ્યો અંત! આવી રહ્યો છે આ કાપડની કંપનીનો IPO, જાણો ડિટેલ",
-    "desc": "છેલ્લા કેટલાક સમયથી IPO માર્કેટમાં અનેક દિગ્ગજ કંપનીઓ આવી છે, જો કે અનેક કંપનીઓ હાલમાં પણ આવી રહી છે, 1997માં સ્થાપિત મધુર નીટ ક્રાફ્ટ્સ લિમિટેડ, કાપડ ઉત્પાદન કંપની છે. તેનો 53.28 કરોડ રૂપિયાનો IPO 24 ઓગસ્ટે ખુલવા જઈ રહ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/the-29-year-wait-is-over-this-textile-company-ipo-is-coming-know-the-details-488423 ",
-    "time": "2026-08-22T05:39:16.000Z"
-  },
-  {
     "cat": "World",
     "title": "2050 સુધી દુનિયાના સૌથી મોટો શહેરો કયા હશે? ટોપમાં ભારતના આ બે સિટીનો થશે સમાવેશ, રિપોર્ટમાં ખુલાસો",
     "desc": "2050 સુધીમાં, વિશ્વના સૌથી વધુ વસ્તી ધરાવતા શહેરો બદલાઈ શકે છે. સંયુક્ત રાષ્ટ્રનો અંદાજ છે કે ઢાકા 5.21 કરોડની વસ્તી સાથે આગળ વધી શકે છે, જ્યારે નવી દિલ્હી 3.39 કરોડ સાથે ટોચના શહેરોમાં સ્થાન મેળવશે.",
@@ -331,15 +340,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/which-will-be-the-largest-cities-in-the-world-by-2050-these-two-indian-cities-will-be-included-in-the-top-reveals-the-report-488402 ",
     "time": "2026-08-21T16:01:53.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "21થી 31 ઓગસ્ટ દરમિયાન 6 દિવસ માટે બેંકો બંધ રહેશે, જાણી લો નહીંતર થશે ધક્કો !",
-    "desc": "ઓગસ્ટ મહિનાના છેલ્લા 10 દિવસ હવે બાકી રહ્યા છે. જો તમે આ 10 દિવસોમાં બેંકની કોઈ કામ કરવાનું વિચારી રહ્યા છો, તો તમારે પહેલા જાણવું જોઈએ કે બેંકો ક્યારે બંધ રહેશે, નહીંતર તમારે ધરમનો ધક્કો થઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/banks-will-be-closed-for-6-days-from-august-21-to-31-know-this-or-else-there-will-be-a-setback-488399 ",
-    "time": "2026-08-21T14:11:56.000Z"
   },
   {
     "cat": "Tech",
@@ -493,15 +493,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/ayesha-khan-flaunt-engagement-ring-ayesha-khan-engagement-news-is-true-or-not-488160 ",
     "time": "2026-08-19T09:30:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "આતો ખરેખર નોટ આઉટ છે, શ્રીલંકા સાથે થયો અન્યાય ? ધ્રુવ જુરેલના કેચ પર વિવાદ",
-    "desc": "ગાલે ટેસ્ટમાં ભારતે શ્રીલંકા સામે શાનદાર જીત નોંધાવી છે, આ જીત સાથે ભારત બે મચોની સિરીઝમાં 1-0થી આગળ છે. મેચના ચોથા દિવસે ધ્રુવ જુરેલે કરેલા કેચને લઈને હવે વિવાદ શરૂ થયો છે, તો શ્રીલંકાના પૂર્વ ક્રિકેટર અને કોમેન્ટેટર રસેલ આર્નોલ્ડોએ પણ અમ્પાયરના નિર્ણય પર સવાલ ઉઠાવ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/india-vs-sri-lanka-dhruv-jurel-catch-controversy-russel-arnold-statement-488159 ",
-    "time": "2026-08-19T09:24:58.000Z"
   },
   {
     "cat": "Tech",

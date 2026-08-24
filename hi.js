@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Rishabh Pant surpasses Adam Gilchrist in elite list, achieves major milestone on day 2 of second SL Test",
+    "desc": "The Indian team continues their ongoing second Test of the series against Sri Lanka. The two sides met at the Sinhalese Sports Club Ground, Colombo, and day 1 of the clash ended with India scoring...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-surpasses-adam-gilchrist-in-elite-list-achieves-major-milestone-on-day-2-of-second-sl-test-2026-08-24-1052259",
+    "time": "2026-08-24T06:26:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cheteshwar Pujara remains hopeful for Yashasvi Jaiswal after altercation with Asitha Fernando",
+    "desc": "The Indian team is well into the second Test of the ongoing series against Sri Lanka. After registering a brilliant performance in the first Test and winning the game by 165 runs, the visitors have...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/cheteshwar-pujara-remains-hopeful-for-yashasvi-jaiswal-after-altercation-with-asitha-fernando-2026-08-24-1052251",
+    "time": "2026-08-24T05:08:26.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India get off to stellar start to second Test, Devdutt Padikkal's century keeps SL on their toes on day 1",
     "desc": "The Indian team kicked off the second Test of the ongoing series between the two sides. The teams met at the Sinhalese Sports Club Ground, Colombo, from August 23rd, and the game began with India...",
     "img": "",
@@ -64,29 +82,11 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "IND vs SL 2nd Test, Day 1 LIVE SCORE: India post 300 as day 1 comes to an end",
-    "desc": "India and Sri Lanka take on each other in the second Test of the ongoing series between the two sides. The teams meet at the Sinhalese Sports Club Ground, Colombo, for the clash, and the game...",
+    "title": "IND vs SL 2nd Test, Day 2 LIVE SCORE: Jurel-Pant build solid partnership, Sri Lanka looking for wickets",
+    "desc": "India and Sri Lanka take on each other in the second Test of the ongoing series between the two sides. The teams meet at the Sinhalese Sports Club Ground, Colombo, for the clash. Day 1 of...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-sl-2nd-test-day-1-live-score-india-opt-to-bat-first-in-colombo-hope-for-good-start-in-crucial-clash-1052192",
     "time": "2026-08-23T04:32:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Carlos Alcaraz to pair with Selena Williams to play US Open mixed doubles",
-    "desc": "Serena Williams and Carlos Alcaraz will team up in mixed doubles at the 2026 US Open after receiving a wild card from the USTA. The partnership will put both players on court as they return...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-to-pair-with-selena-williams-to-play-us-open-mixed-doubles-2026-08-22-1052181",
-    "time": "2026-08-22T17:57:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch Real Madrid vs Espanyol live on TV and stream online in India?",
-    "desc": "Real Madrid set to begin their 2026-27 LaLiga campaign early Sunday night when Jose Mourinho takes his revamped side to face Espanyol at the RCDE Stadium. The match marks Mourinho’s first competitive game since returning...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/when-and-where-to-watch-real-madrid-vs-espanyol-live-on-tv-and-stream-online-in-india-2026-08-22-1052176",
-    "time": "2026-08-22T16:33:41.000Z"
   }
 ];
