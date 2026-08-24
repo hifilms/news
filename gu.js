@@ -1,6 +1,24 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "મહારાષ્ટ્રના અમરાવતીમાં મોટી દુર્ધટના, મહિલા હોસ્પિટલના SNCUમાં લાગી ભીષણ આગ, ત્રણ નવજાત બાળકોના મોત",
+    "desc": "મહારાષ્ટ્રના અમરાવતી જિલ્લામાં મહિલા હોસ્પિટલના SNCU વોર્ડમાં ગઈકાલે મોડી રાત્રે આગ લાગી હતી, જેના કારણે મોટા પ્રમાણમાં ગભરાટ ફેલાયો હતો. આ ઘટનામાં ઓછામાં ઓછા ત્રણ નવજાત શિશુઓના મોત થયા છે. ફાયર ફાઇટર ઘટનાસ્થળે પહોંચ્યા હતા અને આગ પર કાબુ મેળવવાનો પ્રયાસ કર્યો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/major-accident-in-amravati-maharashtra-massive-fire-breaks-out-in-sncu-of-womens-hospital-three-newborns-die-488642 ",
+    "time": "2026-08-24T03:06:40.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "શાહિદ કપૂરના કો-સ્ટારની ડ્રગ્સ કેસમાં ધરપકડ, 5 લાખથી વધુના ડ્રગ્સ મામલે ઝડપાયો એક્ટર",
+    "desc": "દેવા નામની ફિલ્મમાં શાહિદ કપૂર સાથે કામ કરી ચુકેલા એક્ટર રોહુલ્લાહ મેહદીની ડ્રગ્સ કેસમાં મુખ્ય આરોપી તરીકે ધરપકડ કરવામાં આવી છે. તેની પાસેથી 5 લાખથી વધુની કિંમતનો ડ્રગ્સ મળી આવ્યો હોવાની વાત પણ સામે આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/shahid-kapoor-deva-movie-co-actor-rohullah-mehdi-arrested-in-drugs-case-488640 ",
+    "time": "2026-08-24T02:38:47.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "2027ની વિધાનસભા ચૂંટણી BJPનો નવો ગેમપ્લાન તૈયાર! Gen-Zથી બૂથ સુધી કેવી રીતે બદલાશે રણનીતિ? જાણો",
     "desc": "ભારતીય જનતા પાર્ટી (BJP)એ આવતા વર્ષે યોજાનારી વિધાનસભા ચૂંટણી અને 2029ની લોકોસભા ચૂંટણી માટે તૈયારીઓ શરૂ કરી દીધી છે. આગામી ચૂંટણીઓમાં યુવા મતદારો ખાસ કરીને 'Gen Z'ને પાર્ટી સાથે જોડવા પર સૌથી વધુ ભાર મૂકવામાં આવ્યો છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -306,15 +324,6 @@ const newsData_gu = [
     "time": "2026-08-22T05:39:16.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "જંતર-મંતર પર એકઠા થયા જનરલ કેટેગરીના હજારો લોકો, UGCના નવા નિયમો અને અનામતનો કર્યો વિરોધ, જાણો",
-    "desc": "શુક્રવારે દિલ્હીના જંતર મંતર પર હજારો સામાન્ય વર્ગના પ્રદર્શનકારીઓએ UGCના સમાનતા નિયમો વિરુદ્ધ પ્રદર્શન કર્યું અને જાતિ આધારિત અનામતમાં સુધારાની માંગ કરી. પ્રદર્શન દરમિયાન કેટલાક લોકોએ SC/ST કાયદાનો પણ વિરોધ કર્યો અને તેને રદ કરવાની માંગ કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/thousands-of-people-from-the-general-category-gathered-at-jantar-mantar-protested-against-ugcs-new-rules-and-reservations-know-488403 ",
-    "time": "2026-08-21T16:22:44.000Z"
-  },
-  {
     "cat": "World",
     "title": "2050 સુધી દુનિયાના સૌથી મોટો શહેરો કયા હશે? ટોપમાં ભારતના આ બે સિટીનો થશે સમાવેશ, રિપોર્ટમાં ખુલાસો",
     "desc": "2050 સુધીમાં, વિશ્વના સૌથી વધુ વસ્તી ધરાવતા શહેરો બદલાઈ શકે છે. સંયુક્ત રાષ્ટ્રનો અંદાજ છે કે ઢાકા 5.21 કરોડની વસ્તી સાથે આગળ વધી શકે છે, જ્યારે નવી દિલ્હી 3.39 કરોડ સાથે ટોચના શહેરોમાં સ્થાન મેળવશે.",
@@ -574,15 +583,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/17-km-mileage-sunroof-and-adas-bumper-discount-of-2-45-lakh-offered-on-this-family-suv-487895 ",
     "time": "2026-08-16T08:03:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "KBCમાં દુનિયાના સૌથી નીચા ડૉક્ટર! 3 ફૂટ ઊંચાઈ, સર્કસની ઓફર ઠુકરાવી કર્યું MBBS, ચોંકી ગયા અમિતાભ બચ્ચન",
-    "desc": "સૌથી નીચા ડોક્ટર તરીકે જાણીતા ગણેશ બારૈયા અમિતાભ બચ્ચનના શો કૌન બનેગા કરોડપતિ 18 માં દેખાયા હતા. તેમણે શોમાં પોતાના સંઘર્ષો વર્ણવ્યા હતા. તેમણે સમજાવ્યું હતું કે તેમના નાના કદના કારણે તેમને એમબીબીએસમાં પ્રવેશ મળતો નહોતો. જો કે, તેમણે હાર માનવાનો ઇનકાર કર્યો હતો અને આજે તેઓ ડૉક્ટર બન્યા હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/worlds-shortest-doctor-in-kbc-3-feet-tall-rejected-circus-offer-to-get-mbbs-amitabh-bachchan-was-shocked-487864 ",
-    "time": "2026-08-16T05:31:18.000Z"
   },
   {
     "cat": "World",

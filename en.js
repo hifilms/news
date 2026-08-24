@@ -1,5 +1,212 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Lanier makes history as France strikes twice; Se-young wins again",
+    "desc": "Alex Lanier has made headlines as he became the first French singles player to capture the World Championship title, with a striking victory over Kodai Naraoka on Sunday. French pair Thom Gicquel and Delphine Delrue also celebrated success by winning gold in mixed doubles. In another remarkable moment, An Se-young triumphed in the women's singles, successfully achieving a historic clean sweep of premier titles.",
+    "img": "https://static.toiimg.com/photo/msid-133450284,imgsize-74208.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/bwf-world-championships-alex-lanier-makes-history-as-france-strikes-twice-an-se-young-wins-again/articleshow/133450235.cms",
+    "time": "2026-08-24T03:23:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kartik Aaryan shares PIC from hospital after knee surgery, drops health update",
+    "desc": "Kartik Aaryan took to social media to update fans on his recovery journey following a knee injury he suffered while shooting. Sharing photos from his hospital days and his subsequent healing process at home, the actor revealed that his surgery was successful. His representative has assured fans that his return to the film set is imminent and that production timelines will not be disrupted.",
+    "img": "https://static.toiimg.com/photo/msid-133450218,imgsize-268408.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kartik-aaryan-drops-first-post-shares-pic-from-hospital-after-knee-surgery-with-iv-cannulas-giving-health-update-kabir-sir-said-break-a-leg/articleshow/133450182.cms",
+    "time": "2026-08-24T03:17:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Three newborns die in fire at government hospital’s NICU in Amravati, Maharashtra",
+    "desc": "A ventilator in the NICU on the third floor of the district women’s hospital suddenly sparked at 3.15 a.m., triggering a fire in the unit; six infants admitted to a super speciality hospital, officials said",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/l1ti5y/article71285300.ece/alternates/LANDSCAPE_1200/Breaking%20News%20placeholder.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-amravati-hospital-fire-babies-killed-august-24-2026/article71383085.ece",
+    "time": "2026-08-24T03:17:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Next James Bond already chosen? 007 casting enters FINAL stage",
+    "desc": "The search for the next James Bond is reportedly in its final stages. Industry insiders suggest the actor may have already been selected for the role. Screen tests were expected to take place in August for the finalists. Producer Amy Pascal indicated casting news would arrive by year's end. This next installment marks the franchise's debut under Amazon MGM Studios.",
+    "img": "https://static.toiimg.com/photo/msid-133450180,imgsize-204210.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/next-james-bond-already-chosen-007-casting-enters-final-stage-reports/articleshow/133449705.cms",
+    "time": "2026-08-24T03:13:22.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Mahabharat', 'Baazigar' actor Aasha Singh Jaiswal passes away in Mumbai",
+    "desc": "Aasha Singh Jaiswal, a beloved veteran actor and skilled mimicry artist, passed away in Mumbai on August 22. Known for her substantial contributions to film and television, she was fondly remembered as an 'Iron Lady' by her son, Akkash Bharadwaj, on social media. Her remarkable legacy will undoubtedly continue to shine through her diverse body of work.",
+    "img": "https://static.toiimg.com/photo/msid-133450077,imgsize-146349.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mahabharat-baazigar-actor-aasha-singh-jaiswal-known-for-mimicking-meena-kumar-passes-away-in-mumbai-her-son-confirms-the-news-calls-her-iron-lady/articleshow/133449989.cms",
+    "time": "2026-08-24T03:05:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "No need to fake Kuldeep Yadav’s illness: Sitanshu Kotak",
+    "desc": "Indian batting coach Sitanshu Kotak confirmed Kuldeep Yadav's viral fever, dismissing speculation about his absence. Rishabh Pant retired hurt after being struck on the wrist by a bouncer. He is expected to resume his innings on Monday, aiding the team's score. Tempers flared between Yashasvi Jaiswal and Asitha Fernando following Jaiswal's dismissal. Kotak called the confrontation a heat of the moment incident.",
+    "img": "https://static.toiimg.com/photo/msid-133450024,imgsize-93666.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/no-need-to-fake-kuldeep-yadavs-illness-sitanshu-kotak/articleshow/133449974.cms",
+    "time": "2026-08-24T03:02:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lesley Vogel says Brian Hickerson pawned off Hayden Panettiere's items",
+    "desc": "In a shocking revelation, Hayden Panettiere's mother, Lesley Vogel, disclosed that her late daughter's ex-partner, Brian Hickerson, sold off several of her possessions before her passing. Vogel described how, during their final encounter, Panettiere appeared visibly distressed. Meanwhile, it’s worth noting that Hickerson had filed for bankruptcy in 2022, and authorities are currently examining the circumstances surrounding the actress's tragic demise.",
+    "img": "https://static.toiimg.com/photo/msid-133449862,imgsize-186052.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brian-hickerson-pawned-off-hayden-panettieres-things-lesley-vogel-makes-new-claims-about-her-daughters-life/articleshow/133449818.cms",
+    "time": "2026-08-24T02:50:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "DMK’s regional satraps among 22 who will lose district secretary posts",
+    "desc": "Thirty-three additional district units will be created and 55 new faces are likely to assume office as the DMK is set for a revamp following its defeat in the recent Assembly election, say party sources",
+    "img": "https://th-i.thgim.com/public/news/national/dvs0zk/article71381729.ece/alternates/LANDSCAPE_1200/stalin%20dmk.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/dmks-regional-satraps-among-22-who-will-lose-district-secretary-posts/article71381677.ece",
+    "time": "2026-08-24T02:36:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Baba Ramdev refuses to comment on Kangana Ranaut amid their ongoing spat",
+    "desc": "Baba Ramdev chose not to engage in the ongoing dispute with Kangana Ranaut, emphasizing that he prefers not to exacerbate any controversies. He further implied that he refrains from commenting on individuals he considers narrow-minded, which follows Ranaut's critical remarks about recent generations and Ramdev’s prior criticisms directed at her.",
+    "img": "https://static.toiimg.com/photo/msid-133449606,imgsize-397092.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/baba-ramdev-refuses-to-comment-on-kangana-ranaut-amid-their-ongoing-spat-me-ooche-logo-k-bare-me-koi-tipdi-nahi-krna-chahta/articleshow/133449465.cms",
+    "time": "2026-08-24T02:30:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Chiranjeevi's fitness routine at 71",
+    "desc": "Telugu superstar Chiranjeevi marked his 71st birthday by highlighting his unwavering commitment to fitness. His demanding workout routine integrates weight training and conditioning, essential for his challenging roles. Medical professionals stress that staying active and retaining muscle strength is crucial after sixty. Fellow actors commend Chiranjeevi's remarkable discipline and enthusiasm for fitness as he gears up for the much-anticipated action film 'Kaaka', set to release in 2027.",
+    "img": "https://static.toiimg.com/photo/msid-133449513,imgsize-296277.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/chiranjeevis-fitness-at-71-from-weight-training-to-conditioning-kaaka-actor-stays-fit-for-demanding-roles/articleshow/133449475.cms",
+    "time": "2026-08-24T02:24:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Neha Bora slams Congress government in Karnataka over FIRs against students seeking release of Umar Khalid, Sharjeel Imam",
+    "desc": "AISA chief Neha Bora’s criticism was directed at the Congress government, which, she argued, had extended solidarity to student protests at Jantar Mantar in Delhi against Union Education Minister Dharmendra Pradhan, but filed FIRs against students in Karnataka",
+    "img": "https://th-i.thgim.com/public/incoming/8julxw/article71382100.ece/alternates/LANDSCAPE_1200/_JAI4578.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/aisa-national-president-neha-slams-congress-govt-in-karnataka-over-firs-against-students-seeking-release-of-umar-khalid-sharjeel-imam/article71381886.ece",
+    "time": "2026-08-24T02:11:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Robert Pattinson's Batmobile chase scene leaked",
+    "desc": "Part II' is underway in Glasgow. New footage reveals the Batmobile in an action-packed chase sequence. The production is set in a winter environment, with Glasgow doubling as Gotham City. The sequel is scheduled for release on October 1, 2027. Several cast members are expected to reprise their roles in the film.",
+    "img": "https://static.toiimg.com/photo/msid-133449319,imgsize-530595.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-batman-part-ii-robert-pattinsons-batmobile-action-scene-leaked-from-glasgow-sets-watch/articleshow/133448975.cms",
+    "time": "2026-08-24T02:02:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Adani calls on Karnataka CM, sparks political speculation",
+    "desc": "Government sources said that the meeting was unscheduled, and that Mr. Adani, who was attending a private function in Bengaluru South was on his way to the airport, when he dropped in at the Chief Minister’s residence",
+    "img": "https://th-i.thgim.com/public/incoming/5zbpnc/article71383026.ece/alternates/LANDSCAPE_1200/BIZ-ADANI-US_GJGCCG8MHGD.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/adani-calls-on-karnataka-cm-sparks-political-speculation/article71381040.ece",
+    "time": "2026-08-24T02:02:35.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Oil prices slip over $1 as US weighs ‘D-Day’ Iran sanctions; Strait of Hormuz shipping risks in focus",
+    "desc": "In the lead-up to impending US sanctions on Iran, oil prices fell as investors capitalized on recent gains. As Washington prepares to unveil its most stringent measures Monday, the potential for disruptions in Middle Eastern oil supply looms large. Iran's rejection of these sanctions, coupled with its threat to cut oil exports from the Gulf, adds a layer of uncertainty to global energy markets that stakeholders are closely monitoring.",
+    "img": "https://static.toiimg.com/photo/msid-133449300,imgsize-136132.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-slip-over-1-as-us-weighs-d-day-iran-sanctions-strait-of-hormuz-shipping-risks-in-focus/articleshow/133449231.cms",
+    "time": "2026-08-24T01:59:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Duleep Trophy starts with a question mark on relevance",
+    "desc": "The significance of the Duleep Trophy is under scrutiny following the ousting of national selectors from the team selection process. Delhi opener Sanat Sangwan faced a surprising benching despite impressive performances in the Ranji Trophy. Former selectors emphasise the need for their participation to ensure equitable player development and mitigate political influences.",
+    "img": "https://static.toiimg.com/photo/msid-133449216,imgsize-39890.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/duleep-trophy-starts-with-a-question-mark-on-relevance/articleshow/133449185.cms",
+    "time": "2026-08-24T01:48:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘If you can’t take it back, don’t say it’: Jadeja’s blunt message to Jaiswal",
+    "desc": "Yashasvi Jaiswal has come under fire for his altercation with Sri Lanka's Asitha Fernando. Former cricketer Ajay Jadeja cautioned Jaiswal about the potential repercussions of his aggressive behaviour. India’s batting coach acknowledged that Jaiswal should have avoided such a heated moment. The incident risks evaluation under the ICC Code of Conduct, with match officials now deliberating on possible sanctions for the young star.",
+    "img": "https://static.toiimg.com/photo/msid-133449118,imgsize-155287.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/if-you-cant-take-it-back-dont-say-it-ajay-jadejas-blunt-message-to-yashasvi-jaiswal-after-asitha-fernando-spat/articleshow/133449070.cms",
+    "time": "2026-08-24T01:34:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ram Charan at Hyderabad after Chiranjeevi's birthday celebrations",
+    "desc": "Ram Charan returned to Hyderabad after celebrating his father Chiranjeevi's birthday. He was seen with a bandage on his right hand following recent wrist surgery. Chiranjeevi celebrated his 71st birthday with wishes from industry stars. His upcoming movie 'Kaaka', directed by Bobby Kolli, was announced for a January 2027 release. The film is scheduled to arrive during the Sankranthi festive season.",
+    "img": "https://static.toiimg.com/photo/msid-133449093,imgsize-242291.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ram-charan-arrives-in-hyderabad-after-chiranjeevis-birthday-celebrations-actors-bandaged-hand-grabs-attention/articleshow/133449082.cms",
+    "time": "2026-08-24T01:32:33.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Brad Pitt may have started drinking because of Château Miraval",
+    "desc": "It seems Brad Pitt has resumed drinking after a seven-year hiatus, with his Château Miraval wine venture possibly influencing this decision. He reassures that he is drinking moderately and remains conscious of his limits. His new relationship with Ines De Ramon appears to positively impact his approach to alcohol. At the same time, the battle over the French vineyard between Pitt and Jolie is still unresolved.",
+    "img": "https://static.toiimg.com/photo/msid-133449048,imgsize-101768.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brad-pitts-drinking-after-7-years-of-sobriety-is-possibly-linked-to-chteau-miraval-it-is-a-big-part-of-his-decision/articleshow/133449022.cms",
+    "time": "2026-08-24T01:20:04.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Fast-moving wildfire amid shifting winds threatens Reno, Nevada, forcing thousands to evacuate",
+    "desc": "The Hawk Fire began on Saturday (August 24) and quickly grew to more than 60 sq km as it spread across the Peavine Peak area of the Humboldt–Toiyabe National Forest, where rugged foothills are ringed by homes and businesses near the California state line.",
+    "img": "https://th-i.thgim.com/public/incoming/y4zl0s/article71383013.ece/alternates/LANDSCAPE_1200/2026-08-24T002311Z_330327995_RC2I4NAON7M3_RTRMADP_3_EUROPE-WEATHER-NORTHMACEDONIA-WILDFIRE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/fast-moving-wildfire-amid-shifting-winds-threatens-reno-nevada-forcing-thousands-to-evacuate/article71383006.ece",
+    "time": "2026-08-24T01:17:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Neal McDonough says Tom Hanks inspired the cast of ‘Band of Brothers.'",
+    "desc": "Recalling an unforgettable moment, actor Neal McDonough described how Tom Hanks inspired the Band of Brothers cast amid a boot camp mutiny. Hanks stepped in to restore calm and emphasized their responsibility to honor World War II veterans. McDonough felt a profound connection to Hanks' motivational message, reflecting on how the beloved series became more than just a production for the entire cast.",
+    "img": "https://static.toiimg.com/photo/msid-133448998,imgsize-321538.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/neal-mcdonough-on-band-of-brothers-says-tom-hanks-put-everyone-in-their-place-the-least-we-can-do-is-work-our-tails-off/articleshow/133448955.cms",
+    "time": "2026-08-24T01:07:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Irumudi' BO day 3: Ravi Teja's action film crosses Rs 50 crore",
+    "desc": "Ravi Teja's film 'Irumudi' has achieved significant box office success in India. The movie crossed fifty crore rupees in net collections within its first three days. It also recorded its highest single-day earnings on Sunday, which was a notable increase. The film's total India net collection reached fifty point three zero crore rupees. Overseas markets added another thirteen point five zero crore rupees to its gross.",
+    "img": "https://static.toiimg.com/photo/msid-133448989,imgsize-341507.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/irumudi-box-office-collections-day-3-ravi-tejas-film-crosses-rs-50-crore-india-net-sunday-collection-grows-16/articleshow/133448973.cms",
+    "time": "2026-08-24T01:07:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Max Verstappen’s horrific Dutch GP crash as Norris wins chaotic race",
+    "desc": "Max Verstappen's Dutch Grand Prix ended early after a first-lap crash on a damp track. Lando Norris capitalised on the chaos, securing a crucial victory for his title hopes. Norris made a daring overtake to take the lead and hold it until the finish. Kimi Antonelli finished second, with George Russell completing the podium. The Dutch Grand Prix is departing the Formula 1 calendar after this season.",
+    "img": "https://static.toiimg.com/photo/msid-133448990,imgsize-105246.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/racing/top-stories/watch-max-verstappens-horrific-dutch-gp-crash-as-lando-norris-wins-chaotic-race/articleshow/133448926.cms",
+    "time": "2026-08-24T01:06:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajamouli to audition 1,500 artistes to dub ‘Varanasi’ in 50 languages",
+    "desc": "Director SS Rajamouli plans a traditional dubbing approach for his film 'Varanasi'. He will use 1,500 voice artistes to dub the movie in fifty languages. This film aims for a release in over 120 countries worldwide. Rajamouli believes real voices capture performance better than artificial intelligence. This ambitious release could surpass previous Indian film distribution records.",
+    "img": "https://static.toiimg.com/photo/msid-133448922,imgsize-473258.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ss-rajamouli-ditches-ramayana-ai-dubbing-plans-to-audition-1500-artistes-to-dub-mahesh-babu-priyanka-chopra-starrer-in-50-languages/articleshow/133448791.cms",
+    "time": "2026-08-24T01:01:03.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "'Batwara 1947' box office collection day 10: The film struggles to touch Rs 40 cr",
     "desc": "Batwara 1947's performance at the box office has been underwhelming following its release. Despite a promising start on Saturday, the film's earnings plummeted as the weekdays progressed, with only a minor boost seen on Tuesday. The second weekend didn't bring the revival it desperately needed, indicating a strong possibility of the movie being labeled a flop due to its poor trajectory.",
@@ -64,15 +271,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Hollywood stars call for better protection for child actors",
-    "desc": "Melissa Gilbert advocates for enhanced child actor protections and support. She feels a deep connection to young performers who have died. Gilbert highlights the industry's pressure on children to work while unwell. She recalls personal experiences of working through illness and grief. The former child star believes young actors deserve the right to be children.",
-    "img": "https://static.toiimg.com/photo/msid-133448064,imgsize-105022.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/melissa-gilbert-joins-anna-paquin-to-call-for-better-protection-for-child-actors-in-hollywood-after-hayden-panettieres-death/articleshow/133446490.cms",
-    "time": "2026-08-23T22:13:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Spider-Man' crosses USD 2.22 billion worldwide",
     "desc": "Brand New Day is nearing all-time box office records domestically. The film has now grossed over two billion dollars worldwide. Insidious: Out of the Further opened strongly, earning sixty million dollars globally. The Odyssey maintained its impressive box office grip, earning nineteen million dollars. PAW Patrol: The Dino Movie also performed well, earning thirty-five million dollars.",
     "img": "https://static.toiimg.com/photo/msid-133446550,imgsize-350482.cms",
@@ -90,13 +288,13 @@ const newsData_en = [
     "time": "2026-08-23T21:32:03.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Mirzapur's Anangsha Biswas still gets uncomfortable messages",
-    "desc": "Mirzapur actress Anangsha Biswas opens up about the unexpected consequences of playing Zarina, revealing that she still receives uncomfortable messages from people who confuse her on-screen persona with her real-life personality. The actress also discusses returning as Zarina for the film, working with Ravi Kishan and Pramod Pathak, her weight-loss struggles, and why she believes actors must remain humble.",
-    "img": "https://static.toiimg.com/photo/msid-133446416,imgsize-84841.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mirzapur-actress-anangsha-biswas-reveals-she-still-gets-uncomfortable-messages-like-aap-ek-raat-ke-kya-lengi-since-season-1-main-zarina-jaisi-ekdum-nahi-hoon/articleshow/133446387.cms",
-    "time": "2026-08-23T20:01:38.000Z"
+    "cat": "Sports",
+    "title": "When two is too few",
+    "desc": "Given that the World Test Championship has been in vogue since 2019 and there is no compulsion for teams to play more than two Tests, commercial considerations have driven most teams to stick to the bare minimum; however, a three-Test series is ideal as both teams are in with a shout even if they lose the first match",
+    "img": "https://th-i.thgim.com/public/incoming/x5xdb5/article71382130.ece/alternates/LANDSCAPE_1200/IMG_TH_-_AUSTRALIA_IN_IN_2_1_IDDJNRTU.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/when-two-is-too-few/article71382084.ece",
+    "time": "2026-08-23T19:16:27.000Z"
   },
   {
     "cat": "Sports",
@@ -106,24 +304,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/hockey/hockey-india-league/top-stories/heartbreak-for-india-as-australia-advance-to-semifinals-after-goalless-hockey-world-cup-draw/articleshow/133445932.cms",
     "time": "2026-08-23T19:07:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Aditya Seal and Anushka Ranjan welcome twin baby girls Vira and Mahi",
-    "desc": "Aditya Seal and Anushka Ranjan have welcomed twin baby girls. The couple announced the arrival of their daughters, Vira Ranjan Seal and Mahi Ranjan Seal, on Instagram. Sharing their joy with fans, they called the newborns their “sunshines” and said their hearts are full of love and gratitude as they begin this new chapter of parenthood.",
-    "img": "https://static.toiimg.com/photo/msid-133445759,imgsize-87618.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aditya-seal-and-anushka-ranjan-welcome-twin-baby-girls-announce-names-vira-and-mahi-call-daughters-their-sunshines/articleshow/133445699.cms",
-    "time": "2026-08-23T18:49:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "DMK’s regional satraps among 22 who will lose district secretary posts",
-    "desc": "Thirty-three additional district units will be created and 55 new faces are likely to assume office as the DMK is set for a revamp following its defeat in the recent Assembly election, say party sources",
-    "img": "https://th-i.thgim.com/public/news/national/dvs0zk/article71381729.ece/alternates/LANDSCAPE_1200/stalin%20dmk.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/dmks-regional-satraps-among-22-who-will-lose-district-secretary-posts/article71381677.ece",
-    "time": "2026-08-23T18:33:16.000Z"
   },
   {
     "cat": "Politics",
@@ -216,15 +396,6 @@ const newsData_en = [
     "time": "2026-08-23T15:46:38.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Moozhiyar police in Keralam turn Onam invite into a helping hand for tribal families",
-    "desc": "During a visit to a tribal settlement to invite its residents to the Onam feast at the police station, police team discovers that four families were struggling even to find their next meal and arranges food supplies for them",
-    "img": "https://th-i.thgim.com/public/incoming/9kqjza/article71381788.ece/alternates/LANDSCAPE_1200/80693_23_8_2026_20_53_12_1_MOOZHIYAR.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/moozhiyar-police-in-keralam-turn-onam-invite-into-a-helping-hand-for-tribal-families/article71380992.ece",
-    "time": "2026-08-23T15:36:29.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "East Bengal humiliate Mohun Bagan 4-1 to lift record-equalling Durand Cup",
     "desc": "East Bengal thrashed arch-rivals Mohun Bagan 4-1 to win their 17th Durand Cup title. Edmund Lalrindika starred with a hat-trick, while Bipin Singh also scored. East Bengal raced to a 4-1 lead in the first half and comfortably held on after the break. The victory avenged their 2023 final defeat and moved them level with Mohun Bagan on 17 titles.",
@@ -232,15 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/east-bengal-humiliate-mohun-bagan-4-1-to-lift-record-equalling-17th-durand-cup-lalrindika-stars-with-hat-trick/articleshow/133441861.cms",
     "time": "2026-08-23T15:08:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sooryavanshi's red-ball struggles continue; Gharami's 146 leads East Zone's recovery",
-    "desc": "Sudip Gharami smashed 146 as East Zone recovered strongly to reach 355/6 against North East on the opening day of the Duleep Trophy. Gharami shared a 150-run sixth-wicket stand with Shahbaz Ahmed, who remained unbeaten on 100. Kumar Kushagra also scored 55, while Jotin Singh took 3/55. East Zone finished the day in a strong position.",
-    "img": "https://static.toiimg.com/photo/msid-133441632,imgsize-40604.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/duleep-trophy-vaibhav-sooryavanshis-red-ball-struggles-continue-sudip-gharamis-146-leads-east-zones-recovery/articleshow/133441354.cms",
-    "time": "2026-08-23T14:51:35.000Z"
   },
   {
     "cat": "Politics",
@@ -297,33 +459,6 @@ const newsData_en = [
     "time": "2026-08-23T14:00:22.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Deva actor Rohullah Mehdi arrested in social media drug network case",
-    "desc": "Actor and model Rohullah Mehdi, who played ‘Rohanj Bhai’ in Shahid Kapoor’s Deva, has been arrested by the Kashimira Police Crime Branch in an alleged social media-linked drug network case. Police seized 28 grams of MD drugs worth Rs 5.60 lakh and named Mehdi as the main accused. He has been remanded to five days in custody.",
-    "img": "https://static.toiimg.com/photo/msid-133440698,imgsize-37705.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shahid-kapoors-deva-co-star-rohullah-mehdi-arrested-in-alleged-social-media-drug-network-case-police-seize-28g-md-worth-rs-5-60-lakh/articleshow/133440650.cms",
-    "time": "2026-08-23T13:42:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Anthony Hopkins",
-    "desc": "Sir Anthony Hopkins emphasizes the importance of self-acceptance and the necessity to release past regrets. He encourages individuals to recognize their imperfections and to push forward in life. After a challenging early life battling dyslexia and bullying, he turned to the arts, ultimately receiving acclaim for his remarkable performances, notably in 'The Silence of the Lambs'. Hopkins advocates for embracing one’s authentic self rather than an unattainable ideal.",
-    "img": "https://static.toiimg.com/photo/msid-133437187,imgsize-519146.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-anthony-hopkins-dont-have-time-to-regret-we-move-on-because-we-are-acceptable-for-what-we-are-you-just-forgive-yourself-and-move-on-about-the-fracture-actors-confidence-in-himself-to-accept-his-mistakes/articleshow/133437048.cms",
-    "time": "2026-08-23T13:30:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Pleasing to the eye': Ex-India cricketer calls Padikkal 'boost' for No. 3 spot",
-    "desc": "Devdutt Padikkal scored 117 to register his second Test century and help India reach 300-5 against Sri Lanka on the opening day. Irfan Pathan praised the batter, calling him a boost for India's No. 3 spot. Padikkal shared key partnerships with Shubman Gill and Ravindra Jadeja, continuing his strong form after an impressive first Test.",
-    "img": "https://static.toiimg.com/photo/msid-133440553,imgsize-107248.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/pleasing-to-the-eye-ex-india-cricketer-calls-devdutt-padikkal-boost-for-no-3-spot-after-another-test-ton/articleshow/133440468.cms",
-    "time": "2026-08-23T13:25:21.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Alex Lanier scripts history, becomes first Frenchman to win BWF Championships singles title",
     "desc": "Alex Lanier has etched his name in badminton history with a stunning win at the BWF World Championships, where he outplayed Japan's Kodai Naraoka in straight games. This victory, celebrated on Sunday, is a groundbreaking moment as it marks France's inaugural gold in men's singles. Previously, Thom Gicquel and Delphine Delrue also triumphed in mixed doubles, showcasing the rising talent in French badminton.",
@@ -342,24 +477,6 @@ const newsData_en = [
     "time": "2026-08-23T12:53:18.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Emraan’s Gunmaaster G9 teaser to screen before Yash's Toxic",
-    "desc": "Emraan Hashmi's Gunmaaster G9 will get a standalone teaser screening before Yash's Toxic in theatres, ahead of its November 27, 2026 release. Directed by Aditya Datt, it stars Genelia Deshmukh, Aparshakti Khurana and debutant Abhishek Singh. It'll clash at the box office with Sooraj Barjatya's family entertainer Yeh Prem Mol Liya, starring Ayushmann Khurrana and Sharvari.",
-    "img": "https://static.toiimg.com/photo/msid-133439628,imgsize-200313.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/emraan-hashmi-starrer-gunmaaster-g9-teaser-to-screen-before-yashs-toxic-ahead-of-november-27-release-report/articleshow/133439613.cms",
-    "time": "2026-08-23T12:18:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "21 former captains, including Gavaskar, renew appeal over Imran Khan's medical treatment",
-    "desc": "In February this year, 14 legendary captains from five countries — including Gavaskar, Kapil Dev and Greg Chappell, a former head coach of Team India — had made a fervent, emotional appeal to the Pakistan government about ensuring proper treatment for Imran, amid mounting concerns about the cricketing icon’s health. However, there was no response from the Pakistan government to the cricket legends’ request.",
-    "img": "https://static.toiimg.com/photo/msid-133439368,imgsize-36770.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/21-former-international-captains-including-gavaskar-and-kapil-renew-appeal-over-imran-khans-medical-treatment/articleshow/133439117.cms",
-    "time": "2026-08-23T12:05:16.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Devdutt Padikkal, Shubman Gill and the trailer of a blockbuster",
     "desc": "Devdutt Padikkal scored his second Test hundred, but it was his 120-run stand with India captain Shubman Gill that offered a trailer of a potential blockbuster in the making. India's No. 3 and No. 4 have only had three century partnerships since 2019, and this third instance in Colombo today is certainly not going to be the first and last involving the left-right pair.",
@@ -367,42 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/devdutt-padikkal-shubman-gill-and-the-trailer-of-a-blockbuster/articleshow/133439093.cms",
     "time": "2026-08-23T12:04:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shekhar Suman recalls National Awards ‘huge disaster’ with Jaya and Amitabh Bachchan",
-    "desc": "Shekhar Suman opened up in a recent interview about his career highlights with Jaya Bachchan. From starring in the popular television show of the 90s, 'Dekh Bhai Dekh' to hosting the chaotic, tech-glitched first live National Awards show, the actor shares behind-the-scenes memories of working closely with Jaya and Amitabh Bachchan at their Delhi home.",
-    "img": "https://static.toiimg.com/photo/msid-133439174,imgsize-131848.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shekhar-suman-recalls-first-national-awards-live-show-as-huge-disaster-and-working-with-jaya-bachchan-and-amitabh-bachchan-wed-sit-at-their-house-and-ideate-for-hours/articleshow/133439064.cms",
-    "time": "2026-08-23T11:56:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Dropped on 0 and 1, Padikkal makes Sri Lanka pay with another ton",
-    "desc": "Devdutt Padikkal, who was batting on 91, needed only a few deliveries to reach three figures. He hit Prabath Jayasuriya for two consecutive boundaries before taking a single to complete his century. The hundred is Padikkal's second century in Test cricket.",
-    "img": "https://static.toiimg.com/photo/msid-133438688,imgsize-30489.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/dropped-on-0-and-1-devdutt-padikkal-makes-sri-lanka-pay-with-another-century-in-colombo/articleshow/133438511.cms",
-    "time": "2026-08-23T11:06:51.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Two 50s, 7 wickets: How Stokes fared on his red-ball return after retirement",
-    "desc": "Ben Stokes made a stunning return to red-ball cricket, scoring 53 and an unbeaten 66 before taking seven wickets against Derbyshire. His 5-17 spell included three wickets in four balls, helping Durham secure a massive 338-run victory. The win moved Durham to the top of the County Championship, with Stokes showing he remains a major all-round force.",
-    "img": "https://static.toiimg.com/photo/msid-133438218,imgsize-56504.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/two-50s-seven-wickets-how-ben-stokes-fared-on-his-red-ball-return-after-international-retirement/articleshow/133437944.cms",
-    "time": "2026-08-23T10:45:37.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bobby on being typecast as a villain after Aashram and Animal",
-    "desc": "Bobby Deol says he's actively trying to avoid being typecast as a villain after Aashram and Animal's success. While enjoying antagonist roles for their varied shades, he seeks diverse characters, citing Bandar as an example. He's also set to feature in upcoming web series.",
-    "img": "https://static.toiimg.com/photo/msid-133438139,imgsize-249141.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bobby-deol-on-being-typecast-as-a-villain-after-aashram-and-sandeep-reddy-vangas-animal-even-within-antagonist-roles-there-are-different-kinds-of-antagonists/articleshow/133438130.cms",
-    "time": "2026-08-23T10:37:07.000Z"
   },
   {
     "cat": "World",
@@ -421,24 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/market-recap-rs-87960-crore-wiped-off-four-top-10-firms-airtel-bears-biggest-loss/articleshow/133438057.cms",
     "time": "2026-08-23T10:29:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Injury scare! Rishabh Pant hit on wrist, walks off retired hurt",
-    "desc": "Rishabh Pant went for a pull shot but could only glove the ball. He immediately appeared to be in discomfort and held his wrist. The physio quickly came onto the field and applied an ice pack to Pant's wrist to prevent swelling. After a lengthy stoppage, tape was briefly applied to the wrist before being removed. The umpire also checked on Pant before the India batter eventually walked off the field retired hurt.",
-    "img": "https://static.toiimg.com/photo/msid-133438042,imgsize-45102.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/injury-scare-rishabh-pant-hit-on-wrist-walks-off-retired-hurt/articleshow/133438005.cms",
-    "time": "2026-08-23T10:26:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Priyanka Chopra stuns in a black maxi dress worth Rs 14 lakh at 'The Cycle Of Love' premiere in New York",
-    "desc": "Priyanka Chopra Jonas turned heads at the New York premiere of 'The Cycle of Love' in an elegant black maxi dress worth a hefty price tag of Rs 14 lakhs. Discover all the details behind her chic ensemble, accessory choices, muted glam, and her executive producer role for the acclaimed documentary.",
-    "img": "https://static.toiimg.com/photo/msid-133437990,imgsize-83538.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-stuns-in-a-black-maxi-dress-worth-rs-14-lakh-at-the-cycle-of-love-premiere-in-new-york/articleshow/133437888.cms",
-    "time": "2026-08-23T10:24:37.000Z"
   },
   {
     "cat": "Business",
@@ -468,33 +531,6 @@ const newsData_en = [
     "time": "2026-08-23T09:51:06.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Gold, silver prices likely to extend gains next week as investors await US data",
-    "desc": "Gold and silver prices are poised for further gains next week. Investors await crucial US inflation and economic data releases. Geopolitical developments in West Asia will also influence market sentiment. Domestic gold and silver futures saw significant increases this past week. Global bullion prices mirrored this upward trend, supported by liquidity measures.",
-    "img": "https://static.toiimg.com/photo/msid-133437548,imgsize-165746.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-prices-likely-to-extend-gains-next-week-as-investors-await-us-data/articleshow/133437513.cms",
-    "time": "2026-08-23T09:50:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'No point in playing anymore': Karn Sharma, winner of 4 IPL titles, retires",
-    "desc": "Former India leg-spinner Karn Sharma has retired from all forms of cricket at 38 after a career spanning more than two decades. He played one Test, two ODIs and one T20I for India, along with 97 First-Class matches and over 90 IPL games. A four-time IPL champion, Sharma said he is proud of his journey and hopes to give back to cricket.",
-    "img": "https://static.toiimg.com/photo/msid-133437593,imgsize-117710.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/there-is-no-point-in-playing-anymore-karn-sharma-winner-of-4-ipl-titles-retires-from-all-forms-of-cricket/articleshow/133437556.cms",
-    "time": "2026-08-23T09:46:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "RJ Balaji calls 'Karuppu' ‘a fairytale journey, a generational blockbuster'",
-    "desc": "Suriya's latest film 'Karuppu' has made waves by running successfully for 100 days in theaters. The film has crossed an impressive Rs 300 crore in global box office earnings, marking a personal best for the actor. RJ Balaji praised the film as a generational blockbuster, and the team thanked fans for their overwhelming support. This adds further momentum to Suriya's recent successes at the box office.",
-    "img": "https://static.toiimg.com/photo/msid-133437350,imgsize-177451.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/suriyas-karuppu-completes-100-days-in-theatres-after-crossing-rs-300-crore-worldwide-rj-balaji-calls-it-a-fairytale-journey-a-generational-blockbuster/articleshow/133437330.cms",
-    "time": "2026-08-23T09:41:10.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "How Bangladesh's loss to Australia boosts India's WTC final hopes",
     "desc": "Bangladesh's recent loss to Australia in the second Test has paved the way for India's ambition for the World Test Championship final. With a win against Sri Lanka, India can now surpass Bangladesh in the rankings. Australia's triumph solidifies their top-tier position, while Bangladesh proudly holds a historic No. 6 ranking. Captain Najmul Hossain Shanto advocates for increased match frequency in Australia for his team.",
@@ -502,33 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/how-bangladeshs-loss-to-australia-boosts-indias-wtc-final-hopes/articleshow/133437478.cms",
     "time": "2026-08-23T09:38:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Singer says he hasn’t really quit",
-    "desc": "Shaan revealed he once considered quitting playback singing, like Arijit Singh recently did. He recalled contemplating this at 33-34, despite winning awards, and shared advice from Sonu Nigam and KK to \"keep his standard.\" Shaan also noted Arijit's exit may not be final. He's now reunited with Saif Ali Khan for \"Haiwaan.\"",
-    "img": "https://static.toiimg.com/photo/msid-133437474,imgsize-240209.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shaan-reacts-to-arijit-singh-quitting-playback-singing-like-arijit-singh-recalls-sonu-nigam-and-kks-warning-dont-sing-all-kinds-of-songs-kep-your-standard-bro/articleshow/133437461.cms",
-    "time": "2026-08-23T09:32:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Know happens to Salman and Sanjay’s characters in the climax",
-    "desc": "Salman Khan and Sanjay Dutt reunite in Saudi thriller '7 Dogs', which got mixed reviews. Khalid, an Interpol officer, is tasked with stopping the '7 Dogs' gang's Pink Lady drug shipment to the Middle East, aided by ex-convict Ghali. Betrayals, captures, and a last-minute lead follow. Does Khalid succeed? Watch to find out!",
-    "img": "https://static.toiimg.com/photo/msid-133436970,imgsize-211872.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/7-dogs-ending-explained-does-khalid-stop-the-pink-lady-drug-shipment-know-happens-to-salman-khan-and-sanjay-dutts-characters-in-the-climax/articleshow/133436955.cms",
-    "time": "2026-08-23T08:46:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Aishwarya Rai",
-    "desc": "Aishwarya Rai Bachchan highlights the remarkable strength in opting for silence rather than engaging in public debates. She conveys that true resilience stems from profound self-respect and an inner calm. Throughout her career, which was often subjected to intense public attention, she embraced dignity by remaining composed. This strategy has been vital in preserving her mental peace while ensuring her talents continued to shine brightly.",
-    "img": "https://static.toiimg.com/photo/msid-133436575,imgsize-43100.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/quote-of-the-day-by-aishwarya-rai-bachchan-theres-greater-strength-in-silence-it-takes-incredible-strength-to-be-silent-its-very-easy-to-scream-off-the-rooftop-life-lesson-by-hum-dil-de-chuke-sanam-star-on-why-protecting-your-peace-is-more-important-than-constantly-defending-yourself/articleshow/133436527.cms",
-    "time": "2026-08-23T08:39:05.000Z"
   },
   {
     "cat": "Business",
@@ -547,15 +556,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/no-rush-for-bangladesh-pm-tarique-rahmans-india-visit-national-interest-priority-minister/article71380397.ece",
     "time": "2026-08-23T07:44:15.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Before AI, there was the Mechanical Turk: The chess machine that wasn’t",
-    "desc": "The Mechanical Turk first appeared in 1770 as a chess-playing machine that astonished audiences across Europe and the Americas. It played Benjamin Franklin and Napoleon Bonaparte, but the secret was a skilled chess player hidden inside its cabinet. Despite widespread suspicion, the illusion endured for decades. Its story offers a striking reminder that the impression of an autonomous mind can hide the reality behind it.",
-    "img": "https://static.toiimg.com/photo/msid-133436036,imgsize-1656096.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/before-ai-there-was-the-mechanical-turk-the-chess-machine-that-wasnt/articleshow/133436010.cms",
-    "time": "2026-08-23T07:15:31.000Z"
   },
   {
     "cat": "World",
@@ -603,15 +603,6 @@ const newsData_en = [
     "time": "2026-08-23T04:57:01.000Z"
   },
   {
-    "cat": "Business",
-    "title": "What are the '3 American demands' that became deal breaker for Canada",
-    "desc": "In a significant turn of events, Canada has halted trade negotiations with the United States due to unresolved disagreements. Three critical demands from the US regarding Canada's auto industry and trade agreements proved too contentious. Additionally, restrictions concerning language and culture were deemed unacceptable. As a result, both nations are now enacting retaliatory tariffs on each other's products.",
-    "img": "https://static.toiimg.com/photo/msid-133434433,imgsize-61134.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/us-fta-proposal-what-are-the-3-american-demands-that-became-deal-breaker-for-canada/articleshow/133434404.cms",
-    "time": "2026-08-23T04:50:46.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran security chief threatens neighbors against new U.S. economic measures",
     "desc": "Mohsen Rezaei said Iran would target oil-shipping routes out of the Persian Gulf - alternatives to the Strait of Hormuz - if neighbours join what he described as the economic war against Iran; those neighbours would be considered enemies and “we will target their interests,” he said.",
@@ -619,15 +610,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-security-chief-threatens-neighbors-against-new-us-economic-measures/article71380026.ece",
     "time": "2026-08-23T03:57:31.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "'Masters in our own home': Canada PM Carney explains why trade talks with US were suspended",
-    "desc": "Canada has halted trade negotiations with the United States due to perceived inequities in demands, leading to the US imposing hefty tariffs on Canadian exports. In response, Canada has unveiled countermeasures to address these tariffs. Prime Minister Carney criticized the US for its unreasonable requests while providing insufficient concessions. This escalation raises alarms about the future of economic collaboration between the two nations.",
-    "img": "https://static.toiimg.com/photo/msid-133433852,imgsize-70682.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/masters-in-our-own-home-canada-pm-carney-explains-why-trade-talks-with-us-were-suspended/articleshow/133433826.cms",
-    "time": "2026-08-23T03:28:51.000Z"
   },
   {
     "cat": "World",
@@ -838,6 +820,15 @@ const newsData_en = [
   },
   {
     "cat": "Tech",
+    "title": "Louis Breguet, an aviation pioneer from a family of watchmakers",
+    "desc": "On August 24, 1907, the Breguet-Richet no. 1 gyroplane got airborne with a man on board – one of the earliest recorded vertical take-offs. While it only barely left the ground, one of the men behind it, Louis Breguet, went on to become a pioneer in what was then a fledgling industry. A.S.Ganesh takes you back to this historic flight and tells you more about one of the men behind it…",
+    "img": "https://th-i.thgim.com/public/incoming/oiuna2/article71340709.ece/alternates/LANDSCAPE_1200/23istb%20Breguet_Gyroplane_1907.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/louis-breguet-an-aviation-pioneer-from-a-family-of-watchmakers/article71340698.ece",
+    "time": "2026-08-14T08:42:06.000Z"
+  },
+  {
+    "cat": "Tech",
     "title": "What happens when AI begins to design viruses?",
     "desc": "The Stanford experiment does not show that AI can casually manufacture dangerous human viruses; it shows that computers are beginning to move from analysing biological information towards proposing biological designs that scientists can physically build. This requires appropriate governance and safeguards",
     "img": "https://th-i.thgim.com/public/incoming/s10mbe/article71340049.ece/alternates/LANDSCAPE_1200/IMG_iStock-1446239060_2_1_NVC38GDD.jpg",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
     "time": "2024-03-11T10:20:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
+    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
+    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
+    "time": "2024-03-11T10:00:44.000Z"
   }
 ];
