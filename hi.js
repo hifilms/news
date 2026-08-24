@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Former India cricketer questions Dhruv Jurel's batting position as India dismantle Sri Lanka in Colombo",
+    "desc": "Team India is putting in a brilliant performance against Sri Lanka. The two sides met in Colombo for the second Test of the series. On day 1 of the clash, India posted a total of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-questions-dhruv-jurel-s-batting-position-as-india-dismantle-sri-lanka-in-colombo-2026-08-24-1052273",
+    "time": "2026-08-24T08:49:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'India will fight': Yashasvi Jaiswal hits back at Harsha Bhogle, breaks silence on spat with Asitha Fernando",
+    "desc": "The Indian team has been putting on a good show against Sri Lanka; the side posted a total of 300 runs with the loss of five wickets by the end of day 1 of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/yashasvi-jaiswal-hits-back-at-harsha-bhogle-breaks-silence-on-spat-with-asitha-fernando-2026-08-24-1052268",
+    "time": "2026-08-24T07:43:02.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Rishabh Pant surpasses Adam Gilchrist in elite list, achieves major milestone on day 2 of second SL Test",
     "desc": "The Indian team continues their ongoing second Test of the series against Sri Lanka. The two sides met at the Sinhalese Sports Club Ground, Colombo, and day 1 of the clash ended with India scoring...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/wtc-updated-points-table-after-australia-decimate-bangladesh-in-mackay-to-level-two-game-series-2026-08-23-1052202",
     "time": "2026-08-23T06:58:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Kuldeep Yadav not playing India vs Sri Lanka 2nd Test in Colombo?",
-    "desc": "Team India took on Sri Lanka in the second Test of the ongoing series between the two sides. The teams met at the Sinhalese Sports Club Ground, Colombo, for the clash on August 23rd, and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-kuldeep-yadav-not-playing-india-vs-sri-lanka-2nd-test-in-colombo-2026-08-23-1052196",
-    "time": "2026-08-23T05:36:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IND vs SL 2nd Test, Day 2 LIVE SCORE: Jurel-Pant build solid partnership, Sri Lanka looking for wickets",
-    "desc": "India and Sri Lanka take on each other in the second Test of the ongoing series between the two sides. The teams meet at the Sinhalese Sports Club Ground, Colombo, for the clash. Day 1 of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-vs-sl-2nd-test-day-1-live-score-india-opt-to-bat-first-in-colombo-hope-for-good-start-in-crucial-clash-1052192",
-    "time": "2026-08-23T04:32:06.000Z"
   }
 ];
