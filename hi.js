@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India fallen behind in WTC final race, but can't be written off, says Rahul Dravid",
+    "desc": "Former India head coach Rahul Dravid believes that the Shubman Gill-led side still has a slight chance to qualify for the World Test Championship final. However, he acknowledged the fact that there’s little margin for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-fallen-behind-in-wtc-final-race-but-can-t-be-written-off-says-rahul-dravid-2026-08-25-1052348",
+    "time": "2026-08-25T08:17:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi picks two wickets in four balls in Duleep Trophy",
+    "desc": "Teenage sensation Vaibhav Sooryavanshi made an immediate impact with the ball on Day 3 of the first quarter-final between East Zone and North East Zone at the BCCI Centre of Excellence in Bengaluru. He failed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-picks-two-wickets-in-four-balls-in-duleep-trophy-watch-2026-08-25-1052341",
+    "time": "2026-08-25T07:25:20.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Pakistan women's team play T20 matches against men's side to prepare for Asia Cup 2026",
     "desc": "Pakistan’s women’s cricket team have used an unconventional method to sharpen their preparation for the Women’s Asia Cup. Captain Fatima Sana revealed that her team played a T20 series against the men’s side before leaving...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-questions-dhruv-jurel-s-batting-position-as-india-dismantle-sri-lanka-in-colombo-2026-08-24-1052273",
     "time": "2026-08-24T08:49:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'India will fight': Yashasvi Jaiswal hits back at Harsha Bhogle, breaks silence on spat with Asitha Fernando",
-    "desc": "The Indian team has been putting on a good show against Sri Lanka; the side posted a total of 300 runs with the loss of five wickets by the end of day 1 of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/yashasvi-jaiswal-hits-back-at-harsha-bhogle-breaks-silence-on-spat-with-asitha-fernando-2026-08-24-1052268",
-    "time": "2026-08-24T07:43:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rishabh Pant surpasses Adam Gilchrist in elite list, achieves major milestone on day 2 of second SL Test",
-    "desc": "The Indian team continues their ongoing second Test of the series against Sri Lanka. The two sides met at the Sinhalese Sports Club Ground, Colombo, and day 1 of the clash ended with India scoring...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-surpasses-adam-gilchrist-in-elite-list-achieves-major-milestone-on-day-2-of-second-sl-test-2026-08-24-1052259",
-    "time": "2026-08-24T06:26:14.000Z"
   }
 ];

@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "જેફરીને દુનિયાભરના શેર માર્કેટોને આપી ચેતવણી, અમેરિકાને ઠેરવ્યું જવાબદાર, જાણો",
+    "desc": "બ્રોકરેજ ફર્મ જેફરીને વિશ્વભરના શેર માર્કેટ માટે ચેતવણી સ્વરૂપ રિપોર્ટ જાહેર કર્યો છે અને તેના માટે યુએસ સરકારને જવાબદાર ઠેરવી છે, અમેરિકાના દેણાની અસર વિશ્વભરના શેર માર્કટમાં જોવા મળી શકે છે અને માર્કેટ અપડાઉન માટે પણ તેને જ જવાબદાર ઠેરવવામાં આવ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/jefferies-warns-stock-markets-around-the-world-blames-america-know-488847 ",
+    "time": "2026-08-25T09:26:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "વૈભવ સૂર્યવંશી ફક્ત બેટ્સમેન જ નહીં, બોલર પણ છે શાનદાર... એક જ ઓવરમાં લીધી બે વિકેટ",
+    "desc": "દુલીપ ટ્રોફી 2026ની પહેલી ક્વાર્ટર-ફાઇનલ મેચમાં વૈભવ સૂર્યવંશીએ ભલે બેટથી કમાલ કર્યો ન હોય, પરંતુ બોલ હાથમાં લેતાની સાથે જ તેણે ધમાલ મચાવી દીધી. પૂર્વ ઝોનના વાઈસ-કેપ્ટને એક જ ઓવરમાં ઉત્તર-પૂર્વ ઝોનના બે બેટ્સમેનોને આઉટ કર્યા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/duleep-trophy-vaibhav-sooryavanshi-takes-two-wickets-in-over-for-east-zone-488848 ",
+    "time": "2026-08-25T09:22:45.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "માત્ર 3 સપ્તાહમાં સોનું 20000 જેટલું મોંઘુ થયું, ચાંદી 26000 ઉછળી, ઓગસ્ટમાં કેમ રોકેટ બન્યા સોના-ચાંદી? આજનો ભાવ જાણો",
+    "desc": "સોના અને ચાંદીમાં આજે પણ વધારો જોવા મળ્યો છે. જો કે વાયદા બજારમાં સવારે સોનું અને ચાંદી પછડાયા હતા પરંતુ સોનાએ ત્યારબાદ રિકવરી કરી અને ત્યારબાદ વળી પાછું સોનું લાલ નિશાનમાં જોવા મળ્યું છે. IBJA અને MCX ના લેટેસ્ટ રેટ ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/why-gold-and-silver-prices-increased-so-much-in-august-aaj-no-sona-chandi-no-bhav-488842 ",
+    "time": "2026-08-25T08:54:55.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "અમદાવાદીઓ સૌથી વધારે આ જગ્યાએ કરે છે રોકાણ, જુલાઈમાં નાખ્યા 2.23 લાખ કરોડ, જાણો",
+    "desc": "અમદાવાદના મોટાભાગના લોકો શેર માર્કેટમાં રોકાણ વધારે કરવા માટે જાણીતા છે, જો કે લોકોએ હવે પેટન્ટ બદલી છે અને મોટા ભાગના લોકો હવે શેર માર્કેટ છોડીને મ્યુચ્યુઅલ ફંડમાં રોકાણ કર્યું છે, જેના કારણે ગુજરાતના ત્રણ શહેરો ટોપ 10 મ્યુચ્યુઅલ ફંડ રોકાણમાં આવી ગયા છે. લોકોનો વિશ્વાસ હવે મ્યુચ્યુઅલ ફંડ તરફ વધી રહ્યો હોય તેવું આ આકડા દ્વારા લાગી રહ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/ahmedabad-residents-invest-the-most-in-this-place-rs-2-23-lakh-crore-was-invested-in-july-know-488840 ",
+    "time": "2026-08-25T08:05:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "વાયરલ થવા માટે ગર્લફ્રેન્ડ પાસે કરાવ્યું કાર પર 3400 વખત ચુંબન, યુવકને ભારે પડ્યું",
+    "desc": "મધ્ય પ્રદેશના ગ્વાલિયરમાં એક સોશિયલ મીડિયા ઈન્ફ્લુએન્સરને વાયરલ થવાનો મોહ ભારે પડી ગયો. તેણે તેની કાર પર ગર્લફ્રેન્ડ દ્વારા એવું કઈક કર્યું કે પોલીસ ઘર સુધી પહોંચી ગઈ અને દંડ ફટકાર્યો એ અલગ. જાણો શું છે મામલો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/gwalior-man-turns-car-into-kissing-car-to-go-viral-and-then-gets-into-trouble-488837 ",
+    "time": "2026-08-25T07:47:18.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "સંભાજીનગર કેસમાં મોટો ખુલાસો, આઈફોનના કારણે નહીં પરંતુ આ કારણસર પરેશાન હતો કુણાલ, જાણો શું ઈચ્છતો હતો",
     "desc": "ચાંદગુડે પરિવારના ત્રણ સભ્યો આંખના પલકારામાં પહાડ પરથી પડ્યા અને કાળના ખપ્પરમાં સમાઈ ગયા. આ સમગ્ર મામલે હવે એવો ખુલાસો થઈ રહ્યો છે કે આઈફોન અંગે કોઈ વિવાદ હતો જ નહીં. તો જાણો શું હતો મામલો.",
@@ -306,15 +351,6 @@ const newsData_gu = [
     "time": "2026-08-23T08:15:43.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "વાઘા-અટારી બોર્ડર બંધ, પણ &amp;#039;સિંદૂરની જીત, કેવી રીતે સરહદ પાર કરીને ભારત પહોંચી 150 પાકિસ્તાની દુલ્હન? જાણો",
-    "desc": "સરહદો દુશ્મનોને રોકવાનું કામ કરે છે, પરંતુ જ્યાં પ્રેમ અને વિશ્વાસ હોય છે, ત્યાં કોઈ પણ દેશની સરહદો તેને રોકી શકતી નથી. વાઘા બોર્ડર બંધ થવાને કારણે ઘણી દુલ્હનો પાકિસ્તાનમાં ફસાયેલી હતી, પરંતુ હવે તેઓ હવાઈ માર્ગે ભારત પહોંચી ગઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/wagah-attari-border-closed-but-how-did-150-pakistani-brides-cross-the-border-and-reach-india-find-out-488534 ",
-    "time": "2026-08-23T05:04:05.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ટીવી એક્ટર મોહસિન ખાને કરી સગાઈ, જાણો કોણ છે તમન્ના અને કેવી રીતે શરુ થઈ લવ સ્ટોરી",
     "desc": "યે રિશ્તા ક્યા કહેલાતા હૈ ના કાર્તિક એટલે કે એક્ટર મોહસિન ખાને શનિવારે સોશિયલ મીડિયા પર પોતાની સગાઈનું અનાઉન્સ કરી છે. આ ગુડ ન્યૂઝ શેર કરવાની સાથે તેણે સગાઈની તસવીરો પણ શેર કરી છે. મોહસિન ખાને તમન્ના નામની યુવતી સાથે સગાઈ કરી છે.",
@@ -322,15 +358,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/tv-actor-mohsin-khan-engaged-to-tamanna-know-who-is-tamanna-488527 ",
     "time": "2026-08-23T02:55:43.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "માત્ર 1 દિવસ બાકી... ફટાફટ પતાવી લો આ કામ, નહીંતર બંધ થઈ જશે LPG કનેક્શન !",
-    "desc": "જો તમે પણ LPG ગ્રાહક છો અને હજુ સુધી LPG e-KYC કરાવ્યું નથી, તો ફટાફટ આ કામ પહેલા પૂરું કરી લેજો. કારણ કે 23 ઓગસ્ટ e-KYC માટેની છેલ્લી તારીખ છે, જો તમે e-KYC નહીં કરાવો તો તમારું LPG કનેક્શનને સસ્પેન્ડ થઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/lpg-ekyc-deadline-23-august-2026-know-how-to-complete-ekyc-488501 ",
-    "time": "2026-08-22T14:19:10.000Z"
   },
   {
     "cat": "Sports",
@@ -403,15 +430,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/rekha-accepted-amitabh-bachchan-as-her-husband-once-said-umrao-jaan-film-director-muzaffar-ali-488299 ",
     "time": "2026-08-21T02:40:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "માનવ સુથાર બાદ વધુ એક જાદુઈ સ્પિનરની થશે એન્ટ્રી, બીજી ટેસ્ટમાં ડેબ્યૂ પાક્કું! આ ખેલાડીનું કપાશે પત્તુ",
-    "desc": "ગાલે ટેસ્ટમાં શાનદાર જીત બાદ હવે ભારત શ્રીલંકા સામેની બીજી ટેસ્ટ માટે તૈયાર છે. 23 ઓગસ્ટથી કોલંબોમાં શરૂ થનારી ટેસ્ટ માટે ભારતીય ટીમમાં કેટલાક ફેરફાર જોવા મળી શકે છે, માનવ સુથાર બાદ વધુ એક જાદુઈ સ્પિનરની ટીમ ઈન્ડિયામાં એન્ટ્રી થઈ શકે છે, તો આ સ્પિનર કોણ છે અને તેના આવવાથી કોણ બહાર થશે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/after-manav-suthar-saransh-jain-set-to-india-debut-in-2nd-test-against-sri-lanka-488292 ",
-    "time": "2026-08-20T15:05:40.000Z"
   },
   {
     "cat": "Entertainment",
