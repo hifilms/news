@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "સંભાજીનગર કેસમાં મોટો ખુલાસો, આઈફોનના કારણે નહીં પરંતુ આ કારણસર પરેશાન હતો કુણાલ, જાણો શું ઈચ્છતો હતો",
+    "desc": "ચાંદગુડે પરિવારના ત્રણ સભ્યો આંખના પલકારામાં પહાડ પરથી પડ્યા અને કાળના ખપ્પરમાં સમાઈ ગયા. આ સમગ્ર મામલે હવે એવો ખુલાસો થઈ રહ્યો છે કે આઈફોન અંગે કોઈ વિવાદ હતો જ નહીં. તો જાણો શું હતો મામલો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/big-revelation-in-sambhajinagar-case-kunal-was-troubled-not-because-of-the-iphone-488814 ",
+    "time": "2026-08-25T06:10:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "અભિજીત દીપકેએ કોને ગણાવ્યા દેશના બેસ્ટ CM? યાદીમાં અરવિંદ કેજરીવાલનું પણ લીધુ નામ, જાણો",
+    "desc": "કોકરોચ જનતા પાર્ટી ફરી એકવાર રાજધાની દિલ્હીમાં એક્ટિવ થવાની તૈયારી કરી રહી છે. પાર્ટીએ 5 સપ્ટેમ્બરે શાંતિપૂર્ણ કૂચની જાહેરાત કરી છે. આ દરમિયાન, એક કાર્યક્રમમાં હાજરી આપનારા અભિજીત દિપકેએ તેમના મનપસંદ મુખ્યમંત્રીનું નામ જાહેર કર્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/who-did-abhijeet-deepke-call-the-best-cm-of-the-country-he-also-included-arvind-kejriwal-name-in-the-list-know-488810 ",
+    "time": "2026-08-25T05:15:01.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "ધ્રુવ જુરેલે કેમ કરાવ્યું જય જવાન જય કિસાનનું ટેટૂ? સેલિબ્રેશનનું કારણ જાણીને ક્રિકેટર પ્રત્યે વધશે ઈજ્જત",
     "desc": "શ્રીલંકા સામેની બીજી ટેસ્ટ મેચમાં ધ્રુવ જુરેલે પોતાની સદીનું સેલિબ્રેશન ખૂબ જ સ્ટાઇલિશ રીતે કર્યું. તેણે પોતાના બાઈસેપ્સ બતાવ્યા, જેના પર જય જવાન જય કિસાન લખેલું હતું. તેણે આ લખાવવા પાછળનું કારણ પણ સમજાવ્યું હતું.",
@@ -306,15 +324,6 @@ const newsData_gu = [
     "time": "2026-08-23T02:55:43.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "મસૂરી કે ઉદયપુર! સપ્ટેમ્બરમાં ફરવા માટે આ સ્થળ છે બેસ્ટ? જાણો પહાડો અને મહેલો વચ્ચેનો સાચો વિકલ્પ",
-    "desc": "જો તમે સપ્ટેમ્બરમાં ફરવા જવાનો પ્લાન બનાવી રહ્યા છો, પરંતુ મસૂરી અને ઉદયપુર વચ્ચે કન્ફ્યૂઝ છો, તો ચિંતા કરવાની કોઈ જરૂર નથી. આજે અમે તમને જણાવીશું કે, તમારી પસંદગી અને હવામાન અનુસાર સપ્ટેમ્બરમાં આ બન્નેમાંથી કઈ જગ્યાએ જવું તમારા માટે વધુ સારું રહેશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/mussoorie-or-udaipur-which-is-the-best-place-to-visit-in-september-know-the-right-option-between-mountains-and-palaces-488503 ",
-    "time": "2026-08-22T15:04:37.000Z"
-  },
-  {
     "cat": "Business",
     "title": "માત્ર 1 દિવસ બાકી... ફટાફટ પતાવી લો આ કામ, નહીંતર બંધ થઈ જશે LPG કનેક્શન !",
     "desc": "જો તમે પણ LPG ગ્રાહક છો અને હજુ સુધી LPG e-KYC કરાવ્યું નથી, તો ફટાફટ આ કામ પહેલા પૂરું કરી લેજો. કારણ કે 23 ઓગસ્ટ e-KYC માટેની છેલ્લી તારીખ છે, જો તમે e-KYC નહીં કરાવો તો તમારું LPG કનેક્શનને સસ્પેન્ડ થઈ શકે છે.",
@@ -331,24 +340,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/zubin-bharucha-appointed-as-mumbai-indians-performance-director-488499 ",
     "time": "2026-08-22T13:38:07.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "17% મોંઘુ થયું સોનું, શું હવે કિંમત 1.70 લાખને વટાવી જશે? જાણો એક્સપર્ટ પાસેથી",
-    "desc": "સોનાના ભાવ જૂન 2026ના લોઅર લેવલથી લગભગ 17 ટકા વધીને 1.62 લાખ રૂપિયા પ્રતિ 10 ગ્રામ થયા છે. કોમેક્સ ગોલ્ડ પણ આંતરરાષ્ટ્રીય બજારમાં લગભગ 16 ટકા વધ્યો છે. સેન્ટ્રલ બેંક ખરીદી, ગોલ્ડ ETFમાં રોકાણનું વળતર, યુએસ સરકારના દેવાની અપેક્ષાઓ અને ફુગાવાની ચિંતાઓએ સોનાને મજબૂત બનાવ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-price-gold-has-become-17-percent-more-expensive-will-the-price-now-cross-1-70-lakh-know-from-experts-488481 ",
-    "time": "2026-08-22T12:18:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "શું સામાન્ય વ્યક્તિ પણ ખરીદી શકે છે બુલેટપ્રૂફ જેકેટ, તેને બનાવનારી દુનિયાની પહેલી કંપની કોણ હતી? જાણો",
-    "desc": "બુલેટપ્રૂફ જેકેટનો ઉપયોગ સામાન્ય રીતે ગોળીથી બચવા માટે પહેરવામાં આવે છે. કારણે કે આધુનિક સોફ્ટ બોડી આર્મરમાં ઉપયોગમાં લેવાતા મજબૂત ફાઇબર ગોળીને પકડીને તેની ઊર્જાને શોષી લે છે. તેનાથી ગોળીના શરીરમાં ઘૂસવાની શક્યતા ઘટી જાય છે. પરંતુ શું તમે જાણો છો કે, સૌથી પહેલા કોણે બનાવ્યું હતું બુલેટપ્રૂફ જેકેટ? ચાલો જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/can-a-common-person-also-buy-a-bulletproof-jacket-who-was-the-first-company-in-the-world-to-make-it-know-488479 ",
-    "time": "2026-08-22T12:02:21.000Z"
   },
   {
     "cat": "Tech",

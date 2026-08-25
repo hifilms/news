@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Pakistan women's team play T20 matches against men's side to prepare for Asia Cup 2026",
+    "desc": "Pakistan’s women’s cricket team have used an unconventional method to sharpen their preparation for the Women’s Asia Cup. Captain Fatima Sana revealed that her team played a T20 series against the men’s side before leaving...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-women-s-team-play-t20-matches-against-men-s-side-to-prepare-for-asia-cup-2026-2026-08-25-1052332",
+    "time": "2026-08-25T06:23:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PR Sreejesh demands accountability after India fail to qualify for semi-final in Hockey World Cup",
+    "desc": "Former India captain and Olympic medallist PR Sreejesh has questioned the standards of accountability in Indian hockey after both national teams failed to advance to the semifinals of the FIH Hockey World Cup 2026. His...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/hockey/pr-sreejesh-demands-accountability-after-india-fail-to-qualify-for-semi-final-in-hockey-world-cup-2026-08-25-1052325",
+    "time": "2026-08-25T05:28:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "England announce replacement after Brydon Carse removed from second Test vs Pakistan after handcuff incident",
+    "desc": "England pacer Brydon Carse was arrested briefly on suspicion of being drunk and disorderly in Derby city centre on Saturday night. However, he was released shortly after agreeing to leave the area, according to Derbyshire...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/england-announce-replacement-after-brydon-carse-removed-from-second-test-vs-pakistan-after-handcuff-incident-2026-08-25-1052322",
+    "time": "2026-08-25T04:55:50.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India continue dominant show in Colombo, produce exceptional performances to keep SL at bay on Day 2",
     "desc": "The Indian team continued their second Test of the ongoing series against Sri Lanka. Day 2 of the clash began with India on a score of 300/5, and the side began the day with Dhruv...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rishabh-pant-surpasses-adam-gilchrist-in-elite-list-achieves-major-milestone-on-day-2-of-second-sl-test-2026-08-24-1052259",
     "time": "2026-08-24T06:26:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cheteshwar Pujara remains hopeful for Yashasvi Jaiswal after altercation with Asitha Fernando",
-    "desc": "The Indian team is well into the second Test of the ongoing series against Sri Lanka. After registering a brilliant performance in the first Test and winning the game by 165 runs, the visitors have...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/cheteshwar-pujara-remains-hopeful-for-yashasvi-jaiswal-after-altercation-with-asitha-fernando-2026-08-24-1052251",
-    "time": "2026-08-24T05:08:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India get off to stellar start to second Test, Devdutt Padikkal's century keeps SL on their toes on day 1",
-    "desc": "The Indian team kicked off the second Test of the ongoing series between the two sides. The teams met at the Sinhalese Sports Club Ground, Colombo, from August 23rd, and the game began with India...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-get-off-to-stellar-start-to-second-test-devdutt-padikkal-s-century-keeps-sl-on-their-toes-on-day-1-2026-08-23-1052232",
-    "time": "2026-08-23T13:41:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "GT coach not surprised with Manav Suthar's success, sees 'promising future for him'",
-    "desc": "The Indian team is in the midst of a Test series against Sri Lanka. The side put forth a marvellous performance in the first Test, registering a 165-run victory to take the lead in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/gt-coach-not-surprised-with-manav-suthar-s-success-sees-promising-future-for-him-2026-08-23-1052228",
-    "time": "2026-08-23T13:02:06.000Z"
   }
 ];
