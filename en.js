@@ -1,6 +1,69 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "'Batwara 1947' box office collection day 11",
+    "desc": "The cinematic battle of 1947 continues to disappoint at the box office, lying stagnant after its second Monday. In stark contrast, the much-anticipated Awarapan 2 is soaring past all expectations, raking in over one hundred thirty-six crore net in India. Meanwhile, Batwara 1947 struggles with its nearly forty crore net collections, resulting in a heavy financial setback due to its inflated budget.",
+    "img": "https://static.toiimg.com/photo/msid-133485449,imgsize-241267.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/batwara-1947-box-office-collection-day-11-the-sunny-deol-starrer-nears-end-of-its-box-office-run-with-just-rs-35-lakhs-on-second-monday-struggles-to-touch-rs-40-crore-india-net/articleshow/133485347.cms",
+    "time": "2026-08-25T00:35:10.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Spider-Man' BEATS 'Endgame'; nears ‘Titanic’ record at box office",
+    "desc": "Brand New Day has achieved a significant box office milestone. The film has now surpassed Avengers: Endgame domestically, becoming the highest-grossing Marvel movie. Its global earnings are approaching USD 2.21 billion, placing it among cinematic history's top films. Brand New Day is also nearing Titanic's worldwide gross record. This blockbuster continues to draw large audiences and achieve remarkable financial success.",
+    "img": "https://static.toiimg.com/photo/msid-133485086,imgsize-850299.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/spider-man-brand-new-day-beats-avengers-endgame-at-north-american-box-office-eyes-titanic-record/articleshow/133485016.cms",
+    "time": "2026-08-25T00:14:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Awarapan 2’ box office collection day 11: Emraan Hashmi starrer passes second Monday test",
+    "desc": "Awarapan 2 stands out as a blockbuster hit in Bollywood for 2026, inching closer to the Rs 150 crore milestone within India. In just ten days, it has outperformed the profit margins of Murder. This sequel has quickly climbed to be the fifth-highest-grossing release in Bollywood this year, marking a triumphant return for Emraan Hashmi.",
+    "img": "https://static.toiimg.com/photo/msid-133485055,imgsize-221996.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/awarapan-2-box-office-collection-day-11-the-emraan-hashmi-starrer-passes-the-second-monday-test-misses-rs-140-cr-net-in-india-by-a-hair-earns-202-percent-profit/articleshow/133484798.cms",
+    "time": "2026-08-25T00:12:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'How to Lose a Guy in 10 Days' sequel in development",
+    "desc": "A sequel to the popular rom-com 'How to Lose a Guy in 10 Days' is developing. Kate Hudson is attached to produce the upcoming film project. Original stars Matthew McConaughey and Hudson are hoped to return for the sequel. This news follows a trend of nostalgia-driven sequels in Hollywood. Plot details for the new film remain under wraps currently.",
+    "img": "https://static.toiimg.com/photo/msid-133483706,imgsize-247009.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/how-to-lose-a-guy-in-10-days-sequel-in-the-works-kate-hudson-and-matthew-mcconaughey-eyed-to-return-in-rom-com/articleshow/133481770.cms",
+    "time": "2026-08-24T23:08:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "James Blunt was man in Hayden Panettiere's yacht story?",
+    "desc": "Singer James Blunt has denied allegations linking him to Hayden Panettiere's memoir. The singer disputed claims that he was the famous man referenced in her story. Panettiere's memoir detailed a disturbing incident involving a British singer-songwriter. Photographs of Blunt and Panettiere from 2009 do not match the memoir's timeline. Panettiere's death remains under investigation by authorities.",
+    "img": "https://static.toiimg.com/photo/msid-133480641,imgsize-383105.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/james-blunt-reacts-to-claims-that-he-was-famous-man-in-hayden-panettieres-yacht-story/articleshow/133479885.cms",
+    "time": "2026-08-24T22:08:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Praggnanandhaa beats Keymer to stake his claim for finals",
+    "desc": "It was, at best can be described as a game of fluctuating fortunes wherein Pragg suffered early as white, wherein Keymer had the control and a legitimate shot at attacking the white king out of a Bishop’s opening by the Indian",
+    "img": "https://th-i.thgim.com/public/incoming/3jwmzt/article71386316.ece/alternates/LANDSCAPE_1200/IMG_TH15PRAGG_2_1_29GD5JRN.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/gct-grand-finale-praggnanandhaa-beats-keymer-to-stake-his-claim-for-finals/article71386315.ece",
+    "time": "2026-08-24T21:40:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Harry Potter' S2: Kit Harington cast as Gilderoy Lockhart",
+    "desc": "Kit Harington will portray Gilderoy Lockhart in the upcoming Harry Potter series.He replaces Nicholas Hoult, who departed due to scheduling conflicts.Filming for Season 2, based on Chamber of Secrets, begins this fall.Dominic McLaughlin stars as Harry, with other cast members also announced.Jon Brown joins Francesca Gardiner as co-showrunner for the new season.",
+    "img": "https://static.toiimg.com/photo/msid-133479688,imgsize-391904.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/game-of-thrones-star-kit-harington-joins-harry-potter-franchise-replaces-nicholas-hoult-as-gilderoy-lockhart-in-season-2e/articleshow/133479157.cms",
+    "time": "2026-08-24T21:17:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Kashmera Shah backs Sunita Ahuja amid Govinda-Komal dating row",
     "desc": "Kashmera Shah has spoken about the ongoing controversy surrounding Govinda and Sunita Ahuja, including the divorce buzz and reports linking the actor to actress Komal Rani Swarnkar. At Abhishek Kumar’s birthday party, Kashmera chose to support Sunita and said she would protect her family and stand with the women in it.",
     "img": "https://static.toiimg.com/photo/msid-133479044,imgsize-85089.cms",
@@ -153,15 +216,6 @@ const newsData_en = [
     "time": "2026-08-24T15:19:54.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Surprise protests, GenZ outreach: Rahul Gandhi's new playbook after CJP's success",
-    "desc": "Rahul Gandhi’s political style has taken a more combative turn, with the Congress leader increasingly combining Gen Z outreach, parliamentary interventions and surprise street protests. From Bharat Jodo and Chhatron Ki Goonj to student protests and dharnas, the story looks at how Rahul is trying to stay with issues longer, while also navigating criticism.",
-    "img": "https://static.toiimg.com/photo/msid-133470780,imgsize-1467385.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/surprise-protests-genz-outreach-rahul-gandhis-new-playbook-after-cjps-success/articleshow/133470581.cms",
-    "time": "2026-08-24T14:55:23.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Clip of Govinda’s wife praying goes viral",
     "desc": "Sunita Ahuja was seen praying at Khatu Shyam temple amid ongoing rumours of marital discord with Govinda. This follows her recent appearance outside a Mumbai family court with son Harshvardhan, which fuelled divorce speculation. Manager Shashi Sinha earlier said Sunita withdrew her petition, but she has since unfollowed Govinda on Instagram, reigniting rumours after 37 years of marriage.",
@@ -232,15 +286,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/tennis/it-would-have-been-great-exposure-aita-bopanna-slam-2026-asian-games-tennis-omissions-sports-ministry-steadfast-on-selection-criteria/articleshow/133466023.cms",
     "time": "2026-08-24T12:40:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Putin credits PM Modi for growing Russia-India trade in talks with EAM Jaishankar",
-    "desc": "Russian President Vladimir Putin acknowledged Prime Minister Narendra Modi's role in strengthening bilateral ties. He noted that trade turnover between Russia and India has significantly increased this year. External Affairs Minister S Jaishankar conveyed good wishes and discussed economic cooperation details. Both leaders anticipate future meetings at upcoming international summits. The India-Russia partnership demonstrates resilience and adaptability amidst global complexities.",
-    "img": "https://static.toiimg.com/photo/msid-133466450,imgsize-1101202.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pays-close-personal-attention-putin-credits-pm-modi-for-growing-russia-india-trade-in-talks-with-eam-jaishankar/articleshow/133466356.cms",
-    "time": "2026-08-24T12:37:33.000Z"
   },
   {
     "cat": "Entertainment",
@@ -387,24 +432,6 @@ const newsData_en = [
     "time": "2026-08-24T10:04:31.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Salma Hayek",
-    "desc": "Salma Hayek shared a powerful quote about dismissing demeaning words. She explained that negative comments only hold power if you grant them significance. Hayek's early career began in Mexican cinema before she moved to Hollywood. She achieved her breakthrough in the film Desperado, launching her successful career. The actress has since starred in numerous well-known films and franchises.",
-    "img": "https://static.toiimg.com/photo/msid-133460264,imgsize-33582.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-from-salma-hayek-take-their-words-take-away-the-value-of-the-words-they-never-get-to-touch-you-they-are-nothing-the-frida-stars-words-of-wisdom-on-how-things-can-only-hurt-you-if-you-let-them/articleshow/133460231.cms",
-    "time": "2026-08-24T10:02:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kriti Sanon steps out in a look worth Rs 5.5 lakh for casual dinner outing",
-    "desc": "Kriti Sanon was spotted out for dinner in Mumbai last night, and her off-duty look was anything but low-key. The actress paired a printed Faithfull top with wide-leg Chloe trousers and finished the outfit with a YSL hobo bag, Fendi slingback flats and a Loewe belt, a mix that easily runs into several lakhs.",
-    "img": "https://static.toiimg.com/photo/msid-133460154,imgsize-111624.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kriti-sanon-steps-out-in-a-look-worth-rs-5-5-lakh-for-casual-dinner-outing-with-sister-nupur-amid-raksha-bandhan-commercial-backlash/articleshow/133459945.cms",
-    "time": "2026-08-24T09:49:31.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Yashasvi Jaiswal, Asitha Fernando fined 25% match fee for Colombo Test altercation",
     "desc": "Yashasvi Jaiswal and Asitha Fernando faced penalties for their on-field clash during a recent match. The International Cricket Council announced Level 1 sanctions after both athletes acknowledged their wrongdoing. The tension flared up following Fernando's dismissal of Jaiswal, culminating in heated words exchanged between them. Their teammates, along with Sri Lanka's captain, quickly stepped in to diffuse the situation.",
@@ -412,15 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/yashasvi-jaiswal-asitha-fernando-fined-25-match-fee-for-colombo-test-altercation/articleshow/133459925.cms",
     "time": "2026-08-24T09:41:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Govinda and Sunita unfollow each other on Instagram",
-    "desc": "Govinda and Sunita Ahuja are in the news amid marital discord, having unfollowed each other on Instagram. Sunita had filed for divorce in December 2024, citing adultery and cruelty, but has since withdrawn it. She reportedly told Rakhi Sawant that Govinda planned to remarry. Sunita also reacted sharply to Govinda's outing with co-star Komal Rani Swarnkar.",
-    "img": "https://static.toiimg.com/photo/msid-133459966,imgsize-259932.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amid-marriage-trouble-govinda-and-sunita-ahuja-unfollow-each-other-on-instagram/articleshow/133459933.cms",
-    "time": "2026-08-24T09:39:14.000Z"
   },
   {
     "cat": "Sports",
@@ -450,24 +468,6 @@ const newsData_en = [
     "time": "2026-08-24T08:32:51.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rashmika Mandanna steps out after injury; Vijay holds her hand",
-    "desc": "After overcoming a painful hip injury, Rashmika Mandanna graciously stepped into the public eye, attending an engagement ceremony in Hyderabad alongside her husband, Vijay Deverakonda. The couple’s stylish matching dark outfits turned heads at the event. Rashmika, who recently updated her fans about her recovery journey on social media, is taking the time she needs to restore her health while resting at home.",
-    "img": "https://static.toiimg.com/photo/msid-133458273,imgsize-300035.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandanna-makes-first-public-appearance-post-hip-injury-steps-out-with-husband-vijay-deverakonda/articleshow/133458170.cms",
-    "time": "2026-08-24T08:28:58.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Mahakali’: Akshaye Khanna’s Shukracharya declares war on devas; release date out",
-    "desc": "Filmmaker Prasanth Varma has unveiled the first look of his anticipated mythological epic, Mahakali. In a bold new avatar, Akshaye Khanna embodies the formidable guru Shukracharya. The teaser teases a grand conflict between Dharma and Adharma, showcasing Shukracharya's pivotal role. Audiences can expect a clash involving the Asura race, arriving in theaters on January 8, 2027, with notable performances from Sriya Reddy and Rohit Saraf.",
-    "img": "https://static.toiimg.com/photo/msid-133457859,imgsize-305792.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/prasanth-varmas-mahakali-glimpse-akshaye-khannas-shukracharya-declares-war-on-devas-release-date-announced/articleshow/133457705.cms",
-    "time": "2026-08-24T08:12:37.000Z"
-  },
-  {
     "cat": "World",
     "title": "Imran Khan’s party PTI demands immediate cardiac care for him at Shifa International Hospital",
     "desc": "Pakistan’s Opposition PTI has demanded immediate cardiac care for jailed former Prime Minister Imran Khan at Shifa International Hospital, alleging that a recommended CT Coronary Angiography was not conducted during his recent visit to a government hospital",
@@ -475,24 +475,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/pti-demands-immediate-cardiac-care-for-imran-khan-at-shifa-hospital/article71383417.ece",
     "time": "2026-08-24T07:59:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Salman Khan will be the first guest on 'Koffee With Karan' season 9: Report",
-    "desc": "Salman Khan is gearing up for his solo debut on Koffee With Karan Season 9, a notable shift from his earlier appearances on the show. Set to premiere on JioHotstar between October and November 2026, this season promises an exciting overhaul, featuring shorter segments and fresh faces, including talents from the South Indian film industry and various digital creators.",
-    "img": "https://static.toiimg.com/photo/msid-133455995,imgsize-236182.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-will-be-the-first-guest-on-koffee-with-karan-season-9-he-would-appear-solo-other-guests-include-jaya-bachchan-kajol-vicky-kaushal-aneet-padda-ahaan-panday-and-others-report/articleshow/133455921.cms",
-    "time": "2026-08-24T07:24:57.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "‘75% global trade will be covered’: India negotiating trade deals with 8-9 more groups of countries",
-    "desc": "Speaking to business representatives from India and Japan, Goyal said India has a sizeable domestic market while also opening itself to the global economy through nine free trade agreements signed over the past four years.",
-    "img": "https://static.toiimg.com/photo/msid-133455896,imgsize-335523.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/75-global-trade-will-be-covered-india-negotiating-trade-deals-with-8-9-more-groups-of-countries/articleshow/133455823.cms",
-    "time": "2026-08-24T07:19:36.000Z"
   },
   {
     "cat": "World",
@@ -511,15 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/rishabh-pant-leapfrogs-shubman-gill-to-become-indias-leading-wtc-run-scorer/articleshow/133454628.cms",
     "time": "2026-08-24T06:57:52.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Worst of gold price dips over? Check outlook for August 24, 2026 week",
-    "desc": "Looking ahead, market participants will closely monitor further developments in US Treasury operations, fiscal policy discussions, and upcoming economic data releases, which are expected to remain key drivers for gold prices in the near term.",
-    "img": "https://static.toiimg.com/photo/msid-133453749,imgsize-668157.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-what-is-the-gold-rate-outlook-for-august-24-2026-week-should-you-buy-or-sell-mcx-gold-us-iran-war-middle-east/articleshow/133453711.cms",
-    "time": "2026-08-24T06:29:34.000Z"
   },
   {
     "cat": "Sports",
@@ -549,24 +522,6 @@ const newsData_en = [
     "time": "2026-08-24T05:02:31.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Rupee climbs to 95.64 against US dollar; Iran sanctions, crude prices in focus",
-    "desc": "The rupee began the trading day on a stronger note against the US dollar, appreciating by seven paise to 95.64. Nonetheless, concerns over geopolitical tensions and steady demand from importers curbed significant gains. Compounded by elevated Brent crude prices, the rupee traded cautiously. Investors are particularly attentive to anticipated sanctions impacting Iran's oil sector. Notably, India's foreign exchange reserves saw a remarkable rise in the latest reporting week.",
-    "img": "https://static.toiimg.com/photo/msid-133451177,imgsize-68976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-climbs-to-95-64-against-us-dollar-iran-sanctions-crude-prices-in-focus/articleshow/133451146.cms",
-    "time": "2026-08-24T04:30:23.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "KPMG Australia to cut 5% of workforce amid scandal, weak growth outlook",
-    "desc": "KPMG Australia is set to cut around five percent of its workforce, a move triggered by a scandal involving breach of client confidentiality. The firm projects a challenging economic landscape lasting until 2028. Revenue has dipped by one percent, with a striking decline in consulting services. This restructuring is part of KPMG's efforts to streamline operations while under government investigation.",
-    "img": "https://static.toiimg.com/photo/msid-133450848,imgsize-87456.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/kpmg-australia-to-cut-5-of-workforce-amid-scandal-weak-growth-outlook/articleshow/133450506.cms",
-    "time": "2026-08-24T04:06:00.000Z"
-  },
-  {
     "cat": "World",
     "title": "Eyes on Xi visit, ‘early harvest’ as Doval heads to Beijing",
     "desc": "NSA Ajit Doval’s China visit a few weeks before India’s hosting of the BRICS Summit on September 12 is an indication that both sides are preparing for a first visit by Chinese President Xi Jinping in seven years",
@@ -574,15 +529,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/ajit-doval-wang-yi-meeting-india-china-special-representatives-talks-august-23-2026/article71380342.ece",
     "time": "2026-08-24T03:51:45.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Oil prices slip over $1 as US weighs ‘D-Day’ Iran sanctions; Strait of Hormuz shipping risks in focus",
-    "desc": "In the lead-up to impending US sanctions on Iran, oil prices fell as investors capitalized on recent gains. As Washington prepares to unveil its most stringent measures Monday, the potential for disruptions in Middle Eastern oil supply looms large. Iran's rejection of these sanctions, coupled with its threat to cut oil exports from the Gulf, adds a layer of uncertainty to global energy markets that stakeholders are closely monitoring.",
-    "img": "https://static.toiimg.com/photo/msid-133449300,imgsize-136132.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-slip-over-1-as-us-weighs-d-day-iran-sanctions-strait-of-hormuz-shipping-risks-in-focus/articleshow/133449231.cms",
-    "time": "2026-08-24T01:59:46.000Z"
   },
   {
     "cat": "World",
@@ -718,15 +664,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-security-chief-threatens-neighbors-against-new-us-economic-measures/article71380026.ece",
     "time": "2026-08-23T03:57:31.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Canada retaliates as trade war with U.S. escalates",
-    "desc": "Negotiations between the neighbouring countries broke down on August 21 in Washington, putting into force new 50% U.S. tariffs impacting about $20 billion worth of goods, or 5.5% of Canadian exports to the United States",
-    "img": "https://th-i.thgim.com/public/incoming/w75w72/article71379058.ece/alternates/LANDSCAPE_1200/2026-08-22T170244Z_675973054_RC2R3NALRP00_RTRMADP_3_USA-TRUMP-TARIFFS-CANADA.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/canada-retaliates-as-trade-war-with-us-escalates/article71379056.ece",
-    "time": "2026-08-23T01:26:10.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +835,41 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
     "time": "2024-03-11T10:00:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
+    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
+    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
+    "time": "2024-03-11T09:41:17.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Here’s how much the smartphone costs",
+    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
+    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
+    "time": "2024-03-11T09:36:12.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
+    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
+    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
+    "time": "2024-03-11T09:19:46.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Former Activision boss reportedly wants to buy TikTok",
+    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
+    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
+    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
