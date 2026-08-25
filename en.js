@@ -1,5 +1,122 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Dolly Parton, country music icon passes away at 80",
+    "desc": "Country music icon Dolly Parton has died at the age of eighty. She rose from humble beginnings to achieve global music stardom. Parton was celebrated for her songwriting and philanthropic endeavors. Her career spanned decades, influencing music and popular culture significantly. She leaves behind a rich legacy of music and charitable work.",
+    "img": "https://static.toiimg.com/photo/msid-133524319,imgsize-87226.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dolly-parton-country-music-icon-and-actress-passes-away-at-80-funeral-details-revealed/articleshow/133524248.cms",
+    "time": "2026-08-25T21:09:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Govt seeks 2 years to frame creamy layer criteria for PSU, private staff kids",
+    "desc": "In its application, Centre said, “On account of the serious challenges and implications with the implementation of the directions of SC, govt is committed to bring out a policy which will effectively address the observations made by SC, while also ensuring that the direct and indirect impact of the policy is fair and just.”",
+    "img": "https://static.toiimg.com/photo/msid-133524249,imgsize-144642.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/govt-seeks-2-years-to-frame-creamy-layer-criteria-for-psu-private-staff-kids/articleshow/133524157.cms",
+    "time": "2026-08-25T20:46:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "No intention to quit politics, Nitin Gadkari clarifies",
+    "desc": "Nitin Gadkari’s office said, “In that context, Gadkari said that he could no longer take on as much work as before and that the younger generation should be given an opportunity to take greater responsibility. His remarks were clearly related to the functioning and future leadership of the Trust. However, some television channels are presenting the statement as a political remark, taking it out of its actual context.”",
+    "img": "https://static.toiimg.com/photo/msid-133524197,imgsize-30996.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-intention-to-quit-politics-gadkari-clarifies/articleshow/133524155.cms",
+    "time": "2026-08-25T20:27:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Of 27 lakh ‘logical discrepancy’ deletions in West Bengal, only 7 lakh appealed",
+    "desc": "A bench of CJI Surya Kant and Justices Joymalya Bagchi and V Mohana was informed by senior advocate Gopal Sankaranarayanan that of total 38.1 lakh appeals filed before the SIR appellate tribunals, an overwhelming 31 lakh were filed by those who challenged inclusion of names in the rolls claiming they were ineligible to be voters in Bengal.",
+    "img": "https://static.toiimg.com/photo/msid-133524211,imgsize-216828.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/of-27-lakh-logical-discrepancy-deletions-in-west-bengal-only-7-lakh-appealed/articleshow/133524158.cms",
+    "time": "2026-08-25T20:27:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Do we need a 4th-party audit?’ PM raps secretaries over quality of public projects",
+    "desc": "Chairing the monthly Pragati meeting on Tuesday, Modi is learned to have told the top bureaucrats that such things are “unacceptable” and the system won’t work like this. Modi reviewed six infrastructure projects across railway, road and power sectors, spanning nine states with a cumulative cost of over Rs 30,000 crore. He said infrastructure projects should be viewed and monitored as an integrated whole, rather than as isolated sections, stretches or packages.",
+    "img": "https://static.toiimg.com/photo/msid-133524182,imgsize-66912.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/do-we-need-a-4th-party-audit-pm-raps-secretaries-over-quality-of-public-projects/articleshow/133524154.cms",
+    "time": "2026-08-25T20:14:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Haaland leaving Man City is inevitable’: Ex-City star predicts exit timing",
+    "desc": "Former Manchester City midfielder Gareth Barry believes Erling Haaland could eventually leave the club if their dominance and trophy success decline. Despite his contract until 2034, Barry says Haaland may seek a new challenge if City struggle over the next two seasons. He also expects Arsenal to be favourites for the Premier League following City’s major changes.",
+    "img": "https://static.toiimg.com/photo/msid-133524156,imgsize-53898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/erling-haaland-leaving-man-city-one-day-is-inevitable-ex-man-city-star-predicts-when-striker-could-push-for-exit/articleshow/133523860.cms",
+    "time": "2026-08-25T20:07:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ex-Man Utd star warns Neymar-Messi reunion could make MLS an even bigger circus",
+    "desc": "Former Manchester United and Serie A forward Giuseppe Rossi has warned that Neymar joining Inter Miami would boost MLS commercially but do little to improve its footballing quality. While he supports a reunion with Lionel Messi and Luis Suarez, Rossi criticised MLS for prioritising superstar signings, clicks and club valuations over developing the league’s overall sporting standard.",
+    "img": "https://static.toiimg.com/photo/msid-133523727,imgsize-66616.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/former-man-utd-star-and-pundit-warns-neymar-messi-reunion-will-turn-mls-into-even-more-of-a-circus-in-scathing-attack/articleshow/133522323.cms",
+    "time": "2026-08-25T19:22:37.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "NYC Mayor Mamdani opposes RSS chief Bhagwat's Madison Square event",
+    "desc": "Zohran Mamdani said the vision of India that his family taught him was that of \"a pluralistic society, of a secular republic that believed in the belonging of each and every person who was from India\"",
+    "img": "https://th-i.thgim.com/public/incoming/pllikx/article71390381.ece/alternates/LANDSCAPE_1200/2026-08-12T191157Z_893822250_RC25XMAFBBXC_RTRMADP_3_USA-TRUMP-IMMIGRATION-NEW-YORK.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/nyc-mayor-mamdani-opposes-rss-chief-bhagwats-madison-square-event/article71390368.ece",
+    "time": "2026-08-25T19:18:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Maldives prez",
+    "desc": "Delivering a keynote statement at the opening ceremony of the Small Island Developing States Global Business Network (SIDS GBN) Forum 2026, Muizzu outlined an economic modernization plan aimed at turning geographic constraints into digital and strategic advantages. With the global dialogue surrounding small island nations focused on their acute climate risk, geographical isolation, and structural economic constraints, Muizzu stressed that vulnerability represents only half the story.",
+    "img": "https://static.toiimg.com/photo/msid-133523671,imgsize-528353.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/small-island-states-can-serve-as-labs-for-innovation-and-tech-maldives-prez/articleshow/133523505.cms",
+    "time": "2026-08-25T19:17:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP to take out a 10-day padayatra from Raichur to Ballari from September 1",
+    "desc": "A day after the Monsoon Session of the State legislature was adjourned abruptly, the Bharatiya Janata Party announced that it will launch a 10-day padayatra from Raichur to Ballari from September 1 to create awareness against the alleged failures of the Congress government",
+    "img": "https://th-i.thgim.com/public/incoming/bpqtke/article71390371.ece/alternates/LANDSCAPE_1200/BJP-says-it-wilGFDGCMM6O.2.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/bjp-to-take-out-a-10-day-padayatra-from-raichur-to-ballari-from-september-1/article71389707.ece",
+    "time": "2026-08-25T19:11:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Hydel project shutdown triggers power crisis in J&amp;K",
+    "desc": "The prolonged shutdown has widened the region’s power deficit. Jammu & Kashmir’s peak electricity demand stands at about 2,500MW in summer and 3,000MW in winter. With both Baglihar units largely unavailable for most of the past week, Jammu & Kashmir faced a shortfall of nearly 900MW. Built on the Chenab river, Baglihar stages I and II are among Jammu & Kashmir’s key power sources.",
+    "img": "https://static.toiimg.com/photo/msid-133522755,imgsize-86180.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/hydel-project-shutdown-triggers-power-crisis-in-jk/articleshow/133522556.cms",
+    "time": "2026-08-25T18:37:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "8 terror suspects held in Kashmir; arms-ammo, posters seized",
+    "desc": "Six arrests were made in south Kashmir’s Shopian district and two in Pulwama, also in south Kashmir. A cache of arms and ammunition was recovered in north Kashmir’s Sopore district, J&K Police said Tuesday, claiming the action had dealt a major blow to terror networks operating in the Union Territory.",
+    "img": "https://static.toiimg.com/photo/msid-133522670,imgsize-223830.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/8-terror-suspects-held-in-kashmir-arms-ammo-posters-seized/articleshow/133522555.cms",
+    "time": "2026-08-25T18:33:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Urvashi Rautela defends Tiranga-inspired gown after backlash",
+    "desc": "Urvashi Rautela faced backlash over her Tiranga-inspired gown at the Miss Universe India pageant in Jaipur. Addressing the criticism in a recent interview, the actor defended the outfit, saying it was not a literal reproduction of the Indian flag but a theatrical, high-fashion homage inspired by India’s national colours and symbolism.",
+    "img": "https://static.toiimg.com/photo/msid-133522435,imgsize-106731.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/urvashi-rautela-faces-backlash-over-tiranga-inspired-gown-at-miss-universe-india-defends-her-look-it-is-a-theatrical-high-fashion-homage/articleshow/133522277.cms",
+    "time": "2026-08-25T18:27:08.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "'Country is not a dharamshala': Amit Shah sets target for illegal immigration-free India",
     "desc": "Home Minister Amit Shah has announced a strategic vision to rid India of illegal immigration in the near future. This initiative involves collaborating with border states through a four-pronged strategy aimed at bolstering security. The plan includes the participation of border forces, state administrations, central agencies, and local communities. Shah further highlighted the commitment to tackle terrorism and drug issues with proactive interventions, aiming for a developed nation by 2047.",
@@ -135,15 +252,6 @@ const newsData_en = [
     "time": "2026-08-25T16:03:31.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Environmentalists write to Supreme Court committee about ‘inadequate’ public consultation on Aravallis",
-    "desc": "As the August 31 deadline for the committee approaches, conservationists have urged the panel to seek more time, broaden the consultation process, involve independent experts, listen to rural and adivasi communities and include knowledgeable local citizens in field visits",
-    "img": "https://th-i.thgim.com/public/incoming/i46a42/article70421956.ece/alternates/LANDSCAPE_1200/JPRJP_4-9-2012_14-44-19_02_MONSOON_04_09_JPR.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/environmentalists-write-to-supreme-court-committee-about-inadequate-public-consultation-on-aravallis/article71388966.ece",
-    "time": "2026-08-25T16:00:39.000Z"
-  },
-  {
     "cat": "Business",
     "title": "'A whole new vibe': Ashwini Vaishnaw shares glimpse of bullet train project taking shape",
     "desc": "The ambitious construction of India's inaugural bullet train segment is well underway in Thane and Palghar. Currently, over one hundred kilometers of pier work is in progress, with many piers poised for girders. This essential elevated route will host three elevated stations, while several mountain tunnels have successfully broken through. Additionally, significant bridge construction is ongoing, showcasing the country's commitment to advancing modern railway infrastructure.",
@@ -151,24 +259,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/a-whole-new-vibe-ashwini-vaishnaw-shares-glimpse-of-bullet-train-project-taking-shape/articleshow/133516851.cms",
     "time": "2026-08-25T15:51:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India must own its trade, add 100 ships to merchant fleet: Shipping Minister Sarbananda Sonowal",
-    "desc": "India pays ₹75 billion per year to foreign shipping lines, says NSB, proposing a five-year roadmap to reduce dependence on foreign ships for critical cargo; however, it is 16% to 20% costlier to operate ships under an Indian flag",
-    "img": "https://th-i.thgim.com/public/incoming/oanrbr/article71265507.ece/alternates/LANDSCAPE_1200/TH14-Saurabh-GoGUFG8H37G.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/india-must-own-its-trade-add-100-ships-to-merchant-fleet-shipping-minister-sarbananda-sonowal/article71389660.ece",
-    "time": "2026-08-25T15:39:50.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "A.P. JAC Amaravati calls for unified protest over employee demands",
-    "desc": "AP JAC Amaravati invites APNGOs Association and the Andhra Pradesh Secretariat Employees’ Association to join hands and launch a protest on August 28 on issues relating to the financial benefits of employees, teachers and pensioners",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-jac-amaravati-calls-for-unified-protest-over-employee-demands/article71389464.ece",
-    "time": "2026-08-25T15:34:41.000Z"
   },
   {
     "cat": "Entertainment",
@@ -379,15 +469,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Quote of the day by Kenneth Branagh",
-    "desc": "Actor Kenneth Branagh offers a profound reflection on the essence of home and personal belonging. He emphasizes that true home transcends geographical boundaries, residing instead in cherished memories and the warmth of familial love. This realization demands a mental transition, as understanding home as an internal state rather than a physical entity takes time. Branagh's insights are deeply rooted in his own life experiences, shaping his view on displacement.",
-    "img": "https://static.toiimg.com/photo/msid-133510122,imgsize-239945.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-kenneth-branagh-for-anybody-who-finds-themselves-displaced-try-and-understand-that-that-which-lives-inside-of-you-that-is-your-memories-of-your-familyhome-can-be-wherever-you-are-harry-potter-actor-on-how-you-can-make-a-home-out-of-anything/articleshow/133509966.cms",
-    "time": "2026-08-25T12:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "‘Vijayakanth is the reason we eat well today’: MS Bhaskar gets emotional",
     "desc": "On the birth anniversary of Vijayakanth, actor MS Bhaskar expressed heartfelt memories, referring to him as both an elder brother and a nurturing mother figure. He attributed his family's stability and well-being to Vijayakanth's influence. A gathering at the memorial saw many paying tribute to the late actor and politician, celebrating a legacy filled with kindness and unwavering support.",
     "img": "https://static.toiimg.com/photo/msid-133510629,imgsize-133551.cms",
@@ -405,15 +486,6 @@ const newsData_en = [
     "time": "2026-08-25T12:17:33.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Xi expected to visit India for Brics summit; Mojtaba makes rare appearance &amp; more",
-    "desc": "Chinese President Xi Jinping is expected to visit India for the BRICS summit with a large delegation. Mojtaba Khamenei appeared in a rare video amid growing concerns over his health. Fresh protests erupted in Bihar over the BPSC exam row and a controversial remark. Kharge and Rahul Gandhi urged PM Modi to withdraw the existing caste census questionnaire.",
-    "img": "https://static.toiimg.com/photo/msid-133508359,imgsize-88284.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-xi-expected-to-visit-india-for-brics-summit-mojtaba-makes-rare-appearance-more/articleshow/133508359.cms",
-    "time": "2026-08-25T12:04:20.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'You're just wasting time bro': Sarfaraz Khan's sledging goes viral",
     "desc": "Sarfaraz Khan played a key role as India’s substitute fielder against Sri Lanka, constantly chatting with batters from short leg. His sledging appeared to distract captain Dhananjaya de Silva and Niroshan Dickwella, who were dismissed soon after. Sarfaraz told Dhananjaya, “Don't be scared. You are the captain. Come on, bro,\" as India strengthened their position.",
@@ -421,15 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/youre-just-wasting-time-bro-sarfaraz-khans-sledging-skills-go-viral-during-ind-vs-sl-2nd-test-watch/articleshow/133506399.cms",
     "time": "2026-08-25T11:43:54.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kamal Haasan hails Vijay's TN Government for Bharathiraja memorial",
-    "desc": "The Tamil Nadu government will establish a memorial hall and statue for filmmaker Bharathiraja. This tribute will be built in his birthplace, Theni district, at an estimated cost of Rs 2.5 crore. Actor Kamal Haasan praised the government's decision to honor the respected director's contributions. Bharathiraja, who passed away recently, significantly influenced Tamil cinema with his realistic portrayals.",
-    "img": "https://static.toiimg.com/photo/msid-133508769,imgsize-157368.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/kamal-haasan-hails-vijays-tn-government-for-bharathiraja-memorial-gratitude-rendered-in-the-fullness-of-time/articleshow/133508696.cms",
-    "time": "2026-08-25T11:42:55.000Z"
   },
   {
     "cat": "Business",
@@ -477,24 +540,6 @@ const newsData_en = [
     "time": "2026-08-25T10:48:27.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Is Congress taking a calculated gamble or walking into BJP's trap?",
-    "desc": "The Congress party's choice to sing two stanzas of Vande Mataram sparked intense backlash from the BJP, with Union ministers accusing them of engaging in appeasement politics and being responsible for the partition. Congress leaders defended their actions by invoking historical importance, while they criticized the BJP for politicizing the issue. This controversy underscores Congress's struggle to navigate its revival strategy amidst opposing pressures.",
-    "img": "https://static.toiimg.com/photo/msid-133504405,imgsize-36380.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/vande-mataram-row-is-congress-taking-a-calculated-gamble-or-walking-into-bjps-trap/articleshow/133503760.cms",
-    "time": "2026-08-25T10:27:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I will continue to play for my father': Saransh gets emotional after India Test debut",
-    "desc": "Saransh Jain made his Test debut for India against Sri Lanka, becoming the country’s 320th Test player. He dedicated the achievement to his father, who inspired him to play cricket. Receiving his cap from Ravindra Jadeja made the moment special. Jadeja praised his domestic performances and advised him to enjoy the opportunity without feeling pressure.",
-    "img": "https://static.toiimg.com/photo/msid-133505791,imgsize-108713.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/i-will-continue-to-play-for-my-father-saransh-jain-gets-emotional-after-india-test-debut/articleshow/133503987.cms",
-    "time": "2026-08-25T10:27:31.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Sugar prices cool 18% after hitting record high, ex-mill rates fall to Rs 55 per kg",
     "desc": "Following a surge in sugar prices to unprecedented levels last week, the market is now experiencing a decline. Government interventions aimed at curbing hoarding and speculation have contributed to this stabilization. Ex-mill sugar rates have seen a substantial decrease, and additional cuts are anticipated. Although predictions for domestic sugar output are lower, current stock levels remain adequate. Consumers are still eager for reductions in both wholesale and retail pricing.",
@@ -513,15 +558,6 @@ const newsData_en = [
     "time": "2026-08-25T10:03:11.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Food companies withdraw ‘100%’ and health claims after notices",
-    "desc": "India's food regulator FSSAI has taken action against several major food business operators. Companies like Amway India and Juza Foods have removed misleading claims from their products. These corrective actions follow notices issued over regulatory violations and consumer safety concerns. FSSAI's enforcement drive targets false advertisements and labelling discrepancies across the industry. Many businesses are now revising packaging and withdrawing problematic advertisements.",
-    "img": "https://static.toiimg.com/photo/msid-133504030,imgsize-42456.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/fssai-crackdown-food-companies-withdraw-100-and-health-claims-after-notices/articleshow/133502770.cms",
-    "time": "2026-08-25T09:45:04.000Z"
-  },
-  {
     "cat": "World",
     "title": "Pakistan, Iran explore reopening Strait of Hormuz, easing West Asia tensions",
     "desc": "Army Chief Field Marshal Asim Munir was accompanied by Interior Minister Mohsin Naqvi, concluded a day-long visit to Iran as part of Islamabad’s diplomatic efforts to break the deadlock in the ongoing West Asia conflict",
@@ -529,24 +565,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/pakistan-iran-explore-reopening-strait-of-hormuz-easing-west-asia-tensions/article71387519.ece",
     "time": "2026-08-25T09:31:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "China's Xi Jinping to visit India with 400-member delegation for Brics: Report",
-    "desc": "Chinese President Xi Jinping is set to arrive in New Delhi for the upcoming BRICS summit next month. Accompanied by a robust delegation of around 400 officials, this visit marks a significant increase from his last attendance. This diplomatic mission comes at a crucial time as India and China aim to mend their relationship following past border conflicts.",
-    "img": "https://static.toiimg.com/photo/msid-133503268,imgsize-41102.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/chinas-xi-jinping-to-visit-india-with-400-member-delegation-for-brics-report/articleshow/133503024.cms",
-    "time": "2026-08-25T09:22:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India mulls annual dope tests on all commercial pilots on a random basis",
-    "desc": "Indian pilots may soon undergo annual random drug tests for safety. The Directorate General of Civil Aviation is reviewing current regulations and policies. This move follows an incident involving an Air India pilot testing positive. Airlines are voluntarily conducting one-time dope tests on all their pilots. Investigations into a recent Air India flight incident are also ongoing.",
-    "img": "https://static.toiimg.com/photo/msid-133503054,imgsize-28206.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-mulls-annual-dope-tests-on-all-commercial-pilots-on-a-random-basis/articleshow/133501680.cms",
-    "time": "2026-08-25T09:13:59.000Z"
   },
   {
     "cat": "Entertainment",
@@ -801,15 +819,6 @@ const newsData_en = [
     "time": "2026-08-24T03:51:45.000Z"
   },
   {
-    "cat": "World",
-    "title": "Fast-moving wildfire amid shifting winds threatens Reno, Nevada, forcing thousands to evacuate",
-    "desc": "The Hawk Fire began on Saturday (August 24) and quickly grew to more than 60 sq km as it spread across the Peavine Peak area of the Humboldt–Toiyabe National Forest, where rugged foothills are ringed by homes and businesses near the California state line.",
-    "img": "https://th-i.thgim.com/public/incoming/y4zl0s/article71383013.ece/alternates/LANDSCAPE_1200/2026-08-24T002311Z_330327995_RC2I4NAON7M3_RTRMADP_3_EUROPE-WEATHER-NORTHMACEDONIA-WILDFIRE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/fast-moving-wildfire-amid-shifting-winds-threatens-reno-nevada-forcing-thousands-to-evacuate/article71383006.ece",
-    "time": "2026-08-24T01:17:43.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Harry Kane is Germany's player of the year, Vincent Kompany gets coach's award",
     "desc": "Kane scored 61 goals across all competitions, including the German Supercup for Bayern last season, helping the team defend its Bundesliga title and win the German Cup; he scored a hat trick in the cup final",
@@ -889,14 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
     "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
   }
 ];
