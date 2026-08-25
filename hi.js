@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Morne Morkel shares major fitness update on Rishabh Pant after keeper-batter was out of action on Day 3",
+    "desc": "India bowling coach Morne Morkel confirmed that Rishabh Pant is currently not fit to keep wickets. The 28-year-old didn’t participate on Day 3 of the second Test against Sri Lanka, as he was spotted badly...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/morne-morkel-shares-major-fitness-update-on-rishabh-pant-after-keeper-batter-was-out-of-action-on-day-3-2026-08-25-1052388",
+    "time": "2026-08-25T13:18:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India remain in control of Colombo Test despite Pasindu, Sonal's well-deserved half-centuries",
+    "desc": "India strengthened their position in the second Test against Sri Lanka after the hosts reached 230/8 at stumps on a rain-affected third day, still 238 runs behind the visitors. They started the day with the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-remain-in-control-of-colombo-test-despite-pasindu-sonal-s-well-deserved-half-centuries-2026-08-25-1052383",
+    "time": "2026-08-25T12:58:07.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "East Zone thrash North East Zone to seal spot in Duleep Trophy semis; who do they play next?",
     "desc": "East Zone booked their place in the Duleep Trophy semi-finals with an innings-and-210-run victory over North East Zone at the BCCI Centre of Excellence Ground 2 in Bengaluru. The result was set up by two...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-continue-dominant-show-in-colombo-produce-exceptional-performances-to-keep-sl-at-bay-on-day-2-2026-08-24-1052298",
     "time": "2026-08-24T12:53:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Dhruv Jurel smashes second Test ton, shows off 'Jai Jawan, Jai Kisan' tattoo to celebrate",
-    "desc": "India and Sri Lanka took on each other on day 2 of the ongoing second Test, and the clash saw India continue to showcase their batting prowess. Beginning the day on a score of 300/5,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dhruv-jurel-smashes-second-test-ton-shows-off-signature-jai-jawan-jai-kisan-tattoo-to-celebrate-2026-08-24-1052288",
-    "time": "2026-08-24T11:21:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "How can Australia’s Test team benefit from their upcoming ODI series against SA? Pat Cummins opines",
-    "desc": "Australia is gearing up for several ODI assignments, with the ODI World Cup 2027 looming on the horizon; the various teams are hard at work preparing for the tournament. However, the Australian cricket team is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-can-australia-s-test-team-benefit-from-their-upcoming-odi-series-against-sa-pat-cummins-opines-2026-08-24-1052286",
-    "time": "2026-08-24T10:57:34.000Z"
   }
 ];
