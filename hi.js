@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India to face Panama in FIFA Men's international friendly on September 26 ahead of Brazil clash",
+    "desc": "The Indian senior men's football team is set for another major international test before its much-awaited showdown against five-time world champions Brazil. The All India Football Federation (AIFF) announced on Tuesday that India will host...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/india-to-face-panama-in-fifa-men-s-international-friendly-on-september-26-ahead-of-brazil-clash-2026-08-25-1052398",
+    "time": "2026-08-25T16:00:25.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Morne Morkel shares major fitness update on Rishabh Pant after keeper-batter was out of action on Day 3",
     "desc": "India bowling coach Morne Morkel confirmed that Rishabh Pant is currently not fit to keep wickets. The 28-year-old didn’t participate on Day 3 of the second Test against Sri Lanka, as he was spotted badly...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/england-announce-replacement-after-brydon-carse-removed-from-second-test-vs-pakistan-after-handcuff-incident-2026-08-25-1052322",
     "time": "2026-08-25T04:55:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India continue dominant show in Colombo, produce exceptional performances to keep SL at bay on Day 2",
-    "desc": "The Indian team continued their second Test of the ongoing series against Sri Lanka. Day 2 of the clash began with India on a score of 300/5, and the side began the day with Dhruv...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-continue-dominant-show-in-colombo-produce-exceptional-performances-to-keep-sl-at-bay-on-day-2-2026-08-24-1052298",
-    "time": "2026-08-24T12:53:45.000Z"
   }
 ];
