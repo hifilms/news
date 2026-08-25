@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "East Zone thrash North East Zone to seal spot in Duleep Trophy semis; who do they play next?",
+    "desc": "East Zone booked their place in the Duleep Trophy semi-finals with an innings-and-210-run victory over North East Zone at the BCCI Centre of Excellence Ground 2 in Bengaluru. The result was set up by two...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/east-zone-thrash-north-east-zone-to-seal-spot-in-duleep-trophy-semis-who-do-they-play-next-2026-08-25-1052371",
+    "time": "2026-08-25T11:11:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Another Sri Lanka cricketer reprimanded by ICC for breaching code of conduct in second Test vs India",
+    "desc": "The International Cricket Council (ICC) has reprimanded Sri Lanka spinner Prabath Jayasuriya for his actions after being dismissed during the ongoing World Test Championship match against India in Colombo. He was sanctioned for breaching Article...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/another-sri-lanka-cricketer-reprimanded-by-icc-for-breaching-code-of-conduct-in-second-test-vs-india-2026-08-25-1052363",
+    "time": "2026-08-25T10:20:39.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India fallen behind in WTC final race, but can't be written off, says Rahul Dravid",
     "desc": "Former India head coach Rahul Dravid believes that the Shubman Gill-led side still has a slight chance to qualify for the World Test Championship final. However, he acknowledged the fact that there’s little margin for...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/how-can-australia-s-test-team-benefit-from-their-upcoming-odi-series-against-sa-pat-cummins-opines-2026-08-24-1052286",
     "time": "2026-08-24T10:57:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC announce sanctions for Yashasvi Jaiswal and Asitha Fernando after on-field altercation in second Test",
-    "desc": "In a major development, the ICC (International Cricket Council) has come forward and announced sanctions for India batter Yashasvi Jaiswal and Sri Lanka’s Asitha Fernando after the duo were involved in an altercation with each...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/icc-announce-sanctions-for-yashasvi-jaiswal-and-asitha-fernando-after-on-field-altercation-in-second-test-2026-08-24-1052276",
-    "time": "2026-08-24T09:49:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer questions Dhruv Jurel's batting position as India dismantle Sri Lanka in Colombo",
-    "desc": "Team India is putting in a brilliant performance against Sri Lanka. The two sides met in Colombo for the second Test of the series. On day 1 of the clash, India posted a total of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-questions-dhruv-jurel-s-batting-position-as-india-dismantle-sri-lanka-in-colombo-2026-08-24-1052273",
-    "time": "2026-08-24T08:49:17.000Z"
   }
 ];

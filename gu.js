@@ -1,12 +1,39 @@
 const newsData_gu = [
   {
-    "cat": "Business",
-    "title": "જેફરીને દુનિયાભરના શેર માર્કેટોને આપી ચેતવણી, અમેરિકાને ઠેરવ્યું જવાબદાર, જાણો",
-    "desc": "બ્રોકરેજ ફર્મ જેફરીને વિશ્વભરના શેર માર્કેટ માટે ચેતવણી સ્વરૂપ રિપોર્ટ જાહેર કર્યો છે અને તેના માટે યુએસ સરકારને જવાબદાર ઠેરવી છે, અમેરિકાના દેણાની અસર વિશ્વભરના શેર માર્કટમાં જોવા મળી શકે છે અને માર્કેટ અપડાઉન માટે પણ તેને જ જવાબદાર ઠેરવવામાં આવ્યું છે.",
+    "cat": "Sports",
+    "title": "જયસ્વાલ-ફર્નાન્ડો વચ્ચેના ઝઘડાનો નવો Video આવ્યો સામે, ICC પર લાગ્યા ગંભીર આરોપ",
+    "desc": "કોલંબો ટેસ્ટ દરમિયાન યશસ્વી જયસ્વાલ અને અસિથા ફર્નાન્ડો વચ્ચે થયેલા ઝઘડાનો નવો વીડિયો સામે આવ્યો છે, જે બાદ ICC પર ગંભીર આરોપો લગાવવામાં આવી રહ્યા છે, ત્યારે આ વીડિયામાં નવું શું છે, તેના પર નજર કરીએ.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/jefferies-warns-stock-markets-around-the-world-blames-america-know-488847 ",
-    "time": "2026-08-25T09:26:05.000Z"
+    "url": " http://zeenews.india.com/gujarati/sports/new-video-of-jaiswal-fernando-fight-surfaced-serious-allegations-on-icc-488879 ",
+    "time": "2026-08-25T12:21:53.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘કઈ વાતની આઝાદી?’ જાદવપુરના નારાઓ પર સુવેન્દુનો સ્પષ્ટ સંદેશ, ZEEના મંચ પર જણાવ્યા સરકારના 6 મોટા લક્ષ્યો",
+    "desc": "સુવેન્દુ અધિકારીએ Zee 24 Ghanta કોન્ક્લેવમાં બંગાળને આત્મનિર્ભર બનાવવા, ઉદ્યોગ અને રોજગાર વધારવા પર વાતચીત કરી. તેમણે અગાઉની સરકાર પર ભ્રષ્ટાચારના આરોપ લગાવ્યા. સાથે જ જાદવપુરના ‘આઝાદી’ના નારાઓ પર પણ કડક સંદેશ આપ્યો અને સરકારના છ લક્ષ્યો જણાવ્યા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/what-kind-of-freedom-suvendu-strong-message-on-jadavpur-slogans-6-major-goals-of-the-government-stated-on-zee-platform-488877 ",
+    "time": "2026-08-25T12:02:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "અમિત શાહ કઈ ઉંમરે બન્યા હતા પહેલીવાર ધારાસભ્ય? તમને કદાચ જવાબનો અંદાજ પણ નહીં હોય!",
+    "desc": "આજે, અમિત શાહનું નામ દેશના ટોચના રાજકારણીઓમાં સામેલ છે. પીએમ મોદી બાદ બીજા નંબરના સૌથી મોટા રાજનેતા ગણાતા અમિત શાહનો દેશભરમાં પડતો બોલ ઝિલાય છે. આમ છતાં બહુ ઓછા લોકોને ખબર હશે કે તેમની રાજકીય સફર કેવી રીતે શરૂ થઈ. તેમણે કયા મતવિસ્તારમાંથી પહેલી ચૂંટણી લડી? તેમના વિરોધી કોણ હતા, અને તેઓ કેટલા માર્જિનથી જીત્યા હતા? તેમની રાજકીય કારકિર્દીની શરૂઆત વિશેની વિગતો પણ અતિ રોચક છે. એક સમયે સ્કૂટર પર ફરનારા અમિત શાહને પણ એમ જ નથી મળી સફળતા....",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/at-just-32-how-amit-shah-won-his-first-election-the-sarkhej-by-election-story-488867 ",
+    "time": "2026-08-25T11:27:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "રાહતના સમાચાર ! 35 રૂપિયે કિલો મળશે ડુંગળી, સરકારે કરી જાહેરાત, જાણો ક્યાંથી ખરીદી શકાશે",
+    "desc": "દેશમાં ડુંગળીના ભાવમાં અચાનક ઉછાળો જોવા મળ્યો છે. કેટલાક શહેરોમાં ડુંગળીના ભાવ ₹60 થી ₹70 પ્રતિ કિલોગ્રામ પર પહોંચી ગયા છે. જો કે, સરકારે હવે જાહેરાત કરી છે કે તે ડુંગળી લગભગ અડધા ભાવે એટલે કે ₹35 પ્રતિ કિલોગ્રામે મળશે. ત્યારે આ તમે આ ભાવે ડુંગળી ક્યાંથી ખરીદી શકો છો, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/government-announces-onion-available-at-rs-35-per-kg-know-where-to-buy-488865 ",
+    "time": "2026-08-25T10:50:34.000Z"
   },
   {
     "cat": "Sports",
@@ -15,7 +42,34 @@ const newsData_gu = [
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/duleep-trophy-vaibhav-sooryavanshi-takes-two-wickets-in-over-for-east-zone-488848 ",
-    "time": "2026-08-25T09:22:45.000Z"
+    "time": "2026-08-25T09:51:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "નીતિન ગડકરી રાજકારણ છોડી રહ્યા છે? નવી પેઢી&amp;#039;ના નિવેદન પર કરી મોટી સ્પષ્ટતા",
+    "desc": "કેન્દ્રીય મંત્રી નીતિન ગડકરીના કાર્યાલયે તેમના નિવેદન અંગે સ્પષ્ટતા જાહેર કરી છે કે નવી પેઢીને તક આપવી જોઈએ. તેમના કાર્યાલયે જણાવ્યું હતું કે તેઓ લક્ષ્મણરાવ મેનકર ટ્રસ્ટનો ઉલ્લેખ કરી રહ્યા હતા. જો કે તેમને નવી પેઢીને તક આપવી જોઈએ તેના પર દેશભરમાં ચર્ચા શરૂ થઈ ગઈ હતી કે શું ગડકરી રાજનીતિ છોડી રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/nitin-gadkari-leaving-politics-big-clarification-on-new-generation-statement-488852 ",
+    "time": "2026-08-25T09:49:57.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "જેફરીને દુનિયાભરના શેર માર્કેટોને આપી ચેતવણી, અમેરિકાને ઠેરવ્યું જવાબદાર, જાણો",
+    "desc": "બ્રોકરેજ ફર્મ જેફરીને વિશ્વભરના શેર માર્કેટ માટે ચેતવણી સ્વરૂપ રિપોર્ટ જાહેર કર્યો છે અને તેના માટે યુએસ સરકારને જવાબદાર ઠેરવી છે, અમેરિકાના દેણાની અસર વિશ્વભરના શેર માર્કટમાં જોવા મળી શકે છે અને માર્કેટ અપડાઉન માટે પણ તેને જ જવાબદાર ઠેરવવામાં આવ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/jefferies-warns-stock-markets-around-the-world-blames-america-know-488847 ",
+    "time": "2026-08-25T09:45:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "7 પેઢી ભોગવશે, આ મારો શ્રાપ...કુણાલની માતાએ કોના પર લગાવ્યો હતો બરબાદ કર્યાનો આરોપ?",
+    "desc": "મહારાષ્ટ્રના છત્રપતિ સંભાજીનગરના કુણાલ અને તેના માતાપિતાના મોતના કેસમાં જે પરત દર પરત ખુલી રહી છે તે શોકિંગ છે. કુણાલે આઈફોનના કારણે આ પગલું ભર્યું એવું નથી પરંતુ પાછળ કારણ કઈક બીજુ છે. આખરે કોણ છે એ મહિલા? જેના વિશે કુણાલની માતાએ વીડિયોમાં વાત કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/chhatrapati-sambhajinagar-kunal-chandgude-death-case-update-mother-viral-video-488850 ",
+    "time": "2026-08-25T09:42:02.000Z"
   },
   {
     "cat": "Business",
@@ -342,15 +396,6 @@ const newsData_gu = [
     "time": "2026-08-23T08:51:41.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ના સીલ તૂટી, ના કવર ફાટ્યું! શું છે એન્ડોસ્કોપિક કેમેરો, જેનાથી પ્રોફેસરે લીક કરી દીધું પેપર, આવી રીતે કરે છે કામ",
-    "desc": "છત્તીસગઢમાં પેપર લીકનો એક એવો હાઈ-ટેક મામલો સામે આવ્યો છે જેણે સુરક્ષાના દાવાઓની પોલ ખોલી દીધી છે. એક પ્રોફેસરે સીલ તોડ્યા વગર, સોયથી કાંણું પાડીને એન્ડોસ્કોપિક કેમેરાની મદદથી બંધ લિફાફાની અંદરનું પેપર લીક કરી દીધું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/professor-used-endoscope-camera-needle-to-leak-agriculture-exam-paper-in-chhattisgarh-488559 ",
-    "time": "2026-08-23T08:15:43.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "ટીવી એક્ટર મોહસિન ખાને કરી સગાઈ, જાણો કોણ છે તમન્ના અને કેવી રીતે શરુ થઈ લવ સ્ટોરી",
     "desc": "યે રિશ્તા ક્યા કહેલાતા હૈ ના કાર્તિક એટલે કે એક્ટર મોહસિન ખાને શનિવારે સોશિયલ મીડિયા પર પોતાની સગાઈનું અનાઉન્સ કરી છે. આ ગુડ ન્યૂઝ શેર કરવાની સાથે તેણે સગાઈની તસવીરો પણ શેર કરી છે. મોહસિન ખાને તમન્ના નામની યુવતી સાથે સગાઈ કરી છે.",
@@ -565,15 +610,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/donald-trump-threatens-to-bomb-oman-over-strait-of-hormuz-issue-487993 ",
     "time": "2026-08-17T14:23:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "27 વર્ષીય એક્ટ્રેસ અનન્યા રાજનું મોત, પરિવારે 1 મહિના પછી આપી જાણકારી",
-    "desc": "27 વર્ષીય અભિનેત્રી અનન્યા રાજનું મોત થયું હોવાના સમાચાર સામે આવ્યા છે. સૌથી આશ્ચર્યજનક વાત એ છે કે અભિનેત્રીનું મોત 1 મહિના પહેલા થઈ ગયું છે અને પરિવારે 1 મહિના પછી આ દુખદ સમાચાર જાહેર કર્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/actress-ananya-raj-died-at-age-of-27-family-reveal-news-after-1-month-ananya-raj-death-reason-487951 ",
-    "time": "2026-08-17T04:22:44.000Z"
   },
   {
     "cat": "World",

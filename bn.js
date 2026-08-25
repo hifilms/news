@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "বিয়ে-বিচ্ছেদের পরেই বদল! বলিউড ছেড়ে এ কোন দুনিয়ায় পা! ২৩ বছর খবরে Raaz অভিনেত্রী",
+    "desc": "‘রাজ’ ছবিতে নজর কেড়েছিলেন মালিনী শর্মা। এরপর ধীরে ধীরে বলিউড থেকে দূরে সরে যান তিনি। অভিনেতা প্রিয়াংশু চট্টোপাধ্যায়ের সঙ্গে বিয়ে ও বিচ্ছেদের পর আরও আড়ালে চলে যান। এখন নিজের হাতে সবজি ফলান, অতিথিদের রান্না করে খাওয়ান এবং প্রকৃতির কাছেই শান্ত জীবন কাটাচ্ছেন। কোথায় থাকেন তিনি?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/malini-sharma-raaz-bollywood-quit-farmstay-sahyadri-life_668174.html ",
+    "time": "2026-08-25T12:29:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ধর্ম পরিবর্তনের চাপ? বিচ্ছেদের নেপথ্যে ধর্ম? হিমাংশীর অভিযোগে তোলপাড়! পাল্টা জবাব রিয়াজের",
+    "desc": "হিমাংশী খুরানার ধর্ম পরিবর্তনের চাপ সংক্রান্ত মন্তব্যের পর মুখ খুললেন তাঁর প্রাক্তন প্রেমিক অসীম রিয়াজ। অভিনেত্রীর অভিযোগ অস্বীকার করে অসীমের দাবি, তিনি কখনও হিমাংশীকে ধর্ম পরিবর্তন করতে বলেননি। ধর্মের মতো স্পর্শকাতর বিষয়কে তাঁকে হেয় করার জন্য ব্যবহার না করারও অনুরোধ করেছেন তিনি।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/asim-riaz-himanshi-khurana-religion-conversion-controversy_668171.html ",
+    "time": "2026-08-25T11:28:01.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "১ রাজ্য ভেঙে ৩ রঞ্জি টিম! একের বদলে তিন অ্যাসোসিয়েশনও, ২৫০ Gen Z ক্রিকেটারের বিক্ষোভে অগ্নিগর্ভ আইকনিক স্টেডিয়াম",
     "desc": "উত্তর প্রদেশে তিনটি রঞ্জি ট্রফি দল গঠনের দাবিতে লখনউয়ের একানা স্টেডিয়ামে প্রায় ২৫০ জন Gen Z ক্রিকেটার ও তাঁদের অভিভাবকরা বিক্ষোভ দেখালেন। আন্দোলনকারীদের যুক্তি- রাজ্যের বিশাল আয়তন ও জনসংখ্যার তুলনায় একটি মাত্র দল পর্যাপ্ত নয়। এর ফলে তরুণ খেলোয়াড়দের পর্যাপ্ত সুযোগ করে দেওয়া সম্ভব হচ্ছে না।",
@@ -106,24 +124,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/delhi-adobe-engineer-beaten-to-death-by-in-laws-after-domestic-dispute_667898.html ",
     "time": "2026-08-22T08:06:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "একযোগে তিন বৈঠক! প্রধানমন্ত্রী নরেন্দ্র মোদীর ২৫ বছর পূর্তি ঘিরে ব্লু-প্রিন্ট তৈরির প্রস্তুতি",
-    "desc": "দিল্লির বিজেপি সদর দফতরে আজ সর্বভারতীয় সভাপতি নীতিন নবীনের নেতৃত্বে তিনটি গুরুত্বপূর্ণ বৈঠক অনুষ্ঠিত হচ্ছে। প্রধানমন্ত্রী নরেন্দ্র মোদীর প্রশাসনিক জীবনের ২৫ বছর পূর্ণ হওয়া উপলক্ষে আগামী ১৭ সেপ্টেম্বর থেকে ৭ অক্টোবর পর্যন্ত দেশজুড়ে ‘সেবা সংকল্প মহোৎসব’ পালনের পরিকল্পনা ও চূড়ান্ত রূপরেখা তৈরি করতেই এই উচ্চপর্যায়ের বৈঠকগুলি ডাকা হয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/three-meetings-at-the-bjp-headquarters-roadmap-for-nationwide-programs-surrounding-modis-25-years_667897.html ",
-    "time": "2026-08-22T07:50:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ফোন কেনার বায়না নয়! পাহাড়ের খাদ থেকে পড়ে বাবা-মা-ছেলের মৃত্যুতে সামনে এল আসল কারণ",
-    "desc": "রাগের মাথায় ১৯ বছরের কুণাল খওয়াড়িয়া পাহাড়ে উঠে আত্মহত্যার হুমকি দেয়। মা-বাবা, পুলিস ও দমকল বাহিনী প্রায় তিন ঘণ্টা ধরে তাঁকে নামানোর চেষ্টা করে। বাবা কুণালকে টেনে আনতে গেলে দুজনে ভারসাম্য হারিয়ে পাহাড় থেকে নীচে পড়ে যান। এই ঘটনা দেখে মা-ও পাহাড় থেকে ঝাঁপ দেন এবং তিনজনেরই মৃত্যু হয়।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/iphone-emi-dispute-leads-to-family-tragedy-teen-and-parents-die_667894.html ",
-    "time": "2026-08-22T07:20:42.000Z"
   },
   {
     "cat": "Entertainment",
@@ -268,15 +268,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/model-identity-mix-up-in-train-stripping-over-seat-spat-attacks-railway-cop-with-blade-incident-who-is-actress-antara-banerjee_667221.html ",
     "time": "2026-08-17T07:49:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "বাংলা সিনেমায় এক যুগের অবসান! প্রয়াত জাতীয় পুরস্কারপ্রাপ্ত পরিচালক রাজা সেন",
-    "desc": "টলিউডে নেমে এল গভীর শোকের ছায়া!দীর্ঘদিন অসুস্থতার সঙ্গে লড়াইয়ের পর কলকাতার এসএসকেএম হাসপাতালে শেষ নিঃশ্বাস ত্যাগ করলেন জাতীয় পুরস্কারপ্রাপ্ত বর্ষীয়ান পরিচালক রাজা সেন। 'দামু' থেকে শুরু করে একাধিক কালজয়ী ছবির স্রষ্টার চিরবিদায়ে বাংলা চলচ্চিত্র জগতে একটি যুগের অবসান।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/veteran-bengali-film-director-raja-sen-passes-away-at-sskm-hospital_667112.html ",
-    "time": "2026-08-16T06:11:55.000Z"
   },
   {
     "cat": "Business",
