@@ -1,5 +1,131 @@
 const newsData_en = [
   {
+    "cat": "Business",
+    "title": "Trump's 50% tariff net catches 550+ Canadian goods",
+    "desc": "The United States has enacted a substantial 50% tariff on a wide range of Canadian goods, affecting more than 550 products, including common consumer items. In response, Canada intends to implement retaliatory measures that match the U.S. tariffs. This trade dispute continues to escalate further, with threats of additional tariffs on automotive products, indicating a growing conflict with severe economic implications for both nations.",
+    "img": "https://static.toiimg.com/photo/msid-133489204,imgsize-159854.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/honey-to-hockey-sticks-trumps-50-tariff-net-catches-550-canadian-goods/articleshow/133488846.cms",
+    "time": "2026-08-25T03:20:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rumer Willis on genetic testing amid Bruce Willis' dementia diagnosis",
+    "desc": "Rumer Willis is proactively assessing her health risks following her father's diagnosis. She is undergoing genetic testing to understand potential predispositions to diseases. Willis believes that having this information empowers her medical discussions. She emphasizes the importance of prioritizing health before significant issues arise. This approach aims to mitigate future health challenges as one ages.",
+    "img": "https://static.toiimg.com/photo/msid-133488226,imgsize-406411.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/amid-bruce-willis-dementia-diagnosis-daughter-rumer-willis-says-undergoing-genetic-testing-is-terrifying/articleshow/133488180.cms",
+    "time": "2026-08-25T02:52:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'What do you think of yourself?': Ex-Pak cricketer responds to ‘worst team’ tag",
+    "desc": "Salman Butt defended Pakistan's cricket team against harsh British media criticism. He argued the team never claimed to be world champions or a dominant force. Butt highlighted England's diverse player origins while defending Pakistan's homegrown talent. England secured a significant innings victory over Pakistan in the first Test. This defeat marked a new era for the English team after coaching changes.",
+    "img": "https://static.toiimg.com/photo/msid-133488361,imgsize-104284.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/what-do-you-think-of-yourself-ex-pakistan-cricketer-responds-after-worst-team-tag/articleshow/133488173.cms",
+    "time": "2026-08-25T02:51:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Sandra Bullock shares how her kids handled Bryan Randall’s ALS battle",
+    "desc": "Sandra Bullock opened up about her children’s reactions to Bryan Randall's ALS diagnosis. Louis chose to keep his distance while still offering support, whereas Laila visited initially but later preferred to avoid him. With great sensitivity, Bullock respected their feelings and managed their interactions mindfully, standing by Randall throughout his illness until he passed away in 2023.",
+    "img": "https://static.toiimg.com/photo/msid-133488132,imgsize-105214.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sandra-bullock-breaks-silence-on-losing-bryan-randall-to-als-shares-how-her-kids-handled-the-diagnosis-says-they-observed-everything-and-were-very-astute/articleshow/133488060.cms",
+    "time": "2026-08-25T02:41:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "With Rishabh Pant beside him, Dhruv Jurel finds his own voice",
+    "desc": "Before the Sri Lanka series, Dhruv Jurel had gone eight innings without a 50-plus score, with questions being raised over his game against spin. He responded with 51 in the first Test and followed it with his second Test hundred, taking his series tally to 173 runs at an average of 86.5. The Indian team management has backed Jurel as a specialist middle-order batter even when he is not required to keep wickets.",
+    "img": "https://static.toiimg.com/photo/msid-133487561,imgsize-28909.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/india-vs-sri-lanka-2nd-test-with-rishabh-pant-beside-him-dhruv-jurel-finds-his-own-voice/articleshow/133487484.cms",
+    "time": "2026-08-25T02:21:08.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ishaan Khatter and Chandni Bainz amicably break-up, confirms source",
+    "desc": "In a surprising turn of events, actor Ishaan Khatter and model Chandni Bainz have reportedly concluded their romantic relationship. Sources indicate that their split was amicable, allowing both to focus on their independent journeys. Currently, Ishaan is diving into his upcoming projects, with season two of The Royals set to commence filming and Jugaadu in the pipeline for development.",
+    "img": "https://static.toiimg.com/photo/msid-133487525,imgsize-274132.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ishaan-khatter-and-chandni-bainz-end-their-relationship-amicably-the-homebound-actor-only-focused-on-work-at-the-moment-set-to-begin-the-royals-season-2-soon/articleshow/133487391.cms",
+    "time": "2026-08-25T02:20:37.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Kangana shares video comparing her English to Abhijeet Dipke’s, takes indirect jibe",
+    "desc": "Kangana Ranaut took to social media, contrasting her English proficiency with that of Abhijeet Dipke, while also probing his age and student status. Reflecting on her own challenges with the language during the early days of her career, Ranaut pointedly criticized protests connected to Dipke's organization, as he shared his own struggles with speaking English and inquired about government education.",
+    "img": "https://static.toiimg.com/photo/msid-133487126,imgsize-266637.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-shares-video-comparing-her-english-to-abhijeet-dipkes-takes-indirect-jibe-12th-pass-vs-boston-university/articleshow/133487030.cms",
+    "time": "2026-08-25T02:04:05.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Brent crude stays above $90 as Middle East standoff intensifies",
+    "desc": "Amidst a backdrop of fresh US sanctions on Iran, oil prices held firm as investors calculated the implications. The atmosphere grew tense after an oil tanker encountered damage near Oman's shores. With the US tightening its sanctions to curtail Iran's financial resources, analysts remarked that economic pressures allayed concerns over potential Middle Eastern oil supply interruptions, coinciding with US crude reserves reaching their lowest tier since 1982.",
+    "img": "https://static.toiimg.com/photo/msid-133486944,imgsize-161374.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-brent-crude-stays-above-90-as-middle-east-standoff-intensifies/articleshow/133486908.cms",
+    "time": "2026-08-25T02:02:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Deepika NOT a part of 'Brahmastra 2' with Ranbir. the actor's team clarifies",
+    "desc": "Deepika Padukone's representative has firmly rejected any claims of her being part of Brahmastra 2. Reports of her involvement have been completely dismissed. Meanwhile, work on Ayan Mukerji's grand fantasy adventure continues, with Ranbir Kapoor stating that the script for Brahmastra 2 is already in an advanced writing phase. Padukone, however, remains busy with other projects like King and Raaka.",
+    "img": "https://static.toiimg.com/photo/msid-133486869,imgsize-255369.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-is-not-a-part-of-brahmastra-2-with-ranbir-kapoor-the-actors-team-clarifies-all-recent-reports-untrue/articleshow/133486792.cms",
+    "time": "2026-08-25T01:50:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Stone quarries put Assam semiconductor plant at risk",
+    "desc": "Green activists and local organisations have petitioned the government on flash floods and air pollution caused by the quarries and crushers within 5 km of the Tata chip plant, which needs to be insulated from microscopic dust, according to the Indian Semiconductor Mission",
+    "img": "https://th-i.thgim.com/public/incoming/q9uf9a/article71387092.ece/alternates/LANDSCAPE_1200/2025-05-14T212609Z_775408232_RC2XQS9XXN7W_RTRMADP_3_USA-TRUMP-GULF-AI.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/assam/stone-quarries-put-assam-semiconductor-plant-at-risk/article71384852.ece",
+    "time": "2026-08-25T01:36:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Russ Abbot opens up on fame, love and more",
+    "desc": "In a heartfelt discussion, veteran entertainer Russ Abbot shared insights from his storied life and career, including his transition from school to the music scene. He celebrated his long-lasting marriage to Trish, spanning six decades, and shared how their humble origins influenced their approach to fame. Now enjoying retirement, he embraces a slower, family-oriented lifestyle.",
+    "img": "https://static.toiimg.com/photo/msid-133486414,imgsize-144990.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/russ-abbot-shares-details-of-his-journey-from-leaving-school-at-16-to-being-married-for-60-years-so-we-started-in-the-caravan/articleshow/133486284.cms",
+    "time": "2026-08-25T01:29:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'The Gentlemen' renewed for Season 3 as S2 trailer releases- WATCH",
+    "desc": "Netflix confirmed the crime drama The Gentlemen has been renewed for a third season. The trailer for the second season also dropped online ahead of its September premiere. Season two follows Eddie and Susie as they expand their criminal empire internationally. Guy Ritchie will return to direct and co-write the upcoming third season. Filming for the new eight-episode season is expected to begin imminently.",
+    "img": "https://static.toiimg.com/photo/msid-133486302,imgsize-587156.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-gentlemen-starring-theo-james-and-kaya-scodelario-renewed-for-season-3-amid-buzz-about-meghan-markles-casting-trailer-for-season-2-drops-online-watch/articleshow/133485668.cms",
+    "time": "2026-08-25T01:21:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'You’re going to get in trouble': Ex-cricketer warns Jaiswal after ugly clash",
+    "desc": "Former Indian cricketers expressed their disappointment over Yashasvi Jaiswal's fiery exchange with Sri Lanka's Asitha Fernando during the second Test match, which followed Jaiswal's dismissal. Both players faced fines and demerit points from the ICC as a consequence. Pujara and Raman highlighted the impact of Jaiswal's frustration on the incident, while Karim emphasized the importance of setting a positive example for young cricket enthusiasts.",
+    "img": "https://static.toiimg.com/photo/msid-133486185,imgsize-114752.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/youre-going-to-get-in-trouble-ex-india-cricketer-warns-yashasvi-jaiswal-after-ugly-clash/articleshow/133486115.cms",
+    "time": "2026-08-25T01:15:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Does anyone actually care?': Sreejesh's scathing attack after India’s WC exit",
+    "desc": "P.R. Sreejesh, the former goalkeeper, has raised serious concerns about the Indian hockey management's strategies following the failures of both the men's and women's teams. With the men's squad falling short against Argentina, and the women's team drawing against Australia, neither team advanced to the World Cup semifinals. These disappointing results highlight the urgent need for reevaluation to enhance India's competitive edge in international hockey.",
+    "img": "https://static.toiimg.com/photo/msid-133485937,imgsize-99832.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/does-anyone-actually-care-sreejesh-launches-scathing-attack-after-indias-world-cup-exit/articleshow/133485861.cms",
+    "time": "2026-08-25T01:03:35.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "'Batwara 1947' box office collection day 11",
     "desc": "The cinematic battle of 1947 continues to disappoint at the box office, lying stagnant after its second Monday. In stark contrast, the much-anticipated Awarapan 2 is soaring past all expectations, raking in over one hundred thirty-six crore net in India. Meanwhile, Batwara 1947 struggles with its nearly forty crore net collections, resulting in a heavy financial setback due to its inflated budget.",
@@ -117,6 +243,15 @@ const newsData_en = [
     "time": "2026-08-24T19:10:59.000Z"
   },
   {
+    "cat": "Sports",
+    "title": "In the post-Bazball era, can Brook go from reckless to ruthless?",
+    "desc": "The England star averages 53.63 after 39 Tests and is No. 1 in the ICC Test rankings, but too often during the regime of Stokes and McCullum as captain and coach, he was prone to rash dismissals. With the steely pair of Root and Fleming taking charge in a bid to revive the fortunes of the Test team, the onus is on the middle-order batter to control his impetuosity and boost his average even further",
+    "img": "https://th-i.thgim.com/public/sport/a8fxg8/article71386045.ece/alternates/LANDSCAPE_1200/TH25%20BROOK-E.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/in-the-post-bazball-era-can-brook-go-from-reckless-to-ruthless/article71386039.ece",
+    "time": "2026-08-24T17:59:23.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Did Kangana slams Kriti over her Raksha Bandhan ad?",
     "desc": "Kriti Sanon's Raksha Bandhan jewellery ad, featuring a bralette-style Indo-Western outfit, sparked backlash for feeling inappropriate for the festival. Kangana Ranaut seemingly reacted on Instagram Stories, calling the ad \"intentionally creepy.\" Netizens slammed Kriti on X, though she hasn't responded. Both actors' recent films, Cocktail 2 and Bharat Bhagya Vidhaata, drew mixed results.",
@@ -133,15 +268,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/trumps-operation-economic-outcast-against-iran-what-sanctions-threat-could-mean-for-india/articleshow/133475234.cms",
     "time": "2026-08-24T17:52:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Supreme Court asks Centre to respond to plea to reduce percentile for NEET-SS in-service candidates",
-    "desc": "A Bench headed by Justice P.S. Narasimha heard senior advocate P. Wilson, for the Tamil Nadu Medical Officers Association, on an application seeking the Centre to return 100% of the unfilled in-service seats to the State",
-    "img": "https://th-i.thgim.com/public/incoming/j3o5yc/article70621377.ece/alternates/LANDSCAPE_1200/INDEX_SUPREME_COURT_02_08_7.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/supreme-court-asks-centre-to-respond-to-plea-to-reduce-percentile-for-neet-ss-in-service-candidates/article71385526.ece",
-    "time": "2026-08-24T17:28:13.000Z"
   },
   {
     "cat": "World",
@@ -225,24 +351,6 @@ const newsData_en = [
     "time": "2026-08-24T14:49:31.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Wall Street subdued ahead of key earnings; bond market in focus",
-    "desc": "On Monday, the yield on the 10-year Treasury fell to 4.70%, from 4.74% late Friday. It was also back below its level from late Tuesday, before the US Treasury Department unveiled its unexpected buyback announcement.",
-    "img": "https://static.toiimg.com/photo/msid-133470550,imgsize-834402.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/us-stock-market-today-august-24-2026-wall-street-down-jones-industrial-average-sp-500-nasdaq-composite-us-iran-war-crude-oil-prices/articleshow/133470521.cms",
-    "time": "2026-08-24T14:19:41.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "John's transformation: actor spans 40 years as Rakesh Maria",
-    "desc": "Rohit Shetty's \"Maria IPS,\" based on ex-cop Rakesh Maria, sees John Abraham undergo a major transformation, bulking up for his 20s-30s and slimming down for his 50s-60s portrayal. Filming began in July 2025 at Ellora Studios, with police station scenes shot there. Parts were also filmed at Western Railway premises in February.",
-    "img": "https://static.toiimg.com/photo/msid-133470469,imgsize-111471.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/john-abraham-to-sport-leaner-look-gains-muscle-and-loses-weight-to-play-rakesh-maria-across-40-years-in-rohit-shettys-maria-ips-report/articleshow/133470445.cms",
-    "time": "2026-08-24T14:15:52.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "The unseen challenge behind every BWF World Championships match schedule",
     "desc": "The recently concluded BWF World Championships in New Delhi highlighted the complex task of scheduling elite badminton, as injuries, television demands and player recovery constantly reshaped the order of play. While Gayatri Gopichand and Treesa Jolly were rushed to court in an eventual win, France's Toma Junior Popov questioned uneven recovery time, exposing the delicate balance tournament referees must strike.",
@@ -288,15 +396,6 @@ const newsData_en = [
     "time": "2026-08-24T12:40:54.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Who is Sriya Reddy playing Mahakali opposite Akshaye Khanna? Know here",
-    "desc": "Sriya Reddy garners attention for her striking Mahakali role in Prashanth Neel's film. Her intense portrayal opposite Akshaye Khanna has become a major talking point. The actress comes from a prominent cricketing family and has a strong background. She previously impressed audiences in Prashanth Neel's Salaar, becoming a pan-India name. Sriya Reddy's career began in RJ and VJ roles before her film debut.",
-    "img": "https://static.toiimg.com/photo/msid-133466144,imgsize-80386.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/who-is-sriya-reddy-playing-mahakali-opposite-akshaye-khanna-know-about-her-cricketing-family-and-salaar-connection/articleshow/133466073.cms",
-    "time": "2026-08-24T12:28:24.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran’s rial currency hits new record low as U.S. prepares to announce more sanctions",
     "desc": "The rial dropped to 2.02 million to the U.S. dollar as trading opened on currency markets. Iran's official Central Bank rate stood at around 1.5 million rial to the dollar, but the market rate is what most Iranians pay",
@@ -315,15 +414,6 @@ const newsData_en = [
     "time": "2026-08-24T12:19:57.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Karan says he called after Batwara 1947",
-    "desc": "Sunny Deol's \"Batwara 1947\" saw a slow box office start, but Salman Khan called to praise the film and Sunny's performance, revealed Karan Deol. Karan spoke of Salman's genuine, longtime bond with the Deol family, dating back to 1996's \"Jeet.\" Directed by Rajkumar Santoshi, the film reunites him with Sunny after three decades.",
-    "img": "https://static.toiimg.com/photo/msid-133465472,imgsize-225440.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-praised-batwara-1947-and-sunny-deol-says-karan-deol/articleshow/133465429.cms",
-    "time": "2026-08-24T12:05:19.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Dhruv shines like a jewel in Colombo; makes the opportunity(ies) count",
     "desc": "With his place under pressure and Sarfaraz Khan breathing down his neck, Dhruv Jurel delivered when India needed him most. His hard-earned hundred in Colombo could be the knock that turns a make-or-break series into a career-defining one. India declared their first innings at 503 for 9 as only 53 overs were possible on Day 2.",
@@ -331,15 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/dhruv-shines-bright-in-gloomy-colombo-makes-his-opportunity-count-with-a-sublime-century/articleshow/133464711.cms",
     "time": "2026-08-24T11:59:27.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "UPI instant payments network grows from 1.78 cr annual transactions to 24,162 crore",
-    "desc": "India's Unified Payments Interface (UPI) is currently facilitating an impressive 66 crore transactions each day. Since 2016, the growth in its transaction volume has skyrocketed by an astounding 13,000 times. UPI has established itself as a foundational component of India's digital public infrastructure and has been recognized by the International Monetary Fund as the leading real-time payment system globally.",
-    "img": "https://static.toiimg.com/photo/msid-133463567,imgsize-35710.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/10-years-of-upi-instant-payments-network-grows-from-1-78-cr-annual-transactions-to-24162-crore/articleshow/133463230.cms",
-    "time": "2026-08-24T11:28:05.000Z"
   },
   {
     "cat": "Sports",
@@ -351,42 +432,6 @@ const newsData_en = [
     "time": "2026-08-24T11:24:08.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘I don’t argue with people who need attention more than logic’",
-    "desc": "Kajol recently shared a message about choosing peace over unnecessary arguments. She posted elegant pictures in a black off-shoulder dress on social media. The actress also reflected on appreciating the good things in her life. Kajol thanked everyone for their birthday wishes earlier this week. She expressed gratitude for her loyal and crazy group of people.",
-    "img": "https://static.toiimg.com/photo/msid-133463358,imgsize-292142.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kajol-chooses-peace-over-arguments-i-dont-argue-with-people-who-need-attention-more-than-logic/articleshow/133463273.cms",
-    "time": "2026-08-24T11:12:39.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Akshay begins 'Samuk' shoot: Star starts alien survival-action thriller",
-    "desc": "Akshay Kumar begins shooting for \"Samuk,\" an alien-themed survival-action thriller directed by Kanishk Varma and produced by Vipul Amrutlal Shah. In development for two years, the pan-Indian film blends military realism, survival horror and alien mythology. Oscar-nominated Alec Gillis designed the alien, while Luke Tumber directs the action sequences.",
-    "img": "https://static.toiimg.com/photo/msid-133462401,imgsize-131183.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-begins-shooting-for-samuk-vipul-amrutlal-shah-calls-it-his-toughest-challenge-yet/articleshow/133462336.cms",
-    "time": "2026-08-24T10:50:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bhansali-backed film to explore her loves and losses",
-    "desc": "Madhubala's legendary career and personal life are explored in detail. Her relationships with Latif, Dilip Kumar, and Kishore Kumar are highlighted. A biopic about the actress is reportedly in development with Sara Arjun. Sanjay Leela Bhansali is expected to produce this biographical film. Madhubala's life and enduring legacy continue to fascinate audiences.",
-    "img": "https://static.toiimg.com/photo/msid-133462319,imgsize-258986.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/exploring-madhubalas-relationships-from-dilip-kumar-romance-kishore-kumar-marriage-connections-to-kamal-amrohi-and-premnath-amid-sanjay-leela-bhansali-biopic-buzz/articleshow/133462025.cms",
-    "time": "2026-08-24T10:48:38.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Iranian currency sinks to record low as US works on new sanctions",
-    "desc": "Iran's rial reached a record low as the United States prepared new economic sanctions. Existing restrictions and a naval blockade have already severely impacted Iran's economy. The currency's decline has not yielded concessions from the US President. Iran and Oman are reportedly nearing an agreement on managing the Strait of Hormuz. The United Arab Emirates suspended all trade with Iran following discussions with the US.",
-    "img": "https://static.toiimg.com/photo/msid-133462073,imgsize-1319963.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/no-relief-for-rial-iranian-currency-sinks-to-record-low-as-us-works-on-new-sanctions/articleshow/133461723.cms",
-    "time": "2026-08-24T10:43:07.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'One tip one hand': English batter out in bizarre fashion in County match",
     "desc": "Northamptonshire pacer Luke Procter bowled a short delivery that angled into left-handed Moores. The batter went back and defended the ball, which bounced close to the crease and appeared to be heading towards the stumps.",
@@ -396,15 +441,6 @@ const newsData_en = [
     "time": "2026-08-24T10:43:02.000Z"
   },
   {
-    "cat": "Business",
-    "title": "'No sugar shortage': ISMA says India has enough stocks, expects prices to cool down soon",
-    "desc": "Industry representatives from India's sugar sector have assured that there is no shortage of sugar in the domestic market. The surge in retail prices is attributed to stockpiling speculation and adverse weather impacting production. To mitigate this, the government is facilitating duty-free sugar imports, particularly from Brazil, with some raw sugar expected to arrive before mid-October. Current domestic supplies are predicted to meet future demands adequately.",
-    "img": "https://static.toiimg.com/photo/msid-133461406,imgsize-123350.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/no-sugar-shortage-isma-says-india-has-enough-stocks-expects-prices-to-cool-down-soon/articleshow/133461400.cms",
-    "time": "2026-08-24T10:30:35.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'We can ask Pakistan and request them': Kapil asks 'better treatment' for Imran",
     "desc": "Former India captain Kapil Dev has joined 21 former international captains in urging Pakistan to provide jailed former Prime Minister Imran Khan with proper medical care and humane conditions. The group has asked Prime Minister Shehbaz Sharif to follow court orders allowing medical treatment and weekly family visits. Kapil stressed that the appeal is about Khan’s health, not his legal cases.",
@@ -412,15 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/we-can-ask-pakistan-and-request-them-kapil-dev-asks-better-treatment-for-jailed-imran-khan/articleshow/133460894.cms",
     "time": "2026-08-24T10:20:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Akshaye Khanna starrer ‘Mahakali’ OTT details",
-    "desc": "Prasanth Varma's mythological universe expands with the upcoming film Mahakali. Akshaye Khanna portrays Shukracharya, a key figure in the Asura narrative. The film is slated for a theatrical release on January 8, 2027. Post its cinema run, Mahakali will stream on the Netflix platform. This project continues the trend of mythological storytelling in Indian cinema.",
-    "img": "https://static.toiimg.com/photo/msid-133460756,imgsize-746631.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/mahakali-ott-where-to-watch-the-prasanth-varmas-mythological-film-starring-akshaye-khanna-post-theatrical-run/articleshow/133460603.cms",
-    "time": "2026-08-24T10:05:48.000Z"
   },
   {
     "cat": "World",
@@ -459,15 +486,6 @@ const newsData_en = [
     "time": "2026-08-24T09:05:33.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘There were nerves’: India coach reveals what went wrong in must-win Australia draw",
-    "desc": "India's women's hockey team coach admitted that nerves played a significant role in the disappointing draw against Australia, which squashed their hopes for a World Cup semifinal berth. The match was marred by a lack of rhythm and various unforced errors. The missed chances to score were particularly costly, but the coach still took pride in the team's historical accomplishment of finishing fifth-sixth in the tournament.",
-    "img": "https://static.toiimg.com/photo/msid-133458344,imgsize-82808.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/there-were-nerves-india-coach-sjoerd-marijne-reveals-what-went-wrong-in-must-win-australia-draw/articleshow/133458260.cms",
-    "time": "2026-08-24T08:32:51.000Z"
-  },
-  {
     "cat": "World",
     "title": "Imran Khan’s party PTI demands immediate cardiac care for him at Shifa International Hospital",
     "desc": "Pakistan’s Opposition PTI has demanded immediate cardiac care for jailed former Prime Minister Imran Khan at Shifa International Hospital, alleging that a recommended CT Coronary Angiography was not conducted during his recent visit to a government hospital",
@@ -484,33 +502,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/oil-falls-as-trump-pledges-economic-war-on-iran/article71383218.ece",
     "time": "2026-08-24T07:06:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rishabh Pant leapfrogs Shubman Gill to become India’s leading WTC run-scorer",
-    "desc": "Rishabh Pant has etched his name in cricket history as India's top scorer in World Test Championship, successfully surpassing Shubman Gill's record during the thrilling second Test against Sri Lanka. Moreover, he has broken MS Dhoni's record for the highest runs achieved by a wicketkeeper in away Tests, marking a triumphant return from injury.",
-    "img": "https://static.toiimg.com/photo/msid-133454949,imgsize-124960.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/rishabh-pant-leapfrogs-shubman-gill-to-become-indias-leading-wtc-run-scorer/articleshow/133454628.cms",
-    "time": "2026-08-24T06:57:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pant surpasses Dhoni, becomes first India wicketkeeper to achieve this feat",
-    "desc": "Rishabh Pant has etched his name in Indian cricket history by surpassing MS Dhoni as the leading run-scorer for Indian wicketkeepers in away Tests. Achieving this remarkable milestone in a gripping match, Pant maintained an impressive batting average. Notably, he showed remarkable fortitude after an injury concern, returning to reinforce India's efforts with a key partnership.",
-    "img": "https://static.toiimg.com/photo/msid-133453423,imgsize-109892.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/rishabh-pant-surpasses-ms-dhoni-becomes-first-india-wicketkeeper-to-score-2500-away-test-runs/articleshow/133453359.cms",
-    "time": "2026-08-24T06:15:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘This India will fight and reply’: Jaiswal's comment goes viral after Fernando spat",
-    "desc": "Yashasvi Jaiswal took to social media to address a recent video highlighting his confrontation with Fernando. He emphasised the importance of understanding the entire dialogue before forming opinions. The tension arose when the Indian opener was dismissed, leading to an exchange of words and a brief scuffle that required intervention. India's batting coach later remarked that Jaiswal should have kept a respectful distance from the bowler.",
-    "img": "https://static.toiimg.com/photo/msid-133452854,imgsize-175299.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/this-india-will-fight-and-reply-yashasvi-jaiswals-comment-goes-viral-after-asitha-fernando-spat/articleshow/133452632.cms",
-    "time": "2026-08-24T05:50:18.000Z"
   },
   {
     "cat": "Business",
@@ -646,24 +637,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/stop-electric-shock-glove-plan-for-ice-us-lawmakers-to-trump-administration/article71380045.ece",
     "time": "2026-08-23T05:26:58.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Mirza Fakhrul Islam Alamgir",
-    "desc": "The former BNP general secretary, who steered the party through the difficult years of the Hasina government, when Khaleda Zia was in jail, and Tarique Rahman was in exile in the U.K., has been elected President of Bangladesh",
-    "img": "https://th-i.thgim.com/public/news/national/aj6ar4/article71378761.ece/alternates/LANDSCAPE_1200/mirza%20fakhrul%20islam_art.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/mirza-fakhrul-islam-alamgir-the-man-who-steadied-the-ship/article71378766.ece",
-    "time": "2026-08-23T05:15:05.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran security chief threatens neighbors against new U.S. economic measures",
-    "desc": "Mohsen Rezaei said Iran would target oil-shipping routes out of the Persian Gulf - alternatives to the Strait of Hormuz - if neighbours join what he described as the economic war against Iran; those neighbours would be considered enemies and “we will target their interests,” he said.",
-    "img": "https://th-i.thgim.com/public/incoming/la5u29/article71380032.ece/alternates/LANDSCAPE_1200/2026-08-10T075525Z_2037129379_RC2A6MAKWMCJ_RTRMADP_3_IRAN-CRISIS-REZAEI.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-security-chief-threatens-neighbors-against-new-us-economic-measures/article71380026.ece",
-    "time": "2026-08-23T03:57:31.000Z"
   },
   {
     "cat": "Sports",

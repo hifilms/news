@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Sports",
+    "title": "ધ્રુવ જુરેલે કેમ કરાવ્યું જય જવાન જય કિસાનનું ટેટૂ? સેલિબ્રેશનનું કારણ જાણીને ક્રિકેટર પ્રત્યે વધશે ઈજ્જત",
+    "desc": "શ્રીલંકા સામેની બીજી ટેસ્ટ મેચમાં ધ્રુવ જુરેલે પોતાની સદીનું સેલિબ્રેશન ખૂબ જ સ્ટાઇલિશ રીતે કર્યું. તેણે પોતાના બાઈસેપ્સ બતાવ્યા, જેના પર જય જવાન જય કિસાન લખેલું હતું. તેણે આ લખાવવા પાછળનું કારણ પણ સમજાવ્યું હતું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/why-did-dhruv-jurel-get-a-jai-jawan-jai-kisan-tattoo-knowing-the-reason-for-the-celebration-will-increase-respect-for-the-cricketer-488790 ",
+    "time": "2026-08-25T03:42:15.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "ઓપરેશન સિંદૂર વખતે ઈરાને કોને સાથ આપ્યો હતો? પાકિસ્તાને ઉઠાવ્યો રાઝ પરથી પડદો",
+    "desc": "જમ્મુ કાશ્મીરના પહેલગામ વિસ્તારમાં નિર્દોષ પર્યટકોને મોતને ઘાટ ઉતારનારા આતંકીઓને તેમના ઘરમાં ઘૂસીને ઠેકાણે પાડવા ઓપરેશન સિંદૂર હાથ ધરાયું હતું. આ ઓપરેશન સિંદૂર માટે હવે એક મોટો દાવો પાકિસ્તાને કર્યો છે. ઈરાને યુદ્ધમાં કોને સાથ આપ્યો હતો તેના વિશે આ દાવો કરાયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/pakistan-big-claim-iran-gave-strong-support-to-pak-during-operation-sindoor-488789 ",
+    "time": "2026-08-25T03:11:15.000Z"
+  },
+  {
     "cat": "World",
     "title": "અમેરિકાની નવી H-1B યોજના, 98 લાખથી વધુ ફીની તૈયારી; ભારતીયો પર થશે સીધી અસર",
     "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે ગયા વર્ષે 2025માં H-1B વિઝા માટે અરજી કરનારાઓની ફી વધારીને એક લાખ ડોલર કરી દીધી હતી. તેમના આ નિર્ણય પર ભારે વિવાદ પણ થયો હતો અને હવે એક નવો નિર્ણય સામે આવ્યો છે.",
@@ -574,14 +592,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/will-donald-trump-become-president-for-a-third-time-speculation-mounts-about-a-2028-run-find-out-what-hints-were-dropped-in-his-social-media-post-487859 ",
     "time": "2026-08-16T03:52:39.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ઇન્ડોનેશિયામાં 7.7ની તીવ્રતાનો ભૂકંપ, પત્તાની જેમ ધરાશાયી થઈ ઇમારતો, તબાહીના દ્રશ્યોથી હાહાકાર",
-    "desc": "ઇન્ડોનેશિયામાં 7.7ની તીવ્રતાના ભૂકંપને કારણે ઇમારતો પત્તાની જેવી પડી ગઈ. ઘણા લોકોના મોતની આશંકા છે. ભૂકંપ બાદ સુનામીની ચેતવણી જાહેર કરવામાં આવી છે, અને દરિયાકાંઠાના વિસ્તારોના રહેવાસીઓને ઉંચી જમીન પર સ્થળાંતર કરવાની સલાહ આપવામાં આવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/7-7-magnitude-earthquake-in-indonesia-buildings-collapse-like-cards-scenes-of-devastation-are-shocking-487760 ",
-    "time": "2026-08-15T03:30:12.000Z"
   }
 ];

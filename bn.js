@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "বকেয়া টাকা চাইতেই কাঠমিস্ত্রিকে ব্যাপক মারধর! অভিনেতা-প্রাক্তন বিধায়ক সোহমের বিরুদ্ধে ভয়ংকর অভিযোগ",
+    "desc": "সেখানে দীর্ঘক্ষণ তাঁকে বসিয়ে রাখার পর বকেয়া ৭৯০০০ টাকা চাইলে টাকা দেওয়া হবে না বলে জানানো হয়। এরপরই তাঁকে মারধর করা হয় বলে অভিযোগ করেছেন ওই কাঠমিস্ত্রি। শুধু তাই নয়, তাঁর মোবাইল ফোনও কেড়ে নেওয়া হয় বলে অভিযোগ। ঘটনার পর বেহালা থানায় গিয়ে লিখিত অভিযোগ দায়ের করেন রাজ কাপুর শর্মা।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/actor-soham-chakraborty-accused-of-assaulting-carpenter-over-unpaid-dues_668135.html ",
+    "time": "2026-08-25T02:53:59.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "'আমার পরিবারকে একেবারে শেষ করে দিল'! আইফোনের জেরে ৩ মৃত্যুর পর রহস্য বাড়াল মায়ের বিস্ফোরক পোস্ট",
     "desc": "তদন্তে নেমে পুলিস জানতে পেরেছে, ঠিক এক বছর আগেও কুণাল একই জায়গায় গিয়ে আত্মহত্যার চেষ্টা করেছিলেন। ছয় বছর আগে তাদের বড় ছেলের মৃত্যুর পর থেকেই পরিবারটির কলহ চরম আকার ধারণ করে। মানসিক অশান্তির কারণে মুরলীধর দীর্ঘদিন বাড়ি ফিরতেন না।",
@@ -241,15 +250,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/veteran-bengali-film-director-raja-sen-passes-away-at-sskm-hospital_667112.html ",
     "time": "2026-08-16T06:11:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "প্রেম ভাঙল হৃতিক-সাবার? ডেটিং অ্যাপ প্রোফাইল ভাইরাল, তোলপাড় বি-টাউন",
-    "desc": "বলিউড তারকা হৃতিক রোশন ও সাবা আজাদের প্রেম ভেঙে যাওয়ার গুঞ্জন এখন তুঙ্গে। একটি ডেটিং অ্যাপে অভিনেতার প্রোফাইল ভাইরাল হওয়ার পর থেকেই এই জল্পনা শুরু হয়। যদিও এ বিষয়ে জুটির পক্ষ থেকে কোনো মন্তব্য করা হয়নি। অতীতে কঙ্গনার সঙ্গে দ্বন্দ্বের প্রসঙ্গ টেনে অনুরাগীদের মনে নানান প্রশ্ন দানা বাঁধছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/is-hrithik-roshan-single-again-screenshot-of-actors-alleged-raya-profile-sparks-breakup-buzz-with-saba-azad_667071.html ",
-    "time": "2026-08-15T12:36:56.000Z"
   },
   {
     "cat": "Business",
