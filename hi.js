@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "DDCA's Shyam Sharma calls for introspection, change in rule after Dev Chaudhary fiasco in DPL",
+    "desc": "The Delhi & Districts Cricket Association (DDCA) will review a controversial Delhi Premier League rule after the selection of Dev Chaudhary by New Delhi Tigers raised questions over how players can enter the competition outside...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ddca-s-shyam-sharma-calls-for-introspection-change-in-rule-after-dev-chaudhary-fiasco-in-dpl-2026-08-26-1052479",
+    "time": "2026-08-26T12:36:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Joe Root's message in the dressing room was clear, says Josh Tongue after Brydon Carse incident",
+    "desc": "England fast bowler Josh Tongue said Joe Root’s dressing-room warning over off-field conduct has been accepted by the squad, as the team prepares for the second Test against Pakistan at Lord’s from Thursday. Notably, Root spoke...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/joe-root-s-message-in-the-dressing-room-was-clear-says-josh-tongue-after-brydon-carse-incident-2026-08-26-1052474",
+    "time": "2026-08-26T12:23:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "How do bowlers feel empowered under MS Dhoni's captaincy? Simarjeet Singh explains",
+    "desc": "For a young fast bowler, T20 cricket can often become a battle of decisions. The margin for error is tiny, the batter is constantly looking to disrupt the bowler’s plans and there is rarely enough...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/how-do-bowlers-feel-empowered-under-ms-dhoni-s-captaincy-simarjeet-singh-explains-2026-08-26-1052464",
+    "time": "2026-08-26T11:09:36.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Mitchell Starc pips Jasprit Bumrah to become number-one ranked Test bowler, for first time ever",
     "desc": "For the first time in his career, Australia pacer Mitchell Starc has become the number-one ranked Test bowler. The 36-year-old took 10 wickets in the second Test against Bangladesh at Mackay, which helped him earn...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/india-to-face-panama-in-fifa-men-s-international-friendly-on-september-26-ahead-of-brazil-clash-2026-08-25-1052398",
     "time": "2026-08-25T16:00:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Morne Morkel shares major fitness update on Rishabh Pant after keeper-batter was out of action on Day 3",
-    "desc": "India bowling coach Morne Morkel confirmed that Rishabh Pant is currently not fit to keep wickets. The 28-year-old didn’t participate on Day 3 of the second Test against Sri Lanka, as he was spotted badly...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/morne-morkel-shares-major-fitness-update-on-rishabh-pant-after-keeper-batter-was-out-of-action-on-day-3-2026-08-25-1052388",
-    "time": "2026-08-25T13:18:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India remain in control of Colombo Test despite Pasindu, Sonal's well-deserved half-centuries",
-    "desc": "India strengthened their position in the second Test against Sri Lanka after the hosts reached 230/8 at stumps on a rain-affected third day, still 238 runs behind the visitors. They started the day with the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-remain-in-control-of-colombo-test-despite-pasindu-sonal-s-well-deserved-half-centuries-2026-08-25-1052383",
-    "time": "2026-08-25T12:58:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "East Zone thrash North East Zone to seal spot in Duleep Trophy semis; who do they play next?",
-    "desc": "East Zone booked their place in the Duleep Trophy semi-finals with an innings-and-210-run victory over North East Zone at the BCCI Centre of Excellence Ground 2 in Bengaluru. The result was set up by two...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/east-zone-thrash-north-east-zone-to-seal-spot-in-duleep-trophy-semis-who-do-they-play-next-2026-08-25-1052371",
-    "time": "2026-08-25T11:11:10.000Z"
   }
 ];
