@@ -1,15 +1,6 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "DDCA's Shyam Sharma calls for introspection, change in rule after Dev Chaudhary fiasco in DPL",
-    "desc": "The Delhi & Districts Cricket Association (DDCA) will review a controversial Delhi Premier League rule after the selection of Dev Chaudhary by New Delhi Tigers raised questions over how players can enter the competition outside...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ddca-s-shyam-sharma-calls-for-introspection-change-in-rule-after-dev-chaudhary-fiasco-in-dpl-2026-08-26-1052479",
-    "time": "2026-08-26T12:36:38.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Joe Root's message in the dressing room was clear, says Josh Tongue after Brydon Carse incident",
     "desc": "England fast bowler Josh Tongue said Joe Root’s dressing-room warning over off-field conduct has been accepted by the squad, as the team prepares for the second Test against Pakistan at Lord’s from Thursday. Notably, Root spoke...",
     "img": "",
@@ -88,5 +79,14 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/india-to-face-panama-in-fifa-men-s-international-friendly-on-september-26-ahead-of-brazil-clash-2026-08-25-1052398",
     "time": "2026-08-25T16:00:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Morne Morkel shares major fitness update on Rishabh Pant after keeper-batter was out of action on Day 3",
+    "desc": "India bowling coach Morne Morkel confirmed that Rishabh Pant is currently not fit to keep wickets. The 28-year-old didn’t participate on Day 3 of the second Test against Sri Lanka, as he was spotted badly...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/morne-morkel-shares-major-fitness-update-on-rishabh-pant-after-keeper-batter-was-out-of-action-on-day-3-2026-08-25-1052388",
+    "time": "2026-08-25T13:18:37.000Z"
   }
 ];
