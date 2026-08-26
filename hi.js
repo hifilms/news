@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Is Babar Azam completely fit to play second Test vs England at Lord's?",
+    "desc": "Pakistan captain Babar Azam is set to return to the Test side for the second match against England at Lord’s. The 31-year-old completed a full batting session in training and showed no obvious signs of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/is-babar-azam-completely-fit-to-play-second-test-vs-england-at-lord-s-2026-08-26-1052423",
+    "time": "2026-08-26T05:56:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Serena Williams, Carlos Alcaraz mixed-doubles pair knocked out of US Open quarterfinals",
+    "desc": "Serena Williams’ much-anticipated return to the U.S. Open ended in the mixed doubles quarterfinals, when she and Carlos Alcaraz were beaten by Belinda Bencic and Flavio Cobolli 5-4 (4), 4-1. For Williams, the match marked...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/serena-williams-carlos-alcaraz-mixed-doubles-pair-knocked-out-of-us-open-quarterfinals-2026-08-26-1052421",
+    "time": "2026-08-26T05:14:26.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India to face Panama in FIFA Men's international friendly on September 26 ahead of Brazil clash",
     "desc": "The Indian senior men's football team is set for another major international test before its much-awaited showdown against five-time world champions Brazil. The All India Football Federation (AIFF) announced on Tuesday that India will host...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pakistan-women-s-team-play-t20-matches-against-men-s-side-to-prepare-for-asia-cup-2026-2026-08-25-1052332",
     "time": "2026-08-25T06:23:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PR Sreejesh demands accountability after India fail to qualify for semi-final in Hockey World Cup",
-    "desc": "Former India captain and Olympic medallist PR Sreejesh has questioned the standards of accountability in Indian hockey after both national teams failed to advance to the semifinals of the FIH Hockey World Cup 2026. His...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/hockey/pr-sreejesh-demands-accountability-after-india-fail-to-qualify-for-semi-final-in-hockey-world-cup-2026-08-25-1052325",
-    "time": "2026-08-25T05:28:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "England announce replacement after Brydon Carse removed from second Test vs Pakistan after handcuff incident",
-    "desc": "England pacer Brydon Carse was arrested briefly on suspicion of being drunk and disorderly in Derby city centre on Saturday night. However, he was released shortly after agreeing to leave the area, according to Derbyshire...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/england-announce-replacement-after-brydon-carse-removed-from-second-test-vs-pakistan-after-handcuff-incident-2026-08-25-1052322",
-    "time": "2026-08-25T04:55:50.000Z"
   }
 ];
