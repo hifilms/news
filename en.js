@@ -1,12 +1,183 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Wireless communication picked up; search operation launched in J&amp;K's Samba",
+    "desc": "“Terrorists often switch off such communication devices after contacting their handlers across the border,” said a source, adding that Iridium sets can be used on smartphones through the “Iridium GO!” mobile application, which creates a local Wi-Fi network that an iOS or Android phone can connect to. The operation continued until late Tuesday, but no satellite set or other suspicious material was found.",
+    "img": "https://static.toiimg.com/photo/msid-133549000,imgsize-86346.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/wireless-communication-picked-up-search-operation-launched-in-jks-samba/articleshow/133548736.cms",
+    "time": "2026-08-26T19:27:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Neha",
+    "desc": "For senior midfielder Neha, participating in her third World Cup, the result brought back painful memories of previous setbacks —loss in the bronze medal game at 2020 Olympics and defeat to Australia in the 2022 Commonwealth Games semifinal",
+    "img": "https://th-i.thgim.com/public/incoming/b927f5/article71393508.ece/alternates/LANDSCAPE_1200/AFP_C6CA6MC.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/hockey/india-will-win-gold-at-asian-gamesneha/article71393504.ece",
+    "time": "2026-08-26T19:21:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "6 dead, 3 hurt as vehicle falls into gorge in J&amp;K’s Poonch",
+    "desc": "The accident occurred around 5.30pm. Officials suspected the driver had lost control of the vehicle, which rolled into the gorge, killing six occupants — Mohd Shafiq (32), Nazakat Hussain (34), Sheraz Ahmed (30), Musarat Naz (19), Mohd Fareed (21), and Zulfat Bi (25) — on the spot, police said. Upon receiving information, cops reached the spot and launched a rescue operation with the help of locals.",
+    "img": "https://static.toiimg.com/photo/msid-133549792,imgsize-113988.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/6-dead-3-hurt-as-vehicle-falls-into-gorge-in-jks-poonch/articleshow/133548735.cms",
+    "time": "2026-08-26T19:14:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Lok Sabha Secretariat issues notices to 20 rebel TMC MPs",
+    "desc": "Dated Aug 25, the notices to the 20 rebel MPs forward a copy of Banerjee’s petition dated June 18 filed against the MPs under Rule 6 of the Members of Lok Sabha (Disqualification on Ground of Defection) Rules, 1985. In the recently concluded Monsoon session, Banerjee had met the Speaker on Aug 12 to reiterate his demand for a speedy decision on the disqualification petitions submitted to him in June.",
+    "img": "https://static.toiimg.com/photo/msid-133549977,imgsize-219062.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/lok-sabha-secretariat-issues-notices-to-20-rebel-tmc-mps/articleshow/133549858.cms",
+    "time": "2026-08-26T18:57:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. pilgrims stranded in Nepal; officials coordinating steps to rescue them",
+    "desc": "CM expresses shock over the devastating flash floods, and orders speedy and coordinated rescue efforts. Govt. announces helpline numbers. Founder of Isha Foundation Sadhguru Jaggi Vasudev says 148 people, who were part of a trip the foundation had organised, are in Nepal",
+    "img": "https://th-i.thgim.com/public/incoming/fyjaio/article71393759.ece/alternates/LANDSCAPE_1200/AP08_26_2026_000254B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-pilgrims-stranded-in-nepal-officials-coordinating-steps-to-rescue-them/article71393579.ece",
+    "time": "2026-08-26T18:35:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "5.2 kg heroin seized in Jammu, NCB busts Pakistan network; 3 held",
+    "desc": "“Preliminary investigation led NCB to another resident of Baramulla, the suspected mastermind. He was traced and arrested in Leh on Aug 24. The seized drug, suspected to have been smuggled from Pakistan, entered India through the Uri border sector,” the NCB official said. “The probe will identify cross-border suppliers, financial links, transporters, local associates, and the intended distribution network,” the spokesperson added.",
+    "img": "https://static.toiimg.com/photo/msid-133548765,imgsize-765295.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/5-2-kg-heroin-seized-in-jammu-ncb-busts-pakistan-network-3-held/articleshow/133548737.cms",
+    "time": "2026-08-26T18:15:21.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "95 dead, hundreds missing; India launches relief effort",
+    "desc": "The death toll in Nepal’s devastating flash floods has risen to 95, while 384 people remain missing, including 105 Indian nationals. The disaster struck Nepal’s Rasuwa district near the Tibet border after a sudden surge in the Bhotekoshi River, causing widespread destruction and triggering one of the country’s worst flood emergencies in recent years.",
+    "img": "https://th-i.thgim.com/public/incoming/j1cq43/article71393946.ece/alternates/LANDSCAPE_1200/Pakistan%20%202.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/nepal-flash-floods-95-dead-hundreds-missing-india-launches-relief-effort/article71393947.ece",
+    "time": "2026-08-26T18:06:05.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "What happens to the land now?",
+    "desc": "what happens to the thousands of acres of land that were already acquired for the project? Can the government return the land to original owners? What does the Land Acquisition Act say? And what options does Tamil Nadu have now that the project has been shelved? In this explainer, we break down the legal provisions, the status of acquired land, previous examples of land return in Tamil Nadu, and what the future could hold for Parandur and its residents.",
+    "img": "https://th-i.thgim.com/public/incoming/66hc9p/article71393933.ece/alternates/LANDSCAPE_1200/mamata%201.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/parandur-airport-scrapped-what-happens-to-the-land-now/article71393934.ece",
+    "time": "2026-08-26T17:51:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Karnataka High Court quashes charges against Kodagu homestay owner in U.S. national rape case",
+    "desc": "Noticing that the homestay owner was booked under the provisions of the Foreigners Act, 1946, which was repealed in its entirety on September 1, 2025, the Court said “criminality cannot be conjured out of a statutory provision which had ceased to exist.”",
+    "img": "https://th-i.thgim.com/public/incoming/xi1kdg/article71390140.ece/alternates/LANDSCAPE_1200/SC_ST-CommissioG2MGDB1AC.1.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-quashes-charges-against-kodagu-homestay-owner-in-us-national-rape-case/article71392619.ece",
+    "time": "2026-08-26T17:39:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SC judge seeks transfer of Rajasthan HC Acting Chief Justice, CJI says allegations can’t be treated as a finding",
+    "desc": "CJI Surya Kant says that the matter is being examined at the appropriate level and that the process will take into account the material placed by Justice Mehta as well as the response of Justice Sharma",
+    "img": "https://th-i.thgim.com/public/incoming/ucuezt/article71391814.ece/alternates/LANDSCAPE_1200/Untitled%20design%202.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/supreme-court-judge-letters-transfer-of-rajasthan-hc-acting-chief-justice-cji-ignored-appeals/article71391629.ece",
+    "time": "2026-08-26T17:05:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajkumar Santoshi to reunite with Sunny Deol for new action film",
+    "desc": "Filmmaker Rajkumar Santoshi and actor Sunny Deol are set to join forces for an exciting new action film, hoping to draw audiences with their dynamic collaboration. Following the mixed reviews of their recent release, Batwara 1947, Santoshi expressed his disappointment over the lukewarm reception. With their latest project, he aims to reignite the magic of their previous successes and captivate viewers once again.",
+    "img": "https://static.toiimg.com/photo/msid-133546877,imgsize-740000.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajkumar-santoshi-to-reunite-with-sunny-deol-for-new-action-film-after-batwara-1947-it-will-be-on-the-lines-of-ghatak/articleshow/133546707.cms",
+    "time": "2026-08-26T17:01:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Centre closely monitoring flood-situation in Nepal, water levels in reservoirs on Nepal side receding: MHA",
+    "desc": "Ministry of Home Affairs says there is no need to panic over the sudden floods; Union Home Minister Amit Shah spoke with the CMs of Bihar and Uttar Pradesh to review preparedness measures in areas that could potentially be affected",
+    "img": "https://th-i.thgim.com/public/incoming/y4ybnq/article71393872.ece/alternates/LANDSCAPE_1200/20260822132L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/centre-closely-monitoring-flood-situation-in-nepal-water-levels-in-reservoirs-on-nepal-side-receding-mha/article71393795.ece",
+    "time": "2026-08-26T17:00:45.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "20 Tamil Nadu pilgrims marked safe, at least 37 still missing as landslips disrupt route",
+    "desc": "As per initial information, the pilgrims were on board three vehicles and occupants of one of the vehicles have taken refuge in a Armed Police Force outpost at Timure, about 150 km north of Kathmandu",
+    "img": "https://th-i.thgim.com/public/incoming/ttnfaa/article71392442.ece/alternates/LANDSCAPE_1200/2026-08-26T095449Z_904621719_RC296NAV4VF1_RTRMADP_3_NEPAL-FLOODS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/nepal-flash-flood-pilgrims-from-tamil-nadu-stranded/article71392163.ece",
+    "time": "2026-08-26T16:54:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Fanta, Maggi, KitKat: Why are they different in India?",
+    "desc": "Why does the same food product often have different ingredients, sugar levels and warning labels in different countries? From Fanta and Maggi to KitKat and Bournvita, this explainer looks at how multinational companies adapt products for different markets and why India’s debate over front-of-pack warning labels remains unresolved.",
+    "img": "https://th-i.thgim.com/public/incoming/7eqomf/article71393862.ece/alternates/LANDSCAPE_1200/Fanta%20Thumb.jpg%201.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/fanta-maggi-kitkat-why-are-they-different-in-india-expalined/article71393867.ece",
+    "time": "2026-08-26T16:53:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Haryanvi singer-YouTuber Ankit Balyan shot dead in UP",
+    "desc": "Tragedy struck as Haryanvi singer and YouTuber Ankit Balyan was shot dead by unidentified gunmen outside a gym in Shamli, Uttar Pradesh, on Wednesday evening. Despite prompt medical attention, he was pronounced dead at the hospital shortly thereafter. Famous for his songs and social media influence, Balyan was reportedly gearing up for local elections. Authorities are actively investigating the incident and examining CCTV footage for leads.",
+    "img": "https://static.toiimg.com/photo/msid-133546479,imgsize-585039.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/punjabi/movies/news/haryanvi-singer-ankit-balyan-shot-dead-in-uttar-pradesh-just-two-hours-after-he-shared-a-video-saying-murder-maar-de-sadak-ke-upar/articleshow/133546188.cms",
+    "time": "2026-08-26T16:52:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Reservation Hatao Andolan’ solidifies into quota reforms/general category interest platform",
+    "desc": "The movement has now prepared a charter of demands that calls for a National Commission for the General Category, the complete rollback of the UGC’s 2026 caste-equity rules, and a review of the SC/ST (Prevention of Atrocities Act)",
+    "img": "https://th-i.thgim.com/public/incoming/v5td8e/article71393823.ece/alternates/LANDSCAPE_1200/20260730044L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/reservation-hatao-andolan-solidifies-into-quota-reformsgeneral-category-interest-platform/article71392617.ece",
+    "time": "2026-08-26T16:42:02.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "What triggered the deadly Himalayan disaster?",
+    "desc": "A devastating flash flood has struck Nepal’s Rasuwa district near the Tibet border, leaving at least eight people dead and hundreds reported missing. The disaster swept through the Bhote Koshi River basin, causing widespread destruction to villages, roads, bridges and major hydropower projects. Authorities say hundreds of travellers are unaccounted for, including foreign tourists from several countries. Rescue teams, supported by helicopters and emergency personnel, are continuing search and evacuation operations across the affected region.",
+    "img": "https://th-i.thgim.com/public/incoming/oztj85/article71393790.ece/alternates/LANDSCAPE_1200/Pakistan%20%201.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/nepal-flash-flood-what-triggered-the-deadly-himalayan-disaster/article71393793.ece",
+    "time": "2026-08-26T16:26:41.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Nepal flash floods: at least 95 dead, over 100 Indians missing",
+    "desc": "Massive flash floods in Nepal have killed at least 95 people and left over 400 people missing. Among the missing at over 100 Indians. Rescue operations are underway. In this episode, we get the latest update, from the ground, on the disaster.",
+    "img": "https://th-i.thgim.com/public/news/national/1upmnc/article71393753.ece/alternates/LANDSCAPE_1200/AUGUST%2019%203.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-nepal-flash-floods-at-least-95-dead-over-100-indians-missing-above-the-fold-aug-26-2026/article71393761.ece",
+    "time": "2026-08-26T16:13:34.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Chirag Paswan’s LJP(RV) appoints Surender Vivek as party’s Bihar chief",
     "desc": "In an organisational reshuffle, including State-level restructuring ahead of Assembly elections next year, the Lok Janshakti Party-Ram Vilas has selected eight national secretaries, and 11 national presidents for different cells, including Shambhavi Chaudhary as the national youth wing president",
     "img": "https://th-i.thgim.com/public/news/national/qrbqv8/article71393734.ece/alternates/LANDSCAPE_1200/D9_FPrLb.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/bihar/chirag-paswans-ljprv-appoints-surender-vivek-as-partys-bihar-chief/article71392714.ece",
     "time": "2026-08-26T16:09:36.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ayan Mukerji in talks with Namit Malhotra for 'Brahmastra 2'",
+    "desc": "Namit Malhotra of Prime Focus is reportedly interested in a studio partnership for Brahmastra 2. This follows unsuccessful talks with Jio Studios and Yash Raj Films for the sequel. Prime Focus' expertise in visual effects makes them a potential natural fit for the franchise. Deepika Padukone is reportedly not returning for the sequel, while Alia Bhatt may have a smaller role.",
+    "img": "https://static.toiimg.com/photo/msid-133545786,imgsize-534248.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ayan-mukerji-in-talks-with-namit-malhotra-to-bring-ramayana-producer-on-board-as-studio-partner-for-brahmastra-2-report/articleshow/133545426.cms",
+    "time": "2026-08-26T16:05:07.000Z"
   },
   {
     "cat": "World",
@@ -81,51 +252,6 @@ const newsData_en = [
     "time": "2026-08-26T15:04:48.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Amid parks Bill row, data shows that Karnataka manages only 28 major parks, gardens",
-    "desc": "The amendment allows up to 5% of any park or garden to be used for public infrastructure or utility projects, and Lalbagh, the city’s premier green space, is under consideration for the tunnel road project",
-    "img": "https://th-i.thgim.com/public/incoming/4rdf0i/article71393422.ece/alternates/LANDSCAPE_1200/ALL_6501.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/amid-parks-bill-row-data-shows-that-karnataka-manages-only-28-major-parks-gardens/article71388477.ece",
-    "time": "2026-08-26T14:54:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Research park to come up at Perundurai at ₹100 crore investment",
-    "desc": "One of the objectives of the park, dubbed Arivukoodam, is to give students and faculty members real-time exposure to challenges in industries; it is expected to be operational by the end of next year or early 2028",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Coimbatore/research-park-to-come-up-at-perundurai-at-100-crore-investment/article71393233.ece",
-    "time": "2026-08-26T14:49:51.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "20 Tamil Nadu pilgrims from Tamil Nadu rescued, at least 37 still as landslips disrupt route",
-    "desc": "As per initial information, the pilgrims were on board three vehicles and occupants of one of the vehicles have taken refuge in a Armed Police Force outpost at Timure, about 150 km north of Kathmandu",
-    "img": "https://th-i.thgim.com/public/incoming/ttnfaa/article71392442.ece/alternates/LANDSCAPE_1200/2026-08-26T095449Z_904621719_RC296NAV4VF1_RTRMADP_3_NEPAL-FLOODS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/nepal-flash-flood-pilgrims-from-tamil-nadu-stranded/article71392163.ece",
-    "time": "2026-08-26T14:48:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SC judge seeks transfer of Rajasthan HC Acting Chief Justice, asks why CJI ‘ignored’ appeals",
-    "desc": "In letters to Justice Surya Kant, Justice Sandeep Mehta said that Rajasthan High Court Acting Chief Justice Sanjeev Prakash Sharma exhibited conduct unbecoming of a leader of the institution and that it was ‘beyond comprehension’ why ‘such a long rope’ was given to the judge",
-    "img": "https://th-i.thgim.com/public/incoming/ucuezt/article71391814.ece/alternates/LANDSCAPE_1200/Untitled%20design%202.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/supreme-court-judge-letters-transfer-of-rajasthan-hc-acting-chief-justice-cji-ignored-appeals/article71391629.ece",
-    "time": "2026-08-26T14:46:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "TDP’s bond with BCs stronger than ever before, asserts Rajya Sabha member Vijay",
-    "desc": "The YSRCP is playing the BC card only to divert attention from the ongoing ED probes into its liquor scams and complicity of its leaders in various other scandals, says the TDP leader, warning the opposition party of far worse plight in the 2029 elections if it does not change its ways",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/tdps-bond-with-bcs-stronger-than-ever-before-asserts-rajya-sabha-member-vijay/article71392995.ece",
-    "time": "2026-08-26T14:45:29.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "SRK, Ajay, Tiger yet to respond to FDA's notices: Mundhe",
     "desc": "Maharashtra FDA awaits responses from three Bollywood actors regarding a notice. The actors allegedly promoted a banned pan masala brand indirectly through an advertisement. FDA Commissioner Tukaram Mundhe confirmed the actors had not yet replied to the notice. The advertisement used an elaichi brand name linked to Vimal Pan Masala. The regulator will act against any food business operator failing prescribed standards.",
@@ -144,15 +270,6 @@ const newsData_en = [
     "time": "2026-08-26T14:38:07.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Only 2,790 students enrolled against a target of 10,500: parliamentary panel on government free coaching scheme",
-    "desc": "The report paints a bleak picture of the free coaching scenario at a time when Prime Minister Narendra Modi in his Independence Day speech announced a rollout of “free online coaching” for all students, following the Gen Z protests demanding accountability over NEET-UG paper leak; the road map of the coaching plan has not yet been made public",
-    "img": "https://th-i.thgim.com/public/incoming/ujcz84/article70820660.ece/alternates/LANDSCAPE_1200/IMG_20230527067L_2_1_6PD39N2Q.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/only-2790-students-enrolled-against-a-target-of-10500-parliamentary-panel-on-government-free-coaching-scheme/article71392593.ece",
-    "time": "2026-08-26T14:34:41.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Pakistan receive massive Babar Azam boost ahead of 2nd Test vs England",
     "desc": "Pakistan captain Babar Azam is 90% fit and available for the second Test against England at Lord’s after missing the opener with a finger injury. After Pakistan’s innings defeat at Leeds, Babar expects a stronger response and urged senior players to take responsibility. Pakistan will decide their playing XI after assessing the grassy pitch, with two spinners under consideration.",
@@ -160,24 +277,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-receive-massive-babar-azam-boost-ahead-of-2nd-test-vs-england/articleshow/133543135.cms",
     "time": "2026-08-26T14:28:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Villagers in Telangana wage a war to protect 75-year-old Peepal tree",
-    "desc": "“I got the platform demolished and constructed the compound wall around it, because the platform was attracting drunkards and vagabonds. Villagers who are protesting now had helped me construct the wall. Now, an issue is being made out of it purely due to personal rivalries,” says owner who applied for felling permission",
-    "img": "https://th-i.thgim.com/public/news/cities/Hyderabad/8nhnvl/article71391645.ece/alternates/LANDSCAPE_1200/918666.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/villagers-in-telangana-wage-a-war-to-protect-75-year-old-peepal-tree/article71385040.ece",
-    "time": "2026-08-26T14:19:19.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Bihar government using police to evade accountability, says Rahul Gandhi",
-    "desc": "Students in Bihar are asking simple questions, the Congress leader says — why are there irregularities in recruitment examinations, why has no action been taken on allegations of paper leaks, and how long would the government continue to ‘tamper with the future’ of the youth",
-    "img": "https://th-i.thgim.com/public/incoming/bhuroe/article71392924.ece/alternates/LANDSCAPE_1200/20260808409L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar-governmentusing-police-to-evade-accountability-says-rahul-gandhi/article71392626.ece",
-    "time": "2026-08-26T14:13:02.000Z"
   },
   {
     "cat": "Entertainment",
@@ -414,15 +513,6 @@ const newsData_en = [
     "time": "2026-08-26T11:07:38.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rukmini slammed for intimate bed scene in Yash's Toxic",
-    "desc": "Rukmini Vasanth, playing Mellisa in Yash's 'Toxic', faced backlash over a viral scene showing her waking up wrapped only in a blanket. Fans criticised the scene and writing online, calling it unexpected and \"cheap.\" Neither Rukmini nor makers responded. The film, an A-certified release, has faced criticism for its bold content.",
-    "img": "https://static.toiimg.com/photo/msid-133538735,imgsize-330347.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rukmini-vasanth-slammed-for-intimate-bed-scene-in-yashs-toxic-fans-say-wasnt-expecting-this-from-you/articleshow/133538714.cms",
-    "time": "2026-08-26T11:05:50.000Z"
-  },
-  {
     "cat": "Business",
     "title": "South Korean machine tool player DN Solutions opens its first India plant in Bengaluru at an investment of ₹600 crore",
     "desc": "Located in Bengaluru’s ITIR Industrial Area, the 25-acre facility is a strategic manufacturing, research and development, and service hub, and DN Solutions’ first overseas manufacturing investment since it established its Yantai facility in China in 2003.",
@@ -430,24 +520,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/south-korean-machine-tool-player-dn-solutions-opens-its-first-india-plant-in-bengaluru-at-an-investment-of-600-crore/article71392108.ece",
     "time": "2026-08-26T10:59:10.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vijay Deverakonda hints at reunion with director Sandeep Reddy Vanga",
-    "desc": "Vijay Deverakonda's latest social media update has ignited buzz about a potential reunion with director Sandeep Reddy Vanga. The actor's message, hinting at reconnecting with fans in theaters next year, ignites speculation surrounding a possible project for the 10th anniversary of Arjun Reddy. An extended version of the film had been previously discussed by both creative minds, leaving fans eager for official news about their next collaboration.",
-    "img": "https://static.toiimg.com/photo/msid-133538547,imgsize-119704.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/vijay-deverakonda-hints-at-reunion-with-arjun-reddy-director-sandeep-reddy-vanga-next-year-we-shall-meet-again/articleshow/133538454.cms",
-    "time": "2026-08-26T10:58:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Yash’s 'Toxic' beats Ranveer’s 'Dhurandhar', crosses Rs 50 crore by 3 PM",
-    "desc": "A Fairytale For Grown-Ups' has stormed past Ranveer Singh's 'Dhurandhar's opening-day India net collection within its first few hours of release, brushing off backlash over its violent and intimate content to post a record-breaking Day 1 at the box office. Here’s the latest Sacnilk update, occupancy and what the film could target next.",
-    "img": "https://static.toiimg.com/photo/msid-133538110,imgsize-112491.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yashs-toxic-beats-ranveer-singhs-dhurandhar-opening-day-haul-as-day-1-collections-cross-rs-50-crore-by-3-pm-amid-mixed-reviews-and-online-backlash/articleshow/133537482.cms",
-    "time": "2026-08-26T10:41:24.000Z"
   },
   {
     "cat": "Sports",
@@ -576,24 +648,6 @@ const newsData_en = [
     "time": "2026-08-26T07:04:02.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Be ready for Cockroaches!' CJP doubles down on September 5 protest as 3 demands still 'pending'",
-    "desc": "The Cockroach Janta Party plans a September 5 march in Delhi over unmet demands. Three of four demands remain pending since the July 25 protest withdrawal. The party seeks compensation and withdrawal of FIRs against student protesters. Assurances were given by ministers after talks on July 25. The march will proceed from India Gate to the Police Headquarters.",
-    "img": "https://static.toiimg.com/photo/msid-133533127,imgsize-69290.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/be-ready-for-cockroaches-cjp-doubles-down-on-september-5-protest-as-3-demands-still-pending/articleshow/133532841.cms",
-    "time": "2026-08-26T07:03:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Hijab on their heads, not minds': Owaisi calls Allahabad HC ruling 'attack on Islam'",
-    "desc": "Asaduddin Owaisi criticized the recent Allahabad High Court ruling that denied a student the right to wear a hijab, labeling it an attack on Islam and individual religious liberties. The court dismissed the petition on the grounds of insufficient religious documentation, emphasizing students had followed uniform rules while reiterating that no enforceable right is granted to change school dress policies.",
-    "img": "https://static.toiimg.com/photo/msid-133532005,imgsize-623749.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/hijab-on-their-heads-not-minds-owaisi-calls-allahabad-hc-ruling-an-attack-on-islam/articleshow/133531827.cms",
-    "time": "2026-08-26T06:14:39.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Dukh hota hai': CWG gold medallist judoka Harsh Singh rues Asian Games snub",
     "desc": "Harsh Singh’s Asian Games hopes ended despite his historic Commonwealth Games gold, with a tough Asian Championships draw and selection criteria working against him. The 23-year-old, who once trained through financial hardship as his electrician father struggled to keep the household running, now has the Indian Army’s backing. After Glasgow brought his family newfound respect, Harsh is leaving the dejection behind and turning his focus to the Lausanne Grand Slam.",
@@ -637,15 +691,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/poor-guy-has-been-behind-bars-for-three-years-ramiz-raja-gives-update-on-imran-khans-condition/articleshow/133529398.cms",
     "time": "2026-08-26T04:31:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'They had gone towards Sargodha': Ex-Navy officer backs former CDS Anil Chauhan on Kirana Hills remarks",
-    "desc": "Former Chief of Defence Staff General Anil Chauhan discussed Operation Sindoor's success. He indicated loitering munitions were deployed near Sargodha during the operation. These munitions searched for radars and may have struck Kirana Hills. This occurred after failing to locate their intended targets in the region. Chauhan's comments clarified the operation's impact on the Pakistani hills.",
-    "img": "https://static.toiimg.com/photo/msid-133529219,imgsize-91532.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/they-had-gone-towards-sargodha-ex-navy-officer-backs-chauhan-on-kirana-hills-remarks/articleshow/133529078.cms",
-    "time": "2026-08-26T04:11:03.000Z"
   },
   {
     "cat": "Business",
@@ -853,50 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/daily-quiz-on-sean-connery/article71387409.ece",
     "time": "2026-08-25T05:41:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Praggnanandhaa beats Keymer to stake his claim for finals",
-    "desc": "It was, at best can be described as a game of fluctuating fortunes wherein Pragg suffered early as white, wherein Keymer had the control and a legitimate shot at attacking the white king out of a Bishop’s opening by the Indian",
-    "img": "https://th-i.thgim.com/public/incoming/3jwmzt/article71386316.ece/alternates/LANDSCAPE_1200/IMG_TH15PRAGG_2_1_29GD5JRN.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/gct-grand-finale-praggnanandhaa-beats-keymer-to-stake-his-claim-for-finals/article71386315.ece",
-    "time": "2026-08-24T21:40:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "In the post-Bazball era, can Brook go from reckless to ruthless?",
-    "desc": "The England star averages 53.63 after 39 Tests and is No. 1 in the ICC Test rankings, but too often during the regime of Stokes and McCullum as captain and coach, he was prone to rash dismissals. With the steely pair of Root and Fleming taking charge in a bid to revive the fortunes of the Test team, the onus is on the middle-order batter to control his impetuosity and boost his average even further",
-    "img": "https://th-i.thgim.com/public/sport/a8fxg8/article71386045.ece/alternates/LANDSCAPE_1200/TH25%20BROOK-E.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/in-the-post-bazball-era-can-brook-go-from-reckless-to-ruthless/article71386039.ece",
-    "time": "2026-08-24T17:59:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harry Kane is Germany's player of the year, Vincent Kompany gets coach's award",
-    "desc": "Kane scored 61 goals across all competitions, including the German Supercup for Bayern last season, helping the team defend its Bundesliga title and win the German Cup; he scored a hat trick in the cup final",
-    "img": "https://th-i.thgim.com/public/incoming/mxc50j/article71382231.ece/alternates/LANDSCAPE_1200/Germany_Supercup_Soccer_2_655.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/harry-kane-is-germanys-player-of-the-year-vincent-kompany-gets-coachs-award/article71382229.ece",
-    "time": "2026-08-23T21:32:03.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chinese humanoid robots smash human records in 100m sprint and high jump at Beijing robot games",
-    "desc": "At a 100-meter sprint, a humanoid robot achieved a result of 9.39 seconds, beating the human record of 9.58 seconds set by Jamaican athlete Usain Bolt in 2009; In a standing high jump, a humanoid robot was able to reach 2.88 meters, surpassing the human high jump record of 2.45 meters set by Cuba’s Javier Sotomayor in 1993",
-    "img": "https://th-i.thgim.com/public/incoming/dwmf8/article71380203.ece/alternates/LANDSCAPE_1200/2026-08-22T154030Z_254384848_RC2Q3NASSEGF_RTRMADP_3_CHINA-TECH-ROBOT-GAMES.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/chinese-humanoid-robots-smash-human-records-in-100m-sprint-and-high-jump-at-beijing-robot-games/article71380192.ece",
-    "time": "2026-08-23T06:27:24.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Government issues warning for these Android smartphone and tablet users",
-    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
-    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
-    "time": "2024-03-13T15:36:41.000Z"
   }
 ];

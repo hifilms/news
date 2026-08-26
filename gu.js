@@ -1,6 +1,15 @@
 const newsData_gu = [
   {
     "cat": "World",
+    "title": "પૂરની ખબર હતી છતાં ચૂપ રહ્યું ચીન ! જાણ કરી હોત તો બચાવી શકાયા હોત અનેક જીવ, શું છે 45 મિનિટના મૌનનો ખેલ ?",
+    "desc": "ચીની મીડિયા અહેવાલો અનુસાર, તિબેટના કેરુંગ કાઉન્ટી વિસ્તારમાં ચીનના સમય મુજબ સવારે 10:30 વાગ્યે પૂર આવી ગયું હતું. આ સ્થાન નેપાળના પૂરગ્રસ્ત રાસુવા જિલ્લાથી આશરે 25-30 કિલોમીટર દૂર છે. ત્યારે સવાલ એ છે કે ચીનને ખબર હતી છતાં નેપાળને જાણ કેમ ના કરી ? શું ડ્રેગન જાણી જોઈને ચૂપ રહ્યું ?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/china-aware-about-flood-but-not-share-information-with-nepal-489042 ",
+    "time": "2026-08-26T16:33:42.000Z"
+  },
+  {
+    "cat": "World",
     "title": "નેપાળ પૂર હોનારતમાં ભયાનક તબાહી: 95 લોકોના મોત, 1000 લાપતા; 19 પુલ અને 11 હાઇડ્રો પ્રોજેક્ટ્સ પાણીમાં ગરકાવ",
     "desc": "નેપાળ-તિબેટ સરહદ પર બુધવારે સવારે અચાનક પૂર આવવાથી ભારે તબાહી મચી છે, જેણે બધાને ચોંકાવી દીધા છે. રસુવા જિલ્લામાં સ્થિતિ સૌથી ખરાબ છે. અત્યાર સુધી 95 લોકોના મોતની પુષ્ટિ થઈ છે, જ્યારે હજારો લોકો લાપતા છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -547,15 +556,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/bobby-deol-bandar-movie-ott-release-date-new-movie-premiere-on-zee5-bandar-488437 ",
     "time": "2026-08-22T07:11:02.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "2050 સુધી દુનિયાના સૌથી મોટો શહેરો કયા હશે? ટોપમાં ભારતના આ બે સિટીનો થશે સમાવેશ, રિપોર્ટમાં ખુલાસો",
-    "desc": "2050 સુધીમાં, વિશ્વના સૌથી વધુ વસ્તી ધરાવતા શહેરો બદલાઈ શકે છે. સંયુક્ત રાષ્ટ્રનો અંદાજ છે કે ઢાકા 5.21 કરોડની વસ્તી સાથે આગળ વધી શકે છે, જ્યારે નવી દિલ્હી 3.39 કરોડ સાથે ટોચના શહેરોમાં સ્થાન મેળવશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/which-will-be-the-largest-cities-in-the-world-by-2050-these-two-indian-cities-will-be-included-in-the-top-reveals-the-report-488402 ",
-    "time": "2026-08-21T16:01:53.000Z"
   },
   {
     "cat": "Tech",
