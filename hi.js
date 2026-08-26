@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Mitchell Starc pips Jasprit Bumrah to become number-one ranked Test bowler, for first time ever",
+    "desc": "For the first time in his career, Australia pacer Mitchell Starc has become the number-one ranked Test bowler. The 36-year-old took 10 wickets in the second Test against Bangladesh at Mackay, which helped him earn...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mitchell-starc-pips-jasprit-bumrah-to-become-number-one-ranked-test-bowler-for-first-time-ever-2026-08-26-1052443",
+    "time": "2026-08-26T08:29:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Where to watch European T20 Premier League (ETPL) live on TV and stream online in India?",
+    "desc": "European cricket enters a new chapter on Wednesday, August 26, as the European T20 Premier League begins its inaugural season, with Rotterdam Dockers and Amsterdam Flames meeting in the opening match at Sportpark Duivesteijn in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/where-to-watch-european-t20-premier-league-etpl-live-on-tv-and-stream-online-in-india-2026-08-26-1052438",
+    "time": "2026-08-26T08:01:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sanjay Manjrekar calls for stricter punishment for Vaibhav Sooryavanshi, Yashasvi Jaiswal",
+    "desc": "Young India batter Yashasvi Jaiswal was fined 25 per cent of his match fee and received a demerit point following a physical confrontation with Sri Lanka’s Asitha Fernando on Day 1 of the Colombo Test....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/sanjay-manjrekar-calls-for-stricter-punishment-for-vaibhav-sooryavanshi-yashasvi-jaiswal-2026-08-26-1052432",
+    "time": "2026-08-26T07:10:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "J-K all-rounder plays pivotal role as North Zone beats West Zone to book place in Duleep Trophy semis",
+    "desc": "Jammu and Kashmir all-rounder Abid Mushtaq produced a stunning performance, finishing with nine wickets as North Zone beat West Zone by 52 runs in the Duleep Trophy quarter-final at the BCCI Centre of Excellence in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jammu-kashmir-all-rounder-plays-pivotal-role-as-north-zone-beats-west-zone-to-book-place-in-duleep-trophy-semis-2026-08-26-1052428",
+    "time": "2026-08-26T06:37:52.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Is Babar Azam completely fit to play second Test vs England at Lord's?",
     "desc": "Pakistan captain Babar Azam is set to return to the Test side for the second match against England at Lord’s. The 31-year-old completed a full batting session in training and showed no obvious signs of...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/east-zone-thrash-north-east-zone-to-seal-spot-in-duleep-trophy-semis-who-do-they-play-next-2026-08-25-1052371",
     "time": "2026-08-25T11:11:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Another Sri Lanka cricketer reprimanded by ICC for breaching code of conduct in second Test vs India",
-    "desc": "The International Cricket Council (ICC) has reprimanded Sri Lanka spinner Prabath Jayasuriya for his actions after being dismissed during the ongoing World Test Championship match against India in Colombo. He was sanctioned for breaching Article...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/another-sri-lanka-cricketer-reprimanded-by-icc-for-breaching-code-of-conduct-in-second-test-vs-india-2026-08-25-1052363",
-    "time": "2026-08-25T10:20:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India fallen behind in WTC final race, but can't be written off, says Rahul Dravid",
-    "desc": "Former India head coach Rahul Dravid believes that the Shubman Gill-led side still has a slight chance to qualify for the World Test Championship final. However, he acknowledged the fact that there’s little margin for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-fallen-behind-in-wtc-final-race-but-can-t-be-written-off-says-rahul-dravid-2026-08-25-1052348",
-    "time": "2026-08-25T08:17:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi picks two wickets in four balls in Duleep Trophy",
-    "desc": "Teenage sensation Vaibhav Sooryavanshi made an immediate impact with the ball on Day 3 of the first quarter-final between East Zone and North East Zone at the BCCI Centre of Excellence in Bengaluru. He failed...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-picks-two-wickets-in-four-balls-in-duleep-trophy-watch-2026-08-25-1052341",
-    "time": "2026-08-25T07:25:20.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan women's team play T20 matches against men's side to prepare for Asia Cup 2026",
-    "desc": "Pakistan’s women’s cricket team have used an unconventional method to sharpen their preparation for the Women’s Asia Cup. Captain Fatima Sana revealed that her team played a T20 series against the men’s side before leaving...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-women-s-team-play-t20-matches-against-men-s-side-to-prepare-for-asia-cup-2026-2026-08-25-1052332",
-    "time": "2026-08-25T06:23:29.000Z"
   }
 ];
