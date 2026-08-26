@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "અનામતને લઈને ભાજપમાં પણ વધી બેચેની, BJP પ્રવક્તના નિવેદનથી શરૂ થયો એક નવો વિવાદ, જાણો",
+    "desc": "જાતિ આધારિત અનામતમાં ફેરફારની માંગણીને લઈને ચાલી રહેલા વિરોધ પ્રદર્શનો વચ્ચે, ભાજપના પ્રવક્તા અજય આલોકના નિવેદનથી એક નવી ચર્ચાએ જોર પકડ્યું છે. તેમણે આંદોલનની દિશા પર સવાલ ઉઠાવ્યા છે, જેમાં મોદી સરકારના EWS અનામત અને OBC સંબંધિત નિર્ણયોનો ઉલ્લેખ કરવામાં આવ્યો છે. આ દરમિયાન, અનામતમાં સુધારાના સમર્થકોએ વળતો જવાબ આપ્યો છે કે સામાન્ય વર્ગને પણ અનામત પર બોલવાનો અધિકાર દેવાની માંગ કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/anxiety-has-also-increased-in-bjp-regarding-reservation-a-new-controversy-started-with-the-statement-of-bjp-spokesperson-know-488926 ",
+    "time": "2026-08-26T03:42:47.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "RSS પ્રમુખ મોહન ભાગવતના કાર્યક્રમ મુદ્દે અમેરિકામાં રાજકારણ ગરમાયું, ન્યૂયોર્કના મેયરે પણ કર્યો વિરોધ",
+    "desc": "રાષ્ટ્રીય સ્વયંસેવક સંઘના શતાબ્દી વર્ષે દેશ વિદેશમાં અનેક કાર્યક્રમનો આયોજન થઈ રહ્યું છે. આરએસએસ પ્રમુખ મોહન ભાગવત હાલ અમેરિકામાં છે જ્યાં આ નિમિત્તે યોજાયેલા એક કાર્યક્રમમાં સંબોધન કરશે. જો કે તે પહેલા જ વિરોધનો વંટોળ શરૂ થઈ ગયો છે. ન્યૂયોર્કના મેયર ઝોહરાન મમદાનીએ પણ કહ્યું કે તેઓ મોહન ભાગવતના કાર્યક્રમનો વિરોધ કરે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/new-york-mayor-zohran-mamdani-oppose-rss-mohan-bhagwat-madison-square-progreamme-488925 ",
+    "time": "2026-08-26T03:25:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "અક્ષય કુમાર-સૈફ અલી ખાનની સસ્પેન્સ થ્રિલર ફિલ્મ હૈવાનનું ટ્રેલર કરી રહ્યું છે ટ્રેંડ, જાણો શું છે ખાસ આ ફિલ્મમાં",
+    "desc": "અક્ષય કુમાર અને સૈફ અલી ખાનની ફિલ્મ હૈવાનનું ટ્રેલર રિલીઝ કરવામાં આવ્યું છે. આ ફિલ્મમાં સૈફ અલી ખાન એક બ્લાઈન્ડ વ્યક્તિના રોલમાં છે જ્યારે અક્ષય કુમાર એક સનકી વ્યક્તિના રોલમાં છે. હૈવાન ફિલ્મનું ટ્રેલર કેવું છે ચાલો જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/haiwaan-movie-trailer-explain-priyadarshan-movie-haiwaan-is-hindi-remake-of-malayalam-movies-oppam-488923 ",
+    "time": "2026-08-26T02:36:09.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "રશિયાના કેમિકલ કોમ્પ્લેક્સમાં ભીષણ આગ, બે ચીની કામદારો સહિત ત્રણ લોકોના મોત, 120થી વધુ લોકો ઘાયલ",
+    "desc": "રશિયામાં એક કેમિકલ કોમ્પ્લેક્સમાં આગ લાગવાથી ઓછામાં ઓછા ત્રણ લોકોના મોત થયા છે. કંપનીમાં ઉત્પાદન હજુ સુધી ફરી શરૂ થયું નથી. રશિયા સામાન્ય રીતે ઘણા મોટા પ્રોજેક્ટ્સ માટે રશિયનો સહિત વિદેશી કામદારો પર આધાર રાખે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/massive-fire-breaks-out-at-chemical-complex-in-russia-three-people-including-two-chinese-workers-killed-more-than-120-injured-488922 ",
+    "time": "2026-08-26T02:32:02.000Z"
+  },
+  {
     "cat": "Business",
     "title": "હવે સસ્તી થઈ રહી છે ખાંડ, એક જ ઝાટકે 18% સુધી ઘટી ગયા ભાવ; જાણો સામાન્ય લોકો સુધી ક્યારે પહોંચશે રાહત?",
     "desc": "ખાંડના ભાવોને લઈને દેશભરમાં ચિંતાની સ્થિતિ બનેલી છે. સરકારે આયાત મંજૂર કરી દીધી છે અને જમાખોરી પર સખતાઈ પણ દાખવી છે. જેના પછી હવે ખાંડના એક્સ-મિલ ભાવ 18% ઘટીને 55 રૂપિયા કિલો થઈ ગયા છે.",
@@ -304,15 +340,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/how-much-tax-is-levied-on-salary-after-da-increase-even-a-mistake-of-1-rupee-can-be-huge-know-itr-rules-488634 ",
     "time": "2026-08-23T14:44:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ભારે વરસાદ માટે થઈ જાવ તૈયાર ! બંગાળની ખાડીમાં સક્રિય થયું લો-પ્રેશર",
-    "desc": "બંગાળની ખાડીમાં લો-પ્રેશર સક્રિય થતાં દેશના અનેક રાજ્યોમાં ભારે વરસાદની આગાહી કરવામાં આવી છે. ઓડિશા અને છત્તીસગઢમાં અતિભારે વરસાદની શક્યતા છે. બિહાર, ઝારખંડ, પશ્ચિમ બંગાળ, મધ્ય પ્રદેશ, ઉત્તર પ્રદેશ, ઉત્તરાખંડ સહિતના રાજ્યોમાં પણ ભારે વરસાદ પડશે. ઉત્તર-પૂર્વના રાજ્યોમાં ગાજવીજ અને વીજળી સાથે વરસાદની આગાહી કરવામાં આવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/bay-of-bengal-low-pressure-heavy-rain-alert-across-multiple-states-488633 ",
-    "time": "2026-08-23T13:55:52.000Z"
   },
   {
     "cat": "Business",
@@ -628,23 +655,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/fpi-return-foreign-investors-continue-buying-indian-stocks-in-august-487922 ",
     "time": "2026-08-16T14:41:53.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "આ છે દુનિયાનો સૌથી અનોખો ટાપુ, જ્યાં દર 6 મહિને બદલાય છે દેશનું પ્રશાસન; જાણો શું છે તેનો ઈતિહાસ",
-    "desc": "ફ્રાન્સ અને સ્પિન વચ્ચે બિદાસોઆ નદીમાં આવેલો ફીઝન્ટ આઈલેન્ડ દુનિયાના સૌથી અનોખા વિસ્તારોમાં સામેલ છે. આ નાના ટાપુનું પ્રશાસન દર છ મહિને બન્ને દેશો વચ્ચે બદલાય છે. 1659ની ટ્રીટી ઓફ ધ પાયરેનીઝ સાથે જોડાયેલી આ જગ્યાની કહાની ખૂબ જ રસપ્રદ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/this-is-the-most-unique-island-in-the-world-where-the-country-administration-changes-every-6-months-history-of-pheasant-island-487917 ",
-    "time": "2026-08-16T12:45:00.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ડોનાલ્ડ ટ્રમ્પ ત્રીજી વખત બનશે પ્રમુખ? 2028ની ચૂંટણી લડવાની અટકળો, જાણો સોશિયલ મીડિયા પોસ્ટમાં શું આપ્યા સંકેત?",
-    "desc": "અમેરિકામાં આગામી પ્રમુખ પદની ચૂંટણી 2028માં યોજાશે અને વર્તમાન પ્રમુખ ટ્રમ્પે ચૂંટણી અંગે મોટો સંકેત આપ્યો છે. તેમણે એક સોશિયલ મીડિયા પોસ્ટ લખી છે, જેમાં તેમણે પોતાની રાજકીય કારકિર્દીની ત્રીજી પ્રમુખ પદની ચૂંટણી લડવાના સંકેત આપ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/will-donald-trump-become-president-for-a-third-time-speculation-mounts-about-a-2028-run-find-out-what-hints-were-dropped-in-his-social-media-post-487859 ",
-    "time": "2026-08-16T03:52:39.000Z"
   }
 ];
