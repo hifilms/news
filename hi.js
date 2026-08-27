@@ -1,92 +1,92 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Joe Root's message in the dressing room was clear, says Josh Tongue after Brydon Carse incident",
-    "desc": "England fast bowler Josh Tongue said Joe Root’s dressing-room warning over off-field conduct has been accepted by the squad, as the team prepares for the second Test against Pakistan at Lord’s from Thursday. Notably, Root spoke...",
+    "title": "'Fielded for about 250 overs, did everything we can'",
+    "desc": "After the draw against Sri Lanka in Colombo, India captain Shubman Gill said there was little more his team could have done. Sonal Dinusha’s unbeaten 133 frustrated India, who eventually settled for a draw after...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/joe-root-s-message-in-the-dressing-room-was-clear-says-josh-tongue-after-brydon-carse-incident-2026-08-26-1052474",
-    "time": "2026-08-26T12:23:06.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/fielded-for-about-250-overs-did-everything-we-can-shubman-gill-analyses-colombo-test-draw-2026-08-27-1052588",
+    "time": "2026-08-27T13:23:40.000Z"
   },
   {
     "cat": "Sports",
-    "title": "How do bowlers feel empowered under MS Dhoni's captaincy? Simarjeet Singh explains",
-    "desc": "For a young fast bowler, T20 cricket can often become a battle of decisions. The margin for error is tiny, the batter is constantly looking to disrupt the bowler’s plans and there is rarely enough...",
+    "title": "Colombo Test ends in draw after India fail to break Sri Lanka's resistance, courtesy of Sonal Dinusha's ton",
+    "desc": "The second Test between India and Sri Lanka at R Premadasa Stadium in Colombo ended in a draw, as the Shubman Gill-led side had no answer to Sonal Dinusha’s resistance. The day started with Sri...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/how-do-bowlers-feel-empowered-under-ms-dhoni-s-captaincy-simarjeet-singh-explains-2026-08-26-1052464",
-    "time": "2026-08-26T11:09:36.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/colombo-test-ends-in-draw-after-india-fail-to-break-sri-lanka-s-resistance-courtesy-of-sonal-dinusha-s-ton-2026-08-27-1052578",
+    "time": "2026-08-27T11:37:38.000Z"
   },
   {
     "cat": "Sports",
-    "title": "Mitchell Starc pips Jasprit Bumrah to become number-one ranked Test bowler, for first time ever",
-    "desc": "For the first time in his career, Australia pacer Mitchell Starc has become the number-one ranked Test bowler. The 36-year-old took 10 wickets in the second Test against Bangladesh at Mackay, which helped him earn...",
+    "title": "Kolkata to host Fede Valverde's Uruguay on October 6, AIFF confirms venue for Panama friendly",
+    "desc": "The All India Football Federation (AIFF) has confirmed that Kolkata will host the marquee clash against Uruguay on October 6, three days after the friendly against Brazil. Ahead of that, the Indian team will also...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mitchell-starc-pips-jasprit-bumrah-to-become-number-one-ranked-test-bowler-for-first-time-ever-2026-08-26-1052443",
-    "time": "2026-08-26T08:29:40.000Z"
+    "url": "https://www.indiatvnews.com/sports/football/kolkata-to-host-fede-valverde-s-uruguay-on-october-6-aiff-confirms-venue-for-panama-friendly-2026-08-27-1052571",
+    "time": "2026-08-27T10:55:59.000Z"
   },
   {
     "cat": "Sports",
-    "title": "Where to watch European T20 Premier League (ETPL) live on TV and stream online in India?",
-    "desc": "European cricket enters a new chapter on Wednesday, August 26, as the European T20 Premier League begins its inaugural season, with Rotterdam Dockers and Amsterdam Flames meeting in the opening match at Sportpark Duivesteijn in...",
+    "title": "Sonal Dinusha becomes third Sri Lanka cricketer to achieve major feat in Test cricket",
+    "desc": "Sri Lanka all-rounder Sonal Dinusha played a commendable knock in the second innings of the second Test against India in Colombo. The hosts were made to follow on after the first innings and they faced...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/where-to-watch-european-t20-premier-league-etpl-live-on-tv-and-stream-online-in-india-2026-08-26-1052438",
-    "time": "2026-08-26T08:01:15.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/sonal-dinusha-becomes-third-sri-lanka-cricketer-to-achieve-major-feat-in-test-cricket-2026-08-27-1052567",
+    "time": "2026-08-27T10:38:48.000Z"
   },
   {
     "cat": "Sports",
-    "title": "Sanjay Manjrekar calls for stricter punishment for Vaibhav Sooryavanshi, Yashasvi Jaiswal",
-    "desc": "Young India batter Yashasvi Jaiswal was fined 25 per cent of his match fee and received a demerit point following a physical confrontation with Sri Lanka’s Asitha Fernando on Day 1 of the Colombo Test....",
+    "title": "Jose Mourinho sings Kylian Mbappe's praise after latter's stellar hat-trick against Real Sociedad",
+    "desc": "Real Madrid put forth a magnificent performance as they took on Real Sociedad in La Liga. In what was Jose Mourinho’s first game of the season at the Santiago Bernabeu, Madrid managed to register a...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sanjay-manjrekar-calls-for-stricter-punishment-for-vaibhav-sooryavanshi-yashasvi-jaiswal-2026-08-26-1052432",
-    "time": "2026-08-26T07:10:35.000Z"
+    "url": "https://www.indiatvnews.com/sports/football/jose-mourinho-sings-kylian-mbappe-s-praise-after-latter-s-stellar-hat-trick-against-real-sociedad-2026-08-27-1052559",
+    "time": "2026-08-27T09:26:11.000Z"
   },
   {
     "cat": "Sports",
-    "title": "J-K all-rounder plays pivotal role as North Zone beats West Zone to book place in Duleep Trophy semis",
-    "desc": "Jammu and Kashmir all-rounder Abid Mushtaq produced a stunning performance, finishing with nine wickets as North Zone beat West Zone by 52 runs in the Duleep Trophy quarter-final at the BCCI Centre of Excellence in...",
+    "title": "Ajay Jadeja points out turning point for team India on day 4 of Colombo clash",
+    "desc": "The Indian team is taking on Sri Lanka in the second and final Test of the ongoing series between the two sides. It is worth noting that the visitors ended the penultimate day of the...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jammu-kashmir-all-rounder-plays-pivotal-role-as-north-zone-beats-west-zone-to-book-place-in-duleep-trophy-semis-2026-08-26-1052428",
-    "time": "2026-08-26T06:37:52.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/ajay-jadeja-points-out-turning-point-for-team-india-on-day-4-of-colombo-clash-2026-08-27-1052549",
+    "time": "2026-08-27T08:11:38.000Z"
   },
   {
     "cat": "Sports",
-    "title": "Is Babar Azam completely fit to play second Test vs England at Lord's?",
-    "desc": "Pakistan captain Babar Azam is set to return to the Test side for the second match against England at Lord’s. The 31-year-old completed a full batting session in training and showed no obvious signs of...",
+    "title": "Joe Root set to overtake Stuart Broad in elite list, will join hands with Ricky Ponting with 2nd Test vs PAK",
+    "desc": "The stage is set for the second Test of the ongoing series between England and Pakistan. The two sides are slated to take on each other at Lord’s Cricket Ground in London from August 27th,...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/is-babar-azam-completely-fit-to-play-second-test-vs-england-at-lord-s-2026-08-26-1052423",
-    "time": "2026-08-26T05:56:36.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/joe-root-set-to-overtake-stuart-broad-in-elite-list-will-join-hands-with-ricky-ponting-with-2nd-test-vs-pak-2026-08-27-1052548",
+    "time": "2026-08-27T07:53:05.000Z"
   },
   {
     "cat": "Sports",
-    "title": "Serena Williams, Carlos Alcaraz mixed-doubles pair knocked out of US Open quarterfinals",
-    "desc": "Serena Williams’ much-anticipated return to the U.S. Open ended in the mixed doubles quarterfinals, when she and Carlos Alcaraz were beaten by Belinda Bencic and Flavio Cobolli 5-4 (4), 4-1. For Williams, the match marked...",
+    "title": "BCCI name India U19's squad upcoming Australia series, Sehwag-Dravid's sons make the cut",
+    "desc": "The BCCI (Board of Control for Cricket in India) has come forward and named India U19’s squad for the upcoming multi-format series against Australia U19. It is worth noting that Australia will be touring India...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/serena-williams-carlos-alcaraz-mixed-doubles-pair-knocked-out-of-us-open-quarterfinals-2026-08-26-1052421",
-    "time": "2026-08-26T05:14:26.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-name-india-u19-s-squad-upcoming-australia-series-sehwag-dravid-s-sons-make-the-cut-2026-08-27-1052533",
+    "time": "2026-08-27T06:41:52.000Z"
   },
   {
     "cat": "Sports",
-    "title": "India to face Panama in FIFA Men's international friendly on September 26 ahead of Brazil clash",
-    "desc": "The Indian senior men's football team is set for another major international test before its much-awaited showdown against five-time world champions Brazil. The All India Football Federation (AIFF) announced on Tuesday that India will host...",
+    "title": "Former India cricketer weighs in on challenges faced by Manav Suthar on day 4 of Colombo Test",
+    "desc": "The Indian team is in a dominant position in the ongoing second Test against Sri Lanka. The hosts had four wickets in hand ahead of day 5 and a lead of 16 runs in the...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/india-to-face-panama-in-fifa-men-s-international-friendly-on-september-26-ahead-of-brazil-clash-2026-08-25-1052398",
-    "time": "2026-08-25T16:00:25.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-weighs-in-on-challenges-faced-by-manav-suthar-on-day-4-of-colombo-test-2026-08-27-1052524",
+    "time": "2026-08-27T05:54:24.000Z"
   },
   {
     "cat": "Sports",
-    "title": "Morne Morkel shares major fitness update on Rishabh Pant after keeper-batter was out of action on Day 3",
-    "desc": "India bowling coach Morne Morkel confirmed that Rishabh Pant is currently not fit to keep wickets. The 28-year-old didn’t participate on Day 3 of the second Test against Sri Lanka, as he was spotted badly...",
+    "title": "'You need depth in cricket': Javagal Srinath urges youngsters to give more time to red-ball cricket",
+    "desc": "Former India cricketer Javagal Srinath has recently come forward and urged youngsters and aspiring cricketers to give as much time as possible to the longest format of the game. Present at the Madhya Pradesh Cricket...",
     "img": "",
     "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/morne-morkel-shares-major-fitness-update-on-rishabh-pant-after-keeper-batter-was-out-of-action-on-day-3-2026-08-25-1052388",
-    "time": "2026-08-25T13:18:37.000Z"
+    "url": "https://www.indiatvnews.com/sports/cricket/javagal-srinath-urges-youngsters-to-give-more-time-to-red-ball-cricket-2026-08-27-1052516",
+    "time": "2026-08-27T04:08:14.000Z"
   }
 ];

@@ -1,5 +1,122 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "મોડી રાતે એવા સમાચાર આવ્યા કે સોનામાં થયો કડાકો, રક્ષાબંધન પહેલાં 18000 રૂપિયા સસ્તું થયું સોનું, ચાંદીના ભાવ ઘટ્યા",
+    "desc": "તમે પણ રક્ષાબંધને બહેનને સોનાની ભેટ આપવા માટે પ્લાનિંગ કરી રહ્યાં છો તો તમારે એ જાણવાની જરૂર છે કે સોનું 18000 રૂપિયા સસ્તું થઈ ચૂક્યું છે. 1 કિલો ચાંદીના ભાવમાં પણ 1.46 લાખ રૂપિયાનો ઘટાડો થયો છે. આ ભાવ ઓલટાઈમ હાઈથી હાલમાં ઓછો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-silver-prices-crash-major-relief-for-buyers-as-gold-slips-to-rs-1-58-lakh-ahead-of-festival-season-489111 ",
+    "time": "2026-08-27T13:34:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ગૌરવ ખન્નાના પેરેન્ટ્સ સાથે વાત નથી કરતી આકાંક્ષા ચમોલા, બાયોસેક્સુઅલ હોવાની વાત પર કર્યો ખુલાસો",
+    "desc": "લોકઅપ 2 શો પુરો થઈ ગયો પણ આકાંક્ષા ચમોલાના 2 સીક્રેટ જે શો દરમિયાન રિવીલ થયા તેની ચર્ચાઓ પુરી થવાનું નામ નથી લેતી. આકાંક્ષા ચમોલા આ 2 સીક્રેટ સંદર્ભે પુછાયેલા પ્રશ્નના જવાબમાં નવો ધડાકો કર્યો છે. આકાંક્ષા ચમોલાએ કહ્યું છે કે ગૌરવ ખન્નાના માતાપિતા એટલે તેના સાસુ સસરા સાથે તેને વાત કરવાના પણ સંબંધ નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/akanksha-chamola-says-she-has-no-relation-with-gaurav-khanna-parents-they-dont-talk-to-each-other-489108 ",
+    "time": "2026-08-27T12:40:37.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ખાંડ ખરીદવાના નિયમો બદલાયા, હવે એકસાથે નહીં કરી શકો 2-3 કિલોથી વધુની ખરીદી! જાણો ક્યાં અને કોણે લગાવી લિમિટ?",
+    "desc": "Zepto, Blinkit અને Swiggy Instamartએ ખાંડની કેટલીક પ્રોડક્ટ્સ પર લિમિટ લગાવી દીધી છે, એટલે કે એક ઓર્ડરમાં કેટલા પેકેટ એડ કરી શકો છો, તેની મર્યાદા નક્કી કરવામાં આવી છે. કેટલાક સ્ટોર્સમાં એક ગ્રાહકને 2-3 કિલોથી વધુ ખાંડ નહીં આપવાની મર્યાદા નક્કી કરી દેવામાં આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/sugar-buying-rules-changed-now-you-can-not-buy-more-than-2-3-kg-at-a-time-know-where-and-who-imposed-the-limit-489107 ",
+    "time": "2026-08-27T12:37:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "શ્રીલંકાની શાનદાર લડતના કારણે બીજી ટેસ્ટ ડ્રો, ટીમ ઈન્ડિયાએ 1-0થી જીતી સિરીઝ",
+    "desc": "કોલંબોમાં ટીમ ઈન્ડિયા અને શ્રીલંકા વચ્ચેની બીજી ટેસ્ટ મેચ ડ્રો થઈ છે. ભારતે શ્રીલંકાને ફોલોઓન આપ્યું હતું, પરંતુ યજમાન ટીમ ઓલઆઉટ ના થતાં મેચ ડ્રો થઈ છે. જો કે, ભારતે શ્રેણી 1-0થી જીતી લીધી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/india-vs-sri-lanka-2nd-test-match-drawn-shubman-gill-sonal-dinusha-489104 ",
+    "time": "2026-08-27T11:37:07.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "16 KM માઇલેજ, સનરૂફ અને ADAS! આ 7-સીટર SUV પર મળી રહ્યું છે ₹1.25 લાખનું બમ્પર ડિસ્કાઉન્ટ",
+    "desc": "Mahindra Scorpio N ખરીદવાની યોજના બનાવી રહ્યાં છો તો ઓગસ્ટ 2026 તમારા માટે ખાસ સાબિત થઈ શકે છે. કંપની અને ડીલર્સ આ એસયુવીના જૂના પ્રી-ફેસલિફ્ટ સ્ટોક પર 1.25 લાખના બેનિફિટ્સ આપી રહ્યાં છે. તેમાં કેશ ડિસ્કાઉન્ટ અને એક્સેસરીઝ પેકેજ સામેલ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/mahindra-scorpio-n-august-2026-deals-get-huge-discount-up-to-1-25-lakh-on-7-seater-suv-489095 ",
+    "time": "2026-08-27T11:11:08.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "નેપાળમાં જળપ્રલય: ભારે તબાહીથી મૃત્યુઆંક 270 થયો, 288 ભારતીયો ગૂમ, નેપાળી વિદેશમંત્રીએ ભારતને પણ ચેતવ્યું",
+    "desc": "નેપાળમાં પૂર બાદ હાલાત ખુબ જ ગંભીર બનેલા છે. મૃત્યુઆંક 270 પર પહોંચ્યો છે. 288 જેટલા ભારતીયો પણ ગૂમ છે. વિદેશ મંત્રાલયના જણાવ્યાં મુજબ 21 ભારતીયોને રેસ્ક્યૂ કરાયા છે. તિબ્બેટમાં પહોંચેલા 200 જેટલા ભારતીયોએ મદદ માંગી છે. બીજી બાજુ નેપાળના વિદેશમંત્રી શિશિર ખનાલે હિમાલયમાં આવેલા આ ભીષણ પૂર બાદ ભારત માટેના સંભવિત જોખમો ઉપર પણ ચિંતા વ્યક્ત કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/nepal-flash-flood-update-death-toll-increase-mea-on-missing-indians-details-489092 ",
+    "time": "2026-08-27T10:19:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ક્રિકેટના ઈતિહાસમાં ગજબ થઈ ગયો... માત્ર 35 રનમાં ઓલઆઉટ થઈ ટીમ, 7 ખેલાડીઓ ખાતું પણ ના ખોલાવી શક્યા",
+    "desc": "મહિલા કોન્ટિનેન્ટલ કપ 2026માં ઓસ્ટ્રિયન ટીમ તુર્કી સામે માત્ર 35 રનમાં ઓલઆઉટ થઈ ગઈ હતી. તેના 7 બેટ્સમેન પોતાનું ખાતું પણ ખોલાવી શક્યા નહોતા. વરસાદથી પ્રભાવિત 10 ઓવરની મેચમાં તુર્કીએ માત્ર 5.3 ઓવરમાં ટાર્ગેટનો પીછો કરીને 8 વિકેટથી શાનદાર વિજય મેળવ્યો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/t20-lowest-score-turkey-women-vs-austria-women-35-all-out-7-ducks-489088 ",
+    "time": "2026-08-27T09:39:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "3.61થી 4.00 સુધી ફિટમેન્ટ ફેક્ટરની ડિમાન્ડ! જાણો સરકારી કર્મચારીઓના પગાર-પેન્શનમાં કેટલો થઈ શકે વધારો?",
+    "desc": "સરકારી કર્મચારીઓના પગાર નક્કી કરવા માટે ફિટમેન્ટ ફેક્ટર ખુબ મહત્વનો ભાગ ભજવે છે. આઠમાં પગાર પંચની સમિતિ દ્વારા જ્યારે કર્મચારી યુનિયનો પાસે સૂચનો મંગાવવામાં આવ્યા તો કર્મચારી યુનિયનોએ 3.61 થી લઈને 4.00 સુધી ફિટમેન્ટ ફેક્ટરની માંગણી કરી છે. આ ફિટમેન્ટ ફેક્ટરથી પગારમાં કેટલો વધારો થાય તે ખાસ સમજો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/8th-pay-commission-latest-update-government-employees-fitment-factor-proposals-489083 ",
+    "time": "2026-08-27T08:51:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ઓસ્ટ્રેલિયા શ્રેણી માટે ભારતીય ટીમની જાહેરાત, દ્રવિડ અને સહેવાગના પુત્રોને મળી તક",
+    "desc": "ભારતીય ક્રિકેટના બે પૂર્વ દિગ્ગજ બેટર વીરેન્દ્ર સહેવાગ અને રાહુલ દ્રવિડના પુત્રનું નસીબ ચમકી ગયું છે. આર્યવીર સહેવાગ અને અન્વય દ્રવિડ, બંનેને સપ્ટેમ્બર 2026મા ઓસ્ટ્રેલિયા વિરુદ્ધ રમાનારી એકદિવસીય સિરીઝ માટે ભારતની અન્ડર-19 ટીમમાં સામેલ કરવામાં આવ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/india-u19-squad-announced-for-australia-series-rahul-dravid-and-virender-sehwags-sons-included-489075 ",
+    "time": "2026-08-27T07:11:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "નેશનલ એવોર્ડ વિનર ગુજરાતી અભિનેત્રી માનસી પારેખ પણ કૈલાસ માનસરોવરની યાત્રાએ, પોસ્ટ શેર કરી જણાવ્યા હાલ",
+    "desc": "નેપાળમાં હાલ પરિસ્થિતિ ખુબ દર્દનાક અને વિનાશકારી જોવા મળી રહી છે. કૈલાશ માનસરોવરની યાત્રાએ ગયેલા અનેક ભારતીયો આ અચાનક આવેલા જળપ્રલયનોભ ભોગ બન્યા છે. ગુજરાતી અને હિન્દી ફિલ્મ અભિનેત્રી માનસી પારેખ પણ કૈલાસ માનસરોવરની યાત્રાએ ગયેલી છે. ઇશા ફાઉન્ડેશન સદગુરુના ગ્રુપ જોડે કૈલાસ માનસરોવરની યાત્રાએ માનસી ગઈ છે. જો કે માનસી પારેખે પોતે ચીનમા સુરક્ષિત હોવાની જાણકારી આપી. પરંતુ પાંચ દિવસ પહેલા જે જગ્યાએ તે હતા તે જગ્યા પાણીના ડુબી ગયા હોવાનું પણ જણાવ્યું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/nepal-flash-flood-manasi-parekh-mansarovar-yatra-shares-posts-489057 ",
+    "time": "2026-08-27T06:40:55.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "એક ફિલ્મ પછી અક્ષય-પ્રિયંકા એટલા નજીક આવી ગયા કે ટ્વિંકલ ખન્નાને છોડવું પડ્યું હતું ઘર, આ ફિલ્મ કઈ હતી અને શું થયું હતું જાણો",
+    "desc": "અક્ષય કુમાર અને પ્રિયંકા ચોપડા એક ફિલ્મ સાથે કર્યા પછી એટલા નજીક આવી ગયા હતા કે અક્ષયની પત્ની ટ્વિંકલ ખન્નાને ઘર છોડી દેવું પડ્યું હતું. જાણકારો તો એવું પણ કહે છે કે જો અક્ષય-પ્રિયંકાએ વધારે ફિલ્મો સાથે કરી હોત તો અક્ષયનું ઘર ભાંગી ગયું હોત. આ વાત તે સમયની છે જ્યારે પ્રિયંકા બોલીવુડમાં નવી નવી હતી. શું થયું હતું ત્યારે ચાલો જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/akshay-kumar-priyanka-chopra-get-closed-after-one-movie-suneel-darshan-reveal-akshay-kumar-affair-story-489066 ",
+    "time": "2026-08-27T06:13:12.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ગેસ સિલિન્ડરથી લઈને ATM ચાર્જ સુધી! 1 સપ્ટેમ્બરે થઈ શકે છે આ 7 મોટા ફેરફાર, લિસ્ટમાં શું-શું છે જાણો?",
+    "desc": "સપ્ટેમ્બર શરૂ થતાં જ ઘરના રસોડાનું બજેટ બગડી શકે છે અને તમારા ખિસ્સા પર બોજ વધી શકે છે. દર વખતની જેમ 1 સપ્ટેમ્બરે ગેસ સિલિન્ડર મોંઘા થઈ શકે છે. તો બીજી તરફ 1 સપ્ટેમ્બરથી લોકોને એરપોર્ટ પર બોર્ડિંગ પાસ પર સ્ટેમ્પ લગાવવાની જરૂર નહીં પડે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/1-september-rule-changes-gas-cylinder-atm-charge-gujarati-489061 ",
+    "time": "2026-08-27T05:41:47.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "નેપાળમાં મહાજળપ્રલય: મોતનો આંકડો 162 પર પહોંચ્યો, કોલકાતાના 32 લોકોના ગ્રુપ સહિત 130થી વધુ ભારતીયો ગૂમ",
+    "desc": "તિબ્બત તરફથી ભોટેકાશી નદીમાં અચાનક આવેલા વિનાશકારી સૈલાબે ઉત્તરી નેપાળના રસુવા જિલ્લામાં ભીષણ તબાહી મચાવી છે. આ આફતમાં મૃત્યુ પામનારાઓની સંખ્યા 162 પર પહોંચી ગઈ છે. જ્યારે 130થી વધુ ભારતીય નાગરિકો સહિત 1000થી વધુ લોકો હજુ પણ ગૂમ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/nepal-flash-flood-latest-update-death-toll-bhotekoshi-river-rasuwa-indian-tourist-missing-rescue-operation-489055 ",
+    "time": "2026-08-27T04:03:15.000Z"
+  },
+  {
     "cat": "World",
     "title": "પૂરની ખબર હતી છતાં ચૂપ રહ્યું ચીન ! જાણ કરી હોત તો બચાવી શકાયા હોત અનેક જીવ, શું છે 45 મિનિટના મૌનનો ખેલ ?",
     "desc": "ચીની મીડિયા અહેવાલો અનુસાર, તિબેટના કેરુંગ કાઉન્ટી વિસ્તારમાં ચીનના સમય મુજબ સવારે 10:30 વાગ્યે પૂર આવી ગયું હતું. આ સ્થાન નેપાળના પૂરગ્રસ્ત રાસુવા જિલ્લાથી આશરે 25-30 કિલોમીટર દૂર છે. ત્યારે સવાલ એ છે કે ચીનને ખબર હતી છતાં નેપાળને જાણ કેમ ના કરી ? શું ડ્રેગન જાણી જોઈને ચૂપ રહ્યું ?",
@@ -288,24 +405,6 @@ const newsData_gu = [
     "time": "2026-08-25T03:42:15.000Z"
   },
   {
-    "cat": "World",
-    "title": "ઓપરેશન સિંદૂર વખતે ઈરાને કોને સાથ આપ્યો હતો? પાકિસ્તાને ઉઠાવ્યો રાઝ પરથી પડદો",
-    "desc": "જમ્મુ કાશ્મીરના પહેલગામ વિસ્તારમાં નિર્દોષ પર્યટકોને મોતને ઘાટ ઉતારનારા આતંકીઓને તેમના ઘરમાં ઘૂસીને ઠેકાણે પાડવા ઓપરેશન સિંદૂર હાથ ધરાયું હતું. આ ઓપરેશન સિંદૂર માટે હવે એક મોટો દાવો પાકિસ્તાને કર્યો છે. ઈરાને યુદ્ધમાં કોને સાથ આપ્યો હતો તેના વિશે આ દાવો કરાયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/pakistan-big-claim-iran-gave-strong-support-to-pak-during-operation-sindoor-488789 ",
-    "time": "2026-08-25T03:11:15.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "અમેરિકાની નવી H-1B યોજના, 98 લાખથી વધુ ફીની તૈયારી; ભારતીયો પર થશે સીધી અસર",
-    "desc": "અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પે ગયા વર્ષે 2025માં H-1B વિઝા માટે અરજી કરનારાઓની ફી વધારીને એક લાખ ડોલર કરી દીધી હતી. તેમના આ નિર્ણય પર ભારે વિવાદ પણ થયો હતો અને હવે એક નવો નિર્ણય સામે આવ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/america-new-h-1b-scheme-preparation-for-fees-of-more-than-98-lakhs-will-have-a-direct-impact-on-indians-488769 ",
-    "time": "2026-08-24T17:58:41.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ત્રીજા દિવસે જ ખતમ થઈ જશે મેચ ? શ્રીલંકા પર મંડરાઈ રહ્યો છે મોટો ખતરો",
     "desc": "ભારત સામેની બીજી ટેસ્ટની પહેલી ઇનિંગમાં શ્રીલંકાની શરૂઆત ખૂબ જ ખરાબ રહી છે, શ્રીલંકાએ ફક્ત 8 રનના સ્કોર પર જ બે વિકેટ ગુમાવી દીધી છે. પરિસ્થિતિને જોતાં ત્રીજા દિવસનું પ્રથમ સેશન શ્રીલંકા માટે મહત્વપૂર્ણ રહેશે.",
@@ -378,15 +477,6 @@ const newsData_gu = [
     "time": "2026-08-24T09:10:51.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "કાશ્મીરી બ્રાહ્મણોને આતંકવાદીઓની ધમકી, નામ અને સરનામાં પર મોકલ્યા લેટર, લખ્યું: હદમાં રહો, દરેક હિલચાલ પર છે નજર",
-    "desc": "કાશ્મીરી બ્રાહ્મણોને આતંકવાદીઓએ ફરી ધમકાવવાનું શરૂ કરી દીધુ છે, આ વખતે ખુલ્લેઆમ ધમકાવવામાં આવ્યા છે અને નામ અને સરનારા પર ધમકી ભરેલા પત્રો મોકલવામાં આવ્યા છે, તે આતંકવાદી સંગઠન લશ્કર એ તૈયબાના ગ્રુપ દ્વારા જણાવવામાં આવ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/terrorists-threaten-kashmiri-brahmins-send-letters-on-their-names-and-addresses-know-488675 ",
-    "time": "2026-08-24T07:01:23.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ન વરસાદ ન ખરાબ રોશની, માત્ર 10 બોલમાં ટેસ્ટ મેચ ખતમ; ક્રિકેટ ઇતિહાસનો સૌથી નાનો મુકાબલો",
     "desc": "ઈંગ્લેન્ડ અને વેસ્ટ ઈન્ડિઝ વચ્ચે વર્ષ 2009મા એક ટેસ્ટ મેચ રમાઈ જે માત્ર 10 બોલમાં ખતમ થઈ ગઈ હતી. ટેસ્ટ ઈતિહાસનો આ અત્યાર સુધીનો સૌથી નાનો મુકાબલો છે. મેચ સમાપ્ત થવાનું કારણ વરસાદ કે ખરાબ પ્રકાશ નહોતું, પરંતુ મેચ રેફરીએ મેદાનને ખતરનાક ગણાવી મેચ રદ્દ કરવાનો નિર્ણય કર્યો હતો.",
@@ -403,15 +493,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/how-much-will-the-basic-pay-of-rs-18000-be-now-know-the-complete-math-of-fitment-factor-in-the-8th-pay-commission-488651 ",
     "time": "2026-08-24T04:13:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "મહારાષ્ટ્રના અમરાવતીમાં મોટી દુર્ધટના, મહિલા હોસ્પિટલના SNCUમાં લાગી ભીષણ આગ, ત્રણ નવજાત બાળકોના મોત",
-    "desc": "મહારાષ્ટ્રના અમરાવતી જિલ્લામાં મહિલા હોસ્પિટલના SNCU વોર્ડમાં ગઈકાલે મોડી રાત્રે આગ લાગી હતી, જેના કારણે મોટા પ્રમાણમાં ગભરાટ ફેલાયો હતો. આ ઘટનામાં ઓછામાં ઓછા ત્રણ નવજાત શિશુઓના મોત થયા છે. ફાયર ફાઇટર ઘટનાસ્થળે પહોંચ્યા હતા અને આગ પર કાબુ મેળવવાનો પ્રયાસ કર્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/major-accident-in-amravati-maharashtra-massive-fire-breaks-out-in-sncu-of-womens-hospital-three-newborns-die-488642 ",
-    "time": "2026-08-24T03:06:40.000Z"
   },
   {
     "cat": "Entertainment",
@@ -432,24 +513,6 @@ const newsData_gu = [
     "time": "2026-08-23T14:45:08.000Z"
   },
   {
-    "cat": "Business",
-    "title": "DA વધારા પછી સેલરી પર કેટલો લાગે છે ટેક્સ? 1 રૂપિયાની પણ ભૂલ પડી શકે છે ભારે, જાણો ITRના નિયમ",
-    "desc": "કેન્દ્ર સરકારના કર્મચારીઓ અને પેન્શનર્સ માટે DA (મોંઘવારી ભથ્થું) અને DR (મોંઘવારી રાહત) મોંઘવારી સામે રાહત આપતો ખૂબ જ મહત્ત્વનો ભાગ છે. પરંતુ DAને લઈને એક જરૂરી વાત એ છે કે, તે સંપૂર્ણપણે ટેક્સ-ફ્રી નથી. DAએ સેલરીનો જ એક ભાગ ગણવામાં આવે છે અને કર્મચારીની કુલ ટેક્સેબલ આવકમાં સામેલ થાય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/how-much-tax-is-levied-on-salary-after-da-increase-even-a-mistake-of-1-rupee-can-be-huge-know-itr-rules-488634 ",
-    "time": "2026-08-23T14:44:34.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "આ યોજનામાં કોઈપણ રિસ્ક વિના મળશે FD કરતા પણ વધુ વ્યાજ, RBIની આ સ્કીમ આપશે શાનદાર રિટર્ન! જાણો",
-    "desc": "જો તમે શેરબજારમાં રિસ્ક લીધા વગર અને FDના કરતા વધુ વ્યાજની અપેક્ષામાં અલગ સ્કીમ શોધી રહ્યા છો, તો RBIની આ સ્કીમ તમારા માટે ખાસ બની શકે છે. RBIની 'ફ્લોટિંગ રેટ સેવિંગ્સ બોન્ડ્સ' (Floating Rate Savings Bonds) સ્કીમ રોકાણકારો માટે એક સારો વિકલ્પ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/this-scheme-will-get-more-interest-than-fd-without-any-risk-this-scheme-of-rbi-will-give-great-returns-know-488632 ",
-    "time": "2026-08-23T13:49:43.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "યશસ્વી જયસ્વાલ પર લાગશે પ્રતિબંધ ? આ ભૂલ પડી શકે છે ભારે, જાણો શું છે સમગ્ર મામલો",
     "desc": "ટીમ ઈન્ડિયાના સ્ટાર ઓપનર યશસ્વી જયસ્વાલને ICC કાર્યવાહીનો સામનો કરવો પડી શકે છે. કોલંબોમાં રમાઈ રહેલી બીજી ટેસ્ટ મેચના પહેલા દિવસે આઉટ થયા બાદ તેનો શ્રીલંકાના બોલર અસિથા ફર્નાન્ડો સાથે ઝઘડો થયો હતો. બંને ખેલાડીઓ મેદાન પર બબાલ કરતા જોવા મળ્યા હતા. આ વિવાદાસ્પદ ઘટના બાદ જયસ્વાલ પર કડક સજાનો ખતરો મંડરાઈ રહ્યો છે.",
@@ -457,42 +520,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/yashasvi-jaiswal-in-threat-of-ban-after-headbutt-with-asitha-fernando-488625 ",
     "time": "2026-08-23T12:59:01.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "રસોઈ ગેસને લઈ મોટા ફેરફાર! સરકારે LPG કનેક્શન પર બનાવ્યો આ નવો નિયમ",
-    "desc": "સરકાર દેશના પાઇપલાઇન નેટવર્ક ધરાવતા વિસ્તારોમાં LPG સિલિન્ડરને બદલે PNG (પાઇપ્ડ નેચરલ ગેસ)ને પ્રોત્સાહન આપવાની તૈયારી કરી રહી છે. પેટ્રોલિયમ મંત્રાલયે રાજ્યો અને કેન્દ્રશાસિત પ્રદેશોને જિલ્લા સ્તરે નોડલ અધિકારીઓની નિમણૂક કરવા અને PNG કનેક્શન વધારવા માટે ગેસ કંપનીઓ સાથે કામ કરવા જણાવ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/big-change-regarding-cooking-gas-government-has-made-this-new-rule-on-lpg-connection-488624 ",
-    "time": "2026-08-23T12:20:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "સારાંશ જૈને રેડ બોલ ક્રિકેટ માટે છોડી હતી IPL ! કોચે જણાવી અંદરની વાત",
-    "desc": "મધ્યપ્રદેશ રણજી ટીમના હેડ કોચ ચંદ્રકાંત પંડિત કે જેમણે સારાંશ જૈનને નજીકથી રમતા જોયો છે અને તેની પ્રગતિમાં મુખ્ય ભૂમિકા ભજવી છે, તેમણે એક ઇન્ટરવ્યુમાં ખુલાસો કર્યો હતો કે સારાંશે તેના રેડ-બોલ ક્રિકેટ પર ધ્યાન કેન્દ્રિત કરવા માટે IPLમાં મળતી તક પણ જવા દીધી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/saransh-jain-left-ipl-to-play-test-cricket-coach-reveals-inside-story-488623 ",
-    "time": "2026-08-23T12:10:49.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "અમેરિકા-ઈરાનમાં ફરી થશે &amp;quot;મહાયુદ્ધ&amp;quot;? ટ્રમ્પે જાહેર કર્યો હોર્મુઝનો નવો મેપ, નવા પ્રતિબંધો પર ઈરાનની ધમકી",
-    "desc": "હોર્મુઝ સ્ટ્રેટ પર ઈરાન અને અમેરિકા વચ્ચેનો વિવાદ વધુ વકર્યો છે. આ મુદ્દો હવે ડોનાલ્ડ ટ્રમ્પના નવા મેપ અને ઈરાન પર લગાવવામાં આવી રહેલા આર્થિક પ્રતિબંધો પર કેન્દ્રિત છે, જેના પર ઈરાને સીધી ધમકી આપી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/will-a-war-break-out-again-between-america-and-iran-trump-releases-new-map-of-hormuz-iran-threatens-new-sanctions-488622 ",
-    "time": "2026-08-23T12:00:56.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "US-ભારત ટ્રેડ ડીલ પર નવું અપડેટ, ઓક્ટોબરમાં સમજુતી ફાઇનલ કરવા આવશે રુબિયો; શું બોલ્યા સર્જિયો ગોર?",
-    "desc": "ભારત અને અમેરિકા વચ્ચે લાંબા સમયથી ચાલી રહેલી ટ્રેડ ડીલ હવે અંતિમ તબક્કામાં પહોંચી ગઈ છે. અમેરિકાના રાજદૂત સર્જિયો ગોરના જણાવ્યા અનુસાર, ડીલના મોટાભાગના ભાગો પર સહમતિ બની ચૂકી છે અને હવે કાનૂની તથા ટેકનિકલ ભાષાને આખરી ઓપ આપવામાં આવી રહ્યો છે. આ દરમિયાન અમેરિકાના વિદેશ મંત્રી માર્કો રુબિયો ઓક્ટોબરમાં ફરીથી ભારતની મુલાકાતે આવશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/new-update-on-us-india-trade-deal-rubio-will-come-to-finalize-the-agreement-in-october-what-did-sergio-gore-say-488599 ",
-    "time": "2026-08-23T11:13:23.000Z"
   },
   {
     "cat": "Entertainment",
@@ -511,15 +538,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/the-iphone-stubbornness-destroyed-the-entire-family-why-is-there-such-a-craze-among-people-488586 ",
     "time": "2026-08-23T09:38:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "મેદાન પર જ યશસ્વી જયસ્વાલનો શ્રીલંકાના બોલર સાથે ઝઘડો... ધક્કામુક્કી પર આવી ગયો મામલો",
-    "desc": "શ્રીલંકા સામેની બીજી ટેસ્ટની પહેલી ઇનિંગમાં યશસ્વી જયસ્વાલ 45 રન બનાવીને આઉટ થયો હતો. ડ્રેસિંગ રૂમમાં પાછા ફરતા પહેલા તેનો શ્રીલંકાના બોલર અસિથા ફર્નાન્ડો સાથે શાબ્દિક બોલાચાલી થઈ હતી અને પરિસ્થિતિ ધક્કામુક્કી સુધી પહોંચી ગઈ હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-sl-2nd-test-yashasvi-jaiswal-fight-with-sri-lankan-bowler-asitha-fernando-488574 ",
-    "time": "2026-08-23T08:51:41.000Z"
   },
   {
     "cat": "Entertainment",
@@ -583,68 +601,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/21-august-friday-ott-release-movies-and-web-series-488276 ",
     "time": "2026-08-20T14:14:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "મોંઢામાં ડૂચો અને બહેનના હાથ બાંધેલા હતા, પિતાએ ૧ રૂપિયામાં બહેનને વેચી દીધી, કંગનાનો દર્દનાક ખુલાસો",
-    "desc": "એક્ટ્રેસ કંગના શર્માએ હાલમાં જ એક પોડકાસ્ટમાં જણાવ્યું છે કે એનું બાળપણ ખૂબ જ તકલીફોમાં ગયું છે. કંગનાએ કહ્યું કે એમના પિતાએ બહેનને એક રૂપિયામાં વેચી મારી હતી, એના લગ્ન થયા હતા એ પરિવાર વેશ્યાવૃત્તિનો ધંધો કરતો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/tied-up-with-cloth-in-mouth-father-sold-my-sister-for-re-1-actress-kangna-sharmas-heartbreaking-revelation-488264 ",
-    "time": "2026-08-20T11:59:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ધુરંધર અને એનિમલ ફિલ્મ કરતાં પણ ખતરનાક છે યશની ફિલ્મ ટોક્સિક, એક્શન અને બોલ્ડ સીનમાં 5 સ્ટાર રેટિંગ",
-    "desc": "યશની ફિલ્મ ટોક્સિક રિલીઝ થાય તે પહેલા જ ઈંટરનેટ પર છવાઈ ગઈ છે. ટોક્સિક ફિલ્મ એનિમલ અને ધુરંધર કરતાં પણ એક્શન અને બોલ્ડ સીનમાં આગળ છે. ડાર્ક થીમ અને બોલ્ડ કંટેન્ટના કારણે ફિલ્મને યૂકે સેંસર બોર્ડે 18 પ્લસ સર્ટિફિકેટ આપ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/toxic-movie-uk-censor-board-toxic-movie-run-time-18-plus-certificate-488245 ",
-    "time": "2026-08-20T08:08:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "શા માટે દીકરા સાથે સુનીતા આહૂજા પહોંચી ફેમેલી કોર્ટ ? સાચું કારણ આવ્યું સામે",
-    "desc": "ગોવિંદા અને સુનીતા આહૂજાની લડાઈ કેમેરા સામે થયા પછી સુનીતા આહૂજા પહેલીવાર ફેમેલી કોર્ટમાં જોવા મળી હતી. આ સમયે તેનો દીકરો તેની સાથે જોવા મળ્યો હતો. સુનીતા આહુજા કોર્ટમાં શા માટે ગઈ હતી તેનું કારણ પણ સામે આવ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/why-sunita-ahuja-went-family-court-govinda-sunita-ahuja-divorce-notice-488177 ",
-    "time": "2026-08-19T11:44:29.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "35 રૂપિયામાં 153 KM... લોકો આ સ્કૂટરના બન્યા દીવાના, વેચાણમાં 307%નો ઉછાળો",
-    "desc": "ચેતક બજાજ માટે એક શાનદાર પ્રોડક્ટ સાબિત થઈ રહી છે. ઇલેક્ટ્રિક અવતારમાં લોન્ચ થયા પછી આ ઇલેક્ટ્રિક સ્કૂટરનું વેચાણ સતત વધી રહ્યું છે. જુલાઈ મહિનો સ્કૂટર માટે શાનદાર મહિનો હતો. કારણ કે, ગયા વર્ષના જુલાઈની સરખામણીમાં વેચાણમાં 307 ટકાનો વધારો થયો હતો. જૂનની સરખામણીમાં જુલાઈમાં પણ વેચાણમાં વધારો થયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/bajaj-chetak-electric-scooter-july-2026-sales-know-price-and-range-488175 ",
-    "time": "2026-08-19T11:25:46.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "કારનું એન્જિન ઓઈલ ખરાબ છે કે નહીં? 5 મિનિટમાં આ રીતે કરો ચેક, બદલવાની રીત પણ જાણો",
-    "desc": "કારના એન્જિનની લાંબી ઉંમર અને સારા પરફોર્મંસ માટે યોગ્ય એન્જિન ઓયલ ખુબ જરૂરી છે. પરંતુ શું તમે જાણો છો કે ખરાબ કે ઓછું ઓયલ એન્જિનને ગંભીર નુકસાન પહોંચાડી શકે છે? આ સમાચારમાં અમે તમને ઓયલ ચેક કરવાની પદ્ધતિ અને બદલવાની રીત જણાવીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/is-your-cars-engine-oil-spoiled-check-in-5-minutes-and-learn-the-replacement-process-488170 ",
-    "time": "2026-08-19T10:48:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "અભિનેત્રી આયેશા ખાને સગાઈ કરી કે જ્વેલરીનું પ્રમોશન કરે છે ! તમને શું લાગે છે ?",
-    "desc": "અભિનેત્રી આયેશા ખાને સોશિયલ મીડિયા માથે લીધું છે. તેણે ઈંસ્ટાગ્રામ પર કેટલાક ફોટો શેર કર્યા છે જેમાં તે પોતાની સગાઈની રીંગ દેખાડે છે. હવે કેટલાક લોકોને લાગે છે કે તેણે ખરેખર સગાઈ કરી છે અને કેટલાક લોકો આ ફોટોને જ્વેલરીનું પ્રમોશન ગણે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/ayesha-khan-flaunt-engagement-ring-ayesha-khan-engagement-news-is-true-or-not-488160 ",
-    "time": "2026-08-19T09:30:43.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ભૂલી જશો ટાટા-મહિન્દ્રાની કાર, Hyundai એ નવી Tucson પરથી ઉઠાવ્યો પડદો, જાણો",
-    "desc": "હાલમાં ગ્રાહકો બજારમાં TATA અને મહિન્દ્રાએ મોટી અને બોલ્ડ ગાડી ખરીદી રહ્યા છે, SUV ગાડીઓ તરફ ગ્રાહકો આગળ વધી રહ્યા છે. ત્યારે હ્યુન્ડાઇએ માર્કેટમાં નવી ગાડી લોન્ચ કરી છે, હ્યુન્ડાઇએ ટક્સન ગાડી માર્કેટમાં લોન્ચ કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/forget-tata-mahindra-cars-hyundai-unveils-new-tucson-know-more-details-488149 ",
-    "time": "2026-08-19T07:48:20.000Z"
   }
 ];
