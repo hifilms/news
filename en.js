@@ -1,5 +1,302 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "'Bethlehem Kudumba Unit' BO day 6 vs 'Khalifa'",
+    "desc": "Bethlehem Kudumba Unit earned over 109 crore worldwide after six days. The family drama maintained strong occupancy rates across its screenings. Meanwhile, Khalifa showed growth in its collections on its seventh day. The action thriller has reached 35.78 crore globally. Both films continue their theatrical runs with notable box office figures.",
+    "img": "https://static.toiimg.com/photo/msid-133553303,imgsize-377713.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/bethlehem-kudumba-unit-box-office-collections-day-6-vs-khalifa-nivin-paulys-film-holds-steady-at-rs-7-90-crore-worldwide-gross-reaches-rs-109-40-crore/articleshow/133553297.cms",
+    "time": "2026-08-27T00:19:37.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "JSW and SAIC discuss capital infusion to scale MG capacity",
+    "desc": "Tomahawk, the first MG SUV on the multi-powertrain ADAPT platform, will anchor the C-SUV strategy for seven-eight years, while Windsor anchors SUV-B. Both models are targeted to reach 70% localisation by 2027, with localisation rising 2-3 percentage points monthly. Jindal declined to say whether the additional funding by shareholders in MG Motor would alter the shareholders’ stakes.",
+    "img": "https://static.toiimg.com/photo/msid-133553251,imgsize-99955.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/jsw-and-saic-discuss-capital-infusion-to-scale-mg-capacity/articleshow/133553118.cms",
+    "time": "2026-08-27T00:00:55.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Are IT cos simply raising capacity or adding value?",
+    "desc": "are these deals about acquiring capabilities or simply adding to their capacity? The strategy is driven partly by the need to grow contract values as organic revenue expansion slows for Indian IT companies and artificial intelligence reshapes traditional technology spending. The strategy is not entirely new.",
+    "img": "https://static.toiimg.com/photo/msid-133553198,imgsize-58934.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/are-it-cos-simply-raising-capacity-or-adding-value/articleshow/133553117.cms",
+    "time": "2026-08-26T23:55:24.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "At 18k, India sees most mobile threat detections in 8 Apac markets: Report",
+    "desc": "Across the eight Apac markets studied, the average number of mobile threat detections per affected user increased 49% year-on-year to 7.3 in the first quarter, from 4.9 a year earlier. The increase came even as the overall number of users encountering threats declined, suggesting that cybercriminals are concentrating their efforts on a smaller set of targets and attacking them more repeatedly.",
+    "img": "https://static.toiimg.com/photo/msid-133553172,imgsize-119642.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/at-18k-india-sees-most-mobile-threat-detections-in-8-apac-markets-report/articleshow/133553116.cms",
+    "time": "2026-08-26T23:46:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Miley Cyrus recalls final conversations with 'Aunt' Dolly Parton",
+    "desc": "Miley Cyrus shared an emotional tribute to her beloved \"aunt\" Dolly Parton. She expressed that their most sacred moments were private and will remain so. Cyrus stated Dolly Parton would want her to feel grief and then continue on. Parton, who was Miley's godmother, died at age 80 after battling cancer. The legendary singer had a close bond with Miley's father, Billy Ray Cyrus.",
+    "img": "https://static.toiimg.com/photo/msid-133553139,imgsize-451807.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/miley-cyrus-pays-emotional-tribute-to-aunt-dolly-parton-i-will-always-love-her-and-want-to-make-her-proud/articleshow/133553087.cms",
+    "time": "2026-08-26T23:40:23.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Foxconn looks for land parcel, Gujarat on radar",
+    "desc": "According to top sources in govt, Foxconn executives have surveyed the plot of land near Sanand and the company will take a call on finalising the location in the coming weeks. “The company intends to set up a mobile phone and other high-end electronics manufacturing plant,” a senior state govt official said, clarifying that Gujarat is not the only state being considered by the company for the new project.",
+    "img": "https://static.toiimg.com/photo/msid-133553101,imgsize-149922.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/foxconn-looks-for-land-parcel-gujarat-on-radar/articleshow/133552997.cms",
+    "time": "2026-08-26T23:32:44.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India emerges as highest-performing market for Nestle",
+    "desc": "“Emerging markets are driving growth for Nestlé across the board and India is leading the pack,” Nestle’s global CEO Philipp Navratil said in his first visit to the country, after taking the helm in Sept last year. At present, India is among its top 10 markets, and the potential to move up is “on the horizon’”, he said.",
+    "img": "https://static.toiimg.com/photo/msid-133553093,imgsize-55850.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-emerges-as-highest-performing-market-for-nestle/articleshow/133552995.cms",
+    "time": "2026-08-26T23:28:57.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Uniqlo looks for expansion, to open more India outlets",
+    "desc": "Goyal said there is interest on both sides in growing textiles trade. While Indian textiles players were unable to crack the Japanese market for several years due to low interest level, but some headway has been made as homegrown players now understand the requirements better in terms of understanding the quality and styles required here.",
+    "img": "https://static.toiimg.com/photo/msid-133553083,imgsize-24346.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/uniqlo-looks-for-expansion-to-open-more-india-outlets/articleshow/133552993.cms",
+    "time": "2026-08-26T23:25:45.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Goods exports rise 15%+, top $200 billion",
+    "desc": "Latest available data estimated exports during the third week of Aug at over $25 billion, a senior official said, on the condition of anonymity. Commerce and industry minister Piyush Goyal has set an ambitious target of goods and services exports reaching the $1-trillion mark for the first time. Exports have been driven by petroleum products.",
+    "img": "https://static.toiimg.com/photo/msid-133553068,imgsize-218896.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/goods-exports-rise-15-top-200-billion/articleshow/133552992.cms",
+    "time": "2026-08-26T23:20:30.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Sugar leaves bitter taste as retailers impose caps",
+    "desc": "The closing stock for sugar season 2026 (runs from Oct to Sept) is estimated at 3.9 MMT, about 25% lower than the previous year and 40% below the five-year average of 6.5 MMT, analysts at Crisil Intelligence said in a note, prompting govt to allow import of 10 lakh tonnes of raw sugar, the first such move in a decade.",
+    "img": "https://static.toiimg.com/photo/msid-133552991,imgsize-95202.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/sugar-leaves-bitter-taste-as-retailers-impose-caps/articleshow/133552991.cms",
+    "time": "2026-08-26T23:18:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "T.N. pilgrims stranded in Nepal; officials coordinating steps to rescue them",
+    "desc": "As per initial information, the pilgrims were on board three vehicles and occupants of one of the vehicles have taken refuge in a Armed Police Force outpost at Timure, about 150 km north of Kathmandu",
+    "img": "https://th-i.thgim.com/public/incoming/v58t77/article71394181.ece/alternates/LANDSCAPE_1200/2026-08-26T170828Z_1689808418_RC2E6NAJGRDA_RTRMADP_3_NEPAL-FLOODS.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/nepal-flash-flood-pilgrims-from-tamil-nadu-stranded/article71392163.ece",
+    "time": "2026-08-26T23:02:45.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India wants to review, expand 15-year-old trade pact with Japan",
+    "desc": "India has been seeking a review of the agreement for several years but the Japanese side was holding out. A breakthrough of sorts was achieved last month when Prime Ministers of both countries said the two sides should discuss the pact and make it more contemporary. Bilateral trade between the two countries was pegged at $27.5 billion, with India’s exports estimated at $6 billion.",
+    "img": "https://static.toiimg.com/photo/msid-133553017,imgsize-97238.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-wants-to-review-expand-15-year-old-trade-pact-with-japan/articleshow/133552983.cms",
+    "time": "2026-08-26T22:59:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rupert Grint RETURNS as Ron Weasley in 'Harry Potter' Broadway play",
+    "desc": "Rupert Grint will reprise his role as Ron Weasley on Broadway. He joins the \"Harry Potter and the Cursed Child\" play next year. Grint will perform at the Lyric Theatre from February 2027. This marks the second film cast member to join the stage production. The play continues the story nineteen years after the final novel.",
+    "img": "https://static.toiimg.com/photo/msid-133553019,imgsize-581480.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/rupert-grint-to-return-as-ron-weasley-actor-joins-harry-potter-and-the-cursed-child-broadway-play/articleshow/133552955.cms",
+    "time": "2026-08-26T22:59:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Nora breaks down recalling feeling ‘traumatised’ during Sukesh controversy",
+    "desc": "Nora Fatehi broke down while recalling the emotional toll of the Sukesh Chandrasekhar controversy, revealing that she felt “alone” and “traumatised” during the difficult period. She said the controversy affected her career, costing her brands and work opportunities, while false narratives about her personal life continued to follow her. Nora said only a few people know her real story.",
+    "img": "https://static.toiimg.com/photo/msid-133553004,imgsize-92431.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nora-fatehi-breaks-down-recalling-feeling-traumatised-and-alone-during-sukesh-chandrasekhar-controversy-i-lost-a-lot-of-work-nobody-knows-the-truth-about-my-personal-life/articleshow/133552994.cms",
+    "time": "2026-08-26T22:52:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Over 61,000 wait for kidney transplants",
+    "desc": "The committee on health and family welfare has recommended that kidney transplant facilities be expanded to at least three govt medical colleges in large states and one in every small state and UT, besides setting time-bound targets to increase organ retrieval centres and transplant infrastructure, particularly in underserved and hilly regions.",
+    "img": "https://static.toiimg.com/photo/msid-133552964,imgsize-157232.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/over-61000-wait-for-kidney-transplants/articleshow/133551119.cms",
+    "time": "2026-08-26T22:30:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Caste count method in Census ‘misleading’: Congress letter to PM",
+    "desc": "“We don’t approve of the caste census being done through this methodology. Govt should cancel the present questionnaire and prepare a fresh one through consultations with political parties, experts, and the public so that a correct headcount of every caste and community is collected and the caste census is precise, relevant, and beneficial,” it said.",
+    "img": "https://static.toiimg.com/photo/msid-133552954,imgsize-850802.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/caste-count-method-in-census-misleading-congress-letter-to-pm/articleshow/133551118.cms",
+    "time": "2026-08-26T22:26:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Jhooth ki goonj’ site ‘fact-checks’ Rahul’s student meet claims",
+    "desc": "The digital counterpunch against Rahul’s campaign obviously complements BJP’s efforts, but the party has denied any association with the website. The website itself makes no direct mention of the people behind it, but as it trended on social media, some attributed its creation to “nationalist researchers” and Gen Z-ers, the very generation Rahul is targeting in his hops across cities.",
+    "img": "https://static.toiimg.com/photo/msid-133552947,imgsize-85390.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jhooth-ki-goonj-site-fact-checks-rahuls-student-meet-claims/articleshow/133551117.cms",
+    "time": "2026-08-26T22:23:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Dissidents push for Hindu Pradesh Congress Committee chief to end Punjab crisis",
+    "desc": "A group of dissidents that includes senior netas like Charanjit Channi and Sukhjinder Randhawa has been seeking the replacement of state chief Amarinder Raja Warring ever since the AICC announced a clutch of poll-related panels while sticking with Warring at the helm two months ago. Now, sources said, the dissidents themselves have proposed that a Hindu Pradesh Congress Committee (PCC) chief be appointed.",
+    "img": "https://static.toiimg.com/photo/msid-133551992,imgsize-76360.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/dissidents-push-for-hindu-pradesh-congress-committee-chief-to-end-punjab-crisis/articleshow/133551116.cms",
+    "time": "2026-08-26T22:19:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Indian Tea Association issues white paper on Darjeeling & Dooars Tea Industry seeks revival packages",
+    "desc": "The white paper on Darjeeling highlights the sharp decline in production—from 14.49 million kg in 1990 to 5.6 million kg in 2025 while the paper on Dooars & Terai Tea Industry points out at a market asymmetry between small tea growers and organised tea estates",
+    "img": "https://th-i.thgim.com/public/incoming/lxddox/article71394171.ece/alternates/LANDSCAPE_1200/20260507005L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/indian-tea-association-issues-white-paper-on-darjeeling-dooars-tea-industry-seeks-revival-packages/article71392761.ece",
+    "time": "2026-08-26T22:09:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Blake awarded just USD 400K of USD 8 million claim",
+    "desc": "Blake Lively received over $400,000 in legal costs from Justin Baldoni after their film dispute. A federal judge ruled on the settlement, limiting Lively's recovery of fees. The decision cited California law protecting against retaliatory lawsuits for sexual harassment claims. Lawyers for both actors claimed victory in the significant court battle. This ruling sets a precedent for future cases involving similar legal actions.",
+    "img": "https://static.toiimg.com/photo/msid-133551142,imgsize-421942.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/blake-lively-awarded-just-usd-400000-of-usd-8-million-legal-fees-she-sought-in-it-ends-with-us-legal-battle-with-justin-baldoni/articleshow/133551108.cms",
+    "time": "2026-08-26T22:08:37.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Centre puts Bihar &amp; UP on high alert as NDRF deploys teams",
+    "desc": "“Govt of India stands with Nepal in this hour of crisis. I spoke with CMs of Bihar and UP regarding the disaster in Nepal. In border areas likely to be affected, local administration and rescue teams, along with NDRF, have been placed on high alert,” Shah said on X, expressing condolences to families of those who lost their loved ones in the disaster.",
+    "img": "https://static.toiimg.com/photo/msid-133551181,imgsize-193128.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/nepal-flood-centre-puts-bihar-up-on-high-alert-as-ndrf-deploys-teams/articleshow/133551115.cms",
+    "time": "2026-08-26T22:05:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Home Alone 2' star Tim Curry passes away at 80",
+    "desc": "Acclaimed actor Tim Curry, known for his iconic roles, has died at age 80. He created memorable characters like Dr. Frank-N-Furter and the concierge in Home Alone 2. Curry earned multiple award nominations for his diverse stage and screen performances. His career began in England and spanned decades of memorable acting work. He was celebrated for his unique humor and distinctive vocal talent.",
+    "img": "https://static.toiimg.com/photo/msid-133550914,imgsize-337353.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tim-curry-iconic-character-actor-and-home-alone-2-star-passes-away-at-80/articleshow/133550895.cms",
+    "time": "2026-08-26T21:26:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "160 killed in deadly Nepal deluge; at least 133 Indians among 844 missing",
+    "desc": "Nepal Police put the toll at 157, while Chinese authorities reported three deaths and 265 people missing in Tibet’s Gyirong county. Nepal Police said 579 others — 466 foreigners from 28 countries and 113 Nepalis — remained untraced, including at least 133 Indians. Among the missing were at least 37 NRIs. Frighteningly, as many as 33 bodies were found 150km downstream at Chitwan, showing how far the dea-dly waters carried victims.",
+    "img": "https://static.toiimg.com/photo/msid-133550897,imgsize-276624.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/160-killed-in-deadly-nepal-deluge-at-least-133-indians-among-844-missing/articleshow/133550897.cms",
+    "time": "2026-08-26T21:20:43.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Root angered by England’s off-field ‘stupid mistakes’",
+    "desc": "Brydon Carse has been referred to the Cricket Regulator after videos on social media appeared to show the fast bowler being led away by police in handcuffs following an incident at a nightclub in Derby",
+    "img": "https://th-i.thgim.com/public/incoming/shr9o/article71394037.ece/alternates/LANDSCAPE_1200/2026-08-21T132708Z_1429238979_UP1EM8L11D6P4_RTRMADP_3_CRICKET-TEST-ENG-PAK.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/root-angered-by-englands-off-field-stupid-mistakes/article71394035.ece",
+    "time": "2026-08-26T21:12:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Govt",
+    "desc": "UN Committee on the Elimination of Racial Discrimination had “highlighted” in a report the increase in law enforcement operations targeting “Rohingya, Bengali-speaking Muslims, migrants and asylum-seekers, particularly following the 2017 home affairs order and the April 2025 Pahalgam attack in Kashmir”. Ministry of external affairs spokesperson Randhir Jaiswal said, “India rejects any politically motivated, highly malicious references in the report with all the contempt that it deserves.”",
+    "img": "https://static.toiimg.com/photo/msid-133550867,imgsize-46666.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/un-panel-report-on-minorities-is-politically-motivated-govt/articleshow/133550726.cms",
+    "time": "2026-08-26T21:02:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "3 lakh tonnes of refined sugar to enter market",
+    "desc": "Govt had allowed duty-free import of 10 lakh tonnes of raw sugar and also allowed the processors to sell some refined sugar, which was meant for export only, in the domestic market. Officials and industry insiders said at least 3 lakh tonnes of processed sugar could come into the market quickly. The subsequent import of 10 lakh tonnes of raw sugar will help tide over any supply issue. Meanwhile, the ex-mill price of sugar has gone down by 20% in the past 10 days.",
+    "img": "https://static.toiimg.com/photo/msid-133550862,imgsize-175264.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/3-lakh-tonnes-of-refined-sugar-to-enter-market/articleshow/133550725.cms",
+    "time": "2026-08-26T21:00:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "As obesity rises, Supreme Court puts govt on notice over junk food labels",
+    "desc": "The order, in response to a PIL filed by NGO ‘3S and Our HEALTH Society’ which moved SC through advocate Rajiv Shankar Dvivedi, comes as govt has seemed reluctant to implement front-of-pack warning labels on junk food. SC said food with high salt, sugar, saturated fat and calories could lead to health risks and clearer nutrition information must be displayed to help to make healthier choices.",
+    "img": "https://static.toiimg.com/photo/msid-133550850,imgsize-108922.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/as-obesity-rises-supreme-court-puts-govt-on-notice-over-junk-food-labels/articleshow/133550724.cms",
+    "time": "2026-08-26T20:56:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Six arrested in Drug Inspector paper leak case",
+    "desc": "The MPSC had cancelled the recruitment process for Drug Inspector, Group-B posts in the Food and Drug Administration on August 26 after a preliminary inquiry into irregularities in the screening test held on March 22, 2026",
+    "img": "https://th-i.thgim.com/public/news/national/nmah9d/article71394031.ece/alternates/LANDSCAPE_1200/iStock-1323017775.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/six-arrested-in-drug-inspector-paper-leak-case/article71393794.ece",
+    "time": "2026-08-26T20:45:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court judge seeks transfer of Rajasthan High Court acting Chief Justice, CJI says allegations can’t be treated as a finding",
+    "desc": "CJI Surya Kant says that the matter is being examined at the appropriate level and that the process will take into account the material placed by Justice Mehta as well as the response of Justice Sharma",
+    "img": "https://th-i.thgim.com/public/incoming/ucuezt/article71391814.ece/alternates/LANDSCAPE_1200/Untitled%20design%202.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/supreme-court-judge-letters-transfer-of-rajasthan-hc-acting-chief-justice-cji-ignored-appeals/article71391629.ece",
+    "time": "2026-08-26T20:32:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Centre to tighten headlamp norms",
+    "desc": "The road transport ministry has proposed these changes, along with the mandatory provision for buses and other heavy vehicles to use genuine reflective tapes to improve visibility at night and in bad weather, through draft amendments to Central Motor Vehicles Rules. Amendments in automotive vehicle standards are being made because efforts to persuade drivers and make them aware of the need to use low-beam mode have not yielded desired results.",
+    "img": "https://static.toiimg.com/photo/msid-133550781,imgsize-188644.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/low-beam-by-default-centre-to-tighten-headlamp-norms/articleshow/133550723.cms",
+    "time": "2026-08-26T20:23:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ahead of Xi Jinping’s visit, India &amp; China announce 8-point consensus",
+    "desc": "These included advancing consultations for an “early and substantial harvest” of boundary delimitation, setting up more meeting points and hotlines to improve border management, improving understanding of LAC and addressing the ground situation through diplomatic and military engagements, and expanding trans-border trade and river cooperation. The consensus was announced in a rare joint statement after the talks.",
+    "img": "https://static.toiimg.com/photo/msid-133550764,imgsize-70036.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ahead-of-xi-jinpings-visit-india-china-announce-8-point-consensus/articleshow/133550720.cms",
+    "time": "2026-08-26T20:19:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SC judge complains against Raj acting CJ; CJI Surya Kant seeks response",
+    "desc": "ustice Mehta, who also hails from Rajasthan HC, has accused Justice Sharma of lacking in leadership qualities and alleged there was maladministration and malpractice on both judicial and administrative sides of HC. CJI Kant told TOI that the matter can be resolved only as per the established mechanism. “The Supreme Court cannot allow individual complaints concerning judges to be determined through competing claims in the media,” he said.",
+    "img": "https://static.toiimg.com/photo/msid-133550750,imgsize-101080.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sc-judge-complains-against-raj-acting-cj-cji-surya-kant-seeks-response/articleshow/133550719.cms",
+    "time": "2026-08-26T20:14:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "When public transport paves the way for Chennai’s development",
+    "desc": "From operating one of India’s earliest train and tramcar services to nationalising public transport in 1947, Chennai has been a trendsetter in the public transport scene. Today, residents can choose from suburban, MTC, MRTS and Metro Rail services",
+    "img": "https://th-i.thgim.com/public/incoming/mkkhpa/article71393968.ece/alternates/LANDSCAPE_1200/AFP_C3KM4ZQ.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/madras-day-2026-when-public-transport-paves-the-way-for-chennai-development/article71387406.ece",
+    "time": "2026-08-26T19:59:58.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Wireless communication picked up; search operation launched in J&amp;K's Samba",
     "desc": "“Terrorists often switch off such communication devices after contacting their handlers across the border,” said a source, adding that Iridium sets can be used on smartphones through the “Iridium GO!” mobile application, which creates a local Wi-Fi network that an iOS or Android phone can connect to. The operation continued until late Tuesday, but no satellite set or other suspicious material was found.",
@@ -37,15 +334,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "T.N. pilgrims stranded in Nepal; officials coordinating steps to rescue them",
-    "desc": "CM expresses shock over the devastating flash floods, and orders speedy and coordinated rescue efforts. Govt. announces helpline numbers. Founder of Isha Foundation Sadhguru Jaggi Vasudev says 148 people, who were part of a trip the foundation had organised, are in Nepal",
-    "img": "https://th-i.thgim.com/public/incoming/fyjaio/article71393759.ece/alternates/LANDSCAPE_1200/AP08_26_2026_000254B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-pilgrims-stranded-in-nepal-officials-coordinating-steps-to-rescue-them/article71393579.ece",
-    "time": "2026-08-26T18:35:35.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "5.2 kg heroin seized in Jammu, NCB busts Pakistan network; 3 held",
     "desc": "“Preliminary investigation led NCB to another resident of Baramulla, the suspected mastermind. He was traced and arrested in Leh on Aug 24. The seized drug, suspected to have been smuggled from Pakistan, entered India through the Uri border sector,” the NCB official said. “The probe will identify cross-border suppliers, financial links, transporters, local associates, and the intended distribution network,” the spokesperson added.",
     "img": "https://static.toiimg.com/photo/msid-133548765,imgsize-765295.cms",
@@ -79,15 +367,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-quashes-charges-against-kodagu-homestay-owner-in-us-national-rape-case/article71392619.ece",
     "time": "2026-08-26T17:39:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SC judge seeks transfer of Rajasthan HC Acting Chief Justice, CJI says allegations can’t be treated as a finding",
-    "desc": "CJI Surya Kant says that the matter is being examined at the appropriate level and that the process will take into account the material placed by Justice Mehta as well as the response of Justice Sharma",
-    "img": "https://th-i.thgim.com/public/incoming/ucuezt/article71391814.ece/alternates/LANDSCAPE_1200/Untitled%20design%202.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/supreme-court-judge-letters-transfer-of-rajasthan-hc-acting-chief-justice-cji-ignored-appeals/article71391629.ece",
-    "time": "2026-08-26T17:05:23.000Z"
   },
   {
     "cat": "Entertainment",
@@ -205,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/im-retired-bro-world-chess-champion-d-gukeshs-cheeky-reply-to-troll-gets-unexpected-twist/articleshow/133544842.cms",
     "time": "2026-08-26T15:54:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Modi calls Nepal PM, promises ‘all possible assistance’ after devastating flash flood",
-    "desc": "The Indian Air Force will deploy two aircraft carrying relief material to Nepal, sources said. A C-130 aircraft carrying relief supplies is scheduled to depart from Hindon Air Base late Wednesday night, while a C-17 aircraft carrying additional relief material is expected to leave for Nepal on Thursday morning",
-    "img": "https://th-i.thgim.com/public/incoming/7w9ao9/article71392866.ece/alternates/LANDSCAPE_1200/20260402010L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/nepal-floods-pm-modi-speaks-to-balendra-shah-offers-humanitarian-assistance/article71392806.ece",
-    "time": "2026-08-26T15:47:50.000Z"
   },
   {
     "cat": "Sports",
@@ -351,15 +621,6 @@ const newsData_en = [
     "time": "2026-08-26T13:10:05.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Why Nishad vote matters in Uttar Pradesh 2027 battle",
-    "desc": "A fish controversy in Uttar Pradesh has highlighted the Nishad community's political significance. This community's vote has shifted loyalties and remains a key factor for parties. The BJP seeks to retain its OBC coalition while opposition parties try to gain support. Nishad leaders have historical ties to epic narratives and social justice movements. The 2027 elections will test alliances and demands for representation and livelihoods.",
-    "img": "https://static.toiimg.com/photo/msid-133542141,imgsize-650166.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/beyond-ayodhya-and-fish-row-why-nishad-vote-matters-in-up-elections-2027/articleshow/133540486.cms",
-    "time": "2026-08-26T13:04:27.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "A hold, the choke and then the frustrating close",
     "desc": "India endured a frustrating day in Colombo, allowing Sri Lanka's Pasindu Sooriyabandara and Kamindu Mendis to dictate terms before three late wickets gave the visitors a foothold. With rain cutting the day short, Sonal Dinusha remains the last major hurdle between India and a series clean sweep.",
@@ -405,15 +666,6 @@ const newsData_en = [
     "time": "2026-08-26T12:40:59.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Nivin Pauly expresses his disappointment ‘Benz’ shoot delay",
-    "desc": "Actor Nivin Pauly is currently in limbo as he awaits the conclusion of his Tamil film 'Benz,' which is facing persistent production delays. He's been committed to a specific beard style for this role since late 2025, affecting his appearances in other recent Malayalam films. With his characteristic humor, he has urged the team to hasten the remaining filming days, as fans eagerly await the completion of this much-anticipated flick.",
-    "img": "https://static.toiimg.com/photo/msid-133541287,imgsize-173239.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/please-make-decision-and-complete-the-film-nivin-pauly-expresses-his-disappointment-benz-shoot-delay/articleshow/133541245.cms",
-    "time": "2026-08-26T12:38:49.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Rain delays India’s impending series victory over Sri Lanka",
     "desc": "Sri Lanka ended day four of the second Test at 229 for six after India’s bowlers struck late. Pasindu Sooriyabandara and Kamindu Mendis led the fightback with a 115-run stand, while Sonal Dinusha scored 103 earlier. India’s late wickets put them in control, but rain and bad light halted play, leaving Sri Lanka fighting to avoid defeat on day five.",
@@ -424,57 +676,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Anupam Kher's note for Kirron Kher: '41 years of us'",
-    "desc": "Honoring forty-one years of love and partnership, Anupam Kher took to Instagram to share a moving tribute to his wife Kirron Kher. Their relationship has weathered highs and lows, strengthened by support and personal space. Alongside his heartfelt reflection, Anupam excitedly mentioned his upcoming project, Khosla Ka Ghosla 2, highlighting his continued passion for cinema.",
-    "img": "https://static.toiimg.com/photo/msid-133540671,imgsize-269049.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anupam-khers-heartfelt-note-for-kirron-kher-41-years-of-us-imperfect-and-always-there-for-each-other/articleshow/133540599.cms",
-    "time": "2026-08-26T12:12:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Remembering Dolly Parton, who gave away everything but her songs",
     "desc": "The Queen of Country Music, who passed away recently, gave away more than 300 million books and millions of dollars in aid, but refused to surrender the copyright to one song, even for Elvis Presley.",
     "img": "https://th-i.thgim.com/public/incoming/l1c813/article71392365.ece/alternates/LANDSCAPE_1200/AP08_26_2026_000020B.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/music/remembering-dolly-parton-who-gave-away-everything-but-her-songs/article71392330.ece",
     "time": "2026-08-26T12:03:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Regina Cassandra faces backlash over viral footwear video",
-    "desc": "Actress Regina Cassandra has come under fire online after a video emerged showing her footwear being carried at a public event. This incident ignited a conversation around celebrity etiquette and how they are perceived by the public. On the bright side, she's gearing up to take on an antagonist role in the highly anticipated film Mookuthi Amman 2, which is expected to elevate her career significantly.",
-    "img": "https://static.toiimg.com/photo/msid-133540227,imgsize-122092.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/regina-cassandra-trolled-over-viral-footwear-video-mookuthi-amman-2-actress-faces-backlash-ahead-of-the-films-release/articleshow/133540210.cms",
-    "time": "2026-08-26T11:57:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rashmika Mandanna HAILS Ravi Teja's 'Irumudi': 'It hit me..'",
-    "desc": "Rashmika Mandanna expressed her surprise and emotional connection to the film Irumudi. She applauded the makers for addressing a significant societal issue that needs discussion. The movie has achieved considerable success at the box office, earning substantial revenue. Ravi Teja's performance and Baby Nakshathra's role were specifically highlighted by Mandanna. The film, a family drama, centers on a father-daughter relationship and a spiritual journey.",
-    "img": "https://static.toiimg.com/photo/msid-133539872,imgsize-701128.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandanna-hails-ravi-tejas-irumudi-it-hit-me-in-ways-i-didnt-see-coming/articleshow/133539741.cms",
-    "time": "2026-08-26T11:46:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Jeevan Bheema Yojana' Trailer: Arshad Warsi debuts double role",
-    "desc": "The trailer for 'Jeevan Bheema Yojana' has been released, showcasing a blend of comedy and crime. Arshad Warsi portrays two distinct characters, Jeevan and Bheema, in this upcoming film. Sanjeeda Shaikh plays Yojana, Jeevan's wife, while Vijay Raaz appears as a mysterious figure. The movie, directed by Abhishek Dogra, promises a story centered on mistaken identities. 'Jeevan Bheema Yojana' is scheduled for a worldwide theatrical release on September 4, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-133539810,imgsize-321283.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/jeevan-bheema-yojana-trailer-arshad-warsis-double-role-impresses-viewers-fans-say-expect-the-unexpected/articleshow/133539714.cms",
-    "time": "2026-08-26T11:42:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "SRK’s Mannat renovation nearing completion, family may return by 2026 end",
-    "desc": "Shah Rukh Khan's Mannat renovation is nearing completion, with the family expected to move back by end of 2026. The annexe got two extra floors, while the heritage-protected main bungalow remains unchanged. Until then, the Khans live in Pali Hill. Shah Rukh's next film, 'King' with daughter Suhana, releases December 24, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-133539763,imgsize-254058.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khans-mannat-renovation-nearing-completion-family-may-return-by-2026-end-reports/articleshow/133539722.cms",
-    "time": "2026-08-26T11:41:16.000Z"
   },
   {
     "cat": "Sports",
@@ -493,15 +700,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/simon-helmots-blueprint-for-gulf-giants-bold-aggressive-cricket-and-a-hell-of-a-fight/articleshow/133538889.cms",
     "time": "2026-08-26T11:34:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Iss sawal ka jawab aap aur hum...'",
-    "desc": "During an engaging Instagram Live session, Sushmita Sen tackled the topic of marriage with her signature humor. She noted that both she and her fans are still on the quest for the ideal answer. Reflecting on her past, she candidly shared that her previous relationships fell short and revealed that she nearly tied the knot three times. Throughout, Sushmita has remained open about her personal journey.",
-    "img": "https://static.toiimg.com/photo/msid-133538878,imgsize-263930.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sushmita-sen-on-marriage-iss-sawal-ka-jawab-aap-aur-hum-dono-dhundte-reh-jayenge/articleshow/133538843.cms",
-    "time": "2026-08-26T11:08:20.000Z"
   },
   {
     "cat": "Sports",
@@ -556,15 +754,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/gross-fdi-hit-15-year-high-of-307-billion-in-april-june-2026/article71392237.ece",
     "time": "2026-08-26T09:59:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Shouldn't it begin with Congress?' BJP targets Rahul Gandhi over 'smash the patriarchy’ remark",
-    "desc": "The BJP criticized Rahul Gandhi's \"smash the patriarchy\" remark, questioning its application within his party. BJP leader Bansuri Swaraj accused Gandhi of hypocrisy and lacking a positive agenda. She cited past Congress remarks against Kangana Ranaut and Hema Malini as examples. Gandhi's campaign focused on challenging patriarchal systems and empowering women's choices. He advocated for ending restrictions placed on women in Indian society.",
-    "img": "https://static.toiimg.com/photo/msid-133536473,imgsize-108689.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/shouldnt-it-begin-with-congress-bjp-targets-rahul-gandhi-over-smash-the-patriarchy-remark/articleshow/133535896.cms",
-    "time": "2026-08-26T09:39:53.000Z"
   },
   {
     "cat": "Business",
@@ -630,15 +819,6 @@ const newsData_en = [
     "time": "2026-08-26T07:13:45.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Situation under control’: Delhi minister as city logs 2,308 H1N1 cases amid flu surge",
-    "desc": "In response to a surge in H1N1 and flu cases, Delhi schools are considering new safety protocols. Health Minister Pankaj Singh reassured the public, stating that the situation remains stable and should not instill panic. So far, Delhi has seen around three thousand influenza cases, with over two thousand attributed to H1N1. Hospitals are ready with adequate medical staff, medications, and isolation facilities to treat patients.",
-    "img": "https://static.toiimg.com/photo/msid-133532218,imgsize-84581.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/situation-under-control-delhi-minister-as-city-logs-2308-h1n1-cases-amid-flu-surge/articleshow/133531903.cms",
-    "time": "2026-08-26T07:10:55.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Kriti Sanon's Rakhi ad pulled by jewellery brand after controversy",
     "desc": "\"If our recent advertisement has inadvertently hurt the sentiments of some segments of society, that was not our intent at all. Out of respect, we have withdrawn the said advertisement from all media,\" says GIVA",
@@ -702,15 +882,6 @@ const newsData_en = [
     "time": "2026-08-26T04:00:26.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Are NSE, BSE open or closed today for Eid-e-Milad?",
-    "desc": "On Eid-e-Milad, the Indian stock market will continue its trading operations as usual. However, it's important to note that August 26 marks a settlement holiday for all stock exchanges. This implies that while daily trading activities proceed, the processing of funds and securities will be temporarily halted, leading to a one-day delay in eligible trade settlements. The commodity markets will function regularly, but the currency markets will be closed.",
-    "img": "https://static.toiimg.com/photo/msid-133528561,imgsize-90708.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-operations-on-august-26-are-nse-bse-open-or-closed-today-for-eid-e-milad/articleshow/133528488.cms",
-    "time": "2026-08-26T03:30:21.000Z"
-  },
-  {
     "cat": "World",
     "title": "Prominent Sikh separatist says FBI has warned him of new threat on his life",
     "desc": "Pannun, a dual U.S.-Canadian citizen, said he was warned according to the terms of a “Duty to Warn” law in the United States that obligates U.S. intelligence and law enforcement agencies to notify individuals when they discover credible and specific threats of murder, severe bodily harm or kidnapping",
@@ -727,176 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/el-salvador-panama-sound-alarm-on-el-nino-fueled-drought/article71391259.ece",
     "time": "2026-08-26T02:13:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'What the heck I was trying to do!': Ishan Kishan opens up on bizarre dismissal",
-    "desc": "Ishan Kishan has played 32 ODIs and 55 T20Is for India, apart from 134 IPL matches. His last of two Test appearances came in July 2023. Despite his limited opportunities in Test cricket, his love for the red-ball format remains strong.",
-    "img": "https://static.toiimg.com/photo/msid-133527064,imgsize-22580.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/people-dont-believe-me-ishan-kishan-on-his-love-for-red-ball-cricket/articleshow/133527051.cms",
-    "time": "2026-08-26T01:13:34.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "For global scale banks, EAC-PM seeks mergers",
-    "desc": "Beyond consolidation, banks need to narrow the credit-deposit gap, mobilise stable low-cost deposits and curb concentration in high-risk unsecured retail loans while expanding credit to MSMEs, infrastructure and green investments. To measure efficiency, the study treated banks as institutions that use resources such as fixed assets, borrowed funds, operating expenses and employee costs to generate loans, deposits, investments and net profits.",
-    "img": "https://static.toiimg.com/photo/msid-133526682,imgsize-53224.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/for-global-scale-banks-eac-pm-seeks-mergers/articleshow/133526675.cms",
-    "time": "2026-08-25T23:22:07.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "BIS, comm min will work to support high-tech industries",
-    "desc": "Commerce and industry minister Piyush Goyalsaid that clarifications related to SEZ notification, which were flagged by some players, will also be looked at. He also said that govt is committed to making India a manufacturing base for electronics and semiconductors and offered to roll out the red carpet, including creating social infrastructure for Japanese companies and their expat employees.",
-    "img": "https://static.toiimg.com/photo/msid-133526669,imgsize-50186.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/bis-comm-min-will-work-to-support-high-tech-industries/articleshow/133526607.cms",
-    "time": "2026-08-25T23:15:33.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "RBI turns net buyer of dollars in June",
-    "desc": "The shift narrowed RBI’s cumulative net sales for the fiscal year to -$14.5 billion and reduced its outstanding forward short position to -$103.3 billion. In the currency futures market, purchases and sales were balanced at $2.9 billion each, leaving zero net outstanding futures. The dollar purchases came as resident Indians increased outward remittances under the Liberalised Remittance Scheme.",
-    "img": "https://static.toiimg.com/photo/msid-133526665,imgsize-85854.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-turns-net-buyer-of-dollars-in-june/articleshow/133526606.cms",
-    "time": "2026-08-25T23:12:53.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Federal Bank shares fall post merger talks",
-    "desc": "Jana Small Finance Bank has sought a universal banking licence from RBI. RBI returned its initial application in June 2025, leaving the lender open to making a future submission. Jana was among the microfinance lenders that received a specialised banking licence in 2017. It began operations as a small finance bank in March and went public in Feb 2024.",
-    "img": "https://static.toiimg.com/photo/msid-133526659,imgsize-97358.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/federal-bank-shares-fall-post-merger-talks/articleshow/133526582.cms",
-    "time": "2026-08-25T23:09:12.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Post-Covid, profits rise faster than investment",
-    "desc": "One explanation identified by the study is that strong profitability from assets companies already own does not necessarily make a new investment equally attractive. Its analysis found evidence that the initial returns associated with fresh fixed-asset investment have weakened in the post-pandemic period, putting downward pressure on what the paper calls “marginal profitability”.",
-    "img": "https://static.toiimg.com/photo/msid-133526622,imgsize-90606.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/post-covid-profits-rise-faster-than-investment/articleshow/133526580.cms",
-    "time": "2026-08-25T23:02:39.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Air India seeks $1.5 billion from owners Tata, Singapore Air",
-    "desc": "Air India needs capital, but the $1.5 billion will be injected in phases, people familiar with the matter said. Co-owner Singapore Airlines will contribute its 25% share. Tata Sons had paused additional equity support in the year to March 2026. Its investment in Air India stood unchanged at Rs 22,618 crore in the FY2026 report, the same level as a year earlier — indicating no fresh equity was infused during the year.",
-    "img": "https://static.toiimg.com/photo/msid-133526611,imgsize-36716.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/air-india-seeks-1-5-billion-from-owners-tata-singapore-air/articleshow/133525153.cms",
-    "time": "2026-08-25T22:57:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Indian judokas have raised expectations",
-    "desc": "The two historic gold medals won in Glasgow could strengthen judo’s case when the Commonwealth Games returns to India. The country’s success overall, coupled with the sport’s remarkable geographical spread — with medals going to 18 nations in the recent edition — provides a strong argument for its inclusion",
-    "img": "https://th-i.thgim.com/public/incoming/h1t4nd/article71390283.ece/alternates/LANDSCAPE_1200/PTI07_31_2026_000601B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/other-sports/indian-judokas-have-raised-expectations/article71390273.ece",
-    "time": "2026-08-25T17:38:51.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Rohingya refugees rally in Bangladesh camps to demand safe return to Myanmar",
-    "desc": "Whether it is the Arakan Army or the Myanmar military, as long as they continue playing this double game, the situation in Arakan, or Rakhine, will not become safe, said Rohingya refugee leader Sayed Ullah",
-    "img": "https://th-i.thgim.com/public/incoming/6efjc6/article71390094.ece/alternates/LANDSCAPE_1200/Bangladesh_Rohingya_Anniversary_8_655.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/rohingya-refugees-rally-in-bangladesh-camps-to-demand-safe-return-to-myanmar/article71389989.ece",
-    "time": "2026-08-25T16:21:47.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "NASSCOM strongly responds to DHS’ proposal to fix H-1B visa fee at $103,265",
-    "desc": "NASSCOM reminds the U.S administration that the number of H-1B employees Indian technology companies has reduced significantly as they steadily expanded local hiring. Also, Indian tech industry spent over $ 1.1 bn for strengthening STEM pipeline in the US working with over 130 universities and colleges impacting 2.9 million students and upskilling more than 255,000 employees",
-    "img": "https://th-i.thgim.com/public/incoming/zdjomn/article71390081.ece/alternates/LANDSCAPE_1200/iStock-1264230781.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/nasscom-strongly-responds-to-dhs-proposal-to-fix-h-1b-visa-fee-at-103265/article71389478.ece",
-    "time": "2026-08-25T16:16:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kaber Vasuki on his ‘Frangipani’ tour",
-    "desc": "After his recent show in Chennai, Kaber Vasuki opens up on his latest music video ‘Oozhi,’ the ‘flow state’ he gets into on stage, and why he might stop performing the ‘Frangipani’ song by the end of this tour",
-    "img": "https://th-i.thgim.com/public/incoming/mqzise/article71387602.ece/alternates/LANDSCAPE_1200/Kaber%20Vasuki.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/music/kaber-vasuki-interview-frangipani-tour-music-academy-chennai-indie-musician-oozhi-video/article71387308.ece",
-    "time": "2026-08-25T15:10:27.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran’s rial currency hits new record low as U.S. prepares to announce more sanctions",
-    "desc": "The rial dropped to 2.02 million to the U.S. dollar as trading opened on currency markets. Iran's official Central Bank rate stood at around 1.5 million rial to the dollar, but the market rate is what most Iranians pay",
-    "img": "https://th-i.thgim.com/public/news/national/xevn3h/article71384291.ece/alternates/LANDSCAPE_1200/iStock-2183798790.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/irans-rial-currency-hits-new-record-low-as-us-prepares-to-announce-more-sanctions/article71384197.ece",
-    "time": "2026-08-25T13:28:39.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Year after Israeli strikes killed journalists at hospital, no one has been held accountable",
-    "desc": "Despite repeated requests, the army hasn't provided details about the investigation or a timeline for when it could be completed. Rights groups say Israel rarely holds troops accountable for killing Palestinians, pointing to long investigations that rarely lead to prosecution",
-    "img": "https://th-i.thgim.com/public/incoming/z5yt2l/article71388437.ece/alternates/LANDSCAPE_1200/2025-08-27T182730Z_896437816_RC2UFGABEF0K_RTRMADP_3_ISRAEL-PALESTINIANS-BRITAIN-VIGIL.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/year-after-israeli-strikes-killed-journalists-at-hospital-no-one-has-been-held-accountable/article71388353.ece",
-    "time": "2026-08-25T11:19:51.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Trump’s Iran oil sanctions, 100% Russian crude tariff threat: Can Venezuela fill the gap for India?",
-    "desc": "What happens when the world stops buying Iran oil due to the threat of secondary sanctions? Where will India procure crude from if it faces tariffs of up to 100% for its Russian crude oil imports? The Middle East crisis has pushed Russia’s share in India’s crude oil basket to over 50%.",
-    "img": "https://static.toiimg.com/photo/msid-133506718,imgsize-742011.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/trumps-iran-oil-sanctions-100-russian-crude-tariff-threat-can-venezuela-fill-the-gap-for-india/articleshow/133506385.cms",
-    "time": "2026-08-25T10:58:16.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Pakistan, Iran explore reopening Strait of Hormuz, easing West Asia tensions",
-    "desc": "Army Chief Field Marshal Asim Munir was accompanied by Interior Minister Mohsin Naqvi, concluded a day-long visit to Iran as part of Islamabad’s diplomatic efforts to break the deadlock in the ongoing West Asia conflict",
-    "img": "https://th-i.thgim.com/public/incoming/ny32xg/article71387574.ece/alternates/LANDSCAPE_1200/2026-08-24T185827Z_209424855_RC265NA1YWUC_RTRMADP_3_IRAN-CRISIS-PAKISTAN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/pakistan-iran-explore-reopening-strait-of-hormuz-easing-west-asia-tensions/article71387519.ece",
-    "time": "2026-08-25T09:31:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "the changing face of Chennai’s cinema industry",
-    "desc": "Over 84 years, Kodambakkam, the heart of Tamil cinema, has changed beyond recognition, and so has the Tamil film world. Surviving all odds, cinemas have evolved from a single projector and four intervals to the IMAX of today, while filmmaking has moved on from the expensive process of shooting on celluloid to embracing digital technology",
-    "img": "https://th-i.thgim.com/public/incoming/1logjb/article71384858.ece/alternates/LANDSCAPE_1200/AVM%20STUDIOS%20CINEMA%20PRODUCTION%20HERITAGE%20MUSEUM%20MK%20STALIN%20_08.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/chennai/from-celluloid-to-digital-the-changing-face-of-chennais-cinema-industry/article71383278.ece",
-    "time": "2026-08-25T08:52:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Awarapan 2’ movie review: Emraan Hashmi’s faded sequel doesn’t rise from the riches of its past",
-    "desc": "Even if the action sequences, lighting, and camerawork have improved multifold from 2007, the sequel struggles to hold itself together as it imagines the world of ‘Awarapan’ purely as a generic genre piece, when its soul lies elsewhere",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/fwk2m4/article71344847.ece/alternates/LANDSCAPE_1200/Emraan%20Hashmi%20in%20%E2%80%98Awarapan%202%E2%80%99",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/awarapan-2-movie-review-emraan-hashmis-faded-sequel-doesnt-rise-from-the-riches-of-its-past/article71344732.ece",
-    "time": "2026-08-25T07:08:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Vishwanath and Sons’ movie review: A charming Suriya and Mamitha Baiju carry Venky Atluri’s wholesome entertainer",
-    "desc": "What if Suriya plays a Bruce Wayne-esque character who uses his superpower of wealth to fix his own personal problems? Despite a few conveniences, Venky Atluri’s ‘Vishwanath and Sons’ is a satisfying family entertainer with some progressive ideas and standout performances",
-    "img": "https://th-i.thgim.com/public/entertainment/movies/yajr6/article71345042.ece/alternates/LANDSCAPE_1200/VAS.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/vishwanath-and-sons-movie-review-suriya-mamitha-baiju-venky-atluri-radhika-sarathkumar-wholesome-entertainer/article71344969.ece",
-    "time": "2026-08-25T07:08:31.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Daily Quiz",
-    "desc": "Sean Connery, a working-class Edinburgh kid who grew up to become the first actor to portray James Bond on-screen, was born on this day (August 25) in 1930. A quiz on the Scottish acting legend",
-    "img": "https://th-i.thgim.com/public/incoming/pmlhch/article71387416.ece/alternates/LANDSCAPE_1200/fr19league.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/daily-quiz-on-sean-connery/article71387409.ece",
-    "time": "2026-08-25T05:41:49.000Z"
   }
 ];
