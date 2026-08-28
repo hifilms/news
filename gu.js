@@ -1,5 +1,122 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "48 કલાકમાં બધું જ છીનવાઈ ગયું: 475ના મોત, 540થી વધુ લાપતા અને હવે નેપાળ પર ચીનથી નવી મુસીબત",
+    "desc": "નેપાળમાં આવેલા ભયંકર પૂર બાદ સ્થિતિ ખરાબ છે. મૃત્યુઆંકમાં સતત વધારો થઈ રહ્યો છે. હજુ ઘણા લોકો લાપતા છે. આ વચ્ચે ઝી મીડિયા દ્વારા ગ્રાઉન્ડ પર જઈ પરિસ્થિતિનો તાગ મેળવવામાં આવ્યો છે. જુઓ અત્યારે નેપાળમાં કેવી સ્થિતિ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/nepal-faces-fresh-threat-glacial-lake-burst-in-china-sparks-alarm-for-next-72-hours-489203 ",
+    "time": "2026-08-28T14:12:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ન તો યોગ્ય ડ્રેસિંગ રૂમ, ન નજીક શૌચાલય; નારાજ BCCI નહીં મોકલે તેના સ્ટાર ક્રિકેટર્સ",
+    "desc": "આગામી મહિને જાપાનમાં એશિયન ગેમ્સ-2026 રમાવાની છે, જ્યાં ભારતીય ક્રિકેટ ટીમ ગોલ્ડ મેડલ ડિફેન્ડ કરવા માટે ઉતરશે. પરંતુ હવે સમાચાર સામે આવી રહ્યાં છે કે જાપાનમાં જે સ્થળ પર ક્રિકેટ મેચ રમાવાની છે, ત્યાંની સુવિધાથી બીસીસીઆઈ સંતુષ્ટ નથી અને તેવામાં ટીમમાં ફેરફાર કરી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/asian-games-neither-proper-dressing-room-nor-nearby-washroom-upset-bcci-will-not-send-its-star-cricketers-489189 ",
+    "time": "2026-08-28T13:44:02.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "8મા પગાર પંચમાં 4 સુધી જશે ફિટમેન્ટ ફેક્ટર? કેન્દ્રીય કર્મચારીઓના પગારમાં થશે બમ્પર વધારો, જાણો",
+    "desc": "ફિટમેન્ટ ફોર્મ્યુલા માટે પગાર પંચની ભલામણ પર બધાની નજર છે. વિવિધ સંગઠનોએ 3.61, 3.83 અને 4.0નો પ્રસ્તાવ મૂક્યો છે. કર્મચારીઓ અને પેન્શનરો કેટલાય સમયથી 8મું પગાર પંચ લાગુ થવાની રાહ જોઈ રહ્યા છે, ત્યારે 8મા પગાર પંચની કમેટી દેશના અલગ અલગ ભાગમાં જઈને મિટીંગ કરી રહ્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/will-the-fitment-factor-go-up-to-4-in-the-8th-pay-commission-there-will-be-a-bumper-increase-in-the-salaries-of-central-employees-489188 ",
+    "time": "2026-08-28T13:30:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "100 પુરુષોની સામે ઉતારવા પડ્યા કપડાં, એક્ટ્રેસે સંભળાવ્યો 22 વર્ષ જૂનો કિસ્સો, કહ્યું: &amp;quot;બસ મારા અન્ડરવેર...&amp;quot;",
+    "desc": "દિયા મિર્ઝા એક પ્રખ્યાત બોલીવુડ અભિનેત્રી છે. તે ફક્ત તેની ફિલ્મો માટે જ નહીં પરંતુ તેના સ્પષ્ટવક્તા નિવેદનો માટે પણ જાણીતી છે. હાલમાં જ તેને સેટ પરની ઘટના સંભળાવી હતી અને તેમા જણાવ્યું હતું કે, 100 લોકો સામે મારે કપડા ઉતારવા પડ્યા હતા, મારે ખાલી અન્ડરવેર અને બ્રામાં જ શુટીંગ કરવાનું હતું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/having-to-take-off-my-clothes-in-front-of-100-men-the-actress-recounted-a-22-year-old-story-489187 ",
+    "time": "2026-08-28T12:56:18.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "મુકેશ અંબાણીએ  Zeeને પડાવી લેવાની કરી હતી કોશિશ, ડૉ. સુભાષ ચંદ્રાએ કહ્યું: આ ગેમ ન રમો, તે પાછી તમારા ઉપર જ આવશે",
+    "desc": "એસ્સેલ ગ્રુપના ચેરમેન ડૉ. સુભાષ ચંદ્રાએ નેશનલ કંપની લો ટ્રિબ્યુનલ (NCLT)માં લોન સેટલમેન્ટ મામલે ફરી પોતાનો પક્ષ રજૂ કર્યો. આ ઉપરાંત તેમણે રિલાયન્સ ઈન્ડસ્ટ્રીઝ લિમિટેડના ચેરમેન અને સીએમડી મુકેશ અંબાણીના નેટવર્ક પર Zeeને લઈને ખોટી અફવાઓ ફેલાવવાનો આરોપ પણ લગાવ્યો છે. તેમણે કહ્યું કે મુકેશ અંબાણીએ Zee ને પચાવી પાડવાની કોશિશ કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/mukesh-ambani-tried-to-take-over-zee-dr-subhash-chandra-said-dont-play-this-game-489178 ",
+    "time": "2026-08-28T11:44:33.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "તહેવારો પહેલા મોંઘવારીનો વધુ એક માર, હવે દૂધના ભાવમાં સીધા 9 રૂપિયાનો વધારો; જાણો ક્યારથી લાગુ થશે નવી કિંમતો?",
+    "desc": "મુંબઈના લોકોને 1 સપ્ટેમ્બરથી મોંઘવારીનો મોટો ઝટકો લાગશે. મુંબઈ મિલ્ક પ્રોડ્યુસર્સ એસોસિએશને દૂધની જથ્થાબંધ કિંમત 9 રૂપિયા વધારીને 102 રૂપિયા પ્રતિ લીટર કરી દીધી છે. નવા દર 28 ફેબ્રુઆરી 2027 સુધી લાગુ રહેશે. જાણો દૂધ કેમ મોંઘું થઈ રહ્યું છે અને શું તેના પાછળનું કારણ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/another-blow-of-inflation-before-festivals-now-milk-prices-have-been-increased-by-rs-9-know-when-the-new-prices-will-be-implemented-489174 ",
+    "time": "2026-08-28T09:40:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "અમુક લોકો છબી બગાડવાનો પ્રયાસ કરી રહ્યા છે, 22,000 કરોડના પર્સનલ લોનની વાત ખોટી; ડૉ. સુભાષ ચંદ્રાનો મોટો ખુલાસો",
+    "desc": "₹45,000 કરોડના પ્રચંડ દેવા સામે ₹43,000 કરોડ સફળતાપૂર્વક ચૂકવી દેનાર, દેવું ભરપાઈ કરવા માટે પોતાનું ઘર ગીરવે મૂકનાર અને ZEELને લગભગ વેચી નાખનાર ડૉ. સુભાષ ચંદ્રએ NCLT અને લેન્ડર્સના દાવાઓ સામે ખુલ્લો મોરચો ખોલ્યો છે. તેમણે સ્પષ્ટ કર્યું છે કે તેમની જિંદગી એક ખુલ્લી કિતાબ છે, તેઓ દરેક વ્યક્તિના નાણાં ચૂકવવા માટે સંપૂર્ણપણે પ્રતિબદ્ધ છે અને સ્વતંત્ર ઓડિટથી દૂધનું દૂધ અને પાણીનું પાણી થઈ જશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/some-people-are-trying-to-tarnish-the-image-the-talk-of-personal-loan-of-22000-crores-is-false-dr-subhash-chandra-big-revelation-489173 ",
+    "time": "2026-08-28T09:28:30.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ફેડ રિઝર્વની મિટિંગ પહેલા સોનાના ભાવમાં મોટો ઘટાડો, ચાંદી પણ થયું સસ્તું; રોકાણને લઈને શું કહી રહ્યા છે એક્સપર્ટ",
+    "desc": "સોના અને ચાંદીની કિંમતોમાં આજે ઘટાડો જોવા મળ્યો છે. ફેડ રિઝર્વની મિટિંગ પહેલાં ભાવ ઘટાડો થયો છે. આજે સવારે MCX ગોલ્ડ ઓક્ટોબર કોન્ટ્રાક્ટ્સનો ભાવ 0.57 ટકાના ઘટાડા બાદ 1,58,085 રૂપિયાના સ્તરે આવી ગયો. જ્યારે MCX સિલ્વર સપ્ટેમ્બર ફ્યુચર્સનો ભાવ 0.55 ટકાના ઘટાડા બાદ 2,39,320 રૂપિયા પ્રતિ કિલોગ્રામના સ્તરે આવી ગયો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-prices-drop-sharply-ahead-of-fed-reserve-meeting-silver-also-becomes-cheaper-what-are-experts-saying-about-investment-489166 ",
+    "time": "2026-08-28T07:41:47.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "₹72,000 રૂપિયા થશે બેઝિક સેલેરી? જાણો 8મા પગાર પંચમાં 4.0 ફિટમેન્ટ ફેક્ટરની કોણે કરી માગ",
+    "desc": "8મા પગાર પંચ હેઠળ કેન્દ્રીય કર્મચારીઓ અને પેન્શનરોએ નોંધપાત્ર માંગણીઓ કરી છે. જો તેમની માંગણીઓ સ્વીકારાય અને પગાર વધારો 7મા પગાર પંચના ફોર્મ્યુલા પર આધારિત થાય તો કર્મચારીઓ અને પેન્શનરોના કુલ પગારમાં નોંધપાત્ર વધારો થઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-will-basic-salary-jump-to-%E2%82%B972000-know-who-is-demanding-a-4-0-fitment-factor-489165 ",
+    "time": "2026-08-28T07:17:04.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "નેપાળમાં ફરી તબાહીના એંધાણ? આગામી 90 મિનિટ ખુબ મહત્વની, જેનો ડર હતો એ ઘડી આવી પહોંચી!",
+    "desc": "નેપાળમાં પૂરે જ વિનાશ વેર્યો ત્યારબાદ સ્થિતિ હજુ ગંભીર બનેલી છે. મીડિયા રિપોર્ટ મુજબ આગામી દોઢ કલાક ખુબ મહત્વના છે. કારણ કે ચીન અને નેપાળ સરહદે ગ્લેશિયર ધસી પડવાથી બનેલી ઝીલનું પાણી ઓવરફ્લો થવા લાગ્યું. ત્યારબાદ રાહત અને બચાવ કાર્ય હાલ રોકવામાં આવ્યા છે. અધિકારીઓનું કહેવું છે કે નદીમાં જળસ્તર વધવાને કારણે નેપાળ માટે આગામી 90 મિનિટ મહત્વની છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/nepal-flash-flood-update-nepal-china-border-lake-overflow-rescue-operaton-on-hold-489164 ",
+    "time": "2026-08-28T07:12:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "&amp;#039;કોકરોચો&amp;#039;એ BJPને આપ્યો ઝટકો, સીટોમાં થઈ શકે ઘટાડો, કોંગ્રેસને બંપર ફાયદો, સર્વેના ચોંકાવનારા તારણો",
+    "desc": "જ્યારથી કોકરોચ જનતા પાર્ટી આવી છે અને નીટ પ્રોટેસ્ટ થયું ત્યારબાદ બધાને એક સવાર મનમાં ઘૂમરાયા કરે છે કે આ આંદોલન અને સીજેપીથી ભાજપને શું કોઈ અસર થઈ શકે છે? તો એક સર્વેમાં આ અંગે પણ ચોંકાવનારો ખુલાસો થયો છે. જાણો વિગતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/survey-findings-cockroach-janata-party-bjp-congress-neet-protest-nda-lok-sabha-election-489161 ",
+    "time": "2026-08-28T06:21:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "અમૃતા સિંહે મને ખૂબ પરેશાન કર્યો, જીંદગી નરક બનાવી દીધી હતી, ઓરીએ વર્ષો જુના વિવાદ પર કર્યો ખુલાસો",
+    "desc": "ઓરીએ ફરી એકવાર અમૃતા સિંહ સાથેના વિવાદનો ઉલ્લેખ કર્યો છે. તાજેતરના એક ઈંટરવ્યુમાં તેણે કહ્યું કે સૈફ અલી ખાનની એક્સ વાઈફ અમૃતા સિંહે તેની જીંદગીને નરક જેવી બનાવી દીધી હતી. તેણે કહ્યું કે અમૃતા સિંહે તેને માનસિક ત્રાસ આપવામાં કંઈજ બાકી નથી રાખ્યું. શું છે આ મામલો ચાલો જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/orry-says-actress-amrita-singh-traumatize-him-what-did-amrita-singh-do-with-orry-know-here-489153 ",
+    "time": "2026-08-28T02:54:39.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "નેપાળ પુરમાં મોતનો આંકડો વધ્યો, 290 ભારતીયો સહિત 1500 થી વધુ લોકો લાપતા",
+    "desc": "નેપાળમાં આવેલા જળપ્રલયમાં મૃત્યુનો આંકડો 390 થી વધી ચુક્યો છે. જ્યારે 290 ભારતીયો સહિત 1500 થી વધુ લોકો લાપતા છે. ચિંતાની વાત એ પણ છે કે નેપાલની ભોટેકોશી નદીમાં ફરીથી પુર આવી શકે છે જેને લઈને એલર્ટ જાહેર કરવામાં આવ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/nepal-flash-flood-update-more-then-390-people-lost-life-in-flood-alert-for-flash-flood-in-nepal-489146 ",
+    "time": "2026-08-28T02:20:45.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "જો કોકરોચ જનતા પાર્ટી ચૂંટણી લડે તો મત આપશો ? સર્વેમાં જનતાએ આપ્યો ચોંકાવનારો જવાબ",
     "desc": "ઇન્ડિયા ટુડે અને સી-વોટરના તાજેતરના 'મૂડ ઓફ ધ નેશન' સર્વેમાં કોકરોચ જનતા પાર્ટી (CJP) અંગે લોકોનો અભિપ્રાય સામે આવ્યો છે. આ સર્વેમાં દેશના યુવાનોના મૂડને જાણવાનો પ્રયાસ કરવામાં આવ્યો હતો. જેમાં કોકરોચ જનતા પાર્ટીના ચૂંટણી લડવા અંગે પણ લોકોનો અભિપ્રાય જાણવામાં આવ્યો હતો.",
@@ -234,15 +351,6 @@ const newsData_gu = [
     "time": "2026-08-26T08:58:38.000Z"
   },
   {
-    "cat": "World",
-    "title": "સમુદ્રમાં એક કે બે નહીં એક સાથે 4 વાવાઝોડા હાહાકાર મચાવવા માટે છે તૈયાર, જાણો ક્યાં ક્યાં વર્તાવશે કહેર?",
-    "desc": "એક વાવાઝોડું આવે તો પણ કેટલી તીવ્ર અસર જોવા મળતી હોય છે ત્યારે અહીં તો એક સાથે ચાર વાવાઝોડા સમુદ્રમાં જોવા મળી રહ્યા છે. જો કે દરેક વાવાઝોડાની શક્તિ અને દિશા અલગ અલગ છે. જાણો કયું વાવાઝોડું ક્યાં તબાહી મચાવી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/four-storms-saudel-narra-gaenari-and-atsani-check-cyclone-details-488968 ",
-    "time": "2026-08-26T08:41:31.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "અજાણતાં પરણિત Kuku Kohli ના પ્રેમમાં પડી Aruna Irani, એસ્ટ્રેસને લોકો કહેતા &amp;#039;ઘર તોડનારી&amp;#039;, લગ્ન પછી પણ સહન કરી તકલીફો",
     "desc": "બોલીવુડના જાણીતા ફિલ્મ મેકર કુકૂ કોહલીનું હાર્ટ એટેકના કારણે નિધન થયું છે. કુકૂ કોહલી અભિનેત્રી અરુણા ઈરાનીના પતિ હતા. જો કે અરુણા ઈરાની અને કુકૂ કોહલીની લવ સ્ટોરી ફિલ્મી નથી. આ લવ સ્ટોરી અરુણા ઈરાની માટે તકલીફોથી ભરેલી રહી હતી.",
@@ -279,15 +387,6 @@ const newsData_gu = [
     "time": "2026-08-26T03:42:47.000Z"
   },
   {
-    "cat": "World",
-    "title": "RSS પ્રમુખ મોહન ભાગવતના કાર્યક્રમ મુદ્દે અમેરિકામાં રાજકારણ ગરમાયું, ન્યૂયોર્કના મેયરે પણ કર્યો વિરોધ",
-    "desc": "રાષ્ટ્રીય સ્વયંસેવક સંઘના શતાબ્દી વર્ષે દેશ વિદેશમાં અનેક કાર્યક્રમનો આયોજન થઈ રહ્યું છે. આરએસએસ પ્રમુખ મોહન ભાગવત હાલ અમેરિકામાં છે જ્યાં આ નિમિત્તે યોજાયેલા એક કાર્યક્રમમાં સંબોધન કરશે. જો કે તે પહેલા જ વિરોધનો વંટોળ શરૂ થઈ ગયો છે. ન્યૂયોર્કના મેયર ઝોહરાન મમદાનીએ પણ કહ્યું કે તેઓ મોહન ભાગવતના કાર્યક્રમનો વિરોધ કરે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/new-york-mayor-zohran-mamdani-oppose-rss-mohan-bhagwat-madison-square-progreamme-488925 ",
-    "time": "2026-08-26T03:25:38.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "અક્ષય કુમાર-સૈફ અલી ખાનની સસ્પેન્સ થ્રિલર ફિલ્મ હૈવાનનું ટ્રેલર કરી રહ્યું છે ટ્રેંડ, જાણો શું છે ખાસ આ ફિલ્મમાં",
     "desc": "અક્ષય કુમાર અને સૈફ અલી ખાનની ફિલ્મ હૈવાનનું ટ્રેલર રિલીઝ કરવામાં આવ્યું છે. આ ફિલ્મમાં સૈફ અલી ખાન એક બ્લાઈન્ડ વ્યક્તિના રોલમાં છે જ્યારે અક્ષય કુમાર એક સનકી વ્યક્તિના રોલમાં છે. હૈવાન ફિલ્મનું ટ્રેલર કેવું છે ચાલો જાણીએ.",
@@ -295,15 +394,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/haiwaan-movie-trailer-explain-priyadarshan-movie-haiwaan-is-hindi-remake-of-malayalam-movies-oppam-488923 ",
     "time": "2026-08-26T02:36:09.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "રશિયાના કેમિકલ કોમ્પ્લેક્સમાં ભીષણ આગ, બે ચીની કામદારો સહિત ત્રણ લોકોના મોત, 120થી વધુ લોકો ઘાયલ",
-    "desc": "રશિયામાં એક કેમિકલ કોમ્પ્લેક્સમાં આગ લાગવાથી ઓછામાં ઓછા ત્રણ લોકોના મોત થયા છે. કંપનીમાં ઉત્પાદન હજુ સુધી ફરી શરૂ થયું નથી. રશિયા સામાન્ય રીતે ઘણા મોટા પ્રોજેક્ટ્સ માટે રશિયનો સહિત વિદેશી કામદારો પર આધાર રાખે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/massive-fire-breaks-out-at-chemical-complex-in-russia-three-people-including-two-chinese-workers-killed-more-than-120-injured-488922 ",
-    "time": "2026-08-26T02:32:02.000Z"
   },
   {
     "cat": "Business",
@@ -450,24 +540,6 @@ const newsData_gu = [
     "time": "2026-08-24T16:05:33.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ખાંડના ભાવ વધવાનું કારણ ઇથેનોલ નથી, તો કેમ વધ્યા ભાવ ? સરકારે આપ્યા બે કારણ",
-    "desc": "દેશમાં ખાંડ અને ગોળના ભાવ આસમાને પહોંચી ગયા છે અને આ વધતી જતી મોંઘવારીના કારણે રાજકીય રાજકીય વાતાવરણ પણ ગરમાયું છે. જ્યારે વિપક્ષે આરોપ લગાવ્યો હતો કે ખાંડનો ઉપયોગ ઇથેનોલના ઉત્પાદન માટે કરવામાં આવી રહ્યો છે, ત્યારે કેન્દ્રીય મંત્રીએ ભાવ વધારા પાછળનું વાસ્તવિક કારણ જણાવ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/why-sugar-price-hike-minister-pralhad-joshi-gave-two-reasons-488758 ",
-    "time": "2026-08-24T15:39:41.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "કાર ખરીદવી છે પણ બજેટ નથી તો ચિંતા ના કરો, આ સરકારી બેંક આપી રહી છે સૌથી સસ્તી લોન !",
-    "desc": "ઓછા વ્યાજ દરે કાર લોન મેળવવા માટે તમારો ક્રેડિટ સ્કોર સારો હોવો જરૂરી છે. 750 કે તેથી વધુનો સ્કોર સારો માનવામાં આવે છે અને બેંકો લોન આપવા માટે સહમત થાય છે. ત્યારે આ લેખમાં જાણીશું કે કઈ બેંક સૌથી ઓછા વ્યાજ દરે લોન આપી રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/car-loan-interest-rates-know-which-bank-is-offering-cheapest-car-loan-488754 ",
-    "time": "2026-08-24T14:13:32.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "ફોનમાં 5G તો પણ ઇન્ટરનેટ છે ધીમું ? ફક્ત નેટવર્ક જ નથી, આ 5 કારણો પણ હોઈ શકે છે જવાબદાર",
     "desc": "જો તમારા ફોનમાં 5G આઇકન દેખાય પછી પણ તમારા મોબાઈલમાં ઇન્ટરનેટ સ્પીડ ધીમી હોય, તો તેનો અર્થ એ નથી કે ફોન ખરાબ થઈ રહ્યો છે. તેનું કારણ શું હોઈ શકે છે અને તેને કેવી રીતે ઠીક કરવું તે જાણો.",
@@ -495,15 +567,6 @@ const newsData_gu = [
     "time": "2026-08-24T09:54:56.000Z"
   },
   {
-    "cat": "Business",
-    "title": "₹1.64 લાખ પર પહોંચ્યું સોનું, શું ફરી તોડશે મોંઘવારીનો રેકોર્ડ? ચાંદીના ભાવમાં આજે અચાનક ઘટાડો",
-    "desc": "સોનાના ભાવ ફરી વધવા લાગ્યા છે. આજે 10 ગ્રામ સોનાના ભાવમાં 3100 રૂપિયાથી વધુનો વધારો થયો છે, જ્યારે ચાંદીના ભાવમાં અચાનક ઘટાડો થયો છે. કેમ સોના અને ચાંદીના ભાવમાં વધઘટ થઈ રહી છે? ચાલો તેના વિશે જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-reaches-rs-1-64-lakh-will-it-break-inflation-record-again-silver-price-suddenly-drops-today-488710 ",
-    "time": "2026-08-24T09:10:51.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ન વરસાદ ન ખરાબ રોશની, માત્ર 10 બોલમાં ટેસ્ટ મેચ ખતમ; ક્રિકેટ ઇતિહાસનો સૌથી નાનો મુકાબલો",
     "desc": "ઈંગ્લેન્ડ અને વેસ્ટ ઈન્ડિઝ વચ્ચે વર્ષ 2009મા એક ટેસ્ટ મેચ રમાઈ જે માત્ર 10 બોલમાં ખતમ થઈ ગઈ હતી. ટેસ્ટ ઈતિહાસનો આ અત્યાર સુધીનો સૌથી નાનો મુકાબલો છે. મેચ સમાપ્ત થવાનું કારણ વરસાદ કે ખરાબ પ્રકાશ નહોતું, પરંતુ મેચ રેફરીએ મેદાનને ખતરનાક ગણાવી મેચ રદ્દ કરવાનો નિર્ણય કર્યો હતો.",
@@ -520,15 +583,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/shahid-kapoor-deva-movie-co-actor-rohullah-mehdi-arrested-in-drugs-case-488640 ",
     "time": "2026-08-24T02:38:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "0 રન પર જ આઉટ હતો પડિકલ... શ્રીલંકાને આ ભૂલો પડી ગઈ ભારે, ભારતીય બેટ્સમેને ધોળા દિવસે દેખાડ્યા તારા",
-    "desc": "ટીમ ઈન્ડિયાનો યુવા બેટ્સમેન દેવદત્ત પડિકલ હાલમાં શ્રીલંકાની ધરતી પર ધૂમ મચાવી રહ્યો છે. છેલ્લી મેચમાં 211 રન અને હવે તેણે કોલંબોમાં ફરી એકવાર વિરોધી ટીમના બોલરોને હંફાવ્યા હતા અને શાનદાર સદી ફટકારી હતી. જો કે, શ્રીલંકા તેને શૂન્ય રને આઉટ કરી શકી હોત, પરંતુ તેમણે કરી આ બે ભૂલો તેમને ભારે પડી ગઈ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/devdutt-padikkal-smashes-century-after-sri-lanka-drops-2-easy-catch-488635 ",
-    "time": "2026-08-23T14:45:08.000Z"
   },
   {
     "cat": "Entertainment",
@@ -592,23 +646,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/top-5-cng-suvs-in-india-ahead-of-all-others-in-terms-of-average-know-the-price-and-features-488391 ",
     "time": "2026-08-21T13:42:59.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "એક સમયે રેખા અમિતાભ બચ્ચનને પોતાનો પતિ માનવા લાગી હતી... બોલીવુડના ફેમસ ડિરેક્ટરે કર્યો ખુલાસો",
-    "desc": "અમિતાભ બચ્ચન અને રેખાની લવ સ્ટોરીની ચર્ચાઓનો કોઈ અંત નથી. તેવામાં વધુ એકવાર રેખા અને અમિતાભ બચ્ચનની પ્રેમ કહાનીનો એક કિસ્સો ચર્ચામાં આવ્યો છે. વાત તે સમયની છે જ્યારે રેખા અમિતાભ બચ્ચનના પ્રેમમાં ભાન ભુલી ગઈ હતી અને તેને લગ્ન વિના જ બિગ બીને પતિ માનવા લાગી હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/rekha-accepted-amitabh-bachchan-as-her-husband-once-said-umrao-jaan-film-director-muzaffar-ali-488299 ",
-    "time": "2026-08-21T02:40:12.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "21 ઓગસ્ટે ઓટીટી પર રિલીઝ થશે જન નાયકન સહિતની આ નવી ફિલ્મો અને સીરીઝ",
-    "desc": "21 ઓગસ્ટ 2026 અને શુક્રવારે નેટફ્લિક્સ સહિતના ઓટીટી પ્લેટફોર્મ પર નવી ફિલ્મો અને વેબ સીરીઝ રિલીઝ થવાની છે. જેમાં સૌથી મોટું આકર્ષણ છે વિજય થલપતીની ફિલ્મ જન નાયકન. આ સિવાય કઈ કઈ ફિલ્મો રિલીઝ થવાની છે ચેક કરી લો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/21-august-friday-ott-release-movies-and-web-series-488276 ",
-    "time": "2026-08-20T14:14:18.000Z"
   }
 ];
