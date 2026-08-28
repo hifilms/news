@@ -1,21 +1,300 @@
 const newsData_en = [
   {
-    "cat": "Politics",
-    "title": "‘Tigers’ set to make merry in Thrissur",
-    "desc": "Over 400 painted ‘tigers,’ constituting nine teams, set to turn Swaraj Round into a riot of colour for Onam on Saturday. Each team will field a ‘Pulivandi’ and a tableau combining mythology with contemporary themes",
-    "img": "https://th-i.thgim.com/public/incoming/iz7qmk/article71401261.ece/alternates/LANDSCAPE_1200/80688_28_8_2026_19_56_55_2_COSTUME_KKN2.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/tigers-set-to-make-merry-in-thrissur/article71401095.ece",
-    "time": "2026-08-28T14:46:26.000Z"
+    "cat": "Entertainment",
+    "title": "'Spider-Man' sinks 'Titanic' to become 4th highest-grossing film",
+    "desc": "Brand New Day has now surpassed James Cameron's Titanic at the global box office. The Tom Holland-led film has officially become the fourth highest-grossing movie ever. It has earned over USD 2.27 billion worldwide, surpassing the romantic epic. Now only Avatar: The Way of Water and two other Avatar films stand ahead. The film is also setting its sights on Ne Zha 2 for further box office success.",
+    "img": "https://static.toiimg.com/photo/msid-133601740,imgsize-357178.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/tom-hollands-spider-man-brand-new-day-overtakes-james-camerons-titanic-to-become-fourth-highest-grossing-film-of-all-time/articleshow/133601712.cms",
+    "time": "2026-08-28T23:13:40.000Z"
   },
   {
     "cat": "Politics",
-    "title": "Niranam Punyaalan claims Sree Narayana Trophy at 86th Kannetti boat race",
-    "desc": "Rowed by the Kumarakom Town Boat Club under the banner of Souhridham 87, the boat crossed the finish line first to secure the championship title along with a cash prize of ₹1.5 lakh. Naduvilaparamban, rowed by Sangham Kannetti, in second place, followed by St. Pius Tenth, operated by the Iruvar Boat Club, in third",
-    "img": "https://th-i.thgim.com/public/incoming/bd9w4f/article71401189.ece/alternates/LANDSCAPE_1200/80686_28_8_2026_19_10_48_1_29TVKO_BOATRACE.JPG",
+    "title": "Old rules, new rebels",
+    "desc": "Haryana’s khap panchayats have issued diktats against love marriages within a village cluster or clan, and live-in and same-sex relationships. If people do not abide by these, they will be barred from entering their villages, the khaps say. This has drawn strong opposition from Gen Z on social media. A section of the youth, both women and men, say the personal choices of consenting adults trump community custom. And that laws, rather than elderly men, protect women, reports Ashok Kumar",
+    "img": "https://th-i.thgim.com/public/incoming/ou1za2/article71400337.ece/alternates/LANDSCAPE_1200/KHAP%20PANCHAYAT%20GROUND%20ZERO.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/niranam-punyaalan-claims-sree-narayana-trophy-at-86th-kannetti-boat-race/article71401164.ece",
-    "time": "2026-08-28T14:38:29.000Z"
+    "url": "https://www.thehindu.com/news/national/haryana/gen-z-vs-haryana-khap-panchayats-old-rules-new-rebels/article71395638.ece",
+    "time": "2026-08-28T23:05:20.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "‘Unfounded’: RIL rejects allegations by Subhash Chandra",
+    "desc": "Reliance Industries has denied allegations made by Essel Group chairman Subhash Chandra. Chandra claimed Ambani's media group conducted a witch hunt against him. He also alleged associates manipulated Zee's share price and used shell entities. Chandra further stated Ambani sought to acquire Zee in collusion with an investor. Lenders are now challenging a tribunal-approved settlement in Chandra's insolvency case.",
+    "img": "https://static.toiimg.com/photo/msid-133601710,imgsize-35138.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/unfounded-reliance-industries-rejects-allegations-by-subhash-chandra/articleshow/133601710.cms",
+    "time": "2026-08-28T23:01:39.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Jio Platforms gets Sebi nod for 37.7k cr IPO, set to be India's biggest",
+    "desc": "Jio Platforms received Sebi clearance for its initial public offering. The company aims to raise up to four billion dollars in this debut. This offering is expected to become India's largest stock market listing. Jio plans a pure primary issue, with proceeds retiring debt. Reliance Industries holds a majority stake in Jio Platforms.",
+    "img": "https://static.toiimg.com/photo/msid-133601672,imgsize-89740.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/jio-platforms-gets-sebi-nod-for-37-7k-cr-ipo-set-to-be-indias-biggest/articleshow/133601659.cms",
+    "time": "2026-08-28T22:45:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hockey India announces ₹50 lakh cash award for women's hockey team on historic 5th place finish at World Cup",
+    "desc": "The team went through the campaign with just one defeat, holding higher-ranked sides China, England and Australia to draws and recording a 6-1 win over South Africa, before completing their run under Chief Coach Sjoerd Marijne with the win over Germany",
+    "img": "https://th-i.thgim.com/public/news/national/oq85ek/article71402383.ece/alternates/LANDSCAPE_1200/GetImageContent.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/hockey/hockey-india-announces-50-lakh-cash-award-for-womens-hockey-team-on-historic-5th-place-finish-at-world-cup/article71402382.ece",
+    "time": "2026-08-28T22:17:03.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tennessee's governor backs bid to rename airport after Dolly Parton",
+    "desc": "Fans are pushing to rename Nashville International Airport for Dolly Parton. Governor Bill Lee and airport authority officials support this name change. An online petition gained significant traction after Parton's recent passing. The airport authority will discuss the proposal and naming policy next month. This potential renaming honors Parton's enduring legacy and contributions to Tennessee.",
+    "img": "https://static.toiimg.com/photo/msid-133599949,imgsize-443136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/nashville-airport-to-be-renamed-after-dolly-parton-tennessees-governor-announces-days-after-singers-demise/articleshow/133599809.cms",
+    "time": "2026-08-28T21:35:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Flash floods put focus on India's glacial lakes",
+    "desc": "Nepal's alarming glacial lake outburst flood serves as a wake-up call for India, which is home to about 200 vulnerable glacial lakes in the Himalayas. The GLOF incident in Sikkim resulted in severe damage, highlighting the urgency of proactive measures. In response, the Indian government has launched a National GLOF Risk Mitigation Programme focused on thorough assessments, continuous monitoring, effective early warnings, and raising awareness within local communities.",
+    "img": "https://static.toiimg.com/photo/msid-133599813,imgsize-386646.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/flash-floods-put-focus-on-indias-glacial-lakes/articleshow/133599814.cms",
+    "time": "2026-08-28T21:16:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Junk foods will soon have labels warning of high salt, sugar and fat",
+    "desc": "Junk foods will soon feature prominent red warning labels on their packaging. These labels will highlight high levels of salt, sugar, and fat content. The Food Safety and Standards Authority of India has agreed to this new regulation. This move aims to help consumers make more informed purchasing decisions. The phased implementation will allow the industry time to adjust product formulations.",
+    "img": "https://static.toiimg.com/photo/msid-133599958,imgsize-250184.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/junk-foods-will-soon-have-labels-warning-of-high-salt-sugar-and-fat/articleshow/133599785.cms",
+    "time": "2026-08-28T20:59:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CJI Surya Kant",
+    "desc": "Speaking at the Commonwealth Secretariat in London, CJI Kant said, “Countries that are finally industrialising are being asked to move rapidly towards renewable power, and are often made to bear the brunt of criticism when they cannot move fast enough.” “The challenge, therefore, is to reconcile the urgency of the clean energy transition with the principles of fairness and shared responsibility that must underpin it,” the CJI said.",
+    "img": "https://static.toiimg.com/photo/msid-133599796,imgsize-104496.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/clean-energy-push-unfair-on-developing-nations-cji-surya-kant/articleshow/133599748.cms",
+    "time": "2026-08-28T20:58:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CISF signs MoU to enhance counter-drone skills of security personnel",
+    "desc": "The paramilitary force guards 370 units across the country, including those in the highly sensitive sectors such as aviation, nuclear power, space and oil refineries, among others, and it has been designated as the nodal agency to handle aerial threats at these installations",
+    "img": "https://th-i.thgim.com/public/incoming/cyl5n3/article71402260.ece/alternates/LANDSCAPE_1200/PTI08_12_2024_000283A.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/cisf-signs-mou-to-enhance-counter-drone-skills-of-security-personnel/article71402256.ece",
+    "time": "2026-08-28T20:56:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Nilekani committee seeks public ideas to fix exams",
+    "desc": "The panel, headed by Infosys co-founder and technology expert Nandan Nilekani, was announced by Prime Minister Narendra Modi last month amid heightened scrutiny of the examination system following NEET-UG paper leak controversy and youth protests over alleged lapses in the test’s conduct. It will also look at measures to improve accessibility and inclusion, while factoring in student well-being during the examination process.",
+    "img": "https://static.toiimg.com/photo/msid-133599789,imgsize-106146.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/nilekani-committee-seeks-public-ideas-to-fix-exams/articleshow/133599746.cms",
+    "time": "2026-08-28T20:55:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "National Testing Agency gets three senior officers amid exam overhaul",
+    "desc": "IPS officer Ravi Kumar Singh and IAS officer Prasanna Venkatesh V have been appointed directors at NTA, while Amit Samdariya, a 2016-batch Indian Revenue Service (customs and indirect taxes) officer, will join as joint director. The appointments were cleared through separate personnel ministry orders dated August 27. The personnel ministry has directed all three officers to take charge within three weeks.",
+    "img": "https://static.toiimg.com/photo/msid-133599779,imgsize-79824.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/national-testing-agency-gets-three-senior-officers-amid-exam-overhaul/articleshow/133599745.cms",
+    "time": "2026-08-28T20:51:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Sonia memoir row deepens, Congress alleges government pressure",
+    "desc": "Penguin Random House India has made the decision not to publish Sonia Gandhi's memoir, leading to allegations from Congress regarding external pressure to omit references to Modi and China. In response, Penguin emphasized its commitment to editorial integrity and its role in verifying facts. They remain open to publishing the memoir in India, but uncertainties linger surrounding the rights for its release in the country.",
+    "img": "https://static.toiimg.com/photo/msid-133599777,imgsize-175080.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/sonia-memoir-row-deepens-congress-alleges-government-pressure/articleshow/133599761.cms",
+    "time": "2026-08-28T20:51:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "RSS weekly expands ‘dimagi Naxal’ label",
+    "desc": "In an editorial, ‘Organiser’ termed NAC as marking the “classic takeover of the ‘dimagi Naxals’ of governance”. It said, “As the armed rebellion has failed miserably, the dimagi variant has taken charge.” The editorial added penetrating bureaucracy, policy machinery, legal system, academia, media and NGOs formed part of this “revolutionary strategy”.",
+    "img": "https://static.toiimg.com/photo/msid-133599766,imgsize-67284.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/from-reds-to-ngos-rss-weekly-expands-dimagi-naxal-label/articleshow/133599744.cms",
+    "time": "2026-08-28T20:47:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Spooked by visuals &amp; reports, tourists cancel bookings, tour operators hit",
+    "desc": "A Darjeeling couple had planned a 15-day trip to Mansarovar via Kerung in Sept. The Rs 4.4-lakh tour package included permits for entering Tibet. They cancelled the trip after watching videos of Kerung being swept away. Kolkata travel agents Anil Punjabi and Anjani Dhanuka had furrowed brows over rising cancellations even as many sought updates on the safety of other Nepal destinations like Kathmandu, Pokhara, Patan and Lumbini.",
+    "img": "https://static.toiimg.com/photo/msid-133599754,imgsize-125878.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/nepal-floods-spooked-by-visuals-reports-tourists-cancel-bookings-tour-operators-hit/articleshow/133599743.cms",
+    "time": "2026-08-28T20:43:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "₹1.50-crore project to redevelop Vyttila Junction in Keralam’s Kochi nearing completion",
+    "desc": "The widened and redeveloped portions beneath the Vyttila flyover being opened to traffic in a phased manner; a dedicated bus bay to park four buses at a time to be readied on the south-western side of the junction",
+    "img": "https://th-i.thgim.com/public/incoming/ftcn3s/article71401790.ece/alternates/LANDSCAPE_1200/Vyttila_03.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/150-crore-project-to-redevelop-vyttila-junction-nearing-completion/article71401052.ece",
+    "time": "2026-08-28T20:33:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "High-powered task force looking into NTA reforms invites stakeholder suggestions",
+    "desc": "The Nandan Nilekani-led task force set up by PM Narendra Modi requested stakeholders to submit their suggestions by Sept. 13; submissions can be made in English, Hindi or regional languages by phone, mail, WhatsApp or website",
+    "img": "https://th-i.thgim.com/public/news/national/g8if6n/article71402239.ece/alternates/LANDSCAPE_1200/iStock-1443628665.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/education/high-powered-task-force-looking-into-nta-reforms-invites-stakeholder-suggestions/article71401674.ece",
+    "time": "2026-08-28T20:02:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Dalit man transporting cattle forced to eat cattle dung by ‘cow vigilantes’ in Maharashtra; no arrest made yet",
+    "desc": "A case was registered against the six on August 27 after a video purportedly showing the incident went viral; one of the accused recorded the incident and threatened the victim with serious consequences if they approached the police",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/six-cow-vigilantes-in-maharashtra-accused-of-assaulting-a-dalit-man/article71399255.ece",
+    "time": "2026-08-28T19:42:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress alleges Penguin India succumbed to ‘pressure’ to demand changes in Sonia memoir",
+    "desc": "Congress leader Ashok Gehlot claims Penguin India sought to remove sections critical of the PM, the RSS, and China’s “occupation“ of Indian land; says Penguin Worldwide was willing to publish the book unchanged for global audience",
+    "img": "https://th-i.thgim.com/public/incoming/uki869/article71402215.ece/alternates/LANDSCAPE_1200/PTI07_07_2026_000324B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/congress-alleges-penguin-india-succumbed-to-pressure-to-demand-changes-in-sonia-memoir/article71400938.ece",
+    "time": "2026-08-28T19:37:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Belgium break Indian hearts in shootout as Harmanpreet’s side finishes eighth",
+    "desc": "India's spirited hockey fightback concluded with heartbreak against Belgium. The teams played to a thrilling 3-3 draw in regulation time. Belgium ultimately prevailed in a tense penalty shootout after the match. India had initially taken the lead through Abhishek's early field goal. Harmanpreet Singh scored twice to force the shootout, but Belgium won.",
+    "img": "https://static.toiimg.com/photo/msid-133598596,imgsize-165530.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/belgium-break-indian-hearts-in-shootout-as-harmanpreets-side-finish-eighth-in-hockey-world-cup/articleshow/133598475.cms",
+    "time": "2026-08-28T18:38:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Hockey India rewards women’s team with Rs 50 lakh after historic World Cup finish",
+    "desc": "In a remarkable achievement, Hockey India has granted fifty lakh rupees to the women's team following their impressive fifth-place finish in the World Cup, their best in fifty-two years. The team successfully defeated Germany in their concluding match and only faced one defeat during the tournament. This honor not only rewards their dedication but also motivates them for future challenges.",
+    "img": "https://static.toiimg.com/photo/msid-133596656,imgsize-160600.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/hockey/hockey-india-rewards-womens-team-with-rs-50-lakh-after-historic-fifth-place-world-cup-finish/articleshow/133596468.cms",
+    "time": "2026-08-28T17:17:16.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.S. civil rights march targets Trump voting changes",
+    "desc": "The \"Defend the Vote\" march brought protesters to the National Mall 63 years to the day after Martin Luther King Jr. delivered his \"I Have a Dream\" speech during the landmark 1963 March on Washington",
+    "img": "https://th-i.thgim.com/public/incoming/e9ilwd/article71401990.ece/alternates/LANDSCAPE_1200/Trump_34656.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-civil-rights-march-targets-trump-voting-changes/article71401981.ece",
+    "time": "2026-08-28T17:14:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ED freezes ₹51 crore in DHFL loan ‘fraud’ case",
+    "desc": "The ED probe under the Prevention of Money Laundering Act is based on an FIR registered by the CBI pursuant to a complaint lodged by the Union Bank of India on behalf of a consortium of 17 banks",
+    "img": "https://th-i.thgim.com/public/incoming/r6n4cl/article71401057.ece/alternates/LANDSCAPE_1200/IMG_IMG_BL14_DHFL_2_1_2F_2_1_029UVBK8.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/ed-freezes-51-crore-in-dhfl-loan-fraud-case/article71400849.ece",
+    "time": "2026-08-28T17:06:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Accused Mohammad Islam seeks to plead guilty",
+    "desc": "The Bangladeshi national accused in the Saif Ali Khan stabbing case has approached the court. Mohammad Shariful Islam expressed his willingness to plead guilty and sought leniency. The court has asked the prosecution to file its reply and adjourned the hearing. Charges were framed against Islam under relevant provisions of the Bharatiya Nyaya Sanhita. Saif Ali Khan was repeatedly stabbed by an intruder inside his Bandra residence.",
+    "img": "https://static.toiimg.com/photo/msid-133595669,imgsize-456186.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saif-ali-khan-stabbing-incident-accused-mohammad-shariful-islam-seeks-to-plead-guilty/articleshow/133595576.cms",
+    "time": "2026-08-28T16:23:23.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Fresh glacial lakes form at source of Nepal’s ice-rock avalanche",
+    "desc": "NDMA head confirms the formation of two new lakes and moraines, but says no information is available on water volume; monitoring limitations mean that early warning systems may not be able to prevent another such disaster",
+    "img": "https://th-i.thgim.com/public/incoming/meh0zn/article71401705.ece/alternates/LANDSCAPE_1200/2026-08-28T105425Z_959092376_RC2M7NAIXUCS_RTRMADP_3_NEPAL-FLOODS-CHINA.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/fresh-glacial-lakes-form-at-source-of-nepals-ice-rock-avalanche/article71401188.ece",
+    "time": "2026-08-28T16:13:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Amanda Seyfried lists Adam Brody’s old LA home for $3.2 million",
+    "desc": "Amanda Seyfried has listed her 1916 Los Angeles home for $3.2 million, 15 years after buying it from Adam Brody for $1.85 million. The three-bedroom property has a pool, spa, gardens and wraparound porch. Seyfried now primarily lives on her upstate New York farm with husband Thomas Sadoski, children and rescued animals.",
+    "img": "https://static.toiimg.com/photo/msid-133595331,imgsize-66585.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2011-amanda-seyfried-bought-adam-brodys-1916-los-angeles-home-for-1-85-million-15-years-later-after-choosing-farm-life-in-upstate-new-york-she-is-asking-3-2-million/articleshow/133595220.cms",
+    "time": "2026-08-28T16:04:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Brevis’ 75 goes in vain as Namibia stun South Africa in tri-series opener",
+    "desc": "In a thrilling opening match, Namibia triumphed over South Africa by an eighteen-run margin. Although the hosts set a target of 163 runs, they successfully defended it as their bowlers limited the Proteas to just 145 runs. Dewald Brevis fought valiantly with a score of 75, but it fell short.",
+    "img": "https://static.toiimg.com/photo/msid-133595323,imgsize-2002363.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/dewald-brevis-75-runs-goes-in-vain-as-namibia-beat-south-africa-by-18-runs-in-tri-series-opener/articleshow/133595169.cms",
+    "time": "2026-08-28T16:01:07.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India's forex reserves hit all-time high of $729.33bn after $12.42bn jump",
+    "desc": "India's foreign exchange reserves reached an all-time high of $729.328 billion. This surge marks eight consecutive weeks of significant increases in reserves. Foreign currency assets and gold holdings were the primary drivers of this substantial rise. Measures to attract overseas dollar inflows contributed to the record accumulation of reserves. The Reserve Bank of India's interventions also played a role in managing these inflows.",
+    "img": "https://static.toiimg.com/photo/msid-133595222,imgsize-107790.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-forex-reserves-hit-all-time-high-of-729-33-billion-after-12-42-billion-jump/articleshow/133595128.cms",
+    "time": "2026-08-28T16:00:01.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "UNCCD concludes COP17 with new drought resilience and land restoration initiatives",
+    "desc": "The recently concluded UNCCD conference in Mongolia set the stage for enhanced global drought resilience with innovative initiatives. Highlighted was a significant $1.3 billion commitment for land restoration and drought resilience projects. The newly introduced Drought Resilience Index will aid nations in evaluating their strategies, while the Drought Resilience Investment Facility seeks to attract public and private funding for impactful projects, aiming to scale solutions worldwide.",
+    "img": "https://static.toiimg.com/photo/msid-133595125,imgsize-63918.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/unccd-concludes-cop17-with-new-drought-resilience-and-land-restoration-initiatives/articleshow/133595093.cms",
+    "time": "2026-08-28T15:49:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Chennai Canvas: Madras Week Episode 7",
+    "desc": "Madras Week, we explore three distinct threads that have shaped the city’s identity. From the colourful evolution of Madras bashai and the many languages that have enriched Chennai’s everyday vocabulary, to the city’s coast as a vast open-air arena where people gather, relax and celebrate, and the nostalgia surrounding Anand Theatre, once a landmark destination for generations of film buffs. Together, these stories capture the language, spaces and memories that make Chennai unique.",
+    "img": "https://th-i.thgim.com/public/incoming/1g9x4n/article71401621.ece/alternates/LANDSCAPE_1200/maxresdefault.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/watch-chennai-canvas-madras-week-episode-7-language-coast-and-cinema/article71401618.ece",
+    "time": "2026-08-28T15:39:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Jailer’ actor Vinayakan reveals why he divorced his wife",
+    "desc": "Actor Vinayakan shared insights into his amicable divorce, highlighting that the decision to part ways was mutual due to their inability to coexist. He candidly admitted that his personality traits posed challenges in relationships. Interestingly, despite their separation, his ex-wife continues to assist with some of his professional affairs, while Vinayakan remains committed to taking on demanding roles in his acting career.",
+    "img": "https://static.toiimg.com/photo/msid-133594600,imgsize-182861.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/jailer-actor-vinayakan-reveals-why-he-divorced-his-wife-we-couldnt-live-together-so-we-separated/articleshow/133594592.cms",
+    "time": "2026-08-28T15:11:41.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "IndiGo Ventures invests in Sarvam to enhance Artificial Intelligence in aviation",
+    "desc": "IndiGo Ventures is investing in Sarvam, an Indian AI company. This investment supports Sarvam's Series B funding round. The partnership aims to enhance customer experience and operational workflows. Both companies will develop AI applications for a modern airline infrastructure. This collaboration seeks to accelerate innovation and maximize stakeholder value.",
+    "img": "https://static.toiimg.com/photo/msid-133594596,imgsize-49802.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indigo-ventures-invests-in-sarvam-to-enhance-artificial-intelligence-in-aviation/articleshow/133594534.cms",
+    "time": "2026-08-28T15:10:20.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "The biggest transgender debates in sport",
+    "desc": "Anaya Bangar's comeback in cricket reignites discussions on transgender athletes worldwide. The involvement of Laurel Hubbard in the Olympics represented a historic moment for diversity in sports. Lia Thomas's NCAA victory sparked intense conversations about eligibility in collegiate athletics. Meanwhile, the case of Emily Bridges in cycling has catalyzed shifts in international policies.",
+    "img": "https://static.toiimg.com/photo/msid-133594351,imgsize-1514123.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/from-anaya-bangars-cricket-return-to-imane-khelifs-olympic-gold-controversy-the-biggest-transgender-and-gender-eligibility-debates-in-sport/articleshow/133594137.cms",
+    "time": "2026-08-28T14:57:15.000Z"
   },
   {
     "cat": "Entertainment",
@@ -28,30 +307,12 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "Dalit man transporting cattle forced to eat cattle dung by ‘cow vigilantes’ in Maharashtra; no arrest made yet",
-    "desc": "A case was registered against the six on August 27 after a video purportedly showing the incident went viral; one of the accused recorded the incident and threatened the victim with serious consequences if they approached the police",
-    "img": "https://th-i.thgim.com/public/incoming/nwf1fk/article71400558.ece/alternates/LANDSCAPE_1200/AGRICULTURE%20WORKERS%20INFRASTRUCTURE%20MARATHA%20COMMUNITY%20FARM%20FIELD%20.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/maharashtra/six-cow-vigilantes-in-maharashtra-accused-of-assaulting-a-dalit-man/article71399255.ece",
-    "time": "2026-08-28T14:36:01.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Uttarakhand CM Dhami announces free bus travel, Pink e-Buses for women on Raksha Bandhan",
     "desc": "In a significant announcement, Uttarakhand Chief Minister Pushkar Singh Dhami revealed a series of initiatives aimed at empowering women. Notably, women aged sixty and older will enjoy free travel on Roadways buses. Additionally, ten electric buses in Dehradun are designated as Pink e-Buses for women’s convenience. Moreover, the loan limit for women's self-employment schemes has been raised to Rs 2.",
     "img": "https://static.toiimg.com/photo/msid-133594002,imgsize-130076.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/uttarakhand-cm-dhami-announces-free-bus-travel-pink-e-buses-for-women-on-raksha-bandhan/articleshow/133593963.cms",
     "time": "2026-08-28T14:31:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India’s first dedicated Quantum and AI University campus to come up in Amaravati",
-    "desc": "The ₹730-crore facility of National Institute of Electronics and Information Technology is proposed to be fully funded by the Government of India grant-in-aid; academic and skill-development programmes to begin from September 2026 at a temporary facility in Acharya Nagarjuna University in Guntur",
-    "img": "https://th-i.thgim.com/public/incoming/gsl7bk/article71401128.ece/alternates/LANDSCAPE_1200/DSC_2275.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/indias-first-dedicated-quantum-and-ai-university-campus-to-come-up-in-amaravati/article71400647.ece",
-    "time": "2026-08-28T14:27:20.000Z"
   },
   {
     "cat": "Entertainment",
@@ -73,7 +334,7 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "‘Go and educate yourself’: Anaya Bangar hits back at Marizanne Kapp over cricket return",
+    "title": "‘Go and educate yourself’: Anaya hits back at Marizanne Kapp over cricket return",
     "desc": "Anaya Bangar urged critics to educate themselves on transgender inclusion in sports. She is seeking a pathway back into competitive women's cricket after surgery. Cricket Australia has cleared her for elite play under specific policy requirements. Bangar aims to prove herself at the community level before aiming for the Women's Big Bash League. Her eligibility for elite cricket is subject to ongoing policy compliance and performance.",
     "img": "https://static.toiimg.com/photo/msid-133593730,imgsize-116712.cms",
     "src": "indiatimes.com",
@@ -88,24 +349,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/punjab-mmsy-beneficiaries-get-post-discharge-calls-from-104-health-helpline/articleshow/133593436.cms",
     "time": "2026-08-28T14:08:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Why Mayawati is going solo in Punjab",
-    "desc": "Mayawati's Bahujan Samaj Party will contest Punjab's 2027 elections alone. This move highlights the difficulty of forming a unified Dalit vote bloc. Punjab has India's highest Scheduled Caste population, yet it remains divided. Mainstream parties like AAP and Congress have appealed across caste lines. The Bahujan Samaj Party's gamble tests its ability to unite this diverse electorate.",
-    "img": "https://static.toiimg.com/photo/msid-133589646,imgsize-1176591.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/punjab-elections-2026-why-mayawati-is-going-solo-the-dalit-factor-explained/articleshow/133588977.cms",
-    "time": "2026-08-28T14:02:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Free insulin for life': Amit Shah celebrates Rakshabandhan with girls diagnosed with diabetes",
-    "desc": "Home Minister Amit Shah marked Raksha Bandhan by spending time with young girls battling Type 1 diabetes, revealing that the government will provide them with free insulin for their lifetimes. This initiative is designed to alleviate the financial stresses of ongoing treatment, showcasing the government's dedication to the health and protection of daughters while building on current measures to manage diabetes among youth nationally.",
-    "img": "https://static.toiimg.com/photo/msid-133593104,imgsize-144008.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/free-insulin-for-life-amit-shah-celebrates-rakshabandhan-with-girls-diagnosed-with-diabetes/articleshow/133593026.cms",
-    "time": "2026-08-28T13:59:30.000Z"
   },
   {
     "cat": "Entertainment",
@@ -153,15 +396,6 @@ const newsData_en = [
     "time": "2026-08-28T13:42:34.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Shoulder grab is not sexual harassment, observes Bombay High Court",
-    "desc": "The single-judge Bench of Justice Abhay Mantri partly quashed an FIR against the accused after an FIR was lodged by a female BDO at a gram panchayat office; the complainant stated that the accused entered the office, quarrelled with her, and then grabbed her right shoulder before shoving her away",
-    "img": "https://th-i.thgim.com/public/incoming/3wc66n/article71400202.ece/alternates/LANDSCAPE_1200/iStock-1125111981.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/shoulder-grab-is-not-sexual-harassment-says-bombay-hc/article71399562.ece",
-    "time": "2026-08-28T13:42:20.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "'Rajinikanth apologised': Amrish Puri once walked out from his film",
     "desc": "Rajeev Puri highlighted the close-knit bonds his father, Amrish Puri, shared with many Bollywood stars. Actors like Sunny Deol and Ajay Devgn viewed Amrish as a paternal figure. Initially hesitant to collaborate with Rajinikanth due to a perceived aloofness, Amrish eventually featured alongside him in the film Thalapathi, leading to a warm friendship. His legendary performances continue to resonate deeply with fans.",
@@ -169,42 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajinikanth-apologised-amrish-puri-once-walked-out-feeling-the-superstar-was-throwing-his-weight-around-reveals-his-son-rajeev-puri/articleshow/133592498.cms",
     "time": "2026-08-28T13:41:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Instances of illegal sand mining from riverbeds of Cauvery, Amaravati come down",
-    "desc": "Environmentalists had alleged that iIllegal sand mining took place at 30 places on the riverbeds of the two rivers; officials say the number of complaints has come down after the TVK came to power in the State",
-    "img": "https://th-i.thgim.com/public/incoming/8h4ngu/article71400881.ece/alternates/LANDSCAPE_1200/ED_05.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/instances-of-illegal-sand-mining-from-riverbeds-of-cauvery-amaravati-come-down/article71400676.ece",
-    "time": "2026-08-28T13:41:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "320 Indians still missing as Nepal flood death toll rises; Penguin clarifies it's not publishing Sonia Gandhi’s memoir &amp; more",
-    "desc": "Nepal's devastating floods have left 320 Indian nationals missing and claimed 547 lives. ICIMOD had previously warned of rising Himalayan glacier disaster risks months before the floods. Penguin Random House India denied dropping Sonia Gandhi's memoir over editorial changes. Jio Platforms received Sebi approval for its substantial $3.8 billion IPO. Annamalai questioned the CBFC's clearance for Yash's film Toxic due to its content.",
-    "img": "https://static.toiimg.com/photo/msid-133592482,imgsize-1475212.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/320-indians-still-missing-as-nepal-flood-death-toll-rises-penguin-clarifies-its-not-publishing-sonia-gandhis-memoir-more/articleshow/133591858.cms",
-    "time": "2026-08-28T13:29:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Nilekani panel seeks public ideas to fix exam system",
-    "desc": "The task force, spearheaded by Nandan Nilekani, is actively engaging citizens in discussions for examination reforms set to reshape the entire assessment landscape nationwide. Suggestions are welcomed until September 13 through various channels, aimed at establishing a secure and transparent public examination process. This initiative responds to recent youth protests and controversies surrounding examination integrity.",
-    "img": "https://static.toiimg.com/photo/msid-133592261,imgsize-106146.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/nilekani-panel-seeks-public-ideas-to-fix-exam-system/articleshow/133592115.cms",
-    "time": "2026-08-28T13:25:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Karnataka minister B Nagendra resigns; breaks down on camera",
-    "desc": "Karnataka minister B Nagendra resigned Friday amid scam allegations. He alleged a conspiracy targeting him as a tribal man. Nagendra had been re-inducted into the cabinet earlier this month. The controversy involves alleged diversion of corporation funds totaling Rs 89.63 crore. Opposition parties had demanded his resignation over the issue.",
-    "img": "https://static.toiimg.com/photo/msid-133592941,imgsize-1147368.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/valmiki-scam-karnataka-minister-b-nagendra-resigns-breaks-down-on-camera/articleshow/133592285.cms",
-    "time": "2026-08-28T13:19:07.000Z"
   },
   {
     "cat": "Entertainment",
@@ -252,6 +450,15 @@ const newsData_en = [
     "time": "2026-08-28T12:37:32.000Z"
   },
   {
+    "cat": "World",
+    "title": "Ebola outbreak in eastern Congo spreads to two new health zones with total of 60 areas now affected",
+    "desc": "The two new zones affected are Biena and Manguredjipa in Congo's North Kivu Province, where the case fatality rate is much higher than the overall rate of 48%, due in part to delayed response efforts, according to Congo's Ministry of Health data",
+    "img": "https://th-i.thgim.com/public/incoming/vojt2j/article71400155.ece/alternates/LANDSCAPE_1200/2026-08-21T112538Z_1019628448_RC23WLAWITCL_RTRMADP_3_HEALTH-EBOLA-UN.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/ebola-outbreak-in-eastern-congo-spreads-to-two-new-health-zones-with-total-of-60-areas-now-affected/article71399998.ece",
+    "time": "2026-08-28T12:31:18.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Amrish Puri's son denies the Govinda SLAP story: 'He was never..'",
     "desc": "In response to speculation regarding a purported incident involving his father, Rajeev Puri has dismissed claims that Amrish Puri slapped Govinda. He noted that his father did not exhibit that type of aggression. While Rajeev mentioned that Govinda's habitual lateness may have cost them future projects, he confirmed that Amrish bore no resentment towards him. The two shared their last cinematic experience together in the 1989 movie Do Qaidi.",
@@ -268,15 +475,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/gujarati/movies/news/manasi-parekh-recalls-nepal-floods-we-were-5-hours-away-from-the-place-where-the-incident-happened/articleshow/133590906.cms",
     "time": "2026-08-28T12:01:50.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Riddhima Kapoor Sahni shares UNSEEN childhood photo with Ranbir Kapoor",
-    "desc": "Riddhima Kapoor Sahni took a trip down memory lane by sharing a nostalgic snapshot from 1986 to commemorate Raksha Bandhan. The heartwarming image showcased a young Ranbir Kapoor alongside their mother, Neetu Kapoor, who affectionately reposted it, calling them her loves. Both siblings emphasize the significance of family ties. Meanwhile, Kangana Ranaut also marked the occasion with a sweet tribute to her brother, Akshat Ranaut.",
-    "img": "https://static.toiimg.com/photo/msid-133590778,imgsize-197277.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/riddhima-kapoor-sahni-shares-unseen-childhood-photo-with-ranbir-kapoor-on-raksha-bandhan-neetu-kapoor-calls-them-my-loves/articleshow/133590709.cms",
-    "time": "2026-08-28T11:56:58.000Z"
   },
   {
     "cat": "Business",
@@ -297,24 +495,6 @@ const newsData_en = [
     "time": "2026-08-28T11:41:48.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "61% of children in India exposed to one more month of heat stress due to climate change: Study",
-    "desc": "New research reveals 61 percent of Indian children face extra heat stress annually. Climate change has doubled young children's exposure to dangerous heat levels. This exposure outpaces all other age groups, affecting millions of youngsters. Future warming scenarios project even greater heat stress for Indian children. Developing nations and younger populations bear a disproportionate burden of this threat.",
-    "img": "https://static.toiimg.com/photo/msid-133590507,imgsize-948879.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/61-of-children-in-india-exposed-to-one-more-month-of-heat-stress-due-to-climate-change-study/articleshow/133590474.cms",
-    "time": "2026-08-28T11:40:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Salman spotted after celebrating Raksha Bandhan with sisters",
-    "desc": "Salman Khan stepped out with tikas and rakhis after a private Raksha Bandhan celebration with sisters Alvira and Arpita, offering a rare glimpse of his personal side. The Khans traditionally unite for festivals. Meanwhile, Salman is set to host 'Bigg Boss 20', was last seen in '7 Dogs', and will guest on 'Koffee with Karan'.",
-    "img": "https://static.toiimg.com/photo/msid-133590391,imgsize-175095.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tika-on-forehead-rakhis-on-hand-salman-khan-spotted-after-celebrating-raksha-bandhan-with-sisters-alvira-and-arpita/articleshow/133590376.cms",
-    "time": "2026-08-28T11:33:39.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘People don’t know the real story’: India hockey coach on pre-World Cup leave",
     "desc": "Coach Sjoerd Marijne stood firm on his leave during the World Cup, emphasising that his participation remained steady. He highlighted that the team's readiness was intact throughout his time away. India secured an impressive fifth place at the FIH World Cup, and Marijne inspired the squad to maintain their drive and elevate their standards. He envisions their achievements motivating more young girls to take up hockey.",
@@ -324,15 +504,6 @@ const newsData_en = [
     "time": "2026-08-28T11:30:36.000Z"
   },
   {
-    "cat": "World",
-    "title": "Ebola outbreak in eastern Congo spreads to two new health zones with total of 60 areas now affected",
-    "desc": "The two new zones affected are Biena and Manguredjipa in Congo's North Kivu Province, where the case fatality rate is much higher than the overall rate of 48%, due in part to delayed response efforts, according to Congo's Ministry of Health data",
-    "img": "https://th-i.thgim.com/public/incoming/vojt2j/article71400155.ece/alternates/LANDSCAPE_1200/2026-08-21T112538Z_1019628448_RC23WLAWITCL_RTRMADP_3_HEALTH-EBOLA-UN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/ebola-outbreak-in-eastern-congo-spreads-to-two-new-health-zones-with-total-of-60-areas-now-affected/article71399998.ece",
-    "time": "2026-08-28T11:30:04.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Hi’ movie review: Kavin, Nayanthara anchor Vishnu Edavan’s old-school wholesome entertainer",
     "desc": "With its warm and colourful frames, soulful songs, low-stakes drama, and writing that understands the enduring appeal of simple stories, Vishnu Edavan’s film brings back a comforting strain of Tamil cinema, with a superb cast doing much of the heavy lifting",
@@ -340,15 +511,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/hi-movie-review-kavin-nayanthara-vishnu-edavan-bhagyaraj-radikaa-sarathkumar-prabhu/article71399779.ece",
     "time": "2026-08-28T11:29:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hrehaan Roshan makes singing debut with ‘This Heavenly Place’",
-    "desc": "Hrehaan Roshan has launched his music career with his debut single. He wrote and performed the English track titled 'This Heavenly Place'. His father, Hrithik Roshan, shared his pride and faith in his son's abilities. Sussanne Khan and Saba Azad also offered congratulations and praise for the young musician. This release marks Hrehaan's independent musical path, distinct from his family's film legacy.",
-    "img": "https://static.toiimg.com/photo/msid-133590313,imgsize-224708.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hrehaan-roshan-makes-singing-debut-with-this-heavenly-place-hrithik-roshan-says-i-trust-sons-instincts-sussanne-khan-and-saba-azad-shower-love/articleshow/133590256.cms",
-    "time": "2026-08-28T11:28:48.000Z"
   },
   {
     "cat": "Business",
@@ -367,24 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/test-cricket-needs-character-gautam-gambhirs-message-after-indias-draw-against-sri-lanka-in-colombo/articleshow/133589967.cms",
     "time": "2026-08-28T11:23:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Akshay on playing an unapologetically evil in Haiwaan",
-    "desc": "Akshay Kumar opens up about playing a villain in Priyadarshan's 'Haiwaan', calling it a \"huge relief\" as villains get more interesting arcs than heroes. He reunites with Saif Ali Khan after two decades, this time as adversaries. The film, also starring Boman Irani and Saiyami Kher, releases worldwide on September 11.",
-    "img": "https://static.toiimg.com/photo/msid-133590138,imgsize-221403.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-on-playing-an-unapologetically-evil-villain-in-haiwaan-saif-ali-khan-is-the-hero-i-create-trouble-for-him/articleshow/133590085.cms",
-    "time": "2026-08-28T11:15:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Upendra praises Yash’s ‘Toxic’ as ‘An entirely new experience’",
-    "desc": "Acclaimed actor Upendra has shared his admiration for Yash's film 'Toxic', praising its creative approach. This enthusiastic review, however, has ignited a mixed response from the audience. While a segment of viewers aligns with Upendra's praise, appreciating the film's originality, others have voiced strong disagreement, condemning both the film and the acclaim it has received. The impact of 'Toxic' continues to resonate, inciting diverse reactions.",
-    "img": "https://static.toiimg.com/photo/msid-133590055,imgsize-214559.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/upendra-praises-yashs-toxic-a-fairy-tale-for-grown-ups-calls-the-gangster-action-drama-a-new-world-and-an-entirely-new-experience/articleshow/133590009.cms",
-    "time": "2026-08-28T11:10:55.000Z"
   },
   {
     "cat": "Tech",
@@ -432,15 +576,6 @@ const newsData_en = [
     "time": "2026-08-28T10:02:43.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Accountability-evading gimmick’: Jairam Ramesh tears into Centre over free online coaching",
-    "desc": "Jairam Ramesh criticized the Centre's new digital education initiatives. He alleged the government announced free online coaching after Rahul Gandhi's remarks. Ramesh questioned the scheme's implementation, citing a report on past enrollment shortfalls. The government's focus should be on public education, not online coaching. Rahul Gandhi's campaign highlights student concerns and women's strength in India.",
-    "img": "https://static.toiimg.com/photo/msid-133588516,imgsize-1659465.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/accountability-evading-gimmick-jairam-ramesh-tears-into-centre-over-free-online-coaching/articleshow/133588185.cms",
-    "time": "2026-08-28T09:51:16.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Diesel’s desire: an engine for everyone",
     "desc": "For someone who wished to build an engine for everyone, August turned out to be an auspicious month. On August 10, 1893, Rudolf Diesel’s prime model was powered on its own for the first time. Five years later, on August 9, 1898, Diesel obtained a U.S. patent titled “Internal-combustion engine”. Join A.S.Ganesh as he tries to explain what fuelled Diesel’s desire…",
@@ -457,15 +592,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/pm-modi-to-undertake-4-day-visit-to-uzbekistan-kyrgyzstan/article71397369.ece",
     "time": "2026-08-28T09:44:40.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "China says collapse of glacier in Nepal likely behind flash flood",
-    "desc": "“We noted that experts and official institutions of China and Nepal have made preliminary assessments on the cause of the disaster. According to their analysis, the disaster may have been triggered by the collapse of a high altitude glacier in Nepal,” China’s Foreign Ministry spokesperson Lin Jian said.",
-    "img": "https://th-i.thgim.com/public/incoming/evqse0/article71399670.ece/alternates/LANDSCAPE_1200/2024-03-20T084454Z_1462860429_RC2JP6AO0J2S_RTRMADP_3_CHINA-DIPLOMACY.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/china-says-collapse-of-glacier-in-nepal-likely-behind-flash-flood/article71399637.ece",
-    "time": "2026-08-28T09:14:01.000Z"
   },
   {
     "cat": "Sports",
@@ -487,7 +613,7 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Toxic' BO Day 3 [LIVE]: Yash and Kiara Advani film crosses Rs 152 crore India net mark",
+    "title": "'Toxic': Yash, Kiara Advani film hits Rs 221 crore globally in just 3 days",
     "desc": "A Fairy Tale for Grown-Ups' shattered box office records on its opening day, comfortably outpace Ranveer Singh's Dhurandhar, netting a phenomenal Rs. 101.10 crore and Rs. 20.75 crore domestic gross across 24,579 screens in India. Yash's gangster epic is now heading into Day 3 with a fresh set of targets in sight.",
     "img": "https://static.toiimg.com/photo/msid-133587017,imgsize-109315.cms",
     "src": "indiatimes.com",
@@ -558,15 +684,6 @@ const newsData_en = [
     "time": "2026-08-28T03:59:56.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Sonal Dinusha scripts history vs India, breaks Root's all-time 'sweeping' record",
-    "desc": "The 25-year-old left-hander remained unbeaten on 133 in Sri Lanka's second innings as the hosts forced a draw in the second Test at the Sinhalese Sports Club in Colombo on Thursday. India still won the two-match series 1-0 after their victory in Galle.",
-    "img": "https://static.toiimg.com/photo/msid-133581980,imgsize-101840.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/sonal-dinusha-scripts-history-breaks-joe-roots-all-time-sweeping-record-as-sri-lanka-hold-india-for-draw/articleshow/133581826.cms",
-    "time": "2026-08-28T03:06:13.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "This multimedia installation explores the notion of home and memory",
     "desc": "Reminiscences of Home, a multimedia installation by Assamese indigenous artist Dhiraj Rabha, combines archival material, interviews, audio-video, and physical structures to give voice to the untold stories of people who lived in a Goalpara camp for former ULFA members",
@@ -574,15 +691,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/bangalore/this-multimedia-installation-explores-the-notion-of-home-and-memory/article71394818.ece",
     "time": "2026-08-28T01:46:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PCB threatens player protest after Atherton’s interview with Imran Khan’s sons",
-    "desc": "The Pakistan Cricket Board objected to Sky Sports airing an interview with Imran Khan's sons. The interview focused on their father's health and safety concerns while imprisoned. Sky Sports initially delayed the broadcast before showing it during the lunch interval. Khan's sons discussed their father's medical condition and access to treatment. This controversy arose after a Supreme Court order regarding Khan's hospital admission.",
-    "img": "https://static.toiimg.com/photo/msid-133581091,imgsize-60022.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pcb-threatens-player-protest-after-athertons-imran-khan-sons-interview-at-lords/articleshow/133581072.cms",
-    "time": "2026-08-28T01:39:06.000Z"
   },
   {
     "cat": "Sports",
@@ -640,60 +748,6 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "HDFC looks to appeal 99.97% haircut on claims against Zee’s Chandra",
-    "desc": "Assenting creditors (80.8%) contested allegations of being related parties and argued that Rs. 6.5-crore plan offered a better outcome compared to pushing the personal guarantor into bankruptcy, since Chandra’s net worth according to the resolution professional was only Rs. 31.8 crore, of which Rs. 25 crore was his mortgaged house. Chandra has disputed the Rs. 22,000-crore liability, stating it reflected historical claims filed in 2022.",
-    "img": "https://static.toiimg.com/photo/msid-133580411,imgsize-59180.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/hdfc-looks-to-appeal-99-97-haircut-on-claims-against-zees-chandra/articleshow/133578433.cms",
-    "time": "2026-08-27T22:33:21.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "HDFC shares drop 2% over CEO uncertainty, legal woes",
-    "desc": "HDFC Bank CEO Sashidhar Jagdishan’s tenure is set to expire on Oct 26. “There are just 2 months left and there is still no clarity about his extension/renewal. Markets have been worried about succession issues at HDFC Bank for some time now, as a result of which the stock has been weak,” said Suresh Ganapathy, an analyst with Macquarie.",
-    "img": "https://static.toiimg.com/photo/msid-133580403,imgsize-74478.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/hdfc-shares-drop-2-over-ceo-uncertainty-legal-woes/articleshow/133578432.cms",
-    "time": "2026-08-27T22:28:32.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Centre goes all-out to woo Japanese companies for investment",
-    "desc": "India, officials said, is seen to be a reliable player, which has a democracy and rule of law, in addition to a large and growing market. The pitch is also that a base in India will also help tap the large talent pool as well as traditional trade relations with West Asia and Africa, which also boasts of a large Indian diaspora.",
-    "img": "https://static.toiimg.com/photo/msid-133580394,imgsize-93104.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/centre-goes-all-out-to-woo-japanese-cos-for-investment/articleshow/133578431.cms",
-    "time": "2026-08-27T22:26:20.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Gaana, Fenix360 tie up to boost engagement",
-    "desc": "Streaming changed how the world listens to music. But for a long time, the relationship between artists and fans has largely stopped at the play button. Discovery happens on one platform, community happens on another and monetisation happens somewhere else if it happens at all. This partnership aims to close that gap. The wider ecosystem will also introduce new monetisation opportunities for artists.",
-    "img": "https://static.toiimg.com/photo/msid-133580388,imgsize-211278.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gaana-fenix360-tie-up-to-boost-engagement/articleshow/133578430.cms",
-    "time": "2026-08-27T22:23:06.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "‘Govt to focus on easing processes to boost FDI’",
-    "desc": "Goyal said govt was keen that investment model should not only focus on large companies but the entire value chain that leads to downstream indigenisation. In paints, for instance, import of titanium dioxide, a key input, is of the tune of $1 billion and govt wants it to be manufactured in India, he said.",
-    "img": "https://static.toiimg.com/photo/msid-133580378,imgsize-157642.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/govt-to-focus-on-easing-processes-to-boost-fdi/articleshow/133578429.cms",
-    "time": "2026-08-27T22:20:40.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Daikin lines up Rs 2,800 crore fresh investment",
-    "desc": "During his meeting, commerce and industry minister Piyush Goyal is learnt to have suggested to Daikin Industries president and COO Naofumi Takaneka that the Japanese company should go beyond assembling compressors to also manufacture them in India, including their components. Takaneka is learnt to have responded by saying that the R&D centre will seek to develop products that are conducive for Indian climate.",
-    "img": "https://static.toiimg.com/photo/msid-133580297,imgsize-205630.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/daikin-lines-up-rs-2800-crore-fresh-investment/articleshow/133578428.cms",
-    "time": "2026-08-27T22:16:58.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "India emerges as global production, innovation hub: FM",
     "desc": "At a joint presser with her Canadian counterpart François-Philippe Champagne, FM said she discussed practical avenues for cooperation in the financial sector, including cross border payments, financial stability, fintech and capital markets. “We (also) explored opportunities for wider international and multilateral cooperation on issues of interest, such as critical minerals and energy security.”",
     "img": "https://static.toiimg.com/photo/msid-133579789,imgsize-90924.cms",
@@ -727,15 +781,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/why-is-instagrams-design-under-fire-in-massive-child-safety-case-explained/article71397862.ece",
     "time": "2026-08-27T17:20:25.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Rs 1.1 lakh cr to Rs 2.1 lakh cr: Why cost of 1st bullet train project has doubled",
-    "desc": "The bullet train project is also becoming a platform for India's own high-speed rail ambitions. BEML and ICF are developing India's first indigenous high-speed trainset, with the first expected to roll out in 2027. The trains are being designed for operating speeds of around 250 kmph, with a design speed of 280 kmph.",
-    "img": "https://static.toiimg.com/photo/msid-133572581,imgsize-419414.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-first-bullet-train-project-began-with-a-rs-1-1-lakh-crore-estimate-cost-has-now-nearly-doubled-to-rs-2-1-lakh-crore-indigenously-made-high-speed-train-to-start-running-from-august-2027/articleshow/133572399.cms",
-    "time": "2026-08-27T15:52:17.000Z"
   },
   {
     "cat": "Tech",
@@ -783,15 +828,6 @@ const newsData_en = [
     "time": "2026-08-27T12:01:23.000Z"
   },
   {
-    "cat": "Business",
-    "title": "The big Indian IT sector shake-up: GCCs are hiring more than traditional tech; who is getting the jobs?",
-    "desc": "Global Capability Centres or GCCs which are essentially specialised offshore units of multinational companies are fast absorbing talent from the traditional IT sector. The trend suggests that India’s GCCs are emerging as an increasingly important engine of technology hiring.",
-    "img": "https://static.toiimg.com/photo/msid-133567274,imgsize-934225.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/the-big-indian-it-sector-shake-up-gccs-are-hiring-more-than-traditional-tech-who-is-getting-the-jobs/articleshow/133565257.cms",
-    "time": "2026-08-27T11:46:10.000Z"
-  },
-  {
     "cat": "World",
     "title": "Small plane crashes in water next to remote Alaska coastal town, killing all 4 on board",
     "desc": "Troopers were able to get the bodies of the four adults out of the plane. They're being sent to the medical examiner's office and their names will not be released until next of kin are notified, according to the Department of Public Safety",
@@ -817,15 +853,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/glacial-collapse-caused-seismic-activity-catastrophic-nepal-floods-usgs/article71394824.ece",
     "time": "2026-08-27T09:21:33.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Top B-schools average Rs 27.4 lakh",
-    "desc": "MBA roles for the class of 2026 offered average salaries that were 52% higher than those for engineering positions. The gap is expected to grow further, with MBA roles for students appearing for placements in 2026, or the class of 2027, projected to offer 59% higher pay than engineering roles.",
-    "img": "https://static.toiimg.com/photo/msid-133561208,imgsize-640014.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/mba-degree-is-paying-more-than-engineering-top-10-b-schools-offer-rs-27-4-lakh-average-while-the-salary-premium-of-mbas-over-engineering-is-set-to-rise-from-52-to-59/articleshow/133560807.cms",
-    "time": "2026-08-27T09:02:00.000Z"
   },
   {
     "cat": "Business",
@@ -862,33 +889,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/tennis/us-open-muchova-and-mensik-win-mixed-doubles-title/article71395021.ece",
     "time": "2026-08-27T05:41:13.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Former Malaysian PM Ismail Sabri charged with concealing assets",
-    "desc": "The anti-graft agency in March last year said Ismail Sabri had submitted an assets declaration after being ordered to do so as part of its investigation into alleged graft and money laundering, following the seizure ‌of nearly $40 million in assets allegedly linked to him.",
-    "img": "https://th-i.thgim.com/public/incoming/mzd0ve/article71395013.ece/alternates/LANDSCAPE_1200/2026-08-27T042505Z_713369141_RC2R6NAXWNA0_RTRMADP_3_MALAYSIA-POLITICS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/former-malaysian-pm-ismail-sabri-charged-with-concealing-assets/article71395007.ece",
-    "time": "2026-08-27T04:48:49.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "U.S. religious freedom panel urges sanctions on RSS members over Mohan Bhagwat visit",
-    "desc": "We urge the U.S. government to consider targeted sanctions against RSS members and Indian officials complicit in religious freedom ‌violations, including revoking the visa issued to Mohan Bhagwat, says Asif Mahmood, chair of the U.S. Commission on International Religious Freedom",
-    "img": "https://th-i.thgim.com/public/incoming/o57vdr/article71394845.ece/alternates/LANDSCAPE_1200/2026-08-26T034205Z_1579488233_RC20TMA6ADHJ_RTRMADP_3_NEW-YORK-MAMDANI-RSS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-religious-freedom-panel-urges-sanctions-on-rss-members-over-mohan-bhagwat-visit/article71394840.ece",
-    "time": "2026-08-27T04:31:02.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Recent museum thefts in Europe",
-    "desc": "Unlike robberies in banks or other institutions that notoriously become violent and traumatic, law enforcement agencies and popular culture have long associated museum thefts with the same ‘elegance’ and sophistication that the targets are known for",
-    "img": "https://th-i.thgim.com/public/incoming/2nov1d/article71394948.ece/alternates/LANDSCAPE_1200/Standalone_4colGO2F3K3AJ.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/recent-museum-thefts-in-europe-explained/article71394936.ece",
-    "time": "2026-08-27T04:07:10.000Z"
   },
   {
     "cat": "Sports",
