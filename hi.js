@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Suryakumar Yadav aims to return to India team, says 'putting all the hardwork'",
+    "desc": "Former India captain Suryakumar Yadav remains hopeful of reclaiming his place in India’s T20I squad after being left out of the tours of Ireland and England. The Mumbai cricketer insisted that he is working hard...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/suryakumar-yadav-aims-to-return-to-india-team-says-putting-all-the-hardwork-2026-08-27-1052616",
+    "time": "2026-08-27T18:13:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jannik Sinner's withdrawal reshapes 2026 US Open as Carlos Alcaraz and Novak Djokovic land in same half",
+    "desc": "Jannik Sinner’s withdrawal has dramatically altered the complexion of the 2026 US Open men’s singles draw, leaving Carlos Alcaraz and Novak Djokovic on course for a potential semi-final meeting in New York. The world No.1,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/jannik-sinner-s-withdrawal-reshapes-2026-us-open-as-carlos-alcaraz-and-novak-djokovic-land-in-same-half-2026-08-27-1052611",
+    "time": "2026-08-27T17:22:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India secure best Women's Hockey World Cup finish in 52 years after stunning 3-1 win over Germany",
+    "desc": "India signed off from the 2026 Women’s Hockey World Cup with a 3-1 victory over Germany at the Wagener Stadium in Amstelveen. With that, they secured fifth place and their strongest World Cup finish since...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/hockey/india-secure-best-women-s-hockey-world-cup-finish-in-52-years-after-stunning-3-1-win-over-germany-2026-08-27-1052610",
+    "time": "2026-08-27T16:29:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Yastika Bhatia named India A captain for one-day, red-ball series vs Australia A",
+    "desc": "Anushka Sharma will captain India A in the three-match T20 series against Australia A, while Yastika Bhatia will take charge of the one-day and multi-day sides for the upcoming home fixtures. Notably, the 23-year-old Anushka returns...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/yastika-bhatia-named-india-a-captain-for-one-day-red-ball-series-vs-australia-a-2026-08-27-1052606",
+    "time": "2026-08-27T15:49:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kieron Pollard smashed T20 world record with stunning show for Trinbago Knight Riders in CPL",
+    "desc": "Kieron Pollard has surpassed England international Jos Buttler to become the leading run-scorer in T20 cricket history. He achieved the feat while representing Trinbago Knight Riders in the Caribbean Premier League 2026. The legendary all-rounder...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kieron-pollard-smashed-t20-world-record-with-stunning-show-for-trinbago-knight-riders-in-cpl-2026-08-27-1052603",
+    "time": "2026-08-27T15:18:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Atletico Madrid rejects Barcelona's desperate attempt to sign Julian Alvarez",
+    "desc": "Atletico Madrid have confirmed that the club will not be selling Julian Alvarez to their La Liga rivals Barcelona under any circumstances. The decision came after Barcelona president Joan Laporta again expressed his club’s interest...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/atletico-madrid-rejects-barcelona-s-desperate-attempt-to-sign-julian-alvarez-2026-08-27-1052599",
+    "time": "2026-08-27T14:31:33.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Fielded for about 250 overs, did everything we can'",
     "desc": "After the draw against Sri Lanka in Colombo, India captain Shubman Gill said there was little more his team could have done. Sonal Dinusha’s unbeaten 133 frustrated India, who eventually settled for a draw after...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/sonal-dinusha-becomes-third-sri-lanka-cricketer-to-achieve-major-feat-in-test-cricket-2026-08-27-1052567",
     "time": "2026-08-27T10:38:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jose Mourinho sings Kylian Mbappe's praise after latter's stellar hat-trick against Real Sociedad",
-    "desc": "Real Madrid put forth a magnificent performance as they took on Real Sociedad in La Liga. In what was Jose Mourinho’s first game of the season at the Santiago Bernabeu, Madrid managed to register a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/jose-mourinho-sings-kylian-mbappe-s-praise-after-latter-s-stellar-hat-trick-against-real-sociedad-2026-08-27-1052559",
-    "time": "2026-08-27T09:26:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ajay Jadeja points out turning point for team India on day 4 of Colombo clash",
-    "desc": "The Indian team is taking on Sri Lanka in the second and final Test of the ongoing series between the two sides. It is worth noting that the visitors ended the penultimate day of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ajay-jadeja-points-out-turning-point-for-team-india-on-day-4-of-colombo-clash-2026-08-27-1052549",
-    "time": "2026-08-27T08:11:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Joe Root set to overtake Stuart Broad in elite list, will join hands with Ricky Ponting with 2nd Test vs PAK",
-    "desc": "The stage is set for the second Test of the ongoing series between England and Pakistan. The two sides are slated to take on each other at Lord’s Cricket Ground in London from August 27th,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/joe-root-set-to-overtake-stuart-broad-in-elite-list-will-join-hands-with-ricky-ponting-with-2nd-test-vs-pak-2026-08-27-1052548",
-    "time": "2026-08-27T07:53:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI name India U19's squad upcoming Australia series, Sehwag-Dravid's sons make the cut",
-    "desc": "The BCCI (Board of Control for Cricket in India) has come forward and named India U19’s squad for the upcoming multi-format series against Australia U19. It is worth noting that Australia will be touring India...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-name-india-u19-s-squad-upcoming-australia-series-sehwag-dravid-s-sons-make-the-cut-2026-08-27-1052533",
-    "time": "2026-08-27T06:41:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer weighs in on challenges faced by Manav Suthar on day 4 of Colombo Test",
-    "desc": "The Indian team is in a dominant position in the ongoing second Test against Sri Lanka. The hosts had four wickets in hand ahead of day 5 and a lead of 16 runs in the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-weighs-in-on-challenges-faced-by-manav-suthar-on-day-4-of-colombo-test-2026-08-27-1052524",
-    "time": "2026-08-27T05:54:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'You need depth in cricket': Javagal Srinath urges youngsters to give more time to red-ball cricket",
-    "desc": "Former India cricketer Javagal Srinath has recently come forward and urged youngsters and aspiring cricketers to give as much time as possible to the longest format of the game. Present at the Madhya Pradesh Cricket...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/javagal-srinath-urges-youngsters-to-give-more-time-to-red-ball-cricket-2026-08-27-1052516",
-    "time": "2026-08-27T04:08:14.000Z"
   }
 ];
