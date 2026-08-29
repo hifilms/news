@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Will India women shake hands with Pakistan in upcoming Women's Asia Cup 2026? Head coach answers",
+    "desc": "The stage is set for the India women’s team to kick off their campaign in the Women’s Asia Cup 2026. The marquee tournament began on August 28th, and India women will play their first game...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-india-women-shake-hands-with-pakistan-in-upcoming-women-s-asia-cup-2026-head-coach-answers-2026-08-29-1052763",
+    "time": "2026-08-29T18:19:35.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Steven Gerrard weighs in on what Liverpool is lacking after 2-2 draw against Nottingham Forest",
     "desc": "The Premier League 2026-27 season is off to a rough start for 2024 champions Liverpool. The side, under new head coach Andoni Iraola, has failed to win any of their two matches at the start...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/isle-of-man-cricketer-breaks-96-year-old-cricket-record-set-by-australia-s-bert-ironmonger-2026-08-29-1052719",
     "time": "2026-08-29T07:40:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Four Indian cricketers to feature in forthcoming WCPL 2026 as teams confirm overseas slots",
-    "desc": "The Women’s Caribbean Premier League will enter its fifth edition with a new team and a strong overseas cast. Several established international names have shown their interest in featuring in the tournament and finally 19...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/four-indian-cricketers-to-feature-in-forthcoming-wcpl-2026-as-teams-confirm-overseas-slots-2026-08-29-1052713",
-    "time": "2026-08-29T06:33:39.000Z"
   }
 ];

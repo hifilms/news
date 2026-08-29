@@ -1,6 +1,96 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "'Slippages reveal design flaw on Kanpur-Lucknow e-way'",
+    "desc": "Slippages on the Kanpur-Lucknow Expressway suggest design issues, not construction defects. Affected stretches will require rebuilding from the ground up, officials stated. A preliminary investigation identified weak, plastic soil as a primary cause. Poor drainage also contributed to the expressway's structural problems. The government awaits a final report on the detailed investigation.",
+    "img": "https://static.toiimg.com/photo/msid-133621547,imgsize-226504.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/slippages-reveal-design-flaw-on-kanpur-lucknow-e-way/articleshow/133621424.cms",
+    "time": "2026-08-29T22:20:12.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP-SAD alliance revival gains ground ahead of Punjab polls",
+    "desc": "The BJP and Shiromani Akali Dal may revive their alliance for upcoming Punjab assembly elections. Both parties acknowledge this partnership as their strongest option despite seat-sharing disagreements. Talks have intensified since Prime Minister Narendra Modi met SAD chief Sukhbir Singh Badal recently. The BJP seeks a larger seat share and greater government role, reflecting its increased vote share.",
+    "img": "https://static.toiimg.com/photo/msid-133619694,imgsize-96822.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bjp-sad-alliance-revival-gains-ground-ahead-of-punjab-polls/articleshow/133619695.cms",
+    "time": "2026-08-29T22:06:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress &amp; BJP clash over Haldwani ‘purification’ row, Rahul seeks FIR",
+    "desc": "BJP and Congress clashed over allegations of rally venue purification. Rahul Gandhi demanded an FIR, linking it to untouchability practices. BJP rebutted charges, showing organizers' videos and questioning the delay. Organizers stated a hawan followed cleaning for Ramlila, denying BJP links. Both parties exchanged accusations regarding caste divisions and past incidents.",
+    "img": "https://static.toiimg.com/photo/msid-133619678,imgsize-74620.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/congress-bjp-clash-over-haldwani-purification-row-rahul-seeks-fir/articleshow/133619674.cms",
+    "time": "2026-08-29T21:38:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "August rainfall fails to reduce India's monsoon deficit",
+    "desc": "India's cumulative monsoon rainfall deficit remains despite August's better-than-expected rains. This deficit has caused a significant acreage gap in kharif crop sowing. Paddy and maize acreage have both reported notable declines compared to last year. Erratic rainfall distribution prevented increased acreage for most kharif crops. Several states, including Bihar and Andhra Pradesh, face substantial rainfall deficits.",
+    "img": "https://static.toiimg.com/photo/msid-133619591,imgsize-255038.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/august-rainfall-fails-to-reduce-indias-monsoon-deficit/articleshow/133619584.cms",
+    "time": "2026-08-29T21:27:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "FSSAI bans Everest, LG from selling hing",
+    "desc": "The Food Safety and Standards Authority of India has issued prohibition orders against two spice companies. Everest Food Products and Laljee Godhoo and Company faced these orders for non-compliance issues. Samples of compounded asafoetida and hing powder did not meet alcohol-soluble extract requirements. Earlier reviews also found violations in other masala products from Everest. These actions highlight ongoing food safety scrutiny within the Indian market.",
+    "img": "https://static.toiimg.com/photo/msid-133619578,imgsize-819394.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/fssai-bans-everest-lg-from-selling-hing/articleshow/133619574.cms",
+    "time": "2026-08-29T21:21:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Man on Phuket-B’luru flight tries to hide drugs in overhead panel, held",
+    "desc": "A passenger flying from Phuket to Bengaluru allegedly tried to hide narcotics. He attempted to conceal thirteen packets of contraband substance in an overhead panel. The passenger then discarded some of the substance into the lavatory bin. Upon landing in Bangalore, customs officials arrested the individual at the aerobridge. Air India Express is cooperating with authorities in the ongoing investigation.",
+    "img": "https://static.toiimg.com/photo/msid-133619572,imgsize-716997.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/man-on-phuket-bluru-flight-tries-to-hide-drugs-in-overhead-panel-held/articleshow/133619567.cms",
+    "time": "2026-08-29T21:15:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP president pulls up 3 Delhi MPs for visiting Sajjan Kumar’s house",
+    "desc": "Nitin Nabin, the BJP president, took disciplinary action against three Delhi MPs who visited the recently deceased Sajjan Kumar's home. Kumar, notorious for his conviction in the anti-Sikh riots, passed away at the age of eighty. This controversial visit comes at a crucial time for the party as they prepare for the Punjab assembly elections.",
+    "img": "https://static.toiimg.com/photo/msid-133619563,imgsize-1201564.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bjp-president-pulls-up-3-delhi-mps-for-visiting-sajjan-kumars-house/articleshow/133619553.cms",
+    "time": "2026-08-29T21:11:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM ahead of summit",
+    "desc": "On his diplomatic mission to Uzbekistan and Kyrgyzstan, Prime Minister Modi aims to bolster India's regional aspirations and forge stronger ties. At the SCO summit, he will advocate for collective efforts against terrorism and initiate dialogue on trade and strategic collaboration. This trip underscores India’s dedication to nurturing historical connections and fostering prosperity for all involved nations.",
+    "img": "https://static.toiimg.com/photo/msid-133619537,imgsize-119186.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/will-work-with-sco-to-free-region-from-terror-pm-ahead-of-summit/articleshow/133619538.cms",
+    "time": "2026-08-29T20:57:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Can an accused be denied a copy of the FIR?",
+    "desc": "A three-judge Bench headed by Chief Justice of India (CJI) Surya Kant directed the Ghaziabad Police Commissioner to provide him with the FIR and CCTV footage and to file a compliance report by September 7. It also protected him from arrest and allowed him to approach the jurisdictional High Court for further relief.",
+    "img": "https://th-i.thgim.com/public/incoming/eugpwd/article71405904.ece/alternates/LANDSCAPE_1200/iStock-1905024012%202.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/can-an-accused-be-denied-a-copy-of-the-fir-explained/article71405905.ece",
+    "time": "2026-08-29T18:15:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The Bhotekoshi flood",
+    "desc": "Scientists investigate how a high-altitude rock-and-ice avalanche may have triggered one of Nepal’s most devastating floods; while experts have not directly attributed this event to climate change, they note that rising temperatures are warming the Himalayas and accelerating glacier melt",
+    "img": "https://th-i.thgim.com/public/incoming/5aa370/article71405841.ece/alternates/LANDSCAPE_1200/AFP_C6HV3KG.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/the-bhotekoshi-flood-a-himalayan-tragedy/article71405842.ece",
+    "time": "2026-08-29T18:04:29.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Court grants bail to Priyank Kharge, Nalapad in RSS defamation case",
     "desc": "The 42nd Special Court for Elected Representatives granted bail to Priyank Kharge and Mohammed Nalapad, directing them to execute a personal bond of ₹1 lakh each with cash security of ₹10,000 each in a defamation case",
     "img": "https://th-i.thgim.com/public/incoming/uddgg6/article71405228.ece/alternates/LANDSCAPE_1200/Karnataka-goverGV4GAURUC.3.jpg.jpg",
@@ -207,15 +297,6 @@ const newsData_en = [
     "time": "2026-08-29T15:40:29.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Pinarayi accuses Kunhikrishnan of joining hands with CPI(M)’s rivals to defeat party in Payyanur",
-    "desc": "Leader of the Opposition says the party’s defeat in the constituency in the Assembly election could not be explained merely by factors within Keralam, as the CPI(M) and the LDF traditionally enjoyed strong support there",
-    "img": "https://th-i.thgim.com/public/incoming/l70dss/article71405454.ece/alternates/LANDSCAPE_1200/NH14PinarayiVijayan05.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/pinarayi-accuses-kunhikrishnan-of-joining-hands-with-cpims-rivals-to-defeat-party-in-payyanur/article71405398.ece",
-    "time": "2026-08-29T15:35:16.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "South Africa turn the tables as Brevis blitz powers 7-wicket win over Zimbabwe",
     "desc": "In the Namibia T20I Tri-Series, South Africa clinched a decisive seven-wicket victory over Zimbabwe. Dewald Brevis dazzled with an impressive 75 runs from just 32 deliveries, leading the Proteas' successful run chase. Although Zimbabwe had a promising start, they faltered significantly in the middle overs after being put in to bat, ultimately finishing at 144/8.",
@@ -378,15 +459,6 @@ const newsData_en = [
     "time": "2026-08-29T10:33:13.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘UP no longer Bimaru state’: CM Yogi says mafia crushed, encephalitis eradicated; Akhilesh flags gaps",
-    "desc": "Uttar Pradesh Chief Minister Yogi Adityanath stated the state has shed its \"Bimaru\" image. He highlighted improvements in healthcare, connectivity, and law and order across Uttar Pradesh. Meanwhile, Samajwadi Party chief Akhilesh Yadav criticized the state's healthcare system. Yadav alleged significant shortages of doctors and paramedical staff in government hospitals. He promised free treatment and medicines for the poor if his party returns to power.",
-    "img": "https://static.toiimg.com/photo/msid-133609655,imgsize-1455160.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/up-no-longer-bimaru-state-cm-yogi-says-mafia-crushed-encephalitis-eradicated-akhilesh-flags-gaps/articleshow/133609475.cms",
-    "time": "2026-08-29T10:30:10.000Z"
-  },
-  {
     "cat": "World",
     "title": "Nepal floods: Families search for loved ones amid hope and despair at Kathmandu hospitals",
     "desc": "The death toll in the Nepal flash floods continues to rise, as search efforts continue for over 2,400 missing people, three days after the disaster struck. Inside Kathmandu’s National Trauma Centre, the atmosphere is heavy with confusion, raw hope, and growing dread. Exhausted families clustered around hospital pillars, desperately searching lists of rescued survivors for names they know.",
@@ -430,15 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/emraan-hashmi-announces-postponement-of-bengaluru-gig-to-september-12-amid-reports-of-being-diagnosed-with-swine-flu-after-awarapan-2-success-picture-khatam-nahi-hua-bas-postpone-hua-hai/articleshow/133608687.cms",
     "time": "2026-08-29T09:38:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Not interested right now': Rahul Gandhi on Sonia Gandhi memoir row, cites 'crime' against Kharge",
-    "desc": "Lok Sabha LoP Rahul Gandhi declined to comment on the controversy surrounding his mother Sonia Gandhi’s upcoming memoir, \"Belonging,\" saying his focus was on the “crime” against party president Mallikarjun Kharge. The remarks came amid a row over the book’s publication and editorial changes that were reportedly rejected by Sonia Gandhi.",
-    "img": "https://static.toiimg.com/photo/msid-133608625,imgsize-126130.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-interest-in-that-right-now-rahul-gandhi-on-sonia-gandhi-memoir-row-cites-crime-against-kharge/articleshow/133608185.cms",
-    "time": "2026-08-29T09:25:18.000Z"
   },
   {
     "cat": "Entertainment",
@@ -495,15 +558,6 @@ const newsData_en = [
     "time": "2026-08-29T08:55:08.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Gang of dacoits': Yogi Adityanath says Akhilesh must apologise for UP 'loot and extortion'",
-    "desc": "In a harsh rebuke, Uttar Pradesh Chief Minister Yogi Adityanath labeled the Samajwadi Party a 'gang of dacoits' for allegedly plundering the state treasury during its rule. He proudly showcased the advancements in development and security achieved during his leadership, drawing sharp contrasts with the chaos of previous administrations. Adityanath also referenced the tragic encephalitis fatalities linked to earlier governments, emphasizing the need for responsible governance.",
-    "img": "https://static.toiimg.com/photo/msid-133608056,imgsize-44874.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/gang-of-dacoits-yogi-adityanath-says-akhilesh-must-apologise-for-up-loot-and-extortion/articleshow/133607918.cms",
-    "time": "2026-08-29T08:52:15.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Akshay Oberoi addresses backlash over ‘Toxic’ amid mixed reviews",
     "desc": "Akshay Oberoi shared his positive experience playing Tony in Geetu Mohandas' film 'Toxic'. He developed a strong friendship with co-star Huma Qureshi during the production. Oberoi praised director Geetu Mohandas and co-writer Yash for their collaborative efforts. The actor remains proud of the film despite its mixed critical reception. 'Toxic' has achieved significant box office success within its opening days.",
@@ -523,21 +577,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Toxic' BO Day 4 [LIVE]: Yash and Kiara Advani film crosses Rs 182 crore India net",
+    "title": "'Toxic': Yash's film surges past Rs 250 crore globally in just 4 days",
     "desc": "A Fairytale For Grown-Ups' continues its dominant box office run into Day 4, having already crossed the Rs 221 crore worldwide mark within its first three days. Having already smashed past Ranveer Singh's Dhurandhar's opening-day numbers within hours of release, Yash's gangster epic has continued to build on that momentum through its first weekend, and the film now looks poised to chase even bigger targets as it settles into its weekday run.",
     "img": "https://static.toiimg.com/photo/msid-133607833,imgsize-76890.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/toxic-box-office-collection-day-4-live-yash-nayanthara-kiara-advani-film-targets-bigger-weekend-haul-with-sight-on-rs-200-crore-india-net-after-crossing-rs-221-crore-globally-in-just-three-days/articleshow/133607777.cms",
     "time": "2026-08-29T08:21:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Present tense, future perfect: Zurich Airport sees 'slower ramp-up' in Noida Airport traffic",
-    "desc": "The ramp-up of traffic at Noida International Airport is lagging behind expectations, primarily due to the withdrawal of a launch airline and the existing Delhi airport operating under capacity. In its opening month, the new airport managed 104 flights and accommodated 25,000 passengers. Connectivity hurdles and strong competition from Delhi present notable challenges. Despite this, Zurich Airport remains optimistic about the Indian aviation sector's long-term growth outlook.",
-    "img": "https://static.toiimg.com/photo/msid-133607661,imgsize-165442.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/present-tense-future-perfect-zurich-airport-sees-slower-ramp-up-in-noida-airport-traffic/articleshow/133607614.cms",
-    "time": "2026-08-29T08:08:07.000Z"
   },
   {
     "cat": "Entertainment",
@@ -646,15 +691,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/inside-ishaan-khatters-3-bedroom-sea-facing-bandra-home-with-vintage-bollywood-film-posters-sunset-views-music-and-personal-memorabilia/articleshow/133507784.cms",
     "time": "2026-08-29T00:13:33.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Jio Platforms gets Sebi nod for 37.7k cr IPO, set to be India's biggest",
-    "desc": "Jio Platforms received Sebi clearance for its initial public offering. The company aims to raise up to four billion dollars in this debut. This offering is expected to become India's largest stock market listing. Jio plans a pure primary issue, with proceeds retiring debt. Reliance Industries holds a majority stake in Jio Platforms.",
-    "img": "https://static.toiimg.com/photo/msid-133601672,imgsize-89740.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/jio-platforms-gets-sebi-nod-for-37-7k-cr-ipo-set-to-be-indias-biggest/articleshow/133601659.cms",
-    "time": "2026-08-28T22:45:09.000Z"
   },
   {
     "cat": "Sports",
@@ -783,15 +819,6 @@ const newsData_en = [
     "time": "2026-08-28T08:24:33.000Z"
   },
   {
-    "cat": "World",
-    "title": "Nepal floods highlight growing glacier risks in warming Himalayas",
-    "desc": "Preliminary evidence suggests a large volume of ice and rock may have plunged into the Lhende Khola, a tributary of the Bhote Koshi River. Researchers said the collapse could have displaced water and picked up loose sediment and boulders, producing a powerful surge downstream",
-    "img": "https://th-i.thgim.com/public/incoming/6dp6ti/article71398977.ece/alternates/LANDSCAPE_1200/APTOPIX_Nepal_Flash_Floods_3942_.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/nepal-floods-highlight-growing-glacier-risks-in-warming-himalayas/article71398962.ece",
-    "time": "2026-08-28T07:23:10.000Z"
-  },
-  {
     "cat": "Business",
     "title": "ECLGS 5.0 support for MSMEs to last only for the allocated guarantee cover",
     "desc": "All its member lending institutions have been asked to sanction loans under the ECLGS 5.0 to MSMEs and non-MSMEs and apply for credit guarantee under the scheme as it will be considered on first come first served basis subject the availability of guarantee cover",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/chennai/madras-built-the-engine-chennai-is-shifting-gears/article71385941.ece",
     "time": "2026-08-27T10:16:18.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "How can it expand new frontiers for digital payments?",
-    "desc": "Faster penetration of affordable smartphones and Internet, Aadhaar-based identity framework, and the government’s push to digital payments created a perfect environment for the exponential growth of UPI, making it a volume giant. However, it is not yet a value goliath",
-    "img": "https://th-i.thgim.com/public/incoming/2z58ps/article71395140.ece/alternates/LANDSCAPE_1200/4col_shape_G0OGGMTG6F19S.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/upi-10-years-india-digital-payments-next-frontiers-explained/article71395101.ece",
-    "time": "2026-08-27T08:42:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Anvay Dravid and Aaryavir Sehwag included in India U-19 ODI squad for Australia series",
-    "desc": "The BCCI selection committee picked separate squads for the three one-day matches and two multi-day games, with Lakshya Raichandani set to lead the ODI side and Yashbardhan Singh Chauhan named captain for the longer-format fixtures",
-    "img": "https://th-i.thgim.com/public/incoming/u08pkq/article71395378.ece/alternates/LANDSCAPE_1200/Copy%20of%20Anvay%20Rahul%20Dravid_VK92603.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/anvay-dravid-and-aaryavir-sehwag-included-in-india-u-19-odi-squad-for-australia-series/article71395372.ece",
-    "time": "2026-08-27T07:13:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "U.S. Open: Muchova and Mensik win mixed doubles title",
-    "desc": "The 16-team mixed doubles draw is in the second ⁠year of the tournament's revamped format, which features leading singles players and is aimed at drawing bigger ‌crowds in the week before the singles main draw",
-    "img": "https://th-i.thgim.com/public/incoming/e4sp2j/article71395043.ece/alternates/LANDSCAPE_1200/AP08_27_2026_000031A.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/tennis/us-open-muchova-and-mensik-win-mixed-doubles-title/article71395021.ece",
-    "time": "2026-08-27T05:41:13.000Z"
   }
 ];
