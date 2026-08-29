@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Steven Gerrard weighs in on what Liverpool is lacking after 2-2 draw against Nottingham Forest",
+    "desc": "The Premier League 2026-27 season is off to a rough start for 2024 champions Liverpool. The side, under new head coach Andoni Iraola, has failed to win any of their two matches at the start...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/steven-gerrard-weighs-in-on-what-liverpool-is-lacking-after-2-2-draw-against-nottingham-forest-2026-08-29-1052760",
+    "time": "2026-08-29T17:01:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer reflects on India's squad selection after Test series win against Sri Lanka",
+    "desc": "The Indian team failed to register a win in the second Test of their recently concluded series against Sri Lanka. The two sides met across two Test matches; the first Test of the series saw...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-reflects-on-india-s-squad-selection-after-test-series-win-against-sri-lanka-2026-08-29-1052754",
+    "time": "2026-08-29T14:58:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Patrice Evra asks for more from star Manchester United midfielder after POTY victory",
+    "desc": "The Premier League 2026-27 season is well underway, and many eyes are set upon 20-time champions Manchester United. It is worth noting that the side kicked off their season with a loss against Hull City,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/patrice-evra-asks-for-more-from-star-manchester-united-midfielder-after-poty-victory-2026-08-29-1052753",
+    "time": "2026-08-29T14:12:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I was completely shocked': Suryakumar Yadav opens up on getting dropped from the Indian team after T20 WC win",
+    "desc": "Veteran India batter Suryakumar Yadav recently came forward and talked about his time after being dropped from India’s T20I side. It is worth noting that Suryakumar Yadav is widely revered as one of the best...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/i-was-completely-shocked-suryakumar-yadav-opens-up-on-getting-dropped-from-the-indian-team-after-t20-wc-win-2026-08-29-1052746",
+    "time": "2026-08-29T12:32:16.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Sarfaraz Ahmed questions Pakistan's batting approach after subpar show against England in London",
     "desc": "England and Pakistan are well into a Test series. The two sides are taking on each other in the second Test of the series at Lord’s Cricket Ground in London, and England are in a...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/four-indian-cricketers-to-feature-in-forthcoming-wcpl-2026-as-teams-confirm-overseas-slots-2026-08-29-1052713",
     "time": "2026-08-29T06:33:39.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ravi Ashwin unhappy with Rishabh Pant's approach, asks team management not to give special treatment",
-    "desc": "Despite injury concerns, India keeper-batter Rishabh Pant played a vital knock of 65 runs in the second Test against Sri Lanka in Colombo. Despite so, former cricketer Ravichandran Ashwin wasn’t impressed and questioned Pant’s approach...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ravi-ashwin-unhappy-with-rishabh-pant-s-approach-asks-team-management-not-to-give-special-treatment-2026-08-29-1052708",
-    "time": "2026-08-29T05:25:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan head coach Sarfaraz Ahmed unaware of PCB's Lord's Test boycott threat, says 'we were having lunch'",
-    "desc": "After Day 1 of the second Test between England and Pakistan at the Lord’s, news broke that Pakistan Cricket Board (PCB) had raised an objection to a Sky Sports interview featuring the sons of Imran...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-head-coach-sarfaraz-ahmed-unaware-of-pcb-s-lord-s-test-boycott-threat-says-we-were-having-lunch-2026-08-29-1052702",
-    "time": "2026-08-29T03:52:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Australia captain Pat Cummins extend support to Imran Khan, says 'should be treated with dignity'",
-    "desc": "Australian captain Pat Cummins has backed a group of former international cricket captains calling for medical care and continued family access for former Pakistan captain and ex-Prime Minister Imran Khan. The pacer expressed his support...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/australia-captain-pat-cummins-extend-support-to-imran-khan-says-should-be-treated-with-dignity-2026-08-29-1052698",
-    "time": "2026-08-29T02:14:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Joe Root breaks Ricky Ponting's world record despite flop show in Lord's Test against Pakistan",
-    "desc": "England captain Joe Root has surpassed legendary Ricky Ponting to become the batter with the most home runs in Test cricket history. The 35-year-old has now accumulated 7,594 Test runs in England, moving past Ponting’s...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/joe-root-breaks-ricky-ponting-s-world-record-despite-flop-show-in-lord-s-test-against-pakistan-2026-08-29-1052695",
-    "time": "2026-08-29T01:25:36.000Z"
   }
 ];
