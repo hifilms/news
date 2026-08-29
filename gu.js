@@ -1,5 +1,68 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "સપનાનું ઘર બનાવવાનો કેટલો થશે કુલ ખર્ચ? આ ફોર્મ્યુલાથી ઘરે બેઠા-બેઠા જ 5 મિનિટમાં લગાવો અંદાજ, આ રીતે નક્કી કરો તમારું બજેટ",
+    "desc": "ઘર બનાવતા પહેલા સૌથી મોટો પ્રશ્ન એ જ હોય ​​છે કે આખરે તેમાં કેટલો ખર્ચ થશે. હવે એક સરળ ફોર્મ્યુલાથી 5 મિનિટમાં ઘર બનાવવાની અંદાજિત કિંમતનો હિસાબ લગાવી શકાય છે. જાણો શું છે આ ફોર્મ્યુલા અને કઈ બાબતોનું ધ્યાન રાખવું પડશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/how-much-will-be-the-total-cost-of-building-your-dream-house-estimate-it-in-5-minutes-from-home-with-this-formula-decide-your-budget-in-this-way-489314 ",
+    "time": "2026-08-29T11:57:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Gen Zને પોતાની તરફ વાળવા BJPનો મેગા પ્લાન, નીતિન નવીનની મોટી બેઠક, તૈયાર થઈ રહી છે નવી વ્યૂહરચના",
+    "desc": "હાલ Gen Z ખુબ ચર્ચામાં છે. ભાજપ આ Gen Z મતદારોને પોતાની બાજુ કરવા માટે કમર કસી ચૂકી છે. પાર્ટીના રાષ્ટ્રીય અધ્યક્ષ નીતિન નબીને સમગ્ર દેશમાંથી થઈને 45 જેટલા ભાજપના નેતાઓ સાથે બેઠક યોજી. જાણો શું ઘડાઈ રહી છે રણનીતિ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/bjp-mega-plan-gen-z-nitin-nabin-meeting-with-45-leaders-new-strategy-489288 ",
+    "time": "2026-08-29T10:32:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "એશિયન ગેમ્સ 2026 પહેલા ભારતને મોટો ઝટકો, નીરજ ચોપરા ઈજાને કારણે બહાર",
+    "desc": "એશિયન ગેમ્સ 2026 પહેલા ભારતની આશાઓને મોટો ઝટકો લાગ્યો છે. સ્ટાર જેવલિન થ્રોઅર નીરજ ચોપરા ઈજાને કારણે ટુર્નામેન્ટમાં ભાગ લેશે નહીં. તેણે સોશિયલ મીડિયા દ્વારા જાહેરાત કરી હતી કે પ્રેક્ટિસ દરમિયાન લિગામેન્ટ ફાટવાને કારણે તે ટુર્નામેન્ટમાંથી બહાર થઈ ગયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/big-blow-to-india-ahead-of-asian-games-2026-neeraj-chopra-out-due-to-injury-489277 ",
+    "time": "2026-08-29T09:46:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "જે ગુજરાતીએ અમેરિકામાં લાખો ભારતીયોનું ભાગ્ય બદલી નાખ્યું, તેનું પોતાનું જીવન કેમ થયું બરબાદ?",
+    "desc": "ગુજરાતીઓ માત્ર ગુજરાતમાં કે ભારતમાં જ નહીં પરંતુ વિદેશમાં પણ મોટી નામના મેળવી ચૂક્યા છે. દુનિયાના કોઈ પણ ઠેકાણે તમને ગુજરાતી તો મળી જ રહેશે. આવા જ એક ગુજરાતી વિશે અહીં વાત કરીશું જેમણે લાખો ભારતીયોના ભાગ્ય પલટ્યા પરંતુ પોતે સાવ એકલતામાં દમ તોડ્યો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/story-of-kaji-manchhu-desai-from-surat-to-amercia-motel-king-489275 ",
+    "time": "2026-08-29T09:24:39.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "સૂર્યકુમાર યાદવે તોડ્યું મૌન, T20 ટીમમાંથી બહાર થયા બાદ પહેલીવાર ઠાલવ્યો રોષ",
+    "desc": "T20 ટીમમાંથી બહાર થયા બાદ પહેલીવાર રોષ સૂર્યકુમાર યાદવે ઠાલવ્યો છે. સૂર્યકુમાર યાદવે સ્વીકાર્યું કે તેને ઓલિમ્પિક ગેમ્સ 2028 અને T20 વર્લ્ડ કપ 2028માં ટીમનું નેતૃત્વ કરવાની આશા હતી, પરંતુ પસંદગીકારોની યોજના અલગ જ હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/suryakumar-yadav-breaks-silence-on-being-dropped-from-team-india-489273 ",
+    "time": "2026-08-29T09:13:58.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "બંટી નેગી એટલું મારતો કે નિશાન પડી જતા, ટોક્સિક સંબંધમાં 13 વર્ષ પસાર કરવાનું કારણ જણાવ્યું કામ્યા પંજાબીએ",
+    "desc": "ટેલીવીઝનની જાણીતી અભિનેત્રી કામ્યા પંજાબીએ તેના એક ઈન્ટરવ્યુમાં પોતાના પહેલા લગ્ન વિશે ખુલાસો કર્યો છે. કામ્યા પંજાબીએ કારણ જણાવ્યું છે કે તેણે ટોક્સિક વ્યક્તિ સાથે 13 વર્ષ શા માટે પસાર કર્યા અને છેલ્લે કઈ વાતથી કંટાળી તેણે અલગ થઈ જવાનું નક્કી કર્યું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/kamya-panjabi-domestic-violence-first-marriage-bunty-negi-kamya-panjabi-first-marriage-story-489264 ",
+    "time": "2026-08-29T07:36:18.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ઉત્તર પ્રદેશથી ભાજપ માટે શોકિંગ ન્યૂઝ! યોગી સે બેર નહીં, BJP વિધાયકો કી ખેર નહીં...",
+    "desc": "ઉત્તર પ્રદેશમાં ભાજપ માટે ચિંતાનું કારણ સામે આવ્યું છે કે વિધાયકો પ્રત્યે જનતાની નારાજગી ખુલીને સામે આવી છે. સર્વેમાં સામેલ લોકોમાંથી 49 ટકા લોકોએ પોતાના વર્તમાન વિધાયક પ્રત્યે નારાજગી વ્યક્ત કરી છે. જ્યારે પંજાબમાં શું સ્થિતિ છે એ પણ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/shocking-findings-of-a-survey-uttar-pradesh-punjab-yogi-adityanath-bhagwant-mann-489250 ",
+    "time": "2026-08-29T06:00:46.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "ટોક્સિક ફિલ્મના નેગેટિવ રીવ્યુની અસર દેખાઈ, 3 દિવસે બોક્સ ઓફિસ કમાણીમાં અધધ ઘટાડો",
     "desc": "ટોક્સિક ફિલ્મ જેવી ગાજી તેવી વરસી નહીં. ફિલ્મનું પ્રમોશન તો જોરદાર રીતે કરવામાં આવ્યું પણ ફિલ્મ જોયા પછી મોટાભાગના લોકો નિરાશ થયા. કેજીએફ સ્ટાર યશ દર્શકોની અપેક્ષા પર ખરો ન ઉતર્યો જેની અસર ફિલ્મની ત્રીજા દિવસની કમાણી પર સ્પષ્ટ રીતે જોવા મળી.",
@@ -315,15 +378,6 @@ const newsData_gu = [
     "time": "2026-08-26T13:43:47.000Z"
   },
   {
-    "cat": "World",
-    "title": "નેપાળમાં જળપ્રલયના 5 LIVE VIDEOS: હોટેલમાંથી ભાગવાનો પણ સમય ન મળ્યો, માત્ર 5 સેકન્ડમાં બધું જ પૂરમાં તણાઈ ગયું",
-    "desc": "નેપાળમાં આવેલા ફ્લેશ ફ્લડથી ભારે તબાહી મચી છે. ઘણા એવા વીડિયો અને ફોટો સામે આવ્યા છે, જેમાં ભયાનક નુકસાન જોવા મળી રહ્યું છે. અહીં જુઓ નેપાળમાં અચાનક આવેલા ભયંકર પૂરના પાંચ વીડિયો, જેણે લોકોને ભાગવાનો પણ સમય ન આપ્યો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/live-videos-of-nepal-flash-flooding-tourists-had-no-time-to-escape-as-everything-was-swept-away-in-5-seconds-489014 ",
-    "time": "2026-08-26T12:05:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ICC ટેસ્ટ રેન્કિંગમાં મોટો ઉલટફેર, બુમરાહે ગુમાવ્યો તાજ... જાણો કયા ભારતીય ખેલાડીઓ છે ટોપ-10માં",
     "desc": "ICC દ્વારા લેટેસ્ટ ટેસ્ટ રેન્કિંગ જાહેર કરવામાં આવ્યું છે. લાંબા સમયથી નંબર-1 બોલર રહેલા જસપ્રીત બુમરાહે ટોચનું સ્થાન ગુમાવ્યું છે. હવે આ ખેલાડી નંબર-1 બોલર બન્યો છે. તો વિકેટકીપર બેટ્સમેન રિષભ પંતે પણ ટોપ 10માં સ્થાન મેળવ્યું છે.",
@@ -486,24 +540,6 @@ const newsData_gu = [
     "time": "2026-08-25T09:42:02.000Z"
   },
   {
-    "cat": "Business",
-    "title": "માત્ર 3 સપ્તાહમાં સોનું 20000 જેટલું મોંઘુ થયું, ચાંદી 26000 ઉછળી, ઓગસ્ટમાં કેમ રોકેટ બન્યા સોના-ચાંદી? આજનો ભાવ જાણો",
-    "desc": "સોના અને ચાંદીમાં આજે પણ વધારો જોવા મળ્યો છે. જો કે વાયદા બજારમાં સવારે સોનું અને ચાંદી પછડાયા હતા પરંતુ સોનાએ ત્યારબાદ રિકવરી કરી અને ત્યારબાદ વળી પાછું સોનું લાલ નિશાનમાં જોવા મળ્યું છે. IBJA અને MCX ના લેટેસ્ટ રેટ ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/why-gold-and-silver-prices-increased-so-much-in-august-aaj-no-sona-chandi-no-bhav-488842 ",
-    "time": "2026-08-25T08:54:55.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "અમદાવાદીઓ સૌથી વધારે આ જગ્યાએ કરે છે રોકાણ, જુલાઈમાં નાખ્યા 2.23 લાખ કરોડ, જાણો",
-    "desc": "અમદાવાદના મોટાભાગના લોકો શેર માર્કેટમાં રોકાણ વધારે કરવા માટે જાણીતા છે, જો કે લોકોએ હવે પેટન્ટ બદલી છે અને મોટા ભાગના લોકો હવે શેર માર્કેટ છોડીને મ્યુચ્યુઅલ ફંડમાં રોકાણ કર્યું છે, જેના કારણે ગુજરાતના ત્રણ શહેરો ટોપ 10 મ્યુચ્યુઅલ ફંડ રોકાણમાં આવી ગયા છે. લોકોનો વિશ્વાસ હવે મ્યુચ્યુઅલ ફંડ તરફ વધી રહ્યો હોય તેવું આ આકડા દ્વારા લાગી રહ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/ahmedabad-residents-invest-the-most-in-this-place-rs-2-23-lakh-crore-was-invested-in-july-know-488840 ",
-    "time": "2026-08-25T08:05:52.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "વાયરલ થવા માટે ગર્લફ્રેન્ડ પાસે કરાવ્યું કાર પર 3400 વખત ચુંબન, યુવકને ભારે પડ્યું",
     "desc": "મધ્ય પ્રદેશના ગ્વાલિયરમાં એક સોશિયલ મીડિયા ઈન્ફ્લુએન્સરને વાયરલ થવાનો મોહ ભારે પડી ગયો. તેણે તેની કાર પર ગર્લફ્રેન્ડ દ્વારા એવું કઈક કર્યું કે પોલીસ ઘર સુધી પહોંચી ગઈ અને દંડ ફટકાર્યો એ અલગ. જાણો શું છે મામલો.",
@@ -511,24 +547,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/india/gwalior-man-turns-car-into-kissing-car-to-go-viral-and-then-gets-into-trouble-488837 ",
     "time": "2026-08-25T07:47:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "સંભાજીનગર કેસમાં મોટો ખુલાસો, આઈફોનના કારણે નહીં પરંતુ આ કારણસર પરેશાન હતો કુણાલ, જાણો શું ઈચ્છતો હતો",
-    "desc": "ચાંદગુડે પરિવારના ત્રણ સભ્યો આંખના પલકારામાં પહાડ પરથી પડ્યા અને કાળના ખપ્પરમાં સમાઈ ગયા. આ સમગ્ર મામલે હવે એવો ખુલાસો થઈ રહ્યો છે કે આઈફોન અંગે કોઈ વિવાદ હતો જ નહીં. તો જાણો શું હતો મામલો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/big-revelation-in-sambhajinagar-case-kunal-was-troubled-not-because-of-the-iphone-488814 ",
-    "time": "2026-08-25T06:10:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "અભિજીત દીપકેએ કોને ગણાવ્યા દેશના બેસ્ટ CM? યાદીમાં અરવિંદ કેજરીવાલનું પણ લીધુ નામ, જાણો",
-    "desc": "કોકરોચ જનતા પાર્ટી ફરી એકવાર રાજધાની દિલ્હીમાં એક્ટિવ થવાની તૈયારી કરી રહી છે. પાર્ટીએ 5 સપ્ટેમ્બરે શાંતિપૂર્ણ કૂચની જાહેરાત કરી છે. આ દરમિયાન, એક કાર્યક્રમમાં હાજરી આપનારા અભિજીત દિપકેએ તેમના મનપસંદ મુખ્યમંત્રીનું નામ જાહેર કર્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/who-did-abhijeet-deepke-call-the-best-cm-of-the-country-he-also-included-arvind-kejriwal-name-in-the-list-know-488810 ",
-    "time": "2026-08-25T05:15:01.000Z"
   },
   {
     "cat": "Sports",
@@ -574,15 +592,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/should-you-press-the-clutch-or-the-brake-first-to-stop-the-car-find-out-the-correct-way-today-488714 ",
     "time": "2026-08-24T09:54:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ન વરસાદ ન ખરાબ રોશની, માત્ર 10 બોલમાં ટેસ્ટ મેચ ખતમ; ક્રિકેટ ઇતિહાસનો સૌથી નાનો મુકાબલો",
-    "desc": "ઈંગ્લેન્ડ અને વેસ્ટ ઈન્ડિઝ વચ્ચે વર્ષ 2009મા એક ટેસ્ટ મેચ રમાઈ જે માત્ર 10 બોલમાં ખતમ થઈ ગઈ હતી. ટેસ્ટ ઈતિહાસનો આ અત્યાર સુધીનો સૌથી નાનો મુકાબલો છે. મેચ સમાપ્ત થવાનું કારણ વરસાદ કે ખરાબ પ્રકાશ નહોતું, પરંતુ મેચ રેફરીએ મેદાનને ખતરનાક ગણાવી મેચ રદ્દ કરવાનો નિર્ણય કર્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/eng-vs-wi-2009-why-the-shortest-test-match-in-history-was-called-off-after-just-10-balls-488670 ",
-    "time": "2026-08-24T05:39:18.000Z"
   },
   {
     "cat": "Entertainment",
@@ -637,15 +646,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/govinda-want-to-marry-komal-says-sunita-ahuja-to-rakhi-sawant-why-sunita-ahuja-withdrawn-divorce-case-488440 ",
     "time": "2026-08-22T07:51:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "બોબી દેઓલની ફિલ્મ બંદર ઓટીટી રિલીઝ માટે તૈયાર, આ તારીખથી Zee5 પર જોઈ શકાશે",
-    "desc": "બોબી દેઓલની ફિલ્મ બંદર જો તમે થિયેટરમાં જોવા નથી ગયા અને ઓટીટી પર જોવા માટે રાહ જોઈ રહ્યા છો તો હવે આ ફિલ્મ જોવા માટે તૈયાર થઈ જાવ. બોબી દેઓલની ફિલ્મ બંદર ઝી5 પર રિલીઝ થવા માટે તૈયાર છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/bobby-deol-bandar-movie-ott-release-date-new-movie-premiere-on-zee5-bandar-488437 ",
-    "time": "2026-08-22T07:11:02.000Z"
   },
   {
     "cat": "Tech",
