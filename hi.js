@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Ravi Ashwin unhappy with Rishabh Pant's approach, asks team management not to give special treatment",
+    "desc": "Despite injury concerns, India keeper-batter Rishabh Pant played a vital knock of 65 runs in the second Test against Sri Lanka in Colombo. Despite so, former cricketer Ravichandran Ashwin wasn’t impressed and questioned Pant’s approach...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ravi-ashwin-unhappy-with-rishabh-pant-s-approach-asks-team-management-not-to-give-special-treatment-2026-08-29-1052708",
+    "time": "2026-08-29T05:25:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan head coach Sarfaraz Ahmed unaware of PCB's Lord's Test boycott threat, says 'we were having lunch'",
+    "desc": "After Day 1 of the second Test between England and Pakistan at the Lord’s, news broke that Pakistan Cricket Board (PCB) had raised an objection to a Sky Sports interview featuring the sons of Imran...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-head-coach-sarfaraz-ahmed-unaware-of-pcb-s-lord-s-test-boycott-threat-says-we-were-having-lunch-2026-08-29-1052702",
+    "time": "2026-08-29T03:52:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Australia captain Pat Cummins extend support to Imran Khan, says 'should be treated with dignity'",
+    "desc": "Australian captain Pat Cummins has backed a group of former international cricket captains calling for medical care and continued family access for former Pakistan captain and ex-Prime Minister Imran Khan. The pacer expressed his support...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/australia-captain-pat-cummins-extend-support-to-imran-khan-says-should-be-treated-with-dignity-2026-08-29-1052698",
+    "time": "2026-08-29T02:14:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Joe Root breaks Ricky Ponting's world record despite flop show in Lord's Test against Pakistan",
+    "desc": "England captain Joe Root has surpassed legendary Ricky Ponting to become the batter with the most home runs in Test cricket history. The 35-year-old has now accumulated 7,594 Test runs in England, moving past Ponting’s...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/joe-root-breaks-ricky-ponting-s-world-record-despite-flop-show-in-lord-s-test-against-pakistan-2026-08-29-1052695",
+    "time": "2026-08-29T01:25:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Jofra Archer says England's pace depth could help him play Test cricket until 40",
+    "desc": "Jofra Archer believes England’s four-man pace attack could help extend his Test career after a dominant start to the series against Pakistan. The 31-year-old fast bowler has shared the England attack with Ollie Robinson, Josh...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jofra-archer-says-england-s-pace-depth-could-help-him-play-test-cricket-until-40-2026-08-29-1052693",
+    "time": "2026-08-29T01:01:40.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Kris Srikkanth defends Shubman Gill's strategies after India draw Colombo Test against Sri Lanka",
     "desc": "The Indian team failed to register a win in the second Test of the recently concluded series against Sri Lanka. After winning the first Test of the series comfortably, Sri Lanka put up quite the...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/where-to-watch-south-africa-vs-namibia-tri-series-live-on-tv-and-stream-online-in-india-2026-08-28-1052659",
     "time": "2026-08-28T10:03:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Glenn Maxwell breaches code of conduct, reprimanded after being charged with level 1 offence in ETPL",
-    "desc": "Glenn Maxwell has been handed an official reprimand after being charged with a Level 1 offence during Belfast Wolves’ ETPL match against Dublin Guardians at Sportpark Westvliet on August 27, 2026. The offence relates to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/glenn-maxwell-breaches-code-of-conduct-reprimanded-after-being-charged-with-level-1-offence-in-etpl-2026-08-28-1052652",
-    "time": "2026-08-28T08:29:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sandro Tonali opens up on his time with his new club, Tottenham Hotspur, reflects on relationship with fans",
-    "desc": "The Premier League 2026-27 season is well underway, and all 20 teams are hard at work, looking to put in their best performance in the early stages of the new season. With the season well...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/sandro-tonali-opens-up-on-his-time-with-his-new-club-tottenham-hotspur-reflects-on-relationship-with-fans-2026-08-28-1052651",
-    "time": "2026-08-28T08:25:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch Women's Asia Cup 2026 live on TV and stream online in India?",
-    "desc": "The stage is set for the upcoming edition of the Women’s Asia Cup. The marquee tournament is set to kick off on August 28th, and all participating teams will look to deliver strong performances. It...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/when-and-where-to-watch-women-s-asia-cup-2026-live-on-tv-and-stream-online-in-india-2026-08-28-1052644",
-    "time": "2026-08-28T07:09:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI unhappy with Japan's facilities for Asian Games, can send B team for tournament",
-    "desc": "The Board of Control for Cricket in India (BCCI) officials are reportedly unhappy with the facilities in Japan for the upcoming Asian Games, slated to begin on September 19. The men’s cricket tournament will begin...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-unhappy-with-japan-s-facilities-for-asian-games-can-send-b-team-for-tournament-2026-08-28-1052643",
-    "time": "2026-08-28T07:06:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Had lots of nice moments': Gael Monfils opens up on playing alongside his wife Elina Svitolina at the US Open",
-    "desc": "The stage is set for the latest edition of the US Open 2026. The marquee event is all set to kick off with the first round on August 30th, and all the biggest stars in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/had-lots-of-nice-moments-gael-monfils-opens-up-on-playing-alongside-his-wife-elina-svitolina-at-the-us-open-2026-08-28-1052637",
-    "time": "2026-08-28T06:12:59.000Z"
   }
 ];
