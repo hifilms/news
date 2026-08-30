@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "When and where to watch India vs Thailand, Women's Asia Cup 2026 live on TV and stream online in India?",
+    "desc": "The Indian team is all set to kick off its campaign in the Women’s Asia Cup 2026. The side, led by Harmanpreet Kaur, will take on Thailand in their first game of the tournament. The...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/when-and-where-to-watch-india-vs-thailand-women-s-asia-cup-2026-live-on-tv-and-stream-online-in-india-2026-08-30-1052806",
+    "time": "2026-08-30T13:23:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'This is what it means': Casemiro hails Lionel Messi after latter's four-goal masterclass against Montreal",
+    "desc": "Inter Miami put forth a marvellous performance as the side took on Montreal in the ongoing MLS (Major League Soccer) season. One of the biggest names in football history, Lionel Messi once again caught the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/this-is-what-it-means-casemiro-hails-lionel-messi-after-latter-s-four-goal-masterclass-against-montreal-2026-08-30-1052802",
+    "time": "2026-08-30T12:52:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "South Africa hit with major blow, Kagiso Rabada remains doubtful for Australia Tests due to hamstring injury",
+    "desc": "In a major blow to CSA (Cricket South Africa), the side’s star pacer Kagiso Rabada is out injured and is a doubt for the side’s upcoming multi-format series against Australia. It is worth noting that...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-hit-with-major-blow-kagiso-rabada-remains-doubtful-for-australia-tests-due-to-hamstring-injury-2026-08-30-1052799",
+    "time": "2026-08-30T11:38:58.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Former India cricketer opens up on Saransh Jain's performances after Test series against Sri Lanka",
     "desc": "The Indian team performed brilliantly as they took on Sri Lanka across two Test matches recently. Winning the first Test, India went on to draw the second Test and won the series 1-0, putting forth...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/steven-gerrard-weighs-in-on-what-liverpool-is-lacking-after-2-2-draw-against-nottingham-forest-2026-08-29-1052760",
     "time": "2026-08-29T17:01:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer reflects on India's squad selection after Test series win against Sri Lanka",
-    "desc": "The Indian team failed to register a win in the second Test of their recently concluded series against Sri Lanka. The two sides met across two Test matches; the first Test of the series saw...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-reflects-on-india-s-squad-selection-after-test-series-win-against-sri-lanka-2026-08-29-1052754",
-    "time": "2026-08-29T14:58:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Patrice Evra asks for more from star Manchester United midfielder after POTY victory",
-    "desc": "The Premier League 2026-27 season is well underway, and many eyes are set upon 20-time champions Manchester United. It is worth noting that the side kicked off their season with a loss against Hull City,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/patrice-evra-asks-for-more-from-star-manchester-united-midfielder-after-poty-victory-2026-08-29-1052753",
-    "time": "2026-08-29T14:12:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I was completely shocked': Suryakumar Yadav opens up on getting dropped from the Indian team after T20 WC win",
-    "desc": "Veteran India batter Suryakumar Yadav recently came forward and talked about his time after being dropped from India’s T20I side. It is worth noting that Suryakumar Yadav is widely revered as one of the best...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/i-was-completely-shocked-suryakumar-yadav-opens-up-on-getting-dropped-from-the-indian-team-after-t20-wc-win-2026-08-29-1052746",
-    "time": "2026-08-29T12:32:16.000Z"
   }
 ];
