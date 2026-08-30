@@ -1,6 +1,69 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Dolly Parton laid to rest in private Nashville funeral- PICS",
+    "desc": "The late singing legend Dolly Parton has been laid to rest near her husband, Carl Thomas Dean. The singer's family gathered for an intimate funeral at Nashville's Woodlawn Memorial Park and Mausoleum, where she was laid to rest beside her husband, who died in March 2025 at the age of 82.",
+    "img": "https://static.toiimg.com/photo/msid-133638711,imgsize-555564.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dolly-parton-laid-to-rest-near-husband-carl-dean-in-private-funeral-pics/articleshow/133637106.cms",
+    "time": "2026-08-30T22:43:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM to youth",
+    "desc": "In a call to action, Prime Minister Modi urged young Indians to use social media in innovative ways to fight against drug addiction. He also celebrated the success of the PM SVANidhi scheme in promoting women's economic empowerment, with approximately 35 lakh women benefiting from it to strengthen their businesses.",
+    "img": "https://static.toiimg.com/photo/msid-133638704,imgsize-57778.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/create-social-media-content-against-drug-menace-pm-to-youth/articleshow/133638685.cms",
+    "time": "2026-08-30T22:39:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "CJP netas not saints... nothing wrong in having political ambitions: Wangchuk",
+    "desc": "Climate activist Sonam Wangchuk believes organizers of the Cockroach Janta Party movement have political ambitions. He stated that such aspirations are normal and not objectionable if the platform remains non-party. Wangchuk described the organizers as well-meaning and skilled individuals with no current indications of corruption. He advised them to maintain the CJP as a neutral pressure group for broader support.",
+    "img": "https://static.toiimg.com/photo/msid-133637112,imgsize-110492.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/cjp-netas-not-saints-nothing-wrong-in-having-political-ambitions-wangchuk/articleshow/133637108.cms",
+    "time": "2026-08-30T21:59:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NEET-PG 2026 smooth; retest for 2.4k Jaipur kids hit by glitch",
+    "desc": "The NEET-PG 2026 examination faced disruption due to a power failure at two Jaipur centres. A retest is scheduled for September 5 for 2,445 affected candidates. A three-member committee will investigate the internal power supply problem. The nationwide examination was conducted with extensive security measures and real-time monitoring. NBEMS expressed regret for the inconvenience caused to the candidates.",
+    "img": "https://static.toiimg.com/photo/msid-133637092,imgsize-131212.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/neet-pg-2026-smooth-retest-for-2-4k-jaipur-kids-hit-by-glitch/articleshow/133637088.cms",
+    "time": "2026-08-30T21:43:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Right to question not defiance, every dissent not a threat: SC judge",
+    "desc": "Supreme Court judge Ujjal Bhuyan stressed that governments must listen to citizens and allow dissent. He stated that questioning is an essential expression of citizenship and liberty in democracies. Universities should foster free thinking and encourage students to ask difficult questions. Intolerance undermines the constitutional framework when disagreement is silenced or punished. A democracy's maturity is shown by its response to unpopular or inconvenient opinions.",
+    "img": "https://static.toiimg.com/photo/msid-133636851,imgsize-71104.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/right-to-question-not-defiance-every-dissent-not-a-threat-sc-judge/articleshow/133636852.cms",
+    "time": "2026-08-30T21:10:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India, Uzbekistan target long-term uranium pact",
+    "desc": "In a significant diplomatic move, India and Uzbekistan have enhanced their engagement to a comprehensive strategic partnership. They have ambitious plans for trade, aiming for a target of five billion dollars each year. The nations also formalized an agreement for uranium supply and created a foreign minister-level coordination council while signing eleven memorandums of understanding across diverse fields like mining and education.",
+    "img": "https://static.toiimg.com/photo/msid-133636847,imgsize-57496.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/india-uzbekistan-target-long-term-uranium-pact/articleshow/133636838.cms",
+    "time": "2026-08-30T21:02:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Diabetes impacts men, women differently: Study",
+    "desc": "Type 2 diabetes affects men and women with different health risks. Women face greater mental health challenges after diagnosis, while men experience more heart and kidney issues. Hypertension is a common complication for both sexes following diabetes. People developing mental health conditions after diabetes tend to die earlier. The study suggests sex-specific diabetes care and monitoring are needed.",
+    "img": "https://static.toiimg.com/photo/msid-133636815,imgsize-158106.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/diabetes-impacts-men-women-differently-study/articleshow/133636805.cms",
+    "time": "2026-08-30T20:40:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Samantha Ruth Prabhu reacts as fan suggests the name 'Samraj' for her first baby",
     "desc": "Samantha Ruth Prabhu is radiating joy as she embarks on her first pregnancy journey with husband Raj Nidimoru. In recent Instagram posts, she revealed her stunning pregnancy glow and playfully interacted with fans, showcasing her changing features. Eagerly anticipating motherhood, Samantha is currently enjoying a break from her professional obligations while keeping herself engaged in various activities.",
     "img": "https://static.toiimg.com/photo/msid-133636766,imgsize-378237.cms",
@@ -225,15 +288,6 @@ const newsData_en = [
     "time": "2026-08-30T15:39:21.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "KPSC ‘scam’: CID arrests IAS officer Gyanendra Kumar Gangwar",
-    "desc": "The Criminal Investigation Department of the Karnataka Police arrested IAS officer Gyanendra Kumar Gangwar in connection with the alleged irregularities in the recruitment of 400 veterinary officers, making him the first accused to be arrested",
-    "img": "https://th-i.thgim.com/public/incoming/3o6fgk/article71408040.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-22%20at%2013.07.24.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/kpsc-scam-cid-arrests-ias-officer-gyanendra-kumar-gangwar/article71407351.ece",
-    "time": "2026-08-30T15:35:13.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "After ODI success, Pratika Rawal makes T20I debut in Women's Asia Cup opener",
     "desc": "Pratika Rawal made a strong impression on her T20I debut for India against Thailand in the Women's Asia Cup. Scoring twenty-two runs off just eighteen balls, she showcased her potential. This opportunity comes after her remarkable journey in ODIs, where she achieved the milestone of one thousand runs in a record-breaking twenty-three innings.",
@@ -342,15 +396,6 @@ const newsData_en = [
     "time": "2026-08-30T12:30:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Violation of High Court order won't be tolerated’: Agnimitra Paul reacts after FIR against Mamata Banerjee",
-    "desc": "An FIR was filed against Mamata Banerjee for allegedly violating a court order. The case stems from a Trinamool Chhatra Parishad program held on August 28. Police allege the program exceeded permitted timings and caused disruptions. Ministers criticized Banerjee for disrespecting constitutional institutions and the judiciary. The investigation will examine the roles of all individuals involved.",
-    "img": "https://static.toiimg.com/photo/msid-133628941,imgsize-1616392.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/violation-of-high-court-order-wont-be-tolerated-agnimitra-paul-reacts-after-fir-against-mamata-banerjee/articleshow/133628731.cms",
-    "time": "2026-08-30T11:57:33.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Samantha shows off pregnancy GLOW and baby bump in new pics",
     "desc": "Samantha Ruth Prabhu, currently on a maternity break, shared glowing pregnancy pictures and her baby bump on social media. During an AMA, she reacted playfully to a fan's baby name suggestion and revealed she's gained 11 kg. She's engaged to Raj Nidimoru, whom she began dating in 2023.",
@@ -414,15 +459,6 @@ const newsData_en = [
     "time": "2026-08-30T10:46:43.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'We never thought they were Muslims': Mohan Bhagwat recalls 1996 Charkhi Dadri mid-air collision",
-    "desc": "RSS chief Mohan Bhagwat recalled the Charkhi Dadri air disaster while speaking in New York. He highlighted RSS volunteers' immediate humanitarian aid to victims of the 1996 mid-air collision. Bhagwat stated volunteers served injured and deceased without considering their religious identity. He emphasized RSS's philosophy of selfless service and not seeking publicity for its actions. The organization's work aims to foster unity and social change through local initiatives.",
-    "img": "https://static.toiimg.com/photo/msid-133627256,imgsize-54528.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/we-never-thought-they-were-muslims-mohan-bhagwat-recalls-1996-charkhi-dadri-mid-air-collision/articleshow/133627162.cms",
-    "time": "2026-08-30T10:25:50.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Kagiso Rabada likely to miss Australia Test series with Hamstring Injury",
     "desc": "Kagiso Rabada of South Africa will be sidelined from the upcoming Test series against Australia due to a serious hamstring tear he suffered during his winter training. This injury significantly weakens the pace bowling unit of the Proteas. As a result, Gerald Coetzee and Corbin Bosch are expected to take on additional bowling duties.",
@@ -448,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/indias-economy-set-for-7-7-2-growth-in-fy27-despite-global-headwinds-ey/articleshow/133627167.cms",
     "time": "2026-08-30T10:12:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Salary deductions for Odisha government employees defaulting on alimony",
-    "desc": "Odisha government will now deduct alimony directly from employee salaries. This order ensures timely financial support for estranged wives and children. Repeated complaints prompted the chief minister to take this stern stance. Court orders will now be enforced through automated salary deductions. This initiative aims to uphold judicial authority and ease family distress.",
-    "img": "https://static.toiimg.com/photo/msid-133627414,imgsize-82464.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/salary-deductions-for-odisha-government-employees-defaulting-on-alimony/articleshow/133627364.cms",
-    "time": "2026-08-30T10:11:27.000Z"
   },
   {
     "cat": "Sports",
@@ -486,15 +513,6 @@ const newsData_en = [
     "time": "2026-08-30T09:40:26.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Nepal seeks to advance electricity import arrangement due to floods",
-    "desc": "Nepal has requested advance approvals to import electricity from India starting September 2026. This request stems from generation deficits caused by recent flash floods in Nepal. India will provide any additional electricity that Nepal may need during this period. Major cross-border transmission lines remain operational and unaffected by the local damage. India's national grid capacity can absorb the temporary shortfall without disruption.",
-    "img": "https://static.toiimg.com/photo/msid-133626811,imgsize-299104.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/nepal-seeks-to-advance-electricity-import-arrangement-due-to-floods/articleshow/133626782.cms",
-    "time": "2026-08-30T09:27:36.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Who gained, who lost the most economically",
     "desc": "Six months into the war, global economic fears have not fully materialized. Oil prices surged initially but have since eased from their peak. Financial markets have recovered strongly, boosted by artificial intelligence optimism. Airlines and farmers face increased costs, impacting travelers and food security. Clean energy and defense contractors have emerged as significant beneficiaries.",
@@ -520,24 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-great-khali-escapes-unhurt-after-accident-in-panipat-calls-it-no-big-deal/articleshow/133626638.cms",
     "time": "2026-08-30T09:12:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Ted Lasso Season 4' release schedule: All about the upcoming episodes",
-    "desc": "Ted Lasso's much-anticipated fourth season is now streaming, with new episodes releasing weekly every Wednesday. This season comprises a total of ten episodes, continuing the heartwarming story of Ted as he takes on the challenge of coaching a women's football team in Richmond. Fans can look forward to the gripping season finale, set to air on October 7.",
-    "img": "https://static.toiimg.com/photo/msid-133626451,imgsize-33850.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/ted-lasso-season-4-release-schedule-when-and-where-to-watch-the-remaining-episodes-including-finale/articleshow/133626385.cms",
-    "time": "2026-08-30T08:52:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shiva Rajkumar says ‘No Shiva vs Salman’ over 'Monster' films",
-    "desc": "Shiva Rajkumar stated his film Original Monster differs from Salman Khan's Monster. He emphasized that there is no competition between the two projects. The Kannada actor also hinted at a potential future collaboration with Salman Khan. His film Original Monster is presented as a pan-Indian action film. Salman Khan's film Monster is also an action entertainer expected in 2027.",
-    "img": "https://static.toiimg.com/photo/msid-133626336,imgsize-411749.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/its-not-shiva-vs-salman-shiva-rajkumar-says-original-monster-is-different-from-salman-khan-vamshi-paidipally-film/articleshow/133626310.cms",
-    "time": "2026-08-30T08:43:04.000Z"
   },
   {
     "cat": "Sports",
