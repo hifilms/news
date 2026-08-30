@@ -1,5 +1,221 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "Tilak Varma in India’s ODI World Cup plans as selectors seek Shreyas Iyer backup",
+    "desc": "As India's team management strategizes for the upcoming ODI World Cup, they're considering Tilak Varma as a valuable middle-order backup. His left-handed batting style could enhance the team's dynamics, alongside his potential bowling skills. With the New Zealand tour approaching in October, selectors aim to ensure optimal batting positions, seeking both stability and depth in the squad.",
+    "img": "https://static.toiimg.com/photo/msid-133622471,imgsize-113848.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/tilak-varma-in-indias-odi-world-cup-plans-as-selectors-seek-shreyas-iyer-backup/articleshow/133622424.cms",
+    "time": "2026-08-30T03:12:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Manoj Bajpayee REACTS to Samay's Bihari joke: 'LEARN TO LAUGH'",
+    "desc": "In a recent talk, Manoj Bajpayee praised Samay Raina's show for its clever humor about immigrants. He stressed the significance of light-hearted jokes and self-reflection in fostering a healthier society. Reflecting on his own youth, Bajpayee recounted overcoming stereotypes, highlighting the necessity of mutual respect in humor. Fans can look forward to his new film 'Last Man in Tower', set to premiere shortly.",
+    "img": "https://static.toiimg.com/photo/msid-133622422,imgsize-447119.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/manoj-bajpayee-reacts-to-samay-rainas-indias-got-latent-2-bihari-joke-row-we-should-learn-to-laugh-at-ourselves-and-still-not-be-hurt-and-offended/articleshow/133622405.cms",
+    "time": "2026-08-30T03:09:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Brits say smoke hits focus; USTA calls it hard to control",
+    "desc": "cannabis smoke drifting from nearby Corona Park. Katie Boulter said the smell has affected her concentration, while Fran Jones and Harriet Dart have also noticed it. The issue has surfaced repeatedly at Flushing Meadows, with the USTA acknowledging it cannot control activity beyond tournament grounds.",
+    "img": "https://static.toiimg.com/photo/msid-133622302,imgsize-298314.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/international-sports/players-at-the-us-open-in-new-york-are-complaining-that-the-smell-of-marijuana-is-becoming-an-unwanted-distraction/articleshow/133622069.cms",
+    "time": "2026-08-30T02:54:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘CoE cannot be only for contracted players’: VVS Laxman on India’s cricket pipeline",
+    "desc": "Sicily, Madrid, France and Berlin have all left their mark on chess vocabulary. The Sicilian Defence dates back to Giulio Cesare Polerio, while Ruy López gave the Spanish Opening one of its first systematic analyses. The French Defence emerged from a 1834 correspondence match between Paris and London. Berlin Defence, meanwhile, was revived by Vladimir Kramnik in his 2000 world championship match against Garry Kasparov.",
+    "img": "https://static.toiimg.com/photo/msid-133622264,imgsize-74064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/coe-cannot-be-only-for-contracted-players-vvs-laxman-on-building-indias-cricket-pipeline/articleshow/133622224.cms",
+    "time": "2026-08-30T02:48:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Irumudi' BO day 9: Ravi Teja starrer records 21.8% growth",
+    "desc": "Ravi Teja's latest theatrical release, 'Irumudi', is continuing to captivate audiences as it enters its second week. In an impressive turn, the film has seen a noteworthy boost in domestic earnings on its ninth day, surpassing 114 crore rupees in net collections within India. The worldwide gross now stands at an extraordinary 152 crore rupees.",
+    "img": "https://static.toiimg.com/photo/msid-133622245,imgsize-580477.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/irumudi-box-office-collections-day-9-ravi-teja-starrer-records-21-8-growth-telugu-version-dominates-saturday/articleshow/133622233.cms",
+    "time": "2026-08-30T02:40:59.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "US-Venezuela energy pact: What we know about Trump’s ‘biggest oil deal in world history’",
+    "desc": "In a landmark move, the United States and Venezuela have forged a 25-year energy partnership designed to uplift Venezuela's ailing oil sector and enhance production capabilities. Under this agreement, rights to unexplored oil reserves will be held for a century, with the U.S. claiming fifty-five percent of the new venture's output. This collaboration promises to inject significant investments and generate tax income for Venezuela.",
+    "img": "https://static.toiimg.com/photo/msid-133622232,imgsize-90486.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-venezuela-deal-what-we-know-about-trumps-biggest-oil-deal-in-world-history/articleshow/133622205.cms",
+    "time": "2026-08-30T02:40:48.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Hanuman Ansh' box office: From Rs 10L on day 1 to Rs 27 cr in 23 days",
+    "desc": "Hanuman Ansh has unexpectedly emerged as a box office phenomenon this year. Initially appearing modest at the box office, it swiftly captured audience attention thanks to glowing word of mouth. After a slow start, the film's collections surged dramatically as positive reviews circulated on social media, bringing more viewers to cinemas. With a small budget, this film has thrived solely on the strength of audience enthusiasm and strong recommendations.",
+    "img": "https://static.toiimg.com/photo/msid-133622174,imgsize-621811.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hanuman-ansh-box-office-collection-from-rs-10-lakh-on-day-1-to-rs-27-crore-in-23-days-word-of-mouth-turns-film-into-sleeper-hit/articleshow/133622154.cms",
+    "time": "2026-08-30T02:27:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Joe Root scripts history vs Pak at Lord’s, surpasses Ponting’s all-time record",
+    "desc": "Joe Root has made history by scoring the most Test runs for England, eclipsing Ricky Ponting's record in a thrilling match against Pakistan. This landmark not only highlights Root's outstanding performance in his home Tests but also sets him on the path to chase Sachin Tendulkar's overall record as England triumphs in the series at Lord's.",
+    "img": "https://static.toiimg.com/photo/msid-133622106,imgsize-71334.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/joe-root-scripts-history-vs-pakistan-at-lords-surpasses-ricky-pontings-all-time-record/articleshow/133622090.cms",
+    "time": "2026-08-30T02:12:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Tom Cruise and Anne Hathaway to star in ‘Days of Thunder’ sequel",
+    "desc": "In an exciting revelation, Tom Cruise has confirmed that a sequel to 'Days of Thunder' is in the works, featuring Anne Hathaway. Jonathan Levine will lead as the director, with the screenplay crafted by Will Staples. Set for a global theatrical premiere on June 2, 2028, the film is designed specifically for IMAX, promising a spectacular experience. Both stars are also engaged with multiple upcoming projects.",
+    "img": "https://static.toiimg.com/photo/msid-133622096,imgsize-87534.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-cruise-announces-days-of-thunder-sequel-with-anne-hathaway-in-new-video/articleshow/133622070.cms",
+    "time": "2026-08-30T02:08:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘He does not depend on the pitch’: Rahane explains why Suthar can thrive anywhere",
+    "desc": "Manav Suthar has impressed in his first three Test matches, taking 23 wickets. His ability to generate drift and deceive batters is a significant strength. Ajinkya Rahane noted Suthar's effectiveness regardless of pitch conditions and his quick learning. Suthar's adaptability strengthens his prospects for a larger role in India's spin attack. The team faces a challenging series in New Zealand with different conditions.",
+    "img": "https://static.toiimg.com/photo/msid-133621939,imgsize-75038.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/he-does-not-depend-on-the-pitch-rahane-explains-why-manav-suthar-can-thrive-anywhere/articleshow/133621928.cms",
+    "time": "2026-08-30T01:43:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Khalifa' BO day 10 vs 'Bethlehem Kudumba Unit'",
+    "desc": "Khalifa's box office earnings saw a decline on its tenth day. The movie earned ninety lakhs net in India on its tenth day. Bethlehem Kudumba Unit, however, continued to record strong numbers. This Nivin Pauly starrer saw its collection increase on Saturday. Bethlehem Kudumba Unit's worldwide gross collection reached one hundred seventy-one point five crore.",
+    "img": "https://static.toiimg.com/photo/msid-133621927,imgsize-369013.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/khalifa-box-office-collections-day-10-vs-bethlehem-kudumba-unit-prithviraj-sukumaran-movie-drops-14-3-worldwide-gross-reaches-rs-41-09-crore/articleshow/133621919.cms",
+    "time": "2026-08-30T01:37:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Samay Raina gets SLAMMED for disrespecting Archana on IGL 2",
+    "desc": "Comedian Samay Raina received significant backlash from viewers following his performance on India's Got Talent. His jokes regarding Archana Puran Singh's family, particularly targeting her sons and husband, were deemed disrespectful by many. This led to a broader discussion about the importance of respecting seniors in comedy, as audiences felt Raina overstepped boundaries with his humor.",
+    "img": "https://static.toiimg.com/photo/msid-133621901,imgsize-451938.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/samay-raina-gets-slammed-for-taking-jibes-at-archana-puran-singh-and-her-family-on-indias-got-latent-2-netizens-react-being-disrespectful-is-not-comedy/articleshow/133621863.cms",
+    "time": "2026-08-30T01:28:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Vince Gill gets emotional remembering Dolly Parton",
+    "desc": "In a poignant tribute to his late friend Dolly Parton, Vince Gill performed the beloved song 'I Will Always Love You' on stage, visibly moved by the memory of her impact in his life. He conveyed his heartfelt emotions and grief following her passing on August 25, 2026, and paid homage to their bond through a tribute on his Instagram, capturing the essence of their friendship.",
+    "img": "https://static.toiimg.com/photo/msid-133621887,imgsize-112517.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/vince-gill-gets-emotional-remembering-dolly-parton-breaks-down-in-tears-on-stage-while-singing-i-will-always-love-you/articleshow/133621882.cms",
+    "time": "2026-08-30T01:22:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Vishwanath and Sons' BO day 16 vs 'DC'",
+    "desc": "Vishwanath and Sons earned over 113 crore net in India. The film saw a significant jump in earnings on its sixteenth day. Its worldwide gross collection has now reached 193 crore. Meanwhile, Lokesh Kanagaraj's acting debut DC has grossed 101 crore worldwide. DC will begin streaming on OTT from September fourth.",
+    "img": "https://static.toiimg.com/photo/msid-133621843,imgsize-294993.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/box-office/vishwanath-and-sons-box-office-collections-day-16-vs-dc-suriya-starrer-records-53-5-growth-worldwide-gross-reaches-rs-193-34-crore/articleshow/133621828.cms",
+    "time": "2026-08-30T01:06:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘ I take the blame myself’: Suryakumar Yadav’s big regret over failed ODI career",
+    "desc": "Suryakumar Yadav openly takes responsibility for his underwhelming ODI career, admitting he lacked the necessary dedication to the 50-over format. He struggles with the complexities of ODI cricket compared to T20s and expresses regret over not mastering the art of innings construction. Yadav reflects that his journey in ODI cricket feels incomplete and remains a lingering aspiration.",
+    "img": "https://static.toiimg.com/photo/msid-133621840,imgsize-103614.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/-i-take-the-blame-myself-suryakumar-yadavs-big-regret-over-failed-odi-career/articleshow/133621822.cms",
+    "time": "2026-08-30T01:05:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lil Nas X reveals his mother has passed away",
+    "desc": "Rapper Lil Nas X took to social media to express his sorrow after the passing of his mother, sharing a poignant tribute. He had often revealed her battles with addiction, highlighting the struggles she faced. In a touching acknowledgment, his father also reflected on these challenges, recognizing Lil Nas X's unwavering support. Unfortunately, the artist did not elaborate on the circumstances surrounding her death.",
+    "img": "https://static.toiimg.com/photo/msid-133621794,imgsize-47516.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/lil-nas-x-announces-his-mothers-passing-in-a-tribute-post-love-you-forever-/articleshow/133621784.cms",
+    "time": "2026-08-30T00:45:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Spider-Man: Brand New Day' BO day 31",
+    "desc": "Brand New Day is enjoying a remarkable run in Indian cinemas, amassing a net collection of Rs 1.15 crore on its thirty-first day. The film's total gross in India has now reached an impressive Rs 588.12 crore, with a net of Rs 492.06 crore. Globally, the movie has achieved gross revenues of Rs 21,853.40 crore. Tom Holland's performance as an evolved Peter Parker has garnered positive acclaim from critics.",
+    "img": "https://static.toiimg.com/photo/msid-133621790,imgsize-300293.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/spider-man-brand-new-day-box-office-collection-day-31-tom-holland-starrer-earns-rs-1-15-crore-india-gross-reaches-rs-588-12-crore/articleshow/133621788.cms",
+    "time": "2026-08-30T00:42:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rishab supports Yash as 'Toxic' row: 'Taking Kannada cinema..'",
+    "desc": "A Fairytale for Grown Ups', referring to it as a groundbreaking venture with its unique storyline. Despite receiving a mix of negative and positive feedback since its premiere in August, the film has garnered substantial backing from the Kannada film fraternity, boasting a remarkable global box office collection exceeding Rs 254 crore.",
+    "img": "https://static.toiimg.com/photo/msid-133621778,imgsize-537260.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/rishab-shetty-supports-yash-as-toxic-faces-criticism-love-you-for-the-love-you-have-for-taking-kannada-cinema-to-the-global-stage/articleshow/133621775.cms",
+    "time": "2026-08-30T00:33:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Hi' BO day 2: Nayanthara starrer records 72% growth",
+    "desc": "The film 'Hi' starring Nayanthara saw significant box office growth on its second day. Its Saturday earnings reached Rs 2.15 crore net, a substantial increase from Friday. The Tamil version drove most of the collection, with strong night show occupancy. Overall occupancy improved to 43.5% across India, reflecting audience interest. The movie's total India net collection has now surpassed Rs 3.40 crore.",
+    "img": "https://static.toiimg.com/photo/msid-133621767,imgsize-275232.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/hi-box-office-collections-day-2-nayanthara-starrer-records-72-growth-india-gross-reaches-rs-3-94-crore/articleshow/133621764.cms",
+    "time": "2026-08-30T00:23:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "a compilation",
+    "desc": "This is a compilation of The Hindu’s coverage on the dropping of Parandur airport project by the TVK-led Tamil Nadu government in August 2026 citing farmers’ opposition and ecological concerns after the site was finalised during the DMK regime in 2022.",
+    "img": "https://th-i.thgim.com/public/incoming/grcyg7/article71399636.ece/alternates/LANDSCAPE_1200/1693_21_5_2023_16_41_10_2_PARANDUR_PROTEST_09.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/the-scrapping-of-parandur-airport-project-by-tvk-led-tamil-nadu-government-a-compilation/article71395589.ece",
+    "time": "2026-08-30T00:18:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "2026 Ballon D'Or Race: Mourinho backs Mbappé over UCL and World Cup winners",
+    "desc": "José Mourinho has backed Kylian Mbappé for the 2026 Ballon d’Or, arguing that individual brilliance should outweigh team trophies. Mbappé’s record-breaking World Cup, plus his prolific La Liga and Champions League campaigns, strengthens his case. Mourinho insists the award should recognise the world’s best player rather than automatically rewarding those who win the Champions League or World Cup.",
+    "img": "https://static.toiimg.com/photo/msid-133621751,imgsize-119904.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/for-me-there-is-one-jos-mourinho-picks-kylian-mbapp-for-ballon-dor-over-ucl-and-world-cup-winners/articleshow/133621651.cms",
+    "time": "2026-08-30T00:12:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Toxic' BO day 4: Yash starrer records 9.9% drop",
+    "desc": "Toxic recorded a decline in its India net collection on Saturday. The film earned an estimated Rs 24.50 crore net in India on Day 4. Its total India net collection has now reached Rs 190.45 crore. Worldwide gross collection for Toxic has reached Rs 254.75 crore. The Hindi version emerged as the biggest contributor on Saturday.",
+    "img": "https://static.toiimg.com/photo/msid-133621685,imgsize-302506.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/toxic-box-office-collections-day-4-yash-starrer-records-9-9-drop-worldwide-gross-reaches-rs-254-75-crores/articleshow/133621681.cms",
+    "time": "2026-08-30T00:01:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Chennai’s second airport: grounded until take-off",
+    "desc": "With the Parandur airport now a closed chapter, Tamil Nadu has to press ahead with another alternative, viable site for Chennai’s second airport. This report takes a look at the options ahead of the State and the processes involved in establishing a new airport. Cheyyur in Chengalpattu district and Gummidipoondi in Tiruvallur district are the top contenders for Chennai’s second airport",
+    "img": "https://th-i.thgim.com/public/incoming/8tu6yg/article71405369.ece/alternates/LANDSCAPE_1200/1693_14_7_2024_16_28_17_2_AIR_PASSENGERS_WALK_TO_MULTI_LEVEL_CAR_PARKING_06.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/chennai-second-airport-grounded-until-take-off/article71405336.ece",
+    "time": "2026-08-29T23:54:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "José Mourinho says Ballon d’Or shouldn’t go to player just for winning UCL or WC",
+    "desc": "Jose Mourinho has challenged the traditional Ballon d’Or criteria, arguing that the award should recognise individual greatness rather than simply major trophies. The Real Madrid manager believes several of his players belong among the world’s elite, with Kylian Mbappé emerging as a leading contender after a remarkable 2025-26 season and outstanding World Cup performance.",
+    "img": "https://static.toiimg.com/photo/msid-133621619,imgsize-69006.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/jos-mourinho-makes-bold-ballon-dor-challenge-cant-give-it-to-a-guy-just-for-winning-ucl-or-world-cup/articleshow/133620191.cms",
+    "time": "2026-08-29T23:11:58.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "'Slippages reveal design flaw on Kanpur-Lucknow e-way'",
     "desc": "Slippages on the Kanpur-Lucknow Expressway suggest design issues, not construction defects. Affected stretches will require rebuilding from the ground up, officials stated. A preliminary investigation identified weak, plastic soil as a primary cause. Poor drainage also contributed to the expressway's structural problems. The government awaits a final report on the detailed investigation.",
@@ -64,7 +280,7 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "PM ahead of summit",
+    "title": "PM Modi ahead of summit",
     "desc": "On his diplomatic mission to Uzbekistan and Kyrgyzstan, Prime Minister Modi aims to bolster India's regional aspirations and forge stronger ties. At the SCO summit, he will advocate for collective efforts against terrorism and initiate dialogue on trade and strategic collaboration. This trip underscores India’s dedication to nurturing historical connections and fostering prosperity for all involved nations.",
     "img": "https://static.toiimg.com/photo/msid-133619537,imgsize-119186.cms",
     "src": "indiatimes.com",
@@ -370,15 +586,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Quote of the day by Christopher Walken",
-    "desc": "In a heartfelt reflection, Christopher Walken discusses the significance of friendship and human connection. He expresses that genuine friends are an uncommon treasure, playing a critical role in our life’s path. Although many connections may dissipate over time, those that truly nurture our souls are indispensable. Just as we depend on the air we breathe, so too must we value these meaningful relationships for our overall joy and support.",
-    "img": "https://static.toiimg.com/photo/msid-133607204,imgsize-56648.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-christopher-walken-were-born-alone-we-die-alone-and-in-between-we-spend-our-lives-looking-for-connection-when-the-pulp-fiction-star-shared-words-of-wisdom-highlighting-how-the-true-meaning-of-life-stems-from-true-friendship/articleshow/133607157.cms",
-    "time": "2026-08-29T12:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "Bollywood actors pay their last respects",
     "desc": "Filmmaker Kuku Kohli's prayer meet was held today in Mumbai. His wife, Aruna Irani, attended the ceremony looking visibly shattered. Several film industry actors and actresses paid their last respects. Rajpal Yadav and Sunny Kaushal were among the notable attendees. The event honored the director known for films like 'Phool Aur Kaante'.",
     "img": "https://static.toiimg.com/photo/msid-133611821,imgsize-436847.cms",
@@ -414,24 +621,6 @@ const newsData_en = [
     "time": "2026-08-29T11:38:03.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Carlos Alcaraz walks back into the spotlight",
-    "desc": "Carlos Alcaraz returns to competitive tennis at the US Open after a four-month injury break. He faces Roman Safiullin in his opening match at the New York tournament. Alcaraz aims to regain his top form and confidence following his wrist recovery. Other top players like Jannik Sinner and Novak Djokovic are also competing. The tennis world watches Alcaraz's comeback with keen interest and anticipation.",
-    "img": "https://static.toiimg.com/photo/msid-133610811,imgsize-105776.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/us-open-carlos-alcaraz-walks-back-into-the-spotlight/articleshow/133610692.cms",
-    "time": "2026-08-29T11:30:43.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "MJ Gopalan played just 1 Test",
-    "desc": "MJ Gopalan found himself at a crossroads in 1936, forced to choose between the promise of Olympic hockey and a cricket tour. He chose cricket, which meant missing out on the Olympic gold as India's hockey squad achieved greatness. Though his first-class statistics were impressive, Gopalan's international experience was limited to a single Test appearance.",
-    "img": "https://static.toiimg.com/photo/msid-133610399,imgsize-39236.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/he-chose-cricket-over-olympic-hockey-gold-with-dhyan-chand-mj-gopalan-played-just-1-test-and-bowled-the-first-ranji-trophy-ball/articleshow/133610274.cms",
-    "time": "2026-08-29T11:11:11.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Labor dept lowers employment growth by 79,000, private sector cut by 178,000",
     "desc": "In a recent update from the Bureau of Labour Statistics, US employment growth forecasts have been lowered for the year concluding in March 2026, with a preliminary adjustment indicating a net decrease of 79,000 jobs. Notably, the private sector experienced a more significant decline of 178,000 roles, stemming from a comparison of initial estimates against actual tax records. A final adjustment will be detailed in February 2027.",
@@ -439,15 +628,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/us-job-data-labor-dept-lowers-employment-growth-by-79000-private-sector-cut-by-178000/articleshow/133609465.cms",
     "time": "2026-08-29T10:48:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "The Movie: Ali Fazal and Pankaj Tripathi lead cast",
-    "desc": "The Movie' will feature returning and new characters in its dangerous world. This theatrical release is scheduled for September 4, 2026, during the festive season. Several key cast members are reprising their roles for this cinematic chapter. The film promises another intense battle for power and control within Mirzapur.",
-    "img": "https://static.toiimg.com/photo/msid-133609963,imgsize-321218.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mirzapur-the-movie-character-guide-ali-fazals-guddu-faces-pankaj-tripathis-kaleen-bhaiya-divyenndu-returns-as-munna-as-new-faces-join-the-battle/articleshow/133609540.cms",
-    "time": "2026-08-29T10:48:04.000Z"
   },
   {
     "cat": "Entertainment",
@@ -466,60 +646,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/videos/watch-nepal-floods-families-search-for-loved-ones-amid-hope-and-despair-at-kathmandu-hospitals/article71404242.ece",
     "time": "2026-08-29T10:17:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'An honour to become the first player': Kane reacts after making history in Germany",
-    "desc": "Harry Kane has made history by becoming the first English player to be awarded Germany's Footballer of the Year. This significant recognition was presented at the Allianz Arena just before Bayern Munich's Bundesliga season opener. Alongside this honor, Kane also claimed the European Golden Shoe for his remarkable goal-scoring achievements last season.",
-    "img": "https://static.toiimg.com/photo/msid-133609496,imgsize-1847905.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/an-honour-to-become-the-first-english-player-harry-kane-reacts-after-making-history-in-germany/articleshow/133609362.cms",
-    "time": "2026-08-29T10:14:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "EXCLUSIVE",
-    "desc": "Bengaluru FC's Ryan Williams reflects on his transformative three years with Bengaluru FC and the Indian national team, expressing pride in helping Indian football grow. He discusses the club's title ambitions under Pep Muñoz, adapting to Indian football, mentoring younger players, supporting OCI reforms for national team progress, and explains why Bengaluru's relaxed lifestyle has made it feel like home.",
-    "img": "https://static.toiimg.com/photo/msid-133609326,imgsize-386889.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/exclusive-last-three-years-of-my-career-have-been-the-most-transformative-bengaluru-fcs-ryan-williams/articleshow/133609033.cms",
-    "time": "2026-08-29T10:10:27.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Swastika Mukherjee defends Kiara Advani amid Yash's ‘Toxic’ backlash",
-    "desc": "In a bold statement, Swastika Mukherjee has defended Kiara Advani against the backlash for her intimate performance in Toxic. She challenged the unfair pre-release scrutiny and societal norms that bind actresses. Highlighting the discomfort surrounding mature topics, Mukherjee urged that motherhood should not confine an actress's on-screen decisions. Toxic remains in theaters, continuing to spark debate despite mixed feedback from audiences.",
-    "img": "https://static.toiimg.com/photo/msid-133609386,imgsize-239077.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/swastika-mukherjee-defends-kiara-advani-amid-yashs-toxic-backlash-questioning-why-should-motherhood-have-any-bearing-did-she-publish-pamphlets-saying-ill-only-play-mother-teresa-type-roles/articleshow/133609170.cms",
-    "time": "2026-08-29T10:05:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Emraan Hashmi postpones Bengaluru gig amid swine flu diagnosis reports",
-    "desc": "Actor Emraan Hashmi has tested positive for swine flu (H1N1) after falling unwell following recent work travel, forcing him to postpone his much-anticipated Bengaluru stage comeback reportedly worth Rs 2 crore, even as 'Awarapan 2' continues its strong box office run. Amid the health scare, Hashmi took to his Instagram Stories to inform fans that he would be unable to attend his scheduled Bengaluru gig, though he didn't explicitly mention his swine flu diagnosis in the post.",
-    "img": "https://static.toiimg.com/photo/msid-133608717,imgsize-112655.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/emraan-hashmi-announces-postponement-of-bengaluru-gig-to-september-12-amid-reports-of-being-diagnosed-with-swine-flu-after-awarapan-2-success-picture-khatam-nahi-hua-bas-postpone-hua-hai/articleshow/133608687.cms",
-    "time": "2026-08-29T09:38:44.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shankar and AR Murugadoss collaboration on the cards",
-    "desc": "In an exciting turn of events, celebrated filmmakers Shankar and AR Murugadoss are rumored to be in talks about a collaborative film project. Reports suggest that Murugadoss is eyeing a narrative crafted by Shankar’s team of writers. While both directors are busy with their current projects, with Shankar overseeing 'Game Changer' and 'Indian 2', and Murugadoss steering 'Madharaasi', the film community eagerly anticipates an official announcement.",
-    "img": "https://static.toiimg.com/photo/msid-133608593,imgsize-130868.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/shankar-and-ar-murugadoss-collaboration-on-the-cards-as-director-in-talks-about-a-story-from-shankars-team-report/articleshow/133608566.cms",
-    "time": "2026-08-29T09:20:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Neeraj Chopra’s season over! Ligament tear rules him out of DL Final, Asian Games",
-    "desc": "Olympic champion Neeraj Chopra's 2026 season has ended prematurely due to an ankle injury. He sustained the ligament tear during training after a season's best throw. Chopra will now miss the Diamond League Final and the Asian Games. This setback comes as he felt he was regaining his competitive momentum. His focus is now on rehabilitation and a stronger comeback.",
-    "img": "https://static.toiimg.com/photo/msid-133608584,imgsize-134604.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/neeraj-chopras-2026-season-over-after-ankle-ligament-tear-diamond-league-final-and-asian-games-ruled-out/articleshow/133608527.cms",
-    "time": "2026-08-29T09:19:59.000Z"
   },
   {
     "cat": "Business",
@@ -541,66 +667,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Aishwarya Lekshmi in talks to join Allu Arjun and Atlee's 'Raaka'",
-    "desc": "Actress Aishwarya Lekshmi is rumored to be in negotiations for a pivotal role in Atlee's highly anticipated film 'Raaka'. Speculation suggests she will portray a formidable antagonist in this pan-Indian science-fiction fantasy, which stars Allu Arjun and Deepika Padukone. With several other big names attached, fans eagerly await official casting news from the production team.",
-    "img": "https://static.toiimg.com/photo/msid-133605887,imgsize-115169.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/aishwarya-lekshmi-in-talks-to-join-atlee-allu-arjun-and-deepika-padukones-raaka-in-a-negative-role-report/articleshow/133605876.cms",
-    "time": "2026-08-29T08:57:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Simbu urges producers to give small films 'that extra push' in theatres",
-    "desc": "Silambarasan, the renowned actor, commended the Tamil film Modha Rathri for its intriguing storyline. He appealed to viewers to lend their support by attending theater screenings. Furthermore, he called on producers to enhance promotional efforts for quality indie films, asserting that Tamil productions with fresh perspectives merit the audience's admiration. The film Modha Rathri, a recent release, is a humorous take on wedding-night antics.",
-    "img": "https://static.toiimg.com/photo/msid-133604822,imgsize-201534.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/when-a-tamil-film-attempts-something-fresh-give-it-love-simbu-backs-modha-rathri-urges-producers-to-give-small-films-that-extra-push-in-theatres/articleshow/133604816.cms",
-    "time": "2026-08-29T08:55:08.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Akshay Oberoi addresses backlash over ‘Toxic’ amid mixed reviews",
-    "desc": "Akshay Oberoi shared his positive experience playing Tony in Geetu Mohandas' film 'Toxic'. He developed a strong friendship with co-star Huma Qureshi during the production. Oberoi praised director Geetu Mohandas and co-writer Yash for their collaborative efforts. The actor remains proud of the film despite its mixed critical reception. 'Toxic' has achieved significant box office success within its opening days.",
-    "img": "https://static.toiimg.com/photo/msid-133608138,imgsize-123798.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/we-made-the-film-we-wanted-akshay-oberoi-addresses-backlash-over-toxic-amid-mixed-reviews-heaps-praise-on-yash-saying-boss-is-like-a-walking-talking-industry-of-his-own/articleshow/133608096.cms",
-    "time": "2026-08-29T08:50:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Samay Raina's India's Got Latent stirs row again after crass 'Kashmir, Bihar' banter",
-    "desc": "Comedian Samay Raina's recent show has drawn criticism for alleged remarks about certain communities. BJP MLA Ram Kadam condemned these statements, calling them publicity stunts. During the episode, Raina also made a joke about Archana Puran Singh's vlogging. Archana responded sharply, stating that abusing is a talent. The show's clips are currently circulating widely on social media platforms.",
-    "img": "https://static.toiimg.com/photo/msid-133608596,imgsize-65011.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/city/mumbai/samay-raina-in-soup-again-over-remarks-on-people-from-bihar-kashmiri-pandits-they-get-publicity-for-free/articleshow/133607906.cms",
-    "time": "2026-08-29T08:40:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "'Toxic': Yash's film surges past Rs 250 crore globally in just 4 days",
     "desc": "A Fairytale For Grown-Ups' continues its dominant box office run into Day 4, having already crossed the Rs 221 crore worldwide mark within its first three days. Having already smashed past Ranveer Singh's Dhurandhar's opening-day numbers within hours of release, Yash's gangster epic has continued to build on that momentum through its first weekend, and the film now looks poised to chase even bigger targets as it settles into its weekday run.",
     "img": "https://static.toiimg.com/photo/msid-133607833,imgsize-76890.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/toxic-box-office-collection-day-4-live-yash-nayanthara-kiara-advani-film-targets-bigger-weekend-haul-with-sight-on-rs-200-crore-india-net-after-crossing-rs-221-crore-globally-in-just-three-days/articleshow/133607777.cms",
     "time": "2026-08-29T08:21:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Soori tears up as Pa. Vijay recalls his early struggles",
-    "desc": "Soori's heartwarming moment at the Mandaadi audio launch captivated attendees as revered director Pa. Vijay celebrated his journey. Reflecting on Soori's growth, he fondly reminisced about the actor's earlier struggles, offering heartfelt wishes for a flourishing future. Pa. Vijay also lauded director Mathimaran's vision, instilling excitement about the film, which stands as a testament to Soori's remarkable evolution in the industry.",
-    "img": "https://static.toiimg.com/photo/msid-133604808,imgsize-103303.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/once-upon-a-time-i-saw-you-hanging-from-a-rope-and-painting-on-a-wall-soori-tears-up-as-pa-vijay-recalls-his-early-struggles-and-celebrates-his-rise-at-mandaadi-audio-launch/articleshow/133604805.cms",
-    "time": "2026-08-29T07:46:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "All about Brad Pitt’s net worth",
-    "desc": "As of 2026, Brad Pitt's net worth is anticipated to reach USD 400 million, reflecting his successful career in film and endorsements. Notably, his prominent roles in 'The Adventures of Cliff Booth' and 'Wolfs' have significantly contributed to his fortune. Beyond acting, Pitt is also a savvy investor in real estate, owning remarkable properties such as a luxurious mansion in Beverly Hills and a picturesque villa in Majorca.",
-    "img": "https://static.toiimg.com/photo/msid-133606892,imgsize-434736.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brad-pitts-net-worth-in-2026-earnings-from-films-highest-paid-roles-royalties-real-estate-and-more/articleshow/133606844.cms",
-    "time": "2026-08-29T07:24:53.000Z"
   },
   {
     "cat": "Business",
@@ -610,42 +682,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/nepal-may-need-nearly-a-tenth-of-its-economy-to-rebuild-after-devastating-floods/articleshow/133606785.cms",
     "time": "2026-08-29T07:24:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Stallone announces Sophia's engagement",
-    "desc": "Hollywood actor Sylvester Stallone announced his eldest daughter Sophia Rose Stallone's engagement. Sophia Rose Stallone is set to marry her partner Michael Sheehan. The actor shared several photographs from the happy occasion on Instagram. Fans reacted enthusiastically to the news of the engagement. Sophia Rose Stallone also expressed her joy about marrying her best friend.",
-    "img": "https://static.toiimg.com/photo/msid-133606873,imgsize-372725.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/sylvester-stallone-announces-daughter-sophia-rose-stallones-engagement-as-fans-joke-about-having-rocky-as-father-in-law-we-are-so-ecstatic/articleshow/133606820.cms",
-    "time": "2026-08-29T07:24:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Daboo Malik opens up on being 'like therapy' for son Amaal Mallik",
-    "desc": "Daboo Malik opened up about Amaal Malik's recent decision to step back from his career to focus on personal healing. He reassured fans that this break is vital for Amaal's mental health, noting it's a manageable situation. Daboo expressed confidence in the evolving industry, which now encourages artists to pursue work that truly resonates, hinting at Amaal's ambitious comeback, possibly including a stint on Bigg Boss.",
-    "img": "https://static.toiimg.com/photo/msid-133606672,imgsize-420523.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/daboo-malik-opens-up-on-being-like-therapy-for-son-amaal-mallik-amid-awarapan-2-singers-6-month-hiatus-says-it-wont-affect-his-industry-standing-physical-health-is-also-a-very-important-part-of-life/articleshow/133606609.cms",
-    "time": "2026-08-29T07:09:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Has to be a joke': Pakistan-born cricketer hits out at PCB amid Imran Khan row",
-    "desc": "Khawaja, who was born in Islamabad, reacted after reports claimed the Pakistan team had threatened to boycott the second Test against England if the broadcaster aired the interview with Imran Khan's sons, Sulaiman and Kasim.",
-    "img": "https://static.toiimg.com/photo/msid-133605143,imgsize-43574.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/has-to-be-a-joke-pakistan-born-cricketer-hits-out-at-pcb-amid-imran-khan-row/articleshow/133604972.cms",
-    "time": "2026-08-29T05:51:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘How can this happen?’: Sky opens up on shock India snub after T20 WC triumph",
-    "desc": "Suryakumar Yadav expressed surprise after losing his T20 captaincy role. He had led India to T20 World Cup and Asia Cup victories. The selectors informed him it was time for the team to move forward. He accepted the decision, acknowledging the selectors' prerogative. Suryakumar remains available for selection whenever the selectors deem it appropriate.",
-    "img": "https://static.toiimg.com/photo/msid-133604371,imgsize-93080.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/how-can-this-happen-suryakumar-yadav-opens-up-on-shock-india-snub-after-t20-world-cup-triumph/articleshow/133604293.cms",
-    "time": "2026-08-29T04:58:52.000Z"
   },
   {
     "cat": "Business",
@@ -664,15 +700,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/energy-and-environment/fresh-glacial-lakes-form-at-source-of-nepals-ice-rock-avalanche/article71401188.ece",
     "time": "2026-08-29T03:43:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI stance on Sports Bill creates confusion within Board",
-    "desc": "State cricket associations find themselves perplexed as the BCCI navigates the National Sports Governance Act. The board asserts that its electoral procedures must reflect its constitution, challenging the government's notice that allows for elections to be postponed until December 2026. This discord highlights key issues surrounding cooling-off periods for officials and conflict of interest regulations, clouding the governance framework across various state cricket bodies.",
-    "img": "https://static.toiimg.com/photo/msid-133602564,imgsize-106876.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bcci-stance-on-sports-bill-creates-confusion-within-board/articleshow/133602521.cms",
-    "time": "2026-08-29T02:38:23.000Z"
   },
   {
     "cat": "Business",
@@ -801,15 +828,6 @@ const newsData_en = [
     "time": "2026-08-28T09:51:12.000Z"
   },
   {
-    "cat": "World",
-    "title": "PM Modi to undertake four-day visit to Uzbekistan, Kyrgyzstan",
-    "desc": "PM Modi will also hold bilateral meetings with SCO leaders on the sidelines of the summit; it is learnt that Vladimir Putin will be among the leaders with whom the PM will hold bilateral meetings",
-    "img": "https://th-i.thgim.com/public/incoming/b8haap/article71397474.ece/alternates/LANDSCAPE_1200/20260827063L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/pm-modi-to-undertake-4-day-visit-to-uzbekistan-kyrgyzstan/article71397369.ece",
-    "time": "2026-08-28T09:44:40.000Z"
-  },
-  {
     "cat": "Business",
     "title": "India, Canada reiterate commitment to complete trade deal by end of 2026",
     "desc": "A joint statement, issued by the Finance Ministers of both countries following the conclusion of the inaugural India-Canada Finance Ministers’ Economic and Financial Dialogue in Toronto, said that India had expressed its readiness to begin negotiations on a Bilateral Investment Treaty “at the earliest”",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/manjrekar-slams-icc-bcci-for-going-soft-on-disciplinary-violations-by-youngsters/article71391892.ece",
     "time": "2026-08-27T12:52:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Spinners bowling no-balls a concern: Bahutule",
-    "desc": "Cut to the latest second Test in progress against Sri Lanka at the Sinhalese Sports Club Ground, among India’s no-balls, 10 were bowled by spinners with Saransh Jain and Jadeja being guilty of this mistake",
-    "img": "https://th-i.thgim.com/public/incoming/18duyn/article71393609.ece/alternates/LANDSCAPE_1200/INDIA%20Afghanistan%20ODI%2028.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/spinners-bowling-no-balls-a-concern-bahutule/article71392981.ece",
-    "time": "2026-08-27T12:48:12.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Madras built the engine for industrial development, Chennai is shifting gears",
-    "desc": "From a colonial trading centre to a manufacturing hub and now a diversified global business destination, the city has repeatedly reinvented itself. Chennai is now home to leading global firms, building on the foundation laid by Madras",
-    "img": "https://th-i.thgim.com/public/incoming/ke3fr3/article71390364.ece/alternates/LANDSCAPE_1200/HG3_Nehru_Visit_at_Central_Polytechnic7.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/chennai/madras-built-the-engine-chennai-is-shifting-gears/article71385941.ece",
-    "time": "2026-08-27T10:16:18.000Z"
   }
 ];

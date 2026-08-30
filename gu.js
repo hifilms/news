@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "કાશ્મીરી પંડિત અને બિહાર પર જોક કરી ફસાયો સમય રૈના, નવા એસિપોડ પછી લોકોમાં વધી નારાજગી",
+    "desc": "સમય રૈના ફરી એકવાર વિવાદમાં ફસાયો છે. સમય રૈનાના શો ઈંડિયાઝ ગોટ લેટેન્ટનો નવો એપિસોડ ઓન એર થયો અને વિરોધ પણ થરુ થઈ ગયો છે. તાજેતરના એપિસોડમાં સમય રૈના અને શેરોન વર્માએ કાશ્મીરી પંડિત અને બિહારના લોકો પર જોક કર્યા જેનાથી લોકોમાં નારાજગી વધી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/indias-got-latent-latest-episode-samay-raina-sharon-verma-jokes-on-bihari-and-kashmiri-pandit-controversy-489367 ",
+    "time": "2026-08-30T02:02:58.000Z"
+  },
+  {
     "cat": "World",
     "title": "કેવી રીતે તૂટ્યું હતું ગ્લેશિયર ? કેમેરામાં કેદ થયું ભયાનક દ્રશ્ય, વીડિયો જોઈને રૂવાંડા ઉભા થઈ જશે",
     "desc": "તાજેતરમાં નેપાળમાં આવેલા વિનાશક પૂરમાં અત્યાર સુધીમાં 669 લોકોના મોત થયા છે, જ્યારે હજારો લોકો ગુમ છે. ત્યારે એક વીડિયો સામે આવ્યો છે, જેમાં આ દુર્ઘટના કેવી રીતે બની એટલે કે ગ્લેશિયર કેવી રીતે તૂટ્યું હતું તેના ભયાનક દ્રશ્ય કેમેરામાં કેદ થયા હોવાનું કહેવામાં આવી રહ્યું છે.",
@@ -592,15 +601,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/shahid-kapoor-deva-movie-co-actor-rohullah-mehdi-arrested-in-drugs-case-488640 ",
     "time": "2026-08-24T02:38:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "પર્સનલ લાઈફ ચર્ચાનો વિષય બનતા ગોવિંદા ધુંઆફુઆ થયો, કાનૂની નોટિસ જાહેર કરી આપી ચેતવણી",
-    "desc": "ગોવિંદા અને સુનીતા આહુજાની સમસ્યાઓ છેલ્લા ઘણા સમયથી ચર્ચાનો વિષય છે. તેવામાં હવે આ મામલે ગોવિંદા ધુંઆફુઆ થયો છે તેણે લીગલ નોટિસ જાહેર કરી જણાવી દીધું છે કે તેના પરિવાર કે અંગત જીવન વિશે ખોટી માહિતી ફેલાવનાર વિરુદ્ધ 100 કરોડનો દાવો કરવામાં આવશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/govinda-take-legal-help-govinda-issue-legal-notice-over-personal-life-488596 ",
-    "time": "2026-08-23T10:40:31.000Z"
   },
   {
     "cat": "Tech",
