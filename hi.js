@@ -1,6 +1,69 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Has Enzo Fernandez already played his last game for Chelsea amid transfer rumours? Head coach reveals",
+    "desc": "Chelsea has gotten off to a stellar start to their Premier League campaign. Under new head coach Xabi Alonso, the side has managed to win both of their matches and sit in third place in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/has-enzo-fernandez-already-played-his-last-game-for-chelsea-amid-transfer-rumours-head-coach-reveals-2026-08-31-1052881",
+    "time": "2026-08-31T12:15:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "WTC updated points table after England register dominant win over Pakistan in London to clinch series",
+    "desc": "England and Pakistan took on each other in the second Test of the ongoing series between the two. The teams met at Lord’s Cricket Ground in London for the clash, and it was England who...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/wtc-updated-points-table-after-england-register-dominant-win-over-pakistan-in-london-to-clinch-series-2026-08-31-1052873",
+    "time": "2026-08-31T11:04:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Joe Root surpasses Andrew Strauss in elite list after Test series victory against Pakistan",
+    "desc": "England performed brilliantly against Pakistan in the second Test of the ongoing three-game series between the two sides. It is worth noting that after a win in the first Test, England took on Pakistan in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/joe-root-surpasses-andrew-strauss-in-elite-list-after-test-series-victory-against-pakistan-2026-08-31-1052864",
+    "time": "2026-08-31T09:47:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Novak Djokovic breaks down in tears after suffering first round exit at the US Open 2026",
+    "desc": "The US Open 2026 kicked off, and the first round already caught the attention of many. The first round of the tournament saw veteran tennis legend Novak Djokovic take centre stage and be eliminated right...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-breaks-down-in-tears-after-suffering-first-round-exit-at-the-us-open-2026-2026-08-31-1052859",
+    "time": "2026-08-31T09:02:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'I hate losing': Bruno Fernandes opens up after helping Manchester United win first game of the season",
+    "desc": "Manchester United got back to winning ways as the side put forth a marvellous performance in their second game of the Premier League 2026-27 season. The sides took on Ipswich Town. The two sides met...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/i-hate-losing-bruno-fernandes-opens-up-after-helping-manchester-united-win-first-game-of-the-season-2026-08-31-1052851",
+    "time": "2026-08-31T07:47:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi smashes 57-year-old record, scores magnificent 92 against Central Zone",
+    "desc": "Vaibhav Sooryavanshi put forth a brilliant performance in the first innings as Central Zone took on East Zone in the ongoing Duleep Trophy semi-final. The two sides met at the BCCI (Board of Control for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-smashes-57-year-old-record-scores-magnificent-92-against-central-zone-2026-08-31-1052841",
+    "time": "2026-08-31T06:45:27.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shafali Verma stars as India get off to stellar start in Women's Asia Cup 2026, defeat Thailand by 94 runs",
+    "desc": "The Indian team kicked off their campaign in the ongoing Women’s Asia Cup 2026. The side took on Thailand women in their first game of the tournament, and the two sides met at the Dubai...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shafali-verma-stars-as-india-get-off-to-stellar-start-in-women-s-asia-cup-2026-defeat-thailand-by-94-runs-2026-08-31-1052834",
+    "time": "2026-08-31T05:26:03.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "When and where to watch India vs Thailand, Women's Asia Cup 2026 live on TV and stream online in India?",
     "desc": "The Indian team is all set to kick off its campaign in the Women’s Asia Cup 2026. The side, led by Harmanpreet Kaur, will take on Thailand in their first game of the tournament. The...",
     "img": "",
@@ -25,68 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/south-africa-hit-with-major-blow-kagiso-rabada-remains-doubtful-for-australia-tests-due-to-hamstring-injury-2026-08-30-1052799",
     "time": "2026-08-30T11:38:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer opens up on Saransh Jain's performances after Test series against Sri Lanka",
-    "desc": "The Indian team performed brilliantly as they took on Sri Lanka across two Test matches recently. Winning the first Test, India went on to draw the second Test and won the series 1-0, putting forth...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-opens-up-on-saransh-jain-s-performances-after-test-series-against-sri-lanka-2026-08-30-1052795",
-    "time": "2026-08-30T10:50:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Auqib Nabi set to represent Surrey for brief County Championship stint ahead of NZ tour",
-    "desc": "In a major development, star Jammu and Kashmir pacer Auqib Nabi is reportedly set to represent English domestic side Surrey for a brief County Championship stint ahead of India’s upcoming multi-format tour of New Zealand....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/auqib-nabi-set-to-represent-surrey-for-brief-county-championship-stint-ahead-of-nz-tour-report-2026-08-30-1052791",
-    "time": "2026-08-30T09:41:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch US Open 2026 live on TV and stream online in India?",
-    "desc": "The stage is set for yet another edition of the US Open. The marquee tournament kicks off with the first round on August 30th, and some of the biggest stars in world tennis will be...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/when-and-where-to-watch-us-open-2026-live-on-tv-and-stream-online-in-india-2026-08-30-1052786",
-    "time": "2026-08-30T08:09:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sunil Gavaskar opens up on India's 'no-ball crisis', suggests way to curb the situation",
-    "desc": "The Indian team put forth a good showing in their recently concluded Test series against Sri Lanka. Winning the first Test of the series by 165 runs, India and Sri Lanka drew the second Test,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/sunil-gavaskar-opens-up-on-india-s-no-ball-crisis-suggests-way-to-curb-the-situation-2026-08-30-1052783",
-    "time": "2026-08-30T07:11:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Liverpool head coach hails Victor Munoz's decision-making despite draw against Nottingham Forest",
-    "desc": "Liverpool FC have got off to a subpar start to their Premier League 2026-27 campaign. Under new head coach Andoni Iraola, the side has failed to win their first two games of the season, registering...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/liverpool-head-coach-hails-victor-munoz-s-decision-making-despite-draw-against-nottingham-forest-2026-08-30-1052777",
-    "time": "2026-08-30T05:44:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will India women shake hands with Pakistan in upcoming Women's Asia Cup 2026? Head coach answers",
-    "desc": "The stage is set for the India women’s team to kick off their campaign in the Women’s Asia Cup 2026. The marquee tournament began on August 28th, and India women will play their first game...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-india-women-shake-hands-with-pakistan-in-upcoming-women-s-asia-cup-2026-head-coach-answers-2026-08-29-1052763",
-    "time": "2026-08-29T18:19:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Steven Gerrard weighs in on what Liverpool is lacking after 2-2 draw against Nottingham Forest",
-    "desc": "The Premier League 2026-27 season is off to a rough start for 2024 champions Liverpool. The side, under new head coach Andoni Iraola, has failed to win any of their two matches at the start...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/steven-gerrard-weighs-in-on-what-liverpool-is-lacking-after-2-2-draw-against-nottingham-forest-2026-08-29-1052760",
-    "time": "2026-08-29T17:01:57.000Z"
   }
 ];

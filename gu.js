@@ -1,5 +1,167 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "TATAથી લઈને HDFC બેંક સુધીના લીડરોની હાઇ-પ્રોફાઇલ EXIT, કરોડોનો પગાર છતાં જાણો કેમ છોડી નોકરી",
+    "desc": "2026 માં દેશના કોર્પોરેટ જગતની ટોપ લીડરશીપમાં મોટા ફેરફારો જોવા મળ્યા. Tata Sons, HDFC Bank, Godrej Consumer Products, Air India, Meta, Uber અને Myntra સહિતના દિગ્ગજોએ રાજીનામું આપ્યું અથવા નવી ભૂમિકાઓ સંભાળી છે. જાણો કોણ છે એ નામ જેના જવાથી કંપનીઓ પણ હચમચી ગઈ હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/tata-to-hdfc-india-inc-leadership-exit-2026-top-corporate-exits-2026-corporate-resignations-india-489567 ",
+    "time": "2026-08-31T12:01:44.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ભારતના આ ગામમાં આજે પણ દરેક ઘરમાં બોલવામાં આવે છે સંસ્કૃત, ટેકનોલોજીના યુગમાં પણ જીવંત છે પ્રાચીન વારસો; જાણો",
+    "desc": "ભારતને વિવિધતા અને અનેક ભાષાઓનો દેશ કહેવામાં આવે છે, કારણ કે અહીં દરેક ક્ષેત્રની અલગ-અલગ ભાષાઓ અને હજારો બોલીઓ બોલાય છે. પરંતુ જ્યારે વાત આવે સૌથી પ્રાચીન ભાષાની ત્યારે બધાના મનમાં એક જ ભાષા આવે છે તે છે સંસ્કૃત. આજના ટેકનોલોજીના યુગમાં સંસ્કૃત ભાષા વિશે બહુ ઓછા લોકો જાણતા હશે. ત્યારે ભારતનું એક ગામ એવું પણ છે જ્યાં આજે પણ સંસ્કૃત ભાષા બોલવામાં આવે છે. ચાલો આ ગામ વિશે જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/sanskrit-is-still-spoken-in-every-home-in-this-village-in-india-the-ancient-heritage-is-alive-even-in-the-age-of-technology-know-489564 ",
+    "time": "2026-08-31T11:35:29.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "&amp;#039;મુનીર પાર્ટ-2&amp;#039; અને અમેરિકા-ચીનની ગમતી રમત: પાકિસ્તાનની રાહ પર પડોશી દેશ, ભારતને 3 બાજુ ટેન્શન",
+    "desc": "હવે સમાચાર બાંગ્લાદેશથી, જ્યાં આર્મી ચીફ જનરલ વકાર- ઉઝ-ઝમાન હવે પાકિસ્તાનના ફીલ્ડ માર્શલ અસીમ મુનીરના રસ્તા પર આગળ વધી રહ્યા છે. સૂત્રોના અનુસાર, બાંગ્લાદેશમાં જનરલ ઝમાનને ત્રણેય સેનાના ‘સુપ્રીમ કમાન્ડર’ અથવા ‘ચીફ ઑફ ડિફેન્સ સ્ટાફ’ બનાવવાની તૈયારી ચાલી રહી છે. તેનો સીધો અર્થ એ છે કે બાંગ્લાદેશની સેનાનું રિમોટ કંટ્રોલ હવે ત્યાંના રાષ્ટ્રપતિ અથવા વચગાળાની સરકારના હાથમાં નહીં, પરંતુ સીધું જનરલ વકાર-ઉઝ-ઝમાનના હાથમાં હશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/general-waker-uz-zaman-bangladesh-army-chief-bangladesh-cds-news-supreme-commander-489563 ",
+    "time": "2026-08-31T11:15:24.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સપ્ટેમ્બરમાં 14 દિવસ બંધ રહેશે બેંકો, જાણો RBIએ આટલા દિવસ કેમ આપી રજા",
+    "desc": "જો તમે સપ્ટેમ્બરમાં બેંકની મુલાકાત લેવાનું આયોજન કરી રહ્યા છો, તો તમારે જાણવું જોઈએ કે શાખાઓ ક્યારે બંધ રહેશે અને ક્યારે ખુલી રહેશે. તહેવારો અને સાપ્તાહિક રજાઓને કારણે આ મહિનામાં બેંકો 14 દિવસ બંધ રહેશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/bank-holiday-banks-will-be-closed-for-14-days-in-september-know-why-489561 ",
+    "time": "2026-08-31T11:02:51.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "છૂટાછેડા બાદ કોણ ભરે છે જોઈન્ટ લોન? ઘર ખરીદતા પહેલાં જ જાણી લો આ મહત્વનો નિયમ",
+    "desc": "કાયદાકીય રીતે બે લોકો અલગ થઈ શકે છે, પરંતુ છૂટાછેડાનો તે મતલબ નથી કે ઘર ખરીદવા માટે લેવામાં આવેલી જોઈન્ટ હોમ લોન કે અન્ય લોનને લઈને પહેલા લેવામાં આવેલી જવાબદારી સીધી ખતમ થઈ જાય છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/who-pays-joint-home-loan-after-divorce-crucial-legal-rules-to-know-before-buying-a-house-489560 ",
+    "time": "2026-08-31T10:42:56.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "5 વર્ષ બાદ આ સ્ટાર ખેલાડીની ટીમ ઈન્ડિયામાં થઈ શકે છે વાપસી, અક્ષર પટેલનું સ્થાન જોખમમાં",
+    "desc": "ભારત આગામી દિવસોમાં અફઘાનિસ્તાન અને વેસ્ટ ઈન્ડિઝ સામે ટી20 શ્રેણી રમશે. પસંદગીકારો આ દરમિયાન યુવા અને અનુભવી બંને ખેલાડીઓને અજમાવી શકે છે. ત્યારે કૃણાલ પંડ્યા માટે પણ વાપસીના દ્વાર ખુલ્યા છે. જો કે, અંતિમ નિર્ણય તેના વર્તમાન ફોર્મ અને ટીમની જરૂરિયાતો પર આધાર રાખે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/krunal-pandya-comeback-in-t20-team-india-axar-patel-place-in-danger-489557 ",
+    "time": "2026-08-31T09:49:53.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "24 ઓગસ્ટની એ સવાર અને... જો ચીન સફળ રહ્યું તો રાફેલને ઉડતાં જ તોડી પાડશે?,  આકાશમાં રચાયું ખૌફનાક ષડયંત્ર",
+    "desc": "હવે વાત રાફેલ લડાકુ વિમાનના સિક્રેટ પર ડ્રેગનની નજરની. 22 ઓગસ્ટે ઈજિપ્તમાં ચીન અને ઈજિપ્તે મળીને ઈગલ્સ ઓફ સિવિલાઈઝેશન સંયુક્ત હવાઈ અભ્યાસ કર્યો. ચીને પોતાના J-16 હિડન ડ્રેગન વિમાનને ઉતાર્યું. જ્યારે ઈજિપ્તે ફ્રાંસના રાફેલ વિમાનનો ઉપયોગ કર્યો. પરંતુ આ યુદ્ધાભ્યાસ દરમિયાન જ આકાશમાં રાફેલનું સિક્રેટ ચોરવાની ચીને કથિત રીતે ષડયંત્ર રચ્યું હોવાની ચર્ચા છે. તેની જાણ થતા જ ફ્રાન્સના ચીફ ઓફ ડિફેન્સ સ્ટાફ જનરલ ફેબિયન મૈંડોને અચાનક કોઈ પૂર્વ સુચના વિના ઈજિપ્તની રાજધાની પહોંચી ગયા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/dragons-eye-on-rafale-how-chinas-alleged-espionage-in-egypt-stunned-paris-489548 ",
+    "time": "2026-08-31T09:22:30.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "મહાયુદ્ધનું બટન દબાવ્યું! દરરોજ 1000 ડ્રોન વરસાવાનો આદેશ, ભસ્મ કરી દેવા લેવાયો નિર્ણય",
+    "desc": "રશિયા-યુક્રેન યુદ્ધ વચ્ચે યુક્રેનના રાષ્ટ્રપતિ વોલોદિમિર ઝેલેન્સ્કીએ હવે રક્ષણાત્મક વલણ અપનાવવાને બદલે ‘જેવા સાથે તેવા’ની સૌથી આક્રમક રણનીતિ અપનાવવાનો નિર્ણય કર્યો છે. ઝેલેન્સ્કીએ પોતાની સેનાને સ્પષ્ટ આદેશ આપ્યો છે કે રશિયાને તેની જ ભાષામાં જવાબ આપો. ઝેલેન્સ્કીએ રશિયાને ભસ્મ કરવા માટે દુનિયાના સૌથી મોટા ડ્રોન મહાયુદ્ધનું બટન દબાવતાં જાહેરાત કરી છે કે, યુક્રેન હવે રશિયા પર દરરોજ 1 હજાર ડ્રોન વરસાવશે. આખરે ઝેલેન્સ્કી અચાનક આટલા ગુસ્સામાં કેમ આવ્યા અને તેમણે આટલો ખતરનાક નિર્ણય કેમ લીધો જોઈએ આ ખાસ અહેવાલમાં..",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/zelenskyys-bold-move-ukraine-declares-mega-drone-war-with-1000-daily-strikes-on-russia-489545 ",
+    "time": "2026-08-31T08:52:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "પીડામાંથી પરમાત્મા તરફ, નીમ કરોલી બાબાની અજાણ કહાણી ઉજાગર કરતી ફિલ્મ, વાંચો રિવ્યું",
+    "desc": "નીમ કરોલી બાબા પર આધારિત ફિલ્મ હનુમાન અંશ થિયેટરોમાં રિલીઝ થઈ ગઈ છે. વિશાલ ચતુર્વેદીએ બનાવેલી ફિલ્મ કેવી છે અને લોકોનો પ્રતિસાદ પણ સારો મળી રહ્યો છે, ત્યારે જોવાનું રહેશે કે આ ફિલ્મ હજી કેટલાનું કલેક્શન કરશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/hanuman-ansh-review-from-pain-to-god-a-film-that-reveals-the-unknown-story-of-neem-karoli-baba-read-the-review-489544 ",
+    "time": "2026-08-31T08:49:04.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "&amp;#039;ગ્લેશિયર બોમ્બ&amp;#039;! ફાટયો તો 2 શહેરોના 80 હજાર લોકોને બચવા 30 મીનિટ પણ નહીં મળે, કહેવાય છે સફેદ દાનવ",
+    "desc": "શું નેપાળમાં થયેલી ભીષણ તબાહી અમેરિકામાં આવનારા મહાવિનાશનું ટ્રેલર છે. શું વોશિંગ્ટનની સુંદર વાદીઓમાં છુપાયેલો એક સફેદ દાનવ. કોઈ પણ ચેતવણી વિના લાખો જિંદગીઓને જીવતી દફન કરવાનો છે. આ સવાલ એટલા માટે કારણ કે, અમેરિકાના એક અત્યંત ખતરનાક જ્વાળામુખી માઉન્ટ રેનિયર અંગેની જુની ચેતવણી ફરી ચર્ચામાં આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/the-white-monster-of-washington-is-mount-rainier-americas-next-big-disaster-489542 ",
+    "time": "2026-08-31T08:32:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Zomatoનો મોટો નિર્ણય: હવે પ્લેટફોર્મ પર નહીં વેચાય &amp;#039;એનાલોગ પનીર&amp;#039;ની વાનગીઓ, નિયમ તોડનાર રેસ્ટોરન્ટ થશે કાર્યવાહી",
+    "desc": "ઝોમેટોના રેસ્ટોરન્ટ પાર્ટનર હવે એનાલોગ પનીરથી બનેલી વસ્તુ વેચી શકશે નહીં. આ ફૂડ એગ્રીગેટરે સ્પષ્ટ કરી દીધું છે કે તેના પ્લેટફોર્મ પર એનાલોગ ડેરી પ્રોડક્ટથી બનેલી ડીશ વેચી શકાશે નહીં. જે રેસ્ટોરન્ટ આ નિયમનો ભંગ કરશે તેને પ્લેટફોર્મ પરથી હટાવી દેવામાં આવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/zomato-bans-dishes-made-with-analog-paneer-non-compliant-restaurants-to-be-removed-from-platform-489538 ",
+    "time": "2026-08-31T08:16:39.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "8મા પગાર પંચને લઈને મોટા સમાચાર, આજે છેલ્લો મોકો, જો ચૂકી ગયા તો 10 વર્ષ પછી મળશે તક, જાણો",
+    "desc": "જો તમે પણ 8th pay commission સાથો નોકરી કરવા માગો છો, તો અરજી કરવાનો આજે છેલ્લો દિવસ છે, આજ સુધી જેની અરજી આવી હશે તેને જ નોકરી કરવાનો ચાન્સ મળશે, જ્યારે આ કોન્ટ્રાક પ્રમાણેની નોકરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/big-news-regarding-the-8th-pay-commission-today-is-the-last-chance-if-you-miss-it-you-will-get-the-chance-after-10-years-489527 ",
+    "time": "2026-08-31T07:19:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "પર્સનલ વેલ્થથી ગેરંટર સુધી... ડો. સુભાષ ચંદ્રાએ Insta Liveમાં લોકોની મુંઝવણ કરી દૂર; નવા સ્ટાર્ટઅપ પર જણાવ્યો ફ્યુચર પ્લાન",
+    "desc": "ઝી મીડિયા અને એસ્સેલ ગ્રુપના ચેરમેન ડો. સુભાષ ચંદ્રાએ પોતાના પર્સનલ નાદારી મામલાની સમગ્ર હકીકત લોકોની સામે રાખી છે. ત્યારબાદ તેઓ ખુદ લોકો સાથે સીધા જોડાયા. તેમણે સોશિયલ મીડિયા પ્લેટફોર્મ ઈન્સ્ટાગ્રામ પર લાઇવ આવી લોકોના સવાલોનો જવાબ પણ આપ્યો છે. અહીં એમને પર્સનલ વેલ્થથી ગેરંટર સુધીની ચર્ચા કરી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/from-personal-wealth-to-guarantor-status-dr-subhash-chandra-clears-confusion-in-insta-live-reveals-future-plan-for-new-startup-489523 ",
+    "time": "2026-08-31T07:04:09.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "1 સપ્ટેમ્બરથી બદલાશે આ 5 મોટા નિયમો! LPG, FD, ATF અને ATM ચાર્જિસ પર પડશે સીધી અસર",
+    "desc": "1 સપ્ટેમ્બરથી ઘણા ફેરફાર થવાના છે. કેટલાક મામલામાં લોકોને રાહત મળવાની આશા છે, જ્યારે કેટલાક ફેરફાર ખિસ્સા પર વજન વધારી શકે છે. તેવામાં મહિનાની શરૂઆત પહેલા જરૂરી નિયમો અને નવા દરોની જાણકારી રાખવી ફાયદાકારક હશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/5-major-rule-changes-coming-into-effect-from-september-1-big-impact-expected-on-lpg-fd-atf-and-atm-charges-489526 ",
+    "time": "2026-08-31T07:03:24.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "1000 વર્ષ જૂના કોરલના અભ્યાસથી મોટો ઘટસ્ફોટ! 1982, 1997 અને 2015થી પણ ખતરનાક હશે આવનારું તોફાન?",
+    "desc": "આ વખતે અલ નીનો ખુબ મજબૂત હોવાની સંભાવના વ્યક્ત કરાઈ છે. ત્યારે 1000 વર્ષ જૂના સમુદ્રી પેટાળના કોરલ પર થયેલા એક અભ્યાસના તારણો ખુબ ચિંતાજનક છે. જેમાં ક્લાઈમેટ ચેન્જને કારણે અલ નીનો પહેલા કરતા 36 ટકા વધુ ખતરનાક અને શક્તિશાળી બન્યા હોવાની સંભાવના વ્યક્ત કરાઈ છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/shocking-finding-of-1000-year-old-coral-study-el-nino-climate-change-489524 ",
+    "time": "2026-08-31T06:55:15.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "&amp;#039;ગંભીર પરિણામો ભોગવવા પડશે...&amp;#039;: ન્યૂયોર્કમાં તિરંગાના અપમાન પર કિરણ રિજિજુની ચેતવણી",
+    "desc": "અમેરિકામાં RSS વડા મોહન ભાગવતના કાર્યક્રમ સામે ન્યુ યોર્કના મેડિસન સ્ક્વેર ગાર્ડનમાં ઘણા લોકો વિરોધ પ્રદર્શન કરી રહ્યા હતા. વિરોધ પ્રદર્શન દરમિયાન ભારતીય રાષ્ટ્રધ્વજ પ્રત્યે દર્શાવવામાં આવેલા અપમાન અંગે કેન્દ્રીય મંત્રી કિરેન રિજિજુએ પ્રતિક્રિયા આપી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/kiren-rijiju-warning-on-insulting-the-tricolour-in-new-york-489502 ",
+    "time": "2026-08-31T05:02:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "દિલ્હીમાં નિર્ભયા જેવી નિર્મમતા: સ્લીપર બસમાં 16 વર્ષની વિદ્યાર્થિની પર ગેંગરેપ, ડ્રાઇવર અને કંડક્ટરની અટકાયત",
+    "desc": "રાજધાની દિલ્હીમાં ફરી નિર્ભયાકાંડ જેવી ઘટના સામે આવી છે, જ્યાં ચાલું સ્લીપર બસની અંદર યુપીની એક 16 વર્ષીય છાત્રા સાથે સામૂહિક દુષ્કર્મ આચરવામાં આવ્યું છે. નોઇડાના પરી ચોકથી દિલ્હીના કાશ્મીરી ગેટ સુધી આશરે 47 કિમી લાંબી સફર દરમિયાન બસમાં આ ઘટનાને અંજામ આપવામાં આવ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/47-km-of-horror-16-year-old-girl-gang-raped-in-moving-bus-between-noida-and-delhi-two-arrested-489501 ",
+    "time": "2026-08-31T04:49:27.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ભારતમાં ફરી વધશે પેટ્રોલ અને ડિઝલના ભાવ? આ કારણે વધી આશંકા, જાણો",
+    "desc": "હોર્મુઝમાં છેલ્લા કેટલાય સમયથી યુદ્ધ ચાલી રહ્યું છે, ત્યારે દેશનો 20 ટકા ભાગ આ જ રસ્તા પરથી આવે છે, યુદ્ધની અસર ભારતમાં સહિત દુનિયાના અનેક દેશોમાં જોવા મળી છે, ત્યારે હવે પેટ્રોલ-ડીઝલ સહિત ગેસના ભાવમાં પણ વધારે થયો છે, ત્યારે હવે ફરી એકવાર ભાવ વધારાની શક્યતા વ્યક્ત કરવામાં આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/will-petrol-and-diesel-prices-increase-again-in-india-this-has-increased-concerns-know-489498 ",
+    "time": "2026-08-31T04:01:21.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "શું સ્માર્ટફોનની પણ હોય છે એક્સપાયરી ડેટ? જાણો ક્યારે બદલી લેવો જોઈએ મોબાઇલ",
     "desc": "આજના સમયમાં સ્માર્ટફોન આપણા જીવનનો એક મહત્વપૂર્ણ ભાગ બની ચૂક્યો છે. આવી સ્થિતિમાં એ પ્રશ્ન બધાના જ મનમાં ઉદ્ભવતો હશે કે, આખરે જૂનો સ્માર્ટફોન ક્યારે બદલવો જોઈએ? જાણો બેટરી, સ્ક્રીન, સોફ્ટવેર અપડેટ અને રિપ્લેસમેન્ટ પાર્ટ્સની સ્થિતિ જોઈને ફોન બદલવાનો સાચો સમય કેવી રીતે નક્કી કરવો.",
@@ -171,15 +333,6 @@ const newsData_gu = [
     "time": "2026-08-29T12:28:51.000Z"
   },
   {
-    "cat": "Business",
-    "title": "સપનાનું ઘર બનાવવાનો કેટલો થશે કુલ ખર્ચ? આ ફોર્મ્યુલાથી ઘરે બેઠા-બેઠા જ 5 મિનિટમાં લગાવો અંદાજ, આ રીતે નક્કી કરો તમારું બજેટ",
-    "desc": "ઘર બનાવતા પહેલા સૌથી મોટો પ્રશ્ન એ જ હોય ​​છે કે આખરે તેમાં કેટલો ખર્ચ થશે. હવે એક સરળ ફોર્મ્યુલાથી 5 મિનિટમાં ઘર બનાવવાની અંદાજિત કિંમતનો હિસાબ લગાવી શકાય છે. જાણો શું છે આ ફોર્મ્યુલા અને કઈ બાબતોનું ધ્યાન રાખવું પડશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/how-much-will-be-the-total-cost-of-building-your-dream-house-estimate-it-in-5-minutes-from-home-with-this-formula-decide-your-budget-in-this-way-489314 ",
-    "time": "2026-08-29T11:57:03.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "Gen Zને પોતાની તરફ વાળવા BJPનો મેગા પ્લાન, નીતિન નવીનની મોટી બેઠક, તૈયાર થઈ રહી છે નવી વ્યૂહરચના",
     "desc": "હાલ Gen Z ખુબ ચર્ચામાં છે. ભાજપ આ Gen Z મતદારોને પોતાની બાજુ કરવા માટે કમર કસી ચૂકી છે. પાર્ટીના રાષ્ટ્રીય અધ્યક્ષ નીતિન નબીને સમગ્ર દેશમાંથી થઈને 45 જેટલા ભાજપના નેતાઓ સાથે બેઠક યોજી. જાણો શું ઘડાઈ રહી છે રણનીતિ.",
@@ -261,15 +414,6 @@ const newsData_gu = [
     "time": "2026-08-28T13:44:02.000Z"
   },
   {
-    "cat": "Business",
-    "title": "8મા પગાર પંચમાં 4 સુધી જશે ફિટમેન્ટ ફેક્ટર? કેન્દ્રીય કર્મચારીઓના પગારમાં થશે બમ્પર વધારો, જાણો",
-    "desc": "ફિટમેન્ટ ફોર્મ્યુલા માટે પગાર પંચની ભલામણ પર બધાની નજર છે. વિવિધ સંગઠનોએ 3.61, 3.83 અને 4.0નો પ્રસ્તાવ મૂક્યો છે. કર્મચારીઓ અને પેન્શનરો કેટલાય સમયથી 8મું પગાર પંચ લાગુ થવાની રાહ જોઈ રહ્યા છે, ત્યારે 8મા પગાર પંચની કમેટી દેશના અલગ અલગ ભાગમાં જઈને મિટીંગ કરી રહ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/will-the-fitment-factor-go-up-to-4-in-the-8th-pay-commission-there-will-be-a-bumper-increase-in-the-salaries-of-central-employees-489188 ",
-    "time": "2026-08-28T13:30:09.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "100 પુરુષોની સામે ઉતારવા પડ્યા કપડાં, એક્ટ્રેસે સંભળાવ્યો 22 વર્ષ જૂનો કિસ્સો, કહ્યું: &amp;quot;બસ મારા અન્ડરવેર...&amp;quot;",
     "desc": "દિયા મિર્ઝા એક પ્રખ્યાત બોલીવુડ અભિનેત્રી છે. તે ફક્ત તેની ફિલ્મો માટે જ નહીં પરંતુ તેના સ્પષ્ટવક્તા નિવેદનો માટે પણ જાણીતી છે. હાલમાં જ તેને સેટ પરની ઘટના સંભળાવી હતી અને તેમા જણાવ્યું હતું કે, 100 લોકો સામે મારે કપડા ઉતારવા પડ્યા હતા, મારે ખાલી અન્ડરવેર અને બ્રામાં જ શુટીંગ કરવાનું હતું.",
@@ -277,24 +421,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/having-to-take-off-my-clothes-in-front-of-100-men-the-actress-recounted-a-22-year-old-story-489187 ",
     "time": "2026-08-28T12:56:18.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "મુકેશ અંબાણીએ  Zeeને પડાવી લેવાની કરી હતી કોશિશ, ડૉ. સુભાષ ચંદ્રાએ કહ્યું: આ ગેમ ન રમો, તે પાછી તમારા ઉપર જ આવશે",
-    "desc": "એસ્સેલ ગ્રુપના ચેરમેન ડૉ. સુભાષ ચંદ્રાએ નેશનલ કંપની લો ટ્રિબ્યુનલ (NCLT)માં લોન સેટલમેન્ટ મામલે ફરી પોતાનો પક્ષ રજૂ કર્યો. આ ઉપરાંત તેમણે રિલાયન્સ ઈન્ડસ્ટ્રીઝ લિમિટેડના ચેરમેન અને સીએમડી મુકેશ અંબાણીના નેટવર્ક પર Zeeને લઈને ખોટી અફવાઓ ફેલાવવાનો આરોપ પણ લગાવ્યો છે. તેમણે કહ્યું કે મુકેશ અંબાણીએ Zee ને પચાવી પાડવાની કોશિશ કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/mukesh-ambani-tried-to-take-over-zee-dr-subhash-chandra-said-dont-play-this-game-489178 ",
-    "time": "2026-08-28T11:44:33.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "નેપાળમાં ફરી તબાહીના એંધાણ? આગામી 90 મિનિટ ખુબ મહત્વની, જેનો ડર હતો એ ઘડી આવી પહોંચી!",
-    "desc": "નેપાળમાં પૂરે જ વિનાશ વેર્યો ત્યારબાદ સ્થિતિ હજુ ગંભીર બનેલી છે. મીડિયા રિપોર્ટ મુજબ આગામી દોઢ કલાક ખુબ મહત્વના છે. કારણ કે ચીન અને નેપાળ સરહદે ગ્લેશિયર ધસી પડવાથી બનેલી ઝીલનું પાણી ઓવરફ્લો થવા લાગ્યું. ત્યારબાદ રાહત અને બચાવ કાર્ય હાલ રોકવામાં આવ્યા છે. અધિકારીઓનું કહેવું છે કે નદીમાં જળસ્તર વધવાને કારણે નેપાળ માટે આગામી 90 મિનિટ મહત્વની છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/nepal-flash-flood-update-nepal-china-border-lake-overflow-rescue-operaton-on-hold-489164 ",
-    "time": "2026-08-28T07:12:27.000Z"
   },
   {
     "cat": "Politics",
@@ -313,15 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/orry-says-actress-amrita-singh-traumatize-him-what-did-amrita-singh-do-with-orry-know-here-489153 ",
     "time": "2026-08-28T02:54:39.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "નેપાળ પુરમાં મોતનો આંકડો વધ્યો, 290 ભારતીયો સહિત 1500 થી વધુ લોકો લાપતા",
-    "desc": "નેપાળમાં આવેલા જળપ્રલયમાં મૃત્યુનો આંકડો 390 થી વધી ચુક્યો છે. જ્યારે 290 ભારતીયો સહિત 1500 થી વધુ લોકો લાપતા છે. ચિંતાની વાત એ પણ છે કે નેપાલની ભોટેકોશી નદીમાં ફરીથી પુર આવી શકે છે જેને લઈને એલર્ટ જાહેર કરવામાં આવ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/nepal-flash-flood-update-more-then-390-people-lost-life-in-flood-alert-for-flash-flood-in-nepal-489146 ",
-    "time": "2026-08-28T02:20:45.000Z"
   },
   {
     "cat": "Politics",
@@ -378,15 +495,6 @@ const newsData_gu = [
     "time": "2026-08-27T11:11:08.000Z"
   },
   {
-    "cat": "World",
-    "title": "નેપાળમાં જળપ્રલય: ભારે તબાહીથી મૃત્યુઆંક 270 થયો, 288 ભારતીયો ગૂમ, નેપાળી વિદેશમંત્રીએ ભારતને પણ ચેતવ્યું",
-    "desc": "નેપાળમાં પૂર બાદ હાલાત ખુબ જ ગંભીર બનેલા છે. મૃત્યુઆંક 270 પર પહોંચ્યો છે. 288 જેટલા ભારતીયો પણ ગૂમ છે. વિદેશ મંત્રાલયના જણાવ્યાં મુજબ 21 ભારતીયોને રેસ્ક્યૂ કરાયા છે. તિબ્બેટમાં પહોંચેલા 200 જેટલા ભારતીયોએ મદદ માંગી છે. બીજી બાજુ નેપાળના વિદેશમંત્રી શિશિર ખનાલે હિમાલયમાં આવેલા આ ભીષણ પૂર બાદ ભારત માટેના સંભવિત જોખમો ઉપર પણ ચિંતા વ્યક્ત કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/nepal-flash-flood-update-death-toll-increase-mea-on-missing-indians-details-489092 ",
-    "time": "2026-08-27T10:19:09.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "ક્રિકેટના ઈતિહાસમાં ગજબ થઈ ગયો... માત્ર 35 રનમાં ઓલઆઉટ થઈ ટીમ, 7 ખેલાડીઓ ખાતું પણ ના ખોલાવી શક્યા",
     "desc": "મહિલા કોન્ટિનેન્ટલ કપ 2026માં ઓસ્ટ્રિયન ટીમ તુર્કી સામે માત્ર 35 રનમાં ઓલઆઉટ થઈ ગઈ હતી. તેના 7 બેટ્સમેન પોતાનું ખાતું પણ ખોલાવી શક્યા નહોતા. વરસાદથી પ્રભાવિત 10 ઓવરની મેચમાં તુર્કીએ માત્ર 5.3 ઓવરમાં ટાર્ગેટનો પીછો કરીને 8 વિકેટથી શાનદાર વિજય મેળવ્યો.",
@@ -394,15 +502,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/t20-lowest-score-turkey-women-vs-austria-women-35-all-out-7-ducks-489088 ",
     "time": "2026-08-27T09:39:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "3.61થી 4.00 સુધી ફિટમેન્ટ ફેક્ટરની ડિમાન્ડ! જાણો સરકારી કર્મચારીઓના પગાર-પેન્શનમાં કેટલો થઈ શકે વધારો?",
-    "desc": "સરકારી કર્મચારીઓના પગાર નક્કી કરવા માટે ફિટમેન્ટ ફેક્ટર ખુબ મહત્વનો ભાગ ભજવે છે. આઠમાં પગાર પંચની સમિતિ દ્વારા જ્યારે કર્મચારી યુનિયનો પાસે સૂચનો મંગાવવામાં આવ્યા તો કર્મચારી યુનિયનોએ 3.61 થી લઈને 4.00 સુધી ફિટમેન્ટ ફેક્ટરની માંગણી કરી છે. આ ફિટમેન્ટ ફેક્ટરથી પગારમાં કેટલો વધારો થાય તે ખાસ સમજો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/8th-pay-commission-latest-update-government-employees-fitment-factor-proposals-489083 ",
-    "time": "2026-08-27T08:51:01.000Z"
   },
   {
     "cat": "Sports",
@@ -430,24 +529,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/akshay-kumar-priyanka-chopra-get-closed-after-one-movie-suneel-darshan-reveal-akshay-kumar-affair-story-489066 ",
     "time": "2026-08-27T06:13:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICC ટેસ્ટ રેન્કિંગમાં મોટો ઉલટફેર, બુમરાહે ગુમાવ્યો તાજ... જાણો કયા ભારતીય ખેલાડીઓ છે ટોપ-10માં",
-    "desc": "ICC દ્વારા લેટેસ્ટ ટેસ્ટ રેન્કિંગ જાહેર કરવામાં આવ્યું છે. લાંબા સમયથી નંબર-1 બોલર રહેલા જસપ્રીત બુમરાહે ટોચનું સ્થાન ગુમાવ્યું છે. હવે આ ખેલાડી નંબર-1 બોલર બન્યો છે. તો વિકેટકીપર બેટ્સમેન રિષભ પંતે પણ ટોપ 10માં સ્થાન મેળવ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/latest-icc-test-rankings-mitchell-starc-no-1-test-bowler-jasprit-bumrah-488978 ",
-    "time": "2026-08-26T10:10:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "એશિયન ગેમ્સ માટે ક્રિકેટ શેડ્યૂલ જાહેર, જાણો ક્યારે અને કોની સામે રમશે ભારતીય ટીમ",
-    "desc": "એશિયન ગેમ્સ T20 ક્રિકેટ ઇવેન્ટનું સંપૂર્ણ શેડ્યૂલ જાહેર કરવામાં આવ્યું છે. ભારતીય મહિલા ટીમ 18 સપ્ટેમ્બરે જાપાન સામે પોતાના અભિયાનની શરૂઆત કરશે, જ્યારે ભારતીય પુરુષ ટીમે ક્વાર્ટર ફાઇનલમાં સીધું સ્થાન મેળવ્યું છે અને 28 સપ્ટેમ્બરે મેદાનમાં ઉતરશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/asian-games-cricket-schedule-announced-know-team-india-match-dates-488972 ",
-    "time": "2026-08-26T09:02:08.000Z"
   },
   {
     "cat": "Tech",
@@ -486,15 +567,6 @@ const newsData_gu = [
     "time": "2026-08-26T05:48:04.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "અનામતને લઈને ભાજપમાં પણ વધી બેચેની, BJP પ્રવક્તના નિવેદનથી શરૂ થયો એક નવો વિવાદ, જાણો",
-    "desc": "જાતિ આધારિત અનામતમાં ફેરફારની માંગણીને લઈને ચાલી રહેલા વિરોધ પ્રદર્શનો વચ્ચે, ભાજપના પ્રવક્તા અજય આલોકના નિવેદનથી એક નવી ચર્ચાએ જોર પકડ્યું છે. તેમણે આંદોલનની દિશા પર સવાલ ઉઠાવ્યા છે, જેમાં મોદી સરકારના EWS અનામત અને OBC સંબંધિત નિર્ણયોનો ઉલ્લેખ કરવામાં આવ્યો છે. આ દરમિયાન, અનામતમાં સુધારાના સમર્થકોએ વળતો જવાબ આપ્યો છે કે સામાન્ય વર્ગને પણ અનામત પર બોલવાનો અધિકાર દેવાની માંગ કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/anxiety-has-also-increased-in-bjp-regarding-reservation-a-new-controversy-started-with-the-statement-of-bjp-spokesperson-know-488926 ",
-    "time": "2026-08-26T03:42:47.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "અક્ષય કુમાર-સૈફ અલી ખાનની સસ્પેન્સ થ્રિલર ફિલ્મ હૈવાનનું ટ્રેલર કરી રહ્યું છે ટ્રેંડ, જાણો શું છે ખાસ આ ફિલ્મમાં",
     "desc": "અક્ષય કુમાર અને સૈફ અલી ખાનની ફિલ્મ હૈવાનનું ટ્રેલર રિલીઝ કરવામાં આવ્યું છે. આ ફિલ્મમાં સૈફ અલી ખાન એક બ્લાઈન્ડ વ્યક્તિના રોલમાં છે જ્યારે અક્ષય કુમાર એક સનકી વ્યક્તિના રોલમાં છે. હૈવાન ફિલ્મનું ટ્રેલર કેવું છે ચાલો જાણીએ.",
@@ -502,15 +574,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/haiwaan-movie-trailer-explain-priyadarshan-movie-haiwaan-is-hindi-remake-of-malayalam-movies-oppam-488923 ",
     "time": "2026-08-26T02:36:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘કઈ વાતની આઝાદી?’ જાદવપુરના નારાઓ પર સુવેન્દુનો સ્પષ્ટ સંદેશ, ZEEના મંચ પર જણાવ્યા સરકારના 6 મોટા લક્ષ્યો",
-    "desc": "સુવેન્દુ અધિકારીએ Zee 24 Ghanta કોન્ક્લેવમાં બંગાળને આત્મનિર્ભર બનાવવા, ઉદ્યોગ અને રોજગાર વધારવા પર વાતચીત કરી. તેમણે અગાઉની સરકાર પર ભ્રષ્ટાચારના આરોપ લગાવ્યા. સાથે જ જાદવપુરના ‘આઝાદી’ના નારાઓ પર પણ કડક સંદેશ આપ્યો અને સરકારના છ લક્ષ્યો જણાવ્યા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/what-kind-of-freedom-suvendu-strong-message-on-jadavpur-slogans-6-major-goals-of-the-government-stated-on-zee-platform-488877 ",
-    "time": "2026-08-25T12:02:48.000Z"
   },
   {
     "cat": "Tech",
