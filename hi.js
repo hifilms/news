@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Lionel Messi announces retirement from international football after 2026 FIFA World Cup heartbreak",
+    "desc": "Legendary footballer Lionel Messi has finally drawn the curtain on his extraordinary international career. The Argentina star has announced his retirement from international football, confirming that he will no longer wear the famous blue and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/lionel-messi-legendry-argentinian-footballer-announces-retirement-form-international-football-reactions-latest-updates-2026-08-31-1052896",
+    "time": "2026-08-31T15:13:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'It's been a horrible feeling': Novak Djokovic opens up after heartbreaking first round exit from US Open 2026",
+    "desc": "The US Open 2026 kicked off in full swing; some of the biggest tennis players in the world took centre stage and got off to a great start to their respective campaigns. However, it was...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/it-s-been-a-horrible-feeling-novak-djokovic-opens-up-after-heartbreaking-first-round-exit-from-us-open-2026-2026-08-31-1052887",
+    "time": "2026-08-31T13:14:49.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Has Enzo Fernandez already played his last game for Chelsea amid transfer rumours? Head coach reveals",
     "desc": "Chelsea has gotten off to a stellar start to their Premier League campaign. Under new head coach Xabi Alonso, the side has managed to win both of their matches and sit in third place in...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/when-and-where-to-watch-india-vs-thailand-women-s-asia-cup-2026-live-on-tv-and-stream-online-in-india-2026-08-30-1052806",
     "time": "2026-08-30T13:23:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'This is what it means': Casemiro hails Lionel Messi after latter's four-goal masterclass against Montreal",
-    "desc": "Inter Miami put forth a marvellous performance as the side took on Montreal in the ongoing MLS (Major League Soccer) season. One of the biggest names in football history, Lionel Messi once again caught the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/this-is-what-it-means-casemiro-hails-lionel-messi-after-latter-s-four-goal-masterclass-against-montreal-2026-08-30-1052802",
-    "time": "2026-08-30T12:52:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "South Africa hit with major blow, Kagiso Rabada remains doubtful for Australia Tests due to hamstring injury",
-    "desc": "In a major blow to CSA (Cricket South Africa), the side’s star pacer Kagiso Rabada is out injured and is a doubt for the side’s upcoming multi-format series against Australia. It is worth noting that...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-hit-with-major-blow-kagiso-rabada-remains-doubtful-for-australia-tests-due-to-hamstring-injury-2026-08-30-1052799",
-    "time": "2026-08-30T11:38:58.000Z"
   }
 ];

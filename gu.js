@@ -1,6 +1,33 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "કાશ્મીર પર મંડરાઈ રહ્યો મોટો ખતરો! 5 ગ્લેશિયર લેક હાઈ રિસ્ક પર, તૂટશે તો આ વિસ્તારોમાં મચાવશે તબાહી!",
+    "desc": "નેપાળમાં તબાહી બાદ હવે જમ્મુ-કાશ્મીરમાં ગ્લેશિયર લેક હાઈ રિસ્ક પર હોવાથી તૂટવાનો ડર સતાવી રહ્યો છે. નિષ્ણાતોના મતે, ઊંચાઈવાળા ગ્લેશિયર લેક અને ભૂકંપનું જોખમ એકસાથે મોટી આફતનું કારણ બની શકે છે. 155 લેકમાંથી 5 અત્યંત સંવેદનશીલ છે, જેના પર દેખરેખ અને તૈયારી જરૂરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/after-nepal-big-threat-looms-over-kashmir-5-glacier-lakes-at-high-risk-489596 ",
+    "time": "2026-08-31T14:53:19.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ભારતે સિંધુ જળ સંધિ પર હેગ કોર્ટનો ચુકાદો ફગાવ્યો, કહ્યું- ‘તમને નિર્ણય લેવાનો અધિકાર નથી’",
+    "desc": "ભારતે સિંધુ જળ સંધિ પર વર્લ્ડ બેંક દ્વારા બનાવવામાં આવેલી આર્બિટ્રેશન કોર્ટના નિર્ણયને માનવાનો ઇનકાર કર્યો છે. ભારતનું કહેવું છે કે આ કોર્ટ ગેરકાયદેસર રીતે બનાવવામાં આવી હતી અને ભારતના સાર્વભૌમ નિર્ણયો પર તેનો કોઈ અધિકાર નથી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/india-rejects-hague-court-judgement-on-indus-waters-treaty-489594 ",
+    "time": "2026-08-31T14:23:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "32 વર્ષની શાલિની પાંડેનો MMS વાયરલ, અર્જુન રેડ્ડીથી થઈ હતી ફેમસ, જાણી લો હીરોઈને શું કર્યો ખુલાસો",
+    "desc": "AIના આવ્યા બાદ આ કોઈ નવાઈની વાત નથી પણ ખૂબસૂરત શાલિની પાંડેના કેટલાક પ્રાઈવેટ વીડિયો હાલમાં સોશિયલ મીડિયા પર જબરદસ્ત વાયરલ થઈ રહ્યા હતા, જેનાથી તેનું નામ ખરાબ થઈ રહ્યું છે. હવે આ પર હિરોઈને પ્રતિક્રિયા આપી છે કે જે વીડિયો છે એ બધા ફેક છે અને AIથી બનેલા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/shalini-pandey-deepfake-video-goes-viral-arjun-reddy-fame-actress-clarifies-says-its-not-me-the-video-is-fake-489570 ",
+    "time": "2026-08-31T13:03:04.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "TATAથી લઈને HDFC બેંક સુધીના લીડરોની હાઇ-પ્રોફાઇલ EXIT, કરોડોનો પગાર છતાં જાણો કેમ છોડી નોકરી",
     "desc": "2026 માં દેશના કોર્પોરેટ જગતની ટોપ લીડરશીપમાં મોટા ફેરફારો જોવા મળ્યા. Tata Sons, HDFC Bank, Godrej Consumer Products, Air India, Meta, Uber અને Myntra સહિતના દિગ્ગજોએ રાજીનામું આપ્યું અથવા નવી ભૂમિકાઓ સંભાળી છે. જાણો કોણ છે એ નામ જેના જવાથી કંપનીઓ પણ હચમચી ગઈ હતી.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -439,24 +466,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/orry-says-actress-amrita-singh-traumatize-him-what-did-amrita-singh-do-with-orry-know-here-489153 ",
     "time": "2026-08-28T02:54:39.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "જો કોકરોચ જનતા પાર્ટી ચૂંટણી લડે તો મત આપશો ? સર્વેમાં જનતાએ આપ્યો ચોંકાવનારો જવાબ",
-    "desc": "ઇન્ડિયા ટુડે અને સી-વોટરના તાજેતરના 'મૂડ ઓફ ધ નેશન' સર્વેમાં કોકરોચ જનતા પાર્ટી (CJP) અંગે લોકોનો અભિપ્રાય સામે આવ્યો છે. આ સર્વેમાં દેશના યુવાનોના મૂડને જાણવાનો પ્રયાસ કરવામાં આવ્યો હતો. જેમાં કોકરોચ જનતા પાર્ટીના ચૂંટણી લડવા અંગે પણ લોકોનો અભિપ્રાય જાણવામાં આવ્યો હતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/if-cjp-contests-elections-will-you-vote-for-it-public-gave-surprising-answer-motn-survey-489123 ",
-    "time": "2026-08-27T16:36:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "જો આજે ચૂંટણી થાય તો PM પદ માટે આ વ્યક્તિ પહેલી પસંદ, બીજા નંબરે રાહુલ ગાંધી તો ત્રીજા નંબરે ચોંકાવનારું નામ, સર્વેમાં થયો ખુલાસો",
-    "desc": "ઇન્ડિયા ટુડે અને સી-વોટર દ્વારા કરવામાં આવેલા તાજેતરના 'મૂડ ઓફ ધ નેશન' સર્વે અનુસાર, નરેન્દ્ર મોદી આજે પણ PM પદ માટે 49% લોકોની પ્રથમ પસંદ છે, જ્યારે રાહુલ ગાંધીને 27% લોકોનું સમર્થન મળ્યું છે. તો ત્રીજા નંબરે સૌથી ચોકાવનારું નામ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/motn-survey-narendra-modi-still-first-choice-as-a-pm-second-rahul-gandhi-489122 ",
-    "time": "2026-08-27T15:57:52.000Z"
   },
   {
     "cat": "Sports",
