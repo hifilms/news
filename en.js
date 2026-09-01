@@ -1,5 +1,122 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "'Toxic' BO day 6: Yash, Nayanthara, Kiara Advani film drops 67.6%",
+    "desc": "A Fairy Tale for Grown-Ups saw earnings drop significantly on its first Monday. The film collected Rs 7.45 crore net in India on its sixth day. This collection brings the movie's India net total to Rs 221.55 crore. Worldwide gross earnings for the film have now reached Rs 304.05 crore. The Kannada version recorded the strongest overall occupancy among major language releases.",
+    "img": "https://static.toiimg.com/photo/msid-133665299,imgsize-212546.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/toxic-box-office-collections-day-6-yash-nayanthara-kiara-advani-film-drops-67-6-mints-rs-304-05-cr-worldwide/articleshow/133665285.cms",
+    "time": "2026-09-01T00:00:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bihar, Jharkhand settle 25-year Sone water row",
+    "desc": "Bihar and Jharkhand resolved a 25-year water dispute on Monday. The Sone river agreement was signed in New Delhi with Union Home Minister Amit Shah. This accord will provide irrigation and drinking water to millions of farmers and residents. The pact ensures adequate water for districts in both Bihar and Jharkhand. This agreement permanently resolves long-standing issues concerning water supplies.",
+    "img": "https://static.toiimg.com/photo/msid-133665043,imgsize-72364.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bihar-jharkhand-settle-25-year-sone-water-row/articleshow/133665041.cms",
+    "time": "2026-08-31T23:07:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Government terms arbitration award on Indus Waters Treaty ‘illegal’",
+    "desc": "In a decisive move, India has dismissed an arbitration court's ruling related to the Indus Waters Treaty, asserting that the court lacks authority over sovereign matters. This echoes India's previous stance on a similar arbitration award. The Permanent Court of Arbitration urged India to respect its treaty obligations, but India firmly reaffirms that its suspension of treaty enforcement remains effective.",
+    "img": "https://static.toiimg.com/photo/msid-133664998,imgsize-124524.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/government-terms-arbitration-award-on-indus-waters-treaty-illegal/articleshow/133664981.cms",
+    "time": "2026-08-31T22:53:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "D4vd loses defence lawyers ahead of murder trial",
+    "desc": "Singer D4vd's private lawyers withdrew from his case on Monday. He pleaded not guilty to charges of murder and sexual abuse. A public defender will now represent the singer in court. Prosecutors are still deciding whether to seek the death penalty. The case involves the death of 14-year-old Celeste Rivas Hernandez.",
+    "img": "https://static.toiimg.com/photo/msid-133664954,imgsize-398871.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/d4vd-loses-defence-lawyers-ahead-of-14-year-old-celeste-rivas-hernandez-murder-trial-hires-public-defender/articleshow/133664912.cms",
+    "time": "2026-08-31T22:37:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Haldwani ‘purification’ row: Day after FIR against Rahul, BJP, Cong trade barbs",
+    "desc": "The Congress party slammed the FIR against Rahul Gandhi, calling it casteist. BJP countered that Rahul raised the issue belatedly after a threat from Kharge. An FIR was registered against Rahul Gandhi under various sections and the SC/ST Act. The complainant alleged Rahul gave a caste angle to cleaning work at the rally. Uttarakhand CM stated state residents are unaware of Kharge's caste.",
+    "img": "https://static.toiimg.com/photo/msid-133664938,imgsize-70148.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/haldwani-purification-row-day-after-fir-against-rahul-bjp-cong-trade-barbs/articleshow/133664929.cms",
+    "time": "2026-08-31T22:30:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Argentina president Milei joins tributes to Messi, calls him an ‘impossible man’",
+    "desc": "Lionel Messi’s international retirement has prompted tributes across Argentina, including an emotional message from President Javier Milei. After 207 appearances and 125 goals, Messi leaves the national team following a 21-year career featuring a World Cup and two Copa América titles. The 39-year-old will continue playing for Inter Miami, but his Argentina chapter is now over.",
+    "img": "https://static.toiimg.com/photo/msid-133663126,imgsize-46974.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/argentina-president-javier-milei-joins-tributes-to-messi-calls-him-an-impossible-man/articleshow/133662931.cms",
+    "time": "2026-08-31T21:56:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Exhibit on designer John Galliano cancelled",
+    "desc": "The Metropolitan Museum of Art has canceled its planned exhibit honoring designer John Galliano. This decision followed significant backlash from the Jewish community and others. The museum stated that discussions with Galliano led to the mutual decision not to proceed. Galliano himself expressed sadness and accountability for past hurtful remarks. The exhibit's cancellation avoids further controversy and pain for affected groups.",
+    "img": "https://static.toiimg.com/photo/msid-133662935,imgsize-368720.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/met-gala-2027-museum-cancels-planned-exhibit-on-fashion-designer-john-galliano-amid-backlash-over-past-antisemitic-and-racist-statements/articleshow/133662869.cms",
+    "time": "2026-08-31T21:35:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "IMD predicts below-normal rainfall over country in September",
+    "desc": "September rainfall across India is predicted to be below normal, concluding the monsoon season deficiently. August was the warmest on record, with several regions experiencing record high temperatures. Cumulative rainfall from June to August shows a significant deficit, impacting agricultural sowing and increasing irrigation costs. Strong El Niño conditions are expected to persist, negatively affecting monsoon rainfall patterns. Neutral Indian Ocean Dipole conditions will not benefit the monsoon this year.",
+    "img": "https://static.toiimg.com/photo/msid-133662932,imgsize-75092.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/imd-predicts-below-normal-rainfall-over-country-in-september/articleshow/133662921.cms",
+    "time": "2026-08-31T21:28:33.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Economy grew 7.8% in Q1 despite Iran crisis and El Nino conditions",
+    "desc": "India's economy recorded impressive growth of 7.8% during the April to June quarter, driven by a thriving manufacturing sector and a strong services industry. Domestic demand surged, bolstered by significant increases in investment and exports. Reflecting this positive trend, the government has upgraded growth projections for prior financial years, showcasing the economy's robust resilience in the face of global challenges.",
+    "img": "https://static.toiimg.com/photo/msid-133662913,imgsize-121010.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/economy-grew-7-8-in-q1-despite-iran-crisis-and-el-nino-conditions/articleshow/133662895.cms",
+    "time": "2026-08-31T21:22:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Piers Morgan claims Messi’s retirement at 39 proves Ronaldo is the GOAT",
+    "desc": "Lionel Messi’s international retirement has reignited Piers Morgan’s long-running Cristiano Ronaldo GOAT argument. Morgan points to Ronaldo’s record 146 international goals, compared with Messi’s 125, as proof that Ronaldo is football’s greatest. Messi leaves Argentina with a World Cup, two Copa América titles and 125 goals, while Ronaldo continues chasing 1,000 career goals before retirement.",
+    "img": "https://static.toiimg.com/photo/msid-133662899,imgsize-139802.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/this-settles-the-debate-piers-morgan-claims-messis-retirement-at-39-proves-ronaldo-is-the-goat/articleshow/133662787.cms",
+    "time": "2026-08-31T21:13:55.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Iran president meets PM Modi, seeks help to end war",
+    "desc": "Prime Minister Modi convened with Iranian President Pezeshkian to advance discussions on fortifying trade connections between their nations. Both leaders acknowledged the critical role of maritime freedom and trade in the region. They also discussed the ongoing situations in West Asia, focusing on the importance of Chabahar port collaboration. President Pezeshkian encouraged India to mediate for peace, underscoring their shared dedication to enhancing bilateral economic cooperation.",
+    "img": "https://static.toiimg.com/photo/msid-133662889,imgsize-68204.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/iran-president-meets-pm-modi-seeks-help-to-end-war/articleshow/133662872.cms",
+    "time": "2026-08-31T21:11:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Lionel Richie hospitalized in ICU after St Louis concert",
+    "desc": "Lionel Richie has been hospitalized in St Louis after his August 29 performance at The Muny, with doctors reportedly investigating possible dehydration. The 77-year-old singer was treated in intensive care after concertgoers noticed him struggling during his final song, “All Night Long”, where he reportedly asked for a chair to complete his performance.",
+    "img": "https://static.toiimg.com/photo/msid-133662884,imgsize-120693.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/lionel-richie-hospitalized-in-icu-after-st-louis-concert-doctors-investigate-possible-dehydration-after-77-year-old-singer-reportedly-needed-a-chair-during-all-night-long/articleshow/133662879.cms",
+    "time": "2026-08-31T21:09:58.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "It's time to move from endless war to end of war: PM to Putin",
+    "desc": "Prime Minister Narendra Modi urged President Vladimir Putin to end the ongoing conflict. He emphasized that humanity's well-being depends on moving from endless war to peace. India supports all efforts to resolve issues peacefully and swiftly. Discussions also covered expanding cooperation in various key sectors. Both leaders agreed to maintain contact to strengthen their partnership.",
+    "img": "https://static.toiimg.com/photo/msid-133662841,imgsize-97344.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/its-time-to-move-from-endless-war-to-end-of-war-pm-to-putin/articleshow/133662824.cms",
+    "time": "2026-08-31T20:51:50.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "PM Modi urges Iran to ensure peace, freedom of navigation",
     "desc": "In a meeting with Iranian President, PM Modi calls for stability in the region and seeks safeguards for civilians; Iran requests India to use its “extensive contacts” to help the dialogue process, it blames Israel and U.S. for creating “obstacles”",
@@ -99,15 +216,6 @@ const newsData_en = [
     "time": "2026-08-31T17:06:47.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Bihar, Jharkhand sign agreement on sharing Sone River water",
-    "desc": "Bihar CM says his State has been allocated 5.75 million-acre feet of the river water, and Jharkhand 2 MAF. The two States had a dispute over sharing 7.75 MAF of water allocated for the then undivided Bihar under a 1973 agreement",
-    "img": "https://th-i.thgim.com/public/news/national/sn2rje/article71411935.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-31%20at%2018.29.14.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/bihar-jharkhand-sign-agreement-on-sharing-sone-river-water/article71411282.ece",
-    "time": "2026-08-31T16:58:39.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Aishwarya celebrates Raksha Bandhan with brother Aditya Rai, Aaradhya joins: PIC",
     "desc": "Aishwarya Rai Bachchan was spotted in a rare family photograph during Raksha Bandhan. The intimate picture featured her mother, brother, and extended family members. Her daughter Aaradhya was also present in the warm snapshot of the gathering. This candid glimpse offered fans a look at her private life. Aishwarya was last seen in Ponniyin Selvan II.",
@@ -169,15 +277,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/nses-closing-auction-sees-rs-39718-crore-rush-on-first-index-rebalancing-day/articleshow/133657567.cms",
     "time": "2026-08-31T16:02:03.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Steven Spielberg's 1989's $100 million divorce and the prenup controversy with Amy Irving",
-    "desc": "Amy Irving walked away with a staggering $100 million from her divorce with Steven Spielberg, a settlement that arose after she contested the validity of their prenup. The prenup, penned carelessly on a cocktail napkin without any legal guidance, was deemed invalid in court, allowing her to claim half of Spielberg’s earnings amassed during their marriage under California law.",
-    "img": "https://static.toiimg.com/photo/msid-133650324,imgsize-62468.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/steven-spielbergs-1989-divorce-settlement-reportedly-reached-around-100-million-after-just-four-years-of-marriage/articleshow/133650225.cms",
-    "time": "2026-08-31T15:52:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -270,15 +369,6 @@ const newsData_en = [
     "time": "2026-08-31T13:22:33.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "India rejects court ruling on IWT; PM Modi meets Iran President &amp; more",
-    "desc": "India rejected the Indus Water Treaty court ruling, stating the agreement remains in abeyance. Prime Minister Modi met Iran’s President Pezeshkian to discuss trade and West Asia peace. India’s GDP grew 7.8% in the first quarter of FY27, exceeding RBI estimates. A stranger’s warning helped over 370 Nepal schoolchildren escape a devastating flood. Tensions grew between Congress and TVK over the 2029 prime ministerial candidate.",
-    "img": "https://static.toiimg.com/photo/msid-133654181,imgsize-1800125.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-india-rejects-court-ruling-on-iwt-pm-modi-meets-iran-president-more/articleshow/133653662.cms",
-    "time": "2026-08-31T13:11:01.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Pakistan crisis deepens after Lord’s rout: Rizwan, Imam-ul-Haq set to return home",
     "desc": "Following a string of embarrassing losses to England, significant changes are on the horizon for Pakistan's Test team. Reports indicate that wicketkeeper-batter Mohammad Rizwan and opener Imam-ul-Haq will be sent back home. In light of the team's disappointing performance, senior officials from the Pakistan Cricket Board convened for an urgent meeting to address rising concerns over both players and coaching strategies.",
@@ -295,15 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/annu-kapoor-says-he-doesnt-know-who-ranbir-kapoor-ranveer-singh-or-sidharth-malhotra-are-naa-shakal-se-jaanta-hu-naa-personally-jaanta-hu/articleshow/133653145.cms",
     "time": "2026-08-31T12:33:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Britney Spears",
-    "desc": "Britney Spears' memoir unveils her battle with addiction and the constraints of conservatorship. Through her journey, she promotes the empowering act of sharing one's truth, despite the fear it may invoke. Spears emphasizes the vital role of genuine emotional expression, showcasing her determination to regain control over her life. This narrative serves as a powerful testament to resilience and the fight for personal freedom.",
-    "img": "https://static.toiimg.com/photo/msid-133651030,imgsize-58480.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-britney-spears-you-have-to-speak-the-thing-that-youre-feeling-even-if-it-scares-you-you-have-to-tell-your-story-you-have-to-raise-your-voice-life-lesson-on-why-it-is-important-to-put-your-viewpoint-without-being-afraid-from-the-toxic-singer/articleshow/133650914.cms",
-    "time": "2026-08-31T12:30:00.000Z"
   },
   {
     "cat": "Entertainment",
@@ -352,15 +433,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "Liverpool FC exists because Everton refused to pay higher rent in 1892",
-    "desc": "The Merseyside derby rivalry began with a bitter rent dispute, not on the pitch. Everton left Anfield in 1892 after falling out with stadium owner John Houlding, prompting him to create Liverpool Football Club to keep the ground occupied. More than 130 years later, that landlord dispute has become the unlikely origin story of English football’s fiercest rivalries.",
-    "img": "https://static.toiimg.com/photo/msid-133648327,imgsize-273320.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/in-1892-everton-left-their-landlord-with-an-empty-stadium-over-a-rent-dispute-so-he-started-a-football-club-just-to-fill-it-that-club-has-since-won-more-titles-than-any-other-in-english-football/articleshow/133645453.cms",
-    "time": "2026-08-31T11:30:00.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "Mariano Navone's story",
     "desc": "Mariano Navone stunned childhood idol Novak Djokovic in a dramatic five-set US Open opener, earning the biggest win of his career. The 25-year-old Argentine’s journey began at a local club aged three before five Challenger titles helped shape his rise. Known as “La Navoneta”, Navone’s dream became reality as he beat the player he once called “very special”.",
     "img": "https://static.toiimg.com/photo/msid-133647616,imgsize-128845.cms",
@@ -378,15 +450,6 @@ const newsData_en = [
     "time": "2026-08-31T11:19:51.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Pradeep Ranganathan heaps praise on Ravi Teja starrer ‘Irumudi’",
-    "desc": "Ravi Teja's latest release, 'Irumudi', continues to charm audiences, maintaining a strong presence in theaters. The film has received an overwhelmingly positive response, with actors and celebrities alike praising its core message. Notably, Pradeep Ranganathan commended Ravi Teja's impactful performance. With worldwide box office collections surpassing Rs 170 crore, the film showcases director Shiva Nirvana's touching portrayal of Ravi Teja's character.",
-    "img": "https://static.toiimg.com/photo/msid-133651218,imgsize-219837.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/pradeep-ranganathan-heaps-praise-on-ravi-teja-starrer-irumudi-amid-rs-170-crore-box-office-success-too-good-the-message-the-movie-conveys-is-essential/articleshow/133651118.cms",
-    "time": "2026-08-31T11:16:38.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Umpires' calls &amp; different ball': Root explains lean run as he chases Sachin’s record",
     "desc": "Joe Root remains confident despite a difficult batting summer for England. He believes challenging conditions and the Dukes ball have impacted all batters. Root has scored only twice over fifty this season, averaging 29.44. He is still focused on surpassing Sachin Tendulkar's Test run record. England secured a series win against Pakistan under his captaincy.",
@@ -394,24 +457,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/umpires-calls-and-different-ball-joe-root-explains-lean-run-as-he-chases-sachin-tendulkars-record/articleshow/133650693.cms",
     "time": "2026-08-31T11:06:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "IISc sets up quantum computing hub under National Quantum Mission",
-    "desc": "IISc has launched a not-for-profit company to advance India's quantum computing potential. This new entity will serve as a thematic hub under the National Quantum Mission. It aims to unite researchers, industry, and startups for indigenous technology development. Shared facilities will support the creation and testing of quantum devices. The initiative seeks to build a skilled workforce and reduce foreign technology dependence.",
-    "img": "https://static.toiimg.com/photo/msid-133650875,imgsize-200508.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/iisc-sets-up-quantum-computing-hub-under-national-quantum-mission/articleshow/133649780.cms",
-    "time": "2026-08-31T11:02:11.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "CBFC cuts only 35 seconds of intimate scenes, mutes cuss words in 'Mirzapur: The Movie'",
-    "desc": "The Movie has earned an A certificate from the CBFC, allowing it a theatrical release. Key modifications were made, including the removal of around 35 seconds of intimate content, while scenes of violence remained intact. A reliable source confirmed that these edits were minimal. Fans can look forward to the long-awaited movie premiere on September 4, 2026.",
-    "img": "https://static.toiimg.com/photo/msid-133650035,imgsize-321163.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/cbfc-cuts-only-35-seconds-of-intimate-scenes-mutes-cuss-words-in-mirzapur-themovie-grants-a-certificate-thus-retaining-its-unfiltered-essence-report/articleshow/133649935.cms",
-    "time": "2026-08-31T10:31:34.000Z"
   },
   {
     "cat": "Business",
@@ -475,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-felt-sorry-for-the-guy-eight-years-later-faf-du-plessis-revisits-one-of-crickets-darkest-chapters-sandpaper-gate-and-believes-australia-handled-the-scandal-poorly/articleshow/133648061.cms",
     "time": "2026-08-31T09:56:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Social media player’: Ex-Pakistan cricketer brutally tears into Babar Azam",
-    "desc": "Former Pakistan batter Basit Ali strongly criticized captain Babar Azam following another batting failure. Azam's recent Test performances and lack of centuries drew significant criticism from Ali. Ali questioned Azam's contribution during difficult match situations for the team. Other Pakistan batters, including Saud Shakeel and Mohammad Rizwan, also faced Ali's sharp critique. Pakistan suffered a significant defeat in the second Test against England, losing the series.",
-    "img": "https://static.toiimg.com/photo/msid-133646320,imgsize-63082.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/social-media-player-ex-pakistan-cricketer-brutally-tears-into-babar-azam-after-lords-horror-show/articleshow/133645981.cms",
-    "time": "2026-08-31T08:03:10.000Z"
   },
   {
     "cat": "Entertainment",
@@ -556,24 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-is-no-1-in-the-world-viswanathan-anand-after-indias-first-grand-chess-tour-title-exclusive/articleshow/133639519.cms",
     "time": "2026-08-31T01:51:48.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "‘Losing $60 billion a year’: Trump slams Canada as ‘worst' trade 'abuser', urges firms to move to US",
-    "desc": "Donald Trump is escalating trade conflicts with Canada by levying substantial tariffs, which he claims are necessary due to the billions the U.S. allegedly loses from Canadian trade policies. He is urging Canadian firms to move their operations to the U.S. immediately. This action follows stalled trade negotiations, leading both Canada and the U.S. to impose retaliatory tariffs that affect various sectors and logistics.",
-    "img": "https://static.toiimg.com/photo/msid-133639518,imgsize-159854.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/losing-60-billion-a-year-trump-slams-canada-as-worst-trade-abuser-urges-firms-to-move-to-us/articleshow/133639427.cms",
-    "time": "2026-08-31T01:45:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "‘We’ll see more Japanese portfolio flows’",
-    "desc": "Japanese investors are showing strong confidence in India's economic growth potential. Political and policy certainty in India is encouraging more Japanese capital to flow. India's growing economy offers tremendous returns, attracting significant overseas investment. Japanese household money is expected to increase investments in India's market. This trend signifies a positive shift towards greater financial integration between nations.",
-    "img": "https://static.toiimg.com/photo/msid-133639347,imgsize-227556.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/well-see-more-japanese-portfolio-flows/articleshow/133639244.cms",
-    "time": "2026-08-31T01:10:28.000Z"
   },
   {
     "cat": "Sports",
@@ -880,23 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
     "time": "2024-03-11T09:36:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
-    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
-    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
-    "time": "2024-03-11T09:19:46.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Former Activision boss reportedly wants to buy TikTok",
-    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
-    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
-    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
