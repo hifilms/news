@@ -1,5 +1,68 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "'The One About Matthew Perry' Docuseries set for OTT debut",
+    "desc": "A new docuseries about Matthew Perry will stream on Netflix soon. The series features his sister and unreleased family photos and videos. It explores his rise as a star and private struggles. The director behind 'Framing Britney Spears' is helming this project. Perry's sister hopes the series offers a deeper appreciation for him.",
+    "img": "https://static.toiimg.com/photo/msid-133691999,imgsize-287552.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-one-about-matthew-perry-docuseries-on-late-friends-star-set-for-ott-debut-title-release-date-plot-details-and-more-revealed/articleshow/133691779.cms",
+    "time": "2026-09-01T21:48:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "R Madhavan recalls son Vedaant's honest film reviews",
+    "desc": "R Madhavan has opened up about his close bond with son Vedaant and his approach to parenting. The actor says he treated Vedaant like an adult from a young age and valued his opinions. Madhavan also recalled his son’s honest reactions to his films, including watching ‘Dhurandhar’ with friends in the US.",
+    "img": "https://static.toiimg.com/photo/msid-133691796,imgsize-81053.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-madhavan-says-he-treated-son-vedaant-like-an-adult-from-a-young-age-recalls-his-honest-feedback-on-dhurandhar-and-other-films-his-opinion-matters-to-me/articleshow/133691790.cms",
+    "time": "2026-09-01T21:31:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Who is Aishwarya Rai Bachchan’s brother Aditya Rai?",
+    "desc": "Aishwarya Rai Bachchan’s elder brother Aditya Rai has largely stayed away from the spotlight. An engineer who spent years working in the Merchant Navy, Aditya later entered filmmaking and co-produced the 2003 romantic drama ‘Dil Ka Rishta’, starring Aishwarya. Married to influencer Shrima Rai, he now leads a relatively private family life with their two sons.",
+    "img": "https://static.toiimg.com/photo/msid-133691682,imgsize-121636.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/who-is-aishwarya-rai-bachchans-brother-aditya-rai-he-spent-years-in-the-merchant-navy-co-produced-dil-ka-rishta-and-leads-a-private-family-life/articleshow/133691643.cms",
+    "time": "2026-09-01T20:52:19.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Netanyahu says Israel seized Hamas internal security chief in Gaza",
+    "desc": "The premier said in a statement that the target was the head of Hamas's internal security apparatus in Gaza, and that he had been involved with Israeli hostages previously held there, without giving more details.",
+    "img": "https://th-i.thgim.com/public/incoming/o2s3hm/article71417073.ece/alternates/LANDSCAPE_1200/2026-08-24T184219Z_1225272422_RC2C0NAFZUJR_RTRMADP_3_IRAN-CRISIS-ISRAEL-NETANYAHU.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/netanyahu-says-israel-seized-hamas-internal-security-chief-in-gaza/article71417072.ece",
+    "time": "2026-09-01T19:38:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Alcaraz shines on return, Sabalenka begins U.S. Open 'three-peat' bid with win",
+    "desc": "Former champion Iga Swiatek and last year's runner-up Amanda Anisimova also advanced with impressive victories while Stefanos Tsitsipas served up an upset by knocking out 10th seed Arthur Fils on a sunny afternoon in New York.",
+    "img": "https://th-i.thgim.com/public/incoming/cku78b/article71417026.ece/alternates/LANDSCAPE_1200/APTOPIX_US_Open_Tennis_3_965.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/alcaraz-shines-on-return-sabalenka-begins-us-open-three-peat-bid-with-win/article71417025.ece",
+    "time": "2026-09-01T18:33:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TMC rebel MPs seek three weeks to reply to Lok Sabha notice on disqualification plea",
+    "desc": "The Lok Sabha Secretariat on August 26 issued notices to 20 rebel Trinamool Congress MPs and sought their replies within seven days on petitions filed by TMC leader Abhishek Banerjee seeking their disqualification, sources said.",
+    "img": "https://th-i.thgim.com/public/incoming/5dfv5s/article71416980.ece/alternates/LANDSCAPE_1200/20260728103L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/west-bengal/tmc-rebel-mps-seek-three-weeks-to-reply-to-lok-sabha-notice-on-disqualification-plea/article71416971.ece",
+    "time": "2026-09-01T17:57:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tamil Nadu’s sprinters shine",
+    "desc": "Promising sprinter Neil Samraj R of Tamil Nadu dominated the men’s 100m dash. His winning time of 10.46 seconds was better than the previous youth national record of 10.63 seconds set by Anshu Rajak in 2023 in Coimbatore",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/national-youth-championships-tamil-nadus-sprinters-shine/article71416926.ece",
+    "time": "2026-09-01T17:42:28.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "PCB seeks answers over Rizwan, Imam picks as Misbah quits committee",
     "desc": "Pakistan Cricket Board seeks explanation from its selection committee. The board questioned the rationale behind including Mohammad Rizwan and Imam-ul-Haq. This action follows the team's poor performance in the ongoing England Test series. Several players and coaching staff have been released and replaced amid this overhaul. Misbah-ul-Haq is reportedly set to resign from the selection committee.",
@@ -81,15 +144,6 @@ const newsData_en = [
     "time": "2026-09-01T16:40:20.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Three candidates shortlisted for Ram Janmabhoomi Trust’s first CEO",
-    "desc": "The Trust is expected to choose one of the three at a meeting on September 2; names of the shortlisted candidates have not been disclosed, but sources said the panel includes candidates from government and private sectors",
-    "img": "https://th-i.thgim.com/public/incoming/3ugpi6/article71416660.ece/alternates/LANDSCAPE_1200/PTI09_01_2026_000509B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/three-candidates-shortlisted-for-ram-janmabhoomi-trusts-first-ceo/article71416132.ece",
-    "time": "2026-09-01T16:10:23.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Japan Cricket CEO says teams can make own arrangements",
     "desc": "Japan Cricket CEO Naoki Alex Miyaji clarified Asian Games accommodation arrangements for teams. Participating teams are offered hotel stays and can arrange their own lodging. Logistical constraints are affecting many sports, not just cricket at the event. The Korogi Sports Park venue was built from scratch within a tight timeframe. Organisers are confident cricket will make a strong impression at the Games.",
@@ -124,15 +178,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2007-dolly-parton-cradled-emma-jarman-when-she-was-just-one-day-old-at-rotherham-hospital-now-18-the-teenager-opens-up-about-their-surreal-encounter-and-the-lasting-impact-it-had-on-her-life/articleshow/133686263.cms",
     "time": "2026-09-01T15:46:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Thiruvananthapuram Zoo revenue collection during Onam up from last year",
-    "desc": "In the six days from August 25 to 30, the total revenue collection for the zoo and museums was ₹29.97 lakh, over ₹7 lakh more than the revenue collection of ₹22.53 lakh during the Onam period from September 3 to 9 last year",
-    "img": "https://th-i.thgim.com/public/incoming/lkfe42/article71416121.ece/alternates/LANDSCAPE_1200/NH20Zebra04.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/thiruvananthapuram-zoo-revenue-collection-during-onam-up-from-last-year/article71415783.ece",
-    "time": "2026-09-01T15:37:08.000Z"
   },
   {
     "cat": "Sports",
@@ -288,15 +333,6 @@ const newsData_en = [
     "time": "2026-09-01T12:57:27.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "UP Congress chief Ajay Rai files defamation case against CM Yogi for 'hurting faith'",
-    "desc": "UP Congress president Ajay Rai filed a defamation case against Yogi Adityanath. Rai alleging that the CM's remarks about a fish feast hurt his religious sentiments. The controversy began after a video of fish preparation at a Congress event surfaced. Adityanath had accused Rai of duplicity for attending the event. Rai denied eating fish and challenged the chief minister to provide proof.",
-    "img": "https://static.toiimg.com/photo/msid-133682227,imgsize-115602.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/fish-video-row-up-congress-chief-ajay-rai-files-defamation-case-against-cm-yogi-for-hurting-faith/articleshow/133681290.cms",
-    "time": "2026-09-01T12:42:47.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Should Novak Djokovic take a leaf from Lionel Messi and retire?",
     "desc": "Now, Messi and Djokovic do have a lot in common. Both came from impoverished backgrounds and became the greatest ever to play their respective sports. Both were even born in the same year, just 33 days apart. Both chased dreams that seemed unattainable, with families who bet their futures on their children’s success. Both had similarly close paternal relationships and left home early to train. In their early days, both even faced similar physical limitations. Messi needed growth hormones; Djokovic switched his diet and conditioning to produce extraordinary endurance hitherto unseen in tennis.",
@@ -306,15 +342,6 @@ const newsData_en = [
     "time": "2026-09-01T12:23:24.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Here's how Dolly used her Whitney royalties to give back to community",
-    "desc": "Dolly Parton, who wrote \"I Will Always Love You\" in 1973, credited Whitney Houston's iconic cover for making it a global hit. She used the royalties to fund a Nashville complex supporting the Black community, calling it \"the house that Whitney built.\" Parton, who also ran the Imagination Library, died Aug. 25 at 80.",
-    "img": "https://static.toiimg.com/photo/msid-133681235,imgsize-223558.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/heres-how-dolly-parton-used-her-whitney-houston-royalties-to-give-back-to-nashvilles-black-community/articleshow/133681217.cms",
-    "time": "2026-09-01T12:19:15.000Z"
-  },
-  {
     "cat": "World",
     "title": "Iran would 'immediately' reciprocate if U.S. returns to June deal: President Pezeshkian",
     "desc": "His remarks came as the Strait of Hormuz remained a key point of contention between Iran and the United States, which resumed exchanging fire on August 31 after more than a month of relative calm",
@@ -322,15 +349,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/iran-would-immediately-reciprocate-if-us-returns-to-june-deal-president-pezeshkian/article71414808.ece",
     "time": "2026-09-01T12:15:55.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Punjab health scheme covers 12,467 sepsis treatments worth Rs 51.58 crore",
-    "desc": "Punjab's health initiative has successfully treated more than 12,000 cases of severe sepsis and septic shock, allocating over fifty-one crore rupees towards essential patient care. Recognizing sepsis promptly is crucial to avert swift organ failure, especially in newborns who are particularly at risk. This scheme ensures that financial limitations do not obstruct access to critical medical services.",
-    "img": "https://static.toiimg.com/photo/msid-133681085,imgsize-69076.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/punjab-health-scheme-covers-12467-sepsis-treatments-worth-rs-51-58-crore/articleshow/133681042.cms",
-    "time": "2026-09-01T12:14:38.000Z"
   },
   {
     "cat": "Business",
@@ -358,15 +376,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/julie-andrews-reveals-her-fitness-and-wellness-routine-at-90-simple-lifelong-morning-exercise-habit-and-how-curiosity-creativity-keep-her-feeling-young-says-i-probably-feel-like-in-my-50s/articleshow/133680566.cms",
     "time": "2026-09-01T12:06:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Esha Deol and Soniya Bansal join sequel",
-    "desc": "'Malamaal Weekly 2', directed by Amit Joshi, has added Esha Deol and Soniya Bansal to its growing cast, joining Raveena Tandon, Parineeti Chopra, Shilpa Shirodkar, and others. Filming begins November 2026 with a fresh storyline retaining the original's essence. The 2006 film starred Paresh Rawal, Riteish Deshmukh, and Rajpal Yadav.",
-    "img": "https://static.toiimg.com/photo/msid-133680938,imgsize-274951.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/malamaal-weekly-2-esha-deol-to-make-comeback-post-dharmendras-demise-soniya-bansal-also-joins-cast/articleshow/133680914.cms",
-    "time": "2026-09-01T12:05:37.000Z"
   },
   {
     "cat": "Entertainment",
@@ -457,15 +466,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/onion-price-hike-centre-expands-rs-35/kg-sale-to-19-cities-amid-supply-concerns/articleshow/133675249.cms",
     "time": "2026-09-01T09:40:55.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'This is normal post partum recovery'",
-    "desc": "Shivaleeka Oberoi took a stand for Katrina Kaif amidst harsh online body-shaming remarks. She emphasized the genuine experiences of postpartum recovery and the challenges of motherhood. Oberoi called for an end to the pressures of unrealistic portrayals of new moms after Katrina faced unkind criticism following her recent appearance post-childbirth. She had welcomed her son, Vihaan Kaushal, with husband Vicky Kaushal in November 2025.",
-    "img": "https://static.toiimg.com/photo/msid-133675374,imgsize-290229.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/actress-shivaleeka-oberoi-hits-back-at-trolls-body-shaming-katrina-kaif-fans-rally-behind-the-actress-this-is-motherhood-this-is-what-normal-post-partum-recovery-looks-like/articleshow/133675069.cms",
-    "time": "2026-09-01T09:19:11.000Z"
   },
   {
     "cat": "Sports",
