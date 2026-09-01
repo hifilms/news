@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "બેંક યુનિયનોએ હડતાળની કરી જાહેરાત, જાણો સપ્ટેમ્બર-ઓક્ટોબરમાં ક્યારે બંધ રહેશે બેંકો",
+    "desc": "યુનાઇટેડ ફોરમ ઓફ બેંક યુનિયન્સ (UFBU)એ 11 સપ્ટેમ્બરના રોજ બેંક હડતાળની જાહેરાત કરી છે. આ પછી 28થી 30 સપ્ટેમ્બર સુધી ત્રણ દિવસની હડતાળ કરવામાં આવશે અને જો તેમની માંગણીઓ પૂર્ણ નહીં થાય, તો બેંકો 26 ઓક્ટોબર, 2026થી અનિશ્ચિત સમય માટે હડતાળ કરશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/bank-unions-announce-bank-strike-know-when-banks-will-be-closed-in-september-and-october-489743 ",
+    "time": "2026-09-01T16:16:33.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ખાંડ અને દૂધ બાદ હવે પેટ્રોલ પર મોટા સમાચાર, સરકારે નિકાસ પર વિન્ડફોલ ટેક્સ વધાર્યો",
+    "desc": "ખાંડ અને દૂધના ભાવ વધવાથી જનતા પરેશાન છે. આ વચ્ચે હવે કેન્દ્ર સરકારે પેટ્રોલ અને ડિઝલ પર પણ મોટો નિર્ણય લીધો છે. સરકારે તેના નિકાસ પર વિન્ડફોલ ટેક્સ વધારી દીધો છે. તેની અસર તેલ કંપનીઓ પર પડશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/after-sugar-and-milk-now-big-news-on-petrol-government-increases-windfall-tax-on-exports-489735 ",
+    "time": "2026-09-01T15:22:36.000Z"
+  },
+  {
     "cat": "Sports",
     "title": "બદલાઈ ગઈ ભારતની T20 ટીમ, અફઘાનિસ્તાન સામે આ 8 ખેલાડીઓને પડતા મુકાયા",
     "desc": "અફઘાનિસ્તાન સામેની ટી20 સિરીઝ માટે સંજુ સેમસનની ભારતીય ટીમમાં વાપસી થઈ છે. તો ઝિમ્બાબ્વે પ્રવાસનો ભાગ રહેલા રિંકુ સિંહ 8 ખેલાડીઓને બહાર કરવામાં આવ્યા છે. ત્યારે આ 8 ખેલાડી કયા છે, તેના વિશે આ લેખમાં જાણીશું.",
@@ -378,24 +396,6 @@ const newsData_gu = [
     "time": "2026-08-30T11:16:40.000Z"
   },
   {
-    "cat": "Business",
-    "title": "હોમ લોન થઈ સસ્તી: 7%ના વ્યાજ દરે લોન આપી રહી છે આ બેંકો, ચેક કરો શાનદાર ઓફર્સ",
-    "desc": "જો તમે ઘર ખરીદવા ઈચ્છો છો અને હોમ લોન લેવાનું વિચારી રહ્યાં છો તો ઘણી બેંક હોમ લોન સસ્તા દરે આપી રહી છે. કેટલીક બેંકમાં સાત ટકા વ્યાજદરથી હોમ લોન શરૂ થાય છે. જાણો સંપૂર્ણ વિગત....",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/home-loans-get-cheaper-these-banks-offering-housing-loans-starting-near-7-interest-rate-489445 ",
-    "time": "2026-08-30T11:16:33.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "ક્રેડિટ કાર્ડનું બિલ બની ગયું છે બોજ ? આ 7 સરળ રીતથી ઝડપથી દેવું કરો દૂર, જાણો",
-    "desc": "તમારા ક્રેડિટ કાર્ડ પર ફક્ત મીનિમમ બાકી રકમ ચૂકવવી લાંબા ગાળે મોંઘી સાબિત થઈ શકે છે, કારણ કે બાકીના બેલેન્સ પર વ્યાજ વધતું રહે છે. ચાલો ક્રેડિટ કાર્ડના દેવામાંથી ઝડપથી બહાર નીકળવાના 7 રસ્તાઓ શોધીએ. આમાં ઓવરપેમેન્ટ, EMIમાં કન્વર્ટ, ઓટો-પેમેન્ટ, સ્નોબોલ અને એવલાન્ચ જેવી પદ્ધતિઓનો સમાવેશ થાય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/has-credit-card-bill-become-a-burden-get-rid-of-debt-quickly-with-these-7-easy-ways-know-489436 ",
-    "time": "2026-08-30T10:31:20.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "અફઘાનિસ્તાન સામે કેવી હશે ભારતની T20 ટીમ ? આ 15 ખેલાડીઓની ચમકશે કિસ્મત, બુમરાહ-પંડ્યાની થશે વાપસી!",
     "desc": "અફઘાનિસ્તાન સામેની ત્રણ મેચની T20 આંતરરાષ્ટ્રીય શ્રેણીમાં વૈભવ સૂર્યવંશી અને અભિષેક શર્માની ઓપનિંગ જોડી ફરી એકવાર ધમાલ મચાવતી જોવા મળશે. હાર્દિક પંડ્યા અને જસપ્રીત બુમરાહ આ T20 આંતરરાષ્ટ્રીય શ્રેણીમાં રમી શકશે કે નહીં તે કહેવું મુશ્કેલ છે.",
@@ -637,14 +637,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/should-you-press-the-clutch-or-the-brake-first-to-stop-the-car-find-out-the-correct-way-today-488714 ",
     "time": "2026-08-24T09:54:56.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "iPhoneની જીદે ઉજાડ્યો આખો પરિવાર! 5 સેકન્ડમાં 3 લોકોએ ગુમાવ્યો જીવ, કેમ છે લોકોમાં આવો ક્રેઝ?",
-    "desc": "મહારાષ્ટ્રના છત્રપતિ સંભાજીનગરમાં એક દુ:ખદ ઘટના સામે આવી છે, જ્યાં એક યુવકે આઇફોનના કારણે આત્મહત્યા કરી લીધી. ત્યારબાદ તેના પિતા અને માતાનું પણ અવસાન થયું. પ્રશ્ન એ ઉભો થાય છે કે આઇફોન માટે આટલો ક્રેઝ કેમ છે?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/the-iphone-stubbornness-destroyed-the-entire-family-why-is-there-such-a-craze-among-people-488586 ",
-    "time": "2026-08-23T09:38:35.000Z"
   }
 ];

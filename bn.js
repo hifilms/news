@@ -1,5 +1,23 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "ফাঁস হল দশকের সেরা রহস্য: ‘বিগ বস বাংলা’র গম্ভীর কণ্ঠের পেছনের আসল মুখ প্রকাশ্যে",
+    "desc": "মেঘের আড়াল থেকে ভেসে আসা সেই গুরুগম্ভীর কণ্ঠস্বরটি আসলে কার? বছরের পর বছর ধরে আটকে থাকা সবচেয়ে বড় রহস্যের জট খুলল! ‘বিগ বস বাংলা’র প্রথম ও দ্বিতীয় সিজনের আসল মুখ নিজেই প্রকাশ্যে এলেন। তবে ৩য় সিজনে কেন তিনি নেই?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/bigg-boss-bangla-real-voice-actor-sohan-bandyopadhyay-revealed_669138.html ",
+    "time": "2026-09-01T15:05:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "সামনেই বসা পাক প্রধানমন্ত্রী শেহবাজ, আন্তর্জাতিক মঞ্চে পাকিস্তানকে 'সন্ত্রাসের দাওয়াই' মোদীর",
+    "desc": "বিশ্বমঞ্চে ভারতের বড় জয়! বিশকেকে এসসিও সম্মেলনে সন্ত্রাসবাদ নিয়ে পাকিস্তানকে কড়া বার্তা প্রধানমন্ত্রী নরেন্দ্র মোদীর। অন্যদিকে পুতিনের সঙ্গে উষ্ণ রসায়ন মোদী-সি-র, আবার পাক প্রধানমন্ত্রী শেহবাজ শরিফের ঝুলিতে এলো চরম অস্বস্তি! কী ঘটল সম্মেলনের দ্বিতীয় দিনে?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/sco-summit-bishkek-pm-narendra-modi-speech-putin-shehbaz-sharif_669113.html ",
+    "time": "2026-09-01T14:07:38.000Z"
+  },
+  {
     "cat": "World",
     "title": "আদিয়ালা জেল থেকে ইমরানের বড় আপডেট: কাপ্তানের জন্য কেঁপে গেল পাকিস্তান, খান সাহেবকে বাঁচাতে সুপ্রিম কোর্টের বেনজির পদক্ষেপ",
     "desc": "দীর্ঘদিন ধরে দুর্নীতির একাধিক মামলায় আদিয়ালা জেলে বন্দি রয়েছেন প্রাক্তন পাক প্রধানমন্ত্রী ও তাঁর স্ত্রী। তবে তাঁদের পরিবার ও পিটিআই নেতৃত্বের পক্ষ থেকে ক্রমাগত অভিযোগ করা হচ্ছিল যে, ইমরান খানকে অন্ধকার ও নিঃসঙ্গ সেলে রেখে মানসিক নির্যাতন করা হচ্ছে এবং চিকিৎসার মৌলিক সুযোগ থেকে বঞ্চিত রাখা হচ্ছে।",
@@ -133,15 +151,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/debolinaa-nandy-why-she-did-not-join-bigg-boss-bangla-mental-physical-health_668881.html ",
     "time": "2026-08-31T07:23:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "হাড়হিম দিল্লি! লিফট দেওয়ার নামে, পর্দা টানা চলন্ত স্লিপার বাসে ১৬-র কিশোরীকে গণধর্ষণ চালক-কনডাকটরের",
-    "desc": "রাতে আর কোনও গাড়ি না পেয়ে ওই নাবালিকা বিপাকে পড়ে খালি স্লিপার বাসটিকে যেতে দেখে হাত দেখিয়ে চালককে বাস থামাতে বলে। বাস চালক কুলদীপ এবং কনডাক্টর সন্দীপ তাকে নয়ডা সেক্টর ৬৩-তে নামিয়ে দেওয়ার কথা বলে বাসে তুলে নেয়।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/16-year-old-gang-raped-in-running-sleeper-bus-in-delhi-after-being-offered-a-lift_668880.html ",
-    "time": "2026-08-31T07:18:47.000Z"
   },
   {
     "cat": "World",
@@ -295,15 +304,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/sports/250-gen-z-cricketers-want-3-ranji-teams-from-uttar-pradesh_668160.html ",
     "time": "2026-08-25T08:43:45.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "বকেয়া টাকা চাইতেই কাঠমিস্ত্রিকে ব্যাপক মারধর! অভিনেতা-প্রাক্তন বিধায়ক সোহমের বিরুদ্ধে ভয়ংকর অভিযোগ",
-    "desc": "সেখানে দীর্ঘক্ষণ তাঁকে বসিয়ে রাখার পর বকেয়া ৭৯০০০ টাকা চাইলে টাকা দেওয়া হবে না বলে জানানো হয়। এরপরই তাঁকে মারধর করা হয় বলে অভিযোগ করেছেন ওই কাঠমিস্ত্রি। শুধু তাই নয়, তাঁর মোবাইল ফোনও কেড়ে নেওয়া হয় বলে অভিযোগ। ঘটনার পর বেহালা থানায় গিয়ে লিখিত অভিযোগ দায়ের করেন রাজ কাপুর শর্মা।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/actor-soham-chakraborty-accused-of-assaulting-carpenter-over-unpaid-dues_668135.html ",
-    "time": "2026-08-25T02:53:59.000Z"
   },
   {
     "cat": "Business",
