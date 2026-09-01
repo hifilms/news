@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Kieron Pollard, Dwayne Bravo and Sunil Narine honoured with renamed stand at Queen's Park Oval",
+    "desc": "Queen’s Park Cricket Club has renamed a stand at the Queen’s Park Oval after Kieron Pollard, Dwayne Bravo, and Sunil Narine. The ceremony took place on August 31 as Trinidad and Tobago marked its 64th...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kieron-pollard-dwayne-bravo-and-sunil-narine-honoured-with-renamed-stand-at-queen-s-park-oval-2026-09-01-1052935",
+    "time": "2026-09-01T07:58:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Roger Federer awarded Tennis Hall of Fame ring at US Open ceremony",
+    "desc": "Roger Federer received his International Tennis Hall of Fame ring at the US Open. Kim Clijsters, president of the International Tennis Hall of Fame and a 2017 inductee, presented the ring to Federer during a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/roger-federer-awarded-tennis-hall-of-fame-ring-at-us-open-ceremony-2026-09-01-1052925",
+    "time": "2026-09-01T07:09:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "What exactly happened as Pakistan drop seven players, sack coach in between England Test series?",
+    "desc": "After a 194-run defeat to England at Headingley, Pakistan have made an extraordinary mid-series overhaul. They have released seven players from the squad and also removed head coach Sarfaraz Ahmed and bowling coach Umar Gul....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/what-exactly-happened-as-pakistan-drop-seven-players-sack-coach-in-between-england-test-series-2026-09-01-1052920",
+    "time": "2026-09-01T06:30:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Marnus Labuschagne dropped as Australia announce squads for South Africa, Zimbabwe series",
+    "desc": "Marnus Labuschagne has been left out of Australia’s ODI squad for the six-match tour of Zimbabwe and South Africa. His poor showing in the Test series against Bangladesh and a difficult period in limited-overs cricket...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/marnus-labuschagne-dropped-as-australia-announce-squads-for-south-africa-zimbabwe-series-2026-09-01-1052914",
+    "time": "2026-09-01T05:28:20.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Lionel Messi announces retirement from international football after 2026 FIFA World Cup heartbreak",
     "desc": "Legendary footballer Lionel Messi has finally drawn the curtain on his extraordinary international career. The Argentina star has announced his retirement from international football, confirming that he will no longer wear the famous blue and...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-breaks-down-in-tears-after-suffering-first-round-exit-at-the-us-open-2026-2026-08-31-1052859",
     "time": "2026-08-31T09:02:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I hate losing': Bruno Fernandes opens up after helping Manchester United win first game of the season",
-    "desc": "Manchester United got back to winning ways as the side put forth a marvellous performance in their second game of the Premier League 2026-27 season. The sides took on Ipswich Town. The two sides met...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/i-hate-losing-bruno-fernandes-opens-up-after-helping-manchester-united-win-first-game-of-the-season-2026-08-31-1052851",
-    "time": "2026-08-31T07:47:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi smashes 57-year-old record, scores magnificent 92 against Central Zone",
-    "desc": "Vaibhav Sooryavanshi put forth a brilliant performance in the first innings as Central Zone took on East Zone in the ongoing Duleep Trophy semi-final. The two sides met at the BCCI (Board of Control for...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-smashes-57-year-old-record-scores-magnificent-92-against-central-zone-2026-08-31-1052841",
-    "time": "2026-08-31T06:45:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shafali Verma stars as India get off to stellar start in Women's Asia Cup 2026, defeat Thailand by 94 runs",
-    "desc": "The Indian team kicked off their campaign in the ongoing Women’s Asia Cup 2026. The side took on Thailand women in their first game of the tournament, and the two sides met at the Dubai...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shafali-verma-stars-as-india-get-off-to-stellar-start-in-women-s-asia-cup-2026-defeat-thailand-by-94-runs-2026-08-31-1052834",
-    "time": "2026-08-31T05:26:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch India vs Thailand, Women's Asia Cup 2026 live on TV and stream online in India?",
-    "desc": "The Indian team is all set to kick off its campaign in the Women’s Asia Cup 2026. The side, led by Harmanpreet Kaur, will take on Thailand in their first game of the tournament. The...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/when-and-where-to-watch-india-vs-thailand-women-s-asia-cup-2026-live-on-tv-and-stream-online-in-india-2026-08-30-1052806",
-    "time": "2026-08-30T13:23:06.000Z"
   }
 ];

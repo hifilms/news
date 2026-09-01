@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "Business",
+    "title": "PM મોદીની અપીલ બાદ સોનાના ભાવમાં ઘટાડો, ચાંદી પણ તૂટી, જાણો 10 ગ્રામ સોનાનો આજનો ભાવ",
+    "desc": "સોના અને ચાંદીના ભાવમાં આજે ઘટાડો જોવા મળ્યો છે. વાયદા બજારમાં સોનું લાલ નિશાનમાં જ્યારે ચાંદી લીલા નિશાનમાં જોવા મળી છે. રિટેલ બજારમાં સોનું અને ચાંદી બંનેના ભાવમાં ઘટાડો નોંધાયો છે. લેટેસ્ટ રેટ માટે જાણો",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-prices-fall-after-pm-modi-appeal-silver-also-falls-check-mcx-ibja-latest-rates-489678 ",
+    "time": "2026-09-01T07:51:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM મોદીએ ફરી કહ્યું: સોનું ખરીદવાથી બચો! જાણો શા માટે કરી આવી અપીલ, જુઓ Video",
+    "desc": "પ્રધાનમંત્રી નરેન્દ્ર મોદીએ દેશવાસીઓને 7.8 ટકાનો વિકાસ દર હાંસલ કરવા બદલ અભિનંદન આપ્યા છે. તેમણે વિપક્ષ પર પણ નિશાન સાધ્યું હતું. પીએમ મોદીએ લોકોને વિદેશ પ્રવાસ કરવાનું અને જરૂર સિવાય સોનું ખરીદવાનું ટાળવાની પણ અપીલ કરી છે. ચાલો જાણીએ કે કેમ આ અપીલ કરી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/pm-modi-said-again-avoid-buying-gold-know-why-he-made-such-an-appeal-watch-the-video-489640 ",
+    "time": "2026-09-01T05:19:19.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "મોંઘવારીનો ‘સપ્ટેમ્બર ઝટકો’! ગેસ, દૂધ, કાર અને ઓટો ભાડું થયું મોંઘું, જાણો કેટલા વધ્યા ભાવ",
+    "desc": "સપ્ટેમ્બરની શરૂઆત સાથે, દેશભરમાં ઘણા મોટા ફેરફારો અમલમાં આવ્યા છે. આ ફેરફારો તમારા રસોડાથી લઈને તમારા રોજિંદા જીવન સુધીની દરેક વસ્તુને અસર કરશે. સિલિન્ડરના ભાવમાં વધારાથી લઈને ઓટો-ટેક્સીના ભાડામાં વધારા સુધી, બધું જ બદલાઈ ગયું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/rule-change-inflation-hits-september-gas-milk-car-and-auto-fares-become-expensive-know-489623 ",
+    "time": "2026-09-01T04:18:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "આઠમું પગાર પંચ: સરકારી કર્મચારીઓને મળી શકે છે 14.10 લાખ રૂપિયા સુધીનું એરિયર, જાણો કઈ રીતે",
+    "desc": "ફિટમેન્ટ ફેક્ટર સરકારી કર્મચારીઓના પગાર વધારામાં સૌથી મોટો ભાગ ભજવે છે. હાલ મીડિયા રિપોર્ટ્સમાં વિવિધ ફિટમેન્ટ ફેક્ટર ચર્ચામાં છે. આઠમાં પગાર પંચનો રિપોર્ટ હજુ આવ્યો નથી એટલે ભલામણો લાગૂ થવામાં વિલંબ થઈ શકે છે. ત્યારે સરકારી કર્મચારીઓને કેટલું એરિયર મળી શકે તે અંદાજિત ફિટમેન્ટ ફેક્ટરની મદદથી જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/8th-pay-commission-news-salary-hike-arrears-dearness-allowance-489621 ",
+    "time": "2026-09-01T03:36:16.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સપ્ટેમ્બરના પહેલા દિવસે મોંઘવારીનો માર, ગેસ સિલિન્ડરના ભાવમાં થયો વધારો, જાણો નવો રેટ",
+    "desc": "સપ્ટેમ્બરના પહેલા દિવસે, સરકારી માલિકીની ઓઇલ માર્કેટિંગ કંપનીઓ IOC, HPCL અને BPCLએ કોમર્શિયલ સિલિન્ડરના ભાવમાં વધારો કર્યો હતો. દિલ્હીમાં, કોમર્શિયલ સિલિન્ડરના ભાવમાં 9.50 રૂપિયાનો વધારો થયો હતો. દેશના તમામ શહેરોમાં નવા સિલિન્ડરના ભાવ અમલમાં આવી ગયા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/inflation-hits-on-first-day-of-september-cylinder-prices-increase-know-the-new-rate-489613 ",
+    "time": "2026-09-01T03:10:08.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "કાશ્મીર પર મંડરાઈ રહ્યો મોટો ખતરો! 5 ગ્લેશિયર લેક હાઈ રિસ્ક પર, તૂટશે તો આ વિસ્તારોમાં મચાવશે તબાહી!",
     "desc": "નેપાળમાં તબાહી બાદ હવે જમ્મુ-કાશ્મીરમાં ગ્લેશિયર લેક હાઈ રિસ્ક પર હોવાથી તૂટવાનો ડર સતાવી રહ્યો છે. નિષ્ણાતોના મતે, ઊંચાઈવાળા ગ્લેશિયર લેક અને ભૂકંપનું જોખમ એકસાથે મોટી આફતનું કારણ બની શકે છે. 155 લેકમાંથી 5 અત્યંત સંવેદનશીલ છે, જેના પર દેખરેખ અને તૈયારી જરૂરી છે.",
@@ -378,15 +423,6 @@ const newsData_gu = [
     "time": "2026-08-29T09:46:49.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "જે ગુજરાતીએ અમેરિકામાં લાખો ભારતીયોનું ભાગ્ય બદલી નાખ્યું, તેનું પોતાનું જીવન કેમ થયું બરબાદ?",
-    "desc": "ગુજરાતીઓ માત્ર ગુજરાતમાં કે ભારતમાં જ નહીં પરંતુ વિદેશમાં પણ મોટી નામના મેળવી ચૂક્યા છે. દુનિયાના કોઈ પણ ઠેકાણે તમને ગુજરાતી તો મળી જ રહેશે. આવા જ એક ગુજરાતી વિશે અહીં વાત કરીશું જેમણે લાખો ભારતીયોના ભાગ્ય પલટ્યા પરંતુ પોતે સાવ એકલતામાં દમ તોડ્યો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/story-of-kaji-manchhu-desai-from-surat-to-amercia-motel-king-489275 ",
-    "time": "2026-08-29T09:24:39.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "સૂર્યકુમાર યાદવે તોડ્યું મૌન, T20 ટીમમાંથી બહાર થયા બાદ પહેલીવાર ઠાલવ્યો રોષ",
     "desc": "T20 ટીમમાંથી બહાર થયા બાદ પહેલીવાર રોષ સૂર્યકુમાર યાદવે ઠાલવ્યો છે. સૂર્યકુમાર યાદવે સ્વીકાર્યું કે તેને ઓલિમ્પિક ગેમ્સ 2028 અને T20 વર્લ્ડ કપ 2028માં ટીમનું નેતૃત્વ કરવાની આશા હતી, પરંતુ પસંદગીકારોની યોજના અલગ જ હતી.",
@@ -403,15 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/kamya-panjabi-domestic-violence-first-marriage-bunty-negi-kamya-panjabi-first-marriage-story-489264 ",
     "time": "2026-08-29T07:36:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ઉત્તર પ્રદેશથી ભાજપ માટે શોકિંગ ન્યૂઝ! યોગી સે બેર નહીં, BJP વિધાયકો કી ખેર નહીં...",
-    "desc": "ઉત્તર પ્રદેશમાં ભાજપ માટે ચિંતાનું કારણ સામે આવ્યું છે કે વિધાયકો પ્રત્યે જનતાની નારાજગી ખુલીને સામે આવી છે. સર્વેમાં સામેલ લોકોમાંથી 49 ટકા લોકોએ પોતાના વર્તમાન વિધાયક પ્રત્યે નારાજગી વ્યક્ત કરી છે. જ્યારે પંજાબમાં શું સ્થિતિ છે એ પણ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/shocking-findings-of-a-survey-uttar-pradesh-punjab-yogi-adityanath-bhagwant-mann-489250 ",
-    "time": "2026-08-29T06:00:46.000Z"
   },
   {
     "cat": "Entertainment",
@@ -448,15 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/having-to-take-off-my-clothes-in-front-of-100-men-the-actress-recounted-a-22-year-old-story-489187 ",
     "time": "2026-08-28T12:56:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "&amp;#039;કોકરોચો&amp;#039;એ BJPને આપ્યો ઝટકો, સીટોમાં થઈ શકે ઘટાડો, કોંગ્રેસને બંપર ફાયદો, સર્વેના ચોંકાવનારા તારણો",
-    "desc": "જ્યારથી કોકરોચ જનતા પાર્ટી આવી છે અને નીટ પ્રોટેસ્ટ થયું ત્યારબાદ બધાને એક સવાર મનમાં ઘૂમરાયા કરે છે કે આ આંદોલન અને સીજેપીથી ભાજપને શું કોઈ અસર થઈ શકે છે? તો એક સર્વેમાં આ અંગે પણ ચોંકાવનારો ખુલાસો થયો છે. જાણો વિગતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/survey-findings-cockroach-janata-party-bjp-congress-neet-protest-nda-lok-sabha-election-489161 ",
-    "time": "2026-08-28T06:21:52.000Z"
   },
   {
     "cat": "Entertainment",
@@ -511,15 +529,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/t20-lowest-score-turkey-women-vs-austria-women-35-all-out-7-ducks-489088 ",
     "time": "2026-08-27T09:39:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ઓસ્ટ્રેલિયા શ્રેણી માટે ભારતીય ટીમની જાહેરાત, દ્રવિડ અને સહેવાગના પુત્રોને મળી તક",
-    "desc": "ભારતીય ક્રિકેટના બે પૂર્વ દિગ્ગજ બેટર વીરેન્દ્ર સહેવાગ અને રાહુલ દ્રવિડના પુત્રનું નસીબ ચમકી ગયું છે. આર્યવીર સહેવાગ અને અન્વય દ્રવિડ, બંનેને સપ્ટેમ્બર 2026મા ઓસ્ટ્રેલિયા વિરુદ્ધ રમાનારી એકદિવસીય સિરીઝ માટે ભારતની અન્ડર-19 ટીમમાં સામેલ કરવામાં આવ્યા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/india-u19-squad-announced-for-australia-series-rahul-dravid-and-virender-sehwags-sons-included-489075 ",
-    "time": "2026-08-27T07:11:04.000Z"
   },
   {
     "cat": "Entertainment",
@@ -610,14 +619,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/the-iphone-stubbornness-destroyed-the-entire-family-why-is-there-such-a-craze-among-people-488586 ",
     "time": "2026-08-23T09:38:35.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ચોમાસામાં કેટલું હોવું જોઈએ કારના ટાયરનું પ્રેશર? જાણો સાચો જવાબ અને ધ્યાન રાખવા જેવી બાબત",
-    "desc": "વરસાદની ઋતુમાં સેફ ડ્રાઇવિંગ માટે યોગ્ય ટાયર પ્રેશર જાળવવું ખૂબ જ મહત્વપૂર્ણ છે. વધુ પડતા અને ઓછા ફૂલેલા ટાયર તમારી કારની પકડ, બ્રેકિંગ અને બેલેન્સને અસર કરી શકે છે. ઉત્પાદક દ્વારા ભલામણ કરાયેલ ટાયર પ્રેશરને વળગી રહો અને નિયમિતપણે તમારા ટાયર ગ્રિપ અને ચલાવવાની રીતને ચેક કરો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/what-should-be-the-car-tire-pressure-during-monsoon-know-the-correct-answer-and-things-to-keep-in-mind-488478 ",
-    "time": "2026-08-22T11:49:59.000Z"
   }
 ];
