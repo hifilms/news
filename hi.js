@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Why is Hardik Pandya not picked for India's three-match T20I series vs Afghanistan?",
+    "desc": "Hardik Pandya’s planned return to India’s T20I side has suffered another setback after the all-rounder developed a leg niggle during his rehabilitation at the BCCI Centre of Excellence in Bengaluru. Pandya had been progressing well...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-hardik-pandya-not-picked-for-india-s-three-match-t20i-series-vs-afghanistan-2026-09-01-1052988",
+    "time": "2026-09-01T13:18:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ben Stokes signs for Adelaide Strikers, becomes most expensive overseas signing in BBL history",
+    "desc": "Ben Stokes is set to become one of the biggest overseas signings in Big Bash League history after agreeing to join Adelaide Strikers for the 2026-27 season. The former England captain has made himself available...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ben-stokes-signs-for-adelaide-strikers-becomes-most-expensive-overseas-signing-in-bbl-history-2026-09-01-1052981",
+    "time": "2026-09-01T12:32:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India announce squad for Afghanistan series; Sanju Samson finds spot while Hardik Pandya misses out",
+    "desc": "India have announced a 15-member squad for the upcoming three-match T20I series against Afghanistan at the Arun Jaitley Stadium in New Delhi. Keeper-batter Sanju Samson, who was dropped from the Zimbabwe tour, made his return,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-announce-squad-for-afghanistan-series-sanju-samson-finds-spot-while-hardik-pandya-misses-out-2026-09-01-1052977",
+    "time": "2026-09-01T12:11:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Misbah-ul-Haq resigns as Pakistan selector after squad drama amid England Test tour",
+    "desc": "Misbah-ul-Haq has offered to resign from Pakistan’s national selection committee following the Pakistan Cricket Board’s sweeping changes to the Test set-up during the ongoing England tour. However, PCB has not yet accepted Misbah’s resignation. Meanwhile,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/misbah-ul-haq-resigns-as-pakistan-selector-after-squad-drama-amid-england-test-tour-2026-09-01-1052961",
+    "time": "2026-09-01T10:45:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Glenn Phillips grabs one-handed stunner in CPL, shocks himself too with the effort",
+    "desc": "Glenn Phillips produced a stunning one-handed catch to dismiss Sunil Narine as Guyana Amazon Warriors defeated Trinidad & Tobago Knight Riders by nine runs in a rain-affected Caribbean Premier League match. The incident happened in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/glenn-phillips-grabs-one-handed-stunner-in-cpl-shocks-himself-too-with-the-effort-watch-2026-09-01-1052952",
+    "time": "2026-09-01T09:49:18.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Kieron Pollard, Dwayne Bravo and Sunil Narine honoured with renamed stand at Queen's Park Oval",
     "desc": "Queen’s Park Cricket Club has renamed a stand at the Queen’s Park Oval after Kieron Pollard, Dwayne Bravo, and Sunil Narine. The ceremony took place on August 31 as Trinidad and Tobago marked its 64th...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/lionel-messi-legendry-argentinian-footballer-announces-retirement-form-international-football-reactions-latest-updates-2026-08-31-1052896",
     "time": "2026-08-31T15:13:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'It's been a horrible feeling': Novak Djokovic opens up after heartbreaking first round exit from US Open 2026",
-    "desc": "The US Open 2026 kicked off in full swing; some of the biggest tennis players in the world took centre stage and got off to a great start to their respective campaigns. However, it was...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/it-s-been-a-horrible-feeling-novak-djokovic-opens-up-after-heartbreaking-first-round-exit-from-us-open-2026-2026-08-31-1052887",
-    "time": "2026-08-31T13:14:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Has Enzo Fernandez already played his last game for Chelsea amid transfer rumours? Head coach reveals",
-    "desc": "Chelsea has gotten off to a stellar start to their Premier League campaign. Under new head coach Xabi Alonso, the side has managed to win both of their matches and sit in third place in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/has-enzo-fernandez-already-played-his-last-game-for-chelsea-amid-transfer-rumours-head-coach-reveals-2026-08-31-1052881",
-    "time": "2026-08-31T12:15:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "WTC updated points table after England register dominant win over Pakistan in London to clinch series",
-    "desc": "England and Pakistan took on each other in the second Test of the ongoing series between the two. The teams met at Lord’s Cricket Ground in London for the clash, and it was England who...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/wtc-updated-points-table-after-england-register-dominant-win-over-pakistan-in-london-to-clinch-series-2026-08-31-1052873",
-    "time": "2026-08-31T11:04:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Joe Root surpasses Andrew Strauss in elite list after Test series victory against Pakistan",
-    "desc": "England performed brilliantly against Pakistan in the second Test of the ongoing three-game series between the two sides. It is worth noting that after a win in the first Test, England took on Pakistan in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/joe-root-surpasses-andrew-strauss-in-elite-list-after-test-series-victory-against-pakistan-2026-08-31-1052864",
-    "time": "2026-08-31T09:47:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Novak Djokovic breaks down in tears after suffering first round exit at the US Open 2026",
-    "desc": "The US Open 2026 kicked off, and the first round already caught the attention of many. The first round of the tournament saw veteran tennis legend Novak Djokovic take centre stage and be eliminated right...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/novak-djokovic-breaks-down-in-tears-after-suffering-first-round-exit-at-the-us-open-2026-2026-08-31-1052859",
-    "time": "2026-08-31T09:02:27.000Z"
   }
 ];
