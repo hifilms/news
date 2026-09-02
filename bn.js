@@ -1,8 +1,44 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "ভুলেও ধরবেন না, খাবেন না! নেপালের বন্যায় বয়ে আসা মাছে মারাত্মক বিপদ, সতর্কতা জারি সরকারের",
+    "desc": "নেপালের ত্রিশূলী নদীর প্লাবিত জল গণ্ডক এবং কোশী নদীর মাধ্যমে হু হু করে ঢুকছে ভারতের বিহার রাজ্যে। আর এই বানের জলের সঙ্গেই সীমান্ত পেরিয়ে বিহারে ভেসে আসছে বিভিন্ন অজানা প্রজাতির মাছ। ব্যাকটেরিয়া ও ভাইরাসের সংক্রমণের মারাত্মক ঝুঁকি সেইসব মাছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/do-not-eat-fish-caught-from-nepal-floodwaters-bihar-on-high-alert_669309.html ",
+    "time": "2026-09-02T12:48:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "স্কুলের ৩ তলা থেকে ঝাঁপ ছাত্রীর! মৃত্যুর আগে দু'ঘণ্টা প্রিন্সিপালের ঘরে কী করছিল জানভী? বিস্ফোরক CCTV ফুটেজ",
+    "desc": "এরপর সিসিটিভি ফুটেজে তাকে ভাইস প্রিন্সিপালের ঘরে দুই ঘণ্টা আটকে থাকতে দেখা যায়। ঘর থেকে বের হয়েই সে স্কুলের তিন তলা থেকে লাফিয়ে পড়ে এবং মারা যায়। পরিবার স্কুলের বিরুদ্ধে তথ্য গোপন ও কড়া নির্যাতনের অভিযোগ তুলে সঠিক তদন্তের দাবি জানিয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/faridabad-school-girl-dies-at-school-father-questions-2-hour-punishment-inside-vice-principals-room_669290.html ",
+    "time": "2026-09-02T12:03:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "মুসলিম রীতিতে বিয়ের দাবি, তবু মিলল না রেহাই! ১৭-র কিশোরীকে ধর্ষণ মামলায় হাইকোর্টের বড় পর্যবেক্ষণ",
+    "desc": "মুসলিম রীতি মেনে ১৭ বছরের কিশোরীকে বিয়ে করেছিলেন, তাই ধর্ষণ ও POCSO মামলা খারিজ করা হোক—অভিযুক্তের এই দাবি মানল না কেরল হাই কোর্ট। আদালত স্পষ্ট করেছে, ১৮ বছরের কম বয়সী হলে বৈবাহিক সম্পর্ক থাকলেও POCSO প্রযোজ্য।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/kerala-high-court-pocso-minor-wife-muslim-marriage-rape-case_669223.html ",
+    "time": "2026-09-02T09:03:55.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "‘আজ হবে, কাল হবে, আর কত?’ ৬ দিন ধরে নেপাল সুড়ঙ্গে বাঁচার লড়াই ৪০ শ্রমিকের, উদ্ধারে ক্ষোভ-হতাশা পরিবারের",
+    "desc": "ছ’দিন কেটে গিয়েছে। তবু সুড়ঙ্গের ভিতরে আটকে থাকা ৪০ জনের কোনও নিশ্চিত খবর নেই। তাঁরা কি এখনও জীবিত? নাকি সময়ের সঙ্গে কমছে তাঁদের বাঁচার সম্ভাবনা? উদ্ধারকাজের গতি নিয়ে প্রশ্ন তুলছেন পরিবারের সদস্যরা। নেপালের ট্রিশুলি-৩এ প্রকল্পে আটকে থাকা শ্রমিকদের ঘিরে এখন বাড়ছে উদ্বেগ ও উৎকণ্ঠা।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/nepal-flood-40-trapped-trishuli-3a-rescue-delay-families-protest_669202.html ",
+    "time": "2026-09-02T07:39:41.000Z"
+  },
+  {
     "cat": "Entertainment",
-    "title": "বিগ বসের দরজায় জিতু কমল? ‘জিতলে ৭৫ শতাংশ…’ , রহস্য বাড়ালেন অভিনেতা নিজেই",
-    "desc": "সৌরভ গঙ্গোপাধ্যায়ের সঞ্চালনায় শুরু হয়েছে ‘বিগ বস বাংলা ৩’। এর মধ্যেই নতুন প্রতিযোগী হিসেবে জিতু কমলের নাম নিয়ে জোর জল্পনা। একাধিক সিনেমার শ্যুটিং শেষ করার পর অভিনেতার একটি সোশ্যাল মিডিয়া পোস্ট সেই জল্পনাকে আরও বাড়িয়ে দিয়েছে। তবে বিগ বসে তাঁর প্রবেশের বিষয়ে এখনও আনুষ্ঠানিক ঘোষণা হয়নি।",
+    "title": "বিগ বসের দরজায় জীতু কমল? ‘জিতলে ৭৫ শতাংশ…’ , রহস্য বাড়ালেন অভিনেতা নিজেই",
+    "desc": "সৌরভ গঙ্গোপাধ্যায়ের সঞ্চালনায় শুরু হয়েছে ‘বিগ বস বাংলা ৩’। এর মধ্যেই নতুন প্রতিযোগী হিসেবে জীতু কমলের নাম নিয়ে জোর জল্পনা। একাধিক সিনেমার শ্যুটিং শেষ করার পর অভিনেতার একটি সোশ্যাল মিডিয়া পোস্ট সেই জল্পনাকে আরও বাড়িয়ে দিয়েছে। তবে বিগ বসে তাঁর প্রবেশের বিষয়ে এখনও আনুষ্ঠানিক ঘোষণা হয়নি।",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/jeetu-kamal-bigg-boss-bangla-sourav-ganguly-new-contestant_669191.html ",
@@ -108,15 +144,6 @@ const newsData_bn = [
     "time": "2026-09-01T09:20:57.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "মৃত্যুপুরী নেপাল থেকে ভেসে এল ২১ দেহ, চেনা দায়... আশঙ্কা আরও আরও আসবে!",
-    "desc": "প্রশাসনের আশঙ্কা, আগামী দিনে নদীর জল কমলে আরও দেহ ভেসে উঠতে পারে। উদ্ধার হওয়া বেশ কয়েকটি দেহ এতটাই পচে গিয়েছে যে এখনও তাঁদের পরিচয় জানা সম্ভব হয়নি। নেপাল কর্তৃপক্ষের সঙ্গে যোগাযোগ করে দেহগুলির পরিচয় ও সেগুলি দেশে ফেরানোর চেষ্টা চলছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/nepal-flood-bodies-floated-down-river-uttar-pradesh-21-bodies-recovered_669019.html ",
-    "time": "2026-09-01T07:08:50.000Z"
-  },
-  {
     "cat": "World",
     "title": "দশকের অপেক্ষার অবসান? নথি না থাকলেও দেশে ফিরবেন শরণার্থীরা, বিশেষ ব্যবস্থা শ্রীলঙ্কার",
     "desc": "ভারতে থাকা শ্রীলঙ্কার শরণার্থীদের স্বেচ্ছায় দেশে ফেরার পথ সহজ করতে নতুন সিদ্ধান্ত নিয়েছে শ্রীলঙ্কা সরকার। বৈধ পাসপোর্ট না থাকলেও পরিচয় ও নিরাপত্তা যাচাইয়ের পর অস্থায়ী পাসপোর্ট দেওয়া হবে। তামিলনাড়ুতে থাকা প্রায় ৯০ হাজার শরণার্থীর মধ্যে যাঁরা ফিরতে চান, তাঁদের এই ব্যবস্থায় দেশে ফেরার সুযোগ তৈরি হবে।",
@@ -142,24 +169,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/bigg-boss-bangla-sohini-paul-tapas-paul-sourav-ganguly-premiere_668956.html ",
     "time": "2026-08-31T15:28:53.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'আপনারা ধরে নিচ্ছেন কেন আগে থেকে যে, খারাপ কিছু হবেই': ককরোচদের বিক্ষোভ দেখানোর অধিকার অবশ্যই আছে, সুপ্রিম কোর্টের ঐতিহাসিক সিদ্ধান্ত",
-    "desc": "‘ককরোচ জনতা পার্টি’ বিভিন্ন সামাজিক, রাজনৈতিক অসঙ্গতি ও নীতিগত সিদ্ধান্তের বিরুদ্ধে ব্যঙ্গাত্মক ভঙ্গিতে অভিনব প্রচার ও বিক্ষোভ কর্মসূচি আয়োজনের জন্য পরিচিত। সংগঠনের পক্ষ থেকে ৫ সেপ্টেম্বর দেশজুড়ে একটি প্রতীকী প্রতিবাদ ও জমায়েতের ডাক দেওয়া হয়েছিল। এই ডাক ঘিরেই আপত্তি তুলে শীর্ষ আদালতে জনস্বার্থ মামলা দায়ের করা হয়।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/supreme-court-issues-notice-on-plea-against-cjp-protest-in-lutyens-delhi-leaves-law-and-order-to-police_668930.html ",
-    "time": "2026-08-31T14:03:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "খেলা ঘুরল ১৮০ ডিগ্রি: যন্তর মন্তরে আন্দোলনকারীদের বিরুদ্ধে করা সব FIR খারিজ করতেই হবে, সুপ্রিম কোর্টকে চাপ কেন্দ্রের",
-    "desc": "প্রধান বিচারপতি যখন জানতে চান বিষয়টি কী সংক্রান্ত এবং এর জরুরি গুরুত্ব কোথায়, তখন সলিসিটর জেনারেল জানান যে এটি প্রশ্নফাঁস বিরোধী ছাত্র আন্দোলনের সঙ্গে জড়িত এবং ছাত্র-ছাত্রীদের বিরুদ্ধে দায়ের করা এফআইআরগুলো অবিলম্বে খারিজ করার জন্য কেন্দ্র আবেদন জানাচ্ছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/relief-for-students-centre-urges-supreme-court-to-invoke-article-142-and-wipe-out-firs-over-exam-protests_668926.html ",
-    "time": "2026-08-31T13:20:19.000Z"
   },
   {
     "cat": "World",
@@ -196,15 +205,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/bangladesh-mecca-joint-defence-pact-saudi-pakistan-turkey_668851.html ",
     "time": "2026-08-31T03:23:19.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "ভয়ংকর প্লাবনের ধ্বংসস্তূপের নীচে ঘণ্টার পর ঘণ্টা, তবু বেঁচে ফিরলেন ৯৭ বছরের বৃদ্ধা! নেপালে মিরাকল",
-    "desc": "গুন মায়া বোহারা একটি বৃদ্ধাশ্রমে ছিলেন। নেপালের রসুয়ায় বন্যাকাদার ঢলে গুণ মায়া বোহারা যে বৃদ্ধাশ্রমে ছিলেন, সেটি ধসে পড়ে। তিনি কাদা ও ধ্বংসস্তূপের নীচে প্রায় ২৪ ঘণ্টা আটকে ছিলেন। নেপাল সেনাবাহিনী ও পুলিসের চার ঘণ্টার একটানা উদ্ধার-অভিযানে তাঁকে জীবিত উদ্ধার করা সম্ভব হয়।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/guna-maya-bohara-97-year-old-emerged-from-rubble-like-a-warrior-became-face-of-nepal-floods_668787.html ",
-    "time": "2026-08-30T09:23:13.000Z"
   },
   {
     "cat": "Sports",
@@ -295,24 +295,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/aruna-irani-kuku-kohli-love-story-secret-marriage-affair-statement_668292.html ",
     "time": "2026-08-26T12:50:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "বিয়ে-বিচ্ছেদের পরেই বদল! বলিউড ছেড়ে এ কোন দুনিয়ায় পা! ২৩ বছর পর খবরে Raaz অভিনেত্রী",
-    "desc": "‘রাজ’ ছবিতে নজর কেড়েছিলেন মালিনী শর্মা। এরপর ধীরে ধীরে বলিউড থেকে দূরে সরে যান তিনি। অভিনেতা প্রিয়াংশু চট্টোপাধ্যায়ের সঙ্গে বিয়ে ও বিচ্ছেদের পর আরও আড়ালে চলে যান। এখন নিজের হাতে সবজি ফলান, অতিথিদের রান্না করে খাওয়ান এবং প্রকৃতির কাছেই শান্ত জীবন কাটাচ্ছেন। কোথায় থাকেন তিনি?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/malini-sharma-raaz-bollywood-quit-farmstay-sahyadri-life_668174.html ",
-    "time": "2026-08-25T12:29:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "১ রাজ্য ভেঙে ৩ রঞ্জি টিম! একের বদলে তিন অ্যাসোসিয়েশনও, ২৫০ Gen Z ক্রিকেটারের বিক্ষোভে অগ্নিগর্ভ আইকনিক স্টেডিয়াম",
-    "desc": "উত্তর প্রদেশে তিনটি রঞ্জি ট্রফি দল গঠনের দাবিতে লখনউয়ের একানা স্টেডিয়ামে প্রায় ২৫০ জন Gen Z ক্রিকেটার ও তাঁদের অভিভাবকরা বিক্ষোভ দেখালেন। আন্দোলনকারীদের যুক্তি- রাজ্যের বিশাল আয়তন ও জনসংখ্যার তুলনায় একটি মাত্র দল পর্যাপ্ত নয়। এর ফলে তরুণ খেলোয়াড়দের পর্যাপ্ত সুযোগ করে দেওয়া সম্ভব হচ্ছে না।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/sports/250-gen-z-cricketers-want-3-ranji-teams-from-uttar-pradesh_668160.html ",
-    "time": "2026-08-25T08:43:45.000Z"
   },
   {
     "cat": "Business",

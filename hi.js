@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Charith Asalanka, former captain, announced as new Sri Lanka white-ball vice-captain as England squad unveiled",
+    "desc": "After being axed as ODI captain only three months ago and sidelined from T20Is six months back, Sri Lanka have appointed Charith Asalanka as the new white-ball vice-captain for the series against England. Kusal Mendis...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/charith-asalanka-former-captain-announced-as-new-sri-lanka-white-ball-vice-captain-as-england-squad-unveiled-2026-09-02-1053075",
+    "time": "2026-09-02T11:23:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Tilak Varma's South Zone beats North Zone to seal spot in Duleep Trophy final against East",
+    "desc": "Tilak Varma's unbeaten half-century carried South Zone into the Duleep Trophy final after they chased down North Zone's target of 181 runs at BCCI’s Centre of Excellence. The captain led by example, scoring 116 not...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/tilak-varma-s-south-zone-beats-north-zone-to-seal-spot-in-duleep-trophy-final-against-east-2026-09-02-1053066",
+    "time": "2026-09-02T10:36:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ollie Robinson gains big in latest ICC rankings, Dewald Brevis moves to top 4 in T20Is",
+    "desc": "Ollie Robinson has climbed to fifth in the latest men's Test bowling rankings after a strong run for England against Pakistan in the ongoing three-match Test series. In T20Is, South Africa's Dewald Brevis has moved...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ollie-robinson-gains-big-in-latest-icc-rankings-dewald-brevis-moves-to-top-4-in-t20is-2026-09-02-1053057",
+    "time": "2026-09-02T09:30:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Premier League clubs break all-time transfer fee record by spending over Rs 38,000 cr in summer",
+    "desc": "Premier League clubs have set a new summer transfer record after spending £3.46bn (Rs 38,041.66 crore), taking their expenditure well beyond the previous high of £3.14bn recorded 12 months ago. The new mark was reached...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/premier-league-clubs-break-all-time-transfer-fee-record-by-spending-over-rs-38-000-cr-in-summer-2026-09-02-1053051",
+    "time": "2026-09-02T08:30:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lakshya Sen suffers another early exit, knocked out of opening round of China Masters; Kidambi progresses",
+    "desc": "Lakshya Sen's difficult run continued at the China Masters in Shenzhen as the Indian was eliminated in the opening round by Canada's Victor Lai on Wednesday. The 2021 World Championships bronze medallist never recovered after...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/lakshya-sen-suffers-another-early-exit-knocked-out-of-opening-round-of-china-masters-kidambi-srikanth-progresses-2026-09-02-1053046",
+    "time": "2026-09-02T07:51:19.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "BCCI calls for review meeting after India's disappointing Ireland, England tour",
     "desc": "The Board of Control for Cricket in India (BCCI) officials will hold a key meeting with India head coach, chief selector Ajit Agarkar and Centre of Excellence head VVS Laxman in Mumbai on Thursday to...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/why-is-hardik-pandya-not-picked-for-india-s-three-match-t20i-series-vs-afghanistan-2026-09-01-1052988",
     "time": "2026-09-01T13:18:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ben Stokes signs for Adelaide Strikers, becomes most expensive overseas signing in BBL history",
-    "desc": "Ben Stokes is set to become one of the biggest overseas signings in Big Bash League history after agreeing to join Adelaide Strikers for the 2026-27 season. The former England captain has made himself available...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ben-stokes-signs-for-adelaide-strikers-becomes-most-expensive-overseas-signing-in-bbl-history-2026-09-01-1052981",
-    "time": "2026-09-01T12:32:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India announce squad for Afghanistan series; Sanju Samson finds spot while Hardik Pandya misses out",
-    "desc": "India have announced a 15-member squad for the upcoming three-match T20I series against Afghanistan at the Arun Jaitley Stadium in New Delhi. Keeper-batter Sanju Samson, who was dropped from the Zimbabwe tour, made his return,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-announce-squad-for-afghanistan-series-sanju-samson-finds-spot-while-hardik-pandya-misses-out-2026-09-01-1052977",
-    "time": "2026-09-01T12:11:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Misbah-ul-Haq resigns as Pakistan selector after squad drama amid England Test tour",
-    "desc": "Misbah-ul-Haq has offered to resign from Pakistan’s national selection committee following the Pakistan Cricket Board’s sweeping changes to the Test set-up during the ongoing England tour. However, PCB has not yet accepted Misbah’s resignation. Meanwhile,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/misbah-ul-haq-resigns-as-pakistan-selector-after-squad-drama-amid-england-test-tour-2026-09-01-1052961",
-    "time": "2026-09-01T10:45:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Glenn Phillips grabs one-handed stunner in CPL, shocks himself too with the effort",
-    "desc": "Glenn Phillips produced a stunning one-handed catch to dismiss Sunil Narine as Guyana Amazon Warriors defeated Trinidad & Tobago Knight Riders by nine runs in a rain-affected Caribbean Premier League match. The incident happened in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/glenn-phillips-grabs-one-handed-stunner-in-cpl-shocks-himself-too-with-the-effort-watch-2026-09-01-1052952",
-    "time": "2026-09-01T09:49:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kieron Pollard, Dwayne Bravo and Sunil Narine honoured with renamed stand at Queen's Park Oval",
-    "desc": "Queen’s Park Cricket Club has renamed a stand at the Queen’s Park Oval after Kieron Pollard, Dwayne Bravo, and Sunil Narine. The ceremony took place on August 31 as Trinidad and Tobago marked its 64th...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kieron-pollard-dwayne-bravo-and-sunil-narine-honoured-with-renamed-stand-at-queen-s-park-oval-2026-09-01-1052935",
-    "time": "2026-09-01T07:58:03.000Z"
   }
 ];
