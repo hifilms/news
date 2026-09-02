@@ -1,6 +1,51 @@
 const newsData_bn = [
   {
     "cat": "Entertainment",
+    "title": "বিগ বসের দরজায় জিতু কমল? ‘জিতলে ৭৫ শতাংশ…’ , রহস্য বাড়ালেন অভিনেতা নিজেই",
+    "desc": "সৌরভ গঙ্গোপাধ্যায়ের সঞ্চালনায় শুরু হয়েছে ‘বিগ বস বাংলা ৩’। এর মধ্যেই নতুন প্রতিযোগী হিসেবে জিতু কমলের নাম নিয়ে জোর জল্পনা। একাধিক সিনেমার শ্যুটিং শেষ করার পর অভিনেতার একটি সোশ্যাল মিডিয়া পোস্ট সেই জল্পনাকে আরও বাড়িয়ে দিয়েছে। তবে বিগ বসে তাঁর প্রবেশের বিষয়ে এখনও আনুষ্ঠানিক ঘোষণা হয়নি।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/jeetu-kamal-bigg-boss-bangla-sourav-ganguly-new-contestant_669191.html ",
+    "time": "2026-09-02T07:08:31.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "টানা ৪ ঘণ্টা রোদ দাঁড়ানোর শাস্তি, স্কুলের ৩ তলা থেকে ঝাঁপ একাদশ শ্রেণির ছাত্রীর",
+    "desc": "পরিবারের অভিযোগ, ক্লাসরুমে বিরিয়ানি খাওয়া নিয়ে এক ঘটনার জেরে শিক্ষক তাকে রোদে চার ঘণ্টা দাঁড় করিয়ে রাখেন। এই অপমান ও শাস্তির কষ্ট সহ্য করতে না পেরে সে চরম সিদ্ধান্ত নেয়। তবে স্কুল কর্তৃপক্ষ শাস্তির বিষয়টি অস্বীকার করেছে",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/faridabad-school-death-case-class-11-student-dies-after-alleged-4-hour-punishment_669190.html ",
+    "time": "2026-09-02T06:53:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "জয়িতা ডাগআউটে যেতেই ভেঙে পড়লেন নিরঞ্জন! ঝিলমকে জড়িয়ে কান্না, কীসের ভয় ‘লাফটারসেন’-এর?",
+    "desc": "বিগ বস বাংলার ঘরে এবার আবেগপ্রবণ হয়ে পড়লেন নিরঞ্জন মণ্ডল। জয়িতা ডাগআউটে যাওয়ার পর মন খারাপ হয়ে যায় তাঁর। একসময় ঝিলম গুপ্তের সামনে নিজের মনের কথা বলতে গিয়ে কান্নায় ভেঙে পড়েন নিরঞ্জন। বিগ বসের খেলায় কাছের মানুষদেরই একদিন প্রতিদ্বন্দ্বী হিসেবে দেখতে হতে পারে—এই ভাবনাই তাঁকে কষ্ট দিচ্ছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/bigg-boss-bangla-niranjan-mandal-emotional-breakdown-jayita-dugout-jhilam_669187.html ",
+    "time": "2026-09-02T06:07:57.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "তিস্তা চিনের হাতে, আকাশে চিনা যুদ্ধবিমান! ফেরার আগে বাংলাদেশকে নিয়ে বিস্ফোরক হাসিনা",
+    "desc": "বাংলাদেশের প্রাক্তন প্রধানমন্ত্রী শেখ হাসিনা জানিয়েছেন, ক্ষমতায় ফেরার জন্য নয়, দেশের মানুষের পাশে দাঁড়াতেই বাংলাদেশে ফিরতে চান তিনি। তাঁর দাবি, বাংলাদেশে গণতন্ত্র, ধর্মনিরপেক্ষতা ও স্থিতিশীলতা ফেরানো জরুরি। তিনি আরও বলেন, একটি স্থিতিশীল বাংলাদেশ শুধু সে দেশের জন্য নয়, ভারত ও গোটা দক্ষিণ এশিয়ার নিরাপত্তার জন্যও গুরুত্বপূর্ণ।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/sheikh-hasina-return-bangladesh-india-extradition-tarique-rahman_669182.html ",
+    "time": "2026-09-02T05:07:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "লাইক, ভিউয়ের লোভে শিকেয় পবিত্রতা! রাজ্যের একাধিক মন্দিরে জারি কড়া নির্দেশিকা",
+    "desc": "৫ টাকা ফি দিয়ে কাউন্টারে স্মার্টফোন জমা রেখে টোকেন নিতে হবে। তবে ক্যামেরা ছাড়া সাধারণ বোতাম ফোন ব্যবহারে ছাড় দেওয়া হয়েছে। দামি ফোন জমা রাখা এবং দীর্ঘ লাইনে দাঁড়ানো নিয়ে ভক্তদের মধ্যে মিশ্র প্রতিক্রিয়া দেখা গিয়েছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/tamil-nadu-temple-smartphone-ban-rules-52-temples-on-list_669181.html ",
+    "time": "2026-09-02T04:52:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "ফাঁস হল দশকের সেরা রহস্য: ‘বিগ বস বাংলা’র গম্ভীর কণ্ঠের পেছনের আসল মুখ প্রকাশ্যে",
     "desc": "মেঘের আড়াল থেকে ভেসে আসা সেই গুরুগম্ভীর কণ্ঠস্বরটি আসলে কার? বছরের পর বছর ধরে আটকে থাকা সবচেয়ে বড় রহস্যের জট খুলল! ‘বিগ বস বাংলা’র প্রথম ও দ্বিতীয় সিজনের আসল মুখ নিজেই প্রকাশ্যে এলেন। তবে ৩য় সিজনে কেন তিনি নেই?",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -126,24 +171,6 @@ const newsData_bn = [
     "time": "2026-08-31T11:36:32.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "মারাত্মক আপডেট: রাহুল গান্ধীর সব সম্ভাবনা খতম, শেষে অখিলেশই মারলেন ছুরি? ভোটের আগেই ইন্ডিয়া জোটের ইতি?",
-    "desc": "Rahul Gandhi Akhilesh Yadav alliance is coming to an end? আম্বেদকর নগরে এক কর্মসূচিতে বক্তব্য রাখতে গিয়ে এবং পরবর্তীতে সমাজমাধ্যমে দেওয়া মন্তব্যে ওম প্রকাশ রাজভর দাবি করেন, সাম্প্রতিক সময়ে দুই নেতার শারীরিক ভাষা ও পারস্পরিক বিবৃতি থেকে স্পষ্ট যে তাঁদের মধ্যে বড় দূরত্ব তৈরি হয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/up-politics-sbsp-chief-op-rajbhar-claims-rift-in-sp-congress-alliance-before-2027-assembly-elections_668888.html ",
-    "time": "2026-08-31T08:55:10.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "কারগিলে মেঘের সার্জিক্যাল স্ট্রাইক! ভয়ংকর ক্লাউডবার্স্টে আকস্মিক ভয়াল হড়পাবন্যা; কাদাপাথরেরর মারণ স্রোতে প্রলয়",
-    "desc": "নেপালে বিধ্বংসী আকস্মিক বন্যা আঘাত হানার কয়েকদিন পরেই কার্গিলে। নেপালে-চিন সীমান্তের কাছে এক হিমবাহ ধসের ফলে ভোটেকোশী ও ত্রিশূলী নদীতে জল ও আবর্জনার বিশাল স্রোত বয়ে যায়। নেপালের ন্যাশনাল ডিজাস্টার ম্যানেজমেন্ট সর্বশেষ তথ্যে জানিয়েছে, এই দুর্যোগে নেপালে অন্তত ৯০৩ জনের মৃত্যু ঘটেছে, ২৫০০ জন এখনও নিখোঁজ।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/cloudburst-triggers-flash-flood-in-kargil-mud-and-boulders-sweep-through-stream_668884.html ",
-    "time": "2026-08-31T08:01:26.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "জেনে-বুঝেই যাননি! বিগ বসে যাওয়ার সুযোগ পেয়েও কেন পিছিয়ে গেলেন দেবলীনা?",
     "desc": "বিগ বস বাংলার ঘরে দেবলীনা নন্দীকে দেখা যাবে—এমন জল্পনা ছিল। কিন্তু শেষ পর্যন্ত সেই জল্পনা সত্যি হয়নি। শো শুরু হতেই ফেসবুকে নিজের অবস্থান স্পষ্ট করলেন গায়িকা। দেবলীনা জানালেন, প্রচার বা টাকা-পয়সার চেয়ে তাঁর কাছে মানসিক ও শারীরিক সুস্থতা বেশি গুরুত্বপূর্ণ। তাই জেনে-বুঝেই বিগ বসে যাননি তিনি।",
@@ -178,15 +205,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/guna-maya-bohara-97-year-old-emerged-from-rubble-like-a-warrior-became-face-of-nepal-floods_668787.html ",
     "time": "2026-08-30T09:23:13.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "লাশের এ-ভয়াল সুনামি কীভাবে রোধ করবে নেপাল? বাধ্য হয়ে দেহ সমাহিত করছে তারা! ভবিষ্যতে কীভাবে খোঁজ মিলবে?",
-    "desc": "নেপাল ফ্ল্যাশফ্লাড কাণ্ডে প্রাপ্ত অশনাক্ত দেহগুলি সমাহিত করতে বাধ্য হচ্ছে। এত দেহ রাখার জায়গা নেই তাদের। তবে, তারা এমন ব্যবস্থা করে রাখছে যাতে পরে এই অশনাক্ত দেহ শনাক্ত করা সম্ভব হয়। কীভাবে? নেপালে এক ভয়াবহ আকস্মিক বন্যায় বিধ্বস্ত হয়ে গিয়েছে?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/world/nepal-burying-unidentified-flood-victims-but-collecting-dna-samples-from-bodies-and-keeping-records-of-identification-numbers_668767.html ",
-    "time": "2026-08-30T05:52:01.000Z"
   },
   {
     "cat": "Sports",
@@ -286,15 +304,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/malini-sharma-raaz-bollywood-quit-farmstay-sahyadri-life_668174.html ",
     "time": "2026-08-25T12:29:01.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ধর্ম পরিবর্তনের চাপ? বিচ্ছেদের নেপথ্যে ধর্ম? হিমাংশীর অভিযোগে তোলপাড়! পাল্টা জবাব রিয়াজের",
-    "desc": "হিমাংশী খুরানার ধর্ম পরিবর্তনের চাপ সংক্রান্ত মন্তব্যের পর মুখ খুললেন তাঁর প্রাক্তন প্রেমিক অসীম রিয়াজ। অভিনেত্রীর অভিযোগ অস্বীকার করে অসীমের দাবি, তিনি কখনও হিমাংশীকে ধর্ম পরিবর্তন করতে বলেননি। ধর্মের মতো স্পর্শকাতর বিষয়কে তাঁকে হেয় করার জন্য ব্যবহার না করারও অনুরোধ করেছেন তিনি।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/asim-riaz-himanshi-khurana-religion-conversion-controversy_668171.html ",
-    "time": "2026-08-25T11:28:01.000Z"
   },
   {
     "cat": "Sports",

@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "અભિજીત દીપકેએ ખોલી આખી પોલ! AAP માટે કામ કરવાની વાત સ્વીકારી, શેર કરી ડિટેલ",
+    "desc": "જૂન અને જુલાઈમાં રાજધાની દિલ્હીમાં પેપર લીક સામે થયેલા વિરોધ પ્રદર્શનો પછી અભિજીત દિપકેના આમ આદમી પાર્ટી સાથેના સંબંધો ખૂબ જ ચર્ચામાં છે. હવે, તેમણે ખુલ્લેઆમ કહ્યું છે કે તેઓ પાર્ટી સાથે કામ કરતા હતા. ત્યારબાદ તેઓ અભ્યાસ માટે અમેરિકા ગયા હતા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/abhijeet-deepke-has-opened-up-the-whole-world-he-accepted-to-work-for-aap-shared-details-489802 ",
+    "time": "2026-09-02T06:46:42.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "આ શું? નેપાળે ભારત સહિત આ દેશો પર ફોડ્યું પૂરનું ઠીકરું, વળતરની માંગણી કરી નાખી",
+    "desc": "નેપાળમાં હાલમાં આવેલા વિનાશક પૂરે ભારે તબાહી મચાવી છે. જળપ્રલયના કારણે 1000થી વધુ લોકોના મોત થયા છે અને 4000થી વધુ લોકો ગૂમ છે. આ બધા વચ્ચે નેપાળે હવે કેટલાક દેશો પાસે જળવાયુ વળતરની માંગણી કરી નાખી છે જેમાં ભારત પણ સામેલ છે. જાણો વિગતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/nepal-wants-climate-compensation-from-india-china-us-for-deadly-flood-greenhouse-gas-emission-489801 ",
+    "time": "2026-09-02T06:39:28.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સરકારી કર્મચારીઓ માટે મોટો ધમાકો! 18,000 બેઝિક સેલરી થઈ શકે 72,000, જાણો આખું ગણિત",
+    "desc": "જો 8મા પગાર પંચ ફિટમેન્ટ ફેક્ટર 4.0ની ભલામણ કરે છે, તો 18,000 રૂપિયાનો મૂળ પગાર વધીને 72,000 રૂપિયા થશે. કઈ સંસ્થાએ 4ના ફિટમેન્ટ ફેક્ટરની સૌથી વધુ માંગ કરી છે અને તેણે કયા આધાર પર કામ કર્યું છે?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/big-bang-for-government-employees-basic-salary-of-18000-can-be-increased-to-72000-know-the-whole-math-489791 ",
+    "time": "2026-09-02T06:13:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "E20 પેટ્રોલથી એવરેજ ઘટે અથવા નુકસાન થાય... તો અહીં કરો ફરિયાદ, થશે તપાસ! મુખ્યમંત્રીની મોટી જાહેરાત",
+    "desc": "મુખ્યમંત્રી પ્રમોદ સાવંતે વિધાનસભામાં જણાવ્યું હતું કે E20 પેટ્રોલના કારણે માઇલેજ ઘટવા કે વાહનને નુકસાન થવા અંગે કોઈ સત્તાવાર ફરિયાદ મળી નથી. જો કે, જો કોઈ વાહન માલિકને E20 પેટ્રોલ અંગે કોઈ ચિંતા હોય, તો તેઓ નાગરિક પુરવઠા વિભાગમાં ફરિયાદ નોંધાવી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/if-the-average-decreases-or-is-damaged-due-to-e20-petrol-then-file-a-complaint-here-chief-ministers-big-announcement-489767 ",
+    "time": "2026-09-02T03:26:18.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "અપરા મેહતાની બદસુરતી વાળી વાત પર દર્શન જરીવાલાએ કર્યો ખુલાસો, કહ્યું અપરાએ પોતાને પીડિત ગણાવવા ખોટી વાત કરી",
+    "desc": "અભિનેત્રી અપરા મહેતાએ થોડા સમય પહેલા એક મુલાકાતમાં એવું કહ્યું હતું કે દર્શન જરીવાલાએ તેને તું કદરુપી છે, હું તને પ્રેમ નથી કરતો કહી છોડી દીધી હતી. આ વાત પર હવે એક્ટર દર્શન જરીવાલાએ પોતાનો પક્ષ રજૂ કર્યો છે. દર્શન જરીવાલાએ કહ્યું કે અપરા મહેતાએ જે વાત કરી તે ખોટી છે. સાથે જ તેણે ખુલાસો કર્યો કે તેણે શા માટે ઘર છોડ્યું અને શા માટે હજુ સુધી ડિવોર્સ નથી લીધા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/darshan-jariwala-said-apara-mehta-playing-victim-card-reveal-truth-about-separation-and-not-having-divorce-489760 ",
+    "time": "2026-09-02T02:41:56.000Z"
+  },
+  {
     "cat": "Business",
     "title": "બેંક યુનિયનોએ હડતાળની કરી જાહેરાત, જાણો સપ્ટેમ્બર-ઓક્ટોબરમાં ક્યારે બંધ રહેશે બેંકો",
     "desc": "યુનાઇટેડ ફોરમ ઓફ બેંક યુનિયન્સ (UFBU)એ 11 સપ્ટેમ્બરના રોજ બેંક હડતાળની જાહેરાત કરી છે. આ પછી 28થી 30 સપ્ટેમ્બર સુધી ત્રણ દિવસની હડતાળ કરવામાં આવશે અને જો તેમની માંગણીઓ પૂર્ણ નહીં થાય, તો બેંકો 26 ઓક્ટોબર, 2026થી અનિશ્ચિત સમય માટે હડતાળ કરશે.",
@@ -378,15 +423,6 @@ const newsData_gu = [
     "time": "2026-08-30T12:38:52.000Z"
   },
   {
-    "cat": "Business",
-    "title": "એક સાથે ચાલી રહી છે અનેક લોન? તો અપનાવો આ 5 સ્માર્ટ રીત, દેવું નહીં બગાડી શકે તમારું બજેટ",
-    "desc": "જો તમારી પાસે એક સાથે અનેક લોન અને ક્રેડિટ કાર્ડ ડ્યૂઝ છે, તો યોગ્ય રણનીતિ વગર EMI તમારી માસિક આવક પર ભારે પડી શકે છે. સૌથી પહેલા કુલ EMI અને દેવાનું આકલન કરો, પછી સૌથી વધુ વ્યાજવાળી લોનને પ્રાથમિકતા આપો. આવો અન્ય રીતો વિશે જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/are-you-running-multiple-loans-at-the-same-time-then-adopt-these-5-smart-ways-debt-cannot-ruin-your-budget-489448 ",
-    "time": "2026-08-30T11:48:50.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "&amp;#039;12 કલાક બહાર કામ કરો અને સાંજે જેલમાં પાછા ફરો&amp;#039;, કેદીઓ આત્મનિર્ભર બનાવવા આ રાજ્ય સરકારની નવી વ્યવસ્થા",
     "desc": "ઝારખંડ સરકાર જેલના કેદીઓ માટે એક નવી સિસ્ટમ લાવવાની તૈયારી કરી રહી છે. કેદીઓને રોજગારી સાથે જોડવા માટે આ વ્યવસ્થા કરવામાં આવી રહી છે. આ સિસ્ટમ અંતર્ગત સારા આચરણવાળા કેદીઓ સવારે 6 વાગ્યાથી સાંજ સુધી બહાર કામ કરી શકે છે, પરંતુ સાંજે તેમને જેલમાં પાછું ફરવું પડશે.",
@@ -403,15 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/team-india-probable-squad-for-t20-series-against-afghanistan-ind-vs-afg-489425 ",
     "time": "2026-08-30T09:43:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ભારતના 7 અતિ સુંદર સ્થળો, જ્યાં સામાન્ય લોકો માટે છે નો-એન્ટ્રી! ભૂલથી પણ જવાની ભૂલ ન કરતા",
-    "desc": "ભારતમાં ફરવા માટે અનેક જગ્યાઓ આવેલી છે, પરંતુ કેટલાક લોકેશન એવા પણ છે જ્યાં સામાન્ય વ્યક્તિ જઈ શકતો નથી. ક્યાંક દેશની સુરક્ષા મોટું કારણ છે તો કોઈ જગ્યા પર આદિવાસી સમુદાયો અને પર્યાવરણને બચાવવા માટે પ્રવેશ બંધ છે. આ જગ્યા પર જવા માટે ખાસ મંજૂરીની જરૂર પડે છે અને કોઈ જગ્યાએ સંપૂર્ણ પ્રતિબંધ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/7-breathtaking-places-in-india-where-common-public-is-forbidden-dont-even-think-of-visiting-489421 ",
-    "time": "2026-08-30T09:14:42.000Z"
   },
   {
     "cat": "Sports",
@@ -466,15 +493,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/himalayan-glacier-collapse-video-nepal-china-border-gyirong-port-mudslide-489364 ",
     "time": "2026-08-29T16:11:44.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ગોવા-મુંબઈ ભૂલી જાવ! આ 6 જગ્યા પર થશે પહાડોની સાથે બીચનો અદ્ભૂત અનુભવ, પ્રકૃતિ પ્રેમીઓ માટે બેસ્ટ છે ભારતના સુંદર પર્વતીય બીચ!",
-    "desc": "સમુદ્ર કિનારે બીચની મજા તો તમે માણી જ હશે, પરંતુ શું ક્યારેય પહાડોની વચ્ચે બીચ જેવો નજારો જોયો છે? ભારતની કેટલીક સુંદર ઝીલો તેમના બ્લૂ પાણી, સોનેરી કિનારાઓ અને ઊંચા પર્વતોને કારણે દરિયાકિનારા જેવોહે અહેસાસ કરાવે છે. જાણો આવી 6 શાનદાર જગ્યાઓ વિશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/forget-goa-mumbai-these-6-places-will-give-you-an-amazing-experience-of-beaches-with-mountains-the-beautiful-mountain-beaches-of-india-are-best-for-nature-lovers-489361 ",
-    "time": "2026-08-29T15:09:26.000Z"
   },
   {
     "cat": "Entertainment",
