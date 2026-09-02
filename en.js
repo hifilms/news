@@ -1,5 +1,41 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Tim Curry's cause of death listed as coronary artery disease",
+    "desc": "Tim Curry’s passing has been attributed to coronary artery disease, compounded by struggles with kidney cancer and a past marked by strokes. The beloved actor, renowned for his unforgettable performance in The Rocky Horror Show, passed away softly at his Los Angeles residence on Tuesday. Throughout his illustrious career, Curry captivated audiences in both film and television.",
+    "img": "https://static.toiimg.com/photo/msid-133722229,imgsize-50104.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tim-currys-cause-of-death-listed-as-coronary-artery-disease-after-battle-with-kidney-cancer/articleshow/133722222.cms",
+    "time": "2026-09-02T22:16:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mbappé named in kidnap plot: 26 rich targets, gang allegedly run from jail cell",
+    "desc": "French investigators reportedly found Kylian Mbappé’s address among information on 26 wealthy individuals discovered on phones seized from an 18-year-old suspect. The teenager allegedly continued running a criminal organisation from prison and was reportedly planning kidnappings. Authorities are investigating whether the alleged operation progressed beyond identifying potential targets, with the case still under investigation.",
+    "img": "https://static.toiimg.com/photo/msid-133719956,imgsize-75980.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/chilling-plot-to-kidnapkylian-mbapp-and-25-other-wealthy-figures-uncovered-by-french-police-reports-say/articleshow/133719922.cms",
+    "time": "2026-09-02T21:23:39.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dolly Parton’s former California cottage hits market for $1.995M",
+    "desc": "Dolly Parton’s former California cottage near Michael Jackson’s Neverland Ranch is on the market for $1.995 million. Parton owned the Solvang property from 2004 to 2014. The three-home compound was purchased for $1.3 million in 2022 and renovated for $100,000. It includes seven bedrooms, six bathrooms and a 1,100-square-foot cottage with a wig room.",
+    "img": "https://static.toiimg.com/photo/msid-133719928,imgsize-141495.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dolly-partons-former-california-cottage-near-michael-jacksons-neverland-ranch-hits-market-for-1-995m-3-home-compound-once-cost-previous-owner-185k-later-bought-for-1-3m-and-renovated-for-100k/articleshow/133719905.cms",
+    "time": "2026-09-02T21:08:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "In 2010, a Wimbledon match got so long the scoreboard simply broke",
+    "desc": "John Isner and Nicolas Mahut produced the longest match in tennis history at Wimbledon 2010, battling for 11 hours and five minutes across three days. Their deciding set lasted eight hours and 11 minutes, with Isner eventually winning 70-68. The marathon produced 183 games, 215 aces and a scoreboard-breaking scoreline, later inspiring HBO’s “7 Days in Hell.”",
+    "img": "https://static.toiimg.com/photo/msid-133714096,imgsize-120408.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/international-sports/in-2010-two-players-walked-onto-wimbledons-court-18-and-played-the-longest-match-in-tennis-history-it-didnt-end-for-three-days-and-the-electronic-scoreboard-broke-before-they-did/articleshow/133712793.cms",
+    "time": "2026-09-02T20:30:00.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Villages vulnerable to floods will be shifted permanently, says Minister in Bagalkot",
     "desc": "‘I have requested the Chief Minister to visit the district to study the drought situation in the district, and fulfill the demands of the victims. He is likely to visit on September 4, 2026,’ says Bagalkot district in-charge Minister Vijayanand Kashappanavar.",
@@ -16,6 +52,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/nitin-gadkari-urges-all-state-governments-to-allow-bike-taxis-announces-plan-for-negative-points-for-traffic-rule-violations/articleshow/133717731.cms",
     "time": "2026-09-02T17:58:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Cricketers to get best rooms at Asian Games, says Japan chief",
+    "desc": "A Sri Lankan official said this week that some of Asia's top teams had raised doubts over facilities and accommodation at the Games, which are taking place in Nagoya and the wider Aichi area from September 19.",
+    "img": "https://th-i.thgim.com/public/news/national/12xp4j/article71421096.ece/alternates/LANDSCAPE_1200/iStock-1255328634%201.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/cricketers-to-get-best-rooms-at-asian-games-says-japan-chief/article71421091.ece",
+    "time": "2026-09-02T17:50:45.000Z"
   },
   {
     "cat": "Business",
@@ -70,15 +115,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/he-got-rs-30-lakh-salary-but-missed-itr-filing-after-changing-jobs-due-to-delayed-form-16-income-tax-department-imposed-rs-3-74-lakh-penalty-how-taxpayer-won-relief-from-itat/articleshow/133715574.cms",
     "time": "2026-09-02T16:20:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Keralam’s Forest Department presents action plan for ‘human-wildlife coexistence’ at conference of Ministers, MPs and MLAs",
-    "desc": "The action plan envisions landscape-level planning across forest divisions, corridors and conflict hotspots as opposed to what it terms the earlier approach of “fragmented interventions.” It also promises a ‘preventive and proactive’ response based on risk mapping, increased focus on animal movement routes and site and species-specific interventions",
-    "img": "https://th-i.thgim.com/public/incoming/yzi5kr/article71420877.ece/alternates/LANDSCAPE_1200/80759_3_7_2026_18_21_48_1_TIGERNEW.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/keralams-forest-department-presents-action-plan-for-human-wildlife-coexistence-at-conference-of-ministers-mps-and-mlas/article71420479.ece",
-    "time": "2026-09-02T16:10:43.000Z"
   },
   {
     "cat": "Politics",
@@ -252,15 +288,6 @@ const newsData_en = [
     "time": "2026-09-02T13:06:26.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Operation Sindoor commander Jeetendra Mishra picked as Ram temple Trust CEO; Nepal seeks flood compensation from India, US and China, and more",
-    "desc": "In a historic move, retired Air Marshal Jeetendra Mishra assumes the role of the inaugural CEO for the Ram temple Trust. Meanwhile, Nepal is calling for climate compensation from major polluters following severe flash floods ravaging the region. Additionally, the Centre has provided clarity on its GDP growth calculations, addressing concerns raised by opposition parties.",
-    "img": "https://static.toiimg.com/photo/msid-133711243,imgsize-102261.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-operation-sindoor-commander-jeetendra-mishra-picked-as-ram-temple-trust-ceo-nepal-seeks-flood-compensation-from-india-us-and-china-and-more/articleshow/133711021.cms",
-    "time": "2026-09-02T13:00:04.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Rashmika Mandanna REVEALS what led to her injury on ‘Mysaa’ set",
     "desc": "After recovering for six weeks from a hip injury sustained during an action sequence for her upcoming film, Mysaa, Rashmika Mandanna is back in action. During her break, she prioritized rest and quality time with family. Now, she’s gearing up to wrap up the shoot for her soon-to-be-released film, Ranabaali, before diving into two additional projects right afterward.",
@@ -277,15 +304,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/adelaide-strikers-coach-tim-paine-reveals-ben-stokes-likely-bbl-role-hails-his-360-degree-game/articleshow/133710111.cms",
     "time": "2026-09-02T12:38:25.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kargil gets post office passport seva kendra to provide easier access to passport-related services",
-    "desc": "A new passport seva kendra opened in Kargil, Ladakh on Wednesday. This facility aims to bring passport services closer to residents. It was inaugurated by Minister of State Kirti Vardhan Singh. The initiative leverages the postal network for citizen services. This makes passport applications more accessible and efficient for locals.",
-    "img": "https://static.toiimg.com/photo/msid-133710825,imgsize-63737.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/kargil-gets-post-office-passport-seva-kendra-to-provide-easier-access-to-passport-related-services/articleshow/133710736.cms",
-    "time": "2026-09-02T12:38:03.000Z"
   },
   {
     "cat": "Entertainment",
@@ -351,24 +369,6 @@ const newsData_en = [
     "time": "2026-09-02T11:50:30.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Hanuman Ansh' vs 'Dhurandhar 2': Rs 2 cr film beat Ranveer's hit",
-    "desc": "'Hanuman Ansh,' a spiritual drama, has achieved impressive profits with a minimal budget, showcasing the power of word-of-mouth over flashy promotions or star casts. Interestingly, although 'Dhurandhar 2' reported higher total earnings, its return on investment was less impressive. This contrasting performance emphasizes the evolving metrics of success in the film industry.",
-    "img": "https://static.toiimg.com/photo/msid-133709417,imgsize-744098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hanuman-ansh-vs-dhurandhar-2-how-rs-2-crore-spiritual-biopic-on-neem-karoli-baba-has-surpassed-ranveer-singhs-blockbuster-in-return-on-investment-and-delivered-over-20x-returns-despite-opening-at-just-rs-10-lakh/articleshow/133709351.cms",
-    "time": "2026-09-02T11:44:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Raju Hirani confirms '3 Idiots' sequel with 'same casting'",
-    "desc": "Renowned filmmaker Rajkumar Hirani has confirmed that a sequel to '3 Idiots' is underway, with the script currently in development. He hinted that the original cast may reprise their roles, delving into the lives of the characters two decades post their college adventures. Hirani stressed the importance of a captivating narrative before any formal announcement, reflecting a process similar to that of the 'Munna Bhai' sequel.",
-    "img": "https://static.toiimg.com/photo/msid-133709032,imgsize-898380.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajkumar-hirani-confirms-3-idiots-sequel-casting-will-be-the-same-reveals-story-is-set-20-years-later-its-not-about-the-students/articleshow/133708984.cms",
-    "time": "2026-09-02T11:32:35.000Z"
-  },
-  {
     "cat": "World",
     "title": "Drone revolution and modern warfare",
     "desc": "The wars in Ukraine, Lebanon and West Asia have shown how drones have become central to modern warfare; as cheap, mass-produced unmanned systems proliferate, military power is increasingly shaped by industrial scale, technological adaptation and the ability to build, deploy and counter drones",
@@ -396,15 +396,6 @@ const newsData_en = [
     "time": "2026-09-02T11:15:22.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Ahmedabad woman sends Rakhi to Uttarakhand CM Dhami, recalls Dharali flood meeting",
-    "desc": "Dhangauri Baroliya sent a heartfelt Rakhi to Chief Minister Pushkar Singh Dhami, cherishing their bond formed during last year's Dharali floods. While stranded, she appreciated his kindness and support for the affected individuals. This year, from Ahmedabad, Baroliya expresses her gratitude and love, considering Dhami her dharma brother, as she encapsulates their memorable encounter in this gesture of affection.",
-    "img": "https://static.toiimg.com/photo/msid-133708259,imgsize-167027.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ahmedabad-woman-sends-rakhi-to-uttarakhand-cm-dhami-recalls-dharali-flood-meeting/articleshow/133708163.cms",
-    "time": "2026-09-02T11:11:04.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "English cricket team take u-turn, confirm rape acquitted cricketer won't represent club",
     "desc": "In response to fan backlash, Hampshire Cricket has decided to withdraw Scott Kuggeleijn from their roster. The club faced significant criticism over his past allegations. Acknowledging the supporters' concerns, Hampshire confirmed that Kuggeleijn will no longer play for the team. As they currently sit at the bottom of the County Championship, their primary goal is to ensure they maintain their Division One status.",
@@ -421,15 +412,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kareena-kapoor-khan-reveals-taimur-wants-to-be-a-cricketer-or-football-player-at-a-global-level-says-she-regrets-leaving-education-after-class-11-and-wants-her-kids-to-complete-studies-first/articleshow/133706623.cms",
     "time": "2026-09-02T10:36:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "AAP helps seven-year-old Ballia girl who hops to school",
-    "desc": "In a heartwarming gesture, Aam Aadmi Party members rallied to support seven-year-old Ragini, who has been navigating her daily life on one leg. Following appeals on social media, they provided her with a wheelchair and promised financial assistance, alongside a future artificial leg to enhance her mobility. This incident sheds light on the ongoing struggles faced by disabled children living in rural communities.",
-    "img": "https://static.toiimg.com/photo/msid-133706722,imgsize-195628.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/aap-helps-seven-year-old-ballia-girl-who-hops-to-school/articleshow/133706649.cms",
-    "time": "2026-09-02T10:20:24.000Z"
   },
   {
     "cat": "Sports",
@@ -666,15 +648,6 @@ const newsData_en = [
     "time": "2026-09-01T12:11:44.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Bumrah, Samson back; Pandya misses out as India announce squad for Afghanistan T20Is",
-    "desc": "The Indian cricket team has officially unveiled their 15-member squad for the T20I series against Afghanistan, with Shreyas Iyer as captain and Tilak Varma as vice-captain. The pace attack is bolstered by the return of Jasprit Bumrah, alongside Arshdeep Singh and Harshit Rana. Notable batsmen include Sanju Samson and Ishan Kishan, although some players still await fitness clearance prior to the series start.",
-    "img": "https://static.toiimg.com/photo/msid-133680783,imgsize-132238.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shreyas-iyer-led-15-member-india-squad-for-afghanistan-t20is-announced-jasprit-bumrah-vaibhav-sooryavanshi-included/articleshow/133680680.cms",
-    "time": "2026-09-01T12:07:29.000Z"
-  },
-  {
     "cat": "Business",
     "title": "How Bengaluru techie achieved this",
     "desc": "His financial journey, however, did not begin with a large salary or a carefully constructed investment portfolio. He claims he started investing small amounts in mutual funds soon after college, when he first became interested in financial independence.",
@@ -898,5 +871,32 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
     "time": "2024-03-11T10:00:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
+    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
+    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
+    "time": "2024-03-11T09:41:17.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Here’s how much the smartphone costs",
+    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
+    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
+    "time": "2024-03-11T09:36:12.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
+    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
+    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
+    "time": "2024-03-11T09:19:46.000Z"
   }
 ];
