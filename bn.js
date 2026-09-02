@@ -1,5 +1,41 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "বর্মন পরিবারের কালজয়ী গানে ফিরবে সুরের নস্টালজিয়া,‘বার্মেনিয়া’! ঊষা উত্থুপ থেকে রূপঙ্কর, এক মঞ্চে তারকারা",
+    "desc": "৫ সেপ্টেম্বর নজরুল মঞ্চে বসতে চলেছে ‘গানে ফিউশন’ সিজন ৪—‘বার্মেনিয়া’। এস ডি বর্মন ও আর ডি বর্মনের কালজয়ী গান ও তাঁদের জীবনের নানা গল্প নিয়ে সাজবে এই বিশেষ সন্ধ্যা। থাকছেন ঊষা উত্থুপ, শুভেন চ্যাটার্জি, রূপঙ্কর বাগচী, অন্বেষা দত্ত গুপ্ত, পোর্শিয়া সেন ও গৌরব সরকার। গানের গল্প শোনাবেন মীর। অনুষ্ঠানের পাশাপাশি হৃদরোগে আক্রান্ত সুবিধাবঞ্চিত শিশুদের চিকিৎসায় সহায়তার উদ্যোগও থাকছে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/gane-fusion-season-4-burmania-sd-rd-burman-kolkata-event_669327.html ",
+    "time": "2026-09-02T17:08:42.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "রাক্ষুসে হড়পা! চার দিন মাটির নীচে শিশু! কথা বলতে পারছে না, সাহস জোগাতে গল্প করে খিচু়ড়ি খাওয়াচ্ছে সেনা",
+    "desc": "নেপালের ভয়াবহ বন্যার মাঝে আশার ছবি। চার দিন ধ্বংসস্তূপের নিচে আটকে থাকার পর জীবিত উদ্ধার করা হল ৫ বছরের এক শিশুকে। ক্লান্ত, কথা বলার মতো অবস্থায় না থাকা শিশুটিকে পাশে বসিয়ে খিচুড়ি ও জল খাওয়ান নেপাল সেনার এক জওয়ান। তাকে আশ্বাস দেন, খুব তাড়াতাড়ি পরিবারের কাছে ফিরবে, আবার স্কুলেও যাবে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/world/nepal-floods-5-year-old-boy-rescued-after-four-days-under-rubble_669325.html ",
+    "time": "2026-09-02T16:42:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "শতবর্ষে মহানায়ক উত্তম কুমার: আজও পর্দায় তিনি অপ্রতিদ্বন্দ্বী, বাঙালির চিরন্তন আইকন",
+    "desc": "শতবর্ষেও তিনি সমানে উজ্জ্বল! সাধারণ অরুণ থেকে বাংলা চলচ্চিত্রের একচ্ছত্র ‘মহা নায়ক’ হয়ে ওঠার পথটা সহজ ছিল না। পর পর ফ্লপ থেকে শুরু করে প্রথম জাতীয় পুরস্কার জয়— শতবর্ষে দাঁড়িয়ে ফিরে দেখা বাংলা সিনেমার ঈশ্বর উত্তম কুমারের চিরন্তন জীবনের গল্প।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/uttam-kumar-100th-birth-anniversary-centenary-tribute-mahanayak-legacy_669323.html ",
+    "time": "2026-09-02T16:13:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "কলকাতা ছেড়ে পাকাপাকিভাবে মুম্বইয়ের বাসিন্দা! এবার অক্ষয়ের নায়িকা রুক্মিনী...",
+    "desc": "অক্ষয় কুমারের এলিয়ান ড্রামা 'সমুক'-এ বিরাট ধামাকা! দীর্ঘ ১২ বছর পর আবার একসঙ্গে কাজ করছেন অক্ষয় কুমার ও বিপুল অমৃতলাল শাহ। তবে সবচেয়ে বড় খবর হল, এই ছবিতে অক্ষয়ের নায়িকা হিসেবে দেখা যাবে টলিউডের জনপ্রিয় অভিনেত্রী রুক্মিণী মৈত্রকে!",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/akshay-kumar-alien-movie-samuk-heroine-rukmini-maitr-bollywood-debut_669320.html ",
+    "time": "2026-09-02T15:39:27.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "ভুলেও ধরবেন না, খাবেন না! নেপালের বন্যায় বয়ে আসা মাছে মারাত্মক বিপদ, সতর্কতা জারি সরকারের",
     "desc": "নেপালের ত্রিশূলী নদীর প্লাবিত জল গণ্ডক এবং কোশী নদীর মাধ্যমে হু হু করে ঢুকছে ভারতের বিহার রাজ্যে। আর এই বানের জলের সঙ্গেই সীমান্ত পেরিয়ে বিহারে ভেসে আসছে বিভিন্ন অজানা প্রজাতির মাছ। ব্যাকটেরিয়া ও ভাইরাসের সংক্রমণের মারাত্মক ঝুঁকি সেইসব মাছে।",
@@ -115,15 +151,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/world/big-layoff-volkswagen-wants-to-cut-up-to-100000-jobs-unions-and-german-govt-want-to-block-this_669093.html ",
     "time": "2026-09-01T11:36:07.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ককরোচদের কাছে নতিস্বীকার কেন্দ্রের: সারা দেশের বিদ্রোহীদের সব FIR খারিজ, ৫ তারিখ দেশ জুড়ে বাতিল CJP-র বিক্ষোভ কর্মসূচী",
-    "desc": "সুপ্রিম কোর্ট স্পষ্ট পর্যবেক্ষণ দেয় যে, গণতান্ত্রিক শাসনব্যবস্থায় শান্তিপূর্ণ সমাবেশ ও ভিন্নমত প্রকাশ করা নাগরিকদের সাংবিধানিক মৌলিক অধিকার। তাই শুধুমাত্র কোনো প্রতিবাদ বা বিক্ষোভে অংশগ্রহণ করার ঘটনাটিকে নিজে থেকেই কোনও অপরাধ হিসেবে গণ্য করা যায় না।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/centre-decides-to-withdraw-firs-against-2873-protesters-following-supreme-court-directive_669091.html ",
-    "time": "2026-09-01T11:26:59.000Z"
   },
   {
     "cat": "Entertainment",
@@ -277,24 +304,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/kharaj-mukherjee-rajatava-dutta-stranded-nepal-flash-flood-safe-update_668368.html ",
     "time": "2026-08-27T04:58:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘এই পোশাক কেন?’ কৃতির রাখির বিজ্ঞাপন ঘিরে বিতর্ক, শেষমেশ পিছু হটল জুয়েলারি ব্র্যান্ড",
-    "desc": "রাখিবন্ধন উপলক্ষে গয়না সংস্থা একটি বিজ্ঞাপন ঘিরে বিতর্ক তৈরি হয়েছে। বিজ্ঞাপনে কৃতি শ্যাননের পোশাক নিয়ে সোশ্যাল মিডিয়ায় একাংশ সমালোচনা করে। বিষয়টি নিয়ে অভিনেত্রী নিজের বক্তব্যও জানান। এর পরেই বিজ্ঞাপনটি সব মাধ্যম থেকে সরিয়ে নেওয়ার সিদ্ধান্ত জানায়। সংস্থার দাবি, কোনও মানুষের ভাবাবেগে আঘাত করা তাদের উদ্দেশ্য ছিল না।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/kriti-sanon-rakhi-ad-controversy-giva-withdraws-ad-after-outfit-backlash_668317.html ",
-    "time": "2026-08-26T13:15:36.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "বিবাহিত কুকু কোহলির প্রেমে অরুণা ইরানি, কেন বিয়ে গোপন করতে হয়েছিল অভিনেত্রীকে?",
-    "desc": "পরিচালক কুকু কোহলির মৃত্যুর পর ফের সামনে এসেছে অভিনেত্রী অরুণা ইরানির সঙ্গে তাঁর সম্পর্কের কথা। কুকু তখন বিবাহিত ছিলেন। পরে অরুণা তাঁকে বিয়ে করেন এবং দীর্ঘদিন তাঁদের সম্পর্ক প্রকাশ্যে আনেননি। এক পুরনো সাক্ষাৎকারে অরুণা বলেছিলেন, তাঁদের সম্পর্ক কারও সংসার ভাঙার উদ্দেশ্যে ছিল না। পাশাপাশি ‘অন্য মহিলা’-কে একতরফাভাবে দোষ দেওয়ারও বিরোধিতা করেছিলেন তিনি।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/aruna-irani-kuku-kohli-love-story-secret-marriage-affair-statement_668292.html ",
-    "time": "2026-08-26T12:50:15.000Z"
   },
   {
     "cat": "Business",

@@ -1,12 +1,66 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "મંદિર ફરીથી બનાવો, દોષિતો સામે કડક કાર્યવાહી કરો: પાકિસ્તાનમાં 100 વર્ષ જૂનું હિન્દુ મંદિર તોડી પડાતા ભારતનું કડક વલણ",
+    "desc": "પાકિસ્તાનમાં 100 વર્ષ જૂના હિંદુ મંદિરના વિધ્વંસના સમાચાર પર ભારતે કડક વલણ અપનાવ્યું છે. વિદેશ મંત્રાલયે તેને નિંદનીય ગણાવ્યું અને પાકિસ્તાન પાસે તત્કાલ તપાસ, દોષિતો પર કાર્યવાહી, મંદિરની બહાલી અને અલ્પસંખ્યકોની સુરક્ષાની ખાતરી કરવાની માગ કરી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/india-condemns-demolition-of-historic-hindu-temple-in-pakistan-demands-transparent-probe-and-minority-safety-489908 ",
+    "time": "2026-09-02T17:46:39.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "નેપાળના મહાવિનાશ વચ્ચે ભારતીય સેનાનું &amp;#039;ઓપરેશન જિંદગી&amp;#039;: મોતની ટનલોમાં આશાનું કિરણ",
+    "desc": "પડોશી દેશ નેપાળ પર કુદરતનો એવો કાળ ત્રાટક્યો છે કે આખી દુનિયા ફફડી ઉઠી છે. લાંગટાંગ લિરુંગ ગ્લેશિયર શું ફાટ્યું... જાણે તબાહીનો જ્વાળામુખી ફાટી નીકળ્યો હોય! ફ્લેશ ફ્લડ અને ભયાનક ભૂસ્ખલને ગણતરીની મિનિટોમાં હસતા-રમતા પહાડોને શ્મશાનમાં ફેરવી નાખ્યા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/nepal-flash-flood-crisis-indian-army-launches-operation-zindagi-in-deadly-tunnels-489907 ",
+    "time": "2026-09-02T17:17:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "CRETA અને SIERRAને પણ ભૂલી જશો... હ્યુન્ડાઇ લાવી રહી છે એક નવી SUV, દમદાર ફીચર્સથી છે સજ્જ",
+    "desc": "હ્યુન્ડાઇ ભારતીય બજારમાં એક નવી કાર લોન્ચ કરવા જઈ રહી છે અને કંપની તેના લોન્ચ માટે તૈયારી કરી રહી છે. કંપની આગામી દિવસોમાં કાર વિશે વિગતો જાહેર કરી શકે છે. હાલમાં, તે ટેસ્ટિંગ દરમિયાન જોવા મળી છે. આ કાર ક્રેટા જેવા જ સેગમેન્ટમાં સ્પર્ધા કરશે અને દમદાર ફીચર્સથી સજ્જ હશે. કંપનીનો ઉદ્દેશ સસ્તી કિંમતે મિડ સાઈઝની SUV ઓફર કરવાનો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/upcoming-hyundai-midsize-suv-compared-to-creta-and-tata-sierra-489903 ",
+    "time": "2026-09-02T15:13:56.000Z"
+  },
+  {
     "cat": "Business",
     "title": "ડો.સુભાષ ચંદ્રાના વકીલે NCLATને કહ્યું- ₹6.5 કરોડના પ્રોપેગેન્ડા કારણે દેશભરમાં બદનામી થઈ, 5 સભ્યોની બેચ પર ઉઠાવ્યા સવાલ",
     "desc": "એસ્સેલ ગ્રુપના ચેરમેન ડૉ. સુભાષ ચંદ્રાએ છેલ્લા 15 દિવસથી ચાલી રહેલા ભ્રામક મીડિયા ટ્રાયલ સામે NCLATમાં મજબૂત કાનૂની પલટવાર કર્યો છે. ડૉ. ચંદ્રાના વકીલે ટ્રિબ્યુનલ સમક્ષ સ્પષ્ટતા કરી હતી કે ₹6.5 કરોડના રિપેમેન્ટના પ્રોપેગેન્ડા ફેલાવીને તેમની પ્રતિષ્ઠાને ખરાબ કરવાનો ઇરાદાપૂર્વક પ્રયાસ કરવામાં આવી રહ્યો છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/dr-subhash-chandra-nclat-hearing-nclt-5-member-bench-challenge-489886 ",
-    "time": "2026-09-02T12:51:06.000Z"
+    "time": "2026-09-02T14:42:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "ICCની મોટી જાહેરાત, ભારતમાં રમાશે પ્રથમ મહિલા ચેમ્પિયન્સ ટ્રોફી, શ્રીલંકા પાસેથી છીનવાઈ યજમાની",
+    "desc": "ICC મહિલા ચેમ્પિયન્સ ટ્રોફી 2027ને લઈને મોટા સમાચાર સામે આવ્યા છે. મહિલા ચેમ્પિયન્સ ટ્રોફીની પહેલી સીઝન આવતા વર્ષે ભારતમાં રમાશે. આ પહેલા શ્રીલંકામાં આ ટુર્નામેન્ટ યોજાવાની હતી. જો કે, હવે ભારતને તેની યજમાની મળી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/india-host-icc-womens-champions-trophy-2027-know-venues-and-dates-489900 ",
+    "time": "2026-09-02T14:28:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "મુંબઈ-કોલકાતા ડૂબી જશે? દરિયાનું વધતું પાણી ગળી જશે શહેરો, દોઢ કરોડ લોકો પર મંડરાઈ રહ્યો છે મોટો ખતરો",
+    "desc": "શું તમે ક્યારેય વિચાર્યું છે કે જે ઘરને તમે તમારી આકરી મહેનતની કમાણીના એક એક રૂપિયામાંથી ઉભુ કર્યુ છે, તે આવનારાં અમુક વર્ષોમાં સમુદ્રમાં સમાઈ જશે? જીહા, સંયુક્ત રાષ્ટ્રના હાલના જ રિપોર્ટમાં દાવો કરાયો કે ભારતના મુંબઈ અને કોલકાતાના મહાવિનાશનું કાઉન્ટડાઉન શરૂ થઈ ચૂક્યું છે. બંને શહેરના 1 કરોડ 40 લાખ લોકોની વસ્તી પર જળસમાધિનો ખતરો મંડરાઈ રહ્યો છે. શું છે UNનો આ ડરામણો રિપોર્ટ, જોઈએ આ પ્રાઈમ ટાઈમ રિપોર્ટમાં...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/countdown-to-drowning-un-warns-mumbai-kolkata-face-severe-sinking-risks-489898 ",
+    "time": "2026-09-02T14:17:22.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "SBI ગ્રાહકો માટે મહત્વના સમાચાર ! આ દિવસે બંધ રહેશે UPI સર્વિસ, નહીં થાય ટ્રાન્ઝેક્શન",
+    "desc": "SBIએ તેના ગ્રાહકોને જાણ કરી છે કે UPI સર્વિસ થોડા સમય માટે બંધ રહેશે. તેથી જો તમે કોઈપણ ટ્રાન્ઝેક્શન કરવા માંગતા હો તો સેવા ઓફલાઇન થાય તે પહેલાં પૂર્ણ કરી લો, નહીંતર તમને મુશ્કેલીઓનો સામનો કરવો પડી શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/important-news-for-sbi-customers-upi-service-will-be-closed-on-4th-september-489889 ",
+    "time": "2026-09-02T13:26:47.000Z"
   },
   {
     "cat": "World",
@@ -405,15 +459,6 @@ const newsData_gu = [
     "time": "2026-08-31T08:16:39.000Z"
   },
   {
-    "cat": "Business",
-    "title": "8મા પગાર પંચને લઈને મોટા સમાચાર, આજે છેલ્લો મોકો, જો ચૂકી ગયા તો 10 વર્ષ પછી મળશે તક, જાણો",
-    "desc": "જો તમે પણ 8th pay commission સાથો નોકરી કરવા માગો છો, તો અરજી કરવાનો આજે છેલ્લો દિવસ છે, આજ સુધી જેની અરજી આવી હશે તેને જ નોકરી કરવાનો ચાન્સ મળશે, જ્યારે આ કોન્ટ્રાક પ્રમાણેની નોકરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/big-news-regarding-the-8th-pay-commission-today-is-the-last-chance-if-you-miss-it-you-will-get-the-chance-after-10-years-489527 ",
-    "time": "2026-08-31T07:19:28.000Z"
-  },
-  {
     "cat": "Politics",
     "title": "પર્સનલ વેલ્થથી ગેરંટર સુધી... ડો. સુભાષ ચંદ્રાએ Insta Liveમાં લોકોની મુંઝવણ કરી દૂર; નવા સ્ટાર્ટઅપ પર જણાવ્યો ફ્યુચર પ્લાન",
     "desc": "ઝી મીડિયા અને એસ્સેલ ગ્રુપના ચેરમેન ડો. સુભાષ ચંદ્રાએ પોતાના પર્સનલ નાદારી મામલાની સમગ્ર હકીકત લોકોની સામે રાખી છે. ત્યારબાદ તેઓ ખુદ લોકો સાથે સીધા જોડાયા. તેમણે સોશિયલ મીડિયા પ્લેટફોર્મ ઈન્સ્ટાગ્રામ પર લાઇવ આવી લોકોના સવાલોનો જવાબ પણ આપ્યો છે. અહીં એમને પર્સનલ વેલ્થથી ગેરંટર સુધીની ચર્ચા કરી હતી.",
@@ -423,15 +468,6 @@ const newsData_gu = [
     "time": "2026-08-31T07:04:09.000Z"
   },
   {
-    "cat": "Business",
-    "title": "1 સપ્ટેમ્બરથી બદલાશે આ 5 મોટા નિયમો! LPG, FD, ATF અને ATM ચાર્જિસ પર પડશે સીધી અસર",
-    "desc": "1 સપ્ટેમ્બરથી ઘણા ફેરફાર થવાના છે. કેટલાક મામલામાં લોકોને રાહત મળવાની આશા છે, જ્યારે કેટલાક ફેરફાર ખિસ્સા પર વજન વધારી શકે છે. તેવામાં મહિનાની શરૂઆત પહેલા જરૂરી નિયમો અને નવા દરોની જાણકારી રાખવી ફાયદાકારક હશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/5-major-rule-changes-coming-into-effect-from-september-1-big-impact-expected-on-lpg-fd-atf-and-atm-charges-489526 ",
-    "time": "2026-08-31T07:03:24.000Z"
-  },
-  {
     "cat": "World",
     "title": "1000 વર્ષ જૂના કોરલના અભ્યાસથી મોટો ઘટસ્ફોટ! 1982, 1997 અને 2015થી પણ ખતરનાક હશે આવનારું તોફાન?",
     "desc": "આ વખતે અલ નીનો ખુબ મજબૂત હોવાની સંભાવના વ્યક્ત કરાઈ છે. ત્યારે 1000 વર્ષ જૂના સમુદ્રી પેટાળના કોરલ પર થયેલા એક અભ્યાસના તારણો ખુબ ચિંતાજનક છે. જેમાં ક્લાઈમેટ ચેન્જને કારણે અલ નીનો પહેલા કરતા 36 ટકા વધુ ખતરનાક અને શક્તિશાળી બન્યા હોવાની સંભાવના વ્યક્ત કરાઈ છે.",
@@ -439,15 +475,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/shocking-finding-of-1000-year-old-coral-study-el-nino-climate-change-489524 ",
     "time": "2026-08-31T06:55:15.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "&amp;#039;ગંભીર પરિણામો ભોગવવા પડશે...&amp;#039;: ન્યૂયોર્કમાં તિરંગાના અપમાન પર કિરણ રિજિજુની ચેતવણી",
-    "desc": "અમેરિકામાં RSS વડા મોહન ભાગવતના કાર્યક્રમ સામે ન્યુ યોર્કના મેડિસન સ્ક્વેર ગાર્ડનમાં ઘણા લોકો વિરોધ પ્રદર્શન કરી રહ્યા હતા. વિરોધ પ્રદર્શન દરમિયાન ભારતીય રાષ્ટ્રધ્વજ પ્રત્યે દર્શાવવામાં આવેલા અપમાન અંગે કેન્દ્રીય મંત્રી કિરેન રિજિજુએ પ્રતિક્રિયા આપી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/kiren-rijiju-warning-on-insulting-the-tricolour-in-new-york-489502 ",
-    "time": "2026-08-31T05:02:20.000Z"
   },
   {
     "cat": "Tech",
@@ -495,24 +522,6 @@ const newsData_gu = [
     "time": "2026-08-30T06:27:19.000Z"
   },
   {
-    "cat": "World",
-    "title": "&amp;#039;ભારતમાં મુસ્લિમો ન હોવા જોઈએ, તેવું વિચારનારા હિન્દુ નથી...&amp;#039;, અમેરિકામાં બોલ્યા RSS પ્રમુખ મોહન ભાગવત",
-    "desc": "રાષ્ટ્રીય સ્વયંસેવક સંઘ (RSS)ના વડા મોહન ભાગવતે અમેરિકામાં આયોજિત એક કાર્યક્રમમાં કહ્યું હતું કે જો કોઈ હિન્દુ એવું વિચારે છે કે ભારતમાં કોઈ મુસ્લિમ ન હોવા જોઈએ, તો તે હિન્દુત્વની મૂળ ભાવનાને સમજી શકતો નથી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/those-who-think-that-there-should-be-no-muslims-in-india-are-not-hindus-rss-chief-mohan-bhagwat-said-in-america-489388 ",
-    "time": "2026-08-30T05:44:12.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "નેપાળ હોનારતમાં ચમત્કાર, 3 દિવસ કાટમાળ હેઠળ દટાયેલી રહેલી 6 વર્ષની બાળકીનો આબાદ બચાવ",
-    "desc": "નેપાળની ભોટે કોશી નદીમાં તબાહી વચ્ચે એક સુખદ અને રાહતના સમાચાર સામે આવ્યા છે. બચાવકર્મીઓને એક છ વર્ષની બાળકી કાટમાળમાંથી જીવિત મળી, જેને બચાવી સારવાર માટે મોકલવામાં આવી છે. નેપાળમાં આવેલા આ પૂરમાં અત્યાર સુધી 650થી વધુ લોકોના મોત થયા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/miracle-amid-nepal-tragedy-6-year-old-girl-rescued-alive-after-3-days-under-debris-489379 ",
-    "time": "2026-08-30T04:54:54.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "કાશ્મીરી પંડિત અને બિહાર પર જોક કરી ફસાયો સમય રૈના, નવા એસિપોડ પછી લોકોમાં વધી નારાજગી",
     "desc": "સમય રૈના ફરી એકવાર વિવાદમાં ફસાયો છે. સમય રૈનાના શો ઈંડિયાઝ ગોટ લેટેન્ટનો નવો એપિસોડ ઓન એર થયો અને વિરોધ પણ થરુ થઈ ગયો છે. તાજેતરના એપિસોડમાં સમય રૈના અને શેરોન વર્માએ કાશ્મીરી પંડિત અને બિહારના લોકો પર જોક કર્યા જેનાથી લોકોમાં નારાજગી વધી છે.",
@@ -538,15 +547,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/big-blow-to-india-ahead-of-asian-games-2026-neeraj-chopra-out-due-to-injury-489277 ",
     "time": "2026-08-29T09:46:49.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "સૂર્યકુમાર યાદવે તોડ્યું મૌન, T20 ટીમમાંથી બહાર થયા બાદ પહેલીવાર ઠાલવ્યો રોષ",
-    "desc": "T20 ટીમમાંથી બહાર થયા બાદ પહેલીવાર રોષ સૂર્યકુમાર યાદવે ઠાલવ્યો છે. સૂર્યકુમાર યાદવે સ્વીકાર્યું કે તેને ઓલિમ્પિક ગેમ્સ 2028 અને T20 વર્લ્ડ કપ 2028માં ટીમનું નેતૃત્વ કરવાની આશા હતી, પરંતુ પસંદગીકારોની યોજના અલગ જ હતી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/suryakumar-yadav-breaks-silence-on-being-dropped-from-team-india-489273 ",
-    "time": "2026-08-29T09:13:58.000Z"
   },
   {
     "cat": "Entertainment",
@@ -637,14 +637,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/even-though-the-phone-has-5g-the-internet-is-still-slow-its-not-just-the-network-these-5-reasons-could-also-be-responsible-488724 ",
     "time": "2026-08-24T10:44:47.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "કાર રોકવા માટે પહેલા ક્લચ દબાવવો કે બ્રેક? આજે જ જાણી લો સાચી રીત",
-    "desc": "કાર ચલાવતા પહેલા, તેને કેવી રીતે રોકવી તે જાણવું મહત્વપૂર્ણ છે. ક્લચ પહેલા દબાવો કે બ્રેક, તે પ્રશ્ન ઘણીવાર ઉદ્ભવે છે. ચાલો કાર રોકવાની સાચી રીત જાણીએ અને મોટા ભાગના લોકો આ ભુલ કરે છે તેના કારણે ગાડીની એવરેજ ઓછી પણ આવે છે અને એન્જીન પર વધારે લોડ પડી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/should-you-press-the-clutch-or-the-brake-first-to-stop-the-car-find-out-the-correct-way-today-488714 ",
-    "time": "2026-08-24T09:54:56.000Z"
   }
 ];

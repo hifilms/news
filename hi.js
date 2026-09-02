@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India to host first-ever Women's Champions Trophy; ICC confirms venue, start and final dates",
+    "desc": "The inaugural ICC Women’s Champions Trophy will be played in India next year. Mumbai and Vadodara have been selected to host the six-team tournament from February 14 to 28, 2027. The Cricket Club of India...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-to-host-first-ever-women-s-champions-trophy-icc-confirms-venue-start-and-final-dates-2026-09-02-1053094",
+    "time": "2026-09-02T13:53:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCCI review to focus on player fitness, ODI World Cup plans and future of Rohit Sharma",
+    "desc": "The BCCI's review meeting in Mumbai on Thursday will focus on injury management, India's plans for the 2027 ODI World Cup and the availability of key players ahead of the tour of New Zealand. Head...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-review-to-focus-on-player-fitness-odi-world-cup-plans-and-future-of-rohit-sharma-2026-09-02-1053092",
+    "time": "2026-09-02T13:38:35.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Charith Asalanka, former captain, announced as new Sri Lanka white-ball vice-captain as England squad unveiled",
     "desc": "After being axed as ODI captain only three months ago and sidelined from T20Is six months back, Sri Lanka have appointed Charith Asalanka as the new white-ball vice-captain for the series against England. Kusal Mendis...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/what-happened-to-babar-azam-as-pakistan-captain-is-currently-doubtful-for-third-test-vs-england-2026-09-02-1053028",
     "time": "2026-09-02T05:37:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Enzo Fernandez leaves Chelsea to join Manchester City for joint British record transfer fee",
-    "desc": "Manchester City have completed the signing of Enzo Fernandez from Chelsea for £125m (over Rs 1601 crore), matching the British transfer record and taking their spending during the summer window to a Premier League-record £562.5m...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/enzo-fernandez-leaves-chelsea-to-join-manchester-city-for-joint-british-record-transfer-fee-2026-09-02-1053023",
-    "time": "2026-09-02T05:09:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is Hardik Pandya not picked for India's three-match T20I series vs Afghanistan?",
-    "desc": "Hardik Pandya’s planned return to India’s T20I side has suffered another setback after the all-rounder developed a leg niggle during his rehabilitation at the BCCI Centre of Excellence in Bengaluru. Pandya had been progressing well...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-hardik-pandya-not-picked-for-india-s-three-match-t20i-series-vs-afghanistan-2026-09-01-1052988",
-    "time": "2026-09-01T13:18:02.000Z"
   }
 ];
