@@ -1,6 +1,69 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Smriti Mandhana's record-breaking knock helped India seal their second-biggest win in T20Is, qualify for semis",
+    "desc": "India secured a place in the Women’s Asia Cup semi-finals after overwhelming Hong Kong by 137 runs at the Dubai International Cricket Stadium. It was their second-biggest victory by runs in T20Is and with that,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-s-record-breaking-knock-helped-india-seal-their-second-biggest-win-in-t20is-qualify-for-semis-2026-09-03-1053244",
+    "time": "2026-09-03T18:13:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Neeraj Chopra out, Yashvir Singh replaces him in Asian Games; Rohit Yadav ruled out of World Athletics C'ships",
+    "desc": "India’s men’s javelin throw contingent for the Asian Games will undergo a significant change, with Yashvir Singh replacing Neeraj Chopra after his 2026 season was ended by an ankle ligament tear. The Athletics Federation of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/neeraj-chopra-out-yashvir-singh-replaces-him-in-asian-games-rohit-yadav-ruled-out-of-world-athletics-c-ships-2026-09-03-1053241",
+    "time": "2026-09-03T17:38:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Smriti Mandhana breaks Mithali Raj's record, becomes leading run-scorer in women's cricket history",
+    "desc": "Smriti Mandhana has etched her name into the record books by becoming the leading run-scorer in the history of women’s international cricket. She achieved the feat with a scintillating century during India’s Asia Cup 2026...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-breaks-mithali-raj-s-record-becomes-leading-run-scorer-in-women-s-cricket-history-2026-09-03-1053237",
+    "time": "2026-09-03T16:38:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Smriti Mandhana breaks Meg Lanning's world record with century in Asia Cup clash vs Hong Kong",
+    "desc": "Star India batter Smriti Mandhana put on a masterclass during the Asia Cup 2026 match against Hong Kong at the Dubai International Cricket Stadium. She scored a brilliant century, leaving the Natasha Miles-led side clueless...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-breaks-meg-lanning-s-world-record-with-century-in-asia-cup-clash-vs-hong-kong-2026-09-03-1053234",
+    "time": "2026-09-03T16:00:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KL Rahul, Devdutt Padikkal, Mohammed Siraj to feature Duleep Trophy final; will Vaibhav Sooryavanshi play?",
+    "desc": "South Zone have strengthened their Duleep Trophy final squad by adding India internationals KL Rahul, Devdutt Padikkal and Mohammed Siraj. BCCI source has confirmed the development to PTI, stating that the players are free for...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-devdutt-padikkal-mohammed-siraj-to-feature-duleep-trophy-final-will-vaibhav-sooryavanshi-play-2026-09-03-1053230",
+    "time": "2026-09-03T15:11:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Yuzvendra Chahal's peach bamboozles Ben Stokes in County Championship",
+    "desc": "Star India leg-spinner Yuzvendra Chahal bamboozled Ben Stokes with a peach of a delivery in the ongoing County Championship. He broke through the former England captain’s defence during Durham’s clash with Northamptonshire as Stokes was...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/yuzvendra-chahal-s-peach-bamboozles-ben-stokes-in-county-championship-watch-2026-09-03-1053226",
+    "time": "2026-09-03T14:32:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCCI secretary Devajit Saikia defends Rohit Sharma after review meeting, says 'don't fodder to rumours'",
+    "desc": "The Board of Control for Cricket in India (BCCI) secretary Devajit Saikia has dismissed reports of Rohit Sharma’s possible international retirement. Since the Australia series last year, there have been plenty of reports of the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-secretary-devajit-saikia-defends-rohit-sharma-after-review-meeting-says-don-t-fodder-to-rumours-2026-09-03-1053219",
+    "time": "2026-09-03T13:40:42.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Tilak Varma wants to play Test cricket for India, says 'my strength is red-ball cricket'",
     "desc": "South Zone captain Tilak Varma led by example as his team defeated North by seven wickets to qualify for Duleep Trophy final. The 23-year-old scored an unbeaten century in the first innings and added that...",
     "img": "",
@@ -25,68 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/tennis/aryna-sabalenka-fumes-at-reporter-after-second-round-win-in-us-open-says-you-think-that-i-ve-been-partying-2026-09-03-1053189",
     "time": "2026-09-03T10:16:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Carlos Alcaraz opens up on his stellar win at US Open 2026, opens up on playing at Arthur Ashe Stadium",
-    "desc": "Carlos Alcaraz has made his way into the third round of the ongoing US Open 2026. The star Spaniard is widely revered as one of the best tennis players in the world, and coming back...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-opens-up-on-his-stellar-win-at-us-open-2026-opens-up-on-playing-at-arthur-ashe-stadium-2026-09-03-1053183",
-    "time": "2026-09-03T09:33:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Elliot Anderson weighs in on his decision to join Manchester City ahead of much-awaited Manchester derby",
-    "desc": "The Premier League 2026-27 season has got off to a stellar start for Manchester City. One of the best teams in the league, City broke the bank once more, signing a plethora of big names...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/elliot-anderson-weighs-in-on-his-decision-to-join-manchester-city-ahead-of-much-awaited-manchester-derby-2026-09-03-1053176",
-    "time": "2026-09-03T08:43:54.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Rohit Sharma and Virat Kohli continue with international cricket after ODI WC? Former cricketer opines",
-    "desc": "The Indian team is gearing up for the ODI World Cup 2027; the marquee tournament will be held in South Africa, and the biggest teams in world cricket will look to put in their best...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/will-rohit-sharma-and-virat-kohli-continue-with-international-cricket-after-odi-wc-former-cricketer-opines-2026-09-03-1053170",
-    "time": "2026-09-03T07:58:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rio Ferdinand reflects on Manchester United's transfer strategies after summer window's end",
-    "desc": "The summer transfer window has come to an end, and the football world saw some of the biggest names change their clubs for record fees. With the Premier League season well underway, there was a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/rio-ferdinand-reflects-on-manchester-united-s-transfer-strategies-after-summer-window-s-end-2026-09-03-1053162",
-    "time": "2026-09-03T07:17:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "VVS Laxman set to be India's head coach at Asian Games 2026, slated to play first game on September 28",
-    "desc": "The Asian Games is all set to kick off on September 24, and among the multitude of sports at the event, cricket will be one that will be heavily followed and discussed. The cricketing event...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vvs-laxman-set-to-be-india-s-head-coach-at-asian-games-2026-slated-to-play-first-game-on-september-28-2026-09-03-1053156",
-    "time": "2026-09-03T06:38:52.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former South Africa cricketer weighs in Rohit Sharma's importance for India ahead of ODI WC 2027",
-    "desc": "The stage is set for the ODI World Cup 2027; the marquee tournament will be held in Africa next year, and the Indian team is widely regarded as one of the biggest favourites. Ahead of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-south-africa-cricketer-weighs-in-rohit-sharma-s-importance-for-india-ahead-of-odi-wc-2027-2026-09-03-1053144",
-    "time": "2026-09-03T05:20:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Rohit Sharma 'unhappy' amid selector's retirement directive ahead of ODI World Cup 2027",
-    "desc": "The ODI World Cup 2027 is rapidly approaching; the teams are hard at work preparing for the marquee tournament. The biggest teams in world cricket are already gearing up for the event, and ahead of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-unhappy-amid-selector-s-retirement-directive-ahead-of-odi-world-cup-2027-report-2026-09-03-1053139",
-    "time": "2026-09-03T04:22:57.000Z"
   }
 ];
