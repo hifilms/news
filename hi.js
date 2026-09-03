@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Alexander Zverev eyes his second straight Grand Slam title with good start to US Open 2026",
+    "desc": "The US Open 2026 is well underway, and some of the biggest tennis stars in the world are hard at work, aiming to put in their best performances in hopes of getting their hands on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/alexander-zverev-eyes-his-second-straight-grand-slam-title-with-good-start-to-us-open-2026-2026-09-03-1053123",
+    "time": "2026-09-03T01:39:14.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India to host first-ever Women's Champions Trophy; ICC confirms venue, start and final dates",
     "desc": "The inaugural ICC Women’s Champions Trophy will be played in India next year. Mumbai and Vadodara have been selected to host the six-team tournament from February 14 to 28, 2027. The Cricket Club of India...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/quinton-de-kock-matches-virat-kohli-david-warner-s-t20-record-with-century-in-cpl-2026-09-02-1053032",
     "time": "2026-09-02T06:30:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What happened to Babar Azam, as Pakistan captain is currently doubtful for third Test vs England?",
-    "desc": "Ahead of the third Test against England, Pakistan captain Babar Azam is reportedly ill. He is currently suffering from a high fever on the eve of the Edgbaston Test. Pakistan team manager Naveed Akram Cheema...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/what-happened-to-babar-azam-as-pakistan-captain-is-currently-doubtful-for-third-test-vs-england-2026-09-02-1053028",
-    "time": "2026-09-02T05:37:26.000Z"
   }
 ];

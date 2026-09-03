@@ -1,5 +1,212 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "'I'm Surprised': Aronian after Pragg wins India's historic GCT title",
+    "desc": "American Grandmaster Levon Aronian has revealed how Praggnanandhaa turned a weakness he identified last year into a strength, helping the Indian grandmaster win the Grand Chess Tour (GCT) Finals. Aronian, who had beaten Praggnanandhaa in GCT Finals last year, praised the youngester's progress and fighting spirit while admitting he was surprised by how quickly the Indian closed that gap.",
+    "img": "https://static.toiimg.com/photo/msid-133723431,imgsize-135229.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/im-surprised-levon-aronian-on-weakness-praggnanandhaa-fixed-to-win-indias-historic-gct-title-exclusive/articleshow/133723206.cms",
+    "time": "2026-09-03T02:26:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Singer Cassandra Wilson passes away at 70",
+    "desc": "The music world mourns the loss of Grammy-winning jazz artist Cassandra Wilson, who has died at the age of seventy in her cherished Jackson, Mississippi residence, enveloped by family. Renowned for her rich, soulful voice and significant impact on jazz music, her legacy flourishes through 44 years of artistry. Tributes from fellow musicians and fans capture the essence of her unique musical influence.",
+    "img": "https://static.toiimg.com/photo/msid-133723390,imgsize-293762.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/grammy-winning-jazz-singer-cassandra-wilson-passes-away-at-70-jon-batiste-jackson-mayor-john-horhn-and-others-pay-tribute/articleshow/133723367.cms",
+    "time": "2026-09-03T02:16:54.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Crude continues to trade beyond $95 per barrel",
+    "desc": "Oil prices took a minor dip on Thursday following a turbulent trading day. Investors are closely monitoring the repercussions of the US-Iran strikes on oil supply lines. Activity in the Strait of Hormuz is currently lower than average. This disruption fosters worries regarding global oil availability and possible price hikes as countries explore alternative sources while depending on diminishing reserves.",
+    "img": "https://static.toiimg.com/photo/msid-133723284,imgsize-131462.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-crude-continues-to-trade-beyond-95-per-barrel-amid-hormuz-supply-tensions/articleshow/133723230.cms",
+    "time": "2026-09-03T02:04:53.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Irumudi' BO day 13: Ravi Teja movie earns Rs 4.10 Cr",
+    "desc": "Ravi Teja's 'Irumudi' is in its second week, with daily earnings dropping on Wednesday. The film collected Rs 4.10 crore net on its thirteenth day. This brings the total India net collection to Rs 146.15 crore. Worldwide gross earnings have now reached Rs 191.60 crore. The Telugu version recorded an overall occupancy of 26.42%.",
+    "img": "https://static.toiimg.com/photo/msid-133723275,imgsize-279830.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/irumudi-box-office-collections-day-13-ravi-teja-movie-earns-rs-4-10-cr-india-net-reaches-rs-146-15-cr/articleshow/133723265.cms",
+    "time": "2026-09-03T02:03:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘FIDE must punish players’: Hans slams Russia No. 1 Nepo over comments on 14-yo",
+    "desc": "American chess grandmaster Hans Niemann urged FIDE to punish players for publicly making accusations, especially involving young competitors. His comments came after Ian Nepomniachtchi questioned a move by 14-year-old Canadian IM Aaron Mendes during their Titled Tuesday game. Nepomniachtchi described the move as suspicious, while Mendes went on to win after Nepomniachtchi’s blunder and eventual resignation.",
+    "img": "https://static.toiimg.com/photo/msid-133723181,imgsize-113119.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/fide-must-punish-players-americas-hans-niemann-slams-russia-no-1-ian-nepomniachtchi-over-comments-on-14-year-old/articleshow/133723148.cms",
+    "time": "2026-09-03T01:55:48.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SC/ST quota medical seats in Karnataka see sharp decline after reconfiguration of reservation matrix",
+    "desc": "As Karnataka has reverted to the earlier reservation quantum for Scheduled Castes and Scheduled Tribes, with cases against the increased reservation in recruitment being heard in the High Court of Karnataka, the number of medical seats for these communities has seen a decline",
+    "img": "https://th-i.thgim.com/public/incoming/2xeff0/article71420134.ece/alternates/LANDSCAPE_1200/_KMK1628.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/scst-quota-medical-seats-in-karnataka-see-sharp-decline-after-reconfiguration-of-reservation-matrix/article71416697.ece",
+    "time": "2026-09-03T01:42:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sabalenka crushes Iatcenko 6-1, 6-1; rain delays pile up",
+    "desc": "Aryna Sabalenka stormed into the US Open third round with a 6-1, 6-1 win over Polina Iatcenko in just 53 minutes. Jessica Pegula also advanced quickly, while rain caused major delays across New York. Despite disrupted schedules, Alex de Minaur, Ben Shelton, Daniil Medvedev and Karolina Muchova progressed. The first round was finally completed Wednesday night.",
+    "img": "https://static.toiimg.com/photo/msid-133723032,imgsize-86734.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/aryna-sabalenka-back-to-her-best-as-world-no-1-storms-into-us-open-third-round-in-just-53-minutes/articleshow/133722789.cms",
+    "time": "2026-09-03T01:28:04.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote of the day by Sir Tom Jones",
+    "desc": "Sir Tom Jones has consistently embraced the unknown in his musical journey, delving into various styles and genres. His fearless attitude underscores that embracing change is achievable at any stage in life. Growing up in Wales, he gained valuable life lessons that now reflect in his ever-evolving music, as he continues to experiment and push boundaries.",
+    "img": "https://static.toiimg.com/photo/msid-133722974,imgsize-400274.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-sir-tom-jones-im-never-scared-to-try-new-things-life-lesson-from-the-welsh-singer-highlighting-his-willingness-to-embrace-change-and-explore-new-opportunities/articleshow/133722906.cms",
+    "time": "2026-09-03T01:22:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Bethlehem Kudumba Unit' BO day 13 vs 'Khalifa'",
+    "desc": "Nivin Pauly's 'Bethlehem Kudumba Unit' continues to impress by earning Rs 4.50 crore on its thirteenth day, bringing its total net collection in India to over Rs 98 crore. The film's global gross has now hit Rs 223.50 crore. In comparison, Prithviraj Sukumaran's 'Khalifa' collected Rs 25 lakhs on its fourteenth day, achieving a worldwide gross of Rs 43.60 crore.",
+    "img": "https://static.toiimg.com/photo/msid-133722950,imgsize-281159.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/box-office/bethlehem-kudumba-unit-box-office-collections-day-13-vs-khalifa-nivin-pauly-film-earns-rs-4-50-cr-12-6-drop/articleshow/133722944.cms",
+    "time": "2026-09-03T01:18:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Harry Potter' trailer sparks 'Then and Now' comparisons",
+    "desc": "The first official trailer for the Harry Potter series has been unveiled. It shows students arriving at Hogwarts and the iconic sorting ceremony. The clip features Harry, Ron, and Hermione on the train and in classes. The mystery of the Philosopher's Stone is explored, and a troll appears. The series, based on JK Rowling's books, will debut on December 25.",
+    "img": "https://static.toiimg.com/photo/msid-133722951,imgsize-366803.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/harry-potter-trailer-dominic-mclaughlin-starrer-sparks-comparisons-to-2001-daniel-radcliffe-film-fans-say-so-many-similarities-watch/articleshow/133722576.cms",
+    "time": "2026-09-03T01:18:07.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Taapsee Pannu says she would ‘prefer retiring’ rather than doing certain films",
+    "desc": "Taapsee Pannu is adamant about her choices in the film industry, preferring retirement to roles that don't align with her passion. Acknowledging the swift evolution of audience tastes and industry trends, she underscores the importance of curating a meaningful filmography that surpasses temporary fads. Currently, she is in the spotlight for her upcoming film 'Gandhari', starring a formidable female lead, set to debut on September 3.",
+    "img": "https://static.toiimg.com/photo/msid-133722918,imgsize-174442.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/taapsee-pannu-says-she-would-prefer-retiring-rather-than-doing-certain-films-says-ten-years-later-the-genre-will-change-but-my-films-will-stay/articleshow/133722907.cms",
+    "time": "2026-09-03T01:13:42.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dollywood announces new additions to theme park to honour Dolly Parton",
+    "desc": "In a celebration of Dolly Parton's legacy, Dollywood theme park is enhancing its attractions with new features that reflect her vision. Guests can look forward to a magnificent cascading waterfall and a beautifully designed stained-glass window. The introduction of the Dream Maker character will highlight her literacy efforts, and the entrance to the Dolly Parton Experience will receive an upgrade.",
+    "img": "https://static.toiimg.com/photo/msid-133722896,imgsize-71304.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dolly-partons-amusement-park-to-witness-changes-in-her-honour-imagination-library-to-her-favourite-bible-verse-on-chapel-windows-management-says-they-will-carry-her-dreams/articleshow/133722882.cms",
+    "time": "2026-09-03T01:08:46.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Look at what the rankings were before': PCB chief Naqvi hits back at critics",
+    "desc": "Pakistan Cricket Board Chairman Mohsin Naqvi defended sweeping Test squad and coaching changes after Pakistan’s heavy 2-0 series loss to England. Seven players were dropped and five uncapped players added, while Mike Hesson and Ashley Noffke took coaching roles. Despite criticism from former cricketers and fans, Naqvi called the decisions \"essential\" and defended his record, highlighting progress in white-ball cricket.",
+    "img": "https://static.toiimg.com/photo/msid-133722868,imgsize-80940.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/look-at-what-the-rankings-were-before-pcb-chief-mohsin-naqvi-hits-back-at-critics-amid-pakistan-cricket-turmoil/articleshow/133722810.cms",
+    "time": "2026-09-03T01:05:23.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'I'm Game': DQ says, 'I'll come back and talk'",
+    "desc": "Dulquer Salmaan's upcoming film 'I'm Game' has achieved significant advance booking figures. The movie has reportedly collected over Rs 2.76 crore from opening day ticket sales. This strong performance comes as Salmaan returns to Malayalam cinema after a three-year hiatus. While the film's pre-sales are notable, they have not surpassed his previous movie 'King of Kotha'. 'I'm Game' is set for a multi-language release on September 3.",
+    "img": "https://static.toiimg.com/photo/msid-133722816,imgsize-282871.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/im-game-advance-booking-day-1-dulquer-salmaan-earns-rs-2-76-crore-dq-says-once-the-film-releases-ill-come-back-and-talk/articleshow/133722804.cms",
+    "time": "2026-09-03T00:51:41.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Messi’s Argentina No.10 successor revealed as 21-year-old star awaits one condition",
+    "desc": "Nico Paz has reportedly been chosen to inherit Lionel Messi’s iconic No.10 shirt for Argentina, marking the start of a new era after Messi’s international retirement. The 21-year-old Como star would take over the legendary number if coach Lionel Scaloni renews his contract, with Argentina reportedly viewing Paz as a key figure for the future.",
+    "img": "https://static.toiimg.com/photo/msid-133722781,imgsize-64228.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/messis-iconic-no-10-successor-revealed-as-21-year-old-star-set-to-inherit-legendary-shirt-if-one-condition-is-met/articleshow/133722389.cms",
+    "time": "2026-09-03T00:43:14.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Padmaavat' writer Prakash Kapadia backs Jauhar scene",
+    "desc": "Padmaavat co-writer Prakash Kapadia defended the film's Jauhar sequence. He stated the depiction reflected historical realities and research from that period. Kapadia mentioned that viewers interpret films based on their own perspectives and intentions. He also noted that the practice of Kesariya involved male warriors preparing for certain death. The film faced significant controversy and protests before its eventual release.",
+    "img": "https://static.toiimg.com/photo/msid-133722741,imgsize-314000.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/padmaavat-writer-prakash-kapadia-backs-jauhar-scene-says-reality-of-those-times-cannot-be-changed-reacts-to-swara-bhaskers-criticism/articleshow/133722740.cms",
+    "time": "2026-09-03T00:34:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Inside Pak cricket’s never-ending coaching carousel",
+    "desc": "Pakistan cricket has struggled with ongoing coaching instability, marked by numerous changes and management reshuffles since September 2021. The Pakistan Cricket Board has tried various structures and roles for senior management, leading to short-lived appointments of prominent figures like Jason Gillespie and Gary Kirsten. This unpredictable pattern underscores a long-standing challenge within the sport, raising questions about the team's direction and consistency.",
+    "img": "https://static.toiimg.com/photo/msid-133714888,imgsize-952825.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/11-coaches-reset-in-last-five-years-and-still-searching-for-answers-inside-pakistan-crickets-never-ending-coaching-carousel/articleshow/133714661.cms",
+    "time": "2026-09-03T00:30:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Donald Trump reacts to Prince Harry and Meghan Markle’s UK move",
+    "desc": "In a recent statement, Donald Trump commented on the return of Prince Harry and Meghan Markle to Britain, stating his discontent as he wouldn't have welcomed them back. Trump, who fondly recalled his relationship with Queen Elizabeth and King Charles, criticized the couple for their perceived disrespect toward the royal family, declaring that had he been in a royal position, their return would not have been acceptable.",
+    "img": "https://static.toiimg.com/photo/msid-133722725,imgsize-246344.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/us-president-donald-trump-reacts-to-prince-harry-and-meghan-markles-uk-move-says-i-wouldnt-have-taken-them-back/articleshow/133722716.cms",
+    "time": "2026-09-03T00:28:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'OG Part 2' gets Samurai-themed animated glimpse",
+    "desc": "Pawan Kalyan's 'OG Part 2' animated promo was unveiled on his birthday. The glimpse features the actor in a striking Samurai avatar, hinting at a new direction. Director Sujeeth will continue the ambitious 'OG' story, expanding the established universe. Fans reacted enthusiastically to the Samurai theme and Thaman's musical involvement. Shooting for 'OG Part 2' is expected to commence soon, promising a larger narrative.",
+    "img": "https://static.toiimg.com/photo/msid-133722724,imgsize-351407.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/pawan-kalyans-og-part-2-gets-samurai-themed-animated-glimpse-actor-demands-lifetime-best-fans-hail-new-chapter/articleshow/133722718.cms",
+    "time": "2026-09-03T00:27:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Toxic' Box Office Day 8: Yash starrer drop 35% to ₹5.10cr",
+    "desc": "Yash's film 'Toxic' saw a thirty-five percent dip in earnings on its eighth day. The movie collected five point one zero crore net in India on Wednesday. Its domestic total has now reached two hundred thirty-four point seven zero crore net. Worldwide gross collection for 'Toxic' crossed three hundred twenty-two crore on day eight. Kannada screenings recorded the strongest audience occupancy among major language versions.",
+    "img": "https://static.toiimg.com/photo/msid-133722679,imgsize-312854.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/toxic-box-office-collection-day-8-yash-nayanthara-tara-sutaria-kiara-advani-film-drops-35-earns-rs-5-10-crore-on-wednesday/articleshow/133722678.cms",
+    "time": "2026-09-03T00:16:12.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Vishwanath and Sons' box office collections day 20",
+    "desc": "Vishwanath and Sons recorded a drop in its third week, earning Rs 59 lakhs on day twenty. The film has now amassed Rs 118.09 crore net domestically and Rs 201.49 crore worldwide. Nayanthara and Kavin's Hi earned Rs 73 lakhs on its sixth day, reaching Rs 8.21 crore net. Lokesh Kanagaraj's DC has surpassed Rs 100 crore in global earnings.",
+    "img": "https://static.toiimg.com/photo/msid-133722668,imgsize-360834.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vishwanath-and-sons-box-office-collections-day-20-vs-hi-vs-dc-suriya-starrer-drops-21-3-nayanthara-kavin-film-earns-rs-73-lakhs/articleshow/133722625.cms",
+    "time": "2026-09-03T00:10:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyanka Chopra rewinds romance with Nick Jonas",
+    "desc": "Priyanka Chopra shared a reel documenting her early romance with Nick Jonas. The video featured photos from their first meeting at the Met Gala in 2017. It also showed moments from their first baseball date and trips to India. Their friendship blossomed into romance after Nick slid into her DMs. The couple married in December 2018 and welcomed their daughter Malti Marie.",
+    "img": "https://static.toiimg.com/photo/msid-133722517,imgsize-322143.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/priyanka-chopra-rewinds-romance-with-nick-jonas-recalls-summer-2017-i-gave-you-my-number/articleshow/133722477.cms",
+    "time": "2026-09-02T23:55:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Carla Jeffery of 'Z-O-M-B-I-E-S' fame, passes away at 33",
+    "desc": "Actress Carla Jeffery, known for her role as Bree, has died at age thirty-three. Her talent agency confirmed her passing on Tuesday, September first. Jeffery was widely recognized for her work in the Z-O-M-B-I-E-S film franchise. She also appeared in television shows like American Vandal and Curb Your Enthusiasm. Tributes have poured in from fans and colleagues following the sad news.",
+    "img": "https://static.toiimg.com/photo/msid-133722453,imgsize-490351.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/carla-jeffery-of-z-o-m-b-i-e-s-fame-passes-away-at-33-our-hearts-are-broken/articleshow/133722434.cms",
+    "time": "2026-09-02T23:07:08.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Tim Curry's cause of death listed as coronary artery disease",
     "desc": "Tim Curry’s passing has been attributed to coronary artery disease, compounded by struggles with kidney cancer and a past marked by strokes. The beloved actor, renowned for his unforgettable performance in The Rocky Horror Show, passed away softly at his Los Angeles residence on Tuesday. Throughout his illustrious career, Curry captivated audiences in both film and television.",
@@ -34,6 +241,42 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/international-sports/in-2010-two-players-walked-onto-wimbledons-court-18-and-played-the-longest-match-in-tennis-history-it-didnt-end-for-three-days-and-the-electronic-scoreboard-broke-before-they-did/articleshow/133712793.cms",
     "time": "2026-09-02T20:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Differences surface in CPI(M) Keralam leadership about Assembly poll debacle",
+    "desc": "Thomas Isaac, former Finance Minister and CPI(M) Central Committee member, says the party’s attitude that it was always right, that so-called apostates were free to leave the party fold, and that the organisation would be better off without sceptics was self-defeating",
+    "img": "https://th-i.thgim.com/public/incoming/8c5hlt/article71421198.ece/alternates/LANDSCAPE_1200/17tvnearby1_G42GLSGDEV3L.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/differences-surface-in-cpim-keralam-leadership-about-assembly-poll-debacle/article71421012.ece",
+    "time": "2026-09-02T19:16:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "expert panel recommends ‘industry status’ to private bus sector in Keralam",
+    "desc": "By recognising the sector as an industry under the MSME category, private bus operators will be able to access bank loans, technical and financial assistance for modernisation of fleet, and other financial benefits, says the committee, headed by former Transport Commissioner and retired IPS officer K. Padmakumar",
+    "img": "https://th-i.thgim.com/public/incoming/bo68a3/article71421197.ece/alternates/LANDSCAPE_1200/IMG_Kerala_launches_Priy_2_1_RBG4ACS2.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/priyadarshini-impact-expert-panel-recommends-industry-status-to-private-bus-sector-in-keralam/article71420323.ece",
+    "time": "2026-09-02T19:15:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Federer’s final masterpiece: Roger’s homecoming to the Hall of Fame",
+    "desc": "Once a boy who broke racquets and scrubbed toilets for it, Federer turned a hot temper into quiet grace and routine brilliance into religion, becoming tennis’s closest thing to a spiritual experience. In Newport on Sunday, the Hall of Fame simply made it scripture.",
+    "img": "https://th-i.thgim.com/public/incoming/6dl9os/article71421142.ece/alternates/LANDSCAPE_1200/GettyImages-2292511871.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/tennis/roger-federer-tennis-hall-of-fame-induction-career-legacy-tribute/article71421136.ece",
+    "time": "2026-09-02T18:39:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NH-66 stretch in Keralam being developed as the first e-truck corridor in country",
+    "desc": "According to the KSEB, the 622 km-stretch of NH-66 from Thiruvananthapuram to Kasaragod is being developed as India’s first e-truck corridor. The financial requirement for the initiative will stay within the ₹2,000 crore sanctioned by the Centre under the PM Electric Drive Revolution in Innovative Vehicle Enhancement",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/nh-66-keralam-stretch-as-e-truck-corridor-kseb-releases-report/article71420788.ece",
+    "time": "2026-09-02T18:10:01.000Z"
   },
   {
     "cat": "Politics",
@@ -136,15 +379,6 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Prabhu Deva and AR Rahman’s ‘Moonwalk’ locks Diwali 2026 release",
-    "desc": "Fans of cinema can rejoice as Prabhu Deva and AR Rahman join forces again after twenty-five years to create 'Moonwalk', a highly anticipated dance film. Set for a grand release on Diwali 2026, AR Rahman not only composed all five captivating songs but also steps behind the camera as director. Yogi Babu takes center stage by playing sixteen unique roles, complemented by a stellar lineup of actors and creative talents.",
-    "img": "https://static.toiimg.com/photo/msid-133714344,imgsize-182232.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/moonwalk-locks-diwali-2026-release-prabhu-deva-and-ar-rahmans-dance-driven-entertainer-becomes-first-tamil-film-to-reserve-festival-slot/articleshow/133714333.cms",
-    "time": "2026-09-02T15:13:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
     "title": "In 1994, Brad Pitt bought a 'Haunted' mansion, which he loved; decades later sold it for $39M",
     "desc": "Brad Pitt purchased a Los Angeles mansion with a reported haunted history from Cassandra Peterson. Peterson warned Pitt about paranormal occurrences, but he found the tales exciting. The actor was drawn to the mansion's architectural beauty and exquisite features. After nearly three decades of ownership, Pitt sold the renovated property. The house was initially bought for $1.7 million and later sold for $39 million.",
     "img": "https://static.toiimg.com/photo/msid-133714263,imgsize-278177.cms",
@@ -181,30 +415,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Inside Aditi Rao Hydari, Siddharth's 4000 sq feet Chennai home which is poetic",
-    "desc": "Aditi Rao Hydari and Siddharth recently offered a glimpse into their beautiful Chennai abode featured in Architectural Digest India. This spacious 4,000-square-foot apartment boasts stunning city views and an abundance of natural light. Their design choices reflect a commitment to comfort, individuality, and timeless elegance, with Siddharth's deep connection to the area adding a layer of emotional depth.",
-    "img": "https://static.toiimg.com/photo/msid-133713855,imgsize-336200.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/inside-aditi-rao-hydari-siddharths-4000-sq-feet-home-in-chennai-which-is-all-things-whimsical-poetic-romantic-bedroom-has-floral-motifs/articleshow/133713612.cms",
-    "time": "2026-09-02T14:39:07.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kunal Kemmu opens up on directing Sharmila Tagore in 'Vibe': 'She asked for synopsis'",
-    "desc": "Kunal Kemmu steps behind the camera to direct Vibe, featuring a delightful cameo by his mother-in-law, Sharmila Tagore, who was quick to hop on board after reading the script. The film is also set to showcase talents like Preity Zinta and Sparsh Shrivastava. Zinta humorously noted her absence of comedic scenes, adding to the excitement. Audiences can catch Vibe in theaters starting September 18.",
-    "img": "https://static.toiimg.com/photo/msid-133713512,imgsize-312580.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kunal-kemmu-opens-up-on-directing-sharmila-tagore-in-vibe-she-asked-for-synopsis-proud-i-could-call-action-and-cut-on-a-legend-like-her/articleshow/133713378.cms",
-    "time": "2026-09-02T14:22:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Vishwanath And Sons’ actor Suriya’s EXPENSIVE car collection",
-    "desc": "Suriya, the acclaimed actor, boasts an impressive collection of luxury automobiles, including brands like Jaguar and Audi. His garage showcases notable models such as the Jaguar XJL, Audi e-tron, and the elegant Toyota Vellfire. Dominating his fleet is the opulent Range Rover Vogue SE. With his recent film 'Karuppu,' Suriya has made a remarkable comeback that resonates with fans.",
-    "img": "https://static.toiimg.com/photo/msid-133713192,imgsize-134293.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/suriyas-expensive-car-collection-from-bmw-i7-to-range-rover-these-are-the-luxury-cars-in-vishwanath-and-sons-actors-garage/articleshow/133713181.cms",
-    "time": "2026-09-02T14:11:44.000Z"
+    "title": "The rock ‘n’ roll story of 1960s Madras",
+    "desc": "Best known for its classical music traditions, Madras also had a thriving rock ‘n’ roll culture in the 1960s and 1970s. From The Mustangs and Selaiyur Swingsters to Anglo-Indian bands, performers recall The Beatles covers, college bands, clubs and homes where another version of the city came alive",
+    "img": "https://th-i.thgim.com/public/incoming/eafnwv/article71387832.ece/alternates/LANDSCAPE_1200/Mustangs.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/chennai/guitars-in-a-carnatic-city-the-rock-n-roll-story-of-1960s-madras/article71387359.ece",
+    "time": "2026-09-02T14:26:37.000Z"
   },
   {
     "cat": "Sports",
@@ -217,12 +433,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "Amid Deepika row, Preity opens up on her own 18-hour workdays",
-    "desc": "Preity Zinta revealed she once worked 18-hour days to rush back to the US for her kids, joining Bollywood's work-hours debate sparked by Deepika Padukone's Spirit exit. Deepika had cited fighting battles \"silently.\" Zinta spoke at the trailer launch of Vibe, Kunal Kemmu's film releasing September 18 via Amazon MGM Studios.",
-    "img": "https://static.toiimg.com/photo/msid-133712141,imgsize-324620.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amid-deepika-padukone-row-preity-zinta-opens-up-on-her-own-18-hour-workdays/articleshow/133711972.cms",
-    "time": "2026-09-02T13:38:11.000Z"
+    "title": "Swara Bhasker's 'Padmaavat' remark spark social media backlash, actor says her words mistranslated",
+    "desc": "The actor has been at the receiving of social media ire over her comments, where she said the film glorified 'Jauhar', the practise among some Rajput communities, in which women committed mass self-immolation to avoid capture, enslavement or sexual violence when defeat in war appeared imminent",
+    "img": "https://th-i.thgim.com/public/incoming/scifi/article71419535.ece/alternates/LANDSCAPE_1200/IMG_SWARA_BHASKAR1_2_1_DTA9M56O.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/swara-bhaskers-padmaavat-remark-spark-social-media-backlash-actor-says-her-words-mistranslated/article71419502.ece",
+    "time": "2026-09-02T13:57:58.000Z"
   },
   {
     "cat": "Business",
@@ -232,24 +448,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/rbi-forex-inflows-foreign-currency-non-resident-bank-deposits-swap-facility-data/article71419792.ece",
     "time": "2026-09-02T13:36:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Bachchan reveals his lesser-known family connection with Saif Ali Khan, Kareena",
-    "desc": "In a lighthearted segment on Kaun Banega Crorepati, Amitabh Bachchan discussed the fascinating family ties between the Bachchan and Kapoor families, revealing that his daughter Shweta's husband, Nikhil Nanda, is the son of Raj Kapoor's daughter. Meanwhile, Saif Ali Khan's marriage to Kareena Kapoor further intertwines their families, blending humor and insight as audiences enjoyed this surprising connection.",
-    "img": "https://static.toiimg.com/photo/msid-133712058,imgsize-283151.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-reveals-lesser-known-family-connection-with-saif-ali-khan-raj-kapoors-daughter-ritus-son-nikhil-is-married-to-shweta-what-would-kareena-call-me/articleshow/133711955.cms",
-    "time": "2026-09-02T13:35:21.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Antony Varghese reveals why he missed Thalapathy Vijay’s ‘Master’",
-    "desc": "During the Chennai promotional event for 'I'm Game', Dulquer Salmaan and his cast opened up about their filmmaking journey. Antony Varghese candidly shared his disappointment about not landing a role in 'Master', all while expressing his admiration for Vijay. He acknowledged Dulquer's efforts, and the team radiated optimism about the audience's reception and the film's prospects for success.",
-    "img": "https://static.toiimg.com/photo/msid-133712053,imgsize-147231.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/antony-varghese-reveals-why-he-missed-thalapathy-vijays-master-at-dulquer-salmaans-im-game-event-i-still-regret-losing-that-opportunity/articleshow/133712039.cms",
-    "time": "2026-09-02T13:34:42.000Z"
   },
   {
     "cat": "Business",
@@ -279,24 +477,6 @@ const newsData_en = [
     "time": "2026-09-02T13:10:48.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Anshula hits back at body shaming on social media, advocates for women supporting women",
-    "desc": "Anshula Kapoor's latest reel spotlights the stark contrast between cruel male remarks and uplifting female reactions. She underscores the strength of the supportive sisterhood women cultivate in the digital realm. While she acknowledges the challenges of revealing one's vulnerabilities amid public judgment, Kapoor draws strength from the encouragement of her female allies, leading her to a place of acceptance and understanding.",
-    "img": "https://static.toiimg.com/photo/msid-133711515,imgsize-242397.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anshula-kapoor-hits-back-at-body-shaming-on-social-media-advocates-for-women-hyping-women-it-wasnt-easy-for-me-to-open-about-my-vulnerabilities-and-insecurities/articleshow/133711384.cms",
-    "time": "2026-09-02T13:06:26.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Rashmika Mandanna REVEALS what led to her injury on ‘Mysaa’ set",
-    "desc": "After recovering for six weeks from a hip injury sustained during an action sequence for her upcoming film, Mysaa, Rashmika Mandanna is back in action. During her break, she prioritized rest and quality time with family. Now, she’s gearing up to wrap up the shoot for her soon-to-be-released film, Ranabaali, before diving into two additional projects right afterward.",
-    "img": "https://static.toiimg.com/photo/msid-133710791,imgsize-117709.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandanna-reveals-what-led-to-her-injury-on-mysaa-set-the-tendon-in-my-hip-bone-snapped/articleshow/133710773.cms",
-    "time": "2026-09-02T12:40:03.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Tim Paine reveals Ben Stokes’ likely BBL role, hails his '360' game",
     "desc": "Ben Stokes is set to make his debut with the Adelaide Strikers in the upcoming Big Bash League season. Head coach Tim Paine emphasizes Stokes' ideal fit as an opening batsman, praising his explosive batting style and versatile all-round performance. His remarkable success rate while opening in T20 formats, coupled with his impactful bowling and fielding abilities, promises to enhance the team's competitiveness on the field.",
@@ -304,33 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/adelaide-strikers-coach-tim-paine-reveals-ben-stokes-likely-bbl-role-hails-his-360-degree-game/articleshow/133710111.cms",
     "time": "2026-09-02T12:38:25.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Trisha Krishnan announces new Tamil film with Raja Krishna Menon",
-    "desc": "Trisha Krishnan is set to star in a new Tamil film that promises an intriguing blend of mystery and horror. Directed by Raja Krishna Menon in his Tamil film debut, the project boasts an impressive cast including Radikaa Sarathkumar and Aparna Balamurali. Filming is currently taking place in London, adding an exciting international flair to this suspenseful thriller. This film marks yet another diverse addition to Trisha's growing portfolio.",
-    "img": "https://static.toiimg.com/photo/msid-133708336,imgsize-240135.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/trisha-krishnan-announces-new-tamil-psychological-thriller-with-airlift-fame-raja-krishna-menon/articleshow/133708331.cms",
-    "time": "2026-09-02T12:33:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "The rock ‘n’ roll story of 1960s Madras",
-    "desc": "Best known for its classical music traditions, Madras also had a thriving rock ‘n’ roll culture in the 1960s and 1970s. From The Mustangs and Selaiyur Swingsters to Anglo-Indian bands, performers recall The Beatles covers, college bands, clubs and homes where another version of the city came alive",
-    "img": "https://th-i.thgim.com/public/incoming/eafnwv/article71387832.ece/alternates/LANDSCAPE_1200/Mustangs.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/chennai/guitars-in-a-carnatic-city-the-rock-n-roll-story-of-1960s-madras/article71387359.ece",
-    "time": "2026-09-02T12:30:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Swara Bhasker's 'Padmaavat' remark spark social media backlash, actor says her words mistranslated",
-    "desc": "The actor has been at the receiving of social media ire over her comments, where she said the film glorified 'Jauhar', the practise among some Rajput communities, in which women committed mass self-immolation to avoid capture, enslavement or sexual violence when defeat in war appeared imminent",
-    "img": "https://th-i.thgim.com/public/incoming/scifi/article71419535.ece/alternates/LANDSCAPE_1200/IMG_SWARA_BHASKAR1_2_1_DTA9M56O.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/swara-bhaskers-padmaavat-remark-spark-social-media-backlash-actor-says-her-words-mistranslated/article71419502.ece",
-    "time": "2026-09-02T12:24:49.000Z"
   },
   {
     "cat": "Business",
@@ -342,33 +495,6 @@ const newsData_en = [
     "time": "2026-09-02T12:19:04.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Karthi makes honest statements on CM Vijay, Suriya, and 'Kaithi 2'",
-    "desc": "Actor Karthi recently voiced his concerns over piracy in the film industry, urging the government to take decisive action. He humorously dismissed any political ambitions for now, instead entertaining fans with a light-hearted comparison to his brother, Suriya. With much anticipation, he reassured his supporters that 'Kaithi 2' will indeed hit the screens eventually. Meanwhile, excitement continues to grow for his next action-packed movie, 'Sardar 2', scheduled for release soon.",
-    "img": "https://static.toiimg.com/photo/msid-133709816,imgsize-161201.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/karthi-makes-honest-statements-on-cm-vijay-piracy-politics-suriya-and-kaithi-2-before-sardar-2-i-have-to-deliver-good-films/articleshow/133709777.cms",
-    "time": "2026-09-02T12:00:52.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Yacht eyewitness testifies in court",
-    "desc": "Parikshit Sharma's testimony played a pivotal role in the ongoing trial concerning the death of singer Zubeen Garg in Guwahati. On a yacht trip in Singapore in September 2025, Garg tragically drowned. As a result, seven individuals face charges, with four being specifically accused of murder by the SIT. Despite a ruling in Singapore, the fast-track court pursues daily hearings without interruption.",
-    "img": "https://static.toiimg.com/photo/msid-133709648,imgsize-529701.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/zubeen-garg-death-case-yacht-eyewitness-parikshit-sharma-testifies-in-guwahati-court-report/articleshow/133709589.cms",
-    "time": "2026-09-02T11:53:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘He is so sweet’: Isha Rikhi’s old comment on Badshah resurfaces",
-    "desc": "An old interview featuring Isha Rikhi has emerged online where she expressed admiration for rapper Badshah, describing him as kind, humble, and authentic during film promotions. This revelation comes shortly after the couple publicly announced their separation, requesting privacy from the media and fans. Meanwhile, rumors suggest Rikhi may be joining the cast of the popular reality show Bigg Boss.",
-    "img": "https://static.toiimg.com/photo/msid-133709544,imgsize-469747.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/he-is-totally-opposite-so-sweet-down-to-earth-genuine-isha-rikhis-throwback-comment-on-badshah-resurfaces-after-couple-announces-separation-following-five-months-of-marriage/articleshow/133709472.cms",
-    "time": "2026-09-02T11:50:30.000Z"
-  },
-  {
     "cat": "World",
     "title": "Drone revolution and modern warfare",
     "desc": "The wars in Ukraine, Lebanon and West Asia have shown how drones have become central to modern warfare; as cheap, mass-produced unmanned systems proliferate, military power is increasingly shaped by industrial scale, technological adaptation and the ability to build, deploy and counter drones",
@@ -376,15 +502,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/drone-revolution-and-modern-warfare-explained/article71104697.ece",
     "time": "2026-09-02T11:26:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kalpana Iyer says she's ghosted after requesting for work: 'At 70, deserve respect'",
-    "desc": "Veteran actor Kalpana Iyer shared her disappointment with industry professionals. She expressed frustration over being ghosted after a viral video renewed interest. Iyer desires fair communication and opportunities for age-appropriate roles. She seeks decency and respect from filmmakers and industry contacts. The actor hopes for a chance to prove her continued acting capabilities.",
-    "img": "https://static.toiimg.com/photo/msid-133708612,imgsize-266353.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramba-ho-actress-kalpana-iyer-says-shes-ghosted-after-requesting-for-work-just-a-70-year-old-saying-be-decent-and-fair-at-least-inform-me/articleshow/133708140.cms",
-    "time": "2026-09-02T11:19:47.000Z"
   },
   {
     "cat": "Business",
@@ -403,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/english-cricket-team-take-u-turn-after-backlash-confirm-rape-acquitted-cricketer-wont-represent-club/articleshow/133706908.cms",
     "time": "2026-09-02T10:50:28.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Kareena regrets leaving education after Class 11, Taimur wants to be a cricketer/footballer",
-    "desc": "Kareena Kapoor Khan reflects on her decision to leave education after Class 11, expressing regret over not pursuing her studies further. With her sons' education as a priority, she encourages them to explore their passions. A strong advocate for girls' education, Kapoor Khan believes in the importance of compassion and kindness, emphasizing that charitable actions should arise from true personal connections.",
-    "img": "https://static.toiimg.com/photo/msid-133707149,imgsize-302524.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kareena-kapoor-khan-reveals-taimur-wants-to-be-a-cricketer-or-football-player-at-a-global-level-says-she-regrets-leaving-education-after-class-11-and-wants-her-kids-to-complete-studies-first/articleshow/133706623.cms",
-    "time": "2026-09-02T10:36:26.000Z"
   },
   {
     "cat": "Sports",
@@ -448,6 +556,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/in-2019-india-launched-its-first-vande-bharat-express-seven-years-later-came-the-sleeper-version-and-railways-now-plans-260-vande-sleeper-rakes-with-world-class-features/articleshow/133702275.cms",
     "time": "2026-09-02T08:21:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Can one man do everything? Forget ‘Niu Lai’, this Tamil indie film will shock you",
+    "desc": "Indie filmmaker Sangakiri Rajkumar has spent six long years to make ‘One Man,’ which he says is the first feature film in the world to be entirely made by just one person without any assistance",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/dnazfq/article71414953.ece/alternates/LANDSCAPE_1200/One%20Man%20Sankagiri%20Rajkumar.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/forget-niu-lai-this-tamil-indie-film-one-man-will-shock-you/article71414944.ece",
+    "time": "2026-09-02T07:58:37.000Z"
   },
   {
     "cat": "Entertainment",
@@ -511,15 +628,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/judge-sends-charlie-kirk-murder-case-to-trial-with-robinson-facing-potential-death-penalty/article71417970.ece",
     "time": "2026-09-02T03:55:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'The more you bowl, the stronger you become': Gurnoor Brar",
-    "desc": "Brar's schedule has been relentless. He flew in from Sri Lanka on Friday and turned up for the Duleep Trophy semifinal against South Zone at the BCCI Centre of Excellence on Sunday. Despite bowling 23 overs on a slow-paced surface, he maintained his intensity and finished with a four-wicket match haul in the first innings.",
-    "img": "https://static.toiimg.com/photo/msid-133696990,imgsize-56910.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/the-more-you-bowl-the-stronger-you-become-gurnoor-brar/articleshow/133696962.cms",
-    "time": "2026-09-02T03:54:13.000Z"
   },
   {
     "cat": "World",
@@ -594,15 +702,6 @@ const newsData_en = [
     "time": "2026-09-01T16:40:31.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Digital payments hit a record 24.51 bn transactions in August",
-    "desc": "In August, Unified Payments Interface hit an all-time high for monthly transaction volumes, largely fueled by festive celebrations like Raksha Bandhan that encouraged peer-to-peer transfers. As transaction values approached previous peaks, the digital payment landscape continued to evolve, with UPI now being embraced in eleven countries worldwide. The potential for further growth is promising as innovative use cases, such as credit options within UPI, start to gain traction.",
-    "img": "https://static.toiimg.com/photo/msid-133686102,imgsize-44818.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/upi-gets-festive-boost-digital-payments-hit-a-record-24-51-billion-transactions-in-august/articleshow/133685986.cms",
-    "time": "2026-09-01T15:34:12.000Z"
-  },
-  {
     "cat": "World",
     "title": "Palestine Foreign Minister",
     "desc": "In this exclusive conversation with The Hindu, the Palestinian Foreign Minister discusses the future of Gaza, the viability of the two-state solution, West Bank settler violence, Donald Trump’s peace plan, and the role of the international community. The minister also shares his views on India’s position, Palestinian unity, and prospects for lasting peace in the region.",
@@ -628,33 +727,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/duleep-trophy-sooryavanshi-kishan-take-east-into-the-final/article71415671.ece",
     "time": "2026-09-01T13:43:12.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran would 'immediately' reciprocate if U.S. returns to June deal: President Pezeshkian",
-    "desc": "His remarks came as the Strait of Hormuz remained a key point of contention between Iran and the United States, which resumed exchanging fire on August 31 after more than a month of relative calm",
-    "img": "https://th-i.thgim.com/public/incoming/z6oazu/article71414826.ece/alternates/LANDSCAPE_1200/2026-09-01T075128Z_1435261178_RC27ANAFJECQ_RTRMADP_3_IRAN-CRISIS-PEZESHKIAN-MOU.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/iran-would-immediately-reciprocate-if-us-returns-to-june-deal-president-pezeshkian/article71414808.ece",
-    "time": "2026-09-01T12:15:55.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "India’s tech jobs face another jolt: Oracle to cut 3,000, Microsoft puts 500 on PIPs",
-    "desc": "Global tech giant Microsoft has put around 500 employees in India on performance improvement plans (PIPs), while Oracle is preparing to cut roughly 3,000 jobs in the country as technology companies reorganise their workforces and redirect spending towards newer areas.",
-    "img": "https://static.toiimg.com/photo/msid-133678590,imgsize-497908.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-tech-workforce-gets-another-jolt-oracle-is-cutting-around-3000-jobs-while-microsoft-puts-about-500-employees-on-pips-as-companies-shift-budgets-towards-newer-skills/articleshow/133678507.cms",
-    "time": "2026-09-01T12:11:44.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "How Bengaluru techie achieved this",
-    "desc": "His financial journey, however, did not begin with a large salary or a carefully constructed investment portfolio. He claims he started investing small amounts in mutual funds soon after college, when he first became interested in financial independence.",
-    "img": "https://static.toiimg.com/photo/msid-133675671,imgsize-629107.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/he-hit-rs-1-crore-net-worth-at-26-rs-5-crore-at-29-and-rs-7-crore-at-31-how-bengaluru-techie-paid-off-property-debt-and-survived-a-failed-ai-app-on-his-financial-independence-retire-early-journey/articleshow/133674559.cms",
-    "time": "2026-09-01T10:02:00.000Z"
   },
   {
     "cat": "Business",
@@ -826,77 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
     "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
-    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
-    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
-    "time": "2024-03-11T10:00:44.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
-    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
-    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
-    "time": "2024-03-11T09:41:17.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Here’s how much the smartphone costs",
-    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
-    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
-    "time": "2024-03-11T09:36:12.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
-    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
-    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
-    "time": "2024-03-11T09:19:46.000Z"
   }
 ];
