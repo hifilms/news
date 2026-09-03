@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Rio Ferdinand reflects on Manchester United's transfer strategies after summer window's end",
+    "desc": "The summer transfer window has come to an end, and the football world saw some of the biggest names change their clubs for record fees. With the Premier League season well underway, there was a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/rio-ferdinand-reflects-on-manchester-united-s-transfer-strategies-after-summer-window-s-end-2026-09-03-1053162",
+    "time": "2026-09-03T07:17:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "VVS Laxman set to be India's head coach at Asian Games 2026, slated to play first game on September 28",
+    "desc": "The Asian Games is all set to kick off on September 24, and among the multitude of sports at the event, cricket will be one that will be heavily followed and discussed. The cricketing event...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vvs-laxman-set-to-be-india-s-head-coach-at-asian-games-2026-slated-to-play-first-game-on-september-28-2026-09-03-1053156",
+    "time": "2026-09-03T06:38:52.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former South Africa cricketer weighs in Rohit Sharma's importance for India ahead of ODI WC 2027",
+    "desc": "The stage is set for the ODI World Cup 2027; the marquee tournament will be held in Africa next year, and the Indian team is widely regarded as one of the biggest favourites. Ahead of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-south-africa-cricketer-weighs-in-rohit-sharma-s-importance-for-india-ahead-of-odi-wc-2027-2026-09-03-1053144",
+    "time": "2026-09-03T05:20:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rohit Sharma 'unhappy' amid selector's retirement directive ahead of ODI World Cup 2027",
+    "desc": "The ODI World Cup 2027 is rapidly approaching; the teams are hard at work preparing for the marquee tournament. The biggest teams in world cricket are already gearing up for the event, and ahead of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-unhappy-amid-selector-s-retirement-directive-ahead-of-odi-world-cup-2027-report-2026-09-03-1053139",
+    "time": "2026-09-03T04:22:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'It feels amazing': Bruno Guimaraes opens up joining Arsenal after stellar start to Premier League season",
+    "desc": "The Premier League 2026-27 season is well underway, and the various teams are aiming to put in their best efforts in hopes of getting off to a good start to the new season. The first...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/it-feels-amazing-bruno-guimaraes-opens-up-joining-arsenal-after-stellar-start-to-premier-league-season-2026-09-03-1053130",
+    "time": "2026-09-03T02:51:42.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Alexander Zverev eyes his second straight Grand Slam title with good start to US Open 2026",
     "desc": "The US Open 2026 is well underway, and some of the biggest tennis stars in the world are hard at work, aiming to put in their best performances in hopes of getting their hands on...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/tilak-varma-s-south-zone-beats-north-zone-to-seal-spot-in-duleep-trophy-final-against-east-2026-09-02-1053066",
     "time": "2026-09-02T10:36:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ollie Robinson gains big in latest ICC rankings, Dewald Brevis moves to top 4 in T20Is",
-    "desc": "Ollie Robinson has climbed to fifth in the latest men's Test bowling rankings after a strong run for England against Pakistan in the ongoing three-match Test series. In T20Is, South Africa's Dewald Brevis has moved...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ollie-robinson-gains-big-in-latest-icc-rankings-dewald-brevis-moves-to-top-4-in-t20is-2026-09-02-1053057",
-    "time": "2026-09-02T09:30:26.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Premier League clubs break all-time transfer fee record by spending over Rs 38,000 cr in summer",
-    "desc": "Premier League clubs have set a new summer transfer record after spending £3.46bn (Rs 38,041.66 crore), taking their expenditure well beyond the previous high of £3.14bn recorded 12 months ago. The new mark was reached...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/premier-league-clubs-break-all-time-transfer-fee-record-by-spending-over-rs-38-000-cr-in-summer-2026-09-02-1053051",
-    "time": "2026-09-02T08:30:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lakshya Sen suffers another early exit, knocked out of opening round of China Masters; Kidambi progresses",
-    "desc": "Lakshya Sen's difficult run continued at the China Masters in Shenzhen as the Indian was eliminated in the opening round by Canada's Victor Lai on Wednesday. The 2021 World Championships bronze medallist never recovered after...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/lakshya-sen-suffers-another-early-exit-knocked-out-of-opening-round-of-china-masters-kidambi-srikanth-progresses-2026-09-02-1053046",
-    "time": "2026-09-02T07:51:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI calls for review meeting after India's disappointing Ireland, England tour",
-    "desc": "The Board of Control for Cricket in India (BCCI) officials will hold a key meeting with India head coach, chief selector Ajit Agarkar and Centre of Excellence head VVS Laxman in Mumbai on Thursday to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-calls-for-review-meeting-after-india-s-disappointing-ireland-england-tour-2026-09-02-1053039",
-    "time": "2026-09-02T07:22:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Quinton de Kock matches Virat Kohli, David Warner's T20 record with century in CPL",
-    "desc": "South Africa international Quinton de Kock matched Virat Kohli and David Warner’s record for the third-most centuries in T20 cricket history. The keeper-batter achieved the feat with his 10th century in the shortest format of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/quinton-de-kock-matches-virat-kohli-david-warner-s-t20-record-with-century-in-cpl-2026-09-02-1053032",
-    "time": "2026-09-02T06:30:06.000Z"
   }
 ];
