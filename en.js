@@ -1,6 +1,87 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Mexican rocker shot dead with family, nanny and dog; son left alive",
+    "desc": "Mexican rock musician Jonathan Melendez and his family were found dead. His pregnant wife, young daughter, and nanny also died in the incident. Three victims were shot in the back of their heads, and one in the back. A six-year-old boy was found unharmed at the upscale home. Two men have been taken into custody in connection with the murders.",
+    "img": "https://static.toiimg.com/photo/msid-133748313,imgsize-274465.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/mexican-musician-jonathan-melendez-shot-dead-with-pregnant-wife-3-year-old-daughter-nanny-and-dog-6-year-old-son-left-alive/articleshow/133746219.cms",
+    "time": "2026-09-03T22:25:31.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Police seek indictment of Hybe's Bang Si-hyuk over investor fraud",
+    "desc": "South Korean police are seeking charges against Hybe chairperson Bang Si-hyuk for alleged investor fraud. He is accused of misleading investors in 2019 before Hybe's initial public offering. Police referred Bang and four others to prosecutors for alleged capital markets act violations. Bang's legal team stated he denies any wrongdoing and expects a transparent resolution. Prosecutors previously rejected arrest requests, asking for further investigation into the matter.",
+    "img": "https://static.toiimg.com/photo/msid-133746012,imgsize-59458.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/south-korean-police-seek-indictment-of-bang-si-hyuk-k-pop-mogul-behind-bts-over-alleged-investor-fraud/articleshow/133745909.cms",
+    "time": "2026-09-03T21:25:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dolly Parton’s cousin explains her final burial beside husband Carl Dean",
+    "desc": "Dolly Parton was privately buried beside her husband Carl Dean, with first cousin Richie Owens revealing that the country icon kept her cancer battle private from some family members. Owens said Parton wanted her farewell to remain small and quiet, while encouraging people to donate money they might spend on flowers to charity instead.",
+    "img": "https://static.toiimg.com/photo/msid-133745889,imgsize-79350.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dolly-partons-final-burial-beside-husband-carl-dean-explained-first-cousin-richie-owens-reveals-she-kept-cancer-battle-private-from-family-members-and-wanted-50-meant-for-flowers-donated-to-charity/articleshow/133745885.cms",
+    "time": "2026-09-03T20:29:07.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress’s criticism of GDP figures is a ‘dimagi Naxal’ mindset: BJP",
+    "desc": "BJP MP Anil Baluni said rebasing did not begin with Prime Minister Narendra Modi’s tenure, the present exercise was the ninth such revision since Independence, and there were five revisions when the Congress was in power",
+    "img": "https://th-i.thgim.com/public/news/national/ho8vk/article71425746.ece/alternates/LANDSCAPE_1200/iStock-2152570882.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/congresss-criticism-of-gdp-figures-is-a-dimagi-naxal-mindset-bjp/article71425465.ece",
+    "time": "2026-09-03T19:33:48.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India’s Q1 GDP at 7.8% beats RBI estimates: Why is Garg questioning the data?",
+    "desc": "India’s latest Gross Domestic Product numbers seem impressive. Growth exceeded RBI’s own estimate of 7% for the April-June quarter. How did this happen? Aren’t ongoing wars, tariffs, geopolitical uncertainty having an impact? Let’s dive in.",
+    "img": "https://th-i.thgim.com/public/incoming/ccongc/article71425725.ece/alternates/LANDSCAPE_1200/SUGAR%20SHORTAGE%20%20Biofuel%20vs%20Kitchen%20Tables%20%201.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/shows/watch-78-gdp-real-or-fake-recovery-business-matters/article71425427.ece",
+    "time": "2026-09-03T19:10:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Direct Uttarakhand CM to register FIR against those behind ‘purification’ of Haldwani rally site, Kharge writes to Nadda",
+    "desc": "The act amounts to the practice of untouchability, Congress chief says, adding that he will approach Rajya Sabha Chairman over the issue; ‘Even after 24 days of this incident, not even an FIR has been filed against the organisations and individuals involved in this heinous act,’ the Congress leader says",
+    "img": "https://th-i.thgim.com/public/incoming/okvnh1/article71423198.ece/alternates/LANDSCAPE_1200/PTI09_02_2026_000432B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttarakhand/purification-ritual-at-haldwani-rally-site-was-an-act-of-untouchability-kharge/article71423170.ece",
+    "time": "2026-09-03T18:37:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Smriti Mandhana surpasses Mithali Raj as women’s international cricket’s leading run-scorer",
+    "desc": "During India’s Asia Cup match against Hong Kong in Dubai, she went past Mithali Raj, the woman who almost single-handedly put Indian women’s cricket in the headlines when the sport had no takers, to become the leading scorer of international runs.",
+    "img": "https://th-i.thgim.com/public/incoming/hdmced/article71425666.ece/alternates/LANDSCAPE_1200/GettyImages-2282050410.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/smriti-mandhana-goes-past-mithali-raj-as-leading-scorer-of-international-runs/article71425580.ece",
+    "time": "2026-09-03T18:34:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Richard Hammond’s £1.99m mansion plans hit a setback after bats are found",
+    "desc": "Richard Hammond bought a £1.99 million Georgian mansion in Wales with plans to create a dream estate featuring a pavilion, padel court and car displays. However, his ambitious renovation plans could face delays after a wildlife survey discovered eight protected bat species using the 21-acre property, forcing Hammond to consider changes to protect their habitats.",
+    "img": "https://static.toiimg.com/photo/msid-133744230,imgsize-101310.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/tv/news/english/richard-hammond-bought-1-99m-welsh-mansion-with-plans-for-a-pavilion-padel-court-and-car-displays-but-plans-face-setback-after-eight-protected-bat-species-are-discovered/articleshow/133744189.cms",
+    "time": "2026-09-03T18:26:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Quality elementary teachers crucial to children, nation-building: Supreme Court",
+    "desc": "‘Though free and compulsory elementary education to all children aged 6 to 14 years has now attained the status of an enforceable fundamental right, we have not bestowed on teacher education the attention that it deserves,’ the court says",
+    "img": "https://th-i.thgim.com/public/incoming/vgyhdh/article71425642.ece/alternates/LANDSCAPE_1200/Supreme%20Court.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/quality-elementary-teachers-crucial-to-children-nation-building-supreme-court/article71425384.ece",
+    "time": "2026-09-03T18:14:56.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "In 2022, Matthew Perry confessed to having a crush on Jennifer Aniston before ‘Friends’",
     "desc": "In his 2022 memoir, Matthew Perry revealed his youthful infatuation with Jennifer Aniston, only to face a gentle rejection. Despite this awkward moment, their relationship blossomed into a profound friendship that endured over the years. Following Perry's passing, Aniston honored him with a touching tribute, highlighting a bond that went beyond their famous characters on the screen.",
     "img": "https://static.toiimg.com/photo/msid-133743581,imgsize-368849.cms",
@@ -16,6 +97,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/supreme-court-asks-nhai-to-consider-setting-up-cctvs-monitoring-rooms-at-toll-plazas/article71424663.ece",
     "time": "2026-09-03T17:52:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Srikanth stuns Lai, Tanvi loses in China Masters, Satwik-Chirag too win",
+    "desc": "The 33-year-old Srikanth, who had reached the US Open Super 300 final earlier this year, rallied his way to notch up an upset 21-18 21-19 win over Lai, who won his second World Championships bronze in New Delhi last month.",
+    "img": "https://th-i.thgim.com/public/incoming/ovm4qu/article71425581.ece/alternates/LANDSCAPE_1200/YONEX%20BADMINTON%20DELHI%2015_01_149.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/srikanth-stuns-lai-tanvi-loses-in-china-masters-satwik-chirag-too-win/article71425576.ece",
+    "time": "2026-09-03T17:45:09.000Z"
   },
   {
     "cat": "Sports",
@@ -36,15 +126,6 @@ const newsData_en = [
     "time": "2026-09-03T17:38:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Direct Uttarakhand CM to register FIR against those behind ‘purification’ of Haldwani rally site, Kharge writes to Nadda",
-    "desc": "The act amounts to the practice of untouchability, Congress chief says, adding that he will approach Rajya Sabha Chairman over the issue; ‘Even after 24 days of this incident, not even an FIR has been filed against the organisations and individuals involved in this heinous act,’ the Congress leader says",
-    "img": "https://th-i.thgim.com/public/incoming/okvnh1/article71423198.ece/alternates/LANDSCAPE_1200/PTI09_02_2026_000432B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttarakhand/purification-ritual-at-haldwani-rally-site-was-an-act-of-untouchability-kharge/article71423170.ece",
-    "time": "2026-09-03T17:36:36.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Sugar mills reassure adequate availability during festival season",
     "desc": "For most of the 2025–26 sugar season, mills have realised prices well below the normal cost of production of ₹42 per kg; the prices were ₹39.5–₹40.0 per kg in June and roughly ₹41- 41.5 per kg through August 2026",
@@ -63,33 +144,6 @@ const newsData_en = [
     "time": "2026-09-03T17:22:43.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Rajasthan High Court Acting Chief Justice rejects allegations, urges patience",
-    "desc": "In a statement, Justice Sanjeev Prakash Sharma calls upon lawyers, journalists and all concerned to ‘respect the principles of justice and exercise patience until the CJI takes a decision’; he says the SC judge’s allegations are baseless and have been levelled out of rancour",
-    "img": "https://th-i.thgim.com/public/incoming/k8em37/article71424965.ece/alternates/LANDSCAPE_1200/SC-Judge-seeks-GEQGESNJ8.4.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-high-court-acting-chief-justice-rejects-allegations-urges-patience/article71424266.ece",
-    "time": "2026-09-03T16:58:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CAQM in talks with Punjab, Haryana to improve stubble burning estimation protocol",
-    "desc": "“While the fire counts reported from satellite passes may not be the most accurate picture of the extent of farm fires, we are in talks with ISRO to have better ‘ground truthing’ protocols,” says Rajesh Varma, CAQM chief",
-    "img": "https://th-i.thgim.com/public/incoming/n3qk1p/article71425429.ece/alternates/LANDSCAPE_1200/6607_13_11_2025_17_28_16_2_IMG_20251113_172108.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/caqm-in-talks-with-punjab-haryana-to-improve-stubble-burning-estimation-protocol/article71424721.ece",
-    "time": "2026-09-03T16:54:15.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "7.8% GDP: real or fake recovery?",
-    "desc": "India’s latest Gross Domestic Product numbers seem impressive. Growth exceeded RBI’s own estimate of 7% for the April-June quarter. How did this happen? Aren’t ongoing wars, tariffs, geopolitical uncertainty having an impact? Let’s dive in.",
-    "img": "https://th-i.thgim.com/public/incoming/c50p63/article71425442.ece/alternates/LANDSCAPE_1200/SUGAR%20SHORTAGE%20Biofuel%20vs%20Kitchen%20Tables%201.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/shows/watch-78-gdp-real-or-fake-recovery-business-matters/article71425427.ece",
-    "time": "2026-09-03T16:53:36.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "BCCI’s big plan for Sooryavanshi: ‘Serve like Sachin, not be a one-year wonder’",
     "desc": "The BCCI is diligently tracking 15-year-old Vaibhav Sooryavanshi's development in cricket. With his remarkable debut as India's youngest men's international player following an explosive IPL performance, the board aims to capitalise on his promise for a sustainable international career. They are keen to ensure he avoids being labeled a fleeting talent while closely mentoring a broader pool of young players at the Centre of Excellence.",
@@ -106,24 +160,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/el-nino-could-be-strongest-in-decades-un-warns/article71425407.ece",
     "time": "2026-09-03T16:47:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Citizens term withdrawal of Parks Bill ‘victory for Bengaluru’",
-    "desc": "This is being seen as a rare victory after the government was forced to withdraw the steel flyover project in 2016 and the recent acquisition of lands in Devanahalli. The Opposition BJP has also claimed credit for the rollback",
-    "img": "https://th-i.thgim.com/public/incoming/pu9qw4/article71425382.ece/alternates/LANDSCAPE_1200/DSC_8890.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/bangalore/citizens-term-withdrawal-of-parks-bill-victory-for-bengaluru/article71424989.ece",
-    "time": "2026-09-03T16:38:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Deputy CM Losii Dikho",
-    "desc": "Naga groups have been demanding the removal of Ms. Kipgen, whose husband heads a Kuki group accused of carrying out attaks; continuing violence in hill districts will make 2027 Assembly polls difficult in Manipur, says Mr. Dikho",
-    "img": "https://th-i.thgim.com/public/incoming/kb8rut/article71425363.ece/alternates/LANDSCAPE_1200/20260408270L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/manipur/manipur-deputy-cm-nemcha-kipgen-switched-off-phone-after-naga-abductions-deputy-cm-losii-dikho/article71424033.ece",
-    "time": "2026-09-03T16:34:12.000Z"
   },
   {
     "cat": "World",
@@ -162,15 +198,6 @@ const newsData_en = [
     "time": "2026-09-03T16:11:17.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Take alternative steps to ensure not one acre dries up in A.P., officials told amid El Nino woes",
-    "desc": "Chief Minister directs Ministers, elected representatives and officials to visit fields and advise farmers on suitable crop alternatives; says govt. will keep ready 90,000 kg of seeds of less-water-intensive crops for distribution, ₹90 crore will be spent on seed subsidy",
-    "img": "https://th-i.thgim.com/public/incoming/l79jri/article71425237.ece/alternates/LANDSCAPE_1200/10215_23_8_2026_16_8_15_4_DSC_3216JPG.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/take-alternative-steps-to-ensure-not-one-acre-dries-up-in-ap-officials-told-amid-el-nino-woes/article71424617.ece",
-    "time": "2026-09-03T16:08:20.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Where are banks closed on Sept 4, 2026? Check list",
     "desc": "Indian banks across various states will be closed on September 4 to observe Krishna Janmashtami. Customers should be aware that further closures will occur throughout the month for additional festivals and elections. It's essential to check local holiday schedules for branch services, although digital banking and ATMs will continue to function normally. Plan accordingly for any urgent in-person banking needs during these times.",
@@ -178,15 +205,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/bank-holiday-on-janmashtami-where-are-banks-closed-on-september-4-2026-check-state-wise-list/articleshow/133740393.cms",
     "time": "2026-09-03T16:04:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Former EC Ashok Lavasa",
-    "desc": "Statutory institutions, constitutional bodies, and governments have suddenly started behaving as if “might is right”, says former EC; asks whether efforts are being made to create a situation where people become disenchanted with the democratic process",
-    "img": "https://th-i.thgim.com/public/incoming/9na9gr/article71425158.ece/alternates/LANDSCAPE_1200/IMG_PTI5_12_2019_000262B_2_1_VSBV4TRG.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/sir-may-be-legal-but-it-is-not-fair-former-ec-ashok-lavasa/article71424450.ece",
-    "time": "2026-09-03T16:03:29.000Z"
   },
   {
     "cat": "Entertainment",
@@ -324,15 +342,6 @@ const newsData_en = [
     "time": "2026-09-03T13:47:42.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Aaditya Thackeray dismisses Disha Salian link; Mamata alleges BJP-backed men vandalised TMC office &amp; more",
-    "desc": "Aaditya Thackeray denied links to Disha Salian’s death as the Bombay High Court ordered a CBI probe. FSSAI halted CG Foods’ Veg Bhujia production over alleged food safety violations. Mamata Banerjee alleged BJP-backed men vandalised a TMC office; six were arrested. Konda Surekha questioned her removal from Revanth Reddy’s cabinet, calling it vindictive. USS Abraham Lincoln reached Thailand after a 286-day deployment for crew rest.",
-    "img": "https://static.toiimg.com/photo/msid-133737865,imgsize-892539.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-aaditya-thackeray-dismisses-disha-salian-link-mamata-alleges-bjp-backed-men-vandalised-tmc-office-more/articleshow/133737738.cms",
-    "time": "2026-09-03T13:30:27.000Z"
-  },
-  {
     "cat": "Business",
     "title": "7.8% growth, but a Rs 6 lakh crore question: Why GDP data has sparked a debate",
     "desc": "One of the biggest points of discussion and questioning is the revision to Q1 FY26 GDP at current prices, that is the figures for last year's same quarter numbers. Under the old 2011-12 series, GDP was estimated at Rs 86.05 lakh crore. However, under the new series, it has subsequently been revised to Rs 80 lakh crore.",
@@ -405,15 +414,6 @@ const newsData_en = [
     "time": "2026-09-03T12:10:05.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Why personal-guarantor recoveries are so tiny — and why Chandra’s was tinier still",
-    "desc": "Subhash Chandra was offering just 0.03% of the loans for which he was a personal guarantor. But there should be no surprise here. In the history of such settlements in India, guarantors have paid an average 1% of the amount they stood guarantee for",
-    "img": "https://static.toiimg.com/photo/msid-133735748,imgsize-62435.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/why-personal-guarantor-recoveries-are-so-tiny-and-why-chandras-was-tinier-still/articleshow/133735442.cms",
-    "time": "2026-09-03T12:01:43.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "R Madhavan killed the audition for 'Swades', the film was originally written for Aamir",
     "desc": "Originally, Ashutosh Gowariker envisioned Aamir Khan as the lead for Swades. Although Aamir was intrigued by the story, he had concerns about the screenplay and was unable to commit due to scheduling conflicts. Other actors like Hrithik Roshan and R Madhavan also auditioned. Ultimately, Shah Rukh Khan stepped in and took the role, which profoundly influenced the film's legacy.",
@@ -439,42 +439,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/us-venezuelas-historic-deal-will-americans-get-cheaper-gas-now/articleshow/133733836.cms",
     "time": "2026-09-03T11:41:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Radhika explains what makes Nayanthara so successful at 'Hi' event",
-    "desc": "At the celebratory gathering for the film 'Hi', actress Radhika took center stage, humorously questioning Nayanthara's absence while showering compliments on the dynamic duo. She lauded Nayanthara's resilience and dedication in her illustrious career. Radhika fondly recounted her wonderful experiences with the movie's team, commemorating their hard work and the film's success.",
-    "img": "https://static.toiimg.com/photo/msid-133732522,imgsize-222427.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/radhika-sarathkumar-explains-what-makes-nayanthara-so-successful-and-teases-her-for-missing-hi-sucess-meet-she-is-very-strong-mentally/articleshow/133732505.cms",
-    "time": "2026-09-03T11:36:15.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Prashanth Neel’s ‘418’ faces CBFC hurdle due to horror elements",
-    "desc": "Prashanth Neel's anticipated horror film '418' is facing challenges with certification as the CBFC raises concerns about its excessive horror elements. In response, the filmmakers are appealing to the Revising Committee for a reassessment. The movie's theatrical premiere, initially scheduled for July 31, now hangs in the balance until the certification process is finalized.",
-    "img": "https://static.toiimg.com/photo/msid-133734952,imgsize-98669.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/prashanth-neels-418-faces-cbfc-hurdle-due-to-horror-elements-makers-approach-revising-committee/articleshow/133734918.cms",
-    "time": "2026-09-03T11:34:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Abhay Verma had 8 films that got SHELVED?",
-    "desc": "Abhay Verma revealed that 8 films he signed before Munjya got shelved, but he credits God's plan for keeping faith through the setbacks. He's now praised for Operation Safed Sagar and shared his acting philosophy of prioritizing being a good human. Upcoming projects include Laikey Laikaa, King, and Dilkashi.",
-    "img": "https://static.toiimg.com/photo/msid-133734793,imgsize-267110.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/did-you-know-before-munjya-abhay-verma-had-8-films-that-got-shelved-laikey-laikaa-actor-says-always-believed-in-gods-plan/articleshow/133734742.cms",
-    "time": "2026-09-03T11:28:06.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SC 'creamy layer' debate divides NDA; will it open up a Pandora's box?",
-    "desc": "Two influential Dalit leaders in Bihar are embroiled in a public discourse about sub-quotas related to existing reservations. This rift within the Scheduled Caste community may stir up political complexities for the NDA government. The BJP must navigate the demands of anti-reservation activists and also its allies, who seek changes in reservation policy, even as it strives to maintain the balance of its electoral coalition pressures.",
-    "img": "https://static.toiimg.com/photo/msid-133734301,imgsize-1330706.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/chirag-paswan-vs-jitan-manjhi-in-bihar-sc-creamy-layer-debate-divides-nda-will-it-open-up-a-pandoras-box/articleshow/133730668.cms",
-    "time": "2026-09-03T11:02:59.000Z"
   },
   {
     "cat": "Sports",
@@ -538,15 +502,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/neeraj-chopra-replaced-by-cwg-bronze-medallist-yashvir-singh-as-afi-announces-77-member-squad-for-asian-games/articleshow/133731951.cms",
     "time": "2026-09-03T10:10:48.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Khushi Kapoor serves modern luxury in Rs 4.95 lakh outfit",
-    "desc": "Khushi Kapoor is once again making a case for understated luxury. The actor stepped out in a head-to-toe Dior ensemble that combined statement detailing with relaxed silhouettes, bringing together pieces from Jonathan Anderson’s vision for the French fashion house. The outfit also came with a sizeable luxury price tag of approximately Rs. 4.95 lakh.",
-    "img": "https://static.toiimg.com/photo/msid-133732500,imgsize-138411.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/khushi-kapoor-serves-quiet-luxury-in-rs-4-95-lakh-look-featuring-a-sequined-knit-top-stonewashed-jeans-and-hobo-bag/articleshow/133732248.cms",
-    "time": "2026-09-03T10:00:37.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +853,50 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/why-mollywood-is-betting-big-on-major-onam-releases-this-year/article71316197.ece",
     "time": "2026-09-01T06:48:56.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "are compliance costs of privacy law crushing ed-tech businesses?",
+    "desc": "For an industry built on collecting exactly the kind of data the law now regulates — names, quiz scores, attendance records, AI tutoring conversations, sometimes biometric identifiers — the compliance bill is proving to be substantial",
+    "img": "https://th-i.thgim.com/public/videos/webinars/1g5ze2/article71395578.ece/alternates/LANDSCAPE_1200/iStock-1222000314.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/education/dpdp-act-are-compliance-costs-of-privacy-law-crushing-ed-tech-businesses/article71395358.ece",
+    "time": "2026-08-28T15:42:34.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Diesel’s desire: an engine for everyone",
+    "desc": "For someone who wished to build an engine for everyone, August turned out to be an auspicious month. On August 10, 1893, Rudolf Diesel’s prime model was powered on its own for the first time. Five years later, on August 9, 1898, Diesel obtained a U.S. patent titled “Internal-combustion engine”. Join A.S.Ganesh as he tries to explain what fuelled Diesel’s desire…",
+    "img": "https://th-i.thgim.com/public/incoming/o3bduy/article71285498.ece/alternates/LANDSCAPE_1200/09istb%20Historical_Diesel_engine_in_Deutsches_Museum.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/diesels-desire-an-engine-for-everyone/article71285487.ece",
+    "time": "2026-08-28T09:51:12.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Why is Instagram’s design under fire in massive child safety case",
+    "desc": "Meta has agreed to a settlement worth up to $16.68 billion in a case alleging Facebook and Instagram were designed to keep children engaged and collect their data. The company denies wrongdoing, but the agreement could bring major changes for teenage users across the United States.",
+    "img": "https://th-i.thgim.com/public/incoming/rpvzgq/article71397861.ece/alternates/LANDSCAPE_1200/Meta%20Thumb.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/why-is-instagrams-design-under-fire-in-massive-child-safety-case-explained/article71397862.ece",
+    "time": "2026-08-27T17:20:25.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "SRMIST, The Hindu to organise webinar on technology integration in medical profession",
+    "desc": "The session will explore how the medical profession is evolving with the rapid integration of Artificial Intelligence, robotics, and digital health, and how future doctors can adapt to these advancements while continuing to uphold clinical excellence and patient-centred care",
+    "img": "https://th-i.thgim.com/public/incoming/xze554/article71397312.ece/alternates/LANDSCAPE_1200/iStock-835833976.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/education/srmist-the-hindu-to-organise-webinar-on-technology-integration-in-medical-profession/article71396818.ece",
+    "time": "2026-08-27T15:13:25.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
   }
 ];
