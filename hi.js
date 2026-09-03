@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Tilak Varma wants to play Test cricket for India, says 'my strength is red-ball cricket'",
+    "desc": "South Zone captain Tilak Varma led by example as his team defeated North by seven wickets to qualify for Duleep Trophy final. The 23-year-old scored an unbeaten century in the first innings and added that...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/tilak-varma-wants-to-play-test-cricket-for-india-says-my-strength-is-red-ball-cricket-2026-09-03-1053206",
+    "time": "2026-09-03T12:03:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Discarded Pakistan player refuses to meet King Charles in protest of being dropped from squad",
+    "desc": "After an embarrassing 194-run defeat to England in the second Test at Lord’s, the Pakistan Cricket Board made wholesale changes. They dropped seven players, sacked head coach Sarfaraz Ahmed and bowling coach Umar Gul and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/discarded-pakistan-player-refuses-to-meet-king-charles-in-protest-of-being-dropped-from-squad-2026-09-03-1053197",
+    "time": "2026-09-03T11:03:10.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Aryna Sabalenka fumes at reporter after second-round win in US Open, says 'You think that I've been partying?'",
+    "desc": "Aryna Sabalenka moved into the third round of the US Open with a commanding 6-1, 6-1 victory over debutant Polina Iatcenko. The world number one gave Iatcenko little opportunity to settle into the contest, which...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/aryna-sabalenka-fumes-at-reporter-after-second-round-win-in-us-open-says-you-think-that-i-ve-been-partying-2026-09-03-1053189",
+    "time": "2026-09-03T10:16:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Carlos Alcaraz opens up on his stellar win at US Open 2026, opens up on playing at Arthur Ashe Stadium",
+    "desc": "Carlos Alcaraz has made his way into the third round of the ongoing US Open 2026. The star Spaniard is widely revered as one of the best tennis players in the world, and coming back...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-opens-up-on-his-stellar-win-at-us-open-2026-opens-up-on-playing-at-arthur-ashe-stadium-2026-09-03-1053183",
+    "time": "2026-09-03T09:33:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Elliot Anderson weighs in on his decision to join Manchester City ahead of much-awaited Manchester derby",
+    "desc": "The Premier League 2026-27 season has got off to a stellar start for Manchester City. One of the best teams in the league, City broke the bank once more, signing a plethora of big names...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/elliot-anderson-weighs-in-on-his-decision-to-join-manchester-city-ahead-of-much-awaited-manchester-derby-2026-09-03-1053176",
+    "time": "2026-09-03T08:43:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Will Rohit Sharma and Virat Kohli continue with international cricket after ODI WC? Former cricketer opines",
+    "desc": "The Indian team is gearing up for the ODI World Cup 2027; the marquee tournament will be held in South Africa, and the biggest teams in world cricket will look to put in their best...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/will-rohit-sharma-and-virat-kohli-continue-with-international-cricket-after-odi-wc-former-cricketer-opines-2026-09-03-1053170",
+    "time": "2026-09-03T07:58:01.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Rio Ferdinand reflects on Manchester United's transfer strategies after summer window's end",
     "desc": "The summer transfer window has come to an end, and the football world saw some of the biggest names change their clubs for record fees. With the Premier League season well underway, there was a...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-unhappy-amid-selector-s-retirement-directive-ahead-of-odi-world-cup-2027-report-2026-09-03-1053139",
     "time": "2026-09-03T04:22:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'It feels amazing': Bruno Guimaraes opens up joining Arsenal after stellar start to Premier League season",
-    "desc": "The Premier League 2026-27 season is well underway, and the various teams are aiming to put in their best efforts in hopes of getting off to a good start to the new season. The first...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/it-feels-amazing-bruno-guimaraes-opens-up-joining-arsenal-after-stellar-start-to-premier-league-season-2026-09-03-1053130",
-    "time": "2026-09-03T02:51:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Alexander Zverev eyes his second straight Grand Slam title with good start to US Open 2026",
-    "desc": "The US Open 2026 is well underway, and some of the biggest tennis stars in the world are hard at work, aiming to put in their best performances in hopes of getting their hands on...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/alexander-zverev-eyes-his-second-straight-grand-slam-title-with-good-start-to-us-open-2026-2026-09-03-1053123",
-    "time": "2026-09-03T01:39:14.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India to host first-ever Women's Champions Trophy; ICC confirms venue, start and final dates",
-    "desc": "The inaugural ICC Women’s Champions Trophy will be played in India next year. Mumbai and Vadodara have been selected to host the six-team tournament from February 14 to 28, 2027. The Cricket Club of India...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-to-host-first-ever-women-s-champions-trophy-icc-confirms-venue-start-and-final-dates-2026-09-02-1053094",
-    "time": "2026-09-02T13:53:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI review to focus on player fitness, ODI World Cup plans and future of Rohit Sharma",
-    "desc": "The BCCI's review meeting in Mumbai on Thursday will focus on injury management, India's plans for the 2027 ODI World Cup and the availability of key players ahead of the tour of New Zealand. Head...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-review-to-focus-on-player-fitness-odi-world-cup-plans-and-future-of-rohit-sharma-2026-09-02-1053092",
-    "time": "2026-09-02T13:38:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Charith Asalanka, former captain, announced as new Sri Lanka white-ball vice-captain as England squad unveiled",
-    "desc": "After being axed as ODI captain only three months ago and sidelined from T20Is six months back, Sri Lanka have appointed Charith Asalanka as the new white-ball vice-captain for the series against England. Kusal Mendis...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/charith-asalanka-former-captain-announced-as-new-sri-lanka-white-ball-vice-captain-as-england-squad-unveiled-2026-09-02-1053075",
-    "time": "2026-09-02T11:23:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tilak Varma's South Zone beats North Zone to seal spot in Duleep Trophy final against East",
-    "desc": "Tilak Varma's unbeaten half-century carried South Zone into the Duleep Trophy final after they chased down North Zone's target of 181 runs at BCCI’s Centre of Excellence. The captain led by example, scoring 116 not...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/tilak-varma-s-south-zone-beats-north-zone-to-seal-spot-in-duleep-trophy-final-against-east-2026-09-02-1053066",
-    "time": "2026-09-02T10:36:03.000Z"
   }
 ];

@@ -1,5 +1,59 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "દરિયામાં મરી ગયેલો જીન ફરી જીવિત થયો! 3 રાજ્યોમાં નદી નહીં દરિયો વહ્યો, વિનાશ જ વિનાશ",
+    "desc": "નેપાળમાં ગ્લેશિયર તૂટવાથી જે જળતાંડવ આવ્યું, તેના માટે ચીનને જવાબદાર ઠેરવવામાં આવી રહ્યું છે. નેપાળ સરકાર વારંવાર કહી રહી છે કે ચીને કરાર છતાં અર્લી વૉર્નિંગ પ્રોટોકોલનું પાલન કર્યું નથી. હવે ચીન પોતે જ નેપાળ કરતાં પણ ભયાનક પૂરનો સામનો કરી રહ્યું છે. ચીને દક્ષિણ ચીન સાગરમાંથી ઉઠેલા વાવાઝોડાની તાકાતને સમજવામાં ચૂક કરી દીધી. હવે તેની અસર ચીનના ત્રણ રાજ્યોને ભોગવવો પડી રહ્યો છે. જુઓ ચીનના ત્રણ રાજ્યોમાં તબાહીના આ દિલ ધ્રુજાવી દે તેવા દ્રશ્યો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/reborn-in-the-sea-typhoon-saudel-batters-fujian-and-zhejiang-with-catastrophic-floods-489987 ",
+    "time": "2026-09-03T12:09:50.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "અમેરિકાના સૌથી ક્રૂર જનરલને નૌ સેનાના બોસ બનાવશે ટ્રમ્પ, ઈરાનને ધ્રુજાવવા ખતરનાક પ્લાન : જાણો કોણ છે આ હંગ કાઓ",
+    "desc": "અમેરિકી રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પનો આ નવો નિર્ણય દુનિયાભરના વોર એક્સપર્ટ્સને ચોકાવી રહ્યો છે. આખરે ટ્રમ્પના મગજમાં શું ચાલી રહ્યું છે કે, પાંચ વર્ષથી રિટાયર થયેલા એક નેવી કમાન્ડરને સમગ્ર અમેરિકી નૌસેનાની કમાન સોંપવાનો નિર્ણય કરી લીધો. આ સવાલ એટલા માટે પણ મહત્વનો છે કારણ કે જે જનરલને ટ્રમ્પ અમેરિકી નૌસેનાનો સર્વેસર્વા બનાવવા જઈ રહ્યા છે તે અમેરિકી સેનામાં પોતાની કડકાઈ અને ટોર્ચરની હદ સુધીના શિસ્ત માટે કુખ્યાત રહ્યો છે. આ મામલો દુનિયાભરના એક્સપર્ટ શું કહી રહ્યા છે. સમજીએ આ ખાસ અહેવાલથી...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/the-most-ruthless-general-why-donald-trump-picked-hung-cao-to-lead-the-us-navy-489964 ",
+    "time": "2026-09-03T11:13:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bigg Boss 20 હોસ્ટ કરવા સલમાન ખાને કેટલી લીધી ફી ? આ વખતે શોના કંટેસ્ટેંટ કોણ કોણ છે જાણો",
+    "desc": "બિગ બોસ 20 ને લઈને નવી જાણકારી સામે આવી છે. 6 સપ્ટેમ્બરથી શો રિલીઝ થવાનો છે. આ વખતે શોને હોસ્ટ કરવા માટે સલમાન ખાને કેટલી ફી લીધી છે અને શોમાં કોણ કોણ જોવા મળશે ચાલો જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/bigg-boss-20-salman-khan-host-fee-who-are-contestants-of-bigg-boss-20-489962 ",
+    "time": "2026-09-03T10:51:06.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "38 મિનિટનો વિલંબ ભારે પડી ગયો! નેપાળની વોર્નિંગ સિસ્ટમમાં ક્યાં થઈ મોટી ભૂલ?",
+    "desc": "ભારતના પાડોશી દેશ નેપાળમાં 26 ઓગસ્ટના રોજ આવેલા ભયાનક ફ્લેશ ફ્લડની ત્રાસદીએ હાહાકાર મચાવી દીધો. જેમાં મૃત્યુઆંક 1200થી ઉપર ગયો છે અને 4000થી વધુ લોકો હજુ પણ ગૂમ છે. આ ત્રાસદી બાદ હવે સવાલ એ ઉઠી રહ્યો છે કે ચીન બોર્ડર પાસે ગ્લેશિયર તૂટવાથી અચાનક આવેલા પૂરની ચેતવણી સમયસર કેમ ન મળી?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/nepal-flash-floods-late-alert-how-warning-system-got-failed-489945 ",
+    "time": "2026-09-03T09:51:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "SIRમાં કપાઈ ગયું રાઘવ ચઢ્ઢાનું નામ, શું રાજ્યસભાની સદસ્યતા પણ જોખમમાં?",
+    "desc": "રાઘવ ચડ્ઢાનું નામ પંજાબની ડ્રાફ્ટ એસઆઈઆર યાદીમાં સામેલ નથી. રાજ્યસભાના સભ્યએ તેને રાજકીય બદલાની ભાવનાથી કરાયેલી કાર્યવાહી ગણાવી છ ે. આ સાથે જ એક સવાલ એ પણ ઉઠી રહ્યો છે કે જો રાઘવ ચડ્ઢાનું નામ SIRમાંથી કપાયું તો તેમની રાજ્યસભાની સદસ્યતા જશે કે શું?",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/is-raghav-chadha-rajya-sabha-membership-at-risk-question-raised-after-name-removed-from-sir-489940 ",
+    "time": "2026-09-03T09:09:12.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "હાઈથી સોનું 22000 અને ચાંદી 1.53 લાખ છે સસ્તી, આજે ભાવમાં શું ફેરફાર? ફટાફટ ચેક કરો લેટેસ્ટ રેટ",
+    "desc": "કડાકા બાદ આજે સોના અને ચાંદીમાં તેજીનો માહોલ જોવા મળી રહ્યો છે. સામે છેડે ક્રૂડ ઓઈલમાં કડાકો જોવા મળ્યો છે. આજે વાયદા બજાર અને રિટેલ બજાર બંનેમાં સોનું અને ચાંદી ચમક્યા છે. જો કે ઓલટાઈમ હાઈથી બંને કિમતી ધાતુ હજુ પણ ઘણી સસ્તી વેચાઈ રહી છે. જાણો લેટેસ્ટ રેટ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-are-still-cheaper-than-all-time-high-check-latest-rate-aaj-no-sona-no-bhav-489937 ",
+    "time": "2026-09-03T07:52:23.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "હવે રીલ્સથી સધાશે વોટ બેંક! PM મોદીના જન્મદિવસથી BJP ખેલશે નવો દાવ, 25 હજાર ડિજિટલ કહાનીઓ થશે તૈયાર",
     "desc": "ભાજપ હવે યુવાનોમાં પકડ વધારવા અને સોશિયલ મીડિયા પર પોતાની પહોંચ મજબૂત કરવા માટે પ્રચાર કરવાની રીત બદલવા જઈ રહી છે. પાર્ટી કાર્યકરો સાથે જોડાયેલી રીલ અને વીડિયોને સોશિયલ મીડિયા પર શેર કરવાની ઝુંબેશ ચલાવશે. દરેક શક્તિ કેન્દ્ર સ્તરે 10 રીલ બનાવવાનો લક્ષ્યાંક નક્કી કરવામાં આવ્યો છે. મુખ્યમંત્રી પણ આ રીલ્સને શેર કરશે.",
@@ -432,15 +486,6 @@ const newsData_gu = [
     "time": "2026-08-31T12:01:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ભારતના આ ગામમાં આજે પણ દરેક ઘરમાં બોલવામાં આવે છે સંસ્કૃત, ટેકનોલોજીના યુગમાં પણ જીવંત છે પ્રાચીન વારસો; જાણો",
-    "desc": "ભારતને વિવિધતા અને અનેક ભાષાઓનો દેશ કહેવામાં આવે છે, કારણ કે અહીં દરેક ક્ષેત્રની અલગ-અલગ ભાષાઓ અને હજારો બોલીઓ બોલાય છે. પરંતુ જ્યારે વાત આવે સૌથી પ્રાચીન ભાષાની ત્યારે બધાના મનમાં એક જ ભાષા આવે છે તે છે સંસ્કૃત. આજના ટેકનોલોજીના યુગમાં સંસ્કૃત ભાષા વિશે બહુ ઓછા લોકો જાણતા હશે. ત્યારે ભારતનું એક ગામ એવું પણ છે જ્યાં આજે પણ સંસ્કૃત ભાષા બોલવામાં આવે છે. ચાલો આ ગામ વિશે જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/sanskrit-is-still-spoken-in-every-home-in-this-village-in-india-the-ancient-heritage-is-alive-even-in-the-age-of-technology-know-489564 ",
-    "time": "2026-08-31T11:35:29.000Z"
-  },
-  {
     "cat": "World",
     "title": "&amp;#039;મુનીર પાર્ટ-2&amp;#039; અને અમેરિકા-ચીનની ગમતી રમત: પાકિસ્તાનની રાહ પર પડોશી દેશ, ભારતને 3 બાજુ ટેન્શન",
     "desc": "હવે સમાચાર બાંગ્લાદેશથી, જ્યાં આર્મી ચીફ જનરલ વકાર- ઉઝ-ઝમાન હવે પાકિસ્તાનના ફીલ્ડ માર્શલ અસીમ મુનીરના રસ્તા પર આગળ વધી રહ્યા છે. સૂત્રોના અનુસાર, બાંગ્લાદેશમાં જનરલ ઝમાનને ત્રણેય સેનાના ‘સુપ્રીમ કમાન્ડર’ અથવા ‘ચીફ ઑફ ડિફેન્સ સ્ટાફ’ બનાવવાની તૈયારી ચાલી રહી છે. તેનો સીધો અર્થ એ છે કે બાંગ્લાદેશની સેનાનું રિમોટ કંટ્રોલ હવે ત્યાંના રાષ્ટ્રપતિ અથવા વચગાળાની સરકારના હાથમાં નહીં, પરંતુ સીધું જનરલ વકાર-ઉઝ-ઝમાનના હાથમાં હશે.",
@@ -448,24 +493,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/general-waker-uz-zaman-bangladesh-army-chief-bangladesh-cds-news-supreme-commander-489563 ",
     "time": "2026-08-31T11:15:24.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "સપ્ટેમ્બરમાં 14 દિવસ બંધ રહેશે બેંકો, જાણો RBIએ આટલા દિવસ કેમ આપી રજા",
-    "desc": "જો તમે સપ્ટેમ્બરમાં બેંકની મુલાકાત લેવાનું આયોજન કરી રહ્યા છો, તો તમારે જાણવું જોઈએ કે શાખાઓ ક્યારે બંધ રહેશે અને ક્યારે ખુલી રહેશે. તહેવારો અને સાપ્તાહિક રજાઓને કારણે આ મહિનામાં બેંકો 14 દિવસ બંધ રહેશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/bank-holiday-banks-will-be-closed-for-14-days-in-september-know-why-489561 ",
-    "time": "2026-08-31T11:02:51.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "છૂટાછેડા બાદ કોણ ભરે છે જોઈન્ટ લોન? ઘર ખરીદતા પહેલાં જ જાણી લો આ મહત્વનો નિયમ",
-    "desc": "કાયદાકીય રીતે બે લોકો અલગ થઈ શકે છે, પરંતુ છૂટાછેડાનો તે મતલબ નથી કે ઘર ખરીદવા માટે લેવામાં આવેલી જોઈન્ટ હોમ લોન કે અન્ય લોનને લઈને પહેલા લેવામાં આવેલી જવાબદારી સીધી ખતમ થઈ જાય છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/who-pays-joint-home-loan-after-divorce-crucial-legal-rules-to-know-before-buying-a-house-489560 ",
-    "time": "2026-08-31T10:42:56.000Z"
   },
   {
     "cat": "Sports",
@@ -502,24 +529,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/hanuman-ansh-review-from-pain-to-god-a-film-that-reveals-the-unknown-story-of-neem-karoli-baba-read-the-review-489544 ",
     "time": "2026-08-31T08:49:04.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "&amp;#039;ગ્લેશિયર બોમ્બ&amp;#039;! ફાટયો તો 2 શહેરોના 80 હજાર લોકોને બચવા 30 મીનિટ પણ નહીં મળે, કહેવાય છે સફેદ દાનવ",
-    "desc": "શું નેપાળમાં થયેલી ભીષણ તબાહી અમેરિકામાં આવનારા મહાવિનાશનું ટ્રેલર છે. શું વોશિંગ્ટનની સુંદર વાદીઓમાં છુપાયેલો એક સફેદ દાનવ. કોઈ પણ ચેતવણી વિના લાખો જિંદગીઓને જીવતી દફન કરવાનો છે. આ સવાલ એટલા માટે કારણ કે, અમેરિકાના એક અત્યંત ખતરનાક જ્વાળામુખી માઉન્ટ રેનિયર અંગેની જુની ચેતવણી ફરી ચર્ચામાં આવી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/the-white-monster-of-washington-is-mount-rainier-americas-next-big-disaster-489542 ",
-    "time": "2026-08-31T08:32:30.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "1000 વર્ષ જૂના કોરલના અભ્યાસથી મોટો ઘટસ્ફોટ! 1982, 1997 અને 2015થી પણ ખતરનાક હશે આવનારું તોફાન?",
-    "desc": "આ વખતે અલ નીનો ખુબ મજબૂત હોવાની સંભાવના વ્યક્ત કરાઈ છે. ત્યારે 1000 વર્ષ જૂના સમુદ્રી પેટાળના કોરલ પર થયેલા એક અભ્યાસના તારણો ખુબ ચિંતાજનક છે. જેમાં ક્લાઈમેટ ચેન્જને કારણે અલ નીનો પહેલા કરતા 36 ટકા વધુ ખતરનાક અને શક્તિશાળી બન્યા હોવાની સંભાવના વ્યક્ત કરાઈ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/shocking-finding-of-1000-year-old-coral-study-el-nino-climate-change-489524 ",
-    "time": "2026-08-31T06:55:15.000Z"
   },
   {
     "cat": "Tech",
@@ -585,15 +594,6 @@ const newsData_gu = [
     "time": "2026-08-29T12:28:51.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "એશિયન ગેમ્સ 2026 પહેલા ભારતને મોટો ઝટકો, નીરજ ચોપરા ઈજાને કારણે બહાર",
-    "desc": "એશિયન ગેમ્સ 2026 પહેલા ભારતની આશાઓને મોટો ઝટકો લાગ્યો છે. સ્ટાર જેવલિન થ્રોઅર નીરજ ચોપરા ઈજાને કારણે ટુર્નામેન્ટમાં ભાગ લેશે નહીં. તેણે સોશિયલ મીડિયા દ્વારા જાહેરાત કરી હતી કે પ્રેક્ટિસ દરમિયાન લિગામેન્ટ ફાટવાને કારણે તે ટુર્નામેન્ટમાંથી બહાર થઈ ગયો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/big-blow-to-india-ahead-of-asian-games-2026-neeraj-chopra-out-due-to-injury-489277 ",
-    "time": "2026-08-29T09:46:49.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "બંટી નેગી એટલું મારતો કે નિશાન પડી જતા, ટોક્સિક સંબંધમાં 13 વર્ષ પસાર કરવાનું કારણ જણાવ્યું કામ્યા પંજાબીએ",
     "desc": "ટેલીવીઝનની જાણીતી અભિનેત્રી કામ્યા પંજાબીએ તેના એક ઈન્ટરવ્યુમાં પોતાના પહેલા લગ્ન વિશે ખુલાસો કર્યો છે. કામ્યા પંજાબીએ કારણ જણાવ્યું છે કે તેણે ટોક્સિક વ્યક્તિ સાથે 13 વર્ષ શા માટે પસાર કર્યા અને છેલ્લે કઈ વાતથી કંટાળી તેણે અલગ થઈ જવાનું નક્કી કર્યું.",
@@ -610,15 +610,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/toxic-movie-negative-review-effect-box-office-collection-down-by-60-percent-toxic-3-day-box-office-collection-489230 ",
     "time": "2026-08-29T02:50:30.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "100 પુરુષોની સામે ઉતારવા પડ્યા કપડાં, એક્ટ્રેસે સંભળાવ્યો 22 વર્ષ જૂનો કિસ્સો, કહ્યું: &amp;quot;બસ મારા અન્ડરવેર...&amp;quot;",
-    "desc": "દિયા મિર્ઝા એક પ્રખ્યાત બોલીવુડ અભિનેત્રી છે. તે ફક્ત તેની ફિલ્મો માટે જ નહીં પરંતુ તેના સ્પષ્ટવક્તા નિવેદનો માટે પણ જાણીતી છે. હાલમાં જ તેને સેટ પરની ઘટના સંભળાવી હતી અને તેમા જણાવ્યું હતું કે, 100 લોકો સામે મારે કપડા ઉતારવા પડ્યા હતા, મારે ખાલી અન્ડરવેર અને બ્રામાં જ શુટીંગ કરવાનું હતું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/having-to-take-off-my-clothes-in-front-of-100-men-the-actress-recounted-a-22-year-old-story-489187 ",
-    "time": "2026-08-28T12:56:18.000Z"
   },
   {
     "cat": "Tech",
@@ -655,14 +646,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/government-strict-on-e20-petrol-preparations-to-change-rules-after-complaints-of-vehicle-parts-failing-488946 ",
     "time": "2026-08-26T05:48:04.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "ફોનમાં 5G તો પણ ઇન્ટરનેટ છે ધીમું ? ફક્ત નેટવર્ક જ નથી, આ 5 કારણો પણ હોઈ શકે છે જવાબદાર",
-    "desc": "જો તમારા ફોનમાં 5G આઇકન દેખાય પછી પણ તમારા મોબાઈલમાં ઇન્ટરનેટ સ્પીડ ધીમી હોય, તો તેનો અર્થ એ નથી કે ફોન ખરાબ થઈ રહ્યો છે. તેનું કારણ શું હોઈ શકે છે અને તેને કેવી રીતે ઠીક કરવું તે જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/even-though-the-phone-has-5g-the-internet-is-still-slow-its-not-just-the-network-these-5-reasons-could-also-be-responsible-488724 ",
-    "time": "2026-08-24T10:44:47.000Z"
   }
 ];
