@@ -1,12 +1,255 @@
 const newsData_en = [
   {
-    "cat": "Entertainment",
-    "title": "How filmmaker Sulagna Chatterjee crowdfunded ‘Olakh’ with 230 supporters",
-    "desc": "A long therapy session gave Sulagna Chatterjee the beginnings of ‘Olakh’; months of crowdfunding gave her the means to make it. The short film, starring Suhasini Mulay and Nikita Grover has travelled from a Mumbai kitchen to the Indian Film Festival of Melbourne",
-    "img": "https://th-i.thgim.com/public/incoming/h5m66b/article71383207.ece/alternates/LANDSCAPE_1200/Olakh%20Still_11.png",
+    "cat": "Business",
+    "title": "Coal stock management emerges as key challenge for thermal power producers",
+    "desc": "India may not need a complete overhaul of its coal-allocation policy, but it must stress on sharper implementation, and fixing accountability on power producers who may not be adhering to the stipulated norms for maintaining adequate coal inventory.",
+    "img": "https://th-i.thgim.com/public/incoming/p6d3e7/article71428631.ece/alternates/LANDSCAPE_1200/bl20-Think1-MidG1VG98JLJ.5.jpg.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/how-filmmaker-sulagna-chatterjee-crowdfunded-olakh-with-230-supporters/article71383194.ece",
-    "time": "2026-09-04T12:49:41.000Z"
+    "url": "https://www.thehindu.com/business/Industry/coal-stock-management-emerges-as-key-challenge-for-thermal-power-producers/article71369117.ece",
+    "time": "2026-09-04T17:49:52.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tempers fly, traffic crawls as vehicle restrictions kick in on Bengaluru airport road",
+    "desc": "The Bengaluru Traffic Police (BTP) began enforcing its recent announcement of a ban on certain categories of vehicles on four elevated corridors in the city on Friday, with only the Airport Road flyover seeing a ban on two-wheelers",
+    "img": "https://th-i.thgim.com/public/incoming/xmfhmj/article71429708.ece/alternates/LANDSCAPE_1200/DSC_5674.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/bangalore/tempers-fly-traffic-crawls-as-vehicle-restrictions-kick-in-on-bengaluru-airport-road/article71429665.ece",
+    "time": "2026-09-04T17:47:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Someone is smoking weed’: Sabalenka stops US Open match mid-game — Watch",
+    "desc": "In an unexpected turn during her US Open match, world number one Aryna Sabalenka was distracted by a strong cannabis odor. Noticing the smell while facing Kamilla Rakhimova, she promptly alerted the chair umpire, leading to a consultation with tournament officials. This peculiar incident is reportedly linked to park regulations in the area. Despite the unusual challenge, Sabalenka maintained her composure and triumphed in straight sets to advance.",
+    "img": "https://static.toiimg.com/photo/msid-133772515,imgsize-1313092.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/someone-is-smoking-weed-aryna-sabalenka-halts-play-mid-game-at-us-open-complains-for-strong-smell-watch/articleshow/133772225.cms",
+    "time": "2026-09-04T17:33:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Jaishankar says India in touch with Russia, Ukraine to help end war",
+    "desc": "India's External Affairs Minister S. Jaishankar is actively engaging with both Ukraine and Russia. He is exploring potential ideas and suggestions to help end the ongoing conflict. India believes dialogue and diplomacy are essential for resolving the protracted war. Minister Jaishankar met with Ukrainian leadership and Polish officials during his visit. Discussions also covered trade, technology, and security cooperation between India and Poland.",
+    "img": "https://static.toiimg.com/photo/msid-133773030,imgsize-40682.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/jaishankar-says-india-in-touch-with-russia-ukraine-to-help-end-war/articleshow/133772701.cms",
+    "time": "2026-09-04T17:33:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Supreme Court pushes for raising retirement age in district judiciary to 62 as case backlog exceeds five crore",
+    "desc": "Top court says it is ‘crying need of the hour’ to stop attrition of experienced judicial talent otherwise access to justice would remain a mere chimera due to unfilled posts; only 7 States, including T.N and Karnataka, have responded positively to the SOS",
+    "img": "https://th-i.thgim.com/public/incoming/3az2ma/article71429678.ece/alternates/LANDSCAPE_1200/6744_19_8_2025_16_9_6_4_18_08_2025_SUPREME_COURT01.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/supreme-court-pushes-for-raising-retirement-age-in-district-judiciary-to-62-as-case-backlog-exceeds-five-crore/article71429394.ece",
+    "time": "2026-09-04T17:22:43.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "More than a week after Nepal’s deadliest flood disaster in years, here’s what we know so far",
+    "desc": "More than a week after catastrophic floods struck Nepal, rescue teams continue searching for the missing as authorities assess the scale of destruction. Here’s a look at what caused the disaster, the latest casualty figures, and the ongoing relief and recovery efforts.",
+    "img": "https://th-i.thgim.com/public/incoming/vzqs2z/article71429682.ece/alternates/LANDSCAPE_1200/TH%20EXPLAIN%202.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/more-than-a-week-after-nepals-deadliest-flood-disaster-in-years-heres-what-we-know-so-far/article71429685.ece",
+    "time": "2026-09-04T17:22:01.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "U.N. approves resolution in support of map that shows Africa’s true size",
+    "desc": "16th-century Mercator map diminishes size of Africa; Togo-led U.N. initiative to further African Union campaign for new map; West African nation aims ​to use Equal Earth map in schools by the end of the year; United ‌States was the only country to vote against",
+    "img": "https://th-i.thgim.com/public/latest-news/xxlxir/article71429666.ece/alternates/LANDSCAPE_1200/Mercator_projection_SW.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/science/un-approves-resolution-in-support-of-mapthat-shows-africas-true-size/article71429647.ece",
+    "time": "2026-09-04T17:16:39.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kochi metro needs 17 more train rakes for Kakkanad, airport extensions",
+    "desc": "The additional rakes will be needed to maintain a train frequency of six to seven minutes on the proposed 11.20-km Pink Line to Kakkanad and the subsequent 19-km airport extension; only five to eight rakes would be sufficient for the Kakkanad corridor",
+    "img": "https://th-i.thgim.com/public/incoming/ogfug5/article71429652.ece/alternates/LANDSCAPE_1200/Metro02.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kochi-metro-needs-17-more-train-rakes-for-kakkanad-airport-extensions/article71408085.ece",
+    "time": "2026-09-04T17:03:14.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘This is a mistake’: Srikkanth slams India’s ‘fear-driven’ squad for Afghanistan series",
+    "desc": "Former cricketer Kris Srikkanth criticised India's squad selection for the Afghanistan series. He believes selectors missed an opportunity to test younger players. Srikkanth described the decision as a mistake influenced by recent defeats. The selectors opted for an experienced team instead of experimenting with new talent. This approach was seen as a safe move after losses in Ireland and England.",
+    "img": "https://static.toiimg.com/photo/msid-133771112,imgsize-132238.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/this-is-a-mistake-srikkanth-slams-indias-fear-driven-squad-for-afghanistan-series/articleshow/133771010.cms",
+    "time": "2026-09-04T16:43:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'No one could erase Sanatan Dharma': Uttar Pradesh CM Yogi Adityanath celebrates Janmashtami in Mathura",
+    "desc": "Uttar Pradesh Chief Minister Yogi Adityanath said, \"The proclamations made by Lord Krishna over 5000 years ago remain just as relevant today. Its relevance is upheld by the principle of 'Paritranaya Sadhunam Vinashaya cha Dushkritam'; wherever the forces of goodness exist, they will be protected under all circumstances.\"",
+    "img": "https://static.toiimg.com/photo/msid-133770572,imgsize-60786.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/no-one-could-erase-sanatan-dharma-uttar-pradesh-cm-yogi-adityanath-celebrates-janmashtami-in-mathura/articleshow/133770573.cms",
+    "time": "2026-09-04T16:29:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Developed countries must take lead': India calls for climate finance after Nepal flood",
+    "desc": "India urged developed nations to lead emissions cuts and aid developing countries. Developed nations must provide finance and technology transfer for climate action. India expressed solidarity and support for Nepal's reconstruction efforts after floods. Nepal clarified no compensation was sought from India or other major economies. Both nations agreed to collaborate on Himalayan climate change impacts.",
+    "img": "https://static.toiimg.com/photo/msid-133770504,imgsize-116348.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/developed-countries-must-take-lead-india-calls-for-climate-finance-after-nepal-flood/articleshow/133770239.cms",
+    "time": "2026-09-04T16:25:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kerala High Court warns Chief Secretary Biswanath Sinha of contempt proceedings over clerical posts in district judiciary",
+    "desc": "The court was considering a petition by the Kerala Civil Judicial Staff Organisation seeking action against Sinha by initiating contempt proceedings for not complying with the direction to create and sanction the required clerical posts within the district judiciary",
+    "img": "https://th-i.thgim.com/public/incoming/9ozgwb/article71429439.ece/alternates/LANDSCAPE_1200/IMG_HC_2_1_LOFMRFQK.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-warns-chief-secretary-biswanath-sinha-of-contempt-proceedings-over-clerical-posts-in-district-judiciary/article71429314.ece",
+    "time": "2026-09-04T16:02:13.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Tension in Arunachal over inclusion of ‘non-indigenous’ groups in SIR",
+    "desc": "The alleged inclusion of Chakma and Hajong communities in the electoral rolls led to violence in the State, with one person injured; the Chakmas have stated that members of their group were prevented from appearing at the SIR hearing",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/arunachal-pradesh/tension-in-arunachal-over-inclusion-of-non-indigenous-groups-in-sir/article71428767.ece",
+    "time": "2026-09-04T15:59:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NULM conservancy workers temporarily call off protests",
+    "desc": "Several demands, including a food allowance of ₹50 a day from October 1, have been agreed upon during the latest talks with the State government; the next round of negotiations have been scheduled for October 3",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/7cqh9f/article71429446.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-04%20at%209.22.02%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/nulm-conservancy-workers-temporarily-call-off-protests/article71428573.ece",
+    "time": "2026-09-04T15:58:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Focus on cricket, not the noise,’ Mithali tells India ahead of Pakistan clash",
+    "desc": "India secured a Women's Asia Cup semifinal spot after a dominant win. The team now prepares for a crucial match against Pakistan in Dubai. Former captain Mithali Raj advises players to focus on cricket and their roles. She believes India is the favourite to win the upcoming match. The Asia Cup serves as a vital platform for developing teams and reclaiming the title.",
+    "img": "https://static.toiimg.com/photo/msid-133769536,imgsize-183573.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/womens-asia-cup-focus-on-cricket-not-the-noise-mithali-raj-tells-india-ahead-of-pakistan-clash/articleshow/133769432.cms",
+    "time": "2026-09-04T15:54:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hanuman Ansh director recalls being rejected by OTT platform",
+    "desc": "Hanuman Ansh, a spiritual drama on Neem Karoli Baba, has earned Rs 61 crore in 27 days despite a slow start. Director Vishal Chaturvedi revealed an OTT platform rejected his pitch using \"derogatory\" language, though he called rejection routine for filmmakers. The film stars Shobhinaw Satyaa and Vihaan Shedge, running 2 hours 30 minutes.",
+    "img": "https://static.toiimg.com/photo/msid-133769148,imgsize-179173.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hanuman-ansh-director-vishal-chaturvedi-recalls-being-rejected-by-ott-platform-calls-it-derogatory/articleshow/133768637.cms",
+    "time": "2026-09-04T15:41:56.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Breather for India? Trump’s Russia sanctions bill may be stalled for now; could have led to 100% tariffs",
+    "desc": "Lawmakers are concerned that the legislation could give President Donald Trump broader authority to impose tariffs and potentially push oil prices higher. Meanwhile, India’s reliance on Russian crude has increased sharply and is at record levels.",
+    "img": "https://static.toiimg.com/photo/msid-133768944,imgsize-676887.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/breather-for-india-trumps-russia-sanctions-bill-may-be-stalled-for-now-could-have-led-to-100-tariffs/articleshow/133768779.cms",
+    "time": "2026-09-04T15:36:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "SAI creates ‘Little Japan’ in India: Athletes get a taste of Asian Games life in containers",
+    "desc": "The Sports Authority of India has launched a unique facility inspired by Japanese culture, featuring accommodations fashioned from shipping containers. These two-bedroom units are equipped with contemporary amenities, immersing athletes in Japanese cuisine such as ramen, sushi, and tempura crafted by skilled chefs. This endeavour is geared towards helping athletes adjust to Japan ahead of the upcoming Asian Games, while also providing permanent transit housing for visiting families.",
+    "img": "https://static.toiimg.com/photo/msid-133768644,imgsize-215853.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/sai-creates-little-japan-in-india-athletes-get-a-taste-of-asian-games-life-in-containers/articleshow/133768371.cms",
+    "time": "2026-09-04T15:26:13.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Chennai emerges as key development hub for Zoom’s Global Contact Center",
+    "desc": "Zoom President of Product and Engineering Velchamy Sankarlingam says Chennai has a key role in developing the company’s Contact Center, while AI is reshaping the skills it needs to hire and the way its support workforce operates",
+    "img": "https://th-i.thgim.com/public/business/h71ju8/article71429164.ece/alternates/LANDSCAPE_1200/Velchamys%20photo.jpg.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/Industry/chennai-emerges-as-key-development-hub-for-zooms-global-contact-center/article71428682.ece",
+    "time": "2026-09-04T15:00:29.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Missouri court blocks Trump-backed U.S. House map, orders it to be put to vote",
+    "desc": "Missouri Attorney General Catherine Hanaway, a Republican, said she would immediately appeal to the U.S. Supreme Court, asserting that the decision “has thrust our State into a full-fledged Constitutional crisis.” Missouri's new districts were used in the August primaries",
+    "img": "https://th-i.thgim.com/public/incoming/jafgzd/article71429049.ece/alternates/LANDSCAPE_1200/Abortion_Missouri_14221.jpg-877a2.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/missouri-court-blocks-trump-backed-us-house-map-orders-it-to-be-put-to-vote/article71428642.ece",
+    "time": "2026-09-04T14:36:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Keyaa Banerji lifted 140kg &amp; went viral. Then came AI images, fake accounts &amp; online abuse",
+    "desc": "Keyaa Kunal Banerji, a talented Indian powerlifter, showcased her skills by winning a silver medal at the IPF Jr Worlds. However, her triumph was overshadowed by online harassment and disturbing AI-generated impersonations. To combat this, Banerji established a new account to take back control of her narrative and share her true story. She aspires to gain recognition for her achievements, distancing herself from inappropriate online portrayals.",
+    "img": "https://static.toiimg.com/photo/msid-133766794,imgsize-198828.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/keyaa-banerji-lifted-140kg-and-went-viral-then-came-thousands-of-ai-images-fake-accounts-and-online-abuse-why-she-created-a-new-instagram-account/articleshow/133766556.cms",
+    "time": "2026-09-04T14:31:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘The Magic Faraway Tree’ movie review: Andrew Garfield, Claire Foy bring enchanting Enid Blyton adaptation to life",
+    "desc": "A charming adaptation of Enid Blyton’s ‘Faraway Tree’ stories with an excellent cast and delightful production design, ‘The Magic Faraway’ Tree offers a chance to slide down the Slippery Slip and revisit the weird and wonderful lands atop the tree",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/b34mdd/article71428695.ece/alternates/LANDSCAPE_1200/The%20Magic%20Faraway%20Tree.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/the-magic-faraway-tree-movie-review-enid-blyton-andrew-garfield-claire-foy-faraway-tree-stories-enchanting/article71428433.ece",
+    "time": "2026-09-04T13:49:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Bargaining tactics? Why BJP's 'solo pitch' in Punjab may have message for Akalis",
+    "desc": "In a bold move, the BJP is hinting at a solo run for each of the 117 assembly seats in Punjab. Party leaders have made it clear they'll compete independently. Conversely, Shiromani Akali Dal officials are pushing to renew their partnership with the BJP. Currently, the BJP appears to have the upper hand in negotiations, although both factions remain open to the possibility of joining forces down the line.",
+    "img": "https://static.toiimg.com/photo/msid-133764693,imgsize-1058545.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/bargaining-tactics-why-bjps-solo-pitch-in-punjab-may-have-message-for-akalis/articleshow/133763437.cms",
+    "time": "2026-09-04T13:45:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Richard O'Sullivan passes away at the age of 82",
+    "desc": "Richard O'Sullivan, best known as Robin Tripp in Man About the House and Robin's Nest, has died at 82 at Brinsworth House care home. Tributes poured in from the Royal Variety Charity and his son James. His career spanned decades, from child acting to Cleopatra, before he found fame in British sitcoms.",
+    "img": "https://static.toiimg.com/photo/msid-133765416,imgsize-181307.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/richard-osullivan-man-about-the-house-actor-passes-away-at-the-age-of-82/articleshow/133765348.cms",
+    "time": "2026-09-04T13:42:38.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'We will formulate plan': Ram Temple's first CEO Jeetendra Mishra after Ayodhya trip",
+    "desc": "Air Marshal Jeetendra Mishra (retd) has assumed charge as the first CEO of the Ram temple trust. He expressed that the responsibility for the Ram temple now rests upon his shoulders. Mishra's appointment follows an administrative overhaul within the trust after donation controversies. He is focused on understanding the temple and trust's operational functions. The trust aims to strengthen administrative and financial systems as temple operations expand.",
+    "img": "https://static.toiimg.com/photo/msid-133765413,imgsize-46880.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/we-will-formulate-plan-ram-temples-first-ceo-jeetendra-mishra-after-ayodhya-trip/articleshow/133764298.cms",
+    "time": "2026-09-04T13:42:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pak coach Hesson breaks silence on shake-up, says 'I don't know what happened'",
+    "desc": "Mike Hesson, the interim coach for Pakistan, has refuted any claims of his involvement in the decision to send home senior players. He clarified that Mohammad Rizwan, Salman Ali Agha, and Imam-ul-Haq had already departed. Hesson is now focused on fine-tuning the squad for the final Test, emphasizing a well-rounded bowling lineup with greater diversity, while integrating new talent to enhance team balance.",
+    "img": "https://static.toiimg.com/photo/msid-133765153,imgsize-59934.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-coach-mike-hesson-breaks-silence-on-mid-england-series-shake-up-says-i-really-dont-know-what-happened/articleshow/133765017.cms",
+    "time": "2026-09-04T13:37:14.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Phuket-Delhi flight incident: Air India terminates pilot who tested positive for drugs",
+    "desc": "Air India terminated a pilot's employment after he tested positive for a psychoactive substance. This action followed an incident where the aircraft experienced multiple hydraulic failures. The flight encountered an altitude upset, causing injuries to passengers and crew. The Aircraft Accident Investigation Bureau recommended action against the pilot. A detailed investigation into the incident remains ongoing.",
+    "img": "https://static.toiimg.com/photo/msid-133764995,imgsize-100360.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/phuket-delhi-flight-fiasco-air-india-terminates-pilot-who-tested-positive-for-drugs/articleshow/133764677.cms",
+    "time": "2026-09-04T13:26:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Sometimes I forget that I'm also famous': Alex Eala is rewriting tennis stardom",
+    "desc": "Alexandra Eala secured a significant win at the US Open, advancing to the third round. Her popularity is rapidly growing, attracting large crowds and media attention. Eala's commercial portfolio expands globally, reflecting her widespread appeal. The scheduling of her matches sparks debate about popularity versus on-court success. Her influence now rivals her tennis results in the modern era.",
+    "img": "https://static.toiimg.com/photo/msid-133764756,imgsize-58952.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/sometimes-i-forget-that-im-also-kind-of-famous-alex-eala-is-rewriting-tennis-stardom-at-us-open-2026/articleshow/133764689.cms",
+    "time": "2026-09-04T13:21:16.000Z"
   },
   {
     "cat": "World",
@@ -15,7 +258,34 @@ const newsData_en = [
     "img": "https://th-i.thgim.com/public/incoming/wmm17e/article71428011.ece/alternates/LANDSCAPE_1200/AFP_67WQ79K.jpg",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/un-rights-chief-calls-for-greateraction-toend-sri-lankas-long-legacy-of-impunity/article71427942.ece",
-    "time": "2026-09-04T12:47:12.000Z"
+    "time": "2026-09-04T13:12:06.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "How filmmaker Sulagna Chatterjee crowdfunded ‘Olakh’ with 230 supporters",
+    "desc": "A long therapy session gave Sulagna Chatterjee the beginnings of ‘Olakh’; months of crowdfunding gave her the means to make it. The short film, starring Suhasini Mulay and Nikita Grover has travelled from a Mumbai kitchen to the Indian Film Festival of Melbourne",
+    "img": "https://th-i.thgim.com/public/incoming/h5m66b/article71383207.ece/alternates/LANDSCAPE_1200/Olakh%20Still_11.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/entertainment/movies/how-filmmaker-sulagna-chatterjee-crowdfunded-olakh-with-230-supporters/article71383194.ece",
+    "time": "2026-09-04T13:05:44.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Manoj questions viral praise",
+    "desc": "Tukaram Mundhe, Maharashtra's FDA Commissioner, has gone viral for strict crackdowns on hygiene violations, earning the nickname \"real-life Singham.\" Manoj Bajpayee praised his honesty but questioned why doing one's job is celebrated. Salman Khan also joked about sending Mundhe to check his friend's new Bandra cafe if hygiene standards slipped.",
+    "img": "https://static.toiimg.com/photo/msid-133763953,imgsize-244082.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/manoj-bajpayee-praises-tukaram-mundhe-questions-why-honest-work-is-now-big-deal/articleshow/133763851.cms",
+    "time": "2026-09-04T12:58:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Thank you, dear PM Modi': Meloni signals deepening India-Italy strategic embrace",
+    "desc": "Italian Prime Minister Giorgia Meloni thanked Prime Minister Narendra Modi for his congratulatory message, saying the relationship between Italy and India is “stronger than ever” and highlighting their Special Strategic Partnership. Meloni has served as Italy’s PM since October 22, 2022. On Thursday, after completing 1,413 consecutive days in office, she became the country’s longest continuously serving prime minister since World War II.",
+    "img": "https://static.toiimg.com/photo/msid-133764047,imgsize-124207.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/thank-you-dear-pm-modi-meloni-signals-deepening-india-italy-strategic-embrace/articleshow/133763417.cms",
+    "time": "2026-09-04T12:53:13.000Z"
   },
   {
     "cat": "Sports",
@@ -63,15 +333,6 @@ const newsData_en = [
     "time": "2026-09-04T12:05:27.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "The dedicated band of district correspondents",
-    "desc": "For five decades, the district correspondents chronicled the changing face of united Andhra Pradesh, taking the newspaper beyond capitals and corridors of power into villages, conflict zones and remote hinterlands. From painstaking trunk-call filings to laptops and digital reporting, they brought grassroots voices, rural concerns, political shifts, social movements and crises to readers, becoming the quiet pillars of the newspaper’s credibility and legacy. They laid the foundation for what became one of the strongest district reporting networks among English-language newspapers in the State",
-    "img": "https://th-i.thgim.com/public/incoming/1pxwkh/article71426943.ece/alternates/LANDSCAPE_1200/C.-V.-Anand-otG2KGG0I0E.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/the-dedicated-band-of-district-correspondents/article71424359.ece",
-    "time": "2026-09-04T12:00:27.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sindarov keeps Gukesh showdown on hold, says preparation starts after Olympiad",
     "desc": "Javokhir Sindarov is set to clash with D Gukesh for the world championship later this year, with preparations for the momentous encounter starting after the Global Chess League and the Olympiad. Currently, Sindarov is concentrating on these events but acknowledges Gukesh's prowess and is committed to delivering his best play. Their historic duel, featuring two talented twenty-year-olds, is slated for November in Geneva.",
@@ -117,15 +378,6 @@ const newsData_en = [
     "time": "2026-09-04T11:30:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "What did the Supreme Court say about paid maternity leave?",
-    "desc": "Why did the Supreme Court strike down Section 60(4) of the Social Security Code, 2020? What did it say about maternity leave for adoptive mothers? What did the Court recommend that the Union government do regarding paternity leave?",
-    "img": "https://th-i.thgim.com/public/newsletter/the-evening-wrap/4d7dse/article70770278.ece/alternates/LANDSCAPE_1200/iStock-672165776.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/what-did-the-supreme-court-say-about-paid-maternity-leave/article70770019.ece",
-    "time": "2026-09-04T11:26:27.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Koffee With Karan Season 9’ guest list out",
     "desc": "Koffee With Karan Season 9 returns this Diwali, with reports suggesting Vicky Kaushal, Diljit Dosanjh, the Dil Chahta Hai and K3G casts, Akshay Kumar, Ajay Devgn, and newlyweds Vijay Deverakonda-Rashmika Mandanna among the guests. Meanwhile, Karan Johar is set to direct Radha Krishna, a devotional love story, under Dharma Productions.",
@@ -144,15 +396,6 @@ const newsData_en = [
     "time": "2026-09-04T11:16:44.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Examine if hydropower generation can be shifted to night, Kerala State Electricity Regulatory Commission tells Kerala State Electricity Board",
-    "desc": "Commission has made the suggestion on the assumption that shifting production to night will help address the after-6 p.m. electricity shortages, thereby avoiding expensive power procurement from outside the State. Commission’s rationale is that Keralam has surplus power during the daytime on account of the sharp rise in solar power capability in recent years",
-    "img": "https://th-i.thgim.com/public/incoming/6v94o6/article71428025.ece/alternates/LANDSCAPE_1200/KSEB_02.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/examine-if-hydropower-generation-can-be-shifted-to-night-kerala-state-electricity-regulatory-commission-tells-kerala-state-electricity-board/article71427881.ece",
-    "time": "2026-09-04T11:14:38.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Iceland Cricket offers to ‘learn strategy’ from PCB chief",
     "desc": "clearing an iceberg for an adventurous trip. This humorous jab comes on the heels of a major shake-up in Pakistan's squad following a string of defeats. Previously, the chairman had defended board decisions by pointing out India's losses, emphasizing the ongoing scrutiny of the cricket administration in Pakistan.",
@@ -160,15 +403,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mohsin-naqvi-gets-a-fresh-roast-iceland-cricket-offers-all-expenses-paid-trip-to-learn-selection-strategy-from-pcb-chief/articleshow/133760013.cms",
     "time": "2026-09-04T10:49:24.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Making Hyderabad’s vertical boom safer",
-    "desc": "The collapse of an unauthorised seven-storey structure in Gachibowli last month has left residents dealing with damaged homes, disrupted businesses and concerns over the safety of a neighbourhood that has grown rapidly upwards. As PG accommodations and hostels proliferate alongside new construction, civic authorities have stepped up enforcement against unsafe and unauthorised structures. Siddharth Kumar Singh looks at the changing landscape of one of the city’s fastest-growing neighbourhoods",
-    "img": "https://th-i.thgim.com/public/incoming/rdc9di/article71425727.ece/alternates/LANDSCAPE_1200/Two-workers-kilG5DGEBEPT.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Hyderabad/making-hyderabads-vertical-boom-safer/article71425723.ece",
-    "time": "2026-09-04T10:44:22.000Z"
   },
   {
     "cat": "Politics",
@@ -252,24 +486,6 @@ const newsData_en = [
     "time": "2026-09-04T09:37:11.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "A city that keeps reinventing its industrial DNA",
-    "desc": "From public sector giants and engineering clusters to pharmaceutical powerhouses, IT parks and frontier technologies, Hyderabad’s industrial landscape has evolved itself with the changing times. While public investment laid the scientific and manufacturing foundations; liberalisation unleashed potential of private enterprises and technology transformed the city’s economic identity",
-    "img": "https://th-i.thgim.com/public/incoming/7kk55m/article71427323.ece/alternates/LANDSCAPE_1200/IMG_IMG_BDL_3_1_K28SRN18_2_1_2R9RVR0O.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Hyderabad/a-city-that-keeps-reinventing-its-industrial-dna/article71424339.ece",
-    "time": "2026-09-04T09:34:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "How Hyderabad spread beyond its ‘boundaries’",
-    "desc": "In five decades, the capital has transformed from a compact city into a sprawling, multi-centred metropolis. Jobs, migration, rising incomes and major infrastructure projects have pushed development far beyond its historic core, creating new residential and commercial hubs across the west, south and north — and reshaping not just the city’s skyline, but the way people work",
-    "img": "https://th-i.thgim.com/public/incoming/om0kmm/article71425643.ece/alternates/LANDSCAPE_1200/nearby1_hyddd_GGIBFOGUA3.5.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Hyderabad/how-hyderabad-spread-beyond-its-boundaries/article71424320.ece",
-    "time": "2026-09-04T09:30:53.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Dulquer Salmaan wishes wife Amaal on birthday with a playful message",
     "desc": "Dulquer Salmaan made his wife Amaal Sufiya's birthday special with a cheeky message, cleverly tying it to the recent release of his film. His heartfelt wishes showcased their strong connection, even as he shared a light-hearted nod to the premiere of 'I'm Game', which has received a spectrum of reviews from viewers.",
@@ -304,24 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-references-fda-chief-tukaram-mundhe-while-warning-friends-bandra-cafe-amid-food-safety-crackdown-hygiene-maintained-or-i-will-send-him/articleshow/133757911.cms",
     "time": "2026-09-04T09:16:36.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "The enduring power of Fourth Estate",
-    "desc": "From exposing major scandals to challenging censorship and highlighting grassroots failures, media has repeatedly served as democracy’s watchdog. Its influence reflects the role of free press in holding governments accountable, informing citizens and ensuring that voices of people are heard",
-    "img": "https://th-i.thgim.com/public/incoming/p0dvz8/article71427590.ece/alternates/LANDSCAPE_1200/Sitaram_and_N_Ram.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/the-enduring-power-of-fourth-estate/article71424281.ece",
-    "time": "2026-09-04T09:07:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Belagavi residents appeal to Cantonment Board not to bar locals from roads in camp area",
-    "desc": "They are opposed to the proposed transfer of Albert Ekka Road, Smart Road, and Queen’s Garden Road to the army, as well as the proposal to install high barricades on Independence Road and Gymkhana Road",
-    "img": "https://th-i.thgim.com/public/incoming/g3drhe/article71427661.ece/alternates/LANDSCAPE_1200/MORNING%20MIST",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/belagavi-residents-appeal-to-cantonment-board-not-to-bar-locals-from-roads-in-camp-area/article71411793.ece",
-    "time": "2026-09-04T08:58:56.000Z"
   },
   {
     "cat": "Entertainment",
@@ -378,33 +576,6 @@ const newsData_en = [
     "time": "2026-09-04T08:09:35.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'Toxic' BO Day 10 [LIVE]: Yash and Kiara Advani film nears Rs 240 crore",
-    "desc": "'Toxic' starring Yash, Nayanthara and Kiara Advani's gangster drama has reached Rs. 239.52 crore India net, with Rs. 285.96 crore gross domestically and Rs. 328.45 crore worldwide. After a Rs. 101.10 crore opening, the film witnessed a steady slowdown but remains close to the Rs. 250 crore India net milestone. Here's a look at its day-wise earnings, overseas performance, upcoming targets, plot, cast and latest updates.",
-    "img": "https://static.toiimg.com/photo/msid-133755535,imgsize-72430.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/toxic-box-office-collection-day-10-live-yash-nayanthara-kiara-advani-film-targets-rs-250-crore-milestone-amid-slowdown-and-stiff-competition-from-hanuman-ansh-and-mirzapur-the-movie/articleshow/133755466.cms",
-    "time": "2026-09-04T07:43:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Aamir recalls Reema's 'harsh' scolding on sets: 'How dare you?'",
-    "desc": "In a candid remark, Aamir Khan recounted Reema Kagti's rigid discipline while filming 'Lagaan' and 'Talaash'. Exemplifying her commitment to time management, she called out Khan for his delays, making it clear that being late on the 'Talaash' set was unacceptable. Additionally, Kagti turned down his plea for an early breakfast on 'Lagaan', highlighting her no-nonsense approach to maintaining order.",
-    "img": "https://static.toiimg.com/photo/msid-133755959,imgsize-631318.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khan-recalls-reema-kagtis-harsh-scolding-on-lagaan-and-talaash-sets-she-blasted-me-so-badly-and-said-how-dare-you-come-late/articleshow/133755938.cms",
-    "time": "2026-09-04T07:43:24.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Lagaan' actor Amin Hajee opens up on how it 'destroyed' him",
-    "desc": "After the triumph of Lagaan, actor and writer Amin Hajee encountered difficulties, turning down various offers that led to a turbulent phase characterized by monetary dilemmas and personal stress. His partner, Charlotte Whitby-Coles, provided unwavering support during this challenging journey. Hajee found his way back to stability by writing for Vikram Bhatt, before finally directing his feature film, Koi Jaane Na, motivated by the encouragement of his devoted wife.",
-    "img": "https://static.toiimg.com/photo/msid-133755830,imgsize-800014.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/lagaan-actor-amin-hajee-opens-up-on-career-struggles-after-the-film-and-how-it-destroyed-him-whatever-offers-i-received-after-that-were-zero/articleshow/133754807.cms",
-    "time": "2026-09-04T07:36:56.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Samson-Sooryavanshi to open? Ex-India cricketer suggests new opening combination",
     "desc": "In an exciting update, Sanju Samson has been reintegrated into India's T20I squad for the upcoming Afghanistan series. Deep Dasgupta, the former player, has recommended experimenting with a batting partnership of Samson and the talented Vaibhav Sooryavanshi, who caught the selectors' eye during the Zimbabwe series. Dasgupta stresses that exploring combinations is vital for India's preparations ahead of the World Cup.",
@@ -432,15 +603,6 @@ const newsData_en = [
     "time": "2026-09-04T07:20:05.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Use of drugs serious concern, act on it quickly, AAIB to DGCA on AI Phuket-Delhi flight interim report",
-    "desc": "An Air India flight experienced severe turbulence and multiple hydraulic failures. The pilot-in-command tested positive for a psychoactive substance after the incident. This led to an interim safety recommendation from the AAIB to the DGCA. The aircraft suffered significant cabin damage during the extreme turbulence event. Investigations into the technical causes of the hydraulic failure are still ongoing.",
-    "img": "https://static.toiimg.com/photo/msid-133754516,imgsize-100360.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/use-of-drugs-serious-concern-act-on-it-quickly-aaib-to-dgca-on-ai-phuket-delhi-flight-interim-report/articleshow/133754232.cms",
-    "time": "2026-09-04T06:43:34.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘World laughing at Pakistan?’: PCB slammed for turning team into ‘laughingstock’",
     "desc": "Nasser Hussain lambasts the Pakistan Cricket Board for its recent overhaul following the Test team's disappointing performance in England. The drastic measures involved sending home seven players and two coaches, leading Hussain to declare that the team's integrity has been compromised, stating they have become a laughingstock. Furthermore, he expressed concern regarding the public critiques aimed at player Imam-ul-Haq, questioning their validity.",
@@ -457,15 +619,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-what-is-the-gold-rate-outlook-for-september-04-2026-should-you-buy-or-sell-mcx-gold/articleshow/133753645.cms",
     "time": "2026-09-04T06:26:57.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Air India Phuket-Delhi incident: All 3 hydraulic systems failed; pilot tested positive for psychoactive substance",
-    "desc": "An unsettling incident occurred when an Air India pilot's post-flight drug test returned a non-negative result for a psychoactive substance. This followed a dramatic altitude drop over Odisha, resulting in injuries to twenty passengers and four crew members. The Aircraft Accident Investigation Bureau has identified this as a serious problem, calling for the Directorate General of Civil Aviation to respond urgently.",
-    "img": "https://static.toiimg.com/photo/msid-133754416,imgsize-873385.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/air-india-phuket-delhi-flight-incident-pilot-tested-positive-for-psychoactive-substance/articleshow/133753335.cms",
-    "time": "2026-09-04T05:57:23.000Z"
   },
   {
     "cat": "Business",
@@ -486,33 +639,6 @@ const newsData_en = [
     "time": "2026-09-04T05:52:25.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘Horrible’! Babar Azam’s ‘authority’ questioned after PCB’s dramatic shake-up",
-    "desc": "Michael Atherton has expressed doubts regarding Babar Azam's effectiveness as captain, especially following the Pakistan Cricket Board's sweeping squad alterations after two consecutive Test losses. The dismissal of seven players and coaches midway through a series points to potential issues surrounding Babar's leadership and overall strategy, casting shadows over his role as captain in the upcoming final Test match.",
-    "img": "https://static.toiimg.com/photo/msid-133752014,imgsize-62430.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/horrible-babar-azams-authority-questioned-after-pcbs-dramatic-shake-up/articleshow/133751981.cms",
-    "time": "2026-09-04T04:39:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Profound inspiration for selfless action': PM Modi extends greetings to nation on Janmashtami",
-    "desc": "Prime Minister Narendra Modi shared heartfelt Janmashtami greetings with the nation, reflecting on how Lord Krishna's teachings spur selfless deeds and lead humanity towards a brighter future. President Draupadi Murmu echoed these sentiments, urging all Indians to embody Krishna's virtues. In support, Home Affairs Minister Amit Shah hailed Krishna as the symbol of righteousness, while opposition leader Mallikarjun Kharge extended wishes for joy, harmony, and abundance to all.",
-    "img": "https://static.toiimg.com/photo/msid-133751353,imgsize-173798.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/profound-inspiration-for-selfless-action-pm-modi-extends-greetings-to-nation-on-janmashtami/articleshow/133751059.cms",
-    "time": "2026-09-04T03:59:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Outstanding achievement': PM Modi hails Isro after successful EOS-05 launch",
-    "desc": "Prime Minister Modi lauded ISRO's successful GSLV-F17 rocket launch carrying the EOS-05 satellite. This mission marked an outstanding achievement and a proud moment for the nation. The rocket precisely placed the 2,367-kg satellite into its intended orbit. ISRO chief V Narayanan confirmed the satellite's good health after injection. This launch adds to India's growing earth observation capabilities.",
-    "img": "https://static.toiimg.com/photo/msid-133750730,imgsize-62312.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/outstanding-achievement-pm-modi-hails-isro-after-successful-eos-05-launch/articleshow/133750679.cms",
-    "time": "2026-09-04T03:13:40.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Stock market recommendations for September 4, 2026",
     "desc": "Capri Global Capital Ltd, Engineers India Ltd, and Acme Solar Holdings - these are the top stocks to buy today on September 4, 2026 recommended by Hitesh Rathi, Technical Analyst (Equity & Derivatives) at Angel One.",
@@ -520,15 +646,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-september-04-2026-capri-global-capital-ltd-engineers-india-acme-solar-holdings-stocks-to-buy-today/articleshow/133749822.cms",
     "time": "2026-09-04T02:30:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Bumrah faces key fitness test before AFG T20Is as Prince Yadav emerges as backup",
-    "desc": "With the Afghanistan series and Asian Games on the horizon, the cricket community is keenly waiting for Jasprit Bumrah's fitness reports. Meanwhile, potential backup player Prince Yadav is being considered for the squad. This week, several players will participate in match simulation tests, with the medical team clearing them for practice games. There’s pressure on Bumrah to play a first-class match prior to the upcoming New Zealand Test series.",
-    "img": "https://static.toiimg.com/photo/msid-133749694,imgsize-1380602.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/jasprit-bumrah-faces-key-fitness-test-before-afghanistan-t20is-as-prince-yadav-emerges-as-backup/articleshow/133749647.cms",
-    "time": "2026-09-04T02:19:39.000Z"
   },
   {
     "cat": "Sports",
@@ -547,15 +664,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/volkswagen-plans-another-50000-job-cuts-in-biggest-restructuring-in-90-years/articleshow/133749317.cms",
     "time": "2026-09-04T01:47:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘I didn’t know all of this happened’: Mandhana reacts after rewriting history",
-    "desc": "Smriti Mandhana set a new record by scoring 124 runs in an impressive innings against Hong Kong, playing a pivotal role in India's decisive victory in the tournament. This milestone marks her as the first Indian woman to reach this T20 international achievement, surpassing Mithali Raj in total runs. Next up, India is poised to challenge Pakistan in a much-anticipated match.",
-    "img": "https://static.toiimg.com/photo/msid-133749130,imgsize-93664.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/i-didnt-know-all-of-this-happened-smriti-mandhana-reacts-after-rewriting-womens-cricket-history/articleshow/133749094.cms",
-    "time": "2026-09-04T01:01:18.000Z"
   },
   {
     "cat": "Business",
@@ -639,33 +747,6 @@ const newsData_en = [
     "time": "2026-09-03T16:29:44.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Level 8 employee could earn up to Rs 28.89 lakh extra if 7% increment is implemented",
-    "desc": "Employee bodies have argued that the current 3% annual increment is not sufficient to keep pace with rising expenses. Their recommendations have ranged from 5% to 7%. If such proposals are accepted, a higher increment rate of 5% or 7% would have a direct impact on the salary progression of central government employees.",
-    "img": "https://static.toiimg.com/photo/msid-133741137,imgsize-645571.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/8th-pay-commission-salary-hike-calculator-a-level-8-employee-could-earn-up-to-rs-28-89-lakh-extra-over-10-years-if-annual-increment-rises-from-3-to-7-with-2-15-fitment-factor/articleshow/133740989.cms",
-    "time": "2026-09-03T16:16:53.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Where are banks closed on Sept 4, 2026? Check list",
-    "desc": "Indian banks across various states will be closed on September 4 to observe Krishna Janmashtami. Customers should be aware that further closures will occur throughout the month for additional festivals and elections. It's essential to check local holiday schedules for branch services, although digital banking and ATMs will continue to function normally. Plan accordingly for any urgent in-person banking needs during these times.",
-    "img": "https://static.toiimg.com/photo/msid-133740944,imgsize-104892.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/bank-holiday-on-janmashtami-where-are-banks-closed-on-september-4-2026-check-state-wise-list/articleshow/133740393.cms",
-    "time": "2026-09-03T16:04:36.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Couple buys Rs 60 lakh flat, husband taxed on Rs 34.81 lakh stamp-duty gap; ITAT objects",
-    "desc": "Can the entire difference between a property’s actual purchase price and its stamp-duty value be added to the income of just one of its co-owners? A recent ruling by ITAT Mumbai has addressed this question in a case involving a husband and wife who jointly purchased a property.",
-    "img": "https://static.toiimg.com/photo/msid-133739535,imgsize-715393.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/couple-bought-flat-jointly-for-rs-60-lakh-stamp-value-was-rs-94-81-lakh-taxman-added-entire-rs-34-81-lakh-gap-to-husbands-income-why-itat-said-its-not-justified/articleshow/133739300.cms",
-    "time": "2026-09-03T14:50:01.000Z"
-  },
-  {
     "cat": "World",
     "title": "At least five dead, dozens missing after migrant boat found drifting near Spain's Canary Islands",
     "desc": "While it was difficult to get precise information given their fragile state of health, migrants reported leaving Gambia and being stranded at sea for “many, many days.” Some estimated they had been at sea for nearly a month. Running out of provisions, they fell ill from drinking seawater",
@@ -673,15 +754,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/spain-canary-islands-west-african-migrant-boat-drifting-casualties/article71424278.ece",
     "time": "2026-09-03T13:58:22.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "7 countries giving Indians new routes to study, work and settle",
-    "desc": "The point is not that America has become less relevant. It's about the rest of the world finally catching up as a credible alternative. Germany may offer a clearer skilled-employment pathway; Australia a combination of education and skilled migration; Singapore access to Asian markets; the UAE long-term residence without a conventional permanent-immigration model",
-    "img": "https://static.toiimg.com/photo/msid-133738308,imgsize-602898.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/us-is-no-longer-the-only-choice-7-countries-giving-indians-new-routes-to-study-work-and-settle/articleshow/133733862.cms",
-    "time": "2026-09-03T13:52:01.000Z"
   },
   {
     "cat": "Entertainment",
@@ -709,15 +781,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/what-could-have-prompted-the-latest-hike-in-commercial-lpg-prices/article71422910.ece",
     "time": "2026-09-03T09:04:28.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Trump floats renaming Strait of Hormuz as 'Trump Strait'",
-    "desc": "Many of the previous name changes, including Gulf of Mexico as the \"Gulf of America”, started off as apparently jovial remarks by the 80-year-old U.S. President before he then followed through to make them a reality.",
-    "img": "https://th-i.thgim.com/public/incoming/jl7lp7/article71420999.ece/alternates/LANDSCAPE_1200/Trump_Dodging_Responsibility__6321.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/trump-floats-renaming-strait-of-hormuz-as-trump-strait/article71420981.ece",
-    "time": "2026-09-03T02:50:05.000Z"
   },
   {
     "cat": "Sports",
@@ -801,33 +864,6 @@ const newsData_en = [
     "time": "2026-09-01T18:33:29.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "A legacy that will stand the test of time",
-    "desc": "For 21 years, the left-footed forward from Rosario was La Albiceleste’s heartbeat, navigating his way through ups and downs with remarkable poise and inimitable brilliance. Having announced his international retirement via a post on social media on Monday, the 39-year-old brings an end to a career that entailed a record 207 appearances, 125 goals, one World Cup and two Copa America titles",
-    "img": "https://th-i.thgim.com/public/incoming/7g8a1x/article71416942.ece/alternates/LANDSCAPE_1200/GettyImages-2284541267.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/football/messi-and-argentina-a-legacy-that-will-stand-the-test-of-time/article71416871.ece",
-    "time": "2026-09-01T17:45:41.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Tamil Nadu’s sprinters shine",
-    "desc": "Promising sprinter Neil Samraj R of Tamil Nadu dominated the men’s 100m dash. His winning time of 10.46 seconds was better than the previous youth national record of 10.63 seconds set by Anshu Rajak in 2023 in Coimbatore",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/national-youth-championships-tamil-nadus-sprinters-shine/article71416926.ece",
-    "time": "2026-09-01T17:42:28.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Duleep Trophy",
-    "desc": "The Punjab and North Zone pacer, who has been fast-tracked into the India ODI and Test set-up, is neither averse to operating for long periods on unhelpful wickets nor holds himself back from bowling at high pace",
-    "img": "https://th-i.thgim.com/public/incoming/6ymtzx/article71415901.ece/alternates/LANDSCAPE_1200/_DSC9148.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/duleep-trophy-gurnoor-goes-old-school-the-more-you-bowl-the-stronger-you-become/article71415838.ece",
-    "time": "2026-09-01T14:26:04.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "are compliance costs of privacy law crushing ed-tech businesses?",
     "desc": "For an industry built on collecting exactly the kind of data the law now regulates — names, quiz scores, attendance records, AI tutoring conversations, sometimes biometric identifiers — the compliance bill is proving to be substantial",
@@ -862,41 +898,5 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
     "time": "2024-03-12T18:20:42.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
-    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
-    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
-    "time": "2024-03-12T13:38:13.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "3 ways Google aims to support the 2024 Indian General Elections",
-    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
-    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
-    "time": "2024-03-12T09:46:51.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
-    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
-    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
-    "time": "2024-03-12T09:45:05.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
-    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
-    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
-    "time": "2024-03-11T10:20:19.000Z"
   }
 ];

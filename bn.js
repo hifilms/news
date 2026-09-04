@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Entertainment",
+    "title": "বিগ বসের ঘরে প্রথম ওয়াইল্ড কার্ড এন্ট্রিতে আসছেন স্যান্ডি সাহা? জনপ্রিয়, বিতর্কিত এই তারকাকে নিয়ে জল্পনায় তোলপাড়",
+    "desc": "‘বিগ বস’-এর চিরাচরিত রীতি অনুযায়ী, প্রতিযোগীদের খেলা যখন কিছুটা চেনা ছকে বাঁধা পড়ে, ঠিক তখনই নতুন মাত্রা ও রোমাঞ্চ যোগ করতে নিয়ে আসা হয় ওয়াইল্ড কার্ড এন্ট্রি। সোশ্যাল মিডিয়ায় জোর জল্পনা, চলতি সিজনে দর্শকদের চমক দিতে প্রস্তুত হচ্ছেন স্যান্ডি সাহা।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/entertainment/bigg-boss-bangla-sandy-saha-likely-to-enter-as-wild-card-possible-face-off-with-sayak-chakraborty-sparks-buzz_669617.html ",
+    "time": "2026-09-04T16:11:26.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "মুম্বই থেকে বিমান ভূস্বর্গের মাটি ছুঁতেই সজোরে ধাক্কা ইলেকট্রিক পোলে: দুমড়ে মুচড়ে গেল নাক-- শুক্রবার সকালে ইন্ডিগোর ফ্লাইটে ভয়ংকর দুর্ঘটনা",
     "desc": "এয়ারপোর্টস অথরিটি অফ ইন্ডিয়া বা এএআই সূত্রে জানা গিয়েছে, ইন্ডিগোর 6E 225, রেজিস্ট্রেশন নম্বর VT-NOG বিমানটি নিউ মুম্বই থেকে শুক্রবার সকালে শ্রীনগরে এসে পৌঁছয়। সকাল প্রায় ৯টা ২ মিনিটে বিমানটিকে ৬ নম্বর পার্কিং বে-তে নিয়ে যাওয়া হচ্ছিল।",
@@ -268,15 +277,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/toxic-review-youtuber-suraj-kumar-legal-notice-yash-film-court-injunction_668515.html ",
     "time": "2026-08-28T10:52:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "বিপদ কাটিয়ে নেপাল থেকে কলকাতায় ফিরলেন খরাজ, বিমানবন্দরে পৌঁছেই দিলেন স্বস্তির বার্তা",
-    "desc": "নেপালে শ্যুটিং করতে গিয়ে ভয়াবহ হড়পা বান ও ভূমিধসের মধ্যে আটকে পড়েছিলেন অভিনেতা খরাজ মুখোপাধ্যায় ও তাঁর স্ত্রী প্রতিভা। শেষ পর্যন্ত নেপাল থেকে গোরখপুর হয়ে বিমানে কলকাতায় ফিরেছেন তাঁরা। বিমানবন্দরে নেমেই ভিডিয়ো বার্তায় অনুরাগীদের উদ্দেশে খরাজ জানিয়েছেন, তাঁরা ভালো আছেন এবং সবার ভালোবাসার জন্য তিনি কৃতজ্ঞ।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/entertainment/kharaj-mukherjee-returns-kolkata-nepal-flash-flood-wife_668512.html ",
-    "time": "2026-08-28T10:36:35.000Z"
   },
   {
     "cat": "Business",

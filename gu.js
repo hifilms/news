@@ -1,5 +1,41 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "નેપાળે વિનાશક પૂર માટે ભારત પાસેથી માંગ્યું હતું વળતર, જાણો સરકારે શું આપ્યો જવાબ",
+    "desc": "જયસ્વાલે સાપ્તાહિક મીડિયા બ્રીફિંગમાં કહ્યું કે, મને ખબર છે કે નેપાળ દ્વારા પણ સ્પષ્ટતા જાહેર કરવામાં આવી છે. વધુમાં, હું પુનરાવર્તન કરવા માંગુ છું કે ભારત હંમેશા એવું માનતું રહ્યું છે કે આબોહવા પરિવર્તન એક સામાન્ય પડકાર છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/nepal-sought-compensation-from-india-for-the-devastating-floods-know-what-the-government-replied-490105 ",
+    "time": "2026-09-04T17:28:20.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Royal Enfieldનો ધમાકો: નવી Himalayan 440 લોન્ચ, જાણો કિંમત અને શાનદાર ફીચર્સ",
+    "desc": "Royal Enfield તેનું સસ્તું હિમાલયન લોન્ચ કર્યું છે. આ બાઇક એવા લોકો માટે એક સારો વિકલ્પ છે જેમણે હિમાલયન 411 ચૂકી ગયા હતા. બ્રાન્ડે સ્ક્રેમ 440 જેવા જ એન્જિન સાથે નવી હિમાલયન 440 લોન્ચ કરી છે. આ બાઇક ફક્ત એક વેરિઅન્ટ અને ત્રણ કલર ઓપ્શનમાં આવે છે. ચાલો નવી રોયલ એનફિલ્ડ હિમાલયન 440ની કિંમત અને અન્ય વિગતો જાણીએ.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/royal-enfields-new-himalayan-440-launched-know-the-price-and-great-features-490104 ",
+    "time": "2026-09-04T17:03:23.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "ફિટમેન્ટ ફેક્ટર, ઇન્ક્રિમેન્ટ અને પેન્શન... 8મા પગાર પંચની બેઠકમાં શું થશે નક્કી?",
+    "desc": "8મા પગાર પંચની રચના 3 નવેમ્બર, 2025ના રોજ કરવામાં આવી હતી. છેલ્લા 10 મહિનામાં, વિવિધ કર્મચારી સંગઠનોએ પગાર પંચ સમક્ષ અનેક મહત્વપૂર્ણ માંગણીઓ મૂકી છે. તેના પર હાલમાં ચર્ચા ચાલી રહી છે અને પગાર પંચ તેની કાર્યવાહી આગળ વધારી રહ્યું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/fitment-factor-increment-and-pension-what-will-be-decided-in-the-8th-pay-commission-meeting-490097 ",
+    "time": "2026-09-04T13:50:05.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "નેપાળની ત્રાસદીની આ ઈનસાઈડ સ્ટોરી, જાણો કેમ મરી ગયા 1300 લોકો અને 5000 લોકો છે ગુમ",
+    "desc": "નેપાળમાં વિનાશકારી પૂર આવ્યાને 8 દિવસ થઈ ગયા છે. આ દિવસોમાં મૃત્યુઆંક સતત વધી રહ્યો છે. લોકો પોતાના સ્વજનોને શોધી રહ્યા છે પરંતુ જમીન પર તબાહીની સ્થિતિ એટલી ભયાનક છે કે, હવે કોઈના જીવતા બચવાની કોઈ શક્યતા નજરે પડતી નથી. આ બધાની વચ્ચે એક સવાલ સતત ઉભો છે કે, જો નેપાળને ગ્લેશિયર તુટવાની ચેતવણી 38 મિનીટને બદલે 2 કલાક પહેલા મળી હોત તો શું થાત. એ 38 મિનિટમાં શું થયું. સમજો નેપાળની ત્રાસદીની આ ઈનસાઈડ સ્ટોરી...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/inside-story-of-the-nepal-tragedy-why-1300-lost-their-lives-and-5000-are-missing-490096 ",
+    "time": "2026-09-04T13:19:05.000Z"
+  },
+  {
     "cat": "Business",
     "title": "જન્માષ્ટમી પર સસ્તી થઈ ચાંદી, જાણો ચાંદીના ભાવ કેમ ઘટ્યા?",
     "desc": "જન્માષ્ટમીના દિવસે ચાંદી સસ્તી થઈ ગઈ છે. આજે, 4 સપ્ટેમ્બરના રોજ, દેશભરમાં જન્માષ્ટમીનો તહેવાર ઉજવાઈ રહ્યો છે. જન્માષ્ટમીના દિવસે સોનું અને ચાંદી બંને સસ્તી થઈ ગઈ છે. આજે, ચાંદીનો ભાવ 2,36,020 રૂપિયા પ્રતિ કિલોગ્રામ પર ટ્રેડ થઈ રહ્યો છે.",
@@ -619,14 +655,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/ahmedabad-ev-company-will-launch-4-new-electric-motorcycles-know-what-will-be-special-about-them-488970 ",
     "time": "2026-08-26T08:58:38.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "તમારા ફોન અને સિમ કાર્ડમાં હોય છે સોનું ! શું તમે તેને કાઢીને કમાઈ શકો છો પૈસા ? જાણો",
-    "desc": "તમારા જૂના મોબાઇલ ફોન અને સિમ કાર્ડમાં ખૂબ ઓછી માત્રામાં સોનું હોય છે, પરંતુ ઘરે બેઠા સરળતાથી પૈસા કમાવવા શક્ય નથી. મોટા ભાગના લોકો કહે છે કે સોનાને તેમાંથી કાઢી શકાય છે અને તેમાં કેટલા પ્રમાણમાં સોનું આવે છે, તેના વિશે ચાલો જાણીએ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/theres-gold-in-your-phone-and-sim-card-can-you-extract-it-and-earn-money-488954 ",
-    "time": "2026-08-26T07:27:54.000Z"
   }
 ];

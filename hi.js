@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Phil Salt, Sam Curran out, Jamie Overton returns as England announce ODI, T20I squad for Sri Lanka series",
+    "desc": "England have named 16-player squads for their upcoming limited-overs series against Sri Lanka, starting September 15 in Southampton. Jamie Overton, who has been out injured for long time now, will mark his return in both...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/phil-salt-sam-curran-out-jamie-overton-returns-as-england-announce-odi-t20i-squad-for-sri-lanka-series-2026-09-04-1053352",
+    "time": "2026-09-04T17:16:35.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Lhuan-dre Pretorius set new record with century against Namibia, South Africa win by 11 runs",
+    "desc": "South Africa opener Lhuan-dre Pretorius set a new record with a charismatic century against Namibia in the ongoing tri-series that also features Zimbabwe. He reached the milestone in 52 deliveries and with that, Pretorius became...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/lhuan-dre-pretorious-set-new-record-with-century-against-namibia-south-africa-win-by-11-runs-2026-09-04-1053351",
+    "time": "2026-09-04T16:25:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'India always one step ahead'",
+    "desc": "India are set to take on Pakistan on September 5 in their final group game in the ongoing Women’s Asia Cup 2026. Ahead of the blockbuster clash, all-rounder Deepti Sharma has backed the team’s overall...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-always-one-step-ahead-deepti-sharma-confident-ahead-of-pakistan-clash-in-women-s-asia-cup-2026-09-04-1053348",
+    "time": "2026-09-04T15:29:45.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Mike Hesson believes Pakistan players 'used to chaos' after PCB shakes up squad for Edgbaston Test",
+    "desc": "Pakistan’s interim red-ball coach Mike Hesson has acknowledged the disruption surrounding the Test squad after seven of the players were released after the Lord’s Test. However, he believes the players have dealt with the upheaval...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/mike-hesson-believes-pakistan-players-used-to-chaos-after-pcb-shakes-up-squad-for-edgbaston-test-2026-09-04-1053342",
+    "time": "2026-09-04T14:35:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Satwik-Chirag beat Denmark pair in thrilling contest, enter China Masters semifinals",
+    "desc": "Satwiksairaj Rankireddy and Chirag Shetty reached the China Masters semifinals for a fourth consecutive year after the fourth-seeded Indian pair overcame Denmark’s Kim Astrup and Anders Skaarup Rasmussen 21-13, 16-21, 21-18 on Friday, September 4....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/satwik-chirag-beat-denmark-pair-in-thrilling-contest-enter-china-masters-semifinals-2026-09-04-1053336",
+    "time": "2026-09-04T13:35:35.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Jason Gillespie questions PCB's decision-making, says they 'change their mind like they change their pants'",
     "desc": "Pakistan Cricket Board has changed six coaches in the last three years. Sarfaraz Ahmed, who went to England as head coach for the three-match Test series, was sacked after the Lord’s Test, with Mike Hesson...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/kusal-mendis-ruled-out-of-upcoming-england-t20is-charith-asalanka-to-take-over-as-skipper-2026-09-04-1053296",
     "time": "2026-09-04T08:44:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI bans India U19's Rohit Yadav for two years due to age fraud as CAB takes action against 62 others",
-    "desc": "In a major development, the BCCI (Board of Control for Cricket in India) has come forward and banned U19 legspinner Rohit Yadav for two years due to age fraud. It is worth noting that Rohit...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-bans-india-u19-s-rohit-yadav-for-two-years-due-to-age-fraud-as-cab-takes-action-against-64-others-2026-09-04-1053292",
-    "time": "2026-09-04T08:04:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer reflects on 'dangerous' playing conditions ahead of India's campaign at Asian Games 202",
-    "desc": "The stage is set for the latest edition of the Asian Games 2026. The cricketing event at the tournament will begin on September 28, as the side will directly play in the quarter-final of the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-reflects-on-dangerous-playing-conditions-ahead-of-india-s-campaign-at-asian-games-2026-2026-09-04-1053288",
-    "time": "2026-09-04T07:16:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why was Ajit Agarkar absent from BCCI's recent meeting in Mumbai? Devajit Saikia reveals",
-    "desc": "The BCCI’s (Board of Control for Cricket in India) meeting concluded on September 3, and the likes of Shubman Gill, Shreyas Iyer, India head coach VVS Laxman, and board secretary Devajit Saikia were present in...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-was-ajit-agarkar-absent-from-bcci-s-recent-meeting-in-mumbai-devajit-saikia-reveals-2026-09-04-1053280",
-    "time": "2026-09-04T06:20:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'The day has come': Gabriel Martinelli pens heartfelt note to Arsenal fans after his departure from London",
-    "desc": "The Premier League 2026-27 season is well underway, and with the summer transfer window closed, the sides have their final squads ready until midway through the season. With the new season, many eyes are set...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/the-day-has-come-gabriel-martinelli-pens-heartfelt-note-to-arsenal-fans-after-his-departure-from-london-2026-09-04-1053274",
-    "time": "2026-09-04T05:02:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI draws up team India's roadmap for ODI World Cup 2027, sets plans for upcoming SENA tours",
-    "desc": "The BCCI (Board of Control for Cricket in India) meeting concluded on September 3, and several points were discussed in the meeting. One of the biggest talking points from the meeting was the future of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-draws-up-team-india-s-roadmap-for-odi-world-cup-2027-sets-plans-for-upcoming-sena-tours-2026-09-04-1053270",
-    "time": "2026-09-04T04:19:17.000Z"
   }
 ];
