@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Jason Gillespie questions PCB's decision-making, says they 'change their mind like they change their pants'",
+    "desc": "Pakistan Cricket Board has changed six coaches in the last three years. Sarfaraz Ahmed, who went to England as head coach for the three-match Test series, was sacked after the Lord’s Test, with Mike Hesson...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/jason-gillespie-questions-pcb-s-decision-making-says-they-change-their-mind-like-they-change-their-pants-2026-09-04-1053329",
+    "time": "2026-09-04T12:08:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India set for historic T20I vs Japan to celebrate 75th anniversary of India-Japan diplomatic relations",
+    "desc": "In a historic development, India are set to play a T20I against Japan on September 22 as part of celebrations marking 75 years of diplomatic relations between the two countries. The one-off T20I match has...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-set-for-historic-t20i-vs-japan-to-celebrate-75th-anniversary-of-india-japan-diplomatic-relations-2026-09-04-1053322",
+    "time": "2026-09-04T11:32:59.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Dasun Shanaka slams fastest century in CPL history as St Kitts and Nevis register their biggest win",
+    "desc": "Sri Lanka international Dasun Shanaka’s record-setting assault powered St Kitts and Nevis Patriots to their largest-ever win by runs in the Caribbean Premier League. While batting first against Saint Lucia Kings, the hosts were reduced...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/dasun-shanaka-slams-fastest-century-in-cpl-history-as-st-kitts-and-nevis-register-their-biggest-win-2026-09-04-1053311",
+    "time": "2026-09-04T10:34:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kai Havertz hails Premier League's quality, opens up on time with Arsenal ahead of London derby",
+    "desc": "The stage is set for one of the biggest games in the Premier League season. Chelsea are slated to take on Arsenal in the London derby. The two sides will meet at the Emirates Stadium...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/kai-havertz-hails-premier-league-s-quality-opens-up-on-time-with-arsenal-ahead-of-london-derby-2026-09-04-1053304",
+    "time": "2026-09-04T09:38:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kusal Mendis ruled out of upcoming England T20Is, Charith Asalanka to take over as skipper",
+    "desc": "In a major blow to Sri Lanka, the side’s T20I skipper Kusal Mendis has been ruled out of the upcoming T20I series against England. It is worth noting that Sri Lanka is set to tour...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kusal-mendis-ruled-out-of-upcoming-england-t20is-charith-asalanka-to-take-over-as-skipper-2026-09-04-1053296",
+    "time": "2026-09-04T08:44:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "BCCI bans India U19's Rohit Yadav for two years due to age fraud as CAB takes action against 62 others",
+    "desc": "In a major development, the BCCI (Board of Control for Cricket in India) has come forward and banned U19 legspinner Rohit Yadav for two years due to age fraud. It is worth noting that Rohit...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/bcci-bans-india-u19-s-rohit-yadav-for-two-years-due-to-age-fraud-as-cab-takes-action-against-64-others-2026-09-04-1053292",
+    "time": "2026-09-04T08:04:45.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Former India cricketer reflects on 'dangerous' playing conditions ahead of India's campaign at Asian Games 202",
     "desc": "The stage is set for the latest edition of the Asian Games 2026. The cricketing event at the tournament will begin on September 28, as the side will directly play in the quarter-final of the...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/bcci-draws-up-team-india-s-roadmap-for-odi-world-cup-2027-sets-plans-for-upcoming-sena-tours-2026-09-04-1053270",
     "time": "2026-09-04T04:19:17.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shree Charani surpasses Deepti Sharma in elite list, achieves massive feat with two wickets against Hong Kong",
-    "desc": "The Indian team put forth a good showing against Hong Kong in their second game of the ongoing Women’s Asia Cup 2026. The two sides met at the Dubai International Cricket Stadium on September 5;...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shree-charani-surpasses-deepti-sharma-in-elite-list-achieves-massive-feat-with-two-wickets-against-hong-kong-2026-09-04-1053259",
-    "time": "2026-09-04T02:51:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harmanpreet Kaur focuses on the positives as India continue superb start to Women's Asia Cup 2026",
-    "desc": "The Indian team continued its brilliant start at the ongoing Women’s Asia Cup 2026. The side registered a brilliant win in the first T20I of the series against Thailand and then followed it up with...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-focuses-on-the-positives-as-india-continue-superb-start-to-women-s-asia-cup-2026-2026-09-04-1053253",
-    "time": "2026-09-04T01:43:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Smriti Mandhana's record-breaking knock helped India seal their second-biggest win in T20Is, qualify for semis",
-    "desc": "India secured a place in the Women’s Asia Cup semi-finals after overwhelming Hong Kong by 137 runs at the Dubai International Cricket Stadium. It was their second-biggest victory by runs in T20Is and with that,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-s-record-breaking-knock-helped-india-seal-their-second-biggest-win-in-t20is-qualify-for-semis-2026-09-03-1053244",
-    "time": "2026-09-03T18:13:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Neeraj Chopra out, Yashvir Singh replaces him in Asian Games; Rohit Yadav ruled out of World Athletics C'ships",
-    "desc": "India’s men’s javelin throw contingent for the Asian Games will undergo a significant change, with Yashvir Singh replacing Neeraj Chopra after his 2026 season was ended by an ankle ligament tear. The Athletics Federation of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/neeraj-chopra-out-yashvir-singh-replaces-him-in-asian-games-rohit-yadav-ruled-out-of-world-athletics-c-ships-2026-09-03-1053241",
-    "time": "2026-09-03T17:38:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Smriti Mandhana breaks Mithali Raj's record, becomes leading run-scorer in women's cricket history",
-    "desc": "Smriti Mandhana has etched her name into the record books by becoming the leading run-scorer in the history of women’s international cricket. She achieved the feat with a scintillating century during India’s Asia Cup 2026...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-breaks-mithali-raj-s-record-becomes-leading-run-scorer-in-women-s-cricket-history-2026-09-03-1053237",
-    "time": "2026-09-03T16:38:36.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Smriti Mandhana breaks Meg Lanning's world record with century in Asia Cup clash vs Hong Kong",
-    "desc": "Star India batter Smriti Mandhana put on a masterclass during the Asia Cup 2026 match against Hong Kong at the Dubai International Cricket Stadium. She scored a brilliant century, leaving the Natasha Miles-led side clueless...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-breaks-meg-lanning-s-world-record-with-century-in-asia-cup-clash-vs-hong-kong-2026-09-03-1053234",
-    "time": "2026-09-03T16:00:05.000Z"
   }
 ];
