@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Harmanpreet Kaur focuses on the positives as India continue superb start to Women's Asia Cup 2026",
+    "desc": "The Indian team continued its brilliant start at the ongoing Women’s Asia Cup 2026. The side registered a brilliant win in the first T20I of the series against Thailand and then followed it up with...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-focuses-on-the-positives-as-india-continue-superb-start-to-women-s-asia-cup-2026-2026-09-04-1053253",
+    "time": "2026-09-04T01:43:09.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Smriti Mandhana's record-breaking knock helped India seal their second-biggest win in T20Is, qualify for semis",
     "desc": "India secured a place in the Women’s Asia Cup semi-finals after overwhelming Hong Kong by 137 runs at the Dubai International Cricket Stadium. It was their second-biggest victory by runs in T20Is and with that,...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/discarded-pakistan-player-refuses-to-meet-king-charles-in-protest-of-being-dropped-from-squad-2026-09-03-1053197",
     "time": "2026-09-03T11:03:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Aryna Sabalenka fumes at reporter after second-round win in US Open, says 'You think that I've been partying?'",
-    "desc": "Aryna Sabalenka moved into the third round of the US Open with a commanding 6-1, 6-1 victory over debutant Polina Iatcenko. The world number one gave Iatcenko little opportunity to settle into the contest, which...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/aryna-sabalenka-fumes-at-reporter-after-second-round-win-in-us-open-says-you-think-that-i-ve-been-partying-2026-09-03-1053189",
-    "time": "2026-09-03T10:16:45.000Z"
   }
 ];

@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "બિગ બોસ ઘરમાં આવનાર પર 104 કેમેરાથી નજર રાખશે, જુઓ બિગ બોસનું અત્યાર સુધીનું સૌથી અનોખું ઘર",
+    "desc": "6 સપ્ટેમ્બરથી ઓટીટી અને ટીવી પર એક સાથે બિગ બોસ શો શરુ થવા જઈ રહ્યો છે. બિગ બોસની આ 20 મી સીઝન છે. આ વખતે શોની થીમ અને શોનું ઘર બંને અનોખા છે. બિગ બોસ હાઉસની પહેલી ઝલક પણ સામે આવી ગઈ છે. તમે પણ જુઓ કેવું છે બિગ બોસનું આ વખતનું ઘર.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/bigg-boss-season-20-home-is-special-video-instagram-bigg-boss-20-house-first-look-490026 ",
+    "time": "2026-09-04T02:08:03.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ઈસરોની વધુ એક સફળતા, દેશની ત્રીજી આંખ નોટી બોય સેટેલાઈટ એ અંતરિક્ષમાં સેફ અને શાનદાર એન્ટ્રી કરી",
+    "desc": "ઈસરોએ વધુ એક સફળતા મેળવી છે. શુક્રવારે ઈસરો પ્રમુખ વી નારાયણે GSLV-F17 મીશન સફળ રહ્યું હોવાની પુષ્ટી કરી છે. તેમણે જણાવ્યું છે કે એડવાંસ અર્થ ઓબ્ઝર્વેશન સેટેલાઈટ નોટી બોય સુરક્ષિત રીતે તેના નિર્ધારિત લોકેશન પર પહોંચી ગયું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/isro-naughty-boy-satellite-safely-enter-in-space-isro-confirm-safe-landing-and-active-status-490025 ",
+    "time": "2026-09-04T02:02:02.000Z"
+  },
+  {
     "cat": "World",
     "title": "પાકિસ્તાનમાં &amp;#039;બ્લેકઆઉટ&amp;#039;! કરાચી સહિત અનેક શહેરોમાં 16થી 24 કલાક સુધી વીજ કાપ",
     "desc": "પાકિસ્તાનમાં કરાંચી જેવા મહત્વના શહેરોમાં વીજળી ગુલ થતા હાહાકાર મચ્યો છે. હોસ્પિટલોમાં વેન્ટિલેટર બંધ છે. ફેક્ટીઓમાં પૈડા થંભી ગયા છે અને રસ્તાઓ પર જનતા ત્રાહિમામ પોકારી રહી છે. દુર દુર સુધી સ્થિતિ સુધરવાના કોઈ અણસાર પણ દેખાઈ રહ્યા નથી.",
@@ -610,15 +628,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/kamya-panjabi-domestic-violence-first-marriage-bunty-negi-kamya-panjabi-first-marriage-story-489264 ",
     "time": "2026-08-29T07:36:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "ટોક્સિક ફિલ્મના નેગેટિવ રીવ્યુની અસર દેખાઈ, 3 દિવસે બોક્સ ઓફિસ કમાણીમાં અધધ ઘટાડો",
-    "desc": "ટોક્સિક ફિલ્મ જેવી ગાજી તેવી વરસી નહીં. ફિલ્મનું પ્રમોશન તો જોરદાર રીતે કરવામાં આવ્યું પણ ફિલ્મ જોયા પછી મોટાભાગના લોકો નિરાશ થયા. કેજીએફ સ્ટાર યશ દર્શકોની અપેક્ષા પર ખરો ન ઉતર્યો જેની અસર ફિલ્મની ત્રીજા દિવસની કમાણી પર સ્પષ્ટ રીતે જોવા મળી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/toxic-movie-negative-review-effect-box-office-collection-down-by-60-percent-toxic-3-day-box-office-collection-489230 ",
-    "time": "2026-08-29T02:50:30.000Z"
   },
   {
     "cat": "Tech",
