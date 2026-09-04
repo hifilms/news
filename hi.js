@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Aryna Sabalenka stops play during US Open, complains about fan smoking weed",
+    "desc": "Aryna Sabalenka advanced to the fourth round of the US Open after a brief interruption during her match against Kamilla Rakhimova. However, at one point during the match, the defending champion brought the game to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/aryna-sabalenka-stops-play-during-us-open-complains-about-fan-smoking-weed-2026-09-04-1053356",
+    "time": "2026-09-04T18:02:16.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Phil Salt, Sam Curran out, Jamie Overton returns as England announce ODI, T20I squad for Sri Lanka series",
     "desc": "England have named 16-player squads for their upcoming limited-overs series against Sri Lanka, starting September 15 in Southampton. Jamie Overton, who has been out injured for long time now, will mark his return in both...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/kai-havertz-hails-premier-league-s-quality-opens-up-on-time-with-arsenal-ahead-of-london-derby-2026-09-04-1053304",
     "time": "2026-09-04T09:38:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kusal Mendis ruled out of upcoming England T20Is, Charith Asalanka to take over as skipper",
-    "desc": "In a major blow to Sri Lanka, the side’s T20I skipper Kusal Mendis has been ruled out of the upcoming T20I series against England. It is worth noting that Sri Lanka is set to tour...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kusal-mendis-ruled-out-of-upcoming-england-t20is-charith-asalanka-to-take-over-as-skipper-2026-09-04-1053296",
-    "time": "2026-09-04T08:44:13.000Z"
   }
 ];

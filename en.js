@@ -1,5 +1,95 @@
 const newsData_en = [
   {
+    "cat": "Entertainment",
+    "title": "Dolly Parton’s music helped Pearl through leukemia; her loss felt personal",
+    "desc": "Pearl Monroe battled leukemia as a young child, finding comfort in Dolly Parton’s music and books from her Imagination Library. Years later, she met Parton at Dollywood and thanked her personally. After Parton’s death, Pearl felt the loss deeply. Today, the childhood cancer survivor volunteers, raises funds and helps children undergoing cancer treatment.",
+    "img": "https://static.toiimg.com/photo/msid-133780029,imgsize-109763.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dolly-partons-music-helped-little-girl-pearl-monroe-through-leukemia-years-later-she-met-the-star-who-comforted-her-whose-loss-felt-deeply-personal-she-now-helps-cancer-kids/articleshow/133779270.cms",
+    "time": "2026-09-04T22:24:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Priyanka shares fun moment with JLaw at fashion event",
+    "desc": "Priyanka Chopra presented the prestigious Karl Lagerfeld Prize at the LVMH awards ceremony. She was seen interacting with Jennifer Lawrence and Urassaya Sperbund on stage. The event celebrated emerging fashion talent and awarded three coveted prizes. Chopra will soon return to Indian cinema with the film 'Varanasi'. This action-adventure film is scheduled for release in April 2027.",
+    "img": "https://static.toiimg.com/photo/msid-133780111,imgsize-256798.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/priyanka-chopra-stuns-at-fashion-event-gets-pally-with-jennifer-lawrence-watch/articleshow/133778389.cms",
+    "time": "2026-09-04T22:22:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Congress MLA Ramya Haridas hospitalised after late-night fracas at party colleague’s house",
+    "desc": "According to the Chirayankeezhu police, the fracas occurred at the house of a local Congress worker. They said Ms. Haridas and her private secretary Palayam Pradeep had visited the party worker’s house around 11 p.m.",
+    "img": "https://th-i.thgim.com/public/incoming/qzd6o6/article71429832.ece/alternates/LANDSCAPE_1200/Ramya_1.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/congress-mla-ramya-haridas-hospitalised-after-late-night-fracas-at-party-colleagues-house/article71429822.ece",
+    "time": "2026-09-04T19:54:47.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "boundary walls, bathrooms, blackboards",
+    "desc": "Across north and central India, government school education, especially in rural areas, is a challenge, both in terms of the number of teachers in every school and the state of the building that houses children. Reporters from four States track the state of school education. Amarnath Tewary, Ashna Butani, Mayank Kumar, and Mehul Malpani examine teaching quality and infrastructural support",
+    "img": "https://th-i.thgim.com/public/incoming/tapay9/article71429806.ece/alternates/LANDSCAPE_1200/6744_3_9_2026_14_46_2_1_01_MP_SCHOOL.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/missing-from-hindi-heartland-schools-boundary-walls-bathrooms-blackboards/article71429291.ece",
+    "time": "2026-09-04T19:28:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Fewer births, bigger questions for Tamil Nadu",
+    "desc": "While the decline in births reflects a broader demographic transition, with implications for the workforce and ageing population, experts say greater attention must be paid to education, childcare, social security, elderly care and standard of living",
+    "img": "https://th-i.thgim.com/public/incoming/fjsgjh/article71429786.ece/alternates/LANDSCAPE_1200/iStock-1150884079.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/fewer-births-bigger-questions-for-tamil-nadu/article71429132.ece",
+    "time": "2026-09-04T19:03:54.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Footballer quits after being sold to rival club for 15kg of pork sausage",
+    "desc": "15kg of pork sausages. Constant teasing over the deal reportedly drove him to retire the next day. He later moved to Spain to work on a farm. Similarly, Norwegian footballer Kenneth Kristiansen was transferred for 75kg of shrimp, matching his body weight.",
+    "img": "https://static.toiimg.com/photo/msid-133761311,imgsize-192986.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/young-footballer-quits-and-becomes-farm-worker-out-of-embarrassment-after-being-transferred-to-a-rival-club-for-15-kilograms-of-pork-sausage/articleshow/133760762.cms",
+    "time": "2026-09-04T18:36:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "One fight left on UFC deal, but Page knows his title route: ‘It's middleweight’",
+    "desc": "Michael ‘Venom’ Page wants to restart the momentum he feels has slowed during his UFC run. After moving between welterweight and middleweight, the 39-year-old now sees 185 pounds as his route towards the title. His next test is No. 15 Nursulton Ruziboev, a dangerous submission fighter. With one fight left on his UFC contract, Page wants a performance that can lead to bigger fights and a new deal.",
+    "img": "https://static.toiimg.com/photo/msid-133762459,imgsize-82304.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/mma/news/one-fight-left-on-ufc-deal-but-michael-page-knows-his-title-route-its-gonna-be-middleweight/articleshow/133762404.cms",
+    "time": "2026-09-04T18:31:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Maharashtra Bill does not regulate private hospital treatment rates, says health right group",
+    "desc": "The campaign also includes meetings with all 21 MLAs who are members of the JLC, demanding Health Minister convene a statewide consultation with organisations and networks working in the health sector to discuss the Bill.",
+    "img": "https://th-i.thgim.com/public/incoming/8cevpm/article71429766.ece/alternates/LANDSCAPE_1200/iStock-155099359.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-bill-does-not-regulate-private-hospital-treatment-rates-says-health-right-group/article71429540.ece",
+    "time": "2026-09-04T18:21:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Vizag MP Sribharat hopeful of turnaround in VSP fortune",
+    "desc": "The ₹14,000-crore revival push will bear fruit once the plant posts profits, says Sribharat after meeting CMD of RINL; he takes up with GM of SCoR the transfer requests of employees posted in Rayagada Division, Duvvada halt for Vande Bharat trains",
+    "img": "https://th-i.thgim.com/public/incoming/h3ft5b/article71429763.ece/alternates/LANDSCAPE_1200/9604_4_9_2026_22_19_25_1_IMG_20260904_WA0059.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/vizag-mp-sribharat-hopeful-of-turnaround-in-vsp-fortune/article71429516.ece",
+    "time": "2026-09-04T18:20:47.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "More than 120 killed in Yemen's worst clashes in years: sources",
+    "desc": "Fighting erupted on Thursday (September 3), after the Iran-backed Houthis launched a ground assault along with rocket and drone attacks near coastal areas, vying for control of the narrow Bab al-Mandab strait at the Red Sea's southern entrance.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/more-than-120-killed-in-yemens-worst-clashes-in-years-sources/article71429714.ece",
+    "time": "2026-09-04T17:58:04.000Z"
+  },
+  {
     "cat": "Business",
     "title": "Coal stock management emerges as key challenge for thermal power producers",
     "desc": "India may not need a complete overhaul of its coal-allocation policy, but it must stress on sharper implementation, and fixing accountability on power producers who may not be adhering to the stipulated norms for maintaining adequate coal inventory.",
@@ -16,6 +106,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/cities/bangalore/tempers-fly-traffic-crawls-as-vehicle-restrictions-kick-in-on-bengaluru-airport-road/article71429665.ece",
     "time": "2026-09-04T17:47:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Piers Morgan calls Messi’s GOAT ad the ‘most arrogant’ and ‘shameless’ bragging ever",
+    "desc": "Lionel Messi’s latest Michelob Ultra advert declares him the GOAT, but Piers Morgan strongly disagrees. The outspoken Cristiano Ronaldo supporter called the campaign “the most arrogant” bragging in sports and used Messi’s international retirement to argue Ronaldo’s superior 146-goal record settles the debate. Despite their rivalry, Ronaldo recently sent Messi a supportive message following his father’s death.",
+    "img": "https://static.toiimg.com/photo/msid-133767178,imgsize-78312.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/british-journalist-piers-morgan-calls-messis-goat-ad-the-most-arrogant-and-shameless-bragging-ever/articleshow/133764858.cms",
+    "time": "2026-09-04T17:36:00.000Z"
   },
   {
     "cat": "Sports",
@@ -90,42 +189,6 @@ const newsData_en = [
     "time": "2026-09-04T16:29:27.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Developed countries must take lead': India calls for climate finance after Nepal flood",
-    "desc": "India urged developed nations to lead emissions cuts and aid developing countries. Developed nations must provide finance and technology transfer for climate action. India expressed solidarity and support for Nepal's reconstruction efforts after floods. Nepal clarified no compensation was sought from India or other major economies. Both nations agreed to collaborate on Himalayan climate change impacts.",
-    "img": "https://static.toiimg.com/photo/msid-133770504,imgsize-116348.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/developed-countries-must-take-lead-india-calls-for-climate-finance-after-nepal-flood/articleshow/133770239.cms",
-    "time": "2026-09-04T16:25:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kerala High Court warns Chief Secretary Biswanath Sinha of contempt proceedings over clerical posts in district judiciary",
-    "desc": "The court was considering a petition by the Kerala Civil Judicial Staff Organisation seeking action against Sinha by initiating contempt proceedings for not complying with the direction to create and sanction the required clerical posts within the district judiciary",
-    "img": "https://th-i.thgim.com/public/incoming/9ozgwb/article71429439.ece/alternates/LANDSCAPE_1200/IMG_HC_2_1_LOFMRFQK.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-warns-chief-secretary-biswanath-sinha-of-contempt-proceedings-over-clerical-posts-in-district-judiciary/article71429314.ece",
-    "time": "2026-09-04T16:02:13.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tension in Arunachal over inclusion of ‘non-indigenous’ groups in SIR",
-    "desc": "The alleged inclusion of Chakma and Hajong communities in the electoral rolls led to violence in the State, with one person injured; the Chakmas have stated that members of their group were prevented from appearing at the SIR hearing",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/arunachal-pradesh/tension-in-arunachal-over-inclusion-of-non-indigenous-groups-in-sir/article71428767.ece",
-    "time": "2026-09-04T15:59:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "NULM conservancy workers temporarily call off protests",
-    "desc": "Several demands, including a food allowance of ₹50 a day from October 1, have been agreed upon during the latest talks with the State government; the next round of negotiations have been scheduled for October 3",
-    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/7cqh9f/article71429446.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-04%20at%209.22.02%20PM.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/nulm-conservancy-workers-temporarily-call-off-protests/article71428573.ece",
-    "time": "2026-09-04T15:58:37.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "‘Focus on cricket, not the noise,’ Mithali tells India ahead of Pakistan clash",
     "desc": "India secured a Women's Asia Cup semifinal spot after a dominant win. The team now prepares for a crucial match against Pakistan in Dubai. Former captain Mithali Raj advises players to focus on cricket and their roles. She believes India is the favourite to win the upcoming match. The Asia Cup serves as a vital platform for developing teams and reclaiming the title.",
@@ -198,15 +261,6 @@ const newsData_en = [
     "time": "2026-09-04T13:49:26.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Bargaining tactics? Why BJP's 'solo pitch' in Punjab may have message for Akalis",
-    "desc": "In a bold move, the BJP is hinting at a solo run for each of the 117 assembly seats in Punjab. Party leaders have made it clear they'll compete independently. Conversely, Shiromani Akali Dal officials are pushing to renew their partnership with the BJP. Currently, the BJP appears to have the upper hand in negotiations, although both factions remain open to the possibility of joining forces down the line.",
-    "img": "https://static.toiimg.com/photo/msid-133764693,imgsize-1058545.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bargaining-tactics-why-bjps-solo-pitch-in-punjab-may-have-message-for-akalis/articleshow/133763437.cms",
-    "time": "2026-09-04T13:45:41.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Richard O'Sullivan passes away at the age of 82",
     "desc": "Richard O'Sullivan, best known as Robin Tripp in Man About the House and Robin's Nest, has died at 82 at Brinsworth House care home. Tributes poured in from the Royal Variety Charity and his son James. His career spanned decades, from child acting to Cleopatra, before he found fame in British sitcoms.",
@@ -214,15 +268,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/richard-osullivan-man-about-the-house-actor-passes-away-at-the-age-of-82/articleshow/133765348.cms",
     "time": "2026-09-04T13:42:38.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'We will formulate plan': Ram Temple's first CEO Jeetendra Mishra after Ayodhya trip",
-    "desc": "Air Marshal Jeetendra Mishra (retd) has assumed charge as the first CEO of the Ram temple trust. He expressed that the responsibility for the Ram temple now rests upon his shoulders. Mishra's appointment follows an administrative overhaul within the trust after donation controversies. He is focused on understanding the temple and trust's operational functions. The trust aims to strengthen administrative and financial systems as temple operations expand.",
-    "img": "https://static.toiimg.com/photo/msid-133765413,imgsize-46880.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/we-will-formulate-plan-ram-temples-first-ceo-jeetendra-mishra-after-ayodhya-trip/articleshow/133764298.cms",
-    "time": "2026-09-04T13:42:31.000Z"
   },
   {
     "cat": "Sports",
@@ -277,15 +322,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/manoj-bajpayee-praises-tukaram-mundhe-questions-why-honest-work-is-now-big-deal/articleshow/133763851.cms",
     "time": "2026-09-04T12:58:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Thank you, dear PM Modi': Meloni signals deepening India-Italy strategic embrace",
-    "desc": "Italian Prime Minister Giorgia Meloni thanked Prime Minister Narendra Modi for his congratulatory message, saying the relationship between Italy and India is “stronger than ever” and highlighting their Special Strategic Partnership. Meloni has served as Italy’s PM since October 22, 2022. On Thursday, after completing 1,413 consecutive days in office, she became the country’s longest continuously serving prime minister since World War II.",
-    "img": "https://static.toiimg.com/photo/msid-133764047,imgsize-124207.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/thank-you-dear-pm-modi-meloni-signals-deepening-india-italy-strategic-embrace/articleshow/133763417.cms",
-    "time": "2026-09-04T12:53:13.000Z"
   },
   {
     "cat": "Sports",
@@ -405,15 +441,6 @@ const newsData_en = [
     "time": "2026-09-04T10:49:24.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Can TVK chief do what Arvind Kejriwal could not?",
-    "desc": "Tamil Nadu's chief minister Vijay faces a political challenge regarding national leadership. His party, TVK, and the Congress coalition are debating the 2029 prime ministerial candidate. Vijay's rise disrupts traditional state politics and sparks national aspirations. He must balance state leadership with a broader political project. This dynamic creates tension within the ruling coalition. Is he ready to have a direct contest with Rahul Gandhi?",
-    "img": "https://static.toiimg.com/photo/msid-133757831,imgsize-1637343.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/rahul-gandhi-vs-c-joseph-vijay-can-tvk-chief-do-what-arvind-kejriwal-could-not/articleshow/133757395.cms",
-    "time": "2026-09-04T10:43:51.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Alia Bhatt worked till the last stage of pregnancy",
     "desc": "In a heartfelt recount, photographer Rahul Jhangiani spoke about his impactful experiences alongside actress Alia Bhatt, highlighting a key advertising campaign in Bangkok that launched his photography career. He also touched on the moments he captured during her pregnancy while working on her clothing line, celebrating Bhatt's remarkable commitment and professionalism. Fans can look forward to her upcoming release, 'Love & War,' scheduled for 2027.",
@@ -531,15 +558,6 @@ const newsData_en = [
     "time": "2026-09-04T08:50:45.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Seatbelt sign off, hydraulic failure, pilot tests positive for psychoactive substance: What Air India Phuket probe found",
-    "desc": "An Air India flight faced serious challenges with multiple hydraulic failures and altitude disturbances. Following the incident, the pilot-in-command tested non-negative for psycho-active substances. Passengers sustained injuries, and the aircraft suffered considerable cabin damage. After evaluating the situation, the crew chose to proceed to Delhi. The Aircraft Accident Investigation Bureau is diligently examining all aspects of this alarming event.",
-    "img": "https://static.toiimg.com/photo/msid-133757287,imgsize-1792187.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/seatbelt-sign-off-hydraulic-failure-pilot-tests-positive-for-psychoactive-substance-what-air-india-phuket-probe-found/articleshow/133756950.cms",
-    "time": "2026-09-04T08:43:33.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Quote of the day by Lionel Richie",
     "desc": "Lionel Richie reflects on the difficulty of adhering to external expectations in his song 'Easy', stemming from his time with the Commodores. This track delves into the emotional toll of facade and self-deception. Through a prolific career filled with Grammy accolades, he remains active, captivating audiences on his concert tours throughout the United States and Brazil.",
@@ -549,24 +567,6 @@ const newsData_en = [
     "time": "2026-09-04T08:43:17.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Akshay Kumar reveals funny Saif-Kareena incident from ‘Tashan’ days",
-    "desc": "Akshay Kumar shared a funny story from the making of Tashan when he spotted Saif Ali Khan coming out of Kareena Kapoor's room one morning. This happened while the two were preparing for a morning jog, adding to the sweetness of their budding relationship. Moviegoers can anticipate their on-screen reunion in the upcoming thriller drama Haiwaan.",
-    "img": "https://static.toiimg.com/photo/msid-133757249,imgsize-1192188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-recalls-saif-ali-khan-walking-out-of-kareena-kapoors-room-at-430-am-during-tashan-we-are-both-going-for-jog/articleshow/133757175.cms",
-    "time": "2026-09-04T08:40:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Musafir Cafe’ star Vedika Pinto on avoiding typecasting: ‘I want to push myself’",
-    "desc": "Vedika Pinto is still riding high on the success of 'Musafir Cafe', but the actor is already making a conscious effort to ensure the show's popularity doesn't dictate her next moves. In fact, Pinto reveals she recently turned down a role that closely resembled Sudha, the character that brought her widespread recognition, choosing instead to actively resist being confined to the same mould.",
-    "img": "https://static.toiimg.com/photo/msid-133757190,imgsize-102969.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/musafir-cafe-star-vedika-pinto-opens-up-on-pushing-herself-to-avoid-typecasting-and-rejecting-roles-similar-to-sudha-in-our-industry-stars-are-very-very-commonly-stereotyped/articleshow/133757008.cms",
-    "time": "2026-09-04T08:36:39.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Inside MLB's big bet on India's baseball future",
     "desc": "Major League Baseball (MLB) is taking the long road in India, betting on grassroots participation, cricket's massive ecosystem and a new generation of young players rather than rushing towards a professional league. Since 2019, it has introduced the First Pitch programme in schools across Delhi, Mumbai and Bengaluru, launched the MLB Cup youth tournament and produced India-focused documentaries to make baseball feel more relatable.",
@@ -574,24 +574,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/more-sports/the-long-game-inside-mlbs-big-bet-on-indias-baseball-future/articleshow/133756034.cms",
     "time": "2026-09-04T08:09:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Samson-Sooryavanshi to open? Ex-India cricketer suggests new opening combination",
-    "desc": "In an exciting update, Sanju Samson has been reintegrated into India's T20I squad for the upcoming Afghanistan series. Deep Dasgupta, the former player, has recommended experimenting with a batting partnership of Samson and the talented Vaibhav Sooryavanshi, who caught the selectors' eye during the Zimbabwe series. Dasgupta stresses that exploring combinations is vital for India's preparations ahead of the World Cup.",
-    "img": "https://static.toiimg.com/photo/msid-133755690,imgsize-585737.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/sanju-samson-vaibhav-sooryavanshi-to-open-ex-india-cricketer-suggests-new-opening-combination/articleshow/133755571.cms",
-    "time": "2026-09-04T07:36:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "IndiGo aircraft hits parking stand pole at Srinagar airport",
-    "desc": "An IndiGo flight had a minor mishap upon landing in Srinagar, coming into contact with a parking stand pole. Fortunately, all passengers and crew deboarded without issue. Authorities have been alerted, and an investigation is currently in progress. The aircraft involved will undergo necessary maintenance and will return to service once it passes all required inspections.",
-    "img": "https://static.toiimg.com/photo/msid-133755533,imgsize-118530.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/indigo-aircraft-hits-parking-stand-pole-at-srinagar-airport/articleshow/133755533.cms",
-    "time": "2026-09-04T07:27:15.000Z"
   },
   {
     "cat": "Business",
@@ -855,15 +837,6 @@ const newsData_en = [
     "time": "2026-09-02T02:56:50.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Alcaraz shines on return, Sabalenka begins U.S. Open 'three-peat' bid with win",
-    "desc": "Former champion Iga Swiatek and last year's runner-up Amanda Anisimova also advanced with impressive victories while Stefanos Tsitsipas served up an upset by knocking out 10th seed Arthur Fils on a sunny afternoon in New York.",
-    "img": "https://th-i.thgim.com/public/incoming/cku78b/article71417026.ece/alternates/LANDSCAPE_1200/APTOPIX_US_Open_Tennis_3_965.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/alcaraz-shines-on-return-sabalenka-begins-us-open-three-peat-bid-with-win/article71417025.ece",
-    "time": "2026-09-01T18:33:29.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "are compliance costs of privacy law crushing ed-tech businesses?",
     "desc": "For an industry built on collecting exactly the kind of data the law now regulates — names, quiz scores, attendance records, AI tutoring conversations, sometimes biometric identifiers — the compliance bill is proving to be substantial",
@@ -898,5 +871,32 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
     "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
+    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
+    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
+    "time": "2024-03-12T09:45:05.000Z"
   }
 ];
