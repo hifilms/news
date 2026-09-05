@@ -1,5 +1,50 @@
 const newsData_en = [
   {
+    "cat": "Politics",
+    "title": "VTU asks principals of engineering colleges to dedicate time slots for student interaction and grievance redressal",
+    "desc": "The colleges have been asked to maintain a grievance log book. In the log book, the principal must record the date, brief nature of the grievance/query, and the action taken or resolution provided, wherever applicable.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/vtu-asks-principals-of-engineering-colleges-to-dedicate-time-slots-for-student-interaction-and-grievance-redressal/article71432794.ece",
+    "time": "2026-09-05T21:35:50.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Mirzapur and Hanuman Ansh are not freak hits,' says Anubhav Sinha",
+    "desc": "Filmmaker Anubhav Sinha notes surprising box office trends with two distinct film successes. 'Mirzapur The Movie' has achieved a strong opening, while 'Hanuman Ansh' is a surprise hit. 'Hanuman Ansh' has shown remarkable growth after a modest beginning, exceeding expectations. 'Mirzapur The Movie' leverages the popularity of its series for a powerful cinema debut. These performances challenge simplistic conclusions about audience preferences and film success.",
+    "img": "https://static.toiimg.com/photo/msid-133814597,imgsize-306807.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mirzapur-and-hanuman-ansh-are-not-freak-hits-says-anubhav-sinha-as-he-congratulates-the-team-the-box-office-is-telling-us-all-a-story/articleshow/133814489.cms",
+    "time": "2026-09-05T20:01:15.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Why is BRICS exploring cross-border payments? |Explained",
+    "desc": "How do cross-border payments work? What are the instructions between banks and costs involved in each step? How have transaction times reduced? Why does BRICS want to change the system? What alternatives are being explored? What does India propose?",
+    "img": "https://th-i.thgim.com/public/incoming/g62uzb/article71433309.ece/alternates/LANDSCAPE_1200/PTI12_29_2025_000202B.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/why-is-brics-exploring-cross-border-payments-explained/article71433307.ece",
+    "time": "2026-09-05T19:51:54.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Nobody will abuse me,' said Bachchan, it was his only condition to do 'Kaante'",
+    "desc": "his character should not utter any profanities. Gupta embraced this request, permitting different characters to use strong language instead. He also shared his own jitters while presenting the script. Over time, 'Kaante' has achieved cult status, renowned for its innovative style and captivating performances.",
+    "img": "https://static.toiimg.com/photo/msid-133814262,imgsize-157135.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/nobody-will-abuse-me-said-amitabh-bachchan-and-that-was-his-only-condition-to-do-kaante-recalls-sanjay-gupta-that-doesnt-mean-others-wont-abuse-each-other/articleshow/133814034.cms",
+    "time": "2026-09-05T19:42:03.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "China to proceed with Brahmaputra mega dam despite new concerns",
+    "desc": "Dubbed the ‘project of the century’ by Beijing, it has been included in China’s 15th Five-Year Plan for renewable energy; of concern to India is the impact it could have downstream, particularly in the aftermath of the recent devastating flash flood along the Nepal-China border",
+    "img": "https://th-i.thgim.com/public/incoming/z0x11h/article71432997.ece/alternates/LANDSCAPE_1200/IMG_CHINA-TIBET-INDIA-EN_2_1_8JDQJCDS.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/china-to-proceed-with-brahmaputra-mega-dam-despite-new-concerns/article71432282.ece",
+    "time": "2026-09-05T19:35:21.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "Rasika Dugal opens up on intimate scenes in 'Mirzapur'",
     "desc": "Rasika Duggal highlighted the crucial role of intimacy coordinators on film sets. These professionals ensure actors feel safe and comfortable during sensitive scenes. Intimacy coordinators work like choreographers or fight masters for specific sequences. They help actors and directors achieve desired effects while respecting boundaries. This system brings clarity and professionalism to the entire filming process.",
@@ -61,6 +106,15 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/tamil-nadu/79-monoliths-and-a-mountain-of-challenges-reconstructing-a-nayak-era-wonder/article71432437.ece",
     "time": "2026-09-05T17:59:20.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Shanghai Cooperation Organisation",
+    "desc": "At the Bishkek Summit, member countries, including India, have condemned the military strikes on Iran, reaffirmed ‘support for its sovereignty and territorial integrity’, and criticised the U.S. and Israel for violating the principles of international law and the UN Charter",
+    "img": "https://th-i.thgim.com/public/incoming/khq00u/article71433141.ece/alternates/LANDSCAPE_1200/20260901030L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/shanghai-cooperation-organisation-the-house-of-multilaterals/article71433152.ece",
+    "time": "2026-09-05T17:46:48.000Z"
   },
   {
     "cat": "Entertainment",
@@ -153,24 +207,6 @@ const newsData_en = [
     "time": "2026-09-05T16:39:46.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Hypocrisy’ in Congress stand on women’s empowerment, claims BJP",
-    "desc": "BJP spokesperson says the Congress is in power in four States, but had only three women Ministers in all — in Himachal Pradesh and Karnataka, there were no women Ministers, while Kerala had two and Telangana had two, one of whom had been removed",
-    "img": "https://th-i.thgim.com/public/incoming/mdbnxz/article71432885.ece/alternates/LANDSCAPE_1200/TH17-Devesh-BJPGV2GDKV6T.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/hypocrisy-in-congress-stand-on-womens-empowerment-claims-bjp/article71432786.ece",
-    "time": "2026-09-05T16:32:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Reimagining Keralam’ workshop at IIM-Kozhikode concludes",
-    "desc": "The gathering brought forth ideas for new initiatives in economic growth, fiscal stability, health and well-being, climate resilience, entrepreneurship, skill development, higher education, and Keralam’s global standing, all the while upholding the State’s human-centric development model",
-    "img": "https://th-i.thgim.com/public/incoming/4o7k0h/article71433056.ece/alternates/LANDSCAPE_1200/PTI09_05_2026_000227B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/reimagining-keralam-workshop-at-iim-kozhikode-concludes/article71431855.ece",
-    "time": "2026-09-05T16:27:59.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "India’s spin chokehold leaves Pak in tatters: 55 all out is their lowest-ever total",
     "desc": "Pakistan suffered their lowest T20I score ever, bowled out for just 55 runs. India's bowlers, led by Charani and Rawat, triggered a dramatic batting collapse. Pakistan lost six wickets for only eight runs after a promising start. This historic low occurred during Pakistan's 200th T20 International match. India continued their strong record against Pakistan.",
@@ -178,15 +214,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/indias-spin-chokehold-leaves-pakistan-in-tatters-55-all-out-is-their-lowest-ever-t20i-total/articleshow/133807750.cms",
     "time": "2026-09-05T16:13:17.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "China to proceed with Brahmaputra mega dam despite new concerns",
-    "desc": "Dubbed the ‘project of the century’ by Beijing, it has been included in China’s 15th Five-Year Plan for renewable energy; of concern to India is the impact it could have downstream, particularly in the aftermath of the recent devastating flash flood along the Nepal-China border",
-    "img": "https://th-i.thgim.com/public/incoming/z0x11h/article71432997.ece/alternates/LANDSCAPE_1200/IMG_CHINA-TIBET-INDIA-EN_2_1_8JDQJCDS.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/china-to-proceed-with-brahmaputra-mega-dam-despite-new-concerns/article71432282.ece",
-    "time": "2026-09-05T16:07:28.000Z"
   },
   {
     "cat": "Politics",
@@ -223,6 +250,15 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2002-george-clooney-bought-villa-oleandra-for-usd-10-million-decades-later-the-oceans-11-actors-home-is-valued-at-a-whopping-usd-100-million/articleshow/133798708.cms",
     "time": "2026-09-05T15:30:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Remarkable’: Ganguly’s special message for Shami ahead of 100th first-class game",
+    "desc": "Mohammed Shami will play his 100th first-class match in the Duleep Trophy final. Sourav Ganguly congratulated Shami on this significant career milestone. Ganguly highlighted the difficulty for subcontinent fast bowlers to sustain careers. Shami is currently aiming for an international recall after a strong domestic showing. His captain Ishan Kishan praised Shami's hunger and determination on the field.",
+    "img": "https://static.toiimg.com/photo/msid-133806289,imgsize-75756.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/remarkable-achievement-sourav-gangulys-special-message-for-mohammed-shami-ahead-of-100th-first-class-game/articleshow/133806213.cms",
+    "time": "2026-09-05T15:28:58.000Z"
   },
   {
     "cat": "Sports",
@@ -333,15 +369,6 @@ const newsData_en = [
     "time": "2026-09-05T13:20:34.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Terrorist behind IAF convoy attack killed; Putin orders 3-day pause in Kyiv strikes &amp; more",
-    "desc": "Security forces killed a LeT terrorist suspected in the 2024 Poonch attack. A Chinese national was rescued alive from a Nepal tunnel after devastating floods. Russian President Putin ordered a three-day pause in strikes on Kyiv. The UN General Assembly endorsed a new world map projection. Swatantra Bhardwaj was sent to one-day police custody in an assault case.",
-    "img": "https://static.toiimg.com/photo/msid-133802542,imgsize-64974.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-newswrap-terrorist-behind-iaf-convoy-attack-killed-putin-orders-3-day-pause-in-kyiv-strikes-more/articleshow/133801819.cms",
-    "time": "2026-09-05T13:07:04.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Dhanush’s ‘OM’ poster teases Mammootty’s arrival as Siya",
     "desc": "Anticipation builds as Mammootty's first appearance in Dhanush's forthcoming film 'OM' will be revealed soon. A captivating poster has been shared, teasing viewers about this reveal taking place on September 7. This grand collaboration showcases both stars in significant roles, with the title teaser suggesting a gripping tale set against a gritty landscape. Mark your calendars for the theatrical release on October 16.",
@@ -432,15 +459,6 @@ const newsData_en = [
     "time": "2026-09-05T11:32:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "DTC fought conductor for 32 years over Rs 67 fare and his wages, now fined Rs 1 lakh by Delhi HC",
-    "desc": "The Delhi High Court has imposed a fine of one lakh rupees on the Delhi Transport Corporation for its relentless pursuit of a thirty-two-year-old legal battle involving a bus conductor. The court criticized the drawn-out litigation as an abuse of the legal system. The conductor had been seeking seventeen months of unpaid wages following his dismissal, while the court dismissed DTC's challenge to a tribunal ruling.",
-    "img": "https://static.toiimg.com/photo/msid-133799205,imgsize-134077.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/dtc-fought-conductor-for-32-years-over-rs-67-fare-and-his-wages-now-fined-rs-1-lakh-by-delhi-hc/articleshow/133799091.cms",
-    "time": "2026-09-05T11:28:58.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Yogi Babu's special gift to Gautham Menon wins hearts",
     "desc": "In a delightful show of camaraderie, actor Yogi Babu and his wife Manju Bhargavi presented director Gautham Menon with a charming round-shaped gift, capturing the hearts of cinema enthusiasts online. This warm gesture reignited interest in Gautham Menon's impressive filmography, even as excitement builds around his much-anticipated movie 'Dhruva Natchathiram', which remains shrouded in release uncertainties.",
@@ -520,24 +538,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/age-is-just-a-number-ishan-kishan-confident-of-hungry-mohammed-shami-making-india-comeback/articleshow/133796578.cms",
     "time": "2026-09-05T10:28:13.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Mirzapur Movie' BO Day 2 LIVE: Film set to cross Rs 45 cr",
-    "desc": "The Movie has made a significant impact at the box office, raking in Rs 25.75 crore on opening day. With an additional Rs 12.80 crore on Day 2, its total collections in India have surged to Rs 38.55 crore. This theatrical adaptation presents a unique ensemble combining both familiar and fresh faces that engage the audience. Read on to know more.",
-    "img": "https://static.toiimg.com/photo/msid-133797053,imgsize-608815.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mirzapur-the-movie-box-office-collection-day-2-live-pankaj-tripathi-ravi-kishan-and-ali-fazal-starrer-is-set-to-cross-rs-45-crore-on-second-day/articleshow/133796999.cms",
-    "time": "2026-09-05T10:24:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "DYK Kangana was first choice to play Silk in 'Dirty Picture'?",
-    "desc": "Initially, Kangana Ranaut was offered the role of the legendary Silk Smitha but later remarked that she feels no remorse for not accepting it. Vidya Balan stepped in and delivered an extraordinary performance that became a hallmark of her career. Released in 2011, this film struck a chord with audiences and emerged as one of the top box office hits of the year.",
-    "img": "https://static.toiimg.com/photo/msid-133796922,imgsize-597889.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/did-you-know-kangana-ranaut-was-the-first-choice-to-play-silk-smitha-in-the-dirty-picture-not-vidya-balan-actress-says-she-failed-to-recognise-potential-of-the-film/articleshow/133795115.cms",
-    "time": "2026-09-05T10:16:42.000Z"
   },
   {
     "cat": "Sports",
@@ -682,15 +682,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/anthropic-ipo-ai-giant-delays-public-offering-eyes-2-trillion-valuation-mid-october-market-debut/articleshow/133783952.cms",
     "time": "2026-09-05T02:29:27.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "No special ‘room’ for cricket: IOA draws line on BCCI’s Asian Games stay",
-    "desc": "The BCCI is considering special housing arrangements for its cricketers during the Asian Games, a choice ultimately dependent on the cricket board's logistical capabilities. Meanwhile, the Indian Olympic Association is committed to equitable treatment for all participants. The available official accommodations are subpar, classified as three-star and four-star, which may not meet player standards. An advance team is tasked with evaluating the facilities prior to the conclusive decision.",
-    "img": "https://static.toiimg.com/photo/msid-133783675,imgsize-181988.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/no-special-room-for-cricket-ioa-draws-line-on-bccis-asian-games-stay/articleshow/133783567.cms",
-    "time": "2026-09-05T01:26:39.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +889,14 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/supreme-court-disposes-of-sebi-appeals-against-nse-in-co-location-dark-fibre-cases/article71424328.ece",
     "time": "2026-09-03T17:38:44.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Sugar mills reassure adequate availability during festival season",
+    "desc": "For most of the 2025–26 sugar season, mills have realised prices well below the normal cost of production of ₹42 per kg; the prices were ₹39.5–₹40.0 per kg in June and roughly ₹41- 41.5 per kg through August 2026",
+    "img": "https://th-i.thgim.com/public/incoming/b79rrc/article71421085.ece/alternates/LANDSCAPE_1200/Onam04.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/sugar-mills-reassure-adequate-availability-during-festival-season/article71420688.ece",
+    "time": "2026-09-03T17:29:49.000Z"
   }
 ];
