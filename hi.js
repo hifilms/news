@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India vs Pakistan, Women's Asia Cup 2026 Pitch Report, how will surface in Dubai play?",
+    "desc": "The stage is set for one of the most anticipated games of the ongoing Women’s Asia Cup 2026. India will take on Pakistan at the Dubai International Cricket Stadium on September 5, and both sides...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-pakistan-women-s-asia-cup-2026-pitch-report-how-will-surface-in-dubai-play-2026-09-05-1053381",
+    "time": "2026-09-05T06:44:50.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "PCB look to release Aaqib Javed as part of clean-up process after 'chaotic' results",
+    "desc": "In a major development, the PCB (Pakistan Cricket Board) is set to remove former cricketer and now senior selector Aaqib Javed from their national selection committee. According to a report by PTI, Javed’s reported removal...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pcb-look-to-release-aaqib-javed-as-part-of-clean-up-process-after-chaotic-results-2026-09-05-1053377",
+    "time": "2026-09-05T05:23:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Serena and Venus Williams suffer first-round exit from women's doubles after historic return at US Open 2026",
+    "desc": "The US Open 2026 has already witnessed many memorable moments. Still early days in the tournament, the event saw the likes of Serena and Venus Williams make their return to the court. The legendary sisters...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/serena-and-venus-williams-suffer-first-round-exit-from-women-s-doubles-after-historic-return-at-us-open-2026-2026-09-05-1053371",
+    "time": "2026-09-05T03:45:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harmanpreet Kaur set to script history ahead of crucial Pakistan clash in Women's Asia Cup; Check details",
+    "desc": "The ongoing Women’s Asia Cup 2026 sees India take on Pakistan. The two arch-rivals will meet at the Dubai International Cricket Stadium on September 5, and both sides will aim to deliver their best performance....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-set-to-script-history-ahead-of-crucial-pakistan-clash-in-women-s-asia-cup-check-details-2026-09-05-1053368",
+    "time": "2026-09-05T02:52:48.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Will Enzo Fernandez be added to Manchester City's captaincy group ahead of Coventry clash? Head coach reveals",
     "desc": "The stage is set for Manchester City to continue their brilliant start to the Premier League season. The side, having won their first two matches of the season, will look to put in another good...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/mike-hesson-believes-pakistan-players-used-to-chaos-after-pcb-shakes-up-squad-for-edgbaston-test-2026-09-04-1053342",
     "time": "2026-09-04T14:35:55.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Satwik-Chirag beat Denmark pair in thrilling contest, enter China Masters semifinals",
-    "desc": "Satwiksairaj Rankireddy and Chirag Shetty reached the China Masters semifinals for a fourth consecutive year after the fourth-seeded Indian pair overcame Denmark’s Kim Astrup and Anders Skaarup Rasmussen 21-13, 16-21, 21-18 on Friday, September 4....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/satwik-chirag-beat-denmark-pair-in-thrilling-contest-enter-china-masters-semifinals-2026-09-04-1053336",
-    "time": "2026-09-04T13:35:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Jason Gillespie questions PCB's decision-making, says they 'change their mind like they change their pants'",
-    "desc": "Pakistan Cricket Board has changed six coaches in the last three years. Sarfaraz Ahmed, who went to England as head coach for the three-match Test series, was sacked after the Lord’s Test, with Mike Hesson...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/jason-gillespie-questions-pcb-s-decision-making-says-they-change-their-mind-like-they-change-their-pants-2026-09-04-1053329",
-    "time": "2026-09-04T12:08:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India set for historic T20I vs Japan to celebrate 75th anniversary of India-Japan diplomatic relations",
-    "desc": "In a historic development, India are set to play a T20I against Japan on September 22 as part of celebrations marking 75 years of diplomatic relations between the two countries. The one-off T20I match has...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-set-for-historic-t20i-vs-japan-to-celebrate-75th-anniversary-of-india-japan-diplomatic-relations-2026-09-04-1053322",
-    "time": "2026-09-04T11:32:59.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Dasun Shanaka slams fastest century in CPL history as St Kitts and Nevis register their biggest win",
-    "desc": "Sri Lanka international Dasun Shanaka’s record-setting assault powered St Kitts and Nevis Patriots to their largest-ever win by runs in the Caribbean Premier League. While batting first against Saint Lucia Kings, the hosts were reduced...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/dasun-shanaka-slams-fastest-century-in-cpl-history-as-st-kitts-and-nevis-register-their-biggest-win-2026-09-04-1053311",
-    "time": "2026-09-04T10:34:00.000Z"
   }
 ];

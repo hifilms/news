@@ -1,5 +1,14 @@
 const newsData_bn = [
   {
+    "cat": "Politics",
+    "title": "পরিবার জানত না কোথায় যাচ্ছে! ভয়ংকর দুর্ঘটনায় দুমড়ে-মুচড়ে গাড়ি, মৃত ৮ ইঞ্জিনিয়ার পড়ুয়া",
+    "desc": "নিহতদের কাছে থাকা স্টুডেন্ট আইডি কার্ড দেখে পুলিস তাদের নাম-পরিচয় শনাক্ত করে পরিবারের সঙ্গে যোগাযোগ শুরু করে। যোগাযোগ করা হলে পরিবারের সদস্যরা জানান, তাঁদের সন্তানেরা যে কেরালায় ঘুরতে এসেছিলেন, সে বিষয়ে তাঁরা কিছুই জানতেন না।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/8-engineering-students-from-tamil-nadu-killed-as-car-hits-parked-lorry_669646.html ",
+    "time": "2026-09-05T05:05:11.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "বিগ বসের ঘরে প্রথম ওয়াইল্ড কার্ড এন্ট্রিতে আসছেন স্যান্ডি সাহা? জনপ্রিয়, বিতর্কিত এই তারকাকে নিয়ে জল্পনায় তোলপাড়",
     "desc": "‘বিগ বস’-এর চিরাচরিত রীতি অনুযায়ী, প্রতিযোগীদের খেলা যখন কিছুটা চেনা ছকে বাঁধা পড়ে, ঠিক তখনই নতুন মাত্রা ও রোমাঞ্চ যোগ করতে নিয়ে আসা হয় ওয়াইল্ড কার্ড এন্ট্রি। সোশ্যাল মিডিয়ায় জোর জল্পনা, চলতি সিজনে দর্শকদের চমক দিতে প্রস্তুত হচ্ছেন স্যান্ডি সাহা।",
@@ -142,15 +151,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/nation/do-not-eat-fish-caught-from-nepal-floodwaters-bihar-on-high-alert_669309.html ",
     "time": "2026-09-02T12:48:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "স্কুলের ৩ তলা থেকে ঝাঁপ ছাত্রীর! মৃত্যুর আগে দু'ঘণ্টা প্রিন্সিপালের ঘরে কী করছিল জানভী? বিস্ফোরক CCTV ফুটেজ",
-    "desc": "এরপর সিসিটিভি ফুটেজে তাকে ভাইস প্রিন্সিপালের ঘরে দুই ঘণ্টা আটকে থাকতে দেখা যায়। ঘর থেকে বের হয়েই সে স্কুলের তিন তলা থেকে লাফিয়ে পড়ে এবং মারা যায়। পরিবার স্কুলের বিরুদ্ধে তথ্য গোপন ও কড়া নির্যাতনের অভিযোগ তুলে সঠিক তদন্তের দাবি জানিয়েছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/faridabad-school-girl-dies-at-school-father-questions-2-hour-punishment-inside-vice-principals-room_669290.html ",
-    "time": "2026-09-02T12:03:28.000Z"
   },
   {
     "cat": "World",
