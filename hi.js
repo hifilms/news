@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Will Enzo Fernandez be added to Manchester City's captaincy group ahead of Coventry clash? Head coach reveals",
+    "desc": "The stage is set for Manchester City to continue their brilliant start to the Premier League season. The side, having won their first two matches of the season, will look to put in another good...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/will-enzo-fernandez-be-added-to-manchester-city-s-captaincy-group-ahead-of-coventry-clash-head-coach-reveals-2026-09-05-1053364",
+    "time": "2026-09-05T01:47:03.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Aryna Sabalenka stops play during US Open, complains about fan smoking weed",
     "desc": "Aryna Sabalenka advanced to the fourth round of the US Open after a brief interruption during her match against Kamilla Rakhimova. However, at one point during the match, the defending champion brought the game to...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/dasun-shanaka-slams-fastest-century-in-cpl-history-as-st-kitts-and-nevis-register-their-biggest-win-2026-09-04-1053311",
     "time": "2026-09-04T10:34:00.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kai Havertz hails Premier League's quality, opens up on time with Arsenal ahead of London derby",
-    "desc": "The stage is set for one of the biggest games in the Premier League season. Chelsea are slated to take on Arsenal in the London derby. The two sides will meet at the Emirates Stadium...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/kai-havertz-hails-premier-league-s-quality-opens-up-on-time-with-arsenal-ahead-of-london-derby-2026-09-04-1053304",
-    "time": "2026-09-04T09:38:03.000Z"
   }
 ];
