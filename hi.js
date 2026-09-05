@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Shafali Verma becomes youngest and fastest cricketer to achieve stunning feat in clash against Pakistan",
+    "desc": "India opener Shafali Verma reached another landmark in her young international career on Saturday, becoming the fastest and youngest cricketer to score 3,000 runs in Women’s T20Is during India’s Asia Cup 2026 clash against Pakistan...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/shafali-verma-becomes-youngest-and-fastest-cricketer-to-achieve-stunning-feat-in-clash-against-pakistan-2026-09-05-1053439",
+    "time": "2026-09-05T18:11:02.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Satwik-Chirag beat Malaysia pair to move to China Masters final for third time in four years",
+    "desc": "Satwiksairaj Rankireddy and Chirag Shetty moved into the China Masters final for the third time in four editions. They defeated Malaysia’s Nur Mohd Azriyn Ayub and Tan Wee Kiong in a three-game semifinal in Shenzhen...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/satwik-chirag-beat-malaysia-pair-to-move-to-china-masters-final-for-third-time-in-four-years-2026-09-05-1053437",
+    "time": "2026-09-05T17:47:37.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India hammer Pakistan in Asia Cup, register seven-wicket win after bundling them for 55 runs",
     "desc": "India decimated Pakistan in their marquee clash in the ongoing Asia Cup 2026 at the Dubai International Cricket Stadium. The Harmanpreet Kaur-led side registered a comfortable seven-wicket win in the middle and, with that, moved...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-opens-up-on-rohit-sharma-s-chances-ahead-of-odi-world-cup-2027-2026-09-05-1053395",
     "time": "2026-09-05T09:33:42.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer hails Rishabh Pant after India's Test series win over Sri Lanka",
-    "desc": "The Indian team recently got back to winning ways after defeating Sri Lanka in a two-game Test series. The two sides took on each other in Galle and Colombo across two Test matches, and led...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-hails-rishabh-pant-after-india-s-test-series-win-over-sri-lanka-2026-09-05-1053391",
-    "time": "2026-09-05T08:54:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Keyaa Banerji issues statement on being subjected to online harassment after silver medal victory",
-    "desc": "Indian powerlifter Keyaa Banerji, who recently caught the headlines among many others after her silver medal win at the IPF World Sub-Junior and Junior Classic Powerlifting Championships, has once again managed to capture the limelight. However,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/keyaa-banerji-issues-statement-on-being-subjected-to-online-harassment-after-silver-medal-victory-2026-09-05-1053386",
-    "time": "2026-09-05T07:42:48.000Z"
   }
 ];

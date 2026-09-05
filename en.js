@@ -1,6 +1,141 @@
 const newsData_en = [
   {
     "cat": "Entertainment",
+    "title": "Rasika Dugal opens up on intimate scenes in 'Mirzapur'",
+    "desc": "Rasika Duggal highlighted the crucial role of intimacy coordinators on film sets. These professionals ensure actors feel safe and comfortable during sensitive scenes. Intimacy coordinators work like choreographers or fight masters for specific sequences. They help actors and directors achieve desired effects while respecting boundaries. This system brings clarity and professionalism to the entire filming process.",
+    "img": "https://static.toiimg.com/photo/msid-133813911,imgsize-132151.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rasika-dugal-opens-up-on-intimate-scens-in-mirzapur-we-have-intimacy-co-ordinators-so-nobody-is-violated/articleshow/133813812.cms",
+    "time": "2026-09-05T19:22:40.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Trinity Rodman's US Open moment reveals an old habit in sports broadcasting: introducing women by their relationships first",
+    "desc": "Trinity Rodman was introduced at the US Open as Ben Shelton’s girlfriend, frustrating fans who felt her Olympic and football achievements deserved greater recognition. Despite being an Olympic gold medallist, NWSL champion and highest-paid women’s footballer, Rodman was presented through her relationship with Shelton. The incident reignited debate over how female athletes are introduced and recognised.",
+    "img": "https://static.toiimg.com/photo/msid-133798259,imgsize-223762.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/trinity-rodmans-us-open-moment-reveals-an-old-habit-in-sports-broadcasting-introducing-women-by-their-relationships-first/articleshow/133796683.cms",
+    "time": "2026-09-05T18:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Scheduled Caste panel issues notice to the Punjab government on quota implementation in lecturer recruitment",
+    "desc": "The complaint, filed by BJP MP, alleged that the AAP-led Punjab government had failed to implement the prescribed 25% reservation for Scheduled Castes and 12% reservation for Backward Classes in the recruitment of 1,013 lecturers",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/punjab/scheduled-caste-panel-issues-notice-to-the-punjab-government-on-quota-implementation-in-lecturer-recruitment/article71432510.ece",
+    "time": "2026-09-05T18:22:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Govinda breaks silence on Sunita Ahuja's cheating allegations, urges fans to support him",
+    "desc": "Govinda spoke cryptically about his marriage while attending a Dahi Handi event. He expressed hope to clear up things written about him in the sky. The actor confirmed his upcoming films Roopa and Duniyadari are in development. He sought his fans' continued support and blessings for his career. Govinda's comments follow his wife Sunita's past remarks about their relationship.",
+    "img": "https://static.toiimg.com/photo/msid-133811949,imgsize-241181.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govinda-breaks-silence-on-sunita-ahujas-cheating-allegations-urges-fans-to-support-him-bohot-si-baatein-aasman-mein-likh-di-gayi-hain/articleshow/133811793.cms",
+    "time": "2026-09-05T18:17:49.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Kanthapuram says will defend Shariat laws no matter whoever opposes it",
+    "desc": "Mr. Musliar also said that Shariat conferences would be organised in all districts to mark the centenary of the Samastha Kerala Jem-iyyathul Ulama. He claimed that there would be people who would talk about the Islamic laws till the end of the world.",
+    "img": "https://th-i.thgim.com/public/incoming/wl91ek/article71433273.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-05%20at%2011.25.23%20PM.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/kanthapuram-says-will-defend-shariat-laws-no-matter-whoever-opposes-it/article71433258.ece",
+    "time": "2026-09-05T18:12:57.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Bipasha reveals she faced body shaming, insensitive behaviour from paps after pregnancy",
+    "desc": "Bipasha Basu has spoken out against unrealistic expectations for women post-childbirth. She highlighted the harsh trolling and scrutiny new mothers often face. Basu emphasized that society judges women's appearances without considering their challenges. She remains confident and focused on her personal journey and motherhood. The actor continues to share her life with daughter Devi on social media.",
+    "img": "https://static.toiimg.com/photo/msid-133811702,imgsize-222789.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bipasha-basu-recalls-facing-insensitive-behaviour-from-paparazzi-after-giving-birth-to-daughter-devi-the-conversation-around-womens-bodies-is-quite-bizarre/articleshow/133811469.cms",
+    "time": "2026-09-05T18:11:26.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "reconstructing a Nayak-era wonder",
+    "desc": "The initiative to restore the Veera Vasantharayar Mandapam at the Meenakshi Amman Temple in Madurai, which burned in a fire, ran into many hurdles. After an uphill struggle, a team of around 150 sculptors, led by sthapathi V.P. Velmurugan of Tiruppur, managed to complete the project, with the renewed hall being formally inaugurated on August 30",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/klriv0/article71432588.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-04%20at%2018.45.26.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/79-monoliths-and-a-mountain-of-challenges-reconstructing-a-nayak-era-wonder/article71432437.ece",
+    "time": "2026-09-05T17:59:20.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "In 2013, Angelina Jolie’s search for work inspiration led her to a WWII veteran",
+    "desc": "In an intriguing twist of fate, Angelina Jolie found out that her film's inspiration, Louis Zamperini, resided nearby. This connection led her to direct 'Unbroken', chronicling his incredible wartime saga. Following a plane crash, Zamperini faced a grueling 47 days stranded at sea before becoming a POW for two years. Jolie was driven by a profound duty to depict his remarkable life story authentically.",
+    "img": "https://static.toiimg.com/photo/msid-133800456,imgsize-98208.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2013-angelina-jolies-search-for-inspiration-for-her-work-led-her-to-a-wwii-veteran-who-had-been-her-next-door-neighbour-for-the-past-10-years/articleshow/133800357.cms",
+    "time": "2026-09-05T17:30:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shafali scripts history, becomes fastest and youngest to reach 3,000 T20I runs",
+    "desc": "At just twenty-two years and 220 days old, Shafali Verma made history by becoming the youngest player ever to score 3,000 runs in T20 internationals. She also claimed the title for the fastest to reach this milestone in terms of balls faced. In a decisive match, India easily chased down Pakistan's meager total of fifty-six, securing a resounding seven-wicket victory.",
+    "img": "https://static.toiimg.com/photo/msid-133809751,imgsize-51112.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/shafali-varma-scripts-history-becomes-fastest-and-youngest-to-3000-t20i-runs-in-womens-cricket/articleshow/133809520.cms",
+    "time": "2026-09-05T17:20:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Punjab combines drug enforcement with addiction treatment in anti-narcotics drive",
+    "desc": "Punjab's Safe Punjab Helpline has facilitated over 25,000 drug-related arrests since March 2025. Authorities seized substantial quantities of heroin, opium, and other narcotics during this period. The campaign also recovered significant amounts of suspected drug money and registered many commercial quantity cases. Police connected thousands of individuals struggling with addiction to de-addiction and treatment centers. This initiative effectively combines enforcement actions with citizen-generated intelligence for drug control.",
+    "img": "https://static.toiimg.com/photo/msid-133808211,imgsize-53926.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/punjab-combines-drug-enforcement-with-addiction-treatment-in-anti-narcotics-drive/articleshow/133807943.cms",
+    "time": "2026-09-05T17:20:15.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "military, medical sources",
+    "desc": "According to three Yemeni military sources, 26 government troops were killed during several hours of fighting in the country's southwest, while medical and military sources from the Iran-backed Houthis said 31 rebel fighters were killed",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/fresh-yemen-clashes-kill-more-than-60-military-medical-sources/article71431895.ece",
+    "time": "2026-09-05T17:16:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Missing minor girl found in Haryana, accused arrested after three-month-long probe",
+    "desc": "The accused, a 21 year old resident of Upputuru village in Parchur mandal in Bapatla district, will be produced before a court under the charges of kidnapping the minor girl, with whom he allegedly was in friendship for the last couple of years",
+    "img": "https://th-i.thgim.com/public/incoming/t49kxk/article71432783.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-05%20at%2018.37.54.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/missing-minor-girl-found-in-haryana-accused-arrested-after-three-month-long-probe/article71432043.ece",
+    "time": "2026-09-05T17:09:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Women’s Asia Cup T20: Spinners headline India’s crushing 7-wicket win vs Pakistan",
+    "desc": "Charani’s killer 3 for 7, along with young leg-spinner Prema Rawat’s 3 for 9, turned the match upside down after Pakistan kicked things off with a decent 27 without loss, but then India’s bowlers flipped the script, taking six wickets for just 9 runs and leaving Pakistan reeling",
+    "img": "https://th-i.thgim.com/public/incoming/vktdbx/article71433170.ece/alternates/LANDSCAPE_1200/HRdlr3na8AAKD2H.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/womens-asia-cup-t20-spinners-headline-indias-crushing-7-wicket-win-vs-pakistan/article71433145.ece",
+    "time": "2026-09-05T17:04:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India crush Pakistan by 7 wickets after spin attack bundles them out for 55",
+    "desc": "In a stunning performance, India triumphed over Pakistan by seven wickets during their Group A encounter. Pakistan struggled significantly, managing a mere 55 runs, marking their lowest T20I score. India's spinners dominated, with Shree Charani leading the charge by taking three wickets. Shafali Verma made history by surpassing 3,000 T20I runs. With this victory, India completed the group stage undefeated and confidently secured a semi-final berth.",
+    "img": "https://static.toiimg.com/photo/msid-133809252,imgsize-1172730.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/harmanpreet-kaurs-india-turn-pakistan-clash-into-a-rout-seal-7-wicket-win-after-bowling-them-out-for-55/articleshow/133808870.cms",
+    "time": "2026-09-05T17:03:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "In Congress organisational reshuffle, Sachin Pilot gets poll-bound Punjab, Surjewala for Gujarat, Baghel moved to Assam",
+    "desc": "Ahead of crucial Assembly elections, the change in Punjab is most significant as it comes amid intense factionalism between the camps of former CM Charanjit Singh Channi and PC chief Amrinder Singh Raja Warring; Sukhdeo Bhagat made AICC in-charge of Chhattisgarh, Sirivella Prasad of Maharashtra, P.V. Mohan in-charge of Andhra Pradesh",
+    "img": "https://th-i.thgim.com/public/incoming/14x02b/article71432928.ece/alternates/LANDSCAPE_1200/20260902412L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/congress-replaces-bhupesh-baghel-with-sachin-pilot-as-punjab-general-secretary/article71432855.ece",
+    "time": "2026-09-05T17:01:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
     "title": "Kangana hits back at trolls pointing mistakes in her bhog preparation for Janmashtami",
     "desc": "Kangana Ranaut's Janmashtami celebrations sparked an interesting discussion online regarding her cooking skills, resulting in a surprising retort to a critic. This incident followed her earlier public spat with Swami Ramdev, who later sought to mend fences by sending her Raksha Bandhan wishes. Ranaut graciously acknowledged Ramdev's olive branch, prioritizing dialogue over disagreement.",
     "img": "https://static.toiimg.com/photo/msid-133808544,imgsize-219858.cms",
@@ -55,15 +190,6 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
-    "title": "GBA penalises consultant, contractor for ‘unscientific’ electricity pole installation",
-    "desc": "The project consultant, Siddhishakti Pvt. Ltd., has been fined ₹1 lakh, while contractor JMC Constructions has been fined ₹2 lakh for lapses in construction quality and non-compliance with prescribed technical specifications, according to the GBA.",
-    "img": "https://th-i.thgim.com/public/incoming/tozyho/article71432243.ece/alternates/LANDSCAPE_1200/_DSC6521.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/bangalore/gba-penalises-consultant-contractor-for-unscientific-electricity-pole-installation/article71431802.ece",
-    "time": "2026-09-05T15:53:07.000Z"
-  },
-  {
-    "cat": "Politics",
     "title": "Abhayrab vials found in Delhi flagged as substandard",
     "desc": "A government laboratory has flagged rabies vaccine vials discovered at an unauthorized site as substandard and misbranded. The manufacturer asserts that these vials are not their products and insists that legitimate batches undergo extensive testing. This news is crucial, as ineffective vaccines may leave individuals at risk after animal bites.",
     "img": "https://static.toiimg.com/photo/msid-133807084,imgsize-70353.cms",
@@ -97,24 +223,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2002-george-clooney-bought-villa-oleandra-for-usd-10-million-decades-later-the-oceans-11-actors-home-is-valued-at-a-whopping-usd-100-million/articleshow/133798708.cms",
     "time": "2026-09-05T15:30:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Missing minor girl found in Haryana, accused arrested after three-month-long probe",
-    "desc": "The accused, a 21 year old resident of Upputuru village in Parchur mandal in Bapatla district, will be produced before a court under the charges of kidnapping the minor girl, with whom he allegedly was in friendship for the last couple of years",
-    "img": "https://th-i.thgim.com/public/incoming/t49kxk/article71432783.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-05%20at%2018.37.54.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/missing-minor-girl-found-in-haryana-accused-arrested-after-three-month-long-probe/article71432043.ece",
-    "time": "2026-09-05T15:28:18.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Centre, State caution against attributing it to a single pathogen",
-    "desc": "At least six deaths of children were reported in June and August in Madhya Pradesh’s Balaghat district; a senior health official tells The Hindu that investigations are examining the combined role of measles, malaria, respiratory illness, malnutrition, anaemia, dehydration, and delayed access to treatment",
-    "img": "https://th-i.thgim.com/public/incoming/6zwyv9/article71432540.ece/alternates/LANDSCAPE_1200/iStock-1214244827.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-tribal-children-deaths-centre-state-caution-against-attributing-it-to-a-single-pathogen/article71431908.ece",
-    "time": "2026-09-05T15:16:28.000Z"
   },
   {
     "cat": "Sports",
@@ -387,15 +495,6 @@ const newsData_en = [
     "time": "2026-09-05T10:45:29.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Work-life balance vs job security: The workplace trade-off Gen Z is challenging",
-    "desc": "For Gen Z, a secure salary still matters, but so do personal time, flexibility and career growth. A survey of young workers shows a generation trying to build a career without handing over its life to it.",
-    "img": "https://static.toiimg.com/photo/msid-133797668,imgsize-114680.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/work-life-balance-vs-job-security-the-workplace-trade-off-gen-z-is-challenging/articleshow/133797181.cms",
-    "time": "2026-09-05T10:45:06.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Global food prices rise 1.9%, says UN body; highest since 2022 amid weather, war disruptions",
     "desc": "Food prices worldwide hit the highest levels since late 2022 in August, fueled by unpredictable weather conditions and rising geopolitical conflicts. These factors, coupled with interruptions to trade pathways, are raising alarms over the supply of vital commodities. This troubling update was shared by the UN Food and Agriculture Organization on Friday, underscoring the increasing vulnerabilities of global food systems.",
@@ -441,24 +540,6 @@ const newsData_en = [
     "time": "2026-09-05T10:16:42.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "LeT terrorist killed in J&amp;K: Yasir was behind 2024 attack on IAF convoy, civilians",
-    "desc": "Yasir was gunned down on Friday during Operation Ashdar, launched after security forces received intelligence about the movement of a group of terrorists through the Pir Panjal mountains. Jammu and Kashmir Police identified the slain terrorist as Yasir and said he was affiliated with the banned Lashkar-e-Taiba (LeT). The police also posted a message on X after the operation, saying, \"You Can Run But You Can't Hide!\"",
-    "img": "https://static.toiimg.com/photo/msid-133796847,imgsize-61522.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/let-terrorist-killed-in-jk-yasir-was-behind-2024-attack-on-iaf-convoy-civilians/articleshow/133796454.cms",
-    "time": "2026-09-05T10:14:54.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "The 14 questions and why opposition fears an NPR 'backdoor'",
-    "desc": "Enumerators have begun the decennial headcount in Ladakh and snowbound regions. New questions in the Census questionnaire have raised opposition concerns about its purpose. Critics allege the Census is becoming a backdoor for the National Population Register. The Census Act legally protects personal information collected during the exercise. Experts debate the data's use and potential privacy implications.",
-    "img": "https://static.toiimg.com/photo/msid-133796337,imgsize-328180.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/census-2027-the-14-questions-and-why-opposition-fears-an-npr-backdoor/articleshow/133796101.cms",
-    "time": "2026-09-05T10:06:05.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Forlán names Valverde, Núñez-led Uruguay squad",
     "desc": "Uruguay have announced a 46-player preliminary list for upcoming FIFA international matches. The squad includes prominent players like Federico Valverde and Darwin Núñez. India will host Uruguay on October 6 in Kolkata. This match follows India's encounter with Brazil three days prior. The Panama friendly has been rescheduled to September 25.",
@@ -495,15 +576,6 @@ const newsData_en = [
     "time": "2026-09-05T09:46:57.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Sharman Joshi wraps Rohit Shetty comedy; calls Ajay Devgn reunion a beautiful opportunity",
-    "desc": "Sharman Joshi has wrapped up filming for the much-anticipated Golmaal 5, sharing that reuniting with Ajay Devgn was an incredible experience. The film is currently in the post-production stage, with the team dedicated to delivering a fantastic movie to fans soon. In this latest chapter, Sharman will once again step into the beloved role of Laxman.",
-    "img": "https://static.toiimg.com/photo/msid-133795907,imgsize-22024.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/golmaal-5-sharman-joshi-wraps-up-shoot-calls-reuniting-with-ajay-devgn-a-beautiful-opportunity/articleshow/133795908.cms",
-    "time": "2026-09-05T09:40:06.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Sachin honours his 'first teacher' father Ramesh with fellowship for young doctors",
     "desc": "On Teachers' Day, Sachin Tendulkar paid tribute to his late father, Ramesh Tendulkar, by launching the Professor Ramesh Tendulkar Memorial Fellowship aimed at nurturing young doctors. This fellowship focuses on cleft and craniofacial care specialization, fostering his father's legacy of education as a means of opportunity. Additionally, Tendulkar's foundation promotes initiatives in sports, healthcare, and children's education.",
@@ -511,24 +583,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/off-the-field/i-begin-at-home-sachin-tendulkar-celebrates-his-first-teacher-father-ramesh-with-fellowship-for-young-doctors/articleshow/133795722.cms",
     "time": "2026-09-05T09:39:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Hanuman Ansh gets tax-free status in Uttarakhand as Neem Karoli Baba film turns surprise hit",
-    "desc": "In an exciting development, Uttarakhand Chief Minister Pushkar Singh Dhami declared the film 'Hanuman Ansh' as tax-free, praising its inspiring depiction of Neem Karoli Baba's spiritual essence. Following the journey of a young man destined to embody the revered figure, the movie has captivated audiences and gained unexpectedly high box office revenues, largely attributed to its positive word-of-mouth.",
-    "img": "https://static.toiimg.com/photo/msid-133795779,imgsize-75636.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hanuman-ansh-gets-tax-free-status-in-uttarakhand-as-neem-karoli-baba-film-turns-surprise-hit/articleshow/133795779.cms",
-    "time": "2026-09-05T09:34:23.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "No registration number, no attendance: NMC warns medical colleges",
-    "desc": "Medical colleges have one month to update faculty registration numbers on the attendance system. Failure to comply will result in blocked daily attendance for specified teaching staff. The National Medical Commission issued this warning after finding blank registration fields. Colleges must review and update all medical faculty and resident profiles accurately. Non-medical faculty will have 'NA' entered in the registration number field.",
-    "img": "https://static.toiimg.com/photo/msid-133795535,imgsize-78478.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-registration-number-no-attendance-nmc-warns-medical-colleges/articleshow/133795535.cms",
-    "time": "2026-09-05T09:31:05.000Z"
   },
   {
     "cat": "Entertainment",
@@ -576,15 +630,6 @@ const newsData_en = [
     "time": "2026-09-05T08:27:33.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "‘Babar Azam the next target?’: Ex-Pakistan captain launches scathing attack on PCB",
-    "desc": "The Pakistan Cricket Board is under fire for its management of the national cricket team. Former captain Rashid Latif has accused the board of operating through remote control. The unexpected changes to players and coaching staff mid-series have sparked widespread criticism, further questioning the board's decision-making abilities. As the national Test team battles in the World Test Championship standings, these issues continue to mount.",
-    "img": "https://static.toiimg.com/photo/msid-133793888,imgsize-62430.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/babar-azam-the-next-target-ex-pakistan-captain-launches-scathing-attack-on-pcb-over-england-test-chaos/articleshow/133792583.cms",
-    "time": "2026-09-05T08:19:36.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Why is New York City pausing some AI tools in schools?",
     "desc": "The Mayor of New York Zohran Mamdani and Schools Chancellor Kamar H. Samuels on September 2 imposed a one-year moratorium on student-facing generative AI for pupils up to eighth grade for the 2026–27 academic year",
@@ -592,15 +637,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/why-is-new-york-city-pausing-some-ai-tools-in-schools-explained/article71431327.ece",
     "time": "2026-09-05T07:46:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Filmmaker slams Teachers’ Day schooling; says true learning is unlearning",
-    "desc": "Filmmaker Ram Gopal Varma believes that true individuals resist structured teaching. He argues that actual learning is about unlearning what educators impose. Referencing figures like Einstein and Steven Spielberg, Varma suggests that those who achieve greatness often do so by defying conventional education. Therefore, he decided against wishing anyone a Happy Teachers' Day, emphasizing the need for knowledge to be kept personal and private.",
-    "img": "https://static.toiimg.com/photo/msid-133792724,imgsize-17310.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ram-gopal-varma-cites-einstein-and-spielberg-to-question-traditional-teaching-says-true-learning-is-to-unlearn-explains-why-he-wont-say-happy-teachers-day/articleshow/133792725.cms",
-    "time": "2026-09-05T07:41:08.000Z"
   },
   {
     "cat": "Entertainment",
@@ -664,15 +700,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/gukeshs-lifetime-dream-just-came-too-early-american-gm-levon-aronian-assesses-sindarov-clash-exclusive/articleshow/133783238.cms",
     "time": "2026-09-05T01:05:33.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Carlsen, Anish, Vidit, Divya Deshmukh, K Humpy in one team: How GCL made it possible",
-    "desc": "How did the Alpine APL Pipers assemble a dream team featuring Magnus Carlsen, Anish Giri, Vidit Gujrathi, Koneru Humpy, Divya Deshmukh and Volodar Murzin? Coach Pravin Thipsay reveals the strategy behind navigating the GCL draft, balancing star power with depth, and preparing for opponents’ recent rapid form. As defending champions, the Pipers must also manage expectations, media attention and the pressure to repeat their success.",
-    "img": "https://static.toiimg.com/photo/msid-133783045,imgsize-151440.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-anish-giri-vidit-gujrathi-divya-deshmukh-koneru-humpy-in-one-team-how-gcl-made-it-possible/articleshow/133782968.cms",
-    "time": "2026-09-05T00:50:21.000Z"
   },
   {
     "cat": "Sports",
@@ -871,32 +898,5 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/supreme-court-disposes-of-sebi-appeals-against-nse-in-co-location-dark-fibre-cases/article71424328.ece",
     "time": "2026-09-03T17:38:44.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Sugar mills reassure adequate availability during festival season",
-    "desc": "For most of the 2025–26 sugar season, mills have realised prices well below the normal cost of production of ₹42 per kg; the prices were ₹39.5–₹40.0 per kg in June and roughly ₹41- 41.5 per kg through August 2026",
-    "img": "https://th-i.thgim.com/public/incoming/b79rrc/article71421085.ece/alternates/LANDSCAPE_1200/Onam04.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/sugar-mills-reassure-adequate-availability-during-festival-season/article71420688.ece",
-    "time": "2026-09-03T17:29:49.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "The gap in manufacturing sector GVA",
-    "desc": "According to the National Accounts Statistics, the manufacturing sector’s GVA is ₹38.6 lakh crore in 2023-24 at current prices.; however, an ‘Alternative Estimate’ using data from the Annual Survey of Industries and Annual Survey of Unincorporated Sector Enterprises gives a lower figure, prompting a closer look at the official estimate",
-    "img": "https://th-i.thgim.com/public/incoming/i2pspz/article71425506.ece/alternates/LANDSCAPE_1200/Alstom%20Coimbatore%20plant%209.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/the-gap-in-manufacturing-sector-gva/article71425499.ece",
-    "time": "2026-09-03T17:21:56.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Gender-neutral bedroom and the common man mural steal limelight",
-    "desc": "From a swimming pool and a mural dedicated to the common man to cosy corners and an independent bedroom for the captain of the week, here are some features of the Bigg Boss Tamil Season 10 house",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/entertainment/movies/inside-bigg-boss-tamil-season-10-house-gender-neutral-bedroom-and-the-common-man-mural-steal-limelight/article71424887.ece",
-    "time": "2026-09-03T17:21:01.000Z"
   }
 ];
