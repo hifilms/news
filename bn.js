@@ -1,6 +1,24 @@
 const newsData_bn = [
   {
     "cat": "Politics",
+    "title": "সুদের টাকা না মেটাতেই নারকীয় অত্যাচার! তরুণীকে আটকে রেখে নগ্ন ভিডিয়ো, গ্রেফতার মহিলা-সহ ৪",
+    "desc": "মেয়ে বাড়ি না ফেরায় তার মা চন্দ্রা লেআউট থানায় একটি নিখোঁজ অভিযোগ দায়ের করেন। পুলিস সঙ্গে সঙ্গে তদন্ত শুরু করে। তারা গোপন সূত্রে খবর পেয়ে ওই মহিলার খোঁজ পায়। পুলিস গিয়ে তাকে উদ্ধার করে এবং চার অভিযুক্তকে গ্রেফতার করে।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/bengaluru-loan-assault-case-woman-stripped-and-assaulted-over-loan-interest-4-arrested_669701.html ",
+    "time": "2026-09-05T09:58:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "পুলিস কথায় কথায় কেন মারবে? ওঁর কাজ কি শুধু লাঠিচার্জ করা? যন্তর মন্তরে আন্দোলনকারীদের উপর পুলিসের মারে বিস্ফোরক সুপ্রিম বিচারপতি",
+    "desc": "বিচারপতি মনে করিয়ে দেন, অতিরিক্ত শক্তিপ্রয়োগ বা মানবাধিকার লঙ্ঘন না করেও কিন্তু দক্ষতার সঙ্গে আইনশৃঙ্খলা রক্ষা করা সম্ভব। তিনি বলেন, 'দেশের সাধারণ মানুষের কাছে রাস্তায় লাঠি বা বাঁশি হাতে দাঁড়িয়ে থাকা এক জন পুলিসকর্মী আসলে রাষ্ট্রের ক্ষমতা ও ভরসার প্রতীক।",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " https://zeenews.india.com/bengali/nation/sc-judge-justice-ujjal-bhuyan-criticizes-police-action-at-jantar-mantar-calls-for-urgent-reforms_669685.html ",
+    "time": "2026-09-05T08:33:10.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "পরিবার জানত না কোথায় যাচ্ছে! ভয়ংকর দুর্ঘটনায় দুমড়ে-মুচড়ে গাড়ি, মৃত ৮ ইঞ্জিনিয়ার পড়ুয়া",
     "desc": "নিহতদের কাছে থাকা স্টুডেন্ট আইডি কার্ড দেখে পুলিস তাদের নাম-পরিচয় শনাক্ত করে পরিবারের সঙ্গে যোগাযোগ শুরু করে। যোগাযোগ করা হলে পরিবারের সদস্যরা জানান, তাঁদের সন্তানেরা যে কেরালায় ঘুরতে এসেছিলেন, সে বিষয়ে তাঁরা কিছুই জানতেন না।",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -142,15 +160,6 @@ const newsData_bn = [
     "src": "india.com",
     "url": " https://zeenews.india.com/bengali/entertainment/akshay-kumar-alien-movie-samuk-heroine-rukmini-maitr-bollywood-debut_669320.html ",
     "time": "2026-09-02T15:39:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ভুলেও ধরবেন না, খাবেন না! নেপালের বন্যায় বয়ে আসা মাছে মারাত্মক বিপদ, সতর্কতা জারি সরকারের",
-    "desc": "নেপালের ত্রিশূলী নদীর প্লাবিত জল গণ্ডক এবং কোশী নদীর মাধ্যমে হু হু করে ঢুকছে ভারতের বিহার রাজ্যে। আর এই বানের জলের সঙ্গেই সীমান্ত পেরিয়ে বিহারে ভেসে আসছে বিভিন্ন অজানা প্রজাতির মাছ। ব্যাকটেরিয়া ও ভাইরাসের সংক্রমণের মারাত্মক ঝুঁকি সেইসব মাছে।",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " https://zeenews.india.com/bengali/nation/do-not-eat-fish-caught-from-nepal-floodwaters-bihar-on-high-alert_669309.html ",
-    "time": "2026-09-02T12:48:35.000Z"
   },
   {
     "cat": "World",

@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Smriti Mandhana needs 74 runs against Pakistan to break Suzie Bates' world record",
+    "desc": "Star India opener Smriti Mandhana broke two world records in the previous encounter against Hong Kong, China in the ongoing Asia Cup. First, she surpassed Meg Lanning to become the woman with the most centuries...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-needs-74-runs-against-pakistan-to-break-suzie-bates-world-record-2026-09-05-1053410",
+    "time": "2026-09-05T11:59:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Fede Valverde, Ronald Araujo, Darwin Nunez named as Uruguay announce provisional squad for India clash",
+    "desc": "Uruguay have announced a 46-man provisional squad for their upcoming tour of Asia, where they will play Japan, South Korea and finally India at Salt Lake Stadium on October 6. The fixture will also mark...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/fede-valverde-ronald-araujo-darwin-nunez-named-as-uruguay-announce-provisional-squad-for-india-clash-2026-09-05-1053403",
+    "time": "2026-09-05T11:08:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "KL Rahul named in South Zone squad for Duleep Trophy final; will Vaibhav Sooryavanshi play?",
+    "desc": "India Test opener KL Rahul has been named in the South Zone squad for the Duleep Trophy final, slated to begin on September 6 at the MA Chidambaram Stadium in Chennai. The 34-year-old recently featured...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-named-in-south-zone-squad-for-duleep-trophy-final-will-vaibhav-sooryavanshi-play-2026-09-05-1053398",
+    "time": "2026-09-05T10:16:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer opens up on Rohit Sharma's chances ahead of ODI World Cup 2027",
+    "desc": "The Indian team is gearing up for the upcoming ODI World Cup 2027. The marquee tournament is all set to be held in South Africa, and there is no doubt that the Indian team is...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-opens-up-on-rohit-sharma-s-chances-ahead-of-odi-world-cup-2027-2026-09-05-1053395",
+    "time": "2026-09-05T09:33:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer hails Rishabh Pant after India's Test series win over Sri Lanka",
+    "desc": "The Indian team recently got back to winning ways after defeating Sri Lanka in a two-game Test series. The two sides took on each other in Galle and Colombo across two Test matches, and led...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-hails-rishabh-pant-after-india-s-test-series-win-over-sri-lanka-2026-09-05-1053391",
+    "time": "2026-09-05T08:54:12.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Keyaa Banerji issues statement on being subjected to online harassment after silver medal victory",
+    "desc": "Indian powerlifter Keyaa Banerji, who recently caught the headlines among many others after her silver medal win at the IPF World Sub-Junior and Junior Classic Powerlifting Championships, has once again managed to capture the limelight. However,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/keyaa-banerji-issues-statement-on-being-subjected-to-online-harassment-after-silver-medal-victory-2026-09-05-1053386",
+    "time": "2026-09-05T07:42:48.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "India vs Pakistan, Women's Asia Cup 2026 Pitch Report, how will surface in Dubai play?",
     "desc": "The stage is set for one of the most anticipated games of the ongoing Women’s Asia Cup 2026. India will take on Pakistan at the Dubai International Cricket Stadium on September 5, and both sides...",
     "img": "",
@@ -34,59 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-set-to-script-history-ahead-of-crucial-pakistan-clash-in-women-s-asia-cup-check-details-2026-09-05-1053368",
     "time": "2026-09-05T02:52:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Will Enzo Fernandez be added to Manchester City's captaincy group ahead of Coventry clash? Head coach reveals",
-    "desc": "The stage is set for Manchester City to continue their brilliant start to the Premier League season. The side, having won their first two matches of the season, will look to put in another good...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/will-enzo-fernandez-be-added-to-manchester-city-s-captaincy-group-ahead-of-coventry-clash-head-coach-reveals-2026-09-05-1053364",
-    "time": "2026-09-05T01:47:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Aryna Sabalenka stops play during US Open, complains about fan smoking weed",
-    "desc": "Aryna Sabalenka advanced to the fourth round of the US Open after a brief interruption during her match against Kamilla Rakhimova. However, at one point during the match, the defending champion brought the game to...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/aryna-sabalenka-stops-play-during-us-open-complains-about-fan-smoking-weed-2026-09-04-1053356",
-    "time": "2026-09-04T18:02:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Phil Salt, Sam Curran out, Jamie Overton returns as England announce ODI, T20I squad for Sri Lanka series",
-    "desc": "England have named 16-player squads for their upcoming limited-overs series against Sri Lanka, starting September 15 in Southampton. Jamie Overton, who has been out injured for long time now, will mark his return in both...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/phil-salt-sam-curran-out-jamie-overton-returns-as-england-announce-odi-t20i-squad-for-sri-lanka-series-2026-09-04-1053352",
-    "time": "2026-09-04T17:16:35.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lhuan-dre Pretorius set new record with century against Namibia, South Africa win by 11 runs",
-    "desc": "South Africa opener Lhuan-dre Pretorius set a new record with a charismatic century against Namibia in the ongoing tri-series that also features Zimbabwe. He reached the milestone in 52 deliveries and with that, Pretorius became...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/lhuan-dre-pretorious-set-new-record-with-century-against-namibia-south-africa-win-by-11-runs-2026-09-04-1053351",
-    "time": "2026-09-04T16:25:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'India always one step ahead'",
-    "desc": "India are set to take on Pakistan on September 5 in their final group game in the ongoing Women’s Asia Cup 2026. Ahead of the blockbuster clash, all-rounder Deepti Sharma has backed the team’s overall...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-always-one-step-ahead-deepti-sharma-confident-ahead-of-pakistan-clash-in-women-s-asia-cup-2026-09-04-1053348",
-    "time": "2026-09-04T15:29:45.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mike Hesson believes Pakistan players 'used to chaos' after PCB shakes up squad for Edgbaston Test",
-    "desc": "Pakistan’s interim red-ball coach Mike Hesson has acknowledged the disruption surrounding the Test squad after seven of the players were released after the Lord’s Test. However, he believes the players have dealt with the upheaval...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mike-hesson-believes-pakistan-players-used-to-chaos-after-pcb-shakes-up-squad-for-edgbaston-test-2026-09-04-1053342",
-    "time": "2026-09-04T14:35:55.000Z"
   }
 ];
