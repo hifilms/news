@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "India hammer Pakistan in Asia Cup, register seven-wicket win after bundling them for 55 runs",
+    "desc": "India decimated Pakistan in their marquee clash in the ongoing Asia Cup 2026 at the Dubai International Cricket Stadium. The Harmanpreet Kaur-led side registered a comfortable seven-wicket win in the middle and, with that, moved...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-hammer-pakistan-in-asia-cup-register-seven-wicket-win-after-bundling-them-for-55-runs-2026-09-05-1053433",
+    "time": "2026-09-05T16:58:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan register their lowest-ever T20I score as India bundle them for 55 runs in Asia Cup",
+    "desc": "Indian spinners delivered a dominant display against arch-rivals Pakistan in the ongoing Asia Cup 2026. After opting to bat first, the Fatima Sana-led side struggled for momentum and looked particularly vulnerable against India’s spin attack,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-register-their-lowest-ever-t20i-score-as-india-bundle-them-for-55-runs-in-asia-cup-2026-09-05-1053428",
+    "time": "2026-09-05T16:02:13.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IND-W vs PAK-W Asia Cup 2026 LIVE Score: India beat Pakistan by seven wickets in Dubai",
+    "desc": "India take on arch-rivals Pakistan in their final Asia Cup 2026 league game at the Dubai International Cricket Stadium. Meanwhile, Pakistan have won the toss and elected to bowl first. Both teams have announced unchanged...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ind-w-vs-pak-w-asia-cup-2026-live-score-india-vs-pakistan-latest-match-updates-scorecards-playing-xis-reactions-highlights-1053417",
+    "time": "2026-09-05T13:30:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Where to watch India vs Pakistan Asia Cup 2026 live on TV and stream online in India?",
+    "desc": "India set to host arch-rivals Pakistan in Asia Cup 2026 blockbuster clash on Saturday, September 5, at the Dubai International Cricket Stadium. The Harmanpreet Kaur-led side registered back-to-back wins in the tournament so far and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/where-to-watch-india-vs-pakistan-asia-cup-2026-live-on-tv-and-stream-online-in-india-2026-09-05-1053416",
+    "time": "2026-09-05T13:28:32.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Smriti Mandhana needs 74 runs against Pakistan to break Suzie Bates' world record",
     "desc": "Star India opener Smriti Mandhana broke two world records in the previous encounter against Hong Kong, China in the ongoing Asia Cup. First, she surpassed Meg Lanning to become the woman with the most centuries...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/other/keyaa-banerji-issues-statement-on-being-subjected-to-online-harassment-after-silver-medal-victory-2026-09-05-1053386",
     "time": "2026-09-05T07:42:48.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India vs Pakistan, Women's Asia Cup 2026 Pitch Report, how will surface in Dubai play?",
-    "desc": "The stage is set for one of the most anticipated games of the ongoing Women’s Asia Cup 2026. India will take on Pakistan at the Dubai International Cricket Stadium on September 5, and both sides...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-vs-pakistan-women-s-asia-cup-2026-pitch-report-how-will-surface-in-dubai-play-2026-09-05-1053381",
-    "time": "2026-09-05T06:44:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "PCB look to release Aaqib Javed as part of clean-up process after 'chaotic' results",
-    "desc": "In a major development, the PCB (Pakistan Cricket Board) is set to remove former cricketer and now senior selector Aaqib Javed from their national selection committee. According to a report by PTI, Javed’s reported removal...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pcb-look-to-release-aaqib-javed-as-part-of-clean-up-process-after-chaotic-results-2026-09-05-1053377",
-    "time": "2026-09-05T05:23:04.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Serena and Venus Williams suffer first-round exit from women's doubles after historic return at US Open 2026",
-    "desc": "The US Open 2026 has already witnessed many memorable moments. Still early days in the tournament, the event saw the likes of Serena and Venus Williams make their return to the court. The legendary sisters...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/serena-and-venus-williams-suffer-first-round-exit-from-women-s-doubles-after-historic-return-at-us-open-2026-2026-09-05-1053371",
-    "time": "2026-09-05T03:45:38.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Harmanpreet Kaur set to script history ahead of crucial Pakistan clash in Women's Asia Cup; Check details",
-    "desc": "The ongoing Women’s Asia Cup 2026 sees India take on Pakistan. The two arch-rivals will meet at the Dubai International Cricket Stadium on September 5, and both sides will aim to deliver their best performance....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/harmanpreet-kaur-set-to-script-history-ahead-of-crucial-pakistan-clash-in-women-s-asia-cup-check-details-2026-09-05-1053368",
-    "time": "2026-09-05T02:52:48.000Z"
   }
 ];

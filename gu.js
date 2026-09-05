@@ -1,5 +1,50 @@
 const newsData_gu = [
   {
+    "cat": "Tech",
+    "title": "360° કેમેરા, 6 એરબેગ્સ, 10.25-ઇંચ સ્ક્રીન સાથે ટાટાની નવી ઓસ્પ્રે SUV લોન્ચ, CNG ઓપ્શન પણ છે ઉપલબ્ધ",
+    "desc": "ઓસ્પ્રે તેની મોટાભાગની બહારની સુવિધાઓ નેક્સોન સાથે શેર કરે છે. કલર ઓપ્શન પણ મોટાભાગે સરખો છે. જો કે, આ શેડ્સને અલગ રીતે લેબલ કરવામાં આવ્યા છે. ઉદાહરણ તરીકે, ભારતમાં નેક્સનના 'પ્રિસ્ટાઇન વ્હાઇટ' રંગને દક્ષિણ આફ્રિકામાં 'ફર્સ્ટ લાઇટ' કહેવામાં આવે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/tata-new-osprey-suv-launched-with-360-camera-6-airbags-10-25-inch-screen-cng-option-also-available-490230 ",
+    "time": "2026-09-05T16:59:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "જો જસપ્રીત બુમરાહ ફિટ નહીં થાય તો કોને મળશે તક ? આ ત્રણ ખેલાડીઓ છે રેસમાં",
+    "desc": "ભારતીય ક્રિકેટ ટીમનો સ્ટાર ખેલાડી જસપ્રીત બુમરાહ હાલમાં પોતાની ફિટનેસ પર કામ કરી રહ્યો છે, જેના કારણે અફઘાનિસ્તાન સામે રમશે કે નહીં તે અંગે હજુ સસ્પેન્સ છે. ત્યારે જો બુમરાહ ફિટ નહીં થાય તો કોને મળશે તક, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/india-vs-afghanistan-t20-series-jasprit-bumrah-injury-replacement-prince-siraj-mayank-490218 ",
+    "time": "2026-09-05T14:40:51.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "કેતન હત્યા કેસમાં નવો ખુલાસો, સિયા ગોયલ અને ચેતન ચૌધરીના ત્રીજા સાથીદારની ધરપકડ",
+    "desc": "કેતન અગ્રવાલ હત્યા કેસમાં વધુ એક ધરપકડ કરવામાં આવી છે. પોલીસે ત્રીજા આરોપીની ધરપકડ કરી છે. એવું કહેવામાં આવી રહ્યું છે કે આ વ્યક્તિને આ કેસની પહેલાથી જ જાણકારી હતી. આ વ્યક્તિ પહેલાથી જ જાણતો હતો કે આ ઘટના બનવાની છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/new-revelation-in-ketan-murder-case-third-accomplice-of-siya-goyal-and-chetan-chaudhary-arrested-490217 ",
+    "time": "2026-09-05T14:17:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "ટેલિગ્રામથી કસ્ટમર ફસાવતી, બાળકોને પોર્ન વીડિયો વેચતી, બે વાર કર્યા લગ્ન, બંને વાર પતિઓએ તેને છોડી",
+    "desc": "ફિરોઝાબાદમાં, એક 29 વર્ષીય મહિલા, જે તેના બે પતિઓથી અલગ થયા પછી ત્રણ વર્ષથી તેના માતા સાથે રહે છે, તેના પર ટેલિગ્રામ દ્વારા અશ્લીલ વીડિયો વેચવાનો આરોપ છે. પોલીસે તેની ધરપકડ કરી છે. તેના મોબાઈલ, ટેલિગ્રામ ચેટ, ગ્રુપ અને બેંક ટ્રાન્ઝેક્શનની તપાસ કરવામાં આવી રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/she-used-to-seduce-customers-through-telegram-sell-videos-to-children-got-married-twice-both-times-her-husbands-left-her-490215 ",
+    "time": "2026-09-05T13:59:14.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "70 વર્ષ જૂની મસ્જિદ પર બુલડોઝર! સહારનપુરમાં ભારે તણાવ, નેતાઓ નજરકેદ, સવાર પડતાંની સાથે જ 7 બુલડોઝર ઉતરી પડ્યાં",
+    "desc": "ઉત્તરપ્રદેશના સહારનપુરમાં આજે 70 વર્ષ જુની મસ્જિદ પર ફરી વળ્યું બુલડોઝર. કલેક્ટર પરિસરમાં આવેલી મસ્જિદને તેડવા માટે એક બે નહી. પરંતુ સાત-સાત બુલડોઝરની મદદ લેવામાં આવી. કોર્ટે અરજી ફગાવી દેતા પ્રશાસન સંપૂર્ણપણે એક્શન મોડમાં આવ્યું. મસ્જિદ તોડવાની કાર્યવાહી બાદ સમગ્ર સહારનપુરમાં ભારે તણાવનો માહોલ જોવા મળ્યો. તો કાયદો અને વ્યવસ્થા ન બગડે તે માટે પોલીસે અનેક વિપક્ષી નેતાઓને તેમના ઘરમાં હાઉસ અરેસ્ટ કર્યા અને મસ્જિદની આસપાસનો વિસ્તાર પોલીસ છાવણીમાં ફેરવાઈ ગયો. રેપિડ એક્શન ફોર્સ અને PACના જવાનોને તૈનાત કરવામાં આવ્યા હતા શું છે સમગ્ર મામલો, જાણો અમારા આ ખાસ અહેવાલમાં...",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/saharanpur-mosque-demolition-70-year-old-collectorate-mosque-razed-down-amid-high-tension-leaders-placed-under-house-arrest-490208 ",
+    "time": "2026-09-05T12:38:11.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "ભારતે આકાશમાં તૈનાત કર્યો 24 કલાક જાગતો &amp;#039;ચોકીદાર&amp;#039;!! દર 30 મીનિટે આપશે પળેપળની અપડેટ, જાણો શું છે ગર્વની ક્ષણ",
     "desc": "આજે ભારતના દરેક નાગરિકોની છાતી ગર્વથી ફુલી ગઈ છે જ્યારે આખો દેશ ઊંઘી રહ્યો હતો ત્યારે ભારતીય અંતરિક્ષ સંશોધન સંસ્થા એટલે કે, ઈસરોના વૈજ્ઞાનિકો ઈતિહાસ રચી રહ્યા હતા. મધરાતના સન્નાટાને ચીરીને ભારતે અંતરિક્ષમાં એવી છલાંગ લગાવી છે. જેણે સમગ્ર દુનિયાને આશ્ચર્યચકિત કરી દીધી છે. ઈસરોએ એક એવા રોકેટને અંતરિક્ષમાં મોકલ્યું છે જેને ક્યારેક નોટી બોય એટલે કે તોફાની છોકરો કહેવામાં આવતો હતો પરંતુ આજે એ જ રોકેટે ભારતને દુનિયાના સૌથી શક્તિશાળી દેશોની હરોળમાં ઉભા કરી દીધું છે.",
@@ -441,24 +486,6 @@ const newsData_gu = [
     "time": "2026-09-02T09:00:02.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "અભિજીત દીપકેએ ખોલી આખી પોલ! AAP માટે કામ કરવાની વાત સ્વીકારી, શેર કરી ડિટેલ",
-    "desc": "જૂન અને જુલાઈમાં રાજધાની દિલ્હીમાં પેપર લીક સામે થયેલા વિરોધ પ્રદર્શનો પછી અભિજીત દિપકેના આમ આદમી પાર્ટી સાથેના સંબંધો ખૂબ જ ચર્ચામાં છે. હવે, તેમણે ખુલ્લેઆમ કહ્યું છે કે તેઓ પાર્ટી સાથે કામ કરતા હતા. ત્યારબાદ તેઓ અભ્યાસ માટે અમેરિકા ગયા હતા.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/abhijeet-deepke-has-opened-up-the-whole-world-he-accepted-to-work-for-aap-shared-details-489802 ",
-    "time": "2026-09-02T06:46:42.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "આ શું? નેપાળે ભારત સહિત આ દેશો પર ફોડ્યું પૂરનું ઠીકરું, વળતરની માંગણી કરી નાખી",
-    "desc": "નેપાળમાં હાલમાં આવેલા વિનાશક પૂરે ભારે તબાહી મચાવી છે. જળપ્રલયના કારણે 1000થી વધુ લોકોના મોત થયા છે અને 4000થી વધુ લોકો ગૂમ છે. આ બધા વચ્ચે નેપાળે હવે કેટલાક દેશો પાસે જળવાયુ વળતરની માંગણી કરી નાખી છે જેમાં ભારત પણ સામેલ છે. જાણો વિગતો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/nepal-wants-climate-compensation-from-india-china-us-for-deadly-flood-greenhouse-gas-emission-489801 ",
-    "time": "2026-09-02T06:39:28.000Z"
-  },
-  {
     "cat": "Business",
     "title": "સરકારી કર્મચારીઓ માટે મોટો ધમાકો! 18,000 બેઝિક સેલરી થઈ શકે 72,000, જાણો આખું ગણિત",
     "desc": "જો 8મા પગાર પંચ ફિટમેન્ટ ફેક્ટર 4.0ની ભલામણ કરે છે, તો 18,000 રૂપિયાનો મૂળ પગાર વધીને 72,000 રૂપિયા થશે. કઈ સંસ્થાએ 4ના ફિટમેન્ટ ફેક્ટરની સૌથી વધુ માંગ કરી છે અને તેણે કયા આધાર પર કામ કર્યું છે?",
@@ -466,15 +493,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/big-bang-for-government-employees-basic-salary-of-18000-can-be-increased-to-72000-know-the-whole-math-489791 ",
     "time": "2026-09-02T06:13:56.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "E20 પેટ્રોલથી એવરેજ ઘટે અથવા નુકસાન થાય... તો અહીં કરો ફરિયાદ, થશે તપાસ! મુખ્યમંત્રીની મોટી જાહેરાત",
-    "desc": "મુખ્યમંત્રી પ્રમોદ સાવંતે વિધાનસભામાં જણાવ્યું હતું કે E20 પેટ્રોલના કારણે માઇલેજ ઘટવા કે વાહનને નુકસાન થવા અંગે કોઈ સત્તાવાર ફરિયાદ મળી નથી. જો કે, જો કોઈ વાહન માલિકને E20 પેટ્રોલ અંગે કોઈ ચિંતા હોય, તો તેઓ નાગરિક પુરવઠા વિભાગમાં ફરિયાદ નોંધાવી શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/if-the-average-decreases-or-is-damaged-due-to-e20-petrol-then-file-a-complaint-here-chief-ministers-big-announcement-489767 ",
-    "time": "2026-09-02T03:26:18.000Z"
   },
   {
     "cat": "Entertainment",
@@ -637,14 +655,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/mahindra-scorpio-n-august-2026-deals-get-huge-discount-up-to-1-25-lakh-on-7-seater-suv-489095 ",
     "time": "2026-08-27T11:11:08.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "અમદાવાદની EV કંપની લૉન્ચ કરશે 4 નવા ઇલેક્ટ્રિક મોટરસાઇકલ, જાણો શું હશે તેમાં ખાસ?",
-    "desc": "અમદાવાદ સ્થિત ઇલેક્ટ્રિક વાહન સ્ટાર્ટઅપ મેટર દેશમાં ચાર નવી ઇલેક્ટ્રિક મોટરસાઇકલ લોન્ચ કરવાની તૈયારી કરી રહ્યું છે. આ બધા નવા મોડેલ્સ મેટરના હાલના એરા પ્લેટફોર્મ પર આધારિત હશે, જેમાં કંપનીના ઇન-હાઉસ વિકસિત પાવરટ્રેન, બેટરી અને સોફ્ટવેર સિસ્ટમનો સમાવેશ થશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/ahmedabad-ev-company-will-launch-4-new-electric-motorcycles-know-what-will-be-special-about-them-488970 ",
-    "time": "2026-08-26T08:58:38.000Z"
   }
 ];
