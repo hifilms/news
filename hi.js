@@ -1,6 +1,24 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Aryna Sabalenka reaches sixth straight US Open quarterfinal, matches Serena Williams' record",
+    "desc": "Aryna Sabalenka moved into the US Open quarterfinals for a sixth consecutive year, defeating American Taylor Townsend 6-4, 6-3 to keep her bid for a third successive title firmly on track. The world No. 1...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/aryna-sabalenka-reaches-sixth-straight-us-open-quarterfinal-matches-serena-williams-record-2026-09-06-1053512",
+    "time": "2026-09-06T18:19:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "FIFA president Gianni Infantino seeks re-election despite enormous controversy",
+    "desc": "After the FIFA World Cup 2026, FIFA president Gianni Infantino intended to sell a small portion of the historic tournament to the private sector. That invited enormous backlash as several countries protested against the move....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/fifa-president-gianni-infantino-seeks-re-election-despite-enormous-controversy-2026-09-06-1053508",
+    "time": "2026-09-06T17:50:24.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "South Africa beat Zimbabwe by 48 runs after all-round show to win T20I tri-series",
     "desc": "South Africa lifted the Namibia T20I tri-series trophy after defeating Zimbabwe by 48 runs in the final. It marked their third victory over the Chevrons in eight days. They had a poor start to the...",
     "img": "",
@@ -70,23 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/when-and-where-to-watch-arsenal-vs-chelsea-live-on-tv-and-stream-online-in-india-2026-09-06-1053476",
     "time": "2026-09-06T09:14:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Erling Haaland hails new signings after Manchester City continue unbeaten run in Premier League",
-    "desc": "The Premier League 2026-27 season has got off to a great start for Manchester City. Under new head coach Enzo Maresca, the side have won every game that they have won so far. With three...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/erling-haaland-hails-new-signings-after-manchester-city-continue-unbeaten-run-in-premier-league-2026-09-06-1053472",
-    "time": "2026-09-06T08:29:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Vaibhav Sooryavanshi smashes Mohammed Siraj for consecutive boundaries in Duleep Trophy final",
-    "desc": "The Duleep Trophy 2026 final sees East Zone taking on South Zone. The two sides meet at the MA Chidambaram Stadium in Chennai for the clash, and batting first, East Zone got off to a...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-smashes-mohammed-siraj-for-consecutive-boundaries-in-duleep-trophy-final-watch-2026-09-06-1053469",
-    "time": "2026-09-06T07:20:30.000Z"
   }
 ];

@@ -1,12 +1,57 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "Four police officers in Kalady suspended for alleged custodial torture",
+    "title": "Four police officers suspended over custodial torture complaint",
     "desc": "The action followed a complaint by a taxi driver who alleged that the four officers brutally assaulted him after taking him into custody from his house on September 2 in connection with a case involving one of his friends.",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/kerala/four-police-officers-in-kalady-suspended-for-alleged-custodial-torture/article71435929.ece",
-    "time": "2026-09-06T17:17:20.000Z"
+    "time": "2026-09-06T18:17:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "No provision in Forest Rights Act to obtain gram sabha consent for projects, Tribal Affairs Ministry says",
+    "desc": "In a discussion with the Union Ministry of Power, the Ministry of Tribal Affairs also says ‘such matters’ related to the requirement of ‘100% gram sabha consent’ for projects in forest areas do not fall under its purview",
+    "img": "https://th-i.thgim.com/public/incoming/f9fuj7/article71436294.ece/alternates/LANDSCAPE_1200/_DSC3146.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/no-provision-in-forest-rights-act-to-obtain-gram-sabha-consent-for-projects-tribal-affairs-ministry-says/article71435768.ece",
+    "time": "2026-09-06T17:58:06.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran's response to U.S. attacks will be 'more painful', parliament speaker says",
+    "desc": "Iranian Parliament Speaker Mohammad Bagher Ghalibaf warned the U.S. that the “rules of the game” in its war with Iran had changed, saying any further attack on Iranian interests or security would draw a faster and more painful response",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-iran-war-live-updates-donald-trump-strait-of-hormuz-missiles-strikes-west-asia-conflict-september-6-2026/article71434444.ece",
+    "time": "2026-09-06T17:50:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "We were offered crores of rupees, ministerial posts, but we stood by principles, claims IUML Vaniyambadi MLA",
+    "desc": "Addressing cadre and party functionaries at the district-level general body meeting in Tiruvannamalai, he says they should be united in working with the ruling TVK in the upcoming elections to the local bodies for its own growth",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/u6rmk2/article71435805.ece/alternates/LANDSCAPE_1200/IUML.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/we-were-offered-crores-of-rupees-ministerial-posts-but-we-stood-by-principles-claims-iuml-vaniyambadi-mla/article71435544.ece",
+    "time": "2026-09-06T17:33:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Coimbatore, an ideal choice for district cooling systems",
+    "desc": "District cooling is a centralised system that pipes cooling to buildings in a 3-km radius and is metered like power supply; if a community has a dense population within a small area, district cooling system is ideal, says Grundfos India",
+    "img": "https://th-i.thgim.com/public/incoming/alb634/article71436299.ece/alternates/LANDSCAPE_1200/2085_6_9_2026_16_52_40_3_33.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/coimbatore-an-ideal-choice-for-district-cooling-systems/article71436219.ece",
+    "time": "2026-09-06T17:32:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Haaland scripts history, breaks Ronaldo and Mbappe’s scoring mark with 300 goals",
+    "desc": "Erling Haaland reached 300 club career goals in just 368 appearances as Manchester City beat Coventry 1-0. His landmark strike puts him behind only Lionel Messi, who reached 300 in 365 games, while Haaland remains on course to surpass Sergio Aguero as City’s all-time leading scorer. The milestone capped another dominant scoring display from the Norwegian forward.",
+    "img": "https://static.toiimg.com/photo/msid-133832152,imgsize-46592.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/erling-haaland-scripts-history-breaks-ronaldo-and-mbappes-scoring-record-with-300-club-goals/articleshow/133830745.cms",
+    "time": "2026-09-06T17:30:00.000Z"
   },
   {
     "cat": "Politics",
@@ -90,15 +135,6 @@ const newsData_en = [
     "time": "2026-09-06T15:31:47.000Z"
   },
   {
-    "cat": "World",
-    "title": "Iran's response to U.S. attacks will be 'more painful', parliament speaker says",
-    "desc": "Iranian Parliament Speaker Mohammad Bagher Ghalibaf warned the U.S. that the “rules of the game” in its war with Iran had changed, saying any further attack on Iranian interests or security would draw a faster and more painful response",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-iran-war-live-updates-donald-trump-strait-of-hormuz-missiles-strikes-west-asia-conflict-september-6-2026/article71434444.ece",
-    "time": "2026-09-06T15:21:28.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Leclerc's Ferrari wrecked in brutal Monza crash, Scuderia home race turns chaotic",
     "desc": "At Monza, Charles Leclerc experienced a severe crash that halted the race with a red flag, disrupting Ferrari's home grand prix. Fortunately, he emerged from his wrecked car unscathed. After a restart led by George Russell, Kimi Antonelli impressively raced to victory from a lower starting position, while Lewis Hamilton secured sixth place for Ferrari, rounding off their efforts in the race.",
@@ -124,15 +160,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/noida-content-creator-walks-out-of-mirzapur-screening-says-people-came-drunk-slams-theatre-staff/articleshow/133841632.cms",
     "time": "2026-09-06T14:58:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "As Yoga and Ayurveda become part of India’s global health diplomacy, experts press for credible standards",
-    "desc": "India has pushed for traditional medicine in its recent agreements with Oman, New Zealand and the EU. However, experts say AYUSH needs credible standards, evidence, regulation, practitioner quality and patient safety to establish itself in increasingly regulated global markets",
-    "img": "https://th-i.thgim.com/public/incoming/41kzfy/article71435775.ece/alternates/LANDSCAPE_1200/2026-08-24T091224Z_1640193633_RC2S4NA413R1_RTRMADP_3_GREECE-DAILYLIFE.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/health/as-yoga-and-ayurveda-become-part-of-indias-global-health-diplomacy-experts-press-for-credible-standards/article71435470.ece",
-    "time": "2026-09-06T14:49:29.000Z"
   },
   {
     "cat": "Politics",
@@ -441,6 +468,15 @@ const newsData_en = [
     "time": "2026-09-06T08:24:06.000Z"
   },
   {
+    "cat": "Business",
+    "title": "How small-town millennials are increasingly investing in crypto space",
+    "desc": "From the thrill of overnight riches that drove the crypto craze in 2021, investors in India are maturing in the way they invest, and a new tool that reflects this maturity is the crypto SIP",
+    "img": "https://th-i.thgim.com/public/news/qz01ps/article71431850.ece/alternates/LANDSCAPE_1200/iStock-1434149985.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/business/markets/crypto-sips-how-small-town-millennials-are-increasingly-dipping-into-crypto-space/article71431723.ece",
+    "time": "2026-09-06T08:18:20.000Z"
+  },
+  {
     "cat": "World",
     "title": "UN approves resolution in support of map that shows Africa’s true size",
     "desc": "16th-century Mercator map diminishes size of Africa; Togo-led UN initiative to further African Union campaign for new map; West African nation aims ​to use Equal Earth map in schools by the end of the year; United ‌States was the only country to vote against",
@@ -520,15 +556,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/india-co-sponsors-unga-resolution-to-declare-november-27-day-against-child-marriage/article71434559.ece",
     "time": "2026-09-06T06:01:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India thrash Pakistan for 55, Wahab Riaz still calls them ‘best side’ in Asia Cup",
-    "desc": "In a crushing defeat, Pakistan's women faced a historic batting collapse against India in the Women's Asia Cup, recording their lowest T20I score. Despite this setback, mentor Wahab Riaz remains optimistic about the squad's future potential, citing necessary changes for upcoming tournaments. To move forward in the competition, Pakistan must secure a victory against Hong Kong.",
-    "img": "https://static.toiimg.com/photo/msid-133826375,imgsize-152394.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/india-thrash-pakistan-for-55-wahab-riaz-still-calls-them-best-side-in-asia-cup/articleshow/133826248.cms",
-    "time": "2026-09-06T04:58:02.000Z"
   },
   {
     "cat": "Business",
@@ -646,15 +673,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/technology/brought-in-for-civilian-use-starlink-is-now-integral-to-ukraines-war-effort/article71225657.ece",
     "time": "2026-09-05T11:55:24.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "How small-town millennials are increasingly dipping into crypto space",
-    "desc": "From the thrill of overnight riches that drove the crypto craze in 2021, investors in India are maturing in the way they invest, and a new tool that reflects this maturity is the crypto SIP",
-    "img": "https://th-i.thgim.com/public/news/qz01ps/article71431850.ece/alternates/LANDSCAPE_1200/iStock-1434149985.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/markets/crypto-sips-how-small-town-millennials-are-increasingly-dipping-into-crypto-space/article71431723.ece",
-    "time": "2026-09-05T11:54:32.000Z"
   },
   {
     "cat": "World",
@@ -783,15 +801,6 @@ const newsData_en = [
     "time": "2026-09-05T03:08:47.000Z"
   },
   {
-    "cat": "Business",
-    "title": "AI giant delays public offering, eyes mid-October market debut",
-    "desc": "Anthropic has postponed its initial public offering, now aiming for mid-October for its market launch. Investors are optimistic about a potential $2 trillion valuation for the artificial intelligence firm. The company is also securing a major $15 billion credit facility ahead of upcoming analyst meetings. They project significant revenue growth, targeting $200 billion by 2028, bolstered by an improved rapport with the US administration after previous tensions.",
-    "img": "https://static.toiimg.com/photo/msid-133784730,imgsize-34338.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/anthropic-ipo-ai-giant-delays-public-offering-eyes-2-trillion-valuation-mid-october-market-debut/articleshow/133783952.cms",
-    "time": "2026-09-05T02:29:27.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Inside Madhuri Dixit’s 5,500 sq ft Mumbai home with M.F. Husain art",
     "desc": "On the 53rd floor of her Mumbai apartment, Madhuri Dixit moves with the same composed grace that has defined decades of her on-screen persona. From Mohini in 'Tezaab' to Nisha in 'Hum Aapke Hain Koun..!,' audiences have seen her in countless memorable avatars, but her home offers a glimpse into a quieter, more personal side of the actress. Madhuri Dixit and Dr Shriram Nene's sea-facing Mumbai apartment blends minimalist architecture with the vibrant art of M.F. Husain, who painted several works exclusively for the actress, alongside a home built around music, technology and family.",
@@ -862,15 +871,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/missouri-court-blocks-trump-backed-us-house-map-orders-it-to-be-put-to-vote/article71428642.ece",
     "time": "2026-09-04T14:36:58.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "UN rights chief calls for greater action to end Sri Lanka’s ‘long legacy of impunity’",
-    "desc": "The report, released ahead of the 63rd session of the UN Human Rights Council in Geneva beginning next week, comes even as President Dissanayake completes two years in office, after a historic mandate, including from the island nation’s ethnic minorities",
-    "img": "https://th-i.thgim.com/public/incoming/wmm17e/article71428011.ece/alternates/LANDSCAPE_1200/AFP_67WQ79K.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/un-rights-chief-calls-for-greateraction-toend-sri-lankas-long-legacy-of-impunity/article71427942.ece",
-    "time": "2026-09-04T13:12:06.000Z"
   },
   {
     "cat": "Entertainment",
