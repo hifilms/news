@@ -1,5 +1,14 @@
 const newsData_gu = [
   {
+    "cat": "Politics",
+    "title": "દિવાળી માટે ટ્રેન ટિકિટનું બુકિંગ શરૂ, કન્ફર્મ ટિકિટ મેળવવા માટે શું કરવું જોઈએ?",
+    "desc": "જો તમે આ દિવાળીએ ઘરે જવાની યોજના બનાવી રહ્યા છો, તો આ સમાચાર તમારા માટે છે. દિવાળી માટે ટ્રેન ટિકિટ બુકિંગ આજથી શરૂ થઈ ગયું છે. દિવાળી 8 નવેમ્બરે છે, અને ટ્રીપ માટે ટ્રેન ટિકિટ બારી આજે ખુલી ગઇ છે. IRCTC વેબસાઇટ પર સવારે 8 વાગ્યે ટિકિટ બુકિંગ શરૂ થઈ ગયું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/booking-of-train-tickets-for-diwali-has-started-what-should-be-done-to-get-a-confirmed-ticket-490277 ",
+    "time": "2026-09-06T07:09:57.000Z"
+  },
+  {
     "cat": "Tech",
     "title": "360° કેમેરા, 6 એરબેગ્સ, 10.25-ઇંચ સ્ક્રીન સાથે ટાટાની નવી ઓસ્પ્રે SUV લોન્ચ, CNG ઓપ્શન પણ છે ઉપલબ્ધ",
     "desc": "ઓસ્પ્રે તેની મોટાભાગની બહારની સુવિધાઓ નેક્સોન સાથે શેર કરે છે. કલર ઓપ્શન પણ મોટાભાગે સરખો છે. જો કે, આ શેડ્સને અલગ રીતે લેબલ કરવામાં આવ્યા છે. ઉદાહરણ તરીકે, ભારતમાં નેક્સનના 'પ્રિસ્ટાઇન વ્હાઇટ' રંગને દક્ષિણ આફ્રિકામાં 'ફર્સ્ટ લાઇટ' કહેવામાં આવે છે.",
@@ -432,15 +441,6 @@ const newsData_gu = [
     "time": "2026-09-02T11:19:18.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "નેપાળ જેવી તબાહીનો ખતરો! પીગળી રહેલા ગ્લેશિયરથી ભારતના આ વિસ્તાર પર તોળાઈ રહ્યું છે સૌથી મોટું જોખમ?",
-    "desc": "નેપાળમાં હાલમાં જ આવેલા જળપ્રલયમાં 1000થી વધુ લોકોના જીવ ગયા અને હજુ પણ 4000થી વધુ લોકો ગૂમ છે. ભારતમાં પણ નેપાળ જેવી તબાહીનું જોખમ તોળાયેલું છે. ગ્લોબલ વોર્મિંગના કારણે ગંગોત્રી-ગૌમુખનો 25 કિમી વિશાળ ગ્લેશિયર ઝડપથી પીગળી રહ્યો છે. તેની આજુબાજુ અનેક અસ્થિર ઝીલો બની રહી છે. ઉત્તરકાશી સંવેદનશીલ વિસ્તાર હોવાથી નેપાળ જેવી તબાહીથી બચવા માટે સ્થાનિક લોકોએ આ ઝીલોના વૈજ્ઞાનિક પરીક્ષણની માંગણી કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/nepal-floods-uttarakhand-uttarkashi-gangotri-gaumukh-melting-glacier-489867 ",
-    "time": "2026-09-02T10:40:27.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "દિશા સાલિયાન કેસમાં 6 વર્ષ બાદ મોટો વળાંક! ફરી જાગી ન્યાયની આશા, સુશાંત સિંહ રાજપૂત કેસ સાથે છે કનેક્શન ?",
     "desc": "2020માં દિશા સાલિયાનના શંકાસ્પદ મોત અંગેના એક મહત્વપૂર્ણ આદેશમાં બોમ્બે હાઈકોર્ટે તપાસ સેન્ટ્રલ બ્યુરો ઓફ ઇન્વેસ્ટિગેશન (CBI)ને સોંપી દીધી છે. કોર્ટે સ્પષ્ટ કર્યું કે CBIએ FIR નોંધવી જોઈએ અને આ મામલે નવેસરથી તપાસ શરૂ કરવી જોઈએ.",
@@ -457,15 +457,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/business/gold-silver-became-cheaper-pm-modi-appeal-effect-check-today-gold-silver-latest-rates-489813 ",
     "time": "2026-09-02T09:39:26.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "પહેલા પ્રેમ, પછી લવ મેરેજ... રાત્રે પતિ સાથે ઝઘડો, સવારે પથારીમાં મળી લાશ, દોઢ વર્ષમાં જ લવ મેરેજનો ખૌફનાક અંત",
-    "desc": "27 વર્ષની શિવાની ઠાકુરની સંદિગ્ઘ હાલતમાં લાશ મળતાં સનસની મચી ગઈ છે. શિવાનીની લાશ એના રૂમના બેડ પર પડી હતી અને પતિ યશ ઠાકુર ગાયબ છે. સોશિયલ મીડિયા પર પ્રેમ થયો અને બંનેએ લગ્ન કરી લીધા. આ લગ્નજીવનનો દોઢ વર્ષમાં જ અંત આવી ગયો છે અને પતિ ફરાર છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/love-marriage-tragedy-in-jhansi-27-year-old-woman-found-dead-on-bed-after-late-night-fight-with-husband-spouse-missing-489837 ",
-    "time": "2026-09-02T09:32:12.000Z"
   },
   {
     "cat": "Entertainment",
@@ -520,15 +511,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/tandav-destruction-tragedy-is-the-26th-date-inauspicious-painful-history-associated-with-disasters-489703 ",
     "time": "2026-09-01T12:01:29.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "પાકિસ્તાનની શરમજનક કરતૂત, SCO ગ્રુપ ફોટામાંથી PM મોદીનો ફોટો હટાવીને પાક PMOએ કર્યો શેર",
-    "desc": "કિર્ગિસ્તાનની રાજધાની બિશ્કેકમાં એસસીઓ સમિટનું આયોજન થયું છે. આ દરમિયાન ભાગ લેનારા દેશોના નેતાઓની એક ગ્રુપ તસવીર સામે આવી. પણ પાકિસ્તાને એવી શરમજનક હરકત કરી કે દુનિયા પણ ચોંકી ગઈ. SCO ગ્રુપ ફોટામાંથી પીએમ મોદીની તસવીર હટાવી અને એડિટેડ તસવીર સોશિયલ મીડિયામાં શેર કરી.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/pakistan-pmo-shared-edited-sco-group-photo-pm-modi-removed-shameless-act-489688 ",
-    "time": "2026-09-01T11:28:04.000Z"
   },
   {
     "cat": "Sports",

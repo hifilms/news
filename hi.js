@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Vaibhav Sooryavanshi smashes Mohammed Siraj for consecutive boundaries in Duleep Trophy final",
+    "desc": "The Duleep Trophy 2026 final sees East Zone taking on South Zone. The two sides meet at the MA Chidambaram Stadium in Chennai for the clash, and batting first, East Zone got off to a...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-smashes-mohammed-siraj-for-consecutive-boundaries-in-duleep-trophy-final-watch-2026-09-06-1053469",
+    "time": "2026-09-06T07:20:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Former India cricketer reflects on key decisions after BCCI's meeting around SENA games",
+    "desc": "The Indian team is set for a T20I series against Afghanistan. The Men in Blue are coming into the series on the back of a two-game Test series win against Sri Lanka. With the shaky...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-reflects-on-key-decisions-after-bcci-s-meeting-around-sena-games-2026-09-06-1053462",
+    "time": "2026-09-06T05:56:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "EZ vs SZ, Duleep Trophy 2026 Final LIVE Score: South Zone plot comeback, East Zone two down",
+    "desc": "The Duleep Trophy 2026 final sees East Zone taking on South Zone. The two sides meet each other at the MA Chidambaram Stadium in Chennai for the clash from September 6, and both sides would...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ez-vs-sz-duleep-trophy-2026-final-live-score-east-zone-aim-to-get-off-to-good-start-with-the-bat-2026-09-06-1053455",
+    "time": "2026-09-06T04:19:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Why is KL Rahul not playing against East Zone in Duleep Trophy 2026 final? Check details",
+    "desc": "The stage is set for the summit clash of the Duleep Trophy 2026; East Zone is taking on South Zone in the clash as the two sides meet at the MA Chidambaram Stadium in Chennai,...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/why-is-kl-rahul-not-playing-against-east-zone-in-duleep-trophy-2026-final-check-details-2026-09-06-1053454",
+    "time": "2026-09-06T04:01:03.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Very important game for us': Harmanpreet Kaur opens up after India thrash Pakistan in Women's Asia Cup 2026",
+    "desc": "The Indian team put forth a brilliant performance against Pakistan in the ongoing Women’s Asia Cup. Taking on the side at the Dubai International Cricket Stadium on September 5th, the Indian team bundled out Pakistan...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/very-important-game-for-us-harmanpreet-kaur-opens-up-after-india-thrash-pakistan-in-women-s-asia-cup-2026-2026-09-06-1053452",
+    "time": "2026-09-06T03:03:01.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "When and where to watch East Zone vs South Zone, Duleep Trophy 2026 final live on TV and stream online?",
     "desc": "The stage is set for the summit clash of the Duleep Trophy 2026. The final pits East Zone against South Zone. The two sides will meet at the MA Chidambaram Stadium, Chepauk, Chennai, on September...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pakistan-register-their-lowest-ever-t20i-score-as-india-bundle-them-for-55-runs-in-asia-cup-2026-09-05-1053428",
     "time": "2026-09-05T16:02:13.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "IND-W vs PAK-W Asia Cup 2026 LIVE Score: India beat Pakistan by seven wickets in Dubai",
-    "desc": "India take on arch-rivals Pakistan in their final Asia Cup 2026 league game at the Dubai International Cricket Stadium. Meanwhile, Pakistan have won the toss and elected to bowl first. Both teams have announced unchanged...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ind-w-vs-pak-w-asia-cup-2026-live-score-india-vs-pakistan-latest-match-updates-scorecards-playing-xis-reactions-highlights-1053417",
-    "time": "2026-09-05T13:30:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Where to watch India vs Pakistan Asia Cup 2026 live on TV and stream online in India?",
-    "desc": "India set to host arch-rivals Pakistan in Asia Cup 2026 blockbuster clash on Saturday, September 5, at the Dubai International Cricket Stadium. The Harmanpreet Kaur-led side registered back-to-back wins in the tournament so far and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/where-to-watch-india-vs-pakistan-asia-cup-2026-live-on-tv-and-stream-online-in-india-2026-09-05-1053416",
-    "time": "2026-09-05T13:28:32.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Smriti Mandhana needs 74 runs against Pakistan to break Suzie Bates' world record",
-    "desc": "Star India opener Smriti Mandhana broke two world records in the previous encounter against Hong Kong, China in the ongoing Asia Cup. First, she surpassed Meg Lanning to become the woman with the most centuries...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/smriti-mandhana-needs-74-runs-against-pakistan-to-break-suzie-bates-world-record-2026-09-05-1053410",
-    "time": "2026-09-05T11:59:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Fede Valverde, Ronald Araujo, Darwin Nunez named as Uruguay announce provisional squad for India clash",
-    "desc": "Uruguay have announced a 46-man provisional squad for their upcoming tour of Asia, where they will play Japan, South Korea and finally India at Salt Lake Stadium on October 6. The fixture will also mark...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/fede-valverde-ronald-araujo-darwin-nunez-named-as-uruguay-announce-provisional-squad-for-india-clash-2026-09-05-1053403",
-    "time": "2026-09-05T11:08:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "KL Rahul named in South Zone squad for Duleep Trophy final; will Vaibhav Sooryavanshi play?",
-    "desc": "India Test opener KL Rahul has been named in the South Zone squad for the Duleep Trophy final, slated to begin on September 6 at the MA Chidambaram Stadium in Chennai. The 34-year-old recently featured...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-named-in-south-zone-squad-for-duleep-trophy-final-will-vaibhav-sooryavanshi-play-2026-09-05-1053398",
-    "time": "2026-09-05T10:16:44.000Z"
   }
 ];
