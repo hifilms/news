@@ -1,6 +1,60 @@
 const newsData_gu = [
   {
     "cat": "Politics",
+    "title": "‘પહેલા ધડાકો થયો અને પળવારમાં...’ પ્રત્યક્ષદર્શીઓએ જણાવ્યું દિલ્હી ઈમારત ધરાશાયી થવાનું ભયાનક દ્રશ્ય",
+    "desc": "દિલ્હીમાં દુ:ખદ ઘટના સામે આવી છે. એક ઇમારત ધરાશાયી થતાં 20-25 વિદ્યાર્થીઓ દટાયા હોવાની આશંકા છે. પ્રત્યક્ષદર્શીઓએ ભયાનક દ્રશ્ય અંગે જણાવ્યું કે કેવી રીતે ઘટના બની હતી. ઘટનાસ્થળે રાહત અને બચાવ કામગીરી ચાલી રહી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/delhi-house-collapse-eyewitness-children-trapped-building-ndrf-rescue-operation-490346 ",
+    "time": "2026-09-06T12:13:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "ઝી5 ની બેસ્ટ સાઈકો થ્રિલર ફિલ્મ, બાળકની એક્ટિંગ જોઈ દિલ ખુશ થઈ જશે",
+    "desc": "ઝી5 ઓટીટી પ્લેટફોર્મ પર જોઈ શકાય તેવી સાઈકો થ્રિલર ફિલ્મ વિશે આજે તમને જણાકારી આપીએ. આ ફિલ્મ મુળ મલયાલમ ભાષાની છે પણ ઝી5 પર તમે તેને હીંદીમાં જોઈ શકો છો. આ ફિલ્મનું આઈએમડીબી રેટિંગ 8 નું છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/zee5-must-watch-psycho-thriller-movie-in-hindi-balan-490332 ",
+    "time": "2026-09-06T11:45:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "તિલક વર્મા અને વૈભવ સૂર્યવંશી વચ્ચે બબાલ! પરિસ્થિતિ એટલી વણસી ગઈ કે અમ્પાયરોને કરવી પડી દરમિયાનગીરી",
+    "desc": "પૂર્વ ઝોન અને દક્ષિણ ઝોન વચ્ચેની દુલીપ ટ્રોફી ફાઇનલ દરમિયાન મેદાન પર ગરમાગરમી જોવા મળી હતી. વૈભવ સૂર્યવંશી અને તિલક વર્મા વચ્ચે સ્લેજિંગથી શરૂ થયેલી પરિસ્થિતિ ત્યારે વધુ વણસી જ્યારે તિલકે મુક્કો મારવાનો ઈશારો કર્યો. વિવાદ વધુ વકરતો જોઈને અમ્પાયરોએ બંને ખેલાડીઓને શાંત કરવા માટે દરમિયાનગીરી કરવી પડી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/heated-argument-between-vaibhav-sooryavanshi-and-tilak-varma-in-duleep-trophy-final-490316 ",
+    "time": "2026-09-06T10:40:47.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સોનાની ગતિ પડી છે ધીમી, પણ તે હજુ નથી થઈ સમાપ્ત! એક્સપર્ટે કહ્યું સોનું બનાવશે એક નવો રેકોર્ડ",
+    "desc": "ગોલ્ડમેન સૅક્સના વરિષ્ઠ એક્સપર્ટ ટોની કિમ માને છે કે આગામી દિવસોમાં સોનાના ભાવ રેકોર્ડ ઊંચાઈએ પહોંચી શકે છે. હાલમાં માર્કેટમાં સોના અને ચાંદીના ભાવમાં ભારે ઉથલ પાથલ ચાલી રહી છે, દિગ્ગજ એક્સપર્ટની સલાહ પર સોનાના ભાવમાં વધારો થવાની ભવિષ્યવાણી સામે આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/golds-momentum-has-slowed-down-but-its-not-over-yet-expert-says-gold-will-set-a-new-record-490295 ",
+    "time": "2026-09-06T09:54:40.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "શું AI ખાઈ જશે સોફ્ટવેર એન્જિનિયરોની નોકરીઓ? Zohoના કો-ફાઉન્ડર શ્રીધર વેમ્બુની ચેતવણીએ વધારી ચિંતા",
+    "desc": "ઝોહોના સહ-સ્થાપક શ્રીધર વેમ્બુએ ચેતવણી આપી છે કે ભવિષ્યમાં AI જટિલ કોડિંગ અને ગાણિતિક સમસ્યાઓ સરળતાથી ઉકેલી લેશે. આ સોફ્ટવેર એન્જિનિયરો માટે નોંધપાત્ર ખતરો ઉભો કરી શકે છે. શ્રીધરના નિવેદનથી હવે ચર્ચાઓનો દોર શરૂ થઈ રહ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/will-ai-take-away-software-engineers-jobs-zoho-co-founder-sridhar-vembu-warning-raises-concerns-490292 ",
+    "time": "2026-09-06T09:51:56.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "કેન્દ્ર સરકારના કર્મચારીઓને દશેરા પહેલા મળશે મોટી ખુશખબર? બોનસમાં થઈ આટલો મોટો વધારો, જાણો",
+    "desc": "8મા પગાર પંચ વચ્ચે, કેન્દ્ર સરકારના કર્મચારીઓ માટે બોનસનો મુદ્દો પણ વધુ તીવ્ર બન્યો છે. કર્મચારી સંગઠનોએ વર્તમાન બોનસ મર્યાદામાં વધારો અને તેની ગણતરી કરવાની પદ્ધતિમાં ફેરફારની માંગ કરી છે. જો સરકાર આ માંગણીઓ પર વિચાર કરે તો ભવિષ્યમાં બોનસની રકમ વર્તમાન સિસ્ટમ કરતા વધારે હોઈ શકે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/will-central-government-employees-get-good-news-before-dussehra-bonus-can-increase-by-this-much-know-490290 ",
+    "time": "2026-09-06T09:12:09.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "દિવાળી માટે ટ્રેન ટિકિટનું બુકિંગ શરૂ, કન્ફર્મ ટિકિટ મેળવવા માટે શું કરવું જોઈએ?",
     "desc": "જો તમે આ દિવાળીએ ઘરે જવાની યોજના બનાવી રહ્યા છો, તો આ સમાચાર તમારા માટે છે. દિવાળી માટે ટ્રેન ટિકિટ બુકિંગ આજથી શરૂ થઈ ગયું છે. દિવાળી 8 નવેમ્બરે છે, અને ટ્રીપ માટે ટ્રેન ટિકિટ બારી આજે ખુલી ગઇ છે. IRCTC વેબસાઇટ પર સવારે 8 વાગ્યે ટિકિટ બુકિંગ શરૂ થઈ ગયું છે.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -324,15 +378,6 @@ const newsData_gu = [
     "time": "2026-09-03T04:18:06.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "મિગ-21થી PAKનું F-16 તોડી પાડનારા અભિનંદને ભારતીય વાયુસેના છોડી, જાણો હવે શું કરશે?",
-    "desc": "વર્ષ 2019માં બાલાકોટ એરસ્ટ્રાઈકના સમયે પાકિસ્તાનને હેરાન પરેશાન કરનારા જાંબાઝ પાયલોટ અભિનંદન વર્ધમાન હવે ભારતીય વાયુસેનાને અલવિદા કરી ચૂક્યા છે. એવા રિપોર્ટ છે કે તેમણે એક ખાનગી એરલાઈન કંપની સાથે કામ કરવાનો નિર્ણય કર્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/group-captain-abhinandan-varthaman-indian-air-force-private-airline-489911 ",
-    "time": "2026-09-03T03:19:04.000Z"
-  },
-  {
     "cat": "World",
     "title": "કોરોના પછી ડરાવી રહ્યો છે ઈબોલા, WHO એ જણાવ્યું બીમારી ફેલાવાનું કારણ, અત્યાર સુધીમાં હજારો લોકોના મોત",
     "desc": "કોરોના મહામારી પછી ઈબોલા નામની બીમારી દુનિયાને ડરાવી રહી છે. ઈબોલાના કારણે છેલ્લા 4 મહિનામાં હજારો લોકોના મોત થયા છે. ઈબોલા દુનિયાના કેટલાક દેશોમાં હાહાકાર મચાવી રહી છે. ઈબોલાને લઈને વિશ્વ સ્વાસ્થ્ય સંગઠને મહત્વપૂર્ણ જાણકારી આપી છે.",
@@ -396,15 +441,6 @@ const newsData_gu = [
     "time": "2026-09-02T14:28:29.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "મુંબઈ-કોલકાતા ડૂબી જશે? દરિયાનું વધતું પાણી ગળી જશે શહેરો, દોઢ કરોડ લોકો પર મંડરાઈ રહ્યો છે મોટો ખતરો",
-    "desc": "શું તમે ક્યારેય વિચાર્યું છે કે જે ઘરને તમે તમારી આકરી મહેનતની કમાણીના એક એક રૂપિયામાંથી ઉભુ કર્યુ છે, તે આવનારાં અમુક વર્ષોમાં સમુદ્રમાં સમાઈ જશે? જીહા, સંયુક્ત રાષ્ટ્રના હાલના જ રિપોર્ટમાં દાવો કરાયો કે ભારતના મુંબઈ અને કોલકાતાના મહાવિનાશનું કાઉન્ટડાઉન શરૂ થઈ ચૂક્યું છે. બંને શહેરના 1 કરોડ 40 લાખ લોકોની વસ્તી પર જળસમાધિનો ખતરો મંડરાઈ રહ્યો છે. શું છે UNનો આ ડરામણો રિપોર્ટ, જોઈએ આ પ્રાઈમ ટાઈમ રિપોર્ટમાં...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/countdown-to-drowning-un-warns-mumbai-kolkata-face-severe-sinking-risks-489898 ",
-    "time": "2026-09-02T14:17:22.000Z"
-  },
-  {
     "cat": "Business",
     "title": "SBI ગ્રાહકો માટે મહત્વના સમાચાર ! આ દિવસે બંધ રહેશે UPI સર્વિસ, નહીં થાય ટ્રાન્ઝેક્શન",
     "desc": "SBIએ તેના ગ્રાહકોને જાણ કરી છે કે UPI સર્વિસ થોડા સમય માટે બંધ રહેશે. તેથી જો તમે કોઈપણ ટ્રાન્ઝેક્શન કરવા માંગતા હો તો સેવા ઓફલાઇન થાય તે પહેલાં પૂર્ણ કરી લો, નહીંતર તમને મુશ્કેલીઓનો સામનો કરવો પડી શકે છે.",
@@ -448,15 +484,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/bombay-high-court-orders-cbi-probe-in-disha-salian-case-sushant-singh-rajput-connection-489865 ",
     "time": "2026-09-02T10:28:59.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "PM મોદીની અપીલની અસર! ગણતરીના કલાકોમાં સોનું 4500 અને ચાંદી 9000 રૂપિયા સસ્તી થઈ, જાણો આજનો રેટ",
-    "desc": "સોના અને ચાંદીના ભાવમાં આજે પણ જોરદાર ઘટાડો જોવા મળ્યો છે. છેલ્લા બે દિવસમાં સોનું 4500 રૂપિયા જેટલું અને ચાંદી 9000 રૂપિયા જેટલી સસ્તી થઈ ગઈ છે. પીએમ મોદીએ સોનું ન ખરીદવાની જે અપીલ કરી તેની અસર જોવા મળી રહી હોય તેવું જણાય છે. જાણો આજનો લેટેસ્ટ રેટ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-silver-became-cheaper-pm-modi-appeal-effect-check-today-gold-silver-latest-rates-489813 ",
-    "time": "2026-09-02T09:39:26.000Z"
   },
   {
     "cat": "Entertainment",
@@ -583,15 +610,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/women-asia-cup-will-india-handshake-with-pakistani-players-head-coach-gave-answer-489462 ",
     "time": "2026-08-30T15:02:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "ICCનો મોટો નિર્ણય, શ્રીલંકા પાસેથી છીનવાઈ ચેમ્પિયન્સ ટ્રોફીની યજમાની! જાણો કઈ ભૂલની મળી સજા",
-    "desc": "ICCએ શ્રીલંકા અંગે એક મોટો નિર્ણય લીધો છે. આવતા વર્ષે શ્રીલંકામાં યોજાનારી મહિલા ચેમ્પિયન્સ ટ્રોફી હવે ત્યાં યોજાશે નહીં. ICC પાસે આ નિર્ણય પાછળ કેટલાક કારણો પણ છે. ત્યારે ICCએ શ્રીલંકા પાસેથી કેમ યજમાની છીનવી લીધી છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/icc-big-decision-sri-lanka-lost-hosting-rights-for-womens-champions-trophy-2027-489451 ",
-    "time": "2026-08-30T12:38:52.000Z"
   },
   {
     "cat": "Entertainment",

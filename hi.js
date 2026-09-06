@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Can Ishan Kishan be back in India's Test scheme of things after century in Duleep Trophy final?",
+    "desc": "East Zone captain Ishan Kishan played a commanding knock in the Duleep Trophy final against South Zone at the MA Chidambaram Stadium in Chennai. The 28-year-old arrived at the crease after Sudip Kumar Gharami fell...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/can-ishan-kishan-be-back-in-india-s-test-scheme-of-things-after-century-in-duleep-trophy-final-2026-09-06-1053488",
+    "time": "2026-09-06T12:13:19.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Satwik-Chirag scripts history, win China Masters for first time by beating home favourites",
+    "desc": "Satwiksairaj Rankireddy and Chirag Shetty won the China Masters 2026 men’s doubles title, beating China’s He Jiting and Ren Xiangyu 21-11, 13-21, 21-17 in the final. They got the job done in 70 minutes and...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/satwik-chirag-scripts-history-win-china-masters-for-first-time-by-beating-home-favourites-2026-09-06-1053482",
+    "time": "2026-09-06T11:09:18.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Sri Lanka's Rumesh Pathirage wins Diamond League final in Neeraj Chopra's absence",
+    "desc": "Sri Lanka’s Rumesh Tharanga Pathirage created history by winning the men’s javelin throw title at the 2026 Diamond League Final in Brussels. He also became the first athlete from his country to secure the prestigious...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/sri-lanka-s-rumesh-pathirage-wins-diamond-league-final-in-neeraj-chopra-s-absence-2026-09-06-1053480",
+    "time": "2026-09-06T10:39:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch Arsenal vs Chelsea live on TV and stream online in India?",
+    "desc": "The stage is set for one of the biggest games of the ongoing Premier League season. The London derby is right around the corner as Arsenal is slated to take on Chelsea. The two sides...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/when-and-where-to-watch-arsenal-vs-chelsea-live-on-tv-and-stream-online-in-india-2026-09-06-1053476",
+    "time": "2026-09-06T09:14:29.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Erling Haaland hails new signings after Manchester City continue unbeaten run in Premier League",
+    "desc": "The Premier League 2026-27 season has got off to a great start for Manchester City. Under new head coach Enzo Maresca, the side have won every game that they have won so far. With three...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/erling-haaland-hails-new-signings-after-manchester-city-continue-unbeaten-run-in-premier-league-2026-09-06-1053472",
+    "time": "2026-09-06T08:29:32.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Vaibhav Sooryavanshi smashes Mohammed Siraj for consecutive boundaries in Duleep Trophy final",
     "desc": "The Duleep Trophy 2026 final sees East Zone taking on South Zone. The two sides meet at the MA Chidambaram Stadium in Chennai for the clash, and batting first, East Zone got off to a...",
     "img": "",
@@ -19,7 +64,7 @@ const newsData_hi = [
   },
   {
     "cat": "Sports",
-    "title": "EZ vs SZ, Duleep Trophy 2026 Final LIVE Score: South Zone plot comeback, East Zone two down",
+    "title": "EZ vs SZ, Duleep Trophy 2026 Final LIVE Score: Kishan smacks century, Kushagra 50 as East Zone in command",
     "desc": "The Duleep Trophy 2026 final sees East Zone taking on South Zone. The two sides meet each other at the MA Chidambaram Stadium in Chennai for the clash from September 6, and both sides would...",
     "img": "",
     "src": "indiatvnews.com",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/very-important-game-for-us-harmanpreet-kaur-opens-up-after-india-thrash-pakistan-in-women-s-asia-cup-2026-2026-09-06-1053452",
     "time": "2026-09-06T03:03:01.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch East Zone vs South Zone, Duleep Trophy 2026 final live on TV and stream online?",
-    "desc": "The stage is set for the summit clash of the Duleep Trophy 2026. The final pits East Zone against South Zone. The two sides will meet at the MA Chidambaram Stadium, Chepauk, Chennai, on September...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/when-and-where-to-watch-east-zone-vs-south-zone-duleep-trophy-2026-final-live-on-tv-and-stream-online-2026-09-06-1053445",
-    "time": "2026-09-06T01:43:12.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Shafali Verma becomes youngest and fastest cricketer to achieve stunning feat in clash against Pakistan",
-    "desc": "India opener Shafali Verma reached another landmark in her young international career on Saturday, becoming the fastest and youngest cricketer to score 3,000 runs in Women’s T20Is during India’s Asia Cup 2026 clash against Pakistan...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/shafali-verma-becomes-youngest-and-fastest-cricketer-to-achieve-stunning-feat-in-clash-against-pakistan-2026-09-05-1053439",
-    "time": "2026-09-05T18:11:02.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Satwik-Chirag beat Malaysia pair to move to China Masters final for third time in four years",
-    "desc": "Satwiksairaj Rankireddy and Chirag Shetty moved into the China Masters final for the third time in four editions. They defeated Malaysia’s Nur Mohd Azriyn Ayub and Tan Wee Kiong in a three-game semifinal in Shenzhen...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/satwik-chirag-beat-malaysia-pair-to-move-to-china-masters-final-for-third-time-in-four-years-2026-09-05-1053437",
-    "time": "2026-09-05T17:47:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India hammer Pakistan in Asia Cup, register seven-wicket win after bundling them for 55 runs",
-    "desc": "India decimated Pakistan in their marquee clash in the ongoing Asia Cup 2026 at the Dubai International Cricket Stadium. The Harmanpreet Kaur-led side registered a comfortable seven-wicket win in the middle and, with that, moved...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-hammer-pakistan-in-asia-cup-register-seven-wicket-win-after-bundling-them-for-55-runs-2026-09-05-1053433",
-    "time": "2026-09-05T16:58:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan register their lowest-ever T20I score as India bundle them for 55 runs in Asia Cup",
-    "desc": "Indian spinners delivered a dominant display against arch-rivals Pakistan in the ongoing Asia Cup 2026. After opting to bat first, the Fatima Sana-led side struggled for momentum and looked particularly vulnerable against India’s spin attack,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-register-their-lowest-ever-t20i-score-as-india-bundle-them-for-55-runs-in-asia-cup-2026-09-05-1053428",
-    "time": "2026-09-05T16:02:13.000Z"
   }
 ];
