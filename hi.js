@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "South Africa beat Zimbabwe by 48 runs after all-round show to win T20I tri-series",
+    "desc": "South Africa lifted the Namibia T20I tri-series trophy after defeating Zimbabwe by 48 runs in the final. It marked their third victory over the Chevrons in eight days. They had a poor start to the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-beat-zimbabwe-by-48-runs-after-all-round-show-to-win-t20i-tri-series-2026-09-06-1053506",
+    "time": "2026-09-06T16:38:25.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Maitland-Niles stuns Manchester United with 96th-minute long-range stunner, Everton pull a draw",
+    "desc": "Ainsley Maitland-Niles marked his Everton debut with a dramatic stoppage-time equaliser as Everton recovered twice from losing positions to draw 2-2 with Manchester United in the Premier League at Hill Dickinson Stadium. Notably, the former Arsenal...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/maitland-niles-stuns-manchester-united-with-96th-minute-long-range-stunner-everton-pull-a-draw-2026-09-06-1053503",
+    "time": "2026-09-06T15:58:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Nigeria secure U19 Women's World Cup place after thrilling Africa Qualifier final",
+    "desc": "Nigeria secured their place at next year’s U19 Women’s T20 World Cup after edging Zimbabwe by four runs in the final of the Africa Qualifier in Dar es Salaam. They remained unbeaten throughout the competition...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/nigeria-secure-u19-women-s-world-cup-place-after-thrilling-africa-qualifier-final-2026-09-06-1053502",
+    "time": "2026-09-06T15:28:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Yastika Bhatia, Shikha Pandey dazzle as Trinbago Knight Riders open WCPL with win",
+    "desc": "Trinbago Knight Riders began their Women’s Caribbean Premier League campaign with a 21-run victory over defending champions Barbados Tridents at Kensington Oval in Bridgetown. India internationals Shikha Pandey and Yastika Bhatia were the vital cogs...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/yastika-bhatia-shikha-pandey-dazzle-as-trinbago-knight-riders-open-wcpl-with-win-2026-09-06-1053497",
+    "time": "2026-09-06T14:07:50.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Can Ishan Kishan be back in India's Test scheme of things after century in Duleep Trophy final?",
     "desc": "East Zone captain Ishan Kishan played a commanding knock in the Duleep Trophy final against South Zone at the MA Chidambaram Stadium in Chennai. The 28-year-old arrived at the crease after Sudip Kumar Gharami fell...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/vaibhav-sooryavanshi-smashes-mohammed-siraj-for-consecutive-boundaries-in-duleep-trophy-final-watch-2026-09-06-1053469",
     "time": "2026-09-06T07:20:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer reflects on key decisions after BCCI's meeting around SENA games",
-    "desc": "The Indian team is set for a T20I series against Afghanistan. The Men in Blue are coming into the series on the back of a two-game Test series win against Sri Lanka. With the shaky...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-reflects-on-key-decisions-after-bcci-s-meeting-around-sena-games-2026-09-06-1053462",
-    "time": "2026-09-06T05:56:57.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "EZ vs SZ, Duleep Trophy 2026 Final LIVE Score: Kishan smacks century, Kushagra 50 as East Zone in command",
-    "desc": "The Duleep Trophy 2026 final sees East Zone taking on South Zone. The two sides meet each other at the MA Chidambaram Stadium in Chennai for the clash from September 6, and both sides would...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ez-vs-sz-duleep-trophy-2026-final-live-score-east-zone-aim-to-get-off-to-good-start-with-the-bat-2026-09-06-1053455",
-    "time": "2026-09-06T04:19:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Why is KL Rahul not playing against East Zone in Duleep Trophy 2026 final? Check details",
-    "desc": "The stage is set for the summit clash of the Duleep Trophy 2026; East Zone is taking on South Zone in the clash as the two sides meet at the MA Chidambaram Stadium in Chennai,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/why-is-kl-rahul-not-playing-against-east-zone-in-duleep-trophy-2026-final-check-details-2026-09-06-1053454",
-    "time": "2026-09-06T04:01:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Very important game for us': Harmanpreet Kaur opens up after India thrash Pakistan in Women's Asia Cup 2026",
-    "desc": "The Indian team put forth a brilliant performance against Pakistan in the ongoing Women’s Asia Cup. Taking on the side at the Dubai International Cricket Stadium on September 5th, the Indian team bundled out Pakistan...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/very-important-game-for-us-harmanpreet-kaur-opens-up-after-india-thrash-pakistan-in-women-s-asia-cup-2026-2026-09-06-1053452",
-    "time": "2026-09-06T03:03:01.000Z"
   }
 ];

@@ -1,21 +1,237 @@
 const newsData_en = [
   {
     "cat": "Politics",
-    "title": "1 dead in Delhi building collapse, many trapped; Singapore minister condemns anti-India racism, and more",
+    "title": "Four police officers in Kalady suspended for alleged custodial torture",
+    "desc": "The action followed a complaint by a taxi driver who alleged that the four officers brutally assaulted him after taking him into custody from his house on September 2 in connection with a case involving one of his friends.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/four-police-officers-in-kalady-suspended-for-alleged-custodial-torture/article71435929.ece",
+    "time": "2026-09-06T17:17:20.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "India, China hold first Corps Commander meeting in Arunachal",
+    "desc": "Talks take place a few days before the BRICS Summit, which Xi Jinping is expected to attend, and amid reports of tension in the Taksing area of Arunachal Pradesh; the meeting indicates an expansion of the military dialogue mechanism",
+    "img": "https://th-i.thgim.com/public/incoming/n20one/article71436269.ece/alternates/LANDSCAPE_1200/IMG_INDO-CHINA_HINDU_211_2_1_5MDGK8OF.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/india-china-hold-first-corps-commander-meeting-in-arunachal/article71435390.ece",
+    "time": "2026-09-06T17:12:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ronaldo slammed after being caught spying on rival’s tactics in season’s first defeat",
+    "desc": "Cristiano Ronaldo was caught appearing to peek at Al-Ittihad’s tactical note during Al-Nassr’s clash, only for opponents to mock him after a 2-0 defeat. Ronaldo and Danilo shared a laugh over the cheeky moment, but Al-Ittihad had the final word, posting “Cheating and still losing!” as Al-Nassr suffered their first defeat of the season.",
+    "img": "https://static.toiimg.com/photo/msid-133834758,imgsize-61734.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/cheating-and-still-losing-ronaldo-slammed-after-being-caught-spying-on-rivals-tactics-in-seasons-first-defeat/articleshow/133833442.cms",
+    "time": "2026-09-06T17:02:00.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "20-year wait ends: India qualify for AFC U20 Asian Cup",
+    "desc": "With Syria losing 0-3 to Uzbekistan, India finished second in Group B and qualified for the AFC U20 Asian Cup main tournament after 20 years as one of the seven best runners-up teams across the eight groups. India last played in the AFC U20 Asian Cup main tournament in 2006.",
+    "img": "https://static.toiimg.com/photo/msid-133845733,imgsize-59639.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/20-year-wait-ends-india-qualify-for-afc-u20-asian-cup-with-3-0-win-over-bangladesh/articleshow/133844966.cms",
+    "time": "2026-09-06T16:54:29.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Aubrey Plaza sells LA home for $4.375M after welcoming first child",
+    "desc": "Aubrey Plaza has sold her Spanish-style Los Feliz property for $4.375 million, below the $4.7 million she and late husband Jeff Baena paid in 2022. The sale comes weeks after Plaza welcomed her first child with Christopher Abbott. The 4,064-square-foot compound features four bedrooms, six bathrooms, a pool, wine cellar, steam room and screening room.",
+    "img": "https://static.toiimg.com/photo/msid-133844544,imgsize-164937.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/aubrey-plaza-sells-los-angeles-home-for-4-375m-weeks-after-welcoming-first-child-with-christopher-abbott-spanish-style-property-was-listed-for-6-5m-after-husband-jeff-baena-died-by-suicide-there/articleshow/133843991.cms",
+    "time": "2026-09-06T16:43:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kylian Mbappe rated 1/10 and branded ‘selfish’ after Betis defeat and penalty miss",
+    "desc": "Kylian Mbappe endured a difficult night as Real Madrid suffered their first defeat of the season, losing 1-0 to Real Betis. The French forward missed a late penalty and received brutal 1/10 and 2/10 ratings from Spanish and French outlets. Despite the criticism, Jose Mourinho defended Mbappe, insisting the defeat was a collective failure rather than one player's fault.",
+    "img": "https://static.toiimg.com/photo/msid-133829933,imgsize-121154.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/kylian-mbappe-rated-1/10-and-branded-selfish-after-missing-penalty-in-humiliating-1-0-betis-defeat/articleshow/133809231.cms",
+    "time": "2026-09-06T16:41:00.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "At flood-destroyed border, China teams scour ruins of once-busy port",
+    "desc": "The border crossing became a grisly emblem of the devastation that followed the collapse of a glacier on the Nepal side of the border on August 26 after videos showed a black wave of water, mud and debris sweeping over ‌it with little warning",
+    "img": "https://th-i.thgim.com/public/incoming/5pr9vj/article71436146.ece/alternates/LANDSCAPE_1200/2026-09-06T161028Z_1369532147_RC2IDNAA49OU_RTRMADP_3_NEPAL-FLOODS-CHINA-GYIRONG.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/at-flood-destroyed-border-china-teams-scour-ruins-of-once-busy-port/article71436112.ece",
+    "time": "2026-09-06T16:26:57.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Gianni Infantino to run for fourth term as FIFA president",
+    "desc": "Gianni Infantino is seeking a fourth and final term that would keep him in charge of FIFA until 2031. His decision comes despite calls from several football bodies and national associations for him to step down. FIFA said there has been no change in Infantino's plans to run for another term.",
+    "img": "https://static.toiimg.com/photo/msid-133843782,imgsize-26107.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/gianni-infantino-to-run-for-fourth-term-as-fifa-president-despite-growing-pressure-over-world-cup-plan/articleshow/133843678.cms",
+    "time": "2026-09-06T16:09:17.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hanuman Ansh producer Anupriya Nagar confirms sequel",
+    "desc": "At 21, Anupriya Nagar invested her savings into Hanuman Ansh despite no filmmaking experience, aiming to introduce Neem Karoli Baba's teachings to Gen Z. The film became a surprise hit, crossing Rs 100 crore. She has now confirmed a sequel, promising to retain the original's low-budget simplicity and rawness.",
+    "img": "https://static.toiimg.com/photo/msid-133843038,imgsize-244991.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hanuman-ansh-producer-anupriya-nagar-confirms-sequel-after-film-crosses-rs-100-crore-at-box-office-maharaj-ji-has-given-us-so-much-in-abundance-we-dont-have-a-choice/articleshow/133842999.cms",
+    "time": "2026-09-06T15:44:55.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "11 companies line up to raise Rs 7,055 crore from investors",
+    "desc": "The primary market in India is gearing up for an exciting week ahead, with eleven main-board IPOs lined up to collectively raise more than seven thousand crore rupees. These IPOs span various sectors, showcasing a vibrant market landscape. Most will launch on Tuesday and Wednesday, highlighting the robust corporate belief and strong liquidity present in the market.",
+    "img": "https://static.toiimg.com/photo/msid-133842484,imgsize-44322.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/ipo-rush-ahead-11-companies-line-up-to-raise-rs-7055-crore-from-investors/articleshow/133842397.cms",
+    "time": "2026-09-06T15:31:47.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran's response to U.S. attacks will be 'more painful', parliament speaker says",
+    "desc": "Iranian Parliament Speaker Mohammad Bagher Ghalibaf warned the U.S. that the “rules of the game” in its war with Iran had changed, saying any further attack on Iranian interests or security would draw a faster and more painful response",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-iran-war-live-updates-donald-trump-strait-of-hormuz-missiles-strikes-west-asia-conflict-september-6-2026/article71434444.ece",
+    "time": "2026-09-06T15:21:28.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Leclerc's Ferrari wrecked in brutal Monza crash, Scuderia home race turns chaotic",
+    "desc": "At Monza, Charles Leclerc experienced a severe crash that halted the race with a red flag, disrupting Ferrari's home grand prix. Fortunately, he emerged from his wrecked car unscathed. After a restart led by George Russell, Kimi Antonelli impressively raced to victory from a lower starting position, while Lewis Hamilton secured sixth place for Ferrari, rounding off their efforts in the race.",
+    "img": "https://static.toiimg.com/photo/msid-133842192,imgsize-1654399.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/racing/top-stories/watch-charles-leclercs-wrecked-in-brutal-monza-crash-ferraris-home-race-turns-chaotic/articleshow/133841889.cms",
+    "time": "2026-09-06T15:15:38.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "US inflation, crude and Middle East tensions to set the tone",
+    "desc": "This week sees potential volatility in gold and silver prices, primarily driven by upcoming US inflation figures and interest rate speculation. The influence of crude oil fluctuations and geopolitical developments in the Middle East also play a significant role. Additionally, ongoing purchases by central banks, notably in China, bolster gold values. Key economic reports from Germany, China, and the Eurozone will further guide market sentiment.",
+    "img": "https://static.toiimg.com/photo/msid-133841929,imgsize-144654.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/bullion-markets-this-week-us-inflation-crude-and-middle-east-tensions-to-set-the-tone/articleshow/133841839.cms",
+    "time": "2026-09-06T15:06:52.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Anamika alleges drunk viewers ruined Mirzapur screening",
+    "desc": "The Movie screening, alleging the crowd was drunk and unruly. She criticised the theatre staff for not resolving the issue and later decided to head home. Netizens largely supported her decision, with many pointing out similar experiences at tier-2 theatres.",
+    "img": "https://static.toiimg.com/photo/msid-133841658,imgsize-260986.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/noida-content-creator-walks-out-of-mirzapur-screening-says-people-came-drunk-slams-theatre-staff/articleshow/133841632.cms",
+    "time": "2026-09-06T14:58:45.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "As Yoga and Ayurveda become part of India’s global health diplomacy, experts press for credible standards",
+    "desc": "India has pushed for traditional medicine in its recent agreements with Oman, New Zealand and the EU. However, experts say AYUSH needs credible standards, evidence, regulation, practitioner quality and patient safety to establish itself in increasingly regulated global markets",
+    "img": "https://th-i.thgim.com/public/incoming/41kzfy/article71435775.ece/alternates/LANDSCAPE_1200/2026-08-24T091224Z_1640193633_RC2S4NA413R1_RTRMADP_3_GREECE-DAILYLIFE.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/health/as-yoga-and-ayurveda-become-part-of-indias-global-health-diplomacy-experts-press-for-credible-standards/article71435470.ece",
+    "time": "2026-09-06T14:49:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Distressing': PM Modi expresses grief over Delhi PG collapse, assures support for affected",
+    "desc": "\"The collapse of a building at Satya Niketan, Delhi is distressing. Condolences to those who lost their loved ones. Praying for the speedy recovery of the injured. Authorities are working at the site and assisting those affected in the mishap,\" PM Modi said. Delhi chief minister Rekha Gupta said those responsible for the \"unfortunate\" collapse would not be spared.",
+    "img": "https://static.toiimg.com/photo/msid-133841055,imgsize-179355.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/distressing-pm-modi-expresses-grief-over-delhi-pg-collapse-assures-support-for-affected/articleshow/133840584.cms",
+    "time": "2026-09-06T14:38:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Satwik-Chirag clinch China Masters title",
+    "desc": "Satwik and Chirag, who finished runners-up in the 2023 and 2025 editions, fought their way to an 11-21, 21-13, 21-17 victory over former world No. 4. He and Ren in a one-hour and 10-minute battle",
+    "img": "https://th-i.thgim.com/public/incoming/snoaoe/article71435613.ece/alternates/LANDSCAPE_1200/HRh-PlFbIAEW3Tp.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/satwik-chirag-clinch-china-masters-title/article71435545.ece",
+    "time": "2026-09-06T14:09:01.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Actor shuts down Hardik link-up talk",
+    "desc": "A video of Ameesha Patel and Hardik Pandya at Mumbai's Taj Hotel went viral, sparking dating rumours after an X user pointed to her hand on his shoulder. Ameesha sarcastically clapped back, mocking the assumption. Pandya is currently dating Mahieka Sharma, while Ameesha is set to return for Gadar 3.",
+    "img": "https://static.toiimg.com/photo/msid-133839744,imgsize-229751.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/truly-romantic-way-ameesha-patels-sarcastic-response-to-hardik-pandya-dating-rumours/articleshow/133839715.cms",
+    "time": "2026-09-06T13:57:21.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Quote Of the day by Hannah Waddingham",
+    "desc": "In 'Ted Lasso', Hannah Waddingham's character Rebecca Welton engages in a unique ritual to boost her confidence. By standing on tiptoes and raising her arms, she taps into her inner strength, preparing herself for challenging moments. Waddingham's own experiences emphasize the significance of self-assurance, illustrating that the journey to self-discovery is as vital as the destination itself.",
+    "img": "https://static.toiimg.com/photo/msid-133832636,imgsize-1118210.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-ted-lasso-star-hannah-waddingham-before-i-go-into-the-room-i-find-somewhere-private-i-stand-up-on-my-tiptoes-to-feel-my-own-power-a-powerful-life-lesson-that-highlights-the-worth-of-confidence-and-self-belief/articleshow/133832358.cms",
+    "time": "2026-09-06T13:30:00.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "How government &amp; RBI worked to shield economy from US-Iran war",
+    "desc": "The economy has shown resilience in the face of multiple crises. GDP growth is just one aspect of the story. Foreign exchange reserves have recently hit an all-time high. GST collections - an important high frequency indicator - are robust. India’s exports have successfully diversified into new markets even as Free Trade Agreements load in the background to provide a supportive effect.",
+    "img": "https://static.toiimg.com/photo/msid-133838541,imgsize-739953.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-holds-strong-how-government-rbi-worked-to-shield-economy-from-us-iran-war/articleshow/133838157.cms",
+    "time": "2026-09-06T13:10:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Win against India damaged us a lot': Yousuf explains Pakistan cricket's decline",
+    "desc": "Pakistan had never beaten India in a World Cup before that match in 2021. Babar Azam scored an unbeaten 68, while Mohammad Rizwan made 79 not out as Pakistan chased down 152 without losing a wicket. The win was celebrated as a historic moment for Pakistan cricket. However, Yousuf believes the victory also changed the mindset of the players and played a role in the team's decline in the years that followed.",
+    "img": "https://static.toiimg.com/photo/msid-133838504,imgsize-52456.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/win-against-india-damaged-us-a-lot-mohammad-yousuf-explains-pakistans-cricket-decline/articleshow/133838396.cms",
+    "time": "2026-09-06T13:09:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Khedan Wattan Punjab Diyan' begins from Bathinda",
+    "desc": "Khedan Wattan Punjab Diyan-2026 has officially kicked off in Punjab, with a vision to showcase the state's talent on a global scale. Almost one million participants, ranging from ages fourteen to seventy plus, are set to compete in thirty-nine different sports. Concluding on November twenty-ninth, the event boasts a prize pool of Rs 12.",
+    "img": "https://static.toiimg.com/photo/msid-133838469,imgsize-62024.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/punjab-khedan-wattan-punjab-diyan-begins-from-bathinda/articleshow/133838316.cms",
+    "time": "2026-09-06T13:07:16.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The annual Delhi Yamuna flood threat- why September matters?",
+    "desc": "Delhi is under the shadow of recurrent flooding threats as the Yamuna River inches closer to its danger threshold. The catastrophic floods from the previous year resulted in the displacement of thousands and interrupted vital public services. Fortunately, this year has seen reduced upstream water releases, offering a brief respite; however, the risk of heavy rainfall above could still ignite a serious crisis.",
+    "img": "https://static.toiimg.com/photo/msid-133839502,imgsize-19485946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/the-annual-delhi-yamuna-flood-threat-why-september-matters/articleshow/133837193.cms",
+    "time": "2026-09-06T13:06:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Rajasthani artist slams Mirzapur makers over Shoorveer song",
+    "desc": "The Movie makers of using his song, dedicated to Maharana Pratap, in a gangster scene without permission or credit. He called it an insult to Rajasthan's history. Social media users backed him, demanding accountability and urging him to file a copyright claim.",
+    "img": "https://static.toiimg.com/photo/msid-133838403,imgsize-311825.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/meant-for-maharana-pratap-used-for-villains-rajasthani-artist-rapperiya-baalam-slams-mirzapur-makers-over-shoorveer-song/articleshow/133838378.cms",
+    "time": "2026-09-06T13:04:45.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "In 2004, Johnny Depp bought a private island in the Bahamas; named beaches after people close to him",
+    "desc": "In a whimsical move, Johnny Depp acquired his own private island in the Bahamas for a cool USD 3.6 million, reflecting his affection for friends and family by naming its beaches after them. To complement his island lifestyle, he also owns an extravagant steam-powered yacht named Vajoliroja, which set him back an impressive USD 8 million. The actor relishes his time on the island, exploring various passions and hobbies.",
+    "img": "https://static.toiimg.com/photo/msid-133829705,imgsize-19882.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2004-johnny-depp-bought-the-bahamian-islands-while-filming-pirates-of-the-caribbean-for-usd-3-6-million-and-named-the-private-beaches-after-his-loved-ones/articleshow/133829639.cms",
+    "time": "2026-09-06T12:30:00.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "2 dead in Delhi building collapse, many trapped; Singapore minister condemns anti-India racism, and more",
     "desc": "A tragic building collapse in Delhi has claimed one life and left three others injured, with fears that students may be trapped under the rubble. Meanwhile, Singapore's minister has expressed condemnation over racist remarks aimed at Indians during discussions about the recent disaster in Nepal. Despite sanctions, billions in Iranian funds continue to flow through U.S. banks.",
     "img": "https://static.toiimg.com/photo/msid-133837341,imgsize-139907.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/india/evening-newswrap-1-dead-in-delhi-building-collapse-many-trapped-singapore-minister-condemns-anti-india-racism-and-more/articleshow/133837004.cms",
     "time": "2026-09-06T12:29:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "At least six, including four family members, killed in house-collapse incidents in U.P.",
-    "desc": "Victim’s cousin alleged police negligence, saying that the family repeatedly called the Saadh police station after the collapse, but the calls were initially unanswered, so villagers had to launch a rescue operation themselves and worked for nearly two hours to pull the trapped family members out",
-    "img": "https://th-i.thgim.com/public/incoming/lyf53i/article71435181.ece/alternates/LANDSCAPE_1200/PTI09_06_2026_000133B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttar-pradesh/six-including-four-family-members-killed-in-house-collapse-incidents-in-up/article71435111.ece",
-    "time": "2026-09-06T12:22:28.000Z"
   },
   {
     "cat": "Politics",
@@ -45,24 +261,6 @@ const newsData_en = [
     "time": "2026-09-06T12:01:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "T.N. Minister visits Kaipamangalam crash site, promises support for victims’ families",
-    "desc": "Eight students from Dindigul had lost their lives in a crash on NH 66 at Kaipamangalam in Keralam’s Thissur. Minister S. Rajesh Kumar calls for urgent completion of NH 66 works and stronger safety measures",
-    "img": "https://th-i.thgim.com/public/incoming/p8qop5/article71435133.ece/alternates/LANDSCAPE_1200/IMG_80688_5_9_2026_19_11_1_1_G1GGA6GG.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/thrissur-road-accident-tn-minister-visits-kaipamangalam-crash-site-promises-support-for-victims-families/article71435083.ece",
-    "time": "2026-09-06T11:57:51.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tamil Nadu failing at animal birth control programme",
-    "desc": "The abject failure of the Animal Birth Control programme in the State is apparent on the streets. This report reveals that the ABC programme, besides being in a shambles, is inhumane, corrupt, and cruel, in many cases",
-    "img": "https://th-i.thgim.com/public/incoming/mdh2ub/article71431928.ece/alternates/LANDSCAPE_1200/_DSC9822.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-animal-birth-control-centres-in-shambles/article71431541.ece",
-    "time": "2026-09-06T11:42:37.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Poonam Pandey slams Swara Bhasker’s ‘Padmaavat’ jauhar criticism",
     "desc": "Poonam Pandey voiced her strong dissent regarding Swara Bhasker's recent remarks on 'Padmaavat.' She argued that the film illustrates real historical events rather than fictional narratives. Pandey was taken aback by Bhasker's comments, labeling them as nonsensical. Bhasker's concerns revolved around the film's depiction of jauhar and its implications for survivors. This exchange underscores the varied interpretations of this contentious historical portrayal.",
@@ -70,15 +268,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/poonam-pandey-slams-swara-bhaskers-padmaavat-jauhar-criticism-as-a-very-stupid-thing-to-say-sanjay-leela-bhansali-showed-a-film-based-on-history/articleshow/133835910.cms",
     "time": "2026-09-06T11:40:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "The man behind Maharashtra’s FDA crackdown: Tukaram Mundhe",
-    "desc": "Tukaram Mundhe, Maharashtra’s Food and Drug Administration Commissioner, is leading an aggressive crackdown on food safety violations across the state. From raids on restaurants and food outlets to action against adulteration and unsafe practices, Mundhe’s enforcement drive has drawn widespread attention.",
-    "img": "https://th-i.thgim.com/public/news/national/qsbti6/article71385875.ece/alternates/LANDSCAPE_1200/For%20pressmeet%20%20Speeches%201.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/watch-the-man-behind-maharashtras-fda-crackdown-tukaram-mundhe/article71385878.ece",
-    "time": "2026-09-06T11:37:02.000Z"
   },
   {
     "cat": "Entertainment",
@@ -97,15 +286,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/crude-prices-fed-bets-and-more-whats-in-store-for-markets-this-week/articleshow/133833323.cms",
     "time": "2026-09-06T10:47:52.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "DNA testing offers last hope to families searching for missing loved ones",
-    "desc": "The case reflects a much larger challenge facing Nepal, where authorities are relying on DNA testing to identify hundreds of bodies recovered after the August 26 floods and help families find relatives who remain missing",
-    "img": "https://th-i.thgim.com/public/incoming/g8ae2t/article71434713.ece/alternates/LANDSCAPE_1200/APTOPIX_Nepal_Flash_Floods_22765.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/nepal-floods-dna-testing-offers-last-hope-to-families-searching-for-missing-loved-ones/article71434667.ece",
-    "time": "2026-09-06T10:47:20.000Z"
   },
   {
     "cat": "Sports",
@@ -178,24 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/handshake-goes-wrong-twice-magnus-carlsen-and-maxime-vachier-lagrave-share-hilarious-moment-on-gcl-opening-day/articleshow/133832346.cms",
     "time": "2026-09-06T09:49:11.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran's response to U.S. attacks will be 'more painful', parliament speaker says",
-    "desc": "Iranian Parliament Speaker Mohammad Bagher Ghalibaf warned the U.S. that the “rules of the game” in its war with Iran had changed, saying any further attack on Iranian interests or security would draw a faster and more painful response",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-iran-war-live-updates-donald-trump-strait-of-hormuz-missiles-strikes-west-asia-conflict-september-6-2026/article71434444.ece",
-    "time": "2026-09-06T09:45:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "KPCC poised to take tough line on discipline, without closing door on reconciliation between opposing parties, in fracas involving MLA Haridas",
-    "desc": "KPCC enquiry commission head M M Hassan promises full representation for the conflicting party workers as the hearing begins at the KPCC office. The episode had also brought to the fore larger questions regarding the conduct and responsibilities of MLAs that come with parliamentary privilege.",
-    "img": "https://th-i.thgim.com/public/incoming/fk5qr4/article71431171.ece/alternates/LANDSCAPE_1200/80688_23_10_2024_19_57_44_3_24TVTRRAMYAHARIDAS_KKN.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kpcc-poised-to-take-tough-line-on-discipline-without-closing-door-on-reconciliation-between-opposing-parties-in-fracas-involving-mla-haridas/article71434631.ece",
-    "time": "2026-09-06T09:39:38.000Z"
   },
   {
     "cat": "Entertainment",
@@ -315,60 +477,6 @@ const newsData_en = [
     "time": "2026-09-06T07:48:01.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Landslide hits Sikkim’s Mangan, partially blocks Teesta River flow",
-    "desc": "A landslide has impacted the Chyakoong River in Mangan district, Sikkim, resulting in a partial obstruction of the Teesta and Chyakoong rivers. Local authorities are actively assessing the situation. While the water levels are stable, the river's water has become muddied. Precautionary alerts have been issued to residents in vulnerable lower regions.",
-    "img": "https://static.toiimg.com/photo/msid-133827924,imgsize-174901.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/landslide-hits-sikkims-mangan-partially-blocks-teesta-river-flow/articleshow/133827912.cms",
-    "time": "2026-09-06T07:38:45.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "₹68,000 found by the roadside, ₹1.70 lakh in a car boot",
-    "desc": "Officers find ₹68,000 lying by the road and ₹1.70 lakh in the boot of a motor vehicle inspector’s car; the ACB says he was collecting money from drivers with the help of two home guards and a private driver",
-    "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/5vc0aq/article71434808.ece/alternates/LANDSCAPE_1200/ACB.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/cities/Vijayawada/acb-raids-nellore-toll-plaza-68000-found-by-the-roadside-170-lakh-in-a-car-boot/article71434776.ece",
-    "time": "2026-09-06T07:38:33.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Mirzapur The Movie' BO Day 3 [LIVE]: Pankaj Tripathi film crosses Rs 73 crore India net",
-    "desc": "The Movie' has hit the ground running at the box office, delivering exactly the kind of theatrical response its makers were hoping for as the popular streaming franchise makes its long-awaited leap to the big screen. With a strong opening weekend already behind it, the film is now heading into its first weekday with solid numbers to build on.",
-    "img": "https://static.toiimg.com/photo/msid-133829842,imgsize-117973.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mirzapur-the-movie-box-office-collection-day-3-live-pankaj-tripathi-ali-fazal-ravi-kishan-film-races-towards-rs-75-crore-india-net-milestone-even-as-worldwide-gross-nears-rs-80-crore-in-just-two-days/articleshow/133829742.cms",
-    "time": "2026-09-06T07:38:23.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Quote of the day by Bob Marley",
-    "desc": "Bob Marley's timeless wisdom reminds us of the importance of inner freedom, advocating for a life unburdened by fear and self-doubt. He emphasized that our personal responsibility in shaping our thoughts and decisions is vital, especially in a world where social media fosters constant comparison. His message urges us to face our fears, suggesting that true liberation lies in the simple yet brave acts of believing in ourselves.",
-    "img": "https://static.toiimg.com/photo/msid-133829359,imgsize-136981.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-bob-marley-none-but-ourselves-can-free-our-minds-powerful-life-lesson-explaining-that-the-biggest-battle-can-be-within-from-redemption-song-artist/articleshow/133829171.cms",
-    "time": "2026-09-06T07:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Jagadish, Mukesh, Siddique and Ashokan reunite",
-    "desc": "In an exciting reunion, four iconic Malayalam comedy stars are collaborating on the upcoming film 'Paathiraakkurukkan'. Marking their first-ever combined musical performance, this comedy thriller is designed to entertain families with its enchanting tunes. It's anticipated to hit theaters in October, promising laughter and musical joy for audiences of all ages.",
-    "img": "https://static.toiimg.com/photo/msid-133829413,imgsize-511713.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/paathiraakkurukkan-jagadish-mukesh-siddique-and-ashokan-reunite-after-16-years-actors-to-sing-together-for-the-first-time/articleshow/133829413.cms",
-    "time": "2026-09-06T07:23:53.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Toxic' BO Day 10 [LIVE]: Yash and Kiara Advani film crosses Rs 244 crore",
-    "desc": "A Fairytale For Grown-Ups' has reached Rs. 243.59 crore in India net and Rs. 334.50 crore worldwide by Day 12, according to the latest tracking figures. Yash's gangster drama now needs around Rs. 6.41 crore to touch the Rs. 250 crore domestic milestone, while its next global target is Rs. 350 crore. As competition intensifies, here is the film's day-wise collection, overseas performance, milestones and latest updates.",
-    "img": "https://static.toiimg.com/photo/msid-133829280,imgsize-131220.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/toxic-box-office-collection-day-10-live-yash-nayanthara-kiara-advani-film-inches-closer-to-rs-250-crore-india-net-as-worldwide-gross-nears-rs-335-crore-amid-massive-slowdown-and-stiff-competition-from-mirzapur-and-hanuman-ansh/articleshow/133829190.cms",
-    "time": "2026-09-06T07:12:39.000Z"
-  },
-  {
     "cat": "World",
     "title": "Why is BRICS exploring cross-border payments? |Explained",
     "desc": "How do cross-border payments work? What are the instructions between banks and costs involved in each step? How have transaction times reduced? Why does BRICS want to change the system? What alternatives are being explored? What does India propose?",
@@ -385,51 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/fatima-sanas-fiery-shafali-verma-send-off-draws-savage-response-your-entire-team-just-scored-55/articleshow/133829162.cms",
     "time": "2026-09-06T07:10:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Congress stands with ‘all daughters’ seeking justice, says Alka Lamba",
-    "desc": "Alka Lamba said the party and Leader of the Opposition in the Lok Sabha Rahul Gandhi stood with the student activist, journalists Shaheen Khan and Nafisa Khan, and student activist Akriti Chaudhary, who participated in a protest at Jantar Mantar",
-    "img": "https://th-i.thgim.com/public/incoming/an097f/article71428634.ece/alternates/LANDSCAPE_1200/CONGRESS%20ALKA%20LAMBA%20PC%20%20DELHI%202026_04_09_15.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/congress-stands-with-all-daughters-seeking-justice-says-alka-lamba/article71428240.ece",
-    "time": "2026-09-06T06:52:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Priyanka Mohan finally confirms her role in Silambarasan's ‘Arasan’",
-    "desc": "Priyanka Mohan has officially joined the cast of Vetri Maaran's highly anticipated film Arasan. She voiced her enthusiasm about collaborating with the acclaimed director and Silambarasan TR, marking their first project together. To prepare for her distinct character, she has even mastered the North Chennai dialect. This partnership promises to elevate Arasan into a significant cinematic event for all involved.",
-    "img": "https://static.toiimg.com/photo/msid-133828411,imgsize-155820.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/priyanka-mohan-finally-confirms-arasan-role-youll-see-a-completely-different-silambarasan-tr-promises-fans/articleshow/133828394.cms",
-    "time": "2026-09-06T06:49:43.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Welcome 3' production house leases Andheri offices for Rs 2.46 cr",
-    "desc": "Nadiadwala Grandson Entertainment is making waves in Mumbai's real estate scene by leasing two office spaces in Andheri West under a twenty-eight-month agreement. The total rent for this arrangement is approximately Rs 2.46 crore. This decision aligns with the company’s history of acquiring apartments and leasing properties, illustrating its active involvement in the real estate market.",
-    "img": "https://static.toiimg.com/photo/msid-133828522,imgsize-1054472.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/welcome-to-the-jungle-production-house-leases-andheri-west-offices-for-rs-2-46-crore-report/articleshow/133828500.cms",
-    "time": "2026-09-06T06:38:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Twin hooch tragedies in Tamil Nadu",
-    "desc": "Twin hooch tragedies in Tamil Nadu claimed 22 lives and left 45 others hospitalised, a month after the government claimed that illicit brewing was a thing of past. The incidents exposed the illegal network of bootleggers, arrack suppliers, sub-agents, and policemen. The police have arrested 17 persons and booked them on murder charge.",
-    "img": "https://th-i.thgim.com/public/incoming/4od3zq/article66874651.ece/alternates/LANDSCAPE_1200/VILLAGERS%20IRULAR%20LOST%20LIVES%20ALCOHAL%20SPURIOUS%20LIQUOR%20CONSUMPTION%20_03.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/twin-hooch-tragedies-in-tamil-nadu-horrific-tales-of-a-deadly-brew/article66874380.ece",
-    "time": "2026-09-06T06:31:42.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Karathey Babu’ actor Ravi Mohan’s cryptic take on political entry",
-    "desc": "Ravi Mohan engaged with his fans in an interactive session, pondering the possibility of a political career. He emphasized that pursuing politics would be a deeply personal choice. Marking his 46th birthday, he cherished his commitment to his fan welfare movement while managing multiple film projects, with an exciting slate of diverse releases ahead.",
-    "img": "https://static.toiimg.com/photo/msid-133828050,imgsize-115995.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/right-now-im-in-cinema-karathey-babu-actor-ravi-mohans-cryptic-take-on-political-entry/articleshow/133828046.cms",
-    "time": "2026-09-06T06:29:01.000Z"
   },
   {
     "cat": "Sports",
@@ -460,33 +523,6 @@ const newsData_en = [
   },
   {
     "cat": "Sports",
-    "title": "‘Shouldn’t have closed door on Shami’: Ex-India coach questions Agarkar-led selectors",
-    "desc": "Former India bowling coach Bharat Arun questions Mohammed Shami's current exclusion from the national team. He believes the veteran pacer still possesses significant talent and durability for cricket. Shami has not played for India since the March 2025 Champions Trophy tournament. East Zone captain Ishan Kishan also notes Shami's strong motivation for a comeback. The pacer recently played his 100th first-class match in the Duleep Trophy final.",
-    "img": "https://static.toiimg.com/photo/msid-133827708,imgsize-66188.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shouldnt-have-closed-door-on-mohammed-shami-ex-india-coach-questions-ajit-agarkar-led-selectors/articleshow/133827609.cms",
-    "time": "2026-09-06T06:01:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "In Congress organisational reshuffle, Sachin Pilot gets poll-bound Punjab, Surjewala for Gujarat, Baghel moved to Assam",
-    "desc": "Ahead of crucial Assembly elections, the change in Punjab is most significant as it comes amid intense factionalism between the camps of former CM Charanjit Singh Channi and PC chief Amrinder Singh Raja Warring; Sukhdeo Bhagat made AICC in-charge of Chhattisgarh, Sirivella Prasad of Maharashtra, P.V. Mohan in-charge of Andhra Pradesh",
-    "img": "https://th-i.thgim.com/public/incoming/14x02b/article71432928.ece/alternates/LANDSCAPE_1200/20260902412L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/congress-replaces-bhupesh-baghel-with-sachin-pilot-as-punjab-general-secretary/article71432855.ece",
-    "time": "2026-09-06T05:55:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "How three Keralam nuns stitched together clothing venture ‘Stand By Me’ in a struggle for survival after standing up against the Church",
-    "desc": "The three nuns at St. Francis Mission Home at Kuravilangad in Kottayam seek to carve out a life of their own after years of isolation and hardship following their stand in the Bishop Franco Mulakkal case",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/x363z5/article71431425.ece/alternates/LANDSCAPE_1200/sbm.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/how-three-keralam-nuns-have-launched-clothing-venture-stand-by-me-in-a-struggle-for-survival/article71431372.ece",
-    "time": "2026-09-06T05:08:33.000Z"
-  },
-  {
-    "cat": "Sports",
     "title": "India thrash Pakistan for 55, Wahab Riaz still calls them ‘best side’ in Asia Cup",
     "desc": "In a crushing defeat, Pakistan's women faced a historic batting collapse against India in the Women's Asia Cup, recording their lowest T20I score. Despite this setback, mentor Wahab Riaz remains optimistic about the squad's future potential, citing necessary changes for upcoming tournaments. To move forward in the competition, Pakistan must secure a victory against Hong Kong.",
     "img": "https://static.toiimg.com/photo/msid-133826375,imgsize-152394.cms",
@@ -511,15 +547,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/europe-is-moving-its-gold-out-of-america-where-is-it-headed/articleshow/133824849.cms",
     "time": "2026-09-06T04:02:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘200, 300 mar de’: Coach's demand from Vaibhav Sooryavanshi ahead of DT final",
-    "desc": "This Sunday, the Duleep Trophy final unfolds with East Zone taking on South Zone. Promising young talent Vaibhav Sooryavanshi stands out as a pivotal player for East Zone. His coach is optimistic about a noteworthy performance that could elevate his profile. Selectors are closely watching players from Bihar and Jharkhand, making this final a crucial opportunity for many to catch the attention of the national selectors.",
-    "img": "https://static.toiimg.com/photo/msid-133824522,imgsize-158692.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/200-300-mar-de-vaibhav-sooryavanshis-coach-makes-huge-demand-ahead-of-duleep-trophy-final/articleshow/133824441.cms",
-    "time": "2026-09-06T03:34:52.000Z"
   },
   {
     "cat": "Sports",
@@ -565,15 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/8-months-moscow-to-munich-flights-but-now-he-is-fed-up-behind-russia-no-1-ian-nepomniachtchis-tattoos/articleshow/133821671.cms",
     "time": "2026-09-06T01:21:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "‘Aaj Sunday hai kya?’: Irfan Pathan trolls Pakistan after India’s crushing win",
-    "desc": "In a dominating performance, India triumphed over Pakistan by seven wickets in the Women's Asia Cup 2026. The young spinners Shree Charani and Prema Rawat played pivotal roles in dismantling the Pakistan batting lineup, which mustered a mere 55 runs, their lowest in T20 history. Captain Harmanpreet Kaur celebrated a significant personal achievement, while Irfan Pathan humorously recalled his previous jibes after such a resounding victory.",
-    "img": "https://static.toiimg.com/photo/msid-133821550,imgsize-1311487.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/aaj-sunday-hai-kya-irfan-pathan-trolls-pakistan-after-indias-crushing-asia-cup-win/articleshow/133821467.cms",
-    "time": "2026-09-06T01:11:36.000Z"
   },
   {
     "cat": "World",
@@ -829,15 +847,6 @@ const newsData_en = [
   },
   {
     "cat": "Business",
-    "title": "Breather for India? Trump’s Russia sanctions bill may be stalled for now; could have led to 100% tariffs",
-    "desc": "Lawmakers are concerned that the legislation could give President Donald Trump broader authority to impose tariffs and potentially push oil prices higher. Meanwhile, India’s reliance on Russian crude has increased sharply and is at record levels.",
-    "img": "https://static.toiimg.com/photo/msid-133768944,imgsize-676887.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/breather-for-india-trumps-russia-sanctions-bill-may-be-stalled-for-now-could-have-led-to-100-tariffs/articleshow/133768779.cms",
-    "time": "2026-09-04T15:36:53.000Z"
-  },
-  {
-    "cat": "Business",
     "title": "Chennai emerges as key development hub for Zoom’s Global Contact Center",
     "desc": "Zoom President of Product and Engineering Velchamy Sankarlingam says Chennai has a key role in developing the company’s Contact Center, while AI is reshaping the skills it needs to hire and the way its support workforce operates",
     "img": "https://th-i.thgim.com/public/business/h71ju8/article71429164.ece/alternates/LANDSCAPE_1200/Velchamys%20photo.jpg.jpeg",
@@ -873,15 +882,6 @@ const newsData_en = [
     "time": "2026-09-04T13:05:44.000Z"
   },
   {
-    "cat": "World",
-    "title": "U.S. military turns off ad trackers on devices amid West Asia targeting reports",
-    "desc": "that location ⁠data collected by the advertising industry and sold by data brokers — companies that collate and resell personal data — can be used to track and target military personnel deployed to war zones",
-    "img": "https://th-i.thgim.com/public/incoming/7vf6y/article71428016.ece/alternates/LANDSCAPE_1200/2026-08-26T194400Z_944463701_RC22JMA5JPWJ_RTRMADP_3_USA-AIRLINES-PRIVACY.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-military-turns-off-ad-trackers-on-devices-amid-west-asia-targeting-reports/article71427950.ece",
-    "time": "2026-09-04T12:05:27.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Sensex rebounds 362 points, snaps 4-day losses on strong rally in metal, oil shares",
     "desc": "The 30-share BSE Sensex climbed 362.57 points, or 0.48%, to settle at 76,515.43, with 20 of its constituents ending higher and 10 with losses. The barometer surged as much as 730.28 points, or 0.95%, during the day to hit an intraday high of 76,883.14",
@@ -891,12 +891,12 @@ const newsData_en = [
     "time": "2026-09-04T11:53:01.000Z"
   },
   {
-    "cat": "World",
-    "title": "Man searches for his missing brother after Nepal flash floods",
-    "desc": "Rishi travelled from Nepal’s Kavre district to Rasuwa in search of his brother, Ang Thung Tamang, a truck driver who went missing after the flash flood on August 26. With no answers, Rishi began searching for his brother himself, eventually reaching Syaphru in Rasuwa. This is the story of a family caught between hope, uncertainty and the search for answers.",
-    "img": "https://th-i.thgim.com/public/incoming/l43o6q/article71428044.ece/alternates/LANDSCAPE_1200/mamata%203.png",
+    "cat": "Entertainment",
+    "title": "‘Mayday’ interview: Directors John Francis Daley and Jonathan Goldstein on ‘Top Gun’ nostalgia and working with an ICBM",
+    "desc": "Ahead of their latest Apple TV Cold War thriller ‘Mayday’, filmmaking duo John Francis Daley and Jonathan Goldstein talk about why the ’80s still have a grip on them and the logistics of wrangling a nuclear missile",
+    "img": "https://th-i.thgim.com/public/entertainment/movies/tow3xa/article71418509.ece/alternates/LANDSCAPE_1200/Screenshot%202026-09-02%20122214.png",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/8-days-after-nepal-floods-a-brothers-search-for-his-missing-brother/article71428066.ece",
-    "time": "2026-09-04T11:38:25.000Z"
+    "url": "https://www.thehindu.com/entertainment/movies/mayday-apple-tv-interview-directors-john-francis-daley-jonathan-goldstein-top-gun-cold-war/article71414471.ece",
+    "time": "2026-09-04T09:20:25.000Z"
   }
 ];
