@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "When and where to watch East Zone vs South Zone, Duleep Trophy 2026 final live on TV and stream online?",
+    "desc": "The stage is set for the summit clash of the Duleep Trophy 2026. The final pits East Zone against South Zone. The two sides will meet at the MA Chidambaram Stadium, Chepauk, Chennai, on September...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/when-and-where-to-watch-east-zone-vs-south-zone-duleep-trophy-2026-final-live-on-tv-and-stream-online-2026-09-06-1053445",
+    "time": "2026-09-06T01:43:12.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Shafali Verma becomes youngest and fastest cricketer to achieve stunning feat in clash against Pakistan",
     "desc": "India opener Shafali Verma reached another landmark in her young international career on Saturday, becoming the fastest and youngest cricketer to score 3,000 runs in Women’s T20Is during India’s Asia Cup 2026 clash against Pakistan...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/kl-rahul-named-in-south-zone-squad-for-duleep-trophy-final-will-vaibhav-sooryavanshi-play-2026-09-05-1053398",
     "time": "2026-09-05T10:16:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Former India cricketer opens up on Rohit Sharma's chances ahead of ODI World Cup 2027",
-    "desc": "The Indian team is gearing up for the upcoming ODI World Cup 2027. The marquee tournament is all set to be held in South Africa, and there is no doubt that the Indian team is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/former-india-cricketer-opens-up-on-rohit-sharma-s-chances-ahead-of-odi-world-cup-2027-2026-09-05-1053395",
-    "time": "2026-09-05T09:33:42.000Z"
   }
 ];
