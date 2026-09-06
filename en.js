@@ -1,6 +1,51 @@
 const newsData_en = [
   {
     "cat": "Politics",
+    "title": "Maharashtra Ministers call for DJ-free festivals citing health hazards",
+    "desc": "The demand for a festival free of DJs and high-powered loudspeakers has been gaining momentum in the State, with Pune-based activist Vidyanad Bapat emerging as one of the prominent voices opposing the use of high-decibel sound systems that cause noise pollution during festivities.",
+    "img": "https://th-i.thgim.com/public/incoming/pairh3/article71436638.ece/alternates/LANDSCAPE_1200/idols_krd.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-ministers-call-for-dj-free-festivals-citing-health-hazards/article71435983.ece",
+    "time": "2026-09-06T22:22:51.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "At least five dead after Amazon cargo plane barreled off runway at Miami airport",
+    "desc": "The aircraft overran the runway around 2 p.m. after arriving from San Juan, Puerto Rico. Five people were killed, three critically injured and two others hospitalised with less severe injuries, Miami-Dade County officials told a news conference.",
+    "img": "https://th-i.thgim.com/public/incoming/5hajua/article71436634.ece/alternates/LANDSCAPE_1200/Amazon_Plane_Overruns_Runway_47276.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/many-dead-after-amazon-cargo-plane-barreled-off-runway-at-miami-airport/article71436633.ece",
+    "time": "2026-09-06T21:59:02.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Explosion of fireworks in central Mexico kills at least 10, injures 64 people",
+    "desc": "The explosion occurred on Saturday (September 6, 2026) night next to the Nuestra Senora de la Luz church in Temascalcingo, a municipality in central Mexico with 66,000 residents. Hundreds of them were preparing to watch a fireworks display that is part of a religious festival when the blast occurred.",
+    "img": "https://th-i.thgim.com/public/incoming/cvwxts/article71436631.ece/alternates/LANDSCAPE_1200/2026-09-06T201259Z_269742048_RC2KDNA780YP_RTRMADP_3_MEXICO-ACCIDENT.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/explosion-of-fireworks-in-central-mexico-kills-many/article71436576.ece",
+    "time": "2026-09-06T21:48:15.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Spider-Man' helps Hollywood wrap BEST post-pandemic summer",
+    "desc": "Brand New Day continues its box office reign for six weeks. The film has achieved a worldwide gross of $2.4 billion. \"The Odyssey\" secured second place, contributing to Hollywood's strong summer performance. This summer season marks the best box office since before the pandemic began. Several new releases failed to make a significant impact on the charts.",
+    "img": "https://static.toiimg.com/photo/msid-133852909,imgsize-307592.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/spider-man-brand-new-day-hits-usd-2-4-billion-worldwide-the-odyssey-crosses-usd-1-6-billion-as-hollywood-wraps-best-post-pandemic-summer/articleshow/133851842.cms",
+    "time": "2026-09-06T21:43:07.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran's response to U.S. attacks will be 'more painful', parliament speaker says",
+    "desc": "Iranian Parliament Speaker Mohammad Bagher Ghalibaf warned the U.S. that the “rules of the game” in its war with Iran had changed, saying any further attack on Iranian interests or security would draw a faster and more painful response",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-iran-war-live-updates-donald-trump-strait-of-hormuz-missiles-strikes-west-asia-conflict-september-6-2026/article71434444.ece",
+    "time": "2026-09-06T20:18:10.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "Four police officers suspended over custodial torture complaint",
     "desc": "The action followed a complaint by a taxi driver who alleged that the four officers brutally assaulted him after taking him into custody from his house on September 2 in connection with a case involving one of his friends.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -10,21 +55,21 @@ const newsData_en = [
   },
   {
     "cat": "Politics",
+    "title": "At least five dead as PG accommodation building collapses in Delhi",
+    "desc": "Police file FIR against alleged owner Hariram Bansal, who runs Hostel Daze in the five storey building; repair work was ongoing in basement, police say; locals say building had weak foundation with water entering the basement",
+    "img": "https://th-i.thgim.com/public/incoming/yntr1w/article71434944.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-06%20at%2015.23.39.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/delhi-satya-niketan-building-collapse-september-6-2026-several-trapped-injured/article71434876.ece",
+    "time": "2026-09-06T18:16:16.000Z"
+  },
+  {
+    "cat": "Politics",
     "title": "No provision in Forest Rights Act to obtain gram sabha consent for projects, Tribal Affairs Ministry says",
     "desc": "In a discussion with the Union Ministry of Power, the Ministry of Tribal Affairs also says ‘such matters’ related to the requirement of ‘100% gram sabha consent’ for projects in forest areas do not fall under its purview",
     "img": "https://th-i.thgim.com/public/incoming/f9fuj7/article71436294.ece/alternates/LANDSCAPE_1200/_DSC3146.JPG",
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/national/no-provision-in-forest-rights-act-to-obtain-gram-sabha-consent-for-projects-tribal-affairs-ministry-says/article71435768.ece",
     "time": "2026-09-06T17:58:06.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran's response to U.S. attacks will be 'more painful', parliament speaker says",
-    "desc": "Iranian Parliament Speaker Mohammad Bagher Ghalibaf warned the U.S. that the “rules of the game” in its war with Iran had changed, saying any further attack on Iranian interests or security would draw a faster and more painful response",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-iran-war-live-updates-donald-trump-strait-of-hormuz-missiles-strikes-west-asia-conflict-september-6-2026/article71434444.ece",
-    "time": "2026-09-06T17:50:45.000Z"
   },
   {
     "cat": "Politics",
@@ -252,24 +297,6 @@ const newsData_en = [
     "time": "2026-09-06T12:30:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "2 dead in Delhi building collapse, many trapped; Singapore minister condemns anti-India racism, and more",
-    "desc": "A tragic building collapse in Delhi has claimed one life and left three others injured, with fears that students may be trapped under the rubble. Meanwhile, Singapore's minister has expressed condemnation over racist remarks aimed at Indians during discussions about the recent disaster in Nepal. Despite sanctions, billions in Iranian funds continue to flow through U.S. banks.",
-    "img": "https://static.toiimg.com/photo/msid-133837341,imgsize-139907.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-newswrap-1-dead-in-delhi-building-collapse-many-trapped-singapore-minister-condemns-anti-india-racism-and-more/articleshow/133837004.cms",
-    "time": "2026-09-06T12:29:27.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Students paying price for neglect': CJP attacks govt as boys PG collapses in Delhi",
-    "desc": "A five-storey building being used as a boys' paying guest accommodation collapsed in Delhi's Satya Niketan area on Sunday afternoon, killing one person and leaving several others feared trapped under the rubble, officials said. The incident took place at around 1.30 pm in the densely populated neighbourhood near Delhi University's South Campus, where student hostels, paying guest accommodations and eateries operate along narrow lanes.",
-    "img": "https://static.toiimg.com/photo/msid-133836830,imgsize-75156.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/students-paying-price-for-neglect-cjp-attacks-govt-as-boys-pg-collapses-in-delhi/articleshow/133834875.cms",
-    "time": "2026-09-06T12:10:35.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "East Zone finish day 1 on 385/4 as Ishan remains unbeaten on 111",
     "desc": "Ishan Kishan's remarkable unbeaten century helped East Zone reach a commendable 385 for four at the close of play on day one. He formed a solid partnership with Kumar Kushagra, who also finished the day not out on 63 runs. The opening duo, Abhimanyu Easwaran and Vaibhav Sooryavanshi, laid a robust foundation, while Shikhar Mohan added a valuable 85 runs.",
@@ -324,15 +351,6 @@ const newsData_en = [
     "time": "2026-09-06T10:46:18.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "IIT Mandi orders inquiry after poster says Shudras should ‘serve higher classes’",
-    "desc": "For Shudras, however, the poster listed their role as \"serve higher classes\", which became the focus of the controversy. The poster also quoted a Bhagavad Gita verse stating that the four divisions of human society were created according to the \"three modes of material nature and the work associated with them\". Behera said he had been away from IIT Mandi and returned on Saturday.",
-    "img": "https://static.toiimg.com/photo/msid-133833990,imgsize-208964.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/iit-mandi-orders-inquiry-after-poster-says-shudras-should-serve-higher-classes/articleshow/133833282.cms",
-    "time": "2026-09-06T10:42:51.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Kramnik reacts to Aronian’s 'modest confidence' after grandmaster says he is better than many",
     "desc": "Levon Aronian described his ascent to the world number two ranking as a miracle in his chess journey. Despite not clinching the classical World Championship title, he has no regrets. Former champion Vladimir Kramnik commented on Aronian's modest view of his own skills, recognizing Aronian's outstanding achievements, which include two World Cup victories and multiple Olympiad gold medals.",
@@ -340,15 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/vladimir-kramnik-reacts-to-levon-aronians-modest-confidence-after-grandmaster-says-he-is-better-than-many/articleshow/133833620.cms",
     "time": "2026-09-06T10:37:43.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "19 lakh lives impacted as Ganga breaches flood mark in Patna",
-    "desc": "In Bihar, more than 19.57 lakh individuals are grappling with severe flooding across eleven districts. The Ganga has surpassed its former record flood level at Gandhi Ghat, leading authorities to raise alerts for downstream localities and boost relief activities. Several other rivers are similarly exceeding danger levels, and with rain predictions suggesting additional water rises, the outlook remains concerning.",
-    "img": "https://static.toiimg.com/photo/msid-133833768,imgsize-218434.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/19-lakh-lives-impacted-as-ganga-breaches-flood-mark-in-patna/articleshow/133833513.cms",
-    "time": "2026-09-06T10:29:53.000Z"
   },
   {
     "cat": "Entertainment",
@@ -441,15 +450,6 @@ const newsData_en = [
     "time": "2026-09-06T09:06:11.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘Bye-bye, papa’: What 21-year-old told father before jumping into Chenab",
-    "desc": "A 21-year-old woman reportedly leaped into the Chenab River on Saturday after a phone call with her father where she expressed, 'This is my life.' Despite the efforts of bystanders to change her mind, she proceeded with the drastic act. A combined rescue mission was initiated, but she has yet to be located, leaving her motives shrouded in uncertainty.",
-    "img": "https://static.toiimg.com/photo/msid-133831855,imgsize-789263.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/bye-bye-papa-what-21-year-old-told-father-before-jumping-into-chenab/articleshow/133831583.cms",
-    "time": "2026-09-06T09:04:52.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Tilak Varma’s intense exchange with Vaibhav Sooryavanshi in Duleep Trophy final",
     "desc": "South Zone captain Tilak Varma spoke to Vaibhav Sooryavanshi during the Duleep Trophy final. The 15-year-old batter showed aggression against experienced bowlers like Mohammed Siraj. Sooryavanshi reached a promising start but missed another century, falling for 44. He had also missed a century in the semi-final, scoring 92. East Zone aims for a long-awaited Duleep Trophy title against South Zone.",
@@ -484,15 +484,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/science/un-approves-resolution-in-support-of-mapthat-shows-africas-true-size/article71429647.ece",
     "time": "2026-09-06T08:13:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When 'Dharman' star Rajinikanth called his fans ‘gods’",
-    "desc": "Rajinikanth has captivated audiences for over fifty years, thanks to his dedicated fanbase that fuels his illustrious career. This unwavering loyalty is a key factor in his enduring success. As anticipation builds for his upcoming films 'Jailer 2' and 'Dharman,' fans eagerly await the next chapters in his remarkable journey as a cinematic icon.",
-    "img": "https://static.toiimg.com/photo/msid-133830520,imgsize-136522.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/when-dharman-star-rajinikanth-called-his-fans-gods-and-credited-them-for-his-journey-they-are-the-gods-who-make-me-live/articleshow/133830506.cms",
-    "time": "2026-09-06T08:13:19.000Z"
   },
   {
     "cat": "Business",
@@ -792,15 +783,6 @@ const newsData_en = [
     "time": "2026-09-05T03:21:07.000Z"
   },
   {
-    "cat": "Business",
-    "title": "'Don’t want to lose our country’: Trump to spend $500 m to help Republicans win midterms",
-    "desc": "In a strategic move, Donald Trump intends to allocate up to $500 million from MAGA Inc to bolster Republican candidates in key House and Senate races. This robust funding effort is particularly timely as concerns have been raised about the PAC's substantial cash reserves. Trump emphasizes his control over these funds, aiming for impactful distributions just two months before Election Day.",
-    "img": "https://static.toiimg.com/photo/msid-133785600,imgsize-109520.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/dont-want-to-lose-our-country-trump-plans-to-spend-500-million-to-help-republicans-win-midterms/articleshow/133785413.cms",
-    "time": "2026-09-05T03:08:47.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Inside Madhuri Dixit’s 5,500 sq ft Mumbai home with M.F. Husain art",
     "desc": "On the 53rd floor of her Mumbai apartment, Madhuri Dixit moves with the same composed grace that has defined decades of her on-screen persona. From Mohini in 'Tezaab' to Nisha in 'Hum Aapke Hain Koun..!,' audiences have seen her in countless memorable avatars, but her home offers a glimpse into a quieter, more personal side of the actress. Madhuri Dixit and Dr Shriram Nene's sea-facing Mumbai apartment blends minimalist architecture with the vibrant art of M.F. Husain, who painted several works exclusively for the actress, alongside a home built around music, technology and family.",
@@ -846,15 +828,6 @@ const newsData_en = [
     "time": "2026-09-04T17:22:01.000Z"
   },
   {
-    "cat": "World",
-    "title": "‘UN Convention on the Law of the Sea is still the constitution of oceans’",
-    "desc": "‘We have 172 countries which are parties to UNCLOS; this is near universal; even though the U.S. is not a party, it regards UNCLOS as the authoritative law of the sea,’ says Magsaysay award winner Tommy Koh",
-    "img": "https://th-i.thgim.com/public/incoming/m0rdqh/article71429619.ece/alternates/LANDSCAPE_1200/Philippines_Magsaysay_Awards_4_548.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/un-convention-on-the-law-of-the-sea-is-still-the-constitution-of-oceans/article71424675.ece",
-    "time": "2026-09-04T16:44:02.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Chennai emerges as key development hub for Zoom’s Global Contact Center",
     "desc": "Zoom President of Product and Engineering Velchamy Sankarlingam says Chennai has a key role in developing the company’s Contact Center, while AI is reshaping the skills it needs to hire and the way its support workforce operates",
@@ -862,15 +835,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/chennai-emerges-as-key-development-hub-for-zooms-global-contact-center/article71428682.ece",
     "time": "2026-09-04T15:00:29.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Missouri court blocks Trump-backed U.S. House map, orders it to be put to vote",
-    "desc": "Missouri Attorney General Catherine Hanaway, a Republican, said she would immediately appeal to the U.S. Supreme Court, asserting that the decision “has thrust our State into a full-fledged Constitutional crisis.” Missouri's new districts were used in the August primaries",
-    "img": "https://th-i.thgim.com/public/incoming/jafgzd/article71429049.ece/alternates/LANDSCAPE_1200/Abortion_Missouri_14221.jpg-877a2.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/missouri-court-blocks-trump-backed-us-house-map-orders-it-to-be-put-to-vote/article71428642.ece",
-    "time": "2026-09-04T14:36:58.000Z"
   },
   {
     "cat": "Entertainment",
@@ -898,5 +862,41 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/entertainment/movies/mayday-apple-tv-interview-directors-john-francis-daley-jonathan-goldstein-top-gun-cold-war/article71414471.ece",
     "time": "2026-09-04T09:20:25.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Botticelli’s Madonna and Child comes to Bengaluru",
+    "desc": "The Renaissance painting is part of One Mother, Many Mother Tongues, a new exhibition, co-curated by Naman Ahuja and Andrea Anastasio, which explores how the visual motif of mother and child migrates across borders, changing identity according to region, religion, language, and culture",
+    "img": "https://th-i.thgim.com/public/life-and-style/i11uy1/article71368128.ece/alternates/LANDSCAPE_1200/IMG_2224.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/bangalore/botticellis-madonna-and-child-comes-to-bengaluru/article71367741.ece",
+    "time": "2026-09-04T05:52:25.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India’s Q1 GDP at 7.8% beats RBI estimates: Why is Garg questioning the data?",
+    "desc": "India’s latest Gross Domestic Product numbers seem impressive. Growth exceeded RBI’s own estimate of 7% for the April-June quarter. How did this happen? Aren’t ongoing wars, tariffs, geopolitical uncertainty having an impact? Let’s dive in.",
+    "img": "https://th-i.thgim.com/public/incoming/ccongc/article71425725.ece/alternates/LANDSCAPE_1200/SUGAR%20SHORTAGE%20%20Biofuel%20vs%20Kitchen%20Tables%20%201.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/videos/shows/watch-78-gdp-real-or-fake-recovery-business-matters/article71425427.ece",
+    "time": "2026-09-03T19:10:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Smriti Mandhana surpasses Mithali Raj as women’s international cricket’s leading run-scorer",
+    "desc": "During India’s Asia Cup match against Hong Kong in Dubai, she went past Mithali Raj, the woman who almost single-handedly put Indian women’s cricket in the headlines when the sport had no takers, to become the leading scorer of international runs.",
+    "img": "https://th-i.thgim.com/public/incoming/hdmced/article71425666.ece/alternates/LANDSCAPE_1200/GettyImages-2282050410.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/cricket/smriti-mandhana-goes-past-mithali-raj-as-leading-scorer-of-international-runs/article71425580.ece",
+    "time": "2026-09-03T18:34:49.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Srikanth stuns Lai, Tanvi loses in China Masters, Satwik-Chirag too win",
+    "desc": "The 33-year-old Srikanth, who had reached the US Open Super 300 final earlier this year, rallied his way to notch up an upset 21-18 21-19 win over Lai, who won his second World Championships bronze in New Delhi last month.",
+    "img": "https://th-i.thgim.com/public/incoming/ovm4qu/article71425581.ece/alternates/LANDSCAPE_1200/YONEX%20BADMINTON%20DELHI%2015_01_149.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sport/srikanth-stuns-lai-tanvi-loses-in-china-masters-satwik-chirag-too-win/article71425576.ece",
+    "time": "2026-09-03T17:45:09.000Z"
   }
 ];
