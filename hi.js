@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Cricket South Africa name squad for upcoming three-game ODI series against Australia",
+    "desc": "The stage is set for a multi-format series between South Africa and Australia. The two sides are set to take on each other across three ODI matches and will follow it up with three Tests....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/cricket-south-africa-name-squad-for-upcoming-three-game-odi-series-against-australia-2026-09-07-1053585",
+    "time": "2026-09-07T13:37:30.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Fatima Sana found in breach of ICC's Code of Conduct, handed demerit point after India clash; Check details",
+    "desc": "The Women’s Asia Cup 2026 has seen the Indian team put in some brilliant performances. The Women in Blue are unbeaten in the tournament, having registered wins against Thailand, Hong Kong, and arch-rivals Pakistan as...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/fatima-sana-found-in-breach-of-icc-s-code-of-conduct-handed-demerit-point-after-india-clash-check-details-2026-09-07-1053572",
+    "time": "2026-09-07T11:26:08.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Kevin Pietersen named specialist mentor for England's white-ball team ahead of ODI World Cup 2027",
+    "desc": "In a major development, former England cricketer Kevin Pietersen has been named the specialist mentor for England’s white-ball side ahead of the upcoming edition of the ODI World Cup 2027. It is worth noting that...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/kevin-pietersen-named-specialist-mentor-for-england-s-white-ball-team-ahead-of-odi-world-cup-2027-2026-09-07-1053565",
+    "time": "2026-09-07T10:33:58.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Carlos Alcaraz paves his way to US Open quarter-final, sets up marquee clash against Ben Shelton",
+    "desc": "The US Open 2026 is approaching its end; some of the best tennis players in the world are putting in their best performances, and at the forefront of it all has been Spanish superstar Carlos...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-paves-his-way-to-us-open-quarter-final-sets-up-marquee-clash-against-ben-shelton-2026-09-07-1053558",
+    "time": "2026-09-07T09:11:37.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Ishan Kishan smashes double century as East Zone continue to dominate in Duleep Trophy final",
+    "desc": "The Duleep Trophy 2026 final saw East Zone taking on South Zone. The two sides met at the MA Chidambaram Stadium in Chennai, and the game began with East Zone coming in to bat first...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-smashes-double-century-as-east-zone-continues-to-dominate-in-duleep-trophy-final-2026-09-07-1053554",
+    "time": "2026-09-07T08:27:10.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'Bitterly disappointed': Michael Carrick opens up after Everton pull off last minute draw against Man United",
     "desc": "The Premier League 2026-27 season continued with Manchester United taking on Everton. The two sides met in Liverpool for the clash on September 6, and it ended in a 2-2 draw after Everton pulled off...",
     "img": "",
@@ -43,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/fifa-president-gianni-infantino-seeks-re-election-despite-enormous-controversy-2026-09-06-1053508",
     "time": "2026-09-06T17:50:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "South Africa beat Zimbabwe by 48 runs after all-round show to win T20I tri-series",
-    "desc": "South Africa lifted the Namibia T20I tri-series trophy after defeating Zimbabwe by 48 runs in the final. It marked their third victory over the Chevrons in eight days. They had a poor start to the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-beat-zimbabwe-by-48-runs-after-all-round-show-to-win-t20i-tri-series-2026-09-06-1053506",
-    "time": "2026-09-06T16:38:25.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Maitland-Niles stuns Manchester United with 96th-minute long-range stunner, Everton pull a draw",
-    "desc": "Ainsley Maitland-Niles marked his Everton debut with a dramatic stoppage-time equaliser as Everton recovered twice from losing positions to draw 2-2 with Manchester United in the Premier League at Hill Dickinson Stadium. Notably, the former Arsenal...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/maitland-niles-stuns-manchester-united-with-96th-minute-long-range-stunner-everton-pull-a-draw-2026-09-06-1053503",
-    "time": "2026-09-06T15:58:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Nigeria secure U19 Women's World Cup place after thrilling Africa Qualifier final",
-    "desc": "Nigeria secured their place at next year’s U19 Women’s T20 World Cup after edging Zimbabwe by four runs in the final of the Africa Qualifier in Dar es Salaam. They remained unbeaten throughout the competition...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/nigeria-secure-u19-women-s-world-cup-place-after-thrilling-africa-qualifier-final-2026-09-06-1053502",
-    "time": "2026-09-06T15:28:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Yastika Bhatia, Shikha Pandey dazzle as Trinbago Knight Riders open WCPL with win",
-    "desc": "Trinbago Knight Riders began their Women’s Caribbean Premier League campaign with a 21-run victory over defending champions Barbados Tridents at Kensington Oval in Bridgetown. India internationals Shikha Pandey and Yastika Bhatia were the vital cogs...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/yastika-bhatia-shikha-pandey-dazzle-as-trinbago-knight-riders-open-wcpl-with-win-2026-09-06-1053497",
-    "time": "2026-09-06T14:07:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Can Ishan Kishan be back in India's Test scheme of things after century in Duleep Trophy final?",
-    "desc": "East Zone captain Ishan Kishan played a commanding knock in the Duleep Trophy final against South Zone at the MA Chidambaram Stadium in Chennai. The 28-year-old arrived at the crease after Sudip Kumar Gharami fell...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/can-ishan-kishan-be-back-in-india-s-test-scheme-of-things-after-century-in-duleep-trophy-final-2026-09-06-1053488",
-    "time": "2026-09-06T12:13:19.000Z"
   }
 ];
