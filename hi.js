@@ -1,6 +1,33 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'Bitterly disappointed': Michael Carrick opens up after Everton pull off last minute draw against Man United",
+    "desc": "The Premier League 2026-27 season continued with Manchester United taking on Everton. The two sides met in Liverpool for the clash on September 6, and it ended in a 2-2 draw after Everton pulled off...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/bitterly-disappointed-michael-carrick-opens-up-after-everton-pull-off-last-minute-draw-against-man-united-2026-09-07-1053552",
+    "time": "2026-09-07T07:47:06.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'It needs to hurt': Xabi Alonso reflects on Chelsea's close defeat against champions Arsenal",
+    "desc": "The Premier League 2026-27 season continued with Chelsea taking on defending champions Arsenal. The two sides met at the Emirates Stadium in London on September 6, and it was Arsenal who came out on top....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/it-needs-to-hurt-xabi-alonso-reflects-on-chelsea-s-close-defeat-against-champions-arsenal-2026-09-07-1053545",
+    "time": "2026-09-07T06:54:42.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Marnus Labuschagne retains his spot as Australia name squad for South Africa series",
+    "desc": "The stage is set for a multi-format series between Australia and South Africa. The two sides will lock horns against each other across three ODI matches and will follow it up with three Test matches....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/marnus-labuschagne-retains-his-spot-as-australia-name-squad-for-south-africa-series-2026-09-07-1053535",
+    "time": "2026-09-07T05:42:29.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Aryna Sabalenka reaches sixth straight US Open quarterfinal, matches Serena Williams' record",
     "desc": "Aryna Sabalenka moved into the US Open quarterfinals for a sixth consecutive year, defeating American Taylor Townsend 6-4, 6-3 to keep her bid for a third successive title firmly on track. The world No. 1...",
     "img": "",
@@ -61,32 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/can-ishan-kishan-be-back-in-india-s-test-scheme-of-things-after-century-in-duleep-trophy-final-2026-09-06-1053488",
     "time": "2026-09-06T12:13:19.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Satwik-Chirag scripts history, win China Masters for first time by beating home favourites",
-    "desc": "Satwiksairaj Rankireddy and Chirag Shetty won the China Masters 2026 men’s doubles title, beating China’s He Jiting and Ren Xiangyu 21-11, 13-21, 21-17 in the final. They got the job done in 70 minutes and...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/satwik-chirag-scripts-history-win-china-masters-for-first-time-by-beating-home-favourites-2026-09-06-1053482",
-    "time": "2026-09-06T11:09:18.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Sri Lanka's Rumesh Pathirage wins Diamond League final in Neeraj Chopra's absence",
-    "desc": "Sri Lanka’s Rumesh Tharanga Pathirage created history by winning the men’s javelin throw title at the 2026 Diamond League Final in Brussels. He also became the first athlete from his country to secure the prestigious...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/sri-lanka-s-rumesh-pathirage-wins-diamond-league-final-in-neeraj-chopra-s-absence-2026-09-06-1053480",
-    "time": "2026-09-06T10:39:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "When and where to watch Arsenal vs Chelsea live on TV and stream online in India?",
-    "desc": "The stage is set for one of the biggest games of the ongoing Premier League season. The London derby is right around the corner as Arsenal is slated to take on Chelsea. The two sides...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/when-and-where-to-watch-arsenal-vs-chelsea-live-on-tv-and-stream-online-in-india-2026-09-06-1053476",
-    "time": "2026-09-06T09:14:29.000Z"
   }
 ];

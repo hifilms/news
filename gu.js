@@ -1,5 +1,32 @@
 const newsData_gu = [
   {
+    "cat": "Entertainment",
+    "title": "બાદશાહ આગળ વધી ગયો છે, સલમાન ખાને ઈશા રિખીની મૂવ ઓન થવાની આપી સલાહ",
+    "desc": "બાદશાહ સાથે ડિવોર્સ થયા પછી ઈશા રિખી બિગ બોસ 20 માં પહોંચી છે. બિગ બોસ હાઉસમાં એન્ટ્રી કરવાની સાથે જ સલમાન ખાને ઈશાને મૂવ ઓન કરવાની સલાહ આપી દીધી છે અને કહી દીધું છે કે બાદશાહ આગળ વધી ગયો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/salman-khan-advice-to-isha-rikhi-in-bigg-boss-20-isha-rikhi-badshah-divorce-reason-490382 ",
+    "time": "2026-09-07T05:25:27.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "કરીના-સૈફના લગ્નમાં વેઈટર હતો પંચાયત ફેમ એક્ટર, હવે સફળ અભિનેતા બની બિગ બોસ 20 માં કરી એન્ટ્રી",
+    "desc": "પંચાયત ફેમ આસિફ ખાનના ચાહકોની સંખ્યા આજે લાખોમાં છે પરંતુ એક સમય હતો જ્યારે ઈંડસ્ટ્રીમાં તેને કોઈ ભાવ ન આપતું. પેટ ભરવા માટે તેણે વેઈટરની નોકરી કરી અને વાસણ સાફ કરવા જેવા કામ પણ કર્યા છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/panchayat-fame-actor-aasif-khan-struggle-story-from-waiter-to-successful-actor-490380 ",
+    "time": "2026-09-07T04:59:09.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "દિલ્હી બિલ્ડિંગ દુર્ઘટનામાં મૃત્યુઆંક 6 થયો, ઘટના ઘટી તે વખતનું 20 સેકન્ડનું CCTV ફૂટેજ સામે આવ્યું",
+    "desc": "રવિવારે ભર બપોરે દેશની રાજધાની દિલ્હીમાં એક પીજી તરીકે ઉપયોગમાં લેવાતા બિલ્ડિંગના કડડડભૂસ થવાની ઘટનાએ હડકંપ મચાવ્યો છે. આ દુર્ઘટનામાં અત્યાર સુધીમાં 6 લોકોના મોત થયા છે. જ્યારે અનેક લોકો હજુ પણ કાટમાળ નીચે ફસાયેલા હોવાનું જાણવા મળ્યું છે. ઘટના સમયનો એક સીસીટીવી ફૂટેજ પણ સામે આવ્યો છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/delhi-satya-niketan-building-collapse-site-cctv-footage-death-toll-reaches-to-6-490369 ",
+    "time": "2026-09-07T03:24:19.000Z"
+  },
+  {
     "cat": "World",
     "title": "પાકિસ્તાનનું સૌથી મોટું આતંકી કબૂલનામું... મરિયમે દેખાડ્યો પાકિસ્તાનનો કાળો ચહેરો",
     "desc": "પાકિસ્તાનના પંજાબની મુખ્યમંત્રી મરિયમ નવાઝે ચોંકાવનારું નિવેદન આપતાં કહ્યું કે પંજાબને પડોશી દેશો કરતાં અન્ય પાકિસ્તાની પ્રાંતોમાંથી વધુ સુરક્ષા ખતરો છે. તેમના જણાવ્યા મુજબ પ્રાંતીય સરહદો મારફતે આતંકવાદીઓ પંજાબમાં પ્રવેશી રહ્યા છે. તેમણે આતંકવાદ ઉપરાંત સંગઠિત અપરાધ અને ધાર્મિક અસહિષ્ણુતાને પણ મોટા પડકાર ગણાવ્યા.",
@@ -351,15 +378,6 @@ const newsData_gu = [
     "time": "2026-09-03T09:51:14.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "SIRમાં કપાઈ ગયું રાઘવ ચઢ્ઢાનું નામ, શું રાજ્યસભાની સદસ્યતા પણ જોખમમાં?",
-    "desc": "રાઘવ ચડ્ઢાનું નામ પંજાબની ડ્રાફ્ટ એસઆઈઆર યાદીમાં સામેલ નથી. રાજ્યસભાના સભ્યએ તેને રાજકીય બદલાની ભાવનાથી કરાયેલી કાર્યવાહી ગણાવી છ ે. આ સાથે જ એક સવાલ એ પણ ઉઠી રહ્યો છે કે જો રાઘવ ચડ્ઢાનું નામ SIRમાંથી કપાયું તો તેમની રાજ્યસભાની સદસ્યતા જશે કે શું?",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/is-raghav-chadha-rajya-sabha-membership-at-risk-question-raised-after-name-removed-from-sir-489940 ",
-    "time": "2026-09-03T09:09:12.000Z"
-  },
-  {
     "cat": "Business",
     "title": "હાઈથી સોનું 22000 અને ચાંદી 1.53 લાખ છે સસ્તી, આજે ભાવમાં શું ફેરફાર? ફટાફટ ચેક કરો લેટેસ્ટ રેટ",
     "desc": "કડાકા બાદ આજે સોના અને ચાંદીમાં તેજીનો માહોલ જોવા મળી રહ્યો છે. સામે છેડે ક્રૂડ ઓઈલમાં કડાકો જોવા મળ્યો છે. આજે વાયદા બજાર અને રિટેલ બજાર બંનેમાં સોનું અને ચાંદી ચમક્યા છે. જો કે ઓલટાઈમ હાઈથી બંને કિમતી ધાતુ હજુ પણ ઘણી સસ્તી વેચાઈ રહી છે. જાણો લેટેસ્ટ રેટ.",
@@ -601,15 +619,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/do-smartphones-have-an-expiration-date-know-when-you-should-replace-your-mobile-phone-489472 ",
     "time": "2026-08-30T16:52:20.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "કાશ્મીરી પંડિત અને બિહાર પર જોક કરી ફસાયો સમય રૈના, નવા એસિપોડ પછી લોકોમાં વધી નારાજગી",
-    "desc": "સમય રૈના ફરી એકવાર વિવાદમાં ફસાયો છે. સમય રૈનાના શો ઈંડિયાઝ ગોટ લેટેન્ટનો નવો એપિસોડ ઓન એર થયો અને વિરોધ પણ થરુ થઈ ગયો છે. તાજેતરના એપિસોડમાં સમય રૈના અને શેરોન વર્માએ કાશ્મીરી પંડિત અને બિહારના લોકો પર જોક કર્યા જેનાથી લોકોમાં નારાજગી વધી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/indias-got-latent-latest-episode-samay-raina-sharon-verma-jokes-on-bihari-and-kashmiri-pandit-controversy-489367 ",
-    "time": "2026-08-30T02:02:58.000Z"
   },
   {
     "cat": "Tech",
