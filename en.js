@@ -1,5 +1,176 @@
 const newsData_en = [
   {
+    "cat": "Sports",
+    "title": "‘Long dream’: Nihal Sarin 'excited' but 'not thinking about' Olympiad title defence",
+    "desc": "Nihal Sarin is excited to represent India at the Chess Olympiad in Samarkand, where India will defend its Open title, but is currently focused on the Global Chess League. The 22-year-old calls the Olympiad a long-time dream. Meanwhile, American Gambits lead the GCL standings after two days, despite Nihal’s individual win over Levon Aronian.",
+    "img": "https://static.toiimg.com/photo/msid-133859693,imgsize-87043.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/chess/a-long-time-dream-nihal-sarin-excited-but-not-thinking-about-indias-chess-olympiad-title-defence/articleshow/133859653.cms",
+    "time": "2026-09-07T02:14:59.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Prince Harry and Meghan Markle eye new documentary",
+    "desc": "Prince Harry and Meghan Markle are said to be eyeing fresh broadcasting opportunities back in Britain. They are contemplating engaging with the BBC for documentary and factual programming, which could stir unease within the Royal Family. The couple might also explore smaller, independent projects with British networks, following a series of documentaries and podcasts from their previous substantial streaming agreements.",
+    "img": "https://static.toiimg.com/photo/msid-133859576,imgsize-329092.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/prince-harry-and-meghan-markle-eye-new-documentary-king-charles-could-be-furious-over-potential-royal-family-coverage-reports/articleshow/133859512.cms",
+    "time": "2026-09-07T02:10:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "‘Cosmetic surgery’ won’t fix Pakistan: Misbah takes aim at PCB after stepping down",
+    "desc": "Misbah-ul-Haq, the former captain of Pakistan, has voiced his disappointment with the Pakistan Cricket Board's inconsistent policies, particularly regarding the treatment of local versus foreign coaches. He emphasized that knee-jerk reactions under pressure fail to solve issues, and advocated for a thorough evaluation of team performances. Misbah pointed to India's methodical approach to development as an exemplary model for fostering sustained improvement in cricket.",
+    "img": "https://static.toiimg.com/photo/msid-133859449,imgsize-22030.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/cosmetic-surgery-wont-fix-pakistan-cricket-misbah-ul-haq-takes-aim-at-pcb-after-stepping-down/articleshow/133859342.cms",
+    "time": "2026-09-07T02:05:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Varun Dhawan praises 'Hanuman Ansh' after watching it with his mother",
+    "desc": "Actor Varun Dhawan strongly recommended the film 'Hanuman Ansh' after watching it with his mother. He shared his amazing experience and urged audiences to see the movie on the big screen. Dhawan clarified that his endorsement was a personal recommendation, not a paid promotion. The film, which follows Lakshman Das's spiritual journey, continues to perform well at the box office.",
+    "img": "https://static.toiimg.com/photo/msid-133859367,imgsize-193033.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/varun-dhawan-praises-hanuman-ansh-after-watching-it-with-his-mother-urges-families-to-watch-the-shobhinaw-satyaa-chandan-anand-film-in-theatres/articleshow/133858801.cms",
+    "time": "2026-09-07T02:01:05.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ciara expecting fifth child with husband Russell Wilson",
+    "desc": "Singer Ciara and husband Russell Wilson are expecting their fifth child. The couple shared the happy news through a social media video announcement. Ciara showcased her baby bump in a sweet video with her family. She recently discussed balancing motherhood and her music career on tour. Actress Natalie Portman also announced her third pregnancy earlier this year.",
+    "img": "https://static.toiimg.com/photo/msid-133859009,imgsize-453192.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/ciara-announces-pregnancy-singer-expecting-fifth-child-with-husband-russell-wilson/articleshow/133858470.cms",
+    "time": "2026-09-07T01:45:26.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Mela' title and first look",
+    "desc": "Megastar Mammootty is celebrating his 75th birthday today at his Chennai residence. His upcoming film with director Nithish Sahadev has been titled 'Mela'. The first-look poster reveals Mammootty in an intense and rugged appearance. Fans are showering the veteran actor with numerous birthday wishes online. 'Mela' joins Mammootty's busy schedule of several other upcoming projects.",
+    "img": "https://static.toiimg.com/photo/msid-133858939,imgsize-407408.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/mammootty-75th-birthday-mela-title-and-first-look-unveiled-at-midnight-fans-send-birthday-wishes-for-the-superstar/articleshow/133858911.cms",
+    "time": "2026-09-07T01:41:56.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The burning question of child safety in Amravati’s government maternity hospital",
+    "desc": "Three newborn babies died and 36 were rescued after an explosion at Amravati’s government maternity hospital, a key healthcare facility serving the district and surrounding areas, including women with critical pregnancies. Snehal Mutha speaks to survivors, rescuers and hospital staff, who flag lapses in fire safety audits",
+    "img": "https://th-i.thgim.com/public/incoming/i9yrpk/article71421179.ece/alternates/LANDSCAPE_1200/11908_28_8_2026_11_5_38_4_DSC_2982.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/maharashtra/theburningquestionof-childsafetyin-amravatis-government-maternity-hospital/article71421175.ece",
+    "time": "2026-09-07T01:29:02.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shobhinaw Satyaa and Chandan Anand film records 37.9% growth",
+    "desc": "Hanuman Ansh continues its strong theatrical run with a major box office earnings jump. The film registered a significant increase in collections on its thirty-first day. This latest figure takes the movie's total India net collection past one hundred twenty-two crore rupees. The film's fifth weekend emerged as a major contributor to its recent box office performance. Sunday occupancy reached an impressive seventy-eight point fifty-four percent across India.",
+    "img": "https://static.toiimg.com/photo/msid-133858503,imgsize-260359.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/hanuman-ansh-box-office-collections-day-31-shobhinaw-satyaa-and-chandan-anand-film-records-37-9-growth-india-net-total-stands-at-rs-122-13-crore/articleshow/133858483.cms",
+    "time": "2026-09-07T01:21:13.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'BKU' BO 17 vs 'Khalifa': Nivin film records 15.7% growth",
+    "desc": "Bethlehem Kudumba Unit demonstrated impressive growth on its seventeenth day, garnering more than eight crore rupees net from audiences across India. Its cumulative gross has soared to one hundred forty-four crore rupees, bolstered by a strong twelve crore rupees from overseas markets. This success has positioned Bethlehem Kudumba Unit well above Khalifa in box office rankings, showcasing its widespread appeal and popularity.",
+    "img": "https://static.toiimg.com/photo/msid-133858334,imgsize-258148.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/bethlehem-kudumba-unit-box-office-collection-day-17-vs-khalifa-nivin-pauly-and-mamitha-baiju-film-records-15-7-growth/articleshow/133858309.cms",
+    "time": "2026-09-07T01:13:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dolly's handle shares message for fans",
+    "desc": "Dolly Parton's social media shared a comforting message for grieving fans and friends. The post featured lyrics from her song 'Light of a Clear Blue Morning'. It came after her sister Stella Parton addressed online misinformation and public pressure. Dolly Parton passed away on August 25 at the age of 80. She was laid to rest in a private funeral beside her husband.",
+    "img": "https://static.toiimg.com/photo/msid-133858193,imgsize-59396.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dolly-partons-social-media-handle-shares-comforting-message-for-fans-after-singers-death-everythings-gonna-be-alright/articleshow/133858125.cms",
+    "time": "2026-09-07T01:05:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "In the 1940s, James Cagney bought 500 acres, which later turned into a wildlife haven",
+    "desc": "The former land of actor James Cagney, located near Ramona, California, has transformed into an essential wildlife sanctuary. This expansive grassland area offers vital habitats for various species. Acquired by The Nature Conservancy in 2003, the 417-acre site was supported through both public and private funding, becoming a crucial addition to the larger Ramona Grasslands Preserve.",
+    "img": "https://static.toiimg.com/photo/msid-133857948,imgsize-258398.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-the-1940s-james-cagney-bought-500-acres-of-land-in-california-as-a-private-retreat-decades-later-it-became-a-wildlife-haven/articleshow/133857759.cms",
+    "time": "2026-09-07T00:53:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Pakistan on ventilator': Shoaib Akhtar reveals PCB’s 'nothing' expectation",
+    "desc": "Pakistan Cricket Board is undertaking a significant rebuilding phase following poor tour performances. Senior players have been removed from the squad for the final Test match. Former bowler Shoaib Akhtar believes the board has lost confidence in the current team. He stressed the need to protect the careers of younger fast bowlers. The board is now focusing on developing a new generation of players for the future.",
+    "img": "https://static.toiimg.com/photo/msid-133857946,imgsize-53958.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-cricket-on-a-ventilator-shoaib-akhtars-brutal-verdict-as-nothing-is-expected-from-squad/articleshow/133857846.cms",
+    "time": "2026-09-07T00:53:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Irumudi' BO day 17 vs 'Romanchakam'",
+    "desc": "Ravi Teja's film 'Irumudi' earned Rs 6.75 crore on its seventeenth day. The movie's India net collection has now surpassed Rs 166 crore. Its worldwide gross collection reached Rs 215.40 crore after seventeen days. 'Irumudi' recorded a significant 37.8% increase in its third-weekend earnings. Meanwhile, 'Romanchakam' saw a 16.3% drop in its fourth-day collection.",
+    "img": "https://static.toiimg.com/photo/msid-133857745,imgsize-323450.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/irumudi-box-office-collections-day-17-vs-romanchakam-ravi-teja-film-jumps-37-8-india-net-reaches-rs-166-30-cr/articleshow/133857715.cms",
+    "time": "2026-09-07T00:41:49.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'Toxic' box office collection day 12: The film earns Rs 2.35 cr on Sunday",
+    "desc": "Yash's movie 'Toxic' earned Rs 2.35 crore on its twelfth day. The film's India net collection has now reached Rs 245.75 crore. Overseas gross collections for 'Toxic' stand at Rs 44.50 crore. Worldwide gross collections after twelve days total Rs 337.80 crore. The Kannada version continues to lead the film's India net collection.",
+    "img": "https://static.toiimg.com/photo/msid-133857317,imgsize-100970.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/toxic-box-office-collection-day-12-yash-tara-sutaria-kiara-advani-nayanthara-film-earns-rs-2-35-cr-on-sunday-taking-india-net-collection-to-rs-245-75-cr/articleshow/133857282.cms",
+    "time": "2026-09-07T00:19:19.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'I'm Game' BO day 4: DQ film stays steady at Rs 4.35 cr",
+    "desc": "Dulquer Salmaan's film 'I'm Game' earned Rs 4.35 crore on its fourth day. The movie's India net collection reached Rs 19.00 crore after four days. Overseas markets contributed Rs 17.50 crore to the film's total. Worldwide gross collections for 'I'm Game' now stand at Rs 39.70 crore. The Malayalam version showed strong evening occupancy on Sunday.",
+    "img": "https://static.toiimg.com/photo/msid-133857087,imgsize-154471.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/im-game-box-office-collections-day-4-dulquer-salmaan-film-stays-steady-at-rs-4-35-cr-india-net-touches-rs-19-cr/articleshow/133857041.cms",
+    "time": "2026-09-07T00:08:47.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Did Masaba take a dig at Mrunal over Bipasha's pics?",
+    "desc": "Designer Masaba Gupta praised Bipasha Basu's magazine cover, calling her an original star. Gupta's comments were interpreted as a jab at Mrunal Thakur's past remarks. An old video of Thakur body-shaming Bipasha resurfaced online in 2025. Thakur had apologized for her comments, stating she was young at the time. Bipasha Basu is set to return to acting in Hansal Mehta's crime thriller series.",
+    "img": "https://static.toiimg.com/photo/msid-133856713,imgsize-244496.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/did-masaba-gupta-take-a-dig-at-mrunal-thakur-in-post-hailing-bipasha-basus-comeback/articleshow/133856556.cms",
+    "time": "2026-09-06T23:53:01.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Iran's response to U.S. attacks will be 'more painful', parliament speaker says",
+    "desc": "Iranian Parliament Speaker Mohammad Bagher Ghalibaf warned the U.S. that the “rules of the game” in its war with Iran had changed, saying any further attack on Iranian interests or security would draw a faster and more painful response",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-iran-war-live-updates-donald-trump-strait-of-hormuz-missiles-strikes-west-asia-conflict-september-6-2026/article71434444.ece",
+    "time": "2026-09-06T23:52:38.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Assailant lunged at Democratic candidate for Ohio governor at fair in U.S., campaign officials say",
+    "desc": "The attempted attack is the latest political violence to roil the United States. And the Ohio gubernatorial race is one of the most high-profile races this year as the campaigns enter the final six weeks of campaigning before the election in November.",
+    "img": "https://th-i.thgim.com/public/incoming/mpeo8i/article71436650.ece/alternates/LANDSCAPE_1200/Election_2_26_Ohio_Attack__6631.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/assailant-lunged-at-democratic-candidate-for-ohio-governor-at-fair-in-us-campaign-officialssay/article71436649.ece",
+    "time": "2026-09-06T23:29:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Ranveer Singh’s FIRST LOOK from 'Pralay' goes viral",
+    "desc": "Ranveer Singh has begun filming his upcoming zombie action thriller 'Pralay' in Mumbai. He sports a rugged new look with longer hair and stubble on set. A viral video shows him filming alongside co-star Kalyani Priyadarshan. The film is set in a near-future Mumbai devastated by a pandemic and zombies. Ranveer will reportedly take paternity leave after his second child's birth.",
+    "img": "https://static.toiimg.com/photo/msid-133855609,imgsize-243041.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singhs-first-look-from-pralay-set-goes-viral-actor-spotted-filming-with-kalyani-priyadarshan-watch/articleshow/133853026.cms",
+    "time": "2026-09-06T22:47:20.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "Maharashtra Ministers call for DJ-free festivals citing health hazards",
     "desc": "The demand for a festival free of DJs and high-powered loudspeakers has been gaining momentum in the State, with Pune-based activist Vidyanad Bapat emerging as one of the prominent voices opposing the use of high-decibel sound systems that cause noise pollution during festivities.",
@@ -36,13 +207,13 @@ const newsData_en = [
     "time": "2026-09-06T21:43:07.000Z"
   },
   {
-    "cat": "World",
-    "title": "Iran's response to U.S. attacks will be 'more painful', parliament speaker says",
-    "desc": "Iranian Parliament Speaker Mohammad Bagher Ghalibaf warned the U.S. that the “rules of the game” in its war with Iran had changed, saying any further attack on Iranian interests or security would draw a faster and more painful response",
-    "img": "https://via.placeholder.com/600x400?text=News",
+    "cat": "Sports",
+    "title": "The graceful artist’s brush with history",
+    "desc": "It was only fitting that Smriti’s record-breaking stroke, in India’s Asia Cup match against Hong Kong, came on the off-side. It was not just her former India captain that she moved ahead of on account of her 64-ball 124. She also took the record for the most hundreds in women’s international cricket from Australian legend Meg Lanning",
+    "img": "https://th-i.thgim.com/public/incoming/i65yyx/article71436411.ece/alternates/LANDSCAPE_1200/GettyImages-2282615674.jpg",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-iran-war-live-updates-donald-trump-strait-of-hormuz-missiles-strikes-west-asia-conflict-september-6-2026/article71434444.ece",
-    "time": "2026-09-06T20:18:10.000Z"
+    "url": "https://www.thehindu.com/sport/cricket/the-graceful-artists-brush-with-history/article71436417.ece",
+    "time": "2026-09-06T18:53:10.000Z"
   },
   {
     "cat": "Politics",
@@ -261,24 +432,6 @@ const newsData_en = [
     "time": "2026-09-06T13:09:29.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Khedan Wattan Punjab Diyan' begins from Bathinda",
-    "desc": "Khedan Wattan Punjab Diyan-2026 has officially kicked off in Punjab, with a vision to showcase the state's talent on a global scale. Almost one million participants, ranging from ages fourteen to seventy plus, are set to compete in thirty-nine different sports. Concluding on November twenty-ninth, the event boasts a prize pool of Rs 12.",
-    "img": "https://static.toiimg.com/photo/msid-133838469,imgsize-62024.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/punjab-khedan-wattan-punjab-diyan-begins-from-bathinda/articleshow/133838316.cms",
-    "time": "2026-09-06T13:07:16.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "The annual Delhi Yamuna flood threat- why September matters?",
-    "desc": "Delhi is under the shadow of recurrent flooding threats as the Yamuna River inches closer to its danger threshold. The catastrophic floods from the previous year resulted in the displacement of thousands and interrupted vital public services. Fortunately, this year has seen reduced upstream water releases, offering a brief respite; however, the risk of heavy rainfall above could still ignite a serious crisis.",
-    "img": "https://static.toiimg.com/photo/msid-133839502,imgsize-19485946.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/the-annual-delhi-yamuna-flood-threat-why-september-matters/articleshow/133837193.cms",
-    "time": "2026-09-06T13:06:47.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Rajasthani artist slams Mirzapur makers over Shoorveer song",
     "desc": "The Movie makers of using his song, dedicated to Maharana Pratap, in a gangster scene without permission or credit. He called it an insult to Rajasthan's history. Social media users backed him, demanding accountability and urging him to file a copyright claim.",
@@ -288,15 +441,6 @@ const newsData_en = [
     "time": "2026-09-06T13:04:45.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "In 2004, Johnny Depp bought a private island in the Bahamas; named beaches after people close to him",
-    "desc": "In a whimsical move, Johnny Depp acquired his own private island in the Bahamas for a cool USD 3.6 million, reflecting his affection for friends and family by naming its beaches after them. To complement his island lifestyle, he also owns an extravagant steam-powered yacht named Vajoliroja, which set him back an impressive USD 8 million. The actor relishes his time on the island, exploring various passions and hobbies.",
-    "img": "https://static.toiimg.com/photo/msid-133829705,imgsize-19882.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2004-johnny-depp-bought-the-bahamian-islands-while-filming-pirates-of-the-caribbean-for-usd-3-6-million-and-named-the-private-beaches-after-his-loved-ones/articleshow/133829639.cms",
-    "time": "2026-09-06T12:30:00.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "East Zone finish day 1 on 385/4 as Ishan remains unbeaten on 111",
     "desc": "Ishan Kishan's remarkable unbeaten century helped East Zone reach a commendable 385 for four at the close of play on day one. He formed a solid partnership with Kumar Kushagra, who also finished the day not out on 63 runs. The opening duo, Abhimanyu Easwaran and Vaibhav Sooryavanshi, laid a robust foundation, while Shikhar Mohan added a valuable 85 runs.",
@@ -304,33 +448,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/duleep-trophy-final-east-zone-finish-day-1-on-385/4-as-ishan-kishan-remains-unbeaten-on-111/articleshow/133836545.cms",
     "time": "2026-09-06T12:06:04.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Gautam Ghattamaneni adds cheeky bio after his film ratings go viral",
-    "desc": "Gautam Ghattamaneni recently embraced the playful buzz surrounding his film ratings on social media, adding a witty twist to his Letterboxd profile after they gained widespread attention. Fans have been keenly observing his independent ratings, even for his father Mahesh Babu's films. Recently, he celebrated his milestone twentieth birthday, receiving a heartfelt note from Mahesh Babu, who is gearing up for his upcoming film Varanasi with SS Rajamouli.",
-    "img": "https://static.toiimg.com/photo/msid-133836518,imgsize-1090305.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/mahesh-babus-son-gautam-ghattamaneni-reacts-to-viral-film-ratings-after-giving-toxic-0-5-stars-and-guntur-kaaram-2-5-stars-apparently-national-news-worthy-page/articleshow/133836318.cms",
-    "time": "2026-09-06T12:01:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Poonam Pandey slams Swara Bhasker’s ‘Padmaavat’ jauhar criticism",
-    "desc": "Poonam Pandey voiced her strong dissent regarding Swara Bhasker's recent remarks on 'Padmaavat.' She argued that the film illustrates real historical events rather than fictional narratives. Pandey was taken aback by Bhasker's comments, labeling them as nonsensical. Bhasker's concerns revolved around the film's depiction of jauhar and its implications for survivors. This exchange underscores the varied interpretations of this contentious historical portrayal.",
-    "img": "https://static.toiimg.com/photo/msid-133835954,imgsize-235928.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/poonam-pandey-slams-swara-bhaskers-padmaavat-jauhar-criticism-as-a-very-stupid-thing-to-say-sanjay-leela-bhansali-showed-a-film-based-on-history/articleshow/133835910.cms",
-    "time": "2026-09-06T11:40:49.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Chunky Pandey reveals Govinda inspired him to become an actor",
-    "desc": "Chunky Pandey recently talked about how Govinda became a key influence in shaping his dance and acting career. He fondly remembered the breakout success of the movie Aankhen, particularly its catchy song, which left a lasting impression on audiences. Chunky's mother was there to witness fans’ excitement during a sneak peek of the trailer before its big debut.",
-    "img": "https://static.toiimg.com/photo/msid-133834726,imgsize-345496.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/chunky-pandey-reveals-govinda-inspired-him-to-become-an-actor-recalls-aankhen-trailer-frenzy-and-laal-dupatte-wali-craze-main-actor-bana-govinda-ki-wajah-se/articleshow/133834572.cms",
-    "time": "2026-09-06T11:00:33.000Z"
   },
   {
     "cat": "Business",
@@ -360,24 +477,6 @@ const newsData_en = [
     "time": "2026-09-06T10:37:43.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Rashmika Mandanna says she is proud of ‘Epic’ director Aditya Haasan",
-    "desc": "At the pre-release event for her brother-in-law's film, Rashmika Mandanna shared her enthusiasm for director Aditya Haasan's debut project. She praised the romantic-comedy trailer, which echoed the charm of beloved Korean dramas. Additionally, she lauded the well-crafted character of Vaishnavi Chaitanya. 'Epic - First Semester' is scheduled to hit theaters on September 11.",
-    "img": "https://static.toiimg.com/photo/msid-133833220,imgsize-1214138.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/rashmika-mandanna-says-she-is-proud-of-epic-director-aditya-haasan-praises-his-90s-success-you-have-a-huge-responsibility-all-the-best-to-you/articleshow/133833135.cms",
-    "time": "2026-09-06T10:07:29.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Anubhav hails Mirzapur and Hanuman Ansh as 'not freak hits'",
-    "desc": "Filmmaker Anubhav Sinha praised the box office success of Mirzapur - The Movie and Hanuman Ansh, calling them \"not freak hits.\" While Mirzapur opened at Rs 25.75 crore, low-budget Hanuman Ansh earned Rs 99.38 crore despite a modest start. Sinha believes the numbers reflect what audiences genuinely want to watch.",
-    "img": "https://static.toiimg.com/photo/msid-133833133,imgsize-160666.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anubhav-sinha-hails-mirzapur-the-movie-and-hanuman-ansh-as-not-freak-hits-the-box-office-is-telling-us-all-a-story-if-we-watch-carefully/articleshow/133833090.cms",
-    "time": "2026-09-06T10:03:23.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Max Verstappen’s Monza story: From fastest lap in F1 history to P5 start at 2026",
     "desc": "In an explosive display of speed, Max Verstappen shattered two Formula 1 records at Monza in 2025. With an average of 264.682 km/h, he clocked the fastest qualifying lap in history, while the 2025 Italian Grand Prix itself marked a record for the quickest race ever. Despite this success, Verstappen's performance saw him qualifying fifth for the upcoming 2026 Italian Grand Prix.",
@@ -396,15 +495,6 @@ const newsData_en = [
     "time": "2026-09-06T09:49:11.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "'The Gentlemen Season 2': Meet the New characters added in Eddie’s criminal world",
-    "desc": "In the gripping second season, Theo James' Eddie Horniman delves further into the treacherous criminal underworld. Audiences will encounter new aristocrats and gangsters, each adding complexity to the criminal empire's story. Kaya Scodelario's Susie Glass is in a precarious position, navigating a landscape filled with fresh threats and potential allies. The cast also introduces several new faces, as the series examines Eddie's transformation from aristocrat to crime czar.",
-    "img": "https://static.toiimg.com/photo/msid-133831860,imgsize-236554.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-gentlemen-season-2-meet-the-new-characters-who-joined-the-series-hugh-bonneville-to-maya-jama/articleshow/133831763.cms",
-    "time": "2026-09-06T09:31:48.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Onion prices still make eyes water despite Centre's Rs 35/kg buffer sale",
     "desc": "In a move to curb soaring onion prices, the government is implementing subsidized sales, dispersing around four thousand tonnes of onions to seventeen cities. With fresh kharif onion arrivals anticipated from mid-October, the supply situation is set to improve, although the recent rabi crop suffered from unexpected rains, complicating storage. This initiative aims to alleviate the financial burden on consumers struggling with high prices.",
@@ -414,42 +504,6 @@ const newsData_en = [
     "time": "2026-09-06T09:20:32.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Arun Matheswaran reveals his surprising take on violence in 'DC'",
-    "desc": "Filmmaker Arun Matheswaran explained his choice for a straightforward narrative in 'DC', attributing it to his wife's insightful guidance. He emphasized the importance of swift transitions and reducing prolonged silences in the storytelling process. This creative decision led to the film's impressive box office performance and subsequent availability on OTT platforms. Additionally, Matheswaran candidly expressed his discomfort with portrayals of real-life violence in cinema.",
-    "img": "https://static.toiimg.com/photo/msid-133831888,imgsize-141452.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/im-allergic-to-blood-arun-matheswaran-reveals-his-surprising-take-on-violence-in-lokesh-kanagaraj-and-wamiqa-gabbi-starrer-dc/articleshow/133831878.cms",
-    "time": "2026-09-06T09:17:14.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Shriya urges cultural context",
-    "desc": "Shriya Pilgaonkar defended understanding historical context after Swara Bhaskar reiterated her criticism of Padmaavat's jauhar scene, saying it made her feel \"reduced to her vagina.\" Pilgaonkar argued it's unfair to judge past eras by today's values. Co-writer Prakash Kapadia said the film reflected historical reality based on research.",
-    "img": "https://static.toiimg.com/photo/msid-133832082,imgsize-144043.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mirzapur-the-movie-actress-shriya-pilgaonkar-reacts-to-swara-bhaskars-padmaavat-jauhar-comment-its-very-easy-for-us-to-judge-another-context-of-another-time/articleshow/133832048.cms",
-    "time": "2026-09-06T09:16:06.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vishnuvardhan reveals why he missed ‘Billa 2’ with Ajith Kumar",
-    "desc": "Filmmaker Vishnuvardhan faced a challenging crossroads in his career, choosing between two prominent projects. Ultimately, he prioritized his prior commitment to Pawan Kalyan's 'Panjaa' and had to step back from directing Ajith's 'Billa 2' due to a scheduling clash. This decision reflects his strong professional ethics and marks a pivotal moment in his filmmaking journey.",
-    "img": "https://static.toiimg.com/photo/msid-133831864,imgsize-136474.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vishnuvardhan-reveals-why-he-missed-billa-2-with-ajith-kumar-i-committed-to-pawan-sir-first/articleshow/133831851.cms",
-    "time": "2026-09-06T09:15:09.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "AICWA urges CM Devendra Fadnavis to make ‘Hanuman Ansh’ tax-free in Maharashtra",
-    "desc": "The All Indian Cine Workers Association has made a formal appeal for tax relief concerning the film 'Hanuman Ansh' in Maharashtra. Having garnered impressive box office earnings close to one hundred crore rupees, the association referenced Uttarakhand's successful move to exempt the film from taxes. They are advocating for the Maharashtra government to consider similar incentives for audiences, potentially reducing ticket prices.",
-    "img": "https://static.toiimg.com/photo/msid-133835155,imgsize-951717.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hanuman-ansh-enters-rs-100-crore-club-in-india-as-aicwa-urges-cm-devendra-fadnavis-to-make-vishal-chaturvedi-directed-biopic-on-neem-karoli-baba-tax-free/articleshow/133831836.cms",
-    "time": "2026-09-06T09:06:11.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Tilak Varma’s intense exchange with Vaibhav Sooryavanshi in Duleep Trophy final",
     "desc": "South Zone captain Tilak Varma spoke to Vaibhav Sooryavanshi during the Duleep Trophy final. The 15-year-old batter showed aggression against experienced bowlers like Mohammed Siraj. Sooryavanshi reached a promising start but missed another century, falling for 44. He had also missed a century in the semi-final, scoring 92. East Zone aims for a long-awaited Duleep Trophy title against South Zone.",
@@ -457,15 +511,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/watch-tilak-varmas-intense-exchange-with-vaibhav-sooryavanshi-in-duleep-trophy-final/articleshow/133831210.cms",
     "time": "2026-09-06T08:45:57.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "singer praises husband’s shared chores",
-    "desc": "Shreya Ghoshal calls herself \"lucky\" to have husband Shiladitya Mukhopadhyaya, who manages household chores independently despite her demanding career. On The Male Feminist Podcast, she shared he never questions her absence during work trips. Childhood friends for decades, the couple married in 2015 and welcomed son Devyaan in 2021.",
-    "img": "https://static.toiimg.com/photo/msid-133830901,imgsize-274120.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/shreya-ghoshal-reveals-husband-shiladitya-mukhopadhyaya-never-questioned-her-long-absences-handles-household-chores-without-expecting-her-he-does-not-have-ego-hassles/articleshow/133830871.cms",
-    "time": "2026-09-06T08:24:06.000Z"
   },
   {
     "cat": "Business",
@@ -495,15 +540,6 @@ const newsData_en = [
     "time": "2026-09-06T07:55:41.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "1 ball, 8 runs: How Andrew Symonds pulled off one of cricket’s rarest feats",
-    "desc": "In an extraordinary cricket moment, Andrew Symonds managed to score eight runs from a single ball during a 2008 Test matchup with New Zealand. This bizarre achievement happened when Symonds pulled the ball and capitalized on multiple overthrows by the New Zealand players. This instance stands out as one of the sport's rare scoring marvels, with few recorded cases of similar occurrences.",
-    "img": "https://static.toiimg.com/photo/msid-133830047,imgsize-782826.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/eight-runs-from-one-ball-andrew-symonds-produced-one-of-test-crickets-strangest-feats-but-it-still-wasnt-the-highest-ever/articleshow/133829611.cms",
-    "time": "2026-09-06T07:48:01.000Z"
-  },
-  {
     "cat": "World",
     "title": "Why is BRICS exploring cross-border payments? |Explained",
     "desc": "How do cross-border payments work? What are the instructions between banks and costs involved in each step? How have transaction times reduced? Why does BRICS want to change the system? What alternatives are being explored? What does India propose?",
@@ -520,15 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/fatima-sanas-fiery-shafali-verma-send-off-draws-savage-response-your-entire-team-just-scored-55/articleshow/133829162.cms",
     "time": "2026-09-06T07:10:34.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "4, 6, 4! Sooryavanshi takes on Mohammed Siraj in Duleep Trophy final",
-    "desc": "Opening the innings alongside Abhimanyu Easwaran, Sooryavanshi gave East Zone a fiery start in the first session. The pair continued the good partnership they had built during the knockout matches and helped their team settle quickly.",
-    "img": "https://static.toiimg.com/photo/msid-133828057,imgsize-75084.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/4-6-4-vaibhav-sooryavanshi-takes-on-mohammed-siraj-lights-up-chepauk-in-duleep-trophy-final-watch/articleshow/133827899.cms",
-    "time": "2026-09-06T06:18:52.000Z"
   },
   {
     "cat": "World",
@@ -565,15 +592,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/europe-is-moving-its-gold-out-of-america-where-is-it-headed/articleshow/133824849.cms",
     "time": "2026-09-06T04:02:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Like his chess, not personality': Russian GM on Niemann's 'FIDE must punish' remarks",
-    "desc": "Ian Nepomniachtchi has praised Hans Niemann as a “very good and formidable player” but said he does not like the American’s personality. In an exclusive interview with TimesofIndia.com, the Russian grandmaster reacted to Niemann’s recent call for FIDE to punish players over public accusations, saying the American “can’t stop playing the victim card” and comparing his image to Conor McGregor’s.",
-    "img": "https://static.toiimg.com/photo/msid-133824362,imgsize-141750.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/chess/really-like-his-chess-not-his-personality-russia-no-1-nepo-on-hans-niemanns-fide-must-punish-remarks-exclusive/articleshow/133824104.cms",
-    "time": "2026-09-06T03:31:59.000Z"
   },
   {
     "cat": "Sports",
@@ -783,15 +801,6 @@ const newsData_en = [
     "time": "2026-09-05T03:21:07.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Inside Madhuri Dixit’s 5,500 sq ft Mumbai home with M.F. Husain art",
-    "desc": "On the 53rd floor of her Mumbai apartment, Madhuri Dixit moves with the same composed grace that has defined decades of her on-screen persona. From Mohini in 'Tezaab' to Nisha in 'Hum Aapke Hain Koun..!,' audiences have seen her in countless memorable avatars, but her home offers a glimpse into a quieter, more personal side of the actress. Madhuri Dixit and Dr Shriram Nene's sea-facing Mumbai apartment blends minimalist architecture with the vibrant art of M.F. Husain, who painted several works exclusively for the actress, alongside a home built around music, technology and family.",
-    "img": "https://static.toiimg.com/photo/msid-133707105,imgsize-153632.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/inside-madhuri-dixits-luxurious-mumbai-5500-sq-ft-home-where-m-f-husains-art-meets-smart-technology-music-room-arabian-sea-views-and-minimalist-elegance/articleshow/133706682.cms",
-    "time": "2026-09-05T00:16:26.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "I have a choice to live with gratitude or anger; I choose gratitude: Shannon Rowbury",
     "desc": "The former middle-distance runner will have waited 16 years by the time she receives her Olympic bronze at LA28. She talks about competing in an era when many of her competitors were doping, her emotions when she heard she would finally get justice, her passion to advocate for clean sport and the switch from athlete to commentator",
@@ -817,15 +826,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Industry/coal-stock-management-emerges-as-key-challenge-for-thermal-power-producers/article71369117.ece",
     "time": "2026-09-04T17:49:52.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "More than a week after Nepal’s deadliest flood disaster in years, here’s what we know so far",
-    "desc": "More than a week after catastrophic floods struck Nepal, rescue teams continue searching for the missing as authorities assess the scale of destruction. Here’s a look at what caused the disaster, the latest casualty figures, and the ongoing relief and recovery efforts.",
-    "img": "https://th-i.thgim.com/public/incoming/vzqs2z/article71429682.ece/alternates/LANDSCAPE_1200/TH%20EXPLAIN%202.png",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/videos/more-than-a-week-after-nepals-deadliest-flood-disaster-in-years-heres-what-we-know-so-far/article71429685.ece",
-    "time": "2026-09-04T17:22:01.000Z"
   },
   {
     "cat": "Business",
