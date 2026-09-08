@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "'I want to prove a point': Cole Palmer raring to go for Chelsea once more after lengthy injury layoff",
+    "desc": "The Premier League 2026-27 season has got off to a good start for Chelsea FC. Having played three games in the season, Chelsea have managed to register two wins and registered their first loss against...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/i-want-to-prove-a-point-cole-palmer-raring-to-go-for-chelsea-once-more-after-lengthy-injury-layoff-2026-09-08-1053681",
+    "time": "2026-09-08T13:37:22.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Naman Dhir scripts history, smashes 173 runs in 64 deliveries in Sher-e-Punjab T20 League",
     "desc": "The Sher-e-Punjab League 2026 has seen several brilliant performances in the season so far. However, none of them have made a mark as hard as the knock of Naman Dhir. In the 18th game of...",
     "img": "",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/fatima-sana-found-in-breach-of-icc-s-code-of-conduct-handed-demerit-point-after-india-clash-check-details-2026-09-07-1053572",
     "time": "2026-09-07T11:26:08.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Kevin Pietersen named specialist mentor for England's white-ball team ahead of ODI World Cup 2027",
-    "desc": "In a major development, former England cricketer Kevin Pietersen has been named the specialist mentor for England’s white-ball side ahead of the upcoming edition of the ODI World Cup 2027. It is worth noting that...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/kevin-pietersen-named-specialist-mentor-for-england-s-white-ball-team-ahead-of-odi-world-cup-2027-2026-09-07-1053565",
-    "time": "2026-09-07T10:33:58.000Z"
   }
 ];

@@ -1,5 +1,23 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "બ્રિટનમાં અચાનક થંભી હવાઈ સેવા, 300થી વધુ ફ્લાઇટ્સ રદ, જાણો શું છે કારણ",
+    "desc": "ફ્લાઇટ ટ્રેકિંગ વેબસાઇટ Flightradar24 અનુસાર, બ્રિટનમાં મંગળવારે એર ટ્રાફિક કંટ્રોલમાં ટેકનિકલ ખામીને કારણે આશરે 300 ફ્લાઇટ્સ રદ કરવામાં આવી હતી. આના કારણે હીથ્રો, ગેટવિક, માન્ચેસ્ટર અને સ્ટેન્સ્ટેડ એરપોર્ટ પર સેંકડો ફ્લાઇટ્સ રદ કરવી પડી હતી, જ્યારે અન્યમાં વિલંબ થયો હતો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/air-service-disrupted-in-uk-more-than-300-flights-canceled-know-the-reason-490547 ",
+    "time": "2026-09-08T17:16:31.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "કુદરતનો મહાવિનાશ! રશિયામાં બરફનું તાંડવ, તો જાપાનમાં વાવાઝોડાનો કહેર",
+    "desc": "દુનિયાના અલગ-અલગ ભાગોમાં કુદરતનો મહાવિનાશ જોવા મળી રહ્યો છે. રશિયાના ઉત્તરી વિસ્તારમાં એક ભયાનક બરફીલા તૂફાનો તાંડવ કર્યુ છે. તો બીજી તરફ જાપાનમાં શક્તિશાળી વાવાઝોડાએ ભારે તબાહી મચાવી છે, ત્યારે રશિયાથી લઈને જાપાન સુધી કુદરતનો પ્રકોપ કેવો છે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/russia-to-japan-deadly-avalanche-and-powerful-storms-trigger-massive-destruction-490544 ",
+    "time": "2026-09-08T15:52:34.000Z"
+  },
+  {
     "cat": "Business",
     "title": "મારવાડી ભાઈઓનો દુનિયામાં ડંકો! એક ઇન્ડોનેશિયાનો સૌથી ધનિક, બીજો થાઈલેન્ડનો અબજોપતિ",
     "desc": "બેન્કોકમાં બેસીને 14 અબજ ડોલરનું વૈશ્વિક બિઝનેસ સામ્રાજ્ય ઊભું કરનાર આલોક લોહિયાને ભારતમાં બહુ ઓછા લોકો જાણતા હશે, પરંતુ દુનિયાની દર 5મી પાણીની બોટલ અને તમારા વોશબેસિન પર રાખેલી ટૂથપેસ્ટની ટ્યુબ બનાવનાર આ અબજોપતિ ભારતીય મૂળના બિઝનેસમેન છે અને Indorama Venturesના ગ્રુપ CEO છે. ત્યારે આ લેખમાં તેમની સફળતાની કહાની વિશે જાણીશું.",
@@ -351,15 +369,6 @@ const newsData_gu = [
     "time": "2026-09-04T11:10:45.000Z"
   },
   {
-    "cat": "Business",
-    "title": "દિગ્ગજ રોકાણકારોનો મોટો ખેલ! સોનાના ભાવ ફરી આકાશે આંબશે? જાણો આજનો લેટેસ્ટ રેટ",
-    "desc": "રિપોર્ટ મુજબ વર્ષના અંત સુધીમાં સોનું ફરીથી 5000 ડોલર પ્રતિ ઔંસના ભાવે જઈ શકે છે. એપ્રિલ જૂન વચ્ચે 289 ટન સોનાની શુદ્ધ ખરીદી થઈ જે કોઈ પણ બીજા ત્રિમાસિક માટે સૌથી વધુ છે. કેટલાક દિગ્ગજ રોકાણકારોએ સોનામાં ખરીદી વધારી છે. આ ઉપરાંત આજે પણ સોના અને ચાંદીમાં ભાવમાં વધારો જોવા મળ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/will-gold-prices-skyrocket-again-big-investors-gold-purchase-check-latest-gold-rate-490075 ",
-    "time": "2026-09-04T10:15:04.000Z"
-  },
-  {
     "cat": "World",
     "title": "નેપાળમાં ભયાનક ત્રાસદી વચ્ચે પણ જોવા મળ્યો &amp;#039;ચમત્કાર&amp;#039;, 9 દિવસ બાદ ટનલમાંથી જીવતા નીકળ્યા 2 વ્યક્તિ",
     "desc": "નેપાળમાં ભયાનક જળપ્રલયથી 1200થી વધુ લોકોના જીવ ગયા અને 4000થી વધુ લોકો હજુ પણ ગૂમ છે. પરંતુ આ ત્રાસદી વચ્ચે પણ કુદરતનો કરિશ્મા જોવા મળ્યો છે. જળપ્રલયના 9 દિવસ બાદ ટનલમાંથી બે માણસો જીવતા બહાર કાઢવામાં આવ્યા છે.",
@@ -367,15 +376,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/big-news-two-people-rescued-from-hydro-project-tunnel-in-nepal-490057 ",
     "time": "2026-09-04T06:56:10.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "વળી પાછા વધશે પેટ્રોલ-ડીઝલના ભાવ? મિડલ ઈસ્ટમાં તણાવને પગલે ક્રૂડ ઓઈલના ભાવમાં ઉછાળો",
-    "desc": "મિડલ ઈસ્ટમાં અમેરિકા અને ઈરાન વચ્ચે વધતો તણાવ અને ઈઝરાયેલની ધમકીઓ વચ્ચે ક્રૂડ ઓઈલ ઉછળ્યું છે. જો કે પુતિનના નિવેદને થોડી રાહત જરૂર આપી છે. આ બધા વચ્ચે આજે પેટ્રોલ અને ડીઝલના શું ભાવ છે તે ખાસ જાણો.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/crude-oil-rate-up-iran-us-war-russia-ukraine-peace-deal-check-today-petrol-diesel-rate-490053 ",
-    "time": "2026-09-04T05:51:41.000Z"
   },
   {
     "cat": "Entertainment",
@@ -522,15 +522,6 @@ const newsData_gu = [
     "time": "2026-09-02T14:28:29.000Z"
   },
   {
-    "cat": "World",
-    "title": "મહાવાવાઝોડું EP-95: તોળાઈ રહ્યો છે પ્રલયનો ખતરો, પ્રશાંત મહાસાગરમાં બની રહ્યું છે વિનાશક વંટોળ, કરોડો લોકોના ધબકારા વધારશે",
-    "desc": "પ્રશાંત મહાસાગરના દરિયાના ઊંડાણમાં એક એવું વાવાઝોડું આકાર લઈ રહ્યું છે, જે અમેરિકા અને મેક્સિકોમાં ભારે તબાહી લાવશે. હવામાન વિજ્ઞાનીઓઓનો તો ત્યાં સુધી દાવો છે કે આગામી 48 કલાક દુનિયાના સૌથી શક્તિશાળી દેશ અમેરિકા અને તેના પડોશી મેક્સિકો માટે અત્યંત ભારે સાબિત થવાના છે. ત્યારે EP95 નામનું ખતરનાક વાવાઝોડુ અમેરિકા અને મેક્સિકોને કેવી રીતે ઘમરોળશે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/super-cyclone-ep-95-looming-threat-of-devastation-for-america-and-mexico-as-violent-storm-brews-in-the-pacific-489885 ",
-    "time": "2026-09-02T12:09:27.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "અફઘાનિસ્તાન સામેની T20 સિરીઝ પહેલા ટીમ ઈન્ડિયાનું વધ્યું ટેન્શન ! બુમરાહ સહિત આ 4 ખેલાડીઓ થઈ શકે છે બહાર",
     "desc": "અફઘાનિસ્તાન સામેની ત્રણ મેચની T20 શ્રેણી માટે ટીમ ઈન્ડિયાની જાહેરાત કરવામાં આવી છે. જોકે, શ્રેણી શરૂ થાય તે પહેલાં ભારતીય ટીમ એક મોટી સમસ્યાનો સામનો કરી રહી છે, ટીમમાં સમાવિષ્ટ 4 ખેલાડીઓ આખી શ્રેણીમાંથી બહાર થઈ શકે છે.",
@@ -538,15 +529,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/team-india-these-4-players-miss-out-ind-vs-afg-t20-series-due-to-fitness-concern-489884 ",
     "time": "2026-09-02T12:06:47.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "પત્નીના લફરાના પુરાવા ભેગા કરવા પતિને ભારે પડ્યા, જેલની સજા અને દંડ બને થયા, ચોંકાવનારી વિગતો",
-    "desc": "પત્નીનું કોઈ અન્ય પુરુષ સાથે લફરું હોવાનો પતિને શક ગયો અને પતિએ તે માટે પુરાવા ભેગા કરવા પત્નીની પળોને કેમેરામાં કેદ કરી જેના કારણે પતિ કેસ તો જીતી ગયો પરંતુ કોકડું ત્યાં ગૂચવાયું કે પત્નીએ પ્રાઈવસી ભંગનો કેસ કરી નાખ્યો. આ સમાચાર ઈન્ટરનેટ પર ખુબ વાયરલ થયા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/taiwan-news-husband-jailed-for-using-robot-vacume-to-secretly-record-wife-private-moments-489881 ",
-    "time": "2026-09-02T11:19:18.000Z"
   },
   {
     "cat": "Entertainment",
@@ -574,15 +556,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/darshan-jariwala-said-apara-mehta-playing-victim-card-reveal-truth-about-separation-and-not-having-divorce-489760 ",
     "time": "2026-09-02T02:41:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "બદલાઈ ગઈ ભારતની T20 ટીમ, અફઘાનિસ્તાન સામે આ 8 ખેલાડીઓને પડતા મુકાયા",
-    "desc": "અફઘાનિસ્તાન સામેની ટી20 સિરીઝ માટે સંજુ સેમસનની ભારતીય ટીમમાં વાપસી થઈ છે. તો ઝિમ્બાબ્વે પ્રવાસનો ભાગ રહેલા રિંકુ સિંહ 8 ખેલાડીઓને બહાર કરવામાં આવ્યા છે. ત્યારે આ 8 ખેલાડી કયા છે, તેના વિશે આ લેખમાં જાણીશું.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/india-vs-afghanistan-t20-series-8-players-including-rinku-singh-dropped-489715 ",
-    "time": "2026-09-01T13:24:16.000Z"
   },
   {
     "cat": "Entertainment",
