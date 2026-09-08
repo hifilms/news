@@ -1,5 +1,104 @@
 const newsData_en = [
   {
+    "cat": "World",
+    "title": "Iran to target oil tankers in Kuwait and Bahrain in response to U.S. attack, IRGC says",
+    "desc": "Iranian media says U.S. missile struck Iranian tanker off Kharg Island; the chief of staff of the Iranian Armed Forces, Ali Abdollahi, on Tuesday, September 8, warned Tehran would attack U.S. bases in the region if Iranian oil tankers were hit",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-iran-war-live-updates-iran-us-explosions-heard-on-irans-kharg-island-september-9-2026/article71444513.ece",
+    "time": "2026-09-08T22:39:11.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Virat-Anushka spotted in London with son Akaay",
+    "desc": "Recently, Virat Kohli and Anushka Sharma were spotted enjoying a casual day in London, where they were photographed outside their son Akaay's nursery. Anushka seemed uneasy with the media attention during their family outing. The couple values their children's privacy and has been taking steps to maintain a low profile. Moreover, they have been visiting ashrams for spiritual enlightenment during this period.",
+    "img": "https://static.toiimg.com/photo/msid-133945164,imgsize-466563.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/virat-kohli-and-anushka-sharma-spotted-on-day-out-in-london-with-son-akaay-pics/articleshow/133942585.cms",
+    "time": "2026-09-08T22:26:21.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Messi eyes second Spanish club takeover, agrees 100% Eldense buyout",
+    "desc": "Lionel Messi is reportedly set to buy 100% of Spanish second-tier club Eldense, expanding his growing football ownership portfolio after acquiring Cornellà earlier this year. The 39-year-old has agreed a deal in principle, with due diligence and Spanish sports authorities’ approval still required before completion. The takeover would give Messi direct control of a professional Spanish football club.",
+    "img": "https://static.toiimg.com/photo/msid-133942518,imgsize-115352.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/lionel-messi-set-to-buy-second-spanish-club-agrees-100-ownership-of-laliga-2-side-cd-eldense-report/articleshow/133941882.cms",
+    "time": "2026-09-08T21:48:26.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Yamal sets Ballon d’Or record: Teen earns historic third nomination before 20",
+    "desc": "Lamine Yamal has made Ballon d’Or history by becoming the first player to earn three nominations before turning 20. The Barcelona star, nominated in 2024, 2025 and 2026, finished eighth before rising to second last year. His latest recognition follows another outstanding season, including La Liga success with Barcelona and a World Cup triumph with Spain.",
+    "img": "https://static.toiimg.com/photo/msid-133941560,imgsize-93820.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/lamine-yamal-scripts-ballon-dor-history-becomes-first-player-to-be-nominated-three-times-before-turning-20/articleshow/133941325.cms",
+    "time": "2026-09-08T21:12:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Liverpool to replace Standard Chartered with Turkish Airlines in £300m+ shirt deal",
+    "desc": "Liverpool have agreed a reported £300million-plus, five-year sponsorship deal with Turkish Airlines, replacing Standard Chartered as the club’s principal and front-of-shirt partner from 2027. The deal, reportedly worth more than £60million annually, ends Standard Chartered’s 17-year shirt sponsorship. Turkish Airlines branding will feature on Liverpool’s men’s, women’s and academy shirts, making it one of the Premier League’s biggest sponsorship agreements.",
+    "img": "https://static.toiimg.com/photo/msid-133941226,imgsize-90378.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/liverpool-to-replace-standard-chartered-with-turkish-airlines-in-one-of-premier-leagues-most-lucrative-300m-sponsorship-deals/articleshow/133940976.cms",
+    "time": "2026-09-08T20:36:04.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Meta launches Muse, AI agent that can access other apps to send emails, make payments",
+    "desc": "Muse launches in U.S. via dedicated app and WhatsApp, Meta says; users can connect Muse to apps including email, calendar, payments, health and smart home; internal tests showed the product stalling and unauthorised uploads of sensitive data, Reuters found",
+    "img": "https://th-i.thgim.com/public/incoming/ar5t2p/article71444518.ece/alternates/LANDSCAPE_1200/2026-07-30T102037Z_788531491_RC2JHMA1Y0NJ_RTRMADP_3_USA-TECH-AI.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/meta-launches-muse-ai-agent-that-can-access-other-apps-to-send-emails-make-payments/article71444514.ece",
+    "time": "2026-09-08T20:20:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "showers from September 12 after a near 60% deficit",
+    "desc": "State is 59% short of normal rain this year, every district is in deficit and the water table has sunk three metres in a year; IMD expects a low-pressure system over the Bay of Bengal to bring showers from September 12 to 15",
+    "img": "https://th-i.thgim.com/public/incoming/lvmcec/article71444127.ece/alternates/LANDSCAPE_1200/vjkvg-summer%204.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/relief-from-heat-for-andhra-pradesh-likely-as-low-pressure-brews-over-bay-of-bengal/article71443507.ece",
+    "time": "2026-09-08T19:41:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Protesters seek recruitment notification for 72,000 vacancies in Karnataka",
+    "desc": "The All India Democratic Youth Organisation (AIDYO) and the Job Aspirants’ Struggle Committee (JASC) staged a protest in front of Dharwad Deputy Commissioner’s office in Dharwad on Tuesday, urging the State government to immediately issue recruitment notifications for the 72,000 posts it had announced and complete the recruitment process within six months.",
+    "img": "https://th-i.thgim.com/public/incoming/ukcisj/article71443684.ece/alternates/LANDSCAPE_1200/2699_8_9_2026_17_34_17_1_09HUBIJOBPROTEST.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/protesters-seek-recruitment-notification-for-72000-vacancies-in-karnataka/article71442643.ece",
+    "time": "2026-09-08T19:16:25.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Adopt a welfare-oriented approach, Fisheries department told",
+    "desc": "Speaking at a district-level review meeting of the Fisheries and Harbour Engineering departments at Ponnani, Fisheries Minister V.E. Abdul Gafoor said steps would be taken to fill vacancies in key posts and improve the department’s functioning in Malappuram.",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/cy76hz/article71443700.ece/alternates/LANDSCAPE_1200/Fish.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/adopt-a-welfare-oriented-approach-fisheries-department-told/article71443678.ece",
+    "time": "2026-09-08T18:45:50.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Police serve UP student show-cause notice, revoke it the next day",
+    "desc": "While the Greater Noida police officials confirmed that the notice which had asked the 20-year-old student Akshat Tripathi to furnish a bond of five lakh rupees was revoked the next day, Mr. Tripathi said that he has received no such information in writing",
+    "img": "https://th-i.thgim.com/public/incoming/9ydjvd/article71442109.ece/alternates/LANDSCAPE_1200/2026-08-20T130332Z_132401245_RC2WKMA560DQ_RTRMADP_3_INDIA-POLITICS-COURT.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Delhi/jantar-mantar-protest-noida-student-gets-notice-later-revoked/article71442087.ece",
+    "time": "2026-09-08T18:38:27.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Lokayukta inspects Sankey Tank after residents flag falling water level",
+    "desc": "Lokayukta Chief Engineer B.V. Ramesh and Superintendent of Police Matesh Jidi inspected the lake along with engineers from the Central City Corporation and Bangalore Water Supply and Sewerage Board (BWSSB), as well as members of the Voice of Sadashivanagar",
+    "img": "https://th-i.thgim.com/public/incoming/gs7dwx/article71444372.ece/alternates/LANDSCAPE_1200/DSC_7691.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/karnataka/lokayukta-inspects-sankey-tank-after-residents-flag-falling-water-level/article71444268.ece",
+    "time": "2026-09-08T17:56:35.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "NCPCR summons Meta India head over alleged child abuse ads",
     "desc": "The NCPCR has summoned Meta India's managing director regarding ads linked to child exploitation. This action follows a BBC Eye report and a formal inquiry into Meta's systems. The commission will examine Meta India's role in the advertisements' appearance. The inquiry considers stringent provisions under the Protection of Children from Sexual Offences Act. Meta stated it has zero tolerance for child exploitation and removed many suspicious accounts.",
@@ -72,24 +171,6 @@ const newsData_en = [
     "time": "2026-09-08T16:57:08.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Five accused convicted in 2015 Maoist attack and attempt to murder police personnel case",
-    "desc": "The court sentenced Prabhakar, a Special Zonal Committee Member, and his wife Raje Kange, a Divisional Committee Member, to seven years in prison each, while Ramesh Kumar Kumeti, Shyam Nath Usendi and Chintu Ram Tamrakar were sentenced to five years each",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/chhattisgarh/five-accused-convicted-in-2015-maoist-attack-and-attempt-to-murder-police-personnel-case/article71444147.ece",
-    "time": "2026-09-08T16:49:47.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CPI(M) Keralam State committee ‘unanimously’ passes report on steps to strengthen party: Govindan",
-    "desc": "He says extended State committee meeting in Kozhikode from September 13, 2026 will discuss both the central committee’s review of the election results and the State committee’s report with a view to preparing a practical action plan for course correction",
-    "img": "https://th-i.thgim.com/public/incoming/htj79z/article71444128.ece/alternates/LANDSCAPE_1200/IMG_IMG_govi.3.jpg.jpg_2_2_1_2BGG1BO1.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/cpim-keralam-state-committee-unanimously-passes-report-on-steps-to-strengthen-party-govindan/article71443949.ece",
-    "time": "2026-09-08T16:18:30.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Duleep Trophy final",
     "desc": "The host loses six wickets for 242, with 466 runs still in arrears at the end of day three; only Padikkal and Tilak, who is batting on 56, offer some resistance; Shami and Mukesh scalp two wickets for the visitor",
@@ -97,24 +178,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sport/cricket/duleep-trophy-final-2026-east-zone-south-zone-day-three/article71443124.ece",
     "time": "2026-09-08T16:16:00.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "court gives police three days’ custody of Sadhik Khan",
-    "desc": "The 26-year-old, arrested at Meerut on August 21, stays in police custody till September 10 for questioning on his alleged role in the death of Soujanya’s husband Jagadeeswara Reddy, a case registered on a note she left before her family went into the Godavari",
-    "img": "https://th-i.thgim.com/public/news/national/andhra-pradesh/semc38/article71441740.ece/alternates/LANDSCAPE_1200/Bindu.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/godavari-family-deaths-court-gives-police-three-days-custody-of-sadhik-khan/article71441253.ece",
-    "time": "2026-09-08T16:10:31.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Kannur varsity Registrar removed amid shift in stand in Priya Varghese case",
-    "desc": "The decision to replace the registrar was reportedly brought before the Syndicate as a special agenda item. The post has been entrusted to Finance Officer Sunil Kumar S. He will discharge the duties of the Registrar until further arrangements are made by the university",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/kannur-varsity-registrar-removed-amid-shift-in-stand-in-priya-varghese-case/article71443583.ece",
-    "time": "2026-09-08T16:03:00.000Z"
   },
   {
     "cat": "Business",
@@ -270,15 +333,6 @@ const newsData_en = [
     "time": "2026-09-08T13:40:14.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "India, China hold first high-level military flag talks in Arunachal amid LAC tensions",
-    "desc": "The meeting followed understandings reached during the Special Representatives dialogue between National Security Advisor Ajit Doval and Chinese Foreign Minister Wang Yi. The talks are part of efforts by the two countries to maintain peace along the Line of Actual Control and gradually improve bilateral ties. MEA spokesperson said meeting was held at Wacha on the Indian side on September 6 and at Damai on the Chinese side on September 7.",
-    "img": "https://static.toiimg.com/photo/msid-133927655,imgsize-123450.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/india-china-hold-first-high-level-military-flag-talks-in-arunachal-amid-lac-tensions/articleshow/133927355.cms",
-    "time": "2026-09-08T13:39:45.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Why just Russian oil? US supplies over 50% of India’s LPG imports",
     "desc": "Even as Russia remains India’s largest crude oil supplier, the US has emerged as the biggest LPG exporter for India and the trend is likely to continue despite higher costs if Middle East supplies remain uncertain.",
@@ -304,15 +358,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/nse-ipo-may-open-on-september-18-list-on-september-25-rs-30000-crore-issue-in-sight-report/articleshow/133927368.cms",
     "time": "2026-09-08T13:28:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Why Sachin Pilot may be Congress's best bet in Punjab",
-    "desc": "In a strategic move to mend internal discord, Congress appointed Sachin Pilot to lead efforts in Punjab, following Bhupesh Baghel's ousting due to his inability to unify the Channi and Warring factions. With a wealth of experience from Rajasthan, Pilot faces the challenging task of overcoming anti-incumbency against the ruling AAP government. His triumph here may pave the way for a more significant role back in Rajasthan.",
-    "img": "https://static.toiimg.com/photo/msid-133926701,imgsize-709882.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/channi-vs-warring-why-sachin-pilot-may-be-congresss-best-bet-in-punjab/articleshow/133926189.cms",
-    "time": "2026-09-08T13:21:02.000Z"
   },
   {
     "cat": "Entertainment",
@@ -423,15 +468,6 @@ const newsData_en = [
     "time": "2026-09-08T12:00:36.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "PM Modi holds four-hour review meeting with 20 ministers on governance, welfare",
-    "desc": "Prime Minister Narendra Modi held a four-hour review meeting with ministers. He focused on key government initiatives and their implementation on the ground. Ministers presented progress reports on their respective departmental work. Actionable ideas were sought for a developed India vision by 2047. PM Modi stressed digital engagement and plans more such sessions.",
-    "img": "https://static.toiimg.com/photo/msid-133924226,imgsize-72840.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/pm-modi-holds-four-hour-review-meeting-with-20-ministers-on-governance-welfare/articleshow/133923936.cms",
-    "time": "2026-09-08T11:59:43.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "10 records that chart his rise from prodigy to India captain",
     "desc": "On his 27th birthday, Shubman Gill reflects on a remarkable cricketing journey filled with extraordinary accomplishments. As the fastest Indian to reach 1,000, 2,000, and 3,000 ODI runs, he continues to break barriers. Additionally, Gill is celebrated for his record as the youngest double-century scorer in ODIs and achieving the highest IPL playoff score.",
@@ -484,15 +520,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/why-gujarat-filmmaker-rahul-dholakia-questions-venue-shift-of-72nd-national-film-awards-to-be-held-in-gujarat-instead-of-delhi-on-september-22/articleshow/133921561.cms",
     "time": "2026-09-08T10:59:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "When Aishwarya schooled French journalist over nudity question",
-    "desc": "In a newly surfaced video, Aishwarya Rai adeptly manages an intrusive inquiry from a journalist about nudity in films. She expressed her lack of interest with poise, lightheartedly equating the inquiry to a conversation with her gynecologist. Fans have extensively praised her clever and calm response, reinforcing her stature as a beloved figure in both cinema and the public eye.",
-    "img": "https://static.toiimg.com/photo/msid-133921496,imgsize-388630.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/when-aishwarya-rai-schooled-a-french-journalist-over-nudity-question-with-a-witty-comeback-as-old-video-resurfaces-i-feel-like-i-am-talking-to-my-gynae/articleshow/133921403.cms",
-    "time": "2026-09-08T10:56:49.000Z"
   },
   {
     "cat": "Entertainment",
@@ -595,21 +622,12 @@ const newsData_en = [
   },
   {
     "cat": "Entertainment",
-    "title": "'Mirzapur The Movie' BO Day 5 [LIVE]: Pankaj Tripathi film crosses Rs 116 crore",
+    "title": "'Mirzapur The Movie' grosses Rs 176 crore globally in just 5 days",
     "desc": "‘Mirzapur The Movie’ continues its theatrical run on Day 5 after crossing Rs. 110 crore in India net collections. The Pankaj Tripathi and Ali Fazal starrer has delivered a strong opening weekend, with Day 3 emerging as its biggest day so far. Here is the latest live box office update, domestic and overseas earnings, and the milestones the film can target next.",
     "img": "https://static.toiimg.com/photo/msid-133913136,imgsize-98329.cms",
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mirzapur-the-movie-box-office-collection-day-5-live-pankaj-tripathi-ali-fazal-ravi-kishan-film-eyes-rs-125-crore-next-after-strong-opening-weekend-and-worldwide-haul-hits-rs-154-crore/articleshow/133913080.cms",
     "time": "2026-09-08T06:52:44.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I was disrespected': Ex-Pak coach names 'untouchable' figure behind England mess",
-    "desc": "Gillespie, who was appointed Pakistan's head coach in April 2024 and resigned in December that year, said he was brought in with a clear vision of rebuilding Pakistan's fast-bowling culture. According to him, that plan changed after Javed became the chief selector.",
-    "img": "https://static.toiimg.com/photo/msid-133911564,imgsize-126382.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-was-disrespected-and-undermined-former-pakistan-coach-drops-bombshell-names-untouchable-figure-behind-england-tour-mess/articleshow/133911564.cms",
-    "time": "2026-09-08T06:40:16.000Z"
   },
   {
     "cat": "Business",
@@ -709,15 +727,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/international-business/brent-crude-climbs-beyond-97-as-strait-of-hormuz-disruptions-choke-global-oil-supplies/articleshow/133903159.cms",
     "time": "2026-09-08T01:57:40.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "CWG bronze medalist Seema Kaliramna eyes Olympics push at Asian Games",
-    "desc": "Seema Kaliramna returned to competition 11 months after giving birth to her son Rudra, after dealing with severe arthritis that left her unable to walk 10 metres or pick up her child. With husband and coach Ravinder by her side, she rebuilt her fitness and confidence, moving from 57.19m in 2024 to a 59.73m personal best this year and a Commonwealth Games bronze. Now, the Asian Games offer another step towards the Olympics.",
-    "img": "https://static.toiimg.com/photo/msid-133886772,imgsize-99654.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/after-cwg-bronze-seema-kaliramna-sets-sights-on-another-step-towards-olympics-at-asian-games/articleshow/133886477.cms",
-    "time": "2026-09-08T00:30:00.000Z"
   },
   {
     "cat": "World",
@@ -835,15 +844,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/business/Economy/does-inflation-targeting-work-in-india/article71435164.ece",
     "time": "2026-09-07T04:45:22.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Iran's response to U.S. attacks will be 'more painful', parliament speaker says",
-    "desc": "Iranian Parliament Speaker Mohammad Bagher Ghalibaf warned the U.S. that the “rules of the game” in its war with Iran had changed, saying any further attack on Iranian interests or security would draw a faster and more painful response",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-iran-war-live-updates-donald-trump-strait-of-hormuz-missiles-strikes-west-asia-conflict-september-6-2026/article71434444.ece",
-    "time": "2026-09-06T23:52:38.000Z"
   },
   {
     "cat": "Sports",
