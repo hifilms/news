@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Naman Dhir scripts history, smashes 173 runs in 64 deliveries in Sher-e-Punjab T20 League",
+    "desc": "The Sher-e-Punjab League 2026 has seen several brilliant performances in the season so far. However, none of them have made a mark as hard as the knock of Naman Dhir. In the 18th game of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/naman-dhir-scripts-history-smashes-173-runs-in-64-deliveries-in-sher-e-punjab-t20-league-2026-09-08-1053672",
+    "time": "2026-09-08T12:04:33.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "When and where to watch UEFA Champions League 2026-27 live on TV and stream online in India?",
+    "desc": "The stage is set for the latest edition of the UEFA Champions League 2026-27. The biggest football tournament in Europe returns as some of the biggest sides in world football gear up for the competition. It...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/when-and-where-to-watch-uefa-champions-league-2026-27-ive-on-tv-and-stream-online-in-india-2026-09-08-1053666",
+    "time": "2026-09-08T11:04:51.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'Playing with commitment': Former India cricketer hails Ishan Kishan's mammoth knock in Duleep Trophy final",
+    "desc": "The Duleep Trophy 2026-27 final saw East Zone taking on South Zone. The two sides met at the MA Chidambaram Stadium in Chennai for the clash; the clash began with East Zone coming in to...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/playing-with-commitment-former-india-cricketer-hails-ishan-kishan-s-mammoth-knock-in-duleep-trophy-final-2026-09-08-1053661",
+    "time": "2026-09-08T10:04:44.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Afghanistan set to host Zimbabwe and Bangladesh in ODI tri-series; Check details",
+    "desc": "Afghanistan is all set to take on Zimbabwe and Bangladesh in an ODI tri-series. The ACB (Afghanistan Cricket Board) came forward and announced the series that will be played in the UAE from October 17...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/afghanistan-set-to-host-zimbabwe-and-bangladesh-in-odi-tri-series-check-details-2026-09-08-1053653",
+    "time": "2026-09-08T08:44:03.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'It's a huge honour': Bradley Barcola reflects on his move to Liverpool, opens up on what attracted him",
     "desc": "The Premier League 2026-27 season is well underway, and the sides are putting in their best performances in hopes of getting off to a good start to the season. With the new season, one of...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/kevin-pietersen-named-specialist-mentor-for-england-s-white-ball-team-ahead-of-odi-world-cup-2027-2026-09-07-1053565",
     "time": "2026-09-07T10:33:58.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Carlos Alcaraz paves his way to US Open quarter-final, sets up marquee clash against Ben Shelton",
-    "desc": "The US Open 2026 is approaching its end; some of the best tennis players in the world are putting in their best performances, and at the forefront of it all has been Spanish superstar Carlos...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/tennis/carlos-alcaraz-paves-his-way-to-us-open-quarter-final-sets-up-marquee-clash-against-ben-shelton-2026-09-07-1053558",
-    "time": "2026-09-07T09:11:37.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Ishan Kishan smashes double century as East Zone continue to dominate in Duleep Trophy final",
-    "desc": "The Duleep Trophy 2026 final saw East Zone taking on South Zone. The two sides met at the MA Chidambaram Stadium in Chennai, and the game began with East Zone coming in to bat first...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/ishan-kishan-smashes-double-century-as-east-zone-continues-to-dominate-in-duleep-trophy-final-2026-09-07-1053554",
-    "time": "2026-09-07T08:27:10.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'Bitterly disappointed': Michael Carrick opens up after Everton pull off last minute draw against Man United",
-    "desc": "The Premier League 2026-27 season continued with Manchester United taking on Everton. The two sides met in Liverpool for the clash on September 6, and it ended in a 2-2 draw after Everton pulled off...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/bitterly-disappointed-michael-carrick-opens-up-after-everton-pull-off-last-minute-draw-against-man-united-2026-09-07-1053552",
-    "time": "2026-09-07T07:47:06.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'It needs to hurt': Xabi Alonso reflects on Chelsea's close defeat against champions Arsenal",
-    "desc": "The Premier League 2026-27 season continued with Chelsea taking on defending champions Arsenal. The two sides met at the Emirates Stadium in London on September 6, and it was Arsenal who came out on top....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/it-needs-to-hurt-xabi-alonso-reflects-on-chelsea-s-close-defeat-against-champions-arsenal-2026-09-07-1053545",
-    "time": "2026-09-07T06:54:42.000Z"
   }
 ];

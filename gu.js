@@ -1,6 +1,42 @@
 const newsData_gu = [
   {
     "cat": "Business",
+    "title": "મારવાડી ભાઈઓનો દુનિયામાં ડંકો! એક ઇન્ડોનેશિયાનો સૌથી ધનિક, બીજો થાઈલેન્ડનો અબજોપતિ",
+    "desc": "બેન્કોકમાં બેસીને 14 અબજ ડોલરનું વૈશ્વિક બિઝનેસ સામ્રાજ્ય ઊભું કરનાર આલોક લોહિયાને ભારતમાં બહુ ઓછા લોકો જાણતા હશે, પરંતુ દુનિયાની દર 5મી પાણીની બોટલ અને તમારા વોશબેસિન પર રાખેલી ટૂથપેસ્ટની ટ્યુબ બનાવનાર આ અબજોપતિ ભારતીય મૂળના બિઝનેસમેન છે અને Indorama Venturesના ગ્રુપ CEO છે. ત્યારે આ લેખમાં તેમની સફળતાની કહાની વિશે જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/success-story-of-marwari-brothers-aloke-lohia-indorama-ventures-490524 ",
+    "time": "2026-09-08T12:54:17.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "PM મોદીના મુંબઈ કાર્યક્રમ પહેલા અંબાણી કલ્ચરલ સેન્ટરમાંથી 2 શંકાસ્પદની અટકાયત, PMOની ફેક ID અને બંદૂક મળી આવી",
+    "desc": "પ્રધાનમંત્રી મોદીના મુંબઈ કાર્યક્રમ પહેલા BKC સ્થિત નીતા મુકેશ અંબાણી કલ્ચરલ સેન્ટરમાંથી બે શંકાસ્પદ વ્યક્તિઓની અટકાયત કરવામાં આવી છે. સૂત્રોના જણાવ્યા અનુસાર, તેમાંથી એક પાસેથી બંદૂક મળી આવી હતી, જ્યારે બીજા વ્યક્તિ પાસેથી PMOની ફેક ID મળી આવી હતી.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/india/mumbai-2-suspects-detained-from-ambani-cultural-center-ahead-of-pm-modi-event-490521 ",
+    "time": "2026-09-08T11:49:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "કેએલ રાહુલ છોડશે દિલ્હી કેપિટલ્સ ? ટીમના માલિક પાર્થ જિંદાલની પોસ્ટ પર ખુદ સ્ટાર બેટ્સમેને આપ્યો જવાબ",
+    "desc": "IPL 2027 માટે કેએલ રાહુલ દિલ્હી કેપિટલ્સ છોડશે તેવી અટકળો પર હવે વિરામ લાગી ગયો છે. દિલ્હી કેપિટલ્સના સહ-માલિક પાર્થ જિંદાલે રાહુલને ક્લચ પ્લેયર ગણાવ્યો અને તેની સાથે મળીને અધૂરું રહેલું કામ પૂરું કરવાની વાત કરી. જવાબમાં રાહુલે કહ્યું કે તે આગામી સીઝનની આતુરતાથી રાહ જોઈ રહ્યો છે, જેનાથી સ્પષ્ટ થઈ ગયું છે કે તે દિલ્હી ફ્રેન્ચાઇઝી સાથે રહેશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/delhi-capitals-kl-rahul-trade-rumours-ipl-2027-update-490519 ",
+    "time": "2026-09-08T11:11:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "IND vs AFG T20 સિરીઝ: જિઓ હોટસ્ટાર નહીં, અહીં થશે લાઈવ ટેલિકાસ્ટ; નોંધો તારીખ અને સમય",
+    "desc": "ભારત અને અફઘાનિસ્તાન ટી20 સિરીઝ માટે બ્રોડકાસ્ટરની જાહેરાત થઈ ગઈ છે. બંને ટીમો વચ્ચે 13 સપ્ટેમ્બરથી સિરીઝની શરૂઆત થશે. મેચ દિલ્હીના અરૂણ જેટલી સ્ટેડિયમમાં રમાશે. આ સિરીઝનું લાઈવ પ્રસારણ સોની સ્પોર્ટ્સ નેટવર્ક પર કરવામાં આવશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/ind-vs-afg-t20-series-from-sept-13-where-to-watch-live-telecast-and-streaming-in-india-490509 ",
+    "time": "2026-09-08T09:02:44.000Z"
+  },
+  {
+    "cat": "Business",
     "title": "સોના-ચાંદીમાં ભારે ઉતાર-ચડાવ, હજુ પણ હાઈથી સોનું 22000 અને ચાંદી 1.51 લાખ સસ્તા, જાણો આજનો લેટેસ્ટ રેટ",
     "desc": "સોના અને ચાંદીમાં ભારે ઉતાર ચડાવ જોવા મળી રહ્યો છે. વાયદા બજાર અને રિટેલ બજાર બંનેમાં કિમતી ધાતુઓના ભાવમાં વધારો જોવા મળ્યો છે. જો તમે પણ સોનું કે ચાંદી ખરીદવાનું વિચારતા હોવ તો ફટાફટ રેટ ચેક કરો.",
     "img": "https://via.placeholder.com/600x400?text=News",
@@ -324,15 +360,6 @@ const newsData_gu = [
     "time": "2026-09-04T10:15:04.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Pakistan&amp;#039;s Nightmare: સરહદ પાર કર્યા વિના દુશ્મનને ધૂળ ચટાડવા આવી ગયું ભારતનું &amp;#039;ખગાંતક-243&amp;#039;",
-    "desc": "સરહદ પાર બેઠેલા દુશ્મનોની ઉંઘ હરામ કરવા માટે ભારતીય વાયુસેનાના કાફલામાં વધુ એક મહાઘાતક હથિયાર સામેલ થઈ ગયુ છે. આકાશમાંથી દુશ્મનનો ખાત્મો કરનાર આ સ્વદેશી સ્માર્ટ વેપનની તાકાત એવી છે કે, 180 કિલોમીટર દૂર બેઠેલા દુશ્મનના ઠેકાણાને પળવારમાં ખાક કરી શકે છે. GPS જામ થઈ જાય, ત્યારે પણ તેનું AI દિમાગ દુશ્મને શોધીને સચોટ નિશાન બનાવે છે કેવી રીતે જોઈએ આ ખાસ અહેવાલમાં...",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/pakistan-in-panic-iafs-deadly-khagantak-243-ready-to-obliterate-terror-hubs-across-the-border-490064 ",
-    "time": "2026-09-04T09:02:39.000Z"
-  },
-  {
     "cat": "World",
     "title": "નેપાળમાં ભયાનક ત્રાસદી વચ્ચે પણ જોવા મળ્યો &amp;#039;ચમત્કાર&amp;#039;, 9 દિવસ બાદ ટનલમાંથી જીવતા નીકળ્યા 2 વ્યક્તિ",
     "desc": "નેપાળમાં ભયાનક જળપ્રલયથી 1200થી વધુ લોકોના જીવ ગયા અને 4000થી વધુ લોકો હજુ પણ ગૂમ છે. પરંતુ આ ત્રાસદી વચ્ચે પણ કુદરતનો કરિશ્મા જોવા મળ્યો છે. જળપ્રલયના 9 દિવસ બાદ ટનલમાંથી બે માણસો જીવતા બહાર કાઢવામાં આવ્યા છે.",
@@ -412,15 +439,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/nepal-flash-floods-late-alert-how-warning-system-got-failed-489945 ",
     "time": "2026-09-03T09:51:14.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "હાઈથી સોનું 22000 અને ચાંદી 1.53 લાખ છે સસ્તી, આજે ભાવમાં શું ફેરફાર? ફટાફટ ચેક કરો લેટેસ્ટ રેટ",
-    "desc": "કડાકા બાદ આજે સોના અને ચાંદીમાં તેજીનો માહોલ જોવા મળી રહ્યો છે. સામે છેડે ક્રૂડ ઓઈલમાં કડાકો જોવા મળ્યો છે. આજે વાયદા બજાર અને રિટેલ બજાર બંનેમાં સોનું અને ચાંદી ચમક્યા છે. જો કે ઓલટાઈમ હાઈથી બંને કિમતી ધાતુ હજુ પણ ઘણી સસ્તી વેચાઈ રહી છે. જાણો લેટેસ્ટ રેટ.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-are-still-cheaper-than-all-time-high-check-latest-rate-aaj-no-sona-no-bhav-489937 ",
-    "time": "2026-09-03T07:52:23.000Z"
   },
   {
     "cat": "Entertainment",
@@ -574,15 +592,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/when-cinemas-turned-into-temples-the-phenomenal-success-story-of-jai-santoshi-maa-489705 ",
     "time": "2026-09-01T12:07:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "&amp;#039;યે કેચ નહીં દેખા, તો ક્યા દેખા&amp;#039;... ગ્લેન ફિલિપ્સનો આ અદ્ભુત કેચ જોઈને ચોંકી જશો, જુઓ Video",
-    "desc": "બેટિંગમાં ખાતું પણ ના ખોલાવી શકનાર ગ્લેન ફિલિપ્સે ફરી એકવાર ફિલ્ડિંગમાં કમાલ કર્યો છે. તેણે સુનીલ નારાયણનો એક શાનદાર કેચ પકડીને બધાને ચોંકાવી દીધા હતા, આ ક્ષણ વીડિયોમાં કેદ થઈ હતી, જે હવે સોશિયલ મીડિયા પર વાયરલ થઈ રહી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/cpl-2026-caribbean-premier-league-glenn-phillips-catch-video-489701 ",
-    "time": "2026-09-01T11:18:37.000Z"
   },
   {
     "cat": "Entertainment",
