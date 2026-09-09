@@ -1,12 +1,66 @@
 const newsData_en = [
   {
-    "cat": "Business",
-    "title": "Ferry erupts in flames off Philippines’ Palawan; 5 killed",
-    "desc": "Tragedy struck as the M/V June Aster passenger ferry ignited flames near Coron, Palawan, claiming at least five lives, as confirmed by officials. The Philippine Coast Guard swiftly initiated rescue missions, successfully saving 42 individuals from the inferno. The ill-fated ferry had embarked on its journey from Manila, carrying numerous passengers and crew members.",
-    "img": "https://static.toiimg.com/photo/msid-133979442,imgsize-466518.cms",
+    "cat": "Politics",
+    "title": "Concern grows over structures linked with Muslim community in wake of notices, demolition in Uttar Pradesh",
+    "desc": "The concern comes against the backdrop of the demolition of a century-old mosque inside the Saharanpur Collectorate complex on September 5 and authorities in Moradabad issuing notice recently to the management of the Mustafa Mosque, describing it as an “unauthorised construction”.",
+    "img": "https://th-i.thgim.com/public/incoming/eax7yt/article71449204.ece/alternates/LANDSCAPE_1200/20260907200L.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/concern-grows-over-structures-linked-with-muslim-community-in-wake-of-notices-demolition-in-uttar-pradesh/article71447863.ece",
+    "time": "2026-09-09T22:30:16.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Presenters, nominees, host, date, time revealed",
+    "desc": "The 78th Emmy Awards are set for Monday night with \"The Pitt\" favored for best drama. \"Hacks\" and \"Widow's Bay\" are strong contenders in comedy categories. Many acting awards are expected to go to stars from \"The Pitt\" and \"Pluribus.\" Early ceremonies awarded \"Widow's Bay\" eight Emmys, exceeding expectations. The main event will air live on NBC and stream on Peacock.",
+    "img": "https://static.toiimg.com/photo/msid-133984755,imgsize-361390.cms",
     "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/world/rest-of-world/watch-ferry-erupts-in-flames-off-philippines-palawan-5-killed/articleshow/133979229.cms",
-    "time": "2026-09-09T17:56:04.000Z"
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/78th-emmy-awards-zendaya-florence-pugh-macaulay-culkin-turn-presenters-top-nominess-host-date-time-and-more-details-revealed/articleshow/133983671.cms",
+    "time": "2026-09-09T21:51:28.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "'South Park' creators 'rename' show to 'South America'",
+    "desc": "South Park creators are renaming their show SOUTH AMERICA, adopting a Trump idea. This move satirizes President Trump's renaming of geographical features. Apple and Google maps have also followed these renaming changes. The show's parent company, Paramount, is also referenced in the statement. This action coincides with the show's upcoming season premiere.",
+    "img": "https://static.toiimg.com/photo/msid-133984243,imgsize-271523.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/web-series/news/english/south-park-creators-trey-parker-and-matt-stone-rename-show-to-south-america-in-jab-at-trump/articleshow/133984155.cms",
+    "time": "2026-09-09T21:20:06.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘All parties are treated equally in SC’, CJI says in Rahul Gandhi case",
+    "desc": "The exchange happened during an oral mentioning by Mr. Bhatia to de-tag Mr. Gandhi’s plea against criminal proceedings arising from his alleged remarks concerning the Army and the Chinese attack in the context of the 2020 Galwan border clash",
+    "img": "https://th-i.thgim.com/public/incoming/vj5932/article71449022.ece/alternates/LANDSCAPE_1200/6607_8_9_2026_17_57_35_3_08_09_RAHULGANDHILUCKNOW_J.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/all-parties-are-treated-equally-in-sc-cji-says-in-rahul-gandhi-case/article71448660.ece",
+    "time": "2026-09-09T20:31:06.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Hormuz tensions flare as Iran, U.S. intensify strikes",
+    "desc": "Brent crude futures cross $100/barrel for first time since July 2024 as U.S. attacks Iranian oil tankers and Tehran responds by targeting 20 tankers and other ships trying to pass through the Strait of Hormuz",
+    "img": "https://th-i.thgim.com/public/news/national/p5pl3z/article71445556.ece/alternates/LANDSCAPE_1200/AFP__20260908__C7NU3G3__v1__HighRes__LebanonIsraelIranUsWar.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/international/us-military-says-it-destroyed-five-iranian-oil-tankers-tehran-hits-back-at-american-targets-in-jordan/article71445527.ece",
+    "time": "2026-09-09T20:01:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A-G plays video clips of Tamil Nadu Assembly proceedings before Madras High Court in case against Mekedatu amended resolution",
+    "desc": "Chief Justice Sushrut Arvind Dharmadhikari and Justice G. Arul Murugan watch the request made by the Leader of the Opposition, the Chief Minister’s acceptance of the request and the Speaker’s act of putting the amended resolution to vote",
+    "img": "https://th-i.thgim.com/public/news/national/tamil-nadu/ku6nx/article71448930.ece/alternates/LANDSCAPE_1200/image.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/a-g-plays-video-clips-of-tamil-nadu-assembly-proceedings-before-madras-high-court-in-case-against-mekedatu-amended-resolution/article71446603.ece",
+    "time": "2026-09-09T19:09:32.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Apple 'Surprise and Shine' HIGHLIGHTS: iPhone 18 Pro, iPhone 18 Pro Max, iPhone Duo foldable, AirPods 5, Apple Watch Series 12, and Apple Watch Ultra 4 announced",
+    "desc": "Apple announced the iPhone 18 Pro, iPhone 18 Pro Max, iPhone Duo foldable, AirPods 5, Apple Watch Series 12, and Apple Watch Ultra 4. There were no updates about the iPhone 18 model and the iPhone Air 2",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/apples-surprise-and-shine-iphone-18-series-launch-event-live-updates/article71441260.ece",
+    "time": "2026-09-09T19:04:01.000Z"
   },
   {
     "cat": "Business",
@@ -81,15 +135,6 @@ const newsData_en = [
     "time": "2026-09-09T16:09:43.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Ex-officials say Census data must be confidential amid concerns over potential NPR, NRC links",
-    "desc": "Records show that in 1951, NRC was prepared across the country by 'copying' data from the Census schedules; the countrywide NRC was never published, except in undivided Assam, which at the time also included Manipur and Tripura",
-    "img": "https://th-i.thgim.com/public/incoming/azzn8b/article71448472.ece/alternates/LANDSCAPE_1200/TH03-A-LakshmanG3BGG0A3F.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/ex-officials-say-census-data-must-be-confidential-amid-concerns-over-potential-npr-nrc-links/article71443962.ece",
-    "time": "2026-09-09T15:47:43.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Dolly Parton's sister Stella reveals why she hid cancer battle from family",
     "desc": "Dolly Parton kept her cancer battle private because she did not want her fans or family to worry, sister Stella Parton revealed. The country music icon, who died aged 80, would have been “happy and delighted” by the public outpouring of grief, Stella said, reflecting on Dolly’s final days and compassionate nature.",
@@ -97,15 +142,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dolly-parton-kept-cancer-battle-private-from-family-because-she-did-not-want-people-sad-sister-stella-parton-reveals-says-shed-be-happy-and-delighted-by-public-grief/articleshow/133975032.cms",
     "time": "2026-09-09T15:41:59.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Manthan International School bus goes up in flames; parents demand answers, action",
-    "desc": "Parents urge Sangareddy district officials for an investigation into previous fire incidents and a full-fleet inspection, preservation of forensic evidence, and a safety assessment of fire detection and alarm systems, even in classrooms and other areas",
-    "img": "https://th-i.thgim.com/public/news/cities/Hyderabad/93qd9q/article71446919.ece/alternates/LANDSCAPE_1200/Image%2030.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/manthan-international-school-bus-goes-up-in-flames-parents-demand-answers-action/article71446591.ece",
-    "time": "2026-09-09T15:39:22.000Z"
   },
   {
     "cat": "Politics",
@@ -126,15 +162,6 @@ const newsData_en = [
     "time": "2026-09-09T15:35:57.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "NIA looking into whether Ukrainians, U.S. national were involved in UAPA offences: sources",
-    "desc": "In the charge sheet filed against the accused on Tuesday, NIA had not invoked Unlawful Activities (Prevention) Act (UAPA); however, sources say probe is on to determine whether they were engaged in activities prejudicial to India’s security",
-    "img": "https://th-i.thgim.com/public/todays-paper/tp-national/vziz3n/article71444910.ece/alternates/LANDSCAPE_1200/TH08-Ishita-NIAGLFGGMC33.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/nia-looking-into-whether-ukrainians-us-national-were-involved-in-uapa-offences-sources/article71447911.ece",
-    "time": "2026-09-09T15:29:50.000Z"
-  },
-  {
     "cat": "Business",
     "title": "86-year-old father alleged son forced him out; HC orders son to vacate home",
     "desc": "When an 86-year-old man bought several parcels of land in his youngest son's name and let him stay with him in the family's ancestral house in Odisha, he did not expect their relationship to eventually turn bad.",
@@ -153,24 +180,6 @@ const newsData_en = [
     "time": "2026-09-09T15:27:41.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Centre clears separate engineering cadre for Delhi PWD",
-    "desc": "The Centre has approved the Delhi government's proposal to create a separate engineering cadre for the Public Works Department (PWD), a move expected to give the capital greater control over its engineering workforce and help speed up infrastructure projects.",
-    "img": "https://static.toiimg.com/photo/msid-133974457,imgsize-67820.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/centre-clears-separate-engineering-cadre-for-delhi-pwd/articleshow/133974459.cms",
-    "time": "2026-09-09T15:18:34.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "MCD demolished 34 structures, sealed 17; over 1,200 PG buildings surveyed",
-    "desc": "The Municipal Corporation of Delhi has sealed seventeen properties and conducted thirty-four demolitions. This action follows a building collapse which tragically killed seven occupants. Authorities are now assessing paying guest accommodations for structural safety concerns. Over twelve hundred buildings are being evaluated for potential vulnerabilities and repairs. The civic body aims to complete this crucial survey by September tenth.",
-    "img": "https://static.toiimg.com/photo/msid-133974528,imgsize-141046.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/mcd-demolished-34-structures-sealed-17-over-1200-pg-buildings-surveyed/articleshow/133974458.cms",
-    "time": "2026-09-09T15:18:32.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Scene’ teaser: Suriya’s cop avatar set to clash with ‘Ramayana’ on Deepavali",
     "desc": "Suriya's upcoming cop action drama, now officially titled Scene, has unveiled an intriguing teaser that highlights his distinctive character. Set to hit theaters worldwide on November 6, 2026, this release will align with the festive Deepavali weekend, ensuring a spectacular cinematic experience. Scene will go head-to-head with Ranbir Kapoor's mythological blockbuster, Ramayana, adding to the excitement.",
@@ -178,33 +187,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/suriya47-is-officially-titled-scene-suriya-plays-a-psycho-cop-with-900-criminals-in-his-record-set-to-clash-with-ranbir-kapoor-and-yashs-ramayana/articleshow/133974148.cms",
     "time": "2026-09-09T15:07:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Ajit Bharti moves Delhi high court against trial court order denying anticipatory bail in SC/ST act case",
-    "desc": "The trial court had declined Bharti's plea after holding that the material placed on record prima facie disclosed the ingredients of an offence under Section 3(1)(r) of the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989.",
-    "img": "https://static.toiimg.com/photo/msid-133973573,imgsize-249080.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/ajit-bharti-moves-delhi-high-court-against-trial-court-order-denying-anticipatory-bail-in-sc/st-act-case/articleshow/133973574.cms",
-    "time": "2026-09-09T14:49:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "'Punjab Dalits, remain vigilant': Rahul demands AAP finance min's resignation over Gulzar Singh's suicide",
-    "desc": "Rahul Gandhi has called for the resignation of Punjab minister Harpal Singh Cheema amidst ongoing concerns surrounding the death of Gulzar Singh. The Congress leader emphasized the need for a thorough investigation and cautioned Dalit communities about the potential misuse of power by the AAP government. Family members of Gulzar Singh have accused officials of harassment and making casteist remarks following their inquiries.",
-    "img": "https://static.toiimg.com/photo/msid-133973403,imgsize-70295.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/punjab-dalits-remain-vigilant-rahul-demands-aap-finance-mins-resignation-over-gulzar-singhs-suicide/articleshow/133973253.cms",
-    "time": "2026-09-09T14:42:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Making memes’: P Chidambaram says Gen Z is having last laugh over PM Modi’s ‘naraaz fufa’ jibe",
-    "desc": "Congress leader P Chidambaram proudly embraced the 'Dimagi Naxal' label given by Prime Minister Narendra Modi. He also dismissed the 'Naraaz Fufa' remark as meaningless and lacking substance. Chidambaram noted that these comments have sparked widespread discussion and memes online. Prime Minister Modi had urged identifying and isolating those with an ideological Naxal mindset. The exchange highlights ongoing political sparring between the BJP and Congress parties.",
-    "img": "https://static.toiimg.com/photo/msid-133973283,imgsize-1033509.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/making-memes-p-chidambaram-says-gen-z-is-having-last-laugh-over-pm-modis-naraaz-fufa-jibe/articleshow/133972729.cms",
-    "time": "2026-09-09T14:41:35.000Z"
   },
   {
     "cat": "Entertainment",
@@ -250,15 +232,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hema-malini-praises-hanuman-ansh-says-its-a-superhit-due-to-hanuman-jis-grace-the-girl-who-produced-the-film-doesnt-even-know-filmmaking/articleshow/133970703.cms",
     "time": "2026-09-09T13:25:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Vijay-led TVK alliance gets official name; Mayawati puts condition on nephew's party role &amp; more",
-    "desc": "Vijay has named his new alliance with Congress and other parties the \"Secular Social Justice Victory Alliance\". Mayawati stated Akash Anand can return to party roles if his father-in-law quits politics. Philippines defence chief rebuked China over its rejection of the South China Sea arbitration ruling. The Supreme Court mentioned all are treated equally after a plea for an early hearing.",
-    "img": "https://static.toiimg.com/photo/msid-133971085,imgsize-938516.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-vijay-led-tvk-alliance-gets-official-name-mayawati-puts-condition-on-nephews-party-role-more/articleshow/133970623.cms",
-    "time": "2026-09-09T13:24:46.000Z"
   },
   {
     "cat": "Business",
@@ -504,42 +477,6 @@ const newsData_en = [
     "time": "2026-09-09T09:43:03.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "‘Trisha was so sweet and made me comfortable’: actress Malavika Mohanan",
-    "desc": "Malavika Mohanan expressed her gratitude for the warmth and support she received from Trisha during the filming of 'Petta'. As a newcomer, Malavika felt at ease thanks to Trisha's friendly demeanor. Their bond grew stronger during their time in Varanasi. To top it off, Trisha sent a heartfelt congratulatory message to Malavika after she landed the film 'Master', showcasing her unwavering encouragement.",
-    "img": "https://static.toiimg.com/photo/msid-133961052,imgsize-200266.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/trisha-was-so-sweet-and-made-me-comfortable-sardar-2-actress-malavika-mohanan-recalls-her-petta-co-stars-kind-gesture/articleshow/133961023.cms",
-    "time": "2026-09-09T09:42:06.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Rs 1.43 lakh iPhone order, Chinese phone delivered; panel orders Rs 1.73 lakh refund",
-    "desc": "Singh alleged that his return request was turned down by the seller. He further claimed that a company representative subsequently marked the product as damaged, without carrying out a proper inspection or giving him an opportunity to explain what had happened.",
-    "img": "https://static.toiimg.com/photo/msid-133960956,imgsize-517467.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/man-paid-rs-1-43-lakh-for-iphone-14-pro-received-a-chinese-phone-with-fake-apple-logo-and-two-cameras-consumer-panel-orders-full-refund-with-7-interest-plus-rs-30000/articleshow/133959921.cms",
-    "time": "2026-09-09T09:33:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Lust Stories 3’ traile out: Aditi, Konkona and others explore love and desire",
-    "desc": "The trailer for Lust Stories 3 has been released, showcasing four new stories. This anthology film will premiere on Netflix on September 18, featuring new actors. Vikramaditya Motwane and Kiran Rao are among the directors involved. The trailer explores themes of attraction, marriage, and unspoken relationship complexities. Previous installments of Lust Stories also featured multiple directors and diverse casts.",
-    "img": "https://static.toiimg.com/photo/msid-133961814,imgsize-227729.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/lust-stories-3-trailer-konkona-sen-sharma-aditi-rao-hydari-siddharth-vijay-varma-radhika-apte-and-others-explore-love-desire-and-complicated-relationships-watch-video/articleshow/133961379.cms",
-    "time": "2026-09-09T09:14:19.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Will gold, silver continue to be volatile? Check September 9, 2026 outlook",
-    "desc": "This week so far, the market has faced a different but equally important test. Escalating Middle East tensions, including reports of US strikes near Iran’s Kharg Island and Jask, would traditionally be expected to trigger stronger safe-haven buying.",
-    "img": "https://static.toiimg.com/photo/msid-133959374,imgsize-656777.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-india-where-is-gold-silver-rate-headed-on-september-09-2026-mcx-gold-futures-outlook-us-iran-war-middle-east-tensions/articleshow/133959296.cms",
-    "time": "2026-09-09T07:55:47.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Ben Shelton stuns defending champion Carlos Alcaraz to reach US Open semifinals",
     "desc": "USA's Ben Shelton produced a stunning performance to beat defending champion Carlos Alcaraz and reach the US Open semifinals at Arthur Ashe Stadium on Wednesday. Shelton defeated World No. 2 Alcaraz in a five-set thriller, winning 6-7, 6-1, 6-3, 1-6, 7-6 to book his place in the last four.",
@@ -547,15 +484,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/ben-shelton-stuns-defending-champion-carlos-alcaraz-to-reach-us-open-semifinals/articleshow/133958963.cms",
     "time": "2026-09-09T07:44:22.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Widow sought rail compensation; ticket bought 4 hours after train left, Delhi High Court rejects",
-    "desc": "The Delhi High Court has refused to award compensation in a case involving the death of a man who was allegedly killed after falling from a moving train. The Delhi High Court found that the claimant could not establish the basic requirement of proving that the deceased was a bona fide passenger travelling on the train concerned.",
-    "img": "https://static.toiimg.com/photo/msid-133957878,imgsize-592941.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/widow-sought-railway-compensation-after-husband-allegedly-fell-from-train-ticket-was-bought-at-547-pm-over-4-hours-after-train-left-delhi-high-court-rejects-claim/articleshow/133956739.cms",
-    "time": "2026-09-09T07:25:53.000Z"
   },
   {
     "cat": "Sports",
@@ -628,33 +556,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/chess/its-madness-anand-loses-on-time-after-declining-draw-against-sindarov-20-year-old-calls-legend-world-class/articleshow/133952570.cms",
     "time": "2026-09-09T05:05:19.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Rupee slips to 94.95 as crude nears $100 amid intensifying US-Iran tensions",
-    "desc": "On Wednesday, the Indian rupee faced a decline against the US dollar, influenced by rising crude oil prices and growing tensions between the US and Iran. Although a slip in the dollar provided some cushion for the rupee, domestic stock markets suffered losses, with both the Sensex and Nifty falling. Investors are now awaiting inflation data releases from the US and India.",
-    "img": "https://static.toiimg.com/photo/msid-133952610,imgsize-81104.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-slips-to-94-95-as-crude-nears-100-amid-intensifying-us-iran-tensions/articleshow/133952418.cms",
-    "time": "2026-09-09T04:31:24.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Adani Airports to raise $1 billion primary equity from marquee global investors",
-    "desc": "Adani Airport Holdings secured binding agreements for primary equity capital. Global investors Alpha Wave Global, Premji Invest, Temasek, and BlackRock are participating. These funds will expand airport infrastructure and develop integrated city ecosystems. The company manages eight major Indian airports, handling significant passenger traffic. This investment aims to scale Adani Airports into a leading global platform.",
-    "img": "https://static.toiimg.com/photo/msid-133952109,imgsize-110696.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/adani-airports-to-raise-1-billion-primary-equity-from-marquee-global-investors/articleshow/133952109.cms",
-    "time": "2026-09-09T04:21:32.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Dalal Street loses 3000 points in a month amid US-Iran standoff",
-    "desc": "On Tuesday, Indian stock markets faced a notable decline, with the Sensex falling by 555 points to close at 75,577. The Nifty also suffered a loss of 144 points, wrapping up at 23,635. Key factors such as escalating crude oil prices, fueled by unrest in the Middle East, and a weakening rupee significantly impacted market performance. The rupee settled at 94.83 per dollar, signaling a strong risk-averse attitude among investors.",
-    "img": "https://static.toiimg.com/photo/msid-133951705,imgsize-185110.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/cost-of-escalation-dalal-street-loses-3000-points-in-a-month-amid-us-iran-standoff/articleshow/133951460.cms",
-    "time": "2026-09-09T03:58:01.000Z"
   },
   {
     "cat": "Sports",
@@ -898,5 +799,95 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
     "time": "2024-03-13T15:36:41.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ChatGPT was down globally, here’s what the company has to say",
+    "desc": "ChatGPT experienced an outage, with 91% of users facing issues. OpenAI acknowledged the problem, and the service is now back online with performance back to normal. The TOI Tech team verified the restoration on the website and mobile app.",
+    "img": "https://static.toiimg.com/photo/msid-108443030,imgsize-24788.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+    "time": "2024-03-12T18:20:42.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+    "desc": "Microsoft discontinues Surface Duo smartphones but files a patent for a new foldable device with a single hinge system called 'spine cover plate'. The design aims to eliminate the hinge crease and reduce the device's thickness while offering added benefits and durability. However, its practicality remains uncertain.",
+    "img": "https://static.toiimg.com/photo/msid-108439136,imgsize-90330.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+    "time": "2024-03-12T13:38:13.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "3 ways Google aims to support the 2024 Indian General Elections",
+    "desc": "Google supports the Indian General Election by providing easy access to voting information and countering misinformation. Initiatives include partnering with the Election Commission, prioritizing trusted content on YouTube, and implementing advertising policies for transparency. Measures against AI-generated content are also taken.",
+    "img": "https://static.toiimg.com/photo/msid-108432040,imgsize-372473.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+    "time": "2024-03-12T09:46:51.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
+    "desc": "Indian Railways' AI chatbot, AskDisha 2.0, powered by CoRover.AI, offers a range of services like booking tickets, refunds, checking PNR status, cancelling tickets, changing boarding station, checking booking history, and accessing e-tickets via text or voice commands in multiple languages.",
+    "img": "https://static.toiimg.com/photo/msid-108431630,imgsize-137136.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
+    "time": "2024-03-12T09:45:05.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Chipmaker TSMC returns to the list of world's 10 most valuable companies: Here’s what led to its comeback",
+    "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) has reclaimed a spot in the list of the world’s 10 most valuable companies, riding the optimism of the artificial intelligence (AI) boom. TSMC's stock rallied, elevating its market capitalisation to a record, making it higher than Broadcom. Analysts expect TSMC to further advance amid surging AI-related revenue and strong pricing power.",
+    "img": "https://static.toiimg.com/photo/msid-108393742,imgsize-2311976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/chipmaker-tsmc-returns-to-the-list-of-worlds-10-most-valuable-companies-heres-what-led-to-its-comeback/articleshow/108393783.cms",
+    "time": "2024-03-11T10:20:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Google Maps to get better with directions with future updates, here’s what’s changing",
+    "desc": "Google Maps is updating its Fused Orientation Provider (FOP) API to improve direction accuracy in busy areas. The update combines gyroscope, accelerometer, and magnetometer data, reducing magnetic interference and benefiting Google Maps and third-party apps on Android 5.0 or above.",
+    "img": "https://static.toiimg.com/photo/msid-108392934,imgsize-15188.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
+    "time": "2024-03-11T10:00:44.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Elon Musk’s AI company will make Grok chatbot more accessible, here’s how",
+    "desc": "Elon Musk criticizes OpenAI's deviation from mission and advocates AI accessibility for all. Musk announces xAI open sourcing Grok chatbot. OpenAI CEO Altman takes a dig at Musk's chatbot. Musk, obviously didn't like the jab and replied with a long-ish message saying “GPT-4 is about as funny as a screendoor on a submarine.”",
+    "img": "https://static.toiimg.com/photo/msid-108392259,imgsize-10898.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-ai-company-will-make-grok-chatbot-more-accessible-heres-how/articleshow/108392239.cms",
+    "time": "2024-03-11T09:41:17.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Here’s how much the smartphone costs",
+    "desc": "The Moto G54 budget smartphone, with two variants, has received a price cut. The 8GB version is priced at Rs 13,999, and the 12GB variant is selling at Rs 15,999. It features a 6.5-inch FHD+ display, 120Hz refresh rate, and a 50MP main sensor.",
+    "img": "https://static.toiimg.com/photo/msid-108392052,imgsize-29064.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
+    "time": "2024-03-11T09:36:12.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
+    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
+    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
+    "time": "2024-03-11T09:19:46.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Former Activision boss reportedly wants to buy TikTok",
+    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
+    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
+    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
