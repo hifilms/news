@@ -1,12 +1,282 @@
 const newsData_en = [
   {
+    "cat": "Business",
+    "title": "Ferry erupts in flames off Philippines’ Palawan; 5 killed",
+    "desc": "Tragedy struck as the M/V June Aster passenger ferry ignited flames near Coron, Palawan, claiming at least five lives, as confirmed by officials. The Philippine Coast Guard swiftly initiated rescue missions, successfully saving 42 individuals from the inferno. The ill-fated ferry had embarked on its journey from Manila, carrying numerous passengers and crew members.",
+    "img": "https://static.toiimg.com/photo/msid-133979442,imgsize-466518.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/world/rest-of-world/watch-ferry-erupts-in-flames-off-philippines-palawan-5-killed/articleshow/133979229.cms",
+    "time": "2026-09-09T17:56:04.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "India’s exports grew over 15% in first five months of FY2026-27, says commerce minister Piyush Goyal",
+    "desc": "India's merchandise exports have grown over fifteen percent in the current fiscal year. This growth highlights BRICS economies' potential to deepen trade in goods and services. Businesses face challenges accessing finance, buyers, and predictable rules for international trade. BRICS nations are exploring common trade infrastructure and digital integration for electronic documents. Services trade also presents significant untapped potential for expanding intra-BRICS commerce.",
+    "img": "https://static.toiimg.com/photo/msid-133978788,imgsize-77350.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indias-exports-grew-over-15-in-first-five-months-of-fy2026-27-says-commerce-minister-piyush-goyal/articleshow/133978464.cms",
+    "time": "2026-09-09T17:35:55.000Z"
+  },
+  {
     "cat": "Politics",
-    "title": "Newborn found abandoned at Chittoor government hospital compound",
-    "desc": "Attendants of patients hear the cries of the infant and alert the authorities; district Child Protection wing moves the baby boy to a care centre, while police examine CCTV footage to identify who left him",
+    "title": "ED registers case against 28 over attack on officials during raid at Pinarayi Vijayan’s residence",
+    "desc": "‘All those named in the police FIR will be arraigned as accused. Charges in the police case, which are also covered by scheduled offences under Prevention of Money Laundering Act (PMLA), will be invoked against them,’ say ED sources",
+    "img": "https://th-i.thgim.com/public/news/national/kerala/hrzf7d/article71445682.ece/alternates/LANDSCAPE_1200/ed%204.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/ed-registers-case-against-27-over-attack-on-officials-during-raid-at-pinarayi-vijayans-residence/article71445657.ece",
+    "time": "2026-09-09T17:35:46.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Pilot is a good leader’: Channi backs new Punjab Congress in-charge, says appointment brings ‘new hope’",
+    "desc": "Sachin Pilot's appointment as Punjab Congress in-charge brings new hope to party workers. He is seen as a capable leader who can unite various factions within the state unit. This move aims to strengthen the Congress party's position before the upcoming 2027 Assembly elections. Leaders like Charanjit Singh Channi and Sukhjinder Singh Randhawa welcomed the decision. The party is planning a statewide yatra to revive its organizational activities.",
+    "img": "https://static.toiimg.com/photo/msid-133978525,imgsize-842913.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/pilot-is-a-good-leader-channi-backs-new-punjab-congress-in-charge-says-appointment-brings-new-hope/articleshow/133976461.cms",
+    "time": "2026-09-09T17:27:15.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pratika’s India comeback gets boost as she replaces injured Jemimah for Asian Games",
+    "desc": "With Jemimah Rodrigues sidelined due to a hamstring injury from The Hundred, Pratika Rawal has been selected to join India's squad for the upcoming Asian Games. Rawal made her T20I debut in the ongoing Asia Cup, adding fresh talent to the team. India will defend its title in the women's cricket event from September 17 to 22 in Japan, competing against seven other teams.",
+    "img": "https://static.toiimg.com/photo/msid-133977550,imgsize-56970.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pratika-rawals-india-comeback-gets-another-boost-as-she-replaces-injured-jemimah-for-asian-games/articleshow/133977344.cms",
+    "time": "2026-09-09T17:06:17.000Z"
+  },
+  {
+    "cat": "World",
+    "title": "Oil rises past $100 a barrel after the latest wave of West Asia attacks",
+    "desc": "Markets reacted after the U.S. military reported striking five Iranian tankers in response to attempted missile attacks on a Navy warship and after attacks by an Iranian-backed Houthi rebel group ignited fires at oil facilities in Saudi Arabia",
     "img": "https://via.placeholder.com/600x400?text=News",
     "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/newborn-girl-found-abandoned-on-district-hospital-compound-police-check-cctv/article71445751.ece",
-    "time": "2026-09-09T13:07:56.000Z"
+    "url": "https://www.thehindu.com/news/international/us-iran-war-live-updates-iran-us-explosions-heard-on-irans-kharg-island-september-9-2026/article71444513.ece",
+    "time": "2026-09-09T17:04:55.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Harshit Rana likely to miss Afghanistan T20Is; Asian Games in danger too",
+    "desc": "Harshit Rana faced a setback when he sustained an injury during a recent match simulation, raising concerns about his participation in the upcoming T20Is against Afghanistan. Meanwhile, Washington Sundar and Nitish Kumar Reddy have received the green light to return to the team. Updates on Jasprit Bumrah’s status are anticipated shortly, paving the way for finalizing team preparations post these developments.",
+    "img": "https://static.toiimg.com/photo/msid-133977228,imgsize-527791.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/harshit-rana-likely-to-miss-afghanistan-t20is-asian-games-in-danger-too/articleshow/133977159.cms",
+    "time": "2026-09-09T16:51:24.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "TTD to provide ₹2 lakh life insurance cover for pilgrims who die of natural causes in Tirumala",
+    "desc": "The board also increases the accidental insurance to ₹10 lakh for devotees and extends Employee Health Facility benefits to retired CPS/NPS pensioners and their families; Chief Minister Chandrababu Naidu to offer silk garments to Lord Venkateswara on September 15 making commencement of nine-day Brahmotsavams",
+    "img": "https://th-i.thgim.com/public/incoming/3yzk6l/article71447429.ece/alternates/LANDSCAPE_1200/03Temple.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ttd-to-provide-2-lakh-life-insurance-cover-for-pilgrims-who-die-of-natural-causes-in-tirumala/article71447238.ece",
+    "time": "2026-09-09T16:48:08.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Special team to probe Supplyco ‘sugar scam’; 8 employees suspended so far",
+    "desc": "The team comprises senior Civil Supplies Corporation officials, including those from its Vigilance wing; seven employees were suspended on Tuesday over the alleged supply of non-subsidised sugar to a private company; Supplyco Vigilance inspection found that the sugar stock remained at the Perumbavoor depot while records showed otherwise",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/special-team-to-probe-supplyco-sugar-scam-8-employees-suspended-so-far/article71448000.ece",
+    "time": "2026-09-09T16:09:43.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ex-officials say Census data must be confidential amid concerns over potential NPR, NRC links",
+    "desc": "Records show that in 1951, NRC was prepared across the country by 'copying' data from the Census schedules; the countrywide NRC was never published, except in undivided Assam, which at the time also included Manipur and Tripura",
+    "img": "https://th-i.thgim.com/public/incoming/azzn8b/article71448472.ece/alternates/LANDSCAPE_1200/TH03-A-LakshmanG3BGG0A3F.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/ex-officials-say-census-data-must-be-confidential-amid-concerns-over-potential-npr-nrc-links/article71443962.ece",
+    "time": "2026-09-09T15:47:43.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Dolly Parton's sister Stella reveals why she hid cancer battle from family",
+    "desc": "Dolly Parton kept her cancer battle private because she did not want her fans or family to worry, sister Stella Parton revealed. The country music icon, who died aged 80, would have been “happy and delighted” by the public outpouring of grief, Stella said, reflecting on Dolly’s final days and compassionate nature.",
+    "img": "https://static.toiimg.com/photo/msid-133975064,imgsize-112416.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dolly-parton-kept-cancer-battle-private-from-family-because-she-did-not-want-people-sad-sister-stella-parton-reveals-says-shed-be-happy-and-delighted-by-public-grief/articleshow/133975032.cms",
+    "time": "2026-09-09T15:41:59.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Manthan International School bus goes up in flames; parents demand answers, action",
+    "desc": "Parents urge Sangareddy district officials for an investigation into previous fire incidents and a full-fleet inspection, preservation of forensic evidence, and a safety assessment of fire detection and alarm systems, even in classrooms and other areas",
+    "img": "https://th-i.thgim.com/public/news/cities/Hyderabad/93qd9q/article71446919.ece/alternates/LANDSCAPE_1200/Image%2030.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/telangana/manthan-international-school-bus-goes-up-in-flames-parents-demand-answers-action/article71446591.ece",
+    "time": "2026-09-09T15:39:22.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Wanted to teach him a lesson’: Accused on assault that killed Manipuri musician",
+    "desc": "Seven men and a juvenile were arrested for the alleged killing of Chongtham Vikram Singh. The accused reportedly assaulted the musician after he objected to noise outside his home. Singh, a musician, died hours after the assault due to internal injuries. Police are investigating all aspects, including a potential racial angle in the incident. The North Eastern Students' Organisation demanded a swift and impartial probe into the matter.",
+    "img": "https://static.toiimg.com/photo/msid-133974920,imgsize-211826.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/wanted-to-teach-him-a-lesson-accused-on-assault-that-killed-delhi-musician/articleshow/133974802.cms",
+    "time": "2026-09-09T15:36:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Govt eyes ethanol blending beyond E20 with flex-fuel vehicles, says PM advisor",
+    "desc": "India is set to surpass its E20 ethanol blending goal, with plans for the introduction of flex-fuel vehicles that will support higher blends. This initiative aims to decrease dependency on imported crude oil, while the government investigates the potential of biofuels in diesel engines. Moreover, ethanol producers are urged to look into compressed biogas and enhanced product offerings for a sustainable future.",
+    "img": "https://static.toiimg.com/photo/msid-133974870,imgsize-71056.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/govt-eyes-ethanol-blending-beyond-e20-with-flex-fuel-vehicles-says-pm-advisor/articleshow/133972466.cms",
+    "time": "2026-09-09T15:35:57.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NIA looking into whether Ukrainians, U.S. national were involved in UAPA offences: sources",
+    "desc": "In the charge sheet filed against the accused on Tuesday, NIA had not invoked Unlawful Activities (Prevention) Act (UAPA); however, sources say probe is on to determine whether they were engaged in activities prejudicial to India’s security",
+    "img": "https://th-i.thgim.com/public/todays-paper/tp-national/vziz3n/article71444910.ece/alternates/LANDSCAPE_1200/TH08-Ishita-NIAGLFGGMC33.3.jpg.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/nia-looking-into-whether-ukrainians-us-national-were-involved-in-uapa-offences-sources/article71447911.ece",
+    "time": "2026-09-09T15:29:50.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "86-year-old father alleged son forced him out; HC orders son to vacate home",
+    "desc": "When an 86-year-old man bought several parcels of land in his youngest son's name and let him stay with him in the family's ancestral house in Odisha, he did not expect their relationship to eventually turn bad.",
+    "img": "https://static.toiimg.com/photo/msid-133974772,imgsize-644399.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/86-year-old-father-alleged-youngest-son-forced-him-out-of-ancestral-home-orissa-high-court-orders-son-to-vacate-leaves-separate-dispute-over-land-parcels-bought-in-sons-name-to-civil-court/articleshow/133973662.cms",
+    "time": "2026-09-09T15:28:48.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Big boost for India ahead of Afghanistan T20Is as Nitish Kumar Reddy clears fitness test",
+    "desc": "Nitish Kumar Reddy has cleared his fitness test and is set to join the India squad ahead of the three-match T20I series against Afghanistan. The all-rounder, who missed recent white-ball tours due to a quadriceps injury, has also been named in India's squad for the upcoming Asian Games.",
+    "img": "https://static.toiimg.com/photo/msid-133974744,imgsize-73310.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/big-boost-for-india-ahead-of-afghanistan-t20is-as-nitish-kumar-reddy-clears-fitness-test/articleshow/133974615.cms",
+    "time": "2026-09-09T15:27:41.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Centre clears separate engineering cadre for Delhi PWD",
+    "desc": "The Centre has approved the Delhi government's proposal to create a separate engineering cadre for the Public Works Department (PWD), a move expected to give the capital greater control over its engineering workforce and help speed up infrastructure projects.",
+    "img": "https://static.toiimg.com/photo/msid-133974457,imgsize-67820.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/centre-clears-separate-engineering-cadre-for-delhi-pwd/articleshow/133974459.cms",
+    "time": "2026-09-09T15:18:34.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "MCD demolished 34 structures, sealed 17; over 1,200 PG buildings surveyed",
+    "desc": "The Municipal Corporation of Delhi has sealed seventeen properties and conducted thirty-four demolitions. This action follows a building collapse which tragically killed seven occupants. Authorities are now assessing paying guest accommodations for structural safety concerns. Over twelve hundred buildings are being evaluated for potential vulnerabilities and repairs. The civic body aims to complete this crucial survey by September tenth.",
+    "img": "https://static.toiimg.com/photo/msid-133974528,imgsize-141046.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/mcd-demolished-34-structures-sealed-17-over-1200-pg-buildings-surveyed/articleshow/133974458.cms",
+    "time": "2026-09-09T15:18:32.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Scene’ teaser: Suriya’s cop avatar set to clash with ‘Ramayana’ on Deepavali",
+    "desc": "Suriya's upcoming cop action drama, now officially titled Scene, has unveiled an intriguing teaser that highlights his distinctive character. Set to hit theaters worldwide on November 6, 2026, this release will align with the festive Deepavali weekend, ensuring a spectacular cinematic experience. Scene will go head-to-head with Ranbir Kapoor's mythological blockbuster, Ramayana, adding to the excitement.",
+    "img": "https://static.toiimg.com/photo/msid-133974197,imgsize-643605.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/suriya47-is-officially-titled-scene-suriya-plays-a-psycho-cop-with-900-criminals-in-his-record-set-to-clash-with-ranbir-kapoor-and-yashs-ramayana/articleshow/133974148.cms",
+    "time": "2026-09-09T15:07:02.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Ajit Bharti moves Delhi high court against trial court order denying anticipatory bail in SC/ST act case",
+    "desc": "The trial court had declined Bharti's plea after holding that the material placed on record prima facie disclosed the ingredients of an offence under Section 3(1)(r) of the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989.",
+    "img": "https://static.toiimg.com/photo/msid-133973573,imgsize-249080.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/ajit-bharti-moves-delhi-high-court-against-trial-court-order-denying-anticipatory-bail-in-sc/st-act-case/articleshow/133973574.cms",
+    "time": "2026-09-09T14:49:28.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "'Punjab Dalits, remain vigilant': Rahul demands AAP finance min's resignation over Gulzar Singh's suicide",
+    "desc": "Rahul Gandhi has called for the resignation of Punjab minister Harpal Singh Cheema amidst ongoing concerns surrounding the death of Gulzar Singh. The Congress leader emphasized the need for a thorough investigation and cautioned Dalit communities about the potential misuse of power by the AAP government. Family members of Gulzar Singh have accused officials of harassment and making casteist remarks following their inquiries.",
+    "img": "https://static.toiimg.com/photo/msid-133973403,imgsize-70295.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/punjab-dalits-remain-vigilant-rahul-demands-aap-finance-mins-resignation-over-gulzar-singhs-suicide/articleshow/133973253.cms",
+    "time": "2026-09-09T14:42:32.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "‘Making memes’: P Chidambaram says Gen Z is having last laugh over PM Modi’s ‘naraaz fufa’ jibe",
+    "desc": "Congress leader P Chidambaram proudly embraced the 'Dimagi Naxal' label given by Prime Minister Narendra Modi. He also dismissed the 'Naraaz Fufa' remark as meaningless and lacking substance. Chidambaram noted that these comments have sparked widespread discussion and memes online. Prime Minister Modi had urged identifying and isolating those with an ideological Naxal mindset. The exchange highlights ongoing political sparring between the BJP and Congress parties.",
+    "img": "https://static.toiimg.com/photo/msid-133973283,imgsize-1033509.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/making-memes-p-chidambaram-says-gen-z-is-having-last-laugh-over-pm-modis-naraaz-fufa-jibe/articleshow/133972729.cms",
+    "time": "2026-09-09T14:41:35.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘Vrushakarma’ eyes December release as Prabhas’ ‘Fauzi’ may get delayed",
+    "desc": "Naga Chaitanya's upcoming film 'Vrushakarma' is aiming for a release on December 3, which coincides with the scheduled debut of Prabhas' 'Fauji'. However, 'Fauji' may encounter delays due to ongoing production efforts. Recently, Naga Chaitanya teased a thrilling update regarding 'Vrushakarma' on his social media platforms. The final release dates for both films, however, are still up in the air at this moment.",
+    "img": "https://static.toiimg.com/photo/msid-133972687,imgsize-2194589.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/naga-chaitanyas-vrushakarma-eyes-december-3-release-as-prabhas-fauzi-reportedly-moves-out-of-the-date-report/articleshow/133972512.cms",
+    "time": "2026-09-09T14:18:09.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Riteish Deshmukh recalls getting paid money by a paparazzo on the street",
+    "desc": "While on the street, Riteish Deshmukh spotted a young child trying to sell items for one hundred rupees. He discovered, much to his frustration, that he had no cash and was unable to process a digital payment. Enter Sushil Mohite, a generous paparazzo, who willingly paid for the child. Afterwards, Riteish expressed his gratitude publicly on social media, demonstrating the beautiful acts of generosity often found in unexpected places.",
+    "img": "https://static.toiimg.com/photo/msid-133972519,imgsize-167586.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/riteish-deshmukh-recalls-getting-paid-money-by-a-paparazzo-on-the-street-people-always-say-that-youre-paying-paps-but-here-he-showed-kindness/articleshow/133972365.cms",
+    "time": "2026-09-09T14:12:38.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Palash Sen jokes about the one flaw that Shah Rukh Khan has",
+    "desc": "Reflecting on his school days, singer Palash Sen talks about his friendship with Shah Rukh Khan. He characterizes Khan as an ambitious personality, effortlessly charming everyone in their circle. Notably, Sen often filled in as the singer during school performances, compensating for Khan's vocal shortcomings. While their lives took different trajectories, Sen’s pride in Khan's achievements in the entertainment industry remains unwavering.",
+    "img": "https://static.toiimg.com/photo/msid-133972083,imgsize-234928.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/palash-sen-jokes-about-the-one-flaw-that-shah-rukh-khan-has-as-he-opens-up-on-classmate-from-st-columbas-i-had-never-seen-such-a-charming-ambitious-and-efficient-person/articleshow/133971708.cms",
+    "time": "2026-09-09T13:59:17.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "'That was some tennis!': Sachin Tendulkar in awe of Shelton’s epic win over Alcaraz",
+    "desc": "Ben Shelton triumphed over Carlos Alcaraz in a thrilling five-set clash during the US Open quarter-finals. After an exhausting battle that stretched over four hours, Shelton emerged victorious, ending Alcaraz's impressive Grand Slam winning streak and title defense. Notably, this victory marked Shelton's first against a top-three ranked player, proving his prowess on the court, especially as Alcaraz returned from a layoff due to a wrist injury.",
+    "img": "https://static.toiimg.com/photo/msid-133971235,imgsize-809752.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/that-was-some-tennis-sachin-tendulkar-in-awe-of-ben-sheltons-epic-win-over-carlos-alcaraz-at-us-open-2026/articleshow/133970977.cms",
+    "time": "2026-09-09T13:29:46.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Hema praises 'Hanuman Ansh', says the girl who produced doesn't even know filmmaking",
+    "desc": "Hanuman Ansh has soared to superhit status following its theatrical release. The veteran actress Hema Malini credited the film’s success to the blessings of Lord Hanuman. Positive feedback also came from Preity Zinta and Aditya Dhar, both of whom lauded the film. The narrative revolves around Lord Hanuman and Neem Karoli Baba.",
+    "img": "https://static.toiimg.com/photo/msid-133971106,imgsize-275145.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hema-malini-praises-hanuman-ansh-says-its-a-superhit-due-to-hanuman-jis-grace-the-girl-who-produced-the-film-doesnt-even-know-filmmaking/articleshow/133970703.cms",
+    "time": "2026-09-09T13:25:30.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Vijay-led TVK alliance gets official name; Mayawati puts condition on nephew's party role &amp; more",
+    "desc": "Vijay has named his new alliance with Congress and other parties the \"Secular Social Justice Victory Alliance\". Mayawati stated Akash Anand can return to party roles if his father-in-law quits politics. Philippines defence chief rebuked China over its rejection of the South China Sea arbitration ruling. The Supreme Court mentioned all are treated equally after a plea for an early hearing.",
+    "img": "https://static.toiimg.com/photo/msid-133971085,imgsize-938516.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/india/evening-news-wrap-vijay-led-tvk-alliance-gets-official-name-mayawati-puts-condition-on-nephews-party-role-more/articleshow/133970623.cms",
+    "time": "2026-09-09T13:24:46.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Government-owned fuel retailers lose Rs 5 per litre on petrol, Rs 23 on diesel as oil tops $100 per barrel",
+    "desc": "Fuel retailers are experiencing substantial losses per litre on petrol and diesel, as international crude oil prices have recently surpassed one hundred dollars a barrel. India relies on imports for over eighty-eight percent of its crude oil consumption. Despite these soaring prices, retail rates for petrol and diesel have remained stagnant for over three months.",
+    "img": "https://static.toiimg.com/photo/msid-133971002,imgsize-109482.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/government-owned-fuel-retailers-lose-rs-5-per-litre-on-petrol-rs-23-on-diesel-as-oil-tops-100-per-barrel/articleshow/133970713.cms",
+    "time": "2026-09-09T13:21:34.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Small taxpayers, big relief: Rules &amp; forms notified for Foreign Asset Disclosure Scheme 2026; what they mean",
+    "desc": "The Foreign Assets of Small Taxpayers - Disclosure Scheme (‘FAST-DS’ or ‘Scheme’) was announced in the Union Budget 2026. The Scheme was notified on 14 August 2026 and came into effect on 16 August 2026.",
+    "img": "https://static.toiimg.com/photo/msid-133970718,imgsize-519049.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/small-taxpayers-big-relief-rules-forms-notified-for-foreign-asset-disclosure-scheme-2026-what-they-mean/articleshow/133962290.cms",
+    "time": "2026-09-09T13:12:26.000Z"
   },
   {
     "cat": "Business",
@@ -36,15 +306,6 @@ const newsData_en = [
     "time": "2026-09-09T12:38:03.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Keralam MVD to digitise vehicle inspections after autorickshaw driver’s death inquiry",
-    "desc": "The proposed digital system aims to streamline inspections. Report recommends introducing a unique digital inspection ID for each vehicle inspection, preparing a digital checklist of defects, introducing a system to upload photos/videos of each defect identified during the test.",
-    "img": "https://th-i.thgim.com/public/incoming/90z92m/article71447136.ece/alternates/LANDSCAPE_1200/6742_28-9-2018_19-11-48_2_29TVKZMVD.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/keralam-mvd-to-digitise-vehicle-inspections-after-autorickshaw-drivers-death-inquiry/article71447034.ece",
-    "time": "2026-09-09T12:36:53.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Ajay Devgn wants Mohanlal to watch ‘Drishyam 3’ and share his feedback",
     "desc": "Ajay Devgn confirmed the Hindi version of 'Drishyam 3' will conclude the story. He hopes Malayalam superstar Mohanlal will watch and approve the film. Devgn stated the Hindi script is completely different from the original Malayalam franchise. Making this third installment presented a significant challenge for the entire team. The film is scheduled for a theatrical release on October 2, 2026.",
@@ -52,33 +313,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ajay-devgn-wants-mohanlal-to-watch-hindi-drishyam-3-says-i-would-like-their-approval-for-the-completely-different-story/articleshow/133969187.cms",
     "time": "2026-09-09T12:36:37.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "TTD approves ₹2 lakh cover for pilgrims who die of natural causes in Tirumala, a first in the country",
-    "desc": "The board also raises accident cover for families of TTD employees who die in Tirumala from ₹3 lakh to ₹10 lakh, plans a buffer of 10 lakh laddus a day for the Brahmotsavams and clears a ₹2.80 crore biogas plant on food waste",
-    "img": "https://th-i.thgim.com/public/incoming/9gnc95/article71424524.ece/alternates/LANDSCAPE_1200/10215_28_9_2025_19_2_22_1_WHATSAPPIMAGE2025_09_28AT70045PM.JPEG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/10-lakh-accident-cover-for-tirumala-pilgrims-pay-hike-for-ttd-staff-in-48-categories/article71446635.ece",
-    "time": "2026-09-09T12:33:40.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Three-language scheme: Centre raises ‘issue’ in SC over treating English as ‘native’, assures quick action on Class 6 reprieve",
-    "desc": "Under CBSE guidelines, students in Classes 7 to 9 were exempted, while the current Class 6 batch was slated to face full implementation, including a mandatory Class 10 Board examination in the third language by 2031",
-    "img": "https://th-i.thgim.com/public/incoming/jc2ked/article71446582.ece/alternates/LANDSCAPE_1200/_JAI6670.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/three-language-scheme-centre-in-sc-has-an-issue-over-treating-english-as-native-but-assures-quick-action-on-class-6-reprieve/article71446456.ece",
-    "time": "2026-09-09T12:31:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "SPS alleges violation of SC orders in mining block auction in Karnataka, files contempt petition",
-    "desc": "Samaj Parivartana Samudaya (SPS) founder-president S.R. Hiremath accused the Karnataka government of violating Supreme Court orders by amalgamating areas of cancelled and expired iron ore mining mining leases into five new blocks and subsequently auctioning them",
-    "img": "https://th-i.thgim.com/public/incoming/5tx82u/article71447105.ece/alternates/LANDSCAPE_1200/2699_9_9_2026_16_28_46_2_10HUBLISRHIREMATHPC.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/sps-alleges-violation-of-sc-orders-in-mining-block-auction-in-karnataka-files-contempt-petition/article71446954.ece",
-    "time": "2026-09-09T12:28:43.000Z"
   },
   {
     "cat": "Sports",
@@ -99,33 +333,6 @@ const newsData_en = [
     "time": "2026-09-09T12:25:42.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Solicitor General orally marks intention to challenge HC’s scathing decision against NSA detention of student",
-    "desc": "A High Court Division Bench had quashed the NSA detention of Akriti Chaudhary in a September 2 order while deriding Ms. Roopam’s lack of application of mind to a police report against the student activist, who had spent nearly five months in custody",
-    "img": "https://th-i.thgim.com/public/incoming/d24u2w/article71446878.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiGUOGEQHGR.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/uttar-pradesh/solicitor-general-orally-marks-intention-to-challenge-hcs-scathing-decision-against-nsa-detention-of-student/article71446762.ece",
-    "time": "2026-09-09T12:19:02.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Delhi on high alert with 4,800 cops, 35+ roads face curbs",
-    "desc": "As Delhi gears up for the 18th Brics Summit from September 11 to 13, heightened security protocols have been put in place. Over 4,800 traffic police will oversee the movements of VVIPs and manage traffic diversions. This summit, held at Bharat Mandapam, celebrates two decades of Brics and welcomes foreign leaders and dignitaries from its newly expanded eleven-member coalition.",
-    "img": "https://static.toiimg.com/photo/msid-133968342,imgsize-70474.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/brics-summit-4800-traffic-cops-35-roads-under-restrictions-as-delhi-braces-for-vvip-movement/articleshow/133967956.cms",
-    "time": "2026-09-09T12:05:33.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "Apple 'Surprise and Shine' iPhone 18 series launch event",
-    "desc": "Apple is expected to announce the iPhone 18 line-up, and, probably, the company's first foldable smartphone. Meanwhile, analysts are trying to gauge potential price increases, as well as Apple's AI plan under new CEO John Ternus",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/technology/apples-surprise-and-shine-iphone-18-series-launch-event-live-updates/article71441260.ece",
-    "time": "2026-09-09T12:00:26.000Z"
-  },
-  {
     "cat": "World",
     "title": "Bangladesh Foreign Minister keeps mum on PM Rahman’s participation in India-hosted BRICS summit",
     "desc": "“I will really ask all of you to ask me questions or approach me in my capacity as the President of the General Assembly. If there are bilateral issues, I’m still the Foreign Minister; I’ll speak to you separately,” says Khalilur Rahman",
@@ -135,15 +342,6 @@ const newsData_en = [
     "time": "2026-09-09T11:59:28.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Manthan International School bus goes up in flames; parents demand answers, action",
-    "desc": "Parents urge Sangareddy district officials for an investigation into previous fire incidents and a full-fleet inspection, preservation of forensic evidence, and a safety assessment of fire detection and alarm systems, even in classrooms and other areas",
-    "img": "https://th-i.thgim.com/public/news/cities/Hyderabad/93qd9q/article71446919.ece/alternates/LANDSCAPE_1200/Image%2030.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/telangana/manthan-international-school-bus-goes-up-in-flames-parents-demand-answers-action/article71446591.ece",
-    "time": "2026-09-09T11:59:01.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "'Outside noise' ignored, but Pakistan can't escape scoreboard as they crumble at Edgbaston",
     "desc": "In an attempt to revitalize their game, Pakistan implemented four changes and handed out three Test debuts before their clash with England. Captain Babar Azam emphasized the importance of blocking out external chatter, yet the restructured team faced a swift demise in the first session. They lost six wickets for less than 100 runs, with Babar himself being among the casualties. Despite the shake-up, the team's performance remained stagnant.",
@@ -151,15 +349,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/outside-noise-ignored-but-pakistan-cant-escape-scoreboard-as-they-crumble-at-edgbaston-with-babar-falling-for-7/articleshow/133966991.cms",
     "time": "2026-09-09T11:58:32.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "CMRL pay-off case: CPI(M) leader Jayarajan accuses Congress, BJP of waging political vendetta against Pinarayi",
-    "desc": "The CPI(M) leader vows a strong political and legal opposition from the CPI(M) if the former Chief Minister is wrongfully targeted. He also criticised the ED for not acting on corruption claims against Congress leaders.",
-    "img": "https://th-i.thgim.com/public/incoming/9j3c2a/article71446898.ece/alternates/LANDSCAPE_1200/Political-partiGC4F3DG1A.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/cpim-leader-jayarajan-accuses-congress-bjp-of-waging-political-vendetta-against-pinarayi/article71446795.ece",
-    "time": "2026-09-09T11:52:50.000Z"
   },
   {
     "cat": "Entertainment",
@@ -178,15 +367,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/sandeep-reddy-vanga-says-he-doesnt-like-sekhar-kammulas-heroes-says-i-like-his-heroines-more-internet-reacts/articleshow/133966497.cms",
     "time": "2026-09-09T11:28:29.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "India, Sri Lanka sign three defence sector MoUs during Rajnath Singh’s visit",
-    "desc": "President Dissanayake seeks India’s ‘fullest support’ in combating drug trafficking in the region; raises fisheries conflict that impacts livelihoods of northern Sri Lankan fishermen; Defence Minister Rajnath Singh also congratulated Mr. Dissanayake’s government for ‘successfully completing two years in office’",
-    "img": "https://th-i.thgim.com/public/incoming/s9fr63/article71446335.ece/alternates/LANDSCAPE_1200/HRwOyH8aIAAHVdV.jpeg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/rajnath-singh-sri-lankan-president-dissanayake-in-colombo-bilateral-meeting/article71446317.ece",
-    "time": "2026-09-09T11:21:36.000Z"
   },
   {
     "cat": "Business",
@@ -216,24 +396,6 @@ const newsData_en = [
     "time": "2026-09-09T11:13:55.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Tamil Nadu CM Vijay to travel to London on first official overseas visit; gold ring scheme launch postponed",
-    "desc": "In London, a few important MoUs between the Tamil Nadu government and multinational companies are likely to be inked in the presence of CM Vijay who will leave for U.K. from Chennai on September 10, 2026",
-    "img": "https://th-i.thgim.com/public/incoming/26i7d7/article71445917.ece/alternates/LANDSCAPE_1200/20260908493L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-to-travel-to-london-on-first-official-overseas-visit-gold-ring-scheme-launch-postponed/article71445870.ece",
-    "time": "2026-09-09T11:10:04.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "ED registers case against 28 over attack on officials during raid at Pinarayi Vijayan’s residence",
-    "desc": "‘All those named in the police FIR will be arraigned as accused. Charges in the police case, which are also covered by scheduled offences under Prevention of Money Laundering Act (PMLA), will be invoked against them,’ say ED sources",
-    "img": "https://th-i.thgim.com/public/news/national/kerala/hrzf7d/article71445682.ece/alternates/LANDSCAPE_1200/ed%204.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/kerala/ed-registers-case-against-27-over-attack-on-officials-during-raid-at-pinarayi-vijayans-residence/article71445657.ece",
-    "time": "2026-09-09T11:06:48.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Varanasi’: Mahesh Babu wraps major portions of SS Rajamouli’s film",
     "desc": "SS Rajamouli's highly anticipated film 'Varanasi', featuring Mahesh Babu, is approaching the completion of its shooting schedule. This action thriller, infused with intriguing time travel themes, has seen Mahesh Babu wrap up most of his key scenes, with only minimal shooting left. Alongside him, Priyanka Chopra Jonas and Prithviraj Sukumaran add their star power to this ambitious venture, set for a global release on April 7, 2027.",
@@ -261,15 +423,6 @@ const newsData_en = [
     "time": "2026-09-09T10:53:05.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "‘My gesture during Assembly speech was inadvertent’: Tamil Nadu CM Vijay",
-    "desc": "The Chief Minister’s clarification came after CPI(M) State secretary P. Shanmugam took strong objection to Mr. Vijay “body-shaming” former Chief Minister and DMK president M.K. Stalin over the broken jaw Mr. Stalin suffered during his detention under MISA when the Emergency was imposed in India.",
-    "img": "https://th-i.thgim.com/public/incoming/1am1oq/article71442741.ece/alternates/LANDSCAPE_1200/PTI05_12_2026_000064B.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/my-gesture-during-assembly-speech-is-inadvertent-has-no-ulterior-motive-tamil-nadu-cm-vijay/article71442647.ece",
-    "time": "2026-09-09T10:33:09.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Root surpasses Waugh, moves closer to Tendulkar, Anderson for most Test appearances",
     "desc": "In a historic achievement, Joe Root has now participated in 169 Test matches, breaking the longstanding record of Steve Waugh. This milestone was celebrated during the third Test against Pakistan at Edgbaston, where England opted to bowl first after winning the toss. Dominating the series, the home team seeks a clean sweep, marking a notable return to fielding the same XI for three consecutive Tests since 2010.",
@@ -277,15 +430,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/joe-root-surpasses-steve-waugh-moves-closer-to-sachin-tendulkar-james-anderson-for-most-test-appearances/articleshow/133963875.cms",
     "time": "2026-09-09T10:23:09.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "‘Civilisational twins’: Rajnath Singh meets Sri Lankan president, steps up India’s defence ties with Colombo",
-    "desc": "Defence Minister Rajnath Singh met Sri Lankan President Anura Kumara Dissanayake in Colombo. They discussed multifaceted partnerships and regional safety, security, peace, and prosperity. Sri Lanka reiterated its commitment to India's security interests and acknowledged India's assistance. Both leaders virtually inaugurated three Bailey Bridges constructed by Indian defence forces. Memorandums of understanding were exchanged to boost defence cooperation between the two nations.",
-    "img": "https://static.toiimg.com/photo/msid-133963974,imgsize-91154.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/civilisational-twins-rajnath-singh-meets-sri-lankan-president-steps-up-indias-defence-ties-with-colombo/articleshow/133963647.cms",
-    "time": "2026-09-09T10:15:53.000Z"
   },
   {
     "cat": "Sports",
@@ -315,15 +459,6 @@ const newsData_en = [
     "time": "2026-09-09T09:58:24.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Naidu came out of APSSDC case without a stain, says Atchannaidu three years after arrest",
-    "desc": "Three years after the Chief Minister’s arrest and 53 days in jail, the Agriculture Minister says the court gave him a clean chit and asks people never to vote the YSRCP back; the party’s response is awaited",
-    "img": "https://th-i.thgim.com/public/incoming/6n6vq4/article71282269.ece/alternates/LANDSCAPE_1200/YSRCP-neglectedGGLG7SQTQ.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-came-out-of-apssdc-case-without-a-stain-says-atchannaidu-three-years-after-arrest/article71446286.ece",
-    "time": "2026-09-09T09:57:40.000Z"
-  },
-  {
     "cat": "World",
     "title": "UN reforms must be 'meaningful' to make it 'fit for future': UNGA President Khalilur Rahman",
     "desc": "“Reforms must be meaningful. These reforms must help regain the trust of this organisation in the eyes of the public. Unless that happens, the reforms will be regarded as marginal or perfunctory. I take this reform very, very seriously,”says UNGA President",
@@ -342,15 +477,6 @@ const newsData_en = [
     "time": "2026-09-09T09:56:29.000Z"
   },
   {
-    "cat": "World",
-    "title": "Oil rises past $100 a barrel after the latest wave of West Asia attacks",
-    "desc": "Markets reacted after the U.S. military reported striking five Iranian tankers in response to attempted missile attacks on a Navy warship and after attacks by an Iranian-backed Houthi rebel group ignited fires at oil facilities in Saudi Arabia",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/us-iran-war-live-updates-iran-us-explosions-heard-on-irans-kharg-island-september-9-2026/article71444513.ece",
-    "time": "2026-09-09T09:49:05.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Gaikwad, Padikkal to lead",
     "desc": "The Indian A squads have been unveiled for the exciting series against Australia A. Devdutt Padikkal will take the reins of the multi-day team, while Ruturaj Gaikwad steps up as captain of the one-day lineup. Set to unfold in Puducherry, the series comprises two multi-day matches and three one-day games.",
@@ -367,15 +493,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/angoor-naa-mile-toh-angoor-khate-hain-neha-kakkar-takes-a-jibe-at-sunidhi-chauhan-for-saying-singing-reality-shows-are-scripted/articleshow/133962609.cms",
     "time": "2026-09-09T09:45:49.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Human rights organisations condemn 'racist murder' of Manipuri singer Chongtham Vikram in Delhi",
-    "desc": "Following the shocking death of a Manipuri music teacher in Delhi, civil society groups have voiced their outrage and called for an in-depth investigation into possible racial motives for the crime. The FIR lodged incorporates serious allegations of group murder based on racial grounds. Advocates pointed out the government’s failure to implement previous recommendations aimed at combating racial biases against Northeast residents.",
-    "img": "https://static.toiimg.com/photo/msid-133962780,imgsize-205612.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/human-rights-organisations-condemn-racist-murder-of-manipuri-singer-chongtham-vikram-in-delhi/articleshow/133962713.cms",
-    "time": "2026-09-09T09:43:35.000Z"
   },
   {
     "cat": "Business",
@@ -405,15 +522,6 @@ const newsData_en = [
     "time": "2026-09-09T09:33:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "'Poster-boy actions': Vijay Mallya's message to those calling him 'bhagoda'",
-    "desc": "Vijay Mallya has publicly declared that he is legally prevented from leaving the United Kingdom, contending that the Indian government's approach to his situation is unfair. He emphasised that more than fourteen thousand crore rupees have been recovered from him and questioned his ongoing designation as a fraudster while his assets remain inaccessible. The Indian government continues to assert its dedication to extraditing economic offenders.",
-    "img": "https://static.toiimg.com/photo/msid-133961953,imgsize-53418.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/poster-boy-actions-vijay-mallyas-message-to-those-calling-him-bhagoda/articleshow/133961953.cms",
-    "time": "2026-09-09T09:24:54.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Lust Stories 3’ traile out: Aditi, Konkona and others explore love and desire",
     "desc": "The trailer for Lust Stories 3 has been released, showcasing four new stories. This anthology film will premiere on Netflix on September 18, featuring new actors. Vikramaditya Motwane and Kiran Rao are among the directors involved. The trailer explores themes of attraction, marriage, and unspoken relationship complexities. Previous installments of Lust Stories also featured multiple directors and diverse casts.",
@@ -421,69 +529,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/lust-stories-3-trailer-konkona-sen-sharma-aditi-rao-hydari-siddharth-vijay-varma-radhika-apte-and-others-explore-love-desire-and-complicated-relationships-watch-video/articleshow/133961379.cms",
     "time": "2026-09-09T09:14:19.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Irumudi’: Ravi Teja's family drama OTT release details",
-    "desc": "Ravi Teja's latest film, 'Irumudi', has soared at the box office and is set for a digital debut. Fans can catch this captivating family drama on Netflix starting September 18, 2026. This film not only marks a triumphant return for the star but also stands as one of his top-grossing movies. Featuring talents like Baby Nakshatra and Priya Bhavani Shankar, 'Irumudi' promises substantial entertainment value.",
-    "img": "https://static.toiimg.com/photo/msid-133961809,imgsize-813966.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/irumudi-ott-find-out-when-and-where-is-ravi-tejas-family-drama-expected-to-begin-digital-streaming/articleshow/133961694.cms",
-    "time": "2026-09-09T09:11:02.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Hanuman Ansh' Day 34 (LIVE): Film inches towards Rs 150 cr",
-    "desc": "The film Hanuman Ansh has made waves at the box office, crossing the remarkable milestone of one hundred crore rupees. In its fifth week, it continues to thrive in theaters, amassing an impressive total of one hundred seventy point one eight crore rupees. With a production budget ranging from one point seven five to two crore rupees, Hanuman Ansh is now up against significant competitions in the film industry.",
-    "img": "https://static.toiimg.com/photo/msid-133961720,imgsize-520994.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/hanuman-ansh-box-office-collection-day-34-live-the-film-based-on-neem-karoli-baba-crosses-inches-towards-rs-150-crore-net/articleshow/133961640.cms",
-    "time": "2026-09-09T09:10:35.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Australian space firms seek deeper India partnerships",
-    "desc": "An Australian space delegation explored commercial partnerships with Indian firms at Bengaluru Space Expo 2026. Australian companies showcased diverse capabilities complementing India's growing space ecosystem. LatConnect 60 and NewSpace India Limited will access ground-station infrastructure for mission operations. Universities and industry associations intend to collaborate on research and education initiatives. Several Australian firms are advancing agreements for spaceport services and payload recovery.",
-    "img": "https://static.toiimg.com/photo/msid-133961765,imgsize-179104.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/australian-space-firms-seek-deeper-india-partnerships/articleshow/133961688.cms",
-    "time": "2026-09-09T09:09:47.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Vishal’s directorial debut ‘Magudam’ OTT release date confirmed",
-    "desc": "Vishal steps into the director's chair with his debut film 'Magudam', set to launch on Prime Video. This action-packed drama, scheduled for release on September 11, showcases Vishal not only as a director but also as the lead actor. Joining him in pivotal roles are Dushara Vijayan and Anjali, with the film available in both Tamil and Telugu versions.",
-    "img": "https://static.toiimg.com/photo/msid-133960940,imgsize-270350.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/magudam-ott-release-date-when-and-where-to-watch-vishals-directorial-debut/articleshow/133960913.cms",
-    "time": "2026-09-09T08:44:22.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Mirzapur' box office Day 6 (LIVE): Film crosses Rs 126 cr net",
-    "desc": "The Movie has amassed an impressive Rs 1.50 crore, bringing its total India net collection to Rs 126.85 crore. The film has received positive reviews, standing strong against competing titles. Viewers will be delighted to see key cast members back for this thrilling adaptation on the big screen. Read on to know more.",
-    "img": "https://static.toiimg.com/photo/msid-133960309,imgsize-777026.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mirzapur-the-movie-box-office-collection-day-6-live-pankaj-tripathi-ravi-kishan-ali-fazal-starrer-crosses-rs-126-crore-net-in-india/articleshow/133960244.cms",
-    "time": "2026-09-09T08:27:35.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Many told me I shouldn’t have’: Nazriya on mental health post",
-    "desc": "In 2025, Nazriya Nazim shared her personal mental health struggles, leading to varied responses from the public. She explained that this revelation was a thoughtful decision, aimed at normalizing conversations around mental health. Nazim pointed out that happiness doesn’t exempt anyone from facing such difficulties, and felt compelled to connect with her audience through genuine expression. She's now gearing up for exciting Tamil and Telugu film endeavors.",
-    "img": "https://static.toiimg.com/photo/msid-133959949,imgsize-209683.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/etimes/wellness/nazriya-nazim-reveals-why-she-decided-to-talk-about-her-mental-health-struggles-many-people-told-me-that-i-shouldnt-have-but-it-was-not-an-impulsive-decision/articleshow/133959222.cms",
-    "time": "2026-09-09T08:22:18.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "‘Drishyam: The Conclusion’ trailer: Ajay Devgn returns with more mystery",
-    "desc": "The Conclusion has arrived, teasing an exhilarating journey of family defense. Ajay Devgn returns as Vijay Salgaonkar, now up against fresh and treacherous challenges. With Jaideep Ahlawat joining the ensemble, the tension escalates dramatically. Scheduled for release on October 2, 2026, this film serves as the concluding chapter of the beloved Hindi Drishyam franchise.",
-    "img": "https://static.toiimg.com/photo/msid-133960040,imgsize-532566.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/drishyam-3-the-conclusion-trailer-ajay-devgn-returns-as-vijay-salgaonkar-with-jaideep-ahlawat-adding-dangerous-new-twist-to-the-familys-fight/articleshow/133959961.cms",
-    "time": "2026-09-09T08:16:43.000Z"
   },
   {
     "cat": "Business",
@@ -529,15 +574,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/sci-tech/science/openai-bubeck-alpoge-buckmaster-navier-stokes-codex-privacy/article71445721.ece",
     "time": "2026-09-09T07:04:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Why Vijay's gold ring scheme may miss its September 15 launch",
-    "desc": "In a surprising move, Tamil Nadu's chief minister has chosen to delay the launch of a gold ring initiative aimed at welcoming newborns. With a pivotal trip to London on the horizon for talks with European industrialists, he underscores the need for fresh investments. Before his departure, he will also oversee important strategy sessions to solidify alliances and boost Tamil Nadu's economic prospects.",
-    "img": "https://static.toiimg.com/photo/msid-133956971,imgsize-820797.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/why-vijays-gold-ring-scheme-may-miss-its-september-15-launch/articleshow/133956555.cms",
-    "time": "2026-09-09T06:42:15.000Z"
   },
   {
     "cat": "World",
@@ -594,15 +630,6 @@ const newsData_en = [
     "time": "2026-09-09T05:05:19.000Z"
   },
   {
-    "cat": "Sports",
-    "title": "Ishan Kishan knocking on India door with Test case",
-    "desc": "Coming after a season in which Ishan has consistently delivered in both white-ball and red-ball cricket, it offered a strong indication that he has developed the temperament and game to succeed in the longest format.",
-    "img": "https://static.toiimg.com/photo/msid-133953258,imgsize-121449.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ishan-kishan-knocking-on-india-door-with-test-case/articleshow/133953171.cms",
-    "time": "2026-09-09T04:47:00.000Z"
-  },
-  {
     "cat": "Business",
     "title": "Rupee slips to 94.95 as crude nears $100 amid intensifying US-Iran tensions",
     "desc": "On Wednesday, the Indian rupee faced a decline against the US dollar, influenced by rising crude oil prices and growing tensions between the US and Iran. Although a slip in the dollar provided some cushion for the rupee, domestic stock markets suffered losses, with both the Sensex and Nifty falling. Investors are now awaiting inflation data releases from the US and India.",
@@ -610,15 +637,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-slips-to-94-95-as-crude-nears-100-amid-intensifying-us-iran-tensions/articleshow/133952418.cms",
     "time": "2026-09-09T04:31:24.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "What now for its biggest stars?",
-    "desc": "LIV Golf has filed for Chapter 11 bankruptcy after Saudi Arabia’s PIF withdrew its multibillion-dollar backing, revealing up to $1bn in liabilities. More than $45m is owed to 14 current and former players, led by Jon Rahm. LIV plans to restructure with BC Partners and launch a smaller, player-owned league in 2027, but its biggest stars face uncertain futures.",
-    "img": "https://static.toiimg.com/photo/msid-133952466,imgsize-29864.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/sports/international-sports/liv-golf-bombshell-league-files-for-bankruptcy-owing-up-to-1bn-what-happens-now-to-its-biggest-stars/articleshow/133951398.cms",
-    "time": "2026-09-09T04:25:05.000Z"
   },
   {
     "cat": "Business",
@@ -646,15 +664,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/why-shouldnt-national-sports-governance-act-apply-to-bcci-state-bodies-asks-supreme-court/articleshow/133950604.cms",
     "time": "2026-09-09T03:18:02.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "Old allies drift apart as US bans Canada's dairy, alcohol and motorcycles",
-    "desc": "In a notable intensification of their trade spat, the United States and Canada have introduced new restrictions following a series of tariff impositions. The latest US measures impact Canadian dairy and alcohol goods, prompting Canada to seek diminished economic reliance on America. Currently, both nations are evaluating their positions with no immediate discussions on the horizon.",
-    "img": "https://static.toiimg.com/photo/msid-133949778,imgsize-53670.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/us-canada-trade-war-old-allies-drift-apart-as-us-tariffs-ottawas-dairy-alcohol-and-motorcycles/articleshow/133949715.cms",
-    "time": "2026-09-09T02:57:46.000Z"
   },
   {
     "cat": "Sports",
@@ -738,15 +747,6 @@ const newsData_en = [
     "time": "2026-09-08T16:16:00.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Husband died in 2006, widow got PF and gratuity; why HC rejected pension claim",
-    "desc": "On April 27, 2010, Bank of Maharashtra introduced a one-time option allowing a specified category of serving employees, retired employees and families of deceased employees to join the Pension Scheme, subject to the prescribed terms and conditions.",
-    "img": "https://static.toiimg.com/photo/msid-133932066,imgsize-559869.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/husband-died-in-2006-and-widow-was-paid-pf-and-gratuity-she-filed-for-pension-in-2011-but-window-had-closed-in-2010-heres-what-delhi-high-court-said/articleshow/133931536.cms",
-    "time": "2026-09-08T15:54:44.000Z"
-  },
-  {
     "cat": "World",
     "title": "Israel orders closure of U.K. consulate in Jerusalem over settlement sanctions",
     "desc": "Israel said it would also expel British diplomats at a centre monitoring the U.S.-brokered ceasefire plan in Gaza and bar British training for Palestinian Authority forces, as well as banning 12 British officials from visiting Israel",
@@ -799,15 +799,6 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/russian-drone-missile-strikes-on-kyiv-kill-2-end-pause-in-attacks/article71441601.ece",
     "time": "2026-09-08T07:32:10.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "Yemen’s Houthis claim attack on Saudi oil tanker in Red Sea",
-    "desc": "The strike was accurate and direct, resulting in a fire breaking out aboard the vessel and causing a number of other ships that were present in the target area to flee, the Houthis said in a statement.",
-    "img": "https://th-i.thgim.com/public/incoming/vg4rli/article71385812.ece/alternates/LANDSCAPE_1200/2026-08-03T132244Z_1643636918_RC2TJMAU4AUN_RTRMADP_3_YEMEN-CRISIS-SAUDI-TANKERS.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/international/yemens-houthis-claim-attack-on-saudi-oil-tanker-in-red-sea/article71385806.ece",
-    "time": "2026-09-08T05:53:43.000Z"
   },
   {
     "cat": "Business",
@@ -873,24 +864,6 @@ const newsData_en = [
     "time": "2026-09-07T07:40:58.000Z"
   },
   {
-    "cat": "Business",
-    "title": "Does ‘inflation targeting’ work in India?",
-    "desc": "India’s Phillips curve is found to be flat, while households’ inflation expectations remain consistently higher than the RBI’s projections; this suggests that inflation targeting can lower output and employment without a commensurate reduction in inflation",
-    "img": "https://th-i.thgim.com/public/news/national/700mky/article71436304.ece/alternates/LANDSCAPE_1200/iStock-2149589805.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/business/Economy/does-inflation-targeting-work-in-india/article71435164.ece",
-    "time": "2026-09-07T04:45:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "The graceful artist’s brush with history",
-    "desc": "It was only fitting that Smriti’s record-breaking stroke, in India’s Asia Cup match against Hong Kong, came on the off-side. It was not just her former India captain that she moved ahead of on account of her 64-ball 124. She also took the record for the most hundreds in women’s international cricket from Australian legend Meg Lanning",
-    "img": "https://th-i.thgim.com/public/incoming/i65yyx/article71436411.ece/alternates/LANDSCAPE_1200/GettyImages-2282615674.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sport/cricket/the-graceful-artists-brush-with-history/article71436417.ece",
-    "time": "2026-09-06T18:53:10.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Why is New York City pausing some AI tools in schools?",
     "desc": "The Mayor of New York Zohran Mamdani and Schools Chancellor Kamar H. Samuels on September 2 imposed a one-year moratorium on student-facing generative AI for pupils up to eighth grade for the 2026–27 academic year",
@@ -898,5 +871,32 @@ const newsData_en = [
     "src": "thehindu.com",
     "url": "https://www.thehindu.com/news/international/why-is-new-york-city-pausing-some-ai-tools-in-schools-explained/article71431327.ece",
     "time": "2026-09-06T11:24:06.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Brought in for civilian use, Starlink is now integral to Ukraine’s war effort",
+    "desc": "Russia’s latest attempts to jam the satellite network are about more than disrupting internet access; Starlink sits behind drone operations, battlefield communications, and command networks that stretch across hundreds of kilometres of the war front",
+    "img": "https://th-i.thgim.com/public/incoming/8i7let/article71227047.ece/alternates/LANDSCAPE_1200/2026-06-22T144855Z_720713080_RC2SRLAGY6SX_RTRMADP_3_NAMIBIA-STARLINK.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/sci-tech/technology/brought-in-for-civilian-use-starlink-is-now-integral-to-ukraines-war-effort/article71225657.ece",
+    "time": "2026-09-05T11:55:24.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Fixing the holes in the education system",
+    "desc": "At a time when conversations are moving more towards banning phones and social media, here’s a glimpse into the conversation I had with Sugata Mitra on various things — from his works and life to his idea being implemented worldwide",
+    "img": "https://th-i.thgim.com/public/incoming/rlipo2/article71388553.ece/alternates/LANDSCAPE_1200/HP187786.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/children/fixing-the-holes-in-the-education-system/article71388530.ece",
+    "time": "2026-09-05T08:40:19.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Government issues warning for these Android smartphone and tablet users",
+    "desc": "The Indian CERT-In warns Android users of 'High' severity security flaws in multiple versions of the operating system, including vulnerabilities that could lead to obtaining sensitive information, gaining elevated privileges, executing arbitrary code, and causing denial of service conditions.",
+    "img": "https://static.toiimg.com/photo/msid-108471249,imgsize-7946.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+    "time": "2024-03-13T15:36:41.000Z"
   }
 ];

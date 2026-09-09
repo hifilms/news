@@ -1,6 +1,15 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "South Africa's Jordan Hermann matches world record on ODI debut against Namibia",
+    "desc": "South Africa opener Jordan Hermann matched the world record for most runs scored in an innings on ODI debut. The 24-year-old slammed 150 runs against Namibia in the first of the three-match series in Windhoek....",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-s-jordan-hermann-matches-world-record-on-odi-debut-against-namibia-2026-09-09-1053783",
+    "time": "2026-09-09T14:03:21.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Joe Root moves step closer to breaking Sachin Tendulkar's legendary world record",
     "desc": "England captain Joe Root moved to third place on the list of most Test matches played by an individual. On Wednesday, September 9, he surpassed Steve Waugh and Ricky Ponting to move a step closer...",
     "img": "",
@@ -70,14 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/i-want-to-prove-a-point-cole-palmer-raring-to-go-for-chelsea-once-more-after-lengthy-injury-layoff-2026-09-08-1053681",
     "time": "2026-09-08T13:37:22.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Naman Dhir scripts history, smashes 173 runs in 64 deliveries in Sher-e-Punjab T20 League",
-    "desc": "The Sher-e-Punjab League 2026 has seen several brilliant performances in the season so far. However, none of them have made a mark as hard as the knock of Naman Dhir. In the 18th game of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/naman-dhir-scripts-history-smashes-173-runs-in-64-deliveries-in-sher-e-punjab-t20-league-2026-09-08-1053672",
-    "time": "2026-09-08T12:04:33.000Z"
   }
 ];
