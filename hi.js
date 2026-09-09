@@ -1,6 +1,42 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Asian Games at risk? Hundreds of athletes forced to evacuate after severe flooding in Japan's Nagoya",
+    "desc": "Flooding in Japan’s Nagoya has put the upcoming Asian Games at risk. Hundreds of athletes staying there for the event were temporarily moved to safer ground after record rainfall in the city. Around 104mm of...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/other/asian-games-at-risk-hundreds-of-athletes-forced-to-evacuate-after-severe-flooding-in-japan-s-nagoya-watch-2026-09-09-1053744",
+    "time": "2026-09-09T07:40:23.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Indian hockey teams to return to blue jersey at Asian Games; Tirkey says saffron was 'not permanent'",
+    "desc": "India’s hockey teams will return to blue jerseys at the Asian Games 2026. They switched to saffron and white for the Hockey World Cup in Belgium, which triggered enormous criticism on social media. Several former...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/hockey/indian-hockey-teams-to-return-to-blue-jersey-at-asian-games-tirkey-says-saffron-was-not-permanent-2026-09-09-1053735",
+    "time": "2026-09-09T06:46:31.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Borussia Dortmund midfielder Konstantinos Karetsas hospitalised after collapsing on ground during UCL tie",
+    "desc": "Borussia Dortmund midfielder Konstantinos Karetsas collapsed on the ground during their UEFA Champions League match against Spanish side Villarreal. The incident happened in the 25th minute after the Greece international completed a pass and alerted...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/borussia-dortmund-midfielder-konstantinos-karetsas-hospitalised-after-collapsing-on-ground-during-ucl-tie-2026-09-09-1053729",
+    "time": "2026-09-09T06:12:53.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India to send star-studded team to Asian Games, BCCI finally happy with accommodation arrangement",
+    "desc": "BCCI officials were reportedly unhappy with the accommodation that was on offer for the Indian cricket team for the Asian Games. Apart from India, several other countries also raised the issue. However, with two weeks...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-to-send-star-studded-team-to-asian-games-bcci-finally-happy-with-accommodation-arrangement-2026-09-09-1053724",
+    "time": "2026-09-09T05:21:50.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "'I want to prove a point': Cole Palmer raring to go for Chelsea once more after lengthy injury layoff",
     "desc": "The Premier League 2026-27 season has got off to a good start for Chelsea FC. Having played three games in the season, Chelsea have managed to register two wins and registered their first loss against...",
     "img": "",
@@ -52,41 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/it-s-a-huge-honour-bradley-barcola-reflects-on-his-move-to-liverpool-opens-up-on-what-attracted-him-2026-09-08-1053645",
     "time": "2026-09-08T07:35:07.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "BCCI drops Rohit Yadav from India's U19 squad to face Australia, name two replacements ahead of series",
-    "desc": "In a major blow, the BCCI (Board of Control for Cricket in India) has decided to drop Rohit Yadav from India’s U19 squad to take on Australia due to an age discrepancy. Hailing from Bengal,...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/bcci-drops-rohit-yadav-from-india-s-u19-squad-to-face-australia-name-two-replacements-ahead-of-series-2026-09-08-1053633",
-    "time": "2026-09-08T06:30:16.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Mark Chapman shifts to casual contract with New Zealand Cricket, set to feature in BBL 2026-27",
-    "desc": "In a major development, star New Zealand cricketer Mark Chapman has made the decision to shift to a casual contract with NZC (New Zealand Cricket) for the ongoing 2026-27 season. The batter hopes to be...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/mark-chapman-shifts-to-casual-contract-with-new-zealand-cricket-set-to-feature-in-bbl-2026-27-2026-09-08-1053630",
-    "time": "2026-09-08T05:50:56.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Cricket South Africa name squad for upcoming three-game ODI series against Australia",
-    "desc": "The stage is set for a multi-format series between South Africa and Australia. The two sides are set to take on each other across three ODI matches and will follow it up with three Tests....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/cricket-south-africa-name-squad-for-upcoming-three-game-odi-series-against-australia-2026-09-07-1053585",
-    "time": "2026-09-07T13:37:30.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Fatima Sana found in breach of ICC's Code of Conduct, handed demerit point after India clash; Check details",
-    "desc": "The Women’s Asia Cup 2026 has seen the Indian team put in some brilliant performances. The Women in Blue are unbeaten in the tournament, having registered wins against Thailand, Hong Kong, and arch-rivals Pakistan as...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/fatima-sana-found-in-breach-of-icc-s-code-of-conduct-handed-demerit-point-after-india-clash-check-details-2026-09-07-1053572",
-    "time": "2026-09-07T11:26:08.000Z"
   }
 ];
