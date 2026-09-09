@@ -1,5 +1,68 @@
 const newsData_gu = [
   {
+    "cat": "World",
+    "title": "મંગળવારની રાત નાગોયા માટે કોઈ આફતથી ઓછી નહોતી, આકાશમાંથી સમુદ્ર વરસી પડ્યો",
+    "desc": "ટેકનોલોજીના સુપરપાવર દેશ જાપાનનું ઐતિહાસિક અને આધુનિક શહેર નાગોયા આ સમયે પાણી-પાણી થઈ ગયું છે. ક્રોવાન્હ વાવાઝોડાની અસરને કારણે થયેલા ભારે વરસાદે નાગોયામાં 134 વર્ષ જૂનો વરસાદનો રેકોર્ડ તોડી નાખ્યો છે. માત્ર એક કલાકમાં 104.5 મિલીમીટર વરસાદ નોંધાયો. એટલે કે જાણે આકાશમાંથી સમુદ્ર વરસી પડ્યો હોય. શહેરની લાઈફલાઈન કહેવાતી શોનાઈ નદી પણ ગાંડીતૂર બની ગઈ છે. ભારે પૂરના કારણે તંત્રને ઈતિહાસનું સૌથી ખતરનાક એલર્ટ જાહેર કરવું પડ્યું છે..",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/world/nagoya-flooded-134-year-rainfall-record-broken-as-typhoon-krovanh-batters-japan-490629 ",
+    "time": "2026-09-09T12:10:43.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સરકારી કર્મચારીઓ માટે ખુશખબર... 8મા પગાર પંચમાં બદલાશે 40 વર્ષ જૂનો નિયમ !",
+    "desc": "જો તમે પણ 8મા પગાર પંચની ભલામણોની રાહ જોઈ રહ્યા છો તો આ સમાચાર તમારા માટે છે. પગાર પંચ નિવૃત્ત કેન્દ્ર સરકારના કર્મચારીઓ સંબંધિત 40 વર્ષ જૂના નિયમમાં સુધારો કરી શકે છે. ત્યારે આ નિયમ શું છે અને આનાથી શું ફાયદો થશે, તેના વિશે આ લેખમાં જાણીશું.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/8th-pay-commission-latest-update-commuted-pension-rule-govt-employees-490628 ",
+    "time": "2026-09-09T12:06:08.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "ફક્ત ₹4.50 લાખમાં 250 KM ની રેન્જ! આવી ગઈ મિડલ ક્લાસ માટે પરફેક્ટ 5-સીટર EV",
+    "desc": "₹5 લાખથી ઓછી કિંમતમાં નવી ઈલેક્ટ્રિક કાર ખરીદવાનો પ્લાન બનાવી રહ્યાં છો તો Blinq RYDE તમારા માટે ખાસ સાબિત થઈ શકે છે. 4.050 લાખની શરૂઆતી કિંમતવાળી આ 5-સીટર માઇક્રો એવી 250 કિમી સુધીની રેન્જ અને 5 મિનિટથી ઓછા સમયમાં બેટરી સ્વેપિંગની સુવિધા સાથે આવે છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/250-km-range-battery-swap-in-5-mins-at-4-50-lakh-blinq-ryde-micro-ev-launched-in-india-490618 ",
+    "time": "2026-09-09T10:54:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "દ્રશ્યમ 3 માં જયદીપ અહલાવતની એન્ટ્રી, શનિ બનીને અજય દેવગનનું જીવવું કરશે મુશ્કેલ, જુઓ ટ્રેલર",
+    "desc": "અજય દેવગન, તબુની ફિલ્મ દ્રશ્યમ 3 નો લાસ્ટ પાર્ટ રિલીઝ થવા જઈ રહ્યો છે. ફિલ્મ રિલીઝના 1 મહિના પહેલા ફિલ્મનું ટ્રેલર રિલીઝ કરવામાં આવ્યું છે. ટ્રેલર જોઈને લાગે છે કે આ વખતે ફિલ્મમાં જબરદસ્ત ટ્વિસ્ટ અને સસ્પેન્સ જોવા મળશે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/entertainment/drishyam-3-trailer-drishyam-the-conclusion-movie-star-cast-release-date-490617 ",
+    "time": "2026-09-09T10:51:24.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "હાર્દિક પંડ્યાની વાપસી, ઋતુરાજ ગાયકવાડ કેપ્ટન... ઓસ્ટ્રેલિયા સિરીઝ માટે ભારત A ટીમની જાહેરાત",
+    "desc": "BCCIએ ઓસ્ટ્રેલિયા A સામે આગામી ટેસ્ટ અને ODI શ્રેણી માટે ભારત A ટીમની જાહેરાત કરવામાં આવી છે. હાર્દિક પંડ્યાની ODI ટીમમાં વાપસી થઈ છે, પરંતુ તે સંપૂર્ણપણે ફિટ હશે તો જ રમી શકશે. તો ઋતુરાજ ગાયકવાડને કેપ્ટનશીપ સોંપવામાં આવી છે.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/sports/india-a-vs-australia-a-series-ruturaj-gaikwad-captain-hardik-pandya-comeback-490615 ",
+    "time": "2026-09-09T10:46:35.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "સોનું અને ચાંદી બંને આજે ઉછળ્યા, ભાવ વધીને કેટલે પહોંચી ગયા? ખાસ ચેક કરો આજનો રેટ",
+    "desc": "આજે સોના અને ચાંદીના ભાવમાં વાયદા બજાર અને રિટેલ બજાર બંનેમાં વધારો જોવા મળ્યો છે. વાયદા બજારમાં શરૂઆતમાં ઘટાડા બાદ કિંમતી ધાતુઓમાં રિકવરી જોવા મળી અને હવે બંને વધારા સાથે જોવા મળ્યા છે. લેટેસ્ટ રેટ ખાસ જાણો.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/business/gold-and-silver-rate-up-check-today-mcx-latest-and-ibja-rates-aaj-no-sona-chandi-no-bhav-490595 ",
+    "time": "2026-09-09T08:39:03.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Instagram પર શેર કરવા 80 લુક ફિલ્ટરવાળા ફોટો કેવી રીતે બનાવવા ? આ રહ્યા ઈઝી Steps",
+    "desc": "સોશિયલ મીડિયા પર તમારા ફ્રેન્ડ્સ 80 લુક ફિલ્ટરવાળા ફોટો શેર કરી રહ્યા છે અને તમને ખબર નથી કે આવા ફોટો કેવી રીતે ક્રિએટ કરવા ? તો ચાલો અમે તમને જણાવીએ 80 લુકના ફોટો કેવી રીતે બનાવવા અને શેર કરવા.",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "india.com",
+    "url": " http://zeenews.india.com/gujarati/technology/easy-steps-of-instagram-80s-trend-photo-making-with-chatgtp-490591 ",
+    "time": "2026-09-09T07:58:53.000Z"
+  },
+  {
     "cat": "Entertainment",
     "title": "દુઆના જન્મદિવસે રણવીર-દીપિકા શેર કર્યા Unseen ફોટો, દુઆની ક્યુટનેસ એ લુંટી લીધી લાઈમલાઈટ",
     "desc": "8 સપ્ટેમ્બરે દીપિકા પાદુકોણ અને રણવીર સિંહે તેમના ઈંસ્ટાગ્રામ પર તેમની દીકરી દુઆ સાથેના ફોટો શેર કર્યા હતા. આ ફોટો શેર થયા અને સોશિયલ મીડિયા પર છવાઈ ગયા છે. આ ફોટોમાં દુઆ ની ક્યુટનેસ પર લોકો ફીદા થઈ રહ્યા છે.",
@@ -333,15 +396,6 @@ const newsData_gu = [
     "time": "2026-09-05T08:02:32.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "ભારતના આ રાજ્ય પર નેપાળ જેવી ભયાનક ત્રાસદી જેવું જોખમ! અચાનક ફાટી શકે છે 16 ઝીલો, પૂરનો ડર",
-    "desc": "નેપાળમાં આવેલી ભયાનક ત્રાસદી બાદ હવે ભારતમાં પણ આવી ત્રાસદીના જોખમ વિશે ચિંતા પેઠી છે. પૂર્વોત્તર રાજ્ય સિક્કિમમાં પણ આવી ખતરનાક ગ્લેશિયરો વિશે જાણકારી સામે આવી છે. બધુ મળીને 40 ગ્લેશિયર ઝીલોને જોખમી ગણાવી છે અને 16 તો એવી છે કે જે ફાટે તો તબાહી નિશ્ચિત છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/india/threat-of-nepal-like-disaster-on-sikkim-40-dangerous-glacial-lakes-16-at-high-risk-490141 ",
-    "time": "2026-09-05T03:39:28.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "Royal Enfieldનો ધમાકો: નવી Himalayan 440 લોન્ચ, જાણો કિંમત અને શાનદાર ફીચર્સ",
     "desc": "Royal Enfield તેનું સસ્તું હિમાલયન લોન્ચ કર્યું છે. આ બાઇક એવા લોકો માટે એક સારો વિકલ્પ છે જેમણે હિમાલયન 411 ચૂકી ગયા હતા. બ્રાન્ડે સ્ક્રેમ 440 જેવા જ એન્જિન સાથે નવી હિમાલયન 440 લોન્ચ કરી છે. આ બાઇક ફક્ત એક વેરિઅન્ટ અને ત્રણ કલર ઓપ્શનમાં આવે છે. ચાલો નવી રોયલ એનફિલ્ડ હિમાલયન 440ની કિંમત અને અન્ય વિગતો જાણીએ.",
@@ -351,15 +405,6 @@ const newsData_gu = [
     "time": "2026-09-04T17:03:23.000Z"
   },
   {
-    "cat": "Business",
-    "title": "ફિટમેન્ટ ફેક્ટર, ઇન્ક્રિમેન્ટ અને પેન્શન... 8મા પગાર પંચની બેઠકમાં શું થશે નક્કી?",
-    "desc": "8મા પગાર પંચની રચના 3 નવેમ્બર, 2025ના રોજ કરવામાં આવી હતી. છેલ્લા 10 મહિનામાં, વિવિધ કર્મચારી સંગઠનોએ પગાર પંચ સમક્ષ અનેક મહત્વપૂર્ણ માંગણીઓ મૂકી છે. તેના પર હાલમાં ચર્ચા ચાલી રહી છે અને પગાર પંચ તેની કાર્યવાહી આગળ વધારી રહ્યું છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/fitment-factor-increment-and-pension-what-will-be-decided-in-the-8th-pay-commission-meeting-490097 ",
-    "time": "2026-09-04T13:50:05.000Z"
-  },
-  {
     "cat": "World",
     "title": "નેપાળની ત્રાસદીની આ ઈનસાઈડ સ્ટોરી, જાણો કેમ મરી ગયા 1300 લોકો અને 5000 લોકો છે ગુમ",
     "desc": "નેપાળમાં વિનાશકારી પૂર આવ્યાને 8 દિવસ થઈ ગયા છે. આ દિવસોમાં મૃત્યુઆંક સતત વધી રહ્યો છે. લોકો પોતાના સ્વજનોને શોધી રહ્યા છે પરંતુ જમીન પર તબાહીની સ્થિતિ એટલી ભયાનક છે કે, હવે કોઈના જીવતા બચવાની કોઈ શક્યતા નજરે પડતી નથી. આ બધાની વચ્ચે એક સવાલ સતત ઉભો છે કે, જો નેપાળને ગ્લેશિયર તુટવાની ચેતવણી 38 મિનીટને બદલે 2 કલાક પહેલા મળી હોત તો શું થાત. એ 38 મિનિટમાં શું થયું. સમજો નેપાળની ત્રાસદીની આ ઈનસાઈડ સ્ટોરી...",
@@ -367,15 +412,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/world/inside-story-of-the-nepal-tragedy-why-1300-lost-their-lives-and-5000-are-missing-490096 ",
     "time": "2026-09-04T13:19:05.000Z"
-  },
-  {
-    "cat": "Business",
-    "title": "જન્માષ્ટમી પર સસ્તી થઈ ચાંદી, જાણો ચાંદીના ભાવ કેમ ઘટ્યા?",
-    "desc": "જન્માષ્ટમીના દિવસે ચાંદી સસ્તી થઈ ગઈ છે. આજે, 4 સપ્ટેમ્બરના રોજ, દેશભરમાં જન્માષ્ટમીનો તહેવાર ઉજવાઈ રહ્યો છે. જન્માષ્ટમીના દિવસે સોનું અને ચાંદી બંને સસ્તી થઈ ગઈ છે. આજે, ચાંદીનો ભાવ 2,36,020 રૂપિયા પ્રતિ કિલોગ્રામ પર ટ્રેડ થઈ રહ્યો છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/business/silver-rate-today-silver-becomes-cheaper-on-janmashtami-know-the-reason-490078 ",
-    "time": "2026-09-04T11:10:45.000Z"
   },
   {
     "cat": "World",
@@ -477,15 +513,6 @@ const newsData_gu = [
     "time": "2026-09-03T04:18:06.000Z"
   },
   {
-    "cat": "World",
-    "title": "કોરોના પછી ડરાવી રહ્યો છે ઈબોલા, WHO એ જણાવ્યું બીમારી ફેલાવાનું કારણ, અત્યાર સુધીમાં હજારો લોકોના મોત",
-    "desc": "કોરોના મહામારી પછી ઈબોલા નામની બીમારી દુનિયાને ડરાવી રહી છે. ઈબોલાના કારણે છેલ્લા 4 મહિનામાં હજારો લોકોના મોત થયા છે. ઈબોલા દુનિયાના કેટલાક દેશોમાં હાહાકાર મચાવી રહી છે. ઈબોલાને લઈને વિશ્વ સ્વાસ્થ્ય સંગઠને મહત્વપૂર્ણ જાણકારી આપી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/after-corona-ebola-is-frightening-ebola-outbreak-2026-thousands-of-people-have-died-489910 ",
-    "time": "2026-09-03T02:44:25.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "મધુર ભંડારકર પછી કંગના રનૌતે પણ કર્યા હનુમાન અંશ મુવીના વખાણ, કહ્યું થેરાપી છોડો આ ફિલ્મ જુઓ",
     "desc": "ટોક્સિક અને આવારાપન 2 જેવી ફિલ્મો પર હનુમાન અંશ ફિલ્મ ભારે પડી ગઈ છે. ધીમી શરુઆત પછી આ ફિલ્મ સિનેમાઘરોમાં છવાઈ ગઈ છે. સામાન્ય લોકોની સાથે ફિલ્મ ઈંડસ્ટ્રીના દિગ્ગજો પણ હનુમાન અંશ ફિલ્મના વખાણ કરી રહ્યા છે.",
@@ -493,15 +520,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/entertainment/hanuman-ansh-box-office-collection-today-kangana-ranaut-post-for-hanuman-ansh-movie-489909 ",
     "time": "2026-09-03T02:11:28.000Z"
-  },
-  {
-    "cat": "World",
-    "title": "મંદિર ફરીથી બનાવો, દોષિતો સામે કડક કાર્યવાહી કરો: પાકિસ્તાનમાં 100 વર્ષ જૂનું હિન્દુ મંદિર તોડી પડાતા ભારતનું કડક વલણ",
-    "desc": "પાકિસ્તાનમાં 100 વર્ષ જૂના હિંદુ મંદિરના વિધ્વંસના સમાચાર પર ભારતે કડક વલણ અપનાવ્યું છે. વિદેશ મંત્રાલયે તેને નિંદનીય ગણાવ્યું અને પાકિસ્તાન પાસે તત્કાલ તપાસ, દોષિતો પર કાર્યવાહી, મંદિરની બહાલી અને અલ્પસંખ્યકોની સુરક્ષાની ખાતરી કરવાની માગ કરી છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/world/india-condemns-demolition-of-historic-hindu-temple-in-pakistan-demands-transparent-probe-and-minority-safety-489908 ",
-    "time": "2026-09-02T17:46:39.000Z"
   },
   {
     "cat": "Tech",
@@ -520,15 +538,6 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/sports/india-host-icc-womens-champions-trophy-2027-know-venues-and-dates-489900 ",
     "time": "2026-09-02T14:28:29.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "અફઘાનિસ્તાન સામેની T20 સિરીઝ પહેલા ટીમ ઈન્ડિયાનું વધ્યું ટેન્શન ! બુમરાહ સહિત આ 4 ખેલાડીઓ થઈ શકે છે બહાર",
-    "desc": "અફઘાનિસ્તાન સામેની ત્રણ મેચની T20 શ્રેણી માટે ટીમ ઈન્ડિયાની જાહેરાત કરવામાં આવી છે. જોકે, શ્રેણી શરૂ થાય તે પહેલાં ભારતીય ટીમ એક મોટી સમસ્યાનો સામનો કરી રહી છે, ટીમમાં સમાવિષ્ટ 4 ખેલાડીઓ આખી શ્રેણીમાંથી બહાર થઈ શકે છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/sports/team-india-these-4-players-miss-out-ind-vs-afg-t20-series-due-to-fitness-concern-489884 ",
-    "time": "2026-09-02T12:06:47.000Z"
   },
   {
     "cat": "Entertainment",
@@ -576,15 +585,6 @@ const newsData_gu = [
     "time": "2026-09-01T10:34:42.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "32 વર્ષની શાલિની પાંડેનો MMS વાયરલ, અર્જુન રેડ્ડીથી થઈ હતી ફેમસ, જાણી લો હીરોઈને શું કર્યો ખુલાસો",
-    "desc": "AIના આવ્યા બાદ આ કોઈ નવાઈની વાત નથી પણ ખૂબસૂરત શાલિની પાંડેના કેટલાક પ્રાઈવેટ વીડિયો હાલમાં સોશિયલ મીડિયા પર જબરદસ્ત વાયરલ થઈ રહ્યા હતા, જેનાથી તેનું નામ ખરાબ થઈ રહ્યું છે. હવે આ પર હિરોઈને પ્રતિક્રિયા આપી છે કે જે વીડિયો છે એ બધા ફેક છે અને AIથી બનેલા છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/entertainment/shalini-pandey-deepfake-video-goes-viral-arjun-reddy-fame-actress-clarifies-says-its-not-me-the-video-is-fake-489570 ",
-    "time": "2026-08-31T13:03:04.000Z"
-  },
-  {
     "cat": "Tech",
     "title": "શું સ્માર્ટફોનની પણ હોય છે એક્સપાયરી ડેટ? જાણો ક્યારે બદલી લેવો જોઈએ મોબાઇલ",
     "desc": "આજના સમયમાં સ્માર્ટફોન આપણા જીવનનો એક મહત્વપૂર્ણ ભાગ બની ચૂક્યો છે. આવી સ્થિતિમાં એ પ્રશ્ન બધાના જ મનમાં ઉદ્ભવતો હશે કે, આખરે જૂનો સ્માર્ટફોન ક્યારે બદલવો જોઈએ? જાણો બેટરી, સ્ક્રીન, સોફ્ટવેર અપડેટ અને રિપ્લેસમેન્ટ પાર્ટ્સની સ્થિતિ જોઈને ફોન બદલવાનો સાચો સમય કેવી રીતે નક્કી કરવો.",
@@ -592,14 +592,5 @@ const newsData_gu = [
     "src": "india.com",
     "url": " http://zeenews.india.com/gujarati/technology/do-smartphones-have-an-expiration-date-know-when-you-should-replace-your-mobile-phone-489472 ",
     "time": "2026-08-30T16:52:20.000Z"
-  },
-  {
-    "cat": "Tech",
-    "title": "16 KM માઇલેજ, સનરૂફ અને ADAS! આ 7-સીટર SUV પર મળી રહ્યું છે ₹1.25 લાખનું બમ્પર ડિસ્કાઉન્ટ",
-    "desc": "Mahindra Scorpio N ખરીદવાની યોજના બનાવી રહ્યાં છો તો ઓગસ્ટ 2026 તમારા માટે ખાસ સાબિત થઈ શકે છે. કંપની અને ડીલર્સ આ એસયુવીના જૂના પ્રી-ફેસલિફ્ટ સ્ટોક પર 1.25 લાખના બેનિફિટ્સ આપી રહ્યાં છે. તેમાં કેશ ડિસ્કાઉન્ટ અને એક્સેસરીઝ પેકેજ સામેલ છે.",
-    "img": "https://via.placeholder.com/600x400?text=News",
-    "src": "india.com",
-    "url": " http://zeenews.india.com/gujarati/technology/mahindra-scorpio-n-august-2026-deals-get-huge-discount-up-to-1-25-lakh-on-7-seater-suv-489095 ",
-    "time": "2026-08-27T11:11:08.000Z"
   }
 ];
