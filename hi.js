@@ -1,8 +1,17 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "Delhi Police requests DDCA to postpone India's opening T20I against Afghanistan, explains reason",
-    "desc": "Delhi Police has requested Delhi and District Cricket Association (DDCA) to reschedule India’s opening T20I against Afghanistan at the Arun Jaitley Stadium on Sunday, September 13. In an official letter, Delhi Police mentioned that they...",
+    "title": "India women defeat Bangladesh by 40 runs, storm into Asia Cup 2026 final",
+    "desc": "Riding onto the blistering innings by Shafali Verma and a strong bowling performance by Deepti Sharma, the Harmanpreet Kaur-led Indian women's cricket team defeated Bangladesh at the Dubai International Cricket Stadium on Thursday to storm...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-women-defeat-bangladesh-by-40-runs-storm-into-asia-cup-2026-final-2026-09-10-1053910",
+    "time": "2026-09-10T17:41:16.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India vs Afghanistan 1st T20I to go ahead as scheduled, clarifies DDCA after Delhi Police's request",
+    "desc": "The Delhi and District Cricket Association (DDCA) on Thursday clarified that the first T20I between India and Afghanistan will go ahead as per the schedule on Sunday (September 13) at the Arun Jaitley Stadium in...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/delhi-police-requests-ddca-to-postpone-india-s-opening-t20i-against-afghanistan-explains-reason-2026-09-10-1053894",
@@ -79,14 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/football/fulham-manager-alvaro-arbeloa-demands-more-courage-personality-from-players-2026-09-10-1053836",
     "time": "2026-09-10T05:47:11.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Pakistan U-19 team mistaken for group of asylum seekers during England tour, protestors gather outside hotel",
-    "desc": "Pakistan U-19 team faced major controversy after a protest was staged outside their hotel in Portsmouth. The visiting players were reportedly mistaken for asylum seekers, which prompted a group of people to gather at the...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-u-19-team-mistaken-for-group-of-asylum-seekers-during-england-tour-protestors-gather-outside-hotel-2026-09-10-1053828",
-    "time": "2026-09-10T04:46:05.000Z"
   }
 ];
