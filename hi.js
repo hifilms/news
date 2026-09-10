@@ -1,8 +1,8 @@
 const newsData_hi = [
   {
     "cat": "Sports",
-    "title": "India women defeat Bangladesh by 40 runs, storm into Asia Cup 2026 final",
-    "desc": "Riding onto the blistering innings by Shafali Verma and a strong bowling performance by Deepti Sharma, the Harmanpreet Kaur-led Indian women's cricket team defeated Bangladesh at the Dubai International Cricket Stadium on Thursday to storm...",
+    "title": "Shafali Verma, Deepti Sharma star as India hammer Bangladesh to storm into Asia Cup 2026 final",
+    "desc": "Riding onto the blistering inning by Shafali Verma and a strong bowling performance by Deepti Sharma, the Harmanpreet Kaur-led Indian women's cricket team defeated Bangladesh at the Dubai International Cricket Stadium on Thursday to storm into...",
     "img": "",
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/india-women-defeat-bangladesh-by-40-runs-storm-into-asia-cup-2026-final-2026-09-10-1053910",

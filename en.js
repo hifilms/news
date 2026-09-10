@@ -1,5 +1,122 @@
 const newsData_en = [
   {
+    "cat": "World",
+    "title": "Russian President Vladimir Putin arrives in New Delhi to attend BRICS summit",
+    "desc": "The summit in New Delhi is taking place against the backdrop of a global economy facing the adverse impacts of the Russia-Ukraine war, the West Asia crisis, especially the blockade of the Strait of Hormuz, and the Trump administration’s trade and tariff policies.",
+    "img": "https://th-i.thgim.com/public/incoming/f356g9/article71453609.ece/alternates/LANDSCAPE_1200/Screenshot%202026-09-11%20040839.png",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/russian-president-vladimir-putin-in-new-delhi-to-attend-brics-summit/article71453608.ece",
+    "time": "2026-09-10T22:45:51.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Jean Smart eyes Emmy Awards history; to win best ​comedy in every season",
+    "desc": "Jean Smart could make history at the upcoming Primetime Emmy Awards ceremony. Harrison Ford is also a contender for his first Emmy award at age eighty-four. The industry faces production cutbacks and concerns over artificial intelligence and a proposed Paramount Skydance purchase. \"The Pitt\" is favored to win best drama, while Noah Wyle is a leading contender for best actor. Michael J.",
+    "img": "https://static.toiimg.com/photo/msid-134034042,imgsize-259004.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/primetime-emmy-awards-2026-jean-smart-eyes-emmy-awards-histor-actress-to-win-best-comedy-in-every-season/articleshow/134031313.cms",
+    "time": "2026-09-10T22:22:00.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Four-day Kashmir film festival sharpens spotlight on filmmakers’ destination, local storytellers",
+    "desc": "Besides the screening of 120 movies from around 30 countries, scores of locals, including students, film enthusiasts, artists and filmmakers, were provided a platform to meet and learn from the big names of Bollywood like Ramesh Sippy, Vidhu Vinod Chopra, Imtiaz Ali etc.",
+    "img": "https://th-i.thgim.com/public/incoming/7k2g7/article71453596.ece/alternates/LANDSCAPE_1200/28-INTERNATIONAL-FILM-FESTIVAL-SGR-10-09-2026.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/four-day-kashmir-film-festival-sharpens-spotlight-on-filmmakers-destination-local-storytellers/article71453064.ece",
+    "time": "2026-09-10T21:49:34.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "At 85, former 'SMA' Nick Nolte returned to the red carpet after 4 years",
+    "desc": "At 85, Oscar-nominated actor Nick Nolte made his first red carpet appearance in four years at the Venice Film Festival. The former “Sexiest Man Alive” attended the premiere of Casey Affleck’s gothic anthology film Company, which received a four-minute ovation. Nolte’s return drew attention as he continues his celebrated career with another challenging role.",
+    "img": "https://static.toiimg.com/photo/msid-134027947,imgsize-69895.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/at-85-former-sexiest-man-alive-nick-nolte-returned-to-the-red-carpet-after-four-years-for-casey-afflecks-company-which-drew-a-4-minute-venice-ovation/articleshow/134027867.cms",
+    "time": "2026-09-10T19:40:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "BJP loses power in Paralam panchayat as LDF supports UDF no-trust motion",
+    "desc": "The 17-member council had six members each from the BJP and UDF, with the remaining seats held by the LDF. The BJP had secured power through a draw after the council was left evenly divided. BJP calls move a 'betrayal of the people’s mandate, Congress hails it as a victory for democracy",
+    "img": "https://via.placeholder.com/600x400?text=News",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/bjp-loses-power-in-paralam-panchayat-as-ldf-supports-udf-no-trust-motion/article71451362.ece",
+    "time": "2026-09-10T19:37:36.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "A wake-up call to keep the mind hale and hearty",
+    "desc": "On World Suicide Prevention Awareness Day, the Keralam chapter of the Indian Psychiatric Society launched ‘Susmitham – Mind Your Mind, Mental Health Matters’, a campaign aimed at making mental health conversations more open so that the stigma around mental health that prevents people from seeking timely professional help is dispelled",
+    "img": "https://th-i.thgim.com/public/incoming/ej0qkj/article71453384.ece/alternates/LANDSCAPE_1200/Mind%20your%20mind%20campaign.jpg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/kerala/a-wake-up-call-to-keep-the-mind-hale-and-hearty/article71451959.ece",
+    "time": "2026-09-10T19:36:29.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "The boom and bust of sporting culture in A.P.",
+    "desc": "A weightlifter’s bronze in Sydney remains the only Olympic medal present-day Andhra Pradesh can call its own. In Visakhapatnam, Paul Nicodemus reports how a State that had repeatedly built a system that produced medals, has over the years let it fall apart",
+    "img": "https://th-i.thgim.com/public/incoming/38ajgx/article71453285.ece/alternates/LANDSCAPE_1200/9604_10_9_2026_16_5_38_2_VSP11_HOCKEY2.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/the-boom-and-bust-of-sporting-culture-in-ap/article71453283.ece",
+    "time": "2026-09-10T19:32:35.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "Vowing to get justice for slain Manipuri musician, Rahul says violence has become fashionable among the powerful",
+    "desc": "Murder of musician Chongtham Vikram Singh in the national capital is not an isolated incident, says Mr. Gandhi; says he will not fight violence with violence, but will not be cowed down in the fight for justice",
+    "img": "https://th-i.thgim.com/public/incoming/qa41qn/article71453362.ece/alternates/LANDSCAPE_1200/RAHUL%20GANDHI%201.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/vowing-to-get-justice-for-slain-manipuri-musician-rahul-says-violence-has-become-fashionable-among-the-powerful/article71452640.ece",
+    "time": "2026-09-10T19:05:28.000Z"
+  },
+  {
+    "cat": "Business",
+    "title": "Opportunities high for Indian foundries to supply global players, say experts",
+    "desc": "Indian foundry sector has grown multi-fold over the past two decades and many multinational companies are looking for suppliers in India, which has the resilience to continue supplies despite global shocks such as the West Asia war, they say",
+    "img": "https://th-i.thgim.com/public/incoming/twhfis/article71452989.ece/alternates/LANDSCAPE_1200/2085_10_9_2026_19_14_0_1_IMG_20260910_WA0008.JPG",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/opportunities-high-for-indian-foundries-to-supply-global-players-say-experts/article71452953.ece",
+    "time": "2026-09-10T18:35:04.000Z"
+  },
+  {
+    "cat": "Politics",
+    "title": "NSCN-IM using Naga-Kuki tensions to divert attention, say Kuki-Zo insurgent groups",
+    "desc": "Seilen Haokip of Kuki National Organisation says there is a deliberate effort to spread violence beyond existing conflict zones and draw the Naga and Kuki communities into a broader confrontation. The objective includes reviving support for NSCN-IM, he says",
+    "img": "https://th-i.thgim.com/public/news/v6lll4/article71453015.ece/alternates/LANDSCAPE_1200/IMG_3825.jpeg",
+    "src": "thehindu.com",
+    "url": "https://www.thehindu.com/news/national/manipur/nscn-im-using-naga-kuki-tensions-to-divert-attention-say-kuki-zo-insurgent-groups/article71452985.ece",
+    "time": "2026-09-10T18:16:24.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "Shobhaa De fell asleep while watching 'Mirzapur': Spent Rs 900 on the ticket, Rs 260 on the bhel'",
+    "desc": "Veteran columnist Shobhaa De shared her critical review of the new Mirzapur movie. She questioned the film's necessity and expressed disappointment with its narrative direction. While praising Ravi Kishan and Ali Fazal, she found Pankaj Tripathi's performance monotonous. De also noted explicit scenes and excessive violence throughout the production. She concluded the film was not intended for her viewing audience.",
+    "img": "https://static.toiimg.com/photo/msid-134024618,imgsize-410087.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shobhaa-de-fell-asleep-while-watching-mirzapur-the-movie-spent-rs-on-the-ticket-rs-260-bhel-and-4-hours-wondering-why-i-was-watching-it-may-be-its-for-the-men/articleshow/134024092.cms",
+    "time": "2026-09-10T18:13:04.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Shafali stars with 64, Deepti strikes thrice as India storm into 10th Asia Cup final",
+    "desc": "India secured a dominant 40-run victory over Bangladesh to advance into the Women's Asia Cup 2026 final. Shafali Varma's explosive 64-run innings provided a strong foundation for India's competitive total. India's bowlers applied sustained pressure, restricting Bangladesh to 109 runs in their chase. Deepti Sharma was instrumental with the ball, claiming crucial wickets throughout the match. This win extends India's unbeaten streak and sends them to their tenth consecutive final.",
+    "img": "https://static.toiimg.com/photo/msid-134023518,imgsize-93772.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/shafali-stars-with-64-deepti-strikes-thrice-as-india-storm-into-10th-asia-cup-final-after-40-run-win-over-bangladesh/articleshow/134023444.cms",
+    "time": "2026-09-10T17:59:41.000Z"
+  },
+  {
+    "cat": "Entertainment",
+    "title": "‘I felt this must be it’",
+    "desc": "Saif Ali Khan discussed a 2025 stabbing incident at his Mumbai home. He now understands life's vulnerability and feels immense gratitude for survival. The attack prompted reflection on global inequality and the circumstances leading to crime. He admitted that some aspects of the violent experience remain difficult to process. Saif Ali Khan expressed a desire to forgive the accused attacker.",
+    "img": "https://static.toiimg.com/photo/msid-134023558,imgsize-192302.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saif-ali-khan-recalls-feeling-the-possibility-of-death-after-the-stabbing-incident-i-felt-this-must-be-it-but-my-takeaway-is-that-you-shouldnt-tempt-fate/articleshow/134023343.cms",
+    "time": "2026-09-10T17:51:31.000Z"
+  },
+  {
     "cat": "Politics",
     "title": "No statehood, Ladakh to get unique elected body, says Chief Secretary",
     "desc": "At a meeting with LAB and KDA, the Home Ministry discussed the proposed structure of the UT-level body under Article 371 was discussed; Ladakh leaders call the meeting a “waste of time and money”, they say the Ministry and the UT administration are not on the same page",
@@ -9,15 +126,6 @@ const newsData_en = [
     "time": "2026-09-10T17:49:28.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "J&K CM says ‘will follow law on Vande Mataram’; ‘unfortunate’, says Opposition PDP",
-    "desc": "Omar Abdullah’s remarks come after senior Congress leaders questioned him and his National Conference party leaders who stood for all stanzas of the song during its rendition at a ceremony of on September 7 in Srinagar",
-    "img": "https://th-i.thgim.com/public/incoming/j1c3f/article71453236.ece/alternates/LANDSCAPE_1200/20260902284L.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-cm-says-will-follow-law-onvande-mataram-unfortunate-says-opposition-pdp/article71452384.ece",
-    "time": "2026-09-10T17:30:11.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Shree Charani creates history at 22, becomes fastest Indian to 50 T20I wickets",
     "desc": "Shree Charani has made history by becoming the fastest Indian bowler to take fifty wickets in women's T20 internationals, completing this achievement in her twenty-ninth T20I appearance. This pivotal moment elevates her status among the world's top bowlers. Furthermore, India's journey in the Asia Cup semifinal has added to the excitement surrounding her performance in international cricket.",
@@ -25,15 +133,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/shree-charani-creates-history-at-22-becomes-fastest-indian-to-50-t20i-wickets/articleshow/134021088.cms",
     "time": "2026-09-10T17:06:30.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Tribal Affairs Secretary says community rights have potential to ‘strengthen gram sabha-led forest governance’",
-    "desc": "Union Tribal Affairs Secretary Ranjana Chopra’s remarks came at a regional conference in Bengaluru over the implementation of the Forest Rights Act, 2006, days after the Tribal Affairs Ministry’s own office memorandum, claiming that the FRA has “no provision for Gram Sabha consent” to divert forest land, led to severe criticism from Opposition leaders and Adivasi and forest dweller organisations alike",
-    "img": "https://th-i.thgim.com/public/incoming/rcacvw/article71453092.ece/alternates/LANDSCAPE_1200/STANDALONE_GBEGG68GGID7C.3.jpg.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/tribal-affairs-secretary-says-community-rights-have-potential-to-strengthen-gram-sabha-led-forest-governance/article71453008.ece",
-    "time": "2026-09-10T16:46:25.000Z"
   },
   {
     "cat": "World",
@@ -63,15 +162,6 @@ const newsData_en = [
     "time": "2026-09-10T16:34:36.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Three workers dead, 11 others injured as scaffolding collapses at under-construction church near Katpadi",
-    "desc": "Scaffolding was erected at an height of 20 feet to allow 20 workers to work on the top of the structure at Manji Krishnapuram. Among the deceased are Samuel 67, and his son Immanuel alias Kutty, 32.",
-    "img": "https://th-i.thgim.com/public/incoming/sjfga4/article71453063.ece/alternates/LANDSCAPE_1200/CHURCH%201.jpg",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/three-workers-dead-11-others-injured-as-scaffolding-collapses-at-under-construction-church-near-katpadi/article71452716.ece",
-    "time": "2026-09-10T16:29:51.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Nayyi Navelli’ teaser: Yami Gautam’s mysterious bride avatar leaves fans intrigued",
     "desc": "The highly anticipated teaser for Yami Gautam Dhar's upcoming fantasy film 'Nayyi Navelli' has officially launched. This intriguing film features a bride shrouded in mystery, intertwining elements of the supernatural with heartfelt family drama. Audiences are raving about Yami's captivating new look and the film's unique concept. Mark your calendars for October 16, 2026, when this enchanting family entertainer, starring Addinath M Kothare and Sunita Rajwar, hits theaters.",
@@ -99,15 +189,6 @@ const newsData_en = [
     "time": "2026-09-10T15:51:31.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "One Karnataka Mobility App launched to integrate State transport services",
-    "desc": "It aims to bring together the services of Karnataka State Road Transport Corporation (KSRTC), Bengaluru Metropolitan Transport Corporation (BMTC), North Western Karnataka Road Transport Corporation (NWKRTC) and Kalyana Karnataka Road Transport Corporation (KKRTC) on a single digital platform",
-    "img": "https://th-i.thgim.com/public/incoming/nxblsn/article71452954.ece/alternates/LANDSCAPE_1200/_KMK9678.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/karnataka/one-karnataka-mobility-app-launched-to-integrate-state-transport-services/article71451780.ece",
-    "time": "2026-09-10T15:51:02.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Jeremy Clarkson reveals he is in remission from aggressive prostate cancer",
     "desc": "Jeremy Clarkson has revealed that he is in remission following treatment for aggressive prostate cancer, but the Top Gear and Clarkson’s Farm star says he has no plans to completely overhaul the lifestyle he enjoys. The 66-year-old broadcaster has opened up about his diagnosis, treatment and decision to prioritise “joy in my old age”.",
@@ -117,24 +198,6 @@ const newsData_en = [
     "time": "2026-09-10T15:45:00.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Pollution from winter waste burning in cities three times higher than summer, study finds",
-    "desc": "Winter brings weaker winds, more stable atmospheric conditions and, in many places, temperature inversions that restrict the dispersion of pollutants; the World Resources Institute India study also attributes increased waste burning partly to its use for warmth, alongside seasonal waste disposal practices",
-    "img": "https://th-i.thgim.com/public/incoming/qwts8x/article71448835.ece/alternates/LANDSCAPE_1200/Dry_Garbage_burnt_ignorantly_DSC_7591.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/pollution-from-winter-waste-burning-in-cities-three-times-higher-than-summer-study-finds/article71448312.ece",
-    "time": "2026-09-10T15:39:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Two workers killed, five injured after church roof collapses in Tamil Nadu-A.P. border",
-    "desc": "The sudden structural collapse reportedly trapped around five to six construction workers under the heavy debris; a group of about two dozen workers, mostly from Ranipet and Katpadi in Tamil Nadu, were reportedly engaged in the slab work",
-    "img": "https://th-i.thgim.com/public/incoming/bdcgf2/article71452820.ece/alternates/LANDSCAPE_1200/10745_10_9_2026_19_17_29_1_IMG_20260910_WA0046.JPG",
-    "src": "thehindu.com",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/two-workers-killed-five-injured-after-church-roof-collapses-in-tamil-nadu-ap-border/article71452135.ece",
-    "time": "2026-09-10T15:35:50.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "‘Drishyam: The Conclusion’: Director reveals why Ravi Basrur replaced DSP as composer",
     "desc": "The Conclusion'. Devi Sri Prasad's other commitments made his availability difficult for the film. Basrur is known for his work on the 'KGF' and 'Salaar' franchises. The film will feature Ajay Devgn reprising his role as Vijay Salgaonkar. 'Drishyam: The Conclusion' is scheduled for a worldwide cinema release on October 2, 2026.",
@@ -142,15 +205,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/drishyam-the-conclusion-director-abhishek-pathak-explains-why-dsp-was-replaced-by-kgf-fame-ravi-basrur-i-needed-a-composer-who-would-have-sufficient-time/articleshow/134016868.cms",
     "time": "2026-09-10T15:18:11.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "Putin to land in Delhi in few hours; Xi arriving Saturday",
-    "desc": "The 18th BRICS Summit is set to take place in New Delhi on September 12-13, bringing together world leaders, including Vladimir Putin and Xi Jinping. With a focus on pivotal discussions surrounding economic cooperation, technology, energy, and global governance, the summit will address pressing issues such as food and energy security, alongside current global trade tensions. This gathering aims to strengthen resilience, innovation, and sustainable collaboration among member nations.",
-    "img": "https://static.toiimg.com/photo/msid-134016315,imgsize-107232.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/brics-summit-2026-pm-modi-says-all-set-putin-to-arrive-in-few-hours-top-developments/articleshow/134015100.cms",
-    "time": "2026-09-10T15:01:33.000Z"
   },
   {
     "cat": "Business",
@@ -196,15 +250,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-paradise-nani-and-srikanth-odela-film-completes-entire-shoot-ahead-of-september-24-theatrical-release/articleshow/134015693.cms",
     "time": "2026-09-10T14:45:41.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "How a Goldman Sachs acronym became a global power bloc",
-    "desc": "This September, New Delhi will play host to the 18th Brics Summit. With eleven member nations and ten partner countries added to its roster, Brics has matured from an economic idea born twenty-five years ago into a vital platform for the Global South. Discussions at the summit will focus on economic collaboration, technological advancements, and essential global governance challenges.",
-    "img": "https://static.toiimg.com/photo/msid-134015686,imgsize-47884.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/brics-turns-25-how-a-goldman-sachs-acronym-became-a-global-power-bloc/articleshow/134015484.cms",
-    "time": "2026-09-10T14:43:16.000Z"
   },
   {
     "cat": "Entertainment",
@@ -306,15 +351,6 @@ const newsData_en = [
     "time": "2026-09-10T12:26:52.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Red Fort bomber’s original target revealed; Xi Jinping to visit India for Brics summit, and more",
-    "desc": "Umar-un-Nabi, known for the Red Fort bombing, originally aimed at Lal Mandir but redirected due to traffic and police constraints. Notably, Chinese President Xi Jinping is set to visit India next month for the upcoming Brics summit. Meanwhile, Karnataka has instituted a mandate for the singing of Vande Mataram during state government events. Trump's strategies regarding voter ID and dividends resonate with India's election approaches.",
-    "img": "https://static.toiimg.com/photo/msid-134009632,imgsize-77977.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/evening-newswrap-red-fort-bombers-original-target-revealed-xi-jinping-to-visit-india-for-brics-summit-and-more/articleshow/134008881.cms",
-    "time": "2026-09-10T12:22:56.000Z"
-  },
-  {
     "cat": "Entertainment",
     "title": "Virat-Anushka in Neem Karoli Baba biopic? Producer reaches out for cameos",
     "desc": "'Hanuman Ansh' producer Namrata Singh has stirred fresh excitement around the franchise's future by hinting that cricketer Virat Kohli and actor Anushka Sharma could feature in cameo roles in the film's upcoming sequel. With the first instalment continuing its strong theatrical run, Singh has now shed light on how the trilogy's next two chapters are being envisioned, including a wider global arc that ties in some of the world's most recognisable names.",
@@ -342,33 +378,6 @@ const newsData_en = [
     "time": "2026-09-10T12:06:04.000Z"
   },
   {
-    "cat": "Entertainment",
-    "title": "Did You Know? ‘Sardar 2’ star Karthi and Mahesh Babu studied at the same Chennai school",
-    "desc": "Karthi and Mahesh Babu attended St Bede's school together, where Mahesh two years his senior. Both stars have made impressive marks in the industry, with Mahesh Babu set to star in the eagerly awaited 'Varanasi', directed by SS Rajamouli.",
-    "img": "https://static.toiimg.com/photo/msid-134008780,imgsize-851045.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/did-you-know-karthi-and-mahesh-babu-studied-together-sardar-2-star-and-varanasi-superstar-mahesh-babu-were-at-the-same-chennai-school/articleshow/134008160.cms",
-    "time": "2026-09-10T12:04:17.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "No 'Nitishpur'? JD(U) sidesteps NDA partner's proposal to rename Nitish Kumar's birthplace",
-    "desc": "Rejecting a proposal to rename Bakhtiyarpur, Nitish Kumar's birthplace, the JD(U) underscored its leader’s preference for action over name changes. They asserted that the town’s historical essence remains intact, regardless of its name. Meanwhile, the idea was met with mockery from the RJD, illustrating the ongoing political debate surrounding historical perceptions and the lasting impact of influential figures in society.",
-    "img": "https://static.toiimg.com/photo/msid-134008471,imgsize-37132.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/no-nitishpur-jdu-sidesteps-nda-partners-proposal-to-rename-nitish-kumars-birthplace/articleshow/134008064.cms",
-    "time": "2026-09-10T11:58:12.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "How BJP, Congress turned 80s AI trend turned into an all-out meme war",
-    "desc": "A new social media phenomenon has politicians reimagining their current images as vibrant 1980s portraits using AI technology. This trend has quickly morphed into a creative form of political satire, with the BJP and Congress leveraging it to exchange jabs. Leaders like Piyush Goyal and Kiren Rijiju are riding the retro wave, and even Rahul Gandhi has joined the fray with quirky AI-generated images.",
-    "img": "https://static.toiimg.com/photo/msid-134008107,imgsize-1168929.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/how-bjp-congress-turned-80s-ai-trend-turned-into-an-all-out-meme-war/articleshow/134005184.cms",
-    "time": "2026-09-10T11:51:05.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "Purple cap at 40, now Tahir breaks world record at 47; becomes oldest to take 5-wicket",
     "desc": "Imran Tahir made history by taking a phenomenal five-wicket haul in the Caribbean Premier League, earning the title of the oldest cricketer to achieve such a milestone in men's T20 cricket. This outstanding performance not only led the Guyana Amazon Warriors to victory but also demonstrates his unwavering passion for the game, fueled by encouragement from his son. This achievement further embellishes his rich T20 legacy.",
@@ -376,24 +385,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/he-won-ipl-purple-cap-at-age-40-now-imran-tahir-breaks-world-record-at-47-becomes-the-oldest-to-take-five-wicket-haul-in-t20s/articleshow/134005545.cms",
     "time": "2026-09-10T11:26:17.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "'Shah Rukh Khan was full of Delhi harkatein, cocky, confident,' recalls his 'Baazigar' co-star Dalip",
-    "desc": "Dalip Tahil shared memories of Shah Rukh Khan's early career days. He described the young actor's confident Delhi demeanor which helped him stand out. A humorous anecdote highlighted how unfamiliar Shah Rukh's name was to the public then. Tahil also fondly remembered filming exciting car sequences for Baazigar. The cast enjoyed their time racing and competing on the tracks.",
-    "img": "https://static.toiimg.com/photo/msid-134008072,imgsize-567421.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-was-full-of-delhi-harkatein-cocky-confident-recalls-his-baazigar-co-star-dalip-tahil-in-this-profession-those-attributes-work-for-you/articleshow/134005450.cms",
-    "time": "2026-09-10T11:09:28.000Z"
-  },
-  {
-    "cat": "Politics",
-    "title": "BSP's family drama: Why no 'Anand' for Mayawati ahead of Uttar Pradesh elections?",
-    "desc": "Amid political turmoil, Akash Anand has again been demoted by Mayawati, who has questioned her nephew's maturity. His X profile has devolved from National Convenor to Party Worker and now to Supporter. His younger sibling, Ishan Anand, has been brought to the centre stage. Mayawati freed Akash political prospects to his father-in-law's exit from the scene, as the BSP confronts a challenging landscape with dwindling votes and approaching UP elections.",
-    "img": "https://static.toiimg.com/photo/msid-134013456,imgsize-1187187.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/a-sanyas-condition-for-bsps-anand-can-mayawati-afford-family-drama-ahead-of-up-elections/articleshow/134001540.cms",
-    "time": "2026-09-10T11:05:30.000Z"
   },
   {
     "cat": "Business",
@@ -423,24 +414,6 @@ const newsData_en = [
     "time": "2026-09-10T10:54:23.000Z"
   },
   {
-    "cat": "Politics",
-    "title": "Delhi court orders framing of charges against Lalu, Rabri Devi and Tejashwi",
-    "desc": "A Delhi court has formally charged Lalu Prasad Yadav and several associates in connection with the alleged money laundering linked to IRCTC hotels. Rabri Devi and Tejashwi Yadav are implicated as well, facing accusations of conspiracy and cheating. The court indicated substantial evidence of tampering with the tender process, paving the way for the case to advance to trial following the charge framing.",
-    "img": "https://static.toiimg.com/photo/msid-134004780,imgsize-47272.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/india/irctc-scam-case-delhi-court-orders-framing-of-charges-against-lalu-rabri-devi-and-tejashwi/articleshow/134003181.cms",
-    "time": "2026-09-10T10:41:46.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Samantha says she had no idea about her Rs 1.5 crore engagement ring, it was all Raj",
-    "desc": "In a charming revelation, Samantha Ruth Prabhu disclosed that Raj Nidimoru picked out her stunning engagement ring without her knowing. The luxurious lozenge-cut diamond, crafted by a friend in Greece, boasts a value of around Rs 1.5 crore. This remarkable piece features eight elegant portrait-cut diamond petals. Samantha and Raj celebrated their love in a private ceremony on December 1, 2025.",
-    "img": "https://static.toiimg.com/photo/msid-134004740,imgsize-296232.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/samantha-ruth-prabhu-says-she-had-no-idea-about-her-rs-1-5-crore-lozenge-cut-diamong-engagement-ring-it-was-raj-nidimoru-who-chose-it-its-all-him-i-had-no-part/articleshow/134004358.cms",
-    "time": "2026-09-10T10:39:24.000Z"
-  },
-  {
     "cat": "Sports",
     "title": "The staggering $1.11 billion gap",
     "desc": "Cristiano Ronaldo's impressive wealth of $1.2 billion dwarfs Travis Kelce's $90 million fortune. This staggering sum is primarily due to his rich contract with Al Nassr and a plethora of global business endeavors. Kelce, on the other hand, generates income from his NFL career, endorsements, and the success of his podcast 'New Heights'. With his recent relationship with Taylor Swift, his marketability has soared, leading to numerous new opportunities.",
@@ -448,15 +421,6 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/sports/off-the-field/cristiano-ronaldo-vs-travis-kelce-the-stunning-1-11-billion-net-worth-gap-between-the-football-icon-and-kansas-city-chiefs-superstar/articleshow/133997053.cms",
     "time": "2026-09-10T10:30:00.000Z"
-  },
-  {
-    "cat": "Entertainment",
-    "title": "Deepika wore outfit worth Rs 48,000 for maternity shoot with Ranveer, Dua",
-    "desc": "Deepika Padukone and Ranveer Singh shared intimate maternity photos on daughter Dua's birthday. The couple proudly displayed Deepika's baby bump as they prepare for their second child. Celebrities and fans sent warm congratulatory messages and blessings to the growing family. Deepika's elegant white lace maternity outfit garnered significant attention from followers. The couple had previously announced their second pregnancy in April.",
-    "img": "https://static.toiimg.com/photo/msid-134003330,imgsize-341250.cms",
-    "src": "indiatimes.com",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-wore-outfit-worth-rs-48000-with-intricate-lace-detailing-and-cut-work-for-her-maternity-shoot-with-ranveer-singh-and-baby-dua-details-inside/articleshow/134003154.cms",
-    "time": "2026-09-10T10:02:09.000Z"
   },
   {
     "cat": "Tech",
@@ -898,5 +862,23 @@ const newsData_en = [
     "src": "indiatimes.com",
     "url": "https://timesofindia.indiatimes.com/gadgets-news/moto-g54-receives-a-price-cut-in-india-heres-how-much-the-smartphone-costs/articleshow/108392072.cms",
     "time": "2024-03-11T09:36:12.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "How Apple’s Find My app ‘cost’ a US city millions of dollars",
+    "desc": "Denver city pays $3.76 million in damages due to a wrongful raid caused by Apple's Find My app. An elderly woman's home was mistakenly raided by the police while searching for a stolen truck loaded with guns, ammo, and cash, as reported by CNN. Ruby Johnson filed a lawsuit against Detective Gary Staab and Sgt. Gregory Buschy.",
+    "img": "https://static.toiimg.com/photo/msid-108391384,imgsize-32098.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/how-apples-find-my-app-cost-a-us-city-millions-of-dollars/articleshow/108374148.cms",
+    "time": "2024-03-11T09:19:46.000Z"
+  },
+  {
+    "cat": "Tech",
+    "title": "Former Activision boss reportedly wants to buy TikTok",
+    "desc": "Bobby Kotick, former head of Activision Blizzard, may buy TikTok amid its potential US ban. A bill to sell TikTok is introduced, backed by President Biden. Kotick discussed acquisition with OpenAI head. Activision Blizzard faced a lawsuit. Concerns about data privacy and ties to China persist. TikTok urges American users to support it.",
+    "img": "https://static.toiimg.com/photo/msid-108390931,imgsize-805976.cms",
+    "src": "indiatimes.com",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/former-activision-boss-reportedly-wants-to-buy-tiktok/articleshow/108390971.cms",
+    "time": "2024-03-11T09:08:25.000Z"
   }
 ];
