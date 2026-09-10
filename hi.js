@@ -1,6 +1,51 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Zverev qualifies for US Open semis in straight sets after staying up late to watch Shelton vs Alcaraz",
+    "desc": "Alexander Zverev reached the US Open semi-finals for the first time after defeating Botic van de Zandschulp in straight sets. The German top seed defeated the Dutchman 6-2, 7-5, 6-1 during the night session on...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/tennis/alexander-zverev-qualifies-for-us-open-semis-in-straight-sets-after-staying-up-late-to-watch-shelton-vs-alcaraz-2026-09-10-1053849",
+    "time": "2026-09-10T07:42:47.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India's 19-goal blitz leaves Pakistan shell-shocked, seals Junior Asia Cup semi-final spot",
+    "desc": "India stormed into the semi-finals of the Women’s Junior Asia Cup 2026 after producing a record-breaking 19-0 quarter-final victory over Pakistan in Moqi, China. The defending champions were in complete control from the opening stages...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/hockey/india-s-19-goal-blitz-leaves-pakistan-shell-shocked-seals-junior-asia-cup-semi-final-spot-2026-09-10-1053845",
+    "time": "2026-09-10T06:53:09.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Fulham manager Alvaro Arbeloa demands more courage, personality from players",
+    "desc": "After a difficult tenure with Real Madrid, Alvaro Arbeloa joined Fulham in the summer as the new head coach of the Premier League side. However, his team suffered three consecutive defeats and is currently in...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/fulham-manager-alvaro-arbeloa-demands-more-courage-personality-from-players-2026-09-10-1053836",
+    "time": "2026-09-10T05:47:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Pakistan U-19 team mistaken for group of asylum seekers during England tour, protestors gather outside hotel",
+    "desc": "Pakistan U-19 team faced major controversy after a protest was staged outside their hotel in Portsmouth. The visiting players were reportedly mistaken for asylum seekers, which prompted a group of people to gather at the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/pakistan-u-19-team-mistaken-for-group-of-asylum-seekers-during-england-tour-protestors-gather-outside-hotel-2026-09-10-1053828",
+    "time": "2026-09-10T04:46:05.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Brazil announce star-studded squad for India friendly; Vinicius Jr, Raphinha, Gabriel Magalhaes to feature",
+    "desc": "Brazil have announced a full-strength squad for upcoming friendlies against Australia and India. The star footballers, including Real Madrid’s Vinicius Junior and Endrick, Barcelona’s Raphinha, Arsenal’s Gabriel Magalhaes and Bruno Guimaraes, Paris Saint-Germain’s captain Marquinhos...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/football/brazil-announce-star-studded-squad-for-india-friendly-vinicius-jr-raphinha-gabriel-magalhaes-to-feature-2026-09-10-1053824",
+    "time": "2026-09-10T04:17:47.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "South Africa's Jordan Hermann matches world record on ODI debut against Namibia",
     "desc": "South Africa opener Jordan Hermann matched the world record for most runs scored in an innings on ODI debut. The 24-year-old slammed 150 runs against Namibia in the first of the three-match series in Windhoek....",
     "img": "",
@@ -34,50 +79,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-returns-as-india-a-announce-squad-for-australia-a-series-in-puducherry-2026-09-09-1053756",
     "time": "2026-09-09T09:40:46.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Asian Games at risk? Hundreds of athletes forced to evacuate after severe flooding in Japan's Nagoya",
-    "desc": "Flooding in Japan’s Nagoya has put the upcoming Asian Games at risk. Hundreds of athletes staying there for the event were temporarily moved to safer ground after record rainfall in the city. Around 104mm of...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/other/asian-games-at-risk-hundreds-of-athletes-forced-to-evacuate-after-severe-flooding-in-japan-s-nagoya-watch-2026-09-09-1053744",
-    "time": "2026-09-09T07:40:23.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Indian hockey teams to return to blue jersey at Asian Games; Tirkey says saffron was 'not permanent'",
-    "desc": "India’s hockey teams will return to blue jerseys at the Asian Games 2026. They switched to saffron and white for the Hockey World Cup in Belgium, which triggered enormous criticism on social media. Several former...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/hockey/indian-hockey-teams-to-return-to-blue-jersey-at-asian-games-tirkey-says-saffron-was-not-permanent-2026-09-09-1053735",
-    "time": "2026-09-09T06:46:31.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Borussia Dortmund midfielder Konstantinos Karetsas hospitalised after collapsing on ground during UCL tie",
-    "desc": "Borussia Dortmund midfielder Konstantinos Karetsas collapsed on the ground during their UEFA Champions League match against Spanish side Villarreal. The incident happened in the 25th minute after the Greece international completed a pass and alerted...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/borussia-dortmund-midfielder-konstantinos-karetsas-hospitalised-after-collapsing-on-ground-during-ucl-tie-2026-09-09-1053729",
-    "time": "2026-09-09T06:12:53.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "India to send star-studded team to Asian Games, BCCI finally happy with accommodation arrangement",
-    "desc": "BCCI officials were reportedly unhappy with the accommodation that was on offer for the Indian cricket team for the Asian Games. Apart from India, several other countries also raised the issue. However, with two weeks...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/india-to-send-star-studded-team-to-asian-games-bcci-finally-happy-with-accommodation-arrangement-2026-09-09-1053724",
-    "time": "2026-09-09T05:21:50.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "'I want to prove a point': Cole Palmer raring to go for Chelsea once more after lengthy injury layoff",
-    "desc": "The Premier League 2026-27 season has got off to a good start for Chelsea FC. Having played three games in the season, Chelsea have managed to register two wins and registered their first loss against...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/i-want-to-prove-a-point-cole-palmer-raring-to-go-for-chelsea-once-more-after-lengthy-injury-layoff-2026-09-08-1053681",
-    "time": "2026-09-08T13:37:22.000Z"
   }
 ];
