@@ -1,6 +1,60 @@
 const newsData_hi = [
   {
     "cat": "Sports",
+    "title": "Delhi Police requests DDCA to postpone India's opening T20I against Afghanistan, explains reason",
+    "desc": "Delhi Police has requested Delhi and District Cricket Association (DDCA) to reschedule India’s opening T20I against Afghanistan at the Arun Jaitley Stadium on Sunday, September 13. In an official letter, Delhi Police mentioned that they...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/delhi-police-requests-ddca-to-postpone-india-s-opening-t20i-against-afghanistan-explains-reason-2026-09-10-1053894",
+    "time": "2026-09-10T12:52:38.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Finn Allen switches from Perth Scorchers to Melbourne Stars in record-breaking deal",
+    "desc": "Finn Allen has left Perth Scorchers for Melbourne Stars in a move that could become the biggest player contract in Big Bash League history. The New Zealand opener reportedly agreed to a three-year deal worth...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/finn-allen-switches-from-perth-scorchers-to-melbourne-stars-in-record-breaking-deal-2026-09-10-1053886",
+    "time": "2026-09-10T12:22:07.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Selaqui Strikers lift first-ever Dehradun T20 League after Vijay Sharma's unbeaten 31-ball 103",
+    "desc": "Selaqui Strikers became the first champions of the Dehradun T20 League after defeating Mussoorie Thunders by 39 runs in a rain-shortened final at Abhimanyu Cricket Academy in Dehradun. The match was reduced to 16 overs...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/selaqui-strikers-lift-first-ever-dehradun-t20-league-after-vijay-sharma-s-unbeaten-31-ball-103-2026-09-10-1053881",
+    "time": "2026-09-10T11:22:01.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "Rohit Sharma refuses to comment on ODI World Cup 2027 plans, keeps door open",
+    "desc": "Star India batter Rohit Sharma has declined to commit himself to India’s 2027 World Cup campaign. He left his international future open as questions continue to grow over his place in the ODI team. When...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/rohit-sharma-refuses-to-comment-on-odi-world-cup-2027-plans-keeps-door-open-2026-09-10-1053874",
+    "time": "2026-09-10T10:38:11.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "East Zone lift Duleep Trophy title for first time in 13 years after dominant batting show",
+    "desc": "East Zone ended a 13-year wait for the Duleep Trophy title after securing a decisive victory over South Zone at the MA Chidambaram Stadium in Chennai. The Ishan Kishan-led side posted 708 runs on the...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/east-zone-lift-duleep-trophy-title-for-first-time-in-13-years-after-dominant-batting-show-2026-09-10-1053868",
+    "time": "2026-09-10T09:50:36.000Z"
+  },
+  {
+    "cat": "Sports",
+    "title": "India make one change to Asian Games, Afghanistan series squad after pacer ruled out; Bumrah declared fit",
+    "desc": "Jasprit Bumrah has been cleared to return to India’s T20I setup for the upcoming series against Afghanistan and the Asian Games 2026. He has been out of action since the ODI series against England. He missed...",
+    "img": "",
+    "src": "indiatvnews.com",
+    "url": "https://www.indiatvnews.com/sports/cricket/india-make-one-change-to-asian-games-afghanistan-series-squad-after-pacer-ruled-out-bumrah-declared-fit-2026-09-10-1053860",
+    "time": "2026-09-10T08:28:18.000Z"
+  },
+  {
+    "cat": "Sports",
     "title": "Zverev qualifies for US Open semis in straight sets after staying up late to watch Shelton vs Alcaraz",
     "desc": "Alexander Zverev reached the US Open semi-finals for the first time after defeating Botic van de Zandschulp in straight sets. The German top seed defeated the Dutchman 6-2, 7-5, 6-1 during the night session on...",
     "img": "",
@@ -34,50 +88,5 @@ const newsData_hi = [
     "src": "indiatvnews.com",
     "url": "https://www.indiatvnews.com/sports/cricket/pakistan-u-19-team-mistaken-for-group-of-asylum-seekers-during-england-tour-protestors-gather-outside-hotel-2026-09-10-1053828",
     "time": "2026-09-10T04:46:05.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Brazil announce star-studded squad for India friendly; Vinicius Jr, Raphinha, Gabriel Magalhaes to feature",
-    "desc": "Brazil have announced a full-strength squad for upcoming friendlies against Australia and India. The star footballers, including Real Madrid’s Vinicius Junior and Endrick, Barcelona’s Raphinha, Arsenal’s Gabriel Magalhaes and Bruno Guimaraes, Paris Saint-Germain’s captain Marquinhos...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/football/brazil-announce-star-studded-squad-for-india-friendly-vinicius-jr-raphinha-gabriel-magalhaes-to-feature-2026-09-10-1053824",
-    "time": "2026-09-10T04:17:47.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "South Africa's Jordan Hermann matches world record on ODI debut against Namibia",
-    "desc": "South Africa opener Jordan Hermann matched the world record for most runs scored in an innings on ODI debut. The 24-year-old slammed 150 runs against Namibia in the first of the three-match series in Windhoek....",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/south-africa-s-jordan-hermann-matches-world-record-on-odi-debut-against-namibia-2026-09-09-1053783",
-    "time": "2026-09-09T14:03:21.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Joe Root moves step closer to breaking Sachin Tendulkar's legendary world record",
-    "desc": "England captain Joe Root moved to third place on the list of most Test matches played by an individual. On Wednesday, September 9, he surpassed Steve Waugh and Ricky Ponting to move a step closer...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/joe-root-moves-step-closer-to-breaking-sachin-tendulkar-s-legendary-world-record-2026-09-09-1053775",
-    "time": "2026-09-09T13:03:03.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Lakshya Raichandani, India U19 captain, vows to put team above spotlight around Anvay Dravid, Aaryavir Sehwag",
-    "desc": "Lakshya Raichandani has been named India U19 captain for the upcoming series against Australia U19, starting September 18. A top-order batter who also bowls right-arm off-spin, Raichandani has risen through local developmental competitions to earn...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/lakshya-raichandani-india-u19-captain-vows-to-put-team-above-spotlight-around-samit-dravid-aaryavir-sehwag-exclusive-2026-09-09-1053770",
-    "time": "2026-09-09T12:01:09.000Z"
-  },
-  {
-    "cat": "Sports",
-    "title": "Hardik Pandya returns as India A announce squad for Australia A series in Puducherry",
-    "desc": "Hardik Pandya is set for a potential return to competitive cricket after a five-month absence. He last featured for Mumbai Indians in the Indian Premier League and has been out of action since. He is...",
-    "img": "",
-    "src": "indiatvnews.com",
-    "url": "https://www.indiatvnews.com/sports/cricket/hardik-pandya-returns-as-india-a-announce-squad-for-australia-a-series-in-puducherry-2026-09-09-1053756",
-    "time": "2026-09-09T09:40:46.000Z"
   }
 ];
